@@ -1,0 +1,10 @@
+model,mean_auc,std
+XGBoost,0.5,0.0
+CatBoost,0.5,0.0
+Stacking,0.5,0.0
+GradientBoosting,0.5,0.0
+LightGBM,,
+RandomForest,,
+ExtraTrees,,
+AdaBoost,,
+KNN,,
