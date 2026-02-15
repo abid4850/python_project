@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Northern Districts
+info,gender,male
+info,season,2024/25
+info,date,2025/01/28
+info,event,Super Smash
+info,match_number,28
+info,venue,"Hagley Oval, Christchurch"
+info,city,Christchurch
+info,toss_winner,Canterbury
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,BS Wilson
+info,reserve_umpire,RG Dalley
+info,tv_umpire,Damian Morrow
+info,match_referee,SB O'Connor
+info,winner,Canterbury
+info,winner_runs,56
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,MWT Boyle
+info,player,Canterbury,DJ Mitchell
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,KA Jamieson
+info,player,Canterbury,IS Sodhi
+info,player,Canterbury,W O'Rourke
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,BJ Pomare
+info,player,Northern Districts,RR O'Donnell
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,KDC Clarke
+info,player,Northern Districts,N Wagner
+info,player,Northern Districts,FL Walker
+info,player,Northern Districts,MJ Fisher
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Pomare,0398f255
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,FL Walker,e6e154e3
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JF Carter,125fa4de
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,KDC Clarke,1e1a8922
+info,registry,people,MJ Fisher,7068c81e
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MWT Boyle,b42d5053
+info,registry,people,N Wagner,78adc879
+info,registry,people,RG Dalley,c147335d
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SB O'Connor,4e80ab93
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,ZGF Foulkes,30f92334
+ball,1,0.1,Canterbury,CJ Bowes,TWM Latham,KDC Clarke,0,0,,,,,,"",""
+ball,1,0.2,Canterbury,CJ Bowes,TWM Latham,KDC Clarke,0,0,,,,,,"",""
+ball,1,0.3,Canterbury,CJ Bowes,TWM Latham,KDC Clarke,6,0,,,,,,"",""
+ball,1,0.4,Canterbury,CJ Bowes,TWM Latham,KDC Clarke,0,0,,,,,,"",""
+ball,1,0.5,Canterbury,CJ Bowes,TWM Latham,KDC Clarke,0,0,,,,,,"",""
+ball,1,0.6,Canterbury,CJ Bowes,TWM Latham,KDC Clarke,1,0,,,,,,"",""
+ball,1,1.1,Canterbury,CJ Bowes,TWM Latham,MJ Fisher,1,0,,,,,,"",""
+ball,1,1.2,Canterbury,TWM Latham,CJ Bowes,MJ Fisher,0,0,,,,,,"",""
+ball,1,1.3,Canterbury,TWM Latham,CJ Bowes,MJ Fisher,0,1,,,,1,,"",""
+ball,1,1.4,Canterbury,CJ Bowes,TWM Latham,MJ Fisher,0,0,,,,,,"",""
+ball,1,1.5,Canterbury,CJ Bowes,TWM Latham,MJ Fisher,0,0,,,,,,bowled,CJ Bowes
+ball,1,1.6,Canterbury,MWT Boyle,TWM Latham,MJ Fisher,0,0,,,,,,"",""
+ball,1,2.1,Canterbury,TWM Latham,MWT Boyle,BR Hampton,0,0,,,,,,"",""
+ball,1,2.2,Canterbury,TWM Latham,MWT Boyle,BR Hampton,1,0,,,,,,"",""
+ball,1,2.3,Canterbury,MWT Boyle,TWM Latham,BR Hampton,0,0,,,,,,"",""
+ball,1,2.4,Canterbury,MWT Boyle,TWM Latham,BR Hampton,0,1,1,,,,,"",""
+ball,1,2.5,Canterbury,MWT Boyle,TWM Latham,BR Hampton,1,0,,,,,,"",""
+ball,1,2.6,Canterbury,TWM Latham,MWT Boyle,BR Hampton,1,0,,,,,,"",""
+ball,1,2.7,Canterbury,MWT Boyle,TWM Latham,BR Hampton,1,0,,,,,,"",""
+ball,1,3.1,Canterbury,MWT Boyle,TWM Latham,MJ Fisher,0,0,,,,,,"",""
+ball,1,3.2,Canterbury,MWT Boyle,TWM Latham,MJ Fisher,4,0,,,,,,"",""
+ball,1,3.3,Canterbury,MWT Boyle,TWM Latham,MJ Fisher,0,0,,,,,,"",""
+ball,1,3.4,Canterbury,MWT Boyle,TWM Latham,MJ Fisher,4,0,,,,,,"",""
+ball,1,3.5,Canterbury,MWT Boyle,TWM Latham,MJ Fisher,0,0,,,,,,"",""
+ball,1,3.6,Canterbury,MWT Boyle,TWM Latham,MJ Fisher,0,0,,,,,,"",""
+ball,1,4.1,Canterbury,TWM Latham,MWT Boyle,BR Hampton,1,0,,,,,,"",""
+ball,1,4.2,Canterbury,MWT Boyle,TWM Latham,BR Hampton,0,0,,,,,,"",""
+ball,1,4.3,Canterbury,MWT Boyle,TWM Latham,BR Hampton,1,0,,,,,,"",""
+ball,1,4.4,Canterbury,TWM Latham,MWT Boyle,BR Hampton,0,0,,,,,,caught,TWM Latham
+ball,1,4.5,Canterbury,DJ Mitchell,MWT Boyle,BR Hampton,0,1,1,,,,,"",""
+ball,1,4.6,Canterbury,DJ Mitchell,MWT Boyle,BR Hampton,1,0,,,,,,"",""
+ball,1,4.7,Canterbury,MWT Boyle,DJ Mitchell,BR Hampton,4,0,,,,,,"",""
+ball,1,5.1,Canterbury,DJ Mitchell,MWT Boyle,MJ Fisher,1,0,,,,,,"",""
+ball,1,5.2,Canterbury,MWT Boyle,DJ Mitchell,MJ Fisher,6,0,,,,,,"",""
+ball,1,5.3,Canterbury,MWT Boyle,DJ Mitchell,MJ Fisher,4,0,,,,,,"",""
+ball,1,5.4,Canterbury,MWT Boyle,DJ Mitchell,MJ Fisher,2,0,,,,,,"",""
+ball,1,5.5,Canterbury,MWT Boyle,DJ Mitchell,MJ Fisher,0,0,,,,,,"",""
+ball,1,5.6,Canterbury,MWT Boyle,DJ Mitchell,MJ Fisher,1,0,,,,,,"",""
+ball,1,6.1,Canterbury,MWT Boyle,DJ Mitchell,N Wagner,0,0,,,,,,"",""
+ball,1,6.2,Canterbury,MWT Boyle,DJ Mitchell,N Wagner,4,0,,,,,,"",""
+ball,1,6.3,Canterbury,MWT Boyle,DJ Mitchell,N Wagner,1,0,,,,,,"",""
+ball,1,6.4,Canterbury,DJ Mitchell,MWT Boyle,N Wagner,1,0,,,,,,"",""
+ball,1,6.5,Canterbury,MWT Boyle,DJ Mitchell,N Wagner,1,0,,,,,,"",""
+ball,1,6.6,Canterbury,DJ Mitchell,MWT Boyle,N Wagner,2,0,,,,,,"",""
+ball,1,7.1,Canterbury,MWT Boyle,DJ Mitchell,KDC Clarke,0,0,,,,,,"",""
+ball,1,7.2,Canterbury,MWT Boyle,DJ Mitchell,KDC Clarke,1,0,,,,,,"",""
+ball,1,7.3,Canterbury,DJ Mitchell,MWT Boyle,KDC Clarke,0,0,,,,,,"",""
+ball,1,7.4,Canterbury,DJ Mitchell,MWT Boyle,KDC Clarke,1,0,,,,,,"",""
+ball,1,7.5,Canterbury,MWT Boyle,DJ Mitchell,KDC Clarke,1,0,,,,,,"",""
+ball,1,7.6,Canterbury,DJ Mitchell,MWT Boyle,KDC Clarke,0,0,,,,,,"",""
+ball,1,8.1,Canterbury,MWT Boyle,DJ Mitchell,MJ Santner,1,0,,,,,,"",""
+ball,1,8.2,Canterbury,DJ Mitchell,MWT Boyle,MJ Santner,0,0,,,,,,"",""
+ball,1,8.3,Canterbury,DJ Mitchell,MWT Boyle,MJ Santner,1,0,,,,,,"",""
+ball,1,8.4,Canterbury,MWT Boyle,DJ Mitchell,MJ Santner,4,0,,,,,,"",""
+ball,1,8.5,Canterbury,MWT Boyle,DJ Mitchell,MJ Santner,1,0,,,,,,"",""
+ball,1,8.6,Canterbury,DJ Mitchell,MWT Boyle,MJ Santner,1,0,,,,,,"",""
+ball,1,9.1,Canterbury,DJ Mitchell,MWT Boyle,BR Hampton,1,0,,,,,,"",""
+ball,1,9.2,Canterbury,MWT Boyle,DJ Mitchell,BR Hampton,1,0,,,,,,"",""
+ball,1,9.3,Canterbury,DJ Mitchell,MWT Boyle,BR Hampton,1,0,,,,,,"",""
+ball,1,9.4,Canterbury,MWT Boyle,DJ Mitchell,BR Hampton,4,0,,,,,,"",""
+ball,1,9.5,Canterbury,MWT Boyle,DJ Mitchell,BR Hampton,1,0,,,,,,"",""
+ball,1,9.6,Canterbury,DJ Mitchell,MWT Boyle,BR Hampton,1,0,,,,,,"",""
+ball,1,10.1,Canterbury,DJ Mitchell,MWT Boyle,FL Walker,1,0,,,,,,"",""
+ball,1,10.2,Canterbury,MWT Boyle,DJ Mitchell,FL Walker,1,0,,,,,,"",""
+ball,1,10.3,Canterbury,DJ Mitchell,MWT Boyle,FL Walker,3,0,,,,,,"",""
+ball,1,10.4,Canterbury,MWT Boyle,DJ Mitchell,FL Walker,1,0,,,,,,"",""
+ball,1,10.5,Canterbury,DJ Mitchell,MWT Boyle,FL Walker,6,0,,,,,,"",""
+ball,1,10.6,Canterbury,DJ Mitchell,MWT Boyle,FL Walker,0,0,,,,,,"",""
+ball,1,11.1,Canterbury,MWT Boyle,DJ Mitchell,MJ Fisher,1,0,,,,,,"",""
+ball,1,11.2,Canterbury,DJ Mitchell,MWT Boyle,MJ Fisher,1,0,,,,,,"",""
+ball,1,11.3,Canterbury,MWT Boyle,DJ Mitchell,MJ Fisher,6,0,,,,,,"",""
+ball,1,11.4,Canterbury,MWT Boyle,DJ Mitchell,MJ Fisher,4,0,,,,,,"",""
+ball,1,11.5,Canterbury,MWT Boyle,DJ Mitchell,MJ Fisher,1,0,,,,,,"",""
+ball,1,11.6,Canterbury,DJ Mitchell,MWT Boyle,MJ Fisher,1,0,,,,,,"",""
+ball,1,12.1,Canterbury,DJ Mitchell,MWT Boyle,MJ Santner,2,0,,,,,,"",""
+ball,1,12.2,Canterbury,DJ Mitchell,MWT Boyle,MJ Santner,1,0,,,,,,"",""
+ball,1,12.3,Canterbury,MWT Boyle,DJ Mitchell,MJ Santner,1,0,,,,,,"",""
+ball,1,12.4,Canterbury,DJ Mitchell,MWT Boyle,MJ Santner,0,1,1,,,,,"",""
+ball,1,12.5,Canterbury,DJ Mitchell,MWT Boyle,MJ Santner,6,0,,,,,,"",""
+ball,1,12.6,Canterbury,DJ Mitchell,MWT Boyle,MJ Santner,1,0,,,,,,"",""
+ball,1,12.7,Canterbury,MWT Boyle,DJ Mitchell,MJ Santner,1,0,,,,,,"",""
+ball,1,13.1,Canterbury,MWT Boyle,DJ Mitchell,N Wagner,1,0,,,,,,"",""
+ball,1,13.2,Canterbury,DJ Mitchell,MWT Boyle,N Wagner,1,0,,,,,,"",""
+ball,1,13.3,Canterbury,MWT Boyle,DJ Mitchell,N Wagner,1,0,,,,,,"",""
+ball,1,13.4,Canterbury,DJ Mitchell,MWT Boyle,N Wagner,4,0,,,,,,"",""
+ball,1,13.5,Canterbury,DJ Mitchell,MWT Boyle,N Wagner,6,0,,,,,,"",""
+ball,1,13.6,Canterbury,DJ Mitchell,MWT Boyle,N Wagner,1,0,,,,,,"",""
+ball,1,14.1,Canterbury,DJ Mitchell,MWT Boyle,MJ Santner,1,0,,,,,,"",""
+ball,1,14.2,Canterbury,MWT Boyle,DJ Mitchell,MJ Santner,0,0,,,,,,caught,MWT Boyle
+ball,1,14.3,Canterbury,CE McConchie,DJ Mitchell,MJ Santner,0,0,,,,,,"",""
+ball,1,14.4,Canterbury,CE McConchie,DJ Mitchell,MJ Santner,0,0,,,,,,"",""
+ball,1,14.5,Canterbury,CE McConchie,DJ Mitchell,MJ Santner,0,0,,,,,,caught,CE McConchie
+ball,1,14.6,Canterbury,MJ Hay,DJ Mitchell,MJ Santner,1,0,,,,,,"",""
+ball,1,15.1,Canterbury,MJ Hay,DJ Mitchell,FL Walker,1,0,,,,,,"",""
+ball,1,15.2,Canterbury,DJ Mitchell,MJ Hay,FL Walker,2,0,,,,,,"",""
+ball,1,15.3,Canterbury,DJ Mitchell,MJ Hay,FL Walker,0,5,5,,,,,"",""
+ball,1,15.4,Canterbury,DJ Mitchell,MJ Hay,FL Walker,0,0,,,,,,"",""
+ball,1,15.5,Canterbury,DJ Mitchell,MJ Hay,FL Walker,1,0,,,,,,"",""
+ball,1,15.6,Canterbury,MJ Hay,DJ Mitchell,FL Walker,0,0,,,,,,"",""
+ball,1,15.7,Canterbury,MJ Hay,DJ Mitchell,FL Walker,0,0,,,,,,caught,MJ Hay
+ball,1,16.1,Canterbury,DJ Mitchell,ZGF Foulkes,MJ Santner,1,0,,,,,,"",""
+ball,1,16.2,Canterbury,ZGF Foulkes,DJ Mitchell,MJ Santner,1,0,,,,,,"",""
+ball,1,16.3,Canterbury,DJ Mitchell,ZGF Foulkes,MJ Santner,2,0,,,,,,"",""
+ball,1,16.4,Canterbury,DJ Mitchell,ZGF Foulkes,MJ Santner,0,0,,,,,,"",""
+ball,1,16.5,Canterbury,DJ Mitchell,ZGF Foulkes,MJ Santner,1,0,,,,,,"",""
+ball,1,16.6,Canterbury,ZGF Foulkes,DJ Mitchell,MJ Santner,1,0,,,,,,"",""
+ball,1,17.1,Canterbury,ZGF Foulkes,DJ Mitchell,FL Walker,1,0,,,,,,"",""
+ball,1,17.2,Canterbury,DJ Mitchell,ZGF Foulkes,FL Walker,1,0,,,,,,"",""
+ball,1,17.3,Canterbury,ZGF Foulkes,DJ Mitchell,FL Walker,4,0,,,,,,"",""
+ball,1,17.4,Canterbury,ZGF Foulkes,DJ Mitchell,FL Walker,2,0,,,,,,"",""
+ball,1,17.5,Canterbury,ZGF Foulkes,DJ Mitchell,FL Walker,4,0,,,,,,"",""
+ball,1,17.6,Canterbury,ZGF Foulkes,DJ Mitchell,FL Walker,0,0,,,,,,"",""
+ball,1,18.1,Canterbury,DJ Mitchell,ZGF Foulkes,N Wagner,1,0,,,,,,"",""
+ball,1,18.2,Canterbury,ZGF Foulkes,DJ Mitchell,N Wagner,1,0,,,,,,"",""
+ball,1,18.3,Canterbury,DJ Mitchell,ZGF Foulkes,N Wagner,2,0,,,,,,"",""
+ball,1,18.4,Canterbury,DJ Mitchell,ZGF Foulkes,N Wagner,0,2,,,2,,,"",""
+ball,1,18.5,Canterbury,DJ Mitchell,ZGF Foulkes,N Wagner,2,0,,,,,,"",""
+ball,1,18.6,Canterbury,DJ Mitchell,ZGF Foulkes,N Wagner,2,0,,,,,,"",""
+ball,1,19.1,Canterbury,ZGF Foulkes,DJ Mitchell,KDC Clarke,0,0,,,,,,caught,ZGF Foulkes
+ball,1,19.2,Canterbury,MJ Henry,DJ Mitchell,KDC Clarke,1,0,,,,,,"",""
+ball,1,19.3,Canterbury,DJ Mitchell,MJ Henry,KDC Clarke,2,0,,,,,,"",""
+ball,1,19.4,Canterbury,DJ Mitchell,MJ Henry,KDC Clarke,4,0,,,,,,"",""
+ball,1,19.5,Canterbury,DJ Mitchell,MJ Henry,KDC Clarke,0,1,1,,,,,"",""
+ball,1,19.6,Canterbury,DJ Mitchell,MJ Henry,KDC Clarke,0,0,,,,,,caught,DJ Mitchell
+ball,1,19.7,Canterbury,KA Jamieson,MJ Henry,KDC Clarke,2,0,,,,,,"",""
+ball,2,0.1,Northern Districts,KD Clarke,JF Carter,MJ Henry,0,0,,,,,,"",""
+ball,2,0.2,Northern Districts,KD Clarke,JF Carter,MJ Henry,0,0,,,,,,"",""
+ball,2,0.3,Northern Districts,KD Clarke,JF Carter,MJ Henry,1,0,,,,,,"",""
+ball,2,0.4,Northern Districts,JF Carter,KD Clarke,MJ Henry,1,0,,,,,,"",""
+ball,2,0.5,Northern Districts,KD Clarke,JF Carter,MJ Henry,0,0,,,,,,caught,KD Clarke
+ball,2,0.6,Northern Districts,BJ Pomare,JF Carter,MJ Henry,0,0,,,,,,"",""
+ball,2,1.1,Northern Districts,JF Carter,BJ Pomare,KA Jamieson,1,0,,,,,,"",""
+ball,2,1.2,Northern Districts,BJ Pomare,JF Carter,KA Jamieson,0,0,,,,,,"",""
+ball,2,1.3,Northern Districts,BJ Pomare,JF Carter,KA Jamieson,0,0,,,,,,"",""
+ball,2,1.4,Northern Districts,BJ Pomare,JF Carter,KA Jamieson,1,0,,,,,,"",""
+ball,2,1.5,Northern Districts,JF Carter,BJ Pomare,KA Jamieson,0,1,1,,,,,"",""
+ball,2,1.6,Northern Districts,JF Carter,BJ Pomare,KA Jamieson,0,0,,,,,,"",""
+ball,2,1.7,Northern Districts,JF Carter,BJ Pomare,KA Jamieson,0,0,,,,,,"",""
+ball,2,2.1,Northern Districts,BJ Pomare,JF Carter,MJ Henry,0,0,,,,,,"",""
+ball,2,2.2,Northern Districts,BJ Pomare,JF Carter,MJ Henry,1,0,,,,,,"",""
+ball,2,2.3,Northern Districts,JF Carter,BJ Pomare,MJ Henry,1,0,,,,,,"",""
+ball,2,2.4,Northern Districts,BJ Pomare,JF Carter,MJ Henry,0,0,,,,,,"",""
+ball,2,2.5,Northern Districts,BJ Pomare,JF Carter,MJ Henry,0,0,,,,,,"",""
+ball,2,2.6,Northern Districts,BJ Pomare,JF Carter,MJ Henry,0,0,,,,,,"",""
+ball,2,3.1,Northern Districts,JF Carter,BJ Pomare,KA Jamieson,4,0,,,,,,"",""
+ball,2,3.2,Northern Districts,JF Carter,BJ Pomare,KA Jamieson,0,0,,,,,,"",""
+ball,2,3.3,Northern Districts,JF Carter,BJ Pomare,KA Jamieson,2,0,,,,,,"",""
+ball,2,3.4,Northern Districts,JF Carter,BJ Pomare,KA Jamieson,0,0,,,,,,"",""
+ball,2,3.5,Northern Districts,JF Carter,BJ Pomare,KA Jamieson,0,1,,,,1,,"",""
+ball,2,3.6,Northern Districts,BJ Pomare,JF Carter,KA Jamieson,0,0,,,,,,"",""
+ball,2,4.1,Northern Districts,JF Carter,BJ Pomare,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,4.2,Northern Districts,JF Carter,BJ Pomare,ZGF Foulkes,2,0,,,,,,"",""
+ball,2,4.3,Northern Districts,JF Carter,BJ Pomare,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,4.4,Northern Districts,BJ Pomare,JF Carter,ZGF Foulkes,0,1,1,,,,,"",""
+ball,2,4.5,Northern Districts,BJ Pomare,JF Carter,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,4.6,Northern Districts,JF Carter,BJ Pomare,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,4.7,Northern Districts,JF Carter,BJ Pomare,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,5.1,Northern Districts,JF Carter,BJ Pomare,W O'Rourke,4,0,,,,,,"",""
+ball,2,5.2,Northern Districts,JF Carter,BJ Pomare,W O'Rourke,0,0,,,,,,hit wicket,JF Carter
+ball,2,5.3,Northern Districts,RR O'Donnell,BJ Pomare,W O'Rourke,3,0,,,,,,"",""
+ball,2,5.4,Northern Districts,BJ Pomare,RR O'Donnell,W O'Rourke,1,0,,,,,,"",""
+ball,2,5.5,Northern Districts,RR O'Donnell,BJ Pomare,W O'Rourke,0,0,,,,,,"",""
+ball,2,5.6,Northern Districts,RR O'Donnell,BJ Pomare,W O'Rourke,1,0,,,,,,"",""
+ball,2,6.1,Northern Districts,RR O'Donnell,BJ Pomare,IS Sodhi,0,0,,,,,,"",""
+ball,2,6.2,Northern Districts,RR O'Donnell,BJ Pomare,IS Sodhi,0,0,,,,,,"",""
+ball,2,6.3,Northern Districts,RR O'Donnell,BJ Pomare,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.4,Northern Districts,BJ Pomare,RR O'Donnell,IS Sodhi,6,0,,,,,,"",""
+ball,2,6.5,Northern Districts,BJ Pomare,RR O'Donnell,IS Sodhi,0,0,,,,,,caught,BJ Pomare
+ball,2,6.6,Northern Districts,MJ Santner,RR O'Donnell,IS Sodhi,0,0,,,,,,"",""
+ball,2,7.1,Northern Districts,RR O'Donnell,MJ Santner,CE McConchie,1,0,,,,,,"",""
+ball,2,7.2,Northern Districts,MJ Santner,RR O'Donnell,CE McConchie,1,0,,,,,,"",""
+ball,2,7.3,Northern Districts,RR O'Donnell,MJ Santner,CE McConchie,4,0,,,,,,"",""
+ball,2,7.4,Northern Districts,RR O'Donnell,MJ Santner,CE McConchie,1,0,,,,,,"",""
+ball,2,7.5,Northern Districts,MJ Santner,RR O'Donnell,CE McConchie,0,0,,,,,,caught,MJ Santner
+ball,2,7.6,Northern Districts,BR Hampton,RR O'Donnell,CE McConchie,0,1,1,,,,,"",""
+ball,2,7.7,Northern Districts,BR Hampton,RR O'Donnell,CE McConchie,2,0,,,,,,"",""
+ball,2,8.1,Northern Districts,RR O'Donnell,BR Hampton,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.2,Northern Districts,BR Hampton,RR O'Donnell,IS Sodhi,0,0,,,,,,"",""
+ball,2,8.3,Northern Districts,BR Hampton,RR O'Donnell,IS Sodhi,6,0,,,,,,"",""
+ball,2,8.4,Northern Districts,BR Hampton,RR O'Donnell,IS Sodhi,2,0,,,,,,"",""
+ball,2,8.5,Northern Districts,BR Hampton,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.6,Northern Districts,RR O'Donnell,BR Hampton,IS Sodhi,0,0,,,,,,"",""
+ball,2,9.1,Northern Districts,BR Hampton,RR O'Donnell,W O'Rourke,0,0,,,,,,"",""
+ball,2,9.2,Northern Districts,BR Hampton,RR O'Donnell,W O'Rourke,0,0,,,,,,"",""
+ball,2,9.3,Northern Districts,BR Hampton,RR O'Donnell,W O'Rourke,0,0,,,,,,caught,BR Hampton
+ball,2,9.4,Northern Districts,JA Raval,RR O'Donnell,W O'Rourke,4,0,,,,,,"",""
+ball,2,9.5,Northern Districts,JA Raval,RR O'Donnell,W O'Rourke,1,0,,,,,,"",""
+ball,2,9.6,Northern Districts,RR O'Donnell,JA Raval,W O'Rourke,0,0,,,,,,"",""
+ball,2,10.1,Northern Districts,JA Raval,RR O'Donnell,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,10.2,Northern Districts,RR O'Donnell,JA Raval,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,10.3,Northern Districts,RR O'Donnell,JA Raval,ZGF Foulkes,2,0,,,,,,"",""
+ball,2,10.4,Northern Districts,RR O'Donnell,JA Raval,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,10.5,Northern Districts,JA Raval,RR O'Donnell,ZGF Foulkes,2,0,,,,,,"",""
+ball,2,10.6,Northern Districts,JA Raval,RR O'Donnell,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,11.1,Northern Districts,RR O'Donnell,JA Raval,CE McConchie,0,0,,,,,,"",""
+ball,2,11.2,Northern Districts,RR O'Donnell,JA Raval,CE McConchie,1,0,,,,,,"",""
+ball,2,11.3,Northern Districts,JA Raval,RR O'Donnell,CE McConchie,1,0,,,,,,"",""
+ball,2,11.4,Northern Districts,RR O'Donnell,JA Raval,CE McConchie,0,0,,,,,,caught,RR O'Donnell
+ball,2,11.5,Northern Districts,KDC Clarke,JA Raval,CE McConchie,1,0,,,,,,"",""
+ball,2,11.6,Northern Districts,JA Raval,KDC Clarke,CE McConchie,1,0,,,,,,"",""
+ball,2,12.1,Northern Districts,JA Raval,KDC Clarke,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.2,Northern Districts,KDC Clarke,JA Raval,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.3,Northern Districts,JA Raval,KDC Clarke,IS Sodhi,6,0,,,,,,"",""
+ball,2,12.4,Northern Districts,JA Raval,KDC Clarke,IS Sodhi,2,0,,,,,,"",""
+ball,2,12.5,Northern Districts,JA Raval,KDC Clarke,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.6,Northern Districts,KDC Clarke,JA Raval,IS Sodhi,0,0,,,,,,"",""
+ball,2,13.1,Northern Districts,JA Raval,KDC Clarke,CE McConchie,0,1,1,,,,,"",""
+ball,2,13.2,Northern Districts,JA Raval,KDC Clarke,CE McConchie,0,0,,,,,,caught,JA Raval
+ball,2,13.3,Northern Districts,N Wagner,KDC Clarke,CE McConchie,0,0,,,,,,"",""
+ball,2,13.4,Northern Districts,N Wagner,KDC Clarke,CE McConchie,2,0,,,,,,"",""
+ball,2,13.5,Northern Districts,N Wagner,KDC Clarke,CE McConchie,1,0,,,,,,"",""
+ball,2,13.6,Northern Districts,KDC Clarke,N Wagner,CE McConchie,0,0,,,,,,"",""
+ball,2,13.7,Northern Districts,KDC Clarke,N Wagner,CE McConchie,4,0,,,,,,"",""
+ball,2,14.1,Northern Districts,N Wagner,KDC Clarke,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.2,Northern Districts,N Wagner,KDC Clarke,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.3,Northern Districts,N Wagner,KDC Clarke,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.4,Northern Districts,N Wagner,KDC Clarke,IS Sodhi,1,0,,,,,,"",""
+ball,2,14.5,Northern Districts,KDC Clarke,N Wagner,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.6,Northern Districts,KDC Clarke,N Wagner,IS Sodhi,0,0,,,,,,"",""
+ball,2,15.1,Northern Districts,N Wagner,KDC Clarke,CE McConchie,6,0,,,,,,"",""
+ball,2,15.2,Northern Districts,N Wagner,KDC Clarke,CE McConchie,0,0,,,,,,caught and bowled,N Wagner
+ball,2,15.3,Northern Districts,FL Walker,KDC Clarke,CE McConchie,1,0,,,,,,"",""
+ball,2,15.4,Northern Districts,KDC Clarke,FL Walker,CE McConchie,1,0,,,,,,"",""
+ball,2,15.5,Northern Districts,FL Walker,KDC Clarke,CE McConchie,0,0,,,,,,"",""
+ball,2,15.6,Northern Districts,FL Walker,KDC Clarke,CE McConchie,1,0,,,,,,"",""
+ball,2,16.1,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,4,0,,,,,,"",""
+ball,2,16.2,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,16.3,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,16.4,Northern Districts,KDC Clarke,FL Walker,ZGF Foulkes,2,0,,,,,,"",""
+ball,2,16.5,Northern Districts,KDC Clarke,FL Walker,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,16.6,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,0,1,1,,,,,"",""
+ball,2,16.7,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,17.1,Northern Districts,FL Walker,KDC Clarke,W O'Rourke,0,0,,,,,,"",""
+ball,2,17.2,Northern Districts,FL Walker,KDC Clarke,W O'Rourke,0,0,,,,,,"",""
+ball,2,17.3,Northern Districts,FL Walker,KDC Clarke,W O'Rourke,0,0,,,,,,"",""
+ball,2,17.4,Northern Districts,FL Walker,KDC Clarke,W O'Rourke,1,0,,,,,,"",""
+ball,2,17.5,Northern Districts,KDC Clarke,FL Walker,W O'Rourke,2,0,,,,,,"",""
+ball,2,17.6,Northern Districts,KDC Clarke,FL Walker,W O'Rourke,0,0,,,,,,"",""
+ball,2,18.1,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,18.2,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,18.3,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,18.4,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,0,1,1,,,,,"",""
+ball,2,18.5,Northern Districts,FL Walker,KDC Clarke,ZGF Foulkes,0,0,,,,,,caught,FL Walker
+ball,2,18.6,Northern Districts,MJ Fisher,KDC Clarke,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,18.7,Northern Districts,MJ Fisher,KDC Clarke,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,19.1,Northern Districts,KDC Clarke,MJ Fisher,KA Jamieson,1,0,,,,,,"",""
+ball,2,19.2,Northern Districts,MJ Fisher,KDC Clarke,KA Jamieson,1,0,,,,,,"",""
+ball,2,19.3,Northern Districts,KDC Clarke,MJ Fisher,KA Jamieson,1,0,,,,,,"",""
+ball,2,19.4,Northern Districts,MJ Fisher,KDC Clarke,KA Jamieson,0,0,,,,,,"",""
+ball,2,19.5,Northern Districts,MJ Fisher,KDC Clarke,KA Jamieson,2,0,,,,,,"",""
+ball,2,19.6,Northern Districts,MJ Fisher,KDC Clarke,KA Jamieson,0,0,,,,,,"",""

@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Warriors
+info,team,Titans
+info,gender,male
+info,season,2021/22
+info,date,2022/02/07
+info,event,CSA T20 Challenge
+info,match_number,2
+info,venue,"St George's Park, Port Elizabeth"
+info,city,Port Elizabeth
+info,toss_winner,Titans
+info,toss_decision,field
+info,player_of_match,JT Smuts
+info,player_of_match,T Stubbs
+info,umpire,A Steenkamp
+info,umpire,DJ Smith
+info,reserve_umpire,AM Sodumo
+info,tv_umpire,RN Hendricks
+info,match_referee,LH Matroos
+info,winner,Warriors
+info,winner_runs,8
+info,player,Warriors,MP Breetzke
+info,player,Warriors,WJ Lubbe
+info,player,Warriors,JT Smuts
+info,player,Warriors,DS Rosier
+info,player,Warriors,T Stubbs
+info,player,Warriors,LC Ngoepe
+info,player,Warriors,S Qeshile
+info,player,Warriors,T van Vuuren
+info,player,Warriors,D Paterson
+info,player,Warriors,M Nabe
+info,player,Warriors,Tsepo Ndwandwa
+info,player,Titans,Q de Kock
+info,player,Titans,GL Cloete
+info,player,Titans,TB de Bruyn
+info,player,Titans,H Klaasen
+info,player,Titans,BS Makhanya
+info,player,Titans,D Ferreira
+info,player,Titans,A Gqamane
+info,player,Titans,C Bosch
+info,player,Titans,AM Phangiso
+info,player,Titans,LB Williams
+info,player,Titans,T Shamsi
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,C Bosch,172dff15
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DS Rosier,f8e6dbdd
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Nabe,6ed11905
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,S Qeshile,94268960
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,T van Vuuren,20afc7e7
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,Tsepo Ndwandwa,be3ffb65
+info,registry,people,WJ Lubbe,10f42013
+ball,1,0.1,Warriors,MP Breetzke,WJ Lubbe,D Ferreira,1,0,,,,,,"",""
+ball,1,0.2,Warriors,WJ Lubbe,MP Breetzke,D Ferreira,0,0,,,,,,"",""
+ball,1,0.3,Warriors,WJ Lubbe,MP Breetzke,D Ferreira,1,0,,,,,,"",""
+ball,1,0.4,Warriors,MP Breetzke,WJ Lubbe,D Ferreira,1,0,,,,,,"",""
+ball,1,0.5,Warriors,WJ Lubbe,MP Breetzke,D Ferreira,1,0,,,,,,"",""
+ball,1,0.6,Warriors,MP Breetzke,WJ Lubbe,D Ferreira,4,0,,,,,,"",""
+ball,1,1.1,Warriors,WJ Lubbe,MP Breetzke,C Bosch,4,0,,,,,,"",""
+ball,1,1.2,Warriors,WJ Lubbe,MP Breetzke,C Bosch,1,0,,,,,,"",""
+ball,1,1.3,Warriors,MP Breetzke,WJ Lubbe,C Bosch,1,0,,,,,,"",""
+ball,1,1.4,Warriors,WJ Lubbe,MP Breetzke,C Bosch,0,0,,,,,,"",""
+ball,1,1.5,Warriors,WJ Lubbe,MP Breetzke,C Bosch,1,0,,,,,,"",""
+ball,1,1.6,Warriors,MP Breetzke,WJ Lubbe,C Bosch,1,0,,,,,,"",""
+ball,1,2.1,Warriors,MP Breetzke,WJ Lubbe,LB Williams,0,0,,,,,,"",""
+ball,1,2.2,Warriors,MP Breetzke,WJ Lubbe,LB Williams,1,0,,,,,,"",""
+ball,1,2.3,Warriors,WJ Lubbe,MP Breetzke,LB Williams,2,0,,,,,,"",""
+ball,1,2.4,Warriors,WJ Lubbe,MP Breetzke,LB Williams,0,0,,,,,,"",""
+ball,1,2.5,Warriors,WJ Lubbe,MP Breetzke,LB Williams,1,0,,,,,,"",""
+ball,1,2.6,Warriors,MP Breetzke,WJ Lubbe,LB Williams,0,0,,,,,,"",""
+ball,1,3.1,Warriors,WJ Lubbe,MP Breetzke,C Bosch,0,1,1,,,,,"",""
+ball,1,3.2,Warriors,WJ Lubbe,MP Breetzke,C Bosch,4,0,,,,,,"",""
+ball,1,3.3,Warriors,WJ Lubbe,MP Breetzke,C Bosch,1,0,,,,,,"",""
+ball,1,3.4,Warriors,MP Breetzke,WJ Lubbe,C Bosch,2,0,,,,,,"",""
+ball,1,3.5,Warriors,MP Breetzke,WJ Lubbe,C Bosch,0,0,,,,,,"",""
+ball,1,3.6,Warriors,MP Breetzke,WJ Lubbe,C Bosch,4,0,,,,,,"",""
+ball,1,3.7,Warriors,MP Breetzke,WJ Lubbe,C Bosch,1,0,,,,,,"",""
+ball,1,4.1,Warriors,MP Breetzke,WJ Lubbe,AM Phangiso,4,0,,,,,,"",""
+ball,1,4.2,Warriors,MP Breetzke,WJ Lubbe,AM Phangiso,1,0,,,,,,"",""
+ball,1,4.3,Warriors,WJ Lubbe,MP Breetzke,AM Phangiso,0,0,,,,,,"",""
+ball,1,4.4,Warriors,WJ Lubbe,MP Breetzke,AM Phangiso,6,0,,,,,,"",""
+ball,1,4.5,Warriors,WJ Lubbe,MP Breetzke,AM Phangiso,0,0,,,,,,"",""
+ball,1,4.6,Warriors,WJ Lubbe,MP Breetzke,AM Phangiso,4,0,,,,,,"",""
+ball,1,5.1,Warriors,MP Breetzke,WJ Lubbe,LB Williams,1,0,,,,,,"",""
+ball,1,5.2,Warriors,WJ Lubbe,MP Breetzke,LB Williams,0,0,,,,,,"",""
+ball,1,5.3,Warriors,WJ Lubbe,MP Breetzke,LB Williams,1,0,,,,,,"",""
+ball,1,5.4,Warriors,MP Breetzke,WJ Lubbe,LB Williams,6,0,,,,,,"",""
+ball,1,5.5,Warriors,MP Breetzke,WJ Lubbe,LB Williams,4,0,,,,,,"",""
+ball,1,5.6,Warriors,MP Breetzke,WJ Lubbe,LB Williams,4,0,,,,,,"",""
+ball,1,6.1,Warriors,WJ Lubbe,MP Breetzke,AM Phangiso,1,0,,,,,,"",""
+ball,1,6.2,Warriors,MP Breetzke,WJ Lubbe,AM Phangiso,0,0,,,,,,"",""
+ball,1,6.3,Warriors,MP Breetzke,WJ Lubbe,AM Phangiso,0,0,,,,,,"",""
+ball,1,6.4,Warriors,MP Breetzke,WJ Lubbe,AM Phangiso,0,0,,,,,,bowled,MP Breetzke
+ball,1,6.5,Warriors,JT Smuts,WJ Lubbe,AM Phangiso,0,0,,,,,,"",""
+ball,1,6.6,Warriors,JT Smuts,WJ Lubbe,AM Phangiso,1,0,,,,,,"",""
+ball,1,7.1,Warriors,JT Smuts,WJ Lubbe,T Shamsi,1,0,,,,,,"",""
+ball,1,7.2,Warriors,WJ Lubbe,JT Smuts,T Shamsi,0,0,,,,,,"",""
+ball,1,7.3,Warriors,WJ Lubbe,JT Smuts,T Shamsi,1,0,,,,,,"",""
+ball,1,7.4,Warriors,JT Smuts,WJ Lubbe,T Shamsi,0,0,,,,,,caught,JT Smuts
+ball,1,7.5,Warriors,DS Rosier,WJ Lubbe,T Shamsi,1,0,,,,,,"",""
+ball,1,7.6,Warriors,WJ Lubbe,DS Rosier,T Shamsi,1,0,,,,,,"",""
+ball,1,8.1,Warriors,WJ Lubbe,DS Rosier,AM Phangiso,1,0,,,,,,"",""
+ball,1,8.2,Warriors,DS Rosier,WJ Lubbe,AM Phangiso,1,0,,,,,,"",""
+ball,1,8.3,Warriors,WJ Lubbe,DS Rosier,AM Phangiso,1,0,,,,,,"",""
+ball,1,8.4,Warriors,DS Rosier,WJ Lubbe,AM Phangiso,0,0,,,,,,"",""
+ball,1,8.5,Warriors,DS Rosier,WJ Lubbe,AM Phangiso,0,0,,,,,,"",""
+ball,1,8.6,Warriors,DS Rosier,WJ Lubbe,AM Phangiso,0,0,,,,,,"",""
+ball,1,9.1,Warriors,WJ Lubbe,DS Rosier,T Shamsi,0,0,,,,,,"",""
+ball,1,9.2,Warriors,WJ Lubbe,DS Rosier,T Shamsi,1,0,,,,,,"",""
+ball,1,9.3,Warriors,DS Rosier,WJ Lubbe,T Shamsi,0,0,,,,,,"",""
+ball,1,9.4,Warriors,DS Rosier,WJ Lubbe,T Shamsi,1,0,,,,,,"",""
+ball,1,9.5,Warriors,WJ Lubbe,DS Rosier,T Shamsi,1,0,,,,,,"",""
+ball,1,9.6,Warriors,DS Rosier,WJ Lubbe,T Shamsi,0,0,,,,,,"",""
+ball,1,10.1,Warriors,WJ Lubbe,DS Rosier,D Ferreira,1,0,,,,,,"",""
+ball,1,10.2,Warriors,DS Rosier,WJ Lubbe,D Ferreira,0,0,,,,,,"",""
+ball,1,10.3,Warriors,DS Rosier,WJ Lubbe,D Ferreira,0,0,,,,,,caught,DS Rosier
+ball,1,10.4,Warriors,T Stubbs,WJ Lubbe,D Ferreira,1,0,,,,,,"",""
+ball,1,10.5,Warriors,WJ Lubbe,T Stubbs,D Ferreira,1,0,,,,,,"",""
+ball,1,10.6,Warriors,T Stubbs,WJ Lubbe,D Ferreira,0,0,,,,,,"",""
+ball,1,11.1,Warriors,WJ Lubbe,T Stubbs,T Shamsi,2,0,,,,,,"",""
+ball,1,11.2,Warriors,WJ Lubbe,T Stubbs,T Shamsi,1,0,,,,,,"",""
+ball,1,11.3,Warriors,T Stubbs,WJ Lubbe,T Shamsi,2,0,,,,,,"",""
+ball,1,11.4,Warriors,T Stubbs,WJ Lubbe,T Shamsi,1,0,,,,,,"",""
+ball,1,11.5,Warriors,WJ Lubbe,T Stubbs,T Shamsi,1,0,,,,,,"",""
+ball,1,11.6,Warriors,T Stubbs,WJ Lubbe,T Shamsi,2,0,,,,,,"",""
+ball,1,12.1,Warriors,WJ Lubbe,T Stubbs,AM Phangiso,0,0,,,,,,"",""
+ball,1,12.2,Warriors,WJ Lubbe,T Stubbs,AM Phangiso,0,0,,,,,,"",""
+ball,1,12.3,Warriors,WJ Lubbe,T Stubbs,AM Phangiso,1,0,,,,,,"",""
+ball,1,12.4,Warriors,T Stubbs,WJ Lubbe,AM Phangiso,1,0,,,,,,"",""
+ball,1,12.5,Warriors,WJ Lubbe,T Stubbs,AM Phangiso,1,0,,,,,,"",""
+ball,1,12.6,Warriors,T Stubbs,WJ Lubbe,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.1,Warriors,T Stubbs,WJ Lubbe,C Bosch,0,0,,,,,,"",""
+ball,1,13.2,Warriors,T Stubbs,WJ Lubbe,C Bosch,1,0,,,,,,"",""
+ball,1,13.3,Warriors,WJ Lubbe,T Stubbs,C Bosch,6,0,,,,,,"",""
+ball,1,13.4,Warriors,WJ Lubbe,T Stubbs,C Bosch,1,0,,,,,,"",""
+ball,1,13.5,Warriors,T Stubbs,WJ Lubbe,C Bosch,1,0,,,,,,"",""
+ball,1,13.6,Warriors,WJ Lubbe,T Stubbs,C Bosch,1,0,,,,,,"",""
+ball,1,14.1,Warriors,WJ Lubbe,T Stubbs,A Gqamane,1,0,,,,,,"",""
+ball,1,14.2,Warriors,T Stubbs,WJ Lubbe,A Gqamane,2,0,,,,,,"",""
+ball,1,14.3,Warriors,T Stubbs,WJ Lubbe,A Gqamane,0,1,1,,,,,"",""
+ball,1,14.4,Warriors,T Stubbs,WJ Lubbe,A Gqamane,1,0,,,,,,"",""
+ball,1,14.5,Warriors,WJ Lubbe,T Stubbs,A Gqamane,0,1,1,,,,,"",""
+ball,1,14.6,Warriors,WJ Lubbe,T Stubbs,A Gqamane,1,0,,,,,,"",""
+ball,1,14.7,Warriors,T Stubbs,WJ Lubbe,A Gqamane,2,0,,,,,,"",""
+ball,1,14.8,Warriors,T Stubbs,WJ Lubbe,A Gqamane,1,0,,,,,,"",""
+ball,1,15.1,Warriors,T Stubbs,WJ Lubbe,T Shamsi,6,0,,,,,,"",""
+ball,1,15.2,Warriors,T Stubbs,WJ Lubbe,T Shamsi,4,0,,,,,,"",""
+ball,1,15.3,Warriors,T Stubbs,WJ Lubbe,T Shamsi,1,0,,,,,,"",""
+ball,1,15.4,Warriors,WJ Lubbe,T Stubbs,T Shamsi,1,0,,,,,,"",""
+ball,1,15.5,Warriors,T Stubbs,WJ Lubbe,T Shamsi,1,0,,,,,,"",""
+ball,1,15.6,Warriors,WJ Lubbe,T Stubbs,T Shamsi,2,0,,,,,,"",""
+ball,1,16.1,Warriors,T Stubbs,WJ Lubbe,LB Williams,0,1,1,,,,,"",""
+ball,1,16.2,Warriors,T Stubbs,WJ Lubbe,LB Williams,1,0,,,,,,"",""
+ball,1,16.3,Warriors,WJ Lubbe,T Stubbs,LB Williams,1,0,,,,,,"",""
+ball,1,16.4,Warriors,T Stubbs,WJ Lubbe,LB Williams,1,0,,,,,,"",""
+ball,1,16.5,Warriors,WJ Lubbe,T Stubbs,LB Williams,0,0,,,,,,"",""
+ball,1,16.6,Warriors,WJ Lubbe,T Stubbs,LB Williams,0,0,,,,,,caught,WJ Lubbe
+ball,1,16.7,Warriors,T Stubbs,LC Ngoepe,LB Williams,1,0,,,,,,"",""
+ball,1,17.1,Warriors,T Stubbs,LC Ngoepe,A Gqamane,6,0,,,,,,"",""
+ball,1,17.2,Warriors,T Stubbs,LC Ngoepe,A Gqamane,6,0,,,,,,"",""
+ball,1,17.3,Warriors,T Stubbs,LC Ngoepe,A Gqamane,1,0,,,,,,"",""
+ball,1,17.4,Warriors,LC Ngoepe,T Stubbs,A Gqamane,0,1,1,,,,,"",""
+ball,1,17.5,Warriors,LC Ngoepe,T Stubbs,A Gqamane,1,0,,,,,,"",""
+ball,1,17.6,Warriors,T Stubbs,LC Ngoepe,A Gqamane,6,0,,,,,,"",""
+ball,1,17.7,Warriors,T Stubbs,LC Ngoepe,A Gqamane,1,0,,,,,,"",""
+ball,1,18.1,Warriors,T Stubbs,LC Ngoepe,LB Williams,0,0,,,,,,caught,T Stubbs
+ball,1,18.2,Warriors,LC Ngoepe,S Qeshile,LB Williams,0,0,,,,,,"",""
+ball,1,18.3,Warriors,LC Ngoepe,S Qeshile,LB Williams,1,0,,,,,,"",""
+ball,1,18.4,Warriors,S Qeshile,LC Ngoepe,LB Williams,1,0,,,,,,"",""
+ball,1,18.5,Warriors,LC Ngoepe,S Qeshile,LB Williams,1,0,,,,,,"",""
+ball,1,18.6,Warriors,S Qeshile,LC Ngoepe,LB Williams,1,0,,,,,,run out,LC Ngoepe
+ball,1,19.1,Warriors,S Qeshile,T van Vuuren,C Bosch,0,0,,,,,,"",""
+ball,1,19.2,Warriors,S Qeshile,T van Vuuren,C Bosch,1,0,,,,,,"",""
+ball,1,19.3,Warriors,T van Vuuren,S Qeshile,C Bosch,0,0,,,,,,lbw,T van Vuuren
+ball,1,19.4,Warriors,D Paterson,S Qeshile,C Bosch,0,1,1,,,,,"",""
+ball,1,19.5,Warriors,D Paterson,S Qeshile,C Bosch,1,0,,,,,,"",""
+ball,1,19.6,Warriors,S Qeshile,D Paterson,C Bosch,2,0,,,,,,"",""
+ball,1,19.7,Warriors,S Qeshile,D Paterson,C Bosch,0,0,,,,,,caught,S Qeshile
+ball,2,0.1,Titans,Q de Kock,GL Cloete,WJ Lubbe,0,0,,,,,,"",""
+ball,2,0.2,Titans,Q de Kock,GL Cloete,WJ Lubbe,0,0,,,,,,caught,Q de Kock
+ball,2,0.3,Titans,TB de Bruyn,GL Cloete,WJ Lubbe,1,0,,,,,,"",""
+ball,2,0.4,Titans,GL Cloete,TB de Bruyn,WJ Lubbe,1,0,,,,,,"",""
+ball,2,0.5,Titans,TB de Bruyn,GL Cloete,WJ Lubbe,0,0,,,,,,"",""
+ball,2,0.6,Titans,TB de Bruyn,GL Cloete,WJ Lubbe,4,0,,,,,,"",""
+ball,2,1.1,Titans,GL Cloete,TB de Bruyn,D Paterson,1,0,,,,,,"",""
+ball,2,1.2,Titans,TB de Bruyn,GL Cloete,D Paterson,1,0,,,,,,"",""
+ball,2,1.3,Titans,GL Cloete,TB de Bruyn,D Paterson,4,0,,,,,,"",""
+ball,2,1.4,Titans,GL Cloete,TB de Bruyn,D Paterson,0,1,1,,,,,"",""
+ball,2,1.5,Titans,GL Cloete,TB de Bruyn,D Paterson,1,0,,,,,,"",""
+ball,2,1.6,Titans,TB de Bruyn,GL Cloete,D Paterson,1,0,,,,,,"",""
+ball,2,1.7,Titans,GL Cloete,TB de Bruyn,D Paterson,4,0,,,,,,"",""
+ball,2,2.1,Titans,TB de Bruyn,GL Cloete,M Nabe,0,5,5,,,,,"",""
+ball,2,2.2,Titans,TB de Bruyn,GL Cloete,M Nabe,2,0,,,,,,"",""
+ball,2,2.3,Titans,TB de Bruyn,GL Cloete,M Nabe,4,0,,,,,,"",""
+ball,2,2.4,Titans,TB de Bruyn,GL Cloete,M Nabe,4,0,,,,,,"",""
+ball,2,2.5,Titans,TB de Bruyn,GL Cloete,M Nabe,0,0,,,,,,caught,TB de Bruyn
+ball,2,2.6,Titans,H Klaasen,GL Cloete,M Nabe,1,0,,,,,,"",""
+ball,2,2.7,Titans,GL Cloete,H Klaasen,M Nabe,4,0,,,,,,"",""
+ball,2,3.1,Titans,H Klaasen,GL Cloete,D Paterson,1,0,,,,,,"",""
+ball,2,3.2,Titans,GL Cloete,H Klaasen,D Paterson,0,0,,,,,,"",""
+ball,2,3.3,Titans,GL Cloete,H Klaasen,D Paterson,0,1,,,,1,,"",""
+ball,2,3.4,Titans,H Klaasen,GL Cloete,D Paterson,4,0,,,,,,"",""
+ball,2,3.5,Titans,H Klaasen,GL Cloete,D Paterson,4,0,,,,,,"",""
+ball,2,3.6,Titans,H Klaasen,GL Cloete,D Paterson,2,0,,,,,,"",""
+ball,2,4.1,Titans,GL Cloete,H Klaasen,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,4.2,Titans,H Klaasen,GL Cloete,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,4.3,Titans,GL Cloete,H Klaasen,Tsepo Ndwandwa,0,0,,,,,,"",""
+ball,2,4.4,Titans,GL Cloete,H Klaasen,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,4.5,Titans,H Klaasen,GL Cloete,Tsepo Ndwandwa,0,0,,,,,,"",""
+ball,2,4.6,Titans,H Klaasen,GL Cloete,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,5.1,Titans,H Klaasen,GL Cloete,T van Vuuren,1,0,,,,,,"",""
+ball,2,5.2,Titans,GL Cloete,H Klaasen,T van Vuuren,1,0,,,,,,"",""
+ball,2,5.3,Titans,H Klaasen,GL Cloete,T van Vuuren,0,0,,,,,,"",""
+ball,2,5.4,Titans,H Klaasen,GL Cloete,T van Vuuren,0,0,,,,,,"",""
+ball,2,5.5,Titans,H Klaasen,GL Cloete,T van Vuuren,1,0,,,,,,"",""
+ball,2,5.6,Titans,GL Cloete,H Klaasen,T van Vuuren,0,0,,,,,,"",""
+ball,2,6.1,Titans,H Klaasen,GL Cloete,Tsepo Ndwandwa,0,0,,,,,,"",""
+ball,2,6.2,Titans,H Klaasen,GL Cloete,Tsepo Ndwandwa,0,0,,,,,,"",""
+ball,2,6.3,Titans,H Klaasen,GL Cloete,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,6.4,Titans,GL Cloete,H Klaasen,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,6.5,Titans,H Klaasen,GL Cloete,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,6.6,Titans,GL Cloete,H Klaasen,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,7.1,Titans,GL Cloete,H Klaasen,WJ Lubbe,1,0,,,,,,"",""
+ball,2,7.2,Titans,H Klaasen,GL Cloete,WJ Lubbe,1,0,,,,,,"",""
+ball,2,7.3,Titans,GL Cloete,H Klaasen,WJ Lubbe,0,5,5,,,,,"",""
+ball,2,7.4,Titans,GL Cloete,H Klaasen,WJ Lubbe,0,0,,,,,,"",""
+ball,2,7.5,Titans,GL Cloete,H Klaasen,WJ Lubbe,0,0,,,,,,"",""
+ball,2,7.6,Titans,GL Cloete,H Klaasen,WJ Lubbe,2,0,,,,,,"",""
+ball,2,7.7,Titans,GL Cloete,H Klaasen,WJ Lubbe,0,0,,,,,,caught and bowled,GL Cloete
+ball,2,8.1,Titans,H Klaasen,BS Makhanya,JT Smuts,1,0,,,,,,"",""
+ball,2,8.2,Titans,BS Makhanya,H Klaasen,JT Smuts,1,0,,,,,,"",""
+ball,2,8.3,Titans,H Klaasen,BS Makhanya,JT Smuts,0,0,,,,,,"",""
+ball,2,8.4,Titans,H Klaasen,BS Makhanya,JT Smuts,0,0,,,,,,lbw,H Klaasen
+ball,2,8.5,Titans,D Ferreira,BS Makhanya,JT Smuts,0,0,,,,,,"",""
+ball,2,8.6,Titans,D Ferreira,BS Makhanya,JT Smuts,0,0,,,,,,"",""
+ball,2,9.1,Titans,BS Makhanya,D Ferreira,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,9.2,Titans,D Ferreira,BS Makhanya,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,9.3,Titans,BS Makhanya,D Ferreira,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,9.4,Titans,D Ferreira,BS Makhanya,Tsepo Ndwandwa,0,0,,,,,,"",""
+ball,2,9.5,Titans,D Ferreira,BS Makhanya,Tsepo Ndwandwa,0,0,,,,,,"",""
+ball,2,9.6,Titans,D Ferreira,BS Makhanya,Tsepo Ndwandwa,4,0,,,,,,"",""
+ball,2,10.1,Titans,BS Makhanya,D Ferreira,JT Smuts,1,0,,,,,,"",""
+ball,2,10.2,Titans,D Ferreira,BS Makhanya,JT Smuts,0,0,,,,,,"",""
+ball,2,10.3,Titans,D Ferreira,BS Makhanya,JT Smuts,2,0,,,,,,"",""
+ball,2,10.4,Titans,D Ferreira,BS Makhanya,JT Smuts,1,0,,,,,,"",""
+ball,2,10.5,Titans,BS Makhanya,D Ferreira,JT Smuts,0,0,,,,,,"",""
+ball,2,10.6,Titans,BS Makhanya,D Ferreira,JT Smuts,0,0,,,,,,"",""
+ball,2,11.1,Titans,D Ferreira,BS Makhanya,T van Vuuren,1,0,,,,,,"",""
+ball,2,11.2,Titans,BS Makhanya,D Ferreira,T van Vuuren,2,0,,,,,,"",""
+ball,2,11.3,Titans,BS Makhanya,D Ferreira,T van Vuuren,1,0,,,,,,"",""
+ball,2,11.4,Titans,D Ferreira,BS Makhanya,T van Vuuren,1,0,,,,,,"",""
+ball,2,11.5,Titans,BS Makhanya,D Ferreira,T van Vuuren,2,0,,,,,,"",""
+ball,2,11.6,Titans,BS Makhanya,D Ferreira,T van Vuuren,0,0,,,,,,"",""
+ball,2,12.1,Titans,D Ferreira,BS Makhanya,D Paterson,4,0,,,,,,"",""
+ball,2,12.2,Titans,D Ferreira,BS Makhanya,D Paterson,1,0,,,,,,"",""
+ball,2,12.3,Titans,BS Makhanya,D Ferreira,D Paterson,1,0,,,,,,"",""
+ball,2,12.4,Titans,D Ferreira,BS Makhanya,D Paterson,1,0,,,,,,"",""
+ball,2,12.5,Titans,BS Makhanya,D Ferreira,D Paterson,4,0,,,,,,"",""
+ball,2,12.6,Titans,BS Makhanya,D Ferreira,D Paterson,2,0,,,,,,"",""
+ball,2,13.1,Titans,D Ferreira,BS Makhanya,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,13.2,Titans,BS Makhanya,D Ferreira,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,13.3,Titans,D Ferreira,BS Makhanya,Tsepo Ndwandwa,4,0,,,,,,"",""
+ball,2,13.4,Titans,D Ferreira,BS Makhanya,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,13.5,Titans,BS Makhanya,D Ferreira,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,13.6,Titans,D Ferreira,BS Makhanya,Tsepo Ndwandwa,1,0,,,,,,run out,BS Makhanya
+ball,2,14.1,Titans,A Gqamane,D Ferreira,JT Smuts,0,0,,,,,,"",""
+ball,2,14.2,Titans,A Gqamane,D Ferreira,JT Smuts,0,0,,,,,,"",""
+ball,2,14.3,Titans,A Gqamane,D Ferreira,JT Smuts,0,0,,,,,,"",""
+ball,2,14.4,Titans,A Gqamane,D Ferreira,JT Smuts,1,0,,,,,,"",""
+ball,2,14.5,Titans,D Ferreira,A Gqamane,JT Smuts,0,0,,,,,,"",""
+ball,2,14.6,Titans,D Ferreira,A Gqamane,JT Smuts,1,0,,,,,,"",""
+ball,2,15.1,Titans,D Ferreira,A Gqamane,M Nabe,4,0,,,,,,"",""
+ball,2,15.2,Titans,D Ferreira,A Gqamane,M Nabe,1,0,,,,,,"",""
+ball,2,15.3,Titans,A Gqamane,D Ferreira,M Nabe,1,0,,,,,,"",""
+ball,2,15.4,Titans,D Ferreira,A Gqamane,M Nabe,2,0,,,,,,"",""
+ball,2,15.5,Titans,D Ferreira,A Gqamane,M Nabe,1,0,,,,,,"",""
+ball,2,15.6,Titans,A Gqamane,D Ferreira,M Nabe,0,0,,,,,,caught,A Gqamane
+ball,2,16.1,Titans,C Bosch,D Ferreira,JT Smuts,1,0,,,,,,"",""
+ball,2,16.2,Titans,D Ferreira,C Bosch,JT Smuts,1,0,,,,,,"",""
+ball,2,16.3,Titans,C Bosch,D Ferreira,JT Smuts,0,0,,,,,,"",""
+ball,2,16.4,Titans,C Bosch,D Ferreira,JT Smuts,1,0,,,,,,"",""
+ball,2,16.5,Titans,D Ferreira,C Bosch,JT Smuts,1,0,,,,,,"",""
+ball,2,16.6,Titans,C Bosch,D Ferreira,JT Smuts,0,0,,,,,,"",""
+ball,2,17.1,Titans,D Ferreira,C Bosch,T van Vuuren,0,0,,,,,,"",""
+ball,2,17.2,Titans,D Ferreira,C Bosch,T van Vuuren,2,0,,,,,,"",""
+ball,2,17.3,Titans,D Ferreira,C Bosch,T van Vuuren,2,0,,,,,,"",""
+ball,2,17.4,Titans,D Ferreira,C Bosch,T van Vuuren,4,0,,,,,,"",""
+ball,2,17.5,Titans,D Ferreira,C Bosch,T van Vuuren,4,0,,,,,,"",""
+ball,2,17.6,Titans,D Ferreira,C Bosch,T van Vuuren,1,0,,,,,,"",""
+ball,2,18.1,Titans,D Ferreira,C Bosch,D Paterson,0,0,,,,,,"",""
+ball,2,18.2,Titans,D Ferreira,C Bosch,D Paterson,4,0,,,,,,"",""
+ball,2,18.3,Titans,D Ferreira,C Bosch,D Paterson,1,0,,,,,,"",""
+ball,2,18.4,Titans,C Bosch,D Ferreira,D Paterson,0,0,,,,,,bowled,C Bosch
+ball,2,18.5,Titans,AM Phangiso,D Ferreira,D Paterson,0,0,,,,,,"",""
+ball,2,18.6,Titans,AM Phangiso,D Ferreira,D Paterson,0,0,,,,,,caught,AM Phangiso
+ball,2,19.1,Titans,D Ferreira,LB Williams,T van Vuuren,4,0,,,,,,"",""
+ball,2,19.2,Titans,D Ferreira,LB Williams,T van Vuuren,2,0,,,,,,"",""
+ball,2,19.3,Titans,D Ferreira,LB Williams,T van Vuuren,1,0,,,,,,"",""
+ball,2,19.4,Titans,LB Williams,D Ferreira,T van Vuuren,0,1,,,,1,,"",""
+ball,2,19.5,Titans,D Ferreira,LB Williams,T van Vuuren,0,0,,,,,,"",""
+ball,2,19.6,Titans,D Ferreira,LB Williams,T van Vuuren,1,0,,,,,,"",""

@@ -1,0 +1,175 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Munster Reds
+info,team,Northern Knights
+info,gender,male
+info,season,2021
+info,date,2021/09/19
+info,event,Cricket Ireland Inter-Provincial Twenty20 Trophy
+info,match_number,17
+info,venue,"The Green, Comber"
+info,city,Comber
+info,toss_winner,Northern Knights
+info,toss_decision,field
+info,player_of_match,GR Adair
+info,umpire,Aidan Seaver
+info,umpire,R Black
+info,match_referee,Philip Thompson
+info,winner,Northern Knights
+info,winner_wickets,9
+info,player,Munster Reds,PJ Moor
+info,player,Munster Reds,M Commins
+info,player,Munster Reds,M Ford
+info,player,Munster Reds,TE Kane
+info,player,Munster Reds,F Hand
+info,player,Munster Reds,MR Thompson
+info,player,Munster Reds,J Carty
+info,player,Munster Reds,M Frost
+info,player,Munster Reds,L McCarthy
+info,player,Munster Reds,A Cawley
+info,player,Munster Reds,J Manley
+info,player,Northern Knights,R Pretorius
+info,player,Northern Knights,GR Adair
+info,player,Northern Knights,JL Lawlor
+info,player,Northern Knights,HT Tector
+info,player,Northern Knights,DC Delany
+info,player,Northern Knights,J Matchett
+info,player,Northern Knights,NA Rock
+info,player,Northern Knights,M Topping
+info,player,Northern Knights,B White
+info,player,Northern Knights,T Mayes
+info,player,Northern Knights,C Robertson
+info,registry,people,A Cawley,ed282cc2
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,B White,1a448be0
+info,registry,people,C Robertson,d26de4de
+info,registry,people,DC Delany,0f9c9d1d
+info,registry,people,F Hand,e3fe4b49
+info,registry,people,GR Adair,4ec96094
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Carty,6b0da09f
+info,registry,people,J Manley,05f85159
+info,registry,people,J Matchett,a994e43c
+info,registry,people,JL Lawlor,a7e20a07
+info,registry,people,L McCarthy,8eb2e2e6
+info,registry,people,M Commins,c537cf4d
+info,registry,people,M Ford,4fd0c3a6
+info,registry,people,M Frost,96d56d32
+info,registry,people,M Topping,33f44dfc
+info,registry,people,MR Thompson,3192eea1
+info,registry,people,NA Rock,43f4087c
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Pretorius,8ff85f5c
+info,registry,people,T Mayes,9aedf23b
+info,registry,people,TE Kane,af28816c
+ball,1,0.1,Munster Reds,PJ Moor,M Commins,GR Adair,0,1,1,,,,,"",""
+ball,1,0.2,Munster Reds,PJ Moor,M Commins,GR Adair,1,0,,,,,,"",""
+ball,1,0.3,Munster Reds,M Commins,PJ Moor,GR Adair,0,0,,,,,,"",""
+ball,1,0.4,Munster Reds,M Commins,PJ Moor,GR Adair,1,0,,,,,,"",""
+ball,1,0.5,Munster Reds,PJ Moor,M Commins,GR Adair,1,0,,,,,,"",""
+ball,1,0.6,Munster Reds,M Commins,PJ Moor,GR Adair,0,0,,,,,,"",""
+ball,1,0.7,Munster Reds,M Commins,PJ Moor,GR Adair,2,0,,,,,,"",""
+ball,1,1.1,Munster Reds,PJ Moor,M Commins,T Mayes,0,1,1,,,,,"",""
+ball,1,1.2,Munster Reds,PJ Moor,M Commins,T Mayes,0,0,,,,,,caught,PJ Moor
+ball,1,1.3,Munster Reds,M Ford,M Commins,T Mayes,4,0,,,,,,"",""
+ball,1,1.4,Munster Reds,M Ford,M Commins,T Mayes,1,0,,,,,,"",""
+ball,1,1.5,Munster Reds,M Commins,M Ford,T Mayes,0,0,,,,,,"",""
+ball,1,1.6,Munster Reds,M Commins,M Ford,T Mayes,4,0,,,,,,"",""
+ball,1,1.7,Munster Reds,M Commins,M Ford,T Mayes,2,0,,,,,,"",""
+ball,1,2.1,Munster Reds,M Ford,M Commins,DC Delany,4,0,,,,,,"",""
+ball,1,2.2,Munster Reds,M Ford,M Commins,DC Delany,1,0,,,,,,"",""
+ball,1,2.3,Munster Reds,M Commins,M Ford,DC Delany,4,0,,,,,,"",""
+ball,1,2.4,Munster Reds,M Commins,M Ford,DC Delany,1,0,,,,,,"",""
+ball,1,2.5,Munster Reds,M Ford,M Commins,DC Delany,4,0,,,,,,"",""
+ball,1,2.6,Munster Reds,M Ford,M Commins,DC Delany,1,0,,,,,,"",""
+ball,1,3.1,Munster Reds,M Ford,M Commins,R Pretorius,0,0,,,,,,"",""
+ball,1,3.2,Munster Reds,M Ford,M Commins,R Pretorius,1,0,,,,,,"",""
+ball,1,3.3,Munster Reds,M Commins,M Ford,R Pretorius,0,0,,,,,,caught,M Commins
+ball,1,3.4,Munster Reds,M Ford,TE Kane,R Pretorius,4,0,,,,,,"",""
+ball,1,3.5,Munster Reds,M Ford,TE Kane,R Pretorius,1,0,,,,,,"",""
+ball,1,3.6,Munster Reds,TE Kane,M Ford,R Pretorius,0,0,,,,,,"",""
+ball,1,4.1,Munster Reds,M Ford,TE Kane,B White,0,0,,,,,,"",""
+ball,1,4.2,Munster Reds,M Ford,TE Kane,B White,0,0,,,,,,"",""
+ball,1,4.3,Munster Reds,M Ford,TE Kane,B White,0,1,,,,1,,"",""
+ball,1,4.4,Munster Reds,TE Kane,M Ford,B White,1,0,,,,,,"",""
+ball,1,4.5,Munster Reds,M Ford,TE Kane,B White,0,0,,,,,,bowled,M Ford
+ball,1,4.6,Munster Reds,F Hand,TE Kane,B White,0,0,,,,,,"",""
+ball,1,5.1,Munster Reds,TE Kane,F Hand,T Mayes,0,0,,,,,,"",""
+ball,1,5.2,Munster Reds,TE Kane,F Hand,T Mayes,0,1,,,,1,,"",""
+ball,1,5.3,Munster Reds,F Hand,TE Kane,T Mayes,4,0,,,,,,"",""
+ball,1,5.4,Munster Reds,F Hand,TE Kane,T Mayes,0,1,,,,1,,"",""
+ball,1,5.5,Munster Reds,TE Kane,F Hand,T Mayes,0,0,,,,,,"",""
+ball,1,5.6,Munster Reds,TE Kane,F Hand,T Mayes,1,0,,,,,,"",""
+ball,1,6.1,Munster Reds,TE Kane,F Hand,B White,0,0,,,,,,bowled,TE Kane
+ball,1,6.2,Munster Reds,MR Thompson,F Hand,B White,0,0,,,,,,"",""
+ball,1,6.3,Munster Reds,MR Thompson,F Hand,B White,1,0,,,,,,"",""
+ball,1,6.4,Munster Reds,F Hand,MR Thompson,B White,0,0,,,,,,"",""
+ball,1,6.5,Munster Reds,F Hand,MR Thompson,B White,1,0,,,,,,"",""
+ball,1,6.6,Munster Reds,MR Thompson,F Hand,B White,0,0,,,,,,"",""
+ball,1,7.1,Munster Reds,F Hand,MR Thompson,C Robertson,1,0,,,,,,"",""
+ball,1,7.2,Munster Reds,MR Thompson,F Hand,C Robertson,0,0,,,,,,"",""
+ball,1,7.3,Munster Reds,MR Thompson,F Hand,C Robertson,0,1,,,,1,,"",""
+ball,1,7.4,Munster Reds,F Hand,MR Thompson,C Robertson,2,0,,,,,,"",""
+ball,1,7.5,Munster Reds,F Hand,MR Thompson,C Robertson,1,0,,,,,,"",""
+ball,1,7.6,Munster Reds,MR Thompson,F Hand,C Robertson,0,0,,,,,,"",""
+ball,1,8.1,Munster Reds,F Hand,MR Thompson,DC Delany,1,0,,,,,,"",""
+ball,1,8.2,Munster Reds,MR Thompson,F Hand,DC Delany,1,0,,,,,,"",""
+ball,1,8.3,Munster Reds,F Hand,MR Thompson,DC Delany,0,0,,,,,,caught,F Hand
+ball,1,8.4,Munster Reds,MR Thompson,J Carty,DC Delany,1,0,,,,,,"",""
+ball,1,8.5,Munster Reds,J Carty,MR Thompson,DC Delany,4,0,,,,,,"",""
+ball,1,8.6,Munster Reds,J Carty,MR Thompson,DC Delany,0,0,,,,,,"",""
+ball,1,9.1,Munster Reds,MR Thompson,J Carty,R Pretorius,1,0,,,,,,"",""
+ball,1,9.2,Munster Reds,J Carty,MR Thompson,R Pretorius,0,1,,,,1,,"",""
+ball,1,9.3,Munster Reds,MR Thompson,J Carty,R Pretorius,2,0,,,,,,"",""
+ball,1,9.4,Munster Reds,MR Thompson,J Carty,R Pretorius,2,0,,,,,,"",""
+ball,1,9.5,Munster Reds,MR Thompson,J Carty,R Pretorius,2,0,,,,,,"",""
+ball,1,9.6,Munster Reds,MR Thompson,J Carty,R Pretorius,2,0,,,,,,"",""
+ball,2,0.1,Northern Knights,R Pretorius,GR Adair,M Ford,4,0,,,,,,"",""
+ball,2,0.2,Northern Knights,R Pretorius,GR Adair,M Ford,0,0,,,,,,"",""
+ball,2,0.3,Northern Knights,R Pretorius,GR Adair,M Ford,1,0,,,,,,"",""
+ball,2,0.4,Northern Knights,GR Adair,R Pretorius,M Ford,0,0,,,,,,"",""
+ball,2,0.5,Northern Knights,GR Adair,R Pretorius,M Ford,0,0,,,,,,"",""
+ball,2,0.6,Northern Knights,GR Adair,R Pretorius,M Ford,1,0,,,,,,"",""
+ball,2,1.1,Northern Knights,GR Adair,R Pretorius,J Manley,0,0,,,,,,"",""
+ball,2,1.2,Northern Knights,GR Adair,R Pretorius,J Manley,0,0,,,,,,"",""
+ball,2,1.3,Northern Knights,GR Adair,R Pretorius,J Manley,4,0,,,,,,"",""
+ball,2,1.4,Northern Knights,GR Adair,R Pretorius,J Manley,1,0,,,,,,"",""
+ball,2,1.5,Northern Knights,R Pretorius,GR Adair,J Manley,0,0,,,,,,"",""
+ball,2,1.6,Northern Knights,R Pretorius,GR Adair,J Manley,1,0,,,,,,"",""
+ball,2,2.1,Northern Knights,R Pretorius,GR Adair,A Cawley,0,0,,,,,,"",""
+ball,2,2.2,Northern Knights,R Pretorius,GR Adair,A Cawley,2,0,,,,,,"",""
+ball,2,2.3,Northern Knights,R Pretorius,GR Adair,A Cawley,0,1,,,1,,,"",""
+ball,2,2.4,Northern Knights,GR Adair,R Pretorius,A Cawley,4,0,,,,,,"",""
+ball,2,2.5,Northern Knights,GR Adair,R Pretorius,A Cawley,6,0,,,,,,"",""
+ball,2,2.6,Northern Knights,GR Adair,R Pretorius,A Cawley,0,1,1,,,,,"",""
+ball,2,2.7,Northern Knights,GR Adair,R Pretorius,A Cawley,4,0,,,,,,"",""
+ball,2,3.1,Northern Knights,R Pretorius,GR Adair,M Frost,0,0,,,,,,caught,R Pretorius
+ball,2,3.2,Northern Knights,GR Adair,JL Lawlor,M Frost,1,0,,,,,,"",""
+ball,2,3.3,Northern Knights,JL Lawlor,GR Adair,M Frost,1,0,,,,,,"",""
+ball,2,3.4,Northern Knights,GR Adair,JL Lawlor,M Frost,1,0,,,,,,"",""
+ball,2,3.5,Northern Knights,JL Lawlor,GR Adair,M Frost,0,0,,,,,,"",""
+ball,2,3.6,Northern Knights,JL Lawlor,GR Adair,M Frost,0,0,,,,,,"",""
+ball,2,4.1,Northern Knights,GR Adair,JL Lawlor,L McCarthy,4,0,,,,,,"",""
+ball,2,4.2,Northern Knights,GR Adair,JL Lawlor,L McCarthy,2,0,,,,,,"",""
+ball,2,4.3,Northern Knights,GR Adair,JL Lawlor,L McCarthy,0,0,,,,,,"",""
+ball,2,4.4,Northern Knights,GR Adair,JL Lawlor,L McCarthy,1,0,,,,,,"",""
+ball,2,4.5,Northern Knights,JL Lawlor,GR Adair,L McCarthy,0,1,,,,1,,"",""
+ball,2,4.6,Northern Knights,GR Adair,JL Lawlor,L McCarthy,4,0,,,,,,"",""
+ball,2,5.1,Northern Knights,JL Lawlor,GR Adair,M Frost,0,0,,,,,,"",""
+ball,2,5.2,Northern Knights,JL Lawlor,GR Adair,M Frost,1,0,,,,,,"",""
+ball,2,5.3,Northern Knights,GR Adair,JL Lawlor,M Frost,6,0,,,,,,"",""
+ball,2,5.4,Northern Knights,GR Adair,JL Lawlor,M Frost,1,0,,,,,,"",""
+ball,2,5.5,Northern Knights,JL Lawlor,GR Adair,M Frost,1,0,,,,,,"",""
+ball,2,5.6,Northern Knights,GR Adair,JL Lawlor,M Frost,1,0,,,,,,"",""
+ball,2,6.1,Northern Knights,GR Adair,JL Lawlor,MR Thompson,1,0,,,,,,"",""
+ball,2,6.2,Northern Knights,JL Lawlor,GR Adair,MR Thompson,1,0,,,,,,"",""
+ball,2,6.3,Northern Knights,GR Adair,JL Lawlor,MR Thompson,1,0,,,,,,"",""
+ball,2,6.4,Northern Knights,JL Lawlor,GR Adair,MR Thompson,1,0,,,,,,"",""
+ball,2,6.5,Northern Knights,GR Adair,JL Lawlor,MR Thompson,1,0,,,,,,"",""
+ball,2,6.6,Northern Knights,JL Lawlor,GR Adair,MR Thompson,4,0,,,,,,"",""
+ball,2,7.1,Northern Knights,GR Adair,JL Lawlor,J Manley,0,0,,,,,,"",""
+ball,2,7.2,Northern Knights,GR Adair,JL Lawlor,J Manley,6,0,,,,,,"",""
+ball,2,7.3,Northern Knights,GR Adair,JL Lawlor,J Manley,0,0,,,,,,"",""
+ball,2,7.4,Northern Knights,GR Adair,JL Lawlor,J Manley,4,0,,,,,,"",""

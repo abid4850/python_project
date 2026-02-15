@@ -1,0 +1,283 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Somerset
+info,gender,male
+info,season,2022
+info,date,2022/05/30
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Somerset
+info,toss_decision,field
+info,umpire,James Middlebrook
+info,umpire,PJ Hartley
+info,match_referee,PM Such
+info,winner,Somerset
+info,winner_wickets,4
+info,player,Hampshire,AHT Donald
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,RA Whiteley
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,NT Ellis
+info,player,Hampshire,CP Wood
+info,player,Hampshire,MS Crane
+info,player,Hampshire,BTJ Wheal
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,RR Rossouw
+info,player,Somerset,TB Abell
+info,player,Somerset,TA Lammonby
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,LP Goldsworthy
+info,player,Somerset,M de Lange
+info,player,Somerset,JH Davey
+info,registry,people,AHT Donald,72918338
+info,registry,people,BGF Green,34b37279
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CP Wood,1cfac535
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LP Goldsworthy,ed47cb25
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WCF Smeed,4e18e961
+ball,1,0.1,Hampshire,AHT Donald,BR McDermott,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.2,Hampshire,AHT Donald,BR McDermott,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.3,Hampshire,AHT Donald,BR McDermott,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.4,Hampshire,AHT Donald,BR McDermott,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.5,Hampshire,AHT Donald,BR McDermott,TA Lammonby,0,1,1,,,,,"",""
+ball,1,0.6,Hampshire,AHT Donald,BR McDermott,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.7,Hampshire,AHT Donald,BR McDermott,TA Lammonby,1,0,,,,,,"",""
+ball,1,1.1,Hampshire,AHT Donald,BR McDermott,JH Davey,0,0,,,,,,caught,AHT Donald
+ball,1,1.2,Hampshire,JM Vince,BR McDermott,JH Davey,1,0,,,,,,"",""
+ball,1,1.3,Hampshire,BR McDermott,JM Vince,JH Davey,1,0,,,,,,"",""
+ball,1,1.4,Hampshire,JM Vince,BR McDermott,JH Davey,1,0,,,,,,"",""
+ball,1,1.5,Hampshire,BR McDermott,JM Vince,JH Davey,0,0,,,,,,"",""
+ball,1,1.6,Hampshire,BR McDermott,JM Vince,JH Davey,0,0,,,,,,"",""
+ball,1,2.1,Hampshire,JM Vince,BR McDermott,TA Lammonby,0,0,,,,,,"",""
+ball,1,2.2,Hampshire,JM Vince,BR McDermott,TA Lammonby,0,0,,,,,,"",""
+ball,1,2.3,Hampshire,JM Vince,BR McDermott,TA Lammonby,1,0,,,,,,"",""
+ball,1,2.4,Hampshire,BR McDermott,JM Vince,TA Lammonby,0,0,,,,,,caught,BR McDermott
+ball,1,2.5,Hampshire,JJ Weatherley,JM Vince,TA Lammonby,1,0,,,,,,"",""
+ball,1,2.6,Hampshire,JM Vince,JJ Weatherley,TA Lammonby,2,0,,,,,,"",""
+ball,1,3.1,Hampshire,JJ Weatherley,JM Vince,JH Davey,1,0,,,,,,"",""
+ball,1,3.2,Hampshire,JM Vince,JJ Weatherley,JH Davey,0,0,,,,,,"",""
+ball,1,3.3,Hampshire,JM Vince,JJ Weatherley,JH Davey,2,0,,,,,,"",""
+ball,1,3.4,Hampshire,JM Vince,JJ Weatherley,JH Davey,1,0,,,,,,"",""
+ball,1,3.5,Hampshire,JJ Weatherley,JM Vince,JH Davey,0,1,,,,1,,"",""
+ball,1,3.6,Hampshire,JM Vince,JJ Weatherley,JH Davey,1,0,,,,,,"",""
+ball,1,4.1,Hampshire,JM Vince,JJ Weatherley,TA Lammonby,1,0,,,,,,"",""
+ball,1,4.2,Hampshire,JJ Weatherley,JM Vince,TA Lammonby,0,0,,,,,,"",""
+ball,1,4.3,Hampshire,JJ Weatherley,JM Vince,TA Lammonby,0,4,,,,4,,"",""
+ball,1,4.4,Hampshire,JJ Weatherley,JM Vince,TA Lammonby,0,0,,,,,,"",""
+ball,1,4.5,Hampshire,JJ Weatherley,JM Vince,TA Lammonby,6,0,,,,,,"",""
+ball,1,4.6,Hampshire,JJ Weatherley,JM Vince,TA Lammonby,4,0,,,,,,"",""
+ball,1,5.1,Hampshire,JM Vince,JJ Weatherley,L Gregory,1,0,,,,,,"",""
+ball,1,5.2,Hampshire,JJ Weatherley,JM Vince,L Gregory,0,2,,,2,,,"",""
+ball,1,5.3,Hampshire,JJ Weatherley,JM Vince,L Gregory,4,0,,,,,,"",""
+ball,1,5.4,Hampshire,JJ Weatherley,JM Vince,L Gregory,0,0,,,,,,"",""
+ball,1,5.5,Hampshire,JJ Weatherley,JM Vince,L Gregory,0,0,,,,,,caught,JJ Weatherley
+ball,1,5.6,Hampshire,LA Dawson,JM Vince,L Gregory,1,0,,,,,,"",""
+ball,1,6.1,Hampshire,LA Dawson,JM Vince,BGF Green,1,0,,,,,,"",""
+ball,1,6.2,Hampshire,JM Vince,LA Dawson,BGF Green,1,0,,,,,,"",""
+ball,1,6.3,Hampshire,LA Dawson,JM Vince,BGF Green,1,0,,,,,,"",""
+ball,1,6.4,Hampshire,JM Vince,LA Dawson,BGF Green,0,0,,,,,,caught,JM Vince
+ball,1,6.5,Hampshire,RA Whiteley,LA Dawson,BGF Green,0,0,,,,,,"",""
+ball,1,6.6,Hampshire,RA Whiteley,LA Dawson,BGF Green,1,0,,,,,,"",""
+ball,1,7.1,Hampshire,RA Whiteley,LA Dawson,M de Lange,1,0,,,,,,"",""
+ball,1,7.2,Hampshire,LA Dawson,RA Whiteley,M de Lange,1,0,,,,,,"",""
+ball,1,7.3,Hampshire,RA Whiteley,LA Dawson,M de Lange,1,0,,,,,,"",""
+ball,1,7.4,Hampshire,LA Dawson,RA Whiteley,M de Lange,0,0,,,,,,"",""
+ball,1,7.5,Hampshire,LA Dawson,RA Whiteley,M de Lange,1,0,,,,,,"",""
+ball,1,7.6,Hampshire,RA Whiteley,LA Dawson,M de Lange,4,0,,,,,,"",""
+ball,1,8.1,Hampshire,LA Dawson,RA Whiteley,BGF Green,0,0,,,,,,"",""
+ball,1,8.2,Hampshire,LA Dawson,RA Whiteley,BGF Green,1,0,,,,,,"",""
+ball,1,8.3,Hampshire,RA Whiteley,LA Dawson,BGF Green,1,0,,,,,,"",""
+ball,1,8.4,Hampshire,LA Dawson,RA Whiteley,BGF Green,0,0,,,,,,"",""
+ball,1,8.5,Hampshire,LA Dawson,RA Whiteley,BGF Green,1,0,,,,,,"",""
+ball,1,8.6,Hampshire,RA Whiteley,LA Dawson,BGF Green,2,0,,,,,,"",""
+ball,1,9.1,Hampshire,LA Dawson,RA Whiteley,L Gregory,0,0,,,,,,"",""
+ball,1,9.2,Hampshire,LA Dawson,RA Whiteley,L Gregory,0,0,,,,,,"",""
+ball,1,9.3,Hampshire,LA Dawson,RA Whiteley,L Gregory,1,0,,,,,,"",""
+ball,1,9.4,Hampshire,RA Whiteley,LA Dawson,L Gregory,0,0,,,,,,"",""
+ball,1,9.5,Hampshire,RA Whiteley,LA Dawson,L Gregory,0,0,,,,,,caught and bowled,RA Whiteley
+ball,1,9.6,Hampshire,JK Fuller,LA Dawson,L Gregory,1,0,,,,,,"",""
+ball,1,10.1,Hampshire,JK Fuller,LA Dawson,RE van der Merwe,0,0,,,,,,"",""
+ball,1,10.2,Hampshire,JK Fuller,LA Dawson,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.3,Hampshire,LA Dawson,JK Fuller,RE van der Merwe,0,0,,,,,,"",""
+ball,1,10.4,Hampshire,LA Dawson,JK Fuller,RE van der Merwe,0,0,,,,,,"",""
+ball,1,10.5,Hampshire,LA Dawson,JK Fuller,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.6,Hampshire,JK Fuller,LA Dawson,RE van der Merwe,1,0,,,,,,"",""
+ball,1,11.1,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,0,0,,,,,,"",""
+ball,1,11.2,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,4,0,,,,,,"",""
+ball,1,11.3,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,1,0,,,,,,"",""
+ball,1,11.4,Hampshire,LA Dawson,JK Fuller,LP Goldsworthy,1,0,,,,,,"",""
+ball,1,11.5,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,0,0,,,,,,"",""
+ball,1,11.6,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,0,0,,,,,,"",""
+ball,1,12.1,Hampshire,LA Dawson,JK Fuller,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.2,Hampshire,JK Fuller,LA Dawson,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.3,Hampshire,LA Dawson,JK Fuller,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.4,Hampshire,JK Fuller,LA Dawson,RE van der Merwe,0,0,,,,,,"",""
+ball,1,12.5,Hampshire,JK Fuller,LA Dawson,RE van der Merwe,6,0,,,,,,"",""
+ball,1,12.6,Hampshire,JK Fuller,LA Dawson,RE van der Merwe,0,0,,,,,,"",""
+ball,1,13.1,Hampshire,LA Dawson,JK Fuller,LP Goldsworthy,1,0,,,,,,"",""
+ball,1,13.2,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,4,0,,,,,,"",""
+ball,1,13.3,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,0,0,,,,,,"",""
+ball,1,13.4,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,4,0,,,,,,"",""
+ball,1,13.5,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,0,0,,,,,,"",""
+ball,1,13.6,Hampshire,JK Fuller,LA Dawson,LP Goldsworthy,4,0,,,,,,"",""
+ball,1,14.1,Hampshire,LA Dawson,JK Fuller,M de Lange,0,0,,,,,,caught,LA Dawson
+ball,1,14.2,Hampshire,NT Ellis,JK Fuller,M de Lange,0,0,,,,,,"",""
+ball,1,14.3,Hampshire,NT Ellis,JK Fuller,M de Lange,1,0,,,,,,"",""
+ball,1,14.4,Hampshire,JK Fuller,NT Ellis,M de Lange,0,0,,,,,,"",""
+ball,1,14.5,Hampshire,JK Fuller,NT Ellis,M de Lange,2,0,,,,,,"",""
+ball,1,14.6,Hampshire,JK Fuller,NT Ellis,M de Lange,0,0,,,,,,"",""
+ball,1,15.1,Hampshire,NT Ellis,JK Fuller,BGF Green,1,0,,,,,,"",""
+ball,1,15.2,Hampshire,JK Fuller,NT Ellis,BGF Green,6,0,,,,,,"",""
+ball,1,15.3,Hampshire,JK Fuller,NT Ellis,BGF Green,1,0,,,,,,"",""
+ball,1,15.4,Hampshire,NT Ellis,JK Fuller,BGF Green,1,0,,,,,,"",""
+ball,1,15.5,Hampshire,JK Fuller,NT Ellis,BGF Green,1,0,,,,,,"",""
+ball,1,15.6,Hampshire,NT Ellis,JK Fuller,BGF Green,0,0,,,,,,bowled,NT Ellis
+ball,1,16.1,Hampshire,JK Fuller,CP Wood,M de Lange,0,0,,,,,,"",""
+ball,1,16.2,Hampshire,JK Fuller,CP Wood,M de Lange,4,0,,,,,,"",""
+ball,1,16.3,Hampshire,JK Fuller,CP Wood,M de Lange,1,0,,,,,,"",""
+ball,1,16.4,Hampshire,CP Wood,JK Fuller,M de Lange,1,0,,,,,,"",""
+ball,1,16.5,Hampshire,JK Fuller,CP Wood,M de Lange,0,0,,,,,,caught,JK Fuller
+ball,1,16.6,Hampshire,MS Crane,CP Wood,M de Lange,1,0,,,,,,"",""
+ball,1,17.1,Hampshire,MS Crane,CP Wood,JH Davey,1,0,,,,,,"",""
+ball,1,17.2,Hampshire,CP Wood,MS Crane,JH Davey,1,0,,,,,,"",""
+ball,1,17.3,Hampshire,MS Crane,CP Wood,JH Davey,1,0,,,,,,"",""
+ball,1,17.4,Hampshire,CP Wood,MS Crane,JH Davey,4,0,,,,,,"",""
+ball,1,17.5,Hampshire,CP Wood,MS Crane,JH Davey,1,0,,,,,,"",""
+ball,1,17.6,Hampshire,MS Crane,CP Wood,JH Davey,1,0,,,,,,"",""
+ball,1,18.1,Hampshire,MS Crane,CP Wood,M de Lange,0,0,,,,,,"",""
+ball,1,18.2,Hampshire,MS Crane,CP Wood,M de Lange,1,0,,,,,,"",""
+ball,1,18.3,Hampshire,CP Wood,MS Crane,M de Lange,1,0,,,,,,"",""
+ball,1,18.4,Hampshire,MS Crane,CP Wood,M de Lange,0,0,,,,,,"",""
+ball,1,18.5,Hampshire,MS Crane,CP Wood,M de Lange,0,0,,,,,,"",""
+ball,1,18.6,Hampshire,MS Crane,CP Wood,M de Lange,0,0,,,,,,"",""
+ball,1,19.1,Hampshire,CP Wood,MS Crane,JH Davey,2,0,,,,,,"",""
+ball,1,19.2,Hampshire,CP Wood,MS Crane,JH Davey,0,0,,,,,,"",""
+ball,1,19.3,Hampshire,CP Wood,MS Crane,JH Davey,0,0,,,,,,caught,CP Wood
+ball,1,19.4,Hampshire,BTJ Wheal,MS Crane,JH Davey,1,0,,,,,,"",""
+ball,1,19.5,Hampshire,MS Crane,BTJ Wheal,JH Davey,1,0,,,,,,"",""
+ball,1,19.6,Hampshire,BTJ Wheal,MS Crane,JH Davey,0,0,,,,,,caught,BTJ Wheal
+ball,2,0.1,Somerset,T Banton,WCF Smeed,CP Wood,0,0,,,,,,"",""
+ball,2,0.2,Somerset,T Banton,WCF Smeed,CP Wood,0,1,1,,,,,"",""
+ball,2,0.3,Somerset,T Banton,WCF Smeed,CP Wood,4,0,,,,,,"",""
+ball,2,0.4,Somerset,T Banton,WCF Smeed,CP Wood,0,0,,,,,,"",""
+ball,2,0.5,Somerset,T Banton,WCF Smeed,CP Wood,1,0,,,,,,"",""
+ball,2,0.6,Somerset,WCF Smeed,T Banton,CP Wood,0,0,,,,,,"",""
+ball,2,0.7,Somerset,WCF Smeed,T Banton,CP Wood,4,0,,,,,,"",""
+ball,2,1.1,Somerset,T Banton,WCF Smeed,BTJ Wheal,0,0,,,,,,"",""
+ball,2,1.2,Somerset,T Banton,WCF Smeed,BTJ Wheal,1,0,,,,,,"",""
+ball,2,1.3,Somerset,WCF Smeed,T Banton,BTJ Wheal,1,0,,,,,,"",""
+ball,2,1.4,Somerset,T Banton,WCF Smeed,BTJ Wheal,0,0,,,,,,"",""
+ball,2,1.5,Somerset,T Banton,WCF Smeed,BTJ Wheal,1,0,,,,,,"",""
+ball,2,1.6,Somerset,WCF Smeed,T Banton,BTJ Wheal,0,0,,,,,,"",""
+ball,2,2.1,Somerset,T Banton,WCF Smeed,CP Wood,4,0,,,,,,"",""
+ball,2,2.2,Somerset,T Banton,WCF Smeed,CP Wood,0,0,,,,,,"",""
+ball,2,2.3,Somerset,T Banton,WCF Smeed,CP Wood,0,0,,,,,,"",""
+ball,2,2.4,Somerset,T Banton,WCF Smeed,CP Wood,1,0,,,,,,"",""
+ball,2,2.5,Somerset,WCF Smeed,T Banton,CP Wood,1,0,,,,,,"",""
+ball,2,2.6,Somerset,T Banton,WCF Smeed,CP Wood,1,0,,,,,,"",""
+ball,2,3.1,Somerset,T Banton,WCF Smeed,NT Ellis,1,0,,,,,,"",""
+ball,2,3.2,Somerset,WCF Smeed,T Banton,NT Ellis,4,2,,2,,,,"",""
+ball,2,3.3,Somerset,WCF Smeed,T Banton,NT Ellis,0,2,,2,,,,"",""
+ball,2,3.4,Somerset,WCF Smeed,T Banton,NT Ellis,6,0,,,,,,"",""
+ball,2,3.5,Somerset,WCF Smeed,T Banton,NT Ellis,0,0,,,,,,"",""
+ball,2,3.6,Somerset,WCF Smeed,T Banton,NT Ellis,1,0,,,,,,"",""
+ball,2,3.7,Somerset,T Banton,WCF Smeed,NT Ellis,1,0,,,,,,"",""
+ball,2,3.8,Somerset,WCF Smeed,T Banton,NT Ellis,0,0,,,,,,"",""
+ball,2,4.1,Somerset,T Banton,WCF Smeed,BTJ Wheal,0,0,,,,,,"",""
+ball,2,4.2,Somerset,T Banton,WCF Smeed,BTJ Wheal,0,0,,,,,,"",""
+ball,2,4.3,Somerset,T Banton,WCF Smeed,BTJ Wheal,0,0,,,,,,"",""
+ball,2,4.4,Somerset,T Banton,WCF Smeed,BTJ Wheal,4,0,,,,,,"",""
+ball,2,4.5,Somerset,T Banton,WCF Smeed,BTJ Wheal,1,0,,,,,,"",""
+ball,2,4.6,Somerset,WCF Smeed,T Banton,BTJ Wheal,4,0,,,,,,"",""
+ball,2,5.1,Somerset,T Banton,WCF Smeed,CP Wood,0,0,,,,,,caught,T Banton
+ball,2,5.2,Somerset,RR Rossouw,WCF Smeed,CP Wood,0,0,,,,,,"",""
+ball,2,5.3,Somerset,RR Rossouw,WCF Smeed,CP Wood,4,0,,,,,,"",""
+ball,2,5.4,Somerset,RR Rossouw,WCF Smeed,CP Wood,0,0,,,,,,"",""
+ball,2,5.5,Somerset,RR Rossouw,WCF Smeed,CP Wood,0,0,,,,,,"",""
+ball,2,5.6,Somerset,RR Rossouw,WCF Smeed,CP Wood,4,0,,,,,,"",""
+ball,2,6.1,Somerset,WCF Smeed,RR Rossouw,JK Fuller,1,0,,,,,,"",""
+ball,2,6.2,Somerset,RR Rossouw,WCF Smeed,JK Fuller,1,0,,,,,,"",""
+ball,2,6.3,Somerset,WCF Smeed,RR Rossouw,JK Fuller,0,0,,,,,,"",""
+ball,2,6.4,Somerset,WCF Smeed,RR Rossouw,JK Fuller,0,0,,,,,,caught,WCF Smeed
+ball,2,6.5,Somerset,TB Abell,RR Rossouw,JK Fuller,4,0,,,,,,"",""
+ball,2,6.6,Somerset,TB Abell,RR Rossouw,JK Fuller,0,0,,,,,,"",""
+ball,2,7.1,Somerset,RR Rossouw,TB Abell,NT Ellis,0,0,,,,,,"",""
+ball,2,7.2,Somerset,RR Rossouw,TB Abell,NT Ellis,2,0,,,,,,"",""
+ball,2,7.3,Somerset,RR Rossouw,TB Abell,NT Ellis,1,0,,,,,,"",""
+ball,2,7.4,Somerset,TB Abell,RR Rossouw,NT Ellis,1,0,,,,,,"",""
+ball,2,7.5,Somerset,RR Rossouw,TB Abell,NT Ellis,1,0,,,,,,"",""
+ball,2,7.6,Somerset,TB Abell,RR Rossouw,NT Ellis,0,0,,,,,,"",""
+ball,2,8.1,Somerset,RR Rossouw,TB Abell,JK Fuller,2,0,,,,,,"",""
+ball,2,8.2,Somerset,RR Rossouw,TB Abell,JK Fuller,1,0,,,,,,"",""
+ball,2,8.3,Somerset,TB Abell,RR Rossouw,JK Fuller,1,0,,,,,,"",""
+ball,2,8.4,Somerset,RR Rossouw,TB Abell,JK Fuller,0,0,,,,,,"",""
+ball,2,8.5,Somerset,RR Rossouw,TB Abell,JK Fuller,0,0,,,,,,"",""
+ball,2,8.6,Somerset,RR Rossouw,TB Abell,JK Fuller,6,0,,,,,,"",""
+ball,2,9.1,Somerset,TB Abell,RR Rossouw,BTJ Wheal,1,0,,,,,,"",""
+ball,2,9.2,Somerset,RR Rossouw,TB Abell,BTJ Wheal,0,0,,,,,,"",""
+ball,2,9.3,Somerset,RR Rossouw,TB Abell,BTJ Wheal,4,0,,,,,,"",""
+ball,2,9.4,Somerset,RR Rossouw,TB Abell,BTJ Wheal,0,0,,,,,,caught,RR Rossouw
+ball,2,9.5,Somerset,TA Lammonby,TB Abell,BTJ Wheal,2,0,,,,,,"",""
+ball,2,9.6,Somerset,TA Lammonby,TB Abell,BTJ Wheal,1,0,,,,,,"",""
+ball,2,10.1,Somerset,TA Lammonby,TB Abell,MS Crane,0,0,,,,,,"",""
+ball,2,10.2,Somerset,TA Lammonby,TB Abell,MS Crane,1,0,,,,,,"",""
+ball,2,10.3,Somerset,TB Abell,TA Lammonby,MS Crane,0,0,,,,,,bowled,TB Abell
+ball,2,10.4,Somerset,L Gregory,TA Lammonby,MS Crane,1,0,,,,,,"",""
+ball,2,10.5,Somerset,TA Lammonby,L Gregory,MS Crane,0,0,,,,,,"",""
+ball,2,10.6,Somerset,TA Lammonby,L Gregory,MS Crane,1,0,,,,,,"",""
+ball,2,11.1,Somerset,TA Lammonby,L Gregory,JK Fuller,1,0,,,,,,"",""
+ball,2,11.2,Somerset,L Gregory,TA Lammonby,JK Fuller,1,0,,,,,,"",""
+ball,2,11.3,Somerset,TA Lammonby,L Gregory,JK Fuller,1,0,,,,,,"",""
+ball,2,11.4,Somerset,L Gregory,TA Lammonby,JK Fuller,0,0,,,,,,lbw,L Gregory
+ball,2,11.5,Somerset,BGF Green,TA Lammonby,JK Fuller,0,0,,,,,,"",""
+ball,2,11.6,Somerset,BGF Green,TA Lammonby,JK Fuller,1,0,,,,,,"",""
+ball,2,12.1,Somerset,BGF Green,TA Lammonby,MS Crane,1,0,,,,,,"",""
+ball,2,12.2,Somerset,TA Lammonby,BGF Green,MS Crane,4,0,,,,,,"",""
+ball,2,12.3,Somerset,TA Lammonby,BGF Green,MS Crane,1,0,,,,,,"",""
+ball,2,12.4,Somerset,BGF Green,TA Lammonby,MS Crane,1,0,,,,,,"",""
+ball,2,12.5,Somerset,TA Lammonby,BGF Green,MS Crane,2,0,,,,,,"",""
+ball,2,12.6,Somerset,TA Lammonby,BGF Green,MS Crane,2,0,,,,,,"",""
+ball,2,13.1,Somerset,BGF Green,TA Lammonby,JK Fuller,0,0,,,,,,"",""
+ball,2,13.2,Somerset,BGF Green,TA Lammonby,JK Fuller,1,0,,,,,,"",""
+ball,2,13.3,Somerset,TA Lammonby,BGF Green,JK Fuller,0,0,,,,,,"",""
+ball,2,13.4,Somerset,TA Lammonby,BGF Green,JK Fuller,0,0,,,,,,"",""
+ball,2,13.5,Somerset,TA Lammonby,BGF Green,JK Fuller,0,0,,,,,,"",""
+ball,2,13.6,Somerset,TA Lammonby,BGF Green,JK Fuller,2,0,,,,,,"",""
+ball,2,14.1,Somerset,BGF Green,TA Lammonby,CP Wood,1,0,,,,,,"",""
+ball,2,14.2,Somerset,TA Lammonby,BGF Green,CP Wood,1,0,,,,,,"",""
+ball,2,14.3,Somerset,BGF Green,TA Lammonby,CP Wood,1,0,,,,,,"",""
+ball,2,14.4,Somerset,TA Lammonby,BGF Green,CP Wood,4,0,,,,,,"",""
+ball,2,14.5,Somerset,TA Lammonby,BGF Green,CP Wood,4,0,,,,,,"",""
+ball,2,14.6,Somerset,TA Lammonby,BGF Green,CP Wood,6,0,,,,,,"",""
+ball,2,15.1,Somerset,BGF Green,TA Lammonby,NT Ellis,0,1,,,1,,,"",""
+ball,2,15.2,Somerset,TA Lammonby,BGF Green,NT Ellis,0,0,,,,,,"",""
+ball,2,15.3,Somerset,TA Lammonby,BGF Green,NT Ellis,0,0,,,,,,caught,TA Lammonby
+ball,2,15.4,Somerset,RE van der Merwe,BGF Green,NT Ellis,1,0,,,,,,"",""
+ball,2,15.5,Somerset,BGF Green,RE van der Merwe,NT Ellis,1,0,,,,,,"",""

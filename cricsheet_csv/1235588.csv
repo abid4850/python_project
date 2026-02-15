@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Supernovas
+info,team,Trailblazers
+info,gender,female
+info,season,2020/21
+info,date,2020/11/07
+info,event,Women's T20 Challenge
+info,match_number,3
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Supernovas
+info,toss_decision,bat
+info,player_of_match,AC Jayangani
+info,umpire,AY Dandekar
+info,umpire,YC Barde
+info,reserve_umpire,K Srinivasan
+info,tv_umpire,PG Pathak
+info,match_referee,Prakash Bhatt
+info,winner,Supernovas
+info,winner_runs,2
+info,player,Supernovas,PS Punia
+info,player,Supernovas,AC Jayangani
+info,player,Supernovas,H Kaur
+info,player,Supernovas,JI Rodrigues
+info,player,Supernovas,HASD Siriwardene
+info,player,Supernovas,AA Patil
+info,player,Supernovas,RP Yadav
+info,player,Supernovas,T Bhatia
+info,player,Supernovas,Poonam Yadav
+info,player,Supernovas,SC Selman
+info,player,Supernovas,A Khaka
+info,player,Trailblazers,DJS Dottin
+info,player,Trailblazers,S Mandhana
+info,player,Trailblazers,RM Ghosh
+info,player,Trailblazers,DB Sharma
+info,player,Trailblazers,D Hemalatha
+info,player,Trailblazers,H Deol
+info,player,Trailblazers,S Ecclestone
+info,player,Trailblazers,N Chantam
+info,player,Trailblazers,Salma Khatun
+info,player,Trailblazers,RS Gayakwad
+info,player,Trailblazers,J Goswami
+info,registry,people,A Khaka,0d518f89
+info,registry,people,AA Patil,7c1ba524
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AY Dandekar,2efc430e
+info,registry,people,D Hemalatha,1d6ff329
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,H Deol,3664712e
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,HASD Siriwardene,dbd79036
+info,registry,people,J Goswami,84f1ae7f
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,K Srinivasan,042a8b69
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,PG Pathak,9f772ec5
+info,registry,people,PS Punia,8d887a02
+info,registry,people,Poonam Yadav,d0bb40b8
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,SC Selman,c29ada99
+info,registry,people,Salma Khatun,037f2b86
+info,registry,people,T Bhatia,211dc1ce
+info,registry,people,YC Barde,b90f3346
+ball,1,0.1,Supernovas,PS Punia,AC Jayangani,J Goswami,0,0,,,,,,"",""
+ball,1,0.2,Supernovas,PS Punia,AC Jayangani,J Goswami,0,1,,,,1,,"",""
+ball,1,0.3,Supernovas,AC Jayangani,PS Punia,J Goswami,0,0,,,,,,"",""
+ball,1,0.4,Supernovas,AC Jayangani,PS Punia,J Goswami,0,0,,,,,,"",""
+ball,1,0.5,Supernovas,AC Jayangani,PS Punia,J Goswami,1,0,,,,,,"",""
+ball,1,0.6,Supernovas,PS Punia,AC Jayangani,J Goswami,0,0,,,,,,"",""
+ball,1,1.1,Supernovas,AC Jayangani,PS Punia,DB Sharma,0,0,,,,,,"",""
+ball,1,1.2,Supernovas,AC Jayangani,PS Punia,DB Sharma,2,0,,,,,,"",""
+ball,1,1.3,Supernovas,AC Jayangani,PS Punia,DB Sharma,4,0,,,,,,"",""
+ball,1,1.4,Supernovas,AC Jayangani,PS Punia,DB Sharma,0,0,,,,,,"",""
+ball,1,1.5,Supernovas,AC Jayangani,PS Punia,DB Sharma,0,0,,,,,,"",""
+ball,1,1.6,Supernovas,AC Jayangani,PS Punia,DB Sharma,4,0,,,,,,"",""
+ball,1,2.1,Supernovas,PS Punia,AC Jayangani,J Goswami,0,0,,,,,,"",""
+ball,1,2.2,Supernovas,PS Punia,AC Jayangani,J Goswami,0,0,,,,,,"",""
+ball,1,2.3,Supernovas,PS Punia,AC Jayangani,J Goswami,0,0,,,,,,"",""
+ball,1,2.4,Supernovas,PS Punia,AC Jayangani,J Goswami,0,0,,,,,,"",""
+ball,1,2.5,Supernovas,PS Punia,AC Jayangani,J Goswami,0,0,,,,,,"",""
+ball,1,2.6,Supernovas,PS Punia,AC Jayangani,J Goswami,1,0,,,,,,"",""
+ball,1,3.1,Supernovas,PS Punia,AC Jayangani,DB Sharma,1,0,,,,,,"",""
+ball,1,3.2,Supernovas,AC Jayangani,PS Punia,DB Sharma,6,0,,,,,,"",""
+ball,1,3.3,Supernovas,AC Jayangani,PS Punia,DB Sharma,0,2,2,,,,,"",""
+ball,1,3.4,Supernovas,PS Punia,AC Jayangani,DB Sharma,1,0,,,,,,"",""
+ball,1,3.5,Supernovas,AC Jayangani,PS Punia,DB Sharma,4,0,,,,,,"",""
+ball,1,3.6,Supernovas,AC Jayangani,PS Punia,DB Sharma,1,0,,,,,,"",""
+ball,1,3.7,Supernovas,PS Punia,AC Jayangani,DB Sharma,0,0,,,,,,"",""
+ball,1,4.1,Supernovas,AC Jayangani,PS Punia,J Goswami,0,4,,,,4,,"",""
+ball,1,4.2,Supernovas,AC Jayangani,PS Punia,J Goswami,0,0,,,,,,"",""
+ball,1,4.3,Supernovas,AC Jayangani,PS Punia,J Goswami,6,0,,,,,,"",""
+ball,1,4.4,Supernovas,AC Jayangani,PS Punia,J Goswami,0,0,,,,,,"",""
+ball,1,4.5,Supernovas,AC Jayangani,PS Punia,J Goswami,0,5,5,,,,,"",""
+ball,1,4.6,Supernovas,AC Jayangani,PS Punia,J Goswami,0,0,,,,,,"",""
+ball,1,4.7,Supernovas,AC Jayangani,PS Punia,J Goswami,0,0,,,,,,"",""
+ball,1,5.1,Supernovas,PS Punia,AC Jayangani,S Ecclestone,0,0,,,,,,"",""
+ball,1,5.2,Supernovas,PS Punia,AC Jayangani,S Ecclestone,0,0,,,,,,"",""
+ball,1,5.3,Supernovas,PS Punia,AC Jayangani,S Ecclestone,1,0,,,,,,"",""
+ball,1,5.4,Supernovas,AC Jayangani,PS Punia,S Ecclestone,1,0,,,,,,"",""
+ball,1,5.5,Supernovas,PS Punia,AC Jayangani,S Ecclestone,4,0,,,,,,"",""
+ball,1,5.6,Supernovas,PS Punia,AC Jayangani,S Ecclestone,1,0,,,,,,"",""
+ball,1,6.1,Supernovas,PS Punia,AC Jayangani,RS Gayakwad,1,0,,,,,,"",""
+ball,1,6.2,Supernovas,AC Jayangani,PS Punia,RS Gayakwad,1,0,,,,,,"",""
+ball,1,6.3,Supernovas,PS Punia,AC Jayangani,RS Gayakwad,1,0,,,,,,"",""
+ball,1,6.4,Supernovas,AC Jayangani,PS Punia,RS Gayakwad,6,0,,,,,,"",""
+ball,1,6.5,Supernovas,AC Jayangani,PS Punia,RS Gayakwad,1,0,,,,,,"",""
+ball,1,6.6,Supernovas,PS Punia,AC Jayangani,RS Gayakwad,1,0,,,,,,"",""
+ball,1,7.1,Supernovas,PS Punia,AC Jayangani,S Ecclestone,0,0,,,,,,"",""
+ball,1,7.2,Supernovas,PS Punia,AC Jayangani,S Ecclestone,0,0,,,,,,"",""
+ball,1,7.3,Supernovas,PS Punia,AC Jayangani,S Ecclestone,0,0,,,,,,"",""
+ball,1,7.4,Supernovas,PS Punia,AC Jayangani,S Ecclestone,4,0,,,,,,"",""
+ball,1,7.5,Supernovas,PS Punia,AC Jayangani,S Ecclestone,1,0,,,,,,"",""
+ball,1,7.6,Supernovas,AC Jayangani,PS Punia,S Ecclestone,1,0,,,,,,"",""
+ball,1,8.1,Supernovas,AC Jayangani,PS Punia,RS Gayakwad,0,0,,,,,,"",""
+ball,1,8.2,Supernovas,AC Jayangani,PS Punia,RS Gayakwad,1,0,,,,,,"",""
+ball,1,8.3,Supernovas,PS Punia,AC Jayangani,RS Gayakwad,4,0,,,,,,"",""
+ball,1,8.4,Supernovas,PS Punia,AC Jayangani,RS Gayakwad,1,0,,,,,,"",""
+ball,1,8.5,Supernovas,AC Jayangani,PS Punia,RS Gayakwad,1,0,,,,,,"",""
+ball,1,8.6,Supernovas,PS Punia,AC Jayangani,RS Gayakwad,1,0,,,,,,"",""
+ball,1,9.1,Supernovas,PS Punia,AC Jayangani,Salma Khatun,1,0,,,,,,"",""
+ball,1,9.2,Supernovas,AC Jayangani,PS Punia,Salma Khatun,0,0,,,,,,"",""
+ball,1,9.3,Supernovas,AC Jayangani,PS Punia,Salma Khatun,0,0,,,,,,"",""
+ball,1,9.4,Supernovas,AC Jayangani,PS Punia,Salma Khatun,0,0,,,,,,"",""
+ball,1,9.5,Supernovas,AC Jayangani,PS Punia,Salma Khatun,3,0,,,,,,"",""
+ball,1,9.6,Supernovas,PS Punia,AC Jayangani,Salma Khatun,1,0,,,,,,"",""
+ball,1,10.1,Supernovas,PS Punia,AC Jayangani,H Deol,1,0,,,,,,"",""
+ball,1,10.2,Supernovas,AC Jayangani,PS Punia,H Deol,1,0,,,,,,"",""
+ball,1,10.3,Supernovas,PS Punia,AC Jayangani,H Deol,2,0,,,,,,"",""
+ball,1,10.4,Supernovas,PS Punia,AC Jayangani,H Deol,0,0,,,,,,"",""
+ball,1,10.5,Supernovas,PS Punia,AC Jayangani,H Deol,1,0,,,,,,"",""
+ball,1,10.6,Supernovas,AC Jayangani,PS Punia,H Deol,2,0,,,,,,"",""
+ball,1,11.1,Supernovas,PS Punia,AC Jayangani,Salma Khatun,0,0,,,,,,"",""
+ball,1,11.2,Supernovas,PS Punia,AC Jayangani,Salma Khatun,1,0,,,,,,"",""
+ball,1,11.3,Supernovas,AC Jayangani,PS Punia,Salma Khatun,0,0,,,,,,"",""
+ball,1,11.4,Supernovas,AC Jayangani,PS Punia,Salma Khatun,0,0,,,,,,"",""
+ball,1,11.5,Supernovas,AC Jayangani,PS Punia,Salma Khatun,1,0,,,,,,"",""
+ball,1,11.6,Supernovas,PS Punia,AC Jayangani,Salma Khatun,0,0,,,,,,caught,PS Punia
+ball,1,12.1,Supernovas,H Kaur,AC Jayangani,H Deol,0,0,,,,,,"",""
+ball,1,12.2,Supernovas,H Kaur,AC Jayangani,H Deol,1,0,,,,,,"",""
+ball,1,12.3,Supernovas,AC Jayangani,H Kaur,H Deol,1,0,,,,,,"",""
+ball,1,12.4,Supernovas,H Kaur,AC Jayangani,H Deol,1,0,,,,,,"",""
+ball,1,12.5,Supernovas,AC Jayangani,H Kaur,H Deol,4,0,,,,,,"",""
+ball,1,12.6,Supernovas,AC Jayangani,H Kaur,H Deol,0,0,,,,,,"",""
+ball,1,13.1,Supernovas,H Kaur,AC Jayangani,Salma Khatun,1,0,,,,,,"",""
+ball,1,13.2,Supernovas,AC Jayangani,H Kaur,Salma Khatun,0,0,,,,,,"",""
+ball,1,13.3,Supernovas,AC Jayangani,H Kaur,Salma Khatun,1,0,,,,,,"",""
+ball,1,13.4,Supernovas,H Kaur,AC Jayangani,Salma Khatun,0,0,,,,,,"",""
+ball,1,13.5,Supernovas,H Kaur,AC Jayangani,Salma Khatun,1,0,,,,,,"",""
+ball,1,13.6,Supernovas,AC Jayangani,H Kaur,Salma Khatun,1,0,,,,,,"",""
+ball,1,14.1,Supernovas,AC Jayangani,H Kaur,S Ecclestone,1,0,,,,,,"",""
+ball,1,14.2,Supernovas,H Kaur,AC Jayangani,S Ecclestone,0,0,,,,,,"",""
+ball,1,14.3,Supernovas,H Kaur,AC Jayangani,S Ecclestone,0,0,,,,,,"",""
+ball,1,14.4,Supernovas,H Kaur,AC Jayangani,S Ecclestone,1,0,,,,,,"",""
+ball,1,14.5,Supernovas,AC Jayangani,H Kaur,S Ecclestone,0,1,,,,1,,"",""
+ball,1,14.6,Supernovas,H Kaur,AC Jayangani,S Ecclestone,0,0,,,,,,"",""
+ball,1,15.1,Supernovas,AC Jayangani,H Kaur,Salma Khatun,1,0,,,,,,"",""
+ball,1,15.2,Supernovas,H Kaur,AC Jayangani,Salma Khatun,1,0,,,,,,"",""
+ball,1,15.3,Supernovas,AC Jayangani,H Kaur,Salma Khatun,6,0,,,,,,"",""
+ball,1,15.4,Supernovas,AC Jayangani,H Kaur,Salma Khatun,4,0,,,,,,"",""
+ball,1,15.5,Supernovas,AC Jayangani,H Kaur,Salma Khatun,1,0,,,,,,"",""
+ball,1,15.6,Supernovas,H Kaur,AC Jayangani,Salma Khatun,1,0,,,,,,"",""
+ball,1,16.1,Supernovas,H Kaur,AC Jayangani,H Deol,1,0,,,,,,"",""
+ball,1,16.2,Supernovas,AC Jayangani,H Kaur,H Deol,0,0,,,,,,caught,AC Jayangani
+ball,1,16.3,Supernovas,H Kaur,JI Rodrigues,H Deol,1,0,,,,,,"",""
+ball,1,16.4,Supernovas,JI Rodrigues,H Kaur,H Deol,1,0,,,,,,"",""
+ball,1,16.5,Supernovas,H Kaur,JI Rodrigues,H Deol,0,0,,,,,,"",""
+ball,1,16.6,Supernovas,H Kaur,JI Rodrigues,H Deol,2,0,,,,,,"",""
+ball,1,17.1,Supernovas,JI Rodrigues,H Kaur,J Goswami,0,0,,,,,,caught and bowled,JI Rodrigues
+ball,1,17.2,Supernovas,HASD Siriwardene,H Kaur,J Goswami,1,0,,,,,,"",""
+ball,1,17.3,Supernovas,H Kaur,HASD Siriwardene,J Goswami,0,0,,,,,,"",""
+ball,1,17.4,Supernovas,H Kaur,HASD Siriwardene,J Goswami,1,0,,,,,,"",""
+ball,1,17.5,Supernovas,HASD Siriwardene,H Kaur,J Goswami,1,0,,,,,,"",""
+ball,1,17.6,Supernovas,H Kaur,HASD Siriwardene,J Goswami,1,0,,,,,,"",""
+ball,1,18.1,Supernovas,H Kaur,HASD Siriwardene,H Deol,2,0,,,,,,"",""
+ball,1,18.2,Supernovas,H Kaur,HASD Siriwardene,H Deol,0,0,,,,,,"",""
+ball,1,18.3,Supernovas,H Kaur,HASD Siriwardene,H Deol,4,0,,,,,,"",""
+ball,1,18.4,Supernovas,H Kaur,HASD Siriwardene,H Deol,2,0,,,,,,"",""
+ball,1,18.5,Supernovas,H Kaur,HASD Siriwardene,H Deol,6,0,,,,,,"",""
+ball,1,18.6,Supernovas,H Kaur,HASD Siriwardene,H Deol,1,0,,,,,,"",""
+ball,1,19.1,Supernovas,H Kaur,HASD Siriwardene,S Ecclestone,2,0,,,,,,run out,HASD Siriwardene
+ball,1,19.2,Supernovas,AA Patil,H Kaur,S Ecclestone,1,0,,,,,,"",""
+ball,1,19.3,Supernovas,H Kaur,AA Patil,S Ecclestone,0,0,,,,,,"",""
+ball,1,19.4,Supernovas,H Kaur,AA Patil,S Ecclestone,0,0,,,,,,"",""
+ball,1,19.5,Supernovas,H Kaur,AA Patil,S Ecclestone,1,0,,,,,,run out,H Kaur
+ball,1,19.6,Supernovas,RP Yadav,AA Patil,S Ecclestone,1,0,,,,,,run out,AA Patil
+ball,2,0.1,Trailblazers,DJS Dottin,S Mandhana,A Khaka,0,0,,,,,,"",""
+ball,2,0.2,Trailblazers,DJS Dottin,S Mandhana,A Khaka,0,0,,,,,,"",""
+ball,2,0.3,Trailblazers,DJS Dottin,S Mandhana,A Khaka,0,0,,,,,,"",""
+ball,2,0.4,Trailblazers,DJS Dottin,S Mandhana,A Khaka,6,0,,,,,,"",""
+ball,2,0.5,Trailblazers,DJS Dottin,S Mandhana,A Khaka,4,0,,,,,,"",""
+ball,2,0.6,Trailblazers,DJS Dottin,S Mandhana,A Khaka,1,0,,,,,,"",""
+ball,2,1.1,Trailblazers,DJS Dottin,S Mandhana,AA Patil,0,1,1,,,,,"",""
+ball,2,1.2,Trailblazers,DJS Dottin,S Mandhana,AA Patil,1,0,,,,,,"",""
+ball,2,1.3,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,1.4,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,1.5,Trailblazers,S Mandhana,DJS Dottin,AA Patil,2,0,,,,,,"",""
+ball,2,1.6,Trailblazers,S Mandhana,DJS Dottin,AA Patil,1,0,,,,,,"",""
+ball,2,1.7,Trailblazers,DJS Dottin,S Mandhana,AA Patil,0,0,,,,,,"",""
+ball,2,2.1,Trailblazers,S Mandhana,DJS Dottin,A Khaka,4,0,,,,,,"",""
+ball,2,2.2,Trailblazers,S Mandhana,DJS Dottin,A Khaka,0,0,,,,,,"",""
+ball,2,2.3,Trailblazers,S Mandhana,DJS Dottin,A Khaka,0,0,,,,,,"",""
+ball,2,2.4,Trailblazers,S Mandhana,DJS Dottin,A Khaka,0,1,1,,,,,"",""
+ball,2,2.5,Trailblazers,S Mandhana,DJS Dottin,A Khaka,0,0,,,,,,"",""
+ball,2,2.6,Trailblazers,S Mandhana,DJS Dottin,A Khaka,0,0,,,,,,"",""
+ball,2,2.7,Trailblazers,S Mandhana,DJS Dottin,A Khaka,1,0,,,,,,"",""
+ball,2,3.1,Trailblazers,S Mandhana,DJS Dottin,AA Patil,4,0,,,,,,"",""
+ball,2,3.2,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,3.3,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,3.4,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,3.5,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,3.6,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,4.1,Trailblazers,DJS Dottin,S Mandhana,RP Yadav,0,0,,,,,,"",""
+ball,2,4.2,Trailblazers,DJS Dottin,S Mandhana,RP Yadav,4,0,,,,,,"",""
+ball,2,4.3,Trailblazers,DJS Dottin,S Mandhana,RP Yadav,1,0,,,,,,"",""
+ball,2,4.4,Trailblazers,S Mandhana,DJS Dottin,RP Yadav,0,0,,,,,,"",""
+ball,2,4.5,Trailblazers,S Mandhana,DJS Dottin,RP Yadav,1,0,,,,,,"",""
+ball,2,4.6,Trailblazers,DJS Dottin,S Mandhana,RP Yadav,4,0,,,,,,"",""
+ball,2,5.1,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,5.2,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,5.3,Trailblazers,S Mandhana,DJS Dottin,AA Patil,0,0,,,,,,"",""
+ball,2,5.4,Trailblazers,S Mandhana,DJS Dottin,AA Patil,1,0,,,,,,"",""
+ball,2,5.5,Trailblazers,DJS Dottin,S Mandhana,AA Patil,4,0,,,,,,"",""
+ball,2,5.6,Trailblazers,DJS Dottin,S Mandhana,AA Patil,2,0,,,,,,"",""
+ball,2,6.1,Trailblazers,S Mandhana,DJS Dottin,SC Selman,0,0,,,,,,"",""
+ball,2,6.2,Trailblazers,S Mandhana,DJS Dottin,SC Selman,1,0,,,,,,"",""
+ball,2,6.3,Trailblazers,DJS Dottin,S Mandhana,SC Selman,0,0,,,,,,lbw,DJS Dottin
+ball,2,6.4,Trailblazers,RM Ghosh,S Mandhana,SC Selman,4,0,,,,,,"",""
+ball,2,6.5,Trailblazers,RM Ghosh,S Mandhana,SC Selman,0,0,,,,,,bowled,RM Ghosh
+ball,2,6.6,Trailblazers,DB Sharma,S Mandhana,SC Selman,0,0,,,,,,"",""
+ball,2,7.1,Trailblazers,S Mandhana,DB Sharma,HASD Siriwardene,1,0,,,,,,"",""
+ball,2,7.2,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,0,0,,,,,,"",""
+ball,2,7.3,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,0,0,,,,,,"",""
+ball,2,7.4,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,2,0,,,,,,"",""
+ball,2,7.5,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,1,0,,,,,,"",""
+ball,2,7.6,Trailblazers,S Mandhana,DB Sharma,HASD Siriwardene,1,0,,,,,,"",""
+ball,2,8.1,Trailblazers,S Mandhana,DB Sharma,SC Selman,0,0,,,,,,"",""
+ball,2,8.2,Trailblazers,S Mandhana,DB Sharma,SC Selman,1,0,,,,,,"",""
+ball,2,8.3,Trailblazers,DB Sharma,S Mandhana,SC Selman,1,0,,,,,,"",""
+ball,2,8.4,Trailblazers,S Mandhana,DB Sharma,SC Selman,0,0,,,,,,"",""
+ball,2,8.5,Trailblazers,S Mandhana,DB Sharma,SC Selman,1,0,,,,,,"",""
+ball,2,8.6,Trailblazers,DB Sharma,S Mandhana,SC Selman,1,0,,,,,,"",""
+ball,2,9.1,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,0,0,,,,,,"",""
+ball,2,9.2,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,1,0,,,,,,"",""
+ball,2,9.3,Trailblazers,S Mandhana,DB Sharma,HASD Siriwardene,0,0,,,,,,"",""
+ball,2,9.4,Trailblazers,S Mandhana,DB Sharma,HASD Siriwardene,1,0,,,,,,"",""
+ball,2,9.5,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,0,0,,,,,,"",""
+ball,2,9.6,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,0,0,,,,,,"",""
+ball,2,10.1,Trailblazers,S Mandhana,DB Sharma,SC Selman,0,0,,,,,,"",""
+ball,2,10.2,Trailblazers,S Mandhana,DB Sharma,SC Selman,2,0,,,,,,"",""
+ball,2,10.3,Trailblazers,S Mandhana,DB Sharma,SC Selman,2,0,,,,,,"",""
+ball,2,10.4,Trailblazers,S Mandhana,DB Sharma,SC Selman,1,0,,,,,,"",""
+ball,2,10.5,Trailblazers,DB Sharma,S Mandhana,SC Selman,4,0,,,,,,"",""
+ball,2,10.6,Trailblazers,DB Sharma,S Mandhana,SC Selman,1,0,,,,,,"",""
+ball,2,11.1,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,4,0,,,,,,"",""
+ball,2,11.2,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,1,0,,,,,,"",""
+ball,2,11.3,Trailblazers,S Mandhana,DB Sharma,HASD Siriwardene,6,0,,,,,,"",""
+ball,2,11.4,Trailblazers,S Mandhana,DB Sharma,HASD Siriwardene,1,0,,,,,,"",""
+ball,2,11.5,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,0,0,,,,,,"",""
+ball,2,11.6,Trailblazers,DB Sharma,S Mandhana,HASD Siriwardene,0,0,,,,,,"",""
+ball,2,12.1,Trailblazers,S Mandhana,DB Sharma,AA Patil,1,0,,,,,,"",""
+ball,2,12.2,Trailblazers,DB Sharma,S Mandhana,AA Patil,1,0,,,,,,"",""
+ball,2,12.3,Trailblazers,S Mandhana,DB Sharma,AA Patil,0,0,,,,,,caught and bowled,S Mandhana
+ball,2,12.4,Trailblazers,D Hemalatha,DB Sharma,AA Patil,0,0,,,,,,"",""
+ball,2,12.5,Trailblazers,D Hemalatha,DB Sharma,AA Patil,0,0,,,,,,"",""
+ball,2,12.6,Trailblazers,D Hemalatha,DB Sharma,AA Patil,0,0,,,,,,"",""
+ball,2,13.1,Trailblazers,DB Sharma,D Hemalatha,H Kaur,0,0,,,,,,"",""
+ball,2,13.2,Trailblazers,DB Sharma,D Hemalatha,H Kaur,0,0,,,,,,"",""
+ball,2,13.3,Trailblazers,DB Sharma,D Hemalatha,H Kaur,0,0,,,,,,"",""
+ball,2,13.4,Trailblazers,DB Sharma,D Hemalatha,H Kaur,0,0,,,,,,"",""
+ball,2,13.5,Trailblazers,DB Sharma,D Hemalatha,H Kaur,1,0,,,,,,"",""
+ball,2,13.6,Trailblazers,D Hemalatha,DB Sharma,H Kaur,2,0,,,,,,"",""
+ball,2,14.1,Trailblazers,DB Sharma,D Hemalatha,RP Yadav,1,0,,,,,,"",""
+ball,2,14.2,Trailblazers,D Hemalatha,DB Sharma,RP Yadav,1,0,,,,,,"",""
+ball,2,14.3,Trailblazers,DB Sharma,D Hemalatha,RP Yadav,1,0,,,,,,"",""
+ball,2,14.4,Trailblazers,D Hemalatha,DB Sharma,RP Yadav,1,0,,,,,,"",""
+ball,2,14.5,Trailblazers,DB Sharma,D Hemalatha,RP Yadav,1,0,,,,,,"",""
+ball,2,14.6,Trailblazers,D Hemalatha,DB Sharma,RP Yadav,0,0,,,,,,caught,D Hemalatha
+ball,2,15.1,Trailblazers,DB Sharma,H Deol,H Kaur,1,0,,,,,,"",""
+ball,2,15.2,Trailblazers,H Deol,DB Sharma,H Kaur,4,0,,,,,,"",""
+ball,2,15.3,Trailblazers,H Deol,DB Sharma,H Kaur,0,1,1,,,,,"",""
+ball,2,15.4,Trailblazers,H Deol,DB Sharma,H Kaur,1,0,,,,,,"",""
+ball,2,15.5,Trailblazers,DB Sharma,H Deol,H Kaur,4,0,,,,,,"",""
+ball,2,15.6,Trailblazers,DB Sharma,H Deol,H Kaur,1,0,,,,,,"",""
+ball,2,15.7,Trailblazers,H Deol,DB Sharma,H Kaur,0,0,,,,,,"",""
+ball,2,16.1,Trailblazers,DB Sharma,H Deol,RP Yadav,1,0,,,,,,"",""
+ball,2,16.2,Trailblazers,H Deol,DB Sharma,RP Yadav,2,0,,,,,,"",""
+ball,2,16.3,Trailblazers,H Deol,DB Sharma,RP Yadav,1,0,,,,,,"",""
+ball,2,16.4,Trailblazers,DB Sharma,H Deol,RP Yadav,1,0,,,,,,"",""
+ball,2,16.5,Trailblazers,H Deol,DB Sharma,RP Yadav,2,0,,,,,,"",""
+ball,2,16.6,Trailblazers,H Deol,DB Sharma,RP Yadav,2,0,,,,,,"",""
+ball,2,17.1,Trailblazers,DB Sharma,H Deol,Poonam Yadav,1,0,,,,,,"",""
+ball,2,17.2,Trailblazers,H Deol,DB Sharma,Poonam Yadav,1,0,,,,,,"",""
+ball,2,17.3,Trailblazers,DB Sharma,H Deol,Poonam Yadav,0,0,,,,,,"",""
+ball,2,17.4,Trailblazers,DB Sharma,H Deol,Poonam Yadav,1,0,,,,,,"",""
+ball,2,17.5,Trailblazers,H Deol,DB Sharma,Poonam Yadav,4,0,,,,,,"",""
+ball,2,17.6,Trailblazers,H Deol,DB Sharma,Poonam Yadav,4,0,,,,,,"",""
+ball,2,18.1,Trailblazers,DB Sharma,H Deol,SC Selman,4,0,,,,,,"",""
+ball,2,18.2,Trailblazers,DB Sharma,H Deol,SC Selman,4,0,,,,,,"",""
+ball,2,18.3,Trailblazers,DB Sharma,H Deol,SC Selman,0,2,,,,2,,"",""
+ball,2,18.4,Trailblazers,DB Sharma,H Deol,SC Selman,1,0,,,,,,"",""
+ball,2,18.5,Trailblazers,H Deol,DB Sharma,SC Selman,1,0,,,,,,"",""
+ball,2,18.6,Trailblazers,DB Sharma,H Deol,SC Selman,2,0,,,,,,"",""
+ball,2,19.1,Trailblazers,H Deol,DB Sharma,RP Yadav,2,0,,,,,,"",""
+ball,2,19.2,Trailblazers,H Deol,DB Sharma,RP Yadav,1,0,,,,,,"",""
+ball,2,19.3,Trailblazers,DB Sharma,H Deol,RP Yadav,1,0,,,,,,"",""
+ball,2,19.4,Trailblazers,H Deol,DB Sharma,RP Yadav,2,0,,,,,,"",""
+ball,2,19.5,Trailblazers,H Deol,DB Sharma,RP Yadav,0,0,,,,,,caught,H Deol
+ball,2,19.6,Trailblazers,S Ecclestone,DB Sharma,RP Yadav,0,1,,,,1,,"",""

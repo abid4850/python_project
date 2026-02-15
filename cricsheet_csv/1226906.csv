@@ -1,0 +1,258 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Adelaide Strikers
+info,gender,female
+info,season,2020/21
+info,date,2020/10/25
+info,event,Women's Big Bash League
+info,match_number,2
+info,venue,Hurstville Oval
+info,city,Sydney
+info,toss_winner,Adelaide Strikers
+info,toss_decision,field
+info,player_of_match,L Wolvaardt
+info,umpire,M Qureshi
+info,umpire,Bede Sajowitz
+info,match_referee,Kent Hannam
+info,winner,Adelaide Strikers
+info,winner_wickets,8
+info,player,Hobart Hurricanes,RH Priest
+info,player,Hobart Hurricanes,NE Stalenberg
+info,player,Hobart Hurricanes,HK Matthews
+info,player,Hobart Hurricanes,NJ Carey
+info,player,Hobart Hurricanes,CL Hall
+info,player,Hobart Hurricanes,E Kershaw
+info,player,Hobart Hurricanes,CL Tryon
+info,player,Hobart Hurricanes,SK Moloney
+info,player,Hobart Hurricanes,A Smith
+info,player,Hobart Hurricanes,B Hepburn
+info,player,Hobart Hurricanes,B Vakarewa
+info,player,Adelaide Strikers,TM McGrath
+info,player,Adelaide Strikers,A O'Neil
+info,player,Adelaide Strikers,L Wolvaardt
+info,player,Adelaide Strikers,BE Patterson
+info,player,Adelaide Strikers,KM Mack
+info,player,Adelaide Strikers,A Wellington
+info,player,Adelaide Strikers,M Penna
+info,player,Adelaide Strikers,TJ McPharlin
+info,player,Adelaide Strikers,SJ Coyte
+info,player,Adelaide Strikers,ML Schutt
+info,player,Adelaide Strikers,D Brown
+info,registry,people,A O'Neil,4f2cf3ed
+info,registry,people,A Smith,b125ce63
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,B Hepburn,df04fc4f
+info,registry,people,B Vakarewa,06f988b8
+info,registry,people,BE Patterson,7dfbcfff
+info,registry,people,Bede Sajowitz,14fb95ae
+info,registry,people,CL Hall,6026e2ae
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D Brown,2e81be88
+info,registry,people,E Kershaw,8eeebce2
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Penna,36453b99
+info,registry,people,M Qureshi,cf34fbef
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,NE Stalenberg,609c519e
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,RH Priest,e6f0408a
+info,registry,people,SJ Coyte,a5f488bc
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,TJ McPharlin,595e1ee7
+info,registry,people,TM McGrath,ca5acfa4
+ball,1,0.1,Hobart Hurricanes,RH Priest,NE Stalenberg,ML Schutt,0,1,1,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,RH Priest,NE Stalenberg,ML Schutt,0,0,,,,,,bowled,RH Priest
+ball,1,0.3,Hobart Hurricanes,HK Matthews,NE Stalenberg,ML Schutt,0,0,,,,,,bowled,HK Matthews
+ball,1,0.4,Hobart Hurricanes,NJ Carey,NE Stalenberg,ML Schutt,0,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,NJ Carey,NE Stalenberg,ML Schutt,0,0,,,,,,"",""
+ball,1,0.6,Hobart Hurricanes,NJ Carey,NE Stalenberg,ML Schutt,0,0,,,,,,"",""
+ball,1,0.7,Hobart Hurricanes,NJ Carey,NE Stalenberg,ML Schutt,0,1,1,,,,,"",""
+ball,1,0.8,Hobart Hurricanes,NJ Carey,NE Stalenberg,ML Schutt,0,0,,,,,,"",""
+ball,1,1.1,Hobart Hurricanes,NE Stalenberg,NJ Carey,D Brown,0,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,NE Stalenberg,NJ Carey,D Brown,0,1,1,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,NE Stalenberg,NJ Carey,D Brown,0,1,,,,1,,"",""
+ball,1,1.4,Hobart Hurricanes,NJ Carey,NE Stalenberg,D Brown,0,1,1,,,,,"",""
+ball,1,1.5,Hobart Hurricanes,NJ Carey,NE Stalenberg,D Brown,1,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,NE Stalenberg,NJ Carey,D Brown,0,0,,,,,,"",""
+ball,1,1.7,Hobart Hurricanes,NE Stalenberg,NJ Carey,D Brown,1,0,,,,,,"",""
+ball,1,1.8,Hobart Hurricanes,NJ Carey,NE Stalenberg,D Brown,0,0,,,,,,bowled,NJ Carey
+ball,1,2.1,Hobart Hurricanes,NE Stalenberg,CL Hall,ML Schutt,0,0,,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,NE Stalenberg,CL Hall,ML Schutt,0,0,,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,NE Stalenberg,CL Hall,ML Schutt,0,0,,,,,,"",""
+ball,1,2.4,Hobart Hurricanes,NE Stalenberg,CL Hall,ML Schutt,0,0,,,,,,"",""
+ball,1,2.5,Hobart Hurricanes,NE Stalenberg,CL Hall,ML Schutt,0,0,,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,NE Stalenberg,CL Hall,ML Schutt,4,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,CL Hall,NE Stalenberg,D Brown,0,0,,,,,,"",""
+ball,1,3.2,Hobart Hurricanes,CL Hall,NE Stalenberg,D Brown,1,0,,,,,,"",""
+ball,1,3.3,Hobart Hurricanes,NE Stalenberg,CL Hall,D Brown,0,0,,,,,,"",""
+ball,1,3.4,Hobart Hurricanes,NE Stalenberg,CL Hall,D Brown,0,0,,,,,,"",""
+ball,1,3.5,Hobart Hurricanes,NE Stalenberg,CL Hall,D Brown,0,0,,,,,,"",""
+ball,1,3.6,Hobart Hurricanes,NE Stalenberg,CL Hall,D Brown,4,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,CL Hall,NE Stalenberg,ML Schutt,0,0,,,,,,"",""
+ball,1,4.2,Hobart Hurricanes,CL Hall,NE Stalenberg,ML Schutt,0,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,CL Hall,NE Stalenberg,ML Schutt,0,0,,,,,,"",""
+ball,1,4.4,Hobart Hurricanes,CL Hall,NE Stalenberg,ML Schutt,0,0,,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,CL Hall,NE Stalenberg,ML Schutt,4,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,CL Hall,NE Stalenberg,ML Schutt,0,1,1,,,,,"",""
+ball,1,4.7,Hobart Hurricanes,CL Hall,NE Stalenberg,ML Schutt,3,0,,,,,,"",""
+ball,1,5.1,Hobart Hurricanes,CL Hall,NE Stalenberg,TM McGrath,0,1,,1,,,,"",""
+ball,1,5.2,Hobart Hurricanes,CL Hall,NE Stalenberg,TM McGrath,2,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,CL Hall,NE Stalenberg,TM McGrath,1,0,,,,,,"",""
+ball,1,5.4,Hobart Hurricanes,NE Stalenberg,CL Hall,TM McGrath,1,0,,,,,,"",""
+ball,1,5.5,Hobart Hurricanes,CL Hall,NE Stalenberg,TM McGrath,2,0,,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,CL Hall,NE Stalenberg,TM McGrath,0,0,,,,,,"",""
+ball,1,5.7,Hobart Hurricanes,CL Hall,NE Stalenberg,TM McGrath,1,0,,,,,,"",""
+ball,1,6.1,Hobart Hurricanes,CL Hall,NE Stalenberg,A Wellington,1,0,,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,NE Stalenberg,CL Hall,A Wellington,4,0,,,,,,"",""
+ball,1,6.3,Hobart Hurricanes,NE Stalenberg,CL Hall,A Wellington,0,0,,,,,,"",""
+ball,1,6.4,Hobart Hurricanes,NE Stalenberg,CL Hall,A Wellington,0,0,,,,,,"",""
+ball,1,6.5,Hobart Hurricanes,NE Stalenberg,CL Hall,A Wellington,1,0,,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,CL Hall,NE Stalenberg,A Wellington,0,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,NE Stalenberg,CL Hall,M Penna,0,1,,1,,,,"",""
+ball,1,7.2,Hobart Hurricanes,NE Stalenberg,CL Hall,M Penna,0,0,,,,,,"",""
+ball,1,7.3,Hobart Hurricanes,NE Stalenberg,CL Hall,M Penna,4,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,NE Stalenberg,CL Hall,M Penna,0,0,,,,,,"",""
+ball,1,7.5,Hobart Hurricanes,NE Stalenberg,CL Hall,M Penna,1,0,,,,,,"",""
+ball,1,7.6,Hobart Hurricanes,CL Hall,NE Stalenberg,M Penna,0,0,,,,,,caught,CL Hall
+ball,1,7.7,Hobart Hurricanes,NE Stalenberg,E Kershaw,M Penna,1,0,,,,,,"",""
+ball,1,8.1,Hobart Hurricanes,NE Stalenberg,E Kershaw,A Wellington,1,0,,,,,,"",""
+ball,1,8.2,Hobart Hurricanes,E Kershaw,NE Stalenberg,A Wellington,0,0,,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,E Kershaw,NE Stalenberg,A Wellington,0,0,,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,E Kershaw,NE Stalenberg,A Wellington,0,0,,,,,,bowled,E Kershaw
+ball,1,8.5,Hobart Hurricanes,CL Tryon,NE Stalenberg,A Wellington,0,0,,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,CL Tryon,NE Stalenberg,A Wellington,0,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,NE Stalenberg,CL Tryon,SJ Coyte,6,0,,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,NE Stalenberg,CL Tryon,SJ Coyte,0,0,,,,,,caught,NE Stalenberg
+ball,1,9.3,Hobart Hurricanes,SK Moloney,CL Tryon,SJ Coyte,0,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,SK Moloney,CL Tryon,SJ Coyte,0,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,SK Moloney,CL Tryon,SJ Coyte,0,0,,,,,,"",""
+ball,1,9.6,Hobart Hurricanes,SK Moloney,CL Tryon,SJ Coyte,4,0,,,,,,"",""
+ball,1,10.1,Hobart Hurricanes,CL Tryon,SK Moloney,A Wellington,1,0,,,,,,"",""
+ball,1,10.2,Hobart Hurricanes,SK Moloney,CL Tryon,A Wellington,0,0,,,,,,"",""
+ball,1,10.3,Hobart Hurricanes,SK Moloney,CL Tryon,A Wellington,0,0,,,,,,"",""
+ball,1,10.4,Hobart Hurricanes,SK Moloney,CL Tryon,A Wellington,0,0,,,,,,caught,SK Moloney
+ball,1,10.5,Hobart Hurricanes,A Smith,CL Tryon,A Wellington,0,0,,,,,,"",""
+ball,1,10.6,Hobart Hurricanes,A Smith,CL Tryon,A Wellington,1,0,,,,,,"",""
+ball,1,11.1,Hobart Hurricanes,A Smith,CL Tryon,TM McGrath,1,0,,,,,,"",""
+ball,1,11.2,Hobart Hurricanes,CL Tryon,A Smith,TM McGrath,1,0,,,,,,"",""
+ball,1,11.3,Hobart Hurricanes,A Smith,CL Tryon,TM McGrath,0,0,,,,,,"",""
+ball,1,11.4,Hobart Hurricanes,A Smith,CL Tryon,TM McGrath,0,0,,,,,,"",""
+ball,1,11.5,Hobart Hurricanes,A Smith,CL Tryon,TM McGrath,1,0,,,,,,"",""
+ball,1,11.6,Hobart Hurricanes,CL Tryon,A Smith,TM McGrath,1,0,,,,,,"",""
+ball,1,12.1,Hobart Hurricanes,CL Tryon,A Smith,SJ Coyte,1,0,,,,,,"",""
+ball,1,12.2,Hobart Hurricanes,A Smith,CL Tryon,SJ Coyte,0,0,,,,,,"",""
+ball,1,12.3,Hobart Hurricanes,A Smith,CL Tryon,SJ Coyte,0,0,,,,,,"",""
+ball,1,12.4,Hobart Hurricanes,A Smith,CL Tryon,SJ Coyte,0,0,,,,,,"",""
+ball,1,12.5,Hobart Hurricanes,A Smith,CL Tryon,SJ Coyte,1,0,,,,,,"",""
+ball,1,12.6,Hobart Hurricanes,CL Tryon,A Smith,SJ Coyte,1,0,,,,,,"",""
+ball,1,13.1,Hobart Hurricanes,CL Tryon,A Smith,D Brown,0,1,,,,1,,"",""
+ball,1,13.2,Hobart Hurricanes,A Smith,CL Tryon,D Brown,0,0,,,,,,"",""
+ball,1,13.3,Hobart Hurricanes,A Smith,CL Tryon,D Brown,0,0,,,,,,"",""
+ball,1,13.4,Hobart Hurricanes,A Smith,CL Tryon,D Brown,0,0,,,,,,caught,A Smith
+ball,1,13.5,Hobart Hurricanes,B Hepburn,CL Tryon,D Brown,0,1,,,,1,,"",""
+ball,1,13.6,Hobart Hurricanes,CL Tryon,B Hepburn,D Brown,1,0,,,,,,"",""
+ball,1,14.1,Hobart Hurricanes,CL Tryon,B Hepburn,SJ Coyte,1,0,,,,,,"",""
+ball,1,14.2,Hobart Hurricanes,B Hepburn,CL Tryon,SJ Coyte,1,0,,,,,,"",""
+ball,1,14.3,Hobart Hurricanes,CL Tryon,B Hepburn,SJ Coyte,0,0,,,,,,"",""
+ball,1,14.4,Hobart Hurricanes,CL Tryon,B Hepburn,SJ Coyte,1,0,,,,,,"",""
+ball,1,14.5,Hobart Hurricanes,B Hepburn,CL Tryon,SJ Coyte,0,0,,,,,,"",""
+ball,1,14.6,Hobart Hurricanes,B Hepburn,CL Tryon,SJ Coyte,0,0,,,,,,"",""
+ball,1,15.1,Hobart Hurricanes,CL Tryon,B Hepburn,D Brown,0,0,,,,,,"",""
+ball,1,15.2,Hobart Hurricanes,CL Tryon,B Hepburn,D Brown,1,0,,,,,,"",""
+ball,1,15.3,Hobart Hurricanes,B Hepburn,CL Tryon,D Brown,0,0,,,,,,bowled,B Hepburn
+ball,1,15.4,Hobart Hurricanes,B Vakarewa,CL Tryon,D Brown,0,0,,,,,,"",""
+ball,1,15.5,Hobart Hurricanes,B Vakarewa,CL Tryon,D Brown,1,0,,,,,,"",""
+ball,1,15.6,Hobart Hurricanes,CL Tryon,B Vakarewa,D Brown,1,0,,,,,,"",""
+ball,1,16.1,Hobart Hurricanes,CL Tryon,B Vakarewa,A Wellington,6,0,,,,,,"",""
+ball,1,16.2,Hobart Hurricanes,CL Tryon,B Vakarewa,A Wellington,4,0,,,,,,"",""
+ball,1,16.3,Hobart Hurricanes,CL Tryon,B Vakarewa,A Wellington,0,0,,,,,,bowled,CL Tryon
+ball,2,0.1,Adelaide Strikers,TM McGrath,A O'Neil,B Vakarewa,1,0,,,,,,"",""
+ball,2,0.2,Adelaide Strikers,A O'Neil,TM McGrath,B Vakarewa,0,0,,,,,,"",""
+ball,2,0.3,Adelaide Strikers,A O'Neil,TM McGrath,B Vakarewa,0,0,,,,,,"",""
+ball,2,0.4,Adelaide Strikers,A O'Neil,TM McGrath,B Vakarewa,0,1,1,,,,,"",""
+ball,2,0.5,Adelaide Strikers,A O'Neil,TM McGrath,B Vakarewa,2,0,,,,,,"",""
+ball,2,0.6,Adelaide Strikers,A O'Neil,TM McGrath,B Vakarewa,0,1,1,,,,,"",""
+ball,2,0.7,Adelaide Strikers,A O'Neil,TM McGrath,B Vakarewa,0,0,,,,,,"",""
+ball,2,0.8,Adelaide Strikers,A O'Neil,TM McGrath,B Vakarewa,0,0,,,,,,bowled,A O'Neil
+ball,2,1.1,Adelaide Strikers,TM McGrath,L Wolvaardt,NJ Carey,0,0,,,,,,"",""
+ball,2,1.2,Adelaide Strikers,TM McGrath,L Wolvaardt,NJ Carey,1,0,,,,,,"",""
+ball,2,1.3,Adelaide Strikers,L Wolvaardt,TM McGrath,NJ Carey,4,0,,,,,,"",""
+ball,2,1.4,Adelaide Strikers,L Wolvaardt,TM McGrath,NJ Carey,0,0,,,,,,"",""
+ball,2,1.5,Adelaide Strikers,L Wolvaardt,TM McGrath,NJ Carey,0,0,,,,,,"",""
+ball,2,1.6,Adelaide Strikers,L Wolvaardt,TM McGrath,NJ Carey,4,0,,,,,,"",""
+ball,2,2.1,Adelaide Strikers,TM McGrath,L Wolvaardt,B Vakarewa,0,2,,,,2,,"",""
+ball,2,2.2,Adelaide Strikers,TM McGrath,L Wolvaardt,B Vakarewa,0,0,,,,,,"",""
+ball,2,2.3,Adelaide Strikers,TM McGrath,L Wolvaardt,B Vakarewa,2,0,,,,,,"",""
+ball,2,2.4,Adelaide Strikers,TM McGrath,L Wolvaardt,B Vakarewa,1,0,,,,,,"",""
+ball,2,2.5,Adelaide Strikers,L Wolvaardt,TM McGrath,B Vakarewa,4,0,,,,,,"",""
+ball,2,2.6,Adelaide Strikers,L Wolvaardt,TM McGrath,B Vakarewa,4,0,,,,,,"",""
+ball,2,3.1,Adelaide Strikers,TM McGrath,L Wolvaardt,HK Matthews,0,0,,,,,,"",""
+ball,2,3.2,Adelaide Strikers,TM McGrath,L Wolvaardt,HK Matthews,4,0,,,,,,"",""
+ball,2,3.3,Adelaide Strikers,TM McGrath,L Wolvaardt,HK Matthews,0,0,,,,,,"",""
+ball,2,3.4,Adelaide Strikers,TM McGrath,L Wolvaardt,HK Matthews,1,0,,,,,,"",""
+ball,2,3.5,Adelaide Strikers,L Wolvaardt,TM McGrath,HK Matthews,0,0,,,,,,"",""
+ball,2,3.6,Adelaide Strikers,L Wolvaardt,TM McGrath,HK Matthews,0,0,,,,,,"",""
+ball,2,4.1,Adelaide Strikers,TM McGrath,L Wolvaardt,CL Tryon,1,0,,,,,,"",""
+ball,2,4.2,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,4,0,,,,,,"",""
+ball,2,4.3,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,0,0,,,,,,"",""
+ball,2,4.4,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,1,0,,,,,,"",""
+ball,2,4.5,Adelaide Strikers,TM McGrath,L Wolvaardt,CL Tryon,0,0,,,,,,"",""
+ball,2,4.6,Adelaide Strikers,TM McGrath,L Wolvaardt,CL Tryon,0,0,,,,,,"",""
+ball,2,5.1,Adelaide Strikers,L Wolvaardt,TM McGrath,HK Matthews,0,0,,,,,,"",""
+ball,2,5.2,Adelaide Strikers,L Wolvaardt,TM McGrath,HK Matthews,1,0,,,,,,"",""
+ball,2,5.3,Adelaide Strikers,TM McGrath,L Wolvaardt,HK Matthews,1,0,,,,,,"",""
+ball,2,5.4,Adelaide Strikers,L Wolvaardt,TM McGrath,HK Matthews,0,0,,,,,,"",""
+ball,2,5.5,Adelaide Strikers,L Wolvaardt,TM McGrath,HK Matthews,1,0,,,,,,"",""
+ball,2,5.6,Adelaide Strikers,TM McGrath,L Wolvaardt,HK Matthews,3,0,,,,,,"",""
+ball,2,6.1,Adelaide Strikers,TM McGrath,L Wolvaardt,CL Tryon,0,0,,,,,,"",""
+ball,2,6.2,Adelaide Strikers,TM McGrath,L Wolvaardt,CL Tryon,0,0,,,,,,"",""
+ball,2,6.3,Adelaide Strikers,TM McGrath,L Wolvaardt,CL Tryon,1,0,,,,,,"",""
+ball,2,6.4,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,0,0,,,,,,"",""
+ball,2,6.5,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,1,0,,,,,,"",""
+ball,2,6.6,Adelaide Strikers,TM McGrath,L Wolvaardt,CL Tryon,0,0,,,,,,"",""
+ball,2,7.1,Adelaide Strikers,L Wolvaardt,TM McGrath,B Hepburn,1,0,,,,,,"",""
+ball,2,7.2,Adelaide Strikers,TM McGrath,L Wolvaardt,B Hepburn,1,0,,,,,,"",""
+ball,2,7.3,Adelaide Strikers,L Wolvaardt,TM McGrath,B Hepburn,1,0,,,,,,"",""
+ball,2,7.4,Adelaide Strikers,TM McGrath,L Wolvaardt,B Hepburn,1,0,,,,,,"",""
+ball,2,7.5,Adelaide Strikers,L Wolvaardt,TM McGrath,B Hepburn,1,0,,,,,,"",""
+ball,2,7.6,Adelaide Strikers,TM McGrath,L Wolvaardt,B Hepburn,0,0,,,,,,"",""
+ball,2,8.1,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,0,0,,,,,,"",""
+ball,2,8.2,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,0,0,,,,,,"",""
+ball,2,8.3,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,4,0,,,,,,"",""
+ball,2,8.4,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,0,0,,,,,,"",""
+ball,2,8.5,Adelaide Strikers,L Wolvaardt,TM McGrath,CL Tryon,1,0,,,,,,"",""
+ball,2,8.6,Adelaide Strikers,TM McGrath,L Wolvaardt,CL Tryon,0,0,,,,,,bowled,TM McGrath
+ball,2,9.1,Adelaide Strikers,L Wolvaardt,BE Patterson,SK Moloney,0,0,,,,,,"",""
+ball,2,9.2,Adelaide Strikers,L Wolvaardt,BE Patterson,SK Moloney,1,0,,,,,,"",""
+ball,2,9.3,Adelaide Strikers,BE Patterson,L Wolvaardt,SK Moloney,0,0,,,,,,"",""
+ball,2,9.4,Adelaide Strikers,BE Patterson,L Wolvaardt,SK Moloney,1,0,,,,,,"",""
+ball,2,9.5,Adelaide Strikers,L Wolvaardt,BE Patterson,SK Moloney,1,0,,,,,,"",""
+ball,2,9.6,Adelaide Strikers,BE Patterson,L Wolvaardt,SK Moloney,0,0,,,,,,"",""
+ball,2,10.1,Adelaide Strikers,L Wolvaardt,BE Patterson,B Vakarewa,0,0,,,,,,"",""
+ball,2,10.2,Adelaide Strikers,L Wolvaardt,BE Patterson,B Vakarewa,0,0,,,,,,"",""
+ball,2,10.3,Adelaide Strikers,L Wolvaardt,BE Patterson,B Vakarewa,0,0,,,,,,"",""
+ball,2,10.4,Adelaide Strikers,L Wolvaardt,BE Patterson,B Vakarewa,1,0,,,,,,"",""
+ball,2,10.5,Adelaide Strikers,BE Patterson,L Wolvaardt,B Vakarewa,0,0,,,,,,"",""
+ball,2,10.6,Adelaide Strikers,BE Patterson,L Wolvaardt,B Vakarewa,0,0,,,,,,"",""
+ball,2,11.1,Adelaide Strikers,L Wolvaardt,BE Patterson,A Smith,4,0,,,,,,"",""
+ball,2,11.2,Adelaide Strikers,L Wolvaardt,BE Patterson,A Smith,2,0,,,,,,"",""
+ball,2,11.3,Adelaide Strikers,L Wolvaardt,BE Patterson,A Smith,1,0,,,,,,"",""
+ball,2,11.4,Adelaide Strikers,BE Patterson,L Wolvaardt,A Smith,1,0,,,,,,"",""
+ball,2,11.5,Adelaide Strikers,L Wolvaardt,BE Patterson,A Smith,4,0,,,,,,"",""
+ball,2,11.6,Adelaide Strikers,L Wolvaardt,BE Patterson,A Smith,1,0,,,,,,"",""
+ball,2,12.1,Adelaide Strikers,L Wolvaardt,BE Patterson,NJ Carey,1,0,,,,,,"",""
+ball,2,12.2,Adelaide Strikers,BE Patterson,L Wolvaardt,NJ Carey,0,0,,,,,,"",""
+ball,2,12.3,Adelaide Strikers,BE Patterson,L Wolvaardt,NJ Carey,1,0,,,,,,"",""
+ball,2,12.4,Adelaide Strikers,L Wolvaardt,BE Patterson,NJ Carey,0,0,,,,,,"",""
+ball,2,12.5,Adelaide Strikers,L Wolvaardt,BE Patterson,NJ Carey,1,0,,,,,,"",""
+ball,2,12.6,Adelaide Strikers,BE Patterson,L Wolvaardt,NJ Carey,0,4,,,,4,,"",""
+ball,2,13.1,Adelaide Strikers,L Wolvaardt,BE Patterson,B Hepburn,1,0,,,,,,"",""
+ball,2,13.2,Adelaide Strikers,BE Patterson,L Wolvaardt,B Hepburn,0,0,,,,,,"",""
+ball,2,13.3,Adelaide Strikers,BE Patterson,L Wolvaardt,B Hepburn,1,0,,,,,,"",""
+ball,2,13.4,Adelaide Strikers,L Wolvaardt,BE Patterson,B Hepburn,1,0,,,,,,"",""
+ball,2,13.5,Adelaide Strikers,BE Patterson,L Wolvaardt,B Hepburn,0,0,,,,,,"",""
+ball,2,13.6,Adelaide Strikers,BE Patterson,L Wolvaardt,B Hepburn,2,0,,,,,,"",""

@@ -1,0 +1,284 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Central Districts
+info,team,Northern Districts
+info,gender,male
+info,season,2025/26
+info,date,2026/01/13
+info,event,Super Smash
+info,match_number,18
+info,venue,"McLean Park, Napier"
+info,city,Napier
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,player_of_match,KD Clarke
+info,umpire,BF Bowden
+info,umpire,Damian Morrow
+info,reserve_umpire,RG Dalley
+info,tv_umpire,Glen Walklin
+info,match_referee,SRM Morris
+info,winner,Northern Districts
+info,winner_wickets,6
+info,method,D/L
+info,player,Central Districts,D Foxcroft
+info,player,Central Districts,MG Hughes
+info,player,Central Districts,D Cleaver
+info,player,Central Districts,TC Bruce
+info,player,Central Districts,CG Heaphy
+info,player,Central Districts,SJ Cassidy
+info,player,Central Districts,AR Schaw
+info,player,Central Districts,JFA Field
+info,player,Central Districts,AY Patel
+info,player,Central Districts,BG Randell
+info,player,Central Districts,TA Findlay
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,BJ Pomare
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,RR O'Donnell
+info,player,Northern Districts,XE Bell
+info,player,Northern Districts,TJG Pringle
+info,player,Northern Districts,FF Lellman
+info,player,Northern Districts,JH Brown
+info,player,Northern Districts,MJ Fisher
+info,registry,people,AR Schaw,118e6f66
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BJ Pomare,0398f255
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,CG Heaphy,fcbd6eb8
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,FF Lellman,69c2944f
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,JFA Field,0085a7ce
+info,registry,people,JH Brown,ace31a5c
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,MG Hughes,dc4a6a35
+info,registry,people,MJ Fisher,7068c81e
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,RG Dalley,c147335d
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SJ Cassidy,e42b0c76
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,TA Findlay,e98787f5
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,XE Bell,57fc2a1e
+ball,1,0.1,Central Districts,D Foxcroft,MG Hughes,MJ Fisher,0,0,,,,,,"",""
+ball,1,0.2,Central Districts,D Foxcroft,MG Hughes,MJ Fisher,4,0,,,,,,"",""
+ball,1,0.3,Central Districts,D Foxcroft,MG Hughes,MJ Fisher,0,1,1,,,,,"",""
+ball,1,0.4,Central Districts,D Foxcroft,MG Hughes,MJ Fisher,0,0,,,,,,"",""
+ball,1,0.5,Central Districts,D Foxcroft,MG Hughes,MJ Fisher,1,0,,,,,,"",""
+ball,1,0.6,Central Districts,MG Hughes,D Foxcroft,MJ Fisher,0,0,,,,,,"",""
+ball,1,0.7,Central Districts,MG Hughes,D Foxcroft,MJ Fisher,0,0,,,,,,"",""
+ball,1,1.1,Central Districts,D Foxcroft,MG Hughes,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,1.2,Central Districts,D Foxcroft,MG Hughes,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,1,1.3,Central Districts,D Foxcroft,MG Hughes,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,1.4,Central Districts,MG Hughes,D Foxcroft,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,1.5,Central Districts,MG Hughes,D Foxcroft,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,1.6,Central Districts,MG Hughes,D Foxcroft,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,1.7,Central Districts,MG Hughes,D Foxcroft,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,2.1,Central Districts,D Foxcroft,MG Hughes,MJ Santner,1,0,,,,,,"",""
+ball,1,2.2,Central Districts,MG Hughes,D Foxcroft,MJ Santner,0,0,,,,,,"",""
+ball,1,2.3,Central Districts,MG Hughes,D Foxcroft,MJ Santner,0,0,,,,,,"",""
+ball,1,2.4,Central Districts,MG Hughes,D Foxcroft,MJ Santner,1,0,,,,,,"",""
+ball,1,2.5,Central Districts,D Foxcroft,MG Hughes,MJ Santner,0,4,,,4,,,"",""
+ball,1,2.6,Central Districts,D Foxcroft,MG Hughes,MJ Santner,0,0,,,,,,"",""
+ball,1,3.1,Central Districts,MG Hughes,D Foxcroft,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,3.2,Central Districts,D Foxcroft,MG Hughes,SC Kuggeleijn,0,0,,,,,,caught,D Foxcroft
+ball,1,3.3,Central Districts,D Cleaver,MG Hughes,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,3.4,Central Districts,D Cleaver,MG Hughes,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,3.5,Central Districts,D Cleaver,MG Hughes,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,3.6,Central Districts,MG Hughes,D Cleaver,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,4.1,Central Districts,D Cleaver,MG Hughes,MJ Fisher,1,0,,,,,,"",""
+ball,1,4.2,Central Districts,MG Hughes,D Cleaver,MJ Fisher,0,0,,,,,,caught,MG Hughes
+ball,1,4.3,Central Districts,TC Bruce,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,4.4,Central Districts,TC Bruce,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,4.5,Central Districts,TC Bruce,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,4.6,Central Districts,TC Bruce,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,5.1,Central Districts,D Cleaver,TC Bruce,BR Hampton,1,0,,,,,,"",""
+ball,1,5.2,Central Districts,TC Bruce,D Cleaver,BR Hampton,1,0,,,,,,"",""
+ball,1,5.3,Central Districts,D Cleaver,TC Bruce,BR Hampton,1,0,,,,,,"",""
+ball,1,5.4,Central Districts,TC Bruce,D Cleaver,BR Hampton,0,0,,,,,,"",""
+ball,1,5.5,Central Districts,TC Bruce,D Cleaver,BR Hampton,2,0,,,,,,"",""
+ball,1,5.6,Central Districts,TC Bruce,D Cleaver,BR Hampton,4,0,,,,,,"",""
+ball,1,6.1,Central Districts,D Cleaver,TC Bruce,MJ Santner,0,0,,,,,,"",""
+ball,1,6.2,Central Districts,D Cleaver,TC Bruce,MJ Santner,1,0,,,,,,"",""
+ball,1,6.3,Central Districts,TC Bruce,D Cleaver,MJ Santner,1,0,,,,,,"",""
+ball,1,6.4,Central Districts,D Cleaver,TC Bruce,MJ Santner,0,1,,,,1,,"",""
+ball,1,6.5,Central Districts,TC Bruce,D Cleaver,MJ Santner,0,0,,,,,,"",""
+ball,1,6.6,Central Districts,TC Bruce,D Cleaver,MJ Santner,1,0,,,,,,"",""
+ball,1,7.1,Central Districts,TC Bruce,D Cleaver,TJG Pringle,0,0,,,,,,"",""
+ball,1,7.2,Central Districts,TC Bruce,D Cleaver,TJG Pringle,1,0,,,,,,"",""
+ball,1,7.3,Central Districts,D Cleaver,TC Bruce,TJG Pringle,0,1,1,,,,,"",""
+ball,1,7.4,Central Districts,D Cleaver,TC Bruce,TJG Pringle,1,0,,,,,,"",""
+ball,1,7.5,Central Districts,TC Bruce,D Cleaver,TJG Pringle,1,0,,,,,,"",""
+ball,1,7.6,Central Districts,D Cleaver,TC Bruce,TJG Pringle,0,0,,,,,,"",""
+ball,1,7.7,Central Districts,D Cleaver,TC Bruce,TJG Pringle,1,0,,,,,,"",""
+ball,1,8.1,Central Districts,D Cleaver,TC Bruce,MJ Fisher,1,0,,,,,,"",""
+ball,1,8.2,Central Districts,TC Bruce,D Cleaver,MJ Fisher,0,0,,,,,,caught,TC Bruce
+ball,1,8.3,Central Districts,CG Heaphy,D Cleaver,MJ Fisher,0,1,1,,,,,"",""
+ball,1,8.4,Central Districts,CG Heaphy,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,8.5,Central Districts,CG Heaphy,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,8.6,Central Districts,CG Heaphy,D Cleaver,MJ Fisher,1,0,,,,,,"",""
+ball,1,8.7,Central Districts,D Cleaver,CG Heaphy,MJ Fisher,0,0,,,,,,caught,D Cleaver
+ball,1,9.1,Central Districts,CG Heaphy,SJ Cassidy,TJG Pringle,1,0,,,,,,"",""
+ball,1,9.2,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,0,0,,,,,,"",""
+ball,1,9.3,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,1,0,,,,,,"",""
+ball,1,9.4,Central Districts,CG Heaphy,SJ Cassidy,TJG Pringle,1,0,,,,,,"",""
+ball,1,9.5,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,0,0,,,,,,"",""
+ball,1,9.6,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,1,0,,,,,,"",""
+ball,1,10.1,Central Districts,SJ Cassidy,CG Heaphy,MJ Fisher,0,1,,,,1,,"",""
+ball,1,10.2,Central Districts,CG Heaphy,SJ Cassidy,MJ Fisher,2,0,,,,,,"",""
+ball,1,10.3,Central Districts,CG Heaphy,SJ Cassidy,MJ Fisher,0,0,,,,,,"",""
+ball,1,10.4,Central Districts,CG Heaphy,SJ Cassidy,MJ Fisher,1,0,,,,,,"",""
+ball,1,10.5,Central Districts,SJ Cassidy,CG Heaphy,MJ Fisher,6,0,,,,,,"",""
+ball,1,10.6,Central Districts,SJ Cassidy,CG Heaphy,MJ Fisher,0,0,,,,,,"",""
+ball,1,11.1,Central Districts,CG Heaphy,SJ Cassidy,TJG Pringle,1,0,,,,,,"",""
+ball,1,11.2,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,0,0,,,,,,"",""
+ball,1,11.3,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,1,0,,,,,,"",""
+ball,1,11.4,Central Districts,CG Heaphy,SJ Cassidy,TJG Pringle,1,0,,,,,,"",""
+ball,1,11.5,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,0,0,,,,,,"",""
+ball,1,11.6,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,4,0,,,,,,"",""
+ball,1,12.1,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,0,0,,,,,,"",""
+ball,1,12.2,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,0,0,,,,,,"",""
+ball,1,12.3,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,0,0,,,,,,"",""
+ball,1,12.4,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,2,0,,,,,,"",""
+ball,1,12.5,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,1,0,,,,,,"",""
+ball,1,12.6,Central Districts,SJ Cassidy,CG Heaphy,BR Hampton,1,0,,,,,,"",""
+ball,1,13.1,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,1,0,,,,,,"",""
+ball,1,13.2,Central Districts,CG Heaphy,SJ Cassidy,TJG Pringle,0,0,,,,,,"",""
+ball,1,13.3,Central Districts,CG Heaphy,SJ Cassidy,TJG Pringle,6,0,,,,,,"",""
+ball,1,13.4,Central Districts,CG Heaphy,SJ Cassidy,TJG Pringle,1,0,,,,,,"",""
+ball,1,13.5,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,6,0,,,,,,"",""
+ball,1,13.6,Central Districts,SJ Cassidy,CG Heaphy,TJG Pringle,6,0,,,,,,"",""
+ball,1,14.1,Central Districts,CG Heaphy,SJ Cassidy,MJ Santner,4,0,,,,,,"",""
+ball,1,14.2,Central Districts,CG Heaphy,SJ Cassidy,MJ Santner,0,0,,,,,,"",""
+ball,1,14.3,Central Districts,CG Heaphy,SJ Cassidy,MJ Santner,1,0,,,,,,"",""
+ball,1,14.4,Central Districts,SJ Cassidy,CG Heaphy,MJ Santner,2,0,,,,,,"",""
+ball,1,14.5,Central Districts,SJ Cassidy,CG Heaphy,MJ Santner,0,0,,,,,,"",""
+ball,1,14.6,Central Districts,SJ Cassidy,CG Heaphy,MJ Santner,0,0,,,,,,"",""
+ball,1,15.1,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,1,0,,,,,,"",""
+ball,1,15.2,Central Districts,SJ Cassidy,CG Heaphy,BR Hampton,2,0,,,,,,"",""
+ball,1,15.3,Central Districts,SJ Cassidy,CG Heaphy,BR Hampton,1,0,,,,,,"",""
+ball,1,15.4,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,2,0,,,,,,"",""
+ball,1,15.5,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,2,0,,,,,,"",""
+ball,1,15.6,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,1,0,,,,,,"",""
+ball,1,16.1,Central Districts,CG Heaphy,SJ Cassidy,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,16.2,Central Districts,SJ Cassidy,CG Heaphy,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,16.3,Central Districts,SJ Cassidy,CG Heaphy,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,16.4,Central Districts,SJ Cassidy,CG Heaphy,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,16.5,Central Districts,CG Heaphy,SJ Cassidy,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,16.6,Central Districts,CG Heaphy,SJ Cassidy,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,17.1,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,0,0,,,,,,"",""
+ball,1,17.2,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,0,0,,,,,,"",""
+ball,1,17.3,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,4,0,,,,,,"",""
+ball,1,17.4,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,6,0,,,,,,"",""
+ball,1,17.5,Central Districts,CG Heaphy,SJ Cassidy,BR Hampton,1,0,,,,,,"",""
+ball,1,17.6,Central Districts,SJ Cassidy,CG Heaphy,BR Hampton,1,0,,,,,,"",""
+ball,1,18.1,Central Districts,SJ Cassidy,CG Heaphy,MJ Santner,1,0,,,,,,"",""
+ball,1,18.2,Central Districts,CG Heaphy,SJ Cassidy,MJ Santner,1,0,,,,,,"",""
+ball,1,18.3,Central Districts,SJ Cassidy,CG Heaphy,MJ Santner,1,0,,,,,,"",""
+ball,1,18.4,Central Districts,CG Heaphy,SJ Cassidy,MJ Santner,0,1,1,,,,,"",""
+ball,1,18.5,Central Districts,CG Heaphy,SJ Cassidy,MJ Santner,0,0,,,,,,"",""
+ball,1,18.6,Central Districts,CG Heaphy,SJ Cassidy,MJ Santner,1,0,,,,,,"",""
+ball,1,18.7,Central Districts,SJ Cassidy,CG Heaphy,MJ Santner,1,0,,,,,,"",""
+ball,1,19.1,Central Districts,SJ Cassidy,CG Heaphy,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,19.2,Central Districts,SJ Cassidy,CG Heaphy,SC Kuggeleijn,0,0,,,,,,caught,SJ Cassidy
+ball,1,19.3,Central Districts,AR Schaw,CG Heaphy,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,19.4,Central Districts,AR Schaw,CG Heaphy,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,19.5,Central Districts,CG Heaphy,AR Schaw,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,19.6,Central Districts,AR Schaw,CG Heaphy,SC Kuggeleijn,2,0,,,,,,"",""
+ball,2,0.1,Northern Districts,KD Clarke,BR Hampton,AR Schaw,0,0,,,,,,"",""
+ball,2,0.2,Northern Districts,KD Clarke,BR Hampton,AR Schaw,4,0,,,,,,"",""
+ball,2,0.3,Northern Districts,KD Clarke,BR Hampton,AR Schaw,0,0,,,,,,"",""
+ball,2,0.4,Northern Districts,KD Clarke,BR Hampton,AR Schaw,4,0,,,,,,"",""
+ball,2,0.5,Northern Districts,KD Clarke,BR Hampton,AR Schaw,1,0,,,,,,"",""
+ball,2,0.6,Northern Districts,BR Hampton,KD Clarke,AR Schaw,2,0,,,,,,"",""
+ball,2,1.1,Northern Districts,KD Clarke,BR Hampton,BG Randell,0,1,1,,,,,"",""
+ball,2,1.2,Northern Districts,KD Clarke,BR Hampton,BG Randell,0,0,,,,,,"",""
+ball,2,1.3,Northern Districts,KD Clarke,BR Hampton,BG Randell,0,0,,,,,,"",""
+ball,2,1.4,Northern Districts,KD Clarke,BR Hampton,BG Randell,0,0,,,,,,"",""
+ball,2,1.5,Northern Districts,KD Clarke,BR Hampton,BG Randell,0,0,,,,,,"",""
+ball,2,1.6,Northern Districts,KD Clarke,BR Hampton,BG Randell,1,0,,,,,,"",""
+ball,2,1.7,Northern Districts,BR Hampton,KD Clarke,BG Randell,1,0,,,,,,"",""
+ball,2,2.1,Northern Districts,BR Hampton,KD Clarke,TA Findlay,0,0,,,,,,"",""
+ball,2,2.2,Northern Districts,BR Hampton,KD Clarke,TA Findlay,1,0,,,,,,"",""
+ball,2,2.3,Northern Districts,KD Clarke,BR Hampton,TA Findlay,1,0,,,,,,"",""
+ball,2,2.4,Northern Districts,BR Hampton,KD Clarke,TA Findlay,4,0,,,,,,"",""
+ball,2,2.5,Northern Districts,BR Hampton,KD Clarke,TA Findlay,4,0,,,,,,"",""
+ball,2,2.6,Northern Districts,BR Hampton,KD Clarke,TA Findlay,1,0,,,,,,"",""
+ball,2,3.1,Northern Districts,BR Hampton,KD Clarke,BG Randell,6,0,,,,,,"",""
+ball,2,3.2,Northern Districts,BR Hampton,KD Clarke,BG Randell,0,0,,,,,,"",""
+ball,2,3.3,Northern Districts,BR Hampton,KD Clarke,BG Randell,0,0,,,,,,"",""
+ball,2,3.4,Northern Districts,BR Hampton,KD Clarke,BG Randell,1,0,,,,,,"",""
+ball,2,3.5,Northern Districts,KD Clarke,BR Hampton,BG Randell,1,0,,,,,,"",""
+ball,2,3.6,Northern Districts,BR Hampton,KD Clarke,BG Randell,0,0,,,,,,caught,BR Hampton
+ball,2,4.1,Northern Districts,KD Clarke,BJ Pomare,JFA Field,1,0,,,,,,"",""
+ball,2,4.2,Northern Districts,BJ Pomare,KD Clarke,JFA Field,0,0,,,,,,"",""
+ball,2,4.3,Northern Districts,BJ Pomare,KD Clarke,JFA Field,0,0,,,,,,"",""
+ball,2,4.4,Northern Districts,BJ Pomare,KD Clarke,JFA Field,0,0,,,,,,"",""
+ball,2,4.5,Northern Districts,BJ Pomare,KD Clarke,JFA Field,0,0,,,,,,"",""
+ball,2,4.6,Northern Districts,BJ Pomare,KD Clarke,JFA Field,0,0,,,,,,"",""
+ball,2,5.1,Northern Districts,KD Clarke,BJ Pomare,TA Findlay,1,0,,,,,,"",""
+ball,2,5.2,Northern Districts,BJ Pomare,KD Clarke,TA Findlay,0,0,,,,,,"",""
+ball,2,5.3,Northern Districts,BJ Pomare,KD Clarke,TA Findlay,0,0,,,,,,"",""
+ball,2,5.4,Northern Districts,BJ Pomare,KD Clarke,TA Findlay,0,0,,,,,,"",""
+ball,2,5.5,Northern Districts,BJ Pomare,KD Clarke,TA Findlay,1,0,,,,,,"",""
+ball,2,5.6,Northern Districts,KD Clarke,BJ Pomare,TA Findlay,1,0,,,,,,"",""
+ball,2,6.1,Northern Districts,KD Clarke,BJ Pomare,AY Patel,0,0,,,,,,"",""
+ball,2,6.2,Northern Districts,KD Clarke,BJ Pomare,AY Patel,1,0,,,,,,"",""
+ball,2,6.3,Northern Districts,BJ Pomare,KD Clarke,AY Patel,1,0,,,,,,"",""
+ball,2,6.4,Northern Districts,KD Clarke,BJ Pomare,AY Patel,4,0,,,,,,"",""
+ball,2,6.5,Northern Districts,KD Clarke,BJ Pomare,AY Patel,0,0,,,,,,"",""
+ball,2,6.6,Northern Districts,KD Clarke,BJ Pomare,AY Patel,0,2,2,,,,,"",""
+ball,2,6.7,Northern Districts,BJ Pomare,KD Clarke,AY Patel,0,0,,,,,,"",""
+ball,2,7.1,Northern Districts,KD Clarke,BJ Pomare,JFA Field,0,1,1,,,,,"",""
+ball,2,7.2,Northern Districts,KD Clarke,BJ Pomare,JFA Field,6,0,,,,,,"",""
+ball,2,7.3,Northern Districts,KD Clarke,BJ Pomare,JFA Field,1,0,,,,,,"",""
+ball,2,7.4,Northern Districts,BJ Pomare,KD Clarke,JFA Field,0,1,1,,,,,"",""
+ball,2,7.5,Northern Districts,BJ Pomare,KD Clarke,JFA Field,0,0,,,,,,"",""
+ball,2,7.6,Northern Districts,BJ Pomare,KD Clarke,JFA Field,2,0,,,,,,"",""
+ball,2,7.7,Northern Districts,BJ Pomare,KD Clarke,JFA Field,2,0,,,,,,"",""
+ball,2,7.8,Northern Districts,BJ Pomare,KD Clarke,JFA Field,2,0,,,,,,"",""
+ball,2,8.1,Northern Districts,KD Clarke,BJ Pomare,AR Schaw,4,0,,,,,,"",""
+ball,2,8.2,Northern Districts,KD Clarke,BJ Pomare,AR Schaw,1,0,,,,,,"",""
+ball,2,8.3,Northern Districts,BJ Pomare,KD Clarke,AR Schaw,0,0,,,,,,"",""
+ball,2,8.4,Northern Districts,BJ Pomare,KD Clarke,AR Schaw,0,0,,,,,,caught,BJ Pomare
+ball,2,8.5,Northern Districts,MJ Santner,KD Clarke,AR Schaw,2,0,,,,,,"",""
+ball,2,8.6,Northern Districts,MJ Santner,KD Clarke,AR Schaw,1,0,,,,,,"",""
+ball,2,9.1,Northern Districts,MJ Santner,KD Clarke,AY Patel,2,0,,,,,,"",""
+ball,2,9.2,Northern Districts,MJ Santner,KD Clarke,AY Patel,1,0,,,,,,"",""
+ball,2,9.3,Northern Districts,KD Clarke,MJ Santner,AY Patel,0,0,,,,,,"",""
+ball,2,9.4,Northern Districts,KD Clarke,MJ Santner,AY Patel,0,0,,,,,,"",""
+ball,2,9.5,Northern Districts,KD Clarke,MJ Santner,AY Patel,1,0,,,,,,"",""
+ball,2,9.6,Northern Districts,MJ Santner,KD Clarke,AY Patel,2,0,,,,,,"",""
+ball,2,10.1,Northern Districts,KD Clarke,MJ Santner,AR Schaw,2,0,,,,,,"",""
+ball,2,10.2,Northern Districts,KD Clarke,MJ Santner,AR Schaw,2,0,,,,,,"",""
+ball,2,10.3,Northern Districts,KD Clarke,MJ Santner,AR Schaw,4,0,,,,,,"",""
+ball,2,10.4,Northern Districts,KD Clarke,MJ Santner,AR Schaw,1,0,,,,,,"",""
+ball,2,10.5,Northern Districts,MJ Santner,KD Clarke,AR Schaw,1,0,,,,,,"",""
+ball,2,10.6,Northern Districts,KD Clarke,MJ Santner,AR Schaw,6,0,,,,,,"",""
+ball,2,11.1,Northern Districts,MJ Santner,KD Clarke,JFA Field,0,0,,,,,,caught,MJ Santner
+ball,2,11.2,Northern Districts,SC Kuggeleijn,KD Clarke,JFA Field,4,0,,,,,,"",""
+ball,2,11.3,Northern Districts,SC Kuggeleijn,KD Clarke,JFA Field,1,0,,,,,,"",""
+ball,2,11.4,Northern Districts,KD Clarke,SC Kuggeleijn,JFA Field,1,0,,,,,,"",""
+ball,2,11.5,Northern Districts,SC Kuggeleijn,KD Clarke,JFA Field,0,0,,,,,,caught,SC Kuggeleijn
+ball,2,11.6,Northern Districts,RR O'Donnell,KD Clarke,JFA Field,0,1,,,,1,,"",""
+ball,2,12.1,Northern Districts,RR O'Donnell,KD Clarke,BG Randell,1,0,,,,,,"",""
+ball,2,12.2,Northern Districts,KD Clarke,RR O'Donnell,BG Randell,4,0,,,,,,"",""
+ball,2,12.3,Northern Districts,KD Clarke,RR O'Donnell,BG Randell,2,0,,,,,,"",""
+ball,2,12.4,Northern Districts,KD Clarke,RR O'Donnell,BG Randell,1,0,,,,,,"",""
+ball,2,12.5,Northern Districts,RR O'Donnell,KD Clarke,BG Randell,6,0,,,,,,"",""
+ball,2,12.6,Northern Districts,RR O'Donnell,KD Clarke,BG Randell,3,0,,,,,,"",""
+ball,2,13.1,Northern Districts,RR O'Donnell,KD Clarke,TA Findlay,0,0,,,,,,"",""
+ball,2,13.2,Northern Districts,RR O'Donnell,KD Clarke,TA Findlay,0,0,,,,,,"",""
+ball,2,13.3,Northern Districts,RR O'Donnell,KD Clarke,TA Findlay,1,0,,,,,,"",""
+ball,2,13.4,Northern Districts,KD Clarke,RR O'Donnell,TA Findlay,0,1,1,,,,,"",""
+ball,2,13.5,Northern Districts,KD Clarke,RR O'Donnell,TA Findlay,2,0,,,,,,"",""
+ball,2,13.6,Northern Districts,KD Clarke,RR O'Donnell,TA Findlay,2,0,,,,,,"",""

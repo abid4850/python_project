@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Kent
+info,gender,male
+info,season,2022
+info,date,2022/06/21
+info,event,Vitality Blast
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,Tom Lungley
+info,match_referee,DA Cosker
+info,winner,Gloucestershire
+info,winner_runs,5
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,IA Cockbain
+info,player,Gloucestershire,GD Phillips
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BAC Howell
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,RF Higgins
+info,player,Gloucestershire,TMJ Smith
+info,player,Gloucestershire,Mohammad Amir
+info,player,Gloucestershire,J Shaw
+info,player,Kent,JL Denly
+info,player,Kent,TS Muyeye
+info,player,Kent,JM Cox
+info,player,Kent,AJ Blake
+info,player,Kent,SW Billings
+info,player,Kent,JA Leaning
+info,player,Kent,G Stewart
+info,player,Kent,Qais Ahmad
+info,player,Kent,ME Milnes
+info,player,Kent,MR Quinn
+info,player,Kent,Jaskaran Singh
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,IA Cockbain,542fd5a6
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,Jaskaran Singh,ec178b04
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,MR Quinn,b082d112
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,Tom Lungley,75169b8c
+ball,1,0.1,Gloucestershire,Miles Hammond,CDJ Dent,JA Leaning,4,0,,,,,,"",""
+ball,1,0.2,Gloucestershire,Miles Hammond,CDJ Dent,JA Leaning,0,0,,,,,,"",""
+ball,1,0.3,Gloucestershire,Miles Hammond,CDJ Dent,JA Leaning,0,0,,,,,,"",""
+ball,1,0.4,Gloucestershire,Miles Hammond,CDJ Dent,JA Leaning,0,0,,,,,,caught,Miles Hammond
+ball,1,0.5,Gloucestershire,IA Cockbain,CDJ Dent,JA Leaning,0,0,,,,,,"",""
+ball,1,0.6,Gloucestershire,IA Cockbain,CDJ Dent,JA Leaning,0,2,2,,,,,"",""
+ball,1,0.7,Gloucestershire,CDJ Dent,IA Cockbain,JA Leaning,1,0,,,,,,"",""
+ball,1,1.1,Gloucestershire,CDJ Dent,IA Cockbain,ME Milnes,1,0,,,,,,"",""
+ball,1,1.2,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,0,0,,,,,,"",""
+ball,1,1.3,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,2,0,,,,,,"",""
+ball,1,1.4,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,0,0,,,,,,"",""
+ball,1,1.5,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,2,0,,,,,,"",""
+ball,1,1.6,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,4,0,,,,,,"",""
+ball,1,2.1,Gloucestershire,CDJ Dent,IA Cockbain,JA Leaning,2,0,,,,,,"",""
+ball,1,2.2,Gloucestershire,CDJ Dent,IA Cockbain,JA Leaning,4,0,,,,,,"",""
+ball,1,2.3,Gloucestershire,CDJ Dent,IA Cockbain,JA Leaning,0,0,,,,,,"",""
+ball,1,2.4,Gloucestershire,CDJ Dent,IA Cockbain,JA Leaning,1,0,,,,,,"",""
+ball,1,2.5,Gloucestershire,IA Cockbain,CDJ Dent,JA Leaning,2,0,,,,,,"",""
+ball,1,2.6,Gloucestershire,IA Cockbain,CDJ Dent,JA Leaning,1,0,,,,,,"",""
+ball,1,3.1,Gloucestershire,IA Cockbain,CDJ Dent,MR Quinn,0,0,,,,,,"",""
+ball,1,3.2,Gloucestershire,IA Cockbain,CDJ Dent,MR Quinn,0,0,,,,,,"",""
+ball,1,3.3,Gloucestershire,IA Cockbain,CDJ Dent,MR Quinn,1,0,,,,,,"",""
+ball,1,3.4,Gloucestershire,CDJ Dent,IA Cockbain,MR Quinn,4,0,,,,,,"",""
+ball,1,3.5,Gloucestershire,CDJ Dent,IA Cockbain,MR Quinn,1,0,,,,,,"",""
+ball,1,3.6,Gloucestershire,IA Cockbain,CDJ Dent,MR Quinn,0,0,,,,,,"",""
+ball,1,4.1,Gloucestershire,CDJ Dent,IA Cockbain,G Stewart,1,0,,,,,,"",""
+ball,1,4.2,Gloucestershire,IA Cockbain,CDJ Dent,G Stewart,0,0,,,,,,"",""
+ball,1,4.3,Gloucestershire,IA Cockbain,CDJ Dent,G Stewart,1,0,,,,,,"",""
+ball,1,4.4,Gloucestershire,CDJ Dent,IA Cockbain,G Stewart,4,0,,,,,,"",""
+ball,1,4.5,Gloucestershire,CDJ Dent,IA Cockbain,G Stewart,1,0,,,,,,"",""
+ball,1,4.6,Gloucestershire,IA Cockbain,CDJ Dent,G Stewart,4,0,,,,,,"",""
+ball,1,5.1,Gloucestershire,CDJ Dent,IA Cockbain,ME Milnes,1,0,,,,,,"",""
+ball,1,5.2,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,0,1,1,,,,,"",""
+ball,1,5.3,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,0,0,,,,,,"",""
+ball,1,5.4,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,0,0,,,,,,"",""
+ball,1,5.5,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,2,0,,,,,,"",""
+ball,1,5.6,Gloucestershire,IA Cockbain,CDJ Dent,ME Milnes,1,0,,,,,,"",""
+ball,1,5.7,Gloucestershire,CDJ Dent,IA Cockbain,ME Milnes,1,0,,,,,,"",""
+ball,1,6.1,Gloucestershire,CDJ Dent,IA Cockbain,Qais Ahmad,0,0,,,,,,"",""
+ball,1,6.2,Gloucestershire,CDJ Dent,IA Cockbain,Qais Ahmad,1,0,,,,,,"",""
+ball,1,6.3,Gloucestershire,IA Cockbain,CDJ Dent,Qais Ahmad,0,0,,,,,,"",""
+ball,1,6.4,Gloucestershire,IA Cockbain,CDJ Dent,Qais Ahmad,0,0,,,,,,"",""
+ball,1,6.5,Gloucestershire,IA Cockbain,CDJ Dent,Qais Ahmad,2,0,,,,,,"",""
+ball,1,6.6,Gloucestershire,IA Cockbain,CDJ Dent,Qais Ahmad,0,0,,,,,,"",""
+ball,1,7.1,Gloucestershire,CDJ Dent,IA Cockbain,Jaskaran Singh,0,2,,2,,,,"",""
+ball,1,7.2,Gloucestershire,CDJ Dent,IA Cockbain,Jaskaran Singh,6,0,,,,,,"",""
+ball,1,7.3,Gloucestershire,CDJ Dent,IA Cockbain,Jaskaran Singh,4,0,,,,,,"",""
+ball,1,7.4,Gloucestershire,CDJ Dent,IA Cockbain,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,7.5,Gloucestershire,IA Cockbain,CDJ Dent,Jaskaran Singh,6,0,,,,,,"",""
+ball,1,7.6,Gloucestershire,IA Cockbain,CDJ Dent,Jaskaran Singh,6,0,,,,,,"",""
+ball,1,7.7,Gloucestershire,IA Cockbain,CDJ Dent,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,8.1,Gloucestershire,IA Cockbain,CDJ Dent,Qais Ahmad,1,0,,,,,,"",""
+ball,1,8.2,Gloucestershire,CDJ Dent,IA Cockbain,Qais Ahmad,6,0,,,,,,"",""
+ball,1,8.3,Gloucestershire,CDJ Dent,IA Cockbain,Qais Ahmad,0,0,,,,,,"",""
+ball,1,8.4,Gloucestershire,CDJ Dent,IA Cockbain,Qais Ahmad,0,0,,,,,,"",""
+ball,1,8.5,Gloucestershire,CDJ Dent,IA Cockbain,Qais Ahmad,0,0,,,,,,caught,CDJ Dent
+ball,1,8.6,Gloucestershire,GD Phillips,IA Cockbain,Qais Ahmad,1,0,,,,,,"",""
+ball,1,9.1,Gloucestershire,GD Phillips,IA Cockbain,JL Denly,1,0,,,,,,"",""
+ball,1,9.2,Gloucestershire,IA Cockbain,GD Phillips,JL Denly,1,0,,,,,,"",""
+ball,1,9.3,Gloucestershire,GD Phillips,IA Cockbain,JL Denly,2,0,,,,,,"",""
+ball,1,9.4,Gloucestershire,GD Phillips,IA Cockbain,JL Denly,1,0,,,,,,"",""
+ball,1,9.5,Gloucestershire,IA Cockbain,GD Phillips,JL Denly,1,0,,,,,,"",""
+ball,1,9.6,Gloucestershire,GD Phillips,IA Cockbain,JL Denly,1,0,,,,,,"",""
+ball,1,10.1,Gloucestershire,GD Phillips,IA Cockbain,Qais Ahmad,0,0,,,,,,"",""
+ball,1,10.2,Gloucestershire,GD Phillips,IA Cockbain,Qais Ahmad,0,0,,,,,,"",""
+ball,1,10.3,Gloucestershire,GD Phillips,IA Cockbain,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.4,Gloucestershire,IA Cockbain,GD Phillips,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.5,Gloucestershire,GD Phillips,IA Cockbain,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.6,Gloucestershire,IA Cockbain,GD Phillips,Qais Ahmad,0,0,,,,,,"",""
+ball,1,11.1,Gloucestershire,GD Phillips,IA Cockbain,MR Quinn,0,0,,,,,,"",""
+ball,1,11.2,Gloucestershire,GD Phillips,IA Cockbain,MR Quinn,1,0,,,,,,"",""
+ball,1,11.3,Gloucestershire,IA Cockbain,GD Phillips,MR Quinn,1,0,,,,,,"",""
+ball,1,11.4,Gloucestershire,GD Phillips,IA Cockbain,MR Quinn,1,0,,,,,,"",""
+ball,1,11.5,Gloucestershire,IA Cockbain,GD Phillips,MR Quinn,0,1,,,,1,,"",""
+ball,1,11.6,Gloucestershire,GD Phillips,IA Cockbain,MR Quinn,4,0,,,,,,"",""
+ball,1,12.1,Gloucestershire,IA Cockbain,GD Phillips,JL Denly,1,0,,,,,,"",""
+ball,1,12.2,Gloucestershire,GD Phillips,IA Cockbain,JL Denly,1,0,,,,,,"",""
+ball,1,12.3,Gloucestershire,IA Cockbain,GD Phillips,JL Denly,4,0,,,,,,"",""
+ball,1,12.4,Gloucestershire,IA Cockbain,GD Phillips,JL Denly,1,0,,,,,,"",""
+ball,1,12.5,Gloucestershire,GD Phillips,IA Cockbain,JL Denly,1,0,,,,,,"",""
+ball,1,12.6,Gloucestershire,IA Cockbain,GD Phillips,JL Denly,1,0,,,,,,"",""
+ball,1,13.1,Gloucestershire,IA Cockbain,GD Phillips,Qais Ahmad,4,0,,,,,,"",""
+ball,1,13.2,Gloucestershire,IA Cockbain,GD Phillips,Qais Ahmad,2,0,,,,,,"",""
+ball,1,13.3,Gloucestershire,IA Cockbain,GD Phillips,Qais Ahmad,4,0,,,,,,"",""
+ball,1,13.4,Gloucestershire,IA Cockbain,GD Phillips,Qais Ahmad,0,1,,,,1,,"",""
+ball,1,13.5,Gloucestershire,GD Phillips,IA Cockbain,Qais Ahmad,1,0,,,,,,"",""
+ball,1,13.6,Gloucestershire,IA Cockbain,GD Phillips,Qais Ahmad,2,0,,,,,,"",""
+ball,1,14.1,Gloucestershire,GD Phillips,IA Cockbain,MR Quinn,1,0,,,,,,"",""
+ball,1,14.2,Gloucestershire,IA Cockbain,GD Phillips,MR Quinn,4,0,,,,,,"",""
+ball,1,14.3,Gloucestershire,IA Cockbain,GD Phillips,MR Quinn,1,0,,,,,,"",""
+ball,1,14.4,Gloucestershire,GD Phillips,IA Cockbain,MR Quinn,0,0,,,,,,"",""
+ball,1,14.5,Gloucestershire,GD Phillips,IA Cockbain,MR Quinn,1,0,,,,,,"",""
+ball,1,14.6,Gloucestershire,IA Cockbain,GD Phillips,MR Quinn,0,1,,,,1,,"",""
+ball,1,15.1,Gloucestershire,IA Cockbain,GD Phillips,ME Milnes,0,0,,,,,,caught,IA Cockbain
+ball,1,15.2,Gloucestershire,JMR Taylor,GD Phillips,ME Milnes,1,0,,,,,,"",""
+ball,1,15.3,Gloucestershire,GD Phillips,JMR Taylor,ME Milnes,1,0,,,,,,"",""
+ball,1,15.4,Gloucestershire,JMR Taylor,GD Phillips,ME Milnes,4,0,,,,,,"",""
+ball,1,15.5,Gloucestershire,JMR Taylor,GD Phillips,ME Milnes,1,0,,,,,,"",""
+ball,1,15.6,Gloucestershire,GD Phillips,JMR Taylor,ME Milnes,6,0,,,,,,"",""
+ball,1,16.1,Gloucestershire,JMR Taylor,GD Phillips,G Stewart,1,0,,,,,,"",""
+ball,1,16.2,Gloucestershire,GD Phillips,JMR Taylor,G Stewart,6,0,,,,,,"",""
+ball,1,16.3,Gloucestershire,GD Phillips,JMR Taylor,G Stewart,4,0,,,,,,"",""
+ball,1,16.4,Gloucestershire,GD Phillips,JMR Taylor,G Stewart,1,0,,,,,,"",""
+ball,1,16.5,Gloucestershire,JMR Taylor,GD Phillips,G Stewart,1,0,,,,,,"",""
+ball,1,16.6,Gloucestershire,GD Phillips,JMR Taylor,G Stewart,1,0,,,,,,"",""
+ball,1,17.1,Gloucestershire,GD Phillips,JMR Taylor,MR Quinn,6,0,,,,,,"",""
+ball,1,17.2,Gloucestershire,GD Phillips,JMR Taylor,MR Quinn,1,0,,,,,,"",""
+ball,1,17.3,Gloucestershire,JMR Taylor,GD Phillips,MR Quinn,0,1,,,1,,,"",""
+ball,1,17.4,Gloucestershire,GD Phillips,JMR Taylor,MR Quinn,1,0,,,,,,"",""
+ball,1,17.5,Gloucestershire,JMR Taylor,GD Phillips,MR Quinn,4,0,,,,,,"",""
+ball,1,17.6,Gloucestershire,JMR Taylor,GD Phillips,JL Denly,0,0,,,,,,bowled,JMR Taylor
+ball,1,18.1,Gloucestershire,GD Phillips,BAC Howell,ME Milnes,2,0,,,,,,"",""
+ball,1,18.2,Gloucestershire,GD Phillips,BAC Howell,ME Milnes,6,0,,,,,,"",""
+ball,1,18.3,Gloucestershire,GD Phillips,BAC Howell,ME Milnes,1,0,,,,,,"",""
+ball,1,18.4,Gloucestershire,BAC Howell,GD Phillips,ME Milnes,1,0,,,,,,"",""
+ball,1,18.5,Gloucestershire,GD Phillips,BAC Howell,ME Milnes,2,0,,,,,,"",""
+ball,1,18.6,Gloucestershire,GD Phillips,BAC Howell,ME Milnes,0,1,1,,,,,"",""
+ball,1,18.7,Gloucestershire,GD Phillips,BAC Howell,ME Milnes,1,0,,,,,,"",""
+ball,1,19.1,Gloucestershire,GD Phillips,BAC Howell,G Stewart,1,0,,,,,,"",""
+ball,1,19.2,Gloucestershire,BAC Howell,GD Phillips,G Stewart,0,1,,,,1,,"",""
+ball,1,19.3,Gloucestershire,GD Phillips,BAC Howell,G Stewart,0,0,,,,,,"",""
+ball,1,19.4,Gloucestershire,GD Phillips,BAC Howell,G Stewart,1,0,,,,,,"",""
+ball,1,19.5,Gloucestershire,BAC Howell,GD Phillips,G Stewart,1,0,,,,,,"",""
+ball,1,19.6,Gloucestershire,GD Phillips,BAC Howell,G Stewart,2,0,,,,,,"",""
+ball,2,0.1,Kent,JL Denly,TS Muyeye,Mohammad Amir,1,0,,,,,,"",""
+ball,2,0.2,Kent,TS Muyeye,JL Denly,Mohammad Amir,1,0,,,,,,"",""
+ball,2,0.3,Kent,JL Denly,TS Muyeye,Mohammad Amir,4,0,,,,,,"",""
+ball,2,0.4,Kent,JL Denly,TS Muyeye,Mohammad Amir,0,0,,,,,,"",""
+ball,2,0.5,Kent,JL Denly,TS Muyeye,Mohammad Amir,0,0,,,,,,"",""
+ball,2,0.6,Kent,JL Denly,TS Muyeye,Mohammad Amir,1,0,,,,,,"",""
+ball,2,1.1,Kent,JL Denly,TS Muyeye,RF Higgins,0,1,1,,,,,"",""
+ball,2,1.2,Kent,JL Denly,TS Muyeye,RF Higgins,4,0,,,,,,"",""
+ball,2,1.3,Kent,JL Denly,TS Muyeye,RF Higgins,2,0,,,,,,"",""
+ball,2,1.4,Kent,JL Denly,TS Muyeye,RF Higgins,0,0,,,,,,"",""
+ball,2,1.5,Kent,JL Denly,TS Muyeye,RF Higgins,0,0,,,,,,"",""
+ball,2,1.6,Kent,JL Denly,TS Muyeye,RF Higgins,1,0,,,,,,"",""
+ball,2,1.7,Kent,TS Muyeye,JL Denly,RF Higgins,4,0,,,,,,"",""
+ball,2,2.1,Kent,JL Denly,TS Muyeye,TMJ Smith,1,0,,,,,,"",""
+ball,2,2.2,Kent,TS Muyeye,JL Denly,TMJ Smith,4,0,,,,,,"",""
+ball,2,2.3,Kent,TS Muyeye,JL Denly,TMJ Smith,1,0,,,,,,"",""
+ball,2,2.4,Kent,JL Denly,TS Muyeye,TMJ Smith,3,0,,,,,,"",""
+ball,2,2.5,Kent,TS Muyeye,JL Denly,TMJ Smith,0,0,,,,,,"",""
+ball,2,2.6,Kent,TS Muyeye,JL Denly,TMJ Smith,1,0,,,,,,"",""
+ball,2,3.1,Kent,TS Muyeye,JL Denly,J Shaw,0,0,,,,,,caught,TS Muyeye
+ball,2,3.2,Kent,JM Cox,JL Denly,J Shaw,1,0,,,,,,"",""
+ball,2,3.3,Kent,JL Denly,JM Cox,J Shaw,0,1,1,,,,,"",""
+ball,2,3.4,Kent,JL Denly,JM Cox,J Shaw,1,0,,,,,,"",""
+ball,2,3.5,Kent,JM Cox,JL Denly,J Shaw,1,0,,,,,,"",""
+ball,2,3.6,Kent,JL Denly,JM Cox,J Shaw,0,0,,,,,,"",""
+ball,2,3.7,Kent,JL Denly,JM Cox,J Shaw,0,1,,,,1,,"",""
+ball,2,4.1,Kent,JL Denly,JM Cox,Mohammad Amir,1,0,,,,,,"",""
+ball,2,4.2,Kent,JM Cox,JL Denly,Mohammad Amir,0,0,,,,,,"",""
+ball,2,4.3,Kent,JM Cox,JL Denly,Mohammad Amir,1,0,,,,,,"",""
+ball,2,4.4,Kent,JL Denly,JM Cox,Mohammad Amir,1,0,,,,,,"",""
+ball,2,4.5,Kent,JM Cox,JL Denly,Mohammad Amir,0,0,,,,,,"",""
+ball,2,4.6,Kent,JM Cox,JL Denly,Mohammad Amir,1,0,,,,,,"",""
+ball,2,5.1,Kent,JM Cox,JL Denly,J Shaw,6,0,,,,,,"",""
+ball,2,5.2,Kent,JM Cox,JL Denly,J Shaw,4,0,,,,,,"",""
+ball,2,5.3,Kent,JM Cox,JL Denly,J Shaw,1,0,,,,,,"",""
+ball,2,5.4,Kent,JL Denly,JM Cox,J Shaw,0,0,,,,,,"",""
+ball,2,5.5,Kent,JL Denly,JM Cox,J Shaw,0,0,,,,,,"",""
+ball,2,5.6,Kent,JL Denly,JM Cox,J Shaw,0,0,,,,,,"",""
+ball,2,6.1,Kent,JM Cox,JL Denly,BAC Howell,1,0,,,,,,"",""
+ball,2,6.2,Kent,JL Denly,JM Cox,BAC Howell,1,0,,,,,,"",""
+ball,2,6.3,Kent,JM Cox,JL Denly,BAC Howell,1,0,,,,,,"",""
+ball,2,6.4,Kent,JL Denly,JM Cox,BAC Howell,0,0,,,,,,"",""
+ball,2,6.5,Kent,JL Denly,JM Cox,BAC Howell,1,0,,,,,,"",""
+ball,2,6.6,Kent,JM Cox,JL Denly,BAC Howell,1,0,,,,,,"",""
+ball,2,7.1,Kent,JM Cox,JL Denly,TMJ Smith,2,0,,,,,,"",""
+ball,2,7.2,Kent,JM Cox,JL Denly,TMJ Smith,1,0,,,,,,"",""
+ball,2,7.3,Kent,JL Denly,JM Cox,TMJ Smith,1,0,,,,,,"",""
+ball,2,7.4,Kent,JM Cox,JL Denly,TMJ Smith,0,0,,,,,,"",""
+ball,2,7.5,Kent,JM Cox,JL Denly,TMJ Smith,1,0,,,,,,"",""
+ball,2,7.6,Kent,JL Denly,JM Cox,TMJ Smith,4,0,,,,,,"",""
+ball,2,8.1,Kent,JM Cox,JL Denly,BAC Howell,2,0,,,,,,"",""
+ball,2,8.2,Kent,JM Cox,JL Denly,BAC Howell,1,0,,,,,,"",""
+ball,2,8.3,Kent,JL Denly,JM Cox,BAC Howell,1,0,,,,,,"",""
+ball,2,8.4,Kent,JM Cox,JL Denly,BAC Howell,2,0,,,,,,"",""
+ball,2,8.5,Kent,JM Cox,JL Denly,BAC Howell,1,0,,,,,,"",""
+ball,2,8.6,Kent,JL Denly,JM Cox,BAC Howell,1,0,,,,,,"",""
+ball,2,9.1,Kent,JL Denly,JM Cox,TMJ Smith,0,1,1,,,,,"",""
+ball,2,9.2,Kent,JL Denly,JM Cox,TMJ Smith,1,0,,,,,,"",""
+ball,2,9.3,Kent,JM Cox,JL Denly,TMJ Smith,1,0,,,,,,"",""
+ball,2,9.4,Kent,JL Denly,JM Cox,TMJ Smith,1,0,,,,,,"",""
+ball,2,9.5,Kent,JM Cox,JL Denly,TMJ Smith,1,0,,,,,,"",""
+ball,2,9.6,Kent,JL Denly,JM Cox,TMJ Smith,0,0,,,,,,caught,JL Denly
+ball,2,9.7,Kent,AJ Blake,JM Cox,TMJ Smith,1,0,,,,,,"",""
+ball,2,10.1,Kent,AJ Blake,JM Cox,JMR Taylor,1,0,,,,,,"",""
+ball,2,10.2,Kent,JM Cox,AJ Blake,JMR Taylor,0,0,,,,,,"",""
+ball,2,10.3,Kent,JM Cox,AJ Blake,JMR Taylor,1,0,,,,,,"",""
+ball,2,10.4,Kent,AJ Blake,JM Cox,JMR Taylor,0,0,,,,,,"",""
+ball,2,10.5,Kent,AJ Blake,JM Cox,JMR Taylor,1,0,,,,,,"",""
+ball,2,10.6,Kent,JM Cox,AJ Blake,JMR Taylor,1,0,,,,,,"",""
+ball,2,11.1,Kent,JM Cox,AJ Blake,J Shaw,0,0,,,,,,"",""
+ball,2,11.2,Kent,JM Cox,AJ Blake,J Shaw,0,0,,,,,,caught,JM Cox
+ball,2,11.3,Kent,SW Billings,AJ Blake,J Shaw,1,0,,,,,,"",""
+ball,2,11.4,Kent,AJ Blake,SW Billings,J Shaw,6,0,,,,,,"",""
+ball,2,11.5,Kent,AJ Blake,SW Billings,J Shaw,1,0,,,,,,"",""
+ball,2,11.6,Kent,SW Billings,AJ Blake,J Shaw,1,0,,,,,,"",""
+ball,2,12.1,Kent,SW Billings,AJ Blake,BAC Howell,0,1,1,,,,,"",""
+ball,2,12.2,Kent,SW Billings,AJ Blake,BAC Howell,1,0,,,,,,"",""
+ball,2,12.3,Kent,AJ Blake,SW Billings,BAC Howell,1,0,,,,,,"",""
+ball,2,12.4,Kent,SW Billings,AJ Blake,BAC Howell,2,0,,,,,,"",""
+ball,2,12.5,Kent,SW Billings,AJ Blake,BAC Howell,4,0,,,,,,"",""
+ball,2,12.6,Kent,SW Billings,AJ Blake,BAC Howell,1,0,,,,,,"",""
+ball,2,12.7,Kent,AJ Blake,SW Billings,BAC Howell,0,1,1,,,,,"",""
+ball,2,12.8,Kent,AJ Blake,SW Billings,BAC Howell,0,0,,,,,,"",""
+ball,2,13.1,Kent,SW Billings,AJ Blake,GD Phillips,6,0,,,,,,"",""
+ball,2,13.2,Kent,SW Billings,AJ Blake,GD Phillips,6,0,,,,,,"",""
+ball,2,13.3,Kent,SW Billings,AJ Blake,GD Phillips,2,0,,,,,,"",""
+ball,2,13.4,Kent,SW Billings,AJ Blake,GD Phillips,1,0,,,,,,"",""
+ball,2,13.5,Kent,AJ Blake,SW Billings,GD Phillips,0,0,,,,,,"",""
+ball,2,13.6,Kent,AJ Blake,SW Billings,GD Phillips,1,0,,,,,,"",""
+ball,2,14.1,Kent,AJ Blake,SW Billings,J Shaw,0,0,,,,,,"",""
+ball,2,14.2,Kent,AJ Blake,SW Billings,J Shaw,4,0,,,,,,"",""
+ball,2,14.3,Kent,AJ Blake,SW Billings,J Shaw,1,0,,,,,,"",""
+ball,2,14.4,Kent,SW Billings,AJ Blake,J Shaw,1,0,,,,,,"",""
+ball,2,14.5,Kent,AJ Blake,SW Billings,J Shaw,4,0,,,,,,"",""
+ball,2,14.6,Kent,AJ Blake,SW Billings,J Shaw,2,0,,,,,,"",""
+ball,2,15.1,Kent,SW Billings,AJ Blake,Mohammad Amir,0,0,,,,,,"",""
+ball,2,15.2,Kent,SW Billings,AJ Blake,Mohammad Amir,0,0,,,,,,caught,SW Billings
+ball,2,15.3,Kent,JA Leaning,AJ Blake,Mohammad Amir,1,0,,,,,,"",""
+ball,2,15.4,Kent,AJ Blake,JA Leaning,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,15.5,Kent,AJ Blake,JA Leaning,Mohammad Amir,1,0,,,,,,"",""
+ball,2,15.6,Kent,JA Leaning,AJ Blake,Mohammad Amir,2,0,,,,,,"",""
+ball,2,15.7,Kent,JA Leaning,AJ Blake,Mohammad Amir,1,0,,,,,,"",""
+ball,2,16.1,Kent,JA Leaning,AJ Blake,BAC Howell,6,0,,,,,,"",""
+ball,2,16.2,Kent,JA Leaning,AJ Blake,BAC Howell,1,0,,,,,,"",""
+ball,2,16.3,Kent,AJ Blake,JA Leaning,BAC Howell,0,0,,,,,,"",""
+ball,2,16.4,Kent,AJ Blake,JA Leaning,BAC Howell,1,0,,,,,,"",""
+ball,2,16.5,Kent,JA Leaning,AJ Blake,BAC Howell,1,0,,,,,,"",""
+ball,2,16.6,Kent,AJ Blake,JA Leaning,BAC Howell,6,0,,,,,,"",""
+ball,2,17.1,Kent,JA Leaning,AJ Blake,RF Higgins,1,0,,,,,,"",""
+ball,2,17.2,Kent,AJ Blake,JA Leaning,RF Higgins,0,1,1,,,,,"",""
+ball,2,17.3,Kent,AJ Blake,JA Leaning,RF Higgins,1,0,,,,,,"",""
+ball,2,17.4,Kent,JA Leaning,AJ Blake,RF Higgins,4,0,,,,,,"",""
+ball,2,17.5,Kent,JA Leaning,AJ Blake,RF Higgins,2,0,,,,,,"",""
+ball,2,17.6,Kent,JA Leaning,AJ Blake,RF Higgins,2,0,,,,,,"",""
+ball,2,17.7,Kent,JA Leaning,AJ Blake,RF Higgins,2,0,,,,,,"",""
+ball,2,18.1,Kent,AJ Blake,JA Leaning,Mohammad Amir,0,0,,,,,,"",""
+ball,2,18.2,Kent,AJ Blake,JA Leaning,Mohammad Amir,0,1,,,1,,,"",""
+ball,2,18.3,Kent,JA Leaning,AJ Blake,Mohammad Amir,1,0,,,,,,"",""
+ball,2,18.4,Kent,AJ Blake,JA Leaning,Mohammad Amir,4,0,,,,,,"",""
+ball,2,18.5,Kent,AJ Blake,JA Leaning,Mohammad Amir,0,0,,,,,,caught,AJ Blake
+ball,2,18.6,Kent,G Stewart,JA Leaning,Mohammad Amir,2,2,,2,,,,"",""
+ball,2,18.7,Kent,G Stewart,JA Leaning,Mohammad Amir,4,0,,,,,,"",""
+ball,2,19.1,Kent,JA Leaning,G Stewart,RF Higgins,0,0,,,,,,"",""
+ball,2,19.2,Kent,JA Leaning,G Stewart,RF Higgins,0,0,,,,,,"",""
+ball,2,19.3,Kent,JA Leaning,G Stewart,RF Higgins,4,0,,,,,,"",""
+ball,2,19.4,Kent,JA Leaning,G Stewart,RF Higgins,2,0,,,,,,"",""
+ball,2,19.5,Kent,JA Leaning,G Stewart,RF Higgins,6,0,,,,,,"",""
+ball,2,19.6,Kent,JA Leaning,G Stewart,RF Higgins,1,0,,,,,,"",""

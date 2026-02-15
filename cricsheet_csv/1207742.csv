@@ -1,0 +1,315 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Hampshire
+info,gender,male
+info,season,2020
+info,date,2020/09/10
+info,event,Vitality Blast
+info,venue,The Rose Bowl
+info,city,Southampton
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,player_of_match,LJ Wright
+info,umpire,BV Taylor
+info,umpire,IJ Gould
+info,tv_umpire,NL Bainton
+info,match_referee,RM Ellison
+info,winner,Sussex
+info,winner_runs,13
+info,player,Sussex,LJ Wright
+info,player,Sussex,CS MacLeod
+info,player,Sussex,DMW Rawlins
+info,player,Sussex,RS Bopara
+info,player,Sussex,D Wiese
+info,player,Sussex,CJ Jordan
+info,player,Sussex,GHS Garton
+info,player,Sussex,BC Brown
+info,player,Sussex,WAT Beer
+info,player,Sussex,DR Briggs
+info,player,Sussex,TS Mills
+info,player,Hampshire,TP Alsop
+info,player,Hampshire,JM Vince
+info,player,Hampshire,SA Northeast
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,LD McManus
+info,player,Hampshire,IG Holland
+info,player,Hampshire,CG Harrison
+info,player,Hampshire,CP Wood
+info,player,Hampshire,MS Crane
+info,player,Hampshire,Shaheen Shah Afridi
+info,registry,people,BC Brown,8af86756
+info,registry,people,BV Taylor,99760152
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CP Wood,1cfac535
+info,registry,people,CS MacLeod,9c376401
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,IG Holland,4167f30b
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,RM Ellison,140552e1
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WAT Beer,98eacfe5
+ball,1,0.1,Sussex,LJ Wright,CS MacLeod,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,0.2,Sussex,CS MacLeod,LJ Wright,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,0.3,Sussex,CS MacLeod,LJ Wright,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,0.4,Sussex,LJ Wright,CS MacLeod,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,0.5,Sussex,CS MacLeod,LJ Wright,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,0.6,Sussex,CS MacLeod,LJ Wright,Shaheen Shah Afridi,0,0,,,,,,run out,CS MacLeod
+ball,1,1.1,Sussex,DMW Rawlins,LJ Wright,CP Wood,0,0,,,,,,"",""
+ball,1,1.2,Sussex,DMW Rawlins,LJ Wright,CP Wood,0,0,,,,,,"",""
+ball,1,1.3,Sussex,DMW Rawlins,LJ Wright,CP Wood,4,0,,,,,,"",""
+ball,1,1.4,Sussex,DMW Rawlins,LJ Wright,CP Wood,4,0,,,,,,"",""
+ball,1,1.5,Sussex,DMW Rawlins,LJ Wright,CP Wood,0,1,1,,,,,"",""
+ball,1,1.6,Sussex,DMW Rawlins,LJ Wright,CP Wood,1,0,,,,,,"",""
+ball,1,1.7,Sussex,LJ Wright,DMW Rawlins,CP Wood,0,0,,,,,,"",""
+ball,1,2.1,Sussex,DMW Rawlins,LJ Wright,IG Holland,1,0,,,,,,"",""
+ball,1,2.2,Sussex,LJ Wright,DMW Rawlins,IG Holland,4,0,,,,,,"",""
+ball,1,2.3,Sussex,LJ Wright,DMW Rawlins,IG Holland,0,0,,,,,,"",""
+ball,1,2.4,Sussex,LJ Wright,DMW Rawlins,IG Holland,1,0,,,,,,"",""
+ball,1,2.5,Sussex,DMW Rawlins,LJ Wright,IG Holland,0,0,,,,,,"",""
+ball,1,2.6,Sussex,DMW Rawlins,LJ Wright,IG Holland,0,0,,,,,,caught,DMW Rawlins
+ball,1,3.1,Sussex,RS Bopara,LJ Wright,CP Wood,0,0,,,,,,"",""
+ball,1,3.2,Sussex,RS Bopara,LJ Wright,CP Wood,1,0,,,,,,"",""
+ball,1,3.3,Sussex,LJ Wright,RS Bopara,CP Wood,4,0,,,,,,"",""
+ball,1,3.4,Sussex,LJ Wright,RS Bopara,CP Wood,0,0,,,,,,"",""
+ball,1,3.5,Sussex,LJ Wright,RS Bopara,CP Wood,0,0,,,,,,"",""
+ball,1,3.6,Sussex,LJ Wright,RS Bopara,CP Wood,1,0,,,,,,"",""
+ball,1,4.1,Sussex,LJ Wright,RS Bopara,IG Holland,0,0,,,,,,"",""
+ball,1,4.2,Sussex,LJ Wright,RS Bopara,IG Holland,1,0,,,,,,"",""
+ball,1,4.3,Sussex,RS Bopara,LJ Wright,IG Holland,1,0,,,,,,"",""
+ball,1,4.4,Sussex,LJ Wright,RS Bopara,IG Holland,1,0,,,,,,"",""
+ball,1,4.5,Sussex,RS Bopara,LJ Wright,IG Holland,0,0,,,,,,"",""
+ball,1,4.6,Sussex,RS Bopara,LJ Wright,IG Holland,1,0,,,,,,"",""
+ball,1,5.1,Sussex,RS Bopara,LJ Wright,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,5.2,Sussex,LJ Wright,RS Bopara,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,5.3,Sussex,LJ Wright,RS Bopara,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,5.4,Sussex,LJ Wright,RS Bopara,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,5.5,Sussex,LJ Wright,RS Bopara,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,5.6,Sussex,RS Bopara,LJ Wright,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,6.1,Sussex,LJ Wright,RS Bopara,MS Crane,0,0,,,,,,"",""
+ball,1,6.2,Sussex,LJ Wright,RS Bopara,MS Crane,1,0,,,,,,"",""
+ball,1,6.3,Sussex,RS Bopara,LJ Wright,MS Crane,0,0,,,,,,"",""
+ball,1,6.4,Sussex,RS Bopara,LJ Wright,MS Crane,1,0,,,,,,"",""
+ball,1,6.5,Sussex,LJ Wright,RS Bopara,MS Crane,1,0,,,,,,"",""
+ball,1,6.6,Sussex,RS Bopara,LJ Wright,MS Crane,1,0,,,,,,"",""
+ball,1,7.1,Sussex,RS Bopara,LJ Wright,CG Harrison,0,0,,,,,,"",""
+ball,1,7.2,Sussex,RS Bopara,LJ Wright,CG Harrison,0,0,,,,,,"",""
+ball,1,7.3,Sussex,RS Bopara,LJ Wright,CG Harrison,1,0,,,,,,"",""
+ball,1,7.4,Sussex,LJ Wright,RS Bopara,CG Harrison,1,0,,,,,,"",""
+ball,1,7.5,Sussex,RS Bopara,LJ Wright,CG Harrison,2,0,,,,,,"",""
+ball,1,7.6,Sussex,RS Bopara,LJ Wright,CG Harrison,2,0,,,,,,"",""
+ball,1,8.1,Sussex,LJ Wright,RS Bopara,MS Crane,1,0,,,,,,"",""
+ball,1,8.2,Sussex,RS Bopara,LJ Wright,MS Crane,0,0,,,,,,"",""
+ball,1,8.3,Sussex,RS Bopara,LJ Wright,MS Crane,1,0,,,,,,"",""
+ball,1,8.4,Sussex,LJ Wright,RS Bopara,MS Crane,2,0,,,,,,"",""
+ball,1,8.5,Sussex,LJ Wright,RS Bopara,MS Crane,1,0,,,,,,"",""
+ball,1,8.6,Sussex,RS Bopara,LJ Wright,MS Crane,1,0,,,,,,"",""
+ball,1,9.1,Sussex,RS Bopara,LJ Wright,CG Harrison,1,0,,,,,,"",""
+ball,1,9.2,Sussex,LJ Wright,RS Bopara,CG Harrison,1,0,,,,,,"",""
+ball,1,9.3,Sussex,RS Bopara,LJ Wright,CG Harrison,0,0,,,,,,caught,RS Bopara
+ball,1,9.4,Sussex,D Wiese,LJ Wright,CG Harrison,1,0,,,,,,"",""
+ball,1,9.5,Sussex,LJ Wright,D Wiese,CG Harrison,1,0,,,,,,"",""
+ball,1,9.6,Sussex,D Wiese,LJ Wright,CG Harrison,1,0,,,,,,"",""
+ball,1,10.1,Sussex,D Wiese,LJ Wright,MS Crane,1,0,,,,,,"",""
+ball,1,10.2,Sussex,LJ Wright,D Wiese,MS Crane,0,0,,,,,,"",""
+ball,1,10.3,Sussex,LJ Wright,D Wiese,MS Crane,0,0,,,,,,"",""
+ball,1,10.4,Sussex,LJ Wright,D Wiese,MS Crane,1,0,,,,,,"",""
+ball,1,10.5,Sussex,D Wiese,LJ Wright,MS Crane,2,0,,,,,,"",""
+ball,1,10.6,Sussex,D Wiese,LJ Wright,MS Crane,1,0,,,,,,"",""
+ball,1,11.1,Sussex,D Wiese,LJ Wright,CG Harrison,2,0,,,,,,"",""
+ball,1,11.2,Sussex,D Wiese,LJ Wright,CG Harrison,1,0,,,,,,"",""
+ball,1,11.3,Sussex,LJ Wright,D Wiese,CG Harrison,1,0,,,,,,"",""
+ball,1,11.4,Sussex,D Wiese,LJ Wright,CG Harrison,4,0,,,,,,"",""
+ball,1,11.5,Sussex,D Wiese,LJ Wright,CG Harrison,1,0,,,,,,"",""
+ball,1,11.6,Sussex,LJ Wright,D Wiese,CG Harrison,1,0,,,,,,"",""
+ball,1,12.1,Sussex,LJ Wright,D Wiese,IG Holland,1,0,,,,,,"",""
+ball,1,12.2,Sussex,D Wiese,LJ Wright,IG Holland,2,0,,,,,,"",""
+ball,1,12.3,Sussex,D Wiese,LJ Wright,IG Holland,1,0,,,,,,"",""
+ball,1,12.4,Sussex,LJ Wright,D Wiese,IG Holland,1,0,,,,,,"",""
+ball,1,12.5,Sussex,D Wiese,LJ Wright,IG Holland,1,0,,,,,,"",""
+ball,1,12.6,Sussex,LJ Wright,D Wiese,IG Holland,1,0,,,,,,"",""
+ball,1,13.1,Sussex,LJ Wright,D Wiese,CG Harrison,2,0,,,,,,"",""
+ball,1,13.2,Sussex,LJ Wright,D Wiese,CG Harrison,1,0,,,,,,"",""
+ball,1,13.3,Sussex,D Wiese,LJ Wright,CG Harrison,6,0,,,,,,"",""
+ball,1,13.4,Sussex,D Wiese,LJ Wright,CG Harrison,1,0,,,,,,"",""
+ball,1,13.5,Sussex,LJ Wright,D Wiese,CG Harrison,4,0,,,,,,"",""
+ball,1,13.6,Sussex,LJ Wright,D Wiese,CG Harrison,4,0,,,,,,"",""
+ball,1,14.1,Sussex,D Wiese,LJ Wright,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,14.2,Sussex,D Wiese,LJ Wright,Shaheen Shah Afridi,0,1,1,,,,,"",""
+ball,1,14.3,Sussex,D Wiese,LJ Wright,Shaheen Shah Afridi,3,0,,,,,,"",""
+ball,1,14.4,Sussex,LJ Wright,D Wiese,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,1,14.5,Sussex,LJ Wright,D Wiese,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,14.6,Sussex,LJ Wright,D Wiese,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,14.7,Sussex,D Wiese,LJ Wright,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,15.1,Sussex,D Wiese,LJ Wright,MS Crane,0,0,,,,,,"",""
+ball,1,15.2,Sussex,D Wiese,LJ Wright,MS Crane,0,2,2,,,,,"",""
+ball,1,15.3,Sussex,LJ Wright,D Wiese,MS Crane,0,0,,,,,,"",""
+ball,1,15.4,Sussex,LJ Wright,D Wiese,MS Crane,2,0,,,,,,"",""
+ball,1,15.5,Sussex,LJ Wright,D Wiese,MS Crane,1,0,,,,,,"",""
+ball,1,15.6,Sussex,D Wiese,LJ Wright,MS Crane,0,1,,,,1,,"",""
+ball,1,15.7,Sussex,LJ Wright,D Wiese,MS Crane,2,0,,,,,,"",""
+ball,1,16.1,Sussex,D Wiese,LJ Wright,IG Holland,6,0,,,,,,"",""
+ball,1,16.2,Sussex,D Wiese,LJ Wright,IG Holland,0,0,,,,,,"",""
+ball,1,16.3,Sussex,D Wiese,LJ Wright,IG Holland,0,0,,,,,,"",""
+ball,1,16.4,Sussex,D Wiese,LJ Wright,IG Holland,2,0,,,,,,"",""
+ball,1,16.5,Sussex,D Wiese,LJ Wright,IG Holland,4,0,,,,,,"",""
+ball,1,16.6,Sussex,D Wiese,LJ Wright,IG Holland,0,0,,,,,,"",""
+ball,1,17.1,Sussex,LJ Wright,D Wiese,CP Wood,0,0,,,,,,"",""
+ball,1,17.2,Sussex,LJ Wright,D Wiese,CP Wood,0,0,,,,,,"",""
+ball,1,17.3,Sussex,LJ Wright,D Wiese,CP Wood,2,0,,,,,,"",""
+ball,1,17.4,Sussex,LJ Wright,D Wiese,CP Wood,1,0,,,,,,"",""
+ball,1,17.5,Sussex,D Wiese,LJ Wright,CP Wood,0,0,,,,,,caught,D Wiese
+ball,1,17.6,Sussex,LJ Wright,CJ Jordan,CP Wood,2,0,,,,,,"",""
+ball,1,18.1,Sussex,CJ Jordan,LJ Wright,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,18.2,Sussex,LJ Wright,CJ Jordan,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,1,18.3,Sussex,LJ Wright,CJ Jordan,Shaheen Shah Afridi,6,0,,,,,,"",""
+ball,1,18.4,Sussex,LJ Wright,CJ Jordan,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,18.5,Sussex,LJ Wright,CJ Jordan,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,18.6,Sussex,CJ Jordan,LJ Wright,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,1,19.1,Sussex,LJ Wright,CJ Jordan,CP Wood,0,1,,,,1,,"",""
+ball,1,19.2,Sussex,CJ Jordan,LJ Wright,CP Wood,0,1,,,,1,,"",""
+ball,1,19.3,Sussex,LJ Wright,CJ Jordan,CP Wood,2,0,,,,,,"",""
+ball,1,19.4,Sussex,LJ Wright,CJ Jordan,CP Wood,6,0,,,,,,"",""
+ball,1,19.5,Sussex,LJ Wright,CJ Jordan,CP Wood,0,0,,,,,,"",""
+ball,1,19.6,Sussex,LJ Wright,CJ Jordan,CP Wood,0,0,,,,,,caught,LJ Wright
+ball,2,0.1,Hampshire,TP Alsop,JM Vince,DR Briggs,0,0,,,,,,"",""
+ball,2,0.2,Hampshire,TP Alsop,JM Vince,DR Briggs,0,0,,,,,,"",""
+ball,2,0.3,Hampshire,TP Alsop,JM Vince,DR Briggs,0,0,,,,,,"",""
+ball,2,0.4,Hampshire,TP Alsop,JM Vince,DR Briggs,1,0,,,,,,"",""
+ball,2,0.5,Hampshire,JM Vince,TP Alsop,DR Briggs,1,0,,,,,,"",""
+ball,2,0.6,Hampshire,TP Alsop,JM Vince,DR Briggs,0,0,,,,,,"",""
+ball,2,1.1,Hampshire,JM Vince,TP Alsop,GHS Garton,0,1,,,,1,,"",""
+ball,2,1.2,Hampshire,TP Alsop,JM Vince,GHS Garton,1,0,,,,,,"",""
+ball,2,1.3,Hampshire,JM Vince,TP Alsop,GHS Garton,0,0,,,,,,"",""
+ball,2,1.4,Hampshire,JM Vince,TP Alsop,GHS Garton,4,0,,,,,,"",""
+ball,2,1.5,Hampshire,JM Vince,TP Alsop,GHS Garton,1,0,,,,,,"",""
+ball,2,1.6,Hampshire,TP Alsop,JM Vince,GHS Garton,2,0,,,,,,"",""
+ball,2,2.1,Hampshire,JM Vince,TP Alsop,DR Briggs,4,0,,,,,,"",""
+ball,2,2.2,Hampshire,JM Vince,TP Alsop,DR Briggs,0,0,,,,,,caught,JM Vince
+ball,2,2.3,Hampshire,SA Northeast,TP Alsop,DR Briggs,0,0,,,,,,"",""
+ball,2,2.4,Hampshire,SA Northeast,TP Alsop,DR Briggs,0,0,,,,,,"",""
+ball,2,2.5,Hampshire,SA Northeast,TP Alsop,DR Briggs,1,0,,,,,,"",""
+ball,2,2.6,Hampshire,TP Alsop,SA Northeast,DR Briggs,0,0,,,,,,"",""
+ball,2,3.1,Hampshire,SA Northeast,TP Alsop,TS Mills,0,2,,2,,,,"",""
+ball,2,3.2,Hampshire,SA Northeast,TP Alsop,TS Mills,0,0,,,,,,"",""
+ball,2,3.3,Hampshire,SA Northeast,TP Alsop,TS Mills,0,0,,,,,,"",""
+ball,2,3.4,Hampshire,SA Northeast,TP Alsop,TS Mills,1,0,,,,,,"",""
+ball,2,3.5,Hampshire,TP Alsop,SA Northeast,TS Mills,4,0,,,,,,"",""
+ball,2,3.6,Hampshire,TP Alsop,SA Northeast,TS Mills,1,0,,,,,,"",""
+ball,2,3.7,Hampshire,SA Northeast,TP Alsop,TS Mills,2,0,,,,,,"",""
+ball,2,4.1,Hampshire,TP Alsop,SA Northeast,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.2,Hampshire,TP Alsop,SA Northeast,CJ Jordan,4,0,,,,,,"",""
+ball,2,4.3,Hampshire,TP Alsop,SA Northeast,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.4,Hampshire,TP Alsop,SA Northeast,CJ Jordan,1,0,,,,,,"",""
+ball,2,4.5,Hampshire,SA Northeast,TP Alsop,CJ Jordan,4,0,,,,,,"",""
+ball,2,4.6,Hampshire,SA Northeast,TP Alsop,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.1,Hampshire,SA Northeast,TP Alsop,GHS Garton,1,0,,,,,,"",""
+ball,2,5.2,Hampshire,TP Alsop,SA Northeast,GHS Garton,4,0,,,,,,"",""
+ball,2,5.3,Hampshire,TP Alsop,SA Northeast,GHS Garton,1,0,,,,,,"",""
+ball,2,5.4,Hampshire,SA Northeast,TP Alsop,GHS Garton,0,0,,,,,,"",""
+ball,2,5.5,Hampshire,SA Northeast,TP Alsop,GHS Garton,1,0,,,,,,"",""
+ball,2,5.6,Hampshire,TP Alsop,SA Northeast,GHS Garton,0,0,,,,,,"",""
+ball,2,6.1,Hampshire,SA Northeast,TP Alsop,RS Bopara,0,0,,,,,,"",""
+ball,2,6.2,Hampshire,SA Northeast,TP Alsop,RS Bopara,1,0,,,,,,"",""
+ball,2,6.3,Hampshire,TP Alsop,SA Northeast,RS Bopara,2,0,,,,,,"",""
+ball,2,6.4,Hampshire,TP Alsop,SA Northeast,RS Bopara,0,3,,,,3,,"",""
+ball,2,6.5,Hampshire,SA Northeast,TP Alsop,RS Bopara,0,1,1,,,,,"",""
+ball,2,6.6,Hampshire,SA Northeast,TP Alsop,RS Bopara,1,0,,,,,,"",""
+ball,2,6.7,Hampshire,TP Alsop,SA Northeast,RS Bopara,2,0,,,,,,"",""
+ball,2,7.1,Hampshire,SA Northeast,TP Alsop,WAT Beer,2,0,,,,,,"",""
+ball,2,7.2,Hampshire,SA Northeast,TP Alsop,WAT Beer,1,0,,,,,,"",""
+ball,2,7.3,Hampshire,TP Alsop,SA Northeast,WAT Beer,1,0,,,,,,"",""
+ball,2,7.4,Hampshire,SA Northeast,TP Alsop,WAT Beer,1,0,,,,,,"",""
+ball,2,7.5,Hampshire,TP Alsop,SA Northeast,WAT Beer,1,0,,,,,,"",""
+ball,2,7.6,Hampshire,SA Northeast,TP Alsop,WAT Beer,0,0,,,,,,bowled,SA Northeast
+ball,2,8.1,Hampshire,TP Alsop,JJ Weatherley,RS Bopara,1,0,,,,,,"",""
+ball,2,8.2,Hampshire,JJ Weatherley,TP Alsop,RS Bopara,0,0,,,,,,"",""
+ball,2,8.3,Hampshire,JJ Weatherley,TP Alsop,RS Bopara,2,0,,,,,,"",""
+ball,2,8.4,Hampshire,JJ Weatherley,TP Alsop,RS Bopara,1,0,,,,,,"",""
+ball,2,8.5,Hampshire,TP Alsop,JJ Weatherley,RS Bopara,1,0,,,,,,"",""
+ball,2,8.6,Hampshire,JJ Weatherley,TP Alsop,RS Bopara,0,0,,,,,,"",""
+ball,2,9.1,Hampshire,TP Alsop,JJ Weatherley,WAT Beer,4,0,,,,,,"",""
+ball,2,9.2,Hampshire,TP Alsop,JJ Weatherley,WAT Beer,1,0,,,,,,"",""
+ball,2,9.3,Hampshire,JJ Weatherley,TP Alsop,WAT Beer,0,0,,,,,,"",""
+ball,2,9.4,Hampshire,JJ Weatherley,TP Alsop,WAT Beer,1,0,,,,,,"",""
+ball,2,9.5,Hampshire,TP Alsop,JJ Weatherley,WAT Beer,2,0,,,,,,"",""
+ball,2,9.6,Hampshire,TP Alsop,JJ Weatherley,WAT Beer,0,1,,,,1,,"",""
+ball,2,10.1,Hampshire,TP Alsop,JJ Weatherley,DR Briggs,4,0,,,,,,"",""
+ball,2,10.2,Hampshire,TP Alsop,JJ Weatherley,DR Briggs,1,0,,,,,,"",""
+ball,2,10.3,Hampshire,JJ Weatherley,TP Alsop,DR Briggs,1,0,,,,,,"",""
+ball,2,10.4,Hampshire,TP Alsop,JJ Weatherley,DR Briggs,1,0,,,,,,"",""
+ball,2,10.5,Hampshire,JJ Weatherley,TP Alsop,DR Briggs,0,0,,,,,,"",""
+ball,2,10.6,Hampshire,JJ Weatherley,TP Alsop,DR Briggs,2,0,,,,,,"",""
+ball,2,11.1,Hampshire,TP Alsop,JJ Weatherley,RS Bopara,1,0,,,,,,"",""
+ball,2,11.2,Hampshire,JJ Weatherley,TP Alsop,RS Bopara,1,0,,,,,,"",""
+ball,2,11.3,Hampshire,TP Alsop,JJ Weatherley,RS Bopara,0,5,5,,,,,"",""
+ball,2,11.4,Hampshire,TP Alsop,JJ Weatherley,RS Bopara,1,0,,,,,,"",""
+ball,2,11.5,Hampshire,JJ Weatherley,TP Alsop,RS Bopara,1,0,,,,,,"",""
+ball,2,11.6,Hampshire,TP Alsop,JJ Weatherley,RS Bopara,1,0,,,,,,"",""
+ball,2,11.7,Hampshire,JJ Weatherley,TP Alsop,RS Bopara,1,0,,,,,,"",""
+ball,2,12.1,Hampshire,JJ Weatherley,TP Alsop,TS Mills,1,0,,,,,,"",""
+ball,2,12.2,Hampshire,TP Alsop,JJ Weatherley,TS Mills,0,0,,,,,,"",""
+ball,2,12.3,Hampshire,TP Alsop,JJ Weatherley,TS Mills,0,2,,2,,,,"",""
+ball,2,12.4,Hampshire,TP Alsop,JJ Weatherley,TS Mills,0,0,,,,,,caught,TP Alsop
+ball,2,12.5,Hampshire,JJ Weatherley,JK Fuller,TS Mills,1,0,,,,,,"",""
+ball,2,12.6,Hampshire,JK Fuller,JJ Weatherley,TS Mills,1,0,,,,,,"",""
+ball,2,12.7,Hampshire,JJ Weatherley,JK Fuller,TS Mills,1,0,,,,,,"",""
+ball,2,13.1,Hampshire,JJ Weatherley,JK Fuller,WAT Beer,2,0,,,,,,"",""
+ball,2,13.2,Hampshire,JJ Weatherley,JK Fuller,WAT Beer,1,0,,,,,,"",""
+ball,2,13.3,Hampshire,JK Fuller,JJ Weatherley,WAT Beer,0,0,,,,,,"",""
+ball,2,13.4,Hampshire,JK Fuller,JJ Weatherley,WAT Beer,1,0,,,,,,"",""
+ball,2,13.5,Hampshire,JJ Weatherley,JK Fuller,WAT Beer,2,0,,,,,,"",""
+ball,2,13.6,Hampshire,JJ Weatherley,JK Fuller,WAT Beer,0,1,1,,,,,"",""
+ball,2,13.7,Hampshire,JJ Weatherley,JK Fuller,WAT Beer,0,0,,,,,,"",""
+ball,2,14.1,Hampshire,JK Fuller,JJ Weatherley,DR Briggs,0,0,,,,,,"",""
+ball,2,14.2,Hampshire,JK Fuller,JJ Weatherley,DR Briggs,1,0,,,,,,"",""
+ball,2,14.3,Hampshire,JJ Weatherley,JK Fuller,DR Briggs,1,0,,,,,,"",""
+ball,2,14.4,Hampshire,JK Fuller,JJ Weatherley,DR Briggs,1,0,,,,,,"",""
+ball,2,14.5,Hampshire,JJ Weatherley,JK Fuller,DR Briggs,1,0,,,,,,"",""
+ball,2,14.6,Hampshire,JK Fuller,JJ Weatherley,DR Briggs,0,0,,,,,,caught and bowled,JK Fuller
+ball,2,15.1,Hampshire,JJ Weatherley,LD McManus,WAT Beer,1,0,,,,,,"",""
+ball,2,15.2,Hampshire,LD McManus,JJ Weatherley,WAT Beer,0,0,,,,,,"",""
+ball,2,15.3,Hampshire,LD McManus,JJ Weatherley,WAT Beer,1,0,,,,,,"",""
+ball,2,15.4,Hampshire,JJ Weatherley,LD McManus,WAT Beer,1,0,,,,,,"",""
+ball,2,15.5,Hampshire,LD McManus,JJ Weatherley,WAT Beer,1,0,,,,,,"",""
+ball,2,15.6,Hampshire,JJ Weatherley,LD McManus,WAT Beer,2,0,,,,,,"",""
+ball,2,16.1,Hampshire,LD McManus,JJ Weatherley,CJ Jordan,2,0,,,,,,"",""
+ball,2,16.2,Hampshire,LD McManus,JJ Weatherley,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.3,Hampshire,JJ Weatherley,LD McManus,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.4,Hampshire,LD McManus,JJ Weatherley,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.5,Hampshire,JJ Weatherley,LD McManus,CJ Jordan,0,0,,,,,,bowled,JJ Weatherley
+ball,2,16.6,Hampshire,IG Holland,LD McManus,CJ Jordan,2,0,,,,,,"",""
+ball,2,17.1,Hampshire,LD McManus,IG Holland,TS Mills,0,0,,,,,,"",""
+ball,2,17.2,Hampshire,LD McManus,IG Holland,TS Mills,0,0,,,,,,"",""
+ball,2,17.3,Hampshire,LD McManus,IG Holland,TS Mills,1,0,,,,,,"",""
+ball,2,17.4,Hampshire,IG Holland,LD McManus,TS Mills,4,0,,,,,,"",""
+ball,2,17.5,Hampshire,IG Holland,LD McManus,TS Mills,0,1,,,1,,,"",""
+ball,2,17.6,Hampshire,LD McManus,IG Holland,TS Mills,0,0,,,,,,"",""
+ball,2,18.1,Hampshire,IG Holland,LD McManus,CJ Jordan,0,0,,,,,,"",""
+ball,2,18.2,Hampshire,IG Holland,LD McManus,CJ Jordan,4,0,,,,,,"",""
+ball,2,18.3,Hampshire,IG Holland,LD McManus,CJ Jordan,1,0,,,,,,"",""
+ball,2,18.4,Hampshire,LD McManus,IG Holland,CJ Jordan,1,0,,,,,,"",""
+ball,2,18.5,Hampshire,IG Holland,LD McManus,CJ Jordan,1,0,,,,,,"",""
+ball,2,18.6,Hampshire,LD McManus,IG Holland,CJ Jordan,4,0,,,,,,"",""
+ball,2,19.1,Hampshire,IG Holland,LD McManus,TS Mills,0,1,,,1,,,"",""
+ball,2,19.2,Hampshire,LD McManus,IG Holland,TS Mills,2,0,,,,,,"",""
+ball,2,19.3,Hampshire,LD McManus,IG Holland,TS Mills,0,0,,,,,,caught,LD McManus
+ball,2,19.4,Hampshire,IG Holland,CG Harrison,TS Mills,0,0,,,,,,"",""
+ball,2,19.5,Hampshire,IG Holland,CG Harrison,TS Mills,1,0,,,,,,"",""
+ball,2,19.6,Hampshire,CG Harrison,IG Holland,TS Mills,2,0,,,,,,"",""

@@ -1,0 +1,286 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,Thunder
+info,gender,female
+info,season,2024
+info,date,2024/05/19
+info,event,Charlotte Edwards Cup
+info,match_number,3
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Northern Diamonds
+info,toss_decision,bat
+info,umpire,A Clark
+info,umpire,PR Pollard
+info,match_referee,H Pack
+info,winner,Thunder
+info,winner_wickets,8
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,PE Turner
+info,player,Northern Diamonds,K Fraser
+info,player,Northern Diamonds,S Turner
+info,player,Northern Diamonds,GE Hall
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,R Slater
+info,player,Thunder,EL Lamb
+info,player,Thunder,FMK Morris
+info,player,Thunder,G Voll
+info,player,Thunder,S Smale
+info,player,Thunder,E Threlkeld
+info,player,Thunder,DL Collins
+info,player,Thunder,A Lister
+info,player,Thunder,KL Cross
+info,player,Thunder,PC Graham
+info,player,Thunder,M Gaur
+info,player,Thunder,HE Jones
+info,registry,people,A Clark,8c73cd16
+info,registry,people,A Lister,090c0213
+info,registry,people,DL Collins,246ba42c
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EK Marlow,ac574559
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,G Voll,5c30d455
+info,registry,people,GE Hall,026135b1
+info,registry,people,H Pack,fed53c91
+info,registry,people,HE Jones,f7b74efa
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KL Cross,1ade138e
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,PE Turner,53e25aa3
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,R Slater,8a452195
+info,registry,people,S Smale,3247d54e
+info,registry,people,S Turner,7442f8dd
+info,registry,people,SL Kalis,2b150c6b
+ball,1,0.1,Northern Diamonds,L Winfield-Hill,L Dobson,KL Cross,0,0,,,,,,"",""
+ball,1,0.2,Northern Diamonds,L Winfield-Hill,L Dobson,KL Cross,1,0,,,,,,"",""
+ball,1,0.3,Northern Diamonds,L Dobson,L Winfield-Hill,KL Cross,0,0,,,,,,"",""
+ball,1,0.4,Northern Diamonds,L Dobson,L Winfield-Hill,KL Cross,2,0,,,,,,"",""
+ball,1,0.5,Northern Diamonds,L Dobson,L Winfield-Hill,KL Cross,2,0,,,,,,"",""
+ball,1,0.6,Northern Diamonds,L Dobson,L Winfield-Hill,KL Cross,1,0,,,,,,"",""
+ball,1,1.1,Northern Diamonds,L Dobson,L Winfield-Hill,M Gaur,0,0,,,,,,"",""
+ball,1,1.2,Northern Diamonds,L Dobson,L Winfield-Hill,M Gaur,2,0,,,,,,"",""
+ball,1,1.3,Northern Diamonds,L Dobson,L Winfield-Hill,M Gaur,0,0,,,,,,"",""
+ball,1,1.4,Northern Diamonds,L Dobson,L Winfield-Hill,M Gaur,0,0,,,,,,"",""
+ball,1,1.5,Northern Diamonds,L Dobson,L Winfield-Hill,M Gaur,0,0,,,,,,caught,L Dobson
+ball,1,1.6,Northern Diamonds,HJ Armitage,L Winfield-Hill,M Gaur,0,0,,,,,,"",""
+ball,1,2.1,Northern Diamonds,L Winfield-Hill,HJ Armitage,KL Cross,1,0,,,,,,"",""
+ball,1,2.2,Northern Diamonds,HJ Armitage,L Winfield-Hill,KL Cross,1,0,,,,,,"",""
+ball,1,2.3,Northern Diamonds,L Winfield-Hill,HJ Armitage,KL Cross,0,0,,,,,,"",""
+ball,1,2.4,Northern Diamonds,L Winfield-Hill,HJ Armitage,KL Cross,0,0,,,,,,caught,L Winfield-Hill
+ball,1,2.5,Northern Diamonds,SL Kalis,HJ Armitage,KL Cross,0,0,,,,,,"",""
+ball,1,2.6,Northern Diamonds,SL Kalis,HJ Armitage,KL Cross,4,0,,,,,,"",""
+ball,1,3.1,Northern Diamonds,HJ Armitage,SL Kalis,M Gaur,1,0,,,,,,"",""
+ball,1,3.2,Northern Diamonds,SL Kalis,HJ Armitage,M Gaur,0,0,,,,,,"",""
+ball,1,3.3,Northern Diamonds,SL Kalis,HJ Armitage,M Gaur,0,1,,,1,,,"",""
+ball,1,3.4,Northern Diamonds,HJ Armitage,SL Kalis,M Gaur,1,0,,,,,,"",""
+ball,1,3.5,Northern Diamonds,SL Kalis,HJ Armitage,M Gaur,0,0,,,,,,"",""
+ball,1,3.6,Northern Diamonds,SL Kalis,HJ Armitage,M Gaur,1,0,,,,,,"",""
+ball,1,4.1,Northern Diamonds,SL Kalis,HJ Armitage,PC Graham,0,1,,,,1,,"",""
+ball,1,4.2,Northern Diamonds,HJ Armitage,SL Kalis,PC Graham,0,0,,,,,,lbw,HJ Armitage
+ball,1,4.3,Northern Diamonds,EK Marlow,SL Kalis,PC Graham,1,0,,,,,,"",""
+ball,1,4.4,Northern Diamonds,SL Kalis,EK Marlow,PC Graham,1,0,,,,,,"",""
+ball,1,4.5,Northern Diamonds,EK Marlow,SL Kalis,PC Graham,1,0,,,,,,"",""
+ball,1,4.6,Northern Diamonds,SL Kalis,EK Marlow,PC Graham,0,0,,,,,,"",""
+ball,1,5.1,Northern Diamonds,EK Marlow,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,5.2,Northern Diamonds,EK Marlow,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,5.3,Northern Diamonds,EK Marlow,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,5.4,Northern Diamonds,EK Marlow,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,5.5,Northern Diamonds,EK Marlow,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,5.6,Northern Diamonds,EK Marlow,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,6.1,Northern Diamonds,SL Kalis,EK Marlow,HE Jones,1,0,,,,,,"",""
+ball,1,6.2,Northern Diamonds,EK Marlow,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,6.3,Northern Diamonds,EK Marlow,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,6.4,Northern Diamonds,EK Marlow,SL Kalis,HE Jones,4,0,,,,,,"",""
+ball,1,6.5,Northern Diamonds,EK Marlow,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,6.6,Northern Diamonds,EK Marlow,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,7.1,Northern Diamonds,SL Kalis,EK Marlow,M Gaur,0,0,,,,,,"",""
+ball,1,7.2,Northern Diamonds,SL Kalis,EK Marlow,M Gaur,0,0,,,,,,"",""
+ball,1,7.3,Northern Diamonds,SL Kalis,EK Marlow,M Gaur,4,0,,,,,,"",""
+ball,1,7.4,Northern Diamonds,SL Kalis,EK Marlow,M Gaur,0,0,,,,,,"",""
+ball,1,7.5,Northern Diamonds,SL Kalis,EK Marlow,M Gaur,1,0,,,,,,"",""
+ball,1,7.6,Northern Diamonds,EK Marlow,SL Kalis,M Gaur,0,1,1,,,,,"",""
+ball,1,7.7,Northern Diamonds,EK Marlow,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,8.1,Northern Diamonds,SL Kalis,EK Marlow,G Voll,1,0,,,,,,"",""
+ball,1,8.2,Northern Diamonds,EK Marlow,SL Kalis,G Voll,4,0,,,,,,"",""
+ball,1,8.3,Northern Diamonds,EK Marlow,SL Kalis,G Voll,0,1,1,,,,,"",""
+ball,1,8.4,Northern Diamonds,EK Marlow,SL Kalis,G Voll,1,0,,,,,,"",""
+ball,1,8.5,Northern Diamonds,SL Kalis,EK Marlow,G Voll,0,0,,,,,,"",""
+ball,1,8.6,Northern Diamonds,SL Kalis,EK Marlow,G Voll,0,0,,,,,,"",""
+ball,1,8.7,Northern Diamonds,SL Kalis,EK Marlow,G Voll,1,0,,,,,,"",""
+ball,1,9.1,Northern Diamonds,SL Kalis,EK Marlow,FMK Morris,1,0,,,,,,"",""
+ball,1,9.2,Northern Diamonds,EK Marlow,SL Kalis,FMK Morris,0,0,,,,,,"",""
+ball,1,9.3,Northern Diamonds,EK Marlow,SL Kalis,FMK Morris,0,0,,,,,,"",""
+ball,1,9.4,Northern Diamonds,EK Marlow,SL Kalis,FMK Morris,0,0,,,,,,"",""
+ball,1,9.5,Northern Diamonds,EK Marlow,SL Kalis,FMK Morris,1,0,,,,,,"",""
+ball,1,9.6,Northern Diamonds,SL Kalis,EK Marlow,FMK Morris,0,1,1,,,,,"",""
+ball,1,9.7,Northern Diamonds,SL Kalis,EK Marlow,FMK Morris,0,0,,,,,,"",""
+ball,1,10.1,Northern Diamonds,EK Marlow,SL Kalis,PC Graham,0,0,,,,,,"",""
+ball,1,10.2,Northern Diamonds,EK Marlow,SL Kalis,PC Graham,0,1,1,,,,,"",""
+ball,1,10.3,Northern Diamonds,EK Marlow,SL Kalis,PC Graham,0,0,,,,,,"",""
+ball,1,10.4,Northern Diamonds,EK Marlow,SL Kalis,PC Graham,4,0,,,,,,"",""
+ball,1,10.5,Northern Diamonds,EK Marlow,SL Kalis,PC Graham,1,0,,,,,,"",""
+ball,1,10.6,Northern Diamonds,SL Kalis,EK Marlow,PC Graham,1,0,,,,,,"",""
+ball,1,10.7,Northern Diamonds,EK Marlow,SL Kalis,PC Graham,0,0,,,,,,"",""
+ball,1,11.1,Northern Diamonds,SL Kalis,EK Marlow,FMK Morris,0,0,,,,,,caught,SL Kalis
+ball,1,11.2,Northern Diamonds,PE Turner,EK Marlow,FMK Morris,0,0,,,,,,"",""
+ball,1,11.3,Northern Diamonds,PE Turner,EK Marlow,FMK Morris,1,0,,,,,,"",""
+ball,1,11.4,Northern Diamonds,EK Marlow,PE Turner,FMK Morris,0,0,,,,,,"",""
+ball,1,11.5,Northern Diamonds,EK Marlow,PE Turner,FMK Morris,0,0,,,,,,"",""
+ball,1,11.6,Northern Diamonds,EK Marlow,PE Turner,FMK Morris,1,0,,,,,,"",""
+ball,1,12.1,Northern Diamonds,EK Marlow,PE Turner,HE Jones,1,0,,,,,,"",""
+ball,1,12.2,Northern Diamonds,PE Turner,EK Marlow,HE Jones,0,0,,,,,,"",""
+ball,1,12.3,Northern Diamonds,PE Turner,EK Marlow,HE Jones,1,0,,,,,,"",""
+ball,1,12.4,Northern Diamonds,EK Marlow,PE Turner,HE Jones,4,0,,,,,,"",""
+ball,1,12.5,Northern Diamonds,EK Marlow,PE Turner,HE Jones,1,0,,,,,,"",""
+ball,1,12.6,Northern Diamonds,PE Turner,EK Marlow,HE Jones,0,0,,,,,,"",""
+ball,1,13.1,Northern Diamonds,EK Marlow,PE Turner,FMK Morris,1,0,,,,,,"",""
+ball,1,13.2,Northern Diamonds,PE Turner,EK Marlow,FMK Morris,1,0,,,,,,"",""
+ball,1,13.3,Northern Diamonds,EK Marlow,PE Turner,FMK Morris,0,0,,,,,,"",""
+ball,1,13.4,Northern Diamonds,EK Marlow,PE Turner,FMK Morris,1,0,,,,,,"",""
+ball,1,13.5,Northern Diamonds,PE Turner,EK Marlow,FMK Morris,1,0,,,,,,"",""
+ball,1,13.6,Northern Diamonds,EK Marlow,PE Turner,FMK Morris,0,1,1,,,,,"",""
+ball,1,13.7,Northern Diamonds,EK Marlow,PE Turner,FMK Morris,1,0,,,,,,"",""
+ball,1,14.1,Northern Diamonds,EK Marlow,PE Turner,KL Cross,1,0,,,,,,run out,PE Turner
+ball,1,14.2,Northern Diamonds,EK Marlow,K Fraser,KL Cross,0,0,,,,,,"",""
+ball,1,14.3,Northern Diamonds,EK Marlow,K Fraser,KL Cross,1,0,,,,,,"",""
+ball,1,14.4,Northern Diamonds,K Fraser,EK Marlow,KL Cross,0,0,,,,,,"",""
+ball,1,14.5,Northern Diamonds,K Fraser,EK Marlow,KL Cross,0,0,,,,,,"",""
+ball,1,14.6,Northern Diamonds,K Fraser,EK Marlow,KL Cross,1,0,,,,,,"",""
+ball,1,15.1,Northern Diamonds,K Fraser,EK Marlow,FMK Morris,0,0,,,,,,"",""
+ball,1,15.2,Northern Diamonds,K Fraser,EK Marlow,FMK Morris,1,0,,,,,,"",""
+ball,1,15.3,Northern Diamonds,EK Marlow,K Fraser,FMK Morris,0,0,,,,,,"",""
+ball,1,15.4,Northern Diamonds,EK Marlow,K Fraser,FMK Morris,1,0,,,,,,"",""
+ball,1,15.5,Northern Diamonds,K Fraser,EK Marlow,FMK Morris,1,0,,,,,,"",""
+ball,1,15.6,Northern Diamonds,EK Marlow,K Fraser,FMK Morris,1,0,,,,,,"",""
+ball,1,16.1,Northern Diamonds,EK Marlow,K Fraser,HE Jones,4,0,,,,,,"",""
+ball,1,16.2,Northern Diamonds,EK Marlow,K Fraser,HE Jones,0,0,,,,,,"",""
+ball,1,16.3,Northern Diamonds,EK Marlow,K Fraser,HE Jones,4,0,,,,,,"",""
+ball,1,16.4,Northern Diamonds,EK Marlow,K Fraser,HE Jones,0,0,,,,,,"",""
+ball,1,16.5,Northern Diamonds,EK Marlow,K Fraser,HE Jones,1,0,,,,,,"",""
+ball,1,16.6,Northern Diamonds,K Fraser,EK Marlow,HE Jones,0,0,,,,,,"",""
+ball,1,17.1,Northern Diamonds,EK Marlow,K Fraser,PC Graham,1,0,,,,,,"",""
+ball,1,17.2,Northern Diamonds,K Fraser,EK Marlow,PC Graham,2,0,,,,,,"",""
+ball,1,17.3,Northern Diamonds,K Fraser,EK Marlow,PC Graham,1,0,,,,,,"",""
+ball,1,17.4,Northern Diamonds,EK Marlow,K Fraser,PC Graham,2,0,,,,,,"",""
+ball,1,17.5,Northern Diamonds,EK Marlow,K Fraser,PC Graham,1,0,,,,,,"",""
+ball,1,17.6,Northern Diamonds,K Fraser,EK Marlow,PC Graham,4,0,,,,,,"",""
+ball,1,18.1,Northern Diamonds,EK Marlow,K Fraser,KL Cross,0,0,,,,,,"",""
+ball,1,18.2,Northern Diamonds,EK Marlow,K Fraser,KL Cross,1,0,,,,,,"",""
+ball,1,18.3,Northern Diamonds,K Fraser,EK Marlow,KL Cross,3,0,,,,,,"",""
+ball,1,18.4,Northern Diamonds,EK Marlow,K Fraser,KL Cross,1,0,,,,,,"",""
+ball,1,18.5,Northern Diamonds,K Fraser,EK Marlow,KL Cross,0,0,,,,,,"",""
+ball,1,18.6,Northern Diamonds,K Fraser,EK Marlow,KL Cross,1,0,,,,,,"",""
+ball,1,19.1,Northern Diamonds,K Fraser,EK Marlow,PC Graham,1,0,,,,,,"",""
+ball,1,19.2,Northern Diamonds,EK Marlow,K Fraser,PC Graham,1,0,,,,,,"",""
+ball,1,19.3,Northern Diamonds,K Fraser,EK Marlow,PC Graham,0,0,,,,,,"",""
+ball,1,19.4,Northern Diamonds,K Fraser,EK Marlow,PC Graham,2,0,,,,,,"",""
+ball,1,19.5,Northern Diamonds,K Fraser,EK Marlow,PC Graham,4,0,,,,,,"",""
+ball,1,19.6,Northern Diamonds,K Fraser,EK Marlow,PC Graham,2,0,,,,,,"",""
+ball,2,0.1,Thunder,EL Lamb,FMK Morris,PE Turner,0,1,1,,,,,"",""
+ball,2,0.2,Thunder,EL Lamb,FMK Morris,PE Turner,0,1,,1,,,,"",""
+ball,2,0.3,Thunder,EL Lamb,FMK Morris,PE Turner,2,0,,,,,,"",""
+ball,2,0.4,Thunder,EL Lamb,FMK Morris,PE Turner,0,0,,,,,,"",""
+ball,2,0.5,Thunder,EL Lamb,FMK Morris,PE Turner,4,0,,,,,,"",""
+ball,2,0.6,Thunder,EL Lamb,FMK Morris,PE Turner,0,0,,,,,,"",""
+ball,2,0.7,Thunder,EL Lamb,FMK Morris,PE Turner,1,0,,,,,,"",""
+ball,2,0.8,Thunder,FMK Morris,EL Lamb,PE Turner,1,0,,,,,,"",""
+ball,2,1.1,Thunder,FMK Morris,EL Lamb,R Slater,1,0,,,,,,"",""
+ball,2,1.2,Thunder,EL Lamb,FMK Morris,R Slater,0,0,,,,,,"",""
+ball,2,1.3,Thunder,EL Lamb,FMK Morris,R Slater,0,0,,,,,,"",""
+ball,2,1.4,Thunder,EL Lamb,FMK Morris,R Slater,0,0,,,,,,"",""
+ball,2,1.5,Thunder,EL Lamb,FMK Morris,R Slater,1,0,,,,,,"",""
+ball,2,1.6,Thunder,FMK Morris,EL Lamb,R Slater,4,0,,,,,,"",""
+ball,2,2.1,Thunder,EL Lamb,FMK Morris,KA Levick,3,0,,,,,,"",""
+ball,2,2.2,Thunder,FMK Morris,EL Lamb,KA Levick,0,0,,,,,,lbw,FMK Morris
+ball,2,2.3,Thunder,G Voll,EL Lamb,KA Levick,2,0,,,,,,"",""
+ball,2,2.4,Thunder,G Voll,EL Lamb,KA Levick,0,0,,,,,,"",""
+ball,2,2.5,Thunder,G Voll,EL Lamb,KA Levick,4,0,,,,,,"",""
+ball,2,2.6,Thunder,G Voll,EL Lamb,KA Levick,4,0,,,,,,"",""
+ball,2,3.1,Thunder,EL Lamb,G Voll,R Slater,0,0,,,,,,"",""
+ball,2,3.2,Thunder,EL Lamb,G Voll,R Slater,4,0,,,,,,"",""
+ball,2,3.3,Thunder,EL Lamb,G Voll,R Slater,0,0,,,,,,"",""
+ball,2,3.4,Thunder,EL Lamb,G Voll,R Slater,4,0,,,,,,"",""
+ball,2,3.5,Thunder,EL Lamb,G Voll,R Slater,0,1,1,,,,,"",""
+ball,2,3.6,Thunder,EL Lamb,G Voll,R Slater,0,0,,,,,,"",""
+ball,2,3.7,Thunder,EL Lamb,G Voll,R Slater,4,0,,,,,,"",""
+ball,2,4.1,Thunder,G Voll,EL Lamb,PE Turner,0,0,,,,,,"",""
+ball,2,4.2,Thunder,G Voll,EL Lamb,PE Turner,1,0,,,,,,"",""
+ball,2,4.3,Thunder,EL Lamb,G Voll,PE Turner,1,0,,,,,,"",""
+ball,2,4.4,Thunder,G Voll,EL Lamb,PE Turner,0,0,,,,,,"",""
+ball,2,4.5,Thunder,G Voll,EL Lamb,PE Turner,0,1,1,,,,,"",""
+ball,2,4.6,Thunder,G Voll,EL Lamb,PE Turner,0,0,,,,,,"",""
+ball,2,4.7,Thunder,G Voll,EL Lamb,PE Turner,4,0,,,,,,"",""
+ball,2,5.1,Thunder,EL Lamb,G Voll,K Fraser,2,0,,,,,,"",""
+ball,2,5.2,Thunder,EL Lamb,G Voll,K Fraser,0,0,,,,,,"",""
+ball,2,5.3,Thunder,EL Lamb,G Voll,K Fraser,1,0,,,,,,"",""
+ball,2,5.4,Thunder,G Voll,EL Lamb,K Fraser,0,0,,,,,,"",""
+ball,2,5.5,Thunder,G Voll,EL Lamb,K Fraser,4,0,,,,,,"",""
+ball,2,5.6,Thunder,G Voll,EL Lamb,K Fraser,0,0,,,,,,"",""
+ball,2,6.1,Thunder,EL Lamb,G Voll,GE Hall,0,0,,,,,,"",""
+ball,2,6.2,Thunder,EL Lamb,G Voll,GE Hall,1,0,,,,,,"",""
+ball,2,6.3,Thunder,G Voll,EL Lamb,GE Hall,0,0,,,,,,run out,G Voll
+ball,2,6.4,Thunder,S Smale,EL Lamb,GE Hall,2,0,,,,,,"",""
+ball,2,6.5,Thunder,S Smale,EL Lamb,GE Hall,1,0,,,,,,"",""
+ball,2,6.6,Thunder,EL Lamb,S Smale,GE Hall,1,0,,,,,,"",""
+ball,2,7.1,Thunder,EL Lamb,S Smale,KA Levick,0,0,,,,,,"",""
+ball,2,7.2,Thunder,EL Lamb,S Smale,KA Levick,0,0,,,,,,"",""
+ball,2,7.3,Thunder,EL Lamb,S Smale,KA Levick,1,0,,,,,,"",""
+ball,2,7.4,Thunder,S Smale,EL Lamb,KA Levick,1,0,,,,,,"",""
+ball,2,7.5,Thunder,EL Lamb,S Smale,KA Levick,1,0,,,,,,"",""
+ball,2,7.6,Thunder,S Smale,EL Lamb,KA Levick,4,0,,,,,,"",""
+ball,2,8.1,Thunder,EL Lamb,S Smale,S Turner,0,2,2,,,,,"",""
+ball,2,8.2,Thunder,S Smale,EL Lamb,S Turner,0,0,,,,,,"",""
+ball,2,8.3,Thunder,S Smale,EL Lamb,S Turner,1,0,,,,,,"",""
+ball,2,8.4,Thunder,EL Lamb,S Smale,S Turner,1,0,,,,,,"",""
+ball,2,8.5,Thunder,S Smale,EL Lamb,S Turner,0,0,,,,,,"",""
+ball,2,8.6,Thunder,S Smale,EL Lamb,S Turner,0,0,,,,,,"",""
+ball,2,8.7,Thunder,S Smale,EL Lamb,S Turner,0,0,,,,,,"",""
+ball,2,9.1,Thunder,EL Lamb,S Smale,K Fraser,1,0,,,,,,"",""
+ball,2,9.2,Thunder,S Smale,EL Lamb,K Fraser,1,0,,,,,,"",""
+ball,2,9.3,Thunder,EL Lamb,S Smale,K Fraser,2,0,,,,,,"",""
+ball,2,9.4,Thunder,EL Lamb,S Smale,K Fraser,1,0,,,,,,"",""
+ball,2,9.5,Thunder,S Smale,EL Lamb,K Fraser,2,0,,,,,,"",""
+ball,2,9.6,Thunder,S Smale,EL Lamb,K Fraser,1,0,,,,,,"",""
+ball,2,10.1,Thunder,S Smale,EL Lamb,GE Hall,0,0,,,,,,"",""
+ball,2,10.2,Thunder,S Smale,EL Lamb,GE Hall,0,4,,,4,,,"",""
+ball,2,10.3,Thunder,S Smale,EL Lamb,GE Hall,1,0,,,,,,"",""
+ball,2,10.4,Thunder,EL Lamb,S Smale,GE Hall,0,1,1,,,,,"",""
+ball,2,10.5,Thunder,EL Lamb,S Smale,GE Hall,0,2,2,,,,,"",""
+ball,2,10.6,Thunder,S Smale,EL Lamb,GE Hall,1,0,,,,,,"",""
+ball,2,10.7,Thunder,EL Lamb,S Smale,GE Hall,0,0,,,,,,"",""
+ball,2,10.8,Thunder,EL Lamb,S Smale,GE Hall,1,0,,,,,,"",""
+ball,2,11.1,Thunder,EL Lamb,S Smale,KA Levick,0,0,,,,,,"",""
+ball,2,11.2,Thunder,EL Lamb,S Smale,KA Levick,1,0,,,,,,"",""
+ball,2,11.3,Thunder,S Smale,EL Lamb,KA Levick,0,0,,,,,,"",""
+ball,2,11.4,Thunder,S Smale,EL Lamb,KA Levick,2,0,,,,,,"",""
+ball,2,11.5,Thunder,S Smale,EL Lamb,KA Levick,1,0,,,,,,"",""
+ball,2,11.6,Thunder,EL Lamb,S Smale,KA Levick,2,0,,,,,,"",""
+ball,2,12.1,Thunder,S Smale,EL Lamb,S Turner,1,0,,,,,,"",""
+ball,2,12.2,Thunder,EL Lamb,S Smale,S Turner,1,0,,,,,,"",""
+ball,2,12.3,Thunder,S Smale,EL Lamb,S Turner,0,0,,,,,,"",""
+ball,2,12.4,Thunder,S Smale,EL Lamb,S Turner,0,0,,,,,,"",""
+ball,2,12.5,Thunder,S Smale,EL Lamb,S Turner,1,0,,,,,,"",""
+ball,2,12.6,Thunder,EL Lamb,S Smale,S Turner,0,0,,,,,,"",""
+ball,2,13.1,Thunder,S Smale,EL Lamb,KA Levick,1,0,,,,,,"",""
+ball,2,13.2,Thunder,EL Lamb,S Smale,KA Levick,1,0,,,,,,"",""
+ball,2,13.3,Thunder,S Smale,EL Lamb,KA Levick,1,0,,,,,,"",""
+ball,2,13.4,Thunder,EL Lamb,S Smale,KA Levick,1,0,,,,,,"",""
+ball,2,13.5,Thunder,S Smale,EL Lamb,KA Levick,2,0,,,,,,"",""
+ball,2,13.6,Thunder,S Smale,EL Lamb,KA Levick,1,0,,,,,,"",""
+ball,2,14.1,Thunder,S Smale,EL Lamb,R Slater,0,0,,,,,,"",""
+ball,2,14.2,Thunder,S Smale,EL Lamb,R Slater,1,0,,,,,,"",""
+ball,2,14.3,Thunder,EL Lamb,S Smale,R Slater,0,0,,,,,,"",""
+ball,2,14.4,Thunder,EL Lamb,S Smale,R Slater,1,0,,,,,,"",""
+ball,2,14.5,Thunder,S Smale,EL Lamb,R Slater,4,0,,,,,,"",""

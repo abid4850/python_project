@@ -1,0 +1,257 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Manchester Originals
+info,team,Northern Superchargers
+info,gender,male
+info,season,2023
+info,date,2023/08/13
+info,event,The Hundred Men's Competition
+info,match_number,18
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Manchester Originals
+info,toss_decision,bat
+info,player_of_match,J Overton
+info,umpire,DJ Millns
+info,umpire,Tom Lungley
+info,reserve_umpire,S Widdup
+info,tv_umpire,SJ O'Shaughnessy
+info,match_referee,AM Smith (2)
+info,winner,Manchester Originals
+info,winner_runs,40
+info,method,D/L
+info,player,Manchester Originals,PD Salt
+info,player,Manchester Originals,JC Buttler
+info,player,Manchester Originals,LJ Evans
+info,player,Manchester Originals,PI Walter
+info,player,Manchester Originals,AJ Turner
+info,player,Manchester Originals,J Overton
+info,player,Manchester Originals,Usama Mir
+info,player,Manchester Originals,TW Hartley
+info,player,Manchester Originals,BA Raine
+info,player,Manchester Originals,J Little
+info,player,Manchester Originals,JC Tongue
+info,player,Northern Superchargers,T Banton
+info,player,Northern Superchargers,MW Short
+info,player,Northern Superchargers,HC Brook
+info,player,Northern Superchargers,AJ Hose
+info,player,Northern Superchargers,SA Zaib
+info,player,Northern Superchargers,D Wiese
+info,player,Northern Superchargers,BA Carse
+info,player,Northern Superchargers,WD Parnell
+info,player,Northern Superchargers,AU Rashid
+info,player,Northern Superchargers,CF Parkinson
+info,player,Northern Superchargers,RJW Topley
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,J Little,9061a703
+info,registry,people,J Overton,59559bc2
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JC Tongue,1f1b4c89
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MW Short,a90e53ec
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,WD Parnell,3a60e0b5
+ball,1,0.1,Manchester Originals,PD Salt,JC Buttler,RJW Topley,0,0,,,,,,"",""
+ball,1,0.2,Manchester Originals,PD Salt,JC Buttler,RJW Topley,4,0,,,,,,"",""
+ball,1,0.3,Manchester Originals,PD Salt,JC Buttler,RJW Topley,0,0,,,,,,caught,PD Salt
+ball,1,0.4,Manchester Originals,LJ Evans,JC Buttler,RJW Topley,0,0,,,,,,"",""
+ball,1,0.5,Manchester Originals,LJ Evans,JC Buttler,RJW Topley,0,0,,,,,,"",""
+ball,1,1.1,Manchester Originals,LJ Evans,JC Buttler,RJW Topley,0,1,1,,,,,"",""
+ball,1,1.2,Manchester Originals,LJ Evans,JC Buttler,RJW Topley,0,1,,,,1,,"",""
+ball,1,1.3,Manchester Originals,JC Buttler,LJ Evans,RJW Topley,2,0,,,,,,"",""
+ball,1,1.4,Manchester Originals,JC Buttler,LJ Evans,RJW Topley,0,0,,,,,,caught,JC Buttler
+ball,1,1.5,Manchester Originals,PI Walter,LJ Evans,RJW Topley,0,0,,,,,,"",""
+ball,1,1.6,Manchester Originals,PI Walter,LJ Evans,RJW Topley,0,0,,,,,,"",""
+ball,1,2.1,Manchester Originals,LJ Evans,PI Walter,BA Carse,1,0,,,,,,"",""
+ball,1,2.2,Manchester Originals,PI Walter,LJ Evans,BA Carse,0,0,,,,,,"",""
+ball,1,2.3,Manchester Originals,PI Walter,LJ Evans,BA Carse,0,0,,,,,,"",""
+ball,1,2.4,Manchester Originals,PI Walter,LJ Evans,BA Carse,4,0,,,,,,"",""
+ball,1,2.5,Manchester Originals,PI Walter,LJ Evans,BA Carse,0,0,,,,,,"",""
+ball,1,3.1,Manchester Originals,PI Walter,LJ Evans,WD Parnell,1,0,,,,,,"",""
+ball,1,3.2,Manchester Originals,LJ Evans,PI Walter,WD Parnell,4,0,,,,,,"",""
+ball,1,3.3,Manchester Originals,LJ Evans,PI Walter,WD Parnell,6,0,,,,,,"",""
+ball,1,3.4,Manchester Originals,LJ Evans,PI Walter,WD Parnell,4,0,,,,,,"",""
+ball,1,3.5,Manchester Originals,LJ Evans,PI Walter,WD Parnell,1,0,,,,,,"",""
+ball,1,4.1,Manchester Originals,LJ Evans,PI Walter,BA Carse,6,0,,,,,,"",""
+ball,1,4.2,Manchester Originals,LJ Evans,PI Walter,BA Carse,0,0,,,,,,"",""
+ball,1,4.3,Manchester Originals,LJ Evans,PI Walter,BA Carse,0,0,,,,,,"",""
+ball,1,4.4,Manchester Originals,LJ Evans,PI Walter,BA Carse,1,0,,,,,,"",""
+ball,1,4.5,Manchester Originals,PI Walter,LJ Evans,BA Carse,4,0,,,,,,"",""
+ball,1,5.1,Manchester Originals,PI Walter,LJ Evans,CF Parkinson,1,0,,,,,,"",""
+ball,1,5.2,Manchester Originals,LJ Evans,PI Walter,CF Parkinson,6,0,,,,,,"",""
+ball,1,5.3,Manchester Originals,LJ Evans,PI Walter,CF Parkinson,1,0,,,,,,"",""
+ball,1,5.4,Manchester Originals,PI Walter,LJ Evans,CF Parkinson,1,0,,,,,,"",""
+ball,1,5.5,Manchester Originals,LJ Evans,PI Walter,CF Parkinson,4,0,,,,,,"",""
+ball,1,6.1,Manchester Originals,PI Walter,LJ Evans,D Wiese,0,0,,,,,,"",""
+ball,1,6.2,Manchester Originals,PI Walter,LJ Evans,D Wiese,1,0,,,,,,"",""
+ball,1,6.3,Manchester Originals,LJ Evans,PI Walter,D Wiese,6,0,,,,,,"",""
+ball,1,6.4,Manchester Originals,LJ Evans,PI Walter,D Wiese,1,0,,,,,,"",""
+ball,1,6.5,Manchester Originals,PI Walter,LJ Evans,D Wiese,0,1,1,,,,,"",""
+ball,1,6.6,Manchester Originals,PI Walter,LJ Evans,D Wiese,2,0,,,,,,"",""
+ball,1,7.1,Manchester Originals,PI Walter,LJ Evans,BA Carse,4,0,,,,,,"",""
+ball,1,7.2,Manchester Originals,PI Walter,LJ Evans,BA Carse,4,0,,,,,,"",""
+ball,1,7.3,Manchester Originals,PI Walter,LJ Evans,BA Carse,0,1,1,,,,,"",""
+ball,1,7.4,Manchester Originals,PI Walter,LJ Evans,BA Carse,0,0,,,,,,"",""
+ball,1,7.5,Manchester Originals,PI Walter,LJ Evans,BA Carse,0,0,,,,,,"",""
+ball,1,7.6,Manchester Originals,PI Walter,LJ Evans,BA Carse,0,0,,,,,,caught,PI Walter
+ball,1,8.1,Manchester Originals,LJ Evans,AJ Turner,AU Rashid,0,0,,,,,,caught,LJ Evans
+ball,1,8.2,Manchester Originals,J Overton,AJ Turner,AU Rashid,4,0,,,,,,"",""
+ball,1,8.3,Manchester Originals,J Overton,AJ Turner,AU Rashid,1,0,,,,,,"",""
+ball,1,8.4,Manchester Originals,AJ Turner,J Overton,AU Rashid,0,0,,,,,,"",""
+ball,1,8.5,Manchester Originals,AJ Turner,J Overton,AU Rashid,1,0,,,,,,"",""
+ball,1,9.1,Manchester Originals,J Overton,AJ Turner,AU Rashid,1,0,,,,,,"",""
+ball,1,9.2,Manchester Originals,AJ Turner,J Overton,AU Rashid,0,0,,,,,,"",""
+ball,1,9.3,Manchester Originals,AJ Turner,J Overton,AU Rashid,1,0,,,,,,"",""
+ball,1,9.4,Manchester Originals,J Overton,AJ Turner,AU Rashid,6,0,,,,,,"",""
+ball,1,9.5,Manchester Originals,J Overton,AJ Turner,AU Rashid,1,0,,,,,,"",""
+ball,1,10.1,Manchester Originals,J Overton,AJ Turner,CF Parkinson,1,0,,,,,,"",""
+ball,1,10.2,Manchester Originals,AJ Turner,J Overton,CF Parkinson,6,0,,,,,,"",""
+ball,1,10.3,Manchester Originals,AJ Turner,J Overton,CF Parkinson,0,0,,,,,,stumped,AJ Turner
+ball,1,10.4,Manchester Originals,Usama Mir,J Overton,CF Parkinson,0,0,,,,,,"",""
+ball,1,10.5,Manchester Originals,Usama Mir,J Overton,CF Parkinson,1,0,,,,,,"",""
+ball,1,11.1,Manchester Originals,J Overton,Usama Mir,CF Parkinson,0,0,,,,,,"",""
+ball,1,11.2,Manchester Originals,J Overton,Usama Mir,CF Parkinson,6,0,,,,,,"",""
+ball,1,11.3,Manchester Originals,J Overton,Usama Mir,CF Parkinson,1,0,,,,,,"",""
+ball,1,11.4,Manchester Originals,Usama Mir,J Overton,CF Parkinson,2,0,,,,,,"",""
+ball,1,11.5,Manchester Originals,Usama Mir,J Overton,CF Parkinson,4,0,,,,,,"",""
+ball,1,12.1,Manchester Originals,J Overton,Usama Mir,RJW Topley,1,0,,,,,,"",""
+ball,1,12.2,Manchester Originals,Usama Mir,J Overton,RJW Topley,0,0,,,,,,"",""
+ball,1,12.3,Manchester Originals,Usama Mir,J Overton,RJW Topley,0,0,,,,,,caught,Usama Mir
+ball,1,12.4,Manchester Originals,TW Hartley,J Overton,RJW Topley,0,0,,,,,,"",""
+ball,1,12.5,Manchester Originals,TW Hartley,J Overton,RJW Topley,1,0,,,,,,"",""
+ball,1,13.1,Manchester Originals,J Overton,TW Hartley,AU Rashid,4,0,,,,,,"",""
+ball,1,13.2,Manchester Originals,J Overton,TW Hartley,AU Rashid,1,0,,,,,,"",""
+ball,1,13.3,Manchester Originals,TW Hartley,J Overton,AU Rashid,0,0,,,,,,"",""
+ball,1,13.4,Manchester Originals,TW Hartley,J Overton,AU Rashid,6,0,,,,,,"",""
+ball,1,13.5,Manchester Originals,TW Hartley,J Overton,AU Rashid,1,0,,,,,,"",""
+ball,1,14.1,Manchester Originals,TW Hartley,J Overton,WD Parnell,1,0,,,,,,"",""
+ball,1,14.2,Manchester Originals,J Overton,TW Hartley,WD Parnell,1,0,,,,,,"",""
+ball,1,14.3,Manchester Originals,TW Hartley,J Overton,WD Parnell,1,0,,,,,,"",""
+ball,1,14.4,Manchester Originals,J Overton,TW Hartley,WD Parnell,4,0,,,,,,"",""
+ball,1,14.5,Manchester Originals,J Overton,TW Hartley,WD Parnell,4,0,,,,,,"",""
+ball,1,15.1,Manchester Originals,J Overton,TW Hartley,BA Carse,0,0,,,,,,"",""
+ball,1,15.2,Manchester Originals,J Overton,TW Hartley,BA Carse,6,0,,,,,,"",""
+ball,1,15.3,Manchester Originals,J Overton,TW Hartley,BA Carse,0,0,,,,,,"",""
+ball,1,15.4,Manchester Originals,J Overton,TW Hartley,BA Carse,4,0,,,,,,"",""
+ball,1,15.5,Manchester Originals,J Overton,TW Hartley,BA Carse,1,0,,,,,,"",""
+ball,1,16.1,Manchester Originals,J Overton,TW Hartley,RJW Topley,4,0,,,,,,"",""
+ball,1,16.2,Manchester Originals,J Overton,TW Hartley,RJW Topley,6,0,,,,,,"",""
+ball,1,16.3,Manchester Originals,J Overton,TW Hartley,RJW Topley,0,0,,,,,,"",""
+ball,1,16.4,Manchester Originals,J Overton,TW Hartley,RJW Topley,6,0,,,,,,"",""
+ball,1,16.5,Manchester Originals,J Overton,TW Hartley,RJW Topley,4,0,,,,,,"",""
+ball,1,17.1,Manchester Originals,J Overton,TW Hartley,WD Parnell,0,0,,,,,,"",""
+ball,1,17.2,Manchester Originals,J Overton,TW Hartley,WD Parnell,0,1,1,,,,,"",""
+ball,1,17.3,Manchester Originals,J Overton,TW Hartley,WD Parnell,6,0,,,,,,"",""
+ball,1,17.4,Manchester Originals,J Overton,TW Hartley,WD Parnell,4,0,,,,,,"",""
+ball,1,17.5,Manchester Originals,J Overton,TW Hartley,WD Parnell,2,0,,,,,,"",""
+ball,1,17.6,Manchester Originals,J Overton,TW Hartley,WD Parnell,4,0,,,,,,"",""
+ball,2,0.1,Northern Superchargers,T Banton,MW Short,JC Tongue,0,0,,,,,,"",""
+ball,2,0.2,Northern Superchargers,T Banton,MW Short,JC Tongue,0,0,,,,,,"",""
+ball,2,0.3,Northern Superchargers,T Banton,MW Short,JC Tongue,4,0,,,,,,"",""
+ball,2,0.4,Northern Superchargers,T Banton,MW Short,JC Tongue,1,0,,,,,,"",""
+ball,2,0.5,Northern Superchargers,MW Short,T Banton,JC Tongue,1,0,,,,,,"",""
+ball,2,1.1,Northern Superchargers,T Banton,MW Short,J Little,1,0,,,,,,"",""
+ball,2,1.2,Northern Superchargers,MW Short,T Banton,J Little,4,0,,,,,,"",""
+ball,2,1.3,Northern Superchargers,MW Short,T Banton,J Little,0,0,,,,,,"",""
+ball,2,1.4,Northern Superchargers,MW Short,T Banton,J Little,4,0,,,,,,"",""
+ball,2,1.5,Northern Superchargers,MW Short,T Banton,J Little,1,0,,,,,,"",""
+ball,2,2.1,Northern Superchargers,MW Short,T Banton,JC Tongue,1,0,,,,,,"",""
+ball,2,2.2,Northern Superchargers,T Banton,MW Short,JC Tongue,1,0,,,,,,"",""
+ball,2,2.3,Northern Superchargers,MW Short,T Banton,JC Tongue,0,0,,,,,,"",""
+ball,2,2.4,Northern Superchargers,MW Short,T Banton,JC Tongue,0,0,,,,,,"",""
+ball,2,2.5,Northern Superchargers,MW Short,T Banton,JC Tongue,0,0,,,,,,"",""
+ball,2,3.1,Northern Superchargers,MW Short,T Banton,BA Raine,2,0,,,,,,"",""
+ball,2,3.2,Northern Superchargers,MW Short,T Banton,BA Raine,6,0,,,,,,"",""
+ball,2,3.3,Northern Superchargers,MW Short,T Banton,BA Raine,4,0,,,,,,"",""
+ball,2,3.4,Northern Superchargers,MW Short,T Banton,BA Raine,1,0,,,,,,"",""
+ball,2,3.5,Northern Superchargers,T Banton,MW Short,BA Raine,4,0,,,,,,"",""
+ball,2,4.1,Northern Superchargers,MW Short,T Banton,JC Tongue,4,0,,,,,,"",""
+ball,2,4.2,Northern Superchargers,MW Short,T Banton,JC Tongue,6,0,,,,,,"",""
+ball,2,4.3,Northern Superchargers,MW Short,T Banton,JC Tongue,1,0,,,,,,"",""
+ball,2,4.4,Northern Superchargers,T Banton,MW Short,JC Tongue,1,0,,,,,,"",""
+ball,2,4.5,Northern Superchargers,MW Short,T Banton,JC Tongue,2,0,,,,,,"",""
+ball,2,5.1,Northern Superchargers,MW Short,T Banton,Usama Mir,0,0,,,,,,bowled,MW Short
+ball,2,5.2,Northern Superchargers,HC Brook,T Banton,Usama Mir,1,0,,,,,,"",""
+ball,2,5.3,Northern Superchargers,T Banton,HC Brook,Usama Mir,0,0,,,,,,bowled,T Banton
+ball,2,5.4,Northern Superchargers,AJ Hose,HC Brook,Usama Mir,1,0,,,,,,"",""
+ball,2,5.5,Northern Superchargers,HC Brook,AJ Hose,Usama Mir,0,0,,,,,,"",""
+ball,2,6.1,Northern Superchargers,AJ Hose,HC Brook,TW Hartley,0,0,,,,,,"",""
+ball,2,6.2,Northern Superchargers,AJ Hose,HC Brook,TW Hartley,0,0,,,,,,"",""
+ball,2,6.3,Northern Superchargers,AJ Hose,HC Brook,TW Hartley,1,0,,,,,,"",""
+ball,2,6.4,Northern Superchargers,HC Brook,AJ Hose,TW Hartley,1,0,,,,,,"",""
+ball,2,6.5,Northern Superchargers,AJ Hose,HC Brook,TW Hartley,2,0,,,,,,"",""
+ball,2,7.1,Northern Superchargers,AJ Hose,HC Brook,Usama Mir,1,0,,,,,,"",""
+ball,2,7.2,Northern Superchargers,HC Brook,AJ Hose,Usama Mir,0,0,,,,,,"",""
+ball,2,7.3,Northern Superchargers,HC Brook,AJ Hose,Usama Mir,1,0,,,,,,"",""
+ball,2,7.4,Northern Superchargers,AJ Hose,HC Brook,Usama Mir,0,0,,,,,,caught,AJ Hose
+ball,2,7.5,Northern Superchargers,SA Zaib,HC Brook,Usama Mir,0,0,,,,,,"",""
+ball,2,8.1,Northern Superchargers,HC Brook,SA Zaib,J Little,0,0,,,,,,"",""
+ball,2,8.2,Northern Superchargers,HC Brook,SA Zaib,J Little,1,0,,,,,,"",""
+ball,2,8.3,Northern Superchargers,SA Zaib,HC Brook,J Little,0,0,,,,,,"",""
+ball,2,8.4,Northern Superchargers,SA Zaib,HC Brook,J Little,1,0,,,,,,"",""
+ball,2,8.5,Northern Superchargers,HC Brook,SA Zaib,J Little,0,0,,,,,,"",""
+ball,2,9.1,Northern Superchargers,HC Brook,SA Zaib,PI Walter,4,0,,,,,,"",""
+ball,2,9.2,Northern Superchargers,HC Brook,SA Zaib,PI Walter,4,0,,,,,,"",""
+ball,2,9.3,Northern Superchargers,HC Brook,SA Zaib,PI Walter,1,0,,,,,,"",""
+ball,2,9.4,Northern Superchargers,SA Zaib,HC Brook,PI Walter,0,0,,,,,,"",""
+ball,2,9.5,Northern Superchargers,SA Zaib,HC Brook,PI Walter,4,0,,,,,,"",""
+ball,2,10.1,Northern Superchargers,HC Brook,SA Zaib,Usama Mir,6,0,,,,,,"",""
+ball,2,10.2,Northern Superchargers,HC Brook,SA Zaib,Usama Mir,1,0,,,,,,"",""
+ball,2,10.3,Northern Superchargers,SA Zaib,HC Brook,Usama Mir,1,0,,,,,,"",""
+ball,2,10.4,Northern Superchargers,HC Brook,SA Zaib,Usama Mir,0,0,,,,,,caught,HC Brook
+ball,2,10.5,Northern Superchargers,D Wiese,SA Zaib,Usama Mir,1,0,,,,,,"",""
+ball,2,11.1,Northern Superchargers,SA Zaib,D Wiese,TW Hartley,1,0,,,,,,"",""
+ball,2,11.2,Northern Superchargers,D Wiese,SA Zaib,TW Hartley,2,0,,,,,,"",""
+ball,2,11.3,Northern Superchargers,D Wiese,SA Zaib,TW Hartley,0,0,,,,,,caught,D Wiese
+ball,2,11.4,Northern Superchargers,BA Carse,SA Zaib,TW Hartley,0,0,,,,,,"",""
+ball,2,11.5,Northern Superchargers,BA Carse,SA Zaib,TW Hartley,2,0,,,,,,"",""
+ball,2,12.1,Northern Superchargers,SA Zaib,BA Carse,J Little,0,1,1,,,,,"",""
+ball,2,12.2,Northern Superchargers,SA Zaib,BA Carse,J Little,1,0,,,,,,"",""
+ball,2,12.3,Northern Superchargers,BA Carse,SA Zaib,J Little,4,0,,,,,,"",""
+ball,2,12.4,Northern Superchargers,BA Carse,SA Zaib,J Little,0,0,,,,,,caught,BA Carse
+ball,2,12.5,Northern Superchargers,WD Parnell,SA Zaib,J Little,1,0,,,,,,"",""
+ball,2,12.6,Northern Superchargers,SA Zaib,WD Parnell,J Little,6,0,,,,,,"",""
+ball,2,13.1,Northern Superchargers,SA Zaib,WD Parnell,BA Raine,4,0,,,,,,"",""
+ball,2,13.2,Northern Superchargers,SA Zaib,WD Parnell,BA Raine,1,0,,,,,,"",""
+ball,2,13.3,Northern Superchargers,WD Parnell,SA Zaib,BA Raine,6,0,,,,,,"",""
+ball,2,13.4,Northern Superchargers,WD Parnell,SA Zaib,BA Raine,1,0,,,,,,"",""
+ball,2,13.5,Northern Superchargers,SA Zaib,WD Parnell,BA Raine,0,0,,,,,,"",""
+ball,2,14.1,Northern Superchargers,WD Parnell,SA Zaib,Usama Mir,0,0,,,,,,"",""
+ball,2,14.2,Northern Superchargers,WD Parnell,SA Zaib,Usama Mir,4,0,,,,,,"",""
+ball,2,14.3,Northern Superchargers,WD Parnell,SA Zaib,Usama Mir,0,0,,,,,,"",""
+ball,2,14.4,Northern Superchargers,WD Parnell,SA Zaib,Usama Mir,1,0,,,,,,"",""
+ball,2,14.5,Northern Superchargers,SA Zaib,WD Parnell,Usama Mir,1,0,,,,,,"",""
+ball,2,15.1,Northern Superchargers,WD Parnell,SA Zaib,J Little,0,0,,,,,,caught,WD Parnell
+ball,2,15.2,Northern Superchargers,AU Rashid,SA Zaib,J Little,0,0,,,,,,"",""
+ball,2,15.3,Northern Superchargers,AU Rashid,SA Zaib,J Little,6,0,,,,,,"",""
+ball,2,15.4,Northern Superchargers,AU Rashid,SA Zaib,J Little,1,0,,,,,,"",""
+ball,2,15.5,Northern Superchargers,SA Zaib,AU Rashid,J Little,1,0,,,,,,"",""
+ball,2,16.1,Northern Superchargers,SA Zaib,AU Rashid,JC Tongue,0,0,,,,,,"",""
+ball,2,16.2,Northern Superchargers,SA Zaib,AU Rashid,JC Tongue,0,1,1,,,,,"",""
+ball,2,16.3,Northern Superchargers,SA Zaib,AU Rashid,JC Tongue,0,0,,,,,,caught,SA Zaib
+ball,2,16.4,Northern Superchargers,CF Parkinson,AU Rashid,JC Tongue,1,0,,,,,,"",""
+ball,2,16.5,Northern Superchargers,AU Rashid,CF Parkinson,JC Tongue,0,0,,,,,,"",""
+ball,2,16.6,Northern Superchargers,AU Rashid,CF Parkinson,JC Tongue,1,0,,,,,,"",""
+ball,2,17.1,Northern Superchargers,CF Parkinson,AU Rashid,PI Walter,1,0,,,,,,"",""
+ball,2,17.2,Northern Superchargers,AU Rashid,CF Parkinson,PI Walter,0,0,,,,,,bowled,AU Rashid
+ball,2,17.3,Northern Superchargers,RJW Topley,CF Parkinson,PI Walter,4,0,,,,,,"",""
+ball,2,17.4,Northern Superchargers,RJW Topley,CF Parkinson,PI Walter,4,0,,,,,,"",""
+ball,2,17.5,Northern Superchargers,RJW Topley,CF Parkinson,PI Walter,4,0,,,,,,"",""

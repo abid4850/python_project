@@ -1,0 +1,302 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Middlesex
+info,gender,male
+info,season,2022
+info,date,2022/06/10
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Middlesex
+info,toss_decision,field
+info,umpire,NL Bainton
+info,umpire,Tom Lungley
+info,match_referee,Phil Whitticase
+info,winner,Essex
+info,winner_runs,61
+info,player,Essex,AM Rossington
+info,player,Essex,FIN Khushi
+info,player,Essex,MS Pepper
+info,player,Essex,MJJ Critchley
+info,player,Essex,PI Walter
+info,player,Essex,T Westley
+info,player,Essex,SR Harmer
+info,player,Essex,S Snater
+info,player,Essex,ASS Nijjar
+info,player,Essex,BMJ Allison
+info,player,Essex,SJ Cook
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,CJ Green
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,TG Helm
+info,player,Middlesex,TN Walallawita
+info,player,Middlesex,JP Behrendorff
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,CJ Green,19b9f399
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PI Walter,57590dbb
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,S Snater,a790df98
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SR Harmer,23638956
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,T Westley,25a42048
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TN Walallawita,64212089
+info,registry,people,Tom Lungley,75169b8c
+ball,1,0.1,Essex,AM Rossington,FIN Khushi,JP Behrendorff,0,0,,,,,,"",""
+ball,1,0.2,Essex,AM Rossington,FIN Khushi,JP Behrendorff,1,0,,,,,,"",""
+ball,1,0.3,Essex,FIN Khushi,AM Rossington,JP Behrendorff,0,0,,,,,,"",""
+ball,1,0.4,Essex,FIN Khushi,AM Rossington,JP Behrendorff,0,0,,,,,,"",""
+ball,1,0.5,Essex,FIN Khushi,AM Rossington,JP Behrendorff,1,0,,,,,,"",""
+ball,1,0.6,Essex,AM Rossington,FIN Khushi,JP Behrendorff,2,0,,,,,,"",""
+ball,1,1.1,Essex,FIN Khushi,AM Rossington,TG Helm,1,0,,,,,,"",""
+ball,1,1.2,Essex,AM Rossington,FIN Khushi,TG Helm,2,0,,,,,,"",""
+ball,1,1.3,Essex,AM Rossington,FIN Khushi,TG Helm,1,0,,,,,,"",""
+ball,1,1.4,Essex,FIN Khushi,AM Rossington,TG Helm,1,0,,,,,,"",""
+ball,1,1.5,Essex,AM Rossington,FIN Khushi,TG Helm,0,0,,,,,,"",""
+ball,1,1.6,Essex,AM Rossington,FIN Khushi,TG Helm,1,0,,,,,,"",""
+ball,1,2.1,Essex,AM Rossington,FIN Khushi,JP Behrendorff,0,0,,,,,,"",""
+ball,1,2.2,Essex,AM Rossington,FIN Khushi,JP Behrendorff,1,0,,,,,,"",""
+ball,1,2.3,Essex,FIN Khushi,AM Rossington,JP Behrendorff,1,0,,,,,,"",""
+ball,1,2.4,Essex,AM Rossington,FIN Khushi,JP Behrendorff,0,0,,,,,,"",""
+ball,1,2.5,Essex,AM Rossington,FIN Khushi,JP Behrendorff,1,0,,,,,,"",""
+ball,1,2.6,Essex,FIN Khushi,AM Rossington,JP Behrendorff,0,0,,,,,,"",""
+ball,1,3.1,Essex,AM Rossington,FIN Khushi,MK Andersson,0,0,,,,,,"",""
+ball,1,3.2,Essex,AM Rossington,FIN Khushi,MK Andersson,0,0,,,,,,caught,AM Rossington
+ball,1,3.3,Essex,MS Pepper,FIN Khushi,MK Andersson,0,0,,,,,,"",""
+ball,1,3.4,Essex,MS Pepper,FIN Khushi,MK Andersson,3,0,,,,,,"",""
+ball,1,3.5,Essex,FIN Khushi,MS Pepper,MK Andersson,4,0,,,,,,"",""
+ball,1,3.6,Essex,FIN Khushi,MS Pepper,MK Andersson,1,0,,,,,,"",""
+ball,1,4.1,Essex,FIN Khushi,MS Pepper,TG Helm,0,1,,,,1,,"",""
+ball,1,4.2,Essex,MS Pepper,FIN Khushi,TG Helm,6,0,,,,,,"",""
+ball,1,4.3,Essex,MS Pepper,FIN Khushi,TG Helm,0,0,,,,,,caught,MS Pepper
+ball,1,4.4,Essex,MJJ Critchley,FIN Khushi,TG Helm,1,0,,,,,,"",""
+ball,1,4.5,Essex,FIN Khushi,MJJ Critchley,TG Helm,0,0,,,,,,"",""
+ball,1,4.6,Essex,FIN Khushi,MJJ Critchley,TG Helm,1,0,,,,,,"",""
+ball,1,5.1,Essex,FIN Khushi,MJJ Critchley,MK Andersson,2,0,,,,,,"",""
+ball,1,5.2,Essex,FIN Khushi,MJJ Critchley,MK Andersson,4,0,,,,,,"",""
+ball,1,5.3,Essex,FIN Khushi,MJJ Critchley,MK Andersson,3,0,,,,,,"",""
+ball,1,5.4,Essex,MJJ Critchley,FIN Khushi,MK Andersson,0,0,,,,,,"",""
+ball,1,5.5,Essex,MJJ Critchley,FIN Khushi,MK Andersson,0,0,,,,,,"",""
+ball,1,5.6,Essex,MJJ Critchley,FIN Khushi,MK Andersson,0,0,,,,,,caught,MJJ Critchley
+ball,1,6.1,Essex,FIN Khushi,PI Walter,CJ Green,1,0,,,,,,"",""
+ball,1,6.2,Essex,PI Walter,FIN Khushi,CJ Green,1,0,,,,,,"",""
+ball,1,6.3,Essex,FIN Khushi,PI Walter,CJ Green,1,0,,,,,,"",""
+ball,1,6.4,Essex,PI Walter,FIN Khushi,CJ Green,0,0,,,,,,"",""
+ball,1,6.5,Essex,PI Walter,FIN Khushi,CJ Green,1,0,,,,,,"",""
+ball,1,6.6,Essex,FIN Khushi,PI Walter,CJ Green,0,0,,,,,,"",""
+ball,1,7.1,Essex,PI Walter,FIN Khushi,TN Walallawita,1,0,,,,,,"",""
+ball,1,7.2,Essex,FIN Khushi,PI Walter,TN Walallawita,1,0,,,,,,"",""
+ball,1,7.3,Essex,PI Walter,FIN Khushi,TN Walallawita,1,0,,,,,,"",""
+ball,1,7.4,Essex,FIN Khushi,PI Walter,TN Walallawita,4,0,,,,,,"",""
+ball,1,7.5,Essex,FIN Khushi,PI Walter,TN Walallawita,0,0,,,,,,"",""
+ball,1,7.6,Essex,FIN Khushi,PI Walter,TN Walallawita,1,0,,,,,,"",""
+ball,1,8.1,Essex,FIN Khushi,PI Walter,CJ Green,0,0,,,,,,"",""
+ball,1,8.2,Essex,FIN Khushi,PI Walter,CJ Green,1,0,,,,,,"",""
+ball,1,8.3,Essex,PI Walter,FIN Khushi,CJ Green,1,0,,,,,,"",""
+ball,1,8.4,Essex,FIN Khushi,PI Walter,CJ Green,4,0,,,,,,"",""
+ball,1,8.5,Essex,FIN Khushi,PI Walter,CJ Green,4,0,,,,,,"",""
+ball,1,8.6,Essex,FIN Khushi,PI Walter,CJ Green,0,0,,,,,,"",""
+ball,1,9.1,Essex,PI Walter,FIN Khushi,TN Walallawita,1,0,,,,,,"",""
+ball,1,9.2,Essex,FIN Khushi,PI Walter,TN Walallawita,2,0,,,,,,"",""
+ball,1,9.3,Essex,FIN Khushi,PI Walter,TN Walallawita,1,0,,,,,,"",""
+ball,1,9.4,Essex,PI Walter,FIN Khushi,TN Walallawita,2,0,,,,,,"",""
+ball,1,9.5,Essex,PI Walter,FIN Khushi,TN Walallawita,0,0,,,,,,"",""
+ball,1,9.6,Essex,PI Walter,FIN Khushi,TN Walallawita,0,0,,,,,,"",""
+ball,1,10.1,Essex,FIN Khushi,PI Walter,MK Andersson,1,0,,,,,,"",""
+ball,1,10.2,Essex,PI Walter,FIN Khushi,MK Andersson,4,0,,,,,,"",""
+ball,1,10.3,Essex,PI Walter,FIN Khushi,MK Andersson,1,0,,,,,,"",""
+ball,1,10.4,Essex,FIN Khushi,PI Walter,MK Andersson,0,1,1,,,,,"",""
+ball,1,10.5,Essex,FIN Khushi,PI Walter,MK Andersson,2,0,,,,,,"",""
+ball,1,10.6,Essex,FIN Khushi,PI Walter,MK Andersson,0,1,1,,,,,"",""
+ball,1,10.7,Essex,FIN Khushi,PI Walter,MK Andersson,4,0,,,,,,"",""
+ball,1,10.8,Essex,FIN Khushi,PI Walter,MK Andersson,4,0,,,,,,"",""
+ball,1,11.1,Essex,PI Walter,FIN Khushi,TG Helm,0,0,,,,,,"",""
+ball,1,11.2,Essex,PI Walter,FIN Khushi,TG Helm,0,1,1,,,,,"",""
+ball,1,11.3,Essex,PI Walter,FIN Khushi,TG Helm,1,0,,,,,,"",""
+ball,1,11.4,Essex,FIN Khushi,PI Walter,TG Helm,4,0,,,,,,"",""
+ball,1,11.5,Essex,FIN Khushi,PI Walter,TG Helm,0,0,,,,,,"",""
+ball,1,11.6,Essex,FIN Khushi,PI Walter,TG Helm,1,0,,,,,,"",""
+ball,1,11.7,Essex,PI Walter,FIN Khushi,TG Helm,4,0,,,,,,"",""
+ball,1,12.1,Essex,FIN Khushi,PI Walter,CJ Green,6,0,,,,,,"",""
+ball,1,12.2,Essex,FIN Khushi,PI Walter,CJ Green,6,0,,,,,,"",""
+ball,1,12.3,Essex,FIN Khushi,PI Walter,CJ Green,0,0,,,,,,"",""
+ball,1,12.4,Essex,FIN Khushi,PI Walter,CJ Green,0,0,,,,,,caught,FIN Khushi
+ball,1,12.5,Essex,T Westley,PI Walter,CJ Green,2,0,,,,,,"",""
+ball,1,12.6,Essex,T Westley,PI Walter,CJ Green,2,0,,,,,,"",""
+ball,1,13.1,Essex,PI Walter,T Westley,TN Walallawita,1,0,,,,,,"",""
+ball,1,13.2,Essex,T Westley,PI Walter,TN Walallawita,0,0,,,,,,"",""
+ball,1,13.3,Essex,T Westley,PI Walter,TN Walallawita,2,0,,,,,,"",""
+ball,1,13.4,Essex,T Westley,PI Walter,TN Walallawita,1,0,,,,,,"",""
+ball,1,13.5,Essex,PI Walter,T Westley,TN Walallawita,4,0,,,,,,"",""
+ball,1,13.6,Essex,PI Walter,T Westley,TN Walallawita,1,0,,,,,,"",""
+ball,1,14.1,Essex,PI Walter,T Westley,CJ Green,1,0,,,,,,"",""
+ball,1,14.2,Essex,T Westley,PI Walter,CJ Green,1,0,,,,,,"",""
+ball,1,14.3,Essex,PI Walter,T Westley,CJ Green,1,0,,,,,,"",""
+ball,1,14.4,Essex,T Westley,PI Walter,CJ Green,0,0,,,,,,"",""
+ball,1,14.5,Essex,T Westley,PI Walter,CJ Green,1,0,,,,,,"",""
+ball,1,14.6,Essex,PI Walter,T Westley,CJ Green,4,0,,,,,,"",""
+ball,1,15.1,Essex,T Westley,PI Walter,TN Walallawita,6,0,,,,,,"",""
+ball,1,15.2,Essex,T Westley,PI Walter,TN Walallawita,0,1,,,,1,,"",""
+ball,1,15.3,Essex,PI Walter,T Westley,TN Walallawita,2,0,,,,,,"",""
+ball,1,15.4,Essex,PI Walter,T Westley,TN Walallawita,6,0,,,,,,"",""
+ball,1,15.5,Essex,PI Walter,T Westley,TN Walallawita,1,0,,,,,,"",""
+ball,1,15.6,Essex,T Westley,PI Walter,TN Walallawita,1,0,,,,,,"",""
+ball,1,16.1,Essex,T Westley,PI Walter,MK Andersson,0,0,,,,,,"",""
+ball,1,16.2,Essex,T Westley,PI Walter,MK Andersson,0,0,,,,,,bowled,T Westley
+ball,1,16.3,Essex,SR Harmer,PI Walter,MK Andersson,4,0,,,,,,"",""
+ball,1,16.4,Essex,SR Harmer,PI Walter,MK Andersson,1,0,,,,,,"",""
+ball,1,16.5,Essex,PI Walter,SR Harmer,MK Andersson,0,0,,,,,,"",""
+ball,1,16.6,Essex,PI Walter,SR Harmer,MK Andersson,0,1,1,,,,,"",""
+ball,1,16.7,Essex,PI Walter,SR Harmer,MK Andersson,1,0,,,,,,"",""
+ball,1,17.1,Essex,PI Walter,SR Harmer,JP Behrendorff,4,0,,,,,,"",""
+ball,1,17.2,Essex,PI Walter,SR Harmer,JP Behrendorff,1,0,,,,,,"",""
+ball,1,17.3,Essex,SR Harmer,PI Walter,JP Behrendorff,0,1,1,,,,,"",""
+ball,1,17.4,Essex,SR Harmer,PI Walter,JP Behrendorff,0,1,1,,,,,"",""
+ball,1,17.5,Essex,SR Harmer,PI Walter,JP Behrendorff,1,0,,,,,,"",""
+ball,1,17.6,Essex,PI Walter,SR Harmer,JP Behrendorff,1,0,,,,,,"",""
+ball,1,17.7,Essex,SR Harmer,PI Walter,JP Behrendorff,1,0,,,,,,"",""
+ball,1,17.8,Essex,PI Walter,SR Harmer,JP Behrendorff,1,0,,,,,,"",""
+ball,1,18.1,Essex,PI Walter,SR Harmer,TG Helm,4,0,,,,,,"",""
+ball,1,18.2,Essex,PI Walter,SR Harmer,TG Helm,4,0,,,,,,"",""
+ball,1,18.3,Essex,PI Walter,SR Harmer,TG Helm,1,0,,,,,,"",""
+ball,1,18.4,Essex,SR Harmer,PI Walter,TG Helm,0,0,,,,,,bowled,SR Harmer
+ball,1,18.5,Essex,S Snater,PI Walter,TG Helm,4,0,,,,,,"",""
+ball,1,18.6,Essex,S Snater,PI Walter,TG Helm,1,0,,,,,,"",""
+ball,1,19.1,Essex,S Snater,PI Walter,JP Behrendorff,2,0,,,,,,"",""
+ball,1,19.2,Essex,S Snater,PI Walter,JP Behrendorff,1,0,,,,,,"",""
+ball,1,19.3,Essex,PI Walter,S Snater,JP Behrendorff,1,0,,,,,,"",""
+ball,1,19.4,Essex,S Snater,PI Walter,JP Behrendorff,1,0,,,,,,"",""
+ball,1,19.5,Essex,PI Walter,S Snater,JP Behrendorff,1,0,,,,,,"",""
+ball,1,19.6,Essex,S Snater,PI Walter,JP Behrendorff,2,0,,,,,,"",""
+ball,2,0.1,Middlesex,SS Eskinazi,MDE Holden,SJ Cook,0,0,,,,,,"",""
+ball,2,0.2,Middlesex,SS Eskinazi,MDE Holden,SJ Cook,4,0,,,,,,"",""
+ball,2,0.3,Middlesex,SS Eskinazi,MDE Holden,SJ Cook,0,0,,,,,,"",""
+ball,2,0.4,Middlesex,SS Eskinazi,MDE Holden,SJ Cook,0,0,,,,,,bowled,SS Eskinazi
+ball,2,0.5,Middlesex,JB Cracknell,MDE Holden,SJ Cook,0,0,,,,,,"",""
+ball,2,0.6,Middlesex,JB Cracknell,MDE Holden,SJ Cook,4,0,,,,,,"",""
+ball,2,1.1,Middlesex,MDE Holden,JB Cracknell,BMJ Allison,1,0,,,,,,"",""
+ball,2,1.2,Middlesex,JB Cracknell,MDE Holden,BMJ Allison,0,0,,,,,,"",""
+ball,2,1.3,Middlesex,JB Cracknell,MDE Holden,BMJ Allison,0,1,,,,1,,"",""
+ball,2,1.4,Middlesex,MDE Holden,JB Cracknell,BMJ Allison,0,0,,,,,,caught,MDE Holden
+ball,2,1.5,Middlesex,JA Simpson,JB Cracknell,BMJ Allison,0,0,,,,,,"",""
+ball,2,1.6,Middlesex,JA Simpson,JB Cracknell,BMJ Allison,0,1,1,,,,,"",""
+ball,2,1.7,Middlesex,JA Simpson,JB Cracknell,BMJ Allison,6,0,,,,,,"",""
+ball,2,2.1,Middlesex,JB Cracknell,JA Simpson,SJ Cook,0,0,,,,,,"",""
+ball,2,2.2,Middlesex,JB Cracknell,JA Simpson,SJ Cook,0,0,,,,,,"",""
+ball,2,2.3,Middlesex,JB Cracknell,JA Simpson,SJ Cook,0,0,,,,,,"",""
+ball,2,2.4,Middlesex,JB Cracknell,JA Simpson,SJ Cook,0,1,1,,,,,"",""
+ball,2,2.5,Middlesex,JB Cracknell,JA Simpson,SJ Cook,0,0,,,,,,"",""
+ball,2,2.6,Middlesex,JB Cracknell,JA Simpson,SJ Cook,0,0,,,,,,"",""
+ball,2,2.7,Middlesex,JB Cracknell,JA Simpson,SJ Cook,2,0,,,,,,"",""
+ball,2,3.1,Middlesex,JA Simpson,JB Cracknell,S Snater,0,0,,,,,,"",""
+ball,2,3.2,Middlesex,JA Simpson,JB Cracknell,S Snater,6,0,,,,,,"",""
+ball,2,3.3,Middlesex,JA Simpson,JB Cracknell,S Snater,4,0,,,,,,"",""
+ball,2,3.4,Middlesex,JA Simpson,JB Cracknell,S Snater,1,0,,,,,,"",""
+ball,2,3.5,Middlesex,JB Cracknell,JA Simpson,S Snater,6,0,,,,,,"",""
+ball,2,3.6,Middlesex,JB Cracknell,JA Simpson,S Snater,1,0,,,,,,"",""
+ball,2,4.1,Middlesex,JB Cracknell,JA Simpson,BMJ Allison,0,0,,,,,,"",""
+ball,2,4.2,Middlesex,JB Cracknell,JA Simpson,BMJ Allison,0,0,,,,,,"",""
+ball,2,4.3,Middlesex,JB Cracknell,JA Simpson,BMJ Allison,0,0,,,,,,"",""
+ball,2,4.4,Middlesex,JB Cracknell,JA Simpson,BMJ Allison,1,0,,,,,,"",""
+ball,2,4.5,Middlesex,JA Simpson,JB Cracknell,BMJ Allison,2,0,,,,,,"",""
+ball,2,4.6,Middlesex,JA Simpson,JB Cracknell,BMJ Allison,1,0,,,,,,"",""
+ball,2,5.1,Middlesex,JA Simpson,JB Cracknell,SR Harmer,0,0,,,,,,caught,JA Simpson
+ball,2,5.2,Middlesex,JLB Davies,JB Cracknell,SR Harmer,0,0,,,,,,"",""
+ball,2,5.3,Middlesex,JLB Davies,JB Cracknell,SR Harmer,1,0,,,,,,"",""
+ball,2,5.4,Middlesex,JB Cracknell,JLB Davies,SR Harmer,0,0,,,,,,"",""
+ball,2,5.5,Middlesex,JB Cracknell,JLB Davies,SR Harmer,0,0,,,,,,"",""
+ball,2,5.6,Middlesex,JB Cracknell,JLB Davies,SR Harmer,0,0,,,,,,"",""
+ball,2,6.1,Middlesex,JLB Davies,JB Cracknell,MJJ Critchley,0,0,,,,,,"",""
+ball,2,6.2,Middlesex,JLB Davies,JB Cracknell,MJJ Critchley,1,0,,,,,,"",""
+ball,2,6.3,Middlesex,JB Cracknell,JLB Davies,MJJ Critchley,1,0,,,,,,"",""
+ball,2,6.4,Middlesex,JLB Davies,JB Cracknell,MJJ Critchley,0,0,,,,,,"",""
+ball,2,6.5,Middlesex,JLB Davies,JB Cracknell,MJJ Critchley,1,0,,,,,,"",""
+ball,2,6.6,Middlesex,JB Cracknell,JLB Davies,MJJ Critchley,1,0,,,,,,"",""
+ball,2,7.1,Middlesex,JB Cracknell,JLB Davies,SR Harmer,6,0,,,,,,"",""
+ball,2,7.2,Middlesex,JB Cracknell,JLB Davies,SR Harmer,0,0,,,,,,"",""
+ball,2,7.3,Middlesex,JB Cracknell,JLB Davies,SR Harmer,0,0,,,,,,"",""
+ball,2,7.4,Middlesex,JB Cracknell,JLB Davies,SR Harmer,1,0,,,,,,"",""
+ball,2,7.5,Middlesex,JLB Davies,JB Cracknell,SR Harmer,1,0,,,,,,"",""
+ball,2,7.6,Middlesex,JB Cracknell,JLB Davies,SR Harmer,6,0,,,,,,"",""
+ball,2,8.1,Middlesex,JLB Davies,JB Cracknell,MJJ Critchley,4,0,,,,,,"",""
+ball,2,8.2,Middlesex,JLB Davies,JB Cracknell,MJJ Critchley,1,0,,,,,,"",""
+ball,2,8.3,Middlesex,JB Cracknell,JLB Davies,MJJ Critchley,0,0,,,,,,"",""
+ball,2,8.4,Middlesex,JB Cracknell,JLB Davies,MJJ Critchley,0,0,,,,,,bowled,JB Cracknell
+ball,2,8.5,Middlesex,LBK Hollman,JLB Davies,MJJ Critchley,0,0,,,,,,"",""
+ball,2,8.6,Middlesex,LBK Hollman,JLB Davies,MJJ Critchley,6,0,,,,,,"",""
+ball,2,9.1,Middlesex,JLB Davies,LBK Hollman,SR Harmer,0,0,,,,,,"",""
+ball,2,9.2,Middlesex,JLB Davies,LBK Hollman,SR Harmer,1,0,,,,,,"",""
+ball,2,9.3,Middlesex,LBK Hollman,JLB Davies,SR Harmer,0,0,,,,,,"",""
+ball,2,9.4,Middlesex,LBK Hollman,JLB Davies,SR Harmer,1,0,,,,,,"",""
+ball,2,9.5,Middlesex,JLB Davies,LBK Hollman,SR Harmer,0,0,,,,,,"",""
+ball,2,9.6,Middlesex,JLB Davies,LBK Hollman,SR Harmer,0,0,,,,,,"",""
+ball,2,10.1,Middlesex,LBK Hollman,JLB Davies,S Snater,1,0,,,,,,"",""
+ball,2,10.2,Middlesex,JLB Davies,LBK Hollman,S Snater,4,0,,,,,,"",""
+ball,2,10.3,Middlesex,JLB Davies,LBK Hollman,S Snater,1,0,,,,,,"",""
+ball,2,10.4,Middlesex,LBK Hollman,JLB Davies,S Snater,1,0,,,,,,"",""
+ball,2,10.5,Middlesex,JLB Davies,LBK Hollman,S Snater,1,0,,,,,,"",""
+ball,2,10.6,Middlesex,LBK Hollman,JLB Davies,S Snater,1,0,,,,,,"",""
+ball,2,11.1,Middlesex,LBK Hollman,JLB Davies,SR Harmer,1,0,,,,,,"",""
+ball,2,11.2,Middlesex,JLB Davies,LBK Hollman,SR Harmer,0,0,,,,,,"",""
+ball,2,11.3,Middlesex,JLB Davies,LBK Hollman,SR Harmer,0,0,,,,,,"",""
+ball,2,11.4,Middlesex,JLB Davies,LBK Hollman,SR Harmer,1,0,,,,,,"",""
+ball,2,11.5,Middlesex,LBK Hollman,JLB Davies,SR Harmer,0,0,,,,,,"",""
+ball,2,11.6,Middlesex,LBK Hollman,JLB Davies,SR Harmer,1,0,,,,,,"",""
+ball,2,12.1,Middlesex,LBK Hollman,JLB Davies,T Westley,0,0,,,,,,"",""
+ball,2,12.2,Middlesex,LBK Hollman,JLB Davies,T Westley,4,0,,,,,,"",""
+ball,2,12.3,Middlesex,LBK Hollman,JLB Davies,T Westley,1,0,,,,,,"",""
+ball,2,12.4,Middlesex,JLB Davies,LBK Hollman,T Westley,2,0,,,,,,"",""
+ball,2,12.5,Middlesex,JLB Davies,LBK Hollman,T Westley,0,0,,,,,,"",""
+ball,2,12.6,Middlesex,JLB Davies,LBK Hollman,T Westley,0,0,,,,,,"",""
+ball,2,13.1,Middlesex,LBK Hollman,JLB Davies,MJJ Critchley,1,0,,,,,,"",""
+ball,2,13.2,Middlesex,JLB Davies,LBK Hollman,MJJ Critchley,2,0,,,,,,"",""
+ball,2,13.3,Middlesex,JLB Davies,LBK Hollman,MJJ Critchley,0,0,,,,,,"",""
+ball,2,13.4,Middlesex,JLB Davies,LBK Hollman,MJJ Critchley,1,0,,,,,,"",""
+ball,2,13.5,Middlesex,LBK Hollman,JLB Davies,MJJ Critchley,1,0,,,,,,"",""
+ball,2,13.6,Middlesex,JLB Davies,LBK Hollman,MJJ Critchley,0,0,,,,,,"",""
+ball,2,14.1,Middlesex,LBK Hollman,JLB Davies,T Westley,4,0,,,,,,"",""
+ball,2,14.2,Middlesex,LBK Hollman,JLB Davies,T Westley,0,0,,,,,,"",""
+ball,2,14.3,Middlesex,LBK Hollman,JLB Davies,T Westley,1,0,,,,,,"",""
+ball,2,14.4,Middlesex,JLB Davies,LBK Hollman,T Westley,1,0,,,,,,"",""
+ball,2,14.5,Middlesex,LBK Hollman,JLB Davies,T Westley,0,0,,,,,,caught,LBK Hollman
+ball,2,14.6,Middlesex,CJ Green,JLB Davies,T Westley,1,0,,,,,,"",""
+ball,2,15.1,Middlesex,CJ Green,JLB Davies,MJJ Critchley,1,0,,,,,,"",""
+ball,2,15.2,Middlesex,JLB Davies,CJ Green,MJJ Critchley,0,0,,,,,,lbw,JLB Davies
+ball,2,15.3,Middlesex,MK Andersson,CJ Green,MJJ Critchley,1,0,,,,,,"",""
+ball,2,15.4,Middlesex,CJ Green,MK Andersson,MJJ Critchley,0,0,,,,,,"",""
+ball,2,15.5,Middlesex,CJ Green,MK Andersson,MJJ Critchley,0,0,,,,,,stumped,CJ Green
+ball,2,15.6,Middlesex,TG Helm,MK Andersson,MJJ Critchley,0,0,,,,,,"",""
+ball,2,16.1,Middlesex,MK Andersson,TG Helm,ASS Nijjar,1,0,,,,,,"",""
+ball,2,16.2,Middlesex,TG Helm,MK Andersson,ASS Nijjar,6,0,,,,,,"",""
+ball,2,16.3,Middlesex,TG Helm,MK Andersson,ASS Nijjar,0,0,,,,,,"",""
+ball,2,16.4,Middlesex,TG Helm,MK Andersson,ASS Nijjar,1,0,,,,,,"",""
+ball,2,16.5,Middlesex,MK Andersson,TG Helm,ASS Nijjar,0,0,,,,,,"",""
+ball,2,16.6,Middlesex,MK Andersson,TG Helm,ASS Nijjar,2,0,,,,,,"",""
+ball,2,17.1,Middlesex,TG Helm,MK Andersson,SJ Cook,0,0,,,,,,caught,TG Helm
+ball,2,17.2,Middlesex,TN Walallawita,MK Andersson,SJ Cook,0,1,,,,1,,"",""
+ball,2,17.3,Middlesex,MK Andersson,TN Walallawita,SJ Cook,4,0,,,,,,"",""
+ball,2,17.4,Middlesex,MK Andersson,TN Walallawita,SJ Cook,0,0,,,,,,caught,MK Andersson
+ball,2,17.5,Middlesex,JP Behrendorff,TN Walallawita,SJ Cook,1,0,,,,,,"",""
+ball,2,17.6,Middlesex,TN Walallawita,JP Behrendorff,SJ Cook,2,0,,,,,,"",""
+ball,2,18.1,Middlesex,JP Behrendorff,TN Walallawita,BMJ Allison,0,0,,,,,,"",""
+ball,2,18.2,Middlesex,JP Behrendorff,TN Walallawita,BMJ Allison,0,0,,,,,,run out,TN Walallawita

@@ -1,0 +1,193 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Northern Districts
+info,gender,male
+info,season,2025/26
+info,date,2025/12/26
+info,event,Super Smash
+info,match_number,1
+info,venue,"Seddon Park, Hamilton"
+info,city,Hamilton
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,CM Brown
+info,umpire,SB Martin
+info,reserve_umpire,T Semmens
+info,tv_umpire,Damian Morrow
+info,match_referee,SRM Morris
+info,outcome,no result
+info,player,Auckland,DN Phillips
+info,player,Auckland,SB Keene
+info,player,Auckland,MJ Guptill
+info,player,Auckland,BJ Jacobs
+info,player,Auckland,LN Stackpole
+info,player,Auckland,CD Fletcher
+info,player,Auckland,SM Solia
+info,player,Auckland,RD Harrison
+info,player,Auckland,A Ashok
+info,player,Auckland,AL Olliver
+info,player,Auckland,RK Gulati
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,RR O'Donnell
+info,player,Northern Districts,XE Bell
+info,player,Northern Districts,BJ Pomare
+info,player,Northern Districts,KDC Clarke
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,TJG Pringle
+info,player,Northern Districts,ZN Gibson
+info,player,Northern Districts,MJ Fisher
+info,registry,people,A Ashok,321be7e3
+info,registry,people,AL Olliver,9b05c1c1
+info,registry,people,BJ Jacobs,972f217b
+info,registry,people,BJ Pomare,0398f255
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,JF Carter,125fa4de
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,KDC Clarke,1e1a8922
+info,registry,people,LN Stackpole,66c59019
+info,registry,people,MJ Fisher,7068c81e
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,RK Gulati,f5da80da
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SB Keene,6fb2d3a2
+info,registry,people,SB Martin,08ad6466
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,T Semmens,3b471aa4
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,XE Bell,57fc2a1e
+info,registry,people,ZN Gibson,eec5fe00
+ball,1,0.1,Auckland,DN Phillips,SB Keene,MJ Fisher,1,0,,,,,,"",""
+ball,1,0.2,Auckland,SB Keene,DN Phillips,MJ Fisher,0,0,,,,,,"",""
+ball,1,0.3,Auckland,SB Keene,DN Phillips,MJ Fisher,0,0,,,,,,"",""
+ball,1,0.4,Auckland,SB Keene,DN Phillips,MJ Fisher,0,1,,,1,,,"",""
+ball,1,0.5,Auckland,DN Phillips,SB Keene,MJ Fisher,0,1,,,1,,,"",""
+ball,1,0.6,Auckland,SB Keene,DN Phillips,MJ Fisher,0,0,,,,,,"",""
+ball,1,1.1,Auckland,DN Phillips,SB Keene,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,1.2,Auckland,DN Phillips,SB Keene,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,1.3,Auckland,DN Phillips,SB Keene,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,1.4,Auckland,DN Phillips,SB Keene,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,1.5,Auckland,DN Phillips,SB Keene,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,1.6,Auckland,SB Keene,DN Phillips,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,2.1,Auckland,DN Phillips,SB Keene,KDC Clarke,6,0,,,,,,"",""
+ball,1,2.2,Auckland,DN Phillips,SB Keene,KDC Clarke,1,0,,,,,,"",""
+ball,1,2.3,Auckland,SB Keene,DN Phillips,KDC Clarke,1,0,,,,,,"",""
+ball,1,2.4,Auckland,DN Phillips,SB Keene,KDC Clarke,1,0,,,,,,"",""
+ball,1,2.5,Auckland,SB Keene,DN Phillips,KDC Clarke,0,0,,,,,,"",""
+ball,1,2.6,Auckland,SB Keene,DN Phillips,KDC Clarke,1,0,,,,,,"",""
+ball,1,3.1,Auckland,SB Keene,DN Phillips,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,3.2,Auckland,SB Keene,DN Phillips,SC Kuggeleijn,0,0,,,,,,caught,SB Keene
+ball,1,3.3,Auckland,MJ Guptill,DN Phillips,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,1,3.4,Auckland,MJ Guptill,DN Phillips,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,3.5,Auckland,DN Phillips,MJ Guptill,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,3.6,Auckland,DN Phillips,MJ Guptill,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,3.7,Auckland,MJ Guptill,DN Phillips,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,1,3.8,Auckland,MJ Guptill,DN Phillips,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,4.1,Auckland,MJ Guptill,DN Phillips,ZN Gibson,0,1,,,,1,,"",""
+ball,1,4.2,Auckland,DN Phillips,MJ Guptill,ZN Gibson,0,1,,,,1,,"",""
+ball,1,4.3,Auckland,MJ Guptill,DN Phillips,ZN Gibson,0,1,1,,,,,"",""
+ball,1,4.4,Auckland,MJ Guptill,DN Phillips,ZN Gibson,1,0,,,,,,"",""
+ball,1,4.5,Auckland,DN Phillips,MJ Guptill,ZN Gibson,4,0,,,,,,"",""
+ball,1,4.6,Auckland,DN Phillips,MJ Guptill,ZN Gibson,1,0,,,,,,"",""
+ball,1,4.7,Auckland,MJ Guptill,DN Phillips,ZN Gibson,0,0,,,,,,caught,MJ Guptill
+ball,1,5.1,Auckland,DN Phillips,BJ Jacobs,KDC Clarke,0,0,,,,,,"",""
+ball,1,5.2,Auckland,DN Phillips,BJ Jacobs,KDC Clarke,1,0,,,,,,"",""
+ball,1,5.3,Auckland,BJ Jacobs,DN Phillips,KDC Clarke,4,0,,,,,,"",""
+ball,1,5.4,Auckland,BJ Jacobs,DN Phillips,KDC Clarke,0,4,,,,4,,"",""
+ball,1,5.5,Auckland,BJ Jacobs,DN Phillips,KDC Clarke,1,0,,,,,,"",""
+ball,1,5.6,Auckland,DN Phillips,BJ Jacobs,KDC Clarke,4,0,,,,,,"",""
+ball,1,6.1,Auckland,BJ Jacobs,DN Phillips,TJG Pringle,0,0,,,,,,"",""
+ball,1,6.2,Auckland,BJ Jacobs,DN Phillips,TJG Pringle,0,0,,,,,,"",""
+ball,1,6.3,Auckland,BJ Jacobs,DN Phillips,TJG Pringle,1,0,,,,,,"",""
+ball,1,6.4,Auckland,DN Phillips,BJ Jacobs,TJG Pringle,1,0,,,,,,"",""
+ball,1,6.5,Auckland,BJ Jacobs,DN Phillips,TJG Pringle,1,0,,,,,,"",""
+ball,1,6.6,Auckland,DN Phillips,BJ Jacobs,TJG Pringle,1,0,,,,,,"",""
+ball,1,7.1,Auckland,DN Phillips,BJ Jacobs,MJ Fisher,0,0,,,,,,caught,DN Phillips
+ball,1,7.2,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,1,0,,,,,,"",""
+ball,1,7.3,Auckland,BJ Jacobs,LN Stackpole,MJ Fisher,1,0,,,,,,"",""
+ball,1,7.4,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,6,0,,,,,,"",""
+ball,1,7.5,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,0,0,,,,,,"",""
+ball,1,7.6,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,0,0,,,,,,"",""
+ball,1,8.1,Auckland,BJ Jacobs,LN Stackpole,TJG Pringle,6,0,,,,,,"",""
+ball,1,8.2,Auckland,BJ Jacobs,LN Stackpole,TJG Pringle,0,0,,,,,,"",""
+ball,1,8.3,Auckland,BJ Jacobs,LN Stackpole,TJG Pringle,2,0,,,,,,"",""
+ball,1,8.4,Auckland,BJ Jacobs,LN Stackpole,TJG Pringle,1,0,,,,,,"",""
+ball,1,8.5,Auckland,LN Stackpole,BJ Jacobs,TJG Pringle,6,0,,,,,,"",""
+ball,1,8.6,Auckland,LN Stackpole,BJ Jacobs,TJG Pringle,1,0,,,,,,"",""
+ball,1,9.1,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,0,0,,,,,,"",""
+ball,1,9.2,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,4,0,,,,,,"",""
+ball,1,9.3,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,6,0,,,,,,"",""
+ball,1,9.4,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,4,0,,,,,,"",""
+ball,1,9.5,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,4,0,,,,,,"",""
+ball,1,9.6,Auckland,LN Stackpole,BJ Jacobs,MJ Fisher,1,0,,,,,,"",""
+ball,1,10.1,Auckland,LN Stackpole,BJ Jacobs,ZN Gibson,1,0,,,,,,"",""
+ball,1,10.2,Auckland,BJ Jacobs,LN Stackpole,ZN Gibson,1,0,,,,,,"",""
+ball,1,10.3,Auckland,LN Stackpole,BJ Jacobs,ZN Gibson,2,0,,,,,,"",""
+ball,1,10.4,Auckland,LN Stackpole,BJ Jacobs,ZN Gibson,0,0,,,,,,"",""
+ball,1,10.5,Auckland,LN Stackpole,BJ Jacobs,ZN Gibson,6,0,,,,,,"",""
+ball,1,10.6,Auckland,LN Stackpole,BJ Jacobs,ZN Gibson,0,0,,,,,,"",""
+ball,1,11.1,Auckland,BJ Jacobs,LN Stackpole,BR Hampton,1,0,,,,,,"",""
+ball,1,11.2,Auckland,LN Stackpole,BJ Jacobs,BR Hampton,0,0,,,,,,"",""
+ball,1,11.3,Auckland,LN Stackpole,BJ Jacobs,BR Hampton,0,0,,,,,,"",""
+ball,1,11.4,Auckland,LN Stackpole,BJ Jacobs,BR Hampton,0,0,,,,,,"",""
+ball,1,11.5,Auckland,LN Stackpole,BJ Jacobs,BR Hampton,4,0,,,,,,"",""
+ball,1,11.6,Auckland,LN Stackpole,BJ Jacobs,BR Hampton,0,0,,,,,,"",""
+ball,1,12.1,Auckland,BJ Jacobs,LN Stackpole,TJG Pringle,0,0,,,,,,"",""
+ball,1,12.2,Auckland,BJ Jacobs,LN Stackpole,TJG Pringle,1,0,,,,,,"",""
+ball,1,12.3,Auckland,LN Stackpole,BJ Jacobs,TJG Pringle,0,0,,,,,,caught,LN Stackpole
+ball,1,12.4,Auckland,CD Fletcher,BJ Jacobs,TJG Pringle,0,0,,,,,,"",""
+ball,1,12.5,Auckland,CD Fletcher,BJ Jacobs,TJG Pringle,0,0,,,,,,"",""
+ball,1,12.6,Auckland,CD Fletcher,BJ Jacobs,TJG Pringle,1,0,,,,,,"",""
+ball,1,13.1,Auckland,CD Fletcher,BJ Jacobs,MJ Fisher,1,0,,,,,,"",""
+ball,1,13.2,Auckland,BJ Jacobs,CD Fletcher,MJ Fisher,0,1,,,,1,,"",""
+ball,1,13.3,Auckland,CD Fletcher,BJ Jacobs,MJ Fisher,1,0,,,,,,"",""
+ball,1,13.4,Auckland,BJ Jacobs,CD Fletcher,MJ Fisher,0,1,1,,,,,"",""
+ball,1,13.5,Auckland,BJ Jacobs,CD Fletcher,MJ Fisher,6,0,,,,,,"",""
+ball,1,13.6,Auckland,BJ Jacobs,CD Fletcher,MJ Fisher,0,1,,,,1,,"",""
+ball,1,13.7,Auckland,CD Fletcher,BJ Jacobs,MJ Fisher,0,1,,,,1,,"",""
+ball,1,14.1,Auckland,CD Fletcher,BJ Jacobs,TJG Pringle,4,0,,,,,,"",""
+ball,1,14.2,Auckland,CD Fletcher,BJ Jacobs,TJG Pringle,4,0,,,,,,"",""
+ball,1,14.3,Auckland,CD Fletcher,BJ Jacobs,TJG Pringle,0,0,,,,,,"",""
+ball,1,14.4,Auckland,CD Fletcher,BJ Jacobs,TJG Pringle,0,0,,,,,,caught,CD Fletcher
+ball,1,14.5,Auckland,SM Solia,BJ Jacobs,TJG Pringle,1,0,,,,,,"",""
+ball,1,14.6,Auckland,BJ Jacobs,SM Solia,TJG Pringle,0,0,,,,,,"",""
+ball,1,15.1,Auckland,SM Solia,BJ Jacobs,BR Hampton,1,0,,,,,,"",""
+ball,1,15.2,Auckland,BJ Jacobs,SM Solia,BR Hampton,1,0,,,,,,"",""
+ball,1,15.3,Auckland,SM Solia,BJ Jacobs,BR Hampton,0,0,,,,,,"",""
+ball,1,15.4,Auckland,SM Solia,BJ Jacobs,BR Hampton,4,0,,,,,,"",""
+ball,1,15.5,Auckland,SM Solia,BJ Jacobs,BR Hampton,0,0,,,,,,"",""
+ball,1,15.6,Auckland,SM Solia,BJ Jacobs,BR Hampton,0,0,,,,,,"",""
+ball,1,16.1,Auckland,BJ Jacobs,SM Solia,KDC Clarke,4,0,,,,,,"",""
+ball,1,16.2,Auckland,BJ Jacobs,SM Solia,KDC Clarke,1,0,,,,,,"",""
+ball,1,16.3,Auckland,SM Solia,BJ Jacobs,KDC Clarke,6,0,,,,,,"",""
+ball,1,16.4,Auckland,SM Solia,BJ Jacobs,KDC Clarke,4,0,,,,,,"",""
+ball,1,16.5,Auckland,SM Solia,BJ Jacobs,KDC Clarke,0,0,,,,,,run out,SM Solia
+ball,1,16.6,Auckland,BJ Jacobs,RD Harrison,KDC Clarke,1,0,,,,,,"",""
+ball,1,17.1,Auckland,BJ Jacobs,RD Harrison,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,17.2,Auckland,BJ Jacobs,RD Harrison,SC Kuggeleijn,6,0,,,,,,"",""
+ball,1,17.3,Auckland,BJ Jacobs,RD Harrison,SC Kuggeleijn,6,0,,,,,,"",""
+ball,1,17.4,Auckland,BJ Jacobs,RD Harrison,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,17.5,Auckland,BJ Jacobs,RD Harrison,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,17.6,Auckland,BJ Jacobs,RD Harrison,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,18.1,Auckland,RD Harrison,BJ Jacobs,ZN Gibson,1,0,,,,,,"",""
+ball,1,18.2,Auckland,BJ Jacobs,RD Harrison,ZN Gibson,0,0,,,,,,hit wicket,BJ Jacobs
+ball,1,18.3,Auckland,A Ashok,RD Harrison,ZN Gibson,4,0,,,,,,"",""
+ball,1,18.4,Auckland,A Ashok,RD Harrison,ZN Gibson,0,0,,,,,,"",""
+ball,1,18.5,Auckland,A Ashok,RD Harrison,ZN Gibson,0,1,1,,,,,"",""
+ball,1,18.6,Auckland,A Ashok,RD Harrison,ZN Gibson,1,0,,,,,,"",""
+ball,1,18.7,Auckland,RD Harrison,A Ashok,ZN Gibson,1,0,,,,,,"",""
+ball,1,19.1,Auckland,RD Harrison,A Ashok,BR Hampton,0,0,,,,,,bowled,RD Harrison
+ball,1,19.2,Auckland,AL Olliver,A Ashok,BR Hampton,1,0,,,,,,"",""
+ball,1,19.3,Auckland,A Ashok,AL Olliver,BR Hampton,1,0,,,,,,"",""
+ball,1,19.4,Auckland,AL Olliver,A Ashok,BR Hampton,1,0,,,,,,"",""
+ball,1,19.5,Auckland,A Ashok,AL Olliver,BR Hampton,2,0,,,,,,"",""
+ball,1,19.6,Auckland,A Ashok,AL Olliver,BR Hampton,1,0,,,,,,"",""

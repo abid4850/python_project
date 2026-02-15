@@ -1,0 +1,297 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Glamorgan
+info,gender,male
+info,season,2021
+info,date,2021/06/16
+info,event,Vitality Blast
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Kent
+info,toss_decision,bat
+info,player_of_match,ME Milnes
+info,umpire,ID Blackwell
+info,umpire,IN Ramage
+info,match_referee,Phil Whitticase
+info,winner,Kent
+info,winner_runs,40
+info,player,Kent,Z Crawley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,SW Billings
+info,player,Kent,JA Leaning
+info,player,Kent,JM Cox
+info,player,Kent,DI Stevens
+info,player,Kent,G Stewart
+info,player,Kent,Qais Ahmad
+info,player,Kent,ME Milnes
+info,player,Kent,FJ Klaassen
+info,player,Glamorgan,DL Lloyd
+info,player,Glamorgan,NJ Selman
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,WJ Weighell
+info,player,Glamorgan,AG Salter
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Sisodiya
+info,registry,people,AG Salter,1a45b864
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DI Stevens,bca21d18
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DL Lloyd,0c7f11be
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,G Stewart,a77472dc
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,IN Ramage,33cb7803
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,NJ Selman,bab08c8b
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,SW Billings,c16d4035
+info,registry,people,WJ Weighell,10f68de1
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,Kent,Z Crawley,DJ Bell-Drummond,P Sisodiya,1,0,,,,,,"",""
+ball,1,0.2,Kent,DJ Bell-Drummond,Z Crawley,P Sisodiya,0,1,1,,,,,"",""
+ball,1,0.3,Kent,DJ Bell-Drummond,Z Crawley,P Sisodiya,0,0,,,,,,lbw,DJ Bell-Drummond
+ball,1,0.4,Kent,JL Denly,Z Crawley,P Sisodiya,4,0,,,,,,"",""
+ball,1,0.5,Kent,JL Denly,Z Crawley,P Sisodiya,0,0,,,,,,"",""
+ball,1,0.6,Kent,JL Denly,Z Crawley,P Sisodiya,1,0,,,,,,"",""
+ball,1,0.7,Kent,Z Crawley,JL Denly,P Sisodiya,1,0,,,,,,"",""
+ball,1,1.1,Kent,Z Crawley,JL Denly,RAJ Smith,0,0,,,,,,"",""
+ball,1,1.2,Kent,Z Crawley,JL Denly,RAJ Smith,2,0,,,,,,"",""
+ball,1,1.3,Kent,Z Crawley,JL Denly,RAJ Smith,0,0,,,,,,"",""
+ball,1,1.4,Kent,Z Crawley,JL Denly,RAJ Smith,4,0,,,,,,"",""
+ball,1,1.5,Kent,Z Crawley,JL Denly,RAJ Smith,1,0,,,,,,"",""
+ball,1,1.6,Kent,JL Denly,Z Crawley,RAJ Smith,1,0,,,,,,"",""
+ball,1,2.1,Kent,JL Denly,Z Crawley,P Sisodiya,1,0,,,,,,"",""
+ball,1,2.2,Kent,Z Crawley,JL Denly,P Sisodiya,1,0,,,,,,"",""
+ball,1,2.3,Kent,JL Denly,Z Crawley,P Sisodiya,4,0,,,,,,"",""
+ball,1,2.4,Kent,JL Denly,Z Crawley,P Sisodiya,1,0,,,,,,"",""
+ball,1,2.5,Kent,Z Crawley,JL Denly,P Sisodiya,1,0,,,,,,"",""
+ball,1,2.6,Kent,JL Denly,Z Crawley,P Sisodiya,1,0,,,,,,"",""
+ball,1,3.1,Kent,JL Denly,Z Crawley,WJ Weighell,2,0,,,,,,"",""
+ball,1,3.2,Kent,JL Denly,Z Crawley,WJ Weighell,0,0,,,,,,caught,JL Denly
+ball,1,3.3,Kent,Z Crawley,SW Billings,WJ Weighell,1,0,,,,,,"",""
+ball,1,3.4,Kent,SW Billings,Z Crawley,WJ Weighell,1,0,,,,,,"",""
+ball,1,3.5,Kent,Z Crawley,SW Billings,WJ Weighell,0,0,,,,,,"",""
+ball,1,3.6,Kent,Z Crawley,SW Billings,WJ Weighell,0,0,,,,,,"",""
+ball,1,4.1,Kent,SW Billings,Z Crawley,P Sisodiya,0,0,,,,,,"",""
+ball,1,4.2,Kent,SW Billings,Z Crawley,P Sisodiya,1,0,,,,,,"",""
+ball,1,4.3,Kent,Z Crawley,SW Billings,P Sisodiya,1,0,,,,,,"",""
+ball,1,4.4,Kent,SW Billings,Z Crawley,P Sisodiya,1,0,,,,,,"",""
+ball,1,4.5,Kent,Z Crawley,SW Billings,P Sisodiya,1,0,,,,,,"",""
+ball,1,4.6,Kent,SW Billings,Z Crawley,P Sisodiya,0,1,1,,,,,"",""
+ball,1,4.7,Kent,SW Billings,Z Crawley,P Sisodiya,1,0,,,,,,"",""
+ball,1,5.1,Kent,SW Billings,Z Crawley,RAJ Smith,0,0,,,,,,"",""
+ball,1,5.2,Kent,SW Billings,Z Crawley,RAJ Smith,0,0,,,,,,"",""
+ball,1,5.3,Kent,SW Billings,Z Crawley,RAJ Smith,0,0,,,,,,"",""
+ball,1,5.4,Kent,SW Billings,Z Crawley,RAJ Smith,1,0,,,,,,"",""
+ball,1,5.5,Kent,Z Crawley,SW Billings,RAJ Smith,1,0,,,,,,"",""
+ball,1,5.6,Kent,SW Billings,Z Crawley,RAJ Smith,0,0,,,,,,"",""
+ball,1,6.1,Kent,Z Crawley,SW Billings,P Sisodiya,0,0,,,,,,caught,Z Crawley
+ball,1,6.2,Kent,SW Billings,JA Leaning,P Sisodiya,0,0,,,,,,"",""
+ball,1,6.3,Kent,SW Billings,JA Leaning,P Sisodiya,1,0,,,,,,"",""
+ball,1,6.4,Kent,JA Leaning,SW Billings,P Sisodiya,2,0,,,,,,"",""
+ball,1,6.5,Kent,JA Leaning,SW Billings,P Sisodiya,1,0,,,,,,"",""
+ball,1,6.6,Kent,SW Billings,JA Leaning,P Sisodiya,1,0,,,,,,"",""
+ball,1,7.1,Kent,SW Billings,JA Leaning,AG Salter,2,0,,,,,,"",""
+ball,1,7.2,Kent,SW Billings,JA Leaning,AG Salter,1,0,,,,,,"",""
+ball,1,7.3,Kent,JA Leaning,SW Billings,AG Salter,1,0,,,,,,"",""
+ball,1,7.4,Kent,SW Billings,JA Leaning,AG Salter,1,0,,,,,,"",""
+ball,1,7.5,Kent,JA Leaning,SW Billings,AG Salter,1,0,,,,,,"",""
+ball,1,7.6,Kent,SW Billings,JA Leaning,AG Salter,1,0,,,,,,"",""
+ball,1,8.1,Kent,SW Billings,JA Leaning,WJ Weighell,0,0,,,,,,"",""
+ball,1,8.2,Kent,SW Billings,JA Leaning,WJ Weighell,0,0,,,,,,"",""
+ball,1,8.3,Kent,SW Billings,JA Leaning,WJ Weighell,1,0,,,,,,"",""
+ball,1,8.4,Kent,JA Leaning,SW Billings,WJ Weighell,2,0,,,,,,"",""
+ball,1,8.5,Kent,JA Leaning,SW Billings,WJ Weighell,0,0,,,,,,"",""
+ball,1,8.6,Kent,JA Leaning,SW Billings,WJ Weighell,1,0,,,,,,"",""
+ball,1,9.1,Kent,JA Leaning,SW Billings,AG Salter,1,0,,,,,,"",""
+ball,1,9.2,Kent,SW Billings,JA Leaning,AG Salter,6,0,,,,,,"",""
+ball,1,9.3,Kent,SW Billings,JA Leaning,AG Salter,6,0,,,,,,"",""
+ball,1,9.4,Kent,SW Billings,JA Leaning,AG Salter,0,0,,,,,,"",""
+ball,1,9.5,Kent,SW Billings,JA Leaning,AG Salter,1,0,,,,,,"",""
+ball,1,9.6,Kent,JA Leaning,SW Billings,AG Salter,1,0,,,,,,"",""
+ball,1,10.1,Kent,JA Leaning,SW Billings,DA Douthwaite,2,0,,,,,,"",""
+ball,1,10.2,Kent,JA Leaning,SW Billings,DA Douthwaite,1,0,,,,,,"",""
+ball,1,10.3,Kent,SW Billings,JA Leaning,DA Douthwaite,1,0,,,,,,"",""
+ball,1,10.4,Kent,JA Leaning,SW Billings,DA Douthwaite,0,0,,,,,,"",""
+ball,1,10.5,Kent,JA Leaning,SW Billings,DA Douthwaite,1,0,,,,,,"",""
+ball,1,10.6,Kent,SW Billings,JA Leaning,DA Douthwaite,1,0,,,,,,"",""
+ball,1,11.1,Kent,SW Billings,JA Leaning,M Labuschagne,1,0,,,,,,"",""
+ball,1,11.2,Kent,JA Leaning,SW Billings,M Labuschagne,0,0,,,,,,caught,JA Leaning
+ball,1,11.3,Kent,JM Cox,SW Billings,M Labuschagne,0,0,,,,,,"",""
+ball,1,11.4,Kent,JM Cox,SW Billings,M Labuschagne,1,0,,,,,,"",""
+ball,1,11.5,Kent,SW Billings,JM Cox,M Labuschagne,1,0,,,,,,"",""
+ball,1,11.6,Kent,JM Cox,SW Billings,M Labuschagne,0,0,,,,,,"",""
+ball,1,12.1,Kent,SW Billings,JM Cox,DA Douthwaite,0,0,,,,,,"",""
+ball,1,12.2,Kent,SW Billings,JM Cox,DA Douthwaite,0,0,,,,,,bowled,SW Billings
+ball,1,12.3,Kent,DI Stevens,JM Cox,DA Douthwaite,0,0,,,,,,"",""
+ball,1,12.4,Kent,DI Stevens,JM Cox,DA Douthwaite,1,0,,,,,,"",""
+ball,1,12.5,Kent,JM Cox,DI Stevens,DA Douthwaite,2,0,,,,,,"",""
+ball,1,12.6,Kent,JM Cox,DI Stevens,DA Douthwaite,1,0,,,,,,"",""
+ball,1,13.1,Kent,JM Cox,DI Stevens,M Labuschagne,1,0,,,,,,"",""
+ball,1,13.2,Kent,DI Stevens,JM Cox,M Labuschagne,1,0,,,,,,"",""
+ball,1,13.3,Kent,JM Cox,DI Stevens,M Labuschagne,1,0,,,,,,"",""
+ball,1,13.4,Kent,DI Stevens,JM Cox,M Labuschagne,0,1,,,,1,,"",""
+ball,1,13.5,Kent,JM Cox,DI Stevens,M Labuschagne,1,0,,,,,,"",""
+ball,1,13.6,Kent,DI Stevens,JM Cox,M Labuschagne,1,0,,,,,,"",""
+ball,1,14.1,Kent,DI Stevens,JM Cox,WJ Weighell,6,0,,,,,,"",""
+ball,1,14.2,Kent,DI Stevens,JM Cox,WJ Weighell,4,0,,,,,,"",""
+ball,1,14.3,Kent,DI Stevens,JM Cox,WJ Weighell,0,0,,,,,,"",""
+ball,1,14.4,Kent,DI Stevens,JM Cox,WJ Weighell,0,0,,,,,,"",""
+ball,1,14.5,Kent,DI Stevens,JM Cox,WJ Weighell,0,1,,,1,,,"",""
+ball,1,14.6,Kent,JM Cox,DI Stevens,WJ Weighell,4,0,,,,,,"",""
+ball,1,15.1,Kent,DI Stevens,JM Cox,M Labuschagne,1,0,,,,,,"",""
+ball,1,15.2,Kent,JM Cox,DI Stevens,M Labuschagne,1,0,,,,,,"",""
+ball,1,15.3,Kent,DI Stevens,JM Cox,M Labuschagne,0,0,,,,,,caught,DI Stevens
+ball,1,15.4,Kent,JM Cox,G Stewart,M Labuschagne,0,0,,,,,,"",""
+ball,1,15.5,Kent,JM Cox,G Stewart,M Labuschagne,2,0,,,,,,"",""
+ball,1,15.6,Kent,JM Cox,G Stewart,M Labuschagne,1,0,,,,,,"",""
+ball,1,16.1,Kent,JM Cox,G Stewart,RAJ Smith,1,0,,,,,,"",""
+ball,1,16.2,Kent,G Stewart,JM Cox,RAJ Smith,4,0,,,,,,"",""
+ball,1,16.3,Kent,G Stewart,JM Cox,RAJ Smith,4,0,,,,,,"",""
+ball,1,16.4,Kent,G Stewart,JM Cox,RAJ Smith,0,0,,,,,,"",""
+ball,1,16.5,Kent,G Stewart,JM Cox,RAJ Smith,1,0,,,,,,"",""
+ball,1,16.6,Kent,JM Cox,G Stewart,RAJ Smith,4,0,,,,,,"",""
+ball,1,17.1,Kent,G Stewart,JM Cox,M Labuschagne,1,0,,,,,,"",""
+ball,1,17.2,Kent,JM Cox,G Stewart,M Labuschagne,0,0,,,,,,"",""
+ball,1,17.3,Kent,JM Cox,G Stewart,M Labuschagne,1,0,,,,,,"",""
+ball,1,17.4,Kent,G Stewart,JM Cox,M Labuschagne,0,1,1,,,,,"",""
+ball,1,17.5,Kent,G Stewart,JM Cox,M Labuschagne,0,1,,,1,,,"",""
+ball,1,17.6,Kent,JM Cox,G Stewart,M Labuschagne,4,0,,,,,,"",""
+ball,1,17.7,Kent,JM Cox,G Stewart,M Labuschagne,2,0,,,,,,"",""
+ball,1,18.1,Kent,G Stewart,JM Cox,DA Douthwaite,1,0,,,,,,"",""
+ball,1,18.2,Kent,JM Cox,G Stewart,DA Douthwaite,1,0,,,,,,"",""
+ball,1,18.3,Kent,G Stewart,JM Cox,DA Douthwaite,4,0,,,,,,"",""
+ball,1,18.4,Kent,G Stewart,JM Cox,DA Douthwaite,0,1,1,,,,,"",""
+ball,1,18.5,Kent,G Stewart,JM Cox,DA Douthwaite,0,0,,,,,,bowled,G Stewart
+ball,1,18.6,Kent,Qais Ahmad,JM Cox,DA Douthwaite,0,0,,,,,,"",""
+ball,1,18.7,Kent,Qais Ahmad,JM Cox,DA Douthwaite,0,0,,,,,,"",""
+ball,1,19.1,Kent,JM Cox,Qais Ahmad,RAJ Smith,0,0,,,,,,"",""
+ball,1,19.2,Kent,JM Cox,Qais Ahmad,RAJ Smith,1,0,,,,,,"",""
+ball,1,19.3,Kent,Qais Ahmad,JM Cox,RAJ Smith,1,0,,,,,,"",""
+ball,1,19.4,Kent,JM Cox,Qais Ahmad,RAJ Smith,1,0,,,,,,"",""
+ball,1,19.5,Kent,Qais Ahmad,JM Cox,RAJ Smith,1,0,,,,,,"",""
+ball,1,19.6,Kent,JM Cox,Qais Ahmad,RAJ Smith,2,0,,,,,,"",""
+ball,2,0.1,Glamorgan,DL Lloyd,NJ Selman,JL Denly,0,0,,,,,,"",""
+ball,2,0.2,Glamorgan,DL Lloyd,NJ Selman,JL Denly,1,0,,,,,,"",""
+ball,2,0.3,Glamorgan,NJ Selman,DL Lloyd,JL Denly,0,0,,,,,,"",""
+ball,2,0.4,Glamorgan,NJ Selman,DL Lloyd,JL Denly,1,0,,,,,,"",""
+ball,2,0.5,Glamorgan,DL Lloyd,NJ Selman,JL Denly,0,0,,,,,,"",""
+ball,2,0.6,Glamorgan,DL Lloyd,NJ Selman,JL Denly,0,0,,,,,,"",""
+ball,2,1.1,Glamorgan,NJ Selman,DL Lloyd,ME Milnes,4,0,,,,,,"",""
+ball,2,1.2,Glamorgan,NJ Selman,DL Lloyd,ME Milnes,0,0,,,,,,"",""
+ball,2,1.3,Glamorgan,NJ Selman,DL Lloyd,ME Milnes,1,0,,,,,,"",""
+ball,2,1.4,Glamorgan,DL Lloyd,NJ Selman,ME Milnes,0,0,,,,,,"",""
+ball,2,1.5,Glamorgan,DL Lloyd,NJ Selman,ME Milnes,0,0,,,,,,caught,DL Lloyd
+ball,2,1.6,Glamorgan,NJ Selman,M Labuschagne,ME Milnes,1,0,,,,,,"",""
+ball,2,2.1,Glamorgan,NJ Selman,M Labuschagne,JL Denly,1,0,,,,,,"",""
+ball,2,2.2,Glamorgan,M Labuschagne,NJ Selman,JL Denly,0,0,,,,,,"",""
+ball,2,2.3,Glamorgan,M Labuschagne,NJ Selman,JL Denly,1,0,,,,,,"",""
+ball,2,2.4,Glamorgan,NJ Selman,M Labuschagne,JL Denly,1,0,,,,,,"",""
+ball,2,2.5,Glamorgan,M Labuschagne,NJ Selman,JL Denly,2,0,,,,,,"",""
+ball,2,2.6,Glamorgan,M Labuschagne,NJ Selman,JL Denly,1,0,,,,,,"",""
+ball,2,3.1,Glamorgan,M Labuschagne,NJ Selman,FJ Klaassen,0,0,,,,,,"",""
+ball,2,3.2,Glamorgan,M Labuschagne,NJ Selman,FJ Klaassen,0,0,,,,,,"",""
+ball,2,3.3,Glamorgan,M Labuschagne,NJ Selman,FJ Klaassen,4,0,,,,,,"",""
+ball,2,3.4,Glamorgan,M Labuschagne,NJ Selman,FJ Klaassen,0,0,,,,,,"",""
+ball,2,3.5,Glamorgan,M Labuschagne,NJ Selman,FJ Klaassen,2,0,,,,,,"",""
+ball,2,3.6,Glamorgan,M Labuschagne,NJ Selman,FJ Klaassen,2,0,,,,,,"",""
+ball,2,4.1,Glamorgan,NJ Selman,M Labuschagne,G Stewart,1,0,,,,,,"",""
+ball,2,4.2,Glamorgan,M Labuschagne,NJ Selman,G Stewart,1,0,,,,,,"",""
+ball,2,4.3,Glamorgan,NJ Selman,M Labuschagne,G Stewart,0,0,,,,,,caught,NJ Selman
+ball,2,4.4,Glamorgan,M Labuschagne,CA Ingram,G Stewart,1,0,,,,,,"",""
+ball,2,4.5,Glamorgan,CA Ingram,M Labuschagne,G Stewart,1,0,,,,,,"",""
+ball,2,4.6,Glamorgan,M Labuschagne,CA Ingram,G Stewart,1,0,,,,,,"",""
+ball,2,5.1,Glamorgan,M Labuschagne,CA Ingram,FJ Klaassen,1,0,,,,,,"",""
+ball,2,5.2,Glamorgan,CA Ingram,M Labuschagne,FJ Klaassen,0,0,,,,,,"",""
+ball,2,5.3,Glamorgan,CA Ingram,M Labuschagne,FJ Klaassen,0,0,,,,,,"",""
+ball,2,5.4,Glamorgan,CA Ingram,M Labuschagne,FJ Klaassen,0,1,1,,,,,"",""
+ball,2,5.5,Glamorgan,CA Ingram,M Labuschagne,FJ Klaassen,4,0,,,,,,"",""
+ball,2,5.6,Glamorgan,CA Ingram,M Labuschagne,FJ Klaassen,0,0,,,,,,"",""
+ball,2,5.7,Glamorgan,CA Ingram,M Labuschagne,FJ Klaassen,0,0,,,,,,"",""
+ball,2,6.1,Glamorgan,M Labuschagne,CA Ingram,DI Stevens,0,0,,,,,,"",""
+ball,2,6.2,Glamorgan,M Labuschagne,CA Ingram,DI Stevens,1,0,,,,,,"",""
+ball,2,6.3,Glamorgan,CA Ingram,M Labuschagne,DI Stevens,1,0,,,,,,"",""
+ball,2,6.4,Glamorgan,M Labuschagne,CA Ingram,DI Stevens,4,0,,,,,,"",""
+ball,2,6.5,Glamorgan,M Labuschagne,CA Ingram,DI Stevens,1,0,,,,,,"",""
+ball,2,6.6,Glamorgan,CA Ingram,M Labuschagne,DI Stevens,1,0,,,,,,"",""
+ball,2,7.1,Glamorgan,CA Ingram,M Labuschagne,ME Milnes,1,0,,,,,,"",""
+ball,2,7.2,Glamorgan,M Labuschagne,CA Ingram,ME Milnes,0,0,,,,,,caught and bowled,M Labuschagne
+ball,2,7.3,Glamorgan,CB Cooke,CA Ingram,ME Milnes,1,0,,,,,,"",""
+ball,2,7.4,Glamorgan,CA Ingram,CB Cooke,ME Milnes,1,0,,,,,,"",""
+ball,2,7.5,Glamorgan,CB Cooke,CA Ingram,ME Milnes,1,0,,,,,,"",""
+ball,2,7.6,Glamorgan,CA Ingram,CB Cooke,ME Milnes,0,0,,,,,,"",""
+ball,2,8.1,Glamorgan,CB Cooke,CA Ingram,Qais Ahmad,0,0,,,,,,"",""
+ball,2,8.2,Glamorgan,CB Cooke,CA Ingram,Qais Ahmad,4,0,,,,,,"",""
+ball,2,8.3,Glamorgan,CB Cooke,CA Ingram,Qais Ahmad,0,0,,,,,,"",""
+ball,2,8.4,Glamorgan,CB Cooke,CA Ingram,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.5,Glamorgan,CA Ingram,CB Cooke,Qais Ahmad,0,0,,,,,,"",""
+ball,2,8.6,Glamorgan,CA Ingram,CB Cooke,Qais Ahmad,1,0,,,,,,"",""
+ball,2,9.1,Glamorgan,CA Ingram,CB Cooke,ME Milnes,1,0,,,,,,"",""
+ball,2,9.2,Glamorgan,CB Cooke,CA Ingram,ME Milnes,1,0,,,,,,"",""
+ball,2,9.3,Glamorgan,CA Ingram,CB Cooke,ME Milnes,0,0,,,,,,"",""
+ball,2,9.4,Glamorgan,CA Ingram,CB Cooke,ME Milnes,4,0,,,,,,"",""
+ball,2,9.5,Glamorgan,CA Ingram,CB Cooke,ME Milnes,2,0,,,,,,"",""
+ball,2,9.6,Glamorgan,CA Ingram,CB Cooke,ME Milnes,0,0,,,,,,caught and bowled,CA Ingram
+ball,2,10.1,Glamorgan,CB Cooke,KS Carlson,Qais Ahmad,2,0,,,,,,"",""
+ball,2,10.2,Glamorgan,CB Cooke,KS Carlson,Qais Ahmad,1,0,,,,,,"",""
+ball,2,10.3,Glamorgan,KS Carlson,CB Cooke,Qais Ahmad,1,0,,,,,,"",""
+ball,2,10.4,Glamorgan,CB Cooke,KS Carlson,Qais Ahmad,0,0,,,,,,"",""
+ball,2,10.5,Glamorgan,CB Cooke,KS Carlson,Qais Ahmad,1,0,,,,,,"",""
+ball,2,10.6,Glamorgan,KS Carlson,CB Cooke,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.1,Glamorgan,CB Cooke,KS Carlson,JL Denly,1,0,,,,,,"",""
+ball,2,11.2,Glamorgan,KS Carlson,CB Cooke,JL Denly,0,0,,,,,,caught,KS Carlson
+ball,2,11.3,Glamorgan,DA Douthwaite,CB Cooke,JL Denly,0,0,,,,,,"",""
+ball,2,11.4,Glamorgan,DA Douthwaite,CB Cooke,JL Denly,0,0,,,,,,"",""
+ball,2,11.5,Glamorgan,DA Douthwaite,CB Cooke,JL Denly,0,0,,,,,,"",""
+ball,2,11.6,Glamorgan,DA Douthwaite,CB Cooke,JL Denly,1,0,,,,,,"",""
+ball,2,12.1,Glamorgan,DA Douthwaite,CB Cooke,Qais Ahmad,0,0,,,,,,"",""
+ball,2,12.2,Glamorgan,DA Douthwaite,CB Cooke,Qais Ahmad,0,0,,,,,,caught,DA Douthwaite
+ball,2,12.3,Glamorgan,WJ Weighell,CB Cooke,Qais Ahmad,1,0,,,,,,"",""
+ball,2,12.4,Glamorgan,CB Cooke,WJ Weighell,Qais Ahmad,1,0,,,,,,"",""
+ball,2,12.5,Glamorgan,WJ Weighell,CB Cooke,Qais Ahmad,0,0,,,,,,"",""
+ball,2,12.6,Glamorgan,WJ Weighell,CB Cooke,Qais Ahmad,1,0,,,,,,"",""
+ball,2,13.1,Glamorgan,WJ Weighell,CB Cooke,G Stewart,0,0,,,,,,"",""
+ball,2,13.2,Glamorgan,WJ Weighell,CB Cooke,G Stewart,4,0,,,,,,"",""
+ball,2,13.3,Glamorgan,WJ Weighell,CB Cooke,G Stewart,1,0,,,,,,"",""
+ball,2,13.4,Glamorgan,CB Cooke,WJ Weighell,G Stewart,1,0,,,,,,"",""
+ball,2,13.5,Glamorgan,WJ Weighell,CB Cooke,G Stewart,0,1,,,,1,,"",""
+ball,2,13.6,Glamorgan,CB Cooke,WJ Weighell,G Stewart,1,0,,,,,,"",""
+ball,2,14.1,Glamorgan,CB Cooke,WJ Weighell,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.2,Glamorgan,WJ Weighell,CB Cooke,Qais Ahmad,0,0,,,,,,"",""
+ball,2,14.3,Glamorgan,WJ Weighell,CB Cooke,Qais Ahmad,2,0,,,,,,"",""
+ball,2,14.4,Glamorgan,WJ Weighell,CB Cooke,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.5,Glamorgan,CB Cooke,WJ Weighell,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.6,Glamorgan,WJ Weighell,CB Cooke,Qais Ahmad,1,0,,,,,,"",""
+ball,2,15.1,Glamorgan,WJ Weighell,CB Cooke,FJ Klaassen,1,0,,,,,,"",""
+ball,2,15.2,Glamorgan,CB Cooke,WJ Weighell,FJ Klaassen,0,0,,,,,,caught,CB Cooke
+ball,2,15.3,Glamorgan,WJ Weighell,AG Salter,FJ Klaassen,0,0,,,,,,"",""
+ball,2,15.4,Glamorgan,WJ Weighell,AG Salter,FJ Klaassen,6,0,,,,,,"",""
+ball,2,15.5,Glamorgan,WJ Weighell,AG Salter,FJ Klaassen,1,0,,,,,,"",""
+ball,2,15.6,Glamorgan,AG Salter,WJ Weighell,FJ Klaassen,1,0,,,,,,"",""
+ball,2,16.1,Glamorgan,AG Salter,WJ Weighell,G Stewart,1,0,,,,,,"",""
+ball,2,16.2,Glamorgan,WJ Weighell,AG Salter,G Stewart,0,1,,,,1,,"",""
+ball,2,16.3,Glamorgan,AG Salter,WJ Weighell,G Stewart,1,0,,,,,,"",""
+ball,2,16.4,Glamorgan,WJ Weighell,AG Salter,G Stewart,4,0,,,,,,"",""
+ball,2,16.5,Glamorgan,WJ Weighell,AG Salter,G Stewart,1,0,,,,,,"",""
+ball,2,16.6,Glamorgan,AG Salter,WJ Weighell,G Stewart,0,0,,,,,,caught,AG Salter
+ball,2,17.1,Glamorgan,RAJ Smith,WJ Weighell,ME Milnes,1,0,,,,,,"",""
+ball,2,17.2,Glamorgan,WJ Weighell,RAJ Smith,ME Milnes,0,0,,,,,,"",""
+ball,2,17.3,Glamorgan,WJ Weighell,RAJ Smith,ME Milnes,0,0,,,,,,caught,WJ Weighell
+ball,2,17.4,Glamorgan,RAJ Smith,P Sisodiya,ME Milnes,1,2,,2,,,,"",""
+ball,2,17.5,Glamorgan,P Sisodiya,RAJ Smith,ME Milnes,0,0,,,,,,caught,P Sisodiya

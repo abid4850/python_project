@@ -1,0 +1,310 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Warriors
+info,gender,male
+info,season,2012/13
+info,date,2013/03/14
+info,event,Ram Slam T20 Challenge
+info,venue,"St George's Park, Port Elizabeth"
+info,city,Port Elizabeth
+info,toss_winner,Knights
+info,toss_decision,bat
+info,umpire,BP Jele
+info,umpire,M Erasmus
+info,reserve_umpire,CL Joubert
+info,tv_umpire,BG Jerling
+info,match_referee,S Wadvalla
+info,winner,Knights
+info,winner_runs,6
+info,player,Knights,LE Bosman
+info,player,Knights,GL Cloete
+info,player,Knights,AJ Pienaar
+info,player,Knights,D Elgar
+info,player,Knights,PJ van Biljon
+info,player,Knights,JJ van der Wath
+info,player,Knights,WL Coetsee
+info,player,Knights,SC van Schalkwyk
+info,player,Knights,MP Siboto
+info,player,Knights,J Coetzee
+info,player,Knights,N Boje
+info,player,Warriors,C Jonker
+info,player,Warriors,AG Prince
+info,player,Warriors,DJ Jacobs
+info,player,Warriors,SR Patel
+info,player,Warriors,WD Parnell
+info,player,Warriors,KR Smuts
+info,player,Warriors,AP McLaren
+info,player,Warriors,CA Thyssen
+info,player,Warriors,SR Harmer
+info,player,Warriors,J Theron
+info,player,Warriors,A Gqamane
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,AG Prince,035cb925
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,AP McLaren,4ad7fc1b
+info,registry,people,BG Jerling,26457e41
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Jonker,a81d6706
+info,registry,people,CA Thyssen,789fd884
+info,registry,people,CL Joubert,b2491f1f
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DJ Jacobs,a84468fe
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,J Theron,dec8e038
+info,registry,people,JJ van der Wath,6821ac10
+info,registry,people,KR Smuts,ab446fe9
+info,registry,people,LE Bosman,73e749e1
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,SR Harmer,23638956
+info,registry,people,SR Patel,18fac429
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WL Coetsee,5f419ace
+ball,1,0.1,Knights,LE Bosman,GL Cloete,WD Parnell,0,0,,,,,,"",""
+ball,1,0.2,Knights,LE Bosman,GL Cloete,WD Parnell,1,0,,,,,,"",""
+ball,1,0.3,Knights,GL Cloete,LE Bosman,WD Parnell,0,0,,,,,,"",""
+ball,1,0.4,Knights,GL Cloete,LE Bosman,WD Parnell,2,0,,,,,,"",""
+ball,1,0.5,Knights,GL Cloete,LE Bosman,WD Parnell,0,0,,,,,,"",""
+ball,1,0.6,Knights,GL Cloete,LE Bosman,WD Parnell,0,0,,,,,,run out,GL Cloete
+ball,1,1.1,Knights,AJ Pienaar,LE Bosman,SR Harmer,0,0,,,,,,"",""
+ball,1,1.2,Knights,AJ Pienaar,LE Bosman,SR Harmer,4,0,,,,,,"",""
+ball,1,1.3,Knights,AJ Pienaar,LE Bosman,SR Harmer,0,0,,,,,,"",""
+ball,1,1.4,Knights,AJ Pienaar,LE Bosman,SR Harmer,0,0,,,,,,"",""
+ball,1,1.5,Knights,AJ Pienaar,LE Bosman,SR Harmer,1,0,,,,,,"",""
+ball,1,1.6,Knights,LE Bosman,AJ Pienaar,SR Harmer,0,0,,,,,,"",""
+ball,1,2.1,Knights,AJ Pienaar,LE Bosman,WD Parnell,0,0,,,,,,"",""
+ball,1,2.2,Knights,AJ Pienaar,LE Bosman,WD Parnell,0,0,,,,,,"",""
+ball,1,2.3,Knights,AJ Pienaar,LE Bosman,WD Parnell,0,0,,,,,,"",""
+ball,1,2.4,Knights,AJ Pienaar,LE Bosman,WD Parnell,0,0,,,,,,"",""
+ball,1,2.5,Knights,AJ Pienaar,LE Bosman,WD Parnell,1,0,,,,,,"",""
+ball,1,2.6,Knights,LE Bosman,AJ Pienaar,WD Parnell,0,0,,,,,,run out,LE Bosman
+ball,1,3.1,Knights,D Elgar,AJ Pienaar,SR Harmer,0,0,,,,,,"",""
+ball,1,3.2,Knights,D Elgar,AJ Pienaar,SR Harmer,0,0,,,,,,"",""
+ball,1,3.3,Knights,D Elgar,AJ Pienaar,SR Harmer,1,0,,,,,,"",""
+ball,1,3.4,Knights,AJ Pienaar,D Elgar,SR Harmer,1,0,,,,,,"",""
+ball,1,3.5,Knights,D Elgar,AJ Pienaar,SR Harmer,0,0,,,,,,"",""
+ball,1,3.6,Knights,D Elgar,AJ Pienaar,SR Harmer,0,0,,,,,,"",""
+ball,1,4.1,Knights,AJ Pienaar,D Elgar,J Theron,1,0,,,,,,"",""
+ball,1,4.2,Knights,D Elgar,AJ Pienaar,J Theron,0,0,,,,,,"",""
+ball,1,4.3,Knights,D Elgar,AJ Pienaar,J Theron,0,0,,,,,,"",""
+ball,1,4.4,Knights,D Elgar,AJ Pienaar,J Theron,1,0,,,,,,"",""
+ball,1,4.5,Knights,AJ Pienaar,D Elgar,J Theron,0,0,,,,,,"",""
+ball,1,4.6,Knights,AJ Pienaar,D Elgar,J Theron,0,0,,,,,,"",""
+ball,1,5.1,Knights,D Elgar,AJ Pienaar,A Gqamane,0,0,,,,,,"",""
+ball,1,5.2,Knights,D Elgar,AJ Pienaar,A Gqamane,0,0,,,,,,"",""
+ball,1,5.3,Knights,D Elgar,AJ Pienaar,A Gqamane,0,0,,,,,,"",""
+ball,1,5.4,Knights,D Elgar,AJ Pienaar,A Gqamane,0,0,,,,,,"",""
+ball,1,5.5,Knights,D Elgar,AJ Pienaar,A Gqamane,0,0,,,,,,"",""
+ball,1,5.6,Knights,D Elgar,AJ Pienaar,A Gqamane,1,0,,,,,,"",""
+ball,1,6.1,Knights,D Elgar,AJ Pienaar,SR Patel,0,0,,,,,,"",""
+ball,1,6.2,Knights,D Elgar,AJ Pienaar,SR Patel,0,0,,,,,,"",""
+ball,1,6.3,Knights,D Elgar,AJ Pienaar,SR Patel,0,0,,,,,,"",""
+ball,1,6.4,Knights,D Elgar,AJ Pienaar,SR Patel,0,0,,,,,,"",""
+ball,1,6.5,Knights,D Elgar,AJ Pienaar,SR Patel,1,0,,,,,,"",""
+ball,1,6.6,Knights,AJ Pienaar,D Elgar,SR Patel,1,0,,,,,,"",""
+ball,1,7.1,Knights,AJ Pienaar,D Elgar,SR Harmer,0,0,,,,,,"",""
+ball,1,7.2,Knights,AJ Pienaar,D Elgar,SR Harmer,0,0,,,,,,"",""
+ball,1,7.3,Knights,AJ Pienaar,D Elgar,SR Harmer,1,0,,,,,,"",""
+ball,1,7.4,Knights,D Elgar,AJ Pienaar,SR Harmer,0,0,,,,,,"",""
+ball,1,7.5,Knights,D Elgar,AJ Pienaar,SR Harmer,0,0,,,,,,"",""
+ball,1,7.6,Knights,D Elgar,AJ Pienaar,SR Harmer,1,0,,,,,,"",""
+ball,1,8.1,Knights,D Elgar,AJ Pienaar,SR Patel,0,0,,,,,,"",""
+ball,1,8.2,Knights,D Elgar,AJ Pienaar,SR Patel,1,0,,,,,,"",""
+ball,1,8.3,Knights,AJ Pienaar,D Elgar,SR Patel,0,0,,,,,,"",""
+ball,1,8.4,Knights,AJ Pienaar,D Elgar,SR Patel,2,0,,,,,,"",""
+ball,1,8.5,Knights,AJ Pienaar,D Elgar,SR Patel,1,0,,,,,,"",""
+ball,1,8.6,Knights,D Elgar,AJ Pienaar,SR Patel,6,0,,,,,,"",""
+ball,1,9.1,Knights,AJ Pienaar,D Elgar,SR Harmer,0,0,,,,,,"",""
+ball,1,9.2,Knights,AJ Pienaar,D Elgar,SR Harmer,1,0,,,,,,"",""
+ball,1,9.3,Knights,D Elgar,AJ Pienaar,SR Harmer,0,0,,,,,,"",""
+ball,1,9.4,Knights,D Elgar,AJ Pienaar,SR Harmer,0,1,,,,1,,"",""
+ball,1,9.5,Knights,AJ Pienaar,D Elgar,SR Harmer,1,0,,,,,,"",""
+ball,1,9.6,Knights,D Elgar,AJ Pienaar,SR Harmer,4,0,,,,,,"",""
+ball,1,10.1,Knights,AJ Pienaar,D Elgar,SR Patel,1,0,,,,,,"",""
+ball,1,10.2,Knights,D Elgar,AJ Pienaar,SR Patel,1,0,,,,,,"",""
+ball,1,10.3,Knights,AJ Pienaar,D Elgar,SR Patel,1,0,,,,,,"",""
+ball,1,10.4,Knights,D Elgar,AJ Pienaar,SR Patel,1,0,,,,,,"",""
+ball,1,10.5,Knights,AJ Pienaar,D Elgar,SR Patel,1,0,,,,,,"",""
+ball,1,10.6,Knights,D Elgar,AJ Pienaar,SR Patel,1,0,,,,,,"",""
+ball,1,11.1,Knights,D Elgar,AJ Pienaar,A Gqamane,1,0,,,,,,"",""
+ball,1,11.2,Knights,AJ Pienaar,D Elgar,A Gqamane,0,0,,,,,,"",""
+ball,1,11.3,Knights,AJ Pienaar,D Elgar,A Gqamane,4,0,,,,,,"",""
+ball,1,11.4,Knights,AJ Pienaar,D Elgar,A Gqamane,0,0,,,,,,caught,AJ Pienaar
+ball,1,11.5,Knights,D Elgar,PJ van Biljon,A Gqamane,0,0,,,,,,"",""
+ball,1,11.6,Knights,D Elgar,PJ van Biljon,A Gqamane,0,0,,,,,,"",""
+ball,1,12.1,Knights,PJ van Biljon,D Elgar,SR Patel,1,0,,,,,,"",""
+ball,1,12.2,Knights,D Elgar,PJ van Biljon,SR Patel,0,0,,,,,,"",""
+ball,1,12.3,Knights,D Elgar,PJ van Biljon,SR Patel,6,0,,,,,,"",""
+ball,1,12.4,Knights,D Elgar,PJ van Biljon,SR Patel,1,0,,,,,,"",""
+ball,1,12.5,Knights,PJ van Biljon,D Elgar,SR Patel,3,0,,,,,,"",""
+ball,1,12.6,Knights,D Elgar,PJ van Biljon,SR Patel,1,0,,,,,,"",""
+ball,1,13.1,Knights,D Elgar,PJ van Biljon,A Gqamane,1,0,,,,,,"",""
+ball,1,13.2,Knights,PJ van Biljon,D Elgar,A Gqamane,0,0,,,,,,"",""
+ball,1,13.3,Knights,PJ van Biljon,D Elgar,A Gqamane,1,0,,,,,,"",""
+ball,1,13.4,Knights,D Elgar,PJ van Biljon,A Gqamane,4,0,,,,,,"",""
+ball,1,13.5,Knights,D Elgar,PJ van Biljon,A Gqamane,1,0,,,,,,"",""
+ball,1,13.6,Knights,PJ van Biljon,D Elgar,A Gqamane,1,0,,,,,,"",""
+ball,1,14.1,Knights,PJ van Biljon,D Elgar,J Theron,1,0,,,,,,"",""
+ball,1,14.2,Knights,D Elgar,PJ van Biljon,J Theron,1,0,,,,,,"",""
+ball,1,14.3,Knights,PJ van Biljon,D Elgar,J Theron,0,1,,,,1,,"",""
+ball,1,14.4,Knights,D Elgar,PJ van Biljon,J Theron,0,0,,,,,,"",""
+ball,1,14.5,Knights,D Elgar,PJ van Biljon,J Theron,0,0,,,,,,"",""
+ball,1,14.6,Knights,D Elgar,PJ van Biljon,J Theron,0,0,,,,,,"",""
+ball,1,15.1,Knights,PJ van Biljon,D Elgar,A Gqamane,0,0,,,,,,"",""
+ball,1,15.2,Knights,PJ van Biljon,D Elgar,A Gqamane,1,0,,,,,,"",""
+ball,1,15.3,Knights,D Elgar,PJ van Biljon,A Gqamane,6,0,,,,,,"",""
+ball,1,15.4,Knights,D Elgar,PJ van Biljon,A Gqamane,1,0,,,,,,"",""
+ball,1,15.5,Knights,PJ van Biljon,D Elgar,A Gqamane,0,1,,,1,,,"",""
+ball,1,15.6,Knights,D Elgar,PJ van Biljon,A Gqamane,0,1,,,1,,,"",""
+ball,1,16.1,Knights,D Elgar,PJ van Biljon,J Theron,1,0,,,,,,"",""
+ball,1,16.2,Knights,PJ van Biljon,D Elgar,J Theron,0,0,,,,,,"",""
+ball,1,16.3,Knights,PJ van Biljon,D Elgar,J Theron,0,0,,,,,,"",""
+ball,1,16.4,Knights,PJ van Biljon,D Elgar,J Theron,0,0,,,,,,"",""
+ball,1,16.5,Knights,PJ van Biljon,D Elgar,J Theron,1,0,,,,,,"",""
+ball,1,16.6,Knights,D Elgar,PJ van Biljon,J Theron,1,0,,,,,,"",""
+ball,1,17.1,Knights,D Elgar,PJ van Biljon,WD Parnell,2,0,,,,,,"",""
+ball,1,17.2,Knights,D Elgar,PJ van Biljon,WD Parnell,6,0,,,,,,"",""
+ball,1,17.3,Knights,D Elgar,PJ van Biljon,WD Parnell,2,0,,,,,,"",""
+ball,1,17.4,Knights,D Elgar,PJ van Biljon,WD Parnell,1,0,,,,,,"",""
+ball,1,17.5,Knights,PJ van Biljon,D Elgar,WD Parnell,1,0,,,,,,"",""
+ball,1,17.6,Knights,D Elgar,PJ van Biljon,WD Parnell,1,0,,,,,,"",""
+ball,1,18.1,Knights,D Elgar,PJ van Biljon,J Theron,1,0,,,,,,"",""
+ball,1,18.2,Knights,PJ van Biljon,D Elgar,J Theron,1,0,,,,,,"",""
+ball,1,18.3,Knights,D Elgar,PJ van Biljon,J Theron,1,0,,,,,,"",""
+ball,1,18.4,Knights,PJ van Biljon,D Elgar,J Theron,0,2,,,,2,,"",""
+ball,1,18.5,Knights,PJ van Biljon,D Elgar,J Theron,6,0,,,,,,"",""
+ball,1,18.6,Knights,PJ van Biljon,D Elgar,J Theron,0,1,,,,1,,"",""
+ball,1,19.1,Knights,PJ van Biljon,D Elgar,WD Parnell,0,0,,,,,,caught,PJ van Biljon
+ball,1,19.2,Knights,D Elgar,JJ van der Wath,WD Parnell,1,0,,,,,,"",""
+ball,1,19.3,Knights,JJ van der Wath,D Elgar,WD Parnell,0,1,,,1,,,"",""
+ball,1,19.4,Knights,D Elgar,JJ van der Wath,WD Parnell,1,0,,,,,,"",""
+ball,1,19.5,Knights,JJ van der Wath,D Elgar,WD Parnell,0,2,2,,,,,"",""
+ball,1,19.6,Knights,D Elgar,JJ van der Wath,WD Parnell,1,0,,,,,,"",""
+ball,1,19.7,Knights,JJ van der Wath,D Elgar,WD Parnell,1,0,,,,,,"",""
+ball,2,0.1,Warriors,C Jonker,AG Prince,J Coetzee,1,0,,,,,,"",""
+ball,2,0.2,Warriors,AG Prince,C Jonker,J Coetzee,0,0,,,,,,"",""
+ball,2,0.3,Warriors,AG Prince,C Jonker,J Coetzee,0,0,,,,,,"",""
+ball,2,0.4,Warriors,AG Prince,C Jonker,J Coetzee,0,0,,,,,,"",""
+ball,2,0.5,Warriors,AG Prince,C Jonker,J Coetzee,1,0,,,,,,"",""
+ball,2,0.6,Warriors,C Jonker,AG Prince,J Coetzee,0,0,,,,,,"",""
+ball,2,1.1,Warriors,AG Prince,C Jonker,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.2,Warriors,AG Prince,C Jonker,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.3,Warriors,AG Prince,C Jonker,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.4,Warriors,AG Prince,C Jonker,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.5,Warriors,AG Prince,C Jonker,JJ van der Wath,2,0,,,,,,"",""
+ball,2,1.6,Warriors,AG Prince,C Jonker,JJ van der Wath,0,0,,,,,,"",""
+ball,2,2.1,Warriors,C Jonker,AG Prince,MP Siboto,3,0,,,,,,"",""
+ball,2,2.2,Warriors,AG Prince,C Jonker,MP Siboto,4,0,,,,,,"",""
+ball,2,2.3,Warriors,AG Prince,C Jonker,MP Siboto,0,0,,,,,,"",""
+ball,2,2.4,Warriors,AG Prince,C Jonker,MP Siboto,4,0,,,,,,"",""
+ball,2,2.5,Warriors,AG Prince,C Jonker,MP Siboto,1,0,,,,,,"",""
+ball,2,2.6,Warriors,C Jonker,AG Prince,MP Siboto,1,0,,,,,,"",""
+ball,2,3.1,Warriors,C Jonker,AG Prince,JJ van der Wath,1,0,,,,,,"",""
+ball,2,3.2,Warriors,AG Prince,C Jonker,JJ van der Wath,1,0,,,,,,"",""
+ball,2,3.3,Warriors,C Jonker,AG Prince,JJ van der Wath,0,0,,,,,,bowled,C Jonker
+ball,2,3.4,Warriors,DJ Jacobs,AG Prince,JJ van der Wath,0,0,,,,,,"",""
+ball,2,3.5,Warriors,DJ Jacobs,AG Prince,JJ van der Wath,0,0,,,,,,"",""
+ball,2,3.6,Warriors,DJ Jacobs,AG Prince,JJ van der Wath,0,0,,,,,,"",""
+ball,2,4.1,Warriors,AG Prince,DJ Jacobs,N Boje,0,0,,,,,,"",""
+ball,2,4.2,Warriors,AG Prince,DJ Jacobs,N Boje,1,0,,,,,,"",""
+ball,2,4.3,Warriors,DJ Jacobs,AG Prince,N Boje,0,0,,,,,,"",""
+ball,2,4.4,Warriors,DJ Jacobs,AG Prince,N Boje,0,0,,,,,,"",""
+ball,2,4.5,Warriors,DJ Jacobs,AG Prince,N Boje,0,0,,,,,,"",""
+ball,2,4.6,Warriors,DJ Jacobs,AG Prince,N Boje,2,0,,,,,,"",""
+ball,2,5.1,Warriors,AG Prince,DJ Jacobs,JJ van der Wath,1,0,,,,,,"",""
+ball,2,5.2,Warriors,DJ Jacobs,AG Prince,JJ van der Wath,1,0,,,,,,"",""
+ball,2,5.3,Warriors,AG Prince,DJ Jacobs,JJ van der Wath,1,0,,,,,,"",""
+ball,2,5.4,Warriors,DJ Jacobs,AG Prince,JJ van der Wath,0,0,,,,,,"",""
+ball,2,5.5,Warriors,DJ Jacobs,AG Prince,JJ van der Wath,1,0,,,,,,"",""
+ball,2,5.6,Warriors,AG Prince,DJ Jacobs,JJ van der Wath,4,0,,,,,,"",""
+ball,2,6.1,Warriors,DJ Jacobs,AG Prince,N Boje,1,0,,,,,,"",""
+ball,2,6.2,Warriors,AG Prince,DJ Jacobs,N Boje,0,1,1,,,,,"",""
+ball,2,6.3,Warriors,AG Prince,DJ Jacobs,N Boje,1,0,,,,,,"",""
+ball,2,6.4,Warriors,DJ Jacobs,AG Prince,N Boje,1,0,,,,,,"",""
+ball,2,6.5,Warriors,AG Prince,DJ Jacobs,N Boje,1,0,,,,,,"",""
+ball,2,6.6,Warriors,DJ Jacobs,AG Prince,N Boje,0,0,,,,,,"",""
+ball,2,6.7,Warriors,DJ Jacobs,AG Prince,N Boje,1,0,,,,,,"",""
+ball,2,7.1,Warriors,DJ Jacobs,AG Prince,WL Coetsee,2,0,,,,,,"",""
+ball,2,7.2,Warriors,DJ Jacobs,AG Prince,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.3,Warriors,AG Prince,DJ Jacobs,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.4,Warriors,DJ Jacobs,AG Prince,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.5,Warriors,AG Prince,DJ Jacobs,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.6,Warriors,DJ Jacobs,AG Prince,WL Coetsee,4,0,,,,,,"",""
+ball,2,8.1,Warriors,AG Prince,DJ Jacobs,N Boje,1,0,,,,,,"",""
+ball,2,8.2,Warriors,DJ Jacobs,AG Prince,N Boje,4,0,,,,,,"",""
+ball,2,8.3,Warriors,DJ Jacobs,AG Prince,N Boje,1,0,,,,,,"",""
+ball,2,8.4,Warriors,AG Prince,DJ Jacobs,N Boje,0,0,,,,,,"",""
+ball,2,8.5,Warriors,AG Prince,DJ Jacobs,N Boje,0,0,,,,,,"",""
+ball,2,8.6,Warriors,AG Prince,DJ Jacobs,N Boje,0,0,,,,,,"",""
+ball,2,9.1,Warriors,DJ Jacobs,AG Prince,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,9.2,Warriors,AG Prince,DJ Jacobs,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,9.3,Warriors,DJ Jacobs,AG Prince,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,9.4,Warriors,DJ Jacobs,AG Prince,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,9.5,Warriors,AG Prince,DJ Jacobs,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,9.6,Warriors,AG Prince,DJ Jacobs,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,10.1,Warriors,DJ Jacobs,AG Prince,J Coetzee,0,0,,,,,,"",""
+ball,2,10.2,Warriors,DJ Jacobs,AG Prince,J Coetzee,1,0,,,,,,"",""
+ball,2,10.3,Warriors,AG Prince,DJ Jacobs,J Coetzee,1,0,,,,,,"",""
+ball,2,10.4,Warriors,DJ Jacobs,AG Prince,J Coetzee,1,0,,,,,,"",""
+ball,2,10.5,Warriors,AG Prince,DJ Jacobs,J Coetzee,0,0,,,,,,"",""
+ball,2,10.6,Warriors,AG Prince,DJ Jacobs,J Coetzee,0,0,,,,,,"",""
+ball,2,11.1,Warriors,DJ Jacobs,AG Prince,SC van Schalkwyk,4,0,,,,,,"",""
+ball,2,11.2,Warriors,DJ Jacobs,AG Prince,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,11.3,Warriors,AG Prince,DJ Jacobs,SC van Schalkwyk,0,1,,,,1,,"",""
+ball,2,11.4,Warriors,DJ Jacobs,AG Prince,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,11.5,Warriors,AG Prince,DJ Jacobs,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,11.6,Warriors,DJ Jacobs,AG Prince,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,12.1,Warriors,AG Prince,DJ Jacobs,D Elgar,1,0,,,,,,"",""
+ball,2,12.2,Warriors,DJ Jacobs,AG Prince,D Elgar,0,0,,,,,,"",""
+ball,2,12.3,Warriors,DJ Jacobs,AG Prince,D Elgar,0,0,,,,,,caught,DJ Jacobs
+ball,2,12.4,Warriors,AG Prince,SR Patel,D Elgar,1,0,,,,,,"",""
+ball,2,12.5,Warriors,SR Patel,AG Prince,D Elgar,0,0,,,,,,"",""
+ball,2,12.6,Warriors,SR Patel,AG Prince,D Elgar,0,0,,,,,,"",""
+ball,2,13.1,Warriors,AG Prince,SR Patel,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,13.2,Warriors,SR Patel,AG Prince,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,13.3,Warriors,SR Patel,AG Prince,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,13.4,Warriors,SR Patel,AG Prince,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,13.5,Warriors,SR Patel,AG Prince,SC van Schalkwyk,2,0,,,,,,"",""
+ball,2,13.6,Warriors,SR Patel,AG Prince,SC van Schalkwyk,2,0,,,,,,"",""
+ball,2,14.1,Warriors,AG Prince,SR Patel,D Elgar,2,0,,,,,,"",""
+ball,2,14.2,Warriors,AG Prince,SR Patel,D Elgar,1,0,,,,,,"",""
+ball,2,14.3,Warriors,SR Patel,AG Prince,D Elgar,0,0,,,,,,"",""
+ball,2,14.4,Warriors,SR Patel,AG Prince,D Elgar,2,0,,,,,,"",""
+ball,2,14.5,Warriors,SR Patel,AG Prince,D Elgar,0,0,,,,,,caught,SR Patel
+ball,2,14.6,Warriors,WD Parnell,AG Prince,D Elgar,1,0,,,,,,"",""
+ball,2,15.1,Warriors,WD Parnell,AG Prince,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,15.2,Warriors,WD Parnell,AG Prince,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,15.3,Warriors,WD Parnell,AG Prince,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,15.4,Warriors,AG Prince,WD Parnell,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,15.5,Warriors,WD Parnell,AG Prince,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,15.6,Warriors,WD Parnell,AG Prince,SC van Schalkwyk,0,0,,,,,,caught,WD Parnell
+ball,2,16.1,Warriors,KR Smuts,AG Prince,D Elgar,2,0,,,,,,"",""
+ball,2,16.2,Warriors,KR Smuts,AG Prince,D Elgar,2,0,,,,,,"",""
+ball,2,16.3,Warriors,KR Smuts,AG Prince,D Elgar,2,0,,,,,,"",""
+ball,2,16.4,Warriors,KR Smuts,AG Prince,D Elgar,0,0,,,,,,"",""
+ball,2,16.5,Warriors,KR Smuts,AG Prince,D Elgar,3,0,,,,,,"",""
+ball,2,16.6,Warriors,AG Prince,KR Smuts,D Elgar,0,0,,,,,,"",""
+ball,2,17.1,Warriors,KR Smuts,AG Prince,J Coetzee,1,0,,,,,,"",""
+ball,2,17.2,Warriors,AG Prince,KR Smuts,J Coetzee,1,0,,,,,,"",""
+ball,2,17.3,Warriors,KR Smuts,AG Prince,J Coetzee,1,0,,,,,,"",""
+ball,2,17.4,Warriors,AG Prince,KR Smuts,J Coetzee,1,0,,,,,,"",""
+ball,2,17.5,Warriors,KR Smuts,AG Prince,J Coetzee,0,0,,,,,,caught,KR Smuts
+ball,2,17.6,Warriors,AG Prince,AP McLaren,J Coetzee,0,0,,,,,,"",""
+ball,2,18.1,Warriors,AP McLaren,AG Prince,D Elgar,0,0,,,,,,caught,AP McLaren
+ball,2,18.2,Warriors,AG Prince,CA Thyssen,D Elgar,0,0,,,,,,lbw,AG Prince
+ball,2,18.3,Warriors,SR Harmer,CA Thyssen,D Elgar,1,0,,,,,,"",""
+ball,2,18.4,Warriors,CA Thyssen,SR Harmer,D Elgar,1,0,,,,,,"",""
+ball,2,18.5,Warriors,SR Harmer,CA Thyssen,D Elgar,2,0,,,,,,"",""
+ball,2,18.6,Warriors,SR Harmer,CA Thyssen,D Elgar,2,0,,,,,,"",""
+ball,2,19.1,Warriors,CA Thyssen,SR Harmer,J Coetzee,0,0,,,,,,"",""
+ball,2,19.2,Warriors,CA Thyssen,SR Harmer,J Coetzee,1,0,,,,,,"",""
+ball,2,19.3,Warriors,SR Harmer,CA Thyssen,J Coetzee,4,0,,,,,,"",""
+ball,2,19.4,Warriors,SR Harmer,CA Thyssen,J Coetzee,2,0,,,,,,"",""
+ball,2,19.5,Warriors,SR Harmer,CA Thyssen,J Coetzee,0,1,,,,1,,"",""
+ball,2,19.6,Warriors,CA Thyssen,SR Harmer,J Coetzee,0,0,,,,,,"",""

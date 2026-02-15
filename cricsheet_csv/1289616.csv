@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Wellington
+info,gender,male
+info,season,2021/22
+info,date,2021/12/24
+info,event,Super Smash
+info,match_number,12
+info,venue,"Basin Reserve, Wellington"
+info,city,Wellington
+info,toss_winner,Auckland
+info,toss_decision,bat
+info,umpire,JM Dempsey
+info,umpire,KS Jagannathan
+info,reserve_umpire,Tyron Davies
+info,tv_umpire,TJ Parlane
+info,match_referee,K Pulley
+info,winner,Auckland
+info,winner_runs,13
+info,player,Auckland,MJ Guptill
+info,player,Auckland,GH Worker
+info,player,Auckland,MS Chapman
+info,player,Auckland,CJ Briggs
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,BJ Horne
+info,player,Auckland,SM Solia
+info,player,Auckland,LH Ferguson
+info,player,Auckland,L Delport
+info,player,Auckland,A Ashok
+info,player,Auckland,BG Lister
+info,player,Wellington,FH Allen
+info,player,Wellington,TB Robinson
+info,player,Wellington,LV van Beek
+info,player,Wellington,TM Johnson
+info,player,Wellington,MG Bracewell
+info,player,Wellington,NG Smith
+info,player,Wellington,JD Gibson
+info,player,Wellington,PF Younghusband
+info,player,Wellington,OR Newton
+info,player,Wellington,BV Sears
+info,player,Wellington,HK Bennett
+info,registry,people,A Ashok,321be7e3
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BV Sears,e1891e00
+info,registry,people,CJ Briggs,6c3dd24e
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,HK Bennett,94238673
+info,registry,people,JD Gibson,57f520ee
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,OR Newton,4e520f6c
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TM Johnson,917f66da
+info,registry,people,Tyron Davies,6ec463f4
+ball,1,0.1,Auckland,MJ Guptill,GH Worker,HK Bennett,4,0,,,,,,"",""
+ball,1,0.2,Auckland,MJ Guptill,GH Worker,HK Bennett,0,0,,,,,,"",""
+ball,1,0.3,Auckland,MJ Guptill,GH Worker,HK Bennett,0,0,,,,,,caught,MJ Guptill
+ball,1,0.4,Auckland,MS Chapman,GH Worker,HK Bennett,1,0,,,,,,"",""
+ball,1,0.5,Auckland,GH Worker,MS Chapman,HK Bennett,1,0,,,,,,"",""
+ball,1,0.6,Auckland,MS Chapman,GH Worker,HK Bennett,0,0,,,,,,"",""
+ball,1,1.1,Auckland,GH Worker,MS Chapman,OR Newton,0,1,1,,,,,"",""
+ball,1,1.2,Auckland,GH Worker,MS Chapman,OR Newton,0,0,,,,,,"",""
+ball,1,1.3,Auckland,GH Worker,MS Chapman,OR Newton,0,0,,,,,,"",""
+ball,1,1.4,Auckland,GH Worker,MS Chapman,OR Newton,0,0,,,,,,"",""
+ball,1,1.5,Auckland,GH Worker,MS Chapman,OR Newton,0,0,,,,,,"",""
+ball,1,1.6,Auckland,GH Worker,MS Chapman,OR Newton,6,0,,,,,,"",""
+ball,1,1.7,Auckland,GH Worker,MS Chapman,OR Newton,1,0,,,,,,"",""
+ball,1,2.1,Auckland,GH Worker,MS Chapman,HK Bennett,0,0,,,,,,"",""
+ball,1,2.2,Auckland,GH Worker,MS Chapman,HK Bennett,1,0,,,,,,"",""
+ball,1,2.3,Auckland,MS Chapman,GH Worker,HK Bennett,1,0,,,,,,"",""
+ball,1,2.4,Auckland,GH Worker,MS Chapman,HK Bennett,1,0,,,,,,"",""
+ball,1,2.5,Auckland,MS Chapman,GH Worker,HK Bennett,0,1,1,,,,,"",""
+ball,1,2.6,Auckland,MS Chapman,GH Worker,HK Bennett,0,0,,,,,,"",""
+ball,1,2.7,Auckland,MS Chapman,GH Worker,HK Bennett,1,0,,,,,,"",""
+ball,1,3.1,Auckland,MS Chapman,GH Worker,LV van Beek,1,0,,,,,,"",""
+ball,1,3.2,Auckland,GH Worker,MS Chapman,LV van Beek,4,0,,,,,,"",""
+ball,1,3.3,Auckland,GH Worker,MS Chapman,LV van Beek,0,1,,,,1,,"",""
+ball,1,3.4,Auckland,MS Chapman,GH Worker,LV van Beek,0,4,,,,4,,"",""
+ball,1,3.5,Auckland,MS Chapman,GH Worker,LV van Beek,0,0,,,,,,"",""
+ball,1,3.6,Auckland,MS Chapman,GH Worker,LV van Beek,4,0,,,,,,"",""
+ball,1,4.1,Auckland,GH Worker,MS Chapman,OR Newton,2,0,,,,,,"",""
+ball,1,4.2,Auckland,GH Worker,MS Chapman,OR Newton,1,0,,,,,,"",""
+ball,1,4.3,Auckland,MS Chapman,GH Worker,OR Newton,6,0,,,,,,"",""
+ball,1,4.4,Auckland,MS Chapman,GH Worker,OR Newton,2,0,,,,,,"",""
+ball,1,4.5,Auckland,MS Chapman,GH Worker,OR Newton,1,0,,,,,,"",""
+ball,1,4.6,Auckland,GH Worker,MS Chapman,OR Newton,1,0,,,,,,"",""
+ball,1,5.1,Auckland,GH Worker,MS Chapman,LV van Beek,1,0,,,,,,"",""
+ball,1,5.2,Auckland,MS Chapman,GH Worker,LV van Beek,2,0,,,,,,"",""
+ball,1,5.3,Auckland,MS Chapman,GH Worker,LV van Beek,1,0,,,,,,"",""
+ball,1,5.4,Auckland,GH Worker,MS Chapman,LV van Beek,0,0,,,,,,"",""
+ball,1,5.5,Auckland,GH Worker,MS Chapman,LV van Beek,0,0,,,,,,"",""
+ball,1,5.6,Auckland,GH Worker,MS Chapman,LV van Beek,1,0,,,,,,"",""
+ball,1,6.1,Auckland,GH Worker,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,1,6.2,Auckland,MS Chapman,GH Worker,MG Bracewell,1,0,,,,,,"",""
+ball,1,6.3,Auckland,GH Worker,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,1,6.4,Auckland,MS Chapman,GH Worker,MG Bracewell,1,0,,,,,,"",""
+ball,1,6.5,Auckland,GH Worker,MS Chapman,MG Bracewell,0,1,1,,,,,"",""
+ball,1,6.6,Auckland,GH Worker,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,1,6.7,Auckland,MS Chapman,GH Worker,MG Bracewell,1,0,,,,,,"",""
+ball,1,7.1,Auckland,MS Chapman,GH Worker,BV Sears,1,0,,,,,,"",""
+ball,1,7.2,Auckland,GH Worker,MS Chapman,BV Sears,0,0,,,,,,"",""
+ball,1,7.3,Auckland,GH Worker,MS Chapman,BV Sears,0,1,,,,1,,"",""
+ball,1,7.4,Auckland,MS Chapman,GH Worker,BV Sears,0,1,,,,1,,"",""
+ball,1,7.5,Auckland,GH Worker,MS Chapman,BV Sears,0,0,,,,,,caught,GH Worker
+ball,1,7.6,Auckland,MS Chapman,CJ Briggs,BV Sears,1,0,,,,,,"",""
+ball,1,8.1,Auckland,MS Chapman,CJ Briggs,MG Bracewell,1,0,,,,,,run out,CJ Briggs
+ball,1,8.2,Auckland,MS Chapman,RR O'Donnell,MG Bracewell,0,0,,,,,,"",""
+ball,1,8.3,Auckland,MS Chapman,RR O'Donnell,MG Bracewell,0,0,,,,,,"",""
+ball,1,8.4,Auckland,MS Chapman,RR O'Donnell,MG Bracewell,1,0,,,,,,"",""
+ball,1,8.5,Auckland,RR O'Donnell,MS Chapman,MG Bracewell,0,2,2,,,,,"",""
+ball,1,8.6,Auckland,MS Chapman,RR O'Donnell,MG Bracewell,1,0,,,,,,"",""
+ball,1,8.7,Auckland,RR O'Donnell,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,1,9.1,Auckland,MS Chapman,RR O'Donnell,BV Sears,1,0,,,,,,"",""
+ball,1,9.2,Auckland,RR O'Donnell,MS Chapman,BV Sears,0,0,,,,,,"",""
+ball,1,9.3,Auckland,RR O'Donnell,MS Chapman,BV Sears,0,0,,,,,,caught,RR O'Donnell
+ball,1,9.4,Auckland,BJ Horne,MS Chapman,BV Sears,0,1,1,,,,,"",""
+ball,1,9.5,Auckland,BJ Horne,MS Chapman,BV Sears,0,0,,,,,,"",""
+ball,1,9.6,Auckland,BJ Horne,MS Chapman,BV Sears,0,0,,,,,,"",""
+ball,1,9.7,Auckland,BJ Horne,MS Chapman,BV Sears,1,0,,,,,,"",""
+ball,1,10.1,Auckland,BJ Horne,MS Chapman,MG Bracewell,0,1,1,,,,,"",""
+ball,1,10.2,Auckland,BJ Horne,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,1,10.3,Auckland,BJ Horne,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,1,10.4,Auckland,BJ Horne,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,1,10.5,Auckland,BJ Horne,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,1,10.6,Auckland,MS Chapman,BJ Horne,MG Bracewell,1,0,,,,,,"",""
+ball,1,10.7,Auckland,BJ Horne,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,1,11.1,Auckland,MS Chapman,BJ Horne,PF Younghusband,0,0,,,,,,"",""
+ball,1,11.2,Auckland,MS Chapman,BJ Horne,PF Younghusband,2,0,,,,,,"",""
+ball,1,11.3,Auckland,MS Chapman,BJ Horne,PF Younghusband,1,0,,,,,,"",""
+ball,1,11.4,Auckland,BJ Horne,MS Chapman,PF Younghusband,1,0,,,,,,"",""
+ball,1,11.5,Auckland,MS Chapman,BJ Horne,PF Younghusband,2,0,,,,,,"",""
+ball,1,11.6,Auckland,MS Chapman,BJ Horne,PF Younghusband,2,0,,,,,,"",""
+ball,1,12.1,Auckland,BJ Horne,MS Chapman,BV Sears,1,0,,,,,,"",""
+ball,1,12.2,Auckland,MS Chapman,BJ Horne,BV Sears,2,0,,,,,,"",""
+ball,1,12.3,Auckland,MS Chapman,BJ Horne,BV Sears,0,1,,,,1,,"",""
+ball,1,12.4,Auckland,BJ Horne,MS Chapman,BV Sears,6,0,,,,,,"",""
+ball,1,12.5,Auckland,BJ Horne,MS Chapman,BV Sears,0,0,,,,,,caught,BJ Horne
+ball,1,12.6,Auckland,MS Chapman,SM Solia,BV Sears,1,0,,,,,,"",""
+ball,1,13.1,Auckland,MS Chapman,SM Solia,MG Bracewell,0,0,,,,,,"",""
+ball,1,13.2,Auckland,MS Chapman,SM Solia,MG Bracewell,2,0,,,,,,"",""
+ball,1,13.3,Auckland,MS Chapman,SM Solia,MG Bracewell,1,0,,,,,,"",""
+ball,1,13.4,Auckland,SM Solia,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,1,13.5,Auckland,SM Solia,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,1,13.6,Auckland,SM Solia,MS Chapman,MG Bracewell,4,0,,,,,,"",""
+ball,1,14.1,Auckland,MS Chapman,SM Solia,BV Sears,0,0,,,,,,"",""
+ball,1,14.2,Auckland,MS Chapman,SM Solia,BV Sears,1,0,,,,,,"",""
+ball,1,14.3,Auckland,SM Solia,MS Chapman,BV Sears,1,0,,,,,,"",""
+ball,1,14.4,Auckland,MS Chapman,SM Solia,BV Sears,1,0,,,,,,"",""
+ball,1,14.5,Auckland,SM Solia,MS Chapman,BV Sears,0,1,,,,1,,"",""
+ball,1,14.6,Auckland,MS Chapman,SM Solia,BV Sears,4,0,,,,,,"",""
+ball,1,15.1,Auckland,SM Solia,MS Chapman,PF Younghusband,1,0,,,,,,"",""
+ball,1,15.2,Auckland,MS Chapman,SM Solia,PF Younghusband,0,0,,,,,,"",""
+ball,1,15.3,Auckland,MS Chapman,SM Solia,PF Younghusband,1,0,,,,,,"",""
+ball,1,15.4,Auckland,SM Solia,MS Chapman,PF Younghusband,1,0,,,,,,"",""
+ball,1,15.5,Auckland,MS Chapman,SM Solia,PF Younghusband,1,0,,,,,,"",""
+ball,1,15.6,Auckland,SM Solia,MS Chapman,PF Younghusband,0,0,,,,,,"",""
+ball,1,16.1,Auckland,MS Chapman,SM Solia,LV van Beek,4,0,,,,,,"",""
+ball,1,16.2,Auckland,MS Chapman,SM Solia,LV van Beek,0,0,,,,,,"",""
+ball,1,16.3,Auckland,MS Chapman,SM Solia,LV van Beek,0,0,,,,,,caught,MS Chapman
+ball,1,16.4,Auckland,SM Solia,LH Ferguson,LV van Beek,0,0,,,,,,"",""
+ball,1,16.5,Auckland,SM Solia,LH Ferguson,LV van Beek,0,0,,,,,,"",""
+ball,1,16.6,Auckland,SM Solia,LH Ferguson,LV van Beek,1,0,,,,,,"",""
+ball,1,17.1,Auckland,SM Solia,LH Ferguson,PF Younghusband,0,0,,,,,,run out,LH Ferguson
+ball,1,17.2,Auckland,L Delport,SM Solia,PF Younghusband,0,0,,,,,,"",""
+ball,1,17.3,Auckland,L Delport,SM Solia,PF Younghusband,0,0,,,,,,caught,L Delport
+ball,1,17.4,Auckland,SM Solia,A Ashok,PF Younghusband,0,0,,,,,,"",""
+ball,1,17.5,Auckland,SM Solia,A Ashok,PF Younghusband,2,0,,,,,,"",""
+ball,1,17.6,Auckland,SM Solia,A Ashok,PF Younghusband,4,0,,,,,,"",""
+ball,1,18.1,Auckland,A Ashok,SM Solia,HK Bennett,0,0,,,,,,"",""
+ball,1,18.2,Auckland,A Ashok,SM Solia,HK Bennett,1,0,,,,,,"",""
+ball,1,18.3,Auckland,SM Solia,A Ashok,HK Bennett,2,0,,,,,,"",""
+ball,1,18.4,Auckland,SM Solia,A Ashok,HK Bennett,1,0,,,,,,"",""
+ball,1,18.5,Auckland,A Ashok,SM Solia,HK Bennett,1,0,,,,,,"",""
+ball,1,18.6,Auckland,SM Solia,A Ashok,HK Bennett,2,0,,,,,,"",""
+ball,1,19.1,Auckland,A Ashok,SM Solia,OR Newton,2,0,,,,,,"",""
+ball,1,19.2,Auckland,A Ashok,SM Solia,OR Newton,1,0,,,,,,"",""
+ball,1,19.3,Auckland,SM Solia,A Ashok,OR Newton,0,0,,,,,,bowled,SM Solia
+ball,1,19.4,Auckland,BG Lister,A Ashok,OR Newton,1,0,,,,,,"",""
+ball,1,19.5,Auckland,A Ashok,BG Lister,OR Newton,1,0,,,,,,"",""
+ball,1,19.6,Auckland,BG Lister,A Ashok,OR Newton,0,0,,,,,,"",""
+ball,2,0.1,Wellington,FH Allen,TB Robinson,BG Lister,0,0,,,,,,"",""
+ball,2,0.2,Wellington,FH Allen,TB Robinson,BG Lister,0,0,,,,,,caught,FH Allen
+ball,2,0.3,Wellington,LV van Beek,TB Robinson,BG Lister,0,0,,,,,,"",""
+ball,2,0.4,Wellington,LV van Beek,TB Robinson,BG Lister,0,0,,,,,,"",""
+ball,2,0.5,Wellington,LV van Beek,TB Robinson,BG Lister,0,0,,,,,,"",""
+ball,2,0.6,Wellington,LV van Beek,TB Robinson,BG Lister,0,1,1,,,,,"",""
+ball,2,0.7,Wellington,LV van Beek,TB Robinson,BG Lister,0,0,,,,,,caught,LV van Beek
+ball,2,1.1,Wellington,TB Robinson,TM Johnson,LH Ferguson,0,0,,,,,,"",""
+ball,2,1.2,Wellington,TB Robinson,TM Johnson,LH Ferguson,4,0,,,,,,"",""
+ball,2,1.3,Wellington,TB Robinson,TM Johnson,LH Ferguson,4,0,,,,,,"",""
+ball,2,1.4,Wellington,TB Robinson,TM Johnson,LH Ferguson,0,0,,,,,,"",""
+ball,2,1.5,Wellington,TB Robinson,TM Johnson,LH Ferguson,1,0,,,,,,"",""
+ball,2,1.6,Wellington,TM Johnson,TB Robinson,LH Ferguson,0,0,,,,,,"",""
+ball,2,2.1,Wellington,TB Robinson,TM Johnson,BG Lister,0,0,,,,,,"",""
+ball,2,2.2,Wellington,TB Robinson,TM Johnson,BG Lister,0,0,,,,,,bowled,TB Robinson
+ball,2,2.3,Wellington,MG Bracewell,TM Johnson,BG Lister,0,0,,,,,,"",""
+ball,2,2.4,Wellington,MG Bracewell,TM Johnson,BG Lister,0,0,,,,,,"",""
+ball,2,2.5,Wellington,MG Bracewell,TM Johnson,BG Lister,2,0,,,,,,"",""
+ball,2,2.6,Wellington,MG Bracewell,TM Johnson,BG Lister,2,0,,,,,,"",""
+ball,2,3.1,Wellington,TM Johnson,MG Bracewell,SM Solia,1,0,,,,,,"",""
+ball,2,3.2,Wellington,MG Bracewell,TM Johnson,SM Solia,1,0,,,,,,"",""
+ball,2,3.3,Wellington,TM Johnson,MG Bracewell,SM Solia,1,0,,,,,,"",""
+ball,2,3.4,Wellington,MG Bracewell,TM Johnson,SM Solia,0,0,,,,,,"",""
+ball,2,3.5,Wellington,MG Bracewell,TM Johnson,SM Solia,0,0,,,,,,"",""
+ball,2,3.6,Wellington,MG Bracewell,TM Johnson,SM Solia,0,0,,,,,,"",""
+ball,2,4.1,Wellington,TM Johnson,MG Bracewell,BG Lister,0,0,,,,,,"",""
+ball,2,4.2,Wellington,TM Johnson,MG Bracewell,BG Lister,4,0,,,,,,"",""
+ball,2,4.3,Wellington,TM Johnson,MG Bracewell,BG Lister,0,4,,,,4,,"",""
+ball,2,4.4,Wellington,TM Johnson,MG Bracewell,BG Lister,0,0,,,,,,"",""
+ball,2,4.5,Wellington,TM Johnson,MG Bracewell,BG Lister,1,0,,,,,,"",""
+ball,2,4.6,Wellington,MG Bracewell,TM Johnson,BG Lister,4,0,,,,,,"",""
+ball,2,5.1,Wellington,TM Johnson,MG Bracewell,L Delport,0,0,,,,,,"",""
+ball,2,5.2,Wellington,TM Johnson,MG Bracewell,L Delport,0,0,,,,,,"",""
+ball,2,5.3,Wellington,TM Johnson,MG Bracewell,L Delport,0,0,,,,,,"",""
+ball,2,5.4,Wellington,TM Johnson,MG Bracewell,L Delport,6,0,,,,,,"",""
+ball,2,5.5,Wellington,TM Johnson,MG Bracewell,L Delport,1,0,,,,,,"",""
+ball,2,5.6,Wellington,MG Bracewell,TM Johnson,L Delport,0,0,,,,,,"",""
+ball,2,6.1,Wellington,TM Johnson,MG Bracewell,LH Ferguson,4,0,,,,,,"",""
+ball,2,6.2,Wellington,TM Johnson,MG Bracewell,LH Ferguson,0,0,,,,,,"",""
+ball,2,6.3,Wellington,TM Johnson,MG Bracewell,LH Ferguson,0,0,,,,,,"",""
+ball,2,6.4,Wellington,TM Johnson,MG Bracewell,LH Ferguson,0,0,,,,,,"",""
+ball,2,6.5,Wellington,TM Johnson,MG Bracewell,LH Ferguson,1,0,,,,,,"",""
+ball,2,6.6,Wellington,MG Bracewell,TM Johnson,LH Ferguson,1,0,,,,,,"",""
+ball,2,7.1,Wellington,MG Bracewell,TM Johnson,SM Solia,0,0,,,,,,"",""
+ball,2,7.2,Wellington,MG Bracewell,TM Johnson,SM Solia,4,0,,,,,,"",""
+ball,2,7.3,Wellington,MG Bracewell,TM Johnson,SM Solia,1,0,,,,,,"",""
+ball,2,7.4,Wellington,TM Johnson,MG Bracewell,SM Solia,0,0,,,,,,"",""
+ball,2,7.5,Wellington,TM Johnson,MG Bracewell,SM Solia,4,0,,,,,,"",""
+ball,2,7.6,Wellington,TM Johnson,MG Bracewell,SM Solia,1,0,,,,,,"",""
+ball,2,8.1,Wellington,TM Johnson,MG Bracewell,A Ashok,0,0,,,,,,bowled,TM Johnson
+ball,2,8.2,Wellington,NG Smith,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,8.3,Wellington,NG Smith,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,8.4,Wellington,NG Smith,MG Bracewell,A Ashok,0,0,,,,,,lbw,NG Smith
+ball,2,8.5,Wellington,JD Gibson,MG Bracewell,A Ashok,1,0,,,,,,"",""
+ball,2,8.6,Wellington,MG Bracewell,JD Gibson,A Ashok,1,0,,,,,,"",""
+ball,2,9.1,Wellington,MG Bracewell,JD Gibson,L Delport,0,0,,,,,,"",""
+ball,2,9.2,Wellington,MG Bracewell,JD Gibson,L Delport,1,0,,,,,,"",""
+ball,2,9.3,Wellington,JD Gibson,MG Bracewell,L Delport,0,0,,,,,,"",""
+ball,2,9.4,Wellington,JD Gibson,MG Bracewell,L Delport,1,0,,,,,,"",""
+ball,2,9.5,Wellington,MG Bracewell,JD Gibson,L Delport,1,0,,,,,,"",""
+ball,2,9.6,Wellington,JD Gibson,MG Bracewell,L Delport,1,0,,,,,,"",""
+ball,2,10.1,Wellington,JD Gibson,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,10.2,Wellington,JD Gibson,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,10.3,Wellington,JD Gibson,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,10.4,Wellington,JD Gibson,MG Bracewell,A Ashok,0,1,,1,,,,"",""
+ball,2,10.5,Wellington,JD Gibson,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,10.6,Wellington,JD Gibson,MG Bracewell,A Ashok,1,0,,,,,,"",""
+ball,2,10.7,Wellington,MG Bracewell,JD Gibson,A Ashok,1,0,,,,,,"",""
+ball,2,11.1,Wellington,MG Bracewell,JD Gibson,L Delport,1,0,,,,,,"",""
+ball,2,11.2,Wellington,JD Gibson,MG Bracewell,L Delport,0,0,,,,,,"",""
+ball,2,11.3,Wellington,JD Gibson,MG Bracewell,L Delport,1,0,,,,,,"",""
+ball,2,11.4,Wellington,MG Bracewell,JD Gibson,L Delport,1,0,,,,,,"",""
+ball,2,11.5,Wellington,JD Gibson,MG Bracewell,L Delport,0,0,,,,,,"",""
+ball,2,11.6,Wellington,JD Gibson,MG Bracewell,L Delport,0,0,,,,,,caught,JD Gibson
+ball,2,12.1,Wellington,PF Younghusband,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,12.2,Wellington,PF Younghusband,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,12.3,Wellington,PF Younghusband,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,12.4,Wellington,PF Younghusband,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,12.5,Wellington,PF Younghusband,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,12.6,Wellington,PF Younghusband,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,13.1,Wellington,MG Bracewell,PF Younghusband,MS Chapman,2,0,,,,,,"",""
+ball,2,13.2,Wellington,MG Bracewell,PF Younghusband,MS Chapman,1,0,,,,,,"",""
+ball,2,13.3,Wellington,PF Younghusband,MG Bracewell,MS Chapman,1,0,,,,,,"",""
+ball,2,13.4,Wellington,MG Bracewell,PF Younghusband,MS Chapman,0,0,,,,,,"",""
+ball,2,13.5,Wellington,MG Bracewell,PF Younghusband,MS Chapman,0,0,,,,,,"",""
+ball,2,13.6,Wellington,MG Bracewell,PF Younghusband,MS Chapman,1,0,,,,,,"",""
+ball,2,14.1,Wellington,MG Bracewell,PF Younghusband,A Ashok,1,0,,,,,,"",""
+ball,2,14.2,Wellington,PF Younghusband,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,14.3,Wellington,PF Younghusband,MG Bracewell,A Ashok,1,0,,,,,,"",""
+ball,2,14.4,Wellington,MG Bracewell,PF Younghusband,A Ashok,1,0,,,,,,"",""
+ball,2,14.5,Wellington,PF Younghusband,MG Bracewell,A Ashok,0,0,,,,,,stumped,PF Younghusband
+ball,2,14.6,Wellington,OR Newton,MG Bracewell,A Ashok,0,0,,,,,,"",""
+ball,2,15.1,Wellington,MG Bracewell,OR Newton,MS Chapman,0,0,,,,,,"",""
+ball,2,15.2,Wellington,MG Bracewell,OR Newton,MS Chapman,6,0,,,,,,"",""
+ball,2,15.3,Wellington,MG Bracewell,OR Newton,MS Chapman,1,0,,,,,,"",""
+ball,2,15.4,Wellington,OR Newton,MG Bracewell,MS Chapman,2,0,,,,,,"",""
+ball,2,15.5,Wellington,OR Newton,MG Bracewell,MS Chapman,4,0,,,,,,"",""
+ball,2,15.6,Wellington,OR Newton,MG Bracewell,MS Chapman,0,1,,,1,,,"",""
+ball,2,16.1,Wellington,OR Newton,MG Bracewell,LH Ferguson,0,0,,,,,,"",""
+ball,2,16.2,Wellington,OR Newton,MG Bracewell,LH Ferguson,2,0,,,,,,"",""
+ball,2,16.3,Wellington,OR Newton,MG Bracewell,LH Ferguson,0,0,,,,,,"",""
+ball,2,16.4,Wellington,OR Newton,MG Bracewell,LH Ferguson,0,0,,,,,,"",""
+ball,2,16.5,Wellington,OR Newton,MG Bracewell,LH Ferguson,1,0,,,,,,"",""
+ball,2,16.6,Wellington,MG Bracewell,OR Newton,LH Ferguson,1,0,,,,,,"",""
+ball,2,17.1,Wellington,MG Bracewell,OR Newton,L Delport,1,0,,,,,,"",""
+ball,2,17.2,Wellington,OR Newton,MG Bracewell,L Delport,0,0,,,,,,caught,OR Newton
+ball,2,17.3,Wellington,MG Bracewell,BV Sears,L Delport,0,0,,,,,,"",""
+ball,2,17.4,Wellington,MG Bracewell,BV Sears,L Delport,2,0,,,,,,"",""
+ball,2,17.5,Wellington,MG Bracewell,BV Sears,L Delport,2,0,,,,,,"",""
+ball,2,17.6,Wellington,MG Bracewell,BV Sears,L Delport,1,0,,,,,,"",""
+ball,2,18.1,Wellington,MG Bracewell,BV Sears,LH Ferguson,6,0,,,,,,"",""
+ball,2,18.2,Wellington,MG Bracewell,BV Sears,LH Ferguson,0,2,,,,2,,"",""
+ball,2,18.3,Wellington,MG Bracewell,BV Sears,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.4,Wellington,MG Bracewell,BV Sears,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.5,Wellington,BV Sears,MG Bracewell,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.6,Wellington,MG Bracewell,BV Sears,LH Ferguson,1,0,,,,,,"",""
+ball,2,19.1,Wellington,MG Bracewell,BV Sears,BG Lister,2,0,,,,,,"",""
+ball,2,19.2,Wellington,MG Bracewell,BV Sears,BG Lister,2,0,,,,,,"",""
+ball,2,19.3,Wellington,MG Bracewell,BV Sears,BG Lister,4,0,,,,,,"",""
+ball,2,19.4,Wellington,MG Bracewell,BV Sears,BG Lister,1,0,,,,,,"",""
+ball,2,19.5,Wellington,BV Sears,MG Bracewell,BG Lister,0,0,,,,,,"",""
+ball,2,19.6,Wellington,BV Sears,MG Bracewell,BG Lister,4,0,,,,,,"",""

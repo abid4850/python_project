@@ -1,0 +1,331 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Western Province
+info,gender,male
+info,season,2024/25
+info,date,2024/10/25
+info,event,CSA T20 Challenge
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Western Province
+info,toss_decision,field
+info,player_of_match,AL Phehlukwayo
+info,player_of_match,G Coetzee
+info,umpire,A Steenkamp
+info,umpire,A Jacobs
+info,reserve_umpire,MN Gampu
+info,tv_umpire,Siphelele Gasa
+info,match_referee,S Wadvalla
+info,winner,Titans
+info,winner_runs,19
+info,player,Titans,LG Pretorius
+info,player,Titans,R Moonsamy
+info,player,Titans,Dayyaan Galiem
+info,player,Titans,H Klaasen
+info,player,Titans,BS Makhanya
+info,player,Titans,D Ferreira
+info,player,Titans,AL Phehlukwayo
+info,player,Titans,C Bosch
+info,player,Titans,G Coetzee
+info,player,Titans,CJ Dala
+info,player,Titans,T Shamsi
+info,player,Western Province,JA Bird
+info,player,Western Province,D Smith
+info,player,Western Province,SV Kitime
+info,player,Western Province,EM Moore
+info,player,Western Province,M Mpongwana
+info,player,Western Province,GF Linde
+info,player,Western Province,O Whitehead
+info,player,Western Province,KI Simmonds
+info,player,Western Province,BE Hendricks
+info,player,Western Province,M Nabe
+info,player,Western Province,W Bedja
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,C Bosch,172dff15
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Smith,5d69930d
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,EM Moore,6ca6d885
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GF Linde,e5437608
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JA Bird,572f55fb
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Mpongwana,547c5509
+info,registry,people,M Nabe,6ed11905
+info,registry,people,MN Gampu,41597619
+info,registry,people,O Whitehead,e97b9d54
+info,registry,people,R Moonsamy,29e676b0
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SV Kitime,9ca20359
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,W Bedja,f29dfbc0
+ball,1,0.1,Titans,LG Pretorius,R Moonsamy,KI Simmonds,0,0,,,,,,"",""
+ball,1,0.2,Titans,LG Pretorius,R Moonsamy,KI Simmonds,4,0,,,,,,"",""
+ball,1,0.3,Titans,LG Pretorius,R Moonsamy,KI Simmonds,4,0,,,,,,"",""
+ball,1,0.4,Titans,LG Pretorius,R Moonsamy,KI Simmonds,1,0,,,,,,"",""
+ball,1,0.5,Titans,R Moonsamy,LG Pretorius,KI Simmonds,0,0,,,,,,"",""
+ball,1,0.6,Titans,R Moonsamy,LG Pretorius,KI Simmonds,0,0,,,,,,"",""
+ball,1,1.1,Titans,LG Pretorius,R Moonsamy,BE Hendricks,4,0,,,,,,"",""
+ball,1,1.2,Titans,LG Pretorius,R Moonsamy,BE Hendricks,0,0,,,,,,"",""
+ball,1,1.3,Titans,LG Pretorius,R Moonsamy,BE Hendricks,0,1,,,,1,,"",""
+ball,1,1.4,Titans,R Moonsamy,LG Pretorius,BE Hendricks,1,0,,,,,,"",""
+ball,1,1.5,Titans,LG Pretorius,R Moonsamy,BE Hendricks,0,0,,,,,,"",""
+ball,1,1.6,Titans,LG Pretorius,R Moonsamy,BE Hendricks,0,1,1,,,,,"",""
+ball,1,1.7,Titans,LG Pretorius,R Moonsamy,BE Hendricks,0,0,,,,,,"",""
+ball,1,2.1,Titans,R Moonsamy,LG Pretorius,M Mpongwana,0,0,,,,,,"",""
+ball,1,2.2,Titans,R Moonsamy,LG Pretorius,M Mpongwana,0,0,,,,,,"",""
+ball,1,2.3,Titans,R Moonsamy,LG Pretorius,M Mpongwana,0,0,,,,,,"",""
+ball,1,2.4,Titans,R Moonsamy,LG Pretorius,M Mpongwana,4,0,,,,,,"",""
+ball,1,2.5,Titans,R Moonsamy,LG Pretorius,M Mpongwana,0,0,,,,,,"",""
+ball,1,2.6,Titans,R Moonsamy,LG Pretorius,M Mpongwana,4,0,,,,,,"",""
+ball,1,3.1,Titans,LG Pretorius,R Moonsamy,W Bedja,0,0,,,,,,"",""
+ball,1,3.2,Titans,LG Pretorius,R Moonsamy,W Bedja,0,0,,,,,,"",""
+ball,1,3.3,Titans,LG Pretorius,R Moonsamy,W Bedja,6,0,,,,,,"",""
+ball,1,3.4,Titans,LG Pretorius,R Moonsamy,W Bedja,1,0,,,,,,"",""
+ball,1,3.5,Titans,R Moonsamy,LG Pretorius,W Bedja,0,1,,,,1,,"",""
+ball,1,3.6,Titans,LG Pretorius,R Moonsamy,W Bedja,4,0,,,,,,"",""
+ball,1,4.1,Titans,R Moonsamy,LG Pretorius,BE Hendricks,4,0,,,,,,"",""
+ball,1,4.2,Titans,R Moonsamy,LG Pretorius,BE Hendricks,0,0,,,,,,"",""
+ball,1,4.3,Titans,R Moonsamy,LG Pretorius,BE Hendricks,4,0,,,,,,"",""
+ball,1,4.4,Titans,R Moonsamy,LG Pretorius,BE Hendricks,1,0,,,,,,"",""
+ball,1,4.5,Titans,LG Pretorius,R Moonsamy,BE Hendricks,0,0,,,,,,"",""
+ball,1,4.6,Titans,LG Pretorius,R Moonsamy,BE Hendricks,0,0,,,,,,caught,LG Pretorius
+ball,1,5.1,Titans,R Moonsamy,Dayyaan Galiem,KI Simmonds,0,0,,,,,,"",""
+ball,1,5.2,Titans,R Moonsamy,Dayyaan Galiem,KI Simmonds,0,0,,,,,,"",""
+ball,1,5.3,Titans,R Moonsamy,Dayyaan Galiem,KI Simmonds,0,0,,,,,,"",""
+ball,1,5.4,Titans,R Moonsamy,Dayyaan Galiem,KI Simmonds,0,0,,,,,,"",""
+ball,1,5.5,Titans,R Moonsamy,Dayyaan Galiem,KI Simmonds,0,0,,,,,,"",""
+ball,1,5.6,Titans,R Moonsamy,Dayyaan Galiem,KI Simmonds,0,0,,,,,,"",""
+ball,1,6.1,Titans,Dayyaan Galiem,R Moonsamy,GF Linde,1,0,,,,,,"",""
+ball,1,6.2,Titans,R Moonsamy,Dayyaan Galiem,GF Linde,6,0,,,,,,"",""
+ball,1,6.3,Titans,R Moonsamy,Dayyaan Galiem,GF Linde,1,0,,,,,,"",""
+ball,1,6.4,Titans,Dayyaan Galiem,R Moonsamy,GF Linde,0,0,,,,,,"",""
+ball,1,6.5,Titans,Dayyaan Galiem,R Moonsamy,GF Linde,1,0,,,,,,"",""
+ball,1,6.6,Titans,R Moonsamy,Dayyaan Galiem,GF Linde,1,0,,,,,,"",""
+ball,1,7.1,Titans,R Moonsamy,Dayyaan Galiem,KI Simmonds,1,0,,,,,,"",""
+ball,1,7.2,Titans,Dayyaan Galiem,R Moonsamy,KI Simmonds,0,0,,,,,,"",""
+ball,1,7.3,Titans,Dayyaan Galiem,R Moonsamy,KI Simmonds,1,0,,,,,,"",""
+ball,1,7.4,Titans,R Moonsamy,Dayyaan Galiem,KI Simmonds,1,0,,,,,,"",""
+ball,1,7.5,Titans,Dayyaan Galiem,R Moonsamy,KI Simmonds,0,0,,,,,,"",""
+ball,1,7.6,Titans,Dayyaan Galiem,R Moonsamy,KI Simmonds,0,0,,,,,,"",""
+ball,1,8.1,Titans,R Moonsamy,Dayyaan Galiem,M Mpongwana,1,1,,1,,,,"",""
+ball,1,8.2,Titans,Dayyaan Galiem,R Moonsamy,M Mpongwana,1,0,,,,,,"",""
+ball,1,8.3,Titans,R Moonsamy,Dayyaan Galiem,M Mpongwana,0,0,,,,,,bowled,R Moonsamy
+ball,1,8.4,Titans,H Klaasen,Dayyaan Galiem,M Mpongwana,1,0,,,,,,"",""
+ball,1,8.5,Titans,Dayyaan Galiem,H Klaasen,M Mpongwana,0,0,,,,,,"",""
+ball,1,8.6,Titans,Dayyaan Galiem,H Klaasen,M Mpongwana,4,0,,,,,,"",""
+ball,1,8.7,Titans,Dayyaan Galiem,H Klaasen,M Mpongwana,4,0,,,,,,"",""
+ball,1,9.1,Titans,H Klaasen,Dayyaan Galiem,KI Simmonds,0,0,,,,,,"",""
+ball,1,9.2,Titans,H Klaasen,Dayyaan Galiem,KI Simmonds,1,0,,,,,,"",""
+ball,1,9.3,Titans,Dayyaan Galiem,H Klaasen,KI Simmonds,1,0,,,,,,"",""
+ball,1,9.4,Titans,H Klaasen,Dayyaan Galiem,KI Simmonds,4,0,,,,,,"",""
+ball,1,9.5,Titans,H Klaasen,Dayyaan Galiem,KI Simmonds,1,0,,,,,,"",""
+ball,1,9.6,Titans,Dayyaan Galiem,H Klaasen,KI Simmonds,1,0,,,,,,"",""
+ball,1,10.1,Titans,Dayyaan Galiem,H Klaasen,W Bedja,1,0,,,,,,"",""
+ball,1,10.2,Titans,H Klaasen,Dayyaan Galiem,W Bedja,0,0,,,,,,"",""
+ball,1,10.3,Titans,H Klaasen,Dayyaan Galiem,W Bedja,6,0,,,,,,"",""
+ball,1,10.4,Titans,H Klaasen,Dayyaan Galiem,W Bedja,0,0,,,,,,caught,H Klaasen
+ball,1,10.5,Titans,BS Makhanya,Dayyaan Galiem,W Bedja,0,0,,,,,,"",""
+ball,1,10.6,Titans,BS Makhanya,Dayyaan Galiem,W Bedja,1,0,,,,,,"",""
+ball,1,11.1,Titans,BS Makhanya,Dayyaan Galiem,GF Linde,1,0,,,,,,"",""
+ball,1,11.2,Titans,Dayyaan Galiem,BS Makhanya,GF Linde,6,0,,,,,,"",""
+ball,1,11.3,Titans,Dayyaan Galiem,BS Makhanya,GF Linde,0,0,,,,,,"",""
+ball,1,11.4,Titans,Dayyaan Galiem,BS Makhanya,GF Linde,0,0,,,,,,"",""
+ball,1,11.5,Titans,Dayyaan Galiem,BS Makhanya,GF Linde,0,0,,,,,,"",""
+ball,1,11.6,Titans,Dayyaan Galiem,BS Makhanya,GF Linde,1,0,,,,,,"",""
+ball,1,12.1,Titans,Dayyaan Galiem,BS Makhanya,O Whitehead,1,0,,,,,,"",""
+ball,1,12.2,Titans,BS Makhanya,Dayyaan Galiem,O Whitehead,1,0,,,,,,"",""
+ball,1,12.3,Titans,Dayyaan Galiem,BS Makhanya,O Whitehead,1,0,,,,,,"",""
+ball,1,12.4,Titans,BS Makhanya,Dayyaan Galiem,O Whitehead,1,0,,,,,,"",""
+ball,1,12.5,Titans,Dayyaan Galiem,BS Makhanya,O Whitehead,4,0,,,,,,"",""
+ball,1,12.6,Titans,Dayyaan Galiem,BS Makhanya,O Whitehead,0,0,,,,,,caught,Dayyaan Galiem
+ball,1,13.1,Titans,BS Makhanya,D Ferreira,M Nabe,0,1,1,,,,,"",""
+ball,1,13.2,Titans,BS Makhanya,D Ferreira,M Nabe,2,0,,,,,,"",""
+ball,1,13.3,Titans,BS Makhanya,D Ferreira,M Nabe,1,0,,,,,,"",""
+ball,1,13.4,Titans,D Ferreira,BS Makhanya,M Nabe,1,0,,,,,,"",""
+ball,1,13.5,Titans,BS Makhanya,D Ferreira,M Nabe,2,0,,,,,,"",""
+ball,1,13.6,Titans,BS Makhanya,D Ferreira,M Nabe,1,0,,,,,,"",""
+ball,1,13.7,Titans,D Ferreira,BS Makhanya,M Nabe,2,0,,,,,,"",""
+ball,1,14.1,Titans,BS Makhanya,D Ferreira,O Whitehead,1,0,,,,,,"",""
+ball,1,14.2,Titans,D Ferreira,BS Makhanya,O Whitehead,2,0,,,,,,"",""
+ball,1,14.3,Titans,D Ferreira,BS Makhanya,O Whitehead,2,0,,,,,,"",""
+ball,1,14.4,Titans,D Ferreira,BS Makhanya,O Whitehead,0,1,1,,,,,"",""
+ball,1,14.5,Titans,D Ferreira,BS Makhanya,O Whitehead,6,0,,,,,,"",""
+ball,1,14.6,Titans,D Ferreira,BS Makhanya,O Whitehead,0,0,,,,,,"",""
+ball,1,14.7,Titans,D Ferreira,BS Makhanya,O Whitehead,1,0,,,,,,"",""
+ball,1,15.1,Titans,D Ferreira,BS Makhanya,M Nabe,1,0,,,,,,"",""
+ball,1,15.2,Titans,BS Makhanya,D Ferreira,M Nabe,0,0,,,,,,"",""
+ball,1,15.3,Titans,BS Makhanya,D Ferreira,M Nabe,0,0,,,,,,"",""
+ball,1,15.4,Titans,BS Makhanya,D Ferreira,M Nabe,0,1,,,,1,,"",""
+ball,1,15.5,Titans,D Ferreira,BS Makhanya,M Nabe,1,0,,,,,,"",""
+ball,1,15.6,Titans,BS Makhanya,D Ferreira,M Nabe,0,1,1,,,,,"",""
+ball,1,15.7,Titans,BS Makhanya,D Ferreira,M Nabe,0,0,,,,,,caught,BS Makhanya
+ball,1,16.1,Titans,D Ferreira,AL Phehlukwayo,BE Hendricks,0,1,1,,,,,"",""
+ball,1,16.2,Titans,D Ferreira,AL Phehlukwayo,BE Hendricks,1,0,,,,,,"",""
+ball,1,16.3,Titans,AL Phehlukwayo,D Ferreira,BE Hendricks,0,0,,,,,,"",""
+ball,1,16.4,Titans,AL Phehlukwayo,D Ferreira,BE Hendricks,1,0,,,,,,"",""
+ball,1,16.5,Titans,D Ferreira,AL Phehlukwayo,BE Hendricks,1,0,,,,,,"",""
+ball,1,16.6,Titans,AL Phehlukwayo,D Ferreira,BE Hendricks,0,1,,,,1,,"",""
+ball,1,16.7,Titans,D Ferreira,AL Phehlukwayo,BE Hendricks,0,1,1,,,,,"",""
+ball,1,16.8,Titans,D Ferreira,AL Phehlukwayo,BE Hendricks,1,1,,1,,,,"",""
+ball,1,16.9,Titans,AL Phehlukwayo,D Ferreira,BE Hendricks,1,0,,,,,,"",""
+ball,1,17.1,Titans,AL Phehlukwayo,D Ferreira,W Bedja,6,0,,,,,,"",""
+ball,1,17.2,Titans,AL Phehlukwayo,D Ferreira,W Bedja,4,0,,,,,,"",""
+ball,1,17.3,Titans,AL Phehlukwayo,D Ferreira,W Bedja,2,0,,,,,,"",""
+ball,1,17.4,Titans,AL Phehlukwayo,D Ferreira,W Bedja,0,1,1,,,,,"",""
+ball,1,17.5,Titans,AL Phehlukwayo,D Ferreira,W Bedja,0,1,1,,,,,"",""
+ball,1,17.6,Titans,AL Phehlukwayo,D Ferreira,W Bedja,4,0,,,,,,"",""
+ball,1,17.7,Titans,AL Phehlukwayo,D Ferreira,W Bedja,2,0,,,,,,"",""
+ball,1,17.8,Titans,AL Phehlukwayo,D Ferreira,W Bedja,1,0,,,,,,"",""
+ball,1,18.1,Titans,AL Phehlukwayo,D Ferreira,BE Hendricks,4,0,,,,,,"",""
+ball,1,18.2,Titans,AL Phehlukwayo,D Ferreira,BE Hendricks,1,0,,,,,,"",""
+ball,1,18.3,Titans,D Ferreira,AL Phehlukwayo,BE Hendricks,0,0,,,,,,caught,D Ferreira
+ball,1,18.4,Titans,C Bosch,AL Phehlukwayo,BE Hendricks,2,0,,,,,,"",""
+ball,1,18.5,Titans,C Bosch,AL Phehlukwayo,BE Hendricks,0,1,1,,,,,"",""
+ball,1,18.6,Titans,C Bosch,AL Phehlukwayo,BE Hendricks,1,0,,,,,,"",""
+ball,1,18.7,Titans,AL Phehlukwayo,C Bosch,BE Hendricks,6,0,,,,,,"",""
+ball,1,19.1,Titans,C Bosch,AL Phehlukwayo,M Mpongwana,0,0,,,,,,caught,C Bosch
+ball,1,19.2,Titans,G Coetzee,AL Phehlukwayo,M Mpongwana,0,0,,,,,,"",""
+ball,1,19.3,Titans,G Coetzee,AL Phehlukwayo,M Mpongwana,1,0,,,,,,"",""
+ball,1,19.4,Titans,AL Phehlukwayo,G Coetzee,M Mpongwana,4,0,,,,,,"",""
+ball,1,19.5,Titans,AL Phehlukwayo,G Coetzee,M Mpongwana,2,0,,,,,,"",""
+ball,1,19.6,Titans,AL Phehlukwayo,G Coetzee,M Mpongwana,1,0,,,,,,"",""
+ball,2,0.1,Western Province,JA Bird,D Smith,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,0.2,Western Province,JA Bird,D Smith,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,0.3,Western Province,JA Bird,D Smith,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,0.4,Western Province,D Smith,JA Bird,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,0.5,Western Province,D Smith,JA Bird,Dayyaan Galiem,4,0,,,,,,"",""
+ball,2,0.6,Western Province,D Smith,JA Bird,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,1.1,Western Province,JA Bird,D Smith,CJ Dala,0,1,1,,,,,"",""
+ball,2,1.2,Western Province,JA Bird,D Smith,CJ Dala,0,0,,,,,,"",""
+ball,2,1.3,Western Province,JA Bird,D Smith,CJ Dala,1,0,,,,,,"",""
+ball,2,1.4,Western Province,D Smith,JA Bird,CJ Dala,4,0,,,,,,"",""
+ball,2,1.5,Western Province,D Smith,JA Bird,CJ Dala,1,0,,,,,,"",""
+ball,2,1.6,Western Province,JA Bird,D Smith,CJ Dala,0,0,,,,,,"",""
+ball,2,1.7,Western Province,JA Bird,D Smith,CJ Dala,4,0,,,,,,"",""
+ball,2,2.1,Western Province,D Smith,JA Bird,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,2.2,Western Province,D Smith,JA Bird,Dayyaan Galiem,4,0,,,,,,"",""
+ball,2,2.3,Western Province,D Smith,JA Bird,Dayyaan Galiem,0,0,,,,,,run out,JA Bird
+ball,2,2.4,Western Province,SV Kitime,D Smith,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,2.5,Western Province,SV Kitime,D Smith,Dayyaan Galiem,4,0,,,,,,"",""
+ball,2,2.6,Western Province,SV Kitime,D Smith,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,3.1,Western Province,SV Kitime,D Smith,G Coetzee,4,0,,,,,,"",""
+ball,2,3.2,Western Province,SV Kitime,D Smith,G Coetzee,0,0,,,,,,caught,SV Kitime
+ball,2,3.3,Western Province,EM Moore,D Smith,G Coetzee,0,0,,,,,,"",""
+ball,2,3.4,Western Province,EM Moore,D Smith,G Coetzee,0,0,,,,,,run out,D Smith
+ball,2,3.5,Western Province,M Mpongwana,EM Moore,G Coetzee,0,0,,,,,,"",""
+ball,2,3.6,Western Province,M Mpongwana,EM Moore,G Coetzee,0,0,,,,,,"",""
+ball,2,4.1,Western Province,EM Moore,M Mpongwana,C Bosch,1,0,,,,,,"",""
+ball,2,4.2,Western Province,M Mpongwana,EM Moore,C Bosch,0,0,,,,,,"",""
+ball,2,4.3,Western Province,M Mpongwana,EM Moore,C Bosch,0,0,,,,,,"",""
+ball,2,4.4,Western Province,M Mpongwana,EM Moore,C Bosch,0,0,,,,,,"",""
+ball,2,4.5,Western Province,M Mpongwana,EM Moore,C Bosch,1,0,,,,,,"",""
+ball,2,4.6,Western Province,EM Moore,M Mpongwana,C Bosch,0,0,,,,,,"",""
+ball,2,5.1,Western Province,M Mpongwana,EM Moore,G Coetzee,1,0,,,,,,"",""
+ball,2,5.2,Western Province,EM Moore,M Mpongwana,G Coetzee,0,0,,,,,,"",""
+ball,2,5.3,Western Province,EM Moore,M Mpongwana,G Coetzee,1,0,,,,,,"",""
+ball,2,5.4,Western Province,M Mpongwana,EM Moore,G Coetzee,0,0,,,,,,"",""
+ball,2,5.5,Western Province,M Mpongwana,EM Moore,G Coetzee,1,0,,,,,,"",""
+ball,2,5.6,Western Province,EM Moore,M Mpongwana,G Coetzee,0,1,,,,1,,"",""
+ball,2,6.1,Western Province,EM Moore,M Mpongwana,C Bosch,0,1,,,,1,,"",""
+ball,2,6.2,Western Province,M Mpongwana,EM Moore,C Bosch,0,0,,,,,,"",""
+ball,2,6.3,Western Province,M Mpongwana,EM Moore,C Bosch,1,0,,,,,,"",""
+ball,2,6.4,Western Province,EM Moore,M Mpongwana,C Bosch,0,4,,,4,,,"",""
+ball,2,6.5,Western Province,EM Moore,M Mpongwana,C Bosch,1,0,,,,,,"",""
+ball,2,6.6,Western Province,M Mpongwana,EM Moore,C Bosch,0,0,,,,,,"",""
+ball,2,7.1,Western Province,EM Moore,M Mpongwana,CJ Dala,1,0,,,,,,"",""
+ball,2,7.2,Western Province,M Mpongwana,EM Moore,CJ Dala,0,0,,,,,,"",""
+ball,2,7.3,Western Province,M Mpongwana,EM Moore,CJ Dala,0,0,,,,,,bowled,M Mpongwana
+ball,2,7.4,Western Province,GF Linde,EM Moore,CJ Dala,1,0,,,,,,"",""
+ball,2,7.5,Western Province,EM Moore,GF Linde,CJ Dala,0,0,,,,,,"",""
+ball,2,7.6,Western Province,EM Moore,GF Linde,CJ Dala,4,0,,,,,,"",""
+ball,2,8.1,Western Province,GF Linde,EM Moore,T Shamsi,0,0,,,,,,bowled,GF Linde
+ball,2,8.2,Western Province,O Whitehead,EM Moore,T Shamsi,0,0,,,,,,"",""
+ball,2,8.3,Western Province,O Whitehead,EM Moore,T Shamsi,0,1,,,,1,,"",""
+ball,2,8.4,Western Province,EM Moore,O Whitehead,T Shamsi,4,0,,,,,,"",""
+ball,2,8.5,Western Province,EM Moore,O Whitehead,T Shamsi,1,0,,,,,,"",""
+ball,2,8.6,Western Province,O Whitehead,EM Moore,T Shamsi,1,0,,,,,,"",""
+ball,2,9.1,Western Province,O Whitehead,EM Moore,CJ Dala,0,1,1,,,,,"",""
+ball,2,9.2,Western Province,O Whitehead,EM Moore,CJ Dala,0,1,1,,,,,"",""
+ball,2,9.3,Western Province,O Whitehead,EM Moore,CJ Dala,1,0,,,,,,"",""
+ball,2,9.4,Western Province,EM Moore,O Whitehead,CJ Dala,0,1,1,,,,,"",""
+ball,2,9.5,Western Province,EM Moore,O Whitehead,CJ Dala,0,2,2,,,,,"",""
+ball,2,9.6,Western Province,O Whitehead,EM Moore,CJ Dala,2,0,,,,,,"",""
+ball,2,9.7,Western Province,O Whitehead,EM Moore,CJ Dala,0,0,,,,,,"",""
+ball,2,9.8,Western Province,O Whitehead,EM Moore,CJ Dala,1,0,,,,,,"",""
+ball,2,9.9,Western Province,EM Moore,O Whitehead,CJ Dala,6,0,,,,,,"",""
+ball,2,9.10,Western Province,EM Moore,O Whitehead,CJ Dala,4,0,,,,,,"",""
+ball,2,10.1,Western Province,O Whitehead,EM Moore,T Shamsi,0,0,,,,,,"",""
+ball,2,10.2,Western Province,O Whitehead,EM Moore,T Shamsi,1,0,,,,,,"",""
+ball,2,10.3,Western Province,EM Moore,O Whitehead,T Shamsi,4,0,,,,,,"",""
+ball,2,10.4,Western Province,EM Moore,O Whitehead,T Shamsi,0,0,,,,,,"",""
+ball,2,10.5,Western Province,EM Moore,O Whitehead,T Shamsi,1,0,,,,,,"",""
+ball,2,10.6,Western Province,O Whitehead,EM Moore,T Shamsi,1,0,,,,,,"",""
+ball,2,11.1,Western Province,O Whitehead,EM Moore,Dayyaan Galiem,0,1,1,,,,,"",""
+ball,2,11.2,Western Province,O Whitehead,EM Moore,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,11.3,Western Province,O Whitehead,EM Moore,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,11.4,Western Province,EM Moore,O Whitehead,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,11.5,Western Province,EM Moore,O Whitehead,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,11.6,Western Province,O Whitehead,EM Moore,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,11.7,Western Province,EM Moore,O Whitehead,Dayyaan Galiem,4,0,,,,,,"",""
+ball,2,12.1,Western Province,O Whitehead,EM Moore,T Shamsi,6,0,,,,,,"",""
+ball,2,12.2,Western Province,O Whitehead,EM Moore,T Shamsi,0,0,,,,,,"",""
+ball,2,12.3,Western Province,O Whitehead,EM Moore,T Shamsi,1,0,,,,,,"",""
+ball,2,12.4,Western Province,EM Moore,O Whitehead,T Shamsi,4,0,,,,,,"",""
+ball,2,12.5,Western Province,EM Moore,O Whitehead,T Shamsi,2,0,,,,,,"",""
+ball,2,12.6,Western Province,EM Moore,O Whitehead,T Shamsi,0,0,,,,,,"",""
+ball,2,13.1,Western Province,O Whitehead,EM Moore,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,13.2,Western Province,O Whitehead,EM Moore,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,13.3,Western Province,EM Moore,O Whitehead,AL Phehlukwayo,6,0,,,,,,"",""
+ball,2,13.4,Western Province,EM Moore,O Whitehead,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,13.5,Western Province,O Whitehead,EM Moore,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,13.6,Western Province,EM Moore,O Whitehead,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,14.1,Western Province,EM Moore,O Whitehead,G Coetzee,0,1,1,,,,,"",""
+ball,2,14.2,Western Province,EM Moore,O Whitehead,G Coetzee,1,0,,,,,,"",""
+ball,2,14.3,Western Province,O Whitehead,EM Moore,G Coetzee,0,0,,,,,,"",""
+ball,2,14.4,Western Province,O Whitehead,EM Moore,G Coetzee,0,0,,,,,,"",""
+ball,2,14.5,Western Province,O Whitehead,EM Moore,G Coetzee,1,0,,,,,,"",""
+ball,2,14.6,Western Province,EM Moore,O Whitehead,G Coetzee,0,0,,,,,,caught,EM Moore
+ball,2,14.7,Western Province,KI Simmonds,O Whitehead,G Coetzee,0,1,1,,,,,"",""
+ball,2,14.8,Western Province,KI Simmonds,O Whitehead,G Coetzee,0,1,1,,,,,"",""
+ball,2,14.9,Western Province,KI Simmonds,O Whitehead,G Coetzee,0,0,,,,,,"",""
+ball,2,15.1,Western Province,O Whitehead,KI Simmonds,C Bosch,4,0,,,,,,"",""
+ball,2,15.2,Western Province,O Whitehead,KI Simmonds,C Bosch,0,0,,,,,,"",""
+ball,2,15.3,Western Province,O Whitehead,KI Simmonds,C Bosch,2,0,,,,,,"",""
+ball,2,15.4,Western Province,O Whitehead,KI Simmonds,C Bosch,0,0,,,,,,"",""
+ball,2,15.5,Western Province,O Whitehead,KI Simmonds,C Bosch,2,0,,,,,,"",""
+ball,2,15.6,Western Province,O Whitehead,KI Simmonds,C Bosch,0,0,,,,,,"",""
+ball,2,16.1,Western Province,KI Simmonds,O Whitehead,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,16.2,Western Province,KI Simmonds,O Whitehead,Dayyaan Galiem,6,0,,,,,,"",""
+ball,2,16.3,Western Province,KI Simmonds,O Whitehead,Dayyaan Galiem,0,1,,,,1,,"",""
+ball,2,16.4,Western Province,O Whitehead,KI Simmonds,Dayyaan Galiem,4,0,,,,,,"",""
+ball,2,16.5,Western Province,O Whitehead,KI Simmonds,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,16.6,Western Province,KI Simmonds,O Whitehead,Dayyaan Galiem,4,0,,,,,,"",""
+ball,2,17.1,Western Province,O Whitehead,KI Simmonds,G Coetzee,0,0,,,,,,"",""
+ball,2,17.2,Western Province,O Whitehead,KI Simmonds,G Coetzee,0,1,,,1,,,"",""
+ball,2,17.3,Western Province,KI Simmonds,O Whitehead,G Coetzee,1,0,,,,,,"",""
+ball,2,17.4,Western Province,O Whitehead,KI Simmonds,G Coetzee,0,2,,,,2,,"",""
+ball,2,17.5,Western Province,O Whitehead,KI Simmonds,G Coetzee,1,0,,,,,,"",""
+ball,2,17.6,Western Province,KI Simmonds,O Whitehead,G Coetzee,0,1,,,,1,,"",""
+ball,2,18.1,Western Province,KI Simmonds,O Whitehead,AL Phehlukwayo,2,0,,,,,,"",""
+ball,2,18.2,Western Province,KI Simmonds,O Whitehead,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,18.3,Western Province,O Whitehead,KI Simmonds,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,18.4,Western Province,O Whitehead,KI Simmonds,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,18.5,Western Province,KI Simmonds,O Whitehead,AL Phehlukwayo,2,0,,,,,,"",""
+ball,2,18.6,Western Province,KI Simmonds,O Whitehead,AL Phehlukwayo,2,0,,,,,,"",""
+ball,2,19.1,Western Province,O Whitehead,KI Simmonds,C Bosch,4,0,,,,,,"",""
+ball,2,19.2,Western Province,O Whitehead,KI Simmonds,C Bosch,1,0,,,,,,"",""
+ball,2,19.3,Western Province,KI Simmonds,O Whitehead,C Bosch,0,0,,,,,,"",""
+ball,2,19.4,Western Province,KI Simmonds,O Whitehead,C Bosch,0,1,1,,,,,"",""
+ball,2,19.5,Western Province,KI Simmonds,O Whitehead,C Bosch,1,0,,,,,,"",""
+ball,2,19.6,Western Province,O Whitehead,KI Simmonds,C Bosch,0,0,,,,,,"",""
+ball,2,19.7,Western Province,O Whitehead,KI Simmonds,C Bosch,1,0,,,,,,"",""

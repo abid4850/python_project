@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Central Districts
+info,gender,male
+info,season,2025/26
+info,date,2026/01/26
+info,event,Super Smash
+info,match_number,30
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Central Districts
+info,toss_decision,field
+info,umpire,GG Pennell
+info,umpire,WR Knights
+info,reserve_umpire,VC Calabro
+info,tv_umpire,CM Brown
+info,match_referee,GB Troup
+info,winner,Auckland
+info,winner_runs,8
+info,method,D/L
+info,player,Auckland,C Munro
+info,player,Auckland,DN Phillips
+info,player,Auckland,AA Jones
+info,player,Auckland,LN Stackpole
+info,player,Auckland,CD Fletcher
+info,player,Auckland,RD Harrison
+info,player,Auckland,SM Solia
+info,player,Auckland,A Ashok
+info,player,Auckland,AL Olliver
+info,player,Auckland,H Johal
+info,player,Auckland,RK Gulati
+info,player,Central Districts,D Foxcroft
+info,player,Central Districts,WA Young
+info,player,Central Districts,D Cleaver
+info,player,Central Districts,TC Bruce
+info,player,Central Districts,JA Clarkson
+info,player,Central Districts,SJ Cassidy
+info,player,Central Districts,JFA Field
+info,player,Central Districts,BM Tickner
+info,player,Central Districts,JR Lennox
+info,player,Central Districts,BG Randell
+info,player,Central Districts,AY Patel
+info,registry,people,A Ashok,321be7e3
+info,registry,people,AA Jones,549e0f4e
+info,registry,people,AL Olliver,9b05c1c1
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,C Munro,af2c687b
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GG Pennell,d9376677
+info,registry,people,H Johal,54bd6664
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JFA Field,0085a7ce
+info,registry,people,JR Lennox,07793daf
+info,registry,people,LN Stackpole,66c59019
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,RK Gulati,f5da80da
+info,registry,people,SJ Cassidy,e42b0c76
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,VC Calabro,1f9404f3
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WR Knights,63cbf8d8
+ball,1,0.1,Auckland,C Munro,DN Phillips,JR Lennox,0,0,,,,,,"",""
+ball,1,0.2,Auckland,C Munro,DN Phillips,JR Lennox,0,0,,,,,,"",""
+ball,1,0.3,Auckland,C Munro,DN Phillips,JR Lennox,4,0,,,,,,"",""
+ball,1,0.4,Auckland,C Munro,DN Phillips,JR Lennox,4,0,,,,,,"",""
+ball,1,0.5,Auckland,C Munro,DN Phillips,JR Lennox,1,0,,,,,,"",""
+ball,1,0.6,Auckland,DN Phillips,C Munro,JR Lennox,0,0,,,,,,"",""
+ball,1,1.1,Auckland,C Munro,DN Phillips,BG Randell,0,0,,,,,,"",""
+ball,1,1.2,Auckland,C Munro,DN Phillips,BG Randell,2,0,,,,,,"",""
+ball,1,1.3,Auckland,C Munro,DN Phillips,BG Randell,1,0,,,,,,"",""
+ball,1,1.4,Auckland,DN Phillips,C Munro,BG Randell,4,0,,,,,,"",""
+ball,1,1.5,Auckland,DN Phillips,C Munro,BG Randell,6,0,,,,,,"",""
+ball,1,1.6,Auckland,DN Phillips,C Munro,BG Randell,1,0,,,,,,"",""
+ball,1,2.1,Auckland,DN Phillips,C Munro,BM Tickner,4,0,,,,,,"",""
+ball,1,2.2,Auckland,DN Phillips,C Munro,BM Tickner,6,0,,,,,,"",""
+ball,1,2.3,Auckland,DN Phillips,C Munro,BM Tickner,0,0,,,,,,bowled,DN Phillips
+ball,1,2.4,Auckland,AA Jones,C Munro,BM Tickner,0,0,,,,,,"",""
+ball,1,2.5,Auckland,AA Jones,C Munro,BM Tickner,1,0,,,,,,"",""
+ball,1,2.6,Auckland,C Munro,AA Jones,BM Tickner,4,0,,,,,,"",""
+ball,1,3.1,Auckland,AA Jones,C Munro,JFA Field,1,0,,,,,,"",""
+ball,1,3.2,Auckland,C Munro,AA Jones,JFA Field,4,0,,,,,,"",""
+ball,1,3.3,Auckland,C Munro,AA Jones,JFA Field,4,0,,,,,,"",""
+ball,1,3.4,Auckland,C Munro,AA Jones,JFA Field,4,0,,,,,,"",""
+ball,1,3.5,Auckland,C Munro,AA Jones,JFA Field,0,0,,,,,,"",""
+ball,1,3.6,Auckland,C Munro,AA Jones,JFA Field,2,0,,,,,,"",""
+ball,1,4.1,Auckland,AA Jones,C Munro,BG Randell,0,0,,,,,,caught,AA Jones
+ball,1,4.2,Auckland,LN Stackpole,C Munro,BG Randell,0,0,,,,,,"",""
+ball,1,4.3,Auckland,LN Stackpole,C Munro,BG Randell,0,0,,,,,,"",""
+ball,1,4.4,Auckland,LN Stackpole,C Munro,BG Randell,6,0,,,,,,"",""
+ball,1,4.5,Auckland,LN Stackpole,C Munro,BG Randell,0,0,,,,,,"",""
+ball,1,4.6,Auckland,LN Stackpole,C Munro,BG Randell,0,0,,,,,,"",""
+ball,1,5.1,Auckland,C Munro,LN Stackpole,BM Tickner,0,0,,,,,,"",""
+ball,1,5.2,Auckland,C Munro,LN Stackpole,BM Tickner,4,0,,,,,,"",""
+ball,1,5.3,Auckland,C Munro,LN Stackpole,BM Tickner,0,0,,,,,,"",""
+ball,1,5.4,Auckland,C Munro,LN Stackpole,BM Tickner,4,0,,,,,,"",""
+ball,1,5.5,Auckland,C Munro,LN Stackpole,BM Tickner,0,0,,,,,,"",""
+ball,1,5.6,Auckland,C Munro,LN Stackpole,BM Tickner,0,0,,,,,,"",""
+ball,1,6.1,Auckland,LN Stackpole,C Munro,D Foxcroft,2,0,,,,,,"",""
+ball,1,6.2,Auckland,LN Stackpole,C Munro,D Foxcroft,6,0,,,,,,"",""
+ball,1,6.3,Auckland,LN Stackpole,C Munro,D Foxcroft,1,0,,,,,,"",""
+ball,1,6.4,Auckland,C Munro,LN Stackpole,D Foxcroft,1,0,,,,,,"",""
+ball,1,6.5,Auckland,LN Stackpole,C Munro,D Foxcroft,1,0,,,,,,"",""
+ball,1,6.6,Auckland,C Munro,LN Stackpole,D Foxcroft,1,0,,,,,,"",""
+ball,1,7.1,Auckland,C Munro,LN Stackpole,JFA Field,1,0,,,,,,"",""
+ball,1,7.2,Auckland,LN Stackpole,C Munro,JFA Field,0,0,,,,,,"",""
+ball,1,7.3,Auckland,LN Stackpole,C Munro,JFA Field,4,0,,,,,,"",""
+ball,1,7.4,Auckland,LN Stackpole,C Munro,JFA Field,1,0,,,,,,"",""
+ball,1,7.5,Auckland,C Munro,LN Stackpole,JFA Field,6,0,,,,,,"",""
+ball,1,7.6,Auckland,C Munro,LN Stackpole,JFA Field,1,0,,,,,,"",""
+ball,1,8.1,Auckland,C Munro,LN Stackpole,AY Patel,4,0,,,,,,"",""
+ball,1,8.2,Auckland,C Munro,LN Stackpole,AY Patel,1,0,,,,,,"",""
+ball,1,8.3,Auckland,LN Stackpole,C Munro,AY Patel,0,0,,,,,,"",""
+ball,1,8.4,Auckland,LN Stackpole,C Munro,AY Patel,0,1,1,,,,,"",""
+ball,1,8.5,Auckland,LN Stackpole,C Munro,AY Patel,6,0,,,,,,"",""
+ball,1,8.6,Auckland,LN Stackpole,C Munro,AY Patel,0,0,,,,,,"",""
+ball,1,8.7,Auckland,LN Stackpole,C Munro,AY Patel,1,0,,,,,,"",""
+ball,1,9.1,Auckland,LN Stackpole,C Munro,JA Clarkson,6,0,,,,,,"",""
+ball,1,9.2,Auckland,LN Stackpole,C Munro,JA Clarkson,0,0,,,,,,"",""
+ball,1,9.3,Auckland,LN Stackpole,C Munro,JA Clarkson,1,0,,,,,,"",""
+ball,1,9.4,Auckland,C Munro,LN Stackpole,JA Clarkson,0,1,1,,,,,"",""
+ball,1,9.5,Auckland,C Munro,LN Stackpole,JA Clarkson,1,0,,,,,,"",""
+ball,1,9.6,Auckland,LN Stackpole,C Munro,JA Clarkson,1,0,,,,,,"",""
+ball,1,9.7,Auckland,C Munro,LN Stackpole,JA Clarkson,1,0,,,,,,"",""
+ball,1,10.1,Auckland,C Munro,LN Stackpole,JR Lennox,0,0,,,,,,caught,C Munro
+ball,1,10.2,Auckland,CD Fletcher,LN Stackpole,JR Lennox,0,0,,,,,,"",""
+ball,1,10.3,Auckland,CD Fletcher,LN Stackpole,JR Lennox,0,0,,,,,,"",""
+ball,1,10.4,Auckland,CD Fletcher,LN Stackpole,JR Lennox,1,0,,,,,,"",""
+ball,1,10.5,Auckland,LN Stackpole,CD Fletcher,JR Lennox,1,0,,,,,,"",""
+ball,1,10.6,Auckland,CD Fletcher,LN Stackpole,JR Lennox,1,0,,,,,,"",""
+ball,1,11.1,Auckland,CD Fletcher,LN Stackpole,BM Tickner,1,0,,,,,,"",""
+ball,1,11.2,Auckland,LN Stackpole,CD Fletcher,BM Tickner,4,0,,,,,,"",""
+ball,1,11.3,Auckland,LN Stackpole,CD Fletcher,BM Tickner,6,0,,,,,,"",""
+ball,1,11.4,Auckland,LN Stackpole,CD Fletcher,BM Tickner,0,0,,,,,,"",""
+ball,1,11.5,Auckland,LN Stackpole,CD Fletcher,BM Tickner,1,0,,,,,,"",""
+ball,1,11.6,Auckland,CD Fletcher,LN Stackpole,BM Tickner,1,0,,,,,,"",""
+ball,1,12.1,Auckland,CD Fletcher,LN Stackpole,JR Lennox,2,0,,,,,,"",""
+ball,1,12.2,Auckland,CD Fletcher,LN Stackpole,JR Lennox,1,0,,,,,,"",""
+ball,1,12.3,Auckland,LN Stackpole,CD Fletcher,JR Lennox,1,0,,,,,,"",""
+ball,1,12.4,Auckland,CD Fletcher,LN Stackpole,JR Lennox,1,0,,,,,,"",""
+ball,1,12.5,Auckland,LN Stackpole,CD Fletcher,JR Lennox,1,0,,,,,,"",""
+ball,1,12.6,Auckland,CD Fletcher,LN Stackpole,JR Lennox,1,0,,,,,,"",""
+ball,1,13.1,Auckland,CD Fletcher,LN Stackpole,JA Clarkson,1,0,,,,,,"",""
+ball,1,13.2,Auckland,LN Stackpole,CD Fletcher,JA Clarkson,4,0,,,,,,"",""
+ball,1,13.3,Auckland,LN Stackpole,CD Fletcher,JA Clarkson,0,0,,,,,,"",""
+ball,1,13.4,Auckland,LN Stackpole,CD Fletcher,JA Clarkson,1,0,,,,,,"",""
+ball,1,13.5,Auckland,CD Fletcher,LN Stackpole,JA Clarkson,0,0,,,,,,"",""
+ball,1,13.6,Auckland,CD Fletcher,LN Stackpole,JA Clarkson,2,0,,,,,,"",""
+ball,1,14.1,Auckland,LN Stackpole,CD Fletcher,AY Patel,1,0,,,,,,"",""
+ball,1,14.2,Auckland,CD Fletcher,LN Stackpole,AY Patel,0,1,,,,1,,"",""
+ball,1,14.3,Auckland,LN Stackpole,CD Fletcher,AY Patel,1,0,,,,,,"",""
+ball,1,14.4,Auckland,CD Fletcher,LN Stackpole,AY Patel,6,0,,,,,,"",""
+ball,1,14.5,Auckland,CD Fletcher,LN Stackpole,AY Patel,1,0,,,,,,"",""
+ball,1,14.6,Auckland,LN Stackpole,CD Fletcher,AY Patel,1,0,,,,,,"",""
+ball,1,15.1,Auckland,LN Stackpole,CD Fletcher,BG Randell,2,0,,,,,,"",""
+ball,1,15.2,Auckland,LN Stackpole,CD Fletcher,BG Randell,6,0,,,,,,"",""
+ball,1,15.3,Auckland,LN Stackpole,CD Fletcher,BG Randell,0,0,,,,,,caught,LN Stackpole
+ball,1,15.4,Auckland,RD Harrison,CD Fletcher,BG Randell,0,0,,,,,,"",""
+ball,1,15.5,Auckland,RD Harrison,CD Fletcher,BG Randell,1,0,,,,,,"",""
+ball,1,15.6,Auckland,CD Fletcher,RD Harrison,BG Randell,4,0,,,,,,"",""
+ball,1,16.1,Auckland,RD Harrison,CD Fletcher,JR Lennox,1,0,,,,,,"",""
+ball,1,16.2,Auckland,CD Fletcher,RD Harrison,JR Lennox,0,5,5,,,,,"",""
+ball,1,16.3,Auckland,CD Fletcher,RD Harrison,JR Lennox,0,1,,,,1,,"",""
+ball,1,16.4,Auckland,RD Harrison,CD Fletcher,JR Lennox,1,0,,,,,,"",""
+ball,1,16.5,Auckland,CD Fletcher,RD Harrison,JR Lennox,4,0,,,,,,"",""
+ball,1,16.6,Auckland,CD Fletcher,RD Harrison,JR Lennox,0,4,,,,4,,"",""
+ball,1,16.7,Auckland,CD Fletcher,RD Harrison,JR Lennox,0,0,,,,,,"",""
+ball,1,17.1,Auckland,RD Harrison,CD Fletcher,JA Clarkson,0,0,,,,,,"",""
+ball,1,17.2,Auckland,RD Harrison,CD Fletcher,JA Clarkson,1,0,,,,,,"",""
+ball,1,17.3,Auckland,CD Fletcher,RD Harrison,JA Clarkson,6,0,,,,,,"",""
+ball,1,17.4,Auckland,CD Fletcher,RD Harrison,JA Clarkson,1,0,,,,,,"",""
+ball,1,17.5,Auckland,RD Harrison,CD Fletcher,JA Clarkson,1,0,,,,,,"",""
+ball,1,17.6,Auckland,CD Fletcher,RD Harrison,JA Clarkson,0,0,,,,,,"",""
+ball,1,18.1,Auckland,RD Harrison,CD Fletcher,BG Randell,6,0,,,,,,"",""
+ball,1,18.2,Auckland,RD Harrison,CD Fletcher,BG Randell,6,0,,,,,,"",""
+ball,1,18.3,Auckland,RD Harrison,CD Fletcher,BG Randell,1,0,,,,,,"",""
+ball,1,18.4,Auckland,CD Fletcher,RD Harrison,BG Randell,6,0,,,,,,"",""
+ball,1,18.5,Auckland,CD Fletcher,RD Harrison,BG Randell,0,4,,,,4,,"",""
+ball,1,18.6,Auckland,CD Fletcher,RD Harrison,BG Randell,0,0,,,,,,run out,CD Fletcher
+ball,2,0.1,Central Districts,D Foxcroft,WA Young,RK Gulati,1,0,,,,,,"",""
+ball,2,0.2,Central Districts,WA Young,D Foxcroft,RK Gulati,4,0,,,,,,"",""
+ball,2,0.3,Central Districts,WA Young,D Foxcroft,RK Gulati,0,0,,,,,,"",""
+ball,2,0.4,Central Districts,WA Young,D Foxcroft,RK Gulati,4,0,,,,,,"",""
+ball,2,0.5,Central Districts,WA Young,D Foxcroft,RK Gulati,2,0,,,,,,"",""
+ball,2,0.6,Central Districts,WA Young,D Foxcroft,RK Gulati,0,0,,,,,,"",""
+ball,2,1.1,Central Districts,D Foxcroft,WA Young,AL Olliver,4,0,,,,,,"",""
+ball,2,1.2,Central Districts,D Foxcroft,WA Young,AL Olliver,4,0,,,,,,"",""
+ball,2,1.3,Central Districts,D Foxcroft,WA Young,AL Olliver,0,0,,,,,,"",""
+ball,2,1.4,Central Districts,D Foxcroft,WA Young,AL Olliver,0,0,,,,,,caught,D Foxcroft
+ball,2,1.5,Central Districts,D Cleaver,WA Young,AL Olliver,0,0,,,,,,"",""
+ball,2,1.6,Central Districts,D Cleaver,WA Young,AL Olliver,4,0,,,,,,"",""
+ball,2,2.1,Central Districts,WA Young,D Cleaver,H Johal,4,0,,,,,,"",""
+ball,2,2.2,Central Districts,WA Young,D Cleaver,H Johal,1,0,,,,,,"",""
+ball,2,2.3,Central Districts,D Cleaver,WA Young,H Johal,4,0,,,,,,"",""
+ball,2,2.4,Central Districts,D Cleaver,WA Young,H Johal,0,0,,,,,,"",""
+ball,2,2.5,Central Districts,D Cleaver,WA Young,H Johal,6,0,,,,,,"",""
+ball,2,2.6,Central Districts,D Cleaver,WA Young,H Johal,0,0,,,,,,"",""
+ball,2,3.1,Central Districts,WA Young,D Cleaver,AL Olliver,0,0,,,,,,"",""
+ball,2,3.2,Central Districts,WA Young,D Cleaver,AL Olliver,0,0,,,,,,caught,WA Young
+ball,2,3.3,Central Districts,TC Bruce,D Cleaver,AL Olliver,0,0,,,,,,"",""
+ball,2,3.4,Central Districts,TC Bruce,D Cleaver,AL Olliver,4,0,,,,,,"",""
+ball,2,3.5,Central Districts,TC Bruce,D Cleaver,AL Olliver,0,0,,,,,,"",""
+ball,2,3.6,Central Districts,TC Bruce,D Cleaver,AL Olliver,4,0,,,,,,"",""
+ball,2,4.1,Central Districts,D Cleaver,TC Bruce,RD Harrison,6,0,,,,,,"",""
+ball,2,4.2,Central Districts,D Cleaver,TC Bruce,RD Harrison,0,0,,,,,,"",""
+ball,2,4.3,Central Districts,D Cleaver,TC Bruce,RD Harrison,1,0,,,,,,"",""
+ball,2,4.4,Central Districts,TC Bruce,D Cleaver,RD Harrison,0,1,1,,,,,"",""
+ball,2,4.5,Central Districts,TC Bruce,D Cleaver,RD Harrison,4,0,,,,,,"",""
+ball,2,4.6,Central Districts,TC Bruce,D Cleaver,RD Harrison,2,0,,,,,,"",""
+ball,2,4.7,Central Districts,TC Bruce,D Cleaver,RD Harrison,1,0,,,,,,"",""
+ball,2,5.1,Central Districts,TC Bruce,D Cleaver,H Johal,1,0,,,,,,"",""
+ball,2,5.2,Central Districts,D Cleaver,TC Bruce,H Johal,0,0,,,,,,"",""
+ball,2,5.3,Central Districts,D Cleaver,TC Bruce,H Johal,6,0,,,,,,"",""
+ball,2,5.4,Central Districts,D Cleaver,TC Bruce,H Johal,0,1,,,,1,,"",""
+ball,2,5.5,Central Districts,TC Bruce,D Cleaver,H Johal,4,0,,,,,,"",""
+ball,2,5.6,Central Districts,TC Bruce,D Cleaver,H Johal,0,1,,1,,,,"",""
+ball,2,5.7,Central Districts,TC Bruce,D Cleaver,H Johal,0,0,,,,,,"",""
+ball,2,6.1,Central Districts,D Cleaver,TC Bruce,A Ashok,0,0,,,,,,"",""
+ball,2,6.2,Central Districts,D Cleaver,TC Bruce,A Ashok,1,0,,,,,,"",""
+ball,2,6.3,Central Districts,TC Bruce,D Cleaver,A Ashok,0,0,,,,,,"",""
+ball,2,6.4,Central Districts,TC Bruce,D Cleaver,A Ashok,1,0,,,,,,"",""
+ball,2,6.5,Central Districts,D Cleaver,TC Bruce,A Ashok,1,0,,,,,,"",""
+ball,2,6.6,Central Districts,TC Bruce,D Cleaver,A Ashok,6,0,,,,,,"",""
+ball,2,7.1,Central Districts,D Cleaver,TC Bruce,RK Gulati,4,0,,,,,,"",""
+ball,2,7.2,Central Districts,D Cleaver,TC Bruce,RK Gulati,1,0,,,,,,"",""
+ball,2,7.3,Central Districts,TC Bruce,D Cleaver,RK Gulati,6,0,,,,,,"",""
+ball,2,7.4,Central Districts,TC Bruce,D Cleaver,RK Gulati,0,1,1,,,,,"",""
+ball,2,7.5,Central Districts,TC Bruce,D Cleaver,RK Gulati,1,0,,,,,,"",""
+ball,2,7.6,Central Districts,D Cleaver,TC Bruce,RK Gulati,1,0,,,,,,"",""
+ball,2,7.7,Central Districts,TC Bruce,D Cleaver,RK Gulati,1,0,,,,,,"",""
+ball,2,8.1,Central Districts,TC Bruce,D Cleaver,RD Harrison,0,1,1,,,,,"",""
+ball,2,8.2,Central Districts,TC Bruce,D Cleaver,RD Harrison,1,0,,,,,,"",""
+ball,2,8.3,Central Districts,D Cleaver,TC Bruce,RD Harrison,0,0,,,,,,"",""
+ball,2,8.4,Central Districts,D Cleaver,TC Bruce,RD Harrison,1,0,,,,,,"",""
+ball,2,8.5,Central Districts,TC Bruce,D Cleaver,RD Harrison,1,0,,,,,,"",""
+ball,2,8.6,Central Districts,D Cleaver,TC Bruce,RD Harrison,0,0,,,,,,caught,D Cleaver
+ball,2,8.7,Central Districts,JA Clarkson,TC Bruce,RD Harrison,1,0,,,,,,"",""
+ball,2,9.1,Central Districts,JA Clarkson,TC Bruce,A Ashok,1,0,,,,,,"",""
+ball,2,9.2,Central Districts,TC Bruce,JA Clarkson,A Ashok,0,0,,,,,,"",""
+ball,2,9.3,Central Districts,TC Bruce,JA Clarkson,A Ashok,0,0,,,,,,"",""
+ball,2,9.4,Central Districts,TC Bruce,JA Clarkson,A Ashok,1,0,,,,,,"",""
+ball,2,9.5,Central Districts,JA Clarkson,TC Bruce,A Ashok,1,0,,,,,,"",""
+ball,2,9.6,Central Districts,TC Bruce,JA Clarkson,A Ashok,1,0,,,,,,"",""
+ball,2,10.1,Central Districts,TC Bruce,JA Clarkson,RK Gulati,1,0,,,,,,"",""
+ball,2,10.2,Central Districts,JA Clarkson,TC Bruce,RK Gulati,0,0,,,,,,"",""
+ball,2,10.3,Central Districts,JA Clarkson,TC Bruce,RK Gulati,1,0,,,,,,"",""
+ball,2,10.4,Central Districts,TC Bruce,JA Clarkson,RK Gulati,1,0,,,,,,"",""
+ball,2,10.5,Central Districts,JA Clarkson,TC Bruce,RK Gulati,0,0,,,,,,"",""
+ball,2,10.6,Central Districts,JA Clarkson,TC Bruce,RK Gulati,0,0,,,,,,"",""
+ball,2,11.1,Central Districts,TC Bruce,JA Clarkson,A Ashok,1,0,,,,,,"",""
+ball,2,11.2,Central Districts,JA Clarkson,TC Bruce,A Ashok,6,0,,,,,,"",""
+ball,2,11.3,Central Districts,JA Clarkson,TC Bruce,A Ashok,0,0,,,,,,"",""
+ball,2,11.4,Central Districts,JA Clarkson,TC Bruce,A Ashok,1,0,,,,,,"",""
+ball,2,11.5,Central Districts,TC Bruce,JA Clarkson,A Ashok,6,0,,,,,,"",""
+ball,2,11.6,Central Districts,TC Bruce,JA Clarkson,A Ashok,1,0,,,,,,"",""
+ball,2,12.1,Central Districts,TC Bruce,JA Clarkson,RK Gulati,1,0,,,,,,"",""
+ball,2,12.2,Central Districts,JA Clarkson,TC Bruce,RK Gulati,1,0,,,,,,"",""
+ball,2,12.3,Central Districts,TC Bruce,JA Clarkson,RK Gulati,1,0,,,,,,"",""
+ball,2,12.4,Central Districts,JA Clarkson,TC Bruce,RK Gulati,4,0,,,,,,"",""
+ball,2,12.5,Central Districts,JA Clarkson,TC Bruce,RK Gulati,1,0,,,,,,"",""
+ball,2,12.6,Central Districts,TC Bruce,JA Clarkson,RK Gulati,1,0,,,,,,"",""
+ball,2,13.1,Central Districts,TC Bruce,JA Clarkson,H Johal,6,0,,,,,,"",""
+ball,2,13.2,Central Districts,TC Bruce,JA Clarkson,H Johal,6,0,,,,,,"",""
+ball,2,13.3,Central Districts,TC Bruce,JA Clarkson,H Johal,0,0,,,,,,"",""
+ball,2,13.4,Central Districts,TC Bruce,JA Clarkson,H Johal,1,0,,,,,,"",""
+ball,2,13.5,Central Districts,JA Clarkson,TC Bruce,H Johal,0,0,,,,,,"",""
+ball,2,13.6,Central Districts,JA Clarkson,TC Bruce,H Johal,1,0,,,,,,"",""
+ball,2,14.1,Central Districts,JA Clarkson,TC Bruce,A Ashok,0,0,,,,,,"",""
+ball,2,14.2,Central Districts,JA Clarkson,TC Bruce,A Ashok,1,0,,,,,,"",""
+ball,2,14.3,Central Districts,TC Bruce,JA Clarkson,A Ashok,1,0,,,,,,"",""
+ball,2,14.4,Central Districts,JA Clarkson,TC Bruce,A Ashok,1,0,,,,,,"",""
+ball,2,14.5,Central Districts,TC Bruce,JA Clarkson,A Ashok,4,0,,,,,,"",""
+ball,2,14.6,Central Districts,TC Bruce,JA Clarkson,A Ashok,1,0,,,,,,"",""
+ball,2,15.1,Central Districts,TC Bruce,JA Clarkson,AL Olliver,4,0,,,,,,"",""
+ball,2,15.2,Central Districts,TC Bruce,JA Clarkson,AL Olliver,1,0,,,,,,"",""
+ball,2,15.3,Central Districts,JA Clarkson,TC Bruce,AL Olliver,1,0,,,,,,"",""
+ball,2,15.4,Central Districts,TC Bruce,JA Clarkson,AL Olliver,0,0,,,,,,"",""
+ball,2,15.5,Central Districts,TC Bruce,JA Clarkson,AL Olliver,1,0,,,,,,"",""
+ball,2,15.6,Central Districts,JA Clarkson,TC Bruce,AL Olliver,0,1,1,,,,,"",""
+ball,2,15.7,Central Districts,JA Clarkson,TC Bruce,AL Olliver,2,0,,,,,,"",""
+ball,2,16.1,Central Districts,TC Bruce,JA Clarkson,RD Harrison,0,1,1,,,,,"",""
+ball,2,16.2,Central Districts,TC Bruce,JA Clarkson,RD Harrison,1,0,,,,,,"",""
+ball,2,16.3,Central Districts,JA Clarkson,TC Bruce,RD Harrison,1,0,,,,,,"",""
+ball,2,16.4,Central Districts,TC Bruce,JA Clarkson,RD Harrison,4,0,,,,,,"",""
+ball,2,16.5,Central Districts,TC Bruce,JA Clarkson,RD Harrison,1,0,,,,,,"",""
+ball,2,16.6,Central Districts,JA Clarkson,TC Bruce,RD Harrison,6,0,,,,,,"",""
+ball,2,16.7,Central Districts,JA Clarkson,TC Bruce,RD Harrison,4,0,,,,,,"",""
+ball,2,17.1,Central Districts,TC Bruce,JA Clarkson,AL Olliver,1,0,,,,,,"",""
+ball,2,17.2,Central Districts,JA Clarkson,TC Bruce,AL Olliver,4,0,,,,,,"",""
+ball,2,17.3,Central Districts,JA Clarkson,TC Bruce,AL Olliver,3,0,,,,,,"",""
+ball,2,17.4,Central Districts,TC Bruce,JA Clarkson,AL Olliver,1,0,,,,,,"",""
+ball,2,17.5,Central Districts,JA Clarkson,TC Bruce,AL Olliver,1,0,,,,,,"",""
+ball,2,17.6,Central Districts,TC Bruce,JA Clarkson,AL Olliver,6,0,,,,,,"",""
+ball,2,18.1,Central Districts,JA Clarkson,TC Bruce,RD Harrison,4,0,,,,,,"",""
+ball,2,18.2,Central Districts,JA Clarkson,TC Bruce,RD Harrison,0,1,,,1,,,"",""
+ball,2,18.3,Central Districts,TC Bruce,JA Clarkson,RD Harrison,4,0,,,,,,"",""
+ball,2,18.4,Central Districts,TC Bruce,JA Clarkson,RD Harrison,0,1,,,1,,,"",""
+ball,2,18.5,Central Districts,JA Clarkson,TC Bruce,RD Harrison,0,0,,,,,,run out,TC Bruce
+ball,2,18.6,Central Districts,SJ Cassidy,JA Clarkson,RD Harrison,0,0,,,,,,"",""

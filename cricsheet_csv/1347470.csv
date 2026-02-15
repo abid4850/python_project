@@ -1,0 +1,279 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Western Storm
+info,team,Southern Vipers
+info,gender,female
+info,season,2023
+info,date,2023/05/26
+info,event,Charlotte Edwards Cup
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Western Storm
+info,toss_decision,bat
+info,umpire,BJ Peverall
+info,umpire,PD Nicholls
+info,match_referee,SM Bartlett
+info,winner,Southern Vipers
+info,winner_wickets,7
+info,player,Western Storm,NAJ Wraith
+info,player,Western Storm,DR Gibson
+info,player,Western Storm,HC Knight
+info,player,Western Storm,FC Wilson
+info,player,Western Storm,SN Luff
+info,player,Western Storm,O Prendergast
+info,player,Western Storm,A Griffiths
+info,player,Western Storm,L Filer
+info,player,Western Storm,N Holland
+info,player,Western Storm,Sophia Smale
+info,player,Western Storm,C Skelton
+info,player,Southern Vipers,DN Wyatt
+info,player,Southern Vipers,ME Bouchier
+info,player,Southern Vipers,N Faltum
+info,player,Southern Vipers,GL Adams
+info,player,Southern Vipers,GA Elwiss
+info,player,Southern Vipers,CE Dean
+info,player,Southern Vipers,E Windsor
+info,player,Southern Vipers,LCN Smith
+info,player,Southern Vipers,AZ Monaghan
+info,player,Southern Vipers,A Shrubsole
+info,player,Southern Vipers,LK Bell
+info,registry,people,A Griffiths,091001f8
+info,registry,people,A Shrubsole,32497ecd
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,C Skelton,db362015
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,DR Gibson,d2763568
+info,registry,people,E Windsor,1d7f8759
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,L Filer,31adb911
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LK Bell,38b4583c
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,N Faltum,9a56c670
+info,registry,people,N Holland,aefd0567
+info,registry,people,NAJ Wraith,1ec1998e
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,PD Nicholls,5ad84c35
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SN Luff,e19307f3
+info,registry,people,Sophia Smale,c296dba1
+ball,1,0.1,Western Storm,NAJ Wraith,DR Gibson,LK Bell,0,0,,,,,,"",""
+ball,1,0.2,Western Storm,NAJ Wraith,DR Gibson,LK Bell,0,0,,,,,,"",""
+ball,1,0.3,Western Storm,NAJ Wraith,DR Gibson,LK Bell,0,0,,,,,,caught,NAJ Wraith
+ball,1,0.4,Western Storm,HC Knight,DR Gibson,LK Bell,1,0,,,,,,"",""
+ball,1,0.5,Western Storm,DR Gibson,HC Knight,LK Bell,2,0,,,,,,"",""
+ball,1,0.6,Western Storm,DR Gibson,HC Knight,LK Bell,0,0,,,,,,caught,DR Gibson
+ball,1,1.1,Western Storm,HC Knight,FC Wilson,A Shrubsole,0,0,,,,,,"",""
+ball,1,1.2,Western Storm,HC Knight,FC Wilson,A Shrubsole,0,0,,,,,,"",""
+ball,1,1.3,Western Storm,HC Knight,FC Wilson,A Shrubsole,0,1,1,,,,,stumped,HC Knight
+ball,1,1.4,Western Storm,SN Luff,FC Wilson,A Shrubsole,0,1,,,,1,,"",""
+ball,1,1.5,Western Storm,FC Wilson,SN Luff,A Shrubsole,0,0,,,,,,"",""
+ball,1,1.6,Western Storm,FC Wilson,SN Luff,A Shrubsole,1,0,,,,,,"",""
+ball,1,1.7,Western Storm,SN Luff,FC Wilson,A Shrubsole,0,0,,,,,,"",""
+ball,1,2.1,Western Storm,FC Wilson,SN Luff,LK Bell,4,0,,,,,,"",""
+ball,1,2.2,Western Storm,FC Wilson,SN Luff,LK Bell,0,0,,,,,,"",""
+ball,1,2.3,Western Storm,FC Wilson,SN Luff,LK Bell,4,0,,,,,,"",""
+ball,1,2.4,Western Storm,FC Wilson,SN Luff,LK Bell,0,0,,,,,,"",""
+ball,1,2.5,Western Storm,FC Wilson,SN Luff,LK Bell,1,0,,,,,,"",""
+ball,1,2.6,Western Storm,SN Luff,FC Wilson,LK Bell,0,0,,,,,,"",""
+ball,1,3.1,Western Storm,FC Wilson,SN Luff,A Shrubsole,0,0,,,,,,"",""
+ball,1,3.2,Western Storm,FC Wilson,SN Luff,A Shrubsole,1,0,,,,,,"",""
+ball,1,3.3,Western Storm,SN Luff,FC Wilson,A Shrubsole,0,0,,,,,,"",""
+ball,1,3.4,Western Storm,SN Luff,FC Wilson,A Shrubsole,0,0,,,,,,"",""
+ball,1,3.5,Western Storm,SN Luff,FC Wilson,A Shrubsole,0,1,1,,,,,"",""
+ball,1,3.6,Western Storm,SN Luff,FC Wilson,A Shrubsole,0,0,,,,,,"",""
+ball,1,3.7,Western Storm,SN Luff,FC Wilson,A Shrubsole,1,0,,,,,,"",""
+ball,1,4.1,Western Storm,SN Luff,FC Wilson,LCN Smith,0,0,,,,,,"",""
+ball,1,4.2,Western Storm,SN Luff,FC Wilson,LCN Smith,0,0,,,,,,"",""
+ball,1,4.3,Western Storm,SN Luff,FC Wilson,LCN Smith,4,0,,,,,,"",""
+ball,1,4.4,Western Storm,SN Luff,FC Wilson,LCN Smith,0,0,,,,,,"",""
+ball,1,4.5,Western Storm,SN Luff,FC Wilson,LCN Smith,1,0,,,,,,"",""
+ball,1,4.6,Western Storm,FC Wilson,SN Luff,LCN Smith,1,0,,,,,,"",""
+ball,1,5.1,Western Storm,FC Wilson,SN Luff,GA Elwiss,2,0,,,,,,"",""
+ball,1,5.2,Western Storm,FC Wilson,SN Luff,GA Elwiss,0,0,,,,,,"",""
+ball,1,5.3,Western Storm,FC Wilson,SN Luff,GA Elwiss,4,0,,,,,,"",""
+ball,1,5.4,Western Storm,FC Wilson,SN Luff,GA Elwiss,0,0,,,,,,"",""
+ball,1,5.5,Western Storm,FC Wilson,SN Luff,GA Elwiss,1,0,,,,,,"",""
+ball,1,5.6,Western Storm,SN Luff,FC Wilson,GA Elwiss,2,0,,,,,,"",""
+ball,1,6.1,Western Storm,FC Wilson,SN Luff,CE Dean,1,0,,,,,,"",""
+ball,1,6.2,Western Storm,SN Luff,FC Wilson,CE Dean,0,0,,,,,,"",""
+ball,1,6.3,Western Storm,SN Luff,FC Wilson,CE Dean,0,0,,,,,,"",""
+ball,1,6.4,Western Storm,SN Luff,FC Wilson,CE Dean,0,1,,,1,,,"",""
+ball,1,6.5,Western Storm,FC Wilson,SN Luff,CE Dean,0,0,,,,,,stumped,FC Wilson
+ball,1,6.6,Western Storm,O Prendergast,SN Luff,CE Dean,0,0,,,,,,"",""
+ball,1,7.1,Western Storm,SN Luff,O Prendergast,LK Bell,0,0,,,,,,"",""
+ball,1,7.2,Western Storm,SN Luff,O Prendergast,LK Bell,1,0,,,,,,"",""
+ball,1,7.3,Western Storm,O Prendergast,SN Luff,LK Bell,0,0,,,,,,"",""
+ball,1,7.4,Western Storm,O Prendergast,SN Luff,LK Bell,0,0,,,,,,"",""
+ball,1,7.5,Western Storm,O Prendergast,SN Luff,LK Bell,0,0,,,,,,"",""
+ball,1,7.6,Western Storm,O Prendergast,SN Luff,LK Bell,0,0,,,,,,"",""
+ball,1,8.1,Western Storm,SN Luff,O Prendergast,LCN Smith,0,0,,,,,,"",""
+ball,1,8.2,Western Storm,SN Luff,O Prendergast,LCN Smith,0,0,,,,,,"",""
+ball,1,8.3,Western Storm,SN Luff,O Prendergast,LCN Smith,0,0,,,,,,"",""
+ball,1,8.4,Western Storm,SN Luff,O Prendergast,LCN Smith,2,0,,,,,,"",""
+ball,1,8.5,Western Storm,SN Luff,O Prendergast,LCN Smith,0,0,,,,,,"",""
+ball,1,8.6,Western Storm,SN Luff,O Prendergast,LCN Smith,0,0,,,,,,"",""
+ball,1,9.1,Western Storm,O Prendergast,SN Luff,A Shrubsole,1,0,,,,,,"",""
+ball,1,9.2,Western Storm,SN Luff,O Prendergast,A Shrubsole,2,0,,,,,,"",""
+ball,1,9.3,Western Storm,SN Luff,O Prendergast,A Shrubsole,1,0,,,,,,"",""
+ball,1,9.4,Western Storm,O Prendergast,SN Luff,A Shrubsole,1,0,,,,,,"",""
+ball,1,9.5,Western Storm,SN Luff,O Prendergast,A Shrubsole,1,0,,,,,,"",""
+ball,1,9.6,Western Storm,O Prendergast,SN Luff,A Shrubsole,1,0,,,,,,"",""
+ball,1,10.1,Western Storm,O Prendergast,SN Luff,CE Dean,0,0,,,,,,"",""
+ball,1,10.2,Western Storm,O Prendergast,SN Luff,CE Dean,0,0,,,,,,"",""
+ball,1,10.3,Western Storm,O Prendergast,SN Luff,CE Dean,0,0,,,,,,"",""
+ball,1,10.4,Western Storm,O Prendergast,SN Luff,CE Dean,0,0,,,,,,lbw,O Prendergast
+ball,1,10.5,Western Storm,A Griffiths,SN Luff,CE Dean,0,0,,,,,,"",""
+ball,1,10.6,Western Storm,A Griffiths,SN Luff,CE Dean,0,0,,,,,,"",""
+ball,1,11.1,Western Storm,SN Luff,A Griffiths,GA Elwiss,1,0,,,,,,"",""
+ball,1,11.2,Western Storm,A Griffiths,SN Luff,GA Elwiss,0,0,,,,,,"",""
+ball,1,11.3,Western Storm,A Griffiths,SN Luff,GA Elwiss,0,0,,,,,,"",""
+ball,1,11.4,Western Storm,A Griffiths,SN Luff,GA Elwiss,0,0,,,,,,"",""
+ball,1,11.5,Western Storm,A Griffiths,SN Luff,GA Elwiss,1,0,,,,,,"",""
+ball,1,11.6,Western Storm,SN Luff,A Griffiths,GA Elwiss,1,0,,,,,,"",""
+ball,1,12.1,Western Storm,SN Luff,A Griffiths,CE Dean,1,0,,,,,,"",""
+ball,1,12.2,Western Storm,A Griffiths,SN Luff,CE Dean,1,0,,,,,,"",""
+ball,1,12.3,Western Storm,SN Luff,A Griffiths,CE Dean,1,0,,,,,,"",""
+ball,1,12.4,Western Storm,A Griffiths,SN Luff,CE Dean,1,0,,,,,,"",""
+ball,1,12.5,Western Storm,SN Luff,A Griffiths,CE Dean,2,0,,,,,,"",""
+ball,1,12.6,Western Storm,SN Luff,A Griffiths,CE Dean,1,0,,,,,,"",""
+ball,1,13.1,Western Storm,SN Luff,A Griffiths,GL Adams,1,0,,,,,,"",""
+ball,1,13.2,Western Storm,A Griffiths,SN Luff,GL Adams,0,0,,,,,,caught,A Griffiths
+ball,1,13.3,Western Storm,L Filer,SN Luff,GL Adams,0,1,1,,,,,"",""
+ball,1,13.4,Western Storm,L Filer,SN Luff,GL Adams,1,0,,,,,,"",""
+ball,1,13.5,Western Storm,SN Luff,L Filer,GL Adams,1,0,,,,,,"",""
+ball,1,13.6,Western Storm,L Filer,SN Luff,GL Adams,0,0,,,,,,"",""
+ball,1,13.7,Western Storm,L Filer,SN Luff,GL Adams,1,0,,,,,,"",""
+ball,1,14.1,Western Storm,L Filer,SN Luff,LCN Smith,1,0,,,,,,"",""
+ball,1,14.2,Western Storm,SN Luff,L Filer,LCN Smith,0,0,,,,,,"",""
+ball,1,14.3,Western Storm,SN Luff,L Filer,LCN Smith,0,0,,,,,,"",""
+ball,1,14.4,Western Storm,SN Luff,L Filer,LCN Smith,0,0,,,,,,"",""
+ball,1,14.5,Western Storm,SN Luff,L Filer,LCN Smith,2,0,,,,,,"",""
+ball,1,14.6,Western Storm,SN Luff,L Filer,LCN Smith,4,0,,,,,,"",""
+ball,1,15.1,Western Storm,L Filer,SN Luff,CE Dean,0,1,,,,1,,"",""
+ball,1,15.2,Western Storm,SN Luff,L Filer,CE Dean,4,0,,,,,,"",""
+ball,1,15.3,Western Storm,SN Luff,L Filer,CE Dean,1,0,,,,,,"",""
+ball,1,15.4,Western Storm,L Filer,SN Luff,CE Dean,0,0,,,,,,"",""
+ball,1,15.5,Western Storm,L Filer,SN Luff,CE Dean,0,1,1,,,,,"",""
+ball,1,15.6,Western Storm,L Filer,SN Luff,CE Dean,0,0,,,,,,"",""
+ball,1,15.7,Western Storm,L Filer,SN Luff,CE Dean,1,0,,,,,,"",""
+ball,1,16.1,Western Storm,L Filer,SN Luff,GL Adams,1,0,,,,,,"",""
+ball,1,16.2,Western Storm,SN Luff,L Filer,GL Adams,4,0,,,,,,"",""
+ball,1,16.3,Western Storm,SN Luff,L Filer,GL Adams,4,0,,,,,,"",""
+ball,1,16.4,Western Storm,SN Luff,L Filer,GL Adams,1,0,,,,,,"",""
+ball,1,16.5,Western Storm,L Filer,SN Luff,GL Adams,2,0,,,,,,"",""
+ball,1,16.6,Western Storm,L Filer,SN Luff,GL Adams,0,0,,,,,,"",""
+ball,1,17.1,Western Storm,SN Luff,L Filer,LK Bell,0,0,,,,,,caught,SN Luff
+ball,1,17.2,Western Storm,N Holland,L Filer,LK Bell,1,0,,,,,,"",""
+ball,1,17.3,Western Storm,L Filer,N Holland,LK Bell,0,0,,,,,,"",""
+ball,1,17.4,Western Storm,L Filer,N Holland,LK Bell,1,0,,,,,,"",""
+ball,1,17.5,Western Storm,N Holland,L Filer,LK Bell,0,0,,,,,,"",""
+ball,1,17.6,Western Storm,N Holland,L Filer,LK Bell,4,0,,,,,,"",""
+ball,1,18.1,Western Storm,L Filer,N Holland,LCN Smith,0,0,,,,,,"",""
+ball,1,18.2,Western Storm,L Filer,N Holland,LCN Smith,1,0,,,,,,"",""
+ball,1,18.3,Western Storm,N Holland,L Filer,LCN Smith,4,0,,,,,,"",""
+ball,1,18.4,Western Storm,N Holland,L Filer,LCN Smith,0,0,,,,,,bowled,N Holland
+ball,1,18.5,Western Storm,Sophia Smale,L Filer,LCN Smith,1,0,,,,,,"",""
+ball,1,18.6,Western Storm,L Filer,Sophia Smale,LCN Smith,1,0,,,,,,"",""
+ball,1,19.1,Western Storm,L Filer,Sophia Smale,GL Adams,1,0,,,,,,"",""
+ball,1,19.2,Western Storm,Sophia Smale,L Filer,GL Adams,0,0,,,,,,"",""
+ball,1,19.3,Western Storm,Sophia Smale,L Filer,GL Adams,2,0,,,,,,"",""
+ball,1,19.4,Western Storm,Sophia Smale,L Filer,GL Adams,0,0,,,,,,"",""
+ball,1,19.5,Western Storm,Sophia Smale,L Filer,GL Adams,1,0,,,,,,"",""
+ball,1,19.6,Western Storm,L Filer,Sophia Smale,GL Adams,1,0,,,,,,"",""
+ball,2,0.1,Southern Vipers,DN Wyatt,ME Bouchier,C Skelton,2,0,,,,,,"",""
+ball,2,0.2,Southern Vipers,DN Wyatt,ME Bouchier,C Skelton,4,0,,,,,,"",""
+ball,2,0.3,Southern Vipers,DN Wyatt,ME Bouchier,C Skelton,4,0,,,,,,"",""
+ball,2,0.4,Southern Vipers,DN Wyatt,ME Bouchier,C Skelton,4,0,,,,,,"",""
+ball,2,0.5,Southern Vipers,DN Wyatt,ME Bouchier,C Skelton,1,0,,,,,,"",""
+ball,2,0.6,Southern Vipers,ME Bouchier,DN Wyatt,C Skelton,2,0,,,,,,"",""
+ball,2,1.1,Southern Vipers,DN Wyatt,ME Bouchier,DR Gibson,1,0,,,,,,"",""
+ball,2,1.2,Southern Vipers,ME Bouchier,DN Wyatt,DR Gibson,0,0,,,,,,"",""
+ball,2,1.3,Southern Vipers,ME Bouchier,DN Wyatt,DR Gibson,0,1,1,,,,,"",""
+ball,2,1.4,Southern Vipers,ME Bouchier,DN Wyatt,DR Gibson,0,0,,,,,,"",""
+ball,2,1.5,Southern Vipers,ME Bouchier,DN Wyatt,DR Gibson,4,0,,,,,,"",""
+ball,2,1.6,Southern Vipers,ME Bouchier,DN Wyatt,DR Gibson,0,0,,,,,,"",""
+ball,2,1.7,Southern Vipers,ME Bouchier,DN Wyatt,DR Gibson,2,0,,,,,,"",""
+ball,2,2.1,Southern Vipers,DN Wyatt,ME Bouchier,O Prendergast,0,0,,,,,,bowled,DN Wyatt
+ball,2,2.2,Southern Vipers,N Faltum,ME Bouchier,O Prendergast,0,0,,,,,,"",""
+ball,2,2.3,Southern Vipers,N Faltum,ME Bouchier,O Prendergast,1,0,,,,,,"",""
+ball,2,2.4,Southern Vipers,ME Bouchier,N Faltum,O Prendergast,0,0,,,,,,"",""
+ball,2,2.5,Southern Vipers,ME Bouchier,N Faltum,O Prendergast,0,1,1,,,,,"",""
+ball,2,2.6,Southern Vipers,ME Bouchier,N Faltum,O Prendergast,2,0,,,,,,"",""
+ball,2,2.7,Southern Vipers,ME Bouchier,N Faltum,O Prendergast,4,0,,,,,,"",""
+ball,2,3.1,Southern Vipers,N Faltum,ME Bouchier,DR Gibson,0,0,,,,,,"",""
+ball,2,3.2,Southern Vipers,N Faltum,ME Bouchier,DR Gibson,1,0,,,,,,"",""
+ball,2,3.3,Southern Vipers,ME Bouchier,N Faltum,DR Gibson,0,0,,,,,,"",""
+ball,2,3.4,Southern Vipers,ME Bouchier,N Faltum,DR Gibson,4,0,,,,,,"",""
+ball,2,3.5,Southern Vipers,ME Bouchier,N Faltum,DR Gibson,4,0,,,,,,"",""
+ball,2,3.6,Southern Vipers,ME Bouchier,N Faltum,DR Gibson,1,0,,,,,,"",""
+ball,2,4.1,Southern Vipers,ME Bouchier,N Faltum,L Filer,0,0,,,,,,"",""
+ball,2,4.2,Southern Vipers,ME Bouchier,N Faltum,L Filer,4,0,,,,,,"",""
+ball,2,4.3,Southern Vipers,ME Bouchier,N Faltum,L Filer,0,1,,,,1,,"",""
+ball,2,4.4,Southern Vipers,N Faltum,ME Bouchier,L Filer,0,0,,,,,,bowled,N Faltum
+ball,2,4.5,Southern Vipers,GL Adams,ME Bouchier,L Filer,0,0,,,,,,"",""
+ball,2,4.6,Southern Vipers,GL Adams,ME Bouchier,L Filer,1,0,,,,,,"",""
+ball,2,5.1,Southern Vipers,GL Adams,ME Bouchier,Sophia Smale,0,0,,,,,,"",""
+ball,2,5.2,Southern Vipers,GL Adams,ME Bouchier,Sophia Smale,0,0,,,,,,"",""
+ball,2,5.3,Southern Vipers,GL Adams,ME Bouchier,Sophia Smale,0,0,,,,,,"",""
+ball,2,5.4,Southern Vipers,GL Adams,ME Bouchier,Sophia Smale,1,0,,,,,,"",""
+ball,2,5.5,Southern Vipers,ME Bouchier,GL Adams,Sophia Smale,0,0,,,,,,"",""
+ball,2,5.6,Southern Vipers,ME Bouchier,GL Adams,Sophia Smale,0,0,,,,,,"",""
+ball,2,6.1,Southern Vipers,GL Adams,ME Bouchier,L Filer,0,0,,,,,,"",""
+ball,2,6.2,Southern Vipers,GL Adams,ME Bouchier,L Filer,1,0,,,,,,"",""
+ball,2,6.3,Southern Vipers,ME Bouchier,GL Adams,L Filer,0,1,1,,,,,"",""
+ball,2,6.4,Southern Vipers,ME Bouchier,GL Adams,L Filer,0,0,,,,,,"",""
+ball,2,6.5,Southern Vipers,ME Bouchier,GL Adams,L Filer,1,0,,,,,,"",""
+ball,2,6.6,Southern Vipers,GL Adams,ME Bouchier,L Filer,0,0,,,,,,"",""
+ball,2,6.7,Southern Vipers,GL Adams,ME Bouchier,L Filer,0,0,,,,,,"",""
+ball,2,7.1,Southern Vipers,ME Bouchier,GL Adams,Sophia Smale,4,0,,,,,,"",""
+ball,2,7.2,Southern Vipers,ME Bouchier,GL Adams,Sophia Smale,0,0,,,,,,"",""
+ball,2,7.3,Southern Vipers,ME Bouchier,GL Adams,Sophia Smale,0,0,,,,,,"",""
+ball,2,7.4,Southern Vipers,ME Bouchier,GL Adams,Sophia Smale,0,0,,,,,,"",""
+ball,2,7.5,Southern Vipers,ME Bouchier,GL Adams,Sophia Smale,1,0,,,,,,"",""
+ball,2,7.6,Southern Vipers,GL Adams,ME Bouchier,Sophia Smale,4,0,,,,,,"",""
+ball,2,8.1,Southern Vipers,ME Bouchier,GL Adams,L Filer,0,0,,,,,,"",""
+ball,2,8.2,Southern Vipers,ME Bouchier,GL Adams,L Filer,1,0,,,,,,"",""
+ball,2,8.3,Southern Vipers,GL Adams,ME Bouchier,L Filer,0,1,,1,,,,"",""
+ball,2,8.4,Southern Vipers,GL Adams,ME Bouchier,L Filer,1,0,,,,,,"",""
+ball,2,8.5,Southern Vipers,ME Bouchier,GL Adams,L Filer,0,0,,,,,,"",""
+ball,2,8.6,Southern Vipers,ME Bouchier,GL Adams,L Filer,0,1,1,,,,,"",""
+ball,2,8.7,Southern Vipers,ME Bouchier,GL Adams,L Filer,0,0,,,,,,"",""
+ball,2,8.8,Southern Vipers,ME Bouchier,GL Adams,L Filer,0,0,,,,,,"",""
+ball,2,9.1,Southern Vipers,GL Adams,ME Bouchier,C Skelton,4,0,,,,,,"",""
+ball,2,9.2,Southern Vipers,GL Adams,ME Bouchier,C Skelton,4,0,,,,,,"",""
+ball,2,9.3,Southern Vipers,GL Adams,ME Bouchier,C Skelton,0,0,,,,,,"",""
+ball,2,9.4,Southern Vipers,GL Adams,ME Bouchier,C Skelton,1,0,,,,,,"",""
+ball,2,9.5,Southern Vipers,ME Bouchier,GL Adams,C Skelton,0,0,,,,,,"",""
+ball,2,9.6,Southern Vipers,ME Bouchier,GL Adams,C Skelton,1,0,,,,,,"",""
+ball,2,10.1,Southern Vipers,ME Bouchier,GL Adams,DR Gibson,4,0,,,,,,"",""
+ball,2,10.2,Southern Vipers,ME Bouchier,GL Adams,DR Gibson,4,0,,,,,,"",""
+ball,2,10.3,Southern Vipers,ME Bouchier,GL Adams,DR Gibson,1,0,,,,,,"",""
+ball,2,10.4,Southern Vipers,GL Adams,ME Bouchier,DR Gibson,1,0,,,,,,"",""
+ball,2,10.5,Southern Vipers,ME Bouchier,GL Adams,DR Gibson,0,5,,1,4,,,"",""
+ball,2,10.6,Southern Vipers,ME Bouchier,GL Adams,DR Gibson,0,0,,,,,,"",""
+ball,2,10.7,Southern Vipers,ME Bouchier,GL Adams,DR Gibson,0,0,,,,,,"",""
+ball,2,11.1,Southern Vipers,GL Adams,ME Bouchier,HC Knight,0,0,,,,,,"",""
+ball,2,11.2,Southern Vipers,GL Adams,ME Bouchier,HC Knight,0,0,,,,,,"",""
+ball,2,11.3,Southern Vipers,GL Adams,ME Bouchier,HC Knight,1,0,,,,,,"",""
+ball,2,11.4,Southern Vipers,ME Bouchier,GL Adams,HC Knight,0,0,,,,,,"",""
+ball,2,11.5,Southern Vipers,ME Bouchier,GL Adams,HC Knight,1,0,,,,,,"",""
+ball,2,11.6,Southern Vipers,GL Adams,ME Bouchier,HC Knight,1,0,,,,,,"",""
+ball,2,12.1,Southern Vipers,GL Adams,ME Bouchier,Sophia Smale,1,0,,,,,,"",""
+ball,2,12.2,Southern Vipers,ME Bouchier,GL Adams,Sophia Smale,0,0,,,,,,caught,ME Bouchier
+ball,2,12.3,Southern Vipers,GA Elwiss,GL Adams,Sophia Smale,0,0,,,,,,"",""
+ball,2,12.4,Southern Vipers,GA Elwiss,GL Adams,Sophia Smale,0,0,,,,,,"",""
+ball,2,12.5,Southern Vipers,GA Elwiss,GL Adams,Sophia Smale,0,0,,,,,,"",""
+ball,2,12.6,Southern Vipers,GA Elwiss,GL Adams,Sophia Smale,1,0,,,,,,"",""
+ball,2,13.1,Southern Vipers,GA Elwiss,GL Adams,HC Knight,0,0,,,,,,"",""
+ball,2,13.2,Southern Vipers,GA Elwiss,GL Adams,HC Knight,0,0,,,,,,"",""
+ball,2,13.3,Southern Vipers,GA Elwiss,GL Adams,HC Knight,1,0,,,,,,"",""
+ball,2,13.4,Southern Vipers,GL Adams,GA Elwiss,HC Knight,1,0,,,,,,"",""
+ball,2,13.5,Southern Vipers,GA Elwiss,GL Adams,HC Knight,1,0,,,,,,"",""
+ball,2,13.6,Southern Vipers,GL Adams,GA Elwiss,HC Knight,4,0,,,,,,"",""
+ball,2,14.1,Southern Vipers,GA Elwiss,GL Adams,Sophia Smale,4,0,,,,,,"",""

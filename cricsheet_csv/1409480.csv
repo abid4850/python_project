@@ -1,0 +1,179 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Wellington
+info,gender,male
+info,season,2023/24
+info,date,2023/12/28
+info,event,Super Smash
+info,match_number,7
+info,venue,"Molyneux Park, Alexandra"
+info,city,Alexandra
+info,toss_winner,Otago
+info,toss_decision,bat
+info,player_of_match,NG Smith
+info,umpire,JM Dempsey
+info,umpire,KS Jagannathan
+info,reserve_umpire,JT Blunt
+info,tv_umpire,PJ Pasco
+info,match_referee,RE Hayward
+info,winner,Wellington
+info,winner_wickets,9
+info,player,Otago,HD Rutherford
+info,player,Otago,JM Gibson
+info,player,Otago,D Foxcroft
+info,player,Otago,MW Chu
+info,player,Otago,DN Phillips
+info,player,Otago,LC Johnson
+info,player,Otago,OJ White
+info,player,Otago,BNJ Lockrose
+info,player,Otago,T Muller
+info,player,Otago,ATE Hazeldine
+info,player,Otago,MB Bacon
+info,player,Wellington,TB Robinson
+info,player,Wellington,NA Greenwood
+info,player,Wellington,NF Kelly
+info,player,Wellington,MA Abbas
+info,player,Wellington,JM Tashkoff
+info,player,Wellington,NG Smith
+info,player,Wellington,CR McLachlan
+info,player,Wellington,LV van Beek
+info,player,Wellington,PF Younghusband
+info,player,Wellington,MW Snedden
+info,player,Wellington,IG McPeake
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,JM Tashkoff,afe7d695
+info,registry,people,JT Blunt,2fe9a247
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MB Bacon,90701232
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,OJ White,a2e63eab
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TB Robinson,5d664346
+ball,1,0.1,Otago,HD Rutherford,JM Gibson,NG Smith,0,0,,,,,,"",""
+ball,1,0.2,Otago,HD Rutherford,JM Gibson,NG Smith,1,0,,,,,,"",""
+ball,1,0.3,Otago,JM Gibson,HD Rutherford,NG Smith,2,0,,,,,,"",""
+ball,1,0.4,Otago,JM Gibson,HD Rutherford,NG Smith,0,0,,,,,,"",""
+ball,1,0.5,Otago,JM Gibson,HD Rutherford,NG Smith,0,0,,,,,,caught,JM Gibson
+ball,1,0.6,Otago,D Foxcroft,HD Rutherford,NG Smith,0,0,,,,,,"",""
+ball,1,1.1,Otago,HD Rutherford,D Foxcroft,LV van Beek,4,0,,,,,,"",""
+ball,1,1.2,Otago,HD Rutherford,D Foxcroft,LV van Beek,2,0,,,,,,"",""
+ball,1,1.3,Otago,HD Rutherford,D Foxcroft,LV van Beek,0,0,,,,,,"",""
+ball,1,1.4,Otago,HD Rutherford,D Foxcroft,LV van Beek,0,0,,,,,,"",""
+ball,1,1.5,Otago,HD Rutherford,D Foxcroft,LV van Beek,0,0,,,,,,bowled,HD Rutherford
+ball,1,1.6,Otago,MW Chu,D Foxcroft,LV van Beek,0,1,,,,1,,"",""
+ball,1,2.1,Otago,MW Chu,D Foxcroft,NG Smith,0,1,1,,,,,"",""
+ball,1,2.2,Otago,MW Chu,D Foxcroft,NG Smith,0,0,,,,,,bowled,MW Chu
+ball,1,2.3,Otago,DN Phillips,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,1,2.4,Otago,DN Phillips,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,1,2.5,Otago,DN Phillips,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,1,2.6,Otago,DN Phillips,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,1,2.7,Otago,DN Phillips,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,1,3.1,Otago,D Foxcroft,DN Phillips,LV van Beek,0,0,,,,,,"",""
+ball,1,3.2,Otago,D Foxcroft,DN Phillips,LV van Beek,1,0,,,,,,"",""
+ball,1,3.3,Otago,DN Phillips,D Foxcroft,LV van Beek,0,0,,,,,,caught,DN Phillips
+ball,1,3.4,Otago,LC Johnson,D Foxcroft,LV van Beek,0,0,,,,,,"",""
+ball,1,3.5,Otago,LC Johnson,D Foxcroft,LV van Beek,0,0,,,,,,"",""
+ball,1,3.6,Otago,LC Johnson,D Foxcroft,LV van Beek,2,0,,,,,,"",""
+ball,1,4.1,Otago,D Foxcroft,LC Johnson,NG Smith,0,0,,,,,,"",""
+ball,1,4.2,Otago,D Foxcroft,LC Johnson,NG Smith,0,0,,,,,,caught,D Foxcroft
+ball,1,4.3,Otago,OJ White,LC Johnson,NG Smith,0,0,,,,,,"",""
+ball,1,4.4,Otago,OJ White,LC Johnson,NG Smith,0,0,,,,,,"",""
+ball,1,4.5,Otago,OJ White,LC Johnson,NG Smith,0,0,,,,,,"",""
+ball,1,4.6,Otago,OJ White,LC Johnson,NG Smith,0,0,,,,,,"",""
+ball,1,5.1,Otago,LC Johnson,OJ White,IG McPeake,0,0,,,,,,"",""
+ball,1,5.2,Otago,LC Johnson,OJ White,IG McPeake,0,1,1,,,,,"",""
+ball,1,5.3,Otago,LC Johnson,OJ White,IG McPeake,0,0,,,,,,"",""
+ball,1,5.4,Otago,LC Johnson,OJ White,IG McPeake,0,0,,,,,,"",""
+ball,1,5.5,Otago,LC Johnson,OJ White,IG McPeake,0,0,,,,,,"",""
+ball,1,5.6,Otago,LC Johnson,OJ White,IG McPeake,2,0,,,,,,"",""
+ball,1,5.7,Otago,LC Johnson,OJ White,IG McPeake,0,0,,,,,,"",""
+ball,1,6.1,Otago,OJ White,LC Johnson,PF Younghusband,0,0,,,,,,"",""
+ball,1,6.2,Otago,OJ White,LC Johnson,PF Younghusband,0,0,,,,,,"",""
+ball,1,6.3,Otago,OJ White,LC Johnson,PF Younghusband,1,0,,,,,,"",""
+ball,1,6.4,Otago,LC Johnson,OJ White,PF Younghusband,1,0,,,,,,"",""
+ball,1,6.5,Otago,OJ White,LC Johnson,PF Younghusband,0,0,,,,,,caught,OJ White
+ball,1,6.6,Otago,BNJ Lockrose,LC Johnson,PF Younghusband,1,0,,,,,,"",""
+ball,1,7.1,Otago,BNJ Lockrose,LC Johnson,IG McPeake,0,0,,,,,,caught,BNJ Lockrose
+ball,1,7.2,Otago,T Muller,LC Johnson,IG McPeake,0,1,1,,,,,"",""
+ball,1,7.3,Otago,T Muller,LC Johnson,IG McPeake,0,0,,,,,,"",""
+ball,1,7.4,Otago,T Muller,LC Johnson,IG McPeake,4,0,,,,,,"",""
+ball,1,7.5,Otago,T Muller,LC Johnson,IG McPeake,0,0,,,,,,"",""
+ball,1,7.6,Otago,T Muller,LC Johnson,IG McPeake,1,0,,,,,,"",""
+ball,1,7.7,Otago,LC Johnson,T Muller,IG McPeake,1,0,,,,,,"",""
+ball,1,8.1,Otago,LC Johnson,T Muller,PF Younghusband,0,0,,,,,,"",""
+ball,1,8.2,Otago,LC Johnson,T Muller,PF Younghusband,1,0,,,,,,"",""
+ball,1,8.3,Otago,T Muller,LC Johnson,PF Younghusband,2,0,,,,,,"",""
+ball,1,8.4,Otago,T Muller,LC Johnson,PF Younghusband,0,0,,,,,,caught and bowled,T Muller
+ball,1,8.5,Otago,ATE Hazeldine,LC Johnson,PF Younghusband,0,0,,,,,,"",""
+ball,1,8.6,Otago,ATE Hazeldine,LC Johnson,PF Younghusband,0,0,,,,,,"",""
+ball,1,9.1,Otago,LC Johnson,ATE Hazeldine,NG Smith,0,0,,,,,,"",""
+ball,1,9.2,Otago,LC Johnson,ATE Hazeldine,NG Smith,0,0,,,,,,"",""
+ball,1,9.3,Otago,LC Johnson,ATE Hazeldine,NG Smith,0,0,,,,,,bowled,LC Johnson
+ball,1,9.4,Otago,MB Bacon,ATE Hazeldine,NG Smith,0,0,,,,,,"",""
+ball,1,9.5,Otago,MB Bacon,ATE Hazeldine,NG Smith,0,0,,,,,,"",""
+ball,1,9.6,Otago,MB Bacon,ATE Hazeldine,NG Smith,1,0,,,,,,"",""
+ball,1,10.1,Otago,MB Bacon,ATE Hazeldine,LV van Beek,0,0,,,,,,"",""
+ball,1,10.2,Otago,MB Bacon,ATE Hazeldine,LV van Beek,0,1,,,,1,,"",""
+ball,1,10.3,Otago,ATE Hazeldine,MB Bacon,LV van Beek,1,0,,,,,,"",""
+ball,1,10.4,Otago,MB Bacon,ATE Hazeldine,LV van Beek,0,0,,,,,,"",""
+ball,1,10.5,Otago,MB Bacon,ATE Hazeldine,LV van Beek,2,0,,,,,,"",""
+ball,1,10.6,Otago,MB Bacon,ATE Hazeldine,LV van Beek,0,1,1,,,,,"",""
+ball,1,10.7,Otago,MB Bacon,ATE Hazeldine,LV van Beek,1,0,,,,,,"",""
+ball,1,11.1,Otago,MB Bacon,ATE Hazeldine,PF Younghusband,1,0,,,,,,"",""
+ball,1,11.2,Otago,ATE Hazeldine,MB Bacon,PF Younghusband,0,0,,,,,,"",""
+ball,1,11.3,Otago,ATE Hazeldine,MB Bacon,PF Younghusband,1,0,,,,,,"",""
+ball,1,11.4,Otago,MB Bacon,ATE Hazeldine,PF Younghusband,0,0,,,,,,"",""
+ball,1,11.5,Otago,MB Bacon,ATE Hazeldine,PF Younghusband,2,0,,,,,,"",""
+ball,1,11.6,Otago,MB Bacon,ATE Hazeldine,PF Younghusband,1,0,,,,,,"",""
+ball,1,12.1,Otago,MB Bacon,ATE Hazeldine,LV van Beek,0,0,,,,,,"",""
+ball,1,12.2,Otago,MB Bacon,ATE Hazeldine,LV van Beek,1,0,,,,,,"",""
+ball,1,12.3,Otago,ATE Hazeldine,MB Bacon,LV van Beek,4,0,,,,,,"",""
+ball,1,12.4,Otago,ATE Hazeldine,MB Bacon,LV van Beek,0,0,,,,,,caught,ATE Hazeldine
+ball,2,0.1,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,0,1,1,,,,,"",""
+ball,2,0.2,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,0,0,,,,,,"",""
+ball,2,0.3,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,0,0,,,,,,"",""
+ball,2,0.4,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,0,0,,,,,,"",""
+ball,2,0.5,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,3,0,,,,,,"",""
+ball,2,0.6,Wellington,NA Greenwood,TB Robinson,ATE Hazeldine,0,0,,,,,,"",""
+ball,2,0.7,Wellington,NA Greenwood,TB Robinson,ATE Hazeldine,2,0,,,,,,"",""
+ball,2,1.1,Wellington,TB Robinson,NA Greenwood,T Muller,0,0,,,,,,"",""
+ball,2,1.2,Wellington,TB Robinson,NA Greenwood,T Muller,4,0,,,,,,"",""
+ball,2,1.3,Wellington,TB Robinson,NA Greenwood,T Muller,4,0,,,,,,"",""
+ball,2,1.4,Wellington,TB Robinson,NA Greenwood,T Muller,0,1,1,,,,,"",""
+ball,2,1.5,Wellington,TB Robinson,NA Greenwood,T Muller,6,0,,,,,,"",""
+ball,2,1.6,Wellington,TB Robinson,NA Greenwood,T Muller,3,0,,,,,,"",""
+ball,2,1.7,Wellington,NA Greenwood,TB Robinson,T Muller,4,0,,,,,,"",""
+ball,2,2.1,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,4,0,,,,,,"",""
+ball,2,2.2,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,0,0,,,,,,"",""
+ball,2,2.3,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,0,0,,,,,,"",""
+ball,2,2.4,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,0,0,,,,,,"",""
+ball,2,2.5,Wellington,TB Robinson,NA Greenwood,ATE Hazeldine,1,0,,,,,,"",""
+ball,2,2.6,Wellington,NA Greenwood,TB Robinson,ATE Hazeldine,4,0,,,,,,"",""
+ball,2,3.1,Wellington,TB Robinson,NA Greenwood,MB Bacon,1,0,,,,,,"",""
+ball,2,3.2,Wellington,NA Greenwood,TB Robinson,MB Bacon,0,0,,,,,,caught,NA Greenwood
+ball,2,3.3,Wellington,NF Kelly,TB Robinson,MB Bacon,0,0,,,,,,"",""
+ball,2,3.4,Wellington,NF Kelly,TB Robinson,MB Bacon,0,0,,,,,,"",""
+ball,2,3.5,Wellington,NF Kelly,TB Robinson,D Foxcroft,1,0,,,,,,"",""
+ball,2,3.6,Wellington,TB Robinson,NF Kelly,D Foxcroft,4,0,,,,,,"",""
+ball,2,4.1,Wellington,NF Kelly,TB Robinson,ATE Hazeldine,4,0,,,,,,"",""
+ball,2,4.2,Wellington,NF Kelly,TB Robinson,ATE Hazeldine,0,0,,,,,,"",""
+ball,2,4.3,Wellington,NF Kelly,TB Robinson,ATE Hazeldine,6,0,,,,,,"",""

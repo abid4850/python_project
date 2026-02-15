@@ -1,0 +1,286 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Western Province
+info,gender,male
+info,season,2021/22
+info,date,2022/02/23
+info,event,CSA T20 Challenge
+info,match_number,27
+info,venue,"St George's Park, Port Elizabeth"
+info,city,Port Elizabeth
+info,toss_winner,Western Province
+info,toss_decision,field
+info,player_of_match,K Zondo
+info,player_of_match,P Subrayen
+info,umpire,BP Jele
+info,umpire,Stephen Harris
+info,reserve_umpire,LB Gcuma
+info,tv_umpire,A Jacobs
+info,match_referee,LH Matroos
+info,winner,Dolphins
+info,winner_runs,65
+info,player,Dolphins,KD Petersen
+info,player,Dolphins,G Roelofsen
+info,player,Dolphins,MJ Ackerman
+info,player,Dolphins,R de Swardt
+info,player,Dolphins,K Zondo
+info,player,Dolphins,B Parsons
+info,player,Dolphins,AL Phehlukwayo
+info,player,Dolphins,E Bosch
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,K Mungroo
+info,player,Dolphins,OEG Baartman
+info,player,Western Province,RE Levi
+info,player,Western Province,D Smith
+info,player,Western Province,T de Zorzi
+info,player,Western Province,DJ Vilas
+info,player,Western Province,MY Vallie
+info,player,Western Province,GF Linde
+info,player,Western Province,A Mgijima
+info,player,Western Province,WD Parnell
+info,player,Western Province,M Mpongwana
+info,player,Western Province,BE Hendricks
+info,player,Western Province,J Dawood
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Mgijima,955e8e86
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,B Parsons,fc60e81a
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Smith,5d69930d
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GF Linde,e5437608
+info,registry,people,J Dawood,a2316f90
+info,registry,people,K Mungroo,56feceb0
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Mpongwana,547c5509
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,MY Vallie,9fa54c94
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,R de Swardt,57e1d7e4
+info,registry,people,RE Levi,18c78b11
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T de Zorzi,d3a1c63d
+info,registry,people,WD Parnell,3a60e0b5
+ball,1,0.1,Dolphins,KD Petersen,G Roelofsen,GF Linde,0,0,,,,,,bowled,KD Petersen
+ball,1,0.2,Dolphins,MJ Ackerman,G Roelofsen,GF Linde,1,0,,,,,,"",""
+ball,1,0.3,Dolphins,G Roelofsen,MJ Ackerman,GF Linde,1,0,,,,,,"",""
+ball,1,0.4,Dolphins,MJ Ackerman,G Roelofsen,GF Linde,2,0,,,,,,"",""
+ball,1,0.5,Dolphins,MJ Ackerman,G Roelofsen,GF Linde,1,0,,,,,,"",""
+ball,1,0.6,Dolphins,G Roelofsen,MJ Ackerman,GF Linde,1,0,,,,,,"",""
+ball,1,1.1,Dolphins,G Roelofsen,MJ Ackerman,A Mgijima,6,0,,,,,,"",""
+ball,1,1.2,Dolphins,G Roelofsen,MJ Ackerman,A Mgijima,0,0,,,,,,"",""
+ball,1,1.3,Dolphins,G Roelofsen,MJ Ackerman,A Mgijima,0,0,,,,,,"",""
+ball,1,1.4,Dolphins,G Roelofsen,MJ Ackerman,A Mgijima,0,0,,,,,,caught,G Roelofsen
+ball,1,1.5,Dolphins,MJ Ackerman,R de Swardt,A Mgijima,0,0,,,,,,"",""
+ball,1,1.6,Dolphins,MJ Ackerman,R de Swardt,A Mgijima,1,0,,,,,,"",""
+ball,1,2.1,Dolphins,MJ Ackerman,R de Swardt,GF Linde,0,0,,,,,,"",""
+ball,1,2.2,Dolphins,MJ Ackerman,R de Swardt,GF Linde,0,0,,,,,,caught,MJ Ackerman
+ball,1,2.3,Dolphins,K Zondo,R de Swardt,GF Linde,0,0,,,,,,"",""
+ball,1,2.4,Dolphins,K Zondo,R de Swardt,GF Linde,3,0,,,,,,"",""
+ball,1,2.5,Dolphins,R de Swardt,K Zondo,GF Linde,0,1,1,,,,,"",""
+ball,1,2.6,Dolphins,R de Swardt,K Zondo,GF Linde,0,0,,,,,,"",""
+ball,1,2.7,Dolphins,R de Swardt,K Zondo,GF Linde,0,0,,,,,,"",""
+ball,1,3.1,Dolphins,K Zondo,R de Swardt,BE Hendricks,1,0,,,,,,"",""
+ball,1,3.2,Dolphins,R de Swardt,K Zondo,BE Hendricks,0,0,,,,,,"",""
+ball,1,3.3,Dolphins,R de Swardt,K Zondo,BE Hendricks,0,0,,,,,,"",""
+ball,1,3.4,Dolphins,R de Swardt,K Zondo,BE Hendricks,0,0,,,,,,"",""
+ball,1,3.5,Dolphins,R de Swardt,K Zondo,BE Hendricks,4,0,,,,,,"",""
+ball,1,3.6,Dolphins,R de Swardt,K Zondo,BE Hendricks,1,0,,,,,,"",""
+ball,1,4.1,Dolphins,R de Swardt,K Zondo,WD Parnell,1,0,,,,,,"",""
+ball,1,4.2,Dolphins,K Zondo,R de Swardt,WD Parnell,1,0,,,,,,"",""
+ball,1,4.3,Dolphins,R de Swardt,K Zondo,WD Parnell,1,0,,,,,,"",""
+ball,1,4.4,Dolphins,K Zondo,R de Swardt,WD Parnell,1,0,,,,,,"",""
+ball,1,4.5,Dolphins,R de Swardt,K Zondo,WD Parnell,1,0,,,,,,"",""
+ball,1,4.6,Dolphins,K Zondo,R de Swardt,WD Parnell,1,0,,,,,,"",""
+ball,1,5.1,Dolphins,K Zondo,R de Swardt,BE Hendricks,4,0,,,,,,"",""
+ball,1,5.2,Dolphins,K Zondo,R de Swardt,BE Hendricks,1,0,,,,,,"",""
+ball,1,5.3,Dolphins,R de Swardt,K Zondo,BE Hendricks,0,0,,,,,,"",""
+ball,1,5.4,Dolphins,R de Swardt,K Zondo,BE Hendricks,0,0,,,,,,"",""
+ball,1,5.5,Dolphins,R de Swardt,K Zondo,BE Hendricks,1,0,,,,,,"",""
+ball,1,5.6,Dolphins,K Zondo,R de Swardt,BE Hendricks,1,0,,,,,,"",""
+ball,1,6.1,Dolphins,K Zondo,R de Swardt,GF Linde,2,0,,,,,,"",""
+ball,1,6.2,Dolphins,K Zondo,R de Swardt,GF Linde,1,0,,,,,,"",""
+ball,1,6.3,Dolphins,R de Swardt,K Zondo,GF Linde,1,0,,,,,,"",""
+ball,1,6.4,Dolphins,K Zondo,R de Swardt,GF Linde,1,0,,,,,,"",""
+ball,1,6.5,Dolphins,R de Swardt,K Zondo,GF Linde,4,0,,,,,,"",""
+ball,1,6.6,Dolphins,R de Swardt,K Zondo,GF Linde,1,0,,,,,,"",""
+ball,1,7.1,Dolphins,R de Swardt,K Zondo,A Mgijima,2,0,,,,,,"",""
+ball,1,7.2,Dolphins,R de Swardt,K Zondo,A Mgijima,1,0,,,,,,"",""
+ball,1,7.3,Dolphins,K Zondo,R de Swardt,A Mgijima,1,0,,,,,,"",""
+ball,1,7.4,Dolphins,R de Swardt,K Zondo,A Mgijima,1,0,,,,,,"",""
+ball,1,7.5,Dolphins,K Zondo,R de Swardt,A Mgijima,1,0,,,,,,"",""
+ball,1,7.6,Dolphins,R de Swardt,K Zondo,A Mgijima,1,0,,,,,,"",""
+ball,1,8.1,Dolphins,R de Swardt,K Zondo,GF Linde,1,0,,,,,,"",""
+ball,1,8.2,Dolphins,K Zondo,R de Swardt,GF Linde,1,0,,,,,,"",""
+ball,1,8.3,Dolphins,R de Swardt,K Zondo,GF Linde,1,0,,,,,,"",""
+ball,1,8.4,Dolphins,K Zondo,R de Swardt,GF Linde,0,0,,,,,,"",""
+ball,1,8.5,Dolphins,K Zondo,R de Swardt,GF Linde,0,0,,,,,,"",""
+ball,1,8.6,Dolphins,K Zondo,R de Swardt,GF Linde,1,0,,,,,,"",""
+ball,1,9.1,Dolphins,K Zondo,R de Swardt,A Mgijima,0,0,,,,,,"",""
+ball,1,9.2,Dolphins,K Zondo,R de Swardt,A Mgijima,1,0,,,,,,"",""
+ball,1,9.3,Dolphins,R de Swardt,K Zondo,A Mgijima,0,0,,,,,,caught,R de Swardt
+ball,1,9.4,Dolphins,B Parsons,K Zondo,A Mgijima,0,0,,,,,,"",""
+ball,1,9.5,Dolphins,B Parsons,K Zondo,A Mgijima,1,0,,,,,,"",""
+ball,1,9.6,Dolphins,K Zondo,B Parsons,A Mgijima,1,0,,,,,,"",""
+ball,1,10.1,Dolphins,K Zondo,B Parsons,J Dawood,1,0,,,,,,"",""
+ball,1,10.2,Dolphins,B Parsons,K Zondo,J Dawood,1,0,,,,,,"",""
+ball,1,10.3,Dolphins,K Zondo,B Parsons,J Dawood,1,0,,,,,,"",""
+ball,1,10.4,Dolphins,B Parsons,K Zondo,J Dawood,1,0,,,,,,"",""
+ball,1,10.5,Dolphins,K Zondo,B Parsons,J Dawood,1,0,,,,,,"",""
+ball,1,10.6,Dolphins,B Parsons,K Zondo,J Dawood,0,0,,,,,,"",""
+ball,1,11.1,Dolphins,K Zondo,B Parsons,A Mgijima,4,0,,,,,,"",""
+ball,1,11.2,Dolphins,K Zondo,B Parsons,A Mgijima,0,0,,,,,,"",""
+ball,1,11.3,Dolphins,K Zondo,B Parsons,A Mgijima,1,0,,,,,,"",""
+ball,1,11.4,Dolphins,B Parsons,K Zondo,A Mgijima,0,0,,,,,,"",""
+ball,1,11.5,Dolphins,B Parsons,K Zondo,A Mgijima,1,0,,,,,,"",""
+ball,1,11.6,Dolphins,K Zondo,B Parsons,A Mgijima,2,0,,,,,,"",""
+ball,1,12.1,Dolphins,B Parsons,K Zondo,J Dawood,1,0,,,,,,"",""
+ball,1,12.2,Dolphins,K Zondo,B Parsons,J Dawood,1,0,,,,,,"",""
+ball,1,12.3,Dolphins,B Parsons,K Zondo,J Dawood,1,0,,,,,,"",""
+ball,1,12.4,Dolphins,K Zondo,B Parsons,J Dawood,0,0,,,,,,"",""
+ball,1,12.5,Dolphins,K Zondo,B Parsons,J Dawood,1,0,,,,,,"",""
+ball,1,12.6,Dolphins,B Parsons,K Zondo,J Dawood,1,0,,,,,,"",""
+ball,1,13.1,Dolphins,B Parsons,K Zondo,M Mpongwana,0,0,,,,,,"",""
+ball,1,13.2,Dolphins,B Parsons,K Zondo,M Mpongwana,6,0,,,,,,"",""
+ball,1,13.3,Dolphins,B Parsons,K Zondo,M Mpongwana,1,0,,,,,,"",""
+ball,1,13.4,Dolphins,K Zondo,B Parsons,M Mpongwana,0,0,,,,,,"",""
+ball,1,13.5,Dolphins,K Zondo,B Parsons,M Mpongwana,3,0,,,,,,"",""
+ball,1,13.6,Dolphins,B Parsons,K Zondo,M Mpongwana,0,0,,,,,,"",""
+ball,1,14.1,Dolphins,K Zondo,B Parsons,J Dawood,0,0,,,,,,"",""
+ball,1,14.2,Dolphins,K Zondo,B Parsons,J Dawood,1,0,,,,,,"",""
+ball,1,14.3,Dolphins,B Parsons,K Zondo,J Dawood,1,0,,,,,,"",""
+ball,1,14.4,Dolphins,K Zondo,B Parsons,J Dawood,0,0,,,,,,"",""
+ball,1,14.5,Dolphins,K Zondo,B Parsons,J Dawood,1,0,,,,,,"",""
+ball,1,14.6,Dolphins,B Parsons,K Zondo,J Dawood,1,0,,,,,,"",""
+ball,1,15.1,Dolphins,B Parsons,K Zondo,WD Parnell,4,0,,,,,,"",""
+ball,1,15.2,Dolphins,B Parsons,K Zondo,WD Parnell,4,0,,,,,,"",""
+ball,1,15.3,Dolphins,B Parsons,K Zondo,WD Parnell,1,0,,,,,,"",""
+ball,1,15.4,Dolphins,K Zondo,B Parsons,WD Parnell,1,0,,,,,,"",""
+ball,1,15.5,Dolphins,B Parsons,K Zondo,WD Parnell,2,0,,,,,,"",""
+ball,1,15.6,Dolphins,B Parsons,K Zondo,WD Parnell,1,0,,,,,,"",""
+ball,1,16.1,Dolphins,B Parsons,K Zondo,J Dawood,0,0,,,,,,caught,B Parsons
+ball,1,16.2,Dolphins,K Zondo,AL Phehlukwayo,J Dawood,0,0,,,,,,"",""
+ball,1,16.3,Dolphins,K Zondo,AL Phehlukwayo,J Dawood,0,0,,,,,,"",""
+ball,1,16.4,Dolphins,K Zondo,AL Phehlukwayo,J Dawood,1,0,,,,,,"",""
+ball,1,16.5,Dolphins,AL Phehlukwayo,K Zondo,J Dawood,0,0,,,,,,"",""
+ball,1,16.6,Dolphins,AL Phehlukwayo,K Zondo,J Dawood,0,0,,,,,,"",""
+ball,1,17.1,Dolphins,K Zondo,AL Phehlukwayo,BE Hendricks,1,0,,,,,,"",""
+ball,1,17.2,Dolphins,AL Phehlukwayo,K Zondo,BE Hendricks,1,0,,,,,,"",""
+ball,1,17.3,Dolphins,K Zondo,AL Phehlukwayo,BE Hendricks,2,0,,,,,,"",""
+ball,1,17.4,Dolphins,K Zondo,AL Phehlukwayo,BE Hendricks,1,0,,,,,,"",""
+ball,1,17.5,Dolphins,AL Phehlukwayo,K Zondo,BE Hendricks,6,0,,,,,,"",""
+ball,1,17.6,Dolphins,AL Phehlukwayo,K Zondo,BE Hendricks,4,0,,,,,,"",""
+ball,1,18.1,Dolphins,K Zondo,AL Phehlukwayo,WD Parnell,1,0,,,,,,"",""
+ball,1,18.2,Dolphins,AL Phehlukwayo,K Zondo,WD Parnell,2,0,,,,,,"",""
+ball,1,18.3,Dolphins,AL Phehlukwayo,K Zondo,WD Parnell,4,0,,,,,,"",""
+ball,1,18.4,Dolphins,AL Phehlukwayo,K Zondo,WD Parnell,1,0,,,,,,"",""
+ball,1,18.5,Dolphins,K Zondo,AL Phehlukwayo,WD Parnell,1,0,,,,,,"",""
+ball,1,18.6,Dolphins,AL Phehlukwayo,K Zondo,WD Parnell,6,0,,,,,,"",""
+ball,1,19.1,Dolphins,K Zondo,AL Phehlukwayo,BE Hendricks,4,0,,,,,,"",""
+ball,1,19.2,Dolphins,K Zondo,AL Phehlukwayo,BE Hendricks,4,0,,,,,,"",""
+ball,1,19.3,Dolphins,K Zondo,AL Phehlukwayo,BE Hendricks,2,0,,,,,,"",""
+ball,1,19.4,Dolphins,K Zondo,AL Phehlukwayo,BE Hendricks,0,0,,,,,,"",""
+ball,1,19.5,Dolphins,K Zondo,AL Phehlukwayo,BE Hendricks,1,0,,,,,,"",""
+ball,1,19.6,Dolphins,AL Phehlukwayo,K Zondo,BE Hendricks,1,0,,,,,,"",""
+ball,2,0.1,Western Province,RE Levi,D Smith,P Subrayen,0,0,,,,,,"",""
+ball,2,0.2,Western Province,RE Levi,D Smith,P Subrayen,0,0,,,,,,"",""
+ball,2,0.3,Western Province,RE Levi,D Smith,P Subrayen,1,0,,,,,,"",""
+ball,2,0.4,Western Province,D Smith,RE Levi,P Subrayen,1,0,,,,,,"",""
+ball,2,0.5,Western Province,RE Levi,D Smith,P Subrayen,1,0,,,,,,"",""
+ball,2,0.6,Western Province,D Smith,RE Levi,P Subrayen,2,0,,,,,,"",""
+ball,2,1.1,Western Province,RE Levi,D Smith,OEG Baartman,0,0,,,,,,"",""
+ball,2,1.2,Western Province,RE Levi,D Smith,OEG Baartman,4,0,,,,,,"",""
+ball,2,1.3,Western Province,RE Levi,D Smith,OEG Baartman,0,0,,,,,,"",""
+ball,2,1.4,Western Province,RE Levi,D Smith,OEG Baartman,1,0,,,,,,"",""
+ball,2,1.5,Western Province,D Smith,RE Levi,OEG Baartman,4,0,,,,,,"",""
+ball,2,1.6,Western Province,D Smith,RE Levi,OEG Baartman,0,0,,,,,,"",""
+ball,2,2.1,Western Province,RE Levi,D Smith,K Mungroo,0,0,,,,,,"",""
+ball,2,2.2,Western Province,RE Levi,D Smith,K Mungroo,1,0,,,,,,"",""
+ball,2,2.3,Western Province,D Smith,RE Levi,K Mungroo,1,0,,,,,,"",""
+ball,2,2.4,Western Province,RE Levi,D Smith,K Mungroo,1,0,,,,,,"",""
+ball,2,2.5,Western Province,D Smith,RE Levi,K Mungroo,0,0,,,,,,"",""
+ball,2,2.6,Western Province,D Smith,RE Levi,K Mungroo,0,0,,,,,,"",""
+ball,2,3.1,Western Province,RE Levi,D Smith,E Bosch,2,0,,,,,,"",""
+ball,2,3.2,Western Province,RE Levi,D Smith,E Bosch,0,0,,,,,,"",""
+ball,2,3.3,Western Province,RE Levi,D Smith,E Bosch,4,0,,,,,,"",""
+ball,2,3.4,Western Province,RE Levi,D Smith,E Bosch,0,0,,,,,,"",""
+ball,2,3.5,Western Province,RE Levi,D Smith,E Bosch,0,0,,,,,,caught and bowled,RE Levi
+ball,2,3.6,Western Province,T de Zorzi,D Smith,E Bosch,1,0,,,,,,"",""
+ball,2,4.1,Western Province,T de Zorzi,D Smith,P Subrayen,0,0,,,,,,"",""
+ball,2,4.2,Western Province,T de Zorzi,D Smith,P Subrayen,0,0,,,,,,"",""
+ball,2,4.3,Western Province,T de Zorzi,D Smith,P Subrayen,0,0,,,,,,bowled,T de Zorzi
+ball,2,4.4,Western Province,DJ Vilas,D Smith,P Subrayen,1,0,,,,,,"",""
+ball,2,4.5,Western Province,D Smith,DJ Vilas,P Subrayen,0,0,,,,,,"",""
+ball,2,4.6,Western Province,D Smith,DJ Vilas,P Subrayen,0,0,,,,,,"",""
+ball,2,5.1,Western Province,DJ Vilas,D Smith,E Bosch,0,0,,,,,,"",""
+ball,2,5.2,Western Province,DJ Vilas,D Smith,E Bosch,0,0,,,,,,"",""
+ball,2,5.3,Western Province,DJ Vilas,D Smith,E Bosch,1,0,,,,,,"",""
+ball,2,5.4,Western Province,D Smith,DJ Vilas,E Bosch,0,0,,,,,,"",""
+ball,2,5.5,Western Province,D Smith,DJ Vilas,E Bosch,0,0,,,,,,"",""
+ball,2,5.6,Western Province,D Smith,DJ Vilas,E Bosch,1,0,,,,,,"",""
+ball,2,6.1,Western Province,D Smith,DJ Vilas,P Subrayen,1,0,,,,,,"",""
+ball,2,6.2,Western Province,DJ Vilas,D Smith,P Subrayen,4,0,,,,,,"",""
+ball,2,6.3,Western Province,DJ Vilas,D Smith,P Subrayen,1,0,,,,,,"",""
+ball,2,6.4,Western Province,D Smith,DJ Vilas,P Subrayen,0,0,,,,,,"",""
+ball,2,6.5,Western Province,D Smith,DJ Vilas,P Subrayen,1,0,,,,,,"",""
+ball,2,6.6,Western Province,DJ Vilas,D Smith,P Subrayen,0,0,,,,,,"",""
+ball,2,7.1,Western Province,D Smith,DJ Vilas,B Parsons,4,0,,,,,,"",""
+ball,2,7.2,Western Province,D Smith,DJ Vilas,B Parsons,0,0,,,,,,"",""
+ball,2,7.3,Western Province,D Smith,DJ Vilas,B Parsons,0,0,,,,,,"",""
+ball,2,7.4,Western Province,D Smith,DJ Vilas,B Parsons,0,0,,,,,,"",""
+ball,2,7.5,Western Province,D Smith,DJ Vilas,B Parsons,1,0,,,,,,"",""
+ball,2,7.6,Western Province,DJ Vilas,D Smith,B Parsons,1,0,,,,,,"",""
+ball,2,8.1,Western Province,DJ Vilas,D Smith,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,8.2,Western Province,D Smith,DJ Vilas,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,8.3,Western Province,D Smith,DJ Vilas,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,8.4,Western Province,DJ Vilas,D Smith,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,8.5,Western Province,DJ Vilas,D Smith,AL Phehlukwayo,0,0,,,,,,lbw,DJ Vilas
+ball,2,8.6,Western Province,MY Vallie,D Smith,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,9.1,Western Province,MY Vallie,D Smith,B Parsons,1,0,,,,,,"",""
+ball,2,9.2,Western Province,D Smith,MY Vallie,B Parsons,0,0,,,,,,bowled,D Smith
+ball,2,9.3,Western Province,GF Linde,MY Vallie,B Parsons,0,0,,,,,,bowled,GF Linde
+ball,2,9.4,Western Province,A Mgijima,MY Vallie,B Parsons,1,0,,,,,,"",""
+ball,2,9.5,Western Province,MY Vallie,A Mgijima,B Parsons,2,0,,,,,,"",""
+ball,2,9.6,Western Province,MY Vallie,A Mgijima,B Parsons,1,0,,,,,,"",""
+ball,2,10.1,Western Province,MY Vallie,A Mgijima,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,10.2,Western Province,A Mgijima,MY Vallie,AL Phehlukwayo,4,0,,,,,,"",""
+ball,2,10.3,Western Province,A Mgijima,MY Vallie,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,10.4,Western Province,A Mgijima,MY Vallie,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,10.5,Western Province,MY Vallie,A Mgijima,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,10.6,Western Province,A Mgijima,MY Vallie,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,11.1,Western Province,MY Vallie,A Mgijima,B Parsons,1,0,,,,,,"",""
+ball,2,11.2,Western Province,A Mgijima,MY Vallie,B Parsons,1,0,,,,,,"",""
+ball,2,11.3,Western Province,MY Vallie,A Mgijima,B Parsons,1,0,,,,,,"",""
+ball,2,11.4,Western Province,A Mgijima,MY Vallie,B Parsons,4,0,,,,,,"",""
+ball,2,11.5,Western Province,A Mgijima,MY Vallie,B Parsons,1,0,,,,,,"",""
+ball,2,11.6,Western Province,MY Vallie,A Mgijima,B Parsons,1,0,,,,,,"",""
+ball,2,12.1,Western Province,MY Vallie,A Mgijima,AL Phehlukwayo,0,0,,,,,,caught,MY Vallie
+ball,2,12.2,Western Province,A Mgijima,WD Parnell,AL Phehlukwayo,4,0,,,,,,"",""
+ball,2,12.3,Western Province,A Mgijima,WD Parnell,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,12.4,Western Province,WD Parnell,A Mgijima,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,12.5,Western Province,WD Parnell,A Mgijima,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,12.6,Western Province,WD Parnell,A Mgijima,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,13.1,Western Province,WD Parnell,A Mgijima,P Subrayen,0,0,,,,,,"",""
+ball,2,13.2,Western Province,WD Parnell,A Mgijima,P Subrayen,1,0,,,,,,"",""
+ball,2,13.3,Western Province,A Mgijima,WD Parnell,P Subrayen,1,0,,,,,,"",""
+ball,2,13.4,Western Province,WD Parnell,A Mgijima,P Subrayen,0,0,,,,,,bowled,WD Parnell
+ball,2,13.5,Western Province,M Mpongwana,A Mgijima,P Subrayen,2,0,,,,,,"",""
+ball,2,13.6,Western Province,M Mpongwana,A Mgijima,P Subrayen,0,0,,,,,,"",""
+ball,2,14.1,Western Province,A Mgijima,M Mpongwana,OEG Baartman,0,0,,,,,,bowled,A Mgijima
+ball,2,14.2,Western Province,BE Hendricks,M Mpongwana,OEG Baartman,0,0,,,,,,"",""
+ball,2,14.3,Western Province,BE Hendricks,M Mpongwana,OEG Baartman,1,0,,,,,,"",""
+ball,2,14.4,Western Province,M Mpongwana,BE Hendricks,OEG Baartman,2,0,,,,,,"",""
+ball,2,14.5,Western Province,M Mpongwana,BE Hendricks,OEG Baartman,0,0,,,,,,caught,M Mpongwana
+ball,2,14.6,Western Province,BE Hendricks,J Dawood,OEG Baartman,4,0,,,,,,"",""
+ball,2,15.1,Western Province,J Dawood,BE Hendricks,B Parsons,0,0,,,,,,"",""
+ball,2,15.2,Western Province,J Dawood,BE Hendricks,B Parsons,1,0,,,,,,"",""
+ball,2,15.3,Western Province,BE Hendricks,J Dawood,B Parsons,1,0,,,,,,"",""
+ball,2,15.4,Western Province,J Dawood,BE Hendricks,B Parsons,0,0,,,,,,bowled,J Dawood

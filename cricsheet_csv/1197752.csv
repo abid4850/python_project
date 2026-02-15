@@ -1,0 +1,306 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Central Districts
+info,gender,male
+info,season,2019/20
+info,date,2019/12/27
+info,event,Super Smash
+info,match_number,12
+info,venue,Pukekura Park
+info,city,New Plymouth
+info,toss_winner,Central Districts
+info,toss_decision,field
+info,umpire,CM Brown
+info,umpire,WR Knights
+info,reserve_umpire,Kim Cotton
+info,tv_umpire,ED Sanders
+info,match_referee,RA Dykes
+info,winner,Wellington
+info,winner_runs,42
+info,player,Wellington,DP Conway
+info,player,Wellington,MA Pollard
+info,player,Wellington,R Ravindra
+info,player,Wellington,JDS Neesham
+info,player,Wellington,MG Bracewell
+info,player,Wellington,FJ Colson
+info,player,Wellington,JD Gibson
+info,player,Wellington,MJ Nofal
+info,player,Wellington,LV van Beek
+info,player,Wellington,HK Bennett
+info,player,Wellington,OR Newton
+info,player,Central Districts,GH Worker
+info,player,Central Districts,D Cleaver
+info,player,Central Districts,CK Leopard
+info,player,Central Districts,TC Bruce
+info,player,Central Districts,K Noema-Barnett
+info,player,Central Districts,JA Clarkson
+info,player,Central Districts,WC Ludick
+info,player,Central Districts,BM Wheeler
+info,player,Central Districts,AY Patel
+info,player,Central Districts,SHA Rance
+info,player,Central Districts,BM Tickner
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BM Wheeler,397f4d3a
+info,registry,people,CK Leopard,46966c2b
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DP Conway,df5a6881
+info,registry,people,ED Sanders,25c6d6af
+info,registry,people,FJ Colson,c2327c5d
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,HK Bennett,94238673
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JD Gibson,57f520ee
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Noema-Barnett,1ad0b441
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Pollard,d3b84c59
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Nofal,ac762575
+info,registry,people,OR Newton,4e520f6c
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RA Dykes,e5c6f48b
+info,registry,people,SHA Rance,69c994e4
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WC Ludick,2a802bfd
+info,registry,people,WR Knights,63cbf8d8
+ball,1,0.1,Wellington,DP Conway,MA Pollard,SHA Rance,0,0,,,,,,"",""
+ball,1,0.2,Wellington,DP Conway,MA Pollard,SHA Rance,0,0,,,,,,"",""
+ball,1,0.3,Wellington,DP Conway,MA Pollard,SHA Rance,0,0,,,,,,"",""
+ball,1,0.4,Wellington,DP Conway,MA Pollard,SHA Rance,1,0,,,,,,"",""
+ball,1,0.5,Wellington,MA Pollard,DP Conway,SHA Rance,1,0,,,,,,"",""
+ball,1,0.6,Wellington,DP Conway,MA Pollard,SHA Rance,6,0,,,,,,"",""
+ball,1,1.1,Wellington,MA Pollard,DP Conway,BM Wheeler,0,0,,,,,,"",""
+ball,1,1.2,Wellington,MA Pollard,DP Conway,BM Wheeler,1,0,,,,,,"",""
+ball,1,1.3,Wellington,DP Conway,MA Pollard,BM Wheeler,0,0,,,,,,"",""
+ball,1,1.4,Wellington,DP Conway,MA Pollard,BM Wheeler,0,0,,,,,,"",""
+ball,1,1.5,Wellington,DP Conway,MA Pollard,BM Wheeler,4,0,,,,,,"",""
+ball,1,1.6,Wellington,DP Conway,MA Pollard,BM Wheeler,4,0,,,,,,"",""
+ball,1,2.1,Wellington,MA Pollard,DP Conway,BM Tickner,1,0,,,,,,"",""
+ball,1,2.2,Wellington,DP Conway,MA Pollard,BM Tickner,0,0,,,,,,"",""
+ball,1,2.3,Wellington,DP Conway,MA Pollard,BM Tickner,0,1,,,,1,,"",""
+ball,1,2.4,Wellington,MA Pollard,DP Conway,BM Tickner,0,0,,,,,,"",""
+ball,1,2.5,Wellington,MA Pollard,DP Conway,BM Tickner,6,0,,,,,,"",""
+ball,1,2.6,Wellington,MA Pollard,DP Conway,BM Tickner,0,0,,,,,,"",""
+ball,1,3.1,Wellington,DP Conway,MA Pollard,BM Wheeler,1,0,,,,,,"",""
+ball,1,3.2,Wellington,MA Pollard,DP Conway,BM Wheeler,0,0,,,,,,"",""
+ball,1,3.3,Wellington,MA Pollard,DP Conway,BM Wheeler,0,0,,,,,,"",""
+ball,1,3.4,Wellington,MA Pollard,DP Conway,BM Wheeler,1,0,,,,,,"",""
+ball,1,3.5,Wellington,DP Conway,MA Pollard,BM Wheeler,0,0,,,,,,"",""
+ball,1,3.6,Wellington,DP Conway,MA Pollard,BM Wheeler,1,0,,,,,,"",""
+ball,1,4.1,Wellington,DP Conway,MA Pollard,AY Patel,4,0,,,,,,"",""
+ball,1,4.2,Wellington,DP Conway,MA Pollard,AY Patel,0,0,,,,,,"",""
+ball,1,4.3,Wellington,DP Conway,MA Pollard,AY Patel,1,0,,,,,,"",""
+ball,1,4.4,Wellington,MA Pollard,DP Conway,AY Patel,4,0,,,,,,"",""
+ball,1,4.5,Wellington,MA Pollard,DP Conway,AY Patel,0,0,,,,,,"",""
+ball,1,4.6,Wellington,MA Pollard,DP Conway,AY Patel,0,0,,,,,,"",""
+ball,1,5.1,Wellington,DP Conway,MA Pollard,BM Tickner,1,0,,,,,,"",""
+ball,1,5.2,Wellington,MA Pollard,DP Conway,BM Tickner,0,0,,,,,,caught,MA Pollard
+ball,1,5.3,Wellington,R Ravindra,DP Conway,BM Tickner,4,0,,,,,,"",""
+ball,1,5.4,Wellington,R Ravindra,DP Conway,BM Tickner,0,1,,,,1,,"",""
+ball,1,5.5,Wellington,DP Conway,R Ravindra,BM Tickner,1,0,,,,,,"",""
+ball,1,5.6,Wellington,R Ravindra,DP Conway,BM Tickner,0,0,,,,,,"",""
+ball,1,6.1,Wellington,DP Conway,R Ravindra,AY Patel,1,0,,,,,,"",""
+ball,1,6.2,Wellington,R Ravindra,DP Conway,AY Patel,1,0,,,,,,"",""
+ball,1,6.3,Wellington,DP Conway,R Ravindra,AY Patel,1,0,,,,,,"",""
+ball,1,6.4,Wellington,R Ravindra,DP Conway,AY Patel,1,0,,,,,,"",""
+ball,1,6.5,Wellington,DP Conway,R Ravindra,AY Patel,4,0,,,,,,"",""
+ball,1,6.6,Wellington,DP Conway,R Ravindra,AY Patel,1,0,,,,,,"",""
+ball,1,7.1,Wellington,DP Conway,R Ravindra,WC Ludick,4,0,,,,,,"",""
+ball,1,7.2,Wellington,DP Conway,R Ravindra,WC Ludick,1,0,,,,,,"",""
+ball,1,7.3,Wellington,R Ravindra,DP Conway,WC Ludick,1,0,,,,,,"",""
+ball,1,7.4,Wellington,DP Conway,R Ravindra,WC Ludick,4,0,,,,,,"",""
+ball,1,7.5,Wellington,DP Conway,R Ravindra,WC Ludick,0,0,,,,,,"",""
+ball,1,7.6,Wellington,DP Conway,R Ravindra,WC Ludick,1,0,,,,,,"",""
+ball,1,8.1,Wellington,DP Conway,R Ravindra,K Noema-Barnett,0,0,,,,,,"",""
+ball,1,8.2,Wellington,DP Conway,R Ravindra,K Noema-Barnett,0,0,,,,,,"",""
+ball,1,8.3,Wellington,DP Conway,R Ravindra,K Noema-Barnett,1,0,,,,,,"",""
+ball,1,8.4,Wellington,R Ravindra,DP Conway,K Noema-Barnett,1,0,,,,,,"",""
+ball,1,8.5,Wellington,DP Conway,R Ravindra,K Noema-Barnett,0,0,,,,,,"",""
+ball,1,8.6,Wellington,DP Conway,R Ravindra,K Noema-Barnett,1,0,,,,,,"",""
+ball,1,9.1,Wellington,DP Conway,R Ravindra,BM Tickner,1,0,,,,,,"",""
+ball,1,9.2,Wellington,R Ravindra,DP Conway,BM Tickner,0,1,,,,1,,"",""
+ball,1,9.3,Wellington,DP Conway,R Ravindra,BM Tickner,4,0,,,,,,"",""
+ball,1,9.4,Wellington,DP Conway,R Ravindra,BM Tickner,6,0,,,,,,"",""
+ball,1,9.5,Wellington,DP Conway,R Ravindra,BM Tickner,1,0,,,,,,"",""
+ball,1,9.6,Wellington,R Ravindra,DP Conway,BM Tickner,4,0,,,,,,"",""
+ball,1,10.1,Wellington,DP Conway,R Ravindra,K Noema-Barnett,0,0,,,,,,"",""
+ball,1,10.2,Wellington,DP Conway,R Ravindra,K Noema-Barnett,4,0,,,,,,"",""
+ball,1,10.3,Wellington,DP Conway,R Ravindra,K Noema-Barnett,6,0,,,,,,"",""
+ball,1,10.4,Wellington,DP Conway,R Ravindra,K Noema-Barnett,4,0,,,,,,"",""
+ball,1,10.5,Wellington,DP Conway,R Ravindra,K Noema-Barnett,0,1,1,,,,,"",""
+ball,1,10.6,Wellington,DP Conway,R Ravindra,K Noema-Barnett,2,0,,,,,,"",""
+ball,1,10.7,Wellington,DP Conway,R Ravindra,K Noema-Barnett,0,1,1,,,,,"",""
+ball,1,10.8,Wellington,DP Conway,R Ravindra,K Noema-Barnett,1,0,,,,,,"",""
+ball,1,11.1,Wellington,DP Conway,R Ravindra,SHA Rance,4,0,,,,,,"",""
+ball,1,11.2,Wellington,DP Conway,R Ravindra,SHA Rance,1,0,,,,,,"",""
+ball,1,11.3,Wellington,R Ravindra,DP Conway,SHA Rance,4,0,,,,,,"",""
+ball,1,11.4,Wellington,R Ravindra,DP Conway,SHA Rance,0,0,,,,,,caught,R Ravindra
+ball,1,11.5,Wellington,JDS Neesham,DP Conway,SHA Rance,1,0,,,,,,"",""
+ball,1,11.6,Wellington,DP Conway,JDS Neesham,SHA Rance,1,0,,,,,,"",""
+ball,1,12.1,Wellington,DP Conway,JDS Neesham,AY Patel,4,0,,,,,,"",""
+ball,1,12.2,Wellington,DP Conway,JDS Neesham,AY Patel,6,0,,,,,,"",""
+ball,1,12.3,Wellington,DP Conway,JDS Neesham,AY Patel,1,0,,,,,,"",""
+ball,1,12.4,Wellington,JDS Neesham,DP Conway,AY Patel,0,0,,,,,,"",""
+ball,1,12.5,Wellington,JDS Neesham,DP Conway,AY Patel,0,0,,,,,,"",""
+ball,1,12.6,Wellington,JDS Neesham,DP Conway,AY Patel,1,0,,,,,,"",""
+ball,1,13.1,Wellington,JDS Neesham,DP Conway,BM Wheeler,1,0,,,,,,"",""
+ball,1,13.2,Wellington,DP Conway,JDS Neesham,BM Wheeler,0,0,,,,,,caught,DP Conway
+ball,1,13.3,Wellington,JDS Neesham,MG Bracewell,BM Wheeler,0,1,1,,,,,"",""
+ball,1,13.4,Wellington,JDS Neesham,MG Bracewell,BM Wheeler,0,0,,,,,,"",""
+ball,1,13.5,Wellington,JDS Neesham,MG Bracewell,BM Wheeler,1,0,,,,,,"",""
+ball,1,13.6,Wellington,MG Bracewell,JDS Neesham,BM Wheeler,1,0,,,,,,"",""
+ball,1,13.7,Wellington,JDS Neesham,MG Bracewell,BM Wheeler,1,0,,,,,,"",""
+ball,1,14.1,Wellington,JDS Neesham,MG Bracewell,AY Patel,1,0,,,,,,"",""
+ball,1,14.2,Wellington,MG Bracewell,JDS Neesham,AY Patel,0,0,,,,,,lbw,MG Bracewell
+ball,1,14.3,Wellington,FJ Colson,JDS Neesham,AY Patel,2,0,,,,,,"",""
+ball,1,14.4,Wellington,FJ Colson,JDS Neesham,AY Patel,1,0,,,,,,"",""
+ball,1,14.5,Wellington,JDS Neesham,FJ Colson,AY Patel,2,0,,,,,,"",""
+ball,1,14.6,Wellington,JDS Neesham,FJ Colson,AY Patel,0,0,,,,,,"",""
+ball,1,15.1,Wellington,FJ Colson,JDS Neesham,BM Tickner,1,0,,,,,,"",""
+ball,1,15.2,Wellington,JDS Neesham,FJ Colson,BM Tickner,6,0,,,,,,"",""
+ball,1,15.3,Wellington,JDS Neesham,FJ Colson,BM Tickner,1,0,,,,,,"",""
+ball,1,15.4,Wellington,FJ Colson,JDS Neesham,BM Tickner,6,0,,,,,,"",""
+ball,1,15.5,Wellington,FJ Colson,JDS Neesham,BM Tickner,0,0,,,,,,"",""
+ball,1,15.6,Wellington,FJ Colson,JDS Neesham,BM Tickner,0,0,,,,,,"",""
+ball,1,16.1,Wellington,JDS Neesham,FJ Colson,SHA Rance,1,0,,,,,,"",""
+ball,1,16.2,Wellington,FJ Colson,JDS Neesham,SHA Rance,0,0,,,,,,caught,FJ Colson
+ball,1,16.3,Wellington,JDS Neesham,JD Gibson,SHA Rance,0,1,1,,,,,"",""
+ball,1,16.4,Wellington,JDS Neesham,JD Gibson,SHA Rance,6,0,,,,,,"",""
+ball,1,16.5,Wellington,JDS Neesham,JD Gibson,SHA Rance,1,0,,,,,,"",""
+ball,1,16.6,Wellington,JD Gibson,JDS Neesham,SHA Rance,1,0,,,,,,"",""
+ball,1,16.7,Wellington,JDS Neesham,JD Gibson,SHA Rance,1,0,,,,,,"",""
+ball,1,17.1,Wellington,JDS Neesham,JD Gibson,BM Wheeler,4,0,,,,,,"",""
+ball,1,17.2,Wellington,JDS Neesham,JD Gibson,BM Wheeler,1,0,,,,,,"",""
+ball,1,17.3,Wellington,JD Gibson,JDS Neesham,BM Wheeler,4,0,,,,,,"",""
+ball,1,17.4,Wellington,JD Gibson,JDS Neesham,BM Wheeler,1,0,,,,,,"",""
+ball,1,17.5,Wellington,JDS Neesham,JD Gibson,BM Wheeler,0,0,,,,,,"",""
+ball,1,17.6,Wellington,JDS Neesham,JD Gibson,BM Wheeler,1,0,,,,,,"",""
+ball,1,18.1,Wellington,JDS Neesham,JD Gibson,SHA Rance,1,0,,,,,,"",""
+ball,1,18.2,Wellington,JD Gibson,JDS Neesham,SHA Rance,4,0,,,,,,"",""
+ball,1,18.3,Wellington,JD Gibson,JDS Neesham,SHA Rance,1,0,,,,,,"",""
+ball,1,18.4,Wellington,JDS Neesham,JD Gibson,SHA Rance,1,0,,,,,,"",""
+ball,1,18.5,Wellington,JD Gibson,JDS Neesham,SHA Rance,0,5,5,,,,,"",""
+ball,1,18.6,Wellington,JD Gibson,JDS Neesham,SHA Rance,1,0,,,,,,"",""
+ball,1,18.7,Wellington,JDS Neesham,JD Gibson,SHA Rance,6,0,,,,,,"",""
+ball,1,19.1,Wellington,JD Gibson,JDS Neesham,WC Ludick,1,0,,,,,,"",""
+ball,1,19.2,Wellington,JDS Neesham,JD Gibson,WC Ludick,0,0,,,,,,bowled,JDS Neesham
+ball,1,19.3,Wellington,MJ Nofal,JD Gibson,WC Ludick,0,0,,,,,,caught,MJ Nofal
+ball,1,19.4,Wellington,JD Gibson,LV van Beek,WC Ludick,0,0,,,,,,"",""
+ball,1,19.5,Wellington,JD Gibson,LV van Beek,WC Ludick,2,0,,,,,,"",""
+ball,1,19.6,Wellington,JD Gibson,LV van Beek,WC Ludick,1,0,,,,,,run out,JD Gibson
+ball,2,0.1,Central Districts,GH Worker,D Cleaver,HK Bennett,0,0,,,,,,"",""
+ball,2,0.2,Central Districts,GH Worker,D Cleaver,HK Bennett,4,0,,,,,,"",""
+ball,2,0.3,Central Districts,GH Worker,D Cleaver,HK Bennett,0,0,,,,,,"",""
+ball,2,0.4,Central Districts,GH Worker,D Cleaver,HK Bennett,1,0,,,,,,"",""
+ball,2,0.5,Central Districts,D Cleaver,GH Worker,HK Bennett,1,0,,,,,,"",""
+ball,2,0.6,Central Districts,GH Worker,D Cleaver,HK Bennett,0,0,,,,,,"",""
+ball,2,1.1,Central Districts,D Cleaver,GH Worker,OR Newton,2,0,,,,,,"",""
+ball,2,1.2,Central Districts,D Cleaver,GH Worker,OR Newton,0,1,,,,1,,"",""
+ball,2,1.3,Central Districts,GH Worker,D Cleaver,OR Newton,0,0,,,,,,"",""
+ball,2,1.4,Central Districts,GH Worker,D Cleaver,OR Newton,6,0,,,,,,"",""
+ball,2,1.5,Central Districts,GH Worker,D Cleaver,OR Newton,1,0,,,,,,"",""
+ball,2,1.6,Central Districts,D Cleaver,GH Worker,OR Newton,0,0,,,,,,caught,D Cleaver
+ball,2,2.1,Central Districts,GH Worker,CK Leopard,LV van Beek,6,0,,,,,,"",""
+ball,2,2.2,Central Districts,GH Worker,CK Leopard,LV van Beek,1,0,,,,,,"",""
+ball,2,2.3,Central Districts,CK Leopard,GH Worker,LV van Beek,1,0,,,,,,"",""
+ball,2,2.4,Central Districts,GH Worker,CK Leopard,LV van Beek,0,1,,,,1,,"",""
+ball,2,2.5,Central Districts,CK Leopard,GH Worker,LV van Beek,0,0,,,,,,"",""
+ball,2,2.6,Central Districts,CK Leopard,GH Worker,LV van Beek,0,0,,,,,,"",""
+ball,2,3.1,Central Districts,GH Worker,CK Leopard,OR Newton,1,0,,,,,,"",""
+ball,2,3.2,Central Districts,CK Leopard,GH Worker,OR Newton,0,0,,,,,,caught,CK Leopard
+ball,2,3.3,Central Districts,TC Bruce,GH Worker,OR Newton,2,0,,,,,,"",""
+ball,2,3.4,Central Districts,TC Bruce,GH Worker,OR Newton,1,0,,,,,,"",""
+ball,2,3.5,Central Districts,GH Worker,TC Bruce,OR Newton,0,0,,,,,,"",""
+ball,2,3.6,Central Districts,GH Worker,TC Bruce,OR Newton,4,0,,,,,,"",""
+ball,2,4.1,Central Districts,TC Bruce,GH Worker,HK Bennett,1,0,,,,,,"",""
+ball,2,4.2,Central Districts,GH Worker,TC Bruce,HK Bennett,1,0,,,,,,"",""
+ball,2,4.3,Central Districts,TC Bruce,GH Worker,HK Bennett,0,0,,,,,,"",""
+ball,2,4.4,Central Districts,TC Bruce,GH Worker,HK Bennett,0,0,,,,,,"",""
+ball,2,4.5,Central Districts,TC Bruce,GH Worker,HK Bennett,1,0,,,,,,"",""
+ball,2,4.6,Central Districts,GH Worker,TC Bruce,HK Bennett,0,1,,,1,,,"",""
+ball,2,5.1,Central Districts,GH Worker,TC Bruce,LV van Beek,6,0,,,,,,"",""
+ball,2,5.2,Central Districts,GH Worker,TC Bruce,LV van Beek,0,0,,,,,,caught,GH Worker
+ball,2,5.3,Central Districts,K Noema-Barnett,TC Bruce,LV van Beek,1,0,,,,,,"",""
+ball,2,5.4,Central Districts,TC Bruce,K Noema-Barnett,LV van Beek,4,0,,,,,,"",""
+ball,2,5.5,Central Districts,TC Bruce,K Noema-Barnett,LV van Beek,0,0,,,,,,"",""
+ball,2,5.6,Central Districts,TC Bruce,K Noema-Barnett,LV van Beek,1,0,,,,,,"",""
+ball,2,6.1,Central Districts,TC Bruce,K Noema-Barnett,R Ravindra,1,0,,,,,,"",""
+ball,2,6.2,Central Districts,K Noema-Barnett,TC Bruce,R Ravindra,1,0,,,,,,"",""
+ball,2,6.3,Central Districts,TC Bruce,K Noema-Barnett,R Ravindra,1,0,,,,,,"",""
+ball,2,6.4,Central Districts,K Noema-Barnett,TC Bruce,R Ravindra,0,0,,,,,,"",""
+ball,2,6.5,Central Districts,K Noema-Barnett,TC Bruce,R Ravindra,0,0,,,,,,"",""
+ball,2,6.6,Central Districts,K Noema-Barnett,TC Bruce,R Ravindra,0,0,,,,,,"",""
+ball,2,7.1,Central Districts,TC Bruce,K Noema-Barnett,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.2,Central Districts,K Noema-Barnett,TC Bruce,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.3,Central Districts,TC Bruce,K Noema-Barnett,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.4,Central Districts,K Noema-Barnett,TC Bruce,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.5,Central Districts,TC Bruce,K Noema-Barnett,JDS Neesham,0,0,,,,,,"",""
+ball,2,7.6,Central Districts,TC Bruce,K Noema-Barnett,JDS Neesham,2,0,,,,,,"",""
+ball,2,8.1,Central Districts,K Noema-Barnett,TC Bruce,R Ravindra,1,0,,,,,,"",""
+ball,2,8.2,Central Districts,TC Bruce,K Noema-Barnett,R Ravindra,0,0,,,,,,caught,TC Bruce
+ball,2,8.3,Central Districts,K Noema-Barnett,JA Clarkson,R Ravindra,4,0,,,,,,"",""
+ball,2,8.4,Central Districts,K Noema-Barnett,JA Clarkson,R Ravindra,1,0,,,,,,"",""
+ball,2,8.5,Central Districts,JA Clarkson,K Noema-Barnett,R Ravindra,1,0,,,,,,"",""
+ball,2,8.6,Central Districts,K Noema-Barnett,JA Clarkson,R Ravindra,1,0,,,,,,"",""
+ball,2,9.1,Central Districts,K Noema-Barnett,JA Clarkson,MJ Nofal,6,0,,,,,,"",""
+ball,2,9.2,Central Districts,K Noema-Barnett,JA Clarkson,MJ Nofal,0,0,,,,,,"",""
+ball,2,9.3,Central Districts,K Noema-Barnett,JA Clarkson,MJ Nofal,1,0,,,,,,"",""
+ball,2,9.4,Central Districts,JA Clarkson,K Noema-Barnett,MJ Nofal,0,0,,,,,,"",""
+ball,2,9.5,Central Districts,JA Clarkson,K Noema-Barnett,MJ Nofal,0,0,,,,,,"",""
+ball,2,9.6,Central Districts,JA Clarkson,K Noema-Barnett,MJ Nofal,1,0,,,,,,"",""
+ball,2,10.1,Central Districts,JA Clarkson,K Noema-Barnett,R Ravindra,0,0,,,,,,"",""
+ball,2,10.2,Central Districts,JA Clarkson,K Noema-Barnett,R Ravindra,1,0,,,,,,"",""
+ball,2,10.3,Central Districts,K Noema-Barnett,JA Clarkson,R Ravindra,1,0,,,,,,"",""
+ball,2,10.4,Central Districts,JA Clarkson,K Noema-Barnett,R Ravindra,1,0,,,,,,"",""
+ball,2,10.5,Central Districts,K Noema-Barnett,JA Clarkson,R Ravindra,4,0,,,,,,"",""
+ball,2,10.6,Central Districts,K Noema-Barnett,JA Clarkson,R Ravindra,0,0,,,,,,"",""
+ball,2,11.1,Central Districts,JA Clarkson,K Noema-Barnett,OR Newton,1,0,,,,,,"",""
+ball,2,11.2,Central Districts,K Noema-Barnett,JA Clarkson,OR Newton,0,0,,,,,,"",""
+ball,2,11.3,Central Districts,K Noema-Barnett,JA Clarkson,OR Newton,0,0,,,,,,"",""
+ball,2,11.4,Central Districts,K Noema-Barnett,JA Clarkson,OR Newton,0,1,1,,,,,"",""
+ball,2,11.5,Central Districts,K Noema-Barnett,JA Clarkson,OR Newton,4,0,,,,,,"",""
+ball,2,11.6,Central Districts,K Noema-Barnett,JA Clarkson,OR Newton,4,0,,,,,,"",""
+ball,2,11.7,Central Districts,K Noema-Barnett,JA Clarkson,OR Newton,0,1,1,,,,,"",""
+ball,2,11.8,Central Districts,K Noema-Barnett,JA Clarkson,OR Newton,6,0,,,,,,"",""
+ball,2,12.1,Central Districts,JA Clarkson,K Noema-Barnett,R Ravindra,1,0,,,,,,"",""
+ball,2,12.2,Central Districts,K Noema-Barnett,JA Clarkson,R Ravindra,6,0,,,,,,"",""
+ball,2,12.3,Central Districts,K Noema-Barnett,JA Clarkson,R Ravindra,1,0,,,,,,"",""
+ball,2,12.4,Central Districts,JA Clarkson,K Noema-Barnett,R Ravindra,0,0,,,,,,"",""
+ball,2,12.5,Central Districts,JA Clarkson,K Noema-Barnett,R Ravindra,1,0,,,,,,"",""
+ball,2,12.6,Central Districts,K Noema-Barnett,JA Clarkson,R Ravindra,1,0,,,,,,"",""
+ball,2,13.1,Central Districts,K Noema-Barnett,JA Clarkson,LV van Beek,1,0,,,,,,"",""
+ball,2,13.2,Central Districts,JA Clarkson,K Noema-Barnett,LV van Beek,0,0,,,,,,"",""
+ball,2,13.3,Central Districts,JA Clarkson,K Noema-Barnett,LV van Beek,6,0,,,,,,"",""
+ball,2,13.4,Central Districts,JA Clarkson,K Noema-Barnett,LV van Beek,1,0,,,,,,"",""
+ball,2,13.5,Central Districts,K Noema-Barnett,JA Clarkson,LV van Beek,4,0,,,,,,"",""
+ball,2,13.6,Central Districts,K Noema-Barnett,JA Clarkson,LV van Beek,0,0,,,,,,"",""
+ball,2,14.1,Central Districts,JA Clarkson,K Noema-Barnett,JDS Neesham,1,0,,,,,,"",""
+ball,2,14.2,Central Districts,K Noema-Barnett,JA Clarkson,JDS Neesham,0,0,,,,,,"",""
+ball,2,14.3,Central Districts,K Noema-Barnett,JA Clarkson,JDS Neesham,0,0,,,,,,"",""
+ball,2,14.4,Central Districts,K Noema-Barnett,JA Clarkson,JDS Neesham,0,0,,,,,,"",""
+ball,2,14.5,Central Districts,K Noema-Barnett,JA Clarkson,JDS Neesham,0,0,,,,,,"",""
+ball,2,14.6,Central Districts,K Noema-Barnett,JA Clarkson,JDS Neesham,1,0,,,,,,"",""
+ball,2,15.1,Central Districts,K Noema-Barnett,JA Clarkson,HK Bennett,1,1,,1,,,,"",""
+ball,2,15.2,Central Districts,JA Clarkson,K Noema-Barnett,HK Bennett,6,0,,,,,,"",""
+ball,2,15.3,Central Districts,JA Clarkson,K Noema-Barnett,HK Bennett,1,0,,,,,,"",""
+ball,2,15.4,Central Districts,K Noema-Barnett,JA Clarkson,HK Bennett,0,0,,,,,,"",""
+ball,2,15.5,Central Districts,K Noema-Barnett,JA Clarkson,HK Bennett,6,0,,,,,,"",""
+ball,2,15.6,Central Districts,K Noema-Barnett,JA Clarkson,HK Bennett,0,0,,,,,,"",""
+ball,2,15.7,Central Districts,K Noema-Barnett,JA Clarkson,HK Bennett,0,0,,,,,,caught,K Noema-Barnett
+ball,2,16.1,Central Districts,WC Ludick,JA Clarkson,LV van Beek,0,4,,,,4,,"",""
+ball,2,16.2,Central Districts,WC Ludick,JA Clarkson,LV van Beek,0,0,,,,,,"",""
+ball,2,16.3,Central Districts,WC Ludick,JA Clarkson,LV van Beek,0,2,,,,2,,"",""
+ball,2,16.4,Central Districts,WC Ludick,JA Clarkson,LV van Beek,0,0,,,,,,bowled,WC Ludick
+ball,2,16.5,Central Districts,BM Wheeler,JA Clarkson,LV van Beek,0,0,,,,,,"",""
+ball,2,16.6,Central Districts,BM Wheeler,JA Clarkson,LV van Beek,0,0,,,,,,"",""
+ball,2,17.1,Central Districts,JA Clarkson,BM Wheeler,OR Newton,0,0,,,,,,caught,JA Clarkson
+ball,2,17.2,Central Districts,BM Wheeler,AY Patel,OR Newton,6,0,,,,,,"",""
+ball,2,17.3,Central Districts,BM Wheeler,AY Patel,OR Newton,0,0,,,,,,bowled,BM Wheeler
+ball,2,17.4,Central Districts,SHA Rance,AY Patel,OR Newton,4,0,,,,,,"",""
+ball,2,17.5,Central Districts,SHA Rance,AY Patel,OR Newton,0,0,,,,,,bowled,SHA Rance
+ball,2,17.6,Central Districts,BM Tickner,AY Patel,OR Newton,1,0,,,,,,"",""
+ball,2,18.1,Central Districts,BM Tickner,AY Patel,JDS Neesham,0,0,,,,,,bowled,BM Tickner

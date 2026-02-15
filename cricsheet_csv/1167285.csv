@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey Stars
+info,team,Yorkshire Diamonds
+info,gender,female
+info,season,2019
+info,date,2019/08/20
+info,event,Women's Cricket Super League
+info,match_number,18
+info,venue,"Woodbridge Road, Guildford"
+info,city,Guildford
+info,toss_winner,Yorkshire Diamonds
+info,toss_decision,field
+info,player_of_match,JI Rodrigues
+info,umpire,Hassan Adnan
+info,umpire,MV Waldron
+info,winner,Yorkshire Diamonds
+info,winner_wickets,5
+info,player,Surrey Stars,L Lee
+info,player,Surrey Stars,BF Smith
+info,player,Surrey Stars,SJ Taylor
+info,player,Surrey Stars,NR Sciver
+info,player,Surrey Stars,D van Niekerk
+info,player,Surrey Stars,M Kapp
+info,player,Surrey Stars,MK Villiers
+info,player,Surrey Stars,LA Marsh
+info,player,Surrey Stars,A Cranstone
+info,player,Surrey Stars,AG Gordon
+info,player,Surrey Stars,E Gray
+info,player,Yorkshire Diamonds,AJ Healy
+info,player,Yorkshire Diamonds,L Winfield
+info,player,Yorkshire Diamonds,HJ Armitage
+info,player,Yorkshire Diamonds,JI Rodrigues
+info,player,Yorkshire Diamonds,AN Davidson-Richards
+info,player,Yorkshire Diamonds,KL George
+info,player,Yorkshire Diamonds,BAM Heath
+info,player,Yorkshire Diamonds,LM Kasperek
+info,player,Yorkshire Diamonds,LCN Smith
+info,player,Yorkshire Diamonds,KA Levick
+info,player,Yorkshire Diamonds,BA Langston
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,AG Gordon,992acb49
+info,registry,people,AJ Healy,321644de
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BA Langston,fb192f98
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,E Gray,58717de2
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KL George,e69dbbef
+info,registry,people,L Lee,7b01ce83
+info,registry,people,L Winfield,5230a33d
+info,registry,people,LA Marsh,9706e64b
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LM Kasperek,9b73d523
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,SJ Taylor,e6f36f83
+ball,1,0.1,Surrey Stars,L Lee,BF Smith,KA Levick,1,0,,,,,,"",""
+ball,1,0.2,Surrey Stars,BF Smith,L Lee,KA Levick,0,0,,,,,,"",""
+ball,1,0.3,Surrey Stars,BF Smith,L Lee,KA Levick,0,0,,,,,,bowled,BF Smith
+ball,1,0.4,Surrey Stars,SJ Taylor,L Lee,KA Levick,0,0,,,,,,"",""
+ball,1,0.5,Surrey Stars,SJ Taylor,L Lee,KA Levick,1,0,,,,,,"",""
+ball,1,0.6,Surrey Stars,L Lee,SJ Taylor,KA Levick,1,0,,,,,,"",""
+ball,1,1.1,Surrey Stars,L Lee,SJ Taylor,BA Langston,0,0,,,,,,"",""
+ball,1,1.2,Surrey Stars,L Lee,SJ Taylor,BA Langston,0,0,,,,,,"",""
+ball,1,1.3,Surrey Stars,L Lee,SJ Taylor,BA Langston,2,0,,,,,,"",""
+ball,1,1.4,Surrey Stars,L Lee,SJ Taylor,BA Langston,0,0,,,,,,"",""
+ball,1,1.5,Surrey Stars,L Lee,SJ Taylor,BA Langston,0,0,,,,,,"",""
+ball,1,1.6,Surrey Stars,L Lee,SJ Taylor,BA Langston,0,5,5,,,,,"",""
+ball,1,1.7,Surrey Stars,L Lee,SJ Taylor,BA Langston,0,0,,,,,,"",""
+ball,1,2.1,Surrey Stars,SJ Taylor,L Lee,KA Levick,1,0,,,,,,"",""
+ball,1,2.2,Surrey Stars,L Lee,SJ Taylor,KA Levick,1,0,,,,,,"",""
+ball,1,2.3,Surrey Stars,SJ Taylor,L Lee,KA Levick,1,0,,,,,,"",""
+ball,1,2.4,Surrey Stars,L Lee,SJ Taylor,KA Levick,1,0,,,,,,"",""
+ball,1,2.5,Surrey Stars,SJ Taylor,L Lee,KA Levick,0,1,1,,,,,caught,SJ Taylor
+ball,1,2.6,Surrey Stars,NR Sciver,L Lee,KA Levick,0,0,,,,,,"",""
+ball,1,2.7,Surrey Stars,NR Sciver,L Lee,KA Levick,0,0,,,,,,"",""
+ball,1,3.1,Surrey Stars,L Lee,NR Sciver,BA Langston,4,0,,,,,,"",""
+ball,1,3.2,Surrey Stars,L Lee,NR Sciver,BA Langston,0,1,,,,1,,"",""
+ball,1,3.3,Surrey Stars,NR Sciver,L Lee,BA Langston,0,0,,,,,,"",""
+ball,1,3.4,Surrey Stars,NR Sciver,L Lee,BA Langston,0,1,1,,,,,"",""
+ball,1,3.5,Surrey Stars,NR Sciver,L Lee,BA Langston,1,0,,,,,,"",""
+ball,1,3.6,Surrey Stars,L Lee,NR Sciver,BA Langston,0,0,,,,,,"",""
+ball,1,3.7,Surrey Stars,L Lee,NR Sciver,BA Langston,6,0,,,,,,"",""
+ball,1,4.1,Surrey Stars,NR Sciver,L Lee,KL George,0,0,,,,,,"",""
+ball,1,4.2,Surrey Stars,NR Sciver,L Lee,KL George,4,0,,,,,,"",""
+ball,1,4.3,Surrey Stars,NR Sciver,L Lee,KL George,0,0,,,,,,"",""
+ball,1,4.4,Surrey Stars,NR Sciver,L Lee,KL George,0,0,,,,,,"",""
+ball,1,4.5,Surrey Stars,NR Sciver,L Lee,KL George,0,0,,,,,,caught,NR Sciver
+ball,1,4.6,Surrey Stars,D van Niekerk,L Lee,KL George,4,0,,,,,,"",""
+ball,1,5.1,Surrey Stars,L Lee,D van Niekerk,LCN Smith,0,0,,,,,,"",""
+ball,1,5.2,Surrey Stars,L Lee,D van Niekerk,LCN Smith,0,0,,,,,,"",""
+ball,1,5.3,Surrey Stars,L Lee,D van Niekerk,LCN Smith,0,0,,,,,,"",""
+ball,1,5.4,Surrey Stars,L Lee,D van Niekerk,LCN Smith,4,0,,,,,,"",""
+ball,1,5.5,Surrey Stars,L Lee,D van Niekerk,LCN Smith,2,0,,,,,,"",""
+ball,1,5.6,Surrey Stars,L Lee,D van Niekerk,LCN Smith,0,0,,,,,,"",""
+ball,1,6.1,Surrey Stars,D van Niekerk,L Lee,KL George,0,0,,,,,,"",""
+ball,1,6.2,Surrey Stars,D van Niekerk,L Lee,KL George,0,0,,,,,,"",""
+ball,1,6.3,Surrey Stars,D van Niekerk,L Lee,KL George,2,0,,,,,,"",""
+ball,1,6.4,Surrey Stars,D van Niekerk,L Lee,KL George,0,0,,,,,,"",""
+ball,1,6.5,Surrey Stars,D van Niekerk,L Lee,KL George,1,0,,,,,,"",""
+ball,1,6.6,Surrey Stars,L Lee,D van Niekerk,KL George,1,0,,,,,,"",""
+ball,1,7.1,Surrey Stars,L Lee,D van Niekerk,AN Davidson-Richards,0,0,,,,,,"",""
+ball,1,7.2,Surrey Stars,L Lee,D van Niekerk,AN Davidson-Richards,4,0,,,,,,"",""
+ball,1,7.3,Surrey Stars,L Lee,D van Niekerk,AN Davidson-Richards,1,0,,,,,,"",""
+ball,1,7.4,Surrey Stars,D van Niekerk,L Lee,AN Davidson-Richards,1,0,,,,,,"",""
+ball,1,7.5,Surrey Stars,L Lee,D van Niekerk,AN Davidson-Richards,0,0,,,,,,caught,L Lee
+ball,1,7.6,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,0,0,,,,,,"",""
+ball,1,8.1,Surrey Stars,M Kapp,D van Niekerk,KL George,0,0,,,,,,"",""
+ball,1,8.2,Surrey Stars,M Kapp,D van Niekerk,KL George,0,0,,,,,,"",""
+ball,1,8.3,Surrey Stars,M Kapp,D van Niekerk,KL George,0,0,,,,,,"",""
+ball,1,8.4,Surrey Stars,M Kapp,D van Niekerk,KL George,1,0,,,,,,"",""
+ball,1,8.5,Surrey Stars,D van Niekerk,M Kapp,KL George,1,0,,,,,,"",""
+ball,1,8.6,Surrey Stars,M Kapp,D van Niekerk,KL George,1,0,,,,,,"",""
+ball,1,9.1,Surrey Stars,M Kapp,D van Niekerk,AN Davidson-Richards,1,0,,,,,,"",""
+ball,1,9.2,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,2,0,,,,,,"",""
+ball,1,9.3,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,0,1,1,,,,,"",""
+ball,1,9.4,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,2,0,,,,,,"",""
+ball,1,9.5,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,0,0,,,,,,"",""
+ball,1,9.6,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,1,0,,,,,,"",""
+ball,1,9.7,Surrey Stars,M Kapp,D van Niekerk,AN Davidson-Richards,1,0,,,,,,"",""
+ball,1,10.1,Surrey Stars,M Kapp,D van Niekerk,KL George,1,0,,,,,,"",""
+ball,1,10.2,Surrey Stars,D van Niekerk,M Kapp,KL George,1,0,,,,,,"",""
+ball,1,10.3,Surrey Stars,M Kapp,D van Niekerk,KL George,1,0,,,,,,"",""
+ball,1,10.4,Surrey Stars,D van Niekerk,M Kapp,KL George,1,0,,,,,,"",""
+ball,1,10.5,Surrey Stars,M Kapp,D van Niekerk,KL George,0,0,,,,,,"",""
+ball,1,10.6,Surrey Stars,M Kapp,D van Niekerk,KL George,1,0,,,,,,"",""
+ball,1,11.1,Surrey Stars,M Kapp,D van Niekerk,LM Kasperek,1,0,,,,,,"",""
+ball,1,11.2,Surrey Stars,D van Niekerk,M Kapp,LM Kasperek,1,0,,,,,,"",""
+ball,1,11.3,Surrey Stars,M Kapp,D van Niekerk,LM Kasperek,1,0,,,,,,"",""
+ball,1,11.4,Surrey Stars,D van Niekerk,M Kapp,LM Kasperek,1,0,,,,,,"",""
+ball,1,11.5,Surrey Stars,M Kapp,D van Niekerk,LM Kasperek,1,0,,,,,,"",""
+ball,1,11.6,Surrey Stars,D van Niekerk,M Kapp,LM Kasperek,1,0,,,,,,"",""
+ball,1,12.1,Surrey Stars,D van Niekerk,M Kapp,KA Levick,0,0,,,,,,"",""
+ball,1,12.2,Surrey Stars,D van Niekerk,M Kapp,KA Levick,1,0,,,,,,"",""
+ball,1,12.3,Surrey Stars,M Kapp,D van Niekerk,KA Levick,0,0,,,,,,"",""
+ball,1,12.4,Surrey Stars,M Kapp,D van Niekerk,KA Levick,0,1,1,,,,,"",""
+ball,1,12.5,Surrey Stars,M Kapp,D van Niekerk,KA Levick,0,0,,,,,,"",""
+ball,1,12.6,Surrey Stars,M Kapp,D van Niekerk,KA Levick,0,0,,,,,,"",""
+ball,1,12.7,Surrey Stars,M Kapp,D van Niekerk,KA Levick,1,0,,,,,,"",""
+ball,1,13.1,Surrey Stars,M Kapp,D van Niekerk,LM Kasperek,1,0,,,,,,"",""
+ball,1,13.2,Surrey Stars,D van Niekerk,M Kapp,LM Kasperek,1,0,,,,,,"",""
+ball,1,13.3,Surrey Stars,M Kapp,D van Niekerk,LM Kasperek,1,0,,,,,,"",""
+ball,1,13.4,Surrey Stars,D van Niekerk,M Kapp,LM Kasperek,0,0,,,,,,"",""
+ball,1,13.5,Surrey Stars,D van Niekerk,M Kapp,LM Kasperek,0,0,,,,,,"",""
+ball,1,13.6,Surrey Stars,D van Niekerk,M Kapp,LM Kasperek,1,0,,,,,,"",""
+ball,1,14.1,Surrey Stars,D van Niekerk,M Kapp,KA Levick,0,0,,,,,,"",""
+ball,1,14.2,Surrey Stars,D van Niekerk,M Kapp,KA Levick,0,0,,,,,,"",""
+ball,1,14.3,Surrey Stars,D van Niekerk,M Kapp,KA Levick,0,0,,,,,,"",""
+ball,1,14.4,Surrey Stars,D van Niekerk,M Kapp,KA Levick,1,0,,,,,,"",""
+ball,1,14.5,Surrey Stars,M Kapp,D van Niekerk,KA Levick,0,0,,,,,,"",""
+ball,1,14.6,Surrey Stars,M Kapp,D van Niekerk,KA Levick,1,0,,,,,,"",""
+ball,1,15.1,Surrey Stars,M Kapp,D van Niekerk,LCN Smith,0,0,,,,,,"",""
+ball,1,15.2,Surrey Stars,M Kapp,D van Niekerk,LCN Smith,1,0,,,,,,"",""
+ball,1,15.3,Surrey Stars,D van Niekerk,M Kapp,LCN Smith,1,0,,,,,,"",""
+ball,1,15.4,Surrey Stars,M Kapp,D van Niekerk,LCN Smith,0,0,,,,,,"",""
+ball,1,15.5,Surrey Stars,M Kapp,D van Niekerk,LCN Smith,4,0,,,,,,"",""
+ball,1,15.6,Surrey Stars,M Kapp,D van Niekerk,LCN Smith,1,0,,,,,,"",""
+ball,1,16.1,Surrey Stars,M Kapp,D van Niekerk,AN Davidson-Richards,1,0,,,,,,"",""
+ball,1,16.2,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,0,0,,,,,,"",""
+ball,1,16.3,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,6,0,,,,,,"",""
+ball,1,16.4,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,1,0,,,,,,"",""
+ball,1,16.5,Surrey Stars,M Kapp,D van Niekerk,AN Davidson-Richards,1,0,,,,,,"",""
+ball,1,16.6,Surrey Stars,D van Niekerk,M Kapp,AN Davidson-Richards,0,0,,,,,,"",""
+ball,1,17.1,Surrey Stars,M Kapp,D van Niekerk,BA Langston,1,0,,,,,,"",""
+ball,1,17.2,Surrey Stars,D van Niekerk,M Kapp,BA Langston,0,0,,,,,,"",""
+ball,1,17.3,Surrey Stars,D van Niekerk,M Kapp,BA Langston,0,0,,,,,,"",""
+ball,1,17.4,Surrey Stars,D van Niekerk,M Kapp,BA Langston,1,0,,,,,,"",""
+ball,1,17.5,Surrey Stars,M Kapp,D van Niekerk,BA Langston,6,0,,,,,,"",""
+ball,1,17.6,Surrey Stars,M Kapp,D van Niekerk,BA Langston,1,0,,,,,,"",""
+ball,1,18.1,Surrey Stars,M Kapp,D van Niekerk,LCN Smith,2,0,,,,,,"",""
+ball,1,18.2,Surrey Stars,M Kapp,D van Niekerk,LCN Smith,0,0,,,,,,"",""
+ball,1,18.3,Surrey Stars,M Kapp,D van Niekerk,LCN Smith,1,0,,,,,,"",""
+ball,1,18.4,Surrey Stars,D van Niekerk,M Kapp,LCN Smith,0,0,,,,,,caught,D van Niekerk
+ball,1,18.5,Surrey Stars,MK Villiers,M Kapp,LCN Smith,0,0,,,,,,"",""
+ball,1,18.6,Surrey Stars,MK Villiers,M Kapp,LCN Smith,1,0,,,,,,"",""
+ball,1,19.1,Surrey Stars,MK Villiers,M Kapp,BA Langston,0,0,,,,,,bowled,MK Villiers
+ball,1,19.2,Surrey Stars,LA Marsh,M Kapp,BA Langston,1,0,,,,,,"",""
+ball,1,19.3,Surrey Stars,M Kapp,LA Marsh,BA Langston,4,0,,,,,,"",""
+ball,1,19.4,Surrey Stars,M Kapp,LA Marsh,BA Langston,2,0,,,,,,"",""
+ball,1,19.5,Surrey Stars,M Kapp,LA Marsh,BA Langston,0,1,1,,,,,"",""
+ball,1,19.6,Surrey Stars,M Kapp,LA Marsh,BA Langston,0,0,,,,,,"",""
+ball,1,19.7,Surrey Stars,M Kapp,LA Marsh,BA Langston,0,1,,,,1,,"",""
+ball,2,0.1,Yorkshire Diamonds,AJ Healy,L Winfield,M Kapp,0,1,1,,,,,"",""
+ball,2,0.2,Yorkshire Diamonds,AJ Healy,L Winfield,M Kapp,0,0,,,,,,"",""
+ball,2,0.3,Yorkshire Diamonds,AJ Healy,L Winfield,M Kapp,1,0,,,,,,"",""
+ball,2,0.4,Yorkshire Diamonds,L Winfield,AJ Healy,M Kapp,0,0,,,,,,"",""
+ball,2,0.5,Yorkshire Diamonds,L Winfield,AJ Healy,M Kapp,1,0,,,,,,"",""
+ball,2,0.6,Yorkshire Diamonds,AJ Healy,L Winfield,M Kapp,1,0,,,,,,"",""
+ball,2,0.7,Yorkshire Diamonds,L Winfield,AJ Healy,M Kapp,1,0,,,,,,"",""
+ball,2,1.1,Yorkshire Diamonds,L Winfield,AJ Healy,MK Villiers,1,0,,,,,,"",""
+ball,2,1.2,Yorkshire Diamonds,AJ Healy,L Winfield,MK Villiers,4,0,,,,,,"",""
+ball,2,1.3,Yorkshire Diamonds,AJ Healy,L Winfield,MK Villiers,0,0,,,,,,"",""
+ball,2,1.4,Yorkshire Diamonds,AJ Healy,L Winfield,MK Villiers,2,0,,,,,,"",""
+ball,2,1.5,Yorkshire Diamonds,AJ Healy,L Winfield,MK Villiers,1,0,,,,,,"",""
+ball,2,1.6,Yorkshire Diamonds,L Winfield,AJ Healy,MK Villiers,4,0,,,,,,"",""
+ball,2,2.1,Yorkshire Diamonds,AJ Healy,L Winfield,M Kapp,4,0,,,,,,"",""
+ball,2,2.2,Yorkshire Diamonds,AJ Healy,L Winfield,M Kapp,0,0,,,,,,"",""
+ball,2,2.3,Yorkshire Diamonds,AJ Healy,L Winfield,M Kapp,1,0,,,,,,"",""
+ball,2,2.4,Yorkshire Diamonds,L Winfield,AJ Healy,M Kapp,0,0,,,,,,"",""
+ball,2,2.5,Yorkshire Diamonds,L Winfield,AJ Healy,M Kapp,0,0,,,,,,caught,L Winfield
+ball,2,2.6,Yorkshire Diamonds,HJ Armitage,AJ Healy,M Kapp,1,0,,,,,,"",""
+ball,2,3.1,Yorkshire Diamonds,HJ Armitage,AJ Healy,D van Niekerk,1,0,,,,,,"",""
+ball,2,3.2,Yorkshire Diamonds,AJ Healy,HJ Armitage,D van Niekerk,1,0,,,,,,"",""
+ball,2,3.3,Yorkshire Diamonds,HJ Armitage,AJ Healy,D van Niekerk,1,0,,,,,,"",""
+ball,2,3.4,Yorkshire Diamonds,AJ Healy,HJ Armitage,D van Niekerk,0,0,,,,,,"",""
+ball,2,3.5,Yorkshire Diamonds,AJ Healy,HJ Armitage,D van Niekerk,1,0,,,,,,"",""
+ball,2,3.6,Yorkshire Diamonds,HJ Armitage,AJ Healy,D van Niekerk,0,0,,,,,,"",""
+ball,2,4.1,Yorkshire Diamonds,AJ Healy,HJ Armitage,M Kapp,0,0,,,,,,"",""
+ball,2,4.2,Yorkshire Diamonds,AJ Healy,HJ Armitage,M Kapp,0,0,,,,,,"",""
+ball,2,4.3,Yorkshire Diamonds,AJ Healy,HJ Armitage,M Kapp,0,1,,,,1,,"",""
+ball,2,4.4,Yorkshire Diamonds,HJ Armitage,AJ Healy,M Kapp,0,0,,,,,,"",""
+ball,2,4.5,Yorkshire Diamonds,HJ Armitage,AJ Healy,M Kapp,1,0,,,,,,"",""
+ball,2,4.6,Yorkshire Diamonds,AJ Healy,HJ Armitage,M Kapp,0,0,,,,,,"",""
+ball,2,5.1,Yorkshire Diamonds,HJ Armitage,AJ Healy,MK Villiers,1,0,,,,,,"",""
+ball,2,5.2,Yorkshire Diamonds,AJ Healy,HJ Armitage,MK Villiers,4,0,,,,,,"",""
+ball,2,5.3,Yorkshire Diamonds,AJ Healy,HJ Armitage,MK Villiers,0,0,,,,,,"",""
+ball,2,5.4,Yorkshire Diamonds,AJ Healy,HJ Armitage,MK Villiers,0,0,,,,,,"",""
+ball,2,5.5,Yorkshire Diamonds,AJ Healy,HJ Armitage,MK Villiers,0,0,,,,,,"",""
+ball,2,5.6,Yorkshire Diamonds,AJ Healy,HJ Armitage,MK Villiers,4,0,,,,,,"",""
+ball,2,6.1,Yorkshire Diamonds,HJ Armitage,AJ Healy,NR Sciver,2,0,,,,,,"",""
+ball,2,6.2,Yorkshire Diamonds,HJ Armitage,AJ Healy,NR Sciver,1,0,,,,,,"",""
+ball,2,6.3,Yorkshire Diamonds,AJ Healy,HJ Armitage,NR Sciver,0,0,,,,,,"",""
+ball,2,6.4,Yorkshire Diamonds,AJ Healy,HJ Armitage,NR Sciver,6,0,,,,,,"",""
+ball,2,6.5,Yorkshire Diamonds,AJ Healy,HJ Armitage,NR Sciver,1,0,,,,,,"",""
+ball,2,6.6,Yorkshire Diamonds,HJ Armitage,AJ Healy,NR Sciver,1,0,,,,,,"",""
+ball,2,7.1,Yorkshire Diamonds,HJ Armitage,AJ Healy,AG Gordon,0,0,,,,,,"",""
+ball,2,7.2,Yorkshire Diamonds,HJ Armitage,AJ Healy,AG Gordon,1,0,,,,,,"",""
+ball,2,7.3,Yorkshire Diamonds,AJ Healy,HJ Armitage,AG Gordon,0,0,,,,,,"",""
+ball,2,7.4,Yorkshire Diamonds,AJ Healy,HJ Armitage,AG Gordon,0,0,,,,,,"",""
+ball,2,7.5,Yorkshire Diamonds,AJ Healy,HJ Armitage,AG Gordon,0,0,,,,,,"",""
+ball,2,7.6,Yorkshire Diamonds,AJ Healy,HJ Armitage,AG Gordon,1,0,,,,,,"",""
+ball,2,8.1,Yorkshire Diamonds,AJ Healy,HJ Armitage,D van Niekerk,4,0,,,,,,"",""
+ball,2,8.2,Yorkshire Diamonds,AJ Healy,HJ Armitage,D van Niekerk,0,0,,,,,,"",""
+ball,2,8.3,Yorkshire Diamonds,AJ Healy,HJ Armitage,D van Niekerk,1,0,,,,,,"",""
+ball,2,8.4,Yorkshire Diamonds,HJ Armitage,AJ Healy,D van Niekerk,0,2,,,2,,,"",""
+ball,2,8.5,Yorkshire Diamonds,HJ Armitage,AJ Healy,D van Niekerk,0,0,,,,,,"",""
+ball,2,8.6,Yorkshire Diamonds,HJ Armitage,AJ Healy,D van Niekerk,1,0,,,,,,"",""
+ball,2,9.1,Yorkshire Diamonds,HJ Armitage,AJ Healy,AG Gordon,1,0,,,,,,"",""
+ball,2,9.2,Yorkshire Diamonds,AJ Healy,HJ Armitage,AG Gordon,1,0,,,,,,"",""
+ball,2,9.3,Yorkshire Diamonds,HJ Armitage,AJ Healy,AG Gordon,1,0,,,,,,"",""
+ball,2,9.4,Yorkshire Diamonds,AJ Healy,HJ Armitage,AG Gordon,0,0,,,,,,caught,AJ Healy
+ball,2,9.5,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,AG Gordon,1,0,,,,,,"",""
+ball,2,9.6,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,AG Gordon,1,0,,,,,,"",""
+ball,2,10.1,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,NR Sciver,1,0,,,,,,"",""
+ball,2,10.2,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,NR Sciver,0,0,,,,,,"",""
+ball,2,10.3,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,NR Sciver,0,1,1,,,,,"",""
+ball,2,10.4,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,NR Sciver,4,0,,,,,,"",""
+ball,2,10.5,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,NR Sciver,0,0,,,,,,"",""
+ball,2,10.6,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,NR Sciver,0,0,,,,,,"",""
+ball,2,10.7,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,NR Sciver,2,0,,,,,,"",""
+ball,2,11.1,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,AG Gordon,0,0,,,,,,"",""
+ball,2,11.2,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,AG Gordon,0,0,,,,,,"",""
+ball,2,11.3,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,AG Gordon,4,0,,,,,,"",""
+ball,2,11.4,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,AG Gordon,0,0,,,,,,"",""
+ball,2,11.5,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,AG Gordon,0,0,,,,,,"",""
+ball,2,11.6,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,AG Gordon,2,0,,,,,,"",""
+ball,2,12.1,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,M Kapp,0,0,,,,,,"",""
+ball,2,12.2,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,M Kapp,0,0,,,,,,"",""
+ball,2,12.3,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,M Kapp,0,0,,,,,,"",""
+ball,2,12.4,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,M Kapp,1,0,,,,,,"",""
+ball,2,12.5,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,M Kapp,1,0,,,,,,"",""
+ball,2,12.6,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,M Kapp,4,0,,,,,,"",""
+ball,2,13.1,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,D van Niekerk,0,0,,,,,,"",""
+ball,2,13.2,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,D van Niekerk,1,0,,,,,,"",""
+ball,2,13.3,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,D van Niekerk,4,0,,,,,,"",""
+ball,2,13.4,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,D van Niekerk,1,0,,,,,,"",""
+ball,2,13.5,Yorkshire Diamonds,HJ Armitage,JI Rodrigues,D van Niekerk,1,0,,,,,,"",""
+ball,2,13.6,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,D van Niekerk,1,0,,,,,,"",""
+ball,2,14.1,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,NR Sciver,0,0,,,,,,"",""
+ball,2,14.2,Yorkshire Diamonds,JI Rodrigues,HJ Armitage,NR Sciver,0,0,,,,,,run out,HJ Armitage
+ball,2,14.3,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,NR Sciver,1,0,,,,,,"",""
+ball,2,14.4,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,NR Sciver,0,0,,,,,,"",""
+ball,2,14.5,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,NR Sciver,0,0,,,,,,"",""
+ball,2,14.6,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,NR Sciver,0,0,,,,,,"",""
+ball,2,15.1,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,LA Marsh,2,0,,,,,,"",""
+ball,2,15.2,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,LA Marsh,0,0,,,,,,"",""
+ball,2,15.3,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,LA Marsh,0,0,,,,,,"",""
+ball,2,15.4,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,LA Marsh,0,0,,,,,,"",""
+ball,2,15.5,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,LA Marsh,0,0,,,,,,"",""
+ball,2,15.6,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,LA Marsh,0,0,,,,,,"",""
+ball,2,16.1,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,D van Niekerk,2,0,,,,,,"",""
+ball,2,16.2,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,D van Niekerk,4,0,,,,,,"",""
+ball,2,16.3,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,D van Niekerk,0,0,,,,,,"",""
+ball,2,16.4,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,D van Niekerk,4,0,,,,,,"",""
+ball,2,16.5,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,D van Niekerk,1,0,,,,,,"",""
+ball,2,16.6,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,D van Niekerk,1,0,,,,,,"",""
+ball,2,17.1,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,LA Marsh,1,0,,,,,,"",""
+ball,2,17.2,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,LA Marsh,4,0,,,,,,"",""
+ball,2,17.3,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,LA Marsh,0,0,,,,,,"",""
+ball,2,17.4,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,LA Marsh,1,0,,,,,,"",""
+ball,2,17.5,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,LA Marsh,1,0,,,,,,"",""
+ball,2,17.6,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,LA Marsh,0,0,,,,,,"",""
+ball,2,18.1,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,NR Sciver,1,0,,,,,,"",""
+ball,2,18.2,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,NR Sciver,1,0,,,,,,"",""
+ball,2,18.3,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,NR Sciver,1,0,,,,,,"",""
+ball,2,18.4,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,NR Sciver,1,0,,,,,,"",""
+ball,2,18.5,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,NR Sciver,0,0,,,,,,"",""
+ball,2,18.6,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,NR Sciver,0,0,,,,,,"",""
+ball,2,19.1,Yorkshire Diamonds,JI Rodrigues,AN Davidson-Richards,LA Marsh,1,0,,,,,,"",""
+ball,2,19.2,Yorkshire Diamonds,AN Davidson-Richards,JI Rodrigues,LA Marsh,0,0,,,,,,caught,AN Davidson-Richards
+ball,2,19.3,Yorkshire Diamonds,JI Rodrigues,KL George,LA Marsh,1,0,,,,,,"",""
+ball,2,19.4,Yorkshire Diamonds,KL George,JI Rodrigues,LA Marsh,0,0,,,,,,caught,KL George
+ball,2,19.5,Yorkshire Diamonds,JI Rodrigues,BAM Heath,LA Marsh,4,0,,,,,,"",""

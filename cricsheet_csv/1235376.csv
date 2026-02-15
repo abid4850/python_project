@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Cape Cobras
+info,team,Warriors
+info,gender,male
+info,season,2020/21
+info,date,2021/02/23
+info,event,CSA T20 Challenge
+info,match_number,9
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Warriors
+info,toss_decision,field
+info,player_of_match,GF Linde
+info,umpire,BP Jele
+info,umpire,Siphelele Gasa
+info,reserve_umpire,A Paleker
+info,tv_umpire,Stephen Harris
+info,match_referee,GH Pienaar
+info,winner,Cape Cobras
+info,winner_runs,24
+info,player,Cape Cobras,Zubayr Hamza
+info,player,Cape Cobras,T de Zorzi
+info,player,Cape Cobras,K Verreynne
+info,player,Cape Cobras,C Jonker
+info,player,Cape Cobras,GF Linde
+info,player,Cape Cobras,JF Smith
+info,player,Cape Cobras,O Nyaku
+info,player,Cape Cobras,CP Savage
+info,player,Cape Cobras,I Manack
+info,player,Cape Cobras,TL Moreki
+info,player,Cape Cobras,Z Abrahams
+info,player,Warriors,M Marais
+info,player,Warriors,GL Cloete
+info,player,Warriors,JT Smuts
+info,player,Warriors,LC Ngoepe
+info,player,Warriors,S Qeshile
+info,player,Warriors,WJ Lubbe
+info,player,Warriors,A Gqamane
+info,player,Warriors,M Jansen
+info,player,Warriors,A Nortje
+info,player,Warriors,M Nabe
+info,player,Warriors,L Makhosi
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Paleker,634b11ac
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Jonker,a81d6706
+info,registry,people,CP Savage,a55e0360
+info,registry,people,GF Linde,e5437608
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,I Manack,5ec126fa
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Verreynne,bf814547
+info,registry,people,L Makhosi,deccdffa
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Marais,7c18b36c
+info,registry,people,M Nabe,6ed11905
+info,registry,people,O Nyaku,9b442f95
+info,registry,people,S Qeshile,94268960
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T de Zorzi,d3a1c63d
+info,registry,people,TL Moreki,36ea17c1
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,Z Abrahams,7eb7d5d4
+info,registry,people,Zubayr Hamza,22feee04
+ball,1,0.1,Cape Cobras,Zubayr Hamza,T de Zorzi,A Nortje,0,0,,,,,,"",""
+ball,1,0.2,Cape Cobras,Zubayr Hamza,T de Zorzi,A Nortje,0,0,,,,,,"",""
+ball,1,0.3,Cape Cobras,Zubayr Hamza,T de Zorzi,A Nortje,4,0,,,,,,"",""
+ball,1,0.4,Cape Cobras,Zubayr Hamza,T de Zorzi,A Nortje,1,0,,,,,,"",""
+ball,1,0.5,Cape Cobras,T de Zorzi,Zubayr Hamza,A Nortje,0,0,,,,,,lbw,T de Zorzi
+ball,1,0.6,Cape Cobras,K Verreynne,Zubayr Hamza,A Nortje,0,0,,,,,,"",""
+ball,1,1.1,Cape Cobras,Zubayr Hamza,K Verreynne,JT Smuts,1,0,,,,,,"",""
+ball,1,1.2,Cape Cobras,K Verreynne,Zubayr Hamza,JT Smuts,0,4,,,,4,,"",""
+ball,1,1.3,Cape Cobras,K Verreynne,Zubayr Hamza,JT Smuts,1,0,,,,,,"",""
+ball,1,1.4,Cape Cobras,Zubayr Hamza,K Verreynne,JT Smuts,4,0,,,,,,"",""
+ball,1,1.5,Cape Cobras,Zubayr Hamza,K Verreynne,JT Smuts,0,0,,,,,,"",""
+ball,1,1.6,Cape Cobras,Zubayr Hamza,K Verreynne,JT Smuts,0,0,,,,,,"",""
+ball,1,2.1,Cape Cobras,K Verreynne,Zubayr Hamza,A Nortje,0,0,,,,,,"",""
+ball,1,2.2,Cape Cobras,K Verreynne,Zubayr Hamza,A Nortje,0,0,,,,,,"",""
+ball,1,2.3,Cape Cobras,K Verreynne,Zubayr Hamza,A Nortje,4,0,,,,,,"",""
+ball,1,2.4,Cape Cobras,K Verreynne,Zubayr Hamza,A Nortje,6,0,,,,,,"",""
+ball,1,2.5,Cape Cobras,K Verreynne,Zubayr Hamza,A Nortje,4,0,,,,,,"",""
+ball,1,2.6,Cape Cobras,K Verreynne,Zubayr Hamza,A Nortje,0,0,,,,,,"",""
+ball,1,3.1,Cape Cobras,Zubayr Hamza,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,1,3.2,Cape Cobras,Zubayr Hamza,K Verreynne,M Jansen,2,0,,,,,,"",""
+ball,1,3.3,Cape Cobras,Zubayr Hamza,K Verreynne,M Jansen,3,0,,,,,,"",""
+ball,1,3.4,Cape Cobras,K Verreynne,Zubayr Hamza,M Jansen,4,0,,,,,,"",""
+ball,1,3.5,Cape Cobras,K Verreynne,Zubayr Hamza,M Jansen,2,0,,,,,,"",""
+ball,1,3.6,Cape Cobras,K Verreynne,Zubayr Hamza,M Jansen,4,0,,,,,,"",""
+ball,1,4.1,Cape Cobras,Zubayr Hamza,K Verreynne,A Gqamane,0,0,,,,,,"",""
+ball,1,4.2,Cape Cobras,Zubayr Hamza,K Verreynne,A Gqamane,0,0,,,,,,"",""
+ball,1,4.3,Cape Cobras,Zubayr Hamza,K Verreynne,A Gqamane,0,1,,,,1,,"",""
+ball,1,4.4,Cape Cobras,K Verreynne,Zubayr Hamza,A Gqamane,0,0,,,,,,"",""
+ball,1,4.5,Cape Cobras,K Verreynne,Zubayr Hamza,A Gqamane,0,0,,,,,,"",""
+ball,1,4.6,Cape Cobras,K Verreynne,Zubayr Hamza,A Gqamane,0,0,,,,,,"",""
+ball,1,5.1,Cape Cobras,Zubayr Hamza,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,1,5.2,Cape Cobras,Zubayr Hamza,K Verreynne,M Jansen,1,0,,,,,,"",""
+ball,1,5.3,Cape Cobras,K Verreynne,Zubayr Hamza,M Jansen,1,0,,,,,,"",""
+ball,1,5.4,Cape Cobras,Zubayr Hamza,K Verreynne,M Jansen,4,0,,,,,,"",""
+ball,1,5.5,Cape Cobras,Zubayr Hamza,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,1,5.6,Cape Cobras,Zubayr Hamza,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,1,6.1,Cape Cobras,K Verreynne,Zubayr Hamza,A Gqamane,0,0,,,,,,"",""
+ball,1,6.2,Cape Cobras,K Verreynne,Zubayr Hamza,A Gqamane,0,0,,,,,,lbw,K Verreynne
+ball,1,6.3,Cape Cobras,C Jonker,Zubayr Hamza,A Gqamane,2,0,,,,,,"",""
+ball,1,6.4,Cape Cobras,C Jonker,Zubayr Hamza,A Gqamane,0,0,,,,,,"",""
+ball,1,6.5,Cape Cobras,C Jonker,Zubayr Hamza,A Gqamane,0,1,1,,,,,"",""
+ball,1,6.6,Cape Cobras,C Jonker,Zubayr Hamza,A Gqamane,0,0,,,,,,"",""
+ball,1,6.7,Cape Cobras,C Jonker,Zubayr Hamza,A Gqamane,0,0,,,,,,"",""
+ball,1,7.1,Cape Cobras,Zubayr Hamza,C Jonker,M Nabe,1,0,,,,,,"",""
+ball,1,7.2,Cape Cobras,C Jonker,Zubayr Hamza,M Nabe,1,0,,,,,,"",""
+ball,1,7.3,Cape Cobras,Zubayr Hamza,C Jonker,M Nabe,2,0,,,,,,"",""
+ball,1,7.4,Cape Cobras,Zubayr Hamza,C Jonker,M Nabe,4,0,,,,,,"",""
+ball,1,7.5,Cape Cobras,Zubayr Hamza,C Jonker,M Nabe,1,0,,,,,,"",""
+ball,1,7.6,Cape Cobras,C Jonker,Zubayr Hamza,M Nabe,1,0,,,,,,"",""
+ball,1,8.1,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,1,0,,,,,,"",""
+ball,1,8.2,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,1,0,,,,,,"",""
+ball,1,8.3,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,1,0,,,,,,"",""
+ball,1,8.4,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,1,0,,,,,,"",""
+ball,1,8.5,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,1,0,,,,,,"",""
+ball,1,8.6,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,2,0,,,,,,"",""
+ball,1,9.1,Cape Cobras,C Jonker,Zubayr Hamza,M Nabe,4,0,,,,,,"",""
+ball,1,9.2,Cape Cobras,C Jonker,Zubayr Hamza,M Nabe,1,0,,,,,,"",""
+ball,1,9.3,Cape Cobras,Zubayr Hamza,C Jonker,M Nabe,1,0,,,,,,"",""
+ball,1,9.4,Cape Cobras,C Jonker,Zubayr Hamza,M Nabe,2,0,,,,,,"",""
+ball,1,9.5,Cape Cobras,C Jonker,Zubayr Hamza,M Nabe,1,1,,1,,,,"",""
+ball,1,9.6,Cape Cobras,Zubayr Hamza,C Jonker,M Nabe,1,0,,,,,,"",""
+ball,1,9.7,Cape Cobras,C Jonker,Zubayr Hamza,M Nabe,1,0,,,,,,"",""
+ball,1,10.1,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,1,0,,,,,,"",""
+ball,1,10.2,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,1,0,,,,,,"",""
+ball,1,10.3,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,0,0,,,,,,"",""
+ball,1,10.4,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,1,0,,,,,,"",""
+ball,1,10.5,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,1,0,,,,,,"",""
+ball,1,10.6,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,1,0,,,,,,"",""
+ball,1,11.1,Cape Cobras,C Jonker,Zubayr Hamza,JT Smuts,1,0,,,,,,"",""
+ball,1,11.2,Cape Cobras,Zubayr Hamza,C Jonker,JT Smuts,1,0,,,,,,"",""
+ball,1,11.3,Cape Cobras,C Jonker,Zubayr Hamza,JT Smuts,1,0,,,,,,"",""
+ball,1,11.4,Cape Cobras,Zubayr Hamza,C Jonker,JT Smuts,1,0,,,,,,"",""
+ball,1,11.5,Cape Cobras,C Jonker,Zubayr Hamza,JT Smuts,1,0,,,,,,"",""
+ball,1,11.6,Cape Cobras,Zubayr Hamza,C Jonker,JT Smuts,1,0,,,,,,"",""
+ball,1,12.1,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,1,0,,,,,,"",""
+ball,1,12.2,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,1,0,,,,,,"",""
+ball,1,12.3,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,1,0,,,,,,"",""
+ball,1,12.4,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,1,0,,,,,,"",""
+ball,1,12.5,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,4,0,,,,,,"",""
+ball,1,12.6,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,1,0,,,,,,"",""
+ball,1,13.1,Cape Cobras,Zubayr Hamza,C Jonker,A Nortje,2,0,,,,,,"",""
+ball,1,13.2,Cape Cobras,Zubayr Hamza,C Jonker,A Nortje,0,0,,,,,,"",""
+ball,1,13.3,Cape Cobras,Zubayr Hamza,C Jonker,A Nortje,1,0,,,,,,"",""
+ball,1,13.4,Cape Cobras,C Jonker,Zubayr Hamza,A Nortje,1,0,,,,,,"",""
+ball,1,13.5,Cape Cobras,Zubayr Hamza,C Jonker,A Nortje,2,0,,,,,,"",""
+ball,1,13.6,Cape Cobras,Zubayr Hamza,C Jonker,A Nortje,1,0,,,,,,"",""
+ball,1,14.1,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,1,0,,,,,,"",""
+ball,1,14.2,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,6,0,,,,,,"",""
+ball,1,14.3,Cape Cobras,C Jonker,Zubayr Hamza,L Makhosi,1,0,,,,,,"",""
+ball,1,14.4,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,4,0,,,,,,"",""
+ball,1,14.5,Cape Cobras,Zubayr Hamza,C Jonker,L Makhosi,0,0,,,,,,caught,Zubayr Hamza
+ball,1,14.6,Cape Cobras,GF Linde,C Jonker,L Makhosi,1,0,,,,,,"",""
+ball,1,15.1,Cape Cobras,GF Linde,C Jonker,A Nortje,1,0,,,,,,"",""
+ball,1,15.2,Cape Cobras,C Jonker,GF Linde,A Nortje,1,0,,,,,,"",""
+ball,1,15.3,Cape Cobras,GF Linde,C Jonker,A Nortje,1,0,,,,,,"",""
+ball,1,15.4,Cape Cobras,C Jonker,GF Linde,A Nortje,0,0,,,,,,caught,C Jonker
+ball,1,15.5,Cape Cobras,GF Linde,JF Smith,A Nortje,1,0,,,,,,"",""
+ball,1,15.6,Cape Cobras,JF Smith,GF Linde,A Nortje,0,0,,,,,,"",""
+ball,1,16.1,Cape Cobras,GF Linde,JF Smith,A Gqamane,4,0,,,,,,"",""
+ball,1,16.2,Cape Cobras,GF Linde,JF Smith,A Gqamane,4,0,,,,,,"",""
+ball,1,16.3,Cape Cobras,GF Linde,JF Smith,A Gqamane,4,0,,,,,,"",""
+ball,1,16.4,Cape Cobras,GF Linde,JF Smith,A Gqamane,6,0,,,,,,"",""
+ball,1,16.5,Cape Cobras,GF Linde,JF Smith,A Gqamane,4,0,,,,,,"",""
+ball,1,16.6,Cape Cobras,GF Linde,JF Smith,A Gqamane,4,0,,,,,,"",""
+ball,1,17.1,Cape Cobras,JF Smith,GF Linde,M Jansen,6,0,,,,,,"",""
+ball,1,17.2,Cape Cobras,JF Smith,GF Linde,M Jansen,1,0,,,,,,"",""
+ball,1,17.3,Cape Cobras,GF Linde,JF Smith,M Jansen,1,0,,,,,,"",""
+ball,1,17.4,Cape Cobras,JF Smith,GF Linde,M Jansen,1,0,,,,,,"",""
+ball,1,17.5,Cape Cobras,GF Linde,JF Smith,M Jansen,1,0,,,,,,"",""
+ball,1,17.6,Cape Cobras,JF Smith,GF Linde,M Jansen,1,0,,,,,,"",""
+ball,1,18.1,Cape Cobras,JF Smith,GF Linde,M Nabe,0,0,,,,,,bowled,JF Smith
+ball,1,18.2,Cape Cobras,O Nyaku,GF Linde,M Nabe,1,0,,,,,,"",""
+ball,1,18.3,Cape Cobras,GF Linde,O Nyaku,M Nabe,0,0,,,,,,"",""
+ball,1,18.4,Cape Cobras,GF Linde,O Nyaku,M Nabe,6,0,,,,,,"",""
+ball,1,18.5,Cape Cobras,GF Linde,O Nyaku,M Nabe,2,0,,,,,,"",""
+ball,1,18.6,Cape Cobras,GF Linde,O Nyaku,M Nabe,1,0,,,,,,"",""
+ball,1,19.1,Cape Cobras,GF Linde,O Nyaku,M Jansen,4,0,,,,,,"",""
+ball,1,19.2,Cape Cobras,GF Linde,O Nyaku,M Jansen,0,0,,,,,,"",""
+ball,1,19.3,Cape Cobras,GF Linde,O Nyaku,M Jansen,2,0,,,,,,"",""
+ball,1,19.4,Cape Cobras,GF Linde,O Nyaku,M Jansen,1,0,,,,,,"",""
+ball,1,19.5,Cape Cobras,O Nyaku,GF Linde,M Jansen,0,0,,,,,,"",""
+ball,1,19.6,Cape Cobras,O Nyaku,GF Linde,M Jansen,0,0,,,,,,"",""
+ball,2,0.1,Warriors,M Marais,GL Cloete,I Manack,4,0,,,,,,"",""
+ball,2,0.2,Warriors,M Marais,GL Cloete,I Manack,0,0,,,,,,caught,M Marais
+ball,2,0.3,Warriors,JT Smuts,GL Cloete,I Manack,0,0,,,,,,"",""
+ball,2,0.4,Warriors,JT Smuts,GL Cloete,I Manack,1,0,,,,,,"",""
+ball,2,0.5,Warriors,GL Cloete,JT Smuts,I Manack,0,0,,,,,,"",""
+ball,2,0.6,Warriors,GL Cloete,JT Smuts,I Manack,0,0,,,,,,"",""
+ball,2,1.1,Warriors,JT Smuts,GL Cloete,Z Abrahams,0,1,1,,,,,"",""
+ball,2,1.2,Warriors,JT Smuts,GL Cloete,Z Abrahams,1,0,,,,,,"",""
+ball,2,1.3,Warriors,GL Cloete,JT Smuts,Z Abrahams,4,0,,,,,,"",""
+ball,2,1.4,Warriors,GL Cloete,JT Smuts,Z Abrahams,0,0,,,,,,"",""
+ball,2,1.5,Warriors,GL Cloete,JT Smuts,Z Abrahams,0,0,,,,,,"",""
+ball,2,1.6,Warriors,GL Cloete,JT Smuts,Z Abrahams,1,0,,,,,,"",""
+ball,2,1.7,Warriors,JT Smuts,GL Cloete,Z Abrahams,4,0,,,,,,"",""
+ball,2,2.1,Warriors,GL Cloete,JT Smuts,I Manack,1,0,,,,,,"",""
+ball,2,2.2,Warriors,JT Smuts,GL Cloete,I Manack,4,0,,,,,,"",""
+ball,2,2.3,Warriors,JT Smuts,GL Cloete,I Manack,0,3,3,,,,,"",""
+ball,2,2.4,Warriors,JT Smuts,GL Cloete,I Manack,0,0,,,,,,"",""
+ball,2,2.5,Warriors,JT Smuts,GL Cloete,I Manack,1,0,,,,,,"",""
+ball,2,2.6,Warriors,GL Cloete,JT Smuts,I Manack,0,0,,,,,,lbw,GL Cloete
+ball,2,2.7,Warriors,LC Ngoepe,JT Smuts,I Manack,0,0,,,,,,"",""
+ball,2,3.1,Warriors,JT Smuts,LC Ngoepe,TL Moreki,1,0,,,,,,"",""
+ball,2,3.2,Warriors,LC Ngoepe,JT Smuts,TL Moreki,4,0,,,,,,"",""
+ball,2,3.3,Warriors,LC Ngoepe,JT Smuts,TL Moreki,4,0,,,,,,"",""
+ball,2,3.4,Warriors,LC Ngoepe,JT Smuts,TL Moreki,0,0,,,,,,"",""
+ball,2,3.5,Warriors,LC Ngoepe,JT Smuts,TL Moreki,1,0,,,,,,"",""
+ball,2,3.6,Warriors,JT Smuts,LC Ngoepe,TL Moreki,0,0,,,,,,"",""
+ball,2,4.1,Warriors,LC Ngoepe,JT Smuts,CP Savage,0,1,1,,,,,"",""
+ball,2,4.2,Warriors,LC Ngoepe,JT Smuts,CP Savage,4,0,,,,,,"",""
+ball,2,4.3,Warriors,LC Ngoepe,JT Smuts,CP Savage,0,1,1,,,,,"",""
+ball,2,4.4,Warriors,LC Ngoepe,JT Smuts,CP Savage,1,0,,,,,,"",""
+ball,2,4.5,Warriors,JT Smuts,LC Ngoepe,CP Savage,1,0,,,,,,"",""
+ball,2,4.6,Warriors,LC Ngoepe,JT Smuts,CP Savage,0,0,,,,,,lbw,LC Ngoepe
+ball,2,4.7,Warriors,S Qeshile,JT Smuts,CP Savage,0,0,,,,,,"",""
+ball,2,4.8,Warriors,S Qeshile,JT Smuts,CP Savage,4,0,,,,,,"",""
+ball,2,5.1,Warriors,JT Smuts,S Qeshile,Z Abrahams,1,0,,,,,,"",""
+ball,2,5.2,Warriors,S Qeshile,JT Smuts,Z Abrahams,0,0,,,,,,"",""
+ball,2,5.3,Warriors,S Qeshile,JT Smuts,Z Abrahams,0,0,,,,,,"",""
+ball,2,5.4,Warriors,S Qeshile,JT Smuts,Z Abrahams,1,0,,,,,,"",""
+ball,2,5.5,Warriors,JT Smuts,S Qeshile,Z Abrahams,4,0,,,,,,"",""
+ball,2,5.6,Warriors,JT Smuts,S Qeshile,Z Abrahams,0,1,1,,,,,"",""
+ball,2,5.7,Warriors,JT Smuts,S Qeshile,Z Abrahams,1,0,,,,,,"",""
+ball,2,6.1,Warriors,JT Smuts,S Qeshile,GF Linde,1,0,,,,,,"",""
+ball,2,6.2,Warriors,S Qeshile,JT Smuts,GF Linde,1,0,,,,,,"",""
+ball,2,6.3,Warriors,JT Smuts,S Qeshile,GF Linde,0,0,,,,,,"",""
+ball,2,6.4,Warriors,JT Smuts,S Qeshile,GF Linde,0,0,,,,,,lbw,JT Smuts
+ball,2,6.5,Warriors,WJ Lubbe,S Qeshile,GF Linde,0,0,,,,,,"",""
+ball,2,6.6,Warriors,WJ Lubbe,S Qeshile,GF Linde,4,0,,,,,,"",""
+ball,2,7.1,Warriors,S Qeshile,WJ Lubbe,TL Moreki,1,0,,,,,,"",""
+ball,2,7.2,Warriors,WJ Lubbe,S Qeshile,TL Moreki,1,0,,,,,,"",""
+ball,2,7.3,Warriors,S Qeshile,WJ Lubbe,TL Moreki,0,1,1,,,,,"",""
+ball,2,7.4,Warriors,S Qeshile,WJ Lubbe,TL Moreki,1,0,,,,,,"",""
+ball,2,7.5,Warriors,WJ Lubbe,S Qeshile,TL Moreki,1,0,,,,,,"",""
+ball,2,7.6,Warriors,S Qeshile,WJ Lubbe,TL Moreki,1,0,,,,,,"",""
+ball,2,7.7,Warriors,WJ Lubbe,S Qeshile,TL Moreki,1,0,,,,,,"",""
+ball,2,8.1,Warriors,WJ Lubbe,S Qeshile,GF Linde,0,0,,,,,,caught,WJ Lubbe
+ball,2,8.2,Warriors,S Qeshile,A Gqamane,GF Linde,1,0,,,,,,"",""
+ball,2,8.3,Warriors,A Gqamane,S Qeshile,GF Linde,2,0,,,,,,"",""
+ball,2,8.4,Warriors,A Gqamane,S Qeshile,GF Linde,0,0,,,,,,caught,A Gqamane
+ball,2,8.5,Warriors,S Qeshile,M Jansen,GF Linde,1,0,,,,,,"",""
+ball,2,8.6,Warriors,M Jansen,S Qeshile,GF Linde,0,0,,,,,,"",""
+ball,2,9.1,Warriors,S Qeshile,M Jansen,I Manack,1,0,,,,,,"",""
+ball,2,9.2,Warriors,M Jansen,S Qeshile,I Manack,1,0,,,,,,"",""
+ball,2,9.3,Warriors,S Qeshile,M Jansen,I Manack,0,0,,,,,,"",""
+ball,2,9.4,Warriors,S Qeshile,M Jansen,I Manack,1,0,,,,,,"",""
+ball,2,9.5,Warriors,M Jansen,S Qeshile,I Manack,0,0,,,,,,"",""
+ball,2,9.6,Warriors,M Jansen,S Qeshile,I Manack,0,0,,,,,,"",""
+ball,2,10.1,Warriors,S Qeshile,M Jansen,GF Linde,0,0,,,,,,caught,S Qeshile
+ball,2,10.2,Warriors,M Jansen,A Nortje,GF Linde,1,0,,,,,,"",""
+ball,2,10.3,Warriors,A Nortje,M Jansen,GF Linde,1,0,,,,,,"",""
+ball,2,10.4,Warriors,M Jansen,A Nortje,GF Linde,1,0,,,,,,"",""
+ball,2,10.5,Warriors,A Nortje,M Jansen,GF Linde,1,0,,,,,,"",""
+ball,2,10.6,Warriors,M Jansen,A Nortje,GF Linde,1,0,,,,,,"",""
+ball,2,11.1,Warriors,M Jansen,A Nortje,I Manack,0,0,,,,,,"",""
+ball,2,11.2,Warriors,M Jansen,A Nortje,I Manack,4,0,,,,,,"",""
+ball,2,11.3,Warriors,M Jansen,A Nortje,I Manack,1,0,,,,,,"",""
+ball,2,11.4,Warriors,A Nortje,M Jansen,I Manack,0,0,,,,,,"",""
+ball,2,11.5,Warriors,A Nortje,M Jansen,I Manack,1,0,,,,,,"",""
+ball,2,11.6,Warriors,M Jansen,A Nortje,I Manack,0,0,,,,,,"",""
+ball,2,12.1,Warriors,A Nortje,M Jansen,GF Linde,1,0,,,,,,"",""
+ball,2,12.2,Warriors,M Jansen,A Nortje,GF Linde,1,0,,,,,,"",""
+ball,2,12.3,Warriors,A Nortje,M Jansen,GF Linde,1,0,,,,,,"",""
+ball,2,12.4,Warriors,M Jansen,A Nortje,GF Linde,6,0,,,,,,"",""
+ball,2,12.5,Warriors,M Jansen,A Nortje,GF Linde,0,0,,,,,,"",""
+ball,2,12.6,Warriors,M Jansen,A Nortje,GF Linde,1,0,,,,,,"",""
+ball,2,13.1,Warriors,M Jansen,A Nortje,TL Moreki,0,0,,,,,,"",""
+ball,2,13.2,Warriors,M Jansen,A Nortje,TL Moreki,1,0,,,,,,"",""
+ball,2,13.3,Warriors,A Nortje,M Jansen,TL Moreki,0,1,,,,1,,"",""
+ball,2,13.4,Warriors,M Jansen,A Nortje,TL Moreki,2,0,,,,,,"",""
+ball,2,13.5,Warriors,M Jansen,A Nortje,TL Moreki,4,0,,,,,,"",""
+ball,2,13.6,Warriors,M Jansen,A Nortje,TL Moreki,1,0,,,,,,"",""
+ball,2,14.1,Warriors,M Jansen,A Nortje,Z Abrahams,1,0,,,,,,"",""
+ball,2,14.2,Warriors,A Nortje,M Jansen,Z Abrahams,1,0,,,,,,"",""
+ball,2,14.3,Warriors,M Jansen,A Nortje,Z Abrahams,1,0,,,,,,"",""
+ball,2,14.4,Warriors,A Nortje,M Jansen,Z Abrahams,1,0,,,,,,"",""
+ball,2,14.5,Warriors,M Jansen,A Nortje,Z Abrahams,6,0,,,,,,"",""
+ball,2,14.6,Warriors,M Jansen,A Nortje,Z Abrahams,1,0,,,,,,"",""
+ball,2,15.1,Warriors,M Jansen,A Nortje,O Nyaku,1,0,,,,,,"",""
+ball,2,15.2,Warriors,A Nortje,M Jansen,O Nyaku,2,0,,,,,,"",""
+ball,2,15.3,Warriors,A Nortje,M Jansen,O Nyaku,1,0,,,,,,"",""
+ball,2,15.4,Warriors,M Jansen,A Nortje,O Nyaku,1,1,,1,,,,"",""
+ball,2,15.5,Warriors,A Nortje,M Jansen,O Nyaku,4,0,,,,,,"",""
+ball,2,15.6,Warriors,A Nortje,M Jansen,O Nyaku,1,0,,,,,,"",""
+ball,2,15.7,Warriors,M Jansen,A Nortje,O Nyaku,1,0,,,,,,"",""
+ball,2,16.1,Warriors,M Jansen,A Nortje,Z Abrahams,1,0,,,,,,"",""
+ball,2,16.2,Warriors,A Nortje,M Jansen,Z Abrahams,4,0,,,,,,"",""
+ball,2,16.3,Warriors,A Nortje,M Jansen,Z Abrahams,1,0,,,,,,"",""
+ball,2,16.4,Warriors,M Jansen,A Nortje,Z Abrahams,1,0,,,,,,"",""
+ball,2,16.5,Warriors,A Nortje,M Jansen,Z Abrahams,0,0,,,,,,"",""
+ball,2,16.6,Warriors,A Nortje,M Jansen,Z Abrahams,1,0,,,,,,"",""
+ball,2,17.1,Warriors,A Nortje,M Jansen,O Nyaku,1,0,,,,,,"",""
+ball,2,17.2,Warriors,M Jansen,A Nortje,O Nyaku,1,0,,,,,,"",""
+ball,2,17.3,Warriors,A Nortje,M Jansen,O Nyaku,2,0,,,,,,"",""
+ball,2,17.4,Warriors,A Nortje,M Jansen,O Nyaku,1,0,,,,,,"",""
+ball,2,17.5,Warriors,M Jansen,A Nortje,O Nyaku,1,0,,,,,,"",""
+ball,2,17.6,Warriors,A Nortje,M Jansen,O Nyaku,0,0,,,,,,caught,A Nortje
+ball,2,18.1,Warriors,M Nabe,M Jansen,TL Moreki,1,0,,,,,,"",""
+ball,2,18.2,Warriors,M Jansen,M Nabe,TL Moreki,0,5,5,,,,,"",""
+ball,2,18.3,Warriors,M Jansen,M Nabe,TL Moreki,0,0,,,,,,"",""
+ball,2,18.4,Warriors,M Jansen,M Nabe,TL Moreki,0,1,1,,,,,"",""
+ball,2,18.5,Warriors,M Jansen,M Nabe,TL Moreki,0,0,,,,,,run out,M Nabe
+ball,2,18.6,Warriors,M Jansen,L Makhosi,TL Moreki,0,1,,,1,,,"",""
+ball,2,18.7,Warriors,L Makhosi,M Jansen,TL Moreki,0,0,,,,,,"",""
+ball,2,18.8,Warriors,L Makhosi,M Jansen,TL Moreki,0,1,1,,,,,"",""
+ball,2,18.9,Warriors,L Makhosi,M Jansen,TL Moreki,0,0,,,,,,"",""
+ball,2,19.1,Warriors,M Jansen,L Makhosi,O Nyaku,6,0,,,,,,"",""
+ball,2,19.2,Warriors,M Jansen,L Makhosi,O Nyaku,0,0,,,,,,caught,M Jansen

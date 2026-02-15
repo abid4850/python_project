@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Warriors
+info,team,Lions
+info,gender,male
+info,season,2014/15
+info,date,2014/11/16
+info,event,Ram Slam T20 Challenge
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Lions
+info,toss_decision,field
+info,player_of_match,T Bavuma
+info,player_of_match,CH Morris
+info,umpire,JD Cloete
+info,umpire,LB Gcuma
+info,reserve_umpire,A Paleker
+info,tv_umpire,M Erasmus
+info,match_referee,D Govindjee
+info,winner,Lions
+info,winner_wickets,6
+info,player,Warriors,JT Smuts
+info,player,Warriors,C Kieswetter
+info,player,Warriors,CA Ingram
+info,player,Warriors,MY Vallie
+info,player,Warriors,S Seyibokwe
+info,player,Warriors,C Jonker
+info,player,Warriors,SR Harmer
+info,player,Warriors,J Theron
+info,player,Warriors,A Gqamane
+info,player,Warriors,BD Walters
+info,player,Warriors,L Mbane
+info,player,Lions,HE van der Dussen
+info,player,Lions,AN Petersen
+info,player,Lions,ND McKenzie
+info,player,Lions,D Pretorius
+info,player,Lions,J Symes
+info,player,Lions,T Bavuma
+info,player,Lions,TL Tsolekile
+info,player,Lions,CH Morris
+info,player,Lions,GC Viljoen
+info,player,Lions,E Leie
+info,player,Lions,LL Tsotsobe
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,BD Walters,1e182ae2
+info,registry,people,C Jonker,a81d6706
+info,registry,people,C Kieswetter,1e960f2a
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,D Govindjee,8b4c4069
+info,registry,people,D Pretorius,11614d87
+info,registry,people,E Leie,a7bc76a0
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,J Symes,77841dcc
+info,registry,people,J Theron,dec8e038
+info,registry,people,JD Cloete,b0419f8c
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,L Mbane,ca322fd6
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LL Tsotsobe,12bffe91
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MY Vallie,9fa54c94
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,S Seyibokwe,2f873ad6
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TL Tsolekile,3b94297b
+ball,1,0.1,Warriors,JT Smuts,C Kieswetter,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,0.2,Warriors,JT Smuts,C Kieswetter,LL Tsotsobe,4,0,,,,,,"",""
+ball,1,0.3,Warriors,JT Smuts,C Kieswetter,LL Tsotsobe,4,0,,,,,,"",""
+ball,1,0.4,Warriors,JT Smuts,C Kieswetter,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,0.5,Warriors,JT Smuts,C Kieswetter,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,0.6,Warriors,JT Smuts,C Kieswetter,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,1.1,Warriors,C Kieswetter,JT Smuts,CH Morris,0,0,,,,,,"",""
+ball,1,1.2,Warriors,C Kieswetter,JT Smuts,CH Morris,0,0,,,,,,"",""
+ball,1,1.3,Warriors,C Kieswetter,JT Smuts,CH Morris,0,0,,,,,,"",""
+ball,1,1.4,Warriors,C Kieswetter,JT Smuts,CH Morris,0,0,,,,,,"",""
+ball,1,1.5,Warriors,C Kieswetter,JT Smuts,CH Morris,1,0,,,,,,"",""
+ball,1,1.6,Warriors,JT Smuts,C Kieswetter,CH Morris,0,0,,,,,,caught,JT Smuts
+ball,1,2.1,Warriors,C Kieswetter,CA Ingram,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,2.2,Warriors,C Kieswetter,CA Ingram,LL Tsotsobe,1,0,,,,,,"",""
+ball,1,2.3,Warriors,CA Ingram,C Kieswetter,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,2.4,Warriors,CA Ingram,C Kieswetter,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,2.5,Warriors,CA Ingram,C Kieswetter,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,2.6,Warriors,CA Ingram,C Kieswetter,LL Tsotsobe,4,0,,,,,,"",""
+ball,1,3.1,Warriors,C Kieswetter,CA Ingram,CH Morris,0,0,,,,,,"",""
+ball,1,3.2,Warriors,C Kieswetter,CA Ingram,CH Morris,1,0,,,,,,"",""
+ball,1,3.3,Warriors,CA Ingram,C Kieswetter,CH Morris,1,0,,,,,,"",""
+ball,1,3.4,Warriors,C Kieswetter,CA Ingram,CH Morris,1,0,,,,,,"",""
+ball,1,3.5,Warriors,CA Ingram,C Kieswetter,CH Morris,0,0,,,,,,caught,CA Ingram
+ball,1,3.6,Warriors,MY Vallie,C Kieswetter,CH Morris,0,0,,,,,,"",""
+ball,1,4.1,Warriors,C Kieswetter,MY Vallie,GC Viljoen,0,0,,,,,,"",""
+ball,1,4.2,Warriors,C Kieswetter,MY Vallie,GC Viljoen,0,0,,,,,,"",""
+ball,1,4.3,Warriors,C Kieswetter,MY Vallie,GC Viljoen,0,0,,,,,,"",""
+ball,1,4.4,Warriors,C Kieswetter,MY Vallie,GC Viljoen,1,0,,,,,,"",""
+ball,1,4.5,Warriors,MY Vallie,C Kieswetter,GC Viljoen,1,0,,,,,,"",""
+ball,1,4.6,Warriors,C Kieswetter,MY Vallie,GC Viljoen,2,0,,,,,,"",""
+ball,1,5.1,Warriors,MY Vallie,C Kieswetter,D Pretorius,0,0,,,,,,"",""
+ball,1,5.2,Warriors,MY Vallie,C Kieswetter,D Pretorius,1,0,,,,,,"",""
+ball,1,5.3,Warriors,C Kieswetter,MY Vallie,D Pretorius,1,0,,,,,,"",""
+ball,1,5.4,Warriors,MY Vallie,C Kieswetter,D Pretorius,2,0,,,,,,"",""
+ball,1,5.5,Warriors,MY Vallie,C Kieswetter,D Pretorius,0,0,,,,,,"",""
+ball,1,5.6,Warriors,MY Vallie,C Kieswetter,D Pretorius,4,0,,,,,,"",""
+ball,1,6.1,Warriors,C Kieswetter,MY Vallie,GC Viljoen,0,0,,,,,,"",""
+ball,1,6.2,Warriors,C Kieswetter,MY Vallie,GC Viljoen,0,0,,,,,,caught,C Kieswetter
+ball,1,6.3,Warriors,S Seyibokwe,MY Vallie,GC Viljoen,0,1,1,,,,,"",""
+ball,1,6.4,Warriors,S Seyibokwe,MY Vallie,GC Viljoen,0,0,,,,,,"",""
+ball,1,6.5,Warriors,S Seyibokwe,MY Vallie,GC Viljoen,0,0,,,,,,"",""
+ball,1,6.6,Warriors,S Seyibokwe,MY Vallie,GC Viljoen,1,0,,,,,,"",""
+ball,1,6.7,Warriors,MY Vallie,S Seyibokwe,GC Viljoen,1,0,,,,,,"",""
+ball,1,7.1,Warriors,MY Vallie,S Seyibokwe,E Leie,1,0,,,,,,"",""
+ball,1,7.2,Warriors,S Seyibokwe,MY Vallie,E Leie,0,0,,,,,,"",""
+ball,1,7.3,Warriors,S Seyibokwe,MY Vallie,E Leie,0,0,,,,,,"",""
+ball,1,7.4,Warriors,S Seyibokwe,MY Vallie,E Leie,1,0,,,,,,"",""
+ball,1,7.5,Warriors,MY Vallie,S Seyibokwe,E Leie,1,0,,,,,,"",""
+ball,1,7.6,Warriors,S Seyibokwe,MY Vallie,E Leie,1,0,,,,,,"",""
+ball,1,8.1,Warriors,S Seyibokwe,MY Vallie,GC Viljoen,1,0,,,,,,"",""
+ball,1,8.2,Warriors,MY Vallie,S Seyibokwe,GC Viljoen,1,0,,,,,,"",""
+ball,1,8.3,Warriors,S Seyibokwe,MY Vallie,GC Viljoen,1,0,,,,,,"",""
+ball,1,8.4,Warriors,MY Vallie,S Seyibokwe,GC Viljoen,2,0,,,,,,"",""
+ball,1,8.5,Warriors,MY Vallie,S Seyibokwe,GC Viljoen,2,0,,,,,,"",""
+ball,1,8.6,Warriors,MY Vallie,S Seyibokwe,GC Viljoen,0,0,,,,,,"",""
+ball,1,9.1,Warriors,S Seyibokwe,MY Vallie,E Leie,1,0,,,,,,"",""
+ball,1,9.2,Warriors,MY Vallie,S Seyibokwe,E Leie,0,0,,,,,,"",""
+ball,1,9.3,Warriors,MY Vallie,S Seyibokwe,E Leie,2,0,,,,,,"",""
+ball,1,9.4,Warriors,MY Vallie,S Seyibokwe,E Leie,0,0,,,,,,"",""
+ball,1,9.5,Warriors,MY Vallie,S Seyibokwe,E Leie,0,0,,,,,,"",""
+ball,1,9.6,Warriors,MY Vallie,S Seyibokwe,E Leie,2,0,,,,,,"",""
+ball,1,10.1,Warriors,S Seyibokwe,MY Vallie,D Pretorius,0,0,,,,,,"",""
+ball,1,10.2,Warriors,S Seyibokwe,MY Vallie,D Pretorius,0,0,,,,,,"",""
+ball,1,10.3,Warriors,S Seyibokwe,MY Vallie,D Pretorius,1,0,,,,,,"",""
+ball,1,10.4,Warriors,MY Vallie,S Seyibokwe,D Pretorius,0,0,,,,,,"",""
+ball,1,10.5,Warriors,MY Vallie,S Seyibokwe,D Pretorius,0,0,,,,,,"",""
+ball,1,10.6,Warriors,MY Vallie,S Seyibokwe,D Pretorius,4,0,,,,,,"",""
+ball,1,11.1,Warriors,S Seyibokwe,MY Vallie,E Leie,0,0,,,,,,caught,S Seyibokwe
+ball,1,11.2,Warriors,C Jonker,MY Vallie,E Leie,0,0,,,,,,"",""
+ball,1,11.3,Warriors,C Jonker,MY Vallie,E Leie,0,0,,,,,,"",""
+ball,1,11.4,Warriors,C Jonker,MY Vallie,E Leie,1,0,,,,,,"",""
+ball,1,11.5,Warriors,MY Vallie,C Jonker,E Leie,0,0,,,,,,"",""
+ball,1,11.6,Warriors,MY Vallie,C Jonker,E Leie,1,0,,,,,,"",""
+ball,1,12.1,Warriors,MY Vallie,C Jonker,D Pretorius,0,0,,,,,,caught,MY Vallie
+ball,1,12.2,Warriors,C Jonker,SR Harmer,D Pretorius,1,0,,,,,,"",""
+ball,1,12.3,Warriors,SR Harmer,C Jonker,D Pretorius,0,1,1,,,,,"",""
+ball,1,12.4,Warriors,SR Harmer,C Jonker,D Pretorius,1,0,,,,,,"",""
+ball,1,12.5,Warriors,C Jonker,SR Harmer,D Pretorius,0,0,,,,,,"",""
+ball,1,12.6,Warriors,C Jonker,SR Harmer,D Pretorius,2,0,,,,,,"",""
+ball,1,12.7,Warriors,C Jonker,SR Harmer,D Pretorius,0,0,,,,,,"",""
+ball,1,13.1,Warriors,SR Harmer,C Jonker,CH Morris,0,0,,,,,,"",""
+ball,1,13.2,Warriors,SR Harmer,C Jonker,CH Morris,0,0,,,,,,"",""
+ball,1,13.3,Warriors,SR Harmer,C Jonker,CH Morris,0,0,,,,,,"",""
+ball,1,13.4,Warriors,SR Harmer,C Jonker,CH Morris,0,0,,,,,,"",""
+ball,1,13.5,Warriors,SR Harmer,C Jonker,CH Morris,1,0,,,,,,"",""
+ball,1,13.6,Warriors,C Jonker,SR Harmer,CH Morris,0,1,1,,,,,"",""
+ball,1,13.7,Warriors,C Jonker,SR Harmer,CH Morris,1,0,,,,,,"",""
+ball,1,14.1,Warriors,C Jonker,SR Harmer,D Pretorius,1,0,,,,,,"",""
+ball,1,14.2,Warriors,SR Harmer,C Jonker,D Pretorius,4,0,,,,,,"",""
+ball,1,14.3,Warriors,SR Harmer,C Jonker,D Pretorius,1,0,,,,,,"",""
+ball,1,14.4,Warriors,C Jonker,SR Harmer,D Pretorius,0,0,,,,,,"",""
+ball,1,14.5,Warriors,C Jonker,SR Harmer,D Pretorius,1,0,,,,,,"",""
+ball,1,14.6,Warriors,SR Harmer,C Jonker,D Pretorius,1,0,,,,,,"",""
+ball,1,15.1,Warriors,SR Harmer,C Jonker,E Leie,1,0,,,,,,"",""
+ball,1,15.2,Warriors,C Jonker,SR Harmer,E Leie,1,0,,,,,,"",""
+ball,1,15.3,Warriors,SR Harmer,C Jonker,E Leie,6,0,,,,,,"",""
+ball,1,15.4,Warriors,SR Harmer,C Jonker,E Leie,1,0,,,,,,"",""
+ball,1,15.5,Warriors,C Jonker,SR Harmer,E Leie,2,0,,,,,,"",""
+ball,1,15.6,Warriors,C Jonker,SR Harmer,E Leie,6,0,,,,,,"",""
+ball,1,16.1,Warriors,SR Harmer,C Jonker,LL Tsotsobe,2,0,,,,,,"",""
+ball,1,16.2,Warriors,SR Harmer,C Jonker,LL Tsotsobe,1,0,,,,,,"",""
+ball,1,16.3,Warriors,C Jonker,SR Harmer,LL Tsotsobe,1,0,,,,,,"",""
+ball,1,16.4,Warriors,SR Harmer,C Jonker,LL Tsotsobe,1,0,,,,,,"",""
+ball,1,16.5,Warriors,C Jonker,SR Harmer,LL Tsotsobe,4,0,,,,,,"",""
+ball,1,16.6,Warriors,C Jonker,SR Harmer,LL Tsotsobe,1,0,,,,,,"",""
+ball,1,17.1,Warriors,C Jonker,SR Harmer,GC Viljoen,1,0,,,,,,"",""
+ball,1,17.2,Warriors,SR Harmer,C Jonker,GC Viljoen,4,0,,,,,,"",""
+ball,1,17.3,Warriors,SR Harmer,C Jonker,GC Viljoen,4,0,,,,,,"",""
+ball,1,17.4,Warriors,SR Harmer,C Jonker,GC Viljoen,0,0,,,,,,"",""
+ball,1,17.5,Warriors,SR Harmer,C Jonker,GC Viljoen,1,0,,,,,,"",""
+ball,1,17.6,Warriors,C Jonker,SR Harmer,GC Viljoen,2,0,,,,,,"",""
+ball,1,18.1,Warriors,SR Harmer,C Jonker,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,18.2,Warriors,SR Harmer,C Jonker,LL Tsotsobe,0,0,,,,,,"",""
+ball,1,18.3,Warriors,SR Harmer,C Jonker,LL Tsotsobe,1,0,,,,,,"",""
+ball,1,18.4,Warriors,C Jonker,SR Harmer,LL Tsotsobe,0,0,,,,,,caught,C Jonker
+ball,1,18.5,Warriors,J Theron,SR Harmer,LL Tsotsobe,0,0,,,,,,bowled,J Theron
+ball,1,18.6,Warriors,A Gqamane,SR Harmer,LL Tsotsobe,2,0,,,,,,"",""
+ball,1,19.1,Warriors,SR Harmer,A Gqamane,CH Morris,6,0,,,,,,"",""
+ball,1,19.2,Warriors,SR Harmer,A Gqamane,CH Morris,1,0,,,,,,"",""
+ball,1,19.3,Warriors,A Gqamane,SR Harmer,CH Morris,1,0,,,,,,"",""
+ball,1,19.4,Warriors,SR Harmer,A Gqamane,CH Morris,0,0,,,,,,"",""
+ball,1,19.5,Warriors,SR Harmer,A Gqamane,CH Morris,1,0,,,,,,"",""
+ball,1,19.6,Warriors,A Gqamane,SR Harmer,CH Morris,4,0,,,,,,"",""
+ball,2,0.1,Lions,HE van der Dussen,AN Petersen,BD Walters,0,0,,,,,,"",""
+ball,2,0.2,Lions,HE van der Dussen,AN Petersen,BD Walters,0,0,,,,,,"",""
+ball,2,0.3,Lions,HE van der Dussen,AN Petersen,BD Walters,1,0,,,,,,"",""
+ball,2,0.4,Lions,AN Petersen,HE van der Dussen,BD Walters,0,0,,,,,,"",""
+ball,2,0.5,Lions,AN Petersen,HE van der Dussen,BD Walters,2,0,,,,,,"",""
+ball,2,0.6,Lions,AN Petersen,HE van der Dussen,BD Walters,0,0,,,,,,"",""
+ball,2,1.1,Lions,HE van der Dussen,AN Petersen,J Theron,1,0,,,,,,"",""
+ball,2,1.2,Lions,AN Petersen,HE van der Dussen,J Theron,4,0,,,,,,"",""
+ball,2,1.3,Lions,AN Petersen,HE van der Dussen,J Theron,0,0,,,,,,"",""
+ball,2,1.4,Lions,AN Petersen,HE van der Dussen,J Theron,0,0,,,,,,"",""
+ball,2,1.5,Lions,AN Petersen,HE van der Dussen,J Theron,1,0,,,,,,"",""
+ball,2,1.6,Lions,HE van der Dussen,AN Petersen,J Theron,0,0,,,,,,"",""
+ball,2,2.1,Lions,AN Petersen,HE van der Dussen,BD Walters,0,0,,,,,,"",""
+ball,2,2.2,Lions,AN Petersen,HE van der Dussen,BD Walters,1,0,,,,,,"",""
+ball,2,2.3,Lions,HE van der Dussen,AN Petersen,BD Walters,0,0,,,,,,"",""
+ball,2,2.4,Lions,HE van der Dussen,AN Petersen,BD Walters,1,0,,,,,,"",""
+ball,2,2.5,Lions,AN Petersen,HE van der Dussen,BD Walters,0,0,,,,,,"",""
+ball,2,2.6,Lions,AN Petersen,HE van der Dussen,BD Walters,0,0,,,,,,"",""
+ball,2,3.1,Lions,HE van der Dussen,AN Petersen,J Theron,1,0,,,,,,"",""
+ball,2,3.2,Lions,AN Petersen,HE van der Dussen,J Theron,0,0,,,,,,"",""
+ball,2,3.3,Lions,AN Petersen,HE van der Dussen,J Theron,0,0,,,,,,"",""
+ball,2,3.4,Lions,AN Petersen,HE van der Dussen,J Theron,1,0,,,,,,"",""
+ball,2,3.5,Lions,HE van der Dussen,AN Petersen,J Theron,6,0,,,,,,"",""
+ball,2,3.6,Lions,HE van der Dussen,AN Petersen,J Theron,0,0,,,,,,"",""
+ball,2,4.1,Lions,AN Petersen,HE van der Dussen,BD Walters,0,0,,,,,,"",""
+ball,2,4.2,Lions,AN Petersen,HE van der Dussen,BD Walters,0,0,,,,,,"",""
+ball,2,4.3,Lions,AN Petersen,HE van der Dussen,BD Walters,1,0,,,,,,"",""
+ball,2,4.4,Lions,HE van der Dussen,AN Petersen,BD Walters,0,0,,,,,,caught,HE van der Dussen
+ball,2,4.5,Lions,AN Petersen,ND McKenzie,BD Walters,1,0,,,,,,"",""
+ball,2,4.6,Lions,ND McKenzie,AN Petersen,BD Walters,1,0,,,,,,"",""
+ball,2,5.1,Lions,ND McKenzie,AN Petersen,L Mbane,1,0,,,,,,"",""
+ball,2,5.2,Lions,AN Petersen,ND McKenzie,L Mbane,0,0,,,,,,"",""
+ball,2,5.3,Lions,AN Petersen,ND McKenzie,L Mbane,0,0,,,,,,"",""
+ball,2,5.4,Lions,AN Petersen,ND McKenzie,L Mbane,1,0,,,,,,"",""
+ball,2,5.5,Lions,ND McKenzie,AN Petersen,L Mbane,0,0,,,,,,"",""
+ball,2,5.6,Lions,ND McKenzie,AN Petersen,L Mbane,0,0,,,,,,"",""
+ball,2,6.1,Lions,AN Petersen,ND McKenzie,A Gqamane,0,0,,,,,,"",""
+ball,2,6.2,Lions,AN Petersen,ND McKenzie,A Gqamane,1,0,,,,,,"",""
+ball,2,6.3,Lions,ND McKenzie,AN Petersen,A Gqamane,1,0,,,,,,"",""
+ball,2,6.4,Lions,AN Petersen,ND McKenzie,A Gqamane,0,0,,,,,,"",""
+ball,2,6.5,Lions,AN Petersen,ND McKenzie,A Gqamane,0,0,,,,,,"",""
+ball,2,6.6,Lions,AN Petersen,ND McKenzie,A Gqamane,0,0,,,,,,"",""
+ball,2,7.1,Lions,ND McKenzie,AN Petersen,L Mbane,1,0,,,,,,"",""
+ball,2,7.2,Lions,AN Petersen,ND McKenzie,L Mbane,1,0,,,,,,"",""
+ball,2,7.3,Lions,ND McKenzie,AN Petersen,L Mbane,1,0,,,,,,"",""
+ball,2,7.4,Lions,AN Petersen,ND McKenzie,L Mbane,1,0,,,,,,"",""
+ball,2,7.5,Lions,ND McKenzie,AN Petersen,L Mbane,1,0,,,,,,"",""
+ball,2,7.6,Lions,AN Petersen,ND McKenzie,L Mbane,1,0,,,,,,"",""
+ball,2,8.1,Lions,AN Petersen,ND McKenzie,A Gqamane,0,1,1,,,,,"",""
+ball,2,8.2,Lions,AN Petersen,ND McKenzie,A Gqamane,6,0,,,,,,"",""
+ball,2,8.3,Lions,AN Petersen,ND McKenzie,A Gqamane,0,0,,,,,,"",""
+ball,2,8.4,Lions,AN Petersen,ND McKenzie,A Gqamane,1,0,,,,,,"",""
+ball,2,8.5,Lions,ND McKenzie,AN Petersen,A Gqamane,1,0,,,,,,"",""
+ball,2,8.6,Lions,AN Petersen,ND McKenzie,A Gqamane,1,0,,,,,,"",""
+ball,2,8.7,Lions,ND McKenzie,AN Petersen,A Gqamane,1,0,,,,,,"",""
+ball,2,9.1,Lions,ND McKenzie,AN Petersen,JT Smuts,0,0,,,,,,"",""
+ball,2,9.2,Lions,ND McKenzie,AN Petersen,JT Smuts,1,0,,,,,,"",""
+ball,2,9.3,Lions,AN Petersen,ND McKenzie,JT Smuts,1,0,,,,,,"",""
+ball,2,9.4,Lions,ND McKenzie,AN Petersen,JT Smuts,0,0,,,,,,"",""
+ball,2,9.5,Lions,ND McKenzie,AN Petersen,JT Smuts,1,0,,,,,,"",""
+ball,2,9.6,Lions,AN Petersen,ND McKenzie,JT Smuts,0,0,,,,,,"",""
+ball,2,10.1,Lions,ND McKenzie,AN Petersen,SR Harmer,0,1,1,,,,,"",""
+ball,2,10.2,Lions,ND McKenzie,AN Petersen,SR Harmer,0,1,1,,,,,"",""
+ball,2,10.3,Lions,ND McKenzie,AN Petersen,SR Harmer,1,0,,,,,,"",""
+ball,2,10.4,Lions,AN Petersen,ND McKenzie,SR Harmer,1,0,,,,,,"",""
+ball,2,10.5,Lions,ND McKenzie,AN Petersen,SR Harmer,1,0,,,,,,"",""
+ball,2,10.6,Lions,AN Petersen,ND McKenzie,SR Harmer,1,0,,,,,,"",""
+ball,2,10.7,Lions,ND McKenzie,AN Petersen,SR Harmer,1,0,,,,,,"",""
+ball,2,10.8,Lions,AN Petersen,ND McKenzie,SR Harmer,0,1,,,1,,,"",""
+ball,2,11.1,Lions,AN Petersen,ND McKenzie,JT Smuts,1,0,,,,,,"",""
+ball,2,11.2,Lions,ND McKenzie,AN Petersen,JT Smuts,2,0,,,,,,"",""
+ball,2,11.3,Lions,ND McKenzie,AN Petersen,JT Smuts,0,0,,,,,,"",""
+ball,2,11.4,Lions,ND McKenzie,AN Petersen,JT Smuts,0,0,,,,,,"",""
+ball,2,11.5,Lions,ND McKenzie,AN Petersen,JT Smuts,1,0,,,,,,"",""
+ball,2,11.6,Lions,AN Petersen,ND McKenzie,JT Smuts,1,0,,,,,,"",""
+ball,2,12.1,Lions,AN Petersen,ND McKenzie,SR Harmer,1,0,,,,,,"",""
+ball,2,12.2,Lions,ND McKenzie,AN Petersen,SR Harmer,1,0,,,,,,"",""
+ball,2,12.3,Lions,AN Petersen,ND McKenzie,SR Harmer,0,0,,,,,,bowled,AN Petersen
+ball,2,12.4,Lions,D Pretorius,ND McKenzie,SR Harmer,1,0,,,,,,"",""
+ball,2,12.5,Lions,ND McKenzie,D Pretorius,SR Harmer,1,0,,,,,,"",""
+ball,2,12.6,Lions,D Pretorius,ND McKenzie,SR Harmer,0,0,,,,,,"",""
+ball,2,13.1,Lions,ND McKenzie,D Pretorius,JT Smuts,4,0,,,,,,"",""
+ball,2,13.2,Lions,ND McKenzie,D Pretorius,JT Smuts,2,0,,,,,,"",""
+ball,2,13.3,Lions,ND McKenzie,D Pretorius,JT Smuts,1,0,,,,,,"",""
+ball,2,13.4,Lions,D Pretorius,ND McKenzie,JT Smuts,0,0,,,,,,"",""
+ball,2,13.5,Lions,D Pretorius,ND McKenzie,JT Smuts,0,0,,,,,,caught,D Pretorius
+ball,2,13.6,Lions,J Symes,ND McKenzie,JT Smuts,0,0,,,,,,caught,J Symes
+ball,2,14.1,Lions,ND McKenzie,T Bavuma,SR Harmer,2,0,,,,,,"",""
+ball,2,14.2,Lions,ND McKenzie,T Bavuma,SR Harmer,0,0,,,,,,"",""
+ball,2,14.3,Lions,ND McKenzie,T Bavuma,SR Harmer,1,0,,,,,,"",""
+ball,2,14.4,Lions,T Bavuma,ND McKenzie,SR Harmer,0,0,,,,,,"",""
+ball,2,14.5,Lions,T Bavuma,ND McKenzie,SR Harmer,0,0,,,,,,"",""
+ball,2,14.6,Lions,T Bavuma,ND McKenzie,SR Harmer,1,0,,,,,,"",""
+ball,2,15.1,Lions,T Bavuma,ND McKenzie,JT Smuts,1,0,,,,,,"",""
+ball,2,15.2,Lions,ND McKenzie,T Bavuma,JT Smuts,1,0,,,,,,"",""
+ball,2,15.3,Lions,T Bavuma,ND McKenzie,JT Smuts,4,0,,,,,,"",""
+ball,2,15.4,Lions,T Bavuma,ND McKenzie,JT Smuts,0,0,,,,,,"",""
+ball,2,15.5,Lions,T Bavuma,ND McKenzie,JT Smuts,1,0,,,,,,"",""
+ball,2,15.6,Lions,ND McKenzie,T Bavuma,JT Smuts,2,0,,,,,,"",""
+ball,2,16.1,Lions,T Bavuma,ND McKenzie,SR Harmer,6,0,,,,,,"",""
+ball,2,16.2,Lions,T Bavuma,ND McKenzie,SR Harmer,1,0,,,,,,"",""
+ball,2,16.3,Lions,ND McKenzie,T Bavuma,SR Harmer,1,0,,,,,,"",""
+ball,2,16.4,Lions,T Bavuma,ND McKenzie,SR Harmer,6,0,,,,,,"",""
+ball,2,16.5,Lions,T Bavuma,ND McKenzie,SR Harmer,2,0,,,,,,"",""
+ball,2,16.6,Lions,T Bavuma,ND McKenzie,SR Harmer,1,0,,,,,,"",""
+ball,2,17.1,Lions,T Bavuma,ND McKenzie,J Theron,2,0,,,,,,"",""
+ball,2,17.2,Lions,T Bavuma,ND McKenzie,J Theron,2,0,,,,,,"",""
+ball,2,17.3,Lions,T Bavuma,ND McKenzie,J Theron,0,1,1,,,,,"",""
+ball,2,17.4,Lions,T Bavuma,ND McKenzie,J Theron,0,0,,,,,,"",""
+ball,2,17.5,Lions,T Bavuma,ND McKenzie,J Theron,1,0,,,,,,"",""
+ball,2,17.6,Lions,ND McKenzie,T Bavuma,J Theron,1,0,,,,,,"",""
+ball,2,17.7,Lions,T Bavuma,ND McKenzie,J Theron,0,0,,,,,,"",""
+ball,2,18.1,Lions,ND McKenzie,T Bavuma,L Mbane,4,0,,,,,,"",""
+ball,2,18.2,Lions,ND McKenzie,T Bavuma,L Mbane,1,0,,,,,,"",""
+ball,2,18.3,Lions,T Bavuma,ND McKenzie,L Mbane,1,0,,,,,,"",""
+ball,2,18.4,Lions,ND McKenzie,T Bavuma,L Mbane,0,1,1,,,,,"",""
+ball,2,18.5,Lions,ND McKenzie,T Bavuma,L Mbane,4,0,,,,,,"",""
+ball,2,18.6,Lions,ND McKenzie,T Bavuma,L Mbane,2,0,,,,,,"",""
+ball,2,18.7,Lions,ND McKenzie,T Bavuma,L Mbane,2,0,,,,,,"",""
+ball,2,19.1,Lions,T Bavuma,ND McKenzie,J Theron,4,0,,,,,,"",""
+ball,2,19.2,Lions,T Bavuma,ND McKenzie,J Theron,0,0,,,,,,"",""
+ball,2,19.3,Lions,T Bavuma,ND McKenzie,J Theron,4,0,,,,,,"",""

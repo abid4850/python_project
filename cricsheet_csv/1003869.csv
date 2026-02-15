@@ -1,0 +1,134 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Cape Cobras
+info,team,Titans
+info,gender,male
+info,season,2016/17
+info,date,2016/11/25
+info,event,CSA T20 Challenge
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Titans
+info,toss_decision,field
+info,umpire,BP Jele
+info,umpire,DJ Smith
+info,reserve_umpire,RN Birkenstock
+info,match_referee,SB Lambson
+info,outcome,no result
+info,player,Cape Cobras,RE Levi
+info,player,Cape Cobras,WD Parnell
+info,player,Cape Cobras,KA Pollard
+info,player,Cape Cobras,RK Kleinveldt
+info,player,Cape Cobras,JL Ontong
+info,player,Cape Cobras,KD Petersen
+info,player,Cape Cobras,A Mgijima
+info,player,Cape Cobras,D Paterson
+info,player,Cape Cobras,C Tshiki
+info,player,Cape Cobras,BE Hendricks
+info,player,Cape Cobras,NM Serame
+info,player,Titans,AK Markram
+info,player,Titans,MQ Adams
+info,player,Titans,HG Kuhn
+info,player,Titans,F Behardien
+info,player,Titans,JA Morkel
+info,player,Titans,D Wiese
+info,player,Titans,H Klaasen
+info,player,Titans,CJ Dala
+info,player,Titans,MP Siboto
+info,player,Titans,L Ngidi
+info,player,Titans,DL Piedt
+info,registry,people,A Mgijima,955e8e86
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Tshiki,9ab2cc9b
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Paterson,462d7c62
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,F Behardien,dce2019b
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,JL Ontong,55f33b32
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,MQ Adams,59a7fc89
+info,registry,people,NM Serame,abd541e6
+info,registry,people,RE Levi,18c78b11
+info,registry,people,RK Kleinveldt,7955eb15
+info,registry,people,RN Birkenstock,27880adb
+info,registry,people,SB Lambson,4146063f
+info,registry,people,WD Parnell,3a60e0b5
+ball,1,0.1,Cape Cobras,RE Levi,WD Parnell,JA Morkel,0,0,,,,,,"",""
+ball,1,0.2,Cape Cobras,RE Levi,WD Parnell,JA Morkel,0,0,,,,,,"",""
+ball,1,0.3,Cape Cobras,RE Levi,WD Parnell,JA Morkel,4,0,,,,,,"",""
+ball,1,0.4,Cape Cobras,RE Levi,WD Parnell,JA Morkel,4,0,,,,,,"",""
+ball,1,0.5,Cape Cobras,RE Levi,WD Parnell,JA Morkel,0,0,,,,,,"",""
+ball,1,0.6,Cape Cobras,RE Levi,WD Parnell,JA Morkel,1,0,,,,,,"",""
+ball,1,1.1,Cape Cobras,RE Levi,WD Parnell,D Wiese,0,0,,,,,,"",""
+ball,1,1.2,Cape Cobras,RE Levi,WD Parnell,D Wiese,1,0,,,,,,"",""
+ball,1,1.3,Cape Cobras,WD Parnell,RE Levi,D Wiese,0,0,,,,,,"",""
+ball,1,1.4,Cape Cobras,WD Parnell,RE Levi,D Wiese,1,0,,,,,,"",""
+ball,1,1.5,Cape Cobras,RE Levi,WD Parnell,D Wiese,0,0,,,,,,"",""
+ball,1,1.6,Cape Cobras,RE Levi,WD Parnell,D Wiese,6,0,,,,,,"",""
+ball,1,2.1,Cape Cobras,WD Parnell,RE Levi,L Ngidi,1,0,,,,,,"",""
+ball,1,2.2,Cape Cobras,RE Levi,WD Parnell,L Ngidi,0,0,,,,,,"",""
+ball,1,2.3,Cape Cobras,RE Levi,WD Parnell,L Ngidi,4,0,,,,,,"",""
+ball,1,2.4,Cape Cobras,RE Levi,WD Parnell,L Ngidi,0,0,,,,,,"",""
+ball,1,2.5,Cape Cobras,RE Levi,WD Parnell,L Ngidi,6,0,,,,,,"",""
+ball,1,2.6,Cape Cobras,RE Levi,WD Parnell,L Ngidi,2,0,,,,,,"",""
+ball,1,3.1,Cape Cobras,WD Parnell,RE Levi,DL Piedt,1,0,,,,,,"",""
+ball,1,3.2,Cape Cobras,RE Levi,WD Parnell,DL Piedt,1,0,,,,,,"",""
+ball,1,3.3,Cape Cobras,WD Parnell,RE Levi,DL Piedt,0,0,,,,,,"",""
+ball,1,3.4,Cape Cobras,WD Parnell,RE Levi,DL Piedt,0,1,,,1,,,"",""
+ball,1,3.5,Cape Cobras,RE Levi,WD Parnell,DL Piedt,1,0,,,,,,"",""
+ball,1,3.6,Cape Cobras,WD Parnell,RE Levi,DL Piedt,6,0,,,,,,"",""
+ball,1,4.1,Cape Cobras,RE Levi,WD Parnell,CJ Dala,0,0,,,,,,"",""
+ball,1,4.2,Cape Cobras,RE Levi,WD Parnell,CJ Dala,0,0,,,,,,"",""
+ball,1,4.3,Cape Cobras,RE Levi,WD Parnell,CJ Dala,1,0,,,,,,"",""
+ball,1,4.4,Cape Cobras,WD Parnell,RE Levi,CJ Dala,0,0,,,,,,"",""
+ball,1,4.5,Cape Cobras,WD Parnell,RE Levi,CJ Dala,0,1,,,,1,,"",""
+ball,1,4.6,Cape Cobras,RE Levi,WD Parnell,CJ Dala,0,1,1,,,,,"",""
+ball,1,4.7,Cape Cobras,RE Levi,WD Parnell,CJ Dala,0,5,5,,,,,"",""
+ball,1,4.8,Cape Cobras,RE Levi,WD Parnell,CJ Dala,4,0,,,,,,"",""
+ball,1,5.1,Cape Cobras,WD Parnell,RE Levi,D Wiese,1,0,,,,,,"",""
+ball,1,5.2,Cape Cobras,RE Levi,WD Parnell,D Wiese,1,0,,,,,,"",""
+ball,1,5.3,Cape Cobras,WD Parnell,RE Levi,D Wiese,2,0,,,,,,"",""
+ball,1,5.4,Cape Cobras,WD Parnell,RE Levi,D Wiese,4,0,,,,,,"",""
+ball,1,5.5,Cape Cobras,WD Parnell,RE Levi,D Wiese,0,0,,,,,,caught,WD Parnell
+ball,1,5.6,Cape Cobras,RE Levi,KA Pollard,D Wiese,2,0,,,,,,"",""
+ball,1,6.1,Cape Cobras,KA Pollard,RE Levi,MP Siboto,1,0,,,,,,"",""
+ball,1,6.2,Cape Cobras,RE Levi,KA Pollard,MP Siboto,1,0,,,,,,"",""
+ball,1,6.3,Cape Cobras,KA Pollard,RE Levi,MP Siboto,1,0,,,,,,"",""
+ball,1,6.4,Cape Cobras,RE Levi,KA Pollard,MP Siboto,0,0,,,,,,"",""
+ball,1,6.5,Cape Cobras,RE Levi,KA Pollard,MP Siboto,6,0,,,,,,"",""
+ball,1,6.6,Cape Cobras,RE Levi,KA Pollard,MP Siboto,0,1,1,,,,,"",""
+ball,1,6.7,Cape Cobras,RE Levi,KA Pollard,MP Siboto,0,0,,,,,,caught,RE Levi
+ball,1,7.1,Cape Cobras,KA Pollard,RK Kleinveldt,L Ngidi,0,0,,,,,,caught,KA Pollard
+ball,1,7.2,Cape Cobras,RK Kleinveldt,JL Ontong,L Ngidi,0,0,,,,,,"",""
+ball,1,7.3,Cape Cobras,RK Kleinveldt,JL Ontong,L Ngidi,6,0,,,,,,"",""
+ball,1,7.4,Cape Cobras,RK Kleinveldt,JL Ontong,L Ngidi,0,0,,,,,,"",""
+ball,1,7.5,Cape Cobras,RK Kleinveldt,JL Ontong,L Ngidi,6,0,,,,,,"",""
+ball,1,7.6,Cape Cobras,RK Kleinveldt,JL Ontong,L Ngidi,6,0,,,,,,"",""
+ball,1,8.1,Cape Cobras,JL Ontong,RK Kleinveldt,MP Siboto,0,0,,,,,,"",""
+ball,1,8.2,Cape Cobras,JL Ontong,RK Kleinveldt,MP Siboto,1,0,,,,,,"",""
+ball,1,8.3,Cape Cobras,RK Kleinveldt,JL Ontong,MP Siboto,6,0,,,,,,"",""
+ball,1,8.4,Cape Cobras,RK Kleinveldt,JL Ontong,MP Siboto,4,0,,,,,,"",""
+ball,1,8.5,Cape Cobras,RK Kleinveldt,JL Ontong,MP Siboto,0,0,,,,,,lbw,RK Kleinveldt
+ball,1,8.6,Cape Cobras,KD Petersen,JL Ontong,MP Siboto,1,0,,,,,,"",""
+ball,1,9.1,Cape Cobras,KD Petersen,JL Ontong,CJ Dala,4,0,,,,,,"",""
+ball,1,9.2,Cape Cobras,KD Petersen,JL Ontong,CJ Dala,0,1,,,1,,,"",""
+ball,1,9.3,Cape Cobras,JL Ontong,KD Petersen,CJ Dala,1,0,,,,,,"",""
+ball,1,9.4,Cape Cobras,KD Petersen,JL Ontong,CJ Dala,4,0,,,,,,"",""
+ball,1,9.5,Cape Cobras,KD Petersen,JL Ontong,CJ Dala,1,0,,,,,,"",""
+ball,1,9.6,Cape Cobras,JL Ontong,KD Petersen,CJ Dala,2,0,,,,,,"",""
+ball,2,0.1,Titans,AK Markram,MQ Adams,D Paterson,4,0,,,,,,"",""
+ball,2,0.2,Titans,AK Markram,MQ Adams,D Paterson,1,0,,,,,,"",""
+ball,2,0.3,Titans,MQ Adams,AK Markram,D Paterson,0,1,,,,1,,"",""
+ball,2,0.4,Titans,AK Markram,MQ Adams,D Paterson,1,0,,,,,,"",""
+ball,2,0.5,Titans,MQ Adams,AK Markram,D Paterson,0,0,,,,,,"",""
+ball,2,0.6,Titans,MQ Adams,AK Markram,D Paterson,0,0,,,,,,"",""

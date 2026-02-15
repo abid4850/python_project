@@ -1,0 +1,113 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Otago
+info,gender,male
+info,season,2023/24
+info,date,2024/01/23
+info,event,Super Smash
+info,match_number,30
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,Otago
+info,toss_decision,field
+info,umpire,DJ Walker
+info,umpire,TJ Parlane
+info,reserve_umpire,JT Blunt
+info,tv_umpire,N Louw
+info,match_referee,SRM Morris
+info,outcome,no result
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,PD Bocock
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,F McGregor-Sumpter
+info,player,Northern Districts,TJG Pringle
+info,player,Northern Districts,FL Walker
+info,player,Northern Districts,ZN Gibson
+info,player,Northern Districts,MJ Fisher
+info,player,Otago,HD Rutherford
+info,player,Otago,LI Georgeson
+info,player,Otago,D Foxcroft
+info,player,Otago,MW Chu
+info,player,Otago,TK Parkes
+info,player,Otago,JM Gibson
+info,player,Otago,JT Todd
+info,player,Otago,BNJ Lockrose
+info,player,Otago,ATE Hazeldine
+info,player,Otago,T Muller
+info,player,Otago,JA Duffy
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,F McGregor-Sumpter,42462766
+info,registry,people,FL Walker,e6e154e3
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,JT Blunt,2fe9a247
+info,registry,people,JT Todd,d8417b91
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,LI Georgeson,6be7b49d
+info,registry,people,MJ Fisher,7068c81e
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,N Louw,465c4770
+info,registry,people,PD Bocock,329b08c2
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,TK Parkes,343407f3
+info,registry,people,ZN Gibson,eec5fe00
+ball,1,0.1,Northern Districts,KD Clarke,SC Kuggeleijn,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,0.2,Northern Districts,KD Clarke,SC Kuggeleijn,ATE Hazeldine,0,0,,,,,,caught,KD Clarke
+ball,1,0.3,Northern Districts,JA Raval,SC Kuggeleijn,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,0.4,Northern Districts,JA Raval,SC Kuggeleijn,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,0.5,Northern Districts,JA Raval,SC Kuggeleijn,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,0.6,Northern Districts,JA Raval,SC Kuggeleijn,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,1.1,Northern Districts,JA Raval,SC Kuggeleijn,JA Duffy,0,0,,,,,,"",""
+ball,1,1.2,Northern Districts,JA Raval,SC Kuggeleijn,JA Duffy,1,0,,,,,,"",""
+ball,1,1.3,Northern Districts,SC Kuggeleijn,JA Raval,JA Duffy,0,0,,,,,,"",""
+ball,1,1.4,Northern Districts,SC Kuggeleijn,JA Raval,JA Duffy,0,0,,,,,,"",""
+ball,1,1.5,Northern Districts,SC Kuggeleijn,JA Raval,JA Duffy,0,0,,,,,,"",""
+ball,1,1.6,Northern Districts,SC Kuggeleijn,JA Raval,JA Duffy,0,0,,,,,,caught,SC Kuggeleijn
+ball,1,2.1,Northern Districts,JA Raval,HR Cooper,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,2.2,Northern Districts,HR Cooper,JA Raval,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,2.3,Northern Districts,HR Cooper,JA Raval,ATE Hazeldine,0,0,,,,,,caught,HR Cooper
+ball,1,2.4,Northern Districts,PD Bocock,JA Raval,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,2.5,Northern Districts,PD Bocock,JA Raval,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,2.6,Northern Districts,JA Raval,PD Bocock,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,3.1,Northern Districts,PD Bocock,JA Raval,JA Duffy,0,0,,,,,,"",""
+ball,1,3.2,Northern Districts,PD Bocock,JA Raval,JA Duffy,1,0,,,,,,"",""
+ball,1,3.3,Northern Districts,JA Raval,PD Bocock,JA Duffy,0,0,,,,,,"",""
+ball,1,3.4,Northern Districts,JA Raval,PD Bocock,JA Duffy,1,0,,,,,,"",""
+ball,1,3.5,Northern Districts,PD Bocock,JA Raval,JA Duffy,1,0,,,,,,"",""
+ball,1,3.6,Northern Districts,JA Raval,PD Bocock,JA Duffy,2,0,,,,,,"",""
+ball,1,4.1,Northern Districts,PD Bocock,JA Raval,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,4.2,Northern Districts,PD Bocock,JA Raval,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,4.3,Northern Districts,JA Raval,PD Bocock,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,4.4,Northern Districts,JA Raval,PD Bocock,ATE Hazeldine,0,0,,,,,,bowled,JA Raval
+ball,1,4.5,Northern Districts,BR Hampton,PD Bocock,ATE Hazeldine,0,1,1,,,,,"",""
+ball,1,4.6,Northern Districts,BR Hampton,PD Bocock,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,4.7,Northern Districts,BR Hampton,PD Bocock,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,5.1,Northern Districts,PD Bocock,BR Hampton,BNJ Lockrose,2,0,,,,,,"",""
+ball,1,5.2,Northern Districts,PD Bocock,BR Hampton,BNJ Lockrose,0,0,,,,,,caught,PD Bocock
+ball,1,5.3,Northern Districts,F McGregor-Sumpter,BR Hampton,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,5.4,Northern Districts,F McGregor-Sumpter,BR Hampton,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,5.5,Northern Districts,F McGregor-Sumpter,BR Hampton,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,5.6,Northern Districts,F McGregor-Sumpter,BR Hampton,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,6.1,Northern Districts,F McGregor-Sumpter,BR Hampton,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,6.2,Northern Districts,F McGregor-Sumpter,BR Hampton,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,6.3,Northern Districts,F McGregor-Sumpter,BR Hampton,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,6.4,Northern Districts,BR Hampton,F McGregor-Sumpter,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,6.5,Northern Districts,BR Hampton,F McGregor-Sumpter,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,6.6,Northern Districts,F McGregor-Sumpter,BR Hampton,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,7.1,Northern Districts,F McGregor-Sumpter,BR Hampton,BNJ Lockrose,6,0,,,,,,"",""
+ball,1,7.2,Northern Districts,F McGregor-Sumpter,BR Hampton,BNJ Lockrose,1,0,,,,,,"",""

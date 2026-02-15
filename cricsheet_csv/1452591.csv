@@ -1,0 +1,182 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Otago
+info,gender,male
+info,season,2024/25
+info,date,2024/12/29
+info,event,Super Smash
+info,match_number,3
+info,venue,"Molyneux Park, Alexandra"
+info,city,Alexandra
+info,toss_winner,Otago
+info,toss_decision,field
+info,umpire,JT Blunt
+info,umpire,KS Jagannathan
+info,reserve_umpire,N Louw
+info,tv_umpire,JM Dempsey
+info,match_referee,SB O'Connor
+info,outcome,no result
+info,player,Auckland,MJ Guptill
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,M Sclanders
+info,player,Auckland,SM Solia
+info,player,Auckland,J McKenzie
+info,player,Auckland,CD Fletcher
+info,player,Auckland,S Dixit
+info,player,Auckland,SB Keene
+info,player,Auckland,A Ashok
+info,player,Auckland,DK Ferns
+info,player,Auckland,BG Lister
+info,player,Otago,DN Phillips
+info,player,Otago,JT Todd
+info,player,Otago,LC Johnson
+info,player,Otago,D Foxcroft
+info,player,Otago,LJ Carter
+info,player,Otago,MW Chu
+info,player,Otago,R Clinton
+info,player,Otago,BNJ Lockrose
+info,player,Otago,ATE Hazeldine
+info,player,Otago,MB Bacon
+info,player,Otago,M Clarke
+info,registry,people,A Ashok,321be7e3
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,J McKenzie,a1ad8978
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JT Blunt,2fe9a247
+info,registry,people,JT Todd,d8417b91
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,M Clarke,7ea2141b
+info,registry,people,M Sclanders,fd094249
+info,registry,people,MB Bacon,90701232
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,N Louw,465c4770
+info,registry,people,R Clinton,367e254b
+info,registry,people,S Dixit,85ec63b5
+info,registry,people,SB Keene,6fb2d3a2
+info,registry,people,SB O'Connor,4e80ab93
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,WT O'Donnell,730b57de
+ball,1,0.1,Auckland,MJ Guptill,WT O'Donnell,M Clarke,0,0,,,,,,"",""
+ball,1,0.2,Auckland,MJ Guptill,WT O'Donnell,M Clarke,1,0,,,,,,"",""
+ball,1,0.3,Auckland,WT O'Donnell,MJ Guptill,M Clarke,1,0,,,,,,"",""
+ball,1,0.4,Auckland,MJ Guptill,WT O'Donnell,M Clarke,2,0,,,,,,"",""
+ball,1,0.5,Auckland,MJ Guptill,WT O'Donnell,M Clarke,1,0,,,,,,"",""
+ball,1,0.6,Auckland,WT O'Donnell,MJ Guptill,M Clarke,0,0,,,,,,"",""
+ball,1,1.1,Auckland,MJ Guptill,WT O'Donnell,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,1.2,Auckland,WT O'Donnell,MJ Guptill,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,1.3,Auckland,WT O'Donnell,MJ Guptill,ATE Hazeldine,0,0,,,,,,caught,WT O'Donnell
+ball,1,1.4,Auckland,M Sclanders,MJ Guptill,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,1.5,Auckland,MJ Guptill,M Sclanders,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,1.6,Auckland,M Sclanders,MJ Guptill,ATE Hazeldine,0,0,,,,,,bowled,M Sclanders
+ball,1,2.1,Auckland,MJ Guptill,SM Solia,MB Bacon,0,0,,,,,,"",""
+ball,1,2.2,Auckland,MJ Guptill,SM Solia,MB Bacon,1,0,,,,,,"",""
+ball,1,2.3,Auckland,SM Solia,MJ Guptill,MB Bacon,0,0,,,,,,"",""
+ball,1,2.4,Auckland,SM Solia,MJ Guptill,MB Bacon,0,0,,,,,,"",""
+ball,1,2.5,Auckland,SM Solia,MJ Guptill,MB Bacon,0,0,,,,,,"",""
+ball,1,2.6,Auckland,SM Solia,MJ Guptill,MB Bacon,1,0,,,,,,"",""
+ball,1,3.1,Auckland,SM Solia,MJ Guptill,ATE Hazeldine,0,1,,,,1,,"",""
+ball,1,3.2,Auckland,MJ Guptill,SM Solia,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,3.3,Auckland,SM Solia,MJ Guptill,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,3.4,Auckland,SM Solia,MJ Guptill,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,3.5,Auckland,SM Solia,MJ Guptill,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,3.6,Auckland,SM Solia,MJ Guptill,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,4.1,Auckland,SM Solia,MJ Guptill,MB Bacon,1,0,,,,,,"",""
+ball,1,4.2,Auckland,MJ Guptill,SM Solia,MB Bacon,1,0,,,,,,"",""
+ball,1,4.3,Auckland,SM Solia,MJ Guptill,MB Bacon,3,0,,,,,,"",""
+ball,1,4.4,Auckland,MJ Guptill,SM Solia,MB Bacon,0,0,,,,,,"",""
+ball,1,4.5,Auckland,MJ Guptill,SM Solia,MB Bacon,1,0,,,,,,"",""
+ball,1,4.6,Auckland,SM Solia,MJ Guptill,MB Bacon,2,0,,,,,,"",""
+ball,1,5.1,Auckland,MJ Guptill,SM Solia,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,5.2,Auckland,MJ Guptill,SM Solia,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,5.3,Auckland,SM Solia,MJ Guptill,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,5.4,Auckland,MJ Guptill,SM Solia,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,5.5,Auckland,SM Solia,MJ Guptill,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,5.6,Auckland,MJ Guptill,SM Solia,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,6.1,Auckland,MJ Guptill,SM Solia,M Clarke,1,0,,,,,,"",""
+ball,1,6.2,Auckland,SM Solia,MJ Guptill,M Clarke,1,0,,,,,,"",""
+ball,1,6.3,Auckland,MJ Guptill,SM Solia,M Clarke,1,0,,,,,,"",""
+ball,1,6.4,Auckland,SM Solia,MJ Guptill,M Clarke,4,0,,,,,,"",""
+ball,1,6.5,Auckland,SM Solia,MJ Guptill,M Clarke,0,0,,,,,,"",""
+ball,1,6.6,Auckland,SM Solia,MJ Guptill,M Clarke,1,0,,,,,,"",""
+ball,1,7.1,Auckland,SM Solia,MJ Guptill,D Foxcroft,0,0,,,,,,"",""
+ball,1,7.2,Auckland,SM Solia,MJ Guptill,D Foxcroft,0,0,,,,,,caught,SM Solia
+ball,1,7.3,Auckland,J McKenzie,MJ Guptill,D Foxcroft,0,0,,,,,,"",""
+ball,1,7.4,Auckland,J McKenzie,MJ Guptill,D Foxcroft,1,0,,,,,,"",""
+ball,1,7.5,Auckland,MJ Guptill,J McKenzie,D Foxcroft,1,0,,,,,,"",""
+ball,1,7.6,Auckland,J McKenzie,MJ Guptill,D Foxcroft,1,0,,,,,,"",""
+ball,1,8.1,Auckland,J McKenzie,MJ Guptill,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,8.2,Auckland,MJ Guptill,J McKenzie,BNJ Lockrose,6,0,,,,,,"",""
+ball,1,8.3,Auckland,MJ Guptill,J McKenzie,BNJ Lockrose,4,0,,,,,,"",""
+ball,1,8.4,Auckland,MJ Guptill,J McKenzie,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,8.5,Auckland,J McKenzie,MJ Guptill,BNJ Lockrose,4,0,,,,,,"",""
+ball,1,8.6,Auckland,J McKenzie,MJ Guptill,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,9.1,Auckland,J McKenzie,MJ Guptill,R Clinton,1,0,,,,,,"",""
+ball,1,9.2,Auckland,MJ Guptill,J McKenzie,R Clinton,0,0,,,,,,caught,MJ Guptill
+ball,1,9.3,Auckland,CD Fletcher,J McKenzie,R Clinton,4,0,,,,,,"",""
+ball,1,9.4,Auckland,CD Fletcher,J McKenzie,R Clinton,0,1,1,,,,,"",""
+ball,1,9.5,Auckland,CD Fletcher,J McKenzie,R Clinton,1,0,,,,,,"",""
+ball,1,9.6,Auckland,J McKenzie,CD Fletcher,R Clinton,1,0,,,,,,"",""
+ball,1,9.7,Auckland,CD Fletcher,J McKenzie,R Clinton,1,0,,,,,,"",""
+ball,1,10.1,Auckland,CD Fletcher,J McKenzie,D Foxcroft,0,0,,,,,,caught,CD Fletcher
+ball,1,10.2,Auckland,S Dixit,J McKenzie,D Foxcroft,1,0,,,,,,"",""
+ball,1,10.3,Auckland,J McKenzie,S Dixit,D Foxcroft,1,0,,,,,,"",""
+ball,1,10.4,Auckland,S Dixit,J McKenzie,D Foxcroft,0,0,,,,,,"",""
+ball,1,10.5,Auckland,S Dixit,J McKenzie,D Foxcroft,1,0,,,,,,"",""
+ball,1,10.6,Auckland,J McKenzie,S Dixit,D Foxcroft,1,0,,,,,,"",""
+ball,1,11.1,Auckland,J McKenzie,S Dixit,BNJ Lockrose,2,0,,,,,,"",""
+ball,1,11.2,Auckland,J McKenzie,S Dixit,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,11.3,Auckland,S Dixit,J McKenzie,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,11.4,Auckland,J McKenzie,S Dixit,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,11.5,Auckland,S Dixit,J McKenzie,BNJ Lockrose,4,0,,,,,,"",""
+ball,1,11.6,Auckland,S Dixit,J McKenzie,BNJ Lockrose,0,0,,,,,,lbw,S Dixit
+ball,1,12.1,Auckland,J McKenzie,SB Keene,M Clarke,0,0,,,,,,"",""
+ball,1,12.2,Auckland,J McKenzie,SB Keene,M Clarke,0,1,1,,,,,"",""
+ball,1,12.3,Auckland,J McKenzie,SB Keene,M Clarke,0,0,,,,,,caught,J McKenzie
+ball,1,12.4,Auckland,A Ashok,SB Keene,M Clarke,1,0,,,,,,"",""
+ball,1,12.5,Auckland,SB Keene,A Ashok,M Clarke,1,0,,,,,,"",""
+ball,1,12.6,Auckland,A Ashok,SB Keene,M Clarke,0,0,,,,,,"",""
+ball,1,12.7,Auckland,A Ashok,SB Keene,M Clarke,1,0,,,,,,"",""
+ball,1,13.1,Auckland,A Ashok,SB Keene,D Foxcroft,1,0,,,,,,"",""
+ball,1,13.2,Auckland,SB Keene,A Ashok,D Foxcroft,1,0,,,,,,"",""
+ball,1,13.3,Auckland,A Ashok,SB Keene,D Foxcroft,3,0,,,,,,"",""
+ball,1,13.4,Auckland,SB Keene,A Ashok,D Foxcroft,0,0,,,,,,stumped,SB Keene
+ball,1,13.5,Auckland,DK Ferns,A Ashok,D Foxcroft,1,0,,,,,,"",""
+ball,1,13.6,Auckland,A Ashok,DK Ferns,D Foxcroft,0,0,,,,,,"",""
+ball,1,14.1,Auckland,DK Ferns,A Ashok,MB Bacon,1,0,,,,,,"",""
+ball,1,14.2,Auckland,A Ashok,DK Ferns,MB Bacon,0,0,,,,,,"",""
+ball,1,14.3,Auckland,A Ashok,DK Ferns,MB Bacon,1,0,,,,,,"",""
+ball,1,14.4,Auckland,DK Ferns,A Ashok,MB Bacon,4,0,,,,,,"",""
+ball,1,14.5,Auckland,DK Ferns,A Ashok,MB Bacon,1,0,,,,,,"",""
+ball,1,14.6,Auckland,A Ashok,DK Ferns,MB Bacon,0,0,,,,,,"",""
+ball,1,15.1,Auckland,DK Ferns,A Ashok,D Foxcroft,1,0,,,,,,"",""
+ball,1,15.2,Auckland,A Ashok,DK Ferns,D Foxcroft,0,0,,,,,,caught,A Ashok
+ball,1,15.3,Auckland,BG Lister,DK Ferns,D Foxcroft,1,0,,,,,,"",""
+ball,1,15.4,Auckland,DK Ferns,BG Lister,D Foxcroft,1,0,,,,,,"",""
+ball,1,15.5,Auckland,BG Lister,DK Ferns,D Foxcroft,1,0,,,,,,"",""
+ball,1,15.6,Auckland,DK Ferns,BG Lister,D Foxcroft,1,0,,,,,,"",""
+ball,1,16.1,Auckland,DK Ferns,BG Lister,MB Bacon,0,0,,,,,,bowled,DK Ferns
+ball,2,0.1,Otago,DN Phillips,JT Todd,BG Lister,4,0,,,,,,"",""
+ball,2,0.2,Otago,DN Phillips,JT Todd,BG Lister,0,0,,,,,,"",""
+ball,2,0.3,Otago,DN Phillips,JT Todd,BG Lister,4,0,,,,,,"",""
+ball,2,0.4,Otago,DN Phillips,JT Todd,BG Lister,0,1,1,,,,,"",""
+ball,2,0.5,Otago,DN Phillips,JT Todd,BG Lister,0,1,,1,,,,"",""
+ball,2,0.6,Otago,DN Phillips,JT Todd,BG Lister,4,0,,,,,,"",""
+ball,2,0.7,Otago,DN Phillips,JT Todd,BG Lister,0,1,1,,,,,"",""
+ball,2,0.8,Otago,DN Phillips,JT Todd,BG Lister,0,0,,,,,,"",""
+ball,2,0.9,Otago,DN Phillips,JT Todd,BG Lister,0,0,,,,,,"",""
+ball,2,1.1,Otago,JT Todd,DN Phillips,SB Keene,4,0,,,,,,"",""
+ball,2,1.2,Otago,JT Todd,DN Phillips,SB Keene,1,0,,,,,,"",""
+ball,2,1.3,Otago,DN Phillips,JT Todd,SB Keene,4,0,,,,,,"",""
+ball,2,1.4,Otago,DN Phillips,JT Todd,SB Keene,0,0,,,,,,"",""
+ball,2,1.5,Otago,DN Phillips,JT Todd,SB Keene,1,0,,,,,,"",""
+ball,2,1.6,Otago,JT Todd,DN Phillips,SB Keene,0,1,,1,,,,"",""

@@ -1,0 +1,295 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mumbai
+info,team,Karnataka
+info,gender,male
+info,season,2017/18
+info,date,2018/01/25
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Eden Gardens
+info,city,
+info,toss_winner,Mumbai
+info,toss_decision,bat
+info,winner,Karnataka
+info,winner_wickets,7
+info,player,Mumbai,AA Herwadkar
+info,player,Mumbai,Jay Bista
+info,player,Mumbai,SD Lad
+info,player,Mumbai,AP Tare
+info,player,Mumbai,SA Yadav
+info,player,Mumbai,Shashank Singh
+info,player,Mumbai,S Dube
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,Sagar Trivedi
+info,player,Mumbai,Royston Dias
+info,player,Mumbai,Dhrumil Matkar
+info,player,Karnataka,J Suchith
+info,player,Karnataka,M Prasidh Krishna
+info,player,Karnataka,A Mithun
+info,player,Karnataka,STR Binny
+info,player,Karnataka,Pavan Deshpande
+info,player,Karnataka,S Gopal
+info,player,Karnataka,Ravikumar Samarth
+info,player,Karnataka,MA Agarwal
+info,player,Karnataka,KK Nair
+info,player,Karnataka,Aniruddha Joshi
+info,player,Karnataka,BR Sharath
+info,registry,people,A Mithun,66cf56a5
+info,registry,people,AA Herwadkar,4ed49d3d
+info,registry,people,AP Tare,855a210c
+info,registry,people,Aniruddha Joshi,40c1eeeb
+info,registry,people,BR Sharath,c2dd89ea
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,Dhrumil Matkar,dd506910
+info,registry,people,J Suchith,4125d931
+info,registry,people,Jay Bista,f079e8fe
+info,registry,people,KK Nair,944533a5
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Pavan Deshpande,436b8481
+info,registry,people,Ravikumar Samarth,f2dbbff5
+info,registry,people,Royston Dias,baaae738
+info,registry,people,S Dube,a4e37e47
+info,registry,people,S Gopal,7a8bd078
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SD Lad,9601c534
+info,registry,people,STR Binny,bd17b45f
+info,registry,people,Sagar Trivedi,8da6dbf1
+info,registry,people,Shashank Singh,26989d80
+ball,1,0.1,Mumbai,AA Herwadkar,Jay Bista,J Suchith,2,0,,,,,,"",""
+ball,1,0.2,Mumbai,AA Herwadkar,Jay Bista,J Suchith,1,0,,,,,,"",""
+ball,1,0.3,Mumbai,Jay Bista,AA Herwadkar,J Suchith,1,0,,,,,,"",""
+ball,1,0.4,Mumbai,AA Herwadkar,Jay Bista,J Suchith,4,0,,,,,,"",""
+ball,1,0.5,Mumbai,AA Herwadkar,Jay Bista,J Suchith,0,1,,,,1,,"",""
+ball,1,0.6,Mumbai,Jay Bista,AA Herwadkar,J Suchith,0,0,,,,,,"",""
+ball,1,1.1,Mumbai,AA Herwadkar,Jay Bista,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,1.2,Mumbai,AA Herwadkar,Jay Bista,M Prasidh Krishna,0,1,,,,1,,"",""
+ball,1,1.3,Mumbai,Jay Bista,AA Herwadkar,M Prasidh Krishna,2,0,,,,,,"",""
+ball,1,1.4,Mumbai,Jay Bista,AA Herwadkar,M Prasidh Krishna,0,1,1,,,,,"",""
+ball,1,1.5,Mumbai,Jay Bista,AA Herwadkar,M Prasidh Krishna,0,0,,,,,,caught,Jay Bista
+ball,1,1.6,Mumbai,SD Lad,AA Herwadkar,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,1.7,Mumbai,SD Lad,AA Herwadkar,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,2.1,Mumbai,AA Herwadkar,SD Lad,A Mithun,0,0,,,,,,"",""
+ball,1,2.2,Mumbai,AA Herwadkar,SD Lad,A Mithun,0,0,,,,,,"",""
+ball,1,2.3,Mumbai,AA Herwadkar,SD Lad,A Mithun,0,1,1,,,,,"",""
+ball,1,2.4,Mumbai,AA Herwadkar,SD Lad,A Mithun,0,0,,,,,,"",""
+ball,1,2.5,Mumbai,AA Herwadkar,SD Lad,A Mithun,4,0,,,,,,"",""
+ball,1,2.6,Mumbai,AA Herwadkar,SD Lad,A Mithun,0,0,,,,,,"",""
+ball,1,2.7,Mumbai,AA Herwadkar,SD Lad,A Mithun,0,0,,,,,,"",""
+ball,1,3.1,Mumbai,SD Lad,AA Herwadkar,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,3.2,Mumbai,SD Lad,AA Herwadkar,M Prasidh Krishna,0,1,,,,1,,"",""
+ball,1,3.3,Mumbai,AA Herwadkar,SD Lad,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,3.4,Mumbai,AA Herwadkar,SD Lad,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,3.5,Mumbai,SD Lad,AA Herwadkar,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,3.6,Mumbai,AA Herwadkar,SD Lad,M Prasidh Krishna,4,0,,,,,,"",""
+ball,1,4.1,Mumbai,SD Lad,AA Herwadkar,A Mithun,4,0,,,,,,"",""
+ball,1,4.2,Mumbai,SD Lad,AA Herwadkar,A Mithun,6,0,,,,,,"",""
+ball,1,4.3,Mumbai,SD Lad,AA Herwadkar,A Mithun,1,0,,,,,,"",""
+ball,1,4.4,Mumbai,AA Herwadkar,SD Lad,A Mithun,1,0,,,,,,"",""
+ball,1,4.5,Mumbai,SD Lad,AA Herwadkar,A Mithun,0,0,,,,,,"",""
+ball,1,4.6,Mumbai,SD Lad,AA Herwadkar,A Mithun,0,0,,,,,,"",""
+ball,1,5.1,Mumbai,AA Herwadkar,SD Lad,STR Binny,4,0,,,,,,"",""
+ball,1,5.2,Mumbai,AA Herwadkar,SD Lad,STR Binny,2,0,,,,,,"",""
+ball,1,5.3,Mumbai,AA Herwadkar,SD Lad,STR Binny,1,0,,,,,,"",""
+ball,1,5.4,Mumbai,SD Lad,AA Herwadkar,STR Binny,0,0,,,,,,"",""
+ball,1,5.5,Mumbai,SD Lad,AA Herwadkar,STR Binny,4,0,,,,,,"",""
+ball,1,5.6,Mumbai,SD Lad,AA Herwadkar,STR Binny,0,0,,,,,,"",""
+ball,1,6.1,Mumbai,AA Herwadkar,SD Lad,Pavan Deshpande,2,0,,,,,,"",""
+ball,1,6.2,Mumbai,AA Herwadkar,SD Lad,Pavan Deshpande,1,0,,,,,,"",""
+ball,1,6.3,Mumbai,SD Lad,AA Herwadkar,Pavan Deshpande,0,0,,,,,,"",""
+ball,1,6.4,Mumbai,SD Lad,AA Herwadkar,Pavan Deshpande,0,0,,,,,,"",""
+ball,1,6.5,Mumbai,SD Lad,AA Herwadkar,Pavan Deshpande,0,0,,,,,,"",""
+ball,1,6.6,Mumbai,SD Lad,AA Herwadkar,Pavan Deshpande,1,0,,,,,,"",""
+ball,1,7.1,Mumbai,SD Lad,AA Herwadkar,STR Binny,0,0,,,,,,"",""
+ball,1,7.2,Mumbai,SD Lad,AA Herwadkar,STR Binny,1,0,,,,,,"",""
+ball,1,7.3,Mumbai,AA Herwadkar,SD Lad,STR Binny,0,0,,,,,,caught,AA Herwadkar
+ball,1,7.4,Mumbai,AP Tare,SD Lad,STR Binny,1,0,,,,,,"",""
+ball,1,7.5,Mumbai,SD Lad,AP Tare,STR Binny,0,0,,,,,,"",""
+ball,1,7.6,Mumbai,SD Lad,AP Tare,STR Binny,0,0,,,,,,"",""
+ball,1,8.1,Mumbai,AP Tare,SD Lad,J Suchith,0,0,,,,,,"",""
+ball,1,8.2,Mumbai,AP Tare,SD Lad,J Suchith,1,0,,,,,,"",""
+ball,1,8.3,Mumbai,SD Lad,AP Tare,J Suchith,0,0,,,,,,"",""
+ball,1,8.4,Mumbai,SD Lad,AP Tare,J Suchith,0,0,,,,,,"",""
+ball,1,8.5,Mumbai,SD Lad,AP Tare,J Suchith,1,0,,,,,,"",""
+ball,1,8.6,Mumbai,AP Tare,SD Lad,J Suchith,1,0,,,,,,"",""
+ball,1,9.1,Mumbai,AP Tare,SD Lad,S Gopal,1,0,,,,,,"",""
+ball,1,9.2,Mumbai,SD Lad,AP Tare,S Gopal,2,0,,,,,,"",""
+ball,1,9.3,Mumbai,SD Lad,AP Tare,S Gopal,6,0,,,,,,"",""
+ball,1,9.4,Mumbai,SD Lad,AP Tare,S Gopal,1,0,,,,,,"",""
+ball,1,9.5,Mumbai,AP Tare,SD Lad,S Gopal,0,0,,,,,,"",""
+ball,1,9.6,Mumbai,AP Tare,SD Lad,S Gopal,0,0,,,,,,stumped,AP Tare
+ball,1,10.1,Mumbai,SD Lad,SA Yadav,J Suchith,1,0,,,,,,"",""
+ball,1,10.2,Mumbai,SA Yadav,SD Lad,J Suchith,1,0,,,,,,"",""
+ball,1,10.3,Mumbai,SD Lad,SA Yadav,J Suchith,4,0,,,,,,"",""
+ball,1,10.4,Mumbai,SD Lad,SA Yadav,J Suchith,0,5,5,,,,,"",""
+ball,1,10.5,Mumbai,SD Lad,SA Yadav,J Suchith,4,0,,,,,,"",""
+ball,1,10.6,Mumbai,SD Lad,SA Yadav,J Suchith,1,0,,,,,,"",""
+ball,1,10.7,Mumbai,SA Yadav,SD Lad,J Suchith,4,0,,,,,,"",""
+ball,1,11.1,Mumbai,SD Lad,SA Yadav,S Gopal,4,0,,,,,,"",""
+ball,1,11.2,Mumbai,SD Lad,SA Yadav,S Gopal,6,0,,,,,,"",""
+ball,1,11.3,Mumbai,SD Lad,SA Yadav,S Gopal,0,0,,,,,,caught,SD Lad
+ball,1,11.4,Mumbai,Shashank Singh,SA Yadav,S Gopal,2,0,,,,,,"",""
+ball,1,11.5,Mumbai,Shashank Singh,SA Yadav,S Gopal,0,0,,,,,,"",""
+ball,1,11.6,Mumbai,Shashank Singh,SA Yadav,S Gopal,0,0,,,,,,"",""
+ball,1,12.1,Mumbai,SA Yadav,Shashank Singh,J Suchith,1,0,,,,,,"",""
+ball,1,12.2,Mumbai,Shashank Singh,SA Yadav,J Suchith,0,0,,,,,,"",""
+ball,1,12.3,Mumbai,Shashank Singh,SA Yadav,J Suchith,1,0,,,,,,"",""
+ball,1,12.4,Mumbai,SA Yadav,Shashank Singh,J Suchith,0,0,,,,,,"",""
+ball,1,12.5,Mumbai,SA Yadav,Shashank Singh,J Suchith,1,0,,,,,,"",""
+ball,1,12.6,Mumbai,Shashank Singh,SA Yadav,J Suchith,1,0,,,,,,"",""
+ball,1,13.1,Mumbai,Shashank Singh,SA Yadav,STR Binny,0,0,,,,,,lbw,Shashank Singh
+ball,1,13.2,Mumbai,S Dube,SA Yadav,STR Binny,0,0,,,,,,"",""
+ball,1,13.3,Mumbai,S Dube,SA Yadav,STR Binny,0,0,,,,,,"",""
+ball,1,13.4,Mumbai,S Dube,SA Yadav,STR Binny,1,0,,,,,,"",""
+ball,1,13.5,Mumbai,SA Yadav,S Dube,STR Binny,2,0,,,,,,"",""
+ball,1,13.6,Mumbai,SA Yadav,S Dube,STR Binny,6,0,,,,,,"",""
+ball,1,14.1,Mumbai,S Dube,SA Yadav,A Mithun,0,0,,,,,,"",""
+ball,1,14.2,Mumbai,S Dube,SA Yadav,A Mithun,0,0,,,,,,caught,S Dube
+ball,1,14.3,Mumbai,DS Kulkarni,SA Yadav,A Mithun,0,0,,,,,,"",""
+ball,1,14.4,Mumbai,DS Kulkarni,SA Yadav,A Mithun,0,0,,,,,,"",""
+ball,1,14.5,Mumbai,DS Kulkarni,SA Yadav,A Mithun,1,0,,,,,,"",""
+ball,1,14.6,Mumbai,SA Yadav,DS Kulkarni,A Mithun,1,0,,,,,,"",""
+ball,1,15.1,Mumbai,SA Yadav,DS Kulkarni,Pavan Deshpande,0,0,,,,,,"",""
+ball,1,15.2,Mumbai,SA Yadav,DS Kulkarni,Pavan Deshpande,4,0,,,,,,"",""
+ball,1,15.3,Mumbai,SA Yadav,DS Kulkarni,Pavan Deshpande,2,0,,,,,,"",""
+ball,1,15.4,Mumbai,SA Yadav,DS Kulkarni,Pavan Deshpande,1,0,,,,,,"",""
+ball,1,15.5,Mumbai,DS Kulkarni,SA Yadav,Pavan Deshpande,0,0,,,,,,"",""
+ball,1,15.6,Mumbai,DS Kulkarni,SA Yadav,Pavan Deshpande,0,0,,,,,,"",""
+ball,1,16.1,Mumbai,SA Yadav,DS Kulkarni,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,16.2,Mumbai,DS Kulkarni,SA Yadav,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,16.3,Mumbai,DS Kulkarni,SA Yadav,M Prasidh Krishna,0,1,1,,,,,"",""
+ball,1,16.4,Mumbai,DS Kulkarni,SA Yadav,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,16.5,Mumbai,DS Kulkarni,SA Yadav,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,16.6,Mumbai,SA Yadav,DS Kulkarni,M Prasidh Krishna,2,0,,,,,,"",""
+ball,1,16.7,Mumbai,SA Yadav,DS Kulkarni,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,17.1,Mumbai,DS Kulkarni,SA Yadav,STR Binny,1,0,,,,,,"",""
+ball,1,17.2,Mumbai,SA Yadav,DS Kulkarni,STR Binny,6,0,,,,,,"",""
+ball,1,17.3,Mumbai,SA Yadav,DS Kulkarni,STR Binny,1,0,,,,,,"",""
+ball,1,17.4,Mumbai,DS Kulkarni,SA Yadav,STR Binny,6,0,,,,,,"",""
+ball,1,17.5,Mumbai,DS Kulkarni,SA Yadav,STR Binny,0,0,,,,,,"",""
+ball,1,17.6,Mumbai,DS Kulkarni,SA Yadav,STR Binny,0,0,,,,,,caught,DS Kulkarni
+ball,1,18.1,Mumbai,SA Yadav,Sagar Trivedi,A Mithun,4,0,,,,,,"",""
+ball,1,18.2,Mumbai,SA Yadav,Sagar Trivedi,A Mithun,6,0,,,,,,"",""
+ball,1,18.3,Mumbai,SA Yadav,Sagar Trivedi,A Mithun,6,0,,,,,,"",""
+ball,1,18.4,Mumbai,SA Yadav,Sagar Trivedi,A Mithun,6,0,,,,,,"",""
+ball,1,18.5,Mumbai,SA Yadav,Sagar Trivedi,A Mithun,0,0,,,,,,"",""
+ball,1,18.6,Mumbai,SA Yadav,Sagar Trivedi,A Mithun,1,0,,,,,,"",""
+ball,1,19.1,Mumbai,SA Yadav,Sagar Trivedi,M Prasidh Krishna,2,0,,,,,,"",""
+ball,1,19.2,Mumbai,SA Yadav,Sagar Trivedi,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,19.3,Mumbai,SA Yadav,Sagar Trivedi,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,19.4,Mumbai,SA Yadav,Sagar Trivedi,M Prasidh Krishna,0,0,,,,,,"",""
+ball,1,19.5,Mumbai,SA Yadav,Sagar Trivedi,M Prasidh Krishna,1,0,,,,,,"",""
+ball,1,19.6,Mumbai,Sagar Trivedi,SA Yadav,M Prasidh Krishna,0,0,,,,,,run out,Sagar Trivedi
+ball,2,0.1,Karnataka,Ravikumar Samarth,MA Agarwal,DS Kulkarni,0,1,1,,,,,"",""
+ball,2,0.2,Karnataka,Ravikumar Samarth,MA Agarwal,DS Kulkarni,4,0,,,,,,"",""
+ball,2,0.3,Karnataka,Ravikumar Samarth,MA Agarwal,DS Kulkarni,0,0,,,,,,"",""
+ball,2,0.4,Karnataka,Ravikumar Samarth,MA Agarwal,DS Kulkarni,0,0,,,,,,caught,Ravikumar Samarth
+ball,2,0.5,Karnataka,KK Nair,MA Agarwal,DS Kulkarni,0,0,,,,,,"",""
+ball,2,0.6,Karnataka,KK Nair,MA Agarwal,DS Kulkarni,1,0,,,,,,"",""
+ball,2,0.7,Karnataka,MA Agarwal,KK Nair,DS Kulkarni,1,0,,,,,,"",""
+ball,2,1.1,Karnataka,MA Agarwal,KK Nair,Royston Dias,0,0,,,,,,"",""
+ball,2,1.2,Karnataka,MA Agarwal,KK Nair,Royston Dias,0,0,,,,,,"",""
+ball,2,1.3,Karnataka,MA Agarwal,KK Nair,Royston Dias,4,0,,,,,,"",""
+ball,2,1.4,Karnataka,MA Agarwal,KK Nair,Royston Dias,0,0,,,,,,"",""
+ball,2,1.5,Karnataka,MA Agarwal,KK Nair,Royston Dias,0,0,,,,,,"",""
+ball,2,1.6,Karnataka,MA Agarwal,KK Nair,Royston Dias,4,0,,,,,,"",""
+ball,2,2.1,Karnataka,KK Nair,MA Agarwal,DS Kulkarni,6,0,,,,,,"",""
+ball,2,2.2,Karnataka,KK Nair,MA Agarwal,DS Kulkarni,0,0,,,,,,"",""
+ball,2,2.3,Karnataka,KK Nair,MA Agarwal,DS Kulkarni,4,0,,,,,,"",""
+ball,2,2.4,Karnataka,KK Nair,MA Agarwal,DS Kulkarni,6,0,,,,,,"",""
+ball,2,2.5,Karnataka,KK Nair,MA Agarwal,DS Kulkarni,0,0,,,,,,"",""
+ball,2,2.6,Karnataka,KK Nair,MA Agarwal,DS Kulkarni,0,0,,,,,,"",""
+ball,2,3.1,Karnataka,MA Agarwal,KK Nair,Royston Dias,4,0,,,,,,"",""
+ball,2,3.2,Karnataka,MA Agarwal,KK Nair,Royston Dias,6,0,,,,,,"",""
+ball,2,3.3,Karnataka,MA Agarwal,KK Nair,Royston Dias,4,0,,,,,,"",""
+ball,2,3.4,Karnataka,MA Agarwal,KK Nair,Royston Dias,1,0,,,,,,"",""
+ball,2,3.5,Karnataka,KK Nair,MA Agarwal,Royston Dias,0,0,,,,,,"",""
+ball,2,3.6,Karnataka,KK Nair,MA Agarwal,Royston Dias,0,0,,,,,,"",""
+ball,2,4.1,Karnataka,MA Agarwal,KK Nair,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,4.2,Karnataka,KK Nair,MA Agarwal,Sagar Trivedi,0,2,,,,2,,"",""
+ball,2,4.3,Karnataka,KK Nair,MA Agarwal,Sagar Trivedi,0,0,,,,,,"",""
+ball,2,4.4,Karnataka,KK Nair,MA Agarwal,Sagar Trivedi,6,0,,,,,,"",""
+ball,2,4.5,Karnataka,KK Nair,MA Agarwal,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,4.6,Karnataka,MA Agarwal,KK Nair,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,5.1,Karnataka,MA Agarwal,KK Nair,Dhrumil Matkar,6,0,,,,,,"",""
+ball,2,5.2,Karnataka,MA Agarwal,KK Nair,Dhrumil Matkar,1,0,,,,,,"",""
+ball,2,5.3,Karnataka,KK Nair,MA Agarwal,Dhrumil Matkar,4,0,,,,,,"",""
+ball,2,5.4,Karnataka,KK Nair,MA Agarwal,Dhrumil Matkar,1,0,,,,,,"",""
+ball,2,5.5,Karnataka,MA Agarwal,KK Nair,Dhrumil Matkar,0,0,,,,,,"",""
+ball,2,5.6,Karnataka,MA Agarwal,KK Nair,Dhrumil Matkar,1,0,,,,,,"",""
+ball,2,6.1,Karnataka,MA Agarwal,KK Nair,Sagar Trivedi,4,0,,,,,,"",""
+ball,2,6.2,Karnataka,MA Agarwal,KK Nair,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,6.3,Karnataka,KK Nair,MA Agarwal,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,6.4,Karnataka,MA Agarwal,KK Nair,Sagar Trivedi,2,0,,,,,,"",""
+ball,2,6.5,Karnataka,MA Agarwal,KK Nair,Sagar Trivedi,0,0,,,,,,"",""
+ball,2,6.6,Karnataka,MA Agarwal,KK Nair,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,7.1,Karnataka,MA Agarwal,KK Nair,DS Kulkarni,1,0,,,,,,"",""
+ball,2,7.2,Karnataka,KK Nair,MA Agarwal,DS Kulkarni,0,0,,,,,,caught,KK Nair
+ball,2,7.3,Karnataka,MA Agarwal,Pavan Deshpande,DS Kulkarni,1,0,,,,,,"",""
+ball,2,7.4,Karnataka,Pavan Deshpande,MA Agarwal,DS Kulkarni,1,0,,,,,,"",""
+ball,2,7.5,Karnataka,MA Agarwal,Pavan Deshpande,DS Kulkarni,4,0,,,,,,"",""
+ball,2,7.6,Karnataka,MA Agarwal,Pavan Deshpande,DS Kulkarni,0,0,,,,,,"",""
+ball,2,8.1,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,2,0,,,,,,"",""
+ball,2,8.2,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,1,0,,,,,,"",""
+ball,2,8.3,Karnataka,MA Agarwal,Pavan Deshpande,Shashank Singh,1,0,,,,,,"",""
+ball,2,8.4,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,0,0,,,,,,"",""
+ball,2,8.5,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,3,0,,,,,,"",""
+ball,2,8.6,Karnataka,MA Agarwal,Pavan Deshpande,Shashank Singh,0,0,,,,,,"",""
+ball,2,9.1,Karnataka,Pavan Deshpande,MA Agarwal,Royston Dias,1,0,,,,,,"",""
+ball,2,9.2,Karnataka,MA Agarwal,Pavan Deshpande,Royston Dias,1,0,,,,,,"",""
+ball,2,9.3,Karnataka,Pavan Deshpande,MA Agarwal,Royston Dias,1,0,,,,,,"",""
+ball,2,9.4,Karnataka,MA Agarwal,Pavan Deshpande,Royston Dias,4,0,,,,,,"",""
+ball,2,9.5,Karnataka,MA Agarwal,Pavan Deshpande,Royston Dias,4,0,,,,,,"",""
+ball,2,9.6,Karnataka,MA Agarwal,Pavan Deshpande,Royston Dias,2,0,,,,,,"",""
+ball,2,10.1,Karnataka,Pavan Deshpande,MA Agarwal,Dhrumil Matkar,4,0,,,,,,"",""
+ball,2,10.2,Karnataka,Pavan Deshpande,MA Agarwal,Dhrumil Matkar,0,0,,,,,,"",""
+ball,2,10.3,Karnataka,Pavan Deshpande,MA Agarwal,Dhrumil Matkar,1,0,,,,,,"",""
+ball,2,10.4,Karnataka,MA Agarwal,Pavan Deshpande,Dhrumil Matkar,6,0,,,,,,"",""
+ball,2,10.5,Karnataka,MA Agarwal,Pavan Deshpande,Dhrumil Matkar,1,0,,,,,,"",""
+ball,2,10.6,Karnataka,Pavan Deshpande,MA Agarwal,Dhrumil Matkar,0,4,,,,4,,"",""
+ball,2,11.1,Karnataka,MA Agarwal,Pavan Deshpande,Shashank Singh,1,0,,,,,,"",""
+ball,2,11.2,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,1,0,,,,,,"",""
+ball,2,11.3,Karnataka,MA Agarwal,Pavan Deshpande,Shashank Singh,4,0,,,,,,"",""
+ball,2,11.4,Karnataka,MA Agarwal,Pavan Deshpande,Shashank Singh,1,0,,,,,,"",""
+ball,2,11.5,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,0,0,,,,,,"",""
+ball,2,11.6,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,1,0,,,,,,"",""
+ball,2,12.1,Karnataka,Pavan Deshpande,MA Agarwal,S Dube,1,0,,,,,,"",""
+ball,2,12.2,Karnataka,MA Agarwal,Pavan Deshpande,S Dube,1,0,,,,,,"",""
+ball,2,12.3,Karnataka,Pavan Deshpande,MA Agarwal,S Dube,2,0,,,,,,"",""
+ball,2,12.4,Karnataka,Pavan Deshpande,MA Agarwal,S Dube,4,0,,,,,,"",""
+ball,2,12.5,Karnataka,Pavan Deshpande,MA Agarwal,S Dube,1,0,,,,,,"",""
+ball,2,12.6,Karnataka,MA Agarwal,Pavan Deshpande,S Dube,2,0,,,,,,"",""
+ball,2,13.1,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,0,0,,,,,,"",""
+ball,2,13.2,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,0,0,,,,,,"",""
+ball,2,13.3,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,0,0,,,,,,"",""
+ball,2,13.4,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,1,0,,,,,,"",""
+ball,2,13.5,Karnataka,MA Agarwal,Pavan Deshpande,Shashank Singh,1,0,,,,,,"",""
+ball,2,13.6,Karnataka,Pavan Deshpande,MA Agarwal,Shashank Singh,1,0,,,,,,"",""
+ball,2,14.1,Karnataka,Pavan Deshpande,MA Agarwal,Sagar Trivedi,0,0,,,,,,"",""
+ball,2,14.2,Karnataka,Pavan Deshpande,MA Agarwal,Sagar Trivedi,5,0,,,,,,"",""
+ball,2,14.3,Karnataka,MA Agarwal,Pavan Deshpande,Sagar Trivedi,0,0,,,,,,caught,MA Agarwal
+ball,2,14.4,Karnataka,Pavan Deshpande,STR Binny,Sagar Trivedi,0,0,,,,,,"",""
+ball,2,14.5,Karnataka,Pavan Deshpande,STR Binny,Sagar Trivedi,4,0,,,,,,"",""
+ball,2,14.6,Karnataka,Pavan Deshpande,STR Binny,Sagar Trivedi,0,0,,,,,,"",""
+ball,2,15.1,Karnataka,STR Binny,Pavan Deshpande,Shashank Singh,0,0,,,,,,"",""
+ball,2,15.2,Karnataka,STR Binny,Pavan Deshpande,Shashank Singh,1,0,,,,,,"",""
+ball,2,15.3,Karnataka,Pavan Deshpande,STR Binny,Shashank Singh,1,0,,,,,,"",""
+ball,2,15.4,Karnataka,STR Binny,Pavan Deshpande,Shashank Singh,0,0,,,,,,"",""
+ball,2,15.5,Karnataka,STR Binny,Pavan Deshpande,Shashank Singh,0,0,,,,,,"",""
+ball,2,15.6,Karnataka,STR Binny,Pavan Deshpande,Shashank Singh,1,0,,,,,,"",""
+ball,2,16.1,Karnataka,STR Binny,Pavan Deshpande,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,16.2,Karnataka,Pavan Deshpande,STR Binny,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,16.3,Karnataka,STR Binny,Pavan Deshpande,Sagar Trivedi,0,0,,,,,,"",""
+ball,2,16.4,Karnataka,STR Binny,Pavan Deshpande,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,16.5,Karnataka,Pavan Deshpande,STR Binny,Sagar Trivedi,0,0,,,,,,"",""
+ball,2,16.6,Karnataka,Pavan Deshpande,STR Binny,Sagar Trivedi,1,0,,,,,,"",""
+ball,2,17.1,Karnataka,Pavan Deshpande,STR Binny,DS Kulkarni,1,0,,,,,,"",""
+ball,2,17.2,Karnataka,STR Binny,Pavan Deshpande,DS Kulkarni,1,0,,,,,,"",""
+ball,2,17.3,Karnataka,Pavan Deshpande,STR Binny,DS Kulkarni,0,0,,,,,,"",""
+ball,2,17.4,Karnataka,Pavan Deshpande,STR Binny,DS Kulkarni,0,0,,,,,,"",""
+ball,2,17.5,Karnataka,Pavan Deshpande,STR Binny,DS Kulkarni,2,0,,,,,,"",""
+ball,2,17.6,Karnataka,Pavan Deshpande,STR Binny,DS Kulkarni,2,0,,,,,,"",""
+ball,2,18.1,Karnataka,STR Binny,Pavan Deshpande,Royston Dias,4,0,,,,,,"",""
+ball,2,18.2,Karnataka,STR Binny,Pavan Deshpande,Royston Dias,1,0,,,,,,"",""
+ball,2,18.3,Karnataka,Pavan Deshpande,STR Binny,Royston Dias,4,0,,,,,,"",""
+ball,2,18.4,Karnataka,Pavan Deshpande,STR Binny,Royston Dias,1,0,,,,,,"",""

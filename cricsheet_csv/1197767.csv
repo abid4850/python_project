@@ -1,0 +1,305 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Central Districts
+info,team,Otago
+info,gender,male
+info,season,2019/20
+info,date,2020/01/11
+info,event,Super Smash
+info,match_number,27
+info,venue,University Oval
+info,city,Dunedin
+info,toss_winner,Central Districts
+info,toss_decision,bat
+info,umpire,ED Sanders
+info,umpire,SB Haig
+info,reserve_umpire,SJ Kannan
+info,tv_umpire,JAK Bromley
+info,winner,Otago
+info,winner_wickets,9
+info,player,Central Districts,GH Worker
+info,player,Central Districts,CK Leopard
+info,player,Central Districts,D Cleaver
+info,player,Central Districts,TC Bruce
+info,player,Central Districts,K Noema-Barnett
+info,player,Central Districts,JA Clarkson
+info,player,Central Districts,WC Ludick
+info,player,Central Districts,BM Wheeler
+info,player,Central Districts,AY Patel
+info,player,Central Districts,SHA Rance
+info,player,Central Districts,BM Tickner
+info,player,Otago,HD Rutherford
+info,player,Otago,NT Broom
+info,player,Otago,D Foxcroft
+info,player,Otago,M Renwick
+info,player,Otago,NF Kelly
+info,player,Otago,AK Kitchen
+info,player,Otago,JL Finnie
+info,player,Otago,MJG Rippon
+info,player,Otago,JA Duffy
+info,player,Otago,MB Bacon
+info,player,Otago,MD Rae
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BM Wheeler,397f4d3a
+info,registry,people,CK Leopard,46966c2b
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,ED Sanders,25c6d6af
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JAK Bromley,ccf7baaf
+info,registry,people,JL Finnie,1ccf9e7e
+info,registry,people,K Noema-Barnett,1ad0b441
+info,registry,people,M Renwick,b862ef08
+info,registry,people,MB Bacon,90701232
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NT Broom,a354c917
+info,registry,people,SB Haig,811655b3
+info,registry,people,SHA Rance,69c994e4
+info,registry,people,SJ Kannan,c8bbc10d
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WC Ludick,2a802bfd
+ball,1,0.1,Central Districts,GH Worker,CK Leopard,AK Kitchen,0,1,1,,,,,"",""
+ball,1,0.2,Central Districts,GH Worker,CK Leopard,AK Kitchen,0,0,,,,,,"",""
+ball,1,0.3,Central Districts,GH Worker,CK Leopard,AK Kitchen,1,0,,,,,,"",""
+ball,1,0.4,Central Districts,CK Leopard,GH Worker,AK Kitchen,0,0,,,,,,"",""
+ball,1,0.5,Central Districts,CK Leopard,GH Worker,AK Kitchen,0,0,,,,,,"",""
+ball,1,0.6,Central Districts,CK Leopard,GH Worker,AK Kitchen,4,0,,,,,,"",""
+ball,1,0.7,Central Districts,CK Leopard,GH Worker,AK Kitchen,0,0,,,,,,"",""
+ball,1,1.1,Central Districts,GH Worker,CK Leopard,JA Duffy,0,0,,,,,,"",""
+ball,1,1.2,Central Districts,GH Worker,CK Leopard,JA Duffy,1,0,,,,,,"",""
+ball,1,1.3,Central Districts,CK Leopard,GH Worker,JA Duffy,1,0,,,,,,"",""
+ball,1,1.4,Central Districts,GH Worker,CK Leopard,JA Duffy,0,0,,,,,,"",""
+ball,1,1.5,Central Districts,GH Worker,CK Leopard,JA Duffy,0,0,,,,,,"",""
+ball,1,1.6,Central Districts,GH Worker,CK Leopard,JA Duffy,2,0,,,,,,"",""
+ball,1,2.1,Central Districts,CK Leopard,GH Worker,MD Rae,4,0,,,,,,"",""
+ball,1,2.2,Central Districts,CK Leopard,GH Worker,MD Rae,0,0,,,,,,lbw,CK Leopard
+ball,1,2.3,Central Districts,D Cleaver,GH Worker,MD Rae,1,0,,,,,,"",""
+ball,1,2.4,Central Districts,GH Worker,D Cleaver,MD Rae,1,0,,,,,,"",""
+ball,1,2.5,Central Districts,D Cleaver,GH Worker,MD Rae,0,1,1,,,,,"",""
+ball,1,2.6,Central Districts,D Cleaver,GH Worker,MD Rae,1,0,,,,,,"",""
+ball,1,2.7,Central Districts,GH Worker,D Cleaver,MD Rae,0,0,,,,,,"",""
+ball,1,3.1,Central Districts,D Cleaver,GH Worker,JA Duffy,2,0,,,,,,"",""
+ball,1,3.2,Central Districts,D Cleaver,GH Worker,JA Duffy,0,0,,,,,,"",""
+ball,1,3.3,Central Districts,D Cleaver,GH Worker,JA Duffy,1,0,,,,,,"",""
+ball,1,3.4,Central Districts,GH Worker,D Cleaver,JA Duffy,4,0,,,,,,"",""
+ball,1,3.5,Central Districts,GH Worker,D Cleaver,JA Duffy,1,0,,,,,,"",""
+ball,1,3.6,Central Districts,D Cleaver,GH Worker,JA Duffy,0,0,,,,,,"",""
+ball,1,4.1,Central Districts,GH Worker,D Cleaver,MD Rae,1,0,,,,,,"",""
+ball,1,4.2,Central Districts,D Cleaver,GH Worker,MD Rae,2,0,,,,,,"",""
+ball,1,4.3,Central Districts,D Cleaver,GH Worker,MD Rae,2,0,,,,,,"",""
+ball,1,4.4,Central Districts,D Cleaver,GH Worker,MD Rae,2,0,,,,,,"",""
+ball,1,4.5,Central Districts,D Cleaver,GH Worker,MD Rae,4,0,,,,,,"",""
+ball,1,4.6,Central Districts,D Cleaver,GH Worker,MD Rae,2,0,,,,,,"",""
+ball,1,5.1,Central Districts,GH Worker,D Cleaver,MB Bacon,1,0,,,,,,"",""
+ball,1,5.2,Central Districts,D Cleaver,GH Worker,MB Bacon,1,0,,,,,,"",""
+ball,1,5.3,Central Districts,GH Worker,D Cleaver,MB Bacon,0,0,,,,,,"",""
+ball,1,5.4,Central Districts,GH Worker,D Cleaver,MB Bacon,0,0,,,,,,"",""
+ball,1,5.5,Central Districts,GH Worker,D Cleaver,MB Bacon,1,0,,,,,,"",""
+ball,1,5.6,Central Districts,D Cleaver,GH Worker,MB Bacon,1,0,,,,,,"",""
+ball,1,6.1,Central Districts,D Cleaver,GH Worker,AK Kitchen,2,0,,,,,,"",""
+ball,1,6.2,Central Districts,D Cleaver,GH Worker,AK Kitchen,1,0,,,,,,"",""
+ball,1,6.3,Central Districts,GH Worker,D Cleaver,AK Kitchen,0,0,,,,,,"",""
+ball,1,6.4,Central Districts,GH Worker,D Cleaver,AK Kitchen,0,0,,,,,,"",""
+ball,1,6.5,Central Districts,GH Worker,D Cleaver,AK Kitchen,0,1,1,,,,,"",""
+ball,1,6.6,Central Districts,GH Worker,D Cleaver,AK Kitchen,2,0,,,,,,"",""
+ball,1,6.7,Central Districts,GH Worker,D Cleaver,AK Kitchen,1,0,,,,,,"",""
+ball,1,7.1,Central Districts,GH Worker,D Cleaver,MJG Rippon,0,1,1,,,,,"",""
+ball,1,7.2,Central Districts,GH Worker,D Cleaver,MJG Rippon,1,0,,,,,,"",""
+ball,1,7.3,Central Districts,D Cleaver,GH Worker,MJG Rippon,1,0,,,,,,"",""
+ball,1,7.4,Central Districts,GH Worker,D Cleaver,MJG Rippon,0,0,,,,,,"",""
+ball,1,7.5,Central Districts,GH Worker,D Cleaver,MJG Rippon,1,0,,,,,,"",""
+ball,1,7.6,Central Districts,D Cleaver,GH Worker,MJG Rippon,1,0,,,,,,"",""
+ball,1,7.7,Central Districts,GH Worker,D Cleaver,MJG Rippon,1,0,,,,,,"",""
+ball,1,8.1,Central Districts,GH Worker,D Cleaver,MB Bacon,1,0,,,,,,"",""
+ball,1,8.2,Central Districts,D Cleaver,GH Worker,MB Bacon,4,0,,,,,,"",""
+ball,1,8.3,Central Districts,D Cleaver,GH Worker,MB Bacon,1,0,,,,,,"",""
+ball,1,8.4,Central Districts,GH Worker,D Cleaver,MB Bacon,0,0,,,,,,"",""
+ball,1,8.5,Central Districts,GH Worker,D Cleaver,MB Bacon,0,0,,,,,,"",""
+ball,1,8.6,Central Districts,GH Worker,D Cleaver,MB Bacon,1,0,,,,,,"",""
+ball,1,9.1,Central Districts,GH Worker,D Cleaver,MJG Rippon,1,0,,,,,,"",""
+ball,1,9.2,Central Districts,D Cleaver,GH Worker,MJG Rippon,2,0,,,,,,"",""
+ball,1,9.3,Central Districts,D Cleaver,GH Worker,MJG Rippon,0,0,,,,,,"",""
+ball,1,9.4,Central Districts,D Cleaver,GH Worker,MJG Rippon,1,0,,,,,,"",""
+ball,1,9.5,Central Districts,GH Worker,D Cleaver,MJG Rippon,0,1,1,,,,,"",""
+ball,1,9.6,Central Districts,GH Worker,D Cleaver,MJG Rippon,1,0,,,,,,"",""
+ball,1,9.7,Central Districts,D Cleaver,GH Worker,MJG Rippon,1,0,,,,,,"",""
+ball,1,10.1,Central Districts,D Cleaver,GH Worker,AK Kitchen,0,1,1,,,,,"",""
+ball,1,10.2,Central Districts,D Cleaver,GH Worker,AK Kitchen,0,0,,,,,,"",""
+ball,1,10.3,Central Districts,D Cleaver,GH Worker,AK Kitchen,1,0,,,,,,"",""
+ball,1,10.4,Central Districts,GH Worker,D Cleaver,AK Kitchen,1,0,,,,,,"",""
+ball,1,10.5,Central Districts,D Cleaver,GH Worker,AK Kitchen,1,0,,,,,,"",""
+ball,1,10.6,Central Districts,GH Worker,D Cleaver,AK Kitchen,0,0,,,,,,caught,GH Worker
+ball,1,10.7,Central Districts,TC Bruce,D Cleaver,AK Kitchen,1,0,,,,,,"",""
+ball,1,11.1,Central Districts,TC Bruce,D Cleaver,MJG Rippon,0,1,1,,,,,"",""
+ball,1,11.2,Central Districts,TC Bruce,D Cleaver,MJG Rippon,1,0,,,,,,"",""
+ball,1,11.3,Central Districts,D Cleaver,TC Bruce,MJG Rippon,1,0,,,,,,"",""
+ball,1,11.4,Central Districts,TC Bruce,D Cleaver,MJG Rippon,1,0,,,,,,"",""
+ball,1,11.5,Central Districts,D Cleaver,TC Bruce,MJG Rippon,1,0,,,,,,"",""
+ball,1,11.6,Central Districts,TC Bruce,D Cleaver,MJG Rippon,0,0,,,,,,caught,TC Bruce
+ball,1,11.7,Central Districts,K Noema-Barnett,D Cleaver,MJG Rippon,1,0,,,,,,"",""
+ball,1,12.1,Central Districts,K Noema-Barnett,D Cleaver,MB Bacon,0,0,,,,,,"",""
+ball,1,12.2,Central Districts,K Noema-Barnett,D Cleaver,MB Bacon,1,0,,,,,,"",""
+ball,1,12.3,Central Districts,D Cleaver,K Noema-Barnett,MB Bacon,1,0,,,,,,"",""
+ball,1,12.4,Central Districts,K Noema-Barnett,D Cleaver,MB Bacon,1,0,,,,,,"",""
+ball,1,12.5,Central Districts,D Cleaver,K Noema-Barnett,MB Bacon,4,0,,,,,,"",""
+ball,1,12.6,Central Districts,D Cleaver,K Noema-Barnett,MB Bacon,0,0,,,,,,bowled,D Cleaver
+ball,1,13.1,Central Districts,K Noema-Barnett,JA Clarkson,MD Rae,1,0,,,,,,"",""
+ball,1,13.2,Central Districts,JA Clarkson,K Noema-Barnett,MD Rae,1,0,,,,,,"",""
+ball,1,13.3,Central Districts,K Noema-Barnett,JA Clarkson,MD Rae,1,0,,,,,,"",""
+ball,1,13.4,Central Districts,JA Clarkson,K Noema-Barnett,MD Rae,0,2,2,,,,,"",""
+ball,1,13.5,Central Districts,K Noema-Barnett,JA Clarkson,MD Rae,1,0,,,,,,"",""
+ball,1,13.6,Central Districts,JA Clarkson,K Noema-Barnett,MD Rae,0,0,,,,,,"",""
+ball,1,13.7,Central Districts,JA Clarkson,K Noema-Barnett,MD Rae,1,0,,,,,,"",""
+ball,1,14.1,Central Districts,JA Clarkson,K Noema-Barnett,AK Kitchen,1,0,,,,,,"",""
+ball,1,14.2,Central Districts,K Noema-Barnett,JA Clarkson,AK Kitchen,1,0,,,,,,"",""
+ball,1,14.3,Central Districts,JA Clarkson,K Noema-Barnett,AK Kitchen,1,0,,,,,,"",""
+ball,1,14.4,Central Districts,K Noema-Barnett,JA Clarkson,AK Kitchen,0,0,,,,,,stumped,K Noema-Barnett
+ball,1,14.5,Central Districts,WC Ludick,JA Clarkson,AK Kitchen,0,0,,,,,,"",""
+ball,1,14.6,Central Districts,WC Ludick,JA Clarkson,AK Kitchen,1,0,,,,,,"",""
+ball,1,15.1,Central Districts,WC Ludick,JA Clarkson,MJG Rippon,0,0,,,,,,"",""
+ball,1,15.2,Central Districts,WC Ludick,JA Clarkson,MJG Rippon,1,0,,,,,,"",""
+ball,1,15.3,Central Districts,JA Clarkson,WC Ludick,MJG Rippon,2,0,,,,,,"",""
+ball,1,15.4,Central Districts,JA Clarkson,WC Ludick,MJG Rippon,0,0,,,,,,"",""
+ball,1,15.5,Central Districts,JA Clarkson,WC Ludick,MJG Rippon,1,0,,,,,,"",""
+ball,1,15.6,Central Districts,WC Ludick,JA Clarkson,MJG Rippon,1,0,,,,,,"",""
+ball,1,16.1,Central Districts,WC Ludick,JA Clarkson,MB Bacon,1,0,,,,,,"",""
+ball,1,16.2,Central Districts,JA Clarkson,WC Ludick,MB Bacon,6,0,,,,,,"",""
+ball,1,16.3,Central Districts,JA Clarkson,WC Ludick,MB Bacon,0,0,,,,,,"",""
+ball,1,16.4,Central Districts,JA Clarkson,WC Ludick,MB Bacon,1,0,,,,,,"",""
+ball,1,16.5,Central Districts,WC Ludick,JA Clarkson,MB Bacon,2,0,,,,,,"",""
+ball,1,16.6,Central Districts,WC Ludick,JA Clarkson,MB Bacon,1,0,,,,,,"",""
+ball,1,17.1,Central Districts,WC Ludick,JA Clarkson,JA Duffy,2,0,,,,,,"",""
+ball,1,17.2,Central Districts,WC Ludick,JA Clarkson,JA Duffy,0,0,,,,,,"",""
+ball,1,17.3,Central Districts,WC Ludick,JA Clarkson,JA Duffy,1,0,,,,,,"",""
+ball,1,17.4,Central Districts,JA Clarkson,WC Ludick,JA Duffy,0,0,,,,,,caught,JA Clarkson
+ball,1,17.5,Central Districts,WC Ludick,BM Wheeler,JA Duffy,1,0,,,,,,"",""
+ball,1,17.6,Central Districts,BM Wheeler,WC Ludick,JA Duffy,2,0,,,,,,"",""
+ball,1,18.1,Central Districts,WC Ludick,BM Wheeler,MD Rae,1,0,,,,,,"",""
+ball,1,18.2,Central Districts,BM Wheeler,WC Ludick,MD Rae,0,0,,,,,,"",""
+ball,1,18.3,Central Districts,BM Wheeler,WC Ludick,MD Rae,4,0,,,,,,"",""
+ball,1,18.4,Central Districts,BM Wheeler,WC Ludick,MD Rae,2,0,,,,,,"",""
+ball,1,18.5,Central Districts,BM Wheeler,WC Ludick,MD Rae,1,0,,,,,,"",""
+ball,1,18.6,Central Districts,WC Ludick,BM Wheeler,MD Rae,2,0,,,,,,"",""
+ball,1,19.1,Central Districts,BM Wheeler,WC Ludick,JA Duffy,1,0,,,,,,"",""
+ball,1,19.2,Central Districts,WC Ludick,BM Wheeler,JA Duffy,2,0,,,,,,"",""
+ball,1,19.3,Central Districts,WC Ludick,BM Wheeler,JA Duffy,4,0,,,,,,"",""
+ball,1,19.4,Central Districts,WC Ludick,BM Wheeler,JA Duffy,0,0,,,,,,"",""
+ball,1,19.5,Central Districts,WC Ludick,BM Wheeler,JA Duffy,0,0,,,,,,"",""
+ball,1,19.6,Central Districts,WC Ludick,BM Wheeler,JA Duffy,0,1,1,,,,,"",""
+ball,1,19.7,Central Districts,WC Ludick,BM Wheeler,JA Duffy,0,0,,,,,,"",""
+ball,2,0.1,Otago,HD Rutherford,NT Broom,SHA Rance,1,0,,,,,,"",""
+ball,2,0.2,Otago,NT Broom,HD Rutherford,SHA Rance,0,0,,,,,,"",""
+ball,2,0.3,Otago,NT Broom,HD Rutherford,SHA Rance,0,0,,,,,,"",""
+ball,2,0.4,Otago,NT Broom,HD Rutherford,SHA Rance,4,0,,,,,,"",""
+ball,2,0.5,Otago,NT Broom,HD Rutherford,SHA Rance,4,0,,,,,,"",""
+ball,2,0.6,Otago,NT Broom,HD Rutherford,SHA Rance,0,0,,,,,,"",""
+ball,2,1.1,Otago,HD Rutherford,NT Broom,BM Wheeler,2,0,,,,,,"",""
+ball,2,1.2,Otago,HD Rutherford,NT Broom,BM Wheeler,0,0,,,,,,"",""
+ball,2,1.3,Otago,HD Rutherford,NT Broom,BM Wheeler,4,0,,,,,,"",""
+ball,2,1.4,Otago,HD Rutherford,NT Broom,BM Wheeler,1,0,,,,,,"",""
+ball,2,1.5,Otago,NT Broom,HD Rutherford,BM Wheeler,0,0,,,,,,"",""
+ball,2,1.6,Otago,NT Broom,HD Rutherford,BM Wheeler,0,0,,,,,,"",""
+ball,2,2.1,Otago,HD Rutherford,NT Broom,SHA Rance,6,0,,,,,,"",""
+ball,2,2.2,Otago,HD Rutherford,NT Broom,SHA Rance,4,0,,,,,,"",""
+ball,2,2.3,Otago,HD Rutherford,NT Broom,SHA Rance,4,0,,,,,,"",""
+ball,2,2.4,Otago,HD Rutherford,NT Broom,SHA Rance,1,0,,,,,,"",""
+ball,2,2.5,Otago,NT Broom,HD Rutherford,SHA Rance,1,0,,,,,,"",""
+ball,2,2.6,Otago,HD Rutherford,NT Broom,SHA Rance,0,0,,,,,,"",""
+ball,2,3.1,Otago,NT Broom,HD Rutherford,BM Wheeler,0,0,,,,,,"",""
+ball,2,3.2,Otago,NT Broom,HD Rutherford,BM Wheeler,0,0,,,,,,"",""
+ball,2,3.3,Otago,NT Broom,HD Rutherford,BM Wheeler,6,0,,,,,,"",""
+ball,2,3.4,Otago,NT Broom,HD Rutherford,BM Wheeler,4,0,,,,,,"",""
+ball,2,3.5,Otago,NT Broom,HD Rutherford,BM Wheeler,4,0,,,,,,"",""
+ball,2,3.6,Otago,NT Broom,HD Rutherford,BM Wheeler,0,0,,,,,,"",""
+ball,2,4.1,Otago,HD Rutherford,NT Broom,BM Tickner,0,0,,,,,,"",""
+ball,2,4.2,Otago,HD Rutherford,NT Broom,BM Tickner,4,0,,,,,,"",""
+ball,2,4.3,Otago,HD Rutherford,NT Broom,BM Tickner,1,0,,,,,,"",""
+ball,2,4.4,Otago,NT Broom,HD Rutherford,BM Tickner,1,0,,,,,,"",""
+ball,2,4.5,Otago,HD Rutherford,NT Broom,BM Tickner,1,0,,,,,,"",""
+ball,2,4.6,Otago,NT Broom,HD Rutherford,BM Tickner,1,0,,,,,,"",""
+ball,2,5.1,Otago,NT Broom,HD Rutherford,AY Patel,0,0,,,,,,"",""
+ball,2,5.2,Otago,NT Broom,HD Rutherford,AY Patel,1,0,,,,,,"",""
+ball,2,5.3,Otago,HD Rutherford,NT Broom,AY Patel,0,0,,,,,,"",""
+ball,2,5.4,Otago,HD Rutherford,NT Broom,AY Patel,1,0,,,,,,"",""
+ball,2,5.5,Otago,NT Broom,HD Rutherford,AY Patel,0,0,,,,,,"",""
+ball,2,5.6,Otago,NT Broom,HD Rutherford,AY Patel,4,0,,,,,,"",""
+ball,2,6.1,Otago,HD Rutherford,NT Broom,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,6.2,Otago,NT Broom,HD Rutherford,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,6.3,Otago,HD Rutherford,NT Broom,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,6.4,Otago,NT Broom,HD Rutherford,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,6.5,Otago,HD Rutherford,NT Broom,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,6.6,Otago,HD Rutherford,NT Broom,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,7.1,Otago,HD Rutherford,NT Broom,AY Patel,1,0,,,,,,"",""
+ball,2,7.2,Otago,NT Broom,HD Rutherford,AY Patel,1,0,,,,,,"",""
+ball,2,7.3,Otago,HD Rutherford,NT Broom,AY Patel,1,0,,,,,,"",""
+ball,2,7.4,Otago,NT Broom,HD Rutherford,AY Patel,0,0,,,,,,"",""
+ball,2,7.5,Otago,NT Broom,HD Rutherford,AY Patel,1,0,,,,,,"",""
+ball,2,7.6,Otago,HD Rutherford,NT Broom,AY Patel,1,0,,,,,,"",""
+ball,2,8.1,Otago,HD Rutherford,NT Broom,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,8.2,Otago,NT Broom,HD Rutherford,K Noema-Barnett,0,0,,,,,,lbw,NT Broom
+ball,2,8.3,Otago,D Foxcroft,HD Rutherford,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,8.4,Otago,D Foxcroft,HD Rutherford,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,8.5,Otago,D Foxcroft,HD Rutherford,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,8.6,Otago,HD Rutherford,D Foxcroft,K Noema-Barnett,4,0,,,,,,"",""
+ball,2,9.1,Otago,D Foxcroft,HD Rutherford,AY Patel,1,0,,,,,,"",""
+ball,2,9.2,Otago,HD Rutherford,D Foxcroft,AY Patel,6,0,,,,,,"",""
+ball,2,9.3,Otago,HD Rutherford,D Foxcroft,AY Patel,1,0,,,,,,"",""
+ball,2,9.4,Otago,D Foxcroft,HD Rutherford,AY Patel,0,1,1,,,,,"",""
+ball,2,9.5,Otago,D Foxcroft,HD Rutherford,AY Patel,0,0,,,,,,"",""
+ball,2,9.6,Otago,D Foxcroft,HD Rutherford,AY Patel,0,0,,,,,,"",""
+ball,2,9.7,Otago,D Foxcroft,HD Rutherford,AY Patel,0,0,,,,,,"",""
+ball,2,10.1,Otago,HD Rutherford,D Foxcroft,BM Tickner,2,0,,,,,,"",""
+ball,2,10.2,Otago,HD Rutherford,D Foxcroft,BM Tickner,1,0,,,,,,"",""
+ball,2,10.3,Otago,D Foxcroft,HD Rutherford,BM Tickner,0,0,,,,,,"",""
+ball,2,10.4,Otago,D Foxcroft,HD Rutherford,BM Tickner,1,0,,,,,,"",""
+ball,2,10.5,Otago,HD Rutherford,D Foxcroft,BM Tickner,0,0,,,,,,"",""
+ball,2,10.6,Otago,HD Rutherford,D Foxcroft,BM Tickner,1,0,,,,,,"",""
+ball,2,11.1,Otago,HD Rutherford,D Foxcroft,GH Worker,1,0,,,,,,"",""
+ball,2,11.2,Otago,D Foxcroft,HD Rutherford,GH Worker,0,0,,,,,,"",""
+ball,2,11.3,Otago,D Foxcroft,HD Rutherford,GH Worker,0,0,,,,,,"",""
+ball,2,11.4,Otago,D Foxcroft,HD Rutherford,GH Worker,0,0,,,,,,"",""
+ball,2,11.5,Otago,D Foxcroft,HD Rutherford,GH Worker,4,0,,,,,,"",""
+ball,2,11.6,Otago,D Foxcroft,HD Rutherford,GH Worker,0,0,,,,,,"",""
+ball,2,12.1,Otago,HD Rutherford,D Foxcroft,BM Wheeler,4,0,,,,,,"",""
+ball,2,12.2,Otago,HD Rutherford,D Foxcroft,BM Wheeler,0,0,,,,,,"",""
+ball,2,12.3,Otago,HD Rutherford,D Foxcroft,BM Wheeler,0,0,,,,,,"",""
+ball,2,12.4,Otago,HD Rutherford,D Foxcroft,BM Wheeler,1,0,,,,,,"",""
+ball,2,12.5,Otago,D Foxcroft,HD Rutherford,BM Wheeler,1,0,,,,,,"",""
+ball,2,12.6,Otago,HD Rutherford,D Foxcroft,BM Wheeler,0,0,,,,,,"",""
+ball,2,13.1,Otago,D Foxcroft,HD Rutherford,GH Worker,0,0,,,,,,"",""
+ball,2,13.2,Otago,D Foxcroft,HD Rutherford,GH Worker,1,0,,,,,,"",""
+ball,2,13.3,Otago,HD Rutherford,D Foxcroft,GH Worker,1,0,,,,,,"",""
+ball,2,13.4,Otago,D Foxcroft,HD Rutherford,GH Worker,1,0,,,,,,"",""
+ball,2,13.5,Otago,HD Rutherford,D Foxcroft,GH Worker,0,0,,,,,,"",""
+ball,2,13.6,Otago,HD Rutherford,D Foxcroft,GH Worker,6,0,,,,,,"",""
+ball,2,14.1,Otago,D Foxcroft,HD Rutherford,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,14.2,Otago,D Foxcroft,HD Rutherford,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,14.3,Otago,HD Rutherford,D Foxcroft,K Noema-Barnett,2,0,,,,,,"",""
+ball,2,14.4,Otago,HD Rutherford,D Foxcroft,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,14.5,Otago,HD Rutherford,D Foxcroft,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,14.6,Otago,HD Rutherford,D Foxcroft,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,15.1,Otago,HD Rutherford,D Foxcroft,AY Patel,1,0,,,,,,"",""
+ball,2,15.2,Otago,D Foxcroft,HD Rutherford,AY Patel,4,0,,,,,,"",""
+ball,2,15.3,Otago,D Foxcroft,HD Rutherford,AY Patel,1,0,,,,,,"",""
+ball,2,15.4,Otago,HD Rutherford,D Foxcroft,AY Patel,0,0,,,,,,"",""
+ball,2,15.5,Otago,HD Rutherford,D Foxcroft,AY Patel,4,0,,,,,,"",""
+ball,2,15.6,Otago,HD Rutherford,D Foxcroft,AY Patel,1,0,,,,,,"",""
+ball,2,16.1,Otago,HD Rutherford,D Foxcroft,SHA Rance,2,0,,,,,,"",""
+ball,2,16.2,Otago,HD Rutherford,D Foxcroft,SHA Rance,1,0,,,,,,"",""
+ball,2,16.3,Otago,D Foxcroft,HD Rutherford,SHA Rance,1,0,,,,,,"",""
+ball,2,16.4,Otago,HD Rutherford,D Foxcroft,SHA Rance,0,0,,,,,,"",""
+ball,2,16.5,Otago,HD Rutherford,D Foxcroft,SHA Rance,0,0,,,,,,"",""
+ball,2,16.6,Otago,HD Rutherford,D Foxcroft,SHA Rance,0,1,1,,,,,"",""
+ball,2,16.7,Otago,HD Rutherford,D Foxcroft,SHA Rance,0,0,,,,,,"",""
+ball,2,17.1,Otago,D Foxcroft,HD Rutherford,BM Wheeler,0,1,1,,,,,"",""
+ball,2,17.2,Otago,D Foxcroft,HD Rutherford,BM Wheeler,4,0,,,,,,"",""
+ball,2,17.3,Otago,D Foxcroft,HD Rutherford,BM Wheeler,1,0,,,,,,"",""
+ball,2,17.4,Otago,HD Rutherford,D Foxcroft,BM Wheeler,0,1,1,,,,,"",""
+ball,2,17.5,Otago,HD Rutherford,D Foxcroft,BM Wheeler,4,0,,,,,,"",""

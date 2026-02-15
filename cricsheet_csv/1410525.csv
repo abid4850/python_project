@@ -1,0 +1,286 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Thunder
+info,team,The Blaze
+info,gender,female
+info,season,2024
+info,date,2024/06/02
+info,event,Charlotte Edwards Cup
+info,match_number,18
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Thunder
+info,toss_decision,bat
+info,umpire,G Brown
+info,umpire,Naeem Ashraf
+info,match_referee,Wayne Noon
+info,winner,The Blaze
+info,winner_wickets,7
+info,player,Thunder,EL Lamb
+info,player,Thunder,FMK Morris
+info,player,Thunder,S Smale
+info,player,Thunder,E Threlkeld
+info,player,Thunder,DL Collins
+info,player,Thunder,A Lister
+info,player,Thunder,S Ecclestone
+info,player,Thunder,KL Cross
+info,player,Thunder,TG Norris
+info,player,Thunder,PC Graham
+info,player,Thunder,S Morris
+info,player,The Blaze,TT Beaumont
+info,player,The Blaze,T Graves
+info,player,The Blaze,KE Bryce
+info,player,The Blaze,SJ Bryce
+info,player,The Blaze,N de Klerk
+info,player,The Blaze,E Claridge
+info,player,The Blaze,M Kelly
+info,player,The Blaze,J Groves
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,LF Higham
+info,player,The Blaze,G Ballinger
+info,registry,people,A Lister,090c0213
+info,registry,people,DL Collins,246ba42c
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,G Ballinger,2f485713
+info,registry,people,G Brown,4b781bd0
+info,registry,people,J Groves,11ff23e3
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL Cross,1ade138e
+info,registry,people,KL Gordon,00823a96
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,N de Klerk,ea544967
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Morris,76419733
+info,registry,people,S Smale,3247d54e
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,T Graves,e893fef7
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,Wayne Noon,736e1761
+ball,1,0.1,Thunder,EL Lamb,FMK Morris,G Ballinger,0,0,,,,,,"",""
+ball,1,0.2,Thunder,EL Lamb,FMK Morris,G Ballinger,0,0,,,,,,"",""
+ball,1,0.3,Thunder,EL Lamb,FMK Morris,G Ballinger,0,0,,,,,,"",""
+ball,1,0.4,Thunder,EL Lamb,FMK Morris,G Ballinger,1,0,,,,,,"",""
+ball,1,0.5,Thunder,FMK Morris,EL Lamb,G Ballinger,0,0,,,,,,"",""
+ball,1,0.6,Thunder,FMK Morris,EL Lamb,G Ballinger,1,0,,,,,,"",""
+ball,1,1.1,Thunder,FMK Morris,EL Lamb,KL Gordon,0,0,,,,,,caught,FMK Morris
+ball,1,1.2,Thunder,S Smale,EL Lamb,KL Gordon,1,0,,,,,,"",""
+ball,1,1.3,Thunder,EL Lamb,S Smale,KL Gordon,1,0,,,,,,"",""
+ball,1,1.4,Thunder,S Smale,EL Lamb,KL Gordon,0,0,,,,,,"",""
+ball,1,1.5,Thunder,S Smale,EL Lamb,KL Gordon,0,0,,,,,,"",""
+ball,1,1.6,Thunder,S Smale,EL Lamb,KL Gordon,0,0,,,,,,"",""
+ball,1,2.1,Thunder,EL Lamb,S Smale,G Ballinger,0,0,,,,,,"",""
+ball,1,2.2,Thunder,EL Lamb,S Smale,G Ballinger,1,0,,,,,,"",""
+ball,1,2.3,Thunder,S Smale,EL Lamb,G Ballinger,0,1,,,,1,,"",""
+ball,1,2.4,Thunder,EL Lamb,S Smale,G Ballinger,0,0,,,,,,"",""
+ball,1,2.5,Thunder,EL Lamb,S Smale,G Ballinger,4,0,,,,,,"",""
+ball,1,2.6,Thunder,EL Lamb,S Smale,G Ballinger,0,1,,,1,,,"",""
+ball,1,3.1,Thunder,EL Lamb,S Smale,KE Bryce,0,0,,,,,,"",""
+ball,1,3.2,Thunder,EL Lamb,S Smale,KE Bryce,1,0,,,,,,"",""
+ball,1,3.3,Thunder,S Smale,EL Lamb,KE Bryce,0,0,,,,,,"",""
+ball,1,3.4,Thunder,S Smale,EL Lamb,KE Bryce,0,0,,,,,,"",""
+ball,1,3.5,Thunder,S Smale,EL Lamb,KE Bryce,0,0,,,,,,"",""
+ball,1,3.6,Thunder,S Smale,EL Lamb,KE Bryce,0,0,,,,,,"",""
+ball,1,4.1,Thunder,EL Lamb,S Smale,G Ballinger,2,0,,,,,,"",""
+ball,1,4.2,Thunder,EL Lamb,S Smale,G Ballinger,4,0,,,,,,"",""
+ball,1,4.3,Thunder,EL Lamb,S Smale,G Ballinger,1,0,,,,,,"",""
+ball,1,4.4,Thunder,S Smale,EL Lamb,G Ballinger,0,0,,,,,,"",""
+ball,1,4.5,Thunder,S Smale,EL Lamb,G Ballinger,1,0,,,,,,"",""
+ball,1,4.6,Thunder,EL Lamb,S Smale,G Ballinger,0,0,,,,,,"",""
+ball,1,5.1,Thunder,S Smale,EL Lamb,KE Bryce,0,0,,,,,,"",""
+ball,1,5.2,Thunder,S Smale,EL Lamb,KE Bryce,0,0,,,,,,stumped,S Smale
+ball,1,5.3,Thunder,E Threlkeld,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,5.4,Thunder,EL Lamb,E Threlkeld,KE Bryce,0,0,,,,,,"",""
+ball,1,5.5,Thunder,EL Lamb,E Threlkeld,KE Bryce,1,0,,,,,,"",""
+ball,1,5.6,Thunder,E Threlkeld,EL Lamb,KE Bryce,0,0,,,,,,"",""
+ball,1,6.1,Thunder,EL Lamb,E Threlkeld,J Groves,1,0,,,,,,"",""
+ball,1,6.2,Thunder,E Threlkeld,EL Lamb,J Groves,0,0,,,,,,"",""
+ball,1,6.3,Thunder,E Threlkeld,EL Lamb,J Groves,1,0,,,,,,"",""
+ball,1,6.4,Thunder,EL Lamb,E Threlkeld,J Groves,0,0,,,,,,"",""
+ball,1,6.5,Thunder,EL Lamb,E Threlkeld,J Groves,1,0,,,,,,"",""
+ball,1,6.6,Thunder,E Threlkeld,EL Lamb,J Groves,0,0,,,,,,"",""
+ball,1,7.1,Thunder,EL Lamb,E Threlkeld,KL Gordon,2,0,,,,,,"",""
+ball,1,7.2,Thunder,EL Lamb,E Threlkeld,KL Gordon,0,0,,,,,,"",""
+ball,1,7.3,Thunder,EL Lamb,E Threlkeld,KL Gordon,0,0,,,,,,caught,EL Lamb
+ball,1,7.4,Thunder,DL Collins,E Threlkeld,KL Gordon,1,0,,,,,,"",""
+ball,1,7.5,Thunder,E Threlkeld,DL Collins,KL Gordon,1,0,,,,,,"",""
+ball,1,7.6,Thunder,DL Collins,E Threlkeld,KL Gordon,0,0,,,,,,"",""
+ball,1,8.1,Thunder,E Threlkeld,DL Collins,J Groves,0,0,,,,,,"",""
+ball,1,8.2,Thunder,E Threlkeld,DL Collins,J Groves,0,0,,,,,,"",""
+ball,1,8.3,Thunder,E Threlkeld,DL Collins,J Groves,1,0,,,,,,"",""
+ball,1,8.4,Thunder,DL Collins,E Threlkeld,J Groves,2,0,,,,,,"",""
+ball,1,8.5,Thunder,DL Collins,E Threlkeld,J Groves,1,0,,,,,,"",""
+ball,1,8.6,Thunder,E Threlkeld,DL Collins,J Groves,1,0,,,,,,"",""
+ball,1,9.1,Thunder,E Threlkeld,DL Collins,LF Higham,2,0,,,,,,"",""
+ball,1,9.2,Thunder,E Threlkeld,DL Collins,LF Higham,2,0,,,,,,"",""
+ball,1,9.3,Thunder,E Threlkeld,DL Collins,LF Higham,0,0,,,,,,"",""
+ball,1,9.4,Thunder,E Threlkeld,DL Collins,LF Higham,1,0,,,,,,"",""
+ball,1,9.5,Thunder,DL Collins,E Threlkeld,LF Higham,4,0,,,,,,"",""
+ball,1,9.6,Thunder,DL Collins,E Threlkeld,LF Higham,1,0,,,,,,"",""
+ball,1,10.1,Thunder,DL Collins,E Threlkeld,KL Gordon,0,0,,,,,,"",""
+ball,1,10.2,Thunder,DL Collins,E Threlkeld,KL Gordon,1,0,,,,,,"",""
+ball,1,10.3,Thunder,E Threlkeld,DL Collins,KL Gordon,1,0,,,,,,"",""
+ball,1,10.4,Thunder,DL Collins,E Threlkeld,KL Gordon,0,0,,,,,,"",""
+ball,1,10.5,Thunder,DL Collins,E Threlkeld,KL Gordon,0,0,,,,,,"",""
+ball,1,10.6,Thunder,DL Collins,E Threlkeld,KL Gordon,0,0,,,,,,"",""
+ball,1,11.1,Thunder,E Threlkeld,DL Collins,M Kelly,2,0,,,,,,"",""
+ball,1,11.2,Thunder,E Threlkeld,DL Collins,M Kelly,1,0,,,,,,"",""
+ball,1,11.3,Thunder,DL Collins,E Threlkeld,M Kelly,1,0,,,,,,"",""
+ball,1,11.4,Thunder,E Threlkeld,DL Collins,M Kelly,4,0,,,,,,"",""
+ball,1,11.5,Thunder,E Threlkeld,DL Collins,M Kelly,1,0,,,,,,"",""
+ball,1,11.6,Thunder,DL Collins,E Threlkeld,M Kelly,1,0,,,,,,"",""
+ball,1,12.1,Thunder,DL Collins,E Threlkeld,J Groves,0,0,,,,,,"",""
+ball,1,12.2,Thunder,DL Collins,E Threlkeld,J Groves,1,0,,,,,,"",""
+ball,1,12.3,Thunder,E Threlkeld,DL Collins,J Groves,1,0,,,,,,"",""
+ball,1,12.4,Thunder,DL Collins,E Threlkeld,J Groves,4,0,,,,,,"",""
+ball,1,12.5,Thunder,DL Collins,E Threlkeld,J Groves,2,0,,,,,,"",""
+ball,1,12.6,Thunder,DL Collins,E Threlkeld,J Groves,1,0,,,,,,"",""
+ball,1,13.1,Thunder,DL Collins,E Threlkeld,LF Higham,0,0,,,,,,"",""
+ball,1,13.2,Thunder,DL Collins,E Threlkeld,LF Higham,4,0,,,,,,"",""
+ball,1,13.3,Thunder,DL Collins,E Threlkeld,LF Higham,0,0,,,,,,"",""
+ball,1,13.4,Thunder,DL Collins,E Threlkeld,LF Higham,1,0,,,,,,"",""
+ball,1,13.5,Thunder,E Threlkeld,DL Collins,LF Higham,0,0,,,,,,caught,E Threlkeld
+ball,1,13.6,Thunder,A Lister,DL Collins,LF Higham,1,0,,,,,,"",""
+ball,1,14.1,Thunder,A Lister,DL Collins,KE Bryce,0,0,,,,,,"",""
+ball,1,14.2,Thunder,A Lister,DL Collins,KE Bryce,1,0,,,,,,"",""
+ball,1,14.3,Thunder,DL Collins,A Lister,KE Bryce,0,0,,,,,,"",""
+ball,1,14.4,Thunder,DL Collins,A Lister,KE Bryce,0,0,,,,,,"",""
+ball,1,14.5,Thunder,DL Collins,A Lister,KE Bryce,1,0,,,,,,"",""
+ball,1,14.6,Thunder,A Lister,DL Collins,KE Bryce,1,0,,,,,,"",""
+ball,1,15.1,Thunder,A Lister,DL Collins,LF Higham,1,0,,,,,,"",""
+ball,1,15.2,Thunder,DL Collins,A Lister,LF Higham,0,0,,,,,,"",""
+ball,1,15.3,Thunder,DL Collins,A Lister,LF Higham,0,2,,,,2,,"",""
+ball,1,15.4,Thunder,DL Collins,A Lister,LF Higham,1,0,,,,,,"",""
+ball,1,15.5,Thunder,A Lister,DL Collins,LF Higham,0,0,,,,,,caught,A Lister
+ball,1,15.6,Thunder,S Ecclestone,DL Collins,LF Higham,0,0,,,,,,"",""
+ball,1,16.1,Thunder,DL Collins,S Ecclestone,G Ballinger,1,1,,1,,,,"",""
+ball,1,16.2,Thunder,S Ecclestone,DL Collins,G Ballinger,1,0,,,,,,"",""
+ball,1,16.3,Thunder,DL Collins,S Ecclestone,G Ballinger,1,0,,,,,,"",""
+ball,1,16.4,Thunder,S Ecclestone,DL Collins,G Ballinger,1,0,,,,,,"",""
+ball,1,16.5,Thunder,DL Collins,S Ecclestone,G Ballinger,1,0,,,,,,"",""
+ball,1,16.6,Thunder,S Ecclestone,DL Collins,G Ballinger,0,0,,,,,,"",""
+ball,1,16.7,Thunder,S Ecclestone,DL Collins,G Ballinger,0,0,,,,,,"",""
+ball,1,17.1,Thunder,DL Collins,S Ecclestone,LF Higham,0,0,,,,,,stumped,DL Collins
+ball,1,17.2,Thunder,KL Cross,S Ecclestone,LF Higham,1,0,,,,,,"",""
+ball,1,17.3,Thunder,S Ecclestone,KL Cross,LF Higham,1,0,,,,,,"",""
+ball,1,17.4,Thunder,KL Cross,S Ecclestone,LF Higham,1,0,,,,,,"",""
+ball,1,17.5,Thunder,S Ecclestone,KL Cross,LF Higham,1,0,,,,,,"",""
+ball,1,17.6,Thunder,KL Cross,S Ecclestone,LF Higham,2,0,,,,,,"",""
+ball,1,18.1,Thunder,S Ecclestone,KL Cross,KE Bryce,0,0,,,,,,"",""
+ball,1,18.2,Thunder,S Ecclestone,KL Cross,KE Bryce,4,0,,,,,,"",""
+ball,1,18.3,Thunder,S Ecclestone,KL Cross,KE Bryce,2,0,,,,,,"",""
+ball,1,18.4,Thunder,S Ecclestone,KL Cross,KE Bryce,6,0,,,,,,"",""
+ball,1,18.5,Thunder,S Ecclestone,KL Cross,KE Bryce,1,0,,,,,,"",""
+ball,1,18.6,Thunder,KL Cross,S Ecclestone,KE Bryce,4,0,,,,,,"",""
+ball,1,19.1,Thunder,S Ecclestone,KL Cross,KL Gordon,2,0,,,,,,"",""
+ball,1,19.2,Thunder,S Ecclestone,KL Cross,KL Gordon,1,0,,,,,,"",""
+ball,1,19.3,Thunder,KL Cross,S Ecclestone,KL Gordon,0,0,,,,,,stumped,KL Cross
+ball,1,19.4,Thunder,TG Norris,S Ecclestone,KL Gordon,1,0,,,,,,"",""
+ball,1,19.5,Thunder,S Ecclestone,TG Norris,KL Gordon,0,0,,,,,,bowled,S Ecclestone
+ball,1,19.6,Thunder,PC Graham,TG Norris,KL Gordon,0,0,,,,,,stumped,PC Graham
+ball,2,0.1,The Blaze,TT Beaumont,T Graves,TG Norris,4,0,,,,,,"",""
+ball,2,0.2,The Blaze,TT Beaumont,T Graves,TG Norris,0,1,1,,,,,"",""
+ball,2,0.3,The Blaze,TT Beaumont,T Graves,TG Norris,0,1,,,,1,,"",""
+ball,2,0.4,The Blaze,T Graves,TT Beaumont,TG Norris,1,0,,,,,,"",""
+ball,2,0.5,The Blaze,TT Beaumont,T Graves,TG Norris,0,0,,,,,,"",""
+ball,2,0.6,The Blaze,TT Beaumont,T Graves,TG Norris,1,0,,,,,,"",""
+ball,2,0.7,The Blaze,T Graves,TT Beaumont,TG Norris,4,0,,,,,,"",""
+ball,2,1.1,The Blaze,TT Beaumont,T Graves,KL Cross,0,0,,,,,,"",""
+ball,2,1.2,The Blaze,TT Beaumont,T Graves,KL Cross,0,0,,,,,,"",""
+ball,2,1.3,The Blaze,TT Beaumont,T Graves,KL Cross,0,0,,,,,,"",""
+ball,2,1.4,The Blaze,TT Beaumont,T Graves,KL Cross,1,0,,,,,,"",""
+ball,2,1.5,The Blaze,T Graves,TT Beaumont,KL Cross,0,0,,,,,,"",""
+ball,2,1.6,The Blaze,T Graves,TT Beaumont,KL Cross,0,0,,,,,,"",""
+ball,2,2.1,The Blaze,TT Beaumont,T Graves,S Ecclestone,4,0,,,,,,"",""
+ball,2,2.2,The Blaze,TT Beaumont,T Graves,S Ecclestone,0,0,,,,,,"",""
+ball,2,2.3,The Blaze,TT Beaumont,T Graves,S Ecclestone,0,0,,,,,,"",""
+ball,2,2.4,The Blaze,TT Beaumont,T Graves,S Ecclestone,1,0,,,,,,"",""
+ball,2,2.5,The Blaze,T Graves,TT Beaumont,S Ecclestone,0,1,,,,1,,"",""
+ball,2,2.6,The Blaze,TT Beaumont,T Graves,S Ecclestone,2,0,,,,,,"",""
+ball,2,3.1,The Blaze,T Graves,TT Beaumont,KL Cross,1,0,,,,,,"",""
+ball,2,3.2,The Blaze,TT Beaumont,T Graves,KL Cross,1,0,,,,,,"",""
+ball,2,3.3,The Blaze,T Graves,TT Beaumont,KL Cross,2,0,,,,,,"",""
+ball,2,3.4,The Blaze,T Graves,TT Beaumont,KL Cross,2,0,,,,,,"",""
+ball,2,3.5,The Blaze,T Graves,TT Beaumont,KL Cross,2,0,,,,,,"",""
+ball,2,3.6,The Blaze,T Graves,TT Beaumont,KL Cross,1,1,,1,,,,"",""
+ball,2,3.7,The Blaze,TT Beaumont,T Graves,KL Cross,0,0,,,,,,"",""
+ball,2,4.1,The Blaze,T Graves,TT Beaumont,S Morris,0,1,,,,1,,"",""
+ball,2,4.2,The Blaze,TT Beaumont,T Graves,S Morris,1,0,,,,,,"",""
+ball,2,4.3,The Blaze,T Graves,TT Beaumont,S Morris,0,0,,,,,,"",""
+ball,2,4.4,The Blaze,T Graves,TT Beaumont,S Morris,2,0,,,,,,"",""
+ball,2,4.5,The Blaze,T Graves,TT Beaumont,S Morris,4,0,,,,,,"",""
+ball,2,4.6,The Blaze,T Graves,TT Beaumont,S Morris,1,0,,,,,,"",""
+ball,2,5.1,The Blaze,T Graves,TT Beaumont,PC Graham,0,1,,1,,,,"",""
+ball,2,5.2,The Blaze,T Graves,TT Beaumont,PC Graham,0,0,,,,,,"",""
+ball,2,5.3,The Blaze,T Graves,TT Beaumont,PC Graham,4,0,,,,,,"",""
+ball,2,5.4,The Blaze,T Graves,TT Beaumont,PC Graham,0,0,,,,,,"",""
+ball,2,5.5,The Blaze,T Graves,TT Beaumont,PC Graham,0,0,,,,,,"",""
+ball,2,5.6,The Blaze,T Graves,TT Beaumont,PC Graham,1,0,,,,,,"",""
+ball,2,5.7,The Blaze,TT Beaumont,T Graves,PC Graham,0,0,,,,,,"",""
+ball,2,6.1,The Blaze,T Graves,TT Beaumont,S Morris,0,0,,,,,,"",""
+ball,2,6.2,The Blaze,T Graves,TT Beaumont,S Morris,4,0,,,,,,"",""
+ball,2,6.3,The Blaze,T Graves,TT Beaumont,S Morris,0,0,,,,,,caught,T Graves
+ball,2,6.4,The Blaze,KE Bryce,TT Beaumont,S Morris,1,0,,,,,,"",""
+ball,2,6.5,The Blaze,TT Beaumont,KE Bryce,S Morris,2,0,,,,,,"",""
+ball,2,6.6,The Blaze,TT Beaumont,KE Bryce,S Morris,0,0,,,,,,"",""
+ball,2,7.1,The Blaze,KE Bryce,TT Beaumont,FMK Morris,1,0,,,,,,"",""
+ball,2,7.2,The Blaze,TT Beaumont,KE Bryce,FMK Morris,1,0,,,,,,"",""
+ball,2,7.3,The Blaze,KE Bryce,TT Beaumont,FMK Morris,1,0,,,,,,"",""
+ball,2,7.4,The Blaze,TT Beaumont,KE Bryce,FMK Morris,0,0,,,,,,"",""
+ball,2,7.5,The Blaze,TT Beaumont,KE Bryce,FMK Morris,1,0,,,,,,"",""
+ball,2,7.6,The Blaze,KE Bryce,TT Beaumont,FMK Morris,0,0,,,,,,"",""
+ball,2,8.1,The Blaze,TT Beaumont,KE Bryce,S Ecclestone,0,0,,,,,,"",""
+ball,2,8.2,The Blaze,TT Beaumont,KE Bryce,S Ecclestone,1,0,,,,,,"",""
+ball,2,8.3,The Blaze,KE Bryce,TT Beaumont,S Ecclestone,2,0,,,,,,"",""
+ball,2,8.4,The Blaze,KE Bryce,TT Beaumont,S Ecclestone,4,0,,,,,,"",""
+ball,2,8.5,The Blaze,KE Bryce,TT Beaumont,S Ecclestone,0,4,,,4,,,"",""
+ball,2,8.6,The Blaze,KE Bryce,TT Beaumont,S Ecclestone,0,0,,,,,,"",""
+ball,2,9.1,The Blaze,TT Beaumont,KE Bryce,FMK Morris,1,0,,,,,,"",""
+ball,2,9.2,The Blaze,KE Bryce,TT Beaumont,FMK Morris,1,0,,,,,,"",""
+ball,2,9.3,The Blaze,TT Beaumont,KE Bryce,FMK Morris,0,1,1,,,,,"",""
+ball,2,9.4,The Blaze,TT Beaumont,KE Bryce,FMK Morris,0,0,,,,,,"",""
+ball,2,9.5,The Blaze,TT Beaumont,KE Bryce,FMK Morris,0,0,,,,,,"",""
+ball,2,9.6,The Blaze,TT Beaumont,KE Bryce,FMK Morris,1,0,,,,,,"",""
+ball,2,9.7,The Blaze,KE Bryce,TT Beaumont,FMK Morris,1,0,,,,,,"",""
+ball,2,10.1,The Blaze,KE Bryce,TT Beaumont,S Morris,0,1,1,,,,,"",""
+ball,2,10.2,The Blaze,KE Bryce,TT Beaumont,S Morris,0,0,,,,,,"",""
+ball,2,10.3,The Blaze,KE Bryce,TT Beaumont,S Morris,0,0,,,,,,"",""
+ball,2,10.4,The Blaze,KE Bryce,TT Beaumont,S Morris,4,0,,,,,,"",""
+ball,2,10.5,The Blaze,KE Bryce,TT Beaumont,S Morris,4,0,,,,,,"",""
+ball,2,10.6,The Blaze,KE Bryce,TT Beaumont,S Morris,0,0,,,,,,"",""
+ball,2,10.7,The Blaze,KE Bryce,TT Beaumont,S Morris,2,0,,,,,,"",""
+ball,2,11.1,The Blaze,TT Beaumont,KE Bryce,FMK Morris,0,0,,,,,,"",""
+ball,2,11.2,The Blaze,TT Beaumont,KE Bryce,FMK Morris,0,1,,1,,,,"",""
+ball,2,11.3,The Blaze,TT Beaumont,KE Bryce,FMK Morris,0,0,,,,,,"",""
+ball,2,11.4,The Blaze,TT Beaumont,KE Bryce,FMK Morris,0,0,,,,,,"",""
+ball,2,11.5,The Blaze,TT Beaumont,KE Bryce,FMK Morris,1,0,,,,,,"",""
+ball,2,11.6,The Blaze,KE Bryce,TT Beaumont,FMK Morris,0,0,,,,,,caught,KE Bryce
+ball,2,11.7,The Blaze,SJ Bryce,TT Beaumont,FMK Morris,2,0,,,,,,"",""
+ball,2,12.1,The Blaze,TT Beaumont,SJ Bryce,S Ecclestone,0,0,,,,,,"",""
+ball,2,12.2,The Blaze,TT Beaumont,SJ Bryce,S Ecclestone,1,0,,,,,,"",""
+ball,2,12.3,The Blaze,SJ Bryce,TT Beaumont,S Ecclestone,0,2,,,,2,,"",""
+ball,2,12.4,The Blaze,SJ Bryce,TT Beaumont,S Ecclestone,4,0,,,,,,"",""
+ball,2,12.5,The Blaze,SJ Bryce,TT Beaumont,S Ecclestone,0,0,,,,,,"",""
+ball,2,12.6,The Blaze,SJ Bryce,TT Beaumont,S Ecclestone,0,0,,,,,,"",""
+ball,2,13.1,The Blaze,TT Beaumont,SJ Bryce,FMK Morris,2,0,,,,,,"",""
+ball,2,13.2,The Blaze,TT Beaumont,SJ Bryce,FMK Morris,0,0,,,,,,"",""
+ball,2,13.3,The Blaze,TT Beaumont,SJ Bryce,FMK Morris,1,0,,,,,,"",""
+ball,2,13.4,The Blaze,SJ Bryce,TT Beaumont,FMK Morris,1,0,,,,,,"",""
+ball,2,13.5,The Blaze,TT Beaumont,SJ Bryce,FMK Morris,0,0,,,,,,"",""
+ball,2,13.6,The Blaze,TT Beaumont,SJ Bryce,FMK Morris,1,0,,,,,,"",""
+ball,2,14.1,The Blaze,TT Beaumont,SJ Bryce,S Ecclestone,2,0,,,,,,"",""
+ball,2,14.2,The Blaze,TT Beaumont,SJ Bryce,S Ecclestone,1,0,,,,,,"",""
+ball,2,14.3,The Blaze,SJ Bryce,TT Beaumont,S Ecclestone,1,0,,,,,,"",""
+ball,2,14.4,The Blaze,TT Beaumont,SJ Bryce,S Ecclestone,2,0,,,,,,"",""
+ball,2,14.5,The Blaze,TT Beaumont,SJ Bryce,S Ecclestone,0,1,,,,1,,"",""
+ball,2,14.6,The Blaze,SJ Bryce,TT Beaumont,S Ecclestone,0,0,,,,,,"",""
+ball,2,15.1,The Blaze,TT Beaumont,SJ Bryce,KL Cross,1,0,,,,,,"",""
+ball,2,15.2,The Blaze,SJ Bryce,TT Beaumont,KL Cross,0,0,,,,,,caught,SJ Bryce
+ball,2,15.3,The Blaze,N de Klerk,TT Beaumont,KL Cross,0,0,,,,,,"",""
+ball,2,15.4,The Blaze,N de Klerk,TT Beaumont,KL Cross,4,0,,,,,,"",""

@@ -1,0 +1,265 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Welsh Fire
+info,team,Oval Invincibles
+info,gender,male
+info,season,2021
+info,date,2021/08/02
+info,event,The Hundred Men's Competition
+info,match_number,16
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Oval Invincibles
+info,toss_decision,field
+info,player_of_match,SW Billings
+info,umpire,AG Wharf
+info,umpire,NA Mallender
+info,reserve_umpire,GD Lloyd
+info,tv_umpire,PK Baldwin
+info,match_referee,Wayne Noon
+info,winner,Oval Invincibles
+info,winner_wickets,6
+info,player,Welsh Fire,T Banton
+info,player,Welsh Fire,JJ Cobb
+info,player,Welsh Fire,BM Duckett
+info,player,Welsh Fire,GD Phillips
+info,player,Welsh Fire,JL du Plooy
+info,player,Welsh Fire,JDS Neesham
+info,player,Welsh Fire,MJJ Critchley
+info,player,Welsh Fire,RF Higgins
+info,player,Welsh Fire,Qais Ahmad
+info,player,Welsh Fire,DA Payne
+info,player,Welsh Fire,ME Milnes
+info,player,Oval Invincibles,JJ Roy
+info,player,Oval Invincibles,WG Jacks
+info,player,Oval Invincibles,SP Narine
+info,player,Oval Invincibles,SW Billings
+info,player,Oval Invincibles,CA Ingram
+info,player,Oval Invincibles,LJ Evans
+info,player,Oval Invincibles,J Clark
+info,player,Oval Invincibles,TK Curran
+info,player,Oval Invincibles,T Shamsi
+info,player,Oval Invincibles,RJW Topley
+info,player,Oval Invincibles,S Mahmood
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CA Ingram,c995d726
+info,registry,people,DA Payne,6c79c098
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,J Clark,c672e80e
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SW Billings,c16d4035
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TK Curran,e86754b2
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,Wayne Noon,736e1761
+ball,1,0.1,Welsh Fire,T Banton,JJ Cobb,RJW Topley,1,0,,,,,,"",""
+ball,1,0.2,Welsh Fire,JJ Cobb,T Banton,RJW Topley,0,0,,,,,,"",""
+ball,1,0.3,Welsh Fire,JJ Cobb,T Banton,RJW Topley,0,0,,,,,,"",""
+ball,1,0.4,Welsh Fire,JJ Cobb,T Banton,RJW Topley,6,0,,,,,,"",""
+ball,1,0.5,Welsh Fire,JJ Cobb,T Banton,RJW Topley,4,0,,,,,,"",""
+ball,1,1.1,Welsh Fire,JJ Cobb,T Banton,S Mahmood,0,0,,,,,,"",""
+ball,1,1.2,Welsh Fire,JJ Cobb,T Banton,S Mahmood,0,1,,,,1,,"",""
+ball,1,1.3,Welsh Fire,T Banton,JJ Cobb,S Mahmood,0,4,,,4,,,"",""
+ball,1,1.4,Welsh Fire,T Banton,JJ Cobb,S Mahmood,1,0,,,,,,"",""
+ball,1,1.5,Welsh Fire,JJ Cobb,T Banton,S Mahmood,2,0,,,,,,"",""
+ball,1,2.1,Welsh Fire,T Banton,JJ Cobb,RJW Topley,0,0,,,,,,caught,T Banton
+ball,1,2.2,Welsh Fire,BM Duckett,JJ Cobb,RJW Topley,0,0,,,,,,run out,JJ Cobb
+ball,1,2.3,Welsh Fire,BM Duckett,GD Phillips,RJW Topley,1,0,,,,,,"",""
+ball,1,2.4,Welsh Fire,GD Phillips,BM Duckett,RJW Topley,0,0,,,,,,"",""
+ball,1,2.5,Welsh Fire,GD Phillips,BM Duckett,RJW Topley,1,0,,,,,,"",""
+ball,1,3.1,Welsh Fire,BM Duckett,GD Phillips,TK Curran,0,0,,,,,,"",""
+ball,1,3.2,Welsh Fire,BM Duckett,GD Phillips,TK Curran,4,0,,,,,,"",""
+ball,1,3.3,Welsh Fire,BM Duckett,GD Phillips,TK Curran,2,0,,,,,,"",""
+ball,1,3.4,Welsh Fire,BM Duckett,GD Phillips,TK Curran,0,0,,,,,,"",""
+ball,1,3.5,Welsh Fire,BM Duckett,GD Phillips,TK Curran,1,0,,,,,,"",""
+ball,1,4.1,Welsh Fire,BM Duckett,GD Phillips,S Mahmood,0,0,,,,,,"",""
+ball,1,4.2,Welsh Fire,BM Duckett,GD Phillips,S Mahmood,4,0,,,,,,"",""
+ball,1,4.3,Welsh Fire,BM Duckett,GD Phillips,S Mahmood,0,0,,,,,,"",""
+ball,1,4.4,Welsh Fire,BM Duckett,GD Phillips,S Mahmood,1,0,,,,,,"",""
+ball,1,4.5,Welsh Fire,GD Phillips,BM Duckett,S Mahmood,0,0,,,,,,"",""
+ball,1,5.1,Welsh Fire,GD Phillips,BM Duckett,T Shamsi,1,0,,,,,,"",""
+ball,1,5.2,Welsh Fire,BM Duckett,GD Phillips,T Shamsi,1,0,,,,,,"",""
+ball,1,5.3,Welsh Fire,GD Phillips,BM Duckett,T Shamsi,2,0,,,,,,"",""
+ball,1,5.4,Welsh Fire,GD Phillips,BM Duckett,T Shamsi,1,0,,,,,,"",""
+ball,1,5.5,Welsh Fire,BM Duckett,GD Phillips,T Shamsi,1,0,,,,,,"",""
+ball,1,6.1,Welsh Fire,BM Duckett,GD Phillips,SP Narine,2,0,,,,,,"",""
+ball,1,6.2,Welsh Fire,BM Duckett,GD Phillips,SP Narine,1,0,,,,,,"",""
+ball,1,6.3,Welsh Fire,GD Phillips,BM Duckett,SP Narine,0,0,,,,,,"",""
+ball,1,6.4,Welsh Fire,GD Phillips,BM Duckett,SP Narine,1,0,,,,,,"",""
+ball,1,6.5,Welsh Fire,BM Duckett,GD Phillips,SP Narine,0,0,,,,,,"",""
+ball,1,7.1,Welsh Fire,BM Duckett,GD Phillips,SP Narine,1,0,,,,,,"",""
+ball,1,7.2,Welsh Fire,GD Phillips,BM Duckett,SP Narine,1,0,,,,,,"",""
+ball,1,7.3,Welsh Fire,BM Duckett,GD Phillips,SP Narine,0,0,,,,,,"",""
+ball,1,7.4,Welsh Fire,BM Duckett,GD Phillips,SP Narine,2,0,,,,,,"",""
+ball,1,7.5,Welsh Fire,BM Duckett,GD Phillips,SP Narine,4,0,,,,,,"",""
+ball,1,8.1,Welsh Fire,GD Phillips,BM Duckett,T Shamsi,1,0,,,,,,"",""
+ball,1,8.2,Welsh Fire,BM Duckett,GD Phillips,T Shamsi,1,0,,,,,,"",""
+ball,1,8.3,Welsh Fire,GD Phillips,BM Duckett,T Shamsi,0,0,,,,,,bowled,GD Phillips
+ball,1,8.4,Welsh Fire,JL du Plooy,BM Duckett,T Shamsi,0,1,,,1,,,"",""
+ball,1,8.5,Welsh Fire,BM Duckett,JL du Plooy,T Shamsi,1,0,,,,,,"",""
+ball,1,9.1,Welsh Fire,JL du Plooy,BM Duckett,T Shamsi,1,0,,,,,,"",""
+ball,1,9.2,Welsh Fire,BM Duckett,JL du Plooy,T Shamsi,0,0,,,,,,"",""
+ball,1,9.3,Welsh Fire,BM Duckett,JL du Plooy,T Shamsi,0,0,,,,,,"",""
+ball,1,9.4,Welsh Fire,BM Duckett,JL du Plooy,T Shamsi,1,0,,,,,,"",""
+ball,1,9.5,Welsh Fire,JL du Plooy,BM Duckett,T Shamsi,4,0,,,,,,"",""
+ball,1,10.1,Welsh Fire,BM Duckett,JL du Plooy,WG Jacks,4,0,,,,,,"",""
+ball,1,10.2,Welsh Fire,BM Duckett,JL du Plooy,WG Jacks,1,0,,,,,,"",""
+ball,1,10.3,Welsh Fire,JL du Plooy,BM Duckett,WG Jacks,1,0,,,,,,"",""
+ball,1,10.4,Welsh Fire,BM Duckett,JL du Plooy,WG Jacks,0,0,,,,,,"",""
+ball,1,10.5,Welsh Fire,BM Duckett,JL du Plooy,WG Jacks,1,0,,,,,,"",""
+ball,1,11.1,Welsh Fire,JL du Plooy,BM Duckett,SP Narine,1,0,,,,,,"",""
+ball,1,11.2,Welsh Fire,BM Duckett,JL du Plooy,SP Narine,1,0,,,,,,"",""
+ball,1,11.3,Welsh Fire,JL du Plooy,BM Duckett,SP Narine,1,0,,,,,,"",""
+ball,1,11.4,Welsh Fire,BM Duckett,JL du Plooy,SP Narine,0,0,,,,,,"",""
+ball,1,11.5,Welsh Fire,BM Duckett,JL du Plooy,SP Narine,2,0,,,,,,"",""
+ball,1,12.1,Welsh Fire,JL du Plooy,BM Duckett,S Mahmood,2,0,,,,,,"",""
+ball,1,12.2,Welsh Fire,JL du Plooy,BM Duckett,S Mahmood,1,0,,,,,,"",""
+ball,1,12.3,Welsh Fire,BM Duckett,JL du Plooy,S Mahmood,4,0,,,,,,"",""
+ball,1,12.4,Welsh Fire,BM Duckett,JL du Plooy,S Mahmood,4,0,,,,,,"",""
+ball,1,12.5,Welsh Fire,BM Duckett,JL du Plooy,S Mahmood,1,0,,,,,,"",""
+ball,1,13.1,Welsh Fire,JL du Plooy,BM Duckett,T Shamsi,1,0,,,,,,"",""
+ball,1,13.2,Welsh Fire,BM Duckett,JL du Plooy,T Shamsi,0,0,,,,,,"",""
+ball,1,13.3,Welsh Fire,BM Duckett,JL du Plooy,T Shamsi,1,0,,,,,,"",""
+ball,1,13.4,Welsh Fire,JL du Plooy,BM Duckett,T Shamsi,4,0,,,,,,"",""
+ball,1,13.5,Welsh Fire,JL du Plooy,BM Duckett,T Shamsi,1,0,,,,,,"",""
+ball,1,14.1,Welsh Fire,JL du Plooy,BM Duckett,TK Curran,0,0,,,,,,caught,JL du Plooy
+ball,1,14.2,Welsh Fire,JDS Neesham,BM Duckett,TK Curran,0,0,,,,,,caught,JDS Neesham
+ball,1,14.3,Welsh Fire,MJJ Critchley,BM Duckett,TK Curran,0,0,,,,,,"",""
+ball,1,14.4,Welsh Fire,MJJ Critchley,BM Duckett,TK Curran,0,2,,2,,,,"",""
+ball,1,14.5,Welsh Fire,MJJ Critchley,BM Duckett,TK Curran,1,0,,,,,,"",""
+ball,1,14.6,Welsh Fire,BM Duckett,MJJ Critchley,TK Curran,0,0,,,,,,"",""
+ball,1,15.1,Welsh Fire,BM Duckett,MJJ Critchley,RJW Topley,0,0,,,,,,"",""
+ball,1,15.2,Welsh Fire,BM Duckett,MJJ Critchley,RJW Topley,0,1,,,,1,,"",""
+ball,1,15.3,Welsh Fire,MJJ Critchley,BM Duckett,RJW Topley,0,0,,,,,,"",""
+ball,1,15.4,Welsh Fire,MJJ Critchley,BM Duckett,RJW Topley,0,0,,,,,,"",""
+ball,1,15.5,Welsh Fire,MJJ Critchley,BM Duckett,RJW Topley,1,0,,,,,,"",""
+ball,1,16.1,Welsh Fire,MJJ Critchley,BM Duckett,SP Narine,0,0,,,,,,"",""
+ball,1,16.2,Welsh Fire,MJJ Critchley,BM Duckett,SP Narine,0,0,,,,,,"",""
+ball,1,16.3,Welsh Fire,MJJ Critchley,BM Duckett,SP Narine,0,0,,,,,,"",""
+ball,1,16.4,Welsh Fire,MJJ Critchley,BM Duckett,SP Narine,1,0,,,,,,"",""
+ball,1,16.5,Welsh Fire,BM Duckett,MJJ Critchley,SP Narine,1,0,,,,,,"",""
+ball,1,17.1,Welsh Fire,MJJ Critchley,BM Duckett,S Mahmood,0,0,,,,,,"",""
+ball,1,17.2,Welsh Fire,MJJ Critchley,BM Duckett,S Mahmood,0,0,,,,,,caught,MJJ Critchley
+ball,1,17.3,Welsh Fire,RF Higgins,BM Duckett,S Mahmood,1,0,,,,,,"",""
+ball,1,17.4,Welsh Fire,BM Duckett,RF Higgins,S Mahmood,1,0,,,,,,"",""
+ball,1,17.5,Welsh Fire,RF Higgins,BM Duckett,S Mahmood,1,0,,,,,,"",""
+ball,1,18.1,Welsh Fire,RF Higgins,BM Duckett,TK Curran,1,0,,,,,,"",""
+ball,1,18.2,Welsh Fire,BM Duckett,RF Higgins,TK Curran,0,0,,,,,,"",""
+ball,1,18.3,Welsh Fire,BM Duckett,RF Higgins,TK Curran,2,0,,,,,,"",""
+ball,1,18.4,Welsh Fire,BM Duckett,RF Higgins,TK Curran,0,0,,,,,,"",""
+ball,1,18.5,Welsh Fire,BM Duckett,RF Higgins,TK Curran,0,0,,,,,,"",""
+ball,1,19.1,Welsh Fire,BM Duckett,RF Higgins,TK Curran,6,0,,,,,,"",""
+ball,1,19.2,Welsh Fire,BM Duckett,RF Higgins,TK Curran,0,2,,2,,,,"",""
+ball,1,19.3,Welsh Fire,BM Duckett,RF Higgins,TK Curran,4,0,,,,,,"",""
+ball,1,19.4,Welsh Fire,BM Duckett,RF Higgins,TK Curran,2,0,,,,,,"",""
+ball,1,19.5,Welsh Fire,BM Duckett,RF Higgins,TK Curran,2,0,,,,,,"",""
+ball,1,19.6,Welsh Fire,BM Duckett,RF Higgins,TK Curran,0,0,,,,,,caught,BM Duckett
+ball,2,0.1,Oval Invincibles,JJ Roy,WG Jacks,DA Payne,0,0,,,,,,"",""
+ball,2,0.2,Oval Invincibles,JJ Roy,WG Jacks,DA Payne,0,0,,,,,,"",""
+ball,2,0.3,Oval Invincibles,JJ Roy,WG Jacks,DA Payne,4,0,,,,,,"",""
+ball,2,0.4,Oval Invincibles,JJ Roy,WG Jacks,DA Payne,0,0,,,,,,"",""
+ball,2,0.5,Oval Invincibles,JJ Roy,WG Jacks,DA Payne,4,0,,,,,,"",""
+ball,2,1.1,Oval Invincibles,JJ Roy,WG Jacks,ME Milnes,0,0,,,,,,caught,JJ Roy
+ball,2,1.2,Oval Invincibles,SP Narine,WG Jacks,ME Milnes,0,0,,,,,,"",""
+ball,2,1.3,Oval Invincibles,SP Narine,WG Jacks,ME Milnes,0,0,,,,,,"",""
+ball,2,1.4,Oval Invincibles,SP Narine,WG Jacks,ME Milnes,0,0,,,,,,"",""
+ball,2,1.5,Oval Invincibles,SP Narine,WG Jacks,ME Milnes,4,0,,,,,,"",""
+ball,2,2.1,Oval Invincibles,WG Jacks,SP Narine,DA Payne,4,0,,,,,,"",""
+ball,2,2.2,Oval Invincibles,WG Jacks,SP Narine,DA Payne,1,0,,,,,,"",""
+ball,2,2.3,Oval Invincibles,SP Narine,WG Jacks,DA Payne,6,0,,,,,,"",""
+ball,2,2.4,Oval Invincibles,SP Narine,WG Jacks,DA Payne,0,0,,,,,,"",""
+ball,2,2.5,Oval Invincibles,SP Narine,WG Jacks,DA Payne,2,0,,,,,,"",""
+ball,2,3.1,Oval Invincibles,SP Narine,WG Jacks,ME Milnes,1,0,,,,,,"",""
+ball,2,3.2,Oval Invincibles,WG Jacks,SP Narine,ME Milnes,0,0,,,,,,"",""
+ball,2,3.3,Oval Invincibles,WG Jacks,SP Narine,ME Milnes,4,0,,,,,,"",""
+ball,2,3.4,Oval Invincibles,WG Jacks,SP Narine,ME Milnes,1,0,,,,,,"",""
+ball,2,3.5,Oval Invincibles,SP Narine,WG Jacks,ME Milnes,6,0,,,,,,"",""
+ball,2,4.1,Oval Invincibles,WG Jacks,SP Narine,JDS Neesham,0,0,,,,,,"",""
+ball,2,4.2,Oval Invincibles,WG Jacks,SP Narine,JDS Neesham,6,0,,,,,,"",""
+ball,2,4.3,Oval Invincibles,WG Jacks,SP Narine,JDS Neesham,4,0,,,,,,"",""
+ball,2,4.4,Oval Invincibles,WG Jacks,SP Narine,JDS Neesham,0,0,,,,,,caught,WG Jacks
+ball,2,4.5,Oval Invincibles,SW Billings,SP Narine,JDS Neesham,0,0,,,,,,"",""
+ball,2,5.1,Oval Invincibles,SW Billings,SP Narine,JDS Neesham,1,0,,,,,,"",""
+ball,2,5.2,Oval Invincibles,SP Narine,SW Billings,JDS Neesham,0,0,,,,,,"",""
+ball,2,5.3,Oval Invincibles,SP Narine,SW Billings,JDS Neesham,0,0,,,,,,caught,SP Narine
+ball,2,5.4,Oval Invincibles,CA Ingram,SW Billings,JDS Neesham,0,0,,,,,,"",""
+ball,2,5.5,Oval Invincibles,CA Ingram,SW Billings,JDS Neesham,1,0,,,,,,"",""
+ball,2,6.1,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,0,0,,,,,,"",""
+ball,2,6.2,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,0,0,,,,,,"",""
+ball,2,6.3,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,1,0,,,,,,"",""
+ball,2,6.4,Oval Invincibles,SW Billings,CA Ingram,Qais Ahmad,0,0,,,,,,"",""
+ball,2,6.5,Oval Invincibles,SW Billings,CA Ingram,Qais Ahmad,1,0,,,,,,"",""
+ball,2,7.1,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,1,0,,,,,,"",""
+ball,2,7.2,Oval Invincibles,SW Billings,CA Ingram,Qais Ahmad,1,0,,,,,,"",""
+ball,2,7.3,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,0,0,,,,,,"",""
+ball,2,7.4,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,0,0,,,,,,"",""
+ball,2,7.5,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,2,0,,,,,,"",""
+ball,2,8.1,Oval Invincibles,SW Billings,CA Ingram,ME Milnes,4,0,,,,,,"",""
+ball,2,8.2,Oval Invincibles,SW Billings,CA Ingram,ME Milnes,1,0,,,,,,"",""
+ball,2,8.3,Oval Invincibles,CA Ingram,SW Billings,ME Milnes,0,0,,,,,,"",""
+ball,2,8.4,Oval Invincibles,CA Ingram,SW Billings,ME Milnes,1,0,,,,,,"",""
+ball,2,8.5,Oval Invincibles,SW Billings,CA Ingram,ME Milnes,0,0,,,,,,"",""
+ball,2,9.1,Oval Invincibles,SW Billings,CA Ingram,MJJ Critchley,6,0,,,,,,"",""
+ball,2,9.2,Oval Invincibles,SW Billings,CA Ingram,MJJ Critchley,1,0,,,,,,"",""
+ball,2,9.3,Oval Invincibles,CA Ingram,SW Billings,MJJ Critchley,1,0,,,,,,"",""
+ball,2,9.4,Oval Invincibles,SW Billings,CA Ingram,MJJ Critchley,1,0,,,,,,"",""
+ball,2,9.5,Oval Invincibles,CA Ingram,SW Billings,MJJ Critchley,1,0,,,,,,"",""
+ball,2,10.1,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,0,0,,,,,,"",""
+ball,2,10.2,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,1,0,,,,,,"",""
+ball,2,10.3,Oval Invincibles,SW Billings,CA Ingram,Qais Ahmad,1,0,,,,,,"",""
+ball,2,10.4,Oval Invincibles,CA Ingram,SW Billings,Qais Ahmad,0,0,,,,,,lbw,CA Ingram
+ball,2,10.5,Oval Invincibles,LJ Evans,SW Billings,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.1,Oval Invincibles,LJ Evans,SW Billings,Qais Ahmad,1,0,,,,,,"",""
+ball,2,11.2,Oval Invincibles,SW Billings,LJ Evans,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.3,Oval Invincibles,SW Billings,LJ Evans,Qais Ahmad,2,0,,,,,,"",""
+ball,2,11.4,Oval Invincibles,SW Billings,LJ Evans,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.5,Oval Invincibles,SW Billings,LJ Evans,Qais Ahmad,1,0,,,,,,"",""
+ball,2,12.1,Oval Invincibles,SW Billings,LJ Evans,JDS Neesham,1,0,,,,,,"",""
+ball,2,12.2,Oval Invincibles,LJ Evans,SW Billings,JDS Neesham,0,1,,,,1,,"",""
+ball,2,12.3,Oval Invincibles,SW Billings,LJ Evans,JDS Neesham,0,0,,,,,,"",""
+ball,2,12.4,Oval Invincibles,SW Billings,LJ Evans,JDS Neesham,1,0,,,,,,"",""
+ball,2,12.5,Oval Invincibles,LJ Evans,SW Billings,JDS Neesham,1,0,,,,,,"",""
+ball,2,13.1,Oval Invincibles,SW Billings,LJ Evans,DA Payne,1,0,,,,,,"",""
+ball,2,13.2,Oval Invincibles,LJ Evans,SW Billings,DA Payne,1,0,,,,,,"",""
+ball,2,13.3,Oval Invincibles,SW Billings,LJ Evans,DA Payne,0,0,,,,,,"",""
+ball,2,13.4,Oval Invincibles,SW Billings,LJ Evans,DA Payne,0,0,,,,,,"",""
+ball,2,13.5,Oval Invincibles,SW Billings,LJ Evans,DA Payne,0,0,,,,,,"",""
+ball,2,14.1,Oval Invincibles,LJ Evans,SW Billings,MJJ Critchley,1,0,,,,,,"",""
+ball,2,14.2,Oval Invincibles,SW Billings,LJ Evans,MJJ Critchley,1,0,,,,,,"",""
+ball,2,14.3,Oval Invincibles,LJ Evans,SW Billings,MJJ Critchley,0,0,,,,,,"",""
+ball,2,14.4,Oval Invincibles,LJ Evans,SW Billings,MJJ Critchley,1,0,,,,,,"",""
+ball,2,14.5,Oval Invincibles,SW Billings,LJ Evans,MJJ Critchley,2,0,,,,,,"",""
+ball,2,15.1,Oval Invincibles,SW Billings,LJ Evans,JDS Neesham,1,0,,,,,,"",""
+ball,2,15.2,Oval Invincibles,LJ Evans,SW Billings,JDS Neesham,1,0,,,,,,"",""
+ball,2,15.3,Oval Invincibles,SW Billings,LJ Evans,JDS Neesham,4,0,,,,,,"",""
+ball,2,15.4,Oval Invincibles,SW Billings,LJ Evans,JDS Neesham,1,0,,,,,,"",""
+ball,2,15.5,Oval Invincibles,LJ Evans,SW Billings,JDS Neesham,1,0,,,,,,"",""
+ball,2,16.1,Oval Invincibles,LJ Evans,SW Billings,RF Higgins,1,0,,,,,,"",""
+ball,2,16.2,Oval Invincibles,SW Billings,LJ Evans,RF Higgins,2,0,,,,,,"",""
+ball,2,16.3,Oval Invincibles,SW Billings,LJ Evans,RF Higgins,1,0,,,,,,"",""
+ball,2,16.4,Oval Invincibles,LJ Evans,SW Billings,RF Higgins,2,0,,,,,,"",""
+ball,2,16.5,Oval Invincibles,LJ Evans,SW Billings,RF Higgins,1,0,,,,,,"",""
+ball,2,17.1,Oval Invincibles,SW Billings,LJ Evans,ME Milnes,2,0,,,,,,"",""
+ball,2,17.2,Oval Invincibles,SW Billings,LJ Evans,ME Milnes,0,0,,,,,,"",""
+ball,2,17.3,Oval Invincibles,SW Billings,LJ Evans,ME Milnes,2,0,,,,,,"",""
+ball,2,17.4,Oval Invincibles,SW Billings,LJ Evans,ME Milnes,1,0,,,,,,"",""
+ball,2,17.5,Oval Invincibles,LJ Evans,SW Billings,ME Milnes,1,0,,,,,,"",""
+ball,2,18.1,Oval Invincibles,LJ Evans,SW Billings,DA Payne,4,0,,,,,,"",""
+ball,2,18.2,Oval Invincibles,LJ Evans,SW Billings,DA Payne,6,0,,,,,,"",""
+ball,2,18.3,Oval Invincibles,LJ Evans,SW Billings,DA Payne,6,0,,,,,,"",""

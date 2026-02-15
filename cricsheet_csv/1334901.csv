@@ -1,0 +1,274 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Boland
+info,gender,male
+info,season,2022/23
+info,date,2022/10/22
+info,event,CSA T20 Challenge
+info,match_number,11
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Boland
+info,toss_decision,field
+info,umpire,AM Sodumo
+info,umpire,PJ Vosloo
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,A Paleker
+info,match_referee,LH Matroos
+info,winner,Boland
+info,winner_wickets,7
+info,method,D/L
+info,player,Dolphins,G Roelofsen
+info,player,Dolphins,B Parsons
+info,player,Dolphins,JT Smuts
+info,player,Dolphins,TA Dithole
+info,player,Dolphins,K Zondo
+info,player,Dolphins,JF Smith
+info,player,Dolphins,A Simelane
+info,player,Dolphins,E Bosch
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,OEG Baartman
+info,player,Dolphins,DM Dupavillon
+info,player,Boland,JN Malan
+info,player,Boland,JL du Plooy
+info,player,Boland,SV Kitime
+info,player,Boland,C Fortuin
+info,player,Boland,F Behardien
+info,player,Boland,M Copeland
+info,player,Boland,FD Adams
+info,player,Boland,GC Viljoen
+info,player,Boland,S von Berg
+info,player,Boland,B Xenxe
+info,player,Boland,I Manack
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Simelane,ebb74564
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,B Parsons,fc60e81a
+info,registry,people,B Xenxe,94cdf850
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,F Behardien,dce2019b
+info,registry,people,FD Adams,f277f531
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,I Manack,5ec126fa
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JN Malan,f76d7466
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Copeland,9943b637
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,S von Berg,ffd3fc37
+info,registry,people,SV Kitime,9ca20359
+info,registry,people,TA Dithole,876bec53
+ball,1,0.1,Dolphins,G Roelofsen,B Parsons,GC Viljoen,0,0,,,,,,"",""
+ball,1,0.2,Dolphins,G Roelofsen,B Parsons,GC Viljoen,0,0,,,,,,"",""
+ball,1,0.3,Dolphins,G Roelofsen,B Parsons,GC Viljoen,0,0,,,,,,"",""
+ball,1,0.4,Dolphins,G Roelofsen,B Parsons,GC Viljoen,0,0,,,,,,"",""
+ball,1,0.5,Dolphins,G Roelofsen,B Parsons,GC Viljoen,0,0,,,,,,"",""
+ball,1,0.6,Dolphins,G Roelofsen,B Parsons,GC Viljoen,0,0,,,,,,"",""
+ball,1,1.1,Dolphins,B Parsons,G Roelofsen,FD Adams,0,0,,,,,,"",""
+ball,1,1.2,Dolphins,B Parsons,G Roelofsen,FD Adams,1,0,,,,,,"",""
+ball,1,1.3,Dolphins,G Roelofsen,B Parsons,FD Adams,2,0,,,,,,"",""
+ball,1,1.4,Dolphins,G Roelofsen,B Parsons,FD Adams,1,0,,,,,,"",""
+ball,1,1.5,Dolphins,B Parsons,G Roelofsen,FD Adams,0,0,,,,,,"",""
+ball,1,1.6,Dolphins,B Parsons,G Roelofsen,FD Adams,1,0,,,,,,"",""
+ball,1,2.1,Dolphins,B Parsons,G Roelofsen,GC Viljoen,0,1,1,,,,,"",""
+ball,1,2.2,Dolphins,B Parsons,G Roelofsen,GC Viljoen,0,0,,,,,,"",""
+ball,1,2.3,Dolphins,B Parsons,G Roelofsen,GC Viljoen,0,1,1,,,,,"",""
+ball,1,2.4,Dolphins,B Parsons,G Roelofsen,GC Viljoen,1,0,,,,,,"",""
+ball,1,2.5,Dolphins,G Roelofsen,B Parsons,GC Viljoen,0,0,,,,,,"",""
+ball,1,2.6,Dolphins,G Roelofsen,B Parsons,GC Viljoen,0,1,1,,,,,"",""
+ball,1,2.7,Dolphins,G Roelofsen,B Parsons,GC Viljoen,1,0,,,,,,"",""
+ball,1,2.8,Dolphins,B Parsons,G Roelofsen,GC Viljoen,1,0,,,,,,"",""
+ball,1,2.9,Dolphins,G Roelofsen,B Parsons,GC Viljoen,1,0,,,,,,"",""
+ball,1,3.1,Dolphins,G Roelofsen,B Parsons,FD Adams,2,0,,,,,,"",""
+ball,1,3.2,Dolphins,G Roelofsen,B Parsons,FD Adams,0,0,,,,,,"",""
+ball,1,3.3,Dolphins,G Roelofsen,B Parsons,FD Adams,4,0,,,,,,"",""
+ball,1,3.4,Dolphins,G Roelofsen,B Parsons,FD Adams,1,0,,,,,,"",""
+ball,1,3.5,Dolphins,B Parsons,G Roelofsen,FD Adams,1,0,,,,,,"",""
+ball,1,3.6,Dolphins,G Roelofsen,B Parsons,FD Adams,1,0,,,,,,"",""
+ball,1,4.1,Dolphins,G Roelofsen,B Parsons,I Manack,0,0,,,,,,"",""
+ball,1,4.2,Dolphins,G Roelofsen,B Parsons,I Manack,4,0,,,,,,"",""
+ball,1,4.3,Dolphins,G Roelofsen,B Parsons,I Manack,0,0,,,,,,"",""
+ball,1,4.4,Dolphins,G Roelofsen,B Parsons,I Manack,1,0,,,,,,"",""
+ball,1,4.5,Dolphins,B Parsons,G Roelofsen,I Manack,2,0,,,,,,"",""
+ball,1,4.6,Dolphins,B Parsons,G Roelofsen,I Manack,1,0,,,,,,"",""
+ball,1,5.1,Dolphins,B Parsons,G Roelofsen,B Xenxe,0,0,,,,,,caught,B Parsons
+ball,1,5.2,Dolphins,JT Smuts,G Roelofsen,B Xenxe,0,0,,,,,,"",""
+ball,1,5.3,Dolphins,JT Smuts,G Roelofsen,B Xenxe,0,0,,,,,,"",""
+ball,1,5.4,Dolphins,JT Smuts,G Roelofsen,B Xenxe,0,0,,,,,,bowled,JT Smuts
+ball,1,5.5,Dolphins,TA Dithole,G Roelofsen,B Xenxe,0,0,,,,,,"",""
+ball,1,5.6,Dolphins,TA Dithole,G Roelofsen,B Xenxe,1,0,,,,,,"",""
+ball,1,6.1,Dolphins,TA Dithole,G Roelofsen,I Manack,0,0,,,,,,"",""
+ball,1,6.2,Dolphins,TA Dithole,G Roelofsen,I Manack,1,0,,,,,,"",""
+ball,1,6.3,Dolphins,G Roelofsen,TA Dithole,I Manack,1,0,,,,,,"",""
+ball,1,6.4,Dolphins,TA Dithole,G Roelofsen,I Manack,0,0,,,,,,"",""
+ball,1,6.5,Dolphins,TA Dithole,G Roelofsen,I Manack,1,0,,,,,,"",""
+ball,1,6.6,Dolphins,G Roelofsen,TA Dithole,I Manack,4,0,,,,,,"",""
+ball,1,7.1,Dolphins,TA Dithole,G Roelofsen,B Xenxe,1,0,,,,,,"",""
+ball,1,7.2,Dolphins,G Roelofsen,TA Dithole,B Xenxe,4,0,,,,,,"",""
+ball,1,7.3,Dolphins,G Roelofsen,TA Dithole,B Xenxe,1,0,,,,,,"",""
+ball,1,7.4,Dolphins,TA Dithole,G Roelofsen,B Xenxe,0,0,,,,,,"",""
+ball,1,7.5,Dolphins,TA Dithole,G Roelofsen,B Xenxe,1,0,,,,,,"",""
+ball,1,7.6,Dolphins,G Roelofsen,TA Dithole,B Xenxe,1,0,,,,,,"",""
+ball,1,8.1,Dolphins,G Roelofsen,TA Dithole,I Manack,6,0,,,,,,"",""
+ball,1,8.2,Dolphins,G Roelofsen,TA Dithole,I Manack,4,0,,,,,,"",""
+ball,1,8.3,Dolphins,G Roelofsen,TA Dithole,I Manack,1,0,,,,,,"",""
+ball,1,8.4,Dolphins,TA Dithole,G Roelofsen,I Manack,2,0,,,,,,"",""
+ball,1,8.5,Dolphins,TA Dithole,G Roelofsen,I Manack,2,0,,,,,,"",""
+ball,1,8.6,Dolphins,TA Dithole,G Roelofsen,I Manack,1,0,,,,,,"",""
+ball,1,9.1,Dolphins,TA Dithole,G Roelofsen,S von Berg,0,0,,,,,,"",""
+ball,1,9.2,Dolphins,TA Dithole,G Roelofsen,S von Berg,1,0,,,,,,"",""
+ball,1,9.3,Dolphins,G Roelofsen,TA Dithole,S von Berg,1,0,,,,,,"",""
+ball,1,9.4,Dolphins,TA Dithole,G Roelofsen,S von Berg,0,1,1,,,,,"",""
+ball,1,9.5,Dolphins,TA Dithole,G Roelofsen,S von Berg,1,0,,,,,,"",""
+ball,1,9.6,Dolphins,G Roelofsen,TA Dithole,S von Berg,4,0,,,,,,"",""
+ball,1,9.7,Dolphins,G Roelofsen,TA Dithole,S von Berg,1,0,,,,,,"",""
+ball,1,10.1,Dolphins,G Roelofsen,TA Dithole,M Copeland,4,0,,,,,,"",""
+ball,1,10.2,Dolphins,G Roelofsen,TA Dithole,M Copeland,1,0,,,,,,"",""
+ball,1,10.3,Dolphins,TA Dithole,G Roelofsen,M Copeland,1,0,,,,,,"",""
+ball,1,10.4,Dolphins,G Roelofsen,TA Dithole,M Copeland,1,0,,,,,,"",""
+ball,1,10.5,Dolphins,TA Dithole,G Roelofsen,M Copeland,0,0,,,,,,"",""
+ball,1,10.6,Dolphins,TA Dithole,G Roelofsen,M Copeland,1,0,,,,,,"",""
+ball,1,11.1,Dolphins,TA Dithole,G Roelofsen,S von Berg,1,0,,,,,,"",""
+ball,1,11.2,Dolphins,G Roelofsen,TA Dithole,S von Berg,1,0,,,,,,"",""
+ball,1,11.3,Dolphins,TA Dithole,G Roelofsen,S von Berg,1,0,,,,,,"",""
+ball,1,11.4,Dolphins,G Roelofsen,TA Dithole,S von Berg,0,0,,,,,,"",""
+ball,1,11.5,Dolphins,G Roelofsen,TA Dithole,S von Berg,1,0,,,,,,"",""
+ball,1,11.6,Dolphins,TA Dithole,G Roelofsen,S von Berg,0,0,,,,,,"",""
+ball,1,12.1,Dolphins,G Roelofsen,TA Dithole,GC Viljoen,0,0,,,,,,"",""
+ball,1,12.2,Dolphins,G Roelofsen,TA Dithole,GC Viljoen,1,0,,,,,,"",""
+ball,1,12.3,Dolphins,TA Dithole,G Roelofsen,GC Viljoen,0,0,,,,,,"",""
+ball,1,12.4,Dolphins,TA Dithole,G Roelofsen,GC Viljoen,0,1,1,,,,,"",""
+ball,1,12.5,Dolphins,TA Dithole,G Roelofsen,GC Viljoen,1,0,,,,,,"",""
+ball,1,12.6,Dolphins,G Roelofsen,TA Dithole,GC Viljoen,1,0,,,,,,"",""
+ball,1,12.7,Dolphins,TA Dithole,G Roelofsen,GC Viljoen,0,0,,,,,,"",""
+ball,1,13.1,Dolphins,G Roelofsen,TA Dithole,S von Berg,2,0,,,,,,"",""
+ball,1,13.2,Dolphins,G Roelofsen,TA Dithole,S von Berg,1,0,,,,,,"",""
+ball,1,13.3,Dolphins,TA Dithole,G Roelofsen,S von Berg,1,0,,,,,,"",""
+ball,1,13.4,Dolphins,G Roelofsen,TA Dithole,S von Berg,1,0,,,,,,"",""
+ball,1,13.5,Dolphins,TA Dithole,G Roelofsen,S von Berg,4,0,,,,,,"",""
+ball,1,13.6,Dolphins,TA Dithole,G Roelofsen,S von Berg,0,0,,,,,,bowled,TA Dithole
+ball,1,14.1,Dolphins,G Roelofsen,K Zondo,I Manack,1,0,,,,,,"",""
+ball,1,14.2,Dolphins,K Zondo,G Roelofsen,I Manack,0,0,,,,,,"",""
+ball,1,14.3,Dolphins,K Zondo,G Roelofsen,I Manack,1,0,,,,,,"",""
+ball,1,14.4,Dolphins,G Roelofsen,K Zondo,I Manack,1,0,,,,,,"",""
+ball,1,14.5,Dolphins,K Zondo,G Roelofsen,I Manack,1,0,,,,,,"",""
+ball,1,14.6,Dolphins,G Roelofsen,K Zondo,I Manack,4,0,,,,,,"",""
+ball,1,15.1,Dolphins,K Zondo,G Roelofsen,S von Berg,0,0,,,,,,caught,K Zondo
+ball,1,15.2,Dolphins,JF Smith,G Roelofsen,S von Berg,2,0,,,,,,"",""
+ball,1,15.3,Dolphins,JF Smith,G Roelofsen,S von Berg,2,0,,,,,,"",""
+ball,1,15.4,Dolphins,JF Smith,G Roelofsen,S von Berg,0,0,,,,,,"",""
+ball,1,15.5,Dolphins,JF Smith,G Roelofsen,S von Berg,0,0,,,,,,"",""
+ball,1,15.6,Dolphins,JF Smith,G Roelofsen,S von Berg,1,0,,,,,,"",""
+ball,1,16.1,Dolphins,JF Smith,G Roelofsen,B Xenxe,2,0,,,,,,"",""
+ball,1,16.2,Dolphins,JF Smith,G Roelofsen,B Xenxe,4,0,,,,,,"",""
+ball,1,16.3,Dolphins,JF Smith,G Roelofsen,B Xenxe,1,0,,,,,,"",""
+ball,1,16.4,Dolphins,G Roelofsen,JF Smith,B Xenxe,0,0,,,,,,"",""
+ball,1,16.5,Dolphins,G Roelofsen,JF Smith,B Xenxe,0,0,,,,,,caught,G Roelofsen
+ball,1,16.6,Dolphins,A Simelane,JF Smith,B Xenxe,1,0,,,,,,"",""
+ball,1,17.1,Dolphins,A Simelane,JF Smith,FD Adams,0,0,,,,,,"",""
+ball,1,17.2,Dolphins,A Simelane,JF Smith,FD Adams,1,0,,,,,,"",""
+ball,1,17.3,Dolphins,JF Smith,A Simelane,FD Adams,2,0,,,,,,"",""
+ball,1,17.4,Dolphins,JF Smith,A Simelane,FD Adams,2,1,,1,,,,"",""
+ball,1,17.5,Dolphins,JF Smith,A Simelane,FD Adams,2,0,,,,,,"",""
+ball,1,17.6,Dolphins,JF Smith,A Simelane,FD Adams,1,0,,,,,,"",""
+ball,1,17.7,Dolphins,A Simelane,JF Smith,FD Adams,1,0,,,,,,"",""
+ball,1,18.1,Dolphins,A Simelane,JF Smith,B Xenxe,1,0,,,,,,"",""
+ball,1,18.2,Dolphins,JF Smith,A Simelane,B Xenxe,0,0,,,,,,"",""
+ball,1,18.3,Dolphins,JF Smith,A Simelane,B Xenxe,0,0,,,,,,"",""
+ball,1,18.4,Dolphins,JF Smith,A Simelane,B Xenxe,0,2,2,,,,,"",""
+ball,1,18.5,Dolphins,A Simelane,JF Smith,B Xenxe,0,0,,,,,,"",""
+ball,1,18.6,Dolphins,A Simelane,JF Smith,B Xenxe,0,0,,,,,,"",""
+ball,1,18.7,Dolphins,A Simelane,JF Smith,B Xenxe,1,0,,,,,,"",""
+ball,1,19.1,Dolphins,A Simelane,JF Smith,FD Adams,0,0,,,,,,caught,A Simelane
+ball,1,19.2,Dolphins,E Bosch,JF Smith,FD Adams,2,0,,,,,,"",""
+ball,1,19.3,Dolphins,E Bosch,JF Smith,FD Adams,1,0,,,,,,"",""
+ball,1,19.4,Dolphins,JF Smith,E Bosch,FD Adams,2,0,,,,,,"",""
+ball,1,19.5,Dolphins,JF Smith,E Bosch,FD Adams,0,1,,,1,,,"",""
+ball,1,19.6,Dolphins,E Bosch,JF Smith,FD Adams,0,0,,,,,,lbw,E Bosch
+ball,2,0.1,Boland,JN Malan,JL du Plooy,E Bosch,0,0,,,,,,"",""
+ball,2,0.2,Boland,JN Malan,JL du Plooy,E Bosch,0,0,,,,,,bowled,JN Malan
+ball,2,0.3,Boland,SV Kitime,JL du Plooy,E Bosch,0,0,,,,,,"",""
+ball,2,0.4,Boland,SV Kitime,JL du Plooy,E Bosch,0,0,,,,,,"",""
+ball,2,0.5,Boland,SV Kitime,JL du Plooy,E Bosch,0,0,,,,,,"",""
+ball,2,0.6,Boland,SV Kitime,JL du Plooy,E Bosch,0,3,,,3,,,"",""
+ball,2,1.1,Boland,SV Kitime,JL du Plooy,DM Dupavillon,0,1,,,,1,,"",""
+ball,2,1.2,Boland,JL du Plooy,SV Kitime,DM Dupavillon,0,1,,,,1,,"",""
+ball,2,1.3,Boland,SV Kitime,JL du Plooy,DM Dupavillon,4,0,,,,,,"",""
+ball,2,1.4,Boland,SV Kitime,JL du Plooy,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.5,Boland,SV Kitime,JL du Plooy,DM Dupavillon,0,1,1,,,,,"",""
+ball,2,1.6,Boland,SV Kitime,JL du Plooy,DM Dupavillon,1,0,,,,,,"",""
+ball,2,1.7,Boland,JL du Plooy,SV Kitime,DM Dupavillon,0,0,,,,,,"",""
+ball,2,2.1,Boland,SV Kitime,JL du Plooy,E Bosch,1,0,,,,,,"",""
+ball,2,2.2,Boland,JL du Plooy,SV Kitime,E Bosch,0,0,,,,,,"",""
+ball,2,2.3,Boland,JL du Plooy,SV Kitime,E Bosch,0,0,,,,,,"",""
+ball,2,2.4,Boland,JL du Plooy,SV Kitime,E Bosch,0,0,,,,,,"",""
+ball,2,2.5,Boland,JL du Plooy,SV Kitime,E Bosch,0,0,,,,,,"",""
+ball,2,2.6,Boland,JL du Plooy,SV Kitime,E Bosch,0,0,,,,,,"",""
+ball,2,3.1,Boland,SV Kitime,JL du Plooy,OEG Baartman,1,0,,,,,,"",""
+ball,2,3.2,Boland,JL du Plooy,SV Kitime,OEG Baartman,1,0,,,,,,"",""
+ball,2,3.3,Boland,SV Kitime,JL du Plooy,OEG Baartman,0,0,,,,,,"",""
+ball,2,3.4,Boland,SV Kitime,JL du Plooy,OEG Baartman,0,1,,,,1,,"",""
+ball,2,3.5,Boland,JL du Plooy,SV Kitime,OEG Baartman,0,1,1,,,,,"",""
+ball,2,3.6,Boland,JL du Plooy,SV Kitime,OEG Baartman,6,0,,,,,,"",""
+ball,2,3.7,Boland,JL du Plooy,SV Kitime,OEG Baartman,0,0,,,,,,"",""
+ball,2,4.1,Boland,SV Kitime,JL du Plooy,E Bosch,0,1,1,,,,,"",""
+ball,2,4.2,Boland,SV Kitime,JL du Plooy,E Bosch,4,0,,,,,,"",""
+ball,2,4.3,Boland,SV Kitime,JL du Plooy,E Bosch,0,0,,,,,,caught,SV Kitime
+ball,2,4.4,Boland,C Fortuin,JL du Plooy,E Bosch,0,1,1,,,,,"",""
+ball,2,4.5,Boland,C Fortuin,JL du Plooy,E Bosch,1,0,,,,,,"",""
+ball,2,4.6,Boland,JL du Plooy,C Fortuin,E Bosch,1,0,,,,,,"",""
+ball,2,4.7,Boland,C Fortuin,JL du Plooy,E Bosch,4,0,,,,,,"",""
+ball,2,4.8,Boland,C Fortuin,JL du Plooy,E Bosch,4,0,,,,,,"",""
+ball,2,5.1,Boland,JL du Plooy,C Fortuin,DM Dupavillon,1,0,,,,,,"",""
+ball,2,5.2,Boland,C Fortuin,JL du Plooy,DM Dupavillon,0,0,,,,,,"",""
+ball,2,5.3,Boland,C Fortuin,JL du Plooy,DM Dupavillon,0,0,,,,,,"",""
+ball,2,5.4,Boland,C Fortuin,JL du Plooy,DM Dupavillon,0,0,,,,,,"",""
+ball,2,5.5,Boland,C Fortuin,JL du Plooy,DM Dupavillon,0,0,,,,,,"",""
+ball,2,5.6,Boland,C Fortuin,JL du Plooy,DM Dupavillon,4,0,,,,,,"",""
+ball,2,6.1,Boland,JL du Plooy,C Fortuin,OEG Baartman,0,1,,1,,,,"",""
+ball,2,6.2,Boland,JL du Plooy,C Fortuin,OEG Baartman,0,0,,,,,,"",""
+ball,2,6.3,Boland,JL du Plooy,C Fortuin,OEG Baartman,1,0,,,,,,"",""
+ball,2,6.4,Boland,C Fortuin,JL du Plooy,OEG Baartman,4,0,,,,,,"",""
+ball,2,6.5,Boland,C Fortuin,JL du Plooy,OEG Baartman,1,0,,,,,,"",""
+ball,2,6.6,Boland,JL du Plooy,C Fortuin,OEG Baartman,1,0,,,,,,"",""
+ball,2,6.7,Boland,C Fortuin,JL du Plooy,OEG Baartman,0,0,,,,,,"",""
+ball,2,7.1,Boland,JL du Plooy,C Fortuin,P Subrayen,1,0,,,,,,"",""
+ball,2,7.2,Boland,C Fortuin,JL du Plooy,P Subrayen,0,0,,,,,,caught,C Fortuin
+ball,2,7.3,Boland,F Behardien,JL du Plooy,P Subrayen,1,0,,,,,,"",""
+ball,2,7.4,Boland,JL du Plooy,F Behardien,P Subrayen,0,0,,,,,,"",""
+ball,2,7.5,Boland,JL du Plooy,F Behardien,P Subrayen,1,0,,,,,,"",""
+ball,2,7.6,Boland,F Behardien,JL du Plooy,P Subrayen,1,0,,,,,,"",""
+ball,2,8.1,Boland,F Behardien,JL du Plooy,DM Dupavillon,0,0,,,,,,"",""
+ball,2,8.2,Boland,F Behardien,JL du Plooy,DM Dupavillon,0,0,,,,,,"",""
+ball,2,8.3,Boland,F Behardien,JL du Plooy,DM Dupavillon,1,0,,,,,,"",""
+ball,2,8.4,Boland,JL du Plooy,F Behardien,DM Dupavillon,0,1,,1,,,,"",""
+ball,2,8.5,Boland,JL du Plooy,F Behardien,DM Dupavillon,1,1,,1,,,,"",""
+ball,2,8.6,Boland,F Behardien,JL du Plooy,DM Dupavillon,0,0,,,,,,"",""
+ball,2,8.7,Boland,F Behardien,JL du Plooy,DM Dupavillon,2,0,,,,,,"",""
+ball,2,8.8,Boland,F Behardien,JL du Plooy,DM Dupavillon,0,0,,,,,,"",""
+ball,2,9.1,Boland,JL du Plooy,F Behardien,A Simelane,2,0,,,,,,"",""
+ball,2,9.2,Boland,JL du Plooy,F Behardien,A Simelane,0,1,1,,,,,"",""
+ball,2,9.3,Boland,JL du Plooy,F Behardien,A Simelane,1,0,,,,,,"",""
+ball,2,9.4,Boland,F Behardien,JL du Plooy,A Simelane,1,0,,,,,,"",""
+ball,2,9.5,Boland,JL du Plooy,F Behardien,A Simelane,1,0,,,,,,"",""
+ball,2,9.6,Boland,F Behardien,JL du Plooy,A Simelane,6,0,,,,,,"",""
+ball,2,9.7,Boland,F Behardien,JL du Plooy,A Simelane,1,0,,,,,,"",""
+ball,2,10.1,Boland,F Behardien,JL du Plooy,P Subrayen,2,0,,,,,,"",""
+ball,2,10.2,Boland,F Behardien,JL du Plooy,P Subrayen,1,0,,,,,,"",""
+ball,2,10.3,Boland,JL du Plooy,F Behardien,P Subrayen,0,2,2,,,,,"",""
+ball,2,10.4,Boland,F Behardien,JL du Plooy,P Subrayen,2,0,,,,,,"",""
+ball,2,10.5,Boland,F Behardien,JL du Plooy,P Subrayen,2,0,,,,,,"",""
+ball,2,10.6,Boland,F Behardien,JL du Plooy,P Subrayen,1,0,,,,,,"",""
+ball,2,10.7,Boland,JL du Plooy,F Behardien,P Subrayen,0,0,,,,,,"",""
+ball,2,11.1,Boland,F Behardien,JL du Plooy,A Simelane,2,0,,,,,,"",""
+ball,2,11.2,Boland,F Behardien,JL du Plooy,A Simelane,1,0,,,,,,"",""

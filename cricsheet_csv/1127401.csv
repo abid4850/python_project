@@ -1,0 +1,141 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Western Storm
+info,team,Loughborough Lightning
+info,gender,female
+info,season,2018
+info,date,2018/07/29
+info,event,Women's Cricket Super League
+info,match_number,9
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Loughborough Lightning
+info,toss_decision,field
+info,player_of_match,S Mandhana
+info,umpire,IJ Gould
+info,umpire,M Burns
+info,tv_umpire,JW Lloyds
+info,winner,Western Storm
+info,winner_runs,18
+info,player,Western Storm,RH Priest
+info,player,Western Storm,S Mandhana
+info,player,Western Storm,HC Knight
+info,player,Western Storm,SR Taylor
+info,player,Western Storm,FC Wilson
+info,player,Western Storm,SN Luff
+info,player,Western Storm,ND Dattani
+info,player,Western Storm,A Shrubsole
+info,player,Western Storm,AJ Macleod
+info,player,Western Storm,DR Gibson
+info,player,Western Storm,FR Davies
+info,player,Loughborough Lightning,RL Haynes
+info,player,Loughborough Lightning,SFM Devine
+info,player,Loughborough Lightning,GA Elwiss
+info,player,Loughborough Lightning,AE Jones
+info,player,Loughborough Lightning,GL Adams
+info,player,Loughborough Lightning,EJ Villani
+info,player,Loughborough Lightning,JL Gunn
+info,player,Loughborough Lightning,S Glenn
+info,player,Loughborough Lightning,LF Higham
+info,player,Loughborough Lightning,KL Gordon
+info,player,Loughborough Lightning,LCN Smith
+info,registry,people,A Shrubsole,32497ecd
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AJ Macleod,e7f06080
+info,registry,people,DR Gibson,d2763568
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,FR Davies,2479daa6
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JL Gunn,907c51ab
+info,registry,people,JW Lloyds,112b8472
+info,registry,people,KL Gordon,00823a96
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Burns,b3bd0666
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,RH Priest,e6f0408a
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SN Luff,e19307f3
+info,registry,people,SR Taylor,92cf79a8
+ball,1,0.1,Western Storm,RH Priest,S Mandhana,LCN Smith,0,0,,,,,,"",""
+ball,1,0.2,Western Storm,RH Priest,S Mandhana,LCN Smith,1,0,,,,,,"",""
+ball,1,0.3,Western Storm,S Mandhana,RH Priest,LCN Smith,6,0,,,,,,"",""
+ball,1,0.4,Western Storm,S Mandhana,RH Priest,LCN Smith,0,0,,,,,,"",""
+ball,1,0.5,Western Storm,S Mandhana,RH Priest,LCN Smith,1,0,,,,,,"",""
+ball,1,0.6,Western Storm,RH Priest,S Mandhana,LCN Smith,1,0,,,,,,"",""
+ball,1,1.1,Western Storm,RH Priest,S Mandhana,SFM Devine,6,0,,,,,,"",""
+ball,1,1.2,Western Storm,RH Priest,S Mandhana,SFM Devine,6,0,,,,,,"",""
+ball,1,1.3,Western Storm,RH Priest,S Mandhana,SFM Devine,0,0,,,,,,"",""
+ball,1,1.4,Western Storm,RH Priest,S Mandhana,SFM Devine,1,0,,,,,,"",""
+ball,1,1.5,Western Storm,S Mandhana,RH Priest,SFM Devine,0,0,,,,,,"",""
+ball,1,1.6,Western Storm,S Mandhana,RH Priest,SFM Devine,6,0,,,,,,"",""
+ball,1,2.1,Western Storm,RH Priest,S Mandhana,JL Gunn,1,0,,,,,,"",""
+ball,1,2.2,Western Storm,S Mandhana,RH Priest,JL Gunn,2,0,,,,,,"",""
+ball,1,2.3,Western Storm,S Mandhana,RH Priest,JL Gunn,1,0,,,,,,"",""
+ball,1,2.4,Western Storm,RH Priest,S Mandhana,JL Gunn,1,0,,,,,,"",""
+ball,1,2.5,Western Storm,S Mandhana,RH Priest,JL Gunn,4,0,,,,,,"",""
+ball,1,2.6,Western Storm,S Mandhana,RH Priest,JL Gunn,1,0,,,,,,"",""
+ball,1,3.1,Western Storm,S Mandhana,RH Priest,KL Gordon,4,0,,,,,,"",""
+ball,1,3.2,Western Storm,S Mandhana,RH Priest,KL Gordon,4,0,,,,,,"",""
+ball,1,3.3,Western Storm,S Mandhana,RH Priest,KL Gordon,1,0,,,,,,"",""
+ball,1,3.4,Western Storm,RH Priest,S Mandhana,KL Gordon,1,0,,,,,,"",""
+ball,1,3.5,Western Storm,S Mandhana,RH Priest,KL Gordon,6,0,,,,,,"",""
+ball,1,3.6,Western Storm,S Mandhana,RH Priest,KL Gordon,0,0,,,,,,"",""
+ball,1,4.1,Western Storm,RH Priest,S Mandhana,GA Elwiss,6,0,,,,,,"",""
+ball,1,4.2,Western Storm,RH Priest,S Mandhana,GA Elwiss,1,0,,,,,,"",""
+ball,1,4.3,Western Storm,S Mandhana,RH Priest,GA Elwiss,0,1,1,,,,,"",""
+ball,1,4.4,Western Storm,S Mandhana,RH Priest,GA Elwiss,4,0,,,,,,"",""
+ball,1,4.5,Western Storm,S Mandhana,RH Priest,GA Elwiss,4,0,,,,,,"",""
+ball,1,4.6,Western Storm,S Mandhana,RH Priest,GA Elwiss,1,0,,,,,,"",""
+ball,1,4.7,Western Storm,RH Priest,S Mandhana,GA Elwiss,0,0,,,,,,caught,RH Priest
+ball,1,5.1,Western Storm,HC Knight,S Mandhana,LCN Smith,0,0,,,,,,"",""
+ball,1,5.2,Western Storm,HC Knight,S Mandhana,LCN Smith,0,0,,,,,,stumped,HC Knight
+ball,1,5.3,Western Storm,SR Taylor,S Mandhana,LCN Smith,1,0,,,,,,"",""
+ball,1,5.4,Western Storm,S Mandhana,SR Taylor,LCN Smith,6,0,,,,,,"",""
+ball,1,5.5,Western Storm,S Mandhana,SR Taylor,LCN Smith,1,0,,,,,,"",""
+ball,1,5.6,Western Storm,SR Taylor,S Mandhana,LCN Smith,6,0,,,,,,"",""
+ball,2,0.1,Loughborough Lightning,RL Haynes,SFM Devine,A Shrubsole,1,0,,,,,,"",""
+ball,2,0.2,Loughborough Lightning,SFM Devine,RL Haynes,A Shrubsole,4,0,,,,,,"",""
+ball,2,0.3,Loughborough Lightning,SFM Devine,RL Haynes,A Shrubsole,0,0,,,,,,"",""
+ball,2,0.4,Loughborough Lightning,SFM Devine,RL Haynes,A Shrubsole,1,0,,,,,,"",""
+ball,2,0.5,Loughborough Lightning,RL Haynes,SFM Devine,A Shrubsole,1,0,,,,,,"",""
+ball,2,0.6,Loughborough Lightning,SFM Devine,RL Haynes,A Shrubsole,4,0,,,,,,"",""
+ball,2,1.1,Loughborough Lightning,RL Haynes,SFM Devine,FR Davies,0,0,,,,,,"",""
+ball,2,1.2,Loughborough Lightning,RL Haynes,SFM Devine,FR Davies,0,1,1,,,,,"",""
+ball,2,1.3,Loughborough Lightning,RL Haynes,SFM Devine,FR Davies,1,0,,,,,,"",""
+ball,2,1.4,Loughborough Lightning,SFM Devine,RL Haynes,FR Davies,1,0,,,,,,"",""
+ball,2,1.5,Loughborough Lightning,RL Haynes,SFM Devine,FR Davies,4,0,,,,,,"",""
+ball,2,1.6,Loughborough Lightning,RL Haynes,SFM Devine,FR Davies,1,0,,,,,,"",""
+ball,2,1.7,Loughborough Lightning,SFM Devine,RL Haynes,FR Davies,1,0,,,,,,"",""
+ball,2,2.1,Loughborough Lightning,SFM Devine,RL Haynes,HC Knight,6,0,,,,,,"",""
+ball,2,2.2,Loughborough Lightning,SFM Devine,RL Haynes,HC Knight,1,0,,,,,,"",""
+ball,2,2.3,Loughborough Lightning,RL Haynes,SFM Devine,HC Knight,1,0,,,,,,"",""
+ball,2,2.4,Loughborough Lightning,SFM Devine,RL Haynes,HC Knight,6,0,,,,,,"",""
+ball,2,2.5,Loughborough Lightning,SFM Devine,RL Haynes,HC Knight,2,0,,,,,,"",""
+ball,2,2.6,Loughborough Lightning,SFM Devine,RL Haynes,HC Knight,0,0,,,,,,"",""
+ball,2,3.1,Loughborough Lightning,RL Haynes,SFM Devine,SR Taylor,0,0,,,,,,"",""
+ball,2,3.2,Loughborough Lightning,RL Haynes,SFM Devine,SR Taylor,1,0,,,,,,"",""
+ball,2,3.3,Loughborough Lightning,SFM Devine,RL Haynes,SR Taylor,0,0,,,,,,"",""
+ball,2,3.4,Loughborough Lightning,SFM Devine,RL Haynes,SR Taylor,1,0,,,,,,"",""
+ball,2,3.5,Loughborough Lightning,RL Haynes,SFM Devine,SR Taylor,1,0,,,,,,"",""
+ball,2,3.6,Loughborough Lightning,SFM Devine,RL Haynes,SR Taylor,4,0,,,,,,"",""
+ball,2,4.1,Loughborough Lightning,RL Haynes,SFM Devine,FR Davies,0,0,,,,,,"",""
+ball,2,4.2,Loughborough Lightning,RL Haynes,SFM Devine,FR Davies,1,0,,,,,,"",""
+ball,2,4.3,Loughborough Lightning,SFM Devine,RL Haynes,FR Davies,6,0,,,,,,"",""
+ball,2,4.4,Loughborough Lightning,SFM Devine,RL Haynes,FR Davies,0,1,1,,,,,"",""
+ball,2,4.5,Loughborough Lightning,SFM Devine,RL Haynes,FR Davies,0,0,,,,,,"",""
+ball,2,4.6,Loughborough Lightning,SFM Devine,RL Haynes,FR Davies,1,0,,,,,,"",""
+ball,2,4.7,Loughborough Lightning,RL Haynes,SFM Devine,FR Davies,4,0,,,,,,"",""
+ball,2,5.1,Loughborough Lightning,SFM Devine,RL Haynes,A Shrubsole,1,0,,,,,,"",""
+ball,2,5.2,Loughborough Lightning,RL Haynes,SFM Devine,A Shrubsole,1,0,,,,,,"",""
+ball,2,5.3,Loughborough Lightning,SFM Devine,RL Haynes,A Shrubsole,1,0,,,,,,"",""
+ball,2,5.4,Loughborough Lightning,RL Haynes,SFM Devine,A Shrubsole,1,0,,,,,,"",""
+ball,2,5.5,Loughborough Lightning,SFM Devine,RL Haynes,A Shrubsole,6,0,,,,,,"",""
+ball,2,5.6,Loughborough Lightning,SFM Devine,RL Haynes,A Shrubsole,0,1,,,,1,,"",""

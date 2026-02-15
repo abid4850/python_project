@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Lancashire
+info,gender,male
+info,season,2024
+info,date,2024/06/09
+info,event,Vitality Blast
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Nottinghamshire
+info,toss_decision,bat
+info,umpire,GD Lloyd
+info,umpire,SJ O'Shaughnessy
+info,match_referee,AM Smith
+info,winner,Lancashire
+info,winner_wickets,6
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,WA Young
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,BG Lister
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,TC Bruce
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,CJ Green
+info,player,Lancashire,L Wood
+info,player,Lancashire,JP Morley
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,S Mahmood
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CJ Green,19b9f399
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JP Morley,7a8a0237
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Wood,65b6943c
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LW James,2baad3bd
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,OP Stone,3f659464
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,WA Young,8afe73e2
+ball,1,0.1,Nottinghamshire,JM Clarke,AD Hales,L Wood,0,1,,,,1,,"",""
+ball,1,0.2,Nottinghamshire,AD Hales,JM Clarke,L Wood,0,0,,,,,,"",""
+ball,1,0.3,Nottinghamshire,AD Hales,JM Clarke,L Wood,0,0,,,,,,"",""
+ball,1,0.4,Nottinghamshire,AD Hales,JM Clarke,L Wood,0,1,1,,,,,"",""
+ball,1,0.5,Nottinghamshire,AD Hales,JM Clarke,L Wood,1,0,,,,,,run out,JM Clarke
+ball,1,0.6,Nottinghamshire,WA Young,AD Hales,L Wood,1,0,,,,,,"",""
+ball,1,0.7,Nottinghamshire,AD Hales,WA Young,L Wood,1,0,,,,,,"",""
+ball,1,1.1,Nottinghamshire,AD Hales,WA Young,S Mahmood,0,0,,,,,,"",""
+ball,1,1.2,Nottinghamshire,AD Hales,WA Young,S Mahmood,0,0,,,,,,"",""
+ball,1,1.3,Nottinghamshire,AD Hales,WA Young,S Mahmood,0,1,,,,1,,"",""
+ball,1,1.4,Nottinghamshire,WA Young,AD Hales,S Mahmood,0,0,,,,,,caught,WA Young
+ball,1,1.5,Nottinghamshire,JA Haynes,AD Hales,S Mahmood,0,0,,,,,,"",""
+ball,1,1.6,Nottinghamshire,JA Haynes,AD Hales,S Mahmood,1,0,,,,,,"",""
+ball,1,2.1,Nottinghamshire,JA Haynes,AD Hales,L Wood,1,0,,,,,,"",""
+ball,1,2.2,Nottinghamshire,AD Hales,JA Haynes,L Wood,1,0,,,,,,"",""
+ball,1,2.3,Nottinghamshire,JA Haynes,AD Hales,L Wood,4,0,,,,,,"",""
+ball,1,2.4,Nottinghamshire,JA Haynes,AD Hales,L Wood,0,0,,,,,,"",""
+ball,1,2.5,Nottinghamshire,JA Haynes,AD Hales,L Wood,1,0,,,,,,"",""
+ball,1,2.6,Nottinghamshire,AD Hales,JA Haynes,L Wood,0,0,,,,,,"",""
+ball,1,3.1,Nottinghamshire,JA Haynes,AD Hales,S Mahmood,1,0,,,,,,"",""
+ball,1,3.2,Nottinghamshire,AD Hales,JA Haynes,S Mahmood,0,0,,,,,,"",""
+ball,1,3.3,Nottinghamshire,AD Hales,JA Haynes,S Mahmood,0,1,1,,,,,"",""
+ball,1,3.4,Nottinghamshire,AD Hales,JA Haynes,S Mahmood,1,0,,,,,,"",""
+ball,1,3.5,Nottinghamshire,JA Haynes,AD Hales,S Mahmood,2,0,,,,,,"",""
+ball,1,3.6,Nottinghamshire,JA Haynes,AD Hales,S Mahmood,3,0,,,,,,"",""
+ball,1,3.7,Nottinghamshire,AD Hales,JA Haynes,S Mahmood,0,0,,,,,,caught,AD Hales
+ball,1,4.1,Nottinghamshire,JA Haynes,M Montgomery,CJ Green,0,0,,,,,,"",""
+ball,1,4.2,Nottinghamshire,JA Haynes,M Montgomery,CJ Green,1,0,,,,,,"",""
+ball,1,4.3,Nottinghamshire,M Montgomery,JA Haynes,CJ Green,0,0,,,,,,"",""
+ball,1,4.4,Nottinghamshire,M Montgomery,JA Haynes,CJ Green,0,0,,,,,,"",""
+ball,1,4.5,Nottinghamshire,M Montgomery,JA Haynes,CJ Green,1,0,,,,,,"",""
+ball,1,4.6,Nottinghamshire,JA Haynes,M Montgomery,CJ Green,0,1,,,,1,,"",""
+ball,1,5.1,Nottinghamshire,JA Haynes,M Montgomery,S Mahmood,0,0,,,,,,"",""
+ball,1,5.2,Nottinghamshire,JA Haynes,M Montgomery,S Mahmood,0,0,,,,,,"",""
+ball,1,5.3,Nottinghamshire,JA Haynes,M Montgomery,S Mahmood,0,0,,,,,,"",""
+ball,1,5.4,Nottinghamshire,JA Haynes,M Montgomery,S Mahmood,1,0,,,,,,"",""
+ball,1,5.5,Nottinghamshire,M Montgomery,JA Haynes,S Mahmood,0,0,,,,,,"",""
+ball,1,5.6,Nottinghamshire,M Montgomery,JA Haynes,S Mahmood,0,0,,,,,,"",""
+ball,1,6.1,Nottinghamshire,JA Haynes,M Montgomery,LWP Wells,1,0,,,,,,"",""
+ball,1,6.2,Nottinghamshire,M Montgomery,JA Haynes,LWP Wells,0,0,,,,,,"",""
+ball,1,6.3,Nottinghamshire,M Montgomery,JA Haynes,LWP Wells,1,0,,,,,,"",""
+ball,1,6.4,Nottinghamshire,JA Haynes,M Montgomery,LWP Wells,1,0,,,,,,"",""
+ball,1,6.5,Nottinghamshire,M Montgomery,JA Haynes,LWP Wells,1,0,,,,,,"",""
+ball,1,6.6,Nottinghamshire,JA Haynes,M Montgomery,LWP Wells,1,0,,,,,,"",""
+ball,1,7.1,Nottinghamshire,JA Haynes,M Montgomery,JP Morley,6,0,,,,,,"",""
+ball,1,7.2,Nottinghamshire,JA Haynes,M Montgomery,JP Morley,1,0,,,,,,"",""
+ball,1,7.3,Nottinghamshire,M Montgomery,JA Haynes,JP Morley,1,0,,,,,,"",""
+ball,1,7.4,Nottinghamshire,JA Haynes,M Montgomery,JP Morley,0,0,,,,,,"",""
+ball,1,7.5,Nottinghamshire,JA Haynes,M Montgomery,JP Morley,1,0,,,,,,"",""
+ball,1,7.6,Nottinghamshire,M Montgomery,JA Haynes,JP Morley,1,0,,,,,,"",""
+ball,1,8.1,Nottinghamshire,M Montgomery,JA Haynes,LWP Wells,1,0,,,,,,"",""
+ball,1,8.2,Nottinghamshire,JA Haynes,M Montgomery,LWP Wells,2,0,,,,,,"",""
+ball,1,8.3,Nottinghamshire,JA Haynes,M Montgomery,LWP Wells,0,0,,,,,,"",""
+ball,1,8.4,Nottinghamshire,JA Haynes,M Montgomery,LWP Wells,1,0,,,,,,"",""
+ball,1,8.5,Nottinghamshire,M Montgomery,JA Haynes,LWP Wells,0,0,,,,,,lbw,M Montgomery
+ball,1,8.6,Nottinghamshire,LW James,JA Haynes,LWP Wells,1,0,,,,,,"",""
+ball,1,9.1,Nottinghamshire,LW James,JA Haynes,JM Blatherwick,1,0,,,,,,"",""
+ball,1,9.2,Nottinghamshire,JA Haynes,LW James,JM Blatherwick,1,2,,2,,,,"",""
+ball,1,9.3,Nottinghamshire,LW James,JA Haynes,JM Blatherwick,1,0,,,,,,"",""
+ball,1,9.4,Nottinghamshire,JA Haynes,LW James,JM Blatherwick,1,0,,,,,,"",""
+ball,1,9.5,Nottinghamshire,LW James,JA Haynes,JM Blatherwick,4,0,,,,,,"",""
+ball,1,9.6,Nottinghamshire,LW James,JA Haynes,JM Blatherwick,0,1,,,,1,,"",""
+ball,1,9.7,Nottinghamshire,JA Haynes,LW James,JM Blatherwick,1,0,,,,,,"",""
+ball,1,10.1,Nottinghamshire,JA Haynes,LW James,LWP Wells,1,0,,,,,,"",""
+ball,1,10.2,Nottinghamshire,LW James,JA Haynes,LWP Wells,2,0,,,,,,"",""
+ball,1,10.3,Nottinghamshire,LW James,JA Haynes,LWP Wells,1,0,,,,,,"",""
+ball,1,10.4,Nottinghamshire,JA Haynes,LW James,LWP Wells,4,0,,,,,,"",""
+ball,1,10.5,Nottinghamshire,JA Haynes,LW James,LWP Wells,0,1,,,,1,,"",""
+ball,1,10.6,Nottinghamshire,LW James,JA Haynes,LWP Wells,1,0,,,,,,"",""
+ball,1,11.1,Nottinghamshire,LW James,JA Haynes,JP Morley,1,0,,,,,,"",""
+ball,1,11.2,Nottinghamshire,JA Haynes,LW James,JP Morley,1,0,,,,,,"",""
+ball,1,11.3,Nottinghamshire,LW James,JA Haynes,JP Morley,0,0,,,,,,"",""
+ball,1,11.4,Nottinghamshire,LW James,JA Haynes,JP Morley,0,0,,,,,,"",""
+ball,1,11.5,Nottinghamshire,LW James,JA Haynes,JP Morley,1,0,,,,,,"",""
+ball,1,11.6,Nottinghamshire,JA Haynes,LW James,JP Morley,6,0,,,,,,"",""
+ball,1,12.1,Nottinghamshire,LW James,JA Haynes,CJ Green,0,0,,,,,,bowled,LW James
+ball,1,12.2,Nottinghamshire,TJ Moores,JA Haynes,CJ Green,1,0,,,,,,"",""
+ball,1,12.3,Nottinghamshire,JA Haynes,TJ Moores,CJ Green,1,0,,,,,,"",""
+ball,1,12.4,Nottinghamshire,TJ Moores,JA Haynes,CJ Green,0,0,,,,,,"",""
+ball,1,12.5,Nottinghamshire,TJ Moores,JA Haynes,CJ Green,1,0,,,,,,"",""
+ball,1,12.6,Nottinghamshire,JA Haynes,TJ Moores,CJ Green,0,0,,,,,,"",""
+ball,1,13.1,Nottinghamshire,TJ Moores,JA Haynes,LWP Wells,0,0,,,,,,run out,JA Haynes
+ball,1,13.2,Nottinghamshire,TJ Moores,LA Patterson-White,LWP Wells,1,0,,,,,,"",""
+ball,1,13.3,Nottinghamshire,LA Patterson-White,TJ Moores,LWP Wells,0,0,,,,,,"",""
+ball,1,13.4,Nottinghamshire,LA Patterson-White,TJ Moores,LWP Wells,1,0,,,,,,"",""
+ball,1,13.5,Nottinghamshire,TJ Moores,LA Patterson-White,LWP Wells,4,0,,,,,,"",""
+ball,1,13.6,Nottinghamshire,TJ Moores,LA Patterson-White,LWP Wells,0,0,,,,,,"",""
+ball,1,14.1,Nottinghamshire,LA Patterson-White,TJ Moores,CJ Green,0,0,,,,,,"",""
+ball,1,14.2,Nottinghamshire,LA Patterson-White,TJ Moores,CJ Green,1,0,,,,,,"",""
+ball,1,14.3,Nottinghamshire,TJ Moores,LA Patterson-White,CJ Green,2,0,,,,,,"",""
+ball,1,14.4,Nottinghamshire,TJ Moores,LA Patterson-White,CJ Green,0,0,,,,,,"",""
+ball,1,14.5,Nottinghamshire,TJ Moores,LA Patterson-White,CJ Green,1,0,,,,,,"",""
+ball,1,14.6,Nottinghamshire,LA Patterson-White,TJ Moores,CJ Green,1,0,,,,,,"",""
+ball,1,15.1,Nottinghamshire,LA Patterson-White,TJ Moores,JM Blatherwick,4,0,,,,,,"",""
+ball,1,15.2,Nottinghamshire,LA Patterson-White,TJ Moores,JM Blatherwick,6,0,,,,,,"",""
+ball,1,15.3,Nottinghamshire,LA Patterson-White,TJ Moores,JM Blatherwick,1,0,,,,,,"",""
+ball,1,15.4,Nottinghamshire,TJ Moores,LA Patterson-White,JM Blatherwick,1,0,,,,,,"",""
+ball,1,15.5,Nottinghamshire,LA Patterson-White,TJ Moores,JM Blatherwick,0,2,,2,,,,"",""
+ball,1,15.6,Nottinghamshire,LA Patterson-White,TJ Moores,JM Blatherwick,4,0,,,,,,"",""
+ball,1,15.7,Nottinghamshire,LA Patterson-White,TJ Moores,JM Blatherwick,4,0,,,,,,"",""
+ball,1,16.1,Nottinghamshire,TJ Moores,LA Patterson-White,L Wood,0,1,1,,,,,"",""
+ball,1,16.2,Nottinghamshire,TJ Moores,LA Patterson-White,L Wood,1,0,,,,,,"",""
+ball,1,16.3,Nottinghamshire,LA Patterson-White,TJ Moores,L Wood,0,0,,,,,,"",""
+ball,1,16.4,Nottinghamshire,LA Patterson-White,TJ Moores,L Wood,1,0,,,,,,"",""
+ball,1,16.5,Nottinghamshire,TJ Moores,LA Patterson-White,L Wood,2,0,,,,,,"",""
+ball,1,16.6,Nottinghamshire,TJ Moores,LA Patterson-White,L Wood,2,0,,,,,,"",""
+ball,1,16.7,Nottinghamshire,TJ Moores,LA Patterson-White,L Wood,0,0,,,,,,caught,TJ Moores
+ball,1,17.1,Nottinghamshire,LA Patterson-White,CG Harrison,CJ Green,1,0,,,,,,"",""
+ball,1,17.2,Nottinghamshire,CG Harrison,LA Patterson-White,CJ Green,1,0,,,,,,"",""
+ball,1,17.3,Nottinghamshire,LA Patterson-White,CG Harrison,CJ Green,1,0,,,,,,"",""
+ball,1,17.4,Nottinghamshire,CG Harrison,LA Patterson-White,CJ Green,0,0,,,,,,"",""
+ball,1,17.5,Nottinghamshire,CG Harrison,LA Patterson-White,CJ Green,0,1,1,,,,,"",""
+ball,1,17.6,Nottinghamshire,CG Harrison,LA Patterson-White,CJ Green,0,0,,,,,,caught,CG Harrison
+ball,1,17.7,Nottinghamshire,OP Stone,LA Patterson-White,CJ Green,2,0,,,,,,"",""
+ball,1,18.1,Nottinghamshire,LA Patterson-White,OP Stone,L Wood,1,0,,,,,,"",""
+ball,1,18.2,Nottinghamshire,OP Stone,LA Patterson-White,L Wood,2,0,,,,,,"",""
+ball,1,18.3,Nottinghamshire,OP Stone,LA Patterson-White,L Wood,0,0,,,,,,"",""
+ball,1,18.4,Nottinghamshire,OP Stone,LA Patterson-White,L Wood,1,0,,,,,,"",""
+ball,1,18.5,Nottinghamshire,LA Patterson-White,OP Stone,L Wood,4,0,,,,,,"",""
+ball,1,18.6,Nottinghamshire,LA Patterson-White,OP Stone,L Wood,1,0,,,,,,"",""
+ball,1,19.1,Nottinghamshire,LA Patterson-White,OP Stone,S Mahmood,1,0,,,,,,"",""
+ball,1,19.2,Nottinghamshire,OP Stone,LA Patterson-White,S Mahmood,0,0,,,,,,"",""
+ball,1,19.3,Nottinghamshire,OP Stone,LA Patterson-White,S Mahmood,4,0,,,,,,"",""
+ball,1,19.4,Nottinghamshire,OP Stone,LA Patterson-White,S Mahmood,1,0,,,,,,"",""
+ball,1,19.5,Nottinghamshire,LA Patterson-White,OP Stone,S Mahmood,6,0,,,,,,"",""
+ball,1,19.6,Nottinghamshire,LA Patterson-White,OP Stone,S Mahmood,6,0,,,,,,"",""
+ball,2,0.1,Lancashire,JJ Bohannon,LWP Wells,M Montgomery,0,0,,,,,,"",""
+ball,2,0.2,Lancashire,JJ Bohannon,LWP Wells,M Montgomery,1,0,,,,,,"",""
+ball,2,0.3,Lancashire,LWP Wells,JJ Bohannon,M Montgomery,0,0,,,,,,"",""
+ball,2,0.4,Lancashire,LWP Wells,JJ Bohannon,M Montgomery,0,1,1,,,,,"",""
+ball,2,0.5,Lancashire,LWP Wells,JJ Bohannon,M Montgomery,4,0,,,,,,"",""
+ball,2,0.6,Lancashire,LWP Wells,JJ Bohannon,M Montgomery,0,0,,,,,,"",""
+ball,2,0.7,Lancashire,LWP Wells,JJ Bohannon,M Montgomery,1,0,,,,,,"",""
+ball,2,1.1,Lancashire,LWP Wells,JJ Bohannon,BG Lister,0,1,,,,1,,"",""
+ball,2,1.2,Lancashire,JJ Bohannon,LWP Wells,BG Lister,2,0,,,,,,"",""
+ball,2,1.3,Lancashire,JJ Bohannon,LWP Wells,BG Lister,0,0,,,,,,"",""
+ball,2,1.4,Lancashire,JJ Bohannon,LWP Wells,BG Lister,6,0,,,,,,"",""
+ball,2,1.5,Lancashire,JJ Bohannon,LWP Wells,BG Lister,1,0,,,,,,"",""
+ball,2,1.6,Lancashire,LWP Wells,JJ Bohannon,BG Lister,1,0,,,,,,"",""
+ball,2,2.1,Lancashire,LWP Wells,JJ Bohannon,OP Stone,0,0,,,,,,caught,LWP Wells
+ball,2,2.2,Lancashire,KK Jennings,JJ Bohannon,OP Stone,0,0,,,,,,"",""
+ball,2,2.3,Lancashire,KK Jennings,JJ Bohannon,OP Stone,4,0,,,,,,"",""
+ball,2,2.4,Lancashire,KK Jennings,JJ Bohannon,OP Stone,0,0,,,,,,"",""
+ball,2,2.5,Lancashire,KK Jennings,JJ Bohannon,OP Stone,0,0,,,,,,"",""
+ball,2,2.6,Lancashire,KK Jennings,JJ Bohannon,OP Stone,0,0,,,,,,"",""
+ball,2,3.1,Lancashire,JJ Bohannon,KK Jennings,BG Lister,1,0,,,,,,"",""
+ball,2,3.2,Lancashire,KK Jennings,JJ Bohannon,BG Lister,1,0,,,,,,"",""
+ball,2,3.3,Lancashire,JJ Bohannon,KK Jennings,BG Lister,4,0,,,,,,"",""
+ball,2,3.4,Lancashire,JJ Bohannon,KK Jennings,BG Lister,1,0,,,,,,"",""
+ball,2,3.5,Lancashire,KK Jennings,JJ Bohannon,BG Lister,0,0,,,,,,"",""
+ball,2,3.6,Lancashire,KK Jennings,JJ Bohannon,BG Lister,4,0,,,,,,"",""
+ball,2,4.1,Lancashire,JJ Bohannon,KK Jennings,M Montgomery,1,0,,,,,,"",""
+ball,2,4.2,Lancashire,KK Jennings,JJ Bohannon,M Montgomery,1,0,,,,,,"",""
+ball,2,4.3,Lancashire,JJ Bohannon,KK Jennings,M Montgomery,0,0,,,,,,caught,JJ Bohannon
+ball,2,4.4,Lancashire,TC Bruce,KK Jennings,M Montgomery,1,0,,,,,,"",""
+ball,2,4.5,Lancashire,KK Jennings,TC Bruce,M Montgomery,1,0,,,,,,"",""
+ball,2,4.6,Lancashire,TC Bruce,KK Jennings,M Montgomery,4,0,,,,,,"",""
+ball,2,5.1,Lancashire,KK Jennings,TC Bruce,OP Stone,6,0,,,,,,"",""
+ball,2,5.2,Lancashire,KK Jennings,TC Bruce,OP Stone,4,0,,,,,,"",""
+ball,2,5.3,Lancashire,KK Jennings,TC Bruce,OP Stone,0,1,1,,,,,"",""
+ball,2,5.4,Lancashire,KK Jennings,TC Bruce,OP Stone,0,0,,,,,,"",""
+ball,2,5.5,Lancashire,KK Jennings,TC Bruce,OP Stone,4,0,,,,,,"",""
+ball,2,5.6,Lancashire,KK Jennings,TC Bruce,OP Stone,0,0,,,,,,"",""
+ball,2,5.7,Lancashire,KK Jennings,TC Bruce,OP Stone,0,0,,,,,,"",""
+ball,2,6.1,Lancashire,TC Bruce,KK Jennings,M Montgomery,0,2,2,,,,,"",""
+ball,2,6.2,Lancashire,KK Jennings,TC Bruce,M Montgomery,1,0,,,,,,"",""
+ball,2,6.3,Lancashire,TC Bruce,KK Jennings,M Montgomery,0,0,,,,,,"",""
+ball,2,6.4,Lancashire,TC Bruce,KK Jennings,M Montgomery,1,0,,,,,,"",""
+ball,2,6.5,Lancashire,KK Jennings,TC Bruce,M Montgomery,1,0,,,,,,"",""
+ball,2,6.6,Lancashire,TC Bruce,KK Jennings,M Montgomery,0,0,,,,,,"",""
+ball,2,6.7,Lancashire,TC Bruce,KK Jennings,M Montgomery,1,0,,,,,,"",""
+ball,2,7.1,Lancashire,TC Bruce,KK Jennings,CG Harrison,1,0,,,,,,"",""
+ball,2,7.2,Lancashire,KK Jennings,TC Bruce,CG Harrison,2,0,,,,,,"",""
+ball,2,7.3,Lancashire,KK Jennings,TC Bruce,CG Harrison,1,0,,,,,,"",""
+ball,2,7.4,Lancashire,TC Bruce,KK Jennings,CG Harrison,1,0,,,,,,"",""
+ball,2,7.5,Lancashire,KK Jennings,TC Bruce,CG Harrison,1,0,,,,,,"",""
+ball,2,7.6,Lancashire,TC Bruce,KK Jennings,CG Harrison,1,0,,,,,,"",""
+ball,2,8.1,Lancashire,TC Bruce,KK Jennings,M Montgomery,4,0,,,,,,"",""
+ball,2,8.2,Lancashire,TC Bruce,KK Jennings,M Montgomery,6,0,,,,,,"",""
+ball,2,8.3,Lancashire,TC Bruce,KK Jennings,M Montgomery,1,0,,,,,,"",""
+ball,2,8.4,Lancashire,KK Jennings,TC Bruce,M Montgomery,1,0,,,,,,"",""
+ball,2,8.5,Lancashire,TC Bruce,KK Jennings,M Montgomery,1,0,,,,,,"",""
+ball,2,8.6,Lancashire,KK Jennings,TC Bruce,M Montgomery,0,0,,,,,,"",""
+ball,2,9.1,Lancashire,TC Bruce,KK Jennings,LA Patterson-White,0,0,,,,,,"",""
+ball,2,9.2,Lancashire,TC Bruce,KK Jennings,LA Patterson-White,0,0,,,,,,bowled,TC Bruce
+ball,2,9.3,Lancashire,MF Hurst,KK Jennings,LA Patterson-White,1,0,,,,,,"",""
+ball,2,9.4,Lancashire,KK Jennings,MF Hurst,LA Patterson-White,1,0,,,,,,"",""
+ball,2,9.5,Lancashire,MF Hurst,KK Jennings,LA Patterson-White,1,0,,,,,,"",""
+ball,2,9.6,Lancashire,KK Jennings,MF Hurst,LA Patterson-White,1,0,,,,,,"",""
+ball,2,10.1,Lancashire,KK Jennings,MF Hurst,CG Harrison,1,0,,,,,,"",""
+ball,2,10.2,Lancashire,MF Hurst,KK Jennings,CG Harrison,1,0,,,,,,"",""
+ball,2,10.3,Lancashire,KK Jennings,MF Hurst,CG Harrison,6,0,,,,,,"",""
+ball,2,10.4,Lancashire,KK Jennings,MF Hurst,CG Harrison,1,0,,,,,,"",""
+ball,2,10.5,Lancashire,MF Hurst,KK Jennings,CG Harrison,1,0,,,,,,"",""
+ball,2,10.6,Lancashire,KK Jennings,MF Hurst,CG Harrison,0,1,1,,,,,"",""
+ball,2,10.7,Lancashire,KK Jennings,MF Hurst,CG Harrison,0,0,,,,,,"",""
+ball,2,11.1,Lancashire,MF Hurst,KK Jennings,LA Patterson-White,0,0,,,,,,"",""
+ball,2,11.2,Lancashire,MF Hurst,KK Jennings,LA Patterson-White,1,0,,,,,,"",""
+ball,2,11.3,Lancashire,KK Jennings,MF Hurst,LA Patterson-White,0,0,,,,,,"",""
+ball,2,11.4,Lancashire,KK Jennings,MF Hurst,LA Patterson-White,0,0,,,,,,"",""
+ball,2,11.5,Lancashire,KK Jennings,MF Hurst,LA Patterson-White,0,0,,,,,,"",""
+ball,2,11.6,Lancashire,KK Jennings,MF Hurst,LA Patterson-White,1,0,,,,,,"",""
+ball,2,12.1,Lancashire,KK Jennings,MF Hurst,LW James,1,0,,,,,,"",""
+ball,2,12.2,Lancashire,MF Hurst,KK Jennings,LW James,0,1,,,,1,,"",""
+ball,2,12.3,Lancashire,KK Jennings,MF Hurst,LW James,1,0,,,,,,"",""
+ball,2,12.4,Lancashire,MF Hurst,KK Jennings,LW James,0,1,1,,,,,"",""
+ball,2,12.5,Lancashire,MF Hurst,KK Jennings,LW James,1,0,,,,,,"",""
+ball,2,12.6,Lancashire,KK Jennings,MF Hurst,LW James,0,0,,,,,,"",""
+ball,2,12.7,Lancashire,KK Jennings,MF Hurst,LW James,1,0,,,,,,"",""
+ball,2,13.1,Lancashire,KK Jennings,MF Hurst,LA Patterson-White,1,0,,,,,,"",""
+ball,2,13.2,Lancashire,MF Hurst,KK Jennings,LA Patterson-White,1,0,,,,,,"",""
+ball,2,13.3,Lancashire,KK Jennings,MF Hurst,LA Patterson-White,1,0,,,,,,"",""
+ball,2,13.4,Lancashire,MF Hurst,KK Jennings,LA Patterson-White,2,0,,,,,,"",""
+ball,2,13.5,Lancashire,MF Hurst,KK Jennings,LA Patterson-White,1,0,,,,,,"",""
+ball,2,13.6,Lancashire,KK Jennings,MF Hurst,LA Patterson-White,1,0,,,,,,"",""
+ball,2,14.1,Lancashire,KK Jennings,MF Hurst,OP Stone,4,0,,,,,,"",""
+ball,2,14.2,Lancashire,KK Jennings,MF Hurst,OP Stone,2,0,,,,,,"",""
+ball,2,14.3,Lancashire,KK Jennings,MF Hurst,OP Stone,1,0,,,,,,"",""
+ball,2,14.4,Lancashire,MF Hurst,KK Jennings,OP Stone,1,0,,,,,,"",""
+ball,2,14.5,Lancashire,KK Jennings,MF Hurst,OP Stone,1,0,,,,,,"",""
+ball,2,14.6,Lancashire,MF Hurst,KK Jennings,OP Stone,2,0,,,,,,"",""
+ball,2,15.1,Lancashire,KK Jennings,MF Hurst,CG Harrison,1,0,,,,,,"",""
+ball,2,15.2,Lancashire,MF Hurst,KK Jennings,CG Harrison,1,0,,,,,,"",""
+ball,2,15.3,Lancashire,KK Jennings,MF Hurst,CG Harrison,4,0,,,,,,"",""
+ball,2,15.4,Lancashire,KK Jennings,MF Hurst,CG Harrison,0,0,,,,,,"",""
+ball,2,15.5,Lancashire,KK Jennings,MF Hurst,CG Harrison,2,0,,,,,,"",""
+ball,2,15.6,Lancashire,KK Jennings,MF Hurst,CG Harrison,0,0,,,,,,bowled,KK Jennings
+ball,2,16.1,Lancashire,MF Hurst,SJ Croft,LA Patterson-White,1,0,,,,,,"",""
+ball,2,16.2,Lancashire,SJ Croft,MF Hurst,LA Patterson-White,1,0,,,,,,"",""
+ball,2,16.3,Lancashire,MF Hurst,SJ Croft,LA Patterson-White,6,0,,,,,,"",""
+ball,2,16.4,Lancashire,MF Hurst,SJ Croft,LA Patterson-White,1,0,,,,,,"",""
+ball,2,16.5,Lancashire,SJ Croft,MF Hurst,LA Patterson-White,0,0,,,,,,"",""
+ball,2,16.6,Lancashire,SJ Croft,MF Hurst,LA Patterson-White,0,0,,,,,,"",""
+ball,2,17.1,Lancashire,MF Hurst,SJ Croft,CG Harrison,4,0,,,,,,"",""
+ball,2,17.2,Lancashire,MF Hurst,SJ Croft,CG Harrison,1,0,,,,,,"",""
+ball,2,17.3,Lancashire,SJ Croft,MF Hurst,CG Harrison,3,0,,,,,,"",""
+ball,2,17.4,Lancashire,MF Hurst,SJ Croft,CG Harrison,1,0,,,,,,"",""
+ball,2,17.5,Lancashire,SJ Croft,MF Hurst,CG Harrison,0,0,,,,,,"",""
+ball,2,17.6,Lancashire,SJ Croft,MF Hurst,CG Harrison,0,0,,,,,,"",""
+ball,2,18.1,Lancashire,MF Hurst,SJ Croft,BG Lister,1,0,,,,,,"",""
+ball,2,18.2,Lancashire,SJ Croft,MF Hurst,BG Lister,1,0,,,,,,"",""
+ball,2,18.3,Lancashire,MF Hurst,SJ Croft,BG Lister,4,0,,,,,,"",""

@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Washington Freedom
+info,team,San Francisco Unicorns
+info,gender,male
+info,season,2025
+info,date,2025/06/28
+info,event,Major League Cricket
+info,match_number,19
+info,venue,"Grand Prairie Stadium, Dallas"
+info,city,Dallas
+info,toss_winner,Washington Freedom
+info,toss_decision,bat
+info,player_of_match,MJ Owen
+info,umpire,R Samuels
+info,umpire,WR Knights
+info,reserve_umpire,Vijaya Mallela
+info,tv_umpire,M Erasmus
+info,match_referee,SJA Taufel
+info,winner,Washington Freedom
+info,winner_runs,12
+info,player,Washington Freedom,MJ Owen
+info,player,Washington Freedom,R Ravindra
+info,player,Washington Freedom,AGS Gous
+info,player,Washington Freedom,J Edwards
+info,player,Washington Freedom,GJ Maxwell
+info,player,Washington Freedom,GD Phillips
+info,player,Washington Freedom,AJ Pienaar
+info,player,Washington Freedom,Mukhtar Ahmed
+info,player,Washington Freedom,IG Holland
+info,player,Washington Freedom,SN Netravalkar
+info,player,Washington Freedom,MA Aponso
+info,player,San Francisco Unicorns,MW Short
+info,player,San Francisco Unicorns,FH Allen
+info,player,San Francisco Unicorns,J Fraser-McGurk
+info,player,San Francisco Unicorns,SP Krishnamurthi
+info,player,San Francisco Unicorns,Hassan Khan
+info,player,San Francisco Unicorns,R Shepherd
+info,player,San Francisco Unicorns,XC Bartlett
+info,player,San Francisco Unicorns,JN Hamilton
+info,player,San Francisco Unicorns,Haris Rauf
+info,player,San Francisco Unicorns,BL Couch
+info,player,San Francisco Unicorns,LE Plunkett
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,BL Couch,be69e09d
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hassan Khan,486065b3
+info,registry,people,IG Holland,4167f30b
+info,registry,people,J Edwards,f787e0eb
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JN Hamilton,78feb458
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Aponso,e2ee90d9
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mukhtar Ahmed,456f6d99
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SP Krishnamurthi,3b8e7647
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,XC Bartlett,3b53243a
+ball,1,0.1,Washington Freedom,MJ Owen,R Ravindra,XC Bartlett,0,0,,,,,,caught,MJ Owen
+ball,1,0.2,Washington Freedom,AGS Gous,R Ravindra,XC Bartlett,1,0,,,,,,"",""
+ball,1,0.3,Washington Freedom,R Ravindra,AGS Gous,XC Bartlett,1,0,,,,,,"",""
+ball,1,0.4,Washington Freedom,AGS Gous,R Ravindra,XC Bartlett,0,0,,,,,,caught,AGS Gous
+ball,1,0.5,Washington Freedom,J Edwards,R Ravindra,XC Bartlett,0,0,,,,,,"",""
+ball,1,0.6,Washington Freedom,J Edwards,R Ravindra,XC Bartlett,0,0,,,,,,"",""
+ball,1,1.1,Washington Freedom,R Ravindra,J Edwards,BL Couch,1,0,,,,,,"",""
+ball,1,1.2,Washington Freedom,J Edwards,R Ravindra,BL Couch,1,0,,,,,,"",""
+ball,1,1.3,Washington Freedom,R Ravindra,J Edwards,BL Couch,0,0,,,,,,"",""
+ball,1,1.4,Washington Freedom,R Ravindra,J Edwards,BL Couch,4,0,,,,,,"",""
+ball,1,1.5,Washington Freedom,R Ravindra,J Edwards,BL Couch,0,0,,,,,,"",""
+ball,1,1.6,Washington Freedom,R Ravindra,J Edwards,BL Couch,0,0,,,,,,"",""
+ball,1,2.1,Washington Freedom,J Edwards,R Ravindra,XC Bartlett,0,0,,,,,,"",""
+ball,1,2.2,Washington Freedom,J Edwards,R Ravindra,XC Bartlett,1,0,,,,,,"",""
+ball,1,2.3,Washington Freedom,R Ravindra,J Edwards,XC Bartlett,1,0,,,,,,"",""
+ball,1,2.4,Washington Freedom,J Edwards,R Ravindra,XC Bartlett,1,0,,,,,,"",""
+ball,1,2.5,Washington Freedom,R Ravindra,J Edwards,XC Bartlett,2,0,,,,,,"",""
+ball,1,2.6,Washington Freedom,R Ravindra,J Edwards,XC Bartlett,0,0,,,,,,caught,R Ravindra
+ball,1,3.1,Washington Freedom,J Edwards,GJ Maxwell,BL Couch,1,1,,1,,,,"",""
+ball,1,3.2,Washington Freedom,GJ Maxwell,J Edwards,BL Couch,6,0,,,,,,"",""
+ball,1,3.3,Washington Freedom,GJ Maxwell,J Edwards,BL Couch,1,0,,,,,,"",""
+ball,1,3.4,Washington Freedom,J Edwards,GJ Maxwell,BL Couch,1,0,,,,,,"",""
+ball,1,3.5,Washington Freedom,GJ Maxwell,J Edwards,BL Couch,1,0,,,,,,"",""
+ball,1,3.6,Washington Freedom,J Edwards,GJ Maxwell,BL Couch,6,0,,,,,,"",""
+ball,1,3.7,Washington Freedom,J Edwards,GJ Maxwell,BL Couch,0,0,,,,,,"",""
+ball,1,4.1,Washington Freedom,GJ Maxwell,J Edwards,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.2,Washington Freedom,GJ Maxwell,J Edwards,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.3,Washington Freedom,GJ Maxwell,J Edwards,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.4,Washington Freedom,GJ Maxwell,J Edwards,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.5,Washington Freedom,GJ Maxwell,J Edwards,Haris Rauf,0,0,,,,,,caught,GJ Maxwell
+ball,1,4.6,Washington Freedom,GD Phillips,J Edwards,Haris Rauf,0,0,,,,,,"",""
+ball,1,5.1,Washington Freedom,J Edwards,GD Phillips,LE Plunkett,0,0,,,,,,"",""
+ball,1,5.2,Washington Freedom,J Edwards,GD Phillips,LE Plunkett,1,0,,,,,,"",""
+ball,1,5.3,Washington Freedom,GD Phillips,J Edwards,LE Plunkett,1,0,,,,,,"",""
+ball,1,5.4,Washington Freedom,J Edwards,GD Phillips,LE Plunkett,4,0,,,,,,"",""
+ball,1,5.5,Washington Freedom,J Edwards,GD Phillips,LE Plunkett,0,0,,,,,,"",""
+ball,1,5.6,Washington Freedom,J Edwards,GD Phillips,LE Plunkett,1,0,,,,,,"",""
+ball,1,6.1,Washington Freedom,J Edwards,GD Phillips,Hassan Khan,1,0,,,,,,"",""
+ball,1,6.2,Washington Freedom,GD Phillips,J Edwards,Hassan Khan,1,0,,,,,,"",""
+ball,1,6.3,Washington Freedom,J Edwards,GD Phillips,Hassan Khan,1,0,,,,,,"",""
+ball,1,6.4,Washington Freedom,GD Phillips,J Edwards,Hassan Khan,4,0,,,,,,"",""
+ball,1,6.5,Washington Freedom,GD Phillips,J Edwards,Hassan Khan,0,0,,,,,,"",""
+ball,1,6.6,Washington Freedom,GD Phillips,J Edwards,Hassan Khan,2,0,,,,,,"",""
+ball,1,7.1,Washington Freedom,J Edwards,GD Phillips,R Shepherd,1,0,,,,,,"",""
+ball,1,7.2,Washington Freedom,GD Phillips,J Edwards,R Shepherd,1,0,,,,,,"",""
+ball,1,7.3,Washington Freedom,J Edwards,GD Phillips,R Shepherd,1,0,,,,,,"",""
+ball,1,7.4,Washington Freedom,GD Phillips,J Edwards,R Shepherd,0,0,,,,,,"",""
+ball,1,7.5,Washington Freedom,GD Phillips,J Edwards,R Shepherd,1,0,,,,,,"",""
+ball,1,7.6,Washington Freedom,J Edwards,GD Phillips,R Shepherd,0,0,,,,,,"",""
+ball,1,8.1,Washington Freedom,GD Phillips,J Edwards,Haris Rauf,1,0,,,,,,"",""
+ball,1,8.2,Washington Freedom,J Edwards,GD Phillips,Haris Rauf,0,0,,,,,,"",""
+ball,1,8.3,Washington Freedom,J Edwards,GD Phillips,Haris Rauf,1,0,,,,,,"",""
+ball,1,8.4,Washington Freedom,GD Phillips,J Edwards,Haris Rauf,1,0,,,,,,"",""
+ball,1,8.5,Washington Freedom,J Edwards,GD Phillips,Haris Rauf,0,1,1,,,,,"",""
+ball,1,8.6,Washington Freedom,J Edwards,GD Phillips,Haris Rauf,1,0,,,,,,"",""
+ball,1,8.7,Washington Freedom,GD Phillips,J Edwards,Haris Rauf,1,0,,,,,,"",""
+ball,1,9.1,Washington Freedom,GD Phillips,J Edwards,R Shepherd,1,0,,,,,,"",""
+ball,1,9.2,Washington Freedom,J Edwards,GD Phillips,R Shepherd,1,0,,,,,,"",""
+ball,1,9.3,Washington Freedom,GD Phillips,J Edwards,R Shepherd,1,0,,,,,,"",""
+ball,1,9.4,Washington Freedom,J Edwards,GD Phillips,R Shepherd,0,0,,,,,,"",""
+ball,1,9.5,Washington Freedom,J Edwards,GD Phillips,R Shepherd,1,0,,,,,,"",""
+ball,1,9.6,Washington Freedom,GD Phillips,J Edwards,R Shepherd,2,0,,,,,,"",""
+ball,1,10.1,Washington Freedom,J Edwards,GD Phillips,Hassan Khan,0,0,,,,,,"",""
+ball,1,10.2,Washington Freedom,J Edwards,GD Phillips,Hassan Khan,0,0,,,,,,"",""
+ball,1,10.3,Washington Freedom,J Edwards,GD Phillips,Hassan Khan,1,0,,,,,,"",""
+ball,1,10.4,Washington Freedom,GD Phillips,J Edwards,Hassan Khan,1,0,,,,,,"",""
+ball,1,10.5,Washington Freedom,J Edwards,GD Phillips,Hassan Khan,6,0,,,,,,"",""
+ball,1,10.6,Washington Freedom,J Edwards,GD Phillips,Hassan Khan,1,0,,,,,,"",""
+ball,1,11.1,Washington Freedom,J Edwards,GD Phillips,BL Couch,2,0,,,,,,"",""
+ball,1,11.2,Washington Freedom,J Edwards,GD Phillips,BL Couch,1,0,,,,,,"",""
+ball,1,11.3,Washington Freedom,GD Phillips,J Edwards,BL Couch,1,0,,,,,,"",""
+ball,1,11.4,Washington Freedom,J Edwards,GD Phillips,BL Couch,0,0,,,,,,"",""
+ball,1,11.5,Washington Freedom,J Edwards,GD Phillips,BL Couch,1,0,,,,,,"",""
+ball,1,11.6,Washington Freedom,GD Phillips,J Edwards,BL Couch,1,0,,,,,,"",""
+ball,1,12.1,Washington Freedom,GD Phillips,J Edwards,Hassan Khan,1,0,,,,,,"",""
+ball,1,12.2,Washington Freedom,J Edwards,GD Phillips,Hassan Khan,1,0,,,,,,"",""
+ball,1,12.3,Washington Freedom,GD Phillips,J Edwards,Hassan Khan,1,0,,,,,,"",""
+ball,1,12.4,Washington Freedom,J Edwards,GD Phillips,Hassan Khan,1,0,,,,,,"",""
+ball,1,12.5,Washington Freedom,GD Phillips,J Edwards,Hassan Khan,2,0,,,,,,"",""
+ball,1,12.6,Washington Freedom,GD Phillips,J Edwards,Hassan Khan,1,0,,,,,,"",""
+ball,1,13.1,Washington Freedom,GD Phillips,J Edwards,R Shepherd,0,0,,,,,,"",""
+ball,1,13.2,Washington Freedom,GD Phillips,J Edwards,R Shepherd,4,0,,,,,,"",""
+ball,1,13.3,Washington Freedom,GD Phillips,J Edwards,R Shepherd,1,0,,,,,,"",""
+ball,1,13.4,Washington Freedom,J Edwards,GD Phillips,R Shepherd,0,1,1,,,,,"",""
+ball,1,13.5,Washington Freedom,J Edwards,GD Phillips,R Shepherd,1,0,,,,,,"",""
+ball,1,13.6,Washington Freedom,GD Phillips,J Edwards,R Shepherd,1,0,,,,,,"",""
+ball,1,13.7,Washington Freedom,J Edwards,GD Phillips,R Shepherd,0,0,,,,,,"",""
+ball,1,14.1,Washington Freedom,GD Phillips,J Edwards,LE Plunkett,1,0,,,,,,"",""
+ball,1,14.2,Washington Freedom,J Edwards,GD Phillips,LE Plunkett,1,0,,,,,,"",""
+ball,1,14.3,Washington Freedom,GD Phillips,J Edwards,LE Plunkett,0,0,,,,,,"",""
+ball,1,14.4,Washington Freedom,GD Phillips,J Edwards,LE Plunkett,1,0,,,,,,"",""
+ball,1,14.5,Washington Freedom,J Edwards,GD Phillips,LE Plunkett,1,1,,1,,,,"",""
+ball,1,14.6,Washington Freedom,GD Phillips,J Edwards,LE Plunkett,2,0,,,,,,"",""
+ball,1,14.7,Washington Freedom,GD Phillips,J Edwards,LE Plunkett,1,0,,,,,,"",""
+ball,1,15.1,Washington Freedom,GD Phillips,J Edwards,XC Bartlett,1,0,,,,,,"",""
+ball,1,15.2,Washington Freedom,J Edwards,GD Phillips,XC Bartlett,0,0,,,,,,caught,J Edwards
+ball,1,15.3,Washington Freedom,AJ Pienaar,GD Phillips,XC Bartlett,1,0,,,,,,"",""
+ball,1,15.4,Washington Freedom,GD Phillips,AJ Pienaar,XC Bartlett,6,0,,,,,,"",""
+ball,1,15.5,Washington Freedom,GD Phillips,AJ Pienaar,XC Bartlett,2,0,,,,,,"",""
+ball,1,15.6,Washington Freedom,GD Phillips,AJ Pienaar,XC Bartlett,0,0,,,,,,"",""
+ball,1,16.1,Washington Freedom,AJ Pienaar,GD Phillips,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.2,Washington Freedom,GD Phillips,AJ Pienaar,Haris Rauf,6,0,,,,,,"",""
+ball,1,16.3,Washington Freedom,GD Phillips,AJ Pienaar,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.4,Washington Freedom,AJ Pienaar,GD Phillips,Haris Rauf,2,0,,,,,,"",""
+ball,1,16.5,Washington Freedom,AJ Pienaar,GD Phillips,Haris Rauf,4,0,,,,,,"",""
+ball,1,16.6,Washington Freedom,AJ Pienaar,GD Phillips,Haris Rauf,2,0,,,,,,"",""
+ball,1,17.1,Washington Freedom,GD Phillips,AJ Pienaar,R Shepherd,6,0,,,,,,"",""
+ball,1,17.2,Washington Freedom,GD Phillips,AJ Pienaar,R Shepherd,0,0,,,,,,caught,GD Phillips
+ball,1,17.3,Washington Freedom,Mukhtar Ahmed,AJ Pienaar,R Shepherd,0,0,,,,,,"",""
+ball,1,17.4,Washington Freedom,Mukhtar Ahmed,AJ Pienaar,R Shepherd,1,0,,,,,,"",""
+ball,1,17.5,Washington Freedom,AJ Pienaar,Mukhtar Ahmed,R Shepherd,1,0,,,,,,"",""
+ball,1,17.6,Washington Freedom,Mukhtar Ahmed,AJ Pienaar,R Shepherd,2,0,,,,,,"",""
+ball,1,18.1,Washington Freedom,AJ Pienaar,Mukhtar Ahmed,XC Bartlett,1,0,,,,,,"",""
+ball,1,18.2,Washington Freedom,Mukhtar Ahmed,AJ Pienaar,XC Bartlett,2,0,,,,,,"",""
+ball,1,18.3,Washington Freedom,Mukhtar Ahmed,AJ Pienaar,XC Bartlett,1,0,,,,,,"",""
+ball,1,18.4,Washington Freedom,AJ Pienaar,Mukhtar Ahmed,XC Bartlett,6,0,,,,,,"",""
+ball,1,18.5,Washington Freedom,AJ Pienaar,Mukhtar Ahmed,XC Bartlett,4,0,,,,,,"",""
+ball,1,18.6,Washington Freedom,AJ Pienaar,Mukhtar Ahmed,XC Bartlett,1,0,,,,,,"",""
+ball,1,19.1,Washington Freedom,AJ Pienaar,Mukhtar Ahmed,Haris Rauf,1,0,,,,,,"",""
+ball,1,19.2,Washington Freedom,Mukhtar Ahmed,AJ Pienaar,Haris Rauf,4,0,,,,,,"",""
+ball,1,19.3,Washington Freedom,Mukhtar Ahmed,AJ Pienaar,Haris Rauf,6,0,,,,,,"",""
+ball,1,19.4,Washington Freedom,Mukhtar Ahmed,AJ Pienaar,Haris Rauf,0,0,,,,,,"",""
+ball,1,19.5,Washington Freedom,Mukhtar Ahmed,AJ Pienaar,Haris Rauf,1,0,,,,,,"",""
+ball,1,19.6,Washington Freedom,AJ Pienaar,Mukhtar Ahmed,Haris Rauf,6,0,,,,,,"",""
+ball,2,0.1,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,0,0,,,,,,"",""
+ball,2,0.2,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,0,0,,,,,,"",""
+ball,2,0.3,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,0,0,,,,,,"",""
+ball,2,0.4,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,1,0,,,,,,"",""
+ball,2,0.5,San Francisco Unicorns,FH Allen,MW Short,MA Aponso,4,0,,,,,,"",""
+ball,2,0.6,San Francisco Unicorns,FH Allen,MW Short,MA Aponso,0,0,,,,,,"",""
+ball,2,1.1,San Francisco Unicorns,MW Short,FH Allen,SN Netravalkar,0,0,,,,,,"",""
+ball,2,1.2,San Francisco Unicorns,MW Short,FH Allen,SN Netravalkar,1,0,,,,,,"",""
+ball,2,1.3,San Francisco Unicorns,FH Allen,MW Short,SN Netravalkar,0,0,,,,,,"",""
+ball,2,1.4,San Francisco Unicorns,FH Allen,MW Short,SN Netravalkar,1,0,,,,,,"",""
+ball,2,1.5,San Francisco Unicorns,MW Short,FH Allen,SN Netravalkar,0,0,,,,,,"",""
+ball,2,1.6,San Francisco Unicorns,MW Short,FH Allen,SN Netravalkar,1,0,,,,,,"",""
+ball,2,2.1,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,4,0,,,,,,"",""
+ball,2,2.2,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,0,0,,,,,,"",""
+ball,2,2.3,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,0,0,,,,,,"",""
+ball,2,2.4,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,0,1,1,,,,,"",""
+ball,2,2.5,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,6,0,,,,,,"",""
+ball,2,2.6,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,2,0,,,,,,"",""
+ball,2,2.7,San Francisco Unicorns,MW Short,FH Allen,MA Aponso,1,0,,,,,,"",""
+ball,2,3.1,San Francisco Unicorns,MW Short,FH Allen,J Edwards,4,0,,,,,,"",""
+ball,2,3.2,San Francisco Unicorns,MW Short,FH Allen,J Edwards,0,0,,,,,,"",""
+ball,2,3.3,San Francisco Unicorns,MW Short,FH Allen,J Edwards,6,0,,,,,,"",""
+ball,2,3.4,San Francisco Unicorns,MW Short,FH Allen,J Edwards,1,0,,,,,,"",""
+ball,2,3.5,San Francisco Unicorns,FH Allen,MW Short,J Edwards,1,0,,,,,,"",""
+ball,2,3.6,San Francisco Unicorns,MW Short,FH Allen,J Edwards,0,0,,,,,,"",""
+ball,2,4.1,San Francisco Unicorns,FH Allen,MW Short,SN Netravalkar,0,0,,,,,,"",""
+ball,2,4.2,San Francisco Unicorns,FH Allen,MW Short,SN Netravalkar,1,0,,,,,,"",""
+ball,2,4.3,San Francisco Unicorns,MW Short,FH Allen,SN Netravalkar,6,0,,,,,,"",""
+ball,2,4.4,San Francisco Unicorns,MW Short,FH Allen,SN Netravalkar,4,0,,,,,,"",""
+ball,2,4.5,San Francisco Unicorns,MW Short,FH Allen,SN Netravalkar,6,0,,,,,,"",""
+ball,2,4.6,San Francisco Unicorns,MW Short,FH Allen,SN Netravalkar,0,0,,,,,,"",""
+ball,2,5.1,San Francisco Unicorns,FH Allen,MW Short,MA Aponso,0,0,,,,,,bowled,FH Allen
+ball,2,5.2,San Francisco Unicorns,J Fraser-McGurk,MW Short,MA Aponso,0,0,,,,,,"",""
+ball,2,5.3,San Francisco Unicorns,J Fraser-McGurk,MW Short,MA Aponso,0,0,,,,,,"",""
+ball,2,5.4,San Francisco Unicorns,J Fraser-McGurk,MW Short,MA Aponso,1,0,,,,,,"",""
+ball,2,5.5,San Francisco Unicorns,MW Short,J Fraser-McGurk,MA Aponso,0,0,,,,,,"",""
+ball,2,5.6,San Francisco Unicorns,MW Short,J Fraser-McGurk,MA Aponso,0,0,,,,,,"",""
+ball,2,6.1,San Francisco Unicorns,J Fraser-McGurk,MW Short,R Ravindra,1,0,,,,,,"",""
+ball,2,6.2,San Francisco Unicorns,MW Short,J Fraser-McGurk,R Ravindra,1,0,,,,,,"",""
+ball,2,6.3,San Francisco Unicorns,J Fraser-McGurk,MW Short,R Ravindra,1,0,,,,,,"",""
+ball,2,6.4,San Francisco Unicorns,MW Short,J Fraser-McGurk,R Ravindra,1,0,,,,,,"",""
+ball,2,6.5,San Francisco Unicorns,J Fraser-McGurk,MW Short,R Ravindra,0,0,,,,,,bowled,J Fraser-McGurk
+ball,2,6.6,San Francisco Unicorns,SP Krishnamurthi,MW Short,R Ravindra,0,0,,,,,,"",""
+ball,2,7.1,San Francisco Unicorns,MW Short,SP Krishnamurthi,IG Holland,1,0,,,,,,"",""
+ball,2,7.2,San Francisco Unicorns,SP Krishnamurthi,MW Short,IG Holland,0,0,,,,,,"",""
+ball,2,7.3,San Francisco Unicorns,SP Krishnamurthi,MW Short,IG Holland,1,0,,,,,,"",""
+ball,2,7.4,San Francisco Unicorns,MW Short,SP Krishnamurthi,IG Holland,1,0,,,,,,"",""
+ball,2,7.5,San Francisco Unicorns,SP Krishnamurthi,MW Short,IG Holland,1,0,,,,,,"",""
+ball,2,7.6,San Francisco Unicorns,MW Short,SP Krishnamurthi,IG Holland,0,0,,,,,,"",""
+ball,2,8.1,San Francisco Unicorns,SP Krishnamurthi,MW Short,R Ravindra,6,0,,,,,,"",""
+ball,2,8.2,San Francisco Unicorns,SP Krishnamurthi,MW Short,R Ravindra,4,0,,,,,,"",""
+ball,2,8.3,San Francisco Unicorns,SP Krishnamurthi,MW Short,R Ravindra,1,0,,,,,,"",""
+ball,2,8.4,San Francisco Unicorns,MW Short,SP Krishnamurthi,R Ravindra,6,0,,,,,,"",""
+ball,2,8.5,San Francisco Unicorns,MW Short,SP Krishnamurthi,R Ravindra,6,0,,,,,,"",""
+ball,2,8.6,San Francisco Unicorns,MW Short,SP Krishnamurthi,R Ravindra,0,0,,,,,,"",""
+ball,2,9.1,San Francisco Unicorns,SP Krishnamurthi,MW Short,IG Holland,0,0,,,,,,"",""
+ball,2,9.2,San Francisco Unicorns,SP Krishnamurthi,MW Short,IG Holland,1,0,,,,,,"",""
+ball,2,9.3,San Francisco Unicorns,MW Short,SP Krishnamurthi,IG Holland,0,2,,,,2,,"",""
+ball,2,9.4,San Francisco Unicorns,MW Short,SP Krishnamurthi,IG Holland,2,0,,,,,,"",""
+ball,2,9.5,San Francisco Unicorns,MW Short,SP Krishnamurthi,IG Holland,1,0,,,,,,"",""
+ball,2,9.6,San Francisco Unicorns,SP Krishnamurthi,MW Short,IG Holland,2,0,,,,,,"",""
+ball,2,10.1,San Francisco Unicorns,MW Short,SP Krishnamurthi,MJ Owen,1,0,,,,,,"",""
+ball,2,10.2,San Francisco Unicorns,SP Krishnamurthi,MW Short,MJ Owen,1,0,,,,,,"",""
+ball,2,10.3,San Francisco Unicorns,MW Short,SP Krishnamurthi,MJ Owen,0,0,,,,,,"",""
+ball,2,10.4,San Francisco Unicorns,MW Short,SP Krishnamurthi,MJ Owen,4,0,,,,,,"",""
+ball,2,10.5,San Francisco Unicorns,MW Short,SP Krishnamurthi,MJ Owen,0,0,,,,,,caught,MW Short
+ball,2,10.6,San Francisco Unicorns,Hassan Khan,SP Krishnamurthi,MJ Owen,1,0,,,,,,"",""
+ball,2,11.1,San Francisco Unicorns,Hassan Khan,SP Krishnamurthi,MA Aponso,0,0,,,,,,"",""
+ball,2,11.2,San Francisco Unicorns,Hassan Khan,SP Krishnamurthi,MA Aponso,1,0,,,,,,"",""
+ball,2,11.3,San Francisco Unicorns,SP Krishnamurthi,Hassan Khan,MA Aponso,0,0,,,,,,"",""
+ball,2,11.4,San Francisco Unicorns,SP Krishnamurthi,Hassan Khan,MA Aponso,0,0,,,,,,"",""
+ball,2,11.5,San Francisco Unicorns,SP Krishnamurthi,Hassan Khan,MA Aponso,1,0,,,,,,"",""
+ball,2,11.6,San Francisco Unicorns,Hassan Khan,SP Krishnamurthi,MA Aponso,1,0,,,,,,"",""
+ball,2,12.1,San Francisco Unicorns,Hassan Khan,SP Krishnamurthi,MJ Owen,4,0,,,,,,"",""
+ball,2,12.2,San Francisco Unicorns,Hassan Khan,SP Krishnamurthi,MJ Owen,0,0,,,,,,"",""
+ball,2,12.3,San Francisco Unicorns,Hassan Khan,SP Krishnamurthi,MJ Owen,0,0,,,,,,caught,Hassan Khan
+ball,2,12.4,San Francisco Unicorns,R Shepherd,SP Krishnamurthi,MJ Owen,0,0,,,,,,caught,R Shepherd
+ball,2,12.5,San Francisco Unicorns,XC Bartlett,SP Krishnamurthi,MJ Owen,0,0,,,,,,"",""
+ball,2,12.6,San Francisco Unicorns,XC Bartlett,SP Krishnamurthi,MJ Owen,0,0,,,,,,"",""
+ball,2,13.1,San Francisco Unicorns,SP Krishnamurthi,XC Bartlett,IG Holland,1,0,,,,,,"",""
+ball,2,13.2,San Francisco Unicorns,XC Bartlett,SP Krishnamurthi,IG Holland,0,0,,,,,,"",""
+ball,2,13.3,San Francisco Unicorns,XC Bartlett,SP Krishnamurthi,IG Holland,0,0,,,,,,"",""
+ball,2,13.4,San Francisco Unicorns,XC Bartlett,SP Krishnamurthi,IG Holland,1,0,,,,,,"",""
+ball,2,13.5,San Francisco Unicorns,SP Krishnamurthi,XC Bartlett,IG Holland,4,0,,,,,,"",""
+ball,2,13.6,San Francisco Unicorns,SP Krishnamurthi,XC Bartlett,IG Holland,0,0,,,,,,"",""
+ball,2,14.1,San Francisco Unicorns,XC Bartlett,SP Krishnamurthi,J Edwards,0,0,,,,,,caught,XC Bartlett
+ball,2,14.2,San Francisco Unicorns,JN Hamilton,SP Krishnamurthi,J Edwards,0,0,,,,,,"",""
+ball,2,14.3,San Francisco Unicorns,JN Hamilton,SP Krishnamurthi,J Edwards,0,0,,,,,,"",""
+ball,2,14.4,San Francisco Unicorns,JN Hamilton,SP Krishnamurthi,J Edwards,1,0,,,,,,"",""
+ball,2,14.5,San Francisco Unicorns,SP Krishnamurthi,JN Hamilton,J Edwards,0,0,,,,,,"",""
+ball,2,14.6,San Francisco Unicorns,SP Krishnamurthi,JN Hamilton,J Edwards,1,0,,,,,,"",""
+ball,2,15.1,San Francisco Unicorns,SP Krishnamurthi,JN Hamilton,IG Holland,0,0,,,,,,"",""
+ball,2,15.2,San Francisco Unicorns,SP Krishnamurthi,JN Hamilton,IG Holland,0,0,,,,,,caught,SP Krishnamurthi
+ball,2,15.3,San Francisco Unicorns,Haris Rauf,JN Hamilton,IG Holland,1,0,,,,,,"",""
+ball,2,15.4,San Francisco Unicorns,JN Hamilton,Haris Rauf,IG Holland,4,0,,,,,,"",""
+ball,2,15.5,San Francisco Unicorns,JN Hamilton,Haris Rauf,IG Holland,1,0,,,,,,"",""
+ball,2,15.6,San Francisco Unicorns,Haris Rauf,JN Hamilton,IG Holland,1,0,,,,,,"",""
+ball,2,16.1,San Francisco Unicorns,Haris Rauf,JN Hamilton,J Edwards,0,0,,,,,,"",""
+ball,2,16.2,San Francisco Unicorns,Haris Rauf,JN Hamilton,J Edwards,4,0,,,,,,"",""
+ball,2,16.3,San Francisco Unicorns,Haris Rauf,JN Hamilton,J Edwards,2,0,,,,,,"",""
+ball,2,16.4,San Francisco Unicorns,Haris Rauf,JN Hamilton,J Edwards,1,0,,,,,,"",""
+ball,2,16.5,San Francisco Unicorns,JN Hamilton,Haris Rauf,J Edwards,1,0,,,,,,"",""
+ball,2,16.6,San Francisco Unicorns,Haris Rauf,JN Hamilton,J Edwards,0,0,,,,,,"",""
+ball,2,17.1,San Francisco Unicorns,JN Hamilton,Haris Rauf,SN Netravalkar,4,0,,,,,,"",""
+ball,2,17.2,San Francisco Unicorns,JN Hamilton,Haris Rauf,SN Netravalkar,0,0,,,,,,"",""
+ball,2,17.3,San Francisco Unicorns,JN Hamilton,Haris Rauf,SN Netravalkar,2,0,,,,,,"",""
+ball,2,17.4,San Francisco Unicorns,JN Hamilton,Haris Rauf,SN Netravalkar,1,0,,,,,,"",""
+ball,2,17.5,San Francisco Unicorns,Haris Rauf,JN Hamilton,SN Netravalkar,1,0,,,,,,"",""
+ball,2,17.6,San Francisco Unicorns,JN Hamilton,Haris Rauf,SN Netravalkar,1,0,,,,,,"",""
+ball,2,18.1,San Francisco Unicorns,JN Hamilton,Haris Rauf,MJ Owen,2,0,,,,,,"",""
+ball,2,18.2,San Francisco Unicorns,JN Hamilton,Haris Rauf,MJ Owen,0,1,1,,,,,"",""
+ball,2,18.3,San Francisco Unicorns,JN Hamilton,Haris Rauf,MJ Owen,1,0,,,,,,"",""
+ball,2,18.4,San Francisco Unicorns,Haris Rauf,JN Hamilton,MJ Owen,0,0,,,,,,caught,Haris Rauf
+ball,2,18.5,San Francisco Unicorns,BL Couch,JN Hamilton,MJ Owen,0,0,,,,,,caught,BL Couch
+ball,2,18.6,San Francisco Unicorns,LE Plunkett,JN Hamilton,MJ Owen,1,0,,,,,,"",""
+ball,2,18.7,San Francisco Unicorns,JN Hamilton,LE Plunkett,MJ Owen,1,0,,,,,,"",""
+ball,2,19.1,San Francisco Unicorns,JN Hamilton,LE Plunkett,SN Netravalkar,1,0,,,,,,"",""
+ball,2,19.2,San Francisco Unicorns,LE Plunkett,JN Hamilton,SN Netravalkar,1,0,,,,,,"",""
+ball,2,19.3,San Francisco Unicorns,JN Hamilton,LE Plunkett,SN Netravalkar,4,0,,,,,,"",""
+ball,2,19.4,San Francisco Unicorns,JN Hamilton,LE Plunkett,SN Netravalkar,6,0,,,,,,"",""
+ball,2,19.5,San Francisco Unicorns,JN Hamilton,LE Plunkett,SN Netravalkar,1,0,,,,,,"",""
+ball,2,19.6,San Francisco Unicorns,LE Plunkett,JN Hamilton,SN Netravalkar,1,0,,,,,,"",""

@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Warriors
+info,gender,male
+info,season,2013/14
+info,date,2014/01/22
+info,event,Ram Slam T20 Challenge
+info,venue,"Diamond Oval, Kimberley"
+info,city,Kimberley
+info,toss_winner,Warriors
+info,toss_decision,field
+info,player_of_match,WL Coetsee
+info,player_of_match,RR Rossouw
+info,umpire,BP Jele
+info,umpire,KH Hurter
+info,reserve_umpire,RN Hendricks
+info,match_referee,A Barnes
+info,winner,Knights
+info,winner_runs,5
+info,player,Knights,RR Hendricks
+info,player,Knights,RR Rossouw
+info,player,Knights,D Elgar
+info,player,Knights,AJ Pienaar
+info,player,Knights,WL Coetsee
+info,player,Knights,R McLaren
+info,player,Knights,JJ van der Wath
+info,player,Knights,D du Preez
+info,player,Knights,LN Mosena
+info,player,Knights,RK Terblanche
+info,player,Knights,MP Siboto
+info,player,Warriors,AG Prince
+info,player,Warriors,JT Smuts
+info,player,Warriors,CA Ingram
+info,player,Warriors,RT Bailey
+info,player,Warriors,C Jonker
+info,player,Warriors,DJ Jacobs
+info,player,Warriors,WD Parnell
+info,player,Warriors,SR Harmer
+info,player,Warriors,ACR Birch
+info,player,Warriors,J Theron
+info,player,Warriors,L Mbane
+info,registry,people,A Barnes,f9607922
+info,registry,people,ACR Birch,9df3a2f4
+info,registry,people,AG Prince,035cb925
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Jonker,a81d6706
+info,registry,people,CA Ingram,c995d726
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D du Preez,d7a57f75
+info,registry,people,DJ Jacobs,a84468fe
+info,registry,people,J Theron,dec8e038
+info,registry,people,JJ van der Wath,6821ac10
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KH Hurter,bda8cca8
+info,registry,people,L Mbane,ca322fd6
+info,registry,people,LN Mosena,4c9c19e3
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,R McLaren,c654af19
+info,registry,people,RK Terblanche,807b63ae
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RT Bailey,93a751e8
+info,registry,people,SR Harmer,23638956
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WL Coetsee,5f419ace
+ball,1,0.1,Knights,RR Hendricks,RR Rossouw,WD Parnell,1,0,,,,,,"",""
+ball,1,0.2,Knights,RR Rossouw,RR Hendricks,WD Parnell,0,0,,,,,,"",""
+ball,1,0.3,Knights,RR Rossouw,RR Hendricks,WD Parnell,0,0,,,,,,"",""
+ball,1,0.4,Knights,RR Rossouw,RR Hendricks,WD Parnell,1,0,,,,,,"",""
+ball,1,0.5,Knights,RR Hendricks,RR Rossouw,WD Parnell,0,0,,,,,,"",""
+ball,1,0.6,Knights,RR Hendricks,RR Rossouw,WD Parnell,1,0,,,,,,"",""
+ball,1,1.1,Knights,RR Hendricks,RR Rossouw,ACR Birch,0,0,,,,,,"",""
+ball,1,1.2,Knights,RR Hendricks,RR Rossouw,ACR Birch,4,0,,,,,,"",""
+ball,1,1.3,Knights,RR Hendricks,RR Rossouw,ACR Birch,2,0,,,,,,"",""
+ball,1,1.4,Knights,RR Hendricks,RR Rossouw,ACR Birch,0,0,,,,,,caught,RR Hendricks
+ball,1,1.5,Knights,RR Rossouw,D Elgar,ACR Birch,0,0,,,,,,"",""
+ball,1,1.6,Knights,RR Rossouw,D Elgar,ACR Birch,0,0,,,,,,"",""
+ball,1,2.1,Knights,D Elgar,RR Rossouw,WD Parnell,0,0,,,,,,caught,D Elgar
+ball,1,2.2,Knights,AJ Pienaar,RR Rossouw,WD Parnell,0,0,,,,,,"",""
+ball,1,2.3,Knights,AJ Pienaar,RR Rossouw,WD Parnell,0,1,1,,,,,"",""
+ball,1,2.4,Knights,AJ Pienaar,RR Rossouw,WD Parnell,0,0,,,,,,"",""
+ball,1,2.5,Knights,AJ Pienaar,RR Rossouw,WD Parnell,0,1,1,,,,,"",""
+ball,1,2.6,Knights,AJ Pienaar,RR Rossouw,WD Parnell,1,0,,,,,,"",""
+ball,1,2.7,Knights,RR Rossouw,AJ Pienaar,WD Parnell,4,0,,,,,,"",""
+ball,1,2.8,Knights,RR Rossouw,AJ Pienaar,WD Parnell,1,0,,,,,,"",""
+ball,1,3.1,Knights,RR Rossouw,AJ Pienaar,ACR Birch,0,0,,,,,,"",""
+ball,1,3.2,Knights,RR Rossouw,AJ Pienaar,ACR Birch,1,0,,,,,,"",""
+ball,1,3.3,Knights,AJ Pienaar,RR Rossouw,ACR Birch,0,0,,,,,,"",""
+ball,1,3.4,Knights,AJ Pienaar,RR Rossouw,ACR Birch,1,0,,,,,,"",""
+ball,1,3.5,Knights,RR Rossouw,AJ Pienaar,ACR Birch,2,0,,,,,,"",""
+ball,1,3.6,Knights,RR Rossouw,AJ Pienaar,ACR Birch,0,0,,,,,,"",""
+ball,1,4.1,Knights,AJ Pienaar,RR Rossouw,WD Parnell,0,0,,,,,,"",""
+ball,1,4.2,Knights,AJ Pienaar,RR Rossouw,WD Parnell,1,0,,,,,,"",""
+ball,1,4.3,Knights,RR Rossouw,AJ Pienaar,WD Parnell,4,0,,,,,,"",""
+ball,1,4.4,Knights,RR Rossouw,AJ Pienaar,WD Parnell,0,0,,,,,,"",""
+ball,1,4.5,Knights,RR Rossouw,AJ Pienaar,WD Parnell,0,0,,,,,,"",""
+ball,1,4.6,Knights,RR Rossouw,AJ Pienaar,WD Parnell,1,0,,,,,,"",""
+ball,1,5.1,Knights,RR Rossouw,AJ Pienaar,ACR Birch,0,0,,,,,,"",""
+ball,1,5.2,Knights,RR Rossouw,AJ Pienaar,ACR Birch,1,0,,,,,,"",""
+ball,1,5.3,Knights,AJ Pienaar,RR Rossouw,ACR Birch,0,0,,,,,,"",""
+ball,1,5.4,Knights,AJ Pienaar,RR Rossouw,ACR Birch,1,0,,,,,,"",""
+ball,1,5.5,Knights,RR Rossouw,AJ Pienaar,ACR Birch,4,0,,,,,,"",""
+ball,1,5.6,Knights,RR Rossouw,AJ Pienaar,ACR Birch,4,0,,,,,,"",""
+ball,1,6.1,Knights,AJ Pienaar,RR Rossouw,J Theron,1,0,,,,,,"",""
+ball,1,6.2,Knights,RR Rossouw,AJ Pienaar,J Theron,1,0,,,,,,"",""
+ball,1,6.3,Knights,AJ Pienaar,RR Rossouw,J Theron,4,0,,,,,,"",""
+ball,1,6.4,Knights,AJ Pienaar,RR Rossouw,J Theron,1,0,,,,,,"",""
+ball,1,6.5,Knights,RR Rossouw,AJ Pienaar,J Theron,1,0,,,,,,"",""
+ball,1,6.6,Knights,AJ Pienaar,RR Rossouw,J Theron,0,0,,,,,,"",""
+ball,1,7.1,Knights,RR Rossouw,AJ Pienaar,ACR Birch,1,0,,,,,,"",""
+ball,1,7.2,Knights,AJ Pienaar,RR Rossouw,ACR Birch,4,0,,,,,,"",""
+ball,1,7.3,Knights,AJ Pienaar,RR Rossouw,ACR Birch,1,0,,,,,,"",""
+ball,1,7.4,Knights,RR Rossouw,AJ Pienaar,ACR Birch,1,0,,,,,,"",""
+ball,1,7.5,Knights,AJ Pienaar,RR Rossouw,ACR Birch,2,0,,,,,,"",""
+ball,1,7.6,Knights,AJ Pienaar,RR Rossouw,ACR Birch,0,0,,,,,,"",""
+ball,1,8.1,Knights,RR Rossouw,AJ Pienaar,J Theron,1,0,,,,,,"",""
+ball,1,8.2,Knights,AJ Pienaar,RR Rossouw,J Theron,0,0,,,,,,caught,AJ Pienaar
+ball,1,8.3,Knights,WL Coetsee,RR Rossouw,J Theron,0,0,,,,,,"",""
+ball,1,8.4,Knights,WL Coetsee,RR Rossouw,J Theron,0,0,,,,,,"",""
+ball,1,8.5,Knights,WL Coetsee,RR Rossouw,J Theron,1,0,,,,,,"",""
+ball,1,8.6,Knights,RR Rossouw,WL Coetsee,J Theron,1,0,,,,,,"",""
+ball,1,9.1,Knights,RR Rossouw,WL Coetsee,SR Harmer,0,0,,,,,,"",""
+ball,1,9.2,Knights,RR Rossouw,WL Coetsee,SR Harmer,0,0,,,,,,"",""
+ball,1,9.3,Knights,RR Rossouw,WL Coetsee,SR Harmer,1,0,,,,,,"",""
+ball,1,9.4,Knights,WL Coetsee,RR Rossouw,SR Harmer,1,0,,,,,,"",""
+ball,1,9.5,Knights,RR Rossouw,WL Coetsee,SR Harmer,0,0,,,,,,run out,WL Coetsee
+ball,1,9.6,Knights,RR Rossouw,R McLaren,SR Harmer,4,0,,,,,,"",""
+ball,1,10.1,Knights,R McLaren,RR Rossouw,JT Smuts,0,0,,,,,,"",""
+ball,1,10.2,Knights,R McLaren,RR Rossouw,JT Smuts,1,0,,,,,,"",""
+ball,1,10.3,Knights,RR Rossouw,R McLaren,JT Smuts,1,0,,,,,,"",""
+ball,1,10.4,Knights,R McLaren,RR Rossouw,JT Smuts,1,0,,,,,,"",""
+ball,1,10.5,Knights,RR Rossouw,R McLaren,JT Smuts,2,0,,,,,,"",""
+ball,1,10.6,Knights,RR Rossouw,R McLaren,JT Smuts,1,0,,,,,,"",""
+ball,1,11.1,Knights,RR Rossouw,R McLaren,SR Harmer,0,0,,,,,,"",""
+ball,1,11.2,Knights,RR Rossouw,R McLaren,SR Harmer,1,0,,,,,,"",""
+ball,1,11.3,Knights,R McLaren,RR Rossouw,SR Harmer,0,0,,,,,,caught,R McLaren
+ball,1,11.4,Knights,RR Rossouw,JJ van der Wath,SR Harmer,1,0,,,,,,"",""
+ball,1,11.5,Knights,JJ van der Wath,RR Rossouw,SR Harmer,1,0,,,,,,"",""
+ball,1,11.6,Knights,RR Rossouw,JJ van der Wath,SR Harmer,1,0,,,,,,"",""
+ball,1,12.1,Knights,RR Rossouw,JJ van der Wath,JT Smuts,0,1,1,,,,,"",""
+ball,1,12.2,Knights,RR Rossouw,JJ van der Wath,JT Smuts,0,0,,,,,,"",""
+ball,1,12.3,Knights,RR Rossouw,JJ van der Wath,JT Smuts,2,0,,,,,,"",""
+ball,1,12.4,Knights,RR Rossouw,JJ van der Wath,JT Smuts,0,0,,,,,,"",""
+ball,1,12.5,Knights,RR Rossouw,JJ van der Wath,JT Smuts,1,0,,,,,,"",""
+ball,1,12.6,Knights,JJ van der Wath,RR Rossouw,JT Smuts,0,0,,,,,,"",""
+ball,1,12.7,Knights,JJ van der Wath,RR Rossouw,JT Smuts,1,0,,,,,,"",""
+ball,1,13.1,Knights,JJ van der Wath,RR Rossouw,SR Harmer,0,1,,,,1,,"",""
+ball,1,13.2,Knights,RR Rossouw,JJ van der Wath,SR Harmer,1,0,,,,,,"",""
+ball,1,13.3,Knights,JJ van der Wath,RR Rossouw,SR Harmer,0,0,,,,,,"",""
+ball,1,13.4,Knights,JJ van der Wath,RR Rossouw,SR Harmer,0,0,,,,,,"",""
+ball,1,13.5,Knights,JJ van der Wath,RR Rossouw,SR Harmer,1,0,,,,,,"",""
+ball,1,13.6,Knights,RR Rossouw,JJ van der Wath,SR Harmer,0,0,,,,,,"",""
+ball,1,14.1,Knights,JJ van der Wath,RR Rossouw,WD Parnell,1,0,,,,,,"",""
+ball,1,14.2,Knights,RR Rossouw,JJ van der Wath,WD Parnell,2,0,,,,,,"",""
+ball,1,14.3,Knights,RR Rossouw,JJ van der Wath,WD Parnell,0,4,,,,4,,"",""
+ball,1,14.4,Knights,RR Rossouw,JJ van der Wath,WD Parnell,0,0,,,,,,"",""
+ball,1,14.5,Knights,RR Rossouw,JJ van der Wath,WD Parnell,0,0,,,,,,"",""
+ball,1,14.6,Knights,RR Rossouw,JJ van der Wath,WD Parnell,1,0,,,,,,"",""
+ball,1,15.1,Knights,RR Rossouw,JJ van der Wath,SR Harmer,0,1,1,,,,,"",""
+ball,1,15.2,Knights,RR Rossouw,JJ van der Wath,SR Harmer,0,0,,,,,,"",""
+ball,1,15.3,Knights,RR Rossouw,JJ van der Wath,SR Harmer,1,0,,,,,,"",""
+ball,1,15.4,Knights,JJ van der Wath,RR Rossouw,SR Harmer,1,0,,,,,,"",""
+ball,1,15.5,Knights,RR Rossouw,JJ van der Wath,SR Harmer,1,0,,,,,,"",""
+ball,1,15.6,Knights,JJ van der Wath,RR Rossouw,SR Harmer,4,0,,,,,,"",""
+ball,1,15.7,Knights,JJ van der Wath,RR Rossouw,SR Harmer,6,0,,,,,,"",""
+ball,1,16.1,Knights,RR Rossouw,JJ van der Wath,J Theron,1,0,,,,,,"",""
+ball,1,16.2,Knights,JJ van der Wath,RR Rossouw,J Theron,2,0,,,,,,"",""
+ball,1,16.3,Knights,JJ van der Wath,RR Rossouw,J Theron,1,0,,,,,,"",""
+ball,1,16.4,Knights,RR Rossouw,JJ van der Wath,J Theron,0,0,,,,,,"",""
+ball,1,16.5,Knights,RR Rossouw,JJ van der Wath,J Theron,0,0,,,,,,"",""
+ball,1,16.6,Knights,RR Rossouw,JJ van der Wath,J Theron,1,0,,,,,,"",""
+ball,1,17.1,Knights,RR Rossouw,JJ van der Wath,L Mbane,0,0,,,,,,"",""
+ball,1,17.2,Knights,RR Rossouw,JJ van der Wath,L Mbane,0,0,,,,,,"",""
+ball,1,17.3,Knights,RR Rossouw,JJ van der Wath,L Mbane,0,0,,,,,,"",""
+ball,1,17.4,Knights,RR Rossouw,JJ van der Wath,L Mbane,1,0,,,,,,"",""
+ball,1,17.5,Knights,JJ van der Wath,RR Rossouw,L Mbane,1,0,,,,,,"",""
+ball,1,17.6,Knights,RR Rossouw,JJ van der Wath,L Mbane,1,0,,,,,,"",""
+ball,1,18.1,Knights,RR Rossouw,JJ van der Wath,J Theron,4,0,,,,,,"",""
+ball,1,18.2,Knights,RR Rossouw,JJ van der Wath,J Theron,4,0,,,,,,"",""
+ball,1,18.3,Knights,RR Rossouw,JJ van der Wath,J Theron,1,0,,,,,,"",""
+ball,1,18.4,Knights,JJ van der Wath,RR Rossouw,J Theron,0,0,,,,,,bowled,JJ van der Wath
+ball,1,18.5,Knights,D du Preez,RR Rossouw,J Theron,4,0,,,,,,"",""
+ball,1,18.6,Knights,D du Preez,RR Rossouw,J Theron,2,0,,,,,,"",""
+ball,1,19.1,Knights,RR Rossouw,D du Preez,L Mbane,1,0,,,,,,"",""
+ball,1,19.2,Knights,D du Preez,RR Rossouw,L Mbane,6,0,,,,,,"",""
+ball,1,19.3,Knights,D du Preez,RR Rossouw,L Mbane,0,0,,,,,,"",""
+ball,1,19.4,Knights,D du Preez,RR Rossouw,L Mbane,2,0,,,,,,"",""
+ball,1,19.5,Knights,D du Preez,RR Rossouw,L Mbane,4,0,,,,,,"",""
+ball,1,19.6,Knights,D du Preez,RR Rossouw,L Mbane,6,0,,,,,,"",""
+ball,2,0.1,Warriors,AG Prince,JT Smuts,D du Preez,0,0,,,,,,"",""
+ball,2,0.2,Warriors,AG Prince,JT Smuts,D du Preez,0,0,,,,,,"",""
+ball,2,0.3,Warriors,AG Prince,JT Smuts,D du Preez,0,0,,,,,,"",""
+ball,2,0.4,Warriors,AG Prince,JT Smuts,D du Preez,0,0,,,,,,"",""
+ball,2,0.5,Warriors,AG Prince,JT Smuts,D du Preez,0,1,1,,,,,"",""
+ball,2,0.6,Warriors,AG Prince,JT Smuts,D du Preez,0,0,,,,,,caught,AG Prince
+ball,2,0.7,Warriors,JT Smuts,CA Ingram,D du Preez,4,0,,,,,,"",""
+ball,2,1.1,Warriors,CA Ingram,JT Smuts,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.2,Warriors,CA Ingram,JT Smuts,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.3,Warriors,CA Ingram,JT Smuts,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.4,Warriors,CA Ingram,JT Smuts,JJ van der Wath,4,0,,,,,,"",""
+ball,2,1.5,Warriors,CA Ingram,JT Smuts,JJ van der Wath,4,0,,,,,,"",""
+ball,2,1.6,Warriors,CA Ingram,JT Smuts,JJ van der Wath,4,0,,,,,,"",""
+ball,2,2.1,Warriors,JT Smuts,CA Ingram,D du Preez,0,0,,,,,,"",""
+ball,2,2.2,Warriors,JT Smuts,CA Ingram,D du Preez,4,0,,,,,,"",""
+ball,2,2.3,Warriors,JT Smuts,CA Ingram,D du Preez,1,0,,,,,,"",""
+ball,2,2.4,Warriors,CA Ingram,JT Smuts,D du Preez,0,0,,,,,,"",""
+ball,2,2.5,Warriors,CA Ingram,JT Smuts,D du Preez,0,0,,,,,,"",""
+ball,2,2.6,Warriors,CA Ingram,JT Smuts,D du Preez,2,0,,,,,,"",""
+ball,2,3.1,Warriors,JT Smuts,CA Ingram,R McLaren,1,0,,,,,,"",""
+ball,2,3.2,Warriors,CA Ingram,JT Smuts,R McLaren,0,0,,,,,,"",""
+ball,2,3.3,Warriors,CA Ingram,JT Smuts,R McLaren,4,0,,,,,,"",""
+ball,2,3.4,Warriors,CA Ingram,JT Smuts,R McLaren,1,0,,,,,,"",""
+ball,2,3.5,Warriors,JT Smuts,CA Ingram,R McLaren,4,0,,,,,,"",""
+ball,2,3.6,Warriors,JT Smuts,CA Ingram,R McLaren,1,0,,,,,,"",""
+ball,2,4.1,Warriors,JT Smuts,CA Ingram,MP Siboto,0,0,,,,,,"",""
+ball,2,4.2,Warriors,JT Smuts,CA Ingram,MP Siboto,0,0,,,,,,"",""
+ball,2,4.3,Warriors,JT Smuts,CA Ingram,MP Siboto,1,0,,,,,,"",""
+ball,2,4.4,Warriors,CA Ingram,JT Smuts,MP Siboto,0,0,,,,,,"",""
+ball,2,4.5,Warriors,CA Ingram,JT Smuts,MP Siboto,0,0,,,,,,"",""
+ball,2,4.6,Warriors,CA Ingram,JT Smuts,MP Siboto,0,0,,,,,,"",""
+ball,2,5.1,Warriors,JT Smuts,CA Ingram,R McLaren,0,2,2,,,,,"",""
+ball,2,5.2,Warriors,CA Ingram,JT Smuts,R McLaren,0,0,,,,,,"",""
+ball,2,5.3,Warriors,CA Ingram,JT Smuts,R McLaren,0,0,,,,,,bowled,CA Ingram
+ball,2,5.4,Warriors,RT Bailey,JT Smuts,R McLaren,0,0,,,,,,"",""
+ball,2,5.5,Warriors,RT Bailey,JT Smuts,R McLaren,0,0,,,,,,"",""
+ball,2,5.6,Warriors,RT Bailey,JT Smuts,R McLaren,0,0,,,,,,"",""
+ball,2,5.7,Warriors,RT Bailey,JT Smuts,R McLaren,0,0,,,,,,"",""
+ball,2,6.1,Warriors,JT Smuts,RT Bailey,MP Siboto,4,0,,,,,,"",""
+ball,2,6.2,Warriors,JT Smuts,RT Bailey,MP Siboto,0,0,,,,,,"",""
+ball,2,6.3,Warriors,JT Smuts,RT Bailey,MP Siboto,1,0,,,,,,"",""
+ball,2,6.4,Warriors,RT Bailey,JT Smuts,MP Siboto,0,0,,,,,,"",""
+ball,2,6.5,Warriors,RT Bailey,JT Smuts,MP Siboto,1,0,,,,,,"",""
+ball,2,6.6,Warriors,JT Smuts,RT Bailey,MP Siboto,0,0,,,,,,"",""
+ball,2,7.1,Warriors,RT Bailey,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,7.2,Warriors,RT Bailey,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,7.3,Warriors,RT Bailey,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,7.4,Warriors,RT Bailey,JT Smuts,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.5,Warriors,JT Smuts,RT Bailey,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.6,Warriors,RT Bailey,JT Smuts,WL Coetsee,0,1,,,,1,,"",""
+ball,2,8.1,Warriors,RT Bailey,JT Smuts,JJ van der Wath,2,0,,,,,,"",""
+ball,2,8.2,Warriors,RT Bailey,JT Smuts,JJ van der Wath,0,0,,,,,,"",""
+ball,2,8.3,Warriors,RT Bailey,JT Smuts,JJ van der Wath,2,0,,,,,,"",""
+ball,2,8.4,Warriors,RT Bailey,JT Smuts,JJ van der Wath,1,0,,,,,,"",""
+ball,2,8.5,Warriors,JT Smuts,RT Bailey,JJ van der Wath,1,0,,,,,,"",""
+ball,2,8.6,Warriors,RT Bailey,JT Smuts,JJ van der Wath,2,0,,,,,,"",""
+ball,2,9.1,Warriors,JT Smuts,RT Bailey,WL Coetsee,1,0,,,,,,"",""
+ball,2,9.2,Warriors,RT Bailey,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,9.3,Warriors,RT Bailey,JT Smuts,WL Coetsee,1,0,,,,,,"",""
+ball,2,9.4,Warriors,JT Smuts,RT Bailey,WL Coetsee,1,0,,,,,,"",""
+ball,2,9.5,Warriors,RT Bailey,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,9.6,Warriors,RT Bailey,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,10.1,Warriors,JT Smuts,RT Bailey,RK Terblanche,4,0,,,,,,"",""
+ball,2,10.2,Warriors,JT Smuts,RT Bailey,RK Terblanche,4,0,,,,,,"",""
+ball,2,10.3,Warriors,JT Smuts,RT Bailey,RK Terblanche,6,0,,,,,,"",""
+ball,2,10.4,Warriors,JT Smuts,RT Bailey,RK Terblanche,0,1,,,,1,,"",""
+ball,2,10.5,Warriors,RT Bailey,JT Smuts,RK Terblanche,2,0,,,,,,"",""
+ball,2,10.6,Warriors,RT Bailey,JT Smuts,RK Terblanche,0,0,,,,,,bowled,RT Bailey
+ball,2,11.1,Warriors,JT Smuts,C Jonker,WL Coetsee,1,0,,,,,,"",""
+ball,2,11.2,Warriors,C Jonker,JT Smuts,WL Coetsee,0,2,,,,2,,"",""
+ball,2,11.3,Warriors,C Jonker,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,11.4,Warriors,C Jonker,JT Smuts,WL Coetsee,1,0,,,,,,"",""
+ball,2,11.5,Warriors,JT Smuts,C Jonker,WL Coetsee,0,1,,,1,,,"",""
+ball,2,11.6,Warriors,C Jonker,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,12.1,Warriors,JT Smuts,C Jonker,D du Preez,0,0,,,,,,"",""
+ball,2,12.2,Warriors,JT Smuts,C Jonker,D du Preez,4,0,,,,,,"",""
+ball,2,12.3,Warriors,JT Smuts,C Jonker,D du Preez,0,0,,,,,,caught,JT Smuts
+ball,2,12.4,Warriors,DJ Jacobs,C Jonker,D du Preez,1,0,,,,,,"",""
+ball,2,12.5,Warriors,C Jonker,DJ Jacobs,D du Preez,0,0,,,,,,"",""
+ball,2,12.6,Warriors,C Jonker,DJ Jacobs,D du Preez,0,0,,,,,,"",""
+ball,2,13.1,Warriors,DJ Jacobs,C Jonker,WL Coetsee,0,0,,,,,,"",""
+ball,2,13.2,Warriors,DJ Jacobs,C Jonker,WL Coetsee,1,0,,,,,,"",""
+ball,2,13.3,Warriors,C Jonker,DJ Jacobs,WL Coetsee,1,0,,,,,,"",""
+ball,2,13.4,Warriors,DJ Jacobs,C Jonker,WL Coetsee,1,0,,,,,,"",""
+ball,2,13.5,Warriors,C Jonker,DJ Jacobs,WL Coetsee,1,0,,,,,,"",""
+ball,2,13.6,Warriors,DJ Jacobs,C Jonker,WL Coetsee,1,0,,,,,,"",""
+ball,2,14.1,Warriors,DJ Jacobs,C Jonker,R McLaren,2,0,,,,,,"",""
+ball,2,14.2,Warriors,DJ Jacobs,C Jonker,R McLaren,1,0,,,,,,"",""
+ball,2,14.3,Warriors,C Jonker,DJ Jacobs,R McLaren,1,0,,,,,,"",""
+ball,2,14.4,Warriors,DJ Jacobs,C Jonker,R McLaren,0,0,,,,,,"",""
+ball,2,14.5,Warriors,DJ Jacobs,C Jonker,R McLaren,2,0,,,,,,"",""
+ball,2,14.6,Warriors,DJ Jacobs,C Jonker,R McLaren,4,0,,,,,,"",""
+ball,2,15.1,Warriors,C Jonker,DJ Jacobs,JJ van der Wath,0,0,,,,,,"",""
+ball,2,15.2,Warriors,C Jonker,DJ Jacobs,JJ van der Wath,1,0,,,,,,"",""
+ball,2,15.3,Warriors,DJ Jacobs,C Jonker,JJ van der Wath,1,0,,,,,,"",""
+ball,2,15.4,Warriors,C Jonker,DJ Jacobs,JJ van der Wath,1,0,,,,,,"",""
+ball,2,15.5,Warriors,DJ Jacobs,C Jonker,JJ van der Wath,1,0,,,,,,"",""
+ball,2,15.6,Warriors,C Jonker,DJ Jacobs,JJ van der Wath,0,1,1,,,,,"",""
+ball,2,15.7,Warriors,C Jonker,DJ Jacobs,JJ van der Wath,1,0,,,,,,"",""
+ball,2,16.1,Warriors,C Jonker,DJ Jacobs,MP Siboto,1,0,,,,,,"",""
+ball,2,16.2,Warriors,DJ Jacobs,C Jonker,MP Siboto,0,0,,,,,,"",""
+ball,2,16.3,Warriors,DJ Jacobs,C Jonker,MP Siboto,2,0,,,,,,"",""
+ball,2,16.4,Warriors,DJ Jacobs,C Jonker,MP Siboto,0,0,,,,,,caught,DJ Jacobs
+ball,2,16.5,Warriors,C Jonker,WD Parnell,MP Siboto,1,0,,,,,,"",""
+ball,2,16.6,Warriors,WD Parnell,C Jonker,MP Siboto,1,0,,,,,,"",""
+ball,2,17.1,Warriors,WD Parnell,C Jonker,R McLaren,0,0,,,,,,"",""
+ball,2,17.2,Warriors,WD Parnell,C Jonker,R McLaren,0,0,,,,,,caught,WD Parnell
+ball,2,17.3,Warriors,SR Harmer,C Jonker,R McLaren,1,0,,,,,,"",""
+ball,2,17.4,Warriors,C Jonker,SR Harmer,R McLaren,0,0,,,,,,"",""
+ball,2,17.5,Warriors,C Jonker,SR Harmer,R McLaren,4,0,,,,,,"",""
+ball,2,17.6,Warriors,C Jonker,SR Harmer,R McLaren,1,0,,,,,,"",""
+ball,2,18.1,Warriors,C Jonker,SR Harmer,MP Siboto,1,0,,,,,,"",""
+ball,2,18.2,Warriors,SR Harmer,C Jonker,MP Siboto,0,0,,,,,,"",""
+ball,2,18.3,Warriors,SR Harmer,C Jonker,MP Siboto,1,0,,,,,,"",""
+ball,2,18.4,Warriors,C Jonker,SR Harmer,MP Siboto,6,0,,,,,,"",""
+ball,2,18.5,Warriors,C Jonker,SR Harmer,MP Siboto,2,0,,,,,,"",""
+ball,2,18.6,Warriors,C Jonker,SR Harmer,MP Siboto,2,0,,,,,,"",""
+ball,2,19.1,Warriors,SR Harmer,C Jonker,JJ van der Wath,6,0,,,,,,"",""
+ball,2,19.2,Warriors,SR Harmer,C Jonker,JJ van der Wath,2,0,,,,,,"",""
+ball,2,19.3,Warriors,SR Harmer,C Jonker,JJ van der Wath,1,0,,,,,,"",""
+ball,2,19.4,Warriors,C Jonker,SR Harmer,JJ van der Wath,0,0,,,,,,"",""
+ball,2,19.5,Warriors,C Jonker,SR Harmer,JJ van der Wath,1,0,,,,,,"",""
+ball,2,19.6,Warriors,SR Harmer,C Jonker,JJ van der Wath,1,0,,,,,,"",""

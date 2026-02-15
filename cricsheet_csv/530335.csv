@@ -1,0 +1,290 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Impi
+info,team,Titans
+info,gender,male
+info,season,2011/12
+info,date,2012/02/26
+info,event,MiWAY T20 Challenge
+info,match_number,15
+info,venue,"Willowmoore Park, Benoni"
+info,city,Benoni
+info,toss_winner,Impi
+info,toss_decision,bat
+info,player_of_match,H Davids
+info,player_of_match,RE van der Merwe
+info,umpire,IL Howell
+info,umpire,JD Cloete
+info,reserve_umpire,BM White
+info,match_referee,D Govindjee
+info,winner,Titans
+info,winner_wickets,9
+info,player,Impi,LJ Wright
+info,player,Impi,AP McLaren
+info,player,Impi,K Zondo
+info,player,Impi,PD Collingwood
+info,player,Impi,RN ten Doeschate
+info,player,Impi,MQ Adams
+info,player,Impi,R Cameron
+info,player,Impi,RCC Canning
+info,player,Impi,S Simetu
+info,player,Impi,BM Edmondson
+info,player,Impi,P Matshikwe
+info,player,Titans,JA Rudolph
+info,player,Titans,H Davids
+info,player,Titans,RE van der Merwe
+info,player,Titans,M van Jaarsveld
+info,player,Titans,HG Kuhn
+info,player,Titans,ER Links
+info,player,Titans,D Wiese
+info,player,Titans,RR Richards
+info,player,Titans,F Behardien
+info,player,Titans,AC Thomas
+info,player,Titans,CJD de Villiers
+info,registry,people,AC Thomas,b552a935
+info,registry,people,AP McLaren,4ad7fc1b
+info,registry,people,BM Edmondson,b0b320a0
+info,registry,people,BM White,66c21d35
+info,registry,people,CJD de Villiers,ad9d8382
+info,registry,people,D Govindjee,8b4c4069
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,ER Links,994d9d36
+info,registry,people,F Behardien,dce2019b
+info,registry,people,H Davids,9c9f8dbc
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JD Cloete,b0419f8c
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,M van Jaarsveld,f407e354
+info,registry,people,MQ Adams,59a7fc89
+info,registry,people,P Matshikwe,1b05424f
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,R Cameron,f856b613
+info,registry,people,RCC Canning,e6c67124
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RN ten Doeschate,4ec07775
+info,registry,people,RR Richards,fa9c0196
+info,registry,people,S Simetu,d3cc2954
+ball,1,0.1,Impi,LJ Wright,AP McLaren,AC Thomas,0,0,,,,,,"",""
+ball,1,0.2,Impi,LJ Wright,AP McLaren,AC Thomas,0,0,,,,,,"",""
+ball,1,0.3,Impi,LJ Wright,AP McLaren,AC Thomas,1,0,,,,,,"",""
+ball,1,0.4,Impi,AP McLaren,LJ Wright,AC Thomas,0,0,,,,,,"",""
+ball,1,0.5,Impi,AP McLaren,LJ Wright,AC Thomas,0,0,,,,,,"",""
+ball,1,0.6,Impi,AP McLaren,LJ Wright,AC Thomas,0,0,,,,,,"",""
+ball,1,1.1,Impi,LJ Wright,AP McLaren,RE van der Merwe,0,0,,,,,,"",""
+ball,1,1.2,Impi,LJ Wright,AP McLaren,RE van der Merwe,4,0,,,,,,"",""
+ball,1,1.3,Impi,LJ Wright,AP McLaren,RE van der Merwe,0,0,,,,,,"",""
+ball,1,1.4,Impi,LJ Wright,AP McLaren,RE van der Merwe,1,0,,,,,,"",""
+ball,1,1.5,Impi,AP McLaren,LJ Wright,RE van der Merwe,0,1,1,,,,,"",""
+ball,1,1.6,Impi,AP McLaren,LJ Wright,RE van der Merwe,4,0,,,,,,"",""
+ball,1,1.7,Impi,AP McLaren,LJ Wright,RE van der Merwe,0,0,,,,,,stumped,AP McLaren
+ball,1,2.1,Impi,LJ Wright,K Zondo,CJD de Villiers,4,0,,,,,,"",""
+ball,1,2.2,Impi,LJ Wright,K Zondo,CJD de Villiers,0,0,,,,,,"",""
+ball,1,2.3,Impi,LJ Wright,K Zondo,CJD de Villiers,1,0,,,,,,"",""
+ball,1,2.4,Impi,K Zondo,LJ Wright,CJD de Villiers,0,1,1,,,,,"",""
+ball,1,2.5,Impi,K Zondo,LJ Wright,CJD de Villiers,1,0,,,,,,"",""
+ball,1,2.6,Impi,LJ Wright,K Zondo,CJD de Villiers,4,0,,,,,,"",""
+ball,1,2.7,Impi,LJ Wright,K Zondo,CJD de Villiers,2,0,,,,,,"",""
+ball,1,3.1,Impi,K Zondo,LJ Wright,RR Richards,1,0,,,,,,"",""
+ball,1,3.2,Impi,LJ Wright,K Zondo,RR Richards,0,1,1,,,,,"",""
+ball,1,3.3,Impi,LJ Wright,K Zondo,RR Richards,4,0,,,,,,"",""
+ball,1,3.4,Impi,LJ Wright,K Zondo,RR Richards,0,0,,,,,,"",""
+ball,1,3.5,Impi,LJ Wright,K Zondo,RR Richards,1,0,,,,,,"",""
+ball,1,3.6,Impi,K Zondo,LJ Wright,RR Richards,4,0,,,,,,"",""
+ball,1,3.7,Impi,K Zondo,LJ Wright,RR Richards,0,0,,,,,,"",""
+ball,1,4.1,Impi,LJ Wright,K Zondo,CJD de Villiers,4,0,,,,,,"",""
+ball,1,4.2,Impi,LJ Wright,K Zondo,CJD de Villiers,2,0,,,,,,"",""
+ball,1,4.3,Impi,LJ Wright,K Zondo,CJD de Villiers,0,0,,,,,,caught,LJ Wright
+ball,1,4.4,Impi,K Zondo,PD Collingwood,CJD de Villiers,0,0,,,,,,"",""
+ball,1,4.5,Impi,K Zondo,PD Collingwood,CJD de Villiers,0,0,,,,,,"",""
+ball,1,4.6,Impi,K Zondo,PD Collingwood,CJD de Villiers,1,0,,,,,,"",""
+ball,1,5.1,Impi,K Zondo,PD Collingwood,AC Thomas,1,0,,,,,,"",""
+ball,1,5.2,Impi,PD Collingwood,K Zondo,AC Thomas,1,0,,,,,,"",""
+ball,1,5.3,Impi,K Zondo,PD Collingwood,AC Thomas,1,0,,,,,,"",""
+ball,1,5.4,Impi,PD Collingwood,K Zondo,AC Thomas,0,0,,,,,,"",""
+ball,1,5.5,Impi,PD Collingwood,K Zondo,AC Thomas,6,0,,,,,,"",""
+ball,1,5.6,Impi,PD Collingwood,K Zondo,AC Thomas,2,0,,,,,,"",""
+ball,1,6.1,Impi,K Zondo,PD Collingwood,RE van der Merwe,0,0,,,,,,"",""
+ball,1,6.2,Impi,K Zondo,PD Collingwood,RE van der Merwe,0,0,,,,,,"",""
+ball,1,6.3,Impi,K Zondo,PD Collingwood,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.4,Impi,PD Collingwood,K Zondo,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.5,Impi,K Zondo,PD Collingwood,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.6,Impi,PD Collingwood,K Zondo,RE van der Merwe,1,0,,,,,,"",""
+ball,1,7.1,Impi,PD Collingwood,K Zondo,ER Links,0,0,,,,,,"",""
+ball,1,7.2,Impi,PD Collingwood,K Zondo,ER Links,1,0,,,,,,"",""
+ball,1,7.3,Impi,K Zondo,PD Collingwood,ER Links,2,0,,,,,,"",""
+ball,1,7.4,Impi,K Zondo,PD Collingwood,ER Links,0,0,,,,,,"",""
+ball,1,7.5,Impi,K Zondo,PD Collingwood,ER Links,2,0,,,,,,"",""
+ball,1,7.6,Impi,K Zondo,PD Collingwood,ER Links,1,0,,,,,,"",""
+ball,1,8.1,Impi,K Zondo,PD Collingwood,H Davids,1,0,,,,,,"",""
+ball,1,8.2,Impi,PD Collingwood,K Zondo,H Davids,6,0,,,,,,"",""
+ball,1,8.3,Impi,PD Collingwood,K Zondo,H Davids,4,0,,,,,,"",""
+ball,1,8.4,Impi,PD Collingwood,K Zondo,H Davids,1,0,,,,,,"",""
+ball,1,8.5,Impi,K Zondo,PD Collingwood,H Davids,1,0,,,,,,"",""
+ball,1,8.6,Impi,PD Collingwood,K Zondo,H Davids,1,0,,,,,,"",""
+ball,1,9.1,Impi,PD Collingwood,K Zondo,RR Richards,1,0,,,,,,"",""
+ball,1,9.2,Impi,K Zondo,PD Collingwood,RR Richards,4,0,,,,,,"",""
+ball,1,9.3,Impi,K Zondo,PD Collingwood,RR Richards,0,0,,,,,,"",""
+ball,1,9.4,Impi,K Zondo,PD Collingwood,RR Richards,1,0,,,,,,"",""
+ball,1,9.5,Impi,PD Collingwood,K Zondo,RR Richards,0,0,,,,,,"",""
+ball,1,9.6,Impi,PD Collingwood,K Zondo,RR Richards,0,0,,,,,,"",""
+ball,1,10.1,Impi,K Zondo,PD Collingwood,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.2,Impi,PD Collingwood,K Zondo,RE van der Merwe,2,0,,,,,,"",""
+ball,1,10.3,Impi,PD Collingwood,K Zondo,RE van der Merwe,0,2,2,,,,,"",""
+ball,1,10.4,Impi,K Zondo,PD Collingwood,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.5,Impi,PD Collingwood,K Zondo,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.6,Impi,K Zondo,PD Collingwood,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.7,Impi,PD Collingwood,K Zondo,RE van der Merwe,0,0,,,,,,"",""
+ball,1,11.1,Impi,K Zondo,PD Collingwood,D Wiese,1,0,,,,,,run out,PD Collingwood
+ball,1,11.2,Impi,K Zondo,RN ten Doeschate,D Wiese,1,0,,,,,,"",""
+ball,1,11.3,Impi,RN ten Doeschate,K Zondo,D Wiese,1,0,,,,,,"",""
+ball,1,11.4,Impi,K Zondo,RN ten Doeschate,D Wiese,0,0,,,,,,"",""
+ball,1,11.5,Impi,K Zondo,RN ten Doeschate,D Wiese,1,0,,,,,,"",""
+ball,1,11.6,Impi,RN ten Doeschate,K Zondo,D Wiese,0,0,,,,,,bowled,RN ten Doeschate
+ball,1,12.1,Impi,K Zondo,MQ Adams,RE van der Merwe,4,0,,,,,,"",""
+ball,1,12.2,Impi,K Zondo,MQ Adams,RE van der Merwe,0,0,,,,,,caught,K Zondo
+ball,1,12.3,Impi,R Cameron,MQ Adams,RE van der Merwe,0,0,,,,,,caught,R Cameron
+ball,1,12.4,Impi,RCC Canning,MQ Adams,RE van der Merwe,0,0,,,,,,"",""
+ball,1,12.5,Impi,RCC Canning,MQ Adams,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.6,Impi,MQ Adams,RCC Canning,RE van der Merwe,1,0,,,,,,"",""
+ball,1,13.1,Impi,MQ Adams,RCC Canning,D Wiese,1,0,,,,,,"",""
+ball,1,13.2,Impi,RCC Canning,MQ Adams,D Wiese,1,0,,,,,,"",""
+ball,1,13.3,Impi,MQ Adams,RCC Canning,D Wiese,0,0,,,,,,"",""
+ball,1,13.4,Impi,MQ Adams,RCC Canning,D Wiese,1,0,,,,,,"",""
+ball,1,13.5,Impi,RCC Canning,MQ Adams,D Wiese,1,0,,,,,,"",""
+ball,1,13.6,Impi,MQ Adams,RCC Canning,D Wiese,0,0,,,,,,"",""
+ball,1,14.1,Impi,RCC Canning,MQ Adams,ER Links,1,0,,,,,,"",""
+ball,1,14.2,Impi,MQ Adams,RCC Canning,ER Links,0,0,,,,,,"",""
+ball,1,14.3,Impi,MQ Adams,RCC Canning,ER Links,1,0,,,,,,"",""
+ball,1,14.4,Impi,RCC Canning,MQ Adams,ER Links,1,0,,,,,,"",""
+ball,1,14.5,Impi,MQ Adams,RCC Canning,ER Links,1,0,,,,,,"",""
+ball,1,14.6,Impi,RCC Canning,MQ Adams,ER Links,1,0,,,,,,"",""
+ball,1,15.1,Impi,RCC Canning,MQ Adams,D Wiese,0,0,,,,,,"",""
+ball,1,15.2,Impi,RCC Canning,MQ Adams,D Wiese,1,0,,,,,,"",""
+ball,1,15.3,Impi,MQ Adams,RCC Canning,D Wiese,0,0,,,,,,"",""
+ball,1,15.4,Impi,MQ Adams,RCC Canning,D Wiese,0,0,,,,,,"",""
+ball,1,15.5,Impi,MQ Adams,RCC Canning,D Wiese,4,0,,,,,,"",""
+ball,1,15.6,Impi,MQ Adams,RCC Canning,D Wiese,0,0,,,,,,"",""
+ball,1,16.1,Impi,RCC Canning,MQ Adams,ER Links,2,0,,,,,,"",""
+ball,1,16.2,Impi,RCC Canning,MQ Adams,ER Links,1,0,,,,,,"",""
+ball,1,16.3,Impi,MQ Adams,RCC Canning,ER Links,0,0,,,,,,caught,MQ Adams
+ball,1,16.4,Impi,RCC Canning,S Simetu,ER Links,1,0,,,,,,"",""
+ball,1,16.5,Impi,S Simetu,RCC Canning,ER Links,0,0,,,,,,"",""
+ball,1,16.6,Impi,S Simetu,RCC Canning,ER Links,1,0,,,,,,"",""
+ball,1,17.1,Impi,S Simetu,RCC Canning,AC Thomas,0,0,,,,,,"",""
+ball,1,17.2,Impi,S Simetu,RCC Canning,AC Thomas,0,1,1,,,,,"",""
+ball,1,17.3,Impi,S Simetu,RCC Canning,AC Thomas,1,0,,,,,,"",""
+ball,1,17.4,Impi,RCC Canning,S Simetu,AC Thomas,1,0,,,,,,"",""
+ball,1,17.5,Impi,S Simetu,RCC Canning,AC Thomas,1,0,,,,,,"",""
+ball,1,17.6,Impi,RCC Canning,S Simetu,AC Thomas,1,0,,,,,,"",""
+ball,1,17.7,Impi,S Simetu,RCC Canning,AC Thomas,1,0,,,,,,"",""
+ball,1,18.1,Impi,S Simetu,RCC Canning,ER Links,1,0,,,,,,"",""
+ball,1,18.2,Impi,RCC Canning,S Simetu,ER Links,2,0,,,,,,"",""
+ball,1,18.3,Impi,RCC Canning,S Simetu,ER Links,1,0,,,,,,run out,S Simetu
+ball,1,18.4,Impi,RCC Canning,BM Edmondson,ER Links,1,0,,,,,,"",""
+ball,1,18.5,Impi,BM Edmondson,RCC Canning,ER Links,0,0,,,,,,"",""
+ball,1,18.6,Impi,BM Edmondson,RCC Canning,ER Links,0,0,,,,,,bowled,BM Edmondson
+ball,1,19.1,Impi,RCC Canning,P Matshikwe,AC Thomas,0,0,,,,,,"",""
+ball,1,19.2,Impi,RCC Canning,P Matshikwe,AC Thomas,0,0,,,,,,"",""
+ball,1,19.3,Impi,RCC Canning,P Matshikwe,AC Thomas,0,0,,,,,,"",""
+ball,1,19.4,Impi,RCC Canning,P Matshikwe,AC Thomas,0,0,,,,,,caught,RCC Canning
+ball,2,0.1,Titans,JA Rudolph,H Davids,S Simetu,0,0,,,,,,"",""
+ball,2,0.2,Titans,JA Rudolph,H Davids,S Simetu,1,0,,,,,,"",""
+ball,2,0.3,Titans,H Davids,JA Rudolph,S Simetu,0,0,,,,,,"",""
+ball,2,0.4,Titans,H Davids,JA Rudolph,S Simetu,1,0,,,,,,"",""
+ball,2,0.5,Titans,JA Rudolph,H Davids,S Simetu,0,0,,,,,,"",""
+ball,2,0.6,Titans,JA Rudolph,H Davids,S Simetu,1,0,,,,,,"",""
+ball,2,1.1,Titans,JA Rudolph,H Davids,BM Edmondson,0,1,1,,,,,"",""
+ball,2,1.2,Titans,JA Rudolph,H Davids,BM Edmondson,1,0,,,,,,"",""
+ball,2,1.3,Titans,H Davids,JA Rudolph,BM Edmondson,2,0,,,,,,"",""
+ball,2,1.4,Titans,H Davids,JA Rudolph,BM Edmondson,0,0,,,,,,"",""
+ball,2,1.5,Titans,H Davids,JA Rudolph,BM Edmondson,2,0,,,,,,"",""
+ball,2,1.6,Titans,H Davids,JA Rudolph,BM Edmondson,6,0,,,,,,"",""
+ball,2,1.7,Titans,H Davids,JA Rudolph,BM Edmondson,0,1,1,,,,,"",""
+ball,2,1.8,Titans,H Davids,JA Rudolph,BM Edmondson,0,0,,,,,,"",""
+ball,2,2.1,Titans,JA Rudolph,H Davids,S Simetu,0,0,,,,,,"",""
+ball,2,2.2,Titans,JA Rudolph,H Davids,S Simetu,6,0,,,,,,"",""
+ball,2,2.3,Titans,JA Rudolph,H Davids,S Simetu,0,0,,,,,,"",""
+ball,2,2.4,Titans,JA Rudolph,H Davids,S Simetu,0,0,,,,,,"",""
+ball,2,2.5,Titans,JA Rudolph,H Davids,S Simetu,1,0,,,,,,"",""
+ball,2,2.6,Titans,H Davids,JA Rudolph,S Simetu,1,0,,,,,,"",""
+ball,2,3.1,Titans,H Davids,JA Rudolph,LJ Wright,0,0,,,,,,"",""
+ball,2,3.2,Titans,H Davids,JA Rudolph,LJ Wright,4,0,,,,,,"",""
+ball,2,3.3,Titans,H Davids,JA Rudolph,LJ Wright,0,0,,,,,,"",""
+ball,2,3.4,Titans,H Davids,JA Rudolph,LJ Wright,0,0,,,,,,"",""
+ball,2,3.5,Titans,H Davids,JA Rudolph,LJ Wright,6,0,,,,,,"",""
+ball,2,3.6,Titans,H Davids,JA Rudolph,LJ Wright,1,0,,,,,,"",""
+ball,2,4.1,Titans,H Davids,JA Rudolph,P Matshikwe,0,0,,,,,,"",""
+ball,2,4.2,Titans,H Davids,JA Rudolph,P Matshikwe,4,0,,,,,,"",""
+ball,2,4.3,Titans,H Davids,JA Rudolph,P Matshikwe,4,0,,,,,,"",""
+ball,2,4.4,Titans,H Davids,JA Rudolph,P Matshikwe,0,0,,,,,,"",""
+ball,2,4.5,Titans,H Davids,JA Rudolph,P Matshikwe,4,0,,,,,,"",""
+ball,2,4.6,Titans,H Davids,JA Rudolph,P Matshikwe,0,0,,,,,,"",""
+ball,2,5.1,Titans,JA Rudolph,H Davids,LJ Wright,1,0,,,,,,"",""
+ball,2,5.2,Titans,H Davids,JA Rudolph,LJ Wright,4,0,,,,,,"",""
+ball,2,5.3,Titans,H Davids,JA Rudolph,LJ Wright,1,0,,,,,,"",""
+ball,2,5.4,Titans,JA Rudolph,H Davids,LJ Wright,1,0,,,,,,"",""
+ball,2,5.5,Titans,H Davids,JA Rudolph,LJ Wright,4,0,,,,,,"",""
+ball,2,5.6,Titans,H Davids,JA Rudolph,LJ Wright,4,0,,,,,,"",""
+ball,2,6.1,Titans,JA Rudolph,H Davids,S Simetu,1,0,,,,,,"",""
+ball,2,6.2,Titans,H Davids,JA Rudolph,S Simetu,1,0,,,,,,"",""
+ball,2,6.3,Titans,JA Rudolph,H Davids,S Simetu,0,0,,,,,,"",""
+ball,2,6.4,Titans,JA Rudolph,H Davids,S Simetu,4,0,,,,,,"",""
+ball,2,6.5,Titans,JA Rudolph,H Davids,S Simetu,1,0,,,,,,"",""
+ball,2,6.6,Titans,H Davids,JA Rudolph,S Simetu,1,0,,,,,,"",""
+ball,2,7.1,Titans,H Davids,JA Rudolph,PD Collingwood,1,0,,,,,,"",""
+ball,2,7.2,Titans,JA Rudolph,H Davids,PD Collingwood,0,0,,,,,,"",""
+ball,2,7.3,Titans,JA Rudolph,H Davids,PD Collingwood,1,0,,,,,,"",""
+ball,2,7.4,Titans,H Davids,JA Rudolph,PD Collingwood,1,0,,,,,,"",""
+ball,2,7.5,Titans,JA Rudolph,H Davids,PD Collingwood,1,0,,,,,,"",""
+ball,2,7.6,Titans,H Davids,JA Rudolph,PD Collingwood,0,0,,,,,,"",""
+ball,2,8.1,Titans,JA Rudolph,H Davids,S Simetu,0,0,,,,,,"",""
+ball,2,8.2,Titans,JA Rudolph,H Davids,S Simetu,1,0,,,,,,"",""
+ball,2,8.3,Titans,H Davids,JA Rudolph,S Simetu,2,0,,,,,,"",""
+ball,2,8.4,Titans,H Davids,JA Rudolph,S Simetu,0,0,,,,,,"",""
+ball,2,8.5,Titans,H Davids,JA Rudolph,S Simetu,1,0,,,,,,"",""
+ball,2,8.6,Titans,JA Rudolph,H Davids,S Simetu,0,0,,,,,,"",""
+ball,2,9.1,Titans,H Davids,JA Rudolph,K Zondo,0,0,,,,,,"",""
+ball,2,9.2,Titans,H Davids,JA Rudolph,K Zondo,0,0,,,,,,"",""
+ball,2,9.3,Titans,H Davids,JA Rudolph,K Zondo,0,0,,,,,,caught,H Davids
+ball,2,9.4,Titans,RE van der Merwe,JA Rudolph,K Zondo,1,0,,,,,,"",""
+ball,2,9.5,Titans,JA Rudolph,RE van der Merwe,K Zondo,0,0,,,,,,"",""
+ball,2,9.6,Titans,JA Rudolph,RE van der Merwe,K Zondo,4,0,,,,,,"",""
+ball,2,10.1,Titans,RE van der Merwe,JA Rudolph,PD Collingwood,1,0,,,,,,"",""
+ball,2,10.2,Titans,JA Rudolph,RE van der Merwe,PD Collingwood,2,0,,,,,,"",""
+ball,2,10.3,Titans,JA Rudolph,RE van der Merwe,PD Collingwood,1,0,,,,,,"",""
+ball,2,10.4,Titans,RE van der Merwe,JA Rudolph,PD Collingwood,4,0,,,,,,"",""
+ball,2,10.5,Titans,RE van der Merwe,JA Rudolph,PD Collingwood,1,0,,,,,,"",""
+ball,2,10.6,Titans,JA Rudolph,RE van der Merwe,PD Collingwood,1,0,,,,,,"",""
+ball,2,11.1,Titans,JA Rudolph,RE van der Merwe,K Zondo,2,0,,,,,,"",""
+ball,2,11.2,Titans,JA Rudolph,RE van der Merwe,K Zondo,0,0,,,,,,"",""
+ball,2,11.3,Titans,JA Rudolph,RE van der Merwe,K Zondo,1,0,,,,,,"",""
+ball,2,11.4,Titans,RE van der Merwe,JA Rudolph,K Zondo,4,0,,,,,,"",""
+ball,2,11.5,Titans,RE van der Merwe,JA Rudolph,K Zondo,6,0,,,,,,"",""
+ball,2,11.6,Titans,RE van der Merwe,JA Rudolph,K Zondo,1,0,,,,,,"",""
+ball,2,12.1,Titans,RE van der Merwe,JA Rudolph,BM Edmondson,0,0,,,,,,"",""
+ball,2,12.2,Titans,RE van der Merwe,JA Rudolph,BM Edmondson,1,0,,,,,,"",""
+ball,2,12.3,Titans,JA Rudolph,RE van der Merwe,BM Edmondson,4,0,,,,,,"",""
+ball,2,12.4,Titans,JA Rudolph,RE van der Merwe,BM Edmondson,1,0,,,,,,"",""
+ball,2,12.5,Titans,RE van der Merwe,JA Rudolph,BM Edmondson,4,0,,,,,,"",""
+ball,2,12.6,Titans,RE van der Merwe,JA Rudolph,BM Edmondson,1,0,,,,,,"",""
+ball,2,13.1,Titans,RE van der Merwe,JA Rudolph,RN ten Doeschate,0,1,,,1,,,"",""
+ball,2,13.2,Titans,JA Rudolph,RE van der Merwe,RN ten Doeschate,0,1,1,,,,,"",""
+ball,2,13.3,Titans,JA Rudolph,RE van der Merwe,RN ten Doeschate,1,0,,,,,,"",""
+ball,2,13.4,Titans,RE van der Merwe,JA Rudolph,RN ten Doeschate,0,0,,,,,,"",""
+ball,2,13.5,Titans,RE van der Merwe,JA Rudolph,RN ten Doeschate,0,0,,,,,,"",""
+ball,2,13.6,Titans,RE van der Merwe,JA Rudolph,RN ten Doeschate,0,1,1,,,,,"",""
+ball,2,13.7,Titans,RE van der Merwe,JA Rudolph,RN ten Doeschate,2,0,,,,,,"",""
+ball,2,13.8,Titans,RE van der Merwe,JA Rudolph,RN ten Doeschate,1,0,,,,,,"",""
+ball,2,14.1,Titans,RE van der Merwe,JA Rudolph,P Matshikwe,1,0,,,,,,"",""
+ball,2,14.2,Titans,JA Rudolph,RE van der Merwe,P Matshikwe,2,0,,,,,,"",""
+ball,2,14.3,Titans,JA Rudolph,RE van der Merwe,P Matshikwe,0,0,,,,,,"",""
+ball,2,14.4,Titans,JA Rudolph,RE van der Merwe,P Matshikwe,1,0,,,,,,"",""
+ball,2,14.5,Titans,RE van der Merwe,JA Rudolph,P Matshikwe,1,0,,,,,,"",""
+ball,2,14.6,Titans,JA Rudolph,RE van der Merwe,P Matshikwe,0,0,,,,,,"",""
+ball,2,15.1,Titans,RE van der Merwe,JA Rudolph,K Zondo,0,0,,,,,,"",""
+ball,2,15.2,Titans,RE van der Merwe,JA Rudolph,K Zondo,1,0,,,,,,"",""
+ball,2,15.3,Titans,JA Rudolph,RE van der Merwe,K Zondo,0,0,,,,,,"",""
+ball,2,15.4,Titans,JA Rudolph,RE van der Merwe,K Zondo,6,0,,,,,,"",""

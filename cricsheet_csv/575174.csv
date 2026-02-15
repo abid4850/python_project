@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Cape Cobras
+info,gender,male
+info,season,2012/13
+info,date,2013/03/12
+info,event,Ram Slam T20 Challenge
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Cape Cobras
+info,toss_decision,field
+info,player_of_match,RE van der Merwe
+info,player_of_match,F Behardien
+info,umpire,KH Hurter
+info,umpire,S George
+info,reserve_umpire,IH van Kerwel
+info,tv_umpire,EC Hendrikse
+info,match_referee,D Govindjee
+info,winner,Titans
+info,winner_runs,7
+info,player,Titans,JA Rudolph
+info,player,Titans,H Davids
+info,player,Titans,RE van der Merwe
+info,player,Titans,SB Styris
+info,player,Titans,F Behardien
+info,player,Titans,JA Morkel
+info,player,Titans,M Mosehle
+info,player,Titans,D Wiese
+info,player,Titans,M de Lange
+info,player,Titans,AC Thomas
+info,player,Titans,NE Mbhalati
+info,player,Cape Cobras,DJ Vilas
+info,player,Cape Cobras,RE Levi
+info,player,Cape Cobras,Azhar Mahmood
+info,player,Cape Cobras,OA Shah
+info,player,Cape Cobras,MQ Adams
+info,player,Cape Cobras,JL Ontong
+info,player,Cape Cobras,JM Kemp
+info,player,Cape Cobras,J Louw
+info,player,Cape Cobras,DL Piedt
+info,player,Cape Cobras,CK Langeveldt
+info,player,Cape Cobras,BE Hendricks
+info,registry,people,AC Thomas,b552a935
+info,registry,people,Azhar Mahmood,9a158001
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,CK Langeveldt,d1c94b25
+info,registry,people,D Govindjee,8b4c4069
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,EC Hendrikse,3f2996c9
+info,registry,people,F Behardien,dce2019b
+info,registry,people,H Davids,9c9f8dbc
+info,registry,people,IH van Kerwel,612be1ba
+info,registry,people,J Louw,9c1ccdea
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JL Ontong,55f33b32
+info,registry,people,JM Kemp,6581d753
+info,registry,people,KH Hurter,bda8cca8
+info,registry,people,M Mosehle,8836fcac
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MQ Adams,59a7fc89
+info,registry,people,NE Mbhalati,800b52dc
+info,registry,people,OA Shah,7bf96684
+info,registry,people,RE Levi,18c78b11
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,S George,6d9e5a54
+info,registry,people,SB Styris,57efa3be
+ball,1,0.1,Titans,JA Rudolph,H Davids,CK Langeveldt,0,0,,,,,,"",""
+ball,1,0.2,Titans,JA Rudolph,H Davids,CK Langeveldt,4,0,,,,,,"",""
+ball,1,0.3,Titans,JA Rudolph,H Davids,CK Langeveldt,0,0,,,,,,"",""
+ball,1,0.4,Titans,JA Rudolph,H Davids,CK Langeveldt,1,0,,,,,,"",""
+ball,1,0.5,Titans,H Davids,JA Rudolph,CK Langeveldt,0,0,,,,,,"",""
+ball,1,0.6,Titans,H Davids,JA Rudolph,CK Langeveldt,0,0,,,,,,"",""
+ball,1,1.1,Titans,JA Rudolph,H Davids,BE Hendricks,4,0,,,,,,"",""
+ball,1,1.2,Titans,JA Rudolph,H Davids,BE Hendricks,4,0,,,,,,"",""
+ball,1,1.3,Titans,JA Rudolph,H Davids,BE Hendricks,0,0,,,,,,"",""
+ball,1,1.4,Titans,JA Rudolph,H Davids,BE Hendricks,4,0,,,,,,"",""
+ball,1,1.5,Titans,JA Rudolph,H Davids,BE Hendricks,0,0,,,,,,"",""
+ball,1,1.6,Titans,JA Rudolph,H Davids,BE Hendricks,0,0,,,,,,"",""
+ball,1,2.1,Titans,H Davids,JA Rudolph,CK Langeveldt,2,0,,,,,,"",""
+ball,1,2.2,Titans,H Davids,JA Rudolph,CK Langeveldt,0,0,,,,,,"",""
+ball,1,2.3,Titans,H Davids,JA Rudolph,CK Langeveldt,0,0,,,,,,"",""
+ball,1,2.4,Titans,H Davids,JA Rudolph,CK Langeveldt,1,0,,,,,,"",""
+ball,1,2.5,Titans,JA Rudolph,H Davids,CK Langeveldt,1,0,,,,,,"",""
+ball,1,2.6,Titans,H Davids,JA Rudolph,CK Langeveldt,2,0,,,,,,"",""
+ball,1,3.1,Titans,JA Rudolph,H Davids,J Louw,4,0,,,,,,"",""
+ball,1,3.2,Titans,JA Rudolph,H Davids,J Louw,0,0,,,,,,"",""
+ball,1,3.3,Titans,JA Rudolph,H Davids,J Louw,4,0,,,,,,"",""
+ball,1,3.4,Titans,JA Rudolph,H Davids,J Louw,4,0,,,,,,"",""
+ball,1,3.5,Titans,JA Rudolph,H Davids,J Louw,0,0,,,,,,"",""
+ball,1,3.6,Titans,JA Rudolph,H Davids,J Louw,1,0,,,,,,"",""
+ball,1,4.1,Titans,JA Rudolph,H Davids,Azhar Mahmood,4,0,,,,,,"",""
+ball,1,4.2,Titans,JA Rudolph,H Davids,Azhar Mahmood,0,0,,,,,,caught,JA Rudolph
+ball,1,4.3,Titans,RE van der Merwe,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,4.4,Titans,RE van der Merwe,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,4.5,Titans,RE van der Merwe,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,4.6,Titans,RE van der Merwe,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,5.1,Titans,H Davids,RE van der Merwe,BE Hendricks,2,0,,,,,,"",""
+ball,1,5.2,Titans,H Davids,RE van der Merwe,BE Hendricks,1,0,,,,,,"",""
+ball,1,5.3,Titans,RE van der Merwe,H Davids,BE Hendricks,1,0,,,,,,"",""
+ball,1,5.4,Titans,H Davids,RE van der Merwe,BE Hendricks,1,0,,,,,,"",""
+ball,1,5.5,Titans,RE van der Merwe,H Davids,BE Hendricks,0,0,,,,,,"",""
+ball,1,5.6,Titans,RE van der Merwe,H Davids,BE Hendricks,1,0,,,,,,"",""
+ball,1,6.1,Titans,RE van der Merwe,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,6.2,Titans,RE van der Merwe,H Davids,Azhar Mahmood,4,0,,,,,,"",""
+ball,1,6.3,Titans,RE van der Merwe,H Davids,Azhar Mahmood,0,0,,,,,,caught,RE van der Merwe
+ball,1,6.4,Titans,SB Styris,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,6.5,Titans,SB Styris,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,6.6,Titans,SB Styris,H Davids,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,7.1,Titans,SB Styris,H Davids,DL Piedt,1,0,,,,,,"",""
+ball,1,7.2,Titans,H Davids,SB Styris,DL Piedt,1,0,,,,,,"",""
+ball,1,7.3,Titans,SB Styris,H Davids,DL Piedt,1,0,,,,,,"",""
+ball,1,7.4,Titans,H Davids,SB Styris,DL Piedt,1,0,,,,,,"",""
+ball,1,7.5,Titans,SB Styris,H Davids,DL Piedt,1,0,,,,,,"",""
+ball,1,7.6,Titans,H Davids,SB Styris,DL Piedt,4,0,,,,,,"",""
+ball,1,8.1,Titans,SB Styris,H Davids,JM Kemp,1,0,,,,,,"",""
+ball,1,8.2,Titans,H Davids,SB Styris,JM Kemp,0,0,,,,,,"",""
+ball,1,8.3,Titans,H Davids,SB Styris,JM Kemp,1,0,,,,,,"",""
+ball,1,8.4,Titans,SB Styris,H Davids,JM Kemp,1,0,,,,,,"",""
+ball,1,8.5,Titans,H Davids,SB Styris,JM Kemp,1,0,,,,,,"",""
+ball,1,8.6,Titans,SB Styris,H Davids,JM Kemp,0,0,,,,,,bowled,SB Styris
+ball,1,9.1,Titans,H Davids,F Behardien,DL Piedt,1,0,,,,,,"",""
+ball,1,9.2,Titans,F Behardien,H Davids,DL Piedt,0,0,,,,,,"",""
+ball,1,9.3,Titans,F Behardien,H Davids,DL Piedt,0,0,,,,,,"",""
+ball,1,9.4,Titans,F Behardien,H Davids,DL Piedt,0,0,,,,,,"",""
+ball,1,9.5,Titans,F Behardien,H Davids,DL Piedt,0,0,,,,,,"",""
+ball,1,9.6,Titans,F Behardien,H Davids,DL Piedt,2,0,,,,,,"",""
+ball,1,10.1,Titans,H Davids,F Behardien,JM Kemp,2,0,,,,,,"",""
+ball,1,10.2,Titans,H Davids,F Behardien,JM Kemp,2,0,,,,,,"",""
+ball,1,10.3,Titans,H Davids,F Behardien,JM Kemp,1,0,,,,,,"",""
+ball,1,10.4,Titans,F Behardien,H Davids,JM Kemp,2,0,,,,,,"",""
+ball,1,10.5,Titans,F Behardien,H Davids,JM Kemp,1,0,,,,,,"",""
+ball,1,10.6,Titans,H Davids,F Behardien,JM Kemp,1,0,,,,,,"",""
+ball,1,11.1,Titans,H Davids,F Behardien,DL Piedt,0,0,,,,,,"",""
+ball,1,11.2,Titans,H Davids,F Behardien,DL Piedt,0,0,,,,,,"",""
+ball,1,11.3,Titans,H Davids,F Behardien,DL Piedt,4,0,,,,,,"",""
+ball,1,11.4,Titans,H Davids,F Behardien,DL Piedt,1,0,,,,,,"",""
+ball,1,11.5,Titans,F Behardien,H Davids,DL Piedt,1,0,,,,,,"",""
+ball,1,11.6,Titans,H Davids,F Behardien,DL Piedt,0,0,,,,,,"",""
+ball,1,12.1,Titans,F Behardien,H Davids,JM Kemp,4,0,,,,,,"",""
+ball,1,12.2,Titans,F Behardien,H Davids,JM Kemp,0,1,1,,,,,"",""
+ball,1,12.3,Titans,F Behardien,H Davids,JM Kemp,0,0,,,,,,"",""
+ball,1,12.4,Titans,F Behardien,H Davids,JM Kemp,0,1,1,,,,,"",""
+ball,1,12.5,Titans,F Behardien,H Davids,JM Kemp,2,0,,,,,,"",""
+ball,1,12.6,Titans,F Behardien,H Davids,JM Kemp,0,0,,,,,,"",""
+ball,1,12.7,Titans,F Behardien,H Davids,JM Kemp,0,0,,,,,,"",""
+ball,1,12.8,Titans,F Behardien,H Davids,JM Kemp,4,0,,,,,,"",""
+ball,1,13.1,Titans,H Davids,F Behardien,DL Piedt,6,0,,,,,,"",""
+ball,1,13.2,Titans,H Davids,F Behardien,DL Piedt,1,0,,,,,,"",""
+ball,1,13.3,Titans,F Behardien,H Davids,DL Piedt,4,0,,,,,,"",""
+ball,1,13.4,Titans,F Behardien,H Davids,DL Piedt,4,0,,,,,,"",""
+ball,1,13.5,Titans,F Behardien,H Davids,DL Piedt,1,0,,,,,,"",""
+ball,1,13.6,Titans,H Davids,F Behardien,DL Piedt,1,0,,,,,,"",""
+ball,1,14.1,Titans,H Davids,F Behardien,J Louw,0,0,,,,,,"",""
+ball,1,14.2,Titans,H Davids,F Behardien,J Louw,3,0,,,,,,"",""
+ball,1,14.3,Titans,F Behardien,H Davids,J Louw,0,0,,,,,,"",""
+ball,1,14.4,Titans,F Behardien,H Davids,J Louw,1,0,,,,,,"",""
+ball,1,14.5,Titans,H Davids,F Behardien,J Louw,4,0,,,,,,"",""
+ball,1,14.6,Titans,H Davids,F Behardien,J Louw,4,0,,,,,,"",""
+ball,1,15.1,Titans,F Behardien,H Davids,BE Hendricks,2,0,,,,,,"",""
+ball,1,15.2,Titans,F Behardien,H Davids,BE Hendricks,1,1,,1,,,,"",""
+ball,1,15.3,Titans,H Davids,F Behardien,BE Hendricks,1,0,,,,,,"",""
+ball,1,15.4,Titans,F Behardien,H Davids,BE Hendricks,0,0,,,,,,"",""
+ball,1,15.5,Titans,F Behardien,H Davids,BE Hendricks,1,0,,,,,,"",""
+ball,1,15.6,Titans,H Davids,F Behardien,BE Hendricks,4,0,,,,,,"",""
+ball,1,15.7,Titans,H Davids,F Behardien,BE Hendricks,0,0,,,,,,"",""
+ball,1,16.1,Titans,F Behardien,H Davids,CK Langeveldt,1,0,,,,,,"",""
+ball,1,16.2,Titans,H Davids,F Behardien,CK Langeveldt,1,0,,,,,,"",""
+ball,1,16.3,Titans,F Behardien,H Davids,CK Langeveldt,1,0,,,,,,"",""
+ball,1,16.4,Titans,H Davids,F Behardien,CK Langeveldt,1,0,,,,,,"",""
+ball,1,16.5,Titans,F Behardien,H Davids,CK Langeveldt,4,0,,,,,,"",""
+ball,1,16.6,Titans,F Behardien,H Davids,CK Langeveldt,1,0,,,,,,"",""
+ball,1,17.1,Titans,F Behardien,H Davids,Azhar Mahmood,0,1,1,,,,,"",""
+ball,1,17.2,Titans,F Behardien,H Davids,Azhar Mahmood,2,0,,,,,,"",""
+ball,1,17.3,Titans,F Behardien,H Davids,Azhar Mahmood,2,0,,,,,,"",""
+ball,1,17.4,Titans,F Behardien,H Davids,Azhar Mahmood,2,0,,,,,,"",""
+ball,1,17.5,Titans,F Behardien,H Davids,Azhar Mahmood,6,0,,,,,,"",""
+ball,1,17.6,Titans,F Behardien,H Davids,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,17.7,Titans,H Davids,F Behardien,Azhar Mahmood,0,0,,,,,,bowled,H Davids
+ball,1,18.1,Titans,F Behardien,JA Morkel,CK Langeveldt,4,0,,,,,,"",""
+ball,1,18.2,Titans,F Behardien,JA Morkel,CK Langeveldt,2,0,,,,,,"",""
+ball,1,18.3,Titans,F Behardien,JA Morkel,CK Langeveldt,2,0,,,,,,"",""
+ball,1,18.4,Titans,F Behardien,JA Morkel,CK Langeveldt,1,0,,,,,,"",""
+ball,1,18.5,Titans,JA Morkel,F Behardien,CK Langeveldt,1,0,,,,,,"",""
+ball,1,18.6,Titans,F Behardien,JA Morkel,CK Langeveldt,1,0,,,,,,"",""
+ball,1,19.1,Titans,F Behardien,JA Morkel,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,19.2,Titans,JA Morkel,F Behardien,Azhar Mahmood,0,1,1,,,,,"",""
+ball,1,19.3,Titans,JA Morkel,F Behardien,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,19.4,Titans,JA Morkel,F Behardien,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,19.5,Titans,F Behardien,JA Morkel,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,19.6,Titans,JA Morkel,F Behardien,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,19.7,Titans,F Behardien,JA Morkel,Azhar Mahmood,6,0,,,,,,"",""
+ball,2,0.1,Cape Cobras,DJ Vilas,RE Levi,RE van der Merwe,1,0,,,,,,"",""
+ball,2,0.2,Cape Cobras,RE Levi,DJ Vilas,RE van der Merwe,1,0,,,,,,"",""
+ball,2,0.3,Cape Cobras,DJ Vilas,RE Levi,RE van der Merwe,0,0,,,,,,"",""
+ball,2,0.4,Cape Cobras,DJ Vilas,RE Levi,RE van der Merwe,0,0,,,,,,"",""
+ball,2,0.5,Cape Cobras,DJ Vilas,RE Levi,RE van der Merwe,0,0,,,,,,"",""
+ball,2,0.6,Cape Cobras,DJ Vilas,RE Levi,RE van der Merwe,0,0,,,,,,"",""
+ball,2,1.1,Cape Cobras,RE Levi,DJ Vilas,AC Thomas,2,0,,,,,,"",""
+ball,2,1.2,Cape Cobras,RE Levi,DJ Vilas,AC Thomas,0,0,,,,,,"",""
+ball,2,1.3,Cape Cobras,RE Levi,DJ Vilas,AC Thomas,0,0,,,,,,"",""
+ball,2,1.4,Cape Cobras,RE Levi,DJ Vilas,AC Thomas,1,0,,,,,,"",""
+ball,2,1.5,Cape Cobras,DJ Vilas,RE Levi,AC Thomas,4,0,,,,,,"",""
+ball,2,1.6,Cape Cobras,DJ Vilas,RE Levi,AC Thomas,4,0,,,,,,"",""
+ball,2,2.1,Cape Cobras,RE Levi,DJ Vilas,M de Lange,0,0,,,,,,"",""
+ball,2,2.2,Cape Cobras,RE Levi,DJ Vilas,M de Lange,0,0,,,,,,"",""
+ball,2,2.3,Cape Cobras,RE Levi,DJ Vilas,M de Lange,4,0,,,,,,"",""
+ball,2,2.4,Cape Cobras,RE Levi,DJ Vilas,M de Lange,4,0,,,,,,"",""
+ball,2,2.5,Cape Cobras,RE Levi,DJ Vilas,M de Lange,1,0,,,,,,"",""
+ball,2,2.6,Cape Cobras,DJ Vilas,RE Levi,M de Lange,2,0,,,,,,"",""
+ball,2,3.1,Cape Cobras,RE Levi,DJ Vilas,RE van der Merwe,0,0,,,,,,bowled,RE Levi
+ball,2,3.2,Cape Cobras,Azhar Mahmood,DJ Vilas,RE van der Merwe,0,0,,,,,,"",""
+ball,2,3.3,Cape Cobras,Azhar Mahmood,DJ Vilas,RE van der Merwe,0,1,1,,,,,"",""
+ball,2,3.4,Cape Cobras,Azhar Mahmood,DJ Vilas,RE van der Merwe,1,0,,,,,,"",""
+ball,2,3.5,Cape Cobras,DJ Vilas,Azhar Mahmood,RE van der Merwe,0,0,,,,,,"",""
+ball,2,3.6,Cape Cobras,DJ Vilas,Azhar Mahmood,RE van der Merwe,4,0,,,,,,"",""
+ball,2,3.7,Cape Cobras,DJ Vilas,Azhar Mahmood,RE van der Merwe,0,0,,,,,,"",""
+ball,2,4.1,Cape Cobras,Azhar Mahmood,DJ Vilas,AC Thomas,1,0,,,,,,"",""
+ball,2,4.2,Cape Cobras,DJ Vilas,Azhar Mahmood,AC Thomas,0,0,,,,,,"",""
+ball,2,4.3,Cape Cobras,DJ Vilas,Azhar Mahmood,AC Thomas,3,0,,,,,,"",""
+ball,2,4.4,Cape Cobras,Azhar Mahmood,DJ Vilas,AC Thomas,1,0,,,,,,"",""
+ball,2,4.5,Cape Cobras,DJ Vilas,Azhar Mahmood,AC Thomas,4,0,,,,,,"",""
+ball,2,4.6,Cape Cobras,DJ Vilas,Azhar Mahmood,AC Thomas,2,0,,,,,,"",""
+ball,2,5.1,Cape Cobras,Azhar Mahmood,DJ Vilas,NE Mbhalati,0,0,,,,,,"",""
+ball,2,5.2,Cape Cobras,Azhar Mahmood,DJ Vilas,NE Mbhalati,0,0,,,,,,"",""
+ball,2,5.3,Cape Cobras,Azhar Mahmood,DJ Vilas,NE Mbhalati,0,0,,,,,,"",""
+ball,2,5.4,Cape Cobras,Azhar Mahmood,DJ Vilas,NE Mbhalati,1,0,,,,,,"",""
+ball,2,5.5,Cape Cobras,DJ Vilas,Azhar Mahmood,NE Mbhalati,4,0,,,,,,"",""
+ball,2,5.6,Cape Cobras,DJ Vilas,Azhar Mahmood,NE Mbhalati,0,0,,,,,,"",""
+ball,2,6.1,Cape Cobras,Azhar Mahmood,DJ Vilas,JA Morkel,4,0,,,,,,"",""
+ball,2,6.2,Cape Cobras,Azhar Mahmood,DJ Vilas,JA Morkel,1,0,,,,,,"",""
+ball,2,6.3,Cape Cobras,DJ Vilas,Azhar Mahmood,JA Morkel,1,0,,,,,,"",""
+ball,2,6.4,Cape Cobras,Azhar Mahmood,DJ Vilas,JA Morkel,1,0,,,,,,"",""
+ball,2,6.5,Cape Cobras,DJ Vilas,Azhar Mahmood,JA Morkel,2,0,,,,,,"",""
+ball,2,6.6,Cape Cobras,DJ Vilas,Azhar Mahmood,JA Morkel,1,0,,,,,,"",""
+ball,2,7.1,Cape Cobras,DJ Vilas,Azhar Mahmood,NE Mbhalati,0,0,,,,,,"",""
+ball,2,7.2,Cape Cobras,DJ Vilas,Azhar Mahmood,NE Mbhalati,0,0,,,,,,bowled,DJ Vilas
+ball,2,7.3,Cape Cobras,OA Shah,Azhar Mahmood,NE Mbhalati,0,0,,,,,,"",""
+ball,2,7.4,Cape Cobras,OA Shah,Azhar Mahmood,NE Mbhalati,0,0,,,,,,"",""
+ball,2,7.5,Cape Cobras,OA Shah,Azhar Mahmood,NE Mbhalati,1,0,,,,,,"",""
+ball,2,7.6,Cape Cobras,Azhar Mahmood,OA Shah,NE Mbhalati,1,0,,,,,,"",""
+ball,2,8.1,Cape Cobras,Azhar Mahmood,OA Shah,M de Lange,0,0,,,,,,"",""
+ball,2,8.2,Cape Cobras,Azhar Mahmood,OA Shah,M de Lange,1,0,,,,,,"",""
+ball,2,8.3,Cape Cobras,OA Shah,Azhar Mahmood,M de Lange,1,0,,,,,,"",""
+ball,2,8.4,Cape Cobras,Azhar Mahmood,OA Shah,M de Lange,2,0,,,,,,"",""
+ball,2,8.5,Cape Cobras,Azhar Mahmood,OA Shah,M de Lange,1,0,,,,,,"",""
+ball,2,8.6,Cape Cobras,OA Shah,Azhar Mahmood,M de Lange,1,0,,,,,,"",""
+ball,2,9.1,Cape Cobras,OA Shah,Azhar Mahmood,NE Mbhalati,0,0,,,,,,"",""
+ball,2,9.2,Cape Cobras,OA Shah,Azhar Mahmood,NE Mbhalati,1,0,,,,,,"",""
+ball,2,9.3,Cape Cobras,Azhar Mahmood,OA Shah,NE Mbhalati,0,0,,,,,,"",""
+ball,2,9.4,Cape Cobras,Azhar Mahmood,OA Shah,NE Mbhalati,0,0,,,,,,"",""
+ball,2,9.5,Cape Cobras,Azhar Mahmood,OA Shah,NE Mbhalati,4,0,,,,,,"",""
+ball,2,9.6,Cape Cobras,Azhar Mahmood,OA Shah,NE Mbhalati,1,0,,,,,,"",""
+ball,2,10.1,Cape Cobras,Azhar Mahmood,OA Shah,JA Morkel,2,0,,,,,,"",""
+ball,2,10.2,Cape Cobras,Azhar Mahmood,OA Shah,JA Morkel,2,0,,,,,,"",""
+ball,2,10.3,Cape Cobras,Azhar Mahmood,OA Shah,JA Morkel,1,0,,,,,,"",""
+ball,2,10.4,Cape Cobras,OA Shah,Azhar Mahmood,JA Morkel,1,0,,,,,,"",""
+ball,2,10.5,Cape Cobras,Azhar Mahmood,OA Shah,JA Morkel,1,0,,,,,,"",""
+ball,2,10.6,Cape Cobras,OA Shah,Azhar Mahmood,JA Morkel,1,0,,,,,,"",""
+ball,2,11.1,Cape Cobras,OA Shah,Azhar Mahmood,RE van der Merwe,1,0,,,,,,"",""
+ball,2,11.2,Cape Cobras,Azhar Mahmood,OA Shah,RE van der Merwe,1,0,,,,,,"",""
+ball,2,11.3,Cape Cobras,OA Shah,Azhar Mahmood,RE van der Merwe,0,0,,,,,,"",""
+ball,2,11.4,Cape Cobras,OA Shah,Azhar Mahmood,RE van der Merwe,0,0,,,,,,"",""
+ball,2,11.5,Cape Cobras,OA Shah,Azhar Mahmood,RE van der Merwe,6,0,,,,,,"",""
+ball,2,11.6,Cape Cobras,OA Shah,Azhar Mahmood,RE van der Merwe,0,0,,,,,,run out,Azhar Mahmood
+ball,2,12.1,Cape Cobras,MQ Adams,OA Shah,JA Morkel,0,0,,,,,,"",""
+ball,2,12.2,Cape Cobras,MQ Adams,OA Shah,JA Morkel,1,0,,,,,,"",""
+ball,2,12.3,Cape Cobras,OA Shah,MQ Adams,JA Morkel,4,0,,,,,,"",""
+ball,2,12.4,Cape Cobras,OA Shah,MQ Adams,JA Morkel,1,0,,,,,,"",""
+ball,2,12.5,Cape Cobras,MQ Adams,OA Shah,JA Morkel,1,0,,,,,,"",""
+ball,2,12.6,Cape Cobras,OA Shah,MQ Adams,JA Morkel,4,0,,,,,,"",""
+ball,2,13.1,Cape Cobras,MQ Adams,OA Shah,RE van der Merwe,0,0,,,,,,"",""
+ball,2,13.2,Cape Cobras,MQ Adams,OA Shah,RE van der Merwe,1,0,,,,,,"",""
+ball,2,13.3,Cape Cobras,OA Shah,MQ Adams,RE van der Merwe,1,0,,,,,,"",""
+ball,2,13.4,Cape Cobras,MQ Adams,OA Shah,RE van der Merwe,0,0,,,,,,bowled,MQ Adams
+ball,2,13.5,Cape Cobras,JL Ontong,OA Shah,RE van der Merwe,1,0,,,,,,"",""
+ball,2,13.6,Cape Cobras,OA Shah,JL Ontong,RE van der Merwe,1,0,,,,,,"",""
+ball,2,14.1,Cape Cobras,OA Shah,JL Ontong,D Wiese,0,1,,,,1,,"",""
+ball,2,14.2,Cape Cobras,JL Ontong,OA Shah,D Wiese,0,1,,,,1,,"",""
+ball,2,14.3,Cape Cobras,OA Shah,JL Ontong,D Wiese,6,0,,,,,,"",""
+ball,2,14.4,Cape Cobras,OA Shah,JL Ontong,D Wiese,1,0,,,,,,"",""
+ball,2,14.5,Cape Cobras,JL Ontong,OA Shah,D Wiese,2,0,,,,,,"",""
+ball,2,14.6,Cape Cobras,JL Ontong,OA Shah,D Wiese,2,0,,,,,,"",""
+ball,2,15.1,Cape Cobras,OA Shah,JL Ontong,M de Lange,2,0,,,,,,"",""
+ball,2,15.2,Cape Cobras,OA Shah,JL Ontong,M de Lange,6,0,,,,,,"",""
+ball,2,15.3,Cape Cobras,OA Shah,JL Ontong,M de Lange,4,0,,,,,,"",""
+ball,2,15.4,Cape Cobras,OA Shah,JL Ontong,M de Lange,0,0,,,,,,"",""
+ball,2,15.5,Cape Cobras,OA Shah,JL Ontong,M de Lange,1,0,,,,,,"",""
+ball,2,15.6,Cape Cobras,JL Ontong,OA Shah,M de Lange,2,0,,,,,,"",""
+ball,2,16.1,Cape Cobras,OA Shah,JL Ontong,NE Mbhalati,0,1,,,1,,,"",""
+ball,2,16.2,Cape Cobras,JL Ontong,OA Shah,NE Mbhalati,0,0,,,,,,"",""
+ball,2,16.3,Cape Cobras,JL Ontong,OA Shah,NE Mbhalati,1,0,,,,,,"",""
+ball,2,16.4,Cape Cobras,OA Shah,JL Ontong,NE Mbhalati,1,0,,,,,,"",""
+ball,2,16.5,Cape Cobras,JL Ontong,OA Shah,NE Mbhalati,1,0,,,,,,"",""
+ball,2,16.6,Cape Cobras,OA Shah,JL Ontong,NE Mbhalati,2,0,,,,,,"",""
+ball,2,17.1,Cape Cobras,JL Ontong,OA Shah,AC Thomas,4,0,,,,,,"",""
+ball,2,17.2,Cape Cobras,JL Ontong,OA Shah,AC Thomas,1,0,,,,,,"",""
+ball,2,17.3,Cape Cobras,OA Shah,JL Ontong,AC Thomas,1,0,,,,,,"",""
+ball,2,17.4,Cape Cobras,JL Ontong,OA Shah,AC Thomas,4,0,,,,,,"",""
+ball,2,17.5,Cape Cobras,JL Ontong,OA Shah,AC Thomas,2,0,,,,,,"",""
+ball,2,17.6,Cape Cobras,JL Ontong,OA Shah,AC Thomas,1,0,,,,,,"",""
+ball,2,18.1,Cape Cobras,JL Ontong,OA Shah,M de Lange,4,0,,,,,,"",""
+ball,2,18.2,Cape Cobras,JL Ontong,OA Shah,M de Lange,2,0,,,,,,"",""
+ball,2,18.3,Cape Cobras,JL Ontong,OA Shah,M de Lange,3,0,,,,,,"",""
+ball,2,18.4,Cape Cobras,OA Shah,JL Ontong,M de Lange,6,0,,,,,,"",""
+ball,2,18.5,Cape Cobras,OA Shah,JL Ontong,M de Lange,1,0,,,,,,"",""
+ball,2,18.6,Cape Cobras,JL Ontong,OA Shah,M de Lange,0,0,,,,,,"",""
+ball,2,19.1,Cape Cobras,OA Shah,JL Ontong,AC Thomas,1,0,,,,,,"",""
+ball,2,19.2,Cape Cobras,JL Ontong,OA Shah,AC Thomas,1,0,,,,,,"",""
+ball,2,19.3,Cape Cobras,OA Shah,JL Ontong,AC Thomas,0,0,,,,,,"",""
+ball,2,19.4,Cape Cobras,OA Shah,JL Ontong,AC Thomas,2,0,,,,,,"",""
+ball,2,19.5,Cape Cobras,OA Shah,JL Ontong,AC Thomas,2,0,,,,,,"",""
+ball,2,19.6,Cape Cobras,OA Shah,JL Ontong,AC Thomas,1,0,,,,,,"",""

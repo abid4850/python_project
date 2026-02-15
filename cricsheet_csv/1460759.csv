@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Birmingham Bears
+info,team,Nottinghamshire
+info,gender,male
+info,season,2025
+info,date,2025/05/30
+info,event,Vitality Blast Men
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Nottinghamshire
+info,toss_decision,field
+info,umpire,Chris Watts
+info,umpire,Hassan Adnan
+info,match_referee,PM Such
+info,winner,Nottinghamshire
+info,winner_wickets,7
+info,player,Birmingham Bears,AL Davies
+info,player,Birmingham Bears,TWM Latham
+info,player,Birmingham Bears,RM Yates
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,EG Barnard
+info,player,Birmingham Bears,GHS Garton
+info,player,Birmingham Bears,K Smith
+info,player,Birmingham Bears,DR Briggs
+info,player,Birmingham Bears,CN Miles
+info,player,Birmingham Bears,JB Lintott
+info,player,Birmingham Bears,AR Sylvester
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,MC Henriques
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,DR Sams
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,C McKerr
+info,player,Nottinghamshire,DY Pennington
+info,registry,people,AL Davies,29ede60b
+info,registry,people,AR Sylvester,909b090d
+info,registry,people,C McKerr,5ccdb14f
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CN Miles,5fed6272
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,K Smith,ee6ebf47
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RM Yates,3581a798
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,TWM Latham,e824e6ee
+ball,1,0.1,Birmingham Bears,AL Davies,TWM Latham,DY Pennington,0,0,,,,,,"",""
+ball,1,0.2,Birmingham Bears,AL Davies,TWM Latham,DY Pennington,1,0,,,,,,"",""
+ball,1,0.3,Birmingham Bears,TWM Latham,AL Davies,DY Pennington,0,0,,,,,,"",""
+ball,1,0.4,Birmingham Bears,TWM Latham,AL Davies,DY Pennington,2,0,,,,,,"",""
+ball,1,0.5,Birmingham Bears,TWM Latham,AL Davies,DY Pennington,4,0,,,,,,"",""
+ball,1,0.6,Birmingham Bears,TWM Latham,AL Davies,DY Pennington,0,0,,,,,,"",""
+ball,1,1.1,Birmingham Bears,AL Davies,TWM Latham,DR Sams,1,0,,,,,,"",""
+ball,1,1.2,Birmingham Bears,TWM Latham,AL Davies,DR Sams,0,1,1,,,,,"",""
+ball,1,1.3,Birmingham Bears,TWM Latham,AL Davies,DR Sams,1,0,,,,,,"",""
+ball,1,1.4,Birmingham Bears,AL Davies,TWM Latham,DR Sams,0,0,,,,,,"",""
+ball,1,1.5,Birmingham Bears,AL Davies,TWM Latham,DR Sams,1,0,,,,,,"",""
+ball,1,1.6,Birmingham Bears,TWM Latham,AL Davies,DR Sams,0,0,,,,,,lbw,TWM Latham
+ball,1,1.7,Birmingham Bears,RM Yates,AL Davies,DR Sams,0,0,,,,,,"",""
+ball,1,2.1,Birmingham Bears,AL Davies,RM Yates,DY Pennington,1,0,,,,,,"",""
+ball,1,2.2,Birmingham Bears,RM Yates,AL Davies,DY Pennington,0,0,,,,,,"",""
+ball,1,2.3,Birmingham Bears,RM Yates,AL Davies,DY Pennington,0,0,,,,,,bowled,RM Yates
+ball,1,2.4,Birmingham Bears,SR Hain,AL Davies,DY Pennington,0,0,,,,,,"",""
+ball,1,2.5,Birmingham Bears,SR Hain,AL Davies,DY Pennington,1,0,,,,,,"",""
+ball,1,2.6,Birmingham Bears,AL Davies,SR Hain,DY Pennington,0,0,,,,,,"",""
+ball,1,3.1,Birmingham Bears,SR Hain,AL Davies,C McKerr,4,0,,,,,,"",""
+ball,1,3.2,Birmingham Bears,SR Hain,AL Davies,C McKerr,6,0,,,,,,"",""
+ball,1,3.3,Birmingham Bears,SR Hain,AL Davies,C McKerr,1,0,,,,,,"",""
+ball,1,3.4,Birmingham Bears,AL Davies,SR Hain,C McKerr,4,0,,,,,,"",""
+ball,1,3.5,Birmingham Bears,AL Davies,SR Hain,C McKerr,0,0,,,,,,"",""
+ball,1,3.6,Birmingham Bears,AL Davies,SR Hain,C McKerr,1,0,,,,,,"",""
+ball,1,4.1,Birmingham Bears,AL Davies,SR Hain,DY Pennington,4,0,,,,,,"",""
+ball,1,4.2,Birmingham Bears,AL Davies,SR Hain,DY Pennington,1,0,,,,,,"",""
+ball,1,4.3,Birmingham Bears,SR Hain,AL Davies,DY Pennington,1,0,,,,,,"",""
+ball,1,4.4,Birmingham Bears,AL Davies,SR Hain,DY Pennington,0,0,,,,,,"",""
+ball,1,4.5,Birmingham Bears,AL Davies,SR Hain,DY Pennington,6,0,,,,,,"",""
+ball,1,4.6,Birmingham Bears,AL Davies,SR Hain,DY Pennington,4,0,,,,,,"",""
+ball,1,5.1,Birmingham Bears,SR Hain,AL Davies,DR Sams,1,0,,,,,,"",""
+ball,1,5.2,Birmingham Bears,AL Davies,SR Hain,DR Sams,1,0,,,,,,"",""
+ball,1,5.3,Birmingham Bears,SR Hain,AL Davies,DR Sams,2,0,,,,,,"",""
+ball,1,5.4,Birmingham Bears,SR Hain,AL Davies,DR Sams,1,0,,,,,,"",""
+ball,1,5.5,Birmingham Bears,AL Davies,SR Hain,DR Sams,6,0,,,,,,"",""
+ball,1,5.6,Birmingham Bears,AL Davies,SR Hain,DR Sams,2,0,,,,,,"",""
+ball,1,6.1,Birmingham Bears,SR Hain,AL Davies,CG Harrison,1,0,,,,,,"",""
+ball,1,6.2,Birmingham Bears,AL Davies,SR Hain,CG Harrison,0,0,,,,,,"",""
+ball,1,6.3,Birmingham Bears,AL Davies,SR Hain,CG Harrison,6,0,,,,,,"",""
+ball,1,6.4,Birmingham Bears,AL Davies,SR Hain,CG Harrison,1,0,,,,,,"",""
+ball,1,6.5,Birmingham Bears,SR Hain,AL Davies,CG Harrison,1,0,,,,,,"",""
+ball,1,6.6,Birmingham Bears,AL Davies,SR Hain,CG Harrison,0,0,,,,,,caught,AL Davies
+ball,1,7.1,Birmingham Bears,SR Hain,EG Barnard,C McKerr,1,0,,,,,,"",""
+ball,1,7.2,Birmingham Bears,EG Barnard,SR Hain,C McKerr,1,0,,,,,,"",""
+ball,1,7.3,Birmingham Bears,SR Hain,EG Barnard,C McKerr,4,0,,,,,,"",""
+ball,1,7.4,Birmingham Bears,SR Hain,EG Barnard,C McKerr,1,0,,,,,,"",""
+ball,1,7.5,Birmingham Bears,EG Barnard,SR Hain,C McKerr,0,0,,,,,,"",""
+ball,1,7.6,Birmingham Bears,EG Barnard,SR Hain,C McKerr,6,0,,,,,,"",""
+ball,1,8.1,Birmingham Bears,SR Hain,EG Barnard,CG Harrison,0,0,,,,,,"",""
+ball,1,8.2,Birmingham Bears,SR Hain,EG Barnard,CG Harrison,1,0,,,,,,"",""
+ball,1,8.3,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,1,0,,,,,,"",""
+ball,1,8.4,Birmingham Bears,SR Hain,EG Barnard,CG Harrison,3,0,,,,,,"",""
+ball,1,8.5,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,4,0,,,,,,"",""
+ball,1,8.6,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,1,0,,,,,,"",""
+ball,1,9.1,Birmingham Bears,EG Barnard,SR Hain,MC Henriques,1,0,,,,,,"",""
+ball,1,9.2,Birmingham Bears,SR Hain,EG Barnard,MC Henriques,0,2,,2,,,,"",""
+ball,1,9.3,Birmingham Bears,SR Hain,EG Barnard,MC Henriques,6,0,,,,,,"",""
+ball,1,9.4,Birmingham Bears,SR Hain,EG Barnard,MC Henriques,1,0,,,,,,"",""
+ball,1,9.5,Birmingham Bears,EG Barnard,SR Hain,MC Henriques,1,0,,,,,,"",""
+ball,1,9.6,Birmingham Bears,SR Hain,EG Barnard,MC Henriques,1,0,,,,,,"",""
+ball,1,9.7,Birmingham Bears,EG Barnard,SR Hain,MC Henriques,1,0,,,,,,"",""
+ball,1,10.1,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,6,0,,,,,,"",""
+ball,1,10.2,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,0,0,,,,,,"",""
+ball,1,10.3,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,1,0,,,,,,"",""
+ball,1,10.4,Birmingham Bears,SR Hain,EG Barnard,CG Harrison,1,0,,,,,,"",""
+ball,1,10.5,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,4,0,,,,,,"",""
+ball,1,10.6,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,0,0,,,,,,"",""
+ball,1,11.1,Birmingham Bears,SR Hain,EG Barnard,LA Patterson-White,1,0,,,,,,"",""
+ball,1,11.2,Birmingham Bears,EG Barnard,SR Hain,LA Patterson-White,4,0,,,,,,"",""
+ball,1,11.3,Birmingham Bears,EG Barnard,SR Hain,LA Patterson-White,1,0,,,,,,"",""
+ball,1,11.4,Birmingham Bears,SR Hain,EG Barnard,LA Patterson-White,1,0,,,,,,"",""
+ball,1,11.5,Birmingham Bears,EG Barnard,SR Hain,LA Patterson-White,6,0,,,,,,"",""
+ball,1,11.6,Birmingham Bears,EG Barnard,SR Hain,LA Patterson-White,1,0,,,,,,"",""
+ball,1,12.1,Birmingham Bears,EG Barnard,SR Hain,DY Pennington,0,0,,,,,,"",""
+ball,1,12.2,Birmingham Bears,EG Barnard,SR Hain,DY Pennington,0,1,1,,,,,"",""
+ball,1,12.3,Birmingham Bears,EG Barnard,SR Hain,DY Pennington,1,0,,,,,,"",""
+ball,1,12.4,Birmingham Bears,SR Hain,EG Barnard,DY Pennington,4,0,,,,,,"",""
+ball,1,12.5,Birmingham Bears,SR Hain,EG Barnard,DY Pennington,1,0,,,,,,"",""
+ball,1,12.6,Birmingham Bears,EG Barnard,SR Hain,DY Pennington,0,0,,,,,,"",""
+ball,1,12.7,Birmingham Bears,EG Barnard,SR Hain,DY Pennington,1,0,,,,,,"",""
+ball,1,13.1,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,1,0,,,,,,"",""
+ball,1,13.2,Birmingham Bears,SR Hain,EG Barnard,CG Harrison,1,0,,,,,,"",""
+ball,1,13.3,Birmingham Bears,EG Barnard,SR Hain,CG Harrison,1,0,,,,,,"",""
+ball,1,13.4,Birmingham Bears,SR Hain,EG Barnard,CG Harrison,0,0,,,,,,"",""
+ball,1,13.5,Birmingham Bears,SR Hain,EG Barnard,CG Harrison,0,0,,,,,,"",""
+ball,1,13.6,Birmingham Bears,SR Hain,EG Barnard,CG Harrison,1,0,,,,,,"",""
+ball,1,14.1,Birmingham Bears,SR Hain,EG Barnard,MC Henriques,1,0,,,,,,"",""
+ball,1,14.2,Birmingham Bears,EG Barnard,SR Hain,MC Henriques,4,0,,,,,,"",""
+ball,1,14.3,Birmingham Bears,EG Barnard,SR Hain,MC Henriques,6,0,,,,,,"",""
+ball,1,14.4,Birmingham Bears,EG Barnard,SR Hain,MC Henriques,2,0,,,,,,"",""
+ball,1,14.5,Birmingham Bears,EG Barnard,SR Hain,MC Henriques,0,0,,,,,,caught,EG Barnard
+ball,1,14.6,Birmingham Bears,GHS Garton,SR Hain,MC Henriques,0,0,,,,,,"",""
+ball,1,15.1,Birmingham Bears,SR Hain,GHS Garton,LW James,1,0,,,,,,"",""
+ball,1,15.2,Birmingham Bears,GHS Garton,SR Hain,LW James,0,1,1,,,,,"",""
+ball,1,15.3,Birmingham Bears,GHS Garton,SR Hain,LW James,4,0,,,,,,"",""
+ball,1,15.4,Birmingham Bears,GHS Garton,SR Hain,LW James,1,0,,,,,,"",""
+ball,1,15.5,Birmingham Bears,SR Hain,GHS Garton,LW James,1,0,,,,,,"",""
+ball,1,15.6,Birmingham Bears,GHS Garton,SR Hain,LW James,1,0,,,,,,"",""
+ball,1,15.7,Birmingham Bears,SR Hain,GHS Garton,LW James,1,0,,,,,,"",""
+ball,1,16.1,Birmingham Bears,SR Hain,GHS Garton,C McKerr,1,0,,,,,,"",""
+ball,1,16.2,Birmingham Bears,GHS Garton,SR Hain,C McKerr,1,0,,,,,,"",""
+ball,1,16.3,Birmingham Bears,SR Hain,GHS Garton,C McKerr,0,1,1,,,,,"",""
+ball,1,16.4,Birmingham Bears,SR Hain,GHS Garton,C McKerr,0,0,,,,,,"",""
+ball,1,16.5,Birmingham Bears,SR Hain,GHS Garton,C McKerr,0,1,1,,,,,"",""
+ball,1,16.6,Birmingham Bears,SR Hain,GHS Garton,C McKerr,6,0,,,,,,"",""
+ball,1,16.7,Birmingham Bears,SR Hain,GHS Garton,C McKerr,2,0,,,,,,"",""
+ball,1,16.8,Birmingham Bears,SR Hain,GHS Garton,C McKerr,6,0,,,,,,"",""
+ball,1,17.1,Birmingham Bears,GHS Garton,SR Hain,DR Sams,0,0,,,,,,"",""
+ball,1,17.2,Birmingham Bears,GHS Garton,SR Hain,DR Sams,1,0,,,,,,"",""
+ball,1,17.3,Birmingham Bears,SR Hain,GHS Garton,DR Sams,0,1,,,,1,,"",""
+ball,1,17.4,Birmingham Bears,GHS Garton,SR Hain,DR Sams,4,0,,,,,,"",""
+ball,1,17.5,Birmingham Bears,GHS Garton,SR Hain,DR Sams,6,0,,,,,,"",""
+ball,1,17.6,Birmingham Bears,GHS Garton,SR Hain,DR Sams,0,0,,,,,,bowled,GHS Garton
+ball,1,18.1,Birmingham Bears,SR Hain,K Smith,C McKerr,4,0,,,,,,"",""
+ball,1,18.2,Birmingham Bears,SR Hain,K Smith,C McKerr,4,0,,,,,,"",""
+ball,1,18.3,Birmingham Bears,SR Hain,K Smith,C McKerr,0,0,,,,,,"",""
+ball,1,18.4,Birmingham Bears,SR Hain,K Smith,C McKerr,6,0,,,,,,"",""
+ball,1,18.5,Birmingham Bears,SR Hain,K Smith,C McKerr,0,0,,,,,,"",""
+ball,1,18.6,Birmingham Bears,SR Hain,K Smith,C McKerr,6,0,,,,,,"",""
+ball,1,19.1,Birmingham Bears,K Smith,SR Hain,DR Sams,4,0,,,,,,"",""
+ball,1,19.2,Birmingham Bears,K Smith,SR Hain,DR Sams,1,0,,,,,,"",""
+ball,1,19.3,Birmingham Bears,SR Hain,K Smith,DR Sams,1,0,,,,,,"",""
+ball,1,19.4,Birmingham Bears,K Smith,SR Hain,DR Sams,0,1,,,1,,,"",""
+ball,1,19.5,Birmingham Bears,SR Hain,K Smith,DR Sams,4,0,,,,,,"",""
+ball,1,19.6,Birmingham Bears,SR Hain,K Smith,DR Sams,1,0,,,,,,"",""
+ball,2,0.1,Nottinghamshire,JM Clarke,LW James,EG Barnard,0,0,,,,,,"",""
+ball,2,0.2,Nottinghamshire,JM Clarke,LW James,EG Barnard,1,0,,,,,,"",""
+ball,2,0.3,Nottinghamshire,LW James,JM Clarke,EG Barnard,4,0,,,,,,"",""
+ball,2,0.4,Nottinghamshire,LW James,JM Clarke,EG Barnard,1,0,,,,,,"",""
+ball,2,0.5,Nottinghamshire,JM Clarke,LW James,EG Barnard,1,0,,,,,,"",""
+ball,2,0.6,Nottinghamshire,LW James,JM Clarke,EG Barnard,2,0,,,,,,"",""
+ball,2,1.1,Nottinghamshire,JM Clarke,LW James,GHS Garton,0,0,,,,,,"",""
+ball,2,1.2,Nottinghamshire,JM Clarke,LW James,GHS Garton,4,0,,,,,,"",""
+ball,2,1.3,Nottinghamshire,JM Clarke,LW James,GHS Garton,1,0,,,,,,"",""
+ball,2,1.4,Nottinghamshire,LW James,JM Clarke,GHS Garton,1,0,,,,,,"",""
+ball,2,1.5,Nottinghamshire,JM Clarke,LW James,GHS Garton,1,0,,,,,,"",""
+ball,2,1.6,Nottinghamshire,LW James,JM Clarke,GHS Garton,0,0,,,,,,"",""
+ball,2,2.1,Nottinghamshire,JM Clarke,LW James,AR Sylvester,6,0,,,,,,"",""
+ball,2,2.2,Nottinghamshire,JM Clarke,LW James,AR Sylvester,0,0,,,,,,"",""
+ball,2,2.3,Nottinghamshire,JM Clarke,LW James,AR Sylvester,1,0,,,,,,"",""
+ball,2,2.4,Nottinghamshire,LW James,JM Clarke,AR Sylvester,0,0,,,,,,"",""
+ball,2,2.5,Nottinghamshire,LW James,JM Clarke,AR Sylvester,0,0,,,,,,"",""
+ball,2,2.6,Nottinghamshire,LW James,JM Clarke,AR Sylvester,4,0,,,,,,"",""
+ball,2,3.1,Nottinghamshire,JM Clarke,LW James,GHS Garton,4,0,,,,,,"",""
+ball,2,3.2,Nottinghamshire,JM Clarke,LW James,GHS Garton,4,0,,,,,,"",""
+ball,2,3.3,Nottinghamshire,JM Clarke,LW James,GHS Garton,4,0,,,,,,"",""
+ball,2,3.4,Nottinghamshire,JM Clarke,LW James,GHS Garton,4,0,,,,,,"",""
+ball,2,3.5,Nottinghamshire,JM Clarke,LW James,GHS Garton,0,1,1,,,,,"",""
+ball,2,3.6,Nottinghamshire,JM Clarke,LW James,GHS Garton,0,0,,,,,,"",""
+ball,2,3.7,Nottinghamshire,JM Clarke,LW James,GHS Garton,0,5,5,,,,,"",""
+ball,2,3.8,Nottinghamshire,JM Clarke,LW James,GHS Garton,0,1,1,,,,,"",""
+ball,2,3.9,Nottinghamshire,JM Clarke,LW James,GHS Garton,6,0,,,,,,"",""
+ball,2,4.1,Nottinghamshire,LW James,JM Clarke,CN Miles,0,0,,,,,,"",""
+ball,2,4.2,Nottinghamshire,LW James,JM Clarke,CN Miles,0,0,,,,,,"",""
+ball,2,4.3,Nottinghamshire,LW James,JM Clarke,CN Miles,4,0,,,,,,"",""
+ball,2,4.4,Nottinghamshire,LW James,JM Clarke,CN Miles,2,0,,,,,,"",""
+ball,2,4.5,Nottinghamshire,LW James,JM Clarke,CN Miles,1,0,,,,,,"",""
+ball,2,4.6,Nottinghamshire,JM Clarke,LW James,CN Miles,1,0,,,,,,"",""
+ball,2,5.1,Nottinghamshire,JM Clarke,LW James,AR Sylvester,0,1,,,,1,,"",""
+ball,2,5.2,Nottinghamshire,LW James,JM Clarke,AR Sylvester,3,0,,,,,,"",""
+ball,2,5.3,Nottinghamshire,JM Clarke,LW James,AR Sylvester,6,0,,,,,,"",""
+ball,2,5.4,Nottinghamshire,JM Clarke,LW James,AR Sylvester,4,0,,,,,,"",""
+ball,2,5.5,Nottinghamshire,JM Clarke,LW James,AR Sylvester,4,0,,,,,,"",""
+ball,2,5.6,Nottinghamshire,JM Clarke,LW James,AR Sylvester,6,0,,,,,,"",""
+ball,2,6.1,Nottinghamshire,LW James,JM Clarke,DR Briggs,1,0,,,,,,"",""
+ball,2,6.2,Nottinghamshire,JM Clarke,LW James,DR Briggs,0,0,,,,,,caught,JM Clarke
+ball,2,6.3,Nottinghamshire,JA Haynes,LW James,DR Briggs,1,0,,,,,,"",""
+ball,2,6.4,Nottinghamshire,LW James,JA Haynes,DR Briggs,1,0,,,,,,"",""
+ball,2,6.5,Nottinghamshire,JA Haynes,LW James,DR Briggs,1,0,,,,,,"",""
+ball,2,6.6,Nottinghamshire,LW James,JA Haynes,DR Briggs,1,0,,,,,,"",""
+ball,2,7.1,Nottinghamshire,LW James,JA Haynes,JB Lintott,1,0,,,,,,"",""
+ball,2,7.2,Nottinghamshire,JA Haynes,LW James,JB Lintott,1,0,,,,,,"",""
+ball,2,7.3,Nottinghamshire,LW James,JA Haynes,JB Lintott,0,0,,,,,,caught,LW James
+ball,2,7.4,Nottinghamshire,MC Henriques,JA Haynes,JB Lintott,1,0,,,,,,"",""
+ball,2,7.5,Nottinghamshire,JA Haynes,MC Henriques,JB Lintott,1,0,,,,,,"",""
+ball,2,7.6,Nottinghamshire,MC Henriques,JA Haynes,JB Lintott,1,0,,,,,,"",""
+ball,2,8.1,Nottinghamshire,MC Henriques,JA Haynes,DR Briggs,1,0,,,,,,"",""
+ball,2,8.2,Nottinghamshire,JA Haynes,MC Henriques,DR Briggs,6,0,,,,,,"",""
+ball,2,8.3,Nottinghamshire,JA Haynes,MC Henriques,DR Briggs,2,0,,,,,,"",""
+ball,2,8.4,Nottinghamshire,JA Haynes,MC Henriques,DR Briggs,1,0,,,,,,"",""
+ball,2,8.5,Nottinghamshire,MC Henriques,JA Haynes,DR Briggs,0,0,,,,,,"",""
+ball,2,8.6,Nottinghamshire,MC Henriques,JA Haynes,DR Briggs,1,0,,,,,,"",""
+ball,2,9.1,Nottinghamshire,MC Henriques,JA Haynes,JB Lintott,1,0,,,,,,"",""
+ball,2,9.2,Nottinghamshire,JA Haynes,MC Henriques,JB Lintott,2,0,,,,,,"",""
+ball,2,9.3,Nottinghamshire,JA Haynes,MC Henriques,JB Lintott,1,0,,,,,,"",""
+ball,2,9.4,Nottinghamshire,MC Henriques,JA Haynes,JB Lintott,0,0,,,,,,"",""
+ball,2,9.5,Nottinghamshire,MC Henriques,JA Haynes,JB Lintott,1,0,,,,,,"",""
+ball,2,9.6,Nottinghamshire,JA Haynes,MC Henriques,JB Lintott,1,0,,,,,,"",""
+ball,2,10.1,Nottinghamshire,JA Haynes,MC Henriques,EG Barnard,1,0,,,,,,"",""
+ball,2,10.2,Nottinghamshire,MC Henriques,JA Haynes,EG Barnard,0,0,,,,,,"",""
+ball,2,10.3,Nottinghamshire,MC Henriques,JA Haynes,EG Barnard,1,0,,,,,,"",""
+ball,2,10.4,Nottinghamshire,JA Haynes,MC Henriques,EG Barnard,4,0,,,,,,"",""
+ball,2,10.5,Nottinghamshire,JA Haynes,MC Henriques,EG Barnard,1,0,,,,,,"",""
+ball,2,10.6,Nottinghamshire,MC Henriques,JA Haynes,EG Barnard,1,0,,,,,,"",""
+ball,2,11.1,Nottinghamshire,MC Henriques,JA Haynes,CN Miles,1,0,,,,,,"",""
+ball,2,11.2,Nottinghamshire,JA Haynes,MC Henriques,CN Miles,4,0,,,,,,"",""
+ball,2,11.3,Nottinghamshire,JA Haynes,MC Henriques,CN Miles,4,0,,,,,,"",""
+ball,2,11.4,Nottinghamshire,JA Haynes,MC Henriques,CN Miles,1,0,,,,,,"",""
+ball,2,11.5,Nottinghamshire,MC Henriques,JA Haynes,CN Miles,1,0,,,,,,"",""
+ball,2,11.6,Nottinghamshire,JA Haynes,MC Henriques,CN Miles,1,0,,,,,,"",""
+ball,2,12.1,Nottinghamshire,JA Haynes,MC Henriques,DR Briggs,4,0,,,,,,"",""
+ball,2,12.2,Nottinghamshire,JA Haynes,MC Henriques,DR Briggs,4,0,,,,,,"",""
+ball,2,12.3,Nottinghamshire,JA Haynes,MC Henriques,DR Briggs,1,0,,,,,,"",""
+ball,2,12.4,Nottinghamshire,MC Henriques,JA Haynes,DR Briggs,1,0,,,,,,"",""
+ball,2,12.5,Nottinghamshire,JA Haynes,MC Henriques,DR Briggs,1,0,,,,,,"",""
+ball,2,12.6,Nottinghamshire,MC Henriques,JA Haynes,DR Briggs,1,0,,,,,,"",""
+ball,2,13.1,Nottinghamshire,MC Henriques,JA Haynes,JB Lintott,1,0,,,,,,"",""
+ball,2,13.2,Nottinghamshire,JA Haynes,MC Henriques,JB Lintott,4,0,,,,,,"",""
+ball,2,13.3,Nottinghamshire,JA Haynes,MC Henriques,JB Lintott,0,0,,,,,,"",""
+ball,2,13.4,Nottinghamshire,JA Haynes,MC Henriques,JB Lintott,1,0,,,,,,"",""
+ball,2,13.5,Nottinghamshire,MC Henriques,JA Haynes,JB Lintott,4,0,,,,,,"",""
+ball,2,13.6,Nottinghamshire,MC Henriques,JA Haynes,JB Lintott,1,0,,,,,,"",""
+ball,2,14.1,Nottinghamshire,MC Henriques,JA Haynes,EG Barnard,1,0,,,,,,"",""
+ball,2,14.2,Nottinghamshire,JA Haynes,MC Henriques,EG Barnard,1,0,,,,,,"",""
+ball,2,14.3,Nottinghamshire,MC Henriques,JA Haynes,EG Barnard,0,4,,,,4,,"",""
+ball,2,14.4,Nottinghamshire,MC Henriques,JA Haynes,EG Barnard,1,0,,,,,,"",""
+ball,2,14.5,Nottinghamshire,JA Haynes,MC Henriques,EG Barnard,0,0,,,,,,"",""
+ball,2,14.6,Nottinghamshire,JA Haynes,MC Henriques,EG Barnard,1,0,,,,,,"",""
+ball,2,15.1,Nottinghamshire,JA Haynes,MC Henriques,AR Sylvester,4,0,,,,,,"",""
+ball,2,15.2,Nottinghamshire,JA Haynes,MC Henriques,AR Sylvester,1,0,,,,,,"",""
+ball,2,15.3,Nottinghamshire,MC Henriques,JA Haynes,AR Sylvester,6,0,,,,,,"",""
+ball,2,15.4,Nottinghamshire,MC Henriques,JA Haynes,AR Sylvester,1,0,,,,,,"",""
+ball,2,15.5,Nottinghamshire,JA Haynes,MC Henriques,AR Sylvester,4,0,,,,,,"",""
+ball,2,15.6,Nottinghamshire,JA Haynes,MC Henriques,AR Sylvester,0,0,,,,,,"",""
+ball,2,16.1,Nottinghamshire,MC Henriques,JA Haynes,DR Briggs,6,0,,,,,,"",""
+ball,2,16.2,Nottinghamshire,MC Henriques,JA Haynes,DR Briggs,0,0,,,,,,"",""
+ball,2,16.3,Nottinghamshire,MC Henriques,JA Haynes,DR Briggs,1,0,,,,,,"",""
+ball,2,16.4,Nottinghamshire,JA Haynes,MC Henriques,DR Briggs,6,0,,,,,,"",""
+ball,2,16.5,Nottinghamshire,JA Haynes,MC Henriques,DR Briggs,1,0,,,,,,"",""
+ball,2,16.6,Nottinghamshire,MC Henriques,JA Haynes,DR Briggs,0,0,,,,,,caught,MC Henriques
+ball,2,17.1,Nottinghamshire,JA Haynes,TJ Moores,JB Lintott,4,0,,,,,,"",""
+ball,2,17.2,Nottinghamshire,JA Haynes,TJ Moores,JB Lintott,1,0,,,,,,"",""
+ball,2,17.3,Nottinghamshire,TJ Moores,JA Haynes,JB Lintott,0,0,,,,,,"",""
+ball,2,17.4,Nottinghamshire,TJ Moores,JA Haynes,JB Lintott,0,0,,,,,,"",""
+ball,2,17.5,Nottinghamshire,TJ Moores,JA Haynes,JB Lintott,4,0,,,,,,"",""
+ball,2,17.6,Nottinghamshire,TJ Moores,JA Haynes,JB Lintott,0,0,,,,,,"",""
+ball,2,18.1,Nottinghamshire,JA Haynes,TJ Moores,EG Barnard,6,0,,,,,,"",""
+ball,2,18.2,Nottinghamshire,JA Haynes,TJ Moores,EG Barnard,4,0,,,,,,"",""
+ball,2,18.3,Nottinghamshire,JA Haynes,TJ Moores,EG Barnard,2,0,,,,,,"",""
+ball,2,18.4,Nottinghamshire,JA Haynes,TJ Moores,EG Barnard,2,0,,,,,,"",""
+ball,2,18.5,Nottinghamshire,JA Haynes,TJ Moores,EG Barnard,4,0,,,,,,"",""
+ball,2,18.6,Nottinghamshire,JA Haynes,TJ Moores,EG Barnard,0,2,,,,2,,"",""
+ball,2,19.1,Nottinghamshire,TJ Moores,JA Haynes,CN Miles,4,0,,,,,,"",""

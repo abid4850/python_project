@@ -1,0 +1,226 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Central Districts
+info,gender,female
+info,season,2022/23
+info,date,2023/01/05
+info,event,Women's Super Smash
+info,match_number,12
+info,venue,"Pukekura Park, New Plymouth"
+info,city,New Plymouth
+info,toss_winner,Central Districts
+info,toss_decision,field
+info,umpire,GG Pennell
+info,umpire,Kim Cotton
+info,reserve_umpire,BF Bowden
+info,tv_umpire,PJ Pasco
+info,match_referee,SRM Morris
+info,winner,Auckland
+info,winner_runs,10
+info,player,Auckland,S Shahri
+info,player,Auckland,P Catton
+info,player,Auckland,LR Down
+info,player,Auckland,BG Armstrong
+info,player,Auckland,SE Bowden
+info,player,Auckland,KT Perkins
+info,player,Auckland,AN Kelly
+info,player,Auckland,MB Templeton
+info,player,Auckland,AT Hucker
+info,player,Auckland,MM Penfold
+info,player,Auckland,E Buchanan
+info,player,Central Districts,NC Dodd
+info,player,Central Districts,GK Atkinson
+info,player,Central Districts,JM Watkin
+info,player,Central Districts,MJ Greig
+info,player,Central Districts,HM Rowe
+info,player,Central Districts,RA Mair
+info,player,Central Districts,KA Tomlinson
+info,player,Central Districts,EG Cunningham
+info,player,Central Districts,FDM Devonshire
+info,player,Central Districts,MJ Hansen
+info,player,Central Districts,CL Green
+info,registry,people,AN Kelly,397369e0
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Armstrong,eca08a1d
+info,registry,people,CL Green,0160b1d9
+info,registry,people,E Buchanan,e23c041b
+info,registry,people,EG Cunningham,ede7bb67
+info,registry,people,FDM Devonshire,c8b0b64c
+info,registry,people,GG Pennell,d9376677
+info,registry,people,GK Atkinson,add6bd03
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,JM Watkin,7239a365
+info,registry,people,KA Tomlinson,83d6e306
+info,registry,people,KT Perkins,78ad3258
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LR Down,19147fe0
+info,registry,people,MB Templeton,e1504909
+info,registry,people,MJ Greig,84c422e3
+info,registry,people,MJ Hansen,256b70b1
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,NC Dodd,7260e1e9
+info,registry,people,P Catton,22e8ba50
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,S Shahri,c28355cd
+info,registry,people,SE Bowden,e2a71375
+info,registry,people,SRM Morris,74b402c6
+ball,1,0.1,Auckland,S Shahri,P Catton,FDM Devonshire,4,0,,,,,,"",""
+ball,1,0.2,Auckland,S Shahri,P Catton,FDM Devonshire,0,0,,,,,,"",""
+ball,1,0.3,Auckland,S Shahri,P Catton,FDM Devonshire,0,1,1,,,,,"",""
+ball,1,0.4,Auckland,S Shahri,P Catton,FDM Devonshire,4,1,,1,,,,"",""
+ball,1,0.5,Auckland,S Shahri,P Catton,FDM Devonshire,0,0,,,,,,"",""
+ball,1,0.6,Auckland,S Shahri,P Catton,FDM Devonshire,0,0,,,,,,"",""
+ball,1,0.7,Auckland,S Shahri,P Catton,FDM Devonshire,0,0,,,,,,"",""
+ball,1,0.8,Auckland,S Shahri,P Catton,FDM Devonshire,0,0,,,,,,"",""
+ball,1,1.1,Auckland,P Catton,S Shahri,CL Green,0,0,,,,,,"",""
+ball,1,1.2,Auckland,P Catton,S Shahri,CL Green,0,0,,,,,,bowled,P Catton
+ball,1,1.3,Auckland,LR Down,S Shahri,CL Green,2,0,,,,,,"",""
+ball,1,1.4,Auckland,LR Down,S Shahri,CL Green,2,0,,,,,,"",""
+ball,1,1.5,Auckland,LR Down,S Shahri,CL Green,1,0,,,,,,"",""
+ball,1,1.6,Auckland,S Shahri,LR Down,CL Green,0,1,1,,,,,"",""
+ball,1,1.7,Auckland,S Shahri,LR Down,CL Green,0,1,1,,,,,"",""
+ball,1,1.8,Auckland,S Shahri,LR Down,CL Green,4,0,,,,,,"",""
+ball,1,2.1,Auckland,LR Down,S Shahri,HM Rowe,1,0,,,,,,"",""
+ball,1,2.2,Auckland,S Shahri,LR Down,HM Rowe,0,0,,,,,,"",""
+ball,1,2.3,Auckland,S Shahri,LR Down,HM Rowe,1,0,,,,,,"",""
+ball,1,2.4,Auckland,LR Down,S Shahri,HM Rowe,0,2,,,,2,,"",""
+ball,1,2.5,Auckland,LR Down,S Shahri,HM Rowe,4,0,,,,,,"",""
+ball,1,2.6,Auckland,LR Down,S Shahri,HM Rowe,0,0,,,,,,caught,LR Down
+ball,1,3.1,Auckland,S Shahri,BG Armstrong,CL Green,0,0,,,,,,"",""
+ball,1,3.2,Auckland,S Shahri,BG Armstrong,CL Green,0,0,,,,,,"",""
+ball,1,3.3,Auckland,S Shahri,BG Armstrong,CL Green,4,0,,,,,,"",""
+ball,1,3.4,Auckland,S Shahri,BG Armstrong,CL Green,0,1,1,,,,,"",""
+ball,1,3.5,Auckland,S Shahri,BG Armstrong,CL Green,0,0,,,,,,"",""
+ball,1,3.6,Auckland,S Shahri,BG Armstrong,CL Green,0,0,,,,,,caught,S Shahri
+ball,1,3.7,Auckland,SE Bowden,BG Armstrong,CL Green,0,0,,,,,,"",""
+ball,1,4.1,Auckland,BG Armstrong,SE Bowden,HM Rowe,0,0,,,,,,"",""
+ball,1,4.2,Auckland,BG Armstrong,SE Bowden,HM Rowe,2,0,,,,,,"",""
+ball,1,4.3,Auckland,BG Armstrong,SE Bowden,HM Rowe,4,0,,,,,,"",""
+ball,1,4.4,Auckland,BG Armstrong,SE Bowden,HM Rowe,6,0,,,,,,"",""
+ball,1,4.5,Auckland,BG Armstrong,SE Bowden,HM Rowe,4,0,,,,,,"",""
+ball,1,4.6,Auckland,BG Armstrong,SE Bowden,HM Rowe,4,0,,,,,,"",""
+ball,1,5.1,Auckland,SE Bowden,BG Armstrong,JM Watkin,1,0,,,,,,"",""
+ball,1,5.2,Auckland,BG Armstrong,SE Bowden,JM Watkin,2,0,,,,,,"",""
+ball,1,5.3,Auckland,BG Armstrong,SE Bowden,JM Watkin,1,0,,,,,,"",""
+ball,1,5.4,Auckland,SE Bowden,BG Armstrong,JM Watkin,0,0,,,,,,"",""
+ball,1,5.5,Auckland,SE Bowden,BG Armstrong,JM Watkin,0,0,,,,,,"",""
+ball,1,5.6,Auckland,SE Bowden,BG Armstrong,JM Watkin,0,0,,,,,,"",""
+ball,1,6.1,Auckland,BG Armstrong,SE Bowden,RA Mair,1,0,,,,,,"",""
+ball,1,6.2,Auckland,SE Bowden,BG Armstrong,RA Mair,1,0,,,,,,"",""
+ball,1,6.3,Auckland,BG Armstrong,SE Bowden,RA Mair,0,0,,,,,,"",""
+ball,1,6.4,Auckland,BG Armstrong,SE Bowden,RA Mair,0,0,,,,,,"",""
+ball,1,6.5,Auckland,BG Armstrong,SE Bowden,RA Mair,1,0,,,,,,"",""
+ball,1,6.6,Auckland,SE Bowden,BG Armstrong,RA Mair,0,0,,,,,,"",""
+ball,1,7.1,Auckland,BG Armstrong,SE Bowden,JM Watkin,1,0,,,,,,"",""
+ball,1,7.2,Auckland,SE Bowden,BG Armstrong,JM Watkin,0,1,,,1,,,"",""
+ball,1,7.3,Auckland,BG Armstrong,SE Bowden,JM Watkin,0,0,,,,,,"",""
+ball,1,7.4,Auckland,BG Armstrong,SE Bowden,JM Watkin,0,0,,,,,,"",""
+ball,1,7.5,Auckland,BG Armstrong,SE Bowden,JM Watkin,4,0,,,,,,"",""
+ball,1,7.6,Auckland,BG Armstrong,SE Bowden,JM Watkin,3,0,,,,,,"",""
+ball,1,8.1,Auckland,BG Armstrong,SE Bowden,RA Mair,1,0,,,,,,"",""
+ball,1,8.2,Auckland,SE Bowden,BG Armstrong,RA Mair,0,0,,,,,,"",""
+ball,1,8.3,Auckland,SE Bowden,BG Armstrong,RA Mair,1,0,,,,,,"",""
+ball,1,8.4,Auckland,BG Armstrong,SE Bowden,RA Mair,4,0,,,,,,"",""
+ball,1,8.5,Auckland,BG Armstrong,SE Bowden,RA Mair,1,0,,,,,,"",""
+ball,1,8.6,Auckland,SE Bowden,BG Armstrong,RA Mair,0,0,,,,,,"",""
+ball,1,9.1,Auckland,BG Armstrong,SE Bowden,MJ Hansen,4,0,,,,,,"",""
+ball,1,9.2,Auckland,BG Armstrong,SE Bowden,MJ Hansen,4,0,,,,,,"",""
+ball,1,9.3,Auckland,BG Armstrong,SE Bowden,MJ Hansen,4,0,,,,,,"",""
+ball,1,9.4,Auckland,BG Armstrong,SE Bowden,MJ Hansen,2,0,,,,,,"",""
+ball,1,9.5,Auckland,BG Armstrong,SE Bowden,MJ Hansen,1,0,,,,,,"",""
+ball,1,9.6,Auckland,SE Bowden,BG Armstrong,MJ Hansen,0,0,,,,,,"",""
+ball,1,10.1,Auckland,BG Armstrong,SE Bowden,HM Rowe,1,0,,,,,,"",""
+ball,1,10.2,Auckland,SE Bowden,BG Armstrong,HM Rowe,0,1,,,,1,,"",""
+ball,1,10.3,Auckland,BG Armstrong,SE Bowden,HM Rowe,0,0,,,,,,"",""
+ball,1,10.4,Auckland,BG Armstrong,SE Bowden,HM Rowe,4,1,,1,,,,"",""
+ball,1,10.5,Auckland,BG Armstrong,SE Bowden,HM Rowe,2,0,,,,,,"",""
+ball,1,10.6,Auckland,BG Armstrong,SE Bowden,HM Rowe,4,0,,,,,,"",""
+ball,1,10.7,Auckland,BG Armstrong,SE Bowden,HM Rowe,1,0,,,,,,"",""
+ball,1,11.1,Auckland,BG Armstrong,SE Bowden,JM Watkin,4,0,,,,,,"",""
+ball,1,11.2,Auckland,BG Armstrong,SE Bowden,JM Watkin,1,0,,,,,,"",""
+ball,1,11.3,Auckland,SE Bowden,BG Armstrong,JM Watkin,0,0,,,,,,"",""
+ball,1,11.4,Auckland,SE Bowden,BG Armstrong,JM Watkin,0,0,,,,,,caught,SE Bowden
+ball,1,11.5,Auckland,KT Perkins,BG Armstrong,JM Watkin,1,0,,,,,,"",""
+ball,1,11.6,Auckland,BG Armstrong,KT Perkins,JM Watkin,0,0,,,,,,caught,BG Armstrong
+ball,2,0.1,Central Districts,NC Dodd,GK Atkinson,AN Kelly,1,0,,,,,,"",""
+ball,2,0.2,Central Districts,GK Atkinson,NC Dodd,AN Kelly,2,0,,,,,,"",""
+ball,2,0.3,Central Districts,GK Atkinson,NC Dodd,AN Kelly,0,0,,,,,,"",""
+ball,2,0.4,Central Districts,GK Atkinson,NC Dodd,AN Kelly,1,0,,,,,,"",""
+ball,2,0.5,Central Districts,NC Dodd,GK Atkinson,AN Kelly,4,0,,,,,,"",""
+ball,2,0.6,Central Districts,NC Dodd,GK Atkinson,AN Kelly,0,1,1,,,,,"",""
+ball,2,0.7,Central Districts,NC Dodd,GK Atkinson,AN Kelly,1,0,,,,,,"",""
+ball,2,1.1,Central Districts,NC Dodd,GK Atkinson,AT Hucker,1,0,,,,,,"",""
+ball,2,1.2,Central Districts,GK Atkinson,NC Dodd,AT Hucker,0,0,,,,,,"",""
+ball,2,1.3,Central Districts,GK Atkinson,NC Dodd,AT Hucker,1,0,,,,,,"",""
+ball,2,1.4,Central Districts,NC Dodd,GK Atkinson,AT Hucker,2,0,,,,,,"",""
+ball,2,1.5,Central Districts,NC Dodd,GK Atkinson,AT Hucker,0,0,,,,,,"",""
+ball,2,1.6,Central Districts,NC Dodd,GK Atkinson,AT Hucker,2,0,,,,,,"",""
+ball,2,2.1,Central Districts,GK Atkinson,NC Dodd,AN Kelly,1,0,,,,,,"",""
+ball,2,2.2,Central Districts,NC Dodd,GK Atkinson,AN Kelly,0,0,,,,,,"",""
+ball,2,2.3,Central Districts,NC Dodd,GK Atkinson,AN Kelly,0,0,,,,,,"",""
+ball,2,2.4,Central Districts,NC Dodd,GK Atkinson,AN Kelly,4,0,,,,,,"",""
+ball,2,2.5,Central Districts,NC Dodd,GK Atkinson,AN Kelly,0,0,,,,,,"",""
+ball,2,2.6,Central Districts,NC Dodd,GK Atkinson,AN Kelly,1,0,,,,,,"",""
+ball,2,3.1,Central Districts,NC Dodd,GK Atkinson,AT Hucker,1,0,,,,,,"",""
+ball,2,3.2,Central Districts,GK Atkinson,NC Dodd,AT Hucker,0,0,,,,,,"",""
+ball,2,3.3,Central Districts,GK Atkinson,NC Dodd,AT Hucker,0,0,,,,,,"",""
+ball,2,3.4,Central Districts,GK Atkinson,NC Dodd,AT Hucker,0,0,,,,,,"",""
+ball,2,3.5,Central Districts,GK Atkinson,NC Dodd,AT Hucker,1,0,,,,,,"",""
+ball,2,3.6,Central Districts,NC Dodd,GK Atkinson,AT Hucker,4,0,,,,,,"",""
+ball,2,4.1,Central Districts,GK Atkinson,NC Dodd,BG Armstrong,0,1,1,,,,,"",""
+ball,2,4.2,Central Districts,GK Atkinson,NC Dodd,BG Armstrong,1,0,,,,,,"",""
+ball,2,4.3,Central Districts,NC Dodd,GK Atkinson,BG Armstrong,0,0,,,,,,"",""
+ball,2,4.4,Central Districts,NC Dodd,GK Atkinson,BG Armstrong,2,0,,,,,,"",""
+ball,2,4.5,Central Districts,NC Dodd,GK Atkinson,BG Armstrong,4,0,,,,,,"",""
+ball,2,4.6,Central Districts,NC Dodd,GK Atkinson,BG Armstrong,1,0,,,,,,"",""
+ball,2,4.7,Central Districts,GK Atkinson,NC Dodd,BG Armstrong,1,1,,1,,,,"",""
+ball,2,4.8,Central Districts,NC Dodd,GK Atkinson,BG Armstrong,1,0,,,,,,"",""
+ball,2,5.1,Central Districts,NC Dodd,GK Atkinson,MM Penfold,4,0,,,,,,"",""
+ball,2,5.2,Central Districts,NC Dodd,GK Atkinson,MM Penfold,6,0,,,,,,"",""
+ball,2,5.3,Central Districts,NC Dodd,GK Atkinson,MM Penfold,0,0,,,,,,"",""
+ball,2,5.4,Central Districts,NC Dodd,GK Atkinson,MM Penfold,0,0,,,,,,"",""
+ball,2,5.5,Central Districts,NC Dodd,GK Atkinson,MM Penfold,1,0,,,,,,"",""
+ball,2,5.6,Central Districts,GK Atkinson,NC Dodd,MM Penfold,0,0,,,,,,"",""
+ball,2,6.1,Central Districts,NC Dodd,GK Atkinson,MB Templeton,0,0,,,,,,"",""
+ball,2,6.2,Central Districts,NC Dodd,GK Atkinson,MB Templeton,0,1,1,,,,,"",""
+ball,2,6.3,Central Districts,NC Dodd,GK Atkinson,MB Templeton,1,1,,1,,,,"",""
+ball,2,6.4,Central Districts,GK Atkinson,NC Dodd,MB Templeton,1,0,,,,,,"",""
+ball,2,6.5,Central Districts,NC Dodd,GK Atkinson,MB Templeton,1,1,,1,,,,"",""
+ball,2,6.6,Central Districts,GK Atkinson,NC Dodd,MB Templeton,0,0,,,,,,"",""
+ball,2,6.7,Central Districts,GK Atkinson,NC Dodd,MB Templeton,1,0,,,,,,"",""
+ball,2,6.8,Central Districts,NC Dodd,GK Atkinson,MB Templeton,1,0,,,,,,"",""
+ball,2,6.9,Central Districts,GK Atkinson,NC Dodd,MB Templeton,0,0,,,,,,"",""
+ball,2,7.1,Central Districts,NC Dodd,GK Atkinson,MM Penfold,1,0,,,,,,"",""
+ball,2,7.2,Central Districts,GK Atkinson,NC Dodd,MM Penfold,1,0,,,,,,"",""
+ball,2,7.3,Central Districts,NC Dodd,GK Atkinson,MM Penfold,0,1,1,,,,,"",""
+ball,2,7.4,Central Districts,NC Dodd,GK Atkinson,MM Penfold,4,0,,,,,,"",""
+ball,2,7.5,Central Districts,NC Dodd,GK Atkinson,MM Penfold,0,0,,,,,,"",""
+ball,2,7.6,Central Districts,NC Dodd,GK Atkinson,MM Penfold,1,0,,,,,,"",""
+ball,2,7.7,Central Districts,GK Atkinson,NC Dodd,MM Penfold,4,0,,,,,,"",""
+ball,2,8.1,Central Districts,NC Dodd,GK Atkinson,BG Armstrong,4,0,,,,,,"",""
+ball,2,8.2,Central Districts,NC Dodd,GK Atkinson,BG Armstrong,1,0,,,,,,"",""
+ball,2,8.3,Central Districts,GK Atkinson,NC Dodd,BG Armstrong,0,0,,,,,,caught,GK Atkinson
+ball,2,8.4,Central Districts,JM Watkin,NC Dodd,BG Armstrong,0,0,,,,,,"",""
+ball,2,8.5,Central Districts,JM Watkin,NC Dodd,BG Armstrong,2,0,,,,,,"",""
+ball,2,8.6,Central Districts,JM Watkin,NC Dodd,BG Armstrong,0,0,,,,,,"",""
+ball,2,9.1,Central Districts,NC Dodd,JM Watkin,MB Templeton,0,0,,,,,,"",""
+ball,2,9.2,Central Districts,NC Dodd,JM Watkin,MB Templeton,4,0,,,,,,"",""
+ball,2,9.3,Central Districts,NC Dodd,JM Watkin,MB Templeton,1,0,,,,,,"",""
+ball,2,9.4,Central Districts,JM Watkin,NC Dodd,MB Templeton,1,0,,,,,,"",""
+ball,2,9.5,Central Districts,NC Dodd,JM Watkin,MB Templeton,1,0,,,,,,"",""
+ball,2,9.6,Central Districts,JM Watkin,NC Dodd,MB Templeton,6,0,,,,,,"",""
+ball,2,10.1,Central Districts,NC Dodd,JM Watkin,AN Kelly,0,0,,,,,,"",""
+ball,2,10.2,Central Districts,NC Dodd,JM Watkin,AN Kelly,0,0,,,,,,caught,NC Dodd
+ball,2,10.3,Central Districts,MJ Greig,JM Watkin,AN Kelly,1,0,,,,,,"",""
+ball,2,10.4,Central Districts,JM Watkin,MJ Greig,AN Kelly,0,0,,,,,,"",""
+ball,2,10.5,Central Districts,JM Watkin,MJ Greig,AN Kelly,1,0,,,,,,"",""
+ball,2,10.6,Central Districts,MJ Greig,JM Watkin,AN Kelly,1,0,,,,,,"",""
+ball,2,11.1,Central Districts,MJ Greig,JM Watkin,AT Hucker,0,0,,,,,,caught,MJ Greig
+ball,2,11.2,Central Districts,HM Rowe,JM Watkin,AT Hucker,6,0,,,,,,"",""
+ball,2,11.3,Central Districts,HM Rowe,JM Watkin,AT Hucker,0,0,,,,,,"",""
+ball,2,11.4,Central Districts,HM Rowe,JM Watkin,AT Hucker,1,0,,,,,,"",""
+ball,2,11.5,Central Districts,JM Watkin,HM Rowe,AT Hucker,0,0,,,,,,caught,JM Watkin
+ball,2,11.6,Central Districts,RA Mair,HM Rowe,AT Hucker,1,0,,,,,,"",""

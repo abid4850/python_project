@@ -1,0 +1,298 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Birmingham Bears
+info,team,Lancashire
+info,gender,male
+info,season,2025
+info,date,2025/07/09
+info,event,Vitality Blast Men
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Lancashire
+info,toss_decision,field
+info,umpire,RJ Bailey
+info,umpire,S Widdup
+info,match_referee,Phil Whitticase
+info,winner,Birmingham Bears
+info,winner_runs,36
+info,player,Birmingham Bears,AL Davies
+info,player,Birmingham Bears,TWM Latham
+info,player,Birmingham Bears,DR Mousley
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,EG Barnard
+info,player,Birmingham Bears,RM Yates
+info,player,Birmingham Bears,GHS Garton
+info,player,Birmingham Bears,Hasan Ali
+info,player,Birmingham Bears,DR Briggs
+info,player,Birmingham Bears,CN Miles
+info,player,Birmingham Bears,RJ Gleeson
+info,player,Lancashire,PD Salt
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JC Buttler
+info,player,Lancashire,AJ Turner
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,MA Jones
+info,player,Lancashire,CJ Green
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,L Wood
+info,player,Lancashire,JM Anderson
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AL Davies,29ede60b
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CN Miles,5fed6272
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Wood,65b6943c
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MA Jones,05f96194
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,RM Yates,3581a798
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,TWM Latham,e824e6ee
+ball,1,0.1,Birmingham Bears,AL Davies,TWM Latham,L Wood,0,0,,,,,,"",""
+ball,1,0.2,Birmingham Bears,AL Davies,TWM Latham,L Wood,0,0,,,,,,"",""
+ball,1,0.3,Birmingham Bears,AL Davies,TWM Latham,L Wood,0,0,,,,,,"",""
+ball,1,0.4,Birmingham Bears,AL Davies,TWM Latham,L Wood,4,0,,,,,,"",""
+ball,1,0.5,Birmingham Bears,AL Davies,TWM Latham,L Wood,4,0,,,,,,"",""
+ball,1,0.6,Birmingham Bears,AL Davies,TWM Latham,L Wood,0,1,1,,,,,"",""
+ball,1,0.7,Birmingham Bears,AL Davies,TWM Latham,L Wood,0,0,,,,,,bowled,AL Davies
+ball,1,1.1,Birmingham Bears,TWM Latham,DR Mousley,JM Anderson,4,0,,,,,,"",""
+ball,1,1.2,Birmingham Bears,TWM Latham,DR Mousley,JM Anderson,0,0,,,,,,"",""
+ball,1,1.3,Birmingham Bears,TWM Latham,DR Mousley,JM Anderson,4,0,,,,,,"",""
+ball,1,1.4,Birmingham Bears,TWM Latham,DR Mousley,JM Anderson,0,0,,,,,,"",""
+ball,1,1.5,Birmingham Bears,TWM Latham,DR Mousley,JM Anderson,0,0,,,,,,caught,TWM Latham
+ball,1,1.6,Birmingham Bears,SR Hain,DR Mousley,JM Anderson,1,0,,,,,,"",""
+ball,1,2.1,Birmingham Bears,SR Hain,DR Mousley,L Wood,0,0,,,,,,"",""
+ball,1,2.2,Birmingham Bears,SR Hain,DR Mousley,L Wood,1,0,,,,,,"",""
+ball,1,2.3,Birmingham Bears,DR Mousley,SR Hain,L Wood,4,0,,,,,,"",""
+ball,1,2.4,Birmingham Bears,DR Mousley,SR Hain,L Wood,4,0,,,,,,"",""
+ball,1,2.5,Birmingham Bears,DR Mousley,SR Hain,L Wood,1,0,,,,,,"",""
+ball,1,2.6,Birmingham Bears,SR Hain,DR Mousley,L Wood,4,0,,,,,,"",""
+ball,1,3.1,Birmingham Bears,DR Mousley,SR Hain,JM Anderson,4,0,,,,,,"",""
+ball,1,3.2,Birmingham Bears,DR Mousley,SR Hain,JM Anderson,0,0,,,,,,"",""
+ball,1,3.3,Birmingham Bears,DR Mousley,SR Hain,JM Anderson,4,0,,,,,,"",""
+ball,1,3.4,Birmingham Bears,DR Mousley,SR Hain,JM Anderson,0,0,,,,,,"",""
+ball,1,3.5,Birmingham Bears,DR Mousley,SR Hain,JM Anderson,4,0,,,,,,"",""
+ball,1,3.6,Birmingham Bears,DR Mousley,SR Hain,JM Anderson,4,0,,,,,,"",""
+ball,1,4.1,Birmingham Bears,SR Hain,DR Mousley,CJ Green,0,0,,,,,,"",""
+ball,1,4.2,Birmingham Bears,SR Hain,DR Mousley,CJ Green,1,0,,,,,,"",""
+ball,1,4.3,Birmingham Bears,DR Mousley,SR Hain,CJ Green,1,0,,,,,,"",""
+ball,1,4.4,Birmingham Bears,SR Hain,DR Mousley,CJ Green,4,0,,,,,,"",""
+ball,1,4.5,Birmingham Bears,SR Hain,DR Mousley,CJ Green,1,0,,,,,,"",""
+ball,1,4.6,Birmingham Bears,DR Mousley,SR Hain,CJ Green,6,0,,,,,,"",""
+ball,1,5.1,Birmingham Bears,SR Hain,DR Mousley,L Wood,1,0,,,,,,"",""
+ball,1,5.2,Birmingham Bears,DR Mousley,SR Hain,L Wood,0,0,,,,,,caught,DR Mousley
+ball,1,5.3,Birmingham Bears,EG Barnard,SR Hain,L Wood,6,0,,,,,,"",""
+ball,1,5.4,Birmingham Bears,EG Barnard,SR Hain,L Wood,1,0,,,,,,"",""
+ball,1,5.5,Birmingham Bears,SR Hain,EG Barnard,L Wood,1,0,,,,,,"",""
+ball,1,5.6,Birmingham Bears,EG Barnard,SR Hain,L Wood,4,0,,,,,,"",""
+ball,1,6.1,Birmingham Bears,SR Hain,EG Barnard,LWP Wells,1,0,,,,,,"",""
+ball,1,6.2,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,1,0,,,,,,"",""
+ball,1,6.3,Birmingham Bears,SR Hain,EG Barnard,LWP Wells,1,0,,,,,,"",""
+ball,1,6.4,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,1,0,,,,,,"",""
+ball,1,6.5,Birmingham Bears,SR Hain,EG Barnard,LWP Wells,1,0,,,,,,"",""
+ball,1,6.6,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,0,1,1,,,,,"",""
+ball,1,6.7,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,1,0,,,,,,"",""
+ball,1,7.1,Birmingham Bears,EG Barnard,SR Hain,TW Hartley,0,0,,,,,,"",""
+ball,1,7.2,Birmingham Bears,EG Barnard,SR Hain,TW Hartley,1,0,,,,,,"",""
+ball,1,7.3,Birmingham Bears,SR Hain,EG Barnard,TW Hartley,1,0,,,,,,"",""
+ball,1,7.4,Birmingham Bears,EG Barnard,SR Hain,TW Hartley,0,0,,,,,,"",""
+ball,1,7.5,Birmingham Bears,EG Barnard,SR Hain,TW Hartley,1,0,,,,,,"",""
+ball,1,7.6,Birmingham Bears,SR Hain,EG Barnard,TW Hartley,2,0,,,,,,"",""
+ball,1,8.1,Birmingham Bears,EG Barnard,SR Hain,JM Blatherwick,4,0,,,,,,"",""
+ball,1,8.2,Birmingham Bears,EG Barnard,SR Hain,JM Blatherwick,4,0,,,,,,"",""
+ball,1,8.3,Birmingham Bears,EG Barnard,SR Hain,JM Blatherwick,1,0,,,,,,"",""
+ball,1,8.4,Birmingham Bears,SR Hain,EG Barnard,JM Blatherwick,1,0,,,,,,"",""
+ball,1,8.5,Birmingham Bears,EG Barnard,SR Hain,JM Blatherwick,0,0,,,,,,"",""
+ball,1,8.6,Birmingham Bears,EG Barnard,SR Hain,JM Blatherwick,1,0,,,,,,"",""
+ball,1,9.1,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,1,0,,,,,,"",""
+ball,1,9.2,Birmingham Bears,SR Hain,EG Barnard,LWP Wells,1,0,,,,,,"",""
+ball,1,9.3,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,6,0,,,,,,"",""
+ball,1,9.4,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,0,0,,,,,,"",""
+ball,1,9.5,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,0,0,,,,,,"",""
+ball,1,9.6,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,0,0,,,,,,"",""
+ball,1,10.1,Birmingham Bears,SR Hain,EG Barnard,CJ Green,0,0,,,,,,"",""
+ball,1,10.2,Birmingham Bears,SR Hain,EG Barnard,CJ Green,1,0,,,,,,"",""
+ball,1,10.3,Birmingham Bears,EG Barnard,SR Hain,CJ Green,1,0,,,,,,"",""
+ball,1,10.4,Birmingham Bears,SR Hain,EG Barnard,CJ Green,1,0,,,,,,"",""
+ball,1,10.5,Birmingham Bears,EG Barnard,SR Hain,CJ Green,1,0,,,,,,"",""
+ball,1,10.6,Birmingham Bears,SR Hain,EG Barnard,CJ Green,2,0,,,,,,"",""
+ball,1,11.1,Birmingham Bears,EG Barnard,SR Hain,TW Hartley,1,0,,,,,,"",""
+ball,1,11.2,Birmingham Bears,SR Hain,EG Barnard,TW Hartley,1,0,,,,,,"",""
+ball,1,11.3,Birmingham Bears,EG Barnard,SR Hain,TW Hartley,0,1,,,1,,,"",""
+ball,1,11.4,Birmingham Bears,SR Hain,EG Barnard,TW Hartley,6,0,,,,,,"",""
+ball,1,11.5,Birmingham Bears,SR Hain,EG Barnard,TW Hartley,1,0,,,,,,"",""
+ball,1,11.6,Birmingham Bears,EG Barnard,SR Hain,TW Hartley,0,0,,,,,,"",""
+ball,1,12.1,Birmingham Bears,SR Hain,EG Barnard,LWP Wells,1,0,,,,,,"",""
+ball,1,12.2,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,6,0,,,,,,"",""
+ball,1,12.3,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,1,0,,,,,,"",""
+ball,1,12.4,Birmingham Bears,SR Hain,EG Barnard,LWP Wells,1,0,,,,,,"",""
+ball,1,12.5,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,2,0,,,,,,"",""
+ball,1,12.6,Birmingham Bears,EG Barnard,SR Hain,LWP Wells,0,4,,,4,,,"",""
+ball,1,13.1,Birmingham Bears,SR Hain,EG Barnard,TW Hartley,0,0,,,,,,caught,SR Hain
+ball,1,13.2,Birmingham Bears,RM Yates,EG Barnard,TW Hartley,0,0,,,,,,"",""
+ball,1,13.3,Birmingham Bears,RM Yates,EG Barnard,TW Hartley,2,0,,,,,,"",""
+ball,1,13.4,Birmingham Bears,RM Yates,EG Barnard,TW Hartley,4,0,,,,,,"",""
+ball,1,13.5,Birmingham Bears,RM Yates,EG Barnard,TW Hartley,0,0,,,,,,"",""
+ball,1,13.6,Birmingham Bears,RM Yates,EG Barnard,TW Hartley,1,0,,,,,,"",""
+ball,1,14.1,Birmingham Bears,RM Yates,EG Barnard,CJ Green,1,0,,,,,,"",""
+ball,1,14.2,Birmingham Bears,EG Barnard,RM Yates,CJ Green,6,0,,,,,,"",""
+ball,1,14.3,Birmingham Bears,EG Barnard,RM Yates,CJ Green,1,0,,,,,,"",""
+ball,1,14.4,Birmingham Bears,RM Yates,EG Barnard,CJ Green,0,1,,,,1,,"",""
+ball,1,14.5,Birmingham Bears,EG Barnard,RM Yates,CJ Green,1,0,,,,,,"",""
+ball,1,14.6,Birmingham Bears,RM Yates,EG Barnard,CJ Green,0,0,,,,,,"",""
+ball,1,15.1,Birmingham Bears,EG Barnard,RM Yates,TW Hartley,1,0,,,,,,"",""
+ball,1,15.2,Birmingham Bears,RM Yates,EG Barnard,TW Hartley,1,0,,,,,,"",""
+ball,1,15.3,Birmingham Bears,EG Barnard,RM Yates,TW Hartley,0,0,,,,,,caught,EG Barnard
+ball,1,15.4,Birmingham Bears,GHS Garton,RM Yates,TW Hartley,0,0,,,,,,"",""
+ball,1,15.5,Birmingham Bears,GHS Garton,RM Yates,TW Hartley,2,0,,,,,,"",""
+ball,1,15.6,Birmingham Bears,GHS Garton,RM Yates,TW Hartley,4,0,,,,,,"",""
+ball,1,16.1,Birmingham Bears,RM Yates,GHS Garton,CJ Green,0,0,,,,,,"",""
+ball,1,16.2,Birmingham Bears,RM Yates,GHS Garton,CJ Green,4,0,,,,,,"",""
+ball,1,16.3,Birmingham Bears,RM Yates,GHS Garton,CJ Green,4,0,,,,,,"",""
+ball,1,16.4,Birmingham Bears,RM Yates,GHS Garton,CJ Green,1,0,,,,,,"",""
+ball,1,16.5,Birmingham Bears,GHS Garton,RM Yates,CJ Green,4,0,,,,,,"",""
+ball,1,16.6,Birmingham Bears,GHS Garton,RM Yates,CJ Green,0,0,,,,,,"",""
+ball,1,17.1,Birmingham Bears,RM Yates,GHS Garton,JM Blatherwick,1,0,,,,,,run out,RM Yates
+ball,1,17.2,Birmingham Bears,Hasan Ali,GHS Garton,JM Blatherwick,1,0,,,,,,"",""
+ball,1,17.3,Birmingham Bears,GHS Garton,Hasan Ali,JM Blatherwick,6,0,,,,,,"",""
+ball,1,17.4,Birmingham Bears,GHS Garton,Hasan Ali,JM Blatherwick,0,0,,,,,,"",""
+ball,1,17.5,Birmingham Bears,GHS Garton,Hasan Ali,JM Blatherwick,0,0,,,,,,caught,GHS Garton
+ball,1,17.6,Birmingham Bears,DR Briggs,Hasan Ali,JM Blatherwick,1,0,,,,,,"",""
+ball,1,18.1,Birmingham Bears,DR Briggs,Hasan Ali,L Wood,1,0,,,,,,"",""
+ball,1,18.2,Birmingham Bears,Hasan Ali,DR Briggs,L Wood,1,0,,,,,,"",""
+ball,1,18.3,Birmingham Bears,DR Briggs,Hasan Ali,L Wood,0,0,,,,,,"",""
+ball,1,18.4,Birmingham Bears,DR Briggs,Hasan Ali,L Wood,4,0,,,,,,"",""
+ball,1,18.5,Birmingham Bears,DR Briggs,Hasan Ali,L Wood,4,0,,,,,,"",""
+ball,1,18.6,Birmingham Bears,DR Briggs,Hasan Ali,L Wood,0,0,,,,,,"",""
+ball,1,19.1,Birmingham Bears,Hasan Ali,DR Briggs,JM Blatherwick,0,1,1,,,,,"",""
+ball,1,19.2,Birmingham Bears,Hasan Ali,DR Briggs,JM Blatherwick,0,0,,,,,,"",""
+ball,1,19.3,Birmingham Bears,Hasan Ali,DR Briggs,JM Blatherwick,0,0,,,,,,caught,Hasan Ali
+ball,1,19.4,Birmingham Bears,CN Miles,DR Briggs,JM Blatherwick,6,0,,,,,,"",""
+ball,1,19.5,Birmingham Bears,CN Miles,DR Briggs,JM Blatherwick,0,0,,,,,,caught,CN Miles
+ball,1,19.6,Birmingham Bears,RJ Gleeson,DR Briggs,JM Blatherwick,0,1,,,,1,,"",""
+ball,1,19.7,Birmingham Bears,DR Briggs,RJ Gleeson,JM Blatherwick,2,0,,,,,,"",""
+ball,2,0.1,Lancashire,PD Salt,KK Jennings,GHS Garton,0,0,,,,,,"",""
+ball,2,0.2,Lancashire,PD Salt,KK Jennings,GHS Garton,0,1,1,,,,,"",""
+ball,2,0.3,Lancashire,PD Salt,KK Jennings,GHS Garton,0,1,,,,1,,"",""
+ball,2,0.4,Lancashire,KK Jennings,PD Salt,GHS Garton,0,0,,,,,,caught,KK Jennings
+ball,2,0.5,Lancashire,JC Buttler,PD Salt,GHS Garton,0,0,,,,,,"",""
+ball,2,0.6,Lancashire,JC Buttler,PD Salt,GHS Garton,0,0,,,,,,"",""
+ball,2,0.7,Lancashire,JC Buttler,PD Salt,GHS Garton,0,0,,,,,,lbw,JC Buttler
+ball,2,1.1,Lancashire,PD Salt,AJ Turner,RJ Gleeson,1,0,,,,,,"",""
+ball,2,1.2,Lancashire,AJ Turner,PD Salt,RJ Gleeson,0,0,,,,,,"",""
+ball,2,1.3,Lancashire,AJ Turner,PD Salt,RJ Gleeson,0,0,,,,,,"",""
+ball,2,1.4,Lancashire,AJ Turner,PD Salt,RJ Gleeson,1,0,,,,,,"",""
+ball,2,1.5,Lancashire,PD Salt,AJ Turner,RJ Gleeson,0,2,2,,,,,"",""
+ball,2,1.6,Lancashire,AJ Turner,PD Salt,RJ Gleeson,6,0,,,,,,"",""
+ball,2,1.7,Lancashire,AJ Turner,PD Salt,RJ Gleeson,0,0,,,,,,"",""
+ball,2,2.1,Lancashire,PD Salt,AJ Turner,GHS Garton,6,0,,,,,,"",""
+ball,2,2.2,Lancashire,PD Salt,AJ Turner,GHS Garton,4,0,,,,,,"",""
+ball,2,2.3,Lancashire,PD Salt,AJ Turner,GHS Garton,2,0,,,,,,"",""
+ball,2,2.4,Lancashire,PD Salt,AJ Turner,GHS Garton,4,0,,,,,,"",""
+ball,2,2.5,Lancashire,PD Salt,AJ Turner,GHS Garton,4,0,,,,,,"",""
+ball,2,2.6,Lancashire,PD Salt,AJ Turner,GHS Garton,0,0,,,,,,caught,PD Salt
+ball,2,3.1,Lancashire,AJ Turner,LWP Wells,Hasan Ali,0,0,,,,,,"",""
+ball,2,3.2,Lancashire,AJ Turner,LWP Wells,Hasan Ali,4,0,,,,,,"",""
+ball,2,3.3,Lancashire,AJ Turner,LWP Wells,Hasan Ali,1,0,,,,,,"",""
+ball,2,3.4,Lancashire,LWP Wells,AJ Turner,Hasan Ali,0,0,,,,,,"",""
+ball,2,3.5,Lancashire,LWP Wells,AJ Turner,Hasan Ali,0,0,,,,,,"",""
+ball,2,3.6,Lancashire,LWP Wells,AJ Turner,Hasan Ali,1,0,,,,,,"",""
+ball,2,4.1,Lancashire,LWP Wells,AJ Turner,RJ Gleeson,0,0,,,,,,"",""
+ball,2,4.2,Lancashire,LWP Wells,AJ Turner,RJ Gleeson,0,0,,,,,,"",""
+ball,2,4.3,Lancashire,LWP Wells,AJ Turner,RJ Gleeson,4,0,,,,,,"",""
+ball,2,4.4,Lancashire,LWP Wells,AJ Turner,RJ Gleeson,4,0,,,,,,"",""
+ball,2,4.5,Lancashire,LWP Wells,AJ Turner,RJ Gleeson,3,0,,,,,,"",""
+ball,2,4.6,Lancashire,AJ Turner,LWP Wells,RJ Gleeson,1,0,,,,,,"",""
+ball,2,5.1,Lancashire,AJ Turner,LWP Wells,Hasan Ali,2,0,,,,,,"",""
+ball,2,5.2,Lancashire,AJ Turner,LWP Wells,Hasan Ali,1,0,,,,,,"",""
+ball,2,5.3,Lancashire,LWP Wells,AJ Turner,Hasan Ali,0,0,,,,,,"",""
+ball,2,5.4,Lancashire,LWP Wells,AJ Turner,Hasan Ali,1,0,,,,,,"",""
+ball,2,5.5,Lancashire,AJ Turner,LWP Wells,Hasan Ali,0,0,,,,,,"",""
+ball,2,5.6,Lancashire,AJ Turner,LWP Wells,Hasan Ali,1,0,,,,,,"",""
+ball,2,6.1,Lancashire,AJ Turner,LWP Wells,CN Miles,1,0,,,,,,"",""
+ball,2,6.2,Lancashire,LWP Wells,AJ Turner,CN Miles,4,0,,,,,,"",""
+ball,2,6.3,Lancashire,LWP Wells,AJ Turner,CN Miles,1,0,,,,,,"",""
+ball,2,6.4,Lancashire,AJ Turner,LWP Wells,CN Miles,1,0,,,,,,"",""
+ball,2,6.5,Lancashire,LWP Wells,AJ Turner,CN Miles,0,0,,,,,,caught,LWP Wells
+ball,2,6.6,Lancashire,MA Jones,AJ Turner,CN Miles,0,0,,,,,,"",""
+ball,2,7.1,Lancashire,AJ Turner,MA Jones,DR Briggs,0,0,,,,,,"",""
+ball,2,7.2,Lancashire,AJ Turner,MA Jones,DR Briggs,1,0,,,,,,"",""
+ball,2,7.3,Lancashire,MA Jones,AJ Turner,DR Briggs,1,0,,,,,,"",""
+ball,2,7.4,Lancashire,AJ Turner,MA Jones,DR Briggs,0,0,,,,,,caught,AJ Turner
+ball,2,7.5,Lancashire,CJ Green,MA Jones,DR Briggs,1,0,,,,,,"",""
+ball,2,7.6,Lancashire,MA Jones,CJ Green,DR Briggs,1,0,,,,,,"",""
+ball,2,8.1,Lancashire,MA Jones,CJ Green,CN Miles,1,0,,,,,,"",""
+ball,2,8.2,Lancashire,CJ Green,MA Jones,CN Miles,1,0,,,,,,"",""
+ball,2,8.3,Lancashire,MA Jones,CJ Green,CN Miles,1,0,,,,,,"",""
+ball,2,8.4,Lancashire,CJ Green,MA Jones,CN Miles,1,0,,,,,,"",""
+ball,2,8.5,Lancashire,MA Jones,CJ Green,CN Miles,0,1,,,,1,,"",""
+ball,2,8.6,Lancashire,CJ Green,MA Jones,CN Miles,6,0,,,,,,"",""
+ball,2,9.1,Lancashire,MA Jones,CJ Green,DR Briggs,0,0,,,,,,"",""
+ball,2,9.2,Lancashire,MA Jones,CJ Green,DR Briggs,4,0,,,,,,"",""
+ball,2,9.3,Lancashire,MA Jones,CJ Green,DR Briggs,0,0,,,,,,"",""
+ball,2,9.4,Lancashire,MA Jones,CJ Green,DR Briggs,2,0,,,,,,"",""
+ball,2,9.5,Lancashire,MA Jones,CJ Green,DR Briggs,1,0,,,,,,"",""
+ball,2,9.6,Lancashire,CJ Green,MA Jones,DR Briggs,1,0,,,,,,"",""
+ball,2,10.1,Lancashire,CJ Green,MA Jones,DR Mousley,0,0,,,,,,"",""
+ball,2,10.2,Lancashire,CJ Green,MA Jones,DR Mousley,6,0,,,,,,"",""
+ball,2,10.3,Lancashire,CJ Green,MA Jones,DR Mousley,0,0,,,,,,"",""
+ball,2,10.4,Lancashire,CJ Green,MA Jones,DR Mousley,4,0,,,,,,"",""
+ball,2,10.5,Lancashire,CJ Green,MA Jones,DR Mousley,1,0,,,,,,"",""
+ball,2,10.6,Lancashire,MA Jones,CJ Green,DR Mousley,0,1,,,,1,,"",""
+ball,2,11.1,Lancashire,MA Jones,CJ Green,DR Briggs,0,0,,,,,,"",""
+ball,2,11.2,Lancashire,MA Jones,CJ Green,DR Briggs,1,0,,,,,,"",""
+ball,2,11.3,Lancashire,CJ Green,MA Jones,DR Briggs,1,0,,,,,,"",""
+ball,2,11.4,Lancashire,MA Jones,CJ Green,DR Briggs,0,0,,,,,,"",""
+ball,2,11.5,Lancashire,MA Jones,CJ Green,DR Briggs,1,0,,,,,,"",""
+ball,2,11.6,Lancashire,CJ Green,MA Jones,DR Briggs,0,0,,,,,,"",""
+ball,2,12.1,Lancashire,MA Jones,CJ Green,GHS Garton,1,0,,,,,,"",""
+ball,2,12.2,Lancashire,CJ Green,MA Jones,GHS Garton,4,0,,,,,,"",""
+ball,2,12.3,Lancashire,CJ Green,MA Jones,GHS Garton,0,0,,,,,,caught,CJ Green
+ball,2,12.4,Lancashire,JM Blatherwick,MA Jones,GHS Garton,0,0,,,,,,"",""
+ball,2,12.5,Lancashire,JM Blatherwick,MA Jones,GHS Garton,1,0,,,,,,"",""
+ball,2,12.6,Lancashire,MA Jones,JM Blatherwick,GHS Garton,1,0,,,,,,"",""
+ball,2,13.1,Lancashire,MA Jones,JM Blatherwick,RJ Gleeson,4,0,,,,,,"",""
+ball,2,13.2,Lancashire,MA Jones,JM Blatherwick,RJ Gleeson,0,0,,,,,,caught,MA Jones
+ball,2,13.3,Lancashire,TW Hartley,JM Blatherwick,RJ Gleeson,2,0,,,,,,"",""
+ball,2,13.4,Lancashire,TW Hartley,JM Blatherwick,RJ Gleeson,1,0,,,,,,"",""
+ball,2,13.5,Lancashire,JM Blatherwick,TW Hartley,RJ Gleeson,1,0,,,,,,"",""
+ball,2,13.6,Lancashire,TW Hartley,JM Blatherwick,RJ Gleeson,1,0,,,,,,"",""
+ball,2,14.1,Lancashire,TW Hartley,JM Blatherwick,DR Mousley,1,0,,,,,,"",""
+ball,2,14.2,Lancashire,JM Blatherwick,TW Hartley,DR Mousley,1,0,,,,,,"",""
+ball,2,14.3,Lancashire,TW Hartley,JM Blatherwick,DR Mousley,6,0,,,,,,"",""
+ball,2,14.4,Lancashire,TW Hartley,JM Blatherwick,DR Mousley,1,0,,,,,,"",""
+ball,2,14.5,Lancashire,JM Blatherwick,TW Hartley,DR Mousley,6,0,,,,,,"",""
+ball,2,14.6,Lancashire,JM Blatherwick,TW Hartley,DR Mousley,4,0,,,,,,"",""
+ball,2,15.1,Lancashire,TW Hartley,JM Blatherwick,DR Briggs,6,0,,,,,,"",""
+ball,2,15.2,Lancashire,TW Hartley,JM Blatherwick,DR Briggs,6,0,,,,,,"",""
+ball,2,15.3,Lancashire,TW Hartley,JM Blatherwick,DR Briggs,1,0,,,,,,"",""
+ball,2,15.4,Lancashire,JM Blatherwick,TW Hartley,DR Briggs,1,0,,,,,,"",""
+ball,2,15.5,Lancashire,TW Hartley,JM Blatherwick,DR Briggs,6,0,,,,,,"",""
+ball,2,15.6,Lancashire,TW Hartley,JM Blatherwick,DR Briggs,1,0,,,,,,"",""
+ball,2,16.1,Lancashire,TW Hartley,JM Blatherwick,Hasan Ali,0,0,,,,,,"",""
+ball,2,16.2,Lancashire,TW Hartley,JM Blatherwick,Hasan Ali,1,0,,,,,,"",""
+ball,2,16.3,Lancashire,JM Blatherwick,TW Hartley,Hasan Ali,0,0,,,,,,caught,JM Blatherwick
+ball,2,16.4,Lancashire,L Wood,TW Hartley,Hasan Ali,4,0,,,,,,"",""
+ball,2,16.5,Lancashire,L Wood,TW Hartley,Hasan Ali,1,0,,,,,,"",""
+ball,2,16.6,Lancashire,TW Hartley,L Wood,Hasan Ali,2,0,,,,,,"",""
+ball,2,17.1,Lancashire,L Wood,TW Hartley,RJ Gleeson,1,0,,,,,,"",""
+ball,2,17.2,Lancashire,TW Hartley,L Wood,RJ Gleeson,0,0,,,,,,"",""
+ball,2,17.3,Lancashire,TW Hartley,L Wood,RJ Gleeson,0,0,,,,,,caught,TW Hartley
+ball,2,17.4,Lancashire,JM Anderson,L Wood,RJ Gleeson,1,0,,,,,,"",""
+ball,2,17.5,Lancashire,L Wood,JM Anderson,RJ Gleeson,1,0,,,,,,"",""
+ball,2,17.6,Lancashire,JM Anderson,L Wood,RJ Gleeson,0,0,,,,,,"",""
+ball,2,18.1,Lancashire,L Wood,JM Anderson,Hasan Ali,0,0,,,,,,lbw,L Wood

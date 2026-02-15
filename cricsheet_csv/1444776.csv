@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,North West
+info,team,Boland
+info,gender,male
+info,season,2024/25
+info,date,2024/10/06
+info,event,CSA T20 Challenge
+info,match_number,12
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Boland
+info,toss_decision,field
+info,umpire,A Paleker
+info,umpire,MN Gampu
+info,match_referee,SB Lambson
+info,winner,North West
+info,winner_runs,3
+info,player,North West,JN Malan
+info,player,North West,M Prince
+info,player,North West,WJ Lubbe
+info,player,North West,LC Ngoepe
+info,player,North West,M Jansen
+info,player,North West,D Jansen
+info,player,North West,R van Tonder
+info,player,North West,T Kumalo
+info,player,North West,C Seleka
+info,player,North West,K Mungroo
+info,player,North West,A Cloete
+info,player,Boland,PJ Malan
+info,player,Boland,G Roelofsen
+info,player,Boland,G Kaplan
+info,player,Boland,C Fortuin
+info,player,Boland,FD Adams
+info,player,Boland,M Copeland
+info,player,Boland,KJ Dudgeon
+info,player,Boland,A Gqamane
+info,player,Boland,I Manack
+info,player,Boland,GA Stuurman
+info,player,Boland,Siyabonga Mahima
+info,registry,people,A Cloete,45a6cf8a
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,A Paleker,634b11ac
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,C Seleka,be8b147b
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,FD Adams,f277f531
+info,registry,people,G Kaplan,a5c3d564
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GA Stuurman,d4d37c31
+info,registry,people,I Manack,5ec126fa
+info,registry,people,JN Malan,f76d7466
+info,registry,people,K Mungroo,56feceb0
+info,registry,people,KJ Dudgeon,b8828a1b
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,M Copeland,9943b637
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Prince,aa80a6c3
+info,registry,people,MN Gampu,41597619
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,R van Tonder,0ba03cec
+info,registry,people,SB Lambson,4146063f
+info,registry,people,Siyabonga Mahima,1062bebb
+info,registry,people,T Kumalo,1484cad1
+info,registry,people,WJ Lubbe,10f42013
+ball,1,0.1,North West,JN Malan,M Prince,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,0.2,North West,M Prince,JN Malan,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,0.3,North West,JN Malan,M Prince,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,0.4,North West,JN Malan,M Prince,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,0.5,North West,M Prince,JN Malan,Siyabonga Mahima,2,0,,,,,,"",""
+ball,1,0.6,North West,M Prince,JN Malan,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,1.1,North West,M Prince,JN Malan,GA Stuurman,0,0,,,,,,"",""
+ball,1,1.2,North West,M Prince,JN Malan,GA Stuurman,1,0,,,,,,"",""
+ball,1,1.3,North West,JN Malan,M Prince,GA Stuurman,0,0,,,,,,"",""
+ball,1,1.4,North West,JN Malan,M Prince,GA Stuurman,3,0,,,,,,"",""
+ball,1,1.5,North West,M Prince,JN Malan,GA Stuurman,1,0,,,,,,"",""
+ball,1,1.6,North West,JN Malan,M Prince,GA Stuurman,0,0,,,,,,"",""
+ball,1,2.1,North West,M Prince,JN Malan,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,2.2,North West,JN Malan,M Prince,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,2.3,North West,M Prince,JN Malan,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,2.4,North West,M Prince,JN Malan,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,2.5,North West,M Prince,JN Malan,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,2.6,North West,JN Malan,M Prince,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,3.1,North West,M Prince,JN Malan,GA Stuurman,1,0,,,,,,"",""
+ball,1,3.2,North West,JN Malan,M Prince,GA Stuurman,6,0,,,,,,"",""
+ball,1,3.3,North West,JN Malan,M Prince,GA Stuurman,1,0,,,,,,"",""
+ball,1,3.4,North West,M Prince,JN Malan,GA Stuurman,0,1,1,,,,,"",""
+ball,1,3.5,North West,M Prince,JN Malan,GA Stuurman,1,0,,,,,,"",""
+ball,1,3.6,North West,JN Malan,M Prince,GA Stuurman,1,0,,,,,,"",""
+ball,1,3.7,North West,M Prince,JN Malan,GA Stuurman,4,0,,,,,,"",""
+ball,1,4.1,North West,JN Malan,M Prince,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,4.2,North West,JN Malan,M Prince,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,4.3,North West,M Prince,JN Malan,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,4.4,North West,M Prince,JN Malan,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,4.5,North West,JN Malan,M Prince,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,4.6,North West,M Prince,JN Malan,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,5.1,North West,M Prince,JN Malan,KJ Dudgeon,4,0,,,,,,"",""
+ball,1,5.2,North West,M Prince,JN Malan,KJ Dudgeon,1,0,,,,,,"",""
+ball,1,5.3,North West,JN Malan,M Prince,KJ Dudgeon,0,1,1,,,,,"",""
+ball,1,5.4,North West,JN Malan,M Prince,KJ Dudgeon,0,0,,,,,,"",""
+ball,1,5.5,North West,JN Malan,M Prince,KJ Dudgeon,2,0,,,,,,"",""
+ball,1,5.6,North West,JN Malan,M Prince,KJ Dudgeon,1,0,,,,,,"",""
+ball,1,5.7,North West,M Prince,JN Malan,KJ Dudgeon,6,0,,,,,,"",""
+ball,1,6.1,North West,JN Malan,M Prince,FD Adams,2,0,,,,,,"",""
+ball,1,6.2,North West,JN Malan,M Prince,FD Adams,2,0,,,,,,"",""
+ball,1,6.3,North West,JN Malan,M Prince,FD Adams,2,0,,,,,,"",""
+ball,1,6.4,North West,JN Malan,M Prince,FD Adams,0,0,,,,,,"",""
+ball,1,6.5,North West,JN Malan,M Prince,FD Adams,4,0,,,,,,"",""
+ball,1,6.6,North West,JN Malan,M Prince,FD Adams,0,0,,,,,,"",""
+ball,1,7.1,North West,M Prince,JN Malan,I Manack,2,0,,,,,,"",""
+ball,1,7.2,North West,M Prince,JN Malan,I Manack,0,0,,,,,,"",""
+ball,1,7.3,North West,M Prince,JN Malan,I Manack,4,0,,,,,,"",""
+ball,1,7.4,North West,M Prince,JN Malan,I Manack,1,0,,,,,,"",""
+ball,1,7.5,North West,JN Malan,M Prince,I Manack,0,0,,,,,,"",""
+ball,1,7.6,North West,JN Malan,M Prince,I Manack,1,0,,,,,,"",""
+ball,1,8.1,North West,JN Malan,M Prince,A Gqamane,1,0,,,,,,"",""
+ball,1,8.2,North West,M Prince,JN Malan,A Gqamane,1,0,,,,,,"",""
+ball,1,8.3,North West,JN Malan,M Prince,A Gqamane,4,0,,,,,,"",""
+ball,1,8.4,North West,JN Malan,M Prince,A Gqamane,0,0,,,,,,caught,JN Malan
+ball,1,8.5,North West,WJ Lubbe,M Prince,A Gqamane,0,0,,,,,,"",""
+ball,1,8.6,North West,WJ Lubbe,M Prince,A Gqamane,1,0,,,,,,"",""
+ball,1,9.1,North West,WJ Lubbe,M Prince,I Manack,2,0,,,,,,"",""
+ball,1,9.2,North West,WJ Lubbe,M Prince,I Manack,2,0,,,,,,"",""
+ball,1,9.3,North West,WJ Lubbe,M Prince,I Manack,1,0,,,,,,"",""
+ball,1,9.4,North West,M Prince,WJ Lubbe,I Manack,0,0,,,,,,"",""
+ball,1,9.5,North West,M Prince,WJ Lubbe,I Manack,0,0,,,,,,"",""
+ball,1,9.6,North West,M Prince,WJ Lubbe,I Manack,0,1,,,,1,,"",""
+ball,1,10.1,North West,M Prince,WJ Lubbe,A Gqamane,4,0,,,,,,"",""
+ball,1,10.2,North West,M Prince,WJ Lubbe,A Gqamane,0,1,,,,1,,"",""
+ball,1,10.3,North West,WJ Lubbe,M Prince,A Gqamane,0,0,,,,,,"",""
+ball,1,10.4,North West,WJ Lubbe,M Prince,A Gqamane,2,0,,,,,,"",""
+ball,1,10.5,North West,WJ Lubbe,M Prince,A Gqamane,1,0,,,,,,"",""
+ball,1,10.6,North West,M Prince,WJ Lubbe,A Gqamane,0,0,,,,,,"",""
+ball,1,11.1,North West,WJ Lubbe,M Prince,I Manack,0,1,,,,1,,"",""
+ball,1,11.2,North West,M Prince,WJ Lubbe,I Manack,1,0,,,,,,"",""
+ball,1,11.3,North West,WJ Lubbe,M Prince,I Manack,1,0,,,,,,"",""
+ball,1,11.4,North West,M Prince,WJ Lubbe,I Manack,6,0,,,,,,"",""
+ball,1,11.5,North West,M Prince,WJ Lubbe,I Manack,0,0,,,,,,"",""
+ball,1,11.6,North West,M Prince,WJ Lubbe,I Manack,0,0,,,,,,"",""
+ball,1,12.1,North West,WJ Lubbe,M Prince,KJ Dudgeon,0,0,,,,,,"",""
+ball,1,12.2,North West,WJ Lubbe,M Prince,KJ Dudgeon,4,0,,,,,,"",""
+ball,1,12.3,North West,WJ Lubbe,M Prince,KJ Dudgeon,2,0,,,,,,"",""
+ball,1,12.4,North West,WJ Lubbe,M Prince,KJ Dudgeon,1,0,,,,,,"",""
+ball,1,12.5,North West,M Prince,WJ Lubbe,KJ Dudgeon,2,0,,,,,,"",""
+ball,1,12.6,North West,M Prince,WJ Lubbe,KJ Dudgeon,0,0,,,,,,"",""
+ball,1,13.1,North West,WJ Lubbe,M Prince,I Manack,0,0,,,,,,caught,WJ Lubbe
+ball,1,13.2,North West,LC Ngoepe,M Prince,I Manack,1,0,,,,,,"",""
+ball,1,13.3,North West,M Prince,LC Ngoepe,I Manack,2,0,,,,,,"",""
+ball,1,13.4,North West,M Prince,LC Ngoepe,I Manack,1,0,,,,,,"",""
+ball,1,13.5,North West,LC Ngoepe,M Prince,I Manack,1,0,,,,,,"",""
+ball,1,13.6,North West,M Prince,LC Ngoepe,I Manack,1,0,,,,,,"",""
+ball,1,14.1,North West,M Prince,LC Ngoepe,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,14.2,North West,LC Ngoepe,M Prince,Siyabonga Mahima,4,0,,,,,,"",""
+ball,1,14.3,North West,LC Ngoepe,M Prince,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,14.4,North West,M Prince,LC Ngoepe,Siyabonga Mahima,4,0,,,,,,"",""
+ball,1,14.5,North West,M Prince,LC Ngoepe,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,14.6,North West,LC Ngoepe,M Prince,Siyabonga Mahima,2,0,,,,,,"",""
+ball,1,15.1,North West,M Prince,LC Ngoepe,FD Adams,2,0,,,,,,"",""
+ball,1,15.2,North West,M Prince,LC Ngoepe,FD Adams,1,0,,,,,,"",""
+ball,1,15.3,North West,LC Ngoepe,M Prince,FD Adams,1,0,,,,,,"",""
+ball,1,15.4,North West,M Prince,LC Ngoepe,FD Adams,4,0,,,,,,"",""
+ball,1,15.5,North West,M Prince,LC Ngoepe,FD Adams,0,0,,,,,,"",""
+ball,1,15.6,North West,M Prince,LC Ngoepe,FD Adams,4,0,,,,,,"",""
+ball,1,16.1,North West,LC Ngoepe,M Prince,A Gqamane,1,0,,,,,,"",""
+ball,1,16.2,North West,M Prince,LC Ngoepe,A Gqamane,1,0,,,,,,"",""
+ball,1,16.3,North West,LC Ngoepe,M Prince,A Gqamane,0,0,,,,,,"",""
+ball,1,16.4,North West,LC Ngoepe,M Prince,A Gqamane,6,0,,,,,,"",""
+ball,1,16.5,North West,LC Ngoepe,M Prince,A Gqamane,2,0,,,,,,"",""
+ball,1,16.6,North West,LC Ngoepe,M Prince,A Gqamane,3,0,,,,,,"",""
+ball,1,17.1,North West,LC Ngoepe,M Prince,GA Stuurman,1,0,,,,,,"",""
+ball,1,17.2,North West,M Prince,LC Ngoepe,GA Stuurman,4,0,,,,,,"",""
+ball,1,17.3,North West,M Prince,LC Ngoepe,GA Stuurman,0,0,,,,,,"",""
+ball,1,17.4,North West,M Prince,LC Ngoepe,GA Stuurman,1,0,,,,,,"",""
+ball,1,17.5,North West,LC Ngoepe,M Prince,GA Stuurman,1,0,,,,,,"",""
+ball,1,17.6,North West,M Prince,LC Ngoepe,GA Stuurman,1,0,,,,,,"",""
+ball,1,18.1,North West,M Prince,LC Ngoepe,A Gqamane,1,0,,,,,,"",""
+ball,1,18.2,North West,LC Ngoepe,M Prince,A Gqamane,0,0,,,,,,"",""
+ball,1,18.3,North West,LC Ngoepe,M Prince,A Gqamane,6,0,,,,,,"",""
+ball,1,18.4,North West,LC Ngoepe,M Prince,A Gqamane,0,0,,,,,,"",""
+ball,1,18.5,North West,LC Ngoepe,M Prince,A Gqamane,1,0,,,,,,"",""
+ball,1,18.6,North West,M Prince,LC Ngoepe,A Gqamane,6,0,,,,,,"",""
+ball,1,19.1,North West,LC Ngoepe,M Prince,GA Stuurman,1,0,,,,,,"",""
+ball,1,19.2,North West,M Prince,LC Ngoepe,GA Stuurman,0,1,,,,1,,"",""
+ball,1,19.3,North West,LC Ngoepe,M Prince,GA Stuurman,0,0,,,,,,bowled,LC Ngoepe
+ball,1,19.4,North West,M Jansen,M Prince,GA Stuurman,2,0,,,,,,"",""
+ball,1,19.5,North West,M Jansen,M Prince,GA Stuurman,0,0,,,,,,caught,M Jansen
+ball,1,19.6,North West,D Jansen,M Prince,GA Stuurman,1,0,,,,,,run out,D Jansen
+ball,2,0.1,Boland,PJ Malan,G Roelofsen,M Jansen,0,0,,,,,,"",""
+ball,2,0.2,Boland,PJ Malan,G Roelofsen,M Jansen,0,0,,,,,,"",""
+ball,2,0.3,Boland,PJ Malan,G Roelofsen,M Jansen,0,0,,,,,,"",""
+ball,2,0.4,Boland,PJ Malan,G Roelofsen,M Jansen,0,0,,,,,,"",""
+ball,2,0.5,Boland,PJ Malan,G Roelofsen,M Jansen,1,0,,,,,,"",""
+ball,2,0.6,Boland,G Roelofsen,PJ Malan,M Jansen,1,0,,,,,,"",""
+ball,2,1.1,Boland,G Roelofsen,PJ Malan,K Mungroo,0,1,1,,,,,"",""
+ball,2,1.2,Boland,G Roelofsen,PJ Malan,K Mungroo,4,0,,,,,,"",""
+ball,2,1.3,Boland,G Roelofsen,PJ Malan,K Mungroo,1,0,,,,,,"",""
+ball,2,1.4,Boland,PJ Malan,G Roelofsen,K Mungroo,1,0,,,,,,"",""
+ball,2,1.5,Boland,G Roelofsen,PJ Malan,K Mungroo,1,0,,,,,,"",""
+ball,2,1.6,Boland,PJ Malan,G Roelofsen,K Mungroo,0,0,,,,,,"",""
+ball,2,1.7,Boland,PJ Malan,G Roelofsen,K Mungroo,4,0,,,,,,"",""
+ball,2,2.1,Boland,G Roelofsen,PJ Malan,M Jansen,1,1,,1,,,,"",""
+ball,2,2.2,Boland,PJ Malan,G Roelofsen,M Jansen,1,0,,,,,,"",""
+ball,2,2.3,Boland,G Roelofsen,PJ Malan,M Jansen,1,0,,,,,,"",""
+ball,2,2.4,Boland,PJ Malan,G Roelofsen,M Jansen,4,0,,,,,,"",""
+ball,2,2.5,Boland,PJ Malan,G Roelofsen,M Jansen,0,0,,,,,,"",""
+ball,2,2.6,Boland,PJ Malan,G Roelofsen,M Jansen,4,0,,,,,,"",""
+ball,2,2.7,Boland,PJ Malan,G Roelofsen,M Jansen,0,0,,,,,,"",""
+ball,2,3.1,Boland,G Roelofsen,PJ Malan,LC Ngoepe,1,0,,,,,,"",""
+ball,2,3.2,Boland,PJ Malan,G Roelofsen,LC Ngoepe,0,0,,,,,,"",""
+ball,2,3.3,Boland,PJ Malan,G Roelofsen,LC Ngoepe,0,0,,,,,,caught and bowled,PJ Malan
+ball,2,3.4,Boland,G Kaplan,G Roelofsen,LC Ngoepe,1,0,,,,,,"",""
+ball,2,3.5,Boland,G Roelofsen,G Kaplan,LC Ngoepe,0,0,,,,,,"",""
+ball,2,3.6,Boland,G Roelofsen,G Kaplan,LC Ngoepe,1,0,,,,,,"",""
+ball,2,4.1,Boland,G Roelofsen,G Kaplan,D Jansen,0,0,,,,,,"",""
+ball,2,4.2,Boland,G Roelofsen,G Kaplan,D Jansen,1,0,,,,,,"",""
+ball,2,4.3,Boland,G Kaplan,G Roelofsen,D Jansen,0,4,,,,4,,"",""
+ball,2,4.4,Boland,G Kaplan,G Roelofsen,D Jansen,2,0,,,,,,"",""
+ball,2,4.5,Boland,G Kaplan,G Roelofsen,D Jansen,4,0,,,,,,"",""
+ball,2,4.6,Boland,G Kaplan,G Roelofsen,D Jansen,4,0,,,,,,"",""
+ball,2,5.1,Boland,G Roelofsen,G Kaplan,K Mungroo,1,0,,,,,,"",""
+ball,2,5.2,Boland,G Kaplan,G Roelofsen,K Mungroo,0,0,,,,,,"",""
+ball,2,5.3,Boland,G Kaplan,G Roelofsen,K Mungroo,0,0,,,,,,"",""
+ball,2,5.4,Boland,G Kaplan,G Roelofsen,K Mungroo,1,0,,,,,,"",""
+ball,2,5.5,Boland,G Roelofsen,G Kaplan,K Mungroo,0,0,,,,,,"",""
+ball,2,5.6,Boland,G Roelofsen,G Kaplan,K Mungroo,0,0,,,,,,"",""
+ball,2,6.1,Boland,G Kaplan,G Roelofsen,A Cloete,1,0,,,,,,"",""
+ball,2,6.2,Boland,G Roelofsen,G Kaplan,A Cloete,0,1,1,,,,,"",""
+ball,2,6.3,Boland,G Roelofsen,G Kaplan,A Cloete,0,0,,,,,,"",""
+ball,2,6.4,Boland,G Roelofsen,G Kaplan,A Cloete,1,0,,,,,,"",""
+ball,2,6.5,Boland,G Kaplan,G Roelofsen,A Cloete,0,0,,,,,,"",""
+ball,2,6.6,Boland,G Kaplan,G Roelofsen,A Cloete,1,0,,,,,,"",""
+ball,2,6.7,Boland,G Roelofsen,G Kaplan,A Cloete,1,0,,,,,,"",""
+ball,2,7.1,Boland,G Roelofsen,G Kaplan,C Seleka,2,0,,,,,,"",""
+ball,2,7.2,Boland,G Roelofsen,G Kaplan,C Seleka,0,2,2,,,,,"",""
+ball,2,7.3,Boland,G Kaplan,G Roelofsen,C Seleka,1,0,,,,,,"",""
+ball,2,7.4,Boland,G Roelofsen,G Kaplan,C Seleka,1,0,,,,,,"",""
+ball,2,7.5,Boland,G Kaplan,G Roelofsen,C Seleka,1,0,,,,,,"",""
+ball,2,7.6,Boland,G Roelofsen,G Kaplan,C Seleka,1,0,,,,,,"",""
+ball,2,7.7,Boland,G Kaplan,G Roelofsen,C Seleka,1,0,,,,,,"",""
+ball,2,8.1,Boland,G Kaplan,G Roelofsen,A Cloete,1,0,,,,,,"",""
+ball,2,8.2,Boland,G Roelofsen,G Kaplan,A Cloete,1,0,,,,,,"",""
+ball,2,8.3,Boland,G Kaplan,G Roelofsen,A Cloete,1,0,,,,,,"",""
+ball,2,8.4,Boland,G Roelofsen,G Kaplan,A Cloete,6,0,,,,,,"",""
+ball,2,8.5,Boland,G Roelofsen,G Kaplan,A Cloete,1,0,,,,,,"",""
+ball,2,8.6,Boland,G Kaplan,G Roelofsen,A Cloete,2,0,,,,,,"",""
+ball,2,9.1,Boland,G Roelofsen,G Kaplan,C Seleka,4,0,,,,,,"",""
+ball,2,9.2,Boland,G Roelofsen,G Kaplan,C Seleka,0,0,,,,,,"",""
+ball,2,9.3,Boland,G Roelofsen,G Kaplan,C Seleka,1,0,,,,,,"",""
+ball,2,9.4,Boland,G Kaplan,G Roelofsen,C Seleka,1,0,,,,,,"",""
+ball,2,9.5,Boland,G Roelofsen,G Kaplan,C Seleka,1,0,,,,,,"",""
+ball,2,9.6,Boland,G Kaplan,G Roelofsen,C Seleka,0,0,,,,,,"",""
+ball,2,10.1,Boland,G Roelofsen,G Kaplan,D Jansen,2,1,,1,,,,"",""
+ball,2,10.2,Boland,G Roelofsen,G Kaplan,D Jansen,1,0,,,,,,"",""
+ball,2,10.3,Boland,G Kaplan,G Roelofsen,D Jansen,0,1,1,,,,,"",""
+ball,2,10.4,Boland,G Kaplan,G Roelofsen,D Jansen,1,0,,,,,,"",""
+ball,2,10.5,Boland,G Roelofsen,G Kaplan,D Jansen,0,0,,,,,,"",""
+ball,2,10.6,Boland,G Roelofsen,G Kaplan,D Jansen,6,0,,,,,,"",""
+ball,2,10.7,Boland,G Roelofsen,G Kaplan,D Jansen,4,0,,,,,,"",""
+ball,2,10.8,Boland,G Roelofsen,G Kaplan,D Jansen,0,0,,,,,,"",""
+ball,2,11.1,Boland,G Kaplan,G Roelofsen,K Mungroo,1,0,,,,,,"",""
+ball,2,11.2,Boland,G Roelofsen,G Kaplan,K Mungroo,0,1,,,,1,,"",""
+ball,2,11.3,Boland,G Kaplan,G Roelofsen,K Mungroo,1,0,,,,,,"",""
+ball,2,11.4,Boland,G Roelofsen,G Kaplan,K Mungroo,1,0,,,,,,"",""
+ball,2,11.5,Boland,G Kaplan,G Roelofsen,K Mungroo,1,0,,,,,,"",""
+ball,2,11.6,Boland,G Roelofsen,G Kaplan,K Mungroo,0,0,,,,,,"",""
+ball,2,12.1,Boland,G Kaplan,G Roelofsen,M Jansen,2,0,,,,,,"",""
+ball,2,12.2,Boland,G Kaplan,G Roelofsen,M Jansen,2,0,,,,,,"",""
+ball,2,12.3,Boland,G Kaplan,G Roelofsen,M Jansen,0,0,,,,,,"",""
+ball,2,12.4,Boland,G Kaplan,G Roelofsen,M Jansen,4,0,,,,,,"",""
+ball,2,12.5,Boland,G Kaplan,G Roelofsen,M Jansen,0,0,,,,,,caught and bowled,G Kaplan
+ball,2,12.6,Boland,C Fortuin,G Roelofsen,M Jansen,1,0,,,,,,"",""
+ball,2,13.1,Boland,C Fortuin,G Roelofsen,LC Ngoepe,4,0,,,,,,"",""
+ball,2,13.2,Boland,C Fortuin,G Roelofsen,LC Ngoepe,1,0,,,,,,"",""
+ball,2,13.3,Boland,G Roelofsen,C Fortuin,LC Ngoepe,6,0,,,,,,"",""
+ball,2,13.4,Boland,G Roelofsen,C Fortuin,LC Ngoepe,0,0,,,,,,"",""
+ball,2,13.5,Boland,G Roelofsen,C Fortuin,LC Ngoepe,1,0,,,,,,"",""
+ball,2,13.6,Boland,C Fortuin,G Roelofsen,LC Ngoepe,0,0,,,,,,bowled,C Fortuin
+ball,2,14.1,Boland,G Roelofsen,FD Adams,C Seleka,2,0,,,,,,"",""
+ball,2,14.2,Boland,G Roelofsen,FD Adams,C Seleka,6,0,,,,,,"",""
+ball,2,14.3,Boland,G Roelofsen,FD Adams,C Seleka,1,0,,,,,,"",""
+ball,2,14.4,Boland,FD Adams,G Roelofsen,C Seleka,1,0,,,,,,"",""
+ball,2,14.5,Boland,G Roelofsen,FD Adams,C Seleka,0,0,,,,,,bowled,G Roelofsen
+ball,2,14.6,Boland,M Copeland,FD Adams,C Seleka,0,0,,,,,,"",""
+ball,2,15.1,Boland,FD Adams,M Copeland,A Cloete,1,0,,,,,,"",""
+ball,2,15.2,Boland,M Copeland,FD Adams,A Cloete,0,0,,,,,,"",""
+ball,2,15.3,Boland,M Copeland,FD Adams,A Cloete,0,0,,,,,,"",""
+ball,2,15.4,Boland,M Copeland,FD Adams,A Cloete,1,0,,,,,,"",""
+ball,2,15.5,Boland,FD Adams,M Copeland,A Cloete,1,0,,,,,,"",""
+ball,2,15.6,Boland,M Copeland,FD Adams,A Cloete,4,0,,,,,,"",""
+ball,2,16.1,Boland,FD Adams,M Copeland,C Seleka,1,0,,,,,,"",""
+ball,2,16.2,Boland,M Copeland,FD Adams,C Seleka,2,0,,,,,,"",""
+ball,2,16.3,Boland,M Copeland,FD Adams,C Seleka,0,0,,,,,,"",""
+ball,2,16.4,Boland,M Copeland,FD Adams,C Seleka,2,0,,,,,,"",""
+ball,2,16.5,Boland,M Copeland,FD Adams,C Seleka,1,0,,,,,,"",""
+ball,2,16.6,Boland,FD Adams,M Copeland,C Seleka,4,0,,,,,,"",""
+ball,2,17.1,Boland,M Copeland,FD Adams,K Mungroo,1,0,,,,,,"",""
+ball,2,17.2,Boland,FD Adams,M Copeland,K Mungroo,0,0,,,,,,lbw,FD Adams
+ball,2,17.3,Boland,KJ Dudgeon,M Copeland,K Mungroo,1,0,,,,,,"",""
+ball,2,17.4,Boland,M Copeland,KJ Dudgeon,K Mungroo,1,0,,,,,,"",""
+ball,2,17.5,Boland,KJ Dudgeon,M Copeland,K Mungroo,0,0,,,,,,"",""
+ball,2,17.6,Boland,KJ Dudgeon,M Copeland,K Mungroo,1,0,,,,,,"",""
+ball,2,18.1,Boland,KJ Dudgeon,M Copeland,M Jansen,4,0,,,,,,"",""
+ball,2,18.2,Boland,KJ Dudgeon,M Copeland,M Jansen,2,0,,,,,,"",""
+ball,2,18.3,Boland,KJ Dudgeon,M Copeland,M Jansen,1,0,,,,,,"",""
+ball,2,18.4,Boland,M Copeland,KJ Dudgeon,M Jansen,2,0,,,,,,"",""
+ball,2,18.5,Boland,M Copeland,KJ Dudgeon,M Jansen,1,0,,,,,,"",""
+ball,2,18.6,Boland,KJ Dudgeon,M Copeland,M Jansen,2,0,,,,,,"",""
+ball,2,19.1,Boland,M Copeland,KJ Dudgeon,A Cloete,1,0,,,,,,"",""
+ball,2,19.2,Boland,KJ Dudgeon,M Copeland,A Cloete,4,0,,,,,,"",""
+ball,2,19.3,Boland,KJ Dudgeon,M Copeland,A Cloete,2,0,,,,,,"",""
+ball,2,19.4,Boland,KJ Dudgeon,M Copeland,A Cloete,0,0,,,,,,caught,KJ Dudgeon
+ball,2,19.5,Boland,A Gqamane,M Copeland,A Cloete,0,0,,,,,,bowled,A Gqamane
+ball,2,19.6,Boland,I Manack,M Copeland,A Cloete,2,0,,,,,,"",""

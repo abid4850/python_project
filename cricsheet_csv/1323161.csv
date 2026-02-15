@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Trinbago Knight Riders
+info,team,Guyana Amazon Warriors
+info,gender,male
+info,season,2022
+info,date,2022/09/14
+info,event,Caribbean Premier League
+info,match_number,18
+info,venue,"Queen's Park Oval, Port of Spain, Trinidad"
+info,city,Port of Spain
+info,toss_winner,Guyana Amazon Warriors
+info,toss_decision,field
+info,player_of_match,SP Narine
+info,umpire,LS Reifer
+info,umpire,N Duguid
+info,reserve_umpire,Verdayne Smith
+info,tv_umpire,DK Butler
+info,match_referee,Reon King
+info,winner,Trinbago Knight Riders
+info,winner_runs,26
+info,player,Trinbago Knight Riders,T Webster
+info,player,Trinbago Knight Riders,N Pooran
+info,player,Trinbago Knight Riders,C Munro
+info,player,Trinbago Knight Riders,TL Seifert
+info,player,Trinbago Knight Riders,AD Russell
+info,player,Trinbago Knight Riders,SP Narine
+info,player,Trinbago Knight Riders,KA Pollard
+info,player,Trinbago Knight Riders,AJ Hosein
+info,player,Trinbago Knight Riders,R Rampaul
+info,player,Trinbago Knight Riders,DM Dupavillon
+info,player,Trinbago Knight Riders,JNT Seales
+info,player,Guyana Amazon Warriors,PR Stirling
+info,player,Guyana Amazon Warriors,C Hemraj
+info,player,Guyana Amazon Warriors,CA Ingram
+info,player,Guyana Amazon Warriors,H Klaasen
+info,player,Guyana Amazon Warriors,SO Hetmyer
+info,player,Guyana Amazon Warriors,KMA Paul
+info,player,Guyana Amazon Warriors,R Shepherd
+info,player,Guyana Amazon Warriors,OF Smith
+info,player,Guyana Amazon Warriors,JA Sinclair
+info,player,Guyana Amazon Warriors,Imran Tahir
+info,player,Guyana Amazon Warriors,T Shamsi
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,C Hemraj,9d450c28
+info,registry,people,C Munro,af2c687b
+info,registry,people,CA Ingram,c995d726
+info,registry,people,DK Butler,671398e3
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JA Sinclair,43057192
+info,registry,people,JNT Seales,ded9ff1e
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KMA Paul,75224f22
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,N Duguid,64495506
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,OF Smith,23cca426
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SP Narine,9d430b40
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Webster,ef39fc7f
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,Verdayne Smith,6e1a8b04
+ball,1,0.1,Trinbago Knight Riders,T Webster,N Pooran,R Shepherd,0,0,,,,,,lbw,T Webster
+ball,1,0.2,Trinbago Knight Riders,C Munro,N Pooran,R Shepherd,0,0,,,,,,"",""
+ball,1,0.3,Trinbago Knight Riders,C Munro,N Pooran,R Shepherd,0,4,,,,4,,"",""
+ball,1,0.4,Trinbago Knight Riders,C Munro,N Pooran,R Shepherd,4,0,,,,,,"",""
+ball,1,0.5,Trinbago Knight Riders,C Munro,N Pooran,R Shepherd,0,0,,,,,,"",""
+ball,1,0.6,Trinbago Knight Riders,C Munro,N Pooran,R Shepherd,1,0,,,,,,"",""
+ball,1,1.1,Trinbago Knight Riders,C Munro,N Pooran,JA Sinclair,0,0,,,,,,"",""
+ball,1,1.2,Trinbago Knight Riders,C Munro,N Pooran,JA Sinclair,4,0,,,,,,"",""
+ball,1,1.3,Trinbago Knight Riders,C Munro,N Pooran,JA Sinclair,1,0,,,,,,"",""
+ball,1,1.4,Trinbago Knight Riders,N Pooran,C Munro,JA Sinclair,1,0,,,,,,"",""
+ball,1,1.5,Trinbago Knight Riders,C Munro,N Pooran,JA Sinclair,0,0,,,,,,"",""
+ball,1,1.6,Trinbago Knight Riders,C Munro,N Pooran,JA Sinclair,2,0,,,,,,"",""
+ball,1,2.1,Trinbago Knight Riders,N Pooran,C Munro,R Shepherd,4,0,,,,,,"",""
+ball,1,2.2,Trinbago Knight Riders,N Pooran,C Munro,R Shepherd,0,0,,,,,,"",""
+ball,1,2.3,Trinbago Knight Riders,N Pooran,C Munro,R Shepherd,4,0,,,,,,"",""
+ball,1,2.4,Trinbago Knight Riders,N Pooran,C Munro,R Shepherd,0,0,,,,,,"",""
+ball,1,2.5,Trinbago Knight Riders,N Pooran,C Munro,R Shepherd,6,0,,,,,,"",""
+ball,1,2.6,Trinbago Knight Riders,N Pooran,C Munro,R Shepherd,0,0,,,,,,caught,N Pooran
+ball,1,3.1,Trinbago Knight Riders,C Munro,TL Seifert,JA Sinclair,4,0,,,,,,"",""
+ball,1,3.2,Trinbago Knight Riders,C Munro,TL Seifert,JA Sinclair,1,0,,,,,,"",""
+ball,1,3.3,Trinbago Knight Riders,TL Seifert,C Munro,JA Sinclair,0,0,,,,,,"",""
+ball,1,3.4,Trinbago Knight Riders,TL Seifert,C Munro,JA Sinclair,0,0,,,,,,"",""
+ball,1,3.5,Trinbago Knight Riders,TL Seifert,C Munro,JA Sinclair,1,0,,,,,,"",""
+ball,1,3.6,Trinbago Knight Riders,C Munro,TL Seifert,JA Sinclair,1,0,,,,,,"",""
+ball,1,4.1,Trinbago Knight Riders,C Munro,TL Seifert,KMA Paul,1,0,,,,,,"",""
+ball,1,4.2,Trinbago Knight Riders,TL Seifert,C Munro,KMA Paul,0,0,,,,,,"",""
+ball,1,4.3,Trinbago Knight Riders,TL Seifert,C Munro,KMA Paul,0,0,,,,,,"",""
+ball,1,4.4,Trinbago Knight Riders,TL Seifert,C Munro,KMA Paul,0,0,,,,,,"",""
+ball,1,4.5,Trinbago Knight Riders,TL Seifert,C Munro,KMA Paul,1,0,,,,,,"",""
+ball,1,4.6,Trinbago Knight Riders,C Munro,TL Seifert,KMA Paul,0,0,,,,,,"",""
+ball,1,5.1,Trinbago Knight Riders,TL Seifert,C Munro,Imran Tahir,0,0,,,,,,"",""
+ball,1,5.2,Trinbago Knight Riders,TL Seifert,C Munro,Imran Tahir,0,0,,,,,,"",""
+ball,1,5.3,Trinbago Knight Riders,TL Seifert,C Munro,Imran Tahir,1,0,,,,,,"",""
+ball,1,5.4,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,0,0,,,,,,"",""
+ball,1,5.5,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,1,0,,,,,,"",""
+ball,1,5.6,Trinbago Knight Riders,TL Seifert,C Munro,Imran Tahir,1,0,,,,,,"",""
+ball,1,6.1,Trinbago Knight Riders,TL Seifert,C Munro,KMA Paul,1,0,,,,,,"",""
+ball,1,6.2,Trinbago Knight Riders,C Munro,TL Seifert,KMA Paul,0,0,,,,,,"",""
+ball,1,6.3,Trinbago Knight Riders,C Munro,TL Seifert,KMA Paul,1,0,,,,,,"",""
+ball,1,6.4,Trinbago Knight Riders,TL Seifert,C Munro,KMA Paul,1,0,,,,,,"",""
+ball,1,6.5,Trinbago Knight Riders,C Munro,TL Seifert,KMA Paul,0,0,,,,,,"",""
+ball,1,6.6,Trinbago Knight Riders,C Munro,TL Seifert,KMA Paul,1,0,,,,,,"",""
+ball,1,7.1,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.2,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.3,Trinbago Knight Riders,TL Seifert,C Munro,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.4,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.5,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,2,0,,,,,,"",""
+ball,1,7.6,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,1,0,,,,,,"",""
+ball,1,8.1,Trinbago Knight Riders,C Munro,TL Seifert,OF Smith,1,0,,,,,,"",""
+ball,1,8.2,Trinbago Knight Riders,TL Seifert,C Munro,OF Smith,1,0,,,,,,"",""
+ball,1,8.3,Trinbago Knight Riders,C Munro,TL Seifert,OF Smith,4,0,,,,,,"",""
+ball,1,8.4,Trinbago Knight Riders,C Munro,TL Seifert,OF Smith,1,0,,,,,,"",""
+ball,1,8.5,Trinbago Knight Riders,TL Seifert,C Munro,OF Smith,4,0,,,,,,"",""
+ball,1,8.6,Trinbago Knight Riders,TL Seifert,C Munro,OF Smith,0,1,1,,,,,"",""
+ball,1,8.7,Trinbago Knight Riders,TL Seifert,C Munro,OF Smith,1,0,,,,,,"",""
+ball,1,9.1,Trinbago Knight Riders,TL Seifert,C Munro,T Shamsi,1,0,,,,,,"",""
+ball,1,9.2,Trinbago Knight Riders,C Munro,TL Seifert,T Shamsi,1,0,,,,,,"",""
+ball,1,9.3,Trinbago Knight Riders,TL Seifert,C Munro,T Shamsi,1,0,,,,,,"",""
+ball,1,9.4,Trinbago Knight Riders,C Munro,TL Seifert,T Shamsi,1,0,,,,,,"",""
+ball,1,9.5,Trinbago Knight Riders,TL Seifert,C Munro,T Shamsi,1,0,,,,,,"",""
+ball,1,9.6,Trinbago Knight Riders,C Munro,TL Seifert,T Shamsi,1,0,,,,,,"",""
+ball,1,10.1,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,1,0,,,,,,"",""
+ball,1,10.2,Trinbago Knight Riders,TL Seifert,C Munro,Imran Tahir,1,0,,,,,,"",""
+ball,1,10.3,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,1,0,,,,,,"",""
+ball,1,10.4,Trinbago Knight Riders,TL Seifert,C Munro,Imran Tahir,1,0,,,,,,"",""
+ball,1,10.5,Trinbago Knight Riders,C Munro,TL Seifert,Imran Tahir,1,0,,,,,,"",""
+ball,1,10.6,Trinbago Knight Riders,TL Seifert,C Munro,Imran Tahir,1,0,,,,,,"",""
+ball,1,11.1,Trinbago Knight Riders,TL Seifert,C Munro,T Shamsi,1,0,,,,,,"",""
+ball,1,11.2,Trinbago Knight Riders,C Munro,TL Seifert,T Shamsi,4,0,,,,,,"",""
+ball,1,11.3,Trinbago Knight Riders,C Munro,TL Seifert,T Shamsi,0,0,,,,,,caught,C Munro
+ball,1,11.4,Trinbago Knight Riders,AD Russell,TL Seifert,T Shamsi,1,0,,,,,,"",""
+ball,1,11.5,Trinbago Knight Riders,TL Seifert,AD Russell,T Shamsi,0,0,,,,,,"",""
+ball,1,11.6,Trinbago Knight Riders,TL Seifert,AD Russell,T Shamsi,0,0,,,,,,"",""
+ball,1,12.1,Trinbago Knight Riders,AD Russell,TL Seifert,Imran Tahir,2,0,,,,,,"",""
+ball,1,12.2,Trinbago Knight Riders,AD Russell,TL Seifert,Imran Tahir,0,0,,,,,,caught,AD Russell
+ball,1,12.3,Trinbago Knight Riders,TL Seifert,SP Narine,Imran Tahir,1,0,,,,,,"",""
+ball,1,12.4,Trinbago Knight Riders,SP Narine,TL Seifert,Imran Tahir,1,0,,,,,,"",""
+ball,1,12.5,Trinbago Knight Riders,TL Seifert,SP Narine,Imran Tahir,1,0,,,,,,"",""
+ball,1,12.6,Trinbago Knight Riders,SP Narine,TL Seifert,Imran Tahir,0,0,,,,,,"",""
+ball,1,13.1,Trinbago Knight Riders,TL Seifert,SP Narine,JA Sinclair,1,0,,,,,,"",""
+ball,1,13.2,Trinbago Knight Riders,SP Narine,TL Seifert,JA Sinclair,1,0,,,,,,"",""
+ball,1,13.3,Trinbago Knight Riders,TL Seifert,SP Narine,JA Sinclair,1,0,,,,,,"",""
+ball,1,13.4,Trinbago Knight Riders,SP Narine,TL Seifert,JA Sinclair,0,0,,,,,,"",""
+ball,1,13.5,Trinbago Knight Riders,SP Narine,TL Seifert,JA Sinclair,6,0,,,,,,"",""
+ball,1,13.6,Trinbago Knight Riders,SP Narine,TL Seifert,JA Sinclair,2,0,,,,,,"",""
+ball,1,14.1,Trinbago Knight Riders,TL Seifert,SP Narine,OF Smith,1,0,,,,,,"",""
+ball,1,14.2,Trinbago Knight Riders,SP Narine,TL Seifert,OF Smith,1,0,,,,,,"",""
+ball,1,14.3,Trinbago Knight Riders,TL Seifert,SP Narine,OF Smith,1,0,,,,,,"",""
+ball,1,14.4,Trinbago Knight Riders,SP Narine,TL Seifert,OF Smith,1,0,,,,,,"",""
+ball,1,14.5,Trinbago Knight Riders,TL Seifert,SP Narine,OF Smith,1,0,,,,,,"",""
+ball,1,14.6,Trinbago Knight Riders,SP Narine,TL Seifert,OF Smith,0,1,,,1,,,"",""
+ball,1,15.1,Trinbago Knight Riders,SP Narine,TL Seifert,R Shepherd,0,0,,,,,,"",""
+ball,1,15.2,Trinbago Knight Riders,SP Narine,TL Seifert,R Shepherd,1,0,,,,,,"",""
+ball,1,15.3,Trinbago Knight Riders,TL Seifert,SP Narine,R Shepherd,0,0,,,,,,"",""
+ball,1,15.4,Trinbago Knight Riders,TL Seifert,SP Narine,R Shepherd,0,0,,,,,,caught,TL Seifert
+ball,1,15.5,Trinbago Knight Riders,SP Narine,KA Pollard,R Shepherd,1,0,,,,,,"",""
+ball,1,15.6,Trinbago Knight Riders,KA Pollard,SP Narine,R Shepherd,1,0,,,,,,"",""
+ball,1,16.1,Trinbago Knight Riders,KA Pollard,SP Narine,KMA Paul,1,0,,,,,,"",""
+ball,1,16.2,Trinbago Knight Riders,SP Narine,KA Pollard,KMA Paul,2,0,,,,,,"",""
+ball,1,16.3,Trinbago Knight Riders,SP Narine,KA Pollard,KMA Paul,0,1,1,,,,,"",""
+ball,1,16.4,Trinbago Knight Riders,SP Narine,KA Pollard,KMA Paul,1,0,,,,,,"",""
+ball,1,16.5,Trinbago Knight Riders,KA Pollard,SP Narine,KMA Paul,0,0,,,,,,"",""
+ball,1,16.6,Trinbago Knight Riders,KA Pollard,SP Narine,KMA Paul,0,0,,,,,,"",""
+ball,1,16.7,Trinbago Knight Riders,KA Pollard,SP Narine,KMA Paul,1,0,,,,,,"",""
+ball,1,17.1,Trinbago Knight Riders,KA Pollard,SP Narine,T Shamsi,6,0,,,,,,"",""
+ball,1,17.2,Trinbago Knight Riders,KA Pollard,SP Narine,T Shamsi,0,0,,,,,,"",""
+ball,1,17.3,Trinbago Knight Riders,KA Pollard,SP Narine,T Shamsi,6,0,,,,,,"",""
+ball,1,17.4,Trinbago Knight Riders,KA Pollard,SP Narine,T Shamsi,1,0,,,,,,"",""
+ball,1,17.5,Trinbago Knight Riders,SP Narine,KA Pollard,T Shamsi,1,0,,,,,,"",""
+ball,1,17.6,Trinbago Knight Riders,KA Pollard,SP Narine,T Shamsi,0,0,,,,,,bowled,KA Pollard
+ball,1,18.1,Trinbago Knight Riders,SP Narine,AJ Hosein,KMA Paul,6,0,,,,,,"",""
+ball,1,18.2,Trinbago Knight Riders,SP Narine,AJ Hosein,KMA Paul,1,0,,,,,,"",""
+ball,1,18.3,Trinbago Knight Riders,AJ Hosein,SP Narine,KMA Paul,0,1,,,,1,,"",""
+ball,1,18.4,Trinbago Knight Riders,SP Narine,AJ Hosein,KMA Paul,0,1,1,,,,,"",""
+ball,1,18.5,Trinbago Knight Riders,SP Narine,AJ Hosein,KMA Paul,0,1,1,,,,,"",""
+ball,1,18.6,Trinbago Knight Riders,SP Narine,AJ Hosein,KMA Paul,1,0,,,,,,"",""
+ball,1,18.7,Trinbago Knight Riders,AJ Hosein,SP Narine,KMA Paul,0,1,,,,1,,"",""
+ball,1,18.8,Trinbago Knight Riders,SP Narine,AJ Hosein,KMA Paul,0,0,,,,,,"",""
+ball,1,19.1,Trinbago Knight Riders,AJ Hosein,SP Narine,T Shamsi,0,1,1,,,,,"",""
+ball,1,19.2,Trinbago Knight Riders,AJ Hosein,SP Narine,T Shamsi,1,0,,,,,,"",""
+ball,1,19.3,Trinbago Knight Riders,SP Narine,AJ Hosein,T Shamsi,0,0,,,,,,stumped,SP Narine
+ball,1,19.4,Trinbago Knight Riders,R Rampaul,AJ Hosein,T Shamsi,1,0,,,,,,"",""
+ball,1,19.5,Trinbago Knight Riders,AJ Hosein,R Rampaul,T Shamsi,0,0,,,,,,caught,AJ Hosein
+ball,1,19.6,Trinbago Knight Riders,R Rampaul,DM Dupavillon,T Shamsi,6,0,,,,,,"",""
+ball,1,19.7,Trinbago Knight Riders,R Rampaul,DM Dupavillon,T Shamsi,1,0,,,,,,"",""
+ball,2,0.1,Guyana Amazon Warriors,PR Stirling,C Hemraj,DM Dupavillon,0,0,,,,,,"",""
+ball,2,0.2,Guyana Amazon Warriors,PR Stirling,C Hemraj,DM Dupavillon,0,0,,,,,,"",""
+ball,2,0.3,Guyana Amazon Warriors,PR Stirling,C Hemraj,DM Dupavillon,0,0,,,,,,caught,PR Stirling
+ball,2,0.4,Guyana Amazon Warriors,C Hemraj,CA Ingram,DM Dupavillon,1,0,,,,,,"",""
+ball,2,0.5,Guyana Amazon Warriors,CA Ingram,C Hemraj,DM Dupavillon,0,0,,,,,,"",""
+ball,2,0.6,Guyana Amazon Warriors,CA Ingram,C Hemraj,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.1,Guyana Amazon Warriors,C Hemraj,CA Ingram,JNT Seales,0,1,1,,,,,"",""
+ball,2,1.2,Guyana Amazon Warriors,C Hemraj,CA Ingram,JNT Seales,0,0,,,,,,"",""
+ball,2,1.3,Guyana Amazon Warriors,C Hemraj,CA Ingram,JNT Seales,4,0,,,,,,"",""
+ball,2,1.4,Guyana Amazon Warriors,C Hemraj,CA Ingram,JNT Seales,0,1,1,,,,,"",""
+ball,2,1.5,Guyana Amazon Warriors,C Hemraj,CA Ingram,JNT Seales,1,0,,,,,,"",""
+ball,2,1.6,Guyana Amazon Warriors,CA Ingram,C Hemraj,JNT Seales,1,0,,,,,,"",""
+ball,2,1.7,Guyana Amazon Warriors,C Hemraj,CA Ingram,JNT Seales,0,0,,,,,,"",""
+ball,2,1.8,Guyana Amazon Warriors,C Hemraj,CA Ingram,JNT Seales,1,0,,,,,,"",""
+ball,2,2.1,Guyana Amazon Warriors,C Hemraj,CA Ingram,DM Dupavillon,1,0,,,,,,"",""
+ball,2,2.2,Guyana Amazon Warriors,CA Ingram,C Hemraj,DM Dupavillon,1,0,,,,,,"",""
+ball,2,2.3,Guyana Amazon Warriors,C Hemraj,CA Ingram,DM Dupavillon,0,0,,,,,,"",""
+ball,2,2.4,Guyana Amazon Warriors,C Hemraj,CA Ingram,DM Dupavillon,4,0,,,,,,"",""
+ball,2,2.5,Guyana Amazon Warriors,C Hemraj,CA Ingram,DM Dupavillon,4,0,,,,,,"",""
+ball,2,2.6,Guyana Amazon Warriors,C Hemraj,CA Ingram,DM Dupavillon,1,0,,,,,,"",""
+ball,2,3.1,Guyana Amazon Warriors,C Hemraj,CA Ingram,SP Narine,1,0,,,,,,"",""
+ball,2,3.2,Guyana Amazon Warriors,CA Ingram,C Hemraj,SP Narine,0,0,,,,,,"",""
+ball,2,3.3,Guyana Amazon Warriors,CA Ingram,C Hemraj,SP Narine,0,0,,,,,,"",""
+ball,2,3.4,Guyana Amazon Warriors,CA Ingram,C Hemraj,SP Narine,1,0,,,,,,"",""
+ball,2,3.5,Guyana Amazon Warriors,C Hemraj,CA Ingram,SP Narine,1,0,,,,,,"",""
+ball,2,3.6,Guyana Amazon Warriors,CA Ingram,C Hemraj,SP Narine,0,0,,,,,,"",""
+ball,2,4.1,Guyana Amazon Warriors,C Hemraj,CA Ingram,R Rampaul,4,0,,,,,,"",""
+ball,2,4.2,Guyana Amazon Warriors,C Hemraj,CA Ingram,R Rampaul,1,0,,,,,,"",""
+ball,2,4.3,Guyana Amazon Warriors,CA Ingram,C Hemraj,R Rampaul,1,0,,,,,,"",""
+ball,2,4.4,Guyana Amazon Warriors,C Hemraj,CA Ingram,R Rampaul,4,0,,,,,,"",""
+ball,2,4.5,Guyana Amazon Warriors,C Hemraj,CA Ingram,R Rampaul,0,0,,,,,,caught,C Hemraj
+ball,2,4.6,Guyana Amazon Warriors,H Klaasen,CA Ingram,R Rampaul,1,0,,,,,,"",""
+ball,2,5.1,Guyana Amazon Warriors,H Klaasen,CA Ingram,AJ Hosein,6,0,,,,,,"",""
+ball,2,5.2,Guyana Amazon Warriors,H Klaasen,CA Ingram,AJ Hosein,6,0,,,,,,"",""
+ball,2,5.3,Guyana Amazon Warriors,H Klaasen,CA Ingram,AJ Hosein,0,0,,,,,,"",""
+ball,2,5.4,Guyana Amazon Warriors,H Klaasen,CA Ingram,AJ Hosein,6,0,,,,,,"",""
+ball,2,5.5,Guyana Amazon Warriors,H Klaasen,CA Ingram,AJ Hosein,0,0,,,,,,caught,H Klaasen
+ball,2,5.6,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,AJ Hosein,1,0,,,,,,"",""
+ball,2,6.1,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,R Rampaul,4,0,,,,,,"",""
+ball,2,6.2,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,R Rampaul,1,0,,,,,,"",""
+ball,2,6.3,Guyana Amazon Warriors,CA Ingram,SO Hetmyer,R Rampaul,1,0,,,,,,"",""
+ball,2,6.4,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,R Rampaul,4,0,,,,,,"",""
+ball,2,6.5,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,R Rampaul,0,0,,,,,,"",""
+ball,2,6.6,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,R Rampaul,0,0,,,,,,"",""
+ball,2,7.1,Guyana Amazon Warriors,CA Ingram,SO Hetmyer,SP Narine,1,0,,,,,,"",""
+ball,2,7.2,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,SP Narine,2,0,,,,,,"",""
+ball,2,7.3,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,SP Narine,0,0,,,,,,"",""
+ball,2,7.4,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,SP Narine,0,0,,,,,,"",""
+ball,2,7.5,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,SP Narine,1,0,,,,,,"",""
+ball,2,7.6,Guyana Amazon Warriors,CA Ingram,SO Hetmyer,SP Narine,0,0,,,,,,"",""
+ball,2,8.1,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,C Munro,4,0,,,,,,"",""
+ball,2,8.2,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,C Munro,1,0,,,,,,"",""
+ball,2,8.3,Guyana Amazon Warriors,CA Ingram,SO Hetmyer,C Munro,2,0,,,,,,"",""
+ball,2,8.4,Guyana Amazon Warriors,CA Ingram,SO Hetmyer,C Munro,1,0,,,,,,"",""
+ball,2,8.5,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,C Munro,1,0,,,,,,"",""
+ball,2,8.6,Guyana Amazon Warriors,CA Ingram,SO Hetmyer,C Munro,1,0,,,,,,"",""
+ball,2,9.1,Guyana Amazon Warriors,CA Ingram,SO Hetmyer,AD Russell,1,0,,,,,,"",""
+ball,2,9.2,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,AD Russell,1,0,,,,,,"",""
+ball,2,9.3,Guyana Amazon Warriors,CA Ingram,SO Hetmyer,AD Russell,1,0,,,,,,"",""
+ball,2,9.4,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,AD Russell,0,0,,,,,,"",""
+ball,2,9.5,Guyana Amazon Warriors,SO Hetmyer,CA Ingram,AD Russell,0,0,,,,,,caught,SO Hetmyer
+ball,2,9.6,Guyana Amazon Warriors,CA Ingram,KMA Paul,AD Russell,0,0,,,,,,"",""
+ball,2,10.1,Guyana Amazon Warriors,KMA Paul,CA Ingram,AJ Hosein,0,0,,,,,,bowled,KMA Paul
+ball,2,10.2,Guyana Amazon Warriors,R Shepherd,CA Ingram,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.3,Guyana Amazon Warriors,CA Ingram,R Shepherd,AJ Hosein,1,0,,,,,,"",""
+ball,2,10.4,Guyana Amazon Warriors,R Shepherd,CA Ingram,AJ Hosein,4,0,,,,,,"",""
+ball,2,10.5,Guyana Amazon Warriors,R Shepherd,CA Ingram,AJ Hosein,0,0,,,,,,"",""
+ball,2,10.6,Guyana Amazon Warriors,R Shepherd,CA Ingram,AJ Hosein,1,0,,,,,,"",""
+ball,2,11.1,Guyana Amazon Warriors,R Shepherd,CA Ingram,SP Narine,0,0,,,,,,"",""
+ball,2,11.2,Guyana Amazon Warriors,R Shepherd,CA Ingram,SP Narine,0,0,,,,,,"",""
+ball,2,11.3,Guyana Amazon Warriors,R Shepherd,CA Ingram,SP Narine,1,0,,,,,,"",""
+ball,2,11.4,Guyana Amazon Warriors,CA Ingram,R Shepherd,SP Narine,0,0,,,,,,caught,CA Ingram
+ball,2,11.5,Guyana Amazon Warriors,OF Smith,R Shepherd,SP Narine,0,0,,,,,,"",""
+ball,2,11.6,Guyana Amazon Warriors,OF Smith,R Shepherd,SP Narine,0,0,,,,,,bowled,OF Smith
+ball,2,12.1,Guyana Amazon Warriors,R Shepherd,JA Sinclair,AJ Hosein,0,0,,,,,,"",""
+ball,2,12.2,Guyana Amazon Warriors,R Shepherd,JA Sinclair,AJ Hosein,0,0,,,,,,"",""
+ball,2,12.3,Guyana Amazon Warriors,R Shepherd,JA Sinclair,AJ Hosein,0,0,,,,,,"",""
+ball,2,12.4,Guyana Amazon Warriors,R Shepherd,JA Sinclair,AJ Hosein,0,0,,,,,,"",""
+ball,2,12.5,Guyana Amazon Warriors,R Shepherd,JA Sinclair,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.6,Guyana Amazon Warriors,JA Sinclair,R Shepherd,AJ Hosein,1,0,,,,,,"",""
+ball,2,13.1,Guyana Amazon Warriors,JA Sinclair,R Shepherd,AD Russell,1,0,,,,,,"",""
+ball,2,13.2,Guyana Amazon Warriors,R Shepherd,JA Sinclair,AD Russell,0,1,1,,,,,"",""
+ball,2,13.3,Guyana Amazon Warriors,R Shepherd,JA Sinclair,AD Russell,0,0,,,,,,"",""
+ball,2,13.4,Guyana Amazon Warriors,R Shepherd,JA Sinclair,AD Russell,0,0,,,,,,bowled,R Shepherd
+ball,2,13.5,Guyana Amazon Warriors,Imran Tahir,JA Sinclair,AD Russell,0,0,,,,,,"",""
+ball,2,13.6,Guyana Amazon Warriors,Imran Tahir,JA Sinclair,AD Russell,4,0,,,,,,"",""
+ball,2,13.7,Guyana Amazon Warriors,Imran Tahir,JA Sinclair,AD Russell,0,0,,,,,,"",""
+ball,2,14.1,Guyana Amazon Warriors,JA Sinclair,Imran Tahir,AJ Hosein,1,0,,,,,,"",""
+ball,2,14.2,Guyana Amazon Warriors,Imran Tahir,JA Sinclair,AJ Hosein,1,0,,,,,,"",""
+ball,2,14.3,Guyana Amazon Warriors,JA Sinclair,Imran Tahir,AJ Hosein,0,0,,,,,,"",""
+ball,2,14.4,Guyana Amazon Warriors,JA Sinclair,Imran Tahir,AJ Hosein,1,0,,,,,,"",""
+ball,2,14.5,Guyana Amazon Warriors,Imran Tahir,JA Sinclair,AJ Hosein,0,0,,,,,,caught,Imran Tahir
+ball,2,14.6,Guyana Amazon Warriors,T Shamsi,JA Sinclair,AJ Hosein,0,5,5,,,,,"",""
+ball,2,14.7,Guyana Amazon Warriors,T Shamsi,JA Sinclair,AJ Hosein,0,0,,,,,,"",""
+ball,2,15.1,Guyana Amazon Warriors,JA Sinclair,T Shamsi,SP Narine,0,0,,,,,,"",""
+ball,2,15.2,Guyana Amazon Warriors,JA Sinclair,T Shamsi,SP Narine,0,0,,,,,,"",""
+ball,2,15.3,Guyana Amazon Warriors,JA Sinclair,T Shamsi,SP Narine,1,0,,,,,,"",""
+ball,2,15.4,Guyana Amazon Warriors,T Shamsi,JA Sinclair,SP Narine,0,0,,,,,,"",""
+ball,2,15.5,Guyana Amazon Warriors,T Shamsi,JA Sinclair,SP Narine,0,0,,,,,,"",""
+ball,2,15.6,Guyana Amazon Warriors,T Shamsi,JA Sinclair,SP Narine,0,0,,,,,,"",""
+ball,2,16.1,Guyana Amazon Warriors,JA Sinclair,T Shamsi,DM Dupavillon,1,0,,,,,,"",""
+ball,2,16.2,Guyana Amazon Warriors,T Shamsi,JA Sinclair,DM Dupavillon,0,0,,,,,,"",""
+ball,2,16.3,Guyana Amazon Warriors,T Shamsi,JA Sinclair,DM Dupavillon,0,1,1,,,,,"",""
+ball,2,16.4,Guyana Amazon Warriors,T Shamsi,JA Sinclair,DM Dupavillon,1,0,,,,,,"",""
+ball,2,16.5,Guyana Amazon Warriors,JA Sinclair,T Shamsi,DM Dupavillon,1,0,,,,,,"",""
+ball,2,16.6,Guyana Amazon Warriors,T Shamsi,JA Sinclair,DM Dupavillon,1,0,,,,,,"",""
+ball,2,16.7,Guyana Amazon Warriors,JA Sinclair,T Shamsi,DM Dupavillon,6,0,,,,,,"",""
+ball,2,17.1,Guyana Amazon Warriors,T Shamsi,JA Sinclair,AD Russell,1,0,,,,,,"",""
+ball,2,17.2,Guyana Amazon Warriors,JA Sinclair,T Shamsi,AD Russell,1,0,,,,,,"",""
+ball,2,17.3,Guyana Amazon Warriors,T Shamsi,JA Sinclair,AD Russell,4,0,,,,,,"",""
+ball,2,17.4,Guyana Amazon Warriors,T Shamsi,JA Sinclair,AD Russell,1,0,,,,,,"",""
+ball,2,17.5,Guyana Amazon Warriors,JA Sinclair,T Shamsi,AD Russell,0,0,,,,,,bowled,JA Sinclair

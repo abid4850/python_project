@@ -1,0 +1,315 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Northern Districts
+info,gender,male
+info,season,2020/21
+info,date,2021/01/29
+info,event,Super Smash
+info,match_number,24
+info,venue,Seddon Park
+info,city,Hamilton
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,BF Bowden
+info,umpire,JM Dempsey
+info,reserve_umpire,A Stanley
+info,tv_umpire,WR Knights
+info,match_referee,GB Troup
+info,winner,Northern Districts
+info,winner_wickets,3
+info,player,Auckland,MJ Guptill
+info,player,Auckland,SM Solia
+info,player,Auckland,GD Phillips
+info,player,Auckland,MS Chapman
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,BJ Horne
+info,player,Auckland,KA Jamieson
+info,player,Auckland,WER Somerville
+info,player,Auckland,DK Ferns
+info,player,Auckland,L Delport
+info,player,Auckland,RM ter Braak
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,KS Williamson
+info,player,Northern Districts,C de Grandhomme
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,TG Southee
+info,player,Northern Districts,A Verma
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,TA Boult
+info,registry,people,A Stanley,5a72b592
+info,registry,people,A Verma,8e9a5d20
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JRM Bassett-Graham,aa84075f
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,L Delport,2c1438ef
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,RM ter Braak,ac3e5a31
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WER Somerville,74a1c1e3
+info,registry,people,WR Knights,63cbf8d8
+ball,1,0.1,Auckland,MJ Guptill,SM Solia,TG Southee,1,0,,,,,,"",""
+ball,1,0.2,Auckland,SM Solia,MJ Guptill,TG Southee,1,0,,,,,,"",""
+ball,1,0.3,Auckland,MJ Guptill,SM Solia,TG Southee,0,0,,,,,,"",""
+ball,1,0.4,Auckland,MJ Guptill,SM Solia,TG Southee,0,0,,,,,,"",""
+ball,1,0.5,Auckland,MJ Guptill,SM Solia,TG Southee,1,0,,,,,,"",""
+ball,1,0.6,Auckland,SM Solia,MJ Guptill,TG Southee,1,0,,,,,,"",""
+ball,1,1.1,Auckland,SM Solia,MJ Guptill,TA Boult,4,0,,,,,,"",""
+ball,1,1.2,Auckland,SM Solia,MJ Guptill,TA Boult,1,0,,,,,,"",""
+ball,1,1.3,Auckland,MJ Guptill,SM Solia,TA Boult,0,0,,,,,,"",""
+ball,1,1.4,Auckland,MJ Guptill,SM Solia,TA Boult,0,0,,,,,,caught,MJ Guptill
+ball,1,1.5,Auckland,SM Solia,GD Phillips,TA Boult,0,0,,,,,,"",""
+ball,1,1.6,Auckland,SM Solia,GD Phillips,TA Boult,0,0,,,,,,"",""
+ball,1,2.1,Auckland,GD Phillips,SM Solia,TG Southee,4,0,,,,,,"",""
+ball,1,2.2,Auckland,GD Phillips,SM Solia,TG Southee,0,0,,,,,,bowled,GD Phillips
+ball,1,2.3,Auckland,MS Chapman,SM Solia,TG Southee,0,0,,,,,,"",""
+ball,1,2.4,Auckland,MS Chapman,SM Solia,TG Southee,0,0,,,,,,"",""
+ball,1,2.5,Auckland,MS Chapman,SM Solia,TG Southee,0,0,,,,,,"",""
+ball,1,2.6,Auckland,MS Chapman,SM Solia,TG Southee,0,0,,,,,,"",""
+ball,1,3.1,Auckland,SM Solia,MS Chapman,TA Boult,2,0,,,,,,"",""
+ball,1,3.2,Auckland,SM Solia,MS Chapman,TA Boult,0,0,,,,,,"",""
+ball,1,3.3,Auckland,SM Solia,MS Chapman,TA Boult,0,0,,,,,,"",""
+ball,1,3.4,Auckland,SM Solia,MS Chapman,TA Boult,1,0,,,,,,"",""
+ball,1,3.5,Auckland,MS Chapman,SM Solia,TA Boult,1,0,,,,,,"",""
+ball,1,3.6,Auckland,SM Solia,MS Chapman,TA Boult,0,1,1,,,,,"",""
+ball,1,3.7,Auckland,SM Solia,MS Chapman,TA Boult,4,0,,,,,,"",""
+ball,1,4.1,Auckland,MS Chapman,SM Solia,SC Kuggeleijn,0,4,,,,4,,"",""
+ball,1,4.2,Auckland,MS Chapman,SM Solia,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,4.3,Auckland,MS Chapman,SM Solia,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,4.4,Auckland,MS Chapman,SM Solia,SC Kuggeleijn,6,0,,,,,,"",""
+ball,1,4.5,Auckland,MS Chapman,SM Solia,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,4.6,Auckland,SM Solia,MS Chapman,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,5.1,Auckland,MS Chapman,SM Solia,A Verma,6,0,,,,,,"",""
+ball,1,5.2,Auckland,MS Chapman,SM Solia,A Verma,1,0,,,,,,"",""
+ball,1,5.3,Auckland,SM Solia,MS Chapman,A Verma,0,0,,,,,,caught,SM Solia
+ball,1,5.4,Auckland,RR O'Donnell,MS Chapman,A Verma,1,0,,,,,,"",""
+ball,1,5.5,Auckland,MS Chapman,RR O'Donnell,A Verma,0,0,,,,,,"",""
+ball,1,5.6,Auckland,MS Chapman,RR O'Donnell,A Verma,1,0,,,,,,"",""
+ball,1,6.1,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.2,Auckland,RR O'Donnell,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.3,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.4,Auckland,RR O'Donnell,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.5,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,4,0,,,,,,"",""
+ball,1,6.6,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,1,7.1,Auckland,MS Chapman,RR O'Donnell,A Verma,4,0,,,,,,"",""
+ball,1,7.2,Auckland,MS Chapman,RR O'Donnell,A Verma,0,0,,,,,,"",""
+ball,1,7.3,Auckland,MS Chapman,RR O'Donnell,A Verma,4,0,,,,,,"",""
+ball,1,7.4,Auckland,MS Chapman,RR O'Donnell,A Verma,0,0,,,,,,"",""
+ball,1,7.5,Auckland,MS Chapman,RR O'Donnell,A Verma,1,0,,,,,,"",""
+ball,1,7.6,Auckland,RR O'Donnell,MS Chapman,A Verma,0,0,,,,,,"",""
+ball,1,8.1,Auckland,MS Chapman,RR O'Donnell,MJ Santner,6,0,,,,,,"",""
+ball,1,8.2,Auckland,MS Chapman,RR O'Donnell,MJ Santner,4,0,,,,,,"",""
+ball,1,8.3,Auckland,MS Chapman,RR O'Donnell,MJ Santner,0,0,,,,,,"",""
+ball,1,8.4,Auckland,MS Chapman,RR O'Donnell,MJ Santner,0,0,,,,,,"",""
+ball,1,8.5,Auckland,MS Chapman,RR O'Donnell,MJ Santner,0,0,,,,,,"",""
+ball,1,8.6,Auckland,MS Chapman,RR O'Donnell,MJ Santner,0,0,,,,,,"",""
+ball,1,9.1,Auckland,RR O'Donnell,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.2,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.3,Auckland,RR O'Donnell,MS Chapman,IS Sodhi,0,0,,,,,,"",""
+ball,1,9.4,Auckland,RR O'Donnell,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.5,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.6,Auckland,RR O'Donnell,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,1,10.1,Auckland,RR O'Donnell,MS Chapman,MJ Santner,1,0,,,,,,"",""
+ball,1,10.2,Auckland,MS Chapman,RR O'Donnell,MJ Santner,1,0,,,,,,"",""
+ball,1,10.3,Auckland,RR O'Donnell,MS Chapman,MJ Santner,6,0,,,,,,"",""
+ball,1,10.4,Auckland,RR O'Donnell,MS Chapman,MJ Santner,0,0,,,,,,"",""
+ball,1,10.5,Auckland,RR O'Donnell,MS Chapman,MJ Santner,0,0,,,,,,"",""
+ball,1,10.6,Auckland,RR O'Donnell,MS Chapman,MJ Santner,0,0,,,,,,"",""
+ball,1,11.1,Auckland,MS Chapman,RR O'Donnell,TA Boult,1,0,,,,,,"",""
+ball,1,11.2,Auckland,RR O'Donnell,MS Chapman,TA Boult,1,0,,,,,,"",""
+ball,1,11.3,Auckland,MS Chapman,RR O'Donnell,TA Boult,0,1,,,,1,,"",""
+ball,1,11.4,Auckland,RR O'Donnell,MS Chapman,TA Boult,1,0,,,,,,"",""
+ball,1,11.5,Auckland,MS Chapman,RR O'Donnell,TA Boult,0,0,,,,,,"",""
+ball,1,11.6,Auckland,MS Chapman,RR O'Donnell,TA Boult,0,0,,,,,,"",""
+ball,1,12.1,Auckland,RR O'Donnell,MS Chapman,MJ Santner,1,0,,,,,,"",""
+ball,1,12.2,Auckland,MS Chapman,RR O'Donnell,MJ Santner,6,0,,,,,,"",""
+ball,1,12.3,Auckland,MS Chapman,RR O'Donnell,MJ Santner,0,0,,,,,,"",""
+ball,1,12.4,Auckland,MS Chapman,RR O'Donnell,MJ Santner,1,0,,,,,,"",""
+ball,1,12.5,Auckland,RR O'Donnell,MS Chapman,MJ Santner,1,0,,,,,,"",""
+ball,1,12.6,Auckland,MS Chapman,RR O'Donnell,MJ Santner,1,0,,,,,,"",""
+ball,1,13.1,Auckland,MS Chapman,RR O'Donnell,A Verma,4,0,,,,,,"",""
+ball,1,13.2,Auckland,MS Chapman,RR O'Donnell,A Verma,0,0,,,,,,"",""
+ball,1,13.3,Auckland,MS Chapman,RR O'Donnell,A Verma,4,0,,,,,,"",""
+ball,1,13.4,Auckland,MS Chapman,RR O'Donnell,A Verma,2,0,,,,,,"",""
+ball,1,13.5,Auckland,MS Chapman,RR O'Donnell,A Verma,1,0,,,,,,"",""
+ball,1,13.6,Auckland,RR O'Donnell,MS Chapman,A Verma,2,0,,,,,,"",""
+ball,1,14.1,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.2,Auckland,RR O'Donnell,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.3,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,0,0,,,,,,"",""
+ball,1,14.4,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.5,Auckland,RR O'Donnell,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.6,Auckland,MS Chapman,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,1,15.1,Auckland,MS Chapman,RR O'Donnell,TG Southee,1,0,,,,,,"",""
+ball,1,15.2,Auckland,RR O'Donnell,MS Chapman,TG Southee,2,0,,,,,,"",""
+ball,1,15.3,Auckland,RR O'Donnell,MS Chapman,TG Southee,4,0,,,,,,"",""
+ball,1,15.4,Auckland,RR O'Donnell,MS Chapman,TG Southee,6,0,,,,,,"",""
+ball,1,15.5,Auckland,RR O'Donnell,MS Chapman,TG Southee,1,0,,,,,,"",""
+ball,1,15.6,Auckland,MS Chapman,RR O'Donnell,TG Southee,0,0,,,,,,caught,MS Chapman
+ball,1,16.1,Auckland,RR O'Donnell,BJ Horne,IS Sodhi,0,0,,,,,,"",""
+ball,1,16.2,Auckland,RR O'Donnell,BJ Horne,IS Sodhi,1,0,,,,,,"",""
+ball,1,16.3,Auckland,BJ Horne,RR O'Donnell,IS Sodhi,0,0,,,,,,"",""
+ball,1,16.4,Auckland,BJ Horne,RR O'Donnell,IS Sodhi,4,0,,,,,,"",""
+ball,1,16.5,Auckland,BJ Horne,RR O'Donnell,IS Sodhi,0,0,,,,,,"",""
+ball,1,16.6,Auckland,BJ Horne,RR O'Donnell,IS Sodhi,0,0,,,,,,"",""
+ball,1,17.1,Auckland,RR O'Donnell,BJ Horne,MJ Santner,0,0,,,,,,"",""
+ball,1,17.2,Auckland,RR O'Donnell,BJ Horne,MJ Santner,1,0,,,,,,"",""
+ball,1,17.3,Auckland,BJ Horne,RR O'Donnell,MJ Santner,0,2,,,,2,,"",""
+ball,1,17.4,Auckland,BJ Horne,RR O'Donnell,MJ Santner,1,0,,,,,,"",""
+ball,1,17.5,Auckland,RR O'Donnell,BJ Horne,MJ Santner,1,0,,,,,,"",""
+ball,1,17.6,Auckland,BJ Horne,RR O'Donnell,MJ Santner,1,0,,,,,,"",""
+ball,1,18.1,Auckland,BJ Horne,RR O'Donnell,TG Southee,1,0,,,,,,"",""
+ball,1,18.2,Auckland,RR O'Donnell,BJ Horne,TG Southee,1,0,,,,,,"",""
+ball,1,18.3,Auckland,BJ Horne,RR O'Donnell,TG Southee,1,0,,,,,,"",""
+ball,1,18.4,Auckland,RR O'Donnell,BJ Horne,TG Southee,1,0,,,,,,"",""
+ball,1,18.5,Auckland,BJ Horne,RR O'Donnell,TG Southee,2,0,,,,,,"",""
+ball,1,18.6,Auckland,BJ Horne,RR O'Donnell,TG Southee,1,0,,,,,,"",""
+ball,1,19.1,Auckland,BJ Horne,RR O'Donnell,TA Boult,1,0,,,,,,"",""
+ball,1,19.2,Auckland,RR O'Donnell,BJ Horne,TA Boult,2,0,,,,,,"",""
+ball,1,19.3,Auckland,RR O'Donnell,BJ Horne,TA Boult,1,0,,,,,,"",""
+ball,1,19.4,Auckland,BJ Horne,RR O'Donnell,TA Boult,0,0,,,,,,"",""
+ball,1,19.5,Auckland,BJ Horne,RR O'Donnell,TA Boult,6,0,,,,,,"",""
+ball,1,19.6,Auckland,BJ Horne,RR O'Donnell,TA Boult,1,0,,,,,,"",""
+ball,2,0.1,Northern Districts,TL Seifert,KD Clarke,L Delport,0,0,,,,,,"",""
+ball,2,0.2,Northern Districts,TL Seifert,KD Clarke,L Delport,4,0,,,,,,"",""
+ball,2,0.3,Northern Districts,TL Seifert,KD Clarke,L Delport,0,0,,,,,,"",""
+ball,2,0.4,Northern Districts,TL Seifert,KD Clarke,L Delport,0,0,,,,,,"",""
+ball,2,0.5,Northern Districts,TL Seifert,KD Clarke,L Delport,4,0,,,,,,"",""
+ball,2,0.6,Northern Districts,TL Seifert,KD Clarke,L Delport,0,0,,,,,,"",""
+ball,2,1.1,Northern Districts,KD Clarke,TL Seifert,KA Jamieson,1,0,,,,,,"",""
+ball,2,1.2,Northern Districts,TL Seifert,KD Clarke,KA Jamieson,0,0,,,,,,"",""
+ball,2,1.3,Northern Districts,TL Seifert,KD Clarke,KA Jamieson,4,0,,,,,,"",""
+ball,2,1.4,Northern Districts,TL Seifert,KD Clarke,KA Jamieson,0,0,,,,,,"",""
+ball,2,1.5,Northern Districts,TL Seifert,KD Clarke,KA Jamieson,0,0,,,,,,"",""
+ball,2,1.6,Northern Districts,TL Seifert,KD Clarke,KA Jamieson,1,0,,,,,,"",""
+ball,2,2.1,Northern Districts,TL Seifert,KD Clarke,RM ter Braak,0,1,1,,,,,"",""
+ball,2,2.2,Northern Districts,TL Seifert,KD Clarke,RM ter Braak,0,1,1,,,,,"",""
+ball,2,2.3,Northern Districts,TL Seifert,KD Clarke,RM ter Braak,0,0,,,,,,"",""
+ball,2,2.4,Northern Districts,TL Seifert,KD Clarke,RM ter Braak,0,0,,,,,,"",""
+ball,2,2.5,Northern Districts,TL Seifert,KD Clarke,RM ter Braak,0,0,,,,,,caught,TL Seifert
+ball,2,2.6,Northern Districts,KS Williamson,KD Clarke,RM ter Braak,0,0,,,,,,"",""
+ball,2,2.7,Northern Districts,KS Williamson,KD Clarke,RM ter Braak,1,0,,,,,,"",""
+ball,2,2.8,Northern Districts,KD Clarke,KS Williamson,RM ter Braak,0,0,,,,,,"",""
+ball,2,3.1,Northern Districts,KS Williamson,KD Clarke,KA Jamieson,1,0,,,,,,"",""
+ball,2,3.2,Northern Districts,KD Clarke,KS Williamson,KA Jamieson,0,0,,,,,,"",""
+ball,2,3.3,Northern Districts,KD Clarke,KS Williamson,KA Jamieson,1,0,,,,,,"",""
+ball,2,3.4,Northern Districts,KS Williamson,KD Clarke,KA Jamieson,1,0,,,,,,"",""
+ball,2,3.5,Northern Districts,KD Clarke,KS Williamson,KA Jamieson,4,0,,,,,,"",""
+ball,2,3.6,Northern Districts,KD Clarke,KS Williamson,KA Jamieson,0,0,,,,,,caught,KD Clarke
+ball,2,4.1,Northern Districts,KS Williamson,C de Grandhomme,RM ter Braak,1,0,,,,,,"",""
+ball,2,4.2,Northern Districts,C de Grandhomme,KS Williamson,RM ter Braak,1,0,,,,,,"",""
+ball,2,4.3,Northern Districts,KS Williamson,C de Grandhomme,RM ter Braak,0,0,,,,,,"",""
+ball,2,4.4,Northern Districts,KS Williamson,C de Grandhomme,RM ter Braak,1,0,,,,,,"",""
+ball,2,4.5,Northern Districts,C de Grandhomme,KS Williamson,RM ter Braak,4,0,,,,,,"",""
+ball,2,4.6,Northern Districts,C de Grandhomme,KS Williamson,RM ter Braak,0,0,,,,,,"",""
+ball,2,5.1,Northern Districts,KS Williamson,C de Grandhomme,L Delport,1,0,,,,,,"",""
+ball,2,5.2,Northern Districts,C de Grandhomme,KS Williamson,L Delport,1,0,,,,,,"",""
+ball,2,5.3,Northern Districts,KS Williamson,C de Grandhomme,L Delport,4,0,,,,,,"",""
+ball,2,5.4,Northern Districts,KS Williamson,C de Grandhomme,L Delport,2,0,,,,,,"",""
+ball,2,5.5,Northern Districts,KS Williamson,C de Grandhomme,L Delport,4,0,,,,,,"",""
+ball,2,5.6,Northern Districts,KS Williamson,C de Grandhomme,L Delport,0,0,,,,,,"",""
+ball,2,6.1,Northern Districts,C de Grandhomme,KS Williamson,DK Ferns,1,0,,,,,,"",""
+ball,2,6.2,Northern Districts,KS Williamson,C de Grandhomme,DK Ferns,1,0,,,,,,"",""
+ball,2,6.3,Northern Districts,C de Grandhomme,KS Williamson,DK Ferns,6,0,,,,,,"",""
+ball,2,6.4,Northern Districts,C de Grandhomme,KS Williamson,DK Ferns,6,0,,,,,,"",""
+ball,2,6.5,Northern Districts,C de Grandhomme,KS Williamson,DK Ferns,0,0,,,,,,caught,C de Grandhomme
+ball,2,6.6,Northern Districts,KS Williamson,AP Devcich,DK Ferns,0,0,,,,,,"",""
+ball,2,7.1,Northern Districts,AP Devcich,KS Williamson,WER Somerville,2,0,,,,,,"",""
+ball,2,7.2,Northern Districts,AP Devcich,KS Williamson,WER Somerville,0,0,,,,,,"",""
+ball,2,7.3,Northern Districts,AP Devcich,KS Williamson,WER Somerville,1,0,,,,,,"",""
+ball,2,7.4,Northern Districts,KS Williamson,AP Devcich,WER Somerville,1,0,,,,,,"",""
+ball,2,7.5,Northern Districts,AP Devcich,KS Williamson,WER Somerville,1,0,,,,,,"",""
+ball,2,7.6,Northern Districts,KS Williamson,AP Devcich,WER Somerville,2,0,,,,,,"",""
+ball,2,8.1,Northern Districts,AP Devcich,KS Williamson,DK Ferns,0,0,,,,,,"",""
+ball,2,8.2,Northern Districts,AP Devcich,KS Williamson,DK Ferns,0,0,,,,,,caught,AP Devcich
+ball,2,8.3,Northern Districts,KS Williamson,MJ Santner,DK Ferns,0,0,,,,,,"",""
+ball,2,8.4,Northern Districts,KS Williamson,MJ Santner,DK Ferns,1,0,,,,,,"",""
+ball,2,8.5,Northern Districts,MJ Santner,KS Williamson,DK Ferns,1,0,,,,,,"",""
+ball,2,8.6,Northern Districts,KS Williamson,MJ Santner,DK Ferns,1,0,,,,,,"",""
+ball,2,9.1,Northern Districts,KS Williamson,MJ Santner,WER Somerville,2,0,,,,,,"",""
+ball,2,9.2,Northern Districts,KS Williamson,MJ Santner,WER Somerville,1,0,,,,,,"",""
+ball,2,9.3,Northern Districts,MJ Santner,KS Williamson,WER Somerville,0,0,,,,,,"",""
+ball,2,9.4,Northern Districts,MJ Santner,KS Williamson,WER Somerville,0,0,,,,,,"",""
+ball,2,9.5,Northern Districts,MJ Santner,KS Williamson,WER Somerville,1,0,,,,,,"",""
+ball,2,9.6,Northern Districts,KS Williamson,MJ Santner,WER Somerville,1,0,,,,,,"",""
+ball,2,10.1,Northern Districts,KS Williamson,MJ Santner,KA Jamieson,1,0,,,,,,"",""
+ball,2,10.2,Northern Districts,MJ Santner,KS Williamson,KA Jamieson,4,0,,,,,,"",""
+ball,2,10.3,Northern Districts,MJ Santner,KS Williamson,KA Jamieson,1,0,,,,,,"",""
+ball,2,10.4,Northern Districts,KS Williamson,MJ Santner,KA Jamieson,0,1,,1,,,,"",""
+ball,2,10.5,Northern Districts,KS Williamson,MJ Santner,KA Jamieson,0,0,,,,,,"",""
+ball,2,10.6,Northern Districts,KS Williamson,MJ Santner,KA Jamieson,1,0,,,,,,"",""
+ball,2,10.7,Northern Districts,MJ Santner,KS Williamson,KA Jamieson,0,0,,,,,,"",""
+ball,2,11.1,Northern Districts,KS Williamson,MJ Santner,RM ter Braak,0,0,,,,,,"",""
+ball,2,11.2,Northern Districts,KS Williamson,MJ Santner,RM ter Braak,1,0,,,,,,"",""
+ball,2,11.3,Northern Districts,MJ Santner,KS Williamson,RM ter Braak,0,0,,,,,,bowled,MJ Santner
+ball,2,11.4,Northern Districts,SC Kuggeleijn,KS Williamson,RM ter Braak,2,0,,,,,,"",""
+ball,2,11.5,Northern Districts,SC Kuggeleijn,KS Williamson,RM ter Braak,1,0,,,,,,"",""
+ball,2,11.6,Northern Districts,KS Williamson,SC Kuggeleijn,RM ter Braak,0,0,,,,,,"",""
+ball,2,12.1,Northern Districts,SC Kuggeleijn,KS Williamson,L Delport,1,0,,,,,,"",""
+ball,2,12.2,Northern Districts,KS Williamson,SC Kuggeleijn,L Delport,6,0,,,,,,"",""
+ball,2,12.3,Northern Districts,KS Williamson,SC Kuggeleijn,L Delport,4,0,,,,,,"",""
+ball,2,12.4,Northern Districts,KS Williamson,SC Kuggeleijn,L Delport,1,0,,,,,,"",""
+ball,2,12.5,Northern Districts,SC Kuggeleijn,KS Williamson,L Delport,0,0,,,,,,"",""
+ball,2,12.6,Northern Districts,SC Kuggeleijn,KS Williamson,L Delport,0,0,,,,,,"",""
+ball,2,13.1,Northern Districts,KS Williamson,SC Kuggeleijn,WER Somerville,1,0,,,,,,"",""
+ball,2,13.2,Northern Districts,SC Kuggeleijn,KS Williamson,WER Somerville,1,0,,,,,,"",""
+ball,2,13.3,Northern Districts,KS Williamson,SC Kuggeleijn,WER Somerville,1,0,,,,,,"",""
+ball,2,13.4,Northern Districts,SC Kuggeleijn,KS Williamson,WER Somerville,1,0,,,,,,"",""
+ball,2,13.5,Northern Districts,KS Williamson,SC Kuggeleijn,WER Somerville,1,0,,,,,,"",""
+ball,2,13.6,Northern Districts,SC Kuggeleijn,KS Williamson,WER Somerville,4,0,,,,,,"",""
+ball,2,14.1,Northern Districts,KS Williamson,SC Kuggeleijn,DK Ferns,6,0,,,,,,"",""
+ball,2,14.2,Northern Districts,KS Williamson,SC Kuggeleijn,DK Ferns,1,0,,,,,,"",""
+ball,2,14.3,Northern Districts,SC Kuggeleijn,KS Williamson,DK Ferns,0,0,,,,,,caught,SC Kuggeleijn
+ball,2,14.4,Northern Districts,KS Williamson,TG Southee,DK Ferns,0,0,,,,,,"",""
+ball,2,14.5,Northern Districts,KS Williamson,TG Southee,DK Ferns,1,0,,,,,,"",""
+ball,2,14.6,Northern Districts,TG Southee,KS Williamson,DK Ferns,0,0,,,,,,"",""
+ball,2,15.1,Northern Districts,KS Williamson,TG Southee,GD Phillips,1,0,,,,,,"",""
+ball,2,15.2,Northern Districts,TG Southee,KS Williamson,GD Phillips,1,0,,,,,,"",""
+ball,2,15.3,Northern Districts,KS Williamson,TG Southee,GD Phillips,0,0,,,,,,"",""
+ball,2,15.4,Northern Districts,KS Williamson,TG Southee,GD Phillips,1,0,,,,,,"",""
+ball,2,15.5,Northern Districts,TG Southee,KS Williamson,GD Phillips,0,1,,,1,,,"",""
+ball,2,15.6,Northern Districts,KS Williamson,TG Southee,GD Phillips,2,0,,,,,,"",""
+ball,2,16.1,Northern Districts,TG Southee,KS Williamson,DK Ferns,0,0,,,,,,"",""
+ball,2,16.2,Northern Districts,TG Southee,KS Williamson,DK Ferns,1,0,,,,,,"",""
+ball,2,16.3,Northern Districts,KS Williamson,TG Southee,DK Ferns,4,0,,,,,,"",""
+ball,2,16.4,Northern Districts,KS Williamson,TG Southee,DK Ferns,2,0,,,,,,"",""
+ball,2,16.5,Northern Districts,KS Williamson,TG Southee,DK Ferns,1,0,,,,,,"",""
+ball,2,16.6,Northern Districts,TG Southee,KS Williamson,DK Ferns,6,0,,,,,,"",""
+ball,2,17.1,Northern Districts,KS Williamson,TG Southee,GD Phillips,0,0,,,,,,"",""
+ball,2,17.2,Northern Districts,KS Williamson,TG Southee,GD Phillips,2,0,,,,,,"",""
+ball,2,17.3,Northern Districts,KS Williamson,TG Southee,GD Phillips,0,0,,,,,,"",""
+ball,2,17.4,Northern Districts,KS Williamson,TG Southee,GD Phillips,6,0,,,,,,"",""
+ball,2,17.5,Northern Districts,KS Williamson,TG Southee,GD Phillips,1,0,,,,,,"",""
+ball,2,17.6,Northern Districts,TG Southee,KS Williamson,GD Phillips,1,0,,,,,,"",""
+ball,2,18.1,Northern Districts,TG Southee,KS Williamson,KA Jamieson,0,0,,,,,,"",""
+ball,2,18.2,Northern Districts,TG Southee,KS Williamson,KA Jamieson,6,0,,,,,,"",""
+ball,2,18.3,Northern Districts,TG Southee,KS Williamson,KA Jamieson,1,0,,,,,,"",""
+ball,2,18.4,Northern Districts,KS Williamson,TG Southee,KA Jamieson,1,0,,,,,,"",""
+ball,2,18.5,Northern Districts,TG Southee,KS Williamson,KA Jamieson,0,0,,,,,,"",""
+ball,2,18.6,Northern Districts,TG Southee,KS Williamson,KA Jamieson,3,0,,,,,,"",""
+ball,2,19.1,Northern Districts,TG Southee,KS Williamson,RM ter Braak,1,0,,,,,,"",""
+ball,2,19.2,Northern Districts,KS Williamson,TG Southee,RM ter Braak,2,0,,,,,,"",""
+ball,2,19.3,Northern Districts,KS Williamson,TG Southee,RM ter Braak,1,0,,,,,,"",""
+ball,2,19.4,Northern Districts,TG Southee,KS Williamson,RM ter Braak,4,0,,,,,,"",""
+ball,2,19.5,Northern Districts,TG Southee,KS Williamson,RM ter Braak,0,0,,,,,,caught,TG Southee
+ball,2,19.6,Northern Districts,KS Williamson,A Verma,RM ter Braak,4,0,,,,,,"",""

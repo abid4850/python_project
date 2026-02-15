@@ -1,0 +1,284 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Warriors
+info,gender,male
+info,season,2011/12
+info,date,2012/03/02
+info,event,MiWAY T20 Challenge
+info,match_number,19
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Dolphins
+info,toss_decision,bat
+info,player_of_match,M Ntini
+info,player_of_match,AG Prince
+info,umpire,AT Holdstock
+info,umpire,JD Cloete
+info,reserve_umpire,LB Gcuma
+info,tv_umpire,BG Jerling
+info,match_referee,S Wadvalla
+info,winner,Warriors
+info,winner_wickets,10
+info,player,Dolphins,LE Bosman
+info,player,Dolphins,CS Delport
+info,player,Dolphins,I Khan
+info,player,Dolphins,C Chetty
+info,player,Dolphins,VB van Jaarsveld
+info,player,Dolphins,DA Miller
+info,player,Dolphins,D Smit
+info,player,Dolphins,R Frylinck
+info,player,Dolphins,KJ Abbott
+info,player,Dolphins,FH Edwards
+info,player,Dolphins,M Shezi
+info,player,Warriors,JT Smuts
+info,player,Warriors,AG Prince
+info,player,Warriors,CA Ingram
+info,player,Warriors,KR Smuts
+info,player,Warriors,CA Thyssen
+info,player,Warriors,SR Harmer
+info,player,Warriors,N Boje
+info,player,Warriors,AZM Dyili
+info,player,Warriors,J Theron
+info,player,Warriors,ACR Birch
+info,player,Warriors,M Ntini
+info,registry,people,ACR Birch,9df3a2f4
+info,registry,people,AG Prince,035cb925
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,AZM Dyili,eb6d2ef1
+info,registry,people,BG Jerling,26457e41
+info,registry,people,C Chetty,27ca3a11
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CA Thyssen,789fd884
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,D Smit,4bb02ef1
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,I Khan,719c5146
+info,registry,people,J Theron,dec8e038
+info,registry,people,JD Cloete,b0419f8c
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,KR Smuts,ab446fe9
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LE Bosman,73e749e1
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M Shezi,016e5101
+info,registry,people,N Boje,6a0537aa
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SR Harmer,23638956
+info,registry,people,VB van Jaarsveld,890b877d
+ball,1,0.1,Dolphins,LE Bosman,CS Delport,SR Harmer,1,0,,,,,,"",""
+ball,1,0.2,Dolphins,CS Delport,LE Bosman,SR Harmer,0,0,,,,,,"",""
+ball,1,0.3,Dolphins,CS Delport,LE Bosman,SR Harmer,4,0,,,,,,"",""
+ball,1,0.4,Dolphins,CS Delport,LE Bosman,SR Harmer,0,0,,,,,,"",""
+ball,1,0.5,Dolphins,CS Delport,LE Bosman,SR Harmer,4,0,,,,,,"",""
+ball,1,0.6,Dolphins,CS Delport,LE Bosman,SR Harmer,0,0,,,,,,"",""
+ball,1,1.1,Dolphins,LE Bosman,CS Delport,M Ntini,0,0,,,,,,"",""
+ball,1,1.2,Dolphins,LE Bosman,CS Delport,M Ntini,1,0,,,,,,"",""
+ball,1,1.3,Dolphins,CS Delport,LE Bosman,M Ntini,1,0,,,,,,"",""
+ball,1,1.4,Dolphins,LE Bosman,CS Delport,M Ntini,0,0,,,,,,"",""
+ball,1,1.5,Dolphins,LE Bosman,CS Delport,M Ntini,0,0,,,,,,"",""
+ball,1,1.6,Dolphins,LE Bosman,CS Delport,M Ntini,0,0,,,,,,"",""
+ball,1,2.1,Dolphins,CS Delport,LE Bosman,J Theron,1,0,,,,,,"",""
+ball,1,2.2,Dolphins,LE Bosman,CS Delport,J Theron,0,0,,,,,,"",""
+ball,1,2.3,Dolphins,LE Bosman,CS Delport,J Theron,1,0,,,,,,"",""
+ball,1,2.4,Dolphins,CS Delport,LE Bosman,J Theron,0,0,,,,,,"",""
+ball,1,2.5,Dolphins,CS Delport,LE Bosman,J Theron,1,0,,,,,,"",""
+ball,1,2.6,Dolphins,LE Bosman,CS Delport,J Theron,0,0,,,,,,"",""
+ball,1,3.1,Dolphins,CS Delport,LE Bosman,M Ntini,0,0,,,,,,"",""
+ball,1,3.2,Dolphins,CS Delport,LE Bosman,M Ntini,0,0,,,,,,caught,CS Delport
+ball,1,3.3,Dolphins,LE Bosman,I Khan,M Ntini,1,0,,,,,,"",""
+ball,1,3.4,Dolphins,I Khan,LE Bosman,M Ntini,0,0,,,,,,"",""
+ball,1,3.5,Dolphins,I Khan,LE Bosman,M Ntini,0,0,,,,,,"",""
+ball,1,3.6,Dolphins,I Khan,LE Bosman,M Ntini,1,0,,,,,,"",""
+ball,1,4.1,Dolphins,I Khan,LE Bosman,J Theron,1,0,,,,,,"",""
+ball,1,4.2,Dolphins,LE Bosman,I Khan,J Theron,2,0,,,,,,"",""
+ball,1,4.3,Dolphins,LE Bosman,I Khan,J Theron,0,0,,,,,,"",""
+ball,1,4.4,Dolphins,LE Bosman,I Khan,J Theron,0,0,,,,,,"",""
+ball,1,4.5,Dolphins,LE Bosman,I Khan,J Theron,1,0,,,,,,"",""
+ball,1,4.6,Dolphins,I Khan,LE Bosman,J Theron,0,0,,,,,,"",""
+ball,1,5.1,Dolphins,LE Bosman,I Khan,M Ntini,1,0,,,,,,"",""
+ball,1,5.2,Dolphins,I Khan,LE Bosman,M Ntini,0,0,,,,,,bowled,I Khan
+ball,1,5.3,Dolphins,C Chetty,LE Bosman,M Ntini,0,0,,,,,,"",""
+ball,1,5.4,Dolphins,C Chetty,LE Bosman,M Ntini,1,0,,,,,,"",""
+ball,1,5.5,Dolphins,LE Bosman,C Chetty,M Ntini,0,0,,,,,,"",""
+ball,1,5.6,Dolphins,LE Bosman,C Chetty,M Ntini,0,0,,,,,,"",""
+ball,1,6.1,Dolphins,C Chetty,LE Bosman,ACR Birch,0,0,,,,,,"",""
+ball,1,6.2,Dolphins,C Chetty,LE Bosman,ACR Birch,1,0,,,,,,"",""
+ball,1,6.3,Dolphins,LE Bosman,C Chetty,ACR Birch,1,0,,,,,,"",""
+ball,1,6.4,Dolphins,C Chetty,LE Bosman,ACR Birch,1,0,,,,,,"",""
+ball,1,6.5,Dolphins,LE Bosman,C Chetty,ACR Birch,0,1,,,,1,,"",""
+ball,1,6.6,Dolphins,C Chetty,LE Bosman,ACR Birch,0,0,,,,,,"",""
+ball,1,7.1,Dolphins,LE Bosman,C Chetty,N Boje,1,0,,,,,,"",""
+ball,1,7.2,Dolphins,C Chetty,LE Bosman,N Boje,1,0,,,,,,"",""
+ball,1,7.3,Dolphins,LE Bosman,C Chetty,N Boje,1,0,,,,,,"",""
+ball,1,7.4,Dolphins,C Chetty,LE Bosman,N Boje,1,0,,,,,,"",""
+ball,1,7.5,Dolphins,LE Bosman,C Chetty,N Boje,2,0,,,,,,"",""
+ball,1,7.6,Dolphins,LE Bosman,C Chetty,N Boje,0,0,,,,,,stumped,LE Bosman
+ball,1,8.1,Dolphins,C Chetty,VB van Jaarsveld,ACR Birch,1,0,,,,,,"",""
+ball,1,8.2,Dolphins,VB van Jaarsveld,C Chetty,ACR Birch,0,0,,,,,,"",""
+ball,1,8.3,Dolphins,VB van Jaarsveld,C Chetty,ACR Birch,1,0,,,,,,"",""
+ball,1,8.4,Dolphins,C Chetty,VB van Jaarsveld,ACR Birch,4,0,,,,,,"",""
+ball,1,8.5,Dolphins,C Chetty,VB van Jaarsveld,ACR Birch,2,0,,,,,,"",""
+ball,1,8.6,Dolphins,C Chetty,VB van Jaarsveld,ACR Birch,0,0,,,,,,caught,C Chetty
+ball,1,9.1,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,0,0,,,,,,"",""
+ball,1,9.2,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,1,0,,,,,,"",""
+ball,1,9.3,Dolphins,VB van Jaarsveld,DA Miller,SR Harmer,1,0,,,,,,"",""
+ball,1,9.4,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,1,0,,,,,,"",""
+ball,1,9.5,Dolphins,VB van Jaarsveld,DA Miller,SR Harmer,1,0,,,,,,"",""
+ball,1,9.6,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,0,0,,,,,,"",""
+ball,1,10.1,Dolphins,VB van Jaarsveld,DA Miller,ACR Birch,1,0,,,,,,"",""
+ball,1,10.2,Dolphins,DA Miller,VB van Jaarsveld,ACR Birch,1,0,,,,,,"",""
+ball,1,10.3,Dolphins,VB van Jaarsveld,DA Miller,ACR Birch,0,0,,,,,,"",""
+ball,1,10.4,Dolphins,VB van Jaarsveld,DA Miller,ACR Birch,0,0,,,,,,"",""
+ball,1,10.5,Dolphins,VB van Jaarsveld,DA Miller,ACR Birch,1,0,,,,,,"",""
+ball,1,10.6,Dolphins,DA Miller,VB van Jaarsveld,ACR Birch,1,0,,,,,,"",""
+ball,1,11.1,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,1,0,,,,,,"",""
+ball,1,11.2,Dolphins,VB van Jaarsveld,DA Miller,SR Harmer,1,0,,,,,,"",""
+ball,1,11.3,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,1,0,,,,,,"",""
+ball,1,11.4,Dolphins,VB van Jaarsveld,DA Miller,SR Harmer,1,0,,,,,,"",""
+ball,1,11.5,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,1,0,,,,,,"",""
+ball,1,11.6,Dolphins,VB van Jaarsveld,DA Miller,SR Harmer,0,0,,,,,,"",""
+ball,1,12.1,Dolphins,DA Miller,VB van Jaarsveld,N Boje,1,0,,,,,,"",""
+ball,1,12.2,Dolphins,VB van Jaarsveld,DA Miller,N Boje,1,0,,,,,,"",""
+ball,1,12.3,Dolphins,DA Miller,VB van Jaarsveld,N Boje,1,0,,,,,,"",""
+ball,1,12.4,Dolphins,VB van Jaarsveld,DA Miller,N Boje,0,0,,,,,,"",""
+ball,1,12.5,Dolphins,VB van Jaarsveld,DA Miller,N Boje,1,0,,,,,,"",""
+ball,1,12.6,Dolphins,DA Miller,VB van Jaarsveld,N Boje,1,0,,,,,,"",""
+ball,1,13.1,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,4,0,,,,,,"",""
+ball,1,13.2,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,0,0,,,,,,"",""
+ball,1,13.3,Dolphins,DA Miller,VB van Jaarsveld,SR Harmer,0,0,,,,,,caught and bowled,DA Miller
+ball,1,13.4,Dolphins,D Smit,VB van Jaarsveld,SR Harmer,1,0,,,,,,"",""
+ball,1,13.5,Dolphins,VB van Jaarsveld,D Smit,SR Harmer,1,0,,,,,,"",""
+ball,1,13.6,Dolphins,D Smit,VB van Jaarsveld,SR Harmer,1,0,,,,,,"",""
+ball,1,14.1,Dolphins,D Smit,VB van Jaarsveld,KR Smuts,1,0,,,,,,"",""
+ball,1,14.2,Dolphins,VB van Jaarsveld,D Smit,KR Smuts,0,0,,,,,,"",""
+ball,1,14.3,Dolphins,VB van Jaarsveld,D Smit,KR Smuts,6,0,,,,,,"",""
+ball,1,14.4,Dolphins,VB van Jaarsveld,D Smit,KR Smuts,4,0,,,,,,"",""
+ball,1,14.5,Dolphins,VB van Jaarsveld,D Smit,KR Smuts,1,0,,,,,,"",""
+ball,1,14.6,Dolphins,D Smit,VB van Jaarsveld,KR Smuts,1,0,,,,,,"",""
+ball,1,15.1,Dolphins,D Smit,VB van Jaarsveld,N Boje,0,0,,,,,,"",""
+ball,1,15.2,Dolphins,D Smit,VB van Jaarsveld,N Boje,1,0,,,,,,"",""
+ball,1,15.3,Dolphins,VB van Jaarsveld,D Smit,N Boje,0,0,,,,,,"",""
+ball,1,15.4,Dolphins,VB van Jaarsveld,D Smit,N Boje,0,1,,,,1,,"",""
+ball,1,15.5,Dolphins,D Smit,VB van Jaarsveld,N Boje,0,0,,,,,,"",""
+ball,1,15.6,Dolphins,D Smit,VB van Jaarsveld,N Boje,0,0,,,,,,"",""
+ball,1,16.1,Dolphins,VB van Jaarsveld,D Smit,M Ntini,1,0,,,,,,"",""
+ball,1,16.2,Dolphins,D Smit,VB van Jaarsveld,M Ntini,1,0,,,,,,"",""
+ball,1,16.3,Dolphins,VB van Jaarsveld,D Smit,M Ntini,0,0,,,,,,"",""
+ball,1,16.4,Dolphins,VB van Jaarsveld,D Smit,M Ntini,0,0,,,,,,"",""
+ball,1,16.5,Dolphins,VB van Jaarsveld,D Smit,M Ntini,0,0,,,,,,caught,VB van Jaarsveld
+ball,1,16.6,Dolphins,R Frylinck,D Smit,M Ntini,4,0,,,,,,"",""
+ball,1,17.1,Dolphins,D Smit,R Frylinck,J Theron,1,0,,,,,,"",""
+ball,1,17.2,Dolphins,R Frylinck,D Smit,J Theron,1,0,,,,,,"",""
+ball,1,17.3,Dolphins,D Smit,R Frylinck,J Theron,0,0,,,,,,"",""
+ball,1,17.4,Dolphins,D Smit,R Frylinck,J Theron,0,1,1,,,,,"",""
+ball,1,17.5,Dolphins,D Smit,R Frylinck,J Theron,0,0,,,,,,caught,D Smit
+ball,1,17.6,Dolphins,R Frylinck,KJ Abbott,J Theron,1,0,,,,,,"",""
+ball,1,17.7,Dolphins,KJ Abbott,R Frylinck,J Theron,0,0,,,,,,"",""
+ball,1,18.1,Dolphins,R Frylinck,KJ Abbott,ACR Birch,0,1,,,1,,,"",""
+ball,1,18.2,Dolphins,KJ Abbott,R Frylinck,ACR Birch,1,0,,,,,,"",""
+ball,1,18.3,Dolphins,R Frylinck,KJ Abbott,ACR Birch,1,0,,,,,,"",""
+ball,1,18.4,Dolphins,KJ Abbott,R Frylinck,ACR Birch,0,0,,,,,,caught,KJ Abbott
+ball,1,18.5,Dolphins,R Frylinck,FH Edwards,ACR Birch,1,0,,,,,,"",""
+ball,1,18.6,Dolphins,FH Edwards,R Frylinck,ACR Birch,2,0,,,,,,"",""
+ball,1,19.1,Dolphins,R Frylinck,FH Edwards,J Theron,1,0,,,,,,"",""
+ball,1,19.2,Dolphins,FH Edwards,R Frylinck,J Theron,0,0,,,,,,"",""
+ball,1,19.3,Dolphins,FH Edwards,R Frylinck,J Theron,1,0,,,,,,"",""
+ball,1,19.4,Dolphins,R Frylinck,FH Edwards,J Theron,1,0,,,,,,"",""
+ball,1,19.5,Dolphins,FH Edwards,R Frylinck,J Theron,0,1,,,1,,,"",""
+ball,1,19.6,Dolphins,R Frylinck,FH Edwards,J Theron,0,0,,,,,,"",""
+ball,2,0.1,Warriors,JT Smuts,AG Prince,FH Edwards,0,0,,,,,,"",""
+ball,2,0.2,Warriors,JT Smuts,AG Prince,FH Edwards,0,0,,,,,,"",""
+ball,2,0.3,Warriors,JT Smuts,AG Prince,FH Edwards,0,0,,,,,,"",""
+ball,2,0.4,Warriors,JT Smuts,AG Prince,FH Edwards,0,0,,,,,,"",""
+ball,2,0.5,Warriors,JT Smuts,AG Prince,FH Edwards,0,1,,,,1,,"",""
+ball,2,0.6,Warriors,AG Prince,JT Smuts,FH Edwards,0,0,,,,,,"",""
+ball,2,1.1,Warriors,JT Smuts,AG Prince,M Shezi,0,0,,,,,,"",""
+ball,2,1.2,Warriors,JT Smuts,AG Prince,M Shezi,4,0,,,,,,"",""
+ball,2,1.3,Warriors,JT Smuts,AG Prince,M Shezi,1,0,,,,,,"",""
+ball,2,1.4,Warriors,AG Prince,JT Smuts,M Shezi,0,0,,,,,,"",""
+ball,2,1.5,Warriors,AG Prince,JT Smuts,M Shezi,1,0,,,,,,"",""
+ball,2,1.6,Warriors,JT Smuts,AG Prince,M Shezi,1,0,,,,,,"",""
+ball,2,2.1,Warriors,JT Smuts,AG Prince,FH Edwards,2,0,,,,,,"",""
+ball,2,2.2,Warriors,JT Smuts,AG Prince,FH Edwards,1,0,,,,,,"",""
+ball,2,2.3,Warriors,AG Prince,JT Smuts,FH Edwards,4,0,,,,,,"",""
+ball,2,2.4,Warriors,AG Prince,JT Smuts,FH Edwards,0,0,,,,,,"",""
+ball,2,2.5,Warriors,AG Prince,JT Smuts,FH Edwards,0,0,,,,,,"",""
+ball,2,2.6,Warriors,AG Prince,JT Smuts,FH Edwards,1,0,,,,,,"",""
+ball,2,3.1,Warriors,AG Prince,JT Smuts,M Shezi,0,0,,,,,,"",""
+ball,2,3.2,Warriors,AG Prince,JT Smuts,M Shezi,0,0,,,,,,"",""
+ball,2,3.3,Warriors,AG Prince,JT Smuts,M Shezi,1,0,,,,,,"",""
+ball,2,3.4,Warriors,JT Smuts,AG Prince,M Shezi,1,0,,,,,,"",""
+ball,2,3.5,Warriors,AG Prince,JT Smuts,M Shezi,1,0,,,,,,"",""
+ball,2,3.6,Warriors,JT Smuts,AG Prince,M Shezi,1,0,,,,,,"",""
+ball,2,4.1,Warriors,JT Smuts,AG Prince,FH Edwards,1,0,,,,,,"",""
+ball,2,4.2,Warriors,AG Prince,JT Smuts,FH Edwards,4,0,,,,,,"",""
+ball,2,4.3,Warriors,AG Prince,JT Smuts,FH Edwards,0,0,,,,,,"",""
+ball,2,4.4,Warriors,AG Prince,JT Smuts,FH Edwards,1,0,,,,,,"",""
+ball,2,4.5,Warriors,JT Smuts,AG Prince,FH Edwards,0,0,,,,,,"",""
+ball,2,4.6,Warriors,JT Smuts,AG Prince,FH Edwards,0,1,1,,,,,"",""
+ball,2,4.7,Warriors,JT Smuts,AG Prince,FH Edwards,0,0,,,,,,"",""
+ball,2,5.1,Warriors,AG Prince,JT Smuts,M Shezi,0,0,,,,,,"",""
+ball,2,5.2,Warriors,AG Prince,JT Smuts,M Shezi,0,0,,,,,,"",""
+ball,2,5.3,Warriors,AG Prince,JT Smuts,M Shezi,1,0,,,,,,"",""
+ball,2,5.4,Warriors,JT Smuts,AG Prince,M Shezi,0,0,,,,,,"",""
+ball,2,5.5,Warriors,JT Smuts,AG Prince,M Shezi,0,1,1,,,,,"",""
+ball,2,5.6,Warriors,JT Smuts,AG Prince,M Shezi,0,0,,,,,,"",""
+ball,2,5.7,Warriors,JT Smuts,AG Prince,M Shezi,4,0,,,,,,"",""
+ball,2,6.1,Warriors,AG Prince,JT Smuts,R Frylinck,0,0,,,,,,"",""
+ball,2,6.2,Warriors,AG Prince,JT Smuts,R Frylinck,0,0,,,,,,"",""
+ball,2,6.3,Warriors,AG Prince,JT Smuts,R Frylinck,0,1,1,,,,,"",""
+ball,2,6.4,Warriors,AG Prince,JT Smuts,R Frylinck,0,0,,,,,,"",""
+ball,2,6.5,Warriors,AG Prince,JT Smuts,R Frylinck,0,0,,,,,,"",""
+ball,2,6.6,Warriors,AG Prince,JT Smuts,R Frylinck,3,0,,,,,,"",""
+ball,2,6.7,Warriors,JT Smuts,AG Prince,R Frylinck,0,1,1,,,,,"",""
+ball,2,6.8,Warriors,JT Smuts,AG Prince,R Frylinck,4,0,,,,,,"",""
+ball,2,7.1,Warriors,AG Prince,JT Smuts,KJ Abbott,0,1,1,,,,,"",""
+ball,2,7.2,Warriors,AG Prince,JT Smuts,KJ Abbott,1,0,,,,,,"",""
+ball,2,7.3,Warriors,JT Smuts,AG Prince,KJ Abbott,1,0,,,,,,"",""
+ball,2,7.4,Warriors,AG Prince,JT Smuts,KJ Abbott,1,0,,,,,,"",""
+ball,2,7.5,Warriors,JT Smuts,AG Prince,KJ Abbott,1,0,,,,,,"",""
+ball,2,7.6,Warriors,AG Prince,JT Smuts,KJ Abbott,0,0,,,,,,"",""
+ball,2,7.7,Warriors,AG Prince,JT Smuts,KJ Abbott,1,0,,,,,,"",""
+ball,2,8.1,Warriors,AG Prince,JT Smuts,R Frylinck,0,0,,,,,,"",""
+ball,2,8.2,Warriors,AG Prince,JT Smuts,R Frylinck,1,0,,,,,,"",""
+ball,2,8.3,Warriors,JT Smuts,AG Prince,R Frylinck,0,1,,,,1,,"",""
+ball,2,8.4,Warriors,AG Prince,JT Smuts,R Frylinck,2,0,,,,,,"",""
+ball,2,8.5,Warriors,AG Prince,JT Smuts,R Frylinck,0,0,,,,,,"",""
+ball,2,8.6,Warriors,AG Prince,JT Smuts,R Frylinck,1,0,,,,,,"",""
+ball,2,9.1,Warriors,AG Prince,JT Smuts,I Khan,1,0,,,,,,"",""
+ball,2,9.2,Warriors,JT Smuts,AG Prince,I Khan,1,0,,,,,,"",""
+ball,2,9.3,Warriors,AG Prince,JT Smuts,I Khan,1,0,,,,,,"",""
+ball,2,9.4,Warriors,JT Smuts,AG Prince,I Khan,1,0,,,,,,"",""
+ball,2,9.5,Warriors,AG Prince,JT Smuts,I Khan,1,0,,,,,,"",""
+ball,2,9.6,Warriors,JT Smuts,AG Prince,I Khan,4,0,,,,,,"",""
+ball,2,10.1,Warriors,AG Prince,JT Smuts,R Frylinck,4,0,,,,,,"",""
+ball,2,10.2,Warriors,AG Prince,JT Smuts,R Frylinck,1,0,,,,,,"",""
+ball,2,10.3,Warriors,JT Smuts,AG Prince,R Frylinck,1,0,,,,,,"",""
+ball,2,10.4,Warriors,AG Prince,JT Smuts,R Frylinck,1,0,,,,,,"",""
+ball,2,10.5,Warriors,JT Smuts,AG Prince,R Frylinck,4,0,,,,,,"",""
+ball,2,10.6,Warriors,JT Smuts,AG Prince,R Frylinck,1,0,,,,,,"",""
+ball,2,11.1,Warriors,JT Smuts,AG Prince,M Shezi,1,0,,,,,,"",""
+ball,2,11.2,Warriors,AG Prince,JT Smuts,M Shezi,1,0,,,,,,"",""
+ball,2,11.3,Warriors,JT Smuts,AG Prince,M Shezi,1,0,,,,,,"",""
+ball,2,11.4,Warriors,AG Prince,JT Smuts,M Shezi,1,0,,,,,,"",""
+ball,2,11.5,Warriors,JT Smuts,AG Prince,M Shezi,0,0,,,,,,"",""
+ball,2,11.6,Warriors,JT Smuts,AG Prince,M Shezi,0,0,,,,,,"",""
+ball,2,12.1,Warriors,AG Prince,JT Smuts,KJ Abbott,0,0,,,,,,"",""
+ball,2,12.2,Warriors,AG Prince,JT Smuts,KJ Abbott,0,0,,,,,,"",""
+ball,2,12.3,Warriors,AG Prince,JT Smuts,KJ Abbott,1,0,,,,,,"",""
+ball,2,12.4,Warriors,JT Smuts,AG Prince,KJ Abbott,0,0,,,,,,"",""
+ball,2,12.5,Warriors,JT Smuts,AG Prince,KJ Abbott,0,0,,,,,,"",""
+ball,2,12.6,Warriors,JT Smuts,AG Prince,KJ Abbott,0,0,,,,,,"",""
+ball,2,13.1,Warriors,AG Prince,JT Smuts,R Frylinck,1,0,,,,,,"",""
+ball,2,13.2,Warriors,JT Smuts,AG Prince,R Frylinck,1,0,,,,,,"",""
+ball,2,13.3,Warriors,AG Prince,JT Smuts,R Frylinck,2,0,,,,,,"",""
+ball,2,13.4,Warriors,AG Prince,JT Smuts,R Frylinck,1,0,,,,,,"",""
+ball,2,13.5,Warriors,JT Smuts,AG Prince,R Frylinck,2,0,,,,,,"",""
+ball,2,13.6,Warriors,JT Smuts,AG Prince,R Frylinck,4,0,,,,,,"",""
+ball,2,14.1,Warriors,AG Prince,JT Smuts,KJ Abbott,4,0,,,,,,"",""
+ball,2,14.2,Warriors,AG Prince,JT Smuts,KJ Abbott,4,0,,,,,,"",""
+ball,2,14.3,Warriors,AG Prince,JT Smuts,KJ Abbott,4,0,,,,,,"",""

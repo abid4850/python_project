@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Sydney Sixers
+info,gender,female
+info,season,2023/24
+info,date,2023/11/16
+info,event,Women's Big Bash League
+info,match_number,41
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Sydney Sixers
+info,toss_decision,field
+info,player_of_match,BL Mooney
+info,umpire,Bede Sajowitz
+info,umpire,ME Claydon
+info,match_referee,SR Bernard
+info,winner,Perth Scorchers
+info,winner_runs,61
+info,player,Perth Scorchers,SFM Devine
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,M Darke
+info,player,Perth Scorchers,NR Sciver-Brunt
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,AE Jones
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,P Cleary
+info,player,Perth Scorchers,L Mills
+info,player,Perth Scorchers,T Peschel
+info,player,Perth Scorchers,CC Ainsworth
+info,player,Sydney Sixers,EA Perry
+info,player,Sydney Sixers,M Brown
+info,player,Sydney Sixers,A Gardner
+info,player,Sydney Sixers,EA Burns
+info,player,Sydney Sixers,CL Tryon
+info,player,Sydney Sixers,SW Bates
+info,player,Sydney Sixers,M Carmichael
+info,player,Sydney Sixers,KM Pelle
+info,player,Sydney Sixers,K Peterson
+info,player,Sydney Sixers,LCN Smith
+info,player,Sydney Sixers,L Cheatle
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AL Edgar,795ff893
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,Bede Sajowitz,14fb95ae
+info,registry,people,CC Ainsworth,4b69c598
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EA Perry,be150fc8
+info,registry,people,K Peterson,5f377534
+info,registry,people,KM Pelle,ae28c962
+info,registry,people,L Cheatle,275dff85
+info,registry,people,L Mills,c35a0b8a
+info,registry,people,LCN Smith,340202b0
+info,registry,people,M Brown,78bec461
+info,registry,people,M Carmichael,4b546c04
+info,registry,people,M Darke,57a90666
+info,registry,people,ME Claydon,15101f12
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,P Cleary,507acf2e
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SR Bernard,800187dc
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,T Peschel,923402d8
+ball,1,0.1,Perth Scorchers,SFM Devine,BL Mooney,L Cheatle,0,0,,,,,,"",""
+ball,1,0.2,Perth Scorchers,SFM Devine,BL Mooney,L Cheatle,0,0,,,,,,"",""
+ball,1,0.3,Perth Scorchers,SFM Devine,BL Mooney,L Cheatle,1,0,,,,,,"",""
+ball,1,0.4,Perth Scorchers,BL Mooney,SFM Devine,L Cheatle,0,0,,,,,,"",""
+ball,1,0.5,Perth Scorchers,BL Mooney,SFM Devine,L Cheatle,1,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,SFM Devine,BL Mooney,L Cheatle,0,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,BL Mooney,SFM Devine,LCN Smith,0,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,BL Mooney,SFM Devine,LCN Smith,1,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,SFM Devine,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,1.4,Perth Scorchers,SFM Devine,BL Mooney,LCN Smith,6,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,SFM Devine,BL Mooney,LCN Smith,4,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,SFM Devine,BL Mooney,LCN Smith,1,0,,,,,,"",""
+ball,1,2.1,Perth Scorchers,SFM Devine,BL Mooney,L Cheatle,0,1,1,,,,,"",""
+ball,1,2.2,Perth Scorchers,SFM Devine,BL Mooney,L Cheatle,0,0,,,,,,run out,SFM Devine
+ball,1,2.3,Perth Scorchers,BL Mooney,M Darke,L Cheatle,0,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,BL Mooney,M Darke,L Cheatle,0,0,,,,,,"",""
+ball,1,2.5,Perth Scorchers,BL Mooney,M Darke,L Cheatle,0,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,BL Mooney,M Darke,L Cheatle,1,0,,,,,,"",""
+ball,1,2.7,Perth Scorchers,M Darke,BL Mooney,L Cheatle,0,0,,,,,,"",""
+ball,1,3.1,Perth Scorchers,BL Mooney,M Darke,A Gardner,0,1,1,,,,,"",""
+ball,1,3.2,Perth Scorchers,BL Mooney,M Darke,A Gardner,6,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,BL Mooney,M Darke,A Gardner,1,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,M Darke,BL Mooney,A Gardner,0,0,,,,,,caught,M Darke
+ball,1,3.5,Perth Scorchers,NR Sciver-Brunt,BL Mooney,A Gardner,4,0,,,,,,"",""
+ball,1,3.6,Perth Scorchers,NR Sciver-Brunt,BL Mooney,A Gardner,0,0,,,,,,"",""
+ball,1,3.7,Perth Scorchers,NR Sciver-Brunt,BL Mooney,A Gardner,0,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,BL Mooney,NR Sciver-Brunt,EA Perry,0,1,1,,,,,"",""
+ball,1,4.2,Perth Scorchers,BL Mooney,NR Sciver-Brunt,EA Perry,1,0,,,,,,"",""
+ball,1,4.3,Perth Scorchers,NR Sciver-Brunt,BL Mooney,EA Perry,1,0,,,,,,"",""
+ball,1,4.4,Perth Scorchers,BL Mooney,NR Sciver-Brunt,EA Perry,1,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,NR Sciver-Brunt,BL Mooney,EA Perry,1,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,BL Mooney,NR Sciver-Brunt,EA Perry,0,0,,,,,,"",""
+ball,1,4.7,Perth Scorchers,BL Mooney,NR Sciver-Brunt,EA Perry,1,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,BL Mooney,NR Sciver-Brunt,CL Tryon,6,0,,,,,,"",""
+ball,1,5.2,Perth Scorchers,BL Mooney,NR Sciver-Brunt,CL Tryon,1,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,NR Sciver-Brunt,BL Mooney,CL Tryon,4,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,NR Sciver-Brunt,BL Mooney,CL Tryon,1,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,BL Mooney,NR Sciver-Brunt,CL Tryon,0,0,,,,,,"",""
+ball,1,5.6,Perth Scorchers,BL Mooney,NR Sciver-Brunt,CL Tryon,6,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,NR Sciver-Brunt,BL Mooney,L Cheatle,1,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,BL Mooney,NR Sciver-Brunt,L Cheatle,0,1,,,,1,,"",""
+ball,1,6.3,Perth Scorchers,NR Sciver-Brunt,BL Mooney,L Cheatle,4,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,NR Sciver-Brunt,BL Mooney,L Cheatle,6,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,NR Sciver-Brunt,BL Mooney,L Cheatle,0,1,,,,1,,"",""
+ball,1,6.6,Perth Scorchers,BL Mooney,NR Sciver-Brunt,L Cheatle,1,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,BL Mooney,NR Sciver-Brunt,M Brown,1,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,NR Sciver-Brunt,BL Mooney,M Brown,2,0,,,,,,"",""
+ball,1,7.3,Perth Scorchers,NR Sciver-Brunt,BL Mooney,M Brown,1,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,BL Mooney,NR Sciver-Brunt,M Brown,0,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,BL Mooney,NR Sciver-Brunt,M Brown,4,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,BL Mooney,NR Sciver-Brunt,M Brown,0,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,NR Sciver-Brunt,BL Mooney,EA Perry,0,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,NR Sciver-Brunt,BL Mooney,EA Perry,1,0,,,,,,"",""
+ball,1,8.3,Perth Scorchers,BL Mooney,NR Sciver-Brunt,EA Perry,4,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,BL Mooney,NR Sciver-Brunt,EA Perry,1,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,NR Sciver-Brunt,BL Mooney,EA Perry,0,0,,,,,,bowled,NR Sciver-Brunt
+ball,1,8.6,Perth Scorchers,AL Edgar,BL Mooney,EA Perry,1,0,,,,,,"",""
+ball,1,9.1,Perth Scorchers,AL Edgar,BL Mooney,A Gardner,0,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,AL Edgar,BL Mooney,A Gardner,1,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,BL Mooney,AL Edgar,A Gardner,4,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,BL Mooney,AL Edgar,A Gardner,0,0,,,,,,"",""
+ball,1,9.5,Perth Scorchers,BL Mooney,AL Edgar,A Gardner,1,0,,,,,,"",""
+ball,1,9.6,Perth Scorchers,AL Edgar,BL Mooney,A Gardner,4,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,BL Mooney,AL Edgar,LCN Smith,1,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,AL Edgar,BL Mooney,LCN Smith,4,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,AL Edgar,BL Mooney,LCN Smith,1,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,BL Mooney,AL Edgar,LCN Smith,2,0,,,,,,"",""
+ball,1,10.5,Perth Scorchers,BL Mooney,AL Edgar,LCN Smith,1,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,AL Edgar,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,BL Mooney,AL Edgar,M Brown,6,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,BL Mooney,AL Edgar,M Brown,4,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,BL Mooney,AL Edgar,M Brown,0,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,BL Mooney,AL Edgar,M Brown,1,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,AL Edgar,BL Mooney,M Brown,0,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,AL Edgar,BL Mooney,M Brown,0,0,,,,,,"",""
+ball,1,12.1,Perth Scorchers,BL Mooney,AL Edgar,EA Perry,4,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,BL Mooney,AL Edgar,EA Perry,1,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,AL Edgar,BL Mooney,EA Perry,0,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,AL Edgar,BL Mooney,EA Perry,1,0,,,,,,"",""
+ball,1,12.5,Perth Scorchers,BL Mooney,AL Edgar,EA Perry,1,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,AL Edgar,BL Mooney,EA Perry,1,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,AL Edgar,BL Mooney,A Gardner,0,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,AL Edgar,BL Mooney,A Gardner,0,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,AL Edgar,BL Mooney,A Gardner,0,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,AL Edgar,BL Mooney,A Gardner,0,0,,,,,,caught,AL Edgar
+ball,1,13.5,Perth Scorchers,AE Jones,BL Mooney,A Gardner,1,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,BL Mooney,AE Jones,A Gardner,4,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,AE Jones,BL Mooney,L Cheatle,2,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,AE Jones,BL Mooney,L Cheatle,1,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,BL Mooney,AE Jones,L Cheatle,4,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,BL Mooney,AE Jones,L Cheatle,0,1,,,,1,,"",""
+ball,1,14.5,Perth Scorchers,AE Jones,BL Mooney,L Cheatle,4,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,AE Jones,BL Mooney,L Cheatle,4,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,BL Mooney,AE Jones,K Peterson,0,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,BL Mooney,AE Jones,K Peterson,0,5,5,,,,,"",""
+ball,1,15.3,Perth Scorchers,BL Mooney,AE Jones,K Peterson,4,0,,,,,,"",""
+ball,1,15.4,Perth Scorchers,BL Mooney,AE Jones,K Peterson,0,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,BL Mooney,AE Jones,K Peterson,1,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,AE Jones,BL Mooney,K Peterson,1,0,,,,,,"",""
+ball,1,15.7,Perth Scorchers,BL Mooney,AE Jones,K Peterson,0,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,AE Jones,BL Mooney,LCN Smith,1,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,BL Mooney,AE Jones,LCN Smith,1,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,AE Jones,BL Mooney,LCN Smith,4,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,AE Jones,BL Mooney,LCN Smith,4,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,AE Jones,BL Mooney,LCN Smith,4,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,AE Jones,BL Mooney,LCN Smith,1,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,AE Jones,BL Mooney,EA Perry,1,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,BL Mooney,AE Jones,EA Perry,0,1,,,,1,,"",""
+ball,1,17.3,Perth Scorchers,AE Jones,BL Mooney,EA Perry,0,0,,,,,,caught,AE Jones
+ball,1,17.4,Perth Scorchers,A King,BL Mooney,EA Perry,0,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,A King,BL Mooney,EA Perry,4,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,A King,BL Mooney,EA Perry,0,0,,,,,,"",""
+ball,1,18.1,Perth Scorchers,BL Mooney,A King,LCN Smith,1,0,,,,,,"",""
+ball,1,18.2,Perth Scorchers,A King,BL Mooney,LCN Smith,1,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,BL Mooney,A King,LCN Smith,2,0,,,,,,"",""
+ball,1,18.4,Perth Scorchers,BL Mooney,A King,LCN Smith,1,0,,,,,,"",""
+ball,1,18.5,Perth Scorchers,A King,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,18.6,Perth Scorchers,A King,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,BL Mooney,A King,A Gardner,2,0,,,,,,"",""
+ball,1,19.2,Perth Scorchers,BL Mooney,A King,A Gardner,4,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,BL Mooney,A King,A Gardner,1,0,,,,,,run out,A King
+ball,1,19.4,Perth Scorchers,BL Mooney,P Cleary,A Gardner,2,0,,,,,,"",""
+ball,1,19.5,Perth Scorchers,BL Mooney,P Cleary,A Gardner,1,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,P Cleary,BL Mooney,A Gardner,2,0,,,,,,"",""
+ball,2,0.1,Sydney Sixers,EA Perry,M Brown,T Peschel,0,1,1,,,,,"",""
+ball,2,0.2,Sydney Sixers,EA Perry,M Brown,T Peschel,0,0,,,,,,"",""
+ball,2,0.3,Sydney Sixers,EA Perry,M Brown,T Peschel,0,0,,,,,,"",""
+ball,2,0.4,Sydney Sixers,EA Perry,M Brown,T Peschel,0,0,,,,,,"",""
+ball,2,0.5,Sydney Sixers,EA Perry,M Brown,T Peschel,1,0,,,,,,"",""
+ball,2,0.6,Sydney Sixers,M Brown,EA Perry,T Peschel,0,0,,,,,,"",""
+ball,2,0.7,Sydney Sixers,M Brown,EA Perry,T Peschel,1,0,,,,,,"",""
+ball,2,1.1,Sydney Sixers,M Brown,EA Perry,CC Ainsworth,0,1,1,,,,,"",""
+ball,2,1.2,Sydney Sixers,M Brown,EA Perry,CC Ainsworth,0,1,,,,1,,"",""
+ball,2,1.3,Sydney Sixers,EA Perry,M Brown,CC Ainsworth,0,1,1,,,,,"",""
+ball,2,1.4,Sydney Sixers,EA Perry,M Brown,CC Ainsworth,0,0,,,,,,"",""
+ball,2,1.5,Sydney Sixers,EA Perry,M Brown,CC Ainsworth,0,0,,,,,,"",""
+ball,2,1.6,Sydney Sixers,EA Perry,M Brown,CC Ainsworth,0,0,,,,,,"",""
+ball,2,1.7,Sydney Sixers,EA Perry,M Brown,CC Ainsworth,4,0,,,,,,"",""
+ball,2,1.8,Sydney Sixers,EA Perry,M Brown,CC Ainsworth,0,0,,,,,,"",""
+ball,2,2.1,Sydney Sixers,M Brown,EA Perry,T Peschel,4,0,,,,,,"",""
+ball,2,2.2,Sydney Sixers,M Brown,EA Perry,T Peschel,0,0,,,,,,"",""
+ball,2,2.3,Sydney Sixers,M Brown,EA Perry,T Peschel,0,1,,1,,,,"",""
+ball,2,2.4,Sydney Sixers,M Brown,EA Perry,T Peschel,1,0,,,,,,"",""
+ball,2,2.5,Sydney Sixers,EA Perry,M Brown,T Peschel,4,0,,,,,,"",""
+ball,2,2.6,Sydney Sixers,EA Perry,M Brown,T Peschel,4,0,,,,,,"",""
+ball,2,2.7,Sydney Sixers,EA Perry,M Brown,T Peschel,0,0,,,,,,"",""
+ball,2,3.1,Sydney Sixers,M Brown,EA Perry,AL Edgar,0,0,,,,,,caught,M Brown
+ball,2,3.2,Sydney Sixers,A Gardner,EA Perry,AL Edgar,0,0,,,,,,"",""
+ball,2,3.3,Sydney Sixers,A Gardner,EA Perry,AL Edgar,1,0,,,,,,"",""
+ball,2,3.4,Sydney Sixers,EA Perry,A Gardner,AL Edgar,1,0,,,,,,"",""
+ball,2,3.5,Sydney Sixers,A Gardner,EA Perry,AL Edgar,4,0,,,,,,"",""
+ball,2,3.6,Sydney Sixers,A Gardner,EA Perry,AL Edgar,0,0,,,,,,"",""
+ball,2,4.1,Sydney Sixers,EA Perry,A Gardner,P Cleary,1,0,,,,,,"",""
+ball,2,4.2,Sydney Sixers,A Gardner,EA Perry,P Cleary,0,1,1,,,,,"",""
+ball,2,4.3,Sydney Sixers,A Gardner,EA Perry,P Cleary,1,0,,,,,,"",""
+ball,2,4.4,Sydney Sixers,EA Perry,A Gardner,P Cleary,0,0,,,,,,"",""
+ball,2,4.5,Sydney Sixers,EA Perry,A Gardner,P Cleary,4,0,,,,,,"",""
+ball,2,4.6,Sydney Sixers,EA Perry,A Gardner,P Cleary,0,0,,,,,,"",""
+ball,2,4.7,Sydney Sixers,EA Perry,A Gardner,P Cleary,1,0,,,,,,"",""
+ball,2,5.1,Sydney Sixers,EA Perry,A Gardner,A King,0,1,1,,,,,"",""
+ball,2,5.2,Sydney Sixers,EA Perry,A Gardner,A King,0,0,,,,,,"",""
+ball,2,5.3,Sydney Sixers,EA Perry,A Gardner,A King,1,0,,,,,,"",""
+ball,2,5.4,Sydney Sixers,A Gardner,EA Perry,A King,0,0,,,,,,"",""
+ball,2,5.5,Sydney Sixers,A Gardner,EA Perry,A King,0,0,,,,,,"",""
+ball,2,5.6,Sydney Sixers,A Gardner,EA Perry,A King,0,0,,,,,,"",""
+ball,2,5.7,Sydney Sixers,A Gardner,EA Perry,A King,0,0,,,,,,"",""
+ball,2,6.1,Sydney Sixers,EA Perry,A Gardner,CC Ainsworth,1,0,,,,,,"",""
+ball,2,6.2,Sydney Sixers,A Gardner,EA Perry,CC Ainsworth,0,0,,,,,,"",""
+ball,2,6.3,Sydney Sixers,A Gardner,EA Perry,CC Ainsworth,0,0,,,,,,caught,A Gardner
+ball,2,6.4,Sydney Sixers,EA Burns,EA Perry,CC Ainsworth,0,0,,,,,,"",""
+ball,2,6.5,Sydney Sixers,EA Burns,EA Perry,CC Ainsworth,2,0,,,,,,"",""
+ball,2,6.6,Sydney Sixers,EA Burns,EA Perry,CC Ainsworth,1,0,,,,,,"",""
+ball,2,7.1,Sydney Sixers,EA Burns,EA Perry,L Mills,1,0,,,,,,"",""
+ball,2,7.2,Sydney Sixers,EA Perry,EA Burns,L Mills,1,0,,,,,,"",""
+ball,2,7.3,Sydney Sixers,EA Burns,EA Perry,L Mills,0,0,,,,,,"",""
+ball,2,7.4,Sydney Sixers,EA Burns,EA Perry,L Mills,1,0,,,,,,"",""
+ball,2,7.5,Sydney Sixers,EA Perry,EA Burns,L Mills,4,0,,,,,,"",""
+ball,2,7.6,Sydney Sixers,EA Perry,EA Burns,L Mills,6,0,,,,,,"",""
+ball,2,8.1,Sydney Sixers,EA Burns,EA Perry,P Cleary,0,0,,,,,,"",""
+ball,2,8.2,Sydney Sixers,EA Burns,EA Perry,P Cleary,0,0,,,,,,"",""
+ball,2,8.3,Sydney Sixers,EA Burns,EA Perry,P Cleary,0,0,,,,,,"",""
+ball,2,8.4,Sydney Sixers,EA Burns,EA Perry,P Cleary,4,0,,,,,,"",""
+ball,2,8.5,Sydney Sixers,EA Burns,EA Perry,P Cleary,0,0,,,,,,run out,EA Burns
+ball,2,8.6,Sydney Sixers,EA Perry,CL Tryon,P Cleary,0,0,,,,,,"",""
+ball,2,9.1,Sydney Sixers,CL Tryon,EA Perry,A King,0,0,,,,,,"",""
+ball,2,9.2,Sydney Sixers,CL Tryon,EA Perry,A King,1,0,,,,,,"",""
+ball,2,9.3,Sydney Sixers,EA Perry,CL Tryon,A King,6,0,,,,,,"",""
+ball,2,9.4,Sydney Sixers,EA Perry,CL Tryon,A King,1,0,,,,,,"",""
+ball,2,9.5,Sydney Sixers,CL Tryon,EA Perry,A King,0,0,,,,,,"",""
+ball,2,9.6,Sydney Sixers,CL Tryon,EA Perry,A King,1,0,,,,,,"",""
+ball,2,10.1,Sydney Sixers,CL Tryon,EA Perry,CC Ainsworth,0,0,,,,,,"",""
+ball,2,10.2,Sydney Sixers,CL Tryon,EA Perry,CC Ainsworth,1,0,,,,,,"",""
+ball,2,10.3,Sydney Sixers,EA Perry,CL Tryon,CC Ainsworth,0,0,,,,,,"",""
+ball,2,10.4,Sydney Sixers,EA Perry,CL Tryon,CC Ainsworth,0,0,,,,,,run out,EA Perry
+ball,2,10.5,Sydney Sixers,CL Tryon,SW Bates,CC Ainsworth,0,0,,,,,,"",""
+ball,2,10.6,Sydney Sixers,CL Tryon,SW Bates,CC Ainsworth,0,1,,,,1,,"",""
+ball,2,11.1,Sydney Sixers,CL Tryon,SW Bates,AL Edgar,1,0,,,,,,"",""
+ball,2,11.2,Sydney Sixers,SW Bates,CL Tryon,AL Edgar,4,0,,,,,,"",""
+ball,2,11.3,Sydney Sixers,SW Bates,CL Tryon,AL Edgar,1,0,,,,,,"",""
+ball,2,11.4,Sydney Sixers,CL Tryon,SW Bates,AL Edgar,4,0,,,,,,"",""
+ball,2,11.5,Sydney Sixers,CL Tryon,SW Bates,AL Edgar,1,0,,,,,,"",""
+ball,2,11.6,Sydney Sixers,SW Bates,CL Tryon,AL Edgar,1,0,,,,,,"",""
+ball,2,12.1,Sydney Sixers,SW Bates,CL Tryon,P Cleary,4,0,,,,,,"",""
+ball,2,12.2,Sydney Sixers,SW Bates,CL Tryon,P Cleary,1,0,,,,,,"",""
+ball,2,12.3,Sydney Sixers,CL Tryon,SW Bates,P Cleary,4,0,,,,,,"",""
+ball,2,12.4,Sydney Sixers,CL Tryon,SW Bates,P Cleary,0,0,,,,,,bowled,CL Tryon
+ball,2,12.5,Sydney Sixers,M Carmichael,SW Bates,P Cleary,0,0,,,,,,"",""
+ball,2,12.6,Sydney Sixers,M Carmichael,SW Bates,P Cleary,1,0,,,,,,"",""
+ball,2,13.1,Sydney Sixers,M Carmichael,SW Bates,A King,1,0,,,,,,"",""
+ball,2,13.2,Sydney Sixers,SW Bates,M Carmichael,A King,0,0,,,,,,lbw,SW Bates
+ball,2,13.3,Sydney Sixers,KM Pelle,M Carmichael,A King,1,0,,,,,,"",""
+ball,2,13.4,Sydney Sixers,M Carmichael,KM Pelle,A King,0,0,,,,,,"",""
+ball,2,13.5,Sydney Sixers,M Carmichael,KM Pelle,A King,0,0,,,,,,caught and bowled,M Carmichael
+ball,2,13.6,Sydney Sixers,K Peterson,KM Pelle,A King,4,0,,,,,,"",""
+ball,2,14.1,Sydney Sixers,KM Pelle,K Peterson,T Peschel,0,0,,,,,,bowled,KM Pelle
+ball,2,14.2,Sydney Sixers,LCN Smith,K Peterson,T Peschel,1,0,,,,,,"",""
+ball,2,14.3,Sydney Sixers,K Peterson,LCN Smith,T Peschel,1,0,,,,,,"",""
+ball,2,14.4,Sydney Sixers,LCN Smith,K Peterson,T Peschel,0,0,,,,,,"",""
+ball,2,14.5,Sydney Sixers,LCN Smith,K Peterson,T Peschel,0,0,,,,,,"",""
+ball,2,14.6,Sydney Sixers,LCN Smith,K Peterson,T Peschel,1,0,,,,,,"",""
+ball,2,15.1,Sydney Sixers,LCN Smith,K Peterson,AL Edgar,1,0,,,,,,"",""
+ball,2,15.2,Sydney Sixers,K Peterson,LCN Smith,AL Edgar,1,0,,,,,,"",""
+ball,2,15.3,Sydney Sixers,LCN Smith,K Peterson,AL Edgar,0,0,,,,,,"",""
+ball,2,15.4,Sydney Sixers,LCN Smith,K Peterson,AL Edgar,1,0,,,,,,"",""
+ball,2,15.5,Sydney Sixers,K Peterson,LCN Smith,AL Edgar,0,0,,,,,,"",""
+ball,2,15.6,Sydney Sixers,K Peterson,LCN Smith,AL Edgar,0,0,,,,,,"",""
+ball,2,16.1,Sydney Sixers,LCN Smith,K Peterson,CC Ainsworth,0,0,,,,,,"",""
+ball,2,16.2,Sydney Sixers,LCN Smith,K Peterson,CC Ainsworth,0,0,,,,,,"",""
+ball,2,16.3,Sydney Sixers,LCN Smith,K Peterson,CC Ainsworth,1,0,,,,,,"",""
+ball,2,16.4,Sydney Sixers,K Peterson,LCN Smith,CC Ainsworth,0,1,,,,1,,"",""
+ball,2,16.5,Sydney Sixers,LCN Smith,K Peterson,CC Ainsworth,0,0,,,,,,bowled,LCN Smith
+ball,2,16.6,Sydney Sixers,L Cheatle,K Peterson,CC Ainsworth,0,0,,,,,,"",""
+ball,2,17.1,Sydney Sixers,K Peterson,L Cheatle,L Mills,1,0,,,,,,"",""
+ball,2,17.2,Sydney Sixers,L Cheatle,K Peterson,L Mills,0,0,,,,,,"",""
+ball,2,17.3,Sydney Sixers,L Cheatle,K Peterson,L Mills,0,4,,,4,,,"",""
+ball,2,17.4,Sydney Sixers,L Cheatle,K Peterson,L Mills,1,0,,,,,,"",""
+ball,2,17.5,Sydney Sixers,K Peterson,L Cheatle,L Mills,0,0,,,,,,"",""
+ball,2,17.6,Sydney Sixers,K Peterson,L Cheatle,L Mills,1,0,,,,,,"",""
+ball,2,18.1,Sydney Sixers,K Peterson,L Cheatle,A King,0,1,,,,1,,"",""
+ball,2,18.2,Sydney Sixers,L Cheatle,K Peterson,A King,1,0,,,,,,"",""
+ball,2,18.3,Sydney Sixers,K Peterson,L Cheatle,A King,1,0,,,,,,"",""
+ball,2,18.4,Sydney Sixers,L Cheatle,K Peterson,A King,4,0,,,,,,"",""
+ball,2,18.5,Sydney Sixers,L Cheatle,K Peterson,A King,0,0,,,,,,"",""
+ball,2,18.6,Sydney Sixers,L Cheatle,K Peterson,A King,4,0,,,,,,"",""
+ball,2,19.1,Sydney Sixers,K Peterson,L Cheatle,AL Edgar,1,0,,,,,,"",""
+ball,2,19.2,Sydney Sixers,L Cheatle,K Peterson,AL Edgar,1,0,,,,,,"",""
+ball,2,19.3,Sydney Sixers,K Peterson,L Cheatle,AL Edgar,0,0,,,,,,caught,K Peterson

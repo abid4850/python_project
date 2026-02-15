@@ -1,0 +1,283 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Seattle Orcas
+info,team,MI New York
+info,gender,male
+info,season,2024
+info,date,2024/07/05
+info,event,Major League Cricket
+info,match_number,1
+info,venue,"Church Street Park, Morrisville"
+info,city,Morrisville
+info,toss_winner,MI New York
+info,toss_decision,field
+info,player_of_match,N Pooran
+info,umpire,M Erasmus
+info,umpire,R Samuels
+info,reserve_umpire,Vijaya Mallela
+info,match_referee,JJ Crowe
+info,winner,MI New York
+info,winner_wickets,6
+info,player,Seattle Orcas,Q de Kock
+info,player,Seattle Orcas,Nauman Anwar
+info,player,Seattle Orcas,Aaron Jones
+info,player,Seattle Orcas,Shubham Ranjane
+info,player,Seattle Orcas,H Klaasen
+info,player,Seattle Orcas,Imad Wasim
+info,player,Seattle Orcas,MG Bracewell
+info,player,Seattle Orcas,Harmeet Singh
+info,player,Seattle Orcas,CJ Gannon
+info,player,Seattle Orcas,N Burger
+info,player,Seattle Orcas,Zaman Khan
+info,player,MI New York,R Clinton
+info,player,MI New York,MD Patel
+info,player,MI New York,N Pooran
+info,player,MI New York,Shayan Jahangir
+info,player,MI New York,TH David
+info,player,MI New York,KA Pollard
+info,player,MI New York,SR Taylor
+info,player,MI New York,Rashid Khan
+info,player,MI New York,Ehsan Adil
+info,player,MI New York,TA Boult
+info,player,MI New York,A Nortje
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,CJ Gannon,519c30cb
+info,registry,people,Ehsan Adil,210b05cb
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,N Burger,465aa633
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Nauman Anwar,d0540390
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Clinton,367e254b
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Zaman Khan,28392e11
+ball,1,0.1,Seattle Orcas,Q de Kock,Nauman Anwar,TA Boult,0,0,,,,,,"",""
+ball,1,0.2,Seattle Orcas,Q de Kock,Nauman Anwar,TA Boult,1,0,,,,,,"",""
+ball,1,0.3,Seattle Orcas,Nauman Anwar,Q de Kock,TA Boult,0,0,,,,,,"",""
+ball,1,0.4,Seattle Orcas,Nauman Anwar,Q de Kock,TA Boult,0,0,,,,,,"",""
+ball,1,0.5,Seattle Orcas,Nauman Anwar,Q de Kock,TA Boult,0,0,,,,,,"",""
+ball,1,0.6,Seattle Orcas,Nauman Anwar,Q de Kock,TA Boult,0,0,,,,,,caught,Nauman Anwar
+ball,1,1.1,Seattle Orcas,Q de Kock,Aaron Jones,Ehsan Adil,1,0,,,,,,"",""
+ball,1,1.2,Seattle Orcas,Aaron Jones,Q de Kock,Ehsan Adil,0,0,,,,,,"",""
+ball,1,1.3,Seattle Orcas,Aaron Jones,Q de Kock,Ehsan Adil,1,0,,,,,,"",""
+ball,1,1.4,Seattle Orcas,Q de Kock,Aaron Jones,Ehsan Adil,0,0,,,,,,"",""
+ball,1,1.5,Seattle Orcas,Q de Kock,Aaron Jones,Ehsan Adil,0,0,,,,,,"",""
+ball,1,1.6,Seattle Orcas,Q de Kock,Aaron Jones,Ehsan Adil,0,0,,,,,,"",""
+ball,1,2.1,Seattle Orcas,Aaron Jones,Q de Kock,TA Boult,1,0,,,,,,"",""
+ball,1,2.2,Seattle Orcas,Q de Kock,Aaron Jones,TA Boult,2,0,,,,,,"",""
+ball,1,2.3,Seattle Orcas,Q de Kock,Aaron Jones,TA Boult,0,0,,,,,,"",""
+ball,1,2.4,Seattle Orcas,Q de Kock,Aaron Jones,TA Boult,1,0,,,,,,"",""
+ball,1,2.5,Seattle Orcas,Aaron Jones,Q de Kock,TA Boult,1,0,,,,,,"",""
+ball,1,2.6,Seattle Orcas,Q de Kock,Aaron Jones,TA Boult,0,0,,,,,,caught,Q de Kock
+ball,1,3.1,Seattle Orcas,Aaron Jones,Shubham Ranjane,Ehsan Adil,0,0,,,,,,"",""
+ball,1,3.2,Seattle Orcas,Aaron Jones,Shubham Ranjane,Ehsan Adil,4,0,,,,,,"",""
+ball,1,3.3,Seattle Orcas,Aaron Jones,Shubham Ranjane,Ehsan Adil,0,0,,,,,,"",""
+ball,1,3.4,Seattle Orcas,Aaron Jones,Shubham Ranjane,Ehsan Adil,0,0,,,,,,"",""
+ball,1,3.5,Seattle Orcas,Aaron Jones,Shubham Ranjane,Ehsan Adil,0,1,1,,,,,"",""
+ball,1,3.6,Seattle Orcas,Aaron Jones,Shubham Ranjane,Ehsan Adil,1,0,,,,,,"",""
+ball,1,3.7,Seattle Orcas,Shubham Ranjane,Aaron Jones,Ehsan Adil,0,0,,,,,,"",""
+ball,1,4.1,Seattle Orcas,Aaron Jones,Shubham Ranjane,A Nortje,0,0,,,,,,"",""
+ball,1,4.2,Seattle Orcas,Aaron Jones,Shubham Ranjane,A Nortje,0,0,,,,,,"",""
+ball,1,4.3,Seattle Orcas,Aaron Jones,Shubham Ranjane,A Nortje,0,0,,,,,,"",""
+ball,1,4.4,Seattle Orcas,Aaron Jones,Shubham Ranjane,A Nortje,0,0,,,,,,"",""
+ball,1,4.5,Seattle Orcas,Aaron Jones,Shubham Ranjane,A Nortje,0,0,,,,,,"",""
+ball,1,4.6,Seattle Orcas,Aaron Jones,Shubham Ranjane,A Nortje,4,0,,,,,,"",""
+ball,1,5.1,Seattle Orcas,Shubham Ranjane,Aaron Jones,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.2,Seattle Orcas,Shubham Ranjane,Aaron Jones,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.3,Seattle Orcas,Shubham Ranjane,Aaron Jones,Rashid Khan,1,0,,,,,,"",""
+ball,1,5.4,Seattle Orcas,Aaron Jones,Shubham Ranjane,Rashid Khan,0,0,,,,,,lbw,Aaron Jones
+ball,1,5.5,Seattle Orcas,H Klaasen,Shubham Ranjane,Rashid Khan,1,0,,,,,,"",""
+ball,1,5.6,Seattle Orcas,Shubham Ranjane,H Klaasen,Rashid Khan,1,0,,,,,,"",""
+ball,1,6.1,Seattle Orcas,Shubham Ranjane,H Klaasen,A Nortje,0,1,1,,,,,"",""
+ball,1,6.2,Seattle Orcas,Shubham Ranjane,H Klaasen,A Nortje,0,0,,,,,,"",""
+ball,1,6.3,Seattle Orcas,Shubham Ranjane,H Klaasen,A Nortje,1,0,,,,,,"",""
+ball,1,6.4,Seattle Orcas,H Klaasen,Shubham Ranjane,A Nortje,1,0,,,,,,"",""
+ball,1,6.5,Seattle Orcas,Shubham Ranjane,H Klaasen,A Nortje,1,0,,,,,,"",""
+ball,1,6.6,Seattle Orcas,H Klaasen,Shubham Ranjane,A Nortje,0,1,1,,,,,"",""
+ball,1,6.7,Seattle Orcas,H Klaasen,Shubham Ranjane,A Nortje,1,0,,,,,,"",""
+ball,1,6.8,Seattle Orcas,Shubham Ranjane,H Klaasen,A Nortje,1,0,,,,,,"",""
+ball,1,7.1,Seattle Orcas,Shubham Ranjane,H Klaasen,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.2,Seattle Orcas,H Klaasen,Shubham Ranjane,Rashid Khan,2,0,,,,,,"",""
+ball,1,7.3,Seattle Orcas,H Klaasen,Shubham Ranjane,Rashid Khan,0,0,,,,,,caught,H Klaasen
+ball,1,7.4,Seattle Orcas,Imad Wasim,Shubham Ranjane,Rashid Khan,0,0,,,,,,"",""
+ball,1,7.5,Seattle Orcas,Imad Wasim,Shubham Ranjane,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.6,Seattle Orcas,Shubham Ranjane,Imad Wasim,Rashid Khan,0,0,,,,,,"",""
+ball,1,8.1,Seattle Orcas,Imad Wasim,Shubham Ranjane,Ehsan Adil,0,0,,,,,,"",""
+ball,1,8.2,Seattle Orcas,Imad Wasim,Shubham Ranjane,Ehsan Adil,0,0,,,,,,"",""
+ball,1,8.3,Seattle Orcas,Imad Wasim,Shubham Ranjane,Ehsan Adil,1,0,,,,,,"",""
+ball,1,8.4,Seattle Orcas,Shubham Ranjane,Imad Wasim,Ehsan Adil,0,0,,,,,,"",""
+ball,1,8.5,Seattle Orcas,Shubham Ranjane,Imad Wasim,Ehsan Adil,0,0,,,,,,"",""
+ball,1,8.6,Seattle Orcas,Shubham Ranjane,Imad Wasim,Ehsan Adil,1,0,,,,,,"",""
+ball,1,9.1,Seattle Orcas,Shubham Ranjane,Imad Wasim,SR Taylor,6,0,,,,,,"",""
+ball,1,9.2,Seattle Orcas,Shubham Ranjane,Imad Wasim,SR Taylor,0,0,,,,,,"",""
+ball,1,9.3,Seattle Orcas,Shubham Ranjane,Imad Wasim,SR Taylor,1,0,,,,,,"",""
+ball,1,9.4,Seattle Orcas,Imad Wasim,Shubham Ranjane,SR Taylor,1,0,,,,,,"",""
+ball,1,9.5,Seattle Orcas,Shubham Ranjane,Imad Wasim,SR Taylor,4,0,,,,,,"",""
+ball,1,9.6,Seattle Orcas,Shubham Ranjane,Imad Wasim,SR Taylor,1,0,,,,,,"",""
+ball,1,10.1,Seattle Orcas,Shubham Ranjane,Imad Wasim,Rashid Khan,4,0,,,,,,"",""
+ball,1,10.2,Seattle Orcas,Shubham Ranjane,Imad Wasim,Rashid Khan,0,0,,,,,,"",""
+ball,1,10.3,Seattle Orcas,Shubham Ranjane,Imad Wasim,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.4,Seattle Orcas,Imad Wasim,Shubham Ranjane,Rashid Khan,0,0,,,,,,"",""
+ball,1,10.5,Seattle Orcas,Imad Wasim,Shubham Ranjane,Rashid Khan,0,0,,,,,,"",""
+ball,1,10.6,Seattle Orcas,Imad Wasim,Shubham Ranjane,Rashid Khan,0,0,,,,,,"",""
+ball,1,11.1,Seattle Orcas,Shubham Ranjane,Imad Wasim,KA Pollard,1,0,,,,,,"",""
+ball,1,11.2,Seattle Orcas,Imad Wasim,Shubham Ranjane,KA Pollard,0,0,,,,,,caught,Imad Wasim
+ball,1,11.3,Seattle Orcas,MG Bracewell,Shubham Ranjane,KA Pollard,0,0,,,,,,"",""
+ball,1,11.4,Seattle Orcas,MG Bracewell,Shubham Ranjane,KA Pollard,0,0,,,,,,"",""
+ball,1,11.5,Seattle Orcas,MG Bracewell,Shubham Ranjane,KA Pollard,1,0,,,,,,"",""
+ball,1,11.6,Seattle Orcas,Shubham Ranjane,MG Bracewell,KA Pollard,0,0,,,,,,"",""
+ball,1,12.1,Seattle Orcas,MG Bracewell,Shubham Ranjane,Ehsan Adil,4,0,,,,,,"",""
+ball,1,12.2,Seattle Orcas,MG Bracewell,Shubham Ranjane,Ehsan Adil,0,0,,,,,,caught,MG Bracewell
+ball,1,12.3,Seattle Orcas,Harmeet Singh,Shubham Ranjane,Ehsan Adil,0,0,,,,,,"",""
+ball,1,12.4,Seattle Orcas,Harmeet Singh,Shubham Ranjane,Ehsan Adil,1,0,,,,,,"",""
+ball,1,12.5,Seattle Orcas,Shubham Ranjane,Harmeet Singh,Ehsan Adil,1,0,,,,,,"",""
+ball,1,12.6,Seattle Orcas,Harmeet Singh,Shubham Ranjane,Ehsan Adil,0,0,,,,,,"",""
+ball,1,13.1,Seattle Orcas,Shubham Ranjane,Harmeet Singh,KA Pollard,1,0,,,,,,"",""
+ball,1,13.2,Seattle Orcas,Harmeet Singh,Shubham Ranjane,KA Pollard,1,0,,,,,,"",""
+ball,1,13.3,Seattle Orcas,Shubham Ranjane,Harmeet Singh,KA Pollard,1,0,,,,,,"",""
+ball,1,13.4,Seattle Orcas,Harmeet Singh,Shubham Ranjane,KA Pollard,0,0,,,,,,"",""
+ball,1,13.5,Seattle Orcas,Harmeet Singh,Shubham Ranjane,KA Pollard,4,0,,,,,,"",""
+ball,1,13.6,Seattle Orcas,Harmeet Singh,Shubham Ranjane,KA Pollard,2,0,,,,,,"",""
+ball,1,14.1,Seattle Orcas,Shubham Ranjane,Harmeet Singh,A Nortje,1,0,,,,,,"",""
+ball,1,14.2,Seattle Orcas,Harmeet Singh,Shubham Ranjane,A Nortje,0,1,1,,,,,"",""
+ball,1,14.3,Seattle Orcas,Harmeet Singh,Shubham Ranjane,A Nortje,1,0,,,,,,"",""
+ball,1,14.4,Seattle Orcas,Shubham Ranjane,Harmeet Singh,A Nortje,0,1,,,,1,,"",""
+ball,1,14.5,Seattle Orcas,Harmeet Singh,Shubham Ranjane,A Nortje,0,0,,,,,,"",""
+ball,1,14.6,Seattle Orcas,Harmeet Singh,Shubham Ranjane,A Nortje,4,0,,,,,,"",""
+ball,1,14.7,Seattle Orcas,Harmeet Singh,Shubham Ranjane,A Nortje,0,0,,,,,,"",""
+ball,1,15.1,Seattle Orcas,Shubham Ranjane,Harmeet Singh,Rashid Khan,6,0,,,,,,"",""
+ball,1,15.2,Seattle Orcas,Shubham Ranjane,Harmeet Singh,Rashid Khan,0,0,,,,,,caught,Shubham Ranjane
+ball,1,15.3,Seattle Orcas,CJ Gannon,Harmeet Singh,Rashid Khan,0,0,,,,,,"",""
+ball,1,15.4,Seattle Orcas,CJ Gannon,Harmeet Singh,Rashid Khan,0,0,,,,,,"",""
+ball,1,15.5,Seattle Orcas,CJ Gannon,Harmeet Singh,Rashid Khan,3,0,,,,,,"",""
+ball,1,15.6,Seattle Orcas,Harmeet Singh,CJ Gannon,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.1,Seattle Orcas,Harmeet Singh,CJ Gannon,TA Boult,6,0,,,,,,"",""
+ball,1,16.2,Seattle Orcas,Harmeet Singh,CJ Gannon,TA Boult,0,0,,,,,,caught,Harmeet Singh
+ball,1,16.3,Seattle Orcas,N Burger,CJ Gannon,TA Boult,1,0,,,,,,"",""
+ball,1,16.4,Seattle Orcas,CJ Gannon,N Burger,TA Boult,0,0,,,,,,"",""
+ball,1,16.5,Seattle Orcas,CJ Gannon,N Burger,TA Boult,4,0,,,,,,"",""
+ball,1,16.6,Seattle Orcas,CJ Gannon,N Burger,TA Boult,0,0,,,,,,"",""
+ball,1,17.1,Seattle Orcas,N Burger,CJ Gannon,A Nortje,1,0,,,,,,"",""
+ball,1,17.2,Seattle Orcas,CJ Gannon,N Burger,A Nortje,0,0,,,,,,caught,CJ Gannon
+ball,1,17.3,Seattle Orcas,Zaman Khan,N Burger,A Nortje,1,0,,,,,,"",""
+ball,1,17.4,Seattle Orcas,N Burger,Zaman Khan,A Nortje,0,0,,,,,,"",""
+ball,1,17.5,Seattle Orcas,N Burger,Zaman Khan,A Nortje,0,0,,,,,,"",""
+ball,1,17.6,Seattle Orcas,N Burger,Zaman Khan,A Nortje,0,0,,,,,,"",""
+ball,1,18.1,Seattle Orcas,Zaman Khan,N Burger,TA Boult,4,0,,,,,,"",""
+ball,1,18.2,Seattle Orcas,Zaman Khan,N Burger,TA Boult,1,0,,,,,,"",""
+ball,1,18.3,Seattle Orcas,N Burger,Zaman Khan,TA Boult,0,0,,,,,,"",""
+ball,1,18.4,Seattle Orcas,N Burger,Zaman Khan,TA Boult,1,0,,,,,,"",""
+ball,1,18.5,Seattle Orcas,Zaman Khan,N Burger,TA Boult,1,0,,,,,,"",""
+ball,1,18.6,Seattle Orcas,N Burger,Zaman Khan,TA Boult,1,0,,,,,,"",""
+ball,1,19.1,Seattle Orcas,N Burger,Zaman Khan,KA Pollard,0,0,,,,,,caught,N Burger
+ball,2,0.1,MI New York,R Clinton,MD Patel,Imad Wasim,1,0,,,,,,"",""
+ball,2,0.2,MI New York,MD Patel,R Clinton,Imad Wasim,0,0,,,,,,"",""
+ball,2,0.3,MI New York,MD Patel,R Clinton,Imad Wasim,1,0,,,,,,"",""
+ball,2,0.4,MI New York,R Clinton,MD Patel,Imad Wasim,1,0,,,,,,"",""
+ball,2,0.5,MI New York,MD Patel,R Clinton,Imad Wasim,0,0,,,,,,"",""
+ball,2,0.6,MI New York,MD Patel,R Clinton,Imad Wasim,1,0,,,,,,"",""
+ball,2,1.1,MI New York,MD Patel,R Clinton,N Burger,0,0,,,,,,"",""
+ball,2,1.2,MI New York,MD Patel,R Clinton,N Burger,0,0,,,,,,"",""
+ball,2,1.3,MI New York,MD Patel,R Clinton,N Burger,4,0,,,,,,"",""
+ball,2,1.4,MI New York,MD Patel,R Clinton,N Burger,0,0,,,,,,"",""
+ball,2,1.5,MI New York,MD Patel,R Clinton,N Burger,0,0,,,,,,"",""
+ball,2,1.6,MI New York,MD Patel,R Clinton,N Burger,0,0,,,,,,"",""
+ball,2,2.1,MI New York,R Clinton,MD Patel,CJ Gannon,0,0,,,,,,"",""
+ball,2,2.2,MI New York,R Clinton,MD Patel,CJ Gannon,4,0,,,,,,"",""
+ball,2,2.3,MI New York,R Clinton,MD Patel,CJ Gannon,0,0,,,,,,caught,R Clinton
+ball,2,2.4,MI New York,N Pooran,MD Patel,CJ Gannon,0,1,1,,,,,"",""
+ball,2,2.5,MI New York,N Pooran,MD Patel,CJ Gannon,1,0,,,,,,"",""
+ball,2,2.6,MI New York,MD Patel,N Pooran,CJ Gannon,2,0,,,,,,"",""
+ball,2,2.7,MI New York,MD Patel,N Pooran,CJ Gannon,0,0,,,,,,caught,MD Patel
+ball,2,3.1,MI New York,N Pooran,Shayan Jahangir,N Burger,0,0,,,,,,"",""
+ball,2,3.2,MI New York,N Pooran,Shayan Jahangir,N Burger,1,0,,,,,,"",""
+ball,2,3.3,MI New York,Shayan Jahangir,N Pooran,N Burger,0,1,,,,1,,"",""
+ball,2,3.4,MI New York,N Pooran,Shayan Jahangir,N Burger,0,0,,,,,,"",""
+ball,2,3.5,MI New York,N Pooran,Shayan Jahangir,N Burger,1,0,,,,,,"",""
+ball,2,3.6,MI New York,Shayan Jahangir,N Pooran,N Burger,0,0,,,,,,"",""
+ball,2,4.1,MI New York,N Pooran,Shayan Jahangir,CJ Gannon,0,0,,,,,,"",""
+ball,2,4.2,MI New York,N Pooran,Shayan Jahangir,CJ Gannon,6,0,,,,,,"",""
+ball,2,4.3,MI New York,N Pooran,Shayan Jahangir,CJ Gannon,6,0,,,,,,"",""
+ball,2,4.4,MI New York,N Pooran,Shayan Jahangir,CJ Gannon,2,0,,,,,,"",""
+ball,2,4.5,MI New York,N Pooran,Shayan Jahangir,CJ Gannon,4,0,,,,,,"",""
+ball,2,4.6,MI New York,N Pooran,Shayan Jahangir,CJ Gannon,4,0,,,,,,"",""
+ball,2,5.1,MI New York,Shayan Jahangir,N Pooran,N Burger,1,0,,,,,,"",""
+ball,2,5.2,MI New York,N Pooran,Shayan Jahangir,N Burger,0,1,1,,,,,"",""
+ball,2,5.3,MI New York,N Pooran,Shayan Jahangir,N Burger,0,1,1,,,,,"",""
+ball,2,5.4,MI New York,N Pooran,Shayan Jahangir,N Burger,0,1,1,,,,,"",""
+ball,2,5.5,MI New York,N Pooran,Shayan Jahangir,N Burger,4,0,,,,,,"",""
+ball,2,5.6,MI New York,N Pooran,Shayan Jahangir,N Burger,1,0,,,,,,"",""
+ball,2,5.7,MI New York,Shayan Jahangir,N Pooran,N Burger,0,0,,,,,,"",""
+ball,2,5.8,MI New York,Shayan Jahangir,N Pooran,N Burger,1,0,,,,,,"",""
+ball,2,5.9,MI New York,N Pooran,Shayan Jahangir,N Burger,4,0,,,,,,"",""
+ball,2,6.1,MI New York,Shayan Jahangir,N Pooran,Zaman Khan,1,0,,,,,,"",""
+ball,2,6.2,MI New York,N Pooran,Shayan Jahangir,Zaman Khan,0,0,,,,,,"",""
+ball,2,6.3,MI New York,N Pooran,Shayan Jahangir,Zaman Khan,1,0,,,,,,"",""
+ball,2,6.4,MI New York,Shayan Jahangir,N Pooran,Zaman Khan,0,0,,,,,,"",""
+ball,2,6.5,MI New York,Shayan Jahangir,N Pooran,Zaman Khan,0,0,,,,,,caught,Shayan Jahangir
+ball,2,6.6,MI New York,TH David,N Pooran,Zaman Khan,1,0,,,,,,"",""
+ball,2,7.1,MI New York,TH David,N Pooran,MG Bracewell,1,0,,,,,,"",""
+ball,2,7.2,MI New York,N Pooran,TH David,MG Bracewell,1,0,,,,,,"",""
+ball,2,7.3,MI New York,TH David,N Pooran,MG Bracewell,4,0,,,,,,"",""
+ball,2,7.4,MI New York,TH David,N Pooran,MG Bracewell,0,0,,,,,,"",""
+ball,2,7.5,MI New York,TH David,N Pooran,MG Bracewell,1,0,,,,,,"",""
+ball,2,7.6,MI New York,N Pooran,TH David,MG Bracewell,1,0,,,,,,"",""
+ball,2,8.1,MI New York,N Pooran,TH David,Zaman Khan,1,0,,,,,,"",""
+ball,2,8.2,MI New York,TH David,N Pooran,Zaman Khan,0,0,,,,,,"",""
+ball,2,8.3,MI New York,TH David,N Pooran,Zaman Khan,0,0,,,,,,"",""
+ball,2,8.4,MI New York,TH David,N Pooran,Zaman Khan,1,0,,,,,,"",""
+ball,2,8.5,MI New York,N Pooran,TH David,Zaman Khan,1,0,,,,,,"",""
+ball,2,8.6,MI New York,TH David,N Pooran,Zaman Khan,1,0,,,,,,"",""
+ball,2,9.1,MI New York,TH David,N Pooran,MG Bracewell,1,0,,,,,,"",""
+ball,2,9.2,MI New York,N Pooran,TH David,MG Bracewell,0,0,,,,,,"",""
+ball,2,9.3,MI New York,N Pooran,TH David,MG Bracewell,1,0,,,,,,"",""
+ball,2,9.4,MI New York,TH David,N Pooran,MG Bracewell,0,1,1,,,,,"",""
+ball,2,9.5,MI New York,TH David,N Pooran,MG Bracewell,0,0,,,,,,"",""
+ball,2,9.6,MI New York,TH David,N Pooran,MG Bracewell,1,0,,,,,,"",""
+ball,2,9.7,MI New York,N Pooran,TH David,MG Bracewell,0,1,1,,,,,"",""
+ball,2,9.8,MI New York,N Pooran,TH David,MG Bracewell,1,0,,,,,,"",""
+ball,2,10.1,MI New York,N Pooran,TH David,Shubham Ranjane,2,0,,,,,,"",""
+ball,2,10.2,MI New York,N Pooran,TH David,Shubham Ranjane,0,1,1,,,,,"",""
+ball,2,10.3,MI New York,N Pooran,TH David,Shubham Ranjane,0,0,,,,,,"",""
+ball,2,10.4,MI New York,N Pooran,TH David,Shubham Ranjane,0,0,,,,,,"",""
+ball,2,10.5,MI New York,N Pooran,TH David,Shubham Ranjane,1,0,,,,,,"",""
+ball,2,10.6,MI New York,TH David,N Pooran,Shubham Ranjane,1,0,,,,,,"",""
+ball,2,10.7,MI New York,N Pooran,TH David,Shubham Ranjane,1,0,,,,,,"",""
+ball,2,11.1,MI New York,N Pooran,TH David,N Burger,1,0,,,,,,"",""
+ball,2,11.2,MI New York,TH David,N Pooran,N Burger,0,0,,,,,,"",""
+ball,2,11.3,MI New York,TH David,N Pooran,N Burger,0,0,,,,,,caught,TH David
+ball,2,11.4,MI New York,KA Pollard,N Pooran,N Burger,1,0,,,,,,"",""
+ball,2,11.5,MI New York,N Pooran,KA Pollard,N Burger,2,0,,,,,,"",""
+ball,2,11.6,MI New York,N Pooran,KA Pollard,N Burger,4,0,,,,,,"",""
+ball,2,12.1,MI New York,KA Pollard,N Pooran,Zaman Khan,0,0,,,,,,"",""
+ball,2,12.2,MI New York,KA Pollard,N Pooran,Zaman Khan,0,0,,,,,,"",""
+ball,2,12.3,MI New York,KA Pollard,N Pooran,Zaman Khan,0,0,,,,,,"",""
+ball,2,12.4,MI New York,KA Pollard,N Pooran,Zaman Khan,0,1,1,,,,,"",""
+ball,2,12.5,MI New York,KA Pollard,N Pooran,Zaman Khan,0,0,,,,,,"",""
+ball,2,12.6,MI New York,KA Pollard,N Pooran,Zaman Khan,1,0,,,,,,"",""
+ball,2,12.7,MI New York,N Pooran,KA Pollard,Zaman Khan,1,0,,,,,,"",""
+ball,2,13.1,MI New York,N Pooran,KA Pollard,CJ Gannon,4,0,,,,,,"",""
+ball,2,13.2,MI New York,N Pooran,KA Pollard,CJ Gannon,0,1,1,,,,,"",""
+ball,2,13.3,MI New York,N Pooran,KA Pollard,CJ Gannon,1,0,,,,,,"",""
+ball,2,13.4,MI New York,KA Pollard,N Pooran,CJ Gannon,0,1,,,,1,,"",""
+ball,2,13.5,MI New York,N Pooran,KA Pollard,CJ Gannon,0,0,,,,,,"",""
+ball,2,13.6,MI New York,N Pooran,KA Pollard,CJ Gannon,4,0,,,,,,"",""
+ball,2,13.7,MI New York,N Pooran,KA Pollard,CJ Gannon,0,0,,,,,,"",""
+ball,2,14.1,MI New York,KA Pollard,N Pooran,Zaman Khan,0,0,,,,,,"",""
+ball,2,14.2,MI New York,KA Pollard,N Pooran,Zaman Khan,0,1,1,,,,,"",""
+ball,2,14.3,MI New York,KA Pollard,N Pooran,Zaman Khan,6,0,,,,,,"",""

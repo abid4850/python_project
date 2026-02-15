@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Titans
+info,gender,male
+info,season,2020/21
+info,date,2021/02/26
+info,event,CSA T20 Challenge
+info,match_number,15
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Dolphins
+info,toss_decision,bat
+info,player_of_match,R Frylinck
+info,player_of_match,DA Miller
+info,umpire,BP Jele
+info,umpire,BM White
+info,reserve_umpire,Stephen Harris
+info,tv_umpire,A Paleker
+info,match_referee,S Wadvalla
+info,winner,Dolphins
+info,winner_runs,7
+info,player,Dolphins,G Roelofsen
+info,player,Dolphins,SJ Erwee
+info,player,Dolphins,R de Swardt
+info,player,Dolphins,DA Miller
+info,player,Dolphins,K Zondo
+info,player,Dolphins,M Mosehle
+info,player,Dolphins,R Frylinck
+info,player,Dolphins,KA Maharaj
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,OEG Baartman
+info,player,Dolphins,K Mungroo
+info,player,Titans,D Elgar
+info,player,Titans,AK Markram
+info,player,Titans,Dayyaan Galiem
+info,player,Titans,BS Makhanya
+info,player,Titans,CH Morris
+info,player,Titans,H Klaasen
+info,player,Titans,GM Thomson
+info,player,Titans,LB Williams
+info,player,Titans,L Ngidi
+info,player,Titans,T Shamsi
+info,player,Titans,O Cele
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GM Thomson,b06d95da
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,K Mungroo,56feceb0
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,M Mosehle,8836fcac
+info,registry,people,O Cele,6e5840e3
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,R de Swardt,57e1d7e4
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+ball,1,0.1,Dolphins,G Roelofsen,SJ Erwee,AK Markram,0,0,,,,,,"",""
+ball,1,0.2,Dolphins,G Roelofsen,SJ Erwee,AK Markram,0,0,,,,,,"",""
+ball,1,0.3,Dolphins,G Roelofsen,SJ Erwee,AK Markram,1,0,,,,,,"",""
+ball,1,0.4,Dolphins,SJ Erwee,G Roelofsen,AK Markram,4,0,,,,,,"",""
+ball,1,0.5,Dolphins,SJ Erwee,G Roelofsen,AK Markram,0,0,,,,,,"",""
+ball,1,0.6,Dolphins,SJ Erwee,G Roelofsen,AK Markram,1,0,,,,,,"",""
+ball,1,1.1,Dolphins,SJ Erwee,G Roelofsen,L Ngidi,1,0,,,,,,"",""
+ball,1,1.2,Dolphins,G Roelofsen,SJ Erwee,L Ngidi,1,0,,,,,,"",""
+ball,1,1.3,Dolphins,SJ Erwee,G Roelofsen,L Ngidi,0,0,,,,,,"",""
+ball,1,1.4,Dolphins,SJ Erwee,G Roelofsen,L Ngidi,1,0,,,,,,"",""
+ball,1,1.5,Dolphins,G Roelofsen,SJ Erwee,L Ngidi,1,0,,,,,,"",""
+ball,1,1.6,Dolphins,SJ Erwee,G Roelofsen,L Ngidi,2,0,,,,,,"",""
+ball,1,2.1,Dolphins,G Roelofsen,SJ Erwee,CH Morris,0,0,,,,,,"",""
+ball,1,2.2,Dolphins,G Roelofsen,SJ Erwee,CH Morris,4,0,,,,,,"",""
+ball,1,2.3,Dolphins,G Roelofsen,SJ Erwee,CH Morris,4,0,,,,,,"",""
+ball,1,2.4,Dolphins,G Roelofsen,SJ Erwee,CH Morris,1,0,,,,,,"",""
+ball,1,2.5,Dolphins,SJ Erwee,G Roelofsen,CH Morris,0,0,,,,,,"",""
+ball,1,2.6,Dolphins,SJ Erwee,G Roelofsen,CH Morris,1,0,,,,,,"",""
+ball,1,3.1,Dolphins,SJ Erwee,G Roelofsen,Dayyaan Galiem,6,0,,,,,,"",""
+ball,1,3.2,Dolphins,SJ Erwee,G Roelofsen,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,3.3,Dolphins,SJ Erwee,G Roelofsen,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,3.4,Dolphins,G Roelofsen,SJ Erwee,Dayyaan Galiem,6,0,,,,,,"",""
+ball,1,3.5,Dolphins,G Roelofsen,SJ Erwee,Dayyaan Galiem,0,0,,,,,,caught,G Roelofsen
+ball,1,3.6,Dolphins,R de Swardt,SJ Erwee,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,4.1,Dolphins,R de Swardt,SJ Erwee,LB Williams,0,0,,,,,,"",""
+ball,1,4.2,Dolphins,R de Swardt,SJ Erwee,LB Williams,4,0,,,,,,"",""
+ball,1,4.3,Dolphins,R de Swardt,SJ Erwee,LB Williams,0,0,,,,,,"",""
+ball,1,4.4,Dolphins,R de Swardt,SJ Erwee,LB Williams,0,0,,,,,,"",""
+ball,1,4.5,Dolphins,R de Swardt,SJ Erwee,LB Williams,0,0,,,,,,"",""
+ball,1,4.6,Dolphins,R de Swardt,SJ Erwee,LB Williams,0,0,,,,,,"",""
+ball,1,5.1,Dolphins,SJ Erwee,R de Swardt,CH Morris,4,0,,,,,,"",""
+ball,1,5.2,Dolphins,SJ Erwee,R de Swardt,CH Morris,0,1,,,,1,,"",""
+ball,1,5.3,Dolphins,R de Swardt,SJ Erwee,CH Morris,1,0,,,,,,"",""
+ball,1,5.4,Dolphins,SJ Erwee,R de Swardt,CH Morris,1,0,,,,,,"",""
+ball,1,5.5,Dolphins,R de Swardt,SJ Erwee,CH Morris,2,0,,,,,,"",""
+ball,1,5.6,Dolphins,R de Swardt,SJ Erwee,CH Morris,0,0,,,,,,"",""
+ball,1,6.1,Dolphins,SJ Erwee,R de Swardt,T Shamsi,0,1,,,,1,,"",""
+ball,1,6.2,Dolphins,R de Swardt,SJ Erwee,T Shamsi,1,0,,,,,,"",""
+ball,1,6.3,Dolphins,SJ Erwee,R de Swardt,T Shamsi,2,0,,,,,,"",""
+ball,1,6.4,Dolphins,SJ Erwee,R de Swardt,T Shamsi,4,0,,,,,,"",""
+ball,1,6.5,Dolphins,SJ Erwee,R de Swardt,T Shamsi,1,0,,,,,,"",""
+ball,1,6.6,Dolphins,R de Swardt,SJ Erwee,T Shamsi,0,0,,,,,,"",""
+ball,1,7.1,Dolphins,SJ Erwee,R de Swardt,L Ngidi,0,0,,,,,,caught,SJ Erwee
+ball,1,7.2,Dolphins,DA Miller,R de Swardt,L Ngidi,0,0,,,,,,"",""
+ball,1,7.3,Dolphins,DA Miller,R de Swardt,L Ngidi,1,0,,,,,,"",""
+ball,1,7.4,Dolphins,R de Swardt,DA Miller,L Ngidi,0,0,,,,,,"",""
+ball,1,7.5,Dolphins,R de Swardt,DA Miller,L Ngidi,1,0,,,,,,"",""
+ball,1,7.6,Dolphins,DA Miller,R de Swardt,L Ngidi,0,0,,,,,,"",""
+ball,1,8.1,Dolphins,R de Swardt,DA Miller,T Shamsi,1,0,,,,,,"",""
+ball,1,8.2,Dolphins,DA Miller,R de Swardt,T Shamsi,1,0,,,,,,"",""
+ball,1,8.3,Dolphins,R de Swardt,DA Miller,T Shamsi,0,0,,,,,,lbw,R de Swardt
+ball,1,8.4,Dolphins,K Zondo,DA Miller,T Shamsi,0,0,,,,,,"",""
+ball,1,8.5,Dolphins,K Zondo,DA Miller,T Shamsi,0,0,,,,,,"",""
+ball,1,8.6,Dolphins,K Zondo,DA Miller,T Shamsi,1,0,,,,,,"",""
+ball,1,9.1,Dolphins,K Zondo,DA Miller,O Cele,1,0,,,,,,"",""
+ball,1,9.2,Dolphins,DA Miller,K Zondo,O Cele,1,0,,,,,,"",""
+ball,1,9.3,Dolphins,K Zondo,DA Miller,O Cele,0,0,,,,,,"",""
+ball,1,9.4,Dolphins,K Zondo,DA Miller,O Cele,0,1,,,,1,,"",""
+ball,1,9.5,Dolphins,DA Miller,K Zondo,O Cele,0,0,,,,,,"",""
+ball,1,9.6,Dolphins,DA Miller,K Zondo,O Cele,0,0,,,,,,"",""
+ball,1,10.1,Dolphins,K Zondo,DA Miller,T Shamsi,0,0,,,,,,"",""
+ball,1,10.2,Dolphins,K Zondo,DA Miller,T Shamsi,6,0,,,,,,"",""
+ball,1,10.3,Dolphins,K Zondo,DA Miller,T Shamsi,0,0,,,,,,"",""
+ball,1,10.4,Dolphins,K Zondo,DA Miller,T Shamsi,1,0,,,,,,"",""
+ball,1,10.5,Dolphins,DA Miller,K Zondo,T Shamsi,1,0,,,,,,"",""
+ball,1,10.6,Dolphins,K Zondo,DA Miller,T Shamsi,1,0,,,,,,"",""
+ball,1,11.1,Dolphins,K Zondo,DA Miller,LB Williams,0,0,,,,,,run out,K Zondo
+ball,1,11.2,Dolphins,DA Miller,M Mosehle,LB Williams,0,0,,,,,,"",""
+ball,1,11.3,Dolphins,DA Miller,M Mosehle,LB Williams,1,0,,,,,,"",""
+ball,1,11.4,Dolphins,M Mosehle,DA Miller,LB Williams,0,0,,,,,,"",""
+ball,1,11.5,Dolphins,M Mosehle,DA Miller,LB Williams,1,0,,,,,,"",""
+ball,1,11.6,Dolphins,DA Miller,M Mosehle,LB Williams,1,0,,,,,,"",""
+ball,1,12.1,Dolphins,DA Miller,M Mosehle,T Shamsi,1,0,,,,,,"",""
+ball,1,12.2,Dolphins,M Mosehle,DA Miller,T Shamsi,0,0,,,,,,"",""
+ball,1,12.3,Dolphins,M Mosehle,DA Miller,T Shamsi,0,0,,,,,,"",""
+ball,1,12.4,Dolphins,M Mosehle,DA Miller,T Shamsi,0,1,,,,1,,"",""
+ball,1,12.5,Dolphins,DA Miller,M Mosehle,T Shamsi,6,0,,,,,,"",""
+ball,1,12.6,Dolphins,DA Miller,M Mosehle,T Shamsi,1,0,,,,,,"",""
+ball,1,13.1,Dolphins,DA Miller,M Mosehle,O Cele,1,0,,,,,,"",""
+ball,1,13.2,Dolphins,M Mosehle,DA Miller,O Cele,0,0,,,,,,"",""
+ball,1,13.3,Dolphins,M Mosehle,DA Miller,O Cele,0,0,,,,,,"",""
+ball,1,13.4,Dolphins,M Mosehle,DA Miller,O Cele,1,0,,,,,,"",""
+ball,1,13.5,Dolphins,DA Miller,M Mosehle,O Cele,0,0,,,,,,"",""
+ball,1,13.6,Dolphins,DA Miller,M Mosehle,O Cele,1,0,,,,,,"",""
+ball,1,14.1,Dolphins,DA Miller,M Mosehle,LB Williams,4,0,,,,,,"",""
+ball,1,14.2,Dolphins,DA Miller,M Mosehle,LB Williams,2,0,,,,,,"",""
+ball,1,14.3,Dolphins,DA Miller,M Mosehle,LB Williams,1,0,,,,,,"",""
+ball,1,14.4,Dolphins,M Mosehle,DA Miller,LB Williams,4,0,,,,,,"",""
+ball,1,14.5,Dolphins,M Mosehle,DA Miller,LB Williams,1,0,,,,,,"",""
+ball,1,14.6,Dolphins,DA Miller,M Mosehle,LB Williams,1,0,,,,,,"",""
+ball,1,15.1,Dolphins,DA Miller,M Mosehle,L Ngidi,1,0,,,,,,"",""
+ball,1,15.2,Dolphins,M Mosehle,DA Miller,L Ngidi,0,1,1,,,,,"",""
+ball,1,15.3,Dolphins,M Mosehle,DA Miller,L Ngidi,1,0,,,,,,"",""
+ball,1,15.4,Dolphins,DA Miller,M Mosehle,L Ngidi,1,0,,,,,,"",""
+ball,1,15.5,Dolphins,M Mosehle,DA Miller,L Ngidi,0,0,,,,,,lbw,M Mosehle
+ball,1,15.6,Dolphins,R Frylinck,DA Miller,L Ngidi,0,0,,,,,,"",""
+ball,1,15.7,Dolphins,R Frylinck,DA Miller,L Ngidi,1,0,,,,,,"",""
+ball,1,16.1,Dolphins,R Frylinck,DA Miller,O Cele,1,0,,,,,,"",""
+ball,1,16.2,Dolphins,DA Miller,R Frylinck,O Cele,1,0,,,,,,"",""
+ball,1,16.3,Dolphins,R Frylinck,DA Miller,O Cele,1,0,,,,,,"",""
+ball,1,16.4,Dolphins,DA Miller,R Frylinck,O Cele,0,1,1,,,,,"",""
+ball,1,16.5,Dolphins,DA Miller,R Frylinck,O Cele,0,0,,,,,,"",""
+ball,1,16.6,Dolphins,DA Miller,R Frylinck,O Cele,1,0,,,,,,"",""
+ball,1,16.7,Dolphins,R Frylinck,DA Miller,O Cele,0,0,,,,,,"",""
+ball,1,17.1,Dolphins,DA Miller,R Frylinck,CH Morris,1,0,,,,,,"",""
+ball,1,17.2,Dolphins,R Frylinck,DA Miller,CH Morris,2,0,,,,,,"",""
+ball,1,17.3,Dolphins,R Frylinck,DA Miller,CH Morris,2,0,,,,,,"",""
+ball,1,17.4,Dolphins,R Frylinck,DA Miller,CH Morris,1,0,,,,,,"",""
+ball,1,17.5,Dolphins,DA Miller,R Frylinck,CH Morris,4,0,,,,,,"",""
+ball,1,17.6,Dolphins,DA Miller,R Frylinck,CH Morris,4,0,,,,,,"",""
+ball,1,18.1,Dolphins,R Frylinck,DA Miller,L Ngidi,4,0,,,,,,"",""
+ball,1,18.2,Dolphins,R Frylinck,DA Miller,L Ngidi,0,0,,,,,,"",""
+ball,1,18.3,Dolphins,R Frylinck,DA Miller,L Ngidi,1,0,,,,,,"",""
+ball,1,18.4,Dolphins,DA Miller,R Frylinck,L Ngidi,1,0,,,,,,"",""
+ball,1,18.5,Dolphins,R Frylinck,DA Miller,L Ngidi,0,0,,,,,,caught,R Frylinck
+ball,1,18.6,Dolphins,DA Miller,KA Maharaj,L Ngidi,0,1,1,,,,,"",""
+ball,1,18.7,Dolphins,DA Miller,KA Maharaj,L Ngidi,0,1,,,,1,,"",""
+ball,1,19.1,Dolphins,DA Miller,KA Maharaj,LB Williams,1,0,,,,,,"",""
+ball,1,19.2,Dolphins,KA Maharaj,DA Miller,LB Williams,0,0,,,,,,"",""
+ball,1,19.3,Dolphins,KA Maharaj,DA Miller,LB Williams,1,0,,,,,,"",""
+ball,1,19.4,Dolphins,DA Miller,KA Maharaj,LB Williams,6,0,,,,,,"",""
+ball,1,19.5,Dolphins,DA Miller,KA Maharaj,LB Williams,2,0,,,,,,"",""
+ball,1,19.6,Dolphins,DA Miller,KA Maharaj,LB Williams,2,0,,,,,,"",""
+ball,2,0.1,Titans,D Elgar,AK Markram,KA Maharaj,1,0,,,,,,"",""
+ball,2,0.2,Titans,AK Markram,D Elgar,KA Maharaj,0,0,,,,,,"",""
+ball,2,0.3,Titans,AK Markram,D Elgar,KA Maharaj,0,0,,,,,,"",""
+ball,2,0.4,Titans,AK Markram,D Elgar,KA Maharaj,1,0,,,,,,"",""
+ball,2,0.5,Titans,D Elgar,AK Markram,KA Maharaj,0,0,,,,,,"",""
+ball,2,0.6,Titans,D Elgar,AK Markram,KA Maharaj,0,0,,,,,,"",""
+ball,2,1.1,Titans,AK Markram,D Elgar,P Subrayen,1,0,,,,,,"",""
+ball,2,1.2,Titans,D Elgar,AK Markram,P Subrayen,0,0,,,,,,"",""
+ball,2,1.3,Titans,D Elgar,AK Markram,P Subrayen,0,0,,,,,,"",""
+ball,2,1.4,Titans,D Elgar,AK Markram,P Subrayen,1,0,,,,,,"",""
+ball,2,1.5,Titans,AK Markram,D Elgar,P Subrayen,1,0,,,,,,"",""
+ball,2,1.6,Titans,D Elgar,AK Markram,P Subrayen,0,0,,,,,,"",""
+ball,2,2.1,Titans,AK Markram,D Elgar,R Frylinck,0,0,,,,,,"",""
+ball,2,2.2,Titans,AK Markram,D Elgar,R Frylinck,0,0,,,,,,"",""
+ball,2,2.3,Titans,AK Markram,D Elgar,R Frylinck,0,0,,,,,,caught,AK Markram
+ball,2,2.4,Titans,D Elgar,Dayyaan Galiem,R Frylinck,0,0,,,,,,"",""
+ball,2,2.5,Titans,D Elgar,Dayyaan Galiem,R Frylinck,4,0,,,,,,"",""
+ball,2,2.6,Titans,D Elgar,Dayyaan Galiem,R Frylinck,0,0,,,,,,"",""
+ball,2,3.1,Titans,Dayyaan Galiem,D Elgar,P Subrayen,0,0,,,,,,"",""
+ball,2,3.2,Titans,Dayyaan Galiem,D Elgar,P Subrayen,1,0,,,,,,"",""
+ball,2,3.3,Titans,D Elgar,Dayyaan Galiem,P Subrayen,0,0,,,,,,"",""
+ball,2,3.4,Titans,D Elgar,Dayyaan Galiem,P Subrayen,1,0,,,,,,"",""
+ball,2,3.5,Titans,Dayyaan Galiem,D Elgar,P Subrayen,0,0,,,,,,"",""
+ball,2,3.6,Titans,Dayyaan Galiem,D Elgar,P Subrayen,1,0,,,,,,"",""
+ball,2,4.1,Titans,Dayyaan Galiem,D Elgar,R Frylinck,0,0,,,,,,"",""
+ball,2,4.2,Titans,Dayyaan Galiem,D Elgar,R Frylinck,1,0,,,,,,"",""
+ball,2,4.3,Titans,D Elgar,Dayyaan Galiem,R Frylinck,1,0,,,,,,"",""
+ball,2,4.4,Titans,Dayyaan Galiem,D Elgar,R Frylinck,0,0,,,,,,"",""
+ball,2,4.5,Titans,Dayyaan Galiem,D Elgar,R Frylinck,4,0,,,,,,"",""
+ball,2,4.6,Titans,Dayyaan Galiem,D Elgar,R Frylinck,1,0,,,,,,"",""
+ball,2,5.1,Titans,Dayyaan Galiem,D Elgar,P Subrayen,1,0,,,,,,"",""
+ball,2,5.2,Titans,D Elgar,Dayyaan Galiem,P Subrayen,0,0,,,,,,"",""
+ball,2,5.3,Titans,D Elgar,Dayyaan Galiem,P Subrayen,4,0,,,,,,"",""
+ball,2,5.4,Titans,D Elgar,Dayyaan Galiem,P Subrayen,0,0,,,,,,"",""
+ball,2,5.5,Titans,D Elgar,Dayyaan Galiem,P Subrayen,1,0,,,,,,"",""
+ball,2,5.6,Titans,Dayyaan Galiem,D Elgar,P Subrayen,1,0,,,,,,"",""
+ball,2,6.1,Titans,Dayyaan Galiem,D Elgar,OEG Baartman,1,0,,,,,,"",""
+ball,2,6.2,Titans,D Elgar,Dayyaan Galiem,OEG Baartman,0,0,,,,,,"",""
+ball,2,6.3,Titans,D Elgar,Dayyaan Galiem,OEG Baartman,1,0,,,,,,"",""
+ball,2,6.4,Titans,Dayyaan Galiem,D Elgar,OEG Baartman,1,0,,,,,,"",""
+ball,2,6.5,Titans,D Elgar,Dayyaan Galiem,OEG Baartman,2,0,,,,,,"",""
+ball,2,6.6,Titans,D Elgar,Dayyaan Galiem,OEG Baartman,1,0,,,,,,"",""
+ball,2,7.1,Titans,D Elgar,Dayyaan Galiem,K Mungroo,1,0,,,,,,"",""
+ball,2,7.2,Titans,Dayyaan Galiem,D Elgar,K Mungroo,2,0,,,,,,"",""
+ball,2,7.3,Titans,Dayyaan Galiem,D Elgar,K Mungroo,1,0,,,,,,"",""
+ball,2,7.4,Titans,D Elgar,Dayyaan Galiem,K Mungroo,0,0,,,,,,"",""
+ball,2,7.5,Titans,D Elgar,Dayyaan Galiem,K Mungroo,1,0,,,,,,"",""
+ball,2,7.6,Titans,Dayyaan Galiem,D Elgar,K Mungroo,0,1,1,,,,,"",""
+ball,2,7.7,Titans,Dayyaan Galiem,D Elgar,K Mungroo,0,0,,,,,,"",""
+ball,2,8.1,Titans,D Elgar,Dayyaan Galiem,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.2,Titans,Dayyaan Galiem,D Elgar,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.3,Titans,D Elgar,Dayyaan Galiem,KA Maharaj,2,0,,,,,,"",""
+ball,2,8.4,Titans,D Elgar,Dayyaan Galiem,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.5,Titans,Dayyaan Galiem,D Elgar,KA Maharaj,0,0,,,,,,"",""
+ball,2,8.6,Titans,Dayyaan Galiem,D Elgar,KA Maharaj,4,0,,,,,,"",""
+ball,2,9.1,Titans,D Elgar,Dayyaan Galiem,K Mungroo,0,0,,,,,,"",""
+ball,2,9.2,Titans,D Elgar,Dayyaan Galiem,K Mungroo,1,0,,,,,,"",""
+ball,2,9.3,Titans,Dayyaan Galiem,D Elgar,K Mungroo,1,0,,,,,,"",""
+ball,2,9.4,Titans,D Elgar,Dayyaan Galiem,K Mungroo,1,0,,,,,,"",""
+ball,2,9.5,Titans,Dayyaan Galiem,D Elgar,K Mungroo,1,0,,,,,,"",""
+ball,2,9.6,Titans,D Elgar,Dayyaan Galiem,K Mungroo,0,0,,,,,,caught,D Elgar
+ball,2,10.1,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,0,0,,,,,,"",""
+ball,2,10.2,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,0,0,,,,,,"",""
+ball,2,10.3,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,0,5,5,,,,,"",""
+ball,2,10.4,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,1,0,,,,,,"",""
+ball,2,10.5,Titans,BS Makhanya,Dayyaan Galiem,KA Maharaj,1,0,,,,,,"",""
+ball,2,10.6,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,1,0,,,,,,"",""
+ball,2,10.7,Titans,BS Makhanya,Dayyaan Galiem,KA Maharaj,1,0,,,,,,"",""
+ball,2,11.1,Titans,BS Makhanya,Dayyaan Galiem,P Subrayen,1,0,,,,,,"",""
+ball,2,11.2,Titans,Dayyaan Galiem,BS Makhanya,P Subrayen,0,0,,,,,,"",""
+ball,2,11.3,Titans,Dayyaan Galiem,BS Makhanya,P Subrayen,0,0,,,,,,"",""
+ball,2,11.4,Titans,Dayyaan Galiem,BS Makhanya,P Subrayen,1,0,,,,,,"",""
+ball,2,11.5,Titans,BS Makhanya,Dayyaan Galiem,P Subrayen,0,0,,,,,,"",""
+ball,2,11.6,Titans,BS Makhanya,Dayyaan Galiem,P Subrayen,0,0,,,,,,"",""
+ball,2,12.1,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,2,0,,,,,,"",""
+ball,2,12.2,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,0,0,,,,,,"",""
+ball,2,12.3,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,0,0,,,,,,"",""
+ball,2,12.4,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,6,0,,,,,,"",""
+ball,2,12.5,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,4,0,,,,,,"",""
+ball,2,12.6,Titans,Dayyaan Galiem,BS Makhanya,KA Maharaj,0,0,,,,,,"",""
+ball,2,13.1,Titans,BS Makhanya,Dayyaan Galiem,OEG Baartman,1,0,,,,,,"",""
+ball,2,13.2,Titans,Dayyaan Galiem,BS Makhanya,OEG Baartman,2,0,,,,,,"",""
+ball,2,13.3,Titans,Dayyaan Galiem,BS Makhanya,OEG Baartman,4,0,,,,,,"",""
+ball,2,13.4,Titans,Dayyaan Galiem,BS Makhanya,OEG Baartman,1,0,,,,,,"",""
+ball,2,13.5,Titans,BS Makhanya,Dayyaan Galiem,OEG Baartman,2,0,,,,,,"",""
+ball,2,13.6,Titans,BS Makhanya,Dayyaan Galiem,OEG Baartman,4,0,,,,,,"",""
+ball,2,14.1,Titans,Dayyaan Galiem,BS Makhanya,R Frylinck,1,0,,,,,,"",""
+ball,2,14.2,Titans,BS Makhanya,Dayyaan Galiem,R Frylinck,2,0,,,,,,"",""
+ball,2,14.3,Titans,BS Makhanya,Dayyaan Galiem,R Frylinck,1,0,,,,,,"",""
+ball,2,14.4,Titans,Dayyaan Galiem,BS Makhanya,R Frylinck,0,0,,,,,,caught,Dayyaan Galiem
+ball,2,14.5,Titans,BS Makhanya,CH Morris,R Frylinck,1,0,,,,,,"",""
+ball,2,14.6,Titans,CH Morris,BS Makhanya,R Frylinck,1,0,,,,,,"",""
+ball,2,15.1,Titans,CH Morris,BS Makhanya,K Mungroo,1,0,,,,,,"",""
+ball,2,15.2,Titans,BS Makhanya,CH Morris,K Mungroo,1,0,,,,,,"",""
+ball,2,15.3,Titans,CH Morris,BS Makhanya,K Mungroo,1,0,,,,,,"",""
+ball,2,15.4,Titans,BS Makhanya,CH Morris,K Mungroo,0,0,,,,,,caught,BS Makhanya
+ball,2,15.5,Titans,CH Morris,H Klaasen,K Mungroo,1,0,,,,,,"",""
+ball,2,15.6,Titans,H Klaasen,CH Morris,K Mungroo,0,0,,,,,,"",""
+ball,2,16.1,Titans,CH Morris,H Klaasen,R Frylinck,1,0,,,,,,"",""
+ball,2,16.2,Titans,H Klaasen,CH Morris,R Frylinck,1,0,,,,,,"",""
+ball,2,16.3,Titans,CH Morris,H Klaasen,R Frylinck,1,0,,,,,,"",""
+ball,2,16.4,Titans,H Klaasen,CH Morris,R Frylinck,4,0,,,,,,"",""
+ball,2,16.5,Titans,H Klaasen,CH Morris,R Frylinck,0,0,,,,,,"",""
+ball,2,16.6,Titans,H Klaasen,CH Morris,R Frylinck,2,0,,,,,,"",""
+ball,2,17.1,Titans,CH Morris,H Klaasen,OEG Baartman,0,0,,,,,,caught,CH Morris
+ball,2,17.2,Titans,H Klaasen,GM Thomson,OEG Baartman,1,0,,,,,,"",""
+ball,2,17.3,Titans,GM Thomson,H Klaasen,OEG Baartman,2,0,,,,,,"",""
+ball,2,17.4,Titans,GM Thomson,H Klaasen,OEG Baartman,0,0,,,,,,"",""
+ball,2,17.5,Titans,GM Thomson,H Klaasen,OEG Baartman,1,0,,,,,,"",""
+ball,2,17.6,Titans,H Klaasen,GM Thomson,OEG Baartman,4,0,,,,,,"",""
+ball,2,18.1,Titans,GM Thomson,H Klaasen,K Mungroo,0,0,,,,,,"",""
+ball,2,18.2,Titans,GM Thomson,H Klaasen,K Mungroo,1,0,,,,,,"",""
+ball,2,18.3,Titans,H Klaasen,GM Thomson,K Mungroo,4,0,,,,,,"",""
+ball,2,18.4,Titans,H Klaasen,GM Thomson,K Mungroo,0,0,,,,,,"",""
+ball,2,18.5,Titans,H Klaasen,GM Thomson,K Mungroo,4,0,,,,,,"",""
+ball,2,18.6,Titans,H Klaasen,GM Thomson,K Mungroo,6,0,,,,,,"",""
+ball,2,19.1,Titans,GM Thomson,H Klaasen,OEG Baartman,6,0,,,,,,"",""
+ball,2,19.2,Titans,GM Thomson,H Klaasen,OEG Baartman,0,0,,,,,,run out,GM Thomson
+ball,2,19.3,Titans,H Klaasen,LB Williams,OEG Baartman,2,0,,,,,,"",""
+ball,2,19.4,Titans,H Klaasen,LB Williams,OEG Baartman,0,5,,1,4,,,"",""
+ball,2,19.5,Titans,H Klaasen,LB Williams,OEG Baartman,1,0,,,,,,"",""
+ball,2,19.6,Titans,LB Williams,H Klaasen,OEG Baartman,0,0,,,,,,"",""
+ball,2,19.7,Titans,LB Williams,H Klaasen,OEG Baartman,0,0,,,,,,"",""

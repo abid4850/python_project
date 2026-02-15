@@ -1,0 +1,279 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Birmingham Phoenix
+info,team,Welsh Fire
+info,gender,female
+info,season,2022
+info,date,2022/08/13
+info,event,The Hundred Women's Competition
+info,match_number,4
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Welsh Fire
+info,toss_decision,field
+info,player_of_match,EA Perry
+info,umpire,CA Polosak
+info,umpire,ID Blackwell
+info,reserve_umpire,G Bambury
+info,tv_umpire,AG Wharf
+info,match_referee,Phil Whitticase
+info,winner,Birmingham Phoenix
+info,winner_runs,19
+info,player,Birmingham Phoenix,SFM Devine
+info,player,Birmingham Phoenix,E Jones
+info,player,Birmingham Phoenix,AE Jones
+info,player,Birmingham Phoenix,EA Perry
+info,player,Birmingham Phoenix,S Molineux
+info,player,Birmingham Phoenix,IECM Wong
+info,player,Birmingham Phoenix,EL Arlott
+info,player,Birmingham Phoenix,GA Elwiss
+info,player,Birmingham Phoenix,GM Davies
+info,player,Birmingham Phoenix,KL Gordon
+info,player,Birmingham Phoenix,AH Maqsood
+info,player,Welsh Fire,TT Beaumont
+info,player,Welsh Fire,HK Matthews
+info,player,Welsh Fire,RL Haynes
+info,player,Welsh Fire,A Sutherland
+info,player,Welsh Fire,FC Wilson
+info,player,Welsh Fire,KL George
+info,player,Welsh Fire,FMK Morris
+info,player,Welsh Fire,SJ Bryce
+info,player,Welsh Fire,L Filer
+info,player,Welsh Fire,A Hartley
+info,player,Welsh Fire,C Nicholas
+info,registry,people,A Hartley,53d50717
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,C Nicholas,efc40724
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,E Jones,971cb321
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,G Bambury,a8e0ed6a
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GM Davies,dbd30397
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,KL George,e69dbbef
+info,registry,people,KL Gordon,00823a96
+info,registry,people,L Filer,31adb911
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,S Molineux,99e23670
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,TT Beaumont,b2664905
+ball,1,0.1,Birmingham Phoenix,SFM Devine,E Jones,C Nicholas,1,0,,,,,,"",""
+ball,1,0.2,Birmingham Phoenix,E Jones,SFM Devine,C Nicholas,1,0,,,,,,"",""
+ball,1,0.3,Birmingham Phoenix,SFM Devine,E Jones,C Nicholas,1,0,,,,,,"",""
+ball,1,0.4,Birmingham Phoenix,E Jones,SFM Devine,C Nicholas,0,0,,,,,,"",""
+ball,1,0.5,Birmingham Phoenix,E Jones,SFM Devine,C Nicholas,0,0,,,,,,"",""
+ball,1,1.1,Birmingham Phoenix,E Jones,SFM Devine,C Nicholas,0,0,,,,,,bowled,E Jones
+ball,1,1.2,Birmingham Phoenix,AE Jones,SFM Devine,C Nicholas,0,0,,,,,,"",""
+ball,1,1.3,Birmingham Phoenix,AE Jones,SFM Devine,C Nicholas,1,0,,,,,,"",""
+ball,1,1.4,Birmingham Phoenix,SFM Devine,AE Jones,C Nicholas,2,0,,,,,,"",""
+ball,1,1.5,Birmingham Phoenix,SFM Devine,AE Jones,C Nicholas,4,0,,,,,,"",""
+ball,1,2.1,Birmingham Phoenix,AE Jones,SFM Devine,L Filer,0,0,,,,,,"",""
+ball,1,2.2,Birmingham Phoenix,AE Jones,SFM Devine,L Filer,1,0,,,,,,"",""
+ball,1,2.3,Birmingham Phoenix,SFM Devine,AE Jones,L Filer,0,0,,,,,,"",""
+ball,1,2.4,Birmingham Phoenix,SFM Devine,AE Jones,L Filer,0,0,,,,,,"",""
+ball,1,2.5,Birmingham Phoenix,SFM Devine,AE Jones,L Filer,4,0,,,,,,"",""
+ball,1,3.1,Birmingham Phoenix,SFM Devine,AE Jones,A Hartley,0,0,,,,,,"",""
+ball,1,3.2,Birmingham Phoenix,SFM Devine,AE Jones,A Hartley,1,0,,,,,,"",""
+ball,1,3.3,Birmingham Phoenix,AE Jones,SFM Devine,A Hartley,0,0,,,,,,caught,AE Jones
+ball,1,3.4,Birmingham Phoenix,EA Perry,SFM Devine,A Hartley,4,0,,,,,,"",""
+ball,1,3.5,Birmingham Phoenix,EA Perry,SFM Devine,A Hartley,0,0,,,,,,"",""
+ball,1,4.1,Birmingham Phoenix,SFM Devine,EA Perry,A Sutherland,1,0,,,,,,"",""
+ball,1,4.2,Birmingham Phoenix,EA Perry,SFM Devine,A Sutherland,1,2,,2,,,,"",""
+ball,1,4.3,Birmingham Phoenix,SFM Devine,EA Perry,A Sutherland,4,2,,2,,,,"",""
+ball,1,4.4,Birmingham Phoenix,SFM Devine,EA Perry,A Sutherland,4,0,,,,,,"",""
+ball,1,4.5,Birmingham Phoenix,SFM Devine,EA Perry,A Sutherland,0,0,,,,,,"",""
+ball,1,4.6,Birmingham Phoenix,SFM Devine,EA Perry,A Sutherland,4,0,,,,,,"",""
+ball,1,4.7,Birmingham Phoenix,SFM Devine,EA Perry,A Sutherland,4,0,,,,,,"",""
+ball,1,5.1,Birmingham Phoenix,SFM Devine,EA Perry,HK Matthews,0,1,1,,,,,"",""
+ball,1,5.2,Birmingham Phoenix,SFM Devine,EA Perry,HK Matthews,6,0,,,,,,"",""
+ball,1,5.3,Birmingham Phoenix,SFM Devine,EA Perry,HK Matthews,0,0,,,,,,"",""
+ball,1,5.4,Birmingham Phoenix,SFM Devine,EA Perry,HK Matthews,6,0,,,,,,"",""
+ball,1,5.5,Birmingham Phoenix,SFM Devine,EA Perry,HK Matthews,4,0,,,,,,"",""
+ball,1,5.6,Birmingham Phoenix,SFM Devine,EA Perry,HK Matthews,1,0,,,,,,"",""
+ball,1,6.1,Birmingham Phoenix,SFM Devine,EA Perry,L Filer,0,0,,,,,,"",""
+ball,1,6.2,Birmingham Phoenix,SFM Devine,EA Perry,L Filer,0,0,,,,,,"",""
+ball,1,6.3,Birmingham Phoenix,SFM Devine,EA Perry,L Filer,0,0,,,,,,"",""
+ball,1,6.4,Birmingham Phoenix,SFM Devine,EA Perry,L Filer,1,0,,,,,,"",""
+ball,1,6.5,Birmingham Phoenix,EA Perry,SFM Devine,L Filer,1,0,,,,,,"",""
+ball,1,7.1,Birmingham Phoenix,SFM Devine,EA Perry,KL George,0,0,,,,,,caught,SFM Devine
+ball,1,7.2,Birmingham Phoenix,S Molineux,EA Perry,KL George,1,0,,,,,,"",""
+ball,1,7.3,Birmingham Phoenix,EA Perry,S Molineux,KL George,1,0,,,,,,"",""
+ball,1,7.4,Birmingham Phoenix,S Molineux,EA Perry,KL George,0,1,1,,,,,"",""
+ball,1,7.5,Birmingham Phoenix,S Molineux,EA Perry,KL George,1,0,,,,,,"",""
+ball,1,7.6,Birmingham Phoenix,EA Perry,S Molineux,KL George,4,0,,,,,,"",""
+ball,1,8.1,Birmingham Phoenix,S Molineux,EA Perry,C Nicholas,0,0,,,,,,"",""
+ball,1,8.2,Birmingham Phoenix,S Molineux,EA Perry,C Nicholas,1,0,,,,,,"",""
+ball,1,8.3,Birmingham Phoenix,EA Perry,S Molineux,C Nicholas,4,0,,,,,,"",""
+ball,1,8.4,Birmingham Phoenix,EA Perry,S Molineux,C Nicholas,4,0,,,,,,"",""
+ball,1,8.5,Birmingham Phoenix,EA Perry,S Molineux,C Nicholas,0,0,,,,,,"",""
+ball,1,9.1,Birmingham Phoenix,EA Perry,S Molineux,A Hartley,1,0,,,,,,"",""
+ball,1,9.2,Birmingham Phoenix,S Molineux,EA Perry,A Hartley,1,0,,,,,,"",""
+ball,1,9.3,Birmingham Phoenix,EA Perry,S Molineux,A Hartley,4,0,,,,,,"",""
+ball,1,9.4,Birmingham Phoenix,EA Perry,S Molineux,A Hartley,4,0,,,,,,"",""
+ball,1,9.5,Birmingham Phoenix,EA Perry,S Molineux,A Hartley,2,0,,,,,,"",""
+ball,1,10.1,Birmingham Phoenix,S Molineux,EA Perry,L Filer,1,0,,,,,,"",""
+ball,1,10.2,Birmingham Phoenix,EA Perry,S Molineux,L Filer,1,0,,,,,,"",""
+ball,1,10.3,Birmingham Phoenix,S Molineux,EA Perry,L Filer,1,0,,,,,,"",""
+ball,1,10.4,Birmingham Phoenix,EA Perry,S Molineux,L Filer,0,0,,,,,,"",""
+ball,1,10.5,Birmingham Phoenix,EA Perry,S Molineux,L Filer,4,0,,,,,,"",""
+ball,1,11.1,Birmingham Phoenix,EA Perry,S Molineux,A Sutherland,4,0,,,,,,"",""
+ball,1,11.2,Birmingham Phoenix,EA Perry,S Molineux,A Sutherland,1,0,,,,,,"",""
+ball,1,11.3,Birmingham Phoenix,S Molineux,EA Perry,A Sutherland,2,0,,,,,,"",""
+ball,1,11.4,Birmingham Phoenix,S Molineux,EA Perry,A Sutherland,0,0,,,,,,"",""
+ball,1,11.5,Birmingham Phoenix,S Molineux,EA Perry,A Sutherland,1,0,,,,,,"",""
+ball,1,12.1,Birmingham Phoenix,S Molineux,EA Perry,KL George,1,0,,,,,,"",""
+ball,1,12.2,Birmingham Phoenix,EA Perry,S Molineux,KL George,1,0,,,,,,"",""
+ball,1,12.3,Birmingham Phoenix,S Molineux,EA Perry,KL George,0,0,,,,,,"",""
+ball,1,12.4,Birmingham Phoenix,S Molineux,EA Perry,KL George,1,0,,,,,,"",""
+ball,1,12.5,Birmingham Phoenix,EA Perry,S Molineux,KL George,4,0,,,,,,"",""
+ball,1,13.1,Birmingham Phoenix,EA Perry,S Molineux,HK Matthews,1,0,,,,,,"",""
+ball,1,13.2,Birmingham Phoenix,S Molineux,EA Perry,HK Matthews,4,0,,,,,,"",""
+ball,1,13.3,Birmingham Phoenix,S Molineux,EA Perry,HK Matthews,1,0,,,,,,"",""
+ball,1,13.4,Birmingham Phoenix,EA Perry,S Molineux,HK Matthews,1,0,,,,,,"",""
+ball,1,13.5,Birmingham Phoenix,S Molineux,EA Perry,HK Matthews,1,0,,,,,,"",""
+ball,1,14.1,Birmingham Phoenix,S Molineux,EA Perry,A Hartley,0,0,,,,,,"",""
+ball,1,14.2,Birmingham Phoenix,S Molineux,EA Perry,A Hartley,0,0,,,,,,"",""
+ball,1,14.3,Birmingham Phoenix,S Molineux,EA Perry,A Hartley,1,0,,,,,,"",""
+ball,1,14.4,Birmingham Phoenix,EA Perry,S Molineux,A Hartley,1,0,,,,,,"",""
+ball,1,14.5,Birmingham Phoenix,S Molineux,EA Perry,A Hartley,1,0,,,,,,"",""
+ball,1,15.1,Birmingham Phoenix,EA Perry,S Molineux,L Filer,1,0,,,,,,"",""
+ball,1,15.2,Birmingham Phoenix,S Molineux,EA Perry,L Filer,0,0,,,,,,"",""
+ball,1,15.3,Birmingham Phoenix,S Molineux,EA Perry,L Filer,4,0,,,,,,"",""
+ball,1,15.4,Birmingham Phoenix,S Molineux,EA Perry,L Filer,1,0,,,,,,"",""
+ball,1,15.5,Birmingham Phoenix,EA Perry,S Molineux,L Filer,0,0,,,,,,"",""
+ball,1,16.1,Birmingham Phoenix,S Molineux,EA Perry,A Hartley,1,0,,,,,,"",""
+ball,1,16.2,Birmingham Phoenix,EA Perry,S Molineux,A Hartley,1,0,,,,,,"",""
+ball,1,16.3,Birmingham Phoenix,S Molineux,EA Perry,A Hartley,1,0,,,,,,"",""
+ball,1,16.4,Birmingham Phoenix,EA Perry,S Molineux,A Hartley,1,0,,,,,,"",""
+ball,1,16.5,Birmingham Phoenix,S Molineux,EA Perry,A Hartley,0,2,2,,,,,"",""
+ball,1,16.6,Birmingham Phoenix,EA Perry,S Molineux,A Hartley,1,0,,,,,,"",""
+ball,1,17.1,Birmingham Phoenix,S Molineux,EA Perry,C Nicholas,0,0,,,,,,"",""
+ball,1,17.2,Birmingham Phoenix,S Molineux,EA Perry,C Nicholas,1,0,,,,,,"",""
+ball,1,17.3,Birmingham Phoenix,EA Perry,S Molineux,C Nicholas,2,0,,,,,,"",""
+ball,1,17.4,Birmingham Phoenix,EA Perry,S Molineux,C Nicholas,4,0,,,,,,"",""
+ball,1,17.5,Birmingham Phoenix,EA Perry,S Molineux,C Nicholas,0,0,,,,,,caught,EA Perry
+ball,1,18.1,Birmingham Phoenix,S Molineux,IECM Wong,A Sutherland,0,1,1,,,,,"",""
+ball,1,18.2,Birmingham Phoenix,S Molineux,IECM Wong,A Sutherland,1,0,,,,,,"",""
+ball,1,18.3,Birmingham Phoenix,IECM Wong,S Molineux,A Sutherland,0,0,,,,,,caught,IECM Wong
+ball,1,18.4,Birmingham Phoenix,EL Arlott,S Molineux,A Sutherland,0,0,,,,,,"",""
+ball,1,18.5,Birmingham Phoenix,EL Arlott,S Molineux,A Sutherland,1,0,,,,,,"",""
+ball,1,18.6,Birmingham Phoenix,S Molineux,EL Arlott,A Sutherland,0,2,2,,,,,"",""
+ball,1,18.7,Birmingham Phoenix,EL Arlott,S Molineux,A Sutherland,0,0,,,,,,"",""
+ball,1,19.1,Birmingham Phoenix,EL Arlott,S Molineux,KL George,6,0,,,,,,"",""
+ball,1,19.2,Birmingham Phoenix,EL Arlott,S Molineux,KL George,2,0,,,,,,"",""
+ball,1,19.3,Birmingham Phoenix,EL Arlott,S Molineux,KL George,2,0,,,,,,"",""
+ball,1,19.4,Birmingham Phoenix,EL Arlott,S Molineux,KL George,1,0,,,,,,"",""
+ball,1,19.5,Birmingham Phoenix,S Molineux,EL Arlott,KL George,1,0,,,,,,"",""
+ball,2,0.1,Welsh Fire,TT Beaumont,HK Matthews,S Molineux,0,0,,,,,,"",""
+ball,2,0.2,Welsh Fire,TT Beaumont,HK Matthews,S Molineux,1,0,,,,,,"",""
+ball,2,0.3,Welsh Fire,HK Matthews,TT Beaumont,S Molineux,0,0,,,,,,"",""
+ball,2,0.4,Welsh Fire,HK Matthews,TT Beaumont,S Molineux,1,0,,,,,,"",""
+ball,2,0.5,Welsh Fire,TT Beaumont,HK Matthews,S Molineux,1,0,,,,,,"",""
+ball,2,1.1,Welsh Fire,HK Matthews,TT Beaumont,IECM Wong,0,1,,,,1,,"",""
+ball,2,1.2,Welsh Fire,TT Beaumont,HK Matthews,IECM Wong,0,0,,,,,,"",""
+ball,2,1.3,Welsh Fire,TT Beaumont,HK Matthews,IECM Wong,1,0,,,,,,"",""
+ball,2,1.4,Welsh Fire,HK Matthews,TT Beaumont,IECM Wong,4,0,,,,,,"",""
+ball,2,1.5,Welsh Fire,HK Matthews,TT Beaumont,IECM Wong,0,0,,,,,,"",""
+ball,2,2.1,Welsh Fire,TT Beaumont,HK Matthews,GA Elwiss,1,0,,,,,,"",""
+ball,2,2.2,Welsh Fire,HK Matthews,TT Beaumont,GA Elwiss,0,0,,,,,,"",""
+ball,2,2.3,Welsh Fire,HK Matthews,TT Beaumont,GA Elwiss,4,0,,,,,,"",""
+ball,2,2.4,Welsh Fire,HK Matthews,TT Beaumont,GA Elwiss,0,0,,,,,,"",""
+ball,2,2.5,Welsh Fire,HK Matthews,TT Beaumont,GA Elwiss,1,0,,,,,,"",""
+ball,2,3.1,Welsh Fire,TT Beaumont,HK Matthews,SFM Devine,6,0,,,,,,"",""
+ball,2,3.2,Welsh Fire,TT Beaumont,HK Matthews,SFM Devine,4,0,,,,,,"",""
+ball,2,3.3,Welsh Fire,TT Beaumont,HK Matthews,SFM Devine,0,0,,,,,,"",""
+ball,2,3.4,Welsh Fire,TT Beaumont,HK Matthews,SFM Devine,4,0,,,,,,"",""
+ball,2,3.5,Welsh Fire,TT Beaumont,HK Matthews,SFM Devine,0,0,,,,,,"",""
+ball,2,4.1,Welsh Fire,HK Matthews,TT Beaumont,S Molineux,1,0,,,,,,"",""
+ball,2,4.2,Welsh Fire,TT Beaumont,HK Matthews,S Molineux,0,0,,,,,,"",""
+ball,2,4.3,Welsh Fire,TT Beaumont,HK Matthews,S Molineux,2,0,,,,,,"",""
+ball,2,4.4,Welsh Fire,TT Beaumont,HK Matthews,S Molineux,0,0,,,,,,"",""
+ball,2,4.5,Welsh Fire,TT Beaumont,HK Matthews,S Molineux,0,0,,,,,,"",""
+ball,2,5.1,Welsh Fire,TT Beaumont,HK Matthews,KL Gordon,0,5,5,,,,,"",""
+ball,2,5.2,Welsh Fire,TT Beaumont,HK Matthews,KL Gordon,0,0,,,,,,"",""
+ball,2,5.3,Welsh Fire,TT Beaumont,HK Matthews,KL Gordon,1,0,,,,,,"",""
+ball,2,5.4,Welsh Fire,HK Matthews,TT Beaumont,KL Gordon,4,0,,,,,,"",""
+ball,2,5.5,Welsh Fire,HK Matthews,TT Beaumont,KL Gordon,4,0,,,,,,"",""
+ball,2,5.6,Welsh Fire,HK Matthews,TT Beaumont,KL Gordon,1,0,,,,,,"",""
+ball,2,6.1,Welsh Fire,HK Matthews,TT Beaumont,AH Maqsood,0,0,,,,,,"",""
+ball,2,6.2,Welsh Fire,HK Matthews,TT Beaumont,AH Maqsood,0,0,,,,,,caught,HK Matthews
+ball,2,6.3,Welsh Fire,RL Haynes,TT Beaumont,AH Maqsood,1,0,,,,,,"",""
+ball,2,6.4,Welsh Fire,TT Beaumont,RL Haynes,AH Maqsood,1,0,,,,,,"",""
+ball,2,6.5,Welsh Fire,RL Haynes,TT Beaumont,AH Maqsood,4,0,,,,,,"",""
+ball,2,7.1,Welsh Fire,RL Haynes,TT Beaumont,EL Arlott,0,1,1,,,,,"",""
+ball,2,7.2,Welsh Fire,RL Haynes,TT Beaumont,EL Arlott,1,0,,,,,,"",""
+ball,2,7.3,Welsh Fire,TT Beaumont,RL Haynes,EL Arlott,0,0,,,,,,"",""
+ball,2,7.4,Welsh Fire,TT Beaumont,RL Haynes,EL Arlott,4,0,,,,,,"",""
+ball,2,7.5,Welsh Fire,TT Beaumont,RL Haynes,EL Arlott,4,0,,,,,,"",""
+ball,2,7.6,Welsh Fire,TT Beaumont,RL Haynes,EL Arlott,0,0,,,,,,"",""
+ball,2,8.1,Welsh Fire,RL Haynes,TT Beaumont,GA Elwiss,0,0,,,,,,"",""
+ball,2,8.2,Welsh Fire,RL Haynes,TT Beaumont,GA Elwiss,4,0,,,,,,"",""
+ball,2,8.3,Welsh Fire,RL Haynes,TT Beaumont,GA Elwiss,4,0,,,,,,"",""
+ball,2,8.4,Welsh Fire,RL Haynes,TT Beaumont,GA Elwiss,0,0,,,,,,caught,RL Haynes
+ball,2,8.5,Welsh Fire,A Sutherland,TT Beaumont,GA Elwiss,1,0,,,,,,"",""
+ball,2,9.1,Welsh Fire,TT Beaumont,A Sutherland,IECM Wong,0,0,,,,,,"",""
+ball,2,9.2,Welsh Fire,TT Beaumont,A Sutherland,IECM Wong,1,0,,,,,,"",""
+ball,2,9.3,Welsh Fire,A Sutherland,TT Beaumont,IECM Wong,0,0,,,,,,"",""
+ball,2,9.4,Welsh Fire,A Sutherland,TT Beaumont,IECM Wong,1,0,,,,,,"",""
+ball,2,9.5,Welsh Fire,TT Beaumont,A Sutherland,IECM Wong,1,0,,,,,,"",""
+ball,2,10.1,Welsh Fire,TT Beaumont,A Sutherland,KL Gordon,1,0,,,,,,"",""
+ball,2,10.2,Welsh Fire,A Sutherland,TT Beaumont,KL Gordon,1,0,,,,,,"",""
+ball,2,10.3,Welsh Fire,TT Beaumont,A Sutherland,KL Gordon,1,0,,,,,,"",""
+ball,2,10.4,Welsh Fire,A Sutherland,TT Beaumont,KL Gordon,1,0,,,,,,"",""
+ball,2,10.5,Welsh Fire,TT Beaumont,A Sutherland,KL Gordon,1,0,,,,,,"",""
+ball,2,11.1,Welsh Fire,A Sutherland,TT Beaumont,AH Maqsood,4,0,,,,,,"",""
+ball,2,11.2,Welsh Fire,A Sutherland,TT Beaumont,AH Maqsood,1,0,,,,,,"",""
+ball,2,11.3,Welsh Fire,TT Beaumont,A Sutherland,AH Maqsood,1,0,,,,,,"",""
+ball,2,11.4,Welsh Fire,A Sutherland,TT Beaumont,AH Maqsood,1,0,,,,,,"",""
+ball,2,11.5,Welsh Fire,TT Beaumont,A Sutherland,AH Maqsood,1,0,,,,,,"",""
+ball,2,12.1,Welsh Fire,TT Beaumont,A Sutherland,EL Arlott,1,0,,,,,,"",""
+ball,2,12.2,Welsh Fire,A Sutherland,TT Beaumont,EL Arlott,4,0,,,,,,"",""
+ball,2,12.3,Welsh Fire,A Sutherland,TT Beaumont,EL Arlott,1,0,,,,,,"",""
+ball,2,12.4,Welsh Fire,TT Beaumont,A Sutherland,EL Arlott,0,0,,,,,,"",""
+ball,2,12.5,Welsh Fire,TT Beaumont,A Sutherland,EL Arlott,1,0,,,,,,"",""
+ball,2,13.1,Welsh Fire,A Sutherland,TT Beaumont,SFM Devine,6,0,,,,,,"",""
+ball,2,13.2,Welsh Fire,A Sutherland,TT Beaumont,SFM Devine,1,0,,,,,,"",""
+ball,2,13.3,Welsh Fire,TT Beaumont,A Sutherland,SFM Devine,0,0,,,,,,stumped,TT Beaumont
+ball,2,13.4,Welsh Fire,FC Wilson,A Sutherland,SFM Devine,1,0,,,,,,"",""
+ball,2,13.5,Welsh Fire,A Sutherland,FC Wilson,SFM Devine,0,0,,,,,,"",""
+ball,2,14.1,Welsh Fire,FC Wilson,A Sutherland,S Molineux,1,0,,,,,,"",""
+ball,2,14.2,Welsh Fire,A Sutherland,FC Wilson,S Molineux,1,0,,,,,,"",""
+ball,2,14.3,Welsh Fire,FC Wilson,A Sutherland,S Molineux,0,0,,,,,,"",""
+ball,2,14.4,Welsh Fire,FC Wilson,A Sutherland,S Molineux,1,0,,,,,,"",""
+ball,2,14.5,Welsh Fire,A Sutherland,FC Wilson,S Molineux,1,0,,,,,,"",""
+ball,2,15.1,Welsh Fire,FC Wilson,A Sutherland,KL Gordon,1,0,,,,,,"",""
+ball,2,15.2,Welsh Fire,A Sutherland,FC Wilson,KL Gordon,2,0,,,,,,"",""
+ball,2,15.3,Welsh Fire,A Sutherland,FC Wilson,KL Gordon,4,0,,,,,,"",""
+ball,2,15.4,Welsh Fire,A Sutherland,FC Wilson,KL Gordon,1,0,,,,,,"",""
+ball,2,15.5,Welsh Fire,FC Wilson,A Sutherland,KL Gordon,4,0,,,,,,"",""
+ball,2,16.1,Welsh Fire,A Sutherland,FC Wilson,GA Elwiss,2,0,,,,,,"",""
+ball,2,16.2,Welsh Fire,A Sutherland,FC Wilson,GA Elwiss,1,0,,,,,,"",""
+ball,2,16.3,Welsh Fire,FC Wilson,A Sutherland,GA Elwiss,1,0,,,,,,"",""
+ball,2,16.4,Welsh Fire,A Sutherland,FC Wilson,GA Elwiss,0,0,,,,,,caught,A Sutherland
+ball,2,16.5,Welsh Fire,KL George,FC Wilson,GA Elwiss,0,0,,,,,,"",""
+ball,2,17.1,Welsh Fire,KL George,FC Wilson,IECM Wong,1,0,,,,,,"",""
+ball,2,17.2,Welsh Fire,FC Wilson,KL George,IECM Wong,1,0,,,,,,"",""
+ball,2,17.3,Welsh Fire,KL George,FC Wilson,IECM Wong,1,0,,,,,,"",""
+ball,2,17.4,Welsh Fire,FC Wilson,KL George,IECM Wong,1,0,,,,,,"",""
+ball,2,17.5,Welsh Fire,KL George,FC Wilson,IECM Wong,0,0,,,,,,"",""
+ball,2,18.1,Welsh Fire,FC Wilson,KL George,GA Elwiss,4,0,,,,,,"",""
+ball,2,18.2,Welsh Fire,FC Wilson,KL George,GA Elwiss,4,0,,,,,,"",""
+ball,2,18.3,Welsh Fire,FC Wilson,KL George,GA Elwiss,1,0,,,,,,"",""
+ball,2,18.4,Welsh Fire,KL George,FC Wilson,GA Elwiss,0,0,,,,,,"",""
+ball,2,18.5,Welsh Fire,KL George,FC Wilson,GA Elwiss,1,0,,,,,,run out,FC Wilson
+ball,2,19.1,Welsh Fire,FMK Morris,KL George,S Molineux,1,0,,,,,,"",""
+ball,2,19.2,Welsh Fire,KL George,FMK Morris,S Molineux,1,0,,,,,,"",""
+ball,2,19.3,Welsh Fire,FMK Morris,KL George,S Molineux,1,0,,,,,,"",""
+ball,2,19.4,Welsh Fire,KL George,FMK Morris,S Molineux,1,0,,,,,,"",""
+ball,2,19.5,Welsh Fire,FMK Morris,KL George,S Molineux,1,0,,,,,,"",""

@@ -1,0 +1,158 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Surrey
+info,gender,male
+info,season,2020
+info,date,2020/08/28
+info,event,Vitality Blast
+info,venue,County Ground
+info,city,Hove
+info,toss_winner,Surrey
+info,toss_decision,field
+info,umpire,BV Taylor
+info,umpire,IJ Gould
+info,match_referee,PM Such
+info,outcome,no result
+info,player,Sussex,PD Salt
+info,player,Sussex,LJ Wright
+info,player,Sussex,HZ Finch
+info,player,Sussex,DMW Rawlins
+info,player,Sussex,RS Bopara
+info,player,Sussex,AD Thomason
+info,player,Sussex,GHS Garton
+info,player,Sussex,OE Robinson
+info,player,Sussex,WAT Beer
+info,player,Sussex,DR Briggs
+info,player,Sussex,TS Mills
+info,player,Surrey,GJ Batty
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,SG Borthwick
+info,player,Surrey,RJ Burns
+info,player,Surrey,MP Dunn
+info,player,Surrey,BT Foakes
+info,player,Surrey,WG Jacks
+info,player,Surrey,D Moriarty
+info,player,Surrey,JL Smith
+info,player,Surrey,MD Stoneman
+info,player,Surrey,JPA Taylor
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AD Thomason,0c5bb005
+info,registry,people,BT Foakes,fd770945
+info,registry,people,BV Taylor,99760152
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,GJ Batty,5ac8f17b
+info,registry,people,HZ Finch,6b16f8ba
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JL Smith,c834c290
+info,registry,people,JPA Taylor,5c86c3c2
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MP Dunn,57a76baa
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WAT Beer,98eacfe5
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Sussex,PD Salt,LJ Wright,D Moriarty,0,1,1,,,,,"",""
+ball,1,0.2,Sussex,PD Salt,LJ Wright,D Moriarty,1,0,,,,,,"",""
+ball,1,0.3,Sussex,LJ Wright,PD Salt,D Moriarty,0,0,,,,,,"",""
+ball,1,0.4,Sussex,LJ Wright,PD Salt,D Moriarty,0,0,,,,,,"",""
+ball,1,0.5,Sussex,LJ Wright,PD Salt,D Moriarty,4,0,,,,,,"",""
+ball,1,0.6,Sussex,LJ Wright,PD Salt,D Moriarty,0,0,,,,,,"",""
+ball,1,0.7,Sussex,LJ Wright,PD Salt,D Moriarty,1,0,,,,,,"",""
+ball,1,1.1,Sussex,LJ Wright,PD Salt,MP Dunn,0,0,,,,,,"",""
+ball,1,1.2,Sussex,LJ Wright,PD Salt,MP Dunn,0,1,1,,,,,"",""
+ball,1,1.3,Sussex,LJ Wright,PD Salt,MP Dunn,4,0,,,,,,"",""
+ball,1,1.4,Sussex,LJ Wright,PD Salt,MP Dunn,0,0,,,,,,"",""
+ball,1,1.5,Sussex,LJ Wright,PD Salt,MP Dunn,4,0,,,,,,"",""
+ball,1,1.6,Sussex,LJ Wright,PD Salt,MP Dunn,0,0,,,,,,"",""
+ball,1,1.7,Sussex,LJ Wright,PD Salt,MP Dunn,0,0,,,,,,"",""
+ball,1,2.1,Sussex,PD Salt,LJ Wright,AAP Atkinson,1,0,,,,,,"",""
+ball,1,2.2,Sussex,LJ Wright,PD Salt,AAP Atkinson,1,0,,,,,,"",""
+ball,1,2.3,Sussex,PD Salt,LJ Wright,AAP Atkinson,1,0,,,,,,"",""
+ball,1,2.4,Sussex,LJ Wright,PD Salt,AAP Atkinson,0,0,,,,,,"",""
+ball,1,2.5,Sussex,LJ Wright,PD Salt,AAP Atkinson,4,0,,,,,,"",""
+ball,1,2.6,Sussex,LJ Wright,PD Salt,AAP Atkinson,0,1,,,,1,,"",""
+ball,1,3.1,Sussex,LJ Wright,PD Salt,MP Dunn,0,0,,,,,,"",""
+ball,1,3.2,Sussex,LJ Wright,PD Salt,MP Dunn,1,0,,,,,,"",""
+ball,1,3.3,Sussex,PD Salt,LJ Wright,MP Dunn,1,2,,2,,,,"",""
+ball,1,3.4,Sussex,LJ Wright,PD Salt,MP Dunn,2,0,,,,,,"",""
+ball,1,3.5,Sussex,LJ Wright,PD Salt,MP Dunn,4,0,,,,,,"",""
+ball,1,3.6,Sussex,LJ Wright,PD Salt,MP Dunn,0,0,,,,,,"",""
+ball,1,3.7,Sussex,LJ Wright,PD Salt,MP Dunn,1,0,,,,,,"",""
+ball,1,4.1,Sussex,LJ Wright,PD Salt,AAP Atkinson,4,0,,,,,,"",""
+ball,1,4.2,Sussex,LJ Wright,PD Salt,AAP Atkinson,1,0,,,,,,"",""
+ball,1,4.3,Sussex,PD Salt,LJ Wright,AAP Atkinson,1,0,,,,,,"",""
+ball,1,4.4,Sussex,LJ Wright,PD Salt,AAP Atkinson,0,0,,,,,,"",""
+ball,1,4.5,Sussex,LJ Wright,PD Salt,AAP Atkinson,0,0,,,,,,bowled,LJ Wright
+ball,1,4.6,Sussex,HZ Finch,PD Salt,AAP Atkinson,0,0,,,,,,"",""
+ball,1,5.1,Sussex,PD Salt,HZ Finch,JPA Taylor,4,0,,,,,,"",""
+ball,1,5.2,Sussex,PD Salt,HZ Finch,JPA Taylor,6,0,,,,,,"",""
+ball,1,5.3,Sussex,PD Salt,HZ Finch,JPA Taylor,6,0,,,,,,"",""
+ball,1,5.4,Sussex,PD Salt,HZ Finch,JPA Taylor,4,0,,,,,,"",""
+ball,1,5.5,Sussex,PD Salt,HZ Finch,JPA Taylor,4,0,,,,,,"",""
+ball,1,5.6,Sussex,PD Salt,HZ Finch,JPA Taylor,4,0,,,,,,"",""
+ball,1,6.1,Sussex,HZ Finch,PD Salt,D Moriarty,1,0,,,,,,"",""
+ball,1,6.2,Sussex,PD Salt,HZ Finch,D Moriarty,0,0,,,,,,"",""
+ball,1,6.3,Sussex,PD Salt,HZ Finch,D Moriarty,1,0,,,,,,"",""
+ball,1,6.4,Sussex,HZ Finch,PD Salt,D Moriarty,0,0,,,,,,"",""
+ball,1,6.5,Sussex,HZ Finch,PD Salt,D Moriarty,2,0,,,,,,"",""
+ball,1,6.6,Sussex,HZ Finch,PD Salt,D Moriarty,1,0,,,,,,"",""
+ball,1,7.1,Sussex,HZ Finch,PD Salt,GJ Batty,0,0,,,,,,"",""
+ball,1,7.2,Sussex,HZ Finch,PD Salt,GJ Batty,4,0,,,,,,"",""
+ball,1,7.3,Sussex,HZ Finch,PD Salt,GJ Batty,1,0,,,,,,"",""
+ball,1,7.4,Sussex,PD Salt,HZ Finch,GJ Batty,1,0,,,,,,"",""
+ball,1,7.5,Sussex,HZ Finch,PD Salt,GJ Batty,1,0,,,,,,"",""
+ball,1,7.6,Sussex,PD Salt,HZ Finch,GJ Batty,1,0,,,,,,"",""
+ball,1,8.1,Sussex,PD Salt,HZ Finch,D Moriarty,1,0,,,,,,"",""
+ball,1,8.2,Sussex,HZ Finch,PD Salt,D Moriarty,0,0,,,,,,caught,HZ Finch
+ball,1,8.3,Sussex,DMW Rawlins,PD Salt,D Moriarty,1,0,,,,,,"",""
+ball,1,8.4,Sussex,PD Salt,DMW Rawlins,D Moriarty,0,0,,,,,,"",""
+ball,1,8.5,Sussex,PD Salt,DMW Rawlins,D Moriarty,0,0,,,,,,"",""
+ball,1,8.6,Sussex,PD Salt,DMW Rawlins,D Moriarty,1,0,,,,,,"",""
+ball,1,9.1,Sussex,PD Salt,DMW Rawlins,GJ Batty,1,0,,,,,,"",""
+ball,1,9.2,Sussex,DMW Rawlins,PD Salt,GJ Batty,2,0,,,,,,"",""
+ball,1,9.3,Sussex,DMW Rawlins,PD Salt,GJ Batty,1,0,,,,,,"",""
+ball,1,9.4,Sussex,PD Salt,DMW Rawlins,GJ Batty,1,0,,,,,,"",""
+ball,1,9.5,Sussex,DMW Rawlins,PD Salt,GJ Batty,1,0,,,,,,"",""
+ball,1,9.6,Sussex,PD Salt,DMW Rawlins,GJ Batty,0,0,,,,,,caught,PD Salt
+ball,1,10.1,Sussex,DMW Rawlins,RS Bopara,SG Borthwick,1,0,,,,,,"",""
+ball,1,10.2,Sussex,RS Bopara,DMW Rawlins,SG Borthwick,0,0,,,,,,"",""
+ball,1,10.3,Sussex,RS Bopara,DMW Rawlins,SG Borthwick,0,0,,,,,,"",""
+ball,1,10.4,Sussex,RS Bopara,DMW Rawlins,SG Borthwick,1,0,,,,,,"",""
+ball,1,10.5,Sussex,DMW Rawlins,RS Bopara,SG Borthwick,0,0,,,,,,"",""
+ball,1,10.6,Sussex,DMW Rawlins,RS Bopara,SG Borthwick,1,0,,,,,,"",""
+ball,1,11.1,Sussex,DMW Rawlins,RS Bopara,GJ Batty,0,0,,,,,,run out,DMW Rawlins
+ball,1,11.2,Sussex,AD Thomason,RS Bopara,GJ Batty,1,0,,,,,,"",""
+ball,1,11.3,Sussex,RS Bopara,AD Thomason,GJ Batty,0,0,,,,,,caught,RS Bopara
+ball,1,11.4,Sussex,AD Thomason,GHS Garton,GJ Batty,0,0,,,,,,"",""
+ball,1,11.5,Sussex,AD Thomason,GHS Garton,GJ Batty,1,0,,,,,,"",""
+ball,1,11.6,Sussex,GHS Garton,AD Thomason,GJ Batty,1,0,,,,,,"",""
+ball,1,12.1,Sussex,GHS Garton,AD Thomason,SG Borthwick,4,0,,,,,,"",""
+ball,1,12.2,Sussex,GHS Garton,AD Thomason,SG Borthwick,0,0,,,,,,"",""
+ball,1,12.3,Sussex,GHS Garton,AD Thomason,SG Borthwick,0,0,,,,,,"",""
+ball,1,12.4,Sussex,GHS Garton,AD Thomason,SG Borthwick,0,0,,,,,,"",""
+ball,1,12.5,Sussex,GHS Garton,AD Thomason,SG Borthwick,1,0,,,,,,"",""
+ball,1,12.6,Sussex,AD Thomason,GHS Garton,SG Borthwick,1,0,,,,,,"",""
+ball,1,13.1,Sussex,AD Thomason,GHS Garton,WG Jacks,1,0,,,,,,"",""
+ball,1,13.2,Sussex,GHS Garton,AD Thomason,WG Jacks,1,0,,,,,,"",""
+ball,1,13.3,Sussex,AD Thomason,GHS Garton,WG Jacks,1,0,,,,,,"",""
+ball,1,13.4,Sussex,GHS Garton,AD Thomason,WG Jacks,1,0,,,,,,"",""
+ball,1,13.5,Sussex,AD Thomason,GHS Garton,WG Jacks,1,0,,,,,,"",""
+ball,1,13.6,Sussex,GHS Garton,AD Thomason,WG Jacks,0,0,,,,,,"",""
+ball,1,14.1,Sussex,AD Thomason,GHS Garton,SG Borthwick,1,0,,,,,,"",""
+ball,1,14.2,Sussex,GHS Garton,AD Thomason,SG Borthwick,0,0,,,,,,"",""
+ball,1,14.3,Sussex,GHS Garton,AD Thomason,SG Borthwick,1,0,,,,,,"",""
+ball,1,14.4,Sussex,AD Thomason,GHS Garton,SG Borthwick,0,0,,,,,,"",""
+ball,1,14.5,Sussex,AD Thomason,GHS Garton,SG Borthwick,1,0,,,,,,"",""
+ball,1,14.6,Sussex,GHS Garton,AD Thomason,SG Borthwick,1,0,,,,,,"",""
+ball,1,15.1,Sussex,GHS Garton,AD Thomason,WG Jacks,3,0,,,,,,"",""
+ball,1,15.2,Sussex,AD Thomason,GHS Garton,WG Jacks,0,1,,,,1,,"",""

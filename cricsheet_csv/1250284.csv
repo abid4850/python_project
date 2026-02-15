@@ -1,0 +1,304 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Essex
+info,gender,male
+info,season,2021
+info,date,2021/06/20
+info,event,Vitality Blast
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Essex
+info,toss_decision,field
+info,player_of_match,JA Leaning
+info,umpire,BJ Debenham
+info,umpire,PR Pollard
+info,match_referee,Wayne Noon
+info,winner,Kent
+info,winner_runs,67
+info,player,Kent,Z Crawley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,JA Leaning
+info,player,Kent,AJ Blake
+info,player,Kent,JM Cox
+info,player,Kent,DI Stevens
+info,player,Kent,G Stewart
+info,player,Kent,Qais Ahmad
+info,player,Kent,ME Milnes
+info,player,Kent,FJ Klaassen
+info,player,Essex,WEL Buttleman
+info,player,Essex,AJA Wheater
+info,player,Essex,DW Lawrence
+info,player,Essex,MS Pepper
+info,player,Essex,JDS Neesham
+info,player,Essex,RN ten Doeschate
+info,player,Essex,PI Walter
+info,player,Essex,SR Harmer
+info,player,Essex,ASS Nijjar
+info,player,Essex,JH Plom
+info,player,Essex,SJ Cook
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,AJA Wheater,71647ced
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,DI Stevens,bca21d18
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,G Stewart,a77472dc
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JH Plom,23f2143b
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RN ten Doeschate,4ec07775
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SR Harmer,23638956
+info,registry,people,WEL Buttleman,e855546b
+info,registry,people,Wayne Noon,736e1761
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,0,2,,,,2,,"",""
+ball,1,0.2,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,0,0,,,,,,"",""
+ball,1,0.3,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,0,0,,,,,,"",""
+ball,1,0.4,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,0,0,,,,,,"",""
+ball,1,0.5,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,0,0,,,,,,"",""
+ball,1,0.6,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,1,1.1,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,1,0,,,,,,"",""
+ball,1,1.2,Kent,DJ Bell-Drummond,Z Crawley,SJ Cook,3,0,,,,,,"",""
+ball,1,1.3,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,0,0,,,,,,"",""
+ball,1,1.4,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,1,0,,,,,,"",""
+ball,1,1.5,Kent,DJ Bell-Drummond,Z Crawley,SJ Cook,1,0,,,,,,"",""
+ball,1,1.6,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,1,0,,,,,,"",""
+ball,1,2.1,Kent,Z Crawley,DJ Bell-Drummond,JH Plom,3,0,,,,,,"",""
+ball,1,2.2,Kent,DJ Bell-Drummond,Z Crawley,JH Plom,0,0,,,,,,"",""
+ball,1,2.3,Kent,DJ Bell-Drummond,Z Crawley,JH Plom,1,0,,,,,,"",""
+ball,1,2.4,Kent,Z Crawley,DJ Bell-Drummond,JH Plom,2,0,,,,,,"",""
+ball,1,2.5,Kent,Z Crawley,DJ Bell-Drummond,JH Plom,1,0,,,,,,"",""
+ball,1,2.6,Kent,DJ Bell-Drummond,Z Crawley,JH Plom,0,4,,,,4,,"",""
+ball,1,3.1,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,4,0,,,,,,"",""
+ball,1,3.2,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,1,0,,,,,,"",""
+ball,1,3.3,Kent,DJ Bell-Drummond,Z Crawley,SJ Cook,2,0,,,,,,"",""
+ball,1,3.4,Kent,DJ Bell-Drummond,Z Crawley,SJ Cook,1,0,,,,,,"",""
+ball,1,3.5,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,2,0,,,,,,"",""
+ball,1,3.6,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,6,0,,,,,,"",""
+ball,1,4.1,Kent,DJ Bell-Drummond,Z Crawley,JH Plom,2,0,,,,,,"",""
+ball,1,4.2,Kent,DJ Bell-Drummond,Z Crawley,JH Plom,0,0,,,,,,"",""
+ball,1,4.3,Kent,DJ Bell-Drummond,Z Crawley,JH Plom,4,0,,,,,,"",""
+ball,1,4.4,Kent,DJ Bell-Drummond,Z Crawley,JH Plom,4,0,,,,,,"",""
+ball,1,4.5,Kent,DJ Bell-Drummond,Z Crawley,JH Plom,4,0,,,,,,"",""
+ball,1,4.6,Kent,DJ Bell-Drummond,Z Crawley,JH Plom,4,0,,,,,,"",""
+ball,1,5.1,Kent,Z Crawley,DJ Bell-Drummond,JDS Neesham,1,0,,,,,,"",""
+ball,1,5.2,Kent,DJ Bell-Drummond,Z Crawley,JDS Neesham,1,0,,,,,,"",""
+ball,1,5.3,Kent,Z Crawley,DJ Bell-Drummond,JDS Neesham,4,0,,,,,,"",""
+ball,1,5.4,Kent,Z Crawley,DJ Bell-Drummond,JDS Neesham,4,0,,,,,,"",""
+ball,1,5.5,Kent,Z Crawley,DJ Bell-Drummond,JDS Neesham,2,0,,,,,,"",""
+ball,1,5.6,Kent,Z Crawley,DJ Bell-Drummond,JDS Neesham,4,0,,,,,,"",""
+ball,1,6.1,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,1,0,,,,,,"",""
+ball,1,6.2,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,0,1,,,,1,,"",""
+ball,1,6.3,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,1,0,,,,,,"",""
+ball,1,6.4,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,1,6.5,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,2,0,,,,,,"",""
+ball,1,6.6,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,1,0,,,,,,"",""
+ball,1,7.1,Kent,DJ Bell-Drummond,Z Crawley,SR Harmer,1,0,,,,,,"",""
+ball,1,7.2,Kent,Z Crawley,DJ Bell-Drummond,SR Harmer,2,0,,,,,,"",""
+ball,1,7.3,Kent,Z Crawley,DJ Bell-Drummond,SR Harmer,1,0,,,,,,"",""
+ball,1,7.4,Kent,DJ Bell-Drummond,Z Crawley,SR Harmer,1,0,,,,,,"",""
+ball,1,7.5,Kent,Z Crawley,DJ Bell-Drummond,SR Harmer,0,0,,,,,,"",""
+ball,1,7.6,Kent,Z Crawley,DJ Bell-Drummond,SR Harmer,4,0,,,,,,"",""
+ball,1,8.1,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,1,0,,,,,,"",""
+ball,1,8.2,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,2,0,,,,,,"",""
+ball,1,8.3,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,0,2,,,2,,,"",""
+ball,1,8.4,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,6,0,,,,,,"",""
+ball,1,8.5,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,1,8.6,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,1,0,,,,,,"",""
+ball,1,9.1,Kent,DJ Bell-Drummond,Z Crawley,SR Harmer,2,0,,,,,,"",""
+ball,1,9.2,Kent,DJ Bell-Drummond,Z Crawley,SR Harmer,6,0,,,,,,"",""
+ball,1,9.3,Kent,DJ Bell-Drummond,Z Crawley,SR Harmer,6,0,,,,,,"",""
+ball,1,9.4,Kent,DJ Bell-Drummond,Z Crawley,SR Harmer,2,0,,,,,,"",""
+ball,1,9.5,Kent,DJ Bell-Drummond,Z Crawley,SR Harmer,0,0,,,,,,"",""
+ball,1,9.6,Kent,DJ Bell-Drummond,Z Crawley,SR Harmer,2,0,,,,,,"",""
+ball,1,10.1,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,0,0,,,,,,"",""
+ball,1,10.2,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,6,0,,,,,,"",""
+ball,1,10.3,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,6,0,,,,,,"",""
+ball,1,10.4,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,1,10.5,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,6,0,,,,,,"",""
+ball,1,10.6,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,6,0,,,,,,"",""
+ball,1,11.1,Kent,Z Crawley,DJ Bell-Drummond,PI Walter,1,0,,,,,,"",""
+ball,1,11.2,Kent,DJ Bell-Drummond,Z Crawley,PI Walter,0,0,,,,,,"",""
+ball,1,11.3,Kent,DJ Bell-Drummond,Z Crawley,PI Walter,1,0,,,,,,"",""
+ball,1,11.4,Kent,Z Crawley,DJ Bell-Drummond,PI Walter,0,0,,,,,,"",""
+ball,1,11.5,Kent,Z Crawley,DJ Bell-Drummond,PI Walter,0,0,,,,,,lbw,Z Crawley
+ball,1,11.6,Kent,JL Denly,DJ Bell-Drummond,PI Walter,2,0,,,,,,"",""
+ball,1,12.1,Kent,DJ Bell-Drummond,JL Denly,SJ Cook,0,0,,,,,,"",""
+ball,1,12.2,Kent,DJ Bell-Drummond,JL Denly,SJ Cook,0,0,,,,,,"",""
+ball,1,12.3,Kent,DJ Bell-Drummond,JL Denly,SJ Cook,1,0,,,,,,"",""
+ball,1,12.4,Kent,JL Denly,DJ Bell-Drummond,SJ Cook,1,0,,,,,,"",""
+ball,1,12.5,Kent,DJ Bell-Drummond,JL Denly,SJ Cook,0,0,,,,,,"",""
+ball,1,12.6,Kent,DJ Bell-Drummond,JL Denly,SJ Cook,2,0,,,,,,"",""
+ball,1,13.1,Kent,JL Denly,DJ Bell-Drummond,PI Walter,1,0,,,,,,"",""
+ball,1,13.2,Kent,DJ Bell-Drummond,JL Denly,PI Walter,6,0,,,,,,"",""
+ball,1,13.3,Kent,DJ Bell-Drummond,JL Denly,PI Walter,2,0,,,,,,"",""
+ball,1,13.4,Kent,DJ Bell-Drummond,JL Denly,PI Walter,6,0,,,,,,"",""
+ball,1,13.5,Kent,DJ Bell-Drummond,JL Denly,PI Walter,1,0,,,,,,"",""
+ball,1,13.6,Kent,JL Denly,DJ Bell-Drummond,PI Walter,1,0,,,,,,"",""
+ball,1,14.1,Kent,JL Denly,DJ Bell-Drummond,JDS Neesham,0,0,,,,,,"",""
+ball,1,14.2,Kent,JL Denly,DJ Bell-Drummond,JDS Neesham,0,1,1,,,,,"",""
+ball,1,14.3,Kent,JL Denly,DJ Bell-Drummond,JDS Neesham,0,0,,,,,,"",""
+ball,1,14.4,Kent,JL Denly,DJ Bell-Drummond,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.5,Kent,DJ Bell-Drummond,JL Denly,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.6,Kent,JL Denly,DJ Bell-Drummond,JDS Neesham,0,0,,,,,,"",""
+ball,1,14.7,Kent,JL Denly,DJ Bell-Drummond,JDS Neesham,0,0,,,,,,"",""
+ball,1,15.1,Kent,DJ Bell-Drummond,JL Denly,SJ Cook,2,0,,,,,,"",""
+ball,1,15.2,Kent,DJ Bell-Drummond,JL Denly,SJ Cook,0,0,,,,,,caught,DJ Bell-Drummond
+ball,1,15.3,Kent,JA Leaning,JL Denly,SJ Cook,0,0,,,,,,"",""
+ball,1,15.4,Kent,JA Leaning,JL Denly,SJ Cook,1,0,,,,,,"",""
+ball,1,15.5,Kent,JL Denly,JA Leaning,SJ Cook,1,0,,,,,,"",""
+ball,1,15.6,Kent,JA Leaning,JL Denly,SJ Cook,2,0,,,,,,"",""
+ball,1,16.1,Kent,JL Denly,JA Leaning,JH Plom,1,0,,,,,,"",""
+ball,1,16.2,Kent,JA Leaning,JL Denly,JH Plom,0,0,,,,,,"",""
+ball,1,16.3,Kent,JA Leaning,JL Denly,JH Plom,1,0,,,,,,"",""
+ball,1,16.4,Kent,JL Denly,JA Leaning,JH Plom,0,0,,,,,,caught,JL Denly
+ball,1,16.5,Kent,AJ Blake,JA Leaning,JH Plom,4,0,,,,,,"",""
+ball,1,16.6,Kent,AJ Blake,JA Leaning,JH Plom,1,0,,,,,,"",""
+ball,1,17.1,Kent,AJ Blake,JA Leaning,SR Harmer,0,0,,,,,,"",""
+ball,1,17.2,Kent,AJ Blake,JA Leaning,SR Harmer,1,0,,,,,,"",""
+ball,1,17.3,Kent,JA Leaning,AJ Blake,SR Harmer,0,1,1,,,,,"",""
+ball,1,17.4,Kent,JA Leaning,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,1,17.5,Kent,AJ Blake,JA Leaning,SR Harmer,1,0,,,,,,"",""
+ball,1,17.6,Kent,JA Leaning,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,1,17.7,Kent,AJ Blake,JA Leaning,SR Harmer,4,0,,,,,,"",""
+ball,1,18.1,Kent,JA Leaning,AJ Blake,JDS Neesham,6,0,,,,,,"",""
+ball,1,18.2,Kent,JA Leaning,AJ Blake,JDS Neesham,6,0,,,,,,"",""
+ball,1,18.3,Kent,JA Leaning,AJ Blake,JDS Neesham,4,0,,,,,,"",""
+ball,1,18.4,Kent,JA Leaning,AJ Blake,JDS Neesham,6,0,,,,,,"",""
+ball,1,18.5,Kent,JA Leaning,AJ Blake,JDS Neesham,2,0,,,,,,"",""
+ball,1,18.6,Kent,JA Leaning,AJ Blake,JDS Neesham,0,1,,,,1,,"",""
+ball,1,19.1,Kent,JA Leaning,AJ Blake,JH Plom,4,0,,,,,,"",""
+ball,1,19.2,Kent,JA Leaning,AJ Blake,JH Plom,1,0,,,,,,"",""
+ball,1,19.3,Kent,AJ Blake,JA Leaning,JH Plom,1,0,,,,,,"",""
+ball,1,19.4,Kent,JA Leaning,AJ Blake,JH Plom,0,1,1,,,,,"",""
+ball,1,19.5,Kent,JA Leaning,AJ Blake,JH Plom,6,0,,,,,,"",""
+ball,1,19.6,Kent,JA Leaning,AJ Blake,JH Plom,1,0,,,,,,"",""
+ball,1,19.7,Kent,AJ Blake,JA Leaning,JH Plom,4,0,,,,,,"",""
+ball,2,0.1,Essex,WEL Buttleman,AJA Wheater,JL Denly,0,0,,,,,,"",""
+ball,2,0.2,Essex,WEL Buttleman,AJA Wheater,JL Denly,4,0,,,,,,"",""
+ball,2,0.3,Essex,WEL Buttleman,AJA Wheater,JL Denly,4,0,,,,,,"",""
+ball,2,0.4,Essex,WEL Buttleman,AJA Wheater,JL Denly,0,0,,,,,,bowled,WEL Buttleman
+ball,2,0.5,Essex,DW Lawrence,AJA Wheater,JL Denly,1,0,,,,,,"",""
+ball,2,0.6,Essex,AJA Wheater,DW Lawrence,JL Denly,1,0,,,,,,"",""
+ball,2,1.1,Essex,AJA Wheater,DW Lawrence,ME Milnes,4,0,,,,,,"",""
+ball,2,1.2,Essex,AJA Wheater,DW Lawrence,ME Milnes,4,0,,,,,,"",""
+ball,2,1.3,Essex,AJA Wheater,DW Lawrence,ME Milnes,1,0,,,,,,"",""
+ball,2,1.4,Essex,DW Lawrence,AJA Wheater,ME Milnes,4,0,,,,,,"",""
+ball,2,1.5,Essex,DW Lawrence,AJA Wheater,ME Milnes,0,0,,,,,,"",""
+ball,2,1.6,Essex,DW Lawrence,AJA Wheater,ME Milnes,4,0,,,,,,"",""
+ball,2,2.1,Essex,AJA Wheater,DW Lawrence,FJ Klaassen,0,0,,,,,,"",""
+ball,2,2.2,Essex,AJA Wheater,DW Lawrence,FJ Klaassen,1,0,,,,,,"",""
+ball,2,2.3,Essex,DW Lawrence,AJA Wheater,FJ Klaassen,1,0,,,,,,"",""
+ball,2,2.4,Essex,AJA Wheater,DW Lawrence,FJ Klaassen,2,0,,,,,,"",""
+ball,2,2.5,Essex,AJA Wheater,DW Lawrence,FJ Klaassen,1,0,,,,,,"",""
+ball,2,2.6,Essex,DW Lawrence,AJA Wheater,FJ Klaassen,6,0,,,,,,"",""
+ball,2,3.1,Essex,AJA Wheater,DW Lawrence,G Stewart,1,0,,,,,,"",""
+ball,2,3.2,Essex,DW Lawrence,AJA Wheater,G Stewart,1,0,,,,,,"",""
+ball,2,3.3,Essex,AJA Wheater,DW Lawrence,G Stewart,0,1,,,,1,,"",""
+ball,2,3.4,Essex,DW Lawrence,AJA Wheater,G Stewart,0,0,,,,,,caught,DW Lawrence
+ball,2,3.5,Essex,MS Pepper,AJA Wheater,G Stewart,2,0,,,,,,"",""
+ball,2,3.6,Essex,MS Pepper,AJA Wheater,G Stewart,1,0,,,,,,"",""
+ball,2,4.1,Essex,MS Pepper,AJA Wheater,FJ Klaassen,1,0,,,,,,"",""
+ball,2,4.2,Essex,AJA Wheater,MS Pepper,FJ Klaassen,0,0,,,,,,"",""
+ball,2,4.3,Essex,AJA Wheater,MS Pepper,FJ Klaassen,4,0,,,,,,"",""
+ball,2,4.4,Essex,AJA Wheater,MS Pepper,FJ Klaassen,4,0,,,,,,"",""
+ball,2,4.5,Essex,AJA Wheater,MS Pepper,FJ Klaassen,1,0,,,,,,"",""
+ball,2,4.6,Essex,MS Pepper,AJA Wheater,FJ Klaassen,0,0,,,,,,"",""
+ball,2,5.1,Essex,AJA Wheater,MS Pepper,G Stewart,6,0,,,,,,"",""
+ball,2,5.2,Essex,AJA Wheater,MS Pepper,G Stewart,1,0,,,,,,"",""
+ball,2,5.3,Essex,MS Pepper,AJA Wheater,G Stewart,1,0,,,,,,"",""
+ball,2,5.4,Essex,AJA Wheater,MS Pepper,G Stewart,1,0,,,,,,"",""
+ball,2,5.5,Essex,MS Pepper,AJA Wheater,G Stewart,1,0,,,,,,"",""
+ball,2,5.6,Essex,AJA Wheater,MS Pepper,G Stewart,2,0,,,,,,"",""
+ball,2,6.1,Essex,MS Pepper,AJA Wheater,DI Stevens,1,0,,,,,,"",""
+ball,2,6.2,Essex,AJA Wheater,MS Pepper,DI Stevens,1,0,,,,,,"",""
+ball,2,6.3,Essex,MS Pepper,AJA Wheater,DI Stevens,0,0,,,,,,caught,MS Pepper
+ball,2,6.4,Essex,JDS Neesham,AJA Wheater,DI Stevens,1,0,,,,,,"",""
+ball,2,6.5,Essex,AJA Wheater,JDS Neesham,DI Stevens,0,0,,,,,,"",""
+ball,2,6.6,Essex,AJA Wheater,JDS Neesham,DI Stevens,2,0,,,,,,"",""
+ball,2,7.1,Essex,JDS Neesham,AJA Wheater,JA Leaning,0,0,,,,,,"",""
+ball,2,7.2,Essex,JDS Neesham,AJA Wheater,JA Leaning,0,0,,,,,,caught and bowled,JDS Neesham
+ball,2,7.3,Essex,RN ten Doeschate,AJA Wheater,JA Leaning,1,0,,,,,,"",""
+ball,2,7.4,Essex,AJA Wheater,RN ten Doeschate,JA Leaning,1,0,,,,,,"",""
+ball,2,7.5,Essex,RN ten Doeschate,AJA Wheater,JA Leaning,0,0,,,,,,stumped,RN ten Doeschate
+ball,2,7.6,Essex,PI Walter,AJA Wheater,JA Leaning,1,0,,,,,,"",""
+ball,2,8.1,Essex,PI Walter,AJA Wheater,DI Stevens,1,0,,,,,,"",""
+ball,2,8.2,Essex,AJA Wheater,PI Walter,DI Stevens,1,0,,,,,,"",""
+ball,2,8.3,Essex,PI Walter,AJA Wheater,DI Stevens,1,0,,,,,,"",""
+ball,2,8.4,Essex,AJA Wheater,PI Walter,DI Stevens,1,0,,,,,,"",""
+ball,2,8.5,Essex,PI Walter,AJA Wheater,DI Stevens,4,0,,,,,,"",""
+ball,2,8.6,Essex,PI Walter,AJA Wheater,DI Stevens,1,0,,,,,,"",""
+ball,2,9.1,Essex,PI Walter,AJA Wheater,JA Leaning,0,0,,,,,,bowled,PI Walter
+ball,2,9.2,Essex,SR Harmer,AJA Wheater,JA Leaning,1,0,,,,,,"",""
+ball,2,9.3,Essex,AJA Wheater,SR Harmer,JA Leaning,1,0,,,,,,"",""
+ball,2,9.4,Essex,SR Harmer,AJA Wheater,JA Leaning,0,0,,,,,,"",""
+ball,2,9.5,Essex,SR Harmer,AJA Wheater,JA Leaning,4,0,,,,,,"",""
+ball,2,9.6,Essex,SR Harmer,AJA Wheater,JA Leaning,6,0,,,,,,"",""
+ball,2,10.1,Essex,AJA Wheater,SR Harmer,DI Stevens,1,0,,,,,,"",""
+ball,2,10.2,Essex,SR Harmer,AJA Wheater,DI Stevens,4,0,,,,,,"",""
+ball,2,10.3,Essex,SR Harmer,AJA Wheater,DI Stevens,1,0,,,,,,"",""
+ball,2,10.4,Essex,AJA Wheater,SR Harmer,DI Stevens,3,0,,,,,,"",""
+ball,2,10.5,Essex,SR Harmer,AJA Wheater,DI Stevens,1,0,,,,,,"",""
+ball,2,10.6,Essex,AJA Wheater,SR Harmer,DI Stevens,1,0,,,,,,"",""
+ball,2,11.1,Essex,AJA Wheater,SR Harmer,Qais Ahmad,0,0,,,,,,caught,AJA Wheater
+ball,2,11.2,Essex,SR Harmer,ASS Nijjar,Qais Ahmad,1,0,,,,,,"",""
+ball,2,11.3,Essex,ASS Nijjar,SR Harmer,Qais Ahmad,2,0,,,,,,"",""
+ball,2,11.4,Essex,ASS Nijjar,SR Harmer,Qais Ahmad,0,1,,,,1,,"",""
+ball,2,11.5,Essex,SR Harmer,ASS Nijjar,Qais Ahmad,0,1,,,,1,,"",""
+ball,2,11.6,Essex,ASS Nijjar,SR Harmer,Qais Ahmad,1,0,,,,,,"",""
+ball,2,12.1,Essex,ASS Nijjar,SR Harmer,DI Stevens,1,0,,,,,,"",""
+ball,2,12.2,Essex,SR Harmer,ASS Nijjar,DI Stevens,0,0,,,,,,"",""
+ball,2,12.3,Essex,SR Harmer,ASS Nijjar,DI Stevens,1,0,,,,,,"",""
+ball,2,12.4,Essex,ASS Nijjar,SR Harmer,DI Stevens,2,0,,,,,,"",""
+ball,2,12.5,Essex,ASS Nijjar,SR Harmer,DI Stevens,1,0,,,,,,"",""
+ball,2,12.6,Essex,SR Harmer,ASS Nijjar,DI Stevens,6,0,,,,,,"",""
+ball,2,13.1,Essex,ASS Nijjar,SR Harmer,Qais Ahmad,0,0,,,,,,"",""
+ball,2,13.2,Essex,ASS Nijjar,SR Harmer,Qais Ahmad,6,0,,,,,,"",""
+ball,2,13.3,Essex,ASS Nijjar,SR Harmer,Qais Ahmad,0,1,,,,1,,"",""
+ball,2,13.4,Essex,SR Harmer,ASS Nijjar,Qais Ahmad,2,0,,,,,,"",""
+ball,2,13.5,Essex,SR Harmer,ASS Nijjar,Qais Ahmad,0,0,,,,,,"",""
+ball,2,13.6,Essex,SR Harmer,ASS Nijjar,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.1,Essex,SR Harmer,ASS Nijjar,FJ Klaassen,2,0,,,,,,"",""
+ball,2,14.2,Essex,SR Harmer,ASS Nijjar,FJ Klaassen,1,0,,,,,,"",""
+ball,2,14.3,Essex,ASS Nijjar,SR Harmer,FJ Klaassen,0,1,,,,1,,"",""
+ball,2,14.4,Essex,SR Harmer,ASS Nijjar,FJ Klaassen,0,0,,,,,,"",""
+ball,2,14.5,Essex,SR Harmer,ASS Nijjar,FJ Klaassen,0,0,,,,,,caught,SR Harmer
+ball,2,14.6,Essex,ASS Nijjar,JH Plom,FJ Klaassen,0,0,,,,,,"",""
+ball,2,15.1,Essex,JH Plom,ASS Nijjar,ME Milnes,0,0,,,,,,"",""
+ball,2,15.2,Essex,JH Plom,ASS Nijjar,ME Milnes,0,0,,,,,,caught,JH Plom
+ball,2,15.3,Essex,SJ Cook,ASS Nijjar,ME Milnes,1,0,,,,,,"",""
+ball,2,15.4,Essex,ASS Nijjar,SJ Cook,ME Milnes,1,0,,,,,,"",""
+ball,2,15.5,Essex,SJ Cook,ASS Nijjar,ME Milnes,1,0,,,,,,"",""
+ball,2,15.6,Essex,ASS Nijjar,SJ Cook,ME Milnes,1,0,,,,,,"",""
+ball,2,16.1,Essex,ASS Nijjar,SJ Cook,Qais Ahmad,0,0,,,,,,"",""
+ball,2,16.2,Essex,ASS Nijjar,SJ Cook,Qais Ahmad,4,0,,,,,,"",""
+ball,2,16.3,Essex,ASS Nijjar,SJ Cook,Qais Ahmad,2,0,,,,,,"",""
+ball,2,16.4,Essex,ASS Nijjar,SJ Cook,Qais Ahmad,1,0,,,,,,"",""
+ball,2,16.5,Essex,SJ Cook,ASS Nijjar,Qais Ahmad,0,0,,,,,,"",""
+ball,2,16.6,Essex,SJ Cook,ASS Nijjar,Qais Ahmad,1,0,,,,,,"",""
+ball,2,17.1,Essex,SJ Cook,ASS Nijjar,G Stewart,6,0,,,,,,"",""
+ball,2,17.2,Essex,SJ Cook,ASS Nijjar,G Stewart,1,0,,,,,,"",""
+ball,2,17.3,Essex,ASS Nijjar,SJ Cook,ME Milnes,2,0,,,,,,"",""
+ball,2,17.4,Essex,ASS Nijjar,SJ Cook,ME Milnes,1,0,,,,,,"",""
+ball,2,17.5,Essex,SJ Cook,ASS Nijjar,ME Milnes,4,0,,,,,,"",""
+ball,2,17.6,Essex,SJ Cook,ASS Nijjar,ME Milnes,1,0,,,,,,"",""
+ball,2,18.1,Essex,SJ Cook,ASS Nijjar,Qais Ahmad,0,0,,,,,,"",""
+ball,2,18.2,Essex,SJ Cook,ASS Nijjar,Qais Ahmad,2,0,,,,,,"",""
+ball,2,18.3,Essex,SJ Cook,ASS Nijjar,Qais Ahmad,1,0,,,,,,"",""
+ball,2,18.4,Essex,ASS Nijjar,SJ Cook,Qais Ahmad,1,0,,,,,,"",""
+ball,2,18.5,Essex,SJ Cook,ASS Nijjar,Qais Ahmad,0,0,,,,,,"",""
+ball,2,18.6,Essex,SJ Cook,ASS Nijjar,Qais Ahmad,0,0,,,,,,"",""
+ball,2,19.1,Essex,ASS Nijjar,SJ Cook,ME Milnes,1,0,,,,,,"",""
+ball,2,19.2,Essex,SJ Cook,ASS Nijjar,ME Milnes,0,0,,,,,,caught,SJ Cook

@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Auckland
+info,gender,male
+info,season,2025/26
+info,date,2025/12/29
+info,event,Super Smash
+info,match_number,4
+info,venue,"Basin Reserve, Wellington"
+info,city,Wellington
+info,toss_winner,Wellington
+info,toss_decision,bat
+info,player_of_match,H Johal
+info,umpire,C Black
+info,umpire,Glen Walklin
+info,reserve_umpire,Tyron Davies
+info,tv_umpire,N Louw
+info,match_referee,G Stretch
+info,winner,Auckland
+info,winner_wickets,5
+info,player,Wellington,TB Robinson
+info,player,Wellington,TA Blundell
+info,player,Wellington,NF Kelly
+info,player,Wellington,MA Abbas
+info,player,Wellington,JM Tashkoff
+info,player,Wellington,GR Severin
+info,player,Wellington,LV van Beek
+info,player,Wellington,PF Younghusband
+info,player,Wellington,NA Greenwood
+info,player,Wellington,BV Sears
+info,player,Wellington,MW Snedden
+info,player,Auckland,DN Phillips
+info,player,Auckland,SB Keene
+info,player,Auckland,MJ Guptill
+info,player,Auckland,BJ Jacobs
+info,player,Auckland,LN Stackpole
+info,player,Auckland,CD Fletcher
+info,player,Auckland,RD Harrison
+info,player,Auckland,A Ashok
+info,player,Auckland,AL Olliver
+info,player,Auckland,RK Gulati
+info,player,Auckland,H Johal
+info,registry,people,A Ashok,321be7e3
+info,registry,people,AL Olliver,9b05c1c1
+info,registry,people,BJ Jacobs,972f217b
+info,registry,people,BV Sears,e1891e00
+info,registry,people,C Black,75b42f71
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,G Stretch,1d054cad
+info,registry,people,GR Severin,b1549dc0
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,H Johal,54bd6664
+info,registry,people,JM Tashkoff,afe7d695
+info,registry,people,LN Stackpole,66c59019
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,N Louw,465c4770
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,RK Gulati,f5da80da
+info,registry,people,SB Keene,6fb2d3a2
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TB Robinson,5d664346
+info,registry,people,Tyron Davies,6ec463f4
+ball,1,0.1,Wellington,TB Robinson,TA Blundell,SB Keene,0,0,,,,,,"",""
+ball,1,0.2,Wellington,TB Robinson,TA Blundell,SB Keene,1,0,,,,,,"",""
+ball,1,0.3,Wellington,TA Blundell,TB Robinson,SB Keene,4,0,,,,,,"",""
+ball,1,0.4,Wellington,TA Blundell,TB Robinson,SB Keene,2,0,,,,,,"",""
+ball,1,0.5,Wellington,TA Blundell,TB Robinson,SB Keene,0,1,1,,,,,"",""
+ball,1,0.6,Wellington,TA Blundell,TB Robinson,SB Keene,4,0,,,,,,"",""
+ball,1,0.7,Wellington,TA Blundell,TB Robinson,SB Keene,1,0,,,,,,"",""
+ball,1,1.1,Wellington,TA Blundell,TB Robinson,RK Gulati,1,0,,,,,,"",""
+ball,1,1.2,Wellington,TB Robinson,TA Blundell,RK Gulati,0,0,,,,,,"",""
+ball,1,1.3,Wellington,TB Robinson,TA Blundell,RK Gulati,3,0,,,,,,"",""
+ball,1,1.4,Wellington,TA Blundell,TB Robinson,RK Gulati,2,0,,,,,,"",""
+ball,1,1.5,Wellington,TA Blundell,TB Robinson,RK Gulati,1,0,,,,,,"",""
+ball,1,1.6,Wellington,TB Robinson,TA Blundell,RK Gulati,1,0,,,,,,"",""
+ball,1,2.1,Wellington,TB Robinson,TA Blundell,RD Harrison,0,1,1,,,,,"",""
+ball,1,2.2,Wellington,TB Robinson,TA Blundell,RD Harrison,0,0,,,,,,"",""
+ball,1,2.3,Wellington,TB Robinson,TA Blundell,RD Harrison,0,0,,,,,,bowled,TB Robinson
+ball,1,2.4,Wellington,NF Kelly,TA Blundell,RD Harrison,4,0,,,,,,"",""
+ball,1,2.5,Wellington,NF Kelly,TA Blundell,RD Harrison,0,0,,,,,,"",""
+ball,1,2.6,Wellington,NF Kelly,TA Blundell,RD Harrison,0,0,,,,,,"",""
+ball,1,2.7,Wellington,NF Kelly,TA Blundell,RD Harrison,0,0,,,,,,"",""
+ball,1,3.1,Wellington,TA Blundell,NF Kelly,AL Olliver,0,0,,,,,,"",""
+ball,1,3.2,Wellington,TA Blundell,NF Kelly,AL Olliver,1,0,,,,,,"",""
+ball,1,3.3,Wellington,NF Kelly,TA Blundell,AL Olliver,1,0,,,,,,"",""
+ball,1,3.4,Wellington,TA Blundell,NF Kelly,AL Olliver,1,0,,,,,,"",""
+ball,1,3.5,Wellington,NF Kelly,TA Blundell,AL Olliver,0,0,,,,,,caught,NF Kelly
+ball,1,3.6,Wellington,MA Abbas,TA Blundell,AL Olliver,0,0,,,,,,"",""
+ball,1,4.1,Wellington,TA Blundell,MA Abbas,SB Keene,1,0,,,,,,"",""
+ball,1,4.2,Wellington,MA Abbas,TA Blundell,SB Keene,1,0,,,,,,"",""
+ball,1,4.3,Wellington,TA Blundell,MA Abbas,SB Keene,0,0,,,,,,bowled,TA Blundell
+ball,1,4.4,Wellington,JM Tashkoff,MA Abbas,SB Keene,0,0,,,,,,"",""
+ball,1,4.5,Wellington,JM Tashkoff,MA Abbas,SB Keene,4,0,,,,,,"",""
+ball,1,4.6,Wellington,JM Tashkoff,MA Abbas,SB Keene,0,0,,,,,,"",""
+ball,1,5.1,Wellington,MA Abbas,JM Tashkoff,AL Olliver,1,0,,,,,,"",""
+ball,1,5.2,Wellington,JM Tashkoff,MA Abbas,AL Olliver,1,0,,,,,,"",""
+ball,1,5.3,Wellington,MA Abbas,JM Tashkoff,AL Olliver,4,0,,,,,,"",""
+ball,1,5.4,Wellington,MA Abbas,JM Tashkoff,AL Olliver,1,0,,,,,,"",""
+ball,1,5.5,Wellington,JM Tashkoff,MA Abbas,AL Olliver,1,0,,,,,,"",""
+ball,1,5.6,Wellington,MA Abbas,JM Tashkoff,AL Olliver,0,0,,,,,,caught,MA Abbas
+ball,1,6.1,Wellington,JM Tashkoff,GR Severin,A Ashok,2,0,,,,,,"",""
+ball,1,6.2,Wellington,JM Tashkoff,GR Severin,A Ashok,6,0,,,,,,"",""
+ball,1,6.3,Wellington,JM Tashkoff,GR Severin,A Ashok,1,0,,,,,,"",""
+ball,1,6.4,Wellington,GR Severin,JM Tashkoff,A Ashok,0,0,,,,,,"",""
+ball,1,6.5,Wellington,GR Severin,JM Tashkoff,A Ashok,1,0,,,,,,"",""
+ball,1,6.6,Wellington,JM Tashkoff,GR Severin,A Ashok,1,0,,,,,,"",""
+ball,1,7.1,Wellington,JM Tashkoff,GR Severin,RK Gulati,1,0,,,,,,"",""
+ball,1,7.2,Wellington,GR Severin,JM Tashkoff,RK Gulati,1,0,,,,,,"",""
+ball,1,7.3,Wellington,JM Tashkoff,GR Severin,RK Gulati,0,0,,,,,,"",""
+ball,1,7.4,Wellington,JM Tashkoff,GR Severin,RK Gulati,1,0,,,,,,"",""
+ball,1,7.5,Wellington,GR Severin,JM Tashkoff,RK Gulati,0,0,,,,,,"",""
+ball,1,7.6,Wellington,GR Severin,JM Tashkoff,RK Gulati,1,0,,,,,,"",""
+ball,1,8.1,Wellington,GR Severin,JM Tashkoff,A Ashok,1,0,,,,,,"",""
+ball,1,8.2,Wellington,JM Tashkoff,GR Severin,A Ashok,4,0,,,,,,"",""
+ball,1,8.3,Wellington,JM Tashkoff,GR Severin,A Ashok,0,0,,,,,,"",""
+ball,1,8.4,Wellington,JM Tashkoff,GR Severin,A Ashok,0,0,,,,,,"",""
+ball,1,8.5,Wellington,JM Tashkoff,GR Severin,A Ashok,1,0,,,,,,"",""
+ball,1,8.6,Wellington,GR Severin,JM Tashkoff,A Ashok,1,0,,,,,,"",""
+ball,1,9.1,Wellington,GR Severin,JM Tashkoff,RK Gulati,0,0,,,,,,"",""
+ball,1,9.2,Wellington,GR Severin,JM Tashkoff,RK Gulati,1,0,,,,,,"",""
+ball,1,9.3,Wellington,JM Tashkoff,GR Severin,RK Gulati,1,0,,,,,,"",""
+ball,1,9.4,Wellington,GR Severin,JM Tashkoff,RK Gulati,0,0,,,,,,"",""
+ball,1,9.5,Wellington,GR Severin,JM Tashkoff,RK Gulati,0,0,,,,,,"",""
+ball,1,9.6,Wellington,GR Severin,JM Tashkoff,RK Gulati,1,0,,,,,,"",""
+ball,1,10.1,Wellington,GR Severin,JM Tashkoff,A Ashok,1,0,,,,,,"",""
+ball,1,10.2,Wellington,JM Tashkoff,GR Severin,A Ashok,4,0,,,,,,"",""
+ball,1,10.3,Wellington,JM Tashkoff,GR Severin,A Ashok,1,0,,,,,,"",""
+ball,1,10.4,Wellington,GR Severin,JM Tashkoff,A Ashok,0,0,,,,,,"",""
+ball,1,10.5,Wellington,GR Severin,JM Tashkoff,A Ashok,0,0,,,,,,"",""
+ball,1,10.6,Wellington,GR Severin,JM Tashkoff,A Ashok,6,0,,,,,,"",""
+ball,1,11.1,Wellington,JM Tashkoff,GR Severin,RK Gulati,1,0,,,,,,"",""
+ball,1,11.2,Wellington,GR Severin,JM Tashkoff,RK Gulati,1,0,,,,,,"",""
+ball,1,11.3,Wellington,JM Tashkoff,GR Severin,RK Gulati,1,0,,,,,,"",""
+ball,1,11.4,Wellington,GR Severin,JM Tashkoff,RK Gulati,1,0,,,,,,"",""
+ball,1,11.5,Wellington,JM Tashkoff,GR Severin,RK Gulati,1,0,,,,,,"",""
+ball,1,11.6,Wellington,GR Severin,JM Tashkoff,RK Gulati,0,0,,,,,,"",""
+ball,1,12.1,Wellington,JM Tashkoff,GR Severin,RD Harrison,4,0,,,,,,"",""
+ball,1,12.2,Wellington,JM Tashkoff,GR Severin,RD Harrison,4,0,,,,,,"",""
+ball,1,12.3,Wellington,JM Tashkoff,GR Severin,RD Harrison,1,0,,,,,,"",""
+ball,1,12.4,Wellington,GR Severin,JM Tashkoff,RD Harrison,4,0,,,,,,"",""
+ball,1,12.5,Wellington,GR Severin,JM Tashkoff,RD Harrison,1,0,,,,,,"",""
+ball,1,12.6,Wellington,JM Tashkoff,GR Severin,RD Harrison,6,0,,,,,,"",""
+ball,1,13.1,Wellington,GR Severin,JM Tashkoff,H Johal,1,0,,,,,,"",""
+ball,1,13.2,Wellington,JM Tashkoff,GR Severin,H Johal,1,0,,,,,,"",""
+ball,1,13.3,Wellington,GR Severin,JM Tashkoff,H Johal,0,0,,,,,,"",""
+ball,1,13.4,Wellington,GR Severin,JM Tashkoff,H Johal,4,0,,,,,,"",""
+ball,1,13.5,Wellington,GR Severin,JM Tashkoff,H Johal,1,0,,,,,,"",""
+ball,1,13.6,Wellington,JM Tashkoff,GR Severin,H Johal,4,0,,,,,,"",""
+ball,1,14.1,Wellington,GR Severin,JM Tashkoff,SB Keene,1,0,,,,,,"",""
+ball,1,14.2,Wellington,JM Tashkoff,GR Severin,SB Keene,6,0,,,,,,"",""
+ball,1,14.3,Wellington,JM Tashkoff,GR Severin,SB Keene,4,0,,,,,,"",""
+ball,1,14.4,Wellington,JM Tashkoff,GR Severin,SB Keene,4,0,,,,,,"",""
+ball,1,14.5,Wellington,JM Tashkoff,GR Severin,SB Keene,0,0,,,,,,"",""
+ball,1,14.6,Wellington,JM Tashkoff,GR Severin,SB Keene,6,0,,,,,,"",""
+ball,1,15.1,Wellington,GR Severin,JM Tashkoff,H Johal,1,0,,,,,,"",""
+ball,1,15.2,Wellington,JM Tashkoff,GR Severin,H Johal,1,0,,,,,,"",""
+ball,1,15.3,Wellington,GR Severin,JM Tashkoff,H Johal,4,0,,,,,,"",""
+ball,1,15.4,Wellington,GR Severin,JM Tashkoff,H Johal,0,0,,,,,,caught,GR Severin
+ball,1,15.5,Wellington,LV van Beek,JM Tashkoff,H Johal,0,0,,,,,,"",""
+ball,1,15.6,Wellington,LV van Beek,JM Tashkoff,H Johal,0,0,,,,,,"",""
+ball,1,16.1,Wellington,JM Tashkoff,LV van Beek,AL Olliver,4,0,,,,,,"",""
+ball,1,16.2,Wellington,JM Tashkoff,LV van Beek,AL Olliver,1,0,,,,,,"",""
+ball,1,16.3,Wellington,LV van Beek,JM Tashkoff,AL Olliver,0,0,,,,,,"",""
+ball,1,16.4,Wellington,LV van Beek,JM Tashkoff,AL Olliver,1,0,,,,,,"",""
+ball,1,16.5,Wellington,JM Tashkoff,LV van Beek,AL Olliver,0,1,1,,,,,"",""
+ball,1,16.6,Wellington,JM Tashkoff,LV van Beek,AL Olliver,1,0,,,,,,"",""
+ball,1,16.7,Wellington,LV van Beek,JM Tashkoff,AL Olliver,4,0,,,,,,"",""
+ball,1,17.1,Wellington,JM Tashkoff,LV van Beek,H Johal,4,0,,,,,,"",""
+ball,1,17.2,Wellington,JM Tashkoff,LV van Beek,H Johal,0,0,,,,,,caught,JM Tashkoff
+ball,1,17.3,Wellington,PF Younghusband,LV van Beek,H Johal,0,0,,,,,,"",""
+ball,1,17.4,Wellington,PF Younghusband,LV van Beek,H Johal,1,0,,,,,,"",""
+ball,1,17.5,Wellington,LV van Beek,PF Younghusband,H Johal,1,0,,,,,,"",""
+ball,1,17.6,Wellington,PF Younghusband,LV van Beek,H Johal,1,0,,,,,,"",""
+ball,1,18.1,Wellington,PF Younghusband,LV van Beek,AL Olliver,0,0,,,,,,"",""
+ball,1,18.2,Wellington,PF Younghusband,LV van Beek,AL Olliver,1,0,,,,,,"",""
+ball,1,18.3,Wellington,LV van Beek,PF Younghusband,AL Olliver,6,1,,1,,,,"",""
+ball,1,18.4,Wellington,LV van Beek,PF Younghusband,AL Olliver,2,0,,,,,,"",""
+ball,1,18.5,Wellington,LV van Beek,PF Younghusband,AL Olliver,4,0,,,,,,"",""
+ball,1,18.6,Wellington,LV van Beek,PF Younghusband,AL Olliver,1,0,,,,,,"",""
+ball,1,18.7,Wellington,PF Younghusband,LV van Beek,AL Olliver,0,1,1,,,,,"",""
+ball,1,18.8,Wellington,PF Younghusband,LV van Beek,AL Olliver,0,0,,,,,,"",""
+ball,1,19.1,Wellington,LV van Beek,PF Younghusband,H Johal,1,0,,,,,,"",""
+ball,1,19.2,Wellington,PF Younghusband,LV van Beek,H Johal,1,0,,,,,,"",""
+ball,1,19.3,Wellington,LV van Beek,PF Younghusband,H Johal,4,0,,,,,,"",""
+ball,1,19.4,Wellington,LV van Beek,PF Younghusband,H Johal,0,0,,,,,,caught,LV van Beek
+ball,1,19.5,Wellington,NA Greenwood,PF Younghusband,H Johal,2,0,,,,,,"",""
+ball,1,19.6,Wellington,NA Greenwood,PF Younghusband,H Johal,0,1,,,1,,,"",""
+ball,2,0.1,Auckland,DN Phillips,SB Keene,LV van Beek,4,0,,,,,,"",""
+ball,2,0.2,Auckland,DN Phillips,SB Keene,LV van Beek,0,0,,,,,,"",""
+ball,2,0.3,Auckland,DN Phillips,SB Keene,LV van Beek,0,0,,,,,,"",""
+ball,2,0.4,Auckland,DN Phillips,SB Keene,LV van Beek,1,0,,,,,,"",""
+ball,2,0.5,Auckland,SB Keene,DN Phillips,LV van Beek,4,0,,,,,,"",""
+ball,2,0.6,Auckland,SB Keene,DN Phillips,LV van Beek,0,0,,,,,,"",""
+ball,2,1.1,Auckland,DN Phillips,SB Keene,MW Snedden,0,0,,,,,,"",""
+ball,2,1.2,Auckland,DN Phillips,SB Keene,MW Snedden,1,0,,,,,,"",""
+ball,2,1.3,Auckland,SB Keene,DN Phillips,MW Snedden,4,0,,,,,,"",""
+ball,2,1.4,Auckland,SB Keene,DN Phillips,MW Snedden,2,0,,,,,,"",""
+ball,2,1.5,Auckland,SB Keene,DN Phillips,MW Snedden,0,1,,,,1,,"",""
+ball,2,1.6,Auckland,DN Phillips,SB Keene,MW Snedden,0,0,,,,,,"",""
+ball,2,2.1,Auckland,SB Keene,DN Phillips,BV Sears,4,0,,,,,,"",""
+ball,2,2.2,Auckland,SB Keene,DN Phillips,BV Sears,1,0,,,,,,"",""
+ball,2,2.3,Auckland,DN Phillips,SB Keene,BV Sears,4,0,,,,,,"",""
+ball,2,2.4,Auckland,DN Phillips,SB Keene,BV Sears,1,0,,,,,,"",""
+ball,2,2.5,Auckland,SB Keene,DN Phillips,BV Sears,1,0,,,,,,"",""
+ball,2,2.6,Auckland,DN Phillips,SB Keene,BV Sears,1,0,,,,,,"",""
+ball,2,3.1,Auckland,DN Phillips,SB Keene,NA Greenwood,1,0,,,,,,"",""
+ball,2,3.2,Auckland,SB Keene,DN Phillips,NA Greenwood,4,0,,,,,,"",""
+ball,2,3.3,Auckland,SB Keene,DN Phillips,NA Greenwood,0,0,,,,,,"",""
+ball,2,3.4,Auckland,SB Keene,DN Phillips,NA Greenwood,1,0,,,,,,"",""
+ball,2,3.5,Auckland,DN Phillips,SB Keene,NA Greenwood,1,0,,,,,,"",""
+ball,2,3.6,Auckland,SB Keene,DN Phillips,NA Greenwood,0,0,,,,,,caught,SB Keene
+ball,2,4.1,Auckland,DN Phillips,MJ Guptill,LV van Beek,0,1,1,,,,,"",""
+ball,2,4.2,Auckland,DN Phillips,MJ Guptill,LV van Beek,4,0,,,,,,"",""
+ball,2,4.3,Auckland,DN Phillips,MJ Guptill,LV van Beek,4,0,,,,,,"",""
+ball,2,4.4,Auckland,DN Phillips,MJ Guptill,LV van Beek,6,0,,,,,,"",""
+ball,2,4.5,Auckland,DN Phillips,MJ Guptill,LV van Beek,4,0,,,,,,"",""
+ball,2,4.6,Auckland,DN Phillips,MJ Guptill,LV van Beek,0,0,,,,,,"",""
+ball,2,4.7,Auckland,DN Phillips,MJ Guptill,LV van Beek,1,0,,,,,,"",""
+ball,2,5.1,Auckland,DN Phillips,MJ Guptill,MW Snedden,0,0,,,,,,"",""
+ball,2,5.2,Auckland,DN Phillips,MJ Guptill,MW Snedden,0,0,,,,,,"",""
+ball,2,5.3,Auckland,DN Phillips,MJ Guptill,MW Snedden,1,0,,,,,,"",""
+ball,2,5.4,Auckland,MJ Guptill,DN Phillips,MW Snedden,0,1,,,,1,,"",""
+ball,2,5.5,Auckland,DN Phillips,MJ Guptill,MW Snedden,1,0,,,,,,"",""
+ball,2,5.6,Auckland,MJ Guptill,DN Phillips,MW Snedden,1,0,,,,,,"",""
+ball,2,6.1,Auckland,MJ Guptill,DN Phillips,BV Sears,1,0,,,,,,"",""
+ball,2,6.2,Auckland,DN Phillips,MJ Guptill,BV Sears,1,0,,,,,,"",""
+ball,2,6.3,Auckland,MJ Guptill,DN Phillips,BV Sears,0,0,,,,,,"",""
+ball,2,6.4,Auckland,MJ Guptill,DN Phillips,BV Sears,1,0,,,,,,"",""
+ball,2,6.5,Auckland,DN Phillips,MJ Guptill,BV Sears,1,0,,,,,,"",""
+ball,2,6.6,Auckland,MJ Guptill,DN Phillips,BV Sears,2,0,,,,,,"",""
+ball,2,7.1,Auckland,DN Phillips,MJ Guptill,PF Younghusband,0,0,,,,,,"",""
+ball,2,7.2,Auckland,DN Phillips,MJ Guptill,PF Younghusband,0,0,,,,,,"",""
+ball,2,7.3,Auckland,DN Phillips,MJ Guptill,PF Younghusband,0,0,,,,,,bowled,DN Phillips
+ball,2,7.4,Auckland,BJ Jacobs,MJ Guptill,PF Younghusband,0,0,,,,,,"",""
+ball,2,7.5,Auckland,BJ Jacobs,MJ Guptill,PF Younghusband,6,0,,,,,,"",""
+ball,2,7.6,Auckland,BJ Jacobs,MJ Guptill,PF Younghusband,0,0,,,,,,"",""
+ball,2,8.1,Auckland,MJ Guptill,BJ Jacobs,MW Snedden,1,0,,,,,,"",""
+ball,2,8.2,Auckland,BJ Jacobs,MJ Guptill,MW Snedden,0,1,1,,,,,"",""
+ball,2,8.3,Auckland,BJ Jacobs,MJ Guptill,MW Snedden,0,0,,,,,,"",""
+ball,2,8.4,Auckland,BJ Jacobs,MJ Guptill,MW Snedden,0,0,,,,,,"",""
+ball,2,8.5,Auckland,BJ Jacobs,MJ Guptill,MW Snedden,1,0,,,,,,"",""
+ball,2,8.6,Auckland,MJ Guptill,BJ Jacobs,MW Snedden,0,1,1,,,,,"",""
+ball,2,8.7,Auckland,MJ Guptill,BJ Jacobs,MW Snedden,4,0,,,,,,"",""
+ball,2,8.8,Auckland,MJ Guptill,BJ Jacobs,MW Snedden,4,0,,,,,,"",""
+ball,2,9.1,Auckland,BJ Jacobs,MJ Guptill,PF Younghusband,0,1,1,,,,,"",""
+ball,2,9.2,Auckland,BJ Jacobs,MJ Guptill,PF Younghusband,1,0,,,,,,"",""
+ball,2,9.3,Auckland,MJ Guptill,BJ Jacobs,PF Younghusband,1,0,,,,,,"",""
+ball,2,9.4,Auckland,BJ Jacobs,MJ Guptill,PF Younghusband,1,0,,,,,,"",""
+ball,2,9.5,Auckland,MJ Guptill,BJ Jacobs,PF Younghusband,0,0,,,,,,"",""
+ball,2,9.6,Auckland,MJ Guptill,BJ Jacobs,PF Younghusband,0,0,,,,,,"",""
+ball,2,9.7,Auckland,MJ Guptill,BJ Jacobs,PF Younghusband,0,0,,,,,,"",""
+ball,2,10.1,Auckland,BJ Jacobs,MJ Guptill,BV Sears,6,0,,,,,,"",""
+ball,2,10.2,Auckland,BJ Jacobs,MJ Guptill,BV Sears,6,0,,,,,,"",""
+ball,2,10.3,Auckland,BJ Jacobs,MJ Guptill,BV Sears,1,0,,,,,,"",""
+ball,2,10.4,Auckland,MJ Guptill,BJ Jacobs,BV Sears,0,0,,,,,,"",""
+ball,2,10.5,Auckland,MJ Guptill,BJ Jacobs,BV Sears,1,0,,,,,,"",""
+ball,2,10.6,Auckland,BJ Jacobs,MJ Guptill,BV Sears,0,0,,,,,,"",""
+ball,2,11.1,Auckland,MJ Guptill,BJ Jacobs,JM Tashkoff,1,0,,,,,,"",""
+ball,2,11.2,Auckland,BJ Jacobs,MJ Guptill,JM Tashkoff,1,0,,,,,,"",""
+ball,2,11.3,Auckland,MJ Guptill,BJ Jacobs,JM Tashkoff,1,0,,,,,,"",""
+ball,2,11.4,Auckland,BJ Jacobs,MJ Guptill,JM Tashkoff,1,0,,,,,,"",""
+ball,2,11.5,Auckland,MJ Guptill,BJ Jacobs,JM Tashkoff,1,0,,,,,,"",""
+ball,2,11.6,Auckland,BJ Jacobs,MJ Guptill,JM Tashkoff,1,0,,,,,,run out,MJ Guptill
+ball,2,12.1,Auckland,LN Stackpole,BJ Jacobs,LV van Beek,1,0,,,,,,"",""
+ball,2,12.2,Auckland,BJ Jacobs,LN Stackpole,LV van Beek,4,0,,,,,,"",""
+ball,2,12.3,Auckland,BJ Jacobs,LN Stackpole,LV van Beek,0,1,1,,,,,"",""
+ball,2,12.4,Auckland,BJ Jacobs,LN Stackpole,LV van Beek,4,0,,,,,,"",""
+ball,2,12.5,Auckland,BJ Jacobs,LN Stackpole,LV van Beek,6,0,,,,,,"",""
+ball,2,12.6,Auckland,BJ Jacobs,LN Stackpole,LV van Beek,2,0,,,,,,"",""
+ball,2,12.7,Auckland,BJ Jacobs,LN Stackpole,LV van Beek,1,0,,,,,,"",""
+ball,2,13.1,Auckland,BJ Jacobs,LN Stackpole,PF Younghusband,0,0,,,,,,"",""
+ball,2,13.2,Auckland,BJ Jacobs,LN Stackpole,PF Younghusband,4,0,,,,,,"",""
+ball,2,13.3,Auckland,BJ Jacobs,LN Stackpole,PF Younghusband,1,0,,,,,,"",""
+ball,2,13.4,Auckland,LN Stackpole,BJ Jacobs,PF Younghusband,0,0,,,,,,"",""
+ball,2,13.5,Auckland,LN Stackpole,BJ Jacobs,PF Younghusband,0,0,,,,,,"",""
+ball,2,13.6,Auckland,LN Stackpole,BJ Jacobs,PF Younghusband,0,0,,,,,,"",""
+ball,2,14.1,Auckland,BJ Jacobs,LN Stackpole,MW Snedden,2,0,,,,,,"",""
+ball,2,14.2,Auckland,BJ Jacobs,LN Stackpole,MW Snedden,0,1,1,,,,,"",""
+ball,2,14.3,Auckland,BJ Jacobs,LN Stackpole,MW Snedden,1,0,,,,,,"",""
+ball,2,14.4,Auckland,LN Stackpole,BJ Jacobs,MW Snedden,1,0,,,,,,"",""
+ball,2,14.5,Auckland,BJ Jacobs,LN Stackpole,MW Snedden,1,0,,,,,,"",""
+ball,2,14.6,Auckland,LN Stackpole,BJ Jacobs,MW Snedden,1,0,,,,,,"",""
+ball,2,14.7,Auckland,BJ Jacobs,LN Stackpole,MW Snedden,1,0,,,,,,"",""
+ball,2,15.1,Auckland,BJ Jacobs,LN Stackpole,NA Greenwood,1,0,,,,,,"",""
+ball,2,15.2,Auckland,LN Stackpole,BJ Jacobs,NA Greenwood,1,0,,,,,,"",""
+ball,2,15.3,Auckland,BJ Jacobs,LN Stackpole,NA Greenwood,1,0,,,,,,"",""
+ball,2,15.4,Auckland,LN Stackpole,BJ Jacobs,NA Greenwood,6,0,,,,,,"",""
+ball,2,15.5,Auckland,LN Stackpole,BJ Jacobs,NA Greenwood,4,0,,,,,,"",""
+ball,2,15.6,Auckland,LN Stackpole,BJ Jacobs,NA Greenwood,0,0,,,,,,caught,LN Stackpole
+ball,2,16.1,Auckland,BJ Jacobs,CD Fletcher,LV van Beek,0,0,,,,,,bowled,BJ Jacobs
+ball,2,16.2,Auckland,RD Harrison,CD Fletcher,LV van Beek,0,0,,,,,,"",""
+ball,2,16.3,Auckland,RD Harrison,CD Fletcher,LV van Beek,0,0,,,,,,"",""
+ball,2,16.4,Auckland,RD Harrison,CD Fletcher,LV van Beek,1,0,,,,,,"",""
+ball,2,16.5,Auckland,CD Fletcher,RD Harrison,LV van Beek,1,0,,,,,,"",""
+ball,2,16.6,Auckland,RD Harrison,CD Fletcher,LV van Beek,2,0,,,,,,"",""
+ball,2,17.1,Auckland,CD Fletcher,RD Harrison,JM Tashkoff,2,0,,,,,,"",""
+ball,2,17.2,Auckland,CD Fletcher,RD Harrison,JM Tashkoff,1,0,,,,,,"",""
+ball,2,17.3,Auckland,RD Harrison,CD Fletcher,JM Tashkoff,4,0,,,,,,"",""
+ball,2,17.4,Auckland,RD Harrison,CD Fletcher,JM Tashkoff,4,0,,,,,,"",""
+ball,2,17.5,Auckland,RD Harrison,CD Fletcher,JM Tashkoff,1,0,,,,,,"",""
+ball,2,17.6,Auckland,CD Fletcher,RD Harrison,JM Tashkoff,1,0,,,,,,"",""
+ball,2,18.1,Auckland,CD Fletcher,RD Harrison,BV Sears,1,0,,,,,,"",""
+ball,2,18.2,Auckland,RD Harrison,CD Fletcher,BV Sears,1,0,,,,,,"",""
+ball,2,18.3,Auckland,CD Fletcher,RD Harrison,BV Sears,1,0,,,,,,"",""
+ball,2,18.4,Auckland,RD Harrison,CD Fletcher,BV Sears,4,0,,,,,,"",""
+ball,2,18.5,Auckland,RD Harrison,CD Fletcher,BV Sears,4,0,,,,,,"",""
+ball,2,18.6,Auckland,RD Harrison,CD Fletcher,BV Sears,0,0,,,,,,"",""
+ball,2,19.1,Auckland,CD Fletcher,RD Harrison,PF Younghusband,2,0,,,,,,"",""
+ball,2,19.2,Auckland,CD Fletcher,RD Harrison,PF Younghusband,6,0,,,,,,"",""

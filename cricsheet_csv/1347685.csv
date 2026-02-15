@@ -1,0 +1,296 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Gloucestershire
+info,gender,male
+info,season,2023
+info,date,2023/07/01
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,AC Harris
+info,umpire,Rob White
+info,match_referee,AJ Swann
+info,winner,Gloucestershire
+info,winner_wickets,5
+info,player,Sussex,HD Ward
+info,player,Sussex,TGR Clark
+info,player,Sussex,OJ Carter
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,N McAndrew
+info,player,Sussex,A Karvelas
+info,player,Sussex,TS Mills
+info,player,Sussex,BJ Currie
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,BJJ Wells
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,TMJ Smith
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,AS Dale
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJJ Wells,ad9a3160
+info,registry,people,DA Payne,6c79c098
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,Rob White,59b91222
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,TS Mills,245c97cb
+ball,1,0.1,Sussex,HD Ward,TGR Clark,DA Payne,0,0,,,,,,"",""
+ball,1,0.2,Sussex,HD Ward,TGR Clark,DA Payne,0,0,,,,,,"",""
+ball,1,0.3,Sussex,HD Ward,TGR Clark,DA Payne,0,1,1,,,,,"",""
+ball,1,0.4,Sussex,HD Ward,TGR Clark,DA Payne,0,0,,,,,,"",""
+ball,1,0.5,Sussex,HD Ward,TGR Clark,DA Payne,1,0,,,,,,"",""
+ball,1,0.6,Sussex,TGR Clark,HD Ward,DA Payne,0,0,,,,,,caught,TGR Clark
+ball,1,0.7,Sussex,OJ Carter,HD Ward,DA Payne,0,0,,,,,,"",""
+ball,1,1.1,Sussex,HD Ward,OJ Carter,J Shaw,0,1,1,,,,,"",""
+ball,1,1.2,Sussex,HD Ward,OJ Carter,J Shaw,0,2,,,,2,,"",""
+ball,1,1.3,Sussex,HD Ward,OJ Carter,J Shaw,0,0,,,,,,"",""
+ball,1,1.4,Sussex,HD Ward,OJ Carter,J Shaw,0,0,,,,,,"",""
+ball,1,1.5,Sussex,HD Ward,OJ Carter,J Shaw,1,0,,,,,,"",""
+ball,1,1.6,Sussex,OJ Carter,HD Ward,J Shaw,0,0,,,,,,"",""
+ball,1,1.7,Sussex,OJ Carter,HD Ward,J Shaw,4,0,,,,,,"",""
+ball,1,2.1,Sussex,HD Ward,OJ Carter,AS Dale,1,0,,,,,,"",""
+ball,1,2.2,Sussex,OJ Carter,HD Ward,AS Dale,0,0,,,,,,bowled,OJ Carter
+ball,1,2.3,Sussex,RS Bopara,HD Ward,AS Dale,1,0,,,,,,"",""
+ball,1,2.4,Sussex,HD Ward,RS Bopara,AS Dale,4,0,,,,,,"",""
+ball,1,2.5,Sussex,HD Ward,RS Bopara,AS Dale,2,0,,,,,,"",""
+ball,1,2.6,Sussex,HD Ward,RS Bopara,AS Dale,0,0,,,,,,"",""
+ball,1,3.1,Sussex,RS Bopara,HD Ward,J Shaw,0,0,,,,,,"",""
+ball,1,3.2,Sussex,RS Bopara,HD Ward,J Shaw,0,0,,,,,,"",""
+ball,1,3.3,Sussex,RS Bopara,HD Ward,J Shaw,4,0,,,,,,"",""
+ball,1,3.4,Sussex,RS Bopara,HD Ward,J Shaw,2,0,,,,,,"",""
+ball,1,3.5,Sussex,RS Bopara,HD Ward,J Shaw,0,0,,,,,,"",""
+ball,1,3.6,Sussex,RS Bopara,HD Ward,J Shaw,4,0,,,,,,"",""
+ball,1,4.1,Sussex,HD Ward,RS Bopara,DA Payne,2,0,,,,,,"",""
+ball,1,4.2,Sussex,HD Ward,RS Bopara,DA Payne,4,0,,,,,,"",""
+ball,1,4.3,Sussex,HD Ward,RS Bopara,DA Payne,1,0,,,,,,"",""
+ball,1,4.4,Sussex,RS Bopara,HD Ward,DA Payne,1,0,,,,,,"",""
+ball,1,4.5,Sussex,HD Ward,RS Bopara,DA Payne,4,0,,,,,,"",""
+ball,1,4.6,Sussex,HD Ward,RS Bopara,DA Payne,6,0,,,,,,"",""
+ball,1,5.1,Sussex,RS Bopara,HD Ward,AS Dale,0,0,,,,,,"",""
+ball,1,5.2,Sussex,RS Bopara,HD Ward,AS Dale,0,0,,,,,,caught,RS Bopara
+ball,1,5.3,Sussex,Shadab Khan,HD Ward,AS Dale,1,0,,,,,,"",""
+ball,1,5.4,Sussex,HD Ward,Shadab Khan,AS Dale,0,1,,,,1,,"",""
+ball,1,5.5,Sussex,Shadab Khan,HD Ward,AS Dale,1,0,,,,,,"",""
+ball,1,5.6,Sussex,HD Ward,Shadab Khan,AS Dale,0,0,,,,,,"",""
+ball,1,6.1,Sussex,Shadab Khan,HD Ward,TMJ Smith,0,0,,,,,,"",""
+ball,1,6.2,Sussex,Shadab Khan,HD Ward,TMJ Smith,1,0,,,,,,"",""
+ball,1,6.3,Sussex,HD Ward,Shadab Khan,TMJ Smith,0,1,1,,,,,"",""
+ball,1,6.4,Sussex,HD Ward,Shadab Khan,TMJ Smith,1,0,,,,,,"",""
+ball,1,6.5,Sussex,Shadab Khan,HD Ward,TMJ Smith,0,0,,,,,,caught and bowled,Shadab Khan
+ball,1,6.6,Sussex,MGK Burgess,HD Ward,TMJ Smith,1,0,,,,,,"",""
+ball,1,6.7,Sussex,HD Ward,MGK Burgess,TMJ Smith,1,0,,,,,,"",""
+ball,1,7.1,Sussex,HD Ward,MGK Burgess,GL van Buuren,0,0,,,,,,"",""
+ball,1,7.2,Sussex,HD Ward,MGK Burgess,GL van Buuren,1,0,,,,,,"",""
+ball,1,7.3,Sussex,MGK Burgess,HD Ward,GL van Buuren,1,0,,,,,,"",""
+ball,1,7.4,Sussex,HD Ward,MGK Burgess,GL van Buuren,0,0,,,,,,"",""
+ball,1,7.5,Sussex,HD Ward,MGK Burgess,GL van Buuren,0,0,,,,,,"",""
+ball,1,7.6,Sussex,HD Ward,MGK Burgess,GL van Buuren,1,0,,,,,,"",""
+ball,1,8.1,Sussex,HD Ward,MGK Burgess,TMJ Smith,0,0,,,,,,"",""
+ball,1,8.2,Sussex,HD Ward,MGK Burgess,TMJ Smith,6,0,,,,,,"",""
+ball,1,8.3,Sussex,HD Ward,MGK Burgess,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.4,Sussex,MGK Burgess,HD Ward,TMJ Smith,0,0,,,,,,"",""
+ball,1,8.5,Sussex,MGK Burgess,HD Ward,TMJ Smith,0,1,1,,,,,"",""
+ball,1,8.6,Sussex,MGK Burgess,HD Ward,TMJ Smith,0,0,,,,,,"",""
+ball,1,8.7,Sussex,MGK Burgess,HD Ward,TMJ Smith,0,0,,,,,,"",""
+ball,1,9.1,Sussex,HD Ward,MGK Burgess,GL van Buuren,0,0,,,,,,"",""
+ball,1,9.2,Sussex,HD Ward,MGK Burgess,GL van Buuren,1,0,,,,,,"",""
+ball,1,9.3,Sussex,MGK Burgess,HD Ward,GL van Buuren,1,0,,,,,,"",""
+ball,1,9.4,Sussex,HD Ward,MGK Burgess,GL van Buuren,1,0,,,,,,"",""
+ball,1,9.5,Sussex,MGK Burgess,HD Ward,GL van Buuren,1,0,,,,,,"",""
+ball,1,9.6,Sussex,HD Ward,MGK Burgess,GL van Buuren,0,0,,,,,,"",""
+ball,1,10.1,Sussex,MGK Burgess,HD Ward,AS Dale,4,0,,,,,,"",""
+ball,1,10.2,Sussex,MGK Burgess,HD Ward,AS Dale,1,0,,,,,,"",""
+ball,1,10.3,Sussex,HD Ward,MGK Burgess,AS Dale,6,0,,,,,,"",""
+ball,1,10.4,Sussex,HD Ward,MGK Burgess,AS Dale,0,0,,,,,,"",""
+ball,1,10.5,Sussex,HD Ward,MGK Burgess,AS Dale,1,0,,,,,,"",""
+ball,1,10.6,Sussex,MGK Burgess,HD Ward,AS Dale,1,0,,,,,,"",""
+ball,1,11.1,Sussex,MGK Burgess,HD Ward,GL van Buuren,1,0,,,,,,"",""
+ball,1,11.2,Sussex,HD Ward,MGK Burgess,GL van Buuren,0,0,,,,,,"",""
+ball,1,11.3,Sussex,HD Ward,MGK Burgess,GL van Buuren,1,0,,,,,,"",""
+ball,1,11.4,Sussex,MGK Burgess,HD Ward,GL van Buuren,1,0,,,,,,"",""
+ball,1,11.5,Sussex,HD Ward,MGK Burgess,GL van Buuren,1,0,,,,,,"",""
+ball,1,11.6,Sussex,MGK Burgess,HD Ward,GL van Buuren,0,0,,,,,,"",""
+ball,1,12.1,Sussex,HD Ward,MGK Burgess,TMJ Smith,0,0,,,,,,"",""
+ball,1,12.2,Sussex,HD Ward,MGK Burgess,TMJ Smith,1,0,,,,,,"",""
+ball,1,12.3,Sussex,MGK Burgess,HD Ward,TMJ Smith,4,0,,,,,,"",""
+ball,1,12.4,Sussex,MGK Burgess,HD Ward,TMJ Smith,4,0,,,,,,"",""
+ball,1,12.5,Sussex,MGK Burgess,HD Ward,TMJ Smith,2,0,,,,,,"",""
+ball,1,12.6,Sussex,MGK Burgess,HD Ward,TMJ Smith,1,0,,,,,,"",""
+ball,1,13.1,Sussex,MGK Burgess,HD Ward,AS Dale,6,0,,,,,,"",""
+ball,1,13.2,Sussex,MGK Burgess,HD Ward,AS Dale,1,0,,,,,,"",""
+ball,1,13.3,Sussex,HD Ward,MGK Burgess,AS Dale,2,0,,,,,,"",""
+ball,1,13.4,Sussex,HD Ward,MGK Burgess,AS Dale,2,0,,,,,,"",""
+ball,1,13.5,Sussex,HD Ward,MGK Burgess,AS Dale,1,0,,,,,,"",""
+ball,1,13.6,Sussex,MGK Burgess,HD Ward,AS Dale,1,0,,,,,,"",""
+ball,1,14.1,Sussex,MGK Burgess,HD Ward,TMJ Smith,4,0,,,,,,"",""
+ball,1,14.2,Sussex,MGK Burgess,HD Ward,TMJ Smith,1,0,,,,,,"",""
+ball,1,14.3,Sussex,HD Ward,MGK Burgess,TMJ Smith,0,0,,,,,,caught,HD Ward
+ball,1,14.4,Sussex,FJ Hudson-Prentice,MGK Burgess,TMJ Smith,1,0,,,,,,"",""
+ball,1,14.5,Sussex,MGK Burgess,FJ Hudson-Prentice,TMJ Smith,4,0,,,,,,"",""
+ball,1,14.6,Sussex,MGK Burgess,FJ Hudson-Prentice,TMJ Smith,0,0,,,,,,"",""
+ball,1,15.1,Sussex,FJ Hudson-Prentice,MGK Burgess,DA Payne,1,0,,,,,,"",""
+ball,1,15.2,Sussex,MGK Burgess,FJ Hudson-Prentice,DA Payne,1,0,,,,,,"",""
+ball,1,15.3,Sussex,FJ Hudson-Prentice,MGK Burgess,DA Payne,6,0,,,,,,"",""
+ball,1,15.4,Sussex,FJ Hudson-Prentice,MGK Burgess,DA Payne,1,0,,,,,,"",""
+ball,1,15.5,Sussex,MGK Burgess,FJ Hudson-Prentice,DA Payne,1,0,,,,,,"",""
+ball,1,15.6,Sussex,FJ Hudson-Prentice,MGK Burgess,DA Payne,1,0,,,,,,"",""
+ball,1,16.1,Sussex,FJ Hudson-Prentice,MGK Burgess,GL van Buuren,0,0,,,,,,bowled,FJ Hudson-Prentice
+ball,1,16.2,Sussex,N McAndrew,MGK Burgess,GL van Buuren,0,0,,,,,,bowled,N McAndrew
+ball,1,16.3,Sussex,A Karvelas,MGK Burgess,GL van Buuren,0,0,,,,,,"",""
+ball,1,16.4,Sussex,A Karvelas,MGK Burgess,GL van Buuren,1,0,,,,,,"",""
+ball,1,16.5,Sussex,MGK Burgess,A Karvelas,GL van Buuren,1,0,,,,,,"",""
+ball,1,16.6,Sussex,A Karvelas,MGK Burgess,GL van Buuren,0,0,,,,,,"",""
+ball,1,17.1,Sussex,MGK Burgess,A Karvelas,J Shaw,0,0,,,,,,"",""
+ball,1,17.2,Sussex,MGK Burgess,A Karvelas,J Shaw,1,0,,,,,,"",""
+ball,1,17.3,Sussex,A Karvelas,MGK Burgess,J Shaw,0,0,,,,,,"",""
+ball,1,17.4,Sussex,A Karvelas,MGK Burgess,J Shaw,0,0,,,,,,"",""
+ball,1,17.5,Sussex,A Karvelas,MGK Burgess,J Shaw,0,0,,,,,,lbw,A Karvelas
+ball,1,17.6,Sussex,TS Mills,MGK Burgess,J Shaw,4,0,,,,,,"",""
+ball,1,18.1,Sussex,MGK Burgess,TS Mills,DA Payne,1,0,,,,,,"",""
+ball,1,18.2,Sussex,TS Mills,MGK Burgess,DA Payne,1,0,,,,,,"",""
+ball,1,18.3,Sussex,MGK Burgess,TS Mills,DA Payne,1,0,,,,,,"",""
+ball,1,18.4,Sussex,TS Mills,MGK Burgess,DA Payne,0,0,,,,,,"",""
+ball,1,18.5,Sussex,TS Mills,MGK Burgess,DA Payne,0,0,,,,,,caught,TS Mills
+ball,1,18.6,Sussex,BJ Currie,MGK Burgess,DA Payne,0,0,,,,,,"",""
+ball,1,19.1,Sussex,MGK Burgess,BJ Currie,J Shaw,0,0,,,,,,"",""
+ball,1,19.2,Sussex,MGK Burgess,BJ Currie,J Shaw,4,0,,,,,,"",""
+ball,1,19.3,Sussex,MGK Burgess,BJ Currie,J Shaw,2,0,,,,,,"",""
+ball,1,19.4,Sussex,MGK Burgess,BJ Currie,J Shaw,0,0,,,,,,"",""
+ball,1,19.5,Sussex,MGK Burgess,BJ Currie,J Shaw,6,0,,,,,,"",""
+ball,1,19.6,Sussex,MGK Burgess,BJ Currie,J Shaw,6,0,,,,,,"",""
+ball,2,0.1,Gloucestershire,Miles Hammond,G Roelofsen,BJ Currie,0,0,,,,,,"",""
+ball,2,0.2,Gloucestershire,Miles Hammond,G Roelofsen,BJ Currie,0,0,,,,,,"",""
+ball,2,0.3,Gloucestershire,Miles Hammond,G Roelofsen,BJ Currie,0,0,,,,,,"",""
+ball,2,0.4,Gloucestershire,Miles Hammond,G Roelofsen,BJ Currie,4,0,,,,,,"",""
+ball,2,0.5,Gloucestershire,Miles Hammond,G Roelofsen,BJ Currie,0,0,,,,,,"",""
+ball,2,0.6,Gloucestershire,Miles Hammond,G Roelofsen,BJ Currie,4,0,,,,,,"",""
+ball,2,1.1,Gloucestershire,G Roelofsen,Miles Hammond,A Karvelas,4,0,,,,,,"",""
+ball,2,1.2,Gloucestershire,G Roelofsen,Miles Hammond,A Karvelas,5,0,,,,,,"",""
+ball,2,1.3,Gloucestershire,Miles Hammond,G Roelofsen,A Karvelas,6,0,,,,,,"",""
+ball,2,1.4,Gloucestershire,Miles Hammond,G Roelofsen,A Karvelas,0,0,,,,,,"",""
+ball,2,1.5,Gloucestershire,Miles Hammond,G Roelofsen,A Karvelas,0,0,,,,,,"",""
+ball,2,1.6,Gloucestershire,Miles Hammond,G Roelofsen,A Karvelas,0,0,,,,,,caught,Miles Hammond
+ball,2,2.1,Gloucestershire,G Roelofsen,BG Charlesworth,BJ Currie,0,0,,,,,,"",""
+ball,2,2.2,Gloucestershire,G Roelofsen,BG Charlesworth,BJ Currie,6,0,,,,,,"",""
+ball,2,2.3,Gloucestershire,G Roelofsen,BG Charlesworth,BJ Currie,4,0,,,,,,"",""
+ball,2,2.4,Gloucestershire,G Roelofsen,BG Charlesworth,BJ Currie,0,0,,,,,,"",""
+ball,2,2.5,Gloucestershire,G Roelofsen,BG Charlesworth,BJ Currie,0,0,,,,,,"",""
+ball,2,2.6,Gloucestershire,G Roelofsen,BG Charlesworth,BJ Currie,1,0,,,,,,"",""
+ball,2,3.1,Gloucestershire,G Roelofsen,BG Charlesworth,A Karvelas,4,0,,,,,,"",""
+ball,2,3.2,Gloucestershire,G Roelofsen,BG Charlesworth,A Karvelas,0,0,,,,,,"",""
+ball,2,3.3,Gloucestershire,G Roelofsen,BG Charlesworth,A Karvelas,4,0,,,,,,"",""
+ball,2,3.4,Gloucestershire,G Roelofsen,BG Charlesworth,A Karvelas,1,0,,,,,,"",""
+ball,2,3.5,Gloucestershire,BG Charlesworth,G Roelofsen,A Karvelas,0,0,,,,,,"",""
+ball,2,3.6,Gloucestershire,BG Charlesworth,G Roelofsen,A Karvelas,2,0,,,,,,"",""
+ball,2,4.1,Gloucestershire,G Roelofsen,BG Charlesworth,N McAndrew,1,0,,,,,,"",""
+ball,2,4.2,Gloucestershire,BG Charlesworth,G Roelofsen,N McAndrew,1,0,,,,,,"",""
+ball,2,4.3,Gloucestershire,G Roelofsen,BG Charlesworth,N McAndrew,0,0,,,,,,caught,G Roelofsen
+ball,2,4.4,Gloucestershire,BJJ Wells,BG Charlesworth,N McAndrew,0,0,,,,,,"",""
+ball,2,4.5,Gloucestershire,BJJ Wells,BG Charlesworth,N McAndrew,0,0,,,,,,lbw,BJJ Wells
+ball,2,4.6,Gloucestershire,James Bracey,BG Charlesworth,N McAndrew,0,0,,,,,,"",""
+ball,2,5.1,Gloucestershire,BG Charlesworth,James Bracey,TS Mills,4,0,,,,,,"",""
+ball,2,5.2,Gloucestershire,BG Charlesworth,James Bracey,TS Mills,4,0,,,,,,"",""
+ball,2,5.3,Gloucestershire,BG Charlesworth,James Bracey,TS Mills,0,0,,,,,,"",""
+ball,2,5.4,Gloucestershire,BG Charlesworth,James Bracey,TS Mills,0,0,,,,,,"",""
+ball,2,5.5,Gloucestershire,BG Charlesworth,James Bracey,TS Mills,0,0,,,,,,"",""
+ball,2,5.6,Gloucestershire,BG Charlesworth,James Bracey,TS Mills,1,0,,,,,,"",""
+ball,2,6.1,Gloucestershire,BG Charlesworth,James Bracey,N McAndrew,0,0,,,,,,"",""
+ball,2,6.2,Gloucestershire,BG Charlesworth,James Bracey,N McAndrew,0,5,5,,,,,"",""
+ball,2,6.3,Gloucestershire,BG Charlesworth,James Bracey,N McAndrew,1,0,,,,,,"",""
+ball,2,6.4,Gloucestershire,James Bracey,BG Charlesworth,N McAndrew,1,0,,,,,,"",""
+ball,2,6.5,Gloucestershire,BG Charlesworth,James Bracey,N McAndrew,1,0,,,,,,"",""
+ball,2,6.6,Gloucestershire,James Bracey,BG Charlesworth,N McAndrew,1,0,,,,,,"",""
+ball,2,6.7,Gloucestershire,BG Charlesworth,James Bracey,N McAndrew,1,0,,,,,,"",""
+ball,2,7.1,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,0,0,,,,,,"",""
+ball,2,7.2,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,0,0,,,,,,"",""
+ball,2,7.3,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,6,0,,,,,,"",""
+ball,2,7.4,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.5,Gloucestershire,James Bracey,BG Charlesworth,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.6,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.1,Gloucestershire,BG Charlesworth,James Bracey,RS Bopara,1,0,,,,,,"",""
+ball,2,8.2,Gloucestershire,James Bracey,BG Charlesworth,RS Bopara,1,0,,,,,,"",""
+ball,2,8.3,Gloucestershire,BG Charlesworth,James Bracey,RS Bopara,4,0,,,,,,"",""
+ball,2,8.4,Gloucestershire,BG Charlesworth,James Bracey,RS Bopara,0,0,,,,,,"",""
+ball,2,8.5,Gloucestershire,BG Charlesworth,James Bracey,RS Bopara,0,0,,,,,,"",""
+ball,2,8.6,Gloucestershire,BG Charlesworth,James Bracey,HD Ward,1,0,,,,,,"",""
+ball,2,9.1,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,0,1,1,,,,,"",""
+ball,2,9.2,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.3,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.4,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,0,1,1,,,,,"",""
+ball,2,9.5,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.6,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.7,Gloucestershire,BG Charlesworth,James Bracey,Shadab Khan,1,0,,,,,,"",""
+ball,2,9.8,Gloucestershire,James Bracey,BG Charlesworth,Shadab Khan,0,0,,,,,,"",""
+ball,2,10.1,Gloucestershire,BG Charlesworth,James Bracey,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,2,10.2,Gloucestershire,BG Charlesworth,James Bracey,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,10.3,Gloucestershire,BG Charlesworth,James Bracey,FJ Hudson-Prentice,0,0,,,,,,bowled,BG Charlesworth
+ball,2,10.4,Gloucestershire,GL van Buuren,James Bracey,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,2,10.5,Gloucestershire,GL van Buuren,James Bracey,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,10.6,Gloucestershire,GL van Buuren,James Bracey,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,11.1,Gloucestershire,GL van Buuren,James Bracey,HD Ward,4,0,,,,,,"",""
+ball,2,11.2,Gloucestershire,GL van Buuren,James Bracey,HD Ward,0,0,,,,,,"",""
+ball,2,11.3,Gloucestershire,GL van Buuren,James Bracey,HD Ward,0,1,1,,,,,"",""
+ball,2,11.4,Gloucestershire,GL van Buuren,James Bracey,HD Ward,1,0,,,,,,"",""
+ball,2,11.5,Gloucestershire,James Bracey,GL van Buuren,HD Ward,0,0,,,,,,"",""
+ball,2,11.6,Gloucestershire,James Bracey,GL van Buuren,HD Ward,0,0,,,,,,"",""
+ball,2,11.7,Gloucestershire,James Bracey,GL van Buuren,HD Ward,4,0,,,,,,"",""
+ball,2,12.1,Gloucestershire,GL van Buuren,James Bracey,Shadab Khan,0,0,,,,,,"",""
+ball,2,12.2,Gloucestershire,GL van Buuren,James Bracey,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.3,Gloucestershire,James Bracey,GL van Buuren,Shadab Khan,4,0,,,,,,"",""
+ball,2,12.4,Gloucestershire,James Bracey,GL van Buuren,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.5,Gloucestershire,GL van Buuren,James Bracey,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.6,Gloucestershire,James Bracey,GL van Buuren,Shadab Khan,0,1,,,,1,,"",""
+ball,2,13.1,Gloucestershire,James Bracey,GL van Buuren,TS Mills,1,0,,,,,,"",""
+ball,2,13.2,Gloucestershire,GL van Buuren,James Bracey,TS Mills,1,0,,,,,,"",""
+ball,2,13.3,Gloucestershire,James Bracey,GL van Buuren,TS Mills,0,0,,,,,,"",""
+ball,2,13.4,Gloucestershire,James Bracey,GL van Buuren,TS Mills,0,1,1,,,,,"",""
+ball,2,13.5,Gloucestershire,James Bracey,GL van Buuren,TS Mills,0,0,,,,,,"",""
+ball,2,13.6,Gloucestershire,James Bracey,GL van Buuren,TS Mills,1,0,,,,,,"",""
+ball,2,13.7,Gloucestershire,GL van Buuren,James Bracey,TS Mills,1,0,,,,,,"",""
+ball,2,14.1,Gloucestershire,GL van Buuren,James Bracey,Shadab Khan,4,0,,,,,,"",""
+ball,2,14.2,Gloucestershire,GL van Buuren,James Bracey,Shadab Khan,4,0,,,,,,"",""
+ball,2,14.3,Gloucestershire,GL van Buuren,James Bracey,Shadab Khan,0,0,,,,,,lbw,GL van Buuren
+ball,2,14.4,Gloucestershire,JMR Taylor,James Bracey,Shadab Khan,0,0,,,,,,"",""
+ball,2,14.5,Gloucestershire,JMR Taylor,James Bracey,Shadab Khan,4,0,,,,,,"",""
+ball,2,14.6,Gloucestershire,JMR Taylor,James Bracey,Shadab Khan,6,0,,,,,,"",""
+ball,2,15.1,Gloucestershire,James Bracey,JMR Taylor,TS Mills,2,0,,,,,,"",""
+ball,2,15.2,Gloucestershire,James Bracey,JMR Taylor,TS Mills,1,0,,,,,,"",""
+ball,2,15.3,Gloucestershire,JMR Taylor,James Bracey,TS Mills,0,0,,,,,,"",""
+ball,2,15.4,Gloucestershire,JMR Taylor,James Bracey,TS Mills,0,0,,,,,,"",""
+ball,2,15.5,Gloucestershire,JMR Taylor,James Bracey,TS Mills,4,0,,,,,,"",""
+ball,2,15.6,Gloucestershire,JMR Taylor,James Bracey,TS Mills,4,0,,,,,,"",""
+ball,2,16.1,Gloucestershire,James Bracey,JMR Taylor,N McAndrew,4,0,,,,,,"",""
+ball,2,16.2,Gloucestershire,James Bracey,JMR Taylor,N McAndrew,1,0,,,,,,"",""
+ball,2,16.3,Gloucestershire,JMR Taylor,James Bracey,N McAndrew,0,1,1,,,,,"",""
+ball,2,16.4,Gloucestershire,JMR Taylor,James Bracey,N McAndrew,4,0,,,,,,"",""
+ball,2,16.5,Gloucestershire,JMR Taylor,James Bracey,N McAndrew,0,0,,,,,,"",""
+ball,2,16.6,Gloucestershire,JMR Taylor,James Bracey,N McAndrew,4,0,,,,,,"",""
+ball,2,16.7,Gloucestershire,JMR Taylor,James Bracey,N McAndrew,0,5,5,,,,,"",""

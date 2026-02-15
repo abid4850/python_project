@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Leicestershire
+info,gender,male
+info,season,2025
+info,date,2025/05/30
+info,event,Vitality Blast Men
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,PK Baldwin
+info,umpire,RJ Bailey
+info,match_referee,Phil Whitticase
+info,winner,Leicestershire
+info,winner_wickets,5
+info,player,Derbyshire,CP Jewell
+info,player,Derbyshire,AHT Donald
+info,player,Derbyshire,DL Lloyd
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,SR Patel
+info,player,Derbyshire,MK Andersson
+info,player,Derbyshire,RA Whiteley
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,PR Brown
+info,player,Derbyshire,N Potts
+info,player,Derbyshire,AM Ghazanfar
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,Shan Masood
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,OB Cox
+info,player,Leicestershire,LV van Beek
+info,player,Leicestershire,L Trevaskis
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,SB Wood
+info,player,Leicestershire,MET Salisbury
+info,registry,people,AHT Donald,72918338
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,DL Lloyd,0c7f11be
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,N Potts,37b12633
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RK Patel,4531f249
+info,registry,people,SB Wood,c2d9b9cd
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,SR Patel,18fac429
+info,registry,people,Shan Masood,6843a783
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367
+ball,1,0.1,Derbyshire,CP Jewell,AHT Donald,LV van Beek,2,0,,,,,,"",""
+ball,1,0.2,Derbyshire,CP Jewell,AHT Donald,LV van Beek,0,0,,,,,,"",""
+ball,1,0.3,Derbyshire,CP Jewell,AHT Donald,LV van Beek,4,0,,,,,,"",""
+ball,1,0.4,Derbyshire,CP Jewell,AHT Donald,LV van Beek,0,0,,,,,,"",""
+ball,1,0.5,Derbyshire,CP Jewell,AHT Donald,LV van Beek,0,0,,,,,,caught,CP Jewell
+ball,1,0.6,Derbyshire,DL Lloyd,AHT Donald,LV van Beek,0,0,,,,,,"",""
+ball,1,1.1,Derbyshire,AHT Donald,DL Lloyd,MET Salisbury,0,0,,,,,,"",""
+ball,1,1.2,Derbyshire,AHT Donald,DL Lloyd,MET Salisbury,0,0,,,,,,caught,AHT Donald
+ball,1,1.3,Derbyshire,WL Madsen,DL Lloyd,MET Salisbury,0,0,,,,,,"",""
+ball,1,1.4,Derbyshire,WL Madsen,DL Lloyd,MET Salisbury,4,0,,,,,,"",""
+ball,1,1.5,Derbyshire,WL Madsen,DL Lloyd,MET Salisbury,0,0,,,,,,"",""
+ball,1,1.6,Derbyshire,WL Madsen,DL Lloyd,MET Salisbury,1,0,,,,,,"",""
+ball,1,2.1,Derbyshire,WL Madsen,DL Lloyd,LV van Beek,0,0,,,,,,bowled,WL Madsen
+ball,1,2.2,Derbyshire,SR Patel,DL Lloyd,LV van Beek,4,0,,,,,,"",""
+ball,1,2.3,Derbyshire,SR Patel,DL Lloyd,LV van Beek,0,0,,,,,,"",""
+ball,1,2.4,Derbyshire,SR Patel,DL Lloyd,LV van Beek,1,0,,,,,,"",""
+ball,1,2.5,Derbyshire,DL Lloyd,SR Patel,LV van Beek,0,0,,,,,,"",""
+ball,1,2.6,Derbyshire,DL Lloyd,SR Patel,LV van Beek,4,0,,,,,,"",""
+ball,1,3.1,Derbyshire,SR Patel,DL Lloyd,SB Wood,1,0,,,,,,"",""
+ball,1,3.2,Derbyshire,DL Lloyd,SR Patel,SB Wood,0,0,,,,,,"",""
+ball,1,3.3,Derbyshire,DL Lloyd,SR Patel,SB Wood,6,0,,,,,,"",""
+ball,1,3.4,Derbyshire,DL Lloyd,SR Patel,SB Wood,0,0,,,,,,"",""
+ball,1,3.5,Derbyshire,DL Lloyd,SR Patel,SB Wood,0,0,,,,,,"",""
+ball,1,3.6,Derbyshire,DL Lloyd,SR Patel,SB Wood,1,0,,,,,,"",""
+ball,1,4.1,Derbyshire,DL Lloyd,SR Patel,MET Salisbury,1,0,,,,,,"",""
+ball,1,4.2,Derbyshire,SR Patel,DL Lloyd,MET Salisbury,0,1,,,,1,,"",""
+ball,1,4.3,Derbyshire,DL Lloyd,SR Patel,MET Salisbury,1,0,,,,,,"",""
+ball,1,4.4,Derbyshire,SR Patel,DL Lloyd,MET Salisbury,1,0,,,,,,"",""
+ball,1,4.5,Derbyshire,DL Lloyd,SR Patel,MET Salisbury,1,0,,,,,,"",""
+ball,1,4.6,Derbyshire,SR Patel,DL Lloyd,MET Salisbury,1,0,,,,,,"",""
+ball,1,5.1,Derbyshire,SR Patel,DL Lloyd,SB Wood,0,0,,,,,,"",""
+ball,1,5.2,Derbyshire,SR Patel,DL Lloyd,SB Wood,1,0,,,,,,"",""
+ball,1,5.3,Derbyshire,DL Lloyd,SR Patel,SB Wood,0,0,,,,,,caught,DL Lloyd
+ball,1,5.4,Derbyshire,MK Andersson,SR Patel,SB Wood,0,0,,,,,,"",""
+ball,1,5.5,Derbyshire,MK Andersson,SR Patel,SB Wood,4,0,,,,,,"",""
+ball,1,5.6,Derbyshire,MK Andersson,SR Patel,SB Wood,0,0,,,,,,"",""
+ball,1,6.1,Derbyshire,SR Patel,MK Andersson,TAR Scriven,0,0,,,,,,"",""
+ball,1,6.2,Derbyshire,SR Patel,MK Andersson,TAR Scriven,0,0,,,,,,"",""
+ball,1,6.3,Derbyshire,SR Patel,MK Andersson,TAR Scriven,1,0,,,,,,"",""
+ball,1,6.4,Derbyshire,MK Andersson,SR Patel,TAR Scriven,0,1,1,,,,,"",""
+ball,1,6.5,Derbyshire,MK Andersson,SR Patel,TAR Scriven,0,0,,,,,,"",""
+ball,1,6.6,Derbyshire,MK Andersson,SR Patel,TAR Scriven,4,0,,,,,,"",""
+ball,1,6.7,Derbyshire,MK Andersson,SR Patel,TAR Scriven,1,0,,,,,,"",""
+ball,1,7.1,Derbyshire,MK Andersson,SR Patel,L Trevaskis,1,0,,,,,,"",""
+ball,1,7.2,Derbyshire,SR Patel,MK Andersson,L Trevaskis,1,0,,,,,,"",""
+ball,1,7.3,Derbyshire,MK Andersson,SR Patel,L Trevaskis,1,0,,,,,,"",""
+ball,1,7.4,Derbyshire,SR Patel,MK Andersson,L Trevaskis,1,0,,,,,,"",""
+ball,1,7.5,Derbyshire,MK Andersson,SR Patel,L Trevaskis,1,0,,,,,,"",""
+ball,1,7.6,Derbyshire,SR Patel,MK Andersson,L Trevaskis,0,0,,,,,,caught,SR Patel
+ball,1,8.1,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,1,0,,,,,,"",""
+ball,1,8.2,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,1,0,,,,,,"",""
+ball,1,8.3,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,1,0,,,,,,"",""
+ball,1,8.4,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,2,0,,,,,,"",""
+ball,1,8.5,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,0,0,,,,,,"",""
+ball,1,8.6,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,2,0,,,,,,"",""
+ball,1,9.1,Derbyshire,MK Andersson,RA Whiteley,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.2,Derbyshire,RA Whiteley,MK Andersson,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.3,Derbyshire,MK Andersson,RA Whiteley,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.4,Derbyshire,RA Whiteley,MK Andersson,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.5,Derbyshire,MK Andersson,RA Whiteley,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.6,Derbyshire,RA Whiteley,MK Andersson,L Trevaskis,1,0,,,,,,"",""
+ball,1,10.1,Derbyshire,RA Whiteley,MK Andersson,MET Salisbury,1,0,,,,,,"",""
+ball,1,10.2,Derbyshire,MK Andersson,RA Whiteley,MET Salisbury,1,0,,,,,,"",""
+ball,1,10.3,Derbyshire,RA Whiteley,MK Andersson,MET Salisbury,0,0,,,,,,"",""
+ball,1,10.4,Derbyshire,RA Whiteley,MK Andersson,MET Salisbury,0,1,,,,1,,"",""
+ball,1,10.5,Derbyshire,MK Andersson,RA Whiteley,MET Salisbury,1,0,,,,,,"",""
+ball,1,10.6,Derbyshire,RA Whiteley,MK Andersson,MET Salisbury,1,0,,,,,,"",""
+ball,1,11.1,Derbyshire,RA Whiteley,MK Andersson,LPJ Kimber,6,0,,,,,,"",""
+ball,1,11.2,Derbyshire,RA Whiteley,MK Andersson,LPJ Kimber,1,0,,,,,,"",""
+ball,1,11.3,Derbyshire,MK Andersson,RA Whiteley,LPJ Kimber,1,0,,,,,,"",""
+ball,1,11.4,Derbyshire,RA Whiteley,MK Andersson,LPJ Kimber,1,0,,,,,,"",""
+ball,1,11.5,Derbyshire,MK Andersson,RA Whiteley,LPJ Kimber,0,0,,,,,,"",""
+ball,1,11.6,Derbyshire,MK Andersson,RA Whiteley,LPJ Kimber,0,0,,,,,,"",""
+ball,1,12.1,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,1,0,,,,,,"",""
+ball,1,12.2,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,1,0,,,,,,"",""
+ball,1,12.3,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,1,0,,,,,,"",""
+ball,1,12.4,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,0,1,1,,,,,"",""
+ball,1,12.5,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,1,0,,,,,,"",""
+ball,1,12.6,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,1,0,,,,,,"",""
+ball,1,12.7,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,1,0,,,,,,"",""
+ball,1,13.1,Derbyshire,MK Andersson,RA Whiteley,L Trevaskis,0,0,,,,,,"",""
+ball,1,13.2,Derbyshire,MK Andersson,RA Whiteley,L Trevaskis,1,0,,,,,,"",""
+ball,1,13.3,Derbyshire,RA Whiteley,MK Andersson,L Trevaskis,4,0,,,,,,"",""
+ball,1,13.4,Derbyshire,RA Whiteley,MK Andersson,L Trevaskis,4,0,,,,,,"",""
+ball,1,13.5,Derbyshire,RA Whiteley,MK Andersson,L Trevaskis,1,0,,,,,,"",""
+ball,1,13.6,Derbyshire,MK Andersson,RA Whiteley,L Trevaskis,1,0,,,,,,"",""
+ball,1,14.1,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,1,0,,,,,,"",""
+ball,1,14.2,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,0,1,1,,,,,"",""
+ball,1,14.3,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,4,0,,,,,,"",""
+ball,1,14.4,Derbyshire,RA Whiteley,MK Andersson,TAR Scriven,1,0,,,,,,"",""
+ball,1,14.5,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,2,0,,,,,,"",""
+ball,1,14.6,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,4,0,,,,,,"",""
+ball,1,14.7,Derbyshire,MK Andersson,RA Whiteley,TAR Scriven,4,0,,,,,,"",""
+ball,1,15.1,Derbyshire,RA Whiteley,MK Andersson,MET Salisbury,1,0,,,,,,"",""
+ball,1,15.2,Derbyshire,MK Andersson,RA Whiteley,MET Salisbury,0,1,1,,,,,"",""
+ball,1,15.3,Derbyshire,MK Andersson,RA Whiteley,MET Salisbury,0,1,1,,,,,"",""
+ball,1,15.4,Derbyshire,MK Andersson,RA Whiteley,MET Salisbury,4,0,,,,,,"",""
+ball,1,15.5,Derbyshire,MK Andersson,RA Whiteley,MET Salisbury,1,0,,,,,,"",""
+ball,1,15.6,Derbyshire,RA Whiteley,MK Andersson,MET Salisbury,0,0,,,,,,"",""
+ball,1,15.7,Derbyshire,RA Whiteley,MK Andersson,MET Salisbury,1,0,,,,,,"",""
+ball,1,15.8,Derbyshire,MK Andersson,RA Whiteley,MET Salisbury,1,0,,,,,,"",""
+ball,1,16.1,Derbyshire,MK Andersson,RA Whiteley,LV van Beek,1,0,,,,,,"",""
+ball,1,16.2,Derbyshire,RA Whiteley,MK Andersson,LV van Beek,0,1,,,,1,,"",""
+ball,1,16.3,Derbyshire,MK Andersson,RA Whiteley,LV van Beek,1,0,,,,,,"",""
+ball,1,16.4,Derbyshire,RA Whiteley,MK Andersson,LV van Beek,0,1,1,,,,,"",""
+ball,1,16.5,Derbyshire,RA Whiteley,MK Andersson,LV van Beek,0,0,,,,,,caught,RA Whiteley
+ball,1,16.6,Derbyshire,ZJ Chappell,MK Andersson,LV van Beek,1,0,,,,,,"",""
+ball,1,16.7,Derbyshire,MK Andersson,ZJ Chappell,LV van Beek,1,0,,,,,,"",""
+ball,1,17.1,Derbyshire,MK Andersson,ZJ Chappell,SB Wood,4,0,,,,,,"",""
+ball,1,17.2,Derbyshire,MK Andersson,ZJ Chappell,SB Wood,4,0,,,,,,"",""
+ball,1,17.3,Derbyshire,MK Andersson,ZJ Chappell,SB Wood,0,0,,,,,,"",""
+ball,1,17.4,Derbyshire,MK Andersson,ZJ Chappell,SB Wood,1,0,,,,,,"",""
+ball,1,17.5,Derbyshire,ZJ Chappell,MK Andersson,SB Wood,4,0,,,,,,"",""
+ball,1,17.6,Derbyshire,ZJ Chappell,MK Andersson,SB Wood,1,0,,,,,,"",""
+ball,1,18.1,Derbyshire,ZJ Chappell,MK Andersson,LV van Beek,0,0,,,,,,"",""
+ball,1,18.2,Derbyshire,ZJ Chappell,MK Andersson,LV van Beek,1,0,,,,,,"",""
+ball,1,18.3,Derbyshire,MK Andersson,ZJ Chappell,LV van Beek,4,0,,,,,,"",""
+ball,1,18.4,Derbyshire,MK Andersson,ZJ Chappell,LV van Beek,4,0,,,,,,"",""
+ball,1,18.5,Derbyshire,MK Andersson,ZJ Chappell,LV van Beek,0,2,2,,,,,"",""
+ball,1,18.6,Derbyshire,ZJ Chappell,MK Andersson,LV van Beek,4,0,,,,,,"",""
+ball,1,18.7,Derbyshire,ZJ Chappell,MK Andersson,LV van Beek,2,0,,,,,,"",""
+ball,1,19.1,Derbyshire,MK Andersson,ZJ Chappell,SB Wood,0,1,,,,1,,"",""
+ball,1,19.2,Derbyshire,ZJ Chappell,MK Andersson,SB Wood,1,0,,,,,,"",""
+ball,1,19.3,Derbyshire,MK Andersson,ZJ Chappell,SB Wood,2,0,,,,,,"",""
+ball,1,19.4,Derbyshire,MK Andersson,ZJ Chappell,SB Wood,0,0,,,,,,"",""
+ball,1,19.5,Derbyshire,MK Andersson,ZJ Chappell,SB Wood,2,0,,,,,,"",""
+ball,1,19.6,Derbyshire,MK Andersson,ZJ Chappell,SB Wood,4,0,,,,,,"",""
+ball,2,0.1,Leicestershire,RK Patel,SG Budinger,AM Ghazanfar,1,0,,,,,,"",""
+ball,2,0.2,Leicestershire,SG Budinger,RK Patel,AM Ghazanfar,0,0,,,,,,"",""
+ball,2,0.3,Leicestershire,SG Budinger,RK Patel,AM Ghazanfar,0,0,,,,,,"",""
+ball,2,0.4,Leicestershire,SG Budinger,RK Patel,AM Ghazanfar,4,0,,,,,,"",""
+ball,2,0.5,Leicestershire,SG Budinger,RK Patel,AM Ghazanfar,4,0,,,,,,"",""
+ball,2,0.6,Leicestershire,SG Budinger,RK Patel,AM Ghazanfar,0,1,1,,,,,"",""
+ball,2,0.7,Leicestershire,SG Budinger,RK Patel,AM Ghazanfar,6,0,,,,,,"",""
+ball,2,1.1,Leicestershire,RK Patel,SG Budinger,N Potts,4,0,,,,,,"",""
+ball,2,1.2,Leicestershire,RK Patel,SG Budinger,N Potts,4,0,,,,,,"",""
+ball,2,1.3,Leicestershire,RK Patel,SG Budinger,N Potts,0,0,,,,,,"",""
+ball,2,1.4,Leicestershire,RK Patel,SG Budinger,N Potts,0,0,,,,,,"",""
+ball,2,1.5,Leicestershire,RK Patel,SG Budinger,N Potts,0,0,,,,,,"",""
+ball,2,1.6,Leicestershire,RK Patel,SG Budinger,N Potts,4,0,,,,,,"",""
+ball,2,2.1,Leicestershire,SG Budinger,RK Patel,ZJ Chappell,0,0,,,,,,"",""
+ball,2,2.2,Leicestershire,SG Budinger,RK Patel,ZJ Chappell,1,0,,,,,,"",""
+ball,2,2.3,Leicestershire,RK Patel,SG Budinger,ZJ Chappell,0,0,,,,,,"",""
+ball,2,2.4,Leicestershire,RK Patel,SG Budinger,ZJ Chappell,1,0,,,,,,"",""
+ball,2,2.5,Leicestershire,SG Budinger,RK Patel,ZJ Chappell,6,0,,,,,,"",""
+ball,2,2.6,Leicestershire,SG Budinger,RK Patel,ZJ Chappell,1,0,,,,,,"",""
+ball,2,3.1,Leicestershire,SG Budinger,RK Patel,PR Brown,4,0,,,,,,"",""
+ball,2,3.2,Leicestershire,SG Budinger,RK Patel,PR Brown,4,0,,,,,,"",""
+ball,2,3.3,Leicestershire,SG Budinger,RK Patel,PR Brown,4,0,,,,,,"",""
+ball,2,3.4,Leicestershire,SG Budinger,RK Patel,PR Brown,4,0,,,,,,"",""
+ball,2,3.5,Leicestershire,SG Budinger,RK Patel,PR Brown,6,0,,,,,,"",""
+ball,2,3.6,Leicestershire,SG Budinger,RK Patel,PR Brown,0,1,1,,,,,"",""
+ball,2,3.7,Leicestershire,SG Budinger,RK Patel,PR Brown,6,0,,,,,,"",""
+ball,2,4.1,Leicestershire,RK Patel,SG Budinger,MK Andersson,4,0,,,,,,"",""
+ball,2,4.2,Leicestershire,RK Patel,SG Budinger,MK Andersson,1,0,,,,,,"",""
+ball,2,4.3,Leicestershire,SG Budinger,RK Patel,MK Andersson,1,0,,,,,,"",""
+ball,2,4.4,Leicestershire,RK Patel,SG Budinger,MK Andersson,1,0,,,,,,"",""
+ball,2,4.5,Leicestershire,SG Budinger,RK Patel,MK Andersson,0,0,,,,,,caught,SG Budinger
+ball,2,4.6,Leicestershire,LPJ Kimber,RK Patel,MK Andersson,0,0,,,,,,"",""
+ball,2,5.1,Leicestershire,RK Patel,LPJ Kimber,ZJ Chappell,4,0,,,,,,"",""
+ball,2,5.2,Leicestershire,RK Patel,LPJ Kimber,ZJ Chappell,1,0,,,,,,"",""
+ball,2,5.3,Leicestershire,LPJ Kimber,RK Patel,ZJ Chappell,4,0,,,,,,"",""
+ball,2,5.4,Leicestershire,LPJ Kimber,RK Patel,ZJ Chappell,0,0,,,,,,"",""
+ball,2,5.5,Leicestershire,LPJ Kimber,RK Patel,ZJ Chappell,0,0,,,,,,"",""
+ball,2,5.6,Leicestershire,LPJ Kimber,RK Patel,ZJ Chappell,4,0,,,,,,"",""
+ball,2,6.1,Leicestershire,RK Patel,LPJ Kimber,AM Ghazanfar,1,0,,,,,,"",""
+ball,2,6.2,Leicestershire,LPJ Kimber,RK Patel,AM Ghazanfar,0,0,,,,,,"",""
+ball,2,6.3,Leicestershire,LPJ Kimber,RK Patel,AM Ghazanfar,4,0,,,,,,"",""
+ball,2,6.4,Leicestershire,LPJ Kimber,RK Patel,AM Ghazanfar,0,0,,,,,,bowled,LPJ Kimber
+ball,2,6.5,Leicestershire,Shan Masood,RK Patel,AM Ghazanfar,0,0,,,,,,"",""
+ball,2,6.6,Leicestershire,Shan Masood,RK Patel,AM Ghazanfar,1,0,,,,,,"",""
+ball,2,7.1,Leicestershire,Shan Masood,RK Patel,SR Patel,1,0,,,,,,"",""
+ball,2,7.2,Leicestershire,RK Patel,Shan Masood,SR Patel,0,0,,,,,,"",""
+ball,2,7.3,Leicestershire,RK Patel,Shan Masood,SR Patel,0,0,,,,,,"",""
+ball,2,7.4,Leicestershire,RK Patel,Shan Masood,SR Patel,1,0,,,,,,"",""
+ball,2,7.5,Leicestershire,Shan Masood,RK Patel,SR Patel,1,0,,,,,,"",""
+ball,2,7.6,Leicestershire,RK Patel,Shan Masood,SR Patel,0,0,,,,,,"",""
+ball,2,8.1,Leicestershire,Shan Masood,RK Patel,AM Ghazanfar,1,0,,,,,,"",""
+ball,2,8.2,Leicestershire,RK Patel,Shan Masood,AM Ghazanfar,0,0,,,,,,bowled,RK Patel
+ball,2,8.3,Leicestershire,LJ Hill,Shan Masood,AM Ghazanfar,1,0,,,,,,"",""
+ball,2,8.4,Leicestershire,Shan Masood,LJ Hill,AM Ghazanfar,1,0,,,,,,"",""
+ball,2,8.5,Leicestershire,LJ Hill,Shan Masood,AM Ghazanfar,0,0,,,,,,"",""
+ball,2,8.6,Leicestershire,LJ Hill,Shan Masood,AM Ghazanfar,0,0,,,,,,"",""
+ball,2,9.1,Leicestershire,Shan Masood,LJ Hill,SR Patel,2,0,,,,,,"",""
+ball,2,9.2,Leicestershire,Shan Masood,LJ Hill,SR Patel,1,0,,,,,,"",""
+ball,2,9.3,Leicestershire,LJ Hill,Shan Masood,SR Patel,1,0,,,,,,"",""
+ball,2,9.4,Leicestershire,Shan Masood,LJ Hill,SR Patel,1,0,,,,,,"",""
+ball,2,9.5,Leicestershire,LJ Hill,Shan Masood,SR Patel,0,0,,,,,,caught,LJ Hill
+ball,2,9.6,Leicestershire,OB Cox,Shan Masood,SR Patel,0,0,,,,,,"",""
+ball,2,10.1,Leicestershire,Shan Masood,OB Cox,MK Andersson,0,1,1,,,,,"",""
+ball,2,10.2,Leicestershire,Shan Masood,OB Cox,MK Andersson,0,4,,,,4,,"",""
+ball,2,10.3,Leicestershire,Shan Masood,OB Cox,MK Andersson,1,0,,,,,,"",""
+ball,2,10.4,Leicestershire,OB Cox,Shan Masood,MK Andersson,1,0,,,,,,"",""
+ball,2,10.5,Leicestershire,Shan Masood,OB Cox,MK Andersson,0,0,,,,,,"",""
+ball,2,10.6,Leicestershire,Shan Masood,OB Cox,MK Andersson,0,1,1,,,,,"",""
+ball,2,10.7,Leicestershire,Shan Masood,OB Cox,MK Andersson,1,0,,,,,,"",""
+ball,2,10.8,Leicestershire,OB Cox,Shan Masood,MK Andersson,1,0,,,,,,"",""
+ball,2,11.1,Leicestershire,OB Cox,Shan Masood,SR Patel,2,0,,,,,,"",""
+ball,2,11.2,Leicestershire,OB Cox,Shan Masood,SR Patel,1,0,,,,,,"",""
+ball,2,11.3,Leicestershire,Shan Masood,OB Cox,SR Patel,1,0,,,,,,"",""
+ball,2,11.4,Leicestershire,OB Cox,Shan Masood,SR Patel,1,0,,,,,,"",""
+ball,2,11.5,Leicestershire,Shan Masood,OB Cox,SR Patel,1,0,,,,,,"",""
+ball,2,11.6,Leicestershire,OB Cox,Shan Masood,SR Patel,1,0,,,,,,"",""
+ball,2,12.1,Leicestershire,OB Cox,Shan Masood,AM Ghazanfar,0,0,,,,,,"",""
+ball,2,12.2,Leicestershire,OB Cox,Shan Masood,AM Ghazanfar,0,0,,,,,,"",""
+ball,2,12.3,Leicestershire,OB Cox,Shan Masood,AM Ghazanfar,2,0,,,,,,"",""
+ball,2,12.4,Leicestershire,OB Cox,Shan Masood,AM Ghazanfar,1,0,,,,,,"",""
+ball,2,12.5,Leicestershire,Shan Masood,OB Cox,AM Ghazanfar,0,0,,,,,,"",""
+ball,2,12.6,Leicestershire,Shan Masood,OB Cox,AM Ghazanfar,1,0,,,,,,"",""
+ball,2,13.1,Leicestershire,Shan Masood,OB Cox,SR Patel,1,0,,,,,,"",""
+ball,2,13.2,Leicestershire,OB Cox,Shan Masood,SR Patel,1,0,,,,,,"",""
+ball,2,13.3,Leicestershire,Shan Masood,OB Cox,SR Patel,4,0,,,,,,"",""
+ball,2,13.4,Leicestershire,Shan Masood,OB Cox,SR Patel,4,0,,,,,,"",""
+ball,2,13.5,Leicestershire,Shan Masood,OB Cox,SR Patel,0,0,,,,,,"",""
+ball,2,13.6,Leicestershire,Shan Masood,OB Cox,SR Patel,1,0,,,,,,"",""
+ball,2,14.1,Leicestershire,Shan Masood,OB Cox,PR Brown,0,0,,,,,,"",""
+ball,2,14.2,Leicestershire,Shan Masood,OB Cox,PR Brown,6,0,,,,,,"",""
+ball,2,14.3,Leicestershire,Shan Masood,OB Cox,PR Brown,1,0,,,,,,"",""
+ball,2,14.4,Leicestershire,OB Cox,Shan Masood,PR Brown,0,1,1,,,,,"",""
+ball,2,14.5,Leicestershire,OB Cox,Shan Masood,PR Brown,1,0,,,,,,"",""
+ball,2,14.6,Leicestershire,Shan Masood,OB Cox,PR Brown,1,0,,,,,,"",""
+ball,2,14.7,Leicestershire,OB Cox,Shan Masood,PR Brown,0,1,1,,,,,"",""
+ball,2,14.8,Leicestershire,OB Cox,Shan Masood,PR Brown,1,0,,,,,,"",""
+ball,2,15.1,Leicestershire,OB Cox,Shan Masood,DL Lloyd,0,0,,,,,,bowled,OB Cox
+ball,2,15.2,Leicestershire,LV van Beek,Shan Masood,DL Lloyd,1,0,,,,,,"",""
+ball,2,15.3,Leicestershire,Shan Masood,LV van Beek,DL Lloyd,4,0,,,,,,"",""
+ball,2,15.4,Leicestershire,Shan Masood,LV van Beek,DL Lloyd,1,0,,,,,,"",""
+ball,2,15.5,Leicestershire,LV van Beek,Shan Masood,DL Lloyd,0,0,,,,,,"",""
+ball,2,15.6,Leicestershire,LV van Beek,Shan Masood,DL Lloyd,0,1,1,,,,,"",""
+ball,2,15.7,Leicestershire,LV van Beek,Shan Masood,DL Lloyd,1,0,,,,,,"",""
+ball,2,16.1,Leicestershire,LV van Beek,Shan Masood,ZJ Chappell,2,0,,,,,,"",""
+ball,2,16.2,Leicestershire,LV van Beek,Shan Masood,ZJ Chappell,0,1,1,,,,,"",""
+ball,2,16.3,Leicestershire,LV van Beek,Shan Masood,ZJ Chappell,0,0,,,,,,"",""
+ball,2,16.4,Leicestershire,LV van Beek,Shan Masood,ZJ Chappell,1,0,,,,,,"",""
+ball,2,16.5,Leicestershire,Shan Masood,LV van Beek,ZJ Chappell,1,0,,,,,,"",""
+ball,2,16.6,Leicestershire,LV van Beek,Shan Masood,ZJ Chappell,0,0,,,,,,"",""
+ball,2,16.7,Leicestershire,LV van Beek,Shan Masood,ZJ Chappell,1,0,,,,,,"",""
+ball,2,17.1,Leicestershire,LV van Beek,Shan Masood,DL Lloyd,0,0,,,,,,"",""
+ball,2,17.2,Leicestershire,LV van Beek,Shan Masood,DL Lloyd,1,0,,,,,,"",""
+ball,2,17.3,Leicestershire,Shan Masood,LV van Beek,DL Lloyd,1,0,,,,,,"",""
+ball,2,17.4,Leicestershire,LV van Beek,Shan Masood,DL Lloyd,1,0,,,,,,"",""
+ball,2,17.5,Leicestershire,Shan Masood,LV van Beek,DL Lloyd,0,0,,,,,,"",""
+ball,2,17.6,Leicestershire,Shan Masood,LV van Beek,DL Lloyd,1,0,,,,,,"",""
+ball,2,18.1,Leicestershire,Shan Masood,LV van Beek,PR Brown,4,0,,,,,,"",""
+ball,2,18.2,Leicestershire,Shan Masood,LV van Beek,PR Brown,0,0,,,,,,"",""
+ball,2,18.3,Leicestershire,Shan Masood,LV van Beek,PR Brown,1,0,,,,,,"",""
+ball,2,18.4,Leicestershire,LV van Beek,Shan Masood,PR Brown,0,0,,,,,,"",""
+ball,2,18.5,Leicestershire,LV van Beek,Shan Masood,PR Brown,0,1,1,,,,,"",""

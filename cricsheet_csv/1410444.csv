@@ -1,0 +1,216 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Gloucestershire
+info,gender,male
+info,season,2024
+info,date,2024/07/05
+info,event,Vitality Blast
+info,venue,"College Ground, Cheltenham"
+info,city,Cheltenham
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,AG Wharf
+info,umpire,BJ Peverall
+info,match_referee,DA Cosker
+info,winner,Kent
+info,winner_runs,8
+info,method,D/L
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,FIN Khushi
+info,player,Kent,TS Muyeye
+info,player,Kent,SW Billings
+info,player,Kent,JDM Evison
+info,player,Kent,JA Leaning
+info,player,Kent,MK O'Riordan
+info,player,Kent,G Stewart
+info,player,Kent,TS Rogers
+info,player,Kent,NN Gilchrist
+info,player,Kent,MW Parkinson
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,BJ Webster
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,AS Dale
+info,player,Gloucestershire,MD Taylor
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,G Stewart,a77472dc
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MK O'Riordan,94db3502
+info,registry,people,MW Parkinson,19708692
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,NN Gilchrist,93cad673
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,TS Rogers,1b04e02b
+ball,1,0.1,Kent,DJ Bell-Drummond,FIN Khushi,DA Payne,0,2,2,,,,,"",""
+ball,1,0.2,Kent,FIN Khushi,DJ Bell-Drummond,DA Payne,0,0,,,,,,"",""
+ball,1,0.3,Kent,FIN Khushi,DJ Bell-Drummond,DA Payne,0,0,,,,,,lbw,FIN Khushi
+ball,1,0.4,Kent,TS Muyeye,DJ Bell-Drummond,DA Payne,1,0,,,,,,"",""
+ball,1,0.5,Kent,DJ Bell-Drummond,TS Muyeye,DA Payne,1,0,,,,,,"",""
+ball,1,0.6,Kent,TS Muyeye,DJ Bell-Drummond,DA Payne,0,0,,,,,,caught,TS Muyeye
+ball,1,0.7,Kent,SW Billings,DJ Bell-Drummond,DA Payne,0,0,,,,,,"",""
+ball,1,1.1,Kent,DJ Bell-Drummond,SW Billings,J Shaw,0,0,,,,,,"",""
+ball,1,1.2,Kent,DJ Bell-Drummond,SW Billings,J Shaw,0,0,,,,,,"",""
+ball,1,1.3,Kent,DJ Bell-Drummond,SW Billings,J Shaw,4,0,,,,,,"",""
+ball,1,1.4,Kent,DJ Bell-Drummond,SW Billings,J Shaw,0,0,,,,,,"",""
+ball,1,1.5,Kent,DJ Bell-Drummond,SW Billings,J Shaw,1,0,,,,,,"",""
+ball,1,1.6,Kent,SW Billings,DJ Bell-Drummond,J Shaw,0,1,,,,1,,"",""
+ball,1,2.1,Kent,SW Billings,DJ Bell-Drummond,DA Payne,1,0,,,,,,"",""
+ball,1,2.2,Kent,DJ Bell-Drummond,SW Billings,DA Payne,0,1,1,,,,,"",""
+ball,1,2.3,Kent,DJ Bell-Drummond,SW Billings,DA Payne,1,0,,,,,,"",""
+ball,1,2.4,Kent,SW Billings,DJ Bell-Drummond,DA Payne,0,0,,,,,,"",""
+ball,1,2.5,Kent,SW Billings,DJ Bell-Drummond,DA Payne,0,0,,,,,,caught,SW Billings
+ball,1,2.6,Kent,JDM Evison,DJ Bell-Drummond,DA Payne,4,0,,,,,,"",""
+ball,1,2.7,Kent,JDM Evison,DJ Bell-Drummond,DA Payne,0,0,,,,,,"",""
+ball,1,3.1,Kent,DJ Bell-Drummond,JDM Evison,MD Taylor,1,0,,,,,,"",""
+ball,1,3.2,Kent,JDM Evison,DJ Bell-Drummond,MD Taylor,1,0,,,,,,"",""
+ball,1,3.3,Kent,DJ Bell-Drummond,JDM Evison,MD Taylor,0,1,,,,1,,"",""
+ball,1,3.4,Kent,JDM Evison,DJ Bell-Drummond,MD Taylor,0,0,,,,,,"",""
+ball,1,3.5,Kent,JDM Evison,DJ Bell-Drummond,MD Taylor,0,0,,,,,,"",""
+ball,1,3.6,Kent,JDM Evison,DJ Bell-Drummond,MD Taylor,0,0,,,,,,"",""
+ball,1,4.1,Kent,DJ Bell-Drummond,JDM Evison,DA Payne,0,0,,,,,,"",""
+ball,1,4.2,Kent,DJ Bell-Drummond,JDM Evison,DA Payne,0,0,,,,,,"",""
+ball,1,4.3,Kent,DJ Bell-Drummond,JDM Evison,DA Payne,0,0,,,,,,"",""
+ball,1,4.4,Kent,DJ Bell-Drummond,JDM Evison,DA Payne,1,0,,,,,,"",""
+ball,1,4.5,Kent,JDM Evison,DJ Bell-Drummond,DA Payne,4,0,,,,,,"",""
+ball,1,4.6,Kent,JDM Evison,DJ Bell-Drummond,DA Payne,0,0,,,,,,"",""
+ball,1,5.1,Kent,DJ Bell-Drummond,JDM Evison,J Shaw,2,0,,,,,,"",""
+ball,1,5.2,Kent,DJ Bell-Drummond,JDM Evison,J Shaw,4,0,,,,,,"",""
+ball,1,5.3,Kent,DJ Bell-Drummond,JDM Evison,J Shaw,4,0,,,,,,"",""
+ball,1,5.4,Kent,DJ Bell-Drummond,JDM Evison,J Shaw,4,0,,,,,,"",""
+ball,1,5.5,Kent,DJ Bell-Drummond,JDM Evison,J Shaw,0,0,,,,,,"",""
+ball,1,5.6,Kent,DJ Bell-Drummond,JDM Evison,J Shaw,1,0,,,,,,"",""
+ball,1,6.1,Kent,DJ Bell-Drummond,JDM Evison,AS Dale,0,0,,,,,,"",""
+ball,1,6.2,Kent,DJ Bell-Drummond,JDM Evison,AS Dale,1,0,,,,,,"",""
+ball,1,6.3,Kent,JDM Evison,DJ Bell-Drummond,AS Dale,0,0,,,,,,"",""
+ball,1,6.4,Kent,JDM Evison,DJ Bell-Drummond,AS Dale,5,0,,,,,,"",""
+ball,1,6.5,Kent,DJ Bell-Drummond,JDM Evison,AS Dale,4,0,,,,,,"",""
+ball,1,6.6,Kent,DJ Bell-Drummond,JDM Evison,AS Dale,4,0,,,,,,"",""
+ball,1,7.1,Kent,JDM Evison,DJ Bell-Drummond,BJ Webster,4,0,,,,,,"",""
+ball,1,7.2,Kent,JDM Evison,DJ Bell-Drummond,BJ Webster,1,0,,,,,,"",""
+ball,1,7.3,Kent,DJ Bell-Drummond,JDM Evison,BJ Webster,1,0,,,,,,"",""
+ball,1,7.4,Kent,JDM Evison,DJ Bell-Drummond,BJ Webster,1,0,,,,,,"",""
+ball,1,7.5,Kent,DJ Bell-Drummond,JDM Evison,BJ Webster,0,0,,,,,,"",""
+ball,1,7.6,Kent,DJ Bell-Drummond,JDM Evison,BJ Webster,0,0,,,,,,"",""
+ball,1,8.1,Kent,JDM Evison,DJ Bell-Drummond,MD Taylor,1,0,,,,,,"",""
+ball,1,8.2,Kent,DJ Bell-Drummond,JDM Evison,MD Taylor,0,0,,,,,,"",""
+ball,1,8.3,Kent,DJ Bell-Drummond,JDM Evison,MD Taylor,0,0,,,,,,"",""
+ball,1,8.4,Kent,DJ Bell-Drummond,JDM Evison,MD Taylor,1,0,,,,,,"",""
+ball,1,8.5,Kent,JDM Evison,DJ Bell-Drummond,MD Taylor,1,0,,,,,,"",""
+ball,1,8.6,Kent,DJ Bell-Drummond,JDM Evison,MD Taylor,4,0,,,,,,"",""
+ball,1,9.1,Kent,JDM Evison,DJ Bell-Drummond,BJ Webster,0,1,1,,,,,"",""
+ball,1,9.2,Kent,JDM Evison,DJ Bell-Drummond,BJ Webster,0,0,,,,,,caught,JDM Evison
+ball,1,9.3,Kent,JA Leaning,DJ Bell-Drummond,BJ Webster,0,0,,,,,,"",""
+ball,1,9.4,Kent,JA Leaning,DJ Bell-Drummond,BJ Webster,0,0,,,,,,"",""
+ball,1,9.5,Kent,JA Leaning,DJ Bell-Drummond,BJ Webster,0,0,,,,,,"",""
+ball,1,9.6,Kent,JA Leaning,DJ Bell-Drummond,BJ Webster,0,0,,,,,,"",""
+ball,1,9.7,Kent,JA Leaning,DJ Bell-Drummond,BJ Webster,0,1,,,,1,,"",""
+ball,1,10.1,Kent,JA Leaning,DJ Bell-Drummond,OJ Price,0,0,,,,,,hit wicket,JA Leaning
+ball,1,10.2,Kent,MK O'Riordan,DJ Bell-Drummond,OJ Price,1,0,,,,,,"",""
+ball,1,10.3,Kent,DJ Bell-Drummond,MK O'Riordan,OJ Price,1,0,,,,,,"",""
+ball,1,10.4,Kent,MK O'Riordan,DJ Bell-Drummond,OJ Price,0,0,,,,,,"",""
+ball,1,10.5,Kent,MK O'Riordan,DJ Bell-Drummond,OJ Price,1,0,,,,,,"",""
+ball,1,10.6,Kent,DJ Bell-Drummond,MK O'Riordan,OJ Price,1,0,,,,,,"",""
+ball,1,11.1,Kent,DJ Bell-Drummond,MK O'Riordan,AS Dale,1,0,,,,,,"",""
+ball,1,11.2,Kent,MK O'Riordan,DJ Bell-Drummond,AS Dale,1,0,,,,,,"",""
+ball,1,11.3,Kent,DJ Bell-Drummond,MK O'Riordan,AS Dale,1,0,,,,,,"",""
+ball,1,11.4,Kent,MK O'Riordan,DJ Bell-Drummond,AS Dale,3,0,,,,,,"",""
+ball,1,11.5,Kent,DJ Bell-Drummond,MK O'Riordan,AS Dale,0,0,,,,,,"",""
+ball,1,11.6,Kent,DJ Bell-Drummond,MK O'Riordan,AS Dale,0,0,,,,,,"",""
+ball,1,12.1,Kent,MK O'Riordan,DJ Bell-Drummond,OJ Price,4,0,,,,,,"",""
+ball,1,12.2,Kent,MK O'Riordan,DJ Bell-Drummond,OJ Price,0,0,,,,,,"",""
+ball,1,12.3,Kent,MK O'Riordan,DJ Bell-Drummond,OJ Price,0,1,1,,,,,"",""
+ball,1,12.4,Kent,MK O'Riordan,DJ Bell-Drummond,OJ Price,0,0,,,,,,"",""
+ball,1,12.5,Kent,MK O'Riordan,DJ Bell-Drummond,OJ Price,0,0,,,,,,caught,MK O'Riordan
+ball,1,12.6,Kent,G Stewart,DJ Bell-Drummond,OJ Price,4,0,,,,,,"",""
+ball,1,12.7,Kent,G Stewart,DJ Bell-Drummond,OJ Price,0,0,,,,,,"",""
+ball,1,13.1,Kent,DJ Bell-Drummond,G Stewart,BJ Webster,1,0,,,,,,"",""
+ball,1,13.2,Kent,G Stewart,DJ Bell-Drummond,BJ Webster,4,0,,,,,,"",""
+ball,1,13.3,Kent,G Stewart,DJ Bell-Drummond,BJ Webster,0,0,,,,,,"",""
+ball,1,13.4,Kent,G Stewart,DJ Bell-Drummond,BJ Webster,0,0,,,,,,"",""
+ball,1,13.5,Kent,G Stewart,DJ Bell-Drummond,BJ Webster,0,0,,,,,,"",""
+ball,1,13.6,Kent,G Stewart,DJ Bell-Drummond,BJ Webster,1,0,,,,,,"",""
+ball,1,14.1,Kent,G Stewart,DJ Bell-Drummond,OJ Price,1,0,,,,,,"",""
+ball,1,14.2,Kent,DJ Bell-Drummond,G Stewart,OJ Price,1,0,,,,,,"",""
+ball,1,14.3,Kent,G Stewart,DJ Bell-Drummond,OJ Price,1,0,,,,,,"",""
+ball,1,14.4,Kent,DJ Bell-Drummond,G Stewart,OJ Price,0,1,1,,,,,"",""
+ball,1,14.5,Kent,DJ Bell-Drummond,G Stewart,OJ Price,6,0,,,,,,"",""
+ball,1,14.6,Kent,DJ Bell-Drummond,G Stewart,OJ Price,1,0,,,,,,"",""
+ball,1,14.7,Kent,G Stewart,DJ Bell-Drummond,OJ Price,2,0,,,,,,"",""
+ball,1,15.1,Kent,DJ Bell-Drummond,G Stewart,MD Taylor,2,0,,,,,,"",""
+ball,1,15.2,Kent,DJ Bell-Drummond,G Stewart,MD Taylor,6,0,,,,,,"",""
+ball,1,15.3,Kent,DJ Bell-Drummond,G Stewart,MD Taylor,1,0,,,,,,"",""
+ball,1,15.4,Kent,G Stewart,DJ Bell-Drummond,MD Taylor,1,0,,,,,,"",""
+ball,1,15.5,Kent,DJ Bell-Drummond,G Stewart,MD Taylor,0,0,,,,,,"",""
+ball,1,15.6,Kent,DJ Bell-Drummond,G Stewart,MD Taylor,1,0,,,,,,"",""
+ball,1,16.1,Kent,DJ Bell-Drummond,G Stewart,BJ Webster,4,0,,,,,,"",""
+ball,1,16.2,Kent,DJ Bell-Drummond,G Stewart,BJ Webster,4,0,,,,,,"",""
+ball,1,16.3,Kent,DJ Bell-Drummond,G Stewart,BJ Webster,1,0,,,,,,"",""
+ball,1,16.4,Kent,G Stewart,DJ Bell-Drummond,BJ Webster,1,0,,,,,,"",""
+ball,1,16.5,Kent,DJ Bell-Drummond,G Stewart,BJ Webster,4,0,,,,,,"",""
+ball,1,16.6,Kent,DJ Bell-Drummond,G Stewart,BJ Webster,0,0,,,,,,"",""
+ball,1,17.1,Kent,G Stewart,DJ Bell-Drummond,DA Payne,0,0,,,,,,"",""
+ball,1,17.2,Kent,G Stewart,DJ Bell-Drummond,DA Payne,6,0,,,,,,"",""
+ball,1,17.3,Kent,G Stewart,DJ Bell-Drummond,DA Payne,0,0,,,,,,caught,G Stewart
+ball,1,17.4,Kent,TS Rogers,DJ Bell-Drummond,DA Payne,1,0,,,,,,"",""
+ball,1,17.5,Kent,DJ Bell-Drummond,TS Rogers,DA Payne,1,0,,,,,,"",""
+ball,1,17.6,Kent,TS Rogers,DJ Bell-Drummond,DA Payne,1,0,,,,,,"",""
+ball,1,18.1,Kent,TS Rogers,DJ Bell-Drummond,J Shaw,6,0,,,,,,"",""
+ball,1,18.2,Kent,TS Rogers,DJ Bell-Drummond,J Shaw,1,0,,,,,,"",""
+ball,1,18.3,Kent,DJ Bell-Drummond,TS Rogers,J Shaw,0,0,,,,,,caught,DJ Bell-Drummond
+ball,1,18.4,Kent,NN Gilchrist,TS Rogers,J Shaw,0,0,,,,,,"",""
+ball,1,18.5,Kent,NN Gilchrist,TS Rogers,J Shaw,0,0,,,,,,"",""
+ball,1,18.6,Kent,NN Gilchrist,TS Rogers,J Shaw,1,0,,,,,,"",""
+ball,1,19.1,Kent,NN Gilchrist,TS Rogers,MD Taylor,0,0,,,,,,caught,NN Gilchrist
+ball,1,19.2,Kent,MW Parkinson,TS Rogers,MD Taylor,0,0,,,,,,run out,MW Parkinson
+ball,2,0.1,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,0,0,,,,,,"",""
+ball,2,0.2,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,0,0,,,,,,"",""
+ball,2,0.3,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,0,0,,,,,,"",""
+ball,2,0.4,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,0,0,,,,,,"",""
+ball,2,0.5,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,0,0,,,,,,"",""
+ball,2,0.6,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,6,0,,,,,,"",""
+ball,2,1.1,Gloucestershire,CT Bancroft,Miles Hammond,G Stewart,0,1,,,,1,,"",""
+ball,2,1.2,Gloucestershire,Miles Hammond,CT Bancroft,G Stewart,0,0,,,,,,"",""
+ball,2,1.3,Gloucestershire,Miles Hammond,CT Bancroft,G Stewart,4,0,,,,,,"",""
+ball,2,1.4,Gloucestershire,Miles Hammond,CT Bancroft,G Stewart,0,0,,,,,,"",""
+ball,2,1.5,Gloucestershire,Miles Hammond,CT Bancroft,G Stewart,0,0,,,,,,"",""
+ball,2,1.6,Gloucestershire,Miles Hammond,CT Bancroft,G Stewart,1,0,,,,,,"",""
+ball,2,2.1,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,0,0,,,,,,"",""
+ball,2,2.2,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,4,0,,,,,,"",""
+ball,2,2.3,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,1,0,,,,,,"",""
+ball,2,2.4,Gloucestershire,CT Bancroft,Miles Hammond,TS Rogers,1,0,,,,,,"",""
+ball,2,2.5,Gloucestershire,Miles Hammond,CT Bancroft,TS Rogers,1,0,,,,,,"",""
+ball,2,2.6,Gloucestershire,CT Bancroft,Miles Hammond,TS Rogers,4,0,,,,,,"",""
+ball,2,3.1,Gloucestershire,Miles Hammond,CT Bancroft,G Stewart,1,0,,,,,,"",""
+ball,2,3.2,Gloucestershire,CT Bancroft,Miles Hammond,G Stewart,1,0,,,,,,"",""
+ball,2,3.3,Gloucestershire,Miles Hammond,CT Bancroft,G Stewart,1,0,,,,,,"",""
+ball,2,3.4,Gloucestershire,CT Bancroft,Miles Hammond,G Stewart,0,0,,,,,,"",""
+ball,2,3.5,Gloucestershire,CT Bancroft,Miles Hammond,G Stewart,1,0,,,,,,"",""
+ball,2,3.6,Gloucestershire,Miles Hammond,CT Bancroft,G Stewart,1,0,,,,,,"",""
+ball,2,4.1,Gloucestershire,Miles Hammond,CT Bancroft,NN Gilchrist,0,0,,,,,,"",""
+ball,2,4.2,Gloucestershire,Miles Hammond,CT Bancroft,NN Gilchrist,1,0,,,,,,"",""
+ball,2,4.3,Gloucestershire,CT Bancroft,Miles Hammond,NN Gilchrist,0,0,,,,,,caught,CT Bancroft
+ball,2,4.4,Gloucestershire,James Bracey,Miles Hammond,NN Gilchrist,0,0,,,,,,"",""
+ball,2,4.5,Gloucestershire,James Bracey,Miles Hammond,NN Gilchrist,0,0,,,,,,"",""
+ball,2,4.6,Gloucestershire,James Bracey,Miles Hammond,NN Gilchrist,0,0,,,,,,caught,James Bracey

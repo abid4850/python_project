@@ -1,0 +1,303 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Auckland
+info,gender,female
+info,season,2023/24
+info,date,2024/01/01
+info,event,Women's Super Smash
+info,match_number,10
+info,venue,"Molyneux Park, Alexandra"
+info,city,Alexandra
+info,toss_winner,Otago
+info,toss_decision,bat
+info,player_of_match,ME Loe
+info,umpire,DJ Walker
+info,umpire,PJ Pasco
+info,reserve_umpire,N Louw
+info,tv_umpire,KS Jagannathan
+info,match_referee,TL Anderson
+info,winner,Otago
+info,winner_runs,47
+info,player,Otago,SW Bates
+info,player,Otago,IR James
+info,player,Otago,ON Gain
+info,player,Otago,FC Leydon-Davis
+info,player,Otago,PM Inglis
+info,player,Otago,CG Blakely
+info,player,Otago,LCN Smith
+info,player,Otago,PJ Watkins
+info,player,Otago,EJ Carson
+info,player,Otago,EJ Black
+info,player,Otago,ME Loe
+info,player,Auckland,S Shahri
+info,player,Auckland,AS Browning
+info,player,Auckland,ML Green
+info,player,Auckland,IC Gaze
+info,player,Auckland,P Catton
+info,player,Auckland,JO Penfold
+info,player,Auckland,SE Bowden
+info,player,Auckland,AT Hucker
+info,player,Auckland,MM Penfold
+info,player,Auckland,FC Jonas
+info,player,Auckland,BG Illing
+info,registry,people,AS Browning,c4c97b51
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,BG Illing,80a0cd77
+info,registry,people,CG Blakely,8f999ed5
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,EJ Black,2817e17a
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,FC Leydon-Davis,b91efad5
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,IR James,57bdbc16
+info,registry,people,JO Penfold,321ea9e8
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,LCN Smith,340202b0
+info,registry,people,ME Loe,37f93dc8
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,N Louw,465c4770
+info,registry,people,ON Gain,67913804
+info,registry,people,P Catton,22e8ba50
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,PJ Watkins,a2d53c59
+info,registry,people,PM Inglis,e4a71d18
+info,registry,people,S Shahri,c28355cd
+info,registry,people,SE Bowden,e2a71375
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TL Anderson,f52ddf8d
+ball,1,0.1,Otago,SW Bates,IR James,BG Illing,0,0,,,,,,"",""
+ball,1,0.2,Otago,SW Bates,IR James,BG Illing,0,0,,,,,,"",""
+ball,1,0.3,Otago,SW Bates,IR James,BG Illing,0,0,,,,,,"",""
+ball,1,0.4,Otago,SW Bates,IR James,BG Illing,4,0,,,,,,"",""
+ball,1,0.5,Otago,SW Bates,IR James,BG Illing,0,1,1,,,,,"",""
+ball,1,0.6,Otago,SW Bates,IR James,BG Illing,0,0,,,,,,"",""
+ball,1,0.7,Otago,SW Bates,IR James,BG Illing,2,0,,,,,,"",""
+ball,1,1.1,Otago,IR James,SW Bates,FC Jonas,0,0,,,,,,"",""
+ball,1,1.2,Otago,IR James,SW Bates,FC Jonas,0,0,,,,,,"",""
+ball,1,1.3,Otago,IR James,SW Bates,FC Jonas,0,0,,,,,,bowled,IR James
+ball,1,1.4,Otago,ON Gain,SW Bates,FC Jonas,0,0,,,,,,"",""
+ball,1,1.5,Otago,ON Gain,SW Bates,FC Jonas,1,0,,,,,,"",""
+ball,1,1.6,Otago,SW Bates,ON Gain,FC Jonas,1,0,,,,,,"",""
+ball,1,2.1,Otago,SW Bates,ON Gain,BG Illing,0,0,,,,,,"",""
+ball,1,2.2,Otago,SW Bates,ON Gain,BG Illing,0,0,,,,,,"",""
+ball,1,2.3,Otago,SW Bates,ON Gain,BG Illing,0,0,,,,,,"",""
+ball,1,2.4,Otago,SW Bates,ON Gain,BG Illing,0,0,,,,,,"",""
+ball,1,2.5,Otago,SW Bates,ON Gain,BG Illing,4,0,,,,,,"",""
+ball,1,2.6,Otago,SW Bates,ON Gain,BG Illing,0,0,,,,,,"",""
+ball,1,3.1,Otago,ON Gain,SW Bates,AS Browning,0,0,,,,,,"",""
+ball,1,3.2,Otago,ON Gain,SW Bates,AS Browning,0,0,,,,,,"",""
+ball,1,3.3,Otago,ON Gain,SW Bates,AS Browning,0,0,,,,,,"",""
+ball,1,3.4,Otago,ON Gain,SW Bates,AS Browning,0,1,1,,,,,stumped,ON Gain
+ball,1,3.5,Otago,FC Leydon-Davis,SW Bates,AS Browning,0,0,,,,,,"",""
+ball,1,3.6,Otago,FC Leydon-Davis,SW Bates,AS Browning,1,0,,,,,,"",""
+ball,1,3.7,Otago,SW Bates,FC Leydon-Davis,AS Browning,0,0,,,,,,"",""
+ball,1,4.1,Otago,FC Leydon-Davis,SW Bates,MM Penfold,2,0,,,,,,"",""
+ball,1,4.2,Otago,FC Leydon-Davis,SW Bates,MM Penfold,0,0,,,,,,"",""
+ball,1,4.3,Otago,FC Leydon-Davis,SW Bates,MM Penfold,0,0,,,,,,"",""
+ball,1,4.4,Otago,FC Leydon-Davis,SW Bates,MM Penfold,3,0,,,,,,"",""
+ball,1,4.5,Otago,SW Bates,FC Leydon-Davis,MM Penfold,1,0,,,,,,"",""
+ball,1,4.6,Otago,FC Leydon-Davis,SW Bates,MM Penfold,2,0,,,,,,"",""
+ball,1,5.1,Otago,SW Bates,FC Leydon-Davis,JO Penfold,2,0,,,,,,"",""
+ball,1,5.2,Otago,SW Bates,FC Leydon-Davis,JO Penfold,4,0,,,,,,"",""
+ball,1,5.3,Otago,SW Bates,FC Leydon-Davis,JO Penfold,0,0,,,,,,"",""
+ball,1,5.4,Otago,SW Bates,FC Leydon-Davis,JO Penfold,0,0,,,,,,"",""
+ball,1,5.5,Otago,SW Bates,FC Leydon-Davis,JO Penfold,1,0,,,,,,"",""
+ball,1,5.6,Otago,FC Leydon-Davis,SW Bates,JO Penfold,4,0,,,,,,"",""
+ball,1,6.1,Otago,SW Bates,FC Leydon-Davis,AS Browning,0,0,,,,,,"",""
+ball,1,6.2,Otago,SW Bates,FC Leydon-Davis,AS Browning,2,0,,,,,,"",""
+ball,1,6.3,Otago,SW Bates,FC Leydon-Davis,AS Browning,1,0,,,,,,"",""
+ball,1,6.4,Otago,FC Leydon-Davis,SW Bates,AS Browning,1,0,,,,,,"",""
+ball,1,6.5,Otago,SW Bates,FC Leydon-Davis,AS Browning,1,0,,,,,,"",""
+ball,1,6.6,Otago,FC Leydon-Davis,SW Bates,AS Browning,1,0,,,,,,"",""
+ball,1,7.1,Otago,FC Leydon-Davis,SW Bates,AT Hucker,0,0,,,,,,"",""
+ball,1,7.2,Otago,FC Leydon-Davis,SW Bates,AT Hucker,0,0,,,,,,"",""
+ball,1,7.3,Otago,FC Leydon-Davis,SW Bates,AT Hucker,0,0,,,,,,"",""
+ball,1,7.4,Otago,FC Leydon-Davis,SW Bates,AT Hucker,4,0,,,,,,"",""
+ball,1,7.5,Otago,FC Leydon-Davis,SW Bates,AT Hucker,0,0,,,,,,"",""
+ball,1,7.6,Otago,FC Leydon-Davis,SW Bates,AT Hucker,4,0,,,,,,"",""
+ball,1,8.1,Otago,SW Bates,FC Leydon-Davis,MM Penfold,0,0,,,,,,run out,FC Leydon-Davis
+ball,1,8.2,Otago,SW Bates,PM Inglis,MM Penfold,4,0,,,,,,"",""
+ball,1,8.3,Otago,SW Bates,PM Inglis,MM Penfold,4,0,,,,,,"",""
+ball,1,8.4,Otago,SW Bates,PM Inglis,MM Penfold,1,0,,,,,,"",""
+ball,1,8.5,Otago,PM Inglis,SW Bates,MM Penfold,2,0,,,,,,"",""
+ball,1,8.6,Otago,PM Inglis,SW Bates,MM Penfold,2,0,,,,,,"",""
+ball,1,9.1,Otago,SW Bates,PM Inglis,FC Jonas,1,0,,,,,,"",""
+ball,1,9.2,Otago,PM Inglis,SW Bates,FC Jonas,1,0,,,,,,"",""
+ball,1,9.3,Otago,SW Bates,PM Inglis,FC Jonas,2,0,,,,,,"",""
+ball,1,9.4,Otago,SW Bates,PM Inglis,FC Jonas,1,0,,,,,,"",""
+ball,1,9.5,Otago,PM Inglis,SW Bates,FC Jonas,1,0,,,,,,"",""
+ball,1,9.6,Otago,SW Bates,PM Inglis,FC Jonas,1,0,,,,,,"",""
+ball,1,10.1,Otago,SW Bates,PM Inglis,JO Penfold,1,0,,,,,,"",""
+ball,1,10.2,Otago,PM Inglis,SW Bates,JO Penfold,0,0,,,,,,"",""
+ball,1,10.3,Otago,PM Inglis,SW Bates,JO Penfold,4,0,,,,,,"",""
+ball,1,10.4,Otago,PM Inglis,SW Bates,JO Penfold,4,0,,,,,,"",""
+ball,1,10.5,Otago,PM Inglis,SW Bates,JO Penfold,0,0,,,,,,"",""
+ball,1,10.6,Otago,PM Inglis,SW Bates,JO Penfold,0,0,,,,,,"",""
+ball,1,11.1,Otago,SW Bates,PM Inglis,FC Jonas,1,0,,,,,,"",""
+ball,1,11.2,Otago,PM Inglis,SW Bates,FC Jonas,0,0,,,,,,"",""
+ball,1,11.3,Otago,PM Inglis,SW Bates,FC Jonas,0,0,,,,,,"",""
+ball,1,11.4,Otago,PM Inglis,SW Bates,FC Jonas,1,0,,,,,,"",""
+ball,1,11.5,Otago,SW Bates,PM Inglis,FC Jonas,1,0,,,,,,"",""
+ball,1,11.6,Otago,PM Inglis,SW Bates,FC Jonas,0,0,,,,,,"",""
+ball,1,12.1,Otago,SW Bates,PM Inglis,AS Browning,4,0,,,,,,"",""
+ball,1,12.2,Otago,SW Bates,PM Inglis,AS Browning,2,0,,,,,,"",""
+ball,1,12.3,Otago,SW Bates,PM Inglis,AS Browning,1,0,,,,,,"",""
+ball,1,12.4,Otago,PM Inglis,SW Bates,AS Browning,4,0,,,,,,"",""
+ball,1,12.5,Otago,PM Inglis,SW Bates,AS Browning,0,0,,,,,,"",""
+ball,1,12.6,Otago,PM Inglis,SW Bates,AS Browning,1,0,,,,,,"",""
+ball,1,13.1,Otago,PM Inglis,SW Bates,SE Bowden,0,1,,1,,,,"",""
+ball,1,13.2,Otago,PM Inglis,SW Bates,SE Bowden,4,0,,,,,,"",""
+ball,1,13.3,Otago,PM Inglis,SW Bates,SE Bowden,0,0,,,,,,"",""
+ball,1,13.4,Otago,PM Inglis,SW Bates,SE Bowden,0,0,,,,,,caught,PM Inglis
+ball,1,13.5,Otago,CG Blakely,SW Bates,SE Bowden,0,0,,,,,,"",""
+ball,1,13.6,Otago,CG Blakely,SW Bates,SE Bowden,1,0,,,,,,"",""
+ball,1,13.7,Otago,SW Bates,CG Blakely,SE Bowden,0,1,1,,,,,"",""
+ball,1,13.8,Otago,SW Bates,CG Blakely,SE Bowden,1,0,,,,,,"",""
+ball,1,14.1,Otago,SW Bates,CG Blakely,BG Illing,2,0,,,,,,"",""
+ball,1,14.2,Otago,SW Bates,CG Blakely,BG Illing,1,0,,,,,,"",""
+ball,1,14.3,Otago,CG Blakely,SW Bates,BG Illing,0,0,,,,,,"",""
+ball,1,14.4,Otago,CG Blakely,SW Bates,BG Illing,0,0,,,,,,"",""
+ball,1,14.5,Otago,CG Blakely,SW Bates,BG Illing,1,0,,,,,,"",""
+ball,1,14.6,Otago,SW Bates,CG Blakely,BG Illing,1,0,,,,,,"",""
+ball,1,15.1,Otago,SW Bates,CG Blakely,SE Bowden,1,0,,,,,,"",""
+ball,1,15.2,Otago,CG Blakely,SW Bates,SE Bowden,1,0,,,,,,"",""
+ball,1,15.3,Otago,SW Bates,CG Blakely,SE Bowden,0,0,,,,,,"",""
+ball,1,15.4,Otago,SW Bates,CG Blakely,SE Bowden,4,0,,,,,,"",""
+ball,1,15.5,Otago,SW Bates,CG Blakely,SE Bowden,2,0,,,,,,"",""
+ball,1,15.6,Otago,SW Bates,CG Blakely,SE Bowden,1,0,,,,,,"",""
+ball,1,16.1,Otago,SW Bates,CG Blakely,AT Hucker,1,0,,,,,,"",""
+ball,1,16.2,Otago,CG Blakely,SW Bates,AT Hucker,2,0,,,,,,"",""
+ball,1,16.3,Otago,CG Blakely,SW Bates,AT Hucker,0,1,,,,1,,"",""
+ball,1,16.4,Otago,SW Bates,CG Blakely,AT Hucker,0,0,,,,,,"",""
+ball,1,16.5,Otago,SW Bates,CG Blakely,AT Hucker,0,0,,,,,,"",""
+ball,1,16.6,Otago,SW Bates,CG Blakely,AT Hucker,4,0,,,,,,"",""
+ball,1,17.1,Otago,CG Blakely,SW Bates,FC Jonas,4,0,,,,,,"",""
+ball,1,17.2,Otago,CG Blakely,SW Bates,FC Jonas,1,0,,,,,,"",""
+ball,1,17.3,Otago,SW Bates,CG Blakely,FC Jonas,1,0,,,,,,"",""
+ball,1,17.4,Otago,CG Blakely,SW Bates,FC Jonas,1,0,,,,,,"",""
+ball,1,17.5,Otago,SW Bates,CG Blakely,FC Jonas,2,0,,,,,,"",""
+ball,1,17.6,Otago,SW Bates,CG Blakely,FC Jonas,1,0,,,,,,"",""
+ball,1,18.1,Otago,SW Bates,CG Blakely,BG Illing,0,0,,,,,,"",""
+ball,1,18.2,Otago,SW Bates,CG Blakely,BG Illing,2,0,,,,,,"",""
+ball,1,18.3,Otago,SW Bates,CG Blakely,BG Illing,6,0,,,,,,"",""
+ball,1,18.4,Otago,SW Bates,CG Blakely,BG Illing,1,0,,,,,,"",""
+ball,1,18.5,Otago,CG Blakely,SW Bates,BG Illing,1,0,,,,,,"",""
+ball,1,18.6,Otago,SW Bates,CG Blakely,BG Illing,0,0,,,,,,"",""
+ball,1,19.1,Otago,CG Blakely,SW Bates,SE Bowden,1,0,,,,,,"",""
+ball,1,19.2,Otago,SW Bates,CG Blakely,SE Bowden,1,0,,,,,,"",""
+ball,1,19.3,Otago,CG Blakely,SW Bates,SE Bowden,1,0,,,,,,"",""
+ball,1,19.4,Otago,SW Bates,CG Blakely,SE Bowden,1,0,,,,,,"",""
+ball,1,19.5,Otago,CG Blakely,SW Bates,SE Bowden,1,0,,,,,,"",""
+ball,1,19.6,Otago,SW Bates,CG Blakely,SE Bowden,4,0,,,,,,"",""
+ball,2,0.1,Auckland,S Shahri,AS Browning,EJ Black,0,0,,,,,,"",""
+ball,2,0.2,Auckland,S Shahri,AS Browning,EJ Black,1,0,,,,,,"",""
+ball,2,0.3,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,0.4,Auckland,AS Browning,S Shahri,EJ Black,4,0,,,,,,"",""
+ball,2,0.5,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,caught,AS Browning
+ball,2,0.6,Auckland,ML Green,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,1.1,Auckland,S Shahri,ML Green,LCN Smith,0,0,,,,,,"",""
+ball,2,1.2,Auckland,S Shahri,ML Green,LCN Smith,0,0,,,,,,"",""
+ball,2,1.3,Auckland,S Shahri,ML Green,LCN Smith,4,0,,,,,,"",""
+ball,2,1.4,Auckland,S Shahri,ML Green,LCN Smith,0,0,,,,,,"",""
+ball,2,1.5,Auckland,S Shahri,ML Green,LCN Smith,0,0,,,,,,"",""
+ball,2,1.6,Auckland,S Shahri,ML Green,LCN Smith,0,0,,,,,,"",""
+ball,2,2.1,Auckland,ML Green,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,2.2,Auckland,ML Green,S Shahri,EJ Black,1,0,,,,,,"",""
+ball,2,2.3,Auckland,S Shahri,ML Green,EJ Black,1,0,,,,,,"",""
+ball,2,2.4,Auckland,ML Green,S Shahri,EJ Black,0,1,1,,,,,"",""
+ball,2,2.5,Auckland,ML Green,S Shahri,EJ Black,1,0,,,,,,"",""
+ball,2,2.6,Auckland,S Shahri,ML Green,EJ Black,4,0,,,,,,"",""
+ball,2,2.7,Auckland,S Shahri,ML Green,EJ Black,0,1,1,,,,,"",""
+ball,2,2.8,Auckland,S Shahri,ML Green,EJ Black,4,0,,,,,,"",""
+ball,2,3.1,Auckland,ML Green,S Shahri,LCN Smith,4,0,,,,,,"",""
+ball,2,3.2,Auckland,ML Green,S Shahri,LCN Smith,4,0,,,,,,"",""
+ball,2,3.3,Auckland,ML Green,S Shahri,LCN Smith,2,0,,,,,,"",""
+ball,2,3.4,Auckland,ML Green,S Shahri,LCN Smith,4,0,,,,,,"",""
+ball,2,3.5,Auckland,ML Green,S Shahri,LCN Smith,0,0,,,,,,"",""
+ball,2,3.6,Auckland,ML Green,S Shahri,LCN Smith,4,0,,,,,,"",""
+ball,2,4.1,Auckland,S Shahri,ML Green,EJ Carson,0,0,,,,,,"",""
+ball,2,4.2,Auckland,S Shahri,ML Green,EJ Carson,0,1,1,,,,,"",""
+ball,2,4.3,Auckland,S Shahri,ML Green,EJ Carson,0,0,,,,,,"",""
+ball,2,4.4,Auckland,S Shahri,ML Green,EJ Carson,0,0,,,,,,"",""
+ball,2,4.5,Auckland,S Shahri,ML Green,EJ Carson,4,0,,,,,,"",""
+ball,2,4.6,Auckland,S Shahri,ML Green,EJ Carson,0,0,,,,,,"",""
+ball,2,4.7,Auckland,S Shahri,ML Green,EJ Carson,1,0,,,,,,"",""
+ball,2,5.1,Auckland,S Shahri,ML Green,EJ Black,4,0,,,,,,"",""
+ball,2,5.2,Auckland,S Shahri,ML Green,EJ Black,0,0,,,,,,"",""
+ball,2,5.3,Auckland,S Shahri,ML Green,EJ Black,1,0,,,,,,"",""
+ball,2,5.4,Auckland,ML Green,S Shahri,EJ Black,4,0,,,,,,"",""
+ball,2,5.5,Auckland,ML Green,S Shahri,EJ Black,1,0,,,,,,"",""
+ball,2,5.6,Auckland,S Shahri,ML Green,EJ Black,0,0,,,,,,"",""
+ball,2,6.1,Auckland,ML Green,S Shahri,ME Loe,0,0,,,,,,"",""
+ball,2,6.2,Auckland,ML Green,S Shahri,ME Loe,1,0,,,,,,"",""
+ball,2,6.3,Auckland,S Shahri,ML Green,ME Loe,1,0,,,,,,"",""
+ball,2,6.4,Auckland,ML Green,S Shahri,ME Loe,0,0,,,,,,caught,ML Green
+ball,2,6.5,Auckland,IC Gaze,S Shahri,ME Loe,0,0,,,,,,"",""
+ball,2,6.6,Auckland,IC Gaze,S Shahri,ME Loe,1,0,,,,,,"",""
+ball,2,7.1,Auckland,IC Gaze,S Shahri,LCN Smith,1,0,,,,,,"",""
+ball,2,7.2,Auckland,S Shahri,IC Gaze,LCN Smith,0,0,,,,,,"",""
+ball,2,7.3,Auckland,S Shahri,IC Gaze,LCN Smith,0,0,,,,,,"",""
+ball,2,7.4,Auckland,S Shahri,IC Gaze,LCN Smith,1,0,,,,,,"",""
+ball,2,7.5,Auckland,IC Gaze,S Shahri,LCN Smith,0,0,,,,,,stumped,IC Gaze
+ball,2,7.6,Auckland,P Catton,S Shahri,LCN Smith,1,0,,,,,,"",""
+ball,2,8.1,Auckland,P Catton,S Shahri,ME Loe,0,0,,,,,,"",""
+ball,2,8.2,Auckland,P Catton,S Shahri,ME Loe,0,0,,,,,,"",""
+ball,2,8.3,Auckland,P Catton,S Shahri,ME Loe,0,0,,,,,,"",""
+ball,2,8.4,Auckland,P Catton,S Shahri,ME Loe,1,0,,,,,,"",""
+ball,2,8.5,Auckland,S Shahri,P Catton,ME Loe,1,0,,,,,,"",""
+ball,2,8.6,Auckland,P Catton,S Shahri,ME Loe,0,0,,,,,,"",""
+ball,2,9.1,Auckland,S Shahri,P Catton,PJ Watkins,4,0,,,,,,"",""
+ball,2,9.2,Auckland,S Shahri,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,2,9.3,Auckland,S Shahri,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,2,9.4,Auckland,S Shahri,P Catton,PJ Watkins,2,0,,,,,,"",""
+ball,2,9.5,Auckland,S Shahri,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,2,9.6,Auckland,S Shahri,P Catton,PJ Watkins,4,0,,,,,,"",""
+ball,2,10.1,Auckland,P Catton,S Shahri,ME Loe,1,0,,,,,,"",""
+ball,2,10.2,Auckland,S Shahri,P Catton,ME Loe,0,0,,,,,,caught,S Shahri
+ball,2,10.3,Auckland,JO Penfold,P Catton,ME Loe,0,0,,,,,,bowled,JO Penfold
+ball,2,10.4,Auckland,SE Bowden,P Catton,ME Loe,1,0,,,,,,"",""
+ball,2,10.5,Auckland,P Catton,SE Bowden,ME Loe,0,0,,,,,,"",""
+ball,2,10.6,Auckland,P Catton,SE Bowden,ME Loe,0,0,,,,,,"",""
+ball,2,11.1,Auckland,SE Bowden,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,2,11.2,Auckland,SE Bowden,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,2,11.3,Auckland,SE Bowden,P Catton,PJ Watkins,0,0,,,,,,caught,SE Bowden
+ball,2,11.4,Auckland,AT Hucker,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,2,11.5,Auckland,AT Hucker,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,2,11.6,Auckland,AT Hucker,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,2,12.1,Auckland,P Catton,AT Hucker,ME Loe,0,0,,,,,,"",""
+ball,2,12.2,Auckland,P Catton,AT Hucker,ME Loe,4,0,,,,,,"",""
+ball,2,12.3,Auckland,P Catton,AT Hucker,ME Loe,0,0,,,,,,caught,P Catton
+ball,2,12.4,Auckland,MM Penfold,AT Hucker,ME Loe,1,0,,,,,,"",""
+ball,2,12.5,Auckland,AT Hucker,MM Penfold,ME Loe,0,0,,,,,,"",""
+ball,2,12.6,Auckland,AT Hucker,MM Penfold,ME Loe,0,0,,,,,,"",""
+ball,2,13.1,Auckland,MM Penfold,AT Hucker,LCN Smith,0,0,,,,,,"",""
+ball,2,13.2,Auckland,MM Penfold,AT Hucker,LCN Smith,4,0,,,,,,"",""
+ball,2,13.3,Auckland,MM Penfold,AT Hucker,LCN Smith,0,0,,,,,,"",""
+ball,2,13.4,Auckland,MM Penfold,AT Hucker,LCN Smith,0,0,,,,,,"",""
+ball,2,13.5,Auckland,MM Penfold,AT Hucker,LCN Smith,2,0,,,,,,"",""
+ball,2,13.6,Auckland,MM Penfold,AT Hucker,LCN Smith,1,0,,,,,,"",""
+ball,2,14.1,Auckland,MM Penfold,AT Hucker,EJ Carson,1,0,,,,,,"",""
+ball,2,14.2,Auckland,AT Hucker,MM Penfold,EJ Carson,1,0,,,,,,run out,AT Hucker
+ball,2,14.3,Auckland,FC Jonas,MM Penfold,EJ Carson,0,0,,,,,,"",""
+ball,2,14.4,Auckland,FC Jonas,MM Penfold,EJ Carson,0,0,,,,,,"",""
+ball,2,14.5,Auckland,FC Jonas,MM Penfold,EJ Carson,2,0,,,,,,"",""
+ball,2,14.6,Auckland,FC Jonas,MM Penfold,EJ Carson,1,0,,,,,,"",""
+ball,2,15.1,Auckland,FC Jonas,MM Penfold,PJ Watkins,0,0,,,,,,"",""
+ball,2,15.2,Auckland,FC Jonas,MM Penfold,PJ Watkins,0,0,,,,,,"",""
+ball,2,15.3,Auckland,FC Jonas,MM Penfold,PJ Watkins,1,0,,,,,,"",""
+ball,2,15.4,Auckland,MM Penfold,FC Jonas,PJ Watkins,0,0,,,,,,"",""
+ball,2,15.5,Auckland,MM Penfold,FC Jonas,PJ Watkins,4,0,,,,,,"",""
+ball,2,15.6,Auckland,MM Penfold,FC Jonas,PJ Watkins,0,0,,,,,,"",""
+ball,2,16.1,Auckland,FC Jonas,MM Penfold,EJ Carson,0,0,,,,,,"",""
+ball,2,16.2,Auckland,FC Jonas,MM Penfold,EJ Carson,0,0,,,,,,caught,FC Jonas
+ball,2,16.3,Auckland,BG Illing,MM Penfold,EJ Carson,1,0,,,,,,"",""
+ball,2,16.4,Auckland,MM Penfold,BG Illing,EJ Carson,1,0,,,,,,"",""
+ball,2,16.5,Auckland,BG Illing,MM Penfold,EJ Carson,1,0,,,,,,"",""
+ball,2,16.6,Auckland,MM Penfold,BG Illing,EJ Carson,0,0,,,,,,"",""
+ball,2,17.1,Auckland,BG Illing,MM Penfold,PJ Watkins,1,0,,,,,,"",""
+ball,2,17.2,Auckland,MM Penfold,BG Illing,PJ Watkins,1,0,,,,,,"",""
+ball,2,17.3,Auckland,BG Illing,MM Penfold,PJ Watkins,1,0,,,,,,"",""
+ball,2,17.4,Auckland,MM Penfold,BG Illing,PJ Watkins,0,0,,,,,,caught,MM Penfold

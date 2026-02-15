@@ -1,0 +1,290 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Western Province
+info,team,North West
+info,gender,male
+info,season,2024/25
+info,date,2024/10/23
+info,event,CSA T20 Challenge
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,North West
+info,toss_decision,field
+info,umpire,A Paleker
+info,umpire,A Jacobs
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,Siphelele Gasa
+info,match_referee,GH Pienaar
+info,winner,Western Province
+info,winner_runs,41
+info,player,Western Province,JA Bird
+info,player,Western Province,D Smith
+info,player,Western Province,SV Kitime
+info,player,Western Province,EM Moore
+info,player,Western Province,M Mpongwana
+info,player,Western Province,GF Linde
+info,player,Western Province,Abdullah Bayoumy
+info,player,Western Province,KI Simmonds
+info,player,Western Province,BE Hendricks
+info,player,Western Province,M Nabe
+info,player,Western Province,W Bedja
+info,player,North West,JN Malan
+info,player,North West,T Isaacs
+info,player,North West,M Prince
+info,player,North West,WJ Lubbe
+info,player,North West,LC Ngoepe
+info,player,North West,M Jansen
+info,player,North West,M Pretorius
+info,player,North West,B Xenxe
+info,player,North West,C Seleka
+info,player,North West,K Mungroo
+info,player,North West,GG Peters
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,Abdullah Bayoumy,8ab49ad2
+info,registry,people,B Xenxe,94cdf850
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,C Seleka,be8b147b
+info,registry,people,D Smith,5d69930d
+info,registry,people,EM Moore,6ca6d885
+info,registry,people,GF Linde,e5437608
+info,registry,people,GG Peters,360f4e4b
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JA Bird,572f55fb
+info,registry,people,JN Malan,f76d7466
+info,registry,people,K Mungroo,56feceb0
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Mpongwana,547c5509
+info,registry,people,M Nabe,6ed11905
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,M Prince,aa80a6c3
+info,registry,people,SV Kitime,9ca20359
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Isaacs,249a17c8
+info,registry,people,W Bedja,f29dfbc0
+info,registry,people,WJ Lubbe,10f42013
+ball,1,0.1,Western Province,JA Bird,D Smith,M Pretorius,4,0,,,,,,"",""
+ball,1,0.2,Western Province,JA Bird,D Smith,M Pretorius,1,0,,,,,,"",""
+ball,1,0.3,Western Province,D Smith,JA Bird,M Pretorius,0,0,,,,,,"",""
+ball,1,0.4,Western Province,D Smith,JA Bird,M Pretorius,4,0,,,,,,"",""
+ball,1,0.5,Western Province,D Smith,JA Bird,M Pretorius,0,0,,,,,,"",""
+ball,1,0.6,Western Province,D Smith,JA Bird,M Pretorius,0,0,,,,,,"",""
+ball,1,1.1,Western Province,JA Bird,D Smith,M Jansen,0,1,,,,1,,"",""
+ball,1,1.2,Western Province,D Smith,JA Bird,M Jansen,1,0,,,,,,"",""
+ball,1,1.3,Western Province,JA Bird,D Smith,M Jansen,0,0,,,,,,"",""
+ball,1,1.4,Western Province,JA Bird,D Smith,M Jansen,4,0,,,,,,"",""
+ball,1,1.5,Western Province,JA Bird,D Smith,M Jansen,1,0,,,,,,"",""
+ball,1,1.6,Western Province,D Smith,JA Bird,M Jansen,1,0,,,,,,"",""
+ball,1,2.1,Western Province,D Smith,JA Bird,K Mungroo,0,0,,,,,,"",""
+ball,1,2.2,Western Province,D Smith,JA Bird,K Mungroo,0,0,,,,,,"",""
+ball,1,2.3,Western Province,D Smith,JA Bird,K Mungroo,1,0,,,,,,"",""
+ball,1,2.4,Western Province,JA Bird,D Smith,K Mungroo,0,0,,,,,,"",""
+ball,1,2.5,Western Province,JA Bird,D Smith,K Mungroo,2,0,,,,,,"",""
+ball,1,2.6,Western Province,JA Bird,D Smith,K Mungroo,0,0,,,,,,"",""
+ball,1,3.1,Western Province,D Smith,JA Bird,M Jansen,4,0,,,,,,"",""
+ball,1,3.2,Western Province,D Smith,JA Bird,M Jansen,0,0,,,,,,"",""
+ball,1,3.3,Western Province,D Smith,JA Bird,M Jansen,1,0,,,,,,"",""
+ball,1,3.4,Western Province,JA Bird,D Smith,M Jansen,1,0,,,,,,"",""
+ball,1,3.5,Western Province,D Smith,JA Bird,M Jansen,0,0,,,,,,"",""
+ball,1,3.6,Western Province,D Smith,JA Bird,M Jansen,1,0,,,,,,"",""
+ball,1,4.1,Western Province,D Smith,JA Bird,K Mungroo,0,4,,,,4,,"",""
+ball,1,4.2,Western Province,D Smith,JA Bird,K Mungroo,0,0,,,,,,"",""
+ball,1,4.3,Western Province,D Smith,JA Bird,K Mungroo,1,0,,,,,,"",""
+ball,1,4.4,Western Province,JA Bird,D Smith,K Mungroo,1,0,,,,,,"",""
+ball,1,4.5,Western Province,D Smith,JA Bird,K Mungroo,4,0,,,,,,"",""
+ball,1,4.6,Western Province,D Smith,JA Bird,K Mungroo,0,0,,,,,,lbw,D Smith
+ball,1,5.1,Western Province,JA Bird,SV Kitime,GG Peters,0,0,,,,,,"",""
+ball,1,5.2,Western Province,JA Bird,SV Kitime,GG Peters,1,0,,,,,,"",""
+ball,1,5.3,Western Province,SV Kitime,JA Bird,GG Peters,0,0,,,,,,"",""
+ball,1,5.4,Western Province,SV Kitime,JA Bird,GG Peters,4,0,,,,,,"",""
+ball,1,5.5,Western Province,SV Kitime,JA Bird,GG Peters,3,0,,,,,,"",""
+ball,1,5.6,Western Province,JA Bird,SV Kitime,GG Peters,0,1,1,,,,,"",""
+ball,1,5.7,Western Province,JA Bird,SV Kitime,GG Peters,0,0,,,,,,caught,JA Bird
+ball,1,6.1,Western Province,SV Kitime,EM Moore,WJ Lubbe,1,0,,,,,,"",""
+ball,1,6.2,Western Province,EM Moore,SV Kitime,WJ Lubbe,0,1,,,,1,,"",""
+ball,1,6.3,Western Province,SV Kitime,EM Moore,WJ Lubbe,1,0,,,,,,"",""
+ball,1,6.4,Western Province,EM Moore,SV Kitime,WJ Lubbe,2,0,,,,,,"",""
+ball,1,6.5,Western Province,EM Moore,SV Kitime,WJ Lubbe,1,0,,,,,,"",""
+ball,1,6.6,Western Province,SV Kitime,EM Moore,WJ Lubbe,0,0,,,,,,"",""
+ball,1,7.1,Western Province,EM Moore,SV Kitime,GG Peters,0,1,1,,,,,"",""
+ball,1,7.2,Western Province,EM Moore,SV Kitime,GG Peters,1,1,,1,,,,"",""
+ball,1,7.3,Western Province,SV Kitime,EM Moore,GG Peters,4,0,,,,,,"",""
+ball,1,7.4,Western Province,SV Kitime,EM Moore,GG Peters,0,0,,,,,,"",""
+ball,1,7.5,Western Province,SV Kitime,EM Moore,GG Peters,0,0,,,,,,"",""
+ball,1,7.6,Western Province,SV Kitime,EM Moore,GG Peters,0,0,,,,,,"",""
+ball,1,7.7,Western Province,SV Kitime,EM Moore,GG Peters,0,0,,,,,,caught,SV Kitime
+ball,1,7.8,Western Province,M Mpongwana,EM Moore,GG Peters,0,0,,,,,,"",""
+ball,1,8.1,Western Province,EM Moore,M Mpongwana,M Pretorius,0,0,,,,,,"",""
+ball,1,8.2,Western Province,EM Moore,M Mpongwana,M Pretorius,1,0,,,,,,"",""
+ball,1,8.3,Western Province,M Mpongwana,EM Moore,M Pretorius,1,0,,,,,,"",""
+ball,1,8.4,Western Province,EM Moore,M Mpongwana,M Pretorius,0,0,,,,,,"",""
+ball,1,8.5,Western Province,EM Moore,M Mpongwana,M Pretorius,0,0,,,,,,"",""
+ball,1,8.6,Western Province,EM Moore,M Mpongwana,M Pretorius,0,0,,,,,,"",""
+ball,1,9.1,Western Province,M Mpongwana,EM Moore,B Xenxe,0,1,,,,1,,"",""
+ball,1,9.2,Western Province,EM Moore,M Mpongwana,B Xenxe,0,0,,,,,,"",""
+ball,1,9.3,Western Province,EM Moore,M Mpongwana,B Xenxe,0,0,,,,,,"",""
+ball,1,9.4,Western Province,EM Moore,M Mpongwana,B Xenxe,1,0,,,,,,"",""
+ball,1,9.5,Western Province,M Mpongwana,EM Moore,B Xenxe,1,0,,,,,,"",""
+ball,1,9.6,Western Province,EM Moore,M Mpongwana,B Xenxe,0,1,1,,,,,"",""
+ball,1,9.7,Western Province,EM Moore,M Mpongwana,B Xenxe,0,0,,,,,,"",""
+ball,1,10.1,Western Province,M Mpongwana,EM Moore,M Pretorius,6,0,,,,,,"",""
+ball,1,10.2,Western Province,M Mpongwana,EM Moore,M Pretorius,1,0,,,,,,"",""
+ball,1,10.3,Western Province,EM Moore,M Mpongwana,M Pretorius,0,0,,,,,,"",""
+ball,1,10.4,Western Province,EM Moore,M Mpongwana,M Pretorius,1,0,,,,,,"",""
+ball,1,10.5,Western Province,M Mpongwana,EM Moore,M Pretorius,1,0,,,,,,"",""
+ball,1,10.6,Western Province,EM Moore,M Mpongwana,M Pretorius,6,0,,,,,,"",""
+ball,1,11.1,Western Province,M Mpongwana,EM Moore,C Seleka,1,0,,,,,,"",""
+ball,1,11.2,Western Province,EM Moore,M Mpongwana,C Seleka,0,0,,,,,,"",""
+ball,1,11.3,Western Province,EM Moore,M Mpongwana,C Seleka,0,0,,,,,,"",""
+ball,1,11.4,Western Province,EM Moore,M Mpongwana,C Seleka,1,0,,,,,,"",""
+ball,1,11.5,Western Province,M Mpongwana,EM Moore,C Seleka,0,0,,,,,,"",""
+ball,1,11.6,Western Province,M Mpongwana,EM Moore,C Seleka,2,0,,,,,,"",""
+ball,1,12.1,Western Province,EM Moore,M Mpongwana,GG Peters,1,0,,,,,,"",""
+ball,1,12.2,Western Province,M Mpongwana,EM Moore,GG Peters,0,0,,,,,,"",""
+ball,1,12.3,Western Province,M Mpongwana,EM Moore,GG Peters,4,0,,,,,,"",""
+ball,1,12.4,Western Province,M Mpongwana,EM Moore,GG Peters,0,1,,,,1,,"",""
+ball,1,12.5,Western Province,EM Moore,M Mpongwana,GG Peters,0,0,,,,,,"",""
+ball,1,12.6,Western Province,EM Moore,M Mpongwana,GG Peters,0,0,,,,,,"",""
+ball,1,13.1,Western Province,M Mpongwana,EM Moore,C Seleka,2,0,,,,,,"",""
+ball,1,13.2,Western Province,M Mpongwana,EM Moore,C Seleka,0,0,,,,,,"",""
+ball,1,13.3,Western Province,M Mpongwana,EM Moore,C Seleka,4,0,,,,,,"",""
+ball,1,13.4,Western Province,M Mpongwana,EM Moore,C Seleka,1,0,,,,,,"",""
+ball,1,13.5,Western Province,EM Moore,M Mpongwana,C Seleka,0,0,,,,,,caught,EM Moore
+ball,1,13.6,Western Province,GF Linde,M Mpongwana,C Seleka,1,0,,,,,,"",""
+ball,1,14.1,Western Province,GF Linde,M Mpongwana,GG Peters,2,0,,,,,,"",""
+ball,1,14.2,Western Province,GF Linde,M Mpongwana,GG Peters,0,1,,,,1,,"",""
+ball,1,14.3,Western Province,M Mpongwana,GF Linde,GG Peters,0,0,,,,,,"",""
+ball,1,14.4,Western Province,M Mpongwana,GF Linde,GG Peters,0,0,,,,,,caught,M Mpongwana
+ball,1,14.5,Western Province,Abdullah Bayoumy,GF Linde,GG Peters,1,0,,,,,,"",""
+ball,1,14.6,Western Province,GF Linde,Abdullah Bayoumy,GG Peters,0,0,,,,,,"",""
+ball,1,15.1,Western Province,Abdullah Bayoumy,GF Linde,C Seleka,1,0,,,,,,"",""
+ball,1,15.2,Western Province,GF Linde,Abdullah Bayoumy,C Seleka,1,0,,,,,,"",""
+ball,1,15.3,Western Province,Abdullah Bayoumy,GF Linde,C Seleka,1,0,,,,,,"",""
+ball,1,15.4,Western Province,GF Linde,Abdullah Bayoumy,C Seleka,1,0,,,,,,"",""
+ball,1,15.5,Western Province,Abdullah Bayoumy,GF Linde,C Seleka,1,0,,,,,,"",""
+ball,1,15.6,Western Province,GF Linde,Abdullah Bayoumy,C Seleka,0,0,,,,,,"",""
+ball,1,16.1,Western Province,Abdullah Bayoumy,GF Linde,M Jansen,0,1,,,1,,,"",""
+ball,1,16.2,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,2,0,,,,,,"",""
+ball,1,16.3,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,0,0,,,,,,"",""
+ball,1,16.4,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,1,0,,,,,,"",""
+ball,1,16.5,Western Province,Abdullah Bayoumy,GF Linde,M Jansen,1,0,,,,,,"",""
+ball,1,16.6,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,0,0,,,,,,"",""
+ball,1,17.1,Western Province,Abdullah Bayoumy,GF Linde,C Seleka,0,0,,,,,,"",""
+ball,1,17.2,Western Province,Abdullah Bayoumy,GF Linde,C Seleka,0,0,,,,,,"",""
+ball,1,17.3,Western Province,Abdullah Bayoumy,GF Linde,C Seleka,1,0,,,,,,"",""
+ball,1,17.4,Western Province,GF Linde,Abdullah Bayoumy,C Seleka,6,0,,,,,,"",""
+ball,1,17.5,Western Province,GF Linde,Abdullah Bayoumy,C Seleka,1,0,,,,,,"",""
+ball,1,17.6,Western Province,Abdullah Bayoumy,GF Linde,C Seleka,0,0,,,,,,"",""
+ball,1,18.1,Western Province,GF Linde,Abdullah Bayoumy,K Mungroo,2,0,,,,,,"",""
+ball,1,18.2,Western Province,GF Linde,Abdullah Bayoumy,K Mungroo,6,0,,,,,,"",""
+ball,1,18.3,Western Province,GF Linde,Abdullah Bayoumy,K Mungroo,6,0,,,,,,"",""
+ball,1,18.4,Western Province,GF Linde,Abdullah Bayoumy,K Mungroo,0,1,1,,,,,"",""
+ball,1,18.5,Western Province,GF Linde,Abdullah Bayoumy,K Mungroo,6,0,,,,,,"",""
+ball,1,18.6,Western Province,GF Linde,Abdullah Bayoumy,K Mungroo,0,1,,,,1,,"",""
+ball,1,18.7,Western Province,Abdullah Bayoumy,GF Linde,K Mungroo,4,0,,,,,,"",""
+ball,1,19.1,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,2,0,,,,,,"",""
+ball,1,19.2,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,0,0,,,,,,"",""
+ball,1,19.3,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,4,0,,,,,,"",""
+ball,1,19.4,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,2,0,,,,,,"",""
+ball,1,19.5,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,6,0,,,,,,"",""
+ball,1,19.6,Western Province,GF Linde,Abdullah Bayoumy,M Jansen,0,2,2,,,,,"",""
+ball,1,19.7,Western Province,Abdullah Bayoumy,GF Linde,M Jansen,4,0,,,,,,"",""
+ball,2,0.1,North West,JN Malan,T Isaacs,BE Hendricks,1,0,,,,,,"",""
+ball,2,0.2,North West,T Isaacs,JN Malan,BE Hendricks,0,0,,,,,,"",""
+ball,2,0.3,North West,T Isaacs,JN Malan,BE Hendricks,0,0,,,,,,"",""
+ball,2,0.4,North West,T Isaacs,JN Malan,BE Hendricks,0,0,,,,,,"",""
+ball,2,0.5,North West,T Isaacs,JN Malan,BE Hendricks,0,0,,,,,,"",""
+ball,2,0.6,North West,T Isaacs,JN Malan,BE Hendricks,2,0,,,,,,"",""
+ball,2,1.1,North West,JN Malan,T Isaacs,KI Simmonds,0,0,,,,,,"",""
+ball,2,1.2,North West,JN Malan,T Isaacs,KI Simmonds,0,2,,,,2,,"",""
+ball,2,1.3,North West,JN Malan,T Isaacs,KI Simmonds,0,0,,,,,,"",""
+ball,2,1.4,North West,JN Malan,T Isaacs,KI Simmonds,0,0,,,,,,"",""
+ball,2,1.5,North West,JN Malan,T Isaacs,KI Simmonds,0,0,,,,,,"",""
+ball,2,1.6,North West,JN Malan,T Isaacs,KI Simmonds,1,0,,,,,,"",""
+ball,2,2.1,North West,JN Malan,T Isaacs,BE Hendricks,0,0,,,,,,"",""
+ball,2,2.2,North West,JN Malan,T Isaacs,BE Hendricks,0,0,,,,,,caught,JN Malan
+ball,2,2.3,North West,M Prince,T Isaacs,BE Hendricks,1,0,,,,,,"",""
+ball,2,2.4,North West,T Isaacs,M Prince,BE Hendricks,0,0,,,,,,"",""
+ball,2,2.5,North West,T Isaacs,M Prince,BE Hendricks,0,0,,,,,,caught,T Isaacs
+ball,2,2.6,North West,WJ Lubbe,M Prince,BE Hendricks,0,1,1,,,,,"",""
+ball,2,2.7,North West,WJ Lubbe,M Prince,BE Hendricks,4,0,,,,,,"",""
+ball,2,3.1,North West,M Prince,WJ Lubbe,W Bedja,4,0,,,,,,"",""
+ball,2,3.2,North West,M Prince,WJ Lubbe,W Bedja,4,0,,,,,,"",""
+ball,2,3.3,North West,M Prince,WJ Lubbe,W Bedja,4,0,,,,,,"",""
+ball,2,3.4,North West,M Prince,WJ Lubbe,W Bedja,1,0,,,,,,"",""
+ball,2,3.5,North West,WJ Lubbe,M Prince,W Bedja,1,0,,,,,,"",""
+ball,2,3.6,North West,M Prince,WJ Lubbe,W Bedja,6,0,,,,,,"",""
+ball,2,4.1,North West,WJ Lubbe,M Prince,M Mpongwana,0,0,,,,,,"",""
+ball,2,4.2,North West,WJ Lubbe,M Prince,M Mpongwana,0,0,,,,,,"",""
+ball,2,4.3,North West,WJ Lubbe,M Prince,M Mpongwana,4,0,,,,,,"",""
+ball,2,4.4,North West,WJ Lubbe,M Prince,M Mpongwana,1,0,,,,,,"",""
+ball,2,4.5,North West,M Prince,WJ Lubbe,M Mpongwana,0,0,,,,,,"",""
+ball,2,4.6,North West,M Prince,WJ Lubbe,M Mpongwana,4,0,,,,,,"",""
+ball,2,5.1,North West,WJ Lubbe,M Prince,M Nabe,0,1,1,,,,,"",""
+ball,2,5.2,North West,WJ Lubbe,M Prince,M Nabe,4,0,,,,,,"",""
+ball,2,5.3,North West,WJ Lubbe,M Prince,M Nabe,6,0,,,,,,"",""
+ball,2,5.4,North West,WJ Lubbe,M Prince,M Nabe,4,0,,,,,,"",""
+ball,2,5.5,North West,WJ Lubbe,M Prince,M Nabe,6,0,,,,,,"",""
+ball,2,5.6,North West,WJ Lubbe,M Prince,M Nabe,0,0,,,,,,"",""
+ball,2,5.7,North West,WJ Lubbe,M Prince,M Nabe,1,0,,,,,,"",""
+ball,2,6.1,North West,WJ Lubbe,M Prince,GF Linde,1,0,,,,,,"",""
+ball,2,6.2,North West,M Prince,WJ Lubbe,GF Linde,0,0,,,,,,"",""
+ball,2,6.3,North West,M Prince,WJ Lubbe,GF Linde,1,0,,,,,,"",""
+ball,2,6.4,North West,WJ Lubbe,M Prince,GF Linde,2,0,,,,,,"",""
+ball,2,6.5,North West,WJ Lubbe,M Prince,GF Linde,2,0,,,,,,"",""
+ball,2,6.6,North West,WJ Lubbe,M Prince,GF Linde,1,0,,,,,,"",""
+ball,2,7.1,North West,WJ Lubbe,M Prince,W Bedja,6,0,,,,,,"",""
+ball,2,7.2,North West,WJ Lubbe,M Prince,W Bedja,1,0,,,,,,"",""
+ball,2,7.3,North West,M Prince,WJ Lubbe,W Bedja,0,0,,,,,,caught,M Prince
+ball,2,7.4,North West,LC Ngoepe,WJ Lubbe,W Bedja,0,0,,,,,,"",""
+ball,2,7.5,North West,LC Ngoepe,WJ Lubbe,W Bedja,1,0,,,,,,"",""
+ball,2,7.6,North West,WJ Lubbe,LC Ngoepe,W Bedja,1,0,,,,,,"",""
+ball,2,8.1,North West,WJ Lubbe,LC Ngoepe,JA Bird,1,0,,,,,,run out,WJ Lubbe
+ball,2,8.2,North West,M Jansen,LC Ngoepe,JA Bird,1,0,,,,,,"",""
+ball,2,8.3,North West,LC Ngoepe,M Jansen,JA Bird,1,0,,,,,,"",""
+ball,2,8.4,North West,M Jansen,LC Ngoepe,JA Bird,1,0,,,,,,"",""
+ball,2,8.5,North West,LC Ngoepe,M Jansen,JA Bird,1,0,,,,,,"",""
+ball,2,8.6,North West,M Jansen,LC Ngoepe,JA Bird,6,0,,,,,,"",""
+ball,2,9.1,North West,LC Ngoepe,M Jansen,W Bedja,0,0,,,,,,"",""
+ball,2,9.2,North West,LC Ngoepe,M Jansen,W Bedja,0,0,,,,,,"",""
+ball,2,9.3,North West,LC Ngoepe,M Jansen,W Bedja,4,0,,,,,,"",""
+ball,2,9.4,North West,LC Ngoepe,M Jansen,W Bedja,6,0,,,,,,"",""
+ball,2,9.5,North West,LC Ngoepe,M Jansen,W Bedja,0,0,,,,,,"",""
+ball,2,9.6,North West,LC Ngoepe,M Jansen,W Bedja,4,0,,,,,,"",""
+ball,2,10.1,North West,M Jansen,LC Ngoepe,KI Simmonds,1,0,,,,,,"",""
+ball,2,10.2,North West,LC Ngoepe,M Jansen,KI Simmonds,0,0,,,,,,caught,LC Ngoepe
+ball,2,10.3,North West,M Pretorius,M Jansen,KI Simmonds,1,0,,,,,,"",""
+ball,2,10.4,North West,M Jansen,M Pretorius,KI Simmonds,0,0,,,,,,bowled,M Jansen
+ball,2,10.5,North West,B Xenxe,M Pretorius,KI Simmonds,0,0,,,,,,"",""
+ball,2,10.6,North West,B Xenxe,M Pretorius,KI Simmonds,0,0,,,,,,bowled,B Xenxe
+ball,2,11.1,North West,M Pretorius,C Seleka,GF Linde,1,0,,,,,,"",""
+ball,2,11.2,North West,C Seleka,M Pretorius,GF Linde,0,0,,,,,,"",""
+ball,2,11.3,North West,C Seleka,M Pretorius,GF Linde,1,0,,,,,,"",""
+ball,2,11.4,North West,M Pretorius,C Seleka,GF Linde,1,0,,,,,,"",""
+ball,2,11.5,North West,C Seleka,M Pretorius,GF Linde,1,0,,,,,,"",""
+ball,2,11.6,North West,M Pretorius,C Seleka,GF Linde,0,0,,,,,,"",""
+ball,2,12.1,North West,C Seleka,M Pretorius,KI Simmonds,0,0,,,,,,"",""
+ball,2,12.2,North West,C Seleka,M Pretorius,KI Simmonds,0,0,,,,,,"",""
+ball,2,12.3,North West,C Seleka,M Pretorius,KI Simmonds,0,1,1,,,,,"",""
+ball,2,12.4,North West,C Seleka,M Pretorius,KI Simmonds,2,0,,,,,,"",""
+ball,2,12.5,North West,C Seleka,M Pretorius,KI Simmonds,1,0,,,,,,"",""
+ball,2,12.6,North West,M Pretorius,C Seleka,KI Simmonds,0,0,,,,,,"",""
+ball,2,12.7,North West,M Pretorius,C Seleka,KI Simmonds,0,0,,,,,,"",""
+ball,2,13.1,North West,C Seleka,M Pretorius,GF Linde,0,0,,,,,,"",""
+ball,2,13.2,North West,C Seleka,M Pretorius,GF Linde,0,0,,,,,,"",""
+ball,2,13.3,North West,C Seleka,M Pretorius,GF Linde,0,0,,,,,,caught,C Seleka
+ball,2,13.4,North West,K Mungroo,M Pretorius,GF Linde,0,0,,,,,,"",""
+ball,2,13.5,North West,K Mungroo,M Pretorius,GF Linde,0,0,,,,,,caught,K Mungroo
+ball,2,13.6,North West,GG Peters,M Pretorius,GF Linde,0,0,,,,,,"",""
+ball,2,14.1,North West,M Pretorius,GG Peters,KI Simmonds,0,0,,,,,,"",""
+ball,2,14.2,North West,M Pretorius,GG Peters,KI Simmonds,0,0,,,,,,"",""
+ball,2,14.3,North West,M Pretorius,GG Peters,KI Simmonds,0,0,,,,,,"",""
+ball,2,14.4,North West,M Pretorius,GG Peters,KI Simmonds,6,0,,,,,,"",""
+ball,2,14.5,North West,M Pretorius,GG Peters,KI Simmonds,1,0,,,,,,"",""
+ball,2,14.6,North West,GG Peters,M Pretorius,KI Simmonds,0,0,,,,,,"",""
+ball,2,15.1,North West,M Pretorius,GG Peters,GF Linde,4,0,,,,,,"",""
+ball,2,15.2,North West,M Pretorius,GG Peters,GF Linde,0,0,,,,,,"",""
+ball,2,15.3,North West,M Pretorius,GG Peters,GF Linde,0,0,,,,,,lbw,M Pretorius

@@ -1,0 +1,212 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Birmingham Bears
+info,team,Somerset
+info,gender,male
+info,season,2020
+info,date,2020/09/04
+info,event,Vitality Blast
+info,venue,The Cooper Associates County Ground
+info,city,Taunton
+info,toss_winner,Somerset
+info,toss_decision,field
+info,player_of_match,SR Hain
+info,umpire,JW Lloyds
+info,umpire,ID Blackwell
+info,match_referee,RM Ellison
+info,method,D/L
+info,winner,Birmingham Bears
+info,winner_runs,4
+info,player,Birmingham Bears,EJ Pollock
+info,player,Birmingham Bears,IR Bell
+info,player,Birmingham Bears,AJ Hose
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,WMH Rhodes
+info,player,Birmingham Bears,MGK Burgess
+info,player,Birmingham Bears,TT Bresnan
+info,player,Birmingham Bears,HJH Brookes
+info,player,Birmingham Bears,OP Stone
+info,player,Birmingham Bears,JB Lintott
+info,player,Birmingham Bears,JS Patel
+info,player,Somerset,Babar Azam
+info,player,Somerset,SM Davies
+info,player,Somerset,JC Hildreth
+info,player,Somerset,TB Abell
+info,player,Somerset,EJ Byrom
+info,player,Somerset,L Gregory
+info,player,Somerset,TA Lammonby
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,JH Davey
+info,player,Somerset,ORT Sale
+info,player,Somerset,MTC Waller
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,IR Bell,33155d1b
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JC Hildreth,782c0568
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JS Patel,f5821615
+info,registry,people,JW Lloyds,112b8472
+info,registry,people,L Gregory,06c2de82
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MTC Waller,d74d1090
+info,registry,people,OP Stone,3f659464
+info,registry,people,ORT Sale,eab61ead
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RM Ellison,140552e1
+info,registry,people,SM Davies,8fc65c2b
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TT Bresnan,58043739
+info,registry,people,WMH Rhodes,f54dbda7
+ball,1,0.1,Birmingham Bears,EJ Pollock,IR Bell,MTC Waller,0,0,,,,,,"",""
+ball,1,0.2,Birmingham Bears,EJ Pollock,IR Bell,MTC Waller,0,0,,,,,,"",""
+ball,1,0.3,Birmingham Bears,EJ Pollock,IR Bell,MTC Waller,0,0,,,,,,"",""
+ball,1,0.4,Birmingham Bears,EJ Pollock,IR Bell,MTC Waller,0,0,,,,,,"",""
+ball,1,0.5,Birmingham Bears,EJ Pollock,IR Bell,MTC Waller,0,0,,,,,,"",""
+ball,1,0.6,Birmingham Bears,EJ Pollock,IR Bell,MTC Waller,1,0,,,,,,"",""
+ball,1,1.1,Birmingham Bears,EJ Pollock,IR Bell,L Gregory,1,0,,,,,,"",""
+ball,1,1.2,Birmingham Bears,IR Bell,EJ Pollock,L Gregory,0,0,,,,,,"",""
+ball,1,1.3,Birmingham Bears,IR Bell,EJ Pollock,L Gregory,0,0,,,,,,"",""
+ball,1,1.4,Birmingham Bears,IR Bell,EJ Pollock,L Gregory,0,0,,,,,,caught and bowled,IR Bell
+ball,1,1.5,Birmingham Bears,AJ Hose,EJ Pollock,L Gregory,0,0,,,,,,"",""
+ball,1,1.6,Birmingham Bears,AJ Hose,EJ Pollock,L Gregory,0,0,,,,,,caught,AJ Hose
+ball,1,2.1,Birmingham Bears,EJ Pollock,SR Hain,ORT Sale,0,0,,,,,,"",""
+ball,1,2.2,Birmingham Bears,EJ Pollock,SR Hain,ORT Sale,6,0,,,,,,"",""
+ball,1,2.3,Birmingham Bears,EJ Pollock,SR Hain,ORT Sale,4,0,,,,,,"",""
+ball,1,2.4,Birmingham Bears,EJ Pollock,SR Hain,ORT Sale,0,0,,,,,,"",""
+ball,1,2.5,Birmingham Bears,EJ Pollock,SR Hain,ORT Sale,1,0,,,,,,"",""
+ball,1,2.6,Birmingham Bears,SR Hain,EJ Pollock,ORT Sale,0,0,,,,,,"",""
+ball,1,3.1,Birmingham Bears,EJ Pollock,SR Hain,L Gregory,0,2,,2,,,,"",""
+ball,1,3.2,Birmingham Bears,EJ Pollock,SR Hain,L Gregory,6,0,,,,,,"",""
+ball,1,3.3,Birmingham Bears,EJ Pollock,SR Hain,L Gregory,1,0,,,,,,"",""
+ball,1,3.4,Birmingham Bears,SR Hain,EJ Pollock,L Gregory,4,0,,,,,,"",""
+ball,1,3.5,Birmingham Bears,SR Hain,EJ Pollock,L Gregory,0,0,,,,,,"",""
+ball,1,3.6,Birmingham Bears,SR Hain,EJ Pollock,L Gregory,0,0,,,,,,"",""
+ball,1,3.7,Birmingham Bears,SR Hain,EJ Pollock,L Gregory,4,0,,,,,,"",""
+ball,1,4.1,Birmingham Bears,EJ Pollock,SR Hain,JH Davey,0,0,,,,,,caught,EJ Pollock
+ball,1,4.2,Birmingham Bears,SR Hain,WMH Rhodes,JH Davey,0,0,,,,,,"",""
+ball,1,4.3,Birmingham Bears,SR Hain,WMH Rhodes,JH Davey,1,0,,,,,,"",""
+ball,1,4.4,Birmingham Bears,WMH Rhodes,SR Hain,JH Davey,0,0,,,,,,"",""
+ball,1,4.5,Birmingham Bears,WMH Rhodes,SR Hain,JH Davey,0,0,,,,,,"",""
+ball,1,4.6,Birmingham Bears,WMH Rhodes,SR Hain,JH Davey,4,0,,,,,,"",""
+ball,1,5.1,Birmingham Bears,SR Hain,WMH Rhodes,ORT Sale,0,1,,,,1,,"",""
+ball,1,5.2,Birmingham Bears,WMH Rhodes,SR Hain,ORT Sale,1,0,,,,,,"",""
+ball,1,5.3,Birmingham Bears,SR Hain,WMH Rhodes,ORT Sale,6,0,,,,,,"",""
+ball,1,5.4,Birmingham Bears,SR Hain,WMH Rhodes,ORT Sale,1,0,,,,,,"",""
+ball,1,5.5,Birmingham Bears,WMH Rhodes,SR Hain,ORT Sale,0,0,,,,,,"",""
+ball,1,5.6,Birmingham Bears,WMH Rhodes,SR Hain,ORT Sale,1,0,,,,,,"",""
+ball,1,6.1,Birmingham Bears,WMH Rhodes,SR Hain,TA Lammonby,1,0,,,,,,"",""
+ball,1,6.2,Birmingham Bears,SR Hain,WMH Rhodes,TA Lammonby,1,0,,,,,,"",""
+ball,1,6.3,Birmingham Bears,WMH Rhodes,SR Hain,TA Lammonby,1,0,,,,,,"",""
+ball,1,6.4,Birmingham Bears,SR Hain,WMH Rhodes,TA Lammonby,0,0,,,,,,"",""
+ball,1,6.5,Birmingham Bears,SR Hain,WMH Rhodes,TA Lammonby,0,0,,,,,,"",""
+ball,1,6.6,Birmingham Bears,SR Hain,WMH Rhodes,TA Lammonby,0,0,,,,,,"",""
+ball,1,7.1,Birmingham Bears,WMH Rhodes,SR Hain,MTC Waller,1,0,,,,,,"",""
+ball,1,7.2,Birmingham Bears,SR Hain,WMH Rhodes,MTC Waller,1,0,,,,,,"",""
+ball,1,7.3,Birmingham Bears,WMH Rhodes,SR Hain,MTC Waller,1,0,,,,,,"",""
+ball,1,7.4,Birmingham Bears,SR Hain,WMH Rhodes,MTC Waller,1,0,,,,,,"",""
+ball,1,7.5,Birmingham Bears,WMH Rhodes,SR Hain,MTC Waller,1,0,,,,,,"",""
+ball,1,7.6,Birmingham Bears,SR Hain,WMH Rhodes,MTC Waller,1,0,,,,,,"",""
+ball,1,8.1,Birmingham Bears,SR Hain,WMH Rhodes,RE van der Merwe,4,0,,,,,,"",""
+ball,1,8.2,Birmingham Bears,SR Hain,WMH Rhodes,RE van der Merwe,0,0,,,,,,"",""
+ball,1,8.3,Birmingham Bears,SR Hain,WMH Rhodes,RE van der Merwe,0,0,,,,,,"",""
+ball,1,8.4,Birmingham Bears,SR Hain,WMH Rhodes,RE van der Merwe,2,0,,,,,,"",""
+ball,1,8.5,Birmingham Bears,SR Hain,WMH Rhodes,RE van der Merwe,1,0,,,,,,"",""
+ball,1,8.6,Birmingham Bears,WMH Rhodes,SR Hain,RE van der Merwe,1,0,,,,,,"",""
+ball,1,9.1,Birmingham Bears,WMH Rhodes,SR Hain,MTC Waller,2,0,,,,,,"",""
+ball,1,9.2,Birmingham Bears,WMH Rhodes,SR Hain,MTC Waller,0,0,,,,,,"",""
+ball,1,9.3,Birmingham Bears,WMH Rhodes,SR Hain,MTC Waller,1,0,,,,,,"",""
+ball,1,9.4,Birmingham Bears,SR Hain,WMH Rhodes,MTC Waller,4,0,,,,,,"",""
+ball,1,9.5,Birmingham Bears,SR Hain,WMH Rhodes,MTC Waller,1,0,,,,,,"",""
+ball,1,9.6,Birmingham Bears,WMH Rhodes,SR Hain,MTC Waller,4,0,,,,,,"",""
+ball,1,10.1,Birmingham Bears,SR Hain,WMH Rhodes,TA Lammonby,6,0,,,,,,"",""
+ball,1,10.2,Birmingham Bears,SR Hain,WMH Rhodes,TA Lammonby,1,0,,,,,,"",""
+ball,1,10.3,Birmingham Bears,WMH Rhodes,SR Hain,TA Lammonby,2,0,,,,,,"",""
+ball,1,10.4,Birmingham Bears,WMH Rhodes,SR Hain,TA Lammonby,0,0,,,,,,bowled,WMH Rhodes
+ball,1,10.5,Birmingham Bears,MGK Burgess,SR Hain,TA Lammonby,1,0,,,,,,"",""
+ball,1,10.6,Birmingham Bears,SR Hain,MGK Burgess,TA Lammonby,1,0,,,,,,"",""
+ball,1,11.1,Birmingham Bears,SR Hain,MGK Burgess,ORT Sale,4,0,,,,,,"",""
+ball,1,11.2,Birmingham Bears,SR Hain,MGK Burgess,ORT Sale,4,0,,,,,,"",""
+ball,1,11.3,Birmingham Bears,SR Hain,MGK Burgess,ORT Sale,1,0,,,,,,"",""
+ball,1,11.4,Birmingham Bears,MGK Burgess,SR Hain,ORT Sale,6,0,,,,,,"",""
+ball,1,11.5,Birmingham Bears,MGK Burgess,SR Hain,ORT Sale,0,1,,,1,,,"",""
+ball,1,11.6,Birmingham Bears,SR Hain,MGK Burgess,ORT Sale,6,0,,,,,,"",""
+ball,2,0.1,Somerset,Babar Azam,SM Davies,TT Bresnan,6,0,,,,,,"",""
+ball,2,0.2,Somerset,Babar Azam,SM Davies,TT Bresnan,0,0,,,,,,"",""
+ball,2,0.3,Somerset,Babar Azam,SM Davies,TT Bresnan,0,0,,,,,,caught,Babar Azam
+ball,2,0.4,Somerset,JC Hildreth,SM Davies,TT Bresnan,0,0,,,,,,"",""
+ball,2,0.5,Somerset,JC Hildreth,SM Davies,TT Bresnan,4,0,,,,,,"",""
+ball,2,0.6,Somerset,JC Hildreth,SM Davies,TT Bresnan,4,0,,,,,,"",""
+ball,2,1.1,Somerset,SM Davies,JC Hildreth,OP Stone,0,0,,,,,,caught,SM Davies
+ball,2,1.2,Somerset,JC Hildreth,TB Abell,OP Stone,0,0,,,,,,"",""
+ball,2,1.3,Somerset,JC Hildreth,TB Abell,OP Stone,4,0,,,,,,"",""
+ball,2,1.4,Somerset,JC Hildreth,TB Abell,OP Stone,6,0,,,,,,"",""
+ball,2,1.5,Somerset,JC Hildreth,TB Abell,OP Stone,4,0,,,,,,"",""
+ball,2,1.6,Somerset,JC Hildreth,TB Abell,OP Stone,0,0,,,,,,"",""
+ball,2,2.1,Somerset,TB Abell,JC Hildreth,HJH Brookes,0,1,,,,1,,"",""
+ball,2,2.2,Somerset,JC Hildreth,TB Abell,HJH Brookes,1,0,,,,,,"",""
+ball,2,2.3,Somerset,TB Abell,JC Hildreth,HJH Brookes,4,0,,,,,,"",""
+ball,2,2.4,Somerset,TB Abell,JC Hildreth,HJH Brookes,0,0,,,,,,"",""
+ball,2,2.5,Somerset,TB Abell,JC Hildreth,HJH Brookes,0,0,,,,,,"",""
+ball,2,2.6,Somerset,TB Abell,JC Hildreth,HJH Brookes,0,0,,,,,,caught,TB Abell
+ball,2,3.1,Somerset,JC Hildreth,EJ Byrom,JS Patel,0,0,,,,,,"",""
+ball,2,3.2,Somerset,JC Hildreth,EJ Byrom,JS Patel,0,0,,,,,,"",""
+ball,2,3.3,Somerset,JC Hildreth,EJ Byrom,JS Patel,2,0,,,,,,"",""
+ball,2,3.4,Somerset,JC Hildreth,EJ Byrom,JS Patel,0,0,,,,,,run out,JC Hildreth
+ball,2,3.5,Somerset,EJ Byrom,L Gregory,JS Patel,1,0,,,,,,"",""
+ball,2,3.6,Somerset,L Gregory,EJ Byrom,JS Patel,0,0,,,,,,"",""
+ball,2,4.1,Somerset,EJ Byrom,L Gregory,JB Lintott,0,0,,,,,,"",""
+ball,2,4.2,Somerset,EJ Byrom,L Gregory,JB Lintott,1,0,,,,,,"",""
+ball,2,4.3,Somerset,L Gregory,EJ Byrom,JB Lintott,1,0,,,,,,"",""
+ball,2,4.4,Somerset,EJ Byrom,L Gregory,JB Lintott,1,0,,,,,,"",""
+ball,2,4.5,Somerset,L Gregory,EJ Byrom,JB Lintott,4,0,,,,,,"",""
+ball,2,4.6,Somerset,L Gregory,EJ Byrom,JB Lintott,0,0,,,,,,"",""
+ball,2,5.1,Somerset,EJ Byrom,L Gregory,HJH Brookes,1,0,,,,,,"",""
+ball,2,5.2,Somerset,L Gregory,EJ Byrom,HJH Brookes,1,0,,,,,,"",""
+ball,2,5.3,Somerset,EJ Byrom,L Gregory,HJH Brookes,0,0,,,,,,"",""
+ball,2,5.4,Somerset,EJ Byrom,L Gregory,HJH Brookes,4,0,,,,,,"",""
+ball,2,5.5,Somerset,EJ Byrom,L Gregory,HJH Brookes,0,0,,,,,,caught,EJ Byrom
+ball,2,5.6,Somerset,L Gregory,TA Lammonby,HJH Brookes,0,0,,,,,,"",""
+ball,2,6.1,Somerset,TA Lammonby,L Gregory,JB Lintott,0,1,1,,,,,"",""
+ball,2,6.2,Somerset,TA Lammonby,L Gregory,JB Lintott,1,0,,,,,,"",""
+ball,2,6.3,Somerset,L Gregory,TA Lammonby,JB Lintott,0,0,,,,,,lbw,L Gregory
+ball,2,6.4,Somerset,RE van der Merwe,TA Lammonby,JB Lintott,1,0,,,,,,"",""
+ball,2,6.5,Somerset,TA Lammonby,RE van der Merwe,JB Lintott,1,0,,,,,,"",""
+ball,2,6.6,Somerset,RE van der Merwe,TA Lammonby,JB Lintott,1,0,,,,,,"",""
+ball,2,6.7,Somerset,TA Lammonby,RE van der Merwe,JB Lintott,1,0,,,,,,"",""
+ball,2,7.1,Somerset,TA Lammonby,RE van der Merwe,JS Patel,0,0,,,,,,"",""
+ball,2,7.2,Somerset,TA Lammonby,RE van der Merwe,JS Patel,4,0,,,,,,"",""
+ball,2,7.3,Somerset,TA Lammonby,RE van der Merwe,JS Patel,1,0,,,,,,"",""
+ball,2,7.4,Somerset,RE van der Merwe,TA Lammonby,JS Patel,0,0,,,,,,"",""
+ball,2,7.5,Somerset,RE van der Merwe,TA Lammonby,JS Patel,1,0,,,,,,"",""
+ball,2,7.6,Somerset,TA Lammonby,RE van der Merwe,JS Patel,6,0,,,,,,"",""
+ball,2,8.1,Somerset,RE van der Merwe,TA Lammonby,TT Bresnan,0,0,,,,,,"",""
+ball,2,8.2,Somerset,RE van der Merwe,TA Lammonby,TT Bresnan,1,0,,,,,,"",""
+ball,2,8.3,Somerset,TA Lammonby,RE van der Merwe,TT Bresnan,0,0,,,,,,"",""
+ball,2,8.4,Somerset,TA Lammonby,RE van der Merwe,TT Bresnan,1,0,,,,,,"",""
+ball,2,8.5,Somerset,RE van der Merwe,TA Lammonby,TT Bresnan,2,0,,,,,,"",""
+ball,2,8.6,Somerset,RE van der Merwe,TA Lammonby,TT Bresnan,6,0,,,,,,"",""
+ball,2,9.1,Somerset,TA Lammonby,RE van der Merwe,JS Patel,4,0,,,,,,"",""
+ball,2,9.2,Somerset,TA Lammonby,RE van der Merwe,JS Patel,1,0,,,,,,"",""
+ball,2,9.3,Somerset,RE van der Merwe,TA Lammonby,JS Patel,2,0,,,,,,"",""
+ball,2,9.4,Somerset,RE van der Merwe,TA Lammonby,JS Patel,1,0,,,,,,"",""
+ball,2,9.5,Somerset,TA Lammonby,RE van der Merwe,JS Patel,4,0,,,,,,"",""
+ball,2,9.6,Somerset,TA Lammonby,RE van der Merwe,JS Patel,1,0,,,,,,"",""
+ball,2,10.1,Somerset,TA Lammonby,RE van der Merwe,OP Stone,0,1,,,,1,,"",""
+ball,2,10.2,Somerset,RE van der Merwe,TA Lammonby,OP Stone,0,0,,,,,,"",""
+ball,2,10.3,Somerset,RE van der Merwe,TA Lammonby,OP Stone,6,0,,,,,,"",""
+ball,2,10.4,Somerset,RE van der Merwe,TA Lammonby,OP Stone,4,0,,,,,,"",""
+ball,2,10.5,Somerset,RE van der Merwe,TA Lammonby,OP Stone,0,0,,,,,,bowled,RE van der Merwe
+ball,2,10.6,Somerset,JH Davey,TA Lammonby,OP Stone,0,0,,,,,,"",""
+ball,2,11.1,Somerset,TA Lammonby,JH Davey,HJH Brookes,0,0,,,,,,"",""
+ball,2,11.2,Somerset,TA Lammonby,JH Davey,HJH Brookes,6,0,,,,,,"",""
+ball,2,11.3,Somerset,TA Lammonby,JH Davey,HJH Brookes,4,0,,,,,,"",""
+ball,2,11.4,Somerset,TA Lammonby,JH Davey,HJH Brookes,0,0,,,,,,"",""
+ball,2,11.5,Somerset,TA Lammonby,JH Davey,HJH Brookes,6,0,,,,,,"",""
+ball,2,11.6,Somerset,TA Lammonby,JH Davey,HJH Brookes,2,0,,,,,,"",""

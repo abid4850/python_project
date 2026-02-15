@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Middlesex
+info,team,Somerset
+info,gender,male
+info,season,2022
+info,date,2022/07/01
+info,event,Vitality Blast
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Somerset
+info,toss_decision,field
+info,umpire,James Middlebrook
+info,umpire,MJ Saggers
+info,match_referee,DA Cosker
+info,winner,Somerset
+info,winner_wickets,2
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,CJ Green
+info,player,Middlesex,MB Harris
+info,player,Middlesex,TG Helm
+info,player,Middlesex,TN Walallawita
+info,player,Middlesex,JP Behrendorff
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Banton
+info,player,Somerset,RR Rossouw
+info,player,Somerset,TB Abell
+info,player,Somerset,TA Lammonby
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,C Overton
+info,player,Somerset,JH Davey
+info,player,Somerset,PM Siddle
+info,registry,people,BGF Green,34b37279
+info,registry,people,C Overton,e9987a94
+info,registry,people,CJ Green,19b9f399
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MB Harris,0b9a4ad6
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TN Walallawita,64212089
+info,registry,people,WCF Smeed,4e18e961
+ball,1,0.1,Middlesex,SS Eskinazi,MDE Holden,C Overton,1,0,,,,,,"",""
+ball,1,0.2,Middlesex,MDE Holden,SS Eskinazi,C Overton,1,0,,,,,,"",""
+ball,1,0.3,Middlesex,SS Eskinazi,MDE Holden,C Overton,3,0,,,,,,"",""
+ball,1,0.4,Middlesex,MDE Holden,SS Eskinazi,C Overton,0,0,,,,,,"",""
+ball,1,0.5,Middlesex,MDE Holden,SS Eskinazi,C Overton,0,0,,,,,,"",""
+ball,1,0.6,Middlesex,MDE Holden,SS Eskinazi,C Overton,1,0,,,,,,"",""
+ball,1,1.1,Middlesex,MDE Holden,SS Eskinazi,JH Davey,0,1,,,,1,,"",""
+ball,1,1.2,Middlesex,SS Eskinazi,MDE Holden,JH Davey,0,0,,,,,,"",""
+ball,1,1.3,Middlesex,SS Eskinazi,MDE Holden,JH Davey,0,0,,,,,,caught,SS Eskinazi
+ball,1,1.4,Middlesex,JB Cracknell,MDE Holden,JH Davey,0,0,,,,,,"",""
+ball,1,1.5,Middlesex,JB Cracknell,MDE Holden,JH Davey,0,0,,,,,,"",""
+ball,1,1.6,Middlesex,JB Cracknell,MDE Holden,JH Davey,0,0,,,,,,"",""
+ball,1,2.1,Middlesex,MDE Holden,JB Cracknell,C Overton,0,0,,,,,,"",""
+ball,1,2.2,Middlesex,MDE Holden,JB Cracknell,C Overton,0,0,,,,,,"",""
+ball,1,2.3,Middlesex,MDE Holden,JB Cracknell,C Overton,4,0,,,,,,"",""
+ball,1,2.4,Middlesex,MDE Holden,JB Cracknell,C Overton,1,0,,,,,,"",""
+ball,1,2.5,Middlesex,JB Cracknell,MDE Holden,C Overton,6,0,,,,,,"",""
+ball,1,2.6,Middlesex,JB Cracknell,MDE Holden,C Overton,2,0,,,,,,"",""
+ball,1,3.1,Middlesex,MDE Holden,JB Cracknell,PM Siddle,0,0,,,,,,"",""
+ball,1,3.2,Middlesex,MDE Holden,JB Cracknell,PM Siddle,0,0,,,,,,caught,MDE Holden
+ball,1,3.3,Middlesex,JA Simpson,JB Cracknell,PM Siddle,0,0,,,,,,"",""
+ball,1,3.4,Middlesex,JA Simpson,JB Cracknell,PM Siddle,0,0,,,,,,"",""
+ball,1,3.5,Middlesex,JA Simpson,JB Cracknell,PM Siddle,1,0,,,,,,"",""
+ball,1,3.6,Middlesex,JB Cracknell,JA Simpson,PM Siddle,0,0,,,,,,"",""
+ball,1,4.1,Middlesex,JA Simpson,JB Cracknell,JH Davey,0,0,,,,,,"",""
+ball,1,4.2,Middlesex,JA Simpson,JB Cracknell,JH Davey,0,0,,,,,,"",""
+ball,1,4.3,Middlesex,JA Simpson,JB Cracknell,JH Davey,1,0,,,,,,"",""
+ball,1,4.4,Middlesex,JB Cracknell,JA Simpson,JH Davey,0,0,,,,,,"",""
+ball,1,4.5,Middlesex,JB Cracknell,JA Simpson,JH Davey,0,0,,,,,,"",""
+ball,1,4.6,Middlesex,JB Cracknell,JA Simpson,JH Davey,1,0,,,,,,"",""
+ball,1,5.1,Middlesex,JB Cracknell,JA Simpson,PM Siddle,0,0,,,,,,"",""
+ball,1,5.2,Middlesex,JB Cracknell,JA Simpson,PM Siddle,0,1,1,,,,,"",""
+ball,1,5.3,Middlesex,JB Cracknell,JA Simpson,PM Siddle,1,0,,,,,,"",""
+ball,1,5.4,Middlesex,JA Simpson,JB Cracknell,PM Siddle,1,0,,,,,,"",""
+ball,1,5.5,Middlesex,JB Cracknell,JA Simpson,PM Siddle,3,0,,,,,,"",""
+ball,1,5.6,Middlesex,JA Simpson,JB Cracknell,PM Siddle,4,0,,,,,,"",""
+ball,1,5.7,Middlesex,JA Simpson,JB Cracknell,PM Siddle,0,0,,,,,,"",""
+ball,1,6.1,Middlesex,JB Cracknell,JA Simpson,L Gregory,1,0,,,,,,"",""
+ball,1,6.2,Middlesex,JA Simpson,JB Cracknell,L Gregory,1,0,,,,,,"",""
+ball,1,6.3,Middlesex,JB Cracknell,JA Simpson,L Gregory,6,0,,,,,,"",""
+ball,1,6.4,Middlesex,JB Cracknell,JA Simpson,L Gregory,1,0,,,,,,"",""
+ball,1,6.5,Middlesex,JA Simpson,JB Cracknell,L Gregory,0,0,,,,,,caught,JA Simpson
+ball,1,6.6,Middlesex,JLB Davies,JB Cracknell,L Gregory,0,0,,,,,,"",""
+ball,1,7.1,Middlesex,JB Cracknell,JLB Davies,BGF Green,0,1,1,,,,,"",""
+ball,1,7.2,Middlesex,JB Cracknell,JLB Davies,BGF Green,0,0,,,,,,"",""
+ball,1,7.3,Middlesex,JB Cracknell,JLB Davies,BGF Green,0,0,,,,,,"",""
+ball,1,7.4,Middlesex,JB Cracknell,JLB Davies,BGF Green,1,0,,,,,,"",""
+ball,1,7.5,Middlesex,JLB Davies,JB Cracknell,BGF Green,1,0,,,,,,"",""
+ball,1,7.6,Middlesex,JB Cracknell,JLB Davies,BGF Green,1,0,,,,,,"",""
+ball,1,7.7,Middlesex,JLB Davies,JB Cracknell,BGF Green,1,0,,,,,,"",""
+ball,1,8.1,Middlesex,JLB Davies,JB Cracknell,L Gregory,0,1,1,,,,,"",""
+ball,1,8.2,Middlesex,JLB Davies,JB Cracknell,L Gregory,1,0,,,,,,"",""
+ball,1,8.3,Middlesex,JB Cracknell,JLB Davies,L Gregory,1,0,,,,,,"",""
+ball,1,8.4,Middlesex,JLB Davies,JB Cracknell,L Gregory,0,0,,,,,,"",""
+ball,1,8.5,Middlesex,JLB Davies,JB Cracknell,L Gregory,1,0,,,,,,"",""
+ball,1,8.6,Middlesex,JB Cracknell,JLB Davies,L Gregory,1,0,,,,,,"",""
+ball,1,8.7,Middlesex,JLB Davies,JB Cracknell,L Gregory,1,0,,,,,,"",""
+ball,1,9.1,Middlesex,JLB Davies,JB Cracknell,BGF Green,1,0,,,,,,"",""
+ball,1,9.2,Middlesex,JB Cracknell,JLB Davies,BGF Green,0,1,1,,,,,"",""
+ball,1,9.3,Middlesex,JB Cracknell,JLB Davies,BGF Green,0,0,,,,,,caught,JB Cracknell
+ball,1,9.4,Middlesex,LBK Hollman,JLB Davies,BGF Green,2,0,,,,,,"",""
+ball,1,9.5,Middlesex,LBK Hollman,JLB Davies,BGF Green,1,0,,,,,,"",""
+ball,1,9.6,Middlesex,JLB Davies,LBK Hollman,BGF Green,1,0,,,,,,"",""
+ball,1,9.7,Middlesex,LBK Hollman,JLB Davies,BGF Green,1,0,,,,,,"",""
+ball,1,10.1,Middlesex,LBK Hollman,JLB Davies,RE van der Merwe,2,0,,,,,,"",""
+ball,1,10.2,Middlesex,LBK Hollman,JLB Davies,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.3,Middlesex,JLB Davies,LBK Hollman,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.4,Middlesex,LBK Hollman,JLB Davies,RE van der Merwe,0,0,,,,,,"",""
+ball,1,10.5,Middlesex,LBK Hollman,JLB Davies,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.6,Middlesex,JLB Davies,LBK Hollman,RE van der Merwe,2,0,,,,,,"",""
+ball,1,11.1,Middlesex,LBK Hollman,JLB Davies,L Gregory,0,0,,,,,,"",""
+ball,1,11.2,Middlesex,LBK Hollman,JLB Davies,L Gregory,4,0,,,,,,"",""
+ball,1,11.3,Middlesex,LBK Hollman,JLB Davies,L Gregory,1,0,,,,,,"",""
+ball,1,11.4,Middlesex,JLB Davies,LBK Hollman,L Gregory,1,0,,,,,,"",""
+ball,1,11.5,Middlesex,LBK Hollman,JLB Davies,L Gregory,1,0,,,,,,"",""
+ball,1,11.6,Middlesex,JLB Davies,LBK Hollman,L Gregory,1,0,,,,,,"",""
+ball,1,12.1,Middlesex,JLB Davies,LBK Hollman,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.2,Middlesex,LBK Hollman,JLB Davies,RE van der Merwe,0,1,1,,,,,"",""
+ball,1,12.3,Middlesex,LBK Hollman,JLB Davies,RE van der Merwe,0,1,,,,1,,"",""
+ball,1,12.4,Middlesex,JLB Davies,LBK Hollman,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.5,Middlesex,LBK Hollman,JLB Davies,RE van der Merwe,4,0,,,,,,"",""
+ball,1,12.6,Middlesex,LBK Hollman,JLB Davies,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.7,Middlesex,JLB Davies,LBK Hollman,RE van der Merwe,0,0,,,,,,"",""
+ball,1,13.1,Middlesex,LBK Hollman,JLB Davies,BGF Green,1,0,,,,,,"",""
+ball,1,13.2,Middlesex,JLB Davies,LBK Hollman,BGF Green,0,0,,,,,,bowled,JLB Davies
+ball,1,13.3,Middlesex,CJ Green,LBK Hollman,BGF Green,1,0,,,,,,"",""
+ball,1,13.4,Middlesex,LBK Hollman,CJ Green,BGF Green,0,0,,,,,,"",""
+ball,1,13.5,Middlesex,LBK Hollman,CJ Green,BGF Green,6,0,,,,,,"",""
+ball,1,13.6,Middlesex,LBK Hollman,CJ Green,BGF Green,1,0,,,,,,"",""
+ball,1,14.1,Middlesex,LBK Hollman,CJ Green,L Gregory,1,0,,,,,,"",""
+ball,1,14.2,Middlesex,CJ Green,LBK Hollman,L Gregory,4,0,,,,,,"",""
+ball,1,14.3,Middlesex,CJ Green,LBK Hollman,L Gregory,1,0,,,,,,"",""
+ball,1,14.4,Middlesex,LBK Hollman,CJ Green,L Gregory,1,0,,,,,,"",""
+ball,1,14.5,Middlesex,CJ Green,LBK Hollman,L Gregory,1,0,,,,,,"",""
+ball,1,14.6,Middlesex,LBK Hollman,CJ Green,L Gregory,2,0,,,,,,"",""
+ball,1,15.1,Middlesex,CJ Green,LBK Hollman,JH Davey,1,0,,,,,,"",""
+ball,1,15.2,Middlesex,LBK Hollman,CJ Green,JH Davey,0,1,1,,,,,"",""
+ball,1,15.3,Middlesex,LBK Hollman,CJ Green,JH Davey,1,0,,,,,,"",""
+ball,1,15.4,Middlesex,CJ Green,LBK Hollman,JH Davey,2,0,,,,,,"",""
+ball,1,15.5,Middlesex,CJ Green,LBK Hollman,JH Davey,0,2,,2,,,,"",""
+ball,1,15.6,Middlesex,CJ Green,LBK Hollman,JH Davey,1,0,,,,,,"",""
+ball,1,15.7,Middlesex,LBK Hollman,CJ Green,JH Davey,1,0,,,,,,"",""
+ball,1,15.8,Middlesex,CJ Green,LBK Hollman,JH Davey,1,0,,,,,,"",""
+ball,1,16.1,Middlesex,CJ Green,LBK Hollman,PM Siddle,4,0,,,,,,"",""
+ball,1,16.2,Middlesex,CJ Green,LBK Hollman,PM Siddle,1,0,,,,,,"",""
+ball,1,16.3,Middlesex,LBK Hollman,CJ Green,PM Siddle,1,0,,,,,,"",""
+ball,1,16.4,Middlesex,CJ Green,LBK Hollman,PM Siddle,1,0,,,,,,"",""
+ball,1,16.5,Middlesex,LBK Hollman,CJ Green,PM Siddle,1,0,,,,,,"",""
+ball,1,16.6,Middlesex,CJ Green,LBK Hollman,PM Siddle,1,0,,,,,,"",""
+ball,1,17.1,Middlesex,CJ Green,LBK Hollman,BGF Green,4,0,,,,,,"",""
+ball,1,17.2,Middlesex,CJ Green,LBK Hollman,BGF Green,6,0,,,,,,"",""
+ball,1,17.3,Middlesex,CJ Green,LBK Hollman,BGF Green,1,0,,,,,,"",""
+ball,1,17.4,Middlesex,LBK Hollman,CJ Green,BGF Green,6,0,,,,,,"",""
+ball,1,17.5,Middlesex,LBK Hollman,CJ Green,BGF Green,0,0,,,,,,caught,LBK Hollman
+ball,1,17.6,Middlesex,MB Harris,CJ Green,BGF Green,0,0,,,,,,"",""
+ball,1,18.1,Middlesex,CJ Green,MB Harris,PM Siddle,1,0,,,,,,"",""
+ball,1,18.2,Middlesex,MB Harris,CJ Green,PM Siddle,1,0,,,,,,"",""
+ball,1,18.3,Middlesex,CJ Green,MB Harris,PM Siddle,0,0,,,,,,"",""
+ball,1,18.4,Middlesex,CJ Green,MB Harris,PM Siddle,0,0,,,,,,"",""
+ball,1,18.5,Middlesex,CJ Green,MB Harris,PM Siddle,4,0,,,,,,"",""
+ball,1,18.6,Middlesex,CJ Green,MB Harris,PM Siddle,2,0,,,,,,"",""
+ball,1,19.1,Middlesex,MB Harris,CJ Green,JH Davey,4,0,,,,,,"",""
+ball,1,19.2,Middlesex,MB Harris,CJ Green,JH Davey,1,0,,,,,,"",""
+ball,1,19.3,Middlesex,CJ Green,MB Harris,JH Davey,1,0,,,,,,"",""
+ball,1,19.4,Middlesex,MB Harris,CJ Green,JH Davey,1,0,,,,,,"",""
+ball,1,19.5,Middlesex,CJ Green,MB Harris,JH Davey,2,0,,,,,,"",""
+ball,1,19.6,Middlesex,CJ Green,MB Harris,JH Davey,4,0,,,,,,"",""
+ball,2,0.1,Somerset,WCF Smeed,T Banton,TG Helm,0,0,,,,,,"",""
+ball,2,0.2,Somerset,WCF Smeed,T Banton,TG Helm,1,0,,,,,,"",""
+ball,2,0.3,Somerset,T Banton,WCF Smeed,TG Helm,4,0,,,,,,"",""
+ball,2,0.4,Somerset,T Banton,WCF Smeed,TG Helm,0,0,,,,,,"",""
+ball,2,0.5,Somerset,T Banton,WCF Smeed,TG Helm,1,0,,,,,,"",""
+ball,2,0.6,Somerset,WCF Smeed,T Banton,TG Helm,0,0,,,,,,"",""
+ball,2,1.1,Somerset,T Banton,WCF Smeed,JP Behrendorff,1,0,,,,,,"",""
+ball,2,1.2,Somerset,WCF Smeed,T Banton,JP Behrendorff,4,0,,,,,,"",""
+ball,2,1.3,Somerset,WCF Smeed,T Banton,JP Behrendorff,0,0,,,,,,"",""
+ball,2,1.4,Somerset,WCF Smeed,T Banton,JP Behrendorff,0,2,,2,,,,"",""
+ball,2,1.5,Somerset,WCF Smeed,T Banton,JP Behrendorff,1,0,,,,,,"",""
+ball,2,1.6,Somerset,T Banton,WCF Smeed,JP Behrendorff,1,0,,,,,,"",""
+ball,2,1.7,Somerset,WCF Smeed,T Banton,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.1,Somerset,T Banton,WCF Smeed,TG Helm,0,0,,,,,,"",""
+ball,2,2.2,Somerset,T Banton,WCF Smeed,TG Helm,0,0,,,,,,"",""
+ball,2,2.3,Somerset,T Banton,WCF Smeed,TG Helm,1,0,,,,,,"",""
+ball,2,2.4,Somerset,WCF Smeed,T Banton,TG Helm,0,0,,,,,,caught,WCF Smeed
+ball,2,2.5,Somerset,RR Rossouw,T Banton,TG Helm,0,0,,,,,,"",""
+ball,2,2.6,Somerset,RR Rossouw,T Banton,TG Helm,0,0,,,,,,"",""
+ball,2,3.1,Somerset,T Banton,RR Rossouw,JP Behrendorff,0,0,,,,,,"",""
+ball,2,3.2,Somerset,T Banton,RR Rossouw,JP Behrendorff,0,0,,,,,,"",""
+ball,2,3.3,Somerset,T Banton,RR Rossouw,JP Behrendorff,0,0,,,,,,"",""
+ball,2,3.4,Somerset,T Banton,RR Rossouw,JP Behrendorff,2,0,,,,,,"",""
+ball,2,3.5,Somerset,T Banton,RR Rossouw,JP Behrendorff,1,0,,,,,,"",""
+ball,2,3.6,Somerset,RR Rossouw,T Banton,JP Behrendorff,0,4,,,,4,,"",""
+ball,2,4.1,Somerset,T Banton,RR Rossouw,TG Helm,0,0,,,,,,"",""
+ball,2,4.2,Somerset,T Banton,RR Rossouw,TG Helm,1,0,,,,,,"",""
+ball,2,4.3,Somerset,RR Rossouw,T Banton,TG Helm,1,0,,,,,,"",""
+ball,2,4.4,Somerset,T Banton,RR Rossouw,TG Helm,4,0,,,,,,"",""
+ball,2,4.5,Somerset,T Banton,RR Rossouw,TG Helm,4,0,,,,,,"",""
+ball,2,4.6,Somerset,T Banton,RR Rossouw,TG Helm,0,2,,2,,,,"",""
+ball,2,4.7,Somerset,T Banton,RR Rossouw,TG Helm,0,2,,2,,,,"",""
+ball,2,4.8,Somerset,T Banton,RR Rossouw,TG Helm,6,0,,,,,,"",""
+ball,2,5.1,Somerset,RR Rossouw,T Banton,MB Harris,4,0,,,,,,"",""
+ball,2,5.2,Somerset,RR Rossouw,T Banton,MB Harris,0,0,,,,,,caught,RR Rossouw
+ball,2,5.3,Somerset,TB Abell,T Banton,MB Harris,4,0,,,,,,"",""
+ball,2,5.4,Somerset,TB Abell,T Banton,MB Harris,2,0,,,,,,"",""
+ball,2,5.5,Somerset,TB Abell,T Banton,MB Harris,0,0,,,,,,"",""
+ball,2,5.6,Somerset,TB Abell,T Banton,MB Harris,0,1,1,,,,,"",""
+ball,2,5.7,Somerset,TB Abell,T Banton,MB Harris,0,0,,,,,,"",""
+ball,2,6.1,Somerset,T Banton,TB Abell,LBK Hollman,2,0,,,,,,"",""
+ball,2,6.2,Somerset,T Banton,TB Abell,LBK Hollman,1,0,,,,,,"",""
+ball,2,6.3,Somerset,TB Abell,T Banton,LBK Hollman,1,0,,,,,,"",""
+ball,2,6.4,Somerset,T Banton,TB Abell,LBK Hollman,6,0,,,,,,"",""
+ball,2,6.5,Somerset,T Banton,TB Abell,LBK Hollman,1,0,,,,,,"",""
+ball,2,6.6,Somerset,TB Abell,T Banton,LBK Hollman,1,0,,,,,,"",""
+ball,2,7.1,Somerset,TB Abell,T Banton,CJ Green,1,0,,,,,,"",""
+ball,2,7.2,Somerset,T Banton,TB Abell,CJ Green,1,0,,,,,,"",""
+ball,2,7.3,Somerset,TB Abell,T Banton,CJ Green,1,0,,,,,,"",""
+ball,2,7.4,Somerset,T Banton,TB Abell,CJ Green,1,0,,,,,,"",""
+ball,2,7.5,Somerset,TB Abell,T Banton,CJ Green,1,0,,,,,,"",""
+ball,2,7.6,Somerset,T Banton,TB Abell,CJ Green,1,0,,,,,,"",""
+ball,2,8.1,Somerset,T Banton,TB Abell,TN Walallawita,0,0,,,,,,bowled,T Banton
+ball,2,8.2,Somerset,TA Lammonby,TB Abell,TN Walallawita,1,0,,,,,,"",""
+ball,2,8.3,Somerset,TB Abell,TA Lammonby,TN Walallawita,0,0,,,,,,"",""
+ball,2,8.4,Somerset,TB Abell,TA Lammonby,TN Walallawita,0,1,,,,1,,"",""
+ball,2,8.5,Somerset,TA Lammonby,TB Abell,TN Walallawita,1,0,,,,,,"",""
+ball,2,8.6,Somerset,TB Abell,TA Lammonby,TN Walallawita,1,0,,,,,,"",""
+ball,2,9.1,Somerset,TB Abell,TA Lammonby,CJ Green,2,0,,,,,,"",""
+ball,2,9.2,Somerset,TB Abell,TA Lammonby,CJ Green,1,0,,,,,,"",""
+ball,2,9.3,Somerset,TA Lammonby,TB Abell,CJ Green,1,0,,,,,,"",""
+ball,2,9.4,Somerset,TB Abell,TA Lammonby,CJ Green,0,0,,,,,,"",""
+ball,2,9.5,Somerset,TB Abell,TA Lammonby,CJ Green,1,0,,,,,,"",""
+ball,2,9.6,Somerset,TA Lammonby,TB Abell,CJ Green,0,0,,,,,,"",""
+ball,2,10.1,Somerset,TB Abell,TA Lammonby,TN Walallawita,0,0,,,,,,"",""
+ball,2,10.2,Somerset,TB Abell,TA Lammonby,TN Walallawita,1,0,,,,,,"",""
+ball,2,10.3,Somerset,TA Lammonby,TB Abell,TN Walallawita,1,0,,,,,,"",""
+ball,2,10.4,Somerset,TB Abell,TA Lammonby,TN Walallawita,6,0,,,,,,"",""
+ball,2,10.5,Somerset,TB Abell,TA Lammonby,TN Walallawita,1,0,,,,,,"",""
+ball,2,10.6,Somerset,TA Lammonby,TB Abell,TN Walallawita,1,0,,,,,,"",""
+ball,2,11.1,Somerset,TA Lammonby,TB Abell,MB Harris,1,0,,,,,,"",""
+ball,2,11.2,Somerset,TB Abell,TA Lammonby,MB Harris,1,0,,,,,,"",""
+ball,2,11.3,Somerset,TA Lammonby,TB Abell,MB Harris,0,0,,,,,,"",""
+ball,2,11.4,Somerset,TA Lammonby,TB Abell,MB Harris,1,0,,,,,,"",""
+ball,2,11.5,Somerset,TB Abell,TA Lammonby,MB Harris,1,0,,,,,,"",""
+ball,2,11.6,Somerset,TA Lammonby,TB Abell,MB Harris,0,0,,,,,,caught,TA Lammonby
+ball,2,12.1,Somerset,TB Abell,L Gregory,LBK Hollman,1,0,,,,,,"",""
+ball,2,12.2,Somerset,L Gregory,TB Abell,LBK Hollman,1,0,,,,,,"",""
+ball,2,12.3,Somerset,TB Abell,L Gregory,LBK Hollman,0,0,,,,,,"",""
+ball,2,12.4,Somerset,TB Abell,L Gregory,LBK Hollman,1,0,,,,,,"",""
+ball,2,12.5,Somerset,L Gregory,TB Abell,LBK Hollman,2,0,,,,,,"",""
+ball,2,12.6,Somerset,L Gregory,TB Abell,LBK Hollman,1,0,,,,,,"",""
+ball,2,13.1,Somerset,L Gregory,TB Abell,MB Harris,0,0,,,,,,"",""
+ball,2,13.2,Somerset,L Gregory,TB Abell,MB Harris,2,0,,,,,,"",""
+ball,2,13.3,Somerset,L Gregory,TB Abell,MB Harris,1,0,,,,,,"",""
+ball,2,13.4,Somerset,TB Abell,L Gregory,MB Harris,0,0,,,,,,"",""
+ball,2,13.5,Somerset,TB Abell,L Gregory,MB Harris,1,0,,,,,,"",""
+ball,2,13.6,Somerset,L Gregory,TB Abell,MB Harris,4,0,,,,,,"",""
+ball,2,14.1,Somerset,TB Abell,L Gregory,TG Helm,1,0,,,,,,"",""
+ball,2,14.2,Somerset,L Gregory,TB Abell,TG Helm,0,0,,,,,,"",""
+ball,2,14.3,Somerset,L Gregory,TB Abell,TG Helm,1,0,,,,,,"",""
+ball,2,14.4,Somerset,TB Abell,L Gregory,TG Helm,2,0,,,,,,"",""
+ball,2,14.5,Somerset,TB Abell,L Gregory,TG Helm,2,0,,,,,,"",""
+ball,2,14.6,Somerset,TB Abell,L Gregory,TG Helm,1,0,,,,,,"",""
+ball,2,15.1,Somerset,TB Abell,L Gregory,CJ Green,1,0,,,,,,"",""
+ball,2,15.2,Somerset,L Gregory,TB Abell,CJ Green,0,0,,,,,,"",""
+ball,2,15.3,Somerset,L Gregory,TB Abell,CJ Green,1,0,,,,,,"",""
+ball,2,15.4,Somerset,TB Abell,L Gregory,CJ Green,0,0,,,,,,bowled,TB Abell
+ball,2,15.5,Somerset,BGF Green,L Gregory,CJ Green,0,0,,,,,,"",""
+ball,2,15.6,Somerset,BGF Green,L Gregory,CJ Green,1,0,,,,,,"",""
+ball,2,16.1,Somerset,BGF Green,L Gregory,JP Behrendorff,1,0,,,,,,"",""
+ball,2,16.2,Somerset,L Gregory,BGF Green,JP Behrendorff,0,0,,,,,,caught,L Gregory
+ball,2,16.3,Somerset,RE van der Merwe,BGF Green,JP Behrendorff,1,0,,,,,,"",""
+ball,2,16.4,Somerset,BGF Green,RE van der Merwe,JP Behrendorff,1,0,,,,,,"",""
+ball,2,16.5,Somerset,RE van der Merwe,BGF Green,JP Behrendorff,0,0,,,,,,"",""
+ball,2,16.6,Somerset,RE van der Merwe,BGF Green,JP Behrendorff,1,0,,,,,,"",""
+ball,2,17.1,Somerset,RE van der Merwe,BGF Green,MB Harris,1,0,,,,,,"",""
+ball,2,17.2,Somerset,BGF Green,RE van der Merwe,MB Harris,1,0,,,,,,"",""
+ball,2,17.3,Somerset,RE van der Merwe,BGF Green,MB Harris,4,0,,,,,,"",""
+ball,2,17.4,Somerset,RE van der Merwe,BGF Green,MB Harris,1,0,,,,,,"",""
+ball,2,17.5,Somerset,BGF Green,RE van der Merwe,MB Harris,6,0,,,,,,"",""
+ball,2,17.6,Somerset,BGF Green,RE van der Merwe,MB Harris,1,0,,,,,,"",""
+ball,2,18.1,Somerset,BGF Green,RE van der Merwe,JP Behrendorff,0,0,,,,,,"",""
+ball,2,18.2,Somerset,BGF Green,RE van der Merwe,JP Behrendorff,2,0,,,,,,"",""
+ball,2,18.3,Somerset,BGF Green,RE van der Merwe,JP Behrendorff,0,0,,,,,,caught,BGF Green
+ball,2,18.4,Somerset,C Overton,RE van der Merwe,JP Behrendorff,6,0,,,,,,"",""
+ball,2,18.5,Somerset,C Overton,RE van der Merwe,JP Behrendorff,6,0,,,,,,"",""
+ball,2,18.6,Somerset,C Overton,RE van der Merwe,JP Behrendorff,0,0,,,,,,caught,C Overton
+ball,2,19.1,Somerset,RE van der Merwe,JH Davey,CJ Green,1,0,,,,,,"",""
+ball,2,19.2,Somerset,JH Davey,RE van der Merwe,CJ Green,6,0,,,,,,"",""
+ball,2,19.3,Somerset,JH Davey,RE van der Merwe,CJ Green,2,0,,,,,,"",""
+ball,2,19.4,Somerset,JH Davey,RE van der Merwe,CJ Green,1,0,,,,,,"",""

@@ -1,0 +1,216 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Birmingham Bears
+info,gender,male
+info,season,2021
+info,date,2021/06/30
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Yorkshire
+info,toss_decision,bat
+info,player_of_match,CR Brathwaite
+info,umpire,NL Bainton
+info,umpire,Tom Lungley
+info,match_referee,SJ Davis
+info,winner,Birmingham Bears
+info,winner_wickets,10
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,MD Stoneman
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,GS Ballance
+info,player,Yorkshire,HC Brook
+info,player,Yorkshire,GCH Hill
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,MJ Waite
+info,player,Yorkshire,MD Fisher
+info,player,Yorkshire,LH Ferguson
+info,player,Birmingham Bears,EJ Pollock
+info,player,Birmingham Bears,AJ Hose
+info,player,Birmingham Bears,WMH Rhodes
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,MJ Lamb
+info,player,Birmingham Bears,CR Brathwaite
+info,player,Birmingham Bears,MGK Burgess
+info,player,Birmingham Bears,TT Bresnan
+info,player,Birmingham Bears,CN Miles
+info,player,Birmingham Bears,DR Briggs
+info,player,Birmingham Bears,JB Lintott
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,CN Miles,5fed6272
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,DM Bess,ad46c747
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GCH Hill,214f6461
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JB Lintott,e5218454
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MD Fisher,8f2dfebf
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MJ Lamb,463ebce3
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TT Bresnan,58043739
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WMH Rhodes,f54dbda7
+ball,1,0.1,Yorkshire,A Lyth,MD Stoneman,TT Bresnan,4,0,,,,,,"",""
+ball,1,0.2,Yorkshire,A Lyth,MD Stoneman,TT Bresnan,0,0,,,,,,"",""
+ball,1,0.3,Yorkshire,A Lyth,MD Stoneman,TT Bresnan,4,0,,,,,,"",""
+ball,1,0.4,Yorkshire,A Lyth,MD Stoneman,TT Bresnan,6,0,,,,,,"",""
+ball,1,0.5,Yorkshire,A Lyth,MD Stoneman,TT Bresnan,1,0,,,,,,"",""
+ball,1,0.6,Yorkshire,MD Stoneman,A Lyth,TT Bresnan,0,0,,,,,,"",""
+ball,1,1.1,Yorkshire,A Lyth,MD Stoneman,CR Brathwaite,0,0,,,,,,"",""
+ball,1,1.2,Yorkshire,A Lyth,MD Stoneman,CR Brathwaite,4,0,,,,,,"",""
+ball,1,1.3,Yorkshire,A Lyth,MD Stoneman,CR Brathwaite,0,0,,,,,,bowled,A Lyth
+ball,1,1.4,Yorkshire,JA Thompson,MD Stoneman,CR Brathwaite,1,0,,,,,,"",""
+ball,1,1.5,Yorkshire,MD Stoneman,JA Thompson,CR Brathwaite,0,0,,,,,,"",""
+ball,1,1.6,Yorkshire,MD Stoneman,JA Thompson,CR Brathwaite,0,0,,,,,,"",""
+ball,1,2.1,Yorkshire,JA Thompson,MD Stoneman,DR Briggs,2,0,,,,,,"",""
+ball,1,2.2,Yorkshire,JA Thompson,MD Stoneman,DR Briggs,1,0,,,,,,"",""
+ball,1,2.3,Yorkshire,MD Stoneman,JA Thompson,DR Briggs,0,0,,,,,,"",""
+ball,1,2.4,Yorkshire,MD Stoneman,JA Thompson,DR Briggs,0,0,,,,,,"",""
+ball,1,2.5,Yorkshire,MD Stoneman,JA Thompson,DR Briggs,0,0,,,,,,"",""
+ball,1,2.6,Yorkshire,MD Stoneman,JA Thompson,DR Briggs,0,0,,,,,,"",""
+ball,1,3.1,Yorkshire,JA Thompson,MD Stoneman,TT Bresnan,0,0,,,,,,caught,JA Thompson
+ball,1,3.2,Yorkshire,GS Ballance,MD Stoneman,TT Bresnan,0,0,,,,,,"",""
+ball,1,3.3,Yorkshire,GS Ballance,MD Stoneman,TT Bresnan,0,0,,,,,,"",""
+ball,1,3.4,Yorkshire,GS Ballance,MD Stoneman,TT Bresnan,0,1,1,,,,,"",""
+ball,1,3.5,Yorkshire,GS Ballance,MD Stoneman,TT Bresnan,4,0,,,,,,"",""
+ball,1,3.6,Yorkshire,GS Ballance,MD Stoneman,TT Bresnan,0,0,,,,,,"",""
+ball,1,3.7,Yorkshire,GS Ballance,MD Stoneman,TT Bresnan,1,0,,,,,,"",""
+ball,1,4.1,Yorkshire,GS Ballance,MD Stoneman,DR Briggs,1,0,,,,,,"",""
+ball,1,4.2,Yorkshire,MD Stoneman,GS Ballance,DR Briggs,1,0,,,,,,"",""
+ball,1,4.3,Yorkshire,GS Ballance,MD Stoneman,DR Briggs,1,0,,,,,,"",""
+ball,1,4.4,Yorkshire,MD Stoneman,GS Ballance,DR Briggs,1,0,,,,,,"",""
+ball,1,4.5,Yorkshire,GS Ballance,MD Stoneman,DR Briggs,1,0,,,,,,"",""
+ball,1,4.6,Yorkshire,MD Stoneman,GS Ballance,DR Briggs,1,0,,,,,,"",""
+ball,1,5.1,Yorkshire,MD Stoneman,GS Ballance,CR Brathwaite,1,0,,,,,,"",""
+ball,1,5.2,Yorkshire,GS Ballance,MD Stoneman,CR Brathwaite,0,0,,,,,,caught,GS Ballance
+ball,1,5.3,Yorkshire,MD Stoneman,HC Brook,CR Brathwaite,0,0,,,,,,"",""
+ball,1,5.4,Yorkshire,MD Stoneman,HC Brook,CR Brathwaite,0,0,,,,,,caught,MD Stoneman
+ball,1,5.5,Yorkshire,HC Brook,GCH Hill,CR Brathwaite,0,0,,,,,,"",""
+ball,1,5.6,Yorkshire,HC Brook,GCH Hill,CR Brathwaite,1,0,,,,,,"",""
+ball,1,6.1,Yorkshire,HC Brook,GCH Hill,DR Briggs,0,0,,,,,,"",""
+ball,1,6.2,Yorkshire,HC Brook,GCH Hill,DR Briggs,1,0,,,,,,"",""
+ball,1,6.3,Yorkshire,GCH Hill,HC Brook,DR Briggs,0,0,,,,,,"",""
+ball,1,6.4,Yorkshire,GCH Hill,HC Brook,DR Briggs,0,0,,,,,,caught,GCH Hill
+ball,1,6.5,Yorkshire,DM Bess,HC Brook,DR Briggs,0,0,,,,,,"",""
+ball,1,6.6,Yorkshire,DM Bess,HC Brook,DR Briggs,0,0,,,,,,"",""
+ball,1,7.1,Yorkshire,HC Brook,DM Bess,JB Lintott,1,0,,,,,,"",""
+ball,1,7.2,Yorkshire,DM Bess,HC Brook,JB Lintott,0,0,,,,,,"",""
+ball,1,7.3,Yorkshire,DM Bess,HC Brook,JB Lintott,0,0,,,,,,"",""
+ball,1,7.4,Yorkshire,DM Bess,HC Brook,JB Lintott,1,0,,,,,,"",""
+ball,1,7.5,Yorkshire,HC Brook,DM Bess,JB Lintott,1,0,,,,,,"",""
+ball,1,7.6,Yorkshire,DM Bess,HC Brook,JB Lintott,1,0,,,,,,"",""
+ball,1,8.1,Yorkshire,DM Bess,HC Brook,CN Miles,0,0,,,,,,caught,DM Bess
+ball,1,8.2,Yorkshire,HC Brook,JA Tattersall,CN Miles,1,0,,,,,,"",""
+ball,1,8.3,Yorkshire,JA Tattersall,HC Brook,CN Miles,1,0,,,,,,"",""
+ball,1,8.4,Yorkshire,HC Brook,JA Tattersall,CN Miles,1,0,,,,,,"",""
+ball,1,8.5,Yorkshire,JA Tattersall,HC Brook,CN Miles,0,0,,,,,,"",""
+ball,1,8.6,Yorkshire,JA Tattersall,HC Brook,CN Miles,0,0,,,,,,"",""
+ball,1,9.1,Yorkshire,HC Brook,JA Tattersall,JB Lintott,1,0,,,,,,"",""
+ball,1,9.2,Yorkshire,JA Tattersall,HC Brook,JB Lintott,1,0,,,,,,"",""
+ball,1,9.3,Yorkshire,HC Brook,JA Tattersall,JB Lintott,4,0,,,,,,"",""
+ball,1,9.4,Yorkshire,HC Brook,JA Tattersall,JB Lintott,1,0,,,,,,"",""
+ball,1,9.5,Yorkshire,JA Tattersall,HC Brook,JB Lintott,0,0,,,,,,stumped,JA Tattersall
+ball,1,9.6,Yorkshire,MJ Waite,HC Brook,JB Lintott,1,0,,,,,,"",""
+ball,1,10.1,Yorkshire,MJ Waite,HC Brook,CN Miles,0,0,,,,,,"",""
+ball,1,10.2,Yorkshire,MJ Waite,HC Brook,CN Miles,1,0,,,,,,"",""
+ball,1,10.3,Yorkshire,HC Brook,MJ Waite,CN Miles,1,0,,,,,,"",""
+ball,1,10.4,Yorkshire,MJ Waite,HC Brook,CN Miles,0,0,,,,,,"",""
+ball,1,10.5,Yorkshire,MJ Waite,HC Brook,CN Miles,0,0,,,,,,caught,MJ Waite
+ball,1,10.6,Yorkshire,MD Fisher,HC Brook,CN Miles,1,0,,,,,,"",""
+ball,1,11.1,Yorkshire,MD Fisher,HC Brook,JB Lintott,1,0,,,,,,"",""
+ball,1,11.2,Yorkshire,HC Brook,MD Fisher,JB Lintott,1,0,,,,,,"",""
+ball,1,11.3,Yorkshire,MD Fisher,HC Brook,JB Lintott,0,0,,,,,,"",""
+ball,1,11.4,Yorkshire,MD Fisher,HC Brook,JB Lintott,1,0,,,,,,"",""
+ball,1,11.5,Yorkshire,HC Brook,MD Fisher,JB Lintott,0,0,,,,,,"",""
+ball,1,11.6,Yorkshire,HC Brook,MD Fisher,JB Lintott,1,0,,,,,,"",""
+ball,1,12.1,Yorkshire,HC Brook,MD Fisher,CN Miles,0,0,,,,,,"",""
+ball,1,12.2,Yorkshire,HC Brook,MD Fisher,CN Miles,1,0,,,,,,"",""
+ball,1,12.3,Yorkshire,MD Fisher,HC Brook,CN Miles,0,0,,,,,,"",""
+ball,1,12.4,Yorkshire,MD Fisher,HC Brook,CN Miles,1,0,,,,,,"",""
+ball,1,12.5,Yorkshire,HC Brook,MD Fisher,CN Miles,2,0,,,,,,"",""
+ball,1,12.6,Yorkshire,HC Brook,MD Fisher,CN Miles,1,0,,,,,,"",""
+ball,1,13.1,Yorkshire,HC Brook,MD Fisher,JB Lintott,1,0,,,,,,"",""
+ball,1,13.2,Yorkshire,MD Fisher,HC Brook,JB Lintott,0,0,,,,,,"",""
+ball,1,13.3,Yorkshire,MD Fisher,HC Brook,JB Lintott,4,0,,,,,,"",""
+ball,1,13.4,Yorkshire,MD Fisher,HC Brook,JB Lintott,0,0,,,,,,"",""
+ball,1,13.5,Yorkshire,MD Fisher,HC Brook,JB Lintott,1,0,,,,,,"",""
+ball,1,13.6,Yorkshire,HC Brook,MD Fisher,JB Lintott,0,0,,,,,,"",""
+ball,1,14.1,Yorkshire,MD Fisher,HC Brook,CN Miles,0,0,,,,,,caught,MD Fisher
+ball,1,14.2,Yorkshire,HC Brook,LH Ferguson,CN Miles,1,0,,,,,,"",""
+ball,1,14.3,Yorkshire,LH Ferguson,HC Brook,CN Miles,0,0,,,,,,"",""
+ball,1,14.4,Yorkshire,LH Ferguson,HC Brook,CN Miles,0,0,,,,,,"",""
+ball,1,14.5,Yorkshire,LH Ferguson,HC Brook,CN Miles,1,0,,,,,,"",""
+ball,1,14.6,Yorkshire,HC Brook,LH Ferguson,CN Miles,6,0,,,,,,"",""
+ball,1,15.1,Yorkshire,LH Ferguson,HC Brook,DR Briggs,1,0,,,,,,"",""
+ball,1,15.2,Yorkshire,HC Brook,LH Ferguson,DR Briggs,1,0,,,,,,"",""
+ball,1,15.3,Yorkshire,LH Ferguson,HC Brook,DR Briggs,0,0,,,,,,"",""
+ball,1,15.4,Yorkshire,LH Ferguson,HC Brook,DR Briggs,0,0,,,,,,"",""
+ball,1,15.5,Yorkshire,LH Ferguson,HC Brook,DR Briggs,0,0,,,,,,stumped,LH Ferguson
+ball,2,0.1,Birmingham Bears,EJ Pollock,AJ Hose,MD Fisher,1,0,,,,,,"",""
+ball,2,0.2,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,0,0,,,,,,"",""
+ball,2,0.3,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,4,0,,,,,,"",""
+ball,2,0.4,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,4,0,,,,,,"",""
+ball,2,0.5,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,1,0,,,,,,"",""
+ball,2,0.6,Birmingham Bears,EJ Pollock,AJ Hose,MD Fisher,0,0,,,,,,"",""
+ball,2,1.1,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,0,0,,,,,,"",""
+ball,2,1.2,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,0,0,,,,,,"",""
+ball,2,1.3,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,0,2,,2,,,,"",""
+ball,2,1.4,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,4,0,,,,,,"",""
+ball,2,1.5,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,0,0,,,,,,"",""
+ball,2,1.6,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,0,0,,,,,,"",""
+ball,2,1.7,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,0,2,,2,,,,"",""
+ball,2,1.8,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,6,0,,,,,,"",""
+ball,2,2.1,Birmingham Bears,EJ Pollock,AJ Hose,MD Fisher,0,1,1,,,,,"",""
+ball,2,2.2,Birmingham Bears,EJ Pollock,AJ Hose,MD Fisher,0,0,,,,,,"",""
+ball,2,2.3,Birmingham Bears,EJ Pollock,AJ Hose,MD Fisher,0,0,,,,,,"",""
+ball,2,2.4,Birmingham Bears,EJ Pollock,AJ Hose,MD Fisher,4,0,,,,,,"",""
+ball,2,2.5,Birmingham Bears,EJ Pollock,AJ Hose,MD Fisher,1,0,,,,,,"",""
+ball,2,2.6,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,0,0,,,,,,"",""
+ball,2,2.7,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,0,0,,,,,,"",""
+ball,2,3.1,Birmingham Bears,EJ Pollock,AJ Hose,LH Ferguson,0,0,,,,,,"",""
+ball,2,3.2,Birmingham Bears,EJ Pollock,AJ Hose,LH Ferguson,0,0,,,,,,"",""
+ball,2,3.3,Birmingham Bears,EJ Pollock,AJ Hose,LH Ferguson,4,0,,,,,,"",""
+ball,2,3.4,Birmingham Bears,EJ Pollock,AJ Hose,LH Ferguson,1,0,,,,,,"",""
+ball,2,3.5,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,0,0,,,,,,"",""
+ball,2,3.6,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,1,0,,,,,,"",""
+ball,2,4.1,Birmingham Bears,AJ Hose,EJ Pollock,MJ Waite,4,0,,,,,,"",""
+ball,2,4.2,Birmingham Bears,AJ Hose,EJ Pollock,MJ Waite,4,0,,,,,,"",""
+ball,2,4.3,Birmingham Bears,AJ Hose,EJ Pollock,MJ Waite,4,0,,,,,,"",""
+ball,2,4.4,Birmingham Bears,AJ Hose,EJ Pollock,MJ Waite,0,0,,,,,,"",""
+ball,2,4.5,Birmingham Bears,AJ Hose,EJ Pollock,MJ Waite,0,0,,,,,,"",""
+ball,2,4.6,Birmingham Bears,AJ Hose,EJ Pollock,MJ Waite,0,0,,,,,,"",""
+ball,2,5.1,Birmingham Bears,EJ Pollock,AJ Hose,JA Thompson,4,0,,,,,,"",""
+ball,2,5.2,Birmingham Bears,EJ Pollock,AJ Hose,JA Thompson,6,0,,,,,,"",""
+ball,2,5.3,Birmingham Bears,EJ Pollock,AJ Hose,JA Thompson,4,0,,,,,,"",""
+ball,2,5.4,Birmingham Bears,EJ Pollock,AJ Hose,JA Thompson,0,0,,,,,,"",""
+ball,2,5.5,Birmingham Bears,EJ Pollock,AJ Hose,JA Thompson,0,0,,,,,,"",""
+ball,2,5.6,Birmingham Bears,EJ Pollock,AJ Hose,JA Thompson,0,0,,,,,,"",""
+ball,2,6.1,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,0,0,,,,,,"",""
+ball,2,6.2,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,1,0,,,,,,"",""
+ball,2,6.3,Birmingham Bears,EJ Pollock,AJ Hose,MD Fisher,2,0,,,,,,"",""
+ball,2,6.4,Birmingham Bears,EJ Pollock,AJ Hose,MD Fisher,1,0,,,,,,"",""
+ball,2,6.5,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,0,0,,,,,,"",""
+ball,2,6.6,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,0,2,,2,,,,"",""
+ball,2,6.7,Birmingham Bears,AJ Hose,EJ Pollock,MD Fisher,0,0,,,,,,"",""
+ball,2,7.1,Birmingham Bears,EJ Pollock,AJ Hose,DM Bess,1,0,,,,,,"",""
+ball,2,7.2,Birmingham Bears,AJ Hose,EJ Pollock,DM Bess,0,0,,,,,,"",""
+ball,2,7.3,Birmingham Bears,AJ Hose,EJ Pollock,DM Bess,1,0,,,,,,"",""
+ball,2,7.4,Birmingham Bears,EJ Pollock,AJ Hose,DM Bess,0,0,,,,,,"",""
+ball,2,7.5,Birmingham Bears,EJ Pollock,AJ Hose,DM Bess,1,0,,,,,,"",""
+ball,2,7.6,Birmingham Bears,AJ Hose,EJ Pollock,DM Bess,6,0,,,,,,"",""
+ball,2,8.1,Birmingham Bears,EJ Pollock,AJ Hose,LH Ferguson,2,0,,,,,,"",""
+ball,2,8.2,Birmingham Bears,EJ Pollock,AJ Hose,LH Ferguson,1,0,,,,,,"",""
+ball,2,8.3,Birmingham Bears,AJ Hose,EJ Pollock,LH Ferguson,6,0,,,,,,"",""

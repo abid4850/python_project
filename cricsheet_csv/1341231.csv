@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Auckland
+info,gender,female
+info,season,2022/23
+info,date,2022/12/29
+info,event,Women's Super Smash
+info,match_number,6
+info,venue,"John Davies Oval, Queenstown"
+info,city,Queenstown
+info,toss_winner,Otago
+info,toss_decision,bat
+info,umpire,Eloise Sheridan
+info,umpire,Kim Cotton
+info,reserve_umpire,JT Blunt
+info,tv_umpire,SB Haig
+info,match_referee,SRM Morris
+info,winner,Auckland
+info,winner_wickets,6
+info,player,Otago,SW Bates
+info,player,Otago,ON Gain
+info,player,Otago,PM Inglis
+info,player,Otago,KE Ebrahim
+info,player,Otago,CG Blakely
+info,player,Otago,FC Leydon-Davis
+info,player,Otago,IR James
+info,player,Otago,HNK Jensen
+info,player,Otago,EJ Black
+info,player,Otago,SA Oldershaw
+info,player,Otago,ME Loe
+info,player,Auckland,S Shahri
+info,player,Auckland,AS Browning
+info,player,Auckland,LR Down
+info,player,Auckland,IC Gaze
+info,player,Auckland,BG Armstrong
+info,player,Auckland,KT Perkins
+info,player,Auckland,SE Bowden
+info,player,Auckland,AN Kelly
+info,player,Auckland,AT Hucker
+info,player,Auckland,MM Penfold
+info,player,Auckland,FC Jonas
+info,registry,people,AN Kelly,397369e0
+info,registry,people,AS Browning,c4c97b51
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,BG Armstrong,eca08a1d
+info,registry,people,CG Blakely,8f999ed5
+info,registry,people,EJ Black,2817e17a
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,FC Leydon-Davis,b91efad5
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,IR James,57bdbc16
+info,registry,people,JT Blunt,2fe9a247
+info,registry,people,KE Ebrahim,7c0055c1
+info,registry,people,KT Perkins,78ad3258
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LR Down,19147fe0
+info,registry,people,ME Loe,37f93dc8
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,ON Gain,67913804
+info,registry,people,PM Inglis,e4a71d18
+info,registry,people,S Shahri,c28355cd
+info,registry,people,SA Oldershaw,93b4f6f6
+info,registry,people,SB Haig,811655b3
+info,registry,people,SE Bowden,e2a71375
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,SW Bates,89bbc67a
+ball,1,0.1,Otago,SW Bates,ON Gain,AN Kelly,2,0,,,,,,"",""
+ball,1,0.2,Otago,SW Bates,ON Gain,AN Kelly,0,0,,,,,,"",""
+ball,1,0.3,Otago,SW Bates,ON Gain,AN Kelly,0,0,,,,,,"",""
+ball,1,0.4,Otago,SW Bates,ON Gain,AN Kelly,0,0,,,,,,"",""
+ball,1,0.5,Otago,SW Bates,ON Gain,AN Kelly,0,1,1,,,,,"",""
+ball,1,0.6,Otago,SW Bates,ON Gain,AN Kelly,0,0,,,,,,"",""
+ball,1,0.7,Otago,SW Bates,ON Gain,AN Kelly,1,0,,,,,,"",""
+ball,1,1.1,Otago,SW Bates,ON Gain,FC Jonas,0,0,,,,,,"",""
+ball,1,1.2,Otago,SW Bates,ON Gain,FC Jonas,1,0,,,,,,"",""
+ball,1,1.3,Otago,ON Gain,SW Bates,FC Jonas,0,0,,,,,,lbw,ON Gain
+ball,1,1.4,Otago,PM Inglis,SW Bates,FC Jonas,4,0,,,,,,"",""
+ball,1,1.5,Otago,PM Inglis,SW Bates,FC Jonas,0,0,,,,,,"",""
+ball,1,1.6,Otago,PM Inglis,SW Bates,FC Jonas,0,0,,,,,,"",""
+ball,1,2.1,Otago,SW Bates,PM Inglis,AN Kelly,4,0,,,,,,"",""
+ball,1,2.2,Otago,SW Bates,PM Inglis,AN Kelly,1,0,,,,,,"",""
+ball,1,2.3,Otago,PM Inglis,SW Bates,AN Kelly,0,0,,,,,,"",""
+ball,1,2.4,Otago,PM Inglis,SW Bates,AN Kelly,0,0,,,,,,"",""
+ball,1,2.5,Otago,PM Inglis,SW Bates,AN Kelly,0,0,,,,,,"",""
+ball,1,2.6,Otago,PM Inglis,SW Bates,AN Kelly,0,0,,,,,,"",""
+ball,1,3.1,Otago,SW Bates,PM Inglis,AT Hucker,0,0,,,,,,"",""
+ball,1,3.2,Otago,SW Bates,PM Inglis,AT Hucker,0,1,1,,,,,"",""
+ball,1,3.3,Otago,SW Bates,PM Inglis,AT Hucker,0,1,1,,,,,"",""
+ball,1,3.4,Otago,SW Bates,PM Inglis,AT Hucker,0,0,,,,,,"",""
+ball,1,3.5,Otago,SW Bates,PM Inglis,AT Hucker,1,0,,,,,,"",""
+ball,1,3.6,Otago,PM Inglis,SW Bates,AT Hucker,0,0,,,,,,"",""
+ball,1,3.7,Otago,PM Inglis,SW Bates,AT Hucker,1,0,,,,,,"",""
+ball,1,3.8,Otago,SW Bates,PM Inglis,AT Hucker,0,0,,,,,,hit wicket,SW Bates
+ball,1,4.1,Otago,PM Inglis,KE Ebrahim,AN Kelly,0,0,,,,,,"",""
+ball,1,4.2,Otago,PM Inglis,KE Ebrahim,AN Kelly,0,0,,,,,,"",""
+ball,1,4.3,Otago,PM Inglis,KE Ebrahim,AN Kelly,0,0,,,,,,"",""
+ball,1,4.4,Otago,PM Inglis,KE Ebrahim,AN Kelly,1,0,,,,,,"",""
+ball,1,4.5,Otago,KE Ebrahim,PM Inglis,AN Kelly,0,0,,,,,,"",""
+ball,1,4.6,Otago,KE Ebrahim,PM Inglis,AN Kelly,0,0,,,,,,"",""
+ball,1,5.1,Otago,PM Inglis,KE Ebrahim,FC Jonas,1,0,,,,,,"",""
+ball,1,5.2,Otago,KE Ebrahim,PM Inglis,FC Jonas,0,0,,,,,,"",""
+ball,1,5.3,Otago,KE Ebrahim,PM Inglis,FC Jonas,0,0,,,,,,"",""
+ball,1,5.4,Otago,KE Ebrahim,PM Inglis,FC Jonas,4,0,,,,,,"",""
+ball,1,5.5,Otago,KE Ebrahim,PM Inglis,FC Jonas,1,0,,,,,,"",""
+ball,1,5.6,Otago,PM Inglis,KE Ebrahim,FC Jonas,2,0,,,,,,"",""
+ball,1,6.1,Otago,KE Ebrahim,PM Inglis,AS Browning,1,0,,,,,,"",""
+ball,1,6.2,Otago,PM Inglis,KE Ebrahim,AS Browning,2,0,,,,,,"",""
+ball,1,6.3,Otago,PM Inglis,KE Ebrahim,AS Browning,2,0,,,,,,"",""
+ball,1,6.4,Otago,PM Inglis,KE Ebrahim,AS Browning,1,0,,,,,,"",""
+ball,1,6.5,Otago,KE Ebrahim,PM Inglis,AS Browning,1,0,,,,,,"",""
+ball,1,6.6,Otago,PM Inglis,KE Ebrahim,AS Browning,0,0,,,,,,"",""
+ball,1,7.1,Otago,KE Ebrahim,PM Inglis,MM Penfold,0,0,,,,,,"",""
+ball,1,7.2,Otago,KE Ebrahim,PM Inglis,MM Penfold,1,0,,,,,,"",""
+ball,1,7.3,Otago,PM Inglis,KE Ebrahim,MM Penfold,1,0,,,,,,"",""
+ball,1,7.4,Otago,KE Ebrahim,PM Inglis,MM Penfold,0,1,1,,,,,"",""
+ball,1,7.5,Otago,KE Ebrahim,PM Inglis,MM Penfold,1,0,,,,,,"",""
+ball,1,7.6,Otago,PM Inglis,KE Ebrahim,MM Penfold,1,0,,,,,,"",""
+ball,1,7.7,Otago,KE Ebrahim,PM Inglis,MM Penfold,1,0,,,,,,"",""
+ball,1,8.1,Otago,KE Ebrahim,PM Inglis,AS Browning,0,0,,,,,,"",""
+ball,1,8.2,Otago,KE Ebrahim,PM Inglis,AS Browning,1,0,,,,,,"",""
+ball,1,8.3,Otago,PM Inglis,KE Ebrahim,AS Browning,1,0,,,,,,"",""
+ball,1,8.4,Otago,KE Ebrahim,PM Inglis,AS Browning,1,0,,,,,,"",""
+ball,1,8.5,Otago,PM Inglis,KE Ebrahim,AS Browning,1,0,,,,,,"",""
+ball,1,8.6,Otago,KE Ebrahim,PM Inglis,AS Browning,0,0,,,,,,"",""
+ball,1,9.1,Otago,PM Inglis,KE Ebrahim,MM Penfold,0,0,,,,,,"",""
+ball,1,9.2,Otago,PM Inglis,KE Ebrahim,MM Penfold,1,0,,,,,,"",""
+ball,1,9.3,Otago,KE Ebrahim,PM Inglis,MM Penfold,1,0,,,,,,"",""
+ball,1,9.4,Otago,PM Inglis,KE Ebrahim,MM Penfold,0,0,,,,,,"",""
+ball,1,9.5,Otago,PM Inglis,KE Ebrahim,MM Penfold,4,0,,,,,,"",""
+ball,1,9.6,Otago,PM Inglis,KE Ebrahim,MM Penfold,1,0,,,,,,"",""
+ball,1,10.1,Otago,PM Inglis,KE Ebrahim,BG Armstrong,2,0,,,,,,"",""
+ball,1,10.2,Otago,PM Inglis,KE Ebrahim,BG Armstrong,1,0,,,,,,"",""
+ball,1,10.3,Otago,KE Ebrahim,PM Inglis,BG Armstrong,0,0,,,,,,"",""
+ball,1,10.4,Otago,KE Ebrahim,PM Inglis,BG Armstrong,1,0,,,,,,"",""
+ball,1,10.5,Otago,PM Inglis,KE Ebrahim,BG Armstrong,0,3,3,,,,,"",""
+ball,1,10.6,Otago,PM Inglis,KE Ebrahim,BG Armstrong,1,0,,,,,,"",""
+ball,1,10.7,Otago,KE Ebrahim,PM Inglis,BG Armstrong,2,0,,,,,,"",""
+ball,1,11.1,Otago,PM Inglis,KE Ebrahim,AT Hucker,1,0,,,,,,"",""
+ball,1,11.2,Otago,KE Ebrahim,PM Inglis,AT Hucker,6,0,,,,,,"",""
+ball,1,11.3,Otago,KE Ebrahim,PM Inglis,AT Hucker,4,0,,,,,,"",""
+ball,1,11.4,Otago,KE Ebrahim,PM Inglis,AT Hucker,0,0,,,,,,"",""
+ball,1,11.5,Otago,KE Ebrahim,PM Inglis,AT Hucker,0,0,,,,,,"",""
+ball,1,11.6,Otago,KE Ebrahim,PM Inglis,AT Hucker,1,0,,,,,,"",""
+ball,1,12.1,Otago,KE Ebrahim,PM Inglis,AS Browning,2,0,,,,,,"",""
+ball,1,12.2,Otago,KE Ebrahim,PM Inglis,AS Browning,1,0,,,,,,"",""
+ball,1,12.3,Otago,PM Inglis,KE Ebrahim,AS Browning,0,0,,,,,,"",""
+ball,1,12.4,Otago,PM Inglis,KE Ebrahim,AS Browning,0,0,,,,,,caught,PM Inglis
+ball,1,12.5,Otago,CG Blakely,KE Ebrahim,AS Browning,2,0,,,,,,"",""
+ball,1,12.6,Otago,CG Blakely,KE Ebrahim,AS Browning,2,0,,,,,,"",""
+ball,1,13.1,Otago,KE Ebrahim,CG Blakely,MM Penfold,2,0,,,,,,"",""
+ball,1,13.2,Otago,KE Ebrahim,CG Blakely,MM Penfold,0,0,,,,,,"",""
+ball,1,13.3,Otago,KE Ebrahim,CG Blakely,MM Penfold,2,0,,,,,,"",""
+ball,1,13.4,Otago,KE Ebrahim,CG Blakely,MM Penfold,0,0,,,,,,"",""
+ball,1,13.5,Otago,KE Ebrahim,CG Blakely,MM Penfold,1,0,,,,,,"",""
+ball,1,13.6,Otago,CG Blakely,KE Ebrahim,MM Penfold,1,0,,,,,,"",""
+ball,1,14.1,Otago,CG Blakely,KE Ebrahim,FC Jonas,1,0,,,,,,"",""
+ball,1,14.2,Otago,KE Ebrahim,CG Blakely,FC Jonas,2,0,,,,,,"",""
+ball,1,14.3,Otago,KE Ebrahim,CG Blakely,FC Jonas,1,0,,,,,,"",""
+ball,1,14.4,Otago,CG Blakely,KE Ebrahim,FC Jonas,4,0,,,,,,"",""
+ball,1,14.5,Otago,CG Blakely,KE Ebrahim,FC Jonas,1,0,,,,,,"",""
+ball,1,14.6,Otago,KE Ebrahim,CG Blakely,FC Jonas,0,1,,,,1,,"",""
+ball,1,15.1,Otago,KE Ebrahim,CG Blakely,MM Penfold,1,0,,,,,,"",""
+ball,1,15.2,Otago,CG Blakely,KE Ebrahim,MM Penfold,1,0,,,,,,"",""
+ball,1,15.3,Otago,KE Ebrahim,CG Blakely,MM Penfold,1,0,,,,,,"",""
+ball,1,15.4,Otago,CG Blakely,KE Ebrahim,MM Penfold,0,1,,1,,,,"",""
+ball,1,15.5,Otago,CG Blakely,KE Ebrahim,MM Penfold,2,0,,,,,,"",""
+ball,1,15.6,Otago,CG Blakely,KE Ebrahim,MM Penfold,0,0,,,,,,"",""
+ball,1,15.7,Otago,CG Blakely,KE Ebrahim,MM Penfold,0,0,,,,,,"",""
+ball,1,16.1,Otago,KE Ebrahim,CG Blakely,FC Jonas,0,0,,,,,,"",""
+ball,1,16.2,Otago,KE Ebrahim,CG Blakely,FC Jonas,0,0,,,,,,bowled,KE Ebrahim
+ball,1,16.3,Otago,FC Leydon-Davis,CG Blakely,FC Jonas,1,0,,,,,,"",""
+ball,1,16.4,Otago,CG Blakely,FC Leydon-Davis,FC Jonas,4,0,,,,,,"",""
+ball,1,16.5,Otago,CG Blakely,FC Leydon-Davis,FC Jonas,1,0,,,,,,"",""
+ball,1,16.6,Otago,FC Leydon-Davis,CG Blakely,FC Jonas,1,0,,,,,,"",""
+ball,1,17.1,Otago,FC Leydon-Davis,CG Blakely,AT Hucker,1,0,,,,,,"",""
+ball,1,17.2,Otago,CG Blakely,FC Leydon-Davis,AT Hucker,1,0,,,,,,"",""
+ball,1,17.3,Otago,FC Leydon-Davis,CG Blakely,AT Hucker,1,0,,,,,,"",""
+ball,1,17.4,Otago,CG Blakely,FC Leydon-Davis,AT Hucker,2,0,,,,,,"",""
+ball,1,17.5,Otago,CG Blakely,FC Leydon-Davis,AT Hucker,1,0,,,,,,"",""
+ball,1,17.6,Otago,FC Leydon-Davis,CG Blakely,AT Hucker,2,0,,,,,,"",""
+ball,1,18.1,Otago,CG Blakely,FC Leydon-Davis,AN Kelly,1,0,,,,,,"",""
+ball,1,18.2,Otago,FC Leydon-Davis,CG Blakely,AN Kelly,0,1,1,,,,,"",""
+ball,1,18.3,Otago,FC Leydon-Davis,CG Blakely,AN Kelly,1,0,,,,,,"",""
+ball,1,18.4,Otago,CG Blakely,FC Leydon-Davis,AN Kelly,1,0,,,,,,"",""
+ball,1,18.5,Otago,FC Leydon-Davis,CG Blakely,AN Kelly,0,0,,,,,,caught,FC Leydon-Davis
+ball,1,18.6,Otago,IR James,CG Blakely,AN Kelly,0,0,,,,,,caught,IR James
+ball,1,18.7,Otago,HNK Jensen,CG Blakely,AN Kelly,1,0,,,,,,run out,CG Blakely
+ball,1,19.1,Otago,EJ Black,HNK Jensen,AT Hucker,1,0,,,,,,"",""
+ball,1,19.2,Otago,HNK Jensen,EJ Black,AT Hucker,0,0,,,,,,"",""
+ball,1,19.3,Otago,HNK Jensen,EJ Black,AT Hucker,1,0,,,,,,"",""
+ball,1,19.4,Otago,EJ Black,HNK Jensen,AT Hucker,4,0,,,,,,"",""
+ball,1,19.5,Otago,EJ Black,HNK Jensen,AT Hucker,0,1,,,1,,,"",""
+ball,1,19.6,Otago,HNK Jensen,EJ Black,AT Hucker,0,1,,,1,,,"",""
+ball,2,0.1,Auckland,S Shahri,AS Browning,EJ Black,0,0,,,,,,"",""
+ball,2,0.2,Auckland,S Shahri,AS Browning,EJ Black,0,0,,,,,,"",""
+ball,2,0.3,Auckland,S Shahri,AS Browning,EJ Black,0,0,,,,,,"",""
+ball,2,0.4,Auckland,S Shahri,AS Browning,EJ Black,0,0,,,,,,"",""
+ball,2,0.5,Auckland,S Shahri,AS Browning,EJ Black,0,0,,,,,,"",""
+ball,2,0.6,Auckland,S Shahri,AS Browning,EJ Black,4,0,,,,,,"",""
+ball,2,1.1,Auckland,AS Browning,S Shahri,HNK Jensen,2,0,,,,,,"",""
+ball,2,1.2,Auckland,AS Browning,S Shahri,HNK Jensen,4,0,,,,,,"",""
+ball,2,1.3,Auckland,AS Browning,S Shahri,HNK Jensen,0,0,,,,,,"",""
+ball,2,1.4,Auckland,AS Browning,S Shahri,HNK Jensen,4,0,,,,,,"",""
+ball,2,1.5,Auckland,AS Browning,S Shahri,HNK Jensen,0,0,,,,,,"",""
+ball,2,1.6,Auckland,AS Browning,S Shahri,HNK Jensen,0,0,,,,,,"",""
+ball,2,2.1,Auckland,S Shahri,AS Browning,EJ Black,1,0,,,,,,"",""
+ball,2,2.2,Auckland,AS Browning,S Shahri,EJ Black,4,0,,,,,,"",""
+ball,2,2.3,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,2.4,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,2.5,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,2.6,Auckland,AS Browning,S Shahri,EJ Black,1,0,,,,,,"",""
+ball,2,3.1,Auckland,AS Browning,S Shahri,SW Bates,0,0,,,,,,"",""
+ball,2,3.2,Auckland,AS Browning,S Shahri,SW Bates,0,0,,,,,,"",""
+ball,2,3.3,Auckland,AS Browning,S Shahri,SW Bates,0,0,,,,,,"",""
+ball,2,3.4,Auckland,AS Browning,S Shahri,SW Bates,2,0,,,,,,"",""
+ball,2,3.5,Auckland,AS Browning,S Shahri,SW Bates,1,0,,,,,,"",""
+ball,2,3.6,Auckland,S Shahri,AS Browning,SW Bates,0,1,1,,,,,"",""
+ball,2,3.7,Auckland,S Shahri,AS Browning,SW Bates,0,0,,,,,,"",""
+ball,2,4.1,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,4.2,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,4.3,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,4.4,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,4.5,Auckland,AS Browning,S Shahri,EJ Black,0,0,,,,,,"",""
+ball,2,4.6,Auckland,AS Browning,S Shahri,EJ Black,1,0,,,,,,"",""
+ball,2,5.1,Auckland,AS Browning,S Shahri,HNK Jensen,1,0,,,,,,"",""
+ball,2,5.2,Auckland,S Shahri,AS Browning,HNK Jensen,0,0,,,,,,"",""
+ball,2,5.3,Auckland,S Shahri,AS Browning,HNK Jensen,0,0,,,,,,caught,S Shahri
+ball,2,5.4,Auckland,LR Down,AS Browning,HNK Jensen,0,0,,,,,,"",""
+ball,2,5.5,Auckland,LR Down,AS Browning,HNK Jensen,0,0,,,,,,"",""
+ball,2,5.6,Auckland,LR Down,AS Browning,HNK Jensen,0,0,,,,,,"",""
+ball,2,6.1,Auckland,AS Browning,LR Down,SW Bates,1,0,,,,,,"",""
+ball,2,6.2,Auckland,LR Down,AS Browning,SW Bates,0,0,,,,,,"",""
+ball,2,6.3,Auckland,LR Down,AS Browning,SW Bates,1,0,,,,,,"",""
+ball,2,6.4,Auckland,AS Browning,LR Down,SW Bates,0,0,,,,,,"",""
+ball,2,6.5,Auckland,AS Browning,LR Down,SW Bates,1,0,,,,,,"",""
+ball,2,6.6,Auckland,LR Down,AS Browning,SW Bates,1,0,,,,,,"",""
+ball,2,7.1,Auckland,LR Down,AS Browning,SA Oldershaw,0,0,,,,,,"",""
+ball,2,7.2,Auckland,LR Down,AS Browning,SA Oldershaw,1,0,,,,,,"",""
+ball,2,7.3,Auckland,AS Browning,LR Down,SA Oldershaw,1,0,,,,,,"",""
+ball,2,7.4,Auckland,LR Down,AS Browning,SA Oldershaw,1,0,,,,,,"",""
+ball,2,7.5,Auckland,AS Browning,LR Down,SA Oldershaw,2,0,,,,,,"",""
+ball,2,7.6,Auckland,AS Browning,LR Down,SA Oldershaw,1,0,,,,,,"",""
+ball,2,8.1,Auckland,AS Browning,LR Down,KE Ebrahim,1,0,,,,,,"",""
+ball,2,8.2,Auckland,LR Down,AS Browning,KE Ebrahim,1,0,,,,,,"",""
+ball,2,8.3,Auckland,AS Browning,LR Down,KE Ebrahim,1,0,,,,,,"",""
+ball,2,8.4,Auckland,LR Down,AS Browning,KE Ebrahim,0,1,1,,,,,"",""
+ball,2,8.5,Auckland,LR Down,AS Browning,KE Ebrahim,0,1,,,,1,,"",""
+ball,2,8.6,Auckland,AS Browning,LR Down,KE Ebrahim,1,0,,,,,,"",""
+ball,2,8.7,Auckland,LR Down,AS Browning,KE Ebrahim,1,0,,,,,,"",""
+ball,2,9.1,Auckland,LR Down,AS Browning,SA Oldershaw,1,0,,,,,,"",""
+ball,2,9.2,Auckland,AS Browning,LR Down,SA Oldershaw,1,0,,,,,,"",""
+ball,2,9.3,Auckland,LR Down,AS Browning,SA Oldershaw,1,0,,,,,,"",""
+ball,2,9.4,Auckland,AS Browning,LR Down,SA Oldershaw,4,0,,,,,,"",""
+ball,2,9.5,Auckland,AS Browning,LR Down,SA Oldershaw,0,0,,,,,,"",""
+ball,2,9.6,Auckland,AS Browning,LR Down,SA Oldershaw,1,0,,,,,,"",""
+ball,2,10.1,Auckland,AS Browning,LR Down,KE Ebrahim,2,0,,,,,,"",""
+ball,2,10.2,Auckland,AS Browning,LR Down,KE Ebrahim,0,0,,,,,,"",""
+ball,2,10.3,Auckland,AS Browning,LR Down,KE Ebrahim,1,0,,,,,,"",""
+ball,2,10.4,Auckland,LR Down,AS Browning,KE Ebrahim,0,2,2,,,,,"",""
+ball,2,10.5,Auckland,AS Browning,LR Down,KE Ebrahim,2,0,,,,,,"",""
+ball,2,10.6,Auckland,AS Browning,LR Down,KE Ebrahim,0,0,,,,,,"",""
+ball,2,10.7,Auckland,AS Browning,LR Down,KE Ebrahim,2,0,,,,,,"",""
+ball,2,11.1,Auckland,LR Down,AS Browning,CG Blakely,1,0,,,,,,"",""
+ball,2,11.2,Auckland,AS Browning,LR Down,CG Blakely,0,0,,,,,,caught and bowled,AS Browning
+ball,2,11.3,Auckland,IC Gaze,LR Down,CG Blakely,0,0,,,,,,"",""
+ball,2,11.4,Auckland,IC Gaze,LR Down,CG Blakely,1,0,,,,,,"",""
+ball,2,11.5,Auckland,LR Down,IC Gaze,CG Blakely,1,0,,,,,,"",""
+ball,2,11.6,Auckland,IC Gaze,LR Down,CG Blakely,1,0,,,,,,"",""
+ball,2,12.1,Auckland,IC Gaze,LR Down,SW Bates,1,0,,,,,,"",""
+ball,2,12.2,Auckland,LR Down,IC Gaze,SW Bates,1,0,,,,,,"",""
+ball,2,12.3,Auckland,IC Gaze,LR Down,SW Bates,0,0,,,,,,"",""
+ball,2,12.4,Auckland,IC Gaze,LR Down,SW Bates,1,0,,,,,,"",""
+ball,2,12.5,Auckland,LR Down,IC Gaze,SW Bates,1,0,,,,,,"",""
+ball,2,12.6,Auckland,IC Gaze,LR Down,SW Bates,1,0,,,,,,"",""
+ball,2,13.1,Auckland,IC Gaze,LR Down,SA Oldershaw,4,0,,,,,,"",""
+ball,2,13.2,Auckland,IC Gaze,LR Down,SA Oldershaw,2,0,,,,,,"",""
+ball,2,13.3,Auckland,IC Gaze,LR Down,SA Oldershaw,0,0,,,,,,"",""
+ball,2,13.4,Auckland,IC Gaze,LR Down,SA Oldershaw,1,0,,,,,,"",""
+ball,2,13.5,Auckland,LR Down,IC Gaze,SA Oldershaw,6,0,,,,,,"",""
+ball,2,13.6,Auckland,LR Down,IC Gaze,SA Oldershaw,1,0,,,,,,"",""
+ball,2,14.1,Auckland,LR Down,IC Gaze,KE Ebrahim,1,0,,,,,,"",""
+ball,2,14.2,Auckland,IC Gaze,LR Down,KE Ebrahim,4,0,,,,,,"",""
+ball,2,14.3,Auckland,IC Gaze,LR Down,KE Ebrahim,1,0,,,,,,"",""
+ball,2,14.4,Auckland,LR Down,IC Gaze,KE Ebrahim,1,0,,,,,,"",""
+ball,2,14.5,Auckland,IC Gaze,LR Down,KE Ebrahim,2,0,,,,,,"",""
+ball,2,14.6,Auckland,IC Gaze,LR Down,KE Ebrahim,1,0,,,,,,"",""
+ball,2,15.1,Auckland,IC Gaze,LR Down,HNK Jensen,0,0,,,,,,"",""
+ball,2,15.2,Auckland,IC Gaze,LR Down,HNK Jensen,1,0,,,,,,"",""
+ball,2,15.3,Auckland,LR Down,IC Gaze,HNK Jensen,4,0,,,,,,"",""
+ball,2,15.4,Auckland,LR Down,IC Gaze,HNK Jensen,1,0,,,,,,"",""
+ball,2,15.5,Auckland,IC Gaze,LR Down,HNK Jensen,0,0,,,,,,"",""
+ball,2,15.6,Auckland,IC Gaze,LR Down,HNK Jensen,1,0,,,,,,"",""
+ball,2,16.1,Auckland,IC Gaze,LR Down,EJ Black,2,0,,,,,,"",""
+ball,2,16.2,Auckland,IC Gaze,LR Down,EJ Black,0,1,,,1,,,"",""
+ball,2,16.3,Auckland,LR Down,IC Gaze,EJ Black,1,0,,,,,,"",""
+ball,2,16.4,Auckland,IC Gaze,LR Down,EJ Black,1,0,,,,,,"",""
+ball,2,16.5,Auckland,LR Down,IC Gaze,EJ Black,4,0,,,,,,"",""
+ball,2,16.6,Auckland,LR Down,IC Gaze,EJ Black,4,0,,,,,,"",""
+ball,2,17.1,Auckland,IC Gaze,LR Down,SW Bates,0,1,,,,1,,"",""
+ball,2,17.2,Auckland,LR Down,IC Gaze,SW Bates,1,0,,,,,,"",""
+ball,2,17.3,Auckland,IC Gaze,LR Down,SW Bates,1,0,,,,,,"",""
+ball,2,17.4,Auckland,LR Down,IC Gaze,SW Bates,4,0,,,,,,"",""
+ball,2,17.5,Auckland,LR Down,IC Gaze,SW Bates,1,0,,,,,,"",""
+ball,2,17.6,Auckland,IC Gaze,LR Down,SW Bates,0,0,,,,,,lbw,IC Gaze
+ball,2,18.1,Auckland,LR Down,BG Armstrong,KE Ebrahim,0,1,1,,,,,"",""
+ball,2,18.2,Auckland,LR Down,BG Armstrong,KE Ebrahim,0,1,1,,,,,"",""
+ball,2,18.3,Auckland,LR Down,BG Armstrong,KE Ebrahim,1,0,,,,,,"",""
+ball,2,18.4,Auckland,BG Armstrong,LR Down,KE Ebrahim,0,1,,,,1,,"",""
+ball,2,18.5,Auckland,LR Down,BG Armstrong,KE Ebrahim,1,0,,,,,,"",""
+ball,2,18.6,Auckland,BG Armstrong,LR Down,KE Ebrahim,0,0,,,,,,lbw,BG Armstrong
+ball,2,18.7,Auckland,KT Perkins,LR Down,KE Ebrahim,1,0,,,,,,"",""
+ball,2,18.8,Auckland,LR Down,KT Perkins,KE Ebrahim,0,0,,,,,,"",""
+ball,2,19.1,Auckland,KT Perkins,LR Down,HNK Jensen,1,0,,,,,,"",""
+ball,2,19.2,Auckland,LR Down,KT Perkins,HNK Jensen,1,0,,,,,,"",""
+ball,2,19.3,Auckland,KT Perkins,LR Down,HNK Jensen,4,0,,,,,,"",""

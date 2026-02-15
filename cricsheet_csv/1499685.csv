@@ -1,0 +1,290 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Northern Districts
+info,gender,female
+info,season,2025/26
+info,date,2026/01/22
+info,event,Women's Super Smash
+info,match_number,26
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,CM Brown
+info,umpire,JD Birchall
+info,reserve_umpire,BF Bowden
+info,tv_umpire,WR Knights
+info,winner,Northern Districts
+info,winner_wickets,1
+info,player,Auckland,P Catton
+info,player,Auckland,IC Gaze
+info,player,Auckland,ML Green
+info,player,Auckland,BM Halliday
+info,player,Auckland,LR Down
+info,player,Auckland,BG Armstrong
+info,player,Auckland,JO Penfold
+info,player,Auckland,A Lambat
+info,player,Auckland,AT Hucker
+info,player,Auckland,MM Penfold
+info,player,Auckland,BG Illing
+info,player,Northern Districts,JM Watkin
+info,player,Northern Districts,T Wakelin
+info,player,Northern Districts,E Wolland
+info,player,Northern Districts,CA Gurrey
+info,player,Northern Districts,NH Patel
+info,player,Northern Districts,MBA Lamplough
+info,player,Northern Districts,HE Topp
+info,player,Northern Districts,C Agafili
+info,player,Northern Districts,KA Knight
+info,player,Northern Districts,SE Bowden
+info,player,Northern Districts,MW Downes
+info,registry,people,A Lambat,5978fc2a
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Armstrong,eca08a1d
+info,registry,people,BG Illing,80a0cd77
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,C Agafili,b9bb76c8
+info,registry,people,CA Gurrey,1e579ad5
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,E Wolland,415c9efb
+info,registry,people,HE Topp,d9b3ff0a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JD Birchall,6ac472fb
+info,registry,people,JM Watkin,7239a365
+info,registry,people,JO Penfold,321ea9e8
+info,registry,people,KA Knight,4291f081
+info,registry,people,LR Down,19147fe0
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,MW Downes,d8e8179f
+info,registry,people,NH Patel,d945db3e
+info,registry,people,P Catton,22e8ba50
+info,registry,people,SE Bowden,e2a71375
+info,registry,people,T Wakelin,9585d793
+info,registry,people,WR Knights,63cbf8d8
+ball,1,0.1,Auckland,P Catton,IC Gaze,MW Downes,0,0,,,,,,"",""
+ball,1,0.2,Auckland,P Catton,IC Gaze,MW Downes,0,0,,,,,,"",""
+ball,1,0.3,Auckland,P Catton,IC Gaze,MW Downes,1,0,,,,,,"",""
+ball,1,0.4,Auckland,IC Gaze,P Catton,MW Downes,0,0,,,,,,"",""
+ball,1,0.5,Auckland,IC Gaze,P Catton,MW Downes,1,0,,,,,,"",""
+ball,1,0.6,Auckland,P Catton,IC Gaze,MW Downes,0,0,,,,,,"",""
+ball,1,1.1,Auckland,IC Gaze,P Catton,JM Watkin,1,0,,,,,,"",""
+ball,1,1.2,Auckland,P Catton,IC Gaze,JM Watkin,0,0,,,,,,"",""
+ball,1,1.3,Auckland,P Catton,IC Gaze,JM Watkin,0,0,,,,,,"",""
+ball,1,1.4,Auckland,P Catton,IC Gaze,JM Watkin,0,0,,,,,,"",""
+ball,1,1.5,Auckland,P Catton,IC Gaze,JM Watkin,0,0,,,,,,caught,P Catton
+ball,1,1.6,Auckland,ML Green,IC Gaze,JM Watkin,1,0,,,,,,"",""
+ball,1,2.1,Auckland,ML Green,IC Gaze,MW Downes,1,0,,,,,,"",""
+ball,1,2.2,Auckland,IC Gaze,ML Green,MW Downes,0,0,,,,,,"",""
+ball,1,2.3,Auckland,IC Gaze,ML Green,MW Downes,0,0,,,,,,"",""
+ball,1,2.4,Auckland,IC Gaze,ML Green,MW Downes,4,0,,,,,,"",""
+ball,1,2.5,Auckland,IC Gaze,ML Green,MW Downes,0,0,,,,,,"",""
+ball,1,2.6,Auckland,IC Gaze,ML Green,MW Downes,0,0,,,,,,"",""
+ball,1,3.1,Auckland,ML Green,IC Gaze,KA Knight,1,0,,,,,,"",""
+ball,1,3.2,Auckland,IC Gaze,ML Green,KA Knight,0,0,,,,,,"",""
+ball,1,3.3,Auckland,IC Gaze,ML Green,KA Knight,1,0,,,,,,"",""
+ball,1,3.4,Auckland,ML Green,IC Gaze,KA Knight,1,0,,,,,,"",""
+ball,1,3.5,Auckland,IC Gaze,ML Green,KA Knight,0,0,,,,,,"",""
+ball,1,3.6,Auckland,IC Gaze,ML Green,KA Knight,0,0,,,,,,"",""
+ball,1,4.1,Auckland,ML Green,IC Gaze,MW Downes,1,0,,,,,,"",""
+ball,1,4.2,Auckland,IC Gaze,ML Green,MW Downes,1,0,,,,,,"",""
+ball,1,4.3,Auckland,ML Green,IC Gaze,MW Downes,0,0,,,,,,caught,ML Green
+ball,1,4.4,Auckland,BM Halliday,IC Gaze,MW Downes,0,0,,,,,,"",""
+ball,1,4.5,Auckland,BM Halliday,IC Gaze,MW Downes,1,0,,,,,,"",""
+ball,1,4.6,Auckland,IC Gaze,BM Halliday,MW Downes,4,0,,,,,,"",""
+ball,1,5.1,Auckland,BM Halliday,IC Gaze,JM Watkin,0,0,,,,,,"",""
+ball,1,5.2,Auckland,BM Halliday,IC Gaze,JM Watkin,0,0,,,,,,"",""
+ball,1,5.3,Auckland,BM Halliday,IC Gaze,JM Watkin,1,0,,,,,,"",""
+ball,1,5.4,Auckland,IC Gaze,BM Halliday,JM Watkin,0,0,,,,,,"",""
+ball,1,5.5,Auckland,IC Gaze,BM Halliday,JM Watkin,1,0,,,,,,"",""
+ball,1,5.6,Auckland,BM Halliday,IC Gaze,JM Watkin,1,0,,,,,,"",""
+ball,1,6.1,Auckland,BM Halliday,IC Gaze,SE Bowden,0,1,1,,,,,"",""
+ball,1,6.2,Auckland,BM Halliday,IC Gaze,SE Bowden,0,0,,,,,,"",""
+ball,1,6.3,Auckland,BM Halliday,IC Gaze,SE Bowden,1,0,,,,,,"",""
+ball,1,6.4,Auckland,IC Gaze,BM Halliday,SE Bowden,1,0,,,,,,"",""
+ball,1,6.5,Auckland,BM Halliday,IC Gaze,SE Bowden,0,0,,,,,,"",""
+ball,1,6.6,Auckland,BM Halliday,IC Gaze,SE Bowden,2,0,,,,,,"",""
+ball,1,6.7,Auckland,BM Halliday,IC Gaze,SE Bowden,0,0,,,,,,"",""
+ball,1,7.1,Auckland,IC Gaze,BM Halliday,KA Knight,4,0,,,,,,"",""
+ball,1,7.2,Auckland,IC Gaze,BM Halliday,KA Knight,0,0,,,,,,"",""
+ball,1,7.3,Auckland,IC Gaze,BM Halliday,KA Knight,1,0,,,,,,"",""
+ball,1,7.4,Auckland,BM Halliday,IC Gaze,KA Knight,1,0,,,,,,"",""
+ball,1,7.5,Auckland,IC Gaze,BM Halliday,KA Knight,1,0,,,,,,"",""
+ball,1,7.6,Auckland,BM Halliday,IC Gaze,KA Knight,2,0,,,,,,"",""
+ball,1,8.1,Auckland,IC Gaze,BM Halliday,NH Patel,4,0,,,,,,"",""
+ball,1,8.2,Auckland,IC Gaze,BM Halliday,NH Patel,1,0,,,,,,"",""
+ball,1,8.3,Auckland,BM Halliday,IC Gaze,NH Patel,1,0,,,,,,"",""
+ball,1,8.4,Auckland,IC Gaze,BM Halliday,NH Patel,1,0,,,,,,"",""
+ball,1,8.5,Auckland,BM Halliday,IC Gaze,NH Patel,1,0,,,,,,"",""
+ball,1,8.6,Auckland,IC Gaze,BM Halliday,NH Patel,1,0,,,,,,"",""
+ball,1,9.1,Auckland,IC Gaze,BM Halliday,E Wolland,0,0,,,,,,"",""
+ball,1,9.2,Auckland,IC Gaze,BM Halliday,E Wolland,1,0,,,,,,"",""
+ball,1,9.3,Auckland,BM Halliday,IC Gaze,E Wolland,1,0,,,,,,"",""
+ball,1,9.4,Auckland,IC Gaze,BM Halliday,E Wolland,1,0,,,,,,"",""
+ball,1,9.5,Auckland,BM Halliday,IC Gaze,E Wolland,1,0,,,,,,"",""
+ball,1,9.6,Auckland,IC Gaze,BM Halliday,E Wolland,2,0,,,,,,"",""
+ball,1,10.1,Auckland,BM Halliday,IC Gaze,SE Bowden,1,0,,,,,,"",""
+ball,1,10.2,Auckland,IC Gaze,BM Halliday,SE Bowden,0,0,,,,,,"",""
+ball,1,10.3,Auckland,IC Gaze,BM Halliday,SE Bowden,4,0,,,,,,"",""
+ball,1,10.4,Auckland,IC Gaze,BM Halliday,SE Bowden,4,0,,,,,,"",""
+ball,1,10.5,Auckland,IC Gaze,BM Halliday,SE Bowden,1,0,,,,,,"",""
+ball,1,10.6,Auckland,BM Halliday,IC Gaze,SE Bowden,0,0,,,,,,"",""
+ball,1,11.1,Auckland,IC Gaze,BM Halliday,JM Watkin,1,0,,,,,,"",""
+ball,1,11.2,Auckland,BM Halliday,IC Gaze,JM Watkin,1,0,,,,,,"",""
+ball,1,11.3,Auckland,IC Gaze,BM Halliday,JM Watkin,4,0,,,,,,"",""
+ball,1,11.4,Auckland,IC Gaze,BM Halliday,JM Watkin,1,0,,,,,,"",""
+ball,1,11.5,Auckland,BM Halliday,IC Gaze,JM Watkin,1,0,,,,,,"",""
+ball,1,11.6,Auckland,IC Gaze,BM Halliday,JM Watkin,1,0,,,,,,"",""
+ball,1,12.1,Auckland,IC Gaze,BM Halliday,E Wolland,0,0,,,,,,"",""
+ball,1,12.2,Auckland,IC Gaze,BM Halliday,E Wolland,0,0,,,,,,"",""
+ball,1,12.3,Auckland,IC Gaze,BM Halliday,E Wolland,2,0,,,,,,"",""
+ball,1,12.4,Auckland,IC Gaze,BM Halliday,E Wolland,1,0,,,,,,"",""
+ball,1,12.5,Auckland,BM Halliday,IC Gaze,E Wolland,1,0,,,,,,"",""
+ball,1,12.6,Auckland,IC Gaze,BM Halliday,E Wolland,0,1,1,,,,,"",""
+ball,1,12.7,Auckland,IC Gaze,BM Halliday,E Wolland,1,0,,,,,,"",""
+ball,1,13.1,Auckland,IC Gaze,BM Halliday,KA Knight,0,1,1,,,,,"",""
+ball,1,13.2,Auckland,IC Gaze,BM Halliday,KA Knight,0,0,,,,,,"",""
+ball,1,13.3,Auckland,IC Gaze,BM Halliday,KA Knight,0,0,,,,,,caught,IC Gaze
+ball,1,13.4,Auckland,LR Down,BM Halliday,KA Knight,0,0,,,,,,"",""
+ball,1,13.5,Auckland,LR Down,BM Halliday,KA Knight,1,0,,,,,,"",""
+ball,1,13.6,Auckland,BM Halliday,LR Down,KA Knight,1,0,,,,,,"",""
+ball,1,13.7,Auckland,LR Down,BM Halliday,KA Knight,0,1,1,,,,,"",""
+ball,1,13.8,Auckland,LR Down,BM Halliday,KA Knight,1,0,,,,,,"",""
+ball,1,14.1,Auckland,LR Down,BM Halliday,E Wolland,0,0,,,,,,"",""
+ball,1,14.2,Auckland,LR Down,BM Halliday,E Wolland,0,0,,,,,,"",""
+ball,1,14.3,Auckland,LR Down,BM Halliday,E Wolland,1,0,,,,,,"",""
+ball,1,14.4,Auckland,BM Halliday,LR Down,E Wolland,1,0,,,,,,"",""
+ball,1,14.5,Auckland,LR Down,BM Halliday,E Wolland,1,0,,,,,,"",""
+ball,1,14.6,Auckland,BM Halliday,LR Down,E Wolland,2,0,,,,,,"",""
+ball,1,15.1,Auckland,LR Down,BM Halliday,KA Knight,0,0,,,,,,"",""
+ball,1,15.2,Auckland,LR Down,BM Halliday,KA Knight,0,0,,,,,,"",""
+ball,1,15.3,Auckland,LR Down,BM Halliday,KA Knight,0,0,,,,,,"",""
+ball,1,15.4,Auckland,LR Down,BM Halliday,KA Knight,0,0,,,,,,"",""
+ball,1,15.5,Auckland,LR Down,BM Halliday,KA Knight,0,0,,,,,,caught,LR Down
+ball,1,15.6,Auckland,BG Armstrong,BM Halliday,KA Knight,4,0,,,,,,"",""
+ball,1,16.1,Auckland,BM Halliday,BG Armstrong,E Wolland,1,0,,,,,,"",""
+ball,1,16.2,Auckland,BG Armstrong,BM Halliday,E Wolland,0,0,,,,,,"",""
+ball,1,16.3,Auckland,BG Armstrong,BM Halliday,E Wolland,1,0,,,,,,"",""
+ball,1,16.4,Auckland,BM Halliday,BG Armstrong,E Wolland,1,0,,,,,,"",""
+ball,1,16.5,Auckland,BG Armstrong,BM Halliday,E Wolland,0,0,,,,,,"",""
+ball,1,16.6,Auckland,BG Armstrong,BM Halliday,E Wolland,1,0,,,,,,"",""
+ball,1,17.1,Auckland,BG Armstrong,BM Halliday,MW Downes,2,0,,,,,,"",""
+ball,1,17.2,Auckland,BG Armstrong,BM Halliday,MW Downes,0,0,,,,,,"",""
+ball,1,17.3,Auckland,BG Armstrong,BM Halliday,MW Downes,2,0,,,,,,"",""
+ball,1,17.4,Auckland,BG Armstrong,BM Halliday,MW Downes,2,0,,,,,,"",""
+ball,1,17.5,Auckland,BG Armstrong,BM Halliday,MW Downes,1,0,,,,,,"",""
+ball,1,17.6,Auckland,BM Halliday,BG Armstrong,MW Downes,2,0,,,,,,"",""
+ball,2,0.1,Northern Districts,JM Watkin,T Wakelin,BG Illing,0,0,,,,,,"",""
+ball,2,0.2,Northern Districts,JM Watkin,T Wakelin,BG Illing,0,0,,,,,,"",""
+ball,2,0.3,Northern Districts,JM Watkin,T Wakelin,BG Illing,0,0,,,,,,"",""
+ball,2,0.4,Northern Districts,JM Watkin,T Wakelin,BG Illing,1,0,,,,,,"",""
+ball,2,0.5,Northern Districts,T Wakelin,JM Watkin,BG Illing,0,0,,,,,,"",""
+ball,2,0.6,Northern Districts,T Wakelin,JM Watkin,BG Illing,0,0,,,,,,"",""
+ball,2,1.1,Northern Districts,JM Watkin,T Wakelin,AT Hucker,1,0,,,,,,"",""
+ball,2,1.2,Northern Districts,T Wakelin,JM Watkin,AT Hucker,0,0,,,,,,"",""
+ball,2,1.3,Northern Districts,T Wakelin,JM Watkin,AT Hucker,1,0,,,,,,"",""
+ball,2,1.4,Northern Districts,JM Watkin,T Wakelin,AT Hucker,4,0,,,,,,"",""
+ball,2,1.5,Northern Districts,JM Watkin,T Wakelin,AT Hucker,1,0,,,,,,"",""
+ball,2,1.6,Northern Districts,T Wakelin,JM Watkin,AT Hucker,1,0,,,,,,"",""
+ball,2,2.1,Northern Districts,T Wakelin,JM Watkin,BG Illing,0,0,,,,,,"",""
+ball,2,2.2,Northern Districts,T Wakelin,JM Watkin,BG Illing,0,0,,,,,,caught,T Wakelin
+ball,2,2.3,Northern Districts,E Wolland,JM Watkin,BG Illing,0,0,,,,,,"",""
+ball,2,2.4,Northern Districts,E Wolland,JM Watkin,BG Illing,0,0,,,,,,"",""
+ball,2,2.5,Northern Districts,E Wolland,JM Watkin,BG Illing,0,1,,,,1,,"",""
+ball,2,2.6,Northern Districts,JM Watkin,E Wolland,BG Illing,1,0,,,,,,"",""
+ball,2,3.1,Northern Districts,JM Watkin,E Wolland,AT Hucker,2,0,,,,,,"",""
+ball,2,3.2,Northern Districts,JM Watkin,E Wolland,AT Hucker,0,0,,,,,,caught,JM Watkin
+ball,2,3.3,Northern Districts,CA Gurrey,E Wolland,AT Hucker,4,0,,,,,,"",""
+ball,2,3.4,Northern Districts,CA Gurrey,E Wolland,AT Hucker,0,0,,,,,,"",""
+ball,2,3.5,Northern Districts,CA Gurrey,E Wolland,AT Hucker,1,0,,,,,,"",""
+ball,2,3.6,Northern Districts,E Wolland,CA Gurrey,AT Hucker,0,0,,,,,,"",""
+ball,2,4.1,Northern Districts,CA Gurrey,E Wolland,BG Illing,0,0,,,,,,"",""
+ball,2,4.2,Northern Districts,CA Gurrey,E Wolland,BG Illing,2,0,,,,,,"",""
+ball,2,4.3,Northern Districts,CA Gurrey,E Wolland,BG Illing,0,0,,,,,,"",""
+ball,2,4.4,Northern Districts,CA Gurrey,E Wolland,BG Illing,4,0,,,,,,"",""
+ball,2,4.5,Northern Districts,CA Gurrey,E Wolland,BG Illing,2,0,,,,,,"",""
+ball,2,4.6,Northern Districts,CA Gurrey,E Wolland,BG Illing,1,0,,,,,,"",""
+ball,2,5.1,Northern Districts,CA Gurrey,E Wolland,JO Penfold,0,0,,,,,,"",""
+ball,2,5.2,Northern Districts,CA Gurrey,E Wolland,JO Penfold,1,0,,,,,,"",""
+ball,2,5.3,Northern Districts,E Wolland,CA Gurrey,JO Penfold,2,0,,,,,,"",""
+ball,2,5.4,Northern Districts,E Wolland,CA Gurrey,JO Penfold,0,0,,,,,,"",""
+ball,2,5.5,Northern Districts,E Wolland,CA Gurrey,JO Penfold,4,0,,,,,,"",""
+ball,2,5.6,Northern Districts,E Wolland,CA Gurrey,JO Penfold,1,0,,,,,,"",""
+ball,2,6.1,Northern Districts,E Wolland,CA Gurrey,MM Penfold,0,0,,,,,,"",""
+ball,2,6.2,Northern Districts,E Wolland,CA Gurrey,MM Penfold,1,0,,,,,,"",""
+ball,2,6.3,Northern Districts,CA Gurrey,E Wolland,MM Penfold,4,0,,,,,,"",""
+ball,2,6.4,Northern Districts,CA Gurrey,E Wolland,MM Penfold,0,0,,,,,,lbw,CA Gurrey
+ball,2,6.5,Northern Districts,NH Patel,E Wolland,MM Penfold,1,0,,,,,,"",""
+ball,2,6.6,Northern Districts,E Wolland,NH Patel,MM Penfold,1,0,,,,,,"",""
+ball,2,7.1,Northern Districts,E Wolland,NH Patel,BG Armstrong,1,0,,,,,,"",""
+ball,2,7.2,Northern Districts,NH Patel,E Wolland,BG Armstrong,1,0,,,,,,"",""
+ball,2,7.3,Northern Districts,E Wolland,NH Patel,BG Armstrong,0,0,,,,,,caught,E Wolland
+ball,2,7.4,Northern Districts,MBA Lamplough,NH Patel,BG Armstrong,0,0,,,,,,caught,MBA Lamplough
+ball,2,7.5,Northern Districts,HE Topp,NH Patel,BG Armstrong,0,0,,,,,,"",""
+ball,2,7.6,Northern Districts,HE Topp,NH Patel,BG Armstrong,1,0,,,,,,"",""
+ball,2,8.1,Northern Districts,HE Topp,NH Patel,MM Penfold,0,0,,,,,,"",""
+ball,2,8.2,Northern Districts,HE Topp,NH Patel,MM Penfold,0,0,,,,,,"",""
+ball,2,8.3,Northern Districts,HE Topp,NH Patel,MM Penfold,0,1,1,,,,,"",""
+ball,2,8.4,Northern Districts,HE Topp,NH Patel,MM Penfold,0,0,,,,,,"",""
+ball,2,8.5,Northern Districts,HE Topp,NH Patel,MM Penfold,3,0,,,,,,"",""
+ball,2,8.6,Northern Districts,NH Patel,HE Topp,MM Penfold,1,0,,,,,,"",""
+ball,2,8.7,Northern Districts,HE Topp,NH Patel,MM Penfold,0,0,,,,,,"",""
+ball,2,9.1,Northern Districts,NH Patel,HE Topp,BG Armstrong,1,0,,,,,,"",""
+ball,2,9.2,Northern Districts,HE Topp,NH Patel,BG Armstrong,0,2,2,,,,,"",""
+ball,2,9.3,Northern Districts,NH Patel,HE Topp,BG Armstrong,1,0,,,,,,"",""
+ball,2,9.4,Northern Districts,HE Topp,NH Patel,BG Armstrong,1,0,,,,,,"",""
+ball,2,9.5,Northern Districts,NH Patel,HE Topp,BG Armstrong,0,0,,,,,,caught,NH Patel
+ball,2,9.6,Northern Districts,C Agafili,HE Topp,BG Armstrong,1,0,,,,,,"",""
+ball,2,9.7,Northern Districts,HE Topp,C Agafili,BG Armstrong,1,0,,,,,,"",""
+ball,2,10.1,Northern Districts,HE Topp,C Agafili,MM Penfold,0,0,,,,,,"",""
+ball,2,10.2,Northern Districts,HE Topp,C Agafili,MM Penfold,1,0,,,,,,"",""
+ball,2,10.3,Northern Districts,C Agafili,HE Topp,MM Penfold,0,0,,,,,,"",""
+ball,2,10.4,Northern Districts,C Agafili,HE Topp,MM Penfold,0,0,,,,,,"",""
+ball,2,10.5,Northern Districts,C Agafili,HE Topp,MM Penfold,0,0,,,,,,"",""
+ball,2,10.6,Northern Districts,C Agafili,HE Topp,MM Penfold,0,0,,,,,,caught,C Agafili
+ball,2,11.1,Northern Districts,HE Topp,KA Knight,BG Armstrong,1,0,,,,,,"",""
+ball,2,11.2,Northern Districts,KA Knight,HE Topp,BG Armstrong,0,0,,,,,,"",""
+ball,2,11.3,Northern Districts,KA Knight,HE Topp,BG Armstrong,0,0,,,,,,"",""
+ball,2,11.4,Northern Districts,KA Knight,HE Topp,BG Armstrong,0,0,,,,,,"",""
+ball,2,11.5,Northern Districts,KA Knight,HE Topp,BG Armstrong,0,0,,,,,,"",""
+ball,2,11.6,Northern Districts,KA Knight,HE Topp,BG Armstrong,1,0,,,,,,"",""
+ball,2,12.1,Northern Districts,KA Knight,HE Topp,MM Penfold,5,0,,,,,,"",""
+ball,2,12.2,Northern Districts,HE Topp,KA Knight,MM Penfold,2,0,,,,,,"",""
+ball,2,12.3,Northern Districts,HE Topp,KA Knight,MM Penfold,0,0,,,,,,bowled,HE Topp
+ball,2,12.4,Northern Districts,SE Bowden,KA Knight,MM Penfold,1,0,,,,,,"",""
+ball,2,12.5,Northern Districts,KA Knight,SE Bowden,MM Penfold,1,0,,,,,,"",""
+ball,2,12.6,Northern Districts,SE Bowden,KA Knight,MM Penfold,0,0,,,,,,"",""
+ball,2,13.1,Northern Districts,KA Knight,SE Bowden,BG Armstrong,1,0,,,,,,"",""
+ball,2,13.2,Northern Districts,SE Bowden,KA Knight,BG Armstrong,0,0,,,,,,"",""
+ball,2,13.3,Northern Districts,SE Bowden,KA Knight,BG Armstrong,0,0,,,,,,"",""
+ball,2,13.4,Northern Districts,SE Bowden,KA Knight,BG Armstrong,4,0,,,,,,"",""
+ball,2,13.5,Northern Districts,SE Bowden,KA Knight,BG Armstrong,1,0,,,,,,"",""
+ball,2,13.6,Northern Districts,KA Knight,SE Bowden,BG Armstrong,1,0,,,,,,"",""
+ball,2,14.1,Northern Districts,KA Knight,SE Bowden,JO Penfold,0,1,1,,,,,"",""
+ball,2,14.2,Northern Districts,KA Knight,SE Bowden,JO Penfold,1,0,,,,,,"",""
+ball,2,14.3,Northern Districts,SE Bowden,KA Knight,JO Penfold,4,0,,,,,,"",""
+ball,2,14.4,Northern Districts,SE Bowden,KA Knight,JO Penfold,1,0,,,,,,"",""
+ball,2,14.5,Northern Districts,KA Knight,SE Bowden,JO Penfold,0,0,,,,,,"",""
+ball,2,14.6,Northern Districts,KA Knight,SE Bowden,JO Penfold,4,0,,,,,,"",""
+ball,2,14.7,Northern Districts,KA Knight,SE Bowden,JO Penfold,0,0,,,,,,"",""
+ball,2,15.1,Northern Districts,SE Bowden,KA Knight,ML Green,1,0,,,,,,"",""
+ball,2,15.2,Northern Districts,KA Knight,SE Bowden,ML Green,1,0,,,,,,"",""
+ball,2,15.3,Northern Districts,SE Bowden,KA Knight,ML Green,0,0,,,,,,"",""
+ball,2,15.4,Northern Districts,SE Bowden,KA Knight,ML Green,1,0,,,,,,"",""
+ball,2,15.5,Northern Districts,KA Knight,SE Bowden,ML Green,0,0,,,,,,"",""
+ball,2,15.6,Northern Districts,KA Knight,SE Bowden,ML Green,1,0,,,,,,"",""
+ball,2,16.1,Northern Districts,KA Knight,SE Bowden,BM Halliday,1,0,,,,,,"",""
+ball,2,16.2,Northern Districts,SE Bowden,KA Knight,BM Halliday,0,1,1,,,,,"",""
+ball,2,16.3,Northern Districts,SE Bowden,KA Knight,BM Halliday,0,1,1,,,,,"",""
+ball,2,16.4,Northern Districts,SE Bowden,KA Knight,BM Halliday,0,0,,,,,,"",""
+ball,2,16.5,Northern Districts,SE Bowden,KA Knight,BM Halliday,1,0,,,,,,"",""
+ball,2,16.6,Northern Districts,KA Knight,SE Bowden,BM Halliday,1,0,,,,,,"",""
+ball,2,16.7,Northern Districts,SE Bowden,KA Knight,BM Halliday,1,0,,,,,,"",""
+ball,2,16.8,Northern Districts,KA Knight,SE Bowden,BM Halliday,0,0,,,,,,caught,KA Knight
+ball,2,17.1,Northern Districts,SE Bowden,MW Downes,ML Green,1,0,,,,,,"",""
+ball,2,17.2,Northern Districts,MW Downes,SE Bowden,ML Green,1,0,,,,,,"",""
+ball,2,17.3,Northern Districts,SE Bowden,MW Downes,ML Green,1,0,,,,,,"",""
+ball,2,17.4,Northern Districts,MW Downes,SE Bowden,ML Green,4,0,,,,,,"",""

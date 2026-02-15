@@ -1,0 +1,273 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Birmingham Phoenix
+info,team,Manchester Originals
+info,gender,female
+info,season,2025
+info,date,2025/08/24
+info,event,The Hundred Women's Competition
+info,match_number,28
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Birmingham Phoenix
+info,toss_decision,bat
+info,player_of_match,SL Kalis
+info,umpire,G Brown
+info,umpire,N Pratt
+info,reserve_umpire,A Clark
+info,tv_umpire,J Naeem
+info,match_referee,DA Cosker
+info,winner,Birmingham Phoenix
+info,winner_runs,16
+info,player,Birmingham Phoenix,G Voll
+info,player,Birmingham Phoenix,EL Lamb
+info,player,Birmingham Phoenix,EA Perry
+info,player,Birmingham Phoenix,AE Jones
+info,player,Birmingham Phoenix,SL Kalis
+info,player,Birmingham Phoenix,A Lister
+info,player,Birmingham Phoenix,M Kelly
+info,player,Birmingham Phoenix,EL Arlott
+info,player,Birmingham Phoenix,ML Schutt
+info,player,Birmingham Phoenix,HL Baker
+info,player,Birmingham Phoenix,PJ Brett
+info,player,Manchester Originals,BL Mooney
+info,player,Manchester Originals,KE Bryce
+info,player,Manchester Originals,AC Kerr
+info,player,Manchester Originals,AZ Monaghan
+info,player,Manchester Originals,S Smale
+info,player,Manchester Originals,DJS Dottin
+info,player,Manchester Originals,FMK Morris
+info,player,Manchester Originals,S Ecclestone
+info,player,Manchester Originals,L Filer
+info,player,Manchester Originals,D Gregory
+info,player,Manchester Originals,M Gaur
+info,registry,people,A Clark,23c38aa6
+info,registry,people,A Lister,090c0213
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,G Brown,4b781bd0
+info,registry,people,G Voll,5c30d455
+info,registry,people,HL Baker,cefad9fd
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Filer,31adb911
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,PJ Brett,41117b19
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Smale,3247d54e
+info,registry,people,SL Kalis,2b150c6b
+ball,1,0.1,Birmingham Phoenix,G Voll,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,0.2,Birmingham Phoenix,G Voll,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,0.3,Birmingham Phoenix,G Voll,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,0.4,Birmingham Phoenix,G Voll,EL Lamb,M Gaur,0,0,,,,,,caught,G Voll
+ball,1,0.5,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,1.1,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,0,2,,,,2,,"",""
+ball,1,1.2,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,1.3,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,1.4,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,1.5,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,1,0,,,,,,"",""
+ball,1,2.1,Birmingham Phoenix,EA Perry,EL Lamb,KE Bryce,0,0,,,,,,"",""
+ball,1,2.2,Birmingham Phoenix,EA Perry,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,2.3,Birmingham Phoenix,EL Lamb,EA Perry,KE Bryce,1,0,,,,,,"",""
+ball,1,2.4,Birmingham Phoenix,EA Perry,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,2.5,Birmingham Phoenix,EL Lamb,EA Perry,KE Bryce,1,0,,,,,,"",""
+ball,1,3.1,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,3.2,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,4,0,,,,,,"",""
+ball,1,3.3,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,3.4,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,3.5,Birmingham Phoenix,EA Perry,EL Lamb,M Gaur,0,0,,,,,,"",""
+ball,1,4.1,Birmingham Phoenix,EL Lamb,EA Perry,S Ecclestone,4,0,,,,,,"",""
+ball,1,4.2,Birmingham Phoenix,EL Lamb,EA Perry,S Ecclestone,0,0,,,,,,"",""
+ball,1,4.3,Birmingham Phoenix,EL Lamb,EA Perry,S Ecclestone,0,0,,,,,,"",""
+ball,1,4.4,Birmingham Phoenix,EL Lamb,EA Perry,S Ecclestone,0,0,,,,,,caught,EL Lamb
+ball,1,4.5,Birmingham Phoenix,AE Jones,EA Perry,S Ecclestone,2,0,,,,,,"",""
+ball,1,5.1,Birmingham Phoenix,AE Jones,EA Perry,DJS Dottin,0,0,,,,,,"",""
+ball,1,5.2,Birmingham Phoenix,AE Jones,EA Perry,DJS Dottin,0,0,,,,,,caught,AE Jones
+ball,1,5.3,Birmingham Phoenix,SL Kalis,EA Perry,DJS Dottin,0,0,,,,,,"",""
+ball,1,5.4,Birmingham Phoenix,SL Kalis,EA Perry,DJS Dottin,1,0,,,,,,"",""
+ball,1,5.5,Birmingham Phoenix,EA Perry,SL Kalis,DJS Dottin,0,0,,,,,,"",""
+ball,1,6.1,Birmingham Phoenix,SL Kalis,EA Perry,L Filer,1,0,,,,,,"",""
+ball,1,6.2,Birmingham Phoenix,EA Perry,SL Kalis,L Filer,0,0,,,,,,"",""
+ball,1,6.3,Birmingham Phoenix,EA Perry,SL Kalis,L Filer,1,0,,,,,,"",""
+ball,1,6.4,Birmingham Phoenix,SL Kalis,EA Perry,L Filer,0,0,,,,,,"",""
+ball,1,6.5,Birmingham Phoenix,SL Kalis,EA Perry,L Filer,0,0,,,,,,"",""
+ball,1,7.1,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,0,0,,,,,,"",""
+ball,1,7.2,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,0,0,,,,,,"",""
+ball,1,7.3,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,0,0,,,,,,"",""
+ball,1,7.4,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,0,0,,,,,,"",""
+ball,1,7.5,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,4,0,,,,,,"",""
+ball,1,8.1,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,0,0,,,,,,"",""
+ball,1,8.2,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,1,0,,,,,,"",""
+ball,1,8.3,Birmingham Phoenix,SL Kalis,EA Perry,S Ecclestone,0,1,,,,1,,"",""
+ball,1,8.4,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,0,0,,,,,,"",""
+ball,1,8.5,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,0,0,,,,,,"",""
+ball,1,9.1,Birmingham Phoenix,EA Perry,SL Kalis,L Filer,2,0,,,,,,"",""
+ball,1,9.2,Birmingham Phoenix,EA Perry,SL Kalis,L Filer,1,0,,,,,,"",""
+ball,1,9.3,Birmingham Phoenix,SL Kalis,EA Perry,L Filer,1,0,,,,,,"",""
+ball,1,9.4,Birmingham Phoenix,EA Perry,SL Kalis,L Filer,4,0,,,,,,"",""
+ball,1,9.5,Birmingham Phoenix,EA Perry,SL Kalis,L Filer,0,0,,,,,,"",""
+ball,1,10.1,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,4,0,,,,,,"",""
+ball,1,10.2,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,0,0,,,,,,"",""
+ball,1,10.3,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,0,0,,,,,,"",""
+ball,1,10.4,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,2,0,,,,,,"",""
+ball,1,10.5,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,1,0,,,,,,"",""
+ball,1,11.1,Birmingham Phoenix,EA Perry,SL Kalis,AC Kerr,0,0,,,,,,"",""
+ball,1,11.2,Birmingham Phoenix,EA Perry,SL Kalis,AC Kerr,1,0,,,,,,"",""
+ball,1,11.3,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,0,0,,,,,,"",""
+ball,1,11.4,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,0,0,,,,,,"",""
+ball,1,11.5,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,4,0,,,,,,"",""
+ball,1,12.1,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,4,0,,,,,,"",""
+ball,1,12.2,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,0,0,,,,,,"",""
+ball,1,12.3,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,1,0,,,,,,"",""
+ball,1,12.4,Birmingham Phoenix,SL Kalis,EA Perry,S Ecclestone,1,0,,,,,,"",""
+ball,1,12.5,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,0,0,,,,,,"",""
+ball,1,13.1,Birmingham Phoenix,EA Perry,SL Kalis,DJS Dottin,1,0,,,,,,"",""
+ball,1,13.2,Birmingham Phoenix,SL Kalis,EA Perry,DJS Dottin,0,0,,,,,,"",""
+ball,1,13.3,Birmingham Phoenix,SL Kalis,EA Perry,DJS Dottin,1,0,,,,,,"",""
+ball,1,13.4,Birmingham Phoenix,EA Perry,SL Kalis,DJS Dottin,0,0,,,,,,"",""
+ball,1,13.5,Birmingham Phoenix,EA Perry,SL Kalis,DJS Dottin,1,0,,,,,,"",""
+ball,1,14.1,Birmingham Phoenix,EA Perry,SL Kalis,AC Kerr,4,0,,,,,,"",""
+ball,1,14.2,Birmingham Phoenix,EA Perry,SL Kalis,AC Kerr,0,0,,,,,,"",""
+ball,1,14.3,Birmingham Phoenix,EA Perry,SL Kalis,AC Kerr,1,0,,,,,,"",""
+ball,1,14.4,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,1,0,,,,,,"",""
+ball,1,14.5,Birmingham Phoenix,EA Perry,SL Kalis,AC Kerr,1,0,,,,,,"",""
+ball,1,15.1,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,2,0,,,,,,"",""
+ball,1,15.2,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,0,2,,,2,,,"",""
+ball,1,15.3,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,0,0,,,,,,"",""
+ball,1,15.4,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,6,0,,,,,,"",""
+ball,1,15.5,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,1,0,,,,,,"",""
+ball,1,16.1,Birmingham Phoenix,SL Kalis,EA Perry,S Ecclestone,1,0,,,,,,"",""
+ball,1,16.2,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,0,0,,,,,,"",""
+ball,1,16.3,Birmingham Phoenix,EA Perry,SL Kalis,S Ecclestone,3,0,,,,,,"",""
+ball,1,16.4,Birmingham Phoenix,SL Kalis,EA Perry,S Ecclestone,0,0,,,,,,"",""
+ball,1,16.5,Birmingham Phoenix,SL Kalis,EA Perry,S Ecclestone,4,0,,,,,,"",""
+ball,1,17.1,Birmingham Phoenix,SL Kalis,EA Perry,L Filer,2,0,,,,,,"",""
+ball,1,17.2,Birmingham Phoenix,SL Kalis,EA Perry,L Filer,1,0,,,,,,"",""
+ball,1,17.3,Birmingham Phoenix,EA Perry,SL Kalis,L Filer,2,0,,,,,,"",""
+ball,1,17.4,Birmingham Phoenix,EA Perry,SL Kalis,L Filer,1,0,,,,,,"",""
+ball,1,17.5,Birmingham Phoenix,SL Kalis,EA Perry,L Filer,1,0,,,,,,"",""
+ball,1,18.1,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,0,0,,,,,,"",""
+ball,1,18.2,Birmingham Phoenix,SL Kalis,EA Perry,AC Kerr,1,0,,,,,,"",""
+ball,1,18.3,Birmingham Phoenix,EA Perry,SL Kalis,AC Kerr,6,0,,,,,,"",""
+ball,1,18.4,Birmingham Phoenix,EA Perry,SL Kalis,AC Kerr,4,0,,,,,,"",""
+ball,1,18.5,Birmingham Phoenix,EA Perry,SL Kalis,AC Kerr,1,0,,,,,,"",""
+ball,1,19.1,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,2,0,,,,,,"",""
+ball,1,19.2,Birmingham Phoenix,SL Kalis,EA Perry,KE Bryce,1,0,,,,,,"",""
+ball,1,19.3,Birmingham Phoenix,EA Perry,SL Kalis,KE Bryce,6,0,,,,,,"",""
+ball,1,19.4,Birmingham Phoenix,EA Perry,SL Kalis,KE Bryce,0,0,,,,,,"",""
+ball,1,19.5,Birmingham Phoenix,EA Perry,SL Kalis,KE Bryce,2,0,,,,,,"",""
+ball,2,0.1,Manchester Originals,BL Mooney,KE Bryce,ML Schutt,0,0,,,,,,"",""
+ball,2,0.2,Manchester Originals,BL Mooney,KE Bryce,ML Schutt,0,0,,,,,,"",""
+ball,2,0.3,Manchester Originals,BL Mooney,KE Bryce,ML Schutt,0,0,,,,,,run out,KE Bryce
+ball,2,0.4,Manchester Originals,AC Kerr,BL Mooney,ML Schutt,0,0,,,,,,"",""
+ball,2,0.5,Manchester Originals,AC Kerr,BL Mooney,ML Schutt,0,0,,,,,,"",""
+ball,2,1.1,Manchester Originals,AC Kerr,BL Mooney,ML Schutt,4,0,,,,,,"",""
+ball,2,1.2,Manchester Originals,AC Kerr,BL Mooney,ML Schutt,0,1,,,,1,,"",""
+ball,2,1.3,Manchester Originals,BL Mooney,AC Kerr,ML Schutt,0,0,,,,,,caught,BL Mooney
+ball,2,1.4,Manchester Originals,AZ Monaghan,AC Kerr,ML Schutt,0,0,,,,,,"",""
+ball,2,1.5,Manchester Originals,AZ Monaghan,AC Kerr,ML Schutt,4,0,,,,,,"",""
+ball,2,2.1,Manchester Originals,AC Kerr,AZ Monaghan,PJ Brett,4,0,,,,,,"",""
+ball,2,2.2,Manchester Originals,AC Kerr,AZ Monaghan,PJ Brett,1,0,,,,,,"",""
+ball,2,2.3,Manchester Originals,AZ Monaghan,AC Kerr,PJ Brett,0,0,,,,,,"",""
+ball,2,2.4,Manchester Originals,AZ Monaghan,AC Kerr,PJ Brett,0,0,,,,,,"",""
+ball,2,2.5,Manchester Originals,AZ Monaghan,AC Kerr,PJ Brett,0,0,,,,,,"",""
+ball,2,3.1,Manchester Originals,AZ Monaghan,AC Kerr,EL Arlott,0,0,,,,,,"",""
+ball,2,3.2,Manchester Originals,AZ Monaghan,AC Kerr,EL Arlott,0,0,,,,,,"",""
+ball,2,3.3,Manchester Originals,AZ Monaghan,AC Kerr,EL Arlott,0,0,,,,,,"",""
+ball,2,3.4,Manchester Originals,AZ Monaghan,AC Kerr,EL Arlott,0,0,,,,,,caught,AZ Monaghan
+ball,2,3.5,Manchester Originals,S Smale,AC Kerr,EL Arlott,0,0,,,,,,"",""
+ball,2,4.1,Manchester Originals,AC Kerr,S Smale,PJ Brett,0,0,,,,,,caught,AC Kerr
+ball,2,4.2,Manchester Originals,DJS Dottin,S Smale,PJ Brett,0,0,,,,,,"",""
+ball,2,4.3,Manchester Originals,DJS Dottin,S Smale,PJ Brett,1,0,,,,,,"",""
+ball,2,4.4,Manchester Originals,S Smale,DJS Dottin,PJ Brett,0,0,,,,,,"",""
+ball,2,4.5,Manchester Originals,S Smale,DJS Dottin,PJ Brett,0,0,,,,,,"",""
+ball,2,5.1,Manchester Originals,S Smale,DJS Dottin,EL Arlott,0,0,,,,,,"",""
+ball,2,5.2,Manchester Originals,S Smale,DJS Dottin,EL Arlott,1,0,,,,,,"",""
+ball,2,5.3,Manchester Originals,DJS Dottin,S Smale,EL Arlott,0,0,,,,,,"",""
+ball,2,5.4,Manchester Originals,DJS Dottin,S Smale,EL Arlott,0,0,,,,,,"",""
+ball,2,5.5,Manchester Originals,DJS Dottin,S Smale,EL Arlott,1,0,,,,,,"",""
+ball,2,6.1,Manchester Originals,DJS Dottin,S Smale,PJ Brett,2,0,,,,,,"",""
+ball,2,6.2,Manchester Originals,DJS Dottin,S Smale,PJ Brett,0,0,,,,,,"",""
+ball,2,6.3,Manchester Originals,DJS Dottin,S Smale,PJ Brett,0,0,,,,,,"",""
+ball,2,6.4,Manchester Originals,DJS Dottin,S Smale,PJ Brett,0,0,,,,,,"",""
+ball,2,6.5,Manchester Originals,DJS Dottin,S Smale,PJ Brett,0,0,,,,,,"",""
+ball,2,7.1,Manchester Originals,DJS Dottin,S Smale,HL Baker,0,0,,,,,,"",""
+ball,2,7.2,Manchester Originals,DJS Dottin,S Smale,HL Baker,1,0,,,,,,"",""
+ball,2,7.3,Manchester Originals,S Smale,DJS Dottin,HL Baker,0,0,,,,,,"",""
+ball,2,7.4,Manchester Originals,S Smale,DJS Dottin,HL Baker,0,0,,,,,,"",""
+ball,2,7.5,Manchester Originals,S Smale,DJS Dottin,HL Baker,0,0,,,,,,"",""
+ball,2,8.1,Manchester Originals,DJS Dottin,S Smale,G Voll,1,0,,,,,,"",""
+ball,2,8.2,Manchester Originals,S Smale,DJS Dottin,G Voll,1,0,,,,,,"",""
+ball,2,8.3,Manchester Originals,DJS Dottin,S Smale,G Voll,6,0,,,,,,"",""
+ball,2,8.4,Manchester Originals,DJS Dottin,S Smale,G Voll,0,1,1,,,,,"",""
+ball,2,8.5,Manchester Originals,DJS Dottin,S Smale,G Voll,1,0,,,,,,"",""
+ball,2,8.6,Manchester Originals,S Smale,DJS Dottin,G Voll,1,0,,,,,,"",""
+ball,2,9.1,Manchester Originals,DJS Dottin,S Smale,HL Baker,0,0,,,,,,caught,DJS Dottin
+ball,2,9.2,Manchester Originals,FMK Morris,S Smale,HL Baker,1,0,,,,,,"",""
+ball,2,9.3,Manchester Originals,S Smale,FMK Morris,HL Baker,1,0,,,,,,"",""
+ball,2,9.4,Manchester Originals,FMK Morris,S Smale,HL Baker,1,0,,,,,,"",""
+ball,2,9.5,Manchester Originals,S Smale,FMK Morris,HL Baker,0,0,,,,,,"",""
+ball,2,10.1,Manchester Originals,FMK Morris,S Smale,G Voll,1,0,,,,,,"",""
+ball,2,10.2,Manchester Originals,S Smale,FMK Morris,G Voll,1,0,,,,,,"",""
+ball,2,10.3,Manchester Originals,FMK Morris,S Smale,G Voll,1,0,,,,,,"",""
+ball,2,10.4,Manchester Originals,S Smale,FMK Morris,G Voll,0,0,,,,,,"",""
+ball,2,10.5,Manchester Originals,S Smale,FMK Morris,G Voll,1,0,,,,,,"",""
+ball,2,11.1,Manchester Originals,FMK Morris,S Smale,EL Lamb,1,0,,,,,,"",""
+ball,2,11.2,Manchester Originals,S Smale,FMK Morris,EL Lamb,1,0,,,,,,"",""
+ball,2,11.3,Manchester Originals,FMK Morris,S Smale,EL Lamb,1,0,,,,,,"",""
+ball,2,11.4,Manchester Originals,S Smale,FMK Morris,EL Lamb,1,0,,,,,,"",""
+ball,2,11.5,Manchester Originals,FMK Morris,S Smale,EL Lamb,1,0,,,,,,"",""
+ball,2,12.1,Manchester Originals,FMK Morris,S Smale,ML Schutt,0,0,,,,,,"",""
+ball,2,12.2,Manchester Originals,FMK Morris,S Smale,ML Schutt,1,0,,,,,,"",""
+ball,2,12.3,Manchester Originals,S Smale,FMK Morris,ML Schutt,1,0,,,,,,"",""
+ball,2,12.4,Manchester Originals,FMK Morris,S Smale,ML Schutt,0,0,,,,,,"",""
+ball,2,12.5,Manchester Originals,FMK Morris,S Smale,ML Schutt,1,0,,,,,,"",""
+ball,2,13.1,Manchester Originals,S Smale,FMK Morris,HL Baker,0,0,,,,,,"",""
+ball,2,13.2,Manchester Originals,S Smale,FMK Morris,HL Baker,4,0,,,,,,"",""
+ball,2,13.3,Manchester Originals,S Smale,FMK Morris,HL Baker,4,0,,,,,,"",""
+ball,2,13.4,Manchester Originals,S Smale,FMK Morris,HL Baker,0,0,,,,,,run out,FMK Morris
+ball,2,13.5,Manchester Originals,S Smale,S Ecclestone,HL Baker,1,0,,,,,,"",""
+ball,2,14.1,Manchester Originals,S Smale,S Ecclestone,PJ Brett,1,0,,,,,,"",""
+ball,2,14.2,Manchester Originals,S Ecclestone,S Smale,PJ Brett,1,0,,,,,,"",""
+ball,2,14.3,Manchester Originals,S Smale,S Ecclestone,PJ Brett,1,0,,,,,,"",""
+ball,2,14.4,Manchester Originals,S Ecclestone,S Smale,PJ Brett,0,0,,,,,,run out,S Ecclestone
+ball,2,14.5,Manchester Originals,S Smale,L Filer,PJ Brett,0,0,,,,,,"",""
+ball,2,15.1,Manchester Originals,S Smale,L Filer,EL Lamb,1,0,,,,,,"",""
+ball,2,15.2,Manchester Originals,L Filer,S Smale,EL Lamb,4,0,,,,,,"",""
+ball,2,15.3,Manchester Originals,L Filer,S Smale,EL Lamb,1,0,,,,,,"",""
+ball,2,15.4,Manchester Originals,S Smale,L Filer,EL Lamb,1,0,,,,,,"",""
+ball,2,15.5,Manchester Originals,L Filer,S Smale,EL Lamb,0,1,1,,,,,"",""
+ball,2,15.6,Manchester Originals,L Filer,S Smale,EL Lamb,1,0,,,,,,"",""
+ball,2,16.1,Manchester Originals,L Filer,S Smale,EL Arlott,4,0,,,,,,"",""
+ball,2,16.2,Manchester Originals,L Filer,S Smale,EL Arlott,0,1,1,,,,,"",""
+ball,2,16.3,Manchester Originals,L Filer,S Smale,EL Arlott,4,0,,,,,,"",""
+ball,2,16.4,Manchester Originals,L Filer,S Smale,EL Arlott,1,0,,,,,,"",""
+ball,2,16.5,Manchester Originals,S Smale,L Filer,EL Arlott,0,0,,,,,,"",""
+ball,2,16.6,Manchester Originals,S Smale,L Filer,EL Arlott,1,0,,,,,,"",""
+ball,2,17.1,Manchester Originals,L Filer,S Smale,G Voll,1,0,,,,,,"",""
+ball,2,17.2,Manchester Originals,S Smale,L Filer,G Voll,1,0,,,,,,"",""
+ball,2,17.3,Manchester Originals,L Filer,S Smale,G Voll,1,0,,,,,,"",""
+ball,2,17.4,Manchester Originals,S Smale,L Filer,G Voll,4,0,,,,,,"",""
+ball,2,17.5,Manchester Originals,S Smale,L Filer,G Voll,1,0,,,,,,"",""
+ball,2,18.1,Manchester Originals,S Smale,L Filer,ML Schutt,0,0,,,,,,caught,S Smale
+ball,2,18.2,Manchester Originals,D Gregory,L Filer,ML Schutt,0,0,,,,,,caught,D Gregory
+ball,2,18.3,Manchester Originals,M Gaur,L Filer,ML Schutt,2,0,,,,,,"",""
+ball,2,18.4,Manchester Originals,M Gaur,L Filer,ML Schutt,1,0,,,,,,"",""
+ball,2,18.5,Manchester Originals,L Filer,M Gaur,ML Schutt,0,0,,,,,,"",""
+ball,2,19.1,Manchester Originals,L Filer,M Gaur,EL Arlott,1,0,,,,,,"",""
+ball,2,19.2,Manchester Originals,M Gaur,L Filer,EL Arlott,0,1,,,,1,,"",""
+ball,2,19.3,Manchester Originals,L Filer,M Gaur,EL Arlott,1,0,,,,,,"",""
+ball,2,19.4,Manchester Originals,M Gaur,L Filer,EL Arlott,2,0,,,,,,"",""
+ball,2,19.5,Manchester Originals,M Gaur,L Filer,EL Arlott,1,0,,,,,,run out,M Gaur

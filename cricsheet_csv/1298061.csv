@@ -1,0 +1,305 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Thunder
+info,team,Lightning
+info,gender,female
+info,season,2022
+info,date,2022/05/21
+info,event,Charlotte Edwards Cup
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Thunder
+info,toss_decision,bat
+info,umpire,AY Harris
+info,umpire,Rob White
+info,match_referee,H Grant
+info,winner,Lightning
+info,winner_wickets,5
+info,player,Thunder,GEB Boyce
+info,player,Thunder,EL Lamb
+info,player,Thunder,S Pai
+info,player,Thunder,E Threlkeld
+info,player,Thunder,DL Collins
+info,player,Thunder,L Marshall
+info,player,Thunder,L Jackson
+info,player,Thunder,S Turner
+info,player,Thunder,PC Graham
+info,player,Thunder,HE Jones
+info,player,Thunder,A Hartley
+info,player,Lightning,M Kelly
+info,player,Lightning,TT Beaumont
+info,player,Lightning,E Claridge
+info,player,Lightning,SJ Bryce
+info,player,Lightning,KE Bryce
+info,player,Lightning,B Ellis
+info,player,Lightning,T Graves
+info,player,Lightning,P Cleary
+info,player,Lightning,S Munro
+info,player,Lightning,LF Higham
+info,player,Lightning,J Groves
+info,registry,people,A Hartley,53d50717
+info,registry,people,AY Harris,90d95b82
+info,registry,people,B Ellis,370a88ac
+info,registry,people,DL Collins,246ba42c
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,GEB Boyce,5b1f15fc
+info,registry,people,H Grant,5a275afa
+info,registry,people,HE Jones,f7b74efa
+info,registry,people,J Groves,11ff23e3
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jackson,68ac12a0
+info,registry,people,L Marshall,04e5a38a
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,P Cleary,507acf2e
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,Rob White,59b91222
+info,registry,people,S Munro,b4e026de
+info,registry,people,S Pai,e1cd8c86
+info,registry,people,S Turner,7442f8dd
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,T Graves,e893fef7
+info,registry,people,TT Beaumont,b2664905
+ball,1,0.1,Thunder,GEB Boyce,EL Lamb,LF Higham,1,0,,,,,,"",""
+ball,1,0.2,Thunder,EL Lamb,GEB Boyce,LF Higham,1,0,,,,,,"",""
+ball,1,0.3,Thunder,GEB Boyce,EL Lamb,LF Higham,1,0,,,,,,"",""
+ball,1,0.4,Thunder,EL Lamb,GEB Boyce,LF Higham,0,0,,,,,,"",""
+ball,1,0.5,Thunder,EL Lamb,GEB Boyce,LF Higham,1,0,,,,,,"",""
+ball,1,0.6,Thunder,GEB Boyce,EL Lamb,LF Higham,1,0,,,,,,"",""
+ball,1,1.1,Thunder,GEB Boyce,EL Lamb,M Kelly,0,0,,,,,,"",""
+ball,1,1.2,Thunder,GEB Boyce,EL Lamb,M Kelly,0,0,,,,,,"",""
+ball,1,1.3,Thunder,GEB Boyce,EL Lamb,M Kelly,1,0,,,,,,"",""
+ball,1,1.4,Thunder,EL Lamb,GEB Boyce,M Kelly,0,0,,,,,,"",""
+ball,1,1.5,Thunder,EL Lamb,GEB Boyce,M Kelly,0,0,,,,,,"",""
+ball,1,1.6,Thunder,EL Lamb,GEB Boyce,M Kelly,1,1,,1,,,,"",""
+ball,1,1.7,Thunder,GEB Boyce,EL Lamb,M Kelly,4,0,,,,,,"",""
+ball,1,2.1,Thunder,EL Lamb,GEB Boyce,LF Higham,0,0,,,,,,"",""
+ball,1,2.2,Thunder,EL Lamb,GEB Boyce,LF Higham,0,0,,,,,,"",""
+ball,1,2.3,Thunder,EL Lamb,GEB Boyce,LF Higham,0,0,,,,,,"",""
+ball,1,2.4,Thunder,EL Lamb,GEB Boyce,LF Higham,1,0,,,,,,"",""
+ball,1,2.5,Thunder,GEB Boyce,EL Lamb,LF Higham,0,0,,,,,,"",""
+ball,1,2.6,Thunder,GEB Boyce,EL Lamb,LF Higham,0,0,,,,,,"",""
+ball,1,3.1,Thunder,EL Lamb,GEB Boyce,M Kelly,1,0,,,,,,"",""
+ball,1,3.2,Thunder,GEB Boyce,EL Lamb,M Kelly,4,0,,,,,,"",""
+ball,1,3.3,Thunder,GEB Boyce,EL Lamb,M Kelly,1,0,,,,,,"",""
+ball,1,3.4,Thunder,EL Lamb,GEB Boyce,M Kelly,0,0,,,,,,"",""
+ball,1,3.5,Thunder,EL Lamb,GEB Boyce,M Kelly,4,0,,,,,,"",""
+ball,1,3.6,Thunder,EL Lamb,GEB Boyce,M Kelly,1,0,,,,,,"",""
+ball,1,4.1,Thunder,EL Lamb,GEB Boyce,S Munro,0,0,,,,,,"",""
+ball,1,4.2,Thunder,EL Lamb,GEB Boyce,S Munro,1,0,,,,,,"",""
+ball,1,4.3,Thunder,GEB Boyce,EL Lamb,S Munro,1,0,,,,,,"",""
+ball,1,4.4,Thunder,EL Lamb,GEB Boyce,S Munro,1,0,,,,,,"",""
+ball,1,4.5,Thunder,GEB Boyce,EL Lamb,S Munro,0,1,,1,,,,"",""
+ball,1,4.6,Thunder,GEB Boyce,EL Lamb,S Munro,1,0,,,,,,"",""
+ball,1,4.7,Thunder,EL Lamb,GEB Boyce,S Munro,4,0,,,,,,"",""
+ball,1,5.1,Thunder,GEB Boyce,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,5.2,Thunder,EL Lamb,GEB Boyce,KE Bryce,1,0,,,,,,"",""
+ball,1,5.3,Thunder,GEB Boyce,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,5.4,Thunder,EL Lamb,GEB Boyce,KE Bryce,1,0,,,,,,"",""
+ball,1,5.5,Thunder,GEB Boyce,EL Lamb,KE Bryce,2,0,,,,,,"",""
+ball,1,5.6,Thunder,GEB Boyce,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,6.1,Thunder,GEB Boyce,EL Lamb,S Munro,1,0,,,,,,"",""
+ball,1,6.2,Thunder,EL Lamb,GEB Boyce,S Munro,0,1,1,,,,,"",""
+ball,1,6.3,Thunder,EL Lamb,GEB Boyce,S Munro,0,0,,,,,,"",""
+ball,1,6.4,Thunder,EL Lamb,GEB Boyce,S Munro,2,0,,,,,,"",""
+ball,1,6.5,Thunder,EL Lamb,GEB Boyce,S Munro,1,0,,,,,,"",""
+ball,1,6.6,Thunder,GEB Boyce,EL Lamb,S Munro,0,0,,,,,,"",""
+ball,1,6.7,Thunder,GEB Boyce,EL Lamb,S Munro,4,0,,,,,,"",""
+ball,1,7.1,Thunder,EL Lamb,GEB Boyce,J Groves,1,0,,,,,,"",""
+ball,1,7.2,Thunder,GEB Boyce,EL Lamb,J Groves,1,0,,,,,,"",""
+ball,1,7.3,Thunder,EL Lamb,GEB Boyce,J Groves,1,0,,,,,,"",""
+ball,1,7.4,Thunder,GEB Boyce,EL Lamb,J Groves,1,0,,,,,,"",""
+ball,1,7.5,Thunder,EL Lamb,GEB Boyce,J Groves,4,0,,,,,,"",""
+ball,1,7.6,Thunder,EL Lamb,GEB Boyce,J Groves,1,0,,,,,,"",""
+ball,1,8.1,Thunder,EL Lamb,GEB Boyce,P Cleary,0,0,,,,,,"",""
+ball,1,8.2,Thunder,EL Lamb,GEB Boyce,P Cleary,2,0,,,,,,"",""
+ball,1,8.3,Thunder,EL Lamb,GEB Boyce,P Cleary,1,0,,,,,,"",""
+ball,1,8.4,Thunder,GEB Boyce,EL Lamb,P Cleary,1,0,,,,,,"",""
+ball,1,8.5,Thunder,EL Lamb,GEB Boyce,P Cleary,1,0,,,,,,"",""
+ball,1,8.6,Thunder,GEB Boyce,EL Lamb,P Cleary,1,0,,,,,,"",""
+ball,1,9.1,Thunder,GEB Boyce,EL Lamb,J Groves,0,0,,,,,,"",""
+ball,1,9.2,Thunder,GEB Boyce,EL Lamb,J Groves,1,0,,,,,,"",""
+ball,1,9.3,Thunder,EL Lamb,GEB Boyce,J Groves,4,0,,,,,,"",""
+ball,1,9.4,Thunder,EL Lamb,GEB Boyce,J Groves,1,0,,,,,,"",""
+ball,1,9.5,Thunder,GEB Boyce,EL Lamb,J Groves,0,0,,,,,,"",""
+ball,1,9.6,Thunder,GEB Boyce,EL Lamb,J Groves,1,0,,,,,,"",""
+ball,1,10.1,Thunder,GEB Boyce,EL Lamb,P Cleary,1,0,,,,,,"",""
+ball,1,10.2,Thunder,EL Lamb,GEB Boyce,P Cleary,1,0,,,,,,"",""
+ball,1,10.3,Thunder,GEB Boyce,EL Lamb,P Cleary,4,0,,,,,,"",""
+ball,1,10.4,Thunder,GEB Boyce,EL Lamb,P Cleary,4,0,,,,,,"",""
+ball,1,10.5,Thunder,GEB Boyce,EL Lamb,P Cleary,1,0,,,,,,"",""
+ball,1,10.6,Thunder,EL Lamb,GEB Boyce,P Cleary,1,0,,,,,,"",""
+ball,1,11.1,Thunder,EL Lamb,GEB Boyce,KE Bryce,1,0,,,,,,"",""
+ball,1,11.2,Thunder,GEB Boyce,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,11.3,Thunder,EL Lamb,GEB Boyce,KE Bryce,0,0,,,,,,"",""
+ball,1,11.4,Thunder,EL Lamb,GEB Boyce,KE Bryce,4,0,,,,,,"",""
+ball,1,11.5,Thunder,EL Lamb,GEB Boyce,KE Bryce,1,0,,,,,,"",""
+ball,1,11.6,Thunder,GEB Boyce,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,12.1,Thunder,GEB Boyce,EL Lamb,LF Higham,1,0,,,,,,"",""
+ball,1,12.2,Thunder,EL Lamb,GEB Boyce,LF Higham,1,0,,,,,,"",""
+ball,1,12.3,Thunder,GEB Boyce,EL Lamb,LF Higham,1,0,,,,,,"",""
+ball,1,12.4,Thunder,EL Lamb,GEB Boyce,LF Higham,1,0,,,,,,"",""
+ball,1,12.5,Thunder,GEB Boyce,EL Lamb,LF Higham,1,0,,,,,,"",""
+ball,1,12.6,Thunder,EL Lamb,GEB Boyce,LF Higham,1,0,,,,,,"",""
+ball,1,13.1,Thunder,EL Lamb,GEB Boyce,M Kelly,1,0,,,,,,"",""
+ball,1,13.2,Thunder,GEB Boyce,EL Lamb,M Kelly,0,0,,,,,,"",""
+ball,1,13.3,Thunder,GEB Boyce,EL Lamb,M Kelly,1,0,,,,,,"",""
+ball,1,13.4,Thunder,EL Lamb,GEB Boyce,M Kelly,1,0,,,,,,"",""
+ball,1,13.5,Thunder,GEB Boyce,EL Lamb,M Kelly,0,0,,,,,,"",""
+ball,1,13.6,Thunder,GEB Boyce,EL Lamb,M Kelly,0,0,,,,,,"",""
+ball,1,14.1,Thunder,EL Lamb,GEB Boyce,LF Higham,1,0,,,,,,"",""
+ball,1,14.2,Thunder,GEB Boyce,EL Lamb,LF Higham,2,0,,,,,,"",""
+ball,1,14.3,Thunder,GEB Boyce,EL Lamb,LF Higham,1,0,,,,,,"",""
+ball,1,14.4,Thunder,EL Lamb,GEB Boyce,LF Higham,4,0,,,,,,"",""
+ball,1,14.5,Thunder,EL Lamb,GEB Boyce,LF Higham,0,1,,,,1,,"",""
+ball,1,14.6,Thunder,GEB Boyce,EL Lamb,LF Higham,1,0,,,,,,"",""
+ball,1,15.1,Thunder,GEB Boyce,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,15.2,Thunder,EL Lamb,GEB Boyce,KE Bryce,1,0,,,,,,"",""
+ball,1,15.3,Thunder,GEB Boyce,EL Lamb,KE Bryce,4,0,,,,,,"",""
+ball,1,15.4,Thunder,GEB Boyce,EL Lamb,KE Bryce,4,0,,,,,,"",""
+ball,1,15.5,Thunder,GEB Boyce,EL Lamb,KE Bryce,0,0,,,,,,"",""
+ball,1,15.6,Thunder,GEB Boyce,EL Lamb,KE Bryce,1,0,,,,,,"",""
+ball,1,16.1,Thunder,GEB Boyce,EL Lamb,P Cleary,4,0,,,,,,"",""
+ball,1,16.2,Thunder,GEB Boyce,EL Lamb,P Cleary,0,0,,,,,,"",""
+ball,1,16.3,Thunder,GEB Boyce,EL Lamb,P Cleary,4,0,,,,,,"",""
+ball,1,16.4,Thunder,GEB Boyce,EL Lamb,P Cleary,1,0,,,,,,"",""
+ball,1,16.5,Thunder,EL Lamb,GEB Boyce,P Cleary,0,0,,,,,,caught,EL Lamb
+ball,1,16.6,Thunder,S Pai,GEB Boyce,P Cleary,1,0,,,,,,"",""
+ball,1,17.1,Thunder,S Pai,GEB Boyce,J Groves,1,0,,,,,,"",""
+ball,1,17.2,Thunder,GEB Boyce,S Pai,J Groves,1,0,,,,,,"",""
+ball,1,17.3,Thunder,S Pai,GEB Boyce,J Groves,1,0,,,,,,"",""
+ball,1,17.4,Thunder,GEB Boyce,S Pai,J Groves,0,0,,,,,,caught,GEB Boyce
+ball,1,17.5,Thunder,E Threlkeld,S Pai,J Groves,1,0,,,,,,"",""
+ball,1,17.6,Thunder,S Pai,E Threlkeld,J Groves,2,0,,,,,,"",""
+ball,1,18.1,Thunder,E Threlkeld,S Pai,P Cleary,0,0,,,,,,caught,E Threlkeld
+ball,1,18.2,Thunder,DL Collins,S Pai,P Cleary,0,0,,,,,,stumped,DL Collins
+ball,1,18.3,Thunder,L Marshall,S Pai,P Cleary,4,0,,,,,,"",""
+ball,1,18.4,Thunder,L Marshall,S Pai,P Cleary,0,0,,,,,,"",""
+ball,1,18.5,Thunder,L Marshall,S Pai,P Cleary,1,0,,,,,,"",""
+ball,1,18.6,Thunder,S Pai,L Marshall,P Cleary,1,0,,,,,,"",""
+ball,1,19.1,Thunder,S Pai,L Marshall,S Munro,1,0,,,,,,run out,S Pai
+ball,1,19.2,Thunder,L Jackson,L Marshall,S Munro,1,0,,,,,,"",""
+ball,1,19.3,Thunder,L Marshall,L Jackson,S Munro,1,0,,,,,,"",""
+ball,1,19.4,Thunder,L Jackson,L Marshall,S Munro,2,0,,,,,,"",""
+ball,1,19.5,Thunder,L Jackson,L Marshall,S Munro,2,0,,,,,,"",""
+ball,1,19.6,Thunder,L Jackson,L Marshall,S Munro,2,0,,,,,,"",""
+ball,2,0.1,Lightning,M Kelly,TT Beaumont,L Jackson,4,0,,,,,,"",""
+ball,2,0.2,Lightning,M Kelly,TT Beaumont,L Jackson,4,0,,,,,,"",""
+ball,2,0.3,Lightning,M Kelly,TT Beaumont,L Jackson,0,0,,,,,,"",""
+ball,2,0.4,Lightning,M Kelly,TT Beaumont,L Jackson,0,0,,,,,,"",""
+ball,2,0.5,Lightning,M Kelly,TT Beaumont,L Jackson,0,2,,,,2,,"",""
+ball,2,0.6,Lightning,M Kelly,TT Beaumont,L Jackson,0,0,,,,,,"",""
+ball,2,1.1,Lightning,TT Beaumont,M Kelly,A Hartley,1,0,,,,,,"",""
+ball,2,1.2,Lightning,M Kelly,TT Beaumont,A Hartley,0,0,,,,,,"",""
+ball,2,1.3,Lightning,M Kelly,TT Beaumont,A Hartley,0,0,,,,,,lbw,M Kelly
+ball,2,1.4,Lightning,E Claridge,TT Beaumont,A Hartley,0,0,,,,,,"",""
+ball,2,1.5,Lightning,E Claridge,TT Beaumont,A Hartley,1,0,,,,,,"",""
+ball,2,1.6,Lightning,TT Beaumont,E Claridge,A Hartley,0,0,,,,,,"",""
+ball,2,2.1,Lightning,E Claridge,TT Beaumont,HE Jones,0,0,,,,,,"",""
+ball,2,2.2,Lightning,E Claridge,TT Beaumont,HE Jones,1,0,,,,,,"",""
+ball,2,2.3,Lightning,TT Beaumont,E Claridge,HE Jones,4,0,,,,,,"",""
+ball,2,2.4,Lightning,TT Beaumont,E Claridge,HE Jones,4,0,,,,,,"",""
+ball,2,2.5,Lightning,TT Beaumont,E Claridge,HE Jones,0,1,,,,1,,"",""
+ball,2,2.6,Lightning,E Claridge,TT Beaumont,HE Jones,0,0,,,,,,"",""
+ball,2,3.1,Lightning,TT Beaumont,E Claridge,S Turner,0,1,1,,,,,"",""
+ball,2,3.2,Lightning,TT Beaumont,E Claridge,S Turner,1,0,,,,,,"",""
+ball,2,3.3,Lightning,E Claridge,TT Beaumont,S Turner,0,0,,,,,,"",""
+ball,2,3.4,Lightning,E Claridge,TT Beaumont,S Turner,4,0,,,,,,"",""
+ball,2,3.5,Lightning,E Claridge,TT Beaumont,S Turner,4,0,,,,,,"",""
+ball,2,3.6,Lightning,E Claridge,TT Beaumont,S Turner,0,0,,,,,,"",""
+ball,2,3.7,Lightning,E Claridge,TT Beaumont,S Turner,4,0,,,,,,"",""
+ball,2,4.1,Lightning,TT Beaumont,E Claridge,EL Lamb,0,1,1,,,,,"",""
+ball,2,4.2,Lightning,TT Beaumont,E Claridge,EL Lamb,0,0,,,,,,"",""
+ball,2,4.3,Lightning,TT Beaumont,E Claridge,EL Lamb,4,0,,,,,,"",""
+ball,2,4.4,Lightning,TT Beaumont,E Claridge,EL Lamb,0,0,,,,,,"",""
+ball,2,4.5,Lightning,TT Beaumont,E Claridge,EL Lamb,2,0,,,,,,"",""
+ball,2,4.6,Lightning,TT Beaumont,E Claridge,EL Lamb,4,0,,,,,,"",""
+ball,2,4.7,Lightning,TT Beaumont,E Claridge,EL Lamb,1,0,,,,,,"",""
+ball,2,5.1,Lightning,TT Beaumont,E Claridge,A Hartley,0,0,,,,,,"",""
+ball,2,5.2,Lightning,TT Beaumont,E Claridge,A Hartley,0,0,,,,,,"",""
+ball,2,5.3,Lightning,TT Beaumont,E Claridge,A Hartley,1,0,,,,,,"",""
+ball,2,5.4,Lightning,E Claridge,TT Beaumont,A Hartley,1,0,,,,,,"",""
+ball,2,5.5,Lightning,TT Beaumont,E Claridge,A Hartley,0,0,,,,,,"",""
+ball,2,5.6,Lightning,TT Beaumont,E Claridge,A Hartley,0,0,,,,,,"",""
+ball,2,6.1,Lightning,E Claridge,TT Beaumont,HE Jones,0,0,,,,,,"",""
+ball,2,6.2,Lightning,E Claridge,TT Beaumont,HE Jones,1,0,,,,,,"",""
+ball,2,6.3,Lightning,TT Beaumont,E Claridge,HE Jones,2,0,,,,,,"",""
+ball,2,6.4,Lightning,TT Beaumont,E Claridge,HE Jones,0,0,,,,,,"",""
+ball,2,6.5,Lightning,TT Beaumont,E Claridge,HE Jones,0,0,,,,,,"",""
+ball,2,6.6,Lightning,TT Beaumont,E Claridge,HE Jones,1,0,,,,,,"",""
+ball,2,7.1,Lightning,TT Beaumont,E Claridge,EL Lamb,4,0,,,,,,"",""
+ball,2,7.2,Lightning,TT Beaumont,E Claridge,EL Lamb,1,0,,,,,,"",""
+ball,2,7.3,Lightning,E Claridge,TT Beaumont,EL Lamb,1,0,,,,,,"",""
+ball,2,7.4,Lightning,TT Beaumont,E Claridge,EL Lamb,1,0,,,,,,"",""
+ball,2,7.5,Lightning,E Claridge,TT Beaumont,EL Lamb,1,0,,,,,,"",""
+ball,2,7.6,Lightning,TT Beaumont,E Claridge,EL Lamb,4,0,,,,,,"",""
+ball,2,8.1,Lightning,E Claridge,TT Beaumont,PC Graham,2,0,,,,,,"",""
+ball,2,8.2,Lightning,E Claridge,TT Beaumont,PC Graham,4,0,,,,,,"",""
+ball,2,8.3,Lightning,E Claridge,TT Beaumont,PC Graham,0,0,,,,,,bowled,E Claridge
+ball,2,8.4,Lightning,SJ Bryce,TT Beaumont,PC Graham,1,0,,,,,,"",""
+ball,2,8.5,Lightning,TT Beaumont,SJ Bryce,PC Graham,1,0,,,,,,"",""
+ball,2,8.6,Lightning,SJ Bryce,TT Beaumont,PC Graham,0,0,,,,,,"",""
+ball,2,9.1,Lightning,TT Beaumont,SJ Bryce,HE Jones,4,0,,,,,,"",""
+ball,2,9.2,Lightning,TT Beaumont,SJ Bryce,HE Jones,4,0,,,,,,"",""
+ball,2,9.3,Lightning,TT Beaumont,SJ Bryce,HE Jones,0,0,,,,,,"",""
+ball,2,9.4,Lightning,TT Beaumont,SJ Bryce,HE Jones,0,0,,,,,,"",""
+ball,2,9.5,Lightning,TT Beaumont,SJ Bryce,HE Jones,1,0,,,,,,"",""
+ball,2,9.6,Lightning,SJ Bryce,TT Beaumont,HE Jones,0,0,,,,,,"",""
+ball,2,10.1,Lightning,TT Beaumont,SJ Bryce,PC Graham,1,0,,,,,,"",""
+ball,2,10.2,Lightning,SJ Bryce,TT Beaumont,PC Graham,0,0,,,,,,"",""
+ball,2,10.3,Lightning,SJ Bryce,TT Beaumont,PC Graham,1,0,,,,,,"",""
+ball,2,10.4,Lightning,TT Beaumont,SJ Bryce,PC Graham,1,0,,,,,,"",""
+ball,2,10.5,Lightning,SJ Bryce,TT Beaumont,PC Graham,0,0,,,,,,"",""
+ball,2,10.6,Lightning,SJ Bryce,TT Beaumont,PC Graham,0,0,,,,,,"",""
+ball,2,11.1,Lightning,TT Beaumont,SJ Bryce,L Jackson,0,1,1,,,,,"",""
+ball,2,11.2,Lightning,TT Beaumont,SJ Bryce,L Jackson,0,1,1,,,,,"",""
+ball,2,11.3,Lightning,TT Beaumont,SJ Bryce,L Jackson,4,0,,,,,,"",""
+ball,2,11.4,Lightning,TT Beaumont,SJ Bryce,L Jackson,4,0,,,,,,"",""
+ball,2,11.5,Lightning,TT Beaumont,SJ Bryce,L Jackson,0,0,,,,,,"",""
+ball,2,11.6,Lightning,TT Beaumont,SJ Bryce,L Jackson,4,0,,,,,,"",""
+ball,2,11.7,Lightning,TT Beaumont,SJ Bryce,L Jackson,0,0,,,,,,caught,TT Beaumont
+ball,2,11.8,Lightning,KE Bryce,SJ Bryce,L Jackson,4,0,,,,,,"",""
+ball,2,12.1,Lightning,SJ Bryce,KE Bryce,A Hartley,0,0,,,,,,"",""
+ball,2,12.2,Lightning,SJ Bryce,KE Bryce,A Hartley,0,0,,,,,,"",""
+ball,2,12.3,Lightning,SJ Bryce,KE Bryce,A Hartley,1,0,,,,,,"",""
+ball,2,12.4,Lightning,KE Bryce,SJ Bryce,A Hartley,0,0,,,,,,"",""
+ball,2,12.5,Lightning,KE Bryce,SJ Bryce,A Hartley,0,1,1,,,,,"",""
+ball,2,12.6,Lightning,KE Bryce,SJ Bryce,A Hartley,1,0,,,,,,"",""
+ball,2,12.7,Lightning,SJ Bryce,KE Bryce,A Hartley,0,0,,,,,,"",""
+ball,2,13.1,Lightning,KE Bryce,SJ Bryce,HE Jones,1,0,,,,,,"",""
+ball,2,13.2,Lightning,SJ Bryce,KE Bryce,HE Jones,0,0,,,,,,"",""
+ball,2,13.3,Lightning,SJ Bryce,KE Bryce,HE Jones,4,0,,,,,,"",""
+ball,2,13.4,Lightning,SJ Bryce,KE Bryce,HE Jones,0,0,,,,,,stumped,SJ Bryce
+ball,2,13.5,Lightning,B Ellis,KE Bryce,HE Jones,0,0,,,,,,"",""
+ball,2,13.6,Lightning,B Ellis,KE Bryce,HE Jones,0,0,,,,,,"",""
+ball,2,14.1,Lightning,KE Bryce,B Ellis,EL Lamb,1,0,,,,,,"",""
+ball,2,14.2,Lightning,B Ellis,KE Bryce,EL Lamb,0,0,,,,,,"",""
+ball,2,14.3,Lightning,B Ellis,KE Bryce,EL Lamb,4,0,,,,,,"",""
+ball,2,14.4,Lightning,B Ellis,KE Bryce,EL Lamb,0,0,,,,,,"",""
+ball,2,14.5,Lightning,B Ellis,KE Bryce,EL Lamb,2,0,,,,,,"",""
+ball,2,14.6,Lightning,B Ellis,KE Bryce,EL Lamb,0,0,,,,,,"",""
+ball,2,15.1,Lightning,KE Bryce,B Ellis,A Hartley,0,0,,,,,,"",""
+ball,2,15.2,Lightning,KE Bryce,B Ellis,A Hartley,2,0,,,,,,"",""
+ball,2,15.3,Lightning,KE Bryce,B Ellis,A Hartley,0,0,,,,,,"",""
+ball,2,15.4,Lightning,KE Bryce,B Ellis,A Hartley,2,0,,,,,,"",""
+ball,2,15.5,Lightning,KE Bryce,B Ellis,A Hartley,1,0,,,,,,"",""
+ball,2,15.6,Lightning,B Ellis,KE Bryce,A Hartley,1,0,,,,,,"",""
+ball,2,16.1,Lightning,B Ellis,KE Bryce,EL Lamb,1,0,,,,,,"",""
+ball,2,16.2,Lightning,KE Bryce,B Ellis,EL Lamb,4,0,,,,,,"",""
+ball,2,16.3,Lightning,KE Bryce,B Ellis,EL Lamb,1,0,,,,,,"",""
+ball,2,16.4,Lightning,B Ellis,KE Bryce,EL Lamb,1,0,,,,,,"",""
+ball,2,16.5,Lightning,KE Bryce,B Ellis,EL Lamb,4,0,,,,,,"",""
+ball,2,16.6,Lightning,KE Bryce,B Ellis,EL Lamb,1,0,,,,,,"",""
+ball,2,17.1,Lightning,KE Bryce,B Ellis,PC Graham,0,0,,,,,,"",""
+ball,2,17.2,Lightning,KE Bryce,B Ellis,PC Graham,4,0,,,,,,"",""
+ball,2,17.3,Lightning,KE Bryce,B Ellis,PC Graham,1,0,,,,,,"",""
+ball,2,17.4,Lightning,B Ellis,KE Bryce,PC Graham,1,0,,,,,,"",""
+ball,2,17.5,Lightning,KE Bryce,B Ellis,PC Graham,2,0,,,,,,"",""
+ball,2,17.6,Lightning,KE Bryce,B Ellis,PC Graham,0,0,,,,,,"",""
+ball,2,18.1,Lightning,B Ellis,KE Bryce,S Turner,1,0,,,,,,"",""
+ball,2,18.2,Lightning,KE Bryce,B Ellis,S Turner,0,0,,,,,,caught,KE Bryce
+ball,2,18.3,Lightning,T Graves,B Ellis,S Turner,1,0,,,,,,"",""
+ball,2,18.4,Lightning,B Ellis,T Graves,S Turner,4,0,,,,,,"",""
+ball,2,18.5,Lightning,B Ellis,T Graves,S Turner,4,0,,,,,,"",""

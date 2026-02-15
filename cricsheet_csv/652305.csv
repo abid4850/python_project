@@ -1,0 +1,296 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Dolphins
+info,gender,male
+info,season,2013/14
+info,date,2014/01/29
+info,event,Ram Slam T20 Challenge
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Dolphins
+info,toss_decision,field
+info,player_of_match,M Shezi
+info,player_of_match,C Chetty
+info,umpire,GH Pienaar
+info,umpire,MW Brown
+info,reserve_umpire,KH Hurter
+info,tv_umpire,BP Jele
+info,match_referee,CJ Mitchley
+info,winner,Dolphins
+info,winner_wickets,8
+info,player,Titans,H Davids
+info,player,Titans,HG Kuhn
+info,player,Titans,F du Plessis
+info,player,Titans,F Behardien
+info,player,Titans,RE van der Merwe
+info,player,Titans,JA Morkel
+info,player,Titans,D Wiese
+info,player,Titans,M Mosehle
+info,player,Titans,M Morkel
+info,player,Titans,Saeed Ajmal
+info,player,Titans,NE Mbhalati
+info,player,Dolphins,MN van Wyk
+info,player,Dolphins,CS Delport
+info,player,Dolphins,C Chetty
+info,player,Dolphins,DA Miller
+info,player,Dolphins,VB van Jaarsveld
+info,player,Dolphins,K Zondo
+info,player,Dolphins,D Smit
+info,player,Dolphins,R Frylinck
+info,player,Dolphins,KJ Abbott
+info,player,Dolphins,KA Maharaj
+info,player,Dolphins,M Shezi
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Chetty,27ca3a11
+info,registry,people,CJ Mitchley,7f4f18e3
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,D Smit,4bb02ef1
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,F Behardien,dce2019b
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Davids,9c9f8dbc
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KH Hurter,bda8cca8
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Mosehle,8836fcac
+info,registry,people,M Shezi,016e5101
+info,registry,people,MN van Wyk,710dd98c
+info,registry,people,MW Brown,d83d7796
+info,registry,people,NE Mbhalati,800b52dc
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,VB van Jaarsveld,890b877d
+ball,1,0.1,Titans,H Davids,HG Kuhn,KJ Abbott,1,0,,,,,,"",""
+ball,1,0.2,Titans,HG Kuhn,H Davids,KJ Abbott,0,0,,,,,,"",""
+ball,1,0.3,Titans,HG Kuhn,H Davids,KJ Abbott,1,0,,,,,,"",""
+ball,1,0.4,Titans,H Davids,HG Kuhn,KJ Abbott,0,0,,,,,,"",""
+ball,1,0.5,Titans,H Davids,HG Kuhn,KJ Abbott,0,0,,,,,,bowled,H Davids
+ball,1,0.6,Titans,F du Plessis,HG Kuhn,KJ Abbott,0,0,,,,,,"",""
+ball,1,1.1,Titans,HG Kuhn,F du Plessis,K Zondo,1,0,,,,,,"",""
+ball,1,1.2,Titans,F du Plessis,HG Kuhn,K Zondo,1,0,,,,,,"",""
+ball,1,1.3,Titans,HG Kuhn,F du Plessis,K Zondo,1,0,,,,,,"",""
+ball,1,1.4,Titans,F du Plessis,HG Kuhn,K Zondo,0,0,,,,,,"",""
+ball,1,1.5,Titans,F du Plessis,HG Kuhn,K Zondo,1,0,,,,,,"",""
+ball,1,1.6,Titans,HG Kuhn,F du Plessis,K Zondo,4,0,,,,,,"",""
+ball,1,2.1,Titans,F du Plessis,HG Kuhn,M Shezi,0,0,,,,,,"",""
+ball,1,2.2,Titans,F du Plessis,HG Kuhn,M Shezi,0,0,,,,,,caught,F du Plessis
+ball,1,2.3,Titans,HG Kuhn,F Behardien,M Shezi,4,0,,,,,,"",""
+ball,1,2.4,Titans,HG Kuhn,F Behardien,M Shezi,0,0,,,,,,"",""
+ball,1,2.5,Titans,HG Kuhn,F Behardien,M Shezi,1,0,,,,,,"",""
+ball,1,2.6,Titans,F Behardien,HG Kuhn,M Shezi,0,0,,,,,,"",""
+ball,1,3.1,Titans,HG Kuhn,F Behardien,R Frylinck,1,0,,,,,,"",""
+ball,1,3.2,Titans,F Behardien,HG Kuhn,R Frylinck,1,0,,,,,,"",""
+ball,1,3.3,Titans,HG Kuhn,F Behardien,R Frylinck,0,0,,,,,,caught and bowled,HG Kuhn
+ball,1,3.4,Titans,RE van der Merwe,F Behardien,R Frylinck,4,0,,,,,,"",""
+ball,1,3.5,Titans,RE van der Merwe,F Behardien,R Frylinck,1,0,,,,,,"",""
+ball,1,3.6,Titans,F Behardien,RE van der Merwe,R Frylinck,0,0,,,,,,"",""
+ball,1,4.1,Titans,RE van der Merwe,F Behardien,KJ Abbott,0,0,,,,,,"",""
+ball,1,4.2,Titans,RE van der Merwe,F Behardien,KJ Abbott,0,1,,,,1,,"",""
+ball,1,4.3,Titans,F Behardien,RE van der Merwe,KJ Abbott,0,0,,,,,,"",""
+ball,1,4.4,Titans,F Behardien,RE van der Merwe,KJ Abbott,0,0,,,,,,"",""
+ball,1,4.5,Titans,F Behardien,RE van der Merwe,KJ Abbott,0,0,,,,,,"",""
+ball,1,4.6,Titans,F Behardien,RE van der Merwe,KJ Abbott,0,0,,,,,,"",""
+ball,1,5.1,Titans,RE van der Merwe,F Behardien,R Frylinck,1,0,,,,,,"",""
+ball,1,5.2,Titans,F Behardien,RE van der Merwe,R Frylinck,4,0,,,,,,"",""
+ball,1,5.3,Titans,F Behardien,RE van der Merwe,R Frylinck,0,0,,,,,,"",""
+ball,1,5.4,Titans,F Behardien,RE van der Merwe,R Frylinck,1,0,,,,,,"",""
+ball,1,5.5,Titans,RE van der Merwe,F Behardien,R Frylinck,0,0,,,,,,"",""
+ball,1,5.6,Titans,RE van der Merwe,F Behardien,R Frylinck,1,0,,,,,,"",""
+ball,1,6.1,Titans,RE van der Merwe,F Behardien,M Shezi,0,0,,,,,,"",""
+ball,1,6.2,Titans,RE van der Merwe,F Behardien,M Shezi,1,0,,,,,,"",""
+ball,1,6.3,Titans,F Behardien,RE van der Merwe,M Shezi,1,0,,,,,,"",""
+ball,1,6.4,Titans,RE van der Merwe,F Behardien,M Shezi,0,0,,,,,,"",""
+ball,1,6.5,Titans,RE van der Merwe,F Behardien,M Shezi,2,0,,,,,,"",""
+ball,1,6.6,Titans,RE van der Merwe,F Behardien,M Shezi,0,0,,,,,,"",""
+ball,1,7.1,Titans,F Behardien,RE van der Merwe,KA Maharaj,1,0,,,,,,"",""
+ball,1,7.2,Titans,RE van der Merwe,F Behardien,KA Maharaj,1,0,,,,,,"",""
+ball,1,7.3,Titans,F Behardien,RE van der Merwe,KA Maharaj,1,0,,,,,,"",""
+ball,1,7.4,Titans,RE van der Merwe,F Behardien,KA Maharaj,0,0,,,,,,"",""
+ball,1,7.5,Titans,RE van der Merwe,F Behardien,KA Maharaj,0,0,,,,,,"",""
+ball,1,7.6,Titans,RE van der Merwe,F Behardien,KA Maharaj,4,0,,,,,,"",""
+ball,1,8.1,Titans,F Behardien,RE van der Merwe,D Smit,1,0,,,,,,"",""
+ball,1,8.2,Titans,RE van der Merwe,F Behardien,D Smit,1,0,,,,,,"",""
+ball,1,8.3,Titans,F Behardien,RE van der Merwe,D Smit,1,0,,,,,,"",""
+ball,1,8.4,Titans,RE van der Merwe,F Behardien,D Smit,1,0,,,,,,"",""
+ball,1,8.5,Titans,F Behardien,RE van der Merwe,D Smit,1,0,,,,,,"",""
+ball,1,8.6,Titans,RE van der Merwe,F Behardien,D Smit,0,0,,,,,,bowled,RE van der Merwe
+ball,1,9.1,Titans,F Behardien,JA Morkel,K Zondo,0,2,2,,,,,"",""
+ball,1,9.2,Titans,JA Morkel,F Behardien,K Zondo,0,0,,,,,,"",""
+ball,1,9.3,Titans,JA Morkel,F Behardien,K Zondo,1,0,,,,,,"",""
+ball,1,9.4,Titans,F Behardien,JA Morkel,K Zondo,4,0,,,,,,"",""
+ball,1,9.5,Titans,F Behardien,JA Morkel,K Zondo,4,0,,,,,,"",""
+ball,1,9.6,Titans,F Behardien,JA Morkel,K Zondo,1,0,,,,,,"",""
+ball,1,9.7,Titans,JA Morkel,F Behardien,K Zondo,1,0,,,,,,"",""
+ball,1,10.1,Titans,JA Morkel,F Behardien,D Smit,0,0,,,,,,"",""
+ball,1,10.2,Titans,JA Morkel,F Behardien,D Smit,1,0,,,,,,"",""
+ball,1,10.3,Titans,F Behardien,JA Morkel,D Smit,1,0,,,,,,"",""
+ball,1,10.4,Titans,JA Morkel,F Behardien,D Smit,0,1,1,,,,,"",""
+ball,1,10.5,Titans,JA Morkel,F Behardien,D Smit,0,0,,,,,,"",""
+ball,1,10.6,Titans,JA Morkel,F Behardien,D Smit,0,0,,,,,,"",""
+ball,1,10.7,Titans,JA Morkel,F Behardien,D Smit,1,0,,,,,,"",""
+ball,1,11.1,Titans,JA Morkel,F Behardien,M Shezi,1,0,,,,,,"",""
+ball,1,11.2,Titans,F Behardien,JA Morkel,M Shezi,1,0,,,,,,"",""
+ball,1,11.3,Titans,JA Morkel,F Behardien,M Shezi,2,0,,,,,,"",""
+ball,1,11.4,Titans,JA Morkel,F Behardien,M Shezi,1,0,,,,,,"",""
+ball,1,11.5,Titans,F Behardien,JA Morkel,M Shezi,0,0,,,,,,"",""
+ball,1,11.6,Titans,F Behardien,JA Morkel,M Shezi,0,0,,,,,,"",""
+ball,1,12.1,Titans,JA Morkel,F Behardien,KA Maharaj,0,0,,,,,,"",""
+ball,1,12.2,Titans,JA Morkel,F Behardien,KA Maharaj,1,0,,,,,,"",""
+ball,1,12.3,Titans,F Behardien,JA Morkel,KA Maharaj,4,0,,,,,,"",""
+ball,1,12.4,Titans,F Behardien,JA Morkel,KA Maharaj,4,0,,,,,,"",""
+ball,1,12.5,Titans,F Behardien,JA Morkel,KA Maharaj,0,0,,,,,,"",""
+ball,1,12.6,Titans,F Behardien,JA Morkel,KA Maharaj,0,0,,,,,,bowled,F Behardien
+ball,1,13.1,Titans,JA Morkel,D Wiese,K Zondo,1,0,,,,,,"",""
+ball,1,13.2,Titans,D Wiese,JA Morkel,K Zondo,1,0,,,,,,"",""
+ball,1,13.3,Titans,JA Morkel,D Wiese,K Zondo,0,0,,,,,,"",""
+ball,1,13.4,Titans,JA Morkel,D Wiese,K Zondo,0,1,1,,,,,"",""
+ball,1,13.5,Titans,JA Morkel,D Wiese,K Zondo,4,0,,,,,,"",""
+ball,1,13.6,Titans,JA Morkel,D Wiese,K Zondo,1,0,,,,,,"",""
+ball,1,13.7,Titans,D Wiese,JA Morkel,K Zondo,0,0,,,,,,"",""
+ball,1,14.1,Titans,JA Morkel,D Wiese,D Smit,1,0,,,,,,"",""
+ball,1,14.2,Titans,D Wiese,JA Morkel,D Smit,1,0,,,,,,"",""
+ball,1,14.3,Titans,JA Morkel,D Wiese,D Smit,0,0,,,,,,"",""
+ball,1,14.4,Titans,JA Morkel,D Wiese,D Smit,1,0,,,,,,"",""
+ball,1,14.5,Titans,D Wiese,JA Morkel,D Smit,1,0,,,,,,"",""
+ball,1,14.6,Titans,JA Morkel,D Wiese,D Smit,1,0,,,,,,"",""
+ball,1,15.1,Titans,JA Morkel,D Wiese,R Frylinck,0,0,,,,,,"",""
+ball,1,15.2,Titans,JA Morkel,D Wiese,R Frylinck,1,0,,,,,,"",""
+ball,1,15.3,Titans,D Wiese,JA Morkel,R Frylinck,0,0,,,,,,"",""
+ball,1,15.4,Titans,D Wiese,JA Morkel,R Frylinck,1,0,,,,,,"",""
+ball,1,15.5,Titans,JA Morkel,D Wiese,R Frylinck,1,0,,,,,,"",""
+ball,1,15.6,Titans,D Wiese,JA Morkel,R Frylinck,1,0,,,,,,"",""
+ball,1,16.1,Titans,D Wiese,JA Morkel,M Shezi,0,0,,,,,,"",""
+ball,1,16.2,Titans,D Wiese,JA Morkel,M Shezi,1,0,,,,,,"",""
+ball,1,16.3,Titans,JA Morkel,D Wiese,M Shezi,0,1,,,,1,,"",""
+ball,1,16.4,Titans,D Wiese,JA Morkel,M Shezi,0,0,,,,,,bowled,D Wiese
+ball,1,16.5,Titans,M Mosehle,JA Morkel,M Shezi,0,0,,,,,,"",""
+ball,1,16.6,Titans,M Mosehle,JA Morkel,M Shezi,1,0,,,,,,"",""
+ball,1,17.1,Titans,M Mosehle,JA Morkel,KJ Abbott,1,0,,,,,,"",""
+ball,1,17.2,Titans,JA Morkel,M Mosehle,KJ Abbott,0,0,,,,,,"",""
+ball,1,17.3,Titans,JA Morkel,M Mosehle,KJ Abbott,1,0,,,,,,"",""
+ball,1,17.4,Titans,M Mosehle,JA Morkel,KJ Abbott,1,0,,,,,,"",""
+ball,1,17.5,Titans,JA Morkel,M Mosehle,KJ Abbott,4,0,,,,,,"",""
+ball,1,17.6,Titans,JA Morkel,M Mosehle,KJ Abbott,1,0,,,,,,"",""
+ball,1,18.1,Titans,JA Morkel,M Mosehle,R Frylinck,1,0,,,,,,"",""
+ball,1,18.2,Titans,M Mosehle,JA Morkel,R Frylinck,0,0,,,,,,caught,M Mosehle
+ball,1,18.3,Titans,JA Morkel,M Morkel,R Frylinck,1,0,,,,,,"",""
+ball,1,18.4,Titans,M Morkel,JA Morkel,R Frylinck,1,0,,,,,,"",""
+ball,1,18.5,Titans,JA Morkel,M Morkel,R Frylinck,0,0,,,,,,"",""
+ball,1,18.6,Titans,JA Morkel,M Morkel,R Frylinck,1,0,,,,,,"",""
+ball,1,19.1,Titans,JA Morkel,M Morkel,KJ Abbott,0,0,,,,,,"",""
+ball,1,19.2,Titans,JA Morkel,M Morkel,KJ Abbott,1,0,,,,,,"",""
+ball,1,19.3,Titans,M Morkel,JA Morkel,KJ Abbott,1,0,,,,,,"",""
+ball,1,19.4,Titans,JA Morkel,M Morkel,KJ Abbott,4,0,,,,,,"",""
+ball,1,19.5,Titans,JA Morkel,M Morkel,KJ Abbott,0,0,,,,,,"",""
+ball,1,19.6,Titans,JA Morkel,M Morkel,KJ Abbott,0,0,,,,,,"",""
+ball,2,0.1,Dolphins,MN van Wyk,CS Delport,JA Morkel,0,0,,,,,,"",""
+ball,2,0.2,Dolphins,MN van Wyk,CS Delport,JA Morkel,1,0,,,,,,"",""
+ball,2,0.3,Dolphins,CS Delport,MN van Wyk,JA Morkel,0,0,,,,,,"",""
+ball,2,0.4,Dolphins,CS Delport,MN van Wyk,JA Morkel,1,0,,,,,,"",""
+ball,2,0.5,Dolphins,MN van Wyk,CS Delport,JA Morkel,4,0,,,,,,"",""
+ball,2,0.6,Dolphins,MN van Wyk,CS Delport,JA Morkel,0,0,,,,,,"",""
+ball,2,1.1,Dolphins,CS Delport,MN van Wyk,M Morkel,1,0,,,,,,"",""
+ball,2,1.2,Dolphins,MN van Wyk,CS Delport,M Morkel,4,0,,,,,,"",""
+ball,2,1.3,Dolphins,MN van Wyk,CS Delport,M Morkel,1,0,,,,,,"",""
+ball,2,1.4,Dolphins,CS Delport,MN van Wyk,M Morkel,0,0,,,,,,"",""
+ball,2,1.5,Dolphins,CS Delport,MN van Wyk,M Morkel,4,0,,,,,,"",""
+ball,2,1.6,Dolphins,CS Delport,MN van Wyk,M Morkel,1,0,,,,,,"",""
+ball,2,2.1,Dolphins,CS Delport,MN van Wyk,NE Mbhalati,4,0,,,,,,"",""
+ball,2,2.2,Dolphins,CS Delport,MN van Wyk,NE Mbhalati,0,0,,,,,,"",""
+ball,2,2.3,Dolphins,CS Delport,MN van Wyk,NE Mbhalati,4,0,,,,,,"",""
+ball,2,2.4,Dolphins,CS Delport,MN van Wyk,NE Mbhalati,2,0,,,,,,"",""
+ball,2,2.5,Dolphins,CS Delport,MN van Wyk,NE Mbhalati,0,0,,,,,,"",""
+ball,2,2.6,Dolphins,CS Delport,MN van Wyk,NE Mbhalati,0,0,,,,,,"",""
+ball,2,3.1,Dolphins,MN van Wyk,CS Delport,Saeed Ajmal,1,0,,,,,,"",""
+ball,2,3.2,Dolphins,CS Delport,MN van Wyk,Saeed Ajmal,0,0,,,,,,caught,CS Delport
+ball,2,3.3,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,3.4,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,4,0,,,,,,"",""
+ball,2,3.5,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,3.6,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,4.1,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,2,0,,,,,,"",""
+ball,2,4.2,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,1,0,,,,,,"",""
+ball,2,4.3,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,4,0,,,,,,"",""
+ball,2,4.4,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,0,0,,,,,,"",""
+ball,2,4.5,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,4,0,,,,,,"",""
+ball,2,4.6,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,4,0,,,,,,"",""
+ball,2,5.1,Dolphins,MN van Wyk,C Chetty,M Morkel,0,0,,,,,,"",""
+ball,2,5.2,Dolphins,MN van Wyk,C Chetty,M Morkel,1,0,,,,,,"",""
+ball,2,5.3,Dolphins,C Chetty,MN van Wyk,M Morkel,0,0,,,,,,"",""
+ball,2,5.4,Dolphins,C Chetty,MN van Wyk,M Morkel,0,0,,,,,,"",""
+ball,2,5.5,Dolphins,C Chetty,MN van Wyk,M Morkel,1,0,,,,,,"",""
+ball,2,5.6,Dolphins,MN van Wyk,C Chetty,M Morkel,0,0,,,,,,"",""
+ball,2,6.1,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,2,0,,,,,,"",""
+ball,2,6.2,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,1,0,,,,,,"",""
+ball,2,6.3,Dolphins,MN van Wyk,C Chetty,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,6.4,Dolphins,MN van Wyk,C Chetty,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,6.5,Dolphins,MN van Wyk,C Chetty,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,6.6,Dolphins,MN van Wyk,C Chetty,Saeed Ajmal,0,1,1,,,,,"",""
+ball,2,6.7,Dolphins,MN van Wyk,C Chetty,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,7.1,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,0,0,,,,,,"",""
+ball,2,7.2,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,1,0,,,,,,"",""
+ball,2,7.3,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,1,0,,,,,,"",""
+ball,2,7.4,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,0,0,,,,,,"",""
+ball,2,7.5,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,1,0,,,,,,"",""
+ball,2,7.6,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,4,0,,,,,,"",""
+ball,2,8.1,Dolphins,C Chetty,MN van Wyk,F du Plessis,0,0,,,,,,"",""
+ball,2,8.2,Dolphins,C Chetty,MN van Wyk,F du Plessis,6,0,,,,,,"",""
+ball,2,8.3,Dolphins,C Chetty,MN van Wyk,F du Plessis,2,0,,,,,,"",""
+ball,2,8.4,Dolphins,C Chetty,MN van Wyk,F du Plessis,0,0,,,,,,"",""
+ball,2,8.5,Dolphins,C Chetty,MN van Wyk,F du Plessis,1,0,,,,,,"",""
+ball,2,8.6,Dolphins,MN van Wyk,C Chetty,F du Plessis,1,0,,,,,,"",""
+ball,2,9.1,Dolphins,MN van Wyk,C Chetty,NE Mbhalati,1,0,,,,,,"",""
+ball,2,9.2,Dolphins,C Chetty,MN van Wyk,NE Mbhalati,1,0,,,,,,"",""
+ball,2,9.3,Dolphins,MN van Wyk,C Chetty,NE Mbhalati,0,0,,,,,,"",""
+ball,2,9.4,Dolphins,MN van Wyk,C Chetty,NE Mbhalati,0,0,,,,,,"",""
+ball,2,9.5,Dolphins,MN van Wyk,C Chetty,NE Mbhalati,0,0,,,,,,"",""
+ball,2,9.6,Dolphins,MN van Wyk,C Chetty,NE Mbhalati,1,0,,,,,,"",""
+ball,2,10.1,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,0,0,,,,,,"",""
+ball,2,10.2,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,0,0,,,,,,"",""
+ball,2,10.3,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,0,0,,,,,,"",""
+ball,2,10.4,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,2,0,,,,,,"",""
+ball,2,10.5,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,0,0,,,,,,"",""
+ball,2,10.6,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,1,0,,,,,,"",""
+ball,2,11.1,Dolphins,MN van Wyk,C Chetty,H Davids,1,0,,,,,,"",""
+ball,2,11.2,Dolphins,C Chetty,MN van Wyk,H Davids,1,0,,,,,,"",""
+ball,2,11.3,Dolphins,MN van Wyk,C Chetty,H Davids,4,0,,,,,,"",""
+ball,2,11.4,Dolphins,MN van Wyk,C Chetty,H Davids,1,0,,,,,,"",""
+ball,2,11.5,Dolphins,C Chetty,MN van Wyk,H Davids,1,0,,,,,,"",""
+ball,2,11.6,Dolphins,MN van Wyk,C Chetty,H Davids,0,0,,,,,,"",""
+ball,2,12.1,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,2,0,,,,,,"",""
+ball,2,12.2,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,1,0,,,,,,"",""
+ball,2,12.3,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,0,0,,,,,,"",""
+ball,2,12.4,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,1,0,,,,,,"",""
+ball,2,12.5,Dolphins,C Chetty,MN van Wyk,RE van der Merwe,1,0,,,,,,"",""
+ball,2,12.6,Dolphins,MN van Wyk,C Chetty,RE van der Merwe,1,0,,,,,,"",""
+ball,2,13.1,Dolphins,MN van Wyk,C Chetty,Saeed Ajmal,1,0,,,,,,"",""
+ball,2,13.2,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,2,0,,,,,,"",""
+ball,2,13.3,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,2,0,,,,,,"",""
+ball,2,13.4,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,1,0,,,,,,"",""
+ball,2,13.5,Dolphins,MN van Wyk,C Chetty,Saeed Ajmal,4,0,,,,,,"",""
+ball,2,13.6,Dolphins,MN van Wyk,C Chetty,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,14.1,Dolphins,C Chetty,MN van Wyk,M Morkel,0,0,,,,,,"",""
+ball,2,14.2,Dolphins,C Chetty,MN van Wyk,M Morkel,0,0,,,,,,"",""
+ball,2,14.3,Dolphins,C Chetty,MN van Wyk,M Morkel,1,1,,1,,,,"",""
+ball,2,14.4,Dolphins,MN van Wyk,C Chetty,M Morkel,1,0,,,,,,"",""
+ball,2,14.5,Dolphins,C Chetty,MN van Wyk,M Morkel,2,0,,,,,,"",""
+ball,2,14.6,Dolphins,C Chetty,MN van Wyk,M Morkel,1,0,,,,,,"",""
+ball,2,14.7,Dolphins,MN van Wyk,C Chetty,M Morkel,2,0,,,,,,"",""
+ball,2,15.1,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,1,0,,,,,,"",""
+ball,2,15.2,Dolphins,MN van Wyk,C Chetty,Saeed Ajmal,1,0,,,,,,"",""
+ball,2,15.3,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,15.4,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,0,0,,,,,,"",""
+ball,2,15.5,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,2,0,,,,,,"",""
+ball,2,15.6,Dolphins,C Chetty,MN van Wyk,Saeed Ajmal,0,0,,,,,,caught,C Chetty
+ball,2,16.1,Dolphins,MN van Wyk,DA Miller,M Morkel,1,0,,,,,,"",""
+ball,2,16.2,Dolphins,DA Miller,MN van Wyk,M Morkel,1,0,,,,,,"",""
+ball,2,16.3,Dolphins,MN van Wyk,DA Miller,M Morkel,0,0,,,,,,"",""
+ball,2,16.4,Dolphins,MN van Wyk,DA Miller,M Morkel,0,0,,,,,,"",""
+ball,2,16.5,Dolphins,MN van Wyk,DA Miller,M Morkel,6,0,,,,,,"",""

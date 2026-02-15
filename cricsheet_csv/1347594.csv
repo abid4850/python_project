@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2023
+info,date,2023/05/30
+info,event,Vitality Blast
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Yorkshire
+info,toss_decision,bat
+info,umpire,SJ O'Shaughnessy
+info,umpire,Tom Lungley
+info,match_referee,JJ Swift
+info,winner,Yorkshire
+info,winner_runs,8
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,W Luxton
+info,player,Yorkshire,Shan Masood
+info,player,Yorkshire,D Wiese
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,BWM Mike
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,JA Chohan
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,C Munro
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,SR Patel
+info,player,Nottinghamshire,M Carter
+info,player,Nottinghamshire,Shaheen Shah Afridi
+info,player,Nottinghamshire,JA Brooks
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AD Hales,92aeac25
+info,registry,people,BWM Mike,ed12fcd7
+info,registry,people,C Munro,af2c687b
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DM Bess,ad46c747
+info,registry,people,JA Brooks,8bf61e65
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Carter,1ca7c00f
+info,registry,people,M Montgomery,7671203a
+info,registry,people,ML Revis,28217d89
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,SR Patel,18fac429
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,W Luxton,c15fb753
+ball,1,0.1,Yorkshire,A Lyth,DJ Malan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,0.2,Yorkshire,A Lyth,DJ Malan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,0.3,Yorkshire,A Lyth,DJ Malan,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,0.4,Yorkshire,DJ Malan,A Lyth,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,0.5,Yorkshire,DJ Malan,A Lyth,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,0.6,Yorkshire,DJ Malan,A Lyth,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,1.1,Yorkshire,A Lyth,DJ Malan,M Carter,1,0,,,,,,"",""
+ball,1,1.2,Yorkshire,DJ Malan,A Lyth,M Carter,0,0,,,,,,"",""
+ball,1,1.3,Yorkshire,DJ Malan,A Lyth,M Carter,1,0,,,,,,"",""
+ball,1,1.4,Yorkshire,A Lyth,DJ Malan,M Carter,1,0,,,,,,"",""
+ball,1,1.5,Yorkshire,DJ Malan,A Lyth,M Carter,4,0,,,,,,"",""
+ball,1,1.6,Yorkshire,DJ Malan,A Lyth,M Carter,1,0,,,,,,"",""
+ball,1,2.1,Yorkshire,DJ Malan,A Lyth,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,1,2.2,Yorkshire,DJ Malan,A Lyth,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,2.3,Yorkshire,DJ Malan,A Lyth,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,2.4,Yorkshire,A Lyth,DJ Malan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,2.5,Yorkshire,A Lyth,DJ Malan,Shaheen Shah Afridi,0,1,,,,1,,"",""
+ball,1,2.6,Yorkshire,DJ Malan,A Lyth,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,3.1,Yorkshire,DJ Malan,A Lyth,JA Brooks,4,0,,,,,,"",""
+ball,1,3.2,Yorkshire,DJ Malan,A Lyth,JA Brooks,1,0,,,,,,"",""
+ball,1,3.3,Yorkshire,A Lyth,DJ Malan,JA Brooks,1,0,,,,,,"",""
+ball,1,3.4,Yorkshire,DJ Malan,A Lyth,JA Brooks,4,0,,,,,,"",""
+ball,1,3.5,Yorkshire,DJ Malan,A Lyth,JA Brooks,1,0,,,,,,"",""
+ball,1,3.6,Yorkshire,A Lyth,DJ Malan,JA Brooks,6,0,,,,,,"",""
+ball,1,4.1,Yorkshire,DJ Malan,A Lyth,M Carter,0,0,,,,,,"",""
+ball,1,4.2,Yorkshire,DJ Malan,A Lyth,M Carter,1,0,,,,,,"",""
+ball,1,4.3,Yorkshire,A Lyth,DJ Malan,M Carter,2,0,,,,,,"",""
+ball,1,4.4,Yorkshire,A Lyth,DJ Malan,M Carter,0,0,,,,,,"",""
+ball,1,4.5,Yorkshire,A Lyth,DJ Malan,M Carter,0,0,,,,,,"",""
+ball,1,4.6,Yorkshire,A Lyth,DJ Malan,M Carter,0,0,,,,,,"",""
+ball,1,5.1,Yorkshire,DJ Malan,A Lyth,JA Brooks,6,0,,,,,,"",""
+ball,1,5.2,Yorkshire,DJ Malan,A Lyth,JA Brooks,1,0,,,,,,"",""
+ball,1,5.3,Yorkshire,A Lyth,DJ Malan,JA Brooks,0,0,,,,,,caught,A Lyth
+ball,1,5.4,Yorkshire,W Luxton,DJ Malan,JA Brooks,0,0,,,,,,"",""
+ball,1,5.5,Yorkshire,W Luxton,DJ Malan,JA Brooks,0,0,,,,,,"",""
+ball,1,5.6,Yorkshire,W Luxton,DJ Malan,JA Brooks,0,0,,,,,,caught,W Luxton
+ball,1,6.1,Yorkshire,DJ Malan,Shan Masood,SJ Mullaney,1,0,,,,,,"",""
+ball,1,6.2,Yorkshire,Shan Masood,DJ Malan,SJ Mullaney,0,0,,,,,,"",""
+ball,1,6.3,Yorkshire,Shan Masood,DJ Malan,SJ Mullaney,1,0,,,,,,"",""
+ball,1,6.4,Yorkshire,DJ Malan,Shan Masood,SJ Mullaney,1,0,,,,,,"",""
+ball,1,6.5,Yorkshire,Shan Masood,DJ Malan,SJ Mullaney,1,0,,,,,,"",""
+ball,1,6.6,Yorkshire,DJ Malan,Shan Masood,SJ Mullaney,0,0,,,,,,"",""
+ball,1,7.1,Yorkshire,Shan Masood,DJ Malan,SR Patel,0,0,,,,,,"",""
+ball,1,7.2,Yorkshire,Shan Masood,DJ Malan,SR Patel,4,0,,,,,,"",""
+ball,1,7.3,Yorkshire,Shan Masood,DJ Malan,SR Patel,1,0,,,,,,"",""
+ball,1,7.4,Yorkshire,DJ Malan,Shan Masood,SR Patel,1,0,,,,,,"",""
+ball,1,7.5,Yorkshire,Shan Masood,DJ Malan,SR Patel,0,0,,,,,,"",""
+ball,1,7.6,Yorkshire,Shan Masood,DJ Malan,SR Patel,6,0,,,,,,"",""
+ball,1,8.1,Yorkshire,DJ Malan,Shan Masood,SJ Mullaney,6,0,,,,,,"",""
+ball,1,8.2,Yorkshire,DJ Malan,Shan Masood,SJ Mullaney,1,0,,,,,,"",""
+ball,1,8.3,Yorkshire,Shan Masood,DJ Malan,SJ Mullaney,1,0,,,,,,"",""
+ball,1,8.4,Yorkshire,DJ Malan,Shan Masood,SJ Mullaney,1,0,,,,,,"",""
+ball,1,8.5,Yorkshire,Shan Masood,DJ Malan,SJ Mullaney,1,0,,,,,,"",""
+ball,1,8.6,Yorkshire,DJ Malan,Shan Masood,SJ Mullaney,1,0,,,,,,"",""
+ball,1,9.1,Yorkshire,DJ Malan,Shan Masood,M Montgomery,1,0,,,,,,"",""
+ball,1,9.2,Yorkshire,Shan Masood,DJ Malan,M Montgomery,2,0,,,,,,"",""
+ball,1,9.3,Yorkshire,Shan Masood,DJ Malan,M Montgomery,1,0,,,,,,"",""
+ball,1,9.4,Yorkshire,DJ Malan,Shan Masood,M Montgomery,1,0,,,,,,"",""
+ball,1,9.5,Yorkshire,Shan Masood,DJ Malan,M Montgomery,0,0,,,,,,"",""
+ball,1,9.6,Yorkshire,Shan Masood,DJ Malan,M Montgomery,1,0,,,,,,"",""
+ball,1,10.1,Yorkshire,Shan Masood,DJ Malan,M Carter,4,0,,,,,,"",""
+ball,1,10.2,Yorkshire,Shan Masood,DJ Malan,M Carter,0,0,,,,,,"",""
+ball,1,10.3,Yorkshire,Shan Masood,DJ Malan,M Carter,1,0,,,,,,"",""
+ball,1,10.4,Yorkshire,DJ Malan,Shan Masood,M Carter,1,0,,,,,,"",""
+ball,1,10.5,Yorkshire,Shan Masood,DJ Malan,M Carter,2,0,,,,,,"",""
+ball,1,10.6,Yorkshire,Shan Masood,DJ Malan,M Carter,1,0,,,,,,"",""
+ball,1,11.1,Yorkshire,Shan Masood,DJ Malan,M Montgomery,0,0,,,,,,"",""
+ball,1,11.2,Yorkshire,Shan Masood,DJ Malan,M Montgomery,6,0,,,,,,"",""
+ball,1,11.3,Yorkshire,Shan Masood,DJ Malan,M Montgomery,1,0,,,,,,"",""
+ball,1,11.4,Yorkshire,DJ Malan,Shan Masood,M Montgomery,1,0,,,,,,"",""
+ball,1,11.5,Yorkshire,Shan Masood,DJ Malan,M Montgomery,0,0,,,,,,caught,Shan Masood
+ball,1,11.6,Yorkshire,D Wiese,DJ Malan,M Montgomery,4,0,,,,,,"",""
+ball,1,12.1,Yorkshire,DJ Malan,D Wiese,LW James,1,0,,,,,,"",""
+ball,1,12.2,Yorkshire,D Wiese,DJ Malan,LW James,0,1,1,,,,,"",""
+ball,1,12.3,Yorkshire,D Wiese,DJ Malan,LW James,0,0,,,,,,"",""
+ball,1,12.4,Yorkshire,D Wiese,DJ Malan,LW James,1,0,,,,,,"",""
+ball,1,12.5,Yorkshire,DJ Malan,D Wiese,LW James,0,0,,,,,,"",""
+ball,1,12.6,Yorkshire,DJ Malan,D Wiese,LW James,1,0,,,,,,"",""
+ball,1,12.7,Yorkshire,D Wiese,DJ Malan,LW James,1,0,,,,,,"",""
+ball,1,13.1,Yorkshire,D Wiese,DJ Malan,SR Patel,1,0,,,,,,"",""
+ball,1,13.2,Yorkshire,DJ Malan,D Wiese,SR Patel,1,0,,,,,,"",""
+ball,1,13.3,Yorkshire,D Wiese,DJ Malan,SR Patel,0,1,,,,1,,"",""
+ball,1,13.4,Yorkshire,DJ Malan,D Wiese,SR Patel,1,0,,,,,,"",""
+ball,1,13.5,Yorkshire,D Wiese,DJ Malan,SR Patel,4,0,,,,,,"",""
+ball,1,13.6,Yorkshire,D Wiese,DJ Malan,SR Patel,0,1,1,,,,,"",""
+ball,1,13.7,Yorkshire,D Wiese,DJ Malan,SR Patel,0,0,,,,,,caught,D Wiese
+ball,1,14.1,Yorkshire,DJ Malan,ML Revis,M Carter,4,0,,,,,,"",""
+ball,1,14.2,Yorkshire,DJ Malan,ML Revis,M Carter,1,0,,,,,,"",""
+ball,1,14.3,Yorkshire,ML Revis,DJ Malan,M Carter,1,0,,,,,,"",""
+ball,1,14.4,Yorkshire,DJ Malan,ML Revis,M Carter,6,0,,,,,,"",""
+ball,1,14.5,Yorkshire,DJ Malan,ML Revis,M Carter,0,0,,,,,,"",""
+ball,1,14.6,Yorkshire,DJ Malan,ML Revis,M Carter,1,0,,,,,,"",""
+ball,1,15.1,Yorkshire,DJ Malan,ML Revis,SR Patel,0,0,,,,,,"",""
+ball,1,15.2,Yorkshire,DJ Malan,ML Revis,SR Patel,2,0,,,,,,"",""
+ball,1,15.3,Yorkshire,DJ Malan,ML Revis,SR Patel,0,0,,,,,,"",""
+ball,1,15.4,Yorkshire,DJ Malan,ML Revis,SR Patel,1,0,,,,,,"",""
+ball,1,15.5,Yorkshire,ML Revis,DJ Malan,SR Patel,1,0,,,,,,"",""
+ball,1,15.6,Yorkshire,DJ Malan,ML Revis,SR Patel,4,0,,,,,,"",""
+ball,1,16.1,Yorkshire,ML Revis,DJ Malan,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,16.2,Yorkshire,ML Revis,DJ Malan,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,16.3,Yorkshire,DJ Malan,ML Revis,Shaheen Shah Afridi,3,0,,,,,,"",""
+ball,1,16.4,Yorkshire,ML Revis,DJ Malan,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,16.5,Yorkshire,DJ Malan,ML Revis,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,1,16.6,Yorkshire,DJ Malan,ML Revis,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,17.1,Yorkshire,ML Revis,DJ Malan,JA Brooks,1,0,,,,,,"",""
+ball,1,17.2,Yorkshire,DJ Malan,ML Revis,JA Brooks,4,0,,,,,,"",""
+ball,1,17.3,Yorkshire,DJ Malan,ML Revis,JA Brooks,4,0,,,,,,"",""
+ball,1,17.4,Yorkshire,DJ Malan,ML Revis,JA Brooks,1,0,,,,,,"",""
+ball,1,17.5,Yorkshire,ML Revis,DJ Malan,JA Brooks,0,0,,,,,,caught,ML Revis
+ball,1,17.6,Yorkshire,JA Thompson,DJ Malan,JA Brooks,1,0,,,,,,"",""
+ball,1,18.1,Yorkshire,JA Thompson,DJ Malan,Shaheen Shah Afridi,0,0,,,,,,caught,JA Thompson
+ball,1,18.2,Yorkshire,BWM Mike,DJ Malan,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,1,18.3,Yorkshire,BWM Mike,DJ Malan,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,18.4,Yorkshire,BWM Mike,DJ Malan,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,18.5,Yorkshire,BWM Mike,DJ Malan,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,18.6,Yorkshire,DJ Malan,BWM Mike,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,1,19.1,Yorkshire,BWM Mike,DJ Malan,JA Brooks,4,0,,,,,,"",""
+ball,1,19.2,Yorkshire,BWM Mike,DJ Malan,JA Brooks,0,0,,,,,,caught,BWM Mike
+ball,1,19.3,Yorkshire,DM Bess,DJ Malan,JA Brooks,0,1,,,,1,,"",""
+ball,1,19.4,Yorkshire,DJ Malan,DM Bess,JA Brooks,4,0,,,,,,"",""
+ball,1,19.5,Yorkshire,DJ Malan,DM Bess,JA Brooks,6,0,,,,,,"",""
+ball,1,19.6,Yorkshire,DJ Malan,DM Bess,JA Brooks,2,0,,,,,,"",""
+ball,2,0.1,Nottinghamshire,JM Clarke,AD Hales,DM Bess,1,0,,,,,,"",""
+ball,2,0.2,Nottinghamshire,AD Hales,JM Clarke,DM Bess,1,0,,,,,,"",""
+ball,2,0.3,Nottinghamshire,JM Clarke,AD Hales,DM Bess,1,0,,,,,,"",""
+ball,2,0.4,Nottinghamshire,AD Hales,JM Clarke,DM Bess,4,0,,,,,,"",""
+ball,2,0.5,Nottinghamshire,AD Hales,JM Clarke,DM Bess,1,0,,,,,,"",""
+ball,2,0.6,Nottinghamshire,JM Clarke,AD Hales,DM Bess,2,0,,,,,,"",""
+ball,2,1.1,Nottinghamshire,AD Hales,JM Clarke,D Wiese,0,0,,,,,,"",""
+ball,2,1.2,Nottinghamshire,AD Hales,JM Clarke,D Wiese,1,0,,,,,,"",""
+ball,2,1.3,Nottinghamshire,JM Clarke,AD Hales,D Wiese,0,0,,,,,,"",""
+ball,2,1.4,Nottinghamshire,JM Clarke,AD Hales,D Wiese,4,0,,,,,,"",""
+ball,2,1.5,Nottinghamshire,JM Clarke,AD Hales,D Wiese,0,0,,,,,,caught,JM Clarke
+ball,2,1.6,Nottinghamshire,C Munro,AD Hales,D Wiese,4,0,,,,,,"",""
+ball,2,2.1,Nottinghamshire,AD Hales,C Munro,DM Bess,1,0,,,,,,"",""
+ball,2,2.2,Nottinghamshire,C Munro,AD Hales,DM Bess,0,0,,,,,,"",""
+ball,2,2.3,Nottinghamshire,C Munro,AD Hales,DM Bess,0,0,,,,,,"",""
+ball,2,2.4,Nottinghamshire,C Munro,AD Hales,DM Bess,0,0,,,,,,"",""
+ball,2,2.5,Nottinghamshire,C Munro,AD Hales,DM Bess,0,0,,,,,,"",""
+ball,2,2.6,Nottinghamshire,C Munro,AD Hales,DM Bess,0,0,,,,,,"",""
+ball,2,3.1,Nottinghamshire,AD Hales,C Munro,D Wiese,1,0,,,,,,"",""
+ball,2,3.2,Nottinghamshire,C Munro,AD Hales,D Wiese,2,0,,,,,,"",""
+ball,2,3.3,Nottinghamshire,C Munro,AD Hales,D Wiese,1,0,,,,,,"",""
+ball,2,3.4,Nottinghamshire,AD Hales,C Munro,D Wiese,1,0,,,,,,"",""
+ball,2,3.5,Nottinghamshire,C Munro,AD Hales,D Wiese,1,0,,,,,,"",""
+ball,2,3.6,Nottinghamshire,AD Hales,C Munro,D Wiese,1,0,,,,,,"",""
+ball,2,4.1,Nottinghamshire,AD Hales,C Munro,BWM Mike,1,0,,,,,,"",""
+ball,2,4.2,Nottinghamshire,C Munro,AD Hales,BWM Mike,0,0,,,,,,"",""
+ball,2,4.3,Nottinghamshire,C Munro,AD Hales,BWM Mike,4,0,,,,,,"",""
+ball,2,4.4,Nottinghamshire,C Munro,AD Hales,BWM Mike,1,0,,,,,,"",""
+ball,2,4.5,Nottinghamshire,AD Hales,C Munro,BWM Mike,4,0,,,,,,"",""
+ball,2,4.6,Nottinghamshire,AD Hales,C Munro,BWM Mike,0,0,,,,,,"",""
+ball,2,5.1,Nottinghamshire,C Munro,AD Hales,JA Thompson,1,0,,,,,,"",""
+ball,2,5.2,Nottinghamshire,AD Hales,C Munro,JA Thompson,4,0,,,,,,"",""
+ball,2,5.3,Nottinghamshire,AD Hales,C Munro,JA Thompson,4,0,,,,,,"",""
+ball,2,5.4,Nottinghamshire,AD Hales,C Munro,JA Thompson,1,0,,,,,,"",""
+ball,2,5.5,Nottinghamshire,C Munro,AD Hales,JA Thompson,0,0,,,,,,"",""
+ball,2,5.6,Nottinghamshire,C Munro,AD Hales,JA Thompson,1,0,,,,,,"",""
+ball,2,6.1,Nottinghamshire,C Munro,AD Hales,DM Bess,2,0,,,,,,"",""
+ball,2,6.2,Nottinghamshire,C Munro,AD Hales,DM Bess,1,0,,,,,,"",""
+ball,2,6.3,Nottinghamshire,AD Hales,C Munro,DM Bess,1,0,,,,,,"",""
+ball,2,6.4,Nottinghamshire,C Munro,AD Hales,DM Bess,0,0,,,,,,"",""
+ball,2,6.5,Nottinghamshire,C Munro,AD Hales,DM Bess,1,0,,,,,,"",""
+ball,2,6.6,Nottinghamshire,AD Hales,C Munro,DM Bess,1,0,,,,,,"",""
+ball,2,7.1,Nottinghamshire,AD Hales,C Munro,JA Chohan,1,0,,,,,,"",""
+ball,2,7.2,Nottinghamshire,C Munro,AD Hales,JA Chohan,1,0,,,,,,"",""
+ball,2,7.3,Nottinghamshire,AD Hales,C Munro,JA Chohan,4,0,,,,,,"",""
+ball,2,7.4,Nottinghamshire,AD Hales,C Munro,JA Chohan,0,1,1,,,,,"",""
+ball,2,7.5,Nottinghamshire,AD Hales,C Munro,JA Chohan,1,0,,,,,,"",""
+ball,2,7.6,Nottinghamshire,C Munro,AD Hales,JA Chohan,1,0,,,,,,"",""
+ball,2,7.7,Nottinghamshire,AD Hales,C Munro,JA Chohan,4,0,,,,,,"",""
+ball,2,8.1,Nottinghamshire,C Munro,AD Hales,ML Revis,1,0,,,,,,"",""
+ball,2,8.2,Nottinghamshire,AD Hales,C Munro,ML Revis,1,0,,,,,,"",""
+ball,2,8.3,Nottinghamshire,C Munro,AD Hales,ML Revis,1,0,,,,,,"",""
+ball,2,8.4,Nottinghamshire,AD Hales,C Munro,ML Revis,0,0,,,,,,"",""
+ball,2,8.5,Nottinghamshire,AD Hales,C Munro,ML Revis,1,0,,,,,,"",""
+ball,2,8.6,Nottinghamshire,C Munro,AD Hales,ML Revis,0,0,,,,,,"",""
+ball,2,9.1,Nottinghamshire,AD Hales,C Munro,JA Thompson,0,0,,,,,,"",""
+ball,2,9.2,Nottinghamshire,AD Hales,C Munro,JA Thompson,4,0,,,,,,"",""
+ball,2,9.3,Nottinghamshire,AD Hales,C Munro,JA Thompson,1,0,,,,,,"",""
+ball,2,9.4,Nottinghamshire,C Munro,AD Hales,JA Thompson,1,0,,,,,,"",""
+ball,2,9.5,Nottinghamshire,AD Hales,C Munro,JA Thompson,1,0,,,,,,"",""
+ball,2,9.6,Nottinghamshire,C Munro,AD Hales,JA Thompson,0,0,,,,,,"",""
+ball,2,10.1,Nottinghamshire,AD Hales,C Munro,ML Revis,1,0,,,,,,"",""
+ball,2,10.2,Nottinghamshire,C Munro,AD Hales,ML Revis,1,0,,,,,,"",""
+ball,2,10.3,Nottinghamshire,AD Hales,C Munro,ML Revis,4,0,,,,,,"",""
+ball,2,10.4,Nottinghamshire,AD Hales,C Munro,ML Revis,0,1,1,,,,,"",""
+ball,2,10.5,Nottinghamshire,AD Hales,C Munro,ML Revis,1,0,,,,,,"",""
+ball,2,10.6,Nottinghamshire,C Munro,AD Hales,ML Revis,0,0,,,,,,"",""
+ball,2,10.7,Nottinghamshire,C Munro,AD Hales,ML Revis,4,0,,,,,,"",""
+ball,2,11.1,Nottinghamshire,AD Hales,C Munro,JA Chohan,1,0,,,,,,"",""
+ball,2,11.2,Nottinghamshire,C Munro,AD Hales,JA Chohan,0,0,,,,,,"",""
+ball,2,11.3,Nottinghamshire,C Munro,AD Hales,JA Chohan,6,0,,,,,,"",""
+ball,2,11.4,Nottinghamshire,C Munro,AD Hales,JA Chohan,1,0,,,,,,"",""
+ball,2,11.5,Nottinghamshire,AD Hales,C Munro,JA Chohan,0,0,,,,,,"",""
+ball,2,11.6,Nottinghamshire,AD Hales,C Munro,JA Chohan,1,0,,,,,,"",""
+ball,2,12.1,Nottinghamshire,AD Hales,C Munro,D Wiese,0,0,,,,,,caught,AD Hales
+ball,2,12.2,Nottinghamshire,M Montgomery,C Munro,D Wiese,1,0,,,,,,"",""
+ball,2,12.3,Nottinghamshire,C Munro,M Montgomery,D Wiese,1,0,,,,,,"",""
+ball,2,12.4,Nottinghamshire,M Montgomery,C Munro,D Wiese,4,0,,,,,,"",""
+ball,2,12.5,Nottinghamshire,M Montgomery,C Munro,D Wiese,0,0,,,,,,"",""
+ball,2,12.6,Nottinghamshire,M Montgomery,C Munro,D Wiese,1,0,,,,,,"",""
+ball,2,13.1,Nottinghamshire,M Montgomery,C Munro,DM Bess,4,0,,,,,,"",""
+ball,2,13.2,Nottinghamshire,M Montgomery,C Munro,DM Bess,0,0,,,,,,"",""
+ball,2,13.3,Nottinghamshire,M Montgomery,C Munro,DM Bess,6,0,,,,,,"",""
+ball,2,13.4,Nottinghamshire,M Montgomery,C Munro,DM Bess,1,0,,,,,,"",""
+ball,2,13.5,Nottinghamshire,C Munro,M Montgomery,DM Bess,2,0,,,,,,"",""
+ball,2,13.6,Nottinghamshire,C Munro,M Montgomery,DM Bess,1,0,,,,,,"",""
+ball,2,14.1,Nottinghamshire,C Munro,M Montgomery,ML Revis,4,0,,,,,,"",""
+ball,2,14.2,Nottinghamshire,C Munro,M Montgomery,ML Revis,0,0,,,,,,"",""
+ball,2,14.3,Nottinghamshire,C Munro,M Montgomery,ML Revis,0,1,1,,,,,"",""
+ball,2,14.4,Nottinghamshire,C Munro,M Montgomery,ML Revis,1,0,,,,,,"",""
+ball,2,14.5,Nottinghamshire,M Montgomery,C Munro,ML Revis,1,0,,,,,,"",""
+ball,2,14.6,Nottinghamshire,C Munro,M Montgomery,ML Revis,1,0,,,,,,"",""
+ball,2,14.7,Nottinghamshire,M Montgomery,C Munro,ML Revis,1,0,,,,,,"",""
+ball,2,15.1,Nottinghamshire,M Montgomery,C Munro,JA Thompson,4,0,,,,,,"",""
+ball,2,15.2,Nottinghamshire,M Montgomery,C Munro,JA Thompson,0,1,,,,1,,"",""
+ball,2,15.3,Nottinghamshire,C Munro,M Montgomery,JA Thompson,0,0,,,,,,"",""
+ball,2,15.4,Nottinghamshire,C Munro,M Montgomery,JA Thompson,0,0,,,,,,caught,C Munro
+ball,2,15.5,Nottinghamshire,TJ Moores,M Montgomery,JA Thompson,0,0,,,,,,"",""
+ball,2,15.6,Nottinghamshire,TJ Moores,M Montgomery,JA Thompson,1,0,,,,,,"",""
+ball,2,16.1,Nottinghamshire,TJ Moores,M Montgomery,ML Revis,0,1,1,,,,,"",""
+ball,2,16.2,Nottinghamshire,TJ Moores,M Montgomery,ML Revis,0,1,1,,,,,"",""
+ball,2,16.3,Nottinghamshire,TJ Moores,M Montgomery,ML Revis,1,0,,,,,,"",""
+ball,2,16.4,Nottinghamshire,M Montgomery,TJ Moores,ML Revis,0,1,,,,1,,"",""
+ball,2,16.5,Nottinghamshire,TJ Moores,M Montgomery,ML Revis,1,0,,,,,,"",""
+ball,2,16.6,Nottinghamshire,M Montgomery,TJ Moores,ML Revis,1,0,,,,,,"",""
+ball,2,16.7,Nottinghamshire,TJ Moores,M Montgomery,ML Revis,0,2,,2,,,,"",""
+ball,2,16.8,Nottinghamshire,TJ Moores,M Montgomery,ML Revis,0,0,,,,,,"",""
+ball,2,16.9,Nottinghamshire,TJ Moores,M Montgomery,ML Revis,2,0,,,,,,"",""
+ball,2,17.1,Nottinghamshire,M Montgomery,TJ Moores,D Wiese,1,0,,,,,,"",""
+ball,2,17.2,Nottinghamshire,TJ Moores,M Montgomery,D Wiese,4,0,,,,,,"",""
+ball,2,17.3,Nottinghamshire,TJ Moores,M Montgomery,D Wiese,1,0,,,,,,"",""
+ball,2,17.4,Nottinghamshire,M Montgomery,TJ Moores,D Wiese,1,0,,,,,,"",""
+ball,2,17.5,Nottinghamshire,TJ Moores,M Montgomery,D Wiese,1,0,,,,,,"",""
+ball,2,17.6,Nottinghamshire,M Montgomery,TJ Moores,D Wiese,1,0,,,,,,"",""
+ball,2,18.1,Nottinghamshire,M Montgomery,TJ Moores,BWM Mike,1,0,,,,,,"",""
+ball,2,18.2,Nottinghamshire,TJ Moores,M Montgomery,BWM Mike,0,1,1,,,,,"",""
+ball,2,18.3,Nottinghamshire,TJ Moores,M Montgomery,BWM Mike,0,0,,,,,,"",""
+ball,2,18.4,Nottinghamshire,TJ Moores,M Montgomery,BWM Mike,1,0,,,,,,"",""
+ball,2,18.5,Nottinghamshire,M Montgomery,TJ Moores,BWM Mike,0,0,,,,,,caught,M Montgomery
+ball,2,18.6,Nottinghamshire,LW James,TJ Moores,BWM Mike,0,1,1,,,,,"",""
+ball,2,18.7,Nottinghamshire,LW James,TJ Moores,BWM Mike,4,0,,,,,,"",""
+ball,2,18.8,Nottinghamshire,LW James,TJ Moores,BWM Mike,0,1,,,,1,,"",""
+ball,2,19.1,Nottinghamshire,LW James,TJ Moores,JA Thompson,1,0,,,,,,"",""
+ball,2,19.2,Nottinghamshire,TJ Moores,LW James,JA Thompson,1,0,,,,,,"",""
+ball,2,19.3,Nottinghamshire,LW James,TJ Moores,JA Thompson,6,0,,,,,,"",""
+ball,2,19.4,Nottinghamshire,LW James,TJ Moores,JA Thompson,0,1,,,,1,,"",""
+ball,2,19.5,Nottinghamshire,TJ Moores,LW James,JA Thompson,2,0,,,,,,"",""
+ball,2,19.6,Nottinghamshire,TJ Moores,LW James,JA Thompson,0,0,,,,,,"",""

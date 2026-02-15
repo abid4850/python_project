@@ -1,0 +1,280 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Oval Invincibles
+info,team,Manchester Originals
+info,gender,male
+info,season,2023
+info,date,2023/08/27
+info,event,The Hundred Men's Competition
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Manchester Originals
+info,toss_decision,field
+info,player_of_match,TK Curran
+info,umpire,AG Wharf
+info,umpire,M Burns
+info,reserve_umpire,BJ Debenham
+info,tv_umpire,PK Baldwin
+info,match_referee,Phil Whitticase
+info,winner,Oval Invincibles
+info,winner_runs,14
+info,player,Oval Invincibles,JJ Roy
+info,player,Oval Invincibles,WG Jacks
+info,player,Oval Invincibles,PR Stirling
+info,player,Oval Invincibles,SM Curran
+info,player,Oval Invincibles,SW Billings
+info,player,Oval Invincibles,JDS Neesham
+info,player,Oval Invincibles,TK Curran
+info,player,Oval Invincibles,RA Whiteley
+info,player,Oval Invincibles,AAP Atkinson
+info,player,Oval Invincibles,NA Sowter
+info,player,Oval Invincibles,DR Briggs
+info,player,Manchester Originals,PD Salt
+info,player,Manchester Originals,JC Buttler
+info,player,Manchester Originals,MDE Holden
+info,player,Manchester Originals,WL Madsen
+info,player,Manchester Originals,LJ Evans
+info,player,Manchester Originals,PI Walter
+info,player,Manchester Originals,J Overton
+info,player,Manchester Originals,TW Hartley
+info,player,Manchester Originals,J Little
+info,player,Manchester Originals,Zaman Khan
+info,player,Manchester Originals,RJ Gleeson
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,J Little,9061a703
+info,registry,people,J Overton,59559bc2
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,Zaman Khan,28392e11
+ball,1,0.1,Oval Invincibles,JJ Roy,WG Jacks,RJ Gleeson,0,0,,,,,,"",""
+ball,1,0.2,Oval Invincibles,JJ Roy,WG Jacks,RJ Gleeson,0,0,,,,,,"",""
+ball,1,0.3,Oval Invincibles,JJ Roy,WG Jacks,RJ Gleeson,0,0,,,,,,caught,JJ Roy
+ball,1,0.4,Oval Invincibles,PR Stirling,WG Jacks,RJ Gleeson,1,0,,,,,,"",""
+ball,1,0.5,Oval Invincibles,WG Jacks,PR Stirling,RJ Gleeson,4,0,,,,,,"",""
+ball,1,1.1,Oval Invincibles,WG Jacks,PR Stirling,J Little,0,0,,,,,,"",""
+ball,1,1.2,Oval Invincibles,WG Jacks,PR Stirling,J Little,0,0,,,,,,"",""
+ball,1,1.3,Oval Invincibles,WG Jacks,PR Stirling,J Little,0,0,,,,,,"",""
+ball,1,1.4,Oval Invincibles,WG Jacks,PR Stirling,J Little,1,0,,,,,,"",""
+ball,1,1.5,Oval Invincibles,PR Stirling,WG Jacks,J Little,0,0,,,,,,"",""
+ball,1,2.1,Oval Invincibles,WG Jacks,PR Stirling,RJ Gleeson,4,0,,,,,,"",""
+ball,1,2.2,Oval Invincibles,WG Jacks,PR Stirling,RJ Gleeson,1,0,,,,,,"",""
+ball,1,2.3,Oval Invincibles,PR Stirling,WG Jacks,RJ Gleeson,4,0,,,,,,"",""
+ball,1,2.4,Oval Invincibles,PR Stirling,WG Jacks,RJ Gleeson,0,0,,,,,,"",""
+ball,1,2.5,Oval Invincibles,PR Stirling,WG Jacks,RJ Gleeson,0,0,,,,,,caught,PR Stirling
+ball,1,3.1,Oval Invincibles,SM Curran,WG Jacks,J Little,0,0,,,,,,caught,SM Curran
+ball,1,3.2,Oval Invincibles,SW Billings,WG Jacks,J Little,0,0,,,,,,"",""
+ball,1,3.3,Oval Invincibles,SW Billings,WG Jacks,J Little,0,0,,,,,,"",""
+ball,1,3.4,Oval Invincibles,SW Billings,WG Jacks,J Little,0,0,,,,,,"",""
+ball,1,3.5,Oval Invincibles,SW Billings,WG Jacks,J Little,0,1,,,,1,,"",""
+ball,1,4.1,Oval Invincibles,SW Billings,WG Jacks,J Little,1,0,,,,,,"",""
+ball,1,4.2,Oval Invincibles,WG Jacks,SW Billings,J Little,0,0,,,,,,"",""
+ball,1,4.3,Oval Invincibles,WG Jacks,SW Billings,J Little,1,0,,,,,,"",""
+ball,1,4.4,Oval Invincibles,SW Billings,WG Jacks,J Little,4,0,,,,,,"",""
+ball,1,4.5,Oval Invincibles,SW Billings,WG Jacks,J Little,0,0,,,,,,"",""
+ball,1,5.1,Oval Invincibles,SW Billings,WG Jacks,PI Walter,0,0,,,,,,"",""
+ball,1,5.2,Oval Invincibles,SW Billings,WG Jacks,PI Walter,1,0,,,,,,"",""
+ball,1,5.3,Oval Invincibles,WG Jacks,SW Billings,PI Walter,1,0,,,,,,"",""
+ball,1,5.4,Oval Invincibles,SW Billings,WG Jacks,PI Walter,4,0,,,,,,"",""
+ball,1,5.5,Oval Invincibles,SW Billings,WG Jacks,PI Walter,0,0,,,,,,caught,SW Billings
+ball,1,6.1,Oval Invincibles,WG Jacks,JDS Neesham,J Overton,0,1,1,,,,,"",""
+ball,1,6.2,Oval Invincibles,WG Jacks,JDS Neesham,J Overton,0,1,1,,,,,"",""
+ball,1,6.3,Oval Invincibles,WG Jacks,JDS Neesham,J Overton,1,0,,,,,,"",""
+ball,1,6.4,Oval Invincibles,JDS Neesham,WG Jacks,J Overton,1,0,,,,,,"",""
+ball,1,6.5,Oval Invincibles,WG Jacks,JDS Neesham,J Overton,0,0,,,,,,"",""
+ball,1,6.6,Oval Invincibles,WG Jacks,JDS Neesham,J Overton,1,0,,,,,,"",""
+ball,1,6.7,Oval Invincibles,JDS Neesham,WG Jacks,J Overton,1,0,,,,,,"",""
+ball,1,7.1,Oval Invincibles,WG Jacks,JDS Neesham,TW Hartley,0,0,,,,,,caught,WG Jacks
+ball,1,7.2,Oval Invincibles,TK Curran,JDS Neesham,TW Hartley,1,0,,,,,,"",""
+ball,1,7.3,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,2,0,,,,,,"",""
+ball,1,7.4,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,1,0,,,,,,"",""
+ball,1,7.5,Oval Invincibles,TK Curran,JDS Neesham,TW Hartley,1,0,,,,,,"",""
+ball,1,8.1,Oval Invincibles,TK Curran,JDS Neesham,Zaman Khan,1,2,,2,,,,"",""
+ball,1,8.2,Oval Invincibles,JDS Neesham,TK Curran,Zaman Khan,4,0,,,,,,"",""
+ball,1,8.3,Oval Invincibles,JDS Neesham,TK Curran,Zaman Khan,0,0,,,,,,"",""
+ball,1,8.4,Oval Invincibles,JDS Neesham,TK Curran,Zaman Khan,4,0,,,,,,"",""
+ball,1,8.5,Oval Invincibles,JDS Neesham,TK Curran,Zaman Khan,1,0,,,,,,"",""
+ball,1,8.6,Oval Invincibles,TK Curran,JDS Neesham,Zaman Khan,0,0,,,,,,"",""
+ball,1,9.1,Oval Invincibles,TK Curran,JDS Neesham,J Overton,0,0,,,,,,"",""
+ball,1,9.2,Oval Invincibles,TK Curran,JDS Neesham,J Overton,1,0,,,,,,"",""
+ball,1,9.3,Oval Invincibles,JDS Neesham,TK Curran,J Overton,1,0,,,,,,"",""
+ball,1,9.4,Oval Invincibles,TK Curran,JDS Neesham,J Overton,6,0,,,,,,"",""
+ball,1,9.5,Oval Invincibles,TK Curran,JDS Neesham,J Overton,0,0,,,,,,"",""
+ball,1,10.1,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,1,0,,,,,,"",""
+ball,1,10.2,Oval Invincibles,TK Curran,JDS Neesham,TW Hartley,1,0,,,,,,"",""
+ball,1,10.3,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,1,0,,,,,,"",""
+ball,1,10.4,Oval Invincibles,TK Curran,JDS Neesham,TW Hartley,1,0,,,,,,"",""
+ball,1,10.5,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,1,0,,,,,,"",""
+ball,1,11.1,Oval Invincibles,TK Curran,JDS Neesham,PI Walter,2,0,,,,,,"",""
+ball,1,11.2,Oval Invincibles,TK Curran,JDS Neesham,PI Walter,0,0,,,,,,"",""
+ball,1,11.3,Oval Invincibles,TK Curran,JDS Neesham,PI Walter,1,0,,,,,,"",""
+ball,1,11.4,Oval Invincibles,JDS Neesham,TK Curran,PI Walter,1,0,,,,,,"",""
+ball,1,11.5,Oval Invincibles,TK Curran,JDS Neesham,PI Walter,6,0,,,,,,"",""
+ball,1,12.1,Oval Invincibles,JDS Neesham,TK Curran,Zaman Khan,1,0,,,,,,"",""
+ball,1,12.2,Oval Invincibles,TK Curran,JDS Neesham,Zaman Khan,4,0,,,,,,"",""
+ball,1,12.3,Oval Invincibles,TK Curran,JDS Neesham,Zaman Khan,4,0,,,,,,"",""
+ball,1,12.4,Oval Invincibles,TK Curran,JDS Neesham,Zaman Khan,1,0,,,,,,"",""
+ball,1,12.5,Oval Invincibles,JDS Neesham,TK Curran,Zaman Khan,0,0,,,,,,"",""
+ball,1,13.1,Oval Invincibles,JDS Neesham,TK Curran,RJ Gleeson,4,0,,,,,,"",""
+ball,1,13.2,Oval Invincibles,JDS Neesham,TK Curran,RJ Gleeson,1,0,,,,,,"",""
+ball,1,13.3,Oval Invincibles,TK Curran,JDS Neesham,RJ Gleeson,6,0,,,,,,"",""
+ball,1,13.4,Oval Invincibles,TK Curran,JDS Neesham,RJ Gleeson,0,0,,,,,,"",""
+ball,1,13.5,Oval Invincibles,TK Curran,JDS Neesham,RJ Gleeson,0,0,,,,,,"",""
+ball,1,14.1,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,4,0,,,,,,"",""
+ball,1,14.2,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,1,0,,,,,,"",""
+ball,1,14.3,Oval Invincibles,TK Curran,JDS Neesham,TW Hartley,1,0,,,,,,"",""
+ball,1,14.4,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,1,0,,,,,,"",""
+ball,1,14.5,Oval Invincibles,TK Curran,JDS Neesham,TW Hartley,1,0,,,,,,"",""
+ball,1,15.1,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,6,0,,,,,,"",""
+ball,1,15.2,Oval Invincibles,JDS Neesham,TK Curran,TW Hartley,1,0,,,,,,"",""
+ball,1,15.3,Oval Invincibles,TK Curran,JDS Neesham,TW Hartley,2,0,,,,,,"",""
+ball,1,15.4,Oval Invincibles,TK Curran,JDS Neesham,TW Hartley,4,0,,,,,,"",""
+ball,1,15.5,Oval Invincibles,TK Curran,JDS Neesham,TW Hartley,4,0,,,,,,"",""
+ball,1,16.1,Oval Invincibles,JDS Neesham,TK Curran,J Little,1,0,,,,,,"",""
+ball,1,16.2,Oval Invincibles,TK Curran,JDS Neesham,J Little,6,0,,,,,,"",""
+ball,1,16.3,Oval Invincibles,TK Curran,JDS Neesham,J Little,2,0,,,,,,"",""
+ball,1,16.4,Oval Invincibles,TK Curran,JDS Neesham,J Little,1,0,,,,,,"",""
+ball,1,16.5,Oval Invincibles,JDS Neesham,TK Curran,J Little,4,0,,,,,,"",""
+ball,1,17.1,Oval Invincibles,JDS Neesham,TK Curran,PI Walter,1,0,,,,,,"",""
+ball,1,17.2,Oval Invincibles,TK Curran,JDS Neesham,PI Walter,0,1,,,1,,,"",""
+ball,1,17.3,Oval Invincibles,JDS Neesham,TK Curran,PI Walter,0,1,1,,,,,"",""
+ball,1,17.4,Oval Invincibles,JDS Neesham,TK Curran,PI Walter,0,0,,,,,,"",""
+ball,1,17.5,Oval Invincibles,JDS Neesham,TK Curran,PI Walter,1,0,,,,,,"",""
+ball,1,17.6,Oval Invincibles,TK Curran,JDS Neesham,PI Walter,1,0,,,,,,"",""
+ball,1,18.1,Oval Invincibles,TK Curran,JDS Neesham,RJ Gleeson,1,0,,,,,,"",""
+ball,1,18.2,Oval Invincibles,JDS Neesham,TK Curran,RJ Gleeson,4,0,,,,,,"",""
+ball,1,18.3,Oval Invincibles,JDS Neesham,TK Curran,RJ Gleeson,2,0,,,,,,"",""
+ball,1,18.4,Oval Invincibles,JDS Neesham,TK Curran,RJ Gleeson,4,0,,,,,,"",""
+ball,1,18.5,Oval Invincibles,JDS Neesham,TK Curran,RJ Gleeson,1,0,,,,,,"",""
+ball,1,19.1,Oval Invincibles,TK Curran,JDS Neesham,Zaman Khan,1,0,,,,,,"",""
+ball,1,19.2,Oval Invincibles,JDS Neesham,TK Curran,Zaman Khan,0,1,,,1,,,"",""
+ball,1,19.3,Oval Invincibles,TK Curran,JDS Neesham,Zaman Khan,1,0,,,,,,"",""
+ball,1,19.4,Oval Invincibles,JDS Neesham,TK Curran,Zaman Khan,1,0,,,,,,"",""
+ball,1,19.5,Oval Invincibles,TK Curran,JDS Neesham,Zaman Khan,6,0,,,,,,"",""
+ball,2,0.1,Manchester Originals,PD Salt,JC Buttler,SM Curran,0,0,,,,,,"",""
+ball,2,0.2,Manchester Originals,PD Salt,JC Buttler,SM Curran,0,0,,,,,,"",""
+ball,2,0.3,Manchester Originals,PD Salt,JC Buttler,SM Curran,1,0,,,,,,"",""
+ball,2,0.4,Manchester Originals,JC Buttler,PD Salt,SM Curran,1,0,,,,,,"",""
+ball,2,0.5,Manchester Originals,PD Salt,JC Buttler,SM Curran,4,0,,,,,,"",""
+ball,2,1.1,Manchester Originals,PD Salt,JC Buttler,AAP Atkinson,0,0,,,,,,"",""
+ball,2,1.2,Manchester Originals,PD Salt,JC Buttler,AAP Atkinson,4,0,,,,,,"",""
+ball,2,1.3,Manchester Originals,PD Salt,JC Buttler,AAP Atkinson,1,0,,,,,,"",""
+ball,2,1.4,Manchester Originals,JC Buttler,PD Salt,AAP Atkinson,4,0,,,,,,"",""
+ball,2,1.5,Manchester Originals,JC Buttler,PD Salt,AAP Atkinson,0,0,,,,,,"",""
+ball,2,2.1,Manchester Originals,PD Salt,JC Buttler,TK Curran,4,0,,,,,,"",""
+ball,2,2.2,Manchester Originals,PD Salt,JC Buttler,TK Curran,0,0,,,,,,"",""
+ball,2,2.3,Manchester Originals,PD Salt,JC Buttler,TK Curran,0,0,,,,,,"",""
+ball,2,2.4,Manchester Originals,PD Salt,JC Buttler,TK Curran,1,0,,,,,,"",""
+ball,2,2.5,Manchester Originals,JC Buttler,PD Salt,TK Curran,1,0,,,,,,"",""
+ball,2,3.1,Manchester Originals,PD Salt,JC Buttler,AAP Atkinson,4,0,,,,,,"",""
+ball,2,3.2,Manchester Originals,PD Salt,JC Buttler,AAP Atkinson,0,0,,,,,,"",""
+ball,2,3.3,Manchester Originals,PD Salt,JC Buttler,AAP Atkinson,0,1,,,,1,,"",""
+ball,2,3.4,Manchester Originals,JC Buttler,PD Salt,AAP Atkinson,1,0,,,,,,"",""
+ball,2,3.5,Manchester Originals,PD Salt,JC Buttler,AAP Atkinson,6,0,,,,,,"",""
+ball,2,4.1,Manchester Originals,JC Buttler,PD Salt,TK Curran,1,0,,,,,,"",""
+ball,2,4.2,Manchester Originals,PD Salt,JC Buttler,TK Curran,0,0,,,,,,caught,PD Salt
+ball,2,4.3,Manchester Originals,MDE Holden,JC Buttler,TK Curran,1,0,,,,,,"",""
+ball,2,4.4,Manchester Originals,JC Buttler,MDE Holden,TK Curran,0,4,,,,4,,"",""
+ball,2,4.5,Manchester Originals,JC Buttler,MDE Holden,TK Curran,0,0,,,,,,"",""
+ball,2,5.1,Manchester Originals,JC Buttler,MDE Holden,NA Sowter,1,0,,,,,,"",""
+ball,2,5.2,Manchester Originals,MDE Holden,JC Buttler,NA Sowter,1,0,,,,,,"",""
+ball,2,5.3,Manchester Originals,JC Buttler,MDE Holden,NA Sowter,0,0,,,,,,"",""
+ball,2,5.4,Manchester Originals,JC Buttler,MDE Holden,NA Sowter,0,0,,,,,,"",""
+ball,2,5.5,Manchester Originals,JC Buttler,MDE Holden,NA Sowter,1,0,,,,,,"",""
+ball,2,6.1,Manchester Originals,JC Buttler,MDE Holden,DR Briggs,0,0,,,,,,"",""
+ball,2,6.2,Manchester Originals,JC Buttler,MDE Holden,DR Briggs,1,0,,,,,,"",""
+ball,2,6.3,Manchester Originals,MDE Holden,JC Buttler,DR Briggs,1,0,,,,,,"",""
+ball,2,6.4,Manchester Originals,JC Buttler,MDE Holden,DR Briggs,0,0,,,,,,bowled,JC Buttler
+ball,2,6.5,Manchester Originals,WL Madsen,MDE Holden,DR Briggs,0,0,,,,,,"",""
+ball,2,7.1,Manchester Originals,WL Madsen,MDE Holden,NA Sowter,4,0,,,,,,"",""
+ball,2,7.2,Manchester Originals,WL Madsen,MDE Holden,NA Sowter,0,0,,,,,,bowled,WL Madsen
+ball,2,7.3,Manchester Originals,LJ Evans,MDE Holden,NA Sowter,1,0,,,,,,"",""
+ball,2,7.4,Manchester Originals,MDE Holden,LJ Evans,NA Sowter,1,0,,,,,,"",""
+ball,2,7.5,Manchester Originals,LJ Evans,MDE Holden,NA Sowter,0,0,,,,,,"",""
+ball,2,8.1,Manchester Originals,MDE Holden,LJ Evans,WG Jacks,1,0,,,,,,"",""
+ball,2,8.2,Manchester Originals,LJ Evans,MDE Holden,WG Jacks,0,0,,,,,,caught,LJ Evans
+ball,2,8.3,Manchester Originals,PI Walter,MDE Holden,WG Jacks,1,0,,,,,,"",""
+ball,2,8.4,Manchester Originals,MDE Holden,PI Walter,WG Jacks,0,0,,,,,,"",""
+ball,2,8.5,Manchester Originals,MDE Holden,PI Walter,WG Jacks,0,0,,,,,,"",""
+ball,2,9.1,Manchester Originals,MDE Holden,PI Walter,NA Sowter,1,0,,,,,,"",""
+ball,2,9.2,Manchester Originals,PI Walter,MDE Holden,NA Sowter,0,0,,,,,,"",""
+ball,2,9.3,Manchester Originals,PI Walter,MDE Holden,NA Sowter,4,0,,,,,,"",""
+ball,2,9.4,Manchester Originals,PI Walter,MDE Holden,NA Sowter,0,1,1,,,,,"",""
+ball,2,9.5,Manchester Originals,PI Walter,MDE Holden,NA Sowter,0,0,,,,,,"",""
+ball,2,9.6,Manchester Originals,PI Walter,MDE Holden,NA Sowter,0,0,,,,,,"",""
+ball,2,10.1,Manchester Originals,MDE Holden,PI Walter,WG Jacks,1,0,,,,,,"",""
+ball,2,10.2,Manchester Originals,PI Walter,MDE Holden,WG Jacks,0,1,,,,1,,"",""
+ball,2,10.3,Manchester Originals,MDE Holden,PI Walter,WG Jacks,1,0,,,,,,"",""
+ball,2,10.4,Manchester Originals,PI Walter,MDE Holden,WG Jacks,0,0,,,,,,"",""
+ball,2,10.5,Manchester Originals,PI Walter,MDE Holden,WG Jacks,0,0,,,,,,"",""
+ball,2,11.1,Manchester Originals,PI Walter,MDE Holden,SM Curran,1,0,,,,,,"",""
+ball,2,11.2,Manchester Originals,MDE Holden,PI Walter,SM Curran,6,0,,,,,,"",""
+ball,2,11.3,Manchester Originals,MDE Holden,PI Walter,SM Curran,0,1,,,,1,,"",""
+ball,2,11.4,Manchester Originals,PI Walter,MDE Holden,SM Curran,1,0,,,,,,"",""
+ball,2,11.5,Manchester Originals,MDE Holden,PI Walter,SM Curran,2,0,,,,,,"",""
+ball,2,12.1,Manchester Originals,PI Walter,MDE Holden,WG Jacks,0,0,,,,,,bowled,PI Walter
+ball,2,12.2,Manchester Originals,J Overton,MDE Holden,WG Jacks,0,1,1,,,,,"",""
+ball,2,12.3,Manchester Originals,J Overton,MDE Holden,WG Jacks,1,0,,,,,,"",""
+ball,2,12.4,Manchester Originals,MDE Holden,J Overton,WG Jacks,1,0,,,,,,"",""
+ball,2,12.5,Manchester Originals,J Overton,MDE Holden,WG Jacks,2,0,,,,,,"",""
+ball,2,12.6,Manchester Originals,J Overton,MDE Holden,WG Jacks,2,0,,,,,,"",""
+ball,2,13.1,Manchester Originals,J Overton,MDE Holden,NA Sowter,1,0,,,,,,"",""
+ball,2,13.2,Manchester Originals,MDE Holden,J Overton,NA Sowter,4,0,,,,,,"",""
+ball,2,13.3,Manchester Originals,MDE Holden,J Overton,NA Sowter,4,0,,,,,,"",""
+ball,2,13.4,Manchester Originals,MDE Holden,J Overton,NA Sowter,0,0,,,,,,"",""
+ball,2,13.5,Manchester Originals,MDE Holden,J Overton,NA Sowter,0,0,,,,,,"",""
+ball,2,14.1,Manchester Originals,J Overton,MDE Holden,AAP Atkinson,1,0,,,,,,"",""
+ball,2,14.2,Manchester Originals,MDE Holden,J Overton,AAP Atkinson,0,5,5,,,,,"",""
+ball,2,14.3,Manchester Originals,MDE Holden,J Overton,AAP Atkinson,4,0,,,,,,"",""
+ball,2,14.4,Manchester Originals,MDE Holden,J Overton,AAP Atkinson,4,0,,,,,,"",""
+ball,2,14.5,Manchester Originals,MDE Holden,J Overton,AAP Atkinson,1,0,,,,,,"",""
+ball,2,14.6,Manchester Originals,J Overton,MDE Holden,AAP Atkinson,0,0,,,,,,"",""
+ball,2,15.1,Manchester Originals,J Overton,MDE Holden,TK Curran,1,0,,,,,,"",""
+ball,2,15.2,Manchester Originals,MDE Holden,J Overton,TK Curran,1,0,,,,,,"",""
+ball,2,15.3,Manchester Originals,J Overton,MDE Holden,TK Curran,1,0,,,,,,"",""
+ball,2,15.4,Manchester Originals,MDE Holden,J Overton,TK Curran,0,1,1,,,,,"",""
+ball,2,15.5,Manchester Originals,MDE Holden,J Overton,TK Curran,0,1,1,,,,,"",""
+ball,2,15.6,Manchester Originals,MDE Holden,J Overton,TK Curran,1,0,,,,,,"",""
+ball,2,15.7,Manchester Originals,J Overton,MDE Holden,TK Curran,2,0,,,,,,"",""
+ball,2,16.1,Manchester Originals,MDE Holden,J Overton,SM Curran,1,0,,,,,,"",""
+ball,2,16.2,Manchester Originals,J Overton,MDE Holden,SM Curran,0,1,1,,,,,"",""
+ball,2,16.3,Manchester Originals,J Overton,MDE Holden,SM Curran,1,0,,,,,,"",""
+ball,2,16.4,Manchester Originals,MDE Holden,J Overton,SM Curran,0,0,,,,,,lbw,MDE Holden
+ball,2,16.5,Manchester Originals,TW Hartley,J Overton,SM Curran,1,0,,,,,,"",""
+ball,2,16.6,Manchester Originals,J Overton,TW Hartley,SM Curran,0,1,1,,,,,"",""
+ball,2,16.7,Manchester Originals,J Overton,TW Hartley,SM Curran,2,0,,,,,,"",""
+ball,2,17.1,Manchester Originals,J Overton,TW Hartley,AAP Atkinson,1,0,,,,,,"",""
+ball,2,17.2,Manchester Originals,TW Hartley,J Overton,AAP Atkinson,4,0,,,,,,"",""
+ball,2,17.3,Manchester Originals,TW Hartley,J Overton,AAP Atkinson,1,0,,,,,,"",""
+ball,2,17.4,Manchester Originals,J Overton,TW Hartley,AAP Atkinson,6,0,,,,,,"",""
+ball,2,17.5,Manchester Originals,J Overton,TW Hartley,AAP Atkinson,0,0,,,,,,"",""
+ball,2,18.1,Manchester Originals,TW Hartley,J Overton,TK Curran,6,0,,,,,,"",""
+ball,2,18.2,Manchester Originals,TW Hartley,J Overton,TK Curran,2,0,,,,,,"",""
+ball,2,18.3,Manchester Originals,TW Hartley,J Overton,TK Curran,0,0,,,,,,"",""
+ball,2,18.4,Manchester Originals,TW Hartley,J Overton,TK Curran,1,0,,,,,,"",""
+ball,2,18.5,Manchester Originals,J Overton,TW Hartley,TK Curran,0,0,,,,,,"",""
+ball,2,19.1,Manchester Originals,J Overton,TW Hartley,SM Curran,2,0,,,,,,"",""
+ball,2,19.2,Manchester Originals,J Overton,TW Hartley,SM Curran,2,0,,,,,,"",""
+ball,2,19.3,Manchester Originals,J Overton,TW Hartley,SM Curran,2,0,,,,,,"",""
+ball,2,19.4,Manchester Originals,J Overton,TW Hartley,SM Curran,1,0,,,,,,"",""
+ball,2,19.5,Manchester Originals,TW Hartley,J Overton,SM Curran,1,0,,,,,,"",""

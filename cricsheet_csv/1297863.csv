@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Somerset
+info,gender,male
+info,season,2022
+info,date,2022/06/10
+info,event,Vitality Blast
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Somerset
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,RJ Warren
+info,match_referee,JJ Whitaker
+info,winner,Kent
+info,winner_runs,32
+info,player,Kent,TS Muyeye
+info,player,Kent,JL Denly
+info,player,Kent,G Stewart
+info,player,Kent,JM Cox
+info,player,Kent,SW Billings
+info,player,Kent,AJ Blake
+info,player,Kent,GF Linde
+info,player,Kent,JA Leaning
+info,player,Kent,Qais Ahmad
+info,player,Kent,ME Milnes
+info,player,Kent,FJ Klaassen
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Banton
+info,player,Somerset,RR Rossouw
+info,player,Somerset,TB Abell
+info,player,Somerset,TA Lammonby
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,C Overton
+info,player,Somerset,JH Davey
+info,player,Somerset,PM Siddle
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,BGF Green,34b37279
+info,registry,people,C Overton,e9987a94
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,L Gregory,06c2de82
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SW Billings,c16d4035
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WCF Smeed,4e18e961
+ball,1,0.1,Kent,TS Muyeye,JL Denly,TA Lammonby,1,0,,,,,,"",""
+ball,1,0.2,Kent,JL Denly,TS Muyeye,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.3,Kent,JL Denly,TS Muyeye,TA Lammonby,1,0,,,,,,"",""
+ball,1,0.4,Kent,TS Muyeye,JL Denly,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.5,Kent,TS Muyeye,JL Denly,TA Lammonby,1,0,,,,,,"",""
+ball,1,0.6,Kent,JL Denly,TS Muyeye,TA Lammonby,0,1,1,,,,,"",""
+ball,1,0.7,Kent,JL Denly,TS Muyeye,TA Lammonby,1,0,,,,,,"",""
+ball,1,1.1,Kent,JL Denly,TS Muyeye,JH Davey,0,0,,,,,,"",""
+ball,1,1.2,Kent,JL Denly,TS Muyeye,JH Davey,1,0,,,,,,"",""
+ball,1,1.3,Kent,TS Muyeye,JL Denly,JH Davey,1,0,,,,,,"",""
+ball,1,1.4,Kent,JL Denly,TS Muyeye,JH Davey,0,0,,,,,,"",""
+ball,1,1.5,Kent,JL Denly,TS Muyeye,JH Davey,0,0,,,,,,"",""
+ball,1,1.6,Kent,JL Denly,TS Muyeye,JH Davey,1,0,,,,,,"",""
+ball,1,2.1,Kent,JL Denly,TS Muyeye,PM Siddle,1,0,,,,,,"",""
+ball,1,2.2,Kent,TS Muyeye,JL Denly,PM Siddle,1,0,,,,,,"",""
+ball,1,2.3,Kent,JL Denly,TS Muyeye,PM Siddle,0,0,,,,,,"",""
+ball,1,2.4,Kent,JL Denly,TS Muyeye,PM Siddle,0,0,,,,,,"",""
+ball,1,2.5,Kent,JL Denly,TS Muyeye,PM Siddle,2,0,,,,,,"",""
+ball,1,2.6,Kent,JL Denly,TS Muyeye,PM Siddle,1,0,,,,,,"",""
+ball,1,3.1,Kent,JL Denly,TS Muyeye,C Overton,4,0,,,,,,"",""
+ball,1,3.2,Kent,JL Denly,TS Muyeye,C Overton,1,0,,,,,,"",""
+ball,1,3.3,Kent,TS Muyeye,JL Denly,C Overton,6,0,,,,,,"",""
+ball,1,3.4,Kent,TS Muyeye,JL Denly,C Overton,0,0,,,,,,caught,TS Muyeye
+ball,1,3.5,Kent,G Stewart,JL Denly,C Overton,0,0,,,,,,caught,G Stewart
+ball,1,3.6,Kent,JM Cox,JL Denly,C Overton,1,0,,,,,,"",""
+ball,1,4.1,Kent,JM Cox,JL Denly,PM Siddle,1,0,,,,,,"",""
+ball,1,4.2,Kent,JL Denly,JM Cox,PM Siddle,0,0,,,,,,"",""
+ball,1,4.3,Kent,JL Denly,JM Cox,PM Siddle,0,1,1,,,,,"",""
+ball,1,4.4,Kent,JL Denly,JM Cox,PM Siddle,4,0,,,,,,"",""
+ball,1,4.5,Kent,JL Denly,JM Cox,PM Siddle,0,0,,,,,,"",""
+ball,1,4.6,Kent,JL Denly,JM Cox,PM Siddle,1,0,,,,,,"",""
+ball,1,4.7,Kent,JM Cox,JL Denly,PM Siddle,1,0,,,,,,"",""
+ball,1,5.1,Kent,JM Cox,JL Denly,C Overton,1,0,,,,,,"",""
+ball,1,5.2,Kent,JL Denly,JM Cox,C Overton,0,4,,,,4,,"",""
+ball,1,5.3,Kent,JL Denly,JM Cox,C Overton,1,0,,,,,,"",""
+ball,1,5.4,Kent,JM Cox,JL Denly,C Overton,4,0,,,,,,"",""
+ball,1,5.5,Kent,JM Cox,JL Denly,C Overton,2,0,,,,,,"",""
+ball,1,5.6,Kent,JM Cox,JL Denly,C Overton,1,0,,,,,,"",""
+ball,1,6.1,Kent,JM Cox,JL Denly,BGF Green,1,0,,,,,,"",""
+ball,1,6.2,Kent,JL Denly,JM Cox,BGF Green,1,0,,,,,,"",""
+ball,1,6.3,Kent,JM Cox,JL Denly,BGF Green,2,0,,,,,,"",""
+ball,1,6.4,Kent,JM Cox,JL Denly,BGF Green,1,0,,,,,,"",""
+ball,1,6.5,Kent,JL Denly,JM Cox,BGF Green,0,1,1,,,,,"",""
+ball,1,6.6,Kent,JL Denly,JM Cox,BGF Green,1,0,,,,,,"",""
+ball,1,6.7,Kent,JM Cox,JL Denly,BGF Green,1,0,,,,,,"",""
+ball,1,7.1,Kent,JM Cox,JL Denly,L Gregory,1,0,,,,,,"",""
+ball,1,7.2,Kent,JL Denly,JM Cox,L Gregory,0,0,,,,,,"",""
+ball,1,7.3,Kent,JL Denly,JM Cox,L Gregory,1,0,,,,,,"",""
+ball,1,7.4,Kent,JM Cox,JL Denly,L Gregory,2,0,,,,,,"",""
+ball,1,7.5,Kent,JM Cox,JL Denly,L Gregory,4,0,,,,,,"",""
+ball,1,7.6,Kent,JM Cox,JL Denly,L Gregory,2,0,,,,,,"",""
+ball,1,8.1,Kent,JL Denly,JM Cox,BGF Green,1,0,,,,,,"",""
+ball,1,8.2,Kent,JM Cox,JL Denly,BGF Green,2,0,,,,,,"",""
+ball,1,8.3,Kent,JM Cox,JL Denly,BGF Green,4,0,,,,,,"",""
+ball,1,8.4,Kent,JM Cox,JL Denly,BGF Green,2,0,,,,,,"",""
+ball,1,8.5,Kent,JM Cox,JL Denly,BGF Green,1,0,,,,,,"",""
+ball,1,8.6,Kent,JL Denly,JM Cox,BGF Green,1,0,,,,,,"",""
+ball,1,9.1,Kent,JL Denly,JM Cox,RE van der Merwe,0,0,,,,,,"",""
+ball,1,9.2,Kent,JL Denly,JM Cox,RE van der Merwe,6,0,,,,,,"",""
+ball,1,9.3,Kent,JL Denly,JM Cox,RE van der Merwe,1,0,,,,,,"",""
+ball,1,9.4,Kent,JM Cox,JL Denly,RE van der Merwe,1,0,,,,,,"",""
+ball,1,9.5,Kent,JL Denly,JM Cox,RE van der Merwe,1,0,,,,,,"",""
+ball,1,9.6,Kent,JM Cox,JL Denly,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.1,Kent,JM Cox,JL Denly,JH Davey,1,0,,,,,,"",""
+ball,1,10.2,Kent,JL Denly,JM Cox,JH Davey,1,0,,,,,,"",""
+ball,1,10.3,Kent,JM Cox,JL Denly,JH Davey,1,0,,,,,,"",""
+ball,1,10.4,Kent,JL Denly,JM Cox,JH Davey,6,0,,,,,,"",""
+ball,1,10.5,Kent,JL Denly,JM Cox,JH Davey,1,0,,,,,,"",""
+ball,1,10.6,Kent,JM Cox,JL Denly,JH Davey,1,0,,,,,,"",""
+ball,1,11.1,Kent,JM Cox,JL Denly,C Overton,6,0,,,,,,"",""
+ball,1,11.2,Kent,JM Cox,JL Denly,C Overton,1,0,,,,,,"",""
+ball,1,11.3,Kent,JL Denly,JM Cox,C Overton,1,0,,,,,,"",""
+ball,1,11.4,Kent,JM Cox,JL Denly,C Overton,1,0,,,,,,"",""
+ball,1,11.5,Kent,JL Denly,JM Cox,C Overton,0,0,,,,,,caught,JL Denly
+ball,1,11.6,Kent,SW Billings,JM Cox,C Overton,1,0,,,,,,"",""
+ball,1,12.1,Kent,SW Billings,JM Cox,L Gregory,0,0,,,,,,"",""
+ball,1,12.2,Kent,SW Billings,JM Cox,L Gregory,1,0,,,,,,"",""
+ball,1,12.3,Kent,JM Cox,SW Billings,L Gregory,2,0,,,,,,"",""
+ball,1,12.4,Kent,JM Cox,SW Billings,L Gregory,1,0,,,,,,"",""
+ball,1,12.5,Kent,SW Billings,JM Cox,L Gregory,4,0,,,,,,"",""
+ball,1,12.6,Kent,SW Billings,JM Cox,L Gregory,0,0,,,,,,"",""
+ball,1,13.1,Kent,JM Cox,SW Billings,RE van der Merwe,1,0,,,,,,"",""
+ball,1,13.2,Kent,SW Billings,JM Cox,RE van der Merwe,2,0,,,,,,"",""
+ball,1,13.3,Kent,SW Billings,JM Cox,RE van der Merwe,0,0,,,,,,bowled,SW Billings
+ball,1,13.4,Kent,AJ Blake,JM Cox,RE van der Merwe,1,0,,,,,,"",""
+ball,1,13.5,Kent,JM Cox,AJ Blake,RE van der Merwe,1,0,,,,,,"",""
+ball,1,13.6,Kent,AJ Blake,JM Cox,RE van der Merwe,1,0,,,,,,"",""
+ball,1,14.1,Kent,AJ Blake,JM Cox,BGF Green,1,0,,,,,,"",""
+ball,1,14.2,Kent,JM Cox,AJ Blake,BGF Green,1,0,,,,,,"",""
+ball,1,14.3,Kent,AJ Blake,JM Cox,BGF Green,1,0,,,,,,"",""
+ball,1,14.4,Kent,JM Cox,AJ Blake,BGF Green,0,0,,,,,,"",""
+ball,1,14.5,Kent,JM Cox,AJ Blake,BGF Green,1,0,,,,,,"",""
+ball,1,14.6,Kent,AJ Blake,JM Cox,BGF Green,1,0,,,,,,"",""
+ball,1,15.1,Kent,AJ Blake,JM Cox,JH Davey,6,0,,,,,,"",""
+ball,1,15.2,Kent,AJ Blake,JM Cox,JH Davey,6,0,,,,,,"",""
+ball,1,15.3,Kent,AJ Blake,JM Cox,JH Davey,0,0,,,,,,caught,AJ Blake
+ball,1,15.4,Kent,GF Linde,JM Cox,JH Davey,1,0,,,,,,"",""
+ball,1,15.5,Kent,JM Cox,GF Linde,JH Davey,1,0,,,,,,"",""
+ball,1,15.6,Kent,GF Linde,JM Cox,JH Davey,1,0,,,,,,"",""
+ball,1,16.1,Kent,GF Linde,JM Cox,PM Siddle,4,0,,,,,,"",""
+ball,1,16.2,Kent,GF Linde,JM Cox,PM Siddle,0,0,,,,,,"",""
+ball,1,16.3,Kent,GF Linde,JM Cox,PM Siddle,1,0,,,,,,"",""
+ball,1,16.4,Kent,JM Cox,GF Linde,PM Siddle,1,0,,,,,,"",""
+ball,1,16.5,Kent,GF Linde,JM Cox,PM Siddle,1,0,,,,,,"",""
+ball,1,16.6,Kent,JM Cox,GF Linde,PM Siddle,1,0,,,,,,"",""
+ball,1,17.1,Kent,JM Cox,GF Linde,JH Davey,6,0,,,,,,"",""
+ball,1,17.2,Kent,JM Cox,GF Linde,JH Davey,0,1,1,,,,,"",""
+ball,1,17.3,Kent,JM Cox,GF Linde,JH Davey,6,0,,,,,,"",""
+ball,1,17.4,Kent,JM Cox,GF Linde,JH Davey,1,0,,,,,,"",""
+ball,1,17.5,Kent,GF Linde,JM Cox,JH Davey,4,0,,,,,,"",""
+ball,1,17.6,Kent,GF Linde,JM Cox,JH Davey,6,0,,,,,,"",""
+ball,1,17.7,Kent,GF Linde,JM Cox,JH Davey,2,0,,,,,,"",""
+ball,1,18.1,Kent,JM Cox,GF Linde,BGF Green,6,0,,,,,,"",""
+ball,1,18.2,Kent,JM Cox,GF Linde,BGF Green,1,0,,,,,,"",""
+ball,1,18.3,Kent,GF Linde,JM Cox,BGF Green,1,0,,,,,,"",""
+ball,1,18.4,Kent,JM Cox,GF Linde,BGF Green,2,0,,,,,,"",""
+ball,1,18.5,Kent,JM Cox,GF Linde,BGF Green,6,0,,,,,,"",""
+ball,1,18.6,Kent,JM Cox,GF Linde,BGF Green,6,0,,,,,,"",""
+ball,1,19.1,Kent,GF Linde,JM Cox,PM Siddle,1,0,,,,,,"",""
+ball,1,19.2,Kent,JM Cox,GF Linde,PM Siddle,2,0,,,,,,"",""
+ball,1,19.3,Kent,JM Cox,GF Linde,PM Siddle,1,0,,,,,,run out,JM Cox
+ball,1,19.4,Kent,JA Leaning,GF Linde,PM Siddle,0,0,,,,,,caught,JA Leaning
+ball,1,19.5,Kent,Qais Ahmad,GF Linde,PM Siddle,1,0,,,,,,"",""
+ball,1,19.6,Kent,GF Linde,Qais Ahmad,PM Siddle,1,0,,,,,,"",""
+ball,2,0.1,Somerset,WCF Smeed,T Banton,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.2,Somerset,WCF Smeed,T Banton,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.3,Somerset,WCF Smeed,T Banton,FJ Klaassen,2,0,,,,,,"",""
+ball,2,0.4,Somerset,WCF Smeed,T Banton,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.5,Somerset,WCF Smeed,T Banton,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.6,Somerset,WCF Smeed,T Banton,FJ Klaassen,0,0,,,,,,"",""
+ball,2,1.1,Somerset,T Banton,WCF Smeed,GF Linde,0,0,,,,,,"",""
+ball,2,1.2,Somerset,T Banton,WCF Smeed,GF Linde,1,0,,,,,,"",""
+ball,2,1.3,Somerset,WCF Smeed,T Banton,GF Linde,0,0,,,,,,bowled,WCF Smeed
+ball,2,1.4,Somerset,RR Rossouw,T Banton,GF Linde,6,0,,,,,,"",""
+ball,2,1.5,Somerset,RR Rossouw,T Banton,GF Linde,0,0,,,,,,"",""
+ball,2,1.6,Somerset,RR Rossouw,T Banton,GF Linde,6,0,,,,,,"",""
+ball,2,2.1,Somerset,T Banton,RR Rossouw,FJ Klaassen,1,0,,,,,,"",""
+ball,2,2.2,Somerset,RR Rossouw,T Banton,FJ Klaassen,0,1,,,,1,,"",""
+ball,2,2.3,Somerset,T Banton,RR Rossouw,FJ Klaassen,0,0,,,,,,"",""
+ball,2,2.4,Somerset,T Banton,RR Rossouw,FJ Klaassen,4,0,,,,,,"",""
+ball,2,2.5,Somerset,T Banton,RR Rossouw,FJ Klaassen,4,0,,,,,,"",""
+ball,2,2.6,Somerset,T Banton,RR Rossouw,FJ Klaassen,0,0,,,,,,caught,T Banton
+ball,2,3.1,Somerset,RR Rossouw,TB Abell,JA Leaning,1,0,,,,,,"",""
+ball,2,3.2,Somerset,TB Abell,RR Rossouw,JA Leaning,0,0,,,,,,"",""
+ball,2,3.3,Somerset,TB Abell,RR Rossouw,JA Leaning,1,0,,,,,,"",""
+ball,2,3.4,Somerset,RR Rossouw,TB Abell,JA Leaning,0,0,,,,,,"",""
+ball,2,3.5,Somerset,RR Rossouw,TB Abell,JA Leaning,0,0,,,,,,bowled,RR Rossouw
+ball,2,3.6,Somerset,TA Lammonby,TB Abell,JA Leaning,0,0,,,,,,"",""
+ball,2,4.1,Somerset,TB Abell,TA Lammonby,ME Milnes,2,0,,,,,,"",""
+ball,2,4.2,Somerset,TB Abell,TA Lammonby,ME Milnes,0,0,,,,,,"",""
+ball,2,4.3,Somerset,TB Abell,TA Lammonby,ME Milnes,0,0,,,,,,"",""
+ball,2,4.4,Somerset,TB Abell,TA Lammonby,ME Milnes,0,0,,,,,,"",""
+ball,2,4.5,Somerset,TB Abell,TA Lammonby,ME Milnes,1,0,,,,,,"",""
+ball,2,4.6,Somerset,TA Lammonby,TB Abell,ME Milnes,1,0,,,,,,"",""
+ball,2,5.1,Somerset,TA Lammonby,TB Abell,JA Leaning,1,0,,,,,,"",""
+ball,2,5.2,Somerset,TB Abell,TA Lammonby,JA Leaning,4,0,,,,,,"",""
+ball,2,5.3,Somerset,TB Abell,TA Lammonby,JA Leaning,1,0,,,,,,"",""
+ball,2,5.4,Somerset,TA Lammonby,TB Abell,JA Leaning,1,0,,,,,,"",""
+ball,2,5.5,Somerset,TB Abell,TA Lammonby,JA Leaning,6,0,,,,,,"",""
+ball,2,5.6,Somerset,TB Abell,TA Lammonby,JA Leaning,0,0,,,,,,"",""
+ball,2,6.1,Somerset,TA Lammonby,TB Abell,Qais Ahmad,1,0,,,,,,"",""
+ball,2,6.2,Somerset,TB Abell,TA Lammonby,Qais Ahmad,1,0,,,,,,"",""
+ball,2,6.3,Somerset,TA Lammonby,TB Abell,Qais Ahmad,0,0,,,,,,lbw,TA Lammonby
+ball,2,6.4,Somerset,L Gregory,TB Abell,Qais Ahmad,0,0,,,,,,"",""
+ball,2,6.5,Somerset,L Gregory,TB Abell,Qais Ahmad,4,0,,,,,,"",""
+ball,2,6.6,Somerset,L Gregory,TB Abell,Qais Ahmad,1,0,,,,,,"",""
+ball,2,7.1,Somerset,L Gregory,TB Abell,GF Linde,1,0,,,,,,"",""
+ball,2,7.2,Somerset,TB Abell,L Gregory,GF Linde,2,0,,,,,,"",""
+ball,2,7.3,Somerset,TB Abell,L Gregory,GF Linde,1,0,,,,,,"",""
+ball,2,7.4,Somerset,L Gregory,TB Abell,GF Linde,0,0,,,,,,"",""
+ball,2,7.5,Somerset,L Gregory,TB Abell,GF Linde,0,0,,,,,,"",""
+ball,2,7.6,Somerset,L Gregory,TB Abell,GF Linde,1,0,,,,,,"",""
+ball,2,8.1,Somerset,L Gregory,TB Abell,Qais Ahmad,6,0,,,,,,"",""
+ball,2,8.2,Somerset,L Gregory,TB Abell,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.3,Somerset,TB Abell,L Gregory,Qais Ahmad,6,0,,,,,,"",""
+ball,2,8.4,Somerset,TB Abell,L Gregory,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.5,Somerset,L Gregory,TB Abell,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.6,Somerset,TB Abell,L Gregory,Qais Ahmad,2,0,,,,,,"",""
+ball,2,9.1,Somerset,L Gregory,TB Abell,G Stewart,1,0,,,,,,"",""
+ball,2,9.2,Somerset,TB Abell,L Gregory,G Stewart,0,0,,,,,,"",""
+ball,2,9.3,Somerset,TB Abell,L Gregory,G Stewart,4,0,,,,,,"",""
+ball,2,9.4,Somerset,TB Abell,L Gregory,G Stewart,1,0,,,,,,"",""
+ball,2,9.5,Somerset,L Gregory,TB Abell,G Stewart,0,0,,,,,,"",""
+ball,2,9.6,Somerset,L Gregory,TB Abell,G Stewart,0,0,,,,,,caught,L Gregory
+ball,2,10.1,Somerset,TB Abell,BGF Green,ME Milnes,0,0,,,,,,"",""
+ball,2,10.2,Somerset,TB Abell,BGF Green,ME Milnes,1,0,,,,,,"",""
+ball,2,10.3,Somerset,BGF Green,TB Abell,ME Milnes,0,0,,,,,,"",""
+ball,2,10.4,Somerset,BGF Green,TB Abell,ME Milnes,1,0,,,,,,"",""
+ball,2,10.5,Somerset,TB Abell,BGF Green,ME Milnes,2,0,,,,,,"",""
+ball,2,10.6,Somerset,TB Abell,BGF Green,ME Milnes,1,0,,,,,,"",""
+ball,2,11.1,Somerset,TB Abell,BGF Green,G Stewart,1,0,,,,,,"",""
+ball,2,11.2,Somerset,BGF Green,TB Abell,G Stewart,1,0,,,,,,"",""
+ball,2,11.3,Somerset,TB Abell,BGF Green,G Stewart,2,0,,,,,,"",""
+ball,2,11.4,Somerset,TB Abell,BGF Green,G Stewart,1,0,,,,,,"",""
+ball,2,11.5,Somerset,BGF Green,TB Abell,G Stewart,1,0,,,,,,"",""
+ball,2,11.6,Somerset,TB Abell,BGF Green,G Stewart,1,0,,,,,,"",""
+ball,2,12.1,Somerset,TB Abell,BGF Green,FJ Klaassen,1,0,,,,,,"",""
+ball,2,12.2,Somerset,BGF Green,TB Abell,FJ Klaassen,1,0,,,,,,"",""
+ball,2,12.3,Somerset,TB Abell,BGF Green,FJ Klaassen,0,0,,,,,,"",""
+ball,2,12.4,Somerset,TB Abell,BGF Green,FJ Klaassen,0,0,,,,,,caught,TB Abell
+ball,2,12.5,Somerset,RE van der Merwe,BGF Green,FJ Klaassen,0,0,,,,,,"",""
+ball,2,12.6,Somerset,RE van der Merwe,BGF Green,FJ Klaassen,1,0,,,,,,"",""
+ball,2,13.1,Somerset,RE van der Merwe,BGF Green,Qais Ahmad,6,0,,,,,,"",""
+ball,2,13.2,Somerset,RE van der Merwe,BGF Green,Qais Ahmad,1,0,,,,,,"",""
+ball,2,13.3,Somerset,BGF Green,RE van der Merwe,Qais Ahmad,2,0,,,,,,"",""
+ball,2,13.4,Somerset,BGF Green,RE van der Merwe,Qais Ahmad,4,0,,,,,,"",""
+ball,2,13.5,Somerset,BGF Green,RE van der Merwe,Qais Ahmad,1,0,,,,,,"",""
+ball,2,13.6,Somerset,RE van der Merwe,BGF Green,Qais Ahmad,0,0,,,,,,"",""
+ball,2,14.1,Somerset,BGF Green,RE van der Merwe,ME Milnes,1,0,,,,,,"",""
+ball,2,14.2,Somerset,RE van der Merwe,BGF Green,ME Milnes,0,0,,,,,,caught,RE van der Merwe
+ball,2,14.3,Somerset,C Overton,BGF Green,ME Milnes,1,0,,,,,,"",""
+ball,2,14.4,Somerset,BGF Green,C Overton,ME Milnes,0,0,,,,,,"",""
+ball,2,14.5,Somerset,BGF Green,C Overton,ME Milnes,1,0,,,,,,"",""
+ball,2,14.6,Somerset,C Overton,BGF Green,ME Milnes,1,0,,,,,,"",""
+ball,2,15.1,Somerset,C Overton,BGF Green,G Stewart,1,0,,,,,,"",""
+ball,2,15.2,Somerset,BGF Green,C Overton,G Stewart,1,0,,,,,,"",""
+ball,2,15.3,Somerset,C Overton,BGF Green,G Stewart,4,0,,,,,,"",""
+ball,2,15.4,Somerset,C Overton,BGF Green,G Stewart,1,0,,,,,,"",""
+ball,2,15.5,Somerset,BGF Green,C Overton,G Stewart,0,2,,2,,,,"",""
+ball,2,15.6,Somerset,BGF Green,C Overton,G Stewart,1,0,,,,,,"",""
+ball,2,15.7,Somerset,C Overton,BGF Green,G Stewart,4,0,,,,,,"",""
+ball,2,16.1,Somerset,BGF Green,C Overton,ME Milnes,4,0,,,,,,"",""
+ball,2,16.2,Somerset,BGF Green,C Overton,ME Milnes,4,0,,,,,,"",""
+ball,2,16.3,Somerset,BGF Green,C Overton,ME Milnes,2,0,,,,,,"",""
+ball,2,16.4,Somerset,BGF Green,C Overton,ME Milnes,6,0,,,,,,"",""
+ball,2,16.5,Somerset,BGF Green,C Overton,ME Milnes,1,0,,,,,,"",""
+ball,2,16.6,Somerset,C Overton,BGF Green,ME Milnes,1,0,,,,,,"",""
+ball,2,17.1,Somerset,C Overton,BGF Green,G Stewart,0,1,,,,1,,"",""
+ball,2,17.2,Somerset,BGF Green,C Overton,G Stewart,0,0,,,,,,"",""
+ball,2,17.3,Somerset,BGF Green,C Overton,G Stewart,1,0,,,,,,"",""
+ball,2,17.4,Somerset,C Overton,BGF Green,G Stewart,0,0,,,,,,caught,C Overton
+ball,2,17.5,Somerset,JH Davey,BGF Green,G Stewart,1,0,,,,,,"",""
+ball,2,17.6,Somerset,BGF Green,JH Davey,G Stewart,0,0,,,,,,"",""
+ball,2,18.1,Somerset,JH Davey,BGF Green,FJ Klaassen,1,0,,,,,,"",""
+ball,2,18.2,Somerset,BGF Green,JH Davey,FJ Klaassen,0,0,,,,,,"",""
+ball,2,18.3,Somerset,BGF Green,JH Davey,FJ Klaassen,1,0,,,,,,"",""
+ball,2,18.4,Somerset,JH Davey,BGF Green,FJ Klaassen,0,0,,,,,,"",""
+ball,2,18.5,Somerset,JH Davey,BGF Green,FJ Klaassen,6,0,,,,,,"",""
+ball,2,18.6,Somerset,JH Davey,BGF Green,FJ Klaassen,4,0,,,,,,"",""
+ball,2,19.1,Somerset,BGF Green,JH Davey,GF Linde,0,0,,,,,,"",""
+ball,2,19.2,Somerset,BGF Green,JH Davey,GF Linde,6,0,,,,,,"",""
+ball,2,19.3,Somerset,BGF Green,JH Davey,GF Linde,0,0,,,,,,"",""
+ball,2,19.4,Somerset,BGF Green,JH Davey,GF Linde,0,0,,,,,,caught,BGF Green
+ball,2,19.5,Somerset,PM Siddle,JH Davey,GF Linde,4,0,,,,,,"",""
+ball,2,19.6,Somerset,PM Siddle,JH Davey,GF Linde,1,0,,,,,,"",""

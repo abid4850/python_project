@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Surrey
+info,gender,male
+info,season,2022
+info,date,2022/06/24
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Surrey
+info,toss_decision,field
+info,umpire,GD Lloyd
+info,umpire,James Middlebrook
+info,match_referee,AJ Swann
+info,winner,Essex
+info,winner_runs,43
+info,player,Essex,AM Rossington
+info,player,Essex,FIN Khushi
+info,player,Essex,MS Pepper
+info,player,Essex,DW Lawrence
+info,player,Essex,PI Walter
+info,player,Essex,DR Sams
+info,player,Essex,SR Harmer
+info,player,Essex,Aaron Beard
+info,player,Essex,ASS Nijjar
+info,player,Essex,T Westley
+info,player,Essex,SJ Cook
+info,player,Surrey,JJ Roy
+info,player,Surrey,WG Jacks
+info,player,Surrey,JL Smith
+info,player,Surrey,RJ Burns
+info,player,Surrey,LJ Evans
+info,player,Surrey,SP Narine
+info,player,Surrey,CJ Jordan
+info,player,Surrey,TE Lawes
+info,player,Surrey,C McKerr
+info,player,Surrey,D Moriarty
+info,player,Surrey,RJW Topley
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,C McKerr,5ccdb14f
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Smith,c834c290
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Westley,25a42048
+info,registry,people,TE Lawes,fe2ac1a8
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Essex,AM Rossington,FIN Khushi,RJW Topley,0,0,,,,,,"",""
+ball,1,0.2,Essex,AM Rossington,FIN Khushi,RJW Topley,0,1,,,,1,,"",""
+ball,1,0.3,Essex,FIN Khushi,AM Rossington,RJW Topley,0,0,,,,,,"",""
+ball,1,0.4,Essex,FIN Khushi,AM Rossington,RJW Topley,2,0,,,,,,"",""
+ball,1,0.5,Essex,FIN Khushi,AM Rossington,RJW Topley,0,0,,,,,,"",""
+ball,1,0.6,Essex,FIN Khushi,AM Rossington,RJW Topley,1,0,,,,,,"",""
+ball,1,1.1,Essex,FIN Khushi,AM Rossington,D Moriarty,0,0,,,,,,"",""
+ball,1,1.2,Essex,FIN Khushi,AM Rossington,D Moriarty,0,0,,,,,,"",""
+ball,1,1.3,Essex,FIN Khushi,AM Rossington,D Moriarty,0,0,,,,,,"",""
+ball,1,1.4,Essex,FIN Khushi,AM Rossington,D Moriarty,0,0,,,,,,"",""
+ball,1,1.5,Essex,FIN Khushi,AM Rossington,D Moriarty,1,0,,,,,,"",""
+ball,1,1.6,Essex,AM Rossington,FIN Khushi,D Moriarty,0,1,,,,1,,"",""
+ball,1,2.1,Essex,AM Rossington,FIN Khushi,RJW Topley,4,0,,,,,,"",""
+ball,1,2.2,Essex,AM Rossington,FIN Khushi,RJW Topley,0,0,,,,,,caught,AM Rossington
+ball,1,2.3,Essex,MS Pepper,FIN Khushi,RJW Topley,1,0,,,,,,"",""
+ball,1,2.4,Essex,FIN Khushi,MS Pepper,RJW Topley,0,0,,,,,,"",""
+ball,1,2.5,Essex,FIN Khushi,MS Pepper,RJW Topley,1,0,,,,,,"",""
+ball,1,2.6,Essex,MS Pepper,FIN Khushi,RJW Topley,6,0,,,,,,"",""
+ball,1,3.1,Essex,FIN Khushi,MS Pepper,D Moriarty,4,0,,,,,,"",""
+ball,1,3.2,Essex,FIN Khushi,MS Pepper,D Moriarty,0,0,,,,,,"",""
+ball,1,3.3,Essex,FIN Khushi,MS Pepper,D Moriarty,0,0,,,,,,"",""
+ball,1,3.4,Essex,FIN Khushi,MS Pepper,D Moriarty,4,0,,,,,,"",""
+ball,1,3.5,Essex,FIN Khushi,MS Pepper,D Moriarty,1,0,,,,,,"",""
+ball,1,3.6,Essex,MS Pepper,FIN Khushi,D Moriarty,0,0,,,,,,"",""
+ball,1,4.1,Essex,FIN Khushi,MS Pepper,C McKerr,0,0,,,,,,"",""
+ball,1,4.2,Essex,FIN Khushi,MS Pepper,C McKerr,0,0,,,,,,"",""
+ball,1,4.3,Essex,FIN Khushi,MS Pepper,C McKerr,4,0,,,,,,"",""
+ball,1,4.4,Essex,FIN Khushi,MS Pepper,C McKerr,1,0,,,,,,"",""
+ball,1,4.5,Essex,MS Pepper,FIN Khushi,C McKerr,4,0,,,,,,"",""
+ball,1,4.6,Essex,MS Pepper,FIN Khushi,C McKerr,6,0,,,,,,"",""
+ball,1,5.1,Essex,FIN Khushi,MS Pepper,D Moriarty,1,0,,,,,,"",""
+ball,1,5.2,Essex,MS Pepper,FIN Khushi,D Moriarty,4,0,,,,,,"",""
+ball,1,5.3,Essex,MS Pepper,FIN Khushi,D Moriarty,4,0,,,,,,"",""
+ball,1,5.4,Essex,MS Pepper,FIN Khushi,D Moriarty,4,0,,,,,,"",""
+ball,1,5.5,Essex,MS Pepper,FIN Khushi,D Moriarty,4,0,,,,,,"",""
+ball,1,5.6,Essex,MS Pepper,FIN Khushi,D Moriarty,0,1,,,,1,,"",""
+ball,1,6.1,Essex,MS Pepper,FIN Khushi,TE Lawes,6,0,,,,,,"",""
+ball,1,6.2,Essex,MS Pepper,FIN Khushi,TE Lawes,4,0,,,,,,"",""
+ball,1,6.3,Essex,MS Pepper,FIN Khushi,TE Lawes,0,0,,,,,,"",""
+ball,1,6.4,Essex,MS Pepper,FIN Khushi,TE Lawes,2,0,,,,,,"",""
+ball,1,6.5,Essex,MS Pepper,FIN Khushi,TE Lawes,1,0,,,,,,"",""
+ball,1,6.6,Essex,FIN Khushi,MS Pepper,TE Lawes,0,0,,,,,,"",""
+ball,1,7.1,Essex,MS Pepper,FIN Khushi,CJ Jordan,1,0,,,,,,"",""
+ball,1,7.2,Essex,FIN Khushi,MS Pepper,CJ Jordan,0,0,,,,,,"",""
+ball,1,7.3,Essex,FIN Khushi,MS Pepper,CJ Jordan,2,0,,,,,,"",""
+ball,1,7.4,Essex,FIN Khushi,MS Pepper,CJ Jordan,0,1,,,,1,,"",""
+ball,1,7.5,Essex,MS Pepper,FIN Khushi,CJ Jordan,1,0,,,,,,"",""
+ball,1,7.6,Essex,FIN Khushi,MS Pepper,CJ Jordan,1,0,,,,,,"",""
+ball,1,8.1,Essex,FIN Khushi,MS Pepper,SP Narine,0,0,,,,,,caught,FIN Khushi
+ball,1,8.2,Essex,DW Lawrence,MS Pepper,SP Narine,1,0,,,,,,"",""
+ball,1,8.3,Essex,MS Pepper,DW Lawrence,SP Narine,0,0,,,,,,caught,MS Pepper
+ball,1,8.4,Essex,PI Walter,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,1,8.5,Essex,DW Lawrence,PI Walter,SP Narine,1,0,,,,,,"",""
+ball,1,8.6,Essex,PI Walter,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,1,9.1,Essex,PI Walter,DW Lawrence,TE Lawes,0,0,,,,,,"",""
+ball,1,9.2,Essex,PI Walter,DW Lawrence,TE Lawes,0,0,,,,,,"",""
+ball,1,9.3,Essex,PI Walter,DW Lawrence,TE Lawes,0,1,1,,,,,"",""
+ball,1,9.4,Essex,PI Walter,DW Lawrence,TE Lawes,1,0,,,,,,"",""
+ball,1,9.5,Essex,DW Lawrence,PI Walter,TE Lawes,2,0,,,,,,"",""
+ball,1,9.6,Essex,DW Lawrence,PI Walter,TE Lawes,0,0,,,,,,"",""
+ball,1,9.7,Essex,DW Lawrence,PI Walter,TE Lawes,1,0,,,,,,"",""
+ball,1,10.1,Essex,DW Lawrence,PI Walter,SP Narine,4,0,,,,,,"",""
+ball,1,10.2,Essex,DW Lawrence,PI Walter,SP Narine,1,0,,,,,,"",""
+ball,1,10.3,Essex,PI Walter,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,1,10.4,Essex,DW Lawrence,PI Walter,SP Narine,1,0,,,,,,"",""
+ball,1,10.5,Essex,PI Walter,DW Lawrence,SP Narine,6,0,,,,,,"",""
+ball,1,10.6,Essex,PI Walter,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,1,11.1,Essex,PI Walter,DW Lawrence,CJ Jordan,1,0,,,,,,"",""
+ball,1,11.2,Essex,DW Lawrence,PI Walter,CJ Jordan,2,0,,,,,,"",""
+ball,1,11.3,Essex,DW Lawrence,PI Walter,CJ Jordan,0,0,,,,,,"",""
+ball,1,11.4,Essex,DW Lawrence,PI Walter,CJ Jordan,1,0,,,,,,"",""
+ball,1,11.5,Essex,PI Walter,DW Lawrence,CJ Jordan,1,0,,,,,,"",""
+ball,1,11.6,Essex,DW Lawrence,PI Walter,CJ Jordan,4,0,,,,,,"",""
+ball,1,12.1,Essex,PI Walter,DW Lawrence,SP Narine,6,0,,,,,,"",""
+ball,1,12.2,Essex,PI Walter,DW Lawrence,SP Narine,0,0,,,,,,"",""
+ball,1,12.3,Essex,PI Walter,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,1,12.4,Essex,DW Lawrence,PI Walter,SP Narine,1,0,,,,,,"",""
+ball,1,12.5,Essex,PI Walter,DW Lawrence,SP Narine,0,0,,,,,,"",""
+ball,1,12.6,Essex,PI Walter,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,1,13.1,Essex,PI Walter,DW Lawrence,C McKerr,4,0,,,,,,"",""
+ball,1,13.2,Essex,PI Walter,DW Lawrence,C McKerr,6,0,,,,,,"",""
+ball,1,13.3,Essex,PI Walter,DW Lawrence,C McKerr,1,0,,,,,,"",""
+ball,1,13.4,Essex,DW Lawrence,PI Walter,C McKerr,0,0,,,,,,caught,DW Lawrence
+ball,1,13.5,Essex,DR Sams,PI Walter,C McKerr,1,0,,,,,,"",""
+ball,1,13.6,Essex,PI Walter,DR Sams,C McKerr,1,0,,,,,,"",""
+ball,1,14.1,Essex,PI Walter,DR Sams,SP Narine,0,0,,,,,,"",""
+ball,1,14.2,Essex,PI Walter,DR Sams,SP Narine,1,0,,,,,,"",""
+ball,1,14.3,Essex,DR Sams,PI Walter,SP Narine,4,0,,,,,,"",""
+ball,1,14.4,Essex,DR Sams,PI Walter,SP Narine,1,0,,,,,,"",""
+ball,1,14.5,Essex,PI Walter,DR Sams,SP Narine,1,0,,,,,,"",""
+ball,1,14.6,Essex,DR Sams,PI Walter,SP Narine,1,0,,,,,,"",""
+ball,1,15.1,Essex,DR Sams,PI Walter,RJW Topley,4,0,,,,,,"",""
+ball,1,15.2,Essex,DR Sams,PI Walter,RJW Topley,0,0,,,,,,caught,DR Sams
+ball,1,15.3,Essex,SR Harmer,PI Walter,RJW Topley,1,0,,,,,,"",""
+ball,1,15.4,Essex,PI Walter,SR Harmer,RJW Topley,1,0,,,,,,"",""
+ball,1,15.5,Essex,SR Harmer,PI Walter,RJW Topley,0,4,,,,4,,"",""
+ball,1,15.6,Essex,SR Harmer,PI Walter,RJW Topley,1,0,,,,,,"",""
+ball,1,16.1,Essex,SR Harmer,PI Walter,CJ Jordan,0,1,1,,,,,"",""
+ball,1,16.2,Essex,SR Harmer,PI Walter,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.3,Essex,PI Walter,SR Harmer,CJ Jordan,0,0,,,,,,"",""
+ball,1,16.4,Essex,PI Walter,SR Harmer,CJ Jordan,0,0,,,,,,"",""
+ball,1,16.5,Essex,PI Walter,SR Harmer,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.6,Essex,SR Harmer,PI Walter,CJ Jordan,2,0,,,,,,"",""
+ball,1,16.7,Essex,SR Harmer,PI Walter,CJ Jordan,1,0,,,,,,"",""
+ball,1,17.1,Essex,SR Harmer,PI Walter,TE Lawes,2,0,,,,,,"",""
+ball,1,17.2,Essex,SR Harmer,PI Walter,TE Lawes,6,0,,,,,,"",""
+ball,1,17.3,Essex,SR Harmer,PI Walter,TE Lawes,4,0,,,,,,"",""
+ball,1,17.4,Essex,SR Harmer,PI Walter,TE Lawes,1,0,,,,,,"",""
+ball,1,17.5,Essex,PI Walter,SR Harmer,TE Lawes,2,0,,,,,,"",""
+ball,1,17.6,Essex,PI Walter,SR Harmer,TE Lawes,2,0,,,,,,"",""
+ball,1,18.1,Essex,SR Harmer,PI Walter,CJ Jordan,4,0,,,,,,"",""
+ball,1,18.2,Essex,SR Harmer,PI Walter,CJ Jordan,1,0,,,,,,"",""
+ball,1,18.3,Essex,PI Walter,SR Harmer,CJ Jordan,1,0,,,,,,"",""
+ball,1,18.4,Essex,SR Harmer,PI Walter,CJ Jordan,1,0,,,,,,"",""
+ball,1,18.5,Essex,PI Walter,SR Harmer,CJ Jordan,0,0,,,,,,"",""
+ball,1,18.6,Essex,PI Walter,SR Harmer,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.1,Essex,PI Walter,SR Harmer,RJW Topley,6,0,,,,,,"",""
+ball,1,19.2,Essex,PI Walter,SR Harmer,RJW Topley,0,0,,,,,,bowled,PI Walter
+ball,1,19.3,Essex,Aaron Beard,SR Harmer,RJW Topley,1,0,,,,,,"",""
+ball,1,19.4,Essex,SR Harmer,Aaron Beard,RJW Topley,4,0,,,,,,"",""
+ball,1,19.5,Essex,SR Harmer,Aaron Beard,RJW Topley,0,0,,,,,,lbw,SR Harmer
+ball,1,19.6,Essex,ASS Nijjar,Aaron Beard,RJW Topley,4,0,,,,,,"",""
+ball,2,0.1,Surrey,JJ Roy,WG Jacks,Aaron Beard,0,0,,,,,,"",""
+ball,2,0.2,Surrey,JJ Roy,WG Jacks,Aaron Beard,0,0,,,,,,"",""
+ball,2,0.3,Surrey,JJ Roy,WG Jacks,Aaron Beard,0,0,,,,,,"",""
+ball,2,0.4,Surrey,JJ Roy,WG Jacks,Aaron Beard,4,0,,,,,,"",""
+ball,2,0.5,Surrey,JJ Roy,WG Jacks,Aaron Beard,0,0,,,,,,bowled,JJ Roy
+ball,2,0.6,Surrey,JL Smith,WG Jacks,Aaron Beard,0,0,,,,,,"",""
+ball,2,1.1,Surrey,WG Jacks,JL Smith,DR Sams,0,0,,,,,,"",""
+ball,2,1.2,Surrey,WG Jacks,JL Smith,DR Sams,6,0,,,,,,"",""
+ball,2,1.3,Surrey,WG Jacks,JL Smith,DR Sams,0,0,,,,,,"",""
+ball,2,1.4,Surrey,WG Jacks,JL Smith,DR Sams,4,0,,,,,,"",""
+ball,2,1.5,Surrey,WG Jacks,JL Smith,DR Sams,4,0,,,,,,"",""
+ball,2,1.6,Surrey,WG Jacks,JL Smith,DR Sams,1,0,,,,,,"",""
+ball,2,2.1,Surrey,WG Jacks,JL Smith,SJ Cook,2,0,,,,,,"",""
+ball,2,2.2,Surrey,WG Jacks,JL Smith,SJ Cook,4,0,,,,,,"",""
+ball,2,2.3,Surrey,WG Jacks,JL Smith,SJ Cook,4,0,,,,,,"",""
+ball,2,2.4,Surrey,WG Jacks,JL Smith,SJ Cook,0,0,,,,,,"",""
+ball,2,2.5,Surrey,WG Jacks,JL Smith,SJ Cook,1,0,,,,,,"",""
+ball,2,2.6,Surrey,JL Smith,WG Jacks,SJ Cook,1,0,,,,,,"",""
+ball,2,3.1,Surrey,JL Smith,WG Jacks,Aaron Beard,1,0,,,,,,"",""
+ball,2,3.2,Surrey,WG Jacks,JL Smith,Aaron Beard,0,2,,2,,,,"",""
+ball,2,3.3,Surrey,WG Jacks,JL Smith,Aaron Beard,0,0,,,,,,"",""
+ball,2,3.4,Surrey,WG Jacks,JL Smith,Aaron Beard,0,0,,,,,,caught,WG Jacks
+ball,2,3.5,Surrey,RJ Burns,JL Smith,Aaron Beard,4,0,,,,,,"",""
+ball,2,3.6,Surrey,RJ Burns,JL Smith,Aaron Beard,0,0,,,,,,"",""
+ball,2,3.7,Surrey,RJ Burns,JL Smith,Aaron Beard,0,0,,,,,,"",""
+ball,2,4.1,Surrey,JL Smith,RJ Burns,SJ Cook,0,0,,,,,,"",""
+ball,2,4.2,Surrey,JL Smith,RJ Burns,SJ Cook,0,0,,,,,,"",""
+ball,2,4.3,Surrey,JL Smith,RJ Burns,SJ Cook,0,0,,,,,,"",""
+ball,2,4.4,Surrey,JL Smith,RJ Burns,SJ Cook,0,0,,,,,,"",""
+ball,2,4.5,Surrey,JL Smith,RJ Burns,SJ Cook,1,0,,,,,,"",""
+ball,2,4.6,Surrey,RJ Burns,JL Smith,SJ Cook,4,0,,,,,,"",""
+ball,2,5.1,Surrey,JL Smith,RJ Burns,DR Sams,4,0,,,,,,"",""
+ball,2,5.2,Surrey,JL Smith,RJ Burns,DR Sams,4,0,,,,,,"",""
+ball,2,5.3,Surrey,JL Smith,RJ Burns,DR Sams,0,0,,,,,,"",""
+ball,2,5.4,Surrey,JL Smith,RJ Burns,DR Sams,0,0,,,,,,"",""
+ball,2,5.5,Surrey,JL Smith,RJ Burns,DR Sams,1,0,,,,,,"",""
+ball,2,5.6,Surrey,RJ Burns,JL Smith,DR Sams,1,0,,,,,,"",""
+ball,2,6.1,Surrey,RJ Burns,JL Smith,ASS Nijjar,1,0,,,,,,"",""
+ball,2,6.2,Surrey,JL Smith,RJ Burns,ASS Nijjar,2,0,,,,,,"",""
+ball,2,6.3,Surrey,JL Smith,RJ Burns,ASS Nijjar,1,0,,,,,,"",""
+ball,2,6.4,Surrey,RJ Burns,JL Smith,ASS Nijjar,0,0,,,,,,"",""
+ball,2,6.5,Surrey,RJ Burns,JL Smith,ASS Nijjar,4,0,,,,,,"",""
+ball,2,6.6,Surrey,RJ Burns,JL Smith,ASS Nijjar,6,0,,,,,,"",""
+ball,2,7.1,Surrey,JL Smith,RJ Burns,SR Harmer,0,1,1,,,,,"",""
+ball,2,7.2,Surrey,JL Smith,RJ Burns,SR Harmer,4,0,,,,,,"",""
+ball,2,7.3,Surrey,JL Smith,RJ Burns,SR Harmer,2,0,,,,,,"",""
+ball,2,7.4,Surrey,JL Smith,RJ Burns,SR Harmer,1,0,,,,,,"",""
+ball,2,7.5,Surrey,RJ Burns,JL Smith,SR Harmer,1,0,,,,,,"",""
+ball,2,7.6,Surrey,JL Smith,RJ Burns,SR Harmer,0,1,,,,1,,"",""
+ball,2,7.7,Surrey,RJ Burns,JL Smith,SR Harmer,2,0,,,,,,"",""
+ball,2,8.1,Surrey,JL Smith,RJ Burns,DW Lawrence,1,0,,,,,,"",""
+ball,2,8.2,Surrey,RJ Burns,JL Smith,DW Lawrence,1,0,,,,,,"",""
+ball,2,8.3,Surrey,JL Smith,RJ Burns,DW Lawrence,1,0,,,,,,"",""
+ball,2,8.4,Surrey,RJ Burns,JL Smith,DW Lawrence,1,0,,,,,,"",""
+ball,2,8.5,Surrey,JL Smith,RJ Burns,DW Lawrence,0,0,,,,,,"",""
+ball,2,8.6,Surrey,JL Smith,RJ Burns,DW Lawrence,4,0,,,,,,"",""
+ball,2,9.1,Surrey,RJ Burns,JL Smith,SR Harmer,0,0,,,,,,"",""
+ball,2,9.2,Surrey,RJ Burns,JL Smith,SR Harmer,0,0,,,,,,"",""
+ball,2,9.3,Surrey,RJ Burns,JL Smith,SR Harmer,1,0,,,,,,"",""
+ball,2,9.4,Surrey,JL Smith,RJ Burns,SR Harmer,1,0,,,,,,"",""
+ball,2,9.5,Surrey,RJ Burns,JL Smith,SR Harmer,1,0,,,,,,"",""
+ball,2,9.6,Surrey,JL Smith,RJ Burns,SR Harmer,1,0,,,,,,"",""
+ball,2,10.1,Surrey,JL Smith,RJ Burns,DW Lawrence,0,0,,,,,,bowled,JL Smith
+ball,2,10.2,Surrey,LJ Evans,RJ Burns,DW Lawrence,0,0,,,,,,"",""
+ball,2,10.3,Surrey,LJ Evans,RJ Burns,DW Lawrence,1,0,,,,,,"",""
+ball,2,10.4,Surrey,RJ Burns,LJ Evans,DW Lawrence,1,0,,,,,,"",""
+ball,2,10.5,Surrey,LJ Evans,RJ Burns,DW Lawrence,1,0,,,,,,"",""
+ball,2,10.6,Surrey,RJ Burns,LJ Evans,DW Lawrence,1,0,,,,,,"",""
+ball,2,11.1,Surrey,RJ Burns,LJ Evans,ASS Nijjar,4,0,,,,,,"",""
+ball,2,11.2,Surrey,RJ Burns,LJ Evans,ASS Nijjar,1,0,,,,,,"",""
+ball,2,11.3,Surrey,LJ Evans,RJ Burns,ASS Nijjar,0,0,,,,,,"",""
+ball,2,11.4,Surrey,LJ Evans,RJ Burns,ASS Nijjar,0,0,,,,,,"",""
+ball,2,11.5,Surrey,LJ Evans,RJ Burns,ASS Nijjar,1,0,,,,,,"",""
+ball,2,11.6,Surrey,RJ Burns,LJ Evans,ASS Nijjar,1,0,,,,,,"",""
+ball,2,12.1,Surrey,RJ Burns,LJ Evans,Aaron Beard,0,0,,,,,,"",""
+ball,2,12.2,Surrey,RJ Burns,LJ Evans,Aaron Beard,2,0,,,,,,"",""
+ball,2,12.3,Surrey,RJ Burns,LJ Evans,Aaron Beard,0,0,,,,,,"",""
+ball,2,12.4,Surrey,RJ Burns,LJ Evans,Aaron Beard,0,0,,,,,,caught,RJ Burns
+ball,2,12.5,Surrey,SP Narine,LJ Evans,Aaron Beard,0,0,,,,,,"",""
+ball,2,12.6,Surrey,SP Narine,LJ Evans,Aaron Beard,4,0,,,,,,"",""
+ball,2,13.1,Surrey,LJ Evans,SP Narine,SR Harmer,1,0,,,,,,"",""
+ball,2,13.2,Surrey,SP Narine,LJ Evans,SR Harmer,0,0,,,,,,"",""
+ball,2,13.3,Surrey,SP Narine,LJ Evans,SR Harmer,0,0,,,,,,caught and bowled,SP Narine
+ball,2,13.4,Surrey,CJ Jordan,LJ Evans,SR Harmer,1,0,,,,,,"",""
+ball,2,13.5,Surrey,LJ Evans,CJ Jordan,SR Harmer,0,0,,,,,,"",""
+ball,2,13.6,Surrey,LJ Evans,CJ Jordan,SR Harmer,0,0,,,,,,caught,LJ Evans
+ball,2,14.1,Surrey,CJ Jordan,TE Lawes,DR Sams,0,0,,,,,,"",""
+ball,2,14.2,Surrey,CJ Jordan,TE Lawes,DR Sams,4,0,,,,,,"",""
+ball,2,14.3,Surrey,CJ Jordan,TE Lawes,DR Sams,1,0,,,,,,"",""
+ball,2,14.4,Surrey,TE Lawes,CJ Jordan,DR Sams,0,0,,,,,,"",""
+ball,2,14.5,Surrey,TE Lawes,CJ Jordan,DR Sams,1,0,,,,,,"",""
+ball,2,14.6,Surrey,CJ Jordan,TE Lawes,DR Sams,4,0,,,,,,"",""
+ball,2,15.1,Surrey,TE Lawes,CJ Jordan,SR Harmer,1,0,,,,,,"",""
+ball,2,15.2,Surrey,CJ Jordan,TE Lawes,SR Harmer,0,0,,,,,,"",""
+ball,2,15.3,Surrey,CJ Jordan,TE Lawes,SR Harmer,1,0,,,,,,"",""
+ball,2,15.4,Surrey,TE Lawes,CJ Jordan,SR Harmer,0,0,,,,,,"",""
+ball,2,15.5,Surrey,TE Lawes,CJ Jordan,SR Harmer,0,0,,,,,,"",""
+ball,2,15.6,Surrey,TE Lawes,CJ Jordan,SR Harmer,1,0,,,,,,"",""
+ball,2,16.1,Surrey,TE Lawes,CJ Jordan,SJ Cook,2,0,,,,,,"",""
+ball,2,16.2,Surrey,TE Lawes,CJ Jordan,SJ Cook,1,0,,,,,,"",""
+ball,2,16.3,Surrey,CJ Jordan,TE Lawes,SJ Cook,6,0,,,,,,"",""
+ball,2,16.4,Surrey,CJ Jordan,TE Lawes,SJ Cook,1,0,,,,,,"",""
+ball,2,16.5,Surrey,TE Lawes,CJ Jordan,SJ Cook,0,0,,,,,,"",""
+ball,2,16.6,Surrey,TE Lawes,CJ Jordan,SJ Cook,0,0,,,,,,"",""
+ball,2,17.1,Surrey,CJ Jordan,TE Lawes,Aaron Beard,3,0,,,,,,"",""
+ball,2,17.2,Surrey,TE Lawes,CJ Jordan,Aaron Beard,0,0,,,,,,caught,TE Lawes
+ball,2,17.3,Surrey,C McKerr,CJ Jordan,Aaron Beard,1,0,,,,,,"",""
+ball,2,17.4,Surrey,CJ Jordan,C McKerr,Aaron Beard,2,0,,,,,,"",""
+ball,2,17.5,Surrey,CJ Jordan,C McKerr,Aaron Beard,0,0,,,,,,"",""
+ball,2,17.6,Surrey,CJ Jordan,C McKerr,Aaron Beard,6,0,,,,,,"",""
+ball,2,18.1,Surrey,C McKerr,CJ Jordan,DR Sams,1,0,,,,,,"",""
+ball,2,18.2,Surrey,CJ Jordan,C McKerr,DR Sams,0,0,,,,,,"",""
+ball,2,18.3,Surrey,CJ Jordan,C McKerr,DR Sams,1,0,,,,,,"",""
+ball,2,18.4,Surrey,C McKerr,CJ Jordan,DR Sams,1,0,,,,,,"",""
+ball,2,18.5,Surrey,CJ Jordan,C McKerr,DR Sams,4,0,,,,,,"",""
+ball,2,18.6,Surrey,CJ Jordan,C McKerr,DR Sams,0,0,,,,,,caught,CJ Jordan
+ball,2,19.1,Surrey,C McKerr,D Moriarty,SJ Cook,0,0,,,,,,caught,C McKerr
+ball,2,19.2,Surrey,RJW Topley,D Moriarty,SJ Cook,1,0,,,,,,"",""
+ball,2,19.3,Surrey,D Moriarty,RJW Topley,SJ Cook,0,0,,,,,,"",""
+ball,2,19.4,Surrey,D Moriarty,RJW Topley,SJ Cook,1,0,,,,,,"",""
+ball,2,19.5,Surrey,RJW Topley,D Moriarty,SJ Cook,1,0,,,,,,"",""
+ball,2,19.6,Surrey,D Moriarty,RJW Topley,SJ Cook,0,0,,,,,,"",""

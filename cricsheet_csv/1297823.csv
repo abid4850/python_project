@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Worcestershire
+info,gender,male
+info,season,2022
+info,date,2022/06/01
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Worcestershire
+info,toss_decision,field
+info,umpire,DJ Millns
+info,umpire,N Pratt
+info,match_referee,AJ Swann
+info,winner,Durham
+info,winner_runs,48
+info,player,Durham,G Clark
+info,player,Durham,MA Jones
+info,player,Durham,OG Robinson
+info,player,Durham,DG Bedingham
+info,player,Durham,P Coughlin
+info,player,Durham,BA Carse
+info,player,Durham,EJH Eckersley
+info,player,Durham,L Trevaskis
+info,player,Durham,BA Raine
+info,player,Durham,SG Borthwick
+info,player,Durham,AJ Tye
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,C Munro
+info,player,Worcestershire,JD Libby
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EG Barnard
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,JO Baker
+info,player,Worcestershire,PR Brown
+info,player,Worcestershire,CAJ Morris
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,C Munro,af2c687b
+info,registry,people,CAJ Morris,5db1c288
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,EJH Eckersley,d510d457
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JD Libby,0d61d8f0
+info,registry,people,JO Baker,52c442e4
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,MA Jones,05f96194
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,P Coughlin,71440756
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,SG Borthwick,51e1ed69
+ball,1,0.1,Durham,G Clark,MA Jones,JO Baker,0,0,,,,,,"",""
+ball,1,0.2,Durham,G Clark,MA Jones,JO Baker,0,0,,,,,,"",""
+ball,1,0.3,Durham,G Clark,MA Jones,JO Baker,1,0,,,,,,"",""
+ball,1,0.4,Durham,MA Jones,G Clark,JO Baker,4,0,,,,,,"",""
+ball,1,0.5,Durham,MA Jones,G Clark,JO Baker,0,0,,,,,,"",""
+ball,1,0.6,Durham,MA Jones,G Clark,JO Baker,0,0,,,,,,"",""
+ball,1,1.1,Durham,G Clark,MA Jones,CAJ Morris,1,0,,,,,,"",""
+ball,1,1.2,Durham,MA Jones,G Clark,CAJ Morris,4,0,,,,,,"",""
+ball,1,1.3,Durham,MA Jones,G Clark,CAJ Morris,2,0,,,,,,"",""
+ball,1,1.4,Durham,MA Jones,G Clark,CAJ Morris,0,0,,,,,,"",""
+ball,1,1.5,Durham,MA Jones,G Clark,CAJ Morris,0,1,,,1,,,"",""
+ball,1,1.6,Durham,G Clark,MA Jones,CAJ Morris,1,0,,,,,,"",""
+ball,1,2.1,Durham,G Clark,MA Jones,PR Brown,1,0,,,,,,"",""
+ball,1,2.2,Durham,MA Jones,G Clark,PR Brown,4,0,,,,,,"",""
+ball,1,2.3,Durham,MA Jones,G Clark,PR Brown,0,0,,,,,,"",""
+ball,1,2.4,Durham,MA Jones,G Clark,PR Brown,0,0,,,,,,"",""
+ball,1,2.5,Durham,MA Jones,G Clark,PR Brown,6,0,,,,,,"",""
+ball,1,2.6,Durham,MA Jones,G Clark,PR Brown,4,0,,,,,,"",""
+ball,1,3.1,Durham,G Clark,MA Jones,MJ Waite,3,0,,,,,,"",""
+ball,1,3.2,Durham,MA Jones,G Clark,MJ Waite,1,0,,,,,,"",""
+ball,1,3.3,Durham,G Clark,MA Jones,MJ Waite,4,2,,2,,,,"",""
+ball,1,3.4,Durham,G Clark,MA Jones,MJ Waite,1,0,,,,,,"",""
+ball,1,3.5,Durham,MA Jones,G Clark,MJ Waite,0,0,,,,,,"",""
+ball,1,3.6,Durham,MA Jones,G Clark,MJ Waite,0,0,,,,,,"",""
+ball,1,3.7,Durham,MA Jones,G Clark,MJ Waite,1,0,,,,,,"",""
+ball,1,4.1,Durham,MA Jones,G Clark,JO Baker,0,0,,,,,,"",""
+ball,1,4.2,Durham,MA Jones,G Clark,JO Baker,0,0,,,,,,"",""
+ball,1,4.3,Durham,MA Jones,G Clark,JO Baker,6,0,,,,,,"",""
+ball,1,4.4,Durham,MA Jones,G Clark,JO Baker,2,0,,,,,,"",""
+ball,1,4.5,Durham,MA Jones,G Clark,JO Baker,4,0,,,,,,"",""
+ball,1,4.6,Durham,MA Jones,G Clark,JO Baker,6,0,,,,,,"",""
+ball,1,5.1,Durham,G Clark,MA Jones,CAJ Morris,4,0,,,,,,"",""
+ball,1,5.2,Durham,G Clark,MA Jones,CAJ Morris,1,0,,,,,,"",""
+ball,1,5.3,Durham,MA Jones,G Clark,CAJ Morris,0,0,,,,,,"",""
+ball,1,5.4,Durham,MA Jones,G Clark,CAJ Morris,0,0,,,,,,"",""
+ball,1,5.5,Durham,MA Jones,G Clark,CAJ Morris,0,0,,,,,,bowled,MA Jones
+ball,1,5.6,Durham,OG Robinson,G Clark,CAJ Morris,0,0,,,,,,"",""
+ball,1,6.1,Durham,G Clark,OG Robinson,BL D'Oliveira,0,0,,,,,,"",""
+ball,1,6.2,Durham,G Clark,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,6.3,Durham,OG Robinson,G Clark,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,6.4,Durham,G Clark,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,6.5,Durham,OG Robinson,G Clark,BL D'Oliveira,0,0,,,,,,"",""
+ball,1,6.6,Durham,OG Robinson,G Clark,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,7.1,Durham,OG Robinson,G Clark,EG Barnard,1,0,,,,,,"",""
+ball,1,7.2,Durham,G Clark,OG Robinson,EG Barnard,0,0,,,,,,"",""
+ball,1,7.3,Durham,G Clark,OG Robinson,EG Barnard,0,0,,,,,,"",""
+ball,1,7.4,Durham,G Clark,OG Robinson,EG Barnard,1,0,,,,,,"",""
+ball,1,7.5,Durham,OG Robinson,G Clark,EG Barnard,3,0,,,,,,"",""
+ball,1,7.6,Durham,G Clark,OG Robinson,EG Barnard,4,0,,,,,,"",""
+ball,1,8.1,Durham,OG Robinson,G Clark,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,8.2,Durham,G Clark,OG Robinson,BL D'Oliveira,0,0,,,,,,"",""
+ball,1,8.3,Durham,G Clark,OG Robinson,BL D'Oliveira,0,0,,,,,,"",""
+ball,1,8.4,Durham,G Clark,OG Robinson,BL D'Oliveira,0,0,,,,,,lbw,G Clark
+ball,1,8.5,Durham,DG Bedingham,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,8.6,Durham,OG Robinson,DG Bedingham,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,9.1,Durham,OG Robinson,DG Bedingham,EG Barnard,1,0,,,,,,"",""
+ball,1,9.2,Durham,DG Bedingham,OG Robinson,EG Barnard,0,0,,,,,,"",""
+ball,1,9.3,Durham,DG Bedingham,OG Robinson,EG Barnard,0,0,,,,,,"",""
+ball,1,9.4,Durham,DG Bedingham,OG Robinson,EG Barnard,1,0,,,,,,"",""
+ball,1,9.5,Durham,OG Robinson,DG Bedingham,EG Barnard,4,0,,,,,,"",""
+ball,1,9.6,Durham,OG Robinson,DG Bedingham,EG Barnard,1,0,,,,,,"",""
+ball,1,10.1,Durham,OG Robinson,DG Bedingham,JO Baker,1,0,,,,,,"",""
+ball,1,10.2,Durham,DG Bedingham,OG Robinson,JO Baker,1,0,,,,,,"",""
+ball,1,10.3,Durham,OG Robinson,DG Bedingham,JO Baker,2,0,,,,,,"",""
+ball,1,10.4,Durham,OG Robinson,DG Bedingham,JO Baker,1,0,,,,,,"",""
+ball,1,10.5,Durham,DG Bedingham,OG Robinson,JO Baker,1,0,,,,,,"",""
+ball,1,10.6,Durham,OG Robinson,DG Bedingham,JO Baker,2,0,,,,,,"",""
+ball,1,11.1,Durham,DG Bedingham,OG Robinson,MJ Waite,1,0,,,,,,"",""
+ball,1,11.2,Durham,OG Robinson,DG Bedingham,MJ Waite,2,0,,,,,,"",""
+ball,1,11.3,Durham,OG Robinson,DG Bedingham,MJ Waite,0,0,,,,,,"",""
+ball,1,11.4,Durham,OG Robinson,DG Bedingham,MJ Waite,4,0,,,,,,"",""
+ball,1,11.5,Durham,OG Robinson,DG Bedingham,MJ Waite,4,0,,,,,,"",""
+ball,1,11.6,Durham,OG Robinson,DG Bedingham,MJ Waite,2,0,,,,,,"",""
+ball,1,12.1,Durham,DG Bedingham,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,12.2,Durham,OG Robinson,DG Bedingham,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,12.3,Durham,DG Bedingham,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,12.4,Durham,OG Robinson,DG Bedingham,BL D'Oliveira,2,0,,,,,,"",""
+ball,1,12.5,Durham,OG Robinson,DG Bedingham,BL D'Oliveira,0,0,,,,,,bowled,OG Robinson
+ball,1,12.6,Durham,P Coughlin,DG Bedingham,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,13.1,Durham,P Coughlin,DG Bedingham,EG Barnard,1,0,,,,,,"",""
+ball,1,13.2,Durham,DG Bedingham,P Coughlin,EG Barnard,1,0,,,,,,"",""
+ball,1,13.3,Durham,P Coughlin,DG Bedingham,EG Barnard,1,0,,,,,,"",""
+ball,1,13.4,Durham,DG Bedingham,P Coughlin,EG Barnard,1,0,,,,,,"",""
+ball,1,13.5,Durham,P Coughlin,DG Bedingham,EG Barnard,1,0,,,,,,"",""
+ball,1,13.6,Durham,DG Bedingham,P Coughlin,EG Barnard,4,0,,,,,,"",""
+ball,1,14.1,Durham,P Coughlin,DG Bedingham,BL D'Oliveira,0,0,,,,,,"",""
+ball,1,14.2,Durham,P Coughlin,DG Bedingham,BL D'Oliveira,6,0,,,,,,"",""
+ball,1,14.3,Durham,P Coughlin,DG Bedingham,BL D'Oliveira,0,1,1,,,,,stumped,P Coughlin
+ball,1,14.4,Durham,BA Carse,DG Bedingham,BL D'Oliveira,0,0,,,,,,"",""
+ball,1,14.5,Durham,BA Carse,DG Bedingham,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,14.6,Durham,DG Bedingham,BA Carse,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,14.7,Durham,BA Carse,DG Bedingham,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,15.1,Durham,BA Carse,DG Bedingham,JO Baker,1,0,,,,,,"",""
+ball,1,15.2,Durham,DG Bedingham,BA Carse,JO Baker,1,0,,,,,,"",""
+ball,1,15.3,Durham,BA Carse,DG Bedingham,JO Baker,0,0,,,,,,"",""
+ball,1,15.4,Durham,BA Carse,DG Bedingham,JO Baker,4,0,,,,,,"",""
+ball,1,15.5,Durham,BA Carse,DG Bedingham,JO Baker,6,0,,,,,,"",""
+ball,1,15.6,Durham,BA Carse,DG Bedingham,JO Baker,2,0,,,,,,"",""
+ball,1,16.1,Durham,DG Bedingham,BA Carse,PR Brown,2,0,,,,,,"",""
+ball,1,16.2,Durham,DG Bedingham,BA Carse,PR Brown,0,0,,,,,,bowled,DG Bedingham
+ball,1,16.3,Durham,EJH Eckersley,BA Carse,PR Brown,1,0,,,,,,"",""
+ball,1,16.4,Durham,BA Carse,EJH Eckersley,PR Brown,1,0,,,,,,"",""
+ball,1,16.5,Durham,EJH Eckersley,BA Carse,PR Brown,1,0,,,,,,"",""
+ball,1,16.6,Durham,BA Carse,EJH Eckersley,PR Brown,1,0,,,,,,"",""
+ball,1,17.1,Durham,BA Carse,EJH Eckersley,MJ Waite,2,0,,,,,,"",""
+ball,1,17.2,Durham,BA Carse,EJH Eckersley,MJ Waite,0,0,,,,,,caught,BA Carse
+ball,1,17.3,Durham,L Trevaskis,EJH Eckersley,MJ Waite,1,0,,,,,,"",""
+ball,1,17.4,Durham,EJH Eckersley,L Trevaskis,MJ Waite,2,0,,,,,,"",""
+ball,1,17.5,Durham,EJH Eckersley,L Trevaskis,MJ Waite,4,0,,,,,,"",""
+ball,1,17.6,Durham,EJH Eckersley,L Trevaskis,MJ Waite,2,0,,,,,,"",""
+ball,1,18.1,Durham,L Trevaskis,EJH Eckersley,PR Brown,2,0,,,,,,"",""
+ball,1,18.2,Durham,L Trevaskis,EJH Eckersley,PR Brown,1,0,,,,,,"",""
+ball,1,18.3,Durham,EJH Eckersley,L Trevaskis,PR Brown,2,0,,,,,,"",""
+ball,1,18.4,Durham,EJH Eckersley,L Trevaskis,PR Brown,1,0,,,,,,"",""
+ball,1,18.5,Durham,L Trevaskis,EJH Eckersley,PR Brown,0,0,,,,,,caught,L Trevaskis
+ball,1,18.6,Durham,BA Raine,EJH Eckersley,PR Brown,1,0,,,,,,"",""
+ball,1,19.1,Durham,BA Raine,EJH Eckersley,CAJ Morris,6,0,,,,,,"",""
+ball,1,19.2,Durham,BA Raine,EJH Eckersley,CAJ Morris,1,0,,,,,,"",""
+ball,1,19.3,Durham,EJH Eckersley,BA Raine,CAJ Morris,0,0,,,,,,"",""
+ball,1,19.4,Durham,EJH Eckersley,BA Raine,CAJ Morris,6,0,,,,,,"",""
+ball,1,19.5,Durham,EJH Eckersley,BA Raine,CAJ Morris,1,0,,,,,,"",""
+ball,1,19.6,Durham,BA Raine,EJH Eckersley,CAJ Morris,1,0,,,,,,"",""
+ball,2,0.1,Worcestershire,EJ Pollock,BL D'Oliveira,P Coughlin,2,0,,,,,,"",""
+ball,2,0.2,Worcestershire,EJ Pollock,BL D'Oliveira,P Coughlin,4,0,,,,,,"",""
+ball,2,0.3,Worcestershire,EJ Pollock,BL D'Oliveira,P Coughlin,0,0,,,,,,caught,EJ Pollock
+ball,2,0.4,Worcestershire,JA Haynes,BL D'Oliveira,P Coughlin,3,0,,,,,,"",""
+ball,2,0.5,Worcestershire,BL D'Oliveira,JA Haynes,P Coughlin,0,0,,,,,,"",""
+ball,2,0.6,Worcestershire,BL D'Oliveira,JA Haynes,P Coughlin,0,0,,,,,,"",""
+ball,2,1.1,Worcestershire,JA Haynes,BL D'Oliveira,BA Carse,0,0,,,,,,"",""
+ball,2,1.2,Worcestershire,JA Haynes,BL D'Oliveira,BA Carse,0,0,,,,,,"",""
+ball,2,1.3,Worcestershire,JA Haynes,BL D'Oliveira,BA Carse,0,0,,,,,,bowled,JA Haynes
+ball,2,1.4,Worcestershire,C Munro,BL D'Oliveira,BA Carse,2,0,,,,,,"",""
+ball,2,1.5,Worcestershire,C Munro,BL D'Oliveira,BA Carse,3,0,,,,,,"",""
+ball,2,1.6,Worcestershire,BL D'Oliveira,C Munro,BA Carse,0,0,,,,,,"",""
+ball,2,2.1,Worcestershire,C Munro,BL D'Oliveira,P Coughlin,0,0,,,,,,"",""
+ball,2,2.2,Worcestershire,C Munro,BL D'Oliveira,P Coughlin,0,0,,,,,,"",""
+ball,2,2.3,Worcestershire,C Munro,BL D'Oliveira,P Coughlin,0,1,,,,1,,"",""
+ball,2,2.4,Worcestershire,BL D'Oliveira,C Munro,P Coughlin,0,0,,,,,,"",""
+ball,2,2.5,Worcestershire,BL D'Oliveira,C Munro,P Coughlin,4,0,,,,,,"",""
+ball,2,2.6,Worcestershire,BL D'Oliveira,C Munro,P Coughlin,0,0,,,,,,"",""
+ball,2,3.1,Worcestershire,C Munro,BL D'Oliveira,BA Raine,4,0,,,,,,"",""
+ball,2,3.2,Worcestershire,C Munro,BL D'Oliveira,BA Raine,0,1,,,,1,,"",""
+ball,2,3.3,Worcestershire,BL D'Oliveira,C Munro,BA Raine,3,0,,,,,,"",""
+ball,2,3.4,Worcestershire,C Munro,BL D'Oliveira,BA Raine,0,0,,,,,,"",""
+ball,2,3.5,Worcestershire,C Munro,BL D'Oliveira,BA Raine,2,0,,,,,,"",""
+ball,2,3.6,Worcestershire,C Munro,BL D'Oliveira,BA Raine,1,0,,,,,,"",""
+ball,2,4.1,Worcestershire,C Munro,BL D'Oliveira,BA Carse,0,0,,,,,,"",""
+ball,2,4.2,Worcestershire,C Munro,BL D'Oliveira,BA Carse,2,0,,,,,,"",""
+ball,2,4.3,Worcestershire,C Munro,BL D'Oliveira,BA Carse,0,0,,,,,,"",""
+ball,2,4.4,Worcestershire,C Munro,BL D'Oliveira,BA Carse,0,1,,,,1,,"",""
+ball,2,4.5,Worcestershire,BL D'Oliveira,C Munro,BA Carse,0,0,,,,,,"",""
+ball,2,4.6,Worcestershire,BL D'Oliveira,C Munro,BA Carse,4,0,,,,,,"",""
+ball,2,5.1,Worcestershire,C Munro,BL D'Oliveira,AJ Tye,4,0,,,,,,"",""
+ball,2,5.2,Worcestershire,C Munro,BL D'Oliveira,AJ Tye,1,0,,,,,,"",""
+ball,2,5.3,Worcestershire,BL D'Oliveira,C Munro,AJ Tye,1,0,,,,,,"",""
+ball,2,5.4,Worcestershire,C Munro,BL D'Oliveira,AJ Tye,1,0,,,,,,"",""
+ball,2,5.5,Worcestershire,BL D'Oliveira,C Munro,AJ Tye,1,0,,,,,,"",""
+ball,2,5.6,Worcestershire,C Munro,BL D'Oliveira,AJ Tye,1,0,,,,,,"",""
+ball,2,6.1,Worcestershire,C Munro,BL D'Oliveira,BA Raine,1,0,,,,,,"",""
+ball,2,6.2,Worcestershire,BL D'Oliveira,C Munro,BA Raine,1,0,,,,,,"",""
+ball,2,6.3,Worcestershire,C Munro,BL D'Oliveira,BA Raine,0,1,,,,1,,"",""
+ball,2,6.4,Worcestershire,BL D'Oliveira,C Munro,BA Raine,1,0,,,,,,"",""
+ball,2,6.5,Worcestershire,C Munro,BL D'Oliveira,BA Raine,1,0,,,,,,"",""
+ball,2,6.6,Worcestershire,BL D'Oliveira,C Munro,BA Raine,0,0,,,,,,lbw,BL D'Oliveira
+ball,2,7.1,Worcestershire,C Munro,JD Libby,L Trevaskis,1,0,,,,,,"",""
+ball,2,7.2,Worcestershire,JD Libby,C Munro,L Trevaskis,1,0,,,,,,"",""
+ball,2,7.3,Worcestershire,C Munro,JD Libby,L Trevaskis,1,0,,,,,,"",""
+ball,2,7.4,Worcestershire,JD Libby,C Munro,L Trevaskis,0,0,,,,,,"",""
+ball,2,7.5,Worcestershire,JD Libby,C Munro,L Trevaskis,1,0,,,,,,"",""
+ball,2,7.6,Worcestershire,C Munro,JD Libby,L Trevaskis,1,0,,,,,,"",""
+ball,2,8.1,Worcestershire,C Munro,JD Libby,SG Borthwick,0,0,,,,,,caught,C Munro
+ball,2,8.2,Worcestershire,OB Cox,JD Libby,SG Borthwick,0,0,,,,,,"",""
+ball,2,8.3,Worcestershire,OB Cox,JD Libby,SG Borthwick,1,0,,,,,,"",""
+ball,2,8.4,Worcestershire,JD Libby,OB Cox,SG Borthwick,2,0,,,,,,"",""
+ball,2,8.5,Worcestershire,JD Libby,OB Cox,SG Borthwick,1,0,,,,,,"",""
+ball,2,8.6,Worcestershire,OB Cox,JD Libby,SG Borthwick,1,0,,,,,,"",""
+ball,2,9.1,Worcestershire,OB Cox,JD Libby,L Trevaskis,1,0,,,,,,"",""
+ball,2,9.2,Worcestershire,JD Libby,OB Cox,L Trevaskis,4,0,,,,,,"",""
+ball,2,9.3,Worcestershire,JD Libby,OB Cox,L Trevaskis,0,0,,,,,,"",""
+ball,2,9.4,Worcestershire,JD Libby,OB Cox,L Trevaskis,4,0,,,,,,"",""
+ball,2,9.5,Worcestershire,JD Libby,OB Cox,L Trevaskis,1,0,,,,,,"",""
+ball,2,9.6,Worcestershire,OB Cox,JD Libby,L Trevaskis,1,0,,,,,,"",""
+ball,2,10.1,Worcestershire,OB Cox,JD Libby,AJ Tye,1,0,,,,,,"",""
+ball,2,10.2,Worcestershire,JD Libby,OB Cox,AJ Tye,1,0,,,,,,"",""
+ball,2,10.3,Worcestershire,OB Cox,JD Libby,AJ Tye,0,0,,,,,,"",""
+ball,2,10.4,Worcestershire,OB Cox,JD Libby,AJ Tye,0,0,,,,,,"",""
+ball,2,10.5,Worcestershire,OB Cox,JD Libby,AJ Tye,1,0,,,,,,"",""
+ball,2,10.6,Worcestershire,JD Libby,OB Cox,AJ Tye,2,0,,,,,,"",""
+ball,2,11.1,Worcestershire,OB Cox,JD Libby,BA Carse,0,0,,,,,,"",""
+ball,2,11.2,Worcestershire,OB Cox,JD Libby,BA Carse,2,0,,,,,,"",""
+ball,2,11.3,Worcestershire,OB Cox,JD Libby,BA Carse,1,0,,,,,,"",""
+ball,2,11.4,Worcestershire,JD Libby,OB Cox,BA Carse,1,0,,,,,,"",""
+ball,2,11.5,Worcestershire,OB Cox,JD Libby,BA Carse,0,0,,,,,,"",""
+ball,2,11.6,Worcestershire,OB Cox,JD Libby,BA Carse,0,1,,,,1,,"",""
+ball,2,12.1,Worcestershire,OB Cox,JD Libby,BA Raine,0,0,,,,,,"",""
+ball,2,12.2,Worcestershire,OB Cox,JD Libby,BA Raine,1,0,,,,,,"",""
+ball,2,12.3,Worcestershire,JD Libby,OB Cox,BA Raine,0,0,,,,,,"",""
+ball,2,12.4,Worcestershire,JD Libby,OB Cox,BA Raine,0,0,,,,,,"",""
+ball,2,12.5,Worcestershire,JD Libby,OB Cox,BA Raine,2,0,,,,,,"",""
+ball,2,12.6,Worcestershire,JD Libby,OB Cox,BA Raine,0,0,,,,,,caught,JD Libby
+ball,2,13.1,Worcestershire,OB Cox,EG Barnard,SG Borthwick,0,0,,,,,,"",""
+ball,2,13.2,Worcestershire,OB Cox,EG Barnard,SG Borthwick,1,0,,,,,,"",""
+ball,2,13.3,Worcestershire,EG Barnard,OB Cox,SG Borthwick,1,0,,,,,,"",""
+ball,2,13.4,Worcestershire,OB Cox,EG Barnard,SG Borthwick,4,0,,,,,,"",""
+ball,2,13.5,Worcestershire,OB Cox,EG Barnard,SG Borthwick,1,0,,,,,,"",""
+ball,2,13.6,Worcestershire,EG Barnard,OB Cox,SG Borthwick,0,0,,,,,,"",""
+ball,2,14.1,Worcestershire,OB Cox,EG Barnard,L Trevaskis,1,0,,,,,,"",""
+ball,2,14.2,Worcestershire,EG Barnard,OB Cox,L Trevaskis,1,0,,,,,,"",""
+ball,2,14.3,Worcestershire,OB Cox,EG Barnard,L Trevaskis,1,0,,,,,,"",""
+ball,2,14.4,Worcestershire,EG Barnard,OB Cox,L Trevaskis,0,0,,,,,,"",""
+ball,2,14.5,Worcestershire,EG Barnard,OB Cox,L Trevaskis,1,0,,,,,,"",""
+ball,2,14.6,Worcestershire,OB Cox,EG Barnard,L Trevaskis,1,0,,,,,,"",""
+ball,2,15.1,Worcestershire,OB Cox,EG Barnard,P Coughlin,0,1,,,,1,,"",""
+ball,2,15.2,Worcestershire,EG Barnard,OB Cox,P Coughlin,1,0,,,,,,"",""
+ball,2,15.3,Worcestershire,OB Cox,EG Barnard,P Coughlin,3,0,,,,,,"",""
+ball,2,15.4,Worcestershire,EG Barnard,OB Cox,P Coughlin,4,0,,,,,,"",""
+ball,2,15.5,Worcestershire,EG Barnard,OB Cox,P Coughlin,1,0,,,,,,"",""
+ball,2,15.6,Worcestershire,OB Cox,EG Barnard,P Coughlin,1,0,,,,,,"",""
+ball,2,16.1,Worcestershire,OB Cox,EG Barnard,AJ Tye,0,1,,,,1,,"",""
+ball,2,16.2,Worcestershire,EG Barnard,OB Cox,AJ Tye,0,0,,,,,,caught,EG Barnard
+ball,2,16.3,Worcestershire,MJ Waite,OB Cox,AJ Tye,1,0,,,,,,"",""
+ball,2,16.4,Worcestershire,OB Cox,MJ Waite,AJ Tye,4,0,,,,,,"",""
+ball,2,16.5,Worcestershire,OB Cox,MJ Waite,AJ Tye,0,0,,,,,,"",""
+ball,2,16.6,Worcestershire,OB Cox,MJ Waite,AJ Tye,0,1,1,,,,,"",""
+ball,2,16.7,Worcestershire,OB Cox,MJ Waite,AJ Tye,0,0,,,,,,bowled,OB Cox
+ball,2,17.1,Worcestershire,MJ Waite,JO Baker,BA Raine,1,0,,,,,,"",""
+ball,2,17.2,Worcestershire,JO Baker,MJ Waite,BA Raine,0,0,,,,,,bowled,JO Baker
+ball,2,17.3,Worcestershire,PR Brown,MJ Waite,BA Raine,1,0,,,,,,"",""
+ball,2,17.4,Worcestershire,MJ Waite,PR Brown,BA Raine,2,0,,,,,,"",""
+ball,2,17.5,Worcestershire,MJ Waite,PR Brown,BA Raine,1,0,,,,,,"",""
+ball,2,17.6,Worcestershire,PR Brown,MJ Waite,BA Raine,0,1,1,,,,,"",""
+ball,2,17.7,Worcestershire,PR Brown,MJ Waite,BA Raine,0,0,,,,,,"",""
+ball,2,18.1,Worcestershire,MJ Waite,PR Brown,AJ Tye,2,0,,,,,,"",""
+ball,2,18.2,Worcestershire,MJ Waite,PR Brown,AJ Tye,2,0,,,,,,"",""
+ball,2,18.3,Worcestershire,MJ Waite,PR Brown,AJ Tye,1,0,,,,,,"",""
+ball,2,18.4,Worcestershire,PR Brown,MJ Waite,AJ Tye,1,0,,,,,,"",""
+ball,2,18.5,Worcestershire,MJ Waite,PR Brown,AJ Tye,0,0,,,,,,bowled,MJ Waite
+ball,2,18.6,Worcestershire,CAJ Morris,PR Brown,AJ Tye,1,0,,,,,,"",""
+ball,2,19.1,Worcestershire,CAJ Morris,PR Brown,P Coughlin,1,0,,,,,,"",""
+ball,2,19.2,Worcestershire,PR Brown,CAJ Morris,P Coughlin,2,0,,,,,,"",""
+ball,2,19.3,Worcestershire,PR Brown,CAJ Morris,P Coughlin,1,0,,,,,,"",""
+ball,2,19.4,Worcestershire,CAJ Morris,PR Brown,P Coughlin,4,0,,,,,,"",""
+ball,2,19.5,Worcestershire,CAJ Morris,PR Brown,P Coughlin,1,0,,,,,,"",""
+ball,2,19.6,Worcestershire,PR Brown,CAJ Morris,P Coughlin,1,0,,,,,,"",""

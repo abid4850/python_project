@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Essex
+info,gender,female
+info,season,2025
+info,date,2025/06/12
+info,event,Vitality Blast Women
+info,match_number,20
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Essex
+info,toss_decision,field
+info,player_of_match,EM McCaughan
+info,umpire,WRP Fernando
+info,umpire,Surendiran Shanmugam
+info,tv_umpire,NL Bainton
+info,match_referee,Phil Whitticase
+info,winner,Hampshire
+info,winner_runs,42
+info,player,Hampshire,ME Bouchier
+info,player,Hampshire,EM McCaughan
+info,player,Hampshire,CR Knott
+info,player,Hampshire,FG Kemp
+info,player,Hampshire,GL Adams
+info,player,Hampshire,R Southby
+info,player,Hampshire,ND Dattani
+info,player,Hampshire,MLL Taylor
+info,player,Hampshire,FR Davies
+info,player,Hampshire,DJ Gibb
+info,player,Hampshire,R Tyson
+info,player,Essex,L Winfield-Hill
+info,player,Essex,G Scrivens
+info,player,Essex,AJ Macleod
+info,player,Essex,CL Griffith
+info,player,Essex,M Penna
+info,player,Essex,J Gardner
+info,player,Essex,Sophia Smale
+info,player,Essex,E Gray
+info,player,Essex,KL Coppack
+info,player,Essex,EI MacGregor
+info,player,Essex,AH Maqsood
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AJ Macleod,e7f06080
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,DJ Gibb,977ddcd2
+info,registry,people,E Gray,58717de2
+info,registry,people,EI MacGregor,c812dfa3
+info,registry,people,EM McCaughan,ed2711ea
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,FR Davies,2479daa6
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,J Gardner,184512d1
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,M Penna,36453b99
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MLL Taylor,014cfac4
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Southby,bbe1525d
+info,registry,people,R Tyson,5c9d5093
+info,registry,people,Sophia Smale,c296dba1
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,WRP Fernando,7d98d385
+ball,1,0.1,Hampshire,ME Bouchier,EM McCaughan,KL Coppack,1,0,,,,,,"",""
+ball,1,0.2,Hampshire,EM McCaughan,ME Bouchier,KL Coppack,0,0,,,,,,"",""
+ball,1,0.3,Hampshire,EM McCaughan,ME Bouchier,KL Coppack,4,0,,,,,,"",""
+ball,1,0.4,Hampshire,EM McCaughan,ME Bouchier,KL Coppack,4,0,,,,,,"",""
+ball,1,0.5,Hampshire,EM McCaughan,ME Bouchier,KL Coppack,1,0,,,,,,"",""
+ball,1,0.6,Hampshire,ME Bouchier,EM McCaughan,KL Coppack,2,0,,,,,,"",""
+ball,1,1.1,Hampshire,EM McCaughan,ME Bouchier,G Scrivens,1,0,,,,,,"",""
+ball,1,1.2,Hampshire,ME Bouchier,EM McCaughan,G Scrivens,0,0,,,,,,"",""
+ball,1,1.3,Hampshire,ME Bouchier,EM McCaughan,G Scrivens,1,0,,,,,,"",""
+ball,1,1.4,Hampshire,EM McCaughan,ME Bouchier,G Scrivens,1,0,,,,,,"",""
+ball,1,1.5,Hampshire,ME Bouchier,EM McCaughan,G Scrivens,0,0,,,,,,caught,ME Bouchier
+ball,1,1.6,Hampshire,CR Knott,EM McCaughan,G Scrivens,0,0,,,,,,"",""
+ball,1,2.1,Hampshire,EM McCaughan,CR Knott,KL Coppack,1,0,,,,,,"",""
+ball,1,2.2,Hampshire,CR Knott,EM McCaughan,KL Coppack,2,0,,,,,,"",""
+ball,1,2.3,Hampshire,CR Knott,EM McCaughan,KL Coppack,0,0,,,,,,"",""
+ball,1,2.4,Hampshire,CR Knott,EM McCaughan,KL Coppack,0,1,1,,,,,"",""
+ball,1,2.5,Hampshire,CR Knott,EM McCaughan,KL Coppack,0,0,,,,,,"",""
+ball,1,2.6,Hampshire,CR Knott,EM McCaughan,KL Coppack,2,0,,,,,,"",""
+ball,1,2.7,Hampshire,CR Knott,EM McCaughan,KL Coppack,0,1,1,,,,,"",""
+ball,1,2.8,Hampshire,CR Knott,EM McCaughan,KL Coppack,0,0,,,,,,"",""
+ball,1,3.1,Hampshire,EM McCaughan,CR Knott,EI MacGregor,1,0,,,,,,"",""
+ball,1,3.2,Hampshire,CR Knott,EM McCaughan,EI MacGregor,0,0,,,,,,"",""
+ball,1,3.3,Hampshire,CR Knott,EM McCaughan,EI MacGregor,1,0,,,,,,"",""
+ball,1,3.4,Hampshire,EM McCaughan,CR Knott,EI MacGregor,2,0,,,,,,"",""
+ball,1,3.5,Hampshire,EM McCaughan,CR Knott,EI MacGregor,0,0,,,,,,"",""
+ball,1,3.6,Hampshire,EM McCaughan,CR Knott,EI MacGregor,1,0,,,,,,"",""
+ball,1,4.1,Hampshire,EM McCaughan,CR Knott,E Gray,2,0,,,,,,"",""
+ball,1,4.2,Hampshire,EM McCaughan,CR Knott,E Gray,4,0,,,,,,"",""
+ball,1,4.3,Hampshire,EM McCaughan,CR Knott,E Gray,1,0,,,,,,"",""
+ball,1,4.4,Hampshire,CR Knott,EM McCaughan,E Gray,0,0,,,,,,"",""
+ball,1,4.5,Hampshire,CR Knott,EM McCaughan,E Gray,1,0,,,,,,"",""
+ball,1,4.6,Hampshire,EM McCaughan,CR Knott,E Gray,4,0,,,,,,"",""
+ball,1,5.1,Hampshire,CR Knott,EM McCaughan,G Scrivens,1,0,,,,,,"",""
+ball,1,5.2,Hampshire,EM McCaughan,CR Knott,G Scrivens,2,0,,,,,,"",""
+ball,1,5.3,Hampshire,EM McCaughan,CR Knott,G Scrivens,0,0,,,,,,"",""
+ball,1,5.4,Hampshire,EM McCaughan,CR Knott,G Scrivens,0,0,,,,,,"",""
+ball,1,5.5,Hampshire,EM McCaughan,CR Knott,G Scrivens,4,0,,,,,,"",""
+ball,1,5.6,Hampshire,EM McCaughan,CR Knott,G Scrivens,4,0,,,,,,"",""
+ball,1,6.1,Hampshire,CR Knott,EM McCaughan,Sophia Smale,0,0,,,,,,"",""
+ball,1,6.2,Hampshire,CR Knott,EM McCaughan,Sophia Smale,0,0,,,,,,"",""
+ball,1,6.3,Hampshire,CR Knott,EM McCaughan,Sophia Smale,1,0,,,,,,"",""
+ball,1,6.4,Hampshire,EM McCaughan,CR Knott,Sophia Smale,0,0,,,,,,"",""
+ball,1,6.5,Hampshire,EM McCaughan,CR Knott,Sophia Smale,1,0,,,,,,"",""
+ball,1,6.6,Hampshire,CR Knott,EM McCaughan,Sophia Smale,1,0,,,,,,"",""
+ball,1,7.1,Hampshire,CR Knott,EM McCaughan,AH Maqsood,0,0,,,,,,"",""
+ball,1,7.2,Hampshire,CR Knott,EM McCaughan,AH Maqsood,4,0,,,,,,"",""
+ball,1,7.3,Hampshire,CR Knott,EM McCaughan,AH Maqsood,1,0,,,,,,"",""
+ball,1,7.4,Hampshire,EM McCaughan,CR Knott,AH Maqsood,1,0,,,,,,"",""
+ball,1,7.5,Hampshire,CR Knott,EM McCaughan,AH Maqsood,1,0,,,,,,"",""
+ball,1,7.6,Hampshire,EM McCaughan,CR Knott,AH Maqsood,1,0,,,,,,"",""
+ball,1,8.1,Hampshire,EM McCaughan,CR Knott,EI MacGregor,0,0,,,,,,"",""
+ball,1,8.2,Hampshire,EM McCaughan,CR Knott,EI MacGregor,1,0,,,,,,"",""
+ball,1,8.3,Hampshire,CR Knott,EM McCaughan,EI MacGregor,4,0,,,,,,"",""
+ball,1,8.4,Hampshire,CR Knott,EM McCaughan,EI MacGregor,1,0,,,,,,"",""
+ball,1,8.5,Hampshire,EM McCaughan,CR Knott,EI MacGregor,0,1,1,,,,,"",""
+ball,1,8.6,Hampshire,EM McCaughan,CR Knott,EI MacGregor,1,0,,,,,,"",""
+ball,1,8.7,Hampshire,CR Knott,EM McCaughan,EI MacGregor,0,0,,,,,,"",""
+ball,1,9.1,Hampshire,EM McCaughan,CR Knott,Sophia Smale,1,0,,,,,,"",""
+ball,1,9.2,Hampshire,CR Knott,EM McCaughan,Sophia Smale,1,0,,,,,,"",""
+ball,1,9.3,Hampshire,EM McCaughan,CR Knott,Sophia Smale,4,0,,,,,,"",""
+ball,1,9.4,Hampshire,EM McCaughan,CR Knott,Sophia Smale,0,1,,,,1,,"",""
+ball,1,9.5,Hampshire,CR Knott,EM McCaughan,Sophia Smale,0,0,,,,,,"",""
+ball,1,9.6,Hampshire,CR Knott,EM McCaughan,Sophia Smale,1,0,,,,,,"",""
+ball,1,10.1,Hampshire,CR Knott,EM McCaughan,E Gray,1,0,,,,,,"",""
+ball,1,10.2,Hampshire,EM McCaughan,CR Knott,E Gray,0,1,,,,1,,"",""
+ball,1,10.3,Hampshire,CR Knott,EM McCaughan,E Gray,4,0,,,,,,"",""
+ball,1,10.4,Hampshire,CR Knott,EM McCaughan,E Gray,4,0,,,,,,"",""
+ball,1,10.5,Hampshire,CR Knott,EM McCaughan,E Gray,2,0,,,,,,"",""
+ball,1,10.6,Hampshire,CR Knott,EM McCaughan,E Gray,1,0,,,,,,"",""
+ball,1,11.1,Hampshire,CR Knott,EM McCaughan,AH Maqsood,1,0,,,,,,"",""
+ball,1,11.2,Hampshire,EM McCaughan,CR Knott,AH Maqsood,1,0,,,,,,"",""
+ball,1,11.3,Hampshire,CR Knott,EM McCaughan,AH Maqsood,1,0,,,,,,"",""
+ball,1,11.4,Hampshire,EM McCaughan,CR Knott,AH Maqsood,1,0,,,,,,"",""
+ball,1,11.5,Hampshire,CR Knott,EM McCaughan,AH Maqsood,1,0,,,,,,"",""
+ball,1,11.6,Hampshire,EM McCaughan,CR Knott,AH Maqsood,4,0,,,,,,"",""
+ball,1,12.1,Hampshire,CR Knott,EM McCaughan,KL Coppack,1,0,,,,,,"",""
+ball,1,12.2,Hampshire,EM McCaughan,CR Knott,KL Coppack,4,0,,,,,,"",""
+ball,1,12.3,Hampshire,EM McCaughan,CR Knott,KL Coppack,1,0,,,,,,"",""
+ball,1,12.4,Hampshire,CR Knott,EM McCaughan,KL Coppack,4,0,,,,,,"",""
+ball,1,12.5,Hampshire,CR Knott,EM McCaughan,KL Coppack,2,1,,1,,,,"",""
+ball,1,12.6,Hampshire,CR Knott,EM McCaughan,KL Coppack,4,0,,,,,,"",""
+ball,1,12.7,Hampshire,CR Knott,EM McCaughan,KL Coppack,1,0,,,,,,"",""
+ball,1,13.1,Hampshire,CR Knott,EM McCaughan,Sophia Smale,0,1,1,,,,,"",""
+ball,1,13.2,Hampshire,CR Knott,EM McCaughan,Sophia Smale,4,0,,,,,,"",""
+ball,1,13.3,Hampshire,CR Knott,EM McCaughan,Sophia Smale,1,0,,,,,,"",""
+ball,1,13.4,Hampshire,EM McCaughan,CR Knott,Sophia Smale,2,0,,,,,,"",""
+ball,1,13.5,Hampshire,EM McCaughan,CR Knott,Sophia Smale,2,0,,,,,,"",""
+ball,1,13.6,Hampshire,EM McCaughan,CR Knott,Sophia Smale,1,0,,,,,,"",""
+ball,1,13.7,Hampshire,CR Knott,EM McCaughan,Sophia Smale,2,0,,,,,,"",""
+ball,1,14.1,Hampshire,EM McCaughan,CR Knott,EI MacGregor,1,0,,,,,,"",""
+ball,1,14.2,Hampshire,CR Knott,EM McCaughan,EI MacGregor,2,0,,,,,,"",""
+ball,1,14.3,Hampshire,CR Knott,EM McCaughan,EI MacGregor,1,0,,,,,,"",""
+ball,1,14.4,Hampshire,EM McCaughan,CR Knott,EI MacGregor,1,0,,,,,,"",""
+ball,1,14.5,Hampshire,CR Knott,EM McCaughan,EI MacGregor,1,0,,,,,,"",""
+ball,1,14.6,Hampshire,EM McCaughan,CR Knott,EI MacGregor,4,0,,,,,,"",""
+ball,1,15.1,Hampshire,CR Knott,EM McCaughan,G Scrivens,0,0,,,,,,"",""
+ball,1,15.2,Hampshire,CR Knott,EM McCaughan,G Scrivens,1,0,,,,,,"",""
+ball,1,15.3,Hampshire,EM McCaughan,CR Knott,G Scrivens,2,0,,,,,,"",""
+ball,1,15.4,Hampshire,EM McCaughan,CR Knott,G Scrivens,0,0,,,,,,"",""
+ball,1,15.5,Hampshire,EM McCaughan,CR Knott,G Scrivens,1,0,,,,,,"",""
+ball,1,15.6,Hampshire,CR Knott,EM McCaughan,G Scrivens,1,0,,,,,,"",""
+ball,1,16.1,Hampshire,CR Knott,EM McCaughan,E Gray,2,0,,,,,,"",""
+ball,1,16.2,Hampshire,CR Knott,EM McCaughan,E Gray,1,0,,,,,,"",""
+ball,1,16.3,Hampshire,EM McCaughan,CR Knott,E Gray,4,0,,,,,,"",""
+ball,1,16.4,Hampshire,EM McCaughan,CR Knott,E Gray,1,0,,,,,,"",""
+ball,1,16.5,Hampshire,CR Knott,EM McCaughan,E Gray,2,1,,1,,,,"",""
+ball,1,16.6,Hampshire,CR Knott,EM McCaughan,E Gray,1,0,,,,,,"",""
+ball,1,16.7,Hampshire,EM McCaughan,CR Knott,E Gray,0,0,,,,,,"",""
+ball,1,17.1,Hampshire,CR Knott,EM McCaughan,EI MacGregor,0,0,,,,,,"",""
+ball,1,17.2,Hampshire,CR Knott,EM McCaughan,EI MacGregor,1,0,,,,,,"",""
+ball,1,17.3,Hampshire,EM McCaughan,CR Knott,EI MacGregor,4,0,,,,,,"",""
+ball,1,17.4,Hampshire,EM McCaughan,CR Knott,EI MacGregor,4,0,,,,,,"",""
+ball,1,17.5,Hampshire,EM McCaughan,CR Knott,EI MacGregor,4,0,,,,,,"",""
+ball,1,17.6,Hampshire,EM McCaughan,CR Knott,EI MacGregor,1,0,,,,,,"",""
+ball,1,18.1,Hampshire,EM McCaughan,CR Knott,Sophia Smale,1,0,,,,,,"",""
+ball,1,18.2,Hampshire,CR Knott,EM McCaughan,Sophia Smale,1,0,,,,,,"",""
+ball,1,18.3,Hampshire,EM McCaughan,CR Knott,Sophia Smale,4,0,,,,,,"",""
+ball,1,18.4,Hampshire,EM McCaughan,CR Knott,Sophia Smale,2,0,,,,,,"",""
+ball,1,18.5,Hampshire,EM McCaughan,CR Knott,Sophia Smale,2,0,,,,,,"",""
+ball,1,18.6,Hampshire,EM McCaughan,CR Knott,Sophia Smale,1,0,,,,,,"",""
+ball,1,19.1,Hampshire,EM McCaughan,CR Knott,G Scrivens,2,0,,,,,,"",""
+ball,1,19.2,Hampshire,EM McCaughan,CR Knott,G Scrivens,4,0,,,,,,"",""
+ball,1,19.3,Hampshire,EM McCaughan,CR Knott,G Scrivens,0,0,,,,,,caught,EM McCaughan
+ball,1,19.4,Hampshire,FG Kemp,CR Knott,G Scrivens,4,0,,,,,,"",""
+ball,1,19.5,Hampshire,FG Kemp,CR Knott,G Scrivens,1,0,,,,,,"",""
+ball,1,19.6,Hampshire,CR Knott,FG Kemp,G Scrivens,2,0,,,,,,"",""
+ball,2,0.1,Essex,L Winfield-Hill,G Scrivens,FR Davies,0,1,1,,,,,"",""
+ball,2,0.2,Essex,L Winfield-Hill,G Scrivens,FR Davies,1,0,,,,,,"",""
+ball,2,0.3,Essex,G Scrivens,L Winfield-Hill,FR Davies,0,0,,,,,,"",""
+ball,2,0.4,Essex,G Scrivens,L Winfield-Hill,FR Davies,0,0,,,,,,"",""
+ball,2,0.5,Essex,G Scrivens,L Winfield-Hill,FR Davies,0,0,,,,,,"",""
+ball,2,0.6,Essex,G Scrivens,L Winfield-Hill,FR Davies,1,0,,,,,,"",""
+ball,2,0.7,Essex,L Winfield-Hill,G Scrivens,FR Davies,2,0,,,,,,"",""
+ball,2,1.1,Essex,G Scrivens,L Winfield-Hill,DJ Gibb,1,0,,,,,,"",""
+ball,2,1.2,Essex,L Winfield-Hill,G Scrivens,DJ Gibb,1,0,,,,,,"",""
+ball,2,1.3,Essex,G Scrivens,L Winfield-Hill,DJ Gibb,2,0,,,,,,"",""
+ball,2,1.4,Essex,G Scrivens,L Winfield-Hill,DJ Gibb,0,0,,,,,,"",""
+ball,2,1.5,Essex,G Scrivens,L Winfield-Hill,DJ Gibb,4,0,,,,,,"",""
+ball,2,1.6,Essex,G Scrivens,L Winfield-Hill,DJ Gibb,0,0,,,,,,"",""
+ball,2,2.1,Essex,L Winfield-Hill,G Scrivens,R Tyson,1,0,,,,,,"",""
+ball,2,2.2,Essex,G Scrivens,L Winfield-Hill,R Tyson,1,0,,,,,,"",""
+ball,2,2.3,Essex,L Winfield-Hill,G Scrivens,R Tyson,4,0,,,,,,"",""
+ball,2,2.4,Essex,L Winfield-Hill,G Scrivens,R Tyson,1,0,,,,,,"",""
+ball,2,2.5,Essex,G Scrivens,L Winfield-Hill,R Tyson,4,1,,1,,,,"",""
+ball,2,2.6,Essex,G Scrivens,L Winfield-Hill,R Tyson,0,0,,,,,,"",""
+ball,2,2.7,Essex,G Scrivens,L Winfield-Hill,R Tyson,0,0,,,,,,"",""
+ball,2,3.1,Essex,L Winfield-Hill,G Scrivens,CR Knott,0,1,1,,,,,"",""
+ball,2,3.2,Essex,L Winfield-Hill,G Scrivens,CR Knott,1,0,,,,,,"",""
+ball,2,3.3,Essex,G Scrivens,L Winfield-Hill,CR Knott,0,0,,,,,,"",""
+ball,2,3.4,Essex,G Scrivens,L Winfield-Hill,CR Knott,1,0,,,,,,"",""
+ball,2,3.5,Essex,L Winfield-Hill,G Scrivens,CR Knott,0,0,,,,,,"",""
+ball,2,3.6,Essex,L Winfield-Hill,G Scrivens,CR Knott,0,0,,,,,,"",""
+ball,2,3.7,Essex,L Winfield-Hill,G Scrivens,CR Knott,1,0,,,,,,"",""
+ball,2,4.1,Essex,L Winfield-Hill,G Scrivens,FR Davies,1,0,,,,,,"",""
+ball,2,4.2,Essex,G Scrivens,L Winfield-Hill,FR Davies,4,0,,,,,,"",""
+ball,2,4.3,Essex,G Scrivens,L Winfield-Hill,FR Davies,4,0,,,,,,"",""
+ball,2,4.4,Essex,G Scrivens,L Winfield-Hill,FR Davies,1,0,,,,,,"",""
+ball,2,4.5,Essex,L Winfield-Hill,G Scrivens,FR Davies,0,0,,,,,,"",""
+ball,2,4.6,Essex,L Winfield-Hill,G Scrivens,FR Davies,4,0,,,,,,"",""
+ball,2,5.1,Essex,G Scrivens,L Winfield-Hill,CR Knott,0,0,,,,,,"",""
+ball,2,5.2,Essex,G Scrivens,L Winfield-Hill,CR Knott,0,0,,,,,,"",""
+ball,2,5.3,Essex,G Scrivens,L Winfield-Hill,CR Knott,1,0,,,,,,"",""
+ball,2,5.4,Essex,L Winfield-Hill,G Scrivens,CR Knott,0,0,,,,,,"",""
+ball,2,5.5,Essex,L Winfield-Hill,G Scrivens,CR Knott,1,0,,,,,,"",""
+ball,2,5.6,Essex,G Scrivens,L Winfield-Hill,CR Knott,1,0,,,,,,"",""
+ball,2,6.1,Essex,G Scrivens,L Winfield-Hill,DJ Gibb,0,0,,,,,,"",""
+ball,2,6.2,Essex,G Scrivens,L Winfield-Hill,DJ Gibb,1,0,,,,,,"",""
+ball,2,6.3,Essex,L Winfield-Hill,G Scrivens,DJ Gibb,0,0,,,,,,"",""
+ball,2,6.4,Essex,L Winfield-Hill,G Scrivens,DJ Gibb,0,0,,,,,,"",""
+ball,2,6.5,Essex,L Winfield-Hill,G Scrivens,DJ Gibb,0,0,,,,,,caught,L Winfield-Hill
+ball,2,6.6,Essex,AJ Macleod,G Scrivens,DJ Gibb,0,1,,,,1,,"",""
+ball,2,7.1,Essex,AJ Macleod,G Scrivens,GL Adams,4,0,,,,,,"",""
+ball,2,7.2,Essex,AJ Macleod,G Scrivens,GL Adams,0,0,,,,,,"",""
+ball,2,7.3,Essex,AJ Macleod,G Scrivens,GL Adams,0,0,,,,,,"",""
+ball,2,7.4,Essex,AJ Macleod,G Scrivens,GL Adams,4,0,,,,,,"",""
+ball,2,7.5,Essex,AJ Macleod,G Scrivens,GL Adams,1,0,,,,,,"",""
+ball,2,7.6,Essex,G Scrivens,AJ Macleod,GL Adams,0,0,,,,,,"",""
+ball,2,8.1,Essex,AJ Macleod,G Scrivens,MLL Taylor,4,0,,,,,,"",""
+ball,2,8.2,Essex,AJ Macleod,G Scrivens,MLL Taylor,1,0,,,,,,"",""
+ball,2,8.3,Essex,G Scrivens,AJ Macleod,MLL Taylor,1,0,,,,,,"",""
+ball,2,8.4,Essex,AJ Macleod,G Scrivens,MLL Taylor,1,0,,,,,,"",""
+ball,2,8.5,Essex,G Scrivens,AJ Macleod,MLL Taylor,2,0,,,,,,"",""
+ball,2,8.6,Essex,G Scrivens,AJ Macleod,MLL Taylor,0,0,,,,,,caught,G Scrivens
+ball,2,9.1,Essex,AJ Macleod,CL Griffith,R Tyson,1,0,,,,,,"",""
+ball,2,9.2,Essex,CL Griffith,AJ Macleod,R Tyson,1,0,,,,,,"",""
+ball,2,9.3,Essex,AJ Macleod,CL Griffith,R Tyson,1,0,,,,,,"",""
+ball,2,9.4,Essex,CL Griffith,AJ Macleod,R Tyson,0,0,,,,,,"",""
+ball,2,9.5,Essex,CL Griffith,AJ Macleod,R Tyson,0,0,,,,,,"",""
+ball,2,9.6,Essex,CL Griffith,AJ Macleod,R Tyson,1,0,,,,,,"",""
+ball,2,10.1,Essex,CL Griffith,AJ Macleod,DJ Gibb,0,0,,,,,,"",""
+ball,2,10.2,Essex,CL Griffith,AJ Macleod,DJ Gibb,0,0,,,,,,"",""
+ball,2,10.3,Essex,CL Griffith,AJ Macleod,DJ Gibb,0,0,,,,,,"",""
+ball,2,10.4,Essex,CL Griffith,AJ Macleod,DJ Gibb,1,0,,,,,,"",""
+ball,2,10.5,Essex,AJ Macleod,CL Griffith,DJ Gibb,4,0,,,,,,"",""
+ball,2,10.6,Essex,AJ Macleod,CL Griffith,DJ Gibb,4,0,,,,,,"",""
+ball,2,11.1,Essex,CL Griffith,AJ Macleod,GL Adams,1,0,,,,,,"",""
+ball,2,11.2,Essex,AJ Macleod,CL Griffith,GL Adams,0,1,1,,,,,"",""
+ball,2,11.3,Essex,AJ Macleod,CL Griffith,GL Adams,0,1,,,,1,,"",""
+ball,2,11.4,Essex,CL Griffith,AJ Macleod,GL Adams,0,0,,,,,,caught,CL Griffith
+ball,2,11.5,Essex,M Penna,AJ Macleod,GL Adams,0,0,,,,,,"",""
+ball,2,11.6,Essex,M Penna,AJ Macleod,GL Adams,1,0,,,,,,"",""
+ball,2,11.7,Essex,AJ Macleod,M Penna,GL Adams,0,0,,,,,,"",""
+ball,2,12.1,Essex,M Penna,AJ Macleod,MLL Taylor,0,0,,,,,,lbw,M Penna
+ball,2,12.2,Essex,J Gardner,AJ Macleod,MLL Taylor,1,0,,,,,,"",""
+ball,2,12.3,Essex,AJ Macleod,J Gardner,MLL Taylor,1,0,,,,,,"",""
+ball,2,12.4,Essex,J Gardner,AJ Macleod,MLL Taylor,1,0,,,,,,"",""
+ball,2,12.5,Essex,AJ Macleod,J Gardner,MLL Taylor,4,0,,,,,,"",""
+ball,2,12.6,Essex,AJ Macleod,J Gardner,MLL Taylor,0,0,,,,,,run out,AJ Macleod
+ball,2,13.1,Essex,Sophia Smale,J Gardner,R Tyson,4,0,,,,,,"",""
+ball,2,13.2,Essex,Sophia Smale,J Gardner,R Tyson,0,0,,,,,,"",""
+ball,2,13.3,Essex,Sophia Smale,J Gardner,R Tyson,4,0,,,,,,"",""
+ball,2,13.4,Essex,Sophia Smale,J Gardner,R Tyson,1,0,,,,,,"",""
+ball,2,13.5,Essex,J Gardner,Sophia Smale,R Tyson,1,0,,,,,,"",""
+ball,2,13.6,Essex,Sophia Smale,J Gardner,R Tyson,1,0,,,,,,"",""
+ball,2,14.1,Essex,Sophia Smale,J Gardner,FR Davies,1,0,,,,,,"",""
+ball,2,14.2,Essex,J Gardner,Sophia Smale,FR Davies,1,0,,,,,,"",""
+ball,2,14.3,Essex,Sophia Smale,J Gardner,FR Davies,0,1,1,,,,,"",""
+ball,2,14.4,Essex,Sophia Smale,J Gardner,FR Davies,1,0,,,,,,"",""
+ball,2,14.5,Essex,J Gardner,Sophia Smale,FR Davies,0,1,1,,,,,"",""
+ball,2,14.6,Essex,J Gardner,Sophia Smale,FR Davies,1,0,,,,,,"",""
+ball,2,14.7,Essex,Sophia Smale,J Gardner,FR Davies,1,0,,,,,,"",""
+ball,2,14.8,Essex,J Gardner,Sophia Smale,FR Davies,2,0,,,,,,"",""
+ball,2,15.1,Essex,Sophia Smale,J Gardner,CR Knott,2,0,,,,,,"",""
+ball,2,15.2,Essex,Sophia Smale,J Gardner,CR Knott,1,0,,,,,,"",""
+ball,2,15.3,Essex,J Gardner,Sophia Smale,CR Knott,0,0,,,,,,"",""
+ball,2,15.4,Essex,J Gardner,Sophia Smale,CR Knott,1,0,,,,,,"",""
+ball,2,15.5,Essex,Sophia Smale,J Gardner,CR Knott,1,0,,,,,,"",""
+ball,2,15.6,Essex,J Gardner,Sophia Smale,CR Knott,1,0,,,,,,"",""
+ball,2,16.1,Essex,J Gardner,Sophia Smale,DJ Gibb,4,0,,,,,,"",""
+ball,2,16.2,Essex,J Gardner,Sophia Smale,DJ Gibb,1,0,,,,,,"",""
+ball,2,16.3,Essex,Sophia Smale,J Gardner,DJ Gibb,4,0,,,,,,"",""
+ball,2,16.4,Essex,Sophia Smale,J Gardner,DJ Gibb,0,4,,,4,,,"",""
+ball,2,16.5,Essex,Sophia Smale,J Gardner,DJ Gibb,2,0,,,,,,"",""
+ball,2,16.6,Essex,Sophia Smale,J Gardner,DJ Gibb,1,0,,,,,,"",""
+ball,2,17.1,Essex,Sophia Smale,J Gardner,GL Adams,0,0,,,,,,lbw,Sophia Smale
+ball,2,17.2,Essex,E Gray,J Gardner,GL Adams,1,0,,,,,,"",""
+ball,2,17.3,Essex,J Gardner,E Gray,GL Adams,4,0,,,,,,"",""
+ball,2,17.4,Essex,J Gardner,E Gray,GL Adams,0,0,,,,,,caught,J Gardner
+ball,2,17.5,Essex,KL Coppack,E Gray,GL Adams,1,0,,,,,,"",""
+ball,2,17.6,Essex,E Gray,KL Coppack,GL Adams,1,0,,,,,,"",""
+ball,2,18.1,Essex,E Gray,KL Coppack,CR Knott,1,0,,,,,,"",""
+ball,2,18.2,Essex,KL Coppack,E Gray,CR Knott,1,0,,,,,,"",""
+ball,2,18.3,Essex,E Gray,KL Coppack,CR Knott,0,0,,,,,,"",""
+ball,2,18.4,Essex,E Gray,KL Coppack,CR Knott,1,0,,,,,,"",""
+ball,2,18.5,Essex,KL Coppack,E Gray,CR Knott,1,0,,,,,,"",""
+ball,2,18.6,Essex,E Gray,KL Coppack,CR Knott,2,0,,,,,,"",""
+ball,2,19.1,Essex,KL Coppack,E Gray,GL Adams,1,0,,,,,,"",""
+ball,2,19.2,Essex,E Gray,KL Coppack,GL Adams,0,0,,,,,,caught,E Gray
+ball,2,19.3,Essex,EI MacGregor,KL Coppack,GL Adams,0,1,,,,1,,"",""
+ball,2,19.4,Essex,KL Coppack,EI MacGregor,GL Adams,2,0,,,,,,"",""
+ball,2,19.5,Essex,KL Coppack,EI MacGregor,GL Adams,2,0,,,,,,"",""
+ball,2,19.6,Essex,KL Coppack,EI MacGregor,GL Adams,2,0,,,,,,"",""

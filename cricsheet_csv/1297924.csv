@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Lancashire
+info,gender,male
+info,season,2022
+info,date,2022/07/16
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Yorkshire
+info,toss_decision,bat
+info,player_of_match,KK Jennings
+info,umpire,DJ Millns
+info,umpire,NA Mallender
+info,reserve_umpire,GD Lloyd
+info,tv_umpire,PK Baldwin
+info,match_referee,DA Cosker
+info,winner,Lancashire
+info,winner_wickets,6
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,T Kohler-Cadmore
+info,player,Yorkshire,HC Brook
+info,player,Yorkshire,Shadab Khan
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,WAR Fraine
+info,player,Yorkshire,MJ Waite
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DC Drakes
+info,player,Yorkshire,DM Bess
+info,player,Lancashire,PD Salt
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,TH David
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,DJ Lamb
+info,player,Lancashire,L Wood
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,RJ Gleeson
+info,player,Lancashire,MW Parkinson
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DM Bess,ad46c747
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Wood,65b6943c
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,ML Revis,28217d89
+info,registry,people,MW Parkinson,19708692
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,SJ Croft,ab474682
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TH David,f1f99156
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WAR Fraine,e3bc992b
+ball,1,0.1,Yorkshire,A Lyth,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,1,0.2,Yorkshire,A Lyth,DJ Malan,L Wood,1,0,,,,,,"",""
+ball,1,0.3,Yorkshire,DJ Malan,A Lyth,L Wood,1,0,,,,,,"",""
+ball,1,0.4,Yorkshire,A Lyth,DJ Malan,L Wood,6,0,,,,,,"",""
+ball,1,0.5,Yorkshire,A Lyth,DJ Malan,L Wood,0,0,,,,,,caught,A Lyth
+ball,1,0.6,Yorkshire,T Kohler-Cadmore,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,1,1.1,Yorkshire,DJ Malan,T Kohler-Cadmore,RJ Gleeson,1,0,,,,,,"",""
+ball,1,1.2,Yorkshire,T Kohler-Cadmore,DJ Malan,RJ Gleeson,1,0,,,,,,"",""
+ball,1,1.3,Yorkshire,DJ Malan,T Kohler-Cadmore,RJ Gleeson,0,0,,,,,,"",""
+ball,1,1.4,Yorkshire,DJ Malan,T Kohler-Cadmore,RJ Gleeson,1,0,,,,,,"",""
+ball,1,1.5,Yorkshire,T Kohler-Cadmore,DJ Malan,RJ Gleeson,1,0,,,,,,"",""
+ball,1,1.6,Yorkshire,DJ Malan,T Kohler-Cadmore,RJ Gleeson,4,0,,,,,,"",""
+ball,1,2.1,Yorkshire,T Kohler-Cadmore,DJ Malan,L Wood,1,0,,,,,,"",""
+ball,1,2.2,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,0,0,,,,,,"",""
+ball,1,2.3,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,2,0,,,,,,"",""
+ball,1,2.4,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,4,0,,,,,,"",""
+ball,1,2.5,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,1,0,,,,,,"",""
+ball,1,2.6,Yorkshire,T Kohler-Cadmore,DJ Malan,L Wood,1,0,,,,,,"",""
+ball,1,3.1,Yorkshire,T Kohler-Cadmore,DJ Malan,RJ Gleeson,2,0,,,,,,"",""
+ball,1,3.2,Yorkshire,T Kohler-Cadmore,DJ Malan,RJ Gleeson,2,0,,,,,,"",""
+ball,1,3.3,Yorkshire,T Kohler-Cadmore,DJ Malan,RJ Gleeson,4,0,,,,,,"",""
+ball,1,3.4,Yorkshire,T Kohler-Cadmore,DJ Malan,RJ Gleeson,4,0,,,,,,"",""
+ball,1,3.5,Yorkshire,T Kohler-Cadmore,DJ Malan,RJ Gleeson,4,0,,,,,,"",""
+ball,1,3.6,Yorkshire,T Kohler-Cadmore,DJ Malan,RJ Gleeson,4,0,,,,,,"",""
+ball,1,4.1,Yorkshire,DJ Malan,T Kohler-Cadmore,DJ Lamb,0,0,,,,,,"",""
+ball,1,4.2,Yorkshire,DJ Malan,T Kohler-Cadmore,DJ Lamb,0,0,,,,,,"",""
+ball,1,4.3,Yorkshire,DJ Malan,T Kohler-Cadmore,DJ Lamb,6,0,,,,,,"",""
+ball,1,4.4,Yorkshire,DJ Malan,T Kohler-Cadmore,DJ Lamb,2,0,,,,,,"",""
+ball,1,4.5,Yorkshire,DJ Malan,T Kohler-Cadmore,DJ Lamb,1,0,,,,,,"",""
+ball,1,4.6,Yorkshire,T Kohler-Cadmore,DJ Malan,DJ Lamb,0,0,,,,,,"",""
+ball,1,5.1,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,0,0,,,,,,"",""
+ball,1,5.2,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,4,0,,,,,,"",""
+ball,1,5.3,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,4,0,,,,,,"",""
+ball,1,5.4,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,0,2,,2,,,,"",""
+ball,1,5.5,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,1,0,,,,,,"",""
+ball,1,5.6,Yorkshire,T Kohler-Cadmore,DJ Malan,L Wood,1,0,,,,,,"",""
+ball,1,5.7,Yorkshire,DJ Malan,T Kohler-Cadmore,L Wood,0,0,,,,,,"",""
+ball,1,6.1,Yorkshire,T Kohler-Cadmore,DJ Malan,MW Parkinson,1,0,,,,,,"",""
+ball,1,6.2,Yorkshire,DJ Malan,T Kohler-Cadmore,MW Parkinson,1,0,,,,,,"",""
+ball,1,6.3,Yorkshire,T Kohler-Cadmore,DJ Malan,MW Parkinson,1,0,,,,,,"",""
+ball,1,6.4,Yorkshire,DJ Malan,T Kohler-Cadmore,MW Parkinson,0,0,,,,,,bowled,DJ Malan
+ball,1,6.5,Yorkshire,HC Brook,T Kohler-Cadmore,MW Parkinson,1,0,,,,,,"",""
+ball,1,6.6,Yorkshire,T Kohler-Cadmore,HC Brook,MW Parkinson,1,0,,,,,,"",""
+ball,1,7.1,Yorkshire,T Kohler-Cadmore,HC Brook,TW Hartley,0,0,,,,,,"",""
+ball,1,7.2,Yorkshire,T Kohler-Cadmore,HC Brook,TW Hartley,0,0,,,,,,"",""
+ball,1,7.3,Yorkshire,T Kohler-Cadmore,HC Brook,TW Hartley,0,0,,,,,,"",""
+ball,1,7.4,Yorkshire,T Kohler-Cadmore,HC Brook,TW Hartley,1,0,,,,,,"",""
+ball,1,7.5,Yorkshire,HC Brook,T Kohler-Cadmore,TW Hartley,1,0,,,,,,"",""
+ball,1,7.6,Yorkshire,T Kohler-Cadmore,HC Brook,TW Hartley,1,0,,,,,,"",""
+ball,1,8.1,Yorkshire,T Kohler-Cadmore,HC Brook,MW Parkinson,6,0,,,,,,"",""
+ball,1,8.2,Yorkshire,T Kohler-Cadmore,HC Brook,MW Parkinson,0,0,,,,,,"",""
+ball,1,8.3,Yorkshire,T Kohler-Cadmore,HC Brook,MW Parkinson,1,0,,,,,,"",""
+ball,1,8.4,Yorkshire,HC Brook,T Kohler-Cadmore,MW Parkinson,0,1,,,,1,,"",""
+ball,1,8.5,Yorkshire,T Kohler-Cadmore,HC Brook,MW Parkinson,0,0,,,,,,"",""
+ball,1,8.6,Yorkshire,T Kohler-Cadmore,HC Brook,MW Parkinson,1,0,,,,,,"",""
+ball,1,9.1,Yorkshire,T Kohler-Cadmore,HC Brook,LWP Wells,1,0,,,,,,"",""
+ball,1,9.2,Yorkshire,HC Brook,T Kohler-Cadmore,LWP Wells,0,0,,,,,,bowled,HC Brook
+ball,1,9.3,Yorkshire,Shadab Khan,T Kohler-Cadmore,LWP Wells,1,0,,,,,,"",""
+ball,1,9.4,Yorkshire,T Kohler-Cadmore,Shadab Khan,LWP Wells,1,0,,,,,,"",""
+ball,1,9.5,Yorkshire,Shadab Khan,T Kohler-Cadmore,LWP Wells,0,0,,,,,,"",""
+ball,1,9.6,Yorkshire,Shadab Khan,T Kohler-Cadmore,LWP Wells,1,0,,,,,,"",""
+ball,1,10.1,Yorkshire,Shadab Khan,T Kohler-Cadmore,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.2,Yorkshire,T Kohler-Cadmore,Shadab Khan,MW Parkinson,0,0,,,,,,"",""
+ball,1,10.3,Yorkshire,T Kohler-Cadmore,Shadab Khan,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.4,Yorkshire,Shadab Khan,T Kohler-Cadmore,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.5,Yorkshire,T Kohler-Cadmore,Shadab Khan,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.6,Yorkshire,Shadab Khan,T Kohler-Cadmore,MW Parkinson,1,0,,,,,,"",""
+ball,1,11.1,Yorkshire,Shadab Khan,T Kohler-Cadmore,RJ Gleeson,1,0,,,,,,"",""
+ball,1,11.2,Yorkshire,T Kohler-Cadmore,Shadab Khan,RJ Gleeson,2,0,,,,,,"",""
+ball,1,11.3,Yorkshire,T Kohler-Cadmore,Shadab Khan,RJ Gleeson,0,0,,,,,,"",""
+ball,1,11.4,Yorkshire,T Kohler-Cadmore,Shadab Khan,RJ Gleeson,4,0,,,,,,"",""
+ball,1,11.5,Yorkshire,T Kohler-Cadmore,Shadab Khan,RJ Gleeson,0,0,,,,,,"",""
+ball,1,11.6,Yorkshire,T Kohler-Cadmore,Shadab Khan,RJ Gleeson,1,0,,,,,,"",""
+ball,1,12.1,Yorkshire,T Kohler-Cadmore,Shadab Khan,TW Hartley,6,0,,,,,,"",""
+ball,1,12.2,Yorkshire,T Kohler-Cadmore,Shadab Khan,TW Hartley,1,0,,,,,,"",""
+ball,1,12.3,Yorkshire,Shadab Khan,T Kohler-Cadmore,TW Hartley,0,0,,,,,,"",""
+ball,1,12.4,Yorkshire,Shadab Khan,T Kohler-Cadmore,TW Hartley,1,0,,,,,,"",""
+ball,1,12.5,Yorkshire,T Kohler-Cadmore,Shadab Khan,TW Hartley,6,0,,,,,,"",""
+ball,1,12.6,Yorkshire,T Kohler-Cadmore,Shadab Khan,TW Hartley,0,0,,,,,,"",""
+ball,1,13.1,Yorkshire,Shadab Khan,T Kohler-Cadmore,DJ Lamb,1,0,,,,,,"",""
+ball,1,13.2,Yorkshire,T Kohler-Cadmore,Shadab Khan,DJ Lamb,1,0,,,,,,"",""
+ball,1,13.3,Yorkshire,Shadab Khan,T Kohler-Cadmore,DJ Lamb,4,0,,,,,,"",""
+ball,1,13.4,Yorkshire,Shadab Khan,T Kohler-Cadmore,DJ Lamb,1,0,,,,,,"",""
+ball,1,13.5,Yorkshire,T Kohler-Cadmore,Shadab Khan,DJ Lamb,2,0,,,,,,"",""
+ball,1,13.6,Yorkshire,T Kohler-Cadmore,Shadab Khan,DJ Lamb,1,0,,,,,,"",""
+ball,1,14.1,Yorkshire,T Kohler-Cadmore,Shadab Khan,LWP Wells,0,0,,,,,,bowled,T Kohler-Cadmore
+ball,1,14.2,Yorkshire,JA Thompson,Shadab Khan,LWP Wells,1,0,,,,,,"",""
+ball,1,14.3,Yorkshire,Shadab Khan,JA Thompson,LWP Wells,1,0,,,,,,"",""
+ball,1,14.4,Yorkshire,JA Thompson,Shadab Khan,LWP Wells,0,1,1,,,,,"",""
+ball,1,14.5,Yorkshire,JA Thompson,Shadab Khan,LWP Wells,1,0,,,,,,"",""
+ball,1,14.6,Yorkshire,Shadab Khan,JA Thompson,LWP Wells,6,0,,,,,,"",""
+ball,1,14.7,Yorkshire,Shadab Khan,JA Thompson,LWP Wells,1,0,,,,,,"",""
+ball,1,15.1,Yorkshire,Shadab Khan,JA Thompson,L Wood,1,0,,,,,,"",""
+ball,1,15.2,Yorkshire,JA Thompson,Shadab Khan,L Wood,0,1,,,,1,,"",""
+ball,1,15.3,Yorkshire,Shadab Khan,JA Thompson,L Wood,4,0,,,,,,"",""
+ball,1,15.4,Yorkshire,Shadab Khan,JA Thompson,L Wood,0,0,,,,,,"",""
+ball,1,15.5,Yorkshire,Shadab Khan,JA Thompson,L Wood,1,0,,,,,,"",""
+ball,1,15.6,Yorkshire,JA Thompson,Shadab Khan,L Wood,1,0,,,,,,"",""
+ball,1,16.1,Yorkshire,JA Thompson,Shadab Khan,LWP Wells,6,0,,,,,,"",""
+ball,1,16.2,Yorkshire,JA Thompson,Shadab Khan,LWP Wells,0,1,1,,,,,"",""
+ball,1,16.3,Yorkshire,JA Thompson,Shadab Khan,LWP Wells,2,0,,,,,,"",""
+ball,1,16.4,Yorkshire,JA Thompson,Shadab Khan,LWP Wells,2,0,,,,,,"",""
+ball,1,16.5,Yorkshire,JA Thompson,Shadab Khan,LWP Wells,4,0,,,,,,"",""
+ball,1,16.6,Yorkshire,JA Thompson,Shadab Khan,LWP Wells,1,0,,,,,,"",""
+ball,1,16.7,Yorkshire,Shadab Khan,JA Thompson,LWP Wells,1,0,,,,,,"",""
+ball,1,17.1,Yorkshire,Shadab Khan,JA Thompson,DJ Lamb,1,0,,,,,,"",""
+ball,1,17.2,Yorkshire,JA Thompson,Shadab Khan,DJ Lamb,6,0,,,,,,"",""
+ball,1,17.3,Yorkshire,JA Thompson,Shadab Khan,DJ Lamb,6,0,,,,,,"",""
+ball,1,17.4,Yorkshire,JA Thompson,Shadab Khan,DJ Lamb,0,0,,,,,,"",""
+ball,1,17.5,Yorkshire,JA Thompson,Shadab Khan,DJ Lamb,6,0,,,,,,"",""
+ball,1,17.6,Yorkshire,JA Thompson,Shadab Khan,DJ Lamb,1,0,,,,,,"",""
+ball,1,18.1,Yorkshire,JA Thompson,Shadab Khan,RJ Gleeson,6,0,,,,,,"",""
+ball,1,18.2,Yorkshire,JA Thompson,Shadab Khan,RJ Gleeson,6,0,,,,,,"",""
+ball,1,18.3,Yorkshire,JA Thompson,Shadab Khan,RJ Gleeson,1,0,,,,,,"",""
+ball,1,18.4,Yorkshire,Shadab Khan,JA Thompson,RJ Gleeson,4,0,,,,,,"",""
+ball,1,18.5,Yorkshire,Shadab Khan,JA Thompson,RJ Gleeson,1,0,,,,,,"",""
+ball,1,18.6,Yorkshire,JA Thompson,Shadab Khan,RJ Gleeson,0,0,,,,,,caught,JA Thompson
+ball,1,19.1,Yorkshire,Shadab Khan,WAR Fraine,DJ Lamb,0,0,,,,,,caught,Shadab Khan
+ball,1,19.2,Yorkshire,MJ Waite,WAR Fraine,DJ Lamb,0,0,,,,,,bowled,MJ Waite
+ball,1,19.3,Yorkshire,ML Revis,WAR Fraine,DJ Lamb,1,0,,,,,,"",""
+ball,1,19.4,Yorkshire,WAR Fraine,ML Revis,DJ Lamb,0,0,,,,,,"",""
+ball,1,19.5,Yorkshire,WAR Fraine,ML Revis,DJ Lamb,1,0,,,,,,"",""
+ball,1,19.6,Yorkshire,ML Revis,WAR Fraine,DJ Lamb,4,0,,,,,,"",""
+ball,2,0.1,Lancashire,PD Salt,KK Jennings,DC Drakes,4,0,,,,,,"",""
+ball,2,0.2,Lancashire,PD Salt,KK Jennings,DC Drakes,1,0,,,,,,"",""
+ball,2,0.3,Lancashire,KK Jennings,PD Salt,DC Drakes,4,0,,,,,,"",""
+ball,2,0.4,Lancashire,KK Jennings,PD Salt,DC Drakes,1,0,,,,,,"",""
+ball,2,0.5,Lancashire,PD Salt,KK Jennings,DC Drakes,0,0,,,,,,"",""
+ball,2,0.6,Lancashire,PD Salt,KK Jennings,DC Drakes,1,0,,,,,,"",""
+ball,2,1.1,Lancashire,PD Salt,KK Jennings,DM Bess,4,0,,,,,,"",""
+ball,2,1.2,Lancashire,PD Salt,KK Jennings,DM Bess,0,0,,,,,,"",""
+ball,2,1.3,Lancashire,PD Salt,KK Jennings,DM Bess,4,0,,,,,,"",""
+ball,2,1.4,Lancashire,PD Salt,KK Jennings,DM Bess,0,0,,,,,,"",""
+ball,2,1.5,Lancashire,PD Salt,KK Jennings,DM Bess,0,0,,,,,,"",""
+ball,2,1.6,Lancashire,PD Salt,KK Jennings,DM Bess,0,0,,,,,,"",""
+ball,2,2.1,Lancashire,KK Jennings,PD Salt,ML Revis,1,0,,,,,,"",""
+ball,2,2.2,Lancashire,PD Salt,KK Jennings,ML Revis,6,0,,,,,,"",""
+ball,2,2.3,Lancashire,PD Salt,KK Jennings,ML Revis,4,2,,2,,,,"",""
+ball,2,2.4,Lancashire,PD Salt,KK Jennings,ML Revis,6,0,,,,,,"",""
+ball,2,2.5,Lancashire,PD Salt,KK Jennings,ML Revis,6,0,,,,,,"",""
+ball,2,2.6,Lancashire,PD Salt,KK Jennings,ML Revis,0,0,,,,,,caught,PD Salt
+ball,2,2.7,Lancashire,SJ Croft,KK Jennings,ML Revis,4,0,,,,,,"",""
+ball,2,3.1,Lancashire,KK Jennings,SJ Croft,JA Thompson,0,0,,,,,,"",""
+ball,2,3.2,Lancashire,KK Jennings,SJ Croft,JA Thompson,0,0,,,,,,"",""
+ball,2,3.3,Lancashire,KK Jennings,SJ Croft,JA Thompson,4,0,,,,,,"",""
+ball,2,3.4,Lancashire,KK Jennings,SJ Croft,JA Thompson,0,0,,,,,,"",""
+ball,2,3.5,Lancashire,KK Jennings,SJ Croft,JA Thompson,4,0,,,,,,"",""
+ball,2,3.6,Lancashire,KK Jennings,SJ Croft,JA Thompson,1,0,,,,,,"",""
+ball,2,4.1,Lancashire,KK Jennings,SJ Croft,DC Drakes,0,1,1,,,,,"",""
+ball,2,4.2,Lancashire,KK Jennings,SJ Croft,DC Drakes,1,0,,,,,,"",""
+ball,2,4.3,Lancashire,SJ Croft,KK Jennings,DC Drakes,2,0,,,,,,"",""
+ball,2,4.4,Lancashire,SJ Croft,KK Jennings,DC Drakes,2,0,,,,,,"",""
+ball,2,4.5,Lancashire,SJ Croft,KK Jennings,DC Drakes,6,0,,,,,,"",""
+ball,2,4.6,Lancashire,SJ Croft,KK Jennings,DC Drakes,0,0,,,,,,caught,SJ Croft
+ball,2,4.7,Lancashire,DJ Vilas,KK Jennings,DC Drakes,4,0,,,,,,"",""
+ball,2,5.1,Lancashire,KK Jennings,DJ Vilas,JA Thompson,0,0,,,,,,"",""
+ball,2,5.2,Lancashire,KK Jennings,DJ Vilas,JA Thompson,1,0,,,,,,"",""
+ball,2,5.3,Lancashire,DJ Vilas,KK Jennings,JA Thompson,1,0,,,,,,"",""
+ball,2,5.4,Lancashire,KK Jennings,DJ Vilas,JA Thompson,6,0,,,,,,"",""
+ball,2,5.5,Lancashire,KK Jennings,DJ Vilas,JA Thompson,4,0,,,,,,"",""
+ball,2,5.6,Lancashire,KK Jennings,DJ Vilas,JA Thompson,4,0,,,,,,"",""
+ball,2,6.1,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,0,0,,,,,,"",""
+ball,2,6.2,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.3,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.4,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.5,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.6,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,2,0,,,,,,"",""
+ball,2,7.1,Lancashire,KK Jennings,DJ Vilas,DM Bess,2,0,,,,,,"",""
+ball,2,7.2,Lancashire,KK Jennings,DJ Vilas,DM Bess,0,0,,,,,,"",""
+ball,2,7.3,Lancashire,KK Jennings,DJ Vilas,DM Bess,1,0,,,,,,"",""
+ball,2,7.4,Lancashire,DJ Vilas,KK Jennings,DM Bess,0,1,1,,,,,"",""
+ball,2,7.5,Lancashire,DJ Vilas,KK Jennings,DM Bess,1,0,,,,,,"",""
+ball,2,7.6,Lancashire,KK Jennings,DJ Vilas,DM Bess,2,0,,,,,,"",""
+ball,2,7.7,Lancashire,KK Jennings,DJ Vilas,DM Bess,1,0,,,,,,"",""
+ball,2,8.1,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.2,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,4,0,,,,,,"",""
+ball,2,8.3,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.4,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.5,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.6,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,1,0,,,,,,"",""
+ball,2,9.1,Lancashire,KK Jennings,DJ Vilas,DM Bess,1,0,,,,,,"",""
+ball,2,9.2,Lancashire,DJ Vilas,KK Jennings,DM Bess,0,0,,,,,,"",""
+ball,2,9.3,Lancashire,DJ Vilas,KK Jennings,DM Bess,4,0,,,,,,"",""
+ball,2,9.4,Lancashire,DJ Vilas,KK Jennings,DM Bess,1,0,,,,,,"",""
+ball,2,9.5,Lancashire,KK Jennings,DJ Vilas,DM Bess,2,0,,,,,,"",""
+ball,2,9.6,Lancashire,KK Jennings,DJ Vilas,DM Bess,0,0,,,,,,"",""
+ball,2,10.1,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,1,0,,,,,,"",""
+ball,2,10.2,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,1,0,,,,,,"",""
+ball,2,10.3,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,1,0,,,,,,"",""
+ball,2,10.4,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,4,0,,,,,,"",""
+ball,2,10.5,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,1,0,,,,,,"",""
+ball,2,10.6,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,1,0,,,,,,"",""
+ball,2,11.1,Lancashire,DJ Vilas,KK Jennings,MJ Waite,4,0,,,,,,"",""
+ball,2,11.2,Lancashire,DJ Vilas,KK Jennings,MJ Waite,1,0,,,,,,"",""
+ball,2,11.3,Lancashire,KK Jennings,DJ Vilas,MJ Waite,0,0,,,,,,"",""
+ball,2,11.4,Lancashire,KK Jennings,DJ Vilas,MJ Waite,4,0,,,,,,"",""
+ball,2,11.5,Lancashire,KK Jennings,DJ Vilas,MJ Waite,0,0,,,,,,"",""
+ball,2,11.6,Lancashire,KK Jennings,DJ Vilas,MJ Waite,1,0,,,,,,"",""
+ball,2,12.1,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,4,0,,,,,,"",""
+ball,2,12.2,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.3,Lancashire,DJ Vilas,KK Jennings,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.4,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,0,0,,,,,,"",""
+ball,2,12.5,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,0,0,,,,,,"",""
+ball,2,12.6,Lancashire,KK Jennings,DJ Vilas,Shadab Khan,1,0,,,,,,"",""
+ball,2,13.1,Lancashire,KK Jennings,DJ Vilas,DM Bess,4,0,,,,,,"",""
+ball,2,13.2,Lancashire,KK Jennings,DJ Vilas,DM Bess,3,0,,,,,,"",""
+ball,2,13.3,Lancashire,DJ Vilas,KK Jennings,DM Bess,1,0,,,,,,"",""
+ball,2,13.4,Lancashire,KK Jennings,DJ Vilas,DM Bess,1,0,,,,,,"",""
+ball,2,13.5,Lancashire,DJ Vilas,KK Jennings,DM Bess,1,0,,,,,,"",""
+ball,2,13.6,Lancashire,KK Jennings,DJ Vilas,DM Bess,1,0,,,,,,"",""
+ball,2,14.1,Lancashire,KK Jennings,DJ Vilas,DC Drakes,1,0,,,,,,"",""
+ball,2,14.2,Lancashire,DJ Vilas,KK Jennings,DC Drakes,2,0,,,,,,"",""
+ball,2,14.3,Lancashire,DJ Vilas,KK Jennings,DC Drakes,1,0,,,,,,"",""
+ball,2,14.4,Lancashire,KK Jennings,DJ Vilas,DC Drakes,1,0,,,,,,"",""
+ball,2,14.5,Lancashire,DJ Vilas,KK Jennings,DC Drakes,1,0,,,,,,"",""
+ball,2,14.6,Lancashire,KK Jennings,DJ Vilas,DC Drakes,1,0,,,,,,"",""
+ball,2,15.1,Lancashire,KK Jennings,DJ Vilas,A Lyth,0,1,,,1,,,"",""
+ball,2,15.2,Lancashire,DJ Vilas,KK Jennings,A Lyth,1,0,,,,,,"",""
+ball,2,15.3,Lancashire,KK Jennings,DJ Vilas,A Lyth,1,2,,2,,,,"",""
+ball,2,15.4,Lancashire,DJ Vilas,KK Jennings,A Lyth,1,0,,,,,,"",""
+ball,2,15.5,Lancashire,KK Jennings,DJ Vilas,A Lyth,0,1,,,,1,,"",""
+ball,2,15.6,Lancashire,DJ Vilas,KK Jennings,A Lyth,6,0,,,,,,"",""
+ball,2,15.7,Lancashire,DJ Vilas,KK Jennings,A Lyth,4,0,,,,,,"",""
+ball,2,16.1,Lancashire,KK Jennings,DJ Vilas,DC Drakes,0,0,,,,,,caught,KK Jennings
+ball,2,16.2,Lancashire,TH David,DJ Vilas,DC Drakes,1,0,,,,,,"",""
+ball,2,16.3,Lancashire,DJ Vilas,TH David,DC Drakes,2,0,,,,,,"",""
+ball,2,16.4,Lancashire,DJ Vilas,TH David,DC Drakes,1,0,,,,,,"",""
+ball,2,16.5,Lancashire,TH David,DJ Vilas,DC Drakes,0,1,,,,1,,"",""
+ball,2,16.6,Lancashire,DJ Vilas,TH David,DC Drakes,1,0,,,,,,"",""
+ball,2,17.1,Lancashire,DJ Vilas,TH David,JA Thompson,0,0,,,,,,"",""
+ball,2,17.2,Lancashire,DJ Vilas,TH David,JA Thompson,1,0,,,,,,"",""
+ball,2,17.3,Lancashire,TH David,DJ Vilas,JA Thompson,4,0,,,,,,"",""
+ball,2,17.4,Lancashire,TH David,DJ Vilas,JA Thompson,4,0,,,,,,"",""
+ball,2,17.5,Lancashire,TH David,DJ Vilas,JA Thompson,1,0,,,,,,"",""
+ball,2,17.6,Lancashire,DJ Vilas,TH David,JA Thompson,4,0,,,,,,"",""
+ball,2,18.1,Lancashire,TH David,DJ Vilas,ML Revis,0,0,,,,,,caught,TH David
+ball,2,18.2,Lancashire,LWP Wells,DJ Vilas,ML Revis,1,0,,,,,,"",""
+ball,2,18.3,Lancashire,DJ Vilas,LWP Wells,ML Revis,0,0,,,,,,"",""
+ball,2,18.4,Lancashire,DJ Vilas,LWP Wells,ML Revis,6,0,,,,,,"",""

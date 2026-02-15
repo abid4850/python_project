@@ -1,0 +1,298 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Birmingham Bears
+info,team,Derbyshire
+info,gender,male
+info,season,2022
+info,date,2022/06/19
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Birmingham Bears
+info,toss_decision,bat
+info,umpire,BJ Debenham
+info,umpire,SJ O'Shaughnessy
+info,match_referee,AJ Swann
+info,winner,Derbyshire
+info,winner_wickets,7
+info,player,Derbyshire,Shan Masood
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,AL Hughes
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,H Kerr
+info,player,Derbyshire,MRJ Watt
+info,player,Derbyshire,S Conners
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Birmingham Bears,PR Stirling
+info,player,Birmingham Bears,RM Yates
+info,player,Birmingham Bears,AL Davies
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,AJ Hose
+info,player,Birmingham Bears,CG Benjamin
+info,player,Birmingham Bears,CR Brathwaite
+info,player,Birmingham Bears,JB Lintott
+info,player,Birmingham Bears,HJH Brookes
+info,player,Birmingham Bears,CN Miles
+info,player,Birmingham Bears,OP Stone
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AL Davies,29ede60b
+info,registry,people,AL Hughes,1066a976
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,CN Miles,5fed6272
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,H Kerr,f422728b
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,OP Stone,3f659464
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RM Yates,3581a798
+info,registry,people,S Conners,067bda18
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,SR Hain,67b9536c
+info,registry,people,Shan Masood,6843a783
+info,registry,people,WL Madsen,86e0f3f0
+ball,1,0.1,Birmingham Bears,PR Stirling,RM Yates,H Kerr,0,0,,,,,,"",""
+ball,1,0.2,Birmingham Bears,PR Stirling,RM Yates,H Kerr,0,0,,,,,,"",""
+ball,1,0.3,Birmingham Bears,PR Stirling,RM Yates,H Kerr,1,0,,,,,,"",""
+ball,1,0.4,Birmingham Bears,RM Yates,PR Stirling,H Kerr,0,0,,,,,,"",""
+ball,1,0.5,Birmingham Bears,RM Yates,PR Stirling,H Kerr,2,0,,,,,,"",""
+ball,1,0.6,Birmingham Bears,RM Yates,PR Stirling,H Kerr,0,0,,,,,,"",""
+ball,1,1.1,Birmingham Bears,PR Stirling,RM Yates,S Conners,1,0,,,,,,"",""
+ball,1,1.2,Birmingham Bears,RM Yates,PR Stirling,S Conners,1,0,,,,,,"",""
+ball,1,1.3,Birmingham Bears,PR Stirling,RM Yates,S Conners,0,0,,,,,,caught,PR Stirling
+ball,1,1.4,Birmingham Bears,AL Davies,RM Yates,S Conners,2,0,,,,,,"",""
+ball,1,1.5,Birmingham Bears,AL Davies,RM Yates,S Conners,0,0,,,,,,"",""
+ball,1,1.6,Birmingham Bears,AL Davies,RM Yates,S Conners,1,0,,,,,,"",""
+ball,1,2.1,Birmingham Bears,AL Davies,RM Yates,MRJ Watt,1,0,,,,,,"",""
+ball,1,2.2,Birmingham Bears,RM Yates,AL Davies,MRJ Watt,0,0,,,,,,"",""
+ball,1,2.3,Birmingham Bears,RM Yates,AL Davies,MRJ Watt,1,0,,,,,,"",""
+ball,1,2.4,Birmingham Bears,AL Davies,RM Yates,MRJ Watt,1,0,,,,,,"",""
+ball,1,2.5,Birmingham Bears,RM Yates,AL Davies,MRJ Watt,0,0,,,,,,caught,RM Yates
+ball,1,2.6,Birmingham Bears,SR Hain,AL Davies,MRJ Watt,1,0,,,,,,"",""
+ball,1,3.1,Birmingham Bears,SR Hain,AL Davies,S Conners,4,0,,,,,,"",""
+ball,1,3.2,Birmingham Bears,SR Hain,AL Davies,S Conners,4,0,,,,,,"",""
+ball,1,3.3,Birmingham Bears,SR Hain,AL Davies,S Conners,2,0,,,,,,"",""
+ball,1,3.4,Birmingham Bears,SR Hain,AL Davies,S Conners,1,0,,,,,,"",""
+ball,1,3.5,Birmingham Bears,AL Davies,SR Hain,S Conners,0,0,,,,,,"",""
+ball,1,3.6,Birmingham Bears,AL Davies,SR Hain,S Conners,0,0,,,,,,caught,AL Davies
+ball,1,4.1,Birmingham Bears,SR Hain,AJ Hose,H Kerr,1,0,,,,,,"",""
+ball,1,4.2,Birmingham Bears,AJ Hose,SR Hain,H Kerr,2,0,,,,,,"",""
+ball,1,4.3,Birmingham Bears,AJ Hose,SR Hain,H Kerr,2,0,,,,,,"",""
+ball,1,4.4,Birmingham Bears,AJ Hose,SR Hain,H Kerr,4,0,,,,,,"",""
+ball,1,4.5,Birmingham Bears,AJ Hose,SR Hain,H Kerr,1,0,,,,,,"",""
+ball,1,4.6,Birmingham Bears,SR Hain,AJ Hose,H Kerr,1,0,,,,,,"",""
+ball,1,5.1,Birmingham Bears,SR Hain,AJ Hose,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,5.2,Birmingham Bears,AJ Hose,SR Hain,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,5.3,Birmingham Bears,AJ Hose,SR Hain,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,5.4,Birmingham Bears,SR Hain,AJ Hose,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,5.5,Birmingham Bears,SR Hain,AJ Hose,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,5.6,Birmingham Bears,SR Hain,AJ Hose,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,6.1,Birmingham Bears,AJ Hose,SR Hain,MRJ Watt,0,0,,,,,,"",""
+ball,1,6.2,Birmingham Bears,AJ Hose,SR Hain,MRJ Watt,1,0,,,,,,"",""
+ball,1,6.3,Birmingham Bears,SR Hain,AJ Hose,MRJ Watt,2,0,,,,,,"",""
+ball,1,6.4,Birmingham Bears,SR Hain,AJ Hose,MRJ Watt,1,0,,,,,,"",""
+ball,1,6.5,Birmingham Bears,AJ Hose,SR Hain,MRJ Watt,1,0,,,,,,"",""
+ball,1,6.6,Birmingham Bears,SR Hain,AJ Hose,MRJ Watt,1,0,,,,,,"",""
+ball,1,7.1,Birmingham Bears,SR Hain,AJ Hose,MH McKiernan,1,0,,,,,,"",""
+ball,1,7.2,Birmingham Bears,AJ Hose,SR Hain,MH McKiernan,0,0,,,,,,"",""
+ball,1,7.3,Birmingham Bears,AJ Hose,SR Hain,MH McKiernan,2,0,,,,,,"",""
+ball,1,7.4,Birmingham Bears,AJ Hose,SR Hain,MH McKiernan,6,0,,,,,,"",""
+ball,1,7.5,Birmingham Bears,AJ Hose,SR Hain,MH McKiernan,0,0,,,,,,caught,AJ Hose
+ball,1,7.6,Birmingham Bears,CG Benjamin,SR Hain,MH McKiernan,0,0,,,,,,"",""
+ball,1,8.1,Birmingham Bears,SR Hain,CG Benjamin,AL Hughes,1,0,,,,,,"",""
+ball,1,8.2,Birmingham Bears,CG Benjamin,SR Hain,AL Hughes,0,0,,,,,,"",""
+ball,1,8.3,Birmingham Bears,CG Benjamin,SR Hain,AL Hughes,1,0,,,,,,"",""
+ball,1,8.4,Birmingham Bears,SR Hain,CG Benjamin,AL Hughes,1,0,,,,,,"",""
+ball,1,8.5,Birmingham Bears,CG Benjamin,SR Hain,AL Hughes,1,0,,,,,,"",""
+ball,1,8.6,Birmingham Bears,SR Hain,CG Benjamin,AL Hughes,4,0,,,,,,"",""
+ball,1,9.1,Birmingham Bears,CG Benjamin,SR Hain,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,9.2,Birmingham Bears,CG Benjamin,SR Hain,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,9.3,Birmingham Bears,SR Hain,CG Benjamin,GLS Scrimshaw,2,0,,,,,,"",""
+ball,1,9.4,Birmingham Bears,SR Hain,CG Benjamin,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,9.5,Birmingham Bears,CG Benjamin,SR Hain,GLS Scrimshaw,2,0,,,,,,"",""
+ball,1,9.6,Birmingham Bears,CG Benjamin,SR Hain,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,10.1,Birmingham Bears,CG Benjamin,SR Hain,MRJ Watt,0,1,1,,,,,"",""
+ball,1,10.2,Birmingham Bears,CG Benjamin,SR Hain,MRJ Watt,6,0,,,,,,"",""
+ball,1,10.3,Birmingham Bears,CG Benjamin,SR Hain,MRJ Watt,0,0,,,,,,"",""
+ball,1,10.4,Birmingham Bears,CG Benjamin,SR Hain,MRJ Watt,1,0,,,,,,"",""
+ball,1,10.5,Birmingham Bears,SR Hain,CG Benjamin,MRJ Watt,2,0,,,,,,"",""
+ball,1,10.6,Birmingham Bears,SR Hain,CG Benjamin,MRJ Watt,2,0,,,,,,"",""
+ball,1,10.7,Birmingham Bears,SR Hain,CG Benjamin,MRJ Watt,1,0,,,,,,"",""
+ball,1,11.1,Birmingham Bears,SR Hain,CG Benjamin,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,11.2,Birmingham Bears,CG Benjamin,SR Hain,GLS Scrimshaw,0,0,,,,,,caught,CG Benjamin
+ball,1,11.3,Birmingham Bears,CR Brathwaite,SR Hain,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,11.4,Birmingham Bears,CR Brathwaite,SR Hain,GLS Scrimshaw,6,0,,,,,,"",""
+ball,1,11.5,Birmingham Bears,CR Brathwaite,SR Hain,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,11.6,Birmingham Bears,CR Brathwaite,SR Hain,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,12.1,Birmingham Bears,SR Hain,CR Brathwaite,MH McKiernan,1,0,,,,,,"",""
+ball,1,12.2,Birmingham Bears,CR Brathwaite,SR Hain,MH McKiernan,0,0,,,,,,"",""
+ball,1,12.3,Birmingham Bears,CR Brathwaite,SR Hain,MH McKiernan,1,0,,,,,,"",""
+ball,1,12.4,Birmingham Bears,SR Hain,CR Brathwaite,MH McKiernan,0,0,,,,,,"",""
+ball,1,12.5,Birmingham Bears,SR Hain,CR Brathwaite,MH McKiernan,1,0,,,,,,"",""
+ball,1,12.6,Birmingham Bears,CR Brathwaite,SR Hain,MH McKiernan,1,0,,,,,,"",""
+ball,1,13.1,Birmingham Bears,CR Brathwaite,SR Hain,AL Hughes,0,0,,,,,,"",""
+ball,1,13.2,Birmingham Bears,CR Brathwaite,SR Hain,AL Hughes,1,0,,,,,,"",""
+ball,1,13.3,Birmingham Bears,SR Hain,CR Brathwaite,AL Hughes,4,0,,,,,,"",""
+ball,1,13.4,Birmingham Bears,SR Hain,CR Brathwaite,AL Hughes,1,0,,,,,,"",""
+ball,1,13.5,Birmingham Bears,CR Brathwaite,SR Hain,AL Hughes,0,0,,,,,,"",""
+ball,1,13.6,Birmingham Bears,CR Brathwaite,SR Hain,AL Hughes,1,0,,,,,,"",""
+ball,1,14.1,Birmingham Bears,CR Brathwaite,SR Hain,MH McKiernan,4,0,,,,,,"",""
+ball,1,14.2,Birmingham Bears,CR Brathwaite,SR Hain,MH McKiernan,0,0,,,,,,"",""
+ball,1,14.3,Birmingham Bears,CR Brathwaite,SR Hain,MH McKiernan,0,0,,,,,,bowled,CR Brathwaite
+ball,1,14.4,Birmingham Bears,JB Lintott,SR Hain,MH McKiernan,0,0,,,,,,"",""
+ball,1,14.5,Birmingham Bears,JB Lintott,SR Hain,MH McKiernan,0,0,,,,,,"",""
+ball,1,14.6,Birmingham Bears,JB Lintott,SR Hain,MH McKiernan,1,0,,,,,,"",""
+ball,1,15.1,Birmingham Bears,JB Lintott,SR Hain,AL Hughes,1,0,,,,,,"",""
+ball,1,15.2,Birmingham Bears,SR Hain,JB Lintott,AL Hughes,1,0,,,,,,"",""
+ball,1,15.3,Birmingham Bears,JB Lintott,SR Hain,AL Hughes,0,0,,,,,,"",""
+ball,1,15.4,Birmingham Bears,JB Lintott,SR Hain,AL Hughes,1,0,,,,,,"",""
+ball,1,15.5,Birmingham Bears,SR Hain,JB Lintott,AL Hughes,1,0,,,,,,"",""
+ball,1,15.6,Birmingham Bears,JB Lintott,SR Hain,AL Hughes,1,0,,,,,,"",""
+ball,1,16.1,Birmingham Bears,JB Lintott,SR Hain,MRJ Watt,0,0,,,,,,"",""
+ball,1,16.2,Birmingham Bears,JB Lintott,SR Hain,MRJ Watt,0,0,,,,,,"",""
+ball,1,16.3,Birmingham Bears,JB Lintott,SR Hain,MRJ Watt,2,0,,,,,,"",""
+ball,1,16.4,Birmingham Bears,JB Lintott,SR Hain,MRJ Watt,0,0,,,,,,"",""
+ball,1,16.5,Birmingham Bears,JB Lintott,SR Hain,MRJ Watt,1,0,,,,,,"",""
+ball,1,16.6,Birmingham Bears,SR Hain,JB Lintott,MRJ Watt,2,0,,,,,,"",""
+ball,1,17.1,Birmingham Bears,JB Lintott,SR Hain,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,17.2,Birmingham Bears,JB Lintott,SR Hain,GLS Scrimshaw,6,0,,,,,,"",""
+ball,1,17.3,Birmingham Bears,JB Lintott,SR Hain,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,17.4,Birmingham Bears,JB Lintott,SR Hain,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,17.5,Birmingham Bears,SR Hain,JB Lintott,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,17.6,Birmingham Bears,JB Lintott,SR Hain,GLS Scrimshaw,0,2,,,,2,,"",""
+ball,1,18.1,Birmingham Bears,SR Hain,JB Lintott,H Kerr,1,0,,,,,,"",""
+ball,1,18.2,Birmingham Bears,JB Lintott,SR Hain,H Kerr,1,0,,,,,,"",""
+ball,1,18.3,Birmingham Bears,SR Hain,JB Lintott,H Kerr,2,0,,,,,,"",""
+ball,1,18.4,Birmingham Bears,SR Hain,JB Lintott,H Kerr,4,0,,,,,,"",""
+ball,1,18.5,Birmingham Bears,SR Hain,JB Lintott,H Kerr,2,0,,,,,,"",""
+ball,1,18.6,Birmingham Bears,SR Hain,JB Lintott,H Kerr,6,0,,,,,,"",""
+ball,1,19.1,Birmingham Bears,JB Lintott,SR Hain,S Conners,1,0,,,,,,"",""
+ball,1,19.2,Birmingham Bears,SR Hain,JB Lintott,S Conners,1,0,,,,,,"",""
+ball,1,19.3,Birmingham Bears,JB Lintott,SR Hain,S Conners,0,0,,,,,,caught,JB Lintott
+ball,1,19.4,Birmingham Bears,HJH Brookes,SR Hain,S Conners,4,0,,,,,,"",""
+ball,1,19.5,Birmingham Bears,HJH Brookes,SR Hain,S Conners,1,0,,,,,,"",""
+ball,1,19.6,Birmingham Bears,SR Hain,HJH Brookes,S Conners,2,0,,,,,,"",""
+ball,2,0.1,Derbyshire,Shan Masood,LM Reece,OP Stone,0,0,,,,,,"",""
+ball,2,0.2,Derbyshire,Shan Masood,LM Reece,OP Stone,0,0,,,,,,"",""
+ball,2,0.3,Derbyshire,Shan Masood,LM Reece,OP Stone,0,0,,,,,,"",""
+ball,2,0.4,Derbyshire,Shan Masood,LM Reece,OP Stone,1,0,,,,,,"",""
+ball,2,0.5,Derbyshire,LM Reece,Shan Masood,OP Stone,0,0,,,,,,"",""
+ball,2,0.6,Derbyshire,LM Reece,Shan Masood,OP Stone,0,0,,,,,,"",""
+ball,2,1.1,Derbyshire,Shan Masood,LM Reece,HJH Brookes,1,0,,,,,,"",""
+ball,2,1.2,Derbyshire,LM Reece,Shan Masood,HJH Brookes,0,0,,,,,,"",""
+ball,2,1.3,Derbyshire,LM Reece,Shan Masood,HJH Brookes,1,0,,,,,,"",""
+ball,2,1.4,Derbyshire,Shan Masood,LM Reece,HJH Brookes,0,0,,,,,,"",""
+ball,2,1.5,Derbyshire,Shan Masood,LM Reece,HJH Brookes,4,0,,,,,,"",""
+ball,2,1.6,Derbyshire,Shan Masood,LM Reece,HJH Brookes,0,0,,,,,,"",""
+ball,2,2.1,Derbyshire,LM Reece,Shan Masood,OP Stone,1,0,,,,,,"",""
+ball,2,2.2,Derbyshire,Shan Masood,LM Reece,OP Stone,1,0,,,,,,"",""
+ball,2,2.3,Derbyshire,LM Reece,Shan Masood,OP Stone,6,0,,,,,,"",""
+ball,2,2.4,Derbyshire,LM Reece,Shan Masood,OP Stone,4,0,,,,,,"",""
+ball,2,2.5,Derbyshire,LM Reece,Shan Masood,OP Stone,0,0,,,,,,"",""
+ball,2,2.6,Derbyshire,LM Reece,Shan Masood,OP Stone,4,0,,,,,,"",""
+ball,2,3.1,Derbyshire,Shan Masood,LM Reece,HJH Brookes,4,0,,,,,,"",""
+ball,2,3.2,Derbyshire,Shan Masood,LM Reece,HJH Brookes,0,0,,,,,,"",""
+ball,2,3.3,Derbyshire,Shan Masood,LM Reece,HJH Brookes,0,0,,,,,,"",""
+ball,2,3.4,Derbyshire,Shan Masood,LM Reece,HJH Brookes,1,0,,,,,,"",""
+ball,2,3.5,Derbyshire,LM Reece,Shan Masood,HJH Brookes,6,0,,,,,,"",""
+ball,2,3.6,Derbyshire,LM Reece,Shan Masood,HJH Brookes,1,0,,,,,,"",""
+ball,2,4.1,Derbyshire,LM Reece,Shan Masood,PR Stirling,4,0,,,,,,"",""
+ball,2,4.2,Derbyshire,LM Reece,Shan Masood,PR Stirling,1,0,,,,,,"",""
+ball,2,4.3,Derbyshire,Shan Masood,LM Reece,PR Stirling,1,0,,,,,,"",""
+ball,2,4.4,Derbyshire,LM Reece,Shan Masood,PR Stirling,1,0,,,,,,"",""
+ball,2,4.5,Derbyshire,Shan Masood,LM Reece,PR Stirling,1,0,,,,,,"",""
+ball,2,4.6,Derbyshire,LM Reece,Shan Masood,PR Stirling,1,0,,,,,,"",""
+ball,2,5.1,Derbyshire,LM Reece,Shan Masood,CN Miles,0,0,,,,,,"",""
+ball,2,5.2,Derbyshire,LM Reece,Shan Masood,CN Miles,2,0,,,,,,"",""
+ball,2,5.3,Derbyshire,LM Reece,Shan Masood,CN Miles,4,0,,,,,,"",""
+ball,2,5.4,Derbyshire,LM Reece,Shan Masood,CN Miles,0,0,,,,,,"",""
+ball,2,5.5,Derbyshire,LM Reece,Shan Masood,CN Miles,0,0,,,,,,"",""
+ball,2,5.6,Derbyshire,LM Reece,Shan Masood,CN Miles,0,2,,2,,,,"",""
+ball,2,5.7,Derbyshire,LM Reece,Shan Masood,CN Miles,1,0,,,,,,"",""
+ball,2,6.1,Derbyshire,LM Reece,Shan Masood,JB Lintott,1,0,,,,,,"",""
+ball,2,6.2,Derbyshire,Shan Masood,LM Reece,JB Lintott,0,0,,,,,,"",""
+ball,2,6.3,Derbyshire,Shan Masood,LM Reece,JB Lintott,1,0,,,,,,"",""
+ball,2,6.4,Derbyshire,LM Reece,Shan Masood,JB Lintott,0,0,,,,,,run out,LM Reece
+ball,2,6.5,Derbyshire,WL Madsen,Shan Masood,JB Lintott,1,0,,,,,,"",""
+ball,2,6.6,Derbyshire,Shan Masood,WL Madsen,JB Lintott,1,0,,,,,,"",""
+ball,2,7.1,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,0,0,,,,,,"",""
+ball,2,7.2,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,1,0,,,,,,"",""
+ball,2,7.3,Derbyshire,WL Madsen,Shan Masood,CR Brathwaite,1,0,,,,,,"",""
+ball,2,7.4,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,1,0,,,,,,"",""
+ball,2,7.5,Derbyshire,WL Madsen,Shan Masood,CR Brathwaite,4,0,,,,,,"",""
+ball,2,7.6,Derbyshire,WL Madsen,Shan Masood,CR Brathwaite,1,0,,,,,,"",""
+ball,2,8.1,Derbyshire,WL Madsen,Shan Masood,JB Lintott,6,0,,,,,,"",""
+ball,2,8.2,Derbyshire,WL Madsen,Shan Masood,JB Lintott,6,0,,,,,,"",""
+ball,2,8.3,Derbyshire,WL Madsen,Shan Masood,JB Lintott,0,1,1,,,,,"",""
+ball,2,8.4,Derbyshire,WL Madsen,Shan Masood,JB Lintott,0,0,,,,,,"",""
+ball,2,8.5,Derbyshire,WL Madsen,Shan Masood,JB Lintott,1,0,,,,,,"",""
+ball,2,8.6,Derbyshire,Shan Masood,WL Madsen,JB Lintott,2,0,,,,,,"",""
+ball,2,8.7,Derbyshire,Shan Masood,WL Madsen,JB Lintott,1,0,,,,,,"",""
+ball,2,9.1,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,0,0,,,,,,"",""
+ball,2,9.2,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,4,0,,,,,,"",""
+ball,2,9.3,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,0,0,,,,,,"",""
+ball,2,9.4,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,1,0,,,,,,"",""
+ball,2,9.5,Derbyshire,WL Madsen,Shan Masood,CR Brathwaite,0,0,,,,,,"",""
+ball,2,9.6,Derbyshire,WL Madsen,Shan Masood,CR Brathwaite,1,0,,,,,,"",""
+ball,2,10.1,Derbyshire,WL Madsen,Shan Masood,CN Miles,4,0,,,,,,"",""
+ball,2,10.2,Derbyshire,WL Madsen,Shan Masood,CN Miles,1,0,,,,,,"",""
+ball,2,10.3,Derbyshire,Shan Masood,WL Madsen,CN Miles,1,0,,,,,,"",""
+ball,2,10.4,Derbyshire,WL Madsen,Shan Masood,CN Miles,0,0,,,,,,"",""
+ball,2,10.5,Derbyshire,WL Madsen,Shan Masood,CN Miles,4,0,,,,,,"",""
+ball,2,10.6,Derbyshire,WL Madsen,Shan Masood,CN Miles,1,0,,,,,,"",""
+ball,2,11.1,Derbyshire,WL Madsen,Shan Masood,OP Stone,0,0,,,,,,"",""
+ball,2,11.2,Derbyshire,WL Madsen,Shan Masood,OP Stone,0,1,,,,1,,"",""
+ball,2,11.3,Derbyshire,Shan Masood,WL Madsen,OP Stone,1,0,,,,,,"",""
+ball,2,11.4,Derbyshire,WL Madsen,Shan Masood,OP Stone,1,0,,,,,,"",""
+ball,2,11.5,Derbyshire,Shan Masood,WL Madsen,OP Stone,1,0,,,,,,"",""
+ball,2,11.6,Derbyshire,WL Madsen,Shan Masood,OP Stone,0,1,1,,,,,"",""
+ball,2,11.7,Derbyshire,WL Madsen,Shan Masood,OP Stone,1,0,,,,,,"",""
+ball,2,12.1,Derbyshire,WL Madsen,Shan Masood,CR Brathwaite,1,0,,,,,,"",""
+ball,2,12.2,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,4,0,,,,,,"",""
+ball,2,12.3,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,1,0,,,,,,"",""
+ball,2,12.4,Derbyshire,WL Madsen,Shan Masood,CR Brathwaite,1,5,,,,,5,"",""
+ball,2,12.5,Derbyshire,Shan Masood,WL Madsen,CR Brathwaite,1,0,,,,,,"",""
+ball,2,12.6,Derbyshire,WL Madsen,Shan Masood,CR Brathwaite,1,0,,,,,,"",""
+ball,2,13.1,Derbyshire,WL Madsen,Shan Masood,JB Lintott,1,0,,,,,,"",""
+ball,2,13.2,Derbyshire,Shan Masood,WL Madsen,JB Lintott,0,0,,,,,,"",""
+ball,2,13.3,Derbyshire,Shan Masood,WL Madsen,JB Lintott,0,1,,,,1,,"",""
+ball,2,13.4,Derbyshire,WL Madsen,Shan Masood,JB Lintott,0,0,,,,,,"",""
+ball,2,13.5,Derbyshire,WL Madsen,Shan Masood,JB Lintott,6,0,,,,,,"",""
+ball,2,13.6,Derbyshire,WL Madsen,Shan Masood,JB Lintott,0,0,,,,,,"",""
+ball,2,14.1,Derbyshire,Shan Masood,WL Madsen,HJH Brookes,0,0,,,,,,"",""
+ball,2,14.2,Derbyshire,Shan Masood,WL Madsen,HJH Brookes,0,0,,,,,,"",""
+ball,2,14.3,Derbyshire,Shan Masood,WL Madsen,HJH Brookes,1,0,,,,,,"",""
+ball,2,14.4,Derbyshire,WL Madsen,Shan Masood,HJH Brookes,4,0,,,,,,"",""
+ball,2,14.5,Derbyshire,WL Madsen,Shan Masood,HJH Brookes,1,0,,,,,,"",""
+ball,2,14.6,Derbyshire,Shan Masood,WL Madsen,HJH Brookes,1,0,,,,,,"",""
+ball,2,15.1,Derbyshire,Shan Masood,WL Madsen,JB Lintott,1,0,,,,,,"",""
+ball,2,15.2,Derbyshire,WL Madsen,Shan Masood,JB Lintott,2,0,,,,,,"",""
+ball,2,15.3,Derbyshire,WL Madsen,Shan Masood,JB Lintott,4,0,,,,,,"",""
+ball,2,15.4,Derbyshire,WL Madsen,Shan Masood,JB Lintott,1,0,,,,,,"",""
+ball,2,15.5,Derbyshire,Shan Masood,WL Madsen,JB Lintott,1,0,,,,,,"",""
+ball,2,15.6,Derbyshire,WL Madsen,Shan Masood,JB Lintott,0,0,,,,,,"",""
+ball,2,16.1,Derbyshire,Shan Masood,WL Madsen,OP Stone,1,0,,,,,,"",""
+ball,2,16.2,Derbyshire,WL Madsen,Shan Masood,OP Stone,0,0,,,,,,"",""
+ball,2,16.3,Derbyshire,WL Madsen,Shan Masood,OP Stone,0,0,,,,,,caught,WL Madsen
+ball,2,16.4,Derbyshire,JL du Plooy,Shan Masood,OP Stone,0,0,,,,,,"",""
+ball,2,16.5,Derbyshire,JL du Plooy,Shan Masood,OP Stone,6,0,,,,,,"",""
+ball,2,16.6,Derbyshire,JL du Plooy,Shan Masood,OP Stone,0,0,,,,,,"",""
+ball,2,17.1,Derbyshire,Shan Masood,JL du Plooy,CR Brathwaite,0,0,,,,,,"",""
+ball,2,17.2,Derbyshire,Shan Masood,JL du Plooy,CR Brathwaite,1,0,,,,,,"",""
+ball,2,17.3,Derbyshire,JL du Plooy,Shan Masood,CR Brathwaite,0,0,,,,,,caught,JL du Plooy
+ball,2,17.4,Derbyshire,BD Guest,Shan Masood,CR Brathwaite,0,0,,,,,,"",""
+ball,2,17.5,Derbyshire,BD Guest,Shan Masood,CR Brathwaite,0,1,1,,,,,"",""
+ball,2,17.6,Derbyshire,BD Guest,Shan Masood,CR Brathwaite,0,0,,,,,,"",""
+ball,2,17.7,Derbyshire,BD Guest,Shan Masood,CR Brathwaite,4,0,,,,,,"",""
+ball,2,18.1,Derbyshire,Shan Masood,BD Guest,HJH Brookes,4,0,,,,,,"",""

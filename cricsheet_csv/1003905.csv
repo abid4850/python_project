@@ -1,0 +1,327 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Warriors
+info,gender,male
+info,season,2016/17
+info,date,2016/12/16
+info,event,CSA T20 Challenge
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Warriors
+info,toss_decision,field
+info,player_of_match,D Wiese
+info,player_of_match,L Ngidi
+info,umpire,A Paleker
+info,umpire,BP Jele
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,S George
+info,match_referee,S Wadvalla
+info,winner,Titans
+info,winner_runs,6
+info,player,Titans,JD Vandiar
+info,player,Titans,AK Markram
+info,player,Titans,H Klaasen
+info,player,Titans,JA Morkel
+info,player,Titans,HG Kuhn
+info,player,Titans,F Behardien
+info,player,Titans,D Wiese
+info,player,Titans,MP Siboto
+info,player,Titans,L Ngidi
+info,player,Titans,CJ Dala
+info,player,Titans,T Shamsi
+info,player,Warriors,JT Smuts
+info,player,Warriors,C Fortuin
+info,player,Warriors,CA Ingram
+info,player,Warriors,CN Ackermann
+info,player,Warriors,C Jonker
+info,player,Warriors,MQ Adams
+info,player,Warriors,LC Ngoepe
+info,player,Warriors,SSB Magala
+info,player,Warriors,KJ Abbott
+info,player,Warriors,BD Walters
+info,player,Warriors,A Gqamane
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BD Walters,1e182ae2
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,C Jonker,a81d6706
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,F Behardien,dce2019b
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,JD Vandiar,a833f99c
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,MQ Adams,59a7fc89
+info,registry,people,S George,6d9e5a54
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SSB Magala,8361e524
+info,registry,people,T Shamsi,a03bba42
+ball,1,0.1,Titans,JD Vandiar,AK Markram,KJ Abbott,0,4,,,,4,,"",""
+ball,1,0.2,Titans,JD Vandiar,AK Markram,KJ Abbott,1,0,,,,,,"",""
+ball,1,0.3,Titans,AK Markram,JD Vandiar,KJ Abbott,0,0,,,,,,"",""
+ball,1,0.4,Titans,AK Markram,JD Vandiar,KJ Abbott,0,1,1,,,,,"",""
+ball,1,0.5,Titans,AK Markram,JD Vandiar,KJ Abbott,0,0,,,,,,"",""
+ball,1,0.6,Titans,AK Markram,JD Vandiar,KJ Abbott,0,0,,,,,,"",""
+ball,1,0.7,Titans,AK Markram,JD Vandiar,KJ Abbott,1,0,,,,,,"",""
+ball,1,1.1,Titans,AK Markram,JD Vandiar,BD Walters,4,0,,,,,,"",""
+ball,1,1.2,Titans,AK Markram,JD Vandiar,BD Walters,1,0,,,,,,"",""
+ball,1,1.3,Titans,JD Vandiar,AK Markram,BD Walters,0,0,,,,,,"",""
+ball,1,1.4,Titans,JD Vandiar,AK Markram,BD Walters,0,0,,,,,,"",""
+ball,1,1.5,Titans,JD Vandiar,AK Markram,BD Walters,0,0,,,,,,"",""
+ball,1,1.6,Titans,JD Vandiar,AK Markram,BD Walters,1,0,,,,,,"",""
+ball,1,2.1,Titans,JD Vandiar,AK Markram,KJ Abbott,2,0,,,,,,"",""
+ball,1,2.2,Titans,JD Vandiar,AK Markram,KJ Abbott,0,2,2,,,,,"",""
+ball,1,2.3,Titans,AK Markram,JD Vandiar,KJ Abbott,3,0,,,,,,"",""
+ball,1,2.4,Titans,JD Vandiar,AK Markram,KJ Abbott,0,0,,,,,,"",""
+ball,1,2.5,Titans,JD Vandiar,AK Markram,KJ Abbott,1,0,,,,,,"",""
+ball,1,2.6,Titans,AK Markram,JD Vandiar,KJ Abbott,4,0,,,,,,"",""
+ball,1,2.7,Titans,AK Markram,JD Vandiar,KJ Abbott,0,0,,,,,,"",""
+ball,1,3.1,Titans,JD Vandiar,AK Markram,SSB Magala,4,0,,,,,,"",""
+ball,1,3.2,Titans,JD Vandiar,AK Markram,SSB Magala,0,0,,,,,,"",""
+ball,1,3.3,Titans,JD Vandiar,AK Markram,SSB Magala,0,0,,,,,,"",""
+ball,1,3.4,Titans,JD Vandiar,AK Markram,SSB Magala,1,0,,,,,,"",""
+ball,1,3.5,Titans,AK Markram,JD Vandiar,SSB Magala,4,0,,,,,,"",""
+ball,1,3.6,Titans,AK Markram,JD Vandiar,SSB Magala,1,0,,,,,,"",""
+ball,1,4.1,Titans,AK Markram,JD Vandiar,BD Walters,1,0,,,,,,"",""
+ball,1,4.2,Titans,JD Vandiar,AK Markram,BD Walters,0,0,,,,,,"",""
+ball,1,4.3,Titans,JD Vandiar,AK Markram,BD Walters,0,1,1,,,,,"",""
+ball,1,4.4,Titans,JD Vandiar,AK Markram,BD Walters,0,1,1,,,,,"",""
+ball,1,4.5,Titans,JD Vandiar,AK Markram,BD Walters,0,0,,,,,,"",""
+ball,1,4.6,Titans,JD Vandiar,AK Markram,BD Walters,0,0,,,,,,caught,JD Vandiar
+ball,1,4.7,Titans,AK Markram,H Klaasen,BD Walters,2,0,,,,,,"",""
+ball,1,4.8,Titans,AK Markram,H Klaasen,BD Walters,0,0,,,,,,"",""
+ball,1,5.1,Titans,H Klaasen,AK Markram,SSB Magala,0,0,,,,,,"",""
+ball,1,5.2,Titans,H Klaasen,AK Markram,SSB Magala,0,0,,,,,,"",""
+ball,1,5.3,Titans,H Klaasen,AK Markram,SSB Magala,0,0,,,,,,"",""
+ball,1,5.4,Titans,H Klaasen,AK Markram,SSB Magala,4,0,,,,,,"",""
+ball,1,5.5,Titans,H Klaasen,AK Markram,SSB Magala,1,0,,,,,,"",""
+ball,1,5.6,Titans,AK Markram,H Klaasen,SSB Magala,2,0,,,,,,"",""
+ball,1,6.1,Titans,H Klaasen,AK Markram,JT Smuts,4,0,,,,,,"",""
+ball,1,6.2,Titans,H Klaasen,AK Markram,JT Smuts,0,0,,,,,,"",""
+ball,1,6.3,Titans,H Klaasen,AK Markram,JT Smuts,1,0,,,,,,"",""
+ball,1,6.4,Titans,AK Markram,H Klaasen,JT Smuts,2,0,,,,,,"",""
+ball,1,6.5,Titans,AK Markram,H Klaasen,JT Smuts,0,0,,,,,,"",""
+ball,1,6.6,Titans,AK Markram,H Klaasen,JT Smuts,2,0,,,,,,"",""
+ball,1,7.1,Titans,H Klaasen,AK Markram,CN Ackermann,1,0,,,,,,"",""
+ball,1,7.2,Titans,AK Markram,H Klaasen,CN Ackermann,1,0,,,,,,"",""
+ball,1,7.3,Titans,H Klaasen,AK Markram,CN Ackermann,0,0,,,,,,"",""
+ball,1,7.4,Titans,H Klaasen,AK Markram,CN Ackermann,6,0,,,,,,"",""
+ball,1,7.5,Titans,H Klaasen,AK Markram,CN Ackermann,1,0,,,,,,"",""
+ball,1,7.6,Titans,AK Markram,H Klaasen,CN Ackermann,0,0,,,,,,"",""
+ball,1,8.1,Titans,H Klaasen,AK Markram,CA Ingram,1,0,,,,,,"",""
+ball,1,8.2,Titans,AK Markram,H Klaasen,CA Ingram,0,1,,,1,,,"",""
+ball,1,8.3,Titans,H Klaasen,AK Markram,CA Ingram,0,0,,,,,,caught,H Klaasen
+ball,1,8.4,Titans,AK Markram,JA Morkel,CA Ingram,0,0,,,,,,"",""
+ball,1,8.5,Titans,AK Markram,JA Morkel,CA Ingram,1,0,,,,,,"",""
+ball,1,8.6,Titans,JA Morkel,AK Markram,CA Ingram,0,0,,,,,,"",""
+ball,1,9.1,Titans,AK Markram,JA Morkel,A Gqamane,0,1,1,,,,,"",""
+ball,1,9.2,Titans,AK Markram,JA Morkel,A Gqamane,4,0,,,,,,"",""
+ball,1,9.3,Titans,AK Markram,JA Morkel,A Gqamane,0,0,,,,,,caught,AK Markram
+ball,1,9.4,Titans,HG Kuhn,JA Morkel,A Gqamane,1,0,,,,,,"",""
+ball,1,9.5,Titans,JA Morkel,HG Kuhn,A Gqamane,1,0,,,,,,"",""
+ball,1,9.6,Titans,HG Kuhn,JA Morkel,A Gqamane,1,0,,,,,,"",""
+ball,1,9.7,Titans,JA Morkel,HG Kuhn,A Gqamane,0,0,,,,,,"",""
+ball,1,10.1,Titans,HG Kuhn,JA Morkel,CA Ingram,0,0,,,,,,"",""
+ball,1,10.2,Titans,HG Kuhn,JA Morkel,CA Ingram,1,0,,,,,,"",""
+ball,1,10.3,Titans,JA Morkel,HG Kuhn,CA Ingram,2,0,,,,,,"",""
+ball,1,10.4,Titans,JA Morkel,HG Kuhn,CA Ingram,1,0,,,,,,"",""
+ball,1,10.5,Titans,HG Kuhn,JA Morkel,CA Ingram,2,0,,,,,,"",""
+ball,1,10.6,Titans,HG Kuhn,JA Morkel,CA Ingram,1,0,,,,,,"",""
+ball,1,11.1,Titans,HG Kuhn,JA Morkel,CN Ackermann,1,0,,,,,,"",""
+ball,1,11.2,Titans,JA Morkel,HG Kuhn,CN Ackermann,1,0,,,,,,"",""
+ball,1,11.3,Titans,HG Kuhn,JA Morkel,CN Ackermann,1,0,,,,,,"",""
+ball,1,11.4,Titans,JA Morkel,HG Kuhn,CN Ackermann,1,0,,,,,,"",""
+ball,1,11.5,Titans,HG Kuhn,JA Morkel,CN Ackermann,1,0,,,,,,"",""
+ball,1,11.6,Titans,JA Morkel,HG Kuhn,CN Ackermann,6,0,,,,,,"",""
+ball,1,12.1,Titans,HG Kuhn,JA Morkel,JT Smuts,1,0,,,,,,"",""
+ball,1,12.2,Titans,JA Morkel,HG Kuhn,JT Smuts,1,0,,,,,,"",""
+ball,1,12.3,Titans,HG Kuhn,JA Morkel,JT Smuts,1,0,,,,,,"",""
+ball,1,12.4,Titans,JA Morkel,HG Kuhn,JT Smuts,1,0,,,,,,"",""
+ball,1,12.5,Titans,HG Kuhn,JA Morkel,JT Smuts,2,0,,,,,,"",""
+ball,1,12.6,Titans,HG Kuhn,JA Morkel,JT Smuts,1,0,,,,,,"",""
+ball,1,13.1,Titans,HG Kuhn,JA Morkel,CA Ingram,2,0,,,,,,"",""
+ball,1,13.2,Titans,HG Kuhn,JA Morkel,CA Ingram,0,0,,,,,,"",""
+ball,1,13.3,Titans,HG Kuhn,JA Morkel,CA Ingram,1,0,,,,,,"",""
+ball,1,13.4,Titans,JA Morkel,HG Kuhn,CA Ingram,1,0,,,,,,"",""
+ball,1,13.5,Titans,HG Kuhn,JA Morkel,CA Ingram,0,0,,,,,,run out,HG Kuhn
+ball,1,13.6,Titans,JA Morkel,F Behardien,CA Ingram,0,0,,,,,,"",""
+ball,1,14.1,Titans,F Behardien,JA Morkel,BD Walters,1,0,,,,,,"",""
+ball,1,14.2,Titans,JA Morkel,F Behardien,BD Walters,1,0,,,,,,"",""
+ball,1,14.3,Titans,F Behardien,JA Morkel,BD Walters,1,0,,,,,,"",""
+ball,1,14.4,Titans,JA Morkel,F Behardien,BD Walters,0,0,,,,,,"",""
+ball,1,14.5,Titans,JA Morkel,F Behardien,BD Walters,1,0,,,,,,"",""
+ball,1,14.6,Titans,F Behardien,JA Morkel,BD Walters,0,0,,,,,,"",""
+ball,1,15.1,Titans,JA Morkel,F Behardien,CA Ingram,1,0,,,,,,"",""
+ball,1,15.2,Titans,F Behardien,JA Morkel,CA Ingram,1,0,,,,,,"",""
+ball,1,15.3,Titans,JA Morkel,F Behardien,CA Ingram,1,0,,,,,,"",""
+ball,1,15.4,Titans,F Behardien,JA Morkel,CA Ingram,2,0,,,,,,"",""
+ball,1,15.5,Titans,F Behardien,JA Morkel,CA Ingram,6,0,,,,,,"",""
+ball,1,15.6,Titans,F Behardien,JA Morkel,CA Ingram,0,0,,,,,,"",""
+ball,1,16.1,Titans,JA Morkel,F Behardien,KJ Abbott,1,0,,,,,,"",""
+ball,1,16.2,Titans,F Behardien,JA Morkel,KJ Abbott,0,0,,,,,,"",""
+ball,1,16.3,Titans,F Behardien,JA Morkel,KJ Abbott,0,0,,,,,,"",""
+ball,1,16.4,Titans,F Behardien,JA Morkel,KJ Abbott,0,1,1,,,,,"",""
+ball,1,16.5,Titans,F Behardien,JA Morkel,KJ Abbott,0,0,,,,,,caught,F Behardien
+ball,1,16.6,Titans,JA Morkel,D Wiese,KJ Abbott,1,0,,,,,,"",""
+ball,1,16.7,Titans,D Wiese,JA Morkel,KJ Abbott,1,0,,,,,,"",""
+ball,1,17.1,Titans,D Wiese,JA Morkel,SSB Magala,0,1,1,,,,,"",""
+ball,1,17.2,Titans,D Wiese,JA Morkel,SSB Magala,1,0,,,,,,"",""
+ball,1,17.3,Titans,JA Morkel,D Wiese,SSB Magala,0,0,,,,,,run out,JA Morkel
+ball,1,17.4,Titans,MP Siboto,D Wiese,SSB Magala,0,0,,,,,,"",""
+ball,1,17.5,Titans,MP Siboto,D Wiese,SSB Magala,1,0,,,,,,"",""
+ball,1,17.6,Titans,D Wiese,MP Siboto,SSB Magala,0,0,,,,,,"",""
+ball,1,17.7,Titans,D Wiese,MP Siboto,SSB Magala,1,0,,,,,,"",""
+ball,1,18.1,Titans,D Wiese,MP Siboto,KJ Abbott,2,0,,,,,,"",""
+ball,1,18.2,Titans,D Wiese,MP Siboto,KJ Abbott,2,0,,,,,,"",""
+ball,1,18.3,Titans,D Wiese,MP Siboto,KJ Abbott,0,0,,,,,,"",""
+ball,1,18.4,Titans,D Wiese,MP Siboto,KJ Abbott,1,0,,,,,,"",""
+ball,1,18.5,Titans,MP Siboto,D Wiese,KJ Abbott,2,0,,,,,,"",""
+ball,1,18.6,Titans,MP Siboto,D Wiese,KJ Abbott,1,0,,,,,,"",""
+ball,1,19.1,Titans,MP Siboto,D Wiese,SSB Magala,0,2,2,,,,,"",""
+ball,1,19.2,Titans,D Wiese,MP Siboto,SSB Magala,2,0,,,,,,"",""
+ball,1,19.3,Titans,D Wiese,MP Siboto,SSB Magala,2,0,,,,,,"",""
+ball,1,19.4,Titans,D Wiese,MP Siboto,SSB Magala,0,1,,1,,,,"",""
+ball,1,19.5,Titans,D Wiese,MP Siboto,SSB Magala,4,0,,,,,,"",""
+ball,1,19.6,Titans,D Wiese,MP Siboto,SSB Magala,2,0,,,,,,"",""
+ball,1,19.7,Titans,D Wiese,MP Siboto,SSB Magala,4,0,,,,,,"",""
+ball,1,19.8,Titans,D Wiese,MP Siboto,SSB Magala,2,0,,,,,,"",""
+ball,2,0.1,Warriors,JT Smuts,C Fortuin,JA Morkel,0,0,,,,,,"",""
+ball,2,0.2,Warriors,JT Smuts,C Fortuin,JA Morkel,4,0,,,,,,"",""
+ball,2,0.3,Warriors,JT Smuts,C Fortuin,JA Morkel,1,0,,,,,,"",""
+ball,2,0.4,Warriors,C Fortuin,JT Smuts,JA Morkel,0,0,,,,,,"",""
+ball,2,0.5,Warriors,C Fortuin,JT Smuts,JA Morkel,0,0,,,,,,caught,C Fortuin
+ball,2,0.6,Warriors,CA Ingram,JT Smuts,F Behardien,0,0,,,,,,"",""
+ball,2,1.1,Warriors,JT Smuts,CA Ingram,AK Markram,0,0,,,,,,"",""
+ball,2,1.2,Warriors,JT Smuts,CA Ingram,AK Markram,4,0,,,,,,"",""
+ball,2,1.3,Warriors,JT Smuts,CA Ingram,AK Markram,0,0,,,,,,"",""
+ball,2,1.4,Warriors,JT Smuts,CA Ingram,AK Markram,2,0,,,,,,"",""
+ball,2,1.5,Warriors,JT Smuts,CA Ingram,AK Markram,1,0,,,,,,"",""
+ball,2,1.6,Warriors,CA Ingram,JT Smuts,AK Markram,0,0,,,,,,"",""
+ball,2,2.1,Warriors,JT Smuts,CA Ingram,D Wiese,4,0,,,,,,"",""
+ball,2,2.2,Warriors,JT Smuts,CA Ingram,D Wiese,0,0,,,,,,caught,JT Smuts
+ball,2,2.3,Warriors,CN Ackermann,CA Ingram,D Wiese,0,0,,,,,,"",""
+ball,2,2.4,Warriors,CN Ackermann,CA Ingram,D Wiese,1,0,,,,,,"",""
+ball,2,2.5,Warriors,CA Ingram,CN Ackermann,D Wiese,0,0,,,,,,"",""
+ball,2,2.6,Warriors,CA Ingram,CN Ackermann,D Wiese,0,1,,,,1,,"",""
+ball,2,3.1,Warriors,CA Ingram,CN Ackermann,L Ngidi,0,0,,,,,,"",""
+ball,2,3.2,Warriors,CA Ingram,CN Ackermann,L Ngidi,0,0,,,,,,"",""
+ball,2,3.3,Warriors,CA Ingram,CN Ackermann,L Ngidi,1,0,,,,,,"",""
+ball,2,3.4,Warriors,CN Ackermann,CA Ingram,L Ngidi,0,0,,,,,,"",""
+ball,2,3.5,Warriors,CN Ackermann,CA Ingram,L Ngidi,0,0,,,,,,"",""
+ball,2,3.6,Warriors,CN Ackermann,CA Ingram,L Ngidi,0,0,,,,,,"",""
+ball,2,4.1,Warriors,CA Ingram,CN Ackermann,D Wiese,1,0,,,,,,"",""
+ball,2,4.2,Warriors,CN Ackermann,CA Ingram,D Wiese,0,0,,,,,,"",""
+ball,2,4.3,Warriors,CN Ackermann,CA Ingram,D Wiese,0,0,,,,,,"",""
+ball,2,4.4,Warriors,CN Ackermann,CA Ingram,D Wiese,4,0,,,,,,"",""
+ball,2,4.5,Warriors,CN Ackermann,CA Ingram,D Wiese,2,0,,,,,,"",""
+ball,2,4.6,Warriors,CN Ackermann,CA Ingram,D Wiese,2,0,,,,,,"",""
+ball,2,5.1,Warriors,CA Ingram,CN Ackermann,L Ngidi,0,0,,,,,,"",""
+ball,2,5.2,Warriors,CA Ingram,CN Ackermann,L Ngidi,2,0,,,,,,"",""
+ball,2,5.3,Warriors,CA Ingram,CN Ackermann,L Ngidi,0,5,5,,,,,"",""
+ball,2,5.4,Warriors,CA Ingram,CN Ackermann,L Ngidi,4,0,,,,,,"",""
+ball,2,5.5,Warriors,CA Ingram,CN Ackermann,L Ngidi,4,0,,,,,,"",""
+ball,2,5.6,Warriors,CA Ingram,CN Ackermann,L Ngidi,0,0,,,,,,caught,CA Ingram
+ball,2,5.7,Warriors,C Jonker,CN Ackermann,L Ngidi,1,0,,,,,,"",""
+ball,2,6.1,Warriors,C Jonker,CN Ackermann,MP Siboto,0,0,,,,,,"",""
+ball,2,6.2,Warriors,C Jonker,CN Ackermann,MP Siboto,0,1,1,,,,,"",""
+ball,2,6.3,Warriors,C Jonker,CN Ackermann,MP Siboto,2,0,,,,,,"",""
+ball,2,6.4,Warriors,C Jonker,CN Ackermann,MP Siboto,0,1,1,,,,,"",""
+ball,2,6.5,Warriors,C Jonker,CN Ackermann,MP Siboto,4,0,,,,,,"",""
+ball,2,6.6,Warriors,C Jonker,CN Ackermann,MP Siboto,1,0,,,,,,"",""
+ball,2,6.7,Warriors,CN Ackermann,C Jonker,MP Siboto,1,0,,,,,,"",""
+ball,2,6.8,Warriors,C Jonker,CN Ackermann,MP Siboto,0,0,,,,,,"",""
+ball,2,7.1,Warriors,CN Ackermann,C Jonker,T Shamsi,1,0,,,,,,"",""
+ball,2,7.2,Warriors,C Jonker,CN Ackermann,T Shamsi,1,0,,,,,,"",""
+ball,2,7.3,Warriors,CN Ackermann,C Jonker,T Shamsi,1,0,,,,,,"",""
+ball,2,7.4,Warriors,C Jonker,CN Ackermann,T Shamsi,4,0,,,,,,"",""
+ball,2,7.5,Warriors,C Jonker,CN Ackermann,T Shamsi,6,0,,,,,,"",""
+ball,2,7.6,Warriors,C Jonker,CN Ackermann,T Shamsi,1,0,,,,,,"",""
+ball,2,8.1,Warriors,C Jonker,CN Ackermann,CJ Dala,0,0,,,,,,"",""
+ball,2,8.2,Warriors,C Jonker,CN Ackermann,CJ Dala,0,0,,,,,,"",""
+ball,2,8.3,Warriors,C Jonker,CN Ackermann,CJ Dala,4,0,,,,,,"",""
+ball,2,8.4,Warriors,C Jonker,CN Ackermann,CJ Dala,1,0,,,,,,"",""
+ball,2,8.5,Warriors,CN Ackermann,C Jonker,CJ Dala,1,0,,,,,,"",""
+ball,2,8.6,Warriors,C Jonker,CN Ackermann,CJ Dala,0,0,,,,,,"",""
+ball,2,9.1,Warriors,CN Ackermann,C Jonker,T Shamsi,0,0,,,,,,"",""
+ball,2,9.2,Warriors,CN Ackermann,C Jonker,T Shamsi,1,0,,,,,,"",""
+ball,2,9.3,Warriors,C Jonker,CN Ackermann,T Shamsi,0,0,,,,,,"",""
+ball,2,9.4,Warriors,C Jonker,CN Ackermann,T Shamsi,2,0,,,,,,"",""
+ball,2,9.5,Warriors,C Jonker,CN Ackermann,T Shamsi,2,0,,,,,,"",""
+ball,2,9.6,Warriors,C Jonker,CN Ackermann,T Shamsi,0,0,,,,,,"",""
+ball,2,10.1,Warriors,CN Ackermann,C Jonker,CJ Dala,0,0,,,,,,"",""
+ball,2,10.2,Warriors,CN Ackermann,C Jonker,CJ Dala,1,0,,,,,,"",""
+ball,2,10.3,Warriors,C Jonker,CN Ackermann,CJ Dala,0,0,,,,,,"",""
+ball,2,10.4,Warriors,C Jonker,CN Ackermann,CJ Dala,0,0,,,,,,"",""
+ball,2,10.5,Warriors,C Jonker,CN Ackermann,CJ Dala,2,0,,,,,,"",""
+ball,2,10.6,Warriors,C Jonker,CN Ackermann,CJ Dala,1,0,,,,,,"",""
+ball,2,11.1,Warriors,C Jonker,CN Ackermann,T Shamsi,1,0,,,,,,"",""
+ball,2,11.2,Warriors,CN Ackermann,C Jonker,T Shamsi,6,0,,,,,,"",""
+ball,2,11.3,Warriors,CN Ackermann,C Jonker,T Shamsi,1,0,,,,,,"",""
+ball,2,11.4,Warriors,C Jonker,CN Ackermann,T Shamsi,0,0,,,,,,caught,C Jonker
+ball,2,11.5,Warriors,CN Ackermann,MQ Adams,T Shamsi,1,0,,,,,,"",""
+ball,2,11.6,Warriors,MQ Adams,CN Ackermann,T Shamsi,0,0,,,,,,"",""
+ball,2,12.1,Warriors,CN Ackermann,MQ Adams,L Ngidi,1,0,,,,,,"",""
+ball,2,12.2,Warriors,MQ Adams,CN Ackermann,L Ngidi,1,0,,,,,,"",""
+ball,2,12.3,Warriors,CN Ackermann,MQ Adams,L Ngidi,0,0,,,,,,"",""
+ball,2,12.4,Warriors,CN Ackermann,MQ Adams,L Ngidi,1,0,,,,,,"",""
+ball,2,12.5,Warriors,MQ Adams,CN Ackermann,L Ngidi,1,0,,,,,,"",""
+ball,2,12.6,Warriors,CN Ackermann,MQ Adams,L Ngidi,1,1,,1,,,,"",""
+ball,2,12.7,Warriors,MQ Adams,CN Ackermann,L Ngidi,0,0,,,,,,"",""
+ball,2,13.1,Warriors,CN Ackermann,MQ Adams,D Wiese,0,0,,,,,,"",""
+ball,2,13.2,Warriors,CN Ackermann,MQ Adams,D Wiese,6,0,,,,,,"",""
+ball,2,13.3,Warriors,CN Ackermann,MQ Adams,D Wiese,1,0,,,,,,"",""
+ball,2,13.4,Warriors,MQ Adams,CN Ackermann,D Wiese,0,0,,,,,,"",""
+ball,2,13.5,Warriors,MQ Adams,CN Ackermann,D Wiese,1,0,,,,,,"",""
+ball,2,13.6,Warriors,CN Ackermann,MQ Adams,D Wiese,0,1,,,,1,,"",""
+ball,2,14.1,Warriors,CN Ackermann,MQ Adams,CJ Dala,1,0,,,,,,"",""
+ball,2,14.2,Warriors,MQ Adams,CN Ackermann,CJ Dala,2,0,,,,,,"",""
+ball,2,14.3,Warriors,MQ Adams,CN Ackermann,CJ Dala,0,1,1,,,,,"",""
+ball,2,14.4,Warriors,MQ Adams,CN Ackermann,CJ Dala,0,0,,,,,,"",""
+ball,2,14.5,Warriors,MQ Adams,CN Ackermann,CJ Dala,0,0,,,,,,"",""
+ball,2,14.6,Warriors,MQ Adams,CN Ackermann,CJ Dala,4,0,,,,,,"",""
+ball,2,14.7,Warriors,MQ Adams,CN Ackermann,CJ Dala,1,0,,,,,,"",""
+ball,2,15.1,Warriors,MQ Adams,CN Ackermann,T Shamsi,2,0,,,,,,"",""
+ball,2,15.2,Warriors,MQ Adams,CN Ackermann,T Shamsi,1,0,,,,,,"",""
+ball,2,15.3,Warriors,CN Ackermann,MQ Adams,T Shamsi,0,1,,,,1,,"",""
+ball,2,15.4,Warriors,MQ Adams,CN Ackermann,T Shamsi,0,0,,,,,,"",""
+ball,2,15.5,Warriors,MQ Adams,CN Ackermann,T Shamsi,0,1,1,,,,,"",""
+ball,2,15.6,Warriors,MQ Adams,CN Ackermann,T Shamsi,4,0,,,,,,"",""
+ball,2,15.7,Warriors,MQ Adams,CN Ackermann,T Shamsi,0,0,,,,,,lbw,MQ Adams
+ball,2,16.1,Warriors,CN Ackermann,LC Ngoepe,L Ngidi,0,0,,,,,,"",""
+ball,2,16.2,Warriors,CN Ackermann,LC Ngoepe,L Ngidi,0,0,,,,,,caught,CN Ackermann
+ball,2,16.3,Warriors,SSB Magala,LC Ngoepe,L Ngidi,2,0,,,,,,"",""
+ball,2,16.4,Warriors,SSB Magala,LC Ngoepe,L Ngidi,1,0,,,,,,"",""
+ball,2,16.5,Warriors,LC Ngoepe,SSB Magala,L Ngidi,1,0,,,,,,"",""
+ball,2,16.6,Warriors,SSB Magala,LC Ngoepe,L Ngidi,0,0,,,,,,"",""
+ball,2,17.1,Warriors,LC Ngoepe,SSB Magala,D Wiese,1,0,,,,,,"",""
+ball,2,17.2,Warriors,SSB Magala,LC Ngoepe,D Wiese,1,0,,,,,,"",""
+ball,2,17.3,Warriors,LC Ngoepe,SSB Magala,D Wiese,0,0,,,,,,"",""
+ball,2,17.4,Warriors,LC Ngoepe,SSB Magala,D Wiese,1,0,,,,,,"",""
+ball,2,17.5,Warriors,SSB Magala,LC Ngoepe,D Wiese,0,0,,,,,,"",""
+ball,2,17.6,Warriors,SSB Magala,LC Ngoepe,D Wiese,6,0,,,,,,"",""
+ball,2,18.1,Warriors,LC Ngoepe,SSB Magala,CJ Dala,1,0,,,,,,"",""
+ball,2,18.2,Warriors,SSB Magala,LC Ngoepe,CJ Dala,1,0,,,,,,"",""
+ball,2,18.3,Warriors,LC Ngoepe,SSB Magala,CJ Dala,1,0,,,,,,"",""
+ball,2,18.4,Warriors,SSB Magala,LC Ngoepe,CJ Dala,0,0,,,,,,"",""
+ball,2,18.5,Warriors,SSB Magala,LC Ngoepe,CJ Dala,1,0,,,,,,"",""
+ball,2,18.6,Warriors,LC Ngoepe,SSB Magala,CJ Dala,0,1,1,,,,,"",""
+ball,2,18.7,Warriors,LC Ngoepe,SSB Magala,CJ Dala,1,0,,,,,,"",""
+ball,2,19.1,Warriors,LC Ngoepe,SSB Magala,MP Siboto,1,0,,,,,,"",""
+ball,2,19.2,Warriors,SSB Magala,LC Ngoepe,MP Siboto,0,0,,,,,,"",""
+ball,2,19.3,Warriors,SSB Magala,LC Ngoepe,MP Siboto,1,0,,,,,,"",""
+ball,2,19.4,Warriors,LC Ngoepe,SSB Magala,MP Siboto,1,0,,,,,,"",""
+ball,2,19.5,Warriors,SSB Magala,LC Ngoepe,MP Siboto,1,0,,,,,,"",""
+ball,2,19.6,Warriors,LC Ngoepe,SSB Magala,MP Siboto,0,1,1,,,,,"",""
+ball,2,19.7,Warriors,LC Ngoepe,SSB Magala,MP Siboto,0,0,,,,,,"",""

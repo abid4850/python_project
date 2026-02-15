@@ -1,0 +1,180 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Kent
+info,gender,male
+info,season,2024
+info,date,2024/07/07
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,MJ Saggers
+info,umpire,N Pratt
+info,match_referee,PM Such
+info,winner,Surrey
+info,winner_runs,5
+info,method,D/L
+info,player,Surrey,RS Patel
+info,player,Surrey,DP Sibley
+info,player,Surrey,LJ Evans
+info,player,Surrey,CJ Jordan
+info,player,Surrey,RJ Burns
+info,player,Surrey,J Clark
+info,player,Surrey,BBA Geddes
+info,player,Surrey,OFM Sykes
+info,player,Surrey,CT Steel
+info,player,Surrey,DJ Worrall
+info,player,Surrey,RJW Topley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,FIN Khushi
+info,player,Kent,TS Muyeye
+info,player,Kent,SW Billings
+info,player,Kent,TS Rogers
+info,player,Kent,JDM Evison
+info,player,Kent,JA Leaning
+info,player,Kent,MK O'Riordan
+info,player,Kent,G Stewart
+info,player,Kent,MW Parkinson
+info,player,Kent,NN Gilchrist
+info,registry,people,BBA Geddes,305c31f2
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Steel,5899dceb
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,G Stewart,a77472dc
+info,registry,people,J Clark,c672e80e
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDM Evison,00cada13
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MK O'Riordan,94db3502
+info,registry,people,MW Parkinson,19708692
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,NN Gilchrist,93cad673
+info,registry,people,OFM Sykes,0bde8443
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RS Patel,97905e64
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,TS Rogers,1b04e02b
+ball,1,0.1,Surrey,RS Patel,DP Sibley,G Stewart,1,0,,,,,,"",""
+ball,1,0.2,Surrey,DP Sibley,RS Patel,G Stewart,1,0,,,,,,"",""
+ball,1,0.3,Surrey,RS Patel,DP Sibley,G Stewart,0,0,,,,,,"",""
+ball,1,0.4,Surrey,RS Patel,DP Sibley,G Stewart,4,0,,,,,,"",""
+ball,1,0.5,Surrey,RS Patel,DP Sibley,G Stewart,0,0,,,,,,"",""
+ball,1,0.6,Surrey,RS Patel,DP Sibley,G Stewart,0,0,,,,,,caught,RS Patel
+ball,1,1.1,Surrey,DP Sibley,LJ Evans,TS Rogers,1,0,,,,,,"",""
+ball,1,1.2,Surrey,LJ Evans,DP Sibley,TS Rogers,0,0,,,,,,"",""
+ball,1,1.3,Surrey,LJ Evans,DP Sibley,TS Rogers,1,0,,,,,,"",""
+ball,1,1.4,Surrey,DP Sibley,LJ Evans,TS Rogers,1,0,,,,,,"",""
+ball,1,1.5,Surrey,LJ Evans,DP Sibley,TS Rogers,4,0,,,,,,"",""
+ball,1,1.6,Surrey,LJ Evans,DP Sibley,TS Rogers,1,0,,,,,,"",""
+ball,1,2.1,Surrey,LJ Evans,DP Sibley,NN Gilchrist,0,0,,,,,,"",""
+ball,1,2.2,Surrey,LJ Evans,DP Sibley,NN Gilchrist,6,0,,,,,,"",""
+ball,1,2.3,Surrey,LJ Evans,DP Sibley,NN Gilchrist,1,0,,,,,,"",""
+ball,1,2.4,Surrey,DP Sibley,LJ Evans,NN Gilchrist,4,0,,,,,,"",""
+ball,1,2.5,Surrey,DP Sibley,LJ Evans,NN Gilchrist,0,0,,,,,,"",""
+ball,1,2.6,Surrey,DP Sibley,LJ Evans,NN Gilchrist,0,2,,2,,,,"",""
+ball,1,2.7,Surrey,DP Sibley,LJ Evans,NN Gilchrist,1,0,,,,,,"",""
+ball,1,3.1,Surrey,DP Sibley,LJ Evans,MW Parkinson,0,0,,,,,,"",""
+ball,1,3.2,Surrey,DP Sibley,LJ Evans,MW Parkinson,1,0,,,,,,"",""
+ball,1,3.3,Surrey,LJ Evans,DP Sibley,MW Parkinson,1,0,,,,,,"",""
+ball,1,3.4,Surrey,DP Sibley,LJ Evans,MW Parkinson,1,0,,,,,,"",""
+ball,1,3.5,Surrey,LJ Evans,DP Sibley,MW Parkinson,1,0,,,,,,"",""
+ball,1,3.6,Surrey,DP Sibley,LJ Evans,MW Parkinson,1,0,,,,,,"",""
+ball,1,4.1,Surrey,DP Sibley,LJ Evans,MK O'Riordan,2,0,,,,,,"",""
+ball,1,4.2,Surrey,DP Sibley,LJ Evans,MK O'Riordan,0,1,,,,1,,"",""
+ball,1,4.3,Surrey,LJ Evans,DP Sibley,MK O'Riordan,2,0,,,,,,"",""
+ball,1,4.4,Surrey,LJ Evans,DP Sibley,MK O'Riordan,6,0,,,,,,"",""
+ball,1,4.5,Surrey,LJ Evans,DP Sibley,MK O'Riordan,2,0,,,,,,"",""
+ball,1,4.6,Surrey,LJ Evans,DP Sibley,MK O'Riordan,0,0,,,,,,caught,LJ Evans
+ball,1,5.1,Surrey,DP Sibley,CJ Jordan,MW Parkinson,1,0,,,,,,"",""
+ball,1,5.2,Surrey,CJ Jordan,DP Sibley,MW Parkinson,0,0,,,,,,"",""
+ball,1,5.3,Surrey,CJ Jordan,DP Sibley,MW Parkinson,0,0,,,,,,"",""
+ball,1,5.4,Surrey,CJ Jordan,DP Sibley,MW Parkinson,2,0,,,,,,"",""
+ball,1,5.5,Surrey,CJ Jordan,DP Sibley,MW Parkinson,1,0,,,,,,"",""
+ball,1,5.6,Surrey,DP Sibley,CJ Jordan,MW Parkinson,6,0,,,,,,"",""
+ball,1,6.1,Surrey,CJ Jordan,DP Sibley,JDM Evison,2,0,,,,,,"",""
+ball,1,6.2,Surrey,CJ Jordan,DP Sibley,JDM Evison,1,0,,,,,,"",""
+ball,1,6.3,Surrey,DP Sibley,CJ Jordan,JDM Evison,0,0,,,,,,caught,DP Sibley
+ball,1,6.4,Surrey,RJ Burns,CJ Jordan,JDM Evison,1,0,,,,,,"",""
+ball,1,6.5,Surrey,CJ Jordan,RJ Burns,JDM Evison,6,0,,,,,,"",""
+ball,1,6.6,Surrey,CJ Jordan,RJ Burns,JDM Evison,1,0,,,,,,"",""
+ball,1,7.1,Surrey,CJ Jordan,RJ Burns,TS Rogers,0,1,1,,,,,"",""
+ball,1,7.2,Surrey,CJ Jordan,RJ Burns,TS Rogers,0,1,,,,1,,"",""
+ball,1,7.3,Surrey,RJ Burns,CJ Jordan,TS Rogers,2,0,,,,,,"",""
+ball,1,7.4,Surrey,RJ Burns,CJ Jordan,TS Rogers,0,0,,,,,,"",""
+ball,1,7.5,Surrey,RJ Burns,CJ Jordan,TS Rogers,0,0,,,,,,"",""
+ball,1,7.6,Surrey,RJ Burns,CJ Jordan,TS Rogers,0,0,,,,,,"",""
+ball,1,7.7,Surrey,RJ Burns,CJ Jordan,TS Rogers,0,0,,,,,,"",""
+ball,1,8.1,Surrey,CJ Jordan,RJ Burns,NN Gilchrist,1,0,,,,,,"",""
+ball,1,8.2,Surrey,RJ Burns,CJ Jordan,NN Gilchrist,6,0,,,,,,"",""
+ball,1,8.3,Surrey,RJ Burns,CJ Jordan,NN Gilchrist,1,0,,,,,,"",""
+ball,1,8.4,Surrey,CJ Jordan,RJ Burns,NN Gilchrist,0,4,,,,4,,"",""
+ball,1,8.5,Surrey,CJ Jordan,RJ Burns,NN Gilchrist,0,0,,,,,,caught,CJ Jordan
+ball,1,8.6,Surrey,J Clark,RJ Burns,NN Gilchrist,1,0,,,,,,"",""
+ball,1,9.1,Surrey,J Clark,RJ Burns,G Stewart,4,0,,,,,,"",""
+ball,1,9.2,Surrey,J Clark,RJ Burns,G Stewart,2,0,,,,,,"",""
+ball,1,9.3,Surrey,J Clark,RJ Burns,G Stewart,0,1,1,,,,,"",""
+ball,1,9.4,Surrey,J Clark,RJ Burns,G Stewart,0,1,1,,,,,"",""
+ball,1,9.5,Surrey,J Clark,RJ Burns,G Stewart,0,0,,,,,,caught,J Clark
+ball,1,9.6,Surrey,BBA Geddes,RJ Burns,G Stewart,1,0,,,,,,"",""
+ball,1,9.7,Surrey,RJ Burns,BBA Geddes,G Stewart,1,0,,,,,,"",""
+ball,1,9.8,Surrey,BBA Geddes,RJ Burns,G Stewart,6,2,,2,,,,"",""
+ball,1,9.9,Surrey,BBA Geddes,RJ Burns,G Stewart,0,1,,,1,,,"",""
+ball,2,0.1,Kent,DJ Bell-Drummond,FIN Khushi,RJW Topley,0,0,,,,,,"",""
+ball,2,0.2,Kent,DJ Bell-Drummond,FIN Khushi,RJW Topley,0,0,,,,,,caught,DJ Bell-Drummond
+ball,2,0.3,Kent,TS Muyeye,FIN Khushi,RJW Topley,4,0,,,,,,"",""
+ball,2,0.4,Kent,TS Muyeye,FIN Khushi,RJW Topley,1,0,,,,,,"",""
+ball,2,0.5,Kent,FIN Khushi,TS Muyeye,RJW Topley,1,0,,,,,,"",""
+ball,2,0.6,Kent,TS Muyeye,FIN Khushi,RJW Topley,1,0,,,,,,"",""
+ball,2,1.1,Kent,TS Muyeye,FIN Khushi,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.2,Kent,TS Muyeye,FIN Khushi,DJ Worrall,4,0,,,,,,"",""
+ball,2,1.3,Kent,TS Muyeye,FIN Khushi,DJ Worrall,1,0,,,,,,"",""
+ball,2,1.4,Kent,FIN Khushi,TS Muyeye,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.5,Kent,FIN Khushi,TS Muyeye,DJ Worrall,1,0,,,,,,"",""
+ball,2,1.6,Kent,TS Muyeye,FIN Khushi,DJ Worrall,6,0,,,,,,"",""
+ball,2,2.1,Kent,FIN Khushi,TS Muyeye,J Clark,2,0,,,,,,"",""
+ball,2,2.2,Kent,FIN Khushi,TS Muyeye,J Clark,0,0,,,,,,"",""
+ball,2,2.3,Kent,FIN Khushi,TS Muyeye,J Clark,1,0,,,,,,"",""
+ball,2,2.4,Kent,TS Muyeye,FIN Khushi,J Clark,2,0,,,,,,"",""
+ball,2,2.5,Kent,TS Muyeye,FIN Khushi,J Clark,0,0,,,,,,"",""
+ball,2,2.6,Kent,TS Muyeye,FIN Khushi,J Clark,1,0,,,,,,"",""
+ball,2,3.1,Kent,TS Muyeye,FIN Khushi,CT Steel,1,0,,,,,,"",""
+ball,2,3.2,Kent,FIN Khushi,TS Muyeye,CT Steel,1,0,,,,,,"",""
+ball,2,3.3,Kent,TS Muyeye,FIN Khushi,CT Steel,1,0,,,,,,"",""
+ball,2,3.4,Kent,FIN Khushi,TS Muyeye,CT Steel,1,0,,,,,,"",""
+ball,2,3.5,Kent,TS Muyeye,FIN Khushi,CT Steel,0,0,,,,,,bowled,TS Muyeye
+ball,2,3.6,Kent,SW Billings,FIN Khushi,CT Steel,0,0,,,,,,"",""
+ball,2,4.1,Kent,FIN Khushi,SW Billings,CJ Jordan,6,0,,,,,,"",""
+ball,2,4.2,Kent,FIN Khushi,SW Billings,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.3,Kent,FIN Khushi,SW Billings,CJ Jordan,1,0,,,,,,"",""
+ball,2,4.4,Kent,SW Billings,FIN Khushi,CJ Jordan,4,0,,,,,,"",""
+ball,2,4.5,Kent,SW Billings,FIN Khushi,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.6,Kent,SW Billings,FIN Khushi,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.1,Kent,FIN Khushi,SW Billings,DJ Worrall,2,0,,,,,,"",""
+ball,2,5.2,Kent,FIN Khushi,SW Billings,DJ Worrall,4,0,,,,,,"",""
+ball,2,5.3,Kent,FIN Khushi,SW Billings,DJ Worrall,2,0,,,,,,"",""
+ball,2,5.4,Kent,FIN Khushi,SW Billings,DJ Worrall,1,0,,,,,,"",""
+ball,2,5.5,Kent,SW Billings,FIN Khushi,DJ Worrall,0,0,,,,,,"",""
+ball,2,5.6,Kent,SW Billings,FIN Khushi,DJ Worrall,1,0,,,,,,"",""
+ball,2,6.1,Kent,SW Billings,FIN Khushi,RJW Topley,6,0,,,,,,"",""
+ball,2,6.2,Kent,SW Billings,FIN Khushi,RJW Topley,1,0,,,,,,"",""
+ball,2,6.3,Kent,FIN Khushi,SW Billings,RJW Topley,0,1,1,,,,,"",""
+ball,2,6.4,Kent,FIN Khushi,SW Billings,RJW Topley,6,0,,,,,,"",""
+ball,2,6.5,Kent,FIN Khushi,SW Billings,RJW Topley,2,0,,,,,,"",""
+ball,2,6.6,Kent,FIN Khushi,SW Billings,RJW Topley,4,0,,,,,,"",""
+ball,2,6.7,Kent,FIN Khushi,SW Billings,RJW Topley,0,0,,,,,,caught,FIN Khushi
+ball,2,7.1,Kent,SW Billings,TS Rogers,CJ Jordan,0,3,,2,,1,,"",""
+ball,2,7.2,Kent,TS Rogers,SW Billings,CJ Jordan,0,0,,,,,,"",""
+ball,2,7.3,Kent,TS Rogers,SW Billings,CJ Jordan,4,0,,,,,,"",""
+ball,2,7.4,Kent,TS Rogers,SW Billings,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.5,Kent,SW Billings,TS Rogers,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.6,Kent,TS Rogers,SW Billings,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.7,Kent,SW Billings,TS Rogers,CJ Jordan,1,0,,,,,,"",""

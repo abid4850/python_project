@@ -1,0 +1,285 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Perth Scorchers
+info,gender,female
+info,season,2018/19
+info,date,2018/12/16
+info,event,Women's Big Bash League
+info,match_number,16
+info,venue,Casey Fields No. 4
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,KM Mack
+info,umpire,D Ireland
+info,umpire,Mattis van Eck
+info,match_referee,Damien Herft
+info,winner,Melbourne Stars
+info,winner_wickets,4
+info,player,Perth Scorchers,AE Jones
+info,player,Perth Scorchers,EJ Villani
+info,player,Perth Scorchers,NE Bolton
+info,player,Perth Scorchers,H Graham
+info,player,Perth Scorchers,LK Ebsary
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,KL Cross
+info,player,Perth Scorchers,HNK Jensen
+info,player,Perth Scorchers,HM Brennan
+info,player,Perth Scorchers,T Peschel
+info,player,Perth Scorchers,EL King
+info,player,Melbourne Stars,L Lee
+info,player,Melbourne Stars,AR Reakes
+info,player,Melbourne Stars,KM Mack
+info,player,Melbourne Stars,M du Preez
+info,player,Melbourne Stars,GA Elwiss
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,A King
+info,player,Melbourne Stars,NM Hancock
+info,player,Melbourne Stars,EA Osborne
+info,player,Melbourne Stars,KM Beams
+info,player,Melbourne Stars,HL Ferling
+info,registry,people,A King,83558266
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AR Reakes,13781d43
+info,registry,people,C Piparo,276f3dde
+info,registry,people,D Ireland,9b4fc7b9
+info,registry,people,Damien Herft,aa489c6e
+info,registry,people,EA Osborne,fe731c62
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,EL King,2708b41c
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,H Graham,99812d10
+info,registry,people,HL Ferling,a594a6e0
+info,registry,people,HM Brennan,22fad2b6
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,KL Cross,1ade138e
+info,registry,people,KM Beams,fa8f9dc3
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,L Lee,7b01ce83
+info,registry,people,LK Ebsary,884375bf
+info,registry,people,M du Preez,e219f17a
+info,registry,people,Mattis van Eck,bf1a68c1
+info,registry,people,NE Bolton,dd883071
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,T Peschel,923402d8
+ball,1,0.1,Perth Scorchers,AE Jones,EJ Villani,A Sutherland,0,0,,,,,,"",""
+ball,1,0.2,Perth Scorchers,AE Jones,EJ Villani,A Sutherland,1,0,,,,,,"",""
+ball,1,0.3,Perth Scorchers,EJ Villani,AE Jones,A Sutherland,0,0,,,,,,"",""
+ball,1,0.4,Perth Scorchers,EJ Villani,AE Jones,A Sutherland,1,0,,,,,,"",""
+ball,1,0.5,Perth Scorchers,AE Jones,EJ Villani,A Sutherland,0,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,AE Jones,EJ Villani,A Sutherland,0,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,EJ Villani,AE Jones,HL Ferling,2,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,EJ Villani,AE Jones,HL Ferling,1,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,AE Jones,EJ Villani,HL Ferling,0,0,,,,,,"",""
+ball,1,1.4,Perth Scorchers,AE Jones,EJ Villani,HL Ferling,4,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,AE Jones,EJ Villani,HL Ferling,0,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,AE Jones,EJ Villani,HL Ferling,0,0,,,,,,bowled,AE Jones
+ball,1,2.1,Perth Scorchers,EJ Villani,NE Bolton,GA Elwiss,0,0,,,,,,"",""
+ball,1,2.2,Perth Scorchers,EJ Villani,NE Bolton,GA Elwiss,1,0,,,,,,"",""
+ball,1,2.3,Perth Scorchers,NE Bolton,EJ Villani,GA Elwiss,1,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,EJ Villani,NE Bolton,GA Elwiss,0,0,,,,,,lbw,EJ Villani
+ball,1,2.5,Perth Scorchers,H Graham,NE Bolton,GA Elwiss,0,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,H Graham,NE Bolton,GA Elwiss,0,0,,,,,,"",""
+ball,1,3.1,Perth Scorchers,NE Bolton,H Graham,NM Hancock,0,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,NE Bolton,H Graham,NM Hancock,1,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,H Graham,NE Bolton,NM Hancock,0,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,H Graham,NE Bolton,NM Hancock,0,0,,,,,,lbw,H Graham
+ball,1,3.5,Perth Scorchers,LK Ebsary,NE Bolton,NM Hancock,0,2,,,2,,,"",""
+ball,1,3.6,Perth Scorchers,LK Ebsary,NE Bolton,NM Hancock,0,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,0,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,0,0,,,,,,"",""
+ball,1,4.3,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,0,0,,,,,,"",""
+ball,1,4.4,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,0,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,4,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,0,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,LK Ebsary,NE Bolton,NM Hancock,0,0,,,,,,"",""
+ball,1,5.2,Perth Scorchers,LK Ebsary,NE Bolton,NM Hancock,1,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,NE Bolton,LK Ebsary,NM Hancock,0,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,NE Bolton,LK Ebsary,NM Hancock,0,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,NE Bolton,LK Ebsary,NM Hancock,1,0,,,,,,"",""
+ball,1,5.6,Perth Scorchers,LK Ebsary,NE Bolton,NM Hancock,0,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,0,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,4,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,0,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,1,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,LK Ebsary,NE Bolton,A Sutherland,0,2,2,,,,,"",""
+ball,1,6.6,Perth Scorchers,NE Bolton,LK Ebsary,A Sutherland,1,0,,,,,,"",""
+ball,1,6.7,Perth Scorchers,LK Ebsary,NE Bolton,A Sutherland,0,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,NE Bolton,LK Ebsary,HL Ferling,2,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,NE Bolton,LK Ebsary,HL Ferling,0,1,1,,,,,"",""
+ball,1,7.3,Perth Scorchers,NE Bolton,LK Ebsary,HL Ferling,1,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,LK Ebsary,NE Bolton,HL Ferling,1,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,NE Bolton,LK Ebsary,HL Ferling,1,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,LK Ebsary,NE Bolton,HL Ferling,1,0,,,,,,"",""
+ball,1,7.7,Perth Scorchers,NE Bolton,LK Ebsary,HL Ferling,0,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,LK Ebsary,NE Bolton,EA Osborne,0,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,LK Ebsary,NE Bolton,EA Osborne,2,0,,,,,,"",""
+ball,1,8.3,Perth Scorchers,LK Ebsary,NE Bolton,EA Osborne,0,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,LK Ebsary,NE Bolton,EA Osborne,1,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,NE Bolton,LK Ebsary,EA Osborne,1,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,LK Ebsary,NE Bolton,EA Osborne,0,0,,,,,,"",""
+ball,1,9.1,Perth Scorchers,NE Bolton,LK Ebsary,KM Beams,1,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,LK Ebsary,NE Bolton,KM Beams,0,0,,,,,,bowled,LK Ebsary
+ball,1,9.3,Perth Scorchers,C Piparo,NE Bolton,KM Beams,0,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,C Piparo,NE Bolton,KM Beams,0,1,1,,,,,"",""
+ball,1,9.5,Perth Scorchers,C Piparo,NE Bolton,KM Beams,0,0,,,,,,"",""
+ball,1,9.6,Perth Scorchers,C Piparo,NE Bolton,KM Beams,1,0,,,,,,"",""
+ball,1,9.7,Perth Scorchers,NE Bolton,C Piparo,KM Beams,0,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,C Piparo,NE Bolton,EA Osborne,0,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,C Piparo,NE Bolton,EA Osborne,0,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,C Piparo,NE Bolton,EA Osborne,0,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,C Piparo,NE Bolton,EA Osborne,1,0,,,,,,"",""
+ball,1,10.5,Perth Scorchers,NE Bolton,C Piparo,EA Osborne,0,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,NE Bolton,C Piparo,EA Osborne,1,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,NE Bolton,C Piparo,KM Beams,1,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,C Piparo,NE Bolton,KM Beams,0,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,C Piparo,NE Bolton,KM Beams,1,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,NE Bolton,C Piparo,KM Beams,1,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,C Piparo,NE Bolton,KM Beams,0,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,C Piparo,NE Bolton,KM Beams,0,0,,,,,,lbw,C Piparo
+ball,1,12.1,Perth Scorchers,NE Bolton,KL Cross,EA Osborne,0,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,NE Bolton,KL Cross,EA Osborne,0,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,NE Bolton,KL Cross,EA Osborne,0,1,,,,1,,"",""
+ball,1,12.4,Perth Scorchers,KL Cross,NE Bolton,EA Osborne,0,0,,,,,,"",""
+ball,1,12.5,Perth Scorchers,KL Cross,NE Bolton,EA Osborne,1,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,NE Bolton,KL Cross,EA Osborne,0,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,KL Cross,NE Bolton,NM Hancock,1,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,NE Bolton,KL Cross,NM Hancock,1,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,KL Cross,NE Bolton,NM Hancock,0,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,KL Cross,NE Bolton,NM Hancock,0,0,,,,,,"",""
+ball,1,13.5,Perth Scorchers,KL Cross,NE Bolton,NM Hancock,0,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,KL Cross,NE Bolton,NM Hancock,1,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,KL Cross,NE Bolton,EA Osborne,0,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,KL Cross,NE Bolton,EA Osborne,1,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,NE Bolton,KL Cross,EA Osborne,1,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,KL Cross,NE Bolton,EA Osborne,4,0,,,,,,"",""
+ball,1,14.5,Perth Scorchers,KL Cross,NE Bolton,EA Osborne,1,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,NE Bolton,KL Cross,EA Osborne,1,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,NE Bolton,KL Cross,KM Beams,4,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,NE Bolton,KL Cross,KM Beams,1,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,KL Cross,NE Bolton,KM Beams,0,0,,,,,,bowled,KL Cross
+ball,1,15.4,Perth Scorchers,HNK Jensen,NE Bolton,KM Beams,0,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,HNK Jensen,NE Bolton,KM Beams,0,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,HNK Jensen,NE Bolton,KM Beams,2,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,NE Bolton,HNK Jensen,GA Elwiss,1,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,HNK Jensen,NE Bolton,GA Elwiss,1,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,NE Bolton,HNK Jensen,GA Elwiss,1,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,HNK Jensen,NE Bolton,GA Elwiss,0,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,HNK Jensen,NE Bolton,GA Elwiss,1,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,NE Bolton,HNK Jensen,GA Elwiss,1,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,NE Bolton,HNK Jensen,NM Hancock,1,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,HNK Jensen,NE Bolton,NM Hancock,1,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,NE Bolton,HNK Jensen,NM Hancock,1,0,,,,,,"",""
+ball,1,17.4,Perth Scorchers,HNK Jensen,NE Bolton,NM Hancock,1,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,NE Bolton,HNK Jensen,NM Hancock,1,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,HNK Jensen,NE Bolton,NM Hancock,4,0,,,,,,"",""
+ball,1,18.1,Perth Scorchers,NE Bolton,HNK Jensen,GA Elwiss,0,0,,,,,,bowled,NE Bolton
+ball,1,18.2,Perth Scorchers,HM Brennan,HNK Jensen,GA Elwiss,1,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,HNK Jensen,HM Brennan,GA Elwiss,0,0,,,,,,"",""
+ball,1,18.4,Perth Scorchers,HNK Jensen,HM Brennan,GA Elwiss,1,0,,,,,,"",""
+ball,1,18.5,Perth Scorchers,HM Brennan,HNK Jensen,GA Elwiss,1,0,,,,,,"",""
+ball,1,18.6,Perth Scorchers,HNK Jensen,HM Brennan,GA Elwiss,0,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,HM Brennan,HNK Jensen,A Sutherland,0,0,,,,,,"",""
+ball,1,19.2,Perth Scorchers,HM Brennan,HNK Jensen,A Sutherland,1,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,HNK Jensen,HM Brennan,A Sutherland,0,0,,,,,,"",""
+ball,1,19.4,Perth Scorchers,HNK Jensen,HM Brennan,A Sutherland,0,0,,,,,,"",""
+ball,1,19.5,Perth Scorchers,HNK Jensen,HM Brennan,A Sutherland,1,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,HM Brennan,HNK Jensen,A Sutherland,4,0,,,,,,"",""
+ball,2,0.1,Melbourne Stars,L Lee,AR Reakes,KL Cross,2,0,,,,,,"",""
+ball,2,0.2,Melbourne Stars,L Lee,AR Reakes,KL Cross,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,L Lee,AR Reakes,KL Cross,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,L Lee,AR Reakes,KL Cross,4,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,L Lee,AR Reakes,KL Cross,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,L Lee,AR Reakes,KL Cross,2,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,AR Reakes,L Lee,HNK Jensen,1,0,,,,,,"",""
+ball,2,1.2,Melbourne Stars,L Lee,AR Reakes,HNK Jensen,1,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,AR Reakes,L Lee,HNK Jensen,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Stars,AR Reakes,L Lee,HNK Jensen,0,0,,,,,,lbw,AR Reakes
+ball,2,1.5,Melbourne Stars,KM Mack,L Lee,HNK Jensen,2,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,KM Mack,L Lee,HNK Jensen,0,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,L Lee,KM Mack,HM Brennan,1,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,KM Mack,L Lee,HM Brennan,1,0,,,,,,"",""
+ball,2,2.3,Melbourne Stars,L Lee,KM Mack,HM Brennan,4,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,L Lee,KM Mack,HM Brennan,0,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,L Lee,KM Mack,HM Brennan,2,0,,,,,,"",""
+ball,2,2.6,Melbourne Stars,L Lee,KM Mack,HM Brennan,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,KM Mack,L Lee,HNK Jensen,0,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,KM Mack,L Lee,HNK Jensen,4,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,KM Mack,L Lee,HNK Jensen,3,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,L Lee,KM Mack,HNK Jensen,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,L Lee,KM Mack,HNK Jensen,4,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,L Lee,KM Mack,HNK Jensen,0,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,KM Mack,L Lee,H Graham,1,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,L Lee,KM Mack,H Graham,0,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,L Lee,KM Mack,H Graham,2,0,,,,,,"",""
+ball,2,4.4,Melbourne Stars,L Lee,KM Mack,H Graham,4,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,L Lee,KM Mack,H Graham,0,0,,,,,,stumped,L Lee
+ball,2,4.6,Melbourne Stars,M du Preez,KM Mack,H Graham,0,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,KM Mack,M du Preez,KL Cross,2,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,KM Mack,M du Preez,KL Cross,0,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,KM Mack,M du Preez,KL Cross,1,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,M du Preez,KM Mack,KL Cross,0,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,M du Preez,KM Mack,KL Cross,0,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,M du Preez,KM Mack,KL Cross,4,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,KM Mack,M du Preez,EL King,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,M du Preez,KM Mack,EL King,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,KM Mack,M du Preez,EL King,0,0,,,,,,"",""
+ball,2,6.4,Melbourne Stars,KM Mack,M du Preez,EL King,1,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,M du Preez,KM Mack,EL King,1,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,KM Mack,M du Preez,EL King,0,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,M du Preez,KM Mack,H Graham,0,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,M du Preez,KM Mack,H Graham,4,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,M du Preez,KM Mack,H Graham,0,0,,,,,,caught,M du Preez
+ball,2,7.4,Melbourne Stars,KM Mack,GA Elwiss,H Graham,0,0,,,,,,"",""
+ball,2,7.5,Melbourne Stars,KM Mack,GA Elwiss,H Graham,4,0,,,,,,"",""
+ball,2,7.6,Melbourne Stars,KM Mack,GA Elwiss,H Graham,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,KM Mack,GA Elwiss,EL King,0,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,KM Mack,GA Elwiss,EL King,1,0,,,,,,"",""
+ball,2,8.3,Melbourne Stars,GA Elwiss,KM Mack,EL King,4,0,,,,,,"",""
+ball,2,8.4,Melbourne Stars,GA Elwiss,KM Mack,EL King,0,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,GA Elwiss,KM Mack,EL King,0,0,,,,,,"",""
+ball,2,8.6,Melbourne Stars,GA Elwiss,KM Mack,EL King,0,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,KM Mack,GA Elwiss,H Graham,0,0,,,,,,"",""
+ball,2,9.2,Melbourne Stars,KM Mack,GA Elwiss,H Graham,0,0,,,,,,"",""
+ball,2,9.3,Melbourne Stars,KM Mack,GA Elwiss,H Graham,0,1,1,,,,,"",""
+ball,2,9.4,Melbourne Stars,KM Mack,GA Elwiss,H Graham,0,0,,,,,,"",""
+ball,2,9.5,Melbourne Stars,KM Mack,GA Elwiss,H Graham,0,0,,,,,,"",""
+ball,2,9.6,Melbourne Stars,KM Mack,GA Elwiss,H Graham,1,0,,,,,,"",""
+ball,2,9.7,Melbourne Stars,GA Elwiss,KM Mack,H Graham,0,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,KM Mack,GA Elwiss,T Peschel,0,1,1,,,,,"",""
+ball,2,10.2,Melbourne Stars,KM Mack,GA Elwiss,T Peschel,0,0,,,,,,"",""
+ball,2,10.3,Melbourne Stars,KM Mack,GA Elwiss,T Peschel,4,0,,,,,,"",""
+ball,2,10.4,Melbourne Stars,KM Mack,GA Elwiss,T Peschel,2,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,KM Mack,GA Elwiss,T Peschel,0,0,,,,,,"",""
+ball,2,10.6,Melbourne Stars,KM Mack,GA Elwiss,T Peschel,0,0,,,,,,"",""
+ball,2,10.7,Melbourne Stars,KM Mack,GA Elwiss,T Peschel,4,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,GA Elwiss,KM Mack,HNK Jensen,0,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,GA Elwiss,KM Mack,HNK Jensen,1,0,,,,,,"",""
+ball,2,11.3,Melbourne Stars,KM Mack,GA Elwiss,HNK Jensen,0,0,,,,,,caught,KM Mack
+ball,2,11.4,Melbourne Stars,A Sutherland,GA Elwiss,HNK Jensen,0,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,A Sutherland,GA Elwiss,HNK Jensen,0,0,,,,,,"",""
+ball,2,11.6,Melbourne Stars,A Sutherland,GA Elwiss,HNK Jensen,0,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,GA Elwiss,A Sutherland,EL King,0,0,,,,,,"",""
+ball,2,12.2,Melbourne Stars,GA Elwiss,A Sutherland,EL King,0,0,,,,,,"",""
+ball,2,12.3,Melbourne Stars,GA Elwiss,A Sutherland,EL King,0,0,,,,,,"",""
+ball,2,12.4,Melbourne Stars,GA Elwiss,A Sutherland,EL King,2,0,,,,,,"",""
+ball,2,12.5,Melbourne Stars,GA Elwiss,A Sutherland,EL King,4,0,,,,,,"",""
+ball,2,12.6,Melbourne Stars,GA Elwiss,A Sutherland,EL King,0,0,,,,,,"",""
+ball,2,13.1,Melbourne Stars,A Sutherland,GA Elwiss,H Graham,1,0,,,,,,"",""
+ball,2,13.2,Melbourne Stars,GA Elwiss,A Sutherland,H Graham,1,0,,,,,,"",""
+ball,2,13.3,Melbourne Stars,A Sutherland,GA Elwiss,H Graham,0,0,,,,,,"",""
+ball,2,13.4,Melbourne Stars,A Sutherland,GA Elwiss,H Graham,0,0,,,,,,"",""
+ball,2,13.5,Melbourne Stars,A Sutherland,GA Elwiss,H Graham,0,0,,,,,,run out,A Sutherland
+ball,2,13.6,Melbourne Stars,A King,GA Elwiss,H Graham,1,0,,,,,,"",""
+ball,2,14.1,Melbourne Stars,A King,GA Elwiss,EL King,0,0,,,,,,"",""
+ball,2,14.2,Melbourne Stars,A King,GA Elwiss,EL King,2,0,,,,,,"",""
+ball,2,14.3,Melbourne Stars,A King,GA Elwiss,EL King,0,0,,,,,,run out,A King
+ball,2,14.4,Melbourne Stars,NM Hancock,GA Elwiss,EL King,0,0,,,,,,"",""
+ball,2,14.5,Melbourne Stars,NM Hancock,GA Elwiss,EL King,0,1,1,,,,,"",""
+ball,2,14.6,Melbourne Stars,NM Hancock,GA Elwiss,EL King,0,0,,,,,,"",""
+ball,2,14.7,Melbourne Stars,NM Hancock,GA Elwiss,EL King,0,0,,,,,,"",""
+ball,2,15.1,Melbourne Stars,GA Elwiss,NM Hancock,KL Cross,0,0,,,,,,"",""
+ball,2,15.2,Melbourne Stars,GA Elwiss,NM Hancock,KL Cross,1,0,,,,,,"",""
+ball,2,15.3,Melbourne Stars,NM Hancock,GA Elwiss,KL Cross,1,0,,,,,,"",""

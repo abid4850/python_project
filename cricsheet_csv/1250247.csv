@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Essex
+info,gender,male
+info,season,2021
+info,date,2021/06/11
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Essex
+info,toss_decision,field
+info,player_of_match,CP Wood
+info,umpire,GD Lloyd
+info,umpire,PR Pollard
+info,match_referee,AJ Swann
+info,winner,Hampshire
+info,winner_runs,13
+info,player,Hampshire,JM Vince
+info,player,Hampshire,DJM Short
+info,player,Hampshire,TP Alsop
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,LD McManus
+info,player,Hampshire,IG Holland
+info,player,Hampshire,CP Wood
+info,player,Hampshire,MS Crane
+info,player,Hampshire,BTJ Wheal
+info,player,Essex,WEL Buttleman
+info,player,Essex,T Westley
+info,player,Essex,MS Pepper
+info,player,Essex,PI Walter
+info,player,Essex,RN ten Doeschate
+info,player,Essex,JDS Neesham
+info,player,Essex,SR Harmer
+info,player,Essex,ASS Nijjar
+info,player,Essex,JH Plom
+info,player,Essex,SJ Cook
+info,player,Essex,JA Porter
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DJM Short,1a156c88
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,IG Holland,4167f30b
+info,registry,people,JA Porter,5b6d248a
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JH Plom,23f2143b
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,RN ten Doeschate,4ec07775
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Westley,25a42048
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,WEL Buttleman,e855546b
+ball,1,0.1,Hampshire,JM Vince,DJM Short,ASS Nijjar,0,0,,,,,,"",""
+ball,1,0.2,Hampshire,JM Vince,DJM Short,ASS Nijjar,4,0,,,,,,"",""
+ball,1,0.3,Hampshire,JM Vince,DJM Short,ASS Nijjar,0,0,,,,,,"",""
+ball,1,0.4,Hampshire,JM Vince,DJM Short,ASS Nijjar,0,0,,,,,,"",""
+ball,1,0.5,Hampshire,JM Vince,DJM Short,ASS Nijjar,0,0,,,,,,"",""
+ball,1,0.6,Hampshire,JM Vince,DJM Short,ASS Nijjar,0,0,,,,,,"",""
+ball,1,1.1,Hampshire,DJM Short,JM Vince,JA Porter,0,0,,,,,,"",""
+ball,1,1.2,Hampshire,DJM Short,JM Vince,JA Porter,1,0,,,,,,"",""
+ball,1,1.3,Hampshire,JM Vince,DJM Short,JA Porter,0,0,,,,,,"",""
+ball,1,1.4,Hampshire,JM Vince,DJM Short,JA Porter,2,0,,,,,,"",""
+ball,1,1.5,Hampshire,JM Vince,DJM Short,JA Porter,4,0,,,,,,"",""
+ball,1,1.6,Hampshire,JM Vince,DJM Short,JA Porter,0,0,,,,,,"",""
+ball,1,2.1,Hampshire,DJM Short,JM Vince,JH Plom,4,0,,,,,,"",""
+ball,1,2.2,Hampshire,DJM Short,JM Vince,JH Plom,0,1,,,,1,,"",""
+ball,1,2.3,Hampshire,JM Vince,DJM Short,JH Plom,0,0,,,,,,"",""
+ball,1,2.4,Hampshire,JM Vince,DJM Short,JH Plom,1,0,,,,,,"",""
+ball,1,2.5,Hampshire,DJM Short,JM Vince,JH Plom,0,0,,,,,,"",""
+ball,1,2.6,Hampshire,DJM Short,JM Vince,JH Plom,0,0,,,,,,"",""
+ball,1,3.1,Hampshire,JM Vince,DJM Short,SJ Cook,0,0,,,,,,"",""
+ball,1,3.2,Hampshire,JM Vince,DJM Short,SJ Cook,1,0,,,,,,"",""
+ball,1,3.3,Hampshire,DJM Short,JM Vince,SJ Cook,4,0,,,,,,"",""
+ball,1,3.4,Hampshire,DJM Short,JM Vince,SJ Cook,4,0,,,,,,"",""
+ball,1,3.5,Hampshire,DJM Short,JM Vince,SJ Cook,0,0,,,,,,"",""
+ball,1,3.6,Hampshire,DJM Short,JM Vince,SJ Cook,0,0,,,,,,"",""
+ball,1,4.1,Hampshire,JM Vince,DJM Short,JA Porter,4,0,,,,,,"",""
+ball,1,4.2,Hampshire,JM Vince,DJM Short,JA Porter,0,0,,,,,,"",""
+ball,1,4.3,Hampshire,JM Vince,DJM Short,JA Porter,0,0,,,,,,"",""
+ball,1,4.4,Hampshire,JM Vince,DJM Short,JA Porter,2,0,,,,,,"",""
+ball,1,4.5,Hampshire,JM Vince,DJM Short,JA Porter,4,0,,,,,,"",""
+ball,1,4.6,Hampshire,JM Vince,DJM Short,JA Porter,1,0,,,,,,"",""
+ball,1,5.1,Hampshire,JM Vince,DJM Short,SJ Cook,0,0,,,,,,"",""
+ball,1,5.2,Hampshire,JM Vince,DJM Short,SJ Cook,0,0,,,,,,caught,JM Vince
+ball,1,5.3,Hampshire,TP Alsop,DJM Short,SJ Cook,0,0,,,,,,"",""
+ball,1,5.4,Hampshire,TP Alsop,DJM Short,SJ Cook,1,0,,,,,,"",""
+ball,1,5.5,Hampshire,DJM Short,TP Alsop,SJ Cook,0,0,,,,,,"",""
+ball,1,5.6,Hampshire,DJM Short,TP Alsop,SJ Cook,0,1,,,,1,,"",""
+ball,1,6.1,Hampshire,DJM Short,TP Alsop,ASS Nijjar,2,0,,,,,,"",""
+ball,1,6.2,Hampshire,DJM Short,TP Alsop,ASS Nijjar,4,0,,,,,,"",""
+ball,1,6.3,Hampshire,DJM Short,TP Alsop,ASS Nijjar,4,0,,,,,,"",""
+ball,1,6.4,Hampshire,DJM Short,TP Alsop,ASS Nijjar,0,0,,,,,,"",""
+ball,1,6.5,Hampshire,DJM Short,TP Alsop,ASS Nijjar,1,0,,,,,,"",""
+ball,1,6.6,Hampshire,TP Alsop,DJM Short,ASS Nijjar,2,0,,,,,,"",""
+ball,1,7.1,Hampshire,DJM Short,TP Alsop,SR Harmer,1,0,,,,,,"",""
+ball,1,7.2,Hampshire,TP Alsop,DJM Short,SR Harmer,0,0,,,,,,bowled,TP Alsop
+ball,1,7.3,Hampshire,JJ Weatherley,DJM Short,SR Harmer,1,0,,,,,,"",""
+ball,1,7.4,Hampshire,DJM Short,JJ Weatherley,SR Harmer,1,0,,,,,,"",""
+ball,1,7.5,Hampshire,JJ Weatherley,DJM Short,SR Harmer,4,0,,,,,,"",""
+ball,1,7.6,Hampshire,JJ Weatherley,DJM Short,SR Harmer,0,0,,,,,,"",""
+ball,1,8.1,Hampshire,DJM Short,JJ Weatherley,SJ Cook,0,0,,,,,,caught,DJM Short
+ball,1,8.2,Hampshire,LA Dawson,JJ Weatherley,SJ Cook,1,0,,,,,,"",""
+ball,1,8.3,Hampshire,JJ Weatherley,LA Dawson,SJ Cook,1,0,,,,,,"",""
+ball,1,8.4,Hampshire,LA Dawson,JJ Weatherley,SJ Cook,1,0,,,,,,"",""
+ball,1,8.5,Hampshire,JJ Weatherley,LA Dawson,SJ Cook,0,0,,,,,,"",""
+ball,1,8.6,Hampshire,JJ Weatherley,LA Dawson,SJ Cook,0,0,,,,,,"",""
+ball,1,9.1,Hampshire,LA Dawson,JJ Weatherley,ASS Nijjar,1,0,,,,,,"",""
+ball,1,9.2,Hampshire,JJ Weatherley,LA Dawson,ASS Nijjar,0,0,,,,,,"",""
+ball,1,9.3,Hampshire,JJ Weatherley,LA Dawson,ASS Nijjar,1,0,,,,,,"",""
+ball,1,9.4,Hampshire,LA Dawson,JJ Weatherley,ASS Nijjar,0,0,,,,,,"",""
+ball,1,9.5,Hampshire,LA Dawson,JJ Weatherley,ASS Nijjar,0,0,,,,,,"",""
+ball,1,9.6,Hampshire,LA Dawson,JJ Weatherley,ASS Nijjar,1,0,,,,,,"",""
+ball,1,10.1,Hampshire,LA Dawson,JJ Weatherley,SJ Cook,4,0,,,,,,"",""
+ball,1,10.2,Hampshire,LA Dawson,JJ Weatherley,SJ Cook,0,0,,,,,,"",""
+ball,1,10.3,Hampshire,LA Dawson,JJ Weatherley,SJ Cook,1,0,,,,,,"",""
+ball,1,10.4,Hampshire,JJ Weatherley,LA Dawson,SJ Cook,1,0,,,,,,"",""
+ball,1,10.5,Hampshire,LA Dawson,JJ Weatherley,SJ Cook,1,0,,,,,,"",""
+ball,1,10.6,Hampshire,JJ Weatherley,LA Dawson,SJ Cook,1,0,,,,,,"",""
+ball,1,11.1,Hampshire,JJ Weatherley,LA Dawson,ASS Nijjar,0,2,,,,2,,"",""
+ball,1,11.2,Hampshire,JJ Weatherley,LA Dawson,ASS Nijjar,0,0,,,,,,"",""
+ball,1,11.3,Hampshire,JJ Weatherley,LA Dawson,ASS Nijjar,1,0,,,,,,"",""
+ball,1,11.4,Hampshire,LA Dawson,JJ Weatherley,ASS Nijjar,0,0,,,,,,"",""
+ball,1,11.5,Hampshire,LA Dawson,JJ Weatherley,ASS Nijjar,1,0,,,,,,"",""
+ball,1,11.6,Hampshire,JJ Weatherley,LA Dawson,ASS Nijjar,1,0,,,,,,"",""
+ball,1,12.1,Hampshire,JJ Weatherley,LA Dawson,PI Walter,4,0,,,,,,"",""
+ball,1,12.2,Hampshire,JJ Weatherley,LA Dawson,PI Walter,0,0,,,,,,"",""
+ball,1,12.3,Hampshire,JJ Weatherley,LA Dawson,PI Walter,1,0,,,,,,"",""
+ball,1,12.4,Hampshire,LA Dawson,JJ Weatherley,PI Walter,0,0,,,,,,"",""
+ball,1,12.5,Hampshire,LA Dawson,JJ Weatherley,PI Walter,4,0,,,,,,"",""
+ball,1,12.6,Hampshire,LA Dawson,JJ Weatherley,PI Walter,2,0,,,,,,"",""
+ball,1,13.1,Hampshire,JJ Weatherley,LA Dawson,SR Harmer,2,0,,,,,,"",""
+ball,1,13.2,Hampshire,JJ Weatherley,LA Dawson,SR Harmer,2,0,,,,,,"",""
+ball,1,13.3,Hampshire,JJ Weatherley,LA Dawson,SR Harmer,1,0,,,,,,"",""
+ball,1,13.4,Hampshire,LA Dawson,JJ Weatherley,SR Harmer,0,0,,,,,,stumped,LA Dawson
+ball,1,13.5,Hampshire,JK Fuller,JJ Weatherley,SR Harmer,2,0,,,,,,"",""
+ball,1,13.6,Hampshire,JK Fuller,JJ Weatherley,SR Harmer,0,0,,,,,,"",""
+ball,1,14.1,Hampshire,JJ Weatherley,JK Fuller,JH Plom,2,0,,,,,,"",""
+ball,1,14.2,Hampshire,JJ Weatherley,JK Fuller,JH Plom,0,0,,,,,,"",""
+ball,1,14.3,Hampshire,JJ Weatherley,JK Fuller,JH Plom,2,0,,,,,,"",""
+ball,1,14.4,Hampshire,JJ Weatherley,JK Fuller,JH Plom,1,0,,,,,,"",""
+ball,1,14.5,Hampshire,JK Fuller,JJ Weatherley,JH Plom,2,0,,,,,,"",""
+ball,1,14.6,Hampshire,JK Fuller,JJ Weatherley,JH Plom,4,0,,,,,,"",""
+ball,1,15.1,Hampshire,JJ Weatherley,JK Fuller,SR Harmer,2,0,,,,,,"",""
+ball,1,15.2,Hampshire,JJ Weatherley,JK Fuller,SR Harmer,4,0,,,,,,"",""
+ball,1,15.3,Hampshire,JJ Weatherley,JK Fuller,SR Harmer,0,0,,,,,,"",""
+ball,1,15.4,Hampshire,JJ Weatherley,JK Fuller,SR Harmer,1,0,,,,,,"",""
+ball,1,15.5,Hampshire,JK Fuller,JJ Weatherley,SR Harmer,1,0,,,,,,"",""
+ball,1,15.6,Hampshire,JJ Weatherley,JK Fuller,SR Harmer,1,0,,,,,,"",""
+ball,1,16.1,Hampshire,JJ Weatherley,JK Fuller,JA Porter,4,0,,,,,,"",""
+ball,1,16.2,Hampshire,JJ Weatherley,JK Fuller,JA Porter,2,0,,,,,,"",""
+ball,1,16.3,Hampshire,JJ Weatherley,JK Fuller,JA Porter,1,0,,,,,,"",""
+ball,1,16.4,Hampshire,JK Fuller,JJ Weatherley,JA Porter,1,0,,,,,,"",""
+ball,1,16.5,Hampshire,JJ Weatherley,JK Fuller,JA Porter,1,0,,,,,,"",""
+ball,1,16.6,Hampshire,JK Fuller,JJ Weatherley,JA Porter,1,0,,,,,,"",""
+ball,1,17.1,Hampshire,JK Fuller,JJ Weatherley,JDS Neesham,1,0,,,,,,"",""
+ball,1,17.2,Hampshire,JJ Weatherley,JK Fuller,JDS Neesham,0,0,,,,,,caught,JJ Weatherley
+ball,1,17.3,Hampshire,JK Fuller,LD McManus,JDS Neesham,1,0,,,,,,"",""
+ball,1,17.4,Hampshire,LD McManus,JK Fuller,JDS Neesham,1,0,,,,,,"",""
+ball,1,17.5,Hampshire,JK Fuller,LD McManus,JDS Neesham,1,0,,,,,,"",""
+ball,1,17.6,Hampshire,LD McManus,JK Fuller,JDS Neesham,1,0,,,,,,"",""
+ball,1,18.1,Hampshire,LD McManus,JK Fuller,JA Porter,1,0,,,,,,"",""
+ball,1,18.2,Hampshire,JK Fuller,LD McManus,JA Porter,6,0,,,,,,"",""
+ball,1,18.3,Hampshire,JK Fuller,LD McManus,JA Porter,6,0,,,,,,"",""
+ball,1,18.4,Hampshire,JK Fuller,LD McManus,JA Porter,0,0,,,,,,caught,JK Fuller
+ball,1,18.5,Hampshire,LD McManus,IG Holland,JA Porter,1,0,,,,,,"",""
+ball,1,18.6,Hampshire,IG Holland,LD McManus,JA Porter,0,0,,,,,,"",""
+ball,1,19.1,Hampshire,LD McManus,IG Holland,JH Plom,1,0,,,,,,"",""
+ball,1,19.2,Hampshire,IG Holland,LD McManus,JH Plom,1,0,,,,,,"",""
+ball,1,19.3,Hampshire,LD McManus,IG Holland,JH Plom,1,0,,,,,,"",""
+ball,1,19.4,Hampshire,IG Holland,LD McManus,JH Plom,0,1,1,,,,,"",""
+ball,1,19.5,Hampshire,IG Holland,LD McManus,JH Plom,2,0,,,,,,"",""
+ball,1,19.6,Hampshire,IG Holland,LD McManus,JH Plom,0,2,,2,,,,"",""
+ball,1,19.7,Hampshire,IG Holland,LD McManus,JH Plom,1,0,,,,,,"",""
+ball,1,19.8,Hampshire,LD McManus,IG Holland,JH Plom,1,0,,,,,,"",""
+ball,2,0.1,Essex,WEL Buttleman,T Westley,CP Wood,0,0,,,,,,"",""
+ball,2,0.2,Essex,WEL Buttleman,T Westley,CP Wood,0,1,,,,1,,"",""
+ball,2,0.3,Essex,T Westley,WEL Buttleman,CP Wood,0,0,,,,,,"",""
+ball,2,0.4,Essex,T Westley,WEL Buttleman,CP Wood,0,0,,,,,,"",""
+ball,2,0.5,Essex,T Westley,WEL Buttleman,CP Wood,1,0,,,,,,"",""
+ball,2,0.6,Essex,WEL Buttleman,T Westley,CP Wood,0,1,1,,,,,"",""
+ball,2,0.7,Essex,WEL Buttleman,T Westley,CP Wood,0,0,,,,,,"",""
+ball,2,1.1,Essex,T Westley,WEL Buttleman,IG Holland,0,1,1,,,,,"",""
+ball,2,1.2,Essex,T Westley,WEL Buttleman,IG Holland,1,0,,,,,,"",""
+ball,2,1.3,Essex,WEL Buttleman,T Westley,IG Holland,0,1,,,,1,,"",""
+ball,2,1.4,Essex,T Westley,WEL Buttleman,IG Holland,4,0,,,,,,"",""
+ball,2,1.5,Essex,T Westley,WEL Buttleman,IG Holland,0,0,,,,,,"",""
+ball,2,1.6,Essex,T Westley,WEL Buttleman,IG Holland,1,0,,,,,,"",""
+ball,2,1.7,Essex,WEL Buttleman,T Westley,IG Holland,1,0,,,,,,"",""
+ball,2,2.1,Essex,WEL Buttleman,T Westley,BTJ Wheal,1,0,,,,,,"",""
+ball,2,2.2,Essex,T Westley,WEL Buttleman,BTJ Wheal,4,0,,,,,,"",""
+ball,2,2.3,Essex,T Westley,WEL Buttleman,BTJ Wheal,4,0,,,,,,"",""
+ball,2,2.4,Essex,T Westley,WEL Buttleman,BTJ Wheal,2,0,,,,,,"",""
+ball,2,2.5,Essex,T Westley,WEL Buttleman,BTJ Wheal,1,0,,,,,,"",""
+ball,2,2.6,Essex,WEL Buttleman,T Westley,BTJ Wheal,0,0,,,,,,caught,WEL Buttleman
+ball,2,3.1,Essex,MS Pepper,T Westley,LA Dawson,0,0,,,,,,"",""
+ball,2,3.2,Essex,MS Pepper,T Westley,LA Dawson,0,0,,,,,,caught,MS Pepper
+ball,2,3.3,Essex,PI Walter,T Westley,LA Dawson,1,0,,,,,,"",""
+ball,2,3.4,Essex,T Westley,PI Walter,LA Dawson,1,0,,,,,,"",""
+ball,2,3.5,Essex,PI Walter,T Westley,LA Dawson,0,0,,,,,,"",""
+ball,2,3.6,Essex,PI Walter,T Westley,LA Dawson,0,0,,,,,,"",""
+ball,2,4.1,Essex,T Westley,PI Walter,CP Wood,0,0,,,,,,"",""
+ball,2,4.2,Essex,T Westley,PI Walter,CP Wood,0,1,,,,1,,"",""
+ball,2,4.3,Essex,PI Walter,T Westley,CP Wood,4,0,,,,,,"",""
+ball,2,4.4,Essex,PI Walter,T Westley,CP Wood,0,0,,,,,,"",""
+ball,2,4.5,Essex,PI Walter,T Westley,CP Wood,1,0,,,,,,"",""
+ball,2,4.6,Essex,T Westley,PI Walter,CP Wood,0,0,,,,,,"",""
+ball,2,5.1,Essex,PI Walter,T Westley,BTJ Wheal,1,0,,,,,,"",""
+ball,2,5.2,Essex,T Westley,PI Walter,BTJ Wheal,1,0,,,,,,"",""
+ball,2,5.3,Essex,PI Walter,T Westley,BTJ Wheal,1,0,,,,,,"",""
+ball,2,5.4,Essex,T Westley,PI Walter,BTJ Wheal,1,0,,,,,,"",""
+ball,2,5.5,Essex,PI Walter,T Westley,BTJ Wheal,4,0,,,,,,"",""
+ball,2,5.6,Essex,PI Walter,T Westley,BTJ Wheal,1,0,,,,,,"",""
+ball,2,6.1,Essex,PI Walter,T Westley,MS Crane,6,0,,,,,,"",""
+ball,2,6.2,Essex,PI Walter,T Westley,MS Crane,1,0,,,,,,"",""
+ball,2,6.3,Essex,T Westley,PI Walter,MS Crane,0,0,,,,,,"",""
+ball,2,6.4,Essex,T Westley,PI Walter,MS Crane,4,0,,,,,,"",""
+ball,2,6.5,Essex,T Westley,PI Walter,MS Crane,0,0,,,,,,"",""
+ball,2,6.6,Essex,T Westley,PI Walter,MS Crane,4,0,,,,,,"",""
+ball,2,7.1,Essex,PI Walter,T Westley,LA Dawson,0,0,,,,,,"",""
+ball,2,7.2,Essex,PI Walter,T Westley,LA Dawson,0,0,,,,,,"",""
+ball,2,7.3,Essex,PI Walter,T Westley,LA Dawson,1,0,,,,,,"",""
+ball,2,7.4,Essex,T Westley,PI Walter,LA Dawson,1,0,,,,,,"",""
+ball,2,7.5,Essex,PI Walter,T Westley,LA Dawson,1,0,,,,,,"",""
+ball,2,7.6,Essex,T Westley,PI Walter,LA Dawson,2,0,,,,,,"",""
+ball,2,8.1,Essex,PI Walter,T Westley,MS Crane,6,0,,,,,,"",""
+ball,2,8.2,Essex,PI Walter,T Westley,MS Crane,1,0,,,,,,"",""
+ball,2,8.3,Essex,T Westley,PI Walter,MS Crane,2,0,,,,,,"",""
+ball,2,8.4,Essex,T Westley,PI Walter,MS Crane,6,0,,,,,,"",""
+ball,2,8.5,Essex,T Westley,PI Walter,MS Crane,1,0,,,,,,"",""
+ball,2,8.6,Essex,PI Walter,T Westley,MS Crane,0,0,,,,,,caught,PI Walter
+ball,2,9.1,Essex,T Westley,RN ten Doeschate,DJM Short,2,0,,,,,,"",""
+ball,2,9.2,Essex,T Westley,RN ten Doeschate,DJM Short,0,0,,,,,,"",""
+ball,2,9.3,Essex,T Westley,RN ten Doeschate,DJM Short,1,0,,,,,,"",""
+ball,2,9.4,Essex,RN ten Doeschate,T Westley,DJM Short,0,0,,,,,,run out,T Westley
+ball,2,9.5,Essex,JDS Neesham,RN ten Doeschate,DJM Short,4,0,,,,,,"",""
+ball,2,9.6,Essex,JDS Neesham,RN ten Doeschate,DJM Short,0,0,,,,,,"",""
+ball,2,10.1,Essex,RN ten Doeschate,JDS Neesham,LA Dawson,0,0,,,,,,"",""
+ball,2,10.2,Essex,RN ten Doeschate,JDS Neesham,LA Dawson,0,1,1,,,,,"",""
+ball,2,10.3,Essex,RN ten Doeschate,JDS Neesham,LA Dawson,0,0,,,,,,"",""
+ball,2,10.4,Essex,RN ten Doeschate,JDS Neesham,LA Dawson,1,0,,,,,,"",""
+ball,2,10.5,Essex,JDS Neesham,RN ten Doeschate,LA Dawson,0,0,,,,,,"",""
+ball,2,10.6,Essex,JDS Neesham,RN ten Doeschate,LA Dawson,1,0,,,,,,"",""
+ball,2,10.7,Essex,RN ten Doeschate,JDS Neesham,LA Dawson,0,0,,,,,,"",""
+ball,2,11.1,Essex,JDS Neesham,RN ten Doeschate,MS Crane,6,0,,,,,,"",""
+ball,2,11.2,Essex,JDS Neesham,RN ten Doeschate,MS Crane,0,0,,,,,,"",""
+ball,2,11.3,Essex,JDS Neesham,RN ten Doeschate,MS Crane,1,0,,,,,,"",""
+ball,2,11.4,Essex,RN ten Doeschate,JDS Neesham,MS Crane,0,0,,,,,,"",""
+ball,2,11.5,Essex,RN ten Doeschate,JDS Neesham,MS Crane,0,0,,,,,,"",""
+ball,2,11.6,Essex,RN ten Doeschate,JDS Neesham,MS Crane,0,0,,,,,,"",""
+ball,2,12.1,Essex,JDS Neesham,RN ten Doeschate,BTJ Wheal,2,0,,,,,,"",""
+ball,2,12.2,Essex,JDS Neesham,RN ten Doeschate,BTJ Wheal,1,0,,,,,,"",""
+ball,2,12.3,Essex,RN ten Doeschate,JDS Neesham,BTJ Wheal,1,0,,,,,,"",""
+ball,2,12.4,Essex,JDS Neesham,RN ten Doeschate,BTJ Wheal,6,0,,,,,,"",""
+ball,2,12.5,Essex,JDS Neesham,RN ten Doeschate,BTJ Wheal,1,0,,,,,,"",""
+ball,2,12.6,Essex,RN ten Doeschate,JDS Neesham,BTJ Wheal,1,0,,,,,,"",""
+ball,2,13.1,Essex,RN ten Doeschate,JDS Neesham,MS Crane,0,0,,,,,,"",""
+ball,2,13.2,Essex,RN ten Doeschate,JDS Neesham,MS Crane,0,0,,,,,,caught,RN ten Doeschate
+ball,2,13.3,Essex,JDS Neesham,SR Harmer,MS Crane,1,0,,,,,,"",""
+ball,2,13.4,Essex,SR Harmer,JDS Neesham,MS Crane,2,0,,,,,,"",""
+ball,2,13.5,Essex,SR Harmer,JDS Neesham,MS Crane,0,0,,,,,,"",""
+ball,2,13.6,Essex,SR Harmer,JDS Neesham,MS Crane,1,0,,,,,,"",""
+ball,2,14.1,Essex,SR Harmer,JDS Neesham,LA Dawson,1,0,,,,,,"",""
+ball,2,14.2,Essex,JDS Neesham,SR Harmer,LA Dawson,0,0,,,,,,"",""
+ball,2,14.3,Essex,JDS Neesham,SR Harmer,LA Dawson,4,0,,,,,,"",""
+ball,2,14.4,Essex,JDS Neesham,SR Harmer,LA Dawson,1,0,,,,,,"",""
+ball,2,14.5,Essex,SR Harmer,JDS Neesham,LA Dawson,0,0,,,,,,"",""
+ball,2,14.6,Essex,SR Harmer,JDS Neesham,LA Dawson,1,0,,,,,,"",""
+ball,2,15.1,Essex,SR Harmer,JDS Neesham,DJM Short,2,0,,,,,,"",""
+ball,2,15.2,Essex,SR Harmer,JDS Neesham,DJM Short,1,0,,,,,,"",""
+ball,2,15.3,Essex,JDS Neesham,SR Harmer,DJM Short,0,0,,,,,,"",""
+ball,2,15.4,Essex,JDS Neesham,SR Harmer,DJM Short,0,0,,,,,,caught,JDS Neesham
+ball,2,15.5,Essex,ASS Nijjar,SR Harmer,DJM Short,1,0,,,,,,"",""
+ball,2,15.6,Essex,SR Harmer,ASS Nijjar,DJM Short,0,0,,,,,,"",""
+ball,2,16.1,Essex,ASS Nijjar,SR Harmer,CP Wood,0,0,,,,,,"",""
+ball,2,16.2,Essex,ASS Nijjar,SR Harmer,CP Wood,0,0,,,,,,"",""
+ball,2,16.3,Essex,ASS Nijjar,SR Harmer,CP Wood,1,0,,,,,,"",""
+ball,2,16.4,Essex,SR Harmer,ASS Nijjar,CP Wood,1,0,,,,,,"",""
+ball,2,16.5,Essex,ASS Nijjar,SR Harmer,CP Wood,0,0,,,,,,"",""
+ball,2,16.6,Essex,ASS Nijjar,SR Harmer,CP Wood,0,0,,,,,,caught,ASS Nijjar
+ball,2,17.1,Essex,SR Harmer,JH Plom,DJM Short,2,0,,,,,,"",""
+ball,2,17.2,Essex,SR Harmer,JH Plom,DJM Short,1,0,,,,,,"",""
+ball,2,17.3,Essex,JH Plom,SR Harmer,DJM Short,0,0,,,,,,"",""
+ball,2,17.4,Essex,JH Plom,SR Harmer,DJM Short,1,0,,,,,,run out,SR Harmer
+ball,2,17.5,Essex,JH Plom,SJ Cook,DJM Short,6,0,,,,,,"",""
+ball,2,17.6,Essex,JH Plom,SJ Cook,DJM Short,1,0,,,,,,"",""
+ball,2,18.1,Essex,JH Plom,SJ Cook,CP Wood,1,0,,,,,,"",""
+ball,2,18.2,Essex,SJ Cook,JH Plom,CP Wood,1,0,,,,,,"",""
+ball,2,18.3,Essex,JH Plom,SJ Cook,CP Wood,1,0,,,,,,"",""
+ball,2,18.4,Essex,SJ Cook,JH Plom,CP Wood,0,0,,,,,,"",""
+ball,2,18.5,Essex,SJ Cook,JH Plom,CP Wood,2,0,,,,,,"",""
+ball,2,18.6,Essex,SJ Cook,JH Plom,CP Wood,1,0,,,,,,run out,SJ Cook
+ball,2,19.1,Essex,JH Plom,JA Porter,BTJ Wheal,2,0,,,,,,"",""
+ball,2,19.2,Essex,JH Plom,JA Porter,BTJ Wheal,0,0,,,,,,bowled,JH Plom

@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2021
+info,date,2021/06/09
+info,event,Vitality Blast
+info,venue,"County Ground, New Road, Worcester"
+info,city,Worcester
+info,toss_winner,Nottinghamshire
+info,toss_decision,field
+info,player_of_match,JM Clarke
+info,umpire,AG Wharf
+info,umpire,IJ Gould
+info,tv_umpire,PJ Hartley
+info,match_referee,JJ Whitaker
+info,outcome,tie
+info,player,Worcestershire,MH Wessels
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,MM Ali
+info,player,Worcestershire,JD Libby
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,RA Whiteley
+info,player,Worcestershire,EG Barnard
+info,player,Worcestershire,BJ Dwarshuis
+info,player,Worcestershire,IS Sodhi
+info,player,Worcestershire,JC Tongue
+info,player,Worcestershire,CAJ Morris
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,BM Duckett
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,SR Patel
+info,player,Nottinghamshire,PD Trego
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,LJ Fletcher
+info,player,Nottinghamshire,M Carter
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,D Paterson
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CAJ Morris,5db1c288
+info,registry,people,CG Harrison,f655d740
+info,registry,people,D Paterson,462d7c62
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JC Tongue,1f1b4c89
+info,registry,people,JD Libby,0d61d8f0
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LJ Fletcher,e423d162
+info,registry,people,M Carter,1ca7c00f
+info,registry,people,MH Wessels,90f47cf2
+info,registry,people,MM Ali,bb351c23
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PD Trego,93e06301
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,SR Patel,18fac429
+info,registry,people,TJ Moores,85dcb721
+ball,1,0.1,Worcestershire,MH Wessels,BL D'Oliveira,LJ Fletcher,0,0,,,,,,"",""
+ball,1,0.2,Worcestershire,MH Wessels,BL D'Oliveira,LJ Fletcher,0,0,,,,,,"",""
+ball,1,0.3,Worcestershire,MH Wessels,BL D'Oliveira,LJ Fletcher,1,0,,,,,,"",""
+ball,1,0.4,Worcestershire,BL D'Oliveira,MH Wessels,LJ Fletcher,0,0,,,,,,"",""
+ball,1,0.5,Worcestershire,BL D'Oliveira,MH Wessels,LJ Fletcher,2,0,,,,,,"",""
+ball,1,0.6,Worcestershire,BL D'Oliveira,MH Wessels,LJ Fletcher,1,0,,,,,,"",""
+ball,1,1.1,Worcestershire,BL D'Oliveira,MH Wessels,SR Patel,1,0,,,,,,"",""
+ball,1,1.2,Worcestershire,MH Wessels,BL D'Oliveira,SR Patel,0,0,,,,,,"",""
+ball,1,1.3,Worcestershire,MH Wessels,BL D'Oliveira,SR Patel,4,0,,,,,,"",""
+ball,1,1.4,Worcestershire,MH Wessels,BL D'Oliveira,SR Patel,0,0,,,,,,"",""
+ball,1,1.5,Worcestershire,MH Wessels,BL D'Oliveira,SR Patel,1,0,,,,,,"",""
+ball,1,1.6,Worcestershire,BL D'Oliveira,MH Wessels,SR Patel,1,0,,,,,,"",""
+ball,1,2.1,Worcestershire,BL D'Oliveira,MH Wessels,M Carter,0,0,,,,,,"",""
+ball,1,2.2,Worcestershire,BL D'Oliveira,MH Wessels,M Carter,0,1,1,,,,,stumped,BL D'Oliveira
+ball,1,2.3,Worcestershire,MM Ali,MH Wessels,M Carter,2,0,,,,,,"",""
+ball,1,2.4,Worcestershire,MM Ali,MH Wessels,M Carter,0,0,,,,,,"",""
+ball,1,2.5,Worcestershire,MM Ali,MH Wessels,M Carter,4,0,,,,,,"",""
+ball,1,2.6,Worcestershire,MM Ali,MH Wessels,M Carter,0,0,,,,,,"",""
+ball,1,2.7,Worcestershire,MM Ali,MH Wessels,M Carter,0,0,,,,,,bowled,MM Ali
+ball,1,3.1,Worcestershire,MH Wessels,JD Libby,D Paterson,0,0,,,,,,"",""
+ball,1,3.2,Worcestershire,MH Wessels,JD Libby,D Paterson,4,0,,,,,,"",""
+ball,1,3.3,Worcestershire,MH Wessels,JD Libby,D Paterson,0,0,,,,,,"",""
+ball,1,3.4,Worcestershire,MH Wessels,JD Libby,D Paterson,4,0,,,,,,"",""
+ball,1,3.5,Worcestershire,MH Wessels,JD Libby,D Paterson,0,0,,,,,,"",""
+ball,1,3.6,Worcestershire,MH Wessels,JD Libby,D Paterson,0,0,,,,,,run out,MH Wessels
+ball,1,4.1,Worcestershire,OB Cox,JD Libby,M Carter,1,0,,,,,,"",""
+ball,1,4.2,Worcestershire,JD Libby,OB Cox,M Carter,1,0,,,,,,"",""
+ball,1,4.3,Worcestershire,OB Cox,JD Libby,M Carter,1,0,,,,,,"",""
+ball,1,4.4,Worcestershire,JD Libby,OB Cox,M Carter,2,0,,,,,,"",""
+ball,1,4.5,Worcestershire,JD Libby,OB Cox,M Carter,0,0,,,,,,"",""
+ball,1,4.6,Worcestershire,JD Libby,OB Cox,M Carter,2,0,,,,,,"",""
+ball,1,5.1,Worcestershire,OB Cox,JD Libby,SR Patel,1,0,,,,,,"",""
+ball,1,5.2,Worcestershire,JD Libby,OB Cox,SR Patel,1,0,,,,,,"",""
+ball,1,5.3,Worcestershire,OB Cox,JD Libby,SR Patel,0,1,,,,1,,"",""
+ball,1,5.4,Worcestershire,JD Libby,OB Cox,SR Patel,0,0,,,,,,"",""
+ball,1,5.5,Worcestershire,JD Libby,OB Cox,SR Patel,1,0,,,,,,"",""
+ball,1,5.6,Worcestershire,OB Cox,JD Libby,SR Patel,1,0,,,,,,"",""
+ball,1,6.1,Worcestershire,OB Cox,JD Libby,CG Harrison,1,0,,,,,,"",""
+ball,1,6.2,Worcestershire,JD Libby,OB Cox,CG Harrison,0,0,,,,,,"",""
+ball,1,6.3,Worcestershire,JD Libby,OB Cox,CG Harrison,2,0,,,,,,"",""
+ball,1,6.4,Worcestershire,JD Libby,OB Cox,CG Harrison,1,0,,,,,,"",""
+ball,1,6.5,Worcestershire,OB Cox,JD Libby,CG Harrison,1,0,,,,,,"",""
+ball,1,6.6,Worcestershire,JD Libby,OB Cox,CG Harrison,1,0,,,,,,"",""
+ball,1,7.1,Worcestershire,JD Libby,OB Cox,SJ Mullaney,1,0,,,,,,"",""
+ball,1,7.2,Worcestershire,OB Cox,JD Libby,SJ Mullaney,1,0,,,,,,"",""
+ball,1,7.3,Worcestershire,JD Libby,OB Cox,SJ Mullaney,1,0,,,,,,"",""
+ball,1,7.4,Worcestershire,OB Cox,JD Libby,SJ Mullaney,1,0,,,,,,"",""
+ball,1,7.5,Worcestershire,JD Libby,OB Cox,SJ Mullaney,2,0,,,,,,"",""
+ball,1,7.6,Worcestershire,JD Libby,OB Cox,SJ Mullaney,1,0,,,,,,"",""
+ball,1,8.1,Worcestershire,JD Libby,OB Cox,CG Harrison,1,0,,,,,,"",""
+ball,1,8.2,Worcestershire,OB Cox,JD Libby,CG Harrison,1,0,,,,,,"",""
+ball,1,8.3,Worcestershire,JD Libby,OB Cox,CG Harrison,1,0,,,,,,"",""
+ball,1,8.4,Worcestershire,OB Cox,JD Libby,CG Harrison,1,0,,,,,,"",""
+ball,1,8.5,Worcestershire,JD Libby,OB Cox,CG Harrison,1,0,,,,,,"",""
+ball,1,8.6,Worcestershire,OB Cox,JD Libby,CG Harrison,1,0,,,,,,"",""
+ball,1,9.1,Worcestershire,OB Cox,JD Libby,SJ Mullaney,2,0,,,,,,"",""
+ball,1,9.2,Worcestershire,OB Cox,JD Libby,SJ Mullaney,1,0,,,,,,"",""
+ball,1,9.3,Worcestershire,JD Libby,OB Cox,SJ Mullaney,2,0,,,,,,"",""
+ball,1,9.4,Worcestershire,JD Libby,OB Cox,SJ Mullaney,1,0,,,,,,"",""
+ball,1,9.5,Worcestershire,OB Cox,JD Libby,SJ Mullaney,0,0,,,,,,caught and bowled,OB Cox
+ball,1,9.6,Worcestershire,RA Whiteley,JD Libby,SJ Mullaney,0,0,,,,,,"",""
+ball,1,10.1,Worcestershire,JD Libby,RA Whiteley,CG Harrison,1,0,,,,,,"",""
+ball,1,10.2,Worcestershire,RA Whiteley,JD Libby,CG Harrison,0,0,,,,,,"",""
+ball,1,10.3,Worcestershire,RA Whiteley,JD Libby,CG Harrison,1,0,,,,,,"",""
+ball,1,10.4,Worcestershire,JD Libby,RA Whiteley,CG Harrison,1,0,,,,,,"",""
+ball,1,10.5,Worcestershire,RA Whiteley,JD Libby,CG Harrison,1,0,,,,,,"",""
+ball,1,10.6,Worcestershire,JD Libby,RA Whiteley,CG Harrison,0,0,,,,,,"",""
+ball,1,11.1,Worcestershire,RA Whiteley,JD Libby,SJ Mullaney,1,0,,,,,,"",""
+ball,1,11.2,Worcestershire,JD Libby,RA Whiteley,SJ Mullaney,4,0,,,,,,"",""
+ball,1,11.3,Worcestershire,JD Libby,RA Whiteley,SJ Mullaney,1,0,,,,,,"",""
+ball,1,11.4,Worcestershire,RA Whiteley,JD Libby,SJ Mullaney,1,0,,,,,,"",""
+ball,1,11.5,Worcestershire,JD Libby,RA Whiteley,SJ Mullaney,2,0,,,,,,"",""
+ball,1,11.6,Worcestershire,JD Libby,RA Whiteley,SJ Mullaney,1,0,,,,,,"",""
+ball,1,12.1,Worcestershire,JD Libby,RA Whiteley,M Carter,4,0,,,,,,"",""
+ball,1,12.2,Worcestershire,JD Libby,RA Whiteley,M Carter,1,0,,,,,,"",""
+ball,1,12.3,Worcestershire,RA Whiteley,JD Libby,M Carter,0,0,,,,,,"",""
+ball,1,12.4,Worcestershire,RA Whiteley,JD Libby,M Carter,1,0,,,,,,"",""
+ball,1,12.5,Worcestershire,JD Libby,RA Whiteley,M Carter,1,0,,,,,,"",""
+ball,1,12.6,Worcestershire,RA Whiteley,JD Libby,M Carter,1,0,,,,,,"",""
+ball,1,13.1,Worcestershire,RA Whiteley,JD Libby,SR Patel,0,1,,,,1,,"",""
+ball,1,13.2,Worcestershire,JD Libby,RA Whiteley,SR Patel,0,0,,,,,,"",""
+ball,1,13.3,Worcestershire,JD Libby,RA Whiteley,SR Patel,1,0,,,,,,"",""
+ball,1,13.4,Worcestershire,RA Whiteley,JD Libby,SR Patel,1,0,,,,,,"",""
+ball,1,13.5,Worcestershire,JD Libby,RA Whiteley,SR Patel,1,0,,,,,,"",""
+ball,1,13.6,Worcestershire,RA Whiteley,JD Libby,SR Patel,1,0,,,,,,"",""
+ball,1,14.1,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,1,0,,,,,,"",""
+ball,1,14.2,Worcestershire,JD Libby,RA Whiteley,LJ Fletcher,2,0,,,,,,"",""
+ball,1,14.3,Worcestershire,JD Libby,RA Whiteley,LJ Fletcher,0,1,1,,,,,"",""
+ball,1,14.4,Worcestershire,JD Libby,RA Whiteley,LJ Fletcher,1,0,,,,,,"",""
+ball,1,14.5,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,0,1,1,,,,,"",""
+ball,1,14.6,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,1,0,,,,,,"",""
+ball,1,14.7,Worcestershire,JD Libby,RA Whiteley,LJ Fletcher,1,0,,,,,,"",""
+ball,1,14.8,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,0,1,1,,,,,"",""
+ball,1,14.9,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,1,0,,,,,,"",""
+ball,1,15.1,Worcestershire,RA Whiteley,JD Libby,SJ Mullaney,1,0,,,,,,"",""
+ball,1,15.2,Worcestershire,JD Libby,RA Whiteley,SJ Mullaney,1,0,,,,,,"",""
+ball,1,15.3,Worcestershire,RA Whiteley,JD Libby,SJ Mullaney,1,0,,,,,,"",""
+ball,1,15.4,Worcestershire,JD Libby,RA Whiteley,SJ Mullaney,1,0,,,,,,"",""
+ball,1,15.5,Worcestershire,RA Whiteley,JD Libby,SJ Mullaney,6,0,,,,,,"",""
+ball,1,15.6,Worcestershire,RA Whiteley,JD Libby,SJ Mullaney,1,0,,,,,,"",""
+ball,1,16.1,Worcestershire,RA Whiteley,JD Libby,D Paterson,0,1,,,,1,,"",""
+ball,1,16.2,Worcestershire,JD Libby,RA Whiteley,D Paterson,1,0,,,,,,"",""
+ball,1,16.3,Worcestershire,RA Whiteley,JD Libby,D Paterson,0,0,,,,,,"",""
+ball,1,16.4,Worcestershire,RA Whiteley,JD Libby,D Paterson,0,0,,,,,,"",""
+ball,1,16.5,Worcestershire,RA Whiteley,JD Libby,D Paterson,0,0,,,,,,"",""
+ball,1,16.6,Worcestershire,RA Whiteley,JD Libby,D Paterson,1,0,,,,,,"",""
+ball,1,17.1,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,0,0,,,,,,"",""
+ball,1,17.2,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,4,0,,,,,,"",""
+ball,1,17.3,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,1,0,,,,,,"",""
+ball,1,17.4,Worcestershire,JD Libby,RA Whiteley,LJ Fletcher,0,1,,,,1,,"",""
+ball,1,17.5,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,0,1,1,,,,,"",""
+ball,1,17.6,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,1,0,,,,,,"",""
+ball,1,17.7,Worcestershire,JD Libby,RA Whiteley,LJ Fletcher,0,0,,,,,,"",""
+ball,1,18.1,Worcestershire,RA Whiteley,JD Libby,D Paterson,2,0,,,,,,"",""
+ball,1,18.2,Worcestershire,RA Whiteley,JD Libby,D Paterson,6,0,,,,,,"",""
+ball,1,18.3,Worcestershire,RA Whiteley,JD Libby,D Paterson,0,0,,,,,,"",""
+ball,1,18.4,Worcestershire,RA Whiteley,JD Libby,D Paterson,2,0,,,,,,"",""
+ball,1,18.5,Worcestershire,RA Whiteley,JD Libby,D Paterson,1,0,,,,,,"",""
+ball,1,18.6,Worcestershire,JD Libby,RA Whiteley,D Paterson,4,0,,,,,,"",""
+ball,1,19.1,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,4,0,,,,,,"",""
+ball,1,19.2,Worcestershire,RA Whiteley,JD Libby,LJ Fletcher,0,0,,,,,,caught,RA Whiteley
+ball,1,19.3,Worcestershire,JD Libby,EG Barnard,LJ Fletcher,1,0,,,,,,"",""
+ball,1,19.4,Worcestershire,EG Barnard,JD Libby,LJ Fletcher,6,0,,,,,,"",""
+ball,1,19.5,Worcestershire,EG Barnard,JD Libby,LJ Fletcher,4,0,,,,,,"",""
+ball,1,19.6,Worcestershire,EG Barnard,JD Libby,LJ Fletcher,0,0,,,,,,caught,EG Barnard
+ball,2,0.1,Nottinghamshire,JM Clarke,AD Hales,MM Ali,1,0,,,,,,"",""
+ball,2,0.2,Nottinghamshire,AD Hales,JM Clarke,MM Ali,1,0,,,,,,"",""
+ball,2,0.3,Nottinghamshire,JM Clarke,AD Hales,MM Ali,1,0,,,,,,"",""
+ball,2,0.4,Nottinghamshire,AD Hales,JM Clarke,MM Ali,0,0,,,,,,"",""
+ball,2,0.5,Nottinghamshire,AD Hales,JM Clarke,MM Ali,0,0,,,,,,"",""
+ball,2,0.6,Nottinghamshire,AD Hales,JM Clarke,MM Ali,0,0,,,,,,"",""
+ball,2,1.1,Nottinghamshire,JM Clarke,AD Hales,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,1.2,Nottinghamshire,JM Clarke,AD Hales,BJ Dwarshuis,6,0,,,,,,"",""
+ball,2,1.3,Nottinghamshire,JM Clarke,AD Hales,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,1.4,Nottinghamshire,AD Hales,JM Clarke,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.5,Nottinghamshire,AD Hales,JM Clarke,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.6,Nottinghamshire,AD Hales,JM Clarke,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,2.1,Nottinghamshire,JM Clarke,AD Hales,JC Tongue,6,0,,,,,,"",""
+ball,2,2.2,Nottinghamshire,JM Clarke,AD Hales,JC Tongue,0,2,,,,2,,"",""
+ball,2,2.3,Nottinghamshire,JM Clarke,AD Hales,JC Tongue,6,0,,,,,,"",""
+ball,2,2.4,Nottinghamshire,JM Clarke,AD Hales,JC Tongue,1,0,,,,,,"",""
+ball,2,2.5,Nottinghamshire,AD Hales,JM Clarke,JC Tongue,6,0,,,,,,"",""
+ball,2,2.6,Nottinghamshire,AD Hales,JM Clarke,JC Tongue,4,0,,,,,,"",""
+ball,2,3.1,Nottinghamshire,JM Clarke,AD Hales,CAJ Morris,1,0,,,,,,"",""
+ball,2,3.2,Nottinghamshire,AD Hales,JM Clarke,CAJ Morris,1,0,,,,,,"",""
+ball,2,3.3,Nottinghamshire,JM Clarke,AD Hales,CAJ Morris,1,0,,,,,,"",""
+ball,2,3.4,Nottinghamshire,AD Hales,JM Clarke,CAJ Morris,0,0,,,,,,"",""
+ball,2,3.5,Nottinghamshire,AD Hales,JM Clarke,CAJ Morris,1,0,,,,,,"",""
+ball,2,3.6,Nottinghamshire,JM Clarke,AD Hales,CAJ Morris,1,0,,,,,,"",""
+ball,2,4.1,Nottinghamshire,JM Clarke,AD Hales,BJ Dwarshuis,2,0,,,,,,"",""
+ball,2,4.2,Nottinghamshire,JM Clarke,AD Hales,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,4.3,Nottinghamshire,JM Clarke,AD Hales,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,4.4,Nottinghamshire,AD Hales,JM Clarke,BJ Dwarshuis,6,0,,,,,,"",""
+ball,2,4.5,Nottinghamshire,AD Hales,JM Clarke,BJ Dwarshuis,2,0,,,,,,"",""
+ball,2,4.6,Nottinghamshire,AD Hales,JM Clarke,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,5.1,Nottinghamshire,JM Clarke,AD Hales,CAJ Morris,0,0,,,,,,"",""
+ball,2,5.2,Nottinghamshire,JM Clarke,AD Hales,CAJ Morris,6,0,,,,,,"",""
+ball,2,5.3,Nottinghamshire,JM Clarke,AD Hales,CAJ Morris,1,0,,,,,,"",""
+ball,2,5.4,Nottinghamshire,AD Hales,JM Clarke,CAJ Morris,6,0,,,,,,"",""
+ball,2,5.5,Nottinghamshire,AD Hales,JM Clarke,CAJ Morris,0,0,,,,,,"",""
+ball,2,5.6,Nottinghamshire,AD Hales,JM Clarke,CAJ Morris,0,0,,,,,,caught,AD Hales
+ball,2,6.1,Nottinghamshire,BM Duckett,JM Clarke,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.2,Nottinghamshire,JM Clarke,BM Duckett,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.3,Nottinghamshire,BM Duckett,JM Clarke,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.4,Nottinghamshire,JM Clarke,BM Duckett,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.5,Nottinghamshire,BM Duckett,JM Clarke,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.6,Nottinghamshire,JM Clarke,BM Duckett,IS Sodhi,0,0,,,,,,caught,JM Clarke
+ball,2,7.1,Nottinghamshire,BM Duckett,TJ Moores,MM Ali,1,0,,,,,,"",""
+ball,2,7.2,Nottinghamshire,TJ Moores,BM Duckett,MM Ali,0,0,,,,,,"",""
+ball,2,7.3,Nottinghamshire,TJ Moores,BM Duckett,MM Ali,1,0,,,,,,"",""
+ball,2,7.4,Nottinghamshire,BM Duckett,TJ Moores,MM Ali,0,0,,,,,,"",""
+ball,2,7.5,Nottinghamshire,BM Duckett,TJ Moores,MM Ali,2,0,,,,,,"",""
+ball,2,7.6,Nottinghamshire,BM Duckett,TJ Moores,MM Ali,0,0,,,,,,lbw,BM Duckett
+ball,2,8.1,Nottinghamshire,TJ Moores,SR Patel,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.2,Nottinghamshire,SR Patel,TJ Moores,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.3,Nottinghamshire,TJ Moores,SR Patel,IS Sodhi,0,0,,,,,,"",""
+ball,2,8.4,Nottinghamshire,TJ Moores,SR Patel,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.5,Nottinghamshire,SR Patel,TJ Moores,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.6,Nottinghamshire,TJ Moores,SR Patel,IS Sodhi,6,0,,,,,,"",""
+ball,2,9.1,Nottinghamshire,SR Patel,TJ Moores,MM Ali,0,0,,,,,,"",""
+ball,2,9.2,Nottinghamshire,SR Patel,TJ Moores,MM Ali,1,0,,,,,,"",""
+ball,2,9.3,Nottinghamshire,TJ Moores,SR Patel,MM Ali,1,0,,,,,,"",""
+ball,2,9.4,Nottinghamshire,SR Patel,TJ Moores,MM Ali,1,0,,,,,,"",""
+ball,2,9.5,Nottinghamshire,TJ Moores,SR Patel,MM Ali,2,0,,,,,,"",""
+ball,2,9.6,Nottinghamshire,TJ Moores,SR Patel,MM Ali,0,0,,,,,,caught,TJ Moores
+ball,2,10.1,Nottinghamshire,SR Patel,PD Trego,IS Sodhi,1,0,,,,,,"",""
+ball,2,10.2,Nottinghamshire,PD Trego,SR Patel,IS Sodhi,0,0,,,,,,"",""
+ball,2,10.3,Nottinghamshire,PD Trego,SR Patel,IS Sodhi,1,0,,,,,,"",""
+ball,2,10.4,Nottinghamshire,SR Patel,PD Trego,IS Sodhi,1,0,,,,,,"",""
+ball,2,10.5,Nottinghamshire,PD Trego,SR Patel,IS Sodhi,0,0,,,,,,"",""
+ball,2,10.6,Nottinghamshire,PD Trego,SR Patel,IS Sodhi,1,0,,,,,,"",""
+ball,2,11.1,Nottinghamshire,PD Trego,SR Patel,MM Ali,1,0,,,,,,"",""
+ball,2,11.2,Nottinghamshire,SR Patel,PD Trego,MM Ali,0,0,,,,,,"",""
+ball,2,11.3,Nottinghamshire,SR Patel,PD Trego,MM Ali,0,0,,,,,,"",""
+ball,2,11.4,Nottinghamshire,SR Patel,PD Trego,MM Ali,1,0,,,,,,"",""
+ball,2,11.5,Nottinghamshire,PD Trego,SR Patel,MM Ali,0,0,,,,,,"",""
+ball,2,11.6,Nottinghamshire,PD Trego,SR Patel,MM Ali,1,0,,,,,,"",""
+ball,2,12.1,Nottinghamshire,PD Trego,SR Patel,IS Sodhi,0,0,,,,,,"",""
+ball,2,12.2,Nottinghamshire,PD Trego,SR Patel,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.3,Nottinghamshire,SR Patel,PD Trego,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.4,Nottinghamshire,PD Trego,SR Patel,IS Sodhi,4,0,,,,,,"",""
+ball,2,12.5,Nottinghamshire,PD Trego,SR Patel,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.6,Nottinghamshire,SR Patel,PD Trego,IS Sodhi,1,0,,,,,,"",""
+ball,2,13.1,Nottinghamshire,SR Patel,PD Trego,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,13.2,Nottinghamshire,PD Trego,SR Patel,BL D'Oliveira,0,0,,,,,,"",""
+ball,2,13.3,Nottinghamshire,PD Trego,SR Patel,BL D'Oliveira,0,0,,,,,,"",""
+ball,2,13.4,Nottinghamshire,PD Trego,SR Patel,BL D'Oliveira,0,0,,,,,,"",""
+ball,2,13.5,Nottinghamshire,PD Trego,SR Patel,BL D'Oliveira,0,0,,,,,,"",""
+ball,2,13.6,Nottinghamshire,PD Trego,SR Patel,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,14.1,Nottinghamshire,PD Trego,SR Patel,EG Barnard,4,0,,,,,,"",""
+ball,2,14.2,Nottinghamshire,PD Trego,SR Patel,EG Barnard,0,0,,,,,,"",""
+ball,2,14.3,Nottinghamshire,PD Trego,SR Patel,EG Barnard,1,0,,,,,,"",""
+ball,2,14.4,Nottinghamshire,SR Patel,PD Trego,EG Barnard,1,0,,,,,,"",""
+ball,2,14.5,Nottinghamshire,PD Trego,SR Patel,EG Barnard,2,0,,,,,,"",""
+ball,2,14.6,Nottinghamshire,PD Trego,SR Patel,EG Barnard,1,0,,,,,,"",""
+ball,2,15.1,Nottinghamshire,PD Trego,SR Patel,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,15.2,Nottinghamshire,SR Patel,PD Trego,BL D'Oliveira,1,0,,,,,,run out,SR Patel
+ball,2,15.3,Nottinghamshire,SJ Mullaney,PD Trego,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,15.4,Nottinghamshire,PD Trego,SJ Mullaney,BL D'Oliveira,0,0,,,,,,"",""
+ball,2,15.5,Nottinghamshire,PD Trego,SJ Mullaney,BL D'Oliveira,2,0,,,,,,"",""
+ball,2,15.6,Nottinghamshire,PD Trego,SJ Mullaney,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,16.1,Nottinghamshire,PD Trego,SJ Mullaney,BJ Dwarshuis,2,0,,,,,,"",""
+ball,2,16.2,Nottinghamshire,PD Trego,SJ Mullaney,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,16.3,Nottinghamshire,PD Trego,SJ Mullaney,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,16.4,Nottinghamshire,PD Trego,SJ Mullaney,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,16.5,Nottinghamshire,SJ Mullaney,PD Trego,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,16.6,Nottinghamshire,PD Trego,SJ Mullaney,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,17.1,Nottinghamshire,SJ Mullaney,PD Trego,JC Tongue,1,0,,,,,,"",""
+ball,2,17.2,Nottinghamshire,PD Trego,SJ Mullaney,JC Tongue,1,0,,,,,,"",""
+ball,2,17.3,Nottinghamshire,SJ Mullaney,PD Trego,JC Tongue,0,0,,,,,,"",""
+ball,2,17.4,Nottinghamshire,SJ Mullaney,PD Trego,JC Tongue,1,0,,,,,,"",""
+ball,2,17.5,Nottinghamshire,PD Trego,SJ Mullaney,JC Tongue,0,0,,,,,,"",""
+ball,2,17.6,Nottinghamshire,PD Trego,SJ Mullaney,JC Tongue,0,0,,,,,,"",""
+ball,2,18.1,Nottinghamshire,SJ Mullaney,PD Trego,CAJ Morris,0,0,,,,,,"",""
+ball,2,18.2,Nottinghamshire,SJ Mullaney,PD Trego,CAJ Morris,2,0,,,,,,"",""
+ball,2,18.3,Nottinghamshire,SJ Mullaney,PD Trego,CAJ Morris,1,0,,,,,,"",""
+ball,2,18.4,Nottinghamshire,PD Trego,SJ Mullaney,CAJ Morris,1,0,,,,,,"",""
+ball,2,18.5,Nottinghamshire,SJ Mullaney,PD Trego,CAJ Morris,0,0,,,,,,caught,SJ Mullaney
+ball,2,18.6,Nottinghamshire,PD Trego,LJ Fletcher,CAJ Morris,1,0,,,,,,"",""
+ball,2,19.1,Nottinghamshire,PD Trego,LJ Fletcher,JC Tongue,1,0,,,,,,"",""
+ball,2,19.2,Nottinghamshire,LJ Fletcher,PD Trego,JC Tongue,0,1,,,1,,,"",""
+ball,2,19.3,Nottinghamshire,PD Trego,LJ Fletcher,JC Tongue,0,0,,,,,,run out,LJ Fletcher
+ball,2,19.4,Nottinghamshire,M Carter,PD Trego,JC Tongue,0,0,,,,,,"",""
+ball,2,19.5,Nottinghamshire,M Carter,PD Trego,JC Tongue,1,0,,,,,,"",""
+ball,2,19.6,Nottinghamshire,PD Trego,M Carter,JC Tongue,1,0,,,,,,run out,PD Trego

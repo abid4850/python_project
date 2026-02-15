@@ -1,0 +1,316 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Hobart Hurricanes
+info,gender,female
+info,season,2020/21
+info,date,2020/11/18
+info,event,Women's Big Bash League
+info,match_number,47
+info,venue,Hurstville Oval
+info,city,Sydney
+info,toss_winner,Hobart Hurricanes
+info,toss_decision,field
+info,player_of_match,A Sutherland
+info,umpire,AK Wilds
+info,umpire,Sharad Patel
+info,match_referee,Kent Hannam
+info,winner,Melbourne Stars
+info,winner_runs,39
+info,player,Melbourne Stars,EJ Villani
+info,player,Melbourne Stars,MM Lanning
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,KH Brunt
+info,player,Melbourne Stars,NR Sciver
+info,player,Melbourne Stars,M du Preez
+info,player,Melbourne Stars,A King
+info,player,Melbourne Stars,L Cripps
+info,player,Melbourne Stars,N Faltum
+info,player,Melbourne Stars,S Day
+info,player,Melbourne Stars,HL Ferling
+info,player,Hobart Hurricanes,RH Priest
+info,player,Hobart Hurricanes,NJ Carey
+info,player,Hobart Hurricanes,E Kershaw
+info,player,Hobart Hurricanes,NE Stalenberg
+info,player,Hobart Hurricanes,CL Tryon
+info,player,Hobart Hurricanes,HNK Jensen
+info,player,Hobart Hurricanes,CL Hall
+info,player,Hobart Hurricanes,E Thompson
+info,player,Hobart Hurricanes,A Smith
+info,player,Hobart Hurricanes,B Vakarewa
+info,player,Hobart Hurricanes,CL Rafferty
+info,registry,people,A King,83558266
+info,registry,people,A Smith,b125ce63
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AK Wilds,de412f40
+info,registry,people,B Vakarewa,06f988b8
+info,registry,people,CL Hall,6026e2ae
+info,registry,people,CL Rafferty,14a760dc
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,E Kershaw,8eeebce2
+info,registry,people,E Thompson,a7c3c366
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,HL Ferling,a594a6e0
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,KH Brunt,6a434bd3
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,L Cripps,c78d11ad
+info,registry,people,M du Preez,e219f17a
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,N Faltum,9a56c670
+info,registry,people,NE Stalenberg,609c519e
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,RH Priest,e6f0408a
+info,registry,people,S Day,c3d27d76
+info,registry,people,Sharad Patel,8e6dd3ba
+ball,1,0.1,Melbourne Stars,EJ Villani,MM Lanning,B Vakarewa,4,0,,,,,,"",""
+ball,1,0.2,Melbourne Stars,EJ Villani,MM Lanning,B Vakarewa,1,0,,,,,,"",""
+ball,1,0.3,Melbourne Stars,MM Lanning,EJ Villani,B Vakarewa,0,1,1,,,,,"",""
+ball,1,0.4,Melbourne Stars,MM Lanning,EJ Villani,B Vakarewa,0,0,,,,,,"",""
+ball,1,0.5,Melbourne Stars,MM Lanning,EJ Villani,B Vakarewa,0,0,,,,,,"",""
+ball,1,0.6,Melbourne Stars,MM Lanning,EJ Villani,B Vakarewa,4,0,,,,,,"",""
+ball,1,0.7,Melbourne Stars,MM Lanning,EJ Villani,B Vakarewa,4,0,,,,,,"",""
+ball,1,1.1,Melbourne Stars,EJ Villani,MM Lanning,CL Tryon,6,0,,,,,,"",""
+ball,1,1.2,Melbourne Stars,EJ Villani,MM Lanning,CL Tryon,0,0,,,,,,"",""
+ball,1,1.3,Melbourne Stars,EJ Villani,MM Lanning,CL Tryon,1,0,,,,,,"",""
+ball,1,1.4,Melbourne Stars,MM Lanning,EJ Villani,CL Tryon,0,0,,,,,,"",""
+ball,1,1.5,Melbourne Stars,MM Lanning,EJ Villani,CL Tryon,0,0,,,,,,"",""
+ball,1,1.6,Melbourne Stars,MM Lanning,EJ Villani,CL Tryon,2,0,,,,,,"",""
+ball,1,2.1,Melbourne Stars,EJ Villani,MM Lanning,B Vakarewa,0,0,,,,,,"",""
+ball,1,2.2,Melbourne Stars,EJ Villani,MM Lanning,B Vakarewa,0,1,1,,,,,"",""
+ball,1,2.3,Melbourne Stars,EJ Villani,MM Lanning,B Vakarewa,0,0,,,,,,"",""
+ball,1,2.4,Melbourne Stars,EJ Villani,MM Lanning,B Vakarewa,0,0,,,,,,"",""
+ball,1,2.5,Melbourne Stars,EJ Villani,MM Lanning,B Vakarewa,1,0,,,,,,"",""
+ball,1,2.6,Melbourne Stars,MM Lanning,EJ Villani,B Vakarewa,0,0,,,,,,"",""
+ball,1,2.7,Melbourne Stars,MM Lanning,EJ Villani,B Vakarewa,1,0,,,,,,"",""
+ball,1,3.1,Melbourne Stars,MM Lanning,EJ Villani,CL Rafferty,0,0,,,,,,"",""
+ball,1,3.2,Melbourne Stars,MM Lanning,EJ Villani,CL Rafferty,0,0,,,,,,"",""
+ball,1,3.3,Melbourne Stars,MM Lanning,EJ Villani,CL Rafferty,0,0,,,,,,"",""
+ball,1,3.4,Melbourne Stars,MM Lanning,EJ Villani,CL Rafferty,0,0,,,,,,"",""
+ball,1,3.5,Melbourne Stars,MM Lanning,EJ Villani,CL Rafferty,1,0,,,,,,"",""
+ball,1,3.6,Melbourne Stars,EJ Villani,MM Lanning,CL Rafferty,0,0,,,,,,"",""
+ball,1,4.1,Melbourne Stars,MM Lanning,EJ Villani,NJ Carey,4,0,,,,,,"",""
+ball,1,4.2,Melbourne Stars,MM Lanning,EJ Villani,NJ Carey,0,0,,,,,,"",""
+ball,1,4.3,Melbourne Stars,MM Lanning,EJ Villani,NJ Carey,4,0,,,,,,"",""
+ball,1,4.4,Melbourne Stars,MM Lanning,EJ Villani,NJ Carey,1,0,,,,,,"",""
+ball,1,4.5,Melbourne Stars,EJ Villani,MM Lanning,NJ Carey,0,0,,,,,,"",""
+ball,1,4.6,Melbourne Stars,EJ Villani,MM Lanning,NJ Carey,0,0,,,,,,"",""
+ball,1,5.1,Melbourne Stars,MM Lanning,EJ Villani,CL Rafferty,0,0,,,,,,caught,MM Lanning
+ball,1,5.2,Melbourne Stars,A Sutherland,EJ Villani,CL Rafferty,0,0,,,,,,"",""
+ball,1,5.3,Melbourne Stars,A Sutherland,EJ Villani,CL Rafferty,0,0,,,,,,"",""
+ball,1,5.4,Melbourne Stars,A Sutherland,EJ Villani,CL Rafferty,2,0,,,,,,"",""
+ball,1,5.5,Melbourne Stars,A Sutherland,EJ Villani,CL Rafferty,0,0,,,,,,"",""
+ball,1,5.6,Melbourne Stars,A Sutherland,EJ Villani,CL Rafferty,1,0,,,,,,"",""
+ball,1,6.1,Melbourne Stars,A Sutherland,EJ Villani,A Smith,4,0,,,,,,"",""
+ball,1,6.2,Melbourne Stars,A Sutherland,EJ Villani,A Smith,1,0,,,,,,"",""
+ball,1,6.3,Melbourne Stars,EJ Villani,A Sutherland,A Smith,0,0,,,,,,"",""
+ball,1,6.4,Melbourne Stars,EJ Villani,A Sutherland,A Smith,2,0,,,,,,"",""
+ball,1,6.5,Melbourne Stars,EJ Villani,A Sutherland,A Smith,1,0,,,,,,"",""
+ball,1,6.6,Melbourne Stars,A Sutherland,EJ Villani,A Smith,0,0,,,,,,"",""
+ball,1,7.1,Melbourne Stars,EJ Villani,A Sutherland,HNK Jensen,1,0,,,,,,"",""
+ball,1,7.2,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,1,0,,,,,,"",""
+ball,1,7.3,Melbourne Stars,EJ Villani,A Sutherland,HNK Jensen,1,0,,,,,,"",""
+ball,1,7.4,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,0,0,,,,,,"",""
+ball,1,7.5,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,0,0,,,,,,"",""
+ball,1,7.6,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,1,0,,,,,,"",""
+ball,1,8.1,Melbourne Stars,A Sutherland,EJ Villani,CL Tryon,1,0,,,,,,"",""
+ball,1,8.2,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,0,0,,,,,,"",""
+ball,1,8.3,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,1,0,,,,,,"",""
+ball,1,8.4,Melbourne Stars,A Sutherland,EJ Villani,CL Tryon,1,0,,,,,,"",""
+ball,1,8.5,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,0,0,,,,,,"",""
+ball,1,8.6,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,1,0,,,,,,"",""
+ball,1,9.1,Melbourne Stars,EJ Villani,A Sutherland,NJ Carey,1,0,,,,,,"",""
+ball,1,9.2,Melbourne Stars,A Sutherland,EJ Villani,NJ Carey,1,0,,,,,,"",""
+ball,1,9.3,Melbourne Stars,EJ Villani,A Sutherland,NJ Carey,1,0,,,,,,"",""
+ball,1,9.4,Melbourne Stars,A Sutherland,EJ Villani,NJ Carey,1,0,,,,,,"",""
+ball,1,9.5,Melbourne Stars,EJ Villani,A Sutherland,NJ Carey,1,0,,,,,,"",""
+ball,1,9.6,Melbourne Stars,A Sutherland,EJ Villani,NJ Carey,2,0,,,,,,"",""
+ball,1,10.1,Melbourne Stars,EJ Villani,A Sutherland,A Smith,4,0,,,,,,"",""
+ball,1,10.2,Melbourne Stars,EJ Villani,A Sutherland,A Smith,1,0,,,,,,"",""
+ball,1,10.3,Melbourne Stars,A Sutherland,EJ Villani,A Smith,0,1,1,,,,,"",""
+ball,1,10.4,Melbourne Stars,A Sutherland,EJ Villani,A Smith,1,0,,,,,,"",""
+ball,1,10.5,Melbourne Stars,EJ Villani,A Sutherland,A Smith,1,0,,,,,,"",""
+ball,1,10.6,Melbourne Stars,A Sutherland,EJ Villani,A Smith,4,0,,,,,,"",""
+ball,1,10.7,Melbourne Stars,A Sutherland,EJ Villani,A Smith,4,0,,,,,,"",""
+ball,1,11.1,Melbourne Stars,EJ Villani,A Sutherland,HNK Jensen,3,0,,,,,,"",""
+ball,1,11.2,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,1,0,,,,,,"",""
+ball,1,11.3,Melbourne Stars,EJ Villani,A Sutherland,HNK Jensen,1,0,,,,,,"",""
+ball,1,11.4,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,1,0,,,,,,"",""
+ball,1,11.5,Melbourne Stars,EJ Villani,A Sutherland,HNK Jensen,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,1,0,,,,,,"",""
+ball,1,12.1,Melbourne Stars,A Sutherland,EJ Villani,CL Tryon,1,0,,,,,,"",""
+ball,1,12.2,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,1,0,,,,,,"",""
+ball,1,12.3,Melbourne Stars,A Sutherland,EJ Villani,CL Tryon,1,0,,,,,,"",""
+ball,1,12.4,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,1,0,,,,,,"",""
+ball,1,12.5,Melbourne Stars,A Sutherland,EJ Villani,CL Tryon,0,0,,,,,,"",""
+ball,1,12.6,Melbourne Stars,A Sutherland,EJ Villani,CL Tryon,1,0,,,,,,"",""
+ball,1,13.1,Melbourne Stars,A Sutherland,EJ Villani,CL Rafferty,6,0,,,,,,"",""
+ball,1,13.2,Melbourne Stars,A Sutherland,EJ Villani,CL Rafferty,6,0,,,,,,"",""
+ball,1,13.3,Melbourne Stars,A Sutherland,EJ Villani,CL Rafferty,1,0,,,,,,"",""
+ball,1,13.4,Melbourne Stars,EJ Villani,A Sutherland,CL Rafferty,0,1,1,,,,,"",""
+ball,1,13.5,Melbourne Stars,EJ Villani,A Sutherland,CL Rafferty,1,0,,,,,,"",""
+ball,1,13.6,Melbourne Stars,A Sutherland,EJ Villani,CL Rafferty,1,0,,,,,,"",""
+ball,1,13.7,Melbourne Stars,EJ Villani,A Sutherland,CL Rafferty,1,0,,,,,,"",""
+ball,1,14.1,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,0,0,,,,,,"",""
+ball,1,14.2,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,2,0,,,,,,"",""
+ball,1,14.3,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,0,0,,,,,,"",""
+ball,1,14.4,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,6,0,,,,,,"",""
+ball,1,14.5,Melbourne Stars,EJ Villani,A Sutherland,CL Tryon,1,0,,,,,,"",""
+ball,1,14.6,Melbourne Stars,A Sutherland,EJ Villani,CL Tryon,2,0,,,,,,"",""
+ball,1,15.1,Melbourne Stars,EJ Villani,A Sutherland,NJ Carey,0,0,,,,,,"",""
+ball,1,15.2,Melbourne Stars,EJ Villani,A Sutherland,NJ Carey,1,0,,,,,,"",""
+ball,1,15.3,Melbourne Stars,A Sutherland,EJ Villani,NJ Carey,0,2,,,,2,,"",""
+ball,1,15.4,Melbourne Stars,A Sutherland,EJ Villani,NJ Carey,1,0,,,,,,"",""
+ball,1,15.5,Melbourne Stars,EJ Villani,A Sutherland,NJ Carey,1,0,,,,,,"",""
+ball,1,15.6,Melbourne Stars,A Sutherland,EJ Villani,NJ Carey,1,0,,,,,,"",""
+ball,1,16.1,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,2,0,,,,,,"",""
+ball,1,16.2,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,1,0,,,,,,"",""
+ball,1,16.3,Melbourne Stars,EJ Villani,A Sutherland,HNK Jensen,1,0,,,,,,"",""
+ball,1,16.4,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,0,0,,,,,,"",""
+ball,1,16.5,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,1,0,,,,,,"",""
+ball,1,16.6,Melbourne Stars,EJ Villani,A Sutherland,HNK Jensen,4,0,,,,,,"",""
+ball,1,17.1,Melbourne Stars,A Sutherland,EJ Villani,B Vakarewa,1,0,,,,,,"",""
+ball,1,17.2,Melbourne Stars,EJ Villani,A Sutherland,B Vakarewa,1,0,,,,,,"",""
+ball,1,17.3,Melbourne Stars,A Sutherland,EJ Villani,B Vakarewa,2,0,,,,,,"",""
+ball,1,17.4,Melbourne Stars,A Sutherland,EJ Villani,B Vakarewa,2,0,,,,,,"",""
+ball,1,17.5,Melbourne Stars,A Sutherland,EJ Villani,B Vakarewa,0,0,,,,,,"",""
+ball,1,17.6,Melbourne Stars,A Sutherland,EJ Villani,B Vakarewa,1,0,,,,,,"",""
+ball,1,18.1,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,4,0,,,,,,"",""
+ball,1,18.2,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,4,0,,,,,,"",""
+ball,1,18.3,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,2,0,,,,,,"",""
+ball,1,18.4,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,0,1,1,,,,,"",""
+ball,1,18.5,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,1,0,,,,,,"",""
+ball,1,18.6,Melbourne Stars,EJ Villani,A Sutherland,HNK Jensen,1,0,,,,,,"",""
+ball,1,18.7,Melbourne Stars,A Sutherland,EJ Villani,HNK Jensen,1,0,,,,,,"",""
+ball,1,19.1,Melbourne Stars,A Sutherland,EJ Villani,B Vakarewa,1,0,,,,,,"",""
+ball,1,19.2,Melbourne Stars,EJ Villani,A Sutherland,B Vakarewa,0,0,,,,,,lbw,EJ Villani
+ball,1,19.3,Melbourne Stars,KH Brunt,A Sutherland,B Vakarewa,1,0,,,,,,"",""
+ball,1,19.4,Melbourne Stars,A Sutherland,KH Brunt,B Vakarewa,0,0,,,,,,caught,A Sutherland
+ball,1,19.5,Melbourne Stars,KH Brunt,NR Sciver,B Vakarewa,0,0,,,,,,"",""
+ball,1,19.6,Melbourne Stars,KH Brunt,NR Sciver,B Vakarewa,2,0,,,,,,"",""
+ball,2,0.1,Hobart Hurricanes,RH Priest,NJ Carey,NR Sciver,1,0,,,,,,"",""
+ball,2,0.2,Hobart Hurricanes,NJ Carey,RH Priest,NR Sciver,0,0,,,,,,"",""
+ball,2,0.3,Hobart Hurricanes,NJ Carey,RH Priest,NR Sciver,0,0,,,,,,"",""
+ball,2,0.4,Hobart Hurricanes,NJ Carey,RH Priest,NR Sciver,0,0,,,,,,"",""
+ball,2,0.5,Hobart Hurricanes,NJ Carey,RH Priest,NR Sciver,1,0,,,,,,"",""
+ball,2,0.6,Hobart Hurricanes,RH Priest,NJ Carey,NR Sciver,4,0,,,,,,"",""
+ball,2,1.1,Hobart Hurricanes,NJ Carey,RH Priest,KH Brunt,0,0,,,,,,"",""
+ball,2,1.2,Hobart Hurricanes,NJ Carey,RH Priest,KH Brunt,0,0,,,,,,"",""
+ball,2,1.3,Hobart Hurricanes,NJ Carey,RH Priest,KH Brunt,0,0,,,,,,"",""
+ball,2,1.4,Hobart Hurricanes,NJ Carey,RH Priest,KH Brunt,1,0,,,,,,"",""
+ball,2,1.5,Hobart Hurricanes,RH Priest,NJ Carey,KH Brunt,0,0,,,,,,"",""
+ball,2,1.6,Hobart Hurricanes,RH Priest,NJ Carey,KH Brunt,1,0,,,,,,"",""
+ball,2,2.1,Hobart Hurricanes,RH Priest,NJ Carey,NR Sciver,6,0,,,,,,"",""
+ball,2,2.2,Hobart Hurricanes,RH Priest,NJ Carey,NR Sciver,0,0,,,,,,"",""
+ball,2,2.3,Hobart Hurricanes,RH Priest,NJ Carey,NR Sciver,6,0,,,,,,"",""
+ball,2,2.4,Hobart Hurricanes,RH Priest,NJ Carey,NR Sciver,0,0,,,,,,"",""
+ball,2,2.5,Hobart Hurricanes,RH Priest,NJ Carey,NR Sciver,0,0,,,,,,"",""
+ball,2,2.6,Hobart Hurricanes,RH Priest,NJ Carey,NR Sciver,0,0,,,,,,"",""
+ball,2,3.1,Hobart Hurricanes,NJ Carey,RH Priest,S Day,1,0,,,,,,"",""
+ball,2,3.2,Hobart Hurricanes,RH Priest,NJ Carey,S Day,1,0,,,,,,"",""
+ball,2,3.3,Hobart Hurricanes,NJ Carey,RH Priest,S Day,0,0,,,,,,"",""
+ball,2,3.4,Hobart Hurricanes,NJ Carey,RH Priest,S Day,1,0,,,,,,"",""
+ball,2,3.5,Hobart Hurricanes,RH Priest,NJ Carey,S Day,1,0,,,,,,"",""
+ball,2,3.6,Hobart Hurricanes,NJ Carey,RH Priest,S Day,4,0,,,,,,"",""
+ball,2,4.1,Hobart Hurricanes,RH Priest,NJ Carey,KH Brunt,4,0,,,,,,"",""
+ball,2,4.2,Hobart Hurricanes,RH Priest,NJ Carey,KH Brunt,0,0,,,,,,"",""
+ball,2,4.3,Hobart Hurricanes,RH Priest,NJ Carey,KH Brunt,0,0,,,,,,"",""
+ball,2,4.4,Hobart Hurricanes,RH Priest,NJ Carey,KH Brunt,0,0,,,,,,"",""
+ball,2,4.5,Hobart Hurricanes,RH Priest,NJ Carey,KH Brunt,0,0,,,,,,"",""
+ball,2,4.6,Hobart Hurricanes,RH Priest,NJ Carey,KH Brunt,0,0,,,,,,lbw,RH Priest
+ball,2,5.1,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,0,0,,,,,,"",""
+ball,2,5.2,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,2,0,,,,,,"",""
+ball,2,5.3,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,1,0,,,,,,"",""
+ball,2,5.4,Hobart Hurricanes,E Kershaw,NJ Carey,A Sutherland,0,0,,,,,,"",""
+ball,2,5.5,Hobart Hurricanes,E Kershaw,NJ Carey,A Sutherland,0,0,,,,,,"",""
+ball,2,5.6,Hobart Hurricanes,E Kershaw,NJ Carey,A Sutherland,0,0,,,,,,"",""
+ball,2,6.1,Hobart Hurricanes,NJ Carey,E Kershaw,A King,4,0,,,,,,"",""
+ball,2,6.2,Hobart Hurricanes,NJ Carey,E Kershaw,A King,0,0,,,,,,"",""
+ball,2,6.3,Hobart Hurricanes,NJ Carey,E Kershaw,A King,1,0,,,,,,"",""
+ball,2,6.4,Hobart Hurricanes,E Kershaw,NJ Carey,A King,2,0,,,,,,"",""
+ball,2,6.5,Hobart Hurricanes,E Kershaw,NJ Carey,A King,1,0,,,,,,"",""
+ball,2,6.6,Hobart Hurricanes,NJ Carey,E Kershaw,A King,1,0,,,,,,"",""
+ball,2,7.1,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,0,0,,,,,,"",""
+ball,2,7.2,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,1,0,,,,,,"",""
+ball,2,7.3,Hobart Hurricanes,E Kershaw,NJ Carey,A Sutherland,1,0,,,,,,"",""
+ball,2,7.4,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,1,0,,,,,,"",""
+ball,2,7.5,Hobart Hurricanes,E Kershaw,NJ Carey,A Sutherland,1,0,,,,,,"",""
+ball,2,7.6,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,0,0,,,,,,"",""
+ball,2,8.1,Hobart Hurricanes,E Kershaw,NJ Carey,S Day,0,0,,,,,,"",""
+ball,2,8.2,Hobart Hurricanes,E Kershaw,NJ Carey,S Day,1,0,,,,,,"",""
+ball,2,8.3,Hobart Hurricanes,NJ Carey,E Kershaw,S Day,0,0,,,,,,"",""
+ball,2,8.4,Hobart Hurricanes,NJ Carey,E Kershaw,S Day,1,0,,,,,,"",""
+ball,2,8.5,Hobart Hurricanes,E Kershaw,NJ Carey,S Day,1,0,,,,,,"",""
+ball,2,8.6,Hobart Hurricanes,NJ Carey,E Kershaw,S Day,0,0,,,,,,"",""
+ball,2,9.1,Hobart Hurricanes,E Kershaw,NJ Carey,HL Ferling,0,0,,,,,,"",""
+ball,2,9.2,Hobart Hurricanes,E Kershaw,NJ Carey,HL Ferling,0,0,,,,,,"",""
+ball,2,9.3,Hobart Hurricanes,E Kershaw,NJ Carey,HL Ferling,0,0,,,,,,"",""
+ball,2,9.4,Hobart Hurricanes,E Kershaw,NJ Carey,HL Ferling,1,0,,,,,,"",""
+ball,2,9.5,Hobart Hurricanes,NJ Carey,E Kershaw,HL Ferling,1,0,,,,,,"",""
+ball,2,9.6,Hobart Hurricanes,E Kershaw,NJ Carey,HL Ferling,0,1,1,,,,,"",""
+ball,2,9.7,Hobart Hurricanes,E Kershaw,NJ Carey,HL Ferling,0,0,,,,,,"",""
+ball,2,10.1,Hobart Hurricanes,NJ Carey,E Kershaw,A King,1,0,,,,,,"",""
+ball,2,10.2,Hobart Hurricanes,E Kershaw,NJ Carey,A King,4,0,,,,,,"",""
+ball,2,10.3,Hobart Hurricanes,E Kershaw,NJ Carey,A King,0,2,,,2,,,"",""
+ball,2,10.4,Hobart Hurricanes,E Kershaw,NJ Carey,A King,1,0,,,,,,"",""
+ball,2,10.5,Hobart Hurricanes,NJ Carey,E Kershaw,A King,0,0,,,,,,"",""
+ball,2,10.6,Hobart Hurricanes,NJ Carey,E Kershaw,A King,1,0,,,,,,"",""
+ball,2,11.1,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,0,0,,,,,,"",""
+ball,2,11.2,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,0,0,,,,,,"",""
+ball,2,11.3,Hobart Hurricanes,NJ Carey,E Kershaw,A Sutherland,0,0,,,,,,caught,NJ Carey
+ball,2,11.4,Hobart Hurricanes,NE Stalenberg,E Kershaw,A Sutherland,4,0,,,,,,"",""
+ball,2,11.5,Hobart Hurricanes,NE Stalenberg,E Kershaw,A Sutherland,0,1,1,,,,,"",""
+ball,2,11.6,Hobart Hurricanes,NE Stalenberg,E Kershaw,A Sutherland,0,0,,,,,,"",""
+ball,2,11.7,Hobart Hurricanes,NE Stalenberg,E Kershaw,A Sutherland,1,0,,,,,,"",""
+ball,2,12.1,Hobart Hurricanes,NE Stalenberg,E Kershaw,KH Brunt,1,0,,,,,,"",""
+ball,2,12.2,Hobart Hurricanes,E Kershaw,NE Stalenberg,KH Brunt,0,0,,,,,,"",""
+ball,2,12.3,Hobart Hurricanes,E Kershaw,NE Stalenberg,KH Brunt,0,0,,,,,,"",""
+ball,2,12.4,Hobart Hurricanes,E Kershaw,NE Stalenberg,KH Brunt,1,0,,,,,,"",""
+ball,2,12.5,Hobart Hurricanes,NE Stalenberg,E Kershaw,KH Brunt,0,0,,,,,,"",""
+ball,2,12.6,Hobart Hurricanes,NE Stalenberg,E Kershaw,KH Brunt,1,0,,,,,,"",""
+ball,2,13.1,Hobart Hurricanes,NE Stalenberg,E Kershaw,S Day,1,0,,,,,,"",""
+ball,2,13.2,Hobart Hurricanes,E Kershaw,NE Stalenberg,S Day,1,0,,,,,,"",""
+ball,2,13.3,Hobart Hurricanes,NE Stalenberg,E Kershaw,S Day,0,0,,,,,,"",""
+ball,2,13.4,Hobart Hurricanes,NE Stalenberg,E Kershaw,S Day,1,0,,,,,,"",""
+ball,2,13.5,Hobart Hurricanes,E Kershaw,NE Stalenberg,S Day,0,0,,,,,,caught,E Kershaw
+ball,2,13.6,Hobart Hurricanes,NE Stalenberg,CL Tryon,S Day,1,0,,,,,,"",""
+ball,2,14.1,Hobart Hurricanes,NE Stalenberg,CL Tryon,KH Brunt,0,1,1,,,,,"",""
+ball,2,14.2,Hobart Hurricanes,NE Stalenberg,CL Tryon,KH Brunt,1,0,,,,,,"",""
+ball,2,14.3,Hobart Hurricanes,CL Tryon,NE Stalenberg,KH Brunt,1,0,,,,,,"",""
+ball,2,14.4,Hobart Hurricanes,NE Stalenberg,CL Tryon,KH Brunt,0,0,,,,,,"",""
+ball,2,14.5,Hobart Hurricanes,NE Stalenberg,CL Tryon,KH Brunt,0,0,,,,,,"",""
+ball,2,14.6,Hobart Hurricanes,NE Stalenberg,CL Tryon,KH Brunt,0,0,,,,,,bowled,NE Stalenberg
+ball,2,14.7,Hobart Hurricanes,HNK Jensen,CL Tryon,KH Brunt,0,0,,,,,,"",""
+ball,2,15.1,Hobart Hurricanes,CL Tryon,HNK Jensen,HL Ferling,0,1,1,,,,,"",""
+ball,2,15.2,Hobart Hurricanes,CL Tryon,HNK Jensen,HL Ferling,1,0,,,,,,"",""
+ball,2,15.3,Hobart Hurricanes,HNK Jensen,CL Tryon,HL Ferling,1,0,,,,,,"",""
+ball,2,15.4,Hobart Hurricanes,CL Tryon,HNK Jensen,HL Ferling,0,1,1,,,,,"",""
+ball,2,15.5,Hobart Hurricanes,CL Tryon,HNK Jensen,HL Ferling,1,0,,,,,,"",""
+ball,2,15.6,Hobart Hurricanes,HNK Jensen,CL Tryon,HL Ferling,0,0,,,,,,"",""
+ball,2,15.7,Hobart Hurricanes,HNK Jensen,CL Tryon,HL Ferling,0,0,,,,,,"",""
+ball,2,15.8,Hobart Hurricanes,HNK Jensen,CL Tryon,HL Ferling,0,0,,,,,,bowled,HNK Jensen
+ball,2,16.1,Hobart Hurricanes,CL Tryon,CL Hall,NR Sciver,6,0,,,,,,"",""
+ball,2,16.2,Hobart Hurricanes,CL Tryon,CL Hall,NR Sciver,2,0,,,,,,"",""
+ball,2,16.3,Hobart Hurricanes,CL Tryon,CL Hall,NR Sciver,0,0,,,,,,"",""
+ball,2,16.4,Hobart Hurricanes,CL Tryon,CL Hall,NR Sciver,0,0,,,,,,"",""
+ball,2,16.5,Hobart Hurricanes,CL Tryon,CL Hall,NR Sciver,4,0,,,,,,"",""
+ball,2,16.6,Hobart Hurricanes,CL Tryon,CL Hall,NR Sciver,1,0,,,,,,"",""
+ball,2,17.1,Hobart Hurricanes,CL Tryon,CL Hall,S Day,2,0,,,,,,"",""
+ball,2,17.2,Hobart Hurricanes,CL Tryon,CL Hall,S Day,0,0,,,,,,"",""
+ball,2,17.3,Hobart Hurricanes,CL Tryon,CL Hall,S Day,0,0,,,,,,caught,CL Tryon
+ball,2,17.4,Hobart Hurricanes,CL Hall,E Thompson,S Day,2,0,,,,,,"",""
+ball,2,17.5,Hobart Hurricanes,CL Hall,E Thompson,S Day,4,0,,,,,,"",""
+ball,2,17.6,Hobart Hurricanes,CL Hall,E Thompson,S Day,1,0,,,,,,"",""
+ball,2,18.1,Hobart Hurricanes,CL Hall,E Thompson,NR Sciver,0,0,,,,,,bowled,CL Hall
+ball,2,18.2,Hobart Hurricanes,A Smith,E Thompson,NR Sciver,1,0,,,,,,"",""
+ball,2,18.3,Hobart Hurricanes,E Thompson,A Smith,NR Sciver,2,0,,,,,,"",""
+ball,2,18.4,Hobart Hurricanes,E Thompson,A Smith,NR Sciver,1,0,,,,,,"",""
+ball,2,18.5,Hobart Hurricanes,A Smith,E Thompson,NR Sciver,1,0,,,,,,"",""
+ball,2,18.6,Hobart Hurricanes,E Thompson,A Smith,NR Sciver,1,0,,,,,,"",""
+ball,2,19.1,Hobart Hurricanes,E Thompson,A Smith,A King,3,0,,,,,,"",""
+ball,2,19.2,Hobart Hurricanes,A Smith,E Thompson,A King,2,0,,,,,,"",""
+ball,2,19.3,Hobart Hurricanes,A Smith,E Thompson,A King,1,0,,,,,,"",""
+ball,2,19.4,Hobart Hurricanes,E Thompson,A Smith,A King,1,0,,,,,,"",""
+ball,2,19.5,Hobart Hurricanes,A Smith,E Thompson,A King,1,0,,,,,,"",""
+ball,2,19.6,Hobart Hurricanes,E Thompson,A Smith,A King,0,0,,,,,,bowled,E Thompson

@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Lancashire
+info,gender,male
+info,season,2022
+info,date,2022/07/16
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Hampshire
+info,toss_decision,bat
+info,player_of_match,BR McDermott
+info,umpire,DJ Millns
+info,umpire,GD Lloyd
+info,reserve_umpire,NA Mallender
+info,tv_umpire,PK Baldwin
+info,match_referee,DA Cosker
+info,winner,Hampshire
+info,winner_runs,1
+info,player,Hampshire,JM Vince
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,RA Whiteley
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,NT Ellis
+info,player,Hampshire,CP Wood
+info,player,Hampshire,MS Crane
+info,player,Hampshire,BTJ Wheal
+info,player,Lancashire,PD Salt
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,TH David
+info,player,Lancashire,DJ Lamb
+info,player,Lancashire,L Wood
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,RJ Gleeson
+info,player,Lancashire,MW Parkinson
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Wood,65b6943c
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,MW Parkinson,19708692
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,SJ Croft,ab474682
+info,registry,people,TH David,f1f99156
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,TW Hartley,22b98d7c
+ball,1,0.1,Hampshire,JM Vince,BR McDermott,TW Hartley,2,0,,,,,,"",""
+ball,1,0.2,Hampshire,JM Vince,BR McDermott,TW Hartley,1,0,,,,,,"",""
+ball,1,0.3,Hampshire,BR McDermott,JM Vince,TW Hartley,0,0,,,,,,"",""
+ball,1,0.4,Hampshire,BR McDermott,JM Vince,TW Hartley,1,0,,,,,,"",""
+ball,1,0.5,Hampshire,JM Vince,BR McDermott,TW Hartley,1,0,,,,,,"",""
+ball,1,0.6,Hampshire,BR McDermott,JM Vince,TW Hartley,4,0,,,,,,"",""
+ball,1,1.1,Hampshire,JM Vince,BR McDermott,RJ Gleeson,1,0,,,,,,"",""
+ball,1,1.2,Hampshire,BR McDermott,JM Vince,RJ Gleeson,1,0,,,,,,"",""
+ball,1,1.3,Hampshire,JM Vince,BR McDermott,RJ Gleeson,0,0,,,,,,bowled,JM Vince
+ball,1,1.4,Hampshire,TJ Prest,BR McDermott,RJ Gleeson,0,1,1,,,,,"",""
+ball,1,1.5,Hampshire,TJ Prest,BR McDermott,RJ Gleeson,0,0,,,,,,"",""
+ball,1,1.6,Hampshire,TJ Prest,BR McDermott,RJ Gleeson,1,0,,,,,,"",""
+ball,1,1.7,Hampshire,BR McDermott,TJ Prest,RJ Gleeson,0,0,,,,,,"",""
+ball,1,2.1,Hampshire,TJ Prest,BR McDermott,L Wood,0,0,,,,,,"",""
+ball,1,2.2,Hampshire,TJ Prest,BR McDermott,L Wood,0,0,,,,,,"",""
+ball,1,2.3,Hampshire,TJ Prest,BR McDermott,L Wood,0,0,,,,,,"",""
+ball,1,2.4,Hampshire,TJ Prest,BR McDermott,L Wood,1,0,,,,,,"",""
+ball,1,2.5,Hampshire,BR McDermott,TJ Prest,L Wood,1,0,,,,,,"",""
+ball,1,2.6,Hampshire,TJ Prest,BR McDermott,L Wood,0,0,,,,,,caught,TJ Prest
+ball,1,3.1,Hampshire,BR McDermott,JJ Weatherley,RJ Gleeson,0,0,,,,,,"",""
+ball,1,3.2,Hampshire,BR McDermott,JJ Weatherley,RJ Gleeson,0,0,,,,,,"",""
+ball,1,3.3,Hampshire,BR McDermott,JJ Weatherley,RJ Gleeson,0,0,,,,,,"",""
+ball,1,3.4,Hampshire,BR McDermott,JJ Weatherley,RJ Gleeson,4,0,,,,,,"",""
+ball,1,3.5,Hampshire,BR McDermott,JJ Weatherley,RJ Gleeson,4,0,,,,,,"",""
+ball,1,3.6,Hampshire,BR McDermott,JJ Weatherley,RJ Gleeson,0,0,,,,,,"",""
+ball,1,4.1,Hampshire,JJ Weatherley,BR McDermott,L Wood,0,0,,,,,,"",""
+ball,1,4.2,Hampshire,JJ Weatherley,BR McDermott,L Wood,0,0,,,,,,"",""
+ball,1,4.3,Hampshire,JJ Weatherley,BR McDermott,L Wood,0,6,,2,4,,,"",""
+ball,1,4.4,Hampshire,JJ Weatherley,BR McDermott,L Wood,1,0,,,,,,"",""
+ball,1,4.5,Hampshire,BR McDermott,JJ Weatherley,L Wood,1,0,,,,,,"",""
+ball,1,4.6,Hampshire,JJ Weatherley,BR McDermott,L Wood,1,0,,,,,,"",""
+ball,1,4.7,Hampshire,BR McDermott,JJ Weatherley,L Wood,6,0,,,,,,"",""
+ball,1,5.1,Hampshire,JJ Weatherley,BR McDermott,DJ Lamb,1,0,,,,,,"",""
+ball,1,5.2,Hampshire,BR McDermott,JJ Weatherley,DJ Lamb,6,0,,,,,,"",""
+ball,1,5.3,Hampshire,BR McDermott,JJ Weatherley,DJ Lamb,1,0,,,,,,"",""
+ball,1,5.4,Hampshire,JJ Weatherley,BR McDermott,DJ Lamb,1,0,,,,,,"",""
+ball,1,5.5,Hampshire,BR McDermott,JJ Weatherley,DJ Lamb,1,0,,,,,,"",""
+ball,1,5.6,Hampshire,JJ Weatherley,BR McDermott,DJ Lamb,0,0,,,,,,"",""
+ball,1,6.1,Hampshire,BR McDermott,JJ Weatherley,TW Hartley,1,0,,,,,,"",""
+ball,1,6.2,Hampshire,JJ Weatherley,BR McDermott,TW Hartley,0,0,,,,,,"",""
+ball,1,6.3,Hampshire,JJ Weatherley,BR McDermott,TW Hartley,1,0,,,,,,"",""
+ball,1,6.4,Hampshire,BR McDermott,JJ Weatherley,TW Hartley,1,0,,,,,,"",""
+ball,1,6.5,Hampshire,JJ Weatherley,BR McDermott,TW Hartley,0,1,,,1,,,"",""
+ball,1,6.6,Hampshire,BR McDermott,JJ Weatherley,TW Hartley,1,0,,,,,,"",""
+ball,1,7.1,Hampshire,BR McDermott,JJ Weatherley,MW Parkinson,1,0,,,,,,"",""
+ball,1,7.2,Hampshire,JJ Weatherley,BR McDermott,MW Parkinson,4,0,,,,,,"",""
+ball,1,7.3,Hampshire,JJ Weatherley,BR McDermott,MW Parkinson,0,0,,,,,,caught,JJ Weatherley
+ball,1,7.4,Hampshire,LA Dawson,BR McDermott,MW Parkinson,0,1,1,,,,,"",""
+ball,1,7.5,Hampshire,LA Dawson,BR McDermott,MW Parkinson,1,0,,,,,,"",""
+ball,1,7.6,Hampshire,BR McDermott,LA Dawson,MW Parkinson,1,0,,,,,,"",""
+ball,1,7.7,Hampshire,LA Dawson,BR McDermott,MW Parkinson,0,0,,,,,,"",""
+ball,1,8.1,Hampshire,BR McDermott,LA Dawson,TW Hartley,1,0,,,,,,"",""
+ball,1,8.2,Hampshire,LA Dawson,BR McDermott,TW Hartley,0,0,,,,,,"",""
+ball,1,8.3,Hampshire,LA Dawson,BR McDermott,TW Hartley,1,0,,,,,,"",""
+ball,1,8.4,Hampshire,BR McDermott,LA Dawson,TW Hartley,0,0,,,,,,"",""
+ball,1,8.5,Hampshire,BR McDermott,LA Dawson,TW Hartley,1,0,,,,,,"",""
+ball,1,8.6,Hampshire,LA Dawson,BR McDermott,TW Hartley,0,0,,,,,,"",""
+ball,1,9.1,Hampshire,BR McDermott,LA Dawson,MW Parkinson,2,0,,,,,,"",""
+ball,1,9.2,Hampshire,BR McDermott,LA Dawson,MW Parkinson,0,0,,,,,,"",""
+ball,1,9.3,Hampshire,BR McDermott,LA Dawson,MW Parkinson,1,0,,,,,,"",""
+ball,1,9.4,Hampshire,LA Dawson,BR McDermott,MW Parkinson,0,0,,,,,,caught,LA Dawson
+ball,1,9.5,Hampshire,RA Whiteley,BR McDermott,MW Parkinson,1,0,,,,,,"",""
+ball,1,9.6,Hampshire,BR McDermott,RA Whiteley,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.1,Hampshire,BR McDermott,RA Whiteley,LWP Wells,6,0,,,,,,"",""
+ball,1,10.2,Hampshire,BR McDermott,RA Whiteley,LWP Wells,2,0,,,,,,"",""
+ball,1,10.3,Hampshire,BR McDermott,RA Whiteley,LWP Wells,4,0,,,,,,"",""
+ball,1,10.4,Hampshire,BR McDermott,RA Whiteley,LWP Wells,2,0,,,,,,"",""
+ball,1,10.5,Hampshire,BR McDermott,RA Whiteley,LWP Wells,6,0,,,,,,"",""
+ball,1,10.6,Hampshire,BR McDermott,RA Whiteley,LWP Wells,1,0,,,,,,"",""
+ball,1,11.1,Hampshire,BR McDermott,RA Whiteley,MW Parkinson,0,0,,,,,,bowled,BR McDermott
+ball,1,11.2,Hampshire,JK Fuller,RA Whiteley,MW Parkinson,1,0,,,,,,"",""
+ball,1,11.3,Hampshire,RA Whiteley,JK Fuller,MW Parkinson,1,0,,,,,,"",""
+ball,1,11.4,Hampshire,JK Fuller,RA Whiteley,MW Parkinson,6,0,,,,,,"",""
+ball,1,11.5,Hampshire,JK Fuller,RA Whiteley,MW Parkinson,1,0,,,,,,"",""
+ball,1,11.6,Hampshire,RA Whiteley,JK Fuller,MW Parkinson,2,0,,,,,,"",""
+ball,1,12.1,Hampshire,JK Fuller,RA Whiteley,DJ Lamb,1,0,,,,,,"",""
+ball,1,12.2,Hampshire,RA Whiteley,JK Fuller,DJ Lamb,1,0,,,,,,"",""
+ball,1,12.3,Hampshire,JK Fuller,RA Whiteley,DJ Lamb,1,0,,,,,,"",""
+ball,1,12.4,Hampshire,RA Whiteley,JK Fuller,DJ Lamb,1,0,,,,,,"",""
+ball,1,12.5,Hampshire,JK Fuller,RA Whiteley,DJ Lamb,0,0,,,,,,"",""
+ball,1,12.6,Hampshire,JK Fuller,RA Whiteley,DJ Lamb,0,0,,,,,,caught,JK Fuller
+ball,1,13.1,Hampshire,RA Whiteley,NT Ellis,L Wood,1,0,,,,,,"",""
+ball,1,13.2,Hampshire,NT Ellis,RA Whiteley,L Wood,1,0,,,,,,"",""
+ball,1,13.3,Hampshire,RA Whiteley,NT Ellis,L Wood,1,0,,,,,,"",""
+ball,1,13.4,Hampshire,NT Ellis,RA Whiteley,L Wood,1,0,,,,,,"",""
+ball,1,13.5,Hampshire,RA Whiteley,NT Ellis,L Wood,1,0,,,,,,"",""
+ball,1,13.6,Hampshire,NT Ellis,RA Whiteley,L Wood,0,0,,,,,,"",""
+ball,1,14.1,Hampshire,RA Whiteley,NT Ellis,MW Parkinson,1,0,,,,,,"",""
+ball,1,14.2,Hampshire,NT Ellis,RA Whiteley,MW Parkinson,0,0,,,,,,"",""
+ball,1,14.3,Hampshire,NT Ellis,RA Whiteley,MW Parkinson,0,0,,,,,,caught,NT Ellis
+ball,1,14.4,Hampshire,CP Wood,RA Whiteley,MW Parkinson,0,0,,,,,,"",""
+ball,1,14.5,Hampshire,CP Wood,RA Whiteley,MW Parkinson,0,0,,,,,,"",""
+ball,1,14.6,Hampshire,CP Wood,RA Whiteley,MW Parkinson,1,0,,,,,,"",""
+ball,1,15.1,Hampshire,CP Wood,RA Whiteley,RJ Gleeson,1,0,,,,,,"",""
+ball,1,15.2,Hampshire,RA Whiteley,CP Wood,RJ Gleeson,1,0,,,,,,"",""
+ball,1,15.3,Hampshire,CP Wood,RA Whiteley,RJ Gleeson,1,0,,,,,,"",""
+ball,1,15.4,Hampshire,RA Whiteley,CP Wood,RJ Gleeson,1,0,,,,,,"",""
+ball,1,15.5,Hampshire,CP Wood,RA Whiteley,RJ Gleeson,1,0,,,,,,"",""
+ball,1,15.6,Hampshire,RA Whiteley,CP Wood,RJ Gleeson,0,0,,,,,,"",""
+ball,1,16.1,Hampshire,CP Wood,RA Whiteley,TW Hartley,1,0,,,,,,"",""
+ball,1,16.2,Hampshire,RA Whiteley,CP Wood,TW Hartley,1,0,,,,,,"",""
+ball,1,16.3,Hampshire,CP Wood,RA Whiteley,TW Hartley,0,0,,,,,,"",""
+ball,1,16.4,Hampshire,CP Wood,RA Whiteley,TW Hartley,1,0,,,,,,"",""
+ball,1,16.5,Hampshire,RA Whiteley,CP Wood,TW Hartley,1,0,,,,,,"",""
+ball,1,16.6,Hampshire,CP Wood,RA Whiteley,TW Hartley,4,0,,,,,,"",""
+ball,1,17.1,Hampshire,RA Whiteley,CP Wood,L Wood,0,0,,,,,,"",""
+ball,1,17.2,Hampshire,RA Whiteley,CP Wood,L Wood,4,0,,,,,,"",""
+ball,1,17.3,Hampshire,RA Whiteley,CP Wood,L Wood,2,0,,,,,,"",""
+ball,1,17.4,Hampshire,RA Whiteley,CP Wood,L Wood,2,0,,,,,,"",""
+ball,1,17.5,Hampshire,RA Whiteley,CP Wood,L Wood,0,0,,,,,,"",""
+ball,1,17.6,Hampshire,RA Whiteley,CP Wood,L Wood,0,0,,,,,,caught,RA Whiteley
+ball,1,18.1,Hampshire,CP Wood,MS Crane,RJ Gleeson,1,0,,,,,,"",""
+ball,1,18.2,Hampshire,MS Crane,CP Wood,RJ Gleeson,1,0,,,,,,"",""
+ball,1,18.3,Hampshire,CP Wood,MS Crane,RJ Gleeson,0,0,,,,,,"",""
+ball,1,18.4,Hampshire,CP Wood,MS Crane,RJ Gleeson,6,0,,,,,,"",""
+ball,1,18.5,Hampshire,CP Wood,MS Crane,RJ Gleeson,0,1,,,1,,,"",""
+ball,1,18.6,Hampshire,MS Crane,CP Wood,RJ Gleeson,2,0,,,,,,"",""
+ball,1,19.1,Hampshire,CP Wood,MS Crane,DJ Lamb,0,1,,,,1,,"",""
+ball,1,19.2,Hampshire,MS Crane,CP Wood,DJ Lamb,2,0,,,,,,"",""
+ball,1,19.3,Hampshire,MS Crane,CP Wood,DJ Lamb,1,0,,,,,,"",""
+ball,1,19.4,Hampshire,CP Wood,MS Crane,DJ Lamb,1,0,,,,,,"",""
+ball,1,19.5,Hampshire,MS Crane,CP Wood,DJ Lamb,1,0,,,,,,"",""
+ball,1,19.6,Hampshire,CP Wood,MS Crane,DJ Lamb,2,0,,,,,,"",""
+ball,2,0.1,Lancashire,PD Salt,KK Jennings,CP Wood,4,0,,,,,,"",""
+ball,2,0.2,Lancashire,PD Salt,KK Jennings,CP Wood,0,2,,2,,,,"",""
+ball,2,0.3,Lancashire,PD Salt,KK Jennings,CP Wood,6,0,,,,,,"",""
+ball,2,0.4,Lancashire,PD Salt,KK Jennings,CP Wood,0,0,,,,,,caught,PD Salt
+ball,2,0.5,Lancashire,SJ Croft,KK Jennings,CP Wood,0,0,,,,,,"",""
+ball,2,0.6,Lancashire,SJ Croft,KK Jennings,CP Wood,1,0,,,,,,"",""
+ball,2,0.7,Lancashire,KK Jennings,SJ Croft,CP Wood,0,0,,,,,,"",""
+ball,2,1.1,Lancashire,SJ Croft,KK Jennings,BTJ Wheal,0,0,,,,,,"",""
+ball,2,1.2,Lancashire,SJ Croft,KK Jennings,BTJ Wheal,1,0,,,,,,"",""
+ball,2,1.3,Lancashire,KK Jennings,SJ Croft,BTJ Wheal,0,0,,,,,,"",""
+ball,2,1.4,Lancashire,KK Jennings,SJ Croft,BTJ Wheal,0,0,,,,,,"",""
+ball,2,1.5,Lancashire,KK Jennings,SJ Croft,BTJ Wheal,2,0,,,,,,"",""
+ball,2,1.6,Lancashire,KK Jennings,SJ Croft,BTJ Wheal,6,0,,,,,,"",""
+ball,2,2.1,Lancashire,SJ Croft,KK Jennings,CP Wood,0,0,,,,,,"",""
+ball,2,2.2,Lancashire,SJ Croft,KK Jennings,CP Wood,1,0,,,,,,"",""
+ball,2,2.3,Lancashire,KK Jennings,SJ Croft,CP Wood,0,0,,,,,,"",""
+ball,2,2.4,Lancashire,KK Jennings,SJ Croft,CP Wood,1,0,,,,,,"",""
+ball,2,2.5,Lancashire,SJ Croft,KK Jennings,CP Wood,1,0,,,,,,"",""
+ball,2,2.6,Lancashire,KK Jennings,SJ Croft,CP Wood,2,0,,,,,,"",""
+ball,2,3.1,Lancashire,SJ Croft,KK Jennings,BTJ Wheal,4,0,,,,,,"",""
+ball,2,3.2,Lancashire,SJ Croft,KK Jennings,BTJ Wheal,4,0,,,,,,"",""
+ball,2,3.3,Lancashire,SJ Croft,KK Jennings,BTJ Wheal,4,0,,,,,,"",""
+ball,2,3.4,Lancashire,SJ Croft,KK Jennings,BTJ Wheal,4,0,,,,,,"",""
+ball,2,3.5,Lancashire,SJ Croft,KK Jennings,BTJ Wheal,2,0,,,,,,"",""
+ball,2,3.6,Lancashire,SJ Croft,KK Jennings,BTJ Wheal,1,0,,,,,,"",""
+ball,2,4.1,Lancashire,SJ Croft,KK Jennings,NT Ellis,0,0,,,,,,"",""
+ball,2,4.2,Lancashire,SJ Croft,KK Jennings,NT Ellis,0,0,,,,,,"",""
+ball,2,4.3,Lancashire,SJ Croft,KK Jennings,NT Ellis,4,0,,,,,,"",""
+ball,2,4.4,Lancashire,SJ Croft,KK Jennings,NT Ellis,1,0,,,,,,"",""
+ball,2,4.5,Lancashire,KK Jennings,SJ Croft,NT Ellis,1,0,,,,,,"",""
+ball,2,4.6,Lancashire,SJ Croft,KK Jennings,NT Ellis,0,0,,,,,,"",""
+ball,2,5.1,Lancashire,KK Jennings,SJ Croft,CP Wood,1,0,,,,,,"",""
+ball,2,5.2,Lancashire,SJ Croft,KK Jennings,CP Wood,1,0,,,,,,"",""
+ball,2,5.3,Lancashire,KK Jennings,SJ Croft,CP Wood,0,0,,,,,,"",""
+ball,2,5.4,Lancashire,KK Jennings,SJ Croft,CP Wood,0,0,,,,,,"",""
+ball,2,5.5,Lancashire,KK Jennings,SJ Croft,CP Wood,4,0,,,,,,"",""
+ball,2,5.6,Lancashire,KK Jennings,SJ Croft,CP Wood,2,0,,,,,,"",""
+ball,2,6.1,Lancashire,SJ Croft,KK Jennings,LA Dawson,1,0,,,,,,"",""
+ball,2,6.2,Lancashire,KK Jennings,SJ Croft,LA Dawson,1,0,,,,,,"",""
+ball,2,6.3,Lancashire,SJ Croft,KK Jennings,LA Dawson,0,0,,,,,,"",""
+ball,2,6.4,Lancashire,SJ Croft,KK Jennings,LA Dawson,2,0,,,,,,"",""
+ball,2,6.5,Lancashire,SJ Croft,KK Jennings,LA Dawson,1,0,,,,,,"",""
+ball,2,6.6,Lancashire,KK Jennings,SJ Croft,LA Dawson,1,0,,,,,,"",""
+ball,2,7.1,Lancashire,KK Jennings,SJ Croft,MS Crane,1,0,,,,,,"",""
+ball,2,7.2,Lancashire,SJ Croft,KK Jennings,MS Crane,3,0,,,,,,"",""
+ball,2,7.3,Lancashire,KK Jennings,SJ Croft,MS Crane,1,0,,,,,,"",""
+ball,2,7.4,Lancashire,SJ Croft,KK Jennings,MS Crane,0,1,1,,,,,"",""
+ball,2,7.5,Lancashire,SJ Croft,KK Jennings,MS Crane,0,0,,,,,,caught,SJ Croft
+ball,2,7.6,Lancashire,DJ Vilas,KK Jennings,MS Crane,0,0,,,,,,"",""
+ball,2,7.7,Lancashire,DJ Vilas,KK Jennings,MS Crane,0,0,,,,,,"",""
+ball,2,8.1,Lancashire,KK Jennings,DJ Vilas,LA Dawson,0,2,2,,,,,"",""
+ball,2,8.2,Lancashire,DJ Vilas,KK Jennings,LA Dawson,1,0,,,,,,"",""
+ball,2,8.3,Lancashire,KK Jennings,DJ Vilas,LA Dawson,1,0,,,,,,"",""
+ball,2,8.4,Lancashire,DJ Vilas,KK Jennings,LA Dawson,1,0,,,,,,"",""
+ball,2,8.5,Lancashire,KK Jennings,DJ Vilas,LA Dawson,0,0,,,,,,caught,KK Jennings
+ball,2,8.6,Lancashire,LWP Wells,DJ Vilas,LA Dawson,1,0,,,,,,"",""
+ball,2,8.7,Lancashire,DJ Vilas,LWP Wells,LA Dawson,1,0,,,,,,"",""
+ball,2,9.1,Lancashire,DJ Vilas,LWP Wells,MS Crane,1,0,,,,,,"",""
+ball,2,9.2,Lancashire,LWP Wells,DJ Vilas,MS Crane,1,0,,,,,,"",""
+ball,2,9.3,Lancashire,DJ Vilas,LWP Wells,MS Crane,0,0,,,,,,"",""
+ball,2,9.4,Lancashire,DJ Vilas,LWP Wells,MS Crane,2,0,,,,,,"",""
+ball,2,9.5,Lancashire,DJ Vilas,LWP Wells,MS Crane,1,0,,,,,,"",""
+ball,2,9.6,Lancashire,LWP Wells,DJ Vilas,MS Crane,1,0,,,,,,"",""
+ball,2,10.1,Lancashire,LWP Wells,DJ Vilas,LA Dawson,0,0,,,,,,"",""
+ball,2,10.2,Lancashire,LWP Wells,DJ Vilas,LA Dawson,1,0,,,,,,"",""
+ball,2,10.3,Lancashire,DJ Vilas,LWP Wells,LA Dawson,4,0,,,,,,"",""
+ball,2,10.4,Lancashire,DJ Vilas,LWP Wells,LA Dawson,0,0,,,,,,"",""
+ball,2,10.5,Lancashire,DJ Vilas,LWP Wells,LA Dawson,1,0,,,,,,"",""
+ball,2,10.6,Lancashire,LWP Wells,DJ Vilas,LA Dawson,0,0,,,,,,"",""
+ball,2,11.1,Lancashire,DJ Vilas,LWP Wells,JK Fuller,0,0,,,,,,"",""
+ball,2,11.2,Lancashire,DJ Vilas,LWP Wells,JK Fuller,0,0,,,,,,"",""
+ball,2,11.3,Lancashire,DJ Vilas,LWP Wells,JK Fuller,4,0,,,,,,"",""
+ball,2,11.4,Lancashire,DJ Vilas,LWP Wells,JK Fuller,0,0,,,,,,"",""
+ball,2,11.5,Lancashire,DJ Vilas,LWP Wells,JK Fuller,0,0,,,,,,"",""
+ball,2,11.6,Lancashire,DJ Vilas,LWP Wells,JK Fuller,6,0,,,,,,"",""
+ball,2,12.1,Lancashire,LWP Wells,DJ Vilas,LA Dawson,1,0,,,,,,"",""
+ball,2,12.2,Lancashire,DJ Vilas,LWP Wells,LA Dawson,0,0,,,,,,"",""
+ball,2,12.3,Lancashire,DJ Vilas,LWP Wells,LA Dawson,1,0,,,,,,"",""
+ball,2,12.4,Lancashire,LWP Wells,DJ Vilas,LA Dawson,1,0,,,,,,"",""
+ball,2,12.5,Lancashire,DJ Vilas,LWP Wells,LA Dawson,0,0,,,,,,caught,DJ Vilas
+ball,2,12.6,Lancashire,TH David,LWP Wells,LA Dawson,1,0,,,,,,"",""
+ball,2,13.1,Lancashire,TH David,LWP Wells,MS Crane,0,0,,,,,,"",""
+ball,2,13.2,Lancashire,TH David,LWP Wells,MS Crane,2,0,,,,,,"",""
+ball,2,13.3,Lancashire,TH David,LWP Wells,MS Crane,1,0,,,,,,"",""
+ball,2,13.4,Lancashire,LWP Wells,TH David,MS Crane,4,0,,,,,,"",""
+ball,2,13.5,Lancashire,LWP Wells,TH David,MS Crane,0,0,,,,,,"",""
+ball,2,13.6,Lancashire,LWP Wells,TH David,MS Crane,0,0,,,,,,"",""
+ball,2,14.1,Lancashire,TH David,LWP Wells,NT Ellis,0,1,1,,,,,"",""
+ball,2,14.2,Lancashire,TH David,LWP Wells,NT Ellis,1,0,,,,,,"",""
+ball,2,14.3,Lancashire,LWP Wells,TH David,NT Ellis,1,0,,,,,,"",""
+ball,2,14.4,Lancashire,TH David,LWP Wells,NT Ellis,2,0,,,,,,"",""
+ball,2,14.5,Lancashire,TH David,LWP Wells,NT Ellis,0,0,,,,,,"",""
+ball,2,14.6,Lancashire,TH David,LWP Wells,NT Ellis,1,0,,,,,,"",""
+ball,2,14.7,Lancashire,LWP Wells,TH David,NT Ellis,0,0,,,,,,"",""
+ball,2,15.1,Lancashire,TH David,LWP Wells,JK Fuller,0,0,,,,,,"",""
+ball,2,15.2,Lancashire,TH David,LWP Wells,JK Fuller,0,0,,,,,,"",""
+ball,2,15.3,Lancashire,TH David,LWP Wells,JK Fuller,0,0,,,,,,lbw,TH David
+ball,2,15.4,Lancashire,DJ Lamb,LWP Wells,JK Fuller,1,0,,,,,,"",""
+ball,2,15.5,Lancashire,LWP Wells,DJ Lamb,JK Fuller,1,0,,,,,,"",""
+ball,2,15.6,Lancashire,DJ Lamb,LWP Wells,JK Fuller,0,0,,,,,,"",""
+ball,2,16.1,Lancashire,LWP Wells,DJ Lamb,NT Ellis,1,0,,,,,,"",""
+ball,2,16.2,Lancashire,DJ Lamb,LWP Wells,NT Ellis,1,0,,,,,,"",""
+ball,2,16.3,Lancashire,LWP Wells,DJ Lamb,NT Ellis,1,0,,,,,,"",""
+ball,2,16.4,Lancashire,DJ Lamb,LWP Wells,NT Ellis,0,0,,,,,,"",""
+ball,2,16.5,Lancashire,DJ Lamb,LWP Wells,NT Ellis,0,0,,,,,,"",""
+ball,2,16.6,Lancashire,DJ Lamb,LWP Wells,NT Ellis,0,0,,,,,,"",""
+ball,2,17.1,Lancashire,LWP Wells,DJ Lamb,JK Fuller,1,0,,,,,,"",""
+ball,2,17.2,Lancashire,DJ Lamb,LWP Wells,JK Fuller,0,0,,,,,,caught,DJ Lamb
+ball,2,17.3,Lancashire,L Wood,LWP Wells,JK Fuller,4,0,,,,,,"",""
+ball,2,17.4,Lancashire,L Wood,LWP Wells,JK Fuller,1,0,,,,,,"",""
+ball,2,17.5,Lancashire,LWP Wells,L Wood,JK Fuller,0,0,,,,,,"",""
+ball,2,17.6,Lancashire,LWP Wells,L Wood,JK Fuller,1,0,,,,,,"",""
+ball,2,18.1,Lancashire,LWP Wells,L Wood,CP Wood,0,0,,,,,,"",""
+ball,2,18.2,Lancashire,LWP Wells,L Wood,CP Wood,6,0,,,,,,"",""
+ball,2,18.3,Lancashire,LWP Wells,L Wood,CP Wood,4,0,,,,,,"",""
+ball,2,18.4,Lancashire,LWP Wells,L Wood,CP Wood,1,0,,,,,,"",""
+ball,2,18.5,Lancashire,L Wood,LWP Wells,CP Wood,1,0,,,,,,"",""
+ball,2,18.6,Lancashire,LWP Wells,L Wood,CP Wood,0,0,,,,,,run out,LWP Wells
+ball,2,19.1,Lancashire,TW Hartley,L Wood,NT Ellis,1,0,,,,,,"",""
+ball,2,19.2,Lancashire,L Wood,TW Hartley,NT Ellis,2,0,,,,,,"",""
+ball,2,19.3,Lancashire,L Wood,TW Hartley,NT Ellis,1,0,,,,,,"",""
+ball,2,19.4,Lancashire,TW Hartley,L Wood,NT Ellis,0,0,,,,,,run out,L Wood
+ball,2,19.5,Lancashire,RJ Gleeson,TW Hartley,NT Ellis,2,0,,,,,,"",""
+ball,2,19.6,Lancashire,RJ Gleeson,TW Hartley,NT Ellis,0,2,,2,,,,"",""
+ball,2,19.7,Lancashire,RJ Gleeson,TW Hartley,NT Ellis,0,1,,,1,,,"",""

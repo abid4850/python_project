@@ -1,0 +1,278 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Welsh Fire
+info,team,Southern Brave
+info,gender,female
+info,season,2023
+info,date,2023/08/04
+info,event,The Hundred Women's Competition
+info,match_number,5
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Southern Brave
+info,toss_decision,field
+info,player_of_match,HK Matthews
+info,umpire,AY Harris
+info,umpire,Tom Lungley
+info,reserve_umpire,WRP Fernando
+info,tv_umpire,PK Baldwin
+info,match_referee,AM Smith (2)
+info,winner,Welsh Fire
+info,winner_runs,4
+info,player,Welsh Fire,TT Beaumont
+info,player,Welsh Fire,HK Matthews
+info,player,Welsh Fire,L Harris
+info,player,Welsh Fire,SJ Bryce
+info,player,Welsh Fire,GA Elwiss
+info,player,Welsh Fire,E Windsor
+info,player,Welsh Fire,FR Davies
+info,player,Welsh Fire,A Griffiths
+info,player,Welsh Fire,S Ismail
+info,player,Welsh Fire,C Nicholas
+info,player,Welsh Fire,A Hartley
+info,player,Southern Brave,S Mandhana
+info,player,Southern Brave,DN Wyatt
+info,player,Southern Brave,ME Bouchier
+info,player,Southern Brave,CL Tryon
+info,player,Southern Brave,FG Kemp
+info,player,Southern Brave,GL Adams
+info,player,Southern Brave,M Brown
+info,player,Southern Brave,K Moore
+info,player,Southern Brave,A Shrubsole
+info,player,Southern Brave,MLL Taylor
+info,player,Southern Brave,R Southby
+info,registry,people,A Griffiths,091001f8
+info,registry,people,A Hartley,53d50717
+info,registry,people,A Shrubsole,32497ecd
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AY Harris,90d95b82
+info,registry,people,C Nicholas,efc40724
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,E Windsor,1d7f8759
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,FR Davies,2479daa6
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,K Moore,d12c8445
+info,registry,people,L Harris,36e2dc83
+info,registry,people,M Brown,78bec461
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MLL Taylor,014cfac4
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,R Southby,bbe1525d
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WRP Fernando,7d98d385
+ball,1,0.1,Welsh Fire,TT Beaumont,HK Matthews,A Shrubsole,1,0,,,,,,"",""
+ball,1,0.2,Welsh Fire,HK Matthews,TT Beaumont,A Shrubsole,4,0,,,,,,"",""
+ball,1,0.3,Welsh Fire,HK Matthews,TT Beaumont,A Shrubsole,0,0,,,,,,"",""
+ball,1,0.4,Welsh Fire,HK Matthews,TT Beaumont,A Shrubsole,0,0,,,,,,"",""
+ball,1,0.5,Welsh Fire,HK Matthews,TT Beaumont,A Shrubsole,0,0,,,,,,"",""
+ball,1,1.1,Welsh Fire,HK Matthews,TT Beaumont,CL Tryon,4,0,,,,,,"",""
+ball,1,1.2,Welsh Fire,HK Matthews,TT Beaumont,CL Tryon,0,1,1,,,,,"",""
+ball,1,1.3,Welsh Fire,HK Matthews,TT Beaumont,CL Tryon,1,0,,,,,,"",""
+ball,1,1.4,Welsh Fire,TT Beaumont,HK Matthews,CL Tryon,1,0,,,,,,"",""
+ball,1,1.5,Welsh Fire,HK Matthews,TT Beaumont,CL Tryon,0,0,,,,,,"",""
+ball,1,1.6,Welsh Fire,HK Matthews,TT Beaumont,CL Tryon,1,0,,,,,,"",""
+ball,1,2.1,Welsh Fire,HK Matthews,TT Beaumont,A Shrubsole,4,0,,,,,,"",""
+ball,1,2.2,Welsh Fire,HK Matthews,TT Beaumont,A Shrubsole,0,0,,,,,,"",""
+ball,1,2.3,Welsh Fire,HK Matthews,TT Beaumont,A Shrubsole,0,0,,,,,,"",""
+ball,1,2.4,Welsh Fire,HK Matthews,TT Beaumont,A Shrubsole,4,0,,,,,,"",""
+ball,1,2.5,Welsh Fire,HK Matthews,TT Beaumont,A Shrubsole,4,0,,,,,,"",""
+ball,1,3.1,Welsh Fire,HK Matthews,TT Beaumont,MLL Taylor,0,0,,,,,,"",""
+ball,1,3.2,Welsh Fire,HK Matthews,TT Beaumont,MLL Taylor,1,0,,,,,,"",""
+ball,1,3.3,Welsh Fire,TT Beaumont,HK Matthews,MLL Taylor,1,0,,,,,,"",""
+ball,1,3.4,Welsh Fire,HK Matthews,TT Beaumont,MLL Taylor,1,0,,,,,,"",""
+ball,1,3.5,Welsh Fire,TT Beaumont,HK Matthews,MLL Taylor,1,0,,,,,,"",""
+ball,1,4.1,Welsh Fire,TT Beaumont,HK Matthews,CL Tryon,0,0,,,,,,"",""
+ball,1,4.2,Welsh Fire,TT Beaumont,HK Matthews,CL Tryon,4,0,,,,,,"",""
+ball,1,4.3,Welsh Fire,TT Beaumont,HK Matthews,CL Tryon,4,0,,,,,,"",""
+ball,1,4.4,Welsh Fire,TT Beaumont,HK Matthews,CL Tryon,0,0,,,,,,"",""
+ball,1,4.5,Welsh Fire,TT Beaumont,HK Matthews,CL Tryon,6,0,,,,,,"",""
+ball,1,5.1,Welsh Fire,TT Beaumont,HK Matthews,GL Adams,1,0,,,,,,"",""
+ball,1,5.2,Welsh Fire,HK Matthews,TT Beaumont,GL Adams,4,0,,,,,,"",""
+ball,1,5.3,Welsh Fire,HK Matthews,TT Beaumont,GL Adams,0,0,,,,,,"",""
+ball,1,5.4,Welsh Fire,HK Matthews,TT Beaumont,GL Adams,4,0,,,,,,"",""
+ball,1,5.5,Welsh Fire,HK Matthews,TT Beaumont,GL Adams,1,0,,,,,,"",""
+ball,1,6.1,Welsh Fire,HK Matthews,TT Beaumont,MLL Taylor,4,0,,,,,,"",""
+ball,1,6.2,Welsh Fire,HK Matthews,TT Beaumont,MLL Taylor,1,0,,,,,,"",""
+ball,1,6.3,Welsh Fire,TT Beaumont,HK Matthews,MLL Taylor,4,0,,,,,,"",""
+ball,1,6.4,Welsh Fire,TT Beaumont,HK Matthews,MLL Taylor,1,0,,,,,,"",""
+ball,1,6.5,Welsh Fire,HK Matthews,TT Beaumont,MLL Taylor,4,0,,,,,,"",""
+ball,1,7.1,Welsh Fire,HK Matthews,TT Beaumont,K Moore,1,0,,,,,,"",""
+ball,1,7.2,Welsh Fire,TT Beaumont,HK Matthews,K Moore,0,0,,,,,,"",""
+ball,1,7.3,Welsh Fire,TT Beaumont,HK Matthews,K Moore,0,1,1,,,,,"",""
+ball,1,7.4,Welsh Fire,TT Beaumont,HK Matthews,K Moore,0,0,,,,,,"",""
+ball,1,7.5,Welsh Fire,TT Beaumont,HK Matthews,K Moore,0,0,,,,,,"",""
+ball,1,7.6,Welsh Fire,TT Beaumont,HK Matthews,K Moore,2,0,,,,,,"",""
+ball,1,8.1,Welsh Fire,HK Matthews,TT Beaumont,GL Adams,4,0,,,,,,"",""
+ball,1,8.2,Welsh Fire,HK Matthews,TT Beaumont,GL Adams,4,0,,,,,,"",""
+ball,1,8.3,Welsh Fire,HK Matthews,TT Beaumont,GL Adams,1,0,,,,,,"",""
+ball,1,8.4,Welsh Fire,TT Beaumont,HK Matthews,GL Adams,0,0,,,,,,stumped,TT Beaumont
+ball,1,8.5,Welsh Fire,L Harris,HK Matthews,GL Adams,4,0,,,,,,"",""
+ball,1,9.1,Welsh Fire,L Harris,HK Matthews,M Brown,0,2,,2,,,,"",""
+ball,1,9.2,Welsh Fire,L Harris,HK Matthews,M Brown,4,0,,,,,,"",""
+ball,1,9.3,Welsh Fire,L Harris,HK Matthews,M Brown,0,0,,,,,,"",""
+ball,1,9.4,Welsh Fire,L Harris,HK Matthews,M Brown,0,1,1,,,,,"",""
+ball,1,9.5,Welsh Fire,L Harris,HK Matthews,M Brown,6,0,,,,,,"",""
+ball,1,9.6,Welsh Fire,L Harris,HK Matthews,M Brown,0,0,,,,,,"",""
+ball,1,9.7,Welsh Fire,L Harris,HK Matthews,M Brown,6,0,,,,,,"",""
+ball,1,10.1,Welsh Fire,HK Matthews,L Harris,A Shrubsole,1,0,,,,,,run out,L Harris
+ball,1,10.2,Welsh Fire,HK Matthews,SJ Bryce,A Shrubsole,4,0,,,,,,"",""
+ball,1,10.3,Welsh Fire,HK Matthews,SJ Bryce,A Shrubsole,2,0,,,,,,"",""
+ball,1,10.4,Welsh Fire,HK Matthews,SJ Bryce,A Shrubsole,4,0,,,,,,"",""
+ball,1,10.5,Welsh Fire,HK Matthews,SJ Bryce,A Shrubsole,1,0,,,,,,"",""
+ball,1,11.1,Welsh Fire,SJ Bryce,HK Matthews,K Moore,1,0,,,,,,"",""
+ball,1,11.2,Welsh Fire,HK Matthews,SJ Bryce,K Moore,0,0,,,,,,"",""
+ball,1,11.3,Welsh Fire,HK Matthews,SJ Bryce,K Moore,0,0,,,,,,"",""
+ball,1,11.4,Welsh Fire,HK Matthews,SJ Bryce,K Moore,0,0,,,,,,"",""
+ball,1,11.5,Welsh Fire,HK Matthews,SJ Bryce,K Moore,1,0,,,,,,"",""
+ball,1,12.1,Welsh Fire,HK Matthews,SJ Bryce,CL Tryon,0,0,,,,,,"",""
+ball,1,12.2,Welsh Fire,HK Matthews,SJ Bryce,CL Tryon,0,0,,,,,,caught and bowled,HK Matthews
+ball,1,12.3,Welsh Fire,GA Elwiss,SJ Bryce,CL Tryon,0,0,,,,,,"",""
+ball,1,12.4,Welsh Fire,GA Elwiss,SJ Bryce,CL Tryon,1,0,,,,,,"",""
+ball,1,12.5,Welsh Fire,SJ Bryce,GA Elwiss,CL Tryon,1,0,,,,,,"",""
+ball,1,13.1,Welsh Fire,GA Elwiss,SJ Bryce,K Moore,1,0,,,,,,"",""
+ball,1,13.2,Welsh Fire,SJ Bryce,GA Elwiss,K Moore,1,0,,,,,,"",""
+ball,1,13.3,Welsh Fire,GA Elwiss,SJ Bryce,K Moore,0,0,,,,,,"",""
+ball,1,13.4,Welsh Fire,GA Elwiss,SJ Bryce,K Moore,1,0,,,,,,"",""
+ball,1,13.5,Welsh Fire,SJ Bryce,GA Elwiss,K Moore,0,0,,,,,,"",""
+ball,1,14.1,Welsh Fire,GA Elwiss,SJ Bryce,MLL Taylor,1,0,,,,,,"",""
+ball,1,14.2,Welsh Fire,SJ Bryce,GA Elwiss,MLL Taylor,0,0,,,,,,"",""
+ball,1,14.3,Welsh Fire,SJ Bryce,GA Elwiss,MLL Taylor,4,0,,,,,,"",""
+ball,1,14.4,Welsh Fire,SJ Bryce,GA Elwiss,MLL Taylor,1,0,,,,,,"",""
+ball,1,14.5,Welsh Fire,GA Elwiss,SJ Bryce,MLL Taylor,1,0,,,,,,"",""
+ball,1,15.1,Welsh Fire,SJ Bryce,GA Elwiss,GL Adams,1,0,,,,,,"",""
+ball,1,15.2,Welsh Fire,GA Elwiss,SJ Bryce,GL Adams,1,0,,,,,,"",""
+ball,1,15.3,Welsh Fire,SJ Bryce,GA Elwiss,GL Adams,4,0,,,,,,"",""
+ball,1,15.4,Welsh Fire,SJ Bryce,GA Elwiss,GL Adams,1,0,,,,,,"",""
+ball,1,15.5,Welsh Fire,GA Elwiss,SJ Bryce,GL Adams,1,0,,,,,,"",""
+ball,1,16.1,Welsh Fire,GA Elwiss,SJ Bryce,K Moore,1,0,,,,,,"",""
+ball,1,16.2,Welsh Fire,SJ Bryce,GA Elwiss,K Moore,1,0,,,,,,"",""
+ball,1,16.3,Welsh Fire,GA Elwiss,SJ Bryce,K Moore,1,0,,,,,,"",""
+ball,1,16.4,Welsh Fire,SJ Bryce,GA Elwiss,K Moore,0,0,,,,,,"",""
+ball,1,16.5,Welsh Fire,SJ Bryce,GA Elwiss,K Moore,1,0,,,,,,"",""
+ball,1,17.1,Welsh Fire,GA Elwiss,SJ Bryce,CL Tryon,1,0,,,,,,"",""
+ball,1,17.2,Welsh Fire,SJ Bryce,GA Elwiss,CL Tryon,1,0,,,,,,"",""
+ball,1,17.3,Welsh Fire,GA Elwiss,SJ Bryce,CL Tryon,1,0,,,,,,"",""
+ball,1,17.4,Welsh Fire,SJ Bryce,GA Elwiss,CL Tryon,1,0,,,,,,"",""
+ball,1,17.5,Welsh Fire,GA Elwiss,SJ Bryce,CL Tryon,0,0,,,,,,"",""
+ball,1,18.1,Welsh Fire,SJ Bryce,GA Elwiss,GL Adams,0,0,,,,,,"",""
+ball,1,18.2,Welsh Fire,SJ Bryce,GA Elwiss,GL Adams,1,0,,,,,,"",""
+ball,1,18.3,Welsh Fire,GA Elwiss,SJ Bryce,GL Adams,4,0,,,,,,"",""
+ball,1,18.4,Welsh Fire,GA Elwiss,SJ Bryce,GL Adams,1,0,,,,,,"",""
+ball,1,18.5,Welsh Fire,SJ Bryce,GA Elwiss,GL Adams,1,0,,,,,,"",""
+ball,1,19.1,Welsh Fire,GA Elwiss,SJ Bryce,A Shrubsole,1,0,,,,,,"",""
+ball,1,19.2,Welsh Fire,SJ Bryce,GA Elwiss,A Shrubsole,1,0,,,,,,"",""
+ball,1,19.3,Welsh Fire,GA Elwiss,SJ Bryce,A Shrubsole,4,0,,,,,,"",""
+ball,1,19.4,Welsh Fire,GA Elwiss,SJ Bryce,A Shrubsole,4,0,,,,,,"",""
+ball,1,19.5,Welsh Fire,GA Elwiss,SJ Bryce,A Shrubsole,3,0,,,,,,"",""
+ball,2,0.1,Southern Brave,S Mandhana,DN Wyatt,S Ismail,0,0,,,,,,"",""
+ball,2,0.2,Southern Brave,S Mandhana,DN Wyatt,S Ismail,4,0,,,,,,"",""
+ball,2,0.3,Southern Brave,S Mandhana,DN Wyatt,S Ismail,0,0,,,,,,"",""
+ball,2,0.4,Southern Brave,S Mandhana,DN Wyatt,S Ismail,1,0,,,,,,"",""
+ball,2,0.5,Southern Brave,DN Wyatt,S Mandhana,S Ismail,1,0,,,,,,"",""
+ball,2,1.1,Southern Brave,S Mandhana,DN Wyatt,HK Matthews,0,0,,,,,,"",""
+ball,2,1.2,Southern Brave,S Mandhana,DN Wyatt,HK Matthews,0,0,,,,,,"",""
+ball,2,1.3,Southern Brave,S Mandhana,DN Wyatt,HK Matthews,2,0,,,,,,"",""
+ball,2,1.4,Southern Brave,S Mandhana,DN Wyatt,HK Matthews,0,0,,,,,,"",""
+ball,2,1.5,Southern Brave,S Mandhana,DN Wyatt,HK Matthews,4,0,,,,,,"",""
+ball,2,2.1,Southern Brave,DN Wyatt,S Mandhana,S Ismail,0,0,,,,,,"",""
+ball,2,2.2,Southern Brave,DN Wyatt,S Mandhana,S Ismail,0,0,,,,,,"",""
+ball,2,2.3,Southern Brave,DN Wyatt,S Mandhana,S Ismail,0,0,,,,,,"",""
+ball,2,2.4,Southern Brave,DN Wyatt,S Mandhana,S Ismail,1,0,,,,,,"",""
+ball,2,2.5,Southern Brave,S Mandhana,DN Wyatt,S Ismail,0,1,1,,,,,"",""
+ball,2,2.6,Southern Brave,S Mandhana,DN Wyatt,S Ismail,4,0,,,,,,"",""
+ball,2,3.1,Southern Brave,S Mandhana,DN Wyatt,C Nicholas,1,0,,,,,,"",""
+ball,2,3.2,Southern Brave,DN Wyatt,S Mandhana,C Nicholas,4,0,,,,,,"",""
+ball,2,3.3,Southern Brave,DN Wyatt,S Mandhana,C Nicholas,0,0,,,,,,"",""
+ball,2,3.4,Southern Brave,DN Wyatt,S Mandhana,C Nicholas,0,0,,,,,,"",""
+ball,2,3.5,Southern Brave,DN Wyatt,S Mandhana,C Nicholas,1,0,,,,,,"",""
+ball,2,4.1,Southern Brave,DN Wyatt,S Mandhana,HK Matthews,4,0,,,,,,"",""
+ball,2,4.2,Southern Brave,DN Wyatt,S Mandhana,HK Matthews,6,0,,,,,,"",""
+ball,2,4.3,Southern Brave,DN Wyatt,S Mandhana,HK Matthews,4,0,,,,,,"",""
+ball,2,4.4,Southern Brave,DN Wyatt,S Mandhana,HK Matthews,0,0,,,,,,"",""
+ball,2,4.5,Southern Brave,DN Wyatt,S Mandhana,HK Matthews,1,0,,,,,,"",""
+ball,2,5.1,Southern Brave,S Mandhana,DN Wyatt,FR Davies,1,0,,,,,,"",""
+ball,2,5.2,Southern Brave,DN Wyatt,S Mandhana,FR Davies,0,0,,,,,,"",""
+ball,2,5.3,Southern Brave,DN Wyatt,S Mandhana,FR Davies,4,0,,,,,,"",""
+ball,2,5.4,Southern Brave,DN Wyatt,S Mandhana,FR Davies,4,0,,,,,,"",""
+ball,2,5.5,Southern Brave,DN Wyatt,S Mandhana,FR Davies,0,0,,,,,,"",""
+ball,2,6.1,Southern Brave,S Mandhana,DN Wyatt,C Nicholas,4,0,,,,,,"",""
+ball,2,6.2,Southern Brave,S Mandhana,DN Wyatt,C Nicholas,1,0,,,,,,"",""
+ball,2,6.3,Southern Brave,DN Wyatt,S Mandhana,C Nicholas,1,0,,,,,,"",""
+ball,2,6.4,Southern Brave,S Mandhana,DN Wyatt,C Nicholas,0,0,,,,,,"",""
+ball,2,6.5,Southern Brave,S Mandhana,DN Wyatt,C Nicholas,1,0,,,,,,"",""
+ball,2,7.1,Southern Brave,DN Wyatt,S Mandhana,A Hartley,0,0,,,,,,"",""
+ball,2,7.2,Southern Brave,DN Wyatt,S Mandhana,A Hartley,4,0,,,,,,"",""
+ball,2,7.3,Southern Brave,DN Wyatt,S Mandhana,A Hartley,2,0,,,,,,"",""
+ball,2,7.4,Southern Brave,DN Wyatt,S Mandhana,A Hartley,1,0,,,,,,"",""
+ball,2,7.5,Southern Brave,S Mandhana,DN Wyatt,A Hartley,0,0,,,,,,"",""
+ball,2,8.1,Southern Brave,DN Wyatt,S Mandhana,A Griffiths,2,0,,,,,,"",""
+ball,2,8.2,Southern Brave,DN Wyatt,S Mandhana,A Griffiths,0,0,,,,,,"",""
+ball,2,8.3,Southern Brave,DN Wyatt,S Mandhana,A Griffiths,1,0,,,,,,"",""
+ball,2,8.4,Southern Brave,S Mandhana,DN Wyatt,A Griffiths,1,0,,,,,,"",""
+ball,2,8.5,Southern Brave,DN Wyatt,S Mandhana,A Griffiths,1,0,,,,,,"",""
+ball,2,9.1,Southern Brave,S Mandhana,DN Wyatt,FR Davies,0,1,1,,,,,"",""
+ball,2,9.2,Southern Brave,S Mandhana,DN Wyatt,FR Davies,1,0,,,,,,"",""
+ball,2,9.3,Southern Brave,DN Wyatt,S Mandhana,FR Davies,4,0,,,,,,"",""
+ball,2,9.4,Southern Brave,DN Wyatt,S Mandhana,FR Davies,2,0,,,,,,"",""
+ball,2,9.5,Southern Brave,DN Wyatt,S Mandhana,FR Davies,0,0,,,,,,"",""
+ball,2,9.6,Southern Brave,DN Wyatt,S Mandhana,FR Davies,6,0,,,,,,"",""
+ball,2,10.1,Southern Brave,S Mandhana,DN Wyatt,S Ismail,1,0,,,,,,"",""
+ball,2,10.2,Southern Brave,DN Wyatt,S Mandhana,S Ismail,0,0,,,,,,"",""
+ball,2,10.3,Southern Brave,DN Wyatt,S Mandhana,S Ismail,4,0,,,,,,"",""
+ball,2,10.4,Southern Brave,DN Wyatt,S Mandhana,S Ismail,4,0,,,,,,"",""
+ball,2,10.5,Southern Brave,DN Wyatt,S Mandhana,S Ismail,1,0,,,,,,"",""
+ball,2,11.1,Southern Brave,S Mandhana,DN Wyatt,A Griffiths,1,0,,,,,,"",""
+ball,2,11.2,Southern Brave,DN Wyatt,S Mandhana,A Griffiths,4,0,,,,,,"",""
+ball,2,11.3,Southern Brave,DN Wyatt,S Mandhana,A Griffiths,0,0,,,,,,caught,DN Wyatt
+ball,2,11.4,Southern Brave,ME Bouchier,S Mandhana,A Griffiths,1,0,,,,,,"",""
+ball,2,11.5,Southern Brave,S Mandhana,ME Bouchier,A Griffiths,1,0,,,,,,"",""
+ball,2,12.1,Southern Brave,S Mandhana,ME Bouchier,A Hartley,1,0,,,,,,"",""
+ball,2,12.2,Southern Brave,ME Bouchier,S Mandhana,A Hartley,1,0,,,,,,"",""
+ball,2,12.3,Southern Brave,S Mandhana,ME Bouchier,A Hartley,1,0,,,,,,"",""
+ball,2,12.4,Southern Brave,ME Bouchier,S Mandhana,A Hartley,4,0,,,,,,"",""
+ball,2,12.5,Southern Brave,ME Bouchier,S Mandhana,A Hartley,1,0,,,,,,"",""
+ball,2,13.1,Southern Brave,S Mandhana,ME Bouchier,HK Matthews,1,0,,,,,,"",""
+ball,2,13.2,Southern Brave,ME Bouchier,S Mandhana,HK Matthews,1,0,,,,,,"",""
+ball,2,13.3,Southern Brave,S Mandhana,ME Bouchier,HK Matthews,0,0,,,,,,"",""
+ball,2,13.4,Southern Brave,S Mandhana,ME Bouchier,HK Matthews,4,0,,,,,,"",""
+ball,2,13.5,Southern Brave,S Mandhana,ME Bouchier,HK Matthews,4,0,,,,,,"",""
+ball,2,14.1,Southern Brave,ME Bouchier,S Mandhana,A Griffiths,0,0,,,,,,"",""
+ball,2,14.2,Southern Brave,ME Bouchier,S Mandhana,A Griffiths,1,0,,,,,,"",""
+ball,2,14.3,Southern Brave,S Mandhana,ME Bouchier,A Griffiths,2,0,,,,,,"",""
+ball,2,14.4,Southern Brave,S Mandhana,ME Bouchier,A Griffiths,3,0,,,,,,"",""
+ball,2,14.5,Southern Brave,ME Bouchier,S Mandhana,A Griffiths,0,0,,,,,,stumped,ME Bouchier
+ball,2,15.1,Southern Brave,CL Tryon,S Mandhana,A Hartley,1,0,,,,,,"",""
+ball,2,15.2,Southern Brave,S Mandhana,CL Tryon,A Hartley,1,0,,,,,,"",""
+ball,2,15.3,Southern Brave,CL Tryon,S Mandhana,A Hartley,0,0,,,,,,"",""
+ball,2,15.4,Southern Brave,CL Tryon,S Mandhana,A Hartley,1,0,,,,,,"",""
+ball,2,15.5,Southern Brave,S Mandhana,CL Tryon,A Hartley,4,0,,,,,,"",""
+ball,2,16.1,Southern Brave,CL Tryon,S Mandhana,FR Davies,1,0,,,,,,"",""
+ball,2,16.2,Southern Brave,S Mandhana,CL Tryon,FR Davies,4,0,,,,,,"",""
+ball,2,16.3,Southern Brave,S Mandhana,CL Tryon,FR Davies,4,0,,,,,,"",""
+ball,2,16.4,Southern Brave,S Mandhana,CL Tryon,FR Davies,0,1,1,,,,,"",""
+ball,2,16.5,Southern Brave,S Mandhana,CL Tryon,FR Davies,1,0,,,,,,"",""
+ball,2,16.6,Southern Brave,CL Tryon,S Mandhana,FR Davies,2,0,,,,,,"",""
+ball,2,17.1,Southern Brave,CL Tryon,S Mandhana,S Ismail,0,0,,,,,,"",""
+ball,2,17.2,Southern Brave,CL Tryon,S Mandhana,S Ismail,1,0,,,,,,"",""
+ball,2,17.3,Southern Brave,S Mandhana,CL Tryon,S Ismail,4,0,,,,,,"",""
+ball,2,17.4,Southern Brave,S Mandhana,CL Tryon,S Ismail,1,0,,,,,,"",""
+ball,2,17.5,Southern Brave,CL Tryon,S Mandhana,S Ismail,0,1,,,,1,,"",""
+ball,2,18.1,Southern Brave,CL Tryon,S Mandhana,A Griffiths,1,0,,,,,,"",""
+ball,2,18.2,Southern Brave,S Mandhana,CL Tryon,A Griffiths,4,0,,,,,,"",""
+ball,2,18.3,Southern Brave,S Mandhana,CL Tryon,A Griffiths,1,0,,,,,,"",""
+ball,2,18.4,Southern Brave,CL Tryon,S Mandhana,A Griffiths,1,0,,,,,,"",""
+ball,2,18.5,Southern Brave,S Mandhana,CL Tryon,A Griffiths,1,0,,,,,,"",""
+ball,2,19.1,Southern Brave,CL Tryon,S Mandhana,HK Matthews,0,1,1,,,,,stumped,CL Tryon
+ball,2,19.2,Southern Brave,FG Kemp,S Mandhana,HK Matthews,1,0,,,,,,"",""
+ball,2,19.3,Southern Brave,S Mandhana,FG Kemp,HK Matthews,1,0,,,,,,"",""
+ball,2,19.4,Southern Brave,FG Kemp,S Mandhana,HK Matthews,0,0,,,,,,"",""
+ball,2,19.5,Southern Brave,FG Kemp,S Mandhana,HK Matthews,1,0,,,,,,"",""
+ball,2,19.6,Southern Brave,S Mandhana,FG Kemp,HK Matthews,0,0,,,,,,run out,FG Kemp

@@ -1,0 +1,160 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sapphires
+info,team,Tornadoes
+info,gender,female
+info,season,2023
+info,date,2023/04/09
+info,event,FairBreak Invitational Tournament
+info,match_number,10
+info,venue,Kowloon Cricket Club
+info,city,Kowloon
+info,toss_winner,Tornadoes
+info,toss_decision,field
+info,player_of_match,NE Farrant
+info,umpire,Shivani Mishra
+info,umpire,Tabarak Dar
+info,reserve_umpire,Lauren Agenbag
+info,tv_umpire,JM Williams
+info,match_referee,SA Fritz
+info,winner,Sapphires
+info,winner_runs,36
+info,player,Sapphires,EA Burns
+info,player,Sapphires,GH Lewis
+info,player,Sapphires,KH Sciver-Brunt
+info,player,Sapphires,NE Farrant
+info,player,Sapphires,B de Leede
+info,player,Sapphires,KM Mack
+info,player,Sapphires,KY Chan
+info,player,Sapphires,YS To
+info,player,Sapphires,Sana Mir
+info,player,Sapphires,S Ismail
+info,player,Sapphires,S Jimmy
+info,player,Tornadoes,D van Niekerk
+info,player,Tornadoes,SL Kalis
+info,player,Tornadoes,S Luus
+info,player,Tornadoes,Aliya Riaz
+info,player,Tornadoes,NT Miles
+info,player,Tornadoes,C Sutthiruang
+info,player,Tornadoes,Diana Baig
+info,player,Tornadoes,SR Magar
+info,player,Tornadoes,AM Zepeda
+info,player,Tornadoes,A Dowse
+info,player,Tornadoes,WA Duraisingam
+info,registry,people,A Dowse,6506e13d
+info,registry,people,AM Zepeda,c9f95a16
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,B de Leede,b3020075
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,KH Sciver-Brunt,6a434bd3
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,NT Miles,d27d0835
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Jimmy,2daa8e40
+info,registry,people,S Luus,6d76bc23
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Sana Mir,b287e7b1
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,YS To,73db1940
+ball,1,0.1,Sapphires,EA Burns,GH Lewis,C Sutthiruang,2,0,,,,,,"",""
+ball,1,0.2,Sapphires,EA Burns,GH Lewis,C Sutthiruang,4,0,,,,,,"",""
+ball,1,0.3,Sapphires,EA Burns,GH Lewis,C Sutthiruang,1,0,,,,,,"",""
+ball,1,0.4,Sapphires,GH Lewis,EA Burns,C Sutthiruang,0,1,1,,,,,"",""
+ball,1,0.5,Sapphires,GH Lewis,EA Burns,C Sutthiruang,0,0,,,,,,"",""
+ball,1,0.6,Sapphires,GH Lewis,EA Burns,C Sutthiruang,4,0,,,,,,"",""
+ball,1,0.7,Sapphires,GH Lewis,EA Burns,C Sutthiruang,6,0,,,,,,"",""
+ball,1,1.1,Sapphires,EA Burns,GH Lewis,Diana Baig,0,0,,,,,,caught,EA Burns
+ball,1,1.2,Sapphires,KH Sciver-Brunt,GH Lewis,Diana Baig,6,0,,,,,,"",""
+ball,1,1.3,Sapphires,KH Sciver-Brunt,GH Lewis,Diana Baig,1,0,,,,,,"",""
+ball,1,1.4,Sapphires,GH Lewis,KH Sciver-Brunt,Diana Baig,2,0,,,,,,"",""
+ball,1,1.5,Sapphires,GH Lewis,KH Sciver-Brunt,Diana Baig,0,0,,,,,,caught and bowled,GH Lewis
+ball,1,1.6,Sapphires,NE Farrant,KH Sciver-Brunt,Diana Baig,0,0,,,,,,"",""
+ball,1,2.1,Sapphires,KH Sciver-Brunt,NE Farrant,Aliya Riaz,4,0,,,,,,"",""
+ball,1,2.2,Sapphires,KH Sciver-Brunt,NE Farrant,Aliya Riaz,1,0,,,,,,"",""
+ball,1,2.3,Sapphires,NE Farrant,KH Sciver-Brunt,Aliya Riaz,0,0,,,,,,"",""
+ball,1,2.4,Sapphires,NE Farrant,KH Sciver-Brunt,Aliya Riaz,0,0,,,,,,"",""
+ball,1,2.5,Sapphires,NE Farrant,KH Sciver-Brunt,Aliya Riaz,1,0,,,,,,"",""
+ball,1,2.6,Sapphires,KH Sciver-Brunt,NE Farrant,Aliya Riaz,1,0,,,,,,"",""
+ball,1,3.1,Sapphires,KH Sciver-Brunt,NE Farrant,WA Duraisingam,6,0,,,,,,"",""
+ball,1,3.2,Sapphires,KH Sciver-Brunt,NE Farrant,WA Duraisingam,2,0,,,,,,"",""
+ball,1,3.3,Sapphires,KH Sciver-Brunt,NE Farrant,WA Duraisingam,1,0,,,,,,"",""
+ball,1,3.4,Sapphires,NE Farrant,KH Sciver-Brunt,WA Duraisingam,0,1,,,1,,,"",""
+ball,1,3.5,Sapphires,KH Sciver-Brunt,NE Farrant,WA Duraisingam,6,0,,,,,,"",""
+ball,1,3.6,Sapphires,KH Sciver-Brunt,NE Farrant,WA Duraisingam,1,0,,,,,,"",""
+ball,1,4.1,Sapphires,KH Sciver-Brunt,NE Farrant,S Luus,1,0,,,,,,"",""
+ball,1,4.2,Sapphires,NE Farrant,KH Sciver-Brunt,S Luus,1,0,,,,,,"",""
+ball,1,4.3,Sapphires,KH Sciver-Brunt,NE Farrant,S Luus,1,0,,,,,,"",""
+ball,1,4.4,Sapphires,NE Farrant,KH Sciver-Brunt,S Luus,4,0,,,,,,"",""
+ball,1,4.5,Sapphires,NE Farrant,KH Sciver-Brunt,S Luus,0,1,1,,,,,"",""
+ball,1,4.6,Sapphires,NE Farrant,KH Sciver-Brunt,S Luus,4,0,,,,,,"",""
+ball,1,4.7,Sapphires,NE Farrant,KH Sciver-Brunt,S Luus,4,0,,,,,,"",""
+ball,1,5.1,Sapphires,KH Sciver-Brunt,NE Farrant,Aliya Riaz,1,0,,,,,,"",""
+ball,1,5.2,Sapphires,NE Farrant,KH Sciver-Brunt,Aliya Riaz,6,0,,,,,,"",""
+ball,1,5.3,Sapphires,NE Farrant,KH Sciver-Brunt,Aliya Riaz,4,0,,,,,,"",""
+ball,1,5.4,Sapphires,NE Farrant,KH Sciver-Brunt,Aliya Riaz,1,0,,,,,,"",""
+ball,1,5.5,Sapphires,KH Sciver-Brunt,NE Farrant,Aliya Riaz,1,0,,,,,,"",""
+ball,1,5.6,Sapphires,NE Farrant,KH Sciver-Brunt,Aliya Riaz,1,0,,,,,,"",""
+ball,1,6.1,Sapphires,NE Farrant,KH Sciver-Brunt,Diana Baig,0,1,,1,,,,"",""
+ball,1,6.2,Sapphires,NE Farrant,KH Sciver-Brunt,Diana Baig,2,0,,,,,,"",""
+ball,1,6.3,Sapphires,NE Farrant,KH Sciver-Brunt,Diana Baig,6,0,,,,,,"",""
+ball,1,6.4,Sapphires,NE Farrant,KH Sciver-Brunt,Diana Baig,1,0,,,,,,"",""
+ball,1,6.5,Sapphires,KH Sciver-Brunt,NE Farrant,Diana Baig,0,1,1,,,,,"",""
+ball,1,6.6,Sapphires,KH Sciver-Brunt,NE Farrant,Diana Baig,1,0,,,,,,"",""
+ball,1,6.7,Sapphires,NE Farrant,KH Sciver-Brunt,Diana Baig,1,0,,,,,,"",""
+ball,1,6.8,Sapphires,KH Sciver-Brunt,NE Farrant,Diana Baig,1,0,,,,,,"",""
+ball,2,0.1,Tornadoes,D van Niekerk,SL Kalis,S Ismail,0,0,,,,,,"",""
+ball,2,0.2,Tornadoes,D van Niekerk,SL Kalis,S Ismail,0,0,,,,,,"",""
+ball,2,0.3,Tornadoes,D van Niekerk,SL Kalis,S Ismail,1,0,,,,,,"",""
+ball,2,0.4,Tornadoes,SL Kalis,D van Niekerk,S Ismail,4,0,,,,,,"",""
+ball,2,0.5,Tornadoes,SL Kalis,D van Niekerk,S Ismail,1,0,,,,,,"",""
+ball,2,0.6,Tornadoes,D van Niekerk,SL Kalis,S Ismail,0,0,,,,,,"",""
+ball,2,1.1,Tornadoes,SL Kalis,D van Niekerk,KH Sciver-Brunt,1,0,,,,,,"",""
+ball,2,1.2,Tornadoes,D van Niekerk,SL Kalis,KH Sciver-Brunt,6,0,,,,,,"",""
+ball,2,1.3,Tornadoes,D van Niekerk,SL Kalis,KH Sciver-Brunt,0,0,,,,,,"",""
+ball,2,1.4,Tornadoes,D van Niekerk,SL Kalis,KH Sciver-Brunt,0,0,,,,,,lbw,D van Niekerk
+ball,2,1.5,Tornadoes,S Luus,SL Kalis,KH Sciver-Brunt,1,0,,,,,,"",""
+ball,2,1.6,Tornadoes,SL Kalis,S Luus,KH Sciver-Brunt,0,0,,,,,,caught,SL Kalis
+ball,2,2.1,Tornadoes,S Luus,Aliya Riaz,S Ismail,1,0,,,,,,"",""
+ball,2,2.2,Tornadoes,Aliya Riaz,S Luus,S Ismail,1,0,,,,,,"",""
+ball,2,2.3,Tornadoes,S Luus,Aliya Riaz,S Ismail,6,0,,,,,,"",""
+ball,2,2.4,Tornadoes,S Luus,Aliya Riaz,S Ismail,4,0,,,,,,"",""
+ball,2,2.5,Tornadoes,S Luus,Aliya Riaz,S Ismail,1,0,,,,,,"",""
+ball,2,2.6,Tornadoes,Aliya Riaz,S Luus,S Ismail,1,0,,,,,,"",""
+ball,2,3.1,Tornadoes,Aliya Riaz,S Luus,NE Farrant,0,1,1,,,,,"",""
+ball,2,3.2,Tornadoes,Aliya Riaz,S Luus,NE Farrant,1,0,,,,,,"",""
+ball,2,3.3,Tornadoes,S Luus,Aliya Riaz,NE Farrant,0,0,,,,,,caught,S Luus
+ball,2,3.4,Tornadoes,NT Miles,Aliya Riaz,NE Farrant,0,0,,,,,,"",""
+ball,2,3.5,Tornadoes,NT Miles,Aliya Riaz,NE Farrant,0,0,,,,,,"",""
+ball,2,3.6,Tornadoes,NT Miles,Aliya Riaz,NE Farrant,1,0,,,,,,"",""
+ball,2,3.7,Tornadoes,Aliya Riaz,NT Miles,NE Farrant,0,1,1,,,,,"",""
+ball,2,3.8,Tornadoes,Aliya Riaz,NT Miles,NE Farrant,1,0,,,,,,"",""
+ball,2,4.1,Tornadoes,Aliya Riaz,NT Miles,EA Burns,1,0,,,,,,"",""
+ball,2,4.2,Tornadoes,NT Miles,Aliya Riaz,EA Burns,1,0,,,,,,"",""
+ball,2,4.3,Tornadoes,Aliya Riaz,NT Miles,EA Burns,1,0,,,,,,"",""
+ball,2,4.4,Tornadoes,NT Miles,Aliya Riaz,EA Burns,0,4,,,4,,,"",""
+ball,2,4.5,Tornadoes,NT Miles,Aliya Riaz,EA Burns,4,0,,,,,,"",""
+ball,2,4.6,Tornadoes,NT Miles,Aliya Riaz,EA Burns,4,0,,,,,,"",""
+ball,2,5.1,Tornadoes,Aliya Riaz,NT Miles,NE Farrant,4,0,,,,,,"",""
+ball,2,5.2,Tornadoes,Aliya Riaz,NT Miles,NE Farrant,0,0,,,,,,"",""
+ball,2,5.3,Tornadoes,Aliya Riaz,NT Miles,NE Farrant,0,0,,,,,,caught,Aliya Riaz
+ball,2,5.4,Tornadoes,C Sutthiruang,NT Miles,NE Farrant,0,0,,,,,,caught,C Sutthiruang
+ball,2,5.5,Tornadoes,Diana Baig,NT Miles,NE Farrant,1,0,,,,,,"",""
+ball,2,5.6,Tornadoes,NT Miles,Diana Baig,NE Farrant,1,0,,,,,,"",""
+ball,2,6.1,Tornadoes,NT Miles,Diana Baig,KY Chan,0,1,,,,1,,"",""
+ball,2,6.2,Tornadoes,Diana Baig,NT Miles,KY Chan,1,0,,,,,,"",""
+ball,2,6.3,Tornadoes,NT Miles,Diana Baig,KY Chan,1,0,,,,,,"",""
+ball,2,6.4,Tornadoes,Diana Baig,NT Miles,KY Chan,1,0,,,,,,"",""
+ball,2,6.5,Tornadoes,NT Miles,Diana Baig,KY Chan,0,0,,,,,,"",""
+ball,2,6.6,Tornadoes,NT Miles,Diana Baig,KY Chan,0,1,,,,1,,"",""

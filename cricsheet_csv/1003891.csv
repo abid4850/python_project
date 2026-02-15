@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Lions
+info,gender,male
+info,season,2016/17
+info,date,2016/12/07
+info,event,CSA T20 Challenge
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Lions
+info,toss_decision,field
+info,player_of_match,D Wiese
+info,player_of_match,JD Vandiar
+info,umpire,AT Holdstock
+info,umpire,LB Gcuma
+info,reserve_umpire,A Paleker
+info,tv_umpire,JD Cloete
+info,match_referee,SB Lambson
+info,winner,Titans
+info,winner_runs,46
+info,player,Titans,JD Vandiar
+info,player,Titans,AK Markram
+info,player,Titans,H Klaasen
+info,player,Titans,HG Kuhn
+info,player,Titans,JA Morkel
+info,player,Titans,F Behardien
+info,player,Titans,D Wiese
+info,player,Titans,MP Siboto
+info,player,Titans,CJ Dala
+info,player,Titans,L Ngidi
+info,player,Titans,T Shamsi
+info,player,Lions,HE van der Dussen
+info,player,Lions,RR Hendricks
+info,player,Lions,M Mosehle
+info,player,Lions,T Bavuma
+info,player,Lions,D Pretorius
+info,player,Lions,NJ van den Bergh
+info,player,Lions,GC Viljoen
+info,player,Lions,BC Fortuin
+info,player,Lions,AM Phangiso
+info,player,Lions,E Leie
+info,player,Lions,MK McGillivray
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Pretorius,11614d87
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,E Leie,a7bc76a0
+info,registry,people,F Behardien,dce2019b
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,JD Cloete,b0419f8c
+info,registry,people,JD Vandiar,a833f99c
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Mosehle,8836fcac
+info,registry,people,MK McGillivray,52c0576c
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,NJ van den Bergh,055e8d7b
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SB Lambson,4146063f
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Shamsi,a03bba42
+ball,1,0.1,Titans,JD Vandiar,AK Markram,GC Viljoen,0,0,,,,,,"",""
+ball,1,0.2,Titans,JD Vandiar,AK Markram,GC Viljoen,0,1,1,,,,,"",""
+ball,1,0.3,Titans,JD Vandiar,AK Markram,GC Viljoen,0,0,,,,,,"",""
+ball,1,0.4,Titans,JD Vandiar,AK Markram,GC Viljoen,0,2,2,,,,,"",""
+ball,1,0.5,Titans,AK Markram,JD Vandiar,GC Viljoen,1,0,,,,,,"",""
+ball,1,0.6,Titans,JD Vandiar,AK Markram,GC Viljoen,0,4,,,4,,,"",""
+ball,1,0.7,Titans,JD Vandiar,AK Markram,GC Viljoen,1,0,,,,,,"",""
+ball,1,0.8,Titans,AK Markram,JD Vandiar,GC Viljoen,0,4,,,4,,,"",""
+ball,1,1.1,Titans,JD Vandiar,AK Markram,D Pretorius,3,0,,,,,,"",""
+ball,1,1.2,Titans,AK Markram,JD Vandiar,D Pretorius,0,0,,,,,,"",""
+ball,1,1.3,Titans,AK Markram,JD Vandiar,D Pretorius,0,0,,,,,,"",""
+ball,1,1.4,Titans,AK Markram,JD Vandiar,D Pretorius,0,0,,,,,,"",""
+ball,1,1.5,Titans,AK Markram,JD Vandiar,D Pretorius,0,0,,,,,,"",""
+ball,1,1.6,Titans,AK Markram,JD Vandiar,D Pretorius,0,0,,,,,,"",""
+ball,1,2.1,Titans,JD Vandiar,AK Markram,GC Viljoen,4,0,,,,,,"",""
+ball,1,2.2,Titans,JD Vandiar,AK Markram,GC Viljoen,0,0,,,,,,"",""
+ball,1,2.3,Titans,JD Vandiar,AK Markram,GC Viljoen,0,0,,,,,,"",""
+ball,1,2.4,Titans,JD Vandiar,AK Markram,GC Viljoen,0,0,,,,,,"",""
+ball,1,2.5,Titans,JD Vandiar,AK Markram,GC Viljoen,1,0,,,,,,"",""
+ball,1,2.6,Titans,AK Markram,JD Vandiar,GC Viljoen,4,0,,,,,,"",""
+ball,1,3.1,Titans,JD Vandiar,AK Markram,MK McGillivray,4,0,,,,,,"",""
+ball,1,3.2,Titans,JD Vandiar,AK Markram,MK McGillivray,1,0,,,,,,"",""
+ball,1,3.3,Titans,AK Markram,JD Vandiar,MK McGillivray,4,0,,,,,,"",""
+ball,1,3.4,Titans,AK Markram,JD Vandiar,MK McGillivray,4,0,,,,,,"",""
+ball,1,3.5,Titans,AK Markram,JD Vandiar,MK McGillivray,0,0,,,,,,"",""
+ball,1,3.6,Titans,AK Markram,JD Vandiar,MK McGillivray,1,0,,,,,,"",""
+ball,1,4.1,Titans,AK Markram,JD Vandiar,D Pretorius,1,0,,,,,,"",""
+ball,1,4.2,Titans,JD Vandiar,AK Markram,D Pretorius,1,0,,,,,,"",""
+ball,1,4.3,Titans,AK Markram,JD Vandiar,D Pretorius,4,0,,,,,,"",""
+ball,1,4.4,Titans,AK Markram,JD Vandiar,D Pretorius,4,0,,,,,,"",""
+ball,1,4.5,Titans,AK Markram,JD Vandiar,D Pretorius,0,1,,,,1,,"",""
+ball,1,4.6,Titans,JD Vandiar,AK Markram,D Pretorius,2,0,,,,,,"",""
+ball,1,5.1,Titans,AK Markram,JD Vandiar,BC Fortuin,0,0,,,,,,"",""
+ball,1,5.2,Titans,AK Markram,JD Vandiar,BC Fortuin,1,0,,,,,,"",""
+ball,1,5.3,Titans,JD Vandiar,AK Markram,BC Fortuin,0,0,,,,,,"",""
+ball,1,5.4,Titans,JD Vandiar,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,5.5,Titans,AK Markram,JD Vandiar,BC Fortuin,1,0,,,,,,"",""
+ball,1,5.6,Titans,JD Vandiar,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,6.1,Titans,JD Vandiar,AK Markram,E Leie,1,0,,,,,,"",""
+ball,1,6.2,Titans,AK Markram,JD Vandiar,E Leie,0,0,,,,,,"",""
+ball,1,6.3,Titans,AK Markram,JD Vandiar,E Leie,1,0,,,,,,"",""
+ball,1,6.4,Titans,JD Vandiar,AK Markram,E Leie,2,0,,,,,,"",""
+ball,1,6.5,Titans,JD Vandiar,AK Markram,E Leie,6,0,,,,,,"",""
+ball,1,6.6,Titans,JD Vandiar,AK Markram,E Leie,1,0,,,,,,"",""
+ball,1,7.1,Titans,JD Vandiar,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,7.2,Titans,AK Markram,JD Vandiar,BC Fortuin,1,0,,,,,,"",""
+ball,1,7.3,Titans,JD Vandiar,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,7.4,Titans,AK Markram,JD Vandiar,BC Fortuin,0,0,,,,,,caught,AK Markram
+ball,1,7.5,Titans,H Klaasen,JD Vandiar,BC Fortuin,1,0,,,,,,"",""
+ball,1,7.6,Titans,JD Vandiar,H Klaasen,BC Fortuin,0,0,,,,,,"",""
+ball,1,8.1,Titans,H Klaasen,JD Vandiar,AM Phangiso,0,0,,,,,,"",""
+ball,1,8.2,Titans,H Klaasen,JD Vandiar,AM Phangiso,2,0,,,,,,"",""
+ball,1,8.3,Titans,H Klaasen,JD Vandiar,AM Phangiso,2,0,,,,,,"",""
+ball,1,8.4,Titans,H Klaasen,JD Vandiar,AM Phangiso,1,0,,,,,,"",""
+ball,1,8.5,Titans,JD Vandiar,H Klaasen,AM Phangiso,1,0,,,,,,"",""
+ball,1,8.6,Titans,H Klaasen,JD Vandiar,AM Phangiso,1,0,,,,,,"",""
+ball,1,9.1,Titans,H Klaasen,JD Vandiar,BC Fortuin,2,0,,,,,,"",""
+ball,1,9.2,Titans,H Klaasen,JD Vandiar,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.3,Titans,JD Vandiar,H Klaasen,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.4,Titans,H Klaasen,JD Vandiar,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.5,Titans,JD Vandiar,H Klaasen,BC Fortuin,4,0,,,,,,"",""
+ball,1,9.6,Titans,JD Vandiar,H Klaasen,BC Fortuin,1,0,,,,,,"",""
+ball,1,10.1,Titans,JD Vandiar,H Klaasen,E Leie,4,0,,,,,,"",""
+ball,1,10.2,Titans,JD Vandiar,H Klaasen,E Leie,0,0,,,,,,"",""
+ball,1,10.3,Titans,JD Vandiar,H Klaasen,E Leie,2,0,,,,,,"",""
+ball,1,10.4,Titans,JD Vandiar,H Klaasen,E Leie,6,0,,,,,,"",""
+ball,1,10.5,Titans,JD Vandiar,H Klaasen,E Leie,1,0,,,,,,"",""
+ball,1,10.6,Titans,H Klaasen,JD Vandiar,E Leie,1,0,,,,,,"",""
+ball,1,11.1,Titans,H Klaasen,JD Vandiar,AM Phangiso,4,0,,,,,,"",""
+ball,1,11.2,Titans,H Klaasen,JD Vandiar,AM Phangiso,6,0,,,,,,"",""
+ball,1,11.3,Titans,H Klaasen,JD Vandiar,AM Phangiso,0,0,,,,,,"",""
+ball,1,11.4,Titans,H Klaasen,JD Vandiar,AM Phangiso,4,0,,,,,,"",""
+ball,1,11.5,Titans,H Klaasen,JD Vandiar,AM Phangiso,0,0,,,,,,caught and bowled,H Klaasen
+ball,1,11.6,Titans,JD Vandiar,HG Kuhn,AM Phangiso,1,0,,,,,,"",""
+ball,1,12.1,Titans,JD Vandiar,HG Kuhn,MK McGillivray,0,0,,,,,,"",""
+ball,1,12.2,Titans,JD Vandiar,HG Kuhn,MK McGillivray,4,0,,,,,,"",""
+ball,1,12.3,Titans,JD Vandiar,HG Kuhn,MK McGillivray,4,0,,,,,,"",""
+ball,1,12.4,Titans,JD Vandiar,HG Kuhn,MK McGillivray,0,0,,,,,,"",""
+ball,1,12.5,Titans,JD Vandiar,HG Kuhn,MK McGillivray,6,0,,,,,,"",""
+ball,1,12.6,Titans,JD Vandiar,HG Kuhn,MK McGillivray,1,0,,,,,,"",""
+ball,1,13.1,Titans,JD Vandiar,HG Kuhn,AM Phangiso,0,0,,,,,,caught,JD Vandiar
+ball,1,13.2,Titans,HG Kuhn,JA Morkel,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.3,Titans,JA Morkel,HG Kuhn,AM Phangiso,2,0,,,,,,"",""
+ball,1,13.4,Titans,JA Morkel,HG Kuhn,AM Phangiso,2,0,,,,,,"",""
+ball,1,13.5,Titans,JA Morkel,HG Kuhn,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.6,Titans,HG Kuhn,JA Morkel,AM Phangiso,0,0,,,,,,"",""
+ball,1,14.1,Titans,JA Morkel,HG Kuhn,GC Viljoen,3,0,,,,,,"",""
+ball,1,14.2,Titans,HG Kuhn,JA Morkel,GC Viljoen,4,0,,,,,,"",""
+ball,1,14.3,Titans,HG Kuhn,JA Morkel,GC Viljoen,2,0,,,,,,"",""
+ball,1,14.4,Titans,HG Kuhn,JA Morkel,GC Viljoen,6,0,,,,,,"",""
+ball,1,14.5,Titans,HG Kuhn,JA Morkel,GC Viljoen,2,0,,,,,,"",""
+ball,1,14.6,Titans,HG Kuhn,JA Morkel,GC Viljoen,1,0,,,,,,"",""
+ball,1,15.1,Titans,HG Kuhn,JA Morkel,E Leie,1,1,,1,,,,"",""
+ball,1,15.2,Titans,JA Morkel,HG Kuhn,E Leie,1,0,,,,,,"",""
+ball,1,15.3,Titans,HG Kuhn,JA Morkel,E Leie,6,0,,,,,,"",""
+ball,1,15.4,Titans,HG Kuhn,JA Morkel,E Leie,6,0,,,,,,"",""
+ball,1,15.5,Titans,HG Kuhn,JA Morkel,E Leie,0,0,,,,,,caught,HG Kuhn
+ball,1,15.6,Titans,JA Morkel,F Behardien,E Leie,1,0,,,,,,"",""
+ball,1,15.7,Titans,F Behardien,JA Morkel,E Leie,1,0,,,,,,"",""
+ball,1,16.1,Titans,F Behardien,JA Morkel,D Pretorius,1,0,,,,,,"",""
+ball,1,16.2,Titans,JA Morkel,F Behardien,D Pretorius,1,0,,,,,,"",""
+ball,1,16.3,Titans,F Behardien,JA Morkel,D Pretorius,1,0,,,,,,"",""
+ball,1,16.4,Titans,JA Morkel,F Behardien,D Pretorius,2,0,,,,,,"",""
+ball,1,16.5,Titans,JA Morkel,F Behardien,D Pretorius,6,0,,,,,,"",""
+ball,1,16.6,Titans,JA Morkel,F Behardien,D Pretorius,1,0,,,,,,"",""
+ball,1,17.1,Titans,JA Morkel,F Behardien,MK McGillivray,0,0,,,,,,"",""
+ball,1,17.2,Titans,JA Morkel,F Behardien,BC Fortuin,0,0,,,,,,"",""
+ball,1,17.3,Titans,JA Morkel,F Behardien,BC Fortuin,1,0,,,,,,"",""
+ball,1,17.4,Titans,F Behardien,JA Morkel,BC Fortuin,1,0,,,,,,"",""
+ball,1,17.5,Titans,JA Morkel,F Behardien,BC Fortuin,4,0,,,,,,"",""
+ball,1,17.6,Titans,JA Morkel,F Behardien,BC Fortuin,6,0,,,,,,"",""
+ball,1,18.1,Titans,F Behardien,JA Morkel,GC Viljoen,6,0,,,,,,"",""
+ball,1,18.2,Titans,F Behardien,JA Morkel,GC Viljoen,1,0,,,,,,"",""
+ball,1,18.3,Titans,JA Morkel,F Behardien,GC Viljoen,1,0,,,,,,"",""
+ball,1,18.4,Titans,F Behardien,JA Morkel,GC Viljoen,1,0,,,,,,"",""
+ball,1,18.5,Titans,JA Morkel,F Behardien,GC Viljoen,0,0,,,,,,caught,JA Morkel
+ball,1,18.6,Titans,F Behardien,D Wiese,GC Viljoen,6,0,,,,,,"",""
+ball,1,19.1,Titans,D Wiese,F Behardien,D Pretorius,2,0,,,,,,"",""
+ball,1,19.2,Titans,D Wiese,F Behardien,D Pretorius,1,0,,,,,,"",""
+ball,1,19.3,Titans,F Behardien,D Wiese,D Pretorius,1,0,,,,,,"",""
+ball,1,19.4,Titans,D Wiese,F Behardien,D Pretorius,6,0,,,,,,"",""
+ball,1,19.5,Titans,D Wiese,F Behardien,D Pretorius,6,0,,,,,,"",""
+ball,1,19.6,Titans,D Wiese,F Behardien,D Pretorius,2,0,,,,,,"",""
+ball,2,0.1,Lions,HE van der Dussen,RR Hendricks,JA Morkel,0,0,,,,,,"",""
+ball,2,0.2,Lions,HE van der Dussen,RR Hendricks,JA Morkel,6,0,,,,,,"",""
+ball,2,0.3,Lions,HE van der Dussen,RR Hendricks,JA Morkel,1,0,,,,,,"",""
+ball,2,0.4,Lions,RR Hendricks,HE van der Dussen,JA Morkel,1,0,,,,,,"",""
+ball,2,0.5,Lions,HE van der Dussen,RR Hendricks,JA Morkel,4,0,,,,,,"",""
+ball,2,0.6,Lions,HE van der Dussen,RR Hendricks,JA Morkel,0,1,1,,,,,"",""
+ball,2,0.7,Lions,HE van der Dussen,RR Hendricks,JA Morkel,1,0,,,,,,"",""
+ball,2,1.1,Lions,HE van der Dussen,RR Hendricks,D Wiese,1,0,,,,,,"",""
+ball,2,1.2,Lions,RR Hendricks,HE van der Dussen,D Wiese,1,0,,,,,,"",""
+ball,2,1.3,Lions,HE van der Dussen,RR Hendricks,D Wiese,6,0,,,,,,"",""
+ball,2,1.4,Lions,HE van der Dussen,RR Hendricks,D Wiese,1,0,,,,,,"",""
+ball,2,1.5,Lions,RR Hendricks,HE van der Dussen,D Wiese,1,0,,,,,,"",""
+ball,2,1.6,Lions,HE van der Dussen,RR Hendricks,D Wiese,0,0,,,,,,"",""
+ball,2,2.1,Lions,RR Hendricks,HE van der Dussen,CJ Dala,1,0,,,,,,"",""
+ball,2,2.2,Lions,HE van der Dussen,RR Hendricks,CJ Dala,6,0,,,,,,"",""
+ball,2,2.3,Lions,HE van der Dussen,RR Hendricks,CJ Dala,2,0,,,,,,"",""
+ball,2,2.4,Lions,HE van der Dussen,RR Hendricks,CJ Dala,1,0,,,,,,"",""
+ball,2,2.5,Lions,RR Hendricks,HE van der Dussen,CJ Dala,2,0,,,,,,"",""
+ball,2,2.6,Lions,RR Hendricks,HE van der Dussen,CJ Dala,0,0,,,,,,"",""
+ball,2,3.1,Lions,HE van der Dussen,RR Hendricks,D Wiese,1,0,,,,,,"",""
+ball,2,3.2,Lions,RR Hendricks,HE van der Dussen,D Wiese,0,0,,,,,,"",""
+ball,2,3.3,Lions,RR Hendricks,HE van der Dussen,D Wiese,1,0,,,,,,"",""
+ball,2,3.4,Lions,HE van der Dussen,RR Hendricks,D Wiese,1,0,,,,,,"",""
+ball,2,3.5,Lions,RR Hendricks,HE van der Dussen,D Wiese,0,0,,,,,,"",""
+ball,2,3.6,Lions,RR Hendricks,HE van der Dussen,D Wiese,0,0,,,,,,"",""
+ball,2,4.1,Lions,HE van der Dussen,RR Hendricks,CJ Dala,4,0,,,,,,"",""
+ball,2,4.2,Lions,HE van der Dussen,RR Hendricks,CJ Dala,6,0,,,,,,"",""
+ball,2,4.3,Lions,HE van der Dussen,RR Hendricks,CJ Dala,4,0,,,,,,"",""
+ball,2,4.4,Lions,HE van der Dussen,RR Hendricks,CJ Dala,0,0,,,,,,bowled,HE van der Dussen
+ball,2,4.5,Lions,M Mosehle,RR Hendricks,CJ Dala,0,0,,,,,,"",""
+ball,2,4.6,Lions,M Mosehle,RR Hendricks,CJ Dala,0,0,,,,,,"",""
+ball,2,5.1,Lions,RR Hendricks,M Mosehle,L Ngidi,1,0,,,,,,"",""
+ball,2,5.2,Lions,M Mosehle,RR Hendricks,L Ngidi,2,0,,,,,,"",""
+ball,2,5.3,Lions,M Mosehle,RR Hendricks,L Ngidi,0,0,,,,,,"",""
+ball,2,5.4,Lions,M Mosehle,RR Hendricks,L Ngidi,1,0,,,,,,"",""
+ball,2,5.5,Lions,RR Hendricks,M Mosehle,L Ngidi,4,0,,,,,,"",""
+ball,2,5.6,Lions,RR Hendricks,M Mosehle,L Ngidi,2,0,,,,,,"",""
+ball,2,6.1,Lions,M Mosehle,RR Hendricks,MP Siboto,2,0,,,,,,"",""
+ball,2,6.2,Lions,M Mosehle,RR Hendricks,MP Siboto,6,0,,,,,,"",""
+ball,2,6.3,Lions,M Mosehle,RR Hendricks,MP Siboto,0,0,,,,,,caught,M Mosehle
+ball,2,6.4,Lions,RR Hendricks,T Bavuma,MP Siboto,1,0,,,,,,"",""
+ball,2,6.5,Lions,T Bavuma,RR Hendricks,MP Siboto,1,0,,,,,,"",""
+ball,2,6.6,Lions,RR Hendricks,T Bavuma,MP Siboto,1,0,,,,,,"",""
+ball,2,7.1,Lions,RR Hendricks,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,2,7.2,Lions,T Bavuma,RR Hendricks,T Shamsi,4,0,,,,,,"",""
+ball,2,7.3,Lions,T Bavuma,RR Hendricks,T Shamsi,1,0,,,,,,"",""
+ball,2,7.4,Lions,RR Hendricks,T Bavuma,T Shamsi,2,0,,,,,,"",""
+ball,2,7.5,Lions,RR Hendricks,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,2,7.6,Lions,T Bavuma,RR Hendricks,T Shamsi,0,0,,,,,,"",""
+ball,2,8.1,Lions,RR Hendricks,T Bavuma,MP Siboto,4,0,,,,,,"",""
+ball,2,8.2,Lions,RR Hendricks,T Bavuma,MP Siboto,0,0,,,,,,caught,RR Hendricks
+ball,2,8.3,Lions,D Pretorius,T Bavuma,MP Siboto,0,0,,,,,,"",""
+ball,2,8.4,Lions,D Pretorius,T Bavuma,MP Siboto,6,0,,,,,,"",""
+ball,2,8.5,Lions,D Pretorius,T Bavuma,MP Siboto,6,0,,,,,,"",""
+ball,2,8.6,Lions,D Pretorius,T Bavuma,MP Siboto,0,0,,,,,,caught,D Pretorius
+ball,2,9.1,Lions,NJ van den Bergh,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,2,9.2,Lions,T Bavuma,NJ van den Bergh,T Shamsi,1,0,,,,,,"",""
+ball,2,9.3,Lions,NJ van den Bergh,T Bavuma,T Shamsi,0,0,,,,,,"",""
+ball,2,9.4,Lions,NJ van den Bergh,T Bavuma,T Shamsi,2,0,,,,,,"",""
+ball,2,9.5,Lions,NJ van den Bergh,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,2,9.6,Lions,T Bavuma,NJ van den Bergh,T Shamsi,1,0,,,,,,"",""
+ball,2,10.1,Lions,T Bavuma,NJ van den Bergh,L Ngidi,1,0,,,,,,"",""
+ball,2,10.2,Lions,NJ van den Bergh,T Bavuma,L Ngidi,0,0,,,,,,"",""
+ball,2,10.3,Lions,NJ van den Bergh,T Bavuma,L Ngidi,0,0,,,,,,"",""
+ball,2,10.4,Lions,NJ van den Bergh,T Bavuma,L Ngidi,4,0,,,,,,"",""
+ball,2,10.5,Lions,NJ van den Bergh,T Bavuma,L Ngidi,4,0,,,,,,"",""
+ball,2,10.6,Lions,NJ van den Bergh,T Bavuma,L Ngidi,0,0,,,,,,"",""
+ball,2,11.1,Lions,T Bavuma,NJ van den Bergh,JA Morkel,2,0,,,,,,"",""
+ball,2,11.2,Lions,T Bavuma,NJ van den Bergh,JA Morkel,2,0,,,,,,"",""
+ball,2,11.3,Lions,T Bavuma,NJ van den Bergh,JA Morkel,1,0,,,,,,"",""
+ball,2,11.4,Lions,NJ van den Bergh,T Bavuma,JA Morkel,1,0,,,,,,"",""
+ball,2,11.5,Lions,T Bavuma,NJ van den Bergh,JA Morkel,1,0,,,,,,"",""
+ball,2,11.6,Lions,NJ van den Bergh,T Bavuma,JA Morkel,2,0,,,,,,"",""
+ball,2,12.1,Lions,T Bavuma,NJ van den Bergh,L Ngidi,2,0,,,,,,"",""
+ball,2,12.2,Lions,T Bavuma,NJ van den Bergh,L Ngidi,1,0,,,,,,"",""
+ball,2,12.3,Lions,NJ van den Bergh,T Bavuma,L Ngidi,1,0,,,,,,"",""
+ball,2,12.4,Lions,T Bavuma,NJ van den Bergh,L Ngidi,4,0,,,,,,"",""
+ball,2,12.5,Lions,T Bavuma,NJ van den Bergh,L Ngidi,1,0,,,,,,"",""
+ball,2,12.6,Lions,NJ van den Bergh,T Bavuma,L Ngidi,1,0,,,,,,"",""
+ball,2,13.1,Lions,NJ van den Bergh,T Bavuma,T Shamsi,0,0,,,,,,"",""
+ball,2,13.2,Lions,NJ van den Bergh,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,2,13.3,Lions,T Bavuma,NJ van den Bergh,T Shamsi,1,0,,,,,,"",""
+ball,2,13.4,Lions,NJ van den Bergh,T Bavuma,T Shamsi,3,0,,,,,,"",""
+ball,2,13.5,Lions,T Bavuma,NJ van den Bergh,T Shamsi,1,0,,,,,,"",""
+ball,2,13.6,Lions,NJ van den Bergh,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,2,14.1,Lions,NJ van den Bergh,T Bavuma,L Ngidi,0,0,,,,,,caught,NJ van den Bergh
+ball,2,14.2,Lions,T Bavuma,GC Viljoen,L Ngidi,4,0,,,,,,"",""
+ball,2,14.3,Lions,T Bavuma,GC Viljoen,L Ngidi,1,1,,1,,,,"",""
+ball,2,14.4,Lions,GC Viljoen,T Bavuma,L Ngidi,6,0,,,,,,"",""
+ball,2,14.5,Lions,GC Viljoen,T Bavuma,L Ngidi,0,0,,,,,,"",""
+ball,2,14.6,Lions,GC Viljoen,T Bavuma,L Ngidi,0,0,,,,,,"",""
+ball,2,14.7,Lions,GC Viljoen,T Bavuma,L Ngidi,1,0,,,,,,"",""
+ball,2,15.1,Lions,GC Viljoen,T Bavuma,T Shamsi,6,0,,,,,,"",""
+ball,2,15.2,Lions,GC Viljoen,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,2,15.3,Lions,T Bavuma,GC Viljoen,T Shamsi,1,0,,,,,,"",""
+ball,2,15.4,Lions,GC Viljoen,T Bavuma,T Shamsi,0,0,,,,,,"",""
+ball,2,15.5,Lions,GC Viljoen,T Bavuma,T Shamsi,0,0,,,,,,"",""
+ball,2,15.6,Lions,GC Viljoen,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,2,16.1,Lions,GC Viljoen,T Bavuma,CJ Dala,1,0,,,,,,"",""
+ball,2,16.2,Lions,T Bavuma,GC Viljoen,CJ Dala,1,0,,,,,,"",""
+ball,2,16.3,Lions,GC Viljoen,T Bavuma,CJ Dala,2,0,,,,,,"",""
+ball,2,16.4,Lions,GC Viljoen,T Bavuma,CJ Dala,0,0,,,,,,"",""
+ball,2,16.5,Lions,GC Viljoen,T Bavuma,CJ Dala,1,0,,,,,,"",""
+ball,2,16.6,Lions,T Bavuma,GC Viljoen,CJ Dala,0,0,,,,,,"",""
+ball,2,17.1,Lions,GC Viljoen,T Bavuma,D Wiese,4,0,,,,,,"",""
+ball,2,17.2,Lions,GC Viljoen,T Bavuma,D Wiese,1,0,,,,,,"",""
+ball,2,17.3,Lions,T Bavuma,GC Viljoen,D Wiese,1,0,,,,,,"",""
+ball,2,17.4,Lions,GC Viljoen,T Bavuma,D Wiese,1,0,,,,,,"",""
+ball,2,17.5,Lions,T Bavuma,GC Viljoen,D Wiese,0,0,,,,,,"",""
+ball,2,17.6,Lions,T Bavuma,GC Viljoen,D Wiese,0,0,,,,,,caught,T Bavuma
+ball,2,18.1,Lions,GC Viljoen,BC Fortuin,CJ Dala,1,0,,,,,,"",""
+ball,2,18.2,Lions,BC Fortuin,GC Viljoen,CJ Dala,0,0,,,,,,caught,BC Fortuin
+ball,2,18.3,Lions,AM Phangiso,GC Viljoen,CJ Dala,0,0,,,,,,"",""
+ball,2,18.4,Lions,AM Phangiso,GC Viljoen,CJ Dala,6,0,,,,,,"",""
+ball,2,18.5,Lions,AM Phangiso,GC Viljoen,CJ Dala,1,0,,,,,,"",""
+ball,2,18.6,Lions,GC Viljoen,AM Phangiso,CJ Dala,1,0,,,,,,"",""
+ball,2,19.1,Lions,GC Viljoen,AM Phangiso,D Wiese,0,0,,,,,,"",""
+ball,2,19.2,Lions,GC Viljoen,AM Phangiso,D Wiese,0,0,,,,,,"",""
+ball,2,19.3,Lions,GC Viljoen,AM Phangiso,D Wiese,0,0,,,,,,"",""
+ball,2,19.4,Lions,GC Viljoen,AM Phangiso,D Wiese,1,0,,,,,,"",""
+ball,2,19.5,Lions,AM Phangiso,GC Viljoen,D Wiese,0,0,,,,,,"",""
+ball,2,19.6,Lions,AM Phangiso,GC Viljoen,D Wiese,0,0,,,,,,"",""

@@ -1,0 +1,279 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,London Spirit
+info,team,Manchester Originals
+info,gender,male
+info,season,2022
+info,date,2022/08/08
+info,event,The Hundred Men's Competition
+info,match_number,6
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,London Spirit
+info,toss_decision,bat
+info,player_of_match,JA Thompson
+info,umpire,NA Mallender
+info,umpire,RJ Warren
+info,reserve_umpire,BJ Debenham
+info,tv_umpire,NJ Llong
+info,match_referee,DA Cosker
+info,winner,London Spirit
+info,winner_runs,52
+info,player,London Spirit,Z Crawley
+info,player,London Spirit,AM Rossington
+info,player,London Spirit,GJ Maxwell
+info,player,London Spirit,EJG Morgan
+info,player,London Spirit,KA Pollard
+info,player,London Spirit,JA Thompson
+info,player,London Spirit,RS Bopara
+info,player,London Spirit,LA Dawson
+info,player,London Spirit,CP Wood
+info,player,London Spirit,NT Ellis
+info,player,London Spirit,MS Crane
+info,player,Manchester Originals,JC Buttler
+info,player,Manchester Originals,PD Salt
+info,player,Manchester Originals,WL Madsen
+info,player,Manchester Originals,LJ Evans
+info,player,Manchester Originals,PI Walter
+info,player,Manchester Originals,AD Russell
+info,player,Manchester Originals,T Stubbs
+info,player,Manchester Originals,SA Abbott
+info,player,Manchester Originals,TW Hartley
+info,player,Manchester Originals,FJ Klaassen
+info,player,Manchester Originals,MW Parkinson
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JC Buttler,99b75528
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,MW Parkinson,19708692
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,London Spirit,Z Crawley,AM Rossington,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.2,London Spirit,Z Crawley,AM Rossington,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.3,London Spirit,Z Crawley,AM Rossington,FJ Klaassen,4,0,,,,,,"",""
+ball,1,0.4,London Spirit,Z Crawley,AM Rossington,FJ Klaassen,4,0,,,,,,"",""
+ball,1,0.5,London Spirit,Z Crawley,AM Rossington,FJ Klaassen,0,0,,,,,,"",""
+ball,1,1.1,London Spirit,Z Crawley,AM Rossington,SA Abbott,1,0,,,,,,"",""
+ball,1,1.2,London Spirit,AM Rossington,Z Crawley,SA Abbott,0,0,,,,,,lbw,AM Rossington
+ball,1,1.3,London Spirit,GJ Maxwell,Z Crawley,SA Abbott,0,0,,,,,,"",""
+ball,1,1.4,London Spirit,GJ Maxwell,Z Crawley,SA Abbott,1,0,,,,,,"",""
+ball,1,1.5,London Spirit,Z Crawley,GJ Maxwell,SA Abbott,0,1,,,,1,,"",""
+ball,1,2.1,London Spirit,Z Crawley,GJ Maxwell,FJ Klaassen,0,1,1,,,,,"",""
+ball,1,2.2,London Spirit,Z Crawley,GJ Maxwell,FJ Klaassen,0,1,,,,1,,"",""
+ball,1,2.3,London Spirit,GJ Maxwell,Z Crawley,FJ Klaassen,0,1,1,,,,,"",""
+ball,1,2.4,London Spirit,GJ Maxwell,Z Crawley,FJ Klaassen,0,0,,,,,,"",""
+ball,1,2.5,London Spirit,GJ Maxwell,Z Crawley,FJ Klaassen,1,0,,,,,,"",""
+ball,1,2.6,London Spirit,Z Crawley,GJ Maxwell,FJ Klaassen,4,0,,,,,,"",""
+ball,1,2.7,London Spirit,Z Crawley,GJ Maxwell,FJ Klaassen,0,0,,,,,,"",""
+ball,1,3.1,London Spirit,Z Crawley,GJ Maxwell,AD Russell,0,2,,,,2,,"",""
+ball,1,3.2,London Spirit,Z Crawley,GJ Maxwell,AD Russell,0,0,,,,,,"",""
+ball,1,3.3,London Spirit,Z Crawley,GJ Maxwell,AD Russell,1,0,,,,,,"",""
+ball,1,3.4,London Spirit,GJ Maxwell,Z Crawley,AD Russell,0,0,,,,,,"",""
+ball,1,3.5,London Spirit,GJ Maxwell,Z Crawley,AD Russell,0,1,1,,,,,"",""
+ball,1,3.6,London Spirit,GJ Maxwell,Z Crawley,AD Russell,4,0,,,,,,"",""
+ball,1,4.1,London Spirit,Z Crawley,GJ Maxwell,SA Abbott,1,0,,,,,,"",""
+ball,1,4.2,London Spirit,GJ Maxwell,Z Crawley,SA Abbott,4,0,,,,,,"",""
+ball,1,4.3,London Spirit,GJ Maxwell,Z Crawley,SA Abbott,6,0,,,,,,"",""
+ball,1,4.4,London Spirit,GJ Maxwell,Z Crawley,SA Abbott,1,0,,,,,,"",""
+ball,1,4.5,London Spirit,Z Crawley,GJ Maxwell,SA Abbott,1,0,,,,,,"",""
+ball,1,5.1,London Spirit,GJ Maxwell,Z Crawley,MW Parkinson,1,0,,,,,,"",""
+ball,1,5.2,London Spirit,Z Crawley,GJ Maxwell,MW Parkinson,6,0,,,,,,"",""
+ball,1,5.3,London Spirit,Z Crawley,GJ Maxwell,MW Parkinson,0,0,,,,,,"",""
+ball,1,5.4,London Spirit,Z Crawley,GJ Maxwell,MW Parkinson,0,0,,,,,,"",""
+ball,1,5.5,London Spirit,Z Crawley,GJ Maxwell,MW Parkinson,0,0,,,,,,"",""
+ball,1,6.1,London Spirit,GJ Maxwell,Z Crawley,PI Walter,0,0,,,,,,"",""
+ball,1,6.2,London Spirit,GJ Maxwell,Z Crawley,PI Walter,1,0,,,,,,"",""
+ball,1,6.3,London Spirit,Z Crawley,GJ Maxwell,PI Walter,0,0,,,,,,"",""
+ball,1,6.4,London Spirit,Z Crawley,GJ Maxwell,PI Walter,1,0,,,,,,"",""
+ball,1,6.5,London Spirit,GJ Maxwell,Z Crawley,PI Walter,0,0,,,,,,"",""
+ball,1,7.1,London Spirit,GJ Maxwell,Z Crawley,TW Hartley,2,0,,,,,,"",""
+ball,1,7.2,London Spirit,GJ Maxwell,Z Crawley,TW Hartley,0,0,,,,,,bowled,GJ Maxwell
+ball,1,7.3,London Spirit,EJG Morgan,Z Crawley,TW Hartley,0,0,,,,,,"",""
+ball,1,7.4,London Spirit,EJG Morgan,Z Crawley,TW Hartley,6,0,,,,,,"",""
+ball,1,7.5,London Spirit,EJG Morgan,Z Crawley,TW Hartley,2,0,,,,,,"",""
+ball,1,8.1,London Spirit,Z Crawley,EJG Morgan,AD Russell,2,0,,,,,,"",""
+ball,1,8.2,London Spirit,Z Crawley,EJG Morgan,AD Russell,1,0,,,,,,"",""
+ball,1,8.3,London Spirit,EJG Morgan,Z Crawley,AD Russell,1,0,,,,,,"",""
+ball,1,8.4,London Spirit,Z Crawley,EJG Morgan,AD Russell,1,0,,,,,,"",""
+ball,1,8.5,London Spirit,EJG Morgan,Z Crawley,AD Russell,0,0,,,,,,"",""
+ball,1,9.1,London Spirit,EJG Morgan,Z Crawley,MW Parkinson,6,0,,,,,,"",""
+ball,1,9.2,London Spirit,EJG Morgan,Z Crawley,MW Parkinson,0,0,,,,,,"",""
+ball,1,9.3,London Spirit,EJG Morgan,Z Crawley,MW Parkinson,1,0,,,,,,"",""
+ball,1,9.4,London Spirit,Z Crawley,EJG Morgan,MW Parkinson,1,0,,,,,,"",""
+ball,1,9.5,London Spirit,EJG Morgan,Z Crawley,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.1,London Spirit,EJG Morgan,Z Crawley,T Stubbs,2,0,,,,,,"",""
+ball,1,10.2,London Spirit,EJG Morgan,Z Crawley,T Stubbs,0,0,,,,,,"",""
+ball,1,10.3,London Spirit,EJG Morgan,Z Crawley,T Stubbs,0,1,,,,1,,"",""
+ball,1,10.4,London Spirit,Z Crawley,EJG Morgan,T Stubbs,1,0,,,,,,"",""
+ball,1,10.5,London Spirit,EJG Morgan,Z Crawley,T Stubbs,0,0,,,,,,"",""
+ball,1,11.1,London Spirit,EJG Morgan,Z Crawley,T Stubbs,1,0,,,,,,"",""
+ball,1,11.2,London Spirit,Z Crawley,EJG Morgan,T Stubbs,2,0,,,,,,"",""
+ball,1,11.3,London Spirit,Z Crawley,EJG Morgan,T Stubbs,2,0,,,,,,"",""
+ball,1,11.4,London Spirit,Z Crawley,EJG Morgan,T Stubbs,0,0,,,,,,"",""
+ball,1,11.5,London Spirit,Z Crawley,EJG Morgan,T Stubbs,0,0,,,,,,"",""
+ball,1,12.1,London Spirit,EJG Morgan,Z Crawley,SA Abbott,6,0,,,,,,"",""
+ball,1,12.2,London Spirit,EJG Morgan,Z Crawley,SA Abbott,4,0,,,,,,"",""
+ball,1,12.3,London Spirit,EJG Morgan,Z Crawley,SA Abbott,1,0,,,,,,"",""
+ball,1,12.4,London Spirit,Z Crawley,EJG Morgan,SA Abbott,1,0,,,,,,"",""
+ball,1,12.5,London Spirit,EJG Morgan,Z Crawley,SA Abbott,1,0,,,,,,"",""
+ball,1,13.1,London Spirit,Z Crawley,EJG Morgan,MW Parkinson,6,0,,,,,,"",""
+ball,1,13.2,London Spirit,Z Crawley,EJG Morgan,MW Parkinson,1,0,,,,,,"",""
+ball,1,13.3,London Spirit,EJG Morgan,Z Crawley,MW Parkinson,2,0,,,,,,"",""
+ball,1,13.4,London Spirit,EJG Morgan,Z Crawley,MW Parkinson,1,0,,,,,,"",""
+ball,1,13.5,London Spirit,Z Crawley,EJG Morgan,MW Parkinson,0,0,,,,,,caught,Z Crawley
+ball,1,14.1,London Spirit,EJG Morgan,KA Pollard,PI Walter,1,0,,,,,,"",""
+ball,1,14.2,London Spirit,KA Pollard,EJG Morgan,PI Walter,1,0,,,,,,"",""
+ball,1,14.3,London Spirit,EJG Morgan,KA Pollard,PI Walter,0,0,,,,,,"",""
+ball,1,14.4,London Spirit,EJG Morgan,KA Pollard,PI Walter,0,0,,,,,,"",""
+ball,1,14.5,London Spirit,EJG Morgan,KA Pollard,PI Walter,0,0,,,,,,"",""
+ball,1,15.1,London Spirit,EJG Morgan,KA Pollard,PI Walter,1,0,,,,,,"",""
+ball,1,15.2,London Spirit,KA Pollard,EJG Morgan,PI Walter,2,0,,,,,,"",""
+ball,1,15.3,London Spirit,KA Pollard,EJG Morgan,PI Walter,1,0,,,,,,"",""
+ball,1,15.4,London Spirit,EJG Morgan,KA Pollard,PI Walter,0,0,,,,,,caught,EJG Morgan
+ball,1,15.5,London Spirit,JA Thompson,KA Pollard,PI Walter,1,0,,,,,,"",""
+ball,1,16.1,London Spirit,JA Thompson,KA Pollard,FJ Klaassen,1,0,,,,,,"",""
+ball,1,16.2,London Spirit,KA Pollard,JA Thompson,FJ Klaassen,6,0,,,,,,"",""
+ball,1,16.3,London Spirit,KA Pollard,JA Thompson,FJ Klaassen,1,0,,,,,,"",""
+ball,1,16.4,London Spirit,JA Thompson,KA Pollard,FJ Klaassen,0,0,,,,,,caught,JA Thompson
+ball,1,16.5,London Spirit,RS Bopara,KA Pollard,FJ Klaassen,0,0,,,,,,"",""
+ball,1,17.1,London Spirit,RS Bopara,KA Pollard,AD Russell,4,0,,,,,,"",""
+ball,1,17.2,London Spirit,RS Bopara,KA Pollard,AD Russell,4,0,,,,,,"",""
+ball,1,17.3,London Spirit,RS Bopara,KA Pollard,AD Russell,0,0,,,,,,"",""
+ball,1,17.4,London Spirit,RS Bopara,KA Pollard,AD Russell,0,1,1,,,,,"",""
+ball,1,17.5,London Spirit,RS Bopara,KA Pollard,AD Russell,1,0,,,,,,"",""
+ball,1,17.6,London Spirit,KA Pollard,RS Bopara,AD Russell,6,0,,,,,,"",""
+ball,1,18.1,London Spirit,RS Bopara,KA Pollard,PI Walter,0,0,,,,,,caught,RS Bopara
+ball,1,18.2,London Spirit,LA Dawson,KA Pollard,PI Walter,2,0,,,,,,"",""
+ball,1,18.3,London Spirit,LA Dawson,KA Pollard,PI Walter,1,0,,,,,,"",""
+ball,1,18.4,London Spirit,KA Pollard,LA Dawson,PI Walter,0,1,1,,,,,"",""
+ball,1,18.5,London Spirit,KA Pollard,LA Dawson,PI Walter,4,0,,,,,,"",""
+ball,1,18.6,London Spirit,KA Pollard,LA Dawson,PI Walter,1,0,,,,,,"",""
+ball,1,19.1,London Spirit,LA Dawson,KA Pollard,FJ Klaassen,0,1,,,,1,,"",""
+ball,1,19.2,London Spirit,KA Pollard,LA Dawson,FJ Klaassen,6,0,,,,,,"",""
+ball,1,19.3,London Spirit,KA Pollard,LA Dawson,FJ Klaassen,0,1,,,,1,,"",""
+ball,1,19.4,London Spirit,LA Dawson,KA Pollard,FJ Klaassen,0,1,,,1,,,"",""
+ball,1,19.5,London Spirit,KA Pollard,LA Dawson,FJ Klaassen,6,0,,,,,,"",""
+ball,2,0.1,Manchester Originals,JC Buttler,PD Salt,CP Wood,0,0,,,,,,"",""
+ball,2,0.2,Manchester Originals,JC Buttler,PD Salt,CP Wood,0,0,,,,,,"",""
+ball,2,0.3,Manchester Originals,JC Buttler,PD Salt,CP Wood,0,0,,,,,,"",""
+ball,2,0.4,Manchester Originals,JC Buttler,PD Salt,CP Wood,0,0,,,,,,"",""
+ball,2,0.5,Manchester Originals,JC Buttler,PD Salt,CP Wood,0,1,1,,,,,"",""
+ball,2,0.6,Manchester Originals,JC Buttler,PD Salt,CP Wood,1,0,,,,,,"",""
+ball,2,1.1,Manchester Originals,PD Salt,JC Buttler,LA Dawson,1,0,,,,,,"",""
+ball,2,1.2,Manchester Originals,JC Buttler,PD Salt,LA Dawson,0,0,,,,,,"",""
+ball,2,1.3,Manchester Originals,JC Buttler,PD Salt,LA Dawson,2,0,,,,,,"",""
+ball,2,1.4,Manchester Originals,JC Buttler,PD Salt,LA Dawson,1,0,,,,,,"",""
+ball,2,1.5,Manchester Originals,PD Salt,JC Buttler,LA Dawson,4,0,,,,,,"",""
+ball,2,2.1,Manchester Originals,JC Buttler,PD Salt,JA Thompson,2,0,,,,,,"",""
+ball,2,2.2,Manchester Originals,JC Buttler,PD Salt,JA Thompson,0,0,,,,,,"",""
+ball,2,2.3,Manchester Originals,JC Buttler,PD Salt,JA Thompson,0,0,,,,,,caught,JC Buttler
+ball,2,2.4,Manchester Originals,WL Madsen,PD Salt,JA Thompson,1,0,,,,,,"",""
+ball,2,2.5,Manchester Originals,PD Salt,WL Madsen,JA Thompson,0,0,,,,,,"",""
+ball,2,3.1,Manchester Originals,PD Salt,WL Madsen,NT Ellis,4,0,,,,,,"",""
+ball,2,3.2,Manchester Originals,PD Salt,WL Madsen,NT Ellis,0,0,,,,,,"",""
+ball,2,3.3,Manchester Originals,PD Salt,WL Madsen,NT Ellis,0,0,,,,,,"",""
+ball,2,3.4,Manchester Originals,PD Salt,WL Madsen,NT Ellis,1,0,,,,,,"",""
+ball,2,3.5,Manchester Originals,WL Madsen,PD Salt,NT Ellis,0,0,,,,,,"",""
+ball,2,4.1,Manchester Originals,PD Salt,WL Madsen,CP Wood,0,0,,,,,,"",""
+ball,2,4.2,Manchester Originals,PD Salt,WL Madsen,CP Wood,0,0,,,,,,"",""
+ball,2,4.3,Manchester Originals,PD Salt,WL Madsen,CP Wood,0,0,,,,,,"",""
+ball,2,4.4,Manchester Originals,PD Salt,WL Madsen,CP Wood,0,0,,,,,,"",""
+ball,2,4.5,Manchester Originals,PD Salt,WL Madsen,CP Wood,4,0,,,,,,"",""
+ball,2,5.1,Manchester Originals,PD Salt,WL Madsen,LA Dawson,0,0,,,,,,"",""
+ball,2,5.2,Manchester Originals,PD Salt,WL Madsen,LA Dawson,2,0,,,,,,"",""
+ball,2,5.3,Manchester Originals,PD Salt,WL Madsen,LA Dawson,1,0,,,,,,"",""
+ball,2,5.4,Manchester Originals,WL Madsen,PD Salt,LA Dawson,1,0,,,,,,"",""
+ball,2,5.5,Manchester Originals,PD Salt,WL Madsen,LA Dawson,1,0,,,,,,"",""
+ball,2,6.1,Manchester Originals,PD Salt,WL Madsen,NT Ellis,1,0,,,,,,"",""
+ball,2,6.2,Manchester Originals,WL Madsen,PD Salt,NT Ellis,1,0,,,,,,"",""
+ball,2,6.3,Manchester Originals,PD Salt,WL Madsen,NT Ellis,2,0,,,,,,"",""
+ball,2,6.4,Manchester Originals,PD Salt,WL Madsen,NT Ellis,0,0,,,,,,"",""
+ball,2,6.5,Manchester Originals,PD Salt,WL Madsen,NT Ellis,1,0,,,,,,"",""
+ball,2,7.1,Manchester Originals,WL Madsen,PD Salt,JA Thompson,2,0,,,,,,"",""
+ball,2,7.2,Manchester Originals,WL Madsen,PD Salt,JA Thompson,0,0,,,,,,"",""
+ball,2,7.3,Manchester Originals,WL Madsen,PD Salt,JA Thompson,4,0,,,,,,"",""
+ball,2,7.4,Manchester Originals,WL Madsen,PD Salt,JA Thompson,0,1,1,,,,,"",""
+ball,2,7.5,Manchester Originals,WL Madsen,PD Salt,JA Thompson,0,0,,,,,,bowled,WL Madsen
+ball,2,7.6,Manchester Originals,LJ Evans,PD Salt,JA Thompson,0,0,,,,,,"",""
+ball,2,8.1,Manchester Originals,PD Salt,LJ Evans,MS Crane,0,0,,,,,,"",""
+ball,2,8.2,Manchester Originals,PD Salt,LJ Evans,MS Crane,1,0,,,,,,"",""
+ball,2,8.3,Manchester Originals,LJ Evans,PD Salt,MS Crane,2,0,,,,,,"",""
+ball,2,8.4,Manchester Originals,LJ Evans,PD Salt,MS Crane,1,0,,,,,,"",""
+ball,2,8.5,Manchester Originals,PD Salt,LJ Evans,MS Crane,1,0,,,,,,"",""
+ball,2,9.1,Manchester Originals,LJ Evans,PD Salt,MS Crane,0,0,,,,,,"",""
+ball,2,9.2,Manchester Originals,LJ Evans,PD Salt,MS Crane,0,0,,,,,,caught,LJ Evans
+ball,2,9.3,Manchester Originals,PI Walter,PD Salt,MS Crane,0,0,,,,,,"",""
+ball,2,9.4,Manchester Originals,PI Walter,PD Salt,MS Crane,1,0,,,,,,"",""
+ball,2,9.5,Manchester Originals,PD Salt,PI Walter,MS Crane,0,0,,,,,,"",""
+ball,2,10.1,Manchester Originals,PI Walter,PD Salt,JA Thompson,2,0,,,,,,"",""
+ball,2,10.2,Manchester Originals,PI Walter,PD Salt,JA Thompson,0,0,,,,,,caught,PI Walter
+ball,2,10.3,Manchester Originals,AD Russell,PD Salt,JA Thompson,1,0,,,,,,"",""
+ball,2,10.4,Manchester Originals,PD Salt,AD Russell,JA Thompson,0,0,,,,,,"",""
+ball,2,10.5,Manchester Originals,PD Salt,AD Russell,JA Thompson,1,0,,,,,,"",""
+ball,2,11.1,Manchester Originals,AD Russell,PD Salt,NT Ellis,0,0,,,,,,"",""
+ball,2,11.2,Manchester Originals,AD Russell,PD Salt,NT Ellis,4,0,,,,,,"",""
+ball,2,11.3,Manchester Originals,AD Russell,PD Salt,NT Ellis,0,0,,,,,,"",""
+ball,2,11.4,Manchester Originals,AD Russell,PD Salt,NT Ellis,0,0,,,,,,run out,AD Russell
+ball,2,11.5,Manchester Originals,PD Salt,T Stubbs,NT Ellis,1,0,,,,,,"",""
+ball,2,12.1,Manchester Originals,PD Salt,T Stubbs,MS Crane,4,0,,,,,,"",""
+ball,2,12.2,Manchester Originals,PD Salt,T Stubbs,MS Crane,2,0,,,,,,"",""
+ball,2,12.3,Manchester Originals,PD Salt,T Stubbs,MS Crane,1,0,,,,,,"",""
+ball,2,12.4,Manchester Originals,T Stubbs,PD Salt,MS Crane,1,0,,,,,,"",""
+ball,2,12.5,Manchester Originals,PD Salt,T Stubbs,MS Crane,1,0,,,,,,"",""
+ball,2,13.1,Manchester Originals,T Stubbs,PD Salt,LA Dawson,0,0,,,,,,caught,T Stubbs
+ball,2,13.2,Manchester Originals,SA Abbott,PD Salt,LA Dawson,1,0,,,,,,"",""
+ball,2,13.3,Manchester Originals,PD Salt,SA Abbott,LA Dawson,2,0,,,,,,"",""
+ball,2,13.4,Manchester Originals,PD Salt,SA Abbott,LA Dawson,0,1,1,,,,,"",""
+ball,2,13.5,Manchester Originals,PD Salt,SA Abbott,LA Dawson,0,0,,,,,,"",""
+ball,2,13.6,Manchester Originals,PD Salt,SA Abbott,LA Dawson,0,0,,,,,,bowled,PD Salt
+ball,2,14.1,Manchester Originals,SA Abbott,TW Hartley,CP Wood,0,0,,,,,,"",""
+ball,2,14.2,Manchester Originals,SA Abbott,TW Hartley,CP Wood,2,0,,,,,,"",""
+ball,2,14.3,Manchester Originals,SA Abbott,TW Hartley,CP Wood,0,0,,,,,,"",""
+ball,2,14.4,Manchester Originals,SA Abbott,TW Hartley,CP Wood,6,0,,,,,,"",""
+ball,2,14.5,Manchester Originals,SA Abbott,TW Hartley,CP Wood,1,0,,,,,,"",""
+ball,2,15.1,Manchester Originals,TW Hartley,SA Abbott,JA Thompson,1,0,,,,,,"",""
+ball,2,15.2,Manchester Originals,SA Abbott,TW Hartley,JA Thompson,0,0,,,,,,caught,SA Abbott
+ball,2,15.3,Manchester Originals,FJ Klaassen,TW Hartley,JA Thompson,0,1,1,,,,,"",""
+ball,2,15.4,Manchester Originals,FJ Klaassen,TW Hartley,JA Thompson,1,0,,,,,,"",""
+ball,2,15.5,Manchester Originals,TW Hartley,FJ Klaassen,JA Thompson,0,1,1,,,,,"",""
+ball,2,15.6,Manchester Originals,TW Hartley,FJ Klaassen,JA Thompson,2,0,,,,,,"",""
+ball,2,15.7,Manchester Originals,TW Hartley,FJ Klaassen,JA Thompson,1,0,,,,,,"",""
+ball,2,16.1,Manchester Originals,TW Hartley,FJ Klaassen,LA Dawson,1,0,,,,,,"",""
+ball,2,16.2,Manchester Originals,FJ Klaassen,TW Hartley,LA Dawson,1,0,,,,,,"",""
+ball,2,16.3,Manchester Originals,TW Hartley,FJ Klaassen,LA Dawson,0,0,,,,,,"",""
+ball,2,16.4,Manchester Originals,TW Hartley,FJ Klaassen,LA Dawson,2,0,,,,,,"",""
+ball,2,16.5,Manchester Originals,TW Hartley,FJ Klaassen,LA Dawson,6,0,,,,,,"",""
+ball,2,17.1,Manchester Originals,TW Hartley,FJ Klaassen,NT Ellis,0,4,,,,4,,"",""
+ball,2,17.2,Manchester Originals,TW Hartley,FJ Klaassen,NT Ellis,0,0,,,,,,"",""
+ball,2,17.3,Manchester Originals,TW Hartley,FJ Klaassen,NT Ellis,1,0,,,,,,"",""
+ball,2,17.4,Manchester Originals,FJ Klaassen,TW Hartley,NT Ellis,0,0,,,,,,"",""
+ball,2,17.5,Manchester Originals,FJ Klaassen,TW Hartley,NT Ellis,0,0,,,,,,"",""
+ball,2,18.1,Manchester Originals,TW Hartley,FJ Klaassen,CP Wood,2,0,,,,,,"",""
+ball,2,18.2,Manchester Originals,TW Hartley,FJ Klaassen,CP Wood,0,0,,,,,,"",""
+ball,2,18.3,Manchester Originals,TW Hartley,FJ Klaassen,CP Wood,0,1,1,,,,,"",""
+ball,2,18.4,Manchester Originals,TW Hartley,FJ Klaassen,CP Wood,0,0,,,,,,"",""
+ball,2,18.5,Manchester Originals,TW Hartley,FJ Klaassen,CP Wood,1,0,,,,,,"",""
+ball,2,18.6,Manchester Originals,FJ Klaassen,TW Hartley,CP Wood,0,0,,,,,,caught,FJ Klaassen
+ball,2,19.1,Manchester Originals,MW Parkinson,TW Hartley,MS Crane,6,0,,,,,,"",""
+ball,2,19.2,Manchester Originals,MW Parkinson,TW Hartley,MS Crane,0,0,,,,,,"",""
+ball,2,19.3,Manchester Originals,MW Parkinson,TW Hartley,MS Crane,0,0,,,,,,caught,MW Parkinson

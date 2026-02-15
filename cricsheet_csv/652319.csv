@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Cape Cobras
+info,gender,male
+info,season,2013/14
+info,date,2014/02/09
+info,event,Ram Slam T20 Challenge
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,Dolphins
+info,toss_decision,bat
+info,player_of_match,MN van Wyk
+info,player_of_match,M Shezi
+info,umpire,AT Holdstock
+info,umpire,DJ Smith
+info,reserve_umpire,EC Hendrikse
+info,tv_umpire,MW Brown
+info,match_referee,SB Lambson
+info,winner,Dolphins
+info,winner_runs,2
+info,player,Dolphins,MN van Wyk
+info,player,Dolphins,CS Delport
+info,player,Dolphins,C Chetty
+info,player,Dolphins,D Smit
+info,player,Dolphins,DA Miller
+info,player,Dolphins,K Zondo
+info,player,Dolphins,VB van Jaarsveld
+info,player,Dolphins,R Frylinck
+info,player,Dolphins,KJ Abbott
+info,player,Dolphins,KA Maharaj
+info,player,Dolphins,M Shezi
+info,player,Cape Cobras,RE Levi
+info,player,Cape Cobras,JH Kallis
+info,player,Cape Cobras,S van Zyl
+info,player,Cape Cobras,DJ Vilas
+info,player,Cape Cobras,JL Ontong
+info,player,Cape Cobras,SA Engelbrecht
+info,player,Cape Cobras,JM Kemp
+info,player,Cape Cobras,DL Piedt
+info,player,Cape Cobras,A Mgijima
+info,player,Cape Cobras,LB Williams
+info,player,Cape Cobras,BE Hendricks
+info,registry,people,A Mgijima,955e8e86
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,C Chetty,27ca3a11
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,D Smit,4bb02ef1
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,EC Hendrikse,3f2996c9
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JL Ontong,55f33b32
+info,registry,people,JM Kemp,6581d753
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,M Shezi,016e5101
+info,registry,people,MN van Wyk,710dd98c
+info,registry,people,MW Brown,d83d7796
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,RE Levi,18c78b11
+info,registry,people,S van Zyl,f4dfcbb4
+info,registry,people,SA Engelbrecht,81a0e294
+info,registry,people,SB Lambson,4146063f
+info,registry,people,VB van Jaarsveld,890b877d
+ball,1,0.1,Dolphins,MN van Wyk,CS Delport,BE Hendricks,1,0,,,,,,"",""
+ball,1,0.2,Dolphins,CS Delport,MN van Wyk,BE Hendricks,3,0,,,,,,"",""
+ball,1,0.3,Dolphins,MN van Wyk,CS Delport,BE Hendricks,0,0,,,,,,"",""
+ball,1,0.4,Dolphins,MN van Wyk,CS Delport,BE Hendricks,0,4,,,,4,,"",""
+ball,1,0.5,Dolphins,MN van Wyk,CS Delport,BE Hendricks,0,0,,,,,,"",""
+ball,1,0.6,Dolphins,MN van Wyk,CS Delport,BE Hendricks,4,0,,,,,,"",""
+ball,1,1.1,Dolphins,CS Delport,MN van Wyk,DL Piedt,1,0,,,,,,"",""
+ball,1,1.2,Dolphins,MN van Wyk,CS Delport,DL Piedt,4,0,,,,,,"",""
+ball,1,1.3,Dolphins,MN van Wyk,CS Delport,DL Piedt,0,0,,,,,,"",""
+ball,1,1.4,Dolphins,MN van Wyk,CS Delport,DL Piedt,0,0,,,,,,"",""
+ball,1,1.5,Dolphins,MN van Wyk,CS Delport,DL Piedt,0,0,,,,,,"",""
+ball,1,1.6,Dolphins,MN van Wyk,CS Delport,DL Piedt,0,0,,,,,,"",""
+ball,1,2.1,Dolphins,CS Delport,MN van Wyk,BE Hendricks,0,0,,,,,,"",""
+ball,1,2.2,Dolphins,CS Delport,MN van Wyk,BE Hendricks,0,0,,,,,,"",""
+ball,1,2.3,Dolphins,CS Delport,MN van Wyk,BE Hendricks,0,0,,,,,,caught,CS Delport
+ball,1,2.4,Dolphins,C Chetty,MN van Wyk,BE Hendricks,0,0,,,,,,"",""
+ball,1,2.5,Dolphins,C Chetty,MN van Wyk,BE Hendricks,4,0,,,,,,"",""
+ball,1,2.6,Dolphins,C Chetty,MN van Wyk,BE Hendricks,4,0,,,,,,"",""
+ball,1,3.1,Dolphins,MN van Wyk,C Chetty,JH Kallis,0,0,,,,,,"",""
+ball,1,3.2,Dolphins,MN van Wyk,C Chetty,JH Kallis,0,0,,,,,,"",""
+ball,1,3.3,Dolphins,MN van Wyk,C Chetty,JH Kallis,0,0,,,,,,"",""
+ball,1,3.4,Dolphins,MN van Wyk,C Chetty,JH Kallis,0,2,2,,,,,"",""
+ball,1,3.5,Dolphins,C Chetty,MN van Wyk,JH Kallis,0,0,,,,,,"",""
+ball,1,3.6,Dolphins,C Chetty,MN van Wyk,JH Kallis,1,0,,,,,,"",""
+ball,1,3.7,Dolphins,MN van Wyk,C Chetty,JH Kallis,6,0,,,,,,"",""
+ball,1,4.1,Dolphins,C Chetty,MN van Wyk,LB Williams,1,0,,,,,,"",""
+ball,1,4.2,Dolphins,MN van Wyk,C Chetty,LB Williams,0,0,,,,,,"",""
+ball,1,4.3,Dolphins,MN van Wyk,C Chetty,LB Williams,0,1,1,,,,,"",""
+ball,1,4.4,Dolphins,MN van Wyk,C Chetty,LB Williams,0,0,,,,,,"",""
+ball,1,4.5,Dolphins,MN van Wyk,C Chetty,LB Williams,1,0,,,,,,"",""
+ball,1,4.6,Dolphins,C Chetty,MN van Wyk,LB Williams,0,0,,,,,,"",""
+ball,1,4.7,Dolphins,C Chetty,MN van Wyk,LB Williams,4,0,,,,,,"",""
+ball,1,5.1,Dolphins,MN van Wyk,C Chetty,JM Kemp,0,0,,,,,,"",""
+ball,1,5.2,Dolphins,MN van Wyk,C Chetty,JM Kemp,0,0,,,,,,"",""
+ball,1,5.3,Dolphins,MN van Wyk,C Chetty,JM Kemp,4,0,,,,,,"",""
+ball,1,5.4,Dolphins,MN van Wyk,C Chetty,JM Kemp,0,0,,,,,,"",""
+ball,1,5.5,Dolphins,MN van Wyk,C Chetty,JM Kemp,1,0,,,,,,"",""
+ball,1,5.6,Dolphins,C Chetty,MN van Wyk,JM Kemp,1,0,,,,,,"",""
+ball,1,6.1,Dolphins,C Chetty,MN van Wyk,DL Piedt,2,0,,,,,,"",""
+ball,1,6.2,Dolphins,C Chetty,MN van Wyk,DL Piedt,0,0,,,,,,"",""
+ball,1,6.3,Dolphins,C Chetty,MN van Wyk,DL Piedt,0,0,,,,,,"",""
+ball,1,6.4,Dolphins,C Chetty,MN van Wyk,DL Piedt,0,0,,,,,,caught,C Chetty
+ball,1,6.5,Dolphins,D Smit,MN van Wyk,DL Piedt,0,0,,,,,,"",""
+ball,1,6.6,Dolphins,D Smit,MN van Wyk,DL Piedt,0,0,,,,,,"",""
+ball,1,7.1,Dolphins,MN van Wyk,D Smit,JM Kemp,0,0,,,,,,"",""
+ball,1,7.2,Dolphins,MN van Wyk,D Smit,JM Kemp,1,0,,,,,,"",""
+ball,1,7.3,Dolphins,D Smit,MN van Wyk,JM Kemp,1,0,,,,,,"",""
+ball,1,7.4,Dolphins,MN van Wyk,D Smit,JM Kemp,1,0,,,,,,"",""
+ball,1,7.5,Dolphins,D Smit,MN van Wyk,JM Kemp,1,0,,,,,,"",""
+ball,1,7.6,Dolphins,MN van Wyk,D Smit,JM Kemp,2,0,,,,,,"",""
+ball,1,8.1,Dolphins,D Smit,MN van Wyk,DL Piedt,4,0,,,,,,"",""
+ball,1,8.2,Dolphins,D Smit,MN van Wyk,DL Piedt,0,0,,,,,,"",""
+ball,1,8.3,Dolphins,D Smit,MN van Wyk,DL Piedt,1,0,,,,,,"",""
+ball,1,8.4,Dolphins,MN van Wyk,D Smit,DL Piedt,0,0,,,,,,"",""
+ball,1,8.5,Dolphins,MN van Wyk,D Smit,DL Piedt,1,0,,,,,,"",""
+ball,1,8.6,Dolphins,D Smit,MN van Wyk,DL Piedt,1,0,,,,,,"",""
+ball,1,9.1,Dolphins,D Smit,MN van Wyk,JM Kemp,1,0,,,,,,"",""
+ball,1,9.2,Dolphins,MN van Wyk,D Smit,JM Kemp,1,0,,,,,,"",""
+ball,1,9.3,Dolphins,D Smit,MN van Wyk,JM Kemp,0,0,,,,,,"",""
+ball,1,9.4,Dolphins,D Smit,MN van Wyk,JM Kemp,4,0,,,,,,"",""
+ball,1,9.5,Dolphins,D Smit,MN van Wyk,JM Kemp,1,0,,,,,,"",""
+ball,1,9.6,Dolphins,MN van Wyk,D Smit,JM Kemp,6,0,,,,,,"",""
+ball,1,10.1,Dolphins,D Smit,MN van Wyk,JL Ontong,0,0,,,,,,caught,D Smit
+ball,1,10.2,Dolphins,DA Miller,MN van Wyk,JL Ontong,1,0,,,,,,"",""
+ball,1,10.3,Dolphins,MN van Wyk,DA Miller,JL Ontong,0,0,,,,,,"",""
+ball,1,10.4,Dolphins,MN van Wyk,DA Miller,JL Ontong,2,0,,,,,,"",""
+ball,1,10.5,Dolphins,MN van Wyk,DA Miller,JL Ontong,0,0,,,,,,"",""
+ball,1,10.6,Dolphins,MN van Wyk,DA Miller,JL Ontong,1,0,,,,,,"",""
+ball,1,11.1,Dolphins,MN van Wyk,DA Miller,JM Kemp,1,0,,,,,,"",""
+ball,1,11.2,Dolphins,DA Miller,MN van Wyk,JM Kemp,1,0,,,,,,"",""
+ball,1,11.3,Dolphins,MN van Wyk,DA Miller,JM Kemp,4,0,,,,,,"",""
+ball,1,11.4,Dolphins,MN van Wyk,DA Miller,JM Kemp,1,0,,,,,,"",""
+ball,1,11.5,Dolphins,DA Miller,MN van Wyk,JM Kemp,2,0,,,,,,"",""
+ball,1,11.6,Dolphins,DA Miller,MN van Wyk,JM Kemp,0,0,,,,,,"",""
+ball,1,12.1,Dolphins,MN van Wyk,DA Miller,JL Ontong,1,0,,,,,,"",""
+ball,1,12.2,Dolphins,DA Miller,MN van Wyk,JL Ontong,1,0,,,,,,"",""
+ball,1,12.3,Dolphins,MN van Wyk,DA Miller,JL Ontong,0,0,,,,,,"",""
+ball,1,12.4,Dolphins,MN van Wyk,DA Miller,JL Ontong,4,0,,,,,,"",""
+ball,1,12.5,Dolphins,MN van Wyk,DA Miller,JL Ontong,0,0,,,,,,"",""
+ball,1,12.6,Dolphins,MN van Wyk,DA Miller,JL Ontong,0,0,,,,,,"",""
+ball,1,13.1,Dolphins,DA Miller,MN van Wyk,SA Engelbrecht,1,0,,,,,,"",""
+ball,1,13.2,Dolphins,MN van Wyk,DA Miller,SA Engelbrecht,0,0,,,,,,"",""
+ball,1,13.3,Dolphins,MN van Wyk,DA Miller,SA Engelbrecht,0,0,,,,,,"",""
+ball,1,13.4,Dolphins,MN van Wyk,DA Miller,SA Engelbrecht,0,0,,,,,,caught,MN van Wyk
+ball,1,13.5,Dolphins,DA Miller,K Zondo,SA Engelbrecht,2,0,,,,,,"",""
+ball,1,13.6,Dolphins,DA Miller,K Zondo,SA Engelbrecht,2,0,,,,,,"",""
+ball,1,14.1,Dolphins,K Zondo,DA Miller,DL Piedt,3,0,,,,,,"",""
+ball,1,14.2,Dolphins,DA Miller,K Zondo,DL Piedt,1,0,,,,,,"",""
+ball,1,14.3,Dolphins,K Zondo,DA Miller,DL Piedt,0,0,,,,,,"",""
+ball,1,14.4,Dolphins,K Zondo,DA Miller,DL Piedt,0,0,,,,,,"",""
+ball,1,14.5,Dolphins,K Zondo,DA Miller,DL Piedt,0,0,,,,,,"",""
+ball,1,14.6,Dolphins,K Zondo,DA Miller,DL Piedt,0,0,,,,,,"",""
+ball,1,15.1,Dolphins,DA Miller,K Zondo,SA Engelbrecht,6,0,,,,,,"",""
+ball,1,15.2,Dolphins,DA Miller,K Zondo,SA Engelbrecht,1,0,,,,,,"",""
+ball,1,15.3,Dolphins,K Zondo,DA Miller,SA Engelbrecht,6,0,,,,,,"",""
+ball,1,15.4,Dolphins,K Zondo,DA Miller,SA Engelbrecht,0,0,,,,,,"",""
+ball,1,15.5,Dolphins,K Zondo,DA Miller,SA Engelbrecht,1,0,,,,,,"",""
+ball,1,15.6,Dolphins,DA Miller,K Zondo,SA Engelbrecht,2,0,,,,,,"",""
+ball,1,16.1,Dolphins,K Zondo,DA Miller,BE Hendricks,4,0,,,,,,"",""
+ball,1,16.2,Dolphins,K Zondo,DA Miller,BE Hendricks,1,0,,,,,,"",""
+ball,1,16.3,Dolphins,DA Miller,K Zondo,BE Hendricks,0,1,,,,1,,"",""
+ball,1,16.4,Dolphins,K Zondo,DA Miller,BE Hendricks,0,0,,,,,,"",""
+ball,1,16.5,Dolphins,K Zondo,DA Miller,BE Hendricks,0,1,1,,,,,"",""
+ball,1,16.6,Dolphins,K Zondo,DA Miller,BE Hendricks,1,0,,,,,,"",""
+ball,1,16.7,Dolphins,DA Miller,K Zondo,BE Hendricks,0,0,,,,,,"",""
+ball,1,17.1,Dolphins,K Zondo,DA Miller,JH Kallis,0,0,,,,,,caught,K Zondo
+ball,1,17.2,Dolphins,DA Miller,VB van Jaarsveld,JH Kallis,0,0,,,,,,"",""
+ball,1,17.3,Dolphins,DA Miller,VB van Jaarsveld,JH Kallis,1,0,,,,,,"",""
+ball,1,17.4,Dolphins,VB van Jaarsveld,DA Miller,JH Kallis,0,0,,,,,,caught,VB van Jaarsveld
+ball,1,17.5,Dolphins,R Frylinck,DA Miller,JH Kallis,1,0,,,,,,"",""
+ball,1,17.6,Dolphins,DA Miller,R Frylinck,JH Kallis,4,0,,,,,,"",""
+ball,1,18.1,Dolphins,R Frylinck,DA Miller,BE Hendricks,0,0,,,,,,"",""
+ball,1,18.2,Dolphins,R Frylinck,DA Miller,BE Hendricks,1,0,,,,,,"",""
+ball,1,18.3,Dolphins,DA Miller,R Frylinck,BE Hendricks,0,1,,,,1,,"",""
+ball,1,18.4,Dolphins,R Frylinck,DA Miller,BE Hendricks,0,0,,,,,,"",""
+ball,1,18.5,Dolphins,R Frylinck,DA Miller,BE Hendricks,0,0,,,,,,"",""
+ball,1,18.6,Dolphins,R Frylinck,DA Miller,BE Hendricks,0,0,,,,,,"",""
+ball,1,19.1,Dolphins,DA Miller,R Frylinck,JH Kallis,0,0,,,,,,caught,DA Miller
+ball,1,19.2,Dolphins,R Frylinck,KJ Abbott,JH Kallis,4,0,,,,,,"",""
+ball,1,19.3,Dolphins,R Frylinck,KJ Abbott,JH Kallis,0,0,,,,,,caught,R Frylinck
+ball,1,19.4,Dolphins,KJ Abbott,KA Maharaj,JH Kallis,1,0,,,,,,"",""
+ball,1,19.5,Dolphins,KA Maharaj,KJ Abbott,JH Kallis,6,0,,,,,,"",""
+ball,1,19.6,Dolphins,KA Maharaj,KJ Abbott,JH Kallis,0,0,,,,,,"",""
+ball,2,0.1,Cape Cobras,RE Levi,JH Kallis,KJ Abbott,0,0,,,,,,"",""
+ball,2,0.2,Cape Cobras,RE Levi,JH Kallis,KJ Abbott,1,0,,,,,,"",""
+ball,2,0.3,Cape Cobras,JH Kallis,RE Levi,KJ Abbott,0,0,,,,,,"",""
+ball,2,0.4,Cape Cobras,JH Kallis,RE Levi,KJ Abbott,0,0,,,,,,"",""
+ball,2,0.5,Cape Cobras,JH Kallis,RE Levi,KJ Abbott,4,0,,,,,,"",""
+ball,2,0.6,Cape Cobras,JH Kallis,RE Levi,KJ Abbott,0,0,,,,,,"",""
+ball,2,1.1,Cape Cobras,RE Levi,JH Kallis,M Shezi,0,0,,,,,,"",""
+ball,2,1.2,Cape Cobras,RE Levi,JH Kallis,M Shezi,0,0,,,,,,caught,RE Levi
+ball,2,1.3,Cape Cobras,S van Zyl,JH Kallis,M Shezi,1,0,,,,,,"",""
+ball,2,1.4,Cape Cobras,JH Kallis,S van Zyl,M Shezi,0,0,,,,,,"",""
+ball,2,1.5,Cape Cobras,JH Kallis,S van Zyl,M Shezi,1,0,,,,,,"",""
+ball,2,1.6,Cape Cobras,S van Zyl,JH Kallis,M Shezi,4,0,,,,,,"",""
+ball,2,2.1,Cape Cobras,JH Kallis,S van Zyl,R Frylinck,0,0,,,,,,"",""
+ball,2,2.2,Cape Cobras,JH Kallis,S van Zyl,R Frylinck,0,0,,,,,,bowled,JH Kallis
+ball,2,2.3,Cape Cobras,DJ Vilas,S van Zyl,R Frylinck,1,0,,,,,,"",""
+ball,2,2.4,Cape Cobras,S van Zyl,DJ Vilas,R Frylinck,0,0,,,,,,"",""
+ball,2,2.5,Cape Cobras,S van Zyl,DJ Vilas,R Frylinck,4,0,,,,,,"",""
+ball,2,2.6,Cape Cobras,S van Zyl,DJ Vilas,R Frylinck,1,0,,,,,,"",""
+ball,2,3.1,Cape Cobras,S van Zyl,DJ Vilas,M Shezi,1,0,,,,,,"",""
+ball,2,3.2,Cape Cobras,DJ Vilas,S van Zyl,M Shezi,0,0,,,,,,"",""
+ball,2,3.3,Cape Cobras,DJ Vilas,S van Zyl,M Shezi,0,0,,,,,,"",""
+ball,2,3.4,Cape Cobras,DJ Vilas,S van Zyl,M Shezi,0,0,,,,,,"",""
+ball,2,3.5,Cape Cobras,DJ Vilas,S van Zyl,M Shezi,0,0,,,,,,"",""
+ball,2,3.6,Cape Cobras,DJ Vilas,S van Zyl,M Shezi,0,0,,,,,,"",""
+ball,2,4.1,Cape Cobras,S van Zyl,DJ Vilas,KJ Abbott,0,0,,,,,,"",""
+ball,2,4.2,Cape Cobras,S van Zyl,DJ Vilas,KJ Abbott,0,0,,,,,,"",""
+ball,2,4.3,Cape Cobras,S van Zyl,DJ Vilas,KJ Abbott,1,0,,,,,,"",""
+ball,2,4.4,Cape Cobras,DJ Vilas,S van Zyl,KJ Abbott,0,0,,,,,,lbw,DJ Vilas
+ball,2,4.5,Cape Cobras,JL Ontong,S van Zyl,KJ Abbott,0,0,,,,,,"",""
+ball,2,4.6,Cape Cobras,JL Ontong,S van Zyl,KJ Abbott,0,0,,,,,,"",""
+ball,2,5.1,Cape Cobras,S van Zyl,JL Ontong,M Shezi,0,0,,,,,,"",""
+ball,2,5.2,Cape Cobras,S van Zyl,JL Ontong,M Shezi,1,0,,,,,,"",""
+ball,2,5.3,Cape Cobras,JL Ontong,S van Zyl,M Shezi,0,0,,,,,,caught,JL Ontong
+ball,2,5.4,Cape Cobras,SA Engelbrecht,S van Zyl,M Shezi,0,0,,,,,,"",""
+ball,2,5.5,Cape Cobras,SA Engelbrecht,S van Zyl,M Shezi,0,0,,,,,,"",""
+ball,2,5.6,Cape Cobras,SA Engelbrecht,S van Zyl,M Shezi,1,0,,,,,,"",""
+ball,2,6.1,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.2,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,0,0,,,,,,"",""
+ball,2,6.3,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.4,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.5,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.6,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,4,0,,,,,,"",""
+ball,2,7.1,Cape Cobras,S van Zyl,SA Engelbrecht,D Smit,1,0,,,,,,"",""
+ball,2,7.2,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,1,0,,,,,,"",""
+ball,2,7.3,Cape Cobras,S van Zyl,SA Engelbrecht,D Smit,1,0,,,,,,"",""
+ball,2,7.4,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,1,0,,,,,,"",""
+ball,2,7.5,Cape Cobras,S van Zyl,SA Engelbrecht,D Smit,2,0,,,,,,"",""
+ball,2,7.6,Cape Cobras,S van Zyl,SA Engelbrecht,D Smit,1,0,,,,,,"",""
+ball,2,8.1,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.2,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.3,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.4,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.5,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.6,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,0,1,,,,1,,"",""
+ball,2,9.1,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,1,0,,,,,,"",""
+ball,2,9.2,Cape Cobras,S van Zyl,SA Engelbrecht,D Smit,1,0,,,,,,"",""
+ball,2,9.3,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,0,0,,,,,,"",""
+ball,2,9.4,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,0,0,,,,,,"",""
+ball,2,9.5,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,2,0,,,,,,"",""
+ball,2,9.6,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,2,0,,,,,,"",""
+ball,2,10.1,Cape Cobras,S van Zyl,SA Engelbrecht,R Frylinck,1,0,,,,,,"",""
+ball,2,10.2,Cape Cobras,SA Engelbrecht,S van Zyl,R Frylinck,1,0,,,,,,"",""
+ball,2,10.3,Cape Cobras,S van Zyl,SA Engelbrecht,R Frylinck,1,0,,,,,,"",""
+ball,2,10.4,Cape Cobras,SA Engelbrecht,S van Zyl,R Frylinck,2,0,,,,,,"",""
+ball,2,10.5,Cape Cobras,SA Engelbrecht,S van Zyl,R Frylinck,1,0,,,,,,"",""
+ball,2,10.6,Cape Cobras,S van Zyl,SA Engelbrecht,R Frylinck,2,0,,,,,,"",""
+ball,2,11.1,Cape Cobras,SA Engelbrecht,S van Zyl,K Zondo,1,0,,,,,,"",""
+ball,2,11.2,Cape Cobras,S van Zyl,SA Engelbrecht,K Zondo,0,1,1,,,,,"",""
+ball,2,11.3,Cape Cobras,S van Zyl,SA Engelbrecht,K Zondo,1,0,,,,,,"",""
+ball,2,11.4,Cape Cobras,SA Engelbrecht,S van Zyl,K Zondo,2,0,,,,,,"",""
+ball,2,11.5,Cape Cobras,SA Engelbrecht,S van Zyl,K Zondo,1,0,,,,,,"",""
+ball,2,11.6,Cape Cobras,S van Zyl,SA Engelbrecht,K Zondo,4,0,,,,,,"",""
+ball,2,11.7,Cape Cobras,S van Zyl,SA Engelbrecht,K Zondo,1,0,,,,,,"",""
+ball,2,12.1,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.2,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.3,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.4,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,0,0,,,,,,"",""
+ball,2,12.5,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,0,1,1,,,,,"",""
+ball,2,12.6,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.7,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,13.1,Cape Cobras,S van Zyl,SA Engelbrecht,D Smit,1,0,,,,,,"",""
+ball,2,13.2,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,6,0,,,,,,"",""
+ball,2,13.3,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,6,0,,,,,,"",""
+ball,2,13.4,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,1,0,,,,,,"",""
+ball,2,13.5,Cape Cobras,S van Zyl,SA Engelbrecht,D Smit,1,0,,,,,,"",""
+ball,2,13.6,Cape Cobras,SA Engelbrecht,S van Zyl,D Smit,4,0,,,,,,"",""
+ball,2,14.1,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,14.2,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,0,1,1,,,,,"",""
+ball,2,14.3,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,1,0,,,,,,"",""
+ball,2,14.4,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,14.5,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,4,0,,,,,,"",""
+ball,2,14.6,Cape Cobras,SA Engelbrecht,S van Zyl,KA Maharaj,1,0,,,,,,"",""
+ball,2,14.7,Cape Cobras,S van Zyl,SA Engelbrecht,KA Maharaj,1,0,,,,,,"",""
+ball,2,15.1,Cape Cobras,S van Zyl,SA Engelbrecht,M Shezi,2,0,,,,,,"",""
+ball,2,15.2,Cape Cobras,S van Zyl,SA Engelbrecht,M Shezi,0,0,,,,,,"",""
+ball,2,15.3,Cape Cobras,S van Zyl,SA Engelbrecht,M Shezi,1,0,,,,,,"",""
+ball,2,15.4,Cape Cobras,SA Engelbrecht,S van Zyl,M Shezi,4,0,,,,,,"",""
+ball,2,15.5,Cape Cobras,SA Engelbrecht,S van Zyl,M Shezi,1,0,,,,,,"",""
+ball,2,15.6,Cape Cobras,S van Zyl,SA Engelbrecht,M Shezi,1,0,,,,,,"",""
+ball,2,16.1,Cape Cobras,S van Zyl,SA Engelbrecht,KJ Abbott,0,0,,,,,,run out,S van Zyl
+ball,2,16.2,Cape Cobras,SA Engelbrecht,JM Kemp,KJ Abbott,1,0,,,,,,"",""
+ball,2,16.3,Cape Cobras,JM Kemp,SA Engelbrecht,KJ Abbott,0,0,,,,,,"",""
+ball,2,16.4,Cape Cobras,JM Kemp,SA Engelbrecht,KJ Abbott,2,0,,,,,,"",""
+ball,2,16.5,Cape Cobras,JM Kemp,SA Engelbrecht,KJ Abbott,1,0,,,,,,"",""
+ball,2,16.6,Cape Cobras,SA Engelbrecht,JM Kemp,KJ Abbott,0,0,,,,,,"",""
+ball,2,17.1,Cape Cobras,JM Kemp,SA Engelbrecht,R Frylinck,0,1,,,,1,,"",""
+ball,2,17.2,Cape Cobras,SA Engelbrecht,JM Kemp,R Frylinck,1,0,,,,,,"",""
+ball,2,17.3,Cape Cobras,JM Kemp,SA Engelbrecht,R Frylinck,1,0,,,,,,"",""
+ball,2,17.4,Cape Cobras,SA Engelbrecht,JM Kemp,R Frylinck,0,1,,,,1,,"",""
+ball,2,17.5,Cape Cobras,JM Kemp,SA Engelbrecht,R Frylinck,0,1,1,,,,,"",""
+ball,2,17.6,Cape Cobras,JM Kemp,SA Engelbrecht,R Frylinck,6,0,,,,,,"",""
+ball,2,17.7,Cape Cobras,JM Kemp,SA Engelbrecht,R Frylinck,0,0,,,,,,"",""
+ball,2,18.1,Cape Cobras,SA Engelbrecht,JM Kemp,KJ Abbott,0,0,,,,,,caught,SA Engelbrecht
+ball,2,18.2,Cape Cobras,DL Piedt,JM Kemp,KJ Abbott,0,1,1,,,,,"",""
+ball,2,18.3,Cape Cobras,DL Piedt,JM Kemp,KJ Abbott,1,0,,,,,,"",""
+ball,2,18.4,Cape Cobras,JM Kemp,DL Piedt,KJ Abbott,1,0,,,,,,"",""
+ball,2,18.5,Cape Cobras,DL Piedt,JM Kemp,KJ Abbott,0,0,,,,,,"",""
+ball,2,18.6,Cape Cobras,DL Piedt,JM Kemp,KJ Abbott,0,0,,,,,,"",""
+ball,2,18.7,Cape Cobras,DL Piedt,JM Kemp,KJ Abbott,4,0,,,,,,"",""
+ball,2,19.1,Cape Cobras,JM Kemp,DL Piedt,R Frylinck,4,0,,,,,,"",""
+ball,2,19.2,Cape Cobras,JM Kemp,DL Piedt,R Frylinck,1,0,,,,,,"",""
+ball,2,19.3,Cape Cobras,DL Piedt,JM Kemp,R Frylinck,0,0,,,,,,run out,DL Piedt
+ball,2,19.4,Cape Cobras,JM Kemp,A Mgijima,R Frylinck,1,0,,,,,,"",""
+ball,2,19.5,Cape Cobras,A Mgijima,JM Kemp,R Frylinck,1,0,,,,,,"",""
+ball,2,19.6,Cape Cobras,JM Kemp,A Mgijima,R Frylinck,4,0,,,,,,"",""

@@ -1,0 +1,276 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Manchester Originals
+info,team,Birmingham Phoenix
+info,gender,male
+info,season,2023
+info,date,2023/08/07
+info,event,The Hundred Men's Competition
+info,match_number,10
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Birmingham Phoenix
+info,toss_decision,field
+info,player_of_match,Usama Mir
+info,umpire,Hassan Adnan
+info,umpire,RA Kettleborough
+info,reserve_umpire,Naeem Ashraf
+info,tv_umpire,SJ O'Shaughnessy
+info,match_referee,SJ Davis
+info,winner,Manchester Originals
+info,winner_runs,49
+info,player,Manchester Originals,PD Salt
+info,player,Manchester Originals,JC Buttler
+info,player,Manchester Originals,LJ Evans
+info,player,Manchester Originals,MDE Holden
+info,player,Manchester Originals,AJ Turner
+info,player,Manchester Originals,PI Walter
+info,player,Manchester Originals,J Overton
+info,player,Manchester Originals,Usama Mir
+info,player,Manchester Originals,TW Hartley
+info,player,Manchester Originals,J Little
+info,player,Manchester Originals,RJ Gleeson
+info,player,Birmingham Phoenix,WCF Smeed
+info,player,Birmingham Phoenix,BM Duckett
+info,player,Birmingham Phoenix,MM Ali
+info,player,Birmingham Phoenix,LS Livingstone
+info,player,Birmingham Phoenix,JL Smith
+info,player,Birmingham Phoenix,DR Mousley
+info,player,Birmingham Phoenix,Shadab Khan
+info,player,Birmingham Phoenix,BAC Howell
+info,player,Birmingham Phoenix,AF Milne
+info,player,Birmingham Phoenix,TG Helm
+info,player,Birmingham Phoenix,KW Richardson
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Little,9061a703
+info,registry,people,J Overton,59559bc2
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JL Smith,c834c290
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,WCF Smeed,4e18e961
+ball,1,0.1,Manchester Originals,PD Salt,JC Buttler,AF Milne,0,0,,,,,,"",""
+ball,1,0.2,Manchester Originals,PD Salt,JC Buttler,AF Milne,0,0,,,,,,"",""
+ball,1,0.3,Manchester Originals,PD Salt,JC Buttler,AF Milne,2,0,,,,,,"",""
+ball,1,0.4,Manchester Originals,PD Salt,JC Buttler,AF Milne,0,0,,,,,,lbw,PD Salt
+ball,1,0.5,Manchester Originals,LJ Evans,JC Buttler,AF Milne,0,0,,,,,,"",""
+ball,1,1.1,Manchester Originals,LJ Evans,JC Buttler,KW Richardson,0,0,,,,,,"",""
+ball,1,1.2,Manchester Originals,LJ Evans,JC Buttler,KW Richardson,1,0,,,,,,"",""
+ball,1,1.3,Manchester Originals,JC Buttler,LJ Evans,KW Richardson,0,0,,,,,,"",""
+ball,1,1.4,Manchester Originals,JC Buttler,LJ Evans,KW Richardson,0,0,,,,,,"",""
+ball,1,1.5,Manchester Originals,JC Buttler,LJ Evans,KW Richardson,1,0,,,,,,"",""
+ball,1,2.1,Manchester Originals,JC Buttler,LJ Evans,AF Milne,4,0,,,,,,"",""
+ball,1,2.2,Manchester Originals,JC Buttler,LJ Evans,AF Milne,2,0,,,,,,"",""
+ball,1,2.3,Manchester Originals,JC Buttler,LJ Evans,AF Milne,1,0,,,,,,"",""
+ball,1,2.4,Manchester Originals,LJ Evans,JC Buttler,AF Milne,0,0,,,,,,"",""
+ball,1,2.5,Manchester Originals,LJ Evans,JC Buttler,AF Milne,5,0,,,,,,"",""
+ball,1,3.1,Manchester Originals,JC Buttler,LJ Evans,TG Helm,1,0,,,,,,"",""
+ball,1,3.2,Manchester Originals,LJ Evans,JC Buttler,TG Helm,0,0,,,,,,"",""
+ball,1,3.3,Manchester Originals,LJ Evans,JC Buttler,TG Helm,1,0,,,,,,"",""
+ball,1,3.4,Manchester Originals,JC Buttler,LJ Evans,TG Helm,1,0,,,,,,"",""
+ball,1,3.5,Manchester Originals,LJ Evans,JC Buttler,TG Helm,4,0,,,,,,"",""
+ball,1,4.1,Manchester Originals,JC Buttler,LJ Evans,KW Richardson,1,0,,,,,,"",""
+ball,1,4.2,Manchester Originals,LJ Evans,JC Buttler,KW Richardson,0,0,,,,,,"",""
+ball,1,4.3,Manchester Originals,LJ Evans,JC Buttler,KW Richardson,1,0,,,,,,"",""
+ball,1,4.4,Manchester Originals,JC Buttler,LJ Evans,KW Richardson,0,0,,,,,,"",""
+ball,1,4.5,Manchester Originals,JC Buttler,LJ Evans,KW Richardson,1,0,,,,,,"",""
+ball,1,5.1,Manchester Originals,LJ Evans,JC Buttler,TG Helm,6,0,,,,,,"",""
+ball,1,5.2,Manchester Originals,LJ Evans,JC Buttler,TG Helm,1,0,,,,,,"",""
+ball,1,5.3,Manchester Originals,JC Buttler,LJ Evans,TG Helm,1,0,,,,,,"",""
+ball,1,5.4,Manchester Originals,LJ Evans,JC Buttler,TG Helm,0,1,1,,,,,"",""
+ball,1,5.5,Manchester Originals,LJ Evans,JC Buttler,TG Helm,1,0,,,,,,"",""
+ball,1,5.6,Manchester Originals,JC Buttler,LJ Evans,TG Helm,2,0,,,,,,"",""
+ball,1,6.1,Manchester Originals,LJ Evans,JC Buttler,Shadab Khan,1,0,,,,,,"",""
+ball,1,6.2,Manchester Originals,JC Buttler,LJ Evans,Shadab Khan,4,0,,,,,,"",""
+ball,1,6.3,Manchester Originals,JC Buttler,LJ Evans,Shadab Khan,0,0,,,,,,"",""
+ball,1,6.4,Manchester Originals,JC Buttler,LJ Evans,Shadab Khan,2,0,,,,,,"",""
+ball,1,6.5,Manchester Originals,JC Buttler,LJ Evans,Shadab Khan,4,0,,,,,,"",""
+ball,1,7.1,Manchester Originals,JC Buttler,LJ Evans,BAC Howell,1,0,,,,,,"",""
+ball,1,7.2,Manchester Originals,LJ Evans,JC Buttler,BAC Howell,0,0,,,,,,caught,LJ Evans
+ball,1,7.3,Manchester Originals,MDE Holden,JC Buttler,BAC Howell,0,0,,,,,,bowled,MDE Holden
+ball,1,7.4,Manchester Originals,AJ Turner,JC Buttler,BAC Howell,1,0,,,,,,"",""
+ball,1,7.5,Manchester Originals,JC Buttler,AJ Turner,BAC Howell,1,0,,,,,,"",""
+ball,1,8.1,Manchester Originals,JC Buttler,AJ Turner,Shadab Khan,2,0,,,,,,"",""
+ball,1,8.2,Manchester Originals,JC Buttler,AJ Turner,Shadab Khan,0,0,,,,,,"",""
+ball,1,8.3,Manchester Originals,JC Buttler,AJ Turner,Shadab Khan,4,0,,,,,,"",""
+ball,1,8.4,Manchester Originals,JC Buttler,AJ Turner,Shadab Khan,1,0,,,,,,"",""
+ball,1,8.5,Manchester Originals,AJ Turner,JC Buttler,Shadab Khan,0,0,,,,,,"",""
+ball,1,9.1,Manchester Originals,AJ Turner,JC Buttler,Shadab Khan,4,0,,,,,,"",""
+ball,1,9.2,Manchester Originals,AJ Turner,JC Buttler,Shadab Khan,1,0,,,,,,"",""
+ball,1,9.3,Manchester Originals,JC Buttler,AJ Turner,Shadab Khan,0,0,,,,,,"",""
+ball,1,9.4,Manchester Originals,JC Buttler,AJ Turner,Shadab Khan,1,0,,,,,,"",""
+ball,1,9.5,Manchester Originals,AJ Turner,JC Buttler,Shadab Khan,6,0,,,,,,"",""
+ball,1,10.1,Manchester Originals,JC Buttler,AJ Turner,BAC Howell,1,0,,,,,,"",""
+ball,1,10.2,Manchester Originals,AJ Turner,JC Buttler,BAC Howell,1,0,,,,,,"",""
+ball,1,10.3,Manchester Originals,JC Buttler,AJ Turner,BAC Howell,1,0,,,,,,"",""
+ball,1,10.4,Manchester Originals,AJ Turner,JC Buttler,BAC Howell,1,0,,,,,,"",""
+ball,1,10.5,Manchester Originals,JC Buttler,AJ Turner,BAC Howell,2,0,,,,,,"",""
+ball,1,11.1,Manchester Originals,JC Buttler,AJ Turner,Shadab Khan,1,0,,,,,,"",""
+ball,1,11.2,Manchester Originals,AJ Turner,JC Buttler,Shadab Khan,2,0,,,,,,"",""
+ball,1,11.3,Manchester Originals,AJ Turner,JC Buttler,Shadab Khan,1,0,,,,,,"",""
+ball,1,11.4,Manchester Originals,JC Buttler,AJ Turner,Shadab Khan,1,0,,,,,,"",""
+ball,1,11.5,Manchester Originals,AJ Turner,JC Buttler,Shadab Khan,4,0,,,,,,"",""
+ball,1,12.1,Manchester Originals,JC Buttler,AJ Turner,TG Helm,1,0,,,,,,"",""
+ball,1,12.2,Manchester Originals,AJ Turner,JC Buttler,TG Helm,0,0,,,,,,caught,AJ Turner
+ball,1,12.3,Manchester Originals,PI Walter,JC Buttler,TG Helm,1,0,,,,,,"",""
+ball,1,12.4,Manchester Originals,JC Buttler,PI Walter,TG Helm,1,0,,,,,,"",""
+ball,1,12.5,Manchester Originals,PI Walter,JC Buttler,TG Helm,6,0,,,,,,"",""
+ball,1,13.1,Manchester Originals,PI Walter,JC Buttler,BAC Howell,1,0,,,,,,"",""
+ball,1,13.2,Manchester Originals,JC Buttler,PI Walter,BAC Howell,0,0,,,,,,run out,JC Buttler
+ball,1,13.3,Manchester Originals,PI Walter,J Overton,BAC Howell,2,0,,,,,,"",""
+ball,1,13.4,Manchester Originals,PI Walter,J Overton,BAC Howell,1,0,,,,,,"",""
+ball,1,13.5,Manchester Originals,J Overton,PI Walter,BAC Howell,1,0,,,,,,"",""
+ball,1,14.1,Manchester Originals,J Overton,PI Walter,DR Mousley,1,0,,,,,,"",""
+ball,1,14.2,Manchester Originals,PI Walter,J Overton,DR Mousley,1,0,,,,,,"",""
+ball,1,14.3,Manchester Originals,J Overton,PI Walter,DR Mousley,1,0,,,,,,"",""
+ball,1,14.4,Manchester Originals,PI Walter,J Overton,DR Mousley,1,0,,,,,,"",""
+ball,1,14.5,Manchester Originals,J Overton,PI Walter,DR Mousley,1,0,,,,,,"",""
+ball,1,15.1,Manchester Originals,PI Walter,J Overton,BAC Howell,0,0,,,,,,caught,PI Walter
+ball,1,15.2,Manchester Originals,Usama Mir,J Overton,BAC Howell,4,0,,,,,,"",""
+ball,1,15.3,Manchester Originals,Usama Mir,J Overton,BAC Howell,1,0,,,,,,"",""
+ball,1,15.4,Manchester Originals,J Overton,Usama Mir,BAC Howell,1,0,,,,,,"",""
+ball,1,15.5,Manchester Originals,Usama Mir,J Overton,BAC Howell,1,0,,,,,,"",""
+ball,1,16.1,Manchester Originals,Usama Mir,J Overton,KW Richardson,4,0,,,,,,"",""
+ball,1,16.2,Manchester Originals,Usama Mir,J Overton,KW Richardson,0,0,,,,,,"",""
+ball,1,16.3,Manchester Originals,Usama Mir,J Overton,KW Richardson,6,0,,,,,,"",""
+ball,1,16.4,Manchester Originals,Usama Mir,J Overton,KW Richardson,1,0,,,,,,"",""
+ball,1,16.5,Manchester Originals,J Overton,Usama Mir,KW Richardson,0,1,1,,,,,"",""
+ball,1,16.6,Manchester Originals,J Overton,Usama Mir,KW Richardson,2,0,,,,,,"",""
+ball,1,17.1,Manchester Originals,J Overton,Usama Mir,AF Milne,1,0,,,,,,"",""
+ball,1,17.2,Manchester Originals,Usama Mir,J Overton,AF Milne,4,0,,,,,,"",""
+ball,1,17.3,Manchester Originals,Usama Mir,J Overton,AF Milne,4,0,,,,,,"",""
+ball,1,17.4,Manchester Originals,Usama Mir,J Overton,AF Milne,1,0,,,,,,"",""
+ball,1,17.5,Manchester Originals,J Overton,Usama Mir,AF Milne,0,0,,,,,,"",""
+ball,1,18.1,Manchester Originals,Usama Mir,J Overton,KW Richardson,0,1,,,1,,,"",""
+ball,1,18.2,Manchester Originals,J Overton,Usama Mir,KW Richardson,4,0,,,,,,"",""
+ball,1,18.3,Manchester Originals,J Overton,Usama Mir,KW Richardson,2,0,,,,,,"",""
+ball,1,18.4,Manchester Originals,J Overton,Usama Mir,KW Richardson,4,0,,,,,,"",""
+ball,1,18.5,Manchester Originals,J Overton,Usama Mir,KW Richardson,4,0,,,,,,"",""
+ball,1,19.1,Manchester Originals,J Overton,Usama Mir,AF Milne,0,0,,,,,,run out,J Overton
+ball,1,19.2,Manchester Originals,TW Hartley,Usama Mir,AF Milne,0,0,,,,,,caught,TW Hartley
+ball,1,19.3,Manchester Originals,J Little,Usama Mir,AF Milne,1,0,,,,,,"",""
+ball,1,19.4,Manchester Originals,Usama Mir,J Little,AF Milne,0,2,,2,,,,"",""
+ball,1,19.5,Manchester Originals,Usama Mir,J Little,AF Milne,4,0,,,,,,"",""
+ball,1,19.6,Manchester Originals,Usama Mir,J Little,AF Milne,2,0,,,,,,"",""
+ball,2,0.1,Birmingham Phoenix,WCF Smeed,BM Duckett,RJ Gleeson,0,0,,,,,,"",""
+ball,2,0.2,Birmingham Phoenix,WCF Smeed,BM Duckett,RJ Gleeson,0,0,,,,,,"",""
+ball,2,0.3,Birmingham Phoenix,WCF Smeed,BM Duckett,RJ Gleeson,0,1,,,,1,,"",""
+ball,2,0.4,Birmingham Phoenix,BM Duckett,WCF Smeed,RJ Gleeson,2,0,,,,,,"",""
+ball,2,0.5,Birmingham Phoenix,BM Duckett,WCF Smeed,RJ Gleeson,2,0,,,,,,"",""
+ball,2,1.1,Birmingham Phoenix,BM Duckett,WCF Smeed,J Little,1,0,,,,,,"",""
+ball,2,1.2,Birmingham Phoenix,WCF Smeed,BM Duckett,J Little,6,0,,,,,,"",""
+ball,2,1.3,Birmingham Phoenix,WCF Smeed,BM Duckett,J Little,0,0,,,,,,"",""
+ball,2,1.4,Birmingham Phoenix,WCF Smeed,BM Duckett,J Little,0,0,,,,,,"",""
+ball,2,1.5,Birmingham Phoenix,WCF Smeed,BM Duckett,J Little,2,0,,,,,,"",""
+ball,2,2.1,Birmingham Phoenix,BM Duckett,WCF Smeed,RJ Gleeson,4,0,,,,,,"",""
+ball,2,2.2,Birmingham Phoenix,BM Duckett,WCF Smeed,RJ Gleeson,0,1,1,,,,,"",""
+ball,2,2.3,Birmingham Phoenix,BM Duckett,WCF Smeed,RJ Gleeson,1,0,,,,,,"",""
+ball,2,2.4,Birmingham Phoenix,WCF Smeed,BM Duckett,RJ Gleeson,0,0,,,,,,"",""
+ball,2,2.5,Birmingham Phoenix,WCF Smeed,BM Duckett,RJ Gleeson,0,0,,,,,,caught,WCF Smeed
+ball,2,2.6,Birmingham Phoenix,MM Ali,BM Duckett,RJ Gleeson,1,0,,,,,,"",""
+ball,2,3.1,Birmingham Phoenix,BM Duckett,MM Ali,J Little,0,0,,,,,,caught,BM Duckett
+ball,2,3.2,Birmingham Phoenix,LS Livingstone,MM Ali,J Little,0,0,,,,,,"",""
+ball,2,3.3,Birmingham Phoenix,LS Livingstone,MM Ali,J Little,0,0,,,,,,"",""
+ball,2,3.4,Birmingham Phoenix,LS Livingstone,MM Ali,J Little,0,0,,,,,,"",""
+ball,2,3.5,Birmingham Phoenix,LS Livingstone,MM Ali,J Little,0,0,,,,,,"",""
+ball,2,4.1,Birmingham Phoenix,MM Ali,LS Livingstone,RJ Gleeson,0,0,,,,,,lbw,MM Ali
+ball,2,4.2,Birmingham Phoenix,JL Smith,LS Livingstone,RJ Gleeson,0,1,,,,1,,"",""
+ball,2,4.3,Birmingham Phoenix,LS Livingstone,JL Smith,RJ Gleeson,1,0,,,,,,"",""
+ball,2,4.4,Birmingham Phoenix,JL Smith,LS Livingstone,RJ Gleeson,0,0,,,,,,"",""
+ball,2,4.5,Birmingham Phoenix,JL Smith,LS Livingstone,RJ Gleeson,1,0,,,,,,"",""
+ball,2,5.1,Birmingham Phoenix,LS Livingstone,JL Smith,J Overton,0,1,1,,,,,"",""
+ball,2,5.2,Birmingham Phoenix,LS Livingstone,JL Smith,J Overton,0,0,,,,,,"",""
+ball,2,5.3,Birmingham Phoenix,LS Livingstone,JL Smith,J Overton,6,0,,,,,,"",""
+ball,2,5.4,Birmingham Phoenix,LS Livingstone,JL Smith,J Overton,0,1,1,,,,,"",""
+ball,2,5.5,Birmingham Phoenix,LS Livingstone,JL Smith,J Overton,4,0,,,,,,"",""
+ball,2,5.6,Birmingham Phoenix,LS Livingstone,JL Smith,J Overton,0,0,,,,,,"",""
+ball,2,5.7,Birmingham Phoenix,LS Livingstone,JL Smith,J Overton,2,0,,,,,,"",""
+ball,2,6.1,Birmingham Phoenix,JL Smith,LS Livingstone,Usama Mir,0,0,,,,,,"",""
+ball,2,6.2,Birmingham Phoenix,JL Smith,LS Livingstone,Usama Mir,6,0,,,,,,"",""
+ball,2,6.3,Birmingham Phoenix,JL Smith,LS Livingstone,Usama Mir,6,0,,,,,,"",""
+ball,2,6.4,Birmingham Phoenix,JL Smith,LS Livingstone,Usama Mir,1,0,,,,,,"",""
+ball,2,6.5,Birmingham Phoenix,LS Livingstone,JL Smith,Usama Mir,1,0,,,,,,"",""
+ball,2,7.1,Birmingham Phoenix,JL Smith,LS Livingstone,PI Walter,1,0,,,,,,"",""
+ball,2,7.2,Birmingham Phoenix,LS Livingstone,JL Smith,PI Walter,1,0,,,,,,"",""
+ball,2,7.3,Birmingham Phoenix,JL Smith,LS Livingstone,PI Walter,0,0,,,,,,"",""
+ball,2,7.4,Birmingham Phoenix,JL Smith,LS Livingstone,PI Walter,0,0,,,,,,caught,JL Smith
+ball,2,7.5,Birmingham Phoenix,DR Mousley,LS Livingstone,PI Walter,4,0,,,,,,"",""
+ball,2,8.1,Birmingham Phoenix,LS Livingstone,DR Mousley,TW Hartley,1,0,,,,,,"",""
+ball,2,8.2,Birmingham Phoenix,DR Mousley,LS Livingstone,TW Hartley,1,0,,,,,,"",""
+ball,2,8.3,Birmingham Phoenix,LS Livingstone,DR Mousley,TW Hartley,0,0,,,,,,"",""
+ball,2,8.4,Birmingham Phoenix,LS Livingstone,DR Mousley,TW Hartley,0,0,,,,,,"",""
+ball,2,8.5,Birmingham Phoenix,LS Livingstone,DR Mousley,TW Hartley,2,0,,,,,,"",""
+ball,2,9.1,Birmingham Phoenix,LS Livingstone,DR Mousley,Usama Mir,0,1,1,,,,,"",""
+ball,2,9.2,Birmingham Phoenix,LS Livingstone,DR Mousley,Usama Mir,1,0,,,,,,"",""
+ball,2,9.3,Birmingham Phoenix,DR Mousley,LS Livingstone,Usama Mir,0,0,,,,,,lbw,DR Mousley
+ball,2,9.4,Birmingham Phoenix,Shadab Khan,LS Livingstone,Usama Mir,0,2,,,2,,,"",""
+ball,2,9.5,Birmingham Phoenix,Shadab Khan,LS Livingstone,Usama Mir,1,0,,,,,,"",""
+ball,2,9.6,Birmingham Phoenix,LS Livingstone,Shadab Khan,Usama Mir,1,0,,,,,,"",""
+ball,2,10.1,Birmingham Phoenix,LS Livingstone,Shadab Khan,PI Walter,1,0,,,,,,"",""
+ball,2,10.2,Birmingham Phoenix,Shadab Khan,LS Livingstone,PI Walter,0,0,,,,,,"",""
+ball,2,10.3,Birmingham Phoenix,Shadab Khan,LS Livingstone,PI Walter,1,0,,,,,,"",""
+ball,2,10.4,Birmingham Phoenix,LS Livingstone,Shadab Khan,PI Walter,4,0,,,,,,"",""
+ball,2,10.5,Birmingham Phoenix,LS Livingstone,Shadab Khan,PI Walter,1,0,,,,,,"",""
+ball,2,11.1,Birmingham Phoenix,Shadab Khan,LS Livingstone,Usama Mir,2,0,,,,,,"",""
+ball,2,11.2,Birmingham Phoenix,Shadab Khan,LS Livingstone,Usama Mir,0,0,,,,,,caught,Shadab Khan
+ball,2,11.3,Birmingham Phoenix,BAC Howell,LS Livingstone,Usama Mir,1,0,,,,,,"",""
+ball,2,11.4,Birmingham Phoenix,LS Livingstone,BAC Howell,Usama Mir,0,0,,,,,,"",""
+ball,2,11.5,Birmingham Phoenix,LS Livingstone,BAC Howell,Usama Mir,0,0,,,,,,"",""
+ball,2,12.1,Birmingham Phoenix,BAC Howell,LS Livingstone,TW Hartley,0,0,,,,,,"",""
+ball,2,12.2,Birmingham Phoenix,BAC Howell,LS Livingstone,TW Hartley,1,0,,,,,,"",""
+ball,2,12.3,Birmingham Phoenix,LS Livingstone,BAC Howell,TW Hartley,1,0,,,,,,"",""
+ball,2,12.4,Birmingham Phoenix,BAC Howell,LS Livingstone,TW Hartley,1,0,,,,,,"",""
+ball,2,12.5,Birmingham Phoenix,LS Livingstone,BAC Howell,TW Hartley,0,0,,,,,,caught and bowled,LS Livingstone
+ball,2,13.1,Birmingham Phoenix,AF Milne,BAC Howell,TW Hartley,0,0,,,,,,"",""
+ball,2,13.2,Birmingham Phoenix,AF Milne,BAC Howell,TW Hartley,1,0,,,,,,"",""
+ball,2,13.3,Birmingham Phoenix,BAC Howell,AF Milne,TW Hartley,1,0,,,,,,"",""
+ball,2,13.4,Birmingham Phoenix,AF Milne,BAC Howell,TW Hartley,1,0,,,,,,"",""
+ball,2,13.5,Birmingham Phoenix,BAC Howell,AF Milne,TW Hartley,0,0,,,,,,"",""
+ball,2,14.1,Birmingham Phoenix,AF Milne,BAC Howell,PI Walter,0,0,,,,,,"",""
+ball,2,14.2,Birmingham Phoenix,AF Milne,BAC Howell,PI Walter,1,0,,,,,,"",""
+ball,2,14.3,Birmingham Phoenix,BAC Howell,AF Milne,PI Walter,1,0,,,,,,"",""
+ball,2,14.4,Birmingham Phoenix,AF Milne,BAC Howell,PI Walter,0,0,,,,,,"",""
+ball,2,14.5,Birmingham Phoenix,AF Milne,BAC Howell,PI Walter,1,0,,,,,,"",""
+ball,2,15.1,Birmingham Phoenix,BAC Howell,AF Milne,Usama Mir,1,0,,,,,,"",""
+ball,2,15.2,Birmingham Phoenix,AF Milne,BAC Howell,Usama Mir,1,0,,,,,,"",""
+ball,2,15.3,Birmingham Phoenix,BAC Howell,AF Milne,Usama Mir,2,0,,,,,,"",""
+ball,2,15.4,Birmingham Phoenix,BAC Howell,AF Milne,Usama Mir,1,0,,,,,,"",""
+ball,2,15.5,Birmingham Phoenix,AF Milne,BAC Howell,Usama Mir,1,0,,,,,,"",""
+ball,2,16.1,Birmingham Phoenix,AF Milne,BAC Howell,TW Hartley,1,0,,,,,,"",""
+ball,2,16.2,Birmingham Phoenix,BAC Howell,AF Milne,TW Hartley,0,0,,,,,,caught,BAC Howell
+ball,2,16.3,Birmingham Phoenix,TG Helm,AF Milne,TW Hartley,0,0,,,,,,"",""
+ball,2,16.4,Birmingham Phoenix,TG Helm,AF Milne,TW Hartley,2,0,,,,,,"",""
+ball,2,16.5,Birmingham Phoenix,TG Helm,AF Milne,TW Hartley,0,0,,,,,,caught and bowled,TG Helm
+ball,2,17.1,Birmingham Phoenix,KW Richardson,AF Milne,J Little,1,0,,,,,,"",""
+ball,2,17.2,Birmingham Phoenix,AF Milne,KW Richardson,J Little,2,0,,,,,,"",""
+ball,2,17.3,Birmingham Phoenix,AF Milne,KW Richardson,J Little,1,0,,,,,,"",""
+ball,2,17.4,Birmingham Phoenix,KW Richardson,AF Milne,J Little,0,0,,,,,,"",""
+ball,2,17.5,Birmingham Phoenix,KW Richardson,AF Milne,J Little,0,0,,,,,,"",""
+ball,2,18.1,Birmingham Phoenix,AF Milne,KW Richardson,RJ Gleeson,2,0,,,,,,"",""
+ball,2,18.2,Birmingham Phoenix,AF Milne,KW Richardson,RJ Gleeson,1,0,,,,,,"",""
+ball,2,18.3,Birmingham Phoenix,KW Richardson,AF Milne,RJ Gleeson,6,0,,,,,,"",""
+ball,2,18.4,Birmingham Phoenix,KW Richardson,AF Milne,RJ Gleeson,0,0,,,,,,"",""
+ball,2,18.5,Birmingham Phoenix,KW Richardson,AF Milne,RJ Gleeson,0,0,,,,,,"",""
+ball,2,19.1,Birmingham Phoenix,KW Richardson,AF Milne,J Little,1,0,,,,,,"",""
+ball,2,19.2,Birmingham Phoenix,AF Milne,KW Richardson,J Little,0,0,,,,,,"",""
+ball,2,19.3,Birmingham Phoenix,AF Milne,KW Richardson,J Little,0,1,1,,,,,"",""
+ball,2,19.4,Birmingham Phoenix,AF Milne,KW Richardson,J Little,0,0,,,,,,bowled,AF Milne

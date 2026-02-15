@@ -1,0 +1,286 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bengal
+info,team,Maharashtra
+info,gender,male
+info,season,2018/19
+info,date,2019/03/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue, Emerald Heights International School Ground
+info,city,
+info,toss_winner,Maharashtra
+info,toss_decision,field
+info,winner,Maharashtra
+info,winner_wickets,7
+info,player,Bengal,SP Goswami
+info,player,Bengal,WP Saha
+info,player,Bengal,AR Easwaran
+info,player,Bengal,MK Tiwary
+info,player,Bengal,Vivek Singh
+info,player,Bengal,Ritwik Roy Chowdhury
+info,player,Bengal,Shahbaz Ahmed
+info,player,Bengal,Akash Deep
+info,player,Bengal,AB Dinda
+info,player,Bengal,IC Porel
+info,player,Bengal,Sayan Ghosh
+info,player,Maharashtra,SM Fallah
+info,player,Maharashtra,DJ Muthuswami
+info,player,Maharashtra,Divyang Hinganekar
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,RH Motwani
+info,player,Maharashtra,NS Naik
+info,player,Maharashtra,AR Bawne
+info,registry,people,AB Dinda,66b30f71
+info,registry,people,AR Bawne,afe3355a
+info,registry,people,AR Easwaran,10b58586
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,DJ Muthuswami,2c76b512
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,IC Porel,fdf7491e
+info,registry,people,MK Tiwary,26e5cabf
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RH Motwani,40fd2e48
+info,registry,people,Ritwik Roy Chowdhury,6033d30a
+info,registry,people,SM Fallah,c8f697bd
+info,registry,people,SP Goswami,541f85c9
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Sayan Ghosh,d4b8ea98
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Vivek Singh,a446c7be
+info,registry,people,WP Saha,fe11caa6
+ball,1,0.1,Bengal,SP Goswami,WP Saha,SM Fallah,0,0,,,,,,"",""
+ball,1,0.2,Bengal,SP Goswami,WP Saha,SM Fallah,0,0,,,,,,"",""
+ball,1,0.3,Bengal,SP Goswami,WP Saha,SM Fallah,1,0,,,,,,"",""
+ball,1,0.4,Bengal,WP Saha,SP Goswami,SM Fallah,0,0,,,,,,"",""
+ball,1,0.5,Bengal,WP Saha,SP Goswami,SM Fallah,0,0,,,,,,bowled,WP Saha
+ball,1,0.6,Bengal,AR Easwaran,SP Goswami,SM Fallah,0,0,,,,,,"",""
+ball,1,1.1,Bengal,SP Goswami,AR Easwaran,DJ Muthuswami,0,0,,,,,,bowled,SP Goswami
+ball,1,1.2,Bengal,MK Tiwary,AR Easwaran,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,1.3,Bengal,MK Tiwary,AR Easwaran,DJ Muthuswami,0,1,1,,,,,"",""
+ball,1,1.4,Bengal,MK Tiwary,AR Easwaran,DJ Muthuswami,1,0,,,,,,"",""
+ball,1,1.5,Bengal,AR Easwaran,MK Tiwary,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,1.6,Bengal,AR Easwaran,MK Tiwary,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,1.7,Bengal,AR Easwaran,MK Tiwary,DJ Muthuswami,0,0,,,,,,bowled,AR Easwaran
+ball,1,2.1,Bengal,MK Tiwary,Vivek Singh,SM Fallah,1,0,,,,,,"",""
+ball,1,2.2,Bengal,Vivek Singh,MK Tiwary,SM Fallah,1,0,,,,,,"",""
+ball,1,2.3,Bengal,MK Tiwary,Vivek Singh,SM Fallah,0,0,,,,,,"",""
+ball,1,2.4,Bengal,MK Tiwary,Vivek Singh,SM Fallah,0,0,,,,,,"",""
+ball,1,2.5,Bengal,MK Tiwary,Vivek Singh,SM Fallah,0,4,,,,4,,"",""
+ball,1,2.6,Bengal,MK Tiwary,Vivek Singh,SM Fallah,1,0,,,,,,"",""
+ball,1,3.1,Bengal,MK Tiwary,Vivek Singh,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,3.2,Bengal,MK Tiwary,Vivek Singh,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,3.3,Bengal,MK Tiwary,Vivek Singh,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,3.4,Bengal,MK Tiwary,Vivek Singh,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,3.5,Bengal,MK Tiwary,Vivek Singh,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,3.6,Bengal,MK Tiwary,Vivek Singh,DJ Muthuswami,1,0,,,,,,"",""
+ball,1,4.1,Bengal,MK Tiwary,Vivek Singh,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,4.2,Bengal,MK Tiwary,Vivek Singh,Divyang Hinganekar,0,1,,,,1,,"",""
+ball,1,4.3,Bengal,Vivek Singh,MK Tiwary,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,4.4,Bengal,Vivek Singh,MK Tiwary,Divyang Hinganekar,0,0,,,,,,caught,Vivek Singh
+ball,1,4.5,Bengal,Ritwik Roy Chowdhury,MK Tiwary,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,4.6,Bengal,Ritwik Roy Chowdhury,MK Tiwary,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,5.1,Bengal,MK Tiwary,Ritwik Roy Chowdhury,Satyajeet Bachhav,4,0,,,,,,"",""
+ball,1,5.2,Bengal,MK Tiwary,Ritwik Roy Chowdhury,Satyajeet Bachhav,4,0,,,,,,"",""
+ball,1,5.3,Bengal,MK Tiwary,Ritwik Roy Chowdhury,Satyajeet Bachhav,1,0,,,,,,"",""
+ball,1,5.4,Bengal,Ritwik Roy Chowdhury,MK Tiwary,Satyajeet Bachhav,0,0,,,,,,"",""
+ball,1,5.5,Bengal,Ritwik Roy Chowdhury,MK Tiwary,Satyajeet Bachhav,4,0,,,,,,"",""
+ball,1,5.6,Bengal,Ritwik Roy Chowdhury,MK Tiwary,Satyajeet Bachhav,0,0,,,,,,lbw,Ritwik Roy Chowdhury
+ball,1,6.1,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,6.2,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,6.3,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,1,0,,,,,,"",""
+ball,1,6.4,Bengal,Shahbaz Ahmed,MK Tiwary,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,6.5,Bengal,Shahbaz Ahmed,MK Tiwary,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,6.6,Bengal,Shahbaz Ahmed,MK Tiwary,Divyang Hinganekar,1,0,,,,,,"",""
+ball,1,7.1,Bengal,Shahbaz Ahmed,MK Tiwary,Satyajeet Bachhav,1,0,,,,,,"",""
+ball,1,7.2,Bengal,MK Tiwary,Shahbaz Ahmed,Satyajeet Bachhav,0,1,1,,,,,"",""
+ball,1,7.3,Bengal,MK Tiwary,Shahbaz Ahmed,Satyajeet Bachhav,1,0,,,,,,"",""
+ball,1,7.4,Bengal,Shahbaz Ahmed,MK Tiwary,Satyajeet Bachhav,0,0,,,,,,"",""
+ball,1,7.5,Bengal,Shahbaz Ahmed,MK Tiwary,Satyajeet Bachhav,4,0,,,,,,"",""
+ball,1,7.6,Bengal,Shahbaz Ahmed,MK Tiwary,Satyajeet Bachhav,2,0,,,,,,"",""
+ball,1,7.7,Bengal,Shahbaz Ahmed,MK Tiwary,Satyajeet Bachhav,1,0,,,,,,"",""
+ball,1,8.1,Bengal,Shahbaz Ahmed,MK Tiwary,Divyang Hinganekar,1,0,,,,,,"",""
+ball,1,8.2,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,8.3,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,4,0,,,,,,"",""
+ball,1,8.4,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,1,0,,,,,,"",""
+ball,1,8.5,Bengal,Shahbaz Ahmed,MK Tiwary,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,8.6,Bengal,Shahbaz Ahmed,MK Tiwary,Divyang Hinganekar,1,0,,,,,,"",""
+ball,1,9.1,Bengal,Shahbaz Ahmed,MK Tiwary,Naushad Shaikh,0,0,,,,,,"",""
+ball,1,9.2,Bengal,Shahbaz Ahmed,MK Tiwary,Naushad Shaikh,0,0,,,,,,"",""
+ball,1,9.3,Bengal,Shahbaz Ahmed,MK Tiwary,Naushad Shaikh,1,0,,,,,,"",""
+ball,1,9.4,Bengal,MK Tiwary,Shahbaz Ahmed,Naushad Shaikh,1,0,,,,,,"",""
+ball,1,9.5,Bengal,Shahbaz Ahmed,MK Tiwary,Naushad Shaikh,0,0,,,,,,"",""
+ball,1,9.6,Bengal,Shahbaz Ahmed,MK Tiwary,Naushad Shaikh,1,0,,,,,,"",""
+ball,1,10.1,Bengal,Shahbaz Ahmed,MK Tiwary,Divyang Hinganekar,1,0,,,,,,"",""
+ball,1,10.2,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,10.3,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,10.4,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,0,0,,,,,,"",""
+ball,1,10.5,Bengal,MK Tiwary,Shahbaz Ahmed,Divyang Hinganekar,1,0,,,,,,"",""
+ball,1,10.6,Bengal,Shahbaz Ahmed,MK Tiwary,Divyang Hinganekar,2,0,,,,,,"",""
+ball,1,11.1,Bengal,MK Tiwary,Shahbaz Ahmed,Naushad Shaikh,6,0,,,,,,"",""
+ball,1,11.2,Bengal,MK Tiwary,Shahbaz Ahmed,Naushad Shaikh,2,0,,,,,,"",""
+ball,1,11.3,Bengal,MK Tiwary,Shahbaz Ahmed,Naushad Shaikh,1,0,,,,,,"",""
+ball,1,11.4,Bengal,Shahbaz Ahmed,MK Tiwary,Naushad Shaikh,1,0,,,,,,"",""
+ball,1,11.5,Bengal,MK Tiwary,Shahbaz Ahmed,Naushad Shaikh,6,0,,,,,,"",""
+ball,1,11.6,Bengal,MK Tiwary,Shahbaz Ahmed,Naushad Shaikh,1,0,,,,,,"",""
+ball,1,12.1,Bengal,MK Tiwary,Shahbaz Ahmed,Azim Kazi,1,0,,,,,,"",""
+ball,1,12.2,Bengal,Shahbaz Ahmed,MK Tiwary,Azim Kazi,4,0,,,,,,"",""
+ball,1,12.3,Bengal,Shahbaz Ahmed,MK Tiwary,Azim Kazi,1,0,,,,,,"",""
+ball,1,12.4,Bengal,MK Tiwary,Shahbaz Ahmed,Azim Kazi,1,0,,,,,,"",""
+ball,1,12.5,Bengal,Shahbaz Ahmed,MK Tiwary,Azim Kazi,0,0,,,,,,"",""
+ball,1,12.6,Bengal,Shahbaz Ahmed,MK Tiwary,Azim Kazi,1,0,,,,,,"",""
+ball,1,13.1,Bengal,Shahbaz Ahmed,MK Tiwary,DJ Muthuswami,1,0,,,,,,"",""
+ball,1,13.2,Bengal,MK Tiwary,Shahbaz Ahmed,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,13.3,Bengal,MK Tiwary,Shahbaz Ahmed,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,13.4,Bengal,MK Tiwary,Shahbaz Ahmed,DJ Muthuswami,0,0,,,,,,"",""
+ball,1,13.5,Bengal,MK Tiwary,Shahbaz Ahmed,DJ Muthuswami,1,0,,,,,,"",""
+ball,1,13.6,Bengal,Shahbaz Ahmed,MK Tiwary,DJ Muthuswami,1,0,,,,,,"",""
+ball,1,14.1,Bengal,Shahbaz Ahmed,MK Tiwary,Satyajeet Bachhav,1,0,,,,,,"",""
+ball,1,14.2,Bengal,MK Tiwary,Shahbaz Ahmed,Satyajeet Bachhav,0,0,,,,,,"",""
+ball,1,14.3,Bengal,MK Tiwary,Shahbaz Ahmed,Satyajeet Bachhav,0,0,,,,,,"",""
+ball,1,14.4,Bengal,MK Tiwary,Shahbaz Ahmed,Satyajeet Bachhav,0,0,,,,,,bowled,MK Tiwary
+ball,1,14.5,Bengal,Akash Deep,Shahbaz Ahmed,Satyajeet Bachhav,1,0,,,,,,"",""
+ball,1,14.6,Bengal,Shahbaz Ahmed,Akash Deep,Satyajeet Bachhav,1,0,,,,,,"",""
+ball,1,15.1,Bengal,Shahbaz Ahmed,Akash Deep,Azim Kazi,1,0,,,,,,"",""
+ball,1,15.2,Bengal,Akash Deep,Shahbaz Ahmed,Azim Kazi,0,0,,,,,,"",""
+ball,1,15.3,Bengal,Akash Deep,Shahbaz Ahmed,Azim Kazi,1,0,,,,,,"",""
+ball,1,15.4,Bengal,Shahbaz Ahmed,Akash Deep,Azim Kazi,1,0,,,,,,"",""
+ball,1,15.5,Bengal,Akash Deep,Shahbaz Ahmed,Azim Kazi,1,0,,,,,,"",""
+ball,1,15.6,Bengal,Shahbaz Ahmed,Akash Deep,Azim Kazi,1,0,,,,,,"",""
+ball,1,16.1,Bengal,Shahbaz Ahmed,Akash Deep,Satyajeet Bachhav,0,0,,,,,,"",""
+ball,1,16.2,Bengal,Shahbaz Ahmed,Akash Deep,Satyajeet Bachhav,0,3,,,,3,,"",""
+ball,1,16.3,Bengal,Akash Deep,Shahbaz Ahmed,Satyajeet Bachhav,6,0,,,,,,"",""
+ball,1,16.4,Bengal,Akash Deep,Shahbaz Ahmed,Satyajeet Bachhav,1,0,,,,,,"",""
+ball,1,16.5,Bengal,Shahbaz Ahmed,Akash Deep,Satyajeet Bachhav,1,0,,,,,,"",""
+ball,1,16.6,Bengal,Akash Deep,Shahbaz Ahmed,Satyajeet Bachhav,0,0,,,,,,"",""
+ball,1,17.1,Bengal,Shahbaz Ahmed,Akash Deep,SM Fallah,1,0,,,,,,"",""
+ball,1,17.2,Bengal,Akash Deep,Shahbaz Ahmed,SM Fallah,0,1,1,,,,,"",""
+ball,1,17.3,Bengal,Akash Deep,Shahbaz Ahmed,SM Fallah,1,0,,,,,,"",""
+ball,1,17.4,Bengal,Shahbaz Ahmed,Akash Deep,SM Fallah,6,0,,,,,,"",""
+ball,1,17.5,Bengal,Shahbaz Ahmed,Akash Deep,SM Fallah,0,0,,,,,,"",""
+ball,1,17.6,Bengal,Shahbaz Ahmed,Akash Deep,SM Fallah,1,0,,,,,,"",""
+ball,1,17.7,Bengal,Akash Deep,Shahbaz Ahmed,SM Fallah,1,0,,,,,,"",""
+ball,1,18.1,Bengal,Akash Deep,Shahbaz Ahmed,DJ Muthuswami,1,0,,,,,,"",""
+ball,1,18.2,Bengal,Shahbaz Ahmed,Akash Deep,DJ Muthuswami,4,0,,,,,,"",""
+ball,1,18.3,Bengal,Shahbaz Ahmed,Akash Deep,DJ Muthuswami,1,0,,,,,,"",""
+ball,1,18.4,Bengal,Akash Deep,Shahbaz Ahmed,DJ Muthuswami,0,1,1,,,,,"",""
+ball,1,18.5,Bengal,Akash Deep,Shahbaz Ahmed,DJ Muthuswami,0,0,,,,,,caught,Akash Deep
+ball,1,18.6,Bengal,AB Dinda,Shahbaz Ahmed,DJ Muthuswami,1,0,,,,,,"",""
+ball,1,18.7,Bengal,Shahbaz Ahmed,AB Dinda,DJ Muthuswami,1,0,,,,,,"",""
+ball,1,19.1,Bengal,Shahbaz Ahmed,AB Dinda,SM Fallah,1,0,,,,,,"",""
+ball,1,19.2,Bengal,AB Dinda,Shahbaz Ahmed,SM Fallah,4,0,,,,,,"",""
+ball,1,19.3,Bengal,AB Dinda,Shahbaz Ahmed,SM Fallah,1,0,,,,,,"",""
+ball,1,19.4,Bengal,Shahbaz Ahmed,AB Dinda,SM Fallah,6,0,,,,,,"",""
+ball,1,19.5,Bengal,Shahbaz Ahmed,AB Dinda,SM Fallah,4,0,,,,,,"",""
+ball,1,19.6,Bengal,Shahbaz Ahmed,AB Dinda,SM Fallah,4,0,,,,,,"",""
+ball,2,0.1,Maharashtra,RD Gaikwad,RA Tripathi,AB Dinda,1,0,,,,,,"",""
+ball,2,0.2,Maharashtra,RA Tripathi,RD Gaikwad,AB Dinda,0,1,,,,1,,"",""
+ball,2,0.3,Maharashtra,RD Gaikwad,RA Tripathi,AB Dinda,4,0,,,,,,"",""
+ball,2,0.4,Maharashtra,RD Gaikwad,RA Tripathi,AB Dinda,4,0,,,,,,"",""
+ball,2,0.5,Maharashtra,RD Gaikwad,RA Tripathi,AB Dinda,4,0,,,,,,"",""
+ball,2,0.6,Maharashtra,RD Gaikwad,RA Tripathi,AB Dinda,0,1,1,,,,,"",""
+ball,2,0.7,Maharashtra,RD Gaikwad,RA Tripathi,AB Dinda,2,0,,,,,,"",""
+ball,2,1.1,Maharashtra,RA Tripathi,RD Gaikwad,IC Porel,2,0,,,,,,"",""
+ball,2,1.2,Maharashtra,RA Tripathi,RD Gaikwad,IC Porel,1,0,,,,,,"",""
+ball,2,1.3,Maharashtra,RD Gaikwad,RA Tripathi,IC Porel,0,0,,,,,,"",""
+ball,2,1.4,Maharashtra,RD Gaikwad,RA Tripathi,IC Porel,4,0,,,,,,"",""
+ball,2,1.5,Maharashtra,RD Gaikwad,RA Tripathi,IC Porel,1,0,,,,,,"",""
+ball,2,1.6,Maharashtra,RA Tripathi,RD Gaikwad,IC Porel,0,0,,,,,,"",""
+ball,2,2.1,Maharashtra,RD Gaikwad,RA Tripathi,Akash Deep,0,0,,,,,,"",""
+ball,2,2.2,Maharashtra,RD Gaikwad,RA Tripathi,Akash Deep,0,0,,,,,,"",""
+ball,2,2.3,Maharashtra,RD Gaikwad,RA Tripathi,Akash Deep,0,0,,,,,,bowled,RD Gaikwad
+ball,2,2.4,Maharashtra,RH Motwani,RA Tripathi,Akash Deep,0,0,,,,,,"",""
+ball,2,2.5,Maharashtra,RH Motwani,RA Tripathi,Akash Deep,1,0,,,,,,"",""
+ball,2,2.6,Maharashtra,RA Tripathi,RH Motwani,Akash Deep,4,0,,,,,,"",""
+ball,2,3.1,Maharashtra,RH Motwani,RA Tripathi,IC Porel,1,0,,,,,,"",""
+ball,2,3.2,Maharashtra,RA Tripathi,RH Motwani,IC Porel,1,0,,,,,,"",""
+ball,2,3.3,Maharashtra,RH Motwani,RA Tripathi,IC Porel,0,1,,,,1,,"",""
+ball,2,3.4,Maharashtra,RA Tripathi,RH Motwani,IC Porel,0,0,,,,,,"",""
+ball,2,3.5,Maharashtra,RA Tripathi,RH Motwani,IC Porel,1,0,,,,,,"",""
+ball,2,3.6,Maharashtra,RH Motwani,RA Tripathi,IC Porel,0,0,,,,,,"",""
+ball,2,4.1,Maharashtra,RA Tripathi,RH Motwani,Akash Deep,0,0,,,,,,"",""
+ball,2,4.2,Maharashtra,RA Tripathi,RH Motwani,Akash Deep,0,0,,,,,,"",""
+ball,2,4.3,Maharashtra,RA Tripathi,RH Motwani,Akash Deep,4,0,,,,,,"",""
+ball,2,4.4,Maharashtra,RA Tripathi,RH Motwani,Akash Deep,1,0,,,,,,"",""
+ball,2,4.5,Maharashtra,RH Motwani,RA Tripathi,Akash Deep,2,0,,,,,,"",""
+ball,2,4.6,Maharashtra,RH Motwani,RA Tripathi,Akash Deep,1,0,,,,,,"",""
+ball,2,5.1,Maharashtra,RH Motwani,RA Tripathi,IC Porel,0,0,,,,,,"",""
+ball,2,5.2,Maharashtra,RH Motwani,RA Tripathi,IC Porel,1,0,,,,,,"",""
+ball,2,5.3,Maharashtra,RA Tripathi,RH Motwani,IC Porel,0,0,,,,,,"",""
+ball,2,5.4,Maharashtra,RA Tripathi,RH Motwani,IC Porel,0,0,,,,,,"",""
+ball,2,5.5,Maharashtra,RA Tripathi,RH Motwani,IC Porel,0,0,,,,,,"",""
+ball,2,5.6,Maharashtra,RA Tripathi,RH Motwani,IC Porel,4,0,,,,,,"",""
+ball,2,6.1,Maharashtra,RH Motwani,RA Tripathi,Sayan Ghosh,0,0,,,,,,"",""
+ball,2,6.2,Maharashtra,RH Motwani,RA Tripathi,Sayan Ghosh,6,0,,,,,,"",""
+ball,2,6.3,Maharashtra,RH Motwani,RA Tripathi,Sayan Ghosh,0,0,,,,,,"",""
+ball,2,6.4,Maharashtra,RH Motwani,RA Tripathi,Sayan Ghosh,4,0,,,,,,"",""
+ball,2,6.5,Maharashtra,RH Motwani,RA Tripathi,Sayan Ghosh,4,0,,,,,,"",""
+ball,2,6.6,Maharashtra,RH Motwani,RA Tripathi,Sayan Ghosh,0,0,,,,,,"",""
+ball,2,7.1,Maharashtra,RA Tripathi,RH Motwani,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,7.2,Maharashtra,RH Motwani,RA Tripathi,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,7.3,Maharashtra,RA Tripathi,RH Motwani,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,7.4,Maharashtra,RA Tripathi,RH Motwani,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,7.5,Maharashtra,RH Motwani,RA Tripathi,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,7.6,Maharashtra,RA Tripathi,RH Motwani,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,8.1,Maharashtra,RA Tripathi,RH Motwani,Sayan Ghosh,1,0,,,,,,"",""
+ball,2,8.2,Maharashtra,RH Motwani,RA Tripathi,Sayan Ghosh,1,0,,,,,,"",""
+ball,2,8.3,Maharashtra,RA Tripathi,RH Motwani,Sayan Ghosh,0,0,,,,,,"",""
+ball,2,8.4,Maharashtra,RA Tripathi,RH Motwani,Sayan Ghosh,1,0,,,,,,"",""
+ball,2,8.5,Maharashtra,RH Motwani,RA Tripathi,Sayan Ghosh,0,0,,,,,,"",""
+ball,2,8.6,Maharashtra,RH Motwani,RA Tripathi,Sayan Ghosh,6,0,,,,,,"",""
+ball,2,9.1,Maharashtra,RA Tripathi,RH Motwani,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,9.2,Maharashtra,RH Motwani,RA Tripathi,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,9.3,Maharashtra,RH Motwani,RA Tripathi,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,9.4,Maharashtra,RA Tripathi,RH Motwani,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,9.5,Maharashtra,RH Motwani,RA Tripathi,Shahbaz Ahmed,6,0,,,,,,"",""
+ball,2,9.6,Maharashtra,RH Motwani,RA Tripathi,Shahbaz Ahmed,0,0,,,,,,lbw,RH Motwani
+ball,2,10.1,Maharashtra,RA Tripathi,Naushad Shaikh,Akash Deep,1,0,,,,,,"",""
+ball,2,10.2,Maharashtra,Naushad Shaikh,RA Tripathi,Akash Deep,2,0,,,,,,"",""
+ball,2,10.3,Maharashtra,Naushad Shaikh,RA Tripathi,Akash Deep,0,0,,,,,,"",""
+ball,2,10.4,Maharashtra,Naushad Shaikh,RA Tripathi,Akash Deep,0,0,,,,,,"",""
+ball,2,10.5,Maharashtra,Naushad Shaikh,RA Tripathi,Akash Deep,0,0,,,,,,caught,Naushad Shaikh
+ball,2,10.6,Maharashtra,NS Naik,RA Tripathi,Akash Deep,0,0,,,,,,"",""
+ball,2,11.1,Maharashtra,RA Tripathi,NS Naik,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,11.2,Maharashtra,RA Tripathi,NS Naik,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,11.3,Maharashtra,NS Naik,RA Tripathi,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,11.4,Maharashtra,RA Tripathi,NS Naik,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,11.5,Maharashtra,RA Tripathi,NS Naik,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,11.6,Maharashtra,NS Naik,RA Tripathi,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,12.1,Maharashtra,RA Tripathi,NS Naik,Akash Deep,1,0,,,,,,"",""
+ball,2,12.2,Maharashtra,NS Naik,RA Tripathi,Akash Deep,1,0,,,,,,"",""
+ball,2,12.3,Maharashtra,RA Tripathi,NS Naik,Akash Deep,1,0,,,,,,"",""
+ball,2,12.4,Maharashtra,NS Naik,RA Tripathi,Akash Deep,1,0,,,,,,"",""
+ball,2,12.5,Maharashtra,RA Tripathi,NS Naik,Akash Deep,1,0,,,,,,"",""
+ball,2,12.6,Maharashtra,NS Naik,RA Tripathi,Akash Deep,0,0,,,,,,"",""
+ball,2,13.1,Maharashtra,RA Tripathi,NS Naik,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,13.2,Maharashtra,RA Tripathi,NS Naik,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,13.3,Maharashtra,RA Tripathi,NS Naik,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,2,13.4,Maharashtra,RA Tripathi,NS Naik,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,2,13.5,Maharashtra,RA Tripathi,NS Naik,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,2,13.6,Maharashtra,NS Naik,RA Tripathi,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,2,14.1,Maharashtra,RA Tripathi,NS Naik,Sayan Ghosh,4,0,,,,,,"",""
+ball,2,14.2,Maharashtra,RA Tripathi,NS Naik,Sayan Ghosh,1,0,,,,,,"",""
+ball,2,14.3,Maharashtra,NS Naik,RA Tripathi,Sayan Ghosh,0,0,,,,,,"",""
+ball,2,14.4,Maharashtra,NS Naik,RA Tripathi,Sayan Ghosh,1,0,,,,,,"",""
+ball,2,14.5,Maharashtra,RA Tripathi,NS Naik,Sayan Ghosh,1,0,,,,,,"",""
+ball,2,14.6,Maharashtra,NS Naik,RA Tripathi,Sayan Ghosh,1,0,,,,,,"",""
+ball,2,15.1,Maharashtra,NS Naik,RA Tripathi,AB Dinda,0,0,,,,,,"",""
+ball,2,15.2,Maharashtra,NS Naik,RA Tripathi,AB Dinda,0,0,,,,,,"",""
+ball,2,15.3,Maharashtra,NS Naik,RA Tripathi,AB Dinda,0,0,,,,,,"",""
+ball,2,15.4,Maharashtra,NS Naik,RA Tripathi,AB Dinda,4,0,,,,,,"",""
+ball,2,15.5,Maharashtra,NS Naik,RA Tripathi,AB Dinda,1,0,,,,,,"",""
+ball,2,15.6,Maharashtra,RA Tripathi,NS Naik,AB Dinda,1,0,,,,,,"",""
+ball,2,16.1,Maharashtra,RA Tripathi,NS Naik,IC Porel,4,0,,,,,,"",""
+ball,2,16.2,Maharashtra,RA Tripathi,NS Naik,IC Porel,4,0,,,,,,"",""
+ball,2,16.3,Maharashtra,RA Tripathi,NS Naik,IC Porel,1,0,,,,,,"",""
+ball,2,16.4,Maharashtra,NS Naik,RA Tripathi,IC Porel,4,0,,,,,,"",""
+ball,2,16.5,Maharashtra,NS Naik,RA Tripathi,IC Porel,0,0,,,,,,"",""
+ball,2,16.6,Maharashtra,NS Naik,RA Tripathi,IC Porel,4,0,,,,,,"",""
+ball,2,17.1,Maharashtra,RA Tripathi,NS Naik,AB Dinda,4,0,,,,,,"",""

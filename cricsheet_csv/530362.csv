@@ -1,0 +1,200 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Warriors
+info,team,Titans
+info,gender,male
+info,season,2011/12
+info,date,2012/03/21
+info,event,MiWAY T20 Challenge
+info,match_number,42
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Warriors
+info,toss_decision,bat
+info,player_of_match,JA Morkel
+info,player_of_match,F du Plessis
+info,umpire,AT Holdstock
+info,umpire,IL Howell
+info,reserve_umpire,DJ Smith
+info,tv_umpire,KH Hurter
+info,match_referee,SB Lambson
+info,winner,Titans
+info,winner_wickets,8
+info,method,D/L
+info,player,Warriors,AG Prince
+info,player,Warriors,WD Parnell
+info,player,Warriors,CA Ingram
+info,player,Warriors,DJ Jacobs
+info,player,Warriors,J Botha
+info,player,Warriors,CA Thyssen
+info,player,Warriors,SR Harmer
+info,player,Warriors,AZM Dyili
+info,player,Warriors,J Theron
+info,player,Warriors,ACR Birch
+info,player,Warriors,M Ntini
+info,player,Titans,H Davids
+info,player,Titans,M van Jaarsveld
+info,player,Titans,F du Plessis
+info,player,Titans,F Behardien
+info,player,Titans,HG Kuhn
+info,player,Titans,RE van der Merwe
+info,player,Titans,JA Morkel
+info,player,Titans,D Wiese
+info,player,Titans,AC Thomas
+info,player,Titans,ER Links
+info,player,Titans,NE Mbhalati
+info,registry,people,AC Thomas,b552a935
+info,registry,people,ACR Birch,9df3a2f4
+info,registry,people,AG Prince,035cb925
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,AZM Dyili,eb6d2ef1
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CA Thyssen,789fd884
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DJ Jacobs,a84468fe
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,ER Links,994d9d36
+info,registry,people,F Behardien,dce2019b
+info,registry,people,F du Plessis,3355b542
+info,registry,people,H Davids,9c9f8dbc
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,J Botha,7c503806
+info,registry,people,J Theron,dec8e038
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,KH Hurter,bda8cca8
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M van Jaarsveld,f407e354
+info,registry,people,NE Mbhalati,800b52dc
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SR Harmer,23638956
+info,registry,people,WD Parnell,3a60e0b5
+ball,1,0.1,Warriors,AG Prince,WD Parnell,ER Links,1,0,,,,,,"",""
+ball,1,0.2,Warriors,WD Parnell,AG Prince,ER Links,0,0,,,,,,"",""
+ball,1,0.3,Warriors,WD Parnell,AG Prince,ER Links,0,0,,,,,,"",""
+ball,1,0.4,Warriors,WD Parnell,AG Prince,ER Links,0,0,,,,,,"",""
+ball,1,0.5,Warriors,WD Parnell,AG Prince,ER Links,4,0,,,,,,"",""
+ball,1,0.6,Warriors,WD Parnell,AG Prince,ER Links,0,0,,,,,,"",""
+ball,1,1.1,Warriors,AG Prince,WD Parnell,AC Thomas,1,0,,,,,,"",""
+ball,1,1.2,Warriors,WD Parnell,AG Prince,AC Thomas,0,0,,,,,,"",""
+ball,1,1.3,Warriors,WD Parnell,AG Prince,AC Thomas,4,0,,,,,,"",""
+ball,1,1.4,Warriors,WD Parnell,AG Prince,AC Thomas,4,0,,,,,,"",""
+ball,1,1.5,Warriors,WD Parnell,AG Prince,AC Thomas,0,0,,,,,,"",""
+ball,1,1.6,Warriors,WD Parnell,AG Prince,AC Thomas,1,0,,,,,,"",""
+ball,1,2.1,Warriors,WD Parnell,AG Prince,ER Links,0,0,,,,,,"",""
+ball,1,2.2,Warriors,WD Parnell,AG Prince,ER Links,0,0,,,,,,"",""
+ball,1,2.3,Warriors,WD Parnell,AG Prince,ER Links,6,0,,,,,,"",""
+ball,1,2.4,Warriors,WD Parnell,AG Prince,ER Links,4,0,,,,,,"",""
+ball,1,2.5,Warriors,WD Parnell,AG Prince,ER Links,0,1,,,,1,,"",""
+ball,1,2.6,Warriors,AG Prince,WD Parnell,ER Links,1,0,,,,,,"",""
+ball,1,3.1,Warriors,AG Prince,WD Parnell,NE Mbhalati,0,0,,,,,,"",""
+ball,1,3.2,Warriors,AG Prince,WD Parnell,NE Mbhalati,1,0,,,,,,"",""
+ball,1,3.3,Warriors,WD Parnell,AG Prince,NE Mbhalati,0,2,2,,,,,"",""
+ball,1,3.4,Warriors,AG Prince,WD Parnell,NE Mbhalati,4,0,,,,,,"",""
+ball,1,3.5,Warriors,AG Prince,WD Parnell,NE Mbhalati,1,0,,,,,,"",""
+ball,1,3.6,Warriors,WD Parnell,AG Prince,NE Mbhalati,0,0,,,,,,caught,WD Parnell
+ball,1,3.7,Warriors,AG Prince,CA Ingram,NE Mbhalati,1,0,,,,,,"",""
+ball,1,4.1,Warriors,AG Prince,CA Ingram,AC Thomas,0,0,,,,,,caught,AG Prince
+ball,1,4.2,Warriors,DJ Jacobs,CA Ingram,AC Thomas,0,1,,,,1,,"",""
+ball,1,4.3,Warriors,CA Ingram,DJ Jacobs,AC Thomas,1,0,,,,,,"",""
+ball,1,4.4,Warriors,DJ Jacobs,CA Ingram,AC Thomas,0,0,,,,,,caught,DJ Jacobs
+ball,1,4.5,Warriors,J Botha,CA Ingram,AC Thomas,0,0,,,,,,"",""
+ball,1,4.6,Warriors,J Botha,CA Ingram,AC Thomas,0,0,,,,,,"",""
+ball,1,5.1,Warriors,CA Ingram,J Botha,NE Mbhalati,1,0,,,,,,"",""
+ball,1,5.2,Warriors,J Botha,CA Ingram,NE Mbhalati,0,0,,,,,,"",""
+ball,1,5.3,Warriors,J Botha,CA Ingram,NE Mbhalati,0,0,,,,,,"",""
+ball,1,5.4,Warriors,J Botha,CA Ingram,NE Mbhalati,0,0,,,,,,"",""
+ball,1,5.5,Warriors,J Botha,CA Ingram,NE Mbhalati,0,0,,,,,,"",""
+ball,1,5.6,Warriors,J Botha,CA Ingram,NE Mbhalati,0,0,,,,,,"",""
+ball,1,6.1,Warriors,CA Ingram,J Botha,JA Morkel,1,0,,,,,,"",""
+ball,1,6.2,Warriors,J Botha,CA Ingram,JA Morkel,0,0,,,,,,"",""
+ball,1,6.3,Warriors,J Botha,CA Ingram,JA Morkel,0,0,,,,,,"",""
+ball,1,6.4,Warriors,J Botha,CA Ingram,JA Morkel,0,0,,,,,,"",""
+ball,1,6.5,Warriors,J Botha,CA Ingram,JA Morkel,0,0,,,,,,"",""
+ball,1,6.6,Warriors,J Botha,CA Ingram,JA Morkel,2,0,,,,,,"",""
+ball,1,7.1,Warriors,CA Ingram,J Botha,NE Mbhalati,1,0,,,,,,"",""
+ball,1,7.2,Warriors,J Botha,CA Ingram,NE Mbhalati,0,0,,,,,,"",""
+ball,1,7.3,Warriors,J Botha,CA Ingram,NE Mbhalati,0,0,,,,,,"",""
+ball,1,7.4,Warriors,J Botha,CA Ingram,NE Mbhalati,1,0,,,,,,"",""
+ball,1,7.5,Warriors,CA Ingram,J Botha,NE Mbhalati,1,0,,,,,,"",""
+ball,1,7.6,Warriors,J Botha,CA Ingram,NE Mbhalati,4,0,,,,,,"",""
+ball,1,8.1,Warriors,CA Ingram,J Botha,JA Morkel,0,0,,,,,,lbw,CA Ingram
+ball,1,8.2,Warriors,CA Thyssen,J Botha,JA Morkel,0,0,,,,,,"",""
+ball,1,8.3,Warriors,CA Thyssen,J Botha,JA Morkel,1,0,,,,,,"",""
+ball,1,8.4,Warriors,J Botha,CA Thyssen,JA Morkel,0,0,,,,,,bowled,J Botha
+ball,1,8.5,Warriors,SR Harmer,CA Thyssen,JA Morkel,0,0,,,,,,"",""
+ball,1,8.6,Warriors,SR Harmer,CA Thyssen,JA Morkel,0,0,,,,,,"",""
+ball,1,9.1,Warriors,CA Thyssen,SR Harmer,NE Mbhalati,0,0,,,,,,"",""
+ball,1,9.2,Warriors,CA Thyssen,SR Harmer,NE Mbhalati,1,0,,,,,,"",""
+ball,1,9.3,Warriors,SR Harmer,CA Thyssen,NE Mbhalati,1,0,,,,,,"",""
+ball,1,9.4,Warriors,CA Thyssen,SR Harmer,NE Mbhalati,0,0,,,,,,"",""
+ball,1,9.5,Warriors,CA Thyssen,SR Harmer,NE Mbhalati,1,0,,,,,,"",""
+ball,1,9.6,Warriors,SR Harmer,CA Thyssen,NE Mbhalati,0,0,,,,,,"",""
+ball,1,10.1,Warriors,CA Thyssen,SR Harmer,RE van der Merwe,0,0,,,,,,caught,CA Thyssen
+ball,1,10.2,Warriors,AZM Dyili,SR Harmer,RE van der Merwe,0,0,,,,,,"",""
+ball,1,10.3,Warriors,AZM Dyili,SR Harmer,RE van der Merwe,0,0,,,,,,"",""
+ball,1,10.4,Warriors,AZM Dyili,SR Harmer,RE van der Merwe,0,0,,,,,,"",""
+ball,1,10.5,Warriors,AZM Dyili,SR Harmer,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.6,Warriors,SR Harmer,AZM Dyili,RE van der Merwe,0,0,,,,,,"",""
+ball,1,11.1,Warriors,AZM Dyili,SR Harmer,F du Plessis,0,0,,,,,,"",""
+ball,1,11.2,Warriors,AZM Dyili,SR Harmer,F du Plessis,0,0,,,,,,"",""
+ball,1,11.3,Warriors,AZM Dyili,SR Harmer,F du Plessis,0,0,,,,,,"",""
+ball,1,11.4,Warriors,AZM Dyili,SR Harmer,F du Plessis,0,0,,,,,,"",""
+ball,1,11.5,Warriors,AZM Dyili,SR Harmer,F du Plessis,0,0,,,,,,"",""
+ball,1,11.6,Warriors,AZM Dyili,SR Harmer,F du Plessis,1,0,,,,,,"",""
+ball,1,12.1,Warriors,AZM Dyili,SR Harmer,RE van der Merwe,0,0,,,,,,"",""
+ball,1,12.2,Warriors,AZM Dyili,SR Harmer,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.3,Warriors,SR Harmer,AZM Dyili,RE van der Merwe,4,0,,,,,,"",""
+ball,1,12.4,Warriors,SR Harmer,AZM Dyili,RE van der Merwe,0,0,,,,,,"",""
+ball,1,12.5,Warriors,SR Harmer,AZM Dyili,RE van der Merwe,0,0,,,,,,"",""
+ball,1,12.6,Warriors,SR Harmer,AZM Dyili,RE van der Merwe,4,0,,,,,,"",""
+ball,1,13.1,Warriors,AZM Dyili,SR Harmer,F du Plessis,0,0,,,,,,"",""
+ball,2,0.1,Titans,H Davids,M van Jaarsveld,J Theron,1,0,,,,,,"",""
+ball,2,0.2,Titans,M van Jaarsveld,H Davids,J Theron,0,0,,,,,,"",""
+ball,2,0.3,Titans,M van Jaarsveld,H Davids,J Theron,1,0,,,,,,"",""
+ball,2,0.4,Titans,H Davids,M van Jaarsveld,J Theron,0,0,,,,,,lbw,H Davids
+ball,2,0.5,Titans,F du Plessis,M van Jaarsveld,J Theron,0,0,,,,,,"",""
+ball,2,0.6,Titans,F du Plessis,M van Jaarsveld,J Theron,1,0,,,,,,"",""
+ball,2,1.1,Titans,F du Plessis,M van Jaarsveld,M Ntini,0,0,,,,,,"",""
+ball,2,1.2,Titans,F du Plessis,M van Jaarsveld,M Ntini,1,0,,,,,,"",""
+ball,2,1.3,Titans,M van Jaarsveld,F du Plessis,M Ntini,0,0,,,,,,"",""
+ball,2,1.4,Titans,M van Jaarsveld,F du Plessis,M Ntini,6,0,,,,,,"",""
+ball,2,1.5,Titans,M van Jaarsveld,F du Plessis,M Ntini,4,0,,,,,,"",""
+ball,2,1.6,Titans,M van Jaarsveld,F du Plessis,M Ntini,1,0,,,,,,"",""
+ball,2,2.1,Titans,M van Jaarsveld,F du Plessis,J Theron,0,1,,,,1,,"",""
+ball,2,2.2,Titans,F du Plessis,M van Jaarsveld,J Theron,1,0,,,,,,"",""
+ball,2,2.3,Titans,M van Jaarsveld,F du Plessis,J Theron,4,0,,,,,,"",""
+ball,2,2.4,Titans,M van Jaarsveld,F du Plessis,J Theron,0,0,,,,,,"",""
+ball,2,2.5,Titans,M van Jaarsveld,F du Plessis,J Theron,1,0,,,,,,"",""
+ball,2,2.6,Titans,F du Plessis,M van Jaarsveld,J Theron,2,0,,,,,,"",""
+ball,2,3.1,Titans,M van Jaarsveld,F du Plessis,WD Parnell,1,0,,,,,,"",""
+ball,2,3.2,Titans,F du Plessis,M van Jaarsveld,WD Parnell,1,0,,,,,,"",""
+ball,2,3.3,Titans,M van Jaarsveld,F du Plessis,WD Parnell,1,0,,,,,,"",""
+ball,2,3.4,Titans,F du Plessis,M van Jaarsveld,WD Parnell,1,0,,,,,,"",""
+ball,2,3.5,Titans,M van Jaarsveld,F du Plessis,WD Parnell,0,0,,,,,,"",""
+ball,2,3.6,Titans,M van Jaarsveld,F du Plessis,WD Parnell,1,0,,,,,,"",""
+ball,2,4.1,Titans,M van Jaarsveld,F du Plessis,J Botha,1,0,,,,,,"",""
+ball,2,4.2,Titans,F du Plessis,M van Jaarsveld,J Botha,1,0,,,,,,"",""
+ball,2,4.3,Titans,M van Jaarsveld,F du Plessis,J Botha,0,0,,,,,,"",""
+ball,2,4.4,Titans,M van Jaarsveld,F du Plessis,J Botha,2,0,,,,,,"",""
+ball,2,4.5,Titans,M van Jaarsveld,F du Plessis,J Botha,0,0,,,,,,bowled,M van Jaarsveld
+ball,2,4.6,Titans,F Behardien,F du Plessis,J Botha,0,0,,,,,,"",""
+ball,2,5.1,Titans,F du Plessis,F Behardien,ACR Birch,0,0,,,,,,"",""
+ball,2,5.2,Titans,F du Plessis,F Behardien,ACR Birch,0,0,,,,,,"",""
+ball,2,5.3,Titans,F du Plessis,F Behardien,ACR Birch,1,0,,,,,,"",""
+ball,2,5.4,Titans,F Behardien,F du Plessis,ACR Birch,0,0,,,,,,"",""
+ball,2,5.5,Titans,F Behardien,F du Plessis,ACR Birch,4,0,,,,,,"",""
+ball,2,5.6,Titans,F Behardien,F du Plessis,ACR Birch,2,0,,,,,,"",""
+ball,2,6.1,Titans,F du Plessis,F Behardien,SR Harmer,3,0,,,,,,"",""
+ball,2,6.2,Titans,F Behardien,F du Plessis,SR Harmer,0,1,1,,,,,"",""
+ball,2,6.3,Titans,F Behardien,F du Plessis,SR Harmer,0,0,,,,,,"",""
+ball,2,6.4,Titans,F Behardien,F du Plessis,SR Harmer,1,0,,,,,,"",""
+ball,2,6.5,Titans,F du Plessis,F Behardien,SR Harmer,4,0,,,,,,"",""
+ball,2,6.6,Titans,F du Plessis,F Behardien,SR Harmer,1,0,,,,,,"",""
+ball,2,6.7,Titans,F Behardien,F du Plessis,SR Harmer,2,0,,,,,,"",""
+ball,2,7.1,Titans,F du Plessis,F Behardien,WD Parnell,4,0,,,,,,"",""
+ball,2,7.2,Titans,F du Plessis,F Behardien,WD Parnell,0,0,,,,,,"",""
+ball,2,7.3,Titans,F du Plessis,F Behardien,WD Parnell,1,0,,,,,,"",""
+ball,2,7.4,Titans,F Behardien,F du Plessis,WD Parnell,0,0,,,,,,"",""
+ball,2,7.5,Titans,F Behardien,F du Plessis,WD Parnell,4,0,,,,,,"",""

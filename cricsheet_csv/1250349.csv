@@ -1,0 +1,291 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Middlesex
+info,gender,male
+info,season,2021
+info,date,2021/07/16
+info,event,Vitality Blast
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Kent
+info,toss_decision,bat
+info,player_of_match,EO Hooper
+info,umpire,BJ Debenham
+info,umpire,NJ Llong
+info,match_referee,PM Such
+info,winner,Kent
+info,winner_runs,77
+info,player,Kent,HG Munsey
+info,player,Kent,Z Crawley
+info,player,Kent,HG Kuhn
+info,player,Kent,HZ Finch
+info,player,Kent,CS MacLeod
+info,player,Kent,DJ Lincoln
+info,player,Kent,MK O'Riordan
+info,player,Kent,HW Podmore
+info,player,Kent,SM Sharif
+info,player,Kent,EO Hooper
+info,player,Kent,MR Quinn
+info,player,Middlesex,SD Robson
+info,player,Middlesex,V Chopra
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,DJ Mitchell
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,NA Sowter
+info,player,Middlesex,TG Helm
+info,player,Middlesex,BC Cullen
+info,player,Middlesex,ST Finn
+info,player,Middlesex,Mujeeb Ur Rahman
+info,registry,people,BC Cullen,39180894
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,CS MacLeod,9c376401
+info,registry,people,DJ Lincoln,24cacd0a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,EO Hooper,8e4ef717
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,HW Podmore,43205dad
+info,registry,people,HZ Finch,6b16f8ba
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MK O'Riordan,94db3502
+info,registry,people,MR Quinn,b082d112
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PM Such,c9f1892c
+info,registry,people,SD Robson,76cb1a7f
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,TG Helm,74a274cc
+info,registry,people,V Chopra,54745c20
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,Kent,HG Munsey,Z Crawley,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,0.2,Kent,HG Munsey,Z Crawley,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,0.3,Kent,HG Munsey,Z Crawley,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,0.4,Kent,HG Munsey,Z Crawley,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,0.5,Kent,HG Munsey,Z Crawley,Mujeeb Ur Rahman,0,0,,,,,,bowled,HG Munsey
+ball,1,0.6,Kent,HG Kuhn,Z Crawley,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,1.1,Kent,HG Kuhn,Z Crawley,TG Helm,1,0,,,,,,"",""
+ball,1,1.2,Kent,Z Crawley,HG Kuhn,TG Helm,0,0,,,,,,"",""
+ball,1,1.3,Kent,Z Crawley,HG Kuhn,TG Helm,0,0,,,,,,"",""
+ball,1,1.4,Kent,Z Crawley,HG Kuhn,TG Helm,1,0,,,,,,"",""
+ball,1,1.5,Kent,HG Kuhn,Z Crawley,TG Helm,0,0,,,,,,"",""
+ball,1,1.6,Kent,HG Kuhn,Z Crawley,TG Helm,0,1,1,,,,,"",""
+ball,1,1.7,Kent,HG Kuhn,Z Crawley,TG Helm,1,0,,,,,,"",""
+ball,1,2.1,Kent,HG Kuhn,Z Crawley,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,2.2,Kent,Z Crawley,HG Kuhn,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,2.3,Kent,Z Crawley,HG Kuhn,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,2.4,Kent,HG Kuhn,Z Crawley,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,2.5,Kent,HG Kuhn,Z Crawley,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,2.6,Kent,HG Kuhn,Z Crawley,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,3.1,Kent,HG Kuhn,Z Crawley,TG Helm,1,0,,,,,,"",""
+ball,1,3.2,Kent,Z Crawley,HG Kuhn,TG Helm,1,0,,,,,,"",""
+ball,1,3.3,Kent,HG Kuhn,Z Crawley,TG Helm,0,0,,,,,,"",""
+ball,1,3.4,Kent,HG Kuhn,Z Crawley,TG Helm,0,0,,,,,,"",""
+ball,1,3.5,Kent,HG Kuhn,Z Crawley,TG Helm,1,0,,,,,,"",""
+ball,1,3.6,Kent,Z Crawley,HG Kuhn,TG Helm,6,0,,,,,,"",""
+ball,1,4.1,Kent,HG Kuhn,Z Crawley,ST Finn,4,0,,,,,,"",""
+ball,1,4.2,Kent,HG Kuhn,Z Crawley,ST Finn,1,0,,,,,,"",""
+ball,1,4.3,Kent,Z Crawley,HG Kuhn,ST Finn,0,0,,,,,,"",""
+ball,1,4.4,Kent,Z Crawley,HG Kuhn,ST Finn,6,0,,,,,,"",""
+ball,1,4.5,Kent,Z Crawley,HG Kuhn,ST Finn,1,0,,,,,,"",""
+ball,1,4.6,Kent,HG Kuhn,Z Crawley,ST Finn,0,0,,,,,,"",""
+ball,1,5.1,Kent,Z Crawley,HG Kuhn,BC Cullen,6,0,,,,,,"",""
+ball,1,5.2,Kent,Z Crawley,HG Kuhn,BC Cullen,0,0,,,,,,caught,Z Crawley
+ball,1,5.3,Kent,HG Kuhn,HZ Finch,BC Cullen,1,0,,,,,,"",""
+ball,1,5.4,Kent,HZ Finch,HG Kuhn,BC Cullen,1,0,,,,,,"",""
+ball,1,5.5,Kent,HG Kuhn,HZ Finch,BC Cullen,4,0,,,,,,"",""
+ball,1,5.6,Kent,HG Kuhn,HZ Finch,BC Cullen,1,0,,,,,,"",""
+ball,1,6.1,Kent,HG Kuhn,HZ Finch,NA Sowter,2,0,,,,,,"",""
+ball,1,6.2,Kent,HG Kuhn,HZ Finch,NA Sowter,0,0,,,,,,"",""
+ball,1,6.3,Kent,HG Kuhn,HZ Finch,NA Sowter,1,0,,,,,,"",""
+ball,1,6.4,Kent,HZ Finch,HG Kuhn,NA Sowter,1,0,,,,,,"",""
+ball,1,6.5,Kent,HG Kuhn,HZ Finch,NA Sowter,1,0,,,,,,"",""
+ball,1,6.6,Kent,HZ Finch,HG Kuhn,NA Sowter,1,0,,,,,,"",""
+ball,1,7.1,Kent,HZ Finch,HG Kuhn,BC Cullen,4,0,,,,,,"",""
+ball,1,7.2,Kent,HZ Finch,HG Kuhn,BC Cullen,0,0,,,,,,"",""
+ball,1,7.3,Kent,HZ Finch,HG Kuhn,BC Cullen,0,0,,,,,,"",""
+ball,1,7.4,Kent,HZ Finch,HG Kuhn,BC Cullen,1,0,,,,,,"",""
+ball,1,7.5,Kent,HG Kuhn,HZ Finch,BC Cullen,4,0,,,,,,"",""
+ball,1,7.6,Kent,HG Kuhn,HZ Finch,BC Cullen,1,0,,,,,,"",""
+ball,1,8.1,Kent,HG Kuhn,HZ Finch,NA Sowter,2,0,,,,,,"",""
+ball,1,8.2,Kent,HG Kuhn,HZ Finch,NA Sowter,2,0,,,,,,"",""
+ball,1,8.3,Kent,HG Kuhn,HZ Finch,NA Sowter,0,0,,,,,,"",""
+ball,1,8.4,Kent,HG Kuhn,HZ Finch,NA Sowter,2,0,,,,,,"",""
+ball,1,8.5,Kent,HG Kuhn,HZ Finch,NA Sowter,0,0,,,,,,"",""
+ball,1,8.6,Kent,HG Kuhn,HZ Finch,NA Sowter,2,0,,,,,,"",""
+ball,1,9.1,Kent,HZ Finch,HG Kuhn,ST Finn,1,0,,,,,,"",""
+ball,1,9.2,Kent,HG Kuhn,HZ Finch,ST Finn,1,0,,,,,,"",""
+ball,1,9.3,Kent,HZ Finch,HG Kuhn,ST Finn,4,0,,,,,,"",""
+ball,1,9.4,Kent,HZ Finch,HG Kuhn,ST Finn,1,0,,,,,,"",""
+ball,1,9.5,Kent,HG Kuhn,HZ Finch,ST Finn,1,0,,,,,,"",""
+ball,1,9.6,Kent,HZ Finch,HG Kuhn,ST Finn,1,0,,,,,,"",""
+ball,1,10.1,Kent,HZ Finch,HG Kuhn,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,10.2,Kent,HZ Finch,HG Kuhn,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,10.3,Kent,HZ Finch,HG Kuhn,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,10.4,Kent,HZ Finch,HG Kuhn,Mujeeb Ur Rahman,3,0,,,,,,"",""
+ball,1,10.5,Kent,HG Kuhn,HZ Finch,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,10.6,Kent,HZ Finch,HG Kuhn,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,11.1,Kent,HZ Finch,HG Kuhn,ST Finn,2,0,,,,,,"",""
+ball,1,11.2,Kent,HZ Finch,HG Kuhn,ST Finn,0,0,,,,,,"",""
+ball,1,11.3,Kent,HZ Finch,HG Kuhn,ST Finn,4,0,,,,,,"",""
+ball,1,11.4,Kent,HZ Finch,HG Kuhn,ST Finn,4,0,,,,,,"",""
+ball,1,11.5,Kent,HZ Finch,HG Kuhn,ST Finn,4,0,,,,,,"",""
+ball,1,11.6,Kent,HZ Finch,HG Kuhn,ST Finn,1,0,,,,,,"",""
+ball,1,12.1,Kent,HZ Finch,HG Kuhn,NA Sowter,0,0,,,,,,"",""
+ball,1,12.2,Kent,HZ Finch,HG Kuhn,NA Sowter,0,1,,,,1,,"",""
+ball,1,12.3,Kent,HG Kuhn,HZ Finch,NA Sowter,0,0,,,,,,caught,HG Kuhn
+ball,1,12.4,Kent,CS MacLeod,HZ Finch,NA Sowter,1,0,,,,,,"",""
+ball,1,12.5,Kent,HZ Finch,CS MacLeod,NA Sowter,1,0,,,,,,"",""
+ball,1,12.6,Kent,CS MacLeod,HZ Finch,NA Sowter,1,0,,,,,,"",""
+ball,1,13.1,Kent,CS MacLeod,HZ Finch,BC Cullen,0,0,,,,,,"",""
+ball,1,13.2,Kent,CS MacLeod,HZ Finch,BC Cullen,4,0,,,,,,"",""
+ball,1,13.3,Kent,CS MacLeod,HZ Finch,BC Cullen,1,0,,,,,,"",""
+ball,1,13.4,Kent,HZ Finch,CS MacLeod,BC Cullen,1,0,,,,,,"",""
+ball,1,13.5,Kent,CS MacLeod,HZ Finch,BC Cullen,0,0,,,,,,caught,CS MacLeod
+ball,1,13.6,Kent,DJ Lincoln,HZ Finch,BC Cullen,1,0,,,,,,"",""
+ball,1,14.1,Kent,DJ Lincoln,HZ Finch,NA Sowter,1,0,,,,,,"",""
+ball,1,14.2,Kent,HZ Finch,DJ Lincoln,NA Sowter,1,0,,,,,,"",""
+ball,1,14.3,Kent,DJ Lincoln,HZ Finch,NA Sowter,0,0,,,,,,"",""
+ball,1,14.4,Kent,DJ Lincoln,HZ Finch,NA Sowter,1,0,,,,,,"",""
+ball,1,14.5,Kent,HZ Finch,DJ Lincoln,NA Sowter,0,0,,,,,,"",""
+ball,1,14.6,Kent,HZ Finch,DJ Lincoln,NA Sowter,0,0,,,,,,"",""
+ball,1,15.1,Kent,DJ Lincoln,HZ Finch,TG Helm,2,0,,,,,,"",""
+ball,1,15.2,Kent,DJ Lincoln,HZ Finch,TG Helm,1,0,,,,,,"",""
+ball,1,15.3,Kent,HZ Finch,DJ Lincoln,TG Helm,2,0,,,,,,"",""
+ball,1,15.4,Kent,HZ Finch,DJ Lincoln,TG Helm,1,0,,,,,,"",""
+ball,1,15.5,Kent,DJ Lincoln,HZ Finch,TG Helm,0,0,,,,,,"",""
+ball,1,15.6,Kent,DJ Lincoln,HZ Finch,TG Helm,0,0,,,,,,"",""
+ball,1,16.1,Kent,HZ Finch,DJ Lincoln,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,16.2,Kent,DJ Lincoln,HZ Finch,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,16.3,Kent,DJ Lincoln,HZ Finch,Mujeeb Ur Rahman,0,0,,,,,,caught,DJ Lincoln
+ball,1,16.4,Kent,HZ Finch,MK O'Riordan,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,16.5,Kent,MK O'Riordan,HZ Finch,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,16.6,Kent,MK O'Riordan,HZ Finch,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,17.1,Kent,MK O'Riordan,HZ Finch,BC Cullen,1,0,,,,,,"",""
+ball,1,17.2,Kent,HZ Finch,MK O'Riordan,BC Cullen,1,0,,,,,,"",""
+ball,1,17.3,Kent,MK O'Riordan,HZ Finch,BC Cullen,0,0,,,,,,caught,MK O'Riordan
+ball,1,17.4,Kent,HW Podmore,HZ Finch,BC Cullen,0,0,,,,,,"",""
+ball,1,17.5,Kent,HW Podmore,HZ Finch,BC Cullen,1,0,,,,,,"",""
+ball,1,17.6,Kent,HZ Finch,HW Podmore,BC Cullen,0,0,,,,,,caught,HZ Finch
+ball,1,18.1,Kent,HW Podmore,SM Sharif,ST Finn,1,0,,,,,,"",""
+ball,1,18.2,Kent,SM Sharif,HW Podmore,ST Finn,0,1,1,,,,,"",""
+ball,1,18.3,Kent,SM Sharif,HW Podmore,ST Finn,1,0,,,,,,"",""
+ball,1,18.4,Kent,HW Podmore,SM Sharif,ST Finn,1,0,,,,,,"",""
+ball,1,18.5,Kent,SM Sharif,HW Podmore,ST Finn,2,0,,,,,,"",""
+ball,1,18.6,Kent,SM Sharif,HW Podmore,ST Finn,0,0,,,,,,"",""
+ball,1,18.7,Kent,SM Sharif,HW Podmore,ST Finn,1,0,,,,,,"",""
+ball,1,19.1,Kent,SM Sharif,HW Podmore,TG Helm,0,0,,,,,,"",""
+ball,1,19.2,Kent,SM Sharif,HW Podmore,TG Helm,1,0,,,,,,"",""
+ball,1,19.3,Kent,HW Podmore,SM Sharif,TG Helm,2,0,,,,,,"",""
+ball,1,19.4,Kent,HW Podmore,SM Sharif,TG Helm,0,1,1,,,,,"",""
+ball,1,19.5,Kent,HW Podmore,SM Sharif,TG Helm,0,0,,,,,,bowled,HW Podmore
+ball,1,19.6,Kent,EO Hooper,SM Sharif,TG Helm,0,0,,,,,,"",""
+ball,1,19.7,Kent,EO Hooper,SM Sharif,TG Helm,0,1,,,1,,,"",""
+ball,2,0.1,Middlesex,SD Robson,V Chopra,MK O'Riordan,1,0,,,,,,"",""
+ball,2,0.2,Middlesex,V Chopra,SD Robson,MK O'Riordan,1,0,,,,,,"",""
+ball,2,0.3,Middlesex,SD Robson,V Chopra,MK O'Riordan,0,0,,,,,,"",""
+ball,2,0.4,Middlesex,SD Robson,V Chopra,MK O'Riordan,1,0,,,,,,"",""
+ball,2,0.5,Middlesex,V Chopra,SD Robson,MK O'Riordan,1,0,,,,,,"",""
+ball,2,0.6,Middlesex,SD Robson,V Chopra,MK O'Riordan,0,0,,,,,,"",""
+ball,2,1.1,Middlesex,V Chopra,SD Robson,MR Quinn,2,0,,,,,,"",""
+ball,2,1.2,Middlesex,V Chopra,SD Robson,MR Quinn,2,0,,,,,,"",""
+ball,2,1.3,Middlesex,V Chopra,SD Robson,MR Quinn,0,1,1,,,,,"",""
+ball,2,1.4,Middlesex,V Chopra,SD Robson,MR Quinn,0,1,1,,,,,"",""
+ball,2,1.5,Middlesex,V Chopra,SD Robson,MR Quinn,1,0,,,,,,"",""
+ball,2,1.6,Middlesex,SD Robson,V Chopra,MR Quinn,0,0,,,,,,"",""
+ball,2,1.7,Middlesex,SD Robson,V Chopra,MR Quinn,0,0,,,,,,"",""
+ball,2,1.8,Middlesex,SD Robson,V Chopra,MR Quinn,0,0,,,,,,bowled,SD Robson
+ball,2,2.1,Middlesex,V Chopra,JB Cracknell,HW Podmore,0,1,,,,1,,"",""
+ball,2,2.2,Middlesex,JB Cracknell,V Chopra,HW Podmore,0,0,,,,,,"",""
+ball,2,2.3,Middlesex,JB Cracknell,V Chopra,HW Podmore,4,0,,,,,,"",""
+ball,2,2.4,Middlesex,JB Cracknell,V Chopra,HW Podmore,0,0,,,,,,caught,JB Cracknell
+ball,2,2.5,Middlesex,V Chopra,DJ Mitchell,HW Podmore,1,0,,,,,,"",""
+ball,2,2.6,Middlesex,DJ Mitchell,V Chopra,HW Podmore,1,0,,,,,,"",""
+ball,2,3.1,Middlesex,DJ Mitchell,V Chopra,SM Sharif,1,0,,,,,,"",""
+ball,2,3.2,Middlesex,V Chopra,DJ Mitchell,SM Sharif,1,0,,,,,,"",""
+ball,2,3.3,Middlesex,DJ Mitchell,V Chopra,SM Sharif,0,0,,,,,,lbw,DJ Mitchell
+ball,2,3.4,Middlesex,MDE Holden,V Chopra,SM Sharif,0,0,,,,,,"",""
+ball,2,3.5,Middlesex,MDE Holden,V Chopra,SM Sharif,0,0,,,,,,"",""
+ball,2,3.6,Middlesex,MDE Holden,V Chopra,SM Sharif,1,0,,,,,,"",""
+ball,2,4.1,Middlesex,MDE Holden,V Chopra,MR Quinn,1,0,,,,,,"",""
+ball,2,4.2,Middlesex,V Chopra,MDE Holden,MR Quinn,0,0,,,,,,"",""
+ball,2,4.3,Middlesex,V Chopra,MDE Holden,MR Quinn,0,0,,,,,,"",""
+ball,2,4.4,Middlesex,V Chopra,MDE Holden,MR Quinn,1,0,,,,,,"",""
+ball,2,4.5,Middlesex,MDE Holden,V Chopra,MR Quinn,1,0,,,,,,"",""
+ball,2,4.6,Middlesex,V Chopra,MDE Holden,MR Quinn,1,0,,,,,,"",""
+ball,2,5.1,Middlesex,V Chopra,MDE Holden,SM Sharif,1,0,,,,,,"",""
+ball,2,5.2,Middlesex,MDE Holden,V Chopra,SM Sharif,0,0,,,,,,"",""
+ball,2,5.3,Middlesex,MDE Holden,V Chopra,SM Sharif,0,0,,,,,,"",""
+ball,2,5.4,Middlesex,MDE Holden,V Chopra,SM Sharif,1,0,,,,,,"",""
+ball,2,5.5,Middlesex,V Chopra,MDE Holden,SM Sharif,0,1,,,,1,,"",""
+ball,2,5.6,Middlesex,MDE Holden,V Chopra,SM Sharif,1,0,,,,,,"",""
+ball,2,6.1,Middlesex,MDE Holden,V Chopra,EO Hooper,1,0,,,,,,"",""
+ball,2,6.2,Middlesex,V Chopra,MDE Holden,EO Hooper,0,0,,,,,,bowled,V Chopra
+ball,2,6.3,Middlesex,JA Simpson,MDE Holden,EO Hooper,1,0,,,,,,"",""
+ball,2,6.4,Middlesex,MDE Holden,JA Simpson,EO Hooper,1,0,,,,,,"",""
+ball,2,6.5,Middlesex,JA Simpson,MDE Holden,EO Hooper,0,0,,,,,,"",""
+ball,2,6.6,Middlesex,JA Simpson,MDE Holden,EO Hooper,0,1,1,,,,,"",""
+ball,2,6.7,Middlesex,JA Simpson,MDE Holden,EO Hooper,1,0,,,,,,"",""
+ball,2,7.1,Middlesex,JA Simpson,MDE Holden,HW Podmore,1,0,,,,,,"",""
+ball,2,7.2,Middlesex,MDE Holden,JA Simpson,HW Podmore,0,0,,,,,,"",""
+ball,2,7.3,Middlesex,MDE Holden,JA Simpson,HW Podmore,1,0,,,,,,"",""
+ball,2,7.4,Middlesex,JA Simpson,MDE Holden,HW Podmore,0,0,,,,,,caught,JA Simpson
+ball,2,7.5,Middlesex,NA Sowter,MDE Holden,HW Podmore,0,0,,,,,,"",""
+ball,2,7.6,Middlesex,NA Sowter,MDE Holden,HW Podmore,0,0,,,,,,"",""
+ball,2,8.1,Middlesex,MDE Holden,NA Sowter,MK O'Riordan,1,0,,,,,,"",""
+ball,2,8.2,Middlesex,NA Sowter,MDE Holden,MK O'Riordan,1,0,,,,,,"",""
+ball,2,8.3,Middlesex,MDE Holden,NA Sowter,MK O'Riordan,0,0,,,,,,caught,MDE Holden
+ball,2,8.4,Middlesex,NA Sowter,TG Helm,MK O'Riordan,1,0,,,,,,"",""
+ball,2,8.5,Middlesex,TG Helm,NA Sowter,MK O'Riordan,0,0,,,,,,"",""
+ball,2,8.6,Middlesex,TG Helm,NA Sowter,MK O'Riordan,1,0,,,,,,"",""
+ball,2,9.1,Middlesex,TG Helm,NA Sowter,EO Hooper,1,0,,,,,,"",""
+ball,2,9.2,Middlesex,NA Sowter,TG Helm,EO Hooper,0,0,,,,,,"",""
+ball,2,9.3,Middlesex,NA Sowter,TG Helm,EO Hooper,1,0,,,,,,"",""
+ball,2,9.4,Middlesex,TG Helm,NA Sowter,EO Hooper,1,0,,,,,,"",""
+ball,2,9.5,Middlesex,NA Sowter,TG Helm,EO Hooper,0,0,,,,,,bowled,NA Sowter
+ball,2,9.6,Middlesex,BC Cullen,TG Helm,EO Hooper,0,1,,,,1,,"",""
+ball,2,10.1,Middlesex,BC Cullen,TG Helm,MK O'Riordan,1,0,,,,,,"",""
+ball,2,10.2,Middlesex,TG Helm,BC Cullen,MK O'Riordan,0,0,,,,,,"",""
+ball,2,10.3,Middlesex,TG Helm,BC Cullen,MK O'Riordan,0,0,,,,,,"",""
+ball,2,10.4,Middlesex,TG Helm,BC Cullen,MK O'Riordan,1,0,,,,,,"",""
+ball,2,10.5,Middlesex,BC Cullen,TG Helm,MK O'Riordan,1,0,,,,,,"",""
+ball,2,10.6,Middlesex,TG Helm,BC Cullen,MK O'Riordan,1,0,,,,,,"",""
+ball,2,11.1,Middlesex,TG Helm,BC Cullen,HW Podmore,0,0,,,,,,"",""
+ball,2,11.2,Middlesex,TG Helm,BC Cullen,HW Podmore,1,0,,,,,,"",""
+ball,2,11.3,Middlesex,BC Cullen,TG Helm,HW Podmore,0,0,,,,,,"",""
+ball,2,11.4,Middlesex,BC Cullen,TG Helm,HW Podmore,1,0,,,,,,"",""
+ball,2,11.5,Middlesex,TG Helm,BC Cullen,HW Podmore,0,0,,,,,,"",""
+ball,2,11.6,Middlesex,TG Helm,BC Cullen,HW Podmore,2,0,,,,,,"",""
+ball,2,12.1,Middlesex,BC Cullen,TG Helm,MK O'Riordan,0,0,,,,,,"",""
+ball,2,12.2,Middlesex,BC Cullen,TG Helm,MK O'Riordan,2,0,,,,,,"",""
+ball,2,12.3,Middlesex,BC Cullen,TG Helm,MK O'Riordan,1,0,,,,,,"",""
+ball,2,12.4,Middlesex,TG Helm,BC Cullen,MK O'Riordan,1,0,,,,,,"",""
+ball,2,12.5,Middlesex,BC Cullen,TG Helm,MK O'Riordan,1,0,,,,,,"",""
+ball,2,12.6,Middlesex,TG Helm,BC Cullen,MK O'Riordan,1,0,,,,,,"",""
+ball,2,13.1,Middlesex,TG Helm,BC Cullen,EO Hooper,2,0,,,,,,"",""
+ball,2,13.2,Middlesex,TG Helm,BC Cullen,EO Hooper,0,0,,,,,,"",""
+ball,2,13.3,Middlesex,TG Helm,BC Cullen,EO Hooper,0,0,,,,,,caught,TG Helm
+ball,2,13.4,Middlesex,BC Cullen,ST Finn,EO Hooper,1,0,,,,,,"",""
+ball,2,13.5,Middlesex,ST Finn,BC Cullen,EO Hooper,1,0,,,,,,"",""
+ball,2,13.6,Middlesex,BC Cullen,ST Finn,EO Hooper,1,0,,,,,,"",""
+ball,2,14.1,Middlesex,BC Cullen,ST Finn,SM Sharif,0,0,,,,,,bowled,BC Cullen
+ball,2,14.2,Middlesex,Mujeeb Ur Rahman,ST Finn,SM Sharif,0,1,1,,,,,"",""
+ball,2,14.3,Middlesex,Mujeeb Ur Rahman,ST Finn,SM Sharif,1,0,,,,,,"",""
+ball,2,14.4,Middlesex,ST Finn,Mujeeb Ur Rahman,SM Sharif,1,0,,,,,,"",""
+ball,2,14.5,Middlesex,Mujeeb Ur Rahman,ST Finn,SM Sharif,1,0,,,,,,"",""
+ball,2,14.6,Middlesex,ST Finn,Mujeeb Ur Rahman,SM Sharif,0,0,,,,,,"",""
+ball,2,14.7,Middlesex,ST Finn,Mujeeb Ur Rahman,SM Sharif,0,0,,,,,,"",""
+ball,2,15.1,Middlesex,Mujeeb Ur Rahman,ST Finn,EO Hooper,0,0,,,,,,"",""
+ball,2,15.2,Middlesex,Mujeeb Ur Rahman,ST Finn,EO Hooper,2,0,,,,,,"",""
+ball,2,15.3,Middlesex,Mujeeb Ur Rahman,ST Finn,EO Hooper,6,0,,,,,,"",""
+ball,2,15.4,Middlesex,Mujeeb Ur Rahman,ST Finn,EO Hooper,1,0,,,,,,"",""
+ball,2,15.5,Middlesex,ST Finn,Mujeeb Ur Rahman,EO Hooper,0,0,,,,,,"",""
+ball,2,15.6,Middlesex,ST Finn,Mujeeb Ur Rahman,EO Hooper,2,0,,,,,,"",""
+ball,2,16.1,Middlesex,Mujeeb Ur Rahman,ST Finn,MR Quinn,2,0,,,,,,"",""
+ball,2,16.2,Middlesex,Mujeeb Ur Rahman,ST Finn,MR Quinn,0,0,,,,,,"",""
+ball,2,16.3,Middlesex,Mujeeb Ur Rahman,ST Finn,MR Quinn,0,0,,,,,,caught,Mujeeb Ur Rahman

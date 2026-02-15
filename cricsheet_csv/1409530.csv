@@ -1,0 +1,323 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Central Districts
+info,team,Auckland
+info,gender,female
+info,season,2023/24
+info,date,2024/01/16
+info,event,Women's Super Smash
+info,match_number,25
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Central Districts
+info,toss_decision,bat
+info,player_of_match,PA Chatterji
+info,umpire,Damian Morrow
+info,umpire,TJ Parlane
+info,reserve_umpire,BA O'Brien
+info,tv_umpire,BF Bowden
+info,match_referee,SRM Morris
+info,winner,Central Districts
+info,winner_runs,18
+info,player,Central Districts,HJ Armitage
+info,player,Central Districts,GK Atkinson
+info,player,Central Districts,TMM Newton
+info,player,Central Districts,HM Rowe
+info,player,Central Districts,MJ Greig
+info,player,Central Districts,RA Mair
+info,player,Central Districts,FDM Devonshire
+info,player,Central Districts,KJ Gaging
+info,player,Central Districts,PA Chatterji
+info,player,Central Districts,CL Green
+info,player,Central Districts,Ashtuti Kumar
+info,player,Auckland,S Shahri
+info,player,Auckland,IC Gaze
+info,player,Auckland,ML Green
+info,player,Auckland,P Catton
+info,player,Auckland,BM Halliday
+info,player,Auckland,AS Browning
+info,player,Auckland,JO Penfold
+info,player,Auckland,MM Penfold
+info,player,Auckland,AT Hucker
+info,player,Auckland,FC Jonas
+info,player,Auckland,BG Illing
+info,registry,people,AS Browning,c4c97b51
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,Ashtuti Kumar,8aa62462
+info,registry,people,BA O'Brien,d7fe80b4
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Illing,80a0cd77
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CL Green,0160b1d9
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,FDM Devonshire,c8b0b64c
+info,registry,people,GK Atkinson,add6bd03
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JO Penfold,321ea9e8
+info,registry,people,KJ Gaging,7a759a8a
+info,registry,people,MJ Greig,84c422e3
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,P Catton,22e8ba50
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,S Shahri,c28355cd
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TMM Newton,93fe473e
+ball,1,0.1,Central Districts,HJ Armitage,GK Atkinson,BG Illing,0,0,,,,,,"",""
+ball,1,0.2,Central Districts,HJ Armitage,GK Atkinson,BG Illing,4,0,,,,,,"",""
+ball,1,0.3,Central Districts,HJ Armitage,GK Atkinson,BG Illing,0,0,,,,,,"",""
+ball,1,0.4,Central Districts,HJ Armitage,GK Atkinson,BG Illing,1,0,,,,,,"",""
+ball,1,0.5,Central Districts,GK Atkinson,HJ Armitage,BG Illing,0,1,1,,,,,"",""
+ball,1,0.6,Central Districts,GK Atkinson,HJ Armitage,BG Illing,1,0,,,,,,"",""
+ball,1,0.7,Central Districts,HJ Armitage,GK Atkinson,BG Illing,0,0,,,,,,"",""
+ball,1,1.1,Central Districts,GK Atkinson,HJ Armitage,MM Penfold,4,0,,,,,,"",""
+ball,1,1.2,Central Districts,GK Atkinson,HJ Armitage,MM Penfold,4,0,,,,,,"",""
+ball,1,1.3,Central Districts,GK Atkinson,HJ Armitage,MM Penfold,1,0,,,,,,"",""
+ball,1,1.4,Central Districts,HJ Armitage,GK Atkinson,MM Penfold,0,0,,,,,,"",""
+ball,1,1.5,Central Districts,HJ Armitage,GK Atkinson,MM Penfold,4,0,,,,,,"",""
+ball,1,1.6,Central Districts,HJ Armitage,GK Atkinson,MM Penfold,0,0,,,,,,"",""
+ball,1,2.1,Central Districts,GK Atkinson,HJ Armitage,BG Illing,1,0,,,,,,"",""
+ball,1,2.2,Central Districts,HJ Armitage,GK Atkinson,BG Illing,0,0,,,,,,"",""
+ball,1,2.3,Central Districts,HJ Armitage,GK Atkinson,BG Illing,0,0,,,,,,"",""
+ball,1,2.4,Central Districts,HJ Armitage,GK Atkinson,BG Illing,2,0,,,,,,"",""
+ball,1,2.5,Central Districts,HJ Armitage,GK Atkinson,BG Illing,0,0,,,,,,"",""
+ball,1,2.6,Central Districts,HJ Armitage,GK Atkinson,BG Illing,4,0,,,,,,"",""
+ball,1,3.1,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,0,0,,,,,,"",""
+ball,1,3.2,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,1,0,,,,,,"",""
+ball,1,3.3,Central Districts,HJ Armitage,GK Atkinson,FC Jonas,0,0,,,,,,"",""
+ball,1,3.4,Central Districts,HJ Armitage,GK Atkinson,FC Jonas,1,0,,,,,,"",""
+ball,1,3.5,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,1,0,,,,,,"",""
+ball,1,3.6,Central Districts,HJ Armitage,GK Atkinson,FC Jonas,0,0,,,,,,"",""
+ball,1,4.1,Central Districts,GK Atkinson,HJ Armitage,MM Penfold,0,0,,,,,,"",""
+ball,1,4.2,Central Districts,GK Atkinson,HJ Armitage,MM Penfold,2,0,,,,,,"",""
+ball,1,4.3,Central Districts,GK Atkinson,HJ Armitage,MM Penfold,1,0,,,,,,"",""
+ball,1,4.4,Central Districts,HJ Armitage,GK Atkinson,MM Penfold,0,1,1,,,,,"",""
+ball,1,4.5,Central Districts,HJ Armitage,GK Atkinson,MM Penfold,0,0,,,,,,"",""
+ball,1,4.6,Central Districts,HJ Armitage,GK Atkinson,MM Penfold,0,0,,,,,,"",""
+ball,1,4.7,Central Districts,HJ Armitage,GK Atkinson,MM Penfold,0,0,,,,,,"",""
+ball,1,5.1,Central Districts,GK Atkinson,HJ Armitage,AT Hucker,0,1,1,,,,,"",""
+ball,1,5.2,Central Districts,GK Atkinson,HJ Armitage,AT Hucker,1,0,,,,,,"",""
+ball,1,5.3,Central Districts,HJ Armitage,GK Atkinson,AT Hucker,1,0,,,,,,"",""
+ball,1,5.4,Central Districts,GK Atkinson,HJ Armitage,AT Hucker,4,0,,,,,,"",""
+ball,1,5.5,Central Districts,GK Atkinson,HJ Armitage,AT Hucker,4,0,,,,,,"",""
+ball,1,5.6,Central Districts,GK Atkinson,HJ Armitage,AT Hucker,0,0,,,,,,"",""
+ball,1,5.7,Central Districts,GK Atkinson,HJ Armitage,AT Hucker,0,0,,,,,,"",""
+ball,1,6.1,Central Districts,HJ Armitage,GK Atkinson,AS Browning,1,0,,,,,,"",""
+ball,1,6.2,Central Districts,GK Atkinson,HJ Armitage,AS Browning,0,0,,,,,,"",""
+ball,1,6.3,Central Districts,GK Atkinson,HJ Armitage,AS Browning,0,0,,,,,,"",""
+ball,1,6.4,Central Districts,GK Atkinson,HJ Armitage,AS Browning,1,0,,,,,,"",""
+ball,1,6.5,Central Districts,HJ Armitage,GK Atkinson,AS Browning,1,0,,,,,,"",""
+ball,1,6.6,Central Districts,GK Atkinson,HJ Armitage,AS Browning,1,0,,,,,,"",""
+ball,1,7.1,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,0,0,,,,,,"",""
+ball,1,7.2,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,0,0,,,,,,"",""
+ball,1,7.3,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,0,0,,,,,,"",""
+ball,1,7.4,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,1,0,,,,,,"",""
+ball,1,7.5,Central Districts,HJ Armitage,GK Atkinson,FC Jonas,2,0,,,,,,"",""
+ball,1,7.6,Central Districts,HJ Armitage,GK Atkinson,FC Jonas,0,0,,,,,,"",""
+ball,1,8.1,Central Districts,GK Atkinson,HJ Armitage,AS Browning,1,0,,,,,,"",""
+ball,1,8.2,Central Districts,HJ Armitage,GK Atkinson,AS Browning,1,0,,,,,,"",""
+ball,1,8.3,Central Districts,GK Atkinson,HJ Armitage,AS Browning,1,0,,,,,,"",""
+ball,1,8.4,Central Districts,HJ Armitage,GK Atkinson,AS Browning,0,0,,,,,,"",""
+ball,1,8.5,Central Districts,HJ Armitage,GK Atkinson,AS Browning,4,0,,,,,,"",""
+ball,1,8.6,Central Districts,HJ Armitage,GK Atkinson,AS Browning,2,0,,,,,,"",""
+ball,1,9.1,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,1,0,,,,,,"",""
+ball,1,9.2,Central Districts,HJ Armitage,GK Atkinson,FC Jonas,1,0,,,,,,"",""
+ball,1,9.3,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,4,0,,,,,,"",""
+ball,1,9.4,Central Districts,GK Atkinson,HJ Armitage,FC Jonas,1,0,,,,,,"",""
+ball,1,9.5,Central Districts,HJ Armitage,GK Atkinson,FC Jonas,4,0,,,,,,"",""
+ball,1,9.6,Central Districts,HJ Armitage,GK Atkinson,FC Jonas,1,0,,,,,,"",""
+ball,1,10.1,Central Districts,HJ Armitage,GK Atkinson,BG Illing,2,0,,,,,,"",""
+ball,1,10.2,Central Districts,HJ Armitage,GK Atkinson,BG Illing,1,0,,,,,,"",""
+ball,1,10.3,Central Districts,GK Atkinson,HJ Armitage,BG Illing,4,0,,,,,,"",""
+ball,1,10.4,Central Districts,GK Atkinson,HJ Armitage,BG Illing,0,0,,,,,,"",""
+ball,1,10.5,Central Districts,GK Atkinson,HJ Armitage,BG Illing,1,0,,,,,,"",""
+ball,1,10.6,Central Districts,HJ Armitage,GK Atkinson,BG Illing,0,1,1,,,,,"",""
+ball,1,10.7,Central Districts,HJ Armitage,GK Atkinson,BG Illing,1,0,,,,,,"",""
+ball,1,11.1,Central Districts,HJ Armitage,GK Atkinson,JO Penfold,0,0,,,,,,caught,HJ Armitage
+ball,1,11.2,Central Districts,TMM Newton,GK Atkinson,JO Penfold,0,0,,,,,,"",""
+ball,1,11.3,Central Districts,TMM Newton,GK Atkinson,JO Penfold,1,0,,,,,,"",""
+ball,1,11.4,Central Districts,GK Atkinson,TMM Newton,JO Penfold,0,0,,,,,,"",""
+ball,1,11.5,Central Districts,GK Atkinson,TMM Newton,JO Penfold,0,0,,,,,,"",""
+ball,1,11.6,Central Districts,GK Atkinson,TMM Newton,JO Penfold,1,0,,,,,,"",""
+ball,1,12.1,Central Districts,GK Atkinson,TMM Newton,MM Penfold,0,0,,,,,,caught,GK Atkinson
+ball,1,12.2,Central Districts,HM Rowe,TMM Newton,MM Penfold,0,0,,,,,,"",""
+ball,1,12.3,Central Districts,HM Rowe,TMM Newton,MM Penfold,0,0,,,,,,"",""
+ball,1,12.4,Central Districts,HM Rowe,TMM Newton,MM Penfold,0,0,,,,,,caught,HM Rowe
+ball,1,12.5,Central Districts,MJ Greig,TMM Newton,MM Penfold,0,0,,,,,,"",""
+ball,1,12.6,Central Districts,MJ Greig,TMM Newton,MM Penfold,0,0,,,,,,"",""
+ball,1,13.1,Central Districts,TMM Newton,MJ Greig,JO Penfold,1,0,,,,,,"",""
+ball,1,13.2,Central Districts,MJ Greig,TMM Newton,JO Penfold,0,0,,,,,,"",""
+ball,1,13.3,Central Districts,MJ Greig,TMM Newton,JO Penfold,0,0,,,,,,"",""
+ball,1,13.4,Central Districts,MJ Greig,TMM Newton,JO Penfold,2,0,,,,,,"",""
+ball,1,13.5,Central Districts,MJ Greig,TMM Newton,JO Penfold,0,0,,,,,,"",""
+ball,1,13.6,Central Districts,MJ Greig,TMM Newton,JO Penfold,0,0,,,,,,"",""
+ball,1,14.1,Central Districts,TMM Newton,MJ Greig,MM Penfold,0,0,,,,,,"",""
+ball,1,14.2,Central Districts,TMM Newton,MJ Greig,MM Penfold,1,0,,,,,,"",""
+ball,1,14.3,Central Districts,MJ Greig,TMM Newton,MM Penfold,1,0,,,,,,"",""
+ball,1,14.4,Central Districts,TMM Newton,MJ Greig,MM Penfold,1,0,,,,,,"",""
+ball,1,14.5,Central Districts,MJ Greig,TMM Newton,MM Penfold,4,0,,,,,,"",""
+ball,1,14.6,Central Districts,MJ Greig,TMM Newton,MM Penfold,2,0,,,,,,"",""
+ball,1,15.1,Central Districts,TMM Newton,MJ Greig,JO Penfold,2,0,,,,,,"",""
+ball,1,15.2,Central Districts,TMM Newton,MJ Greig,JO Penfold,4,0,,,,,,"",""
+ball,1,15.3,Central Districts,TMM Newton,MJ Greig,JO Penfold,0,1,1,,,,,"",""
+ball,1,15.4,Central Districts,TMM Newton,MJ Greig,JO Penfold,1,0,,,,,,"",""
+ball,1,15.5,Central Districts,MJ Greig,TMM Newton,JO Penfold,1,0,,,,,,"",""
+ball,1,15.6,Central Districts,TMM Newton,MJ Greig,JO Penfold,0,0,,,,,,"",""
+ball,1,15.7,Central Districts,TMM Newton,MJ Greig,JO Penfold,0,0,,,,,,"",""
+ball,1,16.1,Central Districts,MJ Greig,TMM Newton,AT Hucker,1,0,,,,,,"",""
+ball,1,16.2,Central Districts,TMM Newton,MJ Greig,AT Hucker,0,1,1,,,,,"",""
+ball,1,16.3,Central Districts,TMM Newton,MJ Greig,AT Hucker,2,0,,,,,,"",""
+ball,1,16.4,Central Districts,TMM Newton,MJ Greig,AT Hucker,4,0,,,,,,"",""
+ball,1,16.5,Central Districts,TMM Newton,MJ Greig,AT Hucker,0,0,,,,,,"",""
+ball,1,16.6,Central Districts,TMM Newton,MJ Greig,AT Hucker,2,0,,,,,,"",""
+ball,1,16.7,Central Districts,TMM Newton,MJ Greig,AT Hucker,0,0,,,,,,lbw,TMM Newton
+ball,1,17.1,Central Districts,MJ Greig,RA Mair,FC Jonas,1,0,,,,,,"",""
+ball,1,17.2,Central Districts,RA Mair,MJ Greig,FC Jonas,1,0,,,,,,"",""
+ball,1,17.3,Central Districts,MJ Greig,RA Mair,FC Jonas,0,0,,,,,,"",""
+ball,1,17.4,Central Districts,MJ Greig,RA Mair,FC Jonas,0,0,,,,,,"",""
+ball,1,17.5,Central Districts,MJ Greig,RA Mair,FC Jonas,1,0,,,,,,"",""
+ball,1,17.6,Central Districts,RA Mair,MJ Greig,FC Jonas,2,0,,,,,,"",""
+ball,1,18.1,Central Districts,MJ Greig,RA Mair,AT Hucker,0,1,1,,,,,"",""
+ball,1,18.2,Central Districts,MJ Greig,RA Mair,AT Hucker,0,0,,,,,,"",""
+ball,1,18.3,Central Districts,MJ Greig,RA Mair,AT Hucker,1,0,,,,,,"",""
+ball,1,18.4,Central Districts,RA Mair,MJ Greig,AT Hucker,1,0,,,,,,"",""
+ball,1,18.5,Central Districts,MJ Greig,RA Mair,AT Hucker,4,0,,,,,,"",""
+ball,1,18.6,Central Districts,MJ Greig,RA Mair,AT Hucker,1,0,,,,,,"",""
+ball,1,18.7,Central Districts,RA Mair,MJ Greig,AT Hucker,4,0,,,,,,"",""
+ball,1,19.1,Central Districts,MJ Greig,RA Mair,BG Illing,4,0,,,,,,"",""
+ball,1,19.2,Central Districts,MJ Greig,RA Mair,BG Illing,0,0,,,,,,caught,MJ Greig
+ball,1,19.3,Central Districts,FDM Devonshire,RA Mair,BG Illing,1,0,,,,,,"",""
+ball,1,19.4,Central Districts,RA Mair,FDM Devonshire,BG Illing,4,0,,,,,,"",""
+ball,1,19.5,Central Districts,RA Mair,FDM Devonshire,BG Illing,2,0,,,,,,"",""
+ball,1,19.6,Central Districts,RA Mair,FDM Devonshire,BG Illing,2,0,,,,,,"",""
+ball,2,0.1,Auckland,S Shahri,IC Gaze,CL Green,0,1,1,,,,,"",""
+ball,2,0.2,Auckland,S Shahri,IC Gaze,CL Green,1,0,,,,,,"",""
+ball,2,0.3,Auckland,IC Gaze,S Shahri,CL Green,0,0,,,,,,"",""
+ball,2,0.4,Auckland,IC Gaze,S Shahri,CL Green,4,0,,,,,,"",""
+ball,2,0.5,Auckland,IC Gaze,S Shahri,CL Green,0,0,,,,,,caught,IC Gaze
+ball,2,0.6,Auckland,ML Green,S Shahri,CL Green,0,1,,,,1,,"",""
+ball,2,0.7,Auckland,S Shahri,ML Green,CL Green,0,0,,,,,,"",""
+ball,2,1.1,Auckland,ML Green,S Shahri,HM Rowe,0,0,,,,,,"",""
+ball,2,1.2,Auckland,ML Green,S Shahri,HM Rowe,0,0,,,,,,"",""
+ball,2,1.3,Auckland,ML Green,S Shahri,HM Rowe,1,0,,,,,,"",""
+ball,2,1.4,Auckland,S Shahri,ML Green,HM Rowe,0,1,1,,,,,"",""
+ball,2,1.5,Auckland,S Shahri,ML Green,HM Rowe,6,0,,,,,,"",""
+ball,2,1.6,Auckland,S Shahri,ML Green,HM Rowe,0,0,,,,,,"",""
+ball,2,1.7,Auckland,S Shahri,ML Green,HM Rowe,4,0,,,,,,"",""
+ball,2,2.1,Auckland,ML Green,S Shahri,CL Green,0,0,,,,,,"",""
+ball,2,2.2,Auckland,ML Green,S Shahri,CL Green,4,0,,,,,,"",""
+ball,2,2.3,Auckland,ML Green,S Shahri,CL Green,0,0,,,,,,"",""
+ball,2,2.4,Auckland,ML Green,S Shahri,CL Green,1,0,,,,,,"",""
+ball,2,2.5,Auckland,S Shahri,ML Green,CL Green,0,0,,,,,,"",""
+ball,2,2.6,Auckland,S Shahri,ML Green,CL Green,2,0,,,,,,"",""
+ball,2,3.1,Auckland,ML Green,S Shahri,RA Mair,0,0,,,,,,"",""
+ball,2,3.2,Auckland,ML Green,S Shahri,RA Mair,0,0,,,,,,"",""
+ball,2,3.3,Auckland,ML Green,S Shahri,RA Mair,0,0,,,,,,"",""
+ball,2,3.4,Auckland,ML Green,S Shahri,RA Mair,0,1,,,,1,,"",""
+ball,2,3.5,Auckland,S Shahri,ML Green,RA Mair,1,0,,,,,,"",""
+ball,2,3.6,Auckland,ML Green,S Shahri,RA Mair,0,0,,,,,,"",""
+ball,2,4.1,Auckland,S Shahri,ML Green,CL Green,4,0,,,,,,"",""
+ball,2,4.2,Auckland,S Shahri,ML Green,CL Green,0,0,,,,,,"",""
+ball,2,4.3,Auckland,S Shahri,ML Green,CL Green,0,0,,,,,,"",""
+ball,2,4.4,Auckland,S Shahri,ML Green,CL Green,2,0,,,,,,"",""
+ball,2,4.5,Auckland,S Shahri,ML Green,CL Green,1,0,,,,,,"",""
+ball,2,4.6,Auckland,ML Green,S Shahri,CL Green,1,0,,,,,,"",""
+ball,2,5.1,Auckland,ML Green,S Shahri,RA Mair,0,0,,,,,,"",""
+ball,2,5.2,Auckland,ML Green,S Shahri,RA Mair,1,0,,,,,,"",""
+ball,2,5.3,Auckland,S Shahri,ML Green,RA Mair,0,1,1,,,,,"",""
+ball,2,5.4,Auckland,S Shahri,ML Green,RA Mair,4,0,,,,,,"",""
+ball,2,5.5,Auckland,S Shahri,ML Green,RA Mair,0,0,,,,,,"",""
+ball,2,5.6,Auckland,S Shahri,ML Green,RA Mair,2,0,,,,,,"",""
+ball,2,5.7,Auckland,S Shahri,ML Green,RA Mair,0,1,1,,,,,"",""
+ball,2,5.8,Auckland,S Shahri,ML Green,RA Mair,0,0,,,,,,"",""
+ball,2,6.1,Auckland,ML Green,S Shahri,FDM Devonshire,1,0,,,,,,"",""
+ball,2,6.2,Auckland,S Shahri,ML Green,FDM Devonshire,0,0,,,,,,"",""
+ball,2,6.3,Auckland,S Shahri,ML Green,FDM Devonshire,4,0,,,,,,"",""
+ball,2,6.4,Auckland,S Shahri,ML Green,FDM Devonshire,0,0,,,,,,"",""
+ball,2,6.5,Auckland,S Shahri,ML Green,FDM Devonshire,0,1,1,,,,,"",""
+ball,2,6.6,Auckland,S Shahri,ML Green,FDM Devonshire,0,0,,,,,,"",""
+ball,2,6.7,Auckland,S Shahri,ML Green,FDM Devonshire,0,0,,,,,,"",""
+ball,2,7.1,Auckland,ML Green,S Shahri,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,7.2,Auckland,S Shahri,ML Green,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,7.3,Auckland,ML Green,S Shahri,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,7.4,Auckland,S Shahri,ML Green,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,7.5,Auckland,ML Green,S Shahri,Ashtuti Kumar,2,0,,,,,,"",""
+ball,2,7.6,Auckland,ML Green,S Shahri,Ashtuti Kumar,0,0,,,,,,"",""
+ball,2,8.1,Auckland,S Shahri,ML Green,PA Chatterji,0,0,,,,,,"",""
+ball,2,8.2,Auckland,S Shahri,ML Green,PA Chatterji,0,0,,,,,,caught,S Shahri
+ball,2,8.3,Auckland,P Catton,ML Green,PA Chatterji,2,0,,,,,,"",""
+ball,2,8.4,Auckland,P Catton,ML Green,PA Chatterji,0,0,,,,,,"",""
+ball,2,8.5,Auckland,P Catton,ML Green,PA Chatterji,0,0,,,,,,"",""
+ball,2,8.6,Auckland,P Catton,ML Green,PA Chatterji,0,0,,,,,,bowled,P Catton
+ball,2,9.1,Auckland,ML Green,BM Halliday,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,9.2,Auckland,BM Halliday,ML Green,Ashtuti Kumar,0,0,,,,,,"",""
+ball,2,9.3,Auckland,BM Halliday,ML Green,Ashtuti Kumar,0,0,,,,,,"",""
+ball,2,9.4,Auckland,BM Halliday,ML Green,Ashtuti Kumar,0,0,,,,,,"",""
+ball,2,9.5,Auckland,BM Halliday,ML Green,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,9.6,Auckland,ML Green,BM Halliday,Ashtuti Kumar,0,0,,,,,,"",""
+ball,2,10.1,Auckland,BM Halliday,ML Green,PA Chatterji,0,0,,,,,,"",""
+ball,2,10.2,Auckland,BM Halliday,ML Green,PA Chatterji,1,0,,,,,,"",""
+ball,2,10.3,Auckland,ML Green,BM Halliday,PA Chatterji,0,0,,,,,,"",""
+ball,2,10.4,Auckland,ML Green,BM Halliday,PA Chatterji,1,0,,,,,,"",""
+ball,2,10.5,Auckland,BM Halliday,ML Green,PA Chatterji,2,0,,,,,,"",""
+ball,2,10.6,Auckland,BM Halliday,ML Green,PA Chatterji,0,0,,,,,,"",""
+ball,2,11.1,Auckland,ML Green,BM Halliday,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,11.2,Auckland,BM Halliday,ML Green,Ashtuti Kumar,0,0,,,,,,"",""
+ball,2,11.3,Auckland,BM Halliday,ML Green,Ashtuti Kumar,2,0,,,,,,"",""
+ball,2,11.4,Auckland,BM Halliday,ML Green,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,11.5,Auckland,ML Green,BM Halliday,Ashtuti Kumar,0,0,,,,,,"",""
+ball,2,11.6,Auckland,ML Green,BM Halliday,Ashtuti Kumar,2,0,,,,,,"",""
+ball,2,12.1,Auckland,BM Halliday,ML Green,PA Chatterji,1,0,,,,,,"",""
+ball,2,12.2,Auckland,ML Green,BM Halliday,PA Chatterji,1,0,,,,,,"",""
+ball,2,12.3,Auckland,BM Halliday,ML Green,PA Chatterji,0,0,,,,,,"",""
+ball,2,12.4,Auckland,BM Halliday,ML Green,PA Chatterji,0,0,,,,,,"",""
+ball,2,12.5,Auckland,BM Halliday,ML Green,PA Chatterji,1,0,,,,,,"",""
+ball,2,12.6,Auckland,ML Green,BM Halliday,PA Chatterji,4,0,,,,,,"",""
+ball,2,13.1,Auckland,BM Halliday,ML Green,HM Rowe,1,0,,,,,,"",""
+ball,2,13.2,Auckland,ML Green,BM Halliday,HM Rowe,4,0,,,,,,"",""
+ball,2,13.3,Auckland,ML Green,BM Halliday,HM Rowe,2,0,,,,,,"",""
+ball,2,13.4,Auckland,ML Green,BM Halliday,HM Rowe,0,0,,,,,,"",""
+ball,2,13.5,Auckland,ML Green,BM Halliday,HM Rowe,1,0,,,,,,"",""
+ball,2,13.6,Auckland,BM Halliday,ML Green,HM Rowe,1,0,,,,,,"",""
+ball,2,14.1,Auckland,BM Halliday,ML Green,CL Green,0,0,,,,,,"",""
+ball,2,14.2,Auckland,BM Halliday,ML Green,CL Green,1,0,,,,,,"",""
+ball,2,14.3,Auckland,ML Green,BM Halliday,CL Green,0,0,,,,,,"",""
+ball,2,14.4,Auckland,ML Green,BM Halliday,CL Green,1,0,,,,,,"",""
+ball,2,14.5,Auckland,BM Halliday,ML Green,CL Green,0,1,1,,,,,"",""
+ball,2,14.6,Auckland,BM Halliday,ML Green,CL Green,1,0,,,,,,"",""
+ball,2,14.7,Auckland,ML Green,BM Halliday,CL Green,1,0,,,,,,"",""
+ball,2,15.1,Auckland,ML Green,BM Halliday,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,15.2,Auckland,BM Halliday,ML Green,Ashtuti Kumar,1,0,,,,,,"",""
+ball,2,15.3,Auckland,ML Green,BM Halliday,Ashtuti Kumar,0,0,,,,,,"",""
+ball,2,15.4,Auckland,ML Green,BM Halliday,Ashtuti Kumar,2,0,,,,,,"",""
+ball,2,15.5,Auckland,ML Green,BM Halliday,Ashtuti Kumar,0,0,,,,,,"",""
+ball,2,15.6,Auckland,ML Green,BM Halliday,Ashtuti Kumar,2,0,,,,,,"",""
+ball,2,16.1,Auckland,BM Halliday,ML Green,RA Mair,1,0,,,,,,"",""
+ball,2,16.2,Auckland,ML Green,BM Halliday,RA Mair,0,0,,,,,,caught,ML Green
+ball,2,16.3,Auckland,AS Browning,BM Halliday,RA Mair,1,0,,,,,,"",""
+ball,2,16.4,Auckland,BM Halliday,AS Browning,RA Mair,0,0,,,,,,caught,BM Halliday
+ball,2,16.5,Auckland,JO Penfold,AS Browning,RA Mair,1,0,,,,,,"",""
+ball,2,16.6,Auckland,AS Browning,JO Penfold,RA Mair,1,0,,,,,,"",""
+ball,2,17.1,Auckland,AS Browning,JO Penfold,HM Rowe,0,0,,,,,,"",""
+ball,2,17.2,Auckland,AS Browning,JO Penfold,HM Rowe,2,0,,,,,,"",""
+ball,2,17.3,Auckland,AS Browning,JO Penfold,HM Rowe,4,0,,,,,,"",""
+ball,2,17.4,Auckland,AS Browning,JO Penfold,HM Rowe,0,1,,,,1,,"",""
+ball,2,17.5,Auckland,JO Penfold,AS Browning,HM Rowe,0,0,,,,,,"",""
+ball,2,17.6,Auckland,JO Penfold,AS Browning,HM Rowe,0,0,,,,,,run out,AS Browning
+ball,2,18.1,Auckland,JO Penfold,MM Penfold,RA Mair,4,0,,,,,,"",""
+ball,2,18.2,Auckland,JO Penfold,MM Penfold,RA Mair,4,0,,,,,,"",""
+ball,2,18.3,Auckland,JO Penfold,MM Penfold,RA Mair,3,0,,,,,,"",""
+ball,2,18.4,Auckland,MM Penfold,JO Penfold,RA Mair,4,0,,,,,,"",""
+ball,2,18.5,Auckland,MM Penfold,JO Penfold,RA Mair,2,0,,,,,,"",""
+ball,2,18.6,Auckland,MM Penfold,JO Penfold,RA Mair,0,0,,,,,,"",""
+ball,2,19.1,Auckland,JO Penfold,MM Penfold,HM Rowe,0,0,,,,,,caught,JO Penfold
+ball,2,19.2,Auckland,AT Hucker,MM Penfold,HM Rowe,2,0,,,,,,"",""
+ball,2,19.3,Auckland,AT Hucker,MM Penfold,HM Rowe,0,0,,,,,,"",""
+ball,2,19.4,Auckland,AT Hucker,MM Penfold,HM Rowe,0,0,,,,,,"",""
+ball,2,19.5,Auckland,AT Hucker,MM Penfold,HM Rowe,0,0,,,,,,bowled,AT Hucker
+ball,2,19.6,Auckland,FC Jonas,MM Penfold,HM Rowe,0,0,,,,,,"",""

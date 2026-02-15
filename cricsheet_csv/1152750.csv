@@ -1,0 +1,316 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Melbourne Stars
+info,gender,female
+info,season,2018/19
+info,date,2018/12/23
+info,event,Women's Big Bash League
+info,match_number,26
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,SFM Devine
+info,umpire,CA Polosak
+info,umpire,Eloise Sheridan
+info,match_referee,John Biddiss
+info,winner,Adelaide Strikers
+info,winner_runs,19
+info,player,Adelaide Strikers,SW Bates
+info,player,Adelaide Strikers,SFM Devine
+info,player,Adelaide Strikers,TM McGrath
+info,player,Adelaide Strikers,BE Patterson
+info,player,Adelaide Strikers,ML Schutt
+info,player,Adelaide Strikers,TJ McPharlin
+info,player,Adelaide Strikers,T Saville
+info,player,Adelaide Strikers,D Hazell
+info,player,Adelaide Strikers,SJ Coyte
+info,player,Adelaide Strikers,A Price
+info,player,Adelaide Strikers,A Wellington
+info,player,Melbourne Stars,L Lee
+info,player,Melbourne Stars,AR Reakes
+info,player,Melbourne Stars,M du Preez
+info,player,Melbourne Stars,EA Osborne
+info,player,Melbourne Stars,KM Mack
+info,player,Melbourne Stars,GA Elwiss
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,A King
+info,player,Melbourne Stars,NM Hancock
+info,player,Melbourne Stars,HL Ferling
+info,player,Melbourne Stars,N Faltum
+info,registry,people,A King,83558266
+info,registry,people,A Price,99e26cea
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AR Reakes,13781d43
+info,registry,people,BE Patterson,7dfbcfff
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,D Hazell,ea8b65ab
+info,registry,people,EA Osborne,fe731c62
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,HL Ferling,a594a6e0
+info,registry,people,John Biddiss,4e30c72a
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,L Lee,7b01ce83
+info,registry,people,M du Preez,e219f17a
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,N Faltum,9a56c670
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SJ Coyte,a5f488bc
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,T Saville,2ef9bdcb
+info,registry,people,TJ McPharlin,595e1ee7
+info,registry,people,TM McGrath,ca5acfa4
+ball,1,0.1,Adelaide Strikers,SW Bates,SFM Devine,A Sutherland,0,1,1,,,,,"",""
+ball,1,0.2,Adelaide Strikers,SW Bates,SFM Devine,A Sutherland,4,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,SW Bates,SFM Devine,A Sutherland,0,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,SW Bates,SFM Devine,A Sutherland,0,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,SW Bates,SFM Devine,A Sutherland,1,0,,,,,,"",""
+ball,1,0.6,Adelaide Strikers,SFM Devine,SW Bates,A Sutherland,0,0,,,,,,"",""
+ball,1,0.7,Adelaide Strikers,SFM Devine,SW Bates,A Sutherland,0,1,1,,,,,"",""
+ball,1,0.8,Adelaide Strikers,SFM Devine,SW Bates,A Sutherland,0,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,SW Bates,SFM Devine,HL Ferling,1,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,SFM Devine,SW Bates,HL Ferling,4,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,SFM Devine,SW Bates,HL Ferling,4,0,,,,,,"",""
+ball,1,1.4,Adelaide Strikers,SFM Devine,SW Bates,HL Ferling,1,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,SW Bates,SFM Devine,HL Ferling,0,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,SW Bates,SFM Devine,HL Ferling,0,1,1,,,,,"",""
+ball,1,1.7,Adelaide Strikers,SW Bates,SFM Devine,HL Ferling,0,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,SFM Devine,SW Bates,A Sutherland,0,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,SFM Devine,SW Bates,A Sutherland,1,0,,,,,,"",""
+ball,1,2.3,Adelaide Strikers,SW Bates,SFM Devine,A Sutherland,1,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,SFM Devine,SW Bates,A Sutherland,0,0,,,,,,"",""
+ball,1,2.5,Adelaide Strikers,SFM Devine,SW Bates,A Sutherland,0,1,1,,,,,"",""
+ball,1,2.6,Adelaide Strikers,SFM Devine,SW Bates,A Sutherland,1,0,,,,,,"",""
+ball,1,2.7,Adelaide Strikers,SW Bates,SFM Devine,A Sutherland,1,0,,,,,,"",""
+ball,1,3.1,Adelaide Strikers,SW Bates,SFM Devine,EA Osborne,0,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,SW Bates,SFM Devine,EA Osborne,4,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,SW Bates,SFM Devine,EA Osborne,0,0,,,,,,caught,SW Bates
+ball,1,3.4,Adelaide Strikers,SFM Devine,TM McGrath,EA Osborne,2,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,SFM Devine,TM McGrath,EA Osborne,0,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,SFM Devine,TM McGrath,EA Osborne,1,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,SFM Devine,TM McGrath,A Sutherland,0,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,SFM Devine,TM McGrath,A Sutherland,1,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,TM McGrath,SFM Devine,A Sutherland,0,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,TM McGrath,SFM Devine,A Sutherland,0,0,,,,,,caught,TM McGrath
+ball,1,4.5,Adelaide Strikers,BE Patterson,SFM Devine,A Sutherland,2,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,BE Patterson,SFM Devine,A Sutherland,0,1,1,,,,,"",""
+ball,1,4.7,Adelaide Strikers,BE Patterson,SFM Devine,A Sutherland,1,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,0,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,2,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,0,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,1,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,SFM Devine,BE Patterson,EA Osborne,6,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,SFM Devine,BE Patterson,EA Osborne,1,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,SFM Devine,BE Patterson,A King,1,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,BE Patterson,SFM Devine,A King,1,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,SFM Devine,BE Patterson,A King,2,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,SFM Devine,BE Patterson,A King,0,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,SFM Devine,BE Patterson,A King,2,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,SFM Devine,BE Patterson,A King,0,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,BE Patterson,SFM Devine,HL Ferling,0,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,BE Patterson,SFM Devine,HL Ferling,0,0,,,,,,"",""
+ball,1,7.3,Adelaide Strikers,BE Patterson,SFM Devine,HL Ferling,2,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,BE Patterson,SFM Devine,HL Ferling,0,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,BE Patterson,SFM Devine,HL Ferling,2,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,BE Patterson,SFM Devine,HL Ferling,0,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,SFM Devine,BE Patterson,A King,1,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,BE Patterson,SFM Devine,A King,1,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,SFM Devine,BE Patterson,A King,2,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,SFM Devine,BE Patterson,A King,1,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,BE Patterson,SFM Devine,A King,1,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,SFM Devine,BE Patterson,A King,1,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,SFM Devine,BE Patterson,HL Ferling,4,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,SFM Devine,BE Patterson,HL Ferling,6,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,SFM Devine,BE Patterson,HL Ferling,1,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,BE Patterson,SFM Devine,HL Ferling,4,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,BE Patterson,SFM Devine,HL Ferling,1,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,SFM Devine,BE Patterson,HL Ferling,0,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,BE Patterson,SFM Devine,GA Elwiss,0,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,BE Patterson,SFM Devine,GA Elwiss,0,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,BE Patterson,SFM Devine,GA Elwiss,2,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,BE Patterson,SFM Devine,GA Elwiss,1,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,0,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,1,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,1,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,BE Patterson,SFM Devine,NM Hancock,1,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,6,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,6,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,4,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,0,1,,,,1,,"",""
+ball,1,12.1,Adelaide Strikers,SFM Devine,BE Patterson,A King,0,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,SFM Devine,BE Patterson,A King,1,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,BE Patterson,SFM Devine,A King,0,0,,,,,,"",""
+ball,1,12.4,Adelaide Strikers,BE Patterson,SFM Devine,A King,2,0,,,,,,"",""
+ball,1,12.5,Adelaide Strikers,BE Patterson,SFM Devine,A King,2,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,BE Patterson,SFM Devine,A King,0,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,2,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,0,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,0,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,6,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,1,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,BE Patterson,SFM Devine,GA Elwiss,4,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,SFM Devine,BE Patterson,A King,1,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,BE Patterson,SFM Devine,A King,2,0,,,,,,"",""
+ball,1,14.3,Adelaide Strikers,BE Patterson,SFM Devine,A King,0,0,,,,,,"",""
+ball,1,14.4,Adelaide Strikers,BE Patterson,SFM Devine,A King,1,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,SFM Devine,BE Patterson,A King,4,0,,,,,,"",""
+ball,1,14.6,Adelaide Strikers,SFM Devine,BE Patterson,A King,0,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,1,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,SFM Devine,BE Patterson,EA Osborne,0,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,SFM Devine,BE Patterson,EA Osborne,1,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,0,0,,,,,,"",""
+ball,1,15.5,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,2,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,1,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,BE Patterson,SFM Devine,GA Elwiss,6,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,BE Patterson,SFM Devine,GA Elwiss,1,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,4,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,4,0,,,,,,"",""
+ball,1,16.5,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,0,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,SFM Devine,BE Patterson,GA Elwiss,1,0,,,,,,"",""
+ball,1,17.1,Adelaide Strikers,SFM Devine,BE Patterson,EA Osborne,2,0,,,,,,"",""
+ball,1,17.2,Adelaide Strikers,SFM Devine,BE Patterson,EA Osborne,2,0,,,,,,"",""
+ball,1,17.3,Adelaide Strikers,SFM Devine,BE Patterson,EA Osborne,0,0,,,,,,"",""
+ball,1,17.4,Adelaide Strikers,SFM Devine,BE Patterson,EA Osborne,1,0,,,,,,"",""
+ball,1,17.5,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,2,0,,,,,,"",""
+ball,1,17.6,Adelaide Strikers,BE Patterson,SFM Devine,EA Osborne,1,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,BE Patterson,SFM Devine,NM Hancock,0,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,BE Patterson,SFM Devine,NM Hancock,1,0,,,,,,"",""
+ball,1,18.3,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,0,0,,,,,,"",""
+ball,1,18.4,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,4,0,,,,,,"",""
+ball,1,18.5,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,0,1,1,,,,,"",""
+ball,1,18.6,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,0,0,,,,,,"",""
+ball,1,18.7,Adelaide Strikers,SFM Devine,BE Patterson,NM Hancock,0,0,,,,,,caught,SFM Devine
+ball,1,19.1,Adelaide Strikers,ML Schutt,BE Patterson,GA Elwiss,0,0,,,,,,"",""
+ball,1,19.2,Adelaide Strikers,ML Schutt,BE Patterson,GA Elwiss,4,0,,,,,,"",""
+ball,1,19.3,Adelaide Strikers,ML Schutt,BE Patterson,GA Elwiss,1,0,,,,,,"",""
+ball,1,19.4,Adelaide Strikers,BE Patterson,ML Schutt,GA Elwiss,2,0,,,,,,"",""
+ball,1,19.5,Adelaide Strikers,BE Patterson,ML Schutt,GA Elwiss,1,0,,,,,,"",""
+ball,1,19.6,Adelaide Strikers,ML Schutt,BE Patterson,GA Elwiss,2,0,,,,,,"",""
+ball,2,0.1,Melbourne Stars,L Lee,AR Reakes,ML Schutt,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Stars,L Lee,AR Reakes,ML Schutt,4,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,L Lee,AR Reakes,ML Schutt,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,L Lee,AR Reakes,ML Schutt,4,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,L Lee,AR Reakes,ML Schutt,4,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,L Lee,AR Reakes,ML Schutt,0,1,1,,,,,"",""
+ball,2,0.7,Melbourne Stars,L Lee,AR Reakes,ML Schutt,0,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,AR Reakes,L Lee,D Hazell,0,0,,,,,,"",""
+ball,2,1.2,Melbourne Stars,AR Reakes,L Lee,D Hazell,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,AR Reakes,L Lee,D Hazell,0,1,1,,,,,"",""
+ball,2,1.4,Melbourne Stars,AR Reakes,L Lee,D Hazell,1,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,L Lee,AR Reakes,D Hazell,0,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,L Lee,AR Reakes,D Hazell,0,0,,,,,,"",""
+ball,2,1.7,Melbourne Stars,L Lee,AR Reakes,D Hazell,1,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,L Lee,AR Reakes,SFM Devine,6,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,L Lee,AR Reakes,SFM Devine,4,0,,,,,,"",""
+ball,2,2.3,Melbourne Stars,L Lee,AR Reakes,SFM Devine,2,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,L Lee,AR Reakes,SFM Devine,0,0,,,,,,caught,L Lee
+ball,2,2.5,Melbourne Stars,M du Preez,AR Reakes,SFM Devine,4,0,,,,,,"",""
+ball,2,2.6,Melbourne Stars,M du Preez,AR Reakes,SFM Devine,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,AR Reakes,M du Preez,D Hazell,0,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,AR Reakes,M du Preez,D Hazell,0,1,1,,,,,"",""
+ball,2,3.3,Melbourne Stars,AR Reakes,M du Preez,D Hazell,1,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,M du Preez,AR Reakes,D Hazell,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,M du Preez,AR Reakes,D Hazell,0,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,M du Preez,AR Reakes,D Hazell,1,0,,,,,,"",""
+ball,2,3.7,Melbourne Stars,AR Reakes,M du Preez,D Hazell,2,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,M du Preez,AR Reakes,ML Schutt,4,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,M du Preez,AR Reakes,ML Schutt,0,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,M du Preez,AR Reakes,ML Schutt,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Stars,AR Reakes,M du Preez,ML Schutt,1,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,M du Preez,AR Reakes,ML Schutt,1,0,,,,,,"",""
+ball,2,4.6,Melbourne Stars,AR Reakes,M du Preez,ML Schutt,0,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,M du Preez,AR Reakes,SJ Coyte,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,AR Reakes,M du Preez,SJ Coyte,4,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,AR Reakes,M du Preez,SJ Coyte,2,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,AR Reakes,M du Preez,SJ Coyte,0,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,AR Reakes,M du Preez,SJ Coyte,4,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,AR Reakes,M du Preez,SJ Coyte,0,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,M du Preez,AR Reakes,SFM Devine,2,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,M du Preez,AR Reakes,SFM Devine,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,AR Reakes,M du Preez,SFM Devine,0,0,,,,,,caught,AR Reakes
+ball,2,6.4,Melbourne Stars,EA Osborne,M du Preez,SFM Devine,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,EA Osborne,M du Preez,SFM Devine,0,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,EA Osborne,M du Preez,SFM Devine,1,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,EA Osborne,M du Preez,A Wellington,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,M du Preez,EA Osborne,A Wellington,4,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,M du Preez,EA Osborne,A Wellington,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Stars,M du Preez,EA Osborne,A Wellington,4,0,,,,,,"",""
+ball,2,7.5,Melbourne Stars,M du Preez,EA Osborne,A Wellington,0,0,,,,,,"",""
+ball,2,7.6,Melbourne Stars,M du Preez,EA Osborne,A Wellington,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,M du Preez,EA Osborne,TM McGrath,0,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,M du Preez,EA Osborne,TM McGrath,0,0,,,,,,"",""
+ball,2,8.3,Melbourne Stars,M du Preez,EA Osborne,TM McGrath,1,0,,,,,,"",""
+ball,2,8.4,Melbourne Stars,EA Osborne,M du Preez,TM McGrath,0,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,EA Osborne,M du Preez,TM McGrath,1,0,,,,,,"",""
+ball,2,8.6,Melbourne Stars,M du Preez,EA Osborne,TM McGrath,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,M du Preez,EA Osborne,D Hazell,2,0,,,,,,"",""
+ball,2,9.2,Melbourne Stars,M du Preez,EA Osborne,D Hazell,1,0,,,,,,"",""
+ball,2,9.3,Melbourne Stars,EA Osborne,M du Preez,D Hazell,1,0,,,,,,"",""
+ball,2,9.4,Melbourne Stars,M du Preez,EA Osborne,D Hazell,1,0,,,,,,"",""
+ball,2,9.5,Melbourne Stars,EA Osborne,M du Preez,D Hazell,1,0,,,,,,"",""
+ball,2,9.6,Melbourne Stars,M du Preez,EA Osborne,D Hazell,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,M du Preez,EA Osborne,TM McGrath,2,0,,,,,,"",""
+ball,2,10.2,Melbourne Stars,M du Preez,EA Osborne,TM McGrath,0,0,,,,,,caught,M du Preez
+ball,2,10.3,Melbourne Stars,EA Osborne,KM Mack,TM McGrath,4,0,,,,,,"",""
+ball,2,10.4,Melbourne Stars,EA Osborne,KM Mack,TM McGrath,0,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,EA Osborne,KM Mack,TM McGrath,1,0,,,,,,"",""
+ball,2,10.6,Melbourne Stars,KM Mack,EA Osborne,TM McGrath,0,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,EA Osborne,KM Mack,A Wellington,0,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,EA Osborne,KM Mack,A Wellington,1,0,,,,,,"",""
+ball,2,11.3,Melbourne Stars,KM Mack,EA Osborne,A Wellington,1,0,,,,,,"",""
+ball,2,11.4,Melbourne Stars,EA Osborne,KM Mack,A Wellington,0,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,EA Osborne,KM Mack,A Wellington,4,0,,,,,,"",""
+ball,2,11.6,Melbourne Stars,EA Osborne,KM Mack,A Wellington,1,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,EA Osborne,KM Mack,SFM Devine,0,0,,,,,,caught,EA Osborne
+ball,2,12.2,Melbourne Stars,GA Elwiss,KM Mack,SFM Devine,2,0,,,,,,"",""
+ball,2,12.3,Melbourne Stars,GA Elwiss,KM Mack,SFM Devine,0,0,,,,,,"",""
+ball,2,12.4,Melbourne Stars,GA Elwiss,KM Mack,SFM Devine,0,0,,,,,,caught,GA Elwiss
+ball,2,12.5,Melbourne Stars,KM Mack,A Sutherland,SFM Devine,1,0,,,,,,"",""
+ball,2,12.6,Melbourne Stars,A Sutherland,KM Mack,SFM Devine,2,0,,,,,,"",""
+ball,2,13.1,Melbourne Stars,KM Mack,A Sutherland,A Price,0,0,,,,,,"",""
+ball,2,13.2,Melbourne Stars,KM Mack,A Sutherland,A Price,1,0,,,,,,"",""
+ball,2,13.3,Melbourne Stars,A Sutherland,KM Mack,A Price,1,0,,,,,,"",""
+ball,2,13.4,Melbourne Stars,KM Mack,A Sutherland,A Price,2,0,,,,,,"",""
+ball,2,13.5,Melbourne Stars,KM Mack,A Sutherland,A Price,1,0,,,,,,"",""
+ball,2,13.6,Melbourne Stars,A Sutherland,KM Mack,A Price,0,0,,,,,,"",""
+ball,2,14.1,Melbourne Stars,KM Mack,A Sutherland,D Hazell,1,0,,,,,,"",""
+ball,2,14.2,Melbourne Stars,A Sutherland,KM Mack,D Hazell,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Stars,KM Mack,A Sutherland,D Hazell,1,0,,,,,,"",""
+ball,2,14.4,Melbourne Stars,A Sutherland,KM Mack,D Hazell,1,0,,,,,,"",""
+ball,2,14.5,Melbourne Stars,KM Mack,A Sutherland,D Hazell,1,0,,,,,,"",""
+ball,2,14.6,Melbourne Stars,A Sutherland,KM Mack,D Hazell,1,0,,,,,,"",""
+ball,2,15.1,Melbourne Stars,A Sutherland,KM Mack,A Price,2,0,,,,,,"",""
+ball,2,15.2,Melbourne Stars,A Sutherland,KM Mack,A Price,1,0,,,,,,"",""
+ball,2,15.3,Melbourne Stars,KM Mack,A Sutherland,A Price,2,0,,,,,,"",""
+ball,2,15.4,Melbourne Stars,KM Mack,A Sutherland,A Price,0,0,,,,,,caught,KM Mack
+ball,2,15.5,Melbourne Stars,A Sutherland,A King,A Price,1,0,,,,,,"",""
+ball,2,15.6,Melbourne Stars,A King,A Sutherland,A Price,1,0,,,,,,"",""
+ball,2,16.1,Melbourne Stars,A King,A Sutherland,SJ Coyte,1,0,,,,,,"",""
+ball,2,16.2,Melbourne Stars,A Sutherland,A King,SJ Coyte,0,1,,,,1,,"",""
+ball,2,16.3,Melbourne Stars,A King,A Sutherland,SJ Coyte,0,0,,,,,,caught,A King
+ball,2,16.4,Melbourne Stars,A Sutherland,NM Hancock,SJ Coyte,1,0,,,,,,"",""
+ball,2,16.5,Melbourne Stars,NM Hancock,A Sutherland,SJ Coyte,1,0,,,,,,"",""
+ball,2,16.6,Melbourne Stars,A Sutherland,NM Hancock,SJ Coyte,1,0,,,,,,"",""
+ball,2,17.1,Melbourne Stars,A Sutherland,NM Hancock,SFM Devine,1,0,,,,,,"",""
+ball,2,17.2,Melbourne Stars,NM Hancock,A Sutherland,SFM Devine,0,1,1,,,,,"",""
+ball,2,17.3,Melbourne Stars,NM Hancock,A Sutherland,SFM Devine,4,0,,,,,,"",""
+ball,2,17.4,Melbourne Stars,NM Hancock,A Sutherland,SFM Devine,6,0,,,,,,"",""
+ball,2,17.5,Melbourne Stars,NM Hancock,A Sutherland,SFM Devine,0,0,,,,,,caught,NM Hancock
+ball,2,17.6,Melbourne Stars,HL Ferling,A Sutherland,SFM Devine,4,0,,,,,,"",""
+ball,2,17.7,Melbourne Stars,HL Ferling,A Sutherland,SFM Devine,0,0,,,,,,"",""
+ball,2,18.1,Melbourne Stars,A Sutherland,HL Ferling,TM McGrath,1,0,,,,,,"",""
+ball,2,18.2,Melbourne Stars,HL Ferling,A Sutherland,TM McGrath,0,0,,,,,,"",""
+ball,2,18.3,Melbourne Stars,HL Ferling,A Sutherland,TM McGrath,0,0,,,,,,"",""
+ball,2,18.4,Melbourne Stars,HL Ferling,A Sutherland,TM McGrath,0,0,,,,,,caught,HL Ferling
+ball,2,18.5,Melbourne Stars,N Faltum,A Sutherland,TM McGrath,3,0,,,,,,"",""
+ball,2,18.6,Melbourne Stars,A Sutherland,N Faltum,TM McGrath,1,0,,,,,,"",""
+ball,2,19.1,Melbourne Stars,A Sutherland,N Faltum,A Price,4,0,,,,,,"",""
+ball,2,19.2,Melbourne Stars,A Sutherland,N Faltum,A Price,1,0,,,,,,"",""
+ball,2,19.3,Melbourne Stars,N Faltum,A Sutherland,A Price,1,0,,,,,,"",""
+ball,2,19.4,Melbourne Stars,A Sutherland,N Faltum,A Price,2,0,,,,,,"",""
+ball,2,19.5,Melbourne Stars,A Sutherland,N Faltum,A Price,1,0,,,,,,"",""
+ball,2,19.6,Melbourne Stars,N Faltum,A Sutherland,A Price,2,0,,,,,,"",""

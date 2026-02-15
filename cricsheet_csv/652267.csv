@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Knights
+info,gender,male
+info,season,2013/14
+info,date,2014/01/12
+info,event,Ram Slam T20 Challenge
+info,venue,"Chevrolet Park, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,Knights
+info,toss_decision,field
+info,player_of_match,D Elgar
+info,player_of_match,RR Rossouw
+info,umpire,KH Hurter
+info,umpire,MW Brown
+info,reserve_umpire,BDA Westraadt
+info,tv_umpire,BM White
+info,match_referee,S Wadvalla
+info,winner,Knights
+info,winner_wickets,9
+info,player,Lions,Q de Kock
+info,player,Lions,AN Petersen
+info,player,Lions,GH Bodi
+info,player,Lions,ND McKenzie
+info,player,Lions,Azhar Mahmood
+info,player,Lions,D Pretorius
+info,player,Lions,CH Morris
+info,player,Lions,TL Tsolekile
+info,player,Lions,Sohail Tanvir
+info,player,Lions,Imran Tahir
+info,player,Lions,AM Phangiso
+info,player,Knights,RR Hendricks
+info,player,Knights,RR Rossouw
+info,player,Knights,D Elgar
+info,player,Knights,PJ van Biljon
+info,player,Knights,R McLaren
+info,player,Knights,LN Mosena
+info,player,Knights,RK Terblanche
+info,player,Knights,JJ van der Wath
+info,player,Knights,D du Preez
+info,player,Knights,N Boje
+info,player,Knights,MP Siboto
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Azhar Mahmood,9a158001
+info,registry,people,BDA Westraadt,d7327068
+info,registry,people,BM White,66c21d35
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D Pretorius,11614d87
+info,registry,people,D du Preez,d7a57f75
+info,registry,people,GH Bodi,f390904d
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JJ van der Wath,6821ac10
+info,registry,people,KH Hurter,bda8cca8
+info,registry,people,LN Mosena,4c9c19e3
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,MW Brown,d83d7796
+info,registry,people,N Boje,6a0537aa
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R McLaren,c654af19
+info,registry,people,RK Terblanche,807b63ae
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Sohail Tanvir,64d43928
+info,registry,people,TL Tsolekile,3b94297b
+ball,1,0.1,Lions,Q de Kock,AN Petersen,JJ van der Wath,0,0,,,,,,"",""
+ball,1,0.2,Lions,Q de Kock,AN Petersen,JJ van der Wath,0,0,,,,,,"",""
+ball,1,0.3,Lions,Q de Kock,AN Petersen,JJ van der Wath,3,0,,,,,,"",""
+ball,1,0.4,Lions,AN Petersen,Q de Kock,JJ van der Wath,0,0,,,,,,lbw,AN Petersen
+ball,1,0.5,Lions,GH Bodi,Q de Kock,JJ van der Wath,1,0,,,,,,"",""
+ball,1,0.6,Lions,Q de Kock,GH Bodi,JJ van der Wath,0,0,,,,,,"",""
+ball,1,1.1,Lions,GH Bodi,Q de Kock,R McLaren,0,0,,,,,,"",""
+ball,1,1.2,Lions,GH Bodi,Q de Kock,R McLaren,1,0,,,,,,"",""
+ball,1,1.3,Lions,Q de Kock,GH Bodi,R McLaren,0,0,,,,,,"",""
+ball,1,1.4,Lions,Q de Kock,GH Bodi,R McLaren,0,1,,,,1,,"",""
+ball,1,1.5,Lions,GH Bodi,Q de Kock,R McLaren,0,0,,,,,,"",""
+ball,1,1.6,Lions,GH Bodi,Q de Kock,R McLaren,0,0,,,,,,"",""
+ball,1,2.1,Lions,Q de Kock,GH Bodi,JJ van der Wath,1,0,,,,,,"",""
+ball,1,2.2,Lions,GH Bodi,Q de Kock,JJ van der Wath,0,1,1,,,,,"",""
+ball,1,2.3,Lions,GH Bodi,Q de Kock,JJ van der Wath,1,0,,,,,,"",""
+ball,1,2.4,Lions,Q de Kock,GH Bodi,JJ van der Wath,6,0,,,,,,"",""
+ball,1,2.5,Lions,Q de Kock,GH Bodi,JJ van der Wath,2,0,,,,,,"",""
+ball,1,2.6,Lions,Q de Kock,GH Bodi,JJ van der Wath,0,0,,,,,,"",""
+ball,1,2.7,Lions,Q de Kock,GH Bodi,JJ van der Wath,1,0,,,,,,"",""
+ball,1,3.1,Lions,Q de Kock,GH Bodi,D du Preez,0,0,,,,,,"",""
+ball,1,3.2,Lions,Q de Kock,GH Bodi,D du Preez,4,0,,,,,,"",""
+ball,1,3.3,Lions,Q de Kock,GH Bodi,D du Preez,4,0,,,,,,"",""
+ball,1,3.4,Lions,Q de Kock,GH Bodi,D du Preez,0,0,,,,,,"",""
+ball,1,3.5,Lions,Q de Kock,GH Bodi,D du Preez,0,0,,,,,,"",""
+ball,1,3.6,Lions,Q de Kock,GH Bodi,D du Preez,2,0,,,,,,"",""
+ball,1,4.1,Lions,GH Bodi,Q de Kock,R McLaren,1,0,,,,,,"",""
+ball,1,4.2,Lions,Q de Kock,GH Bodi,R McLaren,0,0,,,,,,"",""
+ball,1,4.3,Lions,Q de Kock,GH Bodi,R McLaren,1,0,,,,,,"",""
+ball,1,4.4,Lions,GH Bodi,Q de Kock,R McLaren,0,0,,,,,,"",""
+ball,1,4.5,Lions,GH Bodi,Q de Kock,R McLaren,0,1,1,,,,,"",""
+ball,1,4.6,Lions,GH Bodi,Q de Kock,R McLaren,0,0,,,,,,"",""
+ball,1,4.7,Lions,GH Bodi,Q de Kock,R McLaren,0,1,1,,,,,"",""
+ball,1,4.8,Lions,GH Bodi,Q de Kock,R McLaren,6,0,,,,,,"",""
+ball,1,5.1,Lions,Q de Kock,GH Bodi,MP Siboto,0,0,,,,,,"",""
+ball,1,5.2,Lions,Q de Kock,GH Bodi,MP Siboto,0,0,,,,,,"",""
+ball,1,5.3,Lions,Q de Kock,GH Bodi,MP Siboto,4,0,,,,,,"",""
+ball,1,5.4,Lions,Q de Kock,GH Bodi,MP Siboto,1,0,,,,,,"",""
+ball,1,5.5,Lions,GH Bodi,Q de Kock,MP Siboto,1,0,,,,,,"",""
+ball,1,5.6,Lions,Q de Kock,GH Bodi,MP Siboto,1,0,,,,,,"",""
+ball,1,6.1,Lions,Q de Kock,GH Bodi,D du Preez,2,0,,,,,,"",""
+ball,1,6.2,Lions,Q de Kock,GH Bodi,D du Preez,0,0,,,,,,"",""
+ball,1,6.3,Lions,Q de Kock,GH Bodi,D du Preez,1,0,,,,,,"",""
+ball,1,6.4,Lions,GH Bodi,Q de Kock,D du Preez,1,0,,,,,,"",""
+ball,1,6.5,Lions,Q de Kock,GH Bodi,D du Preez,0,0,,,,,,"",""
+ball,1,6.6,Lions,Q de Kock,GH Bodi,D du Preez,1,0,,,,,,"",""
+ball,1,7.1,Lions,Q de Kock,GH Bodi,N Boje,0,0,,,,,,"",""
+ball,1,7.2,Lions,Q de Kock,GH Bodi,N Boje,4,0,,,,,,"",""
+ball,1,7.3,Lions,Q de Kock,GH Bodi,N Boje,1,0,,,,,,"",""
+ball,1,7.4,Lions,GH Bodi,Q de Kock,N Boje,1,0,,,,,,"",""
+ball,1,7.5,Lions,Q de Kock,GH Bodi,N Boje,0,0,,,,,,"",""
+ball,1,7.6,Lions,Q de Kock,GH Bodi,N Boje,1,0,,,,,,"",""
+ball,1,8.1,Lions,Q de Kock,GH Bodi,MP Siboto,0,0,,,,,,"",""
+ball,1,8.2,Lions,Q de Kock,GH Bodi,MP Siboto,1,0,,,,,,"",""
+ball,1,8.3,Lions,GH Bodi,Q de Kock,MP Siboto,1,0,,,,,,"",""
+ball,1,8.4,Lions,Q de Kock,GH Bodi,MP Siboto,6,0,,,,,,"",""
+ball,1,8.5,Lions,Q de Kock,GH Bodi,MP Siboto,0,0,,,,,,"",""
+ball,1,8.6,Lions,Q de Kock,GH Bodi,MP Siboto,3,0,,,,,,"",""
+ball,1,9.1,Lions,Q de Kock,GH Bodi,N Boje,1,0,,,,,,"",""
+ball,1,9.2,Lions,GH Bodi,Q de Kock,N Boje,0,0,,,,,,"",""
+ball,1,9.3,Lions,GH Bodi,Q de Kock,N Boje,6,0,,,,,,"",""
+ball,1,9.4,Lions,GH Bodi,Q de Kock,N Boje,1,0,,,,,,"",""
+ball,1,9.5,Lions,Q de Kock,GH Bodi,N Boje,1,0,,,,,,"",""
+ball,1,9.6,Lions,GH Bodi,Q de Kock,N Boje,0,0,,,,,,"",""
+ball,1,10.1,Lions,Q de Kock,GH Bodi,D Elgar,1,0,,,,,,"",""
+ball,1,10.2,Lions,GH Bodi,Q de Kock,D Elgar,0,0,,,,,,caught and bowled,GH Bodi
+ball,1,10.3,Lions,Q de Kock,ND McKenzie,D Elgar,1,0,,,,,,"",""
+ball,1,10.4,Lions,ND McKenzie,Q de Kock,D Elgar,1,0,,,,,,"",""
+ball,1,10.5,Lions,Q de Kock,ND McKenzie,D Elgar,1,0,,,,,,"",""
+ball,1,10.6,Lions,ND McKenzie,Q de Kock,D Elgar,1,0,,,,,,"",""
+ball,1,11.1,Lions,ND McKenzie,Q de Kock,N Boje,1,0,,,,,,"",""
+ball,1,11.2,Lions,Q de Kock,ND McKenzie,N Boje,2,0,,,,,,"",""
+ball,1,11.3,Lions,Q de Kock,ND McKenzie,N Boje,1,0,,,,,,"",""
+ball,1,11.4,Lions,ND McKenzie,Q de Kock,N Boje,0,0,,,,,,"",""
+ball,1,11.5,Lions,ND McKenzie,Q de Kock,N Boje,4,0,,,,,,"",""
+ball,1,11.6,Lions,ND McKenzie,Q de Kock,N Boje,0,0,,,,,,"",""
+ball,1,12.1,Lions,Q de Kock,ND McKenzie,D Elgar,1,0,,,,,,"",""
+ball,1,12.2,Lions,ND McKenzie,Q de Kock,D Elgar,0,0,,,,,,"",""
+ball,1,12.3,Lions,ND McKenzie,Q de Kock,D Elgar,1,0,,,,,,"",""
+ball,1,12.4,Lions,Q de Kock,ND McKenzie,D Elgar,1,0,,,,,,"",""
+ball,1,12.5,Lions,ND McKenzie,Q de Kock,D Elgar,0,0,,,,,,"",""
+ball,1,12.6,Lions,ND McKenzie,Q de Kock,D Elgar,1,0,,,,,,"",""
+ball,1,13.1,Lions,ND McKenzie,Q de Kock,JJ van der Wath,1,0,,,,,,"",""
+ball,1,13.2,Lions,Q de Kock,ND McKenzie,JJ van der Wath,1,0,,,,,,"",""
+ball,1,13.3,Lions,ND McKenzie,Q de Kock,JJ van der Wath,0,0,,,,,,"",""
+ball,1,13.4,Lions,ND McKenzie,Q de Kock,JJ van der Wath,0,0,,,,,,"",""
+ball,1,13.5,Lions,ND McKenzie,Q de Kock,JJ van der Wath,1,0,,,,,,"",""
+ball,1,13.6,Lions,Q de Kock,ND McKenzie,JJ van der Wath,4,0,,,,,,"",""
+ball,1,14.1,Lions,ND McKenzie,Q de Kock,D Elgar,1,0,,,,,,"",""
+ball,1,14.2,Lions,Q de Kock,ND McKenzie,D Elgar,1,0,,,,,,"",""
+ball,1,14.3,Lions,ND McKenzie,Q de Kock,D Elgar,1,0,,,,,,"",""
+ball,1,14.4,Lions,Q de Kock,ND McKenzie,D Elgar,4,0,,,,,,"",""
+ball,1,14.5,Lions,Q de Kock,ND McKenzie,D Elgar,1,0,,,,,,"",""
+ball,1,14.6,Lions,ND McKenzie,Q de Kock,D Elgar,0,0,,,,,,"",""
+ball,1,15.1,Lions,Q de Kock,ND McKenzie,D du Preez,0,0,,,,,,bowled,Q de Kock
+ball,1,15.2,Lions,Azhar Mahmood,ND McKenzie,D du Preez,0,0,,,,,,"",""
+ball,1,15.3,Lions,Azhar Mahmood,ND McKenzie,D du Preez,0,0,,,,,,"",""
+ball,1,15.4,Lions,Azhar Mahmood,ND McKenzie,D du Preez,2,0,,,,,,"",""
+ball,1,15.5,Lions,Azhar Mahmood,ND McKenzie,D du Preez,4,0,,,,,,"",""
+ball,1,15.6,Lions,Azhar Mahmood,ND McKenzie,D du Preez,1,0,,,,,,"",""
+ball,1,16.1,Lions,Azhar Mahmood,ND McKenzie,D Elgar,1,0,,,,,,"",""
+ball,1,16.2,Lions,ND McKenzie,Azhar Mahmood,D Elgar,1,0,,,,,,"",""
+ball,1,16.3,Lions,Azhar Mahmood,ND McKenzie,D Elgar,1,0,,,,,,"",""
+ball,1,16.4,Lions,ND McKenzie,Azhar Mahmood,D Elgar,1,0,,,,,,"",""
+ball,1,16.5,Lions,Azhar Mahmood,ND McKenzie,D Elgar,0,0,,,,,,"",""
+ball,1,16.6,Lions,Azhar Mahmood,ND McKenzie,D Elgar,1,0,,,,,,"",""
+ball,1,17.1,Lions,Azhar Mahmood,ND McKenzie,R McLaren,4,0,,,,,,"",""
+ball,1,17.2,Lions,Azhar Mahmood,ND McKenzie,R McLaren,1,0,,,,,,"",""
+ball,1,17.3,Lions,ND McKenzie,Azhar Mahmood,R McLaren,1,0,,,,,,"",""
+ball,1,17.4,Lions,Azhar Mahmood,ND McKenzie,R McLaren,4,0,,,,,,"",""
+ball,1,17.5,Lions,Azhar Mahmood,ND McKenzie,R McLaren,0,0,,,,,,"",""
+ball,1,17.6,Lions,Azhar Mahmood,ND McKenzie,R McLaren,1,0,,,,,,"",""
+ball,1,18.1,Lions,Azhar Mahmood,ND McKenzie,JJ van der Wath,0,0,,,,,,"",""
+ball,1,18.2,Lions,Azhar Mahmood,ND McKenzie,JJ van der Wath,0,1,1,,,,,"",""
+ball,1,18.3,Lions,Azhar Mahmood,ND McKenzie,JJ van der Wath,1,0,,,,,,"",""
+ball,1,18.4,Lions,ND McKenzie,Azhar Mahmood,JJ van der Wath,0,1,,,,1,,"",""
+ball,1,18.5,Lions,Azhar Mahmood,ND McKenzie,JJ van der Wath,2,0,,,,,,"",""
+ball,1,18.6,Lions,Azhar Mahmood,ND McKenzie,JJ van der Wath,1,0,,,,,,"",""
+ball,1,18.7,Lions,ND McKenzie,Azhar Mahmood,JJ van der Wath,2,0,,,,,,"",""
+ball,1,19.1,Lions,Azhar Mahmood,ND McKenzie,R McLaren,2,0,,,,,,"",""
+ball,1,19.2,Lions,Azhar Mahmood,ND McKenzie,R McLaren,0,1,,,1,,,"",""
+ball,1,19.3,Lions,ND McKenzie,Azhar Mahmood,R McLaren,0,1,1,,,,,"",""
+ball,1,19.4,Lions,ND McKenzie,Azhar Mahmood,R McLaren,1,0,,,,,,"",""
+ball,1,19.5,Lions,Azhar Mahmood,ND McKenzie,R McLaren,1,0,,,,,,"",""
+ball,1,19.6,Lions,ND McKenzie,Azhar Mahmood,R McLaren,4,0,,,,,,"",""
+ball,1,19.7,Lions,ND McKenzie,Azhar Mahmood,R McLaren,1,0,,,,,,run out,ND McKenzie
+ball,2,0.1,Knights,RR Hendricks,RR Rossouw,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,0.2,Knights,RR Hendricks,RR Rossouw,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,0.3,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,0.4,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,0.5,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,4,0,,,,,,"",""
+ball,2,0.6,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,1.1,Knights,RR Hendricks,RR Rossouw,CH Morris,0,1,1,,,,,"",""
+ball,2,1.2,Knights,RR Hendricks,RR Rossouw,CH Morris,0,0,,,,,,"",""
+ball,2,1.3,Knights,RR Hendricks,RR Rossouw,CH Morris,2,0,,,,,,"",""
+ball,2,1.4,Knights,RR Hendricks,RR Rossouw,CH Morris,2,0,,,,,,"",""
+ball,2,1.5,Knights,RR Hendricks,RR Rossouw,CH Morris,0,0,,,,,,"",""
+ball,2,1.6,Knights,RR Hendricks,RR Rossouw,CH Morris,2,0,,,,,,"",""
+ball,2,1.7,Knights,RR Hendricks,RR Rossouw,CH Morris,4,0,,,,,,"",""
+ball,2,2.1,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,2.2,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,4,0,,,,,,"",""
+ball,2,2.3,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,2.4,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,2.5,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,1,1,,,,,"",""
+ball,2,2.6,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,4,0,,,,,,"",""
+ball,2,2.7,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,3.1,Knights,RR Rossouw,RR Hendricks,CH Morris,4,0,,,,,,"",""
+ball,2,3.2,Knights,RR Rossouw,RR Hendricks,CH Morris,1,0,,,,,,"",""
+ball,2,3.3,Knights,RR Hendricks,RR Rossouw,CH Morris,4,0,,,,,,"",""
+ball,2,3.4,Knights,RR Hendricks,RR Rossouw,CH Morris,1,0,,,,,,"",""
+ball,2,3.5,Knights,RR Rossouw,RR Hendricks,CH Morris,0,0,,,,,,"",""
+ball,2,3.6,Knights,RR Rossouw,RR Hendricks,CH Morris,6,0,,,,,,"",""
+ball,2,4.1,Knights,RR Hendricks,RR Rossouw,Azhar Mahmood,1,0,,,,,,"",""
+ball,2,4.2,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,0,0,,,,,,"",""
+ball,2,4.3,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,0,0,,,,,,"",""
+ball,2,4.4,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,6,0,,,,,,"",""
+ball,2,4.5,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,0,0,,,,,,"",""
+ball,2,4.6,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,0,0,,,,,,"",""
+ball,2,5.1,Knights,RR Hendricks,RR Rossouw,Imran Tahir,4,0,,,,,,"",""
+ball,2,5.2,Knights,RR Hendricks,RR Rossouw,Imran Tahir,0,0,,,,,,"",""
+ball,2,5.3,Knights,RR Hendricks,RR Rossouw,Imran Tahir,2,0,,,,,,"",""
+ball,2,5.4,Knights,RR Hendricks,RR Rossouw,Imran Tahir,4,0,,,,,,"",""
+ball,2,5.5,Knights,RR Hendricks,RR Rossouw,Imran Tahir,1,0,,,,,,"",""
+ball,2,5.6,Knights,RR Rossouw,RR Hendricks,Imran Tahir,1,0,,,,,,"",""
+ball,2,6.1,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,0,0,,,,,,"",""
+ball,2,6.2,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,1,0,,,,,,"",""
+ball,2,6.3,Knights,RR Hendricks,RR Rossouw,Azhar Mahmood,1,0,,,,,,"",""
+ball,2,6.4,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,1,0,,,,,,"",""
+ball,2,6.5,Knights,RR Hendricks,RR Rossouw,Azhar Mahmood,0,0,,,,,,"",""
+ball,2,6.6,Knights,RR Hendricks,RR Rossouw,Azhar Mahmood,1,0,,,,,,"",""
+ball,2,7.1,Knights,RR Hendricks,RR Rossouw,Imran Tahir,2,0,,,,,,"",""
+ball,2,7.2,Knights,RR Hendricks,RR Rossouw,Imran Tahir,0,0,,,,,,"",""
+ball,2,7.3,Knights,RR Hendricks,RR Rossouw,Imran Tahir,1,0,,,,,,"",""
+ball,2,7.4,Knights,RR Rossouw,RR Hendricks,Imran Tahir,1,0,,,,,,"",""
+ball,2,7.5,Knights,RR Hendricks,RR Rossouw,Imran Tahir,0,0,,,,,,"",""
+ball,2,7.6,Knights,RR Hendricks,RR Rossouw,Imran Tahir,1,0,,,,,,"",""
+ball,2,8.1,Knights,RR Hendricks,RR Rossouw,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.2,Knights,RR Rossouw,RR Hendricks,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.3,Knights,RR Hendricks,RR Rossouw,AM Phangiso,2,0,,,,,,"",""
+ball,2,8.4,Knights,RR Hendricks,RR Rossouw,AM Phangiso,4,0,,,,,,"",""
+ball,2,8.5,Knights,RR Hendricks,RR Rossouw,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.6,Knights,RR Rossouw,RR Hendricks,AM Phangiso,1,0,,,,,,"",""
+ball,2,9.1,Knights,RR Rossouw,RR Hendricks,Imran Tahir,4,0,,,,,,"",""
+ball,2,9.2,Knights,RR Rossouw,RR Hendricks,Imran Tahir,1,0,,,,,,"",""
+ball,2,9.3,Knights,RR Hendricks,RR Rossouw,Imran Tahir,0,0,,,,,,"",""
+ball,2,9.4,Knights,RR Hendricks,RR Rossouw,Imran Tahir,1,0,,,,,,"",""
+ball,2,9.5,Knights,RR Rossouw,RR Hendricks,Imran Tahir,1,0,,,,,,"",""
+ball,2,9.6,Knights,RR Hendricks,RR Rossouw,Imran Tahir,2,0,,,,,,"",""
+ball,2,10.1,Knights,RR Rossouw,RR Hendricks,AM Phangiso,0,0,,,,,,"",""
+ball,2,10.2,Knights,RR Rossouw,RR Hendricks,AM Phangiso,4,0,,,,,,"",""
+ball,2,10.3,Knights,RR Rossouw,RR Hendricks,AM Phangiso,1,0,,,,,,"",""
+ball,2,10.4,Knights,RR Hendricks,RR Rossouw,AM Phangiso,1,0,,,,,,"",""
+ball,2,10.5,Knights,RR Rossouw,RR Hendricks,AM Phangiso,0,1,1,,,,,"",""
+ball,2,10.6,Knights,RR Rossouw,RR Hendricks,AM Phangiso,0,0,,,,,,"",""
+ball,2,10.7,Knights,RR Rossouw,RR Hendricks,AM Phangiso,1,0,,,,,,"",""
+ball,2,11.1,Knights,RR Rossouw,RR Hendricks,D Pretorius,0,0,,,,,,"",""
+ball,2,11.2,Knights,RR Rossouw,RR Hendricks,D Pretorius,2,0,,,,,,"",""
+ball,2,11.3,Knights,RR Rossouw,RR Hendricks,D Pretorius,1,0,,,,,,"",""
+ball,2,11.4,Knights,RR Hendricks,RR Rossouw,D Pretorius,0,0,,,,,,"",""
+ball,2,11.5,Knights,RR Hendricks,RR Rossouw,D Pretorius,1,0,,,,,,"",""
+ball,2,11.6,Knights,RR Rossouw,RR Hendricks,D Pretorius,4,0,,,,,,"",""
+ball,2,12.1,Knights,RR Hendricks,RR Rossouw,AM Phangiso,1,0,,,,,,"",""
+ball,2,12.2,Knights,RR Rossouw,RR Hendricks,AM Phangiso,4,0,,,,,,"",""
+ball,2,12.3,Knights,RR Rossouw,RR Hendricks,AM Phangiso,0,1,1,,,,,"",""
+ball,2,12.4,Knights,RR Rossouw,RR Hendricks,AM Phangiso,2,0,,,,,,"",""
+ball,2,12.5,Knights,RR Rossouw,RR Hendricks,AM Phangiso,1,0,,,,,,"",""
+ball,2,12.6,Knights,RR Hendricks,RR Rossouw,AM Phangiso,1,0,,,,,,"",""
+ball,2,12.7,Knights,RR Rossouw,RR Hendricks,AM Phangiso,1,0,,,,,,"",""
+ball,2,13.1,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,1,0,,,,,,"",""
+ball,2,13.2,Knights,RR Hendricks,RR Rossouw,Azhar Mahmood,0,0,,,,,,"",""
+ball,2,13.3,Knights,RR Hendricks,RR Rossouw,Azhar Mahmood,2,0,,,,,,"",""
+ball,2,13.4,Knights,RR Hendricks,RR Rossouw,Azhar Mahmood,0,0,,,,,,"",""
+ball,2,13.5,Knights,RR Hendricks,RR Rossouw,Azhar Mahmood,1,0,,,,,,"",""
+ball,2,13.6,Knights,RR Rossouw,RR Hendricks,Azhar Mahmood,1,0,,,,,,"",""
+ball,2,14.1,Knights,RR Rossouw,RR Hendricks,CH Morris,1,0,,,,,,"",""
+ball,2,14.2,Knights,RR Hendricks,RR Rossouw,CH Morris,0,0,,,,,,"",""
+ball,2,14.3,Knights,RR Hendricks,RR Rossouw,CH Morris,2,0,,,,,,"",""
+ball,2,14.4,Knights,RR Hendricks,RR Rossouw,CH Morris,0,0,,,,,,"",""
+ball,2,14.5,Knights,RR Hendricks,RR Rossouw,CH Morris,1,0,,,,,,"",""
+ball,2,14.6,Knights,RR Rossouw,RR Hendricks,CH Morris,1,0,,,,,,"",""
+ball,2,15.1,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,15.2,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,15.3,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,15.4,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,4,1,,1,,,,"",""
+ball,2,15.5,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,0,0,,,,,,"",""
+ball,2,15.6,Knights,RR Rossouw,RR Hendricks,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,15.7,Knights,RR Hendricks,RR Rossouw,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,16.1,Knights,RR Hendricks,RR Rossouw,CH Morris,1,0,,,,,,"",""
+ball,2,16.2,Knights,RR Rossouw,RR Hendricks,CH Morris,0,0,,,,,,caught,RR Rossouw
+ball,2,16.3,Knights,RR Hendricks,D Elgar,CH Morris,1,0,,,,,,"",""
+ball,2,16.4,Knights,D Elgar,RR Hendricks,CH Morris,1,0,,,,,,"",""
+ball,2,16.5,Knights,RR Hendricks,D Elgar,CH Morris,0,0,,,,,,"",""
+ball,2,16.6,Knights,RR Hendricks,D Elgar,CH Morris,1,0,,,,,,"",""
+ball,2,17.1,Knights,RR Hendricks,D Elgar,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,17.2,Knights,D Elgar,RR Hendricks,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,17.3,Knights,RR Hendricks,D Elgar,Sohail Tanvir,4,0,,,,,,"",""
+ball,2,17.4,Knights,RR Hendricks,D Elgar,Sohail Tanvir,4,0,,,,,,"",""
+ball,2,17.5,Knights,RR Hendricks,D Elgar,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,17.6,Knights,D Elgar,RR Hendricks,Sohail Tanvir,1,0,,,,,,"",""
+ball,2,18.1,Knights,D Elgar,RR Hendricks,Imran Tahir,0,0,,,,,,"",""
+ball,2,18.2,Knights,D Elgar,RR Hendricks,Imran Tahir,0,0,,,,,,"",""
+ball,2,18.3,Knights,D Elgar,RR Hendricks,Imran Tahir,0,0,,,,,,"",""
+ball,2,18.4,Knights,D Elgar,RR Hendricks,Imran Tahir,4,0,,,,,,"",""

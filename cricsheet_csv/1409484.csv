@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Northern Districts
+info,gender,male
+info,season,2023/24
+info,date,2024/01/02
+info,event,Super Smash
+info,match_number,11
+info,venue,"Bay Oval, Mount Maunganui"
+info,city,Mount Maunganui
+info,toss_winner,Wellington
+info,toss_decision,bat
+info,player_of_match,TA Blundell
+info,umpire,JM Dempsey
+info,umpire,TJ Parlane
+info,reserve_umpire,C High
+info,tv_umpire,GG Pennell
+info,match_referee,GB Troup
+info,winner,Wellington
+info,winner_runs,23
+info,player,Wellington,TB Robinson
+info,player,Wellington,TA Blundell
+info,player,Wellington,NF Kelly
+info,player,Wellington,MA Abbas
+info,player,Wellington,JM Tashkoff
+info,player,Wellington,CR McLachlan
+info,player,Wellington,NG Smith
+info,player,Wellington,LV van Beek
+info,player,Wellington,PF Younghusband
+info,player,Wellington,BV Sears
+info,player,Wellington,IG McPeake
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,TJG Pringle
+info,player,Northern Districts,FL Walker
+info,player,Northern Districts,N Wagner
+info,player,Northern Districts,MJ Fisher
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,BV Sears,e1891e00
+info,registry,people,C High,ed55e0da
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,FL Walker,e6e154e3
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GG Pennell,d9376677
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JM Tashkoff,afe7d695
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MJ Fisher,7068c81e
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,N Wagner,78adc879
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,TL Seifert,4663bd23
+ball,1,0.1,Wellington,TB Robinson,TA Blundell,N Wagner,0,0,,,,,,"",""
+ball,1,0.2,Wellington,TB Robinson,TA Blundell,N Wagner,4,0,,,,,,"",""
+ball,1,0.3,Wellington,TB Robinson,TA Blundell,N Wagner,0,1,,,,1,,"",""
+ball,1,0.4,Wellington,TA Blundell,TB Robinson,N Wagner,0,0,,,,,,"",""
+ball,1,0.5,Wellington,TA Blundell,TB Robinson,N Wagner,0,0,,,,,,"",""
+ball,1,0.6,Wellington,TA Blundell,TB Robinson,N Wagner,0,0,,,,,,"",""
+ball,1,1.1,Wellington,TB Robinson,TA Blundell,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,1.2,Wellington,TB Robinson,TA Blundell,SC Kuggeleijn,3,0,,,,,,"",""
+ball,1,1.3,Wellington,TA Blundell,TB Robinson,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,1.4,Wellington,TB Robinson,TA Blundell,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,1.5,Wellington,TB Robinson,TA Blundell,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,1.6,Wellington,TB Robinson,TA Blundell,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,2.1,Wellington,TB Robinson,TA Blundell,N Wagner,2,0,,,,,,"",""
+ball,1,2.2,Wellington,TB Robinson,TA Blundell,N Wagner,4,0,,,,,,"",""
+ball,1,2.3,Wellington,TB Robinson,TA Blundell,N Wagner,0,0,,,,,,caught,TB Robinson
+ball,1,2.4,Wellington,NF Kelly,TA Blundell,N Wagner,0,0,,,,,,"",""
+ball,1,2.5,Wellington,NF Kelly,TA Blundell,N Wagner,1,0,,,,,,"",""
+ball,1,2.6,Wellington,TA Blundell,NF Kelly,N Wagner,0,0,,,,,,"",""
+ball,1,3.1,Wellington,NF Kelly,TA Blundell,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,3.2,Wellington,NF Kelly,TA Blundell,SC Kuggeleijn,3,0,,,,,,"",""
+ball,1,3.3,Wellington,TA Blundell,NF Kelly,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,3.4,Wellington,TA Blundell,NF Kelly,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,3.5,Wellington,TA Blundell,NF Kelly,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,3.6,Wellington,TA Blundell,NF Kelly,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,4.1,Wellington,TA Blundell,NF Kelly,BR Hampton,4,0,,,,,,"",""
+ball,1,4.2,Wellington,TA Blundell,NF Kelly,BR Hampton,3,0,,,,,,"",""
+ball,1,4.3,Wellington,NF Kelly,TA Blundell,BR Hampton,0,0,,,,,,"",""
+ball,1,4.4,Wellington,NF Kelly,TA Blundell,BR Hampton,1,0,,,,,,"",""
+ball,1,4.5,Wellington,TA Blundell,NF Kelly,BR Hampton,1,0,,,,,,"",""
+ball,1,4.6,Wellington,NF Kelly,TA Blundell,BR Hampton,2,0,,,,,,"",""
+ball,1,5.1,Wellington,TA Blundell,NF Kelly,MJ Fisher,6,0,,,,,,"",""
+ball,1,5.2,Wellington,TA Blundell,NF Kelly,MJ Fisher,4,0,,,,,,"",""
+ball,1,5.3,Wellington,TA Blundell,NF Kelly,MJ Fisher,2,0,,,,,,"",""
+ball,1,5.4,Wellington,TA Blundell,NF Kelly,MJ Fisher,4,0,,,,,,"",""
+ball,1,5.5,Wellington,TA Blundell,NF Kelly,MJ Fisher,4,0,,,,,,"",""
+ball,1,5.6,Wellington,TA Blundell,NF Kelly,MJ Fisher,6,0,,,,,,"",""
+ball,1,6.1,Wellington,NF Kelly,TA Blundell,FL Walker,1,0,,,,,,"",""
+ball,1,6.2,Wellington,TA Blundell,NF Kelly,FL Walker,0,0,,,,,,"",""
+ball,1,6.3,Wellington,TA Blundell,NF Kelly,FL Walker,0,0,,,,,,"",""
+ball,1,6.4,Wellington,TA Blundell,NF Kelly,FL Walker,0,0,,,,,,"",""
+ball,1,6.5,Wellington,TA Blundell,NF Kelly,FL Walker,2,0,,,,,,"",""
+ball,1,6.6,Wellington,TA Blundell,NF Kelly,FL Walker,4,0,,,,,,"",""
+ball,1,7.1,Wellington,NF Kelly,TA Blundell,TJG Pringle,1,0,,,,,,"",""
+ball,1,7.2,Wellington,TA Blundell,NF Kelly,TJG Pringle,0,0,,,,,,"",""
+ball,1,7.3,Wellington,TA Blundell,NF Kelly,TJG Pringle,0,0,,,,,,"",""
+ball,1,7.4,Wellington,TA Blundell,NF Kelly,TJG Pringle,1,0,,,,,,"",""
+ball,1,7.5,Wellington,NF Kelly,TA Blundell,TJG Pringle,0,0,,,,,,caught,NF Kelly
+ball,1,7.6,Wellington,MA Abbas,TA Blundell,TJG Pringle,0,0,,,,,,"",""
+ball,1,8.1,Wellington,TA Blundell,MA Abbas,FL Walker,1,0,,,,,,"",""
+ball,1,8.2,Wellington,MA Abbas,TA Blundell,FL Walker,0,0,,,,,,"",""
+ball,1,8.3,Wellington,MA Abbas,TA Blundell,FL Walker,1,0,,,,,,"",""
+ball,1,8.4,Wellington,TA Blundell,MA Abbas,FL Walker,0,0,,,,,,"",""
+ball,1,8.5,Wellington,TA Blundell,MA Abbas,FL Walker,6,0,,,,,,"",""
+ball,1,8.6,Wellington,TA Blundell,MA Abbas,FL Walker,0,0,,,,,,"",""
+ball,1,9.1,Wellington,MA Abbas,TA Blundell,TJG Pringle,1,0,,,,,,"",""
+ball,1,9.2,Wellington,TA Blundell,MA Abbas,TJG Pringle,1,0,,,,,,"",""
+ball,1,9.3,Wellington,MA Abbas,TA Blundell,TJG Pringle,1,0,,,,,,"",""
+ball,1,9.4,Wellington,TA Blundell,MA Abbas,TJG Pringle,1,0,,,,,,"",""
+ball,1,9.5,Wellington,MA Abbas,TA Blundell,TJG Pringle,4,0,,,,,,"",""
+ball,1,9.6,Wellington,MA Abbas,TA Blundell,TJG Pringle,1,0,,,,,,"",""
+ball,1,10.1,Wellington,MA Abbas,TA Blundell,FL Walker,0,0,,,,,,"",""
+ball,1,10.2,Wellington,MA Abbas,TA Blundell,FL Walker,1,0,,,,,,"",""
+ball,1,10.3,Wellington,TA Blundell,MA Abbas,FL Walker,0,0,,,,,,"",""
+ball,1,10.4,Wellington,TA Blundell,MA Abbas,FL Walker,6,0,,,,,,"",""
+ball,1,10.5,Wellington,TA Blundell,MA Abbas,FL Walker,1,0,,,,,,"",""
+ball,1,10.6,Wellington,MA Abbas,TA Blundell,FL Walker,2,0,,,,,,"",""
+ball,1,11.1,Wellington,TA Blundell,MA Abbas,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,11.2,Wellington,TA Blundell,MA Abbas,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,11.3,Wellington,TA Blundell,MA Abbas,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,11.4,Wellington,TA Blundell,MA Abbas,SC Kuggeleijn,0,0,,,,,,caught,TA Blundell
+ball,1,11.5,Wellington,JM Tashkoff,MA Abbas,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,11.6,Wellington,MA Abbas,JM Tashkoff,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,12.1,Wellington,MA Abbas,JM Tashkoff,BR Hampton,2,0,,,,,,"",""
+ball,1,12.2,Wellington,MA Abbas,JM Tashkoff,BR Hampton,0,0,,,,,,"",""
+ball,1,12.3,Wellington,MA Abbas,JM Tashkoff,BR Hampton,1,0,,,,,,"",""
+ball,1,12.4,Wellington,JM Tashkoff,MA Abbas,BR Hampton,1,0,,,,,,"",""
+ball,1,12.5,Wellington,MA Abbas,JM Tashkoff,BR Hampton,2,0,,,,,,"",""
+ball,1,12.6,Wellington,MA Abbas,JM Tashkoff,BR Hampton,1,0,,,,,,"",""
+ball,1,13.1,Wellington,MA Abbas,JM Tashkoff,FL Walker,1,0,,,,,,"",""
+ball,1,13.2,Wellington,JM Tashkoff,MA Abbas,FL Walker,4,0,,,,,,"",""
+ball,1,13.3,Wellington,JM Tashkoff,MA Abbas,FL Walker,1,0,,,,,,"",""
+ball,1,13.4,Wellington,MA Abbas,JM Tashkoff,FL Walker,2,0,,,,,,"",""
+ball,1,13.5,Wellington,MA Abbas,JM Tashkoff,FL Walker,1,0,,,,,,"",""
+ball,1,13.6,Wellington,JM Tashkoff,MA Abbas,FL Walker,2,0,,,,,,"",""
+ball,1,14.1,Wellington,MA Abbas,JM Tashkoff,TJG Pringle,1,0,,,,,,"",""
+ball,1,14.2,Wellington,JM Tashkoff,MA Abbas,TJG Pringle,4,0,,,,,,"",""
+ball,1,14.3,Wellington,JM Tashkoff,MA Abbas,TJG Pringle,2,0,,,,,,"",""
+ball,1,14.4,Wellington,JM Tashkoff,MA Abbas,TJG Pringle,1,0,,,,,,"",""
+ball,1,14.5,Wellington,MA Abbas,JM Tashkoff,TJG Pringle,0,0,,,,,,caught,MA Abbas
+ball,1,14.6,Wellington,CR McLachlan,JM Tashkoff,TJG Pringle,1,0,,,,,,"",""
+ball,1,15.1,Wellington,CR McLachlan,JM Tashkoff,MJ Fisher,1,0,,,,,,"",""
+ball,1,15.2,Wellington,JM Tashkoff,CR McLachlan,MJ Fisher,1,0,,,,,,"",""
+ball,1,15.3,Wellington,CR McLachlan,JM Tashkoff,MJ Fisher,4,0,,,,,,"",""
+ball,1,15.4,Wellington,CR McLachlan,JM Tashkoff,MJ Fisher,1,0,,,,,,"",""
+ball,1,15.5,Wellington,JM Tashkoff,CR McLachlan,MJ Fisher,4,0,,,,,,"",""
+ball,1,15.6,Wellington,JM Tashkoff,CR McLachlan,MJ Fisher,1,0,,,,,,"",""
+ball,1,16.1,Wellington,JM Tashkoff,CR McLachlan,N Wagner,0,0,,,,,,"",""
+ball,1,16.2,Wellington,JM Tashkoff,CR McLachlan,N Wagner,0,0,,,,,,"",""
+ball,1,16.3,Wellington,JM Tashkoff,CR McLachlan,N Wagner,0,0,,,,,,caught,JM Tashkoff
+ball,1,16.4,Wellington,NG Smith,CR McLachlan,N Wagner,1,0,,,,,,"",""
+ball,1,16.5,Wellington,CR McLachlan,NG Smith,N Wagner,0,0,,,,,,"",""
+ball,1,16.6,Wellington,CR McLachlan,NG Smith,N Wagner,0,0,,,,,,"",""
+ball,1,17.1,Wellington,NG Smith,CR McLachlan,TJG Pringle,1,0,,,,,,"",""
+ball,1,17.2,Wellington,CR McLachlan,NG Smith,TJG Pringle,4,0,,,,,,"",""
+ball,1,17.3,Wellington,CR McLachlan,NG Smith,TJG Pringle,4,0,,,,,,"",""
+ball,1,17.4,Wellington,CR McLachlan,NG Smith,TJG Pringle,0,0,,,,,,"",""
+ball,1,17.5,Wellington,CR McLachlan,NG Smith,TJG Pringle,4,0,,,,,,"",""
+ball,1,17.6,Wellington,CR McLachlan,NG Smith,TJG Pringle,0,0,,,,,,"",""
+ball,1,18.1,Wellington,NG Smith,CR McLachlan,N Wagner,1,0,,,,,,"",""
+ball,1,18.2,Wellington,CR McLachlan,NG Smith,N Wagner,1,0,,,,,,"",""
+ball,1,18.3,Wellington,NG Smith,CR McLachlan,N Wagner,1,0,,,,,,"",""
+ball,1,18.4,Wellington,CR McLachlan,NG Smith,N Wagner,0,0,,,,,,"",""
+ball,1,18.5,Wellington,CR McLachlan,NG Smith,N Wagner,2,0,,,,,,"",""
+ball,1,18.6,Wellington,CR McLachlan,NG Smith,N Wagner,0,0,,,,,,caught,CR McLachlan
+ball,1,19.1,Wellington,NG Smith,LV van Beek,BR Hampton,0,0,,,,,,bowled,NG Smith
+ball,1,19.2,Wellington,PF Younghusband,LV van Beek,BR Hampton,1,0,,,,,,"",""
+ball,1,19.3,Wellington,LV van Beek,PF Younghusband,BR Hampton,0,0,,,,,,bowled,LV van Beek
+ball,1,19.4,Wellington,BV Sears,PF Younghusband,BR Hampton,2,0,,,,,,"",""
+ball,1,19.5,Wellington,BV Sears,PF Younghusband,BR Hampton,0,1,,,1,,,"",""
+ball,1,19.6,Wellington,PF Younghusband,BV Sears,BR Hampton,0,1,,,1,,,"",""
+ball,2,0.1,Northern Districts,KD Clarke,TL Seifert,NG Smith,1,0,,,,,,"",""
+ball,2,0.2,Northern Districts,TL Seifert,KD Clarke,NG Smith,0,0,,,,,,"",""
+ball,2,0.3,Northern Districts,TL Seifert,KD Clarke,NG Smith,0,0,,,,,,"",""
+ball,2,0.4,Northern Districts,TL Seifert,KD Clarke,NG Smith,4,0,,,,,,"",""
+ball,2,0.5,Northern Districts,TL Seifert,KD Clarke,NG Smith,1,0,,,,,,"",""
+ball,2,0.6,Northern Districts,KD Clarke,TL Seifert,NG Smith,0,0,,,,,,lbw,KD Clarke
+ball,2,1.1,Northern Districts,TL Seifert,SC Kuggeleijn,LV van Beek,0,0,,,,,,"",""
+ball,2,1.2,Northern Districts,TL Seifert,SC Kuggeleijn,LV van Beek,0,0,,,,,,caught,TL Seifert
+ball,2,1.3,Northern Districts,JA Raval,SC Kuggeleijn,LV van Beek,0,0,,,,,,"",""
+ball,2,1.4,Northern Districts,JA Raval,SC Kuggeleijn,LV van Beek,4,0,,,,,,"",""
+ball,2,1.5,Northern Districts,JA Raval,SC Kuggeleijn,LV van Beek,1,0,,,,,,"",""
+ball,2,1.6,Northern Districts,SC Kuggeleijn,JA Raval,LV van Beek,6,0,,,,,,"",""
+ball,2,2.1,Northern Districts,JA Raval,SC Kuggeleijn,IG McPeake,4,0,,,,,,"",""
+ball,2,2.2,Northern Districts,JA Raval,SC Kuggeleijn,IG McPeake,4,0,,,,,,"",""
+ball,2,2.3,Northern Districts,JA Raval,SC Kuggeleijn,IG McPeake,2,0,,,,,,"",""
+ball,2,2.4,Northern Districts,JA Raval,SC Kuggeleijn,IG McPeake,1,0,,,,,,"",""
+ball,2,2.5,Northern Districts,SC Kuggeleijn,JA Raval,IG McPeake,0,0,,,,,,caught,SC Kuggeleijn
+ball,2,2.6,Northern Districts,JF Carter,JA Raval,IG McPeake,0,0,,,,,,"",""
+ball,2,3.1,Northern Districts,JA Raval,JF Carter,LV van Beek,0,0,,,,,,"",""
+ball,2,3.2,Northern Districts,JA Raval,JF Carter,LV van Beek,1,0,,,,,,"",""
+ball,2,3.3,Northern Districts,JF Carter,JA Raval,LV van Beek,1,0,,,,,,"",""
+ball,2,3.4,Northern Districts,JA Raval,JF Carter,LV van Beek,1,0,,,,,,"",""
+ball,2,3.5,Northern Districts,JF Carter,JA Raval,LV van Beek,1,0,,,,,,"",""
+ball,2,3.6,Northern Districts,JA Raval,JF Carter,LV van Beek,0,0,,,,,,"",""
+ball,2,4.1,Northern Districts,JF Carter,JA Raval,NG Smith,1,0,,,,,,"",""
+ball,2,4.2,Northern Districts,JA Raval,JF Carter,NG Smith,1,0,,,,,,"",""
+ball,2,4.3,Northern Districts,JF Carter,JA Raval,NG Smith,0,0,,,,,,"",""
+ball,2,4.4,Northern Districts,JF Carter,JA Raval,NG Smith,0,0,,,,,,"",""
+ball,2,4.5,Northern Districts,JF Carter,JA Raval,NG Smith,0,0,,,,,,"",""
+ball,2,4.6,Northern Districts,JF Carter,JA Raval,NG Smith,0,0,,,,,,"",""
+ball,2,5.1,Northern Districts,JA Raval,JF Carter,BV Sears,1,0,,,,,,"",""
+ball,2,5.2,Northern Districts,JF Carter,JA Raval,BV Sears,4,0,,,,,,"",""
+ball,2,5.3,Northern Districts,JF Carter,JA Raval,BV Sears,1,0,,,,,,"",""
+ball,2,5.4,Northern Districts,JA Raval,JF Carter,BV Sears,0,0,,,,,,"",""
+ball,2,5.5,Northern Districts,JA Raval,JF Carter,BV Sears,1,0,,,,,,"",""
+ball,2,5.6,Northern Districts,JF Carter,JA Raval,BV Sears,0,0,,,,,,"",""
+ball,2,6.1,Northern Districts,JA Raval,JF Carter,IG McPeake,1,0,,,,,,"",""
+ball,2,6.2,Northern Districts,JF Carter,JA Raval,IG McPeake,6,0,,,,,,"",""
+ball,2,6.3,Northern Districts,JF Carter,JA Raval,IG McPeake,0,0,,,,,,"",""
+ball,2,6.4,Northern Districts,JF Carter,JA Raval,IG McPeake,1,0,,,,,,"",""
+ball,2,6.5,Northern Districts,JA Raval,JF Carter,IG McPeake,1,0,,,,,,"",""
+ball,2,6.6,Northern Districts,JF Carter,JA Raval,IG McPeake,0,0,,,,,,"",""
+ball,2,7.1,Northern Districts,JA Raval,JF Carter,PF Younghusband,0,0,,,,,,"",""
+ball,2,7.2,Northern Districts,JA Raval,JF Carter,PF Younghusband,1,0,,,,,,"",""
+ball,2,7.3,Northern Districts,JF Carter,JA Raval,PF Younghusband,0,0,,,,,,bowled,JF Carter
+ball,2,7.4,Northern Districts,HR Cooper,JA Raval,PF Younghusband,0,0,,,,,,"",""
+ball,2,7.5,Northern Districts,HR Cooper,JA Raval,PF Younghusband,1,0,,,,,,"",""
+ball,2,7.6,Northern Districts,JA Raval,HR Cooper,PF Younghusband,4,0,,,,,,"",""
+ball,2,8.1,Northern Districts,HR Cooper,JA Raval,BV Sears,0,0,,,,,,"",""
+ball,2,8.2,Northern Districts,HR Cooper,JA Raval,BV Sears,0,0,,,,,,"",""
+ball,2,8.3,Northern Districts,HR Cooper,JA Raval,BV Sears,1,0,,,,,,"",""
+ball,2,8.4,Northern Districts,JA Raval,HR Cooper,BV Sears,1,0,,,,,,"",""
+ball,2,8.5,Northern Districts,HR Cooper,JA Raval,BV Sears,0,0,,,,,,caught,HR Cooper
+ball,2,8.6,Northern Districts,BR Hampton,JA Raval,BV Sears,0,1,1,,,,,"",""
+ball,2,8.7,Northern Districts,BR Hampton,JA Raval,BV Sears,0,1,1,,,,,"",""
+ball,2,8.8,Northern Districts,BR Hampton,JA Raval,BV Sears,0,0,,,,,,"",""
+ball,2,9.1,Northern Districts,JA Raval,BR Hampton,PF Younghusband,1,0,,,,,,"",""
+ball,2,9.2,Northern Districts,BR Hampton,JA Raval,PF Younghusband,2,0,,,,,,"",""
+ball,2,9.3,Northern Districts,BR Hampton,JA Raval,PF Younghusband,0,0,,,,,,"",""
+ball,2,9.4,Northern Districts,BR Hampton,JA Raval,PF Younghusband,0,0,,,,,,"",""
+ball,2,9.5,Northern Districts,BR Hampton,JA Raval,PF Younghusband,0,0,,,,,,"",""
+ball,2,9.6,Northern Districts,BR Hampton,JA Raval,PF Younghusband,0,0,,,,,,"",""
+ball,2,10.1,Northern Districts,JA Raval,BR Hampton,IG McPeake,1,0,,,,,,"",""
+ball,2,10.2,Northern Districts,BR Hampton,JA Raval,IG McPeake,1,0,,,,,,"",""
+ball,2,10.3,Northern Districts,JA Raval,BR Hampton,IG McPeake,0,0,,,,,,"",""
+ball,2,10.4,Northern Districts,JA Raval,BR Hampton,IG McPeake,1,0,,,,,,"",""
+ball,2,10.5,Northern Districts,BR Hampton,JA Raval,IG McPeake,0,0,,,,,,"",""
+ball,2,10.6,Northern Districts,BR Hampton,JA Raval,IG McPeake,0,0,,,,,,"",""
+ball,2,11.1,Northern Districts,JA Raval,BR Hampton,BV Sears,4,0,,,,,,"",""
+ball,2,11.2,Northern Districts,JA Raval,BR Hampton,BV Sears,1,0,,,,,,"",""
+ball,2,11.3,Northern Districts,BR Hampton,JA Raval,BV Sears,1,0,,,,,,"",""
+ball,2,11.4,Northern Districts,JA Raval,BR Hampton,BV Sears,4,0,,,,,,"",""
+ball,2,11.5,Northern Districts,JA Raval,BR Hampton,BV Sears,1,0,,,,,,"",""
+ball,2,11.6,Northern Districts,BR Hampton,JA Raval,BV Sears,2,0,,,,,,"",""
+ball,2,12.1,Northern Districts,JA Raval,BR Hampton,LV van Beek,6,0,,,,,,"",""
+ball,2,12.2,Northern Districts,JA Raval,BR Hampton,LV van Beek,1,0,,,,,,"",""
+ball,2,12.3,Northern Districts,BR Hampton,JA Raval,LV van Beek,1,0,,,,,,"",""
+ball,2,12.4,Northern Districts,JA Raval,BR Hampton,LV van Beek,0,0,,,,,,"",""
+ball,2,12.5,Northern Districts,JA Raval,BR Hampton,LV van Beek,0,0,,,,,,"",""
+ball,2,12.6,Northern Districts,JA Raval,BR Hampton,LV van Beek,4,0,,,,,,"",""
+ball,2,13.1,Northern Districts,BR Hampton,JA Raval,PF Younghusband,1,0,,,,,,"",""
+ball,2,13.2,Northern Districts,JA Raval,BR Hampton,PF Younghusband,0,0,,,,,,"",""
+ball,2,13.3,Northern Districts,JA Raval,BR Hampton,PF Younghusband,1,0,,,,,,"",""
+ball,2,13.4,Northern Districts,BR Hampton,JA Raval,PF Younghusband,0,0,,,,,,"",""
+ball,2,13.5,Northern Districts,BR Hampton,JA Raval,PF Younghusband,4,0,,,,,,"",""
+ball,2,13.6,Northern Districts,BR Hampton,JA Raval,PF Younghusband,1,0,,,,,,"",""
+ball,2,14.1,Northern Districts,BR Hampton,JA Raval,NG Smith,0,0,,,,,,"",""
+ball,2,14.2,Northern Districts,BR Hampton,JA Raval,NG Smith,1,0,,,,,,"",""
+ball,2,14.3,Northern Districts,JA Raval,BR Hampton,NG Smith,4,0,,,,,,"",""
+ball,2,14.4,Northern Districts,JA Raval,BR Hampton,NG Smith,2,0,,,,,,"",""
+ball,2,14.5,Northern Districts,JA Raval,BR Hampton,NG Smith,0,0,,,,,,"",""
+ball,2,14.6,Northern Districts,JA Raval,BR Hampton,NG Smith,0,1,1,,,,,"",""
+ball,2,14.7,Northern Districts,JA Raval,BR Hampton,NG Smith,0,0,,,,,,"",""
+ball,2,15.1,Northern Districts,BR Hampton,JA Raval,PF Younghusband,0,0,,,,,,caught,BR Hampton
+ball,2,15.2,Northern Districts,TJG Pringle,JA Raval,PF Younghusband,0,0,,,,,,"",""
+ball,2,15.3,Northern Districts,TJG Pringle,JA Raval,PF Younghusband,2,0,,,,,,"",""
+ball,2,15.4,Northern Districts,TJG Pringle,JA Raval,PF Younghusband,1,0,,,,,,"",""
+ball,2,15.5,Northern Districts,JA Raval,TJG Pringle,PF Younghusband,2,0,,,,,,"",""
+ball,2,15.6,Northern Districts,JA Raval,TJG Pringle,PF Younghusband,0,0,,,,,,caught,JA Raval
+ball,2,16.1,Northern Districts,TJG Pringle,FL Walker,IG McPeake,1,0,,,,,,"",""
+ball,2,16.2,Northern Districts,FL Walker,TJG Pringle,IG McPeake,0,0,,,,,,"",""
+ball,2,16.3,Northern Districts,FL Walker,TJG Pringle,IG McPeake,4,0,,,,,,"",""
+ball,2,16.4,Northern Districts,FL Walker,TJG Pringle,IG McPeake,4,0,,,,,,"",""
+ball,2,16.5,Northern Districts,FL Walker,TJG Pringle,IG McPeake,1,0,,,,,,"",""
+ball,2,16.6,Northern Districts,TJG Pringle,FL Walker,IG McPeake,1,0,,,,,,"",""
+ball,2,17.1,Northern Districts,TJG Pringle,FL Walker,BV Sears,0,0,,,,,,"",""
+ball,2,17.2,Northern Districts,TJG Pringle,FL Walker,BV Sears,0,0,,,,,,"",""
+ball,2,17.3,Northern Districts,TJG Pringle,FL Walker,BV Sears,4,0,,,,,,"",""
+ball,2,17.4,Northern Districts,TJG Pringle,FL Walker,BV Sears,0,1,1,,,,,"",""
+ball,2,17.5,Northern Districts,TJG Pringle,FL Walker,BV Sears,1,0,,,,,,"",""
+ball,2,17.6,Northern Districts,FL Walker,TJG Pringle,BV Sears,0,0,,,,,,"",""
+ball,2,17.7,Northern Districts,FL Walker,TJG Pringle,BV Sears,1,0,,,,,,"",""
+ball,2,18.1,Northern Districts,FL Walker,TJG Pringle,LV van Beek,1,0,,,,,,"",""
+ball,2,18.2,Northern Districts,TJG Pringle,FL Walker,LV van Beek,0,0,,,,,,"",""
+ball,2,18.3,Northern Districts,TJG Pringle,FL Walker,LV van Beek,2,0,,,,,,"",""
+ball,2,18.4,Northern Districts,TJG Pringle,FL Walker,LV van Beek,6,0,,,,,,"",""
+ball,2,18.5,Northern Districts,TJG Pringle,FL Walker,LV van Beek,4,0,,,,,,"",""
+ball,2,18.6,Northern Districts,TJG Pringle,FL Walker,LV van Beek,0,0,,,,,,"",""
+ball,2,19.1,Northern Districts,FL Walker,TJG Pringle,NG Smith,0,0,,,,,,"",""
+ball,2,19.2,Northern Districts,FL Walker,TJG Pringle,NG Smith,0,0,,,,,,"",""
+ball,2,19.3,Northern Districts,FL Walker,TJG Pringle,NG Smith,0,1,1,,,,,"",""
+ball,2,19.4,Northern Districts,FL Walker,TJG Pringle,NG Smith,0,0,,,,,,caught,FL Walker
+ball,2,19.5,Northern Districts,N Wagner,TJG Pringle,NG Smith,0,2,2,,,,,"",""
+ball,2,19.6,Northern Districts,TJG Pringle,N Wagner,NG Smith,6,0,,,,,,"",""
+ball,2,19.7,Northern Districts,TJG Pringle,N Wagner,NG Smith,2,0,,,,,,"",""
+ball,2,19.8,Northern Districts,TJG Pringle,N Wagner,NG Smith,0,1,,,1,,,"",""

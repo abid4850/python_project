@@ -1,0 +1,293 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Northern Districts
+info,gender,male
+info,season,2017/18
+info,date,2018/01/02
+info,event,Super Smash
+info,match_number,19
+info,venue,University Oval
+info,city,Dunedin
+info,toss_winner,Otago
+info,toss_decision,bat
+info,umpire,DJ Walker
+info,umpire,AL Gillies
+info,reserve_umpire,KS Jagannathan
+info,tv_umpire,ED Sanders
+info,match_referee,RA Dykes
+info,winner,Northern Districts
+info,winner_wickets,9
+info,player,Otago,RJ Nicol
+info,player,Otago,NT Broom
+info,player,Otago,S Hicks
+info,player,Otago,LC Johnson
+info,player,Otago,DC de Boorder
+info,player,Otago,JL Finnie
+info,player,Otago,BS Wilson
+info,player,Otago,MJG Rippon
+info,player,Otago,JA Duffy
+info,player,Otago,MB Bacon
+info,player,Otago,WD Barnes
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,NF Kelly
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,CJ Jordan
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,BG Randell
+info,player,Northern Districts,SB Davey
+info,registry,people,AL Gillies,1a1f45a4
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DC de Boorder,bf573bfd
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,ED Sanders,25c6d6af
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JG Walker,94734e80
+info,registry,people,JL Finnie,1ccf9e7e
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,MB Bacon,90701232
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NT Broom,a354c917
+info,registry,people,RA Dykes,e5c6f48b
+info,registry,people,RJ Nicol,8d8c24fd
+info,registry,people,S Hicks,168b4c4f
+info,registry,people,SB Davey,f45cd5c8
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WD Barnes,a066c01a
+ball,1,0.1,Otago,RJ Nicol,NT Broom,AP Devcich,1,0,,,,,,"",""
+ball,1,0.2,Otago,NT Broom,RJ Nicol,AP Devcich,0,0,,,,,,"",""
+ball,1,0.3,Otago,NT Broom,RJ Nicol,AP Devcich,0,0,,,,,,"",""
+ball,1,0.4,Otago,NT Broom,RJ Nicol,AP Devcich,0,1,1,,,,,"",""
+ball,1,0.5,Otago,NT Broom,RJ Nicol,AP Devcich,1,0,,,,,,"",""
+ball,1,0.6,Otago,RJ Nicol,NT Broom,AP Devcich,0,0,,,,,,"",""
+ball,1,0.7,Otago,RJ Nicol,NT Broom,AP Devcich,1,0,,,,,,"",""
+ball,1,1.1,Otago,RJ Nicol,NT Broom,BG Randell,1,0,,,,,,"",""
+ball,1,1.2,Otago,NT Broom,RJ Nicol,BG Randell,1,0,,,,,,"",""
+ball,1,1.3,Otago,RJ Nicol,NT Broom,BG Randell,1,0,,,,,,"",""
+ball,1,1.4,Otago,NT Broom,RJ Nicol,BG Randell,1,0,,,,,,"",""
+ball,1,1.5,Otago,RJ Nicol,NT Broom,BG Randell,6,0,,,,,,"",""
+ball,1,1.6,Otago,RJ Nicol,NT Broom,BG Randell,6,0,,,,,,"",""
+ball,1,2.1,Otago,NT Broom,RJ Nicol,SB Davey,0,0,,,,,,"",""
+ball,1,2.2,Otago,NT Broom,RJ Nicol,SB Davey,2,0,,,,,,"",""
+ball,1,2.3,Otago,NT Broom,RJ Nicol,SB Davey,0,0,,,,,,"",""
+ball,1,2.4,Otago,NT Broom,RJ Nicol,SB Davey,4,0,,,,,,"",""
+ball,1,2.5,Otago,NT Broom,RJ Nicol,SB Davey,4,0,,,,,,"",""
+ball,1,2.6,Otago,NT Broom,RJ Nicol,SB Davey,1,0,,,,,,"",""
+ball,1,3.1,Otago,NT Broom,RJ Nicol,CJ Jordan,4,0,,,,,,"",""
+ball,1,3.2,Otago,NT Broom,RJ Nicol,CJ Jordan,0,1,1,,,,,"",""
+ball,1,3.3,Otago,NT Broom,RJ Nicol,CJ Jordan,0,0,,,,,,"",""
+ball,1,3.4,Otago,NT Broom,RJ Nicol,CJ Jordan,0,0,,,,,,caught,NT Broom
+ball,1,3.5,Otago,RJ Nicol,S Hicks,CJ Jordan,1,0,,,,,,"",""
+ball,1,3.6,Otago,S Hicks,RJ Nicol,CJ Jordan,1,0,,,,,,"",""
+ball,1,3.7,Otago,RJ Nicol,S Hicks,CJ Jordan,0,0,,,,,,"",""
+ball,1,4.1,Otago,S Hicks,RJ Nicol,AP Devcich,0,0,,,,,,"",""
+ball,1,4.2,Otago,S Hicks,RJ Nicol,AP Devcich,1,0,,,,,,"",""
+ball,1,4.3,Otago,RJ Nicol,S Hicks,AP Devcich,1,0,,,,,,"",""
+ball,1,4.4,Otago,S Hicks,RJ Nicol,AP Devcich,4,0,,,,,,"",""
+ball,1,4.5,Otago,S Hicks,RJ Nicol,AP Devcich,0,0,,,,,,"",""
+ball,1,4.6,Otago,S Hicks,RJ Nicol,AP Devcich,0,0,,,,,,"",""
+ball,1,5.1,Otago,RJ Nicol,S Hicks,DJ Mitchell,0,0,,,,,,"",""
+ball,1,5.2,Otago,RJ Nicol,S Hicks,DJ Mitchell,4,0,,,,,,"",""
+ball,1,5.3,Otago,RJ Nicol,S Hicks,DJ Mitchell,1,0,,,,,,"",""
+ball,1,5.4,Otago,S Hicks,RJ Nicol,DJ Mitchell,0,0,,,,,,"",""
+ball,1,5.5,Otago,S Hicks,RJ Nicol,DJ Mitchell,4,0,,,,,,"",""
+ball,1,5.6,Otago,S Hicks,RJ Nicol,DJ Mitchell,0,0,,,,,,"",""
+ball,1,6.1,Otago,RJ Nicol,S Hicks,JG Walker,0,0,,,,,,"",""
+ball,1,6.2,Otago,RJ Nicol,S Hicks,JG Walker,1,0,,,,,,"",""
+ball,1,6.3,Otago,S Hicks,RJ Nicol,JG Walker,2,0,,,,,,"",""
+ball,1,6.4,Otago,S Hicks,RJ Nicol,JG Walker,2,0,,,,,,"",""
+ball,1,6.5,Otago,S Hicks,RJ Nicol,JG Walker,1,0,,,,,,"",""
+ball,1,6.6,Otago,RJ Nicol,S Hicks,JG Walker,1,0,,,,,,"",""
+ball,1,7.1,Otago,RJ Nicol,S Hicks,DJ Mitchell,0,0,,,,,,bowled,RJ Nicol
+ball,1,7.2,Otago,LC Johnson,S Hicks,DJ Mitchell,1,0,,,,,,"",""
+ball,1,7.3,Otago,S Hicks,LC Johnson,DJ Mitchell,1,0,,,,,,"",""
+ball,1,7.4,Otago,LC Johnson,S Hicks,DJ Mitchell,1,0,,,,,,"",""
+ball,1,7.5,Otago,S Hicks,LC Johnson,DJ Mitchell,1,0,,,,,,"",""
+ball,1,7.6,Otago,LC Johnson,S Hicks,DJ Mitchell,0,0,,,,,,"",""
+ball,1,8.1,Otago,S Hicks,LC Johnson,CJ Jordan,0,0,,,,,,"",""
+ball,1,8.2,Otago,S Hicks,LC Johnson,CJ Jordan,0,0,,,,,,"",""
+ball,1,8.3,Otago,S Hicks,LC Johnson,CJ Jordan,1,0,,,,,,"",""
+ball,1,8.4,Otago,LC Johnson,S Hicks,CJ Jordan,4,0,,,,,,"",""
+ball,1,8.5,Otago,LC Johnson,S Hicks,CJ Jordan,0,1,1,,,,,"",""
+ball,1,8.6,Otago,LC Johnson,S Hicks,CJ Jordan,0,0,,,,,,"",""
+ball,1,8.7,Otago,LC Johnson,S Hicks,CJ Jordan,1,0,,,,,,"",""
+ball,1,9.1,Otago,LC Johnson,S Hicks,BG Randell,0,0,,,,,,caught,LC Johnson
+ball,1,9.2,Otago,DC de Boorder,S Hicks,BG Randell,0,0,,,,,,"",""
+ball,1,9.3,Otago,DC de Boorder,S Hicks,BG Randell,1,0,,,,,,"",""
+ball,1,9.4,Otago,S Hicks,DC de Boorder,BG Randell,6,0,,,,,,"",""
+ball,1,9.5,Otago,S Hicks,DC de Boorder,BG Randell,4,0,,,,,,"",""
+ball,1,9.6,Otago,S Hicks,DC de Boorder,BG Randell,0,0,,,,,,"",""
+ball,1,10.1,Otago,DC de Boorder,S Hicks,JG Walker,1,0,,,,,,"",""
+ball,1,10.2,Otago,S Hicks,DC de Boorder,JG Walker,0,0,,,,,,stumped,S Hicks
+ball,1,10.3,Otago,JL Finnie,DC de Boorder,JG Walker,1,0,,,,,,"",""
+ball,1,10.4,Otago,DC de Boorder,JL Finnie,JG Walker,1,0,,,,,,"",""
+ball,1,10.5,Otago,JL Finnie,DC de Boorder,JG Walker,0,0,,,,,,"",""
+ball,1,10.6,Otago,JL Finnie,DC de Boorder,JG Walker,1,0,,,,,,"",""
+ball,1,11.1,Otago,JL Finnie,DC de Boorder,SB Davey,0,0,,,,,,"",""
+ball,1,11.2,Otago,JL Finnie,DC de Boorder,SB Davey,1,0,,,,,,"",""
+ball,1,11.3,Otago,DC de Boorder,JL Finnie,SB Davey,0,0,,,,,,"",""
+ball,1,11.4,Otago,DC de Boorder,JL Finnie,SB Davey,0,0,,,,,,"",""
+ball,1,11.5,Otago,DC de Boorder,JL Finnie,SB Davey,1,0,,,,,,"",""
+ball,1,11.6,Otago,JL Finnie,DC de Boorder,SB Davey,1,0,,,,,,"",""
+ball,1,12.1,Otago,JL Finnie,DC de Boorder,AP Devcich,0,1,,,1,,,"",""
+ball,1,12.2,Otago,DC de Boorder,JL Finnie,AP Devcich,0,0,,,,,,"",""
+ball,1,12.3,Otago,DC de Boorder,JL Finnie,AP Devcich,4,0,,,,,,"",""
+ball,1,12.4,Otago,DC de Boorder,JL Finnie,AP Devcich,0,0,,,,,,"",""
+ball,1,12.5,Otago,DC de Boorder,JL Finnie,AP Devcich,0,0,,,,,,"",""
+ball,1,12.6,Otago,DC de Boorder,JL Finnie,AP Devcich,1,0,,,,,,"",""
+ball,1,13.1,Otago,DC de Boorder,JL Finnie,DJ Mitchell,1,0,,,,,,"",""
+ball,1,13.2,Otago,JL Finnie,DC de Boorder,DJ Mitchell,4,0,,,,,,"",""
+ball,1,13.3,Otago,JL Finnie,DC de Boorder,DJ Mitchell,2,0,,,,,,"",""
+ball,1,13.4,Otago,JL Finnie,DC de Boorder,DJ Mitchell,1,0,,,,,,"",""
+ball,1,13.5,Otago,DC de Boorder,JL Finnie,DJ Mitchell,1,0,,,,,,"",""
+ball,1,13.6,Otago,JL Finnie,DC de Boorder,DJ Mitchell,0,1,,1,,,,"",""
+ball,1,13.7,Otago,JL Finnie,DC de Boorder,DJ Mitchell,0,0,,,,,,"",""
+ball,1,14.1,Otago,DC de Boorder,JL Finnie,JG Walker,1,0,,,,,,"",""
+ball,1,14.2,Otago,JL Finnie,DC de Boorder,JG Walker,2,0,,,,,,"",""
+ball,1,14.3,Otago,JL Finnie,DC de Boorder,JG Walker,0,0,,,,,,"",""
+ball,1,14.4,Otago,JL Finnie,DC de Boorder,JG Walker,2,0,,,,,,"",""
+ball,1,14.5,Otago,JL Finnie,DC de Boorder,JG Walker,4,0,,,,,,"",""
+ball,1,14.6,Otago,JL Finnie,DC de Boorder,JG Walker,0,0,,,,,,"",""
+ball,1,15.1,Otago,DC de Boorder,JL Finnie,CJ Jordan,1,0,,,,,,"",""
+ball,1,15.2,Otago,JL Finnie,DC de Boorder,CJ Jordan,4,0,,,,,,"",""
+ball,1,15.3,Otago,JL Finnie,DC de Boorder,CJ Jordan,1,0,,,,,,"",""
+ball,1,15.4,Otago,DC de Boorder,JL Finnie,CJ Jordan,0,0,,,,,,"",""
+ball,1,15.5,Otago,DC de Boorder,JL Finnie,CJ Jordan,1,0,,,,,,"",""
+ball,1,15.6,Otago,JL Finnie,DC de Boorder,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.1,Otago,JL Finnie,DC de Boorder,AP Devcich,1,0,,,,,,"",""
+ball,1,16.2,Otago,DC de Boorder,JL Finnie,AP Devcich,1,0,,,,,,"",""
+ball,1,16.3,Otago,JL Finnie,DC de Boorder,AP Devcich,6,0,,,,,,"",""
+ball,1,16.4,Otago,JL Finnie,DC de Boorder,AP Devcich,4,0,,,,,,"",""
+ball,1,16.5,Otago,JL Finnie,DC de Boorder,AP Devcich,1,0,,,,,,"",""
+ball,1,16.6,Otago,DC de Boorder,JL Finnie,AP Devcich,0,0,,,,,,stumped,DC de Boorder
+ball,1,17.1,Otago,JL Finnie,BS Wilson,DJ Mitchell,1,0,,,,,,"",""
+ball,1,17.2,Otago,BS Wilson,JL Finnie,DJ Mitchell,0,0,,,,,,"",""
+ball,1,17.3,Otago,BS Wilson,JL Finnie,DJ Mitchell,1,0,,,,,,"",""
+ball,1,17.4,Otago,JL Finnie,BS Wilson,DJ Mitchell,2,0,,,,,,"",""
+ball,1,17.5,Otago,JL Finnie,BS Wilson,DJ Mitchell,6,0,,,,,,"",""
+ball,1,17.6,Otago,JL Finnie,BS Wilson,DJ Mitchell,0,0,,,,,,caught,JL Finnie
+ball,1,18.1,Otago,MJG Rippon,BS Wilson,BG Randell,1,0,,,,,,"",""
+ball,1,18.2,Otago,BS Wilson,MJG Rippon,BG Randell,1,0,,,,,,"",""
+ball,1,18.3,Otago,MJG Rippon,BS Wilson,BG Randell,1,0,,,,,,"",""
+ball,1,18.4,Otago,BS Wilson,MJG Rippon,BG Randell,1,0,,,,,,"",""
+ball,1,18.5,Otago,MJG Rippon,BS Wilson,BG Randell,1,0,,,,,,"",""
+ball,1,18.6,Otago,BS Wilson,MJG Rippon,BG Randell,0,0,,,,,,caught,BS Wilson
+ball,1,19.1,Otago,JA Duffy,MJG Rippon,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.2,Otago,MJG Rippon,JA Duffy,CJ Jordan,2,0,,,,,,"",""
+ball,1,19.3,Otago,MJG Rippon,JA Duffy,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.4,Otago,JA Duffy,MJG Rippon,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.5,Otago,MJG Rippon,JA Duffy,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.6,Otago,JA Duffy,MJG Rippon,CJ Jordan,0,0,,,,,,bowled,JA Duffy
+ball,2,0.1,Northern Districts,TL Seifert,AP Devcich,RJ Nicol,4,0,,,,,,"",""
+ball,2,0.2,Northern Districts,TL Seifert,AP Devcich,RJ Nicol,1,0,,,,,,"",""
+ball,2,0.3,Northern Districts,AP Devcich,TL Seifert,RJ Nicol,0,0,,,,,,"",""
+ball,2,0.4,Northern Districts,AP Devcich,TL Seifert,RJ Nicol,4,0,,,,,,"",""
+ball,2,0.5,Northern Districts,AP Devcich,TL Seifert,RJ Nicol,1,0,,,,,,"",""
+ball,2,0.6,Northern Districts,TL Seifert,AP Devcich,RJ Nicol,0,0,,,,,,"",""
+ball,2,1.1,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,1,0,,,,,,"",""
+ball,2,1.2,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,0,0,,,,,,"",""
+ball,2,1.3,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,4,0,,,,,,"",""
+ball,2,1.4,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,6,0,,,,,,"",""
+ball,2,1.5,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,1,0,,,,,,"",""
+ball,2,1.6,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,0,0,,,,,,"",""
+ball,2,2.1,Northern Districts,TL Seifert,AP Devcich,MB Bacon,0,0,,,,,,"",""
+ball,2,2.2,Northern Districts,TL Seifert,AP Devcich,MB Bacon,1,0,,,,,,"",""
+ball,2,2.3,Northern Districts,AP Devcich,TL Seifert,MB Bacon,0,0,,,,,,"",""
+ball,2,2.4,Northern Districts,AP Devcich,TL Seifert,MB Bacon,4,0,,,,,,"",""
+ball,2,2.5,Northern Districts,AP Devcich,TL Seifert,MB Bacon,1,0,,,,,,"",""
+ball,2,2.6,Northern Districts,TL Seifert,AP Devcich,MB Bacon,2,0,,,,,,"",""
+ball,2,3.1,Northern Districts,AP Devcich,TL Seifert,JA Duffy,0,0,,,,,,"",""
+ball,2,3.2,Northern Districts,AP Devcich,TL Seifert,JA Duffy,0,1,1,,,,,"",""
+ball,2,3.3,Northern Districts,AP Devcich,TL Seifert,JA Duffy,4,0,,,,,,"",""
+ball,2,3.4,Northern Districts,AP Devcich,TL Seifert,JA Duffy,1,0,,,,,,"",""
+ball,2,3.5,Northern Districts,TL Seifert,AP Devcich,JA Duffy,0,0,,,,,,"",""
+ball,2,3.6,Northern Districts,TL Seifert,AP Devcich,JA Duffy,1,0,,,,,,"",""
+ball,2,3.7,Northern Districts,AP Devcich,TL Seifert,JA Duffy,4,0,,,,,,"",""
+ball,2,4.1,Northern Districts,TL Seifert,AP Devcich,MB Bacon,0,0,,,,,,"",""
+ball,2,4.2,Northern Districts,TL Seifert,AP Devcich,MB Bacon,0,0,,,,,,"",""
+ball,2,4.3,Northern Districts,TL Seifert,AP Devcich,MB Bacon,0,0,,,,,,"",""
+ball,2,4.4,Northern Districts,TL Seifert,AP Devcich,MB Bacon,1,0,,,,,,"",""
+ball,2,4.5,Northern Districts,AP Devcich,TL Seifert,MB Bacon,1,0,,,,,,"",""
+ball,2,4.6,Northern Districts,TL Seifert,AP Devcich,MB Bacon,1,0,,,,,,"",""
+ball,2,5.1,Northern Districts,TL Seifert,AP Devcich,WD Barnes,0,0,,,,,,"",""
+ball,2,5.2,Northern Districts,TL Seifert,AP Devcich,WD Barnes,0,1,,,,1,,"",""
+ball,2,5.3,Northern Districts,AP Devcich,TL Seifert,WD Barnes,4,0,,,,,,"",""
+ball,2,5.4,Northern Districts,AP Devcich,TL Seifert,WD Barnes,0,1,,,,1,,"",""
+ball,2,5.5,Northern Districts,TL Seifert,AP Devcich,WD Barnes,2,0,,,,,,"",""
+ball,2,5.6,Northern Districts,TL Seifert,AP Devcich,WD Barnes,2,0,,,,,,"",""
+ball,2,6.1,Northern Districts,AP Devcich,TL Seifert,RJ Nicol,2,0,,,,,,"",""
+ball,2,6.2,Northern Districts,AP Devcich,TL Seifert,RJ Nicol,0,0,,,,,,"",""
+ball,2,6.3,Northern Districts,AP Devcich,TL Seifert,RJ Nicol,4,0,,,,,,"",""
+ball,2,6.4,Northern Districts,AP Devcich,TL Seifert,RJ Nicol,4,0,,,,,,"",""
+ball,2,6.5,Northern Districts,AP Devcich,TL Seifert,RJ Nicol,4,0,,,,,,"",""
+ball,2,6.6,Northern Districts,AP Devcich,TL Seifert,RJ Nicol,1,0,,,,,,"",""
+ball,2,7.1,Northern Districts,AP Devcich,TL Seifert,JA Duffy,0,0,,,,,,"",""
+ball,2,7.2,Northern Districts,AP Devcich,TL Seifert,JA Duffy,1,0,,,,,,"",""
+ball,2,7.3,Northern Districts,TL Seifert,AP Devcich,JA Duffy,0,0,,,,,,"",""
+ball,2,7.4,Northern Districts,TL Seifert,AP Devcich,JA Duffy,4,0,,,,,,"",""
+ball,2,7.5,Northern Districts,TL Seifert,AP Devcich,JA Duffy,0,0,,,,,,"",""
+ball,2,7.6,Northern Districts,TL Seifert,AP Devcich,JA Duffy,4,0,,,,,,"",""
+ball,2,8.1,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,4,0,,,,,,"",""
+ball,2,8.2,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,0,0,,,,,,"",""
+ball,2,8.3,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,1,0,,,,,,"",""
+ball,2,8.4,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,0,0,,,,,,"",""
+ball,2,8.5,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,1,0,,,,,,"",""
+ball,2,8.6,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,1,0,,,,,,"",""
+ball,2,9.1,Northern Districts,AP Devcich,TL Seifert,WD Barnes,4,0,,,,,,"",""
+ball,2,9.2,Northern Districts,AP Devcich,TL Seifert,WD Barnes,0,1,1,,,,,"",""
+ball,2,9.3,Northern Districts,AP Devcich,TL Seifert,WD Barnes,1,0,,,,,,"",""
+ball,2,9.4,Northern Districts,TL Seifert,AP Devcich,WD Barnes,1,0,,,,,,"",""
+ball,2,9.5,Northern Districts,AP Devcich,TL Seifert,WD Barnes,6,0,,,,,,"",""
+ball,2,9.6,Northern Districts,AP Devcich,TL Seifert,WD Barnes,1,0,,,,,,"",""
+ball,2,9.7,Northern Districts,TL Seifert,AP Devcich,WD Barnes,0,1,1,,,,,"",""
+ball,2,9.8,Northern Districts,TL Seifert,AP Devcich,WD Barnes,1,0,,,,,,"",""
+ball,2,10.1,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,0,0,,,,,,"",""
+ball,2,10.2,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,4,0,,,,,,"",""
+ball,2,10.3,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,1,0,,,,,,"",""
+ball,2,10.4,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,1,0,,,,,,"",""
+ball,2,10.5,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,3,0,,,,,,"",""
+ball,2,10.6,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,1,0,,,,,,"",""
+ball,2,11.1,Northern Districts,AP Devcich,TL Seifert,MB Bacon,1,0,,,,,,"",""
+ball,2,11.2,Northern Districts,TL Seifert,AP Devcich,MB Bacon,1,0,,,,,,"",""
+ball,2,11.3,Northern Districts,AP Devcich,TL Seifert,MB Bacon,0,0,,,,,,"",""
+ball,2,11.4,Northern Districts,AP Devcich,TL Seifert,MB Bacon,1,0,,,,,,"",""
+ball,2,11.5,Northern Districts,TL Seifert,AP Devcich,MB Bacon,4,0,,,,,,"",""
+ball,2,11.6,Northern Districts,TL Seifert,AP Devcich,MB Bacon,1,0,,,,,,"",""
+ball,2,12.1,Northern Districts,TL Seifert,AP Devcich,S Hicks,2,0,,,,,,"",""
+ball,2,12.2,Northern Districts,TL Seifert,AP Devcich,S Hicks,0,0,,,,,,"",""
+ball,2,12.3,Northern Districts,TL Seifert,AP Devcich,S Hicks,1,0,,,,,,"",""
+ball,2,12.4,Northern Districts,AP Devcich,TL Seifert,S Hicks,6,0,,,,,,"",""
+ball,2,12.5,Northern Districts,AP Devcich,TL Seifert,S Hicks,0,0,,,,,,"",""
+ball,2,12.6,Northern Districts,AP Devcich,TL Seifert,S Hicks,1,0,,,,,,"",""
+ball,2,13.1,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,0,0,,,,,,"",""
+ball,2,13.2,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,6,0,,,,,,"",""
+ball,2,13.3,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,0,0,,,,,,"",""
+ball,2,13.4,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,1,0,,,,,,"",""
+ball,2,13.5,Northern Districts,TL Seifert,AP Devcich,MJG Rippon,1,0,,,,,,"",""
+ball,2,13.6,Northern Districts,AP Devcich,TL Seifert,MJG Rippon,1,0,,,,,,"",""
+ball,2,14.1,Northern Districts,AP Devcich,TL Seifert,JA Duffy,4,0,,,,,,"",""
+ball,2,14.2,Northern Districts,AP Devcich,TL Seifert,JA Duffy,1,0,,,,,,"",""
+ball,2,14.3,Northern Districts,TL Seifert,AP Devcich,JA Duffy,0,1,1,,,,,"",""
+ball,2,14.4,Northern Districts,TL Seifert,AP Devcich,JA Duffy,0,0,,,,,,bowled,TL Seifert
+ball,2,14.5,Northern Districts,BR Hampton,AP Devcich,JA Duffy,1,0,,,,,,"",""
+ball,2,14.6,Northern Districts,AP Devcich,BR Hampton,JA Duffy,0,0,,,,,,"",""
+ball,2,14.7,Northern Districts,AP Devcich,BR Hampton,JA Duffy,0,0,,,,,,"",""
+ball,2,15.1,Northern Districts,BR Hampton,AP Devcich,WD Barnes,6,0,,,,,,"",""
+ball,2,15.2,Northern Districts,BR Hampton,AP Devcich,WD Barnes,1,0,,,,,,"",""
+ball,2,15.3,Northern Districts,AP Devcich,BR Hampton,WD Barnes,1,0,,,,,,"",""
+ball,2,15.4,Northern Districts,BR Hampton,AP Devcich,WD Barnes,1,0,,,,,,"",""
+ball,2,15.5,Northern Districts,AP Devcich,BR Hampton,WD Barnes,0,0,,,,,,"",""
+ball,2,15.6,Northern Districts,AP Devcich,BR Hampton,WD Barnes,4,0,,,,,,"",""

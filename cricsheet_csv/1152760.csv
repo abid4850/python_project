@@ -1,0 +1,316 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Sydney Thunder
+info,gender,female
+info,season,2018/19
+info,date,2018/12/30
+info,event,Women's Big Bash League
+info,match_number,35
+info,venue,Lilac Hill Park
+info,city,Perth
+info,toss_winner,Sydney Thunder
+info,toss_decision,field
+info,player_of_match,NE Bolton
+info,umpire,T Steenholdt
+info,umpire,J Paterson
+info,match_referee,Terry Prue
+info,winner,Perth Scorchers
+info,winner_runs,3
+info,player,Perth Scorchers,AE Jones
+info,player,Perth Scorchers,MM Lanning
+info,player,Perth Scorchers,H Graham
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,NE Bolton
+info,player,Perth Scorchers,LK Ebsary
+info,player,Perth Scorchers,KL Cross
+info,player,Perth Scorchers,M Carmichael
+info,player,Perth Scorchers,EL King
+info,player,Perth Scorchers,P Cleary
+info,player,Perth Scorchers,T Peschel
+info,player,Sydney Thunder,RH Priest
+info,player,Sydney Thunder,RL Haynes
+info,player,Sydney Thunder,NE Stalenberg
+info,player,Sydney Thunder,AJ Blackwell
+info,player,Sydney Thunder,H Kaur
+info,player,Sydney Thunder,SR Taylor
+info,player,Sydney Thunder,NJ Carey
+info,player,Sydney Thunder,RM Farrell
+info,player,Sydney Thunder,L Griffith
+info,player,Sydney Thunder,B Vakarewa
+info,player,Sydney Thunder,SL Bates
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AJ Blackwell,b9164a9b
+info,registry,people,B Vakarewa,06f988b8
+info,registry,people,C Piparo,276f3dde
+info,registry,people,EL King,2708b41c
+info,registry,people,H Graham,99812d10
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,J Paterson,578a2e3d
+info,registry,people,KL Cross,1ade138e
+info,registry,people,L Griffith,abe30ff7
+info,registry,people,LK Ebsary,884375bf
+info,registry,people,M Carmichael,4b546c04
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,NE Bolton,dd883071
+info,registry,people,NE Stalenberg,609c519e
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,P Cleary,507acf2e
+info,registry,people,RH Priest,e6f0408a
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,RM Farrell,4ed7d23f
+info,registry,people,SL Bates,0816fb1e
+info,registry,people,SR Taylor,92cf79a8
+info,registry,people,T Peschel,923402d8
+info,registry,people,T Steenholdt,715959cd
+info,registry,people,Terry Prue,16f16957
+ball,1,0.1,Perth Scorchers,AE Jones,MM Lanning,SL Bates,0,0,,,,,,"",""
+ball,1,0.2,Perth Scorchers,AE Jones,MM Lanning,SL Bates,0,0,,,,,,"",""
+ball,1,0.3,Perth Scorchers,AE Jones,MM Lanning,SL Bates,0,0,,,,,,"",""
+ball,1,0.4,Perth Scorchers,AE Jones,MM Lanning,SL Bates,4,0,,,,,,"",""
+ball,1,0.5,Perth Scorchers,AE Jones,MM Lanning,SL Bates,1,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,MM Lanning,AE Jones,SL Bates,0,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,AE Jones,MM Lanning,L Griffith,0,0,,,,,,caught,AE Jones
+ball,1,1.2,Perth Scorchers,H Graham,MM Lanning,L Griffith,0,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,H Graham,MM Lanning,L Griffith,0,1,1,,,,,"",""
+ball,1,1.4,Perth Scorchers,H Graham,MM Lanning,L Griffith,0,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,H Graham,MM Lanning,L Griffith,0,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,H Graham,MM Lanning,L Griffith,1,0,,,,,,"",""
+ball,1,1.7,Perth Scorchers,MM Lanning,H Graham,L Griffith,0,0,,,,,,"",""
+ball,1,2.1,Perth Scorchers,H Graham,MM Lanning,SL Bates,1,0,,,,,,"",""
+ball,1,2.2,Perth Scorchers,MM Lanning,H Graham,SL Bates,0,1,1,,,,,"",""
+ball,1,2.3,Perth Scorchers,MM Lanning,H Graham,SL Bates,0,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,MM Lanning,H Graham,SL Bates,1,0,,,,,,"",""
+ball,1,2.5,Perth Scorchers,H Graham,MM Lanning,SL Bates,0,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,H Graham,MM Lanning,SL Bates,0,0,,,,,,"",""
+ball,1,2.7,Perth Scorchers,H Graham,MM Lanning,SL Bates,3,0,,,,,,"",""
+ball,1,3.1,Perth Scorchers,H Graham,MM Lanning,L Griffith,1,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,MM Lanning,H Graham,L Griffith,0,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,MM Lanning,H Graham,L Griffith,0,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,MM Lanning,H Graham,L Griffith,0,0,,,,,,bowled,MM Lanning
+ball,1,3.5,Perth Scorchers,C Piparo,H Graham,L Griffith,0,1,1,,,,,"",""
+ball,1,3.6,Perth Scorchers,C Piparo,H Graham,L Griffith,2,0,,,,,,"",""
+ball,1,3.7,Perth Scorchers,C Piparo,H Graham,L Griffith,1,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,C Piparo,H Graham,RM Farrell,4,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,C Piparo,H Graham,RM Farrell,1,0,,,,,,"",""
+ball,1,4.3,Perth Scorchers,H Graham,C Piparo,RM Farrell,0,0,,,,,,"",""
+ball,1,4.4,Perth Scorchers,H Graham,C Piparo,RM Farrell,0,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,H Graham,C Piparo,RM Farrell,0,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,H Graham,C Piparo,RM Farrell,0,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,C Piparo,H Graham,SR Taylor,0,0,,,,,,"",""
+ball,1,5.2,Perth Scorchers,C Piparo,H Graham,SR Taylor,0,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,C Piparo,H Graham,SR Taylor,6,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,C Piparo,H Graham,SR Taylor,1,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,H Graham,C Piparo,SR Taylor,0,0,,,,,,caught,H Graham
+ball,1,5.6,Perth Scorchers,NE Bolton,C Piparo,SR Taylor,0,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,C Piparo,NE Bolton,NJ Carey,0,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,C Piparo,NE Bolton,NJ Carey,0,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,C Piparo,NE Bolton,NJ Carey,0,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,C Piparo,NE Bolton,NJ Carey,1,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,NE Bolton,C Piparo,NJ Carey,0,0,,,,,,"",""
+ball,1,6.6,Perth Scorchers,NE Bolton,C Piparo,NJ Carey,0,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,C Piparo,NE Bolton,SR Taylor,1,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,NE Bolton,C Piparo,SR Taylor,0,0,,,,,,"",""
+ball,1,7.3,Perth Scorchers,NE Bolton,C Piparo,SR Taylor,3,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,C Piparo,NE Bolton,SR Taylor,1,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,NE Bolton,C Piparo,SR Taylor,4,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,NE Bolton,C Piparo,SR Taylor,0,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,C Piparo,NE Bolton,NJ Carey,0,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,C Piparo,NE Bolton,NJ Carey,1,0,,,,,,"",""
+ball,1,8.3,Perth Scorchers,NE Bolton,C Piparo,NJ Carey,0,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,NE Bolton,C Piparo,NJ Carey,2,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,NE Bolton,C Piparo,NJ Carey,1,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,C Piparo,NE Bolton,NJ Carey,0,0,,,,,,caught,C Piparo
+ball,1,9.1,Perth Scorchers,LK Ebsary,NE Bolton,SR Taylor,1,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,NE Bolton,LK Ebsary,SR Taylor,1,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,LK Ebsary,NE Bolton,SR Taylor,1,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,NE Bolton,LK Ebsary,SR Taylor,1,0,,,,,,"",""
+ball,1,9.5,Perth Scorchers,LK Ebsary,NE Bolton,SR Taylor,0,0,,,,,,"",""
+ball,1,9.6,Perth Scorchers,LK Ebsary,NE Bolton,SR Taylor,1,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,LK Ebsary,NE Bolton,NJ Carey,1,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,NE Bolton,LK Ebsary,NJ Carey,1,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,LK Ebsary,NE Bolton,NJ Carey,0,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,LK Ebsary,NE Bolton,NJ Carey,0,1,1,,,,,"",""
+ball,1,10.5,Perth Scorchers,LK Ebsary,NE Bolton,NJ Carey,0,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,LK Ebsary,NE Bolton,NJ Carey,0,0,,,,,,"",""
+ball,1,10.7,Perth Scorchers,LK Ebsary,NE Bolton,NJ Carey,1,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,LK Ebsary,NE Bolton,RM Farrell,1,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,0,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,1,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,LK Ebsary,NE Bolton,RM Farrell,1,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,0,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,2,0,,,,,,"",""
+ball,1,12.1,Perth Scorchers,LK Ebsary,NE Bolton,B Vakarewa,0,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,LK Ebsary,NE Bolton,B Vakarewa,4,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,LK Ebsary,NE Bolton,B Vakarewa,1,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,NE Bolton,LK Ebsary,B Vakarewa,0,0,,,,,,"",""
+ball,1,12.5,Perth Scorchers,NE Bolton,LK Ebsary,B Vakarewa,1,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,LK Ebsary,NE Bolton,B Vakarewa,1,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,LK Ebsary,NE Bolton,SR Taylor,1,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,NE Bolton,LK Ebsary,SR Taylor,1,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,LK Ebsary,NE Bolton,SR Taylor,1,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,NE Bolton,LK Ebsary,SR Taylor,1,0,,,,,,"",""
+ball,1,13.5,Perth Scorchers,LK Ebsary,NE Bolton,SR Taylor,1,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,NE Bolton,LK Ebsary,SR Taylor,1,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,NE Bolton,LK Ebsary,SL Bates,1,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,LK Ebsary,NE Bolton,SL Bates,1,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,NE Bolton,LK Ebsary,SL Bates,1,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,LK Ebsary,NE Bolton,SL Bates,4,0,,,,,,"",""
+ball,1,14.5,Perth Scorchers,LK Ebsary,NE Bolton,SL Bates,2,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,LK Ebsary,NE Bolton,SL Bates,0,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,0,4,,,4,,,"",""
+ball,1,15.2,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,0,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,1,0,,,,,,"",""
+ball,1,15.4,Perth Scorchers,LK Ebsary,NE Bolton,RM Farrell,1,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,4,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,0,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,LK Ebsary,NE Bolton,B Vakarewa,2,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,LK Ebsary,NE Bolton,B Vakarewa,0,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,LK Ebsary,NE Bolton,B Vakarewa,1,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,NE Bolton,LK Ebsary,B Vakarewa,2,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,NE Bolton,LK Ebsary,B Vakarewa,4,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,NE Bolton,LK Ebsary,B Vakarewa,1,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,NE Bolton,LK Ebsary,L Griffith,2,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,NE Bolton,LK Ebsary,L Griffith,0,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,NE Bolton,LK Ebsary,L Griffith,1,0,,,,,,"",""
+ball,1,17.4,Perth Scorchers,LK Ebsary,NE Bolton,L Griffith,1,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,NE Bolton,LK Ebsary,L Griffith,4,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,NE Bolton,LK Ebsary,L Griffith,2,0,,,,,,"",""
+ball,1,18.1,Perth Scorchers,LK Ebsary,NE Bolton,NJ Carey,2,0,,,,,,"",""
+ball,1,18.2,Perth Scorchers,LK Ebsary,NE Bolton,NJ Carey,2,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,LK Ebsary,NE Bolton,NJ Carey,1,0,,,,,,"",""
+ball,1,18.4,Perth Scorchers,NE Bolton,LK Ebsary,NJ Carey,2,0,,,,,,"",""
+ball,1,18.5,Perth Scorchers,NE Bolton,LK Ebsary,NJ Carey,4,0,,,,,,"",""
+ball,1,18.6,Perth Scorchers,NE Bolton,LK Ebsary,NJ Carey,1,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,NE Bolton,LK Ebsary,RM Farrell,0,0,,,,,,bowled,NE Bolton
+ball,1,19.2,Perth Scorchers,KL Cross,LK Ebsary,RM Farrell,1,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,LK Ebsary,KL Cross,RM Farrell,0,0,,,,,,bowled,LK Ebsary
+ball,1,19.4,Perth Scorchers,M Carmichael,KL Cross,RM Farrell,1,0,,,,,,"",""
+ball,1,19.5,Perth Scorchers,KL Cross,M Carmichael,RM Farrell,2,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,KL Cross,M Carmichael,RM Farrell,1,0,,,,,,run out,KL Cross
+ball,2,0.1,Sydney Thunder,RH Priest,RL Haynes,NE Bolton,0,0,,,,,,"",""
+ball,2,0.2,Sydney Thunder,RH Priest,RL Haynes,NE Bolton,0,0,,,,,,"",""
+ball,2,0.3,Sydney Thunder,RH Priest,RL Haynes,NE Bolton,0,0,,,,,,caught,RH Priest
+ball,2,0.4,Sydney Thunder,NE Stalenberg,RL Haynes,NE Bolton,0,0,,,,,,"",""
+ball,2,0.5,Sydney Thunder,NE Stalenberg,RL Haynes,NE Bolton,0,0,,,,,,"",""
+ball,2,0.6,Sydney Thunder,NE Stalenberg,RL Haynes,NE Bolton,0,2,2,,,,,"",""
+ball,2,0.7,Sydney Thunder,RL Haynes,NE Stalenberg,NE Bolton,1,0,,,,,,"",""
+ball,2,1.1,Sydney Thunder,RL Haynes,NE Stalenberg,KL Cross,0,0,,,,,,"",""
+ball,2,1.2,Sydney Thunder,RL Haynes,NE Stalenberg,KL Cross,0,0,,,,,,"",""
+ball,2,1.3,Sydney Thunder,RL Haynes,NE Stalenberg,KL Cross,4,0,,,,,,"",""
+ball,2,1.4,Sydney Thunder,RL Haynes,NE Stalenberg,KL Cross,0,0,,,,,,"",""
+ball,2,1.5,Sydney Thunder,RL Haynes,NE Stalenberg,KL Cross,1,0,,,,,,"",""
+ball,2,1.6,Sydney Thunder,NE Stalenberg,RL Haynes,KL Cross,4,0,,,,,,"",""
+ball,2,2.1,Sydney Thunder,RL Haynes,NE Stalenberg,NE Bolton,0,1,1,,,,,"",""
+ball,2,2.2,Sydney Thunder,RL Haynes,NE Stalenberg,NE Bolton,1,0,,,,,,"",""
+ball,2,2.3,Sydney Thunder,NE Stalenberg,RL Haynes,NE Bolton,0,0,,,,,,caught,NE Stalenberg
+ball,2,2.4,Sydney Thunder,RL Haynes,AJ Blackwell,NE Bolton,1,0,,,,,,"",""
+ball,2,2.5,Sydney Thunder,AJ Blackwell,RL Haynes,NE Bolton,2,0,,,,,,"",""
+ball,2,2.6,Sydney Thunder,AJ Blackwell,RL Haynes,NE Bolton,0,0,,,,,,"",""
+ball,2,2.7,Sydney Thunder,AJ Blackwell,RL Haynes,NE Bolton,0,0,,,,,,"",""
+ball,2,3.1,Sydney Thunder,RL Haynes,AJ Blackwell,EL King,1,0,,,,,,"",""
+ball,2,3.2,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,0,0,,,,,,"",""
+ball,2,3.3,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,1,0,,,,,,"",""
+ball,2,3.4,Sydney Thunder,RL Haynes,AJ Blackwell,EL King,1,0,,,,,,"",""
+ball,2,3.5,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,0,0,,,,,,"",""
+ball,2,3.6,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,0,0,,,,,,"",""
+ball,2,4.1,Sydney Thunder,RL Haynes,AJ Blackwell,P Cleary,1,0,,,,,,"",""
+ball,2,4.2,Sydney Thunder,AJ Blackwell,RL Haynes,P Cleary,4,0,,,,,,"",""
+ball,2,4.3,Sydney Thunder,AJ Blackwell,RL Haynes,P Cleary,4,0,,,,,,"",""
+ball,2,4.4,Sydney Thunder,AJ Blackwell,RL Haynes,P Cleary,4,0,,,,,,"",""
+ball,2,4.5,Sydney Thunder,AJ Blackwell,RL Haynes,P Cleary,1,0,,,,,,"",""
+ball,2,4.6,Sydney Thunder,RL Haynes,AJ Blackwell,P Cleary,0,0,,,,,,"",""
+ball,2,5.1,Sydney Thunder,AJ Blackwell,RL Haynes,NE Bolton,4,0,,,,,,"",""
+ball,2,5.2,Sydney Thunder,AJ Blackwell,RL Haynes,NE Bolton,1,0,,,,,,"",""
+ball,2,5.3,Sydney Thunder,RL Haynes,AJ Blackwell,NE Bolton,2,0,,,,,,"",""
+ball,2,5.4,Sydney Thunder,RL Haynes,AJ Blackwell,NE Bolton,0,0,,,,,,"",""
+ball,2,5.5,Sydney Thunder,RL Haynes,AJ Blackwell,NE Bolton,2,0,,,,,,"",""
+ball,2,5.6,Sydney Thunder,RL Haynes,AJ Blackwell,NE Bolton,1,0,,,,,,"",""
+ball,2,6.1,Sydney Thunder,RL Haynes,AJ Blackwell,KL Cross,1,0,,,,,,"",""
+ball,2,6.2,Sydney Thunder,AJ Blackwell,RL Haynes,KL Cross,1,0,,,,,,"",""
+ball,2,6.3,Sydney Thunder,RL Haynes,AJ Blackwell,KL Cross,1,0,,,,,,"",""
+ball,2,6.4,Sydney Thunder,AJ Blackwell,RL Haynes,KL Cross,1,0,,,,,,"",""
+ball,2,6.5,Sydney Thunder,RL Haynes,AJ Blackwell,KL Cross,6,0,,,,,,"",""
+ball,2,6.6,Sydney Thunder,RL Haynes,AJ Blackwell,KL Cross,1,0,,,,,,"",""
+ball,2,7.1,Sydney Thunder,RL Haynes,AJ Blackwell,EL King,1,0,,,,,,"",""
+ball,2,7.2,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,0,0,,,,,,"",""
+ball,2,7.3,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,0,0,,,,,,"",""
+ball,2,7.4,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,4,0,,,,,,"",""
+ball,2,7.5,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,0,0,,,,,,"",""
+ball,2,7.6,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,1,0,,,,,,"",""
+ball,2,8.1,Sydney Thunder,AJ Blackwell,RL Haynes,H Graham,1,0,,,,,,"",""
+ball,2,8.2,Sydney Thunder,RL Haynes,AJ Blackwell,H Graham,0,0,,,,,,"",""
+ball,2,8.3,Sydney Thunder,RL Haynes,AJ Blackwell,H Graham,2,0,,,,,,"",""
+ball,2,8.4,Sydney Thunder,RL Haynes,AJ Blackwell,H Graham,0,0,,,,,,"",""
+ball,2,8.5,Sydney Thunder,RL Haynes,AJ Blackwell,H Graham,1,0,,,,,,"",""
+ball,2,8.6,Sydney Thunder,AJ Blackwell,RL Haynes,H Graham,0,0,,,,,,"",""
+ball,2,9.1,Sydney Thunder,RL Haynes,AJ Blackwell,EL King,0,0,,,,,,"",""
+ball,2,9.2,Sydney Thunder,RL Haynes,AJ Blackwell,EL King,1,0,,,,,,"",""
+ball,2,9.3,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,1,0,,,,,,"",""
+ball,2,9.4,Sydney Thunder,RL Haynes,AJ Blackwell,EL King,2,0,,,,,,"",""
+ball,2,9.5,Sydney Thunder,RL Haynes,AJ Blackwell,EL King,1,0,,,,,,"",""
+ball,2,9.6,Sydney Thunder,AJ Blackwell,RL Haynes,EL King,0,0,,,,,,"",""
+ball,2,10.1,Sydney Thunder,RL Haynes,AJ Blackwell,H Graham,0,0,,,,,,bowled,RL Haynes
+ball,2,10.2,Sydney Thunder,H Kaur,AJ Blackwell,H Graham,0,0,,,,,,"",""
+ball,2,10.3,Sydney Thunder,H Kaur,AJ Blackwell,H Graham,0,0,,,,,,"",""
+ball,2,10.4,Sydney Thunder,H Kaur,AJ Blackwell,H Graham,0,0,,,,,,"",""
+ball,2,10.5,Sydney Thunder,H Kaur,AJ Blackwell,H Graham,0,0,,,,,,"",""
+ball,2,10.6,Sydney Thunder,H Kaur,AJ Blackwell,H Graham,0,0,,,,,,"",""
+ball,2,11.1,Sydney Thunder,AJ Blackwell,H Kaur,T Peschel,2,0,,,,,,"",""
+ball,2,11.2,Sydney Thunder,AJ Blackwell,H Kaur,T Peschel,0,0,,,,,,"",""
+ball,2,11.3,Sydney Thunder,AJ Blackwell,H Kaur,T Peschel,4,0,,,,,,"",""
+ball,2,11.4,Sydney Thunder,AJ Blackwell,H Kaur,T Peschel,0,0,,,,,,"",""
+ball,2,11.5,Sydney Thunder,AJ Blackwell,H Kaur,T Peschel,1,0,,,,,,"",""
+ball,2,11.6,Sydney Thunder,H Kaur,AJ Blackwell,T Peschel,1,0,,,,,,"",""
+ball,2,12.1,Sydney Thunder,H Kaur,AJ Blackwell,KL Cross,1,0,,,,,,"",""
+ball,2,12.2,Sydney Thunder,AJ Blackwell,H Kaur,KL Cross,0,0,,,,,,bowled,AJ Blackwell
+ball,2,12.3,Sydney Thunder,SR Taylor,H Kaur,KL Cross,1,0,,,,,,"",""
+ball,2,12.4,Sydney Thunder,H Kaur,SR Taylor,KL Cross,1,0,,,,,,"",""
+ball,2,12.5,Sydney Thunder,SR Taylor,H Kaur,KL Cross,1,0,,,,,,"",""
+ball,2,12.6,Sydney Thunder,H Kaur,SR Taylor,KL Cross,1,0,,,,,,"",""
+ball,2,13.1,Sydney Thunder,H Kaur,SR Taylor,P Cleary,1,0,,,,,,"",""
+ball,2,13.2,Sydney Thunder,SR Taylor,H Kaur,P Cleary,1,0,,,,,,"",""
+ball,2,13.3,Sydney Thunder,H Kaur,SR Taylor,P Cleary,0,0,,,,,,"",""
+ball,2,13.4,Sydney Thunder,H Kaur,SR Taylor,P Cleary,1,0,,,,,,"",""
+ball,2,13.5,Sydney Thunder,SR Taylor,H Kaur,P Cleary,0,0,,,,,,"",""
+ball,2,13.6,Sydney Thunder,SR Taylor,H Kaur,P Cleary,0,0,,,,,,"",""
+ball,2,14.1,Sydney Thunder,H Kaur,SR Taylor,T Peschel,1,0,,,,,,"",""
+ball,2,14.2,Sydney Thunder,SR Taylor,H Kaur,T Peschel,0,2,2,,,,,"",""
+ball,2,14.3,Sydney Thunder,H Kaur,SR Taylor,T Peschel,0,0,,,,,,"",""
+ball,2,14.4,Sydney Thunder,H Kaur,SR Taylor,T Peschel,1,0,,,,,,"",""
+ball,2,14.5,Sydney Thunder,SR Taylor,H Kaur,T Peschel,0,0,,,,,,"",""
+ball,2,14.6,Sydney Thunder,SR Taylor,H Kaur,T Peschel,1,0,,,,,,"",""
+ball,2,14.7,Sydney Thunder,H Kaur,SR Taylor,T Peschel,2,0,,,,,,"",""
+ball,2,15.1,Sydney Thunder,SR Taylor,H Kaur,P Cleary,1,0,,,,,,"",""
+ball,2,15.2,Sydney Thunder,H Kaur,SR Taylor,P Cleary,0,1,1,,,,,"",""
+ball,2,15.3,Sydney Thunder,H Kaur,SR Taylor,P Cleary,1,0,,,,,,"",""
+ball,2,15.4,Sydney Thunder,SR Taylor,H Kaur,P Cleary,1,0,,,,,,"",""
+ball,2,15.5,Sydney Thunder,H Kaur,SR Taylor,P Cleary,1,0,,,,,,"",""
+ball,2,15.6,Sydney Thunder,SR Taylor,H Kaur,P Cleary,0,1,,,,1,,"",""
+ball,2,15.7,Sydney Thunder,H Kaur,SR Taylor,P Cleary,1,0,,,,,,"",""
+ball,2,16.1,Sydney Thunder,H Kaur,SR Taylor,EL King,1,0,,,,,,"",""
+ball,2,16.2,Sydney Thunder,SR Taylor,H Kaur,EL King,0,1,1,,,,,"",""
+ball,2,16.3,Sydney Thunder,SR Taylor,H Kaur,EL King,0,0,,,,,,"",""
+ball,2,16.4,Sydney Thunder,SR Taylor,H Kaur,EL King,0,0,,,,,,"",""
+ball,2,16.5,Sydney Thunder,SR Taylor,H Kaur,EL King,1,0,,,,,,"",""
+ball,2,16.6,Sydney Thunder,H Kaur,SR Taylor,EL King,0,0,,,,,,"",""
+ball,2,16.7,Sydney Thunder,H Kaur,SR Taylor,EL King,1,0,,,,,,"",""
+ball,2,17.1,Sydney Thunder,H Kaur,SR Taylor,NE Bolton,0,0,,,,,,"",""
+ball,2,17.2,Sydney Thunder,H Kaur,SR Taylor,NE Bolton,0,0,,,,,,"",""
+ball,2,17.3,Sydney Thunder,H Kaur,SR Taylor,NE Bolton,0,1,,,,1,,"",""
+ball,2,17.4,Sydney Thunder,SR Taylor,H Kaur,NE Bolton,4,0,,,,,,"",""
+ball,2,17.5,Sydney Thunder,SR Taylor,H Kaur,NE Bolton,0,0,,,,,,"",""
+ball,2,17.6,Sydney Thunder,SR Taylor,H Kaur,NE Bolton,4,0,,,,,,"",""
+ball,2,18.1,Sydney Thunder,H Kaur,SR Taylor,KL Cross,0,1,1,,,,,"",""
+ball,2,18.2,Sydney Thunder,H Kaur,SR Taylor,KL Cross,0,0,,,,,,"",""
+ball,2,18.3,Sydney Thunder,H Kaur,SR Taylor,KL Cross,2,0,,,,,,"",""
+ball,2,18.4,Sydney Thunder,H Kaur,SR Taylor,KL Cross,0,0,,,,,,"",""
+ball,2,18.5,Sydney Thunder,H Kaur,SR Taylor,KL Cross,1,0,,,,,,"",""
+ball,2,18.6,Sydney Thunder,SR Taylor,H Kaur,KL Cross,1,0,,,,,,"",""
+ball,2,18.7,Sydney Thunder,H Kaur,SR Taylor,KL Cross,1,0,,,,,,"",""
+ball,2,19.1,Sydney Thunder,H Kaur,SR Taylor,H Graham,0,0,,,,,,caught,H Kaur
+ball,2,19.2,Sydney Thunder,SR Taylor,NJ Carey,H Graham,2,0,,,,,,"",""
+ball,2,19.3,Sydney Thunder,SR Taylor,NJ Carey,H Graham,0,0,,,,,,"",""
+ball,2,19.4,Sydney Thunder,SR Taylor,NJ Carey,H Graham,0,1,,,,1,,"",""
+ball,2,19.5,Sydney Thunder,NJ Carey,SR Taylor,H Graham,1,0,,,,,,"",""
+ball,2,19.6,Sydney Thunder,SR Taylor,NJ Carey,H Graham,1,0,,,,,,"",""

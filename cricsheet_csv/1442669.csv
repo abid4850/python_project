@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Sydney Thunder
+info,gender,female
+info,season,2024/25
+info,date,2024/11/12
+info,event,Women's Big Bash League
+info,match_number,24
+info,venue,"Drummoyne Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Perth Scorchers
+info,toss_decision,bat
+info,player_of_match,CC Ainsworth
+info,umpire,Bede Sajowitz
+info,umpire,Troy Penman
+info,reserve_umpire,Roberto Howard
+info,tv_umpire,ME Claydon
+info,match_referee,J Broadbent
+info,winner,Perth Scorchers
+info,winner_runs,74
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,D Hemalatha
+info,player,Perth Scorchers,SFM Devine
+info,player,Perth Scorchers,AE Jones
+info,player,Perth Scorchers,M Hinkley
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,CC Ainsworth
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,L Mills
+info,player,Perth Scorchers,E Hoskin
+info,player,Sydney Thunder,AC Jayangani
+info,player,Sydney Thunder,G Voll
+info,player,Sydney Thunder,P Litchfield
+info,player,Sydney Thunder,HC Knight
+info,player,Sydney Thunder,T Wilson
+info,player,Sydney Thunder,A Learoyd
+info,player,Sydney Thunder,SJ Johnson
+info,player,Sydney Thunder,HJ Darlington
+info,player,Sydney Thunder,T Peschel
+info,player,Sydney Thunder,S Ismail
+info,player,Sydney Thunder,SL Bates
+info,registry,people,A King,83558266
+info,registry,people,A Learoyd,1757bedf
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AL Edgar,795ff893
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,Bede Sajowitz,14fb95ae
+info,registry,people,C Piparo,276f3dde
+info,registry,people,CC Ainsworth,4b69c598
+info,registry,people,D Hemalatha,1d6ff329
+info,registry,people,E Hoskin,cd2ad878
+info,registry,people,G Voll,5c30d455
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HJ Darlington,50b558d2
+info,registry,people,J Broadbent,f3266bb5
+info,registry,people,L Mills,c35a0b8a
+info,registry,people,M Hinkley,3812165d
+info,registry,people,ME Claydon,15101f12
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,Roberto Howard,eec90c4b
+info,registry,people,S Ismail,108c4c09
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SJ Johnson,d7b754d4
+info,registry,people,SL Bates,0816fb1e
+info,registry,people,T Peschel,923402d8
+info,registry,people,T Wilson,32100b2d
+info,registry,people,Troy Penman,0aa42c26
+ball,1,0.1,Perth Scorchers,BL Mooney,C Piparo,S Ismail,1,0,,,,,,"",""
+ball,1,0.2,Perth Scorchers,C Piparo,BL Mooney,S Ismail,1,0,,,,,,"",""
+ball,1,0.3,Perth Scorchers,BL Mooney,C Piparo,S Ismail,0,0,,,,,,"",""
+ball,1,0.4,Perth Scorchers,BL Mooney,C Piparo,S Ismail,0,0,,,,,,"",""
+ball,1,0.5,Perth Scorchers,BL Mooney,C Piparo,S Ismail,4,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,BL Mooney,C Piparo,S Ismail,0,1,1,,,,,"",""
+ball,1,0.7,Perth Scorchers,BL Mooney,C Piparo,S Ismail,0,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,C Piparo,BL Mooney,SL Bates,0,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,C Piparo,BL Mooney,SL Bates,1,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,BL Mooney,C Piparo,SL Bates,0,1,1,,,,,"",""
+ball,1,1.4,Perth Scorchers,BL Mooney,C Piparo,SL Bates,1,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,C Piparo,BL Mooney,SL Bates,1,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,BL Mooney,C Piparo,SL Bates,1,0,,,,,,"",""
+ball,1,1.7,Perth Scorchers,C Piparo,BL Mooney,SL Bates,0,0,,,,,,run out,BL Mooney
+ball,1,2.1,Perth Scorchers,D Hemalatha,C Piparo,S Ismail,0,1,1,,,,,"",""
+ball,1,2.2,Perth Scorchers,D Hemalatha,C Piparo,S Ismail,1,0,,,,,,"",""
+ball,1,2.3,Perth Scorchers,C Piparo,D Hemalatha,S Ismail,0,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,C Piparo,D Hemalatha,S Ismail,1,0,,,,,,"",""
+ball,1,2.5,Perth Scorchers,D Hemalatha,C Piparo,S Ismail,1,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,C Piparo,D Hemalatha,S Ismail,0,0,,,,,,"",""
+ball,1,2.7,Perth Scorchers,C Piparo,D Hemalatha,S Ismail,4,0,,,,,,"",""
+ball,1,3.1,Perth Scorchers,D Hemalatha,C Piparo,T Peschel,2,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,D Hemalatha,C Piparo,T Peschel,0,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,D Hemalatha,C Piparo,T Peschel,0,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,D Hemalatha,C Piparo,T Peschel,0,1,1,,,,,"",""
+ball,1,3.5,Perth Scorchers,D Hemalatha,C Piparo,T Peschel,4,0,,,,,,"",""
+ball,1,3.6,Perth Scorchers,D Hemalatha,C Piparo,T Peschel,0,0,,,,,,"",""
+ball,1,3.7,Perth Scorchers,D Hemalatha,C Piparo,T Peschel,1,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,D Hemalatha,C Piparo,HJ Darlington,1,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,C Piparo,D Hemalatha,HJ Darlington,0,1,1,,,,,"",""
+ball,1,4.3,Perth Scorchers,C Piparo,D Hemalatha,HJ Darlington,0,0,,,,,,"",""
+ball,1,4.4,Perth Scorchers,C Piparo,D Hemalatha,HJ Darlington,2,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,C Piparo,D Hemalatha,HJ Darlington,0,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,C Piparo,D Hemalatha,HJ Darlington,1,0,,,,,,"",""
+ball,1,4.7,Perth Scorchers,D Hemalatha,C Piparo,HJ Darlington,1,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,D Hemalatha,C Piparo,AC Jayangani,2,0,,,,,,"",""
+ball,1,5.2,Perth Scorchers,D Hemalatha,C Piparo,AC Jayangani,1,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,C Piparo,D Hemalatha,AC Jayangani,6,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,C Piparo,D Hemalatha,AC Jayangani,0,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,C Piparo,D Hemalatha,AC Jayangani,0,0,,,,,,"",""
+ball,1,5.6,Perth Scorchers,C Piparo,D Hemalatha,AC Jayangani,0,0,,,,,,caught,C Piparo
+ball,1,6.1,Perth Scorchers,D Hemalatha,SFM Devine,SL Bates,0,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,D Hemalatha,SFM Devine,SL Bates,4,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,D Hemalatha,SFM Devine,SL Bates,1,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,SFM Devine,D Hemalatha,SL Bates,2,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,SFM Devine,D Hemalatha,SL Bates,1,0,,,,,,"",""
+ball,1,6.6,Perth Scorchers,D Hemalatha,SFM Devine,SL Bates,2,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,SFM Devine,D Hemalatha,SJ Johnson,0,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,SFM Devine,D Hemalatha,SJ Johnson,1,0,,,,,,"",""
+ball,1,7.3,Perth Scorchers,D Hemalatha,SFM Devine,SJ Johnson,1,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,SFM Devine,D Hemalatha,SJ Johnson,0,1,1,,,,,"",""
+ball,1,7.5,Perth Scorchers,SFM Devine,D Hemalatha,SJ Johnson,0,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,SFM Devine,D Hemalatha,SJ Johnson,0,0,,,,,,"",""
+ball,1,7.7,Perth Scorchers,SFM Devine,D Hemalatha,SJ Johnson,0,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,D Hemalatha,SFM Devine,T Peschel,0,1,1,,,,,"",""
+ball,1,8.2,Perth Scorchers,D Hemalatha,SFM Devine,T Peschel,0,0,,,,,,"",""
+ball,1,8.3,Perth Scorchers,D Hemalatha,SFM Devine,T Peschel,4,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,D Hemalatha,SFM Devine,T Peschel,4,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,D Hemalatha,SFM Devine,T Peschel,6,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,D Hemalatha,SFM Devine,T Peschel,2,0,,,,,,"",""
+ball,1,8.7,Perth Scorchers,D Hemalatha,SFM Devine,T Peschel,1,0,,,,,,"",""
+ball,1,9.1,Perth Scorchers,D Hemalatha,SFM Devine,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,SFM Devine,D Hemalatha,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,D Hemalatha,SFM Devine,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,SFM Devine,D Hemalatha,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.5,Perth Scorchers,D Hemalatha,SFM Devine,AC Jayangani,0,1,1,,,,,"",""
+ball,1,9.6,Perth Scorchers,D Hemalatha,SFM Devine,AC Jayangani,0,0,,,,,,bowled,D Hemalatha
+ball,1,9.7,Perth Scorchers,AE Jones,SFM Devine,AC Jayangani,1,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,AE Jones,SFM Devine,HJ Darlington,4,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,AE Jones,SFM Devine,HJ Darlington,1,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,SFM Devine,AE Jones,HJ Darlington,1,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,AE Jones,SFM Devine,HJ Darlington,1,0,,,,,,"",""
+ball,1,10.5,Perth Scorchers,SFM Devine,AE Jones,HJ Darlington,1,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,AE Jones,SFM Devine,HJ Darlington,1,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,AE Jones,SFM Devine,SL Bates,0,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,AE Jones,SFM Devine,SL Bates,0,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,AE Jones,SFM Devine,SL Bates,0,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,AE Jones,SFM Devine,SL Bates,1,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,SFM Devine,AE Jones,SL Bates,4,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,SFM Devine,AE Jones,SL Bates,0,0,,,,,,"",""
+ball,1,12.1,Perth Scorchers,AE Jones,SFM Devine,SJ Johnson,0,1,,,,1,,"",""
+ball,1,12.2,Perth Scorchers,SFM Devine,AE Jones,SJ Johnson,0,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,SFM Devine,AE Jones,SJ Johnson,4,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,SFM Devine,AE Jones,SJ Johnson,1,0,,,,,,"",""
+ball,1,12.5,Perth Scorchers,AE Jones,SFM Devine,SJ Johnson,1,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,SFM Devine,AE Jones,SJ Johnson,4,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,AE Jones,SFM Devine,AC Jayangani,2,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,AE Jones,SFM Devine,AC Jayangani,1,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,SFM Devine,AE Jones,AC Jayangani,0,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,SFM Devine,AE Jones,AC Jayangani,0,0,,,,,,"",""
+ball,1,13.5,Perth Scorchers,SFM Devine,AE Jones,AC Jayangani,0,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,SFM Devine,AE Jones,AC Jayangani,0,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,AE Jones,SFM Devine,S Ismail,0,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,AE Jones,SFM Devine,S Ismail,0,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,AE Jones,SFM Devine,S Ismail,2,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,AE Jones,SFM Devine,S Ismail,0,0,,,,,,"",""
+ball,1,14.5,Perth Scorchers,AE Jones,SFM Devine,S Ismail,4,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,AE Jones,SFM Devine,S Ismail,0,0,,,,,,caught,AE Jones
+ball,1,15.1,Perth Scorchers,SFM Devine,M Hinkley,HJ Darlington,1,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,M Hinkley,SFM Devine,HJ Darlington,1,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,SFM Devine,M Hinkley,HJ Darlington,2,0,,,,,,"",""
+ball,1,15.4,Perth Scorchers,SFM Devine,M Hinkley,HJ Darlington,1,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,M Hinkley,SFM Devine,HJ Darlington,1,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,SFM Devine,M Hinkley,HJ Darlington,0,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,M Hinkley,SFM Devine,SJ Johnson,2,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,M Hinkley,SFM Devine,SJ Johnson,1,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,SFM Devine,M Hinkley,SJ Johnson,6,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,SFM Devine,M Hinkley,SJ Johnson,4,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,SFM Devine,M Hinkley,SJ Johnson,1,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,M Hinkley,SFM Devine,SJ Johnson,6,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,SFM Devine,M Hinkley,SL Bates,4,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,SFM Devine,M Hinkley,SL Bates,1,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,M Hinkley,SFM Devine,SL Bates,4,0,,,,,,"",""
+ball,1,17.4,Perth Scorchers,M Hinkley,SFM Devine,SL Bates,0,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,M Hinkley,SFM Devine,SL Bates,4,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,M Hinkley,SFM Devine,SL Bates,0,0,,,,,,caught,M Hinkley
+ball,1,18.1,Perth Scorchers,SFM Devine,A King,S Ismail,0,0,,,,,,"",""
+ball,1,18.2,Perth Scorchers,SFM Devine,A King,S Ismail,4,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,SFM Devine,A King,S Ismail,0,1,1,,,,,"",""
+ball,1,18.4,Perth Scorchers,SFM Devine,A King,S Ismail,3,0,,,,,,"",""
+ball,1,18.5,Perth Scorchers,A King,SFM Devine,S Ismail,0,1,1,,,,,"",""
+ball,1,18.6,Perth Scorchers,A King,SFM Devine,S Ismail,1,0,,,,,,"",""
+ball,1,18.7,Perth Scorchers,SFM Devine,A King,S Ismail,0,0,,,,,,bowled,SFM Devine
+ball,1,18.8,Perth Scorchers,CC Ainsworth,A King,S Ismail,0,1,,,,1,,"",""
+ball,1,19.1,Perth Scorchers,CC Ainsworth,A King,HJ Darlington,0,1,1,,,,,"",""
+ball,1,19.2,Perth Scorchers,CC Ainsworth,A King,HJ Darlington,0,0,,,,,,caught and bowled,CC Ainsworth
+ball,1,19.3,Perth Scorchers,AL Edgar,A King,HJ Darlington,1,0,,,,,,"",""
+ball,1,19.4,Perth Scorchers,A King,AL Edgar,HJ Darlington,0,1,,,,1,,"",""
+ball,1,19.5,Perth Scorchers,AL Edgar,A King,HJ Darlington,2,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,AL Edgar,A King,HJ Darlington,0,0,,,,,,"",""
+ball,1,19.7,Perth Scorchers,AL Edgar,A King,HJ Darlington,2,0,,,,,,"",""
+ball,2,0.1,Sydney Thunder,AC Jayangani,G Voll,CC Ainsworth,0,0,,,,,,"",""
+ball,2,0.2,Sydney Thunder,AC Jayangani,G Voll,CC Ainsworth,0,1,1,,,,,"",""
+ball,2,0.3,Sydney Thunder,AC Jayangani,G Voll,CC Ainsworth,0,0,,,,,,"",""
+ball,2,0.4,Sydney Thunder,AC Jayangani,G Voll,CC Ainsworth,0,0,,,,,,"",""
+ball,2,0.5,Sydney Thunder,AC Jayangani,G Voll,CC Ainsworth,0,0,,,,,,caught,AC Jayangani
+ball,2,0.6,Sydney Thunder,P Litchfield,G Voll,CC Ainsworth,0,0,,,,,,"",""
+ball,2,0.7,Sydney Thunder,P Litchfield,G Voll,CC Ainsworth,0,0,,,,,,"",""
+ball,2,1.1,Sydney Thunder,G Voll,P Litchfield,AL Edgar,0,0,,,,,,"",""
+ball,2,1.2,Sydney Thunder,G Voll,P Litchfield,AL Edgar,4,0,,,,,,"",""
+ball,2,1.3,Sydney Thunder,G Voll,P Litchfield,AL Edgar,2,0,,,,,,"",""
+ball,2,1.4,Sydney Thunder,G Voll,P Litchfield,AL Edgar,1,0,,,,,,"",""
+ball,2,1.5,Sydney Thunder,P Litchfield,G Voll,AL Edgar,4,0,,,,,,"",""
+ball,2,1.6,Sydney Thunder,P Litchfield,G Voll,AL Edgar,0,0,,,,,,"",""
+ball,2,2.1,Sydney Thunder,G Voll,P Litchfield,CC Ainsworth,0,1,1,,,,,"",""
+ball,2,2.2,Sydney Thunder,G Voll,P Litchfield,CC Ainsworth,1,0,,,,,,"",""
+ball,2,2.3,Sydney Thunder,P Litchfield,G Voll,CC Ainsworth,0,0,,,,,,"",""
+ball,2,2.4,Sydney Thunder,P Litchfield,G Voll,CC Ainsworth,1,0,,,,,,"",""
+ball,2,2.5,Sydney Thunder,G Voll,P Litchfield,CC Ainsworth,0,0,,,,,,"",""
+ball,2,2.6,Sydney Thunder,G Voll,P Litchfield,CC Ainsworth,0,0,,,,,,"",""
+ball,2,2.7,Sydney Thunder,G Voll,P Litchfield,CC Ainsworth,0,0,,,,,,caught,G Voll
+ball,2,3.1,Sydney Thunder,P Litchfield,HC Knight,E Hoskin,4,0,,,,,,"",""
+ball,2,3.2,Sydney Thunder,P Litchfield,HC Knight,E Hoskin,2,0,,,,,,"",""
+ball,2,3.3,Sydney Thunder,P Litchfield,HC Knight,E Hoskin,0,0,,,,,,"",""
+ball,2,3.4,Sydney Thunder,P Litchfield,HC Knight,E Hoskin,0,0,,,,,,"",""
+ball,2,3.5,Sydney Thunder,P Litchfield,HC Knight,E Hoskin,1,0,,,,,,"",""
+ball,2,3.6,Sydney Thunder,HC Knight,P Litchfield,E Hoskin,0,0,,,,,,"",""
+ball,2,4.1,Sydney Thunder,P Litchfield,HC Knight,SFM Devine,0,0,,,,,,"",""
+ball,2,4.2,Sydney Thunder,P Litchfield,HC Knight,SFM Devine,4,0,,,,,,"",""
+ball,2,4.3,Sydney Thunder,P Litchfield,HC Knight,SFM Devine,4,0,,,,,,"",""
+ball,2,4.4,Sydney Thunder,P Litchfield,HC Knight,SFM Devine,0,0,,,,,,"",""
+ball,2,4.5,Sydney Thunder,P Litchfield,HC Knight,SFM Devine,1,0,,,,,,"",""
+ball,2,4.6,Sydney Thunder,HC Knight,P Litchfield,SFM Devine,1,0,,,,,,"",""
+ball,2,5.1,Sydney Thunder,HC Knight,P Litchfield,L Mills,2,0,,,,,,"",""
+ball,2,5.2,Sydney Thunder,HC Knight,P Litchfield,L Mills,1,0,,,,,,"",""
+ball,2,5.3,Sydney Thunder,P Litchfield,HC Knight,L Mills,0,0,,,,,,"",""
+ball,2,5.4,Sydney Thunder,P Litchfield,HC Knight,L Mills,1,0,,,,,,"",""
+ball,2,5.5,Sydney Thunder,HC Knight,P Litchfield,L Mills,0,0,,,,,,"",""
+ball,2,5.6,Sydney Thunder,HC Knight,P Litchfield,L Mills,0,0,,,,,,"",""
+ball,2,6.1,Sydney Thunder,P Litchfield,HC Knight,A King,1,0,,,,,,"",""
+ball,2,6.2,Sydney Thunder,HC Knight,P Litchfield,A King,2,0,,,,,,"",""
+ball,2,6.3,Sydney Thunder,HC Knight,P Litchfield,A King,0,0,,,,,,"",""
+ball,2,6.4,Sydney Thunder,HC Knight,P Litchfield,A King,0,0,,,,,,"",""
+ball,2,6.5,Sydney Thunder,HC Knight,P Litchfield,A King,2,0,,,,,,"",""
+ball,2,6.6,Sydney Thunder,HC Knight,P Litchfield,A King,1,0,,,,,,"",""
+ball,2,7.1,Sydney Thunder,HC Knight,P Litchfield,AL Edgar,0,0,,,,,,"",""
+ball,2,7.2,Sydney Thunder,HC Knight,P Litchfield,AL Edgar,0,0,,,,,,"",""
+ball,2,7.3,Sydney Thunder,HC Knight,P Litchfield,AL Edgar,1,0,,,,,,"",""
+ball,2,7.4,Sydney Thunder,P Litchfield,HC Knight,AL Edgar,0,0,,,,,,"",""
+ball,2,7.5,Sydney Thunder,P Litchfield,HC Knight,AL Edgar,4,0,,,,,,"",""
+ball,2,7.6,Sydney Thunder,P Litchfield,HC Knight,AL Edgar,0,0,,,,,,caught,P Litchfield
+ball,2,8.1,Sydney Thunder,HC Knight,T Wilson,CC Ainsworth,0,0,,,,,,"",""
+ball,2,8.2,Sydney Thunder,HC Knight,T Wilson,CC Ainsworth,1,0,,,,,,"",""
+ball,2,8.3,Sydney Thunder,T Wilson,HC Knight,CC Ainsworth,0,0,,,,,,"",""
+ball,2,8.4,Sydney Thunder,T Wilson,HC Knight,CC Ainsworth,0,0,,,,,,"",""
+ball,2,8.5,Sydney Thunder,T Wilson,HC Knight,CC Ainsworth,1,0,,,,,,"",""
+ball,2,8.6,Sydney Thunder,HC Knight,T Wilson,CC Ainsworth,0,0,,,,,,"",""
+ball,2,9.1,Sydney Thunder,T Wilson,HC Knight,A King,0,1,,,,1,,"",""
+ball,2,9.2,Sydney Thunder,HC Knight,T Wilson,A King,2,0,,,,,,"",""
+ball,2,9.3,Sydney Thunder,HC Knight,T Wilson,A King,0,0,,,,,,bowled,HC Knight
+ball,2,9.4,Sydney Thunder,A Learoyd,T Wilson,A King,1,0,,,,,,"",""
+ball,2,9.5,Sydney Thunder,T Wilson,A Learoyd,A King,1,0,,,,,,"",""
+ball,2,9.6,Sydney Thunder,A Learoyd,T Wilson,A King,1,0,,,,,,"",""
+ball,2,10.1,Sydney Thunder,A Learoyd,T Wilson,E Hoskin,0,0,,,,,,"",""
+ball,2,10.2,Sydney Thunder,A Learoyd,T Wilson,E Hoskin,0,0,,,,,,"",""
+ball,2,10.3,Sydney Thunder,A Learoyd,T Wilson,E Hoskin,2,0,,,,,,"",""
+ball,2,10.4,Sydney Thunder,A Learoyd,T Wilson,E Hoskin,0,0,,,,,,"",""
+ball,2,10.5,Sydney Thunder,A Learoyd,T Wilson,E Hoskin,0,0,,,,,,"",""
+ball,2,10.6,Sydney Thunder,A Learoyd,T Wilson,E Hoskin,0,0,,,,,,caught,A Learoyd
+ball,2,11.1,Sydney Thunder,T Wilson,SJ Johnson,L Mills,1,0,,,,,,"",""
+ball,2,11.2,Sydney Thunder,SJ Johnson,T Wilson,L Mills,1,0,,,,,,"",""
+ball,2,11.3,Sydney Thunder,T Wilson,SJ Johnson,L Mills,1,0,,,,,,"",""
+ball,2,11.4,Sydney Thunder,SJ Johnson,T Wilson,L Mills,1,0,,,,,,"",""
+ball,2,11.5,Sydney Thunder,T Wilson,SJ Johnson,L Mills,1,0,,,,,,"",""
+ball,2,11.6,Sydney Thunder,SJ Johnson,T Wilson,L Mills,1,0,,,,,,"",""
+ball,2,12.1,Sydney Thunder,SJ Johnson,T Wilson,E Hoskin,0,1,1,,,,,"",""
+ball,2,12.2,Sydney Thunder,SJ Johnson,T Wilson,E Hoskin,0,0,,,,,,"",""
+ball,2,12.3,Sydney Thunder,SJ Johnson,T Wilson,E Hoskin,0,2,,,2,,,"",""
+ball,2,12.4,Sydney Thunder,SJ Johnson,T Wilson,E Hoskin,0,0,,,,,,caught,SJ Johnson
+ball,2,12.5,Sydney Thunder,HJ Darlington,T Wilson,E Hoskin,0,0,,,,,,"",""
+ball,2,12.6,Sydney Thunder,HJ Darlington,T Wilson,E Hoskin,0,0,,,,,,"",""
+ball,2,12.7,Sydney Thunder,HJ Darlington,T Wilson,E Hoskin,0,0,,,,,,"",""
+ball,2,13.1,Sydney Thunder,T Wilson,HJ Darlington,A King,0,0,,,,,,"",""
+ball,2,13.2,Sydney Thunder,T Wilson,HJ Darlington,A King,1,0,,,,,,"",""
+ball,2,13.3,Sydney Thunder,HJ Darlington,T Wilson,A King,0,0,,,,,,"",""
+ball,2,13.4,Sydney Thunder,HJ Darlington,T Wilson,A King,0,0,,,,,,"",""
+ball,2,13.5,Sydney Thunder,HJ Darlington,T Wilson,A King,2,0,,,,,,"",""
+ball,2,13.6,Sydney Thunder,HJ Darlington,T Wilson,A King,1,0,,,,,,"",""
+ball,2,14.1,Sydney Thunder,HJ Darlington,T Wilson,CC Ainsworth,0,0,,,,,,"",""
+ball,2,14.2,Sydney Thunder,HJ Darlington,T Wilson,CC Ainsworth,4,0,,,,,,"",""
+ball,2,14.3,Sydney Thunder,HJ Darlington,T Wilson,CC Ainsworth,1,0,,,,,,"",""
+ball,2,14.4,Sydney Thunder,T Wilson,HJ Darlington,CC Ainsworth,0,0,,,,,,"",""
+ball,2,14.5,Sydney Thunder,T Wilson,HJ Darlington,CC Ainsworth,3,0,,,,,,"",""
+ball,2,14.6,Sydney Thunder,HJ Darlington,T Wilson,CC Ainsworth,1,0,,,,,,"",""
+ball,2,15.1,Sydney Thunder,HJ Darlington,T Wilson,AL Edgar,1,0,,,,,,"",""
+ball,2,15.2,Sydney Thunder,T Wilson,HJ Darlington,AL Edgar,1,0,,,,,,"",""
+ball,2,15.3,Sydney Thunder,HJ Darlington,T Wilson,AL Edgar,0,0,,,,,,caught,HJ Darlington
+ball,2,15.4,Sydney Thunder,T Peschel,T Wilson,AL Edgar,0,0,,,,,,"",""
+ball,2,15.5,Sydney Thunder,T Peschel,T Wilson,AL Edgar,0,0,,,,,,"",""
+ball,2,15.6,Sydney Thunder,T Peschel,T Wilson,AL Edgar,0,0,,,,,,"",""
+ball,2,16.1,Sydney Thunder,T Wilson,T Peschel,SFM Devine,0,0,,,,,,caught,T Wilson
+ball,2,16.2,Sydney Thunder,S Ismail,T Peschel,SFM Devine,0,1,1,,,,,"",""
+ball,2,16.3,Sydney Thunder,S Ismail,T Peschel,SFM Devine,1,0,,,,,,"",""
+ball,2,16.4,Sydney Thunder,T Peschel,S Ismail,SFM Devine,1,0,,,,,,"",""
+ball,2,16.5,Sydney Thunder,S Ismail,T Peschel,SFM Devine,1,0,,,,,,"",""
+ball,2,16.6,Sydney Thunder,T Peschel,S Ismail,SFM Devine,0,0,,,,,,"",""
+ball,2,16.7,Sydney Thunder,T Peschel,S Ismail,SFM Devine,4,0,,,,,,"",""
+ball,2,17.1,Sydney Thunder,S Ismail,T Peschel,L Mills,0,0,,,,,,"",""
+ball,2,17.2,Sydney Thunder,S Ismail,T Peschel,L Mills,0,0,,,,,,caught,S Ismail
+ball,2,17.3,Sydney Thunder,SL Bates,T Peschel,L Mills,0,4,,,4,,,"",""
+ball,2,17.4,Sydney Thunder,SL Bates,T Peschel,L Mills,0,0,,,,,,"",""
+ball,2,17.5,Sydney Thunder,SL Bates,T Peschel,L Mills,0,0,,,,,,"",""
+ball,2,17.6,Sydney Thunder,SL Bates,T Peschel,L Mills,0,0,,,,,,"",""
+ball,2,18.1,Sydney Thunder,T Peschel,SL Bates,A King,1,0,,,,,,"",""
+ball,2,18.2,Sydney Thunder,SL Bates,T Peschel,A King,0,0,,,,,,"",""
+ball,2,18.3,Sydney Thunder,SL Bates,T Peschel,A King,0,0,,,,,,"",""
+ball,2,18.4,Sydney Thunder,SL Bates,T Peschel,A King,1,0,,,,,,"",""
+ball,2,18.5,Sydney Thunder,T Peschel,SL Bates,A King,1,0,,,,,,"",""
+ball,2,18.6,Sydney Thunder,SL Bates,T Peschel,A King,0,0,,,,,,"",""
+ball,2,19.1,Sydney Thunder,T Peschel,SL Bates,AL Edgar,0,0,,,,,,"",""
+ball,2,19.2,Sydney Thunder,T Peschel,SL Bates,AL Edgar,1,0,,,,,,"",""
+ball,2,19.3,Sydney Thunder,SL Bates,T Peschel,AL Edgar,0,0,,,,,,bowled,SL Bates

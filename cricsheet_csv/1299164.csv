@@ -1,0 +1,277 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Manchester Originals
+info,team,Birmingham Phoenix
+info,gender,female
+info,season,2022
+info,date,2022/08/28
+info,event,The Hundred Women's Competition
+info,match_number,20
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Birmingham Phoenix
+info,toss_decision,field
+info,player_of_match,S Ecclestone
+info,umpire,Chris Watts
+info,umpire,J Naeem
+info,reserve_umpire,G Bambury
+info,tv_umpire,DJ Millns
+info,match_referee,Wayne Noon
+info,winner,Manchester Originals
+info,winner_runs,18
+info,player,Manchester Originals,EL Lamb
+info,player,Manchester Originals,L Lee
+info,player,Manchester Originals,AE Satterthwaite
+info,player,Manchester Originals,EA Burns
+info,player,Manchester Originals,A Campbell
+info,player,Manchester Originals,S Ecclestone
+info,player,Manchester Originals,E Threlkeld
+info,player,Manchester Originals,KL Cross
+info,player,Manchester Originals,G Potts
+info,player,Manchester Originals,HE Jones
+info,player,Manchester Originals,PC Graham
+info,player,Birmingham Phoenix,E Jones
+info,player,Birmingham Phoenix,SFM Devine
+info,player,Birmingham Phoenix,AE Jones
+info,player,Birmingham Phoenix,EA Perry
+info,player,Birmingham Phoenix,S Molineux
+info,player,Birmingham Phoenix,GA Elwiss
+info,player,Birmingham Phoenix,IECM Wong
+info,player,Birmingham Phoenix,EL Arlott
+info,player,Birmingham Phoenix,PA Franklin
+info,player,Birmingham Phoenix,KL Gordon
+info,player,Birmingham Phoenix,AH Maqsood
+info,registry,people,A Campbell,4b788e61
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AE Satterthwaite,72b7ed1e
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,E Jones,971cb321
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,G Bambury,a8e0ed6a
+info,registry,people,G Potts,e3a93585
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,HE Jones,f7b74efa
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,KL Cross,1ade138e
+info,registry,people,KL Gordon,00823a96
+info,registry,people,L Lee,7b01ce83
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Molineux,99e23670
+info,registry,people,SFM Devine,de69af96
+info,registry,people,Wayne Noon,736e1761
+ball,1,0.1,Manchester Originals,EL Lamb,L Lee,KL Gordon,0,0,,,,,,"",""
+ball,1,0.2,Manchester Originals,EL Lamb,L Lee,KL Gordon,2,0,,,,,,"",""
+ball,1,0.3,Manchester Originals,EL Lamb,L Lee,KL Gordon,4,0,,,,,,"",""
+ball,1,0.4,Manchester Originals,EL Lamb,L Lee,KL Gordon,0,0,,,,,,"",""
+ball,1,0.5,Manchester Originals,EL Lamb,L Lee,KL Gordon,4,0,,,,,,"",""
+ball,1,1.1,Manchester Originals,EL Lamb,L Lee,S Molineux,0,0,,,,,,"",""
+ball,1,1.2,Manchester Originals,EL Lamb,L Lee,S Molineux,0,0,,,,,,"",""
+ball,1,1.3,Manchester Originals,EL Lamb,L Lee,S Molineux,4,0,,,,,,"",""
+ball,1,1.4,Manchester Originals,EL Lamb,L Lee,S Molineux,2,0,,,,,,"",""
+ball,1,1.5,Manchester Originals,EL Lamb,L Lee,S Molineux,0,0,,,,,,"",""
+ball,1,2.1,Manchester Originals,L Lee,EL Lamb,EL Arlott,0,1,1,,,,,"",""
+ball,1,2.2,Manchester Originals,L Lee,EL Lamb,EL Arlott,0,0,,,,,,"",""
+ball,1,2.3,Manchester Originals,L Lee,EL Lamb,EL Arlott,4,0,,,,,,"",""
+ball,1,2.4,Manchester Originals,L Lee,EL Lamb,EL Arlott,0,0,,,,,,"",""
+ball,1,2.5,Manchester Originals,L Lee,EL Lamb,EL Arlott,0,0,,,,,,"",""
+ball,1,2.6,Manchester Originals,L Lee,EL Lamb,EL Arlott,0,0,,,,,,"",""
+ball,1,3.1,Manchester Originals,L Lee,EL Lamb,GA Elwiss,4,0,,,,,,"",""
+ball,1,3.2,Manchester Originals,L Lee,EL Lamb,GA Elwiss,1,0,,,,,,"",""
+ball,1,3.3,Manchester Originals,EL Lamb,L Lee,GA Elwiss,0,0,,,,,,"",""
+ball,1,3.4,Manchester Originals,EL Lamb,L Lee,GA Elwiss,1,0,,,,,,"",""
+ball,1,3.5,Manchester Originals,L Lee,EL Lamb,GA Elwiss,4,0,,,,,,"",""
+ball,1,4.1,Manchester Originals,EL Lamb,L Lee,S Molineux,4,0,,,,,,"",""
+ball,1,4.2,Manchester Originals,EL Lamb,L Lee,S Molineux,4,0,,,,,,"",""
+ball,1,4.3,Manchester Originals,EL Lamb,L Lee,S Molineux,1,0,,,,,,"",""
+ball,1,4.4,Manchester Originals,L Lee,EL Lamb,S Molineux,1,0,,,,,,"",""
+ball,1,4.5,Manchester Originals,EL Lamb,L Lee,S Molineux,0,0,,,,,,"",""
+ball,1,5.1,Manchester Originals,EL Lamb,L Lee,AH Maqsood,2,0,,,,,,"",""
+ball,1,5.2,Manchester Originals,EL Lamb,L Lee,AH Maqsood,1,0,,,,,,"",""
+ball,1,5.3,Manchester Originals,L Lee,EL Lamb,AH Maqsood,0,0,,,,,,"",""
+ball,1,5.4,Manchester Originals,L Lee,EL Lamb,AH Maqsood,4,0,,,,,,"",""
+ball,1,5.5,Manchester Originals,L Lee,EL Lamb,AH Maqsood,1,0,,,,,,"",""
+ball,1,6.1,Manchester Originals,L Lee,EL Lamb,IECM Wong,0,0,,,,,,"",""
+ball,1,6.2,Manchester Originals,L Lee,EL Lamb,IECM Wong,0,0,,,,,,"",""
+ball,1,6.3,Manchester Originals,L Lee,EL Lamb,IECM Wong,1,0,,,,,,"",""
+ball,1,6.4,Manchester Originals,EL Lamb,L Lee,IECM Wong,0,2,,2,,,,"",""
+ball,1,6.5,Manchester Originals,EL Lamb,L Lee,IECM Wong,1,0,,,,,,"",""
+ball,1,6.6,Manchester Originals,L Lee,EL Lamb,IECM Wong,0,0,,,,,,lbw,L Lee
+ball,1,7.1,Manchester Originals,AE Satterthwaite,EL Lamb,EL Arlott,0,0,,,,,,"",""
+ball,1,7.2,Manchester Originals,AE Satterthwaite,EL Lamb,EL Arlott,1,0,,,,,,"",""
+ball,1,7.3,Manchester Originals,EL Lamb,AE Satterthwaite,EL Arlott,0,0,,,,,,caught,EL Lamb
+ball,1,7.4,Manchester Originals,EA Burns,AE Satterthwaite,EL Arlott,0,0,,,,,,"",""
+ball,1,7.5,Manchester Originals,EA Burns,AE Satterthwaite,EL Arlott,1,0,,,,,,"",""
+ball,1,8.1,Manchester Originals,EA Burns,AE Satterthwaite,IECM Wong,0,0,,,,,,"",""
+ball,1,8.2,Manchester Originals,EA Burns,AE Satterthwaite,IECM Wong,0,1,,,1,,,"",""
+ball,1,8.3,Manchester Originals,AE Satterthwaite,EA Burns,IECM Wong,0,0,,,,,,"",""
+ball,1,8.4,Manchester Originals,AE Satterthwaite,EA Burns,IECM Wong,1,0,,,,,,"",""
+ball,1,8.5,Manchester Originals,EA Burns,AE Satterthwaite,IECM Wong,0,0,,,,,,"",""
+ball,1,9.1,Manchester Originals,EA Burns,AE Satterthwaite,KL Gordon,1,0,,,,,,"",""
+ball,1,9.2,Manchester Originals,AE Satterthwaite,EA Burns,KL Gordon,1,0,,,,,,"",""
+ball,1,9.3,Manchester Originals,EA Burns,AE Satterthwaite,KL Gordon,1,0,,,,,,"",""
+ball,1,9.4,Manchester Originals,AE Satterthwaite,EA Burns,KL Gordon,0,0,,,,,,"",""
+ball,1,9.5,Manchester Originals,AE Satterthwaite,EA Burns,KL Gordon,0,0,,,,,,"",""
+ball,1,10.1,Manchester Originals,EA Burns,AE Satterthwaite,PA Franklin,1,0,,,,,,"",""
+ball,1,10.2,Manchester Originals,AE Satterthwaite,EA Burns,PA Franklin,1,0,,,,,,"",""
+ball,1,10.3,Manchester Originals,EA Burns,AE Satterthwaite,PA Franklin,4,0,,,,,,"",""
+ball,1,10.4,Manchester Originals,EA Burns,AE Satterthwaite,PA Franklin,1,2,,2,,,,"",""
+ball,1,10.5,Manchester Originals,AE Satterthwaite,EA Burns,PA Franklin,4,0,,,,,,"",""
+ball,1,10.6,Manchester Originals,AE Satterthwaite,EA Burns,PA Franklin,1,0,,,,,,"",""
+ball,1,11.1,Manchester Originals,EA Burns,AE Satterthwaite,IECM Wong,4,0,,,,,,"",""
+ball,1,11.2,Manchester Originals,EA Burns,AE Satterthwaite,IECM Wong,0,0,,,,,,"",""
+ball,1,11.3,Manchester Originals,EA Burns,AE Satterthwaite,IECM Wong,4,0,,,,,,"",""
+ball,1,11.4,Manchester Originals,EA Burns,AE Satterthwaite,IECM Wong,0,0,,,,,,"",""
+ball,1,11.5,Manchester Originals,EA Burns,AE Satterthwaite,IECM Wong,0,0,,,,,,"",""
+ball,1,12.1,Manchester Originals,AE Satterthwaite,EA Burns,KL Gordon,4,0,,,,,,"",""
+ball,1,12.2,Manchester Originals,AE Satterthwaite,EA Burns,KL Gordon,0,0,,,,,,bowled,AE Satterthwaite
+ball,1,12.3,Manchester Originals,A Campbell,EA Burns,KL Gordon,0,0,,,,,,"",""
+ball,1,12.4,Manchester Originals,A Campbell,EA Burns,KL Gordon,0,0,,,,,,"",""
+ball,1,12.5,Manchester Originals,A Campbell,EA Burns,KL Gordon,0,0,,,,,,"",""
+ball,1,13.1,Manchester Originals,A Campbell,EA Burns,S Molineux,0,0,,,,,,"",""
+ball,1,13.2,Manchester Originals,A Campbell,EA Burns,S Molineux,0,0,,,,,,run out,A Campbell
+ball,1,13.3,Manchester Originals,S Ecclestone,EA Burns,S Molineux,1,0,,,,,,"",""
+ball,1,13.4,Manchester Originals,EA Burns,S Ecclestone,S Molineux,0,0,,,,,,"",""
+ball,1,13.5,Manchester Originals,EA Burns,S Ecclestone,S Molineux,4,0,,,,,,"",""
+ball,1,14.1,Manchester Originals,S Ecclestone,EA Burns,EL Arlott,1,0,,,,,,"",""
+ball,1,14.2,Manchester Originals,EA Burns,S Ecclestone,EL Arlott,1,0,,,,,,"",""
+ball,1,14.3,Manchester Originals,S Ecclestone,EA Burns,EL Arlott,0,0,,,,,,"",""
+ball,1,14.4,Manchester Originals,S Ecclestone,EA Burns,EL Arlott,1,0,,,,,,"",""
+ball,1,14.5,Manchester Originals,EA Burns,S Ecclestone,EL Arlott,0,0,,,,,,"",""
+ball,1,15.1,Manchester Originals,EA Burns,S Ecclestone,GA Elwiss,0,0,,,,,,"",""
+ball,1,15.2,Manchester Originals,EA Burns,S Ecclestone,GA Elwiss,1,0,,,,,,"",""
+ball,1,15.3,Manchester Originals,S Ecclestone,EA Burns,GA Elwiss,1,0,,,,,,"",""
+ball,1,15.4,Manchester Originals,EA Burns,S Ecclestone,GA Elwiss,4,0,,,,,,"",""
+ball,1,15.5,Manchester Originals,EA Burns,S Ecclestone,GA Elwiss,0,0,,,,,,"",""
+ball,1,16.1,Manchester Originals,S Ecclestone,EA Burns,KL Gordon,1,0,,,,,,"",""
+ball,1,16.2,Manchester Originals,EA Burns,S Ecclestone,KL Gordon,1,0,,,,,,"",""
+ball,1,16.3,Manchester Originals,S Ecclestone,EA Burns,KL Gordon,1,0,,,,,,"",""
+ball,1,16.4,Manchester Originals,EA Burns,S Ecclestone,KL Gordon,0,0,,,,,,caught,EA Burns
+ball,1,16.5,Manchester Originals,E Threlkeld,S Ecclestone,KL Gordon,0,0,,,,,,"",""
+ball,1,17.1,Manchester Originals,E Threlkeld,S Ecclestone,GA Elwiss,0,0,,,,,,"",""
+ball,1,17.2,Manchester Originals,E Threlkeld,S Ecclestone,GA Elwiss,0,0,,,,,,"",""
+ball,1,17.3,Manchester Originals,E Threlkeld,S Ecclestone,GA Elwiss,0,0,,,,,,"",""
+ball,1,17.4,Manchester Originals,E Threlkeld,S Ecclestone,GA Elwiss,1,0,,,,,,"",""
+ball,1,17.5,Manchester Originals,S Ecclestone,E Threlkeld,GA Elwiss,1,0,,,,,,"",""
+ball,1,18.1,Manchester Originals,S Ecclestone,E Threlkeld,S Molineux,6,0,,,,,,"",""
+ball,1,18.2,Manchester Originals,S Ecclestone,E Threlkeld,S Molineux,1,0,,,,,,"",""
+ball,1,18.3,Manchester Originals,E Threlkeld,S Ecclestone,S Molineux,0,0,,,,,,"",""
+ball,1,18.4,Manchester Originals,E Threlkeld,S Ecclestone,S Molineux,2,0,,,,,,"",""
+ball,1,18.5,Manchester Originals,E Threlkeld,S Ecclestone,S Molineux,1,0,,,,,,"",""
+ball,1,19.1,Manchester Originals,S Ecclestone,E Threlkeld,EL Arlott,4,0,,,,,,"",""
+ball,1,19.2,Manchester Originals,S Ecclestone,E Threlkeld,EL Arlott,0,0,,,,,,"",""
+ball,1,19.3,Manchester Originals,S Ecclestone,E Threlkeld,EL Arlott,2,0,,,,,,"",""
+ball,1,19.4,Manchester Originals,S Ecclestone,E Threlkeld,EL Arlott,0,0,,,,,,bowled,S Ecclestone
+ball,1,19.5,Manchester Originals,KL Cross,E Threlkeld,EL Arlott,1,0,,,,,,"",""
+ball,2,0.1,Birmingham Phoenix,E Jones,SFM Devine,KL Cross,0,0,,,,,,"",""
+ball,2,0.2,Birmingham Phoenix,E Jones,SFM Devine,KL Cross,0,1,1,,,,,"",""
+ball,2,0.3,Birmingham Phoenix,E Jones,SFM Devine,KL Cross,0,0,,,,,,caught,E Jones
+ball,2,0.4,Birmingham Phoenix,AE Jones,SFM Devine,KL Cross,0,0,,,,,,"",""
+ball,2,0.5,Birmingham Phoenix,AE Jones,SFM Devine,KL Cross,1,0,,,,,,"",""
+ball,2,0.6,Birmingham Phoenix,SFM Devine,AE Jones,KL Cross,1,0,,,,,,"",""
+ball,2,1.1,Birmingham Phoenix,AE Jones,SFM Devine,G Potts,0,0,,,,,,"",""
+ball,2,1.2,Birmingham Phoenix,AE Jones,SFM Devine,G Potts,1,0,,,,,,"",""
+ball,2,1.3,Birmingham Phoenix,SFM Devine,AE Jones,G Potts,0,0,,,,,,"",""
+ball,2,1.4,Birmingham Phoenix,SFM Devine,AE Jones,G Potts,1,0,,,,,,"",""
+ball,2,1.5,Birmingham Phoenix,AE Jones,SFM Devine,G Potts,0,0,,,,,,"",""
+ball,2,2.1,Birmingham Phoenix,SFM Devine,AE Jones,HE Jones,1,0,,,,,,"",""
+ball,2,2.2,Birmingham Phoenix,AE Jones,SFM Devine,HE Jones,4,0,,,,,,"",""
+ball,2,2.3,Birmingham Phoenix,AE Jones,SFM Devine,HE Jones,0,0,,,,,,bowled,AE Jones
+ball,2,2.4,Birmingham Phoenix,EA Perry,SFM Devine,HE Jones,1,0,,,,,,"",""
+ball,2,2.5,Birmingham Phoenix,SFM Devine,EA Perry,HE Jones,0,0,,,,,,"",""
+ball,2,3.1,Birmingham Phoenix,SFM Devine,EA Perry,S Ecclestone,1,0,,,,,,"",""
+ball,2,3.2,Birmingham Phoenix,EA Perry,SFM Devine,S Ecclestone,0,0,,,,,,"",""
+ball,2,3.3,Birmingham Phoenix,EA Perry,SFM Devine,S Ecclestone,0,0,,,,,,"",""
+ball,2,3.4,Birmingham Phoenix,EA Perry,SFM Devine,S Ecclestone,0,0,,,,,,"",""
+ball,2,3.5,Birmingham Phoenix,EA Perry,SFM Devine,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.1,Birmingham Phoenix,SFM Devine,EA Perry,KL Cross,0,0,,,,,,lbw,SFM Devine
+ball,2,4.2,Birmingham Phoenix,S Molineux,EA Perry,KL Cross,0,0,,,,,,"",""
+ball,2,4.3,Birmingham Phoenix,S Molineux,EA Perry,KL Cross,0,0,,,,,,"",""
+ball,2,4.4,Birmingham Phoenix,S Molineux,EA Perry,KL Cross,2,0,,,,,,"",""
+ball,2,4.5,Birmingham Phoenix,S Molineux,EA Perry,KL Cross,1,0,,,,,,"",""
+ball,2,5.1,Birmingham Phoenix,EA Perry,S Molineux,PC Graham,4,0,,,,,,"",""
+ball,2,5.2,Birmingham Phoenix,EA Perry,S Molineux,PC Graham,0,0,,,,,,"",""
+ball,2,5.3,Birmingham Phoenix,EA Perry,S Molineux,PC Graham,0,1,1,,,,,"",""
+ball,2,5.4,Birmingham Phoenix,EA Perry,S Molineux,PC Graham,0,0,,,,,,caught,EA Perry
+ball,2,5.5,Birmingham Phoenix,GA Elwiss,S Molineux,PC Graham,1,0,,,,,,"",""
+ball,2,5.6,Birmingham Phoenix,S Molineux,GA Elwiss,PC Graham,0,0,,,,,,"",""
+ball,2,6.1,Birmingham Phoenix,GA Elwiss,S Molineux,S Ecclestone,0,0,,,,,,"",""
+ball,2,6.2,Birmingham Phoenix,GA Elwiss,S Molineux,S Ecclestone,0,0,,,,,,"",""
+ball,2,6.3,Birmingham Phoenix,GA Elwiss,S Molineux,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.4,Birmingham Phoenix,S Molineux,GA Elwiss,S Ecclestone,0,0,,,,,,lbw,S Molineux
+ball,2,6.5,Birmingham Phoenix,IECM Wong,GA Elwiss,S Ecclestone,0,0,,,,,,"",""
+ball,2,7.1,Birmingham Phoenix,IECM Wong,GA Elwiss,S Ecclestone,1,0,,,,,,"",""
+ball,2,7.2,Birmingham Phoenix,GA Elwiss,IECM Wong,S Ecclestone,1,0,,,,,,"",""
+ball,2,7.3,Birmingham Phoenix,IECM Wong,GA Elwiss,S Ecclestone,0,0,,,,,,"",""
+ball,2,7.4,Birmingham Phoenix,IECM Wong,GA Elwiss,S Ecclestone,2,0,,,,,,"",""
+ball,2,7.5,Birmingham Phoenix,IECM Wong,GA Elwiss,S Ecclestone,1,0,,,,,,"",""
+ball,2,8.1,Birmingham Phoenix,IECM Wong,GA Elwiss,G Potts,1,0,,,,,,"",""
+ball,2,8.2,Birmingham Phoenix,GA Elwiss,IECM Wong,G Potts,4,0,,,,,,"",""
+ball,2,8.3,Birmingham Phoenix,GA Elwiss,IECM Wong,G Potts,1,0,,,,,,"",""
+ball,2,8.4,Birmingham Phoenix,IECM Wong,GA Elwiss,G Potts,4,0,,,,,,"",""
+ball,2,8.5,Birmingham Phoenix,IECM Wong,GA Elwiss,G Potts,1,0,,,,,,"",""
+ball,2,9.1,Birmingham Phoenix,GA Elwiss,IECM Wong,PC Graham,2,0,,,,,,"",""
+ball,2,9.2,Birmingham Phoenix,GA Elwiss,IECM Wong,PC Graham,1,0,,,,,,"",""
+ball,2,9.3,Birmingham Phoenix,IECM Wong,GA Elwiss,PC Graham,0,0,,,,,,"",""
+ball,2,9.4,Birmingham Phoenix,IECM Wong,GA Elwiss,PC Graham,0,0,,,,,,"",""
+ball,2,9.5,Birmingham Phoenix,IECM Wong,GA Elwiss,PC Graham,1,0,,,,,,"",""
+ball,2,10.1,Birmingham Phoenix,IECM Wong,GA Elwiss,HE Jones,0,0,,,,,,"",""
+ball,2,10.2,Birmingham Phoenix,IECM Wong,GA Elwiss,HE Jones,1,0,,,,,,"",""
+ball,2,10.3,Birmingham Phoenix,GA Elwiss,IECM Wong,HE Jones,1,0,,,,,,"",""
+ball,2,10.4,Birmingham Phoenix,IECM Wong,GA Elwiss,HE Jones,2,0,,,,,,"",""
+ball,2,10.5,Birmingham Phoenix,IECM Wong,GA Elwiss,HE Jones,2,0,,,,,,"",""
+ball,2,11.1,Birmingham Phoenix,IECM Wong,GA Elwiss,PC Graham,0,0,,,,,,"",""
+ball,2,11.2,Birmingham Phoenix,IECM Wong,GA Elwiss,PC Graham,0,0,,,,,,"",""
+ball,2,11.3,Birmingham Phoenix,IECM Wong,GA Elwiss,PC Graham,1,0,,,,,,"",""
+ball,2,11.4,Birmingham Phoenix,GA Elwiss,IECM Wong,PC Graham,4,0,,,,,,"",""
+ball,2,11.5,Birmingham Phoenix,GA Elwiss,IECM Wong,PC Graham,4,0,,,,,,"",""
+ball,2,12.1,Birmingham Phoenix,IECM Wong,GA Elwiss,KL Cross,1,0,,,,,,"",""
+ball,2,12.2,Birmingham Phoenix,GA Elwiss,IECM Wong,KL Cross,1,0,,,,,,"",""
+ball,2,12.3,Birmingham Phoenix,IECM Wong,GA Elwiss,KL Cross,1,0,,,,,,"",""
+ball,2,12.4,Birmingham Phoenix,GA Elwiss,IECM Wong,KL Cross,0,0,,,,,,"",""
+ball,2,12.5,Birmingham Phoenix,GA Elwiss,IECM Wong,KL Cross,1,0,,,,,,"",""
+ball,2,13.1,Birmingham Phoenix,IECM Wong,GA Elwiss,HE Jones,1,0,,,,,,"",""
+ball,2,13.2,Birmingham Phoenix,GA Elwiss,IECM Wong,HE Jones,0,0,,,,,,"",""
+ball,2,13.3,Birmingham Phoenix,GA Elwiss,IECM Wong,HE Jones,0,0,,,,,,"",""
+ball,2,13.4,Birmingham Phoenix,GA Elwiss,IECM Wong,HE Jones,1,0,,,,,,"",""
+ball,2,13.5,Birmingham Phoenix,IECM Wong,GA Elwiss,HE Jones,1,0,,,,,,"",""
+ball,2,14.1,Birmingham Phoenix,IECM Wong,GA Elwiss,EA Burns,1,0,,,,,,"",""
+ball,2,14.2,Birmingham Phoenix,GA Elwiss,IECM Wong,EA Burns,0,0,,,,,,"",""
+ball,2,14.3,Birmingham Phoenix,GA Elwiss,IECM Wong,EA Burns,1,0,,,,,,"",""
+ball,2,14.4,Birmingham Phoenix,IECM Wong,GA Elwiss,EA Burns,2,0,,,,,,"",""
+ball,2,14.5,Birmingham Phoenix,IECM Wong,GA Elwiss,EA Burns,0,0,,,,,,"",""
+ball,2,15.1,Birmingham Phoenix,IECM Wong,GA Elwiss,HE Jones,0,0,,,,,,stumped,IECM Wong
+ball,2,15.2,Birmingham Phoenix,EL Arlott,GA Elwiss,HE Jones,1,0,,,,,,"",""
+ball,2,15.3,Birmingham Phoenix,GA Elwiss,EL Arlott,HE Jones,0,0,,,,,,"",""
+ball,2,15.4,Birmingham Phoenix,GA Elwiss,EL Arlott,HE Jones,4,0,,,,,,"",""
+ball,2,15.5,Birmingham Phoenix,GA Elwiss,EL Arlott,HE Jones,0,5,5,,,,,"",""
+ball,2,15.6,Birmingham Phoenix,GA Elwiss,EL Arlott,HE Jones,0,0,,,,,,"",""
+ball,2,16.1,Birmingham Phoenix,EL Arlott,GA Elwiss,EA Burns,2,0,,,,,,"",""
+ball,2,16.2,Birmingham Phoenix,EL Arlott,GA Elwiss,EA Burns,6,0,,,,,,"",""
+ball,2,16.3,Birmingham Phoenix,EL Arlott,GA Elwiss,EA Burns,1,0,,,,,,"",""
+ball,2,16.4,Birmingham Phoenix,GA Elwiss,EL Arlott,EA Burns,4,0,,,,,,"",""
+ball,2,16.5,Birmingham Phoenix,GA Elwiss,EL Arlott,EA Burns,0,0,,,,,,caught,GA Elwiss
+ball,2,17.1,Birmingham Phoenix,PA Franklin,EL Arlott,KL Cross,2,0,,,,,,"",""
+ball,2,17.2,Birmingham Phoenix,PA Franklin,EL Arlott,KL Cross,0,0,,,,,,"",""
+ball,2,17.3,Birmingham Phoenix,PA Franklin,EL Arlott,KL Cross,1,0,,,,,,"",""
+ball,2,17.4,Birmingham Phoenix,EL Arlott,PA Franklin,KL Cross,0,0,,,,,,"",""
+ball,2,17.5,Birmingham Phoenix,EL Arlott,PA Franklin,KL Cross,1,0,,,,,,"",""
+ball,2,18.1,Birmingham Phoenix,EL Arlott,PA Franklin,EA Burns,0,2,,2,,,,"",""
+ball,2,18.2,Birmingham Phoenix,EL Arlott,PA Franklin,EA Burns,1,0,,,,,,"",""
+ball,2,18.3,Birmingham Phoenix,PA Franklin,EL Arlott,EA Burns,2,0,,,,,,"",""
+ball,2,18.4,Birmingham Phoenix,PA Franklin,EL Arlott,EA Burns,1,0,,,,,,"",""
+ball,2,18.5,Birmingham Phoenix,EL Arlott,PA Franklin,EA Burns,1,0,,,,,,"",""
+ball,2,18.6,Birmingham Phoenix,PA Franklin,EL Arlott,EA Burns,1,0,,,,,,"",""
+ball,2,19.1,Birmingham Phoenix,EL Arlott,PA Franklin,S Ecclestone,1,0,,,,,,"",""
+ball,2,19.2,Birmingham Phoenix,PA Franklin,EL Arlott,S Ecclestone,0,0,,,,,,bowled,PA Franklin
+ball,2,19.3,Birmingham Phoenix,KL Gordon,EL Arlott,S Ecclestone,0,0,,,,,,bowled,KL Gordon
+ball,2,19.4,Birmingham Phoenix,AH Maqsood,EL Arlott,S Ecclestone,0,0,,,,,,"",""
+ball,2,19.5,Birmingham Phoenix,AH Maqsood,EL Arlott,S Ecclestone,0,0,,,,,,run out,AH Maqsood

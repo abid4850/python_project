@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Titans
+info,gender,male
+info,season,2014/15
+info,date,2014/11/07
+info,event,Ram Slam T20 Challenge
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Titans
+info,toss_decision,field
+info,player_of_match,DJG Sammy
+info,player_of_match,AD Russell
+info,umpire,EC Hendrikse
+info,umpire,MW Brown
+info,reserve_umpire,A Paleker
+info,tv_umpire,BM White
+info,match_referee,SB Lambson
+info,winner,Knights
+info,winner_runs,35
+info,player,Knights,RS Second
+info,player,Knights,GJ Abrahams
+info,player,Knights,TM Bodibe
+info,player,Knights,AD Russell
+info,player,Knights,AJ Pienaar
+info,player,Knights,PJ van Biljon
+info,player,Knights,DS Rosier
+info,player,Knights,WL Coetsee
+info,player,Knights,D du Preez
+info,player,Knights,SC van Schalkwyk
+info,player,Knights,MP Siboto
+info,player,Titans,H Davids
+info,player,Titans,D Elgar
+info,player,Titans,RE van der Merwe
+info,player,Titans,TB de Bruyn
+info,player,Titans,DJG Sammy
+info,player,Titans,M Mosehle
+info,player,Titans,MQ Adams
+info,player,Titans,JJ Pienaar
+info,player,Titans,C Bosch
+info,player,Titans,T Shamsi
+info,player,Titans,NE Mbhalati
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,BM White,66c21d35
+info,registry,people,C Bosch,172dff15
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D du Preez,d7a57f75
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DS Rosier,f8e6dbdd
+info,registry,people,EC Hendrikse,3f2996c9
+info,registry,people,GJ Abrahams,231a7404
+info,registry,people,H Davids,9c9f8dbc
+info,registry,people,JJ Pienaar,1186f196
+info,registry,people,M Mosehle,8836fcac
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,MQ Adams,59a7fc89
+info,registry,people,MW Brown,d83d7796
+info,registry,people,NE Mbhalati,800b52dc
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RS Second,13d0b3d6
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,TM Bodibe,ed982dfa
+info,registry,people,WL Coetsee,5f419ace
+ball,1,0.1,Knights,RS Second,GJ Abrahams,NE Mbhalati,0,1,1,,,,,"",""
+ball,1,0.2,Knights,RS Second,GJ Abrahams,NE Mbhalati,0,0,,,,,,"",""
+ball,1,0.3,Knights,RS Second,GJ Abrahams,NE Mbhalati,0,0,,,,,,"",""
+ball,1,0.4,Knights,RS Second,GJ Abrahams,NE Mbhalati,1,0,,,,,,"",""
+ball,1,0.5,Knights,GJ Abrahams,RS Second,NE Mbhalati,1,0,,,,,,"",""
+ball,1,0.6,Knights,RS Second,GJ Abrahams,NE Mbhalati,0,1,1,,,,,"",""
+ball,1,0.7,Knights,RS Second,GJ Abrahams,NE Mbhalati,0,0,,,,,,"",""
+ball,1,0.8,Knights,RS Second,GJ Abrahams,NE Mbhalati,1,0,,,,,,"",""
+ball,1,1.1,Knights,RS Second,GJ Abrahams,RE van der Merwe,0,0,,,,,,"",""
+ball,1,1.2,Knights,RS Second,GJ Abrahams,RE van der Merwe,1,0,,,,,,"",""
+ball,1,1.3,Knights,GJ Abrahams,RS Second,RE van der Merwe,0,1,,,1,,,"",""
+ball,1,1.4,Knights,RS Second,GJ Abrahams,RE van der Merwe,4,0,,,,,,"",""
+ball,1,1.5,Knights,RS Second,GJ Abrahams,RE van der Merwe,4,0,,,,,,"",""
+ball,1,1.6,Knights,RS Second,GJ Abrahams,RE van der Merwe,1,0,,,,,,"",""
+ball,1,2.1,Knights,RS Second,GJ Abrahams,NE Mbhalati,2,0,,,,,,"",""
+ball,1,2.2,Knights,RS Second,GJ Abrahams,NE Mbhalati,1,0,,,,,,"",""
+ball,1,2.3,Knights,GJ Abrahams,RS Second,NE Mbhalati,1,0,,,,,,"",""
+ball,1,2.4,Knights,RS Second,GJ Abrahams,NE Mbhalati,0,0,,,,,,"",""
+ball,1,2.5,Knights,RS Second,GJ Abrahams,NE Mbhalati,1,0,,,,,,"",""
+ball,1,2.6,Knights,GJ Abrahams,RS Second,NE Mbhalati,0,0,,,,,,"",""
+ball,1,3.1,Knights,RS Second,GJ Abrahams,RE van der Merwe,4,0,,,,,,"",""
+ball,1,3.2,Knights,RS Second,GJ Abrahams,RE van der Merwe,4,0,,,,,,"",""
+ball,1,3.3,Knights,RS Second,GJ Abrahams,RE van der Merwe,1,0,,,,,,"",""
+ball,1,3.4,Knights,GJ Abrahams,RS Second,RE van der Merwe,2,0,,,,,,"",""
+ball,1,3.5,Knights,GJ Abrahams,RS Second,RE van der Merwe,0,0,,,,,,"",""
+ball,1,3.6,Knights,GJ Abrahams,RS Second,RE van der Merwe,4,0,,,,,,"",""
+ball,1,4.1,Knights,RS Second,GJ Abrahams,NE Mbhalati,6,0,,,,,,"",""
+ball,1,4.2,Knights,RS Second,GJ Abrahams,NE Mbhalati,4,0,,,,,,"",""
+ball,1,4.3,Knights,RS Second,GJ Abrahams,NE Mbhalati,1,0,,,,,,"",""
+ball,1,4.4,Knights,GJ Abrahams,RS Second,NE Mbhalati,4,0,,,,,,"",""
+ball,1,4.5,Knights,GJ Abrahams,RS Second,NE Mbhalati,0,0,,,,,,"",""
+ball,1,4.6,Knights,GJ Abrahams,RS Second,NE Mbhalati,0,0,,,,,,"",""
+ball,1,5.1,Knights,RS Second,GJ Abrahams,C Bosch,0,0,,,,,,"",""
+ball,1,5.2,Knights,RS Second,GJ Abrahams,C Bosch,0,0,,,,,,"",""
+ball,1,5.3,Knights,RS Second,GJ Abrahams,C Bosch,4,0,,,,,,"",""
+ball,1,5.4,Knights,RS Second,GJ Abrahams,C Bosch,4,0,,,,,,"",""
+ball,1,5.5,Knights,RS Second,GJ Abrahams,C Bosch,0,0,,,,,,"",""
+ball,1,5.6,Knights,RS Second,GJ Abrahams,C Bosch,0,0,,,,,,caught,RS Second
+ball,1,6.1,Knights,GJ Abrahams,TM Bodibe,DJG Sammy,0,0,,,,,,"",""
+ball,1,6.2,Knights,GJ Abrahams,TM Bodibe,DJG Sammy,1,0,,,,,,"",""
+ball,1,6.3,Knights,TM Bodibe,GJ Abrahams,DJG Sammy,1,0,,,,,,"",""
+ball,1,6.4,Knights,GJ Abrahams,TM Bodibe,DJG Sammy,0,1,,,,1,,"",""
+ball,1,6.5,Knights,TM Bodibe,GJ Abrahams,DJG Sammy,0,0,,,,,,"",""
+ball,1,6.6,Knights,TM Bodibe,GJ Abrahams,DJG Sammy,0,1,1,,,,,"",""
+ball,1,6.7,Knights,TM Bodibe,GJ Abrahams,DJG Sammy,1,0,,,,,,"",""
+ball,1,7.1,Knights,TM Bodibe,GJ Abrahams,C Bosch,0,1,1,,,,,"",""
+ball,1,7.2,Knights,TM Bodibe,GJ Abrahams,C Bosch,0,0,,,,,,"",""
+ball,1,7.3,Knights,TM Bodibe,GJ Abrahams,C Bosch,1,0,,,,,,"",""
+ball,1,7.4,Knights,GJ Abrahams,TM Bodibe,C Bosch,0,0,,,,,,"",""
+ball,1,7.5,Knights,GJ Abrahams,TM Bodibe,C Bosch,0,0,,,,,,"",""
+ball,1,7.6,Knights,GJ Abrahams,TM Bodibe,C Bosch,0,0,,,,,,"",""
+ball,1,7.7,Knights,GJ Abrahams,TM Bodibe,C Bosch,0,0,,,,,,"",""
+ball,1,8.1,Knights,TM Bodibe,GJ Abrahams,JJ Pienaar,4,0,,,,,,"",""
+ball,1,8.2,Knights,TM Bodibe,GJ Abrahams,JJ Pienaar,4,0,,,,,,"",""
+ball,1,8.3,Knights,TM Bodibe,GJ Abrahams,JJ Pienaar,1,0,,,,,,"",""
+ball,1,8.4,Knights,GJ Abrahams,TM Bodibe,JJ Pienaar,1,0,,,,,,"",""
+ball,1,8.5,Knights,TM Bodibe,GJ Abrahams,JJ Pienaar,0,0,,,,,,"",""
+ball,1,8.6,Knights,TM Bodibe,GJ Abrahams,JJ Pienaar,1,0,,,,,,"",""
+ball,1,9.1,Knights,TM Bodibe,GJ Abrahams,T Shamsi,1,0,,,,,,"",""
+ball,1,9.2,Knights,GJ Abrahams,TM Bodibe,T Shamsi,0,0,,,,,,"",""
+ball,1,9.3,Knights,GJ Abrahams,TM Bodibe,T Shamsi,2,0,,,,,,"",""
+ball,1,9.4,Knights,GJ Abrahams,TM Bodibe,T Shamsi,2,0,,,,,,"",""
+ball,1,9.5,Knights,GJ Abrahams,TM Bodibe,T Shamsi,0,0,,,,,,"",""
+ball,1,9.6,Knights,GJ Abrahams,TM Bodibe,T Shamsi,0,0,,,,,,"",""
+ball,1,10.1,Knights,TM Bodibe,GJ Abrahams,DJG Sammy,1,0,,,,,,"",""
+ball,1,10.2,Knights,GJ Abrahams,TM Bodibe,DJG Sammy,0,0,,,,,,"",""
+ball,1,10.3,Knights,GJ Abrahams,TM Bodibe,DJG Sammy,0,1,,,1,,,"",""
+ball,1,10.4,Knights,TM Bodibe,GJ Abrahams,DJG Sammy,6,0,,,,,,"",""
+ball,1,10.5,Knights,TM Bodibe,GJ Abrahams,DJG Sammy,0,0,,,,,,"",""
+ball,1,10.6,Knights,TM Bodibe,GJ Abrahams,DJG Sammy,1,0,,,,,,"",""
+ball,1,11.1,Knights,TM Bodibe,GJ Abrahams,T Shamsi,0,0,,,,,,"",""
+ball,1,11.2,Knights,TM Bodibe,GJ Abrahams,T Shamsi,1,0,,,,,,"",""
+ball,1,11.3,Knights,GJ Abrahams,TM Bodibe,T Shamsi,2,0,,,,,,"",""
+ball,1,11.4,Knights,GJ Abrahams,TM Bodibe,T Shamsi,4,0,,,,,,"",""
+ball,1,11.5,Knights,GJ Abrahams,TM Bodibe,T Shamsi,1,0,,,,,,"",""
+ball,1,11.6,Knights,TM Bodibe,GJ Abrahams,T Shamsi,2,0,,,,,,"",""
+ball,1,12.1,Knights,GJ Abrahams,TM Bodibe,RE van der Merwe,2,0,,,,,,"",""
+ball,1,12.2,Knights,GJ Abrahams,TM Bodibe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.3,Knights,TM Bodibe,GJ Abrahams,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.4,Knights,GJ Abrahams,TM Bodibe,RE van der Merwe,2,0,,,,,,"",""
+ball,1,12.5,Knights,GJ Abrahams,TM Bodibe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.6,Knights,TM Bodibe,GJ Abrahams,RE van der Merwe,0,0,,,,,,lbw,TM Bodibe
+ball,1,13.1,Knights,GJ Abrahams,AD Russell,T Shamsi,4,0,,,,,,"",""
+ball,1,13.2,Knights,GJ Abrahams,AD Russell,T Shamsi,1,0,,,,,,"",""
+ball,1,13.3,Knights,AD Russell,GJ Abrahams,T Shamsi,4,0,,,,,,"",""
+ball,1,13.4,Knights,AD Russell,GJ Abrahams,T Shamsi,0,0,,,,,,"",""
+ball,1,13.5,Knights,AD Russell,GJ Abrahams,T Shamsi,0,0,,,,,,"",""
+ball,1,13.6,Knights,AD Russell,GJ Abrahams,T Shamsi,6,0,,,,,,"",""
+ball,1,14.1,Knights,GJ Abrahams,AD Russell,JJ Pienaar,1,0,,,,,,"",""
+ball,1,14.2,Knights,AD Russell,GJ Abrahams,JJ Pienaar,4,0,,,,,,"",""
+ball,1,14.3,Knights,AD Russell,GJ Abrahams,JJ Pienaar,4,0,,,,,,"",""
+ball,1,14.4,Knights,AD Russell,GJ Abrahams,JJ Pienaar,4,0,,,,,,"",""
+ball,1,14.5,Knights,AD Russell,GJ Abrahams,JJ Pienaar,6,0,,,,,,"",""
+ball,1,14.6,Knights,AD Russell,GJ Abrahams,JJ Pienaar,1,0,,,,,,"",""
+ball,1,15.1,Knights,AD Russell,GJ Abrahams,RE van der Merwe,0,0,,,,,,"",""
+ball,1,15.2,Knights,AD Russell,GJ Abrahams,RE van der Merwe,0,0,,,,,,"",""
+ball,1,15.3,Knights,AD Russell,GJ Abrahams,RE van der Merwe,0,0,,,,,,"",""
+ball,1,15.4,Knights,AD Russell,GJ Abrahams,RE van der Merwe,1,0,,,,,,"",""
+ball,1,15.5,Knights,GJ Abrahams,AD Russell,RE van der Merwe,1,0,,,,,,"",""
+ball,1,15.6,Knights,AD Russell,GJ Abrahams,RE van der Merwe,4,0,,,,,,"",""
+ball,1,16.1,Knights,GJ Abrahams,AD Russell,C Bosch,2,0,,,,,,"",""
+ball,1,16.2,Knights,GJ Abrahams,AD Russell,C Bosch,1,0,,,,,,"",""
+ball,1,16.3,Knights,AD Russell,GJ Abrahams,C Bosch,0,1,1,,,,,"",""
+ball,1,16.4,Knights,AD Russell,GJ Abrahams,C Bosch,4,0,,,,,,"",""
+ball,1,16.5,Knights,AD Russell,GJ Abrahams,C Bosch,0,0,,,,,,"",""
+ball,1,16.6,Knights,AD Russell,GJ Abrahams,C Bosch,1,0,,,,,,"",""
+ball,1,16.7,Knights,GJ Abrahams,AD Russell,C Bosch,0,0,,,,,,"",""
+ball,1,17.1,Knights,AD Russell,GJ Abrahams,DJG Sammy,4,0,,,,,,"",""
+ball,1,17.2,Knights,AD Russell,GJ Abrahams,DJG Sammy,1,0,,,,,,"",""
+ball,1,17.3,Knights,GJ Abrahams,AD Russell,DJG Sammy,0,0,,,,,,caught,GJ Abrahams
+ball,1,17.4,Knights,AD Russell,AJ Pienaar,DJG Sammy,4,0,,,,,,"",""
+ball,1,17.5,Knights,AD Russell,AJ Pienaar,DJG Sammy,0,0,,,,,,lbw,AD Russell
+ball,1,17.6,Knights,PJ van Biljon,AJ Pienaar,DJG Sammy,0,0,,,,,,caught,PJ van Biljon
+ball,1,18.1,Knights,AJ Pienaar,DS Rosier,NE Mbhalati,1,0,,,,,,"",""
+ball,1,18.2,Knights,DS Rosier,AJ Pienaar,NE Mbhalati,0,0,,,,,,"",""
+ball,1,18.3,Knights,DS Rosier,AJ Pienaar,NE Mbhalati,1,0,,,,,,"",""
+ball,1,18.4,Knights,AJ Pienaar,DS Rosier,NE Mbhalati,1,0,,,,,,"",""
+ball,1,18.5,Knights,DS Rosier,AJ Pienaar,NE Mbhalati,2,0,,,,,,"",""
+ball,1,18.6,Knights,DS Rosier,AJ Pienaar,NE Mbhalati,0,0,,,,,,bowled,DS Rosier
+ball,1,19.1,Knights,AJ Pienaar,WL Coetsee,C Bosch,0,0,,,,,,run out,WL Coetsee
+ball,1,19.2,Knights,AJ Pienaar,D du Preez,C Bosch,2,0,,,,,,"",""
+ball,1,19.3,Knights,AJ Pienaar,D du Preez,C Bosch,1,0,,,,,,"",""
+ball,1,19.4,Knights,D du Preez,AJ Pienaar,C Bosch,1,0,,,,,,"",""
+ball,1,19.5,Knights,AJ Pienaar,D du Preez,C Bosch,2,0,,,,,,"",""
+ball,1,19.6,Knights,AJ Pienaar,D du Preez,C Bosch,1,0,,,,,,"",""
+ball,2,0.1,Titans,H Davids,D Elgar,D du Preez,0,0,,,,,,"",""
+ball,2,0.2,Titans,H Davids,D Elgar,D du Preez,0,0,,,,,,"",""
+ball,2,0.3,Titans,H Davids,D Elgar,D du Preez,0,0,,,,,,"",""
+ball,2,0.4,Titans,H Davids,D Elgar,D du Preez,4,0,,,,,,"",""
+ball,2,0.5,Titans,H Davids,D Elgar,D du Preez,0,0,,,,,,"",""
+ball,2,0.6,Titans,H Davids,D Elgar,D du Preez,4,0,,,,,,"",""
+ball,2,1.1,Titans,D Elgar,H Davids,AD Russell,0,0,,,,,,"",""
+ball,2,1.2,Titans,D Elgar,H Davids,AD Russell,0,0,,,,,,"",""
+ball,2,1.3,Titans,D Elgar,H Davids,AD Russell,0,0,,,,,,"",""
+ball,2,1.4,Titans,D Elgar,H Davids,AD Russell,2,0,,,,,,"",""
+ball,2,1.5,Titans,D Elgar,H Davids,AD Russell,1,0,,,,,,"",""
+ball,2,1.6,Titans,H Davids,D Elgar,AD Russell,0,0,,,,,,"",""
+ball,2,2.1,Titans,D Elgar,H Davids,D du Preez,1,0,,,,,,"",""
+ball,2,2.2,Titans,H Davids,D Elgar,D du Preez,2,0,,,,,,"",""
+ball,2,2.3,Titans,H Davids,D Elgar,D du Preez,1,0,,,,,,"",""
+ball,2,2.4,Titans,D Elgar,H Davids,D du Preez,0,0,,,,,,"",""
+ball,2,2.5,Titans,D Elgar,H Davids,D du Preez,2,0,,,,,,"",""
+ball,2,2.6,Titans,D Elgar,H Davids,D du Preez,0,0,,,,,,"",""
+ball,2,3.1,Titans,H Davids,D Elgar,MP Siboto,6,0,,,,,,"",""
+ball,2,3.2,Titans,H Davids,D Elgar,MP Siboto,0,0,,,,,,"",""
+ball,2,3.3,Titans,H Davids,D Elgar,MP Siboto,6,0,,,,,,"",""
+ball,2,3.4,Titans,H Davids,D Elgar,MP Siboto,0,0,,,,,,"",""
+ball,2,3.5,Titans,H Davids,D Elgar,MP Siboto,0,1,,,,1,,"",""
+ball,2,3.6,Titans,D Elgar,H Davids,MP Siboto,0,0,,,,,,"",""
+ball,2,4.1,Titans,H Davids,D Elgar,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,4.2,Titans,D Elgar,H Davids,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,4.3,Titans,D Elgar,H Davids,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,4.4,Titans,H Davids,D Elgar,SC van Schalkwyk,4,0,,,,,,"",""
+ball,2,4.5,Titans,H Davids,D Elgar,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,4.6,Titans,D Elgar,H Davids,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,5.1,Titans,D Elgar,H Davids,AD Russell,1,0,,,,,,"",""
+ball,2,5.2,Titans,H Davids,D Elgar,AD Russell,0,0,,,,,,bowled,H Davids
+ball,2,5.3,Titans,RE van der Merwe,D Elgar,AD Russell,1,0,,,,,,"",""
+ball,2,5.4,Titans,D Elgar,RE van der Merwe,AD Russell,0,0,,,,,,"",""
+ball,2,5.5,Titans,D Elgar,RE van der Merwe,AD Russell,0,0,,,,,,"",""
+ball,2,5.6,Titans,D Elgar,RE van der Merwe,AD Russell,1,0,,,,,,"",""
+ball,2,6.1,Titans,D Elgar,RE van der Merwe,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,6.2,Titans,D Elgar,RE van der Merwe,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,6.3,Titans,RE van der Merwe,D Elgar,SC van Schalkwyk,0,0,,,,,,caught,RE van der Merwe
+ball,2,6.4,Titans,D Elgar,TB de Bruyn,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,6.5,Titans,TB de Bruyn,D Elgar,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,6.6,Titans,D Elgar,TB de Bruyn,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,7.1,Titans,D Elgar,TB de Bruyn,WL Coetsee,2,0,,,,,,"",""
+ball,2,7.2,Titans,D Elgar,TB de Bruyn,WL Coetsee,0,0,,,,,,"",""
+ball,2,7.3,Titans,D Elgar,TB de Bruyn,WL Coetsee,0,0,,,,,,"",""
+ball,2,7.4,Titans,D Elgar,TB de Bruyn,WL Coetsee,6,0,,,,,,"",""
+ball,2,7.5,Titans,D Elgar,TB de Bruyn,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.6,Titans,TB de Bruyn,D Elgar,WL Coetsee,3,0,,,,,,"",""
+ball,2,8.1,Titans,TB de Bruyn,D Elgar,MP Siboto,1,0,,,,,,"",""
+ball,2,8.2,Titans,D Elgar,TB de Bruyn,MP Siboto,0,0,,,,,,"",""
+ball,2,8.3,Titans,D Elgar,TB de Bruyn,MP Siboto,2,0,,,,,,"",""
+ball,2,8.4,Titans,D Elgar,TB de Bruyn,MP Siboto,1,0,,,,,,"",""
+ball,2,8.5,Titans,TB de Bruyn,D Elgar,MP Siboto,1,0,,,,,,"",""
+ball,2,8.6,Titans,D Elgar,TB de Bruyn,MP Siboto,1,0,,,,,,"",""
+ball,2,9.1,Titans,D Elgar,TB de Bruyn,WL Coetsee,0,0,,,,,,"",""
+ball,2,9.2,Titans,D Elgar,TB de Bruyn,WL Coetsee,1,0,,,,,,"",""
+ball,2,9.3,Titans,TB de Bruyn,D Elgar,WL Coetsee,1,0,,,,,,"",""
+ball,2,9.4,Titans,D Elgar,TB de Bruyn,WL Coetsee,0,0,,,,,,"",""
+ball,2,9.5,Titans,D Elgar,TB de Bruyn,WL Coetsee,0,0,,,,,,"",""
+ball,2,9.6,Titans,D Elgar,TB de Bruyn,WL Coetsee,1,0,,,,,,"",""
+ball,2,10.1,Titans,D Elgar,TB de Bruyn,AJ Pienaar,0,1,1,,,,,"",""
+ball,2,10.2,Titans,D Elgar,TB de Bruyn,AJ Pienaar,2,0,,,,,,"",""
+ball,2,10.3,Titans,D Elgar,TB de Bruyn,AJ Pienaar,1,0,,,,,,"",""
+ball,2,10.4,Titans,TB de Bruyn,D Elgar,AJ Pienaar,0,1,,,1,,,"",""
+ball,2,10.5,Titans,D Elgar,TB de Bruyn,AJ Pienaar,2,0,,,,,,"",""
+ball,2,10.6,Titans,D Elgar,TB de Bruyn,AJ Pienaar,0,0,,,,,,"",""
+ball,2,10.7,Titans,D Elgar,TB de Bruyn,AJ Pienaar,1,0,,,,,,"",""
+ball,2,11.1,Titans,D Elgar,TB de Bruyn,WL Coetsee,6,0,,,,,,"",""
+ball,2,11.2,Titans,D Elgar,TB de Bruyn,WL Coetsee,1,0,,,,,,"",""
+ball,2,11.3,Titans,TB de Bruyn,D Elgar,WL Coetsee,1,0,,,,,,"",""
+ball,2,11.4,Titans,D Elgar,TB de Bruyn,WL Coetsee,1,0,,,,,,"",""
+ball,2,11.5,Titans,TB de Bruyn,D Elgar,WL Coetsee,1,0,,,,,,"",""
+ball,2,11.6,Titans,D Elgar,TB de Bruyn,WL Coetsee,1,0,,,,,,"",""
+ball,2,12.1,Titans,D Elgar,TB de Bruyn,D du Preez,1,0,,,,,,"",""
+ball,2,12.2,Titans,TB de Bruyn,D Elgar,D du Preez,0,0,,,,,,"",""
+ball,2,12.3,Titans,TB de Bruyn,D Elgar,D du Preez,6,0,,,,,,"",""
+ball,2,12.4,Titans,TB de Bruyn,D Elgar,D du Preez,2,0,,,,,,"",""
+ball,2,12.5,Titans,TB de Bruyn,D Elgar,D du Preez,1,0,,,,,,"",""
+ball,2,12.6,Titans,D Elgar,TB de Bruyn,D du Preez,1,0,,,,,,"",""
+ball,2,13.1,Titans,D Elgar,TB de Bruyn,MP Siboto,1,0,,,,,,"",""
+ball,2,13.2,Titans,TB de Bruyn,D Elgar,MP Siboto,0,0,,,,,,caught,TB de Bruyn
+ball,2,13.3,Titans,DJG Sammy,D Elgar,MP Siboto,0,0,,,,,,"",""
+ball,2,13.4,Titans,DJG Sammy,D Elgar,MP Siboto,3,0,,,,,,"",""
+ball,2,13.5,Titans,D Elgar,DJG Sammy,MP Siboto,1,0,,,,,,"",""
+ball,2,13.6,Titans,DJG Sammy,D Elgar,MP Siboto,1,0,,,,,,"",""
+ball,2,14.1,Titans,DJG Sammy,D Elgar,D du Preez,0,0,,,,,,"",""
+ball,2,14.2,Titans,DJG Sammy,D Elgar,D du Preez,0,0,,,,,,"",""
+ball,2,14.3,Titans,DJG Sammy,D Elgar,D du Preez,4,0,,,,,,"",""
+ball,2,14.4,Titans,DJG Sammy,D Elgar,D du Preez,0,0,,,,,,"",""
+ball,2,14.5,Titans,DJG Sammy,D Elgar,D du Preez,1,0,,,,,,"",""
+ball,2,14.6,Titans,D Elgar,DJG Sammy,D du Preez,1,0,,,,,,"",""
+ball,2,15.1,Titans,D Elgar,DJG Sammy,SC van Schalkwyk,0,1,1,,,,,"",""
+ball,2,15.2,Titans,D Elgar,DJG Sammy,SC van Schalkwyk,4,0,,,,,,"",""
+ball,2,15.3,Titans,D Elgar,DJG Sammy,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,15.4,Titans,DJG Sammy,D Elgar,SC van Schalkwyk,4,0,,,,,,"",""
+ball,2,15.5,Titans,DJG Sammy,D Elgar,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,15.6,Titans,DJG Sammy,D Elgar,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,15.7,Titans,D Elgar,DJG Sammy,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,16.1,Titans,D Elgar,DJG Sammy,AD Russell,1,0,,,,,,"",""
+ball,2,16.2,Titans,DJG Sammy,D Elgar,AD Russell,0,0,,,,,,"",""
+ball,2,16.3,Titans,DJG Sammy,D Elgar,AD Russell,6,0,,,,,,"",""
+ball,2,16.4,Titans,DJG Sammy,D Elgar,AD Russell,0,0,,,,,,"",""
+ball,2,16.5,Titans,DJG Sammy,D Elgar,AD Russell,1,0,,,,,,"",""
+ball,2,16.6,Titans,D Elgar,DJG Sammy,AD Russell,0,1,1,,,,,"",""
+ball,2,16.7,Titans,D Elgar,DJG Sammy,AD Russell,1,0,,,,,,"",""
+ball,2,17.1,Titans,D Elgar,DJG Sammy,SC van Schalkwyk,2,0,,,,,,"",""
+ball,2,17.2,Titans,D Elgar,DJG Sammy,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,17.3,Titans,DJG Sammy,D Elgar,SC van Schalkwyk,2,0,,,,,,"",""
+ball,2,17.4,Titans,DJG Sammy,D Elgar,SC van Schalkwyk,0,0,,,,,,caught,DJG Sammy
+ball,2,17.5,Titans,M Mosehle,D Elgar,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,17.6,Titans,D Elgar,M Mosehle,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,18.1,Titans,D Elgar,M Mosehle,AD Russell,1,0,,,,,,"",""
+ball,2,18.2,Titans,M Mosehle,D Elgar,AD Russell,1,0,,,,,,"",""
+ball,2,18.3,Titans,D Elgar,M Mosehle,AD Russell,2,0,,,,,,"",""
+ball,2,18.4,Titans,D Elgar,M Mosehle,AD Russell,0,0,,,,,,"",""
+ball,2,18.5,Titans,D Elgar,M Mosehle,AD Russell,0,0,,,,,,"",""
+ball,2,18.6,Titans,D Elgar,M Mosehle,AD Russell,0,0,,,,,,"",""
+ball,2,19.1,Titans,M Mosehle,D Elgar,MP Siboto,0,0,,,,,,"",""
+ball,2,19.2,Titans,M Mosehle,D Elgar,MP Siboto,0,0,,,,,,run out,M Mosehle
+ball,2,19.3,Titans,D Elgar,MQ Adams,MP Siboto,1,0,,,,,,"",""
+ball,2,19.4,Titans,MQ Adams,D Elgar,MP Siboto,1,0,,,,,,"",""
+ball,2,19.5,Titans,D Elgar,MQ Adams,MP Siboto,1,0,,,,,,"",""
+ball,2,19.6,Titans,MQ Adams,D Elgar,MP Siboto,0,0,,,,,,"",""

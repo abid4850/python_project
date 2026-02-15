@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Warriors
+info,gender,male
+info,season,2014/15
+info,date,2014/11/21
+info,event,Ram Slam T20 Challenge
+info,venue,"Buffalo Park, East London"
+info,city,East London
+info,toss_winner,Warriors
+info,toss_decision,field
+info,player_of_match,JT Smuts
+info,player_of_match,JT Smuts
+info,umpire,JD Cloete
+info,umpire,LB Gcuma
+info,reserve_umpire,LJ Willemse
+info,tv_umpire,IL Howell
+info,match_referee,A Barnes
+info,winner,Warriors
+info,winner_wickets,8
+info,player,Knights,GJ Abrahams
+info,player,Knights,RR Hendricks
+info,player,Knights,RS Second
+info,player,Knights,TM Bodibe
+info,player,Knights,DS Rosier
+info,player,Knights,AD Russell
+info,player,Knights,AJ Pienaar
+info,player,Knights,WL Coetsee
+info,player,Knights,Q Friend
+info,player,Knights,SC van Schalkwyk
+info,player,Knights,MP Siboto
+info,player,Warriors,JT Smuts
+info,player,Warriors,C Kieswetter
+info,player,Warriors,CA Ingram
+info,player,Warriors,C Jonker
+info,player,Warriors,MY Vallie
+info,player,Warriors,S Seyibokwe
+info,player,Warriors,SR Harmer
+info,player,Warriors,J Theron
+info,player,Warriors,A Gqamane
+info,player,Warriors,BD Walters
+info,player,Warriors,L Mbane
+info,registry,people,A Barnes,f9607922
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,BD Walters,1e182ae2
+info,registry,people,C Jonker,a81d6706
+info,registry,people,C Kieswetter,1e960f2a
+info,registry,people,CA Ingram,c995d726
+info,registry,people,DS Rosier,f8e6dbdd
+info,registry,people,GJ Abrahams,231a7404
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,J Theron,dec8e038
+info,registry,people,JD Cloete,b0419f8c
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,L Mbane,ca322fd6
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LJ Willemse,bec17912
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,MY Vallie,9fa54c94
+info,registry,people,Q Friend,ffa15667
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RS Second,13d0b3d6
+info,registry,people,S Seyibokwe,2f873ad6
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,SR Harmer,23638956
+info,registry,people,TM Bodibe,ed982dfa
+info,registry,people,WL Coetsee,5f419ace
+ball,1,0.1,Knights,GJ Abrahams,RR Hendricks,BD Walters,4,0,,,,,,"",""
+ball,1,0.2,Knights,GJ Abrahams,RR Hendricks,BD Walters,0,1,1,,,,,"",""
+ball,1,0.3,Knights,GJ Abrahams,RR Hendricks,BD Walters,3,0,,,,,,"",""
+ball,1,0.4,Knights,RR Hendricks,GJ Abrahams,BD Walters,0,0,,,,,,"",""
+ball,1,0.5,Knights,RR Hendricks,GJ Abrahams,BD Walters,0,0,,,,,,"",""
+ball,1,0.6,Knights,RR Hendricks,GJ Abrahams,BD Walters,0,0,,,,,,lbw,RR Hendricks
+ball,1,0.7,Knights,RS Second,GJ Abrahams,BD Walters,1,0,,,,,,"",""
+ball,1,1.1,Knights,RS Second,GJ Abrahams,J Theron,0,1,1,,,,,"",""
+ball,1,1.2,Knights,RS Second,GJ Abrahams,J Theron,0,0,,,,,,"",""
+ball,1,1.3,Knights,RS Second,GJ Abrahams,J Theron,1,0,,,,,,"",""
+ball,1,1.4,Knights,GJ Abrahams,RS Second,J Theron,0,0,,,,,,"",""
+ball,1,1.5,Knights,GJ Abrahams,RS Second,J Theron,0,0,,,,,,"",""
+ball,1,1.6,Knights,GJ Abrahams,RS Second,J Theron,4,0,,,,,,"",""
+ball,1,1.7,Knights,GJ Abrahams,RS Second,J Theron,0,0,,,,,,bowled,GJ Abrahams
+ball,1,2.1,Knights,RS Second,TM Bodibe,BD Walters,0,0,,,,,,"",""
+ball,1,2.2,Knights,RS Second,TM Bodibe,BD Walters,1,0,,,,,,"",""
+ball,1,2.3,Knights,TM Bodibe,RS Second,BD Walters,0,0,,,,,,"",""
+ball,1,2.4,Knights,TM Bodibe,RS Second,BD Walters,1,0,,,,,,"",""
+ball,1,2.5,Knights,RS Second,TM Bodibe,BD Walters,0,0,,,,,,"",""
+ball,1,2.6,Knights,RS Second,TM Bodibe,BD Walters,0,0,,,,,,"",""
+ball,1,3.1,Knights,TM Bodibe,RS Second,J Theron,1,0,,,,,,"",""
+ball,1,3.2,Knights,RS Second,TM Bodibe,J Theron,0,0,,,,,,"",""
+ball,1,3.3,Knights,RS Second,TM Bodibe,J Theron,1,0,,,,,,"",""
+ball,1,3.4,Knights,TM Bodibe,RS Second,J Theron,0,0,,,,,,bowled,TM Bodibe
+ball,1,3.5,Knights,DS Rosier,RS Second,J Theron,0,0,,,,,,"",""
+ball,1,3.6,Knights,DS Rosier,RS Second,J Theron,1,0,,,,,,"",""
+ball,1,4.1,Knights,DS Rosier,RS Second,BD Walters,0,0,,,,,,"",""
+ball,1,4.2,Knights,DS Rosier,RS Second,BD Walters,1,0,,,,,,"",""
+ball,1,4.3,Knights,RS Second,DS Rosier,BD Walters,0,0,,,,,,"",""
+ball,1,4.4,Knights,RS Second,DS Rosier,BD Walters,1,0,,,,,,"",""
+ball,1,4.5,Knights,DS Rosier,RS Second,BD Walters,1,0,,,,,,"",""
+ball,1,4.6,Knights,RS Second,DS Rosier,BD Walters,0,0,,,,,,"",""
+ball,1,5.1,Knights,DS Rosier,RS Second,L Mbane,0,0,,,,,,"",""
+ball,1,5.2,Knights,DS Rosier,RS Second,L Mbane,1,0,,,,,,"",""
+ball,1,5.3,Knights,RS Second,DS Rosier,L Mbane,0,0,,,,,,"",""
+ball,1,5.4,Knights,RS Second,DS Rosier,L Mbane,0,0,,,,,,"",""
+ball,1,5.5,Knights,RS Second,DS Rosier,L Mbane,0,0,,,,,,"",""
+ball,1,5.6,Knights,RS Second,DS Rosier,L Mbane,4,0,,,,,,"",""
+ball,1,6.1,Knights,DS Rosier,RS Second,BD Walters,1,0,,,,,,"",""
+ball,1,6.2,Knights,RS Second,DS Rosier,BD Walters,2,0,,,,,,"",""
+ball,1,6.3,Knights,RS Second,DS Rosier,BD Walters,1,0,,,,,,"",""
+ball,1,6.4,Knights,DS Rosier,RS Second,BD Walters,1,0,,,,,,"",""
+ball,1,6.5,Knights,RS Second,DS Rosier,BD Walters,2,0,,,,,,"",""
+ball,1,6.6,Knights,RS Second,DS Rosier,BD Walters,1,0,,,,,,"",""
+ball,1,7.1,Knights,RS Second,DS Rosier,SR Harmer,1,0,,,,,,"",""
+ball,1,7.2,Knights,DS Rosier,RS Second,SR Harmer,1,0,,,,,,"",""
+ball,1,7.3,Knights,RS Second,DS Rosier,SR Harmer,1,0,,,,,,"",""
+ball,1,7.4,Knights,DS Rosier,RS Second,SR Harmer,1,0,,,,,,"",""
+ball,1,7.5,Knights,RS Second,DS Rosier,SR Harmer,1,0,,,,,,"",""
+ball,1,7.6,Knights,DS Rosier,RS Second,SR Harmer,2,0,,,,,,"",""
+ball,1,8.1,Knights,RS Second,DS Rosier,JT Smuts,0,0,,,,,,"",""
+ball,1,8.2,Knights,RS Second,DS Rosier,JT Smuts,1,0,,,,,,"",""
+ball,1,8.3,Knights,DS Rosier,RS Second,JT Smuts,0,0,,,,,,"",""
+ball,1,8.4,Knights,DS Rosier,RS Second,JT Smuts,1,0,,,,,,"",""
+ball,1,8.5,Knights,RS Second,DS Rosier,JT Smuts,1,0,,,,,,"",""
+ball,1,8.6,Knights,DS Rosier,RS Second,JT Smuts,0,0,,,,,,"",""
+ball,1,9.1,Knights,RS Second,DS Rosier,SR Harmer,1,0,,,,,,"",""
+ball,1,9.2,Knights,DS Rosier,RS Second,SR Harmer,1,0,,,,,,"",""
+ball,1,9.3,Knights,RS Second,DS Rosier,SR Harmer,2,0,,,,,,"",""
+ball,1,9.4,Knights,RS Second,DS Rosier,SR Harmer,0,0,,,,,,"",""
+ball,1,9.5,Knights,RS Second,DS Rosier,SR Harmer,2,0,,,,,,"",""
+ball,1,9.6,Knights,RS Second,DS Rosier,SR Harmer,0,1,1,,,,,"",""
+ball,1,9.7,Knights,RS Second,DS Rosier,SR Harmer,1,0,,,,,,"",""
+ball,1,10.1,Knights,RS Second,DS Rosier,JT Smuts,1,0,,,,,,"",""
+ball,1,10.2,Knights,DS Rosier,RS Second,JT Smuts,6,0,,,,,,"",""
+ball,1,10.3,Knights,DS Rosier,RS Second,JT Smuts,1,0,,,,,,"",""
+ball,1,10.4,Knights,RS Second,DS Rosier,JT Smuts,1,0,,,,,,"",""
+ball,1,10.5,Knights,DS Rosier,RS Second,JT Smuts,1,0,,,,,,"",""
+ball,1,10.6,Knights,RS Second,DS Rosier,JT Smuts,1,0,,,,,,"",""
+ball,1,11.1,Knights,RS Second,DS Rosier,SR Harmer,1,0,,,,,,"",""
+ball,1,11.2,Knights,DS Rosier,RS Second,SR Harmer,1,0,,,,,,"",""
+ball,1,11.3,Knights,RS Second,DS Rosier,SR Harmer,0,0,,,,,,"",""
+ball,1,11.4,Knights,RS Second,DS Rosier,SR Harmer,1,0,,,,,,"",""
+ball,1,11.5,Knights,DS Rosier,RS Second,SR Harmer,4,0,,,,,,"",""
+ball,1,11.6,Knights,DS Rosier,RS Second,SR Harmer,0,0,,,,,,"",""
+ball,1,12.1,Knights,RS Second,DS Rosier,JT Smuts,1,0,,,,,,"",""
+ball,1,12.2,Knights,DS Rosier,RS Second,JT Smuts,0,0,,,,,,caught,DS Rosier
+ball,1,12.3,Knights,AD Russell,RS Second,JT Smuts,1,0,,,,,,"",""
+ball,1,12.4,Knights,RS Second,AD Russell,JT Smuts,1,0,,,,,,"",""
+ball,1,12.5,Knights,AD Russell,RS Second,JT Smuts,1,0,,,,,,"",""
+ball,1,12.6,Knights,RS Second,AD Russell,JT Smuts,1,0,,,,,,"",""
+ball,1,13.1,Knights,RS Second,AD Russell,SR Harmer,1,0,,,,,,"",""
+ball,1,13.2,Knights,AD Russell,RS Second,SR Harmer,0,0,,,,,,"",""
+ball,1,13.3,Knights,AD Russell,RS Second,SR Harmer,0,0,,,,,,"",""
+ball,1,13.4,Knights,AD Russell,RS Second,SR Harmer,0,0,,,,,,"",""
+ball,1,13.5,Knights,AD Russell,RS Second,SR Harmer,1,0,,,,,,"",""
+ball,1,13.6,Knights,RS Second,AD Russell,SR Harmer,0,0,,,,,,"",""
+ball,1,14.1,Knights,AD Russell,RS Second,JT Smuts,0,0,,,,,,"",""
+ball,1,14.2,Knights,AD Russell,RS Second,JT Smuts,0,0,,,,,,"",""
+ball,1,14.3,Knights,AD Russell,RS Second,JT Smuts,1,0,,,,,,"",""
+ball,1,14.4,Knights,RS Second,AD Russell,JT Smuts,0,0,,,,,,"",""
+ball,1,14.5,Knights,RS Second,AD Russell,JT Smuts,0,0,,,,,,"",""
+ball,1,14.6,Knights,RS Second,AD Russell,JT Smuts,1,0,,,,,,"",""
+ball,1,15.1,Knights,RS Second,AD Russell,A Gqamane,1,0,,,,,,"",""
+ball,1,15.2,Knights,AD Russell,RS Second,A Gqamane,0,0,,,,,,"",""
+ball,1,15.3,Knights,AD Russell,RS Second,A Gqamane,1,0,,,,,,"",""
+ball,1,15.4,Knights,RS Second,AD Russell,A Gqamane,1,0,,,,,,"",""
+ball,1,15.5,Knights,AD Russell,RS Second,A Gqamane,4,0,,,,,,"",""
+ball,1,15.6,Knights,AD Russell,RS Second,A Gqamane,4,0,,,,,,"",""
+ball,1,16.1,Knights,RS Second,AD Russell,L Mbane,1,0,,,,,,"",""
+ball,1,16.2,Knights,AD Russell,RS Second,L Mbane,1,0,,,,,,"",""
+ball,1,16.3,Knights,RS Second,AD Russell,L Mbane,1,0,,,,,,"",""
+ball,1,16.4,Knights,AD Russell,RS Second,L Mbane,6,0,,,,,,"",""
+ball,1,16.5,Knights,AD Russell,RS Second,L Mbane,0,0,,,,,,"",""
+ball,1,16.6,Knights,AD Russell,RS Second,L Mbane,6,0,,,,,,"",""
+ball,1,17.1,Knights,RS Second,AD Russell,J Theron,1,0,,,,,,"",""
+ball,1,17.2,Knights,AD Russell,RS Second,J Theron,4,0,,,,,,"",""
+ball,1,17.3,Knights,AD Russell,RS Second,J Theron,0,0,,,,,,"",""
+ball,1,17.4,Knights,AD Russell,RS Second,J Theron,2,0,,,,,,"",""
+ball,1,17.5,Knights,AD Russell,RS Second,J Theron,1,0,,,,,,"",""
+ball,1,17.6,Knights,RS Second,AD Russell,J Theron,2,0,,,,,,"",""
+ball,1,18.1,Knights,AD Russell,RS Second,L Mbane,0,0,,,,,,"",""
+ball,1,18.2,Knights,AD Russell,RS Second,L Mbane,4,0,,,,,,"",""
+ball,1,18.3,Knights,AD Russell,RS Second,L Mbane,6,0,,,,,,"",""
+ball,1,18.4,Knights,AD Russell,RS Second,L Mbane,2,0,,,,,,"",""
+ball,1,18.5,Knights,AD Russell,RS Second,L Mbane,1,0,,,,,,"",""
+ball,1,18.6,Knights,RS Second,AD Russell,L Mbane,4,0,,,,,,"",""
+ball,1,19.1,Knights,AD Russell,RS Second,J Theron,0,0,,,,,,"",""
+ball,1,19.2,Knights,AD Russell,RS Second,J Theron,2,0,,,,,,"",""
+ball,1,19.3,Knights,AD Russell,RS Second,J Theron,1,0,,,,,,"",""
+ball,1,19.4,Knights,RS Second,AD Russell,J Theron,1,0,,,,,,"",""
+ball,1,19.5,Knights,AD Russell,RS Second,J Theron,6,0,,,,,,"",""
+ball,1,19.6,Knights,AD Russell,RS Second,J Theron,2,0,,,,,,"",""
+ball,2,0.1,Warriors,JT Smuts,C Kieswetter,Q Friend,0,0,,,,,,"",""
+ball,2,0.2,Warriors,JT Smuts,C Kieswetter,Q Friend,1,0,,,,,,"",""
+ball,2,0.3,Warriors,C Kieswetter,JT Smuts,Q Friend,0,0,,,,,,"",""
+ball,2,0.4,Warriors,C Kieswetter,JT Smuts,Q Friend,4,0,,,,,,"",""
+ball,2,0.5,Warriors,C Kieswetter,JT Smuts,Q Friend,1,0,,,,,,"",""
+ball,2,0.6,Warriors,JT Smuts,C Kieswetter,Q Friend,0,0,,,,,,"",""
+ball,2,1.1,Warriors,C Kieswetter,JT Smuts,AD Russell,0,0,,,,,,"",""
+ball,2,1.2,Warriors,C Kieswetter,JT Smuts,AD Russell,0,0,,,,,,"",""
+ball,2,1.3,Warriors,C Kieswetter,JT Smuts,AD Russell,1,0,,,,,,"",""
+ball,2,1.4,Warriors,JT Smuts,C Kieswetter,AD Russell,0,0,,,,,,"",""
+ball,2,1.5,Warriors,JT Smuts,C Kieswetter,AD Russell,4,0,,,,,,"",""
+ball,2,1.6,Warriors,JT Smuts,C Kieswetter,AD Russell,1,0,,,,,,"",""
+ball,2,2.1,Warriors,JT Smuts,C Kieswetter,Q Friend,4,0,,,,,,"",""
+ball,2,2.2,Warriors,JT Smuts,C Kieswetter,Q Friend,0,0,,,,,,"",""
+ball,2,2.3,Warriors,JT Smuts,C Kieswetter,Q Friend,0,0,,,,,,"",""
+ball,2,2.4,Warriors,JT Smuts,C Kieswetter,Q Friend,0,0,,,,,,"",""
+ball,2,2.5,Warriors,JT Smuts,C Kieswetter,Q Friend,1,0,,,,,,"",""
+ball,2,2.6,Warriors,C Kieswetter,JT Smuts,Q Friend,0,0,,,,,,"",""
+ball,2,3.1,Warriors,JT Smuts,C Kieswetter,MP Siboto,4,0,,,,,,"",""
+ball,2,3.2,Warriors,JT Smuts,C Kieswetter,MP Siboto,0,0,,,,,,"",""
+ball,2,3.3,Warriors,JT Smuts,C Kieswetter,MP Siboto,6,0,,,,,,"",""
+ball,2,3.4,Warriors,JT Smuts,C Kieswetter,MP Siboto,0,0,,,,,,"",""
+ball,2,3.5,Warriors,JT Smuts,C Kieswetter,MP Siboto,2,0,,,,,,"",""
+ball,2,3.6,Warriors,JT Smuts,C Kieswetter,MP Siboto,0,0,,,,,,"",""
+ball,2,4.1,Warriors,C Kieswetter,JT Smuts,SC van Schalkwyk,4,0,,,,,,"",""
+ball,2,4.2,Warriors,C Kieswetter,JT Smuts,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,4.3,Warriors,JT Smuts,C Kieswetter,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,4.4,Warriors,JT Smuts,C Kieswetter,SC van Schalkwyk,0,0,,,,,,"",""
+ball,2,4.5,Warriors,JT Smuts,C Kieswetter,SC van Schalkwyk,6,0,,,,,,"",""
+ball,2,4.6,Warriors,JT Smuts,C Kieswetter,SC van Schalkwyk,0,1,1,,,,,"",""
+ball,2,4.7,Warriors,JT Smuts,C Kieswetter,SC van Schalkwyk,2,0,,,,,,"",""
+ball,2,5.1,Warriors,C Kieswetter,JT Smuts,AD Russell,0,0,,,,,,bowled,C Kieswetter
+ball,2,5.2,Warriors,CA Ingram,JT Smuts,AD Russell,0,0,,,,,,"",""
+ball,2,5.3,Warriors,CA Ingram,JT Smuts,AD Russell,0,0,,,,,,"",""
+ball,2,5.4,Warriors,CA Ingram,JT Smuts,AD Russell,1,0,,,,,,"",""
+ball,2,5.5,Warriors,JT Smuts,CA Ingram,AD Russell,0,0,,,,,,"",""
+ball,2,5.6,Warriors,JT Smuts,CA Ingram,AD Russell,1,0,,,,,,"",""
+ball,2,6.1,Warriors,JT Smuts,CA Ingram,WL Coetsee,2,0,,,,,,"",""
+ball,2,6.2,Warriors,JT Smuts,CA Ingram,WL Coetsee,0,0,,,,,,"",""
+ball,2,6.3,Warriors,JT Smuts,CA Ingram,WL Coetsee,1,0,,,,,,"",""
+ball,2,6.4,Warriors,CA Ingram,JT Smuts,WL Coetsee,1,0,,,,,,"",""
+ball,2,6.5,Warriors,JT Smuts,CA Ingram,WL Coetsee,0,0,,,,,,"",""
+ball,2,6.6,Warriors,JT Smuts,CA Ingram,WL Coetsee,0,1,1,,,,,"",""
+ball,2,6.7,Warriors,JT Smuts,CA Ingram,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.1,Warriors,JT Smuts,CA Ingram,AJ Pienaar,1,0,,,,,,"",""
+ball,2,7.2,Warriors,CA Ingram,JT Smuts,AJ Pienaar,0,0,,,,,,"",""
+ball,2,7.3,Warriors,CA Ingram,JT Smuts,AJ Pienaar,4,0,,,,,,"",""
+ball,2,7.4,Warriors,CA Ingram,JT Smuts,AJ Pienaar,1,0,,,,,,"",""
+ball,2,7.5,Warriors,JT Smuts,CA Ingram,AJ Pienaar,1,0,,,,,,"",""
+ball,2,7.6,Warriors,CA Ingram,JT Smuts,AJ Pienaar,4,0,,,,,,"",""
+ball,2,8.1,Warriors,JT Smuts,CA Ingram,WL Coetsee,1,0,,,,,,"",""
+ball,2,8.2,Warriors,CA Ingram,JT Smuts,WL Coetsee,1,0,,,,,,"",""
+ball,2,8.3,Warriors,JT Smuts,CA Ingram,WL Coetsee,0,0,,,,,,"",""
+ball,2,8.4,Warriors,JT Smuts,CA Ingram,WL Coetsee,1,0,,,,,,"",""
+ball,2,8.5,Warriors,CA Ingram,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,8.6,Warriors,CA Ingram,JT Smuts,WL Coetsee,1,0,,,,,,"",""
+ball,2,9.1,Warriors,CA Ingram,JT Smuts,MP Siboto,4,0,,,,,,"",""
+ball,2,9.2,Warriors,CA Ingram,JT Smuts,MP Siboto,1,0,,,,,,"",""
+ball,2,9.3,Warriors,JT Smuts,CA Ingram,MP Siboto,1,0,,,,,,"",""
+ball,2,9.4,Warriors,CA Ingram,JT Smuts,MP Siboto,0,0,,,,,,"",""
+ball,2,9.5,Warriors,CA Ingram,JT Smuts,MP Siboto,1,0,,,,,,"",""
+ball,2,9.6,Warriors,JT Smuts,CA Ingram,MP Siboto,1,0,,,,,,"",""
+ball,2,10.1,Warriors,JT Smuts,CA Ingram,WL Coetsee,0,0,,,,,,"",""
+ball,2,10.2,Warriors,JT Smuts,CA Ingram,WL Coetsee,1,0,,,,,,"",""
+ball,2,10.3,Warriors,CA Ingram,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,10.4,Warriors,CA Ingram,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,10.5,Warriors,CA Ingram,JT Smuts,WL Coetsee,1,0,,,,,,"",""
+ball,2,10.6,Warriors,JT Smuts,CA Ingram,WL Coetsee,0,0,,,,,,"",""
+ball,2,11.1,Warriors,CA Ingram,JT Smuts,Q Friend,1,0,,,,,,"",""
+ball,2,11.2,Warriors,JT Smuts,CA Ingram,Q Friend,1,0,,,,,,"",""
+ball,2,11.3,Warriors,CA Ingram,JT Smuts,Q Friend,0,0,,,,,,"",""
+ball,2,11.4,Warriors,CA Ingram,JT Smuts,Q Friend,4,0,,,,,,"",""
+ball,2,11.5,Warriors,CA Ingram,JT Smuts,Q Friend,0,0,,,,,,"",""
+ball,2,11.6,Warriors,CA Ingram,JT Smuts,Q Friend,1,0,,,,,,"",""
+ball,2,12.1,Warriors,CA Ingram,JT Smuts,WL Coetsee,6,0,,,,,,"",""
+ball,2,12.2,Warriors,CA Ingram,JT Smuts,WL Coetsee,2,0,,,,,,"",""
+ball,2,12.3,Warriors,CA Ingram,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,12.4,Warriors,CA Ingram,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,12.5,Warriors,CA Ingram,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,12.6,Warriors,CA Ingram,JT Smuts,WL Coetsee,0,0,,,,,,"",""
+ball,2,13.1,Warriors,JT Smuts,CA Ingram,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,13.2,Warriors,CA Ingram,JT Smuts,SC van Schalkwyk,2,0,,,,,,"",""
+ball,2,13.3,Warriors,CA Ingram,JT Smuts,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,13.4,Warriors,JT Smuts,CA Ingram,SC van Schalkwyk,4,0,,,,,,"",""
+ball,2,13.5,Warriors,JT Smuts,CA Ingram,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,13.6,Warriors,CA Ingram,JT Smuts,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,14.1,Warriors,CA Ingram,JT Smuts,MP Siboto,1,0,,,,,,"",""
+ball,2,14.2,Warriors,JT Smuts,CA Ingram,MP Siboto,2,0,,,,,,"",""
+ball,2,14.3,Warriors,JT Smuts,CA Ingram,MP Siboto,1,0,,,,,,"",""
+ball,2,14.4,Warriors,CA Ingram,JT Smuts,MP Siboto,0,0,,,,,,"",""
+ball,2,14.5,Warriors,CA Ingram,JT Smuts,MP Siboto,1,0,,,,,,"",""
+ball,2,14.6,Warriors,JT Smuts,CA Ingram,MP Siboto,0,0,,,,,,"",""
+ball,2,15.1,Warriors,CA Ingram,JT Smuts,Q Friend,0,0,,,,,,caught,CA Ingram
+ball,2,15.2,Warriors,C Jonker,JT Smuts,Q Friend,0,0,,,,,,"",""
+ball,2,15.3,Warriors,C Jonker,JT Smuts,Q Friend,0,0,,,,,,"",""
+ball,2,15.4,Warriors,C Jonker,JT Smuts,Q Friend,0,1,,,,1,,"",""
+ball,2,15.5,Warriors,JT Smuts,C Jonker,Q Friend,4,0,,,,,,"",""
+ball,2,15.6,Warriors,JT Smuts,C Jonker,Q Friend,1,0,,,,,,"",""
+ball,2,16.1,Warriors,JT Smuts,C Jonker,MP Siboto,2,0,,,,,,"",""
+ball,2,16.2,Warriors,JT Smuts,C Jonker,MP Siboto,1,0,,,,,,"",""
+ball,2,16.3,Warriors,C Jonker,JT Smuts,MP Siboto,1,0,,,,,,"",""
+ball,2,16.4,Warriors,JT Smuts,C Jonker,MP Siboto,1,0,,,,,,"",""
+ball,2,16.5,Warriors,C Jonker,JT Smuts,MP Siboto,0,0,,,,,,"",""
+ball,2,16.6,Warriors,C Jonker,JT Smuts,MP Siboto,6,0,,,,,,"",""
+ball,2,17.1,Warriors,JT Smuts,C Jonker,AD Russell,1,0,,,,,,"",""
+ball,2,17.2,Warriors,C Jonker,JT Smuts,AD Russell,1,0,,,,,,"",""
+ball,2,17.3,Warriors,JT Smuts,C Jonker,AD Russell,1,0,,,,,,"",""
+ball,2,17.4,Warriors,C Jonker,JT Smuts,AD Russell,0,0,,,,,,"",""
+ball,2,17.5,Warriors,C Jonker,JT Smuts,AD Russell,0,0,,,,,,"",""
+ball,2,17.6,Warriors,C Jonker,JT Smuts,AD Russell,1,0,,,,,,"",""
+ball,2,18.1,Warriors,C Jonker,JT Smuts,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,18.2,Warriors,JT Smuts,C Jonker,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,18.3,Warriors,C Jonker,JT Smuts,SC van Schalkwyk,4,0,,,,,,"",""
+ball,2,18.4,Warriors,C Jonker,JT Smuts,SC van Schalkwyk,6,0,,,,,,"",""
+ball,2,18.5,Warriors,C Jonker,JT Smuts,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,18.6,Warriors,JT Smuts,C Jonker,SC van Schalkwyk,1,0,,,,,,"",""
+ball,2,19.1,Warriors,JT Smuts,C Jonker,AD Russell,1,0,,,,,,"",""
+ball,2,19.2,Warriors,C Jonker,JT Smuts,AD Russell,1,0,,,,,,"",""
+ball,2,19.3,Warriors,JT Smuts,C Jonker,AD Russell,6,0,,,,,,"",""

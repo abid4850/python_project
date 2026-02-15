@@ -1,0 +1,275 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Essex
+info,gender,female
+info,season,2025
+info,date,2025/09/04
+info,event,ECB Women's One-Day Cup
+info,match_number,41
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,WRP Fernando
+info,umpire,Surendiran Shanmugam
+info,match_referee,SJ Davis
+info,winner,Hampshire
+info,winner_runs,4
+info,player,Hampshire,ME Bouchier
+info,player,Hampshire,R Southby
+info,player,Hampshire,FG Kemp
+info,player,Hampshire,GL Adams
+info,player,Hampshire,A Norgrove
+info,player,Hampshire,N Harman
+info,player,Hampshire,ND Dattani
+info,player,Hampshire,MLL Taylor
+info,player,Hampshire,FR Davies
+info,player,Hampshire,DJ Gibb
+info,player,Hampshire,R Tyson
+info,player,Essex,G Scrivens
+info,player,Essex,J Gardner
+info,player,Essex,J Grewcock
+info,player,Essex,E Gray
+info,player,Essex,F Miller
+info,player,Essex,Sophia Smale
+info,player,Essex,S Munro
+info,player,Essex,A Dowse
+info,player,Essex,AD Carr
+info,player,Essex,EI MacGregor
+info,player,Essex,AH Maqsood
+info,registry,people,A Dowse,6506e13d
+info,registry,people,A Norgrove,c9439c2e
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,DJ Gibb,977ddcd2
+info,registry,people,E Gray,58717de2
+info,registry,people,EI MacGregor,c812dfa3
+info,registry,people,F Miller,9d9edf14
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,FR Davies,2479daa6
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,J Gardner,184512d1
+info,registry,people,J Grewcock,92b94582
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MLL Taylor,014cfac4
+info,registry,people,N Harman,ffdfa9ad
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,R Southby,bbe1525d
+info,registry,people,R Tyson,5c9d5093
+info,registry,people,S Munro,b4e026de
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,Sophia Smale,c296dba1
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,WRP Fernando,7d98d385
+ball,1,0.1,Hampshire,ME Bouchier,R Southby,E Gray,0,0,,,,,,"",""
+ball,1,0.2,Hampshire,ME Bouchier,R Southby,E Gray,2,0,,,,,,"",""
+ball,1,0.3,Hampshire,ME Bouchier,R Southby,E Gray,0,1,,,,1,,"",""
+ball,1,0.4,Hampshire,R Southby,ME Bouchier,E Gray,1,0,,,,,,"",""
+ball,1,0.5,Hampshire,ME Bouchier,R Southby,E Gray,4,0,,,,,,"",""
+ball,1,0.6,Hampshire,ME Bouchier,R Southby,E Gray,0,0,,,,,,"",""
+ball,1,1.1,Hampshire,R Southby,ME Bouchier,EI MacGregor,0,0,,,,,,"",""
+ball,1,1.2,Hampshire,R Southby,ME Bouchier,EI MacGregor,0,0,,,,,,"",""
+ball,1,1.3,Hampshire,R Southby,ME Bouchier,EI MacGregor,1,0,,,,,,"",""
+ball,1,1.4,Hampshire,ME Bouchier,R Southby,EI MacGregor,1,0,,,,,,"",""
+ball,1,1.5,Hampshire,R Southby,ME Bouchier,EI MacGregor,0,0,,,,,,bowled,R Southby
+ball,1,1.6,Hampshire,FG Kemp,ME Bouchier,EI MacGregor,1,0,,,,,,"",""
+ball,1,2.1,Hampshire,FG Kemp,ME Bouchier,E Gray,1,0,,,,,,"",""
+ball,1,2.2,Hampshire,ME Bouchier,FG Kemp,E Gray,1,0,,,,,,"",""
+ball,1,2.3,Hampshire,FG Kemp,ME Bouchier,E Gray,2,0,,,,,,"",""
+ball,1,2.4,Hampshire,FG Kemp,ME Bouchier,E Gray,1,0,,,,,,"",""
+ball,1,2.5,Hampshire,ME Bouchier,FG Kemp,E Gray,0,0,,,,,,"",""
+ball,1,2.6,Hampshire,ME Bouchier,FG Kemp,E Gray,0,0,,,,,,"",""
+ball,1,3.1,Hampshire,FG Kemp,ME Bouchier,EI MacGregor,1,0,,,,,,"",""
+ball,1,3.2,Hampshire,ME Bouchier,FG Kemp,EI MacGregor,0,0,,,,,,"",""
+ball,1,3.3,Hampshire,ME Bouchier,FG Kemp,EI MacGregor,6,0,,,,,,"",""
+ball,1,3.4,Hampshire,ME Bouchier,FG Kemp,EI MacGregor,0,0,,,,,,"",""
+ball,1,3.5,Hampshire,ME Bouchier,FG Kemp,EI MacGregor,1,0,,,,,,"",""
+ball,1,3.6,Hampshire,FG Kemp,ME Bouchier,EI MacGregor,0,0,,,,,,"",""
+ball,1,4.1,Hampshire,ME Bouchier,FG Kemp,S Munro,2,0,,,,,,"",""
+ball,1,4.2,Hampshire,ME Bouchier,FG Kemp,S Munro,1,0,,,,,,"",""
+ball,1,4.3,Hampshire,FG Kemp,ME Bouchier,S Munro,1,0,,,,,,"",""
+ball,1,4.4,Hampshire,ME Bouchier,FG Kemp,S Munro,0,0,,,,,,"",""
+ball,1,4.5,Hampshire,ME Bouchier,FG Kemp,S Munro,2,0,,,,,,"",""
+ball,1,4.6,Hampshire,ME Bouchier,FG Kemp,S Munro,0,0,,,,,,"",""
+ball,1,5.1,Hampshire,FG Kemp,ME Bouchier,AH Maqsood,3,0,,,,,,"",""
+ball,1,5.2,Hampshire,ME Bouchier,FG Kemp,AH Maqsood,2,0,,,,,,"",""
+ball,1,5.3,Hampshire,ME Bouchier,FG Kemp,AH Maqsood,0,1,,1,,,,"",""
+ball,1,5.4,Hampshire,ME Bouchier,FG Kemp,AH Maqsood,2,0,,,,,,"",""
+ball,1,5.5,Hampshire,ME Bouchier,FG Kemp,AH Maqsood,0,0,,,,,,"",""
+ball,1,5.6,Hampshire,ME Bouchier,FG Kemp,AH Maqsood,1,0,,,,,,"",""
+ball,1,5.7,Hampshire,FG Kemp,ME Bouchier,AH Maqsood,1,0,,,,,,"",""
+ball,1,6.1,Hampshire,FG Kemp,ME Bouchier,Sophia Smale,1,0,,,,,,"",""
+ball,1,6.2,Hampshire,ME Bouchier,FG Kemp,Sophia Smale,2,0,,,,,,"",""
+ball,1,6.3,Hampshire,ME Bouchier,FG Kemp,Sophia Smale,0,0,,,,,,"",""
+ball,1,6.4,Hampshire,ME Bouchier,FG Kemp,Sophia Smale,1,0,,,,,,"",""
+ball,1,6.5,Hampshire,FG Kemp,ME Bouchier,Sophia Smale,1,0,,,,,,"",""
+ball,1,6.6,Hampshire,ME Bouchier,FG Kemp,Sophia Smale,2,0,,,,,,"",""
+ball,1,7.1,Hampshire,FG Kemp,ME Bouchier,S Munro,4,0,,,,,,"",""
+ball,1,7.2,Hampshire,FG Kemp,ME Bouchier,S Munro,0,0,,,,,,"",""
+ball,1,7.3,Hampshire,FG Kemp,ME Bouchier,S Munro,4,0,,,,,,"",""
+ball,1,7.4,Hampshire,FG Kemp,ME Bouchier,S Munro,2,0,,,,,,"",""
+ball,1,7.5,Hampshire,FG Kemp,ME Bouchier,S Munro,1,0,,,,,,"",""
+ball,1,7.6,Hampshire,ME Bouchier,FG Kemp,S Munro,1,0,,,,,,"",""
+ball,1,8.1,Hampshire,ME Bouchier,FG Kemp,EI MacGregor,0,0,,,,,,"",""
+ball,1,8.2,Hampshire,ME Bouchier,FG Kemp,EI MacGregor,0,0,,,,,,caught,ME Bouchier
+ball,1,8.3,Hampshire,GL Adams,FG Kemp,EI MacGregor,0,0,,,,,,"",""
+ball,1,8.4,Hampshire,GL Adams,FG Kemp,EI MacGregor,0,0,,,,,,"",""
+ball,1,8.5,Hampshire,GL Adams,FG Kemp,EI MacGregor,0,0,,,,,,"",""
+ball,1,8.6,Hampshire,GL Adams,FG Kemp,EI MacGregor,0,0,,,,,,"",""
+ball,1,9.1,Hampshire,FG Kemp,GL Adams,G Scrivens,2,0,,,,,,"",""
+ball,1,9.2,Hampshire,FG Kemp,GL Adams,G Scrivens,4,0,,,,,,"",""
+ball,1,9.3,Hampshire,FG Kemp,GL Adams,G Scrivens,1,0,,,,,,"",""
+ball,1,9.4,Hampshire,GL Adams,FG Kemp,G Scrivens,1,0,,,,,,"",""
+ball,1,9.5,Hampshire,FG Kemp,GL Adams,G Scrivens,0,0,,,,,,bowled,FG Kemp
+ball,1,9.6,Hampshire,A Norgrove,GL Adams,G Scrivens,1,0,,,,,,"",""
+ball,1,10.1,Hampshire,A Norgrove,GL Adams,AH Maqsood,1,0,,,,,,"",""
+ball,1,10.2,Hampshire,GL Adams,A Norgrove,AH Maqsood,0,0,,,,,,"",""
+ball,1,10.3,Hampshire,GL Adams,A Norgrove,AH Maqsood,1,0,,,,,,"",""
+ball,1,10.4,Hampshire,A Norgrove,GL Adams,AH Maqsood,1,0,,,,,,"",""
+ball,1,10.5,Hampshire,GL Adams,A Norgrove,AH Maqsood,1,0,,,,,,"",""
+ball,1,10.6,Hampshire,A Norgrove,GL Adams,AH Maqsood,0,0,,,,,,caught,A Norgrove
+ball,1,11.1,Hampshire,GL Adams,N Harman,Sophia Smale,0,0,,,,,,"",""
+ball,1,11.2,Hampshire,GL Adams,N Harman,Sophia Smale,2,0,,,,,,"",""
+ball,1,11.3,Hampshire,GL Adams,N Harman,Sophia Smale,1,0,,,,,,"",""
+ball,1,11.4,Hampshire,N Harman,GL Adams,Sophia Smale,1,0,,,,,,"",""
+ball,1,11.5,Hampshire,GL Adams,N Harman,Sophia Smale,1,0,,,,,,"",""
+ball,1,11.6,Hampshire,N Harman,GL Adams,Sophia Smale,0,0,,,,,,"",""
+ball,1,12.1,Hampshire,GL Adams,N Harman,AH Maqsood,0,0,,,,,,"",""
+ball,1,12.2,Hampshire,GL Adams,N Harman,AH Maqsood,1,0,,,,,,"",""
+ball,1,12.3,Hampshire,N Harman,GL Adams,AH Maqsood,4,0,,,,,,"",""
+ball,1,12.4,Hampshire,N Harman,GL Adams,AH Maqsood,1,0,,,,,,"",""
+ball,1,12.5,Hampshire,GL Adams,N Harman,AH Maqsood,1,0,,,,,,"",""
+ball,1,12.6,Hampshire,N Harman,GL Adams,AH Maqsood,1,0,,,,,,run out,N Harman
+ball,1,13.1,Hampshire,ND Dattani,GL Adams,G Scrivens,1,0,,,,,,"",""
+ball,1,13.2,Hampshire,GL Adams,ND Dattani,G Scrivens,0,0,,,,,,"",""
+ball,1,13.3,Hampshire,GL Adams,ND Dattani,G Scrivens,1,0,,,,,,"",""
+ball,1,13.4,Hampshire,ND Dattani,GL Adams,G Scrivens,0,0,,,,,,"",""
+ball,1,13.5,Hampshire,ND Dattani,GL Adams,G Scrivens,1,0,,,,,,"",""
+ball,1,13.6,Hampshire,GL Adams,ND Dattani,G Scrivens,0,0,,,,,,"",""
+ball,1,14.1,Hampshire,ND Dattani,GL Adams,E Gray,0,0,,,,,,caught,ND Dattani
+ball,1,14.2,Hampshire,MLL Taylor,GL Adams,E Gray,0,0,,,,,,"",""
+ball,1,14.3,Hampshire,MLL Taylor,GL Adams,E Gray,0,0,,,,,,"",""
+ball,1,14.4,Hampshire,MLL Taylor,GL Adams,E Gray,0,0,,,,,,"",""
+ball,1,14.5,Hampshire,MLL Taylor,GL Adams,E Gray,0,0,,,,,,"",""
+ball,1,14.6,Hampshire,MLL Taylor,GL Adams,E Gray,0,0,,,,,,"",""
+ball,1,15.1,Hampshire,GL Adams,MLL Taylor,EI MacGregor,1,0,,,,,,"",""
+ball,1,15.2,Hampshire,MLL Taylor,GL Adams,EI MacGregor,0,0,,,,,,"",""
+ball,1,15.3,Hampshire,MLL Taylor,GL Adams,EI MacGregor,1,0,,,,,,"",""
+ball,1,15.4,Hampshire,GL Adams,MLL Taylor,EI MacGregor,0,0,,,,,,"",""
+ball,1,15.5,Hampshire,GL Adams,MLL Taylor,EI MacGregor,0,1,1,,,,,"",""
+ball,1,15.6,Hampshire,GL Adams,MLL Taylor,EI MacGregor,0,1,,,,1,,"",""
+ball,1,15.7,Hampshire,MLL Taylor,GL Adams,EI MacGregor,3,0,,,,,,"",""
+ball,1,16.1,Hampshire,MLL Taylor,GL Adams,E Gray,1,0,,,,,,"",""
+ball,1,16.2,Hampshire,GL Adams,MLL Taylor,E Gray,0,0,,,,,,run out,MLL Taylor
+ball,1,16.3,Hampshire,FR Davies,GL Adams,E Gray,1,0,,,,,,"",""
+ball,1,16.4,Hampshire,GL Adams,FR Davies,E Gray,1,0,,,,,,"",""
+ball,1,16.5,Hampshire,FR Davies,GL Adams,E Gray,1,0,,,,,,"",""
+ball,1,16.6,Hampshire,GL Adams,FR Davies,E Gray,2,0,,,,,,"",""
+ball,2,0.1,Essex,G Scrivens,J Gardner,DJ Gibb,0,0,,,,,,"",""
+ball,2,0.2,Essex,G Scrivens,J Gardner,DJ Gibb,0,0,,,,,,"",""
+ball,2,0.3,Essex,G Scrivens,J Gardner,DJ Gibb,0,0,,,,,,"",""
+ball,2,0.4,Essex,G Scrivens,J Gardner,DJ Gibb,0,0,,,,,,"",""
+ball,2,0.5,Essex,G Scrivens,J Gardner,DJ Gibb,0,1,1,,,,,"",""
+ball,2,0.6,Essex,G Scrivens,J Gardner,DJ Gibb,0,0,,,,,,"",""
+ball,2,0.7,Essex,G Scrivens,J Gardner,DJ Gibb,1,0,,,,,,"",""
+ball,2,1.1,Essex,G Scrivens,J Gardner,FR Davies,0,0,,,,,,"",""
+ball,2,1.2,Essex,G Scrivens,J Gardner,FR Davies,0,0,,,,,,"",""
+ball,2,1.3,Essex,G Scrivens,J Gardner,FR Davies,1,0,,,,,,"",""
+ball,2,1.4,Essex,J Gardner,G Scrivens,FR Davies,0,0,,,,,,"",""
+ball,2,1.5,Essex,J Gardner,G Scrivens,FR Davies,1,0,,,,,,"",""
+ball,2,1.6,Essex,G Scrivens,J Gardner,FR Davies,0,0,,,,,,"",""
+ball,2,2.1,Essex,J Gardner,G Scrivens,DJ Gibb,0,1,1,,,,,"",""
+ball,2,2.2,Essex,J Gardner,G Scrivens,DJ Gibb,4,0,,,,,,"",""
+ball,2,2.3,Essex,J Gardner,G Scrivens,DJ Gibb,1,0,,,,,,"",""
+ball,2,2.4,Essex,G Scrivens,J Gardner,DJ Gibb,0,0,,,,,,"",""
+ball,2,2.5,Essex,G Scrivens,J Gardner,DJ Gibb,0,0,,,,,,caught,G Scrivens
+ball,2,2.6,Essex,J Grewcock,J Gardner,DJ Gibb,0,0,,,,,,"",""
+ball,2,2.7,Essex,J Grewcock,J Gardner,DJ Gibb,0,0,,,,,,"",""
+ball,2,3.1,Essex,J Gardner,J Grewcock,FR Davies,1,0,,,,,,"",""
+ball,2,3.2,Essex,J Grewcock,J Gardner,FR Davies,0,0,,,,,,"",""
+ball,2,3.3,Essex,J Grewcock,J Gardner,FR Davies,0,0,,,,,,"",""
+ball,2,3.4,Essex,J Grewcock,J Gardner,FR Davies,2,0,,,,,,"",""
+ball,2,3.5,Essex,J Grewcock,J Gardner,FR Davies,0,0,,,,,,"",""
+ball,2,3.6,Essex,J Grewcock,J Gardner,FR Davies,0,0,,,,,,"",""
+ball,2,4.1,Essex,J Gardner,J Grewcock,R Tyson,0,0,,,,,,"",""
+ball,2,4.2,Essex,J Gardner,J Grewcock,R Tyson,1,0,,,,,,"",""
+ball,2,4.3,Essex,J Grewcock,J Gardner,R Tyson,2,0,,,,,,"",""
+ball,2,4.4,Essex,J Grewcock,J Gardner,R Tyson,0,0,,,,,,"",""
+ball,2,4.5,Essex,J Grewcock,J Gardner,R Tyson,1,0,,,,,,"",""
+ball,2,4.6,Essex,J Gardner,J Grewcock,R Tyson,0,0,,,,,,"",""
+ball,2,5.1,Essex,J Grewcock,J Gardner,MLL Taylor,1,0,,,,,,"",""
+ball,2,5.2,Essex,J Gardner,J Grewcock,MLL Taylor,1,0,,,,,,"",""
+ball,2,5.3,Essex,J Grewcock,J Gardner,MLL Taylor,2,0,,,,,,"",""
+ball,2,5.4,Essex,J Grewcock,J Gardner,MLL Taylor,1,0,,,,,,"",""
+ball,2,5.5,Essex,J Gardner,J Grewcock,MLL Taylor,1,0,,,,,,"",""
+ball,2,5.6,Essex,J Grewcock,J Gardner,MLL Taylor,0,0,,,,,,"",""
+ball,2,6.1,Essex,J Gardner,J Grewcock,GL Adams,1,0,,,,,,"",""
+ball,2,6.2,Essex,J Grewcock,J Gardner,GL Adams,1,0,,,,,,"",""
+ball,2,6.3,Essex,J Gardner,J Grewcock,GL Adams,1,0,,,,,,"",""
+ball,2,6.4,Essex,J Grewcock,J Gardner,GL Adams,1,0,,,,,,"",""
+ball,2,6.5,Essex,J Gardner,J Grewcock,GL Adams,0,0,,,,,,caught,J Gardner
+ball,2,6.6,Essex,E Gray,J Grewcock,GL Adams,0,4,4,,,,,"",""
+ball,2,6.7,Essex,J Grewcock,E Gray,GL Adams,0,0,,,,,,"",""
+ball,2,7.1,Essex,E Gray,J Grewcock,R Tyson,0,0,,,,,,"",""
+ball,2,7.2,Essex,E Gray,J Grewcock,R Tyson,0,0,,,,,,"",""
+ball,2,7.3,Essex,E Gray,J Grewcock,R Tyson,2,0,,,,,,"",""
+ball,2,7.4,Essex,E Gray,J Grewcock,R Tyson,0,2,2,,,,,"",""
+ball,2,7.5,Essex,J Grewcock,E Gray,R Tyson,1,0,,,,,,"",""
+ball,2,7.6,Essex,E Gray,J Grewcock,R Tyson,1,0,,,,,,"",""
+ball,2,7.7,Essex,J Grewcock,E Gray,R Tyson,0,0,,,,,,caught,J Grewcock
+ball,2,8.1,Essex,E Gray,F Miller,GL Adams,0,0,,,,,,"",""
+ball,2,8.2,Essex,E Gray,F Miller,GL Adams,1,0,,,,,,"",""
+ball,2,8.3,Essex,F Miller,E Gray,GL Adams,0,0,,,,,,"",""
+ball,2,8.4,Essex,F Miller,E Gray,GL Adams,1,0,,,,,,"",""
+ball,2,8.5,Essex,E Gray,F Miller,GL Adams,1,0,,,,,,"",""
+ball,2,8.6,Essex,F Miller,E Gray,GL Adams,1,0,,,,,,"",""
+ball,2,9.1,Essex,F Miller,E Gray,R Tyson,0,0,,,,,,"",""
+ball,2,9.2,Essex,F Miller,E Gray,R Tyson,1,0,,,,,,"",""
+ball,2,9.3,Essex,E Gray,F Miller,R Tyson,0,0,,,,,,"",""
+ball,2,9.4,Essex,E Gray,F Miller,R Tyson,0,0,,,,,,caught,E Gray
+ball,2,9.5,Essex,Sophia Smale,F Miller,R Tyson,1,0,,,,,,"",""
+ball,2,9.6,Essex,F Miller,Sophia Smale,R Tyson,1,0,,,,,,"",""
+ball,2,10.1,Essex,F Miller,Sophia Smale,GL Adams,1,0,,,,,,"",""
+ball,2,10.2,Essex,Sophia Smale,F Miller,GL Adams,0,0,,,,,,"",""
+ball,2,10.3,Essex,Sophia Smale,F Miller,GL Adams,2,0,,,,,,"",""
+ball,2,10.4,Essex,Sophia Smale,F Miller,GL Adams,1,0,,,,,,"",""
+ball,2,10.5,Essex,F Miller,Sophia Smale,GL Adams,2,0,,,,,,"",""
+ball,2,10.6,Essex,F Miller,Sophia Smale,GL Adams,1,0,,,,,,"",""
+ball,2,11.1,Essex,F Miller,Sophia Smale,FR Davies,1,0,,,,,,"",""
+ball,2,11.2,Essex,Sophia Smale,F Miller,FR Davies,0,0,,,,,,caught,Sophia Smale
+ball,2,11.3,Essex,S Munro,F Miller,FR Davies,0,0,,,,,,"",""
+ball,2,11.4,Essex,S Munro,F Miller,FR Davies,1,0,,,,,,"",""
+ball,2,11.5,Essex,F Miller,S Munro,FR Davies,1,0,,,,,,"",""
+ball,2,11.6,Essex,S Munro,F Miller,FR Davies,2,0,,,,,,"",""
+ball,2,12.1,Essex,F Miller,S Munro,R Tyson,0,0,,,,,,"",""
+ball,2,12.2,Essex,F Miller,S Munro,R Tyson,0,0,,,,,,"",""
+ball,2,12.3,Essex,F Miller,S Munro,R Tyson,4,0,,,,,,"",""
+ball,2,12.4,Essex,F Miller,S Munro,R Tyson,1,0,,,,,,"",""
+ball,2,12.5,Essex,S Munro,F Miller,R Tyson,1,0,,,,,,"",""
+ball,2,12.6,Essex,F Miller,S Munro,R Tyson,1,0,,,,,,"",""
+ball,2,13.1,Essex,F Miller,S Munro,MLL Taylor,1,0,,,,,,"",""
+ball,2,13.2,Essex,S Munro,F Miller,MLL Taylor,4,0,,,,,,"",""
+ball,2,13.3,Essex,S Munro,F Miller,MLL Taylor,0,0,,,,,,"",""
+ball,2,13.4,Essex,S Munro,F Miller,MLL Taylor,2,0,,,,,,"",""
+ball,2,13.5,Essex,S Munro,F Miller,MLL Taylor,4,0,,,,,,"",""
+ball,2,13.6,Essex,S Munro,F Miller,MLL Taylor,1,0,,,,,,"",""
+ball,2,14.1,Essex,S Munro,F Miller,ND Dattani,0,0,,,,,,"",""
+ball,2,14.2,Essex,S Munro,F Miller,ND Dattani,4,0,,,,,,"",""
+ball,2,14.3,Essex,S Munro,F Miller,ND Dattani,0,0,,,,,,"",""
+ball,2,14.4,Essex,S Munro,F Miller,ND Dattani,1,0,,,,,,"",""
+ball,2,14.5,Essex,F Miller,S Munro,ND Dattani,2,0,,,,,,"",""
+ball,2,14.6,Essex,F Miller,S Munro,ND Dattani,1,0,,,,,,"",""
+ball,2,15.1,Essex,F Miller,S Munro,FR Davies,0,0,,,,,,lbw,F Miller
+ball,2,15.2,Essex,AD Carr,S Munro,FR Davies,1,0,,,,,,"",""
+ball,2,15.3,Essex,S Munro,AD Carr,FR Davies,0,0,,,,,,"",""
+ball,2,15.4,Essex,S Munro,AD Carr,FR Davies,2,0,,,,,,"",""
+ball,2,15.5,Essex,S Munro,AD Carr,FR Davies,1,0,,,,,,"",""
+ball,2,15.6,Essex,AD Carr,S Munro,FR Davies,1,0,,,,,,"",""
+ball,2,16.1,Essex,AD Carr,S Munro,MLL Taylor,1,0,,,,,,"",""
+ball,2,16.2,Essex,S Munro,AD Carr,MLL Taylor,2,0,,,,,,"",""
+ball,2,16.3,Essex,S Munro,AD Carr,MLL Taylor,1,0,,,,,,"",""
+ball,2,16.4,Essex,AD Carr,S Munro,MLL Taylor,2,0,,,,,,"",""
+ball,2,16.5,Essex,AD Carr,S Munro,MLL Taylor,1,0,,,,,,"",""
+ball,2,16.6,Essex,S Munro,AD Carr,MLL Taylor,2,0,,,,,,"",""

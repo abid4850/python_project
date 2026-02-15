@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Northamptonshire
+info,gender,male
+info,season,2022
+info,date,2022/06/05
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,NA Mallender
+info,umpire,Tom Lungley
+info,match_referee,AJ Swann
+info,winner,Northamptonshire
+info,winner_wickets,4
+info,player,Durham,MA Jones
+info,player,Durham,G Clark
+info,player,Durham,OG Robinson
+info,player,Durham,DG Bedingham
+info,player,Durham,P Coughlin
+info,player,Durham,BA Raine
+info,player,Durham,BA Carse
+info,player,Durham,EJH Eckersley
+info,player,Durham,SG Borthwick
+info,player,Durham,L Trevaskis
+info,player,Durham,AJ Tye
+info,player,Northamptonshire,CA Lynn
+info,player,Northamptonshire,BJ Curran
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,JDS Neesham
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,GG White
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,FJ Heldreich
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BJ Curran,1786a21b
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,EJH Eckersley,d510d457
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GG White,0f21680d
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MA Jones,05f96194
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,P Coughlin,71440756
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,Tom Lungley,75169b8c
+ball,1,0.1,Durham,MA Jones,G Clark,JJ Cobb,0,0,,,,,,"",""
+ball,1,0.2,Durham,MA Jones,G Clark,JJ Cobb,4,0,,,,,,"",""
+ball,1,0.3,Durham,MA Jones,G Clark,JJ Cobb,0,0,,,,,,bowled,MA Jones
+ball,1,0.4,Durham,OG Robinson,G Clark,JJ Cobb,1,0,,,,,,"",""
+ball,1,0.5,Durham,G Clark,OG Robinson,JJ Cobb,1,0,,,,,,"",""
+ball,1,0.6,Durham,OG Robinson,G Clark,JJ Cobb,0,0,,,,,,"",""
+ball,1,1.1,Durham,G Clark,OG Robinson,BW Sanderson,2,0,,,,,,"",""
+ball,1,1.2,Durham,G Clark,OG Robinson,BW Sanderson,4,0,,,,,,"",""
+ball,1,1.3,Durham,G Clark,OG Robinson,BW Sanderson,1,0,,,,,,"",""
+ball,1,1.4,Durham,OG Robinson,G Clark,BW Sanderson,2,0,,,,,,"",""
+ball,1,1.5,Durham,OG Robinson,G Clark,BW Sanderson,1,0,,,,,,"",""
+ball,1,1.6,Durham,G Clark,OG Robinson,BW Sanderson,0,0,,,,,,"",""
+ball,1,2.1,Durham,OG Robinson,G Clark,TAI Taylor,0,0,,,,,,"",""
+ball,1,2.2,Durham,OG Robinson,G Clark,TAI Taylor,1,0,,,,,,"",""
+ball,1,2.3,Durham,G Clark,OG Robinson,TAI Taylor,2,0,,,,,,"",""
+ball,1,2.4,Durham,G Clark,OG Robinson,TAI Taylor,0,0,,,,,,"",""
+ball,1,2.5,Durham,G Clark,OG Robinson,TAI Taylor,0,0,,,,,,"",""
+ball,1,2.6,Durham,G Clark,OG Robinson,TAI Taylor,4,0,,,,,,"",""
+ball,1,3.1,Durham,OG Robinson,G Clark,JDS Neesham,0,0,,,,,,caught,OG Robinson
+ball,1,3.2,Durham,DG Bedingham,G Clark,JDS Neesham,0,0,,,,,,"",""
+ball,1,3.3,Durham,DG Bedingham,G Clark,JDS Neesham,1,0,,,,,,"",""
+ball,1,3.4,Durham,G Clark,DG Bedingham,JDS Neesham,1,0,,,,,,"",""
+ball,1,3.5,Durham,DG Bedingham,G Clark,JDS Neesham,1,0,,,,,,"",""
+ball,1,3.6,Durham,G Clark,DG Bedingham,JDS Neesham,1,0,,,,,,"",""
+ball,1,4.1,Durham,G Clark,DG Bedingham,BW Sanderson,1,0,,,,,,"",""
+ball,1,4.2,Durham,DG Bedingham,G Clark,BW Sanderson,2,0,,,,,,"",""
+ball,1,4.3,Durham,DG Bedingham,G Clark,BW Sanderson,0,0,,,,,,"",""
+ball,1,4.4,Durham,DG Bedingham,G Clark,BW Sanderson,4,0,,,,,,"",""
+ball,1,4.5,Durham,DG Bedingham,G Clark,BW Sanderson,4,0,,,,,,"",""
+ball,1,4.6,Durham,DG Bedingham,G Clark,BW Sanderson,1,0,,,,,,"",""
+ball,1,5.1,Durham,DG Bedingham,G Clark,TAI Taylor,0,0,,,,,,"",""
+ball,1,5.2,Durham,DG Bedingham,G Clark,TAI Taylor,1,0,,,,,,"",""
+ball,1,5.3,Durham,G Clark,DG Bedingham,TAI Taylor,0,0,,,,,,"",""
+ball,1,5.4,Durham,G Clark,DG Bedingham,TAI Taylor,0,0,,,,,,"",""
+ball,1,5.5,Durham,G Clark,DG Bedingham,TAI Taylor,0,0,,,,,,"",""
+ball,1,5.6,Durham,G Clark,DG Bedingham,TAI Taylor,1,0,,,,,,"",""
+ball,1,6.1,Durham,G Clark,DG Bedingham,GG White,1,0,,,,,,"",""
+ball,1,6.2,Durham,DG Bedingham,G Clark,GG White,0,0,,,,,,"",""
+ball,1,6.3,Durham,DG Bedingham,G Clark,GG White,0,0,,,,,,"",""
+ball,1,6.4,Durham,DG Bedingham,G Clark,GG White,1,0,,,,,,"",""
+ball,1,6.5,Durham,G Clark,DG Bedingham,GG White,0,0,,,,,,"",""
+ball,1,6.6,Durham,G Clark,DG Bedingham,GG White,0,0,,,,,,"",""
+ball,1,7.1,Durham,DG Bedingham,G Clark,FJ Heldreich,0,0,,,,,,"",""
+ball,1,7.2,Durham,DG Bedingham,G Clark,FJ Heldreich,1,0,,,,,,"",""
+ball,1,7.3,Durham,G Clark,DG Bedingham,FJ Heldreich,4,0,,,,,,"",""
+ball,1,7.4,Durham,G Clark,DG Bedingham,FJ Heldreich,1,0,,,,,,"",""
+ball,1,7.5,Durham,DG Bedingham,G Clark,FJ Heldreich,0,0,,,,,,"",""
+ball,1,7.6,Durham,DG Bedingham,G Clark,FJ Heldreich,2,0,,,,,,"",""
+ball,1,8.1,Durham,G Clark,DG Bedingham,JDS Neesham,4,0,,,,,,"",""
+ball,1,8.2,Durham,G Clark,DG Bedingham,JDS Neesham,4,0,,,,,,"",""
+ball,1,8.3,Durham,G Clark,DG Bedingham,JDS Neesham,1,0,,,,,,"",""
+ball,1,8.4,Durham,DG Bedingham,G Clark,JDS Neesham,1,0,,,,,,"",""
+ball,1,8.5,Durham,G Clark,DG Bedingham,JDS Neesham,1,0,,,,,,"",""
+ball,1,8.6,Durham,DG Bedingham,G Clark,JDS Neesham,0,1,,,,1,,"",""
+ball,1,9.1,Durham,DG Bedingham,G Clark,FJ Heldreich,1,0,,,,,,"",""
+ball,1,9.2,Durham,G Clark,DG Bedingham,FJ Heldreich,0,0,,,,,,run out,DG Bedingham
+ball,1,9.3,Durham,G Clark,P Coughlin,FJ Heldreich,4,0,,,,,,"",""
+ball,1,9.4,Durham,G Clark,P Coughlin,FJ Heldreich,2,0,,,,,,"",""
+ball,1,9.5,Durham,G Clark,P Coughlin,FJ Heldreich,1,0,,,,,,"",""
+ball,1,9.6,Durham,P Coughlin,G Clark,FJ Heldreich,4,0,,,,,,"",""
+ball,1,10.1,Durham,G Clark,P Coughlin,GG White,2,0,,,,,,"",""
+ball,1,10.2,Durham,G Clark,P Coughlin,GG White,0,0,,,,,,"",""
+ball,1,10.3,Durham,G Clark,P Coughlin,GG White,1,0,,,,,,"",""
+ball,1,10.4,Durham,P Coughlin,G Clark,GG White,1,0,,,,,,"",""
+ball,1,10.5,Durham,G Clark,P Coughlin,GG White,0,3,,,3,,,"",""
+ball,1,10.6,Durham,P Coughlin,G Clark,GG White,1,0,,,,,,"",""
+ball,1,11.1,Durham,P Coughlin,G Clark,JJ Cobb,0,0,,,,,,"",""
+ball,1,11.2,Durham,P Coughlin,G Clark,JJ Cobb,4,0,,,,,,"",""
+ball,1,11.3,Durham,P Coughlin,G Clark,JJ Cobb,0,0,,,,,,"",""
+ball,1,11.4,Durham,P Coughlin,G Clark,JJ Cobb,4,0,,,,,,"",""
+ball,1,11.5,Durham,P Coughlin,G Clark,JJ Cobb,1,0,,,,,,"",""
+ball,1,11.6,Durham,G Clark,P Coughlin,JJ Cobb,0,0,,,,,,caught and bowled,G Clark
+ball,1,12.1,Durham,P Coughlin,BA Raine,GG White,0,0,,,,,,"",""
+ball,1,12.2,Durham,P Coughlin,BA Raine,GG White,0,0,,,,,,bowled,P Coughlin
+ball,1,12.3,Durham,BA Carse,BA Raine,GG White,0,0,,,,,,"",""
+ball,1,12.4,Durham,BA Carse,BA Raine,GG White,0,0,,,,,,"",""
+ball,1,12.5,Durham,BA Carse,BA Raine,GG White,0,0,,,,,,"",""
+ball,1,12.6,Durham,BA Carse,BA Raine,GG White,0,0,,,,,,caught and bowled,BA Carse
+ball,1,13.1,Durham,BA Raine,EJH Eckersley,JJ Cobb,0,1,,,,1,,"",""
+ball,1,13.2,Durham,EJH Eckersley,BA Raine,JJ Cobb,1,0,,,,,,"",""
+ball,1,13.3,Durham,BA Raine,EJH Eckersley,JJ Cobb,1,0,,,,,,"",""
+ball,1,13.4,Durham,EJH Eckersley,BA Raine,JJ Cobb,1,0,,,,,,"",""
+ball,1,13.5,Durham,BA Raine,EJH Eckersley,JJ Cobb,0,4,,,4,,,"",""
+ball,1,13.6,Durham,BA Raine,EJH Eckersley,JJ Cobb,1,0,,,,,,"",""
+ball,1,14.1,Durham,BA Raine,EJH Eckersley,GG White,0,0,,,,,,"",""
+ball,1,14.2,Durham,BA Raine,EJH Eckersley,GG White,4,0,,,,,,"",""
+ball,1,14.3,Durham,BA Raine,EJH Eckersley,GG White,1,0,,,,,,"",""
+ball,1,14.4,Durham,EJH Eckersley,BA Raine,GG White,1,0,,,,,,"",""
+ball,1,14.5,Durham,BA Raine,EJH Eckersley,GG White,0,0,,,,,,caught,BA Raine
+ball,1,14.6,Durham,SG Borthwick,EJH Eckersley,GG White,1,0,,,,,,"",""
+ball,1,15.1,Durham,SG Borthwick,EJH Eckersley,JJ Cobb,1,0,,,,,,"",""
+ball,1,15.2,Durham,EJH Eckersley,SG Borthwick,JJ Cobb,1,0,,,,,,"",""
+ball,1,15.3,Durham,SG Borthwick,EJH Eckersley,JJ Cobb,1,0,,,,,,"",""
+ball,1,15.4,Durham,EJH Eckersley,SG Borthwick,JJ Cobb,1,0,,,,,,"",""
+ball,1,15.5,Durham,SG Borthwick,EJH Eckersley,JJ Cobb,1,0,,,,,,"",""
+ball,1,15.6,Durham,EJH Eckersley,SG Borthwick,JJ Cobb,0,0,,,,,,"",""
+ball,1,16.1,Durham,SG Borthwick,EJH Eckersley,JDS Neesham,1,0,,,,,,"",""
+ball,1,16.2,Durham,EJH Eckersley,SG Borthwick,JDS Neesham,1,0,,,,,,"",""
+ball,1,16.3,Durham,SG Borthwick,EJH Eckersley,JDS Neesham,0,1,1,,,,,"",""
+ball,1,16.4,Durham,SG Borthwick,EJH Eckersley,JDS Neesham,0,1,1,,,,,"",""
+ball,1,16.5,Durham,SG Borthwick,EJH Eckersley,JDS Neesham,3,0,,,,,,"",""
+ball,1,16.6,Durham,EJH Eckersley,SG Borthwick,JDS Neesham,2,0,,,,,,"",""
+ball,1,16.7,Durham,EJH Eckersley,SG Borthwick,JDS Neesham,2,0,,,,,,"",""
+ball,1,16.8,Durham,EJH Eckersley,SG Borthwick,JDS Neesham,1,0,,,,,,"",""
+ball,1,17.1,Durham,EJH Eckersley,SG Borthwick,BW Sanderson,1,0,,,,,,"",""
+ball,1,17.2,Durham,SG Borthwick,EJH Eckersley,BW Sanderson,2,0,,,,,,"",""
+ball,1,17.3,Durham,SG Borthwick,EJH Eckersley,BW Sanderson,0,0,,,,,,"",""
+ball,1,17.4,Durham,SG Borthwick,EJH Eckersley,BW Sanderson,0,0,,,,,,bowled,SG Borthwick
+ball,1,17.5,Durham,L Trevaskis,EJH Eckersley,BW Sanderson,1,0,,,,,,"",""
+ball,1,17.6,Durham,EJH Eckersley,L Trevaskis,BW Sanderson,2,0,,,,,,"",""
+ball,1,18.1,Durham,L Trevaskis,EJH Eckersley,TAI Taylor,1,0,,,,,,"",""
+ball,1,18.2,Durham,EJH Eckersley,L Trevaskis,TAI Taylor,1,0,,,,,,"",""
+ball,1,18.3,Durham,L Trevaskis,EJH Eckersley,TAI Taylor,1,0,,,,,,"",""
+ball,1,18.4,Durham,EJH Eckersley,L Trevaskis,TAI Taylor,1,0,,,,,,"",""
+ball,1,18.5,Durham,L Trevaskis,EJH Eckersley,TAI Taylor,1,0,,,,,,"",""
+ball,1,18.6,Durham,EJH Eckersley,L Trevaskis,TAI Taylor,2,0,,,,,,"",""
+ball,1,19.1,Durham,L Trevaskis,EJH Eckersley,BW Sanderson,2,0,,,,,,"",""
+ball,1,19.2,Durham,L Trevaskis,EJH Eckersley,BW Sanderson,2,0,,,,,,"",""
+ball,1,19.3,Durham,L Trevaskis,EJH Eckersley,BW Sanderson,4,0,,,,,,"",""
+ball,1,19.4,Durham,L Trevaskis,EJH Eckersley,BW Sanderson,4,0,,,,,,"",""
+ball,1,19.5,Durham,L Trevaskis,EJH Eckersley,BW Sanderson,3,0,,,,,,"",""
+ball,1,19.6,Durham,EJH Eckersley,L Trevaskis,BW Sanderson,1,0,,,,,,"",""
+ball,2,0.1,Northamptonshire,CA Lynn,BJ Curran,P Coughlin,0,0,,,,,,"",""
+ball,2,0.2,Northamptonshire,CA Lynn,BJ Curran,P Coughlin,0,0,,,,,,"",""
+ball,2,0.3,Northamptonshire,CA Lynn,BJ Curran,P Coughlin,6,0,,,,,,"",""
+ball,2,0.4,Northamptonshire,CA Lynn,BJ Curran,P Coughlin,1,0,,,,,,"",""
+ball,2,0.5,Northamptonshire,BJ Curran,CA Lynn,P Coughlin,0,0,,,,,,"",""
+ball,2,0.6,Northamptonshire,BJ Curran,CA Lynn,P Coughlin,4,0,,,,,,"",""
+ball,2,1.1,Northamptonshire,CA Lynn,BJ Curran,BA Carse,0,0,,,,,,"",""
+ball,2,1.2,Northamptonshire,CA Lynn,BJ Curran,BA Carse,4,0,,,,,,"",""
+ball,2,1.3,Northamptonshire,CA Lynn,BJ Curran,BA Carse,1,0,,,,,,"",""
+ball,2,1.4,Northamptonshire,BJ Curran,CA Lynn,BA Carse,2,0,,,,,,"",""
+ball,2,1.5,Northamptonshire,BJ Curran,CA Lynn,BA Carse,4,0,,,,,,"",""
+ball,2,1.6,Northamptonshire,BJ Curran,CA Lynn,BA Carse,0,0,,,,,,"",""
+ball,2,2.1,Northamptonshire,CA Lynn,BJ Curran,L Trevaskis,1,0,,,,,,"",""
+ball,2,2.2,Northamptonshire,BJ Curran,CA Lynn,L Trevaskis,1,0,,,,,,"",""
+ball,2,2.3,Northamptonshire,CA Lynn,BJ Curran,L Trevaskis,1,0,,,,,,"",""
+ball,2,2.4,Northamptonshire,BJ Curran,CA Lynn,L Trevaskis,0,0,,,,,,"",""
+ball,2,2.5,Northamptonshire,BJ Curran,CA Lynn,L Trevaskis,1,0,,,,,,"",""
+ball,2,2.6,Northamptonshire,CA Lynn,BJ Curran,L Trevaskis,1,0,,,,,,"",""
+ball,2,3.1,Northamptonshire,CA Lynn,BJ Curran,P Coughlin,0,0,,,,,,"",""
+ball,2,3.2,Northamptonshire,CA Lynn,BJ Curran,P Coughlin,0,0,,,,,,"",""
+ball,2,3.3,Northamptonshire,CA Lynn,BJ Curran,P Coughlin,0,0,,,,,,"",""
+ball,2,3.4,Northamptonshire,CA Lynn,BJ Curran,P Coughlin,1,0,,,,,,"",""
+ball,2,3.5,Northamptonshire,BJ Curran,CA Lynn,P Coughlin,0,0,,,,,,"",""
+ball,2,3.6,Northamptonshire,BJ Curran,CA Lynn,P Coughlin,4,0,,,,,,"",""
+ball,2,4.1,Northamptonshire,CA Lynn,BJ Curran,AJ Tye,2,0,,,,,,"",""
+ball,2,4.2,Northamptonshire,CA Lynn,BJ Curran,AJ Tye,0,0,,,,,,"",""
+ball,2,4.3,Northamptonshire,CA Lynn,BJ Curran,AJ Tye,1,0,,,,,,"",""
+ball,2,4.4,Northamptonshire,BJ Curran,CA Lynn,AJ Tye,0,0,,,,,,bowled,BJ Curran
+ball,2,4.5,Northamptonshire,JJ Cobb,CA Lynn,AJ Tye,1,0,,,,,,"",""
+ball,2,4.6,Northamptonshire,CA Lynn,JJ Cobb,AJ Tye,0,0,,,,,,"",""
+ball,2,5.1,Northamptonshire,JJ Cobb,CA Lynn,BA Carse,1,0,,,,,,"",""
+ball,2,5.2,Northamptonshire,CA Lynn,JJ Cobb,BA Carse,4,0,,,,,,"",""
+ball,2,5.3,Northamptonshire,CA Lynn,JJ Cobb,BA Carse,0,2,,2,,,,"",""
+ball,2,5.4,Northamptonshire,CA Lynn,JJ Cobb,BA Carse,1,0,,,,,,"",""
+ball,2,5.5,Northamptonshire,JJ Cobb,CA Lynn,BA Carse,0,0,,,,,,"",""
+ball,2,5.6,Northamptonshire,JJ Cobb,CA Lynn,BA Carse,4,0,,,,,,"",""
+ball,2,5.7,Northamptonshire,JJ Cobb,CA Lynn,BA Carse,1,0,,,,,,"",""
+ball,2,6.1,Northamptonshire,JJ Cobb,CA Lynn,BA Raine,0,0,,,,,,"",""
+ball,2,6.2,Northamptonshire,JJ Cobb,CA Lynn,BA Raine,1,0,,,,,,"",""
+ball,2,6.3,Northamptonshire,CA Lynn,JJ Cobb,BA Raine,1,0,,,,,,"",""
+ball,2,6.4,Northamptonshire,JJ Cobb,CA Lynn,BA Raine,1,0,,,,,,"",""
+ball,2,6.5,Northamptonshire,CA Lynn,JJ Cobb,BA Raine,1,0,,,,,,"",""
+ball,2,6.6,Northamptonshire,JJ Cobb,CA Lynn,BA Raine,1,0,,,,,,"",""
+ball,2,7.1,Northamptonshire,JJ Cobb,CA Lynn,L Trevaskis,1,0,,,,,,"",""
+ball,2,7.2,Northamptonshire,CA Lynn,JJ Cobb,L Trevaskis,0,0,,,,,,"",""
+ball,2,7.3,Northamptonshire,CA Lynn,JJ Cobb,L Trevaskis,0,0,,,,,,"",""
+ball,2,7.4,Northamptonshire,CA Lynn,JJ Cobb,L Trevaskis,1,0,,,,,,"",""
+ball,2,7.5,Northamptonshire,JJ Cobb,CA Lynn,L Trevaskis,4,0,,,,,,"",""
+ball,2,7.6,Northamptonshire,JJ Cobb,CA Lynn,L Trevaskis,0,0,,,,,,"",""
+ball,2,8.1,Northamptonshire,CA Lynn,JJ Cobb,AJ Tye,4,0,,,,,,"",""
+ball,2,8.2,Northamptonshire,CA Lynn,JJ Cobb,AJ Tye,2,0,,,,,,"",""
+ball,2,8.3,Northamptonshire,CA Lynn,JJ Cobb,AJ Tye,1,0,,,,,,"",""
+ball,2,8.4,Northamptonshire,JJ Cobb,CA Lynn,AJ Tye,0,0,,,,,,caught,JJ Cobb
+ball,2,8.5,Northamptonshire,SA Zaib,CA Lynn,AJ Tye,0,0,,,,,,"",""
+ball,2,8.6,Northamptonshire,SA Zaib,CA Lynn,AJ Tye,2,0,,,,,,"",""
+ball,2,9.1,Northamptonshire,CA Lynn,SA Zaib,BA Raine,4,0,,,,,,"",""
+ball,2,9.2,Northamptonshire,CA Lynn,SA Zaib,BA Raine,0,0,,,,,,"",""
+ball,2,9.3,Northamptonshire,CA Lynn,SA Zaib,BA Raine,4,0,,,,,,"",""
+ball,2,9.4,Northamptonshire,CA Lynn,SA Zaib,BA Raine,1,0,,,,,,"",""
+ball,2,9.5,Northamptonshire,SA Zaib,CA Lynn,BA Raine,0,0,,,,,,"",""
+ball,2,9.6,Northamptonshire,SA Zaib,CA Lynn,BA Raine,0,0,,,,,,"",""
+ball,2,10.1,Northamptonshire,CA Lynn,SA Zaib,L Trevaskis,0,0,,,,,,"",""
+ball,2,10.2,Northamptonshire,CA Lynn,SA Zaib,L Trevaskis,1,0,,,,,,"",""
+ball,2,10.3,Northamptonshire,SA Zaib,CA Lynn,L Trevaskis,2,0,,,,,,"",""
+ball,2,10.4,Northamptonshire,SA Zaib,CA Lynn,L Trevaskis,1,0,,,,,,"",""
+ball,2,10.5,Northamptonshire,CA Lynn,SA Zaib,L Trevaskis,2,0,,,,,,"",""
+ball,2,10.6,Northamptonshire,CA Lynn,SA Zaib,L Trevaskis,1,0,,,,,,"",""
+ball,2,11.1,Northamptonshire,CA Lynn,SA Zaib,BA Carse,1,0,,,,,,"",""
+ball,2,11.2,Northamptonshire,SA Zaib,CA Lynn,BA Carse,4,0,,,,,,"",""
+ball,2,11.3,Northamptonshire,SA Zaib,CA Lynn,BA Carse,1,0,,,,,,"",""
+ball,2,11.4,Northamptonshire,CA Lynn,SA Zaib,BA Carse,0,0,,,,,,"",""
+ball,2,11.5,Northamptonshire,CA Lynn,SA Zaib,BA Carse,0,0,,,,,,"",""
+ball,2,11.6,Northamptonshire,CA Lynn,SA Zaib,BA Carse,1,0,,,,,,"",""
+ball,2,12.1,Northamptonshire,CA Lynn,SA Zaib,BA Raine,1,0,,,,,,"",""
+ball,2,12.2,Northamptonshire,SA Zaib,CA Lynn,BA Raine,0,5,5,,,,,"",""
+ball,2,12.3,Northamptonshire,SA Zaib,CA Lynn,BA Raine,2,0,,,,,,"",""
+ball,2,12.4,Northamptonshire,SA Zaib,CA Lynn,BA Raine,1,0,,,,,,"",""
+ball,2,12.5,Northamptonshire,CA Lynn,SA Zaib,BA Raine,2,0,,,,,,"",""
+ball,2,12.6,Northamptonshire,CA Lynn,SA Zaib,BA Raine,6,0,,,,,,"",""
+ball,2,12.7,Northamptonshire,CA Lynn,SA Zaib,BA Raine,1,0,,,,,,"",""
+ball,2,13.1,Northamptonshire,CA Lynn,SA Zaib,SG Borthwick,2,0,,,,,,"",""
+ball,2,13.2,Northamptonshire,CA Lynn,SA Zaib,SG Borthwick,0,0,,,,,,bowled,CA Lynn
+ball,2,13.3,Northamptonshire,JDS Neesham,SA Zaib,SG Borthwick,2,0,,,,,,"",""
+ball,2,13.4,Northamptonshire,JDS Neesham,SA Zaib,SG Borthwick,1,0,,,,,,"",""
+ball,2,13.5,Northamptonshire,SA Zaib,JDS Neesham,SG Borthwick,1,0,,,,,,"",""
+ball,2,13.6,Northamptonshire,JDS Neesham,SA Zaib,SG Borthwick,1,0,,,,,,"",""
+ball,2,14.1,Northamptonshire,JDS Neesham,SA Zaib,P Coughlin,0,0,,,,,,"",""
+ball,2,14.2,Northamptonshire,JDS Neesham,SA Zaib,P Coughlin,4,0,,,,,,"",""
+ball,2,14.3,Northamptonshire,JDS Neesham,SA Zaib,P Coughlin,1,0,,,,,,"",""
+ball,2,14.4,Northamptonshire,SA Zaib,JDS Neesham,P Coughlin,1,0,,,,,,"",""
+ball,2,14.5,Northamptonshire,JDS Neesham,SA Zaib,P Coughlin,0,0,,,,,,"",""
+ball,2,14.6,Northamptonshire,JDS Neesham,SA Zaib,P Coughlin,1,0,,,,,,"",""
+ball,2,15.1,Northamptonshire,JDS Neesham,SA Zaib,AJ Tye,0,0,,,,,,"",""
+ball,2,15.2,Northamptonshire,JDS Neesham,SA Zaib,AJ Tye,1,0,,,,,,"",""
+ball,2,15.3,Northamptonshire,SA Zaib,JDS Neesham,AJ Tye,1,0,,,,,,"",""
+ball,2,15.4,Northamptonshire,JDS Neesham,SA Zaib,AJ Tye,1,0,,,,,,"",""
+ball,2,15.5,Northamptonshire,SA Zaib,JDS Neesham,AJ Tye,0,2,,2,,,,"",""
+ball,2,15.6,Northamptonshire,SA Zaib,JDS Neesham,AJ Tye,4,0,,,,,,"",""
+ball,2,15.7,Northamptonshire,SA Zaib,JDS Neesham,AJ Tye,1,0,,,,,,"",""
+ball,2,16.1,Northamptonshire,SA Zaib,JDS Neesham,P Coughlin,1,0,,,,,,"",""
+ball,2,16.2,Northamptonshire,JDS Neesham,SA Zaib,P Coughlin,1,0,,,,,,"",""
+ball,2,16.3,Northamptonshire,SA Zaib,JDS Neesham,P Coughlin,0,0,,,,,,caught,SA Zaib
+ball,2,16.4,Northamptonshire,RI Keogh,JDS Neesham,P Coughlin,2,0,,,,,,"",""
+ball,2,16.5,Northamptonshire,RI Keogh,JDS Neesham,P Coughlin,1,0,,,,,,"",""
+ball,2,16.6,Northamptonshire,JDS Neesham,RI Keogh,P Coughlin,0,0,,,,,,"",""
+ball,2,17.1,Northamptonshire,RI Keogh,JDS Neesham,BA Carse,0,0,,,,,,"",""
+ball,2,17.2,Northamptonshire,RI Keogh,JDS Neesham,BA Carse,4,0,,,,,,"",""
+ball,2,17.3,Northamptonshire,RI Keogh,JDS Neesham,BA Carse,0,0,,,,,,"",""
+ball,2,17.4,Northamptonshire,RI Keogh,JDS Neesham,BA Carse,4,0,,,,,,"",""
+ball,2,17.5,Northamptonshire,RI Keogh,JDS Neesham,BA Carse,0,0,,,,,,"",""
+ball,2,17.6,Northamptonshire,RI Keogh,JDS Neesham,BA Carse,0,0,,,,,,caught,RI Keogh
+ball,2,18.1,Northamptonshire,JDS Neesham,LD McManus,AJ Tye,0,0,,,,,,"",""
+ball,2,18.2,Northamptonshire,JDS Neesham,LD McManus,AJ Tye,0,0,,,,,,"",""
+ball,2,18.3,Northamptonshire,JDS Neesham,LD McManus,AJ Tye,0,0,,,,,,"",""
+ball,2,18.4,Northamptonshire,JDS Neesham,LD McManus,AJ Tye,1,0,,,,,,"",""
+ball,2,18.5,Northamptonshire,LD McManus,JDS Neesham,AJ Tye,4,0,,,,,,"",""
+ball,2,18.6,Northamptonshire,LD McManus,JDS Neesham,AJ Tye,0,0,,,,,,caught,LD McManus
+ball,2,19.1,Northamptonshire,JDS Neesham,TAI Taylor,BA Raine,0,1,1,,,,,"",""
+ball,2,19.2,Northamptonshire,JDS Neesham,TAI Taylor,BA Raine,1,0,,,,,,"",""
+ball,2,19.3,Northamptonshire,TAI Taylor,JDS Neesham,BA Raine,0,0,,,,,,"",""
+ball,2,19.4,Northamptonshire,TAI Taylor,JDS Neesham,BA Raine,4,0,,,,,,"",""

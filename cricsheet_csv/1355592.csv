@@ -1,0 +1,277 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,London Spirit
+info,team,Oval Invincibles
+info,gender,female
+info,season,2023
+info,date,2023/08/15
+info,event,The Hundred Women's Competition
+info,match_number,21
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Oval Invincibles
+info,toss_decision,field
+info,player_of_match,TG Norris
+info,umpire,NL Bainton
+info,umpire,S Redfern
+info,reserve_umpire,WRP Fernando
+info,tv_umpire,AY Harris
+info,match_referee,SM Bartlett
+info,winner,London Spirit
+info,winner_runs,21
+info,player,London Spirit,N Holland
+info,player,London Spirit,DR Gibson
+info,player,London Spirit,HC Knight
+info,player,London Spirit,GM Harris
+info,player,London Spirit,AC Kerr
+info,player,London Spirit,RM Ghosh
+info,player,London Spirit,S Glenn
+info,player,London Spirit,CE Dean
+info,player,London Spirit,AZ Monaghan
+info,player,London Spirit,TG Norris
+info,player,London Spirit,L Filer
+info,player,Oval Invincibles,L Winfield-Hill
+info,player,Oval Invincibles,SW Bates
+info,player,Oval Invincibles,A Capsey
+info,player,Oval Invincibles,M Kapp
+info,player,Oval Invincibles,PJ Scholfield
+info,player,Oval Invincibles,CL Griffith
+info,player,Oval Invincibles,MK Villiers
+info,player,Oval Invincibles,KM Chathli
+info,player,Oval Invincibles,R MacDonald-Gay
+info,player,Oval Invincibles,E Gray
+info,player,Oval Invincibles,Sophia Smale
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AY Harris,90d95b82
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,DR Gibson,d2763568
+info,registry,people,E Gray,58717de2
+info,registry,people,GM Harris,72166006
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,KM Chathli,6ffbf04c
+info,registry,people,L Filer,31adb911
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,N Holland,aefd0567
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Redfern,5b038989
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Sophia Smale,c296dba1
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,WRP Fernando,7d98d385
+ball,1,0.1,London Spirit,N Holland,DR Gibson,M Kapp,0,0,,,,,,"",""
+ball,1,0.2,London Spirit,N Holland,DR Gibson,M Kapp,0,0,,,,,,bowled,N Holland
+ball,1,0.3,London Spirit,HC Knight,DR Gibson,M Kapp,0,0,,,,,,"",""
+ball,1,0.4,London Spirit,HC Knight,DR Gibson,M Kapp,0,0,,,,,,"",""
+ball,1,0.5,London Spirit,HC Knight,DR Gibson,M Kapp,0,0,,,,,,"",""
+ball,1,1.1,London Spirit,HC Knight,DR Gibson,M Kapp,1,0,,,,,,"",""
+ball,1,1.2,London Spirit,DR Gibson,HC Knight,M Kapp,0,0,,,,,,"",""
+ball,1,1.3,London Spirit,DR Gibson,HC Knight,M Kapp,4,0,,,,,,"",""
+ball,1,1.4,London Spirit,DR Gibson,HC Knight,M Kapp,1,0,,,,,,"",""
+ball,1,1.5,London Spirit,HC Knight,DR Gibson,M Kapp,1,0,,,,,,"",""
+ball,1,2.1,London Spirit,HC Knight,DR Gibson,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,2.2,London Spirit,HC Knight,DR Gibson,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,2.3,London Spirit,HC Knight,DR Gibson,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,2.4,London Spirit,HC Knight,DR Gibson,R MacDonald-Gay,4,0,,,,,,"",""
+ball,1,2.5,London Spirit,HC Knight,DR Gibson,R MacDonald-Gay,4,0,,,,,,"",""
+ball,1,3.1,London Spirit,HC Knight,DR Gibson,M Kapp,0,0,,,,,,"",""
+ball,1,3.2,London Spirit,HC Knight,DR Gibson,M Kapp,0,0,,,,,,caught and bowled,HC Knight
+ball,1,3.3,London Spirit,GM Harris,DR Gibson,M Kapp,1,0,,,,,,run out,GM Harris
+ball,1,3.4,London Spirit,AC Kerr,DR Gibson,M Kapp,1,0,,,,,,"",""
+ball,1,3.5,London Spirit,DR Gibson,AC Kerr,M Kapp,4,0,,,,,,"",""
+ball,1,4.1,London Spirit,AC Kerr,DR Gibson,E Gray,0,1,1,,,,,"",""
+ball,1,4.2,London Spirit,AC Kerr,DR Gibson,E Gray,0,1,1,,,,,"",""
+ball,1,4.3,London Spirit,AC Kerr,DR Gibson,E Gray,0,0,,,,,,"",""
+ball,1,4.4,London Spirit,AC Kerr,DR Gibson,E Gray,4,0,,,,,,"",""
+ball,1,4.5,London Spirit,AC Kerr,DR Gibson,E Gray,0,0,,,,,,"",""
+ball,1,4.6,London Spirit,AC Kerr,DR Gibson,E Gray,4,0,,,,,,"",""
+ball,1,4.7,London Spirit,AC Kerr,DR Gibson,E Gray,0,0,,,,,,"",""
+ball,1,5.1,London Spirit,AC Kerr,DR Gibson,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,5.2,London Spirit,AC Kerr,DR Gibson,R MacDonald-Gay,0,0,,,,,,bowled,AC Kerr
+ball,1,5.3,London Spirit,RM Ghosh,DR Gibson,R MacDonald-Gay,0,2,,2,,,,"",""
+ball,1,5.4,London Spirit,RM Ghosh,DR Gibson,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,5.5,London Spirit,DR Gibson,RM Ghosh,R MacDonald-Gay,2,0,,,,,,"",""
+ball,1,5.6,London Spirit,DR Gibson,RM Ghosh,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,6.1,London Spirit,RM Ghosh,DR Gibson,M Kapp,0,0,,,,,,"",""
+ball,1,6.2,London Spirit,RM Ghosh,DR Gibson,M Kapp,0,0,,,,,,"",""
+ball,1,6.3,London Spirit,RM Ghosh,DR Gibson,M Kapp,0,0,,,,,,"",""
+ball,1,6.4,London Spirit,RM Ghosh,DR Gibson,M Kapp,0,0,,,,,,"",""
+ball,1,6.5,London Spirit,RM Ghosh,DR Gibson,M Kapp,0,1,,,1,,,"",""
+ball,1,7.1,London Spirit,DR Gibson,RM Ghosh,R MacDonald-Gay,2,0,,,,,,"",""
+ball,1,7.2,London Spirit,DR Gibson,RM Ghosh,R MacDonald-Gay,0,3,,2,,1,,"",""
+ball,1,7.3,London Spirit,RM Ghosh,DR Gibson,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,7.4,London Spirit,DR Gibson,RM Ghosh,R MacDonald-Gay,4,0,,,,,,"",""
+ball,1,7.5,London Spirit,DR Gibson,RM Ghosh,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,7.6,London Spirit,DR Gibson,RM Ghosh,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,8.1,London Spirit,DR Gibson,RM Ghosh,Sophia Smale,0,0,,,,,,"",""
+ball,1,8.2,London Spirit,DR Gibson,RM Ghosh,Sophia Smale,4,0,,,,,,"",""
+ball,1,8.3,London Spirit,DR Gibson,RM Ghosh,Sophia Smale,0,0,,,,,,caught and bowled,DR Gibson
+ball,1,8.4,London Spirit,S Glenn,RM Ghosh,Sophia Smale,0,0,,,,,,"",""
+ball,1,8.5,London Spirit,S Glenn,RM Ghosh,Sophia Smale,0,0,,,,,,"",""
+ball,1,9.1,London Spirit,S Glenn,RM Ghosh,Sophia Smale,1,0,,,,,,"",""
+ball,1,9.2,London Spirit,RM Ghosh,S Glenn,Sophia Smale,0,0,,,,,,"",""
+ball,1,9.3,London Spirit,RM Ghosh,S Glenn,Sophia Smale,0,0,,,,,,caught,RM Ghosh
+ball,1,9.4,London Spirit,CE Dean,S Glenn,Sophia Smale,0,0,,,,,,"",""
+ball,1,9.5,London Spirit,CE Dean,S Glenn,Sophia Smale,0,0,,,,,,"",""
+ball,1,10.1,London Spirit,S Glenn,CE Dean,MK Villiers,1,0,,,,,,"",""
+ball,1,10.2,London Spirit,CE Dean,S Glenn,MK Villiers,1,0,,,,,,"",""
+ball,1,10.3,London Spirit,S Glenn,CE Dean,MK Villiers,2,0,,,,,,"",""
+ball,1,10.4,London Spirit,S Glenn,CE Dean,MK Villiers,0,0,,,,,,"",""
+ball,1,10.5,London Spirit,S Glenn,CE Dean,MK Villiers,1,0,,,,,,"",""
+ball,1,11.1,London Spirit,CE Dean,S Glenn,Sophia Smale,0,0,,,,,,"",""
+ball,1,11.2,London Spirit,CE Dean,S Glenn,Sophia Smale,1,0,,,,,,"",""
+ball,1,11.3,London Spirit,S Glenn,CE Dean,Sophia Smale,4,0,,,,,,"",""
+ball,1,11.4,London Spirit,S Glenn,CE Dean,Sophia Smale,1,0,,,,,,"",""
+ball,1,11.5,London Spirit,CE Dean,S Glenn,Sophia Smale,4,0,,,,,,"",""
+ball,1,12.1,London Spirit,S Glenn,CE Dean,PJ Scholfield,0,2,2,,,,,"",""
+ball,1,12.2,London Spirit,CE Dean,S Glenn,PJ Scholfield,4,0,,,,,,"",""
+ball,1,12.3,London Spirit,CE Dean,S Glenn,PJ Scholfield,1,0,,,,,,"",""
+ball,1,12.4,London Spirit,S Glenn,CE Dean,PJ Scholfield,0,0,,,,,,"",""
+ball,1,12.5,London Spirit,S Glenn,CE Dean,PJ Scholfield,1,0,,,,,,"",""
+ball,1,12.6,London Spirit,CE Dean,S Glenn,PJ Scholfield,1,0,,,,,,"",""
+ball,1,13.1,London Spirit,S Glenn,CE Dean,MK Villiers,4,0,,,,,,"",""
+ball,1,13.2,London Spirit,S Glenn,CE Dean,MK Villiers,1,0,,,,,,"",""
+ball,1,13.3,London Spirit,CE Dean,S Glenn,MK Villiers,1,0,,,,,,"",""
+ball,1,13.4,London Spirit,S Glenn,CE Dean,MK Villiers,1,0,,,,,,"",""
+ball,1,13.5,London Spirit,CE Dean,S Glenn,MK Villiers,0,0,,,,,,caught,CE Dean
+ball,1,14.1,London Spirit,S Glenn,AZ Monaghan,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,14.2,London Spirit,S Glenn,AZ Monaghan,R MacDonald-Gay,0,0,,,,,,caught,S Glenn
+ball,1,14.3,London Spirit,TG Norris,AZ Monaghan,R MacDonald-Gay,2,0,,,,,,"",""
+ball,1,14.4,London Spirit,TG Norris,AZ Monaghan,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,14.5,London Spirit,TG Norris,AZ Monaghan,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,15.1,London Spirit,TG Norris,AZ Monaghan,MK Villiers,1,0,,,,,,"",""
+ball,1,15.2,London Spirit,AZ Monaghan,TG Norris,MK Villiers,0,0,,,,,,"",""
+ball,1,15.3,London Spirit,AZ Monaghan,TG Norris,MK Villiers,0,0,,,,,,lbw,AZ Monaghan
+ball,1,15.4,London Spirit,L Filer,TG Norris,MK Villiers,0,0,,,,,,"",""
+ball,1,15.5,London Spirit,L Filer,TG Norris,MK Villiers,1,0,,,,,,"",""
+ball,1,16.1,London Spirit,L Filer,TG Norris,MK Villiers,2,0,,,,,,"",""
+ball,1,16.2,London Spirit,L Filer,TG Norris,MK Villiers,1,0,,,,,,"",""
+ball,1,16.3,London Spirit,TG Norris,L Filer,MK Villiers,0,0,,,,,,"",""
+ball,1,16.4,London Spirit,TG Norris,L Filer,MK Villiers,0,0,,,,,,"",""
+ball,1,16.5,London Spirit,TG Norris,L Filer,MK Villiers,0,2,2,,,,,"",""
+ball,1,16.6,London Spirit,L Filer,TG Norris,MK Villiers,1,0,,,,,,"",""
+ball,1,17.1,London Spirit,TG Norris,L Filer,PJ Scholfield,0,0,,,,,,"",""
+ball,1,17.2,London Spirit,TG Norris,L Filer,PJ Scholfield,0,0,,,,,,"",""
+ball,1,17.3,London Spirit,TG Norris,L Filer,PJ Scholfield,1,0,,,,,,"",""
+ball,1,17.4,London Spirit,L Filer,TG Norris,PJ Scholfield,1,0,,,,,,"",""
+ball,1,17.5,London Spirit,TG Norris,L Filer,PJ Scholfield,4,0,,,,,,"",""
+ball,1,18.1,London Spirit,L Filer,TG Norris,A Capsey,1,0,,,,,,"",""
+ball,1,18.2,London Spirit,TG Norris,L Filer,A Capsey,1,0,,,,,,"",""
+ball,1,18.3,London Spirit,L Filer,TG Norris,A Capsey,1,0,,,,,,"",""
+ball,1,18.4,London Spirit,TG Norris,L Filer,A Capsey,1,0,,,,,,"",""
+ball,1,18.5,London Spirit,L Filer,TG Norris,A Capsey,0,0,,,,,,"",""
+ball,1,19.1,London Spirit,L Filer,TG Norris,A Capsey,1,0,,,,,,"",""
+ball,1,19.2,London Spirit,TG Norris,L Filer,A Capsey,1,0,,,,,,"",""
+ball,1,19.3,London Spirit,L Filer,TG Norris,A Capsey,6,0,,,,,,"",""
+ball,1,19.4,London Spirit,L Filer,TG Norris,A Capsey,4,0,,,,,,"",""
+ball,1,19.5,London Spirit,L Filer,TG Norris,A Capsey,2,0,,,,,,"",""
+ball,2,0.1,Oval Invincibles,L Winfield-Hill,SW Bates,DR Gibson,0,0,,,,,,"",""
+ball,2,0.2,Oval Invincibles,L Winfield-Hill,SW Bates,DR Gibson,1,0,,,,,,"",""
+ball,2,0.3,Oval Invincibles,SW Bates,L Winfield-Hill,DR Gibson,0,0,,,,,,"",""
+ball,2,0.4,Oval Invincibles,SW Bates,L Winfield-Hill,DR Gibson,0,0,,,,,,"",""
+ball,2,0.5,Oval Invincibles,SW Bates,L Winfield-Hill,DR Gibson,0,0,,,,,,"",""
+ball,2,1.1,Oval Invincibles,SW Bates,L Winfield-Hill,CE Dean,0,0,,,,,,"",""
+ball,2,1.2,Oval Invincibles,SW Bates,L Winfield-Hill,CE Dean,1,0,,,,,,"",""
+ball,2,1.3,Oval Invincibles,L Winfield-Hill,SW Bates,CE Dean,1,0,,,,,,"",""
+ball,2,1.4,Oval Invincibles,SW Bates,L Winfield-Hill,CE Dean,1,0,,,,,,"",""
+ball,2,1.5,Oval Invincibles,L Winfield-Hill,SW Bates,CE Dean,0,0,,,,,,"",""
+ball,2,2.1,Oval Invincibles,SW Bates,L Winfield-Hill,L Filer,0,0,,,,,,"",""
+ball,2,2.2,Oval Invincibles,SW Bates,L Winfield-Hill,L Filer,1,0,,,,,,"",""
+ball,2,2.3,Oval Invincibles,L Winfield-Hill,SW Bates,L Filer,0,0,,,,,,"",""
+ball,2,2.4,Oval Invincibles,L Winfield-Hill,SW Bates,L Filer,0,0,,,,,,"",""
+ball,2,2.5,Oval Invincibles,L Winfield-Hill,SW Bates,L Filer,0,0,,,,,,"",""
+ball,2,3.1,Oval Invincibles,L Winfield-Hill,SW Bates,TG Norris,1,0,,,,,,"",""
+ball,2,3.2,Oval Invincibles,SW Bates,L Winfield-Hill,TG Norris,1,0,,,,,,"",""
+ball,2,3.3,Oval Invincibles,L Winfield-Hill,SW Bates,TG Norris,0,0,,,,,,caught,L Winfield-Hill
+ball,2,3.4,Oval Invincibles,A Capsey,SW Bates,TG Norris,0,1,1,,,,,"",""
+ball,2,3.5,Oval Invincibles,A Capsey,SW Bates,TG Norris,0,0,,,,,,"",""
+ball,2,3.6,Oval Invincibles,A Capsey,SW Bates,TG Norris,6,0,,,,,,"",""
+ball,2,4.1,Oval Invincibles,SW Bates,A Capsey,CE Dean,0,0,,,,,,"",""
+ball,2,4.2,Oval Invincibles,SW Bates,A Capsey,CE Dean,4,0,,,,,,"",""
+ball,2,4.3,Oval Invincibles,SW Bates,A Capsey,CE Dean,0,0,,,,,,"",""
+ball,2,4.4,Oval Invincibles,SW Bates,A Capsey,CE Dean,1,0,,,,,,"",""
+ball,2,4.5,Oval Invincibles,A Capsey,SW Bates,CE Dean,4,0,,,,,,"",""
+ball,2,5.1,Oval Invincibles,A Capsey,SW Bates,AC Kerr,1,0,,,,,,"",""
+ball,2,5.2,Oval Invincibles,SW Bates,A Capsey,AC Kerr,1,0,,,,,,"",""
+ball,2,5.3,Oval Invincibles,A Capsey,SW Bates,AC Kerr,0,0,,,,,,"",""
+ball,2,5.4,Oval Invincibles,A Capsey,SW Bates,AC Kerr,0,0,,,,,,caught,A Capsey
+ball,2,5.5,Oval Invincibles,M Kapp,SW Bates,AC Kerr,0,0,,,,,,"",""
+ball,2,6.1,Oval Invincibles,SW Bates,M Kapp,S Glenn,0,0,,,,,,"",""
+ball,2,6.2,Oval Invincibles,SW Bates,M Kapp,S Glenn,0,0,,,,,,"",""
+ball,2,6.3,Oval Invincibles,SW Bates,M Kapp,S Glenn,0,0,,,,,,"",""
+ball,2,6.4,Oval Invincibles,SW Bates,M Kapp,S Glenn,1,0,,,,,,"",""
+ball,2,6.5,Oval Invincibles,M Kapp,SW Bates,S Glenn,4,0,,,,,,"",""
+ball,2,7.1,Oval Invincibles,M Kapp,SW Bates,AC Kerr,1,0,,,,,,"",""
+ball,2,7.2,Oval Invincibles,SW Bates,M Kapp,AC Kerr,1,0,,,,,,"",""
+ball,2,7.3,Oval Invincibles,M Kapp,SW Bates,AC Kerr,0,0,,,,,,"",""
+ball,2,7.4,Oval Invincibles,M Kapp,SW Bates,AC Kerr,1,0,,,,,,"",""
+ball,2,7.5,Oval Invincibles,SW Bates,M Kapp,AC Kerr,1,0,,,,,,"",""
+ball,2,8.1,Oval Invincibles,SW Bates,M Kapp,S Glenn,1,0,,,,,,"",""
+ball,2,8.2,Oval Invincibles,M Kapp,SW Bates,S Glenn,1,0,,,,,,"",""
+ball,2,8.3,Oval Invincibles,SW Bates,M Kapp,S Glenn,1,0,,,,,,"",""
+ball,2,8.4,Oval Invincibles,M Kapp,SW Bates,S Glenn,1,0,,,,,,"",""
+ball,2,8.5,Oval Invincibles,SW Bates,M Kapp,S Glenn,1,0,,,,,,"",""
+ball,2,9.1,Oval Invincibles,M Kapp,SW Bates,L Filer,1,0,,,,,,"",""
+ball,2,9.2,Oval Invincibles,SW Bates,M Kapp,L Filer,1,0,,,,,,"",""
+ball,2,9.3,Oval Invincibles,M Kapp,SW Bates,L Filer,1,0,,,,,,"",""
+ball,2,9.4,Oval Invincibles,SW Bates,M Kapp,L Filer,0,0,,,,,,"",""
+ball,2,9.5,Oval Invincibles,SW Bates,M Kapp,L Filer,1,0,,,,,,"",""
+ball,2,10.1,Oval Invincibles,SW Bates,M Kapp,S Glenn,1,0,,,,,,"",""
+ball,2,10.2,Oval Invincibles,M Kapp,SW Bates,S Glenn,1,0,,,,,,"",""
+ball,2,10.3,Oval Invincibles,SW Bates,M Kapp,S Glenn,0,0,,,,,,"",""
+ball,2,10.4,Oval Invincibles,SW Bates,M Kapp,S Glenn,0,0,,,,,,"",""
+ball,2,10.5,Oval Invincibles,SW Bates,M Kapp,S Glenn,1,0,,,,,,"",""
+ball,2,11.1,Oval Invincibles,M Kapp,SW Bates,AC Kerr,1,0,,,,,,"",""
+ball,2,11.2,Oval Invincibles,SW Bates,M Kapp,AC Kerr,1,0,,,,,,"",""
+ball,2,11.3,Oval Invincibles,M Kapp,SW Bates,AC Kerr,1,0,,,,,,"",""
+ball,2,11.4,Oval Invincibles,SW Bates,M Kapp,AC Kerr,1,0,,,,,,"",""
+ball,2,11.5,Oval Invincibles,M Kapp,SW Bates,AC Kerr,0,0,,,,,,"",""
+ball,2,12.1,Oval Invincibles,SW Bates,M Kapp,L Filer,1,0,,,,,,"",""
+ball,2,12.2,Oval Invincibles,M Kapp,SW Bates,L Filer,4,0,,,,,,"",""
+ball,2,12.3,Oval Invincibles,M Kapp,SW Bates,L Filer,4,0,,,,,,"",""
+ball,2,12.4,Oval Invincibles,M Kapp,SW Bates,L Filer,2,0,,,,,,"",""
+ball,2,12.5,Oval Invincibles,M Kapp,SW Bates,L Filer,0,0,,,,,,"",""
+ball,2,13.1,Oval Invincibles,M Kapp,SW Bates,CE Dean,1,0,,,,,,"",""
+ball,2,13.2,Oval Invincibles,SW Bates,M Kapp,CE Dean,1,0,,,,,,"",""
+ball,2,13.3,Oval Invincibles,M Kapp,SW Bates,CE Dean,1,0,,,,,,"",""
+ball,2,13.4,Oval Invincibles,SW Bates,M Kapp,CE Dean,0,0,,,,,,caught,SW Bates
+ball,2,13.5,Oval Invincibles,PJ Scholfield,M Kapp,CE Dean,2,0,,,,,,"",""
+ball,2,14.1,Oval Invincibles,M Kapp,PJ Scholfield,TG Norris,2,0,,,,,,"",""
+ball,2,14.2,Oval Invincibles,M Kapp,PJ Scholfield,TG Norris,1,0,,,,,,"",""
+ball,2,14.3,Oval Invincibles,PJ Scholfield,M Kapp,TG Norris,0,0,,,,,,"",""
+ball,2,14.4,Oval Invincibles,PJ Scholfield,M Kapp,TG Norris,0,0,,,,,,caught,PJ Scholfield
+ball,2,14.5,Oval Invincibles,CL Griffith,M Kapp,TG Norris,1,0,,,,,,"",""
+ball,2,15.1,Oval Invincibles,M Kapp,CL Griffith,S Glenn,0,0,,,,,,"",""
+ball,2,15.2,Oval Invincibles,M Kapp,CL Griffith,S Glenn,2,0,,,,,,"",""
+ball,2,15.3,Oval Invincibles,M Kapp,CL Griffith,S Glenn,0,0,,,,,,caught,M Kapp
+ball,2,15.4,Oval Invincibles,MK Villiers,CL Griffith,S Glenn,1,0,,,,,,"",""
+ball,2,15.5,Oval Invincibles,CL Griffith,MK Villiers,S Glenn,4,0,,,,,,"",""
+ball,2,16.1,Oval Invincibles,MK Villiers,CL Griffith,DR Gibson,1,0,,,,,,"",""
+ball,2,16.2,Oval Invincibles,CL Griffith,MK Villiers,DR Gibson,1,0,,,,,,"",""
+ball,2,16.3,Oval Invincibles,MK Villiers,CL Griffith,DR Gibson,1,0,,,,,,"",""
+ball,2,16.4,Oval Invincibles,CL Griffith,MK Villiers,DR Gibson,1,0,,,,,,"",""
+ball,2,16.5,Oval Invincibles,MK Villiers,CL Griffith,DR Gibson,1,0,,,,,,run out,CL Griffith
+ball,2,17.1,Oval Invincibles,MK Villiers,KM Chathli,CE Dean,1,0,,,,,,"",""
+ball,2,17.2,Oval Invincibles,KM Chathli,MK Villiers,CE Dean,1,0,,,,,,"",""
+ball,2,17.3,Oval Invincibles,MK Villiers,KM Chathli,CE Dean,1,0,,,,,,"",""
+ball,2,17.4,Oval Invincibles,KM Chathli,MK Villiers,CE Dean,0,0,,,,,,"",""
+ball,2,17.5,Oval Invincibles,KM Chathli,MK Villiers,CE Dean,0,0,,,,,,caught,KM Chathli
+ball,2,18.1,Oval Invincibles,MK Villiers,R MacDonald-Gay,TG Norris,1,0,,,,,,"",""
+ball,2,18.2,Oval Invincibles,R MacDonald-Gay,MK Villiers,TG Norris,1,0,,,,,,"",""
+ball,2,18.3,Oval Invincibles,MK Villiers,R MacDonald-Gay,TG Norris,2,0,,,,,,"",""
+ball,2,18.4,Oval Invincibles,MK Villiers,R MacDonald-Gay,TG Norris,1,0,,,,,,"",""
+ball,2,18.5,Oval Invincibles,R MacDonald-Gay,MK Villiers,TG Norris,1,0,,,,,,"",""
+ball,2,19.1,Oval Invincibles,MK Villiers,R MacDonald-Gay,AC Kerr,1,0,,,,,,run out,MK Villiers
+ball,2,19.2,Oval Invincibles,E Gray,R MacDonald-Gay,AC Kerr,0,0,,,,,,bowled,E Gray
+ball,2,19.3,Oval Invincibles,Sophia Smale,R MacDonald-Gay,AC Kerr,4,0,,,,,,"",""
+ball,2,19.4,Oval Invincibles,Sophia Smale,R MacDonald-Gay,AC Kerr,1,0,,,,,,"",""
+ball,2,19.5,Oval Invincibles,R MacDonald-Gay,Sophia Smale,AC Kerr,0,0,,,,,,caught and bowled,R MacDonald-Gay

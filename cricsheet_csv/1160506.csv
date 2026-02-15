@@ -1,0 +1,314 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Auckland
+info,gender,male
+info,season,2018/19
+info,date,2019/01/06
+info,event,Super Smash
+info,match_number,10
+info,venue,Seddon Park
+info,city,Hamilton
+info,toss_winner,Northern Districts
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,JAK Bromley
+info,match_referee,KD Earl
+info,winner,Northern Districts
+info,winner_runs,2
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,CJ Anderson
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,CJ Jordan
+info,player,Northern Districts,PD Bocock
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,TS Nethula
+info,player,Auckland,SM Solia
+info,player,Auckland,JM Vince
+info,player,Auckland,GD Phillips
+info,player,Auckland,MS Chapman
+info,player,Auckland,Craig Cachopa
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,DJ Grobbelaar
+info,player,Auckland,RM Hira
+info,player,Auckland,WER Somerville
+info,player,Auckland,MJ McClenaghan
+info,player,Auckland,MR Quinn
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,Craig Cachopa,af294a6c
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Grobbelaar,52d11798
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,JAK Bromley,ccf7baaf
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KD Earl,58ddb8b4
+info,registry,people,MJ McClenaghan,51a3c5ef
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MR Quinn,b082d112
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,PD Bocock,329b08c2
+info,registry,people,RM Hira,2e966563
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TS Nethula,e82dc4c5
+info,registry,people,WER Somerville,74a1c1e3
+ball,1,0.1,Northern Districts,AP Devcich,DG Brownlie,MR Quinn,0,0,,,,,,"",""
+ball,1,0.2,Northern Districts,AP Devcich,DG Brownlie,MR Quinn,4,0,,,,,,"",""
+ball,1,0.3,Northern Districts,AP Devcich,DG Brownlie,MR Quinn,1,0,,,,,,"",""
+ball,1,0.4,Northern Districts,DG Brownlie,AP Devcich,MR Quinn,1,0,,,,,,"",""
+ball,1,0.5,Northern Districts,AP Devcich,DG Brownlie,MR Quinn,1,0,,,,,,"",""
+ball,1,0.6,Northern Districts,DG Brownlie,AP Devcich,MR Quinn,1,0,,,,,,"",""
+ball,1,1.1,Northern Districts,DG Brownlie,AP Devcich,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,1.2,Northern Districts,DG Brownlie,AP Devcich,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,1.3,Northern Districts,DG Brownlie,AP Devcich,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,1.4,Northern Districts,AP Devcich,DG Brownlie,MJ McClenaghan,0,0,,,,,,lbw,AP Devcich
+ball,1,1.5,Northern Districts,DJ Mitchell,DG Brownlie,MJ McClenaghan,0,1,1,,,,,"",""
+ball,1,1.6,Northern Districts,DJ Mitchell,DG Brownlie,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,1.7,Northern Districts,DJ Mitchell,DG Brownlie,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,2.1,Northern Districts,DG Brownlie,DJ Mitchell,RM Hira,1,0,,,,,,"",""
+ball,1,2.2,Northern Districts,DJ Mitchell,DG Brownlie,RM Hira,0,0,,,,,,"",""
+ball,1,2.3,Northern Districts,DJ Mitchell,DG Brownlie,RM Hira,0,0,,,,,,"",""
+ball,1,2.4,Northern Districts,DJ Mitchell,DG Brownlie,RM Hira,0,0,,,,,,"",""
+ball,1,2.5,Northern Districts,DJ Mitchell,DG Brownlie,RM Hira,2,0,,,,,,"",""
+ball,1,2.6,Northern Districts,DJ Mitchell,DG Brownlie,RM Hira,4,0,,,,,,"",""
+ball,1,3.1,Northern Districts,DG Brownlie,DJ Mitchell,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,3.2,Northern Districts,DG Brownlie,DJ Mitchell,MJ McClenaghan,4,0,,,,,,"",""
+ball,1,3.3,Northern Districts,DG Brownlie,DJ Mitchell,MJ McClenaghan,4,0,,,,,,"",""
+ball,1,3.4,Northern Districts,DG Brownlie,DJ Mitchell,MJ McClenaghan,0,0,,,,,,caught and bowled,DG Brownlie
+ball,1,3.5,Northern Districts,BR Hampton,DJ Mitchell,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,3.6,Northern Districts,DJ Mitchell,BR Hampton,MJ McClenaghan,4,0,,,,,,"",""
+ball,1,4.1,Northern Districts,BR Hampton,DJ Mitchell,MR Quinn,4,0,,,,,,"",""
+ball,1,4.2,Northern Districts,BR Hampton,DJ Mitchell,MR Quinn,0,0,,,,,,"",""
+ball,1,4.3,Northern Districts,BR Hampton,DJ Mitchell,MR Quinn,0,0,,,,,,"",""
+ball,1,4.4,Northern Districts,BR Hampton,DJ Mitchell,MR Quinn,1,0,,,,,,"",""
+ball,1,4.5,Northern Districts,DJ Mitchell,BR Hampton,MR Quinn,4,0,,,,,,"",""
+ball,1,4.6,Northern Districts,DJ Mitchell,BR Hampton,MR Quinn,1,0,,,,,,"",""
+ball,1,5.1,Northern Districts,DJ Mitchell,BR Hampton,WER Somerville,1,0,,,,,,"",""
+ball,1,5.2,Northern Districts,BR Hampton,DJ Mitchell,WER Somerville,0,0,,,,,,"",""
+ball,1,5.3,Northern Districts,BR Hampton,DJ Mitchell,WER Somerville,1,0,,,,,,"",""
+ball,1,5.4,Northern Districts,DJ Mitchell,BR Hampton,WER Somerville,1,0,,,,,,"",""
+ball,1,5.5,Northern Districts,BR Hampton,DJ Mitchell,WER Somerville,0,0,,,,,,"",""
+ball,1,5.6,Northern Districts,BR Hampton,DJ Mitchell,WER Somerville,4,0,,,,,,"",""
+ball,1,6.1,Northern Districts,DJ Mitchell,BR Hampton,DJ Grobbelaar,0,0,,,,,,"",""
+ball,1,6.2,Northern Districts,DJ Mitchell,BR Hampton,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,6.3,Northern Districts,BR Hampton,DJ Mitchell,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,6.4,Northern Districts,DJ Mitchell,BR Hampton,DJ Grobbelaar,4,0,,,,,,"",""
+ball,1,6.5,Northern Districts,DJ Mitchell,BR Hampton,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,6.6,Northern Districts,BR Hampton,DJ Mitchell,DJ Grobbelaar,0,1,,,1,,,"",""
+ball,1,7.1,Northern Districts,BR Hampton,DJ Mitchell,RM Hira,1,0,,,,,,"",""
+ball,1,7.2,Northern Districts,DJ Mitchell,BR Hampton,RM Hira,1,0,,,,,,"",""
+ball,1,7.3,Northern Districts,BR Hampton,DJ Mitchell,RM Hira,0,0,,,,,,"",""
+ball,1,7.4,Northern Districts,BR Hampton,DJ Mitchell,RM Hira,2,0,,,,,,"",""
+ball,1,7.5,Northern Districts,BR Hampton,DJ Mitchell,RM Hira,4,0,,,,,,"",""
+ball,1,7.6,Northern Districts,BR Hampton,DJ Mitchell,RM Hira,1,0,,,,,,"",""
+ball,1,8.1,Northern Districts,BR Hampton,DJ Mitchell,SM Solia,1,0,,,,,,"",""
+ball,1,8.2,Northern Districts,DJ Mitchell,BR Hampton,SM Solia,1,0,,,,,,"",""
+ball,1,8.3,Northern Districts,BR Hampton,DJ Mitchell,SM Solia,2,0,,,,,,"",""
+ball,1,8.4,Northern Districts,BR Hampton,DJ Mitchell,SM Solia,0,0,,,,,,caught,BR Hampton
+ball,1,8.5,Northern Districts,DJ Mitchell,CJ Anderson,SM Solia,1,0,,,,,,"",""
+ball,1,8.6,Northern Districts,CJ Anderson,DJ Mitchell,SM Solia,0,0,,,,,,"",""
+ball,1,9.1,Northern Districts,DJ Mitchell,CJ Anderson,WER Somerville,1,0,,,,,,"",""
+ball,1,9.2,Northern Districts,CJ Anderson,DJ Mitchell,WER Somerville,1,0,,,,,,"",""
+ball,1,9.3,Northern Districts,DJ Mitchell,CJ Anderson,WER Somerville,1,0,,,,,,"",""
+ball,1,9.4,Northern Districts,CJ Anderson,DJ Mitchell,WER Somerville,1,0,,,,,,"",""
+ball,1,9.5,Northern Districts,DJ Mitchell,CJ Anderson,WER Somerville,1,0,,,,,,"",""
+ball,1,9.6,Northern Districts,CJ Anderson,DJ Mitchell,WER Somerville,1,0,,,,,,"",""
+ball,1,10.1,Northern Districts,CJ Anderson,DJ Mitchell,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,10.2,Northern Districts,DJ Mitchell,CJ Anderson,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,10.3,Northern Districts,CJ Anderson,DJ Mitchell,DJ Grobbelaar,0,0,,,,,,"",""
+ball,1,10.4,Northern Districts,CJ Anderson,DJ Mitchell,DJ Grobbelaar,0,0,,,,,,caught,CJ Anderson
+ball,1,10.5,Northern Districts,DJ Mitchell,MJ Santner,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,10.6,Northern Districts,MJ Santner,DJ Mitchell,DJ Grobbelaar,4,0,,,,,,"",""
+ball,1,11.1,Northern Districts,DJ Mitchell,MJ Santner,RM Hira,1,0,,,,,,"",""
+ball,1,11.2,Northern Districts,MJ Santner,DJ Mitchell,RM Hira,1,0,,,,,,"",""
+ball,1,11.3,Northern Districts,DJ Mitchell,MJ Santner,RM Hira,1,0,,,,,,"",""
+ball,1,11.4,Northern Districts,MJ Santner,DJ Mitchell,RM Hira,1,0,,,,,,"",""
+ball,1,11.5,Northern Districts,DJ Mitchell,MJ Santner,RM Hira,1,0,,,,,,"",""
+ball,1,11.6,Northern Districts,MJ Santner,DJ Mitchell,RM Hira,2,0,,,,,,"",""
+ball,1,12.1,Northern Districts,DJ Mitchell,MJ Santner,SM Solia,1,0,,,,,,"",""
+ball,1,12.2,Northern Districts,MJ Santner,DJ Mitchell,SM Solia,1,0,,,,,,"",""
+ball,1,12.3,Northern Districts,DJ Mitchell,MJ Santner,SM Solia,1,0,,,,,,"",""
+ball,1,12.4,Northern Districts,MJ Santner,DJ Mitchell,SM Solia,1,0,,,,,,"",""
+ball,1,12.5,Northern Districts,DJ Mitchell,MJ Santner,SM Solia,6,0,,,,,,"",""
+ball,1,12.6,Northern Districts,DJ Mitchell,MJ Santner,SM Solia,1,0,,,,,,"",""
+ball,1,13.1,Northern Districts,DJ Mitchell,MJ Santner,WER Somerville,4,0,,,,,,"",""
+ball,1,13.2,Northern Districts,DJ Mitchell,MJ Santner,WER Somerville,1,0,,,,,,"",""
+ball,1,13.3,Northern Districts,MJ Santner,DJ Mitchell,WER Somerville,1,0,,,,,,"",""
+ball,1,13.4,Northern Districts,DJ Mitchell,MJ Santner,WER Somerville,1,0,,,,,,"",""
+ball,1,13.5,Northern Districts,MJ Santner,DJ Mitchell,WER Somerville,1,0,,,,,,"",""
+ball,1,13.6,Northern Districts,DJ Mitchell,MJ Santner,WER Somerville,2,0,,,,,,"",""
+ball,1,14.1,Northern Districts,MJ Santner,DJ Mitchell,DJ Grobbelaar,0,1,1,,,,,"",""
+ball,1,14.2,Northern Districts,MJ Santner,DJ Mitchell,DJ Grobbelaar,0,4,,,,4,,"",""
+ball,1,14.3,Northern Districts,MJ Santner,DJ Mitchell,DJ Grobbelaar,0,0,,,,,,bowled,MJ Santner
+ball,1,14.4,Northern Districts,DR Flynn,DJ Mitchell,DJ Grobbelaar,0,0,,,,,,bowled,DR Flynn
+ball,1,14.5,Northern Districts,CJ Jordan,DJ Mitchell,DJ Grobbelaar,0,0,,,,,,"",""
+ball,1,14.6,Northern Districts,CJ Jordan,DJ Mitchell,DJ Grobbelaar,0,0,,,,,,"",""
+ball,1,14.7,Northern Districts,CJ Jordan,DJ Mitchell,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,15.1,Northern Districts,CJ Jordan,DJ Mitchell,RM Hira,0,0,,,,,,"",""
+ball,1,15.2,Northern Districts,CJ Jordan,DJ Mitchell,RM Hira,1,0,,,,,,"",""
+ball,1,15.3,Northern Districts,DJ Mitchell,CJ Jordan,RM Hira,1,0,,,,,,"",""
+ball,1,15.4,Northern Districts,CJ Jordan,DJ Mitchell,RM Hira,0,0,,,,,,caught,CJ Jordan
+ball,1,15.5,Northern Districts,PD Bocock,DJ Mitchell,RM Hira,1,0,,,,,,"",""
+ball,1,15.6,Northern Districts,DJ Mitchell,PD Bocock,RM Hira,1,0,,,,,,"",""
+ball,1,16.1,Northern Districts,DJ Mitchell,PD Bocock,DJ Grobbelaar,4,0,,,,,,"",""
+ball,1,16.2,Northern Districts,DJ Mitchell,PD Bocock,DJ Grobbelaar,6,0,,,,,,"",""
+ball,1,16.3,Northern Districts,DJ Mitchell,PD Bocock,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,16.4,Northern Districts,PD Bocock,DJ Mitchell,DJ Grobbelaar,0,0,,,,,,"",""
+ball,1,16.5,Northern Districts,PD Bocock,DJ Mitchell,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,16.6,Northern Districts,DJ Mitchell,PD Bocock,DJ Grobbelaar,1,0,,,,,,"",""
+ball,1,17.1,Northern Districts,DJ Mitchell,PD Bocock,MR Quinn,1,0,,,,,,"",""
+ball,1,17.2,Northern Districts,PD Bocock,DJ Mitchell,MR Quinn,1,0,,,,,,"",""
+ball,1,17.3,Northern Districts,DJ Mitchell,PD Bocock,MR Quinn,1,0,,,,,,"",""
+ball,1,17.4,Northern Districts,PD Bocock,DJ Mitchell,MR Quinn,1,0,,,,,,"",""
+ball,1,17.5,Northern Districts,DJ Mitchell,PD Bocock,MR Quinn,2,0,,,,,,"",""
+ball,1,17.6,Northern Districts,DJ Mitchell,PD Bocock,MR Quinn,1,0,,,,,,"",""
+ball,1,18.1,Northern Districts,DJ Mitchell,PD Bocock,MJ McClenaghan,4,0,,,,,,"",""
+ball,1,18.2,Northern Districts,DJ Mitchell,PD Bocock,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,18.3,Northern Districts,DJ Mitchell,PD Bocock,MJ McClenaghan,2,0,,,,,,"",""
+ball,1,18.4,Northern Districts,DJ Mitchell,PD Bocock,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,18.5,Northern Districts,PD Bocock,DJ Mitchell,MJ McClenaghan,0,0,,,,,,caught,PD Bocock
+ball,1,18.6,Northern Districts,DJ Mitchell,SC Kuggeleijn,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,19.1,Northern Districts,DJ Mitchell,SC Kuggeleijn,MR Quinn,0,0,,,,,,caught,DJ Mitchell
+ball,1,19.2,Northern Districts,TS Nethula,SC Kuggeleijn,MR Quinn,1,0,,,,,,"",""
+ball,1,19.3,Northern Districts,SC Kuggeleijn,TS Nethula,MR Quinn,1,0,,,,,,"",""
+ball,1,19.4,Northern Districts,TS Nethula,SC Kuggeleijn,MR Quinn,0,1,1,,,,,"",""
+ball,1,19.5,Northern Districts,TS Nethula,SC Kuggeleijn,MR Quinn,1,0,,,,,,"",""
+ball,1,19.6,Northern Districts,SC Kuggeleijn,TS Nethula,MR Quinn,2,0,,,,,,"",""
+ball,1,19.7,Northern Districts,SC Kuggeleijn,TS Nethula,MR Quinn,0,1,,,1,,,"",""
+ball,2,0.1,Auckland,SM Solia,JM Vince,AP Devcich,0,0,,,,,,"",""
+ball,2,0.2,Auckland,SM Solia,JM Vince,AP Devcich,1,0,,,,,,"",""
+ball,2,0.3,Auckland,JM Vince,SM Solia,AP Devcich,0,0,,,,,,"",""
+ball,2,0.4,Auckland,JM Vince,SM Solia,AP Devcich,1,0,,,,,,"",""
+ball,2,0.5,Auckland,SM Solia,JM Vince,AP Devcich,0,0,,,,,,"",""
+ball,2,0.6,Auckland,SM Solia,JM Vince,AP Devcich,0,0,,,,,,"",""
+ball,2,1.1,Auckland,JM Vince,SM Solia,SC Kuggeleijn,0,0,,,,,,run out,JM Vince
+ball,2,1.2,Auckland,SM Solia,GD Phillips,SC Kuggeleijn,2,0,,,,,,"",""
+ball,2,1.3,Auckland,SM Solia,GD Phillips,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,1.4,Auckland,SM Solia,GD Phillips,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,1.5,Auckland,SM Solia,GD Phillips,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,1.6,Auckland,SM Solia,GD Phillips,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,2.1,Auckland,GD Phillips,SM Solia,AP Devcich,0,0,,,,,,"",""
+ball,2,2.2,Auckland,GD Phillips,SM Solia,AP Devcich,4,0,,,,,,"",""
+ball,2,2.3,Auckland,GD Phillips,SM Solia,AP Devcich,0,0,,,,,,"",""
+ball,2,2.4,Auckland,GD Phillips,SM Solia,AP Devcich,0,0,,,,,,"",""
+ball,2,2.5,Auckland,GD Phillips,SM Solia,AP Devcich,0,0,,,,,,"",""
+ball,2,2.6,Auckland,GD Phillips,SM Solia,AP Devcich,1,0,,,,,,"",""
+ball,2,3.1,Auckland,GD Phillips,SM Solia,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,3.2,Auckland,SM Solia,GD Phillips,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,3.3,Auckland,SM Solia,GD Phillips,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,3.4,Auckland,SM Solia,GD Phillips,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,3.5,Auckland,SM Solia,GD Phillips,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,3.6,Auckland,GD Phillips,SM Solia,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,4.1,Auckland,GD Phillips,SM Solia,CJ Jordan,4,0,,,,,,"",""
+ball,2,4.2,Auckland,GD Phillips,SM Solia,CJ Jordan,2,0,,,,,,"",""
+ball,2,4.3,Auckland,GD Phillips,SM Solia,CJ Jordan,1,0,,,,,,"",""
+ball,2,4.4,Auckland,SM Solia,GD Phillips,CJ Jordan,1,0,,,,,,"",""
+ball,2,4.5,Auckland,GD Phillips,SM Solia,CJ Jordan,1,0,,,,,,"",""
+ball,2,4.6,Auckland,SM Solia,GD Phillips,CJ Jordan,2,0,,,,,,"",""
+ball,2,5.1,Auckland,GD Phillips,SM Solia,DJ Mitchell,1,0,,,,,,"",""
+ball,2,5.2,Auckland,SM Solia,GD Phillips,DJ Mitchell,0,0,,,,,,"",""
+ball,2,5.3,Auckland,SM Solia,GD Phillips,DJ Mitchell,1,0,,,,,,"",""
+ball,2,5.4,Auckland,GD Phillips,SM Solia,DJ Mitchell,0,0,,,,,,"",""
+ball,2,5.5,Auckland,GD Phillips,SM Solia,DJ Mitchell,1,0,,,,,,"",""
+ball,2,5.6,Auckland,SM Solia,GD Phillips,DJ Mitchell,0,0,,,,,,"",""
+ball,2,6.1,Auckland,GD Phillips,SM Solia,MJ Santner,1,0,,,,,,"",""
+ball,2,6.2,Auckland,SM Solia,GD Phillips,MJ Santner,0,0,,,,,,"",""
+ball,2,6.3,Auckland,SM Solia,GD Phillips,MJ Santner,1,0,,,,,,"",""
+ball,2,6.4,Auckland,GD Phillips,SM Solia,MJ Santner,1,0,,,,,,"",""
+ball,2,6.5,Auckland,SM Solia,GD Phillips,MJ Santner,0,0,,,,,,"",""
+ball,2,6.6,Auckland,SM Solia,GD Phillips,MJ Santner,1,0,,,,,,"",""
+ball,2,7.1,Auckland,SM Solia,GD Phillips,TS Nethula,0,0,,,,,,"",""
+ball,2,7.2,Auckland,SM Solia,GD Phillips,TS Nethula,0,0,,,,,,"",""
+ball,2,7.3,Auckland,SM Solia,GD Phillips,TS Nethula,0,0,,,,,,"",""
+ball,2,7.4,Auckland,SM Solia,GD Phillips,TS Nethula,2,0,,,,,,"",""
+ball,2,7.5,Auckland,SM Solia,GD Phillips,TS Nethula,1,0,,,,,,"",""
+ball,2,7.6,Auckland,GD Phillips,SM Solia,TS Nethula,1,0,,,,,,"",""
+ball,2,8.1,Auckland,GD Phillips,SM Solia,MJ Santner,0,0,,,,,,caught,GD Phillips
+ball,2,8.2,Auckland,SM Solia,MS Chapman,MJ Santner,1,0,,,,,,"",""
+ball,2,8.3,Auckland,MS Chapman,SM Solia,MJ Santner,0,0,,,,,,"",""
+ball,2,8.4,Auckland,MS Chapman,SM Solia,MJ Santner,0,1,1,,,,,"",""
+ball,2,8.5,Auckland,MS Chapman,SM Solia,MJ Santner,0,1,1,,,,,stumped,MS Chapman
+ball,2,8.6,Auckland,Craig Cachopa,SM Solia,MJ Santner,1,0,,,,,,"",""
+ball,2,8.7,Auckland,SM Solia,Craig Cachopa,MJ Santner,1,0,,,,,,"",""
+ball,2,8.8,Auckland,Craig Cachopa,SM Solia,MJ Santner,1,0,,,,,,"",""
+ball,2,9.1,Auckland,Craig Cachopa,SM Solia,TS Nethula,1,0,,,,,,"",""
+ball,2,9.2,Auckland,SM Solia,Craig Cachopa,TS Nethula,1,0,,,,,,"",""
+ball,2,9.3,Auckland,Craig Cachopa,SM Solia,TS Nethula,4,0,,,,,,"",""
+ball,2,9.4,Auckland,Craig Cachopa,SM Solia,TS Nethula,1,0,,,,,,"",""
+ball,2,9.5,Auckland,SM Solia,Craig Cachopa,TS Nethula,1,0,,,,,,"",""
+ball,2,9.6,Auckland,Craig Cachopa,SM Solia,TS Nethula,0,0,,,,,,"",""
+ball,2,10.1,Auckland,SM Solia,Craig Cachopa,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.2,Auckland,Craig Cachopa,SM Solia,CJ Jordan,2,0,,,,,,"",""
+ball,2,10.3,Auckland,Craig Cachopa,SM Solia,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.4,Auckland,SM Solia,Craig Cachopa,CJ Jordan,0,0,,,,,,"",""
+ball,2,10.5,Auckland,SM Solia,Craig Cachopa,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.6,Auckland,Craig Cachopa,SM Solia,CJ Jordan,0,0,,,,,,"",""
+ball,2,11.1,Auckland,SM Solia,Craig Cachopa,TS Nethula,1,0,,,,,,"",""
+ball,2,11.2,Auckland,Craig Cachopa,SM Solia,TS Nethula,6,0,,,,,,"",""
+ball,2,11.3,Auckland,Craig Cachopa,SM Solia,TS Nethula,6,0,,,,,,"",""
+ball,2,11.4,Auckland,Craig Cachopa,SM Solia,TS Nethula,0,1,1,,,,,"",""
+ball,2,11.5,Auckland,Craig Cachopa,SM Solia,TS Nethula,1,0,,,,,,"",""
+ball,2,11.6,Auckland,SM Solia,Craig Cachopa,TS Nethula,0,0,,,,,,caught,SM Solia
+ball,2,11.7,Auckland,Craig Cachopa,RR O'Donnell,TS Nethula,4,0,,,,,,"",""
+ball,2,12.1,Auckland,RR O'Donnell,Craig Cachopa,MJ Santner,0,0,,,,,,"",""
+ball,2,12.2,Auckland,RR O'Donnell,Craig Cachopa,MJ Santner,1,0,,,,,,"",""
+ball,2,12.3,Auckland,Craig Cachopa,RR O'Donnell,MJ Santner,6,0,,,,,,"",""
+ball,2,12.4,Auckland,Craig Cachopa,RR O'Donnell,MJ Santner,4,0,,,,,,"",""
+ball,2,12.5,Auckland,Craig Cachopa,RR O'Donnell,MJ Santner,1,0,,,,,,"",""
+ball,2,12.6,Auckland,RR O'Donnell,Craig Cachopa,MJ Santner,1,0,,,,,,"",""
+ball,2,13.1,Auckland,RR O'Donnell,Craig Cachopa,AP Devcich,0,1,,,,1,,"",""
+ball,2,13.2,Auckland,Craig Cachopa,RR O'Donnell,AP Devcich,0,0,,,,,,caught,Craig Cachopa
+ball,2,13.3,Auckland,DJ Grobbelaar,RR O'Donnell,AP Devcich,1,0,,,,,,"",""
+ball,2,13.4,Auckland,RR O'Donnell,DJ Grobbelaar,AP Devcich,1,0,,,,,,"",""
+ball,2,13.5,Auckland,DJ Grobbelaar,RR O'Donnell,AP Devcich,0,0,,,,,,"",""
+ball,2,13.6,Auckland,DJ Grobbelaar,RR O'Donnell,AP Devcich,4,0,,,,,,"",""
+ball,2,14.1,Auckland,RR O'Donnell,DJ Grobbelaar,SC Kuggeleijn,0,0,,,,,,bowled,RR O'Donnell
+ball,2,14.2,Auckland,RM Hira,DJ Grobbelaar,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,14.3,Auckland,DJ Grobbelaar,RM Hira,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,14.4,Auckland,DJ Grobbelaar,RM Hira,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,2,14.5,Auckland,DJ Grobbelaar,RM Hira,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,2,14.6,Auckland,DJ Grobbelaar,RM Hira,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,14.7,Auckland,DJ Grobbelaar,RM Hira,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,14.8,Auckland,RM Hira,DJ Grobbelaar,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,15.1,Auckland,RM Hira,DJ Grobbelaar,CJ Jordan,4,0,,,,,,"",""
+ball,2,15.2,Auckland,RM Hira,DJ Grobbelaar,CJ Jordan,4,0,,,,,,"",""
+ball,2,15.3,Auckland,RM Hira,DJ Grobbelaar,CJ Jordan,0,0,,,,,,"",""
+ball,2,15.4,Auckland,RM Hira,DJ Grobbelaar,CJ Jordan,2,0,,,,,,"",""
+ball,2,15.5,Auckland,RM Hira,DJ Grobbelaar,CJ Jordan,0,0,,,,,,"",""
+ball,2,15.6,Auckland,RM Hira,DJ Grobbelaar,CJ Jordan,0,0,,,,,,"",""
+ball,2,16.1,Auckland,DJ Grobbelaar,RM Hira,SC Kuggeleijn,0,5,5,,,,,"",""
+ball,2,16.2,Auckland,DJ Grobbelaar,RM Hira,SC Kuggeleijn,2,0,,,,,,"",""
+ball,2,16.3,Auckland,DJ Grobbelaar,RM Hira,SC Kuggeleijn,0,0,,,,,,caught,DJ Grobbelaar
+ball,2,16.4,Auckland,RM Hira,WER Somerville,SC Kuggeleijn,0,0,,,,,,caught,RM Hira
+ball,2,16.5,Auckland,WER Somerville,MJ McClenaghan,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,16.6,Auckland,MJ McClenaghan,WER Somerville,SC Kuggeleijn,0,0,,,,,,caught,MJ McClenaghan
+ball,2,16.7,Auckland,MR Quinn,WER Somerville,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,17.1,Auckland,WER Somerville,MR Quinn,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.2,Auckland,MR Quinn,WER Somerville,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.3,Auckland,WER Somerville,MR Quinn,CJ Jordan,4,0,,,,,,"",""
+ball,2,17.4,Auckland,WER Somerville,MR Quinn,CJ Jordan,0,0,,,,,,"",""
+ball,2,17.5,Auckland,WER Somerville,MR Quinn,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.6,Auckland,MR Quinn,WER Somerville,CJ Jordan,0,0,,,,,,"",""
+ball,2,18.1,Auckland,WER Somerville,MR Quinn,MJ Santner,6,0,,,,,,"",""
+ball,2,18.2,Auckland,WER Somerville,MR Quinn,MJ Santner,0,0,,,,,,"",""
+ball,2,18.3,Auckland,WER Somerville,MR Quinn,MJ Santner,2,0,,,,,,"",""
+ball,2,18.4,Auckland,WER Somerville,MR Quinn,MJ Santner,0,0,,,,,,"",""
+ball,2,18.5,Auckland,WER Somerville,MR Quinn,MJ Santner,0,0,,,,,,"",""
+ball,2,18.6,Auckland,WER Somerville,MR Quinn,MJ Santner,6,0,,,,,,"",""
+ball,2,19.1,Auckland,MR Quinn,WER Somerville,DJ Mitchell,1,0,,,,,,"",""
+ball,2,19.2,Auckland,WER Somerville,MR Quinn,DJ Mitchell,0,0,,,,,,"",""
+ball,2,19.3,Auckland,WER Somerville,MR Quinn,DJ Mitchell,0,0,,,,,,"",""
+ball,2,19.4,Auckland,WER Somerville,MR Quinn,DJ Mitchell,4,0,,,,,,"",""
+ball,2,19.5,Auckland,WER Somerville,MR Quinn,DJ Mitchell,6,0,,,,,,"",""
+ball,2,19.6,Auckland,WER Somerville,MR Quinn,DJ Mitchell,6,0,,,,,,"",""

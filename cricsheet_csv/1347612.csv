@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Middlesex
+info,team,Gloucestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/04
+info,event,Vitality Blast
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,AG Wharf
+info,umpire,S Redfern
+info,match_referee,Phil Whitticase
+info,winner,Gloucestershire
+info,winner_wickets,7
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,PJ Malan
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JM De Caires
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,TG Helm
+info,player,Middlesex,BC Cullen
+info,player,Middlesex,TN Walallawita
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,DJ Lamb
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,TMJ Smith
+info,player,Gloucestershire,DA Payne
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,BC Cullen,39180894
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM De Caires,8cbcff3b
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,S Redfern,5b038989
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,TN Walallawita,64212089
+info,registry,people,Zafar Gohar,9fd3a210
+ball,1,0.1,Middlesex,SS Eskinazi,JB Cracknell,DA Payne,0,1,1,,,,,"",""
+ball,1,0.2,Middlesex,SS Eskinazi,JB Cracknell,DA Payne,1,0,,,,,,"",""
+ball,1,0.3,Middlesex,JB Cracknell,SS Eskinazi,DA Payne,0,0,,,,,,"",""
+ball,1,0.4,Middlesex,JB Cracknell,SS Eskinazi,DA Payne,1,0,,,,,,"",""
+ball,1,0.5,Middlesex,SS Eskinazi,JB Cracknell,DA Payne,0,0,,,,,,caught,SS Eskinazi
+ball,1,0.6,Middlesex,PJ Malan,JB Cracknell,DA Payne,0,0,,,,,,"",""
+ball,1,0.7,Middlesex,PJ Malan,JB Cracknell,DA Payne,1,0,,,,,,"",""
+ball,1,1.1,Middlesex,PJ Malan,JB Cracknell,MD Taylor,1,0,,,,,,"",""
+ball,1,1.2,Middlesex,JB Cracknell,PJ Malan,MD Taylor,1,0,,,,,,"",""
+ball,1,1.3,Middlesex,PJ Malan,JB Cracknell,MD Taylor,0,0,,,,,,"",""
+ball,1,1.4,Middlesex,PJ Malan,JB Cracknell,MD Taylor,2,0,,,,,,"",""
+ball,1,1.5,Middlesex,PJ Malan,JB Cracknell,MD Taylor,1,0,,,,,,"",""
+ball,1,1.6,Middlesex,JB Cracknell,PJ Malan,MD Taylor,0,0,,,,,,"",""
+ball,1,2.1,Middlesex,PJ Malan,JB Cracknell,DJ Lamb,4,0,,,,,,"",""
+ball,1,2.2,Middlesex,PJ Malan,JB Cracknell,DJ Lamb,4,0,,,,,,"",""
+ball,1,2.3,Middlesex,PJ Malan,JB Cracknell,DJ Lamb,0,1,,,,1,,"",""
+ball,1,2.4,Middlesex,JB Cracknell,PJ Malan,DJ Lamb,0,1,1,,,,,"",""
+ball,1,2.5,Middlesex,JB Cracknell,PJ Malan,DJ Lamb,0,0,,,,,,"",""
+ball,1,2.6,Middlesex,JB Cracknell,PJ Malan,DJ Lamb,0,1,1,,,,,"",""
+ball,1,2.7,Middlesex,JB Cracknell,PJ Malan,DJ Lamb,0,0,,,,,,caught,JB Cracknell
+ball,1,2.8,Middlesex,MDE Holden,PJ Malan,DJ Lamb,0,0,,,,,,"",""
+ball,1,3.1,Middlesex,PJ Malan,MDE Holden,Zafar Gohar,0,0,,,,,,"",""
+ball,1,3.2,Middlesex,PJ Malan,MDE Holden,Zafar Gohar,0,0,,,,,,"",""
+ball,1,3.3,Middlesex,PJ Malan,MDE Holden,Zafar Gohar,1,0,,,,,,"",""
+ball,1,3.4,Middlesex,MDE Holden,PJ Malan,Zafar Gohar,1,0,,,,,,"",""
+ball,1,3.5,Middlesex,PJ Malan,MDE Holden,Zafar Gohar,4,0,,,,,,"",""
+ball,1,3.6,Middlesex,PJ Malan,MDE Holden,Zafar Gohar,0,0,,,,,,"",""
+ball,1,4.1,Middlesex,MDE Holden,PJ Malan,DA Payne,4,0,,,,,,"",""
+ball,1,4.2,Middlesex,MDE Holden,PJ Malan,DA Payne,0,0,,,,,,"",""
+ball,1,4.3,Middlesex,MDE Holden,PJ Malan,DA Payne,0,0,,,,,,"",""
+ball,1,4.4,Middlesex,MDE Holden,PJ Malan,DA Payne,4,0,,,,,,"",""
+ball,1,4.5,Middlesex,MDE Holden,PJ Malan,DA Payne,1,0,,,,,,"",""
+ball,1,4.6,Middlesex,PJ Malan,MDE Holden,DA Payne,1,0,,,,,,"",""
+ball,1,5.1,Middlesex,PJ Malan,MDE Holden,MD Taylor,1,0,,,,,,"",""
+ball,1,5.2,Middlesex,MDE Holden,PJ Malan,MD Taylor,0,0,,,,,,"",""
+ball,1,5.3,Middlesex,MDE Holden,PJ Malan,MD Taylor,1,0,,,,,,"",""
+ball,1,5.4,Middlesex,PJ Malan,MDE Holden,MD Taylor,0,0,,,,,,"",""
+ball,1,5.5,Middlesex,PJ Malan,MDE Holden,MD Taylor,1,0,,,,,,"",""
+ball,1,5.6,Middlesex,MDE Holden,PJ Malan,MD Taylor,6,0,,,,,,"",""
+ball,1,6.1,Middlesex,PJ Malan,MDE Holden,OJ Price,0,0,,,,,,caught,PJ Malan
+ball,1,6.2,Middlesex,RF Higgins,MDE Holden,OJ Price,0,0,,,,,,"",""
+ball,1,6.3,Middlesex,RF Higgins,MDE Holden,OJ Price,1,0,,,,,,"",""
+ball,1,6.4,Middlesex,MDE Holden,RF Higgins,OJ Price,4,0,,,,,,"",""
+ball,1,6.5,Middlesex,MDE Holden,RF Higgins,OJ Price,1,0,,,,,,"",""
+ball,1,6.6,Middlesex,RF Higgins,MDE Holden,OJ Price,0,0,,,,,,"",""
+ball,1,7.1,Middlesex,MDE Holden,RF Higgins,Zafar Gohar,1,0,,,,,,"",""
+ball,1,7.2,Middlesex,RF Higgins,MDE Holden,Zafar Gohar,0,0,,,,,,bowled,RF Higgins
+ball,1,7.3,Middlesex,JM De Caires,MDE Holden,Zafar Gohar,1,0,,,,,,"",""
+ball,1,7.4,Middlesex,MDE Holden,JM De Caires,Zafar Gohar,1,0,,,,,,"",""
+ball,1,7.5,Middlesex,JM De Caires,MDE Holden,Zafar Gohar,0,0,,,,,,"",""
+ball,1,7.6,Middlesex,JM De Caires,MDE Holden,Zafar Gohar,1,0,,,,,,"",""
+ball,1,8.1,Middlesex,JM De Caires,MDE Holden,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.2,Middlesex,MDE Holden,JM De Caires,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.3,Middlesex,JM De Caires,MDE Holden,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.4,Middlesex,MDE Holden,JM De Caires,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.5,Middlesex,JM De Caires,MDE Holden,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.6,Middlesex,MDE Holden,JM De Caires,TMJ Smith,1,0,,,,,,"",""
+ball,1,9.1,Middlesex,MDE Holden,JM De Caires,Zafar Gohar,1,0,,,,,,"",""
+ball,1,9.2,Middlesex,JM De Caires,MDE Holden,Zafar Gohar,0,0,,,,,,"",""
+ball,1,9.3,Middlesex,JM De Caires,MDE Holden,Zafar Gohar,4,0,,,,,,"",""
+ball,1,9.4,Middlesex,JM De Caires,MDE Holden,Zafar Gohar,1,0,,,,,,"",""
+ball,1,9.5,Middlesex,MDE Holden,JM De Caires,Zafar Gohar,1,0,,,,,,"",""
+ball,1,9.6,Middlesex,JM De Caires,MDE Holden,Zafar Gohar,1,0,,,,,,"",""
+ball,1,10.1,Middlesex,JM De Caires,MDE Holden,TMJ Smith,0,0,,,,,,"",""
+ball,1,10.2,Middlesex,JM De Caires,MDE Holden,TMJ Smith,1,0,,,,,,"",""
+ball,1,10.3,Middlesex,MDE Holden,JM De Caires,TMJ Smith,4,0,,,,,,"",""
+ball,1,10.4,Middlesex,MDE Holden,JM De Caires,TMJ Smith,1,0,,,,,,"",""
+ball,1,10.5,Middlesex,JM De Caires,MDE Holden,TMJ Smith,1,0,,,,,,"",""
+ball,1,10.6,Middlesex,MDE Holden,JM De Caires,TMJ Smith,0,0,,,,,,caught,MDE Holden
+ball,1,11.1,Middlesex,JM De Caires,JLB Davies,DJ Lamb,1,0,,,,,,"",""
+ball,1,11.2,Middlesex,JLB Davies,JM De Caires,DJ Lamb,0,0,,,,,,"",""
+ball,1,11.3,Middlesex,JLB Davies,JM De Caires,DJ Lamb,1,0,,,,,,"",""
+ball,1,11.4,Middlesex,JM De Caires,JLB Davies,DJ Lamb,1,0,,,,,,"",""
+ball,1,11.5,Middlesex,JLB Davies,JM De Caires,DJ Lamb,2,0,,,,,,"",""
+ball,1,11.6,Middlesex,JLB Davies,JM De Caires,DJ Lamb,1,0,,,,,,"",""
+ball,1,12.1,Middlesex,JLB Davies,JM De Caires,Zafar Gohar,0,0,,,,,,"",""
+ball,1,12.2,Middlesex,JLB Davies,JM De Caires,Zafar Gohar,1,0,,,,,,"",""
+ball,1,12.3,Middlesex,JM De Caires,JLB Davies,Zafar Gohar,1,0,,,,,,"",""
+ball,1,12.4,Middlesex,JLB Davies,JM De Caires,Zafar Gohar,1,0,,,,,,"",""
+ball,1,12.5,Middlesex,JM De Caires,JLB Davies,Zafar Gohar,1,0,,,,,,"",""
+ball,1,12.6,Middlesex,JLB Davies,JM De Caires,Zafar Gohar,1,0,,,,,,"",""
+ball,1,13.1,Middlesex,JLB Davies,JM De Caires,MD Taylor,2,0,,,,,,"",""
+ball,1,13.2,Middlesex,JLB Davies,JM De Caires,MD Taylor,1,0,,,,,,"",""
+ball,1,13.3,Middlesex,JM De Caires,JLB Davies,MD Taylor,1,0,,,,,,"",""
+ball,1,13.4,Middlesex,JLB Davies,JM De Caires,MD Taylor,4,0,,,,,,"",""
+ball,1,13.5,Middlesex,JLB Davies,JM De Caires,MD Taylor,1,0,,,,,,"",""
+ball,1,13.6,Middlesex,JM De Caires,JLB Davies,MD Taylor,0,0,,,,,,"",""
+ball,1,14.1,Middlesex,JLB Davies,JM De Caires,OJ Price,0,0,,,,,,"",""
+ball,1,14.2,Middlesex,JLB Davies,JM De Caires,OJ Price,4,0,,,,,,"",""
+ball,1,14.3,Middlesex,JLB Davies,JM De Caires,OJ Price,4,0,,,,,,"",""
+ball,1,14.4,Middlesex,JLB Davies,JM De Caires,OJ Price,1,0,,,,,,"",""
+ball,1,14.5,Middlesex,JM De Caires,JLB Davies,OJ Price,0,0,,,,,,caught,JM De Caires
+ball,1,14.6,Middlesex,LBK Hollman,JLB Davies,OJ Price,0,2,2,,,,,"",""
+ball,1,14.7,Middlesex,JLB Davies,LBK Hollman,OJ Price,1,0,,,,,,"",""
+ball,1,15.1,Middlesex,JLB Davies,LBK Hollman,DJ Lamb,2,0,,,,,,"",""
+ball,1,15.2,Middlesex,JLB Davies,LBK Hollman,DJ Lamb,2,0,,,,,,"",""
+ball,1,15.3,Middlesex,JLB Davies,LBK Hollman,DJ Lamb,0,0,,,,,,"",""
+ball,1,15.4,Middlesex,JLB Davies,LBK Hollman,DJ Lamb,1,0,,,,,,"",""
+ball,1,15.5,Middlesex,LBK Hollman,JLB Davies,DJ Lamb,1,0,,,,,,run out,LBK Hollman
+ball,1,15.6,Middlesex,TG Helm,JLB Davies,DJ Lamb,0,0,,,,,,"",""
+ball,1,16.1,Middlesex,JLB Davies,TG Helm,DA Payne,1,0,,,,,,"",""
+ball,1,16.2,Middlesex,TG Helm,JLB Davies,DA Payne,1,0,,,,,,"",""
+ball,1,16.3,Middlesex,JLB Davies,TG Helm,DA Payne,1,0,,,,,,"",""
+ball,1,16.4,Middlesex,TG Helm,JLB Davies,DA Payne,0,0,,,,,,caught,TG Helm
+ball,1,16.5,Middlesex,BC Cullen,JLB Davies,DA Payne,1,0,,,,,,"",""
+ball,1,16.6,Middlesex,JLB Davies,BC Cullen,DA Payne,1,0,,,,,,"",""
+ball,1,17.1,Middlesex,JLB Davies,BC Cullen,DJ Lamb,6,0,,,,,,"",""
+ball,1,17.2,Middlesex,JLB Davies,BC Cullen,DJ Lamb,1,0,,,,,,"",""
+ball,1,17.3,Middlesex,BC Cullen,JLB Davies,DJ Lamb,1,0,,,,,,"",""
+ball,1,17.4,Middlesex,JLB Davies,BC Cullen,DJ Lamb,1,0,,,,,,"",""
+ball,1,17.5,Middlesex,BC Cullen,JLB Davies,DJ Lamb,0,1,,,,1,,"",""
+ball,1,17.6,Middlesex,JLB Davies,BC Cullen,DJ Lamb,1,0,,,,,,"",""
+ball,1,18.1,Middlesex,JLB Davies,BC Cullen,DA Payne,0,0,,,,,,"",""
+ball,1,18.2,Middlesex,JLB Davies,BC Cullen,DA Payne,1,0,,,,,,"",""
+ball,1,18.3,Middlesex,BC Cullen,JLB Davies,DA Payne,0,0,,,,,,"",""
+ball,1,18.4,Middlesex,BC Cullen,JLB Davies,DA Payne,0,0,,,,,,"",""
+ball,1,18.5,Middlesex,BC Cullen,JLB Davies,DA Payne,1,0,,,,,,"",""
+ball,1,18.6,Middlesex,JLB Davies,BC Cullen,DA Payne,0,0,,,,,,"",""
+ball,1,19.1,Middlesex,BC Cullen,JLB Davies,MD Taylor,0,0,,,,,,"",""
+ball,1,19.2,Middlesex,BC Cullen,JLB Davies,MD Taylor,1,0,,,,,,"",""
+ball,1,19.3,Middlesex,JLB Davies,BC Cullen,MD Taylor,2,0,,,,,,"",""
+ball,1,19.4,Middlesex,JLB Davies,BC Cullen,MD Taylor,1,0,,,,,,"",""
+ball,1,19.5,Middlesex,BC Cullen,JLB Davies,MD Taylor,2,0,,,,,,"",""
+ball,1,19.6,Middlesex,BC Cullen,JLB Davies,MD Taylor,1,0,,,,,,run out,BC Cullen
+ball,2,0.1,Gloucestershire,Miles Hammond,BG Charlesworth,TG Helm,0,0,,,,,,"",""
+ball,2,0.2,Gloucestershire,Miles Hammond,BG Charlesworth,TG Helm,1,0,,,,,,"",""
+ball,2,0.3,Gloucestershire,BG Charlesworth,Miles Hammond,TG Helm,1,0,,,,,,"",""
+ball,2,0.4,Gloucestershire,Miles Hammond,BG Charlesworth,TG Helm,0,0,,,,,,"",""
+ball,2,0.5,Gloucestershire,Miles Hammond,BG Charlesworth,TG Helm,0,0,,,,,,"",""
+ball,2,0.6,Gloucestershire,Miles Hammond,BG Charlesworth,TG Helm,0,0,,,,,,"",""
+ball,2,1.1,Gloucestershire,BG Charlesworth,Miles Hammond,BC Cullen,1,0,,,,,,"",""
+ball,2,1.2,Gloucestershire,Miles Hammond,BG Charlesworth,BC Cullen,4,0,,,,,,"",""
+ball,2,1.3,Gloucestershire,Miles Hammond,BG Charlesworth,BC Cullen,0,0,,,,,,"",""
+ball,2,1.4,Gloucestershire,Miles Hammond,BG Charlesworth,BC Cullen,4,0,,,,,,"",""
+ball,2,1.5,Gloucestershire,Miles Hammond,BG Charlesworth,BC Cullen,1,0,,,,,,"",""
+ball,2,1.6,Gloucestershire,BG Charlesworth,Miles Hammond,BC Cullen,1,0,,,,,,"",""
+ball,2,2.1,Gloucestershire,BG Charlesworth,Miles Hammond,TG Helm,2,0,,,,,,"",""
+ball,2,2.2,Gloucestershire,BG Charlesworth,Miles Hammond,TG Helm,0,0,,,,,,"",""
+ball,2,2.3,Gloucestershire,BG Charlesworth,Miles Hammond,TG Helm,1,0,,,,,,"",""
+ball,2,2.4,Gloucestershire,Miles Hammond,BG Charlesworth,TG Helm,0,0,,,,,,"",""
+ball,2,2.5,Gloucestershire,Miles Hammond,BG Charlesworth,TG Helm,1,0,,,,,,"",""
+ball,2,2.6,Gloucestershire,BG Charlesworth,Miles Hammond,TG Helm,6,0,,,,,,"",""
+ball,2,3.1,Gloucestershire,Miles Hammond,BG Charlesworth,JM De Caires,1,0,,,,,,"",""
+ball,2,3.2,Gloucestershire,BG Charlesworth,Miles Hammond,JM De Caires,0,0,,,,,,stumped,BG Charlesworth
+ball,2,3.3,Gloucestershire,OJ Price,Miles Hammond,JM De Caires,0,0,,,,,,"",""
+ball,2,3.4,Gloucestershire,OJ Price,Miles Hammond,JM De Caires,0,0,,,,,,"",""
+ball,2,3.5,Gloucestershire,OJ Price,Miles Hammond,JM De Caires,1,0,,,,,,"",""
+ball,2,3.6,Gloucestershire,Miles Hammond,OJ Price,JM De Caires,1,0,,,,,,"",""
+ball,2,4.1,Gloucestershire,Miles Hammond,OJ Price,BC Cullen,0,0,,,,,,"",""
+ball,2,4.2,Gloucestershire,Miles Hammond,OJ Price,BC Cullen,1,0,,,,,,"",""
+ball,2,4.3,Gloucestershire,OJ Price,Miles Hammond,BC Cullen,1,0,,,,,,"",""
+ball,2,4.4,Gloucestershire,Miles Hammond,OJ Price,BC Cullen,4,0,,,,,,"",""
+ball,2,4.5,Gloucestershire,Miles Hammond,OJ Price,BC Cullen,0,0,,,,,,"",""
+ball,2,4.6,Gloucestershire,Miles Hammond,OJ Price,BC Cullen,1,0,,,,,,"",""
+ball,2,5.1,Gloucestershire,Miles Hammond,OJ Price,TN Walallawita,0,0,,,,,,"",""
+ball,2,5.2,Gloucestershire,Miles Hammond,OJ Price,TN Walallawita,4,0,,,,,,"",""
+ball,2,5.3,Gloucestershire,Miles Hammond,OJ Price,TN Walallawita,1,0,,,,,,"",""
+ball,2,5.4,Gloucestershire,OJ Price,Miles Hammond,TN Walallawita,4,0,,,,,,"",""
+ball,2,5.5,Gloucestershire,OJ Price,Miles Hammond,TN Walallawita,1,0,,,,,,"",""
+ball,2,5.6,Gloucestershire,Miles Hammond,OJ Price,TN Walallawita,0,0,,,,,,"",""
+ball,2,6.1,Gloucestershire,OJ Price,Miles Hammond,JM De Caires,0,0,,,,,,"",""
+ball,2,6.2,Gloucestershire,OJ Price,Miles Hammond,JM De Caires,4,0,,,,,,"",""
+ball,2,6.3,Gloucestershire,OJ Price,Miles Hammond,JM De Caires,4,0,,,,,,"",""
+ball,2,6.4,Gloucestershire,OJ Price,Miles Hammond,JM De Caires,1,0,,,,,,"",""
+ball,2,6.5,Gloucestershire,Miles Hammond,OJ Price,JM De Caires,0,0,,,,,,"",""
+ball,2,6.6,Gloucestershire,Miles Hammond,OJ Price,JM De Caires,0,0,,,,,,"",""
+ball,2,7.1,Gloucestershire,OJ Price,Miles Hammond,LBK Hollman,1,0,,,,,,"",""
+ball,2,7.2,Gloucestershire,Miles Hammond,OJ Price,LBK Hollman,1,0,,,,,,"",""
+ball,2,7.3,Gloucestershire,OJ Price,Miles Hammond,LBK Hollman,1,0,,,,,,"",""
+ball,2,7.4,Gloucestershire,Miles Hammond,OJ Price,LBK Hollman,2,0,,,,,,"",""
+ball,2,7.5,Gloucestershire,Miles Hammond,OJ Price,LBK Hollman,0,0,,,,,,"",""
+ball,2,7.6,Gloucestershire,Miles Hammond,OJ Price,LBK Hollman,1,0,,,,,,"",""
+ball,2,8.1,Gloucestershire,Miles Hammond,OJ Price,TN Walallawita,0,1,,,,1,,"",""
+ball,2,8.2,Gloucestershire,OJ Price,Miles Hammond,TN Walallawita,1,0,,,,,,"",""
+ball,2,8.3,Gloucestershire,Miles Hammond,OJ Price,TN Walallawita,1,0,,,,,,"",""
+ball,2,8.4,Gloucestershire,OJ Price,Miles Hammond,TN Walallawita,4,0,,,,,,"",""
+ball,2,8.5,Gloucestershire,OJ Price,Miles Hammond,TN Walallawita,4,0,,,,,,"",""
+ball,2,8.6,Gloucestershire,OJ Price,Miles Hammond,TN Walallawita,0,0,,,,,,"",""
+ball,2,9.1,Gloucestershire,Miles Hammond,OJ Price,JM De Caires,0,0,,,,,,"",""
+ball,2,9.2,Gloucestershire,Miles Hammond,OJ Price,JM De Caires,1,0,,,,,,"",""
+ball,2,9.3,Gloucestershire,OJ Price,Miles Hammond,JM De Caires,1,0,,,,,,"",""
+ball,2,9.4,Gloucestershire,Miles Hammond,OJ Price,JM De Caires,1,0,,,,,,"",""
+ball,2,9.5,Gloucestershire,OJ Price,Miles Hammond,JM De Caires,1,0,,,,,,"",""
+ball,2,9.6,Gloucestershire,Miles Hammond,OJ Price,JM De Caires,0,0,,,,,,"",""
+ball,2,10.1,Gloucestershire,OJ Price,Miles Hammond,BC Cullen,0,0,,,,,,"",""
+ball,2,10.2,Gloucestershire,OJ Price,Miles Hammond,BC Cullen,1,0,,,,,,"",""
+ball,2,10.3,Gloucestershire,Miles Hammond,OJ Price,BC Cullen,1,0,,,,,,"",""
+ball,2,10.4,Gloucestershire,OJ Price,Miles Hammond,BC Cullen,0,0,,,,,,"",""
+ball,2,10.5,Gloucestershire,OJ Price,Miles Hammond,BC Cullen,1,0,,,,,,"",""
+ball,2,10.6,Gloucestershire,Miles Hammond,OJ Price,BC Cullen,0,1,1,,,,,"",""
+ball,2,10.7,Gloucestershire,Miles Hammond,OJ Price,BC Cullen,0,4,,,4,,,"",""
+ball,2,11.1,Gloucestershire,OJ Price,Miles Hammond,LBK Hollman,0,0,,,,,,"",""
+ball,2,11.2,Gloucestershire,OJ Price,Miles Hammond,LBK Hollman,1,0,,,,,,"",""
+ball,2,11.3,Gloucestershire,Miles Hammond,OJ Price,LBK Hollman,2,0,,,,,,"",""
+ball,2,11.4,Gloucestershire,Miles Hammond,OJ Price,LBK Hollman,0,0,,,,,,caught,Miles Hammond
+ball,2,11.5,Gloucestershire,Zafar Gohar,OJ Price,LBK Hollman,1,0,,,,,,"",""
+ball,2,11.6,Gloucestershire,OJ Price,Zafar Gohar,LBK Hollman,0,0,,,,,,"",""
+ball,2,12.1,Gloucestershire,Zafar Gohar,OJ Price,TN Walallawita,6,0,,,,,,"",""
+ball,2,12.2,Gloucestershire,Zafar Gohar,OJ Price,TN Walallawita,0,1,1,,,,,"",""
+ball,2,12.3,Gloucestershire,Zafar Gohar,OJ Price,TN Walallawita,1,0,,,,,,"",""
+ball,2,12.4,Gloucestershire,OJ Price,Zafar Gohar,TN Walallawita,1,0,,,,,,"",""
+ball,2,12.5,Gloucestershire,Zafar Gohar,OJ Price,TN Walallawita,0,0,,,,,,"",""
+ball,2,12.6,Gloucestershire,Zafar Gohar,OJ Price,TN Walallawita,0,0,,,,,,"",""
+ball,2,12.7,Gloucestershire,Zafar Gohar,OJ Price,TN Walallawita,1,0,,,,,,"",""
+ball,2,13.1,Gloucestershire,Zafar Gohar,OJ Price,LBK Hollman,1,0,,,,,,"",""
+ball,2,13.2,Gloucestershire,OJ Price,Zafar Gohar,LBK Hollman,0,0,,,,,,"",""
+ball,2,13.3,Gloucestershire,OJ Price,Zafar Gohar,LBK Hollman,1,0,,,,,,"",""
+ball,2,13.4,Gloucestershire,Zafar Gohar,OJ Price,LBK Hollman,1,0,,,,,,"",""
+ball,2,13.5,Gloucestershire,OJ Price,Zafar Gohar,LBK Hollman,1,0,,,,,,"",""
+ball,2,13.6,Gloucestershire,Zafar Gohar,OJ Price,LBK Hollman,1,0,,,,,,"",""
+ball,2,14.1,Gloucestershire,Zafar Gohar,OJ Price,TG Helm,1,0,,,,,,"",""
+ball,2,14.2,Gloucestershire,OJ Price,Zafar Gohar,TG Helm,4,0,,,,,,"",""
+ball,2,14.3,Gloucestershire,OJ Price,Zafar Gohar,TG Helm,0,2,,2,,,,"",""
+ball,2,14.4,Gloucestershire,OJ Price,Zafar Gohar,TG Helm,1,0,,,,,,"",""
+ball,2,14.5,Gloucestershire,Zafar Gohar,OJ Price,TG Helm,4,0,,,,,,"",""
+ball,2,14.6,Gloucestershire,Zafar Gohar,OJ Price,TG Helm,1,0,,,,,,"",""
+ball,2,14.7,Gloucestershire,OJ Price,Zafar Gohar,TG Helm,0,0,,,,,,"",""
+ball,2,15.1,Gloucestershire,Zafar Gohar,OJ Price,JM De Caires,1,0,,,,,,"",""
+ball,2,15.2,Gloucestershire,OJ Price,Zafar Gohar,JM De Caires,2,0,,,,,,"",""
+ball,2,15.3,Gloucestershire,OJ Price,Zafar Gohar,JM De Caires,1,0,,,,,,"",""
+ball,2,15.4,Gloucestershire,Zafar Gohar,OJ Price,JM De Caires,1,0,,,,,,"",""
+ball,2,15.5,Gloucestershire,OJ Price,Zafar Gohar,JM De Caires,1,0,,,,,,"",""
+ball,2,15.6,Gloucestershire,Zafar Gohar,OJ Price,JM De Caires,2,0,,,,,,"",""
+ball,2,16.1,Gloucestershire,OJ Price,Zafar Gohar,LBK Hollman,1,0,,,,,,"",""
+ball,2,16.2,Gloucestershire,Zafar Gohar,OJ Price,LBK Hollman,2,0,,,,,,"",""
+ball,2,16.3,Gloucestershire,Zafar Gohar,OJ Price,LBK Hollman,1,0,,,,,,"",""
+ball,2,16.4,Gloucestershire,OJ Price,Zafar Gohar,LBK Hollman,1,0,,,,,,"",""
+ball,2,16.5,Gloucestershire,Zafar Gohar,OJ Price,LBK Hollman,1,0,,,,,,"",""
+ball,2,16.6,Gloucestershire,OJ Price,Zafar Gohar,LBK Hollman,0,0,,,,,,"",""
+ball,2,17.1,Gloucestershire,Zafar Gohar,OJ Price,TN Walallawita,4,0,,,,,,"",""
+ball,2,17.2,Gloucestershire,Zafar Gohar,OJ Price,TN Walallawita,4,0,,,,,,"",""
+ball,2,17.3,Gloucestershire,Zafar Gohar,OJ Price,TN Walallawita,1,0,,,,,,"",""
+ball,2,17.4,Gloucestershire,OJ Price,Zafar Gohar,TN Walallawita,0,0,,,,,,stumped,OJ Price
+ball,2,17.5,Gloucestershire,JMR Taylor,Zafar Gohar,TN Walallawita,1,0,,,,,,"",""
+ball,2,17.6,Gloucestershire,Zafar Gohar,JMR Taylor,TN Walallawita,2,0,,,,,,"",""
+ball,2,18.1,Gloucestershire,JMR Taylor,Zafar Gohar,TG Helm,0,0,,,,,,"",""
+ball,2,18.2,Gloucestershire,JMR Taylor,Zafar Gohar,TG Helm,1,0,,,,,,"",""

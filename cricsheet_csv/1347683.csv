@@ -1,0 +1,258 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Kent
+info,gender,male
+info,season,2023
+info,date,2023/06/30
+info,event,Vitality Blast
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,NL Bainton
+info,umpire,NJ Llong
+info,match_referee,H Pack
+info,winner,Sussex
+info,winner_runs,11
+info,method,D/L
+info,player,Sussex,HD Ward
+info,player,Sussex,TGR Clark
+info,player,Sussex,OJ Carter
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,N McAndrew
+info,player,Sussex,A Karvelas
+info,player,Sussex,TS Mills
+info,player,Sussex,BJ Currie
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,AJ Blake
+info,player,Kent,SW Billings
+info,player,Kent,GF Linde
+info,player,Kent,JM Cox
+info,player,Kent,JA Leaning
+info,player,Kent,G Stewart
+info,player,Kent,JDM Evison
+info,player,Kent,MR Quinn
+info,player,Kent,MG Hogan
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,H Pack,fed53c91
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,MG Hogan,5da34add
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MR Quinn,b082d112
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TS Mills,245c97cb
+info,registry,people,TS Muyeye,10b79140
+ball,1,0.1,Sussex,HD Ward,TGR Clark,JA Leaning,0,0,,,,,,"",""
+ball,1,0.2,Sussex,HD Ward,TGR Clark,JA Leaning,4,0,,,,,,"",""
+ball,1,0.3,Sussex,HD Ward,TGR Clark,JA Leaning,1,0,,,,,,"",""
+ball,1,0.4,Sussex,TGR Clark,HD Ward,JA Leaning,1,0,,,,,,"",""
+ball,1,0.5,Sussex,HD Ward,TGR Clark,JA Leaning,0,0,,,,,,bowled,HD Ward
+ball,1,0.6,Sussex,OJ Carter,TGR Clark,JA Leaning,1,0,,,,,,"",""
+ball,1,1.1,Sussex,OJ Carter,TGR Clark,MG Hogan,1,0,,,,,,"",""
+ball,1,1.2,Sussex,TGR Clark,OJ Carter,MG Hogan,4,0,,,,,,"",""
+ball,1,1.3,Sussex,TGR Clark,OJ Carter,MG Hogan,0,0,,,,,,"",""
+ball,1,1.4,Sussex,TGR Clark,OJ Carter,MG Hogan,1,0,,,,,,"",""
+ball,1,1.5,Sussex,OJ Carter,TGR Clark,MG Hogan,1,0,,,,,,"",""
+ball,1,1.6,Sussex,TGR Clark,OJ Carter,MG Hogan,0,0,,,,,,"",""
+ball,1,2.1,Sussex,OJ Carter,TGR Clark,MR Quinn,0,0,,,,,,"",""
+ball,1,2.2,Sussex,OJ Carter,TGR Clark,MR Quinn,0,0,,,,,,caught,OJ Carter
+ball,1,2.3,Sussex,RS Bopara,TGR Clark,MR Quinn,4,0,,,,,,"",""
+ball,1,2.4,Sussex,RS Bopara,TGR Clark,MR Quinn,0,0,,,,,,"",""
+ball,1,2.5,Sussex,RS Bopara,TGR Clark,MR Quinn,6,0,,,,,,"",""
+ball,1,2.6,Sussex,RS Bopara,TGR Clark,MR Quinn,4,0,,,,,,"",""
+ball,1,3.1,Sussex,TGR Clark,RS Bopara,JA Leaning,2,0,,,,,,"",""
+ball,1,3.2,Sussex,TGR Clark,RS Bopara,JA Leaning,4,0,,,,,,"",""
+ball,1,3.3,Sussex,TGR Clark,RS Bopara,JA Leaning,2,0,,,,,,"",""
+ball,1,3.4,Sussex,TGR Clark,RS Bopara,JA Leaning,4,0,,,,,,"",""
+ball,1,3.5,Sussex,TGR Clark,RS Bopara,JA Leaning,0,0,,,,,,"",""
+ball,1,3.6,Sussex,TGR Clark,RS Bopara,JA Leaning,6,0,,,,,,"",""
+ball,1,4.1,Sussex,RS Bopara,TGR Clark,G Stewart,0,0,,,,,,"",""
+ball,1,4.2,Sussex,RS Bopara,TGR Clark,G Stewart,0,1,1,,,,,"",""
+ball,1,4.3,Sussex,RS Bopara,TGR Clark,G Stewart,4,0,,,,,,"",""
+ball,1,4.4,Sussex,RS Bopara,TGR Clark,G Stewart,1,0,,,,,,"",""
+ball,1,4.5,Sussex,TGR Clark,RS Bopara,G Stewart,4,0,,,,,,"",""
+ball,1,4.6,Sussex,TGR Clark,RS Bopara,G Stewart,1,0,,,,,,"",""
+ball,1,4.7,Sussex,RS Bopara,TGR Clark,G Stewart,0,0,,,,,,"",""
+ball,1,5.1,Sussex,TGR Clark,RS Bopara,MG Hogan,2,0,,,,,,"",""
+ball,1,5.2,Sussex,TGR Clark,RS Bopara,MG Hogan,0,0,,,,,,"",""
+ball,1,5.3,Sussex,TGR Clark,RS Bopara,MG Hogan,4,0,,,,,,"",""
+ball,1,5.4,Sussex,TGR Clark,RS Bopara,MG Hogan,0,0,,,,,,"",""
+ball,1,5.5,Sussex,TGR Clark,RS Bopara,MG Hogan,4,0,,,,,,"",""
+ball,1,5.6,Sussex,TGR Clark,RS Bopara,MG Hogan,6,0,,,,,,"",""
+ball,1,6.1,Sussex,RS Bopara,TGR Clark,GF Linde,2,0,,,,,,"",""
+ball,1,6.2,Sussex,RS Bopara,TGR Clark,GF Linde,0,0,,,,,,"",""
+ball,1,6.3,Sussex,RS Bopara,TGR Clark,GF Linde,1,0,,,,,,"",""
+ball,1,6.4,Sussex,TGR Clark,RS Bopara,GF Linde,1,0,,,,,,"",""
+ball,1,6.5,Sussex,RS Bopara,TGR Clark,GF Linde,4,0,,,,,,"",""
+ball,1,6.6,Sussex,RS Bopara,TGR Clark,GF Linde,1,0,,,,,,"",""
+ball,1,7.1,Sussex,RS Bopara,TGR Clark,JDM Evison,1,0,,,,,,"",""
+ball,1,7.2,Sussex,TGR Clark,RS Bopara,JDM Evison,0,0,,,,,,"",""
+ball,1,7.3,Sussex,TGR Clark,RS Bopara,JDM Evison,1,0,,,,,,"",""
+ball,1,7.4,Sussex,RS Bopara,TGR Clark,JDM Evison,1,0,,,,,,"",""
+ball,1,7.5,Sussex,TGR Clark,RS Bopara,JDM Evison,0,0,,,,,,run out,TGR Clark
+ball,1,7.6,Sussex,Shadab Khan,RS Bopara,JDM Evison,1,0,,,,,,"",""
+ball,1,8.1,Sussex,Shadab Khan,RS Bopara,GF Linde,0,0,,,,,,"",""
+ball,1,8.2,Sussex,Shadab Khan,RS Bopara,GF Linde,2,0,,,,,,"",""
+ball,1,8.3,Sussex,Shadab Khan,RS Bopara,GF Linde,6,0,,,,,,"",""
+ball,1,8.4,Sussex,Shadab Khan,RS Bopara,GF Linde,6,0,,,,,,"",""
+ball,1,8.5,Sussex,Shadab Khan,RS Bopara,GF Linde,0,0,,,,,,caught,Shadab Khan
+ball,1,8.6,Sussex,MGK Burgess,RS Bopara,GF Linde,0,0,,,,,,"",""
+ball,1,9.1,Sussex,RS Bopara,MGK Burgess,JDM Evison,0,1,1,,,,,"",""
+ball,1,9.2,Sussex,RS Bopara,MGK Burgess,JDM Evison,1,0,,,,,,"",""
+ball,1,9.3,Sussex,MGK Burgess,RS Bopara,JDM Evison,1,0,,,,,,"",""
+ball,1,9.4,Sussex,RS Bopara,MGK Burgess,JDM Evison,1,0,,,,,,"",""
+ball,1,9.5,Sussex,MGK Burgess,RS Bopara,JDM Evison,1,0,,,,,,"",""
+ball,1,9.6,Sussex,RS Bopara,MGK Burgess,JDM Evison,1,0,,,,,,"",""
+ball,1,9.7,Sussex,MGK Burgess,RS Bopara,JDM Evison,2,0,,,,,,"",""
+ball,1,10.1,Sussex,RS Bopara,MGK Burgess,GF Linde,1,0,,,,,,"",""
+ball,1,10.2,Sussex,MGK Burgess,RS Bopara,GF Linde,1,0,,,,,,"",""
+ball,1,10.3,Sussex,RS Bopara,MGK Burgess,GF Linde,4,0,,,,,,"",""
+ball,1,10.4,Sussex,RS Bopara,MGK Burgess,GF Linde,4,0,,,,,,"",""
+ball,1,10.5,Sussex,RS Bopara,MGK Burgess,GF Linde,1,0,,,,,,"",""
+ball,1,10.6,Sussex,MGK Burgess,RS Bopara,GF Linde,0,0,,,,,,"",""
+ball,1,11.1,Sussex,RS Bopara,MGK Burgess,JDM Evison,0,1,,,,1,,"",""
+ball,1,11.2,Sussex,MGK Burgess,RS Bopara,JDM Evison,4,0,,,,,,"",""
+ball,1,11.3,Sussex,MGK Burgess,RS Bopara,JDM Evison,1,0,,,,,,"",""
+ball,1,11.4,Sussex,RS Bopara,MGK Burgess,JDM Evison,1,0,,,,,,"",""
+ball,1,11.5,Sussex,MGK Burgess,RS Bopara,JDM Evison,1,0,,,,,,"",""
+ball,1,11.6,Sussex,RS Bopara,MGK Burgess,JDM Evison,1,0,,,,,,"",""
+ball,1,12.1,Sussex,RS Bopara,MGK Burgess,MR Quinn,0,0,,,,,,"",""
+ball,1,12.2,Sussex,RS Bopara,MGK Burgess,MR Quinn,4,0,,,,,,"",""
+ball,1,12.3,Sussex,RS Bopara,MGK Burgess,MR Quinn,4,0,,,,,,"",""
+ball,1,12.4,Sussex,RS Bopara,MGK Burgess,MR Quinn,1,0,,,,,,"",""
+ball,1,12.5,Sussex,MGK Burgess,RS Bopara,MR Quinn,1,0,,,,,,"",""
+ball,1,12.6,Sussex,RS Bopara,MGK Burgess,MR Quinn,0,1,1,,,,,"",""
+ball,1,12.7,Sussex,RS Bopara,MGK Burgess,MR Quinn,0,0,,,,,,"",""
+ball,1,13.1,Sussex,MGK Burgess,RS Bopara,GF Linde,2,0,,,,,,"",""
+ball,1,13.2,Sussex,MGK Burgess,RS Bopara,GF Linde,1,0,,,,,,"",""
+ball,1,13.3,Sussex,RS Bopara,MGK Burgess,GF Linde,4,0,,,,,,"",""
+ball,1,13.4,Sussex,RS Bopara,MGK Burgess,GF Linde,0,1,1,,,,,"",""
+ball,1,13.5,Sussex,RS Bopara,MGK Burgess,GF Linde,1,0,,,,,,"",""
+ball,1,13.6,Sussex,MGK Burgess,RS Bopara,GF Linde,6,0,,,,,,"",""
+ball,1,13.7,Sussex,MGK Burgess,RS Bopara,GF Linde,0,0,,,,,,caught,MGK Burgess
+ball,1,14.1,Sussex,RS Bopara,FJ Hudson-Prentice,G Stewart,4,0,,,,,,"",""
+ball,1,14.2,Sussex,RS Bopara,FJ Hudson-Prentice,G Stewart,4,0,,,,,,"",""
+ball,1,14.3,Sussex,RS Bopara,FJ Hudson-Prentice,G Stewart,2,0,,,,,,"",""
+ball,1,14.4,Sussex,RS Bopara,FJ Hudson-Prentice,G Stewart,4,0,,,,,,"",""
+ball,1,14.5,Sussex,RS Bopara,FJ Hudson-Prentice,G Stewart,4,0,,,,,,"",""
+ball,1,14.6,Sussex,RS Bopara,FJ Hudson-Prentice,G Stewart,1,0,,,,,,"",""
+ball,1,15.1,Sussex,RS Bopara,FJ Hudson-Prentice,JDM Evison,4,0,,,,,,"",""
+ball,1,15.2,Sussex,RS Bopara,FJ Hudson-Prentice,JDM Evison,4,0,,,,,,"",""
+ball,1,15.3,Sussex,RS Bopara,FJ Hudson-Prentice,JDM Evison,1,0,,,,,,"",""
+ball,1,15.4,Sussex,FJ Hudson-Prentice,RS Bopara,JDM Evison,4,0,,,,,,"",""
+ball,1,15.5,Sussex,FJ Hudson-Prentice,RS Bopara,JDM Evison,1,0,,,,,,"",""
+ball,1,15.6,Sussex,RS Bopara,FJ Hudson-Prentice,JDM Evison,4,0,,,,,,"",""
+ball,1,16.1,Sussex,FJ Hudson-Prentice,RS Bopara,MG Hogan,0,1,,,,1,,"",""
+ball,1,16.2,Sussex,RS Bopara,FJ Hudson-Prentice,MG Hogan,4,0,,,,,,"",""
+ball,1,16.3,Sussex,RS Bopara,FJ Hudson-Prentice,MG Hogan,1,0,,,,,,"",""
+ball,1,16.4,Sussex,FJ Hudson-Prentice,RS Bopara,MG Hogan,0,0,,,,,,"",""
+ball,1,16.5,Sussex,FJ Hudson-Prentice,RS Bopara,MG Hogan,4,0,,,,,,"",""
+ball,1,16.6,Sussex,FJ Hudson-Prentice,RS Bopara,MG Hogan,0,0,,,,,,"",""
+ball,1,17.1,Sussex,RS Bopara,FJ Hudson-Prentice,MR Quinn,1,0,,,,,,"",""
+ball,1,17.2,Sussex,FJ Hudson-Prentice,RS Bopara,MR Quinn,4,0,,,,,,"",""
+ball,1,17.3,Sussex,FJ Hudson-Prentice,RS Bopara,MR Quinn,1,0,,,,,,"",""
+ball,1,17.4,Sussex,RS Bopara,FJ Hudson-Prentice,MR Quinn,1,0,,,,,,"",""
+ball,1,17.5,Sussex,FJ Hudson-Prentice,RS Bopara,MR Quinn,1,0,,,,,,"",""
+ball,1,17.6,Sussex,RS Bopara,FJ Hudson-Prentice,MR Quinn,0,1,1,,,,,"",""
+ball,1,17.7,Sussex,RS Bopara,FJ Hudson-Prentice,MR Quinn,2,0,,,,,,"",""
+ball,1,18.1,Sussex,FJ Hudson-Prentice,RS Bopara,MG Hogan,1,0,,,,,,"",""
+ball,1,18.2,Sussex,RS Bopara,FJ Hudson-Prentice,MG Hogan,2,0,,,,,,"",""
+ball,1,18.3,Sussex,RS Bopara,FJ Hudson-Prentice,MG Hogan,0,0,,,,,,"",""
+ball,1,18.4,Sussex,RS Bopara,FJ Hudson-Prentice,MG Hogan,4,0,,,,,,"",""
+ball,1,18.5,Sussex,RS Bopara,FJ Hudson-Prentice,MG Hogan,1,0,,,,,,"",""
+ball,1,18.6,Sussex,FJ Hudson-Prentice,RS Bopara,MG Hogan,0,0,,,,,,lbw,FJ Hudson-Prentice
+ball,1,19.1,Sussex,RS Bopara,N McAndrew,MR Quinn,2,0,,,,,,"",""
+ball,1,19.2,Sussex,RS Bopara,N McAndrew,MR Quinn,0,1,1,,,,,"",""
+ball,1,19.3,Sussex,RS Bopara,N McAndrew,MR Quinn,0,0,,,,,,caught,RS Bopara
+ball,1,19.4,Sussex,A Karvelas,N McAndrew,MR Quinn,0,0,,,,,,"",""
+ball,1,19.5,Sussex,A Karvelas,N McAndrew,MR Quinn,0,1,,,,1,,"",""
+ball,1,19.6,Sussex,N McAndrew,A Karvelas,MR Quinn,2,0,,,,,,"",""
+ball,1,19.7,Sussex,N McAndrew,A Karvelas,MR Quinn,2,0,,,,,,"",""
+ball,2,0.1,Kent,TS Muyeye,DJ Bell-Drummond,BJ Currie,0,0,,,,,,"",""
+ball,2,0.2,Kent,TS Muyeye,DJ Bell-Drummond,BJ Currie,0,1,,,,1,,"",""
+ball,2,0.3,Kent,DJ Bell-Drummond,TS Muyeye,BJ Currie,0,0,,,,,,"",""
+ball,2,0.4,Kent,DJ Bell-Drummond,TS Muyeye,BJ Currie,1,0,,,,,,"",""
+ball,2,0.5,Kent,TS Muyeye,DJ Bell-Drummond,BJ Currie,1,0,,,,,,"",""
+ball,2,0.6,Kent,DJ Bell-Drummond,TS Muyeye,BJ Currie,0,0,,,,,,"",""
+ball,2,1.1,Kent,TS Muyeye,DJ Bell-Drummond,A Karvelas,0,0,,,,,,bowled,TS Muyeye
+ball,2,1.2,Kent,AJ Blake,DJ Bell-Drummond,A Karvelas,0,1,1,,,,,"",""
+ball,2,1.3,Kent,AJ Blake,DJ Bell-Drummond,A Karvelas,0,0,,,,,,"",""
+ball,2,1.4,Kent,AJ Blake,DJ Bell-Drummond,A Karvelas,0,0,,,,,,"",""
+ball,2,1.5,Kent,AJ Blake,DJ Bell-Drummond,A Karvelas,4,0,,,,,,"",""
+ball,2,1.6,Kent,AJ Blake,DJ Bell-Drummond,A Karvelas,4,0,,,,,,"",""
+ball,2,1.7,Kent,AJ Blake,DJ Bell-Drummond,A Karvelas,1,0,,,,,,"",""
+ball,2,2.1,Kent,AJ Blake,DJ Bell-Drummond,BJ Currie,0,1,1,,,,,"",""
+ball,2,2.2,Kent,AJ Blake,DJ Bell-Drummond,BJ Currie,1,0,,,,,,"",""
+ball,2,2.3,Kent,DJ Bell-Drummond,AJ Blake,BJ Currie,0,0,,,,,,"",""
+ball,2,2.4,Kent,DJ Bell-Drummond,AJ Blake,BJ Currie,4,0,,,,,,"",""
+ball,2,2.5,Kent,DJ Bell-Drummond,AJ Blake,BJ Currie,0,0,,,,,,"",""
+ball,2,2.6,Kent,DJ Bell-Drummond,AJ Blake,BJ Currie,0,0,,,,,,"",""
+ball,2,2.7,Kent,DJ Bell-Drummond,AJ Blake,BJ Currie,2,0,,,,,,"",""
+ball,2,3.1,Kent,AJ Blake,DJ Bell-Drummond,TS Mills,4,0,,,,,,"",""
+ball,2,3.2,Kent,AJ Blake,DJ Bell-Drummond,TS Mills,6,0,,,,,,"",""
+ball,2,3.3,Kent,AJ Blake,DJ Bell-Drummond,TS Mills,0,0,,,,,,"",""
+ball,2,3.4,Kent,AJ Blake,DJ Bell-Drummond,TS Mills,2,0,,,,,,"",""
+ball,2,3.5,Kent,AJ Blake,DJ Bell-Drummond,TS Mills,0,1,1,,,,,"",""
+ball,2,3.6,Kent,AJ Blake,DJ Bell-Drummond,TS Mills,4,0,,,,,,"",""
+ball,2,3.7,Kent,AJ Blake,DJ Bell-Drummond,TS Mills,4,0,,,,,,"",""
+ball,2,4.1,Kent,DJ Bell-Drummond,AJ Blake,Shadab Khan,0,0,,,,,,"",""
+ball,2,4.2,Kent,DJ Bell-Drummond,AJ Blake,Shadab Khan,2,0,,,,,,"",""
+ball,2,4.3,Kent,DJ Bell-Drummond,AJ Blake,Shadab Khan,2,0,,,,,,"",""
+ball,2,4.4,Kent,DJ Bell-Drummond,AJ Blake,Shadab Khan,2,0,,,,,,retired hurt,DJ Bell-Drummond
+ball,2,4.5,Kent,SW Billings,AJ Blake,Shadab Khan,2,0,,,,,,"",""
+ball,2,4.6,Kent,SW Billings,AJ Blake,Shadab Khan,1,0,,,,,,"",""
+ball,2,5.1,Kent,SW Billings,AJ Blake,N McAndrew,0,1,,,,1,,"",""
+ball,2,5.2,Kent,AJ Blake,SW Billings,N McAndrew,0,0,,,,,,caught,AJ Blake
+ball,2,5.3,Kent,GF Linde,SW Billings,N McAndrew,4,0,,,,,,"",""
+ball,2,5.4,Kent,GF Linde,SW Billings,N McAndrew,2,0,,,,,,"",""
+ball,2,5.5,Kent,GF Linde,SW Billings,N McAndrew,0,1,1,,,,,"",""
+ball,2,5.6,Kent,GF Linde,SW Billings,N McAndrew,6,0,,,,,,"",""
+ball,2,5.7,Kent,GF Linde,SW Billings,N McAndrew,1,0,,,,,,run out,GF Linde
+ball,2,6.1,Kent,JM Cox,SW Billings,Shadab Khan,0,1,1,,,,,"",""
+ball,2,6.2,Kent,JM Cox,SW Billings,Shadab Khan,2,0,,,,,,"",""
+ball,2,6.3,Kent,JM Cox,SW Billings,Shadab Khan,0,0,,,,,,"",""
+ball,2,6.4,Kent,JM Cox,SW Billings,Shadab Khan,6,0,,,,,,"",""
+ball,2,6.5,Kent,JM Cox,SW Billings,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.6,Kent,SW Billings,JM Cox,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.7,Kent,JM Cox,SW Billings,Shadab Khan,0,2,2,,,,,"",""
+ball,2,6.8,Kent,SW Billings,JM Cox,Shadab Khan,0,1,1,,,,,"",""
+ball,2,6.9,Kent,SW Billings,JM Cox,Shadab Khan,4,0,,,,,,"",""
+ball,2,7.1,Kent,JM Cox,SW Billings,N McAndrew,2,0,,,,,,"",""
+ball,2,7.2,Kent,JM Cox,SW Billings,N McAndrew,1,0,,,,,,"",""
+ball,2,7.3,Kent,SW Billings,JM Cox,N McAndrew,2,0,,,,,,"",""
+ball,2,7.4,Kent,SW Billings,JM Cox,N McAndrew,1,0,,,,,,"",""
+ball,2,7.5,Kent,JM Cox,SW Billings,N McAndrew,6,0,,,,,,"",""
+ball,2,7.6,Kent,JM Cox,SW Billings,N McAndrew,1,0,,,,,,"",""
+ball,2,8.1,Kent,JM Cox,SW Billings,TS Mills,4,0,,,,,,"",""
+ball,2,8.2,Kent,JM Cox,SW Billings,TS Mills,1,0,,,,,,"",""
+ball,2,8.3,Kent,SW Billings,JM Cox,TS Mills,0,0,,,,,,run out,SW Billings
+ball,2,8.4,Kent,JM Cox,JA Leaning,TS Mills,1,0,,,,,,"",""
+ball,2,8.5,Kent,JA Leaning,JM Cox,TS Mills,0,0,,,,,,"",""
+ball,2,8.6,Kent,JA Leaning,JM Cox,TS Mills,0,0,,,,,,"",""
+ball,2,9.1,Kent,JM Cox,JA Leaning,A Karvelas,2,0,,,,,,"",""
+ball,2,9.2,Kent,JM Cox,JA Leaning,A Karvelas,0,1,,,,1,,"",""
+ball,2,9.3,Kent,JA Leaning,JM Cox,A Karvelas,0,1,,,1,,,"",""
+ball,2,9.4,Kent,JM Cox,JA Leaning,A Karvelas,6,0,,,,,,"",""
+ball,2,9.5,Kent,JM Cox,JA Leaning,A Karvelas,2,0,,,,,,"",""
+ball,2,9.6,Kent,JM Cox,JA Leaning,A Karvelas,2,0,,,,,,"",""

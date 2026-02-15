@@ -1,0 +1,279 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Oval Invincibles
+info,team,Trent Rockets
+info,gender,female
+info,season,2023
+info,date,2023/08/21
+info,event,The Hundred Women's Competition
+info,match_number,29
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Oval Invincibles
+info,toss_decision,bat
+info,player_of_match,N de Klerk
+info,umpire,AC Harris
+info,umpire,S McLelland
+info,reserve_umpire,F Richards
+info,tv_umpire,NJ Llong
+info,match_referee,H Pack
+info,winner,Oval Invincibles
+info,winner_runs,3
+info,player,Oval Invincibles,L Winfield-Hill
+info,player,Oval Invincibles,A Capsey
+info,player,Oval Invincibles,SW Bates
+info,player,Oval Invincibles,M Kapp
+info,player,Oval Invincibles,PJ Scholfield
+info,player,Oval Invincibles,N de Klerk
+info,player,Oval Invincibles,CL Griffith
+info,player,Oval Invincibles,MK Villiers
+info,player,Oval Invincibles,R MacDonald-Gay
+info,player,Oval Invincibles,E Gray
+info,player,Oval Invincibles,Sophia Smale
+info,player,Trent Rockets,L Lee
+info,player,Trent Rockets,BF Smith
+info,player,Trent Rockets,H Kaur
+info,player,Trent Rockets,NR Sciver-Brunt
+info,player,Trent Rockets,J Gardner
+info,player,Trent Rockets,FC Wilson
+info,player,Trent Rockets,ND Dattani
+info,player,Trent Rockets,A King
+info,player,Trent Rockets,A Stonehouse
+info,player,Trent Rockets,KL Gordon
+info,player,Trent Rockets,CM McCarthy
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A King,83558266
+info,registry,people,A Stonehouse,c9366237
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,CM McCarthy,7ce7fb3c
+info,registry,people,E Gray,58717de2
+info,registry,people,F Richards,0313fec0
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,H Pack,fed53c91
+info,registry,people,J Gardner,184512d1
+info,registry,people,KL Gordon,00823a96
+info,registry,people,L Lee,7b01ce83
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,N de Klerk,ea544967
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,S McLelland,fcc653b8
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Sophia Smale,c296dba1
+ball,1,0.1,Oval Invincibles,L Winfield-Hill,A Capsey,A Stonehouse,0,0,,,,,,"",""
+ball,1,0.2,Oval Invincibles,L Winfield-Hill,A Capsey,A Stonehouse,0,0,,,,,,bowled,L Winfield-Hill
+ball,1,0.3,Oval Invincibles,SW Bates,A Capsey,A Stonehouse,1,0,,,,,,"",""
+ball,1,0.4,Oval Invincibles,A Capsey,SW Bates,A Stonehouse,0,0,,,,,,"",""
+ball,1,0.5,Oval Invincibles,A Capsey,SW Bates,A Stonehouse,4,0,,,,,,"",""
+ball,1,1.1,Oval Invincibles,A Capsey,SW Bates,ND Dattani,1,0,,,,,,"",""
+ball,1,1.2,Oval Invincibles,SW Bates,A Capsey,ND Dattani,1,0,,,,,,"",""
+ball,1,1.3,Oval Invincibles,A Capsey,SW Bates,ND Dattani,0,4,,,4,,,"",""
+ball,1,1.4,Oval Invincibles,A Capsey,SW Bates,ND Dattani,0,0,,,,,,"",""
+ball,1,1.5,Oval Invincibles,A Capsey,SW Bates,ND Dattani,1,0,,,,,,"",""
+ball,1,2.1,Oval Invincibles,A Capsey,SW Bates,KL Gordon,0,0,,,,,,"",""
+ball,1,2.2,Oval Invincibles,A Capsey,SW Bates,KL Gordon,4,0,,,,,,"",""
+ball,1,2.3,Oval Invincibles,A Capsey,SW Bates,KL Gordon,1,0,,,,,,"",""
+ball,1,2.4,Oval Invincibles,SW Bates,A Capsey,KL Gordon,0,0,,,,,,"",""
+ball,1,2.5,Oval Invincibles,SW Bates,A Capsey,KL Gordon,0,0,,,,,,"",""
+ball,1,3.1,Oval Invincibles,SW Bates,A Capsey,BF Smith,0,0,,,,,,"",""
+ball,1,3.2,Oval Invincibles,SW Bates,A Capsey,BF Smith,1,0,,,,,,"",""
+ball,1,3.3,Oval Invincibles,A Capsey,SW Bates,BF Smith,6,0,,,,,,"",""
+ball,1,3.4,Oval Invincibles,A Capsey,SW Bates,BF Smith,1,0,,,,,,"",""
+ball,1,3.5,Oval Invincibles,SW Bates,A Capsey,BF Smith,4,0,,,,,,"",""
+ball,1,4.1,Oval Invincibles,A Capsey,SW Bates,A Stonehouse,1,0,,,,,,"",""
+ball,1,4.2,Oval Invincibles,SW Bates,A Capsey,A Stonehouse,0,0,,,,,,bowled,SW Bates
+ball,1,4.3,Oval Invincibles,M Kapp,A Capsey,A Stonehouse,0,0,,,,,,"",""
+ball,1,4.4,Oval Invincibles,M Kapp,A Capsey,A Stonehouse,0,0,,,,,,"",""
+ball,1,4.5,Oval Invincibles,M Kapp,A Capsey,A Stonehouse,0,0,,,,,,"",""
+ball,1,5.1,Oval Invincibles,M Kapp,A Capsey,A King,4,0,,,,,,"",""
+ball,1,5.2,Oval Invincibles,M Kapp,A Capsey,A King,1,0,,,,,,"",""
+ball,1,5.3,Oval Invincibles,A Capsey,M Kapp,A King,0,0,,,,,,"",""
+ball,1,5.4,Oval Invincibles,A Capsey,M Kapp,A King,0,0,,,,,,"",""
+ball,1,5.5,Oval Invincibles,A Capsey,M Kapp,A King,0,0,,,,,,"",""
+ball,1,6.1,Oval Invincibles,M Kapp,A Capsey,CM McCarthy,0,0,,,,,,"",""
+ball,1,6.2,Oval Invincibles,M Kapp,A Capsey,CM McCarthy,1,0,,,,,,"",""
+ball,1,6.3,Oval Invincibles,A Capsey,M Kapp,CM McCarthy,1,0,,,,,,"",""
+ball,1,6.4,Oval Invincibles,M Kapp,A Capsey,CM McCarthy,0,0,,,,,,"",""
+ball,1,6.5,Oval Invincibles,M Kapp,A Capsey,CM McCarthy,0,0,,,,,,"",""
+ball,1,7.1,Oval Invincibles,M Kapp,A Capsey,BF Smith,0,0,,,,,,"",""
+ball,1,7.2,Oval Invincibles,M Kapp,A Capsey,BF Smith,1,0,,,,,,"",""
+ball,1,7.3,Oval Invincibles,A Capsey,M Kapp,BF Smith,1,0,,,,,,"",""
+ball,1,7.4,Oval Invincibles,M Kapp,A Capsey,BF Smith,1,0,,,,,,"",""
+ball,1,7.5,Oval Invincibles,A Capsey,M Kapp,BF Smith,4,0,,,,,,"",""
+ball,1,8.1,Oval Invincibles,M Kapp,A Capsey,KL Gordon,1,0,,,,,,"",""
+ball,1,8.2,Oval Invincibles,A Capsey,M Kapp,KL Gordon,1,0,,,,,,"",""
+ball,1,8.3,Oval Invincibles,M Kapp,A Capsey,KL Gordon,0,0,,,,,,stumped,M Kapp
+ball,1,8.4,Oval Invincibles,PJ Scholfield,A Capsey,KL Gordon,0,0,,,,,,"",""
+ball,1,8.5,Oval Invincibles,PJ Scholfield,A Capsey,KL Gordon,0,1,,,,1,,"",""
+ball,1,9.1,Oval Invincibles,A Capsey,PJ Scholfield,A King,4,0,,,,,,"",""
+ball,1,9.2,Oval Invincibles,A Capsey,PJ Scholfield,A King,1,0,,,,,,"",""
+ball,1,9.3,Oval Invincibles,PJ Scholfield,A Capsey,A King,0,0,,,,,,"",""
+ball,1,9.4,Oval Invincibles,PJ Scholfield,A Capsey,A King,0,0,,,,,,"",""
+ball,1,9.5,Oval Invincibles,PJ Scholfield,A Capsey,A King,6,0,,,,,,"",""
+ball,1,10.1,Oval Invincibles,A Capsey,PJ Scholfield,KL Gordon,0,0,,,,,,"",""
+ball,1,10.2,Oval Invincibles,A Capsey,PJ Scholfield,KL Gordon,4,0,,,,,,"",""
+ball,1,10.3,Oval Invincibles,A Capsey,PJ Scholfield,KL Gordon,0,0,,,,,,bowled,A Capsey
+ball,1,10.4,Oval Invincibles,N de Klerk,PJ Scholfield,KL Gordon,0,0,,,,,,"",""
+ball,1,10.5,Oval Invincibles,N de Klerk,PJ Scholfield,KL Gordon,0,0,,,,,,"",""
+ball,1,11.1,Oval Invincibles,N de Klerk,PJ Scholfield,CM McCarthy,1,0,,,,,,"",""
+ball,1,11.2,Oval Invincibles,PJ Scholfield,N de Klerk,CM McCarthy,1,0,,,,,,"",""
+ball,1,11.3,Oval Invincibles,N de Klerk,PJ Scholfield,CM McCarthy,0,2,2,,,,,"",""
+ball,1,11.4,Oval Invincibles,PJ Scholfield,N de Klerk,CM McCarthy,0,1,1,,,,,"",""
+ball,1,11.5,Oval Invincibles,PJ Scholfield,N de Klerk,CM McCarthy,0,0,,,,,,"",""
+ball,1,11.6,Oval Invincibles,PJ Scholfield,N de Klerk,CM McCarthy,1,0,,,,,,"",""
+ball,1,11.7,Oval Invincibles,N de Klerk,PJ Scholfield,CM McCarthy,1,0,,,,,,"",""
+ball,1,12.1,Oval Invincibles,N de Klerk,PJ Scholfield,A King,4,0,,,,,,"",""
+ball,1,12.2,Oval Invincibles,N de Klerk,PJ Scholfield,A King,1,0,,,,,,"",""
+ball,1,12.3,Oval Invincibles,PJ Scholfield,N de Klerk,A King,0,0,,,,,,"",""
+ball,1,12.4,Oval Invincibles,PJ Scholfield,N de Klerk,A King,1,0,,,,,,"",""
+ball,1,12.5,Oval Invincibles,N de Klerk,PJ Scholfield,A King,4,0,,,,,,"",""
+ball,1,13.1,Oval Invincibles,N de Klerk,PJ Scholfield,ND Dattani,1,0,,,,,,"",""
+ball,1,13.2,Oval Invincibles,PJ Scholfield,N de Klerk,ND Dattani,4,0,,,,,,"",""
+ball,1,13.3,Oval Invincibles,PJ Scholfield,N de Klerk,ND Dattani,0,1,1,,,,,"",""
+ball,1,13.4,Oval Invincibles,PJ Scholfield,N de Klerk,ND Dattani,0,0,,,,,,bowled,PJ Scholfield
+ball,1,13.5,Oval Invincibles,CL Griffith,N de Klerk,ND Dattani,1,0,,,,,,"",""
+ball,1,13.6,Oval Invincibles,N de Klerk,CL Griffith,ND Dattani,4,0,,,,,,"",""
+ball,1,14.1,Oval Invincibles,CL Griffith,N de Klerk,BF Smith,0,1,,,,1,,"",""
+ball,1,14.2,Oval Invincibles,N de Klerk,CL Griffith,BF Smith,2,0,,,,,,"",""
+ball,1,14.3,Oval Invincibles,N de Klerk,CL Griffith,BF Smith,1,0,,,,,,"",""
+ball,1,14.4,Oval Invincibles,CL Griffith,N de Klerk,BF Smith,1,0,,,,,,"",""
+ball,1,14.5,Oval Invincibles,N de Klerk,CL Griffith,BF Smith,4,0,,,,,,"",""
+ball,1,15.1,Oval Invincibles,N de Klerk,CL Griffith,A Stonehouse,1,0,,,,,,"",""
+ball,1,15.2,Oval Invincibles,CL Griffith,N de Klerk,A Stonehouse,0,0,,,,,,"",""
+ball,1,15.3,Oval Invincibles,CL Griffith,N de Klerk,A Stonehouse,0,0,,,,,,"",""
+ball,1,15.4,Oval Invincibles,CL Griffith,N de Klerk,A Stonehouse,4,0,,,,,,"",""
+ball,1,15.5,Oval Invincibles,CL Griffith,N de Klerk,A Stonehouse,1,0,,,,,,"",""
+ball,1,16.1,Oval Invincibles,CL Griffith,N de Klerk,A King,1,0,,,,,,"",""
+ball,1,16.2,Oval Invincibles,N de Klerk,CL Griffith,A King,1,0,,,,,,"",""
+ball,1,16.3,Oval Invincibles,CL Griffith,N de Klerk,A King,6,0,,,,,,"",""
+ball,1,16.4,Oval Invincibles,CL Griffith,N de Klerk,A King,1,0,,,,,,"",""
+ball,1,16.5,Oval Invincibles,N de Klerk,CL Griffith,A King,1,0,,,,,,"",""
+ball,1,17.1,Oval Invincibles,CL Griffith,N de Klerk,KL Gordon,0,0,,,,,,"",""
+ball,1,17.2,Oval Invincibles,CL Griffith,N de Klerk,KL Gordon,0,0,,,,,,"",""
+ball,1,17.3,Oval Invincibles,CL Griffith,N de Klerk,KL Gordon,1,0,,,,,,"",""
+ball,1,17.4,Oval Invincibles,N de Klerk,CL Griffith,KL Gordon,1,0,,,,,,"",""
+ball,1,17.5,Oval Invincibles,CL Griffith,N de Klerk,KL Gordon,6,0,,,,,,"",""
+ball,1,18.1,Oval Invincibles,N de Klerk,CL Griffith,A Stonehouse,6,2,,2,,,,"",""
+ball,1,18.2,Oval Invincibles,N de Klerk,CL Griffith,A Stonehouse,4,0,,,,,,"",""
+ball,1,18.3,Oval Invincibles,N de Klerk,CL Griffith,A Stonehouse,0,2,,2,,,,"",""
+ball,1,18.4,Oval Invincibles,N de Klerk,CL Griffith,A Stonehouse,4,0,,,,,,"",""
+ball,1,18.5,Oval Invincibles,N de Klerk,CL Griffith,A Stonehouse,4,0,,,,,,"",""
+ball,1,18.6,Oval Invincibles,N de Klerk,CL Griffith,A Stonehouse,4,0,,,,,,"",""
+ball,1,18.7,Oval Invincibles,N de Klerk,CL Griffith,A Stonehouse,1,0,,,,,,"",""
+ball,1,19.1,Oval Invincibles,CL Griffith,N de Klerk,BF Smith,0,1,1,,,,,"",""
+ball,1,19.2,Oval Invincibles,CL Griffith,N de Klerk,BF Smith,1,0,,,,,,"",""
+ball,1,19.3,Oval Invincibles,N de Klerk,CL Griffith,BF Smith,0,0,,,,,,"",""
+ball,1,19.4,Oval Invincibles,N de Klerk,CL Griffith,BF Smith,1,0,,,,,,"",""
+ball,1,19.5,Oval Invincibles,CL Griffith,N de Klerk,BF Smith,0,0,,,,,,stumped,CL Griffith
+ball,1,19.6,Oval Invincibles,MK Villiers,N de Klerk,BF Smith,2,0,,,,,,"",""
+ball,2,0.1,Trent Rockets,L Lee,BF Smith,M Kapp,4,0,,,,,,"",""
+ball,2,0.2,Trent Rockets,L Lee,BF Smith,M Kapp,0,0,,,,,,"",""
+ball,2,0.3,Trent Rockets,L Lee,BF Smith,M Kapp,4,0,,,,,,"",""
+ball,2,0.4,Trent Rockets,L Lee,BF Smith,M Kapp,0,0,,,,,,"",""
+ball,2,0.5,Trent Rockets,L Lee,BF Smith,M Kapp,0,1,1,,,,,"",""
+ball,2,0.6,Trent Rockets,L Lee,BF Smith,M Kapp,1,0,,,,,,"",""
+ball,2,1.1,Trent Rockets,BF Smith,L Lee,N de Klerk,0,0,,,,,,"",""
+ball,2,1.2,Trent Rockets,BF Smith,L Lee,N de Klerk,0,0,,,,,,"",""
+ball,2,1.3,Trent Rockets,BF Smith,L Lee,N de Klerk,0,0,,,,,,"",""
+ball,2,1.4,Trent Rockets,BF Smith,L Lee,N de Klerk,4,0,,,,,,"",""
+ball,2,1.5,Trent Rockets,BF Smith,L Lee,N de Klerk,1,0,,,,,,"",""
+ball,2,2.1,Trent Rockets,BF Smith,L Lee,M Kapp,4,0,,,,,,"",""
+ball,2,2.2,Trent Rockets,BF Smith,L Lee,M Kapp,0,0,,,,,,"",""
+ball,2,2.3,Trent Rockets,BF Smith,L Lee,M Kapp,0,0,,,,,,caught,BF Smith
+ball,2,2.4,Trent Rockets,H Kaur,L Lee,M Kapp,1,0,,,,,,"",""
+ball,2,2.5,Trent Rockets,L Lee,H Kaur,M Kapp,1,0,,,,,,"",""
+ball,2,3.1,Trent Rockets,H Kaur,L Lee,N de Klerk,0,1,1,,,,,"",""
+ball,2,3.2,Trent Rockets,H Kaur,L Lee,N de Klerk,0,0,,,,,,"",""
+ball,2,3.3,Trent Rockets,H Kaur,L Lee,N de Klerk,4,0,,,,,,"",""
+ball,2,3.4,Trent Rockets,H Kaur,L Lee,N de Klerk,0,0,,,,,,"",""
+ball,2,3.5,Trent Rockets,H Kaur,L Lee,N de Klerk,0,0,,,,,,"",""
+ball,2,3.6,Trent Rockets,H Kaur,L Lee,N de Klerk,1,0,,,,,,"",""
+ball,2,4.1,Trent Rockets,H Kaur,L Lee,Sophia Smale,0,0,,,,,,"",""
+ball,2,4.2,Trent Rockets,H Kaur,L Lee,Sophia Smale,1,0,,,,,,"",""
+ball,2,4.3,Trent Rockets,L Lee,H Kaur,Sophia Smale,0,0,,,,,,"",""
+ball,2,4.4,Trent Rockets,L Lee,H Kaur,Sophia Smale,4,0,,,,,,"",""
+ball,2,4.5,Trent Rockets,L Lee,H Kaur,Sophia Smale,4,0,,,,,,"",""
+ball,2,5.1,Trent Rockets,L Lee,H Kaur,R MacDonald-Gay,0,0,,,,,,"",""
+ball,2,5.2,Trent Rockets,L Lee,H Kaur,R MacDonald-Gay,1,2,,2,,,,"",""
+ball,2,5.3,Trent Rockets,H Kaur,L Lee,R MacDonald-Gay,1,0,,,,,,"",""
+ball,2,5.4,Trent Rockets,L Lee,H Kaur,R MacDonald-Gay,0,0,,,,,,"",""
+ball,2,5.5,Trent Rockets,L Lee,H Kaur,R MacDonald-Gay,1,0,,,,,,"",""
+ball,2,5.6,Trent Rockets,H Kaur,L Lee,R MacDonald-Gay,1,0,,,,,,"",""
+ball,2,6.1,Trent Rockets,H Kaur,L Lee,E Gray,0,0,,,,,,"",""
+ball,2,6.2,Trent Rockets,H Kaur,L Lee,E Gray,0,0,,,,,,lbw,H Kaur
+ball,2,6.3,Trent Rockets,NR Sciver-Brunt,L Lee,E Gray,1,0,,,,,,"",""
+ball,2,6.4,Trent Rockets,L Lee,NR Sciver-Brunt,E Gray,1,0,,,,,,"",""
+ball,2,6.5,Trent Rockets,NR Sciver-Brunt,L Lee,E Gray,1,0,,,,,,"",""
+ball,2,7.1,Trent Rockets,L Lee,NR Sciver-Brunt,E Gray,1,0,,,,,,"",""
+ball,2,7.2,Trent Rockets,NR Sciver-Brunt,L Lee,E Gray,0,0,,,,,,"",""
+ball,2,7.3,Trent Rockets,NR Sciver-Brunt,L Lee,E Gray,1,0,,,,,,"",""
+ball,2,7.4,Trent Rockets,L Lee,NR Sciver-Brunt,E Gray,6,0,,,,,,"",""
+ball,2,7.5,Trent Rockets,L Lee,NR Sciver-Brunt,E Gray,1,0,,,,,,"",""
+ball,2,8.1,Trent Rockets,L Lee,NR Sciver-Brunt,M Kapp,1,0,,,,,,"",""
+ball,2,8.2,Trent Rockets,NR Sciver-Brunt,L Lee,M Kapp,0,0,,,,,,"",""
+ball,2,8.3,Trent Rockets,NR Sciver-Brunt,L Lee,M Kapp,0,0,,,,,,"",""
+ball,2,8.4,Trent Rockets,NR Sciver-Brunt,L Lee,M Kapp,0,1,,,,1,,"",""
+ball,2,8.5,Trent Rockets,L Lee,NR Sciver-Brunt,M Kapp,1,0,,,,,,"",""
+ball,2,9.1,Trent Rockets,NR Sciver-Brunt,L Lee,N de Klerk,1,0,,,,,,"",""
+ball,2,9.2,Trent Rockets,L Lee,NR Sciver-Brunt,N de Klerk,2,0,,,,,,"",""
+ball,2,9.3,Trent Rockets,L Lee,NR Sciver-Brunt,N de Klerk,6,0,,,,,,"",""
+ball,2,9.4,Trent Rockets,L Lee,NR Sciver-Brunt,N de Klerk,4,0,,,,,,"",""
+ball,2,9.5,Trent Rockets,L Lee,NR Sciver-Brunt,N de Klerk,1,0,,,,,,"",""
+ball,2,10.1,Trent Rockets,L Lee,NR Sciver-Brunt,PJ Scholfield,1,0,,,,,,"",""
+ball,2,10.2,Trent Rockets,NR Sciver-Brunt,L Lee,PJ Scholfield,1,0,,,,,,"",""
+ball,2,10.3,Trent Rockets,L Lee,NR Sciver-Brunt,PJ Scholfield,1,0,,,,,,"",""
+ball,2,10.4,Trent Rockets,NR Sciver-Brunt,L Lee,PJ Scholfield,4,0,,,,,,"",""
+ball,2,10.5,Trent Rockets,NR Sciver-Brunt,L Lee,PJ Scholfield,1,0,,,,,,"",""
+ball,2,11.1,Trent Rockets,L Lee,NR Sciver-Brunt,R MacDonald-Gay,1,0,,,,,,"",""
+ball,2,11.2,Trent Rockets,NR Sciver-Brunt,L Lee,R MacDonald-Gay,4,0,,,,,,"",""
+ball,2,11.3,Trent Rockets,NR Sciver-Brunt,L Lee,R MacDonald-Gay,1,0,,,,,,"",""
+ball,2,11.4,Trent Rockets,L Lee,NR Sciver-Brunt,R MacDonald-Gay,2,0,,,,,,"",""
+ball,2,11.5,Trent Rockets,L Lee,NR Sciver-Brunt,R MacDonald-Gay,6,0,,,,,,"",""
+ball,2,12.1,Trent Rockets,NR Sciver-Brunt,L Lee,M Kapp,4,0,,,,,,"",""
+ball,2,12.2,Trent Rockets,NR Sciver-Brunt,L Lee,M Kapp,1,0,,,,,,"",""
+ball,2,12.3,Trent Rockets,L Lee,NR Sciver-Brunt,M Kapp,0,0,,,,,,"",""
+ball,2,12.4,Trent Rockets,L Lee,NR Sciver-Brunt,M Kapp,4,0,,,,,,"",""
+ball,2,12.5,Trent Rockets,L Lee,NR Sciver-Brunt,M Kapp,0,0,,,,,,"",""
+ball,2,13.1,Trent Rockets,L Lee,NR Sciver-Brunt,Sophia Smale,1,0,,,,,,"",""
+ball,2,13.2,Trent Rockets,NR Sciver-Brunt,L Lee,Sophia Smale,1,0,,,,,,"",""
+ball,2,13.3,Trent Rockets,L Lee,NR Sciver-Brunt,Sophia Smale,1,0,,,,,,"",""
+ball,2,13.4,Trent Rockets,NR Sciver-Brunt,L Lee,Sophia Smale,0,0,,,,,,lbw,NR Sciver-Brunt
+ball,2,13.5,Trent Rockets,J Gardner,L Lee,Sophia Smale,1,0,,,,,,"",""
+ball,2,14.1,Trent Rockets,J Gardner,L Lee,PJ Scholfield,1,0,,,,,,run out,L Lee
+ball,2,14.2,Trent Rockets,J Gardner,FC Wilson,PJ Scholfield,4,0,,,,,,"",""
+ball,2,14.3,Trent Rockets,J Gardner,FC Wilson,PJ Scholfield,2,0,,,,,,"",""
+ball,2,14.4,Trent Rockets,J Gardner,FC Wilson,PJ Scholfield,0,0,,,,,,"",""
+ball,2,14.5,Trent Rockets,J Gardner,FC Wilson,PJ Scholfield,0,0,,,,,,caught and bowled,J Gardner
+ball,2,15.1,Trent Rockets,ND Dattani,FC Wilson,PJ Scholfield,1,0,,,,,,"",""
+ball,2,15.2,Trent Rockets,FC Wilson,ND Dattani,PJ Scholfield,1,0,,,,,,"",""
+ball,2,15.3,Trent Rockets,ND Dattani,FC Wilson,PJ Scholfield,0,0,,,,,,"",""
+ball,2,15.4,Trent Rockets,ND Dattani,FC Wilson,PJ Scholfield,0,0,,,,,,"",""
+ball,2,15.5,Trent Rockets,ND Dattani,FC Wilson,PJ Scholfield,0,0,,,,,,"",""
+ball,2,16.1,Trent Rockets,FC Wilson,ND Dattani,Sophia Smale,1,0,,,,,,"",""
+ball,2,16.2,Trent Rockets,ND Dattani,FC Wilson,Sophia Smale,1,0,,,,,,run out,FC Wilson
+ball,2,16.3,Trent Rockets,ND Dattani,A King,Sophia Smale,1,0,,,,,,"",""
+ball,2,16.4,Trent Rockets,A King,ND Dattani,Sophia Smale,0,0,,,,,,"",""
+ball,2,16.5,Trent Rockets,A King,ND Dattani,Sophia Smale,1,0,,,,,,"",""
+ball,2,17.1,Trent Rockets,ND Dattani,A King,Sophia Smale,1,0,,,,,,"",""
+ball,2,17.2,Trent Rockets,A King,ND Dattani,Sophia Smale,6,0,,,,,,"",""
+ball,2,17.3,Trent Rockets,A King,ND Dattani,Sophia Smale,0,0,,,,,,bowled,A King
+ball,2,17.4,Trent Rockets,A Stonehouse,ND Dattani,Sophia Smale,2,0,,,,,,"",""
+ball,2,17.5,Trent Rockets,A Stonehouse,ND Dattani,Sophia Smale,0,0,,,,,,"",""
+ball,2,18.1,Trent Rockets,ND Dattani,A Stonehouse,N de Klerk,4,0,,,,,,"",""
+ball,2,18.2,Trent Rockets,ND Dattani,A Stonehouse,N de Klerk,4,0,,,,,,"",""
+ball,2,18.3,Trent Rockets,ND Dattani,A Stonehouse,N de Klerk,1,0,,,,,,"",""
+ball,2,18.4,Trent Rockets,A Stonehouse,ND Dattani,N de Klerk,1,0,,,,,,"",""
+ball,2,18.5,Trent Rockets,ND Dattani,A Stonehouse,N de Klerk,0,0,,,,,,caught,ND Dattani
+ball,2,19.1,Trent Rockets,KL Gordon,A Stonehouse,PJ Scholfield,1,0,,,,,,"",""
+ball,2,19.2,Trent Rockets,A Stonehouse,KL Gordon,PJ Scholfield,4,0,,,,,,"",""
+ball,2,19.3,Trent Rockets,A Stonehouse,KL Gordon,PJ Scholfield,4,0,,,,,,"",""
+ball,2,19.4,Trent Rockets,A Stonehouse,KL Gordon,PJ Scholfield,4,0,,,,,,"",""
+ball,2,19.5,Trent Rockets,A Stonehouse,KL Gordon,PJ Scholfield,1,0,,,,,,"",""

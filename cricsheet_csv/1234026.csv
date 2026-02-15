@@ -1,0 +1,323 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Auckland
+info,gender,male
+info,season,2020/21
+info,date,2021/02/07
+info,event,Super Smash
+info,match_number,30
+info,venue,Eden Park Outer Oval
+info,city,Auckland
+info,toss_winner,Wellington
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,Damian Morrow
+info,reserve_umpire,Lui Els
+info,tv_umpire,A Mehrotra
+info,match_referee,AL Hill
+info,winner,Wellington
+info,winner_runs,39
+info,player,Wellington,FH Allen
+info,player,Wellington,DP Conway
+info,player,Wellington,TA Blundell
+info,player,Wellington,JDS Neesham
+info,player,Wellington,MG Bracewell
+info,player,Wellington,TM Johnson
+info,player,Wellington,JD Gibson
+info,player,Wellington,FJ Colson
+info,player,Wellington,LV van Beek
+info,player,Wellington,PF Younghusband
+info,player,Wellington,HK Bennett
+info,player,Auckland,SM Solia
+info,player,Auckland,GD Phillips
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,MS Chapman
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,BJ Horne
+info,player,Auckland,KA Jamieson
+info,player,Auckland,WER Somerville
+info,player,Auckland,RM ter Braak
+info,player,Auckland,DK Ferns
+info,player,Auckland,L Delport
+info,registry,people,A Mehrotra,f336ff13
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,DP Conway,df5a6881
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,FH Allen,bf74b130
+info,registry,people,FJ Colson,c2327c5d
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HK Bennett,94238673
+info,registry,people,JD Gibson,57f520ee
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LV van Beek,782fb776
+info,registry,people,Lui Els,00812511
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,RM ter Braak,ac3e5a31
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TM Johnson,917f66da
+info,registry,people,WER Somerville,74a1c1e3
+info,registry,people,WT O'Donnell,730b57de
+ball,1,0.1,Wellington,FH Allen,DP Conway,KA Jamieson,1,0,,,,,,"",""
+ball,1,0.2,Wellington,DP Conway,FH Allen,KA Jamieson,1,0,,,,,,"",""
+ball,1,0.3,Wellington,FH Allen,DP Conway,KA Jamieson,0,0,,,,,,"",""
+ball,1,0.4,Wellington,FH Allen,DP Conway,KA Jamieson,1,0,,,,,,"",""
+ball,1,0.5,Wellington,DP Conway,FH Allen,KA Jamieson,0,0,,,,,,"",""
+ball,1,0.6,Wellington,DP Conway,FH Allen,KA Jamieson,0,1,1,,,,,"",""
+ball,1,0.7,Wellington,DP Conway,FH Allen,KA Jamieson,2,0,,,,,,"",""
+ball,1,1.1,Wellington,FH Allen,DP Conway,RM ter Braak,6,0,,,,,,"",""
+ball,1,1.2,Wellington,FH Allen,DP Conway,RM ter Braak,4,0,,,,,,"",""
+ball,1,1.3,Wellington,FH Allen,DP Conway,RM ter Braak,4,0,,,,,,"",""
+ball,1,1.4,Wellington,FH Allen,DP Conway,RM ter Braak,4,0,,,,,,"",""
+ball,1,1.5,Wellington,FH Allen,DP Conway,RM ter Braak,0,0,,,,,,"",""
+ball,1,1.6,Wellington,FH Allen,DP Conway,RM ter Braak,0,0,,,,,,"",""
+ball,1,2.1,Wellington,DP Conway,FH Allen,KA Jamieson,1,0,,,,,,"",""
+ball,1,2.2,Wellington,FH Allen,DP Conway,KA Jamieson,4,0,,,,,,"",""
+ball,1,2.3,Wellington,FH Allen,DP Conway,KA Jamieson,2,0,,,,,,"",""
+ball,1,2.4,Wellington,FH Allen,DP Conway,KA Jamieson,0,0,,,,,,"",""
+ball,1,2.5,Wellington,FH Allen,DP Conway,KA Jamieson,4,0,,,,,,"",""
+ball,1,2.6,Wellington,FH Allen,DP Conway,KA Jamieson,0,1,1,,,,,"",""
+ball,1,2.7,Wellington,FH Allen,DP Conway,KA Jamieson,0,1,,1,,,,"",""
+ball,1,2.8,Wellington,FH Allen,DP Conway,KA Jamieson,3,0,,,,,,"",""
+ball,1,3.1,Wellington,FH Allen,DP Conway,L Delport,4,0,,,,,,"",""
+ball,1,3.2,Wellington,FH Allen,DP Conway,L Delport,2,0,,,,,,"",""
+ball,1,3.3,Wellington,FH Allen,DP Conway,L Delport,0,0,,,,,,"",""
+ball,1,3.4,Wellington,FH Allen,DP Conway,L Delport,0,0,,,,,,"",""
+ball,1,3.5,Wellington,FH Allen,DP Conway,L Delport,0,1,1,,,,,"",""
+ball,1,3.6,Wellington,FH Allen,DP Conway,L Delport,2,0,,,,,,"",""
+ball,1,3.7,Wellington,FH Allen,DP Conway,L Delport,0,0,,,,,,"",""
+ball,1,4.1,Wellington,DP Conway,FH Allen,WER Somerville,0,0,,,,,,"",""
+ball,1,4.2,Wellington,DP Conway,FH Allen,WER Somerville,0,0,,,,,,"",""
+ball,1,4.3,Wellington,DP Conway,FH Allen,WER Somerville,0,3,3,,,,,"",""
+ball,1,4.4,Wellington,DP Conway,FH Allen,WER Somerville,1,0,,,,,,"",""
+ball,1,4.5,Wellington,FH Allen,DP Conway,WER Somerville,6,0,,,,,,"",""
+ball,1,4.6,Wellington,FH Allen,DP Conway,WER Somerville,1,0,,,,,,"",""
+ball,1,4.7,Wellington,DP Conway,FH Allen,WER Somerville,1,0,,,,,,"",""
+ball,1,5.1,Wellington,DP Conway,FH Allen,DK Ferns,0,0,,,,,,"",""
+ball,1,5.2,Wellington,DP Conway,FH Allen,DK Ferns,1,0,,,,,,"",""
+ball,1,5.3,Wellington,FH Allen,DP Conway,DK Ferns,6,0,,,,,,"",""
+ball,1,5.4,Wellington,FH Allen,DP Conway,DK Ferns,2,0,,,,,,"",""
+ball,1,5.5,Wellington,FH Allen,DP Conway,DK Ferns,4,0,,,,,,"",""
+ball,1,5.6,Wellington,FH Allen,DP Conway,DK Ferns,6,0,,,,,,"",""
+ball,1,6.1,Wellington,DP Conway,FH Allen,L Delport,0,0,,,,,,"",""
+ball,1,6.2,Wellington,DP Conway,FH Allen,L Delport,0,0,,,,,,"",""
+ball,1,6.3,Wellington,DP Conway,FH Allen,L Delport,4,0,,,,,,"",""
+ball,1,6.4,Wellington,DP Conway,FH Allen,L Delport,4,0,,,,,,"",""
+ball,1,6.5,Wellington,DP Conway,FH Allen,L Delport,2,0,,,,,,"",""
+ball,1,6.6,Wellington,DP Conway,FH Allen,L Delport,1,0,,,,,,"",""
+ball,1,7.1,Wellington,DP Conway,FH Allen,SM Solia,1,0,,,,,,"",""
+ball,1,7.2,Wellington,FH Allen,DP Conway,SM Solia,0,1,,,,1,,"",""
+ball,1,7.3,Wellington,DP Conway,FH Allen,SM Solia,1,0,,,,,,"",""
+ball,1,7.4,Wellington,FH Allen,DP Conway,SM Solia,1,0,,,,,,"",""
+ball,1,7.5,Wellington,DP Conway,FH Allen,SM Solia,1,0,,,,,,"",""
+ball,1,7.6,Wellington,FH Allen,DP Conway,SM Solia,0,0,,,,,,"",""
+ball,1,8.1,Wellington,DP Conway,FH Allen,RM ter Braak,0,0,,,,,,"",""
+ball,1,8.2,Wellington,DP Conway,FH Allen,RM ter Braak,1,0,,,,,,"",""
+ball,1,8.3,Wellington,FH Allen,DP Conway,RM ter Braak,1,0,,,,,,"",""
+ball,1,8.4,Wellington,DP Conway,FH Allen,RM ter Braak,0,1,1,,,,,"",""
+ball,1,8.5,Wellington,DP Conway,FH Allen,RM ter Braak,1,0,,,,,,"",""
+ball,1,8.6,Wellington,FH Allen,DP Conway,RM ter Braak,4,0,,,,,,"",""
+ball,1,8.7,Wellington,FH Allen,DP Conway,RM ter Braak,1,0,,,,,,"",""
+ball,1,9.1,Wellington,FH Allen,DP Conway,SM Solia,0,0,,,,,,"",""
+ball,1,9.2,Wellington,FH Allen,DP Conway,SM Solia,0,0,,,,,,caught,FH Allen
+ball,1,9.3,Wellington,DP Conway,TA Blundell,SM Solia,2,0,,,,,,"",""
+ball,1,9.4,Wellington,DP Conway,TA Blundell,SM Solia,1,0,,,,,,"",""
+ball,1,9.5,Wellington,TA Blundell,DP Conway,SM Solia,1,0,,,,,,"",""
+ball,1,9.6,Wellington,DP Conway,TA Blundell,SM Solia,1,0,,,,,,"",""
+ball,1,10.1,Wellington,DP Conway,TA Blundell,KA Jamieson,0,0,,,,,,"",""
+ball,1,10.2,Wellington,DP Conway,TA Blundell,KA Jamieson,6,0,,,,,,"",""
+ball,1,10.3,Wellington,DP Conway,TA Blundell,KA Jamieson,0,0,,,,,,"",""
+ball,1,10.4,Wellington,DP Conway,TA Blundell,KA Jamieson,2,0,,,,,,"",""
+ball,1,10.5,Wellington,DP Conway,TA Blundell,KA Jamieson,0,0,,,,,,"",""
+ball,1,10.6,Wellington,DP Conway,TA Blundell,KA Jamieson,1,0,,,,,,"",""
+ball,1,11.1,Wellington,DP Conway,TA Blundell,SM Solia,0,1,1,,,,,"",""
+ball,1,11.2,Wellington,DP Conway,TA Blundell,SM Solia,0,0,,,,,,"",""
+ball,1,11.3,Wellington,DP Conway,TA Blundell,SM Solia,1,0,,,,,,"",""
+ball,1,11.4,Wellington,TA Blundell,DP Conway,SM Solia,1,0,,,,,,"",""
+ball,1,11.5,Wellington,DP Conway,TA Blundell,SM Solia,0,1,,,,1,,"",""
+ball,1,11.6,Wellington,TA Blundell,DP Conway,SM Solia,4,0,,,,,,"",""
+ball,1,11.7,Wellington,TA Blundell,DP Conway,SM Solia,1,0,,,,,,"",""
+ball,1,12.1,Wellington,TA Blundell,DP Conway,WER Somerville,1,0,,,,,,"",""
+ball,1,12.2,Wellington,DP Conway,TA Blundell,WER Somerville,4,0,,,,,,"",""
+ball,1,12.3,Wellington,DP Conway,TA Blundell,WER Somerville,6,0,,,,,,"",""
+ball,1,12.4,Wellington,DP Conway,TA Blundell,WER Somerville,4,0,,,,,,"",""
+ball,1,12.5,Wellington,DP Conway,TA Blundell,WER Somerville,0,0,,,,,,"",""
+ball,1,12.6,Wellington,DP Conway,TA Blundell,WER Somerville,4,0,,,,,,"",""
+ball,1,13.1,Wellington,TA Blundell,DP Conway,SM Solia,0,0,,,,,,"",""
+ball,1,13.2,Wellington,TA Blundell,DP Conway,SM Solia,1,0,,,,,,"",""
+ball,1,13.3,Wellington,DP Conway,TA Blundell,SM Solia,1,0,,,,,,"",""
+ball,1,13.4,Wellington,TA Blundell,DP Conway,SM Solia,4,0,,,,,,"",""
+ball,1,13.5,Wellington,TA Blundell,DP Conway,SM Solia,0,1,,,,1,,"",""
+ball,1,13.6,Wellington,DP Conway,TA Blundell,SM Solia,0,0,,,,,,"",""
+ball,1,14.1,Wellington,TA Blundell,DP Conway,L Delport,1,0,,,,,,"",""
+ball,1,14.2,Wellington,DP Conway,TA Blundell,L Delport,1,0,,,,,,"",""
+ball,1,14.3,Wellington,TA Blundell,DP Conway,L Delport,1,0,,,,,,"",""
+ball,1,14.4,Wellington,DP Conway,TA Blundell,L Delport,0,0,,,,,,"",""
+ball,1,14.5,Wellington,DP Conway,TA Blundell,L Delport,4,0,,,,,,"",""
+ball,1,14.6,Wellington,DP Conway,TA Blundell,L Delport,6,0,,,,,,"",""
+ball,1,15.1,Wellington,TA Blundell,DP Conway,KA Jamieson,4,0,,,,,,"",""
+ball,1,15.2,Wellington,TA Blundell,DP Conway,KA Jamieson,6,0,,,,,,"",""
+ball,1,15.3,Wellington,TA Blundell,DP Conway,KA Jamieson,0,0,,,,,,"",""
+ball,1,15.4,Wellington,TA Blundell,DP Conway,KA Jamieson,1,0,,,,,,"",""
+ball,1,15.5,Wellington,DP Conway,TA Blundell,KA Jamieson,1,0,,,,,,"",""
+ball,1,15.6,Wellington,TA Blundell,DP Conway,KA Jamieson,0,0,,,,,,"",""
+ball,1,16.1,Wellington,DP Conway,TA Blundell,DK Ferns,0,1,1,,,,,"",""
+ball,1,16.2,Wellington,DP Conway,TA Blundell,DK Ferns,1,0,,,,,,"",""
+ball,1,16.3,Wellington,TA Blundell,DP Conway,DK Ferns,0,0,,,,,,"",""
+ball,1,16.4,Wellington,TA Blundell,DP Conway,DK Ferns,6,0,,,,,,"",""
+ball,1,16.5,Wellington,TA Blundell,DP Conway,DK Ferns,0,1,1,,,,,"",""
+ball,1,16.6,Wellington,TA Blundell,DP Conway,DK Ferns,4,0,,,,,,"",""
+ball,1,16.7,Wellington,TA Blundell,DP Conway,DK Ferns,6,0,,,,,,"",""
+ball,1,16.8,Wellington,TA Blundell,DP Conway,DK Ferns,4,0,,,,,,"",""
+ball,1,17.1,Wellington,DP Conway,TA Blundell,RM ter Braak,4,0,,,,,,"",""
+ball,1,17.2,Wellington,DP Conway,TA Blundell,RM ter Braak,1,0,,,,,,"",""
+ball,1,17.3,Wellington,TA Blundell,DP Conway,RM ter Braak,0,0,,,,,,"",""
+ball,1,17.4,Wellington,TA Blundell,DP Conway,RM ter Braak,0,0,,,,,,caught,TA Blundell
+ball,1,17.5,Wellington,DP Conway,JDS Neesham,RM ter Braak,6,0,,,,,,"",""
+ball,1,17.6,Wellington,DP Conway,JDS Neesham,RM ter Braak,1,0,,,,,,"",""
+ball,1,18.1,Wellington,DP Conway,JDS Neesham,GD Phillips,1,0,,,,,,"",""
+ball,1,18.2,Wellington,JDS Neesham,DP Conway,GD Phillips,1,0,,,,,,"",""
+ball,1,18.3,Wellington,DP Conway,JDS Neesham,GD Phillips,2,0,,,,,,"",""
+ball,1,18.4,Wellington,DP Conway,JDS Neesham,GD Phillips,1,0,,,,,,"",""
+ball,1,18.5,Wellington,JDS Neesham,DP Conway,GD Phillips,4,0,,,,,,"",""
+ball,1,18.6,Wellington,JDS Neesham,DP Conway,GD Phillips,0,0,,,,,,"",""
+ball,1,19.1,Wellington,DP Conway,JDS Neesham,RM ter Braak,2,0,,,,,,"",""
+ball,1,19.2,Wellington,DP Conway,JDS Neesham,RM ter Braak,2,0,,,,,,"",""
+ball,1,19.3,Wellington,DP Conway,JDS Neesham,RM ter Braak,1,0,,,,,,"",""
+ball,1,19.4,Wellington,JDS Neesham,DP Conway,RM ter Braak,1,0,,,,,,"",""
+ball,1,19.5,Wellington,DP Conway,JDS Neesham,RM ter Braak,1,0,,,,,,"",""
+ball,1,19.6,Wellington,JDS Neesham,DP Conway,RM ter Braak,0,0,,,,,,"",""
+ball,2,0.1,Auckland,SM Solia,GD Phillips,HK Bennett,1,0,,,,,,"",""
+ball,2,0.2,Auckland,GD Phillips,SM Solia,HK Bennett,0,0,,,,,,"",""
+ball,2,0.3,Auckland,GD Phillips,SM Solia,HK Bennett,4,0,,,,,,"",""
+ball,2,0.4,Auckland,GD Phillips,SM Solia,HK Bennett,1,0,,,,,,"",""
+ball,2,0.5,Auckland,SM Solia,GD Phillips,HK Bennett,0,0,,,,,,"",""
+ball,2,0.6,Auckland,SM Solia,GD Phillips,HK Bennett,6,0,,,,,,"",""
+ball,2,1.1,Auckland,GD Phillips,SM Solia,LV van Beek,6,0,,,,,,"",""
+ball,2,1.2,Auckland,GD Phillips,SM Solia,LV van Beek,0,0,,,,,,"",""
+ball,2,1.3,Auckland,GD Phillips,SM Solia,LV van Beek,4,0,,,,,,"",""
+ball,2,1.4,Auckland,GD Phillips,SM Solia,LV van Beek,0,0,,,,,,caught,GD Phillips
+ball,2,1.5,Auckland,WT O'Donnell,SM Solia,LV van Beek,0,0,,,,,,"",""
+ball,2,1.6,Auckland,WT O'Donnell,SM Solia,LV van Beek,1,0,,,,,,"",""
+ball,2,2.1,Auckland,WT O'Donnell,SM Solia,JDS Neesham,0,0,,,,,,"",""
+ball,2,2.2,Auckland,WT O'Donnell,SM Solia,JDS Neesham,4,0,,,,,,"",""
+ball,2,2.3,Auckland,WT O'Donnell,SM Solia,JDS Neesham,6,0,,,,,,"",""
+ball,2,2.4,Auckland,WT O'Donnell,SM Solia,JDS Neesham,0,0,,,,,,"",""
+ball,2,2.5,Auckland,WT O'Donnell,SM Solia,JDS Neesham,1,0,,,,,,"",""
+ball,2,2.6,Auckland,SM Solia,WT O'Donnell,JDS Neesham,4,0,,,,,,"",""
+ball,2,3.1,Auckland,WT O'Donnell,SM Solia,LV van Beek,1,0,,,,,,"",""
+ball,2,3.2,Auckland,SM Solia,WT O'Donnell,LV van Beek,1,0,,,,,,"",""
+ball,2,3.3,Auckland,WT O'Donnell,SM Solia,LV van Beek,1,0,,,,,,"",""
+ball,2,3.4,Auckland,SM Solia,WT O'Donnell,LV van Beek,0,1,1,,,,,"",""
+ball,2,3.5,Auckland,SM Solia,WT O'Donnell,LV van Beek,4,0,,,,,,"",""
+ball,2,3.6,Auckland,SM Solia,WT O'Donnell,LV van Beek,1,0,,,,,,"",""
+ball,2,3.7,Auckland,WT O'Donnell,SM Solia,LV van Beek,1,0,,,,,,"",""
+ball,2,4.1,Auckland,WT O'Donnell,SM Solia,HK Bennett,1,0,,,,,,"",""
+ball,2,4.2,Auckland,SM Solia,WT O'Donnell,HK Bennett,0,1,,,,1,,"",""
+ball,2,4.3,Auckland,WT O'Donnell,SM Solia,HK Bennett,1,0,,,,,,"",""
+ball,2,4.4,Auckland,SM Solia,WT O'Donnell,HK Bennett,0,0,,,,,,caught,SM Solia
+ball,2,4.5,Auckland,WT O'Donnell,MS Chapman,HK Bennett,0,0,,,,,,"",""
+ball,2,4.6,Auckland,WT O'Donnell,MS Chapman,HK Bennett,0,0,,,,,,"",""
+ball,2,5.1,Auckland,MS Chapman,WT O'Donnell,JDS Neesham,1,0,,,,,,"",""
+ball,2,5.2,Auckland,WT O'Donnell,MS Chapman,JDS Neesham,0,0,,,,,,"",""
+ball,2,5.3,Auckland,WT O'Donnell,MS Chapman,JDS Neesham,2,0,,,,,,"",""
+ball,2,5.4,Auckland,WT O'Donnell,MS Chapman,JDS Neesham,0,0,,,,,,"",""
+ball,2,5.5,Auckland,WT O'Donnell,MS Chapman,JDS Neesham,1,0,,,,,,"",""
+ball,2,5.6,Auckland,MS Chapman,WT O'Donnell,JDS Neesham,1,0,,,,,,"",""
+ball,2,6.1,Auckland,MS Chapman,WT O'Donnell,MG Bracewell,1,0,,,,,,"",""
+ball,2,6.2,Auckland,WT O'Donnell,MS Chapman,MG Bracewell,6,0,,,,,,"",""
+ball,2,6.3,Auckland,WT O'Donnell,MS Chapman,MG Bracewell,4,0,,,,,,"",""
+ball,2,6.4,Auckland,WT O'Donnell,MS Chapman,MG Bracewell,6,0,,,,,,"",""
+ball,2,6.5,Auckland,WT O'Donnell,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,2,6.6,Auckland,MS Chapman,WT O'Donnell,MG Bracewell,6,0,,,,,,"",""
+ball,2,7.1,Auckland,WT O'Donnell,MS Chapman,PF Younghusband,1,0,,,,,,"",""
+ball,2,7.2,Auckland,MS Chapman,WT O'Donnell,PF Younghusband,0,0,,,,,,"",""
+ball,2,7.3,Auckland,MS Chapman,WT O'Donnell,PF Younghusband,2,0,,,,,,"",""
+ball,2,7.4,Auckland,MS Chapman,WT O'Donnell,PF Younghusband,4,0,,,,,,"",""
+ball,2,7.5,Auckland,MS Chapman,WT O'Donnell,PF Younghusband,0,0,,,,,,"",""
+ball,2,7.6,Auckland,MS Chapman,WT O'Donnell,PF Younghusband,0,0,,,,,,"",""
+ball,2,8.1,Auckland,WT O'Donnell,MS Chapman,JD Gibson,0,0,,,,,,caught,WT O'Donnell
+ball,2,8.2,Auckland,RR O'Donnell,MS Chapman,JD Gibson,1,0,,,,,,"",""
+ball,2,8.3,Auckland,MS Chapman,RR O'Donnell,JD Gibson,0,0,,,,,,"",""
+ball,2,8.4,Auckland,MS Chapman,RR O'Donnell,JD Gibson,0,0,,,,,,"",""
+ball,2,8.5,Auckland,MS Chapman,RR O'Donnell,JD Gibson,0,1,1,,,,,"",""
+ball,2,8.6,Auckland,MS Chapman,RR O'Donnell,JD Gibson,0,0,,,,,,"",""
+ball,2,8.7,Auckland,MS Chapman,RR O'Donnell,JD Gibson,1,0,,,,,,"",""
+ball,2,9.1,Auckland,MS Chapman,RR O'Donnell,PF Younghusband,0,0,,,,,,caught,MS Chapman
+ball,2,9.2,Auckland,RR O'Donnell,BJ Horne,PF Younghusband,1,0,,,,,,"",""
+ball,2,9.3,Auckland,BJ Horne,RR O'Donnell,PF Younghusband,1,0,,,,,,"",""
+ball,2,9.4,Auckland,RR O'Donnell,BJ Horne,PF Younghusband,0,0,,,,,,"",""
+ball,2,9.5,Auckland,RR O'Donnell,BJ Horne,PF Younghusband,4,0,,,,,,"",""
+ball,2,9.6,Auckland,RR O'Donnell,BJ Horne,PF Younghusband,2,0,,,,,,"",""
+ball,2,10.1,Auckland,BJ Horne,RR O'Donnell,JD Gibson,0,0,,,,,,"",""
+ball,2,10.2,Auckland,BJ Horne,RR O'Donnell,JD Gibson,1,0,,,,,,"",""
+ball,2,10.3,Auckland,RR O'Donnell,BJ Horne,JD Gibson,1,0,,,,,,"",""
+ball,2,10.4,Auckland,BJ Horne,RR O'Donnell,JD Gibson,2,0,,,,,,"",""
+ball,2,10.5,Auckland,BJ Horne,RR O'Donnell,JD Gibson,1,0,,,,,,"",""
+ball,2,10.6,Auckland,RR O'Donnell,BJ Horne,JD Gibson,6,0,,,,,,"",""
+ball,2,11.1,Auckland,BJ Horne,RR O'Donnell,PF Younghusband,1,0,,,,,,"",""
+ball,2,11.2,Auckland,RR O'Donnell,BJ Horne,PF Younghusband,1,0,,,,,,"",""
+ball,2,11.3,Auckland,BJ Horne,RR O'Donnell,PF Younghusband,1,0,,,,,,"",""
+ball,2,11.4,Auckland,RR O'Donnell,BJ Horne,PF Younghusband,1,0,,,,,,"",""
+ball,2,11.5,Auckland,BJ Horne,RR O'Donnell,PF Younghusband,0,0,,,,,,"",""
+ball,2,11.6,Auckland,BJ Horne,RR O'Donnell,PF Younghusband,1,0,,,,,,"",""
+ball,2,12.1,Auckland,BJ Horne,RR O'Donnell,HK Bennett,0,1,,,,1,,"",""
+ball,2,12.2,Auckland,RR O'Donnell,BJ Horne,HK Bennett,1,0,,,,,,"",""
+ball,2,12.3,Auckland,BJ Horne,RR O'Donnell,HK Bennett,0,1,1,,,,,"",""
+ball,2,12.4,Auckland,BJ Horne,RR O'Donnell,HK Bennett,1,0,,,,,,"",""
+ball,2,12.5,Auckland,RR O'Donnell,BJ Horne,HK Bennett,2,0,,,,,,"",""
+ball,2,12.6,Auckland,RR O'Donnell,BJ Horne,HK Bennett,0,0,,,,,,caught,RR O'Donnell
+ball,2,12.7,Auckland,KA Jamieson,BJ Horne,HK Bennett,1,0,,,,,,"",""
+ball,2,13.1,Auckland,KA Jamieson,BJ Horne,JD Gibson,1,0,,,,,,"",""
+ball,2,13.2,Auckland,BJ Horne,KA Jamieson,JD Gibson,1,0,,,,,,"",""
+ball,2,13.3,Auckland,KA Jamieson,BJ Horne,JD Gibson,1,0,,,,,,"",""
+ball,2,13.4,Auckland,BJ Horne,KA Jamieson,JD Gibson,1,0,,,,,,"",""
+ball,2,13.5,Auckland,KA Jamieson,BJ Horne,JD Gibson,1,0,,,,,,"",""
+ball,2,13.6,Auckland,BJ Horne,KA Jamieson,JD Gibson,0,0,,,,,,"",""
+ball,2,14.1,Auckland,KA Jamieson,BJ Horne,PF Younghusband,1,0,,,,,,"",""
+ball,2,14.2,Auckland,BJ Horne,KA Jamieson,PF Younghusband,6,0,,,,,,"",""
+ball,2,14.3,Auckland,BJ Horne,KA Jamieson,PF Younghusband,0,0,,,,,,"",""
+ball,2,14.4,Auckland,BJ Horne,KA Jamieson,PF Younghusband,0,0,,,,,,"",""
+ball,2,14.5,Auckland,BJ Horne,KA Jamieson,PF Younghusband,0,0,,,,,,caught and bowled,BJ Horne
+ball,2,14.6,Auckland,WER Somerville,KA Jamieson,PF Younghusband,6,0,,,,,,"",""
+ball,2,15.1,Auckland,KA Jamieson,WER Somerville,JDS Neesham,4,0,,,,,,"",""
+ball,2,15.2,Auckland,KA Jamieson,WER Somerville,JDS Neesham,2,0,,,,,,"",""
+ball,2,15.3,Auckland,KA Jamieson,WER Somerville,JDS Neesham,1,0,,,,,,"",""
+ball,2,15.4,Auckland,WER Somerville,KA Jamieson,JDS Neesham,6,0,,,,,,"",""
+ball,2,15.5,Auckland,WER Somerville,KA Jamieson,JDS Neesham,4,0,,,,,,"",""
+ball,2,15.6,Auckland,WER Somerville,KA Jamieson,JDS Neesham,1,0,,,,,,"",""
+ball,2,16.1,Auckland,WER Somerville,KA Jamieson,LV van Beek,2,0,,,,,,"",""
+ball,2,16.2,Auckland,WER Somerville,KA Jamieson,LV van Beek,0,1,,,,1,,"",""
+ball,2,16.3,Auckland,KA Jamieson,WER Somerville,LV van Beek,0,1,1,,,,,"",""
+ball,2,16.4,Auckland,KA Jamieson,WER Somerville,LV van Beek,2,0,,,,,,"",""
+ball,2,16.5,Auckland,KA Jamieson,WER Somerville,LV van Beek,2,0,,,,,,"",""
+ball,2,16.6,Auckland,KA Jamieson,WER Somerville,LV van Beek,1,0,,,,,,"",""
+ball,2,16.7,Auckland,WER Somerville,KA Jamieson,LV van Beek,6,0,,,,,,"",""
+ball,2,17.1,Auckland,KA Jamieson,WER Somerville,JDS Neesham,0,1,1,,,,,"",""
+ball,2,17.2,Auckland,KA Jamieson,WER Somerville,JDS Neesham,0,0,,,,,,bowled,KA Jamieson
+ball,2,17.3,Auckland,RM ter Braak,WER Somerville,JDS Neesham,0,0,,,,,,caught,RM ter Braak
+ball,2,17.4,Auckland,WER Somerville,DK Ferns,JDS Neesham,1,0,,,,,,"",""
+ball,2,17.5,Auckland,DK Ferns,WER Somerville,JDS Neesham,0,0,,,,,,"",""
+ball,2,17.6,Auckland,DK Ferns,WER Somerville,JDS Neesham,1,0,,,,,,"",""
+ball,2,17.7,Auckland,WER Somerville,DK Ferns,JDS Neesham,0,0,,,,,,caught,WER Somerville
+ball,2,18.1,Auckland,L Delport,DK Ferns,HK Bennett,1,0,,,,,,"",""
+ball,2,18.2,Auckland,DK Ferns,L Delport,HK Bennett,0,0,,,,,,"",""
+ball,2,18.3,Auckland,DK Ferns,L Delport,HK Bennett,1,0,,,,,,"",""
+ball,2,18.4,Auckland,L Delport,DK Ferns,HK Bennett,1,0,,,,,,"",""
+ball,2,18.5,Auckland,DK Ferns,L Delport,HK Bennett,4,0,,,,,,"",""
+ball,2,18.6,Auckland,DK Ferns,L Delport,HK Bennett,1,0,,,,,,"",""
+ball,2,19.1,Auckland,DK Ferns,L Delport,LV van Beek,1,0,,,,,,"",""
+ball,2,19.2,Auckland,L Delport,DK Ferns,LV van Beek,0,1,,,,1,,"",""
+ball,2,19.3,Auckland,DK Ferns,L Delport,LV van Beek,1,0,,,,,,"",""
+ball,2,19.4,Auckland,L Delport,DK Ferns,LV van Beek,1,0,,,,,,"",""
+ball,2,19.5,Auckland,DK Ferns,L Delport,LV van Beek,4,0,,,,,,"",""
+ball,2,19.6,Auckland,DK Ferns,L Delport,LV van Beek,0,0,,,,,,caught,DK Ferns

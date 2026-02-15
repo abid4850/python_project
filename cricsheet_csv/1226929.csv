@@ -1,0 +1,316 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sydney Thunder
+info,team,Hobart Hurricanes
+info,gender,female
+info,season,2020/21
+info,date,2020/11/08
+info,event,Women's Big Bash League
+info,match_number,25
+info,venue,Hurstville Oval
+info,city,Sydney
+info,toss_winner,Hobart Hurricanes
+info,toss_decision,field
+info,player_of_match,HC Knight
+info,umpire,TJ Matibiri
+info,umpire,SE Dionysius
+info,match_referee,David Johnston
+info,winner,Sydney Thunder
+info,winner_runs,1
+info,player,Sydney Thunder,TT Beaumont
+info,player,Sydney Thunder,R Trenaman
+info,player,Sydney Thunder,SJ Johnson
+info,player,Sydney Thunder,HC Knight
+info,player,Sydney Thunder,RL Haynes
+info,player,Sydney Thunder,P Litchfield
+info,player,Sydney Thunder,LG Smith
+info,player,Sydney Thunder,T Wilson
+info,player,Sydney Thunder,HJ Darlington
+info,player,Sydney Thunder,S Ismail
+info,player,Sydney Thunder,SL Bates
+info,player,Hobart Hurricanes,RH Priest
+info,player,Hobart Hurricanes,NE Stalenberg
+info,player,Hobart Hurricanes,HK Matthews
+info,player,Hobart Hurricanes,NJ Carey
+info,player,Hobart Hurricanes,CL Tryon
+info,player,Hobart Hurricanes,CL Hall
+info,player,Hobart Hurricanes,SK Moloney
+info,player,Hobart Hurricanes,E Kershaw
+info,player,Hobart Hurricanes,B Vakarewa
+info,player,Hobart Hurricanes,B Hepburn
+info,player,Hobart Hurricanes,A Smith
+info,registry,people,A Smith,b125ce63
+info,registry,people,B Hepburn,df04fc4f
+info,registry,people,B Vakarewa,06f988b8
+info,registry,people,CL Hall,6026e2ae
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,David Johnston,92cef862
+info,registry,people,E Kershaw,8eeebce2
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HJ Darlington,50b558d2
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,LG Smith,9c515112
+info,registry,people,NE Stalenberg,609c519e
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,R Trenaman,877dd709
+info,registry,people,RH Priest,e6f0408a
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,S Ismail,108c4c09
+info,registry,people,SE Dionysius,ac886e6f
+info,registry,people,SJ Johnson,d7b754d4
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,SL Bates,0816fb1e
+info,registry,people,T Wilson,32100b2d
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,TT Beaumont,b2664905
+ball,1,0.1,Sydney Thunder,TT Beaumont,R Trenaman,B Vakarewa,2,0,,,,,,"",""
+ball,1,0.2,Sydney Thunder,TT Beaumont,R Trenaman,B Vakarewa,2,0,,,,,,"",""
+ball,1,0.3,Sydney Thunder,TT Beaumont,R Trenaman,B Vakarewa,0,0,,,,,,"",""
+ball,1,0.4,Sydney Thunder,TT Beaumont,R Trenaman,B Vakarewa,0,0,,,,,,"",""
+ball,1,0.5,Sydney Thunder,TT Beaumont,R Trenaman,B Vakarewa,1,0,,,,,,"",""
+ball,1,0.6,Sydney Thunder,R Trenaman,TT Beaumont,B Vakarewa,0,0,,,,,,"",""
+ball,1,1.1,Sydney Thunder,TT Beaumont,R Trenaman,HK Matthews,0,0,,,,,,"",""
+ball,1,1.2,Sydney Thunder,TT Beaumont,R Trenaman,HK Matthews,0,2,2,,,,,"",""
+ball,1,1.3,Sydney Thunder,R Trenaman,TT Beaumont,HK Matthews,0,0,,,,,,caught,R Trenaman
+ball,1,1.4,Sydney Thunder,SJ Johnson,TT Beaumont,HK Matthews,1,0,,,,,,"",""
+ball,1,1.5,Sydney Thunder,TT Beaumont,SJ Johnson,HK Matthews,0,0,,,,,,"",""
+ball,1,1.6,Sydney Thunder,TT Beaumont,SJ Johnson,HK Matthews,1,0,,,,,,"",""
+ball,1,1.7,Sydney Thunder,SJ Johnson,TT Beaumont,HK Matthews,0,1,1,,,,,"",""
+ball,1,1.8,Sydney Thunder,SJ Johnson,TT Beaumont,HK Matthews,1,0,,,,,,"",""
+ball,1,2.1,Sydney Thunder,SJ Johnson,TT Beaumont,B Vakarewa,1,0,,,,,,"",""
+ball,1,2.2,Sydney Thunder,TT Beaumont,SJ Johnson,B Vakarewa,1,0,,,,,,"",""
+ball,1,2.3,Sydney Thunder,SJ Johnson,TT Beaumont,B Vakarewa,1,0,,,,,,"",""
+ball,1,2.4,Sydney Thunder,TT Beaumont,SJ Johnson,B Vakarewa,0,0,,,,,,"",""
+ball,1,2.5,Sydney Thunder,TT Beaumont,SJ Johnson,B Vakarewa,0,1,,,,1,,"",""
+ball,1,2.6,Sydney Thunder,SJ Johnson,TT Beaumont,B Vakarewa,1,0,,,,,,"",""
+ball,1,3.1,Sydney Thunder,SJ Johnson,TT Beaumont,NJ Carey,4,0,,,,,,"",""
+ball,1,3.2,Sydney Thunder,SJ Johnson,TT Beaumont,NJ Carey,0,0,,,,,,bowled,SJ Johnson
+ball,1,3.3,Sydney Thunder,HC Knight,TT Beaumont,NJ Carey,0,0,,,,,,"",""
+ball,1,3.4,Sydney Thunder,HC Knight,TT Beaumont,NJ Carey,2,0,,,,,,"",""
+ball,1,3.5,Sydney Thunder,HC Knight,TT Beaumont,NJ Carey,4,0,,,,,,"",""
+ball,1,3.6,Sydney Thunder,HC Knight,TT Beaumont,NJ Carey,0,0,,,,,,"",""
+ball,1,4.1,Sydney Thunder,TT Beaumont,HC Knight,B Hepburn,1,0,,,,,,"",""
+ball,1,4.2,Sydney Thunder,HC Knight,TT Beaumont,B Hepburn,1,0,,,,,,"",""
+ball,1,4.3,Sydney Thunder,TT Beaumont,HC Knight,B Hepburn,2,0,,,,,,"",""
+ball,1,4.4,Sydney Thunder,TT Beaumont,HC Knight,B Hepburn,0,0,,,,,,"",""
+ball,1,4.5,Sydney Thunder,TT Beaumont,HC Knight,B Hepburn,0,1,1,,,,,"",""
+ball,1,4.6,Sydney Thunder,TT Beaumont,HC Knight,B Hepburn,0,1,,,,1,,"",""
+ball,1,4.7,Sydney Thunder,HC Knight,TT Beaumont,B Hepburn,0,0,,,,,,"",""
+ball,1,5.1,Sydney Thunder,TT Beaumont,HC Knight,HK Matthews,2,0,,,,,,"",""
+ball,1,5.2,Sydney Thunder,TT Beaumont,HC Knight,HK Matthews,0,0,,,,,,"",""
+ball,1,5.3,Sydney Thunder,TT Beaumont,HC Knight,HK Matthews,0,0,,,,,,"",""
+ball,1,5.4,Sydney Thunder,TT Beaumont,HC Knight,HK Matthews,1,0,,,,,,"",""
+ball,1,5.5,Sydney Thunder,HC Knight,TT Beaumont,HK Matthews,4,0,,,,,,"",""
+ball,1,5.6,Sydney Thunder,HC Knight,TT Beaumont,HK Matthews,0,0,,,,,,"",""
+ball,1,6.1,Sydney Thunder,TT Beaumont,HC Knight,CL Tryon,1,0,,,,,,"",""
+ball,1,6.2,Sydney Thunder,HC Knight,TT Beaumont,CL Tryon,1,0,,,,,,"",""
+ball,1,6.3,Sydney Thunder,TT Beaumont,HC Knight,CL Tryon,1,0,,,,,,"",""
+ball,1,6.4,Sydney Thunder,HC Knight,TT Beaumont,CL Tryon,4,0,,,,,,"",""
+ball,1,6.5,Sydney Thunder,HC Knight,TT Beaumont,CL Tryon,1,0,,,,,,"",""
+ball,1,6.6,Sydney Thunder,TT Beaumont,HC Knight,CL Tryon,0,0,,,,,,"",""
+ball,1,7.1,Sydney Thunder,HC Knight,TT Beaumont,A Smith,0,0,,,,,,"",""
+ball,1,7.2,Sydney Thunder,HC Knight,TT Beaumont,A Smith,1,0,,,,,,"",""
+ball,1,7.3,Sydney Thunder,TT Beaumont,HC Knight,A Smith,0,1,1,,,,,"",""
+ball,1,7.4,Sydney Thunder,TT Beaumont,HC Knight,A Smith,1,0,,,,,,"",""
+ball,1,7.5,Sydney Thunder,HC Knight,TT Beaumont,A Smith,2,0,,,,,,"",""
+ball,1,7.6,Sydney Thunder,HC Knight,TT Beaumont,A Smith,1,0,,,,,,"",""
+ball,1,7.7,Sydney Thunder,TT Beaumont,HC Knight,A Smith,1,0,,,,,,"",""
+ball,1,8.1,Sydney Thunder,TT Beaumont,HC Knight,NJ Carey,0,0,,,,,,"",""
+ball,1,8.2,Sydney Thunder,TT Beaumont,HC Knight,NJ Carey,1,0,,,,,,"",""
+ball,1,8.3,Sydney Thunder,HC Knight,TT Beaumont,NJ Carey,4,0,,,,,,"",""
+ball,1,8.4,Sydney Thunder,HC Knight,TT Beaumont,NJ Carey,0,0,,,,,,run out,TT Beaumont
+ball,1,8.5,Sydney Thunder,HC Knight,RL Haynes,NJ Carey,1,0,,,,,,"",""
+ball,1,8.6,Sydney Thunder,RL Haynes,HC Knight,NJ Carey,0,0,,,,,,"",""
+ball,1,9.1,Sydney Thunder,HC Knight,RL Haynes,SK Moloney,0,0,,,,,,"",""
+ball,1,9.2,Sydney Thunder,HC Knight,RL Haynes,SK Moloney,1,0,,,,,,"",""
+ball,1,9.3,Sydney Thunder,RL Haynes,HC Knight,SK Moloney,2,0,,,,,,"",""
+ball,1,9.4,Sydney Thunder,RL Haynes,HC Knight,SK Moloney,1,0,,,,,,"",""
+ball,1,9.5,Sydney Thunder,HC Knight,RL Haynes,SK Moloney,1,0,,,,,,"",""
+ball,1,9.6,Sydney Thunder,RL Haynes,HC Knight,SK Moloney,0,0,,,,,,"",""
+ball,1,10.1,Sydney Thunder,HC Knight,RL Haynes,B Hepburn,2,0,,,,,,"",""
+ball,1,10.2,Sydney Thunder,HC Knight,RL Haynes,B Hepburn,0,0,,,,,,"",""
+ball,1,10.3,Sydney Thunder,HC Knight,RL Haynes,B Hepburn,1,0,,,,,,"",""
+ball,1,10.4,Sydney Thunder,RL Haynes,HC Knight,B Hepburn,0,1,,,,1,,"",""
+ball,1,10.5,Sydney Thunder,HC Knight,RL Haynes,B Hepburn,1,0,,,,,,"",""
+ball,1,10.6,Sydney Thunder,RL Haynes,HC Knight,B Hepburn,0,0,,,,,,"",""
+ball,1,11.1,Sydney Thunder,HC Knight,RL Haynes,HK Matthews,1,0,,,,,,"",""
+ball,1,11.2,Sydney Thunder,RL Haynes,HC Knight,HK Matthews,2,0,,,,,,"",""
+ball,1,11.3,Sydney Thunder,RL Haynes,HC Knight,HK Matthews,1,0,,,,,,"",""
+ball,1,11.4,Sydney Thunder,HC Knight,RL Haynes,HK Matthews,0,0,,,,,,"",""
+ball,1,11.5,Sydney Thunder,HC Knight,RL Haynes,HK Matthews,1,0,,,,,,"",""
+ball,1,11.6,Sydney Thunder,RL Haynes,HC Knight,HK Matthews,1,0,,,,,,"",""
+ball,1,12.1,Sydney Thunder,RL Haynes,HC Knight,A Smith,0,0,,,,,,"",""
+ball,1,12.2,Sydney Thunder,RL Haynes,HC Knight,A Smith,1,0,,,,,,"",""
+ball,1,12.3,Sydney Thunder,HC Knight,RL Haynes,A Smith,1,0,,,,,,"",""
+ball,1,12.4,Sydney Thunder,RL Haynes,HC Knight,A Smith,0,0,,,,,,caught,RL Haynes
+ball,1,12.5,Sydney Thunder,P Litchfield,HC Knight,A Smith,0,0,,,,,,"",""
+ball,1,12.6,Sydney Thunder,P Litchfield,HC Knight,A Smith,1,0,,,,,,"",""
+ball,1,13.1,Sydney Thunder,P Litchfield,HC Knight,SK Moloney,2,0,,,,,,"",""
+ball,1,13.2,Sydney Thunder,P Litchfield,HC Knight,SK Moloney,0,0,,,,,,"",""
+ball,1,13.3,Sydney Thunder,P Litchfield,HC Knight,SK Moloney,0,0,,,,,,"",""
+ball,1,13.4,Sydney Thunder,P Litchfield,HC Knight,SK Moloney,4,0,,,,,,"",""
+ball,1,13.5,Sydney Thunder,P Litchfield,HC Knight,SK Moloney,2,0,,,,,,"",""
+ball,1,13.6,Sydney Thunder,P Litchfield,HC Knight,SK Moloney,1,0,,,,,,"",""
+ball,1,14.1,Sydney Thunder,P Litchfield,HC Knight,B Hepburn,1,0,,,,,,"",""
+ball,1,14.2,Sydney Thunder,HC Knight,P Litchfield,B Hepburn,4,0,,,,,,"",""
+ball,1,14.3,Sydney Thunder,HC Knight,P Litchfield,B Hepburn,1,0,,,,,,"",""
+ball,1,14.4,Sydney Thunder,P Litchfield,HC Knight,B Hepburn,1,0,,,,,,"",""
+ball,1,14.5,Sydney Thunder,HC Knight,P Litchfield,B Hepburn,1,0,,,,,,"",""
+ball,1,14.6,Sydney Thunder,P Litchfield,HC Knight,B Hepburn,1,0,,,,,,"",""
+ball,1,15.1,Sydney Thunder,P Litchfield,HC Knight,NJ Carey,1,0,,,,,,"",""
+ball,1,15.2,Sydney Thunder,HC Knight,P Litchfield,NJ Carey,0,0,,,,,,"",""
+ball,1,15.3,Sydney Thunder,HC Knight,P Litchfield,NJ Carey,2,0,,,,,,"",""
+ball,1,15.4,Sydney Thunder,HC Knight,P Litchfield,NJ Carey,2,0,,,,,,"",""
+ball,1,15.5,Sydney Thunder,HC Knight,P Litchfield,NJ Carey,0,1,1,,,,,"",""
+ball,1,15.6,Sydney Thunder,HC Knight,P Litchfield,NJ Carey,1,0,,,,,,"",""
+ball,1,15.7,Sydney Thunder,P Litchfield,HC Knight,NJ Carey,2,0,,,,,,"",""
+ball,1,16.1,Sydney Thunder,HC Knight,P Litchfield,A Smith,0,0,,,,,,"",""
+ball,1,16.2,Sydney Thunder,HC Knight,P Litchfield,A Smith,2,0,,,,,,"",""
+ball,1,16.3,Sydney Thunder,HC Knight,P Litchfield,A Smith,1,0,,,,,,"",""
+ball,1,16.4,Sydney Thunder,P Litchfield,HC Knight,A Smith,0,0,,,,,,stumped,P Litchfield
+ball,1,16.5,Sydney Thunder,LG Smith,HC Knight,A Smith,1,0,,,,,,"",""
+ball,1,16.6,Sydney Thunder,HC Knight,LG Smith,A Smith,1,0,,,,,,"",""
+ball,1,17.1,Sydney Thunder,HC Knight,LG Smith,B Vakarewa,1,0,,,,,,"",""
+ball,1,17.2,Sydney Thunder,LG Smith,HC Knight,B Vakarewa,1,0,,,,,,"",""
+ball,1,17.3,Sydney Thunder,HC Knight,LG Smith,B Vakarewa,2,0,,,,,,"",""
+ball,1,17.4,Sydney Thunder,HC Knight,LG Smith,B Vakarewa,1,0,,,,,,"",""
+ball,1,17.5,Sydney Thunder,LG Smith,HC Knight,B Vakarewa,1,0,,,,,,"",""
+ball,1,17.6,Sydney Thunder,HC Knight,LG Smith,B Vakarewa,1,0,,,,,,"",""
+ball,1,18.1,Sydney Thunder,HC Knight,LG Smith,HK Matthews,1,0,,,,,,"",""
+ball,1,18.2,Sydney Thunder,LG Smith,HC Knight,HK Matthews,2,0,,,,,,"",""
+ball,1,18.3,Sydney Thunder,LG Smith,HC Knight,HK Matthews,0,0,,,,,,"",""
+ball,1,18.4,Sydney Thunder,LG Smith,HC Knight,HK Matthews,0,0,,,,,,bowled,LG Smith
+ball,1,18.5,Sydney Thunder,T Wilson,HC Knight,HK Matthews,0,0,,,,,,"",""
+ball,1,18.6,Sydney Thunder,T Wilson,HC Knight,HK Matthews,1,0,,,,,,run out,T Wilson
+ball,1,19.1,Sydney Thunder,HC Knight,HJ Darlington,B Vakarewa,2,0,,,,,,"",""
+ball,1,19.2,Sydney Thunder,HC Knight,HJ Darlington,B Vakarewa,1,0,,,,,,"",""
+ball,1,19.3,Sydney Thunder,HJ Darlington,HC Knight,B Vakarewa,0,1,,,,1,,"",""
+ball,1,19.4,Sydney Thunder,HC Knight,HJ Darlington,B Vakarewa,1,0,,,,,,"",""
+ball,1,19.5,Sydney Thunder,HJ Darlington,HC Knight,B Vakarewa,1,0,,,,,,"",""
+ball,1,19.6,Sydney Thunder,HC Knight,HJ Darlington,B Vakarewa,1,0,,,,,,"",""
+ball,2,0.1,Hobart Hurricanes,RH Priest,NE Stalenberg,SJ Johnson,4,0,,,,,,"",""
+ball,2,0.2,Hobart Hurricanes,RH Priest,NE Stalenberg,SJ Johnson,4,0,,,,,,"",""
+ball,2,0.3,Hobart Hurricanes,RH Priest,NE Stalenberg,SJ Johnson,0,0,,,,,,"",""
+ball,2,0.4,Hobart Hurricanes,RH Priest,NE Stalenberg,SJ Johnson,4,0,,,,,,"",""
+ball,2,0.5,Hobart Hurricanes,RH Priest,NE Stalenberg,SJ Johnson,1,0,,,,,,"",""
+ball,2,0.6,Hobart Hurricanes,NE Stalenberg,RH Priest,SJ Johnson,0,0,,,,,,"",""
+ball,2,1.1,Hobart Hurricanes,RH Priest,NE Stalenberg,S Ismail,0,0,,,,,,"",""
+ball,2,1.2,Hobart Hurricanes,RH Priest,NE Stalenberg,S Ismail,0,0,,,,,,"",""
+ball,2,1.3,Hobart Hurricanes,RH Priest,NE Stalenberg,S Ismail,0,0,,,,,,"",""
+ball,2,1.4,Hobart Hurricanes,RH Priest,NE Stalenberg,S Ismail,0,0,,,,,,"",""
+ball,2,1.5,Hobart Hurricanes,RH Priest,NE Stalenberg,S Ismail,0,0,,,,,,"",""
+ball,2,1.6,Hobart Hurricanes,RH Priest,NE Stalenberg,S Ismail,1,0,,,,,,"",""
+ball,2,2.1,Hobart Hurricanes,RH Priest,NE Stalenberg,SL Bates,0,0,,,,,,"",""
+ball,2,2.2,Hobart Hurricanes,RH Priest,NE Stalenberg,SL Bates,1,0,,,,,,"",""
+ball,2,2.3,Hobart Hurricanes,NE Stalenberg,RH Priest,SL Bates,4,0,,,,,,"",""
+ball,2,2.4,Hobart Hurricanes,NE Stalenberg,RH Priest,SL Bates,0,0,,,,,,"",""
+ball,2,2.5,Hobart Hurricanes,NE Stalenberg,RH Priest,SL Bates,0,0,,,,,,"",""
+ball,2,2.6,Hobart Hurricanes,NE Stalenberg,RH Priest,SL Bates,1,0,,,,,,"",""
+ball,2,3.1,Hobart Hurricanes,NE Stalenberg,RH Priest,S Ismail,0,0,,,,,,caught,NE Stalenberg
+ball,2,3.2,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,0,0,,,,,,"",""
+ball,2,3.3,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,4,0,,,,,,"",""
+ball,2,3.4,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,0,0,,,,,,"",""
+ball,2,3.5,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,2,0,,,,,,"",""
+ball,2,3.6,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,1,0,,,,,,"",""
+ball,2,4.1,Hobart Hurricanes,HK Matthews,RH Priest,SL Bates,1,0,,,,,,"",""
+ball,2,4.2,Hobart Hurricanes,RH Priest,HK Matthews,SL Bates,1,0,,,,,,"",""
+ball,2,4.3,Hobart Hurricanes,HK Matthews,RH Priest,SL Bates,0,0,,,,,,"",""
+ball,2,4.4,Hobart Hurricanes,HK Matthews,RH Priest,SL Bates,0,0,,,,,,"",""
+ball,2,4.5,Hobart Hurricanes,HK Matthews,RH Priest,SL Bates,1,0,,,,,,"",""
+ball,2,4.6,Hobart Hurricanes,RH Priest,HK Matthews,SL Bates,0,1,1,,,,,"",""
+ball,2,4.7,Hobart Hurricanes,RH Priest,HK Matthews,SL Bates,0,0,,,,,,"",""
+ball,2,5.1,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,1,0,,,,,,"",""
+ball,2,5.2,Hobart Hurricanes,RH Priest,HK Matthews,S Ismail,0,0,,,,,,"",""
+ball,2,5.3,Hobart Hurricanes,RH Priest,HK Matthews,S Ismail,0,0,,,,,,"",""
+ball,2,5.4,Hobart Hurricanes,RH Priest,HK Matthews,S Ismail,0,0,,,,,,"",""
+ball,2,5.5,Hobart Hurricanes,RH Priest,HK Matthews,S Ismail,1,0,,,,,,"",""
+ball,2,5.6,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,1,0,,,,,,"",""
+ball,2,6.1,Hobart Hurricanes,HK Matthews,RH Priest,SJ Johnson,1,0,,,,,,"",""
+ball,2,6.2,Hobart Hurricanes,RH Priest,HK Matthews,SJ Johnson,4,0,,,,,,"",""
+ball,2,6.3,Hobart Hurricanes,RH Priest,HK Matthews,SJ Johnson,0,0,,,,,,"",""
+ball,2,6.4,Hobart Hurricanes,RH Priest,HK Matthews,SJ Johnson,0,0,,,,,,"",""
+ball,2,6.5,Hobart Hurricanes,RH Priest,HK Matthews,SJ Johnson,1,0,,,,,,"",""
+ball,2,6.6,Hobart Hurricanes,HK Matthews,RH Priest,SJ Johnson,1,0,,,,,,"",""
+ball,2,7.1,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,0,0,,,,,,"",""
+ball,2,7.2,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,1,0,,,,,,"",""
+ball,2,7.3,Hobart Hurricanes,RH Priest,HK Matthews,S Ismail,1,0,,,,,,"",""
+ball,2,7.4,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,0,0,,,,,,"",""
+ball,2,7.5,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,0,0,,,,,,"",""
+ball,2,7.6,Hobart Hurricanes,HK Matthews,RH Priest,S Ismail,0,0,,,,,,caught,HK Matthews
+ball,2,8.1,Hobart Hurricanes,RH Priest,NJ Carey,HJ Darlington,1,0,,,,,,"",""
+ball,2,8.2,Hobart Hurricanes,NJ Carey,RH Priest,HJ Darlington,0,0,,,,,,"",""
+ball,2,8.3,Hobart Hurricanes,NJ Carey,RH Priest,HJ Darlington,0,0,,,,,,"",""
+ball,2,8.4,Hobart Hurricanes,NJ Carey,RH Priest,HJ Darlington,1,0,,,,,,"",""
+ball,2,8.5,Hobart Hurricanes,RH Priest,NJ Carey,HJ Darlington,0,0,,,,,,"",""
+ball,2,8.6,Hobart Hurricanes,RH Priest,NJ Carey,HJ Darlington,4,0,,,,,,"",""
+ball,2,9.1,Hobart Hurricanes,NJ Carey,RH Priest,LG Smith,0,0,,,,,,"",""
+ball,2,9.2,Hobart Hurricanes,NJ Carey,RH Priest,LG Smith,1,0,,,,,,"",""
+ball,2,9.3,Hobart Hurricanes,RH Priest,NJ Carey,LG Smith,6,0,,,,,,"",""
+ball,2,9.4,Hobart Hurricanes,RH Priest,NJ Carey,LG Smith,4,0,,,,,,"",""
+ball,2,9.5,Hobart Hurricanes,RH Priest,NJ Carey,LG Smith,0,0,,,,,,"",""
+ball,2,9.6,Hobart Hurricanes,RH Priest,NJ Carey,LG Smith,1,0,,,,,,"",""
+ball,2,10.1,Hobart Hurricanes,RH Priest,NJ Carey,HJ Darlington,1,0,,,,,,"",""
+ball,2,10.2,Hobart Hurricanes,NJ Carey,RH Priest,HJ Darlington,1,0,,,,,,"",""
+ball,2,10.3,Hobart Hurricanes,RH Priest,NJ Carey,HJ Darlington,6,0,,,,,,"",""
+ball,2,10.4,Hobart Hurricanes,RH Priest,NJ Carey,HJ Darlington,1,0,,,,,,"",""
+ball,2,10.5,Hobart Hurricanes,NJ Carey,RH Priest,HJ Darlington,1,0,,,,,,"",""
+ball,2,10.6,Hobart Hurricanes,RH Priest,NJ Carey,HJ Darlington,0,0,,,,,,"",""
+ball,2,11.1,Hobart Hurricanes,NJ Carey,RH Priest,R Trenaman,1,0,,,,,,"",""
+ball,2,11.2,Hobart Hurricanes,RH Priest,NJ Carey,R Trenaman,4,0,,,,,,"",""
+ball,2,11.3,Hobart Hurricanes,RH Priest,NJ Carey,R Trenaman,0,0,,,,,,"",""
+ball,2,11.4,Hobart Hurricanes,RH Priest,NJ Carey,R Trenaman,4,0,,,,,,"",""
+ball,2,11.5,Hobart Hurricanes,RH Priest,NJ Carey,R Trenaman,4,0,,,,,,"",""
+ball,2,11.6,Hobart Hurricanes,RH Priest,NJ Carey,R Trenaman,0,0,,,,,,"",""
+ball,2,12.1,Hobart Hurricanes,NJ Carey,RH Priest,SL Bates,4,0,,,,,,"",""
+ball,2,12.2,Hobart Hurricanes,NJ Carey,RH Priest,SL Bates,1,0,,,,,,"",""
+ball,2,12.3,Hobart Hurricanes,RH Priest,NJ Carey,SL Bates,0,0,,,,,,"",""
+ball,2,12.4,Hobart Hurricanes,RH Priest,NJ Carey,SL Bates,1,0,,,,,,"",""
+ball,2,12.5,Hobart Hurricanes,NJ Carey,RH Priest,SL Bates,0,0,,,,,,"",""
+ball,2,12.6,Hobart Hurricanes,NJ Carey,RH Priest,SL Bates,1,0,,,,,,"",""
+ball,2,13.1,Hobart Hurricanes,NJ Carey,RH Priest,HC Knight,1,0,,,,,,"",""
+ball,2,13.2,Hobart Hurricanes,RH Priest,NJ Carey,HC Knight,1,0,,,,,,"",""
+ball,2,13.3,Hobart Hurricanes,NJ Carey,RH Priest,HC Knight,0,0,,,,,,caught,NJ Carey
+ball,2,13.4,Hobart Hurricanes,CL Tryon,RH Priest,HC Knight,0,0,,,,,,"",""
+ball,2,13.5,Hobart Hurricanes,CL Tryon,RH Priest,HC Knight,0,0,,,,,,"",""
+ball,2,13.6,Hobart Hurricanes,CL Tryon,RH Priest,HC Knight,0,0,,,,,,"",""
+ball,2,14.1,Hobart Hurricanes,RH Priest,CL Tryon,SJ Johnson,6,0,,,,,,"",""
+ball,2,14.2,Hobart Hurricanes,RH Priest,CL Tryon,SJ Johnson,0,0,,,,,,"",""
+ball,2,14.3,Hobart Hurricanes,RH Priest,CL Tryon,SJ Johnson,0,0,,,,,,"",""
+ball,2,14.4,Hobart Hurricanes,RH Priest,CL Tryon,SJ Johnson,1,0,,,,,,"",""
+ball,2,14.5,Hobart Hurricanes,CL Tryon,RH Priest,SJ Johnson,1,0,,,,,,"",""
+ball,2,14.6,Hobart Hurricanes,RH Priest,CL Tryon,SJ Johnson,1,0,,,,,,"",""
+ball,2,15.1,Hobart Hurricanes,RH Priest,CL Tryon,HC Knight,0,0,,,,,,"",""
+ball,2,15.2,Hobart Hurricanes,RH Priest,CL Tryon,HC Knight,1,0,,,,,,"",""
+ball,2,15.3,Hobart Hurricanes,CL Tryon,RH Priest,HC Knight,1,0,,,,,,"",""
+ball,2,15.4,Hobart Hurricanes,RH Priest,CL Tryon,HC Knight,1,0,,,,,,"",""
+ball,2,15.5,Hobart Hurricanes,CL Tryon,RH Priest,HC Knight,0,1,1,,,,,"",""
+ball,2,15.6,Hobart Hurricanes,CL Tryon,RH Priest,HC Knight,1,0,,,,,,"",""
+ball,2,15.7,Hobart Hurricanes,RH Priest,CL Tryon,HC Knight,1,0,,,,,,"",""
+ball,2,16.1,Hobart Hurricanes,RH Priest,CL Tryon,HJ Darlington,0,0,,,,,,"",""
+ball,2,16.2,Hobart Hurricanes,RH Priest,CL Tryon,HJ Darlington,0,0,,,,,,"",""
+ball,2,16.3,Hobart Hurricanes,RH Priest,CL Tryon,HJ Darlington,1,1,,1,,,,"",""
+ball,2,16.4,Hobart Hurricanes,CL Tryon,RH Priest,HJ Darlington,1,0,,,,,,"",""
+ball,2,16.5,Hobart Hurricanes,RH Priest,CL Tryon,HJ Darlington,1,0,,,,,,"",""
+ball,2,16.6,Hobart Hurricanes,CL Tryon,RH Priest,HJ Darlington,0,0,,,,,,"",""
+ball,2,16.7,Hobart Hurricanes,CL Tryon,RH Priest,HJ Darlington,0,0,,,,,,caught,CL Tryon
+ball,2,17.1,Hobart Hurricanes,CL Hall,RH Priest,HC Knight,0,1,1,,,,,"",""
+ball,2,17.2,Hobart Hurricanes,CL Hall,RH Priest,HC Knight,0,0,,,,,,bowled,CL Hall
+ball,2,17.3,Hobart Hurricanes,SK Moloney,RH Priest,HC Knight,0,0,,,,,,"",""
+ball,2,17.4,Hobart Hurricanes,SK Moloney,RH Priest,HC Knight,1,0,,,,,,"",""
+ball,2,17.5,Hobart Hurricanes,RH Priest,SK Moloney,HC Knight,0,0,,,,,,"",""
+ball,2,17.6,Hobart Hurricanes,RH Priest,SK Moloney,HC Knight,1,0,,,,,,"",""
+ball,2,17.7,Hobart Hurricanes,SK Moloney,RH Priest,HC Knight,1,0,,,,,,"",""
+ball,2,18.1,Hobart Hurricanes,SK Moloney,RH Priest,SL Bates,1,0,,,,,,"",""
+ball,2,18.2,Hobart Hurricanes,RH Priest,SK Moloney,SL Bates,1,0,,,,,,"",""
+ball,2,18.3,Hobart Hurricanes,SK Moloney,RH Priest,SL Bates,0,0,,,,,,"",""
+ball,2,18.4,Hobart Hurricanes,SK Moloney,RH Priest,SL Bates,0,0,,,,,,stumped,SK Moloney
+ball,2,18.5,Hobart Hurricanes,E Kershaw,RH Priest,SL Bates,1,0,,,,,,"",""
+ball,2,18.6,Hobart Hurricanes,RH Priest,E Kershaw,SL Bates,0,0,,,,,,"",""
+ball,2,19.1,Hobart Hurricanes,E Kershaw,RH Priest,HJ Darlington,0,0,,,,,,bowled,E Kershaw
+ball,2,19.2,Hobart Hurricanes,B Vakarewa,RH Priest,HJ Darlington,1,0,,,,,,"",""
+ball,2,19.3,Hobart Hurricanes,RH Priest,B Vakarewa,HJ Darlington,0,0,,,,,,"",""
+ball,2,19.4,Hobart Hurricanes,RH Priest,B Vakarewa,HJ Darlington,6,0,,,,,,"",""
+ball,2,19.5,Hobart Hurricanes,RH Priest,B Vakarewa,HJ Darlington,0,1,1,,,,,"",""
+ball,2,19.6,Hobart Hurricanes,RH Priest,B Vakarewa,HJ Darlington,0,0,,,,,,"",""
+ball,2,19.7,Hobart Hurricanes,RH Priest,B Vakarewa,HJ Darlington,1,0,,,,,,"",""

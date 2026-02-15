@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Birmingham Bears
+info,gender,male
+info,season,2021
+info,date,2021/06/20
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Durham
+info,toss_decision,bat
+info,player_of_match,CT Bancroft
+info,umpire,GD Lloyd
+info,umpire,James Middlebrook
+info,match_referee,WR Smith
+info,winner,Durham
+info,winner_runs,22
+info,player,Durham,DG Bedingham
+info,player,Durham,G Clark
+info,player,Durham,BA Stokes
+info,player,Durham,CT Bancroft
+info,player,Durham,SR Dickson
+info,player,Durham,BA Carse
+info,player,Durham,EJH Eckersley
+info,player,Durham,BA Raine
+info,player,Durham,L Trevaskis
+info,player,Durham,SG Borthwick
+info,player,Durham,MJ Potts
+info,player,Birmingham Bears,EJ Pollock
+info,player,Birmingham Bears,AJ Hose
+info,player,Birmingham Bears,WMH Rhodes
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,DR Mousley
+info,player,Birmingham Bears,CR Brathwaite
+info,player,Birmingham Bears,MGK Burgess
+info,player,Birmingham Bears,TT Bresnan
+info,player,Birmingham Bears,JG Bethell
+info,player,Birmingham Bears,DR Briggs
+info,player,Birmingham Bears,CN Miles
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CN Miles,5fed6272
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,EJH Eckersley,d510d457
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TT Bresnan,58043739
+info,registry,people,WMH Rhodes,f54dbda7
+info,registry,people,WR Smith,ad962377
+ball,1,0.1,Durham,DG Bedingham,G Clark,DR Briggs,0,0,,,,,,"",""
+ball,1,0.2,Durham,DG Bedingham,G Clark,DR Briggs,1,0,,,,,,"",""
+ball,1,0.3,Durham,G Clark,DG Bedingham,DR Briggs,0,0,,,,,,"",""
+ball,1,0.4,Durham,G Clark,DG Bedingham,DR Briggs,1,0,,,,,,"",""
+ball,1,0.5,Durham,DG Bedingham,G Clark,DR Briggs,0,0,,,,,,stumped,DG Bedingham
+ball,1,0.6,Durham,BA Stokes,G Clark,DR Briggs,2,0,,,,,,"",""
+ball,1,1.1,Durham,G Clark,BA Stokes,DR Mousley,0,0,,,,,,"",""
+ball,1,1.2,Durham,G Clark,BA Stokes,DR Mousley,1,0,,,,,,"",""
+ball,1,1.3,Durham,BA Stokes,G Clark,DR Mousley,0,0,,,,,,"",""
+ball,1,1.4,Durham,BA Stokes,G Clark,DR Mousley,0,0,,,,,,"",""
+ball,1,1.5,Durham,BA Stokes,G Clark,DR Mousley,1,0,,,,,,"",""
+ball,1,1.6,Durham,G Clark,BA Stokes,DR Mousley,0,0,,,,,,"",""
+ball,1,2.1,Durham,BA Stokes,G Clark,DR Briggs,1,0,,,,,,"",""
+ball,1,2.2,Durham,G Clark,BA Stokes,DR Briggs,0,0,,,,,,"",""
+ball,1,2.3,Durham,G Clark,BA Stokes,DR Briggs,1,0,,,,,,"",""
+ball,1,2.4,Durham,BA Stokes,G Clark,DR Briggs,4,0,,,,,,"",""
+ball,1,2.5,Durham,BA Stokes,G Clark,DR Briggs,4,0,,,,,,"",""
+ball,1,2.6,Durham,BA Stokes,G Clark,DR Briggs,0,0,,,,,,"",""
+ball,1,3.1,Durham,G Clark,BA Stokes,CR Brathwaite,0,1,1,,,,,"",""
+ball,1,3.2,Durham,G Clark,BA Stokes,CR Brathwaite,4,0,,,,,,"",""
+ball,1,3.3,Durham,G Clark,BA Stokes,CR Brathwaite,4,0,,,,,,"",""
+ball,1,3.4,Durham,G Clark,BA Stokes,CR Brathwaite,1,0,,,,,,"",""
+ball,1,3.5,Durham,BA Stokes,G Clark,CR Brathwaite,0,1,,,,1,,"",""
+ball,1,3.6,Durham,G Clark,BA Stokes,CR Brathwaite,1,0,,,,,,"",""
+ball,1,3.7,Durham,BA Stokes,G Clark,CR Brathwaite,1,0,,,,,,"",""
+ball,1,4.1,Durham,BA Stokes,G Clark,TT Bresnan,0,0,,,,,,"",""
+ball,1,4.2,Durham,BA Stokes,G Clark,TT Bresnan,6,0,,,,,,"",""
+ball,1,4.3,Durham,BA Stokes,G Clark,TT Bresnan,0,0,,,,,,"",""
+ball,1,4.4,Durham,BA Stokes,G Clark,TT Bresnan,1,0,,,,,,"",""
+ball,1,4.5,Durham,G Clark,BA Stokes,TT Bresnan,1,0,,,,,,"",""
+ball,1,4.6,Durham,BA Stokes,G Clark,TT Bresnan,1,0,,,,,,"",""
+ball,1,5.1,Durham,BA Stokes,G Clark,CR Brathwaite,4,0,,,,,,"",""
+ball,1,5.2,Durham,BA Stokes,G Clark,CR Brathwaite,4,0,,,,,,"",""
+ball,1,5.3,Durham,BA Stokes,G Clark,CR Brathwaite,0,0,,,,,,caught,BA Stokes
+ball,1,5.4,Durham,CT Bancroft,G Clark,CR Brathwaite,1,0,,,,,,"",""
+ball,1,5.5,Durham,G Clark,CT Bancroft,CR Brathwaite,0,2,,2,,,,"",""
+ball,1,5.6,Durham,G Clark,CT Bancroft,CR Brathwaite,1,0,,,,,,"",""
+ball,1,5.7,Durham,CT Bancroft,G Clark,CR Brathwaite,1,0,,,,,,"",""
+ball,1,6.1,Durham,CT Bancroft,G Clark,DR Mousley,1,0,,,,,,"",""
+ball,1,6.2,Durham,G Clark,CT Bancroft,DR Mousley,2,0,,,,,,"",""
+ball,1,6.3,Durham,G Clark,CT Bancroft,DR Mousley,1,0,,,,,,"",""
+ball,1,6.4,Durham,CT Bancroft,G Clark,DR Mousley,0,0,,,,,,"",""
+ball,1,6.5,Durham,CT Bancroft,G Clark,DR Mousley,1,0,,,,,,"",""
+ball,1,6.6,Durham,G Clark,CT Bancroft,DR Mousley,0,0,,,,,,"",""
+ball,1,7.1,Durham,CT Bancroft,G Clark,JG Bethell,1,0,,,,,,"",""
+ball,1,7.2,Durham,G Clark,CT Bancroft,JG Bethell,1,0,,,,,,"",""
+ball,1,7.3,Durham,CT Bancroft,G Clark,JG Bethell,1,0,,,,,,"",""
+ball,1,7.4,Durham,G Clark,CT Bancroft,JG Bethell,4,0,,,,,,"",""
+ball,1,7.5,Durham,G Clark,CT Bancroft,JG Bethell,2,0,,,,,,"",""
+ball,1,7.6,Durham,G Clark,CT Bancroft,JG Bethell,0,0,,,,,,"",""
+ball,1,8.1,Durham,CT Bancroft,G Clark,CN Miles,0,1,,,,1,,"",""
+ball,1,8.2,Durham,G Clark,CT Bancroft,CN Miles,0,0,,,,,,caught and bowled,G Clark
+ball,1,8.3,Durham,CT Bancroft,SR Dickson,CN Miles,0,0,,,,,,"",""
+ball,1,8.4,Durham,CT Bancroft,SR Dickson,CN Miles,2,0,,,,,,"",""
+ball,1,8.5,Durham,CT Bancroft,SR Dickson,CN Miles,1,0,,,,,,"",""
+ball,1,8.6,Durham,SR Dickson,CT Bancroft,CN Miles,1,0,,,,,,"",""
+ball,1,9.1,Durham,SR Dickson,CT Bancroft,JG Bethell,1,0,,,,,,"",""
+ball,1,9.2,Durham,CT Bancroft,SR Dickson,JG Bethell,4,0,,,,,,"",""
+ball,1,9.3,Durham,CT Bancroft,SR Dickson,JG Bethell,1,0,,,,,,"",""
+ball,1,9.4,Durham,SR Dickson,CT Bancroft,JG Bethell,1,0,,,,,,"",""
+ball,1,9.5,Durham,CT Bancroft,SR Dickson,JG Bethell,0,0,,,,,,"",""
+ball,1,9.6,Durham,CT Bancroft,SR Dickson,JG Bethell,1,0,,,,,,"",""
+ball,1,10.1,Durham,CT Bancroft,SR Dickson,TT Bresnan,0,0,,,,,,"",""
+ball,1,10.2,Durham,CT Bancroft,SR Dickson,TT Bresnan,4,0,,,,,,"",""
+ball,1,10.3,Durham,CT Bancroft,SR Dickson,TT Bresnan,1,0,,,,,,"",""
+ball,1,10.4,Durham,SR Dickson,CT Bancroft,TT Bresnan,1,0,,,,,,"",""
+ball,1,10.5,Durham,CT Bancroft,SR Dickson,TT Bresnan,2,0,,,,,,"",""
+ball,1,10.6,Durham,CT Bancroft,SR Dickson,TT Bresnan,1,0,,,,,,"",""
+ball,1,11.1,Durham,CT Bancroft,SR Dickson,DR Briggs,2,0,,,,,,"",""
+ball,1,11.2,Durham,CT Bancroft,SR Dickson,DR Briggs,1,0,,,,,,"",""
+ball,1,11.3,Durham,SR Dickson,CT Bancroft,DR Briggs,4,0,,,,,,"",""
+ball,1,11.4,Durham,SR Dickson,CT Bancroft,DR Briggs,2,0,,,,,,"",""
+ball,1,11.5,Durham,SR Dickson,CT Bancroft,DR Briggs,1,0,,,,,,"",""
+ball,1,11.6,Durham,CT Bancroft,SR Dickson,DR Briggs,1,0,,,,,,"",""
+ball,1,12.1,Durham,CT Bancroft,SR Dickson,CN Miles,1,0,,,,,,"",""
+ball,1,12.2,Durham,SR Dickson,CT Bancroft,CN Miles,1,0,,,,,,"",""
+ball,1,12.3,Durham,CT Bancroft,SR Dickson,CN Miles,0,6,,2,4,,,"",""
+ball,1,12.4,Durham,CT Bancroft,SR Dickson,CN Miles,1,0,,,,,,"",""
+ball,1,12.5,Durham,SR Dickson,CT Bancroft,CN Miles,0,0,,,,,,"",""
+ball,1,12.6,Durham,SR Dickson,CT Bancroft,CN Miles,1,0,,,,,,"",""
+ball,1,12.7,Durham,CT Bancroft,SR Dickson,CN Miles,0,1,1,,,,,"",""
+ball,1,12.8,Durham,CT Bancroft,SR Dickson,CN Miles,0,1,1,,,,,"",""
+ball,1,12.9,Durham,CT Bancroft,SR Dickson,CN Miles,1,0,,,,,,"",""
+ball,1,13.1,Durham,CT Bancroft,SR Dickson,WMH Rhodes,2,0,,,,,,"",""
+ball,1,13.2,Durham,CT Bancroft,SR Dickson,WMH Rhodes,4,0,,,,,,"",""
+ball,1,13.3,Durham,CT Bancroft,SR Dickson,WMH Rhodes,1,0,,,,,,"",""
+ball,1,13.4,Durham,SR Dickson,CT Bancroft,WMH Rhodes,4,0,,,,,,"",""
+ball,1,13.5,Durham,SR Dickson,CT Bancroft,WMH Rhodes,1,0,,,,,,"",""
+ball,1,13.6,Durham,CT Bancroft,SR Dickson,WMH Rhodes,1,0,,,,,,"",""
+ball,1,14.1,Durham,CT Bancroft,SR Dickson,DR Briggs,4,0,,,,,,"",""
+ball,1,14.2,Durham,CT Bancroft,SR Dickson,DR Briggs,1,0,,,,,,"",""
+ball,1,14.3,Durham,SR Dickson,CT Bancroft,DR Briggs,4,0,,,,,,"",""
+ball,1,14.4,Durham,SR Dickson,CT Bancroft,DR Briggs,0,0,,,,,,"",""
+ball,1,14.5,Durham,SR Dickson,CT Bancroft,DR Briggs,1,0,,,,,,"",""
+ball,1,14.6,Durham,CT Bancroft,SR Dickson,DR Briggs,1,0,,,,,,"",""
+ball,1,15.1,Durham,CT Bancroft,SR Dickson,DR Mousley,0,0,,,,,,"",""
+ball,1,15.2,Durham,CT Bancroft,SR Dickson,DR Mousley,0,4,,,,4,,"",""
+ball,1,15.3,Durham,CT Bancroft,SR Dickson,DR Mousley,1,0,,,,,,"",""
+ball,1,15.4,Durham,SR Dickson,CT Bancroft,DR Mousley,0,0,,,,,,"",""
+ball,1,15.5,Durham,SR Dickson,CT Bancroft,DR Mousley,1,0,,,,,,"",""
+ball,1,15.6,Durham,CT Bancroft,SR Dickson,DR Mousley,2,0,,,,,,"",""
+ball,1,16.1,Durham,SR Dickson,CT Bancroft,CR Brathwaite,1,0,,,,,,"",""
+ball,1,16.2,Durham,CT Bancroft,SR Dickson,CR Brathwaite,1,0,,,,,,"",""
+ball,1,16.3,Durham,SR Dickson,CT Bancroft,CR Brathwaite,0,1,,,,1,,"",""
+ball,1,16.4,Durham,CT Bancroft,SR Dickson,CR Brathwaite,2,0,,,,,,"",""
+ball,1,16.5,Durham,CT Bancroft,SR Dickson,CR Brathwaite,1,0,,,,,,"",""
+ball,1,16.6,Durham,SR Dickson,CT Bancroft,CR Brathwaite,1,0,,,,,,"",""
+ball,1,17.1,Durham,SR Dickson,CT Bancroft,DR Mousley,4,0,,,,,,"",""
+ball,1,17.2,Durham,SR Dickson,CT Bancroft,DR Mousley,0,0,,,,,,bowled,SR Dickson
+ball,1,17.3,Durham,BA Carse,CT Bancroft,DR Mousley,0,0,,,,,,"",""
+ball,1,17.4,Durham,BA Carse,CT Bancroft,DR Mousley,0,1,,,,1,,"",""
+ball,1,17.5,Durham,CT Bancroft,BA Carse,DR Mousley,0,1,1,,,,,"",""
+ball,1,17.6,Durham,CT Bancroft,BA Carse,DR Mousley,2,0,,,,,,"",""
+ball,1,17.7,Durham,CT Bancroft,BA Carse,DR Mousley,1,0,,,,,,"",""
+ball,1,18.1,Durham,CT Bancroft,BA Carse,TT Bresnan,0,1,1,,,,,"",""
+ball,1,18.2,Durham,CT Bancroft,BA Carse,TT Bresnan,1,0,,,,,,"",""
+ball,1,18.3,Durham,BA Carse,CT Bancroft,TT Bresnan,1,0,,,,,,"",""
+ball,1,18.4,Durham,CT Bancroft,BA Carse,TT Bresnan,2,0,,,,,,"",""
+ball,1,18.5,Durham,CT Bancroft,BA Carse,TT Bresnan,4,0,,,,,,"",""
+ball,1,18.6,Durham,CT Bancroft,BA Carse,TT Bresnan,1,0,,,,,,"",""
+ball,1,18.7,Durham,BA Carse,CT Bancroft,TT Bresnan,2,0,,,,,,"",""
+ball,1,19.1,Durham,CT Bancroft,BA Carse,CR Brathwaite,4,0,,,,,,"",""
+ball,1,19.2,Durham,CT Bancroft,BA Carse,CR Brathwaite,2,0,,,,,,"",""
+ball,1,19.3,Durham,CT Bancroft,BA Carse,CR Brathwaite,2,0,,,,,,"",""
+ball,1,19.4,Durham,CT Bancroft,BA Carse,CR Brathwaite,0,0,,,,,,"",""
+ball,1,19.5,Durham,CT Bancroft,BA Carse,CR Brathwaite,4,0,,,,,,"",""
+ball,1,19.6,Durham,CT Bancroft,BA Carse,CR Brathwaite,2,0,,,,,,"",""
+ball,2,0.1,Birmingham Bears,EJ Pollock,AJ Hose,L Trevaskis,0,0,,,,,,"",""
+ball,2,0.2,Birmingham Bears,EJ Pollock,AJ Hose,L Trevaskis,0,0,,,,,,"",""
+ball,2,0.3,Birmingham Bears,EJ Pollock,AJ Hose,L Trevaskis,1,0,,,,,,"",""
+ball,2,0.4,Birmingham Bears,AJ Hose,EJ Pollock,L Trevaskis,0,0,,,,,,"",""
+ball,2,0.5,Birmingham Bears,AJ Hose,EJ Pollock,L Trevaskis,4,0,,,,,,"",""
+ball,2,0.6,Birmingham Bears,AJ Hose,EJ Pollock,L Trevaskis,1,0,,,,,,"",""
+ball,2,1.1,Birmingham Bears,AJ Hose,EJ Pollock,MJ Potts,1,0,,,,,,"",""
+ball,2,1.2,Birmingham Bears,EJ Pollock,AJ Hose,MJ Potts,0,0,,,,,,"",""
+ball,2,1.3,Birmingham Bears,EJ Pollock,AJ Hose,MJ Potts,4,0,,,,,,"",""
+ball,2,1.4,Birmingham Bears,EJ Pollock,AJ Hose,MJ Potts,4,0,,,,,,"",""
+ball,2,1.5,Birmingham Bears,EJ Pollock,AJ Hose,MJ Potts,2,0,,,,,,"",""
+ball,2,1.6,Birmingham Bears,EJ Pollock,AJ Hose,MJ Potts,0,0,,,,,,"",""
+ball,2,2.1,Birmingham Bears,AJ Hose,EJ Pollock,BA Stokes,1,0,,,,,,"",""
+ball,2,2.2,Birmingham Bears,EJ Pollock,AJ Hose,BA Stokes,0,0,,,,,,"",""
+ball,2,2.3,Birmingham Bears,EJ Pollock,AJ Hose,BA Stokes,0,0,,,,,,"",""
+ball,2,2.4,Birmingham Bears,EJ Pollock,AJ Hose,BA Stokes,1,0,,,,,,"",""
+ball,2,2.5,Birmingham Bears,AJ Hose,EJ Pollock,BA Stokes,4,0,,,,,,"",""
+ball,2,2.6,Birmingham Bears,AJ Hose,EJ Pollock,BA Stokes,0,1,1,,,,,"",""
+ball,2,2.7,Birmingham Bears,AJ Hose,EJ Pollock,BA Stokes,0,0,,,,,,"",""
+ball,2,3.1,Birmingham Bears,EJ Pollock,AJ Hose,BA Carse,3,0,,,,,,"",""
+ball,2,3.2,Birmingham Bears,AJ Hose,EJ Pollock,BA Carse,1,0,,,,,,"",""
+ball,2,3.3,Birmingham Bears,EJ Pollock,AJ Hose,BA Carse,4,0,,,,,,"",""
+ball,2,3.4,Birmingham Bears,EJ Pollock,AJ Hose,BA Carse,0,0,,,,,,caught,EJ Pollock
+ball,2,3.5,Birmingham Bears,AJ Hose,WMH Rhodes,BA Carse,0,0,,,,,,"",""
+ball,2,3.6,Birmingham Bears,AJ Hose,WMH Rhodes,BA Carse,0,0,,,,,,"",""
+ball,2,4.1,Birmingham Bears,WMH Rhodes,AJ Hose,L Trevaskis,4,0,,,,,,"",""
+ball,2,4.2,Birmingham Bears,WMH Rhodes,AJ Hose,L Trevaskis,1,0,,,,,,"",""
+ball,2,4.3,Birmingham Bears,AJ Hose,WMH Rhodes,L Trevaskis,0,0,,,,,,"",""
+ball,2,4.4,Birmingham Bears,AJ Hose,WMH Rhodes,L Trevaskis,1,0,,,,,,"",""
+ball,2,4.5,Birmingham Bears,WMH Rhodes,AJ Hose,L Trevaskis,4,0,,,,,,"",""
+ball,2,4.6,Birmingham Bears,WMH Rhodes,AJ Hose,L Trevaskis,1,0,,,,,,"",""
+ball,2,5.1,Birmingham Bears,WMH Rhodes,AJ Hose,MJ Potts,0,0,,,,,,"",""
+ball,2,5.2,Birmingham Bears,WMH Rhodes,AJ Hose,MJ Potts,0,1,1,,,,,"",""
+ball,2,5.3,Birmingham Bears,WMH Rhodes,AJ Hose,MJ Potts,1,0,,,,,,"",""
+ball,2,5.4,Birmingham Bears,AJ Hose,WMH Rhodes,MJ Potts,2,0,,,,,,"",""
+ball,2,5.5,Birmingham Bears,AJ Hose,WMH Rhodes,MJ Potts,1,0,,,,,,"",""
+ball,2,5.6,Birmingham Bears,WMH Rhodes,AJ Hose,MJ Potts,0,0,,,,,,"",""
+ball,2,5.7,Birmingham Bears,WMH Rhodes,AJ Hose,MJ Potts,0,0,,,,,,"",""
+ball,2,6.1,Birmingham Bears,AJ Hose,WMH Rhodes,BA Stokes,1,0,,,,,,"",""
+ball,2,6.2,Birmingham Bears,WMH Rhodes,AJ Hose,BA Stokes,0,0,,,,,,"",""
+ball,2,6.3,Birmingham Bears,WMH Rhodes,AJ Hose,BA Stokes,1,0,,,,,,"",""
+ball,2,6.4,Birmingham Bears,AJ Hose,WMH Rhodes,BA Stokes,0,0,,,,,,"",""
+ball,2,6.5,Birmingham Bears,AJ Hose,WMH Rhodes,BA Stokes,0,1,1,,,,,"",""
+ball,2,6.6,Birmingham Bears,AJ Hose,WMH Rhodes,BA Stokes,0,0,,,,,,"",""
+ball,2,6.7,Birmingham Bears,AJ Hose,WMH Rhodes,BA Stokes,0,1,,,,1,,"",""
+ball,2,7.1,Birmingham Bears,AJ Hose,WMH Rhodes,SG Borthwick,1,0,,,,,,"",""
+ball,2,7.2,Birmingham Bears,WMH Rhodes,AJ Hose,SG Borthwick,4,0,,,,,,"",""
+ball,2,7.3,Birmingham Bears,WMH Rhodes,AJ Hose,SG Borthwick,2,0,,,,,,"",""
+ball,2,7.4,Birmingham Bears,WMH Rhodes,AJ Hose,SG Borthwick,1,0,,,,,,"",""
+ball,2,7.5,Birmingham Bears,AJ Hose,WMH Rhodes,SG Borthwick,2,0,,,,,,"",""
+ball,2,7.6,Birmingham Bears,AJ Hose,WMH Rhodes,SG Borthwick,0,0,,,,,,bowled,AJ Hose
+ball,2,8.1,Birmingham Bears,WMH Rhodes,SR Hain,BA Raine,2,0,,,,,,"",""
+ball,2,8.2,Birmingham Bears,WMH Rhodes,SR Hain,BA Raine,2,0,,,,,,"",""
+ball,2,8.3,Birmingham Bears,WMH Rhodes,SR Hain,BA Raine,1,0,,,,,,"",""
+ball,2,8.4,Birmingham Bears,SR Hain,WMH Rhodes,BA Raine,2,0,,,,,,"",""
+ball,2,8.5,Birmingham Bears,SR Hain,WMH Rhodes,BA Raine,1,0,,,,,,"",""
+ball,2,8.6,Birmingham Bears,WMH Rhodes,SR Hain,BA Raine,4,0,,,,,,"",""
+ball,2,9.1,Birmingham Bears,SR Hain,WMH Rhodes,SG Borthwick,0,0,,,,,,"",""
+ball,2,9.2,Birmingham Bears,SR Hain,WMH Rhodes,SG Borthwick,1,0,,,,,,"",""
+ball,2,9.3,Birmingham Bears,WMH Rhodes,SR Hain,SG Borthwick,1,0,,,,,,"",""
+ball,2,9.4,Birmingham Bears,SR Hain,WMH Rhodes,SG Borthwick,1,0,,,,,,"",""
+ball,2,9.5,Birmingham Bears,WMH Rhodes,SR Hain,SG Borthwick,4,0,,,,,,"",""
+ball,2,9.6,Birmingham Bears,WMH Rhodes,SR Hain,SG Borthwick,0,4,,,4,,,"",""
+ball,2,10.1,Birmingham Bears,SR Hain,WMH Rhodes,BA Carse,0,0,,,,,,"",""
+ball,2,10.2,Birmingham Bears,SR Hain,WMH Rhodes,BA Carse,4,0,,,,,,"",""
+ball,2,10.3,Birmingham Bears,SR Hain,WMH Rhodes,BA Carse,0,0,,,,,,"",""
+ball,2,10.4,Birmingham Bears,SR Hain,WMH Rhodes,BA Carse,1,0,,,,,,"",""
+ball,2,10.5,Birmingham Bears,WMH Rhodes,SR Hain,BA Carse,1,0,,,,,,"",""
+ball,2,10.6,Birmingham Bears,SR Hain,WMH Rhodes,BA Carse,1,0,,,,,,"",""
+ball,2,11.1,Birmingham Bears,SR Hain,WMH Rhodes,L Trevaskis,3,0,,,,,,"",""
+ball,2,11.2,Birmingham Bears,WMH Rhodes,SR Hain,L Trevaskis,0,0,,,,,,"",""
+ball,2,11.3,Birmingham Bears,WMH Rhodes,SR Hain,L Trevaskis,0,0,,,,,,"",""
+ball,2,11.4,Birmingham Bears,WMH Rhodes,SR Hain,L Trevaskis,2,0,,,,,,"",""
+ball,2,11.5,Birmingham Bears,WMH Rhodes,SR Hain,L Trevaskis,0,0,,,,,,caught,WMH Rhodes
+ball,2,11.6,Birmingham Bears,DR Mousley,SR Hain,L Trevaskis,0,0,,,,,,"",""
+ball,2,12.1,Birmingham Bears,SR Hain,DR Mousley,BA Stokes,4,0,,,,,,"",""
+ball,2,12.2,Birmingham Bears,SR Hain,DR Mousley,BA Stokes,2,0,,,,,,"",""
+ball,2,12.3,Birmingham Bears,SR Hain,DR Mousley,BA Stokes,0,1,,,,1,,"",""
+ball,2,12.4,Birmingham Bears,DR Mousley,SR Hain,BA Stokes,1,0,,,,,,"",""
+ball,2,12.5,Birmingham Bears,SR Hain,DR Mousley,BA Stokes,1,0,,,,,,"",""
+ball,2,12.6,Birmingham Bears,DR Mousley,SR Hain,BA Stokes,0,0,,,,,,"",""
+ball,2,13.1,Birmingham Bears,SR Hain,DR Mousley,L Trevaskis,2,0,,,,,,"",""
+ball,2,13.2,Birmingham Bears,SR Hain,DR Mousley,L Trevaskis,0,0,,,,,,"",""
+ball,2,13.3,Birmingham Bears,SR Hain,DR Mousley,L Trevaskis,2,0,,,,,,"",""
+ball,2,13.4,Birmingham Bears,SR Hain,DR Mousley,L Trevaskis,2,0,,,,,,"",""
+ball,2,13.5,Birmingham Bears,SR Hain,DR Mousley,L Trevaskis,2,0,,,,,,"",""
+ball,2,13.6,Birmingham Bears,SR Hain,DR Mousley,L Trevaskis,0,0,,,,,,"",""
+ball,2,14.1,Birmingham Bears,DR Mousley,SR Hain,BA Carse,0,0,,,,,,caught,DR Mousley
+ball,2,14.2,Birmingham Bears,CR Brathwaite,SR Hain,BA Carse,0,0,,,,,,"",""
+ball,2,14.3,Birmingham Bears,CR Brathwaite,SR Hain,BA Carse,6,0,,,,,,"",""
+ball,2,14.4,Birmingham Bears,CR Brathwaite,SR Hain,BA Carse,0,1,1,,,,,"",""
+ball,2,14.5,Birmingham Bears,CR Brathwaite,SR Hain,BA Carse,0,0,,,,,,"",""
+ball,2,14.6,Birmingham Bears,CR Brathwaite,SR Hain,BA Carse,0,0,,,,,,caught,CR Brathwaite
+ball,2,14.7,Birmingham Bears,MGK Burgess,SR Hain,BA Carse,0,0,,,,,,"",""
+ball,2,15.1,Birmingham Bears,SR Hain,MGK Burgess,SG Borthwick,1,0,,,,,,"",""
+ball,2,15.2,Birmingham Bears,MGK Burgess,SR Hain,SG Borthwick,2,0,,,,,,"",""
+ball,2,15.3,Birmingham Bears,MGK Burgess,SR Hain,SG Borthwick,1,0,,,,,,"",""
+ball,2,15.4,Birmingham Bears,SR Hain,MGK Burgess,SG Borthwick,0,0,,,,,,"",""
+ball,2,15.5,Birmingham Bears,SR Hain,MGK Burgess,SG Borthwick,1,0,,,,,,"",""
+ball,2,15.6,Birmingham Bears,MGK Burgess,SR Hain,SG Borthwick,1,0,,,,,,run out,MGK Burgess
+ball,2,16.1,Birmingham Bears,SR Hain,TT Bresnan,BA Carse,2,0,,,,,,"",""
+ball,2,16.2,Birmingham Bears,SR Hain,TT Bresnan,BA Carse,1,0,,,,,,"",""
+ball,2,16.3,Birmingham Bears,TT Bresnan,SR Hain,BA Carse,0,0,,,,,,"",""
+ball,2,16.4,Birmingham Bears,TT Bresnan,SR Hain,BA Carse,4,0,,,,,,"",""
+ball,2,16.5,Birmingham Bears,TT Bresnan,SR Hain,BA Carse,0,0,,,,,,"",""
+ball,2,16.6,Birmingham Bears,TT Bresnan,SR Hain,BA Carse,0,1,1,,,,,"",""
+ball,2,16.7,Birmingham Bears,TT Bresnan,SR Hain,BA Carse,0,0,,,,,,"",""
+ball,2,17.1,Birmingham Bears,SR Hain,TT Bresnan,SG Borthwick,1,0,,,,,,"",""
+ball,2,17.2,Birmingham Bears,TT Bresnan,SR Hain,SG Borthwick,6,0,,,,,,"",""
+ball,2,17.3,Birmingham Bears,TT Bresnan,SR Hain,SG Borthwick,4,0,,,,,,"",""
+ball,2,17.4,Birmingham Bears,TT Bresnan,SR Hain,SG Borthwick,6,0,,,,,,"",""
+ball,2,17.5,Birmingham Bears,TT Bresnan,SR Hain,SG Borthwick,0,0,,,,,,"",""
+ball,2,17.6,Birmingham Bears,TT Bresnan,SR Hain,SG Borthwick,0,0,,,,,,caught,TT Bresnan
+ball,2,18.1,Birmingham Bears,JG Bethell,SR Hain,BA Stokes,1,0,,,,,,"",""
+ball,2,18.2,Birmingham Bears,SR Hain,JG Bethell,BA Stokes,0,0,,,,,,"",""
+ball,2,18.3,Birmingham Bears,SR Hain,JG Bethell,BA Stokes,0,0,,,,,,caught,SR Hain
+ball,2,18.4,Birmingham Bears,JG Bethell,DR Briggs,BA Stokes,0,0,,,,,,"",""
+ball,2,18.5,Birmingham Bears,JG Bethell,DR Briggs,BA Stokes,1,0,,,,,,"",""
+ball,2,18.6,Birmingham Bears,DR Briggs,JG Bethell,BA Stokes,0,1,,,,1,,"",""
+ball,2,19.1,Birmingham Bears,DR Briggs,JG Bethell,MJ Potts,1,0,,,,,,"",""
+ball,2,19.2,Birmingham Bears,JG Bethell,DR Briggs,MJ Potts,1,0,,,,,,"",""
+ball,2,19.3,Birmingham Bears,DR Briggs,JG Bethell,MJ Potts,2,0,,,,,,"",""
+ball,2,19.4,Birmingham Bears,DR Briggs,JG Bethell,MJ Potts,0,0,,,,,,"",""
+ball,2,19.5,Birmingham Bears,DR Briggs,JG Bethell,MJ Potts,0,0,,,,,,"",""
+ball,2,19.6,Birmingham Bears,DR Briggs,JG Bethell,MJ Potts,4,0,,,,,,"",""

@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Perth Scorchers
+info,gender,female
+info,season,2023/24
+info,date,2023/10/29
+info,event,Women's Big Bash League
+info,match_number,15
+info,venue,"Junction Oval, Melbourne"
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,bat
+info,player_of_match,A Sutherland
+info,umpire,C Grant
+info,umpire,C Haysom
+info,match_referee,RW Stratford
+info,winner,Melbourne Stars
+info,winner_runs,7
+info,player,Melbourne Stars,S Reid
+info,player,Melbourne Stars,MM Lanning
+info,player,Melbourne Stars,A Capsey
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,ME Bouchier
+info,player,Melbourne Stars,SIR Dunkley
+info,player,Melbourne Stars,N Faltum
+info,player,Melbourne Stars,R McKenna
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,S Day
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,SFM Devine
+info,player,Perth Scorchers,M Darke
+info,player,Perth Scorchers,AE Jones
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,L Griffith
+info,player,Perth Scorchers,P Cleary
+info,player,Perth Scorchers,L Mills
+info,player,Perth Scorchers,T Peschel
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A King,83558266
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AL Edgar,795ff893
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,C Grant,876ed858
+info,registry,people,C Haysom,e8eb3b33
+info,registry,people,C Piparo,276f3dde
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,L Griffith,abe30ff7
+info,registry,people,L Mills,c35a0b8a
+info,registry,people,M Darke,57a90666
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,N Faltum,9a56c670
+info,registry,people,P Cleary,507acf2e
+info,registry,people,R McKenna,f7e41cd8
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Day,c3d27d76
+info,registry,people,S Reid,1380c4c2
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,T Peschel,923402d8
+ball,1,0.1,Melbourne Stars,S Reid,MM Lanning,T Peschel,1,0,,,,,,"",""
+ball,1,0.2,Melbourne Stars,MM Lanning,S Reid,T Peschel,0,0,,,,,,"",""
+ball,1,0.3,Melbourne Stars,MM Lanning,S Reid,T Peschel,1,1,,1,,,,"",""
+ball,1,0.4,Melbourne Stars,S Reid,MM Lanning,T Peschel,2,0,,,,,,"",""
+ball,1,0.5,Melbourne Stars,S Reid,MM Lanning,T Peschel,0,0,,,,,,"",""
+ball,1,0.6,Melbourne Stars,S Reid,MM Lanning,T Peschel,0,0,,,,,,"",""
+ball,1,0.7,Melbourne Stars,S Reid,MM Lanning,T Peschel,0,0,,,,,,"",""
+ball,1,1.1,Melbourne Stars,MM Lanning,S Reid,A King,0,0,,,,,,"",""
+ball,1,1.2,Melbourne Stars,MM Lanning,S Reid,A King,0,0,,,,,,"",""
+ball,1,1.3,Melbourne Stars,MM Lanning,S Reid,A King,4,0,,,,,,"",""
+ball,1,1.4,Melbourne Stars,MM Lanning,S Reid,A King,0,0,,,,,,lbw,MM Lanning
+ball,1,1.5,Melbourne Stars,A Capsey,S Reid,A King,0,0,,,,,,"",""
+ball,1,1.6,Melbourne Stars,A Capsey,S Reid,A King,0,0,,,,,,"",""
+ball,1,2.1,Melbourne Stars,S Reid,A Capsey,T Peschel,0,0,,,,,,"",""
+ball,1,2.2,Melbourne Stars,S Reid,A Capsey,T Peschel,0,0,,,,,,"",""
+ball,1,2.3,Melbourne Stars,S Reid,A Capsey,T Peschel,0,0,,,,,,"",""
+ball,1,2.4,Melbourne Stars,S Reid,A Capsey,T Peschel,1,0,,,,,,"",""
+ball,1,2.5,Melbourne Stars,A Capsey,S Reid,T Peschel,0,0,,,,,,"",""
+ball,1,2.6,Melbourne Stars,A Capsey,S Reid,T Peschel,0,0,,,,,,"",""
+ball,1,3.1,Melbourne Stars,S Reid,A Capsey,AL Edgar,1,0,,,,,,"",""
+ball,1,3.2,Melbourne Stars,A Capsey,S Reid,AL Edgar,4,0,,,,,,"",""
+ball,1,3.3,Melbourne Stars,A Capsey,S Reid,AL Edgar,2,0,,,,,,"",""
+ball,1,3.4,Melbourne Stars,A Capsey,S Reid,AL Edgar,1,0,,,,,,"",""
+ball,1,3.5,Melbourne Stars,S Reid,A Capsey,AL Edgar,1,0,,,,,,"",""
+ball,1,3.6,Melbourne Stars,A Capsey,S Reid,AL Edgar,0,0,,,,,,"",""
+ball,1,4.1,Melbourne Stars,S Reid,A Capsey,SFM Devine,0,0,,,,,,"",""
+ball,1,4.2,Melbourne Stars,S Reid,A Capsey,SFM Devine,0,1,1,,,,,"",""
+ball,1,4.3,Melbourne Stars,S Reid,A Capsey,SFM Devine,4,0,,,,,,"",""
+ball,1,4.4,Melbourne Stars,S Reid,A Capsey,SFM Devine,1,0,,,,,,"",""
+ball,1,4.5,Melbourne Stars,A Capsey,S Reid,SFM Devine,0,1,1,,,,,"",""
+ball,1,4.6,Melbourne Stars,A Capsey,S Reid,SFM Devine,0,0,,,,,,"",""
+ball,1,4.7,Melbourne Stars,A Capsey,S Reid,SFM Devine,1,0,,,,,,"",""
+ball,1,4.8,Melbourne Stars,S Reid,A Capsey,SFM Devine,0,0,,,,,,"",""
+ball,1,5.1,Melbourne Stars,A Capsey,S Reid,P Cleary,0,0,,,,,,"",""
+ball,1,5.2,Melbourne Stars,A Capsey,S Reid,P Cleary,4,0,,,,,,"",""
+ball,1,5.3,Melbourne Stars,A Capsey,S Reid,P Cleary,0,0,,,,,,"",""
+ball,1,5.4,Melbourne Stars,A Capsey,S Reid,P Cleary,4,0,,,,,,"",""
+ball,1,5.5,Melbourne Stars,A Capsey,S Reid,P Cleary,1,0,,,,,,"",""
+ball,1,5.6,Melbourne Stars,S Reid,A Capsey,P Cleary,4,0,,,,,,"",""
+ball,1,6.1,Melbourne Stars,A Capsey,S Reid,L Mills,1,0,,,,,,"",""
+ball,1,6.2,Melbourne Stars,S Reid,A Capsey,L Mills,1,0,,,,,,"",""
+ball,1,6.3,Melbourne Stars,A Capsey,S Reid,L Mills,1,0,,,,,,"",""
+ball,1,6.4,Melbourne Stars,S Reid,A Capsey,L Mills,4,0,,,,,,"",""
+ball,1,6.5,Melbourne Stars,S Reid,A Capsey,L Mills,1,0,,,,,,"",""
+ball,1,6.6,Melbourne Stars,A Capsey,S Reid,L Mills,6,0,,,,,,"",""
+ball,1,7.1,Melbourne Stars,S Reid,A Capsey,AL Edgar,1,0,,,,,,"",""
+ball,1,7.2,Melbourne Stars,A Capsey,S Reid,AL Edgar,1,0,,,,,,"",""
+ball,1,7.3,Melbourne Stars,S Reid,A Capsey,AL Edgar,1,0,,,,,,"",""
+ball,1,7.4,Melbourne Stars,A Capsey,S Reid,AL Edgar,0,0,,,,,,"",""
+ball,1,7.5,Melbourne Stars,A Capsey,S Reid,AL Edgar,0,0,,,,,,"",""
+ball,1,7.6,Melbourne Stars,A Capsey,S Reid,AL Edgar,0,0,,,,,,"",""
+ball,1,8.1,Melbourne Stars,S Reid,A Capsey,P Cleary,0,0,,,,,,"",""
+ball,1,8.2,Melbourne Stars,S Reid,A Capsey,P Cleary,1,0,,,,,,"",""
+ball,1,8.3,Melbourne Stars,A Capsey,S Reid,P Cleary,1,0,,,,,,"",""
+ball,1,8.4,Melbourne Stars,S Reid,A Capsey,P Cleary,1,0,,,,,,"",""
+ball,1,8.5,Melbourne Stars,A Capsey,S Reid,P Cleary,0,1,1,,,,,"",""
+ball,1,8.6,Melbourne Stars,A Capsey,S Reid,P Cleary,0,5,5,,,,,"",""
+ball,1,8.7,Melbourne Stars,A Capsey,S Reid,P Cleary,4,0,,,,,,"",""
+ball,1,8.8,Melbourne Stars,A Capsey,S Reid,P Cleary,0,0,,,,,,caught,A Capsey
+ball,1,9.1,Melbourne Stars,S Reid,A Sutherland,L Mills,0,0,,,,,,"",""
+ball,1,9.2,Melbourne Stars,S Reid,A Sutherland,L Mills,0,0,,,,,,"",""
+ball,1,9.3,Melbourne Stars,S Reid,A Sutherland,L Mills,0,0,,,,,,caught,S Reid
+ball,1,9.4,Melbourne Stars,ME Bouchier,A Sutherland,L Mills,0,0,,,,,,bowled,ME Bouchier
+ball,1,9.5,Melbourne Stars,SIR Dunkley,A Sutherland,L Mills,0,0,,,,,,"",""
+ball,1,9.6,Melbourne Stars,SIR Dunkley,A Sutherland,L Mills,1,0,,,,,,"",""
+ball,1,10.1,Melbourne Stars,SIR Dunkley,A Sutherland,A King,0,0,,,,,,"",""
+ball,1,10.2,Melbourne Stars,SIR Dunkley,A Sutherland,A King,4,0,,,,,,"",""
+ball,1,10.3,Melbourne Stars,SIR Dunkley,A Sutherland,A King,1,0,,,,,,"",""
+ball,1,10.4,Melbourne Stars,A Sutherland,SIR Dunkley,A King,0,0,,,,,,"",""
+ball,1,10.5,Melbourne Stars,A Sutherland,SIR Dunkley,A King,1,0,,,,,,"",""
+ball,1,10.6,Melbourne Stars,SIR Dunkley,A Sutherland,A King,1,0,,,,,,"",""
+ball,1,11.1,Melbourne Stars,SIR Dunkley,A Sutherland,L Mills,0,0,,,,,,"",""
+ball,1,11.2,Melbourne Stars,SIR Dunkley,A Sutherland,L Mills,1,0,,,,,,"",""
+ball,1,11.3,Melbourne Stars,A Sutherland,SIR Dunkley,L Mills,0,0,,,,,,run out,SIR Dunkley
+ball,1,11.4,Melbourne Stars,A Sutherland,N Faltum,L Mills,1,0,,,,,,"",""
+ball,1,11.5,Melbourne Stars,N Faltum,A Sutherland,L Mills,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Stars,A Sutherland,N Faltum,L Mills,1,0,,,,,,"",""
+ball,1,12.1,Melbourne Stars,A Sutherland,N Faltum,SFM Devine,1,0,,,,,,"",""
+ball,1,12.2,Melbourne Stars,N Faltum,A Sutherland,SFM Devine,0,0,,,,,,"",""
+ball,1,12.3,Melbourne Stars,N Faltum,A Sutherland,SFM Devine,0,0,,,,,,"",""
+ball,1,12.4,Melbourne Stars,N Faltum,A Sutherland,SFM Devine,6,0,,,,,,"",""
+ball,1,12.5,Melbourne Stars,N Faltum,A Sutherland,SFM Devine,0,0,,,,,,"",""
+ball,1,12.6,Melbourne Stars,N Faltum,A Sutherland,SFM Devine,1,0,,,,,,"",""
+ball,1,13.1,Melbourne Stars,N Faltum,A Sutherland,A King,1,0,,,,,,"",""
+ball,1,13.2,Melbourne Stars,A Sutherland,N Faltum,A King,1,0,,,,,,"",""
+ball,1,13.3,Melbourne Stars,N Faltum,A Sutherland,A King,0,0,,,,,,"",""
+ball,1,13.4,Melbourne Stars,N Faltum,A Sutherland,A King,0,0,,,,,,"",""
+ball,1,13.5,Melbourne Stars,N Faltum,A Sutherland,A King,0,0,,,,,,"",""
+ball,1,13.6,Melbourne Stars,N Faltum,A Sutherland,A King,0,0,,,,,,"",""
+ball,1,14.1,Melbourne Stars,A Sutherland,N Faltum,AL Edgar,4,0,,,,,,"",""
+ball,1,14.2,Melbourne Stars,A Sutherland,N Faltum,AL Edgar,0,0,,,,,,"",""
+ball,1,14.3,Melbourne Stars,A Sutherland,N Faltum,AL Edgar,1,0,,,,,,"",""
+ball,1,14.4,Melbourne Stars,N Faltum,A Sutherland,AL Edgar,0,0,,,,,,"",""
+ball,1,14.5,Melbourne Stars,N Faltum,A Sutherland,AL Edgar,0,0,,,,,,"",""
+ball,1,14.6,Melbourne Stars,N Faltum,A Sutherland,AL Edgar,0,0,,,,,,"",""
+ball,1,15.1,Melbourne Stars,A Sutherland,N Faltum,L Mills,2,0,,,,,,"",""
+ball,1,15.2,Melbourne Stars,A Sutherland,N Faltum,L Mills,6,0,,,,,,"",""
+ball,1,15.3,Melbourne Stars,A Sutherland,N Faltum,L Mills,4,0,,,,,,"",""
+ball,1,15.4,Melbourne Stars,A Sutherland,N Faltum,L Mills,4,0,,,,,,"",""
+ball,1,15.5,Melbourne Stars,A Sutherland,N Faltum,L Mills,4,0,,,,,,"",""
+ball,1,15.6,Melbourne Stars,A Sutherland,N Faltum,L Mills,2,0,,,,,,"",""
+ball,1,16.1,Melbourne Stars,N Faltum,A Sutherland,T Peschel,0,1,1,,,,,"",""
+ball,1,16.2,Melbourne Stars,N Faltum,A Sutherland,T Peschel,1,0,,,,,,"",""
+ball,1,16.3,Melbourne Stars,A Sutherland,N Faltum,T Peschel,1,0,,,,,,"",""
+ball,1,16.4,Melbourne Stars,N Faltum,A Sutherland,T Peschel,1,0,,,,,,"",""
+ball,1,16.5,Melbourne Stars,A Sutherland,N Faltum,T Peschel,1,0,,,,,,"",""
+ball,1,16.6,Melbourne Stars,N Faltum,A Sutherland,T Peschel,2,0,,,,,,"",""
+ball,1,16.7,Melbourne Stars,N Faltum,A Sutherland,T Peschel,4,0,,,,,,"",""
+ball,1,17.1,Melbourne Stars,A Sutherland,N Faltum,A King,4,0,,,,,,"",""
+ball,1,17.2,Melbourne Stars,A Sutherland,N Faltum,A King,1,0,,,,,,"",""
+ball,1,17.3,Melbourne Stars,N Faltum,A Sutherland,A King,1,0,,,,,,"",""
+ball,1,17.4,Melbourne Stars,A Sutherland,N Faltum,A King,0,0,,,,,,"",""
+ball,1,17.5,Melbourne Stars,A Sutherland,N Faltum,A King,0,0,,,,,,"",""
+ball,1,17.6,Melbourne Stars,A Sutherland,N Faltum,A King,4,0,,,,,,"",""
+ball,1,18.1,Melbourne Stars,N Faltum,A Sutherland,AL Edgar,1,0,,,,,,"",""
+ball,1,18.2,Melbourne Stars,A Sutherland,N Faltum,AL Edgar,1,0,,,,,,"",""
+ball,1,18.3,Melbourne Stars,N Faltum,A Sutherland,AL Edgar,1,0,,,,,,"",""
+ball,1,18.4,Melbourne Stars,A Sutherland,N Faltum,AL Edgar,4,0,,,,,,"",""
+ball,1,18.5,Melbourne Stars,A Sutherland,N Faltum,AL Edgar,1,0,,,,,,"",""
+ball,1,18.6,Melbourne Stars,N Faltum,A Sutherland,AL Edgar,1,0,,,,,,"",""
+ball,1,19.1,Melbourne Stars,N Faltum,A Sutherland,SFM Devine,1,0,,,,,,"",""
+ball,1,19.2,Melbourne Stars,A Sutherland,N Faltum,SFM Devine,0,0,,,,,,caught,A Sutherland
+ball,1,19.3,Melbourne Stars,R McKenna,N Faltum,SFM Devine,0,0,,,,,,"",""
+ball,1,19.4,Melbourne Stars,R McKenna,N Faltum,SFM Devine,0,0,,,,,,caught,R McKenna
+ball,1,19.5,Melbourne Stars,KJ Garth,N Faltum,SFM Devine,0,1,1,,,,,"",""
+ball,1,19.6,Melbourne Stars,KJ Garth,N Faltum,SFM Devine,0,1,1,,,,,"",""
+ball,1,19.7,Melbourne Stars,KJ Garth,N Faltum,SFM Devine,0,0,,,,,,"",""
+ball,1,19.8,Melbourne Stars,KJ Garth,N Faltum,SFM Devine,2,0,,,,,,"",""
+ball,2,0.1,Perth Scorchers,BL Mooney,C Piparo,KJ Garth,0,0,,,,,,"",""
+ball,2,0.2,Perth Scorchers,BL Mooney,C Piparo,KJ Garth,1,0,,,,,,"",""
+ball,2,0.3,Perth Scorchers,C Piparo,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,2,0.4,Perth Scorchers,C Piparo,BL Mooney,KJ Garth,0,1,,,,1,,"",""
+ball,2,0.5,Perth Scorchers,BL Mooney,C Piparo,KJ Garth,4,0,,,,,,"",""
+ball,2,0.6,Perth Scorchers,BL Mooney,C Piparo,KJ Garth,0,1,1,,,,,"",""
+ball,2,0.7,Perth Scorchers,BL Mooney,C Piparo,KJ Garth,0,0,,,,,,"",""
+ball,2,1.1,Perth Scorchers,C Piparo,BL Mooney,SK Moloney,0,0,,,,,,"",""
+ball,2,1.2,Perth Scorchers,C Piparo,BL Mooney,SK Moloney,0,0,,,,,,"",""
+ball,2,1.3,Perth Scorchers,C Piparo,BL Mooney,SK Moloney,2,0,,,,,,"",""
+ball,2,1.4,Perth Scorchers,C Piparo,BL Mooney,SK Moloney,2,0,,,,,,"",""
+ball,2,1.5,Perth Scorchers,C Piparo,BL Mooney,SK Moloney,1,0,,,,,,"",""
+ball,2,1.6,Perth Scorchers,BL Mooney,C Piparo,SK Moloney,0,0,,,,,,"",""
+ball,2,2.1,Perth Scorchers,C Piparo,BL Mooney,KJ Garth,2,0,,,,,,"",""
+ball,2,2.2,Perth Scorchers,C Piparo,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,2,2.3,Perth Scorchers,C Piparo,BL Mooney,KJ Garth,1,0,,,,,,"",""
+ball,2,2.4,Perth Scorchers,BL Mooney,C Piparo,KJ Garth,4,0,,,,,,"",""
+ball,2,2.5,Perth Scorchers,BL Mooney,C Piparo,KJ Garth,0,0,,,,,,lbw,BL Mooney
+ball,2,2.6,Perth Scorchers,SFM Devine,C Piparo,KJ Garth,0,0,,,,,,"",""
+ball,2,3.1,Perth Scorchers,C Piparo,SFM Devine,S Day,1,0,,,,,,"",""
+ball,2,3.2,Perth Scorchers,SFM Devine,C Piparo,S Day,0,0,,,,,,"",""
+ball,2,3.3,Perth Scorchers,SFM Devine,C Piparo,S Day,0,0,,,,,,"",""
+ball,2,3.4,Perth Scorchers,SFM Devine,C Piparo,S Day,1,0,,,,,,"",""
+ball,2,3.5,Perth Scorchers,C Piparo,SFM Devine,S Day,0,0,,,,,,caught,C Piparo
+ball,2,3.6,Perth Scorchers,M Darke,SFM Devine,S Day,1,0,,,,,,"",""
+ball,2,4.1,Perth Scorchers,M Darke,SFM Devine,KJ Garth,0,0,,,,,,"",""
+ball,2,4.2,Perth Scorchers,M Darke,SFM Devine,KJ Garth,0,0,,,,,,"",""
+ball,2,4.3,Perth Scorchers,M Darke,SFM Devine,KJ Garth,0,0,,,,,,"",""
+ball,2,4.4,Perth Scorchers,M Darke,SFM Devine,KJ Garth,0,0,,,,,,"",""
+ball,2,4.5,Perth Scorchers,M Darke,SFM Devine,KJ Garth,1,0,,,,,,"",""
+ball,2,4.6,Perth Scorchers,SFM Devine,M Darke,KJ Garth,0,0,,,,,,"",""
+ball,2,5.1,Perth Scorchers,M Darke,SFM Devine,SK Moloney,1,0,,,,,,"",""
+ball,2,5.2,Perth Scorchers,SFM Devine,M Darke,SK Moloney,0,0,,,,,,"",""
+ball,2,5.3,Perth Scorchers,SFM Devine,M Darke,SK Moloney,1,0,,,,,,"",""
+ball,2,5.4,Perth Scorchers,M Darke,SFM Devine,SK Moloney,2,0,,,,,,"",""
+ball,2,5.5,Perth Scorchers,M Darke,SFM Devine,SK Moloney,1,0,,,,,,"",""
+ball,2,5.6,Perth Scorchers,SFM Devine,M Darke,SK Moloney,0,0,,,,,,"",""
+ball,2,6.1,Perth Scorchers,M Darke,SFM Devine,A Sutherland,0,1,1,,,,,"",""
+ball,2,6.2,Perth Scorchers,M Darke,SFM Devine,A Sutherland,1,0,,,,,,"",""
+ball,2,6.3,Perth Scorchers,SFM Devine,M Darke,A Sutherland,0,0,,,,,,"",""
+ball,2,6.4,Perth Scorchers,SFM Devine,M Darke,A Sutherland,4,0,,,,,,"",""
+ball,2,6.5,Perth Scorchers,SFM Devine,M Darke,A Sutherland,1,0,,,,,,"",""
+ball,2,6.6,Perth Scorchers,M Darke,SFM Devine,A Sutherland,1,0,,,,,,"",""
+ball,2,6.7,Perth Scorchers,SFM Devine,M Darke,A Sutherland,2,0,,,,,,"",""
+ball,2,7.1,Perth Scorchers,M Darke,SFM Devine,S Day,1,0,,,,,,"",""
+ball,2,7.2,Perth Scorchers,SFM Devine,M Darke,S Day,0,0,,,,,,"",""
+ball,2,7.3,Perth Scorchers,SFM Devine,M Darke,S Day,0,0,,,,,,caught,SFM Devine
+ball,2,7.4,Perth Scorchers,AE Jones,M Darke,S Day,0,0,,,,,,"",""
+ball,2,7.5,Perth Scorchers,AE Jones,M Darke,S Day,2,0,,,,,,"",""
+ball,2,7.6,Perth Scorchers,AE Jones,M Darke,S Day,1,0,,,,,,"",""
+ball,2,8.1,Perth Scorchers,AE Jones,M Darke,A Sutherland,0,0,,,,,,"",""
+ball,2,8.2,Perth Scorchers,AE Jones,M Darke,A Sutherland,0,1,,,,1,,"",""
+ball,2,8.3,Perth Scorchers,M Darke,AE Jones,A Sutherland,2,0,,,,,,"",""
+ball,2,8.4,Perth Scorchers,M Darke,AE Jones,A Sutherland,1,0,,,,,,"",""
+ball,2,8.5,Perth Scorchers,AE Jones,M Darke,A Sutherland,1,0,,,,,,"",""
+ball,2,8.6,Perth Scorchers,M Darke,AE Jones,A Sutherland,1,0,,,,,,"",""
+ball,2,9.1,Perth Scorchers,M Darke,AE Jones,A Capsey,0,0,,,,,,"",""
+ball,2,9.2,Perth Scorchers,M Darke,AE Jones,A Capsey,2,0,,,,,,"",""
+ball,2,9.3,Perth Scorchers,M Darke,AE Jones,A Capsey,0,0,,,,,,"",""
+ball,2,9.4,Perth Scorchers,M Darke,AE Jones,A Capsey,1,0,,,,,,"",""
+ball,2,9.5,Perth Scorchers,AE Jones,M Darke,A Capsey,1,0,,,,,,"",""
+ball,2,9.6,Perth Scorchers,M Darke,AE Jones,A Capsey,4,0,,,,,,"",""
+ball,2,10.1,Perth Scorchers,AE Jones,M Darke,S Day,0,0,,,,,,"",""
+ball,2,10.2,Perth Scorchers,AE Jones,M Darke,S Day,4,0,,,,,,"",""
+ball,2,10.3,Perth Scorchers,AE Jones,M Darke,S Day,0,0,,,,,,caught,AE Jones
+ball,2,10.4,Perth Scorchers,AL Edgar,M Darke,S Day,1,0,,,,,,"",""
+ball,2,10.5,Perth Scorchers,M Darke,AL Edgar,S Day,4,0,,,,,,"",""
+ball,2,10.6,Perth Scorchers,M Darke,AL Edgar,S Day,4,0,,,,,,"",""
+ball,2,11.1,Perth Scorchers,AL Edgar,M Darke,SK Moloney,1,0,,,,,,"",""
+ball,2,11.2,Perth Scorchers,M Darke,AL Edgar,SK Moloney,4,0,,,,,,"",""
+ball,2,11.3,Perth Scorchers,M Darke,AL Edgar,SK Moloney,1,0,,,,,,"",""
+ball,2,11.4,Perth Scorchers,AL Edgar,M Darke,SK Moloney,0,0,,,,,,"",""
+ball,2,11.5,Perth Scorchers,AL Edgar,M Darke,SK Moloney,1,0,,,,,,"",""
+ball,2,11.6,Perth Scorchers,M Darke,AL Edgar,SK Moloney,1,0,,,,,,"",""
+ball,2,12.1,Perth Scorchers,M Darke,AL Edgar,A Sutherland,0,0,,,,,,"",""
+ball,2,12.2,Perth Scorchers,M Darke,AL Edgar,A Sutherland,4,0,,,,,,"",""
+ball,2,12.3,Perth Scorchers,M Darke,AL Edgar,A Sutherland,0,0,,,,,,"",""
+ball,2,12.4,Perth Scorchers,M Darke,AL Edgar,A Sutherland,1,0,,,,,,"",""
+ball,2,12.5,Perth Scorchers,AL Edgar,M Darke,A Sutherland,1,0,,,,,,"",""
+ball,2,12.6,Perth Scorchers,M Darke,AL Edgar,A Sutherland,1,0,,,,,,"",""
+ball,2,13.1,Perth Scorchers,M Darke,AL Edgar,S Day,1,0,,,,,,"",""
+ball,2,13.2,Perth Scorchers,AL Edgar,M Darke,S Day,0,0,,,,,,"",""
+ball,2,13.3,Perth Scorchers,AL Edgar,M Darke,S Day,0,0,,,,,,"",""
+ball,2,13.4,Perth Scorchers,AL Edgar,M Darke,S Day,4,0,,,,,,"",""
+ball,2,13.5,Perth Scorchers,AL Edgar,M Darke,S Day,2,0,,,,,,"",""
+ball,2,13.6,Perth Scorchers,AL Edgar,M Darke,S Day,0,0,,,,,,caught,AL Edgar
+ball,2,14.1,Perth Scorchers,M Darke,A King,A Sutherland,4,0,,,,,,"",""
+ball,2,14.2,Perth Scorchers,M Darke,A King,A Sutherland,0,0,,,,,,caught,M Darke
+ball,2,14.3,Perth Scorchers,L Griffith,A King,A Sutherland,0,0,,,,,,caught,L Griffith
+ball,2,14.4,Perth Scorchers,P Cleary,A King,A Sutherland,4,0,,,,,,"",""
+ball,2,14.5,Perth Scorchers,P Cleary,A King,A Sutherland,1,0,,,,,,"",""
+ball,2,14.6,Perth Scorchers,A King,P Cleary,A Sutherland,0,0,,,,,,"",""
+ball,2,15.1,Perth Scorchers,P Cleary,A King,A Capsey,1,0,,,,,,"",""
+ball,2,15.2,Perth Scorchers,A King,P Cleary,A Capsey,0,1,1,,,,,"",""
+ball,2,15.3,Perth Scorchers,A King,P Cleary,A Capsey,1,0,,,,,,"",""
+ball,2,15.4,Perth Scorchers,P Cleary,A King,A Capsey,1,0,,,,,,"",""
+ball,2,15.5,Perth Scorchers,A King,P Cleary,A Capsey,0,0,,,,,,"",""
+ball,2,15.6,Perth Scorchers,A King,P Cleary,A Capsey,1,0,,,,,,"",""
+ball,2,15.7,Perth Scorchers,P Cleary,A King,A Capsey,0,0,,,,,,"",""
+ball,2,16.1,Perth Scorchers,A King,P Cleary,KJ Garth,0,0,,,,,,"",""
+ball,2,16.2,Perth Scorchers,A King,P Cleary,KJ Garth,1,0,,,,,,"",""
+ball,2,16.3,Perth Scorchers,P Cleary,A King,KJ Garth,0,0,,,,,,"",""
+ball,2,16.4,Perth Scorchers,P Cleary,A King,KJ Garth,0,0,,,,,,"",""
+ball,2,16.5,Perth Scorchers,P Cleary,A King,KJ Garth,0,0,,,,,,"",""
+ball,2,16.6,Perth Scorchers,P Cleary,A King,KJ Garth,1,0,,,,,,"",""
+ball,2,17.1,Perth Scorchers,P Cleary,A King,A Capsey,0,0,,,,,,bowled,P Cleary
+ball,2,17.2,Perth Scorchers,L Mills,A King,A Capsey,0,1,,,,1,,"",""
+ball,2,17.3,Perth Scorchers,A King,L Mills,A Capsey,1,0,,,,,,"",""
+ball,2,17.4,Perth Scorchers,L Mills,A King,A Capsey,0,0,,,,,,"",""
+ball,2,17.5,Perth Scorchers,L Mills,A King,A Capsey,4,0,,,,,,"",""
+ball,2,17.6,Perth Scorchers,L Mills,A King,A Capsey,0,0,,,,,,caught,L Mills
+ball,2,18.1,Perth Scorchers,A King,T Peschel,SK Moloney,0,0,,,,,,"",""
+ball,2,18.2,Perth Scorchers,A King,T Peschel,SK Moloney,1,0,,,,,,"",""
+ball,2,18.3,Perth Scorchers,T Peschel,A King,SK Moloney,4,0,,,,,,"",""
+ball,2,18.4,Perth Scorchers,T Peschel,A King,SK Moloney,1,0,,,,,,"",""
+ball,2,18.5,Perth Scorchers,A King,T Peschel,SK Moloney,6,0,,,,,,"",""
+ball,2,18.6,Perth Scorchers,A King,T Peschel,SK Moloney,0,1,,,,1,,"",""
+ball,2,19.1,Perth Scorchers,A King,T Peschel,A Capsey,0,3,3,,,,,"",""
+ball,2,19.2,Perth Scorchers,A King,T Peschel,A Capsey,0,1,1,,,,,"",""
+ball,2,19.3,Perth Scorchers,A King,T Peschel,A Capsey,4,0,,,,,,"",""
+ball,2,19.4,Perth Scorchers,A King,T Peschel,A Capsey,4,0,,,,,,"",""
+ball,2,19.5,Perth Scorchers,A King,T Peschel,A Capsey,1,0,,,,,,"",""
+ball,2,19.6,Perth Scorchers,T Peschel,A King,A Capsey,6,0,,,,,,"",""
+ball,2,19.7,Perth Scorchers,T Peschel,A King,A Capsey,1,0,,,,,,"",""
+ball,2,19.8,Perth Scorchers,A King,T Peschel,A Capsey,1,0,,,,,,"",""

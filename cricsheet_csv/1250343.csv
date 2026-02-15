@@ -1,0 +1,133 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2021
+info,date,2021/07/09
+info,event,Vitality Blast
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Yorkshire
+info,toss_decision,bat
+info,player_of_match,SR Patel
+info,umpire,IN Ramage
+info,umpire,NJ Llong
+info,winner,Nottinghamshire
+info,winner_wickets,10
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,HC Brook
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,MJ Waite
+info,player,Yorkshire,SA Northeast
+info,player,Yorkshire,GS Ballance
+info,player,Yorkshire,GCH Hill
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,HG Duke
+info,player,Yorkshire,MD Fisher
+info,player,Yorkshire,JE Poysden
+info,player,Nottinghamshire,PD Trego
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,SR Patel
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,LJ Fletcher
+info,player,Nottinghamshire,M Carter
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,D Paterson
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AD Hales,92aeac25
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,CG Harrison,f655d740
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DM Bess,ad46c747
+info,registry,people,GCH Hill,214f6461
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,HG Duke,443b47a6
+info,registry,people,IN Ramage,33cb7803
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JE Poysden,bbbb7f1e
+info,registry,people,LJ Fletcher,e423d162
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Carter,1ca7c00f
+info,registry,people,MD Fisher,8f2dfebf
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PD Trego,93e06301
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,SR Patel,18fac429
+info,registry,people,TJ Moores,85dcb721
+ball,1,0.1,Yorkshire,A Lyth,HC Brook,SR Patel,1,0,,,,,,"",""
+ball,1,0.2,Yorkshire,HC Brook,A Lyth,SR Patel,0,0,,,,,,"",""
+ball,1,0.3,Yorkshire,HC Brook,A Lyth,SR Patel,0,0,,,,,,stumped,HC Brook
+ball,1,0.4,Yorkshire,JA Thompson,A Lyth,SR Patel,1,0,,,,,,"",""
+ball,1,0.5,Yorkshire,A Lyth,JA Thompson,SR Patel,1,0,,,,,,"",""
+ball,1,0.6,Yorkshire,JA Thompson,A Lyth,SR Patel,1,0,,,,,,"",""
+ball,1,1.1,Yorkshire,JA Thompson,A Lyth,M Carter,4,0,,,,,,"",""
+ball,1,1.2,Yorkshire,JA Thompson,A Lyth,M Carter,1,0,,,,,,"",""
+ball,1,1.3,Yorkshire,A Lyth,JA Thompson,M Carter,1,0,,,,,,"",""
+ball,1,1.4,Yorkshire,JA Thompson,A Lyth,M Carter,0,0,,,,,,"",""
+ball,1,1.5,Yorkshire,JA Thompson,A Lyth,M Carter,1,0,,,,,,"",""
+ball,1,1.6,Yorkshire,A Lyth,JA Thompson,M Carter,1,0,,,,,,"",""
+ball,1,2.1,Yorkshire,A Lyth,JA Thompson,LJ Fletcher,0,0,,,,,,"",""
+ball,1,2.2,Yorkshire,A Lyth,JA Thompson,LJ Fletcher,0,0,,,,,,"",""
+ball,1,2.3,Yorkshire,A Lyth,JA Thompson,LJ Fletcher,1,0,,,,,,"",""
+ball,1,2.4,Yorkshire,JA Thompson,A Lyth,LJ Fletcher,2,0,,,,,,"",""
+ball,1,2.5,Yorkshire,JA Thompson,A Lyth,LJ Fletcher,1,0,,,,,,"",""
+ball,1,2.6,Yorkshire,A Lyth,JA Thompson,LJ Fletcher,6,0,,,,,,"",""
+ball,1,3.1,Yorkshire,JA Thompson,A Lyth,M Carter,4,0,,,,,,"",""
+ball,1,3.2,Yorkshire,JA Thompson,A Lyth,M Carter,1,0,,,,,,"",""
+ball,1,3.3,Yorkshire,A Lyth,JA Thompson,M Carter,4,0,,,,,,"",""
+ball,1,3.4,Yorkshire,A Lyth,JA Thompson,M Carter,0,0,,,,,,"",""
+ball,1,3.5,Yorkshire,A Lyth,JA Thompson,M Carter,1,0,,,,,,"",""
+ball,1,3.6,Yorkshire,JA Thompson,A Lyth,M Carter,1,0,,,,,,"",""
+ball,1,4.1,Yorkshire,JA Thompson,A Lyth,SR Patel,1,0,,,,,,"",""
+ball,1,4.2,Yorkshire,A Lyth,JA Thompson,SR Patel,0,0,,,,,,"",""
+ball,1,4.3,Yorkshire,A Lyth,JA Thompson,SR Patel,1,0,,,,,,"",""
+ball,1,4.4,Yorkshire,JA Thompson,A Lyth,SR Patel,0,0,,,,,,"",""
+ball,1,4.5,Yorkshire,JA Thompson,A Lyth,SR Patel,1,0,,,,,,"",""
+ball,1,4.6,Yorkshire,A Lyth,JA Thompson,SR Patel,0,0,,,,,,"",""
+ball,1,5.1,Yorkshire,JA Thompson,A Lyth,LJ Fletcher,0,1,1,,,,,"",""
+ball,1,5.2,Yorkshire,JA Thompson,A Lyth,LJ Fletcher,6,0,,,,,,"",""
+ball,1,5.3,Yorkshire,JA Thompson,A Lyth,LJ Fletcher,0,1,1,,,,,"",""
+ball,1,5.4,Yorkshire,JA Thompson,A Lyth,LJ Fletcher,1,0,,,,,,"",""
+ball,1,5.5,Yorkshire,A Lyth,JA Thompson,LJ Fletcher,4,0,,,,,,"",""
+ball,1,5.6,Yorkshire,A Lyth,JA Thompson,LJ Fletcher,4,0,,,,,,"",""
+ball,1,5.7,Yorkshire,A Lyth,JA Thompson,LJ Fletcher,0,1,1,,,,,"",""
+ball,1,5.8,Yorkshire,A Lyth,JA Thompson,LJ Fletcher,1,0,,,,,,"",""
+ball,1,5.9,Yorkshire,JA Thompson,A Lyth,LJ Fletcher,0,0,,,,,,"",""
+ball,1,6.1,Yorkshire,A Lyth,JA Thompson,D Paterson,0,0,,,,,,caught,A Lyth
+ball,1,6.2,Yorkshire,JA Thompson,MJ Waite,D Paterson,2,0,,,,,,"",""
+ball,1,6.3,Yorkshire,JA Thompson,MJ Waite,D Paterson,0,0,,,,,,caught,JA Thompson
+ball,1,6.4,Yorkshire,MJ Waite,SA Northeast,D Paterson,0,0,,,,,,"",""
+ball,1,6.5,Yorkshire,MJ Waite,SA Northeast,D Paterson,2,0,,,,,,"",""
+ball,1,6.6,Yorkshire,MJ Waite,SA Northeast,D Paterson,1,0,,,,,,"",""
+ball,2,0.1,Nottinghamshire,PD Trego,AD Hales,DM Bess,4,0,,,,,,"",""
+ball,2,0.2,Nottinghamshire,PD Trego,AD Hales,DM Bess,4,0,,,,,,"",""
+ball,2,0.3,Nottinghamshire,PD Trego,AD Hales,DM Bess,1,0,,,,,,"",""
+ball,2,0.4,Nottinghamshire,AD Hales,PD Trego,DM Bess,4,0,,,,,,"",""
+ball,2,0.5,Nottinghamshire,AD Hales,PD Trego,DM Bess,1,0,,,,,,"",""
+ball,2,0.6,Nottinghamshire,PD Trego,AD Hales,DM Bess,4,0,,,,,,"",""
+ball,2,1.1,Nottinghamshire,AD Hales,PD Trego,MD Fisher,1,0,,,,,,"",""
+ball,2,1.2,Nottinghamshire,PD Trego,AD Hales,MD Fisher,1,0,,,,,,"",""
+ball,2,1.3,Nottinghamshire,AD Hales,PD Trego,MD Fisher,0,1,1,,,,,"",""
+ball,2,1.4,Nottinghamshire,AD Hales,PD Trego,MD Fisher,1,0,,,,,,"",""
+ball,2,1.5,Nottinghamshire,PD Trego,AD Hales,MD Fisher,0,0,,,,,,"",""
+ball,2,1.6,Nottinghamshire,PD Trego,AD Hales,MD Fisher,1,0,,,,,,"",""
+ball,2,1.7,Nottinghamshire,AD Hales,PD Trego,MD Fisher,6,0,,,,,,"",""
+ball,2,2.1,Nottinghamshire,PD Trego,AD Hales,MJ Waite,0,0,,,,,,"",""
+ball,2,2.2,Nottinghamshire,PD Trego,AD Hales,MJ Waite,2,0,,,,,,"",""
+ball,2,2.3,Nottinghamshire,PD Trego,AD Hales,MJ Waite,0,1,1,,,,,"",""
+ball,2,2.4,Nottinghamshire,PD Trego,AD Hales,MJ Waite,4,0,,,,,,"",""
+ball,2,2.5,Nottinghamshire,PD Trego,AD Hales,MJ Waite,4,0,,,,,,"",""
+ball,2,2.6,Nottinghamshire,PD Trego,AD Hales,MJ Waite,0,0,,,,,,"",""
+ball,2,2.7,Nottinghamshire,PD Trego,AD Hales,MJ Waite,0,1,1,,,,,"",""
+ball,2,2.8,Nottinghamshire,PD Trego,AD Hales,MJ Waite,4,0,,,,,,"",""
+ball,2,3.1,Nottinghamshire,AD Hales,PD Trego,JE Poysden,6,0,,,,,,"",""
+ball,2,3.2,Nottinghamshire,AD Hales,PD Trego,JE Poysden,0,2,,,2,,,"",""
+ball,2,3.3,Nottinghamshire,AD Hales,PD Trego,JE Poysden,6,0,,,,,,"",""
+ball,2,3.4,Nottinghamshire,AD Hales,PD Trego,JE Poysden,6,0,,,,,,"",""

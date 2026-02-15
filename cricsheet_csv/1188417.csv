@@ -1,0 +1,287 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Brisbane Heat
+info,team,Perth Scorchers
+info,gender,female
+info,season,2019/20
+info,date,2019/11/17
+info,event,Women's Big Bash League
+info,match_number,37
+info,venue,Drummoyne Oval
+info,city,Sydney
+info,toss_winner,Brisbane Heat
+info,toss_decision,field
+info,player_of_match,JL Jonassen
+info,umpire,Sharad Patel
+info,umpire,AR Hamilton
+info,match_referee,Ian Thomas
+info,winner,Brisbane Heat
+info,winner_wickets,8
+info,player,Perth Scorchers,AE Jones
+info,player,Perth Scorchers,MM Lanning
+info,player,Perth Scorchers,G Redmayne
+info,player,Perth Scorchers,NR Sciver
+info,player,Perth Scorchers,NE Bolton
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,H Graham
+info,player,Perth Scorchers,JL Barsby
+info,player,Perth Scorchers,KJ Garth
+info,player,Perth Scorchers,T Peschel
+info,player,Perth Scorchers,SM Betts
+info,player,Brisbane Heat,BL Mooney
+info,player,Brisbane Heat,ML Green
+info,player,Brisbane Heat,SJ Johnson
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,L Harris
+info,player,Brisbane Heat,KL Short
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,DM Kimmince
+info,player,Brisbane Heat,M Hinkley
+info,player,Brisbane Heat,G Prestwidge
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AR Hamilton,95d26c59
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,C Piparo,276f3dde
+info,registry,people,DM Kimmince,d693012d
+info,registry,people,G Prestwidge,c218e4e7
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,GM Harris,72166006
+info,registry,people,H Graham,99812d10
+info,registry,people,Ian Thomas,d4c0dc60
+info,registry,people,JL Barsby,47bcaf7a
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,KL Short,712bd44c
+info,registry,people,L Harris,36e2dc83
+info,registry,people,M Hinkley,3812165d
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,NE Bolton,dd883071
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,SJ Johnson,d7b754d4
+info,registry,people,SM Betts,c4fd751d
+info,registry,people,Sharad Patel,8e6dd3ba
+info,registry,people,T Peschel,923402d8
+ball,1,0.1,Perth Scorchers,AE Jones,MM Lanning,DM Kimmince,0,0,,,,,,"",""
+ball,1,0.2,Perth Scorchers,AE Jones,MM Lanning,DM Kimmince,0,0,,,,,,"",""
+ball,1,0.3,Perth Scorchers,AE Jones,MM Lanning,DM Kimmince,0,0,,,,,,"",""
+ball,1,0.4,Perth Scorchers,AE Jones,MM Lanning,DM Kimmince,0,0,,,,,,"",""
+ball,1,0.5,Perth Scorchers,AE Jones,MM Lanning,DM Kimmince,0,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,AE Jones,MM Lanning,DM Kimmince,4,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,MM Lanning,AE Jones,SJ Johnson,0,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,MM Lanning,AE Jones,SJ Johnson,0,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,MM Lanning,AE Jones,SJ Johnson,1,0,,,,,,"",""
+ball,1,1.4,Perth Scorchers,AE Jones,MM Lanning,SJ Johnson,1,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,MM Lanning,AE Jones,SJ Johnson,0,0,,,,,,lbw,MM Lanning
+ball,1,1.6,Perth Scorchers,G Redmayne,AE Jones,SJ Johnson,0,0,,,,,,"",""
+ball,1,2.1,Perth Scorchers,AE Jones,G Redmayne,JL Jonassen,0,0,,,,,,"",""
+ball,1,2.2,Perth Scorchers,AE Jones,G Redmayne,JL Jonassen,4,0,,,,,,"",""
+ball,1,2.3,Perth Scorchers,AE Jones,G Redmayne,JL Jonassen,0,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,AE Jones,G Redmayne,JL Jonassen,0,0,,,,,,"",""
+ball,1,2.5,Perth Scorchers,AE Jones,G Redmayne,JL Jonassen,0,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,AE Jones,G Redmayne,JL Jonassen,0,0,,,,,,bowled,AE Jones
+ball,1,3.1,Perth Scorchers,G Redmayne,NR Sciver,SJ Johnson,0,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,G Redmayne,NR Sciver,SJ Johnson,1,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,NR Sciver,G Redmayne,SJ Johnson,0,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,NR Sciver,G Redmayne,SJ Johnson,0,0,,,,,,"",""
+ball,1,3.5,Perth Scorchers,NR Sciver,G Redmayne,SJ Johnson,0,0,,,,,,"",""
+ball,1,3.6,Perth Scorchers,NR Sciver,G Redmayne,SJ Johnson,0,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,G Redmayne,NR Sciver,DM Kimmince,1,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,NR Sciver,G Redmayne,DM Kimmince,0,0,,,,,,"",""
+ball,1,4.3,Perth Scorchers,NR Sciver,G Redmayne,DM Kimmince,0,0,,,,,,"",""
+ball,1,4.4,Perth Scorchers,NR Sciver,G Redmayne,DM Kimmince,4,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,NR Sciver,G Redmayne,DM Kimmince,0,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,NR Sciver,G Redmayne,DM Kimmince,4,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,G Redmayne,NR Sciver,GM Harris,0,0,,,,,,"",""
+ball,1,5.2,Perth Scorchers,G Redmayne,NR Sciver,GM Harris,4,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,G Redmayne,NR Sciver,GM Harris,0,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,G Redmayne,NR Sciver,GM Harris,1,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,NR Sciver,G Redmayne,GM Harris,0,0,,,,,,"",""
+ball,1,5.6,Perth Scorchers,NR Sciver,G Redmayne,GM Harris,0,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,G Redmayne,NR Sciver,AC Kerr,0,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,G Redmayne,NR Sciver,AC Kerr,1,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,NR Sciver,G Redmayne,AC Kerr,4,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,NR Sciver,G Redmayne,AC Kerr,0,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,NR Sciver,G Redmayne,AC Kerr,4,0,,,,,,"",""
+ball,1,6.6,Perth Scorchers,NR Sciver,G Redmayne,AC Kerr,0,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,G Redmayne,NR Sciver,G Prestwidge,0,4,,,,4,,"",""
+ball,1,7.2,Perth Scorchers,G Redmayne,NR Sciver,G Prestwidge,0,0,,,,,,"",""
+ball,1,7.3,Perth Scorchers,G Redmayne,NR Sciver,G Prestwidge,0,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,G Redmayne,NR Sciver,G Prestwidge,1,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,NR Sciver,G Redmayne,G Prestwidge,1,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,G Redmayne,NR Sciver,G Prestwidge,1,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,G Redmayne,NR Sciver,JL Jonassen,0,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,G Redmayne,NR Sciver,JL Jonassen,0,0,,,,,,lbw,G Redmayne
+ball,1,8.3,Perth Scorchers,NE Bolton,NR Sciver,JL Jonassen,0,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,NE Bolton,NR Sciver,JL Jonassen,0,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,NE Bolton,NR Sciver,JL Jonassen,0,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,NE Bolton,NR Sciver,JL Jonassen,2,0,,,,,,"",""
+ball,1,9.1,Perth Scorchers,NR Sciver,NE Bolton,G Prestwidge,0,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,NR Sciver,NE Bolton,G Prestwidge,0,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,NR Sciver,NE Bolton,G Prestwidge,1,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,NE Bolton,NR Sciver,G Prestwidge,0,0,,,,,,"",""
+ball,1,9.5,Perth Scorchers,NE Bolton,NR Sciver,G Prestwidge,0,1,1,,,,,"",""
+ball,1,9.6,Perth Scorchers,NE Bolton,NR Sciver,G Prestwidge,1,0,,,,,,"",""
+ball,1,9.7,Perth Scorchers,NR Sciver,NE Bolton,G Prestwidge,0,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,NE Bolton,NR Sciver,AC Kerr,0,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,NE Bolton,NR Sciver,AC Kerr,4,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,NE Bolton,NR Sciver,AC Kerr,4,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,NE Bolton,NR Sciver,AC Kerr,1,0,,,,,,"",""
+ball,1,10.5,Perth Scorchers,NR Sciver,NE Bolton,AC Kerr,0,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,NR Sciver,NE Bolton,AC Kerr,0,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,NE Bolton,NR Sciver,SJ Johnson,0,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,NE Bolton,NR Sciver,SJ Johnson,0,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,NE Bolton,NR Sciver,SJ Johnson,0,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,NE Bolton,NR Sciver,SJ Johnson,0,0,,,,,,caught and bowled,NE Bolton
+ball,1,11.5,Perth Scorchers,C Piparo,NR Sciver,SJ Johnson,1,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,NR Sciver,C Piparo,SJ Johnson,0,0,,,,,,"",""
+ball,1,12.1,Perth Scorchers,C Piparo,NR Sciver,G Prestwidge,0,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,C Piparo,NR Sciver,G Prestwidge,0,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,C Piparo,NR Sciver,G Prestwidge,1,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,NR Sciver,C Piparo,G Prestwidge,1,0,,,,,,"",""
+ball,1,12.5,Perth Scorchers,C Piparo,NR Sciver,G Prestwidge,2,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,C Piparo,NR Sciver,G Prestwidge,0,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,NR Sciver,C Piparo,SJ Johnson,0,1,1,,,,,"",""
+ball,1,13.2,Perth Scorchers,NR Sciver,C Piparo,SJ Johnson,1,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,C Piparo,NR Sciver,SJ Johnson,4,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,C Piparo,NR Sciver,SJ Johnson,1,0,,,,,,"",""
+ball,1,13.5,Perth Scorchers,NR Sciver,C Piparo,SJ Johnson,1,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,C Piparo,NR Sciver,SJ Johnson,0,0,,,,,,"",""
+ball,1,13.7,Perth Scorchers,C Piparo,NR Sciver,SJ Johnson,4,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,NR Sciver,C Piparo,DM Kimmince,1,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,C Piparo,NR Sciver,DM Kimmince,1,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,NR Sciver,C Piparo,DM Kimmince,4,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,NR Sciver,C Piparo,DM Kimmince,0,0,,,,,,caught,NR Sciver
+ball,1,14.5,Perth Scorchers,H Graham,C Piparo,DM Kimmince,1,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,C Piparo,H Graham,DM Kimmince,1,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,C Piparo,H Graham,JL Jonassen,1,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,H Graham,C Piparo,JL Jonassen,0,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,H Graham,C Piparo,JL Jonassen,0,0,,,,,,bowled,H Graham
+ball,1,15.4,Perth Scorchers,JL Barsby,C Piparo,JL Jonassen,2,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,JL Barsby,C Piparo,JL Jonassen,4,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,JL Barsby,C Piparo,JL Jonassen,2,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,C Piparo,JL Barsby,G Prestwidge,2,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,C Piparo,JL Barsby,G Prestwidge,0,1,,,,1,,"",""
+ball,1,16.3,Perth Scorchers,JL Barsby,C Piparo,G Prestwidge,0,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,JL Barsby,C Piparo,G Prestwidge,0,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,JL Barsby,C Piparo,G Prestwidge,1,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,C Piparo,JL Barsby,G Prestwidge,0,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,JL Barsby,C Piparo,GM Harris,1,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,C Piparo,JL Barsby,GM Harris,1,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,JL Barsby,C Piparo,GM Harris,1,0,,,,,,"",""
+ball,1,17.4,Perth Scorchers,C Piparo,JL Barsby,GM Harris,0,0,,,,,,bowled,C Piparo
+ball,1,17.5,Perth Scorchers,KJ Garth,JL Barsby,GM Harris,1,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,JL Barsby,KJ Garth,GM Harris,1,0,,,,,,"",""
+ball,1,18.1,Perth Scorchers,JL Barsby,KJ Garth,DM Kimmince,1,0,,,,,,"",""
+ball,1,18.2,Perth Scorchers,KJ Garth,JL Barsby,DM Kimmince,0,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,KJ Garth,JL Barsby,DM Kimmince,2,0,,,,,,"",""
+ball,1,18.4,Perth Scorchers,KJ Garth,JL Barsby,DM Kimmince,1,0,,,,,,"",""
+ball,1,18.5,Perth Scorchers,JL Barsby,KJ Garth,DM Kimmince,0,1,,,,1,,"",""
+ball,1,18.6,Perth Scorchers,KJ Garth,JL Barsby,DM Kimmince,1,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,KJ Garth,JL Barsby,JL Jonassen,1,0,,,,,,"",""
+ball,1,19.2,Perth Scorchers,JL Barsby,KJ Garth,JL Jonassen,4,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,JL Barsby,KJ Garth,JL Jonassen,0,0,,,,,,caught,JL Barsby
+ball,1,19.4,Perth Scorchers,KJ Garth,T Peschel,JL Jonassen,1,0,,,,,,"",""
+ball,1,19.5,Perth Scorchers,T Peschel,KJ Garth,JL Jonassen,1,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,KJ Garth,T Peschel,JL Jonassen,1,0,,,,,,"",""
+ball,2,0.1,Brisbane Heat,BL Mooney,ML Green,NE Bolton,1,0,,,,,,"",""
+ball,2,0.2,Brisbane Heat,ML Green,BL Mooney,NE Bolton,4,0,,,,,,"",""
+ball,2,0.3,Brisbane Heat,ML Green,BL Mooney,NE Bolton,0,0,,,,,,"",""
+ball,2,0.4,Brisbane Heat,ML Green,BL Mooney,NE Bolton,0,0,,,,,,"",""
+ball,2,0.5,Brisbane Heat,ML Green,BL Mooney,NE Bolton,1,0,,,,,,"",""
+ball,2,0.6,Brisbane Heat,BL Mooney,ML Green,NE Bolton,0,0,,,,,,"",""
+ball,2,1.1,Brisbane Heat,ML Green,BL Mooney,NR Sciver,0,1,1,,,,,"",""
+ball,2,1.2,Brisbane Heat,ML Green,BL Mooney,NR Sciver,1,0,,,,,,"",""
+ball,2,1.3,Brisbane Heat,BL Mooney,ML Green,NR Sciver,0,0,,,,,,"",""
+ball,2,1.4,Brisbane Heat,BL Mooney,ML Green,NR Sciver,4,0,,,,,,"",""
+ball,2,1.5,Brisbane Heat,BL Mooney,ML Green,NR Sciver,1,0,,,,,,"",""
+ball,2,1.6,Brisbane Heat,ML Green,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,1.7,Brisbane Heat,ML Green,BL Mooney,NR Sciver,1,0,,,,,,"",""
+ball,2,2.1,Brisbane Heat,ML Green,BL Mooney,T Peschel,0,0,,,,,,"",""
+ball,2,2.2,Brisbane Heat,ML Green,BL Mooney,T Peschel,4,0,,,,,,"",""
+ball,2,2.3,Brisbane Heat,ML Green,BL Mooney,T Peschel,1,0,,,,,,"",""
+ball,2,2.4,Brisbane Heat,BL Mooney,ML Green,T Peschel,1,0,,,,,,"",""
+ball,2,2.5,Brisbane Heat,ML Green,BL Mooney,T Peschel,0,0,,,,,,"",""
+ball,2,2.6,Brisbane Heat,ML Green,BL Mooney,T Peschel,0,0,,,,,,run out,ML Green
+ball,2,3.1,Brisbane Heat,SJ Johnson,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,2,3.2,Brisbane Heat,SJ Johnson,BL Mooney,KJ Garth,1,0,,,,,,"",""
+ball,2,3.3,Brisbane Heat,BL Mooney,SJ Johnson,KJ Garth,4,0,,,,,,"",""
+ball,2,3.4,Brisbane Heat,BL Mooney,SJ Johnson,KJ Garth,1,0,,,,,,"",""
+ball,2,3.5,Brisbane Heat,SJ Johnson,BL Mooney,KJ Garth,3,0,,,,,,"",""
+ball,2,3.6,Brisbane Heat,BL Mooney,SJ Johnson,KJ Garth,0,0,,,,,,"",""
+ball,2,4.1,Brisbane Heat,SJ Johnson,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,4.2,Brisbane Heat,SJ Johnson,BL Mooney,NR Sciver,1,0,,,,,,"",""
+ball,2,4.3,Brisbane Heat,BL Mooney,SJ Johnson,NR Sciver,0,0,,,,,,"",""
+ball,2,4.4,Brisbane Heat,BL Mooney,SJ Johnson,NR Sciver,1,0,,,,,,"",""
+ball,2,4.5,Brisbane Heat,SJ Johnson,BL Mooney,NR Sciver,0,1,1,,,,,"",""
+ball,2,4.6,Brisbane Heat,SJ Johnson,BL Mooney,NR Sciver,0,0,,,,,,caught,SJ Johnson
+ball,2,4.7,Brisbane Heat,JL Jonassen,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,5.1,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,1,0,,,,,,"",""
+ball,2,5.2,Brisbane Heat,JL Jonassen,BL Mooney,KJ Garth,1,0,,,,,,"",""
+ball,2,5.3,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,1,0,,,,,,"",""
+ball,2,5.4,Brisbane Heat,JL Jonassen,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,2,5.5,Brisbane Heat,JL Jonassen,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,2,5.6,Brisbane Heat,JL Jonassen,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,2,6.1,Brisbane Heat,BL Mooney,JL Jonassen,JL Barsby,2,0,,,,,,"",""
+ball,2,6.2,Brisbane Heat,BL Mooney,JL Jonassen,JL Barsby,1,0,,,,,,"",""
+ball,2,6.3,Brisbane Heat,JL Jonassen,BL Mooney,JL Barsby,1,0,,,,,,"",""
+ball,2,6.4,Brisbane Heat,BL Mooney,JL Jonassen,JL Barsby,1,0,,,,,,"",""
+ball,2,6.5,Brisbane Heat,JL Jonassen,BL Mooney,JL Barsby,0,0,,,,,,"",""
+ball,2,6.6,Brisbane Heat,JL Jonassen,BL Mooney,JL Barsby,1,0,,,,,,"",""
+ball,2,7.1,Brisbane Heat,JL Jonassen,BL Mooney,H Graham,4,0,,,,,,"",""
+ball,2,7.2,Brisbane Heat,JL Jonassen,BL Mooney,H Graham,1,0,,,,,,"",""
+ball,2,7.3,Brisbane Heat,BL Mooney,JL Jonassen,H Graham,1,0,,,,,,"",""
+ball,2,7.4,Brisbane Heat,JL Jonassen,BL Mooney,H Graham,1,0,,,,,,"",""
+ball,2,7.5,Brisbane Heat,BL Mooney,JL Jonassen,H Graham,0,0,,,,,,"",""
+ball,2,7.6,Brisbane Heat,BL Mooney,JL Jonassen,H Graham,0,0,,,,,,"",""
+ball,2,8.1,Brisbane Heat,JL Jonassen,BL Mooney,T Peschel,1,0,,,,,,"",""
+ball,2,8.2,Brisbane Heat,BL Mooney,JL Jonassen,T Peschel,0,2,,,,2,,"",""
+ball,2,8.3,Brisbane Heat,BL Mooney,JL Jonassen,T Peschel,4,0,,,,,,"",""
+ball,2,8.4,Brisbane Heat,BL Mooney,JL Jonassen,T Peschel,0,0,,,,,,"",""
+ball,2,8.5,Brisbane Heat,BL Mooney,JL Jonassen,T Peschel,1,0,,,,,,"",""
+ball,2,8.6,Brisbane Heat,JL Jonassen,BL Mooney,T Peschel,0,0,,,,,,"",""
+ball,2,9.1,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,0,0,,,,,,"",""
+ball,2,9.2,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,4,0,,,,,,"",""
+ball,2,9.3,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,1,0,,,,,,"",""
+ball,2,9.4,Brisbane Heat,JL Jonassen,BL Mooney,KJ Garth,1,0,,,,,,"",""
+ball,2,9.5,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,0,0,,,,,,"",""
+ball,2,9.6,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,1,0,,,,,,"",""
+ball,2,10.1,Brisbane Heat,BL Mooney,JL Jonassen,NE Bolton,1,0,,,,,,"",""
+ball,2,10.2,Brisbane Heat,JL Jonassen,BL Mooney,NE Bolton,0,0,,,,,,"",""
+ball,2,10.3,Brisbane Heat,JL Jonassen,BL Mooney,NE Bolton,0,0,,,,,,"",""
+ball,2,10.4,Brisbane Heat,JL Jonassen,BL Mooney,NE Bolton,0,0,,,,,,"",""
+ball,2,10.5,Brisbane Heat,JL Jonassen,BL Mooney,NE Bolton,0,0,,,,,,"",""
+ball,2,10.6,Brisbane Heat,JL Jonassen,BL Mooney,NE Bolton,2,0,,,,,,"",""
+ball,2,11.1,Brisbane Heat,BL Mooney,JL Jonassen,NR Sciver,0,0,,,,,,"",""
+ball,2,11.2,Brisbane Heat,BL Mooney,JL Jonassen,NR Sciver,2,0,,,,,,"",""
+ball,2,11.3,Brisbane Heat,BL Mooney,JL Jonassen,NR Sciver,1,0,,,,,,"",""
+ball,2,11.4,Brisbane Heat,JL Jonassen,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,11.5,Brisbane Heat,JL Jonassen,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,11.6,Brisbane Heat,JL Jonassen,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,12.1,Brisbane Heat,BL Mooney,JL Jonassen,NE Bolton,4,0,,,,,,"",""
+ball,2,12.2,Brisbane Heat,BL Mooney,JL Jonassen,NE Bolton,0,0,,,,,,"",""
+ball,2,12.3,Brisbane Heat,BL Mooney,JL Jonassen,NE Bolton,1,0,,,,,,"",""
+ball,2,12.4,Brisbane Heat,JL Jonassen,BL Mooney,NE Bolton,6,0,,,,,,"",""
+ball,2,12.5,Brisbane Heat,JL Jonassen,BL Mooney,NE Bolton,1,0,,,,,,"",""
+ball,2,12.6,Brisbane Heat,BL Mooney,JL Jonassen,NE Bolton,4,0,,,,,,"",""
+ball,2,13.1,Brisbane Heat,JL Jonassen,BL Mooney,H Graham,0,0,,,,,,"",""
+ball,2,13.2,Brisbane Heat,JL Jonassen,BL Mooney,H Graham,0,0,,,,,,"",""
+ball,2,13.3,Brisbane Heat,JL Jonassen,BL Mooney,H Graham,2,0,,,,,,"",""
+ball,2,13.4,Brisbane Heat,JL Jonassen,BL Mooney,H Graham,4,0,,,,,,"",""
+ball,2,13.5,Brisbane Heat,JL Jonassen,BL Mooney,H Graham,1,0,,,,,,"",""
+ball,2,13.6,Brisbane Heat,BL Mooney,JL Jonassen,H Graham,1,0,,,,,,"",""
+ball,2,14.1,Brisbane Heat,BL Mooney,JL Jonassen,NR Sciver,2,0,,,,,,"",""
+ball,2,14.2,Brisbane Heat,BL Mooney,JL Jonassen,NR Sciver,1,0,,,,,,"",""
+ball,2,14.3,Brisbane Heat,JL Jonassen,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,14.4,Brisbane Heat,JL Jonassen,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,14.5,Brisbane Heat,JL Jonassen,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,14.6,Brisbane Heat,JL Jonassen,BL Mooney,NR Sciver,0,0,,,,,,"",""
+ball,2,15.1,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,4,0,,,,,,"",""
+ball,2,15.2,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,2,0,,,,,,"",""
+ball,2,15.3,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,1,0,,,,,,"",""
+ball,2,15.4,Brisbane Heat,JL Jonassen,BL Mooney,KJ Garth,4,0,,,,,,"",""
+ball,2,15.5,Brisbane Heat,JL Jonassen,BL Mooney,KJ Garth,1,0,,,,,,"",""
+ball,2,15.6,Brisbane Heat,BL Mooney,JL Jonassen,KJ Garth,1,0,,,,,,"",""
+ball,2,16.1,Brisbane Heat,BL Mooney,JL Jonassen,JL Barsby,4,0,,,,,,"",""

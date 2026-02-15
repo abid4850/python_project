@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Gloucestershire
+info,gender,male
+info,season,2025
+info,date,2025/06/15
+info,event,Vitality Blast Men
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Glamorgan
+info,toss_decision,bat
+info,umpire,Chris Watts
+info,umpire,PK Baldwin
+info,match_referee,PM Such
+info,winner,Glamorgan
+info,winner_runs,40
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Smale
+info,player,Glamorgan,BI Kellaway
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,AM Tribe
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,Imad Wasim
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,EO Leonard
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,DJM Short
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,AS Dale
+info,player,Gloucestershire,TMJ Smith
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BI Kellaway,eafe8a94
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJM Short,1a156c88
+info,registry,people,EO Leonard,660538af
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,PM Such,c9f1892c
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,WT Smale,97da28bd
+info,registry,people,Zaman Akhter,63e1e352
+ball,1,0.1,Glamorgan,KS Carlson,WT Smale,DA Payne,1,0,,,,,,"",""
+ball,1,0.2,Glamorgan,WT Smale,KS Carlson,DA Payne,0,0,,,,,,bowled,WT Smale
+ball,1,0.3,Glamorgan,BI Kellaway,KS Carlson,DA Payne,1,0,,,,,,"",""
+ball,1,0.4,Glamorgan,KS Carlson,BI Kellaway,DA Payne,0,0,,,,,,"",""
+ball,1,0.5,Glamorgan,KS Carlson,BI Kellaway,DA Payne,1,0,,,,,,"",""
+ball,1,0.6,Glamorgan,BI Kellaway,KS Carlson,DA Payne,4,0,,,,,,"",""
+ball,1,1.1,Glamorgan,KS Carlson,BI Kellaway,AS Dale,0,0,,,,,,"",""
+ball,1,1.2,Glamorgan,KS Carlson,BI Kellaway,AS Dale,1,0,,,,,,"",""
+ball,1,1.3,Glamorgan,BI Kellaway,KS Carlson,AS Dale,0,0,,,,,,"",""
+ball,1,1.4,Glamorgan,BI Kellaway,KS Carlson,AS Dale,0,0,,,,,,"",""
+ball,1,1.5,Glamorgan,BI Kellaway,KS Carlson,AS Dale,1,0,,,,,,"",""
+ball,1,1.6,Glamorgan,KS Carlson,BI Kellaway,AS Dale,0,0,,,,,,"",""
+ball,1,2.1,Glamorgan,BI Kellaway,KS Carlson,DA Payne,4,0,,,,,,"",""
+ball,1,2.2,Glamorgan,BI Kellaway,KS Carlson,DA Payne,0,0,,,,,,"",""
+ball,1,2.3,Glamorgan,BI Kellaway,KS Carlson,DA Payne,1,0,,,,,,"",""
+ball,1,2.4,Glamorgan,KS Carlson,BI Kellaway,DA Payne,1,0,,,,,,"",""
+ball,1,2.5,Glamorgan,BI Kellaway,KS Carlson,DA Payne,4,0,,,,,,"",""
+ball,1,2.6,Glamorgan,BI Kellaway,KS Carlson,DA Payne,4,0,,,,,,"",""
+ball,1,3.1,Glamorgan,KS Carlson,BI Kellaway,AS Dale,2,0,,,,,,"",""
+ball,1,3.2,Glamorgan,KS Carlson,BI Kellaway,AS Dale,0,0,,,,,,"",""
+ball,1,3.3,Glamorgan,KS Carlson,BI Kellaway,AS Dale,0,0,,,,,,"",""
+ball,1,3.4,Glamorgan,KS Carlson,BI Kellaway,AS Dale,2,0,,,,,,"",""
+ball,1,3.5,Glamorgan,KS Carlson,BI Kellaway,AS Dale,0,0,,,,,,caught,KS Carlson
+ball,1,3.6,Glamorgan,CA Ingram,BI Kellaway,AS Dale,1,0,,,,,,"",""
+ball,1,4.1,Glamorgan,CA Ingram,BI Kellaway,GL van Buuren,1,0,,,,,,"",""
+ball,1,4.2,Glamorgan,BI Kellaway,CA Ingram,GL van Buuren,4,0,,,,,,"",""
+ball,1,4.3,Glamorgan,BI Kellaway,CA Ingram,GL van Buuren,1,0,,,,,,"",""
+ball,1,4.4,Glamorgan,CA Ingram,BI Kellaway,GL van Buuren,0,1,1,,,,,"",""
+ball,1,4.5,Glamorgan,CA Ingram,BI Kellaway,GL van Buuren,1,0,,,,,,"",""
+ball,1,4.6,Glamorgan,BI Kellaway,CA Ingram,GL van Buuren,0,0,,,,,,"",""
+ball,1,4.7,Glamorgan,BI Kellaway,CA Ingram,GL van Buuren,0,1,,,,1,,"",""
+ball,1,5.1,Glamorgan,BI Kellaway,CA Ingram,Zaman Akhter,1,0,,,,,,"",""
+ball,1,5.2,Glamorgan,CA Ingram,BI Kellaway,Zaman Akhter,1,0,,,,,,"",""
+ball,1,5.3,Glamorgan,BI Kellaway,CA Ingram,Zaman Akhter,0,0,,,,,,"",""
+ball,1,5.4,Glamorgan,BI Kellaway,CA Ingram,Zaman Akhter,4,0,,,,,,"",""
+ball,1,5.5,Glamorgan,BI Kellaway,CA Ingram,Zaman Akhter,4,0,,,,,,"",""
+ball,1,5.6,Glamorgan,BI Kellaway,CA Ingram,Zaman Akhter,1,0,,,,,,"",""
+ball,1,6.1,Glamorgan,BI Kellaway,CA Ingram,TMJ Smith,0,0,,,,,,"",""
+ball,1,6.2,Glamorgan,BI Kellaway,CA Ingram,TMJ Smith,1,0,,,,,,"",""
+ball,1,6.3,Glamorgan,CA Ingram,BI Kellaway,TMJ Smith,0,0,,,,,,"",""
+ball,1,6.4,Glamorgan,CA Ingram,BI Kellaway,TMJ Smith,1,0,,,,,,"",""
+ball,1,6.5,Glamorgan,BI Kellaway,CA Ingram,TMJ Smith,1,0,,,,,,"",""
+ball,1,6.6,Glamorgan,CA Ingram,BI Kellaway,TMJ Smith,1,0,,,,,,"",""
+ball,1,7.1,Glamorgan,CA Ingram,BI Kellaway,DJM Short,6,0,,,,,,"",""
+ball,1,7.2,Glamorgan,CA Ingram,BI Kellaway,DJM Short,0,1,,,,1,,"",""
+ball,1,7.3,Glamorgan,BI Kellaway,CA Ingram,DJM Short,4,0,,,,,,"",""
+ball,1,7.4,Glamorgan,BI Kellaway,CA Ingram,DJM Short,1,0,,,,,,"",""
+ball,1,7.5,Glamorgan,CA Ingram,BI Kellaway,DJM Short,0,1,,,,1,,"",""
+ball,1,7.6,Glamorgan,BI Kellaway,CA Ingram,DJM Short,0,0,,,,,,"",""
+ball,1,8.1,Glamorgan,CA Ingram,BI Kellaway,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.2,Glamorgan,BI Kellaway,CA Ingram,TMJ Smith,4,0,,,,,,"",""
+ball,1,8.3,Glamorgan,BI Kellaway,CA Ingram,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.4,Glamorgan,CA Ingram,BI Kellaway,TMJ Smith,6,0,,,,,,"",""
+ball,1,8.5,Glamorgan,CA Ingram,BI Kellaway,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.6,Glamorgan,BI Kellaway,CA Ingram,TMJ Smith,0,0,,,,,,"",""
+ball,1,9.1,Glamorgan,CA Ingram,BI Kellaway,Zaman Akhter,0,1,1,,,,,"",""
+ball,1,9.2,Glamorgan,CA Ingram,BI Kellaway,Zaman Akhter,2,0,,,,,,"",""
+ball,1,9.3,Glamorgan,CA Ingram,BI Kellaway,Zaman Akhter,0,3,3,,,,,"",""
+ball,1,9.4,Glamorgan,CA Ingram,BI Kellaway,Zaman Akhter,1,0,,,,,,"",""
+ball,1,9.5,Glamorgan,BI Kellaway,CA Ingram,Zaman Akhter,1,0,,,,,,"",""
+ball,1,9.6,Glamorgan,CA Ingram,BI Kellaway,Zaman Akhter,2,0,,,,,,"",""
+ball,1,9.7,Glamorgan,CA Ingram,BI Kellaway,Zaman Akhter,1,0,,,,,,"",""
+ball,1,9.8,Glamorgan,BI Kellaway,CA Ingram,Zaman Akhter,0,1,1,,,,,"",""
+ball,1,9.9,Glamorgan,BI Kellaway,CA Ingram,Zaman Akhter,6,0,,,,,,"",""
+ball,1,10.1,Glamorgan,CA Ingram,BI Kellaway,OJ Price,1,0,,,,,,"",""
+ball,1,10.2,Glamorgan,BI Kellaway,CA Ingram,OJ Price,0,0,,,,,,stumped,BI Kellaway
+ball,1,10.3,Glamorgan,CB Cooke,CA Ingram,OJ Price,0,1,,,,1,,"",""
+ball,1,10.4,Glamorgan,CA Ingram,CB Cooke,OJ Price,1,0,,,,,,"",""
+ball,1,10.5,Glamorgan,CB Cooke,CA Ingram,OJ Price,1,0,,,,,,"",""
+ball,1,10.6,Glamorgan,CA Ingram,CB Cooke,OJ Price,0,0,,,,,,"",""
+ball,1,11.1,Glamorgan,CB Cooke,CA Ingram,TMJ Smith,0,0,,,,,,"",""
+ball,1,11.2,Glamorgan,CB Cooke,CA Ingram,TMJ Smith,1,0,,,,,,"",""
+ball,1,11.3,Glamorgan,CA Ingram,CB Cooke,TMJ Smith,1,0,,,,,,"",""
+ball,1,11.4,Glamorgan,CB Cooke,CA Ingram,TMJ Smith,0,0,,,,,,"",""
+ball,1,11.5,Glamorgan,CB Cooke,CA Ingram,TMJ Smith,1,0,,,,,,"",""
+ball,1,11.6,Glamorgan,CA Ingram,CB Cooke,TMJ Smith,6,0,,,,,,"",""
+ball,1,12.1,Glamorgan,CB Cooke,CA Ingram,OJ Price,2,0,,,,,,"",""
+ball,1,12.2,Glamorgan,CB Cooke,CA Ingram,OJ Price,1,0,,,,,,"",""
+ball,1,12.3,Glamorgan,CA Ingram,CB Cooke,OJ Price,0,0,,,,,,"",""
+ball,1,12.4,Glamorgan,CA Ingram,CB Cooke,OJ Price,1,0,,,,,,"",""
+ball,1,12.5,Glamorgan,CB Cooke,CA Ingram,OJ Price,1,0,,,,,,"",""
+ball,1,12.6,Glamorgan,CA Ingram,CB Cooke,OJ Price,0,1,1,,,,,"",""
+ball,1,12.7,Glamorgan,CA Ingram,CB Cooke,OJ Price,1,0,,,,,,"",""
+ball,1,13.1,Glamorgan,CA Ingram,CB Cooke,AS Dale,0,0,,,,,,"",""
+ball,1,13.2,Glamorgan,CA Ingram,CB Cooke,AS Dale,1,0,,,,,,"",""
+ball,1,13.3,Glamorgan,CB Cooke,CA Ingram,AS Dale,1,0,,,,,,"",""
+ball,1,13.4,Glamorgan,CA Ingram,CB Cooke,AS Dale,0,0,,,,,,caught,CA Ingram
+ball,1,13.5,Glamorgan,AM Tribe,CB Cooke,AS Dale,0,0,,,,,,"",""
+ball,1,13.6,Glamorgan,AM Tribe,CB Cooke,AS Dale,0,0,,,,,,"",""
+ball,1,14.1,Glamorgan,CB Cooke,AM Tribe,TMJ Smith,1,0,,,,,,"",""
+ball,1,14.2,Glamorgan,AM Tribe,CB Cooke,TMJ Smith,1,0,,,,,,"",""
+ball,1,14.3,Glamorgan,CB Cooke,AM Tribe,TMJ Smith,1,0,,,,,,"",""
+ball,1,14.4,Glamorgan,AM Tribe,CB Cooke,TMJ Smith,6,0,,,,,,"",""
+ball,1,14.5,Glamorgan,AM Tribe,CB Cooke,TMJ Smith,0,0,,,,,,"",""
+ball,1,14.6,Glamorgan,AM Tribe,CB Cooke,TMJ Smith,1,0,,,,,,"",""
+ball,1,15.1,Glamorgan,AM Tribe,CB Cooke,DA Payne,1,0,,,,,,"",""
+ball,1,15.2,Glamorgan,CB Cooke,AM Tribe,DA Payne,1,0,,,,,,"",""
+ball,1,15.3,Glamorgan,AM Tribe,CB Cooke,DA Payne,0,0,,,,,,"",""
+ball,1,15.4,Glamorgan,AM Tribe,CB Cooke,DA Payne,1,0,,,,,,"",""
+ball,1,15.5,Glamorgan,CB Cooke,AM Tribe,DA Payne,0,0,,,,,,"",""
+ball,1,15.6,Glamorgan,CB Cooke,AM Tribe,DA Payne,0,0,,,,,,caught,CB Cooke
+ball,1,16.1,Glamorgan,AM Tribe,DA Douthwaite,DJM Short,4,0,,,,,,"",""
+ball,1,16.2,Glamorgan,AM Tribe,DA Douthwaite,DJM Short,0,0,,,,,,"",""
+ball,1,16.3,Glamorgan,AM Tribe,DA Douthwaite,DJM Short,1,0,,,,,,"",""
+ball,1,16.4,Glamorgan,DA Douthwaite,AM Tribe,DJM Short,1,0,,,,,,"",""
+ball,1,16.5,Glamorgan,AM Tribe,DA Douthwaite,DJM Short,2,0,,,,,,"",""
+ball,1,16.6,Glamorgan,AM Tribe,DA Douthwaite,DJM Short,1,0,,,,,,"",""
+ball,1,17.1,Glamorgan,AM Tribe,DA Douthwaite,AS Dale,4,0,,,,,,"",""
+ball,1,17.2,Glamorgan,AM Tribe,DA Douthwaite,AS Dale,0,0,,,,,,"",""
+ball,1,17.3,Glamorgan,AM Tribe,DA Douthwaite,AS Dale,1,0,,,,,,"",""
+ball,1,17.4,Glamorgan,DA Douthwaite,AM Tribe,AS Dale,0,0,,,,,,"",""
+ball,1,17.5,Glamorgan,DA Douthwaite,AM Tribe,AS Dale,0,1,1,,,,,"",""
+ball,1,17.6,Glamorgan,DA Douthwaite,AM Tribe,AS Dale,2,0,,,,,,"",""
+ball,1,17.7,Glamorgan,DA Douthwaite,AM Tribe,AS Dale,0,0,,,,,,caught,DA Douthwaite
+ball,1,18.1,Glamorgan,AM Tribe,Imad Wasim,DJM Short,4,0,,,,,,"",""
+ball,1,18.2,Glamorgan,AM Tribe,Imad Wasim,DJM Short,6,0,,,,,,"",""
+ball,1,18.3,Glamorgan,AM Tribe,Imad Wasim,DJM Short,4,0,,,,,,"",""
+ball,1,18.4,Glamorgan,AM Tribe,Imad Wasim,DJM Short,6,0,,,,,,"",""
+ball,1,18.5,Glamorgan,AM Tribe,Imad Wasim,DJM Short,2,0,,,,,,"",""
+ball,1,18.6,Glamorgan,AM Tribe,Imad Wasim,DJM Short,0,0,,,,,,"",""
+ball,1,19.1,Glamorgan,Imad Wasim,AM Tribe,DA Payne,1,0,,,,,,"",""
+ball,1,19.2,Glamorgan,AM Tribe,Imad Wasim,DA Payne,4,0,,,,,,"",""
+ball,1,19.3,Glamorgan,AM Tribe,Imad Wasim,DA Payne,6,0,,,,,,"",""
+ball,1,19.4,Glamorgan,AM Tribe,Imad Wasim,DA Payne,6,0,,,,,,"",""
+ball,1,19.5,Glamorgan,AM Tribe,Imad Wasim,DA Payne,2,0,,,,,,"",""
+ball,1,19.6,Glamorgan,AM Tribe,Imad Wasim,DA Payne,0,0,,,,,,"",""
+ball,2,0.1,Gloucestershire,Miles Hammond,CT Bancroft,T van der Gugten,0,1,,,,1,,"",""
+ball,2,0.2,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,0,0,,,,,,"",""
+ball,2,0.3,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,0,0,,,,,,"",""
+ball,2,0.4,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,0,0,,,,,,"",""
+ball,2,0.5,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,1,0,,,,,,"",""
+ball,2,0.6,Gloucestershire,Miles Hammond,CT Bancroft,T van der Gugten,0,0,,,,,,"",""
+ball,2,1.1,Gloucestershire,CT Bancroft,Miles Hammond,Imad Wasim,0,0,,,,,,"",""
+ball,2,1.2,Gloucestershire,CT Bancroft,Miles Hammond,Imad Wasim,0,0,,,,,,"",""
+ball,2,1.3,Gloucestershire,CT Bancroft,Miles Hammond,Imad Wasim,1,0,,,,,,"",""
+ball,2,1.4,Gloucestershire,Miles Hammond,CT Bancroft,Imad Wasim,0,0,,,,,,"",""
+ball,2,1.5,Gloucestershire,Miles Hammond,CT Bancroft,Imad Wasim,0,0,,,,,,"",""
+ball,2,1.6,Gloucestershire,Miles Hammond,CT Bancroft,Imad Wasim,0,0,,,,,,"",""
+ball,2,2.1,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,4,0,,,,,,"",""
+ball,2,2.2,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,6,0,,,,,,"",""
+ball,2,2.3,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,0,0,,,,,,"",""
+ball,2,2.4,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,0,0,,,,,,"",""
+ball,2,2.5,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,0,0,,,,,,"",""
+ball,2,2.6,Gloucestershire,CT Bancroft,Miles Hammond,T van der Gugten,0,0,,,,,,"",""
+ball,2,3.1,Gloucestershire,Miles Hammond,CT Bancroft,Imad Wasim,0,0,,,,,,"",""
+ball,2,3.2,Gloucestershire,Miles Hammond,CT Bancroft,Imad Wasim,0,0,,,,,,"",""
+ball,2,3.3,Gloucestershire,Miles Hammond,CT Bancroft,Imad Wasim,0,0,,,,,,"",""
+ball,2,3.4,Gloucestershire,Miles Hammond,CT Bancroft,Imad Wasim,0,0,,,,,,caught,Miles Hammond
+ball,2,3.5,Gloucestershire,DJM Short,CT Bancroft,Imad Wasim,1,0,,,,,,"",""
+ball,2,3.6,Gloucestershire,CT Bancroft,DJM Short,Imad Wasim,1,0,,,,,,"",""
+ball,2,4.1,Gloucestershire,CT Bancroft,DJM Short,EO Leonard,1,0,,,,,,"",""
+ball,2,4.2,Gloucestershire,DJM Short,CT Bancroft,EO Leonard,2,0,,,,,,"",""
+ball,2,4.3,Gloucestershire,DJM Short,CT Bancroft,EO Leonard,0,0,,,,,,"",""
+ball,2,4.4,Gloucestershire,DJM Short,CT Bancroft,EO Leonard,0,0,,,,,,"",""
+ball,2,4.5,Gloucestershire,DJM Short,CT Bancroft,EO Leonard,4,0,,,,,,"",""
+ball,2,4.6,Gloucestershire,DJM Short,CT Bancroft,EO Leonard,0,0,,,,,,"",""
+ball,2,5.1,Gloucestershire,CT Bancroft,DJM Short,T van der Gugten,0,0,,,,,,"",""
+ball,2,5.2,Gloucestershire,CT Bancroft,DJM Short,T van der Gugten,1,0,,,,,,"",""
+ball,2,5.3,Gloucestershire,DJM Short,CT Bancroft,T van der Gugten,1,0,,,,,,"",""
+ball,2,5.4,Gloucestershire,CT Bancroft,DJM Short,T van der Gugten,4,0,,,,,,"",""
+ball,2,5.5,Gloucestershire,CT Bancroft,DJM Short,T van der Gugten,1,0,,,,,,"",""
+ball,2,5.6,Gloucestershire,DJM Short,CT Bancroft,T van der Gugten,1,0,,,,,,"",""
+ball,2,6.1,Gloucestershire,DJM Short,CT Bancroft,DA Douthwaite,1,0,,,,,,"",""
+ball,2,6.2,Gloucestershire,CT Bancroft,DJM Short,DA Douthwaite,1,0,,,,,,"",""
+ball,2,6.3,Gloucestershire,DJM Short,CT Bancroft,DA Douthwaite,1,0,,,,,,"",""
+ball,2,6.4,Gloucestershire,CT Bancroft,DJM Short,DA Douthwaite,1,0,,,,,,"",""
+ball,2,6.5,Gloucestershire,DJM Short,CT Bancroft,DA Douthwaite,1,0,,,,,,"",""
+ball,2,6.6,Gloucestershire,CT Bancroft,DJM Short,DA Douthwaite,0,1,1,,,,,"",""
+ball,2,6.7,Gloucestershire,CT Bancroft,DJM Short,DA Douthwaite,1,0,,,,,,"",""
+ball,2,7.1,Gloucestershire,CT Bancroft,DJM Short,MS Crane,4,0,,,,,,"",""
+ball,2,7.2,Gloucestershire,CT Bancroft,DJM Short,MS Crane,1,0,,,,,,"",""
+ball,2,7.3,Gloucestershire,DJM Short,CT Bancroft,MS Crane,1,0,,,,,,"",""
+ball,2,7.4,Gloucestershire,CT Bancroft,DJM Short,MS Crane,1,0,,,,,,"",""
+ball,2,7.5,Gloucestershire,DJM Short,CT Bancroft,MS Crane,1,0,,,,,,"",""
+ball,2,7.6,Gloucestershire,CT Bancroft,DJM Short,MS Crane,0,0,,,,,,"",""
+ball,2,8.1,Gloucestershire,DJM Short,CT Bancroft,EO Leonard,1,0,,,,,,"",""
+ball,2,8.2,Gloucestershire,CT Bancroft,DJM Short,EO Leonard,1,0,,,,,,"",""
+ball,2,8.3,Gloucestershire,DJM Short,CT Bancroft,EO Leonard,1,0,,,,,,"",""
+ball,2,8.4,Gloucestershire,CT Bancroft,DJM Short,EO Leonard,4,0,,,,,,"",""
+ball,2,8.5,Gloucestershire,CT Bancroft,DJM Short,EO Leonard,1,0,,,,,,"",""
+ball,2,8.6,Gloucestershire,DJM Short,CT Bancroft,EO Leonard,0,0,,,,,,"",""
+ball,2,9.1,Gloucestershire,CT Bancroft,DJM Short,BI Kellaway,1,0,,,,,,"",""
+ball,2,9.2,Gloucestershire,DJM Short,CT Bancroft,BI Kellaway,4,0,,,,,,"",""
+ball,2,9.3,Gloucestershire,DJM Short,CT Bancroft,BI Kellaway,1,0,,,,,,"",""
+ball,2,9.4,Gloucestershire,CT Bancroft,DJM Short,BI Kellaway,1,0,,,,,,"",""
+ball,2,9.5,Gloucestershire,DJM Short,CT Bancroft,BI Kellaway,4,0,,,,,,"",""
+ball,2,9.6,Gloucestershire,DJM Short,CT Bancroft,BI Kellaway,4,0,,,,,,"",""
+ball,2,10.1,Gloucestershire,CT Bancroft,DJM Short,Imad Wasim,0,0,,,,,,"",""
+ball,2,10.2,Gloucestershire,CT Bancroft,DJM Short,Imad Wasim,1,0,,,,,,"",""
+ball,2,10.3,Gloucestershire,DJM Short,CT Bancroft,Imad Wasim,4,0,,,,,,"",""
+ball,2,10.4,Gloucestershire,DJM Short,CT Bancroft,Imad Wasim,1,0,,,,,,"",""
+ball,2,10.5,Gloucestershire,CT Bancroft,DJM Short,Imad Wasim,0,0,,,,,,"",""
+ball,2,10.6,Gloucestershire,CT Bancroft,DJM Short,Imad Wasim,1,0,,,,,,"",""
+ball,2,11.1,Gloucestershire,CT Bancroft,DJM Short,MS Crane,1,0,,,,,,"",""
+ball,2,11.2,Gloucestershire,DJM Short,CT Bancroft,MS Crane,0,0,,,,,,caught,DJM Short
+ball,2,11.3,Gloucestershire,OJ Price,CT Bancroft,MS Crane,1,0,,,,,,"",""
+ball,2,11.4,Gloucestershire,CT Bancroft,OJ Price,MS Crane,1,0,,,,,,"",""
+ball,2,11.5,Gloucestershire,OJ Price,CT Bancroft,MS Crane,2,0,,,,,,"",""
+ball,2,11.6,Gloucestershire,OJ Price,CT Bancroft,MS Crane,1,0,,,,,,"",""
+ball,2,12.1,Gloucestershire,OJ Price,CT Bancroft,DA Douthwaite,1,0,,,,,,"",""
+ball,2,12.2,Gloucestershire,CT Bancroft,OJ Price,DA Douthwaite,4,0,,,,,,"",""
+ball,2,12.3,Gloucestershire,CT Bancroft,OJ Price,DA Douthwaite,1,0,,,,,,"",""
+ball,2,12.4,Gloucestershire,OJ Price,CT Bancroft,DA Douthwaite,1,0,,,,,,"",""
+ball,2,12.5,Gloucestershire,CT Bancroft,OJ Price,DA Douthwaite,1,0,,,,,,"",""
+ball,2,12.6,Gloucestershire,OJ Price,CT Bancroft,DA Douthwaite,2,0,,,,,,"",""
+ball,2,13.1,Gloucestershire,CT Bancroft,OJ Price,MS Crane,1,0,,,,,,"",""
+ball,2,13.2,Gloucestershire,OJ Price,CT Bancroft,MS Crane,0,0,,,,,,"",""
+ball,2,13.3,Gloucestershire,OJ Price,CT Bancroft,MS Crane,0,0,,,,,,lbw,OJ Price
+ball,2,13.4,Gloucestershire,JMR Taylor,CT Bancroft,MS Crane,1,0,,,,,,"",""
+ball,2,13.5,Gloucestershire,CT Bancroft,JMR Taylor,MS Crane,1,0,,,,,,"",""
+ball,2,13.6,Gloucestershire,JMR Taylor,CT Bancroft,MS Crane,1,0,,,,,,"",""
+ball,2,14.1,Gloucestershire,JMR Taylor,CT Bancroft,EO Leonard,1,0,,,,,,"",""
+ball,2,14.2,Gloucestershire,CT Bancroft,JMR Taylor,EO Leonard,1,0,,,,,,"",""
+ball,2,14.3,Gloucestershire,JMR Taylor,CT Bancroft,EO Leonard,1,0,,,,,,"",""
+ball,2,14.4,Gloucestershire,CT Bancroft,JMR Taylor,EO Leonard,1,0,,,,,,"",""
+ball,2,14.5,Gloucestershire,JMR Taylor,CT Bancroft,EO Leonard,4,0,,,,,,"",""
+ball,2,14.6,Gloucestershire,JMR Taylor,CT Bancroft,EO Leonard,0,0,,,,,,caught,JMR Taylor
+ball,2,15.1,Gloucestershire,CT Bancroft,BG Charlesworth,MS Crane,1,0,,,,,,"",""
+ball,2,15.2,Gloucestershire,BG Charlesworth,CT Bancroft,MS Crane,0,0,,,,,,caught,BG Charlesworth
+ball,2,15.3,Gloucestershire,GL van Buuren,CT Bancroft,MS Crane,1,0,,,,,,"",""
+ball,2,15.4,Gloucestershire,CT Bancroft,GL van Buuren,MS Crane,0,0,,,,,,"",""
+ball,2,15.5,Gloucestershire,CT Bancroft,GL van Buuren,MS Crane,0,0,,,,,,caught,CT Bancroft
+ball,2,15.6,Gloucestershire,Zaman Akhter,GL van Buuren,MS Crane,0,0,,,,,,"",""
+ball,2,16.1,Gloucestershire,GL van Buuren,Zaman Akhter,DA Douthwaite,6,0,,,,,,"",""
+ball,2,16.2,Gloucestershire,GL van Buuren,Zaman Akhter,DA Douthwaite,1,0,,,,,,"",""
+ball,2,16.3,Gloucestershire,Zaman Akhter,GL van Buuren,DA Douthwaite,1,0,,,,,,"",""
+ball,2,16.4,Gloucestershire,GL van Buuren,Zaman Akhter,DA Douthwaite,0,0,,,,,,"",""
+ball,2,16.5,Gloucestershire,GL van Buuren,Zaman Akhter,DA Douthwaite,1,0,,,,,,"",""
+ball,2,16.6,Gloucestershire,Zaman Akhter,GL van Buuren,DA Douthwaite,0,0,,,,,,"",""
+ball,2,17.1,Gloucestershire,GL van Buuren,Zaman Akhter,Imad Wasim,4,0,,,,,,"",""
+ball,2,17.2,Gloucestershire,GL van Buuren,Zaman Akhter,Imad Wasim,1,0,,,,,,"",""
+ball,2,17.3,Gloucestershire,Zaman Akhter,GL van Buuren,Imad Wasim,2,0,,,,,,"",""
+ball,2,17.4,Gloucestershire,Zaman Akhter,GL van Buuren,Imad Wasim,6,0,,,,,,"",""
+ball,2,17.5,Gloucestershire,Zaman Akhter,GL van Buuren,Imad Wasim,0,0,,,,,,caught,Zaman Akhter
+ball,2,17.6,Gloucestershire,DA Payne,GL van Buuren,Imad Wasim,0,0,,,,,,caught and bowled,DA Payne
+ball,2,18.1,Gloucestershire,GL van Buuren,AS Dale,EO Leonard,1,0,,,,,,"",""
+ball,2,18.2,Gloucestershire,AS Dale,GL van Buuren,EO Leonard,0,0,,,,,,"",""
+ball,2,18.3,Gloucestershire,AS Dale,GL van Buuren,EO Leonard,0,0,,,,,,caught,AS Dale
+ball,2,18.4,Gloucestershire,TMJ Smith,GL van Buuren,EO Leonard,1,0,,,,,,"",""
+ball,2,18.5,Gloucestershire,GL van Buuren,TMJ Smith,EO Leonard,1,0,,,,,,"",""
+ball,2,18.6,Gloucestershire,TMJ Smith,GL van Buuren,EO Leonard,1,0,,,,,,"",""
+ball,2,19.1,Gloucestershire,TMJ Smith,GL van Buuren,DA Douthwaite,1,0,,,,,,"",""
+ball,2,19.2,Gloucestershire,GL van Buuren,TMJ Smith,DA Douthwaite,2,0,,,,,,"",""
+ball,2,19.3,Gloucestershire,GL van Buuren,TMJ Smith,DA Douthwaite,4,0,,,,,,"",""
+ball,2,19.4,Gloucestershire,GL van Buuren,TMJ Smith,DA Douthwaite,6,0,,,,,,"",""
+ball,2,19.5,Gloucestershire,GL van Buuren,TMJ Smith,DA Douthwaite,4,0,,,,,,"",""
+ball,2,19.6,Gloucestershire,GL van Buuren,TMJ Smith,DA Douthwaite,1,0,,,,,,"",""

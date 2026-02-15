@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Lancashire
+info,gender,male
+info,season,2023
+info,date,2023/06/01
+info,event,Vitality Blast
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Lancashire
+info,toss_decision,field
+info,player_of_match,DJ Malan
+info,umpire,PJ Hartley
+info,umpire,SJ O'Shaughnessy
+info,tv_umpire,S Redfern
+info,match_referee,Phil Whitticase
+info,winner,Yorkshire
+info,winner_runs,15
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,W Luxton
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,Shan Masood
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,D Wiese
+info,player,Yorkshire,BWM Mike
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,JA Chohan
+info,player,Lancashire,PD Salt
+info,player,Lancashire,JC Buttler
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,DJ Mitchell
+info,player,Lancashire,LS Livingstone
+info,player,Lancashire,C de Grandhomme
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,L Wood
+info,player,Lancashire,TE Bailey
+info,player,Lancashire,MW Parkinson
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,BWM Mike,ed12fcd7
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DM Bess,ad46c747
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JC Buttler,99b75528
+info,registry,people,L Wood,65b6943c
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,ML Revis,28217d89
+info,registry,people,MW Parkinson,19708692
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,S Redfern,5b038989
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,Shan Masood,6843a783
+info,registry,people,TE Bailey,b9877635
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,W Luxton,c15fb753
+ball,1,0.1,Yorkshire,A Lyth,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,1,0.2,Yorkshire,A Lyth,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,1,0.3,Yorkshire,A Lyth,DJ Malan,L Wood,0,1,1,,,,,"",""
+ball,1,0.4,Yorkshire,A Lyth,DJ Malan,L Wood,4,0,,,,,,"",""
+ball,1,0.5,Yorkshire,A Lyth,DJ Malan,L Wood,4,0,,,,,,"",""
+ball,1,0.6,Yorkshire,A Lyth,DJ Malan,L Wood,4,0,,,,,,"",""
+ball,1,0.7,Yorkshire,A Lyth,DJ Malan,L Wood,4,0,,,,,,"",""
+ball,1,1.1,Yorkshire,DJ Malan,A Lyth,TE Bailey,0,0,,,,,,"",""
+ball,1,1.2,Yorkshire,DJ Malan,A Lyth,TE Bailey,1,0,,,,,,"",""
+ball,1,1.3,Yorkshire,A Lyth,DJ Malan,TE Bailey,1,0,,,,,,"",""
+ball,1,1.4,Yorkshire,DJ Malan,A Lyth,TE Bailey,4,0,,,,,,"",""
+ball,1,1.5,Yorkshire,DJ Malan,A Lyth,TE Bailey,0,0,,,,,,"",""
+ball,1,1.6,Yorkshire,DJ Malan,A Lyth,TE Bailey,4,0,,,,,,"",""
+ball,1,2.1,Yorkshire,A Lyth,DJ Malan,LS Livingstone,4,0,,,,,,"",""
+ball,1,2.2,Yorkshire,A Lyth,DJ Malan,LS Livingstone,0,0,,,,,,"",""
+ball,1,2.3,Yorkshire,A Lyth,DJ Malan,LS Livingstone,1,0,,,,,,"",""
+ball,1,2.4,Yorkshire,DJ Malan,A Lyth,LS Livingstone,0,0,,,,,,"",""
+ball,1,2.5,Yorkshire,DJ Malan,A Lyth,LS Livingstone,0,0,,,,,,"",""
+ball,1,2.6,Yorkshire,DJ Malan,A Lyth,LS Livingstone,1,0,,,,,,"",""
+ball,1,3.1,Yorkshire,DJ Malan,A Lyth,L Wood,1,0,,,,,,"",""
+ball,1,3.2,Yorkshire,A Lyth,DJ Malan,L Wood,1,0,,,,,,"",""
+ball,1,3.3,Yorkshire,DJ Malan,A Lyth,L Wood,6,0,,,,,,"",""
+ball,1,3.4,Yorkshire,DJ Malan,A Lyth,L Wood,4,0,,,,,,"",""
+ball,1,3.5,Yorkshire,DJ Malan,A Lyth,L Wood,0,1,,,,1,,"",""
+ball,1,3.6,Yorkshire,A Lyth,DJ Malan,L Wood,0,1,1,,,,,"",""
+ball,1,3.7,Yorkshire,A Lyth,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,1,4.1,Yorkshire,DJ Malan,A Lyth,LS Livingstone,0,0,,,,,,"",""
+ball,1,4.2,Yorkshire,DJ Malan,A Lyth,LS Livingstone,0,0,,,,,,"",""
+ball,1,4.3,Yorkshire,DJ Malan,A Lyth,LS Livingstone,0,0,,,,,,"",""
+ball,1,4.4,Yorkshire,DJ Malan,A Lyth,LS Livingstone,2,0,,,,,,"",""
+ball,1,4.5,Yorkshire,DJ Malan,A Lyth,LS Livingstone,1,0,,,,,,"",""
+ball,1,4.6,Yorkshire,A Lyth,DJ Malan,LS Livingstone,0,0,,,,,,"",""
+ball,1,5.1,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,0,1,1,,,,,"",""
+ball,1,5.2,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,0,0,,,,,,"",""
+ball,1,5.3,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,4,0,,,,,,"",""
+ball,1,5.4,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,4,0,,,,,,"",""
+ball,1,5.5,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,0,0,,,,,,"",""
+ball,1,5.6,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,0,0,,,,,,"",""
+ball,1,5.7,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,0,0,,,,,,"",""
+ball,1,6.1,Yorkshire,A Lyth,DJ Malan,MW Parkinson,1,0,,,,,,"",""
+ball,1,6.2,Yorkshire,DJ Malan,A Lyth,MW Parkinson,1,0,,,,,,"",""
+ball,1,6.3,Yorkshire,A Lyth,DJ Malan,MW Parkinson,1,0,,,,,,"",""
+ball,1,6.4,Yorkshire,DJ Malan,A Lyth,MW Parkinson,4,0,,,,,,"",""
+ball,1,6.5,Yorkshire,DJ Malan,A Lyth,MW Parkinson,6,0,,,,,,"",""
+ball,1,6.6,Yorkshire,DJ Malan,A Lyth,MW Parkinson,1,0,,,,,,"",""
+ball,1,7.1,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,1,0,,,,,,"",""
+ball,1,7.2,Yorkshire,A Lyth,DJ Malan,DJ Mitchell,1,0,,,,,,"",""
+ball,1,7.3,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,1,0,,,,,,"",""
+ball,1,7.4,Yorkshire,A Lyth,DJ Malan,DJ Mitchell,1,0,,,,,,"",""
+ball,1,7.5,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,0,2,,2,,,,"",""
+ball,1,7.6,Yorkshire,DJ Malan,A Lyth,DJ Mitchell,1,0,,,,,,"",""
+ball,1,7.7,Yorkshire,A Lyth,DJ Malan,DJ Mitchell,0,0,,,,,,"",""
+ball,1,8.1,Yorkshire,DJ Malan,A Lyth,LWP Wells,2,0,,,,,,"",""
+ball,1,8.2,Yorkshire,DJ Malan,A Lyth,LWP Wells,1,0,,,,,,"",""
+ball,1,8.3,Yorkshire,A Lyth,DJ Malan,LWP Wells,0,0,,,,,,"",""
+ball,1,8.4,Yorkshire,A Lyth,DJ Malan,LWP Wells,0,0,,,,,,"",""
+ball,1,8.5,Yorkshire,A Lyth,DJ Malan,LWP Wells,4,0,,,,,,"",""
+ball,1,8.6,Yorkshire,A Lyth,DJ Malan,LWP Wells,1,0,,,,,,"",""
+ball,1,9.1,Yorkshire,A Lyth,DJ Malan,C de Grandhomme,0,0,,,,,,caught,A Lyth
+ball,1,9.2,Yorkshire,W Luxton,DJ Malan,C de Grandhomme,0,0,,,,,,"",""
+ball,1,9.3,Yorkshire,W Luxton,DJ Malan,C de Grandhomme,1,0,,,,,,"",""
+ball,1,9.4,Yorkshire,DJ Malan,W Luxton,C de Grandhomme,1,0,,,,,,"",""
+ball,1,9.5,Yorkshire,W Luxton,DJ Malan,C de Grandhomme,1,0,,,,,,"",""
+ball,1,9.6,Yorkshire,DJ Malan,W Luxton,C de Grandhomme,1,0,,,,,,"",""
+ball,1,10.1,Yorkshire,DJ Malan,W Luxton,LWP Wells,0,0,,,,,,"",""
+ball,1,10.2,Yorkshire,DJ Malan,W Luxton,LWP Wells,4,0,,,,,,"",""
+ball,1,10.3,Yorkshire,DJ Malan,W Luxton,LWP Wells,2,0,,,,,,"",""
+ball,1,10.4,Yorkshire,DJ Malan,W Luxton,LWP Wells,4,0,,,,,,"",""
+ball,1,10.5,Yorkshire,DJ Malan,W Luxton,LWP Wells,1,0,,,,,,"",""
+ball,1,10.6,Yorkshire,W Luxton,DJ Malan,LWP Wells,1,0,,,,,,"",""
+ball,1,11.1,Yorkshire,W Luxton,DJ Malan,C de Grandhomme,0,0,,,,,,"",""
+ball,1,11.2,Yorkshire,W Luxton,DJ Malan,C de Grandhomme,0,0,,,,,,"",""
+ball,1,11.3,Yorkshire,W Luxton,DJ Malan,C de Grandhomme,1,0,,,,,,"",""
+ball,1,11.4,Yorkshire,DJ Malan,W Luxton,C de Grandhomme,1,0,,,,,,"",""
+ball,1,11.5,Yorkshire,W Luxton,DJ Malan,C de Grandhomme,0,0,,,,,,caught,W Luxton
+ball,1,11.6,Yorkshire,ML Revis,DJ Malan,C de Grandhomme,1,0,,,,,,"",""
+ball,1,12.1,Yorkshire,ML Revis,DJ Malan,TW Hartley,1,0,,,,,,"",""
+ball,1,12.2,Yorkshire,DJ Malan,ML Revis,TW Hartley,6,0,,,,,,"",""
+ball,1,12.3,Yorkshire,DJ Malan,ML Revis,TW Hartley,2,0,,,,,,"",""
+ball,1,12.4,Yorkshire,DJ Malan,ML Revis,TW Hartley,1,0,,,,,,"",""
+ball,1,12.5,Yorkshire,ML Revis,DJ Malan,TW Hartley,1,0,,,,,,"",""
+ball,1,12.6,Yorkshire,DJ Malan,ML Revis,TW Hartley,2,0,,,,,,"",""
+ball,1,13.1,Yorkshire,ML Revis,DJ Malan,C de Grandhomme,0,0,,,,,,"",""
+ball,1,13.2,Yorkshire,ML Revis,DJ Malan,C de Grandhomme,4,0,,,,,,"",""
+ball,1,13.3,Yorkshire,ML Revis,DJ Malan,C de Grandhomme,0,0,,,,,,"",""
+ball,1,13.4,Yorkshire,ML Revis,DJ Malan,C de Grandhomme,1,0,,,,,,"",""
+ball,1,13.5,Yorkshire,DJ Malan,ML Revis,C de Grandhomme,0,0,,,,,,"",""
+ball,1,13.6,Yorkshire,DJ Malan,ML Revis,C de Grandhomme,1,0,,,,,,"",""
+ball,1,14.1,Yorkshire,DJ Malan,ML Revis,LS Livingstone,6,0,,,,,,"",""
+ball,1,14.2,Yorkshire,DJ Malan,ML Revis,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.3,Yorkshire,ML Revis,DJ Malan,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.4,Yorkshire,DJ Malan,ML Revis,LS Livingstone,0,0,,,,,,caught,DJ Malan
+ball,1,14.5,Yorkshire,Shan Masood,ML Revis,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.6,Yorkshire,ML Revis,Shan Masood,LS Livingstone,4,0,,,,,,"",""
+ball,1,15.1,Yorkshire,Shan Masood,ML Revis,DJ Mitchell,1,0,,,,,,"",""
+ball,1,15.2,Yorkshire,ML Revis,Shan Masood,DJ Mitchell,1,0,,,,,,"",""
+ball,1,15.3,Yorkshire,Shan Masood,ML Revis,DJ Mitchell,1,0,,,,,,"",""
+ball,1,15.4,Yorkshire,ML Revis,Shan Masood,DJ Mitchell,0,0,,,,,,"",""
+ball,1,15.5,Yorkshire,ML Revis,Shan Masood,DJ Mitchell,0,0,,,,,,"",""
+ball,1,15.6,Yorkshire,ML Revis,Shan Masood,DJ Mitchell,6,0,,,,,,"",""
+ball,1,16.1,Yorkshire,Shan Masood,ML Revis,L Wood,4,0,,,,,,"",""
+ball,1,16.2,Yorkshire,Shan Masood,ML Revis,L Wood,1,0,,,,,,"",""
+ball,1,16.3,Yorkshire,ML Revis,Shan Masood,L Wood,2,0,,,,,,"",""
+ball,1,16.4,Yorkshire,ML Revis,Shan Masood,L Wood,1,0,,,,,,"",""
+ball,1,16.5,Yorkshire,Shan Masood,ML Revis,L Wood,2,0,,,,,,"",""
+ball,1,16.6,Yorkshire,Shan Masood,ML Revis,L Wood,1,0,,,,,,"",""
+ball,1,17.1,Yorkshire,Shan Masood,ML Revis,C de Grandhomme,4,0,,,,,,"",""
+ball,1,17.2,Yorkshire,Shan Masood,ML Revis,C de Grandhomme,0,2,,,,2,,"",""
+ball,1,17.3,Yorkshire,Shan Masood,ML Revis,C de Grandhomme,0,0,,,,,,caught,Shan Masood
+ball,1,17.4,Yorkshire,JA Thompson,ML Revis,C de Grandhomme,0,0,,,,,,"",""
+ball,1,17.5,Yorkshire,JA Thompson,ML Revis,C de Grandhomme,6,0,,,,,,"",""
+ball,1,17.6,Yorkshire,JA Thompson,ML Revis,C de Grandhomme,1,0,,,,,,"",""
+ball,1,18.1,Yorkshire,JA Thompson,ML Revis,L Wood,0,0,,,,,,"",""
+ball,1,18.2,Yorkshire,JA Thompson,ML Revis,L Wood,1,0,,,,,,"",""
+ball,1,18.3,Yorkshire,ML Revis,JA Thompson,L Wood,1,0,,,,,,"",""
+ball,1,18.4,Yorkshire,JA Thompson,ML Revis,L Wood,6,0,,,,,,"",""
+ball,1,18.5,Yorkshire,JA Thompson,ML Revis,L Wood,0,2,,2,,,,"",""
+ball,1,18.6,Yorkshire,JA Thompson,ML Revis,L Wood,4,0,,,,,,"",""
+ball,1,18.7,Yorkshire,JA Thompson,ML Revis,L Wood,0,1,,,,1,,"",""
+ball,1,19.1,Yorkshire,JA Thompson,ML Revis,DJ Mitchell,0,0,,,,,,caught,JA Thompson
+ball,1,19.2,Yorkshire,D Wiese,ML Revis,DJ Mitchell,2,0,,,,,,"",""
+ball,1,19.3,Yorkshire,D Wiese,ML Revis,DJ Mitchell,0,0,,,,,,caught,D Wiese
+ball,1,19.4,Yorkshire,BWM Mike,ML Revis,DJ Mitchell,2,0,,,,,,"",""
+ball,1,19.5,Yorkshire,BWM Mike,ML Revis,DJ Mitchell,4,0,,,,,,"",""
+ball,1,19.6,Yorkshire,BWM Mike,ML Revis,DJ Mitchell,0,0,,,,,,"",""
+ball,2,0.1,Lancashire,PD Salt,JC Buttler,D Wiese,0,0,,,,,,"",""
+ball,2,0.2,Lancashire,PD Salt,JC Buttler,D Wiese,0,1,,,,1,,"",""
+ball,2,0.3,Lancashire,JC Buttler,PD Salt,D Wiese,1,0,,,,,,"",""
+ball,2,0.4,Lancashire,PD Salt,JC Buttler,D Wiese,2,0,,,,,,"",""
+ball,2,0.5,Lancashire,PD Salt,JC Buttler,D Wiese,0,0,,,,,,"",""
+ball,2,0.6,Lancashire,PD Salt,JC Buttler,D Wiese,0,0,,,,,,"",""
+ball,2,1.1,Lancashire,JC Buttler,PD Salt,DM Bess,0,0,,,,,,caught,JC Buttler
+ball,2,1.2,Lancashire,SJ Croft,PD Salt,DM Bess,4,0,,,,,,"",""
+ball,2,1.3,Lancashire,SJ Croft,PD Salt,DM Bess,1,0,,,,,,"",""
+ball,2,1.4,Lancashire,PD Salt,SJ Croft,DM Bess,0,0,,,,,,"",""
+ball,2,1.5,Lancashire,PD Salt,SJ Croft,DM Bess,1,0,,,,,,"",""
+ball,2,1.6,Lancashire,SJ Croft,PD Salt,DM Bess,0,0,,,,,,"",""
+ball,2,2.1,Lancashire,PD Salt,SJ Croft,D Wiese,4,0,,,,,,"",""
+ball,2,2.2,Lancashire,PD Salt,SJ Croft,D Wiese,1,0,,,,,,"",""
+ball,2,2.3,Lancashire,SJ Croft,PD Salt,D Wiese,6,0,,,,,,"",""
+ball,2,2.4,Lancashire,SJ Croft,PD Salt,D Wiese,0,0,,,,,,"",""
+ball,2,2.5,Lancashire,SJ Croft,PD Salt,D Wiese,6,0,,,,,,"",""
+ball,2,2.6,Lancashire,SJ Croft,PD Salt,D Wiese,0,0,,,,,,"",""
+ball,2,3.1,Lancashire,PD Salt,SJ Croft,BWM Mike,0,0,,,,,,"",""
+ball,2,3.2,Lancashire,PD Salt,SJ Croft,BWM Mike,4,0,,,,,,"",""
+ball,2,3.3,Lancashire,PD Salt,SJ Croft,BWM Mike,1,0,,,,,,"",""
+ball,2,3.4,Lancashire,SJ Croft,PD Salt,BWM Mike,0,0,,,,,,"",""
+ball,2,3.5,Lancashire,SJ Croft,PD Salt,BWM Mike,1,0,,,,,,"",""
+ball,2,3.6,Lancashire,PD Salt,SJ Croft,BWM Mike,0,0,,,,,,"",""
+ball,2,4.1,Lancashire,SJ Croft,PD Salt,JA Thompson,4,0,,,,,,"",""
+ball,2,4.2,Lancashire,SJ Croft,PD Salt,JA Thompson,0,0,,,,,,"",""
+ball,2,4.3,Lancashire,SJ Croft,PD Salt,JA Thompson,0,0,,,,,,caught,SJ Croft
+ball,2,4.4,Lancashire,LWP Wells,PD Salt,JA Thompson,4,0,,,,,,"",""
+ball,2,4.5,Lancashire,LWP Wells,PD Salt,JA Thompson,0,0,,,,,,"",""
+ball,2,4.6,Lancashire,LWP Wells,PD Salt,JA Thompson,4,0,,,,,,"",""
+ball,2,5.1,Lancashire,PD Salt,LWP Wells,ML Revis,1,0,,,,,,"",""
+ball,2,5.2,Lancashire,LWP Wells,PD Salt,ML Revis,6,0,,,,,,"",""
+ball,2,5.3,Lancashire,LWP Wells,PD Salt,ML Revis,6,0,,,,,,"",""
+ball,2,5.4,Lancashire,LWP Wells,PD Salt,ML Revis,0,0,,,,,,"",""
+ball,2,5.5,Lancashire,LWP Wells,PD Salt,ML Revis,1,0,,,,,,"",""
+ball,2,5.6,Lancashire,PD Salt,LWP Wells,ML Revis,1,0,,,,,,"",""
+ball,2,6.1,Lancashire,PD Salt,LWP Wells,BWM Mike,1,0,,,,,,"",""
+ball,2,6.2,Lancashire,LWP Wells,PD Salt,BWM Mike,0,0,,,,,,caught,LWP Wells
+ball,2,6.3,Lancashire,DJ Mitchell,PD Salt,BWM Mike,2,0,,,,,,"",""
+ball,2,6.4,Lancashire,DJ Mitchell,PD Salt,BWM Mike,1,0,,,,,,"",""
+ball,2,6.5,Lancashire,PD Salt,DJ Mitchell,BWM Mike,0,0,,,,,,caught and bowled,PD Salt
+ball,2,6.6,Lancashire,LS Livingstone,DJ Mitchell,BWM Mike,0,0,,,,,,"",""
+ball,2,7.1,Lancashire,DJ Mitchell,LS Livingstone,JA Chohan,1,0,,,,,,"",""
+ball,2,7.2,Lancashire,LS Livingstone,DJ Mitchell,JA Chohan,1,0,,,,,,"",""
+ball,2,7.3,Lancashire,DJ Mitchell,LS Livingstone,JA Chohan,6,0,,,,,,"",""
+ball,2,7.4,Lancashire,DJ Mitchell,LS Livingstone,JA Chohan,1,0,,,,,,"",""
+ball,2,7.5,Lancashire,LS Livingstone,DJ Mitchell,JA Chohan,0,0,,,,,,"",""
+ball,2,7.6,Lancashire,LS Livingstone,DJ Mitchell,JA Chohan,0,0,,,,,,"",""
+ball,2,8.1,Lancashire,DJ Mitchell,LS Livingstone,JA Thompson,1,0,,,,,,"",""
+ball,2,8.2,Lancashire,LS Livingstone,DJ Mitchell,JA Thompson,1,0,,,,,,"",""
+ball,2,8.3,Lancashire,DJ Mitchell,LS Livingstone,JA Thompson,0,0,,,,,,"",""
+ball,2,8.4,Lancashire,DJ Mitchell,LS Livingstone,JA Thompson,1,0,,,,,,"",""
+ball,2,8.5,Lancashire,LS Livingstone,DJ Mitchell,JA Thompson,1,0,,,,,,"",""
+ball,2,8.6,Lancashire,DJ Mitchell,LS Livingstone,JA Thompson,1,0,,,,,,"",""
+ball,2,9.1,Lancashire,DJ Mitchell,LS Livingstone,JA Chohan,0,0,,,,,,"",""
+ball,2,9.2,Lancashire,DJ Mitchell,LS Livingstone,JA Chohan,1,0,,,,,,"",""
+ball,2,9.3,Lancashire,LS Livingstone,DJ Mitchell,JA Chohan,4,0,,,,,,"",""
+ball,2,9.4,Lancashire,LS Livingstone,DJ Mitchell,JA Chohan,1,0,,,,,,"",""
+ball,2,9.5,Lancashire,DJ Mitchell,LS Livingstone,JA Chohan,1,0,,,,,,"",""
+ball,2,9.6,Lancashire,LS Livingstone,DJ Mitchell,JA Chohan,1,0,,,,,,"",""
+ball,2,10.1,Lancashire,LS Livingstone,DJ Mitchell,ML Revis,1,0,,,,,,"",""
+ball,2,10.2,Lancashire,DJ Mitchell,LS Livingstone,ML Revis,0,0,,,,,,"",""
+ball,2,10.3,Lancashire,DJ Mitchell,LS Livingstone,ML Revis,2,0,,,,,,"",""
+ball,2,10.4,Lancashire,DJ Mitchell,LS Livingstone,ML Revis,1,0,,,,,,"",""
+ball,2,10.5,Lancashire,LS Livingstone,DJ Mitchell,ML Revis,2,0,,,,,,"",""
+ball,2,10.6,Lancashire,LS Livingstone,DJ Mitchell,ML Revis,0,0,,,,,,"",""
+ball,2,11.1,Lancashire,DJ Mitchell,LS Livingstone,JA Chohan,1,0,,,,,,"",""
+ball,2,11.2,Lancashire,LS Livingstone,DJ Mitchell,JA Chohan,0,1,1,,,,,"",""
+ball,2,11.3,Lancashire,LS Livingstone,DJ Mitchell,JA Chohan,1,0,,,,,,"",""
+ball,2,11.4,Lancashire,DJ Mitchell,LS Livingstone,JA Chohan,1,0,,,,,,"",""
+ball,2,11.5,Lancashire,LS Livingstone,DJ Mitchell,JA Chohan,1,0,,,,,,"",""
+ball,2,11.6,Lancashire,DJ Mitchell,LS Livingstone,JA Chohan,0,0,,,,,,caught,DJ Mitchell
+ball,2,11.7,Lancashire,C de Grandhomme,LS Livingstone,JA Chohan,1,0,,,,,,"",""
+ball,2,12.1,Lancashire,C de Grandhomme,LS Livingstone,D Wiese,1,0,,,,,,"",""
+ball,2,12.2,Lancashire,LS Livingstone,C de Grandhomme,D Wiese,0,0,,,,,,"",""
+ball,2,12.3,Lancashire,LS Livingstone,C de Grandhomme,D Wiese,1,0,,,,,,"",""
+ball,2,12.4,Lancashire,C de Grandhomme,LS Livingstone,D Wiese,1,0,,,,,,"",""
+ball,2,12.5,Lancashire,LS Livingstone,C de Grandhomme,D Wiese,0,0,,,,,,caught,LS Livingstone
+ball,2,12.6,Lancashire,TW Hartley,C de Grandhomme,D Wiese,1,0,,,,,,"",""
+ball,2,13.1,Lancashire,TW Hartley,C de Grandhomme,DM Bess,1,0,,,,,,"",""
+ball,2,13.2,Lancashire,C de Grandhomme,TW Hartley,DM Bess,1,0,,,,,,"",""
+ball,2,13.3,Lancashire,TW Hartley,C de Grandhomme,DM Bess,4,0,,,,,,"",""
+ball,2,13.4,Lancashire,TW Hartley,C de Grandhomme,DM Bess,0,0,,,,,,"",""
+ball,2,13.5,Lancashire,TW Hartley,C de Grandhomme,DM Bess,6,0,,,,,,"",""
+ball,2,13.6,Lancashire,TW Hartley,C de Grandhomme,DM Bess,1,0,,,,,,"",""
+ball,2,14.1,Lancashire,TW Hartley,C de Grandhomme,BWM Mike,6,0,,,,,,"",""
+ball,2,14.2,Lancashire,TW Hartley,C de Grandhomme,BWM Mike,6,0,,,,,,"",""
+ball,2,14.3,Lancashire,TW Hartley,C de Grandhomme,BWM Mike,2,0,,,,,,"",""
+ball,2,14.4,Lancashire,TW Hartley,C de Grandhomme,BWM Mike,1,0,,,,,,"",""
+ball,2,14.5,Lancashire,C de Grandhomme,TW Hartley,BWM Mike,2,0,,,,,,"",""
+ball,2,14.6,Lancashire,C de Grandhomme,TW Hartley,BWM Mike,0,1,1,,,,,"",""
+ball,2,14.7,Lancashire,C de Grandhomme,TW Hartley,BWM Mike,0,1,1,,,,,"",""
+ball,2,14.8,Lancashire,C de Grandhomme,TW Hartley,BWM Mike,2,0,,,,,,"",""
+ball,2,15.1,Lancashire,TW Hartley,C de Grandhomme,JA Thompson,0,0,,,,,,"",""
+ball,2,15.2,Lancashire,TW Hartley,C de Grandhomme,JA Thompson,1,0,,,,,,"",""
+ball,2,15.3,Lancashire,C de Grandhomme,TW Hartley,JA Thompson,0,0,,,,,,"",""
+ball,2,15.4,Lancashire,C de Grandhomme,TW Hartley,JA Thompson,0,0,,,,,,"",""
+ball,2,15.5,Lancashire,C de Grandhomme,TW Hartley,JA Thompson,0,0,,,,,,"",""
+ball,2,15.6,Lancashire,C de Grandhomme,TW Hartley,JA Thompson,4,0,,,,,,"",""
+ball,2,16.1,Lancashire,TW Hartley,C de Grandhomme,ML Revis,6,0,,,,,,"",""
+ball,2,16.2,Lancashire,TW Hartley,C de Grandhomme,ML Revis,0,0,,,,,,"",""
+ball,2,16.3,Lancashire,TW Hartley,C de Grandhomme,ML Revis,0,0,,,,,,"",""
+ball,2,16.4,Lancashire,TW Hartley,C de Grandhomme,ML Revis,0,0,,,,,,"",""
+ball,2,16.5,Lancashire,TW Hartley,C de Grandhomme,ML Revis,1,0,,,,,,"",""
+ball,2,16.6,Lancashire,C de Grandhomme,TW Hartley,ML Revis,0,0,,,,,,"",""
+ball,2,17.1,Lancashire,TW Hartley,C de Grandhomme,D Wiese,1,0,,,,,,"",""
+ball,2,17.2,Lancashire,C de Grandhomme,TW Hartley,D Wiese,0,0,,,,,,caught,C de Grandhomme
+ball,2,17.3,Lancashire,L Wood,TW Hartley,D Wiese,1,0,,,,,,"",""
+ball,2,17.4,Lancashire,TW Hartley,L Wood,D Wiese,0,0,,,,,,"",""
+ball,2,17.5,Lancashire,TW Hartley,L Wood,D Wiese,0,1,1,,,,,"",""
+ball,2,17.6,Lancashire,TW Hartley,L Wood,D Wiese,1,0,,,,,,"",""
+ball,2,17.7,Lancashire,L Wood,TW Hartley,D Wiese,0,1,1,,,,,"",""
+ball,2,17.8,Lancashire,L Wood,TW Hartley,D Wiese,2,0,,,,,,"",""
+ball,2,18.1,Lancashire,TW Hartley,L Wood,ML Revis,1,0,,,,,,"",""
+ball,2,18.2,Lancashire,L Wood,TW Hartley,ML Revis,1,0,,,,,,run out,TW Hartley
+ball,2,18.3,Lancashire,L Wood,TE Bailey,ML Revis,2,0,,,,,,"",""
+ball,2,18.4,Lancashire,L Wood,TE Bailey,ML Revis,2,0,,,,,,"",""
+ball,2,18.5,Lancashire,L Wood,TE Bailey,ML Revis,1,0,,,,,,"",""
+ball,2,18.6,Lancashire,TE Bailey,L Wood,ML Revis,1,0,,,,,,"",""
+ball,2,19.1,Lancashire,TE Bailey,L Wood,JA Thompson,1,0,,,,,,"",""
+ball,2,19.2,Lancashire,L Wood,TE Bailey,JA Thompson,6,0,,,,,,"",""
+ball,2,19.3,Lancashire,L Wood,TE Bailey,JA Thompson,6,0,,,,,,"",""
+ball,2,19.4,Lancashire,L Wood,TE Bailey,JA Thompson,2,0,,,,,,"",""
+ball,2,19.5,Lancashire,L Wood,TE Bailey,JA Thompson,1,0,,,,,,"",""
+ball,2,19.6,Lancashire,TE Bailey,L Wood,JA Thompson,1,0,,,,,,"",""

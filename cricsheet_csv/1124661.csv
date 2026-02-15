@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Knights
+info,gender,male
+info,season,2017/18
+info,date,2017/11/15
+info,event,Ram Slam T20 Challenge
+info,match_number,4
+info,venue,"Diamond Oval, Kimberley"
+info,city,Kimberley
+info,toss_winner,Knights
+info,toss_decision,field
+info,player_of_match,JA Morkel
+info,player_of_match,F Behardien
+info,umpire,BM White
+info,umpire,PJ Vosloo
+info,reserve_umpire,MS Jansen
+info,tv_umpire,RN Hendricks
+info,match_referee,LH Matroos
+info,winner,Titans
+info,winner_runs,38
+info,player,Titans,Q de Kock
+info,player,Titans,H Davids
+info,player,Titans,AK Markram
+info,player,Titans,AB de Villiers
+info,player,Titans,F Behardien
+info,player,Titans,JA Morkel
+info,player,Titans,T Shamsi
+info,player,Titans,DW Steyn
+info,player,Titans,CJ Dala
+info,player,Titans,L Ngidi
+info,player,Titans,MP Siboto
+info,player,Knights,TG Mokoena
+info,player,Knights,PE Kruger
+info,player,Knights,TB de Bruyn
+info,player,Knights,DA Miller
+info,player,Knights,AGS Gous
+info,player,Knights,R McLaren
+info,player,Knights,AR Swanepoel
+info,player,Knights,M de Lange
+info,player,Knights,SC van Schalkwyk
+info,player,Knights,E Leie
+info,player,Knights,T Ntuli
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,BM White,66c21d35
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,E Leie,a7bc76a0
+info,registry,people,F Behardien,dce2019b
+info,registry,people,H Davids,9c9f8dbc
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,MS Jansen,4fbfa544
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R McLaren,c654af19
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,T Ntuli,8e6827f7
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,TG Mokoena,0827b38d
+ball,1,0.1,Titans,Q de Kock,H Davids,M de Lange,1,0,,,,,,"",""
+ball,1,0.2,Titans,H Davids,Q de Kock,M de Lange,2,0,,,,,,"",""
+ball,1,0.3,Titans,H Davids,Q de Kock,M de Lange,0,0,,,,,,"",""
+ball,1,0.4,Titans,H Davids,Q de Kock,M de Lange,4,0,,,,,,"",""
+ball,1,0.5,Titans,H Davids,Q de Kock,M de Lange,1,0,,,,,,"",""
+ball,1,0.6,Titans,Q de Kock,H Davids,M de Lange,1,0,,,,,,"",""
+ball,1,1.1,Titans,Q de Kock,H Davids,R McLaren,0,0,,,,,,"",""
+ball,1,1.2,Titans,Q de Kock,H Davids,R McLaren,1,0,,,,,,"",""
+ball,1,1.3,Titans,H Davids,Q de Kock,R McLaren,2,0,,,,,,"",""
+ball,1,1.4,Titans,H Davids,Q de Kock,R McLaren,0,0,,,,,,"",""
+ball,1,1.5,Titans,H Davids,Q de Kock,R McLaren,0,0,,,,,,"",""
+ball,1,1.6,Titans,H Davids,Q de Kock,R McLaren,2,0,,,,,,"",""
+ball,1,2.1,Titans,Q de Kock,H Davids,M de Lange,0,0,,,,,,"",""
+ball,1,2.2,Titans,Q de Kock,H Davids,M de Lange,0,0,,,,,,"",""
+ball,1,2.3,Titans,Q de Kock,H Davids,M de Lange,6,0,,,,,,"",""
+ball,1,2.4,Titans,Q de Kock,H Davids,M de Lange,0,0,,,,,,run out,Q de Kock
+ball,1,2.5,Titans,H Davids,AK Markram,M de Lange,1,0,,,,,,"",""
+ball,1,2.6,Titans,AK Markram,H Davids,M de Lange,1,0,,,,,,"",""
+ball,1,3.1,Titans,AK Markram,H Davids,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,3.2,Titans,AK Markram,H Davids,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,3.3,Titans,H Davids,AK Markram,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,3.4,Titans,H Davids,AK Markram,SC van Schalkwyk,6,0,,,,,,"",""
+ball,1,3.5,Titans,H Davids,AK Markram,SC van Schalkwyk,6,0,,,,,,"",""
+ball,1,3.6,Titans,H Davids,AK Markram,SC van Schalkwyk,0,1,,,,1,,"",""
+ball,1,4.1,Titans,H Davids,AK Markram,R McLaren,4,0,,,,,,"",""
+ball,1,4.2,Titans,H Davids,AK Markram,R McLaren,0,0,,,,,,"",""
+ball,1,4.3,Titans,H Davids,AK Markram,R McLaren,1,0,,,,,,"",""
+ball,1,4.4,Titans,AK Markram,H Davids,R McLaren,1,0,,,,,,"",""
+ball,1,4.5,Titans,H Davids,AK Markram,R McLaren,6,0,,,,,,"",""
+ball,1,4.6,Titans,H Davids,AK Markram,R McLaren,0,0,,,,,,"",""
+ball,1,5.1,Titans,AK Markram,H Davids,AR Swanepoel,1,0,,,,,,"",""
+ball,1,5.2,Titans,H Davids,AK Markram,AR Swanepoel,0,0,,,,,,"",""
+ball,1,5.3,Titans,H Davids,AK Markram,AR Swanepoel,0,0,,,,,,"",""
+ball,1,5.4,Titans,H Davids,AK Markram,AR Swanepoel,0,2,,,,2,,"",""
+ball,1,5.5,Titans,H Davids,AK Markram,AR Swanepoel,1,0,,,,,,"",""
+ball,1,5.6,Titans,AK Markram,H Davids,AR Swanepoel,1,0,,,,,,"",""
+ball,1,6.1,Titans,AK Markram,H Davids,E Leie,0,0,,,,,,"",""
+ball,1,6.2,Titans,AK Markram,H Davids,E Leie,4,0,,,,,,"",""
+ball,1,6.3,Titans,AK Markram,H Davids,E Leie,1,0,,,,,,"",""
+ball,1,6.4,Titans,H Davids,AK Markram,E Leie,2,0,,,,,,"",""
+ball,1,6.5,Titans,H Davids,AK Markram,E Leie,0,0,,,,,,"",""
+ball,1,6.6,Titans,H Davids,AK Markram,E Leie,0,0,,,,,,"",""
+ball,1,7.1,Titans,AK Markram,H Davids,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,7.2,Titans,AK Markram,H Davids,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,7.3,Titans,H Davids,AK Markram,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,7.4,Titans,AK Markram,H Davids,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,7.5,Titans,H Davids,AK Markram,SC van Schalkwyk,0,1,,,,1,,"",""
+ball,1,7.6,Titans,AK Markram,H Davids,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,8.1,Titans,H Davids,AK Markram,E Leie,0,0,,,,,,"",""
+ball,1,8.2,Titans,H Davids,AK Markram,E Leie,0,0,,,,,,"",""
+ball,1,8.3,Titans,H Davids,AK Markram,E Leie,1,0,,,,,,"",""
+ball,1,8.4,Titans,AK Markram,H Davids,E Leie,1,0,,,,,,"",""
+ball,1,8.5,Titans,H Davids,AK Markram,E Leie,1,0,,,,,,"",""
+ball,1,8.6,Titans,AK Markram,H Davids,E Leie,2,0,,,,,,"",""
+ball,1,9.1,Titans,H Davids,AK Markram,AR Swanepoel,1,0,,,,,,"",""
+ball,1,9.2,Titans,AK Markram,H Davids,AR Swanepoel,1,0,,,,,,"",""
+ball,1,9.3,Titans,H Davids,AK Markram,AR Swanepoel,1,0,,,,,,"",""
+ball,1,9.4,Titans,AK Markram,H Davids,AR Swanepoel,0,1,,,,1,,"",""
+ball,1,9.5,Titans,H Davids,AK Markram,AR Swanepoel,0,0,,,,,,"",""
+ball,1,9.6,Titans,H Davids,AK Markram,AR Swanepoel,1,0,,,,,,"",""
+ball,1,10.1,Titans,H Davids,AK Markram,T Ntuli,2,0,,,,,,"",""
+ball,1,10.2,Titans,H Davids,AK Markram,T Ntuli,2,0,,,,,,"",""
+ball,1,10.3,Titans,H Davids,AK Markram,T Ntuli,1,0,,,,,,"",""
+ball,1,10.4,Titans,AK Markram,H Davids,T Ntuli,1,0,,,,,,"",""
+ball,1,10.5,Titans,H Davids,AK Markram,T Ntuli,1,0,,,,,,"",""
+ball,1,10.6,Titans,AK Markram,H Davids,T Ntuli,4,0,,,,,,"",""
+ball,1,11.1,Titans,H Davids,AK Markram,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,11.2,Titans,H Davids,AK Markram,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,11.3,Titans,H Davids,AK Markram,SC van Schalkwyk,0,0,,,,,,caught,H Davids
+ball,1,11.4,Titans,AK Markram,AB de Villiers,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,11.5,Titans,AB de Villiers,AK Markram,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,11.6,Titans,AK Markram,AB de Villiers,SC van Schalkwyk,2,0,,,,,,"",""
+ball,1,12.1,Titans,AB de Villiers,AK Markram,E Leie,1,0,,,,,,"",""
+ball,1,12.2,Titans,AK Markram,AB de Villiers,E Leie,2,0,,,,,,"",""
+ball,1,12.3,Titans,AK Markram,AB de Villiers,E Leie,0,0,,,,,,"",""
+ball,1,12.4,Titans,AK Markram,AB de Villiers,E Leie,2,0,,,,,,"",""
+ball,1,12.5,Titans,AK Markram,AB de Villiers,E Leie,2,0,,,,,,"",""
+ball,1,12.6,Titans,AK Markram,AB de Villiers,E Leie,6,0,,,,,,"",""
+ball,1,13.1,Titans,AB de Villiers,AK Markram,R McLaren,6,0,,,,,,"",""
+ball,1,13.2,Titans,AB de Villiers,AK Markram,R McLaren,1,0,,,,,,"",""
+ball,1,13.3,Titans,AK Markram,AB de Villiers,R McLaren,2,0,,,,,,"",""
+ball,1,13.4,Titans,AK Markram,AB de Villiers,R McLaren,1,0,,,,,,"",""
+ball,1,13.5,Titans,AB de Villiers,AK Markram,R McLaren,1,0,,,,,,"",""
+ball,1,13.6,Titans,AK Markram,AB de Villiers,R McLaren,4,0,,,,,,"",""
+ball,1,14.1,Titans,AB de Villiers,AK Markram,E Leie,2,0,,,,,,"",""
+ball,1,14.2,Titans,AB de Villiers,AK Markram,E Leie,2,0,,,,,,"",""
+ball,1,14.3,Titans,AB de Villiers,AK Markram,E Leie,1,0,,,,,,"",""
+ball,1,14.4,Titans,AK Markram,AB de Villiers,E Leie,0,0,,,,,,"",""
+ball,1,14.5,Titans,AK Markram,AB de Villiers,E Leie,2,0,,,,,,"",""
+ball,1,14.6,Titans,AK Markram,AB de Villiers,E Leie,1,0,,,,,,"",""
+ball,1,15.1,Titans,AK Markram,AB de Villiers,AR Swanepoel,4,0,,,,,,"",""
+ball,1,15.2,Titans,AK Markram,AB de Villiers,AR Swanepoel,0,0,,,,,,caught,AK Markram
+ball,1,15.3,Titans,AB de Villiers,F Behardien,AR Swanepoel,1,0,,,,,,"",""
+ball,1,15.4,Titans,F Behardien,AB de Villiers,AR Swanepoel,1,0,,,,,,"",""
+ball,1,15.5,Titans,AB de Villiers,F Behardien,AR Swanepoel,2,0,,,,,,"",""
+ball,1,15.6,Titans,AB de Villiers,F Behardien,AR Swanepoel,1,0,,,,,,"",""
+ball,1,16.1,Titans,AB de Villiers,F Behardien,M de Lange,2,0,,,,,,"",""
+ball,1,16.2,Titans,AB de Villiers,F Behardien,M de Lange,0,0,,,,,,"",""
+ball,1,16.3,Titans,AB de Villiers,F Behardien,M de Lange,1,0,,,,,,"",""
+ball,1,16.4,Titans,F Behardien,AB de Villiers,M de Lange,2,0,,,,,,"",""
+ball,1,16.5,Titans,F Behardien,AB de Villiers,M de Lange,0,0,,,,,,"",""
+ball,1,16.6,Titans,F Behardien,AB de Villiers,M de Lange,4,0,,,,,,"",""
+ball,1,17.1,Titans,AB de Villiers,F Behardien,AR Swanepoel,6,0,,,,,,"",""
+ball,1,17.2,Titans,AB de Villiers,F Behardien,AR Swanepoel,1,0,,,,,,"",""
+ball,1,17.3,Titans,F Behardien,AB de Villiers,AR Swanepoel,6,0,,,,,,"",""
+ball,1,17.4,Titans,F Behardien,AB de Villiers,AR Swanepoel,1,0,,,,,,"",""
+ball,1,17.5,Titans,AB de Villiers,F Behardien,AR Swanepoel,4,0,,,,,,"",""
+ball,1,17.6,Titans,AB de Villiers,F Behardien,AR Swanepoel,4,0,,,,,,"",""
+ball,1,18.1,Titans,F Behardien,AB de Villiers,M de Lange,1,0,,,,,,"",""
+ball,1,18.2,Titans,AB de Villiers,F Behardien,M de Lange,6,0,,,,,,"",""
+ball,1,18.3,Titans,AB de Villiers,F Behardien,M de Lange,0,0,,,,,,caught,AB de Villiers
+ball,1,18.4,Titans,F Behardien,JA Morkel,M de Lange,0,2,,,,2,,"",""
+ball,1,18.5,Titans,F Behardien,JA Morkel,M de Lange,6,0,,,,,,"",""
+ball,1,18.6,Titans,F Behardien,JA Morkel,M de Lange,0,0,,,,,,"",""
+ball,1,19.1,Titans,JA Morkel,F Behardien,SC van Schalkwyk,2,0,,,,,,"",""
+ball,1,19.2,Titans,JA Morkel,F Behardien,SC van Schalkwyk,0,1,,,,1,,"",""
+ball,1,19.3,Titans,F Behardien,JA Morkel,SC van Schalkwyk,6,0,,,,,,"",""
+ball,1,19.4,Titans,F Behardien,JA Morkel,SC van Schalkwyk,4,0,,,,,,"",""
+ball,1,19.5,Titans,F Behardien,JA Morkel,SC van Schalkwyk,4,0,,,,,,"",""
+ball,1,19.6,Titans,F Behardien,JA Morkel,SC van Schalkwyk,2,0,,,,,,"",""
+ball,2,0.1,Knights,TG Mokoena,PE Kruger,JA Morkel,0,0,,,,,,"",""
+ball,2,0.2,Knights,TG Mokoena,PE Kruger,JA Morkel,2,0,,,,,,"",""
+ball,2,0.3,Knights,TG Mokoena,PE Kruger,JA Morkel,0,0,,,,,,"",""
+ball,2,0.4,Knights,TG Mokoena,PE Kruger,JA Morkel,0,0,,,,,,"",""
+ball,2,0.5,Knights,TG Mokoena,PE Kruger,JA Morkel,4,0,,,,,,"",""
+ball,2,0.6,Knights,TG Mokoena,PE Kruger,JA Morkel,0,0,,,,,,"",""
+ball,2,1.1,Knights,PE Kruger,TG Mokoena,DW Steyn,1,1,,1,,,,"",""
+ball,2,1.2,Knights,TG Mokoena,PE Kruger,DW Steyn,4,0,,,,,,"",""
+ball,2,1.3,Knights,TG Mokoena,PE Kruger,DW Steyn,4,0,,,,,,"",""
+ball,2,1.4,Knights,TG Mokoena,PE Kruger,DW Steyn,4,0,,,,,,"",""
+ball,2,1.5,Knights,TG Mokoena,PE Kruger,DW Steyn,0,0,,,,,,"",""
+ball,2,1.6,Knights,TG Mokoena,PE Kruger,DW Steyn,2,0,,,,,,"",""
+ball,2,1.7,Knights,TG Mokoena,PE Kruger,DW Steyn,1,0,,,,,,"",""
+ball,2,2.1,Knights,TG Mokoena,PE Kruger,JA Morkel,0,0,,,,,,lbw,TG Mokoena
+ball,2,2.2,Knights,TB de Bruyn,PE Kruger,JA Morkel,0,0,,,,,,"",""
+ball,2,2.3,Knights,TB de Bruyn,PE Kruger,JA Morkel,0,0,,,,,,"",""
+ball,2,2.4,Knights,TB de Bruyn,PE Kruger,JA Morkel,0,0,,,,,,"",""
+ball,2,2.5,Knights,TB de Bruyn,PE Kruger,JA Morkel,4,0,,,,,,"",""
+ball,2,2.6,Knights,TB de Bruyn,PE Kruger,JA Morkel,0,0,,,,,,"",""
+ball,2,3.1,Knights,PE Kruger,TB de Bruyn,L Ngidi,0,0,,,,,,"",""
+ball,2,3.2,Knights,PE Kruger,TB de Bruyn,L Ngidi,2,0,,,,,,"",""
+ball,2,3.3,Knights,PE Kruger,TB de Bruyn,L Ngidi,0,0,,,,,,"",""
+ball,2,3.4,Knights,PE Kruger,TB de Bruyn,L Ngidi,0,0,,,,,,"",""
+ball,2,3.5,Knights,PE Kruger,TB de Bruyn,L Ngidi,4,0,,,,,,"",""
+ball,2,3.6,Knights,PE Kruger,TB de Bruyn,L Ngidi,0,0,,,,,,"",""
+ball,2,4.1,Knights,TB de Bruyn,PE Kruger,CJ Dala,2,0,,,,,,"",""
+ball,2,4.2,Knights,TB de Bruyn,PE Kruger,CJ Dala,0,0,,,,,,"",""
+ball,2,4.3,Knights,TB de Bruyn,PE Kruger,CJ Dala,1,0,,,,,,"",""
+ball,2,4.4,Knights,PE Kruger,TB de Bruyn,CJ Dala,1,0,,,,,,"",""
+ball,2,4.5,Knights,TB de Bruyn,PE Kruger,CJ Dala,1,0,,,,,,"",""
+ball,2,4.6,Knights,PE Kruger,TB de Bruyn,CJ Dala,0,0,,,,,,"",""
+ball,2,5.1,Knights,TB de Bruyn,PE Kruger,MP Siboto,4,0,,,,,,"",""
+ball,2,5.2,Knights,TB de Bruyn,PE Kruger,MP Siboto,2,0,,,,,,"",""
+ball,2,5.3,Knights,TB de Bruyn,PE Kruger,MP Siboto,0,0,,,,,,"",""
+ball,2,5.4,Knights,TB de Bruyn,PE Kruger,MP Siboto,1,0,,,,,,"",""
+ball,2,5.5,Knights,PE Kruger,TB de Bruyn,MP Siboto,1,0,,,,,,"",""
+ball,2,5.6,Knights,TB de Bruyn,PE Kruger,MP Siboto,0,0,,,,,,"",""
+ball,2,6.1,Knights,PE Kruger,TB de Bruyn,CJ Dala,0,0,,,,,,"",""
+ball,2,6.2,Knights,PE Kruger,TB de Bruyn,CJ Dala,0,0,,,,,,bowled,PE Kruger
+ball,2,6.3,Knights,DA Miller,TB de Bruyn,CJ Dala,1,0,,,,,,"",""
+ball,2,6.4,Knights,TB de Bruyn,DA Miller,CJ Dala,2,0,,,,,,"",""
+ball,2,6.5,Knights,TB de Bruyn,DA Miller,CJ Dala,1,0,,,,,,"",""
+ball,2,6.6,Knights,DA Miller,TB de Bruyn,CJ Dala,4,0,,,,,,"",""
+ball,2,7.1,Knights,TB de Bruyn,DA Miller,T Shamsi,2,0,,,,,,"",""
+ball,2,7.2,Knights,TB de Bruyn,DA Miller,T Shamsi,0,0,,,,,,"",""
+ball,2,7.3,Knights,TB de Bruyn,DA Miller,T Shamsi,0,0,,,,,,"",""
+ball,2,7.4,Knights,TB de Bruyn,DA Miller,T Shamsi,1,0,,,,,,"",""
+ball,2,7.5,Knights,DA Miller,TB de Bruyn,T Shamsi,1,0,,,,,,"",""
+ball,2,7.6,Knights,TB de Bruyn,DA Miller,T Shamsi,1,0,,,,,,"",""
+ball,2,8.1,Knights,TB de Bruyn,DA Miller,DW Steyn,0,0,,,,,,caught,TB de Bruyn
+ball,2,8.2,Knights,AGS Gous,DA Miller,DW Steyn,0,0,,,,,,"",""
+ball,2,8.3,Knights,AGS Gous,DA Miller,DW Steyn,1,0,,,,,,"",""
+ball,2,8.4,Knights,DA Miller,AGS Gous,DW Steyn,0,0,,,,,,"",""
+ball,2,8.5,Knights,DA Miller,AGS Gous,DW Steyn,1,0,,,,,,"",""
+ball,2,8.6,Knights,AGS Gous,DA Miller,DW Steyn,1,0,,,,,,"",""
+ball,2,9.1,Knights,AGS Gous,DA Miller,T Shamsi,1,0,,,,,,"",""
+ball,2,9.2,Knights,DA Miller,AGS Gous,T Shamsi,1,0,,,,,,"",""
+ball,2,9.3,Knights,AGS Gous,DA Miller,T Shamsi,1,0,,,,,,"",""
+ball,2,9.4,Knights,DA Miller,AGS Gous,T Shamsi,0,0,,,,,,caught,DA Miller
+ball,2,9.5,Knights,R McLaren,AGS Gous,T Shamsi,1,0,,,,,,"",""
+ball,2,9.6,Knights,AGS Gous,R McLaren,T Shamsi,1,0,,,,,,"",""
+ball,2,10.1,Knights,AGS Gous,R McLaren,DW Steyn,0,1,1,,,,,"",""
+ball,2,10.2,Knights,AGS Gous,R McLaren,DW Steyn,0,0,,,,,,"",""
+ball,2,10.3,Knights,AGS Gous,R McLaren,DW Steyn,1,0,,,,,,"",""
+ball,2,10.4,Knights,R McLaren,AGS Gous,DW Steyn,1,0,,,,,,"",""
+ball,2,10.5,Knights,AGS Gous,R McLaren,DW Steyn,1,0,,,,,,"",""
+ball,2,10.6,Knights,R McLaren,AGS Gous,DW Steyn,1,0,,,,,,"",""
+ball,2,10.7,Knights,AGS Gous,R McLaren,DW Steyn,0,0,,,,,,"",""
+ball,2,11.1,Knights,R McLaren,AGS Gous,T Shamsi,0,0,,,,,,"",""
+ball,2,11.2,Knights,R McLaren,AGS Gous,T Shamsi,4,0,,,,,,"",""
+ball,2,11.3,Knights,R McLaren,AGS Gous,T Shamsi,1,0,,,,,,"",""
+ball,2,11.4,Knights,AGS Gous,R McLaren,T Shamsi,2,0,,,,,,"",""
+ball,2,11.5,Knights,AGS Gous,R McLaren,T Shamsi,1,0,,,,,,"",""
+ball,2,11.6,Knights,R McLaren,AGS Gous,T Shamsi,2,0,,,,,,"",""
+ball,2,12.1,Knights,AGS Gous,R McLaren,L Ngidi,4,0,,,,,,"",""
+ball,2,12.2,Knights,AGS Gous,R McLaren,L Ngidi,0,0,,,,,,"",""
+ball,2,12.3,Knights,AGS Gous,R McLaren,L Ngidi,6,0,,,,,,"",""
+ball,2,12.4,Knights,AGS Gous,R McLaren,L Ngidi,1,0,,,,,,"",""
+ball,2,12.5,Knights,R McLaren,AGS Gous,L Ngidi,0,0,,,,,,"",""
+ball,2,12.6,Knights,R McLaren,AGS Gous,L Ngidi,1,0,,,,,,"",""
+ball,2,13.1,Knights,R McLaren,AGS Gous,T Shamsi,0,0,,,,,,"",""
+ball,2,13.2,Knights,R McLaren,AGS Gous,T Shamsi,0,0,,,,,,caught,R McLaren
+ball,2,13.3,Knights,AGS Gous,AR Swanepoel,T Shamsi,1,0,,,,,,"",""
+ball,2,13.4,Knights,AR Swanepoel,AGS Gous,T Shamsi,2,0,,,,,,"",""
+ball,2,13.5,Knights,AR Swanepoel,AGS Gous,T Shamsi,0,1,1,,,,,"",""
+ball,2,13.6,Knights,AR Swanepoel,AGS Gous,T Shamsi,4,0,,,,,,"",""
+ball,2,13.7,Knights,AR Swanepoel,AGS Gous,T Shamsi,2,0,,,,,,"",""
+ball,2,14.1,Knights,AGS Gous,AR Swanepoel,L Ngidi,0,0,,,,,,"",""
+ball,2,14.2,Knights,AGS Gous,AR Swanepoel,L Ngidi,1,0,,,,,,"",""
+ball,2,14.3,Knights,AR Swanepoel,AGS Gous,L Ngidi,1,0,,,,,,"",""
+ball,2,14.4,Knights,AGS Gous,AR Swanepoel,L Ngidi,0,0,,,,,,"",""
+ball,2,14.5,Knights,AGS Gous,AR Swanepoel,L Ngidi,1,0,,,,,,"",""
+ball,2,14.6,Knights,AR Swanepoel,AGS Gous,L Ngidi,0,0,,,,,,"",""
+ball,2,15.1,Knights,AGS Gous,AR Swanepoel,MP Siboto,2,0,,,,,,"",""
+ball,2,15.2,Knights,AGS Gous,AR Swanepoel,MP Siboto,1,0,,,,,,"",""
+ball,2,15.3,Knights,AR Swanepoel,AGS Gous,MP Siboto,0,0,,,,,,"",""
+ball,2,15.4,Knights,AR Swanepoel,AGS Gous,MP Siboto,2,0,,,,,,"",""
+ball,2,15.5,Knights,AR Swanepoel,AGS Gous,MP Siboto,2,0,,,,,,"",""
+ball,2,15.6,Knights,AR Swanepoel,AGS Gous,MP Siboto,1,0,,,,,,"",""
+ball,2,16.1,Knights,AR Swanepoel,AGS Gous,CJ Dala,0,4,,,4,,,"",""
+ball,2,16.2,Knights,AR Swanepoel,AGS Gous,CJ Dala,0,0,,,,,,"",""
+ball,2,16.3,Knights,AR Swanepoel,AGS Gous,CJ Dala,1,0,,,,,,"",""
+ball,2,16.4,Knights,AGS Gous,AR Swanepoel,CJ Dala,1,0,,,,,,"",""
+ball,2,16.5,Knights,AR Swanepoel,AGS Gous,CJ Dala,0,0,,,,,,"",""
+ball,2,16.6,Knights,AR Swanepoel,AGS Gous,CJ Dala,1,0,,,,,,"",""
+ball,2,17.1,Knights,AR Swanepoel,AGS Gous,MP Siboto,0,0,,,,,,caught,AR Swanepoel
+ball,2,17.2,Knights,AGS Gous,M de Lange,MP Siboto,0,0,,,,,,"",""
+ball,2,17.3,Knights,AGS Gous,M de Lange,MP Siboto,1,0,,,,,,"",""
+ball,2,17.4,Knights,M de Lange,AGS Gous,MP Siboto,2,0,,,,,,"",""
+ball,2,17.5,Knights,M de Lange,AGS Gous,MP Siboto,1,0,,,,,,"",""
+ball,2,17.6,Knights,AGS Gous,M de Lange,MP Siboto,4,0,,,,,,"",""
+ball,2,18.1,Knights,M de Lange,AGS Gous,CJ Dala,2,0,,,,,,"",""
+ball,2,18.2,Knights,M de Lange,AGS Gous,CJ Dala,4,0,,,,,,"",""
+ball,2,18.3,Knights,M de Lange,AGS Gous,CJ Dala,6,0,,,,,,"",""
+ball,2,18.4,Knights,M de Lange,AGS Gous,CJ Dala,0,0,,,,,,"",""
+ball,2,18.5,Knights,M de Lange,AGS Gous,CJ Dala,1,0,,,,,,"",""
+ball,2,18.6,Knights,AGS Gous,M de Lange,CJ Dala,4,0,,,,,,"",""
+ball,2,19.1,Knights,M de Lange,AGS Gous,MP Siboto,1,0,,,,,,"",""
+ball,2,19.2,Knights,AGS Gous,M de Lange,MP Siboto,0,0,,,,,,caught,AGS Gous
+ball,2,19.3,Knights,M de Lange,SC van Schalkwyk,MP Siboto,0,1,1,,,,,"",""
+ball,2,19.4,Knights,M de Lange,SC van Schalkwyk,MP Siboto,2,0,,,,,,"",""
+ball,2,19.5,Knights,M de Lange,SC van Schalkwyk,MP Siboto,4,0,,,,,,"",""
+ball,2,19.6,Knights,M de Lange,SC van Schalkwyk,MP Siboto,0,1,1,,,,,"",""
+ball,2,19.7,Knights,M de Lange,SC van Schalkwyk,MP Siboto,0,1,1,,,,,"",""
+ball,2,19.8,Knights,M de Lange,SC van Schalkwyk,MP Siboto,4,0,,,,,,"",""
+ball,2,19.9,Knights,M de Lange,SC van Schalkwyk,MP Siboto,0,0,,,,,,"",""

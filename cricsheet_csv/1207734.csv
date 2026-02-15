@@ -1,0 +1,200 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Surrey
+info,gender,male
+info,season,2020
+info,date,2020/09/03
+info,event,Vitality Blast
+info,venue,Kennington Oval
+info,city,London
+info,toss_winner,Surrey
+info,toss_decision,field
+info,player_of_match,WG Jacks
+info,umpire,BJ Debenham
+info,umpire,NJ Llong
+info,match_referee,AJ Swann
+info,winner,Surrey
+info,winner_wickets,9
+info,player,Hampshire,FS Organ
+info,player,Hampshire,TP Alsop
+info,player,Hampshire,SA Northeast
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,LD McManus
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,IG Holland
+info,player,Hampshire,CP Wood
+info,player,Hampshire,RA Stevenson
+info,player,Hampshire,Shaheen Shah Afridi
+info,player,Hampshire,MS Crane
+info,player,Surrey,HM Amla
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,BT Foakes
+info,player,Surrey,RJ Burns
+info,player,Surrey,JL Smith
+info,player,Surrey,J Overton
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,GJ Batty
+info,player,Surrey,D Moriarty
+info,player,Surrey,RJW Topley
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,BT Foakes,fd770945
+info,registry,people,CP Wood,1cfac535
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,FS Organ,819ae1ad
+info,registry,people,GJ Batty,5ac8f17b
+info,registry,people,HM Amla,e798611a
+info,registry,people,IG Holland,4167f30b
+info,registry,people,J Overton,59559bc2
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JL Smith,c834c290
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,NJ Llong,573fb985
+info,registry,people,RA Stevenson,978bd738
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Hampshire,FS Organ,TP Alsop,RJW Topley,0,1,,,,1,,"",""
+ball,1,0.2,Hampshire,TP Alsop,FS Organ,RJW Topley,1,0,,,,,,"",""
+ball,1,0.3,Hampshire,FS Organ,TP Alsop,RJW Topley,2,0,,,,,,"",""
+ball,1,0.4,Hampshire,FS Organ,TP Alsop,RJW Topley,0,0,,,,,,"",""
+ball,1,0.5,Hampshire,FS Organ,TP Alsop,RJW Topley,1,0,,,,,,"",""
+ball,1,0.6,Hampshire,TP Alsop,FS Organ,RJW Topley,0,0,,,,,,"",""
+ball,1,1.1,Hampshire,FS Organ,TP Alsop,WG Jacks,0,3,3,,,,,"",""
+ball,1,1.2,Hampshire,FS Organ,TP Alsop,WG Jacks,0,0,,,,,,"",""
+ball,1,1.3,Hampshire,FS Organ,TP Alsop,WG Jacks,2,0,,,,,,"",""
+ball,1,1.4,Hampshire,FS Organ,TP Alsop,WG Jacks,1,0,,,,,,"",""
+ball,1,1.5,Hampshire,TP Alsop,FS Organ,WG Jacks,0,0,,,,,,stumped,TP Alsop
+ball,1,1.6,Hampshire,SA Northeast,FS Organ,WG Jacks,2,0,,,,,,"",""
+ball,1,1.7,Hampshire,SA Northeast,FS Organ,WG Jacks,0,1,1,,,,,"",""
+ball,1,1.8,Hampshire,SA Northeast,FS Organ,WG Jacks,1,0,,,,,,"",""
+ball,1,2.1,Hampshire,SA Northeast,FS Organ,RJW Topley,0,0,,,,,,"",""
+ball,1,2.2,Hampshire,SA Northeast,FS Organ,RJW Topley,2,0,,,,,,"",""
+ball,1,2.3,Hampshire,SA Northeast,FS Organ,RJW Topley,0,2,,2,,,,"",""
+ball,1,2.4,Hampshire,SA Northeast,FS Organ,RJW Topley,0,0,,,,,,"",""
+ball,1,2.5,Hampshire,SA Northeast,FS Organ,RJW Topley,0,0,,,,,,"",""
+ball,1,2.6,Hampshire,SA Northeast,FS Organ,RJW Topley,1,0,,,,,,"",""
+ball,1,2.7,Hampshire,FS Organ,SA Northeast,RJW Topley,1,0,,,,,,"",""
+ball,1,3.1,Hampshire,FS Organ,SA Northeast,D Moriarty,1,0,,,,,,"",""
+ball,1,3.2,Hampshire,SA Northeast,FS Organ,D Moriarty,0,0,,,,,,"",""
+ball,1,3.3,Hampshire,SA Northeast,FS Organ,D Moriarty,1,0,,,,,,"",""
+ball,1,3.4,Hampshire,FS Organ,SA Northeast,D Moriarty,1,0,,,,,,"",""
+ball,1,3.5,Hampshire,SA Northeast,FS Organ,D Moriarty,1,0,,,,,,"",""
+ball,1,3.6,Hampshire,FS Organ,SA Northeast,D Moriarty,0,0,,,,,,bowled,FS Organ
+ball,1,4.1,Hampshire,SA Northeast,JJ Weatherley,GJ Batty,1,0,,,,,,"",""
+ball,1,4.2,Hampshire,JJ Weatherley,SA Northeast,GJ Batty,0,1,,,,1,,"",""
+ball,1,4.3,Hampshire,SA Northeast,JJ Weatherley,GJ Batty,1,0,,,,,,"",""
+ball,1,4.4,Hampshire,JJ Weatherley,SA Northeast,GJ Batty,0,0,,,,,,"",""
+ball,1,4.5,Hampshire,JJ Weatherley,SA Northeast,GJ Batty,2,0,,,,,,"",""
+ball,1,4.6,Hampshire,JJ Weatherley,SA Northeast,GJ Batty,4,0,,,,,,"",""
+ball,1,5.1,Hampshire,SA Northeast,JJ Weatherley,D Moriarty,0,0,,,,,,"",""
+ball,1,5.2,Hampshire,SA Northeast,JJ Weatherley,D Moriarty,1,0,,,,,,"",""
+ball,1,5.3,Hampshire,JJ Weatherley,SA Northeast,D Moriarty,2,0,,,,,,"",""
+ball,1,5.4,Hampshire,JJ Weatherley,SA Northeast,D Moriarty,0,0,,,,,,"",""
+ball,1,5.5,Hampshire,JJ Weatherley,SA Northeast,D Moriarty,0,0,,,,,,caught,JJ Weatherley
+ball,1,5.6,Hampshire,SA Northeast,LD McManus,D Moriarty,0,0,,,,,,"",""
+ball,1,6.1,Hampshire,LD McManus,SA Northeast,GJ Batty,0,0,,,,,,"",""
+ball,1,6.2,Hampshire,LD McManus,SA Northeast,GJ Batty,1,0,,,,,,"",""
+ball,1,6.3,Hampshire,SA Northeast,LD McManus,GJ Batty,1,0,,,,,,"",""
+ball,1,6.4,Hampshire,LD McManus,SA Northeast,GJ Batty,1,0,,,,,,"",""
+ball,1,6.5,Hampshire,SA Northeast,LD McManus,GJ Batty,1,0,,,,,,"",""
+ball,1,6.6,Hampshire,LD McManus,SA Northeast,GJ Batty,0,0,,,,,,caught,LD McManus
+ball,1,7.1,Hampshire,SA Northeast,JK Fuller,D Moriarty,0,0,,,,,,"",""
+ball,1,7.2,Hampshire,SA Northeast,JK Fuller,D Moriarty,1,0,,,,,,"",""
+ball,1,7.3,Hampshire,JK Fuller,SA Northeast,D Moriarty,2,0,,,,,,"",""
+ball,1,7.4,Hampshire,JK Fuller,SA Northeast,D Moriarty,0,0,,,,,,"",""
+ball,1,7.5,Hampshire,JK Fuller,SA Northeast,D Moriarty,1,0,,,,,,"",""
+ball,1,7.6,Hampshire,SA Northeast,JK Fuller,D Moriarty,1,0,,,,,,"",""
+ball,1,8.1,Hampshire,SA Northeast,JK Fuller,AAP Atkinson,2,0,,,,,,"",""
+ball,1,8.2,Hampshire,SA Northeast,JK Fuller,AAP Atkinson,1,0,,,,,,"",""
+ball,1,8.3,Hampshire,JK Fuller,SA Northeast,AAP Atkinson,1,0,,,,,,"",""
+ball,1,8.4,Hampshire,SA Northeast,JK Fuller,AAP Atkinson,1,0,,,,,,"",""
+ball,1,8.5,Hampshire,JK Fuller,SA Northeast,AAP Atkinson,4,0,,,,,,"",""
+ball,1,8.6,Hampshire,JK Fuller,SA Northeast,AAP Atkinson,0,0,,,,,,"",""
+ball,1,9.1,Hampshire,SA Northeast,JK Fuller,J Overton,2,0,,,,,,"",""
+ball,1,9.2,Hampshire,SA Northeast,JK Fuller,J Overton,4,0,,,,,,"",""
+ball,1,9.3,Hampshire,SA Northeast,JK Fuller,J Overton,4,0,,,,,,"",""
+ball,1,9.4,Hampshire,SA Northeast,JK Fuller,J Overton,0,0,,,,,,"",""
+ball,1,9.5,Hampshire,SA Northeast,JK Fuller,J Overton,0,0,,,,,,"",""
+ball,1,9.6,Hampshire,SA Northeast,JK Fuller,J Overton,2,0,,,,,,"",""
+ball,1,10.1,Hampshire,JK Fuller,SA Northeast,AAP Atkinson,1,0,,,,,,"",""
+ball,1,10.2,Hampshire,SA Northeast,JK Fuller,AAP Atkinson,0,0,,,,,,caught,SA Northeast
+ball,1,10.3,Hampshire,IG Holland,JK Fuller,AAP Atkinson,1,0,,,,,,"",""
+ball,1,10.4,Hampshire,JK Fuller,IG Holland,AAP Atkinson,6,0,,,,,,"",""
+ball,1,10.5,Hampshire,JK Fuller,IG Holland,AAP Atkinson,0,0,,,,,,"",""
+ball,1,10.6,Hampshire,JK Fuller,IG Holland,AAP Atkinson,2,0,,,,,,"",""
+ball,2,0.1,Surrey,HM Amla,WG Jacks,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.2,Surrey,HM Amla,WG Jacks,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,0.3,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,0.4,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.5,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,0.6,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,0,1,1,,,,,"",""
+ball,2,0.7,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,1.1,Surrey,WG Jacks,HM Amla,CP Wood,2,0,,,,,,"",""
+ball,2,1.2,Surrey,WG Jacks,HM Amla,CP Wood,1,0,,,,,,"",""
+ball,2,1.3,Surrey,HM Amla,WG Jacks,CP Wood,1,0,,,,,,"",""
+ball,2,1.4,Surrey,WG Jacks,HM Amla,CP Wood,0,0,,,,,,"",""
+ball,2,1.5,Surrey,WG Jacks,HM Amla,CP Wood,1,0,,,,,,"",""
+ball,2,1.6,Surrey,HM Amla,WG Jacks,CP Wood,1,0,,,,,,"",""
+ball,2,2.1,Surrey,HM Amla,WG Jacks,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,2.2,Surrey,HM Amla,WG Jacks,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,2.3,Surrey,HM Amla,WG Jacks,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,2.4,Surrey,HM Amla,WG Jacks,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,2,2.5,Surrey,HM Amla,WG Jacks,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,2.6,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,3.1,Surrey,HM Amla,WG Jacks,IG Holland,1,0,,,,,,"",""
+ball,2,3.2,Surrey,WG Jacks,HM Amla,IG Holland,1,0,,,,,,"",""
+ball,2,3.3,Surrey,HM Amla,WG Jacks,IG Holland,1,0,,,,,,"",""
+ball,2,3.4,Surrey,WG Jacks,HM Amla,IG Holland,1,0,,,,,,"",""
+ball,2,3.5,Surrey,HM Amla,WG Jacks,IG Holland,2,0,,,,,,"",""
+ball,2,3.6,Surrey,HM Amla,WG Jacks,IG Holland,0,0,,,,,,"",""
+ball,2,4.1,Surrey,WG Jacks,HM Amla,MS Crane,4,0,,,,,,"",""
+ball,2,4.2,Surrey,WG Jacks,HM Amla,MS Crane,1,0,,,,,,"",""
+ball,2,4.3,Surrey,HM Amla,WG Jacks,MS Crane,1,0,,,,,,"",""
+ball,2,4.4,Surrey,WG Jacks,HM Amla,MS Crane,1,0,,,,,,"",""
+ball,2,4.5,Surrey,HM Amla,WG Jacks,MS Crane,0,0,,,,,,"",""
+ball,2,4.6,Surrey,HM Amla,WG Jacks,MS Crane,4,0,,,,,,"",""
+ball,2,5.1,Surrey,WG Jacks,HM Amla,IG Holland,1,0,,,,,,"",""
+ball,2,5.2,Surrey,HM Amla,WG Jacks,IG Holland,0,0,,,,,,"",""
+ball,2,5.3,Surrey,HM Amla,WG Jacks,IG Holland,1,0,,,,,,"",""
+ball,2,5.4,Surrey,WG Jacks,HM Amla,IG Holland,1,0,,,,,,"",""
+ball,2,5.5,Surrey,HM Amla,WG Jacks,IG Holland,1,0,,,,,,"",""
+ball,2,5.6,Surrey,WG Jacks,HM Amla,IG Holland,0,0,,,,,,"",""
+ball,2,6.1,Surrey,HM Amla,WG Jacks,FS Organ,0,1,1,,,,,"",""
+ball,2,6.2,Surrey,HM Amla,WG Jacks,FS Organ,1,0,,,,,,"",""
+ball,2,6.3,Surrey,WG Jacks,HM Amla,FS Organ,1,0,,,,,,"",""
+ball,2,6.4,Surrey,HM Amla,WG Jacks,FS Organ,1,0,,,,,,"",""
+ball,2,6.5,Surrey,WG Jacks,HM Amla,FS Organ,1,0,,,,,,"",""
+ball,2,6.6,Surrey,HM Amla,WG Jacks,FS Organ,2,0,,,,,,"",""
+ball,2,6.7,Surrey,HM Amla,WG Jacks,FS Organ,0,0,,,,,,"",""
+ball,2,7.1,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,2,0,,,,,,"",""
+ball,2,7.2,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,7.3,Surrey,HM Amla,WG Jacks,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,7.4,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,2,7.5,Surrey,WG Jacks,HM Amla,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,7.6,Surrey,HM Amla,WG Jacks,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,2,8.1,Surrey,HM Amla,WG Jacks,MS Crane,0,0,,,,,,"",""
+ball,2,8.2,Surrey,HM Amla,WG Jacks,MS Crane,0,0,,,,,,caught,HM Amla
+ball,2,8.3,Surrey,LJ Evans,WG Jacks,MS Crane,0,0,,,,,,"",""
+ball,2,8.4,Surrey,LJ Evans,WG Jacks,MS Crane,1,0,,,,,,"",""
+ball,2,8.5,Surrey,WG Jacks,LJ Evans,MS Crane,1,0,,,,,,"",""
+ball,2,8.6,Surrey,LJ Evans,WG Jacks,MS Crane,0,1,,,1,,,"",""
+ball,2,9.1,Surrey,LJ Evans,WG Jacks,CP Wood,1,0,,,,,,"",""
+ball,2,9.2,Surrey,WG Jacks,LJ Evans,CP Wood,0,0,,,,,,"",""
+ball,2,9.3,Surrey,WG Jacks,LJ Evans,CP Wood,1,0,,,,,,"",""
+ball,2,9.4,Surrey,LJ Evans,WG Jacks,CP Wood,1,0,,,,,,"",""
+ball,2,9.5,Surrey,WG Jacks,LJ Evans,CP Wood,2,0,,,,,,"",""
+ball,2,9.6,Surrey,WG Jacks,LJ Evans,CP Wood,2,0,,,,,,"",""
+ball,2,10.1,Surrey,LJ Evans,WG Jacks,RA Stevenson,1,0,,,,,,"",""
+ball,2,10.2,Surrey,WG Jacks,LJ Evans,RA Stevenson,0,0,,,,,,"",""
+ball,2,10.3,Surrey,WG Jacks,LJ Evans,RA Stevenson,2,0,,,,,,"",""
+ball,2,10.4,Surrey,WG Jacks,LJ Evans,RA Stevenson,4,0,,,,,,"",""

@@ -1,0 +1,213 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Otago
+info,gender,female
+info,season,2025/26
+info,date,2026/01/15
+info,event,Women's Super Smash
+info,match_number,20
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,Wellington
+info,toss_decision,bat
+info,umpire,GG Pennell
+info,umpire,Kim Cotton
+info,reserve_umpire,KS Jagannathan
+info,tv_umpire,T Semmens
+info,match_referee,TL Anderson
+info,outcome,no result
+info,player,Wellington,GE Plimmer
+info,player,Wellington,RM Burns
+info,player,Wellington,HC Francis
+info,player,Wellington,JM Kerr
+info,player,Wellington,XA Jetly
+info,player,Wellington,JT McFadyen
+info,player,Wellington,S Mackinder
+info,player,Wellington,JA Simmons
+info,player,Wellington,N Baird
+info,player,Wellington,INC McKenzie
+info,player,Wellington,RJ Bryant
+info,player,Otago,FC Leydon-Davis
+info,player,Otago,IR James
+info,player,Otago,CG Blakely
+info,player,Otago,L Harris
+info,player,Otago,PM Inglis
+info,player,Otago,AS Browning
+info,player,Otago,PJ Watkins
+info,player,Otago,E Gray
+info,player,Otago,EJ Black
+info,player,Otago,CM Deerness
+info,player,Otago,LM Kotkamp
+info,registry,people,AS Browning,c4c97b51
+info,registry,people,CG Blakely,8f999ed5
+info,registry,people,CM Deerness,bb1343ed
+info,registry,people,E Gray,58717de2
+info,registry,people,EJ Black,2817e17a
+info,registry,people,FC Leydon-Davis,b91efad5
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GG Pennell,d9376677
+info,registry,people,HC Francis,d767e864
+info,registry,people,INC McKenzie,a36d1129
+info,registry,people,IR James,57bdbc16
+info,registry,people,JA Simmons,33360da1
+info,registry,people,JM Kerr,9af58032
+info,registry,people,JT McFadyen,7072542f
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Harris,36e2dc83
+info,registry,people,LM Kotkamp,72a33c58
+info,registry,people,N Baird,c0380823
+info,registry,people,PJ Watkins,a2d53c59
+info,registry,people,PM Inglis,e4a71d18
+info,registry,people,RJ Bryant,381c4931
+info,registry,people,RM Burns,94fe4708
+info,registry,people,S Mackinder,f66a657d
+info,registry,people,T Semmens,3b471aa4
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,XA Jetly,57a49987
+ball,1,0.1,Wellington,GE Plimmer,RM Burns,PJ Watkins,0,0,,,,,,"",""
+ball,1,0.2,Wellington,GE Plimmer,RM Burns,PJ Watkins,1,0,,,,,,"",""
+ball,1,0.3,Wellington,RM Burns,GE Plimmer,PJ Watkins,0,0,,,,,,"",""
+ball,1,0.4,Wellington,RM Burns,GE Plimmer,PJ Watkins,4,0,,,,,,"",""
+ball,1,0.5,Wellington,RM Burns,GE Plimmer,PJ Watkins,0,0,,,,,,"",""
+ball,1,0.6,Wellington,RM Burns,GE Plimmer,PJ Watkins,0,0,,,,,,"",""
+ball,1,1.1,Wellington,GE Plimmer,RM Burns,EJ Black,4,0,,,,,,"",""
+ball,1,1.2,Wellington,GE Plimmer,RM Burns,EJ Black,0,0,,,,,,"",""
+ball,1,1.3,Wellington,GE Plimmer,RM Burns,EJ Black,0,0,,,,,,caught,GE Plimmer
+ball,1,1.4,Wellington,HC Francis,RM Burns,EJ Black,0,2,,,,2,,"",""
+ball,1,1.5,Wellington,HC Francis,RM Burns,EJ Black,0,0,,,,,,"",""
+ball,1,1.6,Wellington,HC Francis,RM Burns,EJ Black,0,0,,,,,,"",""
+ball,1,2.1,Wellington,RM Burns,HC Francis,E Gray,0,0,,,,,,"",""
+ball,1,2.2,Wellington,RM Burns,HC Francis,E Gray,0,0,,,,,,"",""
+ball,1,2.3,Wellington,RM Burns,HC Francis,E Gray,0,0,,,,,,"",""
+ball,1,2.4,Wellington,RM Burns,HC Francis,E Gray,0,0,,,,,,"",""
+ball,1,2.5,Wellington,RM Burns,HC Francis,E Gray,0,0,,,,,,"",""
+ball,1,2.6,Wellington,RM Burns,HC Francis,E Gray,0,0,,,,,,"",""
+ball,1,3.1,Wellington,HC Francis,RM Burns,EJ Black,4,0,,,,,,"",""
+ball,1,3.2,Wellington,HC Francis,RM Burns,EJ Black,0,0,,,,,,"",""
+ball,1,3.3,Wellington,HC Francis,RM Burns,EJ Black,0,0,,,,,,"",""
+ball,1,3.4,Wellington,HC Francis,RM Burns,EJ Black,0,0,,,,,,run out,RM Burns
+ball,1,3.5,Wellington,JM Kerr,HC Francis,EJ Black,0,0,,,,,,"",""
+ball,1,3.6,Wellington,JM Kerr,HC Francis,EJ Black,4,0,,,,,,"",""
+ball,1,4.1,Wellington,HC Francis,JM Kerr,LM Kotkamp,2,0,,,,,,"",""
+ball,1,4.2,Wellington,HC Francis,JM Kerr,LM Kotkamp,1,0,,,,,,"",""
+ball,1,4.3,Wellington,JM Kerr,HC Francis,LM Kotkamp,1,0,,,,,,"",""
+ball,1,4.4,Wellington,HC Francis,JM Kerr,LM Kotkamp,0,0,,,,,,"",""
+ball,1,4.5,Wellington,HC Francis,JM Kerr,LM Kotkamp,0,0,,,,,,"",""
+ball,1,4.6,Wellington,HC Francis,JM Kerr,LM Kotkamp,1,0,,,,,,"",""
+ball,1,5.1,Wellington,HC Francis,JM Kerr,PJ Watkins,0,0,,,,,,"",""
+ball,1,5.2,Wellington,HC Francis,JM Kerr,PJ Watkins,1,0,,,,,,"",""
+ball,1,5.3,Wellington,JM Kerr,HC Francis,PJ Watkins,0,0,,,,,,"",""
+ball,1,5.4,Wellington,JM Kerr,HC Francis,PJ Watkins,0,0,,,,,,"",""
+ball,1,5.5,Wellington,JM Kerr,HC Francis,PJ Watkins,0,0,,,,,,"",""
+ball,1,5.6,Wellington,JM Kerr,HC Francis,PJ Watkins,1,0,,,,,,"",""
+ball,1,6.1,Wellington,JM Kerr,HC Francis,CM Deerness,4,0,,,,,,"",""
+ball,1,6.2,Wellington,JM Kerr,HC Francis,CM Deerness,1,0,,,,,,"",""
+ball,1,6.3,Wellington,HC Francis,JM Kerr,CM Deerness,0,0,,,,,,"",""
+ball,1,6.4,Wellington,HC Francis,JM Kerr,CM Deerness,1,0,,,,,,"",""
+ball,1,6.5,Wellington,JM Kerr,HC Francis,CM Deerness,1,0,,,,,,"",""
+ball,1,6.6,Wellington,HC Francis,JM Kerr,CM Deerness,1,0,,,,,,"",""
+ball,1,7.1,Wellington,HC Francis,JM Kerr,LM Kotkamp,0,0,,,,,,"",""
+ball,1,7.2,Wellington,HC Francis,JM Kerr,LM Kotkamp,0,0,,,,,,"",""
+ball,1,7.3,Wellington,HC Francis,JM Kerr,LM Kotkamp,0,1,1,,,,,"",""
+ball,1,7.4,Wellington,HC Francis,JM Kerr,LM Kotkamp,0,0,,,,,,"",""
+ball,1,7.5,Wellington,HC Francis,JM Kerr,LM Kotkamp,0,0,,,,,,"",""
+ball,1,7.6,Wellington,HC Francis,JM Kerr,LM Kotkamp,4,0,,,,,,"",""
+ball,1,7.7,Wellington,HC Francis,JM Kerr,LM Kotkamp,0,0,,,,,,"",""
+ball,1,8.1,Wellington,JM Kerr,HC Francis,E Gray,4,0,,,,,,"",""
+ball,1,8.2,Wellington,JM Kerr,HC Francis,E Gray,4,0,,,,,,"",""
+ball,1,8.3,Wellington,JM Kerr,HC Francis,E Gray,1,0,,,,,,"",""
+ball,1,8.4,Wellington,HC Francis,JM Kerr,E Gray,1,0,,,,,,"",""
+ball,1,8.5,Wellington,JM Kerr,HC Francis,E Gray,2,0,,,,,,"",""
+ball,1,8.6,Wellington,JM Kerr,HC Francis,E Gray,1,0,,,,,,"",""
+ball,1,9.1,Wellington,JM Kerr,HC Francis,PJ Watkins,1,0,,,,,,"",""
+ball,1,9.2,Wellington,HC Francis,JM Kerr,PJ Watkins,0,0,,,,,,"",""
+ball,1,9.3,Wellington,HC Francis,JM Kerr,PJ Watkins,4,0,,,,,,"",""
+ball,1,9.4,Wellington,HC Francis,JM Kerr,PJ Watkins,1,0,,,,,,"",""
+ball,1,9.5,Wellington,JM Kerr,HC Francis,PJ Watkins,6,0,,,,,,"",""
+ball,1,9.6,Wellington,JM Kerr,HC Francis,PJ Watkins,4,0,,,,,,"",""
+ball,1,10.1,Wellington,HC Francis,JM Kerr,AS Browning,1,0,,,,,,"",""
+ball,1,10.2,Wellington,JM Kerr,HC Francis,AS Browning,0,0,,,,,,"",""
+ball,1,10.3,Wellington,JM Kerr,HC Francis,AS Browning,0,0,,,,,,"",""
+ball,1,10.4,Wellington,JM Kerr,HC Francis,AS Browning,2,0,,,,,,"",""
+ball,1,10.5,Wellington,JM Kerr,HC Francis,AS Browning,1,0,,,,,,"",""
+ball,1,10.6,Wellington,HC Francis,JM Kerr,AS Browning,1,0,,,,,,"",""
+ball,1,11.1,Wellington,HC Francis,JM Kerr,EJ Black,4,0,,,,,,"",""
+ball,1,11.2,Wellington,HC Francis,JM Kerr,EJ Black,0,0,,,,,,"",""
+ball,1,11.3,Wellington,HC Francis,JM Kerr,EJ Black,1,0,,,,,,"",""
+ball,1,11.4,Wellington,JM Kerr,HC Francis,EJ Black,1,0,,,,,,"",""
+ball,1,11.5,Wellington,HC Francis,JM Kerr,EJ Black,1,0,,,,,,"",""
+ball,1,11.6,Wellington,JM Kerr,HC Francis,EJ Black,0,0,,,,,,bowled,JM Kerr
+ball,1,12.1,Wellington,HC Francis,XA Jetly,AS Browning,4,0,,,,,,"",""
+ball,1,12.2,Wellington,HC Francis,XA Jetly,AS Browning,0,0,,,,,,"",""
+ball,1,12.3,Wellington,HC Francis,XA Jetly,AS Browning,1,0,,,,,,"",""
+ball,1,12.4,Wellington,XA Jetly,HC Francis,AS Browning,1,0,,,,,,"",""
+ball,1,12.5,Wellington,HC Francis,XA Jetly,AS Browning,0,0,,,,,,"",""
+ball,1,12.6,Wellington,HC Francis,XA Jetly,AS Browning,0,0,,,,,,"",""
+ball,1,13.1,Wellington,XA Jetly,HC Francis,LM Kotkamp,1,0,,,,,,"",""
+ball,1,13.2,Wellington,HC Francis,XA Jetly,LM Kotkamp,0,0,,,,,,caught,HC Francis
+ball,1,13.3,Wellington,JT McFadyen,XA Jetly,LM Kotkamp,1,0,,,,,,"",""
+ball,1,13.4,Wellington,XA Jetly,JT McFadyen,LM Kotkamp,0,0,,,,,,"",""
+ball,1,13.5,Wellington,XA Jetly,JT McFadyen,LM Kotkamp,0,0,,,,,,"",""
+ball,1,13.6,Wellington,XA Jetly,JT McFadyen,LM Kotkamp,0,0,,,,,,"",""
+ball,1,14.1,Wellington,JT McFadyen,XA Jetly,PJ Watkins,1,0,,,,,,"",""
+ball,1,14.2,Wellington,XA Jetly,JT McFadyen,PJ Watkins,2,0,,,,,,"",""
+ball,1,14.3,Wellington,XA Jetly,JT McFadyen,PJ Watkins,2,0,,,,,,"",""
+ball,1,14.4,Wellington,XA Jetly,JT McFadyen,PJ Watkins,0,0,,,,,,"",""
+ball,1,14.5,Wellington,XA Jetly,JT McFadyen,PJ Watkins,0,0,,,,,,"",""
+ball,1,14.6,Wellington,XA Jetly,JT McFadyen,PJ Watkins,1,0,,,,,,"",""
+ball,1,15.1,Wellington,XA Jetly,JT McFadyen,CG Blakely,1,0,,,,,,"",""
+ball,1,15.2,Wellington,JT McFadyen,XA Jetly,CG Blakely,1,0,,,,,,"",""
+ball,1,15.3,Wellington,XA Jetly,JT McFadyen,CG Blakely,1,0,,,,,,"",""
+ball,1,15.4,Wellington,JT McFadyen,XA Jetly,CG Blakely,0,0,,,,,,"",""
+ball,1,15.5,Wellington,JT McFadyen,XA Jetly,CG Blakely,1,0,,,,,,"",""
+ball,1,15.6,Wellington,XA Jetly,JT McFadyen,CG Blakely,1,0,,,,,,"",""
+ball,1,16.1,Wellington,XA Jetly,JT McFadyen,AS Browning,0,0,,,,,,stumped,XA Jetly
+ball,1,16.2,Wellington,S Mackinder,JT McFadyen,AS Browning,1,0,,,,,,"",""
+ball,1,16.3,Wellington,JT McFadyen,S Mackinder,AS Browning,1,0,,,,,,"",""
+ball,1,16.4,Wellington,S Mackinder,JT McFadyen,AS Browning,1,0,,,,,,"",""
+ball,1,16.5,Wellington,JT McFadyen,S Mackinder,AS Browning,0,0,,,,,,caught,JT McFadyen
+ball,1,16.6,Wellington,JA Simmons,S Mackinder,AS Browning,3,0,,,,,,"",""
+ball,1,17.1,Wellington,JA Simmons,S Mackinder,CM Deerness,1,0,,,,,,"",""
+ball,1,17.2,Wellington,S Mackinder,JA Simmons,CM Deerness,1,0,,,,,,"",""
+ball,1,17.3,Wellington,JA Simmons,S Mackinder,CM Deerness,0,0,,,,,,"",""
+ball,1,17.4,Wellington,JA Simmons,S Mackinder,CM Deerness,4,0,,,,,,"",""
+ball,1,17.5,Wellington,JA Simmons,S Mackinder,CM Deerness,4,0,,,,,,"",""
+ball,1,17.6,Wellington,JA Simmons,S Mackinder,CM Deerness,4,0,,,,,,"",""
+ball,1,18.1,Wellington,S Mackinder,JA Simmons,E Gray,1,0,,,,,,"",""
+ball,1,18.2,Wellington,JA Simmons,S Mackinder,E Gray,4,0,,,,,,"",""
+ball,1,18.3,Wellington,JA Simmons,S Mackinder,E Gray,0,1,,,,1,,"",""
+ball,1,18.4,Wellington,S Mackinder,JA Simmons,E Gray,4,0,,,,,,"",""
+ball,1,18.5,Wellington,S Mackinder,JA Simmons,E Gray,1,0,,,,,,"",""
+ball,1,18.6,Wellington,JA Simmons,S Mackinder,E Gray,1,0,,,,,,"",""
+ball,1,19.1,Wellington,JA Simmons,S Mackinder,EJ Black,2,0,,,,,,"",""
+ball,1,19.2,Wellington,JA Simmons,S Mackinder,EJ Black,1,0,,,,,,"",""
+ball,1,19.3,Wellington,S Mackinder,JA Simmons,EJ Black,4,0,,,,,,"",""
+ball,1,19.4,Wellington,S Mackinder,JA Simmons,EJ Black,1,0,,,,,,"",""
+ball,1,19.5,Wellington,JA Simmons,S Mackinder,EJ Black,0,0,,,,,,caught,JA Simmons
+ball,1,19.6,Wellington,N Baird,S Mackinder,EJ Black,4,0,,,,,,"",""
+ball,2,0.1,Otago,FC Leydon-Davis,IR James,XA Jetly,0,0,,,,,,"",""
+ball,2,0.2,Otago,FC Leydon-Davis,IR James,XA Jetly,0,0,,,,,,"",""
+ball,2,0.3,Otago,FC Leydon-Davis,IR James,XA Jetly,2,0,,,,,,"",""
+ball,2,0.4,Otago,FC Leydon-Davis,IR James,XA Jetly,0,0,,,,,,"",""
+ball,2,0.5,Otago,FC Leydon-Davis,IR James,XA Jetly,0,0,,,,,,"",""
+ball,2,0.6,Otago,FC Leydon-Davis,IR James,XA Jetly,0,0,,,,,,"",""
+ball,2,1.1,Otago,IR James,FC Leydon-Davis,JM Kerr,1,0,,,,,,"",""
+ball,2,1.2,Otago,FC Leydon-Davis,IR James,JM Kerr,1,0,,,,,,"",""
+ball,2,1.3,Otago,IR James,FC Leydon-Davis,JM Kerr,0,0,,,,,,"",""
+ball,2,1.4,Otago,IR James,FC Leydon-Davis,JM Kerr,2,0,,,,,,"",""
+ball,2,1.5,Otago,IR James,FC Leydon-Davis,JM Kerr,0,0,,,,,,"",""
+ball,2,1.6,Otago,IR James,FC Leydon-Davis,JM Kerr,4,0,,,,,,"",""
+ball,2,2.1,Otago,FC Leydon-Davis,IR James,JA Simmons,4,0,,,,,,"",""
+ball,2,2.2,Otago,FC Leydon-Davis,IR James,JA Simmons,0,0,,,,,,"",""
+ball,2,2.3,Otago,FC Leydon-Davis,IR James,JA Simmons,1,0,,,,,,"",""
+ball,2,2.4,Otago,IR James,FC Leydon-Davis,JA Simmons,1,0,,,,,,"",""
+ball,2,2.5,Otago,FC Leydon-Davis,IR James,JA Simmons,0,0,,,,,,"",""
+ball,2,2.6,Otago,FC Leydon-Davis,IR James,JA Simmons,0,0,,,,,,"",""
+ball,2,3.1,Otago,IR James,FC Leydon-Davis,JM Kerr,0,0,,,,,,"",""
+ball,2,3.2,Otago,IR James,FC Leydon-Davis,JM Kerr,4,0,,,,,,"",""
+ball,2,3.3,Otago,IR James,FC Leydon-Davis,JM Kerr,0,0,,,,,,"",""
+ball,2,3.4,Otago,IR James,FC Leydon-Davis,JM Kerr,4,0,,,,,,"",""
+ball,2,3.5,Otago,IR James,FC Leydon-Davis,JM Kerr,0,0,,,,,,"",""
+ball,2,3.6,Otago,IR James,FC Leydon-Davis,JM Kerr,1,0,,,,,,"",""

@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Northern Districts
+info,gender,female
+info,season,2021/22
+info,date,2021/12/03
+info,event,New Zealand Cricket Women's Twenty20
+info,match_number,3
+info,venue,"Seddon Park, Hamilton"
+info,city,Hamilton
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,CM Brown
+info,umpire,Damian Morrow
+info,reserve_umpire,C High
+info,tv_umpire,JAK Bromley
+info,match_referee,RE Hayward
+info,winner,Otago
+info,winner_runs,61
+info,player,Otago,SW Bates
+info,player,Otago,PM Inglis
+info,player,Otago,KJ Martin
+info,player,Otago,KE Ebrahim
+info,player,Otago,CG Blakely
+info,player,Otago,IR James
+info,player,Otago,MBA Lamplough
+info,player,Otago,EJ Black
+info,player,Otago,EJ Carson
+info,player,Otago,SA Oldershaw
+info,player,Otago,ME Loe
+info,player,Northern Districts,KG Anderson
+info,player,Northern Districts,LF Boucher
+info,player,Northern Districts,SRH Curtis
+info,player,Northern Districts,NH Patel
+info,player,Northern Districts,MB Templeton
+info,player,Northern Districts,GA Harris
+info,player,Northern Districts,T Wakelin
+info,player,Northern Districts,HE Topp
+info,player,Northern Districts,MN Hyde
+info,player,Northern Districts,CR Sarsfield
+info,player,Northern Districts,KA Knight
+info,registry,people,C High,ed55e0da
+info,registry,people,CG Blakely,8f999ed5
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,CR Sarsfield,66754320
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,EJ Black,2817e17a
+info,registry,people,EJ Carson,7693851c
+info,registry,people,GA Harris,43223c50
+info,registry,people,HE Topp,d9b3ff0a
+info,registry,people,IR James,57bdbc16
+info,registry,people,JAK Bromley,ccf7baaf
+info,registry,people,KA Knight,4291f081
+info,registry,people,KE Ebrahim,7c0055c1
+info,registry,people,KG Anderson,ae79a86f
+info,registry,people,KJ Martin,cf75a839
+info,registry,people,LF Boucher,51afe432
+info,registry,people,MB Templeton,e1504909
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,ME Loe,37f93dc8
+info,registry,people,MN Hyde,4958338a
+info,registry,people,NH Patel,d945db3e
+info,registry,people,PM Inglis,e4a71d18
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,SRH Curtis,aa89a853
+info,registry,people,SA Oldershaw,93b4f6f6
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,T Wakelin,9585d793
+ball,1,0.1,Otago,SW Bates,PM Inglis,NH Patel,0,0,,,,,,"",""
+ball,1,0.2,Otago,SW Bates,PM Inglis,NH Patel,0,0,,,,,,"",""
+ball,1,0.3,Otago,SW Bates,PM Inglis,NH Patel,1,0,,,,,,"",""
+ball,1,0.4,Otago,PM Inglis,SW Bates,NH Patel,0,1,,,,1,,"",""
+ball,1,0.5,Otago,SW Bates,PM Inglis,NH Patel,0,0,,,,,,"",""
+ball,1,0.6,Otago,SW Bates,PM Inglis,NH Patel,0,0,,,,,,"",""
+ball,1,1.1,Otago,PM Inglis,SW Bates,KA Knight,0,0,,,,,,"",""
+ball,1,1.2,Otago,PM Inglis,SW Bates,KA Knight,0,0,,,,,,"",""
+ball,1,1.3,Otago,PM Inglis,SW Bates,KA Knight,4,0,,,,,,"",""
+ball,1,1.4,Otago,PM Inglis,SW Bates,KA Knight,2,0,,,,,,"",""
+ball,1,1.5,Otago,PM Inglis,SW Bates,KA Knight,1,0,,,,,,"",""
+ball,1,1.6,Otago,SW Bates,PM Inglis,KA Knight,0,0,,,,,,"",""
+ball,1,2.1,Otago,PM Inglis,SW Bates,NH Patel,0,0,,,,,,"",""
+ball,1,2.2,Otago,PM Inglis,SW Bates,NH Patel,1,0,,,,,,"",""
+ball,1,2.3,Otago,SW Bates,PM Inglis,NH Patel,2,0,,,,,,"",""
+ball,1,2.4,Otago,SW Bates,PM Inglis,NH Patel,0,0,,,,,,"",""
+ball,1,2.5,Otago,SW Bates,PM Inglis,NH Patel,1,0,,,,,,"",""
+ball,1,2.6,Otago,PM Inglis,SW Bates,NH Patel,4,0,,,,,,"",""
+ball,1,3.1,Otago,SW Bates,PM Inglis,LF Boucher,2,0,,,,,,"",""
+ball,1,3.2,Otago,SW Bates,PM Inglis,LF Boucher,4,0,,,,,,"",""
+ball,1,3.3,Otago,SW Bates,PM Inglis,LF Boucher,0,0,,,,,,"",""
+ball,1,3.4,Otago,SW Bates,PM Inglis,LF Boucher,0,0,,,,,,"",""
+ball,1,3.5,Otago,SW Bates,PM Inglis,LF Boucher,4,0,,,,,,"",""
+ball,1,3.6,Otago,SW Bates,PM Inglis,LF Boucher,0,0,,,,,,"",""
+ball,1,4.1,Otago,PM Inglis,SW Bates,MN Hyde,0,0,,,,,,"",""
+ball,1,4.2,Otago,PM Inglis,SW Bates,MN Hyde,2,0,,,,,,"",""
+ball,1,4.3,Otago,PM Inglis,SW Bates,MN Hyde,4,1,,1,,,,"",""
+ball,1,4.4,Otago,PM Inglis,SW Bates,MN Hyde,0,0,,,,,,"",""
+ball,1,4.5,Otago,PM Inglis,SW Bates,MN Hyde,0,0,,,,,,"",""
+ball,1,4.6,Otago,PM Inglis,SW Bates,MN Hyde,0,1,1,,,,,"",""
+ball,1,4.7,Otago,PM Inglis,SW Bates,MN Hyde,0,0,,,,,,"",""
+ball,1,4.8,Otago,PM Inglis,SW Bates,MN Hyde,0,0,,,,,,caught,PM Inglis
+ball,1,5.1,Otago,SW Bates,KJ Martin,KG Anderson,1,0,,,,,,"",""
+ball,1,5.2,Otago,KJ Martin,SW Bates,KG Anderson,0,1,1,,,,,"",""
+ball,1,5.3,Otago,KJ Martin,SW Bates,KG Anderson,2,0,,,,,,"",""
+ball,1,5.4,Otago,KJ Martin,SW Bates,KG Anderson,1,0,,,,,,"",""
+ball,1,5.5,Otago,SW Bates,KJ Martin,KG Anderson,4,0,,,,,,"",""
+ball,1,5.6,Otago,SW Bates,KJ Martin,KG Anderson,2,0,,,,,,"",""
+ball,1,5.7,Otago,SW Bates,KJ Martin,KG Anderson,1,0,,,,,,"",""
+ball,1,6.1,Otago,SW Bates,KJ Martin,CR Sarsfield,4,0,,,,,,"",""
+ball,1,6.2,Otago,SW Bates,KJ Martin,CR Sarsfield,3,0,,,,,,"",""
+ball,1,6.3,Otago,KJ Martin,SW Bates,CR Sarsfield,0,1,1,,,,,"",""
+ball,1,6.4,Otago,KJ Martin,SW Bates,CR Sarsfield,0,0,,,,,,"",""
+ball,1,6.5,Otago,KJ Martin,SW Bates,CR Sarsfield,0,0,,,,,,"",""
+ball,1,6.6,Otago,KJ Martin,SW Bates,CR Sarsfield,0,0,,,,,,"",""
+ball,1,6.7,Otago,KJ Martin,SW Bates,CR Sarsfield,1,0,,,,,,"",""
+ball,1,7.1,Otago,KJ Martin,SW Bates,MB Templeton,2,0,,,,,,"",""
+ball,1,7.2,Otago,KJ Martin,SW Bates,MB Templeton,1,0,,,,,,"",""
+ball,1,7.3,Otago,SW Bates,KJ Martin,MB Templeton,0,0,,,,,,"",""
+ball,1,7.4,Otago,SW Bates,KJ Martin,MB Templeton,0,0,,,,,,run out,KJ Martin
+ball,1,7.5,Otago,SW Bates,KE Ebrahim,MB Templeton,1,0,,,,,,"",""
+ball,1,7.6,Otago,KE Ebrahim,SW Bates,MB Templeton,3,0,,,,,,"",""
+ball,1,8.1,Otago,KE Ebrahim,SW Bates,GA Harris,0,0,,,,,,"",""
+ball,1,8.2,Otago,KE Ebrahim,SW Bates,GA Harris,1,0,,,,,,"",""
+ball,1,8.3,Otago,SW Bates,KE Ebrahim,GA Harris,1,0,,,,,,"",""
+ball,1,8.4,Otago,KE Ebrahim,SW Bates,GA Harris,0,0,,,,,,"",""
+ball,1,8.5,Otago,KE Ebrahim,SW Bates,GA Harris,0,0,,,,,,"",""
+ball,1,8.6,Otago,KE Ebrahim,SW Bates,GA Harris,0,0,,,,,,"",""
+ball,1,9.1,Otago,SW Bates,KE Ebrahim,MB Templeton,1,0,,,,,,"",""
+ball,1,9.2,Otago,KE Ebrahim,SW Bates,MB Templeton,1,0,,,,,,"",""
+ball,1,9.3,Otago,SW Bates,KE Ebrahim,MB Templeton,0,0,,,,,,"",""
+ball,1,9.4,Otago,SW Bates,KE Ebrahim,MB Templeton,1,0,,,,,,"",""
+ball,1,9.5,Otago,KE Ebrahim,SW Bates,MB Templeton,1,0,,,,,,"",""
+ball,1,9.6,Otago,SW Bates,KE Ebrahim,MB Templeton,2,0,,,,,,"",""
+ball,1,10.1,Otago,KE Ebrahim,SW Bates,GA Harris,0,0,,,,,,"",""
+ball,1,10.2,Otago,KE Ebrahim,SW Bates,GA Harris,1,0,,,,,,"",""
+ball,1,10.3,Otago,SW Bates,KE Ebrahim,GA Harris,1,0,,,,,,"",""
+ball,1,10.4,Otago,KE Ebrahim,SW Bates,GA Harris,1,0,,,,,,"",""
+ball,1,10.5,Otago,SW Bates,KE Ebrahim,GA Harris,1,0,,,,,,"",""
+ball,1,10.6,Otago,KE Ebrahim,SW Bates,GA Harris,1,1,,1,,,,"",""
+ball,1,10.7,Otago,SW Bates,KE Ebrahim,GA Harris,0,0,,,,,,"",""
+ball,1,11.1,Otago,KE Ebrahim,SW Bates,MB Templeton,0,0,,,,,,bowled,KE Ebrahim
+ball,1,11.2,Otago,CG Blakely,SW Bates,MB Templeton,1,0,,,,,,"",""
+ball,1,11.3,Otago,SW Bates,CG Blakely,MB Templeton,1,0,,,,,,"",""
+ball,1,11.4,Otago,CG Blakely,SW Bates,MB Templeton,1,0,,,,,,"",""
+ball,1,11.5,Otago,SW Bates,CG Blakely,MB Templeton,2,0,,,,,,"",""
+ball,1,11.6,Otago,SW Bates,CG Blakely,MB Templeton,1,0,,,,,,"",""
+ball,1,12.1,Otago,SW Bates,CG Blakely,GA Harris,4,0,,,,,,"",""
+ball,1,12.2,Otago,SW Bates,CG Blakely,GA Harris,1,0,,,,,,"",""
+ball,1,12.3,Otago,CG Blakely,SW Bates,GA Harris,0,0,,,,,,"",""
+ball,1,12.4,Otago,CG Blakely,SW Bates,GA Harris,0,0,,,,,,"",""
+ball,1,12.5,Otago,CG Blakely,SW Bates,GA Harris,1,0,,,,,,"",""
+ball,1,12.6,Otago,SW Bates,CG Blakely,GA Harris,2,0,,,,,,"",""
+ball,1,13.1,Otago,CG Blakely,SW Bates,MB Templeton,0,0,,,,,,"",""
+ball,1,13.2,Otago,CG Blakely,SW Bates,MB Templeton,1,0,,,,,,"",""
+ball,1,13.3,Otago,SW Bates,CG Blakely,MB Templeton,0,1,1,,,,,"",""
+ball,1,13.4,Otago,SW Bates,CG Blakely,MB Templeton,2,0,,,,,,"",""
+ball,1,13.5,Otago,SW Bates,CG Blakely,MB Templeton,4,0,,,,,,"",""
+ball,1,13.6,Otago,SW Bates,CG Blakely,MB Templeton,0,0,,,,,,"",""
+ball,1,13.7,Otago,SW Bates,CG Blakely,MB Templeton,0,0,,,,,,"",""
+ball,1,14.1,Otago,CG Blakely,SW Bates,GA Harris,4,0,,,,,,"",""
+ball,1,14.2,Otago,CG Blakely,SW Bates,GA Harris,1,0,,,,,,"",""
+ball,1,14.3,Otago,SW Bates,CG Blakely,GA Harris,0,0,,,,,,"",""
+ball,1,14.4,Otago,SW Bates,CG Blakely,GA Harris,4,0,,,,,,"",""
+ball,1,14.5,Otago,SW Bates,CG Blakely,GA Harris,1,0,,,,,,"",""
+ball,1,14.6,Otago,CG Blakely,SW Bates,GA Harris,0,0,,,,,,"",""
+ball,1,15.1,Otago,SW Bates,CG Blakely,MN Hyde,0,0,,,,,,"",""
+ball,1,15.2,Otago,SW Bates,CG Blakely,MN Hyde,2,1,,1,,,,"",""
+ball,1,15.3,Otago,SW Bates,CG Blakely,MN Hyde,1,0,,,,,,"",""
+ball,1,15.4,Otago,CG Blakely,SW Bates,MN Hyde,1,0,,,,,,"",""
+ball,1,15.5,Otago,SW Bates,CG Blakely,MN Hyde,1,0,,,,,,"",""
+ball,1,15.6,Otago,CG Blakely,SW Bates,MN Hyde,4,0,,,,,,"",""
+ball,1,15.7,Otago,CG Blakely,SW Bates,MN Hyde,2,0,,,,,,"",""
+ball,1,16.1,Otago,SW Bates,CG Blakely,NH Patel,0,0,,,,,,"",""
+ball,1,16.2,Otago,SW Bates,CG Blakely,NH Patel,2,0,,,,,,"",""
+ball,1,16.3,Otago,SW Bates,CG Blakely,NH Patel,1,0,,,,,,"",""
+ball,1,16.4,Otago,CG Blakely,SW Bates,NH Patel,0,1,,,1,,,"",""
+ball,1,16.5,Otago,SW Bates,CG Blakely,NH Patel,1,0,,,,,,"",""
+ball,1,16.6,Otago,CG Blakely,SW Bates,NH Patel,0,0,,,,,,caught,CG Blakely
+ball,1,17.1,Otago,IR James,SW Bates,MN Hyde,0,1,1,,,,,"",""
+ball,1,17.2,Otago,IR James,SW Bates,MN Hyde,2,0,,,,,,"",""
+ball,1,17.3,Otago,IR James,SW Bates,MN Hyde,2,0,,,,,,"",""
+ball,1,17.4,Otago,IR James,SW Bates,MN Hyde,2,0,,,,,,"",""
+ball,1,17.5,Otago,IR James,SW Bates,MN Hyde,1,0,,,,,,"",""
+ball,1,17.6,Otago,SW Bates,IR James,MN Hyde,2,0,,,,,,"",""
+ball,1,17.7,Otago,SW Bates,IR James,MN Hyde,0,4,,,4,,,"",""
+ball,1,18.1,Otago,IR James,SW Bates,NH Patel,0,0,,,,,,"",""
+ball,1,18.2,Otago,IR James,SW Bates,NH Patel,2,0,,,,,,"",""
+ball,1,18.3,Otago,IR James,SW Bates,NH Patel,2,0,,,,,,"",""
+ball,1,18.4,Otago,IR James,SW Bates,NH Patel,0,0,,,,,,"",""
+ball,1,18.5,Otago,IR James,SW Bates,NH Patel,0,0,,,,,,"",""
+ball,1,18.6,Otago,IR James,SW Bates,NH Patel,0,0,,,,,,"",""
+ball,1,19.1,Otago,SW Bates,IR James,KG Anderson,1,0,,,,,,run out,IR James
+ball,1,19.2,Otago,SW Bates,MBA Lamplough,KG Anderson,4,0,,,,,,"",""
+ball,1,19.3,Otago,SW Bates,MBA Lamplough,KG Anderson,1,0,,,,,,"",""
+ball,1,19.4,Otago,MBA Lamplough,SW Bates,KG Anderson,1,0,,,,,,"",""
+ball,1,19.5,Otago,SW Bates,MBA Lamplough,KG Anderson,1,0,,,,,,"",""
+ball,1,19.6,Otago,MBA Lamplough,SW Bates,KG Anderson,2,0,,,,,,"",""
+ball,2,0.1,Northern Districts,KG Anderson,LF Boucher,EJ Black,0,1,1,,,,,"",""
+ball,2,0.2,Northern Districts,KG Anderson,LF Boucher,EJ Black,1,0,,,,,,"",""
+ball,2,0.3,Northern Districts,LF Boucher,KG Anderson,EJ Black,1,0,,,,,,"",""
+ball,2,0.4,Northern Districts,KG Anderson,LF Boucher,EJ Black,4,0,,,,,,"",""
+ball,2,0.5,Northern Districts,KG Anderson,LF Boucher,EJ Black,0,1,,,,1,,"",""
+ball,2,0.6,Northern Districts,LF Boucher,KG Anderson,EJ Black,0,1,1,,,,,"",""
+ball,2,0.7,Northern Districts,LF Boucher,KG Anderson,EJ Black,0,0,,,,,,"",""
+ball,2,0.8,Northern Districts,LF Boucher,KG Anderson,EJ Black,0,0,,,,,,"",""
+ball,2,1.1,Northern Districts,KG Anderson,LF Boucher,ME Loe,1,0,,,,,,"",""
+ball,2,1.2,Northern Districts,LF Boucher,KG Anderson,ME Loe,1,0,,,,,,"",""
+ball,2,1.3,Northern Districts,KG Anderson,LF Boucher,ME Loe,0,0,,,,,,"",""
+ball,2,1.4,Northern Districts,KG Anderson,LF Boucher,ME Loe,0,0,,,,,,"",""
+ball,2,1.5,Northern Districts,KG Anderson,LF Boucher,ME Loe,1,0,,,,,,"",""
+ball,2,1.6,Northern Districts,LF Boucher,KG Anderson,ME Loe,0,0,,,,,,"",""
+ball,2,2.1,Northern Districts,KG Anderson,LF Boucher,EJ Black,0,0,,,,,,"",""
+ball,2,2.2,Northern Districts,KG Anderson,LF Boucher,EJ Black,0,0,,,,,,"",""
+ball,2,2.3,Northern Districts,KG Anderson,LF Boucher,EJ Black,0,0,,,,,,"",""
+ball,2,2.4,Northern Districts,KG Anderson,LF Boucher,EJ Black,0,0,,,,,,bowled,KG Anderson
+ball,2,2.5,Northern Districts,SRH Curtis,LF Boucher,EJ Black,0,0,,,,,,"",""
+ball,2,2.6,Northern Districts,SRH Curtis,LF Boucher,EJ Black,1,0,,,,,,"",""
+ball,2,3.1,Northern Districts,SRH Curtis,LF Boucher,ME Loe,0,0,,,,,,"",""
+ball,2,3.2,Northern Districts,SRH Curtis,LF Boucher,ME Loe,1,0,,,,,,"",""
+ball,2,3.3,Northern Districts,LF Boucher,SRH Curtis,ME Loe,1,0,,,,,,"",""
+ball,2,3.4,Northern Districts,SRH Curtis,LF Boucher,ME Loe,1,0,,,,,,"",""
+ball,2,3.5,Northern Districts,LF Boucher,SRH Curtis,ME Loe,0,0,,,,,,"",""
+ball,2,3.6,Northern Districts,LF Boucher,SRH Curtis,ME Loe,4,0,,,,,,"",""
+ball,2,4.1,Northern Districts,SRH Curtis,LF Boucher,EJ Black,0,0,,,,,,"",""
+ball,2,4.2,Northern Districts,SRH Curtis,LF Boucher,EJ Black,0,0,,,,,,"",""
+ball,2,4.3,Northern Districts,SRH Curtis,LF Boucher,EJ Black,1,0,,,,,,"",""
+ball,2,4.4,Northern Districts,LF Boucher,SRH Curtis,EJ Black,0,0,,,,,,"",""
+ball,2,4.5,Northern Districts,LF Boucher,SRH Curtis,EJ Black,2,0,,,,,,"",""
+ball,2,4.6,Northern Districts,LF Boucher,SRH Curtis,EJ Black,1,0,,,,,,"",""
+ball,2,5.1,Northern Districts,LF Boucher,SRH Curtis,EJ Carson,2,0,,,,,,"",""
+ball,2,5.2,Northern Districts,LF Boucher,SRH Curtis,EJ Carson,1,0,,,,,,"",""
+ball,2,5.3,Northern Districts,SRH Curtis,LF Boucher,EJ Carson,1,0,,,,,,"",""
+ball,2,5.4,Northern Districts,LF Boucher,SRH Curtis,EJ Carson,0,0,,,,,,"",""
+ball,2,5.5,Northern Districts,LF Boucher,SRH Curtis,EJ Carson,1,0,,,,,,"",""
+ball,2,5.6,Northern Districts,SRH Curtis,LF Boucher,EJ Carson,0,0,,,,,,caught and bowled,SRH Curtis
+ball,2,6.1,Northern Districts,LF Boucher,NH Patel,SA Oldershaw,1,0,,,,,,"",""
+ball,2,6.2,Northern Districts,NH Patel,LF Boucher,SA Oldershaw,1,0,,,,,,"",""
+ball,2,6.3,Northern Districts,LF Boucher,NH Patel,SA Oldershaw,0,1,1,,,,,"",""
+ball,2,6.4,Northern Districts,LF Boucher,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,6.5,Northern Districts,LF Boucher,NH Patel,SA Oldershaw,4,0,,,,,,"",""
+ball,2,6.6,Northern Districts,LF Boucher,NH Patel,SA Oldershaw,0,1,,,,1,,"",""
+ball,2,6.7,Northern Districts,NH Patel,LF Boucher,SA Oldershaw,2,0,,,,,,"",""
+ball,2,7.1,Northern Districts,LF Boucher,NH Patel,EJ Carson,0,0,,,,,,"",""
+ball,2,7.2,Northern Districts,LF Boucher,NH Patel,EJ Carson,1,0,,,,,,"",""
+ball,2,7.3,Northern Districts,NH Patel,LF Boucher,EJ Carson,2,0,,,,,,"",""
+ball,2,7.4,Northern Districts,NH Patel,LF Boucher,EJ Carson,0,0,,,,,,"",""
+ball,2,7.5,Northern Districts,NH Patel,LF Boucher,EJ Carson,0,0,,,,,,"",""
+ball,2,7.6,Northern Districts,NH Patel,LF Boucher,EJ Carson,0,0,,,,,,"",""
+ball,2,8.1,Northern Districts,LF Boucher,NH Patel,SA Oldershaw,2,0,,,,,,"",""
+ball,2,8.2,Northern Districts,LF Boucher,NH Patel,SA Oldershaw,0,1,1,,,,,"",""
+ball,2,8.3,Northern Districts,LF Boucher,NH Patel,SA Oldershaw,0,0,,,,,,lbw,LF Boucher
+ball,2,8.4,Northern Districts,MB Templeton,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,8.5,Northern Districts,MB Templeton,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,8.6,Northern Districts,MB Templeton,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,8.7,Northern Districts,MB Templeton,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,9.1,Northern Districts,NH Patel,MB Templeton,MBA Lamplough,4,0,,,,,,"",""
+ball,2,9.2,Northern Districts,NH Patel,MB Templeton,MBA Lamplough,1,0,,,,,,"",""
+ball,2,9.3,Northern Districts,MB Templeton,NH Patel,MBA Lamplough,1,0,,,,,,"",""
+ball,2,9.4,Northern Districts,NH Patel,MB Templeton,MBA Lamplough,0,0,,,,,,"",""
+ball,2,9.5,Northern Districts,NH Patel,MB Templeton,MBA Lamplough,0,0,,,,,,"",""
+ball,2,9.6,Northern Districts,NH Patel,MB Templeton,MBA Lamplough,1,0,,,,,,"",""
+ball,2,10.1,Northern Districts,NH Patel,MB Templeton,KE Ebrahim,1,0,,,,,,"",""
+ball,2,10.2,Northern Districts,MB Templeton,NH Patel,KE Ebrahim,0,0,,,,,,"",""
+ball,2,10.3,Northern Districts,MB Templeton,NH Patel,KE Ebrahim,1,0,,,,,,"",""
+ball,2,10.4,Northern Districts,NH Patel,MB Templeton,KE Ebrahim,0,0,,,,,,"",""
+ball,2,10.5,Northern Districts,NH Patel,MB Templeton,KE Ebrahim,0,0,,,,,,"",""
+ball,2,10.6,Northern Districts,NH Patel,MB Templeton,KE Ebrahim,0,0,,,,,,"",""
+ball,2,11.1,Northern Districts,MB Templeton,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,11.2,Northern Districts,MB Templeton,NH Patel,SA Oldershaw,1,0,,,,,,"",""
+ball,2,11.3,Northern Districts,NH Patel,MB Templeton,SA Oldershaw,1,0,,,,,,"",""
+ball,2,11.4,Northern Districts,MB Templeton,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,11.5,Northern Districts,MB Templeton,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,11.6,Northern Districts,MB Templeton,NH Patel,SA Oldershaw,1,0,,,,,,"",""
+ball,2,12.1,Northern Districts,MB Templeton,NH Patel,KE Ebrahim,1,0,,,,,,"",""
+ball,2,12.2,Northern Districts,NH Patel,MB Templeton,KE Ebrahim,4,0,,,,,,"",""
+ball,2,12.3,Northern Districts,NH Patel,MB Templeton,KE Ebrahim,1,0,,,,,,"",""
+ball,2,12.4,Northern Districts,MB Templeton,NH Patel,KE Ebrahim,1,0,,,,,,"",""
+ball,2,12.5,Northern Districts,NH Patel,MB Templeton,KE Ebrahim,0,0,,,,,,bowled,NH Patel
+ball,2,12.6,Northern Districts,GA Harris,MB Templeton,KE Ebrahim,1,0,,,,,,"",""
+ball,2,13.1,Northern Districts,GA Harris,MB Templeton,SA Oldershaw,0,0,,,,,,"",""
+ball,2,13.2,Northern Districts,GA Harris,MB Templeton,SA Oldershaw,0,0,,,,,,"",""
+ball,2,13.3,Northern Districts,GA Harris,MB Templeton,SA Oldershaw,1,0,,,,,,"",""
+ball,2,13.4,Northern Districts,MB Templeton,GA Harris,SA Oldershaw,0,0,,,,,,"",""
+ball,2,13.5,Northern Districts,MB Templeton,GA Harris,SA Oldershaw,1,0,,,,,,"",""
+ball,2,13.6,Northern Districts,GA Harris,MB Templeton,SA Oldershaw,0,0,,,,,,"",""
+ball,2,14.1,Northern Districts,MB Templeton,GA Harris,EJ Carson,1,0,,,,,,"",""
+ball,2,14.2,Northern Districts,GA Harris,MB Templeton,EJ Carson,0,0,,,,,,"",""
+ball,2,14.3,Northern Districts,GA Harris,MB Templeton,EJ Carson,0,0,,,,,,"",""
+ball,2,14.4,Northern Districts,GA Harris,MB Templeton,EJ Carson,1,0,,,,,,"",""
+ball,2,14.5,Northern Districts,MB Templeton,GA Harris,EJ Carson,1,0,,,,,,"",""
+ball,2,14.6,Northern Districts,GA Harris,MB Templeton,EJ Carson,0,0,,,,,,"",""
+ball,2,15.1,Northern Districts,MB Templeton,GA Harris,ME Loe,1,0,,,,,,"",""
+ball,2,15.2,Northern Districts,GA Harris,MB Templeton,ME Loe,1,0,,,,,,"",""
+ball,2,15.3,Northern Districts,MB Templeton,GA Harris,ME Loe,4,0,,,,,,"",""
+ball,2,15.4,Northern Districts,MB Templeton,GA Harris,ME Loe,0,0,,,,,,caught,MB Templeton
+ball,2,15.5,Northern Districts,T Wakelin,GA Harris,ME Loe,0,0,,,,,,"",""
+ball,2,15.6,Northern Districts,T Wakelin,GA Harris,ME Loe,0,0,,,,,,"",""
+ball,2,16.1,Northern Districts,GA Harris,T Wakelin,MBA Lamplough,1,0,,,,,,"",""
+ball,2,16.2,Northern Districts,T Wakelin,GA Harris,MBA Lamplough,1,0,,,,,,"",""
+ball,2,16.3,Northern Districts,GA Harris,T Wakelin,MBA Lamplough,1,0,,,,,,"",""
+ball,2,16.4,Northern Districts,T Wakelin,GA Harris,MBA Lamplough,0,0,,,,,,"",""
+ball,2,16.5,Northern Districts,T Wakelin,GA Harris,MBA Lamplough,0,0,,,,,,"",""
+ball,2,16.6,Northern Districts,T Wakelin,GA Harris,MBA Lamplough,0,0,,,,,,"",""
+ball,2,17.1,Northern Districts,GA Harris,T Wakelin,ME Loe,1,0,,,,,,"",""
+ball,2,17.2,Northern Districts,T Wakelin,GA Harris,ME Loe,0,0,,,,,,caught,T Wakelin
+ball,2,17.3,Northern Districts,HE Topp,GA Harris,ME Loe,1,0,,,,,,"",""
+ball,2,17.4,Northern Districts,GA Harris,HE Topp,ME Loe,1,0,,,,,,"",""
+ball,2,17.5,Northern Districts,HE Topp,GA Harris,ME Loe,1,0,,,,,,"",""
+ball,2,17.6,Northern Districts,GA Harris,HE Topp,ME Loe,1,0,,,,,,"",""
+ball,2,18.1,Northern Districts,GA Harris,HE Topp,EJ Black,0,0,,,,,,caught,GA Harris
+ball,2,18.2,Northern Districts,HE Topp,MN Hyde,EJ Black,0,0,,,,,,run out,MN Hyde
+ball,2,18.3,Northern Districts,CR Sarsfield,HE Topp,EJ Black,0,0,,,,,,"",""
+ball,2,18.4,Northern Districts,CR Sarsfield,HE Topp,EJ Black,0,1,,,1,,,"",""
+ball,2,18.5,Northern Districts,HE Topp,CR Sarsfield,EJ Black,0,0,,,,,,"",""
+ball,2,18.6,Northern Districts,HE Topp,CR Sarsfield,EJ Black,0,1,1,,,,,"",""
+ball,2,18.7,Northern Districts,HE Topp,CR Sarsfield,EJ Black,1,0,,,,,,"",""
+ball,2,19.1,Northern Districts,HE Topp,CR Sarsfield,EJ Carson,4,0,,,,,,"",""
+ball,2,19.2,Northern Districts,HE Topp,CR Sarsfield,EJ Carson,0,0,,,,,,"",""
+ball,2,19.3,Northern Districts,HE Topp,CR Sarsfield,EJ Carson,1,0,,,,,,"",""
+ball,2,19.4,Northern Districts,CR Sarsfield,HE Topp,EJ Carson,0,0,,,,,,"",""
+ball,2,19.5,Northern Districts,CR Sarsfield,HE Topp,EJ Carson,0,0,,,,,,"",""
+ball,2,19.6,Northern Districts,CR Sarsfield,HE Topp,EJ Carson,1,0,,,,,,"",""

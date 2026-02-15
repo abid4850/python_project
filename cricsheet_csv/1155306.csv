@@ -1,0 +1,226 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Denmark
+info,gender,male
+info,season,2018
+info,date,2018/08/29
+info,event,ICC World Twenty20 Europe Region Qualifier A
+info,match_number,4
+info,venue,Sportpark Maarschalkerweerd
+info,city,Utrecht
+info,toss_winner,Germany
+info,toss_decision,bat
+info,player_of_match,HAM Shah
+info,umpire,Adriaan van den Dries
+info,umpire,RJ Veillard
+info,reserve_umpire,K Pedersen
+info,winner,Denmark
+info,winner_runs,8
+info,method,D/L
+info,player,Germany,Mudassar Muhammad
+info,player,Germany,D Weston
+info,player,Germany,A Sarma
+info,player,Germany,V Ganesan
+info,player,Germany,R Pillai
+info,player,Germany,H Singh
+info,player,Germany,Abdul-Shakoor Rahimzei
+info,player,Germany,Asad Mohammad
+info,player,Germany,Sajid Liaqat
+info,player,Germany,Ahmed Wardak
+info,player,Germany,Izatullah Dawlatzai
+info,player,Denmark,HAM Shah
+info,player,Denmark,T Bharaj
+info,player,Denmark,Anique Uddin
+info,player,Denmark,Rizwan Mahmood
+info,player,Denmark,J Jojo
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,A Bulow
+info,player,Denmark,MS Henriksen
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,RB Javed
+info,player,Denmark,FA Klokker
+info,registry,people,A Bulow,16f4cc7e
+info,registry,people,A Sarma,a5efce80
+info,registry,people,Abdul-Shakoor Rahimzei,e45810ed
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,Ahmed Wardak,3daaabaa
+info,registry,people,Anique Uddin,1f41b702
+info,registry,people,Asad Mohammad,89b7e368
+info,registry,people,D Weston,92256e66
+info,registry,people,FA Klokker,821a412e
+info,registry,people,H Singh,8209da53
+info,registry,people,HAM Shah,007113d7
+info,registry,people,Izatullah Dawlatzai,f96933f0
+info,registry,people,J Jojo,d981a1de
+info,registry,people,K Pedersen,ac717ebd
+info,registry,people,MS Henriksen,1b4acb7b
+info,registry,people,Mudassar Muhammad,7dde58c9
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,R Pillai,7a7c7e57
+info,registry,people,RB Javed,bf385668
+info,registry,people,RJ Veillard,0a8ebf05
+info,registry,people,Rizwan Mahmood,56e771ef
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,Sajid Liaqat,b1b99a1a
+info,registry,people,T Bharaj,49556abb
+info,registry,people,V Ganesan,baa7dd37
+ball,1,0.1,Germany,D Weston,Mudassar Muhammad,A Bulow,0,0,,,,,,"",""
+ball,1,0.2,Germany,D Weston,Mudassar Muhammad,A Bulow,0,0,,,,,,caught,D Weston
+ball,1,0.3,Germany,A Sarma,Mudassar Muhammad,A Bulow,0,0,,,,,,"",""
+ball,1,0.4,Germany,A Sarma,Mudassar Muhammad,A Bulow,0,0,,,,,,"",""
+ball,1,0.5,Germany,A Sarma,Mudassar Muhammad,A Bulow,1,0,,,,,,"",""
+ball,1,0.6,Germany,Mudassar Muhammad,A Sarma,A Bulow,0,0,,,,,,"",""
+ball,1,1.1,Germany,A Sarma,Mudassar Muhammad,MS Henriksen,0,1,1,,,,,"",""
+ball,1,1.2,Germany,A Sarma,Mudassar Muhammad,MS Henriksen,0,1,1,,,,,"",""
+ball,1,1.3,Germany,A Sarma,Mudassar Muhammad,MS Henriksen,0,0,,,,,,"",""
+ball,1,1.4,Germany,A Sarma,Mudassar Muhammad,MS Henriksen,0,1,1,,,,,"",""
+ball,1,1.5,Germany,A Sarma,Mudassar Muhammad,MS Henriksen,1,0,,,,,,"",""
+ball,1,1.6,Germany,Mudassar Muhammad,A Sarma,MS Henriksen,0,0,,,,,,"",""
+ball,1,1.7,Germany,Mudassar Muhammad,A Sarma,MS Henriksen,0,0,,,,,,caught,Mudassar Muhammad
+ball,1,1.8,Germany,A Sarma,V Ganesan,MS Henriksen,0,0,,,,,,"",""
+ball,1,1.9,Germany,A Sarma,V Ganesan,MS Henriksen,1,0,,,,,,"",""
+ball,1,2.1,Germany,A Sarma,V Ganesan,A Bulow,0,0,,,,,,"",""
+ball,1,2.2,Germany,A Sarma,V Ganesan,A Bulow,1,0,,,,,,"",""
+ball,1,2.3,Germany,V Ganesan,A Sarma,A Bulow,0,0,,,,,,"",""
+ball,1,2.4,Germany,V Ganesan,A Sarma,A Bulow,0,0,,,,,,"",""
+ball,1,2.5,Germany,V Ganesan,A Sarma,A Bulow,2,0,,,,,,"",""
+ball,1,2.6,Germany,V Ganesan,A Sarma,A Bulow,4,0,,,,,,"",""
+ball,1,3.1,Germany,A Sarma,V Ganesan,MS Henriksen,1,0,,,,,,"",""
+ball,1,3.2,Germany,V Ganesan,A Sarma,MS Henriksen,4,0,,,,,,"",""
+ball,1,3.3,Germany,V Ganesan,A Sarma,MS Henriksen,1,0,,,,,,"",""
+ball,1,3.4,Germany,A Sarma,V Ganesan,MS Henriksen,1,0,,,,,,"",""
+ball,1,3.5,Germany,V Ganesan,A Sarma,MS Henriksen,1,0,,,,,,"",""
+ball,1,3.6,Germany,A Sarma,V Ganesan,MS Henriksen,1,0,,,,,,"",""
+ball,1,4.1,Germany,A Sarma,V Ganesan,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,4.2,Germany,A Sarma,V Ganesan,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,4.3,Germany,A Sarma,V Ganesan,ND Laegsgaard,0,0,,,,,,bowled,A Sarma
+ball,1,4.4,Germany,R Pillai,V Ganesan,ND Laegsgaard,2,0,,,,,,"",""
+ball,1,4.5,Germany,R Pillai,V Ganesan,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,4.6,Germany,V Ganesan,R Pillai,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,5.1,Germany,R Pillai,V Ganesan,RB Javed,0,0,,,,,,"",""
+ball,1,5.2,Germany,R Pillai,V Ganesan,RB Javed,0,0,,,,,,"",""
+ball,1,5.3,Germany,R Pillai,V Ganesan,RB Javed,0,0,,,,,,"",""
+ball,1,5.4,Germany,R Pillai,V Ganesan,RB Javed,1,0,,,,,,"",""
+ball,1,5.5,Germany,V Ganesan,R Pillai,RB Javed,1,0,,,,,,"",""
+ball,1,5.6,Germany,R Pillai,V Ganesan,RB Javed,0,0,,,,,,"",""
+ball,1,6.1,Germany,V Ganesan,R Pillai,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,6.2,Germany,V Ganesan,R Pillai,ND Laegsgaard,2,0,,,,,,"",""
+ball,1,6.3,Germany,V Ganesan,R Pillai,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,6.4,Germany,R Pillai,V Ganesan,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,6.5,Germany,V Ganesan,R Pillai,ND Laegsgaard,0,0,,,,,,caught and bowled,V Ganesan
+ball,1,6.6,Germany,H Singh,R Pillai,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,7.1,Germany,R Pillai,H Singh,Anique Uddin,0,0,,,,,,"",""
+ball,1,7.2,Germany,R Pillai,H Singh,Anique Uddin,2,0,,,,,,"",""
+ball,1,7.3,Germany,R Pillai,H Singh,Anique Uddin,0,0,,,,,,"",""
+ball,1,7.4,Germany,R Pillai,H Singh,Anique Uddin,1,0,,,,,,"",""
+ball,1,7.5,Germany,H Singh,R Pillai,Anique Uddin,2,0,,,,,,"",""
+ball,1,7.6,Germany,H Singh,R Pillai,Anique Uddin,0,0,,,,,,"",""
+ball,1,8.1,Germany,R Pillai,H Singh,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,8.2,Germany,H Singh,R Pillai,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,8.3,Germany,R Pillai,H Singh,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,8.4,Germany,R Pillai,H Singh,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,8.5,Germany,H Singh,R Pillai,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,8.6,Germany,R Pillai,H Singh,ND Laegsgaard,2,0,,,,,,"",""
+ball,1,9.1,Germany,H Singh,R Pillai,Anique Uddin,0,0,,,,,,"",""
+ball,1,9.2,Germany,H Singh,R Pillai,Anique Uddin,0,0,,,,,,"",""
+ball,1,9.3,Germany,H Singh,R Pillai,Anique Uddin,0,0,,,,,,"",""
+ball,1,9.4,Germany,H Singh,R Pillai,Anique Uddin,1,0,,,,,,"",""
+ball,1,9.5,Germany,R Pillai,H Singh,Anique Uddin,0,0,,,,,,"",""
+ball,1,9.6,Germany,R Pillai,H Singh,Anique Uddin,2,0,,,,,,"",""
+ball,1,10.1,Germany,H Singh,R Pillai,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,10.2,Germany,H Singh,R Pillai,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,10.3,Germany,H Singh,R Pillai,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,10.4,Germany,H Singh,R Pillai,ND Laegsgaard,0,0,,,,,,"",""
+ball,1,10.5,Germany,H Singh,R Pillai,ND Laegsgaard,2,0,,,,,,"",""
+ball,1,10.6,Germany,H Singh,R Pillai,ND Laegsgaard,1,0,,,,,,"",""
+ball,1,11.1,Germany,H Singh,R Pillai,Anique Uddin,2,0,,,,,,"",""
+ball,1,11.2,Germany,H Singh,R Pillai,Anique Uddin,0,0,,,,,,"",""
+ball,1,11.3,Germany,H Singh,R Pillai,Anique Uddin,2,0,,,,,,"",""
+ball,1,11.4,Germany,H Singh,R Pillai,Anique Uddin,0,0,,,,,,"",""
+ball,1,11.5,Germany,H Singh,R Pillai,Anique Uddin,1,0,,,,,,"",""
+ball,1,11.6,Germany,R Pillai,H Singh,Anique Uddin,0,0,,,,,,"",""
+ball,1,12.1,Germany,H Singh,R Pillai,HAM Shah,1,0,,,,,,"",""
+ball,1,12.2,Germany,R Pillai,H Singh,HAM Shah,0,0,,,,,,"",""
+ball,1,12.3,Germany,R Pillai,H Singh,HAM Shah,1,0,,,,,,"",""
+ball,1,12.4,Germany,H Singh,R Pillai,HAM Shah,2,0,,,,,,"",""
+ball,1,12.5,Germany,H Singh,R Pillai,HAM Shah,1,0,,,,,,"",""
+ball,1,12.6,Germany,R Pillai,H Singh,HAM Shah,0,0,,,,,,"",""
+ball,1,13.1,Germany,H Singh,R Pillai,Anique Uddin,1,0,,,,,,"",""
+ball,1,13.2,Germany,R Pillai,H Singh,Anique Uddin,0,0,,,,,,"",""
+ball,1,13.3,Germany,R Pillai,H Singh,Anique Uddin,1,0,,,,,,"",""
+ball,1,13.4,Germany,H Singh,R Pillai,Anique Uddin,0,0,,,,,,caught,H Singh
+ball,1,13.5,Germany,R Pillai,Abdul-Shakoor Rahimzei,Anique Uddin,1,0,,,,,,"",""
+ball,1,13.6,Germany,Abdul-Shakoor Rahimzei,R Pillai,Anique Uddin,0,0,,,,,,"",""
+ball,1,14.1,Germany,R Pillai,Abdul-Shakoor Rahimzei,HAM Shah,0,0,,,,,,"",""
+ball,1,14.2,Germany,R Pillai,Abdul-Shakoor Rahimzei,HAM Shah,1,0,,,,,,"",""
+ball,1,14.3,Germany,Abdul-Shakoor Rahimzei,R Pillai,HAM Shah,0,0,,,,,,"",""
+ball,1,14.4,Germany,Abdul-Shakoor Rahimzei,R Pillai,HAM Shah,0,0,,,,,,"",""
+ball,1,14.5,Germany,Abdul-Shakoor Rahimzei,R Pillai,HAM Shah,2,0,,,,,,"",""
+ball,1,14.6,Germany,Abdul-Shakoor Rahimzei,R Pillai,HAM Shah,0,0,,,,,,"",""
+ball,1,15.1,Germany,R Pillai,Abdul-Shakoor Rahimzei,S Thanikaithasan,1,0,,,,,,"",""
+ball,1,15.2,Germany,Abdul-Shakoor Rahimzei,R Pillai,S Thanikaithasan,1,0,,,,,,"",""
+ball,1,15.3,Germany,R Pillai,Abdul-Shakoor Rahimzei,S Thanikaithasan,1,0,,,,,,"",""
+ball,1,15.4,Germany,Abdul-Shakoor Rahimzei,R Pillai,S Thanikaithasan,0,0,,,,,,"",""
+ball,1,15.5,Germany,Abdul-Shakoor Rahimzei,R Pillai,S Thanikaithasan,0,0,,,,,,bowled,Abdul-Shakoor Rahimzei
+ball,1,15.6,Germany,Asad Mohammad,R Pillai,S Thanikaithasan,0,1,1,,,,,"",""
+ball,1,15.7,Germany,Asad Mohammad,R Pillai,S Thanikaithasan,0,0,,,,,,"",""
+ball,1,16.1,Germany,R Pillai,Asad Mohammad,HAM Shah,0,0,,,,,,"",""
+ball,1,16.2,Germany,R Pillai,Asad Mohammad,HAM Shah,0,0,,,,,,"",""
+ball,1,16.3,Germany,R Pillai,Asad Mohammad,HAM Shah,1,0,,,,,,"",""
+ball,1,16.4,Germany,Asad Mohammad,R Pillai,HAM Shah,0,0,,,,,,"",""
+ball,1,16.5,Germany,Asad Mohammad,R Pillai,HAM Shah,0,0,,,,,,"",""
+ball,1,16.6,Germany,Asad Mohammad,R Pillai,HAM Shah,0,1,1,,,,,"",""
+ball,1,16.7,Germany,Asad Mohammad,R Pillai,HAM Shah,2,0,,,,,,"",""
+ball,1,17.1,Germany,R Pillai,Asad Mohammad,S Thanikaithasan,0,1,1,,,,,"",""
+ball,1,17.2,Germany,R Pillai,Asad Mohammad,S Thanikaithasan,0,0,,,,,,"",""
+ball,1,17.3,Germany,R Pillai,Asad Mohammad,S Thanikaithasan,0,1,1,,,,,"",""
+ball,1,17.4,Germany,R Pillai,Asad Mohammad,S Thanikaithasan,0,0,,,,,,"",""
+ball,1,17.5,Germany,R Pillai,Asad Mohammad,S Thanikaithasan,1,0,,,,,,"",""
+ball,1,17.6,Germany,Asad Mohammad,R Pillai,S Thanikaithasan,1,0,,,,,,run out,R Pillai
+ball,1,17.7,Germany,Asad Mohammad,Sajid Liaqat,S Thanikaithasan,0,0,,,,,,"",""
+ball,1,17.8,Germany,Asad Mohammad,Sajid Liaqat,S Thanikaithasan,0,0,,,,,,"",""
+ball,1,18.1,Germany,Sajid Liaqat,Asad Mohammad,HAM Shah,0,0,,,,,,"",""
+ball,1,18.2,Germany,Sajid Liaqat,Asad Mohammad,HAM Shah,1,0,,,,,,"",""
+ball,1,18.3,Germany,Asad Mohammad,Sajid Liaqat,HAM Shah,0,0,,,,,,"",""
+ball,1,18.4,Germany,Asad Mohammad,Sajid Liaqat,HAM Shah,1,0,,,,,,"",""
+ball,1,18.5,Germany,Sajid Liaqat,Asad Mohammad,HAM Shah,1,0,,,,,,"",""
+ball,1,18.6,Germany,Asad Mohammad,Sajid Liaqat,HAM Shah,0,0,,,,,,"",""
+ball,1,19.1,Germany,Sajid Liaqat,Asad Mohammad,S Thanikaithasan,0,0,,,,,,"",""
+ball,1,19.2,Germany,Sajid Liaqat,Asad Mohammad,S Thanikaithasan,0,1,,,,1,,"",""
+ball,1,19.3,Germany,Asad Mohammad,Sajid Liaqat,S Thanikaithasan,0,0,,,,,,bowled,Asad Mohammad
+ball,1,19.4,Germany,Ahmed Wardak,Sajid Liaqat,S Thanikaithasan,0,0,,,,,,"",""
+ball,1,19.5,Germany,Ahmed Wardak,Sajid Liaqat,S Thanikaithasan,2,0,,,,,,"",""
+ball,1,19.6,Germany,Ahmed Wardak,Sajid Liaqat,S Thanikaithasan,4,0,,,,,,"",""
+ball,2,0.1,Denmark,T Bharaj,HAM Shah,Abdul-Shakoor Rahimzei,1,0,,,,,,"",""
+ball,2,0.2,Denmark,HAM Shah,T Bharaj,Abdul-Shakoor Rahimzei,4,0,,,,,,"",""
+ball,2,0.3,Denmark,HAM Shah,T Bharaj,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,0.4,Denmark,HAM Shah,T Bharaj,Abdul-Shakoor Rahimzei,1,0,,,,,,"",""
+ball,2,0.5,Denmark,T Bharaj,HAM Shah,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,0.6,Denmark,T Bharaj,HAM Shah,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,1.1,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,2,0,,,,,,"",""
+ball,2,1.2,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,1.3,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,2,0,,,,,,"",""
+ball,2,1.4,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,1.5,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,1.6,Denmark,T Bharaj,HAM Shah,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,2.1,Denmark,HAM Shah,T Bharaj,Abdul-Shakoor Rahimzei,2,0,,,,,,"",""
+ball,2,2.2,Denmark,HAM Shah,T Bharaj,Abdul-Shakoor Rahimzei,1,0,,,,,,"",""
+ball,2,2.3,Denmark,T Bharaj,HAM Shah,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,2.4,Denmark,T Bharaj,HAM Shah,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,2.5,Denmark,T Bharaj,HAM Shah,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,2.6,Denmark,T Bharaj,HAM Shah,Abdul-Shakoor Rahimzei,0,0,,,,,,"",""
+ball,2,3.1,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,3.2,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,3.3,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,3.4,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,0,0,,,,,,"",""
+ball,2,3.5,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,1,0,,,,,,"",""
+ball,2,3.6,Denmark,T Bharaj,HAM Shah,Izatullah Dawlatzai,4,0,,,,,,"",""
+ball,2,4.1,Denmark,HAM Shah,T Bharaj,Sajid Liaqat,0,1,1,,,,,"",""
+ball,2,4.2,Denmark,HAM Shah,T Bharaj,Sajid Liaqat,0,0,,,,,,"",""
+ball,2,4.3,Denmark,HAM Shah,T Bharaj,Sajid Liaqat,0,0,,,,,,"",""
+ball,2,4.4,Denmark,HAM Shah,T Bharaj,Sajid Liaqat,0,0,,,,,,"",""
+ball,2,4.5,Denmark,HAM Shah,T Bharaj,Sajid Liaqat,1,0,,,,,,"",""
+ball,2,4.6,Denmark,T Bharaj,HAM Shah,Sajid Liaqat,1,0,,,,,,"",""
+ball,2,4.7,Denmark,HAM Shah,T Bharaj,Sajid Liaqat,1,0,,,,,,"",""
+ball,2,5.1,Denmark,HAM Shah,T Bharaj,Izatullah Dawlatzai,2,0,,,,,,"",""

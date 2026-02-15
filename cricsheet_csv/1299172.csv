@@ -1,0 +1,286 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,London Spirit
+info,team,Oval Invincibles
+info,gender,male
+info,season,2022
+info,date,2022/08/04
+info,event,The Hundred Men's Competition
+info,match_number,2
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Oval Invincibles
+info,toss_decision,field
+info,player_of_match,NT Ellis
+info,umpire,DJ Millns
+info,umpire,NGB Cook
+info,reserve_umpire,Tom Lungley
+info,tv_umpire,NJ Llong
+info,match_referee,PM Such
+info,winner,London Spirit
+info,winner_runs,3
+info,player,London Spirit,Z Crawley
+info,player,London Spirit,AM Rossington
+info,player,London Spirit,GJ Maxwell
+info,player,London Spirit,DW Lawrence
+info,player,London Spirit,EJG Morgan
+info,player,London Spirit,KA Pollard
+info,player,London Spirit,JA Thompson
+info,player,London Spirit,LA Dawson
+info,player,London Spirit,CP Wood
+info,player,London Spirit,NT Ellis
+info,player,London Spirit,MS Crane
+info,player,Oval Invincibles,JJ Roy
+info,player,Oval Invincibles,WG Jacks
+info,player,Oval Invincibles,SM Curran
+info,player,Oval Invincibles,SW Billings
+info,player,Oval Invincibles,JM Cox
+info,player,Oval Invincibles,HWR Cartwright
+info,player,Oval Invincibles,TK Curran
+info,player,Oval Invincibles,SP Narine
+info,player,Oval Invincibles,DR Briggs
+info,player,Oval Invincibles,RJW Topley
+info,player,Oval Invincibles,Mohammad Hasnain
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,NGB Cook,772fe461
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TK Curran,e86754b2
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,London Spirit,Z Crawley,AM Rossington,RJW Topley,0,0,,,,,,"",""
+ball,1,0.2,London Spirit,Z Crawley,AM Rossington,RJW Topley,1,0,,,,,,"",""
+ball,1,0.3,London Spirit,AM Rossington,Z Crawley,RJW Topley,1,0,,,,,,"",""
+ball,1,0.4,London Spirit,Z Crawley,AM Rossington,RJW Topley,4,0,,,,,,"",""
+ball,1,0.5,London Spirit,Z Crawley,AM Rossington,RJW Topley,4,0,,,,,,"",""
+ball,1,1.1,London Spirit,Z Crawley,AM Rossington,DR Briggs,1,0,,,,,,"",""
+ball,1,1.2,London Spirit,AM Rossington,Z Crawley,DR Briggs,0,0,,,,,,"",""
+ball,1,1.3,London Spirit,AM Rossington,Z Crawley,DR Briggs,1,0,,,,,,"",""
+ball,1,1.4,London Spirit,Z Crawley,AM Rossington,DR Briggs,4,0,,,,,,"",""
+ball,1,1.5,London Spirit,Z Crawley,AM Rossington,DR Briggs,4,0,,,,,,"",""
+ball,1,2.1,London Spirit,AM Rossington,Z Crawley,Mohammad Hasnain,6,0,,,,,,"",""
+ball,1,2.2,London Spirit,AM Rossington,Z Crawley,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,2.3,London Spirit,AM Rossington,Z Crawley,Mohammad Hasnain,6,0,,,,,,"",""
+ball,1,2.4,London Spirit,AM Rossington,Z Crawley,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,2.5,London Spirit,AM Rossington,Z Crawley,Mohammad Hasnain,0,0,,,,,,caught,AM Rossington
+ball,1,3.1,London Spirit,GJ Maxwell,Z Crawley,TK Curran,0,0,,,,,,"",""
+ball,1,3.2,London Spirit,GJ Maxwell,Z Crawley,TK Curran,0,0,,,,,,"",""
+ball,1,3.3,London Spirit,GJ Maxwell,Z Crawley,TK Curran,1,0,,,,,,"",""
+ball,1,3.4,London Spirit,Z Crawley,GJ Maxwell,TK Curran,1,0,,,,,,"",""
+ball,1,3.5,London Spirit,GJ Maxwell,Z Crawley,TK Curran,1,0,,,,,,"",""
+ball,1,4.1,London Spirit,GJ Maxwell,Z Crawley,SM Curran,1,0,,,,,,"",""
+ball,1,4.2,London Spirit,Z Crawley,GJ Maxwell,SM Curran,1,0,,,,,,"",""
+ball,1,4.3,London Spirit,GJ Maxwell,Z Crawley,SM Curran,0,0,,,,,,"",""
+ball,1,4.4,London Spirit,GJ Maxwell,Z Crawley,SM Curran,0,0,,,,,,"",""
+ball,1,4.5,London Spirit,GJ Maxwell,Z Crawley,SM Curran,4,0,,,,,,"",""
+ball,1,5.1,London Spirit,GJ Maxwell,Z Crawley,SP Narine,0,0,,,,,,"",""
+ball,1,5.2,London Spirit,GJ Maxwell,Z Crawley,SP Narine,1,0,,,,,,"",""
+ball,1,5.3,London Spirit,Z Crawley,GJ Maxwell,SP Narine,1,0,,,,,,"",""
+ball,1,5.4,London Spirit,GJ Maxwell,Z Crawley,SP Narine,0,1,1,,,,,"",""
+ball,1,5.5,London Spirit,GJ Maxwell,Z Crawley,SP Narine,2,0,,,,,,"",""
+ball,1,5.6,London Spirit,GJ Maxwell,Z Crawley,SP Narine,4,0,,,,,,"",""
+ball,1,6.1,London Spirit,Z Crawley,GJ Maxwell,Mohammad Hasnain,0,0,,,,,,caught,Z Crawley
+ball,1,6.2,London Spirit,DW Lawrence,GJ Maxwell,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,6.3,London Spirit,GJ Maxwell,DW Lawrence,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,6.4,London Spirit,GJ Maxwell,DW Lawrence,Mohammad Hasnain,4,0,,,,,,"",""
+ball,1,6.5,London Spirit,GJ Maxwell,DW Lawrence,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,7.1,London Spirit,GJ Maxwell,DW Lawrence,SP Narine,0,0,,,,,,caught,GJ Maxwell
+ball,1,7.2,London Spirit,EJG Morgan,DW Lawrence,SP Narine,0,0,,,,,,"",""
+ball,1,7.3,London Spirit,EJG Morgan,DW Lawrence,SP Narine,0,0,,,,,,"",""
+ball,1,7.4,London Spirit,EJG Morgan,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,1,7.5,London Spirit,DW Lawrence,EJG Morgan,SP Narine,0,0,,,,,,"",""
+ball,1,8.1,London Spirit,EJG Morgan,DW Lawrence,RJW Topley,4,0,,,,,,"",""
+ball,1,8.2,London Spirit,EJG Morgan,DW Lawrence,RJW Topley,1,0,,,,,,"",""
+ball,1,8.3,London Spirit,DW Lawrence,EJG Morgan,RJW Topley,4,0,,,,,,"",""
+ball,1,8.4,London Spirit,DW Lawrence,EJG Morgan,RJW Topley,0,0,,,,,,"",""
+ball,1,8.5,London Spirit,DW Lawrence,EJG Morgan,RJW Topley,0,0,,,,,,"",""
+ball,1,9.1,London Spirit,DW Lawrence,EJG Morgan,TK Curran,2,0,,,,,,"",""
+ball,1,9.2,London Spirit,DW Lawrence,EJG Morgan,TK Curran,4,0,,,,,,"",""
+ball,1,9.3,London Spirit,DW Lawrence,EJG Morgan,TK Curran,2,0,,,,,,"",""
+ball,1,9.4,London Spirit,DW Lawrence,EJG Morgan,TK Curran,0,1,,,1,,,"",""
+ball,1,9.5,London Spirit,EJG Morgan,DW Lawrence,TK Curran,0,0,,,,,,"",""
+ball,1,10.1,London Spirit,DW Lawrence,EJG Morgan,SP Narine,2,0,,,,,,"",""
+ball,1,10.2,London Spirit,DW Lawrence,EJG Morgan,SP Narine,0,0,,,,,,"",""
+ball,1,10.3,London Spirit,DW Lawrence,EJG Morgan,SP Narine,0,0,,,,,,"",""
+ball,1,10.4,London Spirit,DW Lawrence,EJG Morgan,SP Narine,1,0,,,,,,"",""
+ball,1,10.5,London Spirit,EJG Morgan,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,1,11.1,London Spirit,DW Lawrence,EJG Morgan,SM Curran,0,0,,,,,,"",""
+ball,1,11.2,London Spirit,DW Lawrence,EJG Morgan,SM Curran,2,0,,,,,,"",""
+ball,1,11.3,London Spirit,DW Lawrence,EJG Morgan,SM Curran,1,0,,,,,,"",""
+ball,1,11.4,London Spirit,EJG Morgan,DW Lawrence,SM Curran,0,0,,,,,,"",""
+ball,1,11.5,London Spirit,EJG Morgan,DW Lawrence,SM Curran,0,0,,,,,,"",""
+ball,1,12.1,London Spirit,DW Lawrence,EJG Morgan,TK Curran,1,0,,,,,,"",""
+ball,1,12.2,London Spirit,EJG Morgan,DW Lawrence,TK Curran,6,0,,,,,,"",""
+ball,1,12.3,London Spirit,EJG Morgan,DW Lawrence,TK Curran,0,0,,,,,,"",""
+ball,1,12.4,London Spirit,EJG Morgan,DW Lawrence,TK Curran,4,0,,,,,,"",""
+ball,1,12.5,London Spirit,EJG Morgan,DW Lawrence,TK Curran,1,0,,,,,,"",""
+ball,1,13.1,London Spirit,DW Lawrence,EJG Morgan,Mohammad Hasnain,1,2,,2,,,,"",""
+ball,1,13.2,London Spirit,EJG Morgan,DW Lawrence,Mohammad Hasnain,0,0,,,,,,"",""
+ball,1,13.3,London Spirit,EJG Morgan,DW Lawrence,Mohammad Hasnain,4,0,,,,,,"",""
+ball,1,13.4,London Spirit,EJG Morgan,DW Lawrence,Mohammad Hasnain,0,2,,2,,,,"",""
+ball,1,13.5,London Spirit,EJG Morgan,DW Lawrence,Mohammad Hasnain,6,0,,,,,,"",""
+ball,1,13.6,London Spirit,EJG Morgan,DW Lawrence,Mohammad Hasnain,6,0,,,,,,"",""
+ball,1,13.7,London Spirit,EJG Morgan,DW Lawrence,Mohammad Hasnain,0,1,1,,,,,"",""
+ball,1,13.8,London Spirit,EJG Morgan,DW Lawrence,Mohammad Hasnain,1,0,,,,,,"",""
+ball,1,14.1,London Spirit,EJG Morgan,DW Lawrence,SP Narine,0,0,,,,,,"",""
+ball,1,14.2,London Spirit,EJG Morgan,DW Lawrence,SP Narine,4,0,,,,,,"",""
+ball,1,14.3,London Spirit,EJG Morgan,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,1,14.4,London Spirit,DW Lawrence,EJG Morgan,SP Narine,6,0,,,,,,"",""
+ball,1,14.5,London Spirit,DW Lawrence,EJG Morgan,SP Narine,0,0,,,,,,bowled,DW Lawrence
+ball,1,15.1,London Spirit,KA Pollard,EJG Morgan,RJW Topley,0,0,,,,,,"",""
+ball,1,15.2,London Spirit,KA Pollard,EJG Morgan,RJW Topley,0,0,,,,,,"",""
+ball,1,15.3,London Spirit,KA Pollard,EJG Morgan,RJW Topley,1,0,,,,,,"",""
+ball,1,15.4,London Spirit,EJG Morgan,KA Pollard,RJW Topley,1,0,,,,,,"",""
+ball,1,15.5,London Spirit,KA Pollard,EJG Morgan,RJW Topley,1,0,,,,,,"",""
+ball,1,16.1,London Spirit,KA Pollard,EJG Morgan,SM Curran,1,0,,,,,,"",""
+ball,1,16.2,London Spirit,EJG Morgan,KA Pollard,SM Curran,0,0,,,,,,"",""
+ball,1,16.3,London Spirit,EJG Morgan,KA Pollard,SM Curran,0,2,,2,,,,"",""
+ball,1,16.4,London Spirit,EJG Morgan,KA Pollard,SM Curran,4,0,,,,,,"",""
+ball,1,16.5,London Spirit,EJG Morgan,KA Pollard,SM Curran,1,2,,2,,,,"",""
+ball,1,16.6,London Spirit,KA Pollard,EJG Morgan,SM Curran,4,0,,,,,,"",""
+ball,1,16.7,London Spirit,KA Pollard,EJG Morgan,SM Curran,1,0,,,,,,"",""
+ball,1,17.1,London Spirit,EJG Morgan,KA Pollard,RJW Topley,1,0,,,,,,"",""
+ball,1,17.2,London Spirit,KA Pollard,EJG Morgan,RJW Topley,1,0,,,,,,"",""
+ball,1,17.3,London Spirit,EJG Morgan,KA Pollard,RJW Topley,0,0,,,,,,caught,EJG Morgan
+ball,1,17.4,London Spirit,JA Thompson,KA Pollard,RJW Topley,1,0,,,,,,"",""
+ball,1,17.5,London Spirit,KA Pollard,JA Thompson,RJW Topley,1,0,,,,,,"",""
+ball,1,18.1,London Spirit,KA Pollard,JA Thompson,TK Curran,1,0,,,,,,"",""
+ball,1,18.2,London Spirit,JA Thompson,KA Pollard,TK Curran,0,0,,,,,,"",""
+ball,1,18.3,London Spirit,JA Thompson,KA Pollard,TK Curran,0,1,1,,,,,"",""
+ball,1,18.4,London Spirit,JA Thompson,KA Pollard,TK Curran,6,0,,,,,,"",""
+ball,1,18.5,London Spirit,JA Thompson,KA Pollard,TK Curran,0,0,,,,,,"",""
+ball,1,18.6,London Spirit,JA Thompson,KA Pollard,TK Curran,1,2,,2,,,,"",""
+ball,1,18.7,London Spirit,KA Pollard,JA Thompson,TK Curran,6,0,,,,,,"",""
+ball,1,19.1,London Spirit,KA Pollard,JA Thompson,SM Curran,1,0,,,,,,"",""
+ball,1,19.2,London Spirit,JA Thompson,KA Pollard,SM Curran,1,0,,,,,,"",""
+ball,1,19.3,London Spirit,KA Pollard,JA Thompson,SM Curran,1,0,,,,,,"",""
+ball,1,19.4,London Spirit,JA Thompson,KA Pollard,SM Curran,0,0,,,,,,caught,JA Thompson
+ball,1,19.5,London Spirit,LA Dawson,KA Pollard,SM Curran,2,0,,,,,,"",""
+ball,2,0.1,Oval Invincibles,JJ Roy,WG Jacks,NT Ellis,0,0,,,,,,caught,JJ Roy
+ball,2,0.2,Oval Invincibles,SM Curran,WG Jacks,NT Ellis,1,0,,,,,,"",""
+ball,2,0.3,Oval Invincibles,WG Jacks,SM Curran,NT Ellis,1,0,,,,,,"",""
+ball,2,0.4,Oval Invincibles,SM Curran,WG Jacks,NT Ellis,0,0,,,,,,"",""
+ball,2,0.5,Oval Invincibles,SM Curran,WG Jacks,NT Ellis,0,0,,,,,,"",""
+ball,2,1.1,Oval Invincibles,SM Curran,WG Jacks,CP Wood,4,0,,,,,,"",""
+ball,2,1.2,Oval Invincibles,SM Curran,WG Jacks,CP Wood,1,0,,,,,,"",""
+ball,2,1.3,Oval Invincibles,WG Jacks,SM Curran,CP Wood,0,0,,,,,,"",""
+ball,2,1.4,Oval Invincibles,WG Jacks,SM Curran,CP Wood,0,0,,,,,,"",""
+ball,2,1.5,Oval Invincibles,WG Jacks,SM Curran,CP Wood,0,0,,,,,,"",""
+ball,2,2.1,Oval Invincibles,SM Curran,WG Jacks,JA Thompson,0,1,1,,,,,"",""
+ball,2,2.2,Oval Invincibles,SM Curran,WG Jacks,JA Thompson,2,0,,,,,,"",""
+ball,2,2.3,Oval Invincibles,SM Curran,WG Jacks,JA Thompson,0,0,,,,,,caught,SM Curran
+ball,2,2.4,Oval Invincibles,SW Billings,WG Jacks,JA Thompson,1,0,,,,,,"",""
+ball,2,2.5,Oval Invincibles,WG Jacks,SW Billings,JA Thompson,0,0,,,,,,caught,WG Jacks
+ball,2,2.6,Oval Invincibles,JM Cox,SW Billings,JA Thompson,0,0,,,,,,"",""
+ball,2,3.1,Oval Invincibles,JM Cox,SW Billings,NT Ellis,1,0,,,,,,"",""
+ball,2,3.2,Oval Invincibles,SW Billings,JM Cox,NT Ellis,0,0,,,,,,caught,SW Billings
+ball,2,3.3,Oval Invincibles,HWR Cartwright,JM Cox,NT Ellis,4,0,,,,,,"",""
+ball,2,3.4,Oval Invincibles,HWR Cartwright,JM Cox,NT Ellis,0,0,,,,,,"",""
+ball,2,3.5,Oval Invincibles,HWR Cartwright,JM Cox,NT Ellis,1,0,,,,,,"",""
+ball,2,4.1,Oval Invincibles,HWR Cartwright,JM Cox,CP Wood,1,0,,,,,,"",""
+ball,2,4.2,Oval Invincibles,JM Cox,HWR Cartwright,CP Wood,0,0,,,,,,"",""
+ball,2,4.3,Oval Invincibles,JM Cox,HWR Cartwright,CP Wood,1,0,,,,,,"",""
+ball,2,4.4,Oval Invincibles,HWR Cartwright,JM Cox,CP Wood,1,0,,,,,,"",""
+ball,2,4.5,Oval Invincibles,JM Cox,HWR Cartwright,CP Wood,0,0,,,,,,"",""
+ball,2,5.1,Oval Invincibles,JM Cox,HWR Cartwright,LA Dawson,0,0,,,,,,"",""
+ball,2,5.2,Oval Invincibles,JM Cox,HWR Cartwright,LA Dawson,1,0,,,,,,"",""
+ball,2,5.3,Oval Invincibles,HWR Cartwright,JM Cox,LA Dawson,1,0,,,,,,"",""
+ball,2,5.4,Oval Invincibles,JM Cox,HWR Cartwright,LA Dawson,0,0,,,,,,"",""
+ball,2,5.5,Oval Invincibles,JM Cox,HWR Cartwright,LA Dawson,1,0,,,,,,"",""
+ball,2,6.1,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,1,0,,,,,,"",""
+ball,2,6.2,Oval Invincibles,HWR Cartwright,JM Cox,MS Crane,1,0,,,,,,"",""
+ball,2,6.3,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,2,0,,,,,,"",""
+ball,2,6.4,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,0,1,1,,,,,"",""
+ball,2,6.5,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,0,0,,,,,,"",""
+ball,2,6.6,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,4,0,,,,,,"",""
+ball,2,7.1,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,4,0,,,,,,"",""
+ball,2,7.2,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,1,0,,,,,,"",""
+ball,2,7.3,Oval Invincibles,HWR Cartwright,JM Cox,MS Crane,1,0,,,,,,"",""
+ball,2,7.4,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,1,0,,,,,,"",""
+ball,2,7.5,Oval Invincibles,HWR Cartwright,JM Cox,MS Crane,1,0,,,,,,"",""
+ball,2,8.1,Oval Invincibles,HWR Cartwright,JM Cox,LA Dawson,1,0,,,,,,"",""
+ball,2,8.2,Oval Invincibles,JM Cox,HWR Cartwright,LA Dawson,1,0,,,,,,"",""
+ball,2,8.3,Oval Invincibles,HWR Cartwright,JM Cox,LA Dawson,1,0,,,,,,"",""
+ball,2,8.4,Oval Invincibles,JM Cox,HWR Cartwright,LA Dawson,1,0,,,,,,"",""
+ball,2,8.5,Oval Invincibles,HWR Cartwright,JM Cox,LA Dawson,2,0,,,,,,"",""
+ball,2,9.1,Oval Invincibles,HWR Cartwright,JM Cox,LA Dawson,1,0,,,,,,"",""
+ball,2,9.2,Oval Invincibles,JM Cox,HWR Cartwright,LA Dawson,1,0,,,,,,"",""
+ball,2,9.3,Oval Invincibles,HWR Cartwright,JM Cox,LA Dawson,2,0,,,,,,"",""
+ball,2,9.4,Oval Invincibles,HWR Cartwright,JM Cox,LA Dawson,1,0,,,,,,"",""
+ball,2,9.5,Oval Invincibles,JM Cox,HWR Cartwright,LA Dawson,1,0,,,,,,"",""
+ball,2,10.1,Oval Invincibles,JM Cox,HWR Cartwright,JA Thompson,0,0,,,,,,"",""
+ball,2,10.2,Oval Invincibles,JM Cox,HWR Cartwright,JA Thompson,0,0,,,,,,"",""
+ball,2,10.3,Oval Invincibles,JM Cox,HWR Cartwright,JA Thompson,1,0,,,,,,"",""
+ball,2,10.4,Oval Invincibles,HWR Cartwright,JM Cox,JA Thompson,1,0,,,,,,"",""
+ball,2,10.5,Oval Invincibles,JM Cox,HWR Cartwright,JA Thompson,1,0,,,,,,"",""
+ball,2,11.1,Oval Invincibles,HWR Cartwright,JM Cox,CP Wood,0,0,,,,,,"",""
+ball,2,11.2,Oval Invincibles,HWR Cartwright,JM Cox,CP Wood,2,0,,,,,,"",""
+ball,2,11.3,Oval Invincibles,HWR Cartwright,JM Cox,CP Wood,4,0,,,,,,"",""
+ball,2,11.4,Oval Invincibles,HWR Cartwright,JM Cox,CP Wood,6,0,,,,,,"",""
+ball,2,11.5,Oval Invincibles,HWR Cartwright,JM Cox,CP Wood,4,0,,,,,,"",""
+ball,2,12.1,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,4,0,,,,,,"",""
+ball,2,12.2,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,4,0,,,,,,"",""
+ball,2,12.3,Oval Invincibles,JM Cox,HWR Cartwright,MS Crane,1,0,,,,,,"",""
+ball,2,12.4,Oval Invincibles,HWR Cartwright,JM Cox,MS Crane,6,0,,,,,,"",""
+ball,2,12.5,Oval Invincibles,HWR Cartwright,JM Cox,MS Crane,0,0,,,,,,caught,HWR Cartwright
+ball,2,13.1,Oval Invincibles,TK Curran,JM Cox,MS Crane,0,0,,,,,,"",""
+ball,2,13.2,Oval Invincibles,TK Curran,JM Cox,MS Crane,2,0,,,,,,"",""
+ball,2,13.3,Oval Invincibles,TK Curran,JM Cox,MS Crane,0,0,,,,,,"",""
+ball,2,13.4,Oval Invincibles,TK Curran,JM Cox,MS Crane,1,0,,,,,,"",""
+ball,2,13.5,Oval Invincibles,JM Cox,TK Curran,MS Crane,6,0,,,,,,"",""
+ball,2,14.1,Oval Invincibles,TK Curran,JM Cox,JA Thompson,6,0,,,,,,"",""
+ball,2,14.2,Oval Invincibles,TK Curran,JM Cox,JA Thompson,4,0,,,,,,"",""
+ball,2,14.3,Oval Invincibles,TK Curran,JM Cox,JA Thompson,0,0,,,,,,"",""
+ball,2,14.4,Oval Invincibles,TK Curran,JM Cox,JA Thompson,2,0,,,,,,"",""
+ball,2,14.5,Oval Invincibles,TK Curran,JM Cox,JA Thompson,0,0,,,,,,"",""
+ball,2,15.1,Oval Invincibles,TK Curran,JM Cox,NT Ellis,1,0,,,,,,"",""
+ball,2,15.2,Oval Invincibles,JM Cox,TK Curran,NT Ellis,1,0,,,,,,"",""
+ball,2,15.3,Oval Invincibles,TK Curran,JM Cox,NT Ellis,6,0,,,,,,"",""
+ball,2,15.4,Oval Invincibles,TK Curran,JM Cox,NT Ellis,1,0,,,,,,"",""
+ball,2,15.5,Oval Invincibles,JM Cox,TK Curran,NT Ellis,0,0,,,,,,bowled,JM Cox
+ball,2,16.1,Oval Invincibles,TK Curran,SP Narine,LA Dawson,0,1,,,,1,,"",""
+ball,2,16.2,Oval Invincibles,SP Narine,TK Curran,LA Dawson,0,1,,,,1,,"",""
+ball,2,16.3,Oval Invincibles,TK Curran,SP Narine,LA Dawson,4,0,,,,,,"",""
+ball,2,16.4,Oval Invincibles,TK Curran,SP Narine,LA Dawson,0,1,1,,,,,"",""
+ball,2,16.5,Oval Invincibles,TK Curran,SP Narine,LA Dawson,0,0,,,,,,caught,TK Curran
+ball,2,16.6,Oval Invincibles,DR Briggs,SP Narine,LA Dawson,1,0,,,,,,"",""
+ball,2,17.1,Oval Invincibles,SP Narine,DR Briggs,NT Ellis,0,0,,,,,,"",""
+ball,2,17.2,Oval Invincibles,SP Narine,DR Briggs,NT Ellis,1,0,,,,,,"",""
+ball,2,17.3,Oval Invincibles,DR Briggs,SP Narine,NT Ellis,4,0,,,,,,"",""
+ball,2,17.4,Oval Invincibles,DR Briggs,SP Narine,NT Ellis,6,0,,,,,,"",""
+ball,2,17.5,Oval Invincibles,DR Briggs,SP Narine,NT Ellis,0,0,,,,,,"",""
+ball,2,18.1,Oval Invincibles,SP Narine,DR Briggs,CP Wood,1,2,,2,,,,"",""
+ball,2,18.2,Oval Invincibles,DR Briggs,SP Narine,CP Wood,0,1,1,,,,,"",""
+ball,2,18.3,Oval Invincibles,DR Briggs,SP Narine,CP Wood,1,0,,,,,,"",""
+ball,2,18.4,Oval Invincibles,SP Narine,DR Briggs,CP Wood,6,0,,,,,,"",""
+ball,2,18.5,Oval Invincibles,SP Narine,DR Briggs,CP Wood,0,1,1,,,,,"",""
+ball,2,18.6,Oval Invincibles,SP Narine,DR Briggs,CP Wood,0,1,1,,,,,"",""
+ball,2,18.7,Oval Invincibles,SP Narine,DR Briggs,CP Wood,1,0,,,,,,"",""
+ball,2,18.8,Oval Invincibles,DR Briggs,SP Narine,CP Wood,2,0,,,,,,"",""
+ball,2,18.9,Oval Invincibles,DR Briggs,SP Narine,CP Wood,4,0,,,,,,"",""
+ball,2,19.1,Oval Invincibles,DR Briggs,SP Narine,JA Thompson,4,0,,,,,,"",""
+ball,2,19.2,Oval Invincibles,DR Briggs,SP Narine,JA Thompson,4,0,,,,,,"",""
+ball,2,19.3,Oval Invincibles,DR Briggs,SP Narine,JA Thompson,2,0,,,,,,"",""
+ball,2,19.4,Oval Invincibles,DR Briggs,SP Narine,JA Thompson,1,0,,,,,,"",""
+ball,2,19.5,Oval Invincibles,SP Narine,DR Briggs,JA Thompson,0,1,1,,,,,"",""
+ball,2,19.6,Oval Invincibles,SP Narine,DR Briggs,JA Thompson,0,1,,,,1,,"",""

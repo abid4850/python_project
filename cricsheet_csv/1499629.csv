@@ -1,0 +1,304 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Central Districts
+info,team,Wellington
+info,gender,male
+info,season,2025/26
+info,date,2025/12/27
+info,event,Super Smash
+info,match_number,2
+info,venue,"Fitzherbert Park, Palmerston North"
+info,city,Palmerston North
+info,toss_winner,Wellington
+info,toss_decision,field
+info,umpire,Kim Cotton
+info,umpire,V Mahna
+info,reserve_umpire,SR Oliver
+info,tv_umpire,JM Dempsey
+info,match_referee,K Pulley
+info,winner,Central Districts
+info,winner_runs,46
+info,player,Central Districts,WA Young
+info,player,Central Districts,CG Heaphy
+info,player,Central Districts,D Cleaver
+info,player,Central Districts,D Foxcroft
+info,player,Central Districts,JA Clarkson
+info,player,Central Districts,W Clark
+info,player,Central Districts,AR Schaw
+info,player,Central Districts,BG Randell
+info,player,Central Districts,JR Lennox
+info,player,Central Districts,AY Patel
+info,player,Central Districts,RL Toole
+info,player,Wellington,TB Robinson
+info,player,Wellington,TA Blundell
+info,player,Wellington,NF Kelly
+info,player,Wellington,MA Abbas
+info,player,Wellington,JM Tashkoff
+info,player,Wellington,GR Severin
+info,player,Wellington,LV van Beek
+info,player,Wellington,PF Younghusband
+info,player,Wellington,BV Sears
+info,player,Wellington,MW Snedden
+info,player,Wellington,Yahya Zeb
+info,registry,people,AR Schaw,118e6f66
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BV Sears,e1891e00
+info,registry,people,CG Heaphy,fcbd6eb8
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,GR Severin,b1549dc0
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JM Tashkoff,afe7d695
+info,registry,people,JR Lennox,07793daf
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,SR Oliver,d3713ba5
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TB Robinson,5d664346
+info,registry,people,V Mahna,5dcdc811
+info,registry,people,W Clark,4f78497c
+info,registry,people,WA Young,8afe73e2
+info,registry,people,Yahya Zeb,b0160f4e
+ball,1,0.1,Central Districts,WA Young,CG Heaphy,LV van Beek,4,0,,,,,,"",""
+ball,1,0.2,Central Districts,WA Young,CG Heaphy,LV van Beek,4,0,,,,,,"",""
+ball,1,0.3,Central Districts,WA Young,CG Heaphy,LV van Beek,0,0,,,,,,"",""
+ball,1,0.4,Central Districts,WA Young,CG Heaphy,LV van Beek,1,0,,,,,,"",""
+ball,1,0.5,Central Districts,CG Heaphy,WA Young,LV van Beek,0,0,,,,,,"",""
+ball,1,0.6,Central Districts,CG Heaphy,WA Young,LV van Beek,4,0,,,,,,"",""
+ball,1,1.1,Central Districts,WA Young,CG Heaphy,JM Tashkoff,1,0,,,,,,"",""
+ball,1,1.2,Central Districts,CG Heaphy,WA Young,JM Tashkoff,1,0,,,,,,"",""
+ball,1,1.3,Central Districts,WA Young,CG Heaphy,JM Tashkoff,4,0,,,,,,"",""
+ball,1,1.4,Central Districts,WA Young,CG Heaphy,JM Tashkoff,4,0,,,,,,"",""
+ball,1,1.5,Central Districts,WA Young,CG Heaphy,JM Tashkoff,0,0,,,,,,"",""
+ball,1,1.6,Central Districts,WA Young,CG Heaphy,JM Tashkoff,0,1,1,,,,,"",""
+ball,1,1.7,Central Districts,WA Young,CG Heaphy,JM Tashkoff,1,0,,,,,,"",""
+ball,1,2.1,Central Districts,WA Young,CG Heaphy,BV Sears,0,0,,,,,,"",""
+ball,1,2.2,Central Districts,WA Young,CG Heaphy,BV Sears,0,0,,,,,,"",""
+ball,1,2.3,Central Districts,WA Young,CG Heaphy,BV Sears,4,0,,,,,,"",""
+ball,1,2.4,Central Districts,WA Young,CG Heaphy,BV Sears,0,1,1,,,,,"",""
+ball,1,2.5,Central Districts,WA Young,CG Heaphy,BV Sears,0,0,,,,,,bowled,WA Young
+ball,1,2.6,Central Districts,D Cleaver,CG Heaphy,BV Sears,0,0,,,,,,"",""
+ball,1,2.7,Central Districts,D Cleaver,CG Heaphy,BV Sears,4,0,,,,,,"",""
+ball,1,3.1,Central Districts,CG Heaphy,D Cleaver,LV van Beek,0,0,,,,,,"",""
+ball,1,3.2,Central Districts,CG Heaphy,D Cleaver,LV van Beek,1,0,,,,,,"",""
+ball,1,3.3,Central Districts,D Cleaver,CG Heaphy,LV van Beek,0,0,,,,,,"",""
+ball,1,3.4,Central Districts,D Cleaver,CG Heaphy,LV van Beek,1,0,,,,,,"",""
+ball,1,3.5,Central Districts,CG Heaphy,D Cleaver,LV van Beek,1,0,,,,,,"",""
+ball,1,3.6,Central Districts,D Cleaver,CG Heaphy,LV van Beek,1,0,,,,,,"",""
+ball,1,4.1,Central Districts,D Cleaver,CG Heaphy,BV Sears,0,0,,,,,,"",""
+ball,1,4.2,Central Districts,D Cleaver,CG Heaphy,BV Sears,4,0,,,,,,"",""
+ball,1,4.3,Central Districts,D Cleaver,CG Heaphy,BV Sears,6,0,,,,,,"",""
+ball,1,4.4,Central Districts,D Cleaver,CG Heaphy,BV Sears,1,0,,,,,,"",""
+ball,1,4.5,Central Districts,CG Heaphy,D Cleaver,BV Sears,1,0,,,,,,"",""
+ball,1,4.6,Central Districts,D Cleaver,CG Heaphy,BV Sears,1,0,,,,,,"",""
+ball,1,5.1,Central Districts,D Cleaver,CG Heaphy,MW Snedden,4,0,,,,,,"",""
+ball,1,5.2,Central Districts,D Cleaver,CG Heaphy,MW Snedden,4,0,,,,,,"",""
+ball,1,5.3,Central Districts,D Cleaver,CG Heaphy,MW Snedden,1,0,,,,,,"",""
+ball,1,5.4,Central Districts,CG Heaphy,D Cleaver,MW Snedden,0,0,,,,,,caught,CG Heaphy
+ball,1,5.5,Central Districts,D Foxcroft,D Cleaver,MW Snedden,1,0,,,,,,"",""
+ball,1,5.6,Central Districts,D Cleaver,D Foxcroft,MW Snedden,0,1,1,,,,,"",""
+ball,1,5.7,Central Districts,D Cleaver,D Foxcroft,MW Snedden,0,0,,,,,,"",""
+ball,1,6.1,Central Districts,D Foxcroft,D Cleaver,Yahya Zeb,2,0,,,,,,"",""
+ball,1,6.2,Central Districts,D Foxcroft,D Cleaver,Yahya Zeb,6,0,,,,,,"",""
+ball,1,6.3,Central Districts,D Foxcroft,D Cleaver,Yahya Zeb,0,0,,,,,,"",""
+ball,1,6.4,Central Districts,D Foxcroft,D Cleaver,Yahya Zeb,0,0,,,,,,caught,D Foxcroft
+ball,1,6.5,Central Districts,JA Clarkson,D Cleaver,Yahya Zeb,0,0,,,,,,"",""
+ball,1,6.6,Central Districts,JA Clarkson,D Cleaver,Yahya Zeb,1,0,,,,,,"",""
+ball,1,7.1,Central Districts,JA Clarkson,D Cleaver,PF Younghusband,1,0,,,,,,"",""
+ball,1,7.2,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,0,0,,,,,,"",""
+ball,1,7.3,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,1,0,,,,,,"",""
+ball,1,7.4,Central Districts,JA Clarkson,D Cleaver,PF Younghusband,1,0,,,,,,"",""
+ball,1,7.5,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,1,0,,,,,,"",""
+ball,1,7.6,Central Districts,JA Clarkson,D Cleaver,PF Younghusband,1,0,,,,,,"",""
+ball,1,8.1,Central Districts,JA Clarkson,D Cleaver,JM Tashkoff,1,0,,,,,,"",""
+ball,1,8.2,Central Districts,D Cleaver,JA Clarkson,JM Tashkoff,4,0,,,,,,"",""
+ball,1,8.3,Central Districts,D Cleaver,JA Clarkson,JM Tashkoff,1,0,,,,,,"",""
+ball,1,8.4,Central Districts,JA Clarkson,D Cleaver,JM Tashkoff,1,0,,,,,,"",""
+ball,1,8.5,Central Districts,D Cleaver,JA Clarkson,JM Tashkoff,4,0,,,,,,"",""
+ball,1,8.6,Central Districts,D Cleaver,JA Clarkson,JM Tashkoff,1,0,,,,,,"",""
+ball,1,9.1,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,0,0,,,,,,"",""
+ball,1,9.2,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,0,1,,,,1,,"",""
+ball,1,9.3,Central Districts,JA Clarkson,D Cleaver,PF Younghusband,0,0,,,,,,"",""
+ball,1,9.4,Central Districts,JA Clarkson,D Cleaver,PF Younghusband,0,0,,,,,,"",""
+ball,1,9.5,Central Districts,JA Clarkson,D Cleaver,PF Younghusband,1,0,,,,,,"",""
+ball,1,9.6,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,1,0,,,,,,"",""
+ball,1,10.1,Central Districts,D Cleaver,JA Clarkson,Yahya Zeb,1,0,,,,,,"",""
+ball,1,10.2,Central Districts,JA Clarkson,D Cleaver,Yahya Zeb,6,0,,,,,,"",""
+ball,1,10.3,Central Districts,JA Clarkson,D Cleaver,Yahya Zeb,6,0,,,,,,"",""
+ball,1,10.4,Central Districts,JA Clarkson,D Cleaver,Yahya Zeb,1,0,,,,,,"",""
+ball,1,10.5,Central Districts,D Cleaver,JA Clarkson,Yahya Zeb,0,1,,,,1,,"",""
+ball,1,10.6,Central Districts,JA Clarkson,D Cleaver,Yahya Zeb,0,0,,,,,,"",""
+ball,1,11.1,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,4,0,,,,,,"",""
+ball,1,11.2,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,2,0,,,,,,"",""
+ball,1,11.3,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,2,0,,,,,,"",""
+ball,1,11.4,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,1,0,,,,,,"",""
+ball,1,11.5,Central Districts,JA Clarkson,D Cleaver,PF Younghusband,1,0,,,,,,"",""
+ball,1,11.6,Central Districts,D Cleaver,JA Clarkson,PF Younghusband,0,0,,,,,,"",""
+ball,1,12.1,Central Districts,JA Clarkson,D Cleaver,MW Snedden,0,0,,,,,,caught,JA Clarkson
+ball,1,12.2,Central Districts,W Clark,D Cleaver,MW Snedden,0,1,,,,1,,"",""
+ball,1,12.3,Central Districts,D Cleaver,W Clark,MW Snedden,1,0,,,,,,"",""
+ball,1,12.4,Central Districts,W Clark,D Cleaver,MW Snedden,1,0,,,,,,"",""
+ball,1,12.5,Central Districts,D Cleaver,W Clark,MW Snedden,4,0,,,,,,"",""
+ball,1,12.6,Central Districts,D Cleaver,W Clark,MW Snedden,0,1,1,,,,,"",""
+ball,1,12.7,Central Districts,D Cleaver,W Clark,MW Snedden,0,0,,,,,,"",""
+ball,1,13.1,Central Districts,W Clark,D Cleaver,BV Sears,0,0,,,,,,"",""
+ball,1,13.2,Central Districts,W Clark,D Cleaver,BV Sears,0,0,,,,,,caught,W Clark
+ball,1,13.3,Central Districts,AR Schaw,D Cleaver,BV Sears,1,0,,,,,,"",""
+ball,1,13.4,Central Districts,D Cleaver,AR Schaw,BV Sears,0,0,,,,,,"",""
+ball,1,13.5,Central Districts,D Cleaver,AR Schaw,BV Sears,0,0,,,,,,"",""
+ball,1,13.6,Central Districts,D Cleaver,AR Schaw,BV Sears,4,0,,,,,,"",""
+ball,1,14.1,Central Districts,AR Schaw,D Cleaver,MW Snedden,1,0,,,,,,"",""
+ball,1,14.2,Central Districts,D Cleaver,AR Schaw,MW Snedden,6,0,,,,,,"",""
+ball,1,14.3,Central Districts,D Cleaver,AR Schaw,MW Snedden,1,0,,,,,,"",""
+ball,1,14.4,Central Districts,AR Schaw,D Cleaver,MW Snedden,4,0,,,,,,"",""
+ball,1,14.5,Central Districts,AR Schaw,D Cleaver,MW Snedden,0,0,,,,,,"",""
+ball,1,14.6,Central Districts,AR Schaw,D Cleaver,MW Snedden,0,1,,,,1,,"",""
+ball,1,15.1,Central Districts,AR Schaw,D Cleaver,PF Younghusband,0,0,,,,,,"",""
+ball,1,15.2,Central Districts,AR Schaw,D Cleaver,PF Younghusband,1,0,,,,,,"",""
+ball,1,15.3,Central Districts,D Cleaver,AR Schaw,PF Younghusband,6,0,,,,,,"",""
+ball,1,15.4,Central Districts,D Cleaver,AR Schaw,PF Younghusband,0,1,,,,1,,"",""
+ball,1,15.5,Central Districts,AR Schaw,D Cleaver,PF Younghusband,0,0,,,,,,"",""
+ball,1,15.6,Central Districts,AR Schaw,D Cleaver,PF Younghusband,1,0,,,,,,"",""
+ball,1,16.1,Central Districts,AR Schaw,D Cleaver,LV van Beek,0,0,,,,,,bowled,AR Schaw
+ball,1,16.2,Central Districts,BG Randell,D Cleaver,LV van Beek,0,0,,,,,,"",""
+ball,1,16.3,Central Districts,BG Randell,D Cleaver,LV van Beek,0,0,,,,,,"",""
+ball,1,16.4,Central Districts,BG Randell,D Cleaver,LV van Beek,0,0,,,,,,"",""
+ball,1,16.5,Central Districts,BG Randell,D Cleaver,LV van Beek,0,0,,,,,,"",""
+ball,1,16.6,Central Districts,BG Randell,D Cleaver,LV van Beek,4,0,,,,,,"",""
+ball,1,17.1,Central Districts,D Cleaver,BG Randell,MW Snedden,1,0,,,,,,"",""
+ball,1,17.2,Central Districts,BG Randell,D Cleaver,MW Snedden,4,0,,,,,,"",""
+ball,1,17.3,Central Districts,BG Randell,D Cleaver,MW Snedden,1,0,,,,,,"",""
+ball,1,17.4,Central Districts,D Cleaver,BG Randell,MW Snedden,1,0,,,,,,"",""
+ball,1,17.5,Central Districts,BG Randell,D Cleaver,MW Snedden,0,0,,,,,,"",""
+ball,1,17.6,Central Districts,BG Randell,D Cleaver,MW Snedden,0,2,2,,,,,"",""
+ball,1,17.7,Central Districts,D Cleaver,BG Randell,MW Snedden,6,0,,,,,,"",""
+ball,1,18.1,Central Districts,BG Randell,D Cleaver,LV van Beek,1,0,,,,,,"",""
+ball,1,18.2,Central Districts,D Cleaver,BG Randell,LV van Beek,4,0,,,,,,"",""
+ball,1,18.3,Central Districts,D Cleaver,BG Randell,LV van Beek,1,0,,,,,,"",""
+ball,1,18.4,Central Districts,BG Randell,D Cleaver,LV van Beek,1,0,,,,,,"",""
+ball,1,18.5,Central Districts,D Cleaver,BG Randell,LV van Beek,0,0,,,,,,"",""
+ball,1,18.6,Central Districts,D Cleaver,BG Randell,LV van Beek,4,0,,,,,,"",""
+ball,1,19.1,Central Districts,BG Randell,D Cleaver,BV Sears,1,0,,,,,,"",""
+ball,1,19.2,Central Districts,D Cleaver,BG Randell,BV Sears,0,0,,,,,,"",""
+ball,1,19.3,Central Districts,D Cleaver,BG Randell,BV Sears,0,0,,,,,,"",""
+ball,1,19.4,Central Districts,D Cleaver,BG Randell,BV Sears,2,0,,,,,,"",""
+ball,1,19.5,Central Districts,D Cleaver,BG Randell,BV Sears,4,0,,,,,,"",""
+ball,1,19.6,Central Districts,D Cleaver,BG Randell,BV Sears,0,0,,,,,,caught,D Cleaver
+ball,2,0.1,Wellington,TB Robinson,TA Blundell,BG Randell,4,0,,,,,,"",""
+ball,2,0.2,Wellington,TB Robinson,TA Blundell,BG Randell,0,0,,,,,,"",""
+ball,2,0.3,Wellington,TB Robinson,TA Blundell,BG Randell,0,0,,,,,,caught,TB Robinson
+ball,2,0.4,Wellington,NF Kelly,TA Blundell,BG Randell,0,0,,,,,,"",""
+ball,2,0.5,Wellington,NF Kelly,TA Blundell,BG Randell,4,0,,,,,,"",""
+ball,2,0.6,Wellington,NF Kelly,TA Blundell,BG Randell,0,0,,,,,,"",""
+ball,2,1.1,Wellington,TA Blundell,NF Kelly,AR Schaw,1,0,,,,,,"",""
+ball,2,1.2,Wellington,NF Kelly,TA Blundell,AR Schaw,0,0,,,,,,"",""
+ball,2,1.3,Wellington,NF Kelly,TA Blundell,AR Schaw,0,0,,,,,,"",""
+ball,2,1.4,Wellington,NF Kelly,TA Blundell,AR Schaw,4,0,,,,,,"",""
+ball,2,1.5,Wellington,NF Kelly,TA Blundell,AR Schaw,0,0,,,,,,caught,NF Kelly
+ball,2,1.6,Wellington,MA Abbas,TA Blundell,AR Schaw,1,0,,,,,,"",""
+ball,2,2.1,Wellington,MA Abbas,TA Blundell,BG Randell,2,0,,,,,,"",""
+ball,2,2.2,Wellington,MA Abbas,TA Blundell,BG Randell,0,0,,,,,,"",""
+ball,2,2.3,Wellington,MA Abbas,TA Blundell,BG Randell,0,0,,,,,,"",""
+ball,2,2.4,Wellington,MA Abbas,TA Blundell,BG Randell,1,0,,,,,,"",""
+ball,2,2.5,Wellington,TA Blundell,MA Abbas,BG Randell,4,0,,,,,,"",""
+ball,2,2.6,Wellington,TA Blundell,MA Abbas,BG Randell,0,0,,,,,,"",""
+ball,2,3.1,Wellington,MA Abbas,TA Blundell,RL Toole,0,1,,,,1,,"",""
+ball,2,3.2,Wellington,TA Blundell,MA Abbas,RL Toole,0,0,,,,,,"",""
+ball,2,3.3,Wellington,TA Blundell,MA Abbas,RL Toole,1,0,,,,,,"",""
+ball,2,3.4,Wellington,MA Abbas,TA Blundell,RL Toole,6,0,,,,,,"",""
+ball,2,3.5,Wellington,MA Abbas,TA Blundell,RL Toole,1,0,,,,,,"",""
+ball,2,3.6,Wellington,TA Blundell,MA Abbas,RL Toole,1,0,,,,,,"",""
+ball,2,4.1,Wellington,TA Blundell,MA Abbas,BG Randell,4,0,,,,,,"",""
+ball,2,4.2,Wellington,TA Blundell,MA Abbas,BG Randell,6,0,,,,,,"",""
+ball,2,4.3,Wellington,TA Blundell,MA Abbas,BG Randell,4,0,,,,,,"",""
+ball,2,4.4,Wellington,TA Blundell,MA Abbas,BG Randell,0,0,,,,,,"",""
+ball,2,4.5,Wellington,TA Blundell,MA Abbas,BG Randell,0,0,,,,,,"",""
+ball,2,4.6,Wellington,TA Blundell,MA Abbas,BG Randell,4,0,,,,,,"",""
+ball,2,5.1,Wellington,MA Abbas,TA Blundell,JR Lennox,4,0,,,,,,"",""
+ball,2,5.2,Wellington,MA Abbas,TA Blundell,JR Lennox,0,0,,,,,,"",""
+ball,2,5.3,Wellington,MA Abbas,TA Blundell,JR Lennox,4,0,,,,,,"",""
+ball,2,5.4,Wellington,MA Abbas,TA Blundell,JR Lennox,1,0,,,,,,"",""
+ball,2,5.5,Wellington,TA Blundell,MA Abbas,JR Lennox,0,0,,,,,,"",""
+ball,2,5.6,Wellington,TA Blundell,MA Abbas,JR Lennox,0,0,,,,,,"",""
+ball,2,6.1,Wellington,MA Abbas,TA Blundell,AY Patel,1,0,,,,,,"",""
+ball,2,6.2,Wellington,TA Blundell,MA Abbas,AY Patel,1,0,,,,,,"",""
+ball,2,6.3,Wellington,MA Abbas,TA Blundell,AY Patel,1,0,,,,,,"",""
+ball,2,6.4,Wellington,TA Blundell,MA Abbas,AY Patel,1,0,,,,,,"",""
+ball,2,6.5,Wellington,MA Abbas,TA Blundell,AY Patel,0,1,1,,,,,"",""
+ball,2,6.6,Wellington,MA Abbas,TA Blundell,AY Patel,1,0,,,,,,"",""
+ball,2,6.7,Wellington,TA Blundell,MA Abbas,AY Patel,4,0,,,,,,"",""
+ball,2,7.1,Wellington,MA Abbas,TA Blundell,JA Clarkson,0,1,1,,,,,"",""
+ball,2,7.2,Wellington,MA Abbas,TA Blundell,JA Clarkson,1,0,,,,,,"",""
+ball,2,7.3,Wellington,TA Blundell,MA Abbas,JA Clarkson,6,0,,,,,,"",""
+ball,2,7.4,Wellington,TA Blundell,MA Abbas,JA Clarkson,1,0,,,,,,"",""
+ball,2,7.5,Wellington,MA Abbas,TA Blundell,JA Clarkson,6,0,,,,,,"",""
+ball,2,7.6,Wellington,MA Abbas,TA Blundell,JA Clarkson,2,0,,,,,,"",""
+ball,2,7.7,Wellington,MA Abbas,TA Blundell,JA Clarkson,1,0,,,,,,"",""
+ball,2,8.1,Wellington,MA Abbas,TA Blundell,AY Patel,0,0,,,,,,"",""
+ball,2,8.2,Wellington,MA Abbas,TA Blundell,AY Patel,1,0,,,,,,"",""
+ball,2,8.3,Wellington,TA Blundell,MA Abbas,AY Patel,1,0,,,,,,"",""
+ball,2,8.4,Wellington,MA Abbas,TA Blundell,AY Patel,2,0,,,,,,"",""
+ball,2,8.5,Wellington,MA Abbas,TA Blundell,AY Patel,0,0,,,,,,bowled,MA Abbas
+ball,2,8.6,Wellington,JM Tashkoff,TA Blundell,AY Patel,1,0,,,,,,"",""
+ball,2,9.1,Wellington,JM Tashkoff,TA Blundell,D Foxcroft,1,0,,,,,,"",""
+ball,2,9.2,Wellington,TA Blundell,JM Tashkoff,D Foxcroft,1,0,,,,,,"",""
+ball,2,9.3,Wellington,JM Tashkoff,TA Blundell,D Foxcroft,2,0,,,,,,"",""
+ball,2,9.4,Wellington,JM Tashkoff,TA Blundell,D Foxcroft,2,0,,,,,,"",""
+ball,2,9.5,Wellington,JM Tashkoff,TA Blundell,D Foxcroft,0,0,,,,,,"",""
+ball,2,9.6,Wellington,JM Tashkoff,TA Blundell,D Foxcroft,1,0,,,,,,"",""
+ball,2,10.1,Wellington,JM Tashkoff,TA Blundell,JR Lennox,1,0,,,,,,"",""
+ball,2,10.2,Wellington,TA Blundell,JM Tashkoff,JR Lennox,0,0,,,,,,"",""
+ball,2,10.3,Wellington,TA Blundell,JM Tashkoff,JR Lennox,6,0,,,,,,"",""
+ball,2,10.4,Wellington,TA Blundell,JM Tashkoff,JR Lennox,1,0,,,,,,"",""
+ball,2,10.5,Wellington,JM Tashkoff,TA Blundell,JR Lennox,2,0,,,,,,"",""
+ball,2,10.6,Wellington,JM Tashkoff,TA Blundell,JR Lennox,0,0,,,,,,"",""
+ball,2,11.1,Wellington,TA Blundell,JM Tashkoff,AR Schaw,2,0,,,,,,"",""
+ball,2,11.2,Wellington,TA Blundell,JM Tashkoff,AR Schaw,2,0,,,,,,"",""
+ball,2,11.3,Wellington,TA Blundell,JM Tashkoff,AR Schaw,0,0,,,,,,"",""
+ball,2,11.4,Wellington,TA Blundell,JM Tashkoff,AR Schaw,0,0,,,,,,caught,TA Blundell
+ball,2,11.5,Wellington,GR Severin,JM Tashkoff,AR Schaw,0,0,,,,,,"",""
+ball,2,11.6,Wellington,GR Severin,JM Tashkoff,AR Schaw,1,0,,,,,,"",""
+ball,2,12.1,Wellington,GR Severin,JM Tashkoff,AY Patel,1,0,,,,,,"",""
+ball,2,12.2,Wellington,JM Tashkoff,GR Severin,AY Patel,1,0,,,,,,"",""
+ball,2,12.3,Wellington,GR Severin,JM Tashkoff,AY Patel,1,0,,,,,,"",""
+ball,2,12.4,Wellington,JM Tashkoff,GR Severin,AY Patel,0,0,,,,,,caught and bowled,JM Tashkoff
+ball,2,12.5,Wellington,LV van Beek,GR Severin,AY Patel,0,0,,,,,,lbw,LV van Beek
+ball,2,12.6,Wellington,PF Younghusband,GR Severin,AY Patel,1,0,,,,,,"",""
+ball,2,13.1,Wellington,PF Younghusband,GR Severin,AR Schaw,0,0,,,,,,"",""
+ball,2,13.2,Wellington,PF Younghusband,GR Severin,AR Schaw,0,1,,,1,,,"",""
+ball,2,13.3,Wellington,GR Severin,PF Younghusband,AR Schaw,1,0,,,,,,"",""
+ball,2,13.4,Wellington,PF Younghusband,GR Severin,AR Schaw,2,0,,,,,,"",""
+ball,2,13.5,Wellington,PF Younghusband,GR Severin,AR Schaw,0,0,,,,,,"",""
+ball,2,13.6,Wellington,PF Younghusband,GR Severin,AR Schaw,1,0,,,,,,"",""
+ball,2,14.1,Wellington,PF Younghusband,GR Severin,AY Patel,1,0,,,,,,"",""
+ball,2,14.2,Wellington,GR Severin,PF Younghusband,AY Patel,0,0,,,,,,"",""
+ball,2,14.3,Wellington,GR Severin,PF Younghusband,AY Patel,0,0,,,,,,caught,GR Severin
+ball,2,14.4,Wellington,BV Sears,PF Younghusband,AY Patel,0,0,,,,,,"",""
+ball,2,14.5,Wellington,BV Sears,PF Younghusband,AY Patel,1,0,,,,,,"",""
+ball,2,14.6,Wellington,PF Younghusband,BV Sears,AY Patel,0,0,,,,,,"",""
+ball,2,15.1,Wellington,BV Sears,PF Younghusband,AR Schaw,1,0,,,,,,"",""
+ball,2,15.2,Wellington,PF Younghusband,BV Sears,AR Schaw,1,0,,,,,,"",""
+ball,2,15.3,Wellington,BV Sears,PF Younghusband,AR Schaw,0,0,,,,,,bowled,BV Sears
+ball,2,15.4,Wellington,MW Snedden,PF Younghusband,AR Schaw,0,0,,,,,,"",""
+ball,2,15.5,Wellington,MW Snedden,PF Younghusband,AR Schaw,0,0,,,,,,"",""
+ball,2,15.6,Wellington,MW Snedden,PF Younghusband,AR Schaw,1,0,,,,,,"",""
+ball,2,16.1,Wellington,MW Snedden,PF Younghusband,RL Toole,1,0,,,,,,"",""
+ball,2,16.2,Wellington,PF Younghusband,MW Snedden,RL Toole,0,0,,,,,,"",""
+ball,2,16.3,Wellington,PF Younghusband,MW Snedden,RL Toole,1,0,,,,,,"",""
+ball,2,16.4,Wellington,MW Snedden,PF Younghusband,RL Toole,0,0,,,,,,caught,MW Snedden
+ball,2,16.5,Wellington,Yahya Zeb,PF Younghusband,RL Toole,4,0,,,,,,"",""
+ball,2,16.6,Wellington,Yahya Zeb,PF Younghusband,RL Toole,1,0,,,,,,"",""
+ball,2,17.1,Wellington,Yahya Zeb,PF Younghusband,JR Lennox,1,0,,,,,,"",""
+ball,2,17.2,Wellington,PF Younghusband,Yahya Zeb,JR Lennox,6,0,,,,,,"",""
+ball,2,17.3,Wellington,PF Younghusband,Yahya Zeb,JR Lennox,0,1,1,,,,,"",""
+ball,2,17.4,Wellington,PF Younghusband,Yahya Zeb,JR Lennox,0,0,,,,,,"",""
+ball,2,17.5,Wellington,PF Younghusband,Yahya Zeb,JR Lennox,0,0,,,,,,"",""
+ball,2,17.6,Wellington,PF Younghusband,Yahya Zeb,JR Lennox,0,0,,,,,,stumped,PF Younghusband

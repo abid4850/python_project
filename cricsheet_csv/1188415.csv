@@ -1,0 +1,311 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sydney Thunder
+info,team,Brisbane Heat
+info,gender,female
+info,season,2019/20
+info,date,2019/11/16
+info,event,Women's Big Bash League
+info,match_number,34
+info,venue,Drummoyne Oval
+info,city,Sydney
+info,toss_winner,Sydney Thunder
+info,toss_decision,field
+info,player_of_match,AC Kerr
+info,umpire,Troy Penman
+info,umpire,Marc Nickl
+info,tv_umpire,BC Treloar
+info,match_referee,Neil Findlay
+info,winner,Brisbane Heat
+info,winner_runs,32
+info,player,Brisbane Heat,BL Mooney
+info,player,Brisbane Heat,ML Green
+info,player,Brisbane Heat,SJ Johnson
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,L Harris
+info,player,Brisbane Heat,KL Short
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,DM Kimmince
+info,player,Brisbane Heat,M Hinkley
+info,player,Brisbane Heat,G Prestwidge
+info,player,Sydney Thunder,RH Priest
+info,player,Sydney Thunder,RL Haynes
+info,player,Sydney Thunder,T Wilson
+info,player,Sydney Thunder,AJ Blackwell
+info,player,Sydney Thunder,P Litchfield
+info,player,Sydney Thunder,Nida Dar
+info,player,Sydney Thunder,HJ Darlington
+info,player,Sydney Thunder,RM Farrell
+info,player,Sydney Thunder,L Griffith
+info,player,Sydney Thunder,S Ismail
+info,player,Sydney Thunder,SL Bates
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AJ Blackwell,b9164a9b
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,DM Kimmince,d693012d
+info,registry,people,G Prestwidge,c218e4e7
+info,registry,people,GM Harris,72166006
+info,registry,people,HJ Darlington,50b558d2
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,KL Short,712bd44c
+info,registry,people,L Griffith,abe30ff7
+info,registry,people,L Harris,36e2dc83
+info,registry,people,M Hinkley,3812165d
+info,registry,people,ML Green,865eae1f
+info,registry,people,Marc Nickl,97e5350a
+info,registry,people,Neil Findlay,9c40c208
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,RH Priest,e6f0408a
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,RM Farrell,4ed7d23f
+info,registry,people,S Ismail,108c4c09
+info,registry,people,SJ Johnson,d7b754d4
+info,registry,people,SL Bates,0816fb1e
+info,registry,people,T Wilson,32100b2d
+info,registry,people,Troy Penman,0aa42c26
+ball,1,0.1,Brisbane Heat,BL Mooney,ML Green,S Ismail,0,0,,,,,,"",""
+ball,1,0.2,Brisbane Heat,BL Mooney,ML Green,S Ismail,1,0,,,,,,"",""
+ball,1,0.3,Brisbane Heat,ML Green,BL Mooney,S Ismail,2,0,,,,,,"",""
+ball,1,0.4,Brisbane Heat,ML Green,BL Mooney,S Ismail,0,0,,,,,,"",""
+ball,1,0.5,Brisbane Heat,ML Green,BL Mooney,S Ismail,2,0,,,,,,"",""
+ball,1,0.6,Brisbane Heat,ML Green,BL Mooney,S Ismail,0,0,,,,,,caught and bowled,ML Green
+ball,1,1.1,Brisbane Heat,BL Mooney,SJ Johnson,RM Farrell,0,1,,,1,,,"",""
+ball,1,1.2,Brisbane Heat,SJ Johnson,BL Mooney,RM Farrell,1,0,,,,,,"",""
+ball,1,1.3,Brisbane Heat,BL Mooney,SJ Johnson,RM Farrell,0,0,,,,,,"",""
+ball,1,1.4,Brisbane Heat,BL Mooney,SJ Johnson,RM Farrell,0,0,,,,,,"",""
+ball,1,1.5,Brisbane Heat,BL Mooney,SJ Johnson,RM Farrell,2,0,,,,,,"",""
+ball,1,1.6,Brisbane Heat,BL Mooney,SJ Johnson,RM Farrell,2,0,,,,,,"",""
+ball,1,2.1,Brisbane Heat,SJ Johnson,BL Mooney,S Ismail,0,0,,,,,,"",""
+ball,1,2.2,Brisbane Heat,SJ Johnson,BL Mooney,S Ismail,4,0,,,,,,"",""
+ball,1,2.3,Brisbane Heat,SJ Johnson,BL Mooney,S Ismail,4,0,,,,,,"",""
+ball,1,2.4,Brisbane Heat,SJ Johnson,BL Mooney,S Ismail,0,0,,,,,,"",""
+ball,1,2.5,Brisbane Heat,SJ Johnson,BL Mooney,S Ismail,1,0,,,,,,"",""
+ball,1,2.6,Brisbane Heat,BL Mooney,SJ Johnson,S Ismail,1,0,,,,,,"",""
+ball,1,3.1,Brisbane Heat,BL Mooney,SJ Johnson,RM Farrell,2,0,,,,,,"",""
+ball,1,3.2,Brisbane Heat,BL Mooney,SJ Johnson,RM Farrell,1,0,,,,,,"",""
+ball,1,3.3,Brisbane Heat,SJ Johnson,BL Mooney,RM Farrell,6,0,,,,,,"",""
+ball,1,3.4,Brisbane Heat,SJ Johnson,BL Mooney,RM Farrell,0,0,,,,,,bowled,SJ Johnson
+ball,1,3.5,Brisbane Heat,JL Jonassen,BL Mooney,RM Farrell,0,0,,,,,,"",""
+ball,1,3.6,Brisbane Heat,JL Jonassen,BL Mooney,RM Farrell,0,0,,,,,,"",""
+ball,1,4.1,Brisbane Heat,BL Mooney,JL Jonassen,S Ismail,0,0,,,,,,"",""
+ball,1,4.2,Brisbane Heat,BL Mooney,JL Jonassen,S Ismail,1,0,,,,,,"",""
+ball,1,4.3,Brisbane Heat,JL Jonassen,BL Mooney,S Ismail,0,1,,,,1,,"",""
+ball,1,4.4,Brisbane Heat,BL Mooney,JL Jonassen,S Ismail,0,0,,,,,,"",""
+ball,1,4.5,Brisbane Heat,BL Mooney,JL Jonassen,S Ismail,0,0,,,,,,"",""
+ball,1,4.6,Brisbane Heat,BL Mooney,JL Jonassen,S Ismail,4,0,,,,,,"",""
+ball,1,5.1,Brisbane Heat,JL Jonassen,BL Mooney,SL Bates,2,0,,,,,,"",""
+ball,1,5.2,Brisbane Heat,JL Jonassen,BL Mooney,SL Bates,4,0,,,,,,"",""
+ball,1,5.3,Brisbane Heat,JL Jonassen,BL Mooney,SL Bates,1,0,,,,,,"",""
+ball,1,5.4,Brisbane Heat,BL Mooney,JL Jonassen,SL Bates,1,0,,,,,,"",""
+ball,1,5.5,Brisbane Heat,JL Jonassen,BL Mooney,SL Bates,0,0,,,,,,"",""
+ball,1,5.6,Brisbane Heat,JL Jonassen,BL Mooney,SL Bates,1,0,,,,,,"",""
+ball,1,6.1,Brisbane Heat,JL Jonassen,BL Mooney,Nida Dar,1,0,,,,,,"",""
+ball,1,6.2,Brisbane Heat,BL Mooney,JL Jonassen,Nida Dar,1,0,,,,,,"",""
+ball,1,6.3,Brisbane Heat,JL Jonassen,BL Mooney,Nida Dar,1,0,,,,,,"",""
+ball,1,6.4,Brisbane Heat,BL Mooney,JL Jonassen,Nida Dar,1,0,,,,,,"",""
+ball,1,6.5,Brisbane Heat,JL Jonassen,BL Mooney,Nida Dar,0,0,,,,,,lbw,JL Jonassen
+ball,1,6.6,Brisbane Heat,GM Harris,BL Mooney,Nida Dar,1,0,,,,,,"",""
+ball,1,7.1,Brisbane Heat,GM Harris,BL Mooney,HJ Darlington,1,0,,,,,,run out,GM Harris
+ball,1,7.2,Brisbane Heat,L Harris,BL Mooney,HJ Darlington,0,0,,,,,,"",""
+ball,1,7.3,Brisbane Heat,L Harris,BL Mooney,HJ Darlington,1,0,,,,,,"",""
+ball,1,7.4,Brisbane Heat,BL Mooney,L Harris,HJ Darlington,0,0,,,,,,"",""
+ball,1,7.5,Brisbane Heat,BL Mooney,L Harris,HJ Darlington,1,0,,,,,,"",""
+ball,1,7.6,Brisbane Heat,L Harris,BL Mooney,HJ Darlington,0,0,,,,,,"",""
+ball,1,8.1,Brisbane Heat,BL Mooney,L Harris,Nida Dar,0,0,,,,,,"",""
+ball,1,8.2,Brisbane Heat,BL Mooney,L Harris,Nida Dar,0,0,,,,,,"",""
+ball,1,8.3,Brisbane Heat,BL Mooney,L Harris,Nida Dar,1,0,,,,,,"",""
+ball,1,8.4,Brisbane Heat,L Harris,BL Mooney,Nida Dar,1,0,,,,,,"",""
+ball,1,8.5,Brisbane Heat,BL Mooney,L Harris,Nida Dar,1,0,,,,,,"",""
+ball,1,8.6,Brisbane Heat,L Harris,BL Mooney,Nida Dar,2,0,,,,,,"",""
+ball,1,9.1,Brisbane Heat,BL Mooney,L Harris,SL Bates,0,0,,,,,,"",""
+ball,1,9.2,Brisbane Heat,BL Mooney,L Harris,SL Bates,1,0,,,,,,"",""
+ball,1,9.3,Brisbane Heat,L Harris,BL Mooney,SL Bates,0,0,,,,,,"",""
+ball,1,9.4,Brisbane Heat,L Harris,BL Mooney,SL Bates,2,0,,,,,,"",""
+ball,1,9.5,Brisbane Heat,L Harris,BL Mooney,SL Bates,0,0,,,,,,"",""
+ball,1,9.6,Brisbane Heat,L Harris,BL Mooney,SL Bates,0,0,,,,,,"",""
+ball,1,10.1,Brisbane Heat,BL Mooney,L Harris,S Ismail,1,0,,,,,,"",""
+ball,1,10.2,Brisbane Heat,L Harris,BL Mooney,S Ismail,1,0,,,,,,"",""
+ball,1,10.3,Brisbane Heat,BL Mooney,L Harris,S Ismail,0,0,,,,,,bowled,BL Mooney
+ball,1,10.4,Brisbane Heat,KL Short,L Harris,S Ismail,0,0,,,,,,"",""
+ball,1,10.5,Brisbane Heat,KL Short,L Harris,S Ismail,1,0,,,,,,"",""
+ball,1,10.6,Brisbane Heat,L Harris,KL Short,S Ismail,1,0,,,,,,"",""
+ball,1,11.1,Brisbane Heat,L Harris,KL Short,RM Farrell,6,0,,,,,,"",""
+ball,1,11.2,Brisbane Heat,L Harris,KL Short,RM Farrell,4,0,,,,,,"",""
+ball,1,11.3,Brisbane Heat,L Harris,KL Short,RM Farrell,1,0,,,,,,"",""
+ball,1,11.4,Brisbane Heat,KL Short,L Harris,RM Farrell,2,0,,,,,,"",""
+ball,1,11.5,Brisbane Heat,KL Short,L Harris,RM Farrell,0,0,,,,,,"",""
+ball,1,11.6,Brisbane Heat,KL Short,L Harris,RM Farrell,0,0,,,,,,"",""
+ball,1,12.1,Brisbane Heat,L Harris,KL Short,SL Bates,0,0,,,,,,"",""
+ball,1,12.2,Brisbane Heat,L Harris,KL Short,SL Bates,0,0,,,,,,"",""
+ball,1,12.3,Brisbane Heat,L Harris,KL Short,SL Bates,4,0,,,,,,"",""
+ball,1,12.4,Brisbane Heat,L Harris,KL Short,SL Bates,0,0,,,,,,"",""
+ball,1,12.5,Brisbane Heat,L Harris,KL Short,SL Bates,4,0,,,,,,"",""
+ball,1,12.6,Brisbane Heat,L Harris,KL Short,SL Bates,3,0,,,,,,"",""
+ball,1,13.1,Brisbane Heat,L Harris,KL Short,Nida Dar,0,0,,,,,,"",""
+ball,1,13.2,Brisbane Heat,L Harris,KL Short,Nida Dar,0,0,,,,,,bowled,L Harris
+ball,1,13.3,Brisbane Heat,AC Kerr,KL Short,Nida Dar,0,0,,,,,,"",""
+ball,1,13.4,Brisbane Heat,AC Kerr,KL Short,Nida Dar,0,0,,,,,,"",""
+ball,1,13.5,Brisbane Heat,AC Kerr,KL Short,Nida Dar,0,1,1,,,,,"",""
+ball,1,13.6,Brisbane Heat,AC Kerr,KL Short,Nida Dar,1,0,,,,,,"",""
+ball,1,13.7,Brisbane Heat,KL Short,AC Kerr,Nida Dar,0,1,,,,1,,"",""
+ball,1,14.1,Brisbane Heat,KL Short,AC Kerr,HJ Darlington,4,0,,,,,,"",""
+ball,1,14.2,Brisbane Heat,KL Short,AC Kerr,HJ Darlington,0,0,,,,,,"",""
+ball,1,14.3,Brisbane Heat,KL Short,AC Kerr,HJ Darlington,1,0,,,,,,"",""
+ball,1,14.4,Brisbane Heat,AC Kerr,KL Short,HJ Darlington,0,0,,,,,,"",""
+ball,1,14.5,Brisbane Heat,AC Kerr,KL Short,HJ Darlington,1,0,,,,,,"",""
+ball,1,14.6,Brisbane Heat,KL Short,AC Kerr,HJ Darlington,1,0,,,,,,"",""
+ball,1,15.1,Brisbane Heat,KL Short,AC Kerr,Nida Dar,0,0,,,,,,"",""
+ball,1,15.2,Brisbane Heat,KL Short,AC Kerr,Nida Dar,0,0,,,,,,"",""
+ball,1,15.3,Brisbane Heat,KL Short,AC Kerr,Nida Dar,1,0,,,,,,"",""
+ball,1,15.4,Brisbane Heat,AC Kerr,KL Short,Nida Dar,0,0,,,,,,"",""
+ball,1,15.5,Brisbane Heat,AC Kerr,KL Short,Nida Dar,1,0,,,,,,"",""
+ball,1,15.6,Brisbane Heat,KL Short,AC Kerr,Nida Dar,1,0,,,,,,"",""
+ball,1,16.1,Brisbane Heat,KL Short,AC Kerr,SL Bates,0,0,,,,,,caught,KL Short
+ball,1,16.2,Brisbane Heat,DM Kimmince,AC Kerr,SL Bates,0,0,,,,,,"",""
+ball,1,16.3,Brisbane Heat,DM Kimmince,AC Kerr,SL Bates,0,0,,,,,,"",""
+ball,1,16.4,Brisbane Heat,DM Kimmince,AC Kerr,SL Bates,0,0,,,,,,"",""
+ball,1,16.5,Brisbane Heat,DM Kimmince,AC Kerr,SL Bates,1,0,,,,,,"",""
+ball,1,16.6,Brisbane Heat,AC Kerr,DM Kimmince,SL Bates,0,0,,,,,,"",""
+ball,1,17.1,Brisbane Heat,DM Kimmince,AC Kerr,HJ Darlington,0,0,,,,,,"",""
+ball,1,17.2,Brisbane Heat,DM Kimmince,AC Kerr,HJ Darlington,1,0,,,,,,"",""
+ball,1,17.3,Brisbane Heat,AC Kerr,DM Kimmince,HJ Darlington,1,0,,,,,,"",""
+ball,1,17.4,Brisbane Heat,DM Kimmince,AC Kerr,HJ Darlington,2,0,,,,,,"",""
+ball,1,17.5,Brisbane Heat,DM Kimmince,AC Kerr,HJ Darlington,0,0,,,,,,"",""
+ball,1,17.6,Brisbane Heat,DM Kimmince,AC Kerr,HJ Darlington,0,0,,,,,,"",""
+ball,1,18.1,Brisbane Heat,AC Kerr,DM Kimmince,RM Farrell,4,0,,,,,,"",""
+ball,1,18.2,Brisbane Heat,AC Kerr,DM Kimmince,RM Farrell,4,0,,,,,,"",""
+ball,1,18.3,Brisbane Heat,AC Kerr,DM Kimmince,RM Farrell,1,0,,,,,,"",""
+ball,1,18.4,Brisbane Heat,DM Kimmince,AC Kerr,RM Farrell,1,0,,,,,,"",""
+ball,1,18.5,Brisbane Heat,AC Kerr,DM Kimmince,RM Farrell,1,0,,,,,,"",""
+ball,1,18.6,Brisbane Heat,DM Kimmince,AC Kerr,RM Farrell,1,0,,,,,,"",""
+ball,1,19.1,Brisbane Heat,DM Kimmince,AC Kerr,HJ Darlington,0,0,,,,,,bowled,DM Kimmince
+ball,1,19.2,Brisbane Heat,M Hinkley,AC Kerr,HJ Darlington,0,1,,,,1,,"",""
+ball,1,19.3,Brisbane Heat,AC Kerr,M Hinkley,HJ Darlington,2,0,,,,,,"",""
+ball,1,19.4,Brisbane Heat,AC Kerr,M Hinkley,HJ Darlington,1,0,,,,,,"",""
+ball,1,19.5,Brisbane Heat,M Hinkley,AC Kerr,HJ Darlington,1,0,,,,,,"",""
+ball,1,19.6,Brisbane Heat,AC Kerr,M Hinkley,HJ Darlington,4,0,,,,,,"",""
+ball,2,0.1,Sydney Thunder,RH Priest,RL Haynes,DM Kimmince,0,0,,,,,,"",""
+ball,2,0.2,Sydney Thunder,RH Priest,RL Haynes,DM Kimmince,0,0,,,,,,"",""
+ball,2,0.3,Sydney Thunder,RH Priest,RL Haynes,DM Kimmince,0,0,,,,,,"",""
+ball,2,0.4,Sydney Thunder,RH Priest,RL Haynes,DM Kimmince,1,0,,,,,,"",""
+ball,2,0.5,Sydney Thunder,RL Haynes,RH Priest,DM Kimmince,0,1,,,,1,,"",""
+ball,2,0.6,Sydney Thunder,RH Priest,RL Haynes,DM Kimmince,0,0,,,,,,"",""
+ball,2,1.1,Sydney Thunder,RL Haynes,RH Priest,SJ Johnson,0,0,,,,,,"",""
+ball,2,1.2,Sydney Thunder,RL Haynes,RH Priest,SJ Johnson,0,0,,,,,,"",""
+ball,2,1.3,Sydney Thunder,RL Haynes,RH Priest,SJ Johnson,1,0,,,,,,"",""
+ball,2,1.4,Sydney Thunder,RH Priest,RL Haynes,SJ Johnson,0,0,,,,,,"",""
+ball,2,1.5,Sydney Thunder,RH Priest,RL Haynes,SJ Johnson,4,0,,,,,,"",""
+ball,2,1.6,Sydney Thunder,RH Priest,RL Haynes,SJ Johnson,4,0,,,,,,"",""
+ball,2,2.1,Sydney Thunder,RL Haynes,RH Priest,DM Kimmince,0,0,,,,,,"",""
+ball,2,2.2,Sydney Thunder,RL Haynes,RH Priest,DM Kimmince,0,0,,,,,,"",""
+ball,2,2.3,Sydney Thunder,RL Haynes,RH Priest,DM Kimmince,0,0,,,,,,"",""
+ball,2,2.4,Sydney Thunder,RL Haynes,RH Priest,DM Kimmince,0,1,1,,,,,"",""
+ball,2,2.5,Sydney Thunder,RL Haynes,RH Priest,DM Kimmince,1,0,,,,,,"",""
+ball,2,2.6,Sydney Thunder,RH Priest,RL Haynes,DM Kimmince,0,0,,,,,,"",""
+ball,2,2.7,Sydney Thunder,RH Priest,RL Haynes,DM Kimmince,4,0,,,,,,"",""
+ball,2,3.1,Sydney Thunder,RL Haynes,RH Priest,GM Harris,0,0,,,,,,"",""
+ball,2,3.2,Sydney Thunder,RL Haynes,RH Priest,GM Harris,0,0,,,,,,"",""
+ball,2,3.3,Sydney Thunder,RL Haynes,RH Priest,GM Harris,0,1,1,,,,,"",""
+ball,2,3.4,Sydney Thunder,RL Haynes,RH Priest,GM Harris,2,0,,,,,,run out,RH Priest
+ball,2,3.5,Sydney Thunder,T Wilson,RL Haynes,GM Harris,0,0,,,,,,"",""
+ball,2,3.6,Sydney Thunder,T Wilson,RL Haynes,GM Harris,0,0,,,,,,"",""
+ball,2,3.7,Sydney Thunder,T Wilson,RL Haynes,GM Harris,0,0,,,,,,"",""
+ball,2,4.1,Sydney Thunder,RL Haynes,T Wilson,SJ Johnson,1,0,,,,,,"",""
+ball,2,4.2,Sydney Thunder,T Wilson,RL Haynes,SJ Johnson,0,0,,,,,,"",""
+ball,2,4.3,Sydney Thunder,T Wilson,RL Haynes,SJ Johnson,1,0,,,,,,"",""
+ball,2,4.4,Sydney Thunder,RL Haynes,T Wilson,SJ Johnson,0,0,,,,,,"",""
+ball,2,4.5,Sydney Thunder,RL Haynes,T Wilson,SJ Johnson,1,0,,,,,,"",""
+ball,2,4.6,Sydney Thunder,T Wilson,RL Haynes,SJ Johnson,0,0,,,,,,"",""
+ball,2,5.1,Sydney Thunder,RL Haynes,T Wilson,GM Harris,0,0,,,,,,"",""
+ball,2,5.2,Sydney Thunder,RL Haynes,T Wilson,GM Harris,0,0,,,,,,"",""
+ball,2,5.3,Sydney Thunder,RL Haynes,T Wilson,GM Harris,1,0,,,,,,"",""
+ball,2,5.4,Sydney Thunder,T Wilson,RL Haynes,GM Harris,0,0,,,,,,"",""
+ball,2,5.5,Sydney Thunder,T Wilson,RL Haynes,GM Harris,1,0,,,,,,"",""
+ball,2,5.6,Sydney Thunder,RL Haynes,T Wilson,GM Harris,2,0,,,,,,"",""
+ball,2,6.1,Sydney Thunder,T Wilson,RL Haynes,AC Kerr,0,0,,,,,,"",""
+ball,2,6.2,Sydney Thunder,T Wilson,RL Haynes,AC Kerr,1,0,,,,,,"",""
+ball,2,6.3,Sydney Thunder,RL Haynes,T Wilson,AC Kerr,1,0,,,,,,"",""
+ball,2,6.4,Sydney Thunder,T Wilson,RL Haynes,AC Kerr,1,0,,,,,,"",""
+ball,2,6.5,Sydney Thunder,RL Haynes,T Wilson,AC Kerr,1,0,,,,,,"",""
+ball,2,6.6,Sydney Thunder,T Wilson,RL Haynes,AC Kerr,0,0,,,,,,"",""
+ball,2,7.1,Sydney Thunder,RL Haynes,T Wilson,G Prestwidge,0,1,1,,,,,"",""
+ball,2,7.2,Sydney Thunder,RL Haynes,T Wilson,G Prestwidge,0,0,,,,,,lbw,RL Haynes
+ball,2,7.3,Sydney Thunder,AJ Blackwell,T Wilson,G Prestwidge,0,0,,,,,,"",""
+ball,2,7.4,Sydney Thunder,AJ Blackwell,T Wilson,G Prestwidge,1,0,,,,,,"",""
+ball,2,7.5,Sydney Thunder,T Wilson,AJ Blackwell,G Prestwidge,0,0,,,,,,"",""
+ball,2,7.6,Sydney Thunder,T Wilson,AJ Blackwell,G Prestwidge,0,0,,,,,,"",""
+ball,2,7.7,Sydney Thunder,T Wilson,AJ Blackwell,G Prestwidge,4,0,,,,,,"",""
+ball,2,8.1,Sydney Thunder,AJ Blackwell,T Wilson,SJ Johnson,0,1,1,,,,,"",""
+ball,2,8.2,Sydney Thunder,AJ Blackwell,T Wilson,SJ Johnson,0,1,,,,1,,"",""
+ball,2,8.3,Sydney Thunder,T Wilson,AJ Blackwell,SJ Johnson,0,0,,,,,,"",""
+ball,2,8.4,Sydney Thunder,T Wilson,AJ Blackwell,SJ Johnson,0,1,,,,1,,"",""
+ball,2,8.5,Sydney Thunder,AJ Blackwell,T Wilson,SJ Johnson,0,1,,,,1,,"",""
+ball,2,8.6,Sydney Thunder,T Wilson,AJ Blackwell,SJ Johnson,1,0,,,,,,"",""
+ball,2,8.7,Sydney Thunder,AJ Blackwell,T Wilson,SJ Johnson,0,0,,,,,,"",""
+ball,2,9.1,Sydney Thunder,T Wilson,AJ Blackwell,G Prestwidge,0,0,,,,,,"",""
+ball,2,9.2,Sydney Thunder,T Wilson,AJ Blackwell,G Prestwidge,0,1,1,,,,,"",""
+ball,2,9.3,Sydney Thunder,T Wilson,AJ Blackwell,G Prestwidge,1,0,,,,,,"",""
+ball,2,9.4,Sydney Thunder,AJ Blackwell,T Wilson,G Prestwidge,0,0,,,,,,"",""
+ball,2,9.5,Sydney Thunder,AJ Blackwell,T Wilson,G Prestwidge,1,0,,,,,,"",""
+ball,2,9.6,Sydney Thunder,T Wilson,AJ Blackwell,G Prestwidge,0,0,,,,,,"",""
+ball,2,9.7,Sydney Thunder,T Wilson,AJ Blackwell,G Prestwidge,0,0,,,,,,"",""
+ball,2,10.1,Sydney Thunder,AJ Blackwell,T Wilson,JL Jonassen,0,0,,,,,,"",""
+ball,2,10.2,Sydney Thunder,AJ Blackwell,T Wilson,JL Jonassen,0,0,,,,,,"",""
+ball,2,10.3,Sydney Thunder,AJ Blackwell,T Wilson,JL Jonassen,1,0,,,,,,"",""
+ball,2,10.4,Sydney Thunder,T Wilson,AJ Blackwell,JL Jonassen,0,0,,,,,,"",""
+ball,2,10.5,Sydney Thunder,T Wilson,AJ Blackwell,JL Jonassen,4,0,,,,,,"",""
+ball,2,10.6,Sydney Thunder,T Wilson,AJ Blackwell,JL Jonassen,1,0,,,,,,"",""
+ball,2,11.1,Sydney Thunder,T Wilson,AJ Blackwell,AC Kerr,4,0,,,,,,"",""
+ball,2,11.2,Sydney Thunder,T Wilson,AJ Blackwell,AC Kerr,0,0,,,,,,lbw,T Wilson
+ball,2,11.3,Sydney Thunder,P Litchfield,AJ Blackwell,AC Kerr,2,0,,,,,,"",""
+ball,2,11.4,Sydney Thunder,P Litchfield,AJ Blackwell,AC Kerr,0,0,,,,,,"",""
+ball,2,11.5,Sydney Thunder,P Litchfield,AJ Blackwell,AC Kerr,0,0,,,,,,"",""
+ball,2,11.6,Sydney Thunder,P Litchfield,AJ Blackwell,AC Kerr,1,0,,,,,,"",""
+ball,2,12.1,Sydney Thunder,P Litchfield,AJ Blackwell,JL Jonassen,0,0,,,,,,"",""
+ball,2,12.2,Sydney Thunder,P Litchfield,AJ Blackwell,JL Jonassen,1,0,,,,,,"",""
+ball,2,12.3,Sydney Thunder,AJ Blackwell,P Litchfield,JL Jonassen,1,0,,,,,,"",""
+ball,2,12.4,Sydney Thunder,P Litchfield,AJ Blackwell,JL Jonassen,1,0,,,,,,"",""
+ball,2,12.5,Sydney Thunder,AJ Blackwell,P Litchfield,JL Jonassen,0,0,,,,,,"",""
+ball,2,12.6,Sydney Thunder,AJ Blackwell,P Litchfield,JL Jonassen,0,0,,,,,,lbw,AJ Blackwell
+ball,2,13.1,Sydney Thunder,P Litchfield,Nida Dar,AC Kerr,0,0,,,,,,"",""
+ball,2,13.2,Sydney Thunder,P Litchfield,Nida Dar,AC Kerr,0,0,,,,,,"",""
+ball,2,13.3,Sydney Thunder,P Litchfield,Nida Dar,AC Kerr,1,0,,,,,,"",""
+ball,2,13.4,Sydney Thunder,Nida Dar,P Litchfield,AC Kerr,0,0,,,,,,"",""
+ball,2,13.5,Sydney Thunder,Nida Dar,P Litchfield,AC Kerr,0,0,,,,,,"",""
+ball,2,13.6,Sydney Thunder,Nida Dar,P Litchfield,AC Kerr,4,0,,,,,,"",""
+ball,2,14.1,Sydney Thunder,P Litchfield,Nida Dar,SJ Johnson,1,0,,,,,,"",""
+ball,2,14.2,Sydney Thunder,Nida Dar,P Litchfield,SJ Johnson,0,1,1,,,,,"",""
+ball,2,14.3,Sydney Thunder,Nida Dar,P Litchfield,SJ Johnson,1,0,,,,,,"",""
+ball,2,14.4,Sydney Thunder,P Litchfield,Nida Dar,SJ Johnson,0,0,,,,,,"",""
+ball,2,14.5,Sydney Thunder,P Litchfield,Nida Dar,SJ Johnson,1,0,,,,,,"",""
+ball,2,14.6,Sydney Thunder,Nida Dar,P Litchfield,SJ Johnson,1,0,,,,,,"",""
+ball,2,14.7,Sydney Thunder,P Litchfield,Nida Dar,SJ Johnson,0,0,,,,,,caught,P Litchfield
+ball,2,15.1,Sydney Thunder,HJ Darlington,Nida Dar,DM Kimmince,1,0,,,,,,"",""
+ball,2,15.2,Sydney Thunder,Nida Dar,HJ Darlington,DM Kimmince,4,0,,,,,,"",""
+ball,2,15.3,Sydney Thunder,Nida Dar,HJ Darlington,DM Kimmince,0,0,,,,,,bowled,Nida Dar
+ball,2,15.4,Sydney Thunder,RM Farrell,HJ Darlington,DM Kimmince,0,0,,,,,,"",""
+ball,2,15.5,Sydney Thunder,RM Farrell,HJ Darlington,DM Kimmince,1,0,,,,,,"",""
+ball,2,15.6,Sydney Thunder,HJ Darlington,RM Farrell,DM Kimmince,0,0,,,,,,"",""
+ball,2,16.1,Sydney Thunder,RM Farrell,HJ Darlington,JL Jonassen,0,0,,,,,,"",""
+ball,2,16.2,Sydney Thunder,RM Farrell,HJ Darlington,JL Jonassen,1,0,,,,,,"",""
+ball,2,16.3,Sydney Thunder,HJ Darlington,RM Farrell,JL Jonassen,0,0,,,,,,"",""
+ball,2,16.4,Sydney Thunder,HJ Darlington,RM Farrell,JL Jonassen,1,0,,,,,,"",""
+ball,2,16.5,Sydney Thunder,RM Farrell,HJ Darlington,JL Jonassen,0,0,,,,,,caught,RM Farrell
+ball,2,16.6,Sydney Thunder,HJ Darlington,L Griffith,JL Jonassen,1,0,,,,,,"",""
+ball,2,17.1,Sydney Thunder,HJ Darlington,L Griffith,GM Harris,1,0,,,,,,"",""
+ball,2,17.2,Sydney Thunder,L Griffith,HJ Darlington,GM Harris,1,0,,,,,,"",""
+ball,2,17.3,Sydney Thunder,HJ Darlington,L Griffith,GM Harris,0,5,5,,,,,"",""
+ball,2,17.4,Sydney Thunder,HJ Darlington,L Griffith,GM Harris,1,0,,,,,,"",""
+ball,2,17.5,Sydney Thunder,L Griffith,HJ Darlington,GM Harris,1,0,,,,,,"",""
+ball,2,17.6,Sydney Thunder,HJ Darlington,L Griffith,GM Harris,4,0,,,,,,"",""
+ball,2,17.7,Sydney Thunder,HJ Darlington,L Griffith,GM Harris,2,0,,,,,,"",""
+ball,2,18.1,Sydney Thunder,L Griffith,HJ Darlington,JL Jonassen,0,0,,,,,,bowled,L Griffith
+ball,2,18.2,Sydney Thunder,S Ismail,HJ Darlington,JL Jonassen,0,0,,,,,,"",""
+ball,2,18.3,Sydney Thunder,S Ismail,HJ Darlington,JL Jonassen,1,0,,,,,,"",""
+ball,2,18.4,Sydney Thunder,HJ Darlington,S Ismail,JL Jonassen,0,0,,,,,,caught,HJ Darlington
+ball,2,18.5,Sydney Thunder,SL Bates,S Ismail,JL Jonassen,0,0,,,,,,"",""
+ball,2,18.6,Sydney Thunder,SL Bates,S Ismail,JL Jonassen,0,0,,,,,,"",""
+ball,2,19.1,Sydney Thunder,S Ismail,SL Bates,DM Kimmince,0,0,,,,,,caught,S Ismail

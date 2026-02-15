@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Barisal Bulls
+info,team,Chittagong Vikings
+info,gender,male
+info,season,2015/16
+info,date,2015/11/30
+info,event,Bangladesh Premier League
+info,match_number,13
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chittagong"
+info,city,Chattogram
+info,toss_winner,Chittagong Vikings
+info,toss_decision,field
+info,player_of_match,KK Cooper
+info,umpire,REJ Martinesz
+info,umpire,Sharfuddoula
+info,reserve_umpire,Manjurul Islam Talukdar
+info,tv_umpire,Enamul Haque
+info,match_referee,Akhtar Ahmad
+info,winner,Barisal Bulls
+info,winner_runs,33
+info,player,Barisal Bulls,E Lewis
+info,player,Barisal Bulls,Rony Talukdar
+info,player,Barisal Bulls,Mehedi Maruf
+info,player,Barisal Bulls,Sabbir Rahman
+info,player,Barisal Bulls,Mahmudullah
+info,player,Barisal Bulls,Nadif Chowdhury
+info,player,Barisal Bulls,S Prasanna
+info,player,Barisal Bulls,KK Cooper
+info,player,Barisal Bulls,Mohammad Sami
+info,player,Barisal Bulls,Al-Amin Hossain
+info,player,Barisal Bulls,Taijul Islam
+info,player,Chittagong Vikings,Tamim Iqbal
+info,player,Chittagong Vikings,TM Dilshan
+info,player,Chittagong Vikings,Kamran Akmal
+info,player,Chittagong Vikings,Anamul Haque
+info,player,Chittagong Vikings,Naeem Islam
+info,player,Chittagong Vikings,E Chigumbura
+info,player,Chittagong Vikings,Ziaur Rahman
+info,player,Chittagong Vikings,Mohammad Amir
+info,player,Chittagong Vikings,Shafiul Islam
+info,player,Chittagong Vikings,Enamul Haque jnr
+info,player,Chittagong Vikings,Asif Hasan
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,Asif Hasan,ef25490c
+info,registry,people,E Chigumbura,d2babdd5
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,Enamul Haque,2ae9be7f
+info,registry,people,Enamul Haque jnr,0480aba6
+info,registry,people,KK Cooper,557153ca
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Manjurul Islam,0db7fb49
+info,registry,people,Mehedi Maruf,3361993b
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Nadif Chowdhury,d6ac6545
+info,registry,people,Naeem Islam,02e83ac5
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Shafiul Islam,1a8eebbe
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Ziaur Rahman,c27518d2
+ball,1,0.1,Barisal Bulls,E Lewis,Rony Talukdar,TM Dilshan,0,0,,,,,,"",""
+ball,1,0.2,Barisal Bulls,E Lewis,Rony Talukdar,TM Dilshan,4,0,,,,,,"",""
+ball,1,0.3,Barisal Bulls,E Lewis,Rony Talukdar,TM Dilshan,0,0,,,,,,lbw,E Lewis
+ball,1,0.4,Barisal Bulls,Mehedi Maruf,Rony Talukdar,TM Dilshan,4,0,,,,,,"",""
+ball,1,0.5,Barisal Bulls,Mehedi Maruf,Rony Talukdar,TM Dilshan,1,0,,,,,,"",""
+ball,1,0.6,Barisal Bulls,Rony Talukdar,Mehedi Maruf,TM Dilshan,0,0,,,,,,"",""
+ball,1,1.1,Barisal Bulls,Mehedi Maruf,Rony Talukdar,Mohammad Amir,1,0,,,,,,"",""
+ball,1,1.2,Barisal Bulls,Rony Talukdar,Mehedi Maruf,Mohammad Amir,0,0,,,,,,lbw,Rony Talukdar
+ball,1,1.3,Barisal Bulls,Sabbir Rahman,Mehedi Maruf,Mohammad Amir,0,0,,,,,,"",""
+ball,1,1.4,Barisal Bulls,Sabbir Rahman,Mehedi Maruf,Mohammad Amir,0,0,,,,,,"",""
+ball,1,1.5,Barisal Bulls,Sabbir Rahman,Mehedi Maruf,Mohammad Amir,0,0,,,,,,"",""
+ball,1,1.6,Barisal Bulls,Sabbir Rahman,Mehedi Maruf,Mohammad Amir,0,0,,,,,,"",""
+ball,1,2.1,Barisal Bulls,Mehedi Maruf,Sabbir Rahman,Shafiul Islam,0,1,1,,,,,"",""
+ball,1,2.2,Barisal Bulls,Mehedi Maruf,Sabbir Rahman,Shafiul Islam,1,0,,,,,,"",""
+ball,1,2.3,Barisal Bulls,Sabbir Rahman,Mehedi Maruf,Shafiul Islam,0,0,,,,,,lbw,Sabbir Rahman
+ball,1,2.4,Barisal Bulls,Mahmudullah,Mehedi Maruf,Shafiul Islam,0,0,,,,,,"",""
+ball,1,2.5,Barisal Bulls,Mahmudullah,Mehedi Maruf,Shafiul Islam,1,0,,,,,,"",""
+ball,1,2.6,Barisal Bulls,Mehedi Maruf,Mahmudullah,Shafiul Islam,0,0,,,,,,"",""
+ball,1,2.7,Barisal Bulls,Mehedi Maruf,Mahmudullah,Shafiul Islam,0,0,,,,,,"",""
+ball,1,3.1,Barisal Bulls,Mahmudullah,Mehedi Maruf,Asif Hasan,2,0,,,,,,"",""
+ball,1,3.2,Barisal Bulls,Mahmudullah,Mehedi Maruf,Asif Hasan,0,0,,,,,,"",""
+ball,1,3.3,Barisal Bulls,Mahmudullah,Mehedi Maruf,Asif Hasan,0,0,,,,,,"",""
+ball,1,3.4,Barisal Bulls,Mahmudullah,Mehedi Maruf,Asif Hasan,1,0,,,,,,"",""
+ball,1,3.5,Barisal Bulls,Mehedi Maruf,Mahmudullah,Asif Hasan,0,0,,,,,,"",""
+ball,1,3.6,Barisal Bulls,Mehedi Maruf,Mahmudullah,Asif Hasan,2,0,,,,,,"",""
+ball,1,4.1,Barisal Bulls,Mahmudullah,Mehedi Maruf,Shafiul Islam,0,0,,,,,,"",""
+ball,1,4.2,Barisal Bulls,Mahmudullah,Mehedi Maruf,Shafiul Islam,0,0,,,,,,"",""
+ball,1,4.3,Barisal Bulls,Mahmudullah,Mehedi Maruf,Shafiul Islam,0,0,,,,,,"",""
+ball,1,4.4,Barisal Bulls,Mahmudullah,Mehedi Maruf,Shafiul Islam,1,0,,,,,,"",""
+ball,1,4.5,Barisal Bulls,Mehedi Maruf,Mahmudullah,Shafiul Islam,1,0,,,,,,"",""
+ball,1,4.6,Barisal Bulls,Mahmudullah,Mehedi Maruf,Shafiul Islam,1,0,,,,,,"",""
+ball,1,5.1,Barisal Bulls,Mahmudullah,Mehedi Maruf,Mohammad Amir,0,0,,,,,,"",""
+ball,1,5.2,Barisal Bulls,Mahmudullah,Mehedi Maruf,Mohammad Amir,0,0,,,,,,"",""
+ball,1,5.3,Barisal Bulls,Mahmudullah,Mehedi Maruf,Mohammad Amir,0,0,,,,,,"",""
+ball,1,5.4,Barisal Bulls,Mahmudullah,Mehedi Maruf,Mohammad Amir,0,0,,,,,,"",""
+ball,1,5.5,Barisal Bulls,Mahmudullah,Mehedi Maruf,Mohammad Amir,1,0,,,,,,"",""
+ball,1,5.6,Barisal Bulls,Mehedi Maruf,Mahmudullah,Mohammad Amir,0,0,,,,,,"",""
+ball,1,6.1,Barisal Bulls,Mahmudullah,Mehedi Maruf,Enamul Haque jnr,1,0,,,,,,"",""
+ball,1,6.2,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,6,0,,,,,,"",""
+ball,1,6.3,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,0,0,,,,,,"",""
+ball,1,6.4,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,0,0,,,,,,"",""
+ball,1,6.5,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,2,0,,,,,,"",""
+ball,1,6.6,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,0,0,,,,,,"",""
+ball,1,7.1,Barisal Bulls,Mahmudullah,Mehedi Maruf,E Chigumbura,1,0,,,,,,"",""
+ball,1,7.2,Barisal Bulls,Mehedi Maruf,Mahmudullah,E Chigumbura,0,0,,,,,,"",""
+ball,1,7.3,Barisal Bulls,Mehedi Maruf,Mahmudullah,E Chigumbura,6,0,,,,,,"",""
+ball,1,7.4,Barisal Bulls,Mehedi Maruf,Mahmudullah,E Chigumbura,0,1,1,,,,,"",""
+ball,1,7.5,Barisal Bulls,Mehedi Maruf,Mahmudullah,E Chigumbura,1,0,,,,,,"",""
+ball,1,7.6,Barisal Bulls,Mahmudullah,Mehedi Maruf,E Chigumbura,2,0,,,,,,"",""
+ball,1,7.7,Barisal Bulls,Mahmudullah,Mehedi Maruf,E Chigumbura,0,1,1,,,,,"",""
+ball,1,7.8,Barisal Bulls,Mahmudullah,Mehedi Maruf,E Chigumbura,4,0,,,,,,"",""
+ball,1,8.1,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,0,0,,,,,,"",""
+ball,1,8.2,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,0,0,,,,,,"",""
+ball,1,8.3,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,0,0,,,,,,"",""
+ball,1,8.4,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,0,0,,,,,,"",""
+ball,1,8.5,Barisal Bulls,Mehedi Maruf,Mahmudullah,Enamul Haque jnr,1,0,,,,,,"",""
+ball,1,8.6,Barisal Bulls,Mahmudullah,Mehedi Maruf,Enamul Haque jnr,2,0,,,,,,"",""
+ball,1,9.1,Barisal Bulls,Mehedi Maruf,Mahmudullah,Ziaur Rahman,2,0,,,,,,"",""
+ball,1,9.2,Barisal Bulls,Mehedi Maruf,Mahmudullah,Ziaur Rahman,0,0,,,,,,caught,Mehedi Maruf
+ball,1,9.3,Barisal Bulls,Mahmudullah,Nadif Chowdhury,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,9.4,Barisal Bulls,Nadif Chowdhury,Mahmudullah,Ziaur Rahman,0,0,,,,,,"",""
+ball,1,9.5,Barisal Bulls,Nadif Chowdhury,Mahmudullah,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,9.6,Barisal Bulls,Mahmudullah,Nadif Chowdhury,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,10.1,Barisal Bulls,Mahmudullah,Nadif Chowdhury,Asif Hasan,1,0,,,,,,"",""
+ball,1,10.2,Barisal Bulls,Nadif Chowdhury,Mahmudullah,Asif Hasan,1,0,,,,,,"",""
+ball,1,10.3,Barisal Bulls,Mahmudullah,Nadif Chowdhury,Asif Hasan,1,0,,,,,,"",""
+ball,1,10.4,Barisal Bulls,Nadif Chowdhury,Mahmudullah,Asif Hasan,0,0,,,,,,"",""
+ball,1,10.5,Barisal Bulls,Nadif Chowdhury,Mahmudullah,Asif Hasan,4,0,,,,,,"",""
+ball,1,10.6,Barisal Bulls,Nadif Chowdhury,Mahmudullah,Asif Hasan,1,0,,,,,,"",""
+ball,1,11.1,Barisal Bulls,Nadif Chowdhury,Mahmudullah,Ziaur Rahman,0,0,,,,,,lbw,Nadif Chowdhury
+ball,1,11.2,Barisal Bulls,S Prasanna,Mahmudullah,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,11.3,Barisal Bulls,Mahmudullah,S Prasanna,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,11.4,Barisal Bulls,S Prasanna,Mahmudullah,Ziaur Rahman,0,0,,,,,,"",""
+ball,1,11.5,Barisal Bulls,S Prasanna,Mahmudullah,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,11.6,Barisal Bulls,Mahmudullah,S Prasanna,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,12.1,Barisal Bulls,Mahmudullah,S Prasanna,Asif Hasan,2,0,,,,,,"",""
+ball,1,12.2,Barisal Bulls,Mahmudullah,S Prasanna,Asif Hasan,1,0,,,,,,"",""
+ball,1,12.3,Barisal Bulls,S Prasanna,Mahmudullah,Asif Hasan,0,0,,,,,,"",""
+ball,1,12.4,Barisal Bulls,S Prasanna,Mahmudullah,Asif Hasan,0,0,,,,,,"",""
+ball,1,12.5,Barisal Bulls,S Prasanna,Mahmudullah,Asif Hasan,1,0,,,,,,"",""
+ball,1,12.6,Barisal Bulls,Mahmudullah,S Prasanna,Asif Hasan,1,0,,,,,,"",""
+ball,1,13.1,Barisal Bulls,Mahmudullah,S Prasanna,Ziaur Rahman,0,0,,,,,,"",""
+ball,1,13.2,Barisal Bulls,Mahmudullah,S Prasanna,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,13.3,Barisal Bulls,S Prasanna,Mahmudullah,Ziaur Rahman,6,0,,,,,,"",""
+ball,1,13.4,Barisal Bulls,S Prasanna,Mahmudullah,Ziaur Rahman,6,0,,,,,,"",""
+ball,1,13.5,Barisal Bulls,S Prasanna,Mahmudullah,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,13.6,Barisal Bulls,Mahmudullah,S Prasanna,Ziaur Rahman,1,0,,,,,,"",""
+ball,1,14.1,Barisal Bulls,Mahmudullah,S Prasanna,Enamul Haque jnr,1,0,,,,,,"",""
+ball,1,14.2,Barisal Bulls,S Prasanna,Mahmudullah,Enamul Haque jnr,1,0,,,,,,"",""
+ball,1,14.3,Barisal Bulls,Mahmudullah,S Prasanna,Enamul Haque jnr,1,0,,,,,,"",""
+ball,1,14.4,Barisal Bulls,S Prasanna,Mahmudullah,Enamul Haque jnr,4,0,,,,,,"",""
+ball,1,14.5,Barisal Bulls,S Prasanna,Mahmudullah,Enamul Haque jnr,1,0,,,,,,"",""
+ball,1,14.6,Barisal Bulls,Mahmudullah,S Prasanna,Enamul Haque jnr,6,0,,,,,,"",""
+ball,1,15.1,Barisal Bulls,S Prasanna,Mahmudullah,Shafiul Islam,6,0,,,,,,"",""
+ball,1,15.2,Barisal Bulls,S Prasanna,Mahmudullah,Shafiul Islam,0,0,,,,,,"",""
+ball,1,15.3,Barisal Bulls,S Prasanna,Mahmudullah,Shafiul Islam,6,1,,1,,,,"",""
+ball,1,15.4,Barisal Bulls,S Prasanna,Mahmudullah,Shafiul Islam,1,0,,,,,,"",""
+ball,1,15.5,Barisal Bulls,Mahmudullah,S Prasanna,Shafiul Islam,0,1,1,,,,,"",""
+ball,1,15.6,Barisal Bulls,Mahmudullah,S Prasanna,Shafiul Islam,1,0,,,,,,"",""
+ball,1,15.7,Barisal Bulls,S Prasanna,Mahmudullah,Shafiul Islam,0,0,,,,,,"",""
+ball,1,15.8,Barisal Bulls,S Prasanna,Mahmudullah,Shafiul Islam,1,0,,,,,,"",""
+ball,1,16.1,Barisal Bulls,S Prasanna,Mahmudullah,Mohammad Amir,0,1,,,,1,,"",""
+ball,1,16.2,Barisal Bulls,Mahmudullah,S Prasanna,Mohammad Amir,4,0,,,,,,"",""
+ball,1,16.3,Barisal Bulls,Mahmudullah,S Prasanna,Mohammad Amir,1,0,,,,,,"",""
+ball,1,16.4,Barisal Bulls,S Prasanna,Mahmudullah,Mohammad Amir,0,0,,,,,,caught,S Prasanna
+ball,1,16.5,Barisal Bulls,KK Cooper,Mahmudullah,Mohammad Amir,1,0,,,,,,"",""
+ball,1,16.6,Barisal Bulls,Mahmudullah,KK Cooper,Mohammad Amir,1,0,,,,,,"",""
+ball,1,17.1,Barisal Bulls,Mahmudullah,KK Cooper,Shafiul Islam,0,1,1,,,,,"",""
+ball,1,17.2,Barisal Bulls,Mahmudullah,KK Cooper,Shafiul Islam,1,0,,,,,,"",""
+ball,1,17.3,Barisal Bulls,KK Cooper,Mahmudullah,Shafiul Islam,2,0,,,,,,"",""
+ball,1,17.4,Barisal Bulls,KK Cooper,Mahmudullah,Shafiul Islam,1,0,,,,,,"",""
+ball,1,17.5,Barisal Bulls,Mahmudullah,KK Cooper,Shafiul Islam,4,0,,,,,,"",""
+ball,1,17.6,Barisal Bulls,Mahmudullah,KK Cooper,Shafiul Islam,1,0,,,,,,"",""
+ball,1,17.7,Barisal Bulls,KK Cooper,Mahmudullah,Shafiul Islam,1,0,,,,,,"",""
+ball,1,18.1,Barisal Bulls,KK Cooper,Mahmudullah,E Chigumbura,6,0,,,,,,"",""
+ball,1,18.2,Barisal Bulls,KK Cooper,Mahmudullah,E Chigumbura,0,5,,5,,,,"",""
+ball,1,18.3,Barisal Bulls,KK Cooper,Mahmudullah,E Chigumbura,0,1,1,,,,,"",""
+ball,1,18.4,Barisal Bulls,KK Cooper,Mahmudullah,E Chigumbura,0,1,1,,,,,"",""
+ball,1,18.5,Barisal Bulls,KK Cooper,Mahmudullah,E Chigumbura,1,0,,,,,,"",""
+ball,1,18.6,Barisal Bulls,Mahmudullah,KK Cooper,E Chigumbura,1,0,,,,,,"",""
+ball,1,18.7,Barisal Bulls,KK Cooper,Mahmudullah,E Chigumbura,6,0,,,,,,"",""
+ball,1,18.8,Barisal Bulls,KK Cooper,Mahmudullah,E Chigumbura,1,0,,,,,,"",""
+ball,1,18.9,Barisal Bulls,Mahmudullah,KK Cooper,E Chigumbura,0,0,,,,,,caught,Mahmudullah
+ball,1,19.1,Barisal Bulls,KK Cooper,Mohammad Sami,Mohammad Amir,1,0,,,,,,"",""
+ball,1,19.2,Barisal Bulls,Mohammad Sami,KK Cooper,Mohammad Amir,2,0,,,,,,"",""
+ball,1,19.3,Barisal Bulls,Mohammad Sami,KK Cooper,Mohammad Amir,4,0,,,,,,"",""
+ball,1,19.4,Barisal Bulls,Mohammad Sami,KK Cooper,Mohammad Amir,2,0,,,,,,"",""
+ball,1,19.5,Barisal Bulls,Mohammad Sami,KK Cooper,Mohammad Amir,1,0,,,,,,"",""
+ball,1,19.6,Barisal Bulls,KK Cooper,Mohammad Sami,Mohammad Amir,1,0,,,,,,"",""
+ball,2,0.1,Chittagong Vikings,Tamim Iqbal,TM Dilshan,Mohammad Sami,0,0,,,,,,"",""
+ball,2,0.2,Chittagong Vikings,Tamim Iqbal,TM Dilshan,Mohammad Sami,0,0,,,,,,"",""
+ball,2,0.3,Chittagong Vikings,Tamim Iqbal,TM Dilshan,Mohammad Sami,0,0,,,,,,"",""
+ball,2,0.4,Chittagong Vikings,Tamim Iqbal,TM Dilshan,Mohammad Sami,0,0,,,,,,"",""
+ball,2,0.5,Chittagong Vikings,Tamim Iqbal,TM Dilshan,Mohammad Sami,4,0,,,,,,"",""
+ball,2,0.6,Chittagong Vikings,Tamim Iqbal,TM Dilshan,Mohammad Sami,0,1,,,,1,,"",""
+ball,2,1.1,Chittagong Vikings,Tamim Iqbal,TM Dilshan,Al-Amin Hossain,2,0,,,,,,"",""
+ball,2,1.2,Chittagong Vikings,Tamim Iqbal,TM Dilshan,Al-Amin Hossain,0,0,,,,,,caught,Tamim Iqbal
+ball,2,1.3,Chittagong Vikings,TM Dilshan,Kamran Akmal,Al-Amin Hossain,0,0,,,,,,"",""
+ball,2,1.4,Chittagong Vikings,TM Dilshan,Kamran Akmal,Al-Amin Hossain,4,0,,,,,,"",""
+ball,2,1.5,Chittagong Vikings,TM Dilshan,Kamran Akmal,Al-Amin Hossain,4,0,,,,,,"",""
+ball,2,1.6,Chittagong Vikings,TM Dilshan,Kamran Akmal,Al-Amin Hossain,4,0,,,,,,"",""
+ball,2,2.1,Chittagong Vikings,Kamran Akmal,TM Dilshan,Mohammad Sami,0,0,,,,,,run out,Kamran Akmal
+ball,2,2.2,Chittagong Vikings,TM Dilshan,Anamul Haque,Mohammad Sami,0,0,,,,,,"",""
+ball,2,2.3,Chittagong Vikings,TM Dilshan,Anamul Haque,Mohammad Sami,0,1,,,,1,,"",""
+ball,2,2.4,Chittagong Vikings,Anamul Haque,TM Dilshan,Mohammad Sami,0,0,,,,,,"",""
+ball,2,2.5,Chittagong Vikings,Anamul Haque,TM Dilshan,Mohammad Sami,0,0,,,,,,"",""
+ball,2,2.6,Chittagong Vikings,Anamul Haque,TM Dilshan,Mohammad Sami,2,0,,,,,,"",""
+ball,2,3.1,Chittagong Vikings,TM Dilshan,Anamul Haque,KK Cooper,1,0,,,,,,"",""
+ball,2,3.2,Chittagong Vikings,Anamul Haque,TM Dilshan,KK Cooper,1,0,,,,,,"",""
+ball,2,3.3,Chittagong Vikings,TM Dilshan,Anamul Haque,KK Cooper,0,1,1,,,,,"",""
+ball,2,3.4,Chittagong Vikings,TM Dilshan,Anamul Haque,KK Cooper,1,0,,,,,,"",""
+ball,2,3.5,Chittagong Vikings,Anamul Haque,TM Dilshan,KK Cooper,4,0,,,,,,"",""
+ball,2,3.6,Chittagong Vikings,Anamul Haque,TM Dilshan,KK Cooper,0,0,,,,,,"",""
+ball,2,3.7,Chittagong Vikings,Anamul Haque,TM Dilshan,KK Cooper,0,0,,,,,,"",""
+ball,2,4.1,Chittagong Vikings,TM Dilshan,Anamul Haque,Taijul Islam,4,0,,,,,,"",""
+ball,2,4.2,Chittagong Vikings,TM Dilshan,Anamul Haque,Taijul Islam,1,0,,,,,,"",""
+ball,2,4.3,Chittagong Vikings,Anamul Haque,TM Dilshan,Taijul Islam,1,0,,,,,,"",""
+ball,2,4.4,Chittagong Vikings,TM Dilshan,Anamul Haque,Taijul Islam,0,0,,,,,,"",""
+ball,2,4.5,Chittagong Vikings,TM Dilshan,Anamul Haque,Taijul Islam,0,0,,,,,,caught,TM Dilshan
+ball,2,4.6,Chittagong Vikings,Naeem Islam,Anamul Haque,Taijul Islam,0,0,,,,,,"",""
+ball,2,5.1,Chittagong Vikings,Anamul Haque,Naeem Islam,Al-Amin Hossain,0,0,,,,,,"",""
+ball,2,5.2,Chittagong Vikings,Anamul Haque,Naeem Islam,Al-Amin Hossain,4,0,,,,,,"",""
+ball,2,5.3,Chittagong Vikings,Anamul Haque,Naeem Islam,Al-Amin Hossain,0,0,,,,,,"",""
+ball,2,5.4,Chittagong Vikings,Anamul Haque,Naeem Islam,Al-Amin Hossain,0,0,,,,,,"",""
+ball,2,5.5,Chittagong Vikings,Anamul Haque,Naeem Islam,Al-Amin Hossain,0,0,,,,,,caught,Anamul Haque
+ball,2,5.6,Chittagong Vikings,Naeem Islam,E Chigumbura,Al-Amin Hossain,1,0,,,,,,"",""
+ball,2,6.1,Chittagong Vikings,Naeem Islam,E Chigumbura,S Prasanna,0,0,,,,,,"",""
+ball,2,6.2,Chittagong Vikings,Naeem Islam,E Chigumbura,S Prasanna,0,0,,,,,,"",""
+ball,2,6.3,Chittagong Vikings,Naeem Islam,E Chigumbura,S Prasanna,0,0,,,,,,"",""
+ball,2,6.4,Chittagong Vikings,Naeem Islam,E Chigumbura,S Prasanna,0,0,,,,,,"",""
+ball,2,6.5,Chittagong Vikings,Naeem Islam,E Chigumbura,S Prasanna,1,0,,,,,,"",""
+ball,2,6.6,Chittagong Vikings,E Chigumbura,Naeem Islam,S Prasanna,1,0,,,,,,"",""
+ball,2,7.1,Chittagong Vikings,E Chigumbura,Naeem Islam,Taijul Islam,0,0,,,,,,"",""
+ball,2,7.2,Chittagong Vikings,E Chigumbura,Naeem Islam,Taijul Islam,0,0,,,,,,"",""
+ball,2,7.3,Chittagong Vikings,E Chigumbura,Naeem Islam,Taijul Islam,0,0,,,,,,"",""
+ball,2,7.4,Chittagong Vikings,E Chigumbura,Naeem Islam,Taijul Islam,0,0,,,,,,"",""
+ball,2,7.5,Chittagong Vikings,E Chigumbura,Naeem Islam,Taijul Islam,1,0,,,,,,"",""
+ball,2,7.6,Chittagong Vikings,Naeem Islam,E Chigumbura,Taijul Islam,1,0,,,,,,"",""
+ball,2,8.1,Chittagong Vikings,Naeem Islam,E Chigumbura,S Prasanna,0,0,,,,,,"",""
+ball,2,8.2,Chittagong Vikings,Naeem Islam,E Chigumbura,S Prasanna,0,0,,,,,,"",""
+ball,2,8.3,Chittagong Vikings,Naeem Islam,E Chigumbura,S Prasanna,1,0,,,,,,"",""
+ball,2,8.4,Chittagong Vikings,E Chigumbura,Naeem Islam,S Prasanna,1,0,,,,,,"",""
+ball,2,8.5,Chittagong Vikings,Naeem Islam,E Chigumbura,S Prasanna,1,0,,,,,,"",""
+ball,2,8.6,Chittagong Vikings,E Chigumbura,Naeem Islam,S Prasanna,0,0,,,,,,"",""
+ball,2,9.1,Chittagong Vikings,Naeem Islam,E Chigumbura,KK Cooper,1,0,,,,,,"",""
+ball,2,9.2,Chittagong Vikings,E Chigumbura,Naeem Islam,KK Cooper,2,0,,,,,,"",""
+ball,2,9.3,Chittagong Vikings,E Chigumbura,Naeem Islam,KK Cooper,0,0,,,,,,"",""
+ball,2,9.4,Chittagong Vikings,E Chigumbura,Naeem Islam,KK Cooper,0,0,,,,,,caught,E Chigumbura
+ball,2,9.5,Chittagong Vikings,Ziaur Rahman,Naeem Islam,KK Cooper,0,0,,,,,,"",""
+ball,2,9.6,Chittagong Vikings,Ziaur Rahman,Naeem Islam,KK Cooper,0,0,,,,,,"",""
+ball,2,10.1,Chittagong Vikings,Naeem Islam,Ziaur Rahman,S Prasanna,1,0,,,,,,"",""
+ball,2,10.2,Chittagong Vikings,Ziaur Rahman,Naeem Islam,S Prasanna,0,0,,,,,,"",""
+ball,2,10.3,Chittagong Vikings,Ziaur Rahman,Naeem Islam,S Prasanna,0,0,,,,,,"",""
+ball,2,10.4,Chittagong Vikings,Ziaur Rahman,Naeem Islam,S Prasanna,1,0,,,,,,"",""
+ball,2,10.5,Chittagong Vikings,Naeem Islam,Ziaur Rahman,S Prasanna,1,0,,,,,,"",""
+ball,2,10.6,Chittagong Vikings,Ziaur Rahman,Naeem Islam,S Prasanna,0,0,,,,,,"",""
+ball,2,11.1,Chittagong Vikings,Naeem Islam,Ziaur Rahman,KK Cooper,1,0,,,,,,"",""
+ball,2,11.2,Chittagong Vikings,Ziaur Rahman,Naeem Islam,KK Cooper,0,0,,,,,,"",""
+ball,2,11.3,Chittagong Vikings,Ziaur Rahman,Naeem Islam,KK Cooper,1,0,,,,,,"",""
+ball,2,11.4,Chittagong Vikings,Naeem Islam,Ziaur Rahman,KK Cooper,2,0,,,,,,"",""
+ball,2,11.5,Chittagong Vikings,Naeem Islam,Ziaur Rahman,KK Cooper,0,0,,,,,,"",""
+ball,2,11.6,Chittagong Vikings,Naeem Islam,Ziaur Rahman,KK Cooper,4,0,,,,,,"",""
+ball,2,12.1,Chittagong Vikings,Ziaur Rahman,Naeem Islam,Taijul Islam,6,0,,,,,,"",""
+ball,2,12.2,Chittagong Vikings,Ziaur Rahman,Naeem Islam,Taijul Islam,0,0,,,,,,"",""
+ball,2,12.3,Chittagong Vikings,Ziaur Rahman,Naeem Islam,Taijul Islam,1,0,,,,,,"",""
+ball,2,12.4,Chittagong Vikings,Naeem Islam,Ziaur Rahman,Taijul Islam,0,0,,,,,,"",""
+ball,2,12.5,Chittagong Vikings,Naeem Islam,Ziaur Rahman,Taijul Islam,1,0,,,,,,"",""
+ball,2,12.6,Chittagong Vikings,Ziaur Rahman,Naeem Islam,Taijul Islam,4,0,,,,,,"",""
+ball,2,13.1,Chittagong Vikings,Naeem Islam,Ziaur Rahman,Mohammad Sami,0,0,,,,,,"",""
+ball,2,13.2,Chittagong Vikings,Naeem Islam,Ziaur Rahman,Mohammad Sami,0,0,,,,,,"",""
+ball,2,13.3,Chittagong Vikings,Naeem Islam,Ziaur Rahman,Mohammad Sami,2,0,,,,,,"",""
+ball,2,13.4,Chittagong Vikings,Naeem Islam,Ziaur Rahman,Mohammad Sami,0,1,,,1,,,"",""
+ball,2,13.5,Chittagong Vikings,Ziaur Rahman,Naeem Islam,Mohammad Sami,0,0,,,,,,caught,Ziaur Rahman
+ball,2,13.6,Chittagong Vikings,Naeem Islam,Mohammad Amir,Mohammad Sami,1,0,,,,,,"",""
+ball,2,14.1,Chittagong Vikings,Naeem Islam,Mohammad Amir,Al-Amin Hossain,2,0,,,,,,"",""
+ball,2,14.2,Chittagong Vikings,Naeem Islam,Mohammad Amir,Al-Amin Hossain,1,0,,,,,,"",""
+ball,2,14.3,Chittagong Vikings,Mohammad Amir,Naeem Islam,Al-Amin Hossain,0,1,1,,,,,"",""
+ball,2,14.4,Chittagong Vikings,Mohammad Amir,Naeem Islam,Al-Amin Hossain,1,0,,,,,,"",""
+ball,2,14.5,Chittagong Vikings,Naeem Islam,Mohammad Amir,Al-Amin Hossain,0,0,,,,,,"",""
+ball,2,14.6,Chittagong Vikings,Naeem Islam,Mohammad Amir,Al-Amin Hossain,1,0,,,,,,"",""
+ball,2,14.7,Chittagong Vikings,Mohammad Amir,Naeem Islam,Al-Amin Hossain,0,0,,,,,,"",""
+ball,2,15.1,Chittagong Vikings,Naeem Islam,Mohammad Amir,S Prasanna,1,0,,,,,,"",""
+ball,2,15.2,Chittagong Vikings,Mohammad Amir,Naeem Islam,S Prasanna,1,0,,,,,,"",""
+ball,2,15.3,Chittagong Vikings,Naeem Islam,Mohammad Amir,S Prasanna,1,0,,,,,,"",""
+ball,2,15.4,Chittagong Vikings,Mohammad Amir,Naeem Islam,S Prasanna,6,0,,,,,,"",""
+ball,2,15.5,Chittagong Vikings,Mohammad Amir,Naeem Islam,S Prasanna,6,0,,,,,,"",""
+ball,2,15.6,Chittagong Vikings,Mohammad Amir,Naeem Islam,S Prasanna,2,0,,,,,,"",""
+ball,2,16.1,Chittagong Vikings,Naeem Islam,Mohammad Amir,Al-Amin Hossain,4,0,,,,,,"",""
+ball,2,16.2,Chittagong Vikings,Naeem Islam,Mohammad Amir,Al-Amin Hossain,1,0,,,,,,"",""
+ball,2,16.3,Chittagong Vikings,Mohammad Amir,Naeem Islam,Al-Amin Hossain,0,1,1,,,,,"",""
+ball,2,16.4,Chittagong Vikings,Mohammad Amir,Naeem Islam,Al-Amin Hossain,1,0,,,,,,"",""
+ball,2,16.5,Chittagong Vikings,Naeem Islam,Mohammad Amir,Al-Amin Hossain,0,1,,,,1,,"",""
+ball,2,16.6,Chittagong Vikings,Mohammad Amir,Naeem Islam,Al-Amin Hossain,0,0,,,,,,"",""
+ball,2,16.7,Chittagong Vikings,Mohammad Amir,Naeem Islam,Al-Amin Hossain,2,0,,,,,,"",""
+ball,2,17.1,Chittagong Vikings,Naeem Islam,Mohammad Amir,Mohammad Sami,1,0,,,,,,"",""
+ball,2,17.2,Chittagong Vikings,Mohammad Amir,Naeem Islam,Mohammad Sami,0,1,,,1,,,"",""
+ball,2,17.3,Chittagong Vikings,Naeem Islam,Mohammad Amir,Mohammad Sami,1,0,,,,,,"",""
+ball,2,17.4,Chittagong Vikings,Mohammad Amir,Naeem Islam,Mohammad Sami,1,0,,,,,,"",""
+ball,2,17.5,Chittagong Vikings,Naeem Islam,Mohammad Amir,Mohammad Sami,2,0,,,,,,"",""
+ball,2,17.6,Chittagong Vikings,Naeem Islam,Mohammad Amir,Mohammad Sami,0,1,1,,,,,"",""
+ball,2,17.7,Chittagong Vikings,Naeem Islam,Mohammad Amir,Mohammad Sami,4,0,,,,,,"",""
+ball,2,18.1,Chittagong Vikings,Mohammad Amir,Naeem Islam,KK Cooper,0,0,,,,,,bowled,Mohammad Amir
+ball,2,18.2,Chittagong Vikings,Shafiul Islam,Naeem Islam,KK Cooper,2,0,,,,,,"",""
+ball,2,18.3,Chittagong Vikings,Shafiul Islam,Naeem Islam,KK Cooper,4,0,,,,,,"",""
+ball,2,18.4,Chittagong Vikings,Shafiul Islam,Naeem Islam,KK Cooper,1,0,,,,,,"",""
+ball,2,18.5,Chittagong Vikings,Naeem Islam,Shafiul Islam,KK Cooper,0,0,,,,,,bowled,Naeem Islam
+ball,2,18.6,Chittagong Vikings,Enamul Haque jnr,Shafiul Islam,KK Cooper,2,0,,,,,,"",""
+ball,2,19.1,Chittagong Vikings,Shafiul Islam,Enamul Haque jnr,Mahmudullah,1,0,,,,,,"",""
+ball,2,19.2,Chittagong Vikings,Enamul Haque jnr,Shafiul Islam,Mahmudullah,1,0,,,,,,"",""
+ball,2,19.3,Chittagong Vikings,Shafiul Islam,Enamul Haque jnr,Mahmudullah,4,0,,,,,,"",""
+ball,2,19.4,Chittagong Vikings,Shafiul Islam,Enamul Haque jnr,Mahmudullah,0,0,,,,,,run out,Shafiul Islam
+ball,2,19.5,Chittagong Vikings,Enamul Haque jnr,Asif Hasan,Mahmudullah,0,0,,,,,,bowled,Enamul Haque jnr

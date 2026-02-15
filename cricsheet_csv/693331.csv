@@ -1,0 +1,360 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Gloucestershire
+info,gender,male
+info,season,2014
+info,date,2014/08/05
+info,event,Royal London One-Day Cup
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,P Willey
+info,umpire,SJ O'Shaughnessy
+info,winner,Gloucestershire
+info,winner_wickets,7
+info,method,D/L
+info,player,Leicestershire,AJ Robson
+info,player,Leicestershire,NJ O'Brien
+info,player,Leicestershire,GP Smith
+info,player,Leicestershire,MAG Boyce
+info,player,Leicestershire,DJ Redfern
+info,player,Leicestershire,SJ Thakor
+info,player,Leicestershire,SB Styris
+info,player,Leicestershire,TJ Wells
+info,player,Leicestershire,JKH Naik
+info,player,Leicestershire,AJ Ireland
+info,player,Leicestershire,CE Shreck
+info,player,Gloucestershire,M Klinger
+info,player,Gloucestershire,HJH Marshall
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,WA Tavare
+info,player,Gloucestershire,WRS Gidman
+info,player,Gloucestershire,IA Cockbain
+info,player,Gloucestershire,GH Roderick
+info,player,Gloucestershire,BAC Howell
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,CN Miles
+info,player,Gloucestershire,DA Payne
+info,registry,people,AJ Ireland,a7c7802a
+info,registry,people,AJ Robson,ce470ca0
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,CE Shreck,f7177fd6
+info,registry,people,CN Miles,5fed6272
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Redfern,8e510697
+info,registry,people,GH Roderick,7081848a
+info,registry,people,GP Smith,d86f6c69
+info,registry,people,HJH Marshall,70542bef
+info,registry,people,IA Cockbain,542fd5a6
+info,registry,people,JKH Naik,9c7d7cda
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,M Klinger,b970a03f
+info,registry,people,MAG Boyce,a4e2bf36
+info,registry,people,NJ O'Brien,84826f48
+info,registry,people,P Willey,1b647f99
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,SJ Thakor,f6c84b9f
+info,registry,people,TJ Wells,eb1a5b03
+info,registry,people,WA Tavare,4bb5dc96
+info,registry,people,WRS Gidman,cd882d22
+ball,1,0.1,Leicestershire,AJ Robson,NJ O'Brien,WRS Gidman,4,0,,,,,,"",""
+ball,1,0.2,Leicestershire,AJ Robson,NJ O'Brien,WRS Gidman,0,0,,,,,,"",""
+ball,1,0.3,Leicestershire,AJ Robson,NJ O'Brien,WRS Gidman,0,0,,,,,,"",""
+ball,1,0.4,Leicestershire,AJ Robson,NJ O'Brien,WRS Gidman,0,0,,,,,,"",""
+ball,1,0.5,Leicestershire,AJ Robson,NJ O'Brien,WRS Gidman,0,0,,,,,,"",""
+ball,1,0.6,Leicestershire,AJ Robson,NJ O'Brien,WRS Gidman,4,0,,,,,,"",""
+ball,1,1.1,Leicestershire,NJ O'Brien,AJ Robson,DA Payne,0,1,1,,,,,"",""
+ball,1,1.2,Leicestershire,NJ O'Brien,AJ Robson,DA Payne,0,0,,,,,,"",""
+ball,1,1.3,Leicestershire,NJ O'Brien,AJ Robson,DA Payne,0,0,,,,,,caught,NJ O'Brien
+ball,1,1.4,Leicestershire,GP Smith,AJ Robson,DA Payne,0,0,,,,,,"",""
+ball,1,1.5,Leicestershire,GP Smith,AJ Robson,DA Payne,0,0,,,,,,"",""
+ball,1,1.6,Leicestershire,GP Smith,AJ Robson,DA Payne,1,0,,,,,,"",""
+ball,1,1.7,Leicestershire,AJ Robson,GP Smith,DA Payne,4,0,,,,,,"",""
+ball,1,2.1,Leicestershire,GP Smith,AJ Robson,WRS Gidman,0,0,,,,,,"",""
+ball,1,2.2,Leicestershire,GP Smith,AJ Robson,WRS Gidman,0,0,,,,,,"",""
+ball,1,2.3,Leicestershire,GP Smith,AJ Robson,WRS Gidman,4,0,,,,,,"",""
+ball,1,2.4,Leicestershire,GP Smith,AJ Robson,WRS Gidman,0,0,,,,,,"",""
+ball,1,2.5,Leicestershire,GP Smith,AJ Robson,WRS Gidman,0,0,,,,,,"",""
+ball,1,2.6,Leicestershire,GP Smith,AJ Robson,WRS Gidman,0,0,,,,,,"",""
+ball,1,3.1,Leicestershire,AJ Robson,GP Smith,DA Payne,1,0,,,,,,"",""
+ball,1,3.2,Leicestershire,GP Smith,AJ Robson,DA Payne,0,0,,,,,,"",""
+ball,1,3.3,Leicestershire,GP Smith,AJ Robson,DA Payne,0,0,,,,,,"",""
+ball,1,3.4,Leicestershire,GP Smith,AJ Robson,DA Payne,0,0,,,,,,"",""
+ball,1,3.5,Leicestershire,GP Smith,AJ Robson,DA Payne,1,0,,,,,,"",""
+ball,1,3.6,Leicestershire,AJ Robson,GP Smith,DA Payne,0,0,,,,,,caught,AJ Robson
+ball,1,4.1,Leicestershire,GP Smith,MAG Boyce,WRS Gidman,0,0,,,,,,"",""
+ball,1,4.2,Leicestershire,GP Smith,MAG Boyce,WRS Gidman,0,0,,,,,,"",""
+ball,1,4.3,Leicestershire,GP Smith,MAG Boyce,WRS Gidman,0,0,,,,,,"",""
+ball,1,4.4,Leicestershire,GP Smith,MAG Boyce,WRS Gidman,0,0,,,,,,"",""
+ball,1,4.5,Leicestershire,GP Smith,MAG Boyce,WRS Gidman,0,0,,,,,,"",""
+ball,1,4.6,Leicestershire,GP Smith,MAG Boyce,WRS Gidman,0,0,,,,,,"",""
+ball,1,5.1,Leicestershire,MAG Boyce,GP Smith,DA Payne,0,0,,,,,,"",""
+ball,1,5.2,Leicestershire,MAG Boyce,GP Smith,DA Payne,4,0,,,,,,"",""
+ball,1,5.3,Leicestershire,MAG Boyce,GP Smith,DA Payne,0,1,1,,,,,"",""
+ball,1,5.4,Leicestershire,MAG Boyce,GP Smith,DA Payne,0,0,,,,,,bowled,MAG Boyce
+ball,1,5.5,Leicestershire,DJ Redfern,GP Smith,DA Payne,1,0,,,,,,"",""
+ball,1,5.6,Leicestershire,GP Smith,DJ Redfern,DA Payne,0,0,,,,,,"",""
+ball,1,5.7,Leicestershire,GP Smith,DJ Redfern,DA Payne,0,0,,,,,,"",""
+ball,1,6.1,Leicestershire,DJ Redfern,GP Smith,WRS Gidman,0,0,,,,,,"",""
+ball,1,6.2,Leicestershire,DJ Redfern,GP Smith,WRS Gidman,0,0,,,,,,"",""
+ball,1,6.3,Leicestershire,DJ Redfern,GP Smith,WRS Gidman,4,0,,,,,,"",""
+ball,1,6.4,Leicestershire,DJ Redfern,GP Smith,WRS Gidman,0,0,,,,,,"",""
+ball,1,6.5,Leicestershire,DJ Redfern,GP Smith,WRS Gidman,0,0,,,,,,"",""
+ball,1,6.6,Leicestershire,DJ Redfern,GP Smith,WRS Gidman,1,0,,,,,,"",""
+ball,1,7.1,Leicestershire,DJ Redfern,GP Smith,DA Payne,0,0,,,,,,bowled,DJ Redfern
+ball,1,7.2,Leicestershire,SJ Thakor,GP Smith,DA Payne,0,0,,,,,,"",""
+ball,1,7.3,Leicestershire,SJ Thakor,GP Smith,DA Payne,0,0,,,,,,"",""
+ball,1,7.4,Leicestershire,SJ Thakor,GP Smith,DA Payne,0,0,,,,,,"",""
+ball,1,7.5,Leicestershire,SJ Thakor,GP Smith,DA Payne,0,0,,,,,,"",""
+ball,1,7.6,Leicestershire,SJ Thakor,GP Smith,DA Payne,1,0,,,,,,"",""
+ball,1,8.1,Leicestershire,SJ Thakor,GP Smith,WRS Gidman,1,0,,,,,,"",""
+ball,1,8.2,Leicestershire,GP Smith,SJ Thakor,WRS Gidman,1,0,,,,,,"",""
+ball,1,8.3,Leicestershire,SJ Thakor,GP Smith,WRS Gidman,0,0,,,,,,"",""
+ball,1,8.4,Leicestershire,SJ Thakor,GP Smith,WRS Gidman,0,0,,,,,,"",""
+ball,1,8.5,Leicestershire,SJ Thakor,GP Smith,WRS Gidman,0,0,,,,,,"",""
+ball,1,8.6,Leicestershire,SJ Thakor,GP Smith,WRS Gidman,0,0,,,,,,"",""
+ball,1,9.1,Leicestershire,GP Smith,SJ Thakor,DA Payne,0,0,,,,,,"",""
+ball,1,9.2,Leicestershire,GP Smith,SJ Thakor,DA Payne,4,0,,,,,,"",""
+ball,1,9.3,Leicestershire,GP Smith,SJ Thakor,DA Payne,1,0,,,,,,"",""
+ball,1,9.4,Leicestershire,SJ Thakor,GP Smith,DA Payne,0,0,,,,,,"",""
+ball,1,9.5,Leicestershire,SJ Thakor,GP Smith,DA Payne,0,0,,,,,,"",""
+ball,1,9.6,Leicestershire,SJ Thakor,GP Smith,DA Payne,0,0,,,,,,"",""
+ball,1,10.1,Leicestershire,GP Smith,SJ Thakor,CN Miles,0,1,1,,,,,"",""
+ball,1,10.2,Leicestershire,GP Smith,SJ Thakor,CN Miles,0,0,,,,,,"",""
+ball,1,10.3,Leicestershire,GP Smith,SJ Thakor,CN Miles,1,0,,,,,,"",""
+ball,1,10.4,Leicestershire,SJ Thakor,GP Smith,CN Miles,0,1,1,,,,,"",""
+ball,1,10.5,Leicestershire,SJ Thakor,GP Smith,CN Miles,1,0,,,,,,"",""
+ball,1,10.6,Leicestershire,GP Smith,SJ Thakor,CN Miles,0,0,,,,,,"",""
+ball,1,10.7,Leicestershire,GP Smith,SJ Thakor,CN Miles,0,0,,,,,,"",""
+ball,1,10.8,Leicestershire,GP Smith,SJ Thakor,CN Miles,0,0,,,,,,"",""
+ball,1,11.1,Leicestershire,SJ Thakor,GP Smith,DA Payne,1,0,,,,,,"",""
+ball,1,11.2,Leicestershire,GP Smith,SJ Thakor,DA Payne,0,0,,,,,,"",""
+ball,1,11.3,Leicestershire,GP Smith,SJ Thakor,DA Payne,1,0,,,,,,"",""
+ball,1,11.4,Leicestershire,SJ Thakor,GP Smith,DA Payne,1,0,,,,,,"",""
+ball,1,11.5,Leicestershire,GP Smith,SJ Thakor,DA Payne,0,0,,,,,,"",""
+ball,1,11.6,Leicestershire,GP Smith,SJ Thakor,DA Payne,0,0,,,,,,"",""
+ball,1,12.1,Leicestershire,SJ Thakor,GP Smith,CN Miles,1,0,,,,,,"",""
+ball,1,12.2,Leicestershire,GP Smith,SJ Thakor,CN Miles,1,0,,,,,,"",""
+ball,1,12.3,Leicestershire,SJ Thakor,GP Smith,CN Miles,0,1,1,,,,,"",""
+ball,1,12.4,Leicestershire,SJ Thakor,GP Smith,CN Miles,1,0,,,,,,"",""
+ball,1,12.5,Leicestershire,GP Smith,SJ Thakor,CN Miles,0,0,,,,,,"",""
+ball,1,12.6,Leicestershire,GP Smith,SJ Thakor,CN Miles,4,0,,,,,,"",""
+ball,1,12.7,Leicestershire,GP Smith,SJ Thakor,CN Miles,0,0,,,,,,"",""
+ball,1,13.1,Leicestershire,SJ Thakor,GP Smith,BAC Howell,1,0,,,,,,"",""
+ball,1,13.2,Leicestershire,GP Smith,SJ Thakor,BAC Howell,0,0,,,,,,"",""
+ball,1,13.3,Leicestershire,GP Smith,SJ Thakor,BAC Howell,0,0,,,,,,"",""
+ball,1,13.4,Leicestershire,GP Smith,SJ Thakor,BAC Howell,0,0,,,,,,"",""
+ball,1,13.5,Leicestershire,GP Smith,SJ Thakor,BAC Howell,0,0,,,,,,"",""
+ball,1,13.6,Leicestershire,GP Smith,SJ Thakor,BAC Howell,0,0,,,,,,"",""
+ball,1,14.1,Leicestershire,SJ Thakor,GP Smith,CN Miles,1,0,,,,,,"",""
+ball,1,14.2,Leicestershire,GP Smith,SJ Thakor,CN Miles,0,0,,,,,,"",""
+ball,1,14.3,Leicestershire,GP Smith,SJ Thakor,CN Miles,1,0,,,,,,"",""
+ball,1,14.4,Leicestershire,SJ Thakor,GP Smith,CN Miles,1,0,,,,,,"",""
+ball,1,14.5,Leicestershire,GP Smith,SJ Thakor,CN Miles,0,1,1,,,,,"",""
+ball,1,14.6,Leicestershire,GP Smith,SJ Thakor,CN Miles,1,0,,,,,,"",""
+ball,1,14.7,Leicestershire,SJ Thakor,GP Smith,CN Miles,1,0,,,,,,"",""
+ball,1,15.1,Leicestershire,SJ Thakor,GP Smith,BAC Howell,0,0,,,,,,caught,SJ Thakor
+ball,1,15.2,Leicestershire,SB Styris,GP Smith,BAC Howell,1,0,,,,,,"",""
+ball,1,15.3,Leicestershire,GP Smith,SB Styris,BAC Howell,1,0,,,,,,"",""
+ball,1,15.4,Leicestershire,SB Styris,GP Smith,BAC Howell,0,0,,,,,,"",""
+ball,1,15.5,Leicestershire,SB Styris,GP Smith,BAC Howell,0,0,,,,,,"",""
+ball,1,15.6,Leicestershire,SB Styris,GP Smith,BAC Howell,1,0,,,,,,"",""
+ball,1,16.1,Leicestershire,SB Styris,GP Smith,JMR Taylor,0,0,,,,,,"",""
+ball,1,16.2,Leicestershire,SB Styris,GP Smith,JMR Taylor,0,0,,,,,,"",""
+ball,1,16.3,Leicestershire,SB Styris,GP Smith,JMR Taylor,0,0,,,,,,"",""
+ball,1,16.4,Leicestershire,SB Styris,GP Smith,JMR Taylor,4,0,,,,,,"",""
+ball,1,16.5,Leicestershire,SB Styris,GP Smith,JMR Taylor,1,0,,,,,,"",""
+ball,1,16.6,Leicestershire,GP Smith,SB Styris,JMR Taylor,1,0,,,,,,"",""
+ball,1,17.1,Leicestershire,GP Smith,SB Styris,BAC Howell,1,0,,,,,,"",""
+ball,1,17.2,Leicestershire,SB Styris,GP Smith,BAC Howell,1,0,,,,,,"",""
+ball,1,17.3,Leicestershire,GP Smith,SB Styris,BAC Howell,0,0,,,,,,"",""
+ball,1,17.4,Leicestershire,GP Smith,SB Styris,BAC Howell,1,0,,,,,,"",""
+ball,1,17.5,Leicestershire,SB Styris,GP Smith,BAC Howell,1,0,,,,,,"",""
+ball,1,17.6,Leicestershire,GP Smith,SB Styris,BAC Howell,1,0,,,,,,"",""
+ball,1,18.1,Leicestershire,GP Smith,SB Styris,JMR Taylor,1,0,,,,,,"",""
+ball,1,18.2,Leicestershire,SB Styris,GP Smith,JMR Taylor,1,0,,,,,,"",""
+ball,1,18.3,Leicestershire,GP Smith,SB Styris,JMR Taylor,0,0,,,,,,"",""
+ball,1,18.4,Leicestershire,GP Smith,SB Styris,JMR Taylor,1,0,,,,,,"",""
+ball,1,18.5,Leicestershire,SB Styris,GP Smith,JMR Taylor,6,0,,,,,,"",""
+ball,1,18.6,Leicestershire,SB Styris,GP Smith,JMR Taylor,0,1,1,,,,,"",""
+ball,1,18.7,Leicestershire,SB Styris,GP Smith,JMR Taylor,1,0,,,,,,"",""
+ball,1,19.1,Leicestershire,SB Styris,GP Smith,BAC Howell,1,0,,,,,,"",""
+ball,1,19.2,Leicestershire,GP Smith,SB Styris,BAC Howell,1,0,,,,,,"",""
+ball,1,19.3,Leicestershire,SB Styris,GP Smith,BAC Howell,2,0,,,,,,"",""
+ball,1,19.4,Leicestershire,SB Styris,GP Smith,BAC Howell,0,4,,,4,,,"",""
+ball,1,19.5,Leicestershire,SB Styris,GP Smith,BAC Howell,1,0,,,,,,"",""
+ball,1,19.6,Leicestershire,GP Smith,SB Styris,BAC Howell,1,0,,,,,,"",""
+ball,1,20.1,Leicestershire,GP Smith,SB Styris,JMR Taylor,1,0,,,,,,"",""
+ball,1,20.2,Leicestershire,SB Styris,GP Smith,JMR Taylor,1,0,,,,,,"",""
+ball,1,20.3,Leicestershire,GP Smith,SB Styris,JMR Taylor,4,0,,,,,,"",""
+ball,1,20.4,Leicestershire,GP Smith,SB Styris,JMR Taylor,0,0,,,,,,"",""
+ball,1,20.5,Leicestershire,GP Smith,SB Styris,JMR Taylor,1,0,,,,,,"",""
+ball,1,20.6,Leicestershire,SB Styris,GP Smith,JMR Taylor,1,0,,,,,,"",""
+ball,1,21.1,Leicestershire,SB Styris,GP Smith,CN Miles,0,0,,,,,,"",""
+ball,1,21.2,Leicestershire,SB Styris,GP Smith,CN Miles,4,0,,,,,,"",""
+ball,1,21.3,Leicestershire,SB Styris,GP Smith,CN Miles,0,1,1,,,,,"",""
+ball,1,21.4,Leicestershire,SB Styris,GP Smith,CN Miles,2,0,,,,,,"",""
+ball,1,21.5,Leicestershire,SB Styris,GP Smith,CN Miles,0,0,,,,,,caught,SB Styris
+ball,1,21.6,Leicestershire,GP Smith,TJ Wells,CN Miles,0,0,,,,,,"",""
+ball,1,21.7,Leicestershire,GP Smith,TJ Wells,CN Miles,0,0,,,,,,"",""
+ball,1,22.1,Leicestershire,TJ Wells,GP Smith,JMR Taylor,2,0,,,,,,"",""
+ball,1,22.2,Leicestershire,TJ Wells,GP Smith,JMR Taylor,0,0,,,,,,"",""
+ball,1,22.3,Leicestershire,TJ Wells,GP Smith,JMR Taylor,0,0,,,,,,"",""
+ball,1,22.4,Leicestershire,TJ Wells,GP Smith,JMR Taylor,1,0,,,,,,"",""
+ball,1,22.5,Leicestershire,GP Smith,TJ Wells,JMR Taylor,1,0,,,,,,"",""
+ball,1,22.6,Leicestershire,TJ Wells,GP Smith,JMR Taylor,0,0,,,,,,bowled,TJ Wells
+ball,1,23.1,Leicestershire,GP Smith,JKH Naik,CN Miles,0,0,,,,,,"",""
+ball,1,23.2,Leicestershire,GP Smith,JKH Naik,CN Miles,1,0,,,,,,"",""
+ball,1,23.3,Leicestershire,JKH Naik,GP Smith,CN Miles,0,0,,,,,,"",""
+ball,1,23.4,Leicestershire,JKH Naik,GP Smith,CN Miles,1,0,,,,,,"",""
+ball,1,23.5,Leicestershire,GP Smith,JKH Naik,CN Miles,2,0,,,,,,"",""
+ball,1,23.6,Leicestershire,GP Smith,JKH Naik,CN Miles,1,0,,,,,,"",""
+ball,1,24.1,Leicestershire,GP Smith,JKH Naik,JMR Taylor,0,1,,,1,,,"",""
+ball,1,24.2,Leicestershire,JKH Naik,GP Smith,JMR Taylor,0,0,,,,,,caught,JKH Naik
+ball,1,24.3,Leicestershire,GP Smith,AJ Ireland,JMR Taylor,4,0,,,,,,"",""
+ball,1,24.4,Leicestershire,GP Smith,AJ Ireland,JMR Taylor,6,0,,,,,,"",""
+ball,1,24.5,Leicestershire,GP Smith,AJ Ireland,JMR Taylor,4,0,,,,,,"",""
+ball,1,24.6,Leicestershire,GP Smith,AJ Ireland,JMR Taylor,0,1,,,,1,,"",""
+ball,2,0.1,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,1,0,,,,,,"",""
+ball,2,0.2,Gloucestershire,HJH Marshall,M Klinger,CE Shreck,0,0,,,,,,"",""
+ball,2,0.3,Gloucestershire,HJH Marshall,M Klinger,CE Shreck,1,0,,,,,,"",""
+ball,2,0.4,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,1,0,,,,,,"",""
+ball,2,0.5,Gloucestershire,HJH Marshall,M Klinger,CE Shreck,2,0,,,,,,"",""
+ball,2,0.6,Gloucestershire,HJH Marshall,M Klinger,CE Shreck,2,0,,,,,,"",""
+ball,2,1.1,Gloucestershire,M Klinger,HJH Marshall,AJ Ireland,4,0,,,,,,"",""
+ball,2,1.2,Gloucestershire,M Klinger,HJH Marshall,AJ Ireland,1,0,,,,,,"",""
+ball,2,1.3,Gloucestershire,HJH Marshall,M Klinger,AJ Ireland,0,0,,,,,,"",""
+ball,2,1.4,Gloucestershire,HJH Marshall,M Klinger,AJ Ireland,4,0,,,,,,"",""
+ball,2,1.5,Gloucestershire,HJH Marshall,M Klinger,AJ Ireland,0,0,,,,,,"",""
+ball,2,1.6,Gloucestershire,HJH Marshall,M Klinger,AJ Ireland,1,0,,,,,,"",""
+ball,2,2.1,Gloucestershire,HJH Marshall,M Klinger,CE Shreck,1,0,,,,,,"",""
+ball,2,2.2,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,0,0,,,,,,"",""
+ball,2,2.3,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,0,0,,,,,,"",""
+ball,2,2.4,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,0,0,,,,,,"",""
+ball,2,2.5,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,0,0,,,,,,"",""
+ball,2,2.6,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,0,0,,,,,,"",""
+ball,2,3.1,Gloucestershire,HJH Marshall,M Klinger,AJ Ireland,0,0,,,,,,"",""
+ball,2,3.2,Gloucestershire,HJH Marshall,M Klinger,AJ Ireland,1,0,,,,,,"",""
+ball,2,3.3,Gloucestershire,M Klinger,HJH Marshall,AJ Ireland,0,0,,,,,,"",""
+ball,2,3.4,Gloucestershire,M Klinger,HJH Marshall,AJ Ireland,0,0,,,,,,"",""
+ball,2,3.5,Gloucestershire,M Klinger,HJH Marshall,AJ Ireland,4,0,,,,,,"",""
+ball,2,3.6,Gloucestershire,M Klinger,HJH Marshall,AJ Ireland,0,0,,,,,,"",""
+ball,2,4.1,Gloucestershire,HJH Marshall,M Klinger,CE Shreck,1,0,,,,,,"",""
+ball,2,4.2,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,4,0,,,,,,"",""
+ball,2,4.3,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,0,0,,,,,,"",""
+ball,2,4.4,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,0,1,1,,,,,"",""
+ball,2,4.5,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,0,0,,,,,,"",""
+ball,2,4.6,Gloucestershire,M Klinger,HJH Marshall,CE Shreck,1,0,,,,,,"",""
+ball,2,4.7,Gloucestershire,HJH Marshall,M Klinger,CE Shreck,0,0,,,,,,"",""
+ball,2,5.1,Gloucestershire,M Klinger,HJH Marshall,SJ Thakor,1,0,,,,,,"",""
+ball,2,5.2,Gloucestershire,HJH Marshall,M Klinger,SJ Thakor,1,0,,,,,,"",""
+ball,2,5.3,Gloucestershire,M Klinger,HJH Marshall,SJ Thakor,1,0,,,,,,"",""
+ball,2,5.4,Gloucestershire,HJH Marshall,M Klinger,SJ Thakor,0,0,,,,,,"",""
+ball,2,5.5,Gloucestershire,HJH Marshall,M Klinger,SJ Thakor,4,0,,,,,,"",""
+ball,2,5.6,Gloucestershire,HJH Marshall,M Klinger,SJ Thakor,0,0,,,,,,"",""
+ball,2,6.1,Gloucestershire,M Klinger,HJH Marshall,JKH Naik,1,0,,,,,,"",""
+ball,2,6.2,Gloucestershire,HJH Marshall,M Klinger,JKH Naik,1,0,,,,,,"",""
+ball,2,6.3,Gloucestershire,M Klinger,HJH Marshall,JKH Naik,1,0,,,,,,"",""
+ball,2,6.4,Gloucestershire,HJH Marshall,M Klinger,JKH Naik,1,0,,,,,,"",""
+ball,2,6.5,Gloucestershire,M Klinger,HJH Marshall,JKH Naik,1,0,,,,,,"",""
+ball,2,6.6,Gloucestershire,HJH Marshall,M Klinger,JKH Naik,1,0,,,,,,"",""
+ball,2,7.1,Gloucestershire,HJH Marshall,M Klinger,SJ Thakor,0,0,,,,,,"",""
+ball,2,7.2,Gloucestershire,HJH Marshall,M Klinger,SJ Thakor,0,0,,,,,,"",""
+ball,2,7.3,Gloucestershire,HJH Marshall,M Klinger,SJ Thakor,1,0,,,,,,"",""
+ball,2,7.4,Gloucestershire,M Klinger,HJH Marshall,SJ Thakor,0,0,,,,,,"",""
+ball,2,7.5,Gloucestershire,M Klinger,HJH Marshall,SJ Thakor,1,0,,,,,,"",""
+ball,2,7.6,Gloucestershire,HJH Marshall,M Klinger,SJ Thakor,0,0,,,,,,"",""
+ball,2,8.1,Gloucestershire,M Klinger,HJH Marshall,JKH Naik,1,0,,,,,,"",""
+ball,2,8.2,Gloucestershire,HJH Marshall,M Klinger,JKH Naik,0,0,,,,,,stumped,HJH Marshall
+ball,2,8.3,Gloucestershire,CDJ Dent,M Klinger,JKH Naik,0,0,,,,,,"",""
+ball,2,8.4,Gloucestershire,CDJ Dent,M Klinger,JKH Naik,0,0,,,,,,"",""
+ball,2,8.5,Gloucestershire,CDJ Dent,M Klinger,JKH Naik,0,0,,,,,,"",""
+ball,2,8.6,Gloucestershire,CDJ Dent,M Klinger,JKH Naik,1,0,,,,,,"",""
+ball,2,9.1,Gloucestershire,CDJ Dent,M Klinger,DJ Redfern,0,0,,,,,,"",""
+ball,2,9.2,Gloucestershire,CDJ Dent,M Klinger,DJ Redfern,4,0,,,,,,"",""
+ball,2,9.3,Gloucestershire,CDJ Dent,M Klinger,DJ Redfern,1,0,,,,,,"",""
+ball,2,9.4,Gloucestershire,M Klinger,CDJ Dent,DJ Redfern,0,0,,,,,,"",""
+ball,2,9.5,Gloucestershire,M Klinger,CDJ Dent,DJ Redfern,0,0,,,,,,"",""
+ball,2,9.6,Gloucestershire,M Klinger,CDJ Dent,DJ Redfern,0,0,,,,,,"",""
+ball,2,10.1,Gloucestershire,CDJ Dent,M Klinger,JKH Naik,0,0,,,,,,"",""
+ball,2,10.2,Gloucestershire,CDJ Dent,M Klinger,JKH Naik,1,0,,,,,,"",""
+ball,2,10.3,Gloucestershire,M Klinger,CDJ Dent,JKH Naik,1,0,,,,,,"",""
+ball,2,10.4,Gloucestershire,CDJ Dent,M Klinger,JKH Naik,0,0,,,,,,"",""
+ball,2,10.5,Gloucestershire,CDJ Dent,M Klinger,JKH Naik,0,0,,,,,,"",""
+ball,2,10.6,Gloucestershire,CDJ Dent,M Klinger,JKH Naik,0,0,,,,,,"",""
+ball,2,11.1,Gloucestershire,M Klinger,CDJ Dent,DJ Redfern,1,0,,,,,,"",""
+ball,2,11.2,Gloucestershire,CDJ Dent,M Klinger,DJ Redfern,0,0,,,,,,"",""
+ball,2,11.3,Gloucestershire,CDJ Dent,M Klinger,DJ Redfern,0,0,,,,,,bowled,CDJ Dent
+ball,2,11.4,Gloucestershire,WA Tavare,M Klinger,DJ Redfern,4,0,,,,,,"",""
+ball,2,11.5,Gloucestershire,WA Tavare,M Klinger,DJ Redfern,0,0,,,,,,caught,WA Tavare
+ball,2,11.6,Gloucestershire,WRS Gidman,M Klinger,DJ Redfern,0,0,,,,,,"",""
+ball,2,12.1,Gloucestershire,M Klinger,WRS Gidman,JKH Naik,0,0,,,,,,"",""
+ball,2,12.2,Gloucestershire,M Klinger,WRS Gidman,JKH Naik,1,0,,,,,,"",""
+ball,2,12.3,Gloucestershire,WRS Gidman,M Klinger,JKH Naik,1,0,,,,,,"",""
+ball,2,12.4,Gloucestershire,M Klinger,WRS Gidman,JKH Naik,1,0,,,,,,"",""
+ball,2,12.5,Gloucestershire,WRS Gidman,M Klinger,JKH Naik,4,0,,,,,,"",""
+ball,2,12.6,Gloucestershire,WRS Gidman,M Klinger,JKH Naik,4,0,,,,,,"",""
+ball,2,13.1,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,0,0,,,,,,"",""
+ball,2,13.2,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,0,0,,,,,,"",""
+ball,2,13.3,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,1,0,,,,,,"",""
+ball,2,13.4,Gloucestershire,WRS Gidman,M Klinger,DJ Redfern,0,0,,,,,,"",""
+ball,2,13.5,Gloucestershire,WRS Gidman,M Klinger,DJ Redfern,1,0,,,,,,"",""
+ball,2,13.6,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,1,0,,,,,,"",""
+ball,2,14.1,Gloucestershire,M Klinger,WRS Gidman,JKH Naik,1,0,,,,,,"",""
+ball,2,14.2,Gloucestershire,WRS Gidman,M Klinger,JKH Naik,1,0,,,,,,"",""
+ball,2,14.3,Gloucestershire,M Klinger,WRS Gidman,JKH Naik,0,0,,,,,,"",""
+ball,2,14.4,Gloucestershire,M Klinger,WRS Gidman,JKH Naik,0,0,,,,,,"",""
+ball,2,14.5,Gloucestershire,M Klinger,WRS Gidman,JKH Naik,0,0,,,,,,"",""
+ball,2,14.6,Gloucestershire,M Klinger,WRS Gidman,JKH Naik,1,0,,,,,,"",""
+ball,2,15.1,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,0,0,,,,,,"",""
+ball,2,15.2,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,0,0,,,,,,"",""
+ball,2,15.3,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,0,0,,,,,,"",""
+ball,2,15.4,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,0,0,,,,,,"",""
+ball,2,15.5,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,1,0,,,,,,"",""
+ball,2,15.6,Gloucestershire,WRS Gidman,M Klinger,DJ Redfern,1,0,,,,,,"",""
+ball,2,16.1,Gloucestershire,WRS Gidman,M Klinger,AJ Ireland,1,0,,,,,,"",""
+ball,2,16.2,Gloucestershire,M Klinger,WRS Gidman,AJ Ireland,1,0,,,,,,"",""
+ball,2,16.3,Gloucestershire,WRS Gidman,M Klinger,AJ Ireland,4,0,,,,,,"",""
+ball,2,16.4,Gloucestershire,WRS Gidman,M Klinger,AJ Ireland,1,0,,,,,,"",""
+ball,2,16.5,Gloucestershire,M Klinger,WRS Gidman,AJ Ireland,1,0,,,,,,"",""
+ball,2,16.6,Gloucestershire,WRS Gidman,M Klinger,AJ Ireland,4,0,,,,,,"",""
+ball,2,17.1,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,1,0,,,,,,"",""
+ball,2,17.2,Gloucestershire,WRS Gidman,M Klinger,DJ Redfern,0,0,,,,,,"",""
+ball,2,17.3,Gloucestershire,WRS Gidman,M Klinger,DJ Redfern,0,0,,,,,,"",""
+ball,2,17.4,Gloucestershire,WRS Gidman,M Klinger,DJ Redfern,1,0,,,,,,"",""
+ball,2,17.5,Gloucestershire,M Klinger,WRS Gidman,DJ Redfern,1,0,,,,,,"",""
+ball,2,17.6,Gloucestershire,WRS Gidman,M Klinger,DJ Redfern,1,0,,,,,,"",""
+ball,2,18.1,Gloucestershire,WRS Gidman,M Klinger,SB Styris,1,0,,,,,,"",""
+ball,2,18.2,Gloucestershire,M Klinger,WRS Gidman,SB Styris,1,0,,,,,,"",""
+ball,2,18.3,Gloucestershire,WRS Gidman,M Klinger,SB Styris,0,0,,,,,,"",""
+ball,2,18.4,Gloucestershire,WRS Gidman,M Klinger,SB Styris,0,0,,,,,,"",""
+ball,2,18.5,Gloucestershire,WRS Gidman,M Klinger,SB Styris,1,0,,,,,,"",""
+ball,2,18.6,Gloucestershire,M Klinger,WRS Gidman,SB Styris,1,0,,,,,,"",""
+ball,2,19.1,Gloucestershire,M Klinger,WRS Gidman,SJ Thakor,2,0,,,,,,"",""
+ball,2,19.2,Gloucestershire,M Klinger,WRS Gidman,SJ Thakor,2,0,,,,,,"",""
+ball,2,19.3,Gloucestershire,M Klinger,WRS Gidman,SJ Thakor,1,0,,,,,,"",""
+ball,2,19.4,Gloucestershire,WRS Gidman,M Klinger,SJ Thakor,4,0,,,,,,"",""
+ball,2,19.5,Gloucestershire,WRS Gidman,M Klinger,SJ Thakor,0,0,,,,,,"",""
+ball,2,19.6,Gloucestershire,WRS Gidman,M Klinger,SJ Thakor,1,0,,,,,,"",""
+ball,2,20.1,Gloucestershire,WRS Gidman,M Klinger,CE Shreck,1,0,,,,,,"",""
+ball,2,20.2,Gloucestershire,M Klinger,WRS Gidman,CE Shreck,0,4,,,4,,,"",""
+ball,2,20.3,Gloucestershire,M Klinger,WRS Gidman,CE Shreck,0,0,,,,,,"",""
+ball,2,20.4,Gloucestershire,M Klinger,WRS Gidman,CE Shreck,0,0,,,,,,"",""
+ball,2,20.5,Gloucestershire,M Klinger,WRS Gidman,CE Shreck,1,0,,,,,,"",""
+ball,2,20.6,Gloucestershire,WRS Gidman,M Klinger,CE Shreck,0,0,,,,,,"",""
+ball,2,21.1,Gloucestershire,M Klinger,WRS Gidman,SJ Thakor,4,0,,,,,,"",""
+ball,2,21.2,Gloucestershire,M Klinger,WRS Gidman,SJ Thakor,1,0,,,,,,"",""
+ball,2,21.3,Gloucestershire,WRS Gidman,M Klinger,SJ Thakor,0,0,,,,,,"",""
+ball,2,21.4,Gloucestershire,WRS Gidman,M Klinger,SJ Thakor,1,0,,,,,,"",""
+ball,2,21.5,Gloucestershire,M Klinger,WRS Gidman,SJ Thakor,4,0,,,,,,"",""
+ball,2,21.6,Gloucestershire,M Klinger,WRS Gidman,SJ Thakor,0,0,,,,,,"",""
+ball,2,22.1,Gloucestershire,WRS Gidman,M Klinger,CE Shreck,1,0,,,,,,"",""
+ball,2,22.2,Gloucestershire,M Klinger,WRS Gidman,CE Shreck,0,1,1,,,,,"",""
+ball,2,22.3,Gloucestershire,M Klinger,WRS Gidman,CE Shreck,1,0,,,,,,"",""
+ball,2,22.4,Gloucestershire,WRS Gidman,M Klinger,CE Shreck,1,0,,,,,,"",""
+ball,2,22.5,Gloucestershire,M Klinger,WRS Gidman,CE Shreck,1,0,,,,,,"",""
+ball,2,22.6,Gloucestershire,WRS Gidman,M Klinger,CE Shreck,4,0,,,,,,"",""

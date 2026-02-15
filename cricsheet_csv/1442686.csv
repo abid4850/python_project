@@ -1,0 +1,310 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Sydney Thunder
+info,gender,female
+info,season,2024/25
+info,date,2024/11/27
+info,event,Women's Big Bash League
+info,venue,"Drummoyne Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Hobart Hurricanes
+info,toss_decision,bat
+info,player_of_match,P Litchfield
+info,umpire,Andrew Crozier
+info,umpire,S Patel
+info,reserve_umpire,D Taylor
+info,tv_umpire,Roberto Howard
+info,match_referee,Dave Gilbert
+info,winner,Sydney Thunder
+info,winner_wickets,6
+info,player,Hobart Hurricanes,L Lee
+info,player,Hobart Hurricanes,R Johnston
+info,player,Hobart Hurricanes,NJ Carey
+info,player,Hobart Hurricanes,EJ Villani
+info,player,Hobart Hurricanes,H Graham
+info,player,Hobart Hurricanes,SW Bates
+info,player,Hobart Hurricanes,KE Bryce
+info,player,Hobart Hurricanes,LG Smith
+info,player,Hobart Hurricanes,M Strano
+info,player,Hobart Hurricanes,RA Mair
+info,player,Hobart Hurricanes,A Smith
+info,player,Sydney Thunder,G Voll
+info,player,Sydney Thunder,AC Jayangani
+info,player,Sydney Thunder,T Wilson
+info,player,Sydney Thunder,P Litchfield
+info,player,Sydney Thunder,A Learoyd
+info,player,Sydney Thunder,GL Adams
+info,player,Sydney Thunder,SJ Johnson
+info,player,Sydney Thunder,HJ Darlington
+info,player,Sydney Thunder,T Peschel
+info,player,Sydney Thunder,S Ismail
+info,player,Sydney Thunder,SL Bates
+info,registry,people,A Learoyd,1757bedf
+info,registry,people,A Smith,b125ce63
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,Andrew Crozier,00d07580
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,G Voll,5c30d455
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,H Graham,99812d10
+info,registry,people,HJ Darlington,50b558d2
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Lee,7b01ce83
+info,registry,people,LG Smith,9c515112
+info,registry,people,M Strano,f57d5dbb
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,R Johnston,3cd107a7
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,Roberto Howard,eec90c4b
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Patel,c4ee6c06
+info,registry,people,SJ Johnson,d7b754d4
+info,registry,people,SL Bates,0816fb1e
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,T Peschel,923402d8
+info,registry,people,T Wilson,32100b2d
+ball,1,0.1,Hobart Hurricanes,L Lee,R Johnston,S Ismail,0,0,,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,L Lee,R Johnston,S Ismail,1,0,,,,,,"",""
+ball,1,0.3,Hobart Hurricanes,R Johnston,L Lee,S Ismail,1,0,,,,,,"",""
+ball,1,0.4,Hobart Hurricanes,L Lee,R Johnston,S Ismail,0,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,L Lee,R Johnston,S Ismail,4,0,,,,,,"",""
+ball,1,0.6,Hobart Hurricanes,L Lee,R Johnston,S Ismail,1,0,,,,,,"",""
+ball,1,1.1,Hobart Hurricanes,L Lee,R Johnston,SL Bates,0,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,L Lee,R Johnston,SL Bates,0,0,,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,L Lee,R Johnston,SL Bates,1,0,,,,,,"",""
+ball,1,1.4,Hobart Hurricanes,R Johnston,L Lee,SL Bates,0,0,,,,,,"",""
+ball,1,1.5,Hobart Hurricanes,R Johnston,L Lee,SL Bates,0,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,R Johnston,L Lee,SL Bates,4,0,,,,,,"",""
+ball,1,2.1,Hobart Hurricanes,L Lee,R Johnston,S Ismail,0,0,,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,L Lee,R Johnston,S Ismail,1,0,,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,R Johnston,L Lee,S Ismail,0,0,,,,,,"",""
+ball,1,2.4,Hobart Hurricanes,R Johnston,L Lee,S Ismail,0,0,,,,,,bowled,R Johnston
+ball,1,2.5,Hobart Hurricanes,NJ Carey,L Lee,S Ismail,0,0,,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,NJ Carey,L Lee,S Ismail,0,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,L Lee,NJ Carey,SL Bates,0,0,,,,,,"",""
+ball,1,3.2,Hobart Hurricanes,L Lee,NJ Carey,SL Bates,0,0,,,,,,"",""
+ball,1,3.3,Hobart Hurricanes,L Lee,NJ Carey,SL Bates,0,0,,,,,,"",""
+ball,1,3.4,Hobart Hurricanes,L Lee,NJ Carey,SL Bates,0,0,,,,,,"",""
+ball,1,3.5,Hobart Hurricanes,L Lee,NJ Carey,SL Bates,1,0,,,,,,"",""
+ball,1,3.6,Hobart Hurricanes,NJ Carey,L Lee,SL Bates,0,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,L Lee,NJ Carey,HJ Darlington,4,0,,,,,,"",""
+ball,1,4.2,Hobart Hurricanes,L Lee,NJ Carey,HJ Darlington,2,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,L Lee,NJ Carey,HJ Darlington,4,0,,,,,,"",""
+ball,1,4.4,Hobart Hurricanes,L Lee,NJ Carey,HJ Darlington,0,0,,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,L Lee,NJ Carey,HJ Darlington,0,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,L Lee,NJ Carey,HJ Darlington,0,0,,,,,,"",""
+ball,1,5.1,Hobart Hurricanes,NJ Carey,L Lee,AC Jayangani,0,0,,,,,,"",""
+ball,1,5.2,Hobart Hurricanes,NJ Carey,L Lee,AC Jayangani,1,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,L Lee,NJ Carey,AC Jayangani,0,0,,,,,,"",""
+ball,1,5.4,Hobart Hurricanes,L Lee,NJ Carey,AC Jayangani,2,0,,,,,,"",""
+ball,1,5.5,Hobart Hurricanes,L Lee,NJ Carey,AC Jayangani,1,0,,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,NJ Carey,L Lee,AC Jayangani,0,0,,,,,,bowled,NJ Carey
+ball,1,6.1,Hobart Hurricanes,L Lee,EJ Villani,T Peschel,1,0,,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,EJ Villani,L Lee,T Peschel,2,0,,,,,,"",""
+ball,1,6.3,Hobart Hurricanes,EJ Villani,L Lee,T Peschel,1,0,,,,,,"",""
+ball,1,6.4,Hobart Hurricanes,L Lee,EJ Villani,T Peschel,0,0,,,,,,bowled,L Lee
+ball,1,6.5,Hobart Hurricanes,H Graham,EJ Villani,T Peschel,0,0,,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,H Graham,EJ Villani,T Peschel,1,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,H Graham,EJ Villani,SL Bates,1,0,,,,,,"",""
+ball,1,7.2,Hobart Hurricanes,EJ Villani,H Graham,SL Bates,1,0,,,,,,"",""
+ball,1,7.3,Hobart Hurricanes,H Graham,EJ Villani,SL Bates,0,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,H Graham,EJ Villani,SL Bates,0,0,,,,,,"",""
+ball,1,7.5,Hobart Hurricanes,H Graham,EJ Villani,SL Bates,1,0,,,,,,"",""
+ball,1,7.6,Hobart Hurricanes,EJ Villani,H Graham,SL Bates,0,0,,,,,,"",""
+ball,1,8.1,Hobart Hurricanes,H Graham,EJ Villani,HJ Darlington,1,0,,,,,,"",""
+ball,1,8.2,Hobart Hurricanes,EJ Villani,H Graham,HJ Darlington,1,0,,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,H Graham,EJ Villani,HJ Darlington,0,0,,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,H Graham,EJ Villani,HJ Darlington,0,0,,,,,,"",""
+ball,1,8.5,Hobart Hurricanes,H Graham,EJ Villani,HJ Darlington,1,0,,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,EJ Villani,H Graham,HJ Darlington,1,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,EJ Villani,H Graham,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,H Graham,EJ Villani,AC Jayangani,4,0,,,,,,"",""
+ball,1,9.3,Hobart Hurricanes,H Graham,EJ Villani,AC Jayangani,0,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,H Graham,EJ Villani,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,EJ Villani,H Graham,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.6,Hobart Hurricanes,H Graham,EJ Villani,AC Jayangani,0,0,,,,,,caught,H Graham
+ball,1,10.1,Hobart Hurricanes,EJ Villani,SW Bates,T Peschel,4,0,,,,,,"",""
+ball,1,10.2,Hobart Hurricanes,EJ Villani,SW Bates,T Peschel,0,0,,,,,,"",""
+ball,1,10.3,Hobart Hurricanes,EJ Villani,SW Bates,T Peschel,0,0,,,,,,"",""
+ball,1,10.4,Hobart Hurricanes,EJ Villani,SW Bates,T Peschel,1,0,,,,,,"",""
+ball,1,10.5,Hobart Hurricanes,SW Bates,EJ Villani,T Peschel,0,0,,,,,,"",""
+ball,1,10.6,Hobart Hurricanes,SW Bates,EJ Villani,T Peschel,2,0,,,,,,"",""
+ball,1,11.1,Hobart Hurricanes,EJ Villani,SW Bates,AC Jayangani,4,0,,,,,,"",""
+ball,1,11.2,Hobart Hurricanes,EJ Villani,SW Bates,AC Jayangani,1,0,,,,,,"",""
+ball,1,11.3,Hobart Hurricanes,SW Bates,EJ Villani,AC Jayangani,0,0,,,,,,"",""
+ball,1,11.4,Hobart Hurricanes,SW Bates,EJ Villani,AC Jayangani,1,0,,,,,,"",""
+ball,1,11.5,Hobart Hurricanes,EJ Villani,SW Bates,AC Jayangani,1,0,,,,,,"",""
+ball,1,11.6,Hobart Hurricanes,SW Bates,EJ Villani,AC Jayangani,1,0,,,,,,"",""
+ball,1,12.1,Hobart Hurricanes,SW Bates,EJ Villani,HJ Darlington,4,0,,,,,,"",""
+ball,1,12.2,Hobart Hurricanes,SW Bates,EJ Villani,HJ Darlington,1,0,,,,,,"",""
+ball,1,12.3,Hobart Hurricanes,EJ Villani,SW Bates,HJ Darlington,1,0,,,,,,"",""
+ball,1,12.4,Hobart Hurricanes,SW Bates,EJ Villani,HJ Darlington,1,0,,,,,,"",""
+ball,1,12.5,Hobart Hurricanes,EJ Villani,SW Bates,HJ Darlington,0,0,,,,,,"",""
+ball,1,12.6,Hobart Hurricanes,EJ Villani,SW Bates,HJ Darlington,0,0,,,,,,"",""
+ball,1,13.1,Hobart Hurricanes,SW Bates,EJ Villani,T Peschel,1,0,,,,,,"",""
+ball,1,13.2,Hobart Hurricanes,EJ Villani,SW Bates,T Peschel,0,0,,,,,,"",""
+ball,1,13.3,Hobart Hurricanes,EJ Villani,SW Bates,T Peschel,0,0,,,,,,"",""
+ball,1,13.4,Hobart Hurricanes,EJ Villani,SW Bates,T Peschel,0,0,,,,,,"",""
+ball,1,13.5,Hobart Hurricanes,EJ Villani,SW Bates,T Peschel,1,0,,,,,,"",""
+ball,1,13.6,Hobart Hurricanes,SW Bates,EJ Villani,T Peschel,1,0,,,,,,"",""
+ball,1,14.1,Hobart Hurricanes,SW Bates,EJ Villani,AC Jayangani,1,0,,,,,,"",""
+ball,1,14.2,Hobart Hurricanes,EJ Villani,SW Bates,AC Jayangani,1,0,,,,,,"",""
+ball,1,14.3,Hobart Hurricanes,SW Bates,EJ Villani,AC Jayangani,1,0,,,,,,"",""
+ball,1,14.4,Hobart Hurricanes,EJ Villani,SW Bates,AC Jayangani,0,0,,,,,,"",""
+ball,1,14.5,Hobart Hurricanes,EJ Villani,SW Bates,AC Jayangani,1,0,,,,,,"",""
+ball,1,14.6,Hobart Hurricanes,SW Bates,EJ Villani,AC Jayangani,1,0,,,,,,"",""
+ball,1,15.1,Hobart Hurricanes,SW Bates,EJ Villani,S Ismail,1,0,,,,,,"",""
+ball,1,15.2,Hobart Hurricanes,EJ Villani,SW Bates,S Ismail,0,0,,,,,,"",""
+ball,1,15.3,Hobart Hurricanes,EJ Villani,SW Bates,S Ismail,4,0,,,,,,"",""
+ball,1,15.4,Hobart Hurricanes,EJ Villani,SW Bates,S Ismail,2,0,,,,,,"",""
+ball,1,15.5,Hobart Hurricanes,EJ Villani,SW Bates,S Ismail,4,0,,,,,,"",""
+ball,1,15.6,Hobart Hurricanes,EJ Villani,SW Bates,S Ismail,6,0,,,,,,"",""
+ball,1,16.1,Hobart Hurricanes,SW Bates,EJ Villani,SL Bates,1,0,,,,,,"",""
+ball,1,16.2,Hobart Hurricanes,EJ Villani,SW Bates,SL Bates,0,0,,,,,,"",""
+ball,1,16.3,Hobart Hurricanes,EJ Villani,SW Bates,SL Bates,0,0,,,,,,"",""
+ball,1,16.4,Hobart Hurricanes,EJ Villani,SW Bates,SL Bates,4,0,,,,,,"",""
+ball,1,16.5,Hobart Hurricanes,EJ Villani,SW Bates,SL Bates,0,0,,,,,,"",""
+ball,1,16.6,Hobart Hurricanes,EJ Villani,SW Bates,SL Bates,0,1,,,,1,,"",""
+ball,1,17.1,Hobart Hurricanes,EJ Villani,SW Bates,T Peschel,1,0,,,,,,"",""
+ball,1,17.2,Hobart Hurricanes,SW Bates,EJ Villani,T Peschel,0,0,,,,,,"",""
+ball,1,17.3,Hobart Hurricanes,SW Bates,EJ Villani,T Peschel,0,0,,,,,,caught,SW Bates
+ball,1,17.4,Hobart Hurricanes,KE Bryce,EJ Villani,T Peschel,0,0,,,,,,"",""
+ball,1,17.5,Hobart Hurricanes,KE Bryce,EJ Villani,T Peschel,4,0,,,,,,"",""
+ball,1,17.6,Hobart Hurricanes,KE Bryce,EJ Villani,T Peschel,4,0,,,,,,"",""
+ball,1,18.1,Hobart Hurricanes,EJ Villani,KE Bryce,S Ismail,0,0,,,,,,"",""
+ball,1,18.2,Hobart Hurricanes,EJ Villani,KE Bryce,S Ismail,1,0,,,,,,"",""
+ball,1,18.3,Hobart Hurricanes,KE Bryce,EJ Villani,S Ismail,1,0,,,,,,"",""
+ball,1,18.4,Hobart Hurricanes,EJ Villani,KE Bryce,S Ismail,1,0,,,,,,"",""
+ball,1,18.5,Hobart Hurricanes,KE Bryce,EJ Villani,S Ismail,1,0,,,,,,"",""
+ball,1,18.6,Hobart Hurricanes,EJ Villani,KE Bryce,S Ismail,4,0,,,,,,"",""
+ball,1,19.1,Hobart Hurricanes,KE Bryce,EJ Villani,HJ Darlington,0,0,,,,,,caught,KE Bryce
+ball,1,19.2,Hobart Hurricanes,LG Smith,EJ Villani,HJ Darlington,1,0,,,,,,"",""
+ball,1,19.3,Hobart Hurricanes,EJ Villani,LG Smith,HJ Darlington,2,0,,,,,,"",""
+ball,1,19.4,Hobart Hurricanes,EJ Villani,LG Smith,HJ Darlington,1,0,,,,,,"",""
+ball,1,19.5,Hobart Hurricanes,LG Smith,EJ Villani,HJ Darlington,4,0,,,,,,"",""
+ball,1,19.6,Hobart Hurricanes,LG Smith,EJ Villani,HJ Darlington,1,0,,,,,,"",""
+ball,2,0.1,Sydney Thunder,G Voll,AC Jayangani,M Strano,0,0,,,,,,"",""
+ball,2,0.2,Sydney Thunder,G Voll,AC Jayangani,M Strano,0,0,,,,,,caught,G Voll
+ball,2,0.3,Sydney Thunder,T Wilson,AC Jayangani,M Strano,0,0,,,,,,"",""
+ball,2,0.4,Sydney Thunder,T Wilson,AC Jayangani,M Strano,1,0,,,,,,"",""
+ball,2,0.5,Sydney Thunder,AC Jayangani,T Wilson,M Strano,0,0,,,,,,"",""
+ball,2,0.6,Sydney Thunder,AC Jayangani,T Wilson,M Strano,0,0,,,,,,"",""
+ball,2,1.1,Sydney Thunder,T Wilson,AC Jayangani,RA Mair,0,1,1,,,,,"",""
+ball,2,1.2,Sydney Thunder,T Wilson,AC Jayangani,RA Mair,4,0,,,,,,"",""
+ball,2,1.3,Sydney Thunder,T Wilson,AC Jayangani,RA Mair,0,0,,,,,,"",""
+ball,2,1.4,Sydney Thunder,T Wilson,AC Jayangani,RA Mair,0,1,1,,,,,"",""
+ball,2,1.5,Sydney Thunder,T Wilson,AC Jayangani,RA Mair,0,0,,,,,,"",""
+ball,2,1.6,Sydney Thunder,T Wilson,AC Jayangani,RA Mair,0,1,1,,,,,"",""
+ball,2,1.7,Sydney Thunder,T Wilson,AC Jayangani,RA Mair,0,1,,,,1,,"",""
+ball,2,1.8,Sydney Thunder,AC Jayangani,T Wilson,RA Mair,0,0,,,,,,"",""
+ball,2,1.9,Sydney Thunder,AC Jayangani,T Wilson,RA Mair,4,0,,,,,,"",""
+ball,2,2.1,Sydney Thunder,T Wilson,AC Jayangani,M Strano,1,0,,,,,,"",""
+ball,2,2.2,Sydney Thunder,AC Jayangani,T Wilson,M Strano,0,0,,,,,,"",""
+ball,2,2.3,Sydney Thunder,AC Jayangani,T Wilson,M Strano,0,0,,,,,,"",""
+ball,2,2.4,Sydney Thunder,AC Jayangani,T Wilson,M Strano,0,0,,,,,,"",""
+ball,2,2.5,Sydney Thunder,AC Jayangani,T Wilson,M Strano,0,1,1,,,,,"",""
+ball,2,2.6,Sydney Thunder,AC Jayangani,T Wilson,M Strano,1,0,,,,,,"",""
+ball,2,2.7,Sydney Thunder,T Wilson,AC Jayangani,M Strano,0,0,,,,,,"",""
+ball,2,3.1,Sydney Thunder,AC Jayangani,T Wilson,NJ Carey,0,0,,,,,,"",""
+ball,2,3.2,Sydney Thunder,AC Jayangani,T Wilson,NJ Carey,0,1,1,,,,,"",""
+ball,2,3.3,Sydney Thunder,AC Jayangani,T Wilson,NJ Carey,4,0,,,,,,"",""
+ball,2,3.4,Sydney Thunder,AC Jayangani,T Wilson,NJ Carey,0,0,,,,,,"",""
+ball,2,3.5,Sydney Thunder,AC Jayangani,T Wilson,NJ Carey,0,0,,,,,,"",""
+ball,2,3.6,Sydney Thunder,AC Jayangani,T Wilson,NJ Carey,0,0,,,,,,"",""
+ball,2,3.7,Sydney Thunder,AC Jayangani,T Wilson,NJ Carey,0,0,,,,,,"",""
+ball,2,4.1,Sydney Thunder,T Wilson,AC Jayangani,LG Smith,4,0,,,,,,"",""
+ball,2,4.2,Sydney Thunder,T Wilson,AC Jayangani,LG Smith,1,0,,,,,,"",""
+ball,2,4.3,Sydney Thunder,AC Jayangani,T Wilson,LG Smith,0,0,,,,,,"",""
+ball,2,4.4,Sydney Thunder,AC Jayangani,T Wilson,LG Smith,6,0,,,,,,"",""
+ball,2,4.5,Sydney Thunder,AC Jayangani,T Wilson,LG Smith,0,0,,,,,,"",""
+ball,2,4.6,Sydney Thunder,AC Jayangani,T Wilson,LG Smith,0,0,,,,,,"",""
+ball,2,5.1,Sydney Thunder,T Wilson,AC Jayangani,H Graham,2,0,,,,,,"",""
+ball,2,5.2,Sydney Thunder,T Wilson,AC Jayangani,H Graham,1,0,,,,,,"",""
+ball,2,5.3,Sydney Thunder,AC Jayangani,T Wilson,H Graham,1,0,,,,,,"",""
+ball,2,5.4,Sydney Thunder,T Wilson,AC Jayangani,H Graham,0,0,,,,,,"",""
+ball,2,5.5,Sydney Thunder,T Wilson,AC Jayangani,H Graham,0,0,,,,,,caught,T Wilson
+ball,2,5.6,Sydney Thunder,P Litchfield,AC Jayangani,H Graham,0,0,,,,,,"",""
+ball,2,6.1,Sydney Thunder,AC Jayangani,P Litchfield,A Smith,1,0,,,,,,"",""
+ball,2,6.2,Sydney Thunder,P Litchfield,AC Jayangani,A Smith,1,0,,,,,,"",""
+ball,2,6.3,Sydney Thunder,AC Jayangani,P Litchfield,A Smith,0,0,,,,,,"",""
+ball,2,6.4,Sydney Thunder,AC Jayangani,P Litchfield,A Smith,1,0,,,,,,"",""
+ball,2,6.5,Sydney Thunder,P Litchfield,AC Jayangani,A Smith,1,0,,,,,,"",""
+ball,2,6.6,Sydney Thunder,AC Jayangani,P Litchfield,A Smith,0,0,,,,,,"",""
+ball,2,7.1,Sydney Thunder,P Litchfield,AC Jayangani,LG Smith,1,0,,,,,,"",""
+ball,2,7.2,Sydney Thunder,AC Jayangani,P Litchfield,LG Smith,4,0,,,,,,"",""
+ball,2,7.3,Sydney Thunder,AC Jayangani,P Litchfield,LG Smith,0,1,1,,,,,"",""
+ball,2,7.4,Sydney Thunder,AC Jayangani,P Litchfield,LG Smith,1,0,,,,,,"",""
+ball,2,7.5,Sydney Thunder,P Litchfield,AC Jayangani,LG Smith,1,0,,,,,,"",""
+ball,2,7.6,Sydney Thunder,AC Jayangani,P Litchfield,LG Smith,0,0,,,,,,"",""
+ball,2,7.7,Sydney Thunder,AC Jayangani,P Litchfield,LG Smith,1,0,,,,,,"",""
+ball,2,8.1,Sydney Thunder,AC Jayangani,P Litchfield,NJ Carey,0,0,,,,,,"",""
+ball,2,8.2,Sydney Thunder,AC Jayangani,P Litchfield,NJ Carey,0,0,,,,,,"",""
+ball,2,8.3,Sydney Thunder,AC Jayangani,P Litchfield,NJ Carey,4,0,,,,,,"",""
+ball,2,8.4,Sydney Thunder,AC Jayangani,P Litchfield,NJ Carey,0,0,,,,,,"",""
+ball,2,8.5,Sydney Thunder,AC Jayangani,P Litchfield,NJ Carey,1,0,,,,,,"",""
+ball,2,8.6,Sydney Thunder,P Litchfield,AC Jayangani,NJ Carey,1,0,,,,,,"",""
+ball,2,9.1,Sydney Thunder,P Litchfield,AC Jayangani,H Graham,1,0,,,,,,"",""
+ball,2,9.2,Sydney Thunder,AC Jayangani,P Litchfield,H Graham,1,0,,,,,,"",""
+ball,2,9.3,Sydney Thunder,P Litchfield,AC Jayangani,H Graham,4,0,,,,,,"",""
+ball,2,9.4,Sydney Thunder,P Litchfield,AC Jayangani,H Graham,0,0,,,,,,"",""
+ball,2,9.5,Sydney Thunder,P Litchfield,AC Jayangani,H Graham,1,0,,,,,,"",""
+ball,2,9.6,Sydney Thunder,AC Jayangani,P Litchfield,H Graham,0,0,,,,,,"",""
+ball,2,10.1,Sydney Thunder,P Litchfield,AC Jayangani,M Strano,0,0,,,,,,"",""
+ball,2,10.2,Sydney Thunder,P Litchfield,AC Jayangani,M Strano,0,0,,,,,,"",""
+ball,2,10.3,Sydney Thunder,P Litchfield,AC Jayangani,M Strano,1,0,,,,,,"",""
+ball,2,10.4,Sydney Thunder,AC Jayangani,P Litchfield,M Strano,0,0,,,,,,"",""
+ball,2,10.5,Sydney Thunder,AC Jayangani,P Litchfield,M Strano,0,0,,,,,,"",""
+ball,2,10.6,Sydney Thunder,AC Jayangani,P Litchfield,M Strano,1,0,,,,,,"",""
+ball,2,11.1,Sydney Thunder,AC Jayangani,P Litchfield,A Smith,0,0,,,,,,caught,AC Jayangani
+ball,2,11.2,Sydney Thunder,A Learoyd,P Litchfield,A Smith,1,1,,1,,,,"",""
+ball,2,11.3,Sydney Thunder,P Litchfield,A Learoyd,A Smith,0,0,,,,,,"",""
+ball,2,11.4,Sydney Thunder,P Litchfield,A Learoyd,A Smith,1,0,,,,,,"",""
+ball,2,11.5,Sydney Thunder,A Learoyd,P Litchfield,A Smith,0,0,,,,,,"",""
+ball,2,11.6,Sydney Thunder,A Learoyd,P Litchfield,A Smith,1,0,,,,,,"",""
+ball,2,11.7,Sydney Thunder,P Litchfield,A Learoyd,A Smith,0,0,,,,,,"",""
+ball,2,12.1,Sydney Thunder,A Learoyd,P Litchfield,KE Bryce,1,0,,,,,,"",""
+ball,2,12.2,Sydney Thunder,P Litchfield,A Learoyd,KE Bryce,1,0,,,,,,"",""
+ball,2,12.3,Sydney Thunder,A Learoyd,P Litchfield,KE Bryce,0,2,,,,2,,"",""
+ball,2,12.4,Sydney Thunder,A Learoyd,P Litchfield,KE Bryce,1,0,,,,,,"",""
+ball,2,12.5,Sydney Thunder,P Litchfield,A Learoyd,KE Bryce,1,0,,,,,,"",""
+ball,2,12.6,Sydney Thunder,A Learoyd,P Litchfield,KE Bryce,1,0,,,,,,"",""
+ball,2,13.1,Sydney Thunder,A Learoyd,P Litchfield,A Smith,1,0,,,,,,"",""
+ball,2,13.2,Sydney Thunder,P Litchfield,A Learoyd,A Smith,4,0,,,,,,"",""
+ball,2,13.3,Sydney Thunder,P Litchfield,A Learoyd,A Smith,4,0,,,,,,"",""
+ball,2,13.4,Sydney Thunder,P Litchfield,A Learoyd,A Smith,0,0,,,,,,"",""
+ball,2,13.5,Sydney Thunder,P Litchfield,A Learoyd,A Smith,0,0,,,,,,"",""
+ball,2,13.6,Sydney Thunder,P Litchfield,A Learoyd,A Smith,0,0,,,,,,"",""
+ball,2,14.1,Sydney Thunder,A Learoyd,P Litchfield,M Strano,0,0,,,,,,"",""
+ball,2,14.2,Sydney Thunder,A Learoyd,P Litchfield,M Strano,0,0,,,,,,"",""
+ball,2,14.3,Sydney Thunder,A Learoyd,P Litchfield,M Strano,0,0,,,,,,"",""
+ball,2,14.4,Sydney Thunder,A Learoyd,P Litchfield,M Strano,1,0,,,,,,"",""
+ball,2,14.5,Sydney Thunder,P Litchfield,A Learoyd,M Strano,0,1,,,1,,,"",""
+ball,2,14.6,Sydney Thunder,A Learoyd,P Litchfield,M Strano,1,0,,,,,,"",""
+ball,2,15.1,Sydney Thunder,A Learoyd,P Litchfield,H Graham,1,0,,,,,,"",""
+ball,2,15.2,Sydney Thunder,P Litchfield,A Learoyd,H Graham,1,0,,,,,,"",""
+ball,2,15.3,Sydney Thunder,A Learoyd,P Litchfield,H Graham,0,0,,,,,,"",""
+ball,2,15.4,Sydney Thunder,A Learoyd,P Litchfield,H Graham,1,0,,,,,,"",""
+ball,2,15.5,Sydney Thunder,P Litchfield,A Learoyd,H Graham,4,0,,,,,,"",""
+ball,2,15.6,Sydney Thunder,P Litchfield,A Learoyd,H Graham,1,0,,,,,,"",""
+ball,2,16.1,Sydney Thunder,P Litchfield,A Learoyd,NJ Carey,1,0,,,,,,"",""
+ball,2,16.2,Sydney Thunder,A Learoyd,P Litchfield,NJ Carey,1,0,,,,,,"",""
+ball,2,16.3,Sydney Thunder,P Litchfield,A Learoyd,NJ Carey,1,0,,,,,,"",""
+ball,2,16.4,Sydney Thunder,A Learoyd,P Litchfield,NJ Carey,1,0,,,,,,"",""
+ball,2,16.5,Sydney Thunder,P Litchfield,A Learoyd,NJ Carey,1,0,,,,,,"",""
+ball,2,16.6,Sydney Thunder,A Learoyd,P Litchfield,NJ Carey,1,0,,,,,,"",""
+ball,2,17.1,Sydney Thunder,A Learoyd,P Litchfield,H Graham,1,0,,,,,,"",""
+ball,2,17.2,Sydney Thunder,P Litchfield,A Learoyd,H Graham,2,0,,,,,,"",""
+ball,2,17.3,Sydney Thunder,P Litchfield,A Learoyd,H Graham,4,0,,,,,,"",""
+ball,2,17.4,Sydney Thunder,P Litchfield,A Learoyd,H Graham,1,0,,,,,,"",""
+ball,2,17.5,Sydney Thunder,A Learoyd,P Litchfield,H Graham,4,0,,,,,,"",""
+ball,2,17.6,Sydney Thunder,A Learoyd,P Litchfield,H Graham,4,0,,,,,,"",""
+ball,2,18.1,Sydney Thunder,P Litchfield,A Learoyd,NJ Carey,6,0,,,,,,"",""
+ball,2,18.2,Sydney Thunder,P Litchfield,A Learoyd,NJ Carey,1,0,,,,,,"",""
+ball,2,18.3,Sydney Thunder,A Learoyd,P Litchfield,NJ Carey,0,0,,,,,,"",""
+ball,2,18.4,Sydney Thunder,A Learoyd,P Litchfield,NJ Carey,1,0,,,,,,"",""
+ball,2,18.5,Sydney Thunder,P Litchfield,A Learoyd,NJ Carey,0,0,,,,,,bowled,P Litchfield
+ball,2,18.6,Sydney Thunder,GL Adams,A Learoyd,NJ Carey,4,0,,,,,,"",""

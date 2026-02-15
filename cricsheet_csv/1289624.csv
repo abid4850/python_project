@@ -1,0 +1,305 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Canterbury
+info,gender,male
+info,season,2021/22
+info,date,2022/01/07
+info,event,Super Smash
+info,match_number,20
+info,venue,"Eden Park, Auckland"
+info,city,Auckland
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,umpire,JM Dempsey
+info,umpire,PJ Pasco
+info,reserve_umpire,V Mahna
+info,tv_umpire,TJ Parlane
+info,match_referee,GB Troup
+info,winner,Canterbury
+info,winner_wickets,5
+info,player,Auckland,GH Worker
+info,player,Auckland,GD Phillips
+info,player,Auckland,SM Solia
+info,player,Auckland,GK Beghin
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,BJ Horne
+info,player,Auckland,CJ Briggs
+info,player,Auckland,LH Ferguson
+info,player,Auckland,WER Somerville
+info,player,Auckland,A Ashok
+info,player,Auckland,BG Lister
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,KJ McClure
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,HB Shipley
+info,player,Canterbury,TD Astle
+info,player,Canterbury,WSA Williams
+info,player,Canterbury,W O'Rourke
+info,player,Canterbury,EJ Nuttall
+info,registry,people,A Ashok,321be7e3
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,CJ Briggs,6c3dd24e
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GK Beghin,0d8f5fc6
+info,registry,people,HB Shipley,5426de63
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,KJ McClure,4c895bc1
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,MJ Hay,732f711b
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TD Astle,383dd431
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,V Mahna,5dcdc811
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,WER Somerville,74a1c1e3
+info,registry,people,WSA Williams,861eed37
+ball,1,0.1,Auckland,GH Worker,GD Phillips,HB Shipley,0,0,,,,,,"",""
+ball,1,0.2,Auckland,GH Worker,GD Phillips,HB Shipley,4,0,,,,,,"",""
+ball,1,0.3,Auckland,GH Worker,GD Phillips,HB Shipley,1,0,,,,,,"",""
+ball,1,0.4,Auckland,GD Phillips,GH Worker,HB Shipley,0,0,,,,,,"",""
+ball,1,0.5,Auckland,GD Phillips,GH Worker,HB Shipley,0,1,1,,,,,"",""
+ball,1,0.6,Auckland,GD Phillips,GH Worker,HB Shipley,1,0,,,,,,"",""
+ball,1,0.7,Auckland,GH Worker,GD Phillips,HB Shipley,0,0,,,,,,"",""
+ball,1,1.1,Auckland,GD Phillips,GH Worker,EJ Nuttall,4,0,,,,,,"",""
+ball,1,1.2,Auckland,GD Phillips,GH Worker,EJ Nuttall,0,0,,,,,,"",""
+ball,1,1.3,Auckland,GD Phillips,GH Worker,EJ Nuttall,2,0,,,,,,"",""
+ball,1,1.4,Auckland,GD Phillips,GH Worker,EJ Nuttall,4,0,,,,,,"",""
+ball,1,1.5,Auckland,GD Phillips,GH Worker,EJ Nuttall,0,0,,,,,,"",""
+ball,1,1.6,Auckland,GD Phillips,GH Worker,EJ Nuttall,0,0,,,,,,"",""
+ball,1,2.1,Auckland,GH Worker,GD Phillips,W O'Rourke,1,0,,,,,,"",""
+ball,1,2.2,Auckland,GD Phillips,GH Worker,W O'Rourke,0,0,,,,,,"",""
+ball,1,2.3,Auckland,GD Phillips,GH Worker,W O'Rourke,0,0,,,,,,"",""
+ball,1,2.4,Auckland,GD Phillips,GH Worker,W O'Rourke,6,0,,,,,,"",""
+ball,1,2.5,Auckland,GD Phillips,GH Worker,W O'Rourke,1,0,,,,,,"",""
+ball,1,2.6,Auckland,GH Worker,GD Phillips,W O'Rourke,0,0,,,,,,"",""
+ball,1,3.1,Auckland,GD Phillips,GH Worker,HB Shipley,2,0,,,,,,"",""
+ball,1,3.2,Auckland,GD Phillips,GH Worker,HB Shipley,0,0,,,,,,"",""
+ball,1,3.3,Auckland,GD Phillips,GH Worker,HB Shipley,6,0,,,,,,"",""
+ball,1,3.4,Auckland,GD Phillips,GH Worker,HB Shipley,2,0,,,,,,"",""
+ball,1,3.5,Auckland,GD Phillips,GH Worker,HB Shipley,0,0,,,,,,"",""
+ball,1,3.6,Auckland,GD Phillips,GH Worker,HB Shipley,2,0,,,,,,"",""
+ball,1,4.1,Auckland,GH Worker,GD Phillips,W O'Rourke,0,1,,,,1,,"",""
+ball,1,4.2,Auckland,GD Phillips,GH Worker,W O'Rourke,0,0,,,,,,"",""
+ball,1,4.3,Auckland,GD Phillips,GH Worker,W O'Rourke,4,0,,,,,,"",""
+ball,1,4.4,Auckland,GD Phillips,GH Worker,W O'Rourke,1,0,,,,,,"",""
+ball,1,4.5,Auckland,GH Worker,GD Phillips,W O'Rourke,0,0,,,,,,"",""
+ball,1,4.6,Auckland,GH Worker,GD Phillips,W O'Rourke,0,0,,,,,,"",""
+ball,1,5.1,Auckland,GD Phillips,GH Worker,TD Astle,6,0,,,,,,"",""
+ball,1,5.2,Auckland,GD Phillips,GH Worker,TD Astle,0,0,,,,,,"",""
+ball,1,5.3,Auckland,GD Phillips,GH Worker,TD Astle,6,0,,,,,,"",""
+ball,1,5.4,Auckland,GD Phillips,GH Worker,TD Astle,6,0,,,,,,"",""
+ball,1,5.5,Auckland,GD Phillips,GH Worker,TD Astle,0,1,1,,,,,"",""
+ball,1,5.6,Auckland,GD Phillips,GH Worker,TD Astle,0,0,,,,,,"",""
+ball,1,5.7,Auckland,GD Phillips,GH Worker,TD Astle,0,0,,,,,,caught,GD Phillips
+ball,1,6.1,Auckland,SM Solia,GH Worker,CE McConchie,0,0,,,,,,lbw,SM Solia
+ball,1,6.2,Auckland,GK Beghin,GH Worker,CE McConchie,0,0,,,,,,"",""
+ball,1,6.3,Auckland,GK Beghin,GH Worker,CE McConchie,0,0,,,,,,"",""
+ball,1,6.4,Auckland,GK Beghin,GH Worker,CE McConchie,1,0,,,,,,"",""
+ball,1,6.5,Auckland,GH Worker,GK Beghin,CE McConchie,1,0,,,,,,"",""
+ball,1,6.6,Auckland,GK Beghin,GH Worker,CE McConchie,1,0,,,,,,"",""
+ball,1,7.1,Auckland,GK Beghin,GH Worker,TD Astle,0,0,,,,,,"",""
+ball,1,7.2,Auckland,GK Beghin,GH Worker,TD Astle,0,0,,,,,,"",""
+ball,1,7.3,Auckland,GK Beghin,GH Worker,TD Astle,1,0,,,,,,"",""
+ball,1,7.4,Auckland,GH Worker,GK Beghin,TD Astle,1,0,,,,,,"",""
+ball,1,7.5,Auckland,GK Beghin,GH Worker,TD Astle,1,0,,,,,,"",""
+ball,1,7.6,Auckland,GH Worker,GK Beghin,TD Astle,1,0,,,,,,"",""
+ball,1,8.1,Auckland,GH Worker,GK Beghin,CE McConchie,2,0,,,,,,"",""
+ball,1,8.2,Auckland,GH Worker,GK Beghin,CE McConchie,1,0,,,,,,"",""
+ball,1,8.3,Auckland,GK Beghin,GH Worker,CE McConchie,0,0,,,,,,"",""
+ball,1,8.4,Auckland,GK Beghin,GH Worker,CE McConchie,1,0,,,,,,"",""
+ball,1,8.5,Auckland,GH Worker,GK Beghin,CE McConchie,0,0,,,,,,"",""
+ball,1,8.6,Auckland,GH Worker,GK Beghin,CE McConchie,1,0,,,,,,"",""
+ball,1,9.1,Auckland,GH Worker,GK Beghin,EJ Nuttall,0,1,,,,1,,"",""
+ball,1,9.2,Auckland,GK Beghin,GH Worker,EJ Nuttall,1,0,,,,,,"",""
+ball,1,9.3,Auckland,GH Worker,GK Beghin,EJ Nuttall,1,0,,,,,,"",""
+ball,1,9.4,Auckland,GK Beghin,GH Worker,EJ Nuttall,0,0,,,,,,"",""
+ball,1,9.5,Auckland,GK Beghin,GH Worker,EJ Nuttall,2,0,,,,,,"",""
+ball,1,9.6,Auckland,GK Beghin,GH Worker,EJ Nuttall,1,0,,,,,,"",""
+ball,1,10.1,Auckland,GK Beghin,GH Worker,CE McConchie,2,0,,,,,,"",""
+ball,1,10.2,Auckland,GK Beghin,GH Worker,CE McConchie,1,0,,,,,,"",""
+ball,1,10.3,Auckland,GH Worker,GK Beghin,CE McConchie,1,0,,,,,,"",""
+ball,1,10.4,Auckland,GK Beghin,GH Worker,CE McConchie,3,0,,,,,,"",""
+ball,1,10.5,Auckland,GH Worker,GK Beghin,CE McConchie,1,0,,,,,,"",""
+ball,1,10.6,Auckland,GK Beghin,GH Worker,CE McConchie,1,0,,,,,,"",""
+ball,1,11.1,Auckland,GK Beghin,GH Worker,TD Astle,1,0,,,,,,"",""
+ball,1,11.2,Auckland,GH Worker,GK Beghin,TD Astle,1,0,,,,,,"",""
+ball,1,11.3,Auckland,GK Beghin,GH Worker,TD Astle,2,0,,,,,,"",""
+ball,1,11.4,Auckland,GK Beghin,GH Worker,TD Astle,0,0,,,,,,"",""
+ball,1,11.5,Auckland,GK Beghin,GH Worker,TD Astle,4,0,,,,,,"",""
+ball,1,11.6,Auckland,GK Beghin,GH Worker,TD Astle,0,0,,,,,,bowled,GK Beghin
+ball,1,12.1,Auckland,GH Worker,RR O'Donnell,CE McConchie,1,0,,,,,,"",""
+ball,1,12.2,Auckland,RR O'Donnell,GH Worker,CE McConchie,1,0,,,,,,"",""
+ball,1,12.3,Auckland,GH Worker,RR O'Donnell,CE McConchie,4,0,,,,,,"",""
+ball,1,12.4,Auckland,GH Worker,RR O'Donnell,CE McConchie,1,0,,,,,,"",""
+ball,1,12.5,Auckland,RR O'Donnell,GH Worker,CE McConchie,1,0,,,,,,"",""
+ball,1,12.6,Auckland,GH Worker,RR O'Donnell,CE McConchie,1,0,,,,,,"",""
+ball,1,13.1,Auckland,GH Worker,RR O'Donnell,EJ Nuttall,2,0,,,,,,"",""
+ball,1,13.2,Auckland,GH Worker,RR O'Donnell,EJ Nuttall,0,0,,,,,,caught,GH Worker
+ball,1,13.3,Auckland,RR O'Donnell,BJ Horne,EJ Nuttall,1,0,,,,,,"",""
+ball,1,13.4,Auckland,BJ Horne,RR O'Donnell,EJ Nuttall,0,0,,,,,,"",""
+ball,1,13.5,Auckland,BJ Horne,RR O'Donnell,EJ Nuttall,1,0,,,,,,"",""
+ball,1,13.6,Auckland,RR O'Donnell,BJ Horne,EJ Nuttall,1,0,,,,,,"",""
+ball,1,14.1,Auckland,RR O'Donnell,BJ Horne,W O'Rourke,1,0,,,,,,"",""
+ball,1,14.2,Auckland,BJ Horne,RR O'Donnell,W O'Rourke,0,0,,,,,,"",""
+ball,1,14.3,Auckland,BJ Horne,RR O'Donnell,W O'Rourke,1,0,,,,,,"",""
+ball,1,14.4,Auckland,RR O'Donnell,BJ Horne,W O'Rourke,1,0,,,,,,"",""
+ball,1,14.5,Auckland,BJ Horne,RR O'Donnell,W O'Rourke,1,0,,,,,,"",""
+ball,1,14.6,Auckland,RR O'Donnell,BJ Horne,W O'Rourke,4,0,,,,,,"",""
+ball,1,15.1,Auckland,BJ Horne,RR O'Donnell,TD Astle,1,0,,,,,,"",""
+ball,1,15.2,Auckland,RR O'Donnell,BJ Horne,TD Astle,6,0,,,,,,"",""
+ball,1,15.3,Auckland,RR O'Donnell,BJ Horne,TD Astle,1,0,,,,,,"",""
+ball,1,15.4,Auckland,BJ Horne,RR O'Donnell,TD Astle,1,0,,,,,,"",""
+ball,1,15.5,Auckland,RR O'Donnell,BJ Horne,TD Astle,4,0,,,,,,"",""
+ball,1,15.6,Auckland,RR O'Donnell,BJ Horne,TD Astle,1,0,,,,,,"",""
+ball,1,16.1,Auckland,RR O'Donnell,BJ Horne,EJ Nuttall,0,0,,,,,,caught,RR O'Donnell
+ball,1,16.2,Auckland,CJ Briggs,BJ Horne,EJ Nuttall,0,0,,,,,,"",""
+ball,1,16.3,Auckland,CJ Briggs,BJ Horne,EJ Nuttall,0,1,,,1,,,"",""
+ball,1,16.4,Auckland,BJ Horne,CJ Briggs,EJ Nuttall,0,0,,,,,,"",""
+ball,1,16.5,Auckland,BJ Horne,CJ Briggs,EJ Nuttall,6,0,,,,,,"",""
+ball,1,16.6,Auckland,BJ Horne,CJ Briggs,EJ Nuttall,1,0,,,,,,"",""
+ball,1,17.1,Auckland,BJ Horne,CJ Briggs,WSA Williams,6,0,,,,,,"",""
+ball,1,17.2,Auckland,BJ Horne,CJ Briggs,WSA Williams,0,0,,,,,,"",""
+ball,1,17.3,Auckland,BJ Horne,CJ Briggs,WSA Williams,0,0,,,,,,caught,BJ Horne
+ball,1,17.4,Auckland,CJ Briggs,LH Ferguson,WSA Williams,0,0,,,,,,"",""
+ball,1,17.5,Auckland,CJ Briggs,LH Ferguson,WSA Williams,1,0,,,,,,"",""
+ball,1,17.6,Auckland,LH Ferguson,CJ Briggs,WSA Williams,0,0,,,,,,"",""
+ball,1,18.1,Auckland,CJ Briggs,LH Ferguson,HB Shipley,0,1,1,,,,,"",""
+ball,1,18.2,Auckland,CJ Briggs,LH Ferguson,HB Shipley,2,0,,,,,,"",""
+ball,1,18.3,Auckland,CJ Briggs,LH Ferguson,HB Shipley,0,0,,,,,,caught,CJ Briggs
+ball,1,18.4,Auckland,WER Somerville,LH Ferguson,HB Shipley,1,0,,,,,,"",""
+ball,1,18.5,Auckland,LH Ferguson,WER Somerville,HB Shipley,0,0,,,,,,caught,LH Ferguson
+ball,1,18.6,Auckland,WER Somerville,A Ashok,HB Shipley,1,0,,,,,,"",""
+ball,1,18.7,Auckland,A Ashok,WER Somerville,HB Shipley,2,0,,,,,,"",""
+ball,1,19.1,Auckland,WER Somerville,A Ashok,WSA Williams,1,0,,,,,,"",""
+ball,1,19.2,Auckland,A Ashok,WER Somerville,WSA Williams,1,0,,,,,,"",""
+ball,1,19.3,Auckland,WER Somerville,A Ashok,WSA Williams,4,0,,,,,,"",""
+ball,1,19.4,Auckland,WER Somerville,A Ashok,WSA Williams,1,0,,,,,,"",""
+ball,1,19.5,Auckland,A Ashok,WER Somerville,WSA Williams,1,0,,,,,,"",""
+ball,1,19.6,Auckland,WER Somerville,A Ashok,WSA Williams,4,0,,,,,,"",""
+ball,2,0.1,Canterbury,CJ Bowes,KJ McClure,BG Lister,0,0,,,,,,"",""
+ball,2,0.2,Canterbury,CJ Bowes,KJ McClure,BG Lister,0,1,,1,,,,"",""
+ball,2,0.3,Canterbury,CJ Bowes,KJ McClure,BG Lister,1,0,,,,,,"",""
+ball,2,0.4,Canterbury,KJ McClure,CJ Bowes,BG Lister,1,0,,,,,,"",""
+ball,2,0.5,Canterbury,CJ Bowes,KJ McClure,BG Lister,4,0,,,,,,"",""
+ball,2,0.6,Canterbury,CJ Bowes,KJ McClure,BG Lister,4,0,,,,,,"",""
+ball,2,0.7,Canterbury,CJ Bowes,KJ McClure,BG Lister,4,0,,,,,,"",""
+ball,2,1.1,Canterbury,KJ McClure,CJ Bowes,LH Ferguson,4,0,,,,,,"",""
+ball,2,1.2,Canterbury,KJ McClure,CJ Bowes,LH Ferguson,0,0,,,,,,caught,KJ McClure
+ball,2,1.3,Canterbury,CJ Bowes,LJ Carter,LH Ferguson,0,0,,,,,,"",""
+ball,2,1.4,Canterbury,CJ Bowes,LJ Carter,LH Ferguson,4,0,,,,,,"",""
+ball,2,1.5,Canterbury,CJ Bowes,LJ Carter,LH Ferguson,0,0,,,,,,"",""
+ball,2,1.6,Canterbury,CJ Bowes,LJ Carter,LH Ferguson,6,0,,,,,,"",""
+ball,2,2.1,Canterbury,LJ Carter,CJ Bowes,SM Solia,0,0,,,,,,"",""
+ball,2,2.2,Canterbury,LJ Carter,CJ Bowes,SM Solia,0,1,,,,1,,"",""
+ball,2,2.3,Canterbury,CJ Bowes,LJ Carter,SM Solia,2,0,,,,,,"",""
+ball,2,2.4,Canterbury,CJ Bowes,LJ Carter,SM Solia,1,0,,,,,,"",""
+ball,2,2.5,Canterbury,LJ Carter,CJ Bowes,SM Solia,6,0,,,,,,"",""
+ball,2,2.6,Canterbury,LJ Carter,CJ Bowes,SM Solia,1,0,,,,,,"",""
+ball,2,3.1,Canterbury,LJ Carter,CJ Bowes,BG Lister,2,0,,,,,,"",""
+ball,2,3.2,Canterbury,LJ Carter,CJ Bowes,BG Lister,0,0,,,,,,"",""
+ball,2,3.3,Canterbury,LJ Carter,CJ Bowes,BG Lister,0,0,,,,,,"",""
+ball,2,3.4,Canterbury,LJ Carter,CJ Bowes,BG Lister,1,0,,,,,,"",""
+ball,2,3.5,Canterbury,CJ Bowes,LJ Carter,BG Lister,0,0,,,,,,lbw,CJ Bowes
+ball,2,3.6,Canterbury,CE McConchie,LJ Carter,BG Lister,0,0,,,,,,"",""
+ball,2,4.1,Canterbury,LJ Carter,CE McConchie,WER Somerville,1,0,,,,,,"",""
+ball,2,4.2,Canterbury,CE McConchie,LJ Carter,WER Somerville,1,0,,,,,,"",""
+ball,2,4.3,Canterbury,LJ Carter,CE McConchie,WER Somerville,0,0,,,,,,"",""
+ball,2,4.4,Canterbury,LJ Carter,CE McConchie,WER Somerville,6,0,,,,,,"",""
+ball,2,4.5,Canterbury,LJ Carter,CE McConchie,WER Somerville,1,0,,,,,,"",""
+ball,2,4.6,Canterbury,CE McConchie,LJ Carter,WER Somerville,4,0,,,,,,"",""
+ball,2,5.1,Canterbury,LJ Carter,CE McConchie,LH Ferguson,1,0,,,,,,"",""
+ball,2,5.2,Canterbury,CE McConchie,LJ Carter,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.3,Canterbury,CE McConchie,LJ Carter,LH Ferguson,0,0,,,,,,bowled,CE McConchie
+ball,2,5.4,Canterbury,CD Fletcher,LJ Carter,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.5,Canterbury,CD Fletcher,LJ Carter,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.6,Canterbury,CD Fletcher,LJ Carter,LH Ferguson,1,0,,,,,,"",""
+ball,2,6.1,Canterbury,CD Fletcher,LJ Carter,SM Solia,1,0,,,,,,"",""
+ball,2,6.2,Canterbury,LJ Carter,CD Fletcher,SM Solia,4,0,,,,,,"",""
+ball,2,6.3,Canterbury,LJ Carter,CD Fletcher,SM Solia,0,0,,,,,,"",""
+ball,2,6.4,Canterbury,LJ Carter,CD Fletcher,SM Solia,1,0,,,,,,"",""
+ball,2,6.5,Canterbury,CD Fletcher,LJ Carter,SM Solia,4,0,,,,,,"",""
+ball,2,6.6,Canterbury,CD Fletcher,LJ Carter,SM Solia,0,0,,,,,,"",""
+ball,2,7.1,Canterbury,LJ Carter,CD Fletcher,A Ashok,1,0,,,,,,"",""
+ball,2,7.2,Canterbury,CD Fletcher,LJ Carter,A Ashok,6,0,,,,,,"",""
+ball,2,7.3,Canterbury,CD Fletcher,LJ Carter,A Ashok,1,0,,,,,,"",""
+ball,2,7.4,Canterbury,LJ Carter,CD Fletcher,A Ashok,1,0,,,,,,"",""
+ball,2,7.5,Canterbury,CD Fletcher,LJ Carter,A Ashok,2,0,,,,,,"",""
+ball,2,7.6,Canterbury,CD Fletcher,LJ Carter,A Ashok,1,0,,,,,,"",""
+ball,2,8.1,Canterbury,CD Fletcher,LJ Carter,WER Somerville,1,0,,,,,,"",""
+ball,2,8.2,Canterbury,LJ Carter,CD Fletcher,WER Somerville,0,0,,,,,,"",""
+ball,2,8.3,Canterbury,LJ Carter,CD Fletcher,WER Somerville,6,0,,,,,,"",""
+ball,2,8.4,Canterbury,LJ Carter,CD Fletcher,WER Somerville,1,0,,,,,,"",""
+ball,2,8.5,Canterbury,CD Fletcher,LJ Carter,WER Somerville,1,0,,,,,,"",""
+ball,2,8.6,Canterbury,LJ Carter,CD Fletcher,WER Somerville,0,0,,,,,,caught,LJ Carter
+ball,2,9.1,Canterbury,MJ Hay,CD Fletcher,A Ashok,0,0,,,,,,"",""
+ball,2,9.2,Canterbury,MJ Hay,CD Fletcher,A Ashok,1,0,,,,,,"",""
+ball,2,9.3,Canterbury,CD Fletcher,MJ Hay,A Ashok,2,0,,,,,,"",""
+ball,2,9.4,Canterbury,CD Fletcher,MJ Hay,A Ashok,0,0,,,,,,"",""
+ball,2,9.5,Canterbury,CD Fletcher,MJ Hay,A Ashok,0,0,,,,,,"",""
+ball,2,9.6,Canterbury,CD Fletcher,MJ Hay,A Ashok,1,0,,,,,,"",""
+ball,2,10.1,Canterbury,CD Fletcher,MJ Hay,GD Phillips,1,0,,,,,,"",""
+ball,2,10.2,Canterbury,MJ Hay,CD Fletcher,GD Phillips,1,0,,,,,,"",""
+ball,2,10.3,Canterbury,CD Fletcher,MJ Hay,GD Phillips,1,0,,,,,,"",""
+ball,2,10.4,Canterbury,MJ Hay,CD Fletcher,GD Phillips,0,0,,,,,,caught,MJ Hay
+ball,2,10.5,Canterbury,CD Fletcher,HB Shipley,GD Phillips,1,0,,,,,,"",""
+ball,2,10.6,Canterbury,HB Shipley,CD Fletcher,GD Phillips,1,0,,,,,,"",""
+ball,2,11.1,Canterbury,HB Shipley,CD Fletcher,WER Somerville,1,0,,,,,,"",""
+ball,2,11.2,Canterbury,CD Fletcher,HB Shipley,WER Somerville,1,0,,,,,,"",""
+ball,2,11.3,Canterbury,HB Shipley,CD Fletcher,WER Somerville,1,0,,,,,,"",""
+ball,2,11.4,Canterbury,CD Fletcher,HB Shipley,WER Somerville,1,0,,,,,,"",""
+ball,2,11.5,Canterbury,HB Shipley,CD Fletcher,WER Somerville,1,0,,,,,,"",""
+ball,2,11.6,Canterbury,CD Fletcher,HB Shipley,WER Somerville,4,0,,,,,,"",""
+ball,2,12.1,Canterbury,HB Shipley,CD Fletcher,GD Phillips,0,0,,,,,,"",""
+ball,2,12.2,Canterbury,HB Shipley,CD Fletcher,GD Phillips,1,0,,,,,,"",""
+ball,2,12.3,Canterbury,CD Fletcher,HB Shipley,GD Phillips,0,0,,,,,,"",""
+ball,2,12.4,Canterbury,CD Fletcher,HB Shipley,GD Phillips,1,0,,,,,,"",""
+ball,2,12.5,Canterbury,HB Shipley,CD Fletcher,GD Phillips,1,0,,,,,,"",""
+ball,2,12.6,Canterbury,CD Fletcher,HB Shipley,GD Phillips,0,0,,,,,,"",""
+ball,2,13.1,Canterbury,HB Shipley,CD Fletcher,A Ashok,1,0,,,,,,"",""
+ball,2,13.2,Canterbury,CD Fletcher,HB Shipley,A Ashok,1,0,,,,,,"",""
+ball,2,13.3,Canterbury,HB Shipley,CD Fletcher,A Ashok,0,0,,,,,,"",""
+ball,2,13.4,Canterbury,HB Shipley,CD Fletcher,A Ashok,4,0,,,,,,"",""
+ball,2,13.5,Canterbury,HB Shipley,CD Fletcher,A Ashok,0,0,,,,,,"",""
+ball,2,13.6,Canterbury,HB Shipley,CD Fletcher,A Ashok,1,0,,,,,,"",""
+ball,2,14.1,Canterbury,HB Shipley,CD Fletcher,GD Phillips,0,1,1,,,,,"",""
+ball,2,14.2,Canterbury,HB Shipley,CD Fletcher,GD Phillips,1,0,,,,,,"",""
+ball,2,14.3,Canterbury,CD Fletcher,HB Shipley,GD Phillips,6,0,,,,,,"",""
+ball,2,14.4,Canterbury,CD Fletcher,HB Shipley,GD Phillips,6,0,,,,,,"",""
+ball,2,14.5,Canterbury,CD Fletcher,HB Shipley,GD Phillips,0,0,,,,,,"",""
+ball,2,14.6,Canterbury,CD Fletcher,HB Shipley,GD Phillips,0,0,,,,,,"",""
+ball,2,14.7,Canterbury,CD Fletcher,HB Shipley,GD Phillips,1,0,,,,,,"",""
+ball,2,15.1,Canterbury,CD Fletcher,HB Shipley,LH Ferguson,0,1,1,,,,,"",""
+ball,2,15.2,Canterbury,CD Fletcher,HB Shipley,LH Ferguson,0,0,,,,,,"",""
+ball,2,15.3,Canterbury,CD Fletcher,HB Shipley,LH Ferguson,1,0,,,,,,"",""
+ball,2,15.4,Canterbury,HB Shipley,CD Fletcher,LH Ferguson,1,0,,,,,,"",""
+ball,2,15.5,Canterbury,CD Fletcher,HB Shipley,LH Ferguson,0,0,,,,,,"",""
+ball,2,15.6,Canterbury,CD Fletcher,HB Shipley,LH Ferguson,2,0,,,,,,"",""
+ball,2,15.7,Canterbury,CD Fletcher,HB Shipley,LH Ferguson,1,0,,,,,,"",""
+ball,2,16.1,Canterbury,CD Fletcher,HB Shipley,BG Lister,1,0,,,,,,"",""
+ball,2,16.2,Canterbury,HB Shipley,CD Fletcher,BG Lister,6,0,,,,,,"",""
+ball,2,16.3,Canterbury,HB Shipley,CD Fletcher,BG Lister,0,1,1,,,,,"",""
+ball,2,16.4,Canterbury,HB Shipley,CD Fletcher,BG Lister,1,0,,,,,,"",""
+ball,2,16.5,Canterbury,CD Fletcher,HB Shipley,BG Lister,1,0,,,,,,"",""
+ball,2,16.6,Canterbury,HB Shipley,CD Fletcher,BG Lister,4,0,,,,,,"",""
+ball,2,16.7,Canterbury,HB Shipley,CD Fletcher,BG Lister,0,1,1,,,,,"",""
+ball,2,16.8,Canterbury,HB Shipley,CD Fletcher,BG Lister,0,1,1,,,,,"",""
+ball,2,16.9,Canterbury,HB Shipley,CD Fletcher,BG Lister,1,0,,,,,,"",""
+ball,2,17.1,Canterbury,HB Shipley,CD Fletcher,LH Ferguson,0,0,,,,,,"",""
+ball,2,17.2,Canterbury,HB Shipley,CD Fletcher,LH Ferguson,6,0,,,,,,"",""
+ball,2,17.3,Canterbury,HB Shipley,CD Fletcher,LH Ferguson,4,0,,,,,,"",""
+ball,2,17.4,Canterbury,HB Shipley,CD Fletcher,LH Ferguson,1,0,,,,,,"",""
+ball,2,17.5,Canterbury,CD Fletcher,HB Shipley,LH Ferguson,6,0,,,,,,"",""

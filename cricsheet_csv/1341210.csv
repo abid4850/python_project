@@ -1,0 +1,251 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Central Districts
+info,gender,male
+info,season,2022/23
+info,date,2023/01/14
+info,event,Super Smash
+info,match_number,17
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Central Districts
+info,toss_decision,field
+info,umpire,CM Brown
+info,umpire,Glen Walklin
+info,reserve_umpire,T Semmens
+info,tv_umpire,BF Bowden
+info,match_referee,SRM Morris
+info,winner,Central Districts
+info,winner_runs,29
+info,method,D/L
+info,player,Auckland,GH Worker
+info,player,Auckland,CJ Briggs
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,SM Solia
+info,player,Auckland,BJ Horne
+info,player,Auckland,RM ter Braak
+info,player,Auckland,L Delport
+info,player,Auckland,DK Ferns
+info,player,Auckland,A Ashok
+info,player,Auckland,BG Lister
+info,player,Central Districts,BL Wiggins
+info,player,Central Districts,BS Smith
+info,player,Central Districts,WA Young
+info,player,Central Districts,D Cleaver
+info,player,Central Districts,W Clark
+info,player,Central Districts,BG Randell
+info,player,Central Districts,JR Lennox
+info,player,Central Districts,RL Toole
+info,player,Central Districts,AY Patel
+info,player,Central Districts,AR Schaw
+info,player,Central Districts,JA Clarkson
+info,registry,people,A Ashok,321be7e3
+info,registry,people,AR Schaw,118e6f66
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BL Wiggins,d4320277
+info,registry,people,BS Smith,556df4f9
+info,registry,people,CJ Briggs,6c3dd24e
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JR Lennox,07793daf
+info,registry,people,L Delport,2c1438ef
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,RM ter Braak,ac3e5a31
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,T Semmens,3b471aa4
+info,registry,people,W Clark,4f78497c
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WT O'Donnell,730b57de
+ball,1,0.1,Auckland,GH Worker,CJ Briggs,AR Schaw,6,0,,,,,,"",""
+ball,1,0.2,Auckland,GH Worker,CJ Briggs,AR Schaw,0,1,1,,,,,"",""
+ball,1,0.3,Auckland,GH Worker,CJ Briggs,AR Schaw,1,0,,,,,,"",""
+ball,1,0.4,Auckland,CJ Briggs,GH Worker,AR Schaw,1,0,,,,,,"",""
+ball,1,0.5,Auckland,GH Worker,CJ Briggs,AR Schaw,0,1,1,,,,,"",""
+ball,1,0.6,Auckland,GH Worker,CJ Briggs,AR Schaw,0,0,,,,,,"",""
+ball,1,0.7,Auckland,GH Worker,CJ Briggs,AR Schaw,0,0,,,,,,"",""
+ball,1,0.8,Auckland,GH Worker,CJ Briggs,AR Schaw,3,0,,,,,,"",""
+ball,1,1.1,Auckland,GH Worker,CJ Briggs,BG Randell,0,0,,,,,,"",""
+ball,1,1.2,Auckland,GH Worker,CJ Briggs,BG Randell,2,0,,,,,,"",""
+ball,1,1.3,Auckland,GH Worker,CJ Briggs,BG Randell,1,0,,,,,,"",""
+ball,1,1.4,Auckland,CJ Briggs,GH Worker,BG Randell,0,0,,,,,,"",""
+ball,1,1.5,Auckland,CJ Briggs,GH Worker,BG Randell,1,0,,,,,,"",""
+ball,1,1.6,Auckland,GH Worker,CJ Briggs,BG Randell,0,0,,,,,,bowled,GH Worker
+ball,1,2.1,Auckland,CJ Briggs,WT O'Donnell,RL Toole,1,0,,,,,,"",""
+ball,1,2.2,Auckland,WT O'Donnell,CJ Briggs,RL Toole,0,0,,,,,,"",""
+ball,1,2.3,Auckland,WT O'Donnell,CJ Briggs,RL Toole,0,0,,,,,,"",""
+ball,1,2.4,Auckland,WT O'Donnell,CJ Briggs,RL Toole,2,0,,,,,,"",""
+ball,1,2.5,Auckland,WT O'Donnell,CJ Briggs,RL Toole,1,0,,,,,,"",""
+ball,1,2.6,Auckland,CJ Briggs,WT O'Donnell,RL Toole,0,0,,,,,,"",""
+ball,1,3.1,Auckland,WT O'Donnell,CJ Briggs,JR Lennox,0,0,,,,,,"",""
+ball,1,3.2,Auckland,WT O'Donnell,CJ Briggs,JR Lennox,0,0,,,,,,"",""
+ball,1,3.3,Auckland,WT O'Donnell,CJ Briggs,JR Lennox,1,0,,,,,,"",""
+ball,1,3.4,Auckland,CJ Briggs,WT O'Donnell,JR Lennox,4,0,,,,,,"",""
+ball,1,3.5,Auckland,CJ Briggs,WT O'Donnell,JR Lennox,4,0,,,,,,"",""
+ball,1,3.6,Auckland,CJ Briggs,WT O'Donnell,JR Lennox,0,0,,,,,,"",""
+ball,1,4.1,Auckland,WT O'Donnell,CJ Briggs,RL Toole,6,0,,,,,,"",""
+ball,1,4.2,Auckland,WT O'Donnell,CJ Briggs,RL Toole,6,0,,,,,,"",""
+ball,1,4.3,Auckland,WT O'Donnell,CJ Briggs,RL Toole,0,0,,,,,,"",""
+ball,1,4.4,Auckland,WT O'Donnell,CJ Briggs,RL Toole,6,0,,,,,,"",""
+ball,1,4.5,Auckland,WT O'Donnell,CJ Briggs,RL Toole,1,0,,,,,,"",""
+ball,1,4.6,Auckland,CJ Briggs,WT O'Donnell,RL Toole,4,0,,,,,,"",""
+ball,1,5.1,Auckland,WT O'Donnell,CJ Briggs,AR Schaw,0,0,,,,,,"",""
+ball,1,5.2,Auckland,WT O'Donnell,CJ Briggs,AR Schaw,1,0,,,,,,"",""
+ball,1,5.3,Auckland,CJ Briggs,WT O'Donnell,AR Schaw,1,0,,,,,,"",""
+ball,1,5.4,Auckland,WT O'Donnell,CJ Briggs,AR Schaw,6,0,,,,,,"",""
+ball,1,5.5,Auckland,WT O'Donnell,CJ Briggs,AR Schaw,2,0,,,,,,"",""
+ball,1,5.6,Auckland,WT O'Donnell,CJ Briggs,AR Schaw,6,0,,,,,,"",""
+ball,1,6.1,Auckland,CJ Briggs,WT O'Donnell,BG Randell,0,0,,,,,,"",""
+ball,1,6.2,Auckland,CJ Briggs,WT O'Donnell,BG Randell,1,0,,,,,,"",""
+ball,1,6.3,Auckland,WT O'Donnell,CJ Briggs,BG Randell,1,0,,,,,,"",""
+ball,1,6.4,Auckland,CJ Briggs,WT O'Donnell,BG Randell,1,0,,,,,,"",""
+ball,1,6.5,Auckland,WT O'Donnell,CJ Briggs,BG Randell,0,0,,,,,,caught,WT O'Donnell
+ball,1,6.6,Auckland,RR O'Donnell,CJ Briggs,BG Randell,0,0,,,,,,"",""
+ball,1,7.1,Auckland,CJ Briggs,RR O'Donnell,AY Patel,1,0,,,,,,"",""
+ball,1,7.2,Auckland,RR O'Donnell,CJ Briggs,AY Patel,0,0,,,,,,"",""
+ball,1,7.3,Auckland,RR O'Donnell,CJ Briggs,AY Patel,1,0,,,,,,"",""
+ball,1,7.4,Auckland,CJ Briggs,RR O'Donnell,AY Patel,4,0,,,,,,"",""
+ball,1,7.5,Auckland,CJ Briggs,RR O'Donnell,AY Patel,0,0,,,,,,"",""
+ball,1,7.6,Auckland,CJ Briggs,RR O'Donnell,AY Patel,0,0,,,,,,"",""
+ball,1,8.1,Auckland,RR O'Donnell,CJ Briggs,JR Lennox,0,0,,,,,,caught,RR O'Donnell
+ball,1,8.2,Auckland,SM Solia,CJ Briggs,JR Lennox,1,0,,,,,,"",""
+ball,1,8.3,Auckland,CJ Briggs,SM Solia,JR Lennox,1,0,,,,,,"",""
+ball,1,8.4,Auckland,SM Solia,CJ Briggs,JR Lennox,1,0,,,,,,"",""
+ball,1,8.5,Auckland,CJ Briggs,SM Solia,JR Lennox,4,0,,,,,,"",""
+ball,1,8.6,Auckland,CJ Briggs,SM Solia,JR Lennox,1,0,,,,,,"",""
+ball,1,9.1,Auckland,CJ Briggs,SM Solia,AY Patel,1,0,,,,,,"",""
+ball,1,9.2,Auckland,SM Solia,CJ Briggs,AY Patel,1,0,,,,,,"",""
+ball,1,9.3,Auckland,CJ Briggs,SM Solia,AY Patel,4,0,,,,,,"",""
+ball,1,9.4,Auckland,CJ Briggs,SM Solia,AY Patel,1,0,,,,,,"",""
+ball,1,9.5,Auckland,SM Solia,CJ Briggs,AY Patel,1,0,,,,,,"",""
+ball,1,9.6,Auckland,CJ Briggs,SM Solia,AY Patel,0,0,,,,,,"",""
+ball,1,10.1,Auckland,SM Solia,CJ Briggs,JA Clarkson,1,0,,,,,,"",""
+ball,1,10.2,Auckland,CJ Briggs,SM Solia,JA Clarkson,4,0,,,,,,"",""
+ball,1,10.3,Auckland,CJ Briggs,SM Solia,JA Clarkson,0,0,,,,,,"",""
+ball,1,10.4,Auckland,CJ Briggs,SM Solia,JA Clarkson,0,0,,,,,,"",""
+ball,1,10.5,Auckland,CJ Briggs,SM Solia,JA Clarkson,1,0,,,,,,"",""
+ball,1,10.6,Auckland,SM Solia,CJ Briggs,JA Clarkson,2,0,,,,,,"",""
+ball,1,11.1,Auckland,CJ Briggs,SM Solia,BG Randell,2,0,,,,,,"",""
+ball,1,11.2,Auckland,CJ Briggs,SM Solia,BG Randell,6,0,,,,,,"",""
+ball,1,11.3,Auckland,CJ Briggs,SM Solia,BG Randell,1,0,,,,,,"",""
+ball,1,11.4,Auckland,SM Solia,CJ Briggs,BG Randell,6,0,,,,,,"",""
+ball,1,11.5,Auckland,SM Solia,CJ Briggs,BG Randell,0,0,,,,,,"",""
+ball,1,11.6,Auckland,SM Solia,CJ Briggs,BG Randell,1,0,,,,,,"",""
+ball,1,12.1,Auckland,SM Solia,CJ Briggs,JR Lennox,1,0,,,,,,"",""
+ball,1,12.2,Auckland,CJ Briggs,SM Solia,JR Lennox,1,0,,,,,,"",""
+ball,1,12.3,Auckland,SM Solia,CJ Briggs,JR Lennox,2,0,,,,,,"",""
+ball,1,12.4,Auckland,SM Solia,CJ Briggs,JR Lennox,1,0,,,,,,"",""
+ball,1,12.5,Auckland,CJ Briggs,SM Solia,JR Lennox,0,0,,,,,,caught,CJ Briggs
+ball,1,12.6,Auckland,BJ Horne,SM Solia,JR Lennox,0,0,,,,,,"",""
+ball,1,13.1,Auckland,SM Solia,BJ Horne,JA Clarkson,1,0,,,,,,"",""
+ball,1,13.2,Auckland,BJ Horne,SM Solia,JA Clarkson,1,0,,,,,,"",""
+ball,1,13.3,Auckland,SM Solia,BJ Horne,JA Clarkson,1,0,,,,,,"",""
+ball,1,13.4,Auckland,BJ Horne,SM Solia,JA Clarkson,4,0,,,,,,"",""
+ball,1,13.5,Auckland,BJ Horne,SM Solia,JA Clarkson,0,0,,,,,,"",""
+ball,1,13.6,Auckland,BJ Horne,SM Solia,JA Clarkson,2,0,,,,,,"",""
+ball,1,14.1,Auckland,SM Solia,BJ Horne,AY Patel,1,0,,,,,,"",""
+ball,1,14.2,Auckland,BJ Horne,SM Solia,AY Patel,2,0,,,,,,"",""
+ball,1,14.3,Auckland,BJ Horne,SM Solia,AY Patel,0,1,1,,,,,"",""
+ball,1,14.4,Auckland,BJ Horne,SM Solia,AY Patel,0,0,,,,,,"",""
+ball,1,14.5,Auckland,BJ Horne,SM Solia,AY Patel,0,0,,,,,,"",""
+ball,1,14.6,Auckland,BJ Horne,SM Solia,AY Patel,1,0,,,,,,"",""
+ball,1,14.7,Auckland,SM Solia,BJ Horne,AY Patel,1,0,,,,,,"",""
+ball,1,15.1,Auckland,SM Solia,BJ Horne,JA Clarkson,1,0,,,,,,"",""
+ball,1,15.2,Auckland,BJ Horne,SM Solia,JA Clarkson,0,0,,,,,,"",""
+ball,1,15.3,Auckland,BJ Horne,SM Solia,JA Clarkson,6,0,,,,,,"",""
+ball,1,15.4,Auckland,BJ Horne,SM Solia,JA Clarkson,2,0,,,,,,"",""
+ball,1,15.5,Auckland,BJ Horne,SM Solia,JA Clarkson,0,0,,,,,,"",""
+ball,1,15.6,Auckland,BJ Horne,SM Solia,JA Clarkson,0,0,,,,,,"",""
+ball,1,16.1,Auckland,SM Solia,BJ Horne,RL Toole,1,0,,,,,,"",""
+ball,1,16.2,Auckland,BJ Horne,SM Solia,RL Toole,0,0,,,,,,"",""
+ball,1,16.3,Auckland,BJ Horne,SM Solia,RL Toole,6,0,,,,,,"",""
+ball,1,16.4,Auckland,BJ Horne,SM Solia,RL Toole,0,0,,,,,,"",""
+ball,1,16.5,Auckland,BJ Horne,SM Solia,RL Toole,4,0,,,,,,"",""
+ball,1,16.6,Auckland,BJ Horne,SM Solia,RL Toole,4,0,,,,,,"",""
+ball,1,17.1,Auckland,SM Solia,BJ Horne,BG Randell,1,0,,,,,,"",""
+ball,1,17.2,Auckland,BJ Horne,SM Solia,BG Randell,0,0,,,,,,"",""
+ball,1,17.3,Auckland,BJ Horne,SM Solia,BG Randell,0,0,,,,,,caught,BJ Horne
+ball,1,17.4,Auckland,RM ter Braak,SM Solia,BG Randell,1,0,,,,,,"",""
+ball,1,17.5,Auckland,SM Solia,RM ter Braak,BG Randell,1,0,,,,,,"",""
+ball,1,17.6,Auckland,RM ter Braak,SM Solia,BG Randell,6,0,,,,,,"",""
+ball,1,18.1,Auckland,SM Solia,RM ter Braak,JR Lennox,0,0,,,,,,"",""
+ball,1,18.2,Auckland,SM Solia,RM ter Braak,JR Lennox,2,0,,,,,,"",""
+ball,1,18.3,Auckland,SM Solia,RM ter Braak,JR Lennox,4,0,,,,,,"",""
+ball,1,18.4,Auckland,SM Solia,RM ter Braak,JR Lennox,0,0,,,,,,caught,SM Solia
+ball,1,18.5,Auckland,L Delport,RM ter Braak,JR Lennox,2,0,,,,,,"",""
+ball,1,18.6,Auckland,L Delport,RM ter Braak,JR Lennox,1,0,,,,,,"",""
+ball,1,19.1,Auckland,L Delport,RM ter Braak,RL Toole,4,0,,,,,,"",""
+ball,1,19.2,Auckland,L Delport,RM ter Braak,RL Toole,0,0,,,,,,caught,L Delport
+ball,1,19.3,Auckland,DK Ferns,RM ter Braak,RL Toole,6,0,,,,,,"",""
+ball,1,19.4,Auckland,DK Ferns,RM ter Braak,RL Toole,0,0,,,,,,"",""
+ball,1,19.5,Auckland,DK Ferns,RM ter Braak,RL Toole,0,0,,,,,,caught,DK Ferns
+ball,1,19.6,Auckland,A Ashok,RM ter Braak,RL Toole,0,1,,,,1,,"",""
+ball,2,0.1,Central Districts,BL Wiggins,BS Smith,BG Lister,0,0,,,,,,"",""
+ball,2,0.2,Central Districts,BL Wiggins,BS Smith,BG Lister,0,0,,,,,,caught,BL Wiggins
+ball,2,0.3,Central Districts,WA Young,BS Smith,BG Lister,4,0,,,,,,"",""
+ball,2,0.4,Central Districts,WA Young,BS Smith,BG Lister,4,0,,,,,,"",""
+ball,2,0.5,Central Districts,WA Young,BS Smith,BG Lister,1,0,,,,,,"",""
+ball,2,0.6,Central Districts,BS Smith,WA Young,BG Lister,0,0,,,,,,"",""
+ball,2,1.1,Central Districts,WA Young,BS Smith,RM ter Braak,1,0,,,,,,"",""
+ball,2,1.2,Central Districts,BS Smith,WA Young,RM ter Braak,0,0,,,,,,"",""
+ball,2,1.3,Central Districts,BS Smith,WA Young,RM ter Braak,1,0,,,,,,"",""
+ball,2,1.4,Central Districts,WA Young,BS Smith,RM ter Braak,0,0,,,,,,"",""
+ball,2,1.5,Central Districts,WA Young,BS Smith,RM ter Braak,0,0,,,,,,"",""
+ball,2,1.6,Central Districts,WA Young,BS Smith,RM ter Braak,1,0,,,,,,"",""
+ball,2,2.1,Central Districts,WA Young,BS Smith,BG Lister,4,0,,,,,,"",""
+ball,2,2.2,Central Districts,WA Young,BS Smith,BG Lister,1,0,,,,,,"",""
+ball,2,2.3,Central Districts,BS Smith,WA Young,BG Lister,1,0,,,,,,"",""
+ball,2,2.4,Central Districts,WA Young,BS Smith,BG Lister,1,0,,,,,,"",""
+ball,2,2.5,Central Districts,BS Smith,WA Young,BG Lister,1,0,,,,,,"",""
+ball,2,2.6,Central Districts,WA Young,BS Smith,BG Lister,6,0,,,,,,"",""
+ball,2,3.1,Central Districts,BS Smith,WA Young,RM ter Braak,6,0,,,,,,"",""
+ball,2,3.2,Central Districts,BS Smith,WA Young,RM ter Braak,0,0,,,,,,"",""
+ball,2,3.3,Central Districts,BS Smith,WA Young,RM ter Braak,1,0,,,,,,"",""
+ball,2,3.4,Central Districts,WA Young,BS Smith,RM ter Braak,0,0,,,,,,"",""
+ball,2,3.5,Central Districts,WA Young,BS Smith,RM ter Braak,0,0,,,,,,"",""
+ball,2,3.6,Central Districts,WA Young,BS Smith,RM ter Braak,0,0,,,,,,"",""
+ball,2,4.1,Central Districts,BS Smith,WA Young,SM Solia,1,0,,,,,,"",""
+ball,2,4.2,Central Districts,WA Young,BS Smith,SM Solia,1,0,,,,,,"",""
+ball,2,4.3,Central Districts,BS Smith,WA Young,SM Solia,1,0,,,,,,"",""
+ball,2,4.4,Central Districts,WA Young,BS Smith,SM Solia,4,0,,,,,,"",""
+ball,2,4.5,Central Districts,WA Young,BS Smith,SM Solia,1,0,,,,,,"",""
+ball,2,4.6,Central Districts,BS Smith,WA Young,SM Solia,4,0,,,,,,"",""
+ball,2,5.1,Central Districts,WA Young,BS Smith,DK Ferns,6,0,,,,,,"",""
+ball,2,5.2,Central Districts,WA Young,BS Smith,DK Ferns,0,0,,,,,,"",""
+ball,2,5.3,Central Districts,WA Young,BS Smith,DK Ferns,1,0,,,,,,"",""
+ball,2,5.4,Central Districts,BS Smith,WA Young,DK Ferns,0,0,,,,,,"",""
+ball,2,5.5,Central Districts,BS Smith,WA Young,DK Ferns,1,0,,,,,,"",""
+ball,2,5.6,Central Districts,WA Young,BS Smith,DK Ferns,1,0,,,,,,"",""
+ball,2,6.1,Central Districts,WA Young,BS Smith,L Delport,6,0,,,,,,"",""
+ball,2,6.2,Central Districts,WA Young,BS Smith,L Delport,6,0,,,,,,"",""
+ball,2,6.3,Central Districts,WA Young,BS Smith,L Delport,6,0,,,,,,"",""
+ball,2,6.4,Central Districts,WA Young,BS Smith,L Delport,6,0,,,,,,"",""
+ball,2,6.5,Central Districts,WA Young,BS Smith,L Delport,6,0,,,,,,"",""
+ball,2,6.6,Central Districts,WA Young,BS Smith,L Delport,0,0,,,,,,caught,WA Young
+ball,2,7.1,Central Districts,BS Smith,D Cleaver,DK Ferns,1,0,,,,,,"",""
+ball,2,7.2,Central Districts,D Cleaver,BS Smith,DK Ferns,0,0,,,,,,"",""
+ball,2,7.3,Central Districts,D Cleaver,BS Smith,DK Ferns,0,1,,,,1,,"",""
+ball,2,7.4,Central Districts,BS Smith,D Cleaver,DK Ferns,0,1,1,,,,,"",""
+ball,2,7.5,Central Districts,BS Smith,D Cleaver,DK Ferns,0,0,,,,,,"",""
+ball,2,7.6,Central Districts,BS Smith,D Cleaver,DK Ferns,1,0,,,,,,"",""
+ball,2,7.7,Central Districts,D Cleaver,BS Smith,DK Ferns,2,0,,,,,,"",""
+ball,2,8.1,Central Districts,BS Smith,D Cleaver,SM Solia,1,0,,,,,,"",""
+ball,2,8.2,Central Districts,D Cleaver,BS Smith,SM Solia,4,0,,,,,,"",""
+ball,2,8.3,Central Districts,D Cleaver,BS Smith,SM Solia,1,0,,,,,,"",""
+ball,2,8.4,Central Districts,BS Smith,D Cleaver,SM Solia,0,1,1,,,,,"",""
+ball,2,8.5,Central Districts,BS Smith,D Cleaver,SM Solia,0,0,,,,,,"",""
+ball,2,8.6,Central Districts,BS Smith,D Cleaver,SM Solia,1,0,,,,,,"",""
+ball,2,8.7,Central Districts,D Cleaver,BS Smith,SM Solia,0,4,,,,4,,"",""
+ball,2,9.1,Central Districts,BS Smith,D Cleaver,A Ashok,6,0,,,,,,"",""
+ball,2,9.2,Central Districts,BS Smith,D Cleaver,A Ashok,0,0,,,,,,"",""

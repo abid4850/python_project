@@ -1,0 +1,101 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Western Storm
+info,team,South East Stars
+info,gender,female
+info,season,2024
+info,date,2024/05/27
+info,event,Charlotte Edwards Cup
+info,match_number,11
+info,venue,"Kent County Cricket Ground, Beckenham"
+info,city,Beckenham
+info,toss_winner,South East Stars
+info,toss_decision,field
+info,umpire,F Richards
+info,umpire,JC Tredwell
+info,match_referee,SM Bartlett
+info,outcome,no result
+info,player,Western Storm,A Griffiths
+info,player,Western Storm,E Corney
+info,player,Western Storm,N Holland
+info,player,Western Storm,NAJ Wraith
+info,player,Western Storm,SN Luff
+info,player,Western Storm,A Wellington
+info,player,Western Storm,IECM Wong
+info,player,Western Storm,Sophia Smale
+info,player,Western Storm,J Hazell
+info,player,Western Storm,C Skelton
+info,player,Western Storm,E Anderson
+info,player,South East Stars,BF Smith
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,CAE Hill
+info,player,South East Stars,K Moore
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,D Gregory
+info,player,South East Stars,MR Corteen-Coleman
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,A Griffiths,091001f8
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,C Skelton,db362015
+info,registry,people,CAE Hill,24ffb29f
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,E Anderson,5f86ce69
+info,registry,people,E Corney,2406424c
+info,registry,people,F Richards,0313fec0
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,J Hazell,78f21bdf
+info,registry,people,JC Tredwell,49b6c09f
+info,registry,people,K Moore,d12c8445
+info,registry,people,MR Corteen-Coleman,9049ab63
+info,registry,people,N Holland,aefd0567
+info,registry,people,NAJ Wraith,1ec1998e
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SN Luff,e19307f3
+info,registry,people,Sophia Smale,c296dba1
+ball,1,0.1,Western Storm,A Griffiths,E Corney,MR Corteen-Coleman,0,0,,,,,,bowled,A Griffiths
+ball,1,0.2,Western Storm,N Holland,E Corney,MR Corteen-Coleman,0,0,,,,,,"",""
+ball,1,0.3,Western Storm,N Holland,E Corney,MR Corteen-Coleman,0,0,,,,,,"",""
+ball,1,0.4,Western Storm,N Holland,E Corney,MR Corteen-Coleman,1,0,,,,,,"",""
+ball,1,0.5,Western Storm,E Corney,N Holland,MR Corteen-Coleman,0,0,,,,,,"",""
+ball,1,0.6,Western Storm,E Corney,N Holland,MR Corteen-Coleman,0,0,,,,,,"",""
+ball,1,1.1,Western Storm,N Holland,E Corney,NE Farrant,0,0,,,,,,"",""
+ball,1,1.2,Western Storm,N Holland,E Corney,NE Farrant,0,0,,,,,,"",""
+ball,1,1.3,Western Storm,N Holland,E Corney,NE Farrant,1,0,,,,,,"",""
+ball,1,1.4,Western Storm,E Corney,N Holland,NE Farrant,1,0,,,,,,"",""
+ball,1,1.5,Western Storm,N Holland,E Corney,NE Farrant,4,0,,,,,,"",""
+ball,1,1.6,Western Storm,N Holland,E Corney,NE Farrant,1,0,,,,,,"",""
+ball,1,2.1,Western Storm,N Holland,E Corney,PA Franklin,0,1,1,,,,,"",""
+ball,1,2.2,Western Storm,N Holland,E Corney,PA Franklin,1,0,,,,,,"",""
+ball,1,2.3,Western Storm,E Corney,N Holland,PA Franklin,0,0,,,,,,"",""
+ball,1,2.4,Western Storm,E Corney,N Holland,PA Franklin,4,0,,,,,,"",""
+ball,1,2.5,Western Storm,E Corney,N Holland,PA Franklin,0,0,,,,,,"",""
+ball,1,2.6,Western Storm,E Corney,N Holland,PA Franklin,1,0,,,,,,"",""
+ball,1,2.7,Western Storm,N Holland,E Corney,PA Franklin,1,0,,,,,,"",""
+ball,1,3.1,Western Storm,N Holland,E Corney,NE Farrant,1,0,,,,,,"",""
+ball,1,3.2,Western Storm,E Corney,N Holland,NE Farrant,0,0,,,,,,"",""
+ball,1,3.3,Western Storm,E Corney,N Holland,NE Farrant,0,0,,,,,,"",""
+ball,1,3.4,Western Storm,E Corney,N Holland,NE Farrant,0,0,,,,,,caught,E Corney
+ball,1,3.5,Western Storm,NAJ Wraith,N Holland,NE Farrant,0,0,,,,,,"",""
+ball,1,3.6,Western Storm,NAJ Wraith,N Holland,NE Farrant,0,0,,,,,,"",""
+ball,1,4.1,Western Storm,N Holland,NAJ Wraith,MR Corteen-Coleman,0,0,,,,,,"",""
+ball,1,4.2,Western Storm,N Holland,NAJ Wraith,MR Corteen-Coleman,4,0,,,,,,"",""
+ball,1,4.3,Western Storm,N Holland,NAJ Wraith,MR Corteen-Coleman,4,0,,,,,,"",""
+ball,1,4.4,Western Storm,N Holland,NAJ Wraith,MR Corteen-Coleman,0,0,,,,,,"",""
+ball,1,4.5,Western Storm,N Holland,NAJ Wraith,MR Corteen-Coleman,1,0,,,,,,"",""
+ball,1,4.6,Western Storm,NAJ Wraith,N Holland,MR Corteen-Coleman,4,0,,,,,,"",""
+ball,1,5.1,Western Storm,N Holland,NAJ Wraith,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,5.2,Western Storm,NAJ Wraith,N Holland,R MacDonald-Gay,4,0,,,,,,"",""
+ball,1,5.3,Western Storm,NAJ Wraith,N Holland,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,5.4,Western Storm,N Holland,NAJ Wraith,R MacDonald-Gay,0,0,,,,,,run out,N Holland
+ball,1,5.5,Western Storm,NAJ Wraith,SN Luff,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,5.6,Western Storm,SN Luff,NAJ Wraith,R MacDonald-Gay,1,0,,,,,,"",""

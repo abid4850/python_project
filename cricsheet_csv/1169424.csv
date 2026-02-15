@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Comilla Victorians
+info,team,Dhaka Dynamites
+info,gender,male
+info,season,2018/19
+info,date,2019/02/08
+info,event,Bangladesh Premier League
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Dhaka Dynamites
+info,toss_decision,field
+info,player_of_match,Tamim Iqbal
+info,umpire,AG Wharf
+info,umpire,REJ Martinesz
+info,reserve_umpire,Mahfuzur Rahman
+info,tv_umpire,Sharfuddoula
+info,match_referee,Raqibul Hasan (2)
+info,winner,Comilla Victorians
+info,winner_runs,17
+info,player,Dhaka Dynamites,WU Tharanga
+info,player,Dhaka Dynamites,SP Narine
+info,player,Dhaka Dynamites,Rony Talukdar
+info,player,Dhaka Dynamites,Shakib Al Hasan
+info,player,Dhaka Dynamites,KA Pollard
+info,player,Dhaka Dynamites,AD Russell
+info,player,Dhaka Dynamites,Nurul Hasan
+info,player,Dhaka Dynamites,Shuvagata Hom
+info,player,Dhaka Dynamites,Mahmudul Hasan
+info,player,Dhaka Dynamites,Rubel Hossain
+info,player,Dhaka Dynamites,Qazi Onik
+info,player,Comilla Victorians,Tamim Iqbal
+info,player,Comilla Victorians,E Lewis
+info,player,Comilla Victorians,Anamul Haque
+info,player,Comilla Victorians,Shamsur Rahman
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,Mohammad Saifuddin
+info,player,Comilla Victorians,Mahedi Hasan
+info,player,Comilla Victorians,Wahab Riaz
+info,player,Comilla Victorians,Sanjit Saha
+info,player,Comilla Victorians,Shahid Afridi
+info,player,Comilla Victorians,NLTC Perera
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Abu Hider,31803fac
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mahmudul Hasan,8c783a97
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,Qazi Onik,0ff20bec
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Sanjit Saha,01dbf7cf
+info,registry,people,Shahid Afridi,0dc00542
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamsur Rahman,02789d88
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,WU Tharanga,7ed9fd56
+info,registry,people,Wahab Riaz,b3118300
+ball,1,0.1,Comilla Victorians,Tamim Iqbal,E Lewis,AD Russell,0,0,,,,,,"",""
+ball,1,0.2,Comilla Victorians,Tamim Iqbal,E Lewis,AD Russell,1,0,,,,,,"",""
+ball,1,0.3,Comilla Victorians,E Lewis,Tamim Iqbal,AD Russell,0,0,,,,,,"",""
+ball,1,0.4,Comilla Victorians,E Lewis,Tamim Iqbal,AD Russell,0,1,1,,,,,"",""
+ball,1,0.5,Comilla Victorians,E Lewis,Tamim Iqbal,AD Russell,0,0,,,,,,"",""
+ball,1,0.6,Comilla Victorians,E Lewis,Tamim Iqbal,AD Russell,0,0,,,,,,"",""
+ball,1,0.7,Comilla Victorians,E Lewis,Tamim Iqbal,AD Russell,1,0,,,,,,"",""
+ball,1,1.1,Comilla Victorians,E Lewis,Tamim Iqbal,Rubel Hossain,1,0,,,,,,"",""
+ball,1,1.2,Comilla Victorians,Tamim Iqbal,E Lewis,Rubel Hossain,0,0,,,,,,"",""
+ball,1,1.3,Comilla Victorians,Tamim Iqbal,E Lewis,Rubel Hossain,1,0,,,,,,"",""
+ball,1,1.4,Comilla Victorians,E Lewis,Tamim Iqbal,Rubel Hossain,4,0,,,,,,"",""
+ball,1,1.5,Comilla Victorians,E Lewis,Tamim Iqbal,Rubel Hossain,0,0,,,,,,lbw,E Lewis
+ball,1,1.6,Comilla Victorians,Anamul Haque,Tamim Iqbal,Rubel Hossain,0,0,,,,,,"",""
+ball,1,2.1,Comilla Victorians,Tamim Iqbal,Anamul Haque,AD Russell,0,0,,,,,,"",""
+ball,1,2.2,Comilla Victorians,Tamim Iqbal,Anamul Haque,AD Russell,0,0,,,,,,"",""
+ball,1,2.3,Comilla Victorians,Tamim Iqbal,Anamul Haque,AD Russell,1,0,,,,,,"",""
+ball,1,2.4,Comilla Victorians,Anamul Haque,Tamim Iqbal,AD Russell,0,0,,,,,,"",""
+ball,1,2.5,Comilla Victorians,Anamul Haque,Tamim Iqbal,AD Russell,1,0,,,,,,"",""
+ball,1,2.6,Comilla Victorians,Tamim Iqbal,Anamul Haque,AD Russell,0,0,,,,,,"",""
+ball,1,3.1,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,3.2,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,3.3,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,3.4,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,3.5,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,3.6,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,4.1,Comilla Victorians,Tamim Iqbal,Anamul Haque,SP Narine,0,0,,,,,,"",""
+ball,1,4.2,Comilla Victorians,Tamim Iqbal,Anamul Haque,SP Narine,6,0,,,,,,"",""
+ball,1,4.3,Comilla Victorians,Tamim Iqbal,Anamul Haque,SP Narine,0,0,,,,,,"",""
+ball,1,4.4,Comilla Victorians,Tamim Iqbal,Anamul Haque,SP Narine,1,0,,,,,,"",""
+ball,1,4.5,Comilla Victorians,Anamul Haque,Tamim Iqbal,SP Narine,0,0,,,,,,"",""
+ball,1,4.6,Comilla Victorians,Anamul Haque,Tamim Iqbal,SP Narine,1,0,,,,,,"",""
+ball,1,5.1,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,5.2,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,5.3,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,0,4,,,,4,,"",""
+ball,1,5.4,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,5.5,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,5.6,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,6.1,Comilla Victorians,Anamul Haque,Tamim Iqbal,SP Narine,0,0,,,,,,"",""
+ball,1,6.2,Comilla Victorians,Anamul Haque,Tamim Iqbal,SP Narine,1,0,,,,,,"",""
+ball,1,6.3,Comilla Victorians,Tamim Iqbal,Anamul Haque,SP Narine,1,0,,,,,,"",""
+ball,1,6.4,Comilla Victorians,Anamul Haque,Tamim Iqbal,SP Narine,0,0,,,,,,"",""
+ball,1,6.5,Comilla Victorians,Anamul Haque,Tamim Iqbal,SP Narine,1,0,,,,,,"",""
+ball,1,6.6,Comilla Victorians,Tamim Iqbal,Anamul Haque,SP Narine,1,0,,,,,,"",""
+ball,1,7.1,Comilla Victorians,Tamim Iqbal,Anamul Haque,Qazi Onik,1,0,,,,,,"",""
+ball,1,7.2,Comilla Victorians,Anamul Haque,Tamim Iqbal,Qazi Onik,2,0,,,,,,"",""
+ball,1,7.3,Comilla Victorians,Anamul Haque,Tamim Iqbal,Qazi Onik,1,0,,,,,,"",""
+ball,1,7.4,Comilla Victorians,Tamim Iqbal,Anamul Haque,Qazi Onik,1,0,,,,,,"",""
+ball,1,7.5,Comilla Victorians,Anamul Haque,Tamim Iqbal,Qazi Onik,1,0,,,,,,"",""
+ball,1,7.6,Comilla Victorians,Tamim Iqbal,Anamul Haque,Qazi Onik,4,0,,,,,,"",""
+ball,1,8.1,Comilla Victorians,Anamul Haque,Tamim Iqbal,Rubel Hossain,0,1,,,,1,,"",""
+ball,1,8.2,Comilla Victorians,Tamim Iqbal,Anamul Haque,Rubel Hossain,1,0,,,,,,"",""
+ball,1,8.3,Comilla Victorians,Anamul Haque,Tamim Iqbal,Rubel Hossain,0,0,,,,,,"",""
+ball,1,8.4,Comilla Victorians,Anamul Haque,Tamim Iqbal,Rubel Hossain,1,0,,,,,,"",""
+ball,1,8.5,Comilla Victorians,Tamim Iqbal,Anamul Haque,Rubel Hossain,0,1,1,,,,,"",""
+ball,1,8.6,Comilla Victorians,Tamim Iqbal,Anamul Haque,Rubel Hossain,4,0,,,,,,"",""
+ball,1,8.7,Comilla Victorians,Tamim Iqbal,Anamul Haque,Rubel Hossain,1,0,,,,,,"",""
+ball,1,9.1,Comilla Victorians,Tamim Iqbal,Anamul Haque,Qazi Onik,1,0,,,,,,"",""
+ball,1,9.2,Comilla Victorians,Anamul Haque,Tamim Iqbal,Qazi Onik,1,0,,,,,,"",""
+ball,1,9.3,Comilla Victorians,Tamim Iqbal,Anamul Haque,Qazi Onik,2,0,,,,,,"",""
+ball,1,9.4,Comilla Victorians,Tamim Iqbal,Anamul Haque,Qazi Onik,1,0,,,,,,"",""
+ball,1,9.5,Comilla Victorians,Anamul Haque,Tamim Iqbal,Qazi Onik,4,0,,,,,,"",""
+ball,1,9.6,Comilla Victorians,Anamul Haque,Tamim Iqbal,Qazi Onik,0,1,,,,1,,"",""
+ball,1,10.1,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shuvagata Hom,1,0,,,,,,"",""
+ball,1,10.2,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shuvagata Hom,1,0,,,,,,"",""
+ball,1,10.3,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shuvagata Hom,1,0,,,,,,"",""
+ball,1,10.4,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shuvagata Hom,6,0,,,,,,"",""
+ball,1,10.5,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shuvagata Hom,4,0,,,,,,"",""
+ball,1,10.6,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shuvagata Hom,1,0,,,,,,"",""
+ball,1,11.1,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,2,0,,,,,,"",""
+ball,1,11.2,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,6,0,,,,,,"",""
+ball,1,11.3,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,11.4,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,11.5,Comilla Victorians,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,11.6,Comilla Victorians,Anamul Haque,Tamim Iqbal,Shakib Al Hasan,0,0,,,,,,lbw,Anamul Haque
+ball,1,12.1,Comilla Victorians,Tamim Iqbal,Shamsur Rahman,SP Narine,1,0,,,,,,"",""
+ball,1,12.2,Comilla Victorians,Shamsur Rahman,Tamim Iqbal,SP Narine,0,0,,,,,,run out,Shamsur Rahman
+ball,1,12.3,Comilla Victorians,Imrul Kayes,Tamim Iqbal,SP Narine,0,0,,,,,,"",""
+ball,1,12.4,Comilla Victorians,Imrul Kayes,Tamim Iqbal,SP Narine,0,0,,,,,,"",""
+ball,1,12.5,Comilla Victorians,Imrul Kayes,Tamim Iqbal,SP Narine,1,0,,,,,,"",""
+ball,1,12.6,Comilla Victorians,Tamim Iqbal,Imrul Kayes,SP Narine,0,1,1,,,,,"",""
+ball,1,12.7,Comilla Victorians,Tamim Iqbal,Imrul Kayes,SP Narine,1,0,,,,,,"",""
+ball,1,13.1,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Mahmudul Hasan,0,1,1,,,,,"",""
+ball,1,13.2,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Mahmudul Hasan,0,0,,,,,,"",""
+ball,1,13.3,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Mahmudul Hasan,0,1,1,,,,,"",""
+ball,1,13.4,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Mahmudul Hasan,1,0,,,,,,"",""
+ball,1,13.5,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Mahmudul Hasan,1,0,,,,,,"",""
+ball,1,13.6,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Mahmudul Hasan,1,0,,,,,,"",""
+ball,1,13.7,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Mahmudul Hasan,1,0,,,,,,"",""
+ball,1,13.8,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Mahmudul Hasan,6,0,,,,,,"",""
+ball,1,14.1,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Rubel Hossain,1,0,,,,,,"",""
+ball,1,14.2,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Rubel Hossain,4,0,,,,,,"",""
+ball,1,14.3,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Rubel Hossain,6,0,,,,,,"",""
+ball,1,14.4,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Rubel Hossain,2,0,,,,,,"",""
+ball,1,14.5,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Rubel Hossain,4,0,,,,,,"",""
+ball,1,14.6,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Rubel Hossain,6,0,,,,,,"",""
+ball,1,15.1,Comilla Victorians,Imrul Kayes,Tamim Iqbal,SP Narine,0,0,,,,,,"",""
+ball,1,15.2,Comilla Victorians,Imrul Kayes,Tamim Iqbal,SP Narine,1,0,,,,,,"",""
+ball,1,15.3,Comilla Victorians,Tamim Iqbal,Imrul Kayes,SP Narine,1,0,,,,,,"",""
+ball,1,15.4,Comilla Victorians,Imrul Kayes,Tamim Iqbal,SP Narine,0,0,,,,,,"",""
+ball,1,15.5,Comilla Victorians,Imrul Kayes,Tamim Iqbal,SP Narine,0,0,,,,,,"",""
+ball,1,15.6,Comilla Victorians,Imrul Kayes,Tamim Iqbal,SP Narine,0,0,,,,,,"",""
+ball,1,16.1,Comilla Victorians,Tamim Iqbal,Imrul Kayes,AD Russell,6,0,,,,,,"",""
+ball,1,16.2,Comilla Victorians,Tamim Iqbal,Imrul Kayes,AD Russell,0,0,,,,,,"",""
+ball,1,16.3,Comilla Victorians,Tamim Iqbal,Imrul Kayes,AD Russell,4,0,,,,,,"",""
+ball,1,16.4,Comilla Victorians,Tamim Iqbal,Imrul Kayes,AD Russell,2,0,,,,,,"",""
+ball,1,16.5,Comilla Victorians,Tamim Iqbal,Imrul Kayes,AD Russell,4,0,,,,,,"",""
+ball,1,16.6,Comilla Victorians,Tamim Iqbal,Imrul Kayes,AD Russell,6,0,,,,,,"",""
+ball,1,17.1,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,17.2,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Shakib Al Hasan,0,0,,,,,,"",""
+ball,1,17.3,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Shakib Al Hasan,6,0,,,,,,"",""
+ball,1,17.4,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Shakib Al Hasan,1,0,,,,,,"",""
+ball,1,17.5,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Shakib Al Hasan,6,0,,,,,,"",""
+ball,1,17.6,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Shakib Al Hasan,4,0,,,,,,"",""
+ball,1,18.1,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Rubel Hossain,1,0,,,,,,"",""
+ball,1,18.2,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Rubel Hossain,6,0,,,,,,"",""
+ball,1,18.3,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Rubel Hossain,1,0,,,,,,"",""
+ball,1,18.4,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Rubel Hossain,1,0,,,,,,"",""
+ball,1,18.5,Comilla Victorians,Tamim Iqbal,Imrul Kayes,Rubel Hossain,1,0,,,,,,"",""
+ball,1,18.6,Comilla Victorians,Imrul Kayes,Tamim Iqbal,Rubel Hossain,1,0,,,,,,"",""
+ball,1,19.1,Comilla Victorians,Imrul Kayes,Tamim Iqbal,AD Russell,1,0,,,,,,"",""
+ball,1,19.2,Comilla Victorians,Tamim Iqbal,Imrul Kayes,AD Russell,1,0,,,,,,"",""
+ball,1,19.3,Comilla Victorians,Imrul Kayes,Tamim Iqbal,AD Russell,1,0,,,,,,"",""
+ball,1,19.4,Comilla Victorians,Tamim Iqbal,Imrul Kayes,AD Russell,6,0,,,,,,"",""
+ball,1,19.5,Comilla Victorians,Tamim Iqbal,Imrul Kayes,AD Russell,1,0,,,,,,"",""
+ball,1,19.6,Comilla Victorians,Imrul Kayes,Tamim Iqbal,AD Russell,0,0,,,,,,"",""
+ball,2,0.1,Dhaka Dynamites,WU Tharanga,SP Narine,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,2,0.2,Dhaka Dynamites,WU Tharanga,SP Narine,Mohammad Saifuddin,0,0,,,,,,run out,SP Narine
+ball,2,0.3,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,2,0.4,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,2,0.5,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,0.6,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mohammad Saifuddin,0,1,1,,,,,"",""
+ball,2,0.7,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mohammad Saifuddin,6,0,,,,,,"",""
+ball,2,1.1,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,1.2,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,4,0,,,,,,"",""
+ball,2,1.3,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,1.4,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,1.5,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,1.6,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,2.1,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mohammad Saifuddin,4,0,,,,,,"",""
+ball,2,2.2,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,2,2.3,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mohammad Saifuddin,6,0,,,,,,"",""
+ball,2,2.4,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,2.5,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,2.6,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mohammad Saifuddin,4,0,,,,,,"",""
+ball,2,3.1,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,3.2,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,4,0,,,,,,"",""
+ball,2,3.3,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,6,0,,,,,,"",""
+ball,2,3.4,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,2,0,,,,,,"",""
+ball,2,3.5,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,3.6,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,4.1,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Wahab Riaz,2,0,,,,,,"",""
+ball,2,4.2,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Wahab Riaz,6,0,,,,,,"",""
+ball,2,4.3,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Wahab Riaz,1,0,,,,,,"",""
+ball,2,4.4,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Wahab Riaz,1,0,,,,,,"",""
+ball,2,4.5,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Wahab Riaz,1,0,,,,,,"",""
+ball,2,4.6,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Wahab Riaz,4,0,,,,,,"",""
+ball,2,5.1,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mahedi Hasan,0,2,,,,2,,"",""
+ball,2,5.2,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,5.3,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,5.4,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mahedi Hasan,4,0,,,,,,"",""
+ball,2,5.5,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,5.6,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Mahedi Hasan,4,0,,,,,,"",""
+ball,2,6.1,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Sanjit Saha,0,0,,,,,,"",""
+ball,2,6.2,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Sanjit Saha,1,0,,,,,,"",""
+ball,2,6.3,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Sanjit Saha,1,0,,,,,,"",""
+ball,2,6.4,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Sanjit Saha,6,0,,,,,,"",""
+ball,2,6.5,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Sanjit Saha,1,0,,,,,,"",""
+ball,2,6.6,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Sanjit Saha,1,0,,,,,,"",""
+ball,2,7.1,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Shahid Afridi,1,0,,,,,,"",""
+ball,2,7.2,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Shahid Afridi,1,0,,,,,,"",""
+ball,2,7.3,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Shahid Afridi,6,0,,,,,,"",""
+ball,2,7.4,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Shahid Afridi,1,0,,,,,,"",""
+ball,2,7.5,Dhaka Dynamites,Rony Talukdar,WU Tharanga,Shahid Afridi,1,0,,,,,,"",""
+ball,2,7.6,Dhaka Dynamites,WU Tharanga,Rony Talukdar,Shahid Afridi,1,0,,,,,,"",""
+ball,2,8.1,Dhaka Dynamites,WU Tharanga,Rony Talukdar,NLTC Perera,4,0,,,,,,"",""
+ball,2,8.2,Dhaka Dynamites,WU Tharanga,Rony Talukdar,NLTC Perera,1,0,,,,,,"",""
+ball,2,8.3,Dhaka Dynamites,Rony Talukdar,WU Tharanga,NLTC Perera,1,0,,,,,,"",""
+ball,2,8.4,Dhaka Dynamites,WU Tharanga,Rony Talukdar,NLTC Perera,4,0,,,,,,"",""
+ball,2,8.5,Dhaka Dynamites,WU Tharanga,Rony Talukdar,NLTC Perera,0,0,,,,,,"",""
+ball,2,8.6,Dhaka Dynamites,WU Tharanga,Rony Talukdar,NLTC Perera,0,0,,,,,,caught,WU Tharanga
+ball,2,9.1,Dhaka Dynamites,Shakib Al Hasan,Rony Talukdar,Shahid Afridi,1,0,,,,,,"",""
+ball,2,9.2,Dhaka Dynamites,Rony Talukdar,Shakib Al Hasan,Shahid Afridi,4,0,,,,,,"",""
+ball,2,9.3,Dhaka Dynamites,Rony Talukdar,Shakib Al Hasan,Shahid Afridi,0,0,,,,,,"",""
+ball,2,9.4,Dhaka Dynamites,Rony Talukdar,Shakib Al Hasan,Shahid Afridi,1,0,,,,,,"",""
+ball,2,9.5,Dhaka Dynamites,Shakib Al Hasan,Rony Talukdar,Shahid Afridi,1,0,,,,,,"",""
+ball,2,9.6,Dhaka Dynamites,Rony Talukdar,Shakib Al Hasan,Shahid Afridi,1,0,,,,,,"",""
+ball,2,10.1,Dhaka Dynamites,Rony Talukdar,Shakib Al Hasan,NLTC Perera,6,0,,,,,,"",""
+ball,2,10.2,Dhaka Dynamites,Rony Talukdar,Shakib Al Hasan,NLTC Perera,1,0,,,,,,"",""
+ball,2,10.3,Dhaka Dynamites,Shakib Al Hasan,Rony Talukdar,NLTC Perera,0,1,,,,1,,"",""
+ball,2,10.4,Dhaka Dynamites,Rony Talukdar,Shakib Al Hasan,NLTC Perera,1,0,,,,,,"",""
+ball,2,10.5,Dhaka Dynamites,Shakib Al Hasan,Rony Talukdar,NLTC Perera,1,0,,,,,,"",""
+ball,2,10.6,Dhaka Dynamites,Rony Talukdar,Shakib Al Hasan,NLTC Perera,0,0,,,,,,"",""
+ball,2,11.1,Dhaka Dynamites,Shakib Al Hasan,Rony Talukdar,Wahab Riaz,0,0,,,,,,caught,Shakib Al Hasan
+ball,2,11.2,Dhaka Dynamites,Rony Talukdar,KA Pollard,Wahab Riaz,0,0,,,,,,"",""
+ball,2,11.3,Dhaka Dynamites,Rony Talukdar,KA Pollard,Wahab Riaz,1,0,,,,,,"",""
+ball,2,11.4,Dhaka Dynamites,KA Pollard,Rony Talukdar,Wahab Riaz,0,0,,,,,,"",""
+ball,2,11.5,Dhaka Dynamites,KA Pollard,Rony Talukdar,Wahab Riaz,0,0,,,,,,"",""
+ball,2,11.6,Dhaka Dynamites,KA Pollard,Rony Talukdar,Wahab Riaz,0,0,,,,,,"",""
+ball,2,12.1,Dhaka Dynamites,Rony Talukdar,KA Pollard,Shahid Afridi,0,0,,,,,,run out,Rony Talukdar
+ball,2,12.2,Dhaka Dynamites,KA Pollard,AD Russell,Shahid Afridi,4,0,,,,,,"",""
+ball,2,12.3,Dhaka Dynamites,KA Pollard,AD Russell,Shahid Afridi,0,0,,,,,,"",""
+ball,2,12.4,Dhaka Dynamites,KA Pollard,AD Russell,Shahid Afridi,1,0,,,,,,"",""
+ball,2,12.5,Dhaka Dynamites,AD Russell,KA Pollard,Shahid Afridi,0,1,1,,,,,"",""
+ball,2,12.6,Dhaka Dynamites,AD Russell,KA Pollard,Shahid Afridi,0,0,,,,,,"",""
+ball,2,12.7,Dhaka Dynamites,AD Russell,KA Pollard,Shahid Afridi,4,0,,,,,,"",""
+ball,2,13.1,Dhaka Dynamites,KA Pollard,AD Russell,NLTC Perera,1,0,,,,,,"",""
+ball,2,13.2,Dhaka Dynamites,AD Russell,KA Pollard,NLTC Perera,0,0,,,,,,caught,AD Russell
+ball,2,13.3,Dhaka Dynamites,Nurul Hasan,KA Pollard,NLTC Perera,0,0,,,,,,"",""
+ball,2,13.4,Dhaka Dynamites,Nurul Hasan,KA Pollard,NLTC Perera,1,0,,,,,,"",""
+ball,2,13.5,Dhaka Dynamites,KA Pollard,Nurul Hasan,NLTC Perera,0,0,,,,,,"",""
+ball,2,13.6,Dhaka Dynamites,KA Pollard,Nurul Hasan,NLTC Perera,0,0,,,,,,"",""
+ball,2,14.1,Dhaka Dynamites,Nurul Hasan,KA Pollard,Shahid Afridi,0,0,,,,,,"",""
+ball,2,14.2,Dhaka Dynamites,Nurul Hasan,KA Pollard,Shahid Afridi,1,0,,,,,,"",""
+ball,2,14.3,Dhaka Dynamites,KA Pollard,Nurul Hasan,Shahid Afridi,0,0,,,,,,"",""
+ball,2,14.4,Dhaka Dynamites,KA Pollard,Nurul Hasan,Shahid Afridi,6,0,,,,,,"",""
+ball,2,14.5,Dhaka Dynamites,KA Pollard,Nurul Hasan,Shahid Afridi,0,0,,,,,,"",""
+ball,2,14.6,Dhaka Dynamites,KA Pollard,Nurul Hasan,Shahid Afridi,1,0,,,,,,"",""
+ball,2,15.1,Dhaka Dynamites,KA Pollard,Nurul Hasan,Wahab Riaz,0,0,,,,,,"",""
+ball,2,15.2,Dhaka Dynamites,KA Pollard,Nurul Hasan,Wahab Riaz,0,0,,,,,,caught,KA Pollard
+ball,2,15.3,Dhaka Dynamites,Nurul Hasan,Shuvagata Hom,Wahab Riaz,0,0,,,,,,"",""
+ball,2,15.4,Dhaka Dynamites,Nurul Hasan,Shuvagata Hom,Wahab Riaz,0,0,,,,,,"",""
+ball,2,15.5,Dhaka Dynamites,Nurul Hasan,Shuvagata Hom,Wahab Riaz,1,0,,,,,,"",""
+ball,2,15.6,Dhaka Dynamites,Shuvagata Hom,Nurul Hasan,Wahab Riaz,0,0,,,,,,"",""
+ball,2,16.1,Dhaka Dynamites,Nurul Hasan,Shuvagata Hom,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,16.2,Dhaka Dynamites,Shuvagata Hom,Nurul Hasan,Mohammad Saifuddin,0,0,,,,,,caught,Shuvagata Hom
+ball,2,16.3,Dhaka Dynamites,Nurul Hasan,Mahmudul Hasan,Mohammad Saifuddin,6,0,,,,,,"",""
+ball,2,16.4,Dhaka Dynamites,Nurul Hasan,Mahmudul Hasan,Mohammad Saifuddin,0,1,1,,,,,"",""
+ball,2,16.5,Dhaka Dynamites,Nurul Hasan,Mahmudul Hasan,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,16.6,Dhaka Dynamites,Mahmudul Hasan,Nurul Hasan,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,16.7,Dhaka Dynamites,Nurul Hasan,Mahmudul Hasan,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,2,17.1,Dhaka Dynamites,Mahmudul Hasan,Nurul Hasan,NLTC Perera,0,1,1,,,,,"",""
+ball,2,17.2,Dhaka Dynamites,Mahmudul Hasan,Nurul Hasan,NLTC Perera,0,0,,,,,,"",""
+ball,2,17.3,Dhaka Dynamites,Mahmudul Hasan,Nurul Hasan,NLTC Perera,0,1,,,,1,,"",""
+ball,2,17.4,Dhaka Dynamites,Nurul Hasan,Mahmudul Hasan,NLTC Perera,1,0,,,,,,"",""
+ball,2,17.5,Dhaka Dynamites,Mahmudul Hasan,Nurul Hasan,NLTC Perera,0,0,,,,,,"",""
+ball,2,17.6,Dhaka Dynamites,Mahmudul Hasan,Nurul Hasan,NLTC Perera,6,0,,,,,,"",""
+ball,2,17.7,Dhaka Dynamites,Mahmudul Hasan,Nurul Hasan,NLTC Perera,6,0,,,,,,"",""
+ball,2,18.1,Dhaka Dynamites,Nurul Hasan,Mahmudul Hasan,Wahab Riaz,6,0,,,,,,"",""
+ball,2,18.2,Dhaka Dynamites,Nurul Hasan,Mahmudul Hasan,Wahab Riaz,0,0,,,,,,"",""
+ball,2,18.3,Dhaka Dynamites,Nurul Hasan,Mahmudul Hasan,Wahab Riaz,0,0,,,,,,caught,Nurul Hasan
+ball,2,18.4,Dhaka Dynamites,Rubel Hossain,Mahmudul Hasan,Wahab Riaz,0,1,1,,,,,"",""
+ball,2,18.5,Dhaka Dynamites,Rubel Hossain,Mahmudul Hasan,Wahab Riaz,0,0,,,,,,"",""
+ball,2,18.6,Dhaka Dynamites,Rubel Hossain,Mahmudul Hasan,Wahab Riaz,4,0,,,,,,"",""
+ball,2,18.7,Dhaka Dynamites,Rubel Hossain,Mahmudul Hasan,Wahab Riaz,0,0,,,,,,"",""
+ball,2,19.1,Dhaka Dynamites,Mahmudul Hasan,Rubel Hossain,Mohammad Saifuddin,2,0,,,,,,"",""
+ball,2,19.2,Dhaka Dynamites,Mahmudul Hasan,Rubel Hossain,Mohammad Saifuddin,0,0,,,,,,caught,Mahmudul Hasan
+ball,2,19.3,Dhaka Dynamites,Rubel Hossain,Qazi Onik,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,2,19.4,Dhaka Dynamites,Rubel Hossain,Qazi Onik,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,19.5,Dhaka Dynamites,Qazi Onik,Rubel Hossain,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,2,19.6,Dhaka Dynamites,Qazi Onik,Rubel Hossain,Mohammad Saifuddin,1,0,,,,,,"",""

@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,The Blaze
+info,team,Hampshire
+info,gender,female
+info,season,2025
+info,date,2025/07/04
+info,event,Vitality Blast Women
+info,match_number,34
+info,venue,"Queen's Park, Chesterfield"
+info,city,Chesterfield
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,umpire,A Clark
+info,umpire,AC Harris
+info,match_referee,SG Hinks
+info,winner,The Blaze
+info,winner_runs,37
+info,player,The Blaze,M Kelly
+info,player,The Blaze,GA Elwiss
+info,player,The Blaze,KE Bryce
+info,player,The Blaze,SJ Bryce
+info,player,The Blaze,H Graham
+info,player,The Blaze,E Claridge
+info,player,The Blaze,ML Kirk
+info,player,The Blaze,S Glenn
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,CM McCarthy
+info,player,The Blaze,G Ballinger
+info,player,Hampshire,R Southby
+info,player,Hampshire,EA Perry
+info,player,Hampshire,FG Kemp
+info,player,Hampshire,GL Adams
+info,player,Hampshire,A Norgrove
+info,player,Hampshire,ND Dattani
+info,player,Hampshire,MLL Taylor
+info,player,Hampshire,ML Sturge
+info,player,Hampshire,FR Davies
+info,player,Hampshire,DJ Gibb
+info,player,Hampshire,R Tyson
+info,registry,people,A Clark,8c73cd16
+info,registry,people,A Norgrove,c9439c2e
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,CM McCarthy,7ce7fb3c
+info,registry,people,DJ Gibb,977ddcd2
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,EA Perry,be150fc8
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,FR Davies,2479daa6
+info,registry,people,G Ballinger,2f485713
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,H Graham,99812d10
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL Gordon,00823a96
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,ML Kirk,2dece89c
+info,registry,people,ML Sturge,f4f307d4
+info,registry,people,MLL Taylor,014cfac4
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,R Southby,bbe1525d
+info,registry,people,R Tyson,5c9d5093
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SJ Bryce,2ca65aee
+ball,1,0.1,The Blaze,M Kelly,GA Elwiss,DJ Gibb,4,0,,,,,,"",""
+ball,1,0.2,The Blaze,M Kelly,GA Elwiss,DJ Gibb,2,0,,,,,,"",""
+ball,1,0.3,The Blaze,M Kelly,GA Elwiss,DJ Gibb,0,1,,,,1,,"",""
+ball,1,0.4,The Blaze,GA Elwiss,M Kelly,DJ Gibb,0,0,,,,,,"",""
+ball,1,0.5,The Blaze,GA Elwiss,M Kelly,DJ Gibb,0,1,1,,,,,"",""
+ball,1,0.6,The Blaze,GA Elwiss,M Kelly,DJ Gibb,1,0,,,,,,"",""
+ball,1,0.7,The Blaze,M Kelly,GA Elwiss,DJ Gibb,2,0,,,,,,"",""
+ball,1,1.1,The Blaze,GA Elwiss,M Kelly,FR Davies,0,0,,,,,,"",""
+ball,1,1.2,The Blaze,GA Elwiss,M Kelly,FR Davies,1,0,,,,,,"",""
+ball,1,1.3,The Blaze,M Kelly,GA Elwiss,FR Davies,4,0,,,,,,"",""
+ball,1,1.4,The Blaze,M Kelly,GA Elwiss,FR Davies,4,0,,,,,,"",""
+ball,1,1.5,The Blaze,M Kelly,GA Elwiss,FR Davies,0,0,,,,,,bowled,M Kelly
+ball,1,1.6,The Blaze,KE Bryce,GA Elwiss,FR Davies,2,0,,,,,,"",""
+ball,1,2.1,The Blaze,GA Elwiss,KE Bryce,R Tyson,0,0,,,,,,caught,GA Elwiss
+ball,1,2.2,The Blaze,SJ Bryce,KE Bryce,R Tyson,1,0,,,,,,"",""
+ball,1,2.3,The Blaze,KE Bryce,SJ Bryce,R Tyson,0,0,,,,,,"",""
+ball,1,2.4,The Blaze,KE Bryce,SJ Bryce,R Tyson,0,0,,,,,,"",""
+ball,1,2.5,The Blaze,KE Bryce,SJ Bryce,R Tyson,4,0,,,,,,"",""
+ball,1,2.6,The Blaze,KE Bryce,SJ Bryce,R Tyson,1,0,,,,,,"",""
+ball,1,3.1,The Blaze,KE Bryce,SJ Bryce,EA Perry,0,0,,,,,,caught,KE Bryce
+ball,1,3.2,The Blaze,H Graham,SJ Bryce,EA Perry,0,0,,,,,,"",""
+ball,1,3.3,The Blaze,H Graham,SJ Bryce,EA Perry,0,1,1,,,,,"",""
+ball,1,3.4,The Blaze,H Graham,SJ Bryce,EA Perry,0,0,,,,,,"",""
+ball,1,3.5,The Blaze,H Graham,SJ Bryce,EA Perry,4,0,,,,,,"",""
+ball,1,3.6,The Blaze,H Graham,SJ Bryce,EA Perry,0,0,,,,,,"",""
+ball,1,3.7,The Blaze,H Graham,SJ Bryce,EA Perry,0,0,,,,,,"",""
+ball,1,4.1,The Blaze,SJ Bryce,H Graham,DJ Gibb,1,0,,,,,,"",""
+ball,1,4.2,The Blaze,H Graham,SJ Bryce,DJ Gibb,0,0,,,,,,"",""
+ball,1,4.3,The Blaze,H Graham,SJ Bryce,DJ Gibb,2,0,,,,,,"",""
+ball,1,4.4,The Blaze,H Graham,SJ Bryce,DJ Gibb,0,1,1,,,,,"",""
+ball,1,4.5,The Blaze,H Graham,SJ Bryce,DJ Gibb,4,0,,,,,,"",""
+ball,1,4.6,The Blaze,H Graham,SJ Bryce,DJ Gibb,0,0,,,,,,"",""
+ball,1,4.7,The Blaze,H Graham,SJ Bryce,DJ Gibb,1,0,,,,,,"",""
+ball,1,5.1,The Blaze,H Graham,SJ Bryce,FR Davies,0,0,,,,,,"",""
+ball,1,5.2,The Blaze,H Graham,SJ Bryce,FR Davies,2,0,,,,,,"",""
+ball,1,5.3,The Blaze,H Graham,SJ Bryce,FR Davies,0,0,,,,,,"",""
+ball,1,5.4,The Blaze,H Graham,SJ Bryce,FR Davies,1,0,,,,,,"",""
+ball,1,5.5,The Blaze,SJ Bryce,H Graham,FR Davies,4,0,,,,,,"",""
+ball,1,5.6,The Blaze,SJ Bryce,H Graham,FR Davies,0,0,,,,,,lbw,SJ Bryce
+ball,1,6.1,The Blaze,H Graham,E Claridge,R Tyson,1,0,,,,,,"",""
+ball,1,6.2,The Blaze,E Claridge,H Graham,R Tyson,1,0,,,,,,"",""
+ball,1,6.3,The Blaze,H Graham,E Claridge,R Tyson,0,1,1,,,,,"",""
+ball,1,6.4,The Blaze,H Graham,E Claridge,R Tyson,1,0,,,,,,"",""
+ball,1,6.5,The Blaze,E Claridge,H Graham,R Tyson,1,0,,,,,,"",""
+ball,1,6.6,The Blaze,H Graham,E Claridge,R Tyson,1,0,,,,,,"",""
+ball,1,6.7,The Blaze,E Claridge,H Graham,R Tyson,0,0,,,,,,"",""
+ball,1,7.1,The Blaze,H Graham,E Claridge,EA Perry,0,1,1,,,,,"",""
+ball,1,7.2,The Blaze,H Graham,E Claridge,EA Perry,1,0,,,,,,"",""
+ball,1,7.3,The Blaze,E Claridge,H Graham,EA Perry,1,0,,,,,,"",""
+ball,1,7.4,The Blaze,H Graham,E Claridge,EA Perry,4,0,,,,,,"",""
+ball,1,7.5,The Blaze,H Graham,E Claridge,EA Perry,1,0,,,,,,"",""
+ball,1,7.6,The Blaze,E Claridge,H Graham,EA Perry,0,0,,,,,,"",""
+ball,1,7.7,The Blaze,E Claridge,H Graham,EA Perry,0,0,,,,,,"",""
+ball,1,8.1,The Blaze,H Graham,E Claridge,GL Adams,1,0,,,,,,"",""
+ball,1,8.2,The Blaze,E Claridge,H Graham,GL Adams,1,0,,,,,,"",""
+ball,1,8.3,The Blaze,H Graham,E Claridge,GL Adams,1,0,,,,,,"",""
+ball,1,8.4,The Blaze,E Claridge,H Graham,GL Adams,1,0,,,,,,"",""
+ball,1,8.5,The Blaze,H Graham,E Claridge,GL Adams,4,0,,,,,,"",""
+ball,1,8.6,The Blaze,H Graham,E Claridge,GL Adams,1,0,,,,,,"",""
+ball,1,9.1,The Blaze,H Graham,E Claridge,MLL Taylor,6,0,,,,,,"",""
+ball,1,9.2,The Blaze,H Graham,E Claridge,MLL Taylor,0,0,,,,,,"",""
+ball,1,9.3,The Blaze,H Graham,E Claridge,MLL Taylor,0,0,,,,,,"",""
+ball,1,9.4,The Blaze,H Graham,E Claridge,MLL Taylor,4,0,,,,,,"",""
+ball,1,9.5,The Blaze,H Graham,E Claridge,MLL Taylor,1,0,,,,,,"",""
+ball,1,9.6,The Blaze,E Claridge,H Graham,MLL Taylor,0,0,,,,,,"",""
+ball,1,10.1,The Blaze,H Graham,E Claridge,R Tyson,2,0,,,,,,"",""
+ball,1,10.2,The Blaze,H Graham,E Claridge,R Tyson,1,0,,,,,,"",""
+ball,1,10.3,The Blaze,E Claridge,H Graham,R Tyson,0,0,,,,,,"",""
+ball,1,10.4,The Blaze,E Claridge,H Graham,R Tyson,1,0,,,,,,"",""
+ball,1,10.5,The Blaze,H Graham,E Claridge,R Tyson,1,0,,,,,,"",""
+ball,1,10.6,The Blaze,E Claridge,H Graham,R Tyson,1,0,,,,,,"",""
+ball,1,11.1,The Blaze,E Claridge,H Graham,FR Davies,1,0,,,,,,"",""
+ball,1,11.2,The Blaze,H Graham,E Claridge,FR Davies,4,0,,,,,,"",""
+ball,1,11.3,The Blaze,H Graham,E Claridge,FR Davies,1,0,,,,,,"",""
+ball,1,11.4,The Blaze,E Claridge,H Graham,FR Davies,1,0,,,,,,"",""
+ball,1,11.5,The Blaze,H Graham,E Claridge,FR Davies,0,1,1,,,,,"",""
+ball,1,11.6,The Blaze,H Graham,E Claridge,FR Davies,4,0,,,,,,"",""
+ball,1,11.7,The Blaze,H Graham,E Claridge,FR Davies,1,0,,,,,,"",""
+ball,1,12.1,The Blaze,H Graham,E Claridge,GL Adams,4,0,,,,,,"",""
+ball,1,12.2,The Blaze,H Graham,E Claridge,GL Adams,0,0,,,,,,"",""
+ball,1,12.3,The Blaze,H Graham,E Claridge,GL Adams,2,0,,,,,,"",""
+ball,1,12.4,The Blaze,H Graham,E Claridge,GL Adams,1,0,,,,,,"",""
+ball,1,12.5,The Blaze,E Claridge,H Graham,GL Adams,1,0,,,,,,"",""
+ball,1,12.6,The Blaze,H Graham,E Claridge,GL Adams,1,0,,,,,,"",""
+ball,1,13.1,The Blaze,H Graham,E Claridge,MLL Taylor,1,0,,,,,,"",""
+ball,1,13.2,The Blaze,E Claridge,H Graham,MLL Taylor,0,0,,,,,,"",""
+ball,1,13.3,The Blaze,E Claridge,H Graham,MLL Taylor,2,0,,,,,,"",""
+ball,1,13.4,The Blaze,E Claridge,H Graham,MLL Taylor,1,0,,,,,,"",""
+ball,1,13.5,The Blaze,H Graham,E Claridge,MLL Taylor,0,0,,,,,,"",""
+ball,1,13.6,The Blaze,H Graham,E Claridge,MLL Taylor,0,1,1,,,,,"",""
+ball,1,13.7,The Blaze,H Graham,E Claridge,MLL Taylor,1,0,,,,,,"",""
+ball,1,14.1,The Blaze,H Graham,E Claridge,EA Perry,6,0,,,,,,"",""
+ball,1,14.2,The Blaze,H Graham,E Claridge,EA Perry,2,0,,,,,,"",""
+ball,1,14.3,The Blaze,H Graham,E Claridge,EA Perry,0,0,,,,,,caught and bowled,H Graham
+ball,1,14.4,The Blaze,ML Kirk,E Claridge,EA Perry,0,1,1,,,,,"",""
+ball,1,14.5,The Blaze,ML Kirk,E Claridge,EA Perry,0,0,,,,,,"",""
+ball,1,14.6,The Blaze,ML Kirk,E Claridge,EA Perry,0,0,,,,,,"",""
+ball,1,14.7,The Blaze,ML Kirk,E Claridge,EA Perry,1,0,,,,,,"",""
+ball,1,15.1,The Blaze,ML Kirk,E Claridge,GL Adams,4,0,,,,,,"",""
+ball,1,15.2,The Blaze,ML Kirk,E Claridge,GL Adams,1,0,,,,,,"",""
+ball,1,15.3,The Blaze,E Claridge,ML Kirk,GL Adams,1,0,,,,,,"",""
+ball,1,15.4,The Blaze,ML Kirk,E Claridge,GL Adams,1,0,,,,,,"",""
+ball,1,15.5,The Blaze,E Claridge,ML Kirk,GL Adams,2,0,,,,,,"",""
+ball,1,15.6,The Blaze,E Claridge,ML Kirk,GL Adams,1,0,,,,,,"",""
+ball,1,16.1,The Blaze,E Claridge,ML Kirk,MLL Taylor,4,0,,,,,,"",""
+ball,1,16.2,The Blaze,E Claridge,ML Kirk,MLL Taylor,2,0,,,,,,"",""
+ball,1,16.3,The Blaze,E Claridge,ML Kirk,MLL Taylor,1,0,,,,,,"",""
+ball,1,16.4,The Blaze,ML Kirk,E Claridge,MLL Taylor,0,0,,,,,,"",""
+ball,1,16.5,The Blaze,ML Kirk,E Claridge,MLL Taylor,1,0,,,,,,"",""
+ball,1,16.6,The Blaze,E Claridge,ML Kirk,MLL Taylor,0,0,,,,,,"",""
+ball,1,17.1,The Blaze,ML Kirk,E Claridge,GL Adams,1,0,,,,,,"",""
+ball,1,17.2,The Blaze,E Claridge,ML Kirk,GL Adams,4,0,,,,,,"",""
+ball,1,17.3,The Blaze,E Claridge,ML Kirk,GL Adams,1,0,,,,,,"",""
+ball,1,17.4,The Blaze,ML Kirk,E Claridge,GL Adams,0,0,,,,,,bowled,ML Kirk
+ball,1,17.5,The Blaze,S Glenn,E Claridge,GL Adams,1,0,,,,,,"",""
+ball,1,17.6,The Blaze,E Claridge,S Glenn,GL Adams,0,0,,,,,,"",""
+ball,1,18.1,The Blaze,S Glenn,E Claridge,R Tyson,0,1,,,,1,,"",""
+ball,1,18.2,The Blaze,E Claridge,S Glenn,R Tyson,4,0,,,,,,"",""
+ball,1,18.3,The Blaze,E Claridge,S Glenn,R Tyson,4,0,,,,,,"",""
+ball,1,18.4,The Blaze,E Claridge,S Glenn,R Tyson,0,4,,,4,,,"",""
+ball,1,18.5,The Blaze,E Claridge,S Glenn,R Tyson,1,0,,,,,,"",""
+ball,1,18.6,The Blaze,S Glenn,E Claridge,R Tyson,4,0,,,,,,"",""
+ball,1,19.1,The Blaze,E Claridge,S Glenn,FR Davies,4,0,,,,,,"",""
+ball,1,19.2,The Blaze,E Claridge,S Glenn,FR Davies,1,0,,,,,,"",""
+ball,1,19.3,The Blaze,S Glenn,E Claridge,FR Davies,4,0,,,,,,"",""
+ball,1,19.4,The Blaze,S Glenn,E Claridge,FR Davies,1,0,,,,,,"",""
+ball,1,19.5,The Blaze,E Claridge,S Glenn,FR Davies,4,0,,,,,,"",""
+ball,1,19.6,The Blaze,E Claridge,S Glenn,FR Davies,4,0,,,,,,"",""
+ball,2,0.1,Hampshire,R Southby,EA Perry,CM McCarthy,0,1,1,,,,,"",""
+ball,2,0.2,Hampshire,R Southby,EA Perry,CM McCarthy,0,1,,,,1,,"",""
+ball,2,0.3,Hampshire,EA Perry,R Southby,CM McCarthy,4,0,,,,,,"",""
+ball,2,0.4,Hampshire,EA Perry,R Southby,CM McCarthy,0,1,1,,,,,"",""
+ball,2,0.5,Hampshire,EA Perry,R Southby,CM McCarthy,0,0,,,,,,"",""
+ball,2,0.6,Hampshire,EA Perry,R Southby,CM McCarthy,4,0,,,,,,"",""
+ball,2,0.7,Hampshire,EA Perry,R Southby,CM McCarthy,0,0,,,,,,"",""
+ball,2,0.8,Hampshire,EA Perry,R Southby,CM McCarthy,0,0,,,,,,"",""
+ball,2,1.1,Hampshire,R Southby,EA Perry,G Ballinger,4,0,,,,,,"",""
+ball,2,1.2,Hampshire,R Southby,EA Perry,G Ballinger,0,0,,,,,,"",""
+ball,2,1.3,Hampshire,R Southby,EA Perry,G Ballinger,0,0,,,,,,"",""
+ball,2,1.4,Hampshire,R Southby,EA Perry,G Ballinger,4,0,,,,,,"",""
+ball,2,1.5,Hampshire,R Southby,EA Perry,G Ballinger,0,0,,,,,,"",""
+ball,2,1.6,Hampshire,R Southby,EA Perry,G Ballinger,0,0,,,,,,"",""
+ball,2,2.1,Hampshire,EA Perry,R Southby,KE Bryce,0,0,,,,,,"",""
+ball,2,2.2,Hampshire,EA Perry,R Southby,KE Bryce,0,0,,,,,,"",""
+ball,2,2.3,Hampshire,EA Perry,R Southby,KE Bryce,0,0,,,,,,"",""
+ball,2,2.4,Hampshire,EA Perry,R Southby,KE Bryce,4,0,,,,,,"",""
+ball,2,2.5,Hampshire,EA Perry,R Southby,KE Bryce,0,0,,,,,,caught,EA Perry
+ball,2,2.6,Hampshire,FG Kemp,R Southby,KE Bryce,0,0,,,,,,"",""
+ball,2,3.1,Hampshire,R Southby,FG Kemp,S Glenn,0,0,,,,,,"",""
+ball,2,3.2,Hampshire,R Southby,FG Kemp,S Glenn,1,0,,,,,,"",""
+ball,2,3.3,Hampshire,FG Kemp,R Southby,S Glenn,4,0,,,,,,"",""
+ball,2,3.4,Hampshire,FG Kemp,R Southby,S Glenn,0,0,,,,,,"",""
+ball,2,3.5,Hampshire,FG Kemp,R Southby,S Glenn,1,0,,,,,,"",""
+ball,2,3.6,Hampshire,R Southby,FG Kemp,S Glenn,4,0,,,,,,"",""
+ball,2,4.1,Hampshire,FG Kemp,R Southby,CM McCarthy,1,0,,,,,,"",""
+ball,2,4.2,Hampshire,R Southby,FG Kemp,CM McCarthy,0,0,,,,,,"",""
+ball,2,4.3,Hampshire,R Southby,FG Kemp,CM McCarthy,4,0,,,,,,"",""
+ball,2,4.4,Hampshire,R Southby,FG Kemp,CM McCarthy,0,1,1,,,,,"",""
+ball,2,4.5,Hampshire,R Southby,FG Kemp,CM McCarthy,0,0,,,,,,"",""
+ball,2,4.6,Hampshire,R Southby,FG Kemp,CM McCarthy,4,0,,,,,,"",""
+ball,2,4.7,Hampshire,R Southby,FG Kemp,CM McCarthy,0,1,1,,,,,"",""
+ball,2,4.8,Hampshire,R Southby,FG Kemp,CM McCarthy,4,0,,,,,,"",""
+ball,2,5.1,Hampshire,FG Kemp,R Southby,KL Gordon,0,0,,,,,,bowled,FG Kemp
+ball,2,5.2,Hampshire,GL Adams,R Southby,KL Gordon,0,0,,,,,,"",""
+ball,2,5.3,Hampshire,GL Adams,R Southby,KL Gordon,0,0,,,,,,"",""
+ball,2,5.4,Hampshire,GL Adams,R Southby,KL Gordon,0,0,,,,,,"",""
+ball,2,5.5,Hampshire,GL Adams,R Southby,KL Gordon,0,0,,,,,,"",""
+ball,2,5.6,Hampshire,GL Adams,R Southby,KL Gordon,1,0,,,,,,"",""
+ball,2,6.1,Hampshire,GL Adams,R Southby,S Glenn,1,0,,,,,,"",""
+ball,2,6.2,Hampshire,R Southby,GL Adams,S Glenn,1,0,,,,,,"",""
+ball,2,6.3,Hampshire,GL Adams,R Southby,S Glenn,1,0,,,,,,"",""
+ball,2,6.4,Hampshire,R Southby,GL Adams,S Glenn,2,0,,,,,,"",""
+ball,2,6.5,Hampshire,R Southby,GL Adams,S Glenn,1,0,,,,,,"",""
+ball,2,6.6,Hampshire,GL Adams,R Southby,S Glenn,1,0,,,,,,"",""
+ball,2,7.1,Hampshire,GL Adams,R Southby,KL Gordon,1,0,,,,,,"",""
+ball,2,7.2,Hampshire,R Southby,GL Adams,KL Gordon,1,0,,,,,,"",""
+ball,2,7.3,Hampshire,GL Adams,R Southby,KL Gordon,1,0,,,,,,"",""
+ball,2,7.4,Hampshire,R Southby,GL Adams,KL Gordon,0,0,,,,,,"",""
+ball,2,7.5,Hampshire,R Southby,GL Adams,KL Gordon,1,0,,,,,,"",""
+ball,2,7.6,Hampshire,GL Adams,R Southby,KL Gordon,1,0,,,,,,"",""
+ball,2,8.1,Hampshire,GL Adams,R Southby,KE Bryce,0,0,,,,,,caught,GL Adams
+ball,2,8.2,Hampshire,A Norgrove,R Southby,KE Bryce,0,0,,,,,,"",""
+ball,2,8.3,Hampshire,A Norgrove,R Southby,KE Bryce,1,0,,,,,,"",""
+ball,2,8.4,Hampshire,R Southby,A Norgrove,KE Bryce,1,0,,,,,,"",""
+ball,2,8.5,Hampshire,A Norgrove,R Southby,KE Bryce,3,0,,,,,,"",""
+ball,2,8.6,Hampshire,R Southby,A Norgrove,KE Bryce,1,0,,,,,,"",""
+ball,2,9.1,Hampshire,R Southby,A Norgrove,H Graham,1,0,,,,,,"",""
+ball,2,9.2,Hampshire,A Norgrove,R Southby,H Graham,1,0,,,,,,"",""
+ball,2,9.3,Hampshire,R Southby,A Norgrove,H Graham,1,0,,,,,,"",""
+ball,2,9.4,Hampshire,A Norgrove,R Southby,H Graham,4,0,,,,,,"",""
+ball,2,9.5,Hampshire,A Norgrove,R Southby,H Graham,1,0,,,,,,"",""
+ball,2,9.6,Hampshire,R Southby,A Norgrove,H Graham,1,0,,,,,,"",""
+ball,2,10.1,Hampshire,R Southby,A Norgrove,S Glenn,1,0,,,,,,"",""
+ball,2,10.2,Hampshire,A Norgrove,R Southby,S Glenn,0,1,1,,,,,"",""
+ball,2,10.3,Hampshire,A Norgrove,R Southby,S Glenn,4,0,,,,,,"",""
+ball,2,10.4,Hampshire,A Norgrove,R Southby,S Glenn,1,0,,,,,,"",""
+ball,2,10.5,Hampshire,R Southby,A Norgrove,S Glenn,4,0,,,,,,"",""
+ball,2,10.6,Hampshire,R Southby,A Norgrove,S Glenn,0,0,,,,,,"",""
+ball,2,10.7,Hampshire,R Southby,A Norgrove,S Glenn,0,1,1,,,,,"",""
+ball,2,10.8,Hampshire,R Southby,A Norgrove,S Glenn,1,0,,,,,,"",""
+ball,2,11.1,Hampshire,R Southby,A Norgrove,KL Gordon,0,0,,,,,,"",""
+ball,2,11.2,Hampshire,R Southby,A Norgrove,KL Gordon,2,0,,,,,,"",""
+ball,2,11.3,Hampshire,R Southby,A Norgrove,KL Gordon,1,0,,,,,,"",""
+ball,2,11.4,Hampshire,A Norgrove,R Southby,KL Gordon,1,0,,,,,,"",""
+ball,2,11.5,Hampshire,R Southby,A Norgrove,KL Gordon,0,0,,,,,,"",""
+ball,2,11.6,Hampshire,R Southby,A Norgrove,KL Gordon,1,0,,,,,,"",""
+ball,2,12.1,Hampshire,R Southby,A Norgrove,G Ballinger,4,0,,,,,,"",""
+ball,2,12.2,Hampshire,R Southby,A Norgrove,G Ballinger,4,0,,,,,,"",""
+ball,2,12.3,Hampshire,R Southby,A Norgrove,G Ballinger,1,0,,,,,,"",""
+ball,2,12.4,Hampshire,A Norgrove,R Southby,G Ballinger,2,0,,,,,,"",""
+ball,2,12.5,Hampshire,A Norgrove,R Southby,G Ballinger,1,0,,,,,,"",""
+ball,2,12.6,Hampshire,R Southby,A Norgrove,G Ballinger,1,0,,,,,,"",""
+ball,2,13.1,Hampshire,R Southby,A Norgrove,H Graham,4,0,,,,,,"",""
+ball,2,13.2,Hampshire,R Southby,A Norgrove,H Graham,4,0,,,,,,"",""
+ball,2,13.3,Hampshire,R Southby,A Norgrove,H Graham,0,0,,,,,,bowled,R Southby
+ball,2,13.4,Hampshire,ND Dattani,A Norgrove,H Graham,2,0,,,,,,"",""
+ball,2,13.5,Hampshire,ND Dattani,A Norgrove,H Graham,4,0,,,,,,"",""
+ball,2,13.6,Hampshire,ND Dattani,A Norgrove,H Graham,0,1,1,,,,,"",""
+ball,2,13.7,Hampshire,ND Dattani,A Norgrove,H Graham,0,0,,,,,,"",""
+ball,2,14.1,Hampshire,A Norgrove,ND Dattani,KE Bryce,0,0,,,,,,bowled,A Norgrove
+ball,2,14.2,Hampshire,MLL Taylor,ND Dattani,KE Bryce,0,0,,,,,,"",""
+ball,2,14.3,Hampshire,MLL Taylor,ND Dattani,KE Bryce,0,0,,,,,,"",""
+ball,2,14.4,Hampshire,MLL Taylor,ND Dattani,KE Bryce,1,0,,,,,,"",""
+ball,2,14.5,Hampshire,ND Dattani,MLL Taylor,KE Bryce,1,0,,,,,,run out,ND Dattani
+ball,2,14.6,Hampshire,MLL Taylor,ML Sturge,KE Bryce,1,0,,,,,,"",""
+ball,2,15.1,Hampshire,MLL Taylor,ML Sturge,H Graham,4,0,,,,,,"",""
+ball,2,15.2,Hampshire,MLL Taylor,ML Sturge,H Graham,1,0,,,,,,run out,ML Sturge
+ball,2,15.3,Hampshire,MLL Taylor,FR Davies,H Graham,1,0,,,,,,"",""
+ball,2,15.4,Hampshire,FR Davies,MLL Taylor,H Graham,1,0,,,,,,"",""
+ball,2,15.5,Hampshire,MLL Taylor,FR Davies,H Graham,0,0,,,,,,"",""
+ball,2,15.6,Hampshire,MLL Taylor,FR Davies,H Graham,4,0,,,,,,"",""
+ball,2,16.1,Hampshire,FR Davies,MLL Taylor,S Glenn,0,0,,,,,,bowled,FR Davies
+ball,2,16.2,Hampshire,DJ Gibb,MLL Taylor,S Glenn,0,0,,,,,,"",""
+ball,2,16.3,Hampshire,DJ Gibb,MLL Taylor,S Glenn,1,0,,,,,,"",""
+ball,2,16.4,Hampshire,MLL Taylor,DJ Gibb,S Glenn,4,0,,,,,,"",""
+ball,2,16.5,Hampshire,MLL Taylor,DJ Gibb,S Glenn,0,0,,,,,,"",""
+ball,2,16.6,Hampshire,MLL Taylor,DJ Gibb,S Glenn,0,0,,,,,,"",""
+ball,2,17.1,Hampshire,DJ Gibb,MLL Taylor,KL Gordon,1,0,,,,,,"",""
+ball,2,17.2,Hampshire,MLL Taylor,DJ Gibb,KL Gordon,2,0,,,,,,"",""
+ball,2,17.3,Hampshire,MLL Taylor,DJ Gibb,KL Gordon,2,0,,,,,,"",""
+ball,2,17.4,Hampshire,MLL Taylor,DJ Gibb,KL Gordon,0,0,,,,,,lbw,MLL Taylor
+ball,2,17.5,Hampshire,R Tyson,DJ Gibb,KL Gordon,0,1,,,,1,,"",""
+ball,2,17.6,Hampshire,DJ Gibb,R Tyson,KL Gordon,4,0,,,,,,"",""
+ball,2,18.1,Hampshire,R Tyson,DJ Gibb,KE Bryce,0,0,,,,,,bowled,R Tyson

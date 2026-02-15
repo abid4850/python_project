@@ -1,0 +1,311 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Canterbury
+info,gender,male
+info,season,2013/14
+info,date,2014/01/17
+info,event,HRV Twenty20
+info,venue,Seddon Park
+info,city,Hamilton
+info,toss_winner,Northern Districts
+info,toss_decision,bat
+info,umpire,PD Jones
+info,umpire,TJ Parlane
+info,tv_umpire,BG Frost
+info,match_referee,DM Quested
+info,winner,Northern Districts
+info,winner_runs,3
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,BS Wilson
+info,player,Northern Districts,KS Williamson
+info,player,Northern Districts,SB Styris
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,JJ Boult
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,CP Tremain
+info,player,Canterbury,GH Worker
+info,player,Canterbury,RJ Nicol
+info,player,Canterbury,DG Brownlie
+info,player,Canterbury,PG Fulton
+info,player,Canterbury,RM Hira
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,BJ Diamanti
+info,player,Canterbury,AM Ellis
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,LV van Beek
+info,player,Canterbury,HK Bennett
+info,registry,people,AM Ellis,f987245c
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,BG Frost,fd8ffc13
+info,registry,people,BJ Diamanti,549aefcd
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,CP Tremain,96824e68
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DM Quested,bb312212
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,HK Bennett,94238673
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JJ Boult,3b298ff2
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,PD Jones,169be239
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RJ Nicol,8d8c24fd
+info,registry,people,RM Hira,2e966563
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TWM Latham,e824e6ee
+ball,1,0.1,Northern Districts,AP Devcich,DR Flynn,HK Bennett,0,0,,,,,,"",""
+ball,1,0.2,Northern Districts,AP Devcich,DR Flynn,HK Bennett,4,0,,,,,,"",""
+ball,1,0.3,Northern Districts,AP Devcich,DR Flynn,HK Bennett,4,0,,,,,,"",""
+ball,1,0.4,Northern Districts,AP Devcich,DR Flynn,HK Bennett,0,0,,,,,,"",""
+ball,1,0.5,Northern Districts,AP Devcich,DR Flynn,HK Bennett,2,0,,,,,,"",""
+ball,1,0.6,Northern Districts,AP Devcich,DR Flynn,HK Bennett,0,0,,,,,,"",""
+ball,1,1.1,Northern Districts,DR Flynn,AP Devcich,MJ Henry,0,1,1,,,,,"",""
+ball,1,1.2,Northern Districts,DR Flynn,AP Devcich,MJ Henry,1,0,,,,,,"",""
+ball,1,1.3,Northern Districts,AP Devcich,DR Flynn,MJ Henry,0,0,,,,,,"",""
+ball,1,1.4,Northern Districts,AP Devcich,DR Flynn,MJ Henry,0,0,,,,,,caught,AP Devcich
+ball,1,1.5,Northern Districts,BS Wilson,DR Flynn,MJ Henry,1,0,,,,,,"",""
+ball,1,1.6,Northern Districts,DR Flynn,BS Wilson,MJ Henry,0,0,,,,,,"",""
+ball,1,1.7,Northern Districts,DR Flynn,BS Wilson,MJ Henry,4,0,,,,,,"",""
+ball,1,2.1,Northern Districts,BS Wilson,DR Flynn,HK Bennett,0,1,1,,,,,"",""
+ball,1,2.2,Northern Districts,BS Wilson,DR Flynn,HK Bennett,1,0,,,,,,"",""
+ball,1,2.3,Northern Districts,DR Flynn,BS Wilson,HK Bennett,0,0,,,,,,"",""
+ball,1,2.4,Northern Districts,DR Flynn,BS Wilson,HK Bennett,0,0,,,,,,"",""
+ball,1,2.5,Northern Districts,DR Flynn,BS Wilson,HK Bennett,0,0,,,,,,"",""
+ball,1,2.6,Northern Districts,DR Flynn,BS Wilson,HK Bennett,2,0,,,,,,"",""
+ball,1,2.7,Northern Districts,DR Flynn,BS Wilson,HK Bennett,6,0,,,,,,"",""
+ball,1,3.1,Northern Districts,BS Wilson,DR Flynn,MJ Henry,1,0,,,,,,"",""
+ball,1,3.2,Northern Districts,DR Flynn,BS Wilson,MJ Henry,6,0,,,,,,"",""
+ball,1,3.3,Northern Districts,DR Flynn,BS Wilson,MJ Henry,6,0,,,,,,"",""
+ball,1,3.4,Northern Districts,DR Flynn,BS Wilson,MJ Henry,1,0,,,,,,"",""
+ball,1,3.5,Northern Districts,BS Wilson,DR Flynn,MJ Henry,0,0,,,,,,"",""
+ball,1,3.6,Northern Districts,BS Wilson,DR Flynn,MJ Henry,2,0,,,,,,"",""
+ball,1,4.1,Northern Districts,DR Flynn,BS Wilson,AM Ellis,0,0,,,,,,caught,DR Flynn
+ball,1,4.2,Northern Districts,BS Wilson,KS Williamson,AM Ellis,0,1,1,,,,,"",""
+ball,1,4.3,Northern Districts,BS Wilson,KS Williamson,AM Ellis,1,0,,,,,,"",""
+ball,1,4.4,Northern Districts,KS Williamson,BS Wilson,AM Ellis,0,0,,,,,,"",""
+ball,1,4.5,Northern Districts,KS Williamson,BS Wilson,AM Ellis,0,0,,,,,,"",""
+ball,1,4.6,Northern Districts,KS Williamson,BS Wilson,AM Ellis,1,0,,,,,,"",""
+ball,1,4.7,Northern Districts,BS Wilson,KS Williamson,AM Ellis,1,0,,,,,,"",""
+ball,1,5.1,Northern Districts,BS Wilson,KS Williamson,MJ Henry,4,0,,,,,,"",""
+ball,1,5.2,Northern Districts,BS Wilson,KS Williamson,MJ Henry,0,0,,,,,,"",""
+ball,1,5.3,Northern Districts,BS Wilson,KS Williamson,MJ Henry,0,1,,,,1,,"",""
+ball,1,5.4,Northern Districts,KS Williamson,BS Wilson,MJ Henry,0,0,,,,,,"",""
+ball,1,5.5,Northern Districts,KS Williamson,BS Wilson,MJ Henry,0,0,,,,,,"",""
+ball,1,5.6,Northern Districts,KS Williamson,BS Wilson,MJ Henry,0,0,,,,,,"",""
+ball,1,6.1,Northern Districts,BS Wilson,KS Williamson,RM Hira,1,0,,,,,,"",""
+ball,1,6.2,Northern Districts,KS Williamson,BS Wilson,RM Hira,2,0,,,,,,"",""
+ball,1,6.3,Northern Districts,KS Williamson,BS Wilson,RM Hira,1,0,,,,,,"",""
+ball,1,6.4,Northern Districts,BS Wilson,KS Williamson,RM Hira,1,0,,,,,,"",""
+ball,1,6.5,Northern Districts,KS Williamson,BS Wilson,RM Hira,1,0,,,,,,"",""
+ball,1,6.6,Northern Districts,BS Wilson,KS Williamson,RM Hira,0,0,,,,,,"",""
+ball,1,7.1,Northern Districts,KS Williamson,BS Wilson,RJ Nicol,2,0,,,,,,"",""
+ball,1,7.2,Northern Districts,KS Williamson,BS Wilson,RJ Nicol,1,0,,,,,,"",""
+ball,1,7.3,Northern Districts,BS Wilson,KS Williamson,RJ Nicol,0,2,2,,,,,"",""
+ball,1,7.4,Northern Districts,KS Williamson,BS Wilson,RJ Nicol,0,0,,,,,,"",""
+ball,1,7.5,Northern Districts,KS Williamson,BS Wilson,RJ Nicol,1,0,,,,,,"",""
+ball,1,7.6,Northern Districts,BS Wilson,KS Williamson,RJ Nicol,1,0,,,,,,"",""
+ball,1,7.7,Northern Districts,KS Williamson,BS Wilson,RJ Nicol,1,0,,,,,,"",""
+ball,1,8.1,Northern Districts,KS Williamson,BS Wilson,RM Hira,1,0,,,,,,"",""
+ball,1,8.2,Northern Districts,BS Wilson,KS Williamson,RM Hira,6,0,,,,,,"",""
+ball,1,8.3,Northern Districts,BS Wilson,KS Williamson,RM Hira,1,0,,,,,,"",""
+ball,1,8.4,Northern Districts,KS Williamson,BS Wilson,RM Hira,6,0,,,,,,"",""
+ball,1,8.5,Northern Districts,KS Williamson,BS Wilson,RM Hira,0,0,,,,,,"",""
+ball,1,8.6,Northern Districts,KS Williamson,BS Wilson,RM Hira,0,0,,,,,,"",""
+ball,1,9.1,Northern Districts,BS Wilson,KS Williamson,RJ Nicol,1,0,,,,,,"",""
+ball,1,9.2,Northern Districts,KS Williamson,BS Wilson,RJ Nicol,2,0,,,,,,"",""
+ball,1,9.3,Northern Districts,KS Williamson,BS Wilson,RJ Nicol,1,0,,,,,,run out,BS Wilson
+ball,1,9.4,Northern Districts,KS Williamson,SB Styris,RJ Nicol,1,0,,,,,,"",""
+ball,1,9.5,Northern Districts,SB Styris,KS Williamson,RJ Nicol,1,0,,,,,,"",""
+ball,1,9.6,Northern Districts,KS Williamson,SB Styris,RJ Nicol,1,0,,,,,,"",""
+ball,1,10.1,Northern Districts,KS Williamson,SB Styris,HK Bennett,0,0,,,,,,"",""
+ball,1,10.2,Northern Districts,KS Williamson,SB Styris,HK Bennett,1,0,,,,,,"",""
+ball,1,10.3,Northern Districts,SB Styris,KS Williamson,HK Bennett,1,0,,,,,,"",""
+ball,1,10.4,Northern Districts,KS Williamson,SB Styris,HK Bennett,1,0,,,,,,"",""
+ball,1,10.5,Northern Districts,SB Styris,KS Williamson,HK Bennett,2,0,,,,,,"",""
+ball,1,10.6,Northern Districts,SB Styris,KS Williamson,HK Bennett,0,0,,,,,,"",""
+ball,1,11.1,Northern Districts,KS Williamson,SB Styris,RJ Nicol,1,0,,,,,,"",""
+ball,1,11.2,Northern Districts,SB Styris,KS Williamson,RJ Nicol,1,0,,,,,,"",""
+ball,1,11.3,Northern Districts,KS Williamson,SB Styris,RJ Nicol,1,0,,,,,,"",""
+ball,1,11.4,Northern Districts,SB Styris,KS Williamson,RJ Nicol,0,0,,,,,,"",""
+ball,1,11.5,Northern Districts,SB Styris,KS Williamson,RJ Nicol,1,0,,,,,,"",""
+ball,1,11.6,Northern Districts,KS Williamson,SB Styris,RJ Nicol,1,0,,,,,,"",""
+ball,1,12.1,Northern Districts,KS Williamson,SB Styris,HK Bennett,4,0,,,,,,"",""
+ball,1,12.2,Northern Districts,KS Williamson,SB Styris,HK Bennett,1,0,,,,,,"",""
+ball,1,12.3,Northern Districts,SB Styris,KS Williamson,HK Bennett,4,0,,,,,,"",""
+ball,1,12.4,Northern Districts,SB Styris,KS Williamson,HK Bennett,1,0,,,,,,"",""
+ball,1,12.5,Northern Districts,KS Williamson,SB Styris,HK Bennett,0,0,,,,,,"",""
+ball,1,12.6,Northern Districts,KS Williamson,SB Styris,HK Bennett,1,0,,,,,,"",""
+ball,1,13.1,Northern Districts,KS Williamson,SB Styris,RJ Nicol,1,0,,,,,,"",""
+ball,1,13.2,Northern Districts,SB Styris,KS Williamson,RJ Nicol,0,0,,,,,,"",""
+ball,1,13.3,Northern Districts,SB Styris,KS Williamson,RJ Nicol,1,0,,,,,,"",""
+ball,1,13.4,Northern Districts,KS Williamson,SB Styris,RJ Nicol,1,0,,,,,,"",""
+ball,1,13.5,Northern Districts,SB Styris,KS Williamson,RJ Nicol,1,0,,,,,,"",""
+ball,1,13.6,Northern Districts,KS Williamson,SB Styris,RJ Nicol,2,0,,,,,,"",""
+ball,1,14.1,Northern Districts,SB Styris,KS Williamson,AM Ellis,1,0,,,,,,"",""
+ball,1,14.2,Northern Districts,KS Williamson,SB Styris,AM Ellis,4,0,,,,,,"",""
+ball,1,14.3,Northern Districts,KS Williamson,SB Styris,AM Ellis,4,0,,,,,,"",""
+ball,1,14.4,Northern Districts,KS Williamson,SB Styris,AM Ellis,1,0,,,,,,"",""
+ball,1,14.5,Northern Districts,SB Styris,KS Williamson,AM Ellis,4,0,,,,,,"",""
+ball,1,14.6,Northern Districts,SB Styris,KS Williamson,AM Ellis,1,0,,,,,,"",""
+ball,1,15.1,Northern Districts,SB Styris,KS Williamson,RM Hira,0,0,,,,,,"",""
+ball,1,15.2,Northern Districts,SB Styris,KS Williamson,RM Hira,1,0,,,,,,"",""
+ball,1,15.3,Northern Districts,KS Williamson,SB Styris,RM Hira,0,0,,,,,,"",""
+ball,1,15.4,Northern Districts,KS Williamson,SB Styris,RM Hira,1,0,,,,,,"",""
+ball,1,15.5,Northern Districts,SB Styris,KS Williamson,RM Hira,1,0,,,,,,"",""
+ball,1,15.6,Northern Districts,KS Williamson,SB Styris,RM Hira,4,0,,,,,,"",""
+ball,1,16.1,Northern Districts,SB Styris,KS Williamson,AM Ellis,0,0,,,,,,"",""
+ball,1,16.2,Northern Districts,SB Styris,KS Williamson,AM Ellis,1,0,,,,,,"",""
+ball,1,16.3,Northern Districts,KS Williamson,SB Styris,AM Ellis,2,0,,,,,,"",""
+ball,1,16.4,Northern Districts,KS Williamson,SB Styris,AM Ellis,2,0,,,,,,"",""
+ball,1,16.5,Northern Districts,KS Williamson,SB Styris,AM Ellis,2,0,,,,,,"",""
+ball,1,16.6,Northern Districts,KS Williamson,SB Styris,AM Ellis,1,0,,,,,,"",""
+ball,1,17.1,Northern Districts,KS Williamson,SB Styris,RM Hira,1,0,,,,,,"",""
+ball,1,17.2,Northern Districts,SB Styris,KS Williamson,RM Hira,1,0,,,,,,"",""
+ball,1,17.3,Northern Districts,KS Williamson,SB Styris,RM Hira,4,0,,,,,,"",""
+ball,1,17.4,Northern Districts,KS Williamson,SB Styris,RM Hira,1,0,,,,,,"",""
+ball,1,17.5,Northern Districts,SB Styris,KS Williamson,RM Hira,6,0,,,,,,"",""
+ball,1,17.6,Northern Districts,SB Styris,KS Williamson,RM Hira,0,0,,,,,,caught,SB Styris
+ball,1,18.1,Northern Districts,KS Williamson,DJ Mitchell,AM Ellis,1,0,,,,,,"",""
+ball,1,18.2,Northern Districts,DJ Mitchell,KS Williamson,AM Ellis,1,0,,,,,,"",""
+ball,1,18.3,Northern Districts,KS Williamson,DJ Mitchell,AM Ellis,4,0,,,,,,"",""
+ball,1,18.4,Northern Districts,KS Williamson,DJ Mitchell,AM Ellis,1,0,,,,,,"",""
+ball,1,18.5,Northern Districts,DJ Mitchell,KS Williamson,AM Ellis,0,1,1,,,,,"",""
+ball,1,18.6,Northern Districts,DJ Mitchell,KS Williamson,AM Ellis,4,0,,,,,,"",""
+ball,1,18.7,Northern Districts,DJ Mitchell,KS Williamson,AM Ellis,1,0,,,,,,"",""
+ball,1,19.1,Northern Districts,DJ Mitchell,KS Williamson,LV van Beek,1,0,,,,,,"",""
+ball,1,19.2,Northern Districts,KS Williamson,DJ Mitchell,LV van Beek,2,0,,,,,,"",""
+ball,1,19.3,Northern Districts,KS Williamson,DJ Mitchell,LV van Beek,1,0,,,,,,"",""
+ball,1,19.4,Northern Districts,DJ Mitchell,KS Williamson,LV van Beek,1,0,,,,,,"",""
+ball,1,19.5,Northern Districts,KS Williamson,DJ Mitchell,LV van Beek,4,0,,,,,,"",""
+ball,1,19.6,Northern Districts,KS Williamson,DJ Mitchell,LV van Beek,2,0,,,,,,"",""
+ball,2,0.1,Canterbury,GH Worker,RJ Nicol,AP Devcich,1,0,,,,,,"",""
+ball,2,0.2,Canterbury,RJ Nicol,GH Worker,AP Devcich,1,0,,,,,,"",""
+ball,2,0.3,Canterbury,GH Worker,RJ Nicol,AP Devcich,0,0,,,,,,"",""
+ball,2,0.4,Canterbury,GH Worker,RJ Nicol,AP Devcich,1,0,,,,,,"",""
+ball,2,0.5,Canterbury,RJ Nicol,GH Worker,AP Devcich,1,0,,,,,,"",""
+ball,2,0.6,Canterbury,GH Worker,RJ Nicol,AP Devcich,1,0,,,,,,"",""
+ball,2,1.1,Canterbury,GH Worker,RJ Nicol,KS Williamson,0,0,,,,,,"",""
+ball,2,1.2,Canterbury,GH Worker,RJ Nicol,KS Williamson,0,0,,,,,,"",""
+ball,2,1.3,Canterbury,GH Worker,RJ Nicol,KS Williamson,1,0,,,,,,"",""
+ball,2,1.4,Canterbury,RJ Nicol,GH Worker,KS Williamson,1,0,,,,,,"",""
+ball,2,1.5,Canterbury,GH Worker,RJ Nicol,KS Williamson,0,0,,,,,,"",""
+ball,2,1.6,Canterbury,GH Worker,RJ Nicol,KS Williamson,4,0,,,,,,"",""
+ball,2,2.1,Canterbury,RJ Nicol,GH Worker,CP Tremain,0,0,,,,,,"",""
+ball,2,2.2,Canterbury,RJ Nicol,GH Worker,CP Tremain,1,0,,,,,,"",""
+ball,2,2.3,Canterbury,GH Worker,RJ Nicol,CP Tremain,0,0,,,,,,"",""
+ball,2,2.4,Canterbury,GH Worker,RJ Nicol,CP Tremain,0,0,,,,,,caught,GH Worker
+ball,2,2.5,Canterbury,RJ Nicol,DG Brownlie,CP Tremain,0,0,,,,,,bowled,RJ Nicol
+ball,2,2.6,Canterbury,PG Fulton,DG Brownlie,CP Tremain,1,0,,,,,,"",""
+ball,2,3.1,Canterbury,PG Fulton,DG Brownlie,AP Devcich,0,0,,,,,,"",""
+ball,2,3.2,Canterbury,PG Fulton,DG Brownlie,AP Devcich,1,0,,,,,,"",""
+ball,2,3.3,Canterbury,DG Brownlie,PG Fulton,AP Devcich,1,0,,,,,,"",""
+ball,2,3.4,Canterbury,PG Fulton,DG Brownlie,AP Devcich,0,0,,,,,,"",""
+ball,2,3.5,Canterbury,PG Fulton,DG Brownlie,AP Devcich,1,0,,,,,,"",""
+ball,2,3.6,Canterbury,DG Brownlie,PG Fulton,AP Devcich,1,0,,,,,,"",""
+ball,2,4.1,Canterbury,DG Brownlie,PG Fulton,CP Tremain,4,0,,,,,,"",""
+ball,2,4.2,Canterbury,DG Brownlie,PG Fulton,CP Tremain,0,0,,,,,,"",""
+ball,2,4.3,Canterbury,DG Brownlie,PG Fulton,CP Tremain,0,0,,,,,,"",""
+ball,2,4.4,Canterbury,DG Brownlie,PG Fulton,CP Tremain,4,0,,,,,,"",""
+ball,2,4.5,Canterbury,DG Brownlie,PG Fulton,CP Tremain,4,0,,,,,,"",""
+ball,2,4.6,Canterbury,DG Brownlie,PG Fulton,CP Tremain,0,0,,,,,,"",""
+ball,2,5.1,Canterbury,PG Fulton,DG Brownlie,KS Williamson,1,0,,,,,,"",""
+ball,2,5.2,Canterbury,DG Brownlie,PG Fulton,KS Williamson,0,0,,,,,,"",""
+ball,2,5.3,Canterbury,DG Brownlie,PG Fulton,KS Williamson,0,0,,,,,,"",""
+ball,2,5.4,Canterbury,DG Brownlie,PG Fulton,KS Williamson,1,0,,,,,,"",""
+ball,2,5.5,Canterbury,PG Fulton,DG Brownlie,KS Williamson,1,0,,,,,,"",""
+ball,2,5.6,Canterbury,DG Brownlie,PG Fulton,KS Williamson,0,0,,,,,,"",""
+ball,2,6.1,Canterbury,PG Fulton,DG Brownlie,AP Devcich,0,0,,,,,,"",""
+ball,2,6.2,Canterbury,PG Fulton,DG Brownlie,AP Devcich,1,0,,,,,,"",""
+ball,2,6.3,Canterbury,DG Brownlie,PG Fulton,AP Devcich,1,0,,,,,,"",""
+ball,2,6.4,Canterbury,PG Fulton,DG Brownlie,AP Devcich,3,0,,,,,,"",""
+ball,2,6.5,Canterbury,DG Brownlie,PG Fulton,AP Devcich,0,0,,,,,,caught,DG Brownlie
+ball,2,6.6,Canterbury,PG Fulton,RM Hira,AP Devcich,1,0,,,,,,"",""
+ball,2,7.1,Canterbury,PG Fulton,RM Hira,JJ Boult,1,0,,,,,,"",""
+ball,2,7.2,Canterbury,RM Hira,PG Fulton,JJ Boult,1,0,,,,,,"",""
+ball,2,7.3,Canterbury,PG Fulton,RM Hira,JJ Boult,1,0,,,,,,"",""
+ball,2,7.4,Canterbury,RM Hira,PG Fulton,JJ Boult,0,0,,,,,,"",""
+ball,2,7.5,Canterbury,RM Hira,PG Fulton,JJ Boult,6,0,,,,,,"",""
+ball,2,7.6,Canterbury,RM Hira,PG Fulton,JJ Boult,1,0,,,,,,"",""
+ball,2,8.1,Canterbury,RM Hira,PG Fulton,IS Sodhi,0,0,,,,,,"",""
+ball,2,8.2,Canterbury,RM Hira,PG Fulton,IS Sodhi,3,0,,,,,,"",""
+ball,2,8.3,Canterbury,PG Fulton,RM Hira,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.4,Canterbury,RM Hira,PG Fulton,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.5,Canterbury,PG Fulton,RM Hira,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.6,Canterbury,RM Hira,PG Fulton,IS Sodhi,0,1,,,,1,,"",""
+ball,2,9.1,Canterbury,RM Hira,PG Fulton,JJ Boult,1,0,,,,,,"",""
+ball,2,9.2,Canterbury,PG Fulton,RM Hira,JJ Boult,1,0,,,,,,"",""
+ball,2,9.3,Canterbury,RM Hira,PG Fulton,JJ Boult,0,1,,,1,,,"",""
+ball,2,9.4,Canterbury,PG Fulton,RM Hira,JJ Boult,4,0,,,,,,"",""
+ball,2,9.5,Canterbury,PG Fulton,RM Hira,JJ Boult,1,0,,,,,,"",""
+ball,2,9.6,Canterbury,RM Hira,PG Fulton,JJ Boult,1,0,,,,,,"",""
+ball,2,10.1,Canterbury,RM Hira,PG Fulton,AP Devcich,4,0,,,,,,"",""
+ball,2,10.2,Canterbury,RM Hira,PG Fulton,AP Devcich,6,0,,,,,,"",""
+ball,2,10.3,Canterbury,RM Hira,PG Fulton,AP Devcich,6,0,,,,,,"",""
+ball,2,10.4,Canterbury,RM Hira,PG Fulton,AP Devcich,1,0,,,,,,"",""
+ball,2,10.5,Canterbury,PG Fulton,RM Hira,AP Devcich,0,0,,,,,,"",""
+ball,2,10.6,Canterbury,PG Fulton,RM Hira,AP Devcich,1,0,,,,,,"",""
+ball,2,11.1,Canterbury,PG Fulton,RM Hira,SB Styris,6,0,,,,,,"",""
+ball,2,11.2,Canterbury,PG Fulton,RM Hira,SB Styris,1,0,,,,,,"",""
+ball,2,11.3,Canterbury,RM Hira,PG Fulton,SB Styris,1,0,,,,,,"",""
+ball,2,11.4,Canterbury,PG Fulton,RM Hira,SB Styris,1,0,,,,,,"",""
+ball,2,11.5,Canterbury,RM Hira,PG Fulton,SB Styris,6,0,,,,,,"",""
+ball,2,11.6,Canterbury,RM Hira,PG Fulton,SB Styris,0,1,,,1,,,"",""
+ball,2,12.1,Canterbury,RM Hira,PG Fulton,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,12.2,Canterbury,RM Hira,PG Fulton,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,12.3,Canterbury,PG Fulton,RM Hira,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,12.4,Canterbury,PG Fulton,RM Hira,SC Kuggeleijn,6,0,,,,,,"",""
+ball,2,12.5,Canterbury,PG Fulton,RM Hira,SC Kuggeleijn,6,0,,,,,,"",""
+ball,2,12.6,Canterbury,PG Fulton,RM Hira,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,13.1,Canterbury,PG Fulton,RM Hira,JJ Boult,1,0,,,,,,"",""
+ball,2,13.2,Canterbury,RM Hira,PG Fulton,JJ Boult,0,0,,,,,,stumped,RM Hira
+ball,2,13.3,Canterbury,TWM Latham,PG Fulton,JJ Boult,1,0,,,,,,"",""
+ball,2,13.4,Canterbury,PG Fulton,TWM Latham,JJ Boult,1,0,,,,,,"",""
+ball,2,13.5,Canterbury,TWM Latham,PG Fulton,JJ Boult,4,0,,,,,,"",""
+ball,2,13.6,Canterbury,TWM Latham,PG Fulton,JJ Boult,0,0,,,,,,caught,TWM Latham
+ball,2,14.1,Canterbury,PG Fulton,BJ Diamanti,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.2,Canterbury,PG Fulton,BJ Diamanti,IS Sodhi,1,0,,,,,,"",""
+ball,2,14.3,Canterbury,BJ Diamanti,PG Fulton,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.4,Canterbury,BJ Diamanti,PG Fulton,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.5,Canterbury,BJ Diamanti,PG Fulton,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.6,Canterbury,BJ Diamanti,PG Fulton,IS Sodhi,0,0,,,,,,"",""
+ball,2,15.1,Canterbury,PG Fulton,BJ Diamanti,KS Williamson,1,0,,,,,,"",""
+ball,2,15.2,Canterbury,BJ Diamanti,PG Fulton,KS Williamson,0,0,,,,,,"",""
+ball,2,15.3,Canterbury,BJ Diamanti,PG Fulton,KS Williamson,0,0,,,,,,caught,BJ Diamanti
+ball,2,15.4,Canterbury,PG Fulton,AM Ellis,KS Williamson,1,0,,,,,,"",""
+ball,2,15.5,Canterbury,AM Ellis,PG Fulton,KS Williamson,0,0,,,,,,"",""
+ball,2,15.6,Canterbury,AM Ellis,PG Fulton,KS Williamson,1,0,,,,,,"",""
+ball,2,16.1,Canterbury,AM Ellis,PG Fulton,IS Sodhi,0,0,,,,,,"",""
+ball,2,16.2,Canterbury,AM Ellis,PG Fulton,IS Sodhi,0,4,,,4,,,"",""
+ball,2,16.3,Canterbury,AM Ellis,PG Fulton,IS Sodhi,1,0,,,,,,"",""
+ball,2,16.4,Canterbury,PG Fulton,AM Ellis,IS Sodhi,6,0,,,,,,"",""
+ball,2,16.5,Canterbury,PG Fulton,AM Ellis,IS Sodhi,6,0,,,,,,"",""
+ball,2,16.6,Canterbury,PG Fulton,AM Ellis,IS Sodhi,1,0,,,,,,"",""
+ball,2,17.1,Canterbury,PG Fulton,AM Ellis,KS Williamson,6,0,,,,,,"",""
+ball,2,17.2,Canterbury,PG Fulton,AM Ellis,KS Williamson,2,0,,,,,,"",""
+ball,2,17.3,Canterbury,PG Fulton,AM Ellis,KS Williamson,1,0,,,,,,"",""
+ball,2,17.4,Canterbury,AM Ellis,PG Fulton,KS Williamson,1,0,,,,,,"",""
+ball,2,17.5,Canterbury,PG Fulton,AM Ellis,KS Williamson,2,0,,,,,,"",""
+ball,2,17.6,Canterbury,PG Fulton,AM Ellis,KS Williamson,1,0,,,,,,"",""
+ball,2,18.1,Canterbury,PG Fulton,AM Ellis,CP Tremain,1,0,,,,,,"",""
+ball,2,18.2,Canterbury,AM Ellis,PG Fulton,CP Tremain,1,0,,,,,,"",""
+ball,2,18.3,Canterbury,PG Fulton,AM Ellis,CP Tremain,1,0,,,,,,"",""
+ball,2,18.4,Canterbury,AM Ellis,PG Fulton,CP Tremain,1,0,,,,,,"",""
+ball,2,18.5,Canterbury,PG Fulton,AM Ellis,CP Tremain,1,0,,,,,,"",""
+ball,2,18.6,Canterbury,AM Ellis,PG Fulton,CP Tremain,0,0,,,,,,caught,AM Ellis
+ball,2,19.1,Canterbury,PG Fulton,MJ Henry,SC Kuggeleijn,0,1,,,,1,,"",""
+ball,2,19.2,Canterbury,MJ Henry,PG Fulton,SC Kuggeleijn,0,1,,,1,,,"",""
+ball,2,19.3,Canterbury,PG Fulton,MJ Henry,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,19.4,Canterbury,PG Fulton,MJ Henry,SC Kuggeleijn,6,0,,,,,,"",""
+ball,2,19.5,Canterbury,PG Fulton,MJ Henry,SC Kuggeleijn,2,0,,,,,,"",""
+ball,2,19.6,Canterbury,PG Fulton,MJ Henry,SC Kuggeleijn,1,0,,,,,,"",""

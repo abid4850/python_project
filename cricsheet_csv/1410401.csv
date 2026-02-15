@@ -1,0 +1,303 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Birmingham Bears
+info,gender,male
+info,season,2024
+info,date,2024/06/08
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,RJ Bailey
+info,umpire,S Redfern
+info,match_referee,IL Herbert
+info,winner,Durham
+info,winner_runs,26
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,DG Bedingham
+info,player,Durham,OG Robinson
+info,player,Durham,AJ Turner
+info,player,Durham,BA Raine
+info,player,Durham,HS Mustard
+info,player,Durham,P Coughlin
+info,player,Durham,MJ Potts
+info,player,Durham,CF Parkinson
+info,player,Durham,NA Sowter
+info,player,Birmingham Bears,AL Davies
+info,player,Birmingham Bears,RM Yates
+info,player,Birmingham Bears,DR Mousley
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,JG Bethell
+info,player,Birmingham Bears,CG Benjamin
+info,player,Birmingham Bears,Aamer Jamal
+info,player,Birmingham Bears,GHS Garton
+info,player,Birmingham Bears,Hasan Ali
+info,player,Birmingham Bears,JB Lintott
+info,player,Birmingham Bears,DR Briggs
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AL Davies,29ede60b
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,Aamer Jamal,a8e54ef4
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,HS Mustard,24b07267
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,P Coughlin,71440756
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RM Yates,3581a798
+info,registry,people,S Redfern,5b038989
+info,registry,people,SR Hain,67b9536c
+ball,1,0.1,Durham,G Clark,AZ Lees,GHS Garton,0,0,,,,,,"",""
+ball,1,0.2,Durham,G Clark,AZ Lees,GHS Garton,0,0,,,,,,caught,G Clark
+ball,1,0.3,Durham,DG Bedingham,AZ Lees,GHS Garton,0,0,,,,,,"",""
+ball,1,0.4,Durham,DG Bedingham,AZ Lees,GHS Garton,0,0,,,,,,"",""
+ball,1,0.5,Durham,DG Bedingham,AZ Lees,GHS Garton,0,0,,,,,,"",""
+ball,1,0.6,Durham,DG Bedingham,AZ Lees,GHS Garton,4,0,,,,,,"",""
+ball,1,1.1,Durham,AZ Lees,DG Bedingham,Hasan Ali,2,0,,,,,,"",""
+ball,1,1.2,Durham,AZ Lees,DG Bedingham,Hasan Ali,0,0,,,,,,"",""
+ball,1,1.3,Durham,AZ Lees,DG Bedingham,Hasan Ali,0,0,,,,,,"",""
+ball,1,1.4,Durham,AZ Lees,DG Bedingham,Hasan Ali,3,0,,,,,,"",""
+ball,1,1.5,Durham,DG Bedingham,AZ Lees,Hasan Ali,0,0,,,,,,"",""
+ball,1,1.6,Durham,DG Bedingham,AZ Lees,Hasan Ali,1,0,,,,,,"",""
+ball,1,2.1,Durham,DG Bedingham,AZ Lees,GHS Garton,4,0,,,,,,"",""
+ball,1,2.2,Durham,DG Bedingham,AZ Lees,GHS Garton,6,0,,,,,,"",""
+ball,1,2.3,Durham,DG Bedingham,AZ Lees,GHS Garton,4,0,,,,,,"",""
+ball,1,2.4,Durham,DG Bedingham,AZ Lees,GHS Garton,4,0,,,,,,"",""
+ball,1,2.5,Durham,DG Bedingham,AZ Lees,GHS Garton,1,0,,,,,,"",""
+ball,1,2.6,Durham,AZ Lees,DG Bedingham,GHS Garton,0,0,,,,,,"",""
+ball,1,3.1,Durham,DG Bedingham,AZ Lees,DR Briggs,1,0,,,,,,"",""
+ball,1,3.2,Durham,AZ Lees,DG Bedingham,DR Briggs,1,0,,,,,,"",""
+ball,1,3.3,Durham,DG Bedingham,AZ Lees,DR Briggs,4,0,,,,,,"",""
+ball,1,3.4,Durham,DG Bedingham,AZ Lees,DR Briggs,4,0,,,,,,"",""
+ball,1,3.5,Durham,DG Bedingham,AZ Lees,DR Briggs,1,0,,,,,,"",""
+ball,1,3.6,Durham,AZ Lees,DG Bedingham,DR Briggs,0,0,,,,,,"",""
+ball,1,4.1,Durham,DG Bedingham,AZ Lees,Aamer Jamal,0,0,,,,,,"",""
+ball,1,4.2,Durham,DG Bedingham,AZ Lees,Aamer Jamal,4,2,,2,,,,"",""
+ball,1,4.3,Durham,DG Bedingham,AZ Lees,Aamer Jamal,1,0,,,,,,"",""
+ball,1,4.4,Durham,AZ Lees,DG Bedingham,Aamer Jamal,1,2,,2,,,,"",""
+ball,1,4.5,Durham,DG Bedingham,AZ Lees,Aamer Jamal,4,0,,,,,,"",""
+ball,1,4.6,Durham,DG Bedingham,AZ Lees,Aamer Jamal,4,0,,,,,,"",""
+ball,1,4.7,Durham,DG Bedingham,AZ Lees,Aamer Jamal,6,0,,,,,,"",""
+ball,1,4.8,Durham,DG Bedingham,AZ Lees,Aamer Jamal,1,0,,,,,,"",""
+ball,1,5.1,Durham,DG Bedingham,AZ Lees,DR Mousley,1,0,,,,,,"",""
+ball,1,5.2,Durham,AZ Lees,DG Bedingham,DR Mousley,1,0,,,,,,"",""
+ball,1,5.3,Durham,DG Bedingham,AZ Lees,DR Mousley,1,0,,,,,,"",""
+ball,1,5.4,Durham,AZ Lees,DG Bedingham,DR Mousley,0,0,,,,,,"",""
+ball,1,5.5,Durham,AZ Lees,DG Bedingham,DR Mousley,0,0,,,,,,lbw,AZ Lees
+ball,1,5.6,Durham,OG Robinson,DG Bedingham,DR Mousley,0,0,,,,,,"",""
+ball,1,6.1,Durham,DG Bedingham,OG Robinson,JB Lintott,6,0,,,,,,"",""
+ball,1,6.2,Durham,DG Bedingham,OG Robinson,JB Lintott,0,1,1,,,,,"",""
+ball,1,6.3,Durham,DG Bedingham,OG Robinson,JB Lintott,1,0,,,,,,"",""
+ball,1,6.4,Durham,OG Robinson,DG Bedingham,JB Lintott,1,0,,,,,,"",""
+ball,1,6.5,Durham,DG Bedingham,OG Robinson,JB Lintott,0,0,,,,,,caught,DG Bedingham
+ball,1,6.6,Durham,AJ Turner,OG Robinson,JB Lintott,1,0,,,,,,"",""
+ball,1,6.7,Durham,OG Robinson,AJ Turner,JB Lintott,0,0,,,,,,"",""
+ball,1,7.1,Durham,AJ Turner,OG Robinson,DR Briggs,0,0,,,,,,"",""
+ball,1,7.2,Durham,AJ Turner,OG Robinson,DR Briggs,0,0,,,,,,"",""
+ball,1,7.3,Durham,AJ Turner,OG Robinson,DR Briggs,0,1,,,,1,,"",""
+ball,1,7.4,Durham,OG Robinson,AJ Turner,DR Briggs,1,0,,,,,,"",""
+ball,1,7.5,Durham,AJ Turner,OG Robinson,DR Briggs,0,0,,,,,,"",""
+ball,1,7.6,Durham,AJ Turner,OG Robinson,DR Briggs,0,0,,,,,,"",""
+ball,1,8.1,Durham,OG Robinson,AJ Turner,JB Lintott,4,0,,,,,,"",""
+ball,1,8.2,Durham,OG Robinson,AJ Turner,JB Lintott,0,0,,,,,,"",""
+ball,1,8.3,Durham,OG Robinson,AJ Turner,JB Lintott,1,0,,,,,,"",""
+ball,1,8.4,Durham,AJ Turner,OG Robinson,JB Lintott,1,0,,,,,,"",""
+ball,1,8.5,Durham,OG Robinson,AJ Turner,JB Lintott,1,0,,,,,,"",""
+ball,1,8.6,Durham,AJ Turner,OG Robinson,JB Lintott,1,0,,,,,,"",""
+ball,1,9.1,Durham,AJ Turner,OG Robinson,JG Bethell,0,0,,,,,,"",""
+ball,1,9.2,Durham,AJ Turner,OG Robinson,JG Bethell,6,0,,,,,,"",""
+ball,1,9.3,Durham,AJ Turner,OG Robinson,JG Bethell,1,0,,,,,,"",""
+ball,1,9.4,Durham,OG Robinson,AJ Turner,JG Bethell,1,0,,,,,,"",""
+ball,1,9.5,Durham,AJ Turner,OG Robinson,JG Bethell,1,0,,,,,,"",""
+ball,1,9.6,Durham,OG Robinson,AJ Turner,JG Bethell,1,0,,,,,,"",""
+ball,1,10.1,Durham,OG Robinson,AJ Turner,DR Mousley,1,0,,,,,,"",""
+ball,1,10.2,Durham,AJ Turner,OG Robinson,DR Mousley,1,0,,,,,,"",""
+ball,1,10.3,Durham,OG Robinson,AJ Turner,DR Mousley,2,0,,,,,,"",""
+ball,1,10.4,Durham,OG Robinson,AJ Turner,DR Mousley,6,0,,,,,,"",""
+ball,1,10.5,Durham,OG Robinson,AJ Turner,DR Mousley,0,1,,,,1,,"",""
+ball,1,10.6,Durham,AJ Turner,OG Robinson,DR Mousley,0,0,,,,,,"",""
+ball,1,11.1,Durham,OG Robinson,AJ Turner,DR Briggs,4,0,,,,,,"",""
+ball,1,11.2,Durham,OG Robinson,AJ Turner,DR Briggs,1,0,,,,,,"",""
+ball,1,11.3,Durham,AJ Turner,OG Robinson,DR Briggs,2,0,,,,,,"",""
+ball,1,11.4,Durham,AJ Turner,OG Robinson,DR Briggs,4,0,,,,,,"",""
+ball,1,11.5,Durham,AJ Turner,OG Robinson,DR Briggs,1,0,,,,,,"",""
+ball,1,11.6,Durham,OG Robinson,AJ Turner,DR Briggs,1,0,,,,,,"",""
+ball,1,12.1,Durham,OG Robinson,AJ Turner,JB Lintott,0,0,,,,,,caught,OG Robinson
+ball,1,12.2,Durham,BA Raine,AJ Turner,JB Lintott,4,0,,,,,,"",""
+ball,1,12.3,Durham,BA Raine,AJ Turner,JB Lintott,1,0,,,,,,"",""
+ball,1,12.4,Durham,AJ Turner,BA Raine,JB Lintott,3,0,,,,,,"",""
+ball,1,12.5,Durham,BA Raine,AJ Turner,JB Lintott,0,0,,,,,,"",""
+ball,1,12.6,Durham,BA Raine,AJ Turner,JB Lintott,6,0,,,,,,"",""
+ball,1,13.1,Durham,AJ Turner,BA Raine,Hasan Ali,4,0,,,,,,"",""
+ball,1,13.2,Durham,AJ Turner,BA Raine,Hasan Ali,1,0,,,,,,"",""
+ball,1,13.3,Durham,BA Raine,AJ Turner,Hasan Ali,1,0,,,,,,"",""
+ball,1,13.4,Durham,AJ Turner,BA Raine,Hasan Ali,4,0,,,,,,"",""
+ball,1,13.5,Durham,AJ Turner,BA Raine,Hasan Ali,1,0,,,,,,"",""
+ball,1,13.6,Durham,BA Raine,AJ Turner,Hasan Ali,1,0,,,,,,"",""
+ball,1,14.1,Durham,BA Raine,AJ Turner,DR Mousley,0,0,,,,,,"",""
+ball,1,14.2,Durham,BA Raine,AJ Turner,DR Mousley,0,1,1,,,,,"",""
+ball,1,14.3,Durham,BA Raine,AJ Turner,DR Mousley,0,0,,,,,,bowled,BA Raine
+ball,1,14.4,Durham,HS Mustard,AJ Turner,DR Mousley,0,1,,,,1,,"",""
+ball,1,14.5,Durham,AJ Turner,HS Mustard,DR Mousley,1,0,,,,,,"",""
+ball,1,14.6,Durham,HS Mustard,AJ Turner,DR Mousley,0,0,,,,,,"",""
+ball,1,14.7,Durham,HS Mustard,AJ Turner,DR Mousley,1,0,,,,,,"",""
+ball,1,15.1,Durham,HS Mustard,AJ Turner,GHS Garton,0,0,,,,,,"",""
+ball,1,15.2,Durham,HS Mustard,AJ Turner,GHS Garton,2,0,,,,,,"",""
+ball,1,15.3,Durham,HS Mustard,AJ Turner,GHS Garton,1,0,,,,,,"",""
+ball,1,15.4,Durham,AJ Turner,HS Mustard,GHS Garton,0,0,,,,,,caught,AJ Turner
+ball,1,15.5,Durham,P Coughlin,HS Mustard,GHS Garton,0,0,,,,,,"",""
+ball,1,15.6,Durham,P Coughlin,HS Mustard,GHS Garton,1,0,,,,,,"",""
+ball,1,16.1,Durham,P Coughlin,HS Mustard,Hasan Ali,1,0,,,,,,"",""
+ball,1,16.2,Durham,HS Mustard,P Coughlin,Hasan Ali,4,0,,,,,,"",""
+ball,1,16.3,Durham,HS Mustard,P Coughlin,Hasan Ali,0,0,,,,,,"",""
+ball,1,16.4,Durham,HS Mustard,P Coughlin,Hasan Ali,1,0,,,,,,"",""
+ball,1,16.5,Durham,P Coughlin,HS Mustard,Hasan Ali,1,0,,,,,,"",""
+ball,1,16.6,Durham,HS Mustard,P Coughlin,Hasan Ali,0,2,,2,,,,"",""
+ball,1,16.7,Durham,HS Mustard,P Coughlin,Hasan Ali,0,0,,,,,,bowled,HS Mustard
+ball,1,17.1,Durham,P Coughlin,MJ Potts,DR Mousley,1,0,,,,,,"",""
+ball,1,17.2,Durham,MJ Potts,P Coughlin,DR Mousley,1,0,,,,,,"",""
+ball,1,17.3,Durham,P Coughlin,MJ Potts,DR Mousley,2,0,,,,,,"",""
+ball,1,17.4,Durham,P Coughlin,MJ Potts,DR Mousley,1,0,,,,,,"",""
+ball,1,17.5,Durham,MJ Potts,P Coughlin,DR Mousley,1,0,,,,,,"",""
+ball,1,17.6,Durham,P Coughlin,MJ Potts,DR Mousley,1,0,,,,,,"",""
+ball,1,18.1,Durham,P Coughlin,MJ Potts,Hasan Ali,1,0,,,,,,"",""
+ball,1,18.2,Durham,MJ Potts,P Coughlin,Hasan Ali,1,0,,,,,,"",""
+ball,1,18.3,Durham,P Coughlin,MJ Potts,Hasan Ali,0,1,1,,,,,"",""
+ball,1,18.4,Durham,P Coughlin,MJ Potts,Hasan Ali,2,0,,,,,,"",""
+ball,1,18.5,Durham,P Coughlin,MJ Potts,Hasan Ali,2,0,,,,,,"",""
+ball,1,18.6,Durham,P Coughlin,MJ Potts,Hasan Ali,1,0,,,,,,"",""
+ball,1,18.7,Durham,MJ Potts,P Coughlin,Hasan Ali,0,0,,,,,,"",""
+ball,1,19.1,Durham,P Coughlin,MJ Potts,GHS Garton,2,0,,,,,,"",""
+ball,1,19.2,Durham,P Coughlin,MJ Potts,GHS Garton,0,0,,,,,,caught,P Coughlin
+ball,1,19.3,Durham,CF Parkinson,MJ Potts,GHS Garton,1,0,,,,,,"",""
+ball,1,19.4,Durham,MJ Potts,CF Parkinson,GHS Garton,6,0,,,,,,"",""
+ball,1,19.5,Durham,MJ Potts,CF Parkinson,GHS Garton,4,0,,,,,,"",""
+ball,1,19.6,Durham,MJ Potts,CF Parkinson,GHS Garton,1,0,,,,,,run out,MJ Potts
+ball,2,0.1,Birmingham Bears,AL Davies,RM Yates,CF Parkinson,1,0,,,,,,"",""
+ball,2,0.2,Birmingham Bears,RM Yates,AL Davies,CF Parkinson,0,1,1,,,,,"",""
+ball,2,0.3,Birmingham Bears,RM Yates,AL Davies,CF Parkinson,0,0,,,,,,lbw,RM Yates
+ball,2,0.4,Birmingham Bears,DR Mousley,AL Davies,CF Parkinson,1,0,,,,,,"",""
+ball,2,0.5,Birmingham Bears,AL Davies,DR Mousley,CF Parkinson,6,0,,,,,,"",""
+ball,2,0.6,Birmingham Bears,AL Davies,DR Mousley,CF Parkinson,1,0,,,,,,"",""
+ball,2,0.7,Birmingham Bears,DR Mousley,AL Davies,CF Parkinson,0,0,,,,,,"",""
+ball,2,1.1,Birmingham Bears,AL Davies,DR Mousley,MJ Potts,4,0,,,,,,"",""
+ball,2,1.2,Birmingham Bears,AL Davies,DR Mousley,MJ Potts,0,0,,,,,,"",""
+ball,2,1.3,Birmingham Bears,AL Davies,DR Mousley,MJ Potts,4,0,,,,,,"",""
+ball,2,1.4,Birmingham Bears,AL Davies,DR Mousley,MJ Potts,2,0,,,,,,"",""
+ball,2,1.5,Birmingham Bears,AL Davies,DR Mousley,MJ Potts,0,0,,,,,,"",""
+ball,2,1.6,Birmingham Bears,AL Davies,DR Mousley,MJ Potts,6,0,,,,,,"",""
+ball,2,2.1,Birmingham Bears,DR Mousley,AL Davies,P Coughlin,4,0,,,,,,"",""
+ball,2,2.2,Birmingham Bears,DR Mousley,AL Davies,P Coughlin,1,0,,,,,,"",""
+ball,2,2.3,Birmingham Bears,AL Davies,DR Mousley,P Coughlin,4,0,,,,,,"",""
+ball,2,2.4,Birmingham Bears,AL Davies,DR Mousley,P Coughlin,0,0,,,,,,"",""
+ball,2,2.5,Birmingham Bears,AL Davies,DR Mousley,P Coughlin,0,0,,,,,,"",""
+ball,2,2.6,Birmingham Bears,AL Davies,DR Mousley,P Coughlin,0,0,,,,,,"",""
+ball,2,3.1,Birmingham Bears,DR Mousley,AL Davies,CF Parkinson,1,0,,,,,,"",""
+ball,2,3.2,Birmingham Bears,AL Davies,DR Mousley,CF Parkinson,0,0,,,,,,"",""
+ball,2,3.3,Birmingham Bears,AL Davies,DR Mousley,CF Parkinson,1,0,,,,,,"",""
+ball,2,3.4,Birmingham Bears,DR Mousley,AL Davies,CF Parkinson,4,0,,,,,,"",""
+ball,2,3.5,Birmingham Bears,DR Mousley,AL Davies,CF Parkinson,4,0,,,,,,"",""
+ball,2,3.6,Birmingham Bears,DR Mousley,AL Davies,CF Parkinson,1,0,,,,,,"",""
+ball,2,4.1,Birmingham Bears,DR Mousley,AL Davies,P Coughlin,4,0,,,,,,"",""
+ball,2,4.2,Birmingham Bears,DR Mousley,AL Davies,P Coughlin,1,0,,,,,,"",""
+ball,2,4.3,Birmingham Bears,AL Davies,DR Mousley,P Coughlin,2,0,,,,,,"",""
+ball,2,4.4,Birmingham Bears,AL Davies,DR Mousley,P Coughlin,1,0,,,,,,"",""
+ball,2,4.5,Birmingham Bears,DR Mousley,AL Davies,P Coughlin,1,0,,,,,,"",""
+ball,2,4.6,Birmingham Bears,AL Davies,DR Mousley,P Coughlin,4,0,,,,,,"",""
+ball,2,5.1,Birmingham Bears,DR Mousley,AL Davies,MJ Potts,1,0,,,,,,"",""
+ball,2,5.2,Birmingham Bears,AL Davies,DR Mousley,MJ Potts,0,0,,,,,,"",""
+ball,2,5.3,Birmingham Bears,AL Davies,DR Mousley,MJ Potts,1,0,,,,,,"",""
+ball,2,5.4,Birmingham Bears,DR Mousley,AL Davies,MJ Potts,0,0,,,,,,"",""
+ball,2,5.5,Birmingham Bears,DR Mousley,AL Davies,MJ Potts,1,0,,,,,,"",""
+ball,2,5.6,Birmingham Bears,AL Davies,DR Mousley,MJ Potts,1,0,,,,,,"",""
+ball,2,6.1,Birmingham Bears,AL Davies,DR Mousley,NA Sowter,4,0,,,,,,"",""
+ball,2,6.2,Birmingham Bears,AL Davies,DR Mousley,NA Sowter,1,0,,,,,,"",""
+ball,2,6.3,Birmingham Bears,DR Mousley,AL Davies,NA Sowter,1,0,,,,,,"",""
+ball,2,6.4,Birmingham Bears,AL Davies,DR Mousley,NA Sowter,1,0,,,,,,"",""
+ball,2,6.5,Birmingham Bears,DR Mousley,AL Davies,NA Sowter,4,0,,,,,,"",""
+ball,2,6.6,Birmingham Bears,DR Mousley,AL Davies,NA Sowter,1,0,,,,,,"",""
+ball,2,7.1,Birmingham Bears,DR Mousley,AL Davies,BA Raine,4,0,,,,,,"",""
+ball,2,7.2,Birmingham Bears,DR Mousley,AL Davies,BA Raine,1,0,,,,,,"",""
+ball,2,7.3,Birmingham Bears,AL Davies,DR Mousley,BA Raine,1,0,,,,,,"",""
+ball,2,7.4,Birmingham Bears,DR Mousley,AL Davies,BA Raine,0,0,,,,,,lbw,DR Mousley
+ball,2,7.5,Birmingham Bears,SR Hain,AL Davies,BA Raine,1,0,,,,,,"",""
+ball,2,7.6,Birmingham Bears,AL Davies,SR Hain,BA Raine,0,0,,,,,,"",""
+ball,2,8.1,Birmingham Bears,SR Hain,AL Davies,NA Sowter,1,0,,,,,,"",""
+ball,2,8.2,Birmingham Bears,AL Davies,SR Hain,NA Sowter,0,0,,,,,,"",""
+ball,2,8.3,Birmingham Bears,AL Davies,SR Hain,NA Sowter,1,0,,,,,,"",""
+ball,2,8.4,Birmingham Bears,SR Hain,AL Davies,NA Sowter,1,0,,,,,,"",""
+ball,2,8.5,Birmingham Bears,AL Davies,SR Hain,NA Sowter,1,0,,,,,,"",""
+ball,2,8.6,Birmingham Bears,SR Hain,AL Davies,NA Sowter,2,0,,,,,,"",""
+ball,2,9.1,Birmingham Bears,AL Davies,SR Hain,AJ Turner,0,0,,,,,,stumped,AL Davies
+ball,2,9.2,Birmingham Bears,JG Bethell,SR Hain,AJ Turner,1,0,,,,,,"",""
+ball,2,9.3,Birmingham Bears,SR Hain,JG Bethell,AJ Turner,1,0,,,,,,"",""
+ball,2,9.4,Birmingham Bears,JG Bethell,SR Hain,AJ Turner,1,0,,,,,,"",""
+ball,2,9.5,Birmingham Bears,SR Hain,JG Bethell,AJ Turner,1,0,,,,,,"",""
+ball,2,9.6,Birmingham Bears,JG Bethell,SR Hain,AJ Turner,1,0,,,,,,"",""
+ball,2,10.1,Birmingham Bears,JG Bethell,SR Hain,CF Parkinson,1,0,,,,,,"",""
+ball,2,10.2,Birmingham Bears,SR Hain,JG Bethell,CF Parkinson,1,0,,,,,,"",""
+ball,2,10.3,Birmingham Bears,JG Bethell,SR Hain,CF Parkinson,2,0,,,,,,"",""
+ball,2,10.4,Birmingham Bears,JG Bethell,SR Hain,CF Parkinson,1,0,,,,,,"",""
+ball,2,10.5,Birmingham Bears,SR Hain,JG Bethell,CF Parkinson,1,0,,,,,,"",""
+ball,2,10.6,Birmingham Bears,JG Bethell,SR Hain,CF Parkinson,1,0,,,,,,"",""
+ball,2,11.1,Birmingham Bears,JG Bethell,SR Hain,AJ Turner,4,0,,,,,,"",""
+ball,2,11.2,Birmingham Bears,JG Bethell,SR Hain,AJ Turner,0,0,,,,,,"",""
+ball,2,11.3,Birmingham Bears,JG Bethell,SR Hain,AJ Turner,6,0,,,,,,"",""
+ball,2,11.4,Birmingham Bears,JG Bethell,SR Hain,AJ Turner,1,0,,,,,,"",""
+ball,2,11.5,Birmingham Bears,SR Hain,JG Bethell,AJ Turner,1,0,,,,,,"",""
+ball,2,11.6,Birmingham Bears,JG Bethell,SR Hain,AJ Turner,1,0,,,,,,"",""
+ball,2,12.1,Birmingham Bears,JG Bethell,SR Hain,NA Sowter,0,0,,,,,,"",""
+ball,2,12.2,Birmingham Bears,JG Bethell,SR Hain,NA Sowter,6,0,,,,,,"",""
+ball,2,12.3,Birmingham Bears,JG Bethell,SR Hain,NA Sowter,1,0,,,,,,"",""
+ball,2,12.4,Birmingham Bears,SR Hain,JG Bethell,NA Sowter,0,0,,,,,,caught,SR Hain
+ball,2,12.5,Birmingham Bears,CG Benjamin,JG Bethell,NA Sowter,1,0,,,,,,"",""
+ball,2,12.6,Birmingham Bears,JG Bethell,CG Benjamin,NA Sowter,1,0,,,,,,"",""
+ball,2,13.1,Birmingham Bears,JG Bethell,CG Benjamin,BA Raine,0,0,,,,,,"",""
+ball,2,13.2,Birmingham Bears,JG Bethell,CG Benjamin,BA Raine,1,0,,,,,,"",""
+ball,2,13.3,Birmingham Bears,CG Benjamin,JG Bethell,BA Raine,1,0,,,,,,"",""
+ball,2,13.4,Birmingham Bears,JG Bethell,CG Benjamin,BA Raine,0,0,,,,,,"",""
+ball,2,13.5,Birmingham Bears,JG Bethell,CG Benjamin,BA Raine,2,0,,,,,,"",""
+ball,2,13.6,Birmingham Bears,JG Bethell,CG Benjamin,BA Raine,1,0,,,,,,"",""
+ball,2,14.1,Birmingham Bears,JG Bethell,CG Benjamin,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.2,Birmingham Bears,CG Benjamin,JG Bethell,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.3,Birmingham Bears,JG Bethell,CG Benjamin,CF Parkinson,4,0,,,,,,"",""
+ball,2,14.4,Birmingham Bears,JG Bethell,CG Benjamin,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.5,Birmingham Bears,CG Benjamin,JG Bethell,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.6,Birmingham Bears,JG Bethell,CG Benjamin,CF Parkinson,2,0,,,,,,"",""
+ball,2,15.1,Birmingham Bears,CG Benjamin,JG Bethell,BA Raine,0,0,,,,,,bowled,CG Benjamin
+ball,2,15.2,Birmingham Bears,Aamer Jamal,JG Bethell,BA Raine,0,0,,,,,,bowled,Aamer Jamal
+ball,2,15.3,Birmingham Bears,GHS Garton,JG Bethell,BA Raine,2,0,,,,,,"",""
+ball,2,15.4,Birmingham Bears,GHS Garton,JG Bethell,BA Raine,0,0,,,,,,"",""
+ball,2,15.5,Birmingham Bears,GHS Garton,JG Bethell,BA Raine,1,0,,,,,,"",""
+ball,2,15.6,Birmingham Bears,JG Bethell,GHS Garton,BA Raine,1,0,,,,,,"",""
+ball,2,16.1,Birmingham Bears,JG Bethell,GHS Garton,NA Sowter,0,0,,,,,,"",""
+ball,2,16.2,Birmingham Bears,JG Bethell,GHS Garton,NA Sowter,6,0,,,,,,"",""
+ball,2,16.3,Birmingham Bears,JG Bethell,GHS Garton,NA Sowter,1,0,,,,,,"",""
+ball,2,16.4,Birmingham Bears,GHS Garton,JG Bethell,NA Sowter,6,0,,,,,,"",""
+ball,2,16.5,Birmingham Bears,GHS Garton,JG Bethell,NA Sowter,1,0,,,,,,"",""
+ball,2,16.6,Birmingham Bears,JG Bethell,GHS Garton,NA Sowter,1,0,,,,,,"",""
+ball,2,17.1,Birmingham Bears,JG Bethell,GHS Garton,MJ Potts,1,0,,,,,,"",""
+ball,2,17.2,Birmingham Bears,GHS Garton,JG Bethell,MJ Potts,1,0,,,,,,"",""
+ball,2,17.3,Birmingham Bears,JG Bethell,GHS Garton,MJ Potts,0,0,,,,,,caught,JG Bethell
+ball,2,17.4,Birmingham Bears,Hasan Ali,GHS Garton,MJ Potts,0,0,,,,,,caught,Hasan Ali
+ball,2,17.5,Birmingham Bears,JB Lintott,GHS Garton,MJ Potts,0,1,,,,1,,"",""
+ball,2,17.6,Birmingham Bears,GHS Garton,JB Lintott,MJ Potts,4,0,,,,,,"",""
+ball,2,18.1,Birmingham Bears,JB Lintott,GHS Garton,BA Raine,0,0,,,,,,bowled,JB Lintott
+ball,2,18.2,Birmingham Bears,DR Briggs,GHS Garton,BA Raine,1,0,,,,,,"",""
+ball,2,18.3,Birmingham Bears,GHS Garton,DR Briggs,BA Raine,4,0,,,,,,"",""
+ball,2,18.4,Birmingham Bears,GHS Garton,DR Briggs,BA Raine,0,0,,,,,,bowled,GHS Garton

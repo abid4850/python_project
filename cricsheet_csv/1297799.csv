@@ -1,0 +1,299 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Leicestershire
+info,gender,male
+info,season,2022
+info,date,2022/05/26
+info,event,Vitality Blast
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,RJ Bailey
+info,match_referee,SG Hinks
+info,winner,Durham
+info,winner_runs,54
+info,player,Durham,G Clark
+info,player,Durham,MA Jones
+info,player,Durham,OG Robinson
+info,player,Durham,DG Bedingham
+info,player,Durham,AJ Turner
+info,player,Durham,P Coughlin
+info,player,Durham,BA Carse
+info,player,Durham,EJH Eckersley
+info,player,Durham,L Trevaskis
+info,player,Durham,BA Raine
+info,player,Durham,SG Borthwick
+info,player,Leicestershire,HD Rutherford
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,AM Lilley
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,BWM Mike
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,RI Walker
+info,player,Leicestershire,Naveen-ul-Haq
+info,player,Leicestershire,CF Parkinson
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AM Lilley,88a004e9
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BWM Mike,ed12fcd7
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,EJH Eckersley,d510d457
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,MA Jones,05f96194
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,P Coughlin,71440756
+info,registry,people,RI Walker,c78a879c
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,SG Hinks,0bb4dc0d
+ball,1,0.1,Durham,G Clark,MA Jones,CF Parkinson,1,0,,,,,,"",""
+ball,1,0.2,Durham,MA Jones,G Clark,CF Parkinson,0,0,,,,,,"",""
+ball,1,0.3,Durham,MA Jones,G Clark,CF Parkinson,1,0,,,,,,"",""
+ball,1,0.4,Durham,G Clark,MA Jones,CF Parkinson,2,0,,,,,,"",""
+ball,1,0.5,Durham,G Clark,MA Jones,CF Parkinson,0,0,,,,,,"",""
+ball,1,0.6,Durham,G Clark,MA Jones,CF Parkinson,0,0,,,,,,"",""
+ball,1,1.1,Durham,MA Jones,G Clark,RI Walker,0,0,,,,,,"",""
+ball,1,1.2,Durham,MA Jones,G Clark,RI Walker,0,0,,,,,,"",""
+ball,1,1.3,Durham,MA Jones,G Clark,RI Walker,4,0,,,,,,"",""
+ball,1,1.4,Durham,MA Jones,G Clark,RI Walker,0,0,,,,,,"",""
+ball,1,1.5,Durham,MA Jones,G Clark,RI Walker,4,0,,,,,,"",""
+ball,1,1.6,Durham,MA Jones,G Clark,RI Walker,4,0,,,,,,"",""
+ball,1,2.1,Durham,G Clark,MA Jones,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,2.2,Durham,MA Jones,G Clark,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,2.3,Durham,G Clark,MA Jones,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,2.4,Durham,G Clark,MA Jones,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,2.5,Durham,G Clark,MA Jones,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,2.6,Durham,MA Jones,G Clark,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,3.1,Durham,G Clark,MA Jones,CF Parkinson,0,0,,,,,,"",""
+ball,1,3.2,Durham,G Clark,MA Jones,CF Parkinson,1,0,,,,,,"",""
+ball,1,3.3,Durham,MA Jones,G Clark,CF Parkinson,1,0,,,,,,"",""
+ball,1,3.4,Durham,G Clark,MA Jones,CF Parkinson,1,0,,,,,,"",""
+ball,1,3.5,Durham,MA Jones,G Clark,CF Parkinson,6,0,,,,,,"",""
+ball,1,3.6,Durham,MA Jones,G Clark,CF Parkinson,0,0,,,,,,bowled,MA Jones
+ball,1,4.1,Durham,G Clark,OG Robinson,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,4.2,Durham,G Clark,OG Robinson,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,4.3,Durham,OG Robinson,G Clark,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,4.4,Durham,OG Robinson,G Clark,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,4.5,Durham,OG Robinson,G Clark,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,4.6,Durham,OG Robinson,G Clark,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,5.1,Durham,G Clark,OG Robinson,RI Walker,0,0,,,,,,"",""
+ball,1,5.2,Durham,G Clark,OG Robinson,RI Walker,4,0,,,,,,"",""
+ball,1,5.3,Durham,G Clark,OG Robinson,RI Walker,4,0,,,,,,"",""
+ball,1,5.4,Durham,G Clark,OG Robinson,RI Walker,1,0,,,,,,"",""
+ball,1,5.5,Durham,OG Robinson,G Clark,RI Walker,0,0,,,,,,caught,OG Robinson
+ball,1,5.6,Durham,DG Bedingham,G Clark,RI Walker,1,0,,,,,,"",""
+ball,1,6.1,Durham,DG Bedingham,G Clark,Rehan Ahmed,0,0,,,,,,caught and bowled,DG Bedingham
+ball,1,6.2,Durham,AJ Turner,G Clark,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,6.3,Durham,AJ Turner,G Clark,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,6.4,Durham,G Clark,AJ Turner,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,6.5,Durham,AJ Turner,G Clark,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,6.6,Durham,AJ Turner,G Clark,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,7.1,Durham,G Clark,AJ Turner,BWM Mike,1,0,,,,,,"",""
+ball,1,7.2,Durham,AJ Turner,G Clark,BWM Mike,0,0,,,,,,"",""
+ball,1,7.3,Durham,AJ Turner,G Clark,BWM Mike,4,0,,,,,,"",""
+ball,1,7.4,Durham,AJ Turner,G Clark,BWM Mike,0,1,,,,1,,"",""
+ball,1,7.5,Durham,G Clark,AJ Turner,BWM Mike,1,0,,,,,,"",""
+ball,1,7.6,Durham,AJ Turner,G Clark,BWM Mike,6,0,,,,,,"",""
+ball,1,8.1,Durham,G Clark,AJ Turner,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,8.2,Durham,AJ Turner,G Clark,Rehan Ahmed,6,0,,,,,,"",""
+ball,1,8.3,Durham,AJ Turner,G Clark,Rehan Ahmed,2,0,,,,,,"",""
+ball,1,8.4,Durham,AJ Turner,G Clark,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,8.5,Durham,G Clark,AJ Turner,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,8.6,Durham,AJ Turner,G Clark,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,9.1,Durham,G Clark,AJ Turner,CF Parkinson,2,0,,,,,,"",""
+ball,1,9.2,Durham,G Clark,AJ Turner,CF Parkinson,1,0,,,,,,"",""
+ball,1,9.3,Durham,AJ Turner,G Clark,CF Parkinson,1,0,,,,,,"",""
+ball,1,9.4,Durham,G Clark,AJ Turner,CF Parkinson,1,0,,,,,,"",""
+ball,1,9.5,Durham,AJ Turner,G Clark,CF Parkinson,0,0,,,,,,"",""
+ball,1,9.6,Durham,AJ Turner,G Clark,CF Parkinson,4,0,,,,,,"",""
+ball,1,10.1,Durham,G Clark,AJ Turner,AM Lilley,0,1,1,,,,,"",""
+ball,1,10.2,Durham,G Clark,AJ Turner,AM Lilley,6,0,,,,,,"",""
+ball,1,10.3,Durham,G Clark,AJ Turner,AM Lilley,0,0,,,,,,bowled,G Clark
+ball,1,10.4,Durham,P Coughlin,AJ Turner,AM Lilley,2,0,,,,,,"",""
+ball,1,10.5,Durham,P Coughlin,AJ Turner,AM Lilley,2,0,,,,,,"",""
+ball,1,10.6,Durham,P Coughlin,AJ Turner,AM Lilley,2,0,,,,,,"",""
+ball,1,10.7,Durham,P Coughlin,AJ Turner,AM Lilley,2,0,,,,,,"",""
+ball,1,11.1,Durham,AJ Turner,P Coughlin,BWM Mike,1,0,,,,,,"",""
+ball,1,11.2,Durham,P Coughlin,AJ Turner,BWM Mike,4,0,,,,,,"",""
+ball,1,11.3,Durham,P Coughlin,AJ Turner,BWM Mike,1,0,,,,,,"",""
+ball,1,11.4,Durham,AJ Turner,P Coughlin,BWM Mike,6,0,,,,,,"",""
+ball,1,11.5,Durham,AJ Turner,P Coughlin,BWM Mike,0,0,,,,,,bowled,AJ Turner
+ball,1,11.6,Durham,BA Carse,P Coughlin,BWM Mike,1,0,,,,,,"",""
+ball,1,12.1,Durham,BA Carse,P Coughlin,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,12.2,Durham,P Coughlin,BA Carse,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,12.3,Durham,P Coughlin,BA Carse,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,12.4,Durham,P Coughlin,BA Carse,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,12.5,Durham,BA Carse,P Coughlin,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,12.6,Durham,P Coughlin,BA Carse,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,13.1,Durham,BA Carse,P Coughlin,CF Parkinson,2,0,,,,,,"",""
+ball,1,13.2,Durham,BA Carse,P Coughlin,CF Parkinson,1,0,,,,,,"",""
+ball,1,13.3,Durham,P Coughlin,BA Carse,CF Parkinson,0,0,,,,,,"",""
+ball,1,13.4,Durham,P Coughlin,BA Carse,CF Parkinson,1,0,,,,,,"",""
+ball,1,13.5,Durham,BA Carse,P Coughlin,CF Parkinson,1,0,,,,,,"",""
+ball,1,13.6,Durham,P Coughlin,BA Carse,CF Parkinson,1,0,,,,,,"",""
+ball,1,14.1,Durham,P Coughlin,BA Carse,AM Lilley,2,0,,,,,,"",""
+ball,1,14.2,Durham,P Coughlin,BA Carse,AM Lilley,4,0,,,,,,"",""
+ball,1,14.3,Durham,P Coughlin,BA Carse,AM Lilley,1,0,,,,,,"",""
+ball,1,14.4,Durham,BA Carse,P Coughlin,AM Lilley,0,5,5,,,,,"",""
+ball,1,14.5,Durham,BA Carse,P Coughlin,AM Lilley,1,0,,,,,,"",""
+ball,1,14.6,Durham,P Coughlin,BA Carse,AM Lilley,1,0,,,,,,"",""
+ball,1,14.7,Durham,BA Carse,P Coughlin,AM Lilley,1,0,,,,,,"",""
+ball,1,15.1,Durham,BA Carse,P Coughlin,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,15.2,Durham,P Coughlin,BA Carse,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,15.3,Durham,P Coughlin,BA Carse,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,15.4,Durham,P Coughlin,BA Carse,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,1,15.5,Durham,P Coughlin,BA Carse,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,1,15.6,Durham,P Coughlin,BA Carse,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,15.7,Durham,P Coughlin,BA Carse,Naveen-ul-Haq,6,0,,,,,,"",""
+ball,1,16.1,Durham,BA Carse,P Coughlin,Rehan Ahmed,0,0,,,,,,caught,BA Carse
+ball,1,16.2,Durham,EJH Eckersley,P Coughlin,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,16.3,Durham,P Coughlin,EJH Eckersley,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,16.4,Durham,EJH Eckersley,P Coughlin,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,16.5,Durham,P Coughlin,EJH Eckersley,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,16.6,Durham,P Coughlin,EJH Eckersley,Rehan Ahmed,3,0,,,,,,"",""
+ball,1,17.1,Durham,P Coughlin,EJH Eckersley,RI Walker,1,0,,,,,,"",""
+ball,1,17.2,Durham,EJH Eckersley,P Coughlin,RI Walker,1,0,,,,,,"",""
+ball,1,17.3,Durham,P Coughlin,EJH Eckersley,RI Walker,0,0,,,,,,"",""
+ball,1,17.4,Durham,P Coughlin,EJH Eckersley,RI Walker,4,0,,,,,,"",""
+ball,1,17.5,Durham,P Coughlin,EJH Eckersley,RI Walker,1,0,,,,,,"",""
+ball,1,17.6,Durham,EJH Eckersley,P Coughlin,RI Walker,2,0,,,,,,"",""
+ball,1,18.1,Durham,P Coughlin,EJH Eckersley,Naveen-ul-Haq,0,0,,,,,,caught,P Coughlin
+ball,1,18.2,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,18.3,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,18.4,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,18.5,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,18.6,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,19.1,Durham,EJH Eckersley,L Trevaskis,RI Walker,1,0,,,,,,"",""
+ball,1,19.2,Durham,L Trevaskis,EJH Eckersley,RI Walker,0,2,2,,,,,"",""
+ball,1,19.3,Durham,EJH Eckersley,L Trevaskis,RI Walker,2,0,,,,,,"",""
+ball,1,19.4,Durham,EJH Eckersley,L Trevaskis,RI Walker,6,0,,,,,,"",""
+ball,1,19.5,Durham,EJH Eckersley,L Trevaskis,RI Walker,6,0,,,,,,"",""
+ball,1,19.6,Durham,EJH Eckersley,L Trevaskis,RI Walker,0,0,,,,,,caught,EJH Eckersley
+ball,1,19.7,Durham,BA Raine,L Trevaskis,RI Walker,0,2,,2,,,,"",""
+ball,1,19.8,Durham,BA Raine,L Trevaskis,RI Walker,2,0,,,,,,"",""
+ball,2,0.1,Leicestershire,HD Rutherford,LJ Hill,P Coughlin,0,0,,,,,,bowled,HD Rutherford
+ball,2,0.2,Leicestershire,AM Lilley,LJ Hill,P Coughlin,1,0,,,,,,"",""
+ball,2,0.3,Leicestershire,LJ Hill,AM Lilley,P Coughlin,0,0,,,,,,"",""
+ball,2,0.4,Leicestershire,LJ Hill,AM Lilley,P Coughlin,2,0,,,,,,"",""
+ball,2,0.5,Leicestershire,LJ Hill,AM Lilley,P Coughlin,0,0,,,,,,caught,LJ Hill
+ball,2,0.6,Leicestershire,CN Ackermann,AM Lilley,P Coughlin,2,0,,,,,,"",""
+ball,2,1.1,Leicestershire,AM Lilley,CN Ackermann,BA Carse,0,0,,,,,,"",""
+ball,2,1.2,Leicestershire,AM Lilley,CN Ackermann,BA Carse,0,1,,,,1,,"",""
+ball,2,1.3,Leicestershire,CN Ackermann,AM Lilley,BA Carse,0,0,,,,,,"",""
+ball,2,1.4,Leicestershire,CN Ackermann,AM Lilley,BA Carse,1,0,,,,,,"",""
+ball,2,1.5,Leicestershire,AM Lilley,CN Ackermann,BA Carse,4,0,,,,,,"",""
+ball,2,1.6,Leicestershire,AM Lilley,CN Ackermann,BA Carse,0,0,,,,,,"",""
+ball,2,2.1,Leicestershire,CN Ackermann,AM Lilley,P Coughlin,0,0,,,,,,"",""
+ball,2,2.2,Leicestershire,CN Ackermann,AM Lilley,P Coughlin,1,0,,,,,,"",""
+ball,2,2.3,Leicestershire,AM Lilley,CN Ackermann,P Coughlin,4,0,,,,,,"",""
+ball,2,2.4,Leicestershire,AM Lilley,CN Ackermann,P Coughlin,0,0,,,,,,caught,AM Lilley
+ball,2,2.5,Leicestershire,RK Patel,CN Ackermann,P Coughlin,0,1,,,,1,,"",""
+ball,2,2.6,Leicestershire,CN Ackermann,RK Patel,P Coughlin,0,0,,,,,,"",""
+ball,2,3.1,Leicestershire,RK Patel,CN Ackermann,BA Carse,0,0,,,,,,"",""
+ball,2,3.2,Leicestershire,RK Patel,CN Ackermann,BA Carse,0,0,,,,,,"",""
+ball,2,3.3,Leicestershire,RK Patel,CN Ackermann,BA Carse,4,0,,,,,,"",""
+ball,2,3.4,Leicestershire,RK Patel,CN Ackermann,BA Carse,0,0,,,,,,"",""
+ball,2,3.5,Leicestershire,RK Patel,CN Ackermann,BA Carse,0,0,,,,,,"",""
+ball,2,3.6,Leicestershire,RK Patel,CN Ackermann,BA Carse,4,0,,,,,,"",""
+ball,2,4.1,Leicestershire,CN Ackermann,RK Patel,BA Raine,0,1,1,,,,,"",""
+ball,2,4.2,Leicestershire,CN Ackermann,RK Patel,BA Raine,1,0,,,,,,"",""
+ball,2,4.3,Leicestershire,RK Patel,CN Ackermann,BA Raine,0,0,,,,,,"",""
+ball,2,4.4,Leicestershire,RK Patel,CN Ackermann,BA Raine,0,0,,,,,,"",""
+ball,2,4.5,Leicestershire,RK Patel,CN Ackermann,BA Raine,1,0,,,,,,"",""
+ball,2,4.6,Leicestershire,CN Ackermann,RK Patel,BA Raine,0,0,,,,,,"",""
+ball,2,4.7,Leicestershire,CN Ackermann,RK Patel,BA Raine,1,0,,,,,,"",""
+ball,2,5.1,Leicestershire,CN Ackermann,RK Patel,L Trevaskis,0,0,,,,,,"",""
+ball,2,5.2,Leicestershire,CN Ackermann,RK Patel,L Trevaskis,1,0,,,,,,"",""
+ball,2,5.3,Leicestershire,RK Patel,CN Ackermann,L Trevaskis,4,0,,,,,,"",""
+ball,2,5.4,Leicestershire,RK Patel,CN Ackermann,L Trevaskis,2,0,,,,,,"",""
+ball,2,5.5,Leicestershire,RK Patel,CN Ackermann,L Trevaskis,0,0,,,,,,"",""
+ball,2,5.6,Leicestershire,RK Patel,CN Ackermann,L Trevaskis,0,0,,,,,,"",""
+ball,2,6.1,Leicestershire,CN Ackermann,RK Patel,BA Raine,0,0,,,,,,"",""
+ball,2,6.2,Leicestershire,CN Ackermann,RK Patel,BA Raine,2,0,,,,,,"",""
+ball,2,6.3,Leicestershire,CN Ackermann,RK Patel,BA Raine,0,0,,,,,,"",""
+ball,2,6.4,Leicestershire,CN Ackermann,RK Patel,BA Raine,4,0,,,,,,"",""
+ball,2,6.5,Leicestershire,CN Ackermann,RK Patel,BA Raine,0,1,1,,,,,"",""
+ball,2,6.6,Leicestershire,CN Ackermann,RK Patel,BA Raine,0,0,,,,,,"",""
+ball,2,6.7,Leicestershire,CN Ackermann,RK Patel,BA Raine,0,0,,,,,,"",""
+ball,2,7.1,Leicestershire,RK Patel,CN Ackermann,SG Borthwick,1,0,,,,,,"",""
+ball,2,7.2,Leicestershire,CN Ackermann,RK Patel,SG Borthwick,1,0,,,,,,"",""
+ball,2,7.3,Leicestershire,RK Patel,CN Ackermann,SG Borthwick,2,0,,,,,,"",""
+ball,2,7.4,Leicestershire,RK Patel,CN Ackermann,SG Borthwick,1,0,,,,,,"",""
+ball,2,7.5,Leicestershire,CN Ackermann,RK Patel,SG Borthwick,1,0,,,,,,"",""
+ball,2,7.6,Leicestershire,RK Patel,CN Ackermann,SG Borthwick,1,0,,,,,,"",""
+ball,2,8.1,Leicestershire,RK Patel,CN Ackermann,AJ Turner,0,0,,,,,,"",""
+ball,2,8.2,Leicestershire,RK Patel,CN Ackermann,AJ Turner,1,0,,,,,,"",""
+ball,2,8.3,Leicestershire,CN Ackermann,RK Patel,AJ Turner,0,0,,,,,,caught,CN Ackermann
+ball,2,8.4,Leicestershire,LPJ Kimber,RK Patel,AJ Turner,1,0,,,,,,"",""
+ball,2,8.5,Leicestershire,RK Patel,LPJ Kimber,AJ Turner,2,0,,,,,,"",""
+ball,2,8.6,Leicestershire,RK Patel,LPJ Kimber,AJ Turner,1,0,,,,,,"",""
+ball,2,9.1,Leicestershire,RK Patel,LPJ Kimber,BA Carse,4,0,,,,,,"",""
+ball,2,9.2,Leicestershire,RK Patel,LPJ Kimber,BA Carse,0,0,,,,,,"",""
+ball,2,9.3,Leicestershire,RK Patel,LPJ Kimber,BA Carse,4,0,,,,,,"",""
+ball,2,9.4,Leicestershire,RK Patel,LPJ Kimber,BA Carse,4,0,,,,,,"",""
+ball,2,9.5,Leicestershire,RK Patel,LPJ Kimber,BA Carse,1,0,,,,,,"",""
+ball,2,9.6,Leicestershire,LPJ Kimber,RK Patel,BA Carse,2,0,,,,,,"",""
+ball,2,10.1,Leicestershire,RK Patel,LPJ Kimber,SG Borthwick,1,0,,,,,,"",""
+ball,2,10.2,Leicestershire,LPJ Kimber,RK Patel,SG Borthwick,0,0,,,,,,caught,LPJ Kimber
+ball,2,10.3,Leicestershire,BWM Mike,RK Patel,SG Borthwick,0,0,,,,,,"",""
+ball,2,10.4,Leicestershire,BWM Mike,RK Patel,SG Borthwick,1,0,,,,,,"",""
+ball,2,10.5,Leicestershire,RK Patel,BWM Mike,SG Borthwick,2,0,,,,,,"",""
+ball,2,10.6,Leicestershire,RK Patel,BWM Mike,SG Borthwick,0,0,,,,,,"",""
+ball,2,11.1,Leicestershire,BWM Mike,RK Patel,L Trevaskis,2,0,,,,,,"",""
+ball,2,11.2,Leicestershire,BWM Mike,RK Patel,L Trevaskis,1,0,,,,,,"",""
+ball,2,11.3,Leicestershire,RK Patel,BWM Mike,L Trevaskis,0,0,,,,,,stumped,RK Patel
+ball,2,11.4,Leicestershire,Rehan Ahmed,BWM Mike,L Trevaskis,0,0,,,,,,"",""
+ball,2,11.5,Leicestershire,Rehan Ahmed,BWM Mike,L Trevaskis,6,0,,,,,,"",""
+ball,2,11.6,Leicestershire,Rehan Ahmed,BWM Mike,L Trevaskis,1,0,,,,,,"",""
+ball,2,12.1,Leicestershire,Rehan Ahmed,BWM Mike,AJ Turner,1,0,,,,,,"",""
+ball,2,12.2,Leicestershire,BWM Mike,Rehan Ahmed,AJ Turner,1,0,,,,,,"",""
+ball,2,12.3,Leicestershire,Rehan Ahmed,BWM Mike,AJ Turner,0,0,,,,,,"",""
+ball,2,12.4,Leicestershire,Rehan Ahmed,BWM Mike,AJ Turner,0,1,,,,1,,"",""
+ball,2,12.5,Leicestershire,BWM Mike,Rehan Ahmed,AJ Turner,2,0,,,,,,"",""
+ball,2,12.6,Leicestershire,BWM Mike,Rehan Ahmed,AJ Turner,4,0,,,,,,"",""
+ball,2,13.1,Leicestershire,Rehan Ahmed,BWM Mike,L Trevaskis,2,0,,,,,,"",""
+ball,2,13.2,Leicestershire,Rehan Ahmed,BWM Mike,L Trevaskis,6,0,,,,,,"",""
+ball,2,13.3,Leicestershire,Rehan Ahmed,BWM Mike,L Trevaskis,1,0,,,,,,"",""
+ball,2,13.4,Leicestershire,BWM Mike,Rehan Ahmed,L Trevaskis,4,0,,,,,,"",""
+ball,2,13.5,Leicestershire,BWM Mike,Rehan Ahmed,L Trevaskis,0,0,,,,,,"",""
+ball,2,13.6,Leicestershire,BWM Mike,Rehan Ahmed,L Trevaskis,1,0,,,,,,"",""
+ball,2,14.1,Leicestershire,BWM Mike,Rehan Ahmed,P Coughlin,1,0,,,,,,"",""
+ball,2,14.2,Leicestershire,Rehan Ahmed,BWM Mike,P Coughlin,1,0,,,,,,"",""
+ball,2,14.3,Leicestershire,BWM Mike,Rehan Ahmed,P Coughlin,2,0,,,,,,"",""
+ball,2,14.4,Leicestershire,BWM Mike,Rehan Ahmed,P Coughlin,1,0,,,,,,"",""
+ball,2,14.5,Leicestershire,Rehan Ahmed,BWM Mike,P Coughlin,0,0,,,,,,"",""
+ball,2,14.6,Leicestershire,Rehan Ahmed,BWM Mike,P Coughlin,0,0,,,,,,caught,Rehan Ahmed
+ball,2,15.1,Leicestershire,BWM Mike,RI Walker,L Trevaskis,0,0,,,,,,"",""
+ball,2,15.2,Leicestershire,BWM Mike,RI Walker,L Trevaskis,4,0,,,,,,"",""
+ball,2,15.3,Leicestershire,BWM Mike,RI Walker,L Trevaskis,0,0,,,,,,bowled,BWM Mike
+ball,2,15.4,Leicestershire,Naveen-ul-Haq,RI Walker,L Trevaskis,0,1,,,,1,,"",""
+ball,2,15.5,Leicestershire,RI Walker,Naveen-ul-Haq,L Trevaskis,1,0,,,,,,"",""
+ball,2,15.6,Leicestershire,Naveen-ul-Haq,RI Walker,L Trevaskis,0,0,,,,,,"",""
+ball,2,16.1,Leicestershire,RI Walker,Naveen-ul-Haq,BA Carse,0,2,,2,,,,"",""
+ball,2,16.2,Leicestershire,RI Walker,Naveen-ul-Haq,BA Carse,1,0,,,,,,"",""
+ball,2,16.3,Leicestershire,Naveen-ul-Haq,RI Walker,BA Carse,1,0,,,,,,"",""
+ball,2,16.4,Leicestershire,RI Walker,Naveen-ul-Haq,BA Carse,0,0,,,,,,caught,RI Walker
+ball,2,16.5,Leicestershire,CF Parkinson,Naveen-ul-Haq,BA Carse,1,0,,,,,,"",""
+ball,2,16.6,Leicestershire,Naveen-ul-Haq,CF Parkinson,BA Carse,0,0,,,,,,"",""
+ball,2,16.7,Leicestershire,Naveen-ul-Haq,CF Parkinson,BA Carse,1,0,,,,,,"",""
+ball,2,17.1,Leicestershire,Naveen-ul-Haq,CF Parkinson,BA Raine,4,0,,,,,,"",""
+ball,2,17.2,Leicestershire,Naveen-ul-Haq,CF Parkinson,BA Raine,0,1,,,,1,,"",""
+ball,2,17.3,Leicestershire,CF Parkinson,Naveen-ul-Haq,BA Raine,0,0,,,,,,"",""
+ball,2,17.4,Leicestershire,CF Parkinson,Naveen-ul-Haq,BA Raine,1,0,,,,,,"",""
+ball,2,17.5,Leicestershire,Naveen-ul-Haq,CF Parkinson,BA Raine,0,0,,,,,,bowled,Naveen-ul-Haq

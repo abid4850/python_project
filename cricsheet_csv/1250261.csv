@@ -1,0 +1,311 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Durham
+info,gender,male
+info,season,2021
+info,date,2021/06/15
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Nottinghamshire
+info,toss_decision,bat
+info,player_of_match,AD Hales
+info,umpire,M Burns
+info,umpire,RT Robinson
+info,match_referee,TJ Boon
+info,winner,Nottinghamshire
+info,winner_runs,13
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,PD Trego
+info,player,Nottinghamshire,BM Duckett
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,SR Patel
+info,player,Nottinghamshire,LJ Fletcher
+info,player,Nottinghamshire,M Carter
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,JT Ball
+info,player,Durham,DG Bedingham
+info,player,Durham,G Clark
+info,player,Durham,BA Raine
+info,player,Durham,CT Bancroft
+info,player,Durham,EJH Eckersley
+info,player,Durham,JTA Burnham
+info,player,Durham,P Coughlin
+info,player,Durham,BA Carse
+info,player,Durham,L Trevaskis
+info,player,Durham,MJ Potts
+info,player,Durham,SG Borthwick
+info,registry,people,AD Hales,92aeac25
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,EJH Eckersley,d510d457
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,JTA Burnham,a4a2a0c0
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LJ Fletcher,e423d162
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Carter,1ca7c00f
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,P Coughlin,71440756
+info,registry,people,PD Trego,93e06301
+info,registry,people,RT Robinson,b143c87d
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,SR Patel,18fac429
+info,registry,people,TJ Boon,0bdf177a
+info,registry,people,TJ Moores,85dcb721
+ball,1,0.1,Nottinghamshire,JM Clarke,AD Hales,L Trevaskis,4,0,,,,,,"",""
+ball,1,0.2,Nottinghamshire,JM Clarke,AD Hales,L Trevaskis,1,0,,,,,,"",""
+ball,1,0.3,Nottinghamshire,AD Hales,JM Clarke,L Trevaskis,0,0,,,,,,"",""
+ball,1,0.4,Nottinghamshire,AD Hales,JM Clarke,L Trevaskis,1,0,,,,,,"",""
+ball,1,0.5,Nottinghamshire,JM Clarke,AD Hales,L Trevaskis,0,0,,,,,,"",""
+ball,1,0.6,Nottinghamshire,JM Clarke,AD Hales,L Trevaskis,1,0,,,,,,"",""
+ball,1,1.1,Nottinghamshire,JM Clarke,AD Hales,MJ Potts,4,0,,,,,,"",""
+ball,1,1.2,Nottinghamshire,JM Clarke,AD Hales,MJ Potts,4,0,,,,,,"",""
+ball,1,1.3,Nottinghamshire,JM Clarke,AD Hales,MJ Potts,4,0,,,,,,"",""
+ball,1,1.4,Nottinghamshire,JM Clarke,AD Hales,MJ Potts,0,0,,,,,,caught,JM Clarke
+ball,1,1.5,Nottinghamshire,PD Trego,AD Hales,MJ Potts,1,0,,,,,,"",""
+ball,1,1.6,Nottinghamshire,AD Hales,PD Trego,MJ Potts,0,0,,,,,,"",""
+ball,1,2.1,Nottinghamshire,PD Trego,AD Hales,P Coughlin,0,0,,,,,,"",""
+ball,1,2.2,Nottinghamshire,PD Trego,AD Hales,P Coughlin,0,0,,,,,,lbw,PD Trego
+ball,1,2.3,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,2,0,,,,,,"",""
+ball,1,2.4,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,1,0,,,,,,"",""
+ball,1,2.5,Nottinghamshire,AD Hales,BM Duckett,P Coughlin,1,0,,,,,,"",""
+ball,1,2.6,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,0,0,,,,,,"",""
+ball,1,3.1,Nottinghamshire,AD Hales,BM Duckett,BA Carse,0,0,,,,,,"",""
+ball,1,3.2,Nottinghamshire,AD Hales,BM Duckett,BA Carse,1,0,,,,,,"",""
+ball,1,3.3,Nottinghamshire,BM Duckett,AD Hales,BA Carse,1,0,,,,,,"",""
+ball,1,3.4,Nottinghamshire,AD Hales,BM Duckett,BA Carse,4,0,,,,,,"",""
+ball,1,3.5,Nottinghamshire,AD Hales,BM Duckett,BA Carse,6,0,,,,,,"",""
+ball,1,3.6,Nottinghamshire,AD Hales,BM Duckett,BA Carse,0,0,,,,,,"",""
+ball,1,4.1,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,4,0,,,,,,"",""
+ball,1,4.2,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,4,0,,,,,,"",""
+ball,1,4.3,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,1,0,,,,,,"",""
+ball,1,4.4,Nottinghamshire,AD Hales,BM Duckett,P Coughlin,0,2,2,,,,,"",""
+ball,1,4.5,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,0,0,,,,,,"",""
+ball,1,4.6,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,1,0,,,,,,"",""
+ball,1,4.7,Nottinghamshire,AD Hales,BM Duckett,P Coughlin,1,0,,,,,,"",""
+ball,1,5.1,Nottinghamshire,AD Hales,BM Duckett,MJ Potts,4,0,,,,,,"",""
+ball,1,5.2,Nottinghamshire,AD Hales,BM Duckett,MJ Potts,4,0,,,,,,"",""
+ball,1,5.3,Nottinghamshire,AD Hales,BM Duckett,MJ Potts,1,0,,,,,,"",""
+ball,1,5.4,Nottinghamshire,BM Duckett,AD Hales,MJ Potts,0,0,,,,,,"",""
+ball,1,5.5,Nottinghamshire,BM Duckett,AD Hales,MJ Potts,4,0,,,,,,"",""
+ball,1,5.6,Nottinghamshire,BM Duckett,AD Hales,MJ Potts,0,0,,,,,,"",""
+ball,1,6.1,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,1,0,,,,,,"",""
+ball,1,6.2,Nottinghamshire,BM Duckett,AD Hales,L Trevaskis,1,0,,,,,,"",""
+ball,1,6.3,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,0,0,,,,,,"",""
+ball,1,6.4,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,0,0,,,,,,"",""
+ball,1,6.5,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,1,0,,,,,,"",""
+ball,1,6.6,Nottinghamshire,BM Duckett,AD Hales,L Trevaskis,2,0,,,,,,"",""
+ball,1,7.1,Nottinghamshire,AD Hales,BM Duckett,SG Borthwick,0,0,,,,,,"",""
+ball,1,7.2,Nottinghamshire,AD Hales,BM Duckett,SG Borthwick,1,0,,,,,,"",""
+ball,1,7.3,Nottinghamshire,BM Duckett,AD Hales,SG Borthwick,4,0,,,,,,"",""
+ball,1,7.4,Nottinghamshire,BM Duckett,AD Hales,SG Borthwick,0,0,,,,,,"",""
+ball,1,7.5,Nottinghamshire,BM Duckett,AD Hales,SG Borthwick,4,0,,,,,,"",""
+ball,1,7.6,Nottinghamshire,BM Duckett,AD Hales,SG Borthwick,0,0,,,,,,"",""
+ball,1,8.1,Nottinghamshire,AD Hales,BM Duckett,BA Raine,1,0,,,,,,"",""
+ball,1,8.2,Nottinghamshire,BM Duckett,AD Hales,BA Raine,1,0,,,,,,"",""
+ball,1,8.3,Nottinghamshire,AD Hales,BM Duckett,BA Raine,4,0,,,,,,"",""
+ball,1,8.4,Nottinghamshire,AD Hales,BM Duckett,BA Raine,1,0,,,,,,"",""
+ball,1,8.5,Nottinghamshire,BM Duckett,AD Hales,BA Raine,0,1,1,,,,,"",""
+ball,1,8.6,Nottinghamshire,BM Duckett,AD Hales,BA Raine,1,0,,,,,,"",""
+ball,1,8.7,Nottinghamshire,AD Hales,BM Duckett,BA Raine,1,0,,,,,,"",""
+ball,1,9.1,Nottinghamshire,AD Hales,BM Duckett,BA Carse,4,0,,,,,,"",""
+ball,1,9.2,Nottinghamshire,AD Hales,BM Duckett,BA Carse,1,0,,,,,,"",""
+ball,1,9.3,Nottinghamshire,BM Duckett,AD Hales,BA Carse,0,0,,,,,,"",""
+ball,1,9.4,Nottinghamshire,BM Duckett,AD Hales,BA Carse,0,0,,,,,,"",""
+ball,1,9.5,Nottinghamshire,BM Duckett,AD Hales,BA Carse,0,0,,,,,,"",""
+ball,1,9.6,Nottinghamshire,BM Duckett,AD Hales,BA Carse,0,1,1,,,,,"",""
+ball,1,9.7,Nottinghamshire,BM Duckett,AD Hales,BA Carse,1,0,,,,,,"",""
+ball,1,10.1,Nottinghamshire,BM Duckett,AD Hales,L Trevaskis,0,0,,,,,,"",""
+ball,1,10.2,Nottinghamshire,BM Duckett,AD Hales,L Trevaskis,1,0,,,,,,"",""
+ball,1,10.3,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,1,0,,,,,,"",""
+ball,1,10.4,Nottinghamshire,BM Duckett,AD Hales,L Trevaskis,4,0,,,,,,"",""
+ball,1,10.5,Nottinghamshire,BM Duckett,AD Hales,L Trevaskis,2,0,,,,,,"",""
+ball,1,10.6,Nottinghamshire,BM Duckett,AD Hales,L Trevaskis,1,0,,,,,,"",""
+ball,1,11.1,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,1,0,,,,,,"",""
+ball,1,11.2,Nottinghamshire,AD Hales,BM Duckett,P Coughlin,4,0,,,,,,"",""
+ball,1,11.3,Nottinghamshire,AD Hales,BM Duckett,P Coughlin,1,0,,,,,,"",""
+ball,1,11.4,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,0,0,,,,,,"",""
+ball,1,11.5,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,2,0,,,,,,"",""
+ball,1,11.6,Nottinghamshire,BM Duckett,AD Hales,P Coughlin,1,0,,,,,,"",""
+ball,1,12.1,Nottinghamshire,BM Duckett,AD Hales,BA Carse,1,0,,,,,,"",""
+ball,1,12.2,Nottinghamshire,AD Hales,BM Duckett,BA Carse,4,0,,,,,,"",""
+ball,1,12.3,Nottinghamshire,AD Hales,BM Duckett,BA Carse,0,0,,,,,,"",""
+ball,1,12.4,Nottinghamshire,AD Hales,BM Duckett,BA Carse,1,0,,,,,,"",""
+ball,1,12.5,Nottinghamshire,BM Duckett,AD Hales,BA Carse,0,0,,,,,,"",""
+ball,1,12.6,Nottinghamshire,BM Duckett,AD Hales,BA Carse,4,0,,,,,,"",""
+ball,1,13.1,Nottinghamshire,AD Hales,BM Duckett,BA Raine,1,0,,,,,,"",""
+ball,1,13.2,Nottinghamshire,BM Duckett,AD Hales,BA Raine,1,0,,,,,,"",""
+ball,1,13.3,Nottinghamshire,AD Hales,BM Duckett,BA Raine,1,0,,,,,,"",""
+ball,1,13.4,Nottinghamshire,BM Duckett,AD Hales,BA Raine,1,0,,,,,,"",""
+ball,1,13.5,Nottinghamshire,AD Hales,BM Duckett,BA Raine,1,0,,,,,,"",""
+ball,1,13.6,Nottinghamshire,BM Duckett,AD Hales,BA Raine,0,0,,,,,,"",""
+ball,1,14.1,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,4,0,,,,,,"",""
+ball,1,14.2,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,6,0,,,,,,"",""
+ball,1,14.3,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,2,0,,,,,,"",""
+ball,1,14.4,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,1,0,,,,,,"",""
+ball,1,14.5,Nottinghamshire,BM Duckett,AD Hales,L Trevaskis,1,0,,,,,,"",""
+ball,1,14.6,Nottinghamshire,AD Hales,BM Duckett,L Trevaskis,6,0,,,,,,"",""
+ball,1,15.1,Nottinghamshire,BM Duckett,AD Hales,BA Raine,0,0,,,,,,lbw,BM Duckett
+ball,1,15.2,Nottinghamshire,TJ Moores,AD Hales,BA Raine,1,0,,,,,,"",""
+ball,1,15.3,Nottinghamshire,AD Hales,TJ Moores,BA Raine,1,0,,,,,,"",""
+ball,1,15.4,Nottinghamshire,TJ Moores,AD Hales,BA Raine,0,0,,,,,,caught,TJ Moores
+ball,1,15.5,Nottinghamshire,AD Hales,SJ Mullaney,BA Raine,1,0,,,,,,"",""
+ball,1,15.6,Nottinghamshire,SJ Mullaney,AD Hales,BA Raine,2,0,,,,,,"",""
+ball,1,16.1,Nottinghamshire,AD Hales,SJ Mullaney,MJ Potts,2,0,,,,,,"",""
+ball,1,16.2,Nottinghamshire,AD Hales,SJ Mullaney,MJ Potts,1,0,,,,,,"",""
+ball,1,16.3,Nottinghamshire,SJ Mullaney,AD Hales,MJ Potts,1,0,,,,,,"",""
+ball,1,16.4,Nottinghamshire,AD Hales,SJ Mullaney,MJ Potts,1,0,,,,,,"",""
+ball,1,16.5,Nottinghamshire,SJ Mullaney,AD Hales,MJ Potts,0,0,,,,,,"",""
+ball,1,16.6,Nottinghamshire,SJ Mullaney,AD Hales,MJ Potts,3,0,,,,,,"",""
+ball,1,17.1,Nottinghamshire,SJ Mullaney,AD Hales,P Coughlin,1,0,,,,,,"",""
+ball,1,17.2,Nottinghamshire,AD Hales,SJ Mullaney,P Coughlin,0,1,1,,,,,"",""
+ball,1,17.3,Nottinghamshire,AD Hales,SJ Mullaney,P Coughlin,0,1,,,,1,,"",""
+ball,1,17.4,Nottinghamshire,SJ Mullaney,AD Hales,P Coughlin,4,0,,,,,,"",""
+ball,1,17.5,Nottinghamshire,SJ Mullaney,AD Hales,P Coughlin,0,0,,,,,,caught,SJ Mullaney
+ball,1,17.6,Nottinghamshire,AD Hales,SR Patel,P Coughlin,4,0,,,,,,"",""
+ball,1,17.7,Nottinghamshire,AD Hales,SR Patel,P Coughlin,6,0,,,,,,"",""
+ball,1,18.1,Nottinghamshire,SR Patel,AD Hales,MJ Potts,1,0,,,,,,"",""
+ball,1,18.2,Nottinghamshire,AD Hales,SR Patel,MJ Potts,1,0,,,,,,"",""
+ball,1,18.3,Nottinghamshire,SR Patel,AD Hales,MJ Potts,0,0,,,,,,"",""
+ball,1,18.4,Nottinghamshire,SR Patel,AD Hales,MJ Potts,6,0,,,,,,"",""
+ball,1,18.5,Nottinghamshire,SR Patel,AD Hales,MJ Potts,1,0,,,,,,"",""
+ball,1,18.6,Nottinghamshire,AD Hales,SR Patel,MJ Potts,1,0,,,,,,"",""
+ball,1,19.1,Nottinghamshire,AD Hales,SR Patel,BA Raine,0,1,1,,,,,"",""
+ball,1,19.2,Nottinghamshire,AD Hales,SR Patel,BA Raine,1,0,,,,,,"",""
+ball,1,19.3,Nottinghamshire,SR Patel,AD Hales,BA Raine,1,0,,,,,,"",""
+ball,1,19.4,Nottinghamshire,AD Hales,SR Patel,BA Raine,4,0,,,,,,"",""
+ball,1,19.5,Nottinghamshire,AD Hales,SR Patel,BA Raine,2,0,,,,,,"",""
+ball,1,19.6,Nottinghamshire,AD Hales,SR Patel,BA Raine,0,0,,,,,,"",""
+ball,1,19.7,Nottinghamshire,AD Hales,SR Patel,BA Raine,0,0,,,,,,"",""
+ball,2,0.1,Durham,DG Bedingham,G Clark,SR Patel,1,0,,,,,,"",""
+ball,2,0.2,Durham,G Clark,DG Bedingham,SR Patel,0,0,,,,,,"",""
+ball,2,0.3,Durham,G Clark,DG Bedingham,SR Patel,1,0,,,,,,"",""
+ball,2,0.4,Durham,DG Bedingham,G Clark,SR Patel,6,0,,,,,,"",""
+ball,2,0.5,Durham,DG Bedingham,G Clark,SR Patel,0,0,,,,,,"",""
+ball,2,0.6,Durham,DG Bedingham,G Clark,SR Patel,4,0,,,,,,"",""
+ball,2,1.1,Durham,G Clark,DG Bedingham,M Carter,4,0,,,,,,"",""
+ball,2,1.2,Durham,G Clark,DG Bedingham,M Carter,0,0,,,,,,"",""
+ball,2,1.3,Durham,G Clark,DG Bedingham,M Carter,2,0,,,,,,"",""
+ball,2,1.4,Durham,G Clark,DG Bedingham,M Carter,6,0,,,,,,"",""
+ball,2,1.5,Durham,G Clark,DG Bedingham,M Carter,4,0,,,,,,"",""
+ball,2,1.6,Durham,G Clark,DG Bedingham,M Carter,0,0,,,,,,"",""
+ball,2,2.1,Durham,DG Bedingham,G Clark,LJ Fletcher,1,0,,,,,,"",""
+ball,2,2.2,Durham,G Clark,DG Bedingham,LJ Fletcher,1,0,,,,,,"",""
+ball,2,2.3,Durham,DG Bedingham,G Clark,LJ Fletcher,2,0,,,,,,"",""
+ball,2,2.4,Durham,DG Bedingham,G Clark,LJ Fletcher,4,0,,,,,,"",""
+ball,2,2.5,Durham,DG Bedingham,G Clark,LJ Fletcher,0,0,,,,,,"",""
+ball,2,2.6,Durham,DG Bedingham,G Clark,LJ Fletcher,1,0,,,,,,"",""
+ball,2,3.1,Durham,DG Bedingham,G Clark,JT Ball,0,1,1,,,,,"",""
+ball,2,3.2,Durham,DG Bedingham,G Clark,JT Ball,6,0,,,,,,"",""
+ball,2,3.3,Durham,DG Bedingham,G Clark,JT Ball,2,0,,,,,,"",""
+ball,2,3.4,Durham,DG Bedingham,G Clark,JT Ball,1,0,,,,,,"",""
+ball,2,3.5,Durham,G Clark,DG Bedingham,JT Ball,1,0,,,,,,"",""
+ball,2,3.6,Durham,DG Bedingham,G Clark,JT Ball,2,0,,,,,,"",""
+ball,2,3.7,Durham,DG Bedingham,G Clark,JT Ball,0,0,,,,,,"",""
+ball,2,4.1,Durham,G Clark,DG Bedingham,LJ Fletcher,4,0,,,,,,"",""
+ball,2,4.2,Durham,G Clark,DG Bedingham,LJ Fletcher,0,0,,,,,,"",""
+ball,2,4.3,Durham,G Clark,DG Bedingham,LJ Fletcher,1,0,,,,,,"",""
+ball,2,4.4,Durham,DG Bedingham,G Clark,LJ Fletcher,1,0,,,,,,"",""
+ball,2,4.5,Durham,G Clark,DG Bedingham,LJ Fletcher,1,0,,,,,,"",""
+ball,2,4.6,Durham,DG Bedingham,G Clark,LJ Fletcher,2,0,,,,,,"",""
+ball,2,5.1,Durham,G Clark,DG Bedingham,JT Ball,4,0,,,,,,"",""
+ball,2,5.2,Durham,G Clark,DG Bedingham,JT Ball,4,0,,,,,,"",""
+ball,2,5.3,Durham,G Clark,DG Bedingham,JT Ball,0,0,,,,,,"",""
+ball,2,5.4,Durham,G Clark,DG Bedingham,JT Ball,6,0,,,,,,"",""
+ball,2,5.5,Durham,G Clark,DG Bedingham,JT Ball,0,0,,,,,,caught,G Clark
+ball,2,5.6,Durham,DG Bedingham,BA Raine,JT Ball,1,0,,,,,,"",""
+ball,2,6.1,Durham,DG Bedingham,BA Raine,M Carter,1,0,,,,,,"",""
+ball,2,6.2,Durham,BA Raine,DG Bedingham,M Carter,0,0,,,,,,"",""
+ball,2,6.3,Durham,BA Raine,DG Bedingham,M Carter,0,0,,,,,,stumped,BA Raine
+ball,2,6.4,Durham,CT Bancroft,DG Bedingham,M Carter,1,0,,,,,,"",""
+ball,2,6.5,Durham,DG Bedingham,CT Bancroft,M Carter,1,0,,,,,,"",""
+ball,2,6.6,Durham,CT Bancroft,DG Bedingham,M Carter,0,0,,,,,,caught and bowled,CT Bancroft
+ball,2,7.1,Durham,DG Bedingham,EJH Eckersley,SR Patel,0,0,,,,,,"",""
+ball,2,7.2,Durham,DG Bedingham,EJH Eckersley,SR Patel,1,0,,,,,,"",""
+ball,2,7.3,Durham,EJH Eckersley,DG Bedingham,SR Patel,1,0,,,,,,"",""
+ball,2,7.4,Durham,DG Bedingham,EJH Eckersley,SR Patel,1,0,,,,,,"",""
+ball,2,7.5,Durham,EJH Eckersley,DG Bedingham,SR Patel,1,0,,,,,,"",""
+ball,2,7.6,Durham,DG Bedingham,EJH Eckersley,SR Patel,2,0,,,,,,"",""
+ball,2,8.1,Durham,EJH Eckersley,DG Bedingham,SJ Mullaney,1,0,,,,,,"",""
+ball,2,8.2,Durham,DG Bedingham,EJH Eckersley,SJ Mullaney,1,0,,,,,,"",""
+ball,2,8.3,Durham,EJH Eckersley,DG Bedingham,SJ Mullaney,1,0,,,,,,"",""
+ball,2,8.4,Durham,DG Bedingham,EJH Eckersley,SJ Mullaney,1,0,,,,,,"",""
+ball,2,8.5,Durham,EJH Eckersley,DG Bedingham,SJ Mullaney,1,0,,,,,,"",""
+ball,2,8.6,Durham,DG Bedingham,EJH Eckersley,SJ Mullaney,1,0,,,,,,"",""
+ball,2,9.1,Durham,DG Bedingham,EJH Eckersley,SR Patel,1,0,,,,,,"",""
+ball,2,9.2,Durham,EJH Eckersley,DG Bedingham,SR Patel,0,0,,,,,,caught,EJH Eckersley
+ball,2,9.3,Durham,DG Bedingham,JTA Burnham,SR Patel,1,0,,,,,,"",""
+ball,2,9.4,Durham,JTA Burnham,DG Bedingham,SR Patel,1,0,,,,,,"",""
+ball,2,9.5,Durham,DG Bedingham,JTA Burnham,SR Patel,1,0,,,,,,"",""
+ball,2,9.6,Durham,JTA Burnham,DG Bedingham,SR Patel,1,0,,,,,,"",""
+ball,2,10.1,Durham,JTA Burnham,DG Bedingham,SJ Mullaney,1,0,,,,,,"",""
+ball,2,10.2,Durham,DG Bedingham,JTA Burnham,SJ Mullaney,0,0,,,,,,"",""
+ball,2,10.3,Durham,DG Bedingham,JTA Burnham,SJ Mullaney,1,0,,,,,,"",""
+ball,2,10.4,Durham,JTA Burnham,DG Bedingham,SJ Mullaney,0,0,,,,,,caught,JTA Burnham
+ball,2,10.5,Durham,P Coughlin,DG Bedingham,SJ Mullaney,1,0,,,,,,"",""
+ball,2,10.6,Durham,DG Bedingham,P Coughlin,SJ Mullaney,1,0,,,,,,"",""
+ball,2,11.1,Durham,DG Bedingham,P Coughlin,CG Harrison,1,0,,,,,,"",""
+ball,2,11.2,Durham,P Coughlin,DG Bedingham,CG Harrison,1,0,,,,,,"",""
+ball,2,11.3,Durham,DG Bedingham,P Coughlin,CG Harrison,2,0,,,,,,"",""
+ball,2,11.4,Durham,DG Bedingham,P Coughlin,CG Harrison,2,0,,,,,,"",""
+ball,2,11.5,Durham,DG Bedingham,P Coughlin,CG Harrison,1,0,,,,,,"",""
+ball,2,11.6,Durham,P Coughlin,DG Bedingham,CG Harrison,3,0,,,,,,"",""
+ball,2,12.1,Durham,P Coughlin,DG Bedingham,SJ Mullaney,1,0,,,,,,"",""
+ball,2,12.2,Durham,DG Bedingham,P Coughlin,SJ Mullaney,6,0,,,,,,"",""
+ball,2,12.3,Durham,DG Bedingham,P Coughlin,SJ Mullaney,1,0,,,,,,"",""
+ball,2,12.4,Durham,P Coughlin,DG Bedingham,SJ Mullaney,1,0,,,,,,"",""
+ball,2,12.5,Durham,DG Bedingham,P Coughlin,SJ Mullaney,2,0,,,,,,"",""
+ball,2,12.6,Durham,DG Bedingham,P Coughlin,SJ Mullaney,1,0,,,,,,"",""
+ball,2,13.1,Durham,DG Bedingham,P Coughlin,SR Patel,1,0,,,,,,"",""
+ball,2,13.2,Durham,P Coughlin,DG Bedingham,SR Patel,2,0,,,,,,"",""
+ball,2,13.3,Durham,P Coughlin,DG Bedingham,SR Patel,1,0,,,,,,"",""
+ball,2,13.4,Durham,DG Bedingham,P Coughlin,SR Patel,0,0,,,,,,bowled,DG Bedingham
+ball,2,13.5,Durham,BA Carse,P Coughlin,SR Patel,1,0,,,,,,"",""
+ball,2,13.6,Durham,P Coughlin,BA Carse,SR Patel,1,0,,,,,,"",""
+ball,2,14.1,Durham,P Coughlin,BA Carse,SJ Mullaney,2,0,,,,,,"",""
+ball,2,14.2,Durham,P Coughlin,BA Carse,SJ Mullaney,1,0,,,,,,"",""
+ball,2,14.3,Durham,BA Carse,P Coughlin,SJ Mullaney,4,0,,,,,,"",""
+ball,2,14.4,Durham,BA Carse,P Coughlin,SJ Mullaney,1,0,,,,,,"",""
+ball,2,14.5,Durham,P Coughlin,BA Carse,SJ Mullaney,1,0,,,,,,"",""
+ball,2,14.6,Durham,BA Carse,P Coughlin,SJ Mullaney,1,0,,,,,,"",""
+ball,2,15.1,Durham,BA Carse,P Coughlin,M Carter,1,0,,,,,,"",""
+ball,2,15.2,Durham,P Coughlin,BA Carse,M Carter,1,0,,,,,,"",""
+ball,2,15.3,Durham,BA Carse,P Coughlin,M Carter,2,0,,,,,,"",""
+ball,2,15.4,Durham,BA Carse,P Coughlin,M Carter,2,0,,,,,,"",""
+ball,2,15.5,Durham,BA Carse,P Coughlin,M Carter,1,0,,,,,,"",""
+ball,2,15.6,Durham,P Coughlin,BA Carse,M Carter,0,0,,,,,,"",""
+ball,2,16.1,Durham,BA Carse,P Coughlin,LJ Fletcher,2,0,,,,,,"",""
+ball,2,16.2,Durham,BA Carse,P Coughlin,LJ Fletcher,1,0,,,,,,"",""
+ball,2,16.3,Durham,P Coughlin,BA Carse,LJ Fletcher,4,0,,,,,,"",""
+ball,2,16.4,Durham,P Coughlin,BA Carse,LJ Fletcher,0,0,,,,,,caught,P Coughlin
+ball,2,16.5,Durham,BA Carse,L Trevaskis,LJ Fletcher,1,0,,,,,,"",""
+ball,2,16.6,Durham,L Trevaskis,BA Carse,LJ Fletcher,1,0,,,,,,"",""
+ball,2,17.1,Durham,L Trevaskis,BA Carse,M Carter,0,1,,,,1,,"",""
+ball,2,17.2,Durham,BA Carse,L Trevaskis,M Carter,1,0,,,,,,"",""
+ball,2,17.3,Durham,L Trevaskis,BA Carse,M Carter,6,0,,,,,,"",""
+ball,2,17.4,Durham,L Trevaskis,BA Carse,M Carter,4,0,,,,,,"",""
+ball,2,17.5,Durham,L Trevaskis,BA Carse,M Carter,6,0,,,,,,"",""
+ball,2,17.6,Durham,L Trevaskis,BA Carse,M Carter,0,0,,,,,,caught,L Trevaskis
+ball,2,18.1,Durham,MJ Potts,BA Carse,LJ Fletcher,0,0,,,,,,"",""
+ball,2,18.2,Durham,MJ Potts,BA Carse,LJ Fletcher,0,0,,,,,,"",""
+ball,2,18.3,Durham,MJ Potts,BA Carse,LJ Fletcher,2,0,,,,,,"",""
+ball,2,18.4,Durham,MJ Potts,BA Carse,LJ Fletcher,1,0,,,,,,"",""
+ball,2,18.5,Durham,BA Carse,MJ Potts,LJ Fletcher,0,0,,,,,,"",""
+ball,2,18.6,Durham,BA Carse,MJ Potts,LJ Fletcher,1,0,,,,,,"",""
+ball,2,19.1,Durham,BA Carse,MJ Potts,JT Ball,2,0,,,,,,"",""
+ball,2,19.2,Durham,BA Carse,MJ Potts,JT Ball,2,0,,,,,,"",""
+ball,2,19.3,Durham,BA Carse,MJ Potts,JT Ball,2,0,,,,,,"",""
+ball,2,19.4,Durham,BA Carse,MJ Potts,JT Ball,0,0,,,,,,"",""
+ball,2,19.5,Durham,BA Carse,MJ Potts,JT Ball,0,1,,,1,,,"",""
+ball,2,19.6,Durham,MJ Potts,BA Carse,JT Ball,1,0,,,,,,"",""

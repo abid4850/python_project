@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Dolphins
+info,gender,male
+info,season,2014/15
+info,date,2014/11/30
+info,event,Ram Slam T20 Challenge
+info,venue,"Chevrolet Park, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,Dolphins
+info,toss_decision,field
+info,player_of_match,R Frylinck
+info,player_of_match,DA Miller
+info,umpire,AT Holdstock
+info,umpire,S George
+info,reserve_umpire,JAS Morton
+info,tv_umpire,A Paleker
+info,match_referee,S Wadvalla
+info,winner,Dolphins
+info,winner_wickets,5
+info,player,Lions,CH Gayle
+info,player,Lions,Q de Kock
+info,player,Lions,HE van der Dussen
+info,player,Lions,ND McKenzie
+info,player,Lions,T Bavuma
+info,player,Lions,J Symes
+info,player,Lions,CH Morris
+info,player,Lions,K Rabada
+info,player,Lions,E Leie
+info,player,Lions,LL Tsotsobe
+info,player,Lions,P Matshikwe
+info,player,Dolphins,JD Vandiar
+info,player,Dolphins,MN van Wyk
+info,player,Dolphins,K Zondo
+info,player,Dolphins,DA Miller
+info,player,Dolphins,VB van Jaarsveld
+info,player,Dolphins,DJ Bravo
+info,player,Dolphins,R McLaren
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,AL Phehlukwayo
+info,player,Dolphins,CJ Alexander
+info,player,Dolphins,R Frylinck
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,CJ Alexander,26d9937d
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,E Leie,a7bc76a0
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,J Symes,77841dcc
+info,registry,people,JAS Morton,eac9b8d9
+info,registry,people,JD Vandiar,a833f99c
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,LL Tsotsobe,12bffe91
+info,registry,people,MN van Wyk,710dd98c
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,P Matshikwe,1b05424f
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,R McLaren,c654af19
+info,registry,people,S George,6d9e5a54
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,VB van Jaarsveld,890b877d
+ball,1,0.1,Lions,CH Gayle,Q de Kock,R McLaren,1,0,,,,,,"",""
+ball,1,0.2,Lions,Q de Kock,CH Gayle,R McLaren,0,0,,,,,,"",""
+ball,1,0.3,Lions,Q de Kock,CH Gayle,R McLaren,0,0,,,,,,"",""
+ball,1,0.4,Lions,Q de Kock,CH Gayle,R McLaren,0,0,,,,,,"",""
+ball,1,0.5,Lions,Q de Kock,CH Gayle,R McLaren,4,0,,,,,,"",""
+ball,1,0.6,Lions,Q de Kock,CH Gayle,R McLaren,0,0,,,,,,"",""
+ball,1,1.1,Lions,CH Gayle,Q de Kock,CJ Alexander,4,0,,,,,,"",""
+ball,1,1.2,Lions,CH Gayle,Q de Kock,CJ Alexander,0,0,,,,,,"",""
+ball,1,1.3,Lions,CH Gayle,Q de Kock,CJ Alexander,0,0,,,,,,"",""
+ball,1,1.4,Lions,CH Gayle,Q de Kock,CJ Alexander,0,0,,,,,,"",""
+ball,1,1.5,Lions,CH Gayle,Q de Kock,CJ Alexander,0,0,,,,,,"",""
+ball,1,1.6,Lions,CH Gayle,Q de Kock,CJ Alexander,1,0,,,,,,"",""
+ball,1,2.1,Lions,CH Gayle,Q de Kock,R Frylinck,0,0,,,,,,"",""
+ball,1,2.2,Lions,CH Gayle,Q de Kock,R Frylinck,0,0,,,,,,bowled,CH Gayle
+ball,1,2.3,Lions,HE van der Dussen,Q de Kock,R Frylinck,0,0,,,,,,"",""
+ball,1,2.4,Lions,HE van der Dussen,Q de Kock,R Frylinck,0,0,,,,,,"",""
+ball,1,2.5,Lions,HE van der Dussen,Q de Kock,R Frylinck,0,0,,,,,,"",""
+ball,1,2.6,Lions,HE van der Dussen,Q de Kock,R Frylinck,0,0,,,,,,"",""
+ball,1,3.1,Lions,Q de Kock,HE van der Dussen,CJ Alexander,0,0,,,,,,"",""
+ball,1,3.2,Lions,Q de Kock,HE van der Dussen,CJ Alexander,0,0,,,,,,"",""
+ball,1,3.3,Lions,Q de Kock,HE van der Dussen,CJ Alexander,0,0,,,,,,"",""
+ball,1,3.4,Lions,Q de Kock,HE van der Dussen,CJ Alexander,0,4,,,,4,,"",""
+ball,1,3.5,Lions,Q de Kock,HE van der Dussen,CJ Alexander,4,0,,,,,,"",""
+ball,1,3.6,Lions,Q de Kock,HE van der Dussen,CJ Alexander,1,0,,,,,,"",""
+ball,1,4.1,Lions,Q de Kock,HE van der Dussen,R Frylinck,0,0,,,,,,"",""
+ball,1,4.2,Lions,Q de Kock,HE van der Dussen,R Frylinck,0,0,,,,,,caught,Q de Kock
+ball,1,4.3,Lions,HE van der Dussen,ND McKenzie,R Frylinck,0,0,,,,,,"",""
+ball,1,4.4,Lions,HE van der Dussen,ND McKenzie,R Frylinck,0,0,,,,,,"",""
+ball,1,4.5,Lions,HE van der Dussen,ND McKenzie,R Frylinck,2,0,,,,,,"",""
+ball,1,4.6,Lions,HE van der Dussen,ND McKenzie,R Frylinck,0,0,,,,,,"",""
+ball,1,5.1,Lions,ND McKenzie,HE van der Dussen,R McLaren,0,0,,,,,,caught,ND McKenzie
+ball,1,5.2,Lions,T Bavuma,HE van der Dussen,R McLaren,0,0,,,,,,"",""
+ball,1,5.3,Lions,T Bavuma,HE van der Dussen,R McLaren,0,1,1,,,,,"",""
+ball,1,5.4,Lions,T Bavuma,HE van der Dussen,R McLaren,0,0,,,,,,"",""
+ball,1,5.5,Lions,T Bavuma,HE van der Dussen,R McLaren,2,0,,,,,,"",""
+ball,1,5.6,Lions,T Bavuma,HE van der Dussen,R McLaren,0,0,,,,,,"",""
+ball,1,5.7,Lions,T Bavuma,HE van der Dussen,R McLaren,0,0,,,,,,"",""
+ball,1,6.1,Lions,HE van der Dussen,T Bavuma,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.2,Lions,T Bavuma,HE van der Dussen,DJ Bravo,2,0,,,,,,"",""
+ball,1,6.3,Lions,T Bavuma,HE van der Dussen,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.4,Lions,HE van der Dussen,T Bavuma,DJ Bravo,2,0,,,,,,"",""
+ball,1,6.5,Lions,HE van der Dussen,T Bavuma,DJ Bravo,1,0,,,,,,"",""
+ball,1,6.6,Lions,T Bavuma,HE van der Dussen,DJ Bravo,0,0,,,,,,"",""
+ball,1,7.1,Lions,HE van der Dussen,T Bavuma,R McLaren,1,0,,,,,,"",""
+ball,1,7.2,Lions,T Bavuma,HE van der Dussen,R McLaren,1,0,,,,,,"",""
+ball,1,7.3,Lions,HE van der Dussen,T Bavuma,R McLaren,1,0,,,,,,"",""
+ball,1,7.4,Lions,T Bavuma,HE van der Dussen,R McLaren,4,0,,,,,,"",""
+ball,1,7.5,Lions,T Bavuma,HE van der Dussen,R McLaren,0,0,,,,,,"",""
+ball,1,7.6,Lions,T Bavuma,HE van der Dussen,R McLaren,0,0,,,,,,"",""
+ball,1,8.1,Lions,HE van der Dussen,T Bavuma,DJ Bravo,0,0,,,,,,"",""
+ball,1,8.2,Lions,HE van der Dussen,T Bavuma,DJ Bravo,1,0,,,,,,"",""
+ball,1,8.3,Lions,T Bavuma,HE van der Dussen,DJ Bravo,2,0,,,,,,"",""
+ball,1,8.4,Lions,T Bavuma,HE van der Dussen,DJ Bravo,0,0,,,,,,"",""
+ball,1,8.5,Lions,T Bavuma,HE van der Dussen,DJ Bravo,2,0,,,,,,"",""
+ball,1,8.6,Lions,T Bavuma,HE van der Dussen,DJ Bravo,1,0,,,,,,"",""
+ball,1,9.1,Lions,T Bavuma,HE van der Dussen,P Subrayen,1,0,,,,,,"",""
+ball,1,9.2,Lions,HE van der Dussen,T Bavuma,P Subrayen,0,0,,,,,,"",""
+ball,1,9.3,Lions,HE van der Dussen,T Bavuma,P Subrayen,1,0,,,,,,"",""
+ball,1,9.4,Lions,T Bavuma,HE van der Dussen,P Subrayen,0,0,,,,,,"",""
+ball,1,9.5,Lions,T Bavuma,HE van der Dussen,P Subrayen,1,0,,,,,,"",""
+ball,1,9.6,Lions,HE van der Dussen,T Bavuma,P Subrayen,2,0,,,,,,"",""
+ball,1,10.1,Lions,T Bavuma,HE van der Dussen,CJ Alexander,0,0,,,,,,caught,T Bavuma
+ball,1,10.2,Lions,HE van der Dussen,J Symes,CJ Alexander,2,0,,,,,,"",""
+ball,1,10.3,Lions,HE van der Dussen,J Symes,CJ Alexander,2,0,,,,,,"",""
+ball,1,10.4,Lions,HE van der Dussen,J Symes,CJ Alexander,1,0,,,,,,"",""
+ball,1,10.5,Lions,J Symes,HE van der Dussen,CJ Alexander,0,0,,,,,,"",""
+ball,1,10.6,Lions,J Symes,HE van der Dussen,CJ Alexander,0,0,,,,,,"",""
+ball,1,11.1,Lions,HE van der Dussen,J Symes,P Subrayen,1,0,,,,,,"",""
+ball,1,11.2,Lions,J Symes,HE van der Dussen,P Subrayen,0,0,,,,,,"",""
+ball,1,11.3,Lions,J Symes,HE van der Dussen,P Subrayen,1,0,,,,,,"",""
+ball,1,11.4,Lions,HE van der Dussen,J Symes,P Subrayen,1,0,,,,,,"",""
+ball,1,11.5,Lions,J Symes,HE van der Dussen,P Subrayen,2,0,,,,,,"",""
+ball,1,11.6,Lions,J Symes,HE van der Dussen,P Subrayen,0,0,,,,,,"",""
+ball,1,12.1,Lions,HE van der Dussen,J Symes,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,12.2,Lions,HE van der Dussen,J Symes,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,12.3,Lions,J Symes,HE van der Dussen,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,12.4,Lions,HE van der Dussen,J Symes,AL Phehlukwayo,0,1,,,,1,,"",""
+ball,1,12.5,Lions,J Symes,HE van der Dussen,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,12.6,Lions,J Symes,HE van der Dussen,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,12.7,Lions,J Symes,HE van der Dussen,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,12.8,Lions,J Symes,HE van der Dussen,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,13.1,Lions,J Symes,HE van der Dussen,P Subrayen,1,0,,,,,,"",""
+ball,1,13.2,Lions,HE van der Dussen,J Symes,P Subrayen,0,0,,,,,,"",""
+ball,1,13.3,Lions,HE van der Dussen,J Symes,P Subrayen,0,0,,,,,,caught,HE van der Dussen
+ball,1,13.4,Lions,J Symes,CH Morris,P Subrayen,1,0,,,,,,"",""
+ball,1,13.5,Lions,CH Morris,J Symes,P Subrayen,1,0,,,,,,"",""
+ball,1,13.6,Lions,J Symes,CH Morris,P Subrayen,0,0,,,,,,"",""
+ball,1,14.1,Lions,CH Morris,J Symes,R Frylinck,1,0,,,,,,"",""
+ball,1,14.2,Lions,J Symes,CH Morris,R Frylinck,0,0,,,,,,"",""
+ball,1,14.3,Lions,J Symes,CH Morris,R Frylinck,1,0,,,,,,"",""
+ball,1,14.4,Lions,CH Morris,J Symes,R Frylinck,1,0,,,,,,"",""
+ball,1,14.5,Lions,J Symes,CH Morris,R Frylinck,1,0,,,,,,"",""
+ball,1,14.6,Lions,CH Morris,J Symes,R Frylinck,1,0,,,,,,"",""
+ball,1,15.1,Lions,CH Morris,J Symes,P Subrayen,1,0,,,,,,"",""
+ball,1,15.2,Lions,J Symes,CH Morris,P Subrayen,1,0,,,,,,"",""
+ball,1,15.3,Lions,CH Morris,J Symes,P Subrayen,0,0,,,,,,"",""
+ball,1,15.4,Lions,CH Morris,J Symes,P Subrayen,1,0,,,,,,"",""
+ball,1,15.5,Lions,J Symes,CH Morris,P Subrayen,1,0,,,,,,"",""
+ball,1,15.6,Lions,CH Morris,J Symes,P Subrayen,0,0,,,,,,"",""
+ball,1,16.1,Lions,J Symes,CH Morris,DJ Bravo,2,0,,,,,,"",""
+ball,1,16.2,Lions,J Symes,CH Morris,DJ Bravo,1,0,,,,,,"",""
+ball,1,16.3,Lions,CH Morris,J Symes,DJ Bravo,1,0,,,,,,"",""
+ball,1,16.4,Lions,J Symes,CH Morris,DJ Bravo,0,0,,,,,,"",""
+ball,1,16.5,Lions,J Symes,CH Morris,DJ Bravo,0,0,,,,,,caught,J Symes
+ball,1,16.6,Lions,CH Morris,K Rabada,DJ Bravo,0,0,,,,,,"",""
+ball,1,17.1,Lions,K Rabada,CH Morris,R McLaren,0,1,1,,,,,"",""
+ball,1,17.2,Lions,K Rabada,CH Morris,R McLaren,1,0,,,,,,"",""
+ball,1,17.3,Lions,CH Morris,K Rabada,R McLaren,0,0,,,,,,"",""
+ball,1,17.4,Lions,CH Morris,K Rabada,R McLaren,1,0,,,,,,"",""
+ball,1,17.5,Lions,K Rabada,CH Morris,R McLaren,1,0,,,,,,"",""
+ball,1,17.6,Lions,CH Morris,K Rabada,R McLaren,0,1,1,,,,,"",""
+ball,1,17.7,Lions,CH Morris,K Rabada,R McLaren,4,0,,,,,,"",""
+ball,1,17.8,Lions,CH Morris,K Rabada,R McLaren,1,0,,,,,,"",""
+ball,1,18.1,Lions,CH Morris,K Rabada,R Frylinck,6,0,,,,,,"",""
+ball,1,18.2,Lions,CH Morris,K Rabada,R Frylinck,6,0,,,,,,"",""
+ball,1,18.3,Lions,CH Morris,K Rabada,R Frylinck,2,0,,,,,,"",""
+ball,1,18.4,Lions,CH Morris,K Rabada,R Frylinck,6,0,,,,,,"",""
+ball,1,18.5,Lions,CH Morris,K Rabada,R Frylinck,2,0,,,,,,"",""
+ball,1,18.6,Lions,CH Morris,K Rabada,R Frylinck,1,0,,,,,,"",""
+ball,1,19.1,Lions,CH Morris,K Rabada,DJ Bravo,1,0,,,,,,"",""
+ball,1,19.2,Lions,K Rabada,CH Morris,DJ Bravo,0,0,,,,,,"",""
+ball,1,19.3,Lions,K Rabada,CH Morris,DJ Bravo,4,0,,,,,,"",""
+ball,1,19.4,Lions,K Rabada,CH Morris,DJ Bravo,1,0,,,,,,"",""
+ball,1,19.5,Lions,CH Morris,K Rabada,DJ Bravo,0,0,,,,,,caught,CH Morris
+ball,1,19.6,Lions,K Rabada,E Leie,DJ Bravo,1,0,,,,,,"",""
+ball,2,0.1,Dolphins,JD Vandiar,MN van Wyk,P Matshikwe,0,0,,,,,,"",""
+ball,2,0.2,Dolphins,JD Vandiar,MN van Wyk,P Matshikwe,0,0,,,,,,"",""
+ball,2,0.3,Dolphins,JD Vandiar,MN van Wyk,P Matshikwe,1,0,,,,,,"",""
+ball,2,0.4,Dolphins,MN van Wyk,JD Vandiar,P Matshikwe,0,0,,,,,,"",""
+ball,2,0.5,Dolphins,MN van Wyk,JD Vandiar,P Matshikwe,0,0,,,,,,"",""
+ball,2,0.6,Dolphins,MN van Wyk,JD Vandiar,P Matshikwe,4,0,,,,,,"",""
+ball,2,1.1,Dolphins,JD Vandiar,MN van Wyk,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,1.2,Dolphins,MN van Wyk,JD Vandiar,LL Tsotsobe,4,0,,,,,,"",""
+ball,2,1.3,Dolphins,MN van Wyk,JD Vandiar,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,1.4,Dolphins,JD Vandiar,MN van Wyk,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,1.5,Dolphins,MN van Wyk,JD Vandiar,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,1.6,Dolphins,MN van Wyk,JD Vandiar,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,2.1,Dolphins,MN van Wyk,JD Vandiar,P Matshikwe,0,0,,,,,,"",""
+ball,2,2.2,Dolphins,MN van Wyk,JD Vandiar,P Matshikwe,0,0,,,,,,"",""
+ball,2,2.3,Dolphins,MN van Wyk,JD Vandiar,P Matshikwe,0,1,1,,,,,"",""
+ball,2,2.4,Dolphins,MN van Wyk,JD Vandiar,P Matshikwe,1,0,,,,,,"",""
+ball,2,2.5,Dolphins,JD Vandiar,MN van Wyk,P Matshikwe,0,1,1,,,,,"",""
+ball,2,2.6,Dolphins,JD Vandiar,MN van Wyk,P Matshikwe,0,0,,,,,,"",""
+ball,2,2.7,Dolphins,JD Vandiar,MN van Wyk,P Matshikwe,1,0,,,,,,"",""
+ball,2,2.8,Dolphins,MN van Wyk,JD Vandiar,P Matshikwe,1,0,,,,,,"",""
+ball,2,3.1,Dolphins,MN van Wyk,JD Vandiar,CH Morris,1,0,,,,,,"",""
+ball,2,3.2,Dolphins,JD Vandiar,MN van Wyk,CH Morris,0,0,,,,,,"",""
+ball,2,3.3,Dolphins,JD Vandiar,MN van Wyk,CH Morris,0,0,,,,,,caught,JD Vandiar
+ball,2,3.4,Dolphins,K Zondo,MN van Wyk,CH Morris,0,0,,,,,,"",""
+ball,2,3.5,Dolphins,K Zondo,MN van Wyk,CH Morris,0,0,,,,,,"",""
+ball,2,3.6,Dolphins,K Zondo,MN van Wyk,CH Morris,0,0,,,,,,"",""
+ball,2,4.1,Dolphins,MN van Wyk,K Zondo,K Rabada,0,0,,,,,,lbw,MN van Wyk
+ball,2,4.2,Dolphins,DA Miller,K Zondo,K Rabada,0,0,,,,,,"",""
+ball,2,4.3,Dolphins,DA Miller,K Zondo,K Rabada,1,0,,,,,,"",""
+ball,2,4.4,Dolphins,K Zondo,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,2,4.5,Dolphins,K Zondo,DA Miller,K Rabada,4,0,,,,,,"",""
+ball,2,4.6,Dolphins,K Zondo,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,2,5.1,Dolphins,DA Miller,K Zondo,CH Morris,2,0,,,,,,"",""
+ball,2,5.2,Dolphins,DA Miller,K Zondo,CH Morris,0,0,,,,,,"",""
+ball,2,5.3,Dolphins,DA Miller,K Zondo,CH Morris,1,0,,,,,,"",""
+ball,2,5.4,Dolphins,K Zondo,DA Miller,CH Morris,0,0,,,,,,"",""
+ball,2,5.5,Dolphins,K Zondo,DA Miller,CH Morris,0,0,,,,,,"",""
+ball,2,5.6,Dolphins,K Zondo,DA Miller,CH Morris,1,0,,,,,,"",""
+ball,2,6.1,Dolphins,K Zondo,DA Miller,K Rabada,4,0,,,,,,"",""
+ball,2,6.2,Dolphins,K Zondo,DA Miller,K Rabada,1,0,,,,,,"",""
+ball,2,6.3,Dolphins,DA Miller,K Zondo,K Rabada,0,1,1,,,,,"",""
+ball,2,6.4,Dolphins,DA Miller,K Zondo,K Rabada,0,0,,,,,,"",""
+ball,2,6.5,Dolphins,DA Miller,K Zondo,K Rabada,1,0,,,,,,"",""
+ball,2,6.6,Dolphins,K Zondo,DA Miller,K Rabada,0,1,1,,,,,"",""
+ball,2,6.7,Dolphins,K Zondo,DA Miller,K Rabada,1,0,,,,,,"",""
+ball,2,6.8,Dolphins,DA Miller,K Zondo,K Rabada,0,0,,,,,,"",""
+ball,2,7.1,Dolphins,K Zondo,DA Miller,E Leie,1,0,,,,,,"",""
+ball,2,7.2,Dolphins,DA Miller,K Zondo,E Leie,1,0,,,,,,"",""
+ball,2,7.3,Dolphins,K Zondo,DA Miller,E Leie,1,0,,,,,,"",""
+ball,2,7.4,Dolphins,DA Miller,K Zondo,E Leie,0,0,,,,,,"",""
+ball,2,7.5,Dolphins,DA Miller,K Zondo,E Leie,4,0,,,,,,"",""
+ball,2,7.6,Dolphins,DA Miller,K Zondo,E Leie,0,0,,,,,,"",""
+ball,2,8.1,Dolphins,K Zondo,DA Miller,LL Tsotsobe,6,0,,,,,,"",""
+ball,2,8.2,Dolphins,K Zondo,DA Miller,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,8.3,Dolphins,DA Miller,K Zondo,LL Tsotsobe,2,0,,,,,,"",""
+ball,2,8.4,Dolphins,DA Miller,K Zondo,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,8.5,Dolphins,K Zondo,DA Miller,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,8.6,Dolphins,DA Miller,K Zondo,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,9.1,Dolphins,K Zondo,DA Miller,E Leie,1,0,,,,,,"",""
+ball,2,9.2,Dolphins,DA Miller,K Zondo,E Leie,0,0,,,,,,"",""
+ball,2,9.3,Dolphins,DA Miller,K Zondo,E Leie,1,0,,,,,,"",""
+ball,2,9.4,Dolphins,K Zondo,DA Miller,E Leie,2,0,,,,,,"",""
+ball,2,9.5,Dolphins,K Zondo,DA Miller,E Leie,1,0,,,,,,"",""
+ball,2,9.6,Dolphins,DA Miller,K Zondo,E Leie,1,0,,,,,,"",""
+ball,2,10.1,Dolphins,DA Miller,K Zondo,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,10.2,Dolphins,K Zondo,DA Miller,LL Tsotsobe,2,0,,,,,,"",""
+ball,2,10.3,Dolphins,K Zondo,DA Miller,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,10.4,Dolphins,DA Miller,K Zondo,LL Tsotsobe,2,0,,,,,,"",""
+ball,2,10.5,Dolphins,DA Miller,K Zondo,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,10.6,Dolphins,K Zondo,DA Miller,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,11.1,Dolphins,DA Miller,K Zondo,E Leie,4,0,,,,,,"",""
+ball,2,11.2,Dolphins,DA Miller,K Zondo,E Leie,1,0,,,,,,"",""
+ball,2,11.3,Dolphins,K Zondo,DA Miller,E Leie,0,0,,,,,,"",""
+ball,2,11.4,Dolphins,K Zondo,DA Miller,E Leie,0,0,,,,,,"",""
+ball,2,11.5,Dolphins,K Zondo,DA Miller,E Leie,0,0,,,,,,"",""
+ball,2,11.6,Dolphins,K Zondo,DA Miller,E Leie,0,0,,,,,,caught,K Zondo
+ball,2,12.1,Dolphins,VB van Jaarsveld,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,2,12.2,Dolphins,VB van Jaarsveld,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,2,12.3,Dolphins,VB van Jaarsveld,DA Miller,K Rabada,0,0,,,,,,bowled,VB van Jaarsveld
+ball,2,12.4,Dolphins,DJ Bravo,DA Miller,K Rabada,2,0,,,,,,"",""
+ball,2,12.5,Dolphins,DJ Bravo,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,2,12.6,Dolphins,DJ Bravo,DA Miller,K Rabada,1,0,,,,,,"",""
+ball,2,13.1,Dolphins,DJ Bravo,DA Miller,CH Morris,0,1,1,,,,,"",""
+ball,2,13.2,Dolphins,DJ Bravo,DA Miller,CH Morris,0,0,,,,,,"",""
+ball,2,13.3,Dolphins,DJ Bravo,DA Miller,CH Morris,0,1,1,,,,,"",""
+ball,2,13.4,Dolphins,DJ Bravo,DA Miller,CH Morris,0,0,,,,,,"",""
+ball,2,13.5,Dolphins,DJ Bravo,DA Miller,CH Morris,0,1,1,,,,,"",""
+ball,2,13.6,Dolphins,DJ Bravo,DA Miller,CH Morris,4,0,,,,,,"",""
+ball,2,13.7,Dolphins,DJ Bravo,DA Miller,CH Morris,1,0,,,,,,"",""
+ball,2,13.8,Dolphins,DA Miller,DJ Bravo,CH Morris,2,0,,,,,,"",""
+ball,2,13.9,Dolphins,DA Miller,DJ Bravo,CH Morris,1,0,,,,,,"",""
+ball,2,14.1,Dolphins,DA Miller,DJ Bravo,E Leie,0,4,4,,,,,"",""
+ball,2,14.2,Dolphins,DJ Bravo,DA Miller,E Leie,1,0,,,,,,"",""
+ball,2,14.3,Dolphins,DA Miller,DJ Bravo,E Leie,1,0,,,,,,"",""
+ball,2,14.4,Dolphins,DJ Bravo,DA Miller,E Leie,1,0,,,,,,"",""
+ball,2,14.5,Dolphins,DA Miller,DJ Bravo,E Leie,1,0,,,,,,"",""
+ball,2,14.6,Dolphins,DJ Bravo,DA Miller,E Leie,4,0,,,,,,"",""
+ball,2,14.7,Dolphins,DJ Bravo,DA Miller,E Leie,3,0,,,,,,"",""
+ball,2,15.1,Dolphins,DJ Bravo,DA Miller,P Matshikwe,2,0,,,,,,"",""
+ball,2,15.2,Dolphins,DJ Bravo,DA Miller,P Matshikwe,0,0,,,,,,"",""
+ball,2,15.3,Dolphins,DJ Bravo,DA Miller,P Matshikwe,0,0,,,,,,caught,DJ Bravo
+ball,2,15.4,Dolphins,R McLaren,DA Miller,P Matshikwe,0,0,,,,,,"",""
+ball,2,15.5,Dolphins,R McLaren,DA Miller,P Matshikwe,0,1,,,,1,,"",""
+ball,2,15.6,Dolphins,DA Miller,R McLaren,P Matshikwe,0,0,,,,,,"",""
+ball,2,16.1,Dolphins,R McLaren,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,2,16.2,Dolphins,R McLaren,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,2,16.3,Dolphins,R McLaren,DA Miller,K Rabada,0,1,1,,,,,"",""
+ball,2,16.4,Dolphins,R McLaren,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,2,16.5,Dolphins,R McLaren,DA Miller,K Rabada,1,0,,,,,,"",""
+ball,2,16.6,Dolphins,DA Miller,R McLaren,K Rabada,1,0,,,,,,"",""
+ball,2,16.7,Dolphins,R McLaren,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,2,17.1,Dolphins,DA Miller,R McLaren,P Matshikwe,2,0,,,,,,"",""
+ball,2,17.2,Dolphins,DA Miller,R McLaren,P Matshikwe,0,0,,,,,,"",""
+ball,2,17.3,Dolphins,DA Miller,R McLaren,P Matshikwe,4,0,,,,,,"",""
+ball,2,17.4,Dolphins,DA Miller,R McLaren,P Matshikwe,2,0,,,,,,"",""
+ball,2,17.5,Dolphins,DA Miller,R McLaren,P Matshikwe,0,0,,,,,,"",""
+ball,2,17.6,Dolphins,DA Miller,R McLaren,P Matshikwe,2,0,,,,,,"",""
+ball,2,18.1,Dolphins,R McLaren,DA Miller,CH Morris,0,0,,,,,,"",""
+ball,2,18.2,Dolphins,R McLaren,DA Miller,CH Morris,0,0,,,,,,"",""
+ball,2,18.3,Dolphins,R McLaren,DA Miller,CH Morris,0,0,,,,,,"",""
+ball,2,18.4,Dolphins,R McLaren,DA Miller,CH Morris,1,0,,,,,,"",""
+ball,2,18.5,Dolphins,DA Miller,R McLaren,CH Morris,0,1,1,,,,,"",""
+ball,2,18.6,Dolphins,DA Miller,R McLaren,CH Morris,1,0,,,,,,"",""
+ball,2,18.7,Dolphins,R McLaren,DA Miller,CH Morris,0,0,,,,,,"",""
+ball,2,19.1,Dolphins,DA Miller,R McLaren,LL Tsotsobe,1,0,,,,,,"",""

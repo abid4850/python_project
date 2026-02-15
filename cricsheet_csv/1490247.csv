@@ -1,0 +1,406 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Burgher Recreation Club
+info,team,Moors Sports Club
+info,gender,male
+info,season,2025
+info,date,2025/07/17
+info,event,Major Clubs Limited Over Tournament
+info,venue,"Burgher Recreation Club Ground, Colombo"
+info,city,Colombo
+info,toss_uncontested,true
+info,toss_winner,Moors Sports Club
+info,toss_decision,field
+info,umpire,IC Soysa
+info,umpire,RD Kottahachchi
+info,reserve_umpire,KA Mangalaraj
+info,match_referee,BCMS Mendis
+info,winner,Moors Sports Club
+info,winner_wickets,3
+info,player,Burgher Recreation Club,KI Fernando
+info,player,Burgher Recreation Club,T Ashel
+info,player,Burgher Recreation Club,G Kotuwegoda
+info,player,Burgher Recreation Club,SR Weliwatta
+info,player,Burgher Recreation Club,C Heenatigala
+info,player,Burgher Recreation Club,DS Abeywickramasingha
+info,player,Burgher Recreation Club,M Subasingha
+info,player,Burgher Recreation Club,Y Rodrigo
+info,player,Burgher Recreation Club,C Dissanayake
+info,player,Burgher Recreation Club,PWS Dulshan
+info,player,Burgher Recreation Club,LS Samarajeewa
+info,player,Moors Sports Club,J Perera
+info,player,Moors Sports Club,Ravishan de Silva
+info,player,Moors Sports Club,S Gimhan
+info,player,Moors Sports Club,S Samarawickrama
+info,player,Moors Sports Club,RTM Mendis
+info,player,Moors Sports Club,RMMP Rathnayake
+info,player,Moors Sports Club,L Abeyratne
+info,player,Moors Sports Club,S Fernando
+info,player,Moors Sports Club,H Kenula
+info,player,Moors Sports Club,P Jayawickrama
+info,player,Moors Sports Club,Hasith Rathnakake
+info,registry,people,BCMS Mendis,e3f6e4ac
+info,registry,people,C Dissanayake,fa004e59
+info,registry,people,C Heenatigala,4d13485c
+info,registry,people,DS Abeywickramasingha,55715105
+info,registry,people,G Kotuwegoda,5a802426
+info,registry,people,H Kenula,00a3b5a1
+info,registry,people,Hasith Rathnakake,516ed352
+info,registry,people,IC Soysa,717a7971
+info,registry,people,J Perera,0e0d4577
+info,registry,people,KA Mangalaraj,520946d8
+info,registry,people,KI Fernando,098753fe
+info,registry,people,L Abeyratne,4ff4e5a1
+info,registry,people,LS Samarajeewa,61cb03b6
+info,registry,people,M Subasingha,5d499f67
+info,registry,people,P Jayawickrama,b7d1eadd
+info,registry,people,PWS Dulshan,cd63866f
+info,registry,people,RD Kottahachchi,92e41d14
+info,registry,people,RMMP Rathnayake,afe830a2
+info,registry,people,RTM Mendis,1be67d37
+info,registry,people,Ravishan de Silva,dad30a05
+info,registry,people,S Fernando,2cbe4f4d
+info,registry,people,S Gimhan,81acb5f5
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,SR Weliwatta,0ec57b09
+info,registry,people,T Ashel,493a5224
+info,registry,people,Y Rodrigo,f8511ad1
+ball,1,0.1,Burgher Recreation Club,KI Fernando,T Ashel,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,0.2,Burgher Recreation Club,T Ashel,KI Fernando,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,0.3,Burgher Recreation Club,T Ashel,KI Fernando,RMMP Rathnayake,0,1,1,,,,,"",""
+ball,1,0.4,Burgher Recreation Club,T Ashel,KI Fernando,RMMP Rathnayake,0,0,,,,,,caught,T Ashel
+ball,1,0.5,Burgher Recreation Club,G Kotuwegoda,KI Fernando,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,0.6,Burgher Recreation Club,G Kotuwegoda,KI Fernando,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,0.7,Burgher Recreation Club,G Kotuwegoda,KI Fernando,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,1.1,Burgher Recreation Club,KI Fernando,G Kotuwegoda,H Kenula,4,0,,,,,,"",""
+ball,1,1.2,Burgher Recreation Club,KI Fernando,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,1.3,Burgher Recreation Club,KI Fernando,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,1.4,Burgher Recreation Club,KI Fernando,G Kotuwegoda,H Kenula,2,0,,,,,,"",""
+ball,1,1.5,Burgher Recreation Club,KI Fernando,G Kotuwegoda,H Kenula,0,0,,,,,,caught,KI Fernando
+ball,1,1.6,Burgher Recreation Club,SR Weliwatta,G Kotuwegoda,H Kenula,0,0,,,,,,caught,SR Weliwatta
+ball,1,2.1,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,2.2,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,2.3,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,2.4,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,2.5,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,2.6,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,3.1,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,H Kenula,1,0,,,,,,"",""
+ball,1,3.2,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,3.3,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,3.4,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,3.5,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,3.6,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,4.1,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,4.2,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,4.3,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,4.4,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,4,0,,,,,,"",""
+ball,1,4.5,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,4.6,Burgher Recreation Club,G Kotuwegoda,C Heenatigala,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,5.1,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,5.2,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,5.3,Burgher Recreation Club,C Heenatigala,G Kotuwegoda,H Kenula,0,0,,,,,,caught,C Heenatigala
+ball,1,5.4,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,H Kenula,2,0,,,,,,"",""
+ball,1,5.5,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,5.6,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,6.1,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,6.2,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,6.3,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,6.4,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,6.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,0,1,1,,,,,"",""
+ball,1,6.6,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,6.7,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,7.1,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,H Kenula,0,0,,,,,,"",""
+ball,1,7.2,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,H Kenula,0,0,,,,,,"",""
+ball,1,7.3,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,H Kenula,4,0,,,,,,"",""
+ball,1,7.4,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,H Kenula,0,0,,,,,,"",""
+ball,1,7.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,H Kenula,0,0,,,,,,"",""
+ball,1,7.6,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,H Kenula,4,0,,,,,,"",""
+ball,1,8.1,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,8.2,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,8.3,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,8.4,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,8.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,8.6,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,9.1,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,0,0,,,,,,"",""
+ball,1,9.2,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,0,0,,,,,,"",""
+ball,1,9.3,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,1,0,,,,,,"",""
+ball,1,9.4,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,9.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,0,0,,,,,,"",""
+ball,1,9.6,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,1,0,,,,,,"",""
+ball,1,10.1,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,10.2,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,10.3,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,10.4,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,10.5,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,10.6,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,11.1,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,11.2,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,0,0,,,,,,"",""
+ball,1,11.3,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,1,0,,,,,,"",""
+ball,1,11.4,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,0,0,,,,,,"",""
+ball,1,11.5,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,0,0,,,,,,"",""
+ball,1,11.6,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,12.1,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,S Fernando,1,0,,,,,,"",""
+ball,1,12.2,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,S Fernando,0,0,,,,,,"",""
+ball,1,12.3,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,S Fernando,0,0,,,,,,"",""
+ball,1,12.4,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,S Fernando,0,0,,,,,,"",""
+ball,1,12.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,S Fernando,1,0,,,,,,"",""
+ball,1,12.6,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,S Fernando,1,0,,,,,,"",""
+ball,1,13.1,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,P Jayawickrama,1,0,,,,,,"",""
+ball,1,13.2,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,0,0,,,,,,"",""
+ball,1,13.3,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,0,0,,,,,,"",""
+ball,1,13.4,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,0,0,,,,,,"",""
+ball,1,13.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,0,0,,,,,,"",""
+ball,1,13.6,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,4,0,,,,,,"",""
+ball,1,14.1,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,0,0,,,,,,"",""
+ball,1,14.2,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,14.3,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,0,0,,,,,,"",""
+ball,1,14.4,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,0,0,,,,,,"",""
+ball,1,14.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,1,0,,,,,,"",""
+ball,1,14.6,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,15.1,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,P Jayawickrama,2,0,,,,,,"",""
+ball,1,15.2,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,P Jayawickrama,1,0,,,,,,"",""
+ball,1,15.3,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,4,0,,,,,,"",""
+ball,1,15.4,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,0,0,,,,,,"",""
+ball,1,15.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,0,0,,,,,,"",""
+ball,1,15.6,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,1,0,,,,,,"",""
+ball,1,16.1,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,1,0,,,,,,"",""
+ball,1,16.2,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,16.3,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,0,0,,,,,,"",""
+ball,1,16.4,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,0,0,,,,,,"",""
+ball,1,16.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,RTM Mendis,1,0,,,,,,"",""
+ball,1,16.6,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,17.1,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,P Jayawickrama,0,0,,,,,,"",""
+ball,1,17.2,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,P Jayawickrama,0,0,,,,,,"",""
+ball,1,17.3,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,P Jayawickrama,1,0,,,,,,"",""
+ball,1,17.4,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,0,0,,,,,,"",""
+ball,1,17.5,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,0,0,,,,,,"",""
+ball,1,17.6,Burgher Recreation Club,G Kotuwegoda,DS Abeywickramasingha,P Jayawickrama,0,0,,,,,,"",""
+ball,1,18.1,Burgher Recreation Club,DS Abeywickramasingha,G Kotuwegoda,RTM Mendis,0,0,,,,,,stumped,DS Abeywickramasingha
+ball,1,18.2,Burgher Recreation Club,M Subasingha,G Kotuwegoda,RTM Mendis,0,0,,,,,,bowled,M Subasingha
+ball,1,18.3,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,0,0,,,,,,"",""
+ball,1,18.4,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,18.5,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,0,0,,,,,,"",""
+ball,1,18.6,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,1,0,,,,,,"",""
+ball,1,19.1,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,P Jayawickrama,0,0,,,,,,"",""
+ball,1,19.2,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,P Jayawickrama,0,0,,,,,,"",""
+ball,1,19.3,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,P Jayawickrama,0,0,,,,,,"",""
+ball,1,19.4,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,P Jayawickrama,1,0,,,,,,"",""
+ball,1,19.5,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,P Jayawickrama,1,0,,,,,,"",""
+ball,1,19.6,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,P Jayawickrama,0,0,,,,,,"",""
+ball,1,20.1,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,0,0,,,,,,"",""
+ball,1,20.2,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,0,0,,,,,,"",""
+ball,1,20.3,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,20.4,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,0,0,,,,,,"",""
+ball,1,20.5,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,0,0,,,,,,"",""
+ball,1,20.6,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,4,0,,,,,,"",""
+ball,1,21.1,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,21.2,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,21.3,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,21.4,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,21.5,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,21.6,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,22.1,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,0,0,,,,,,"",""
+ball,1,22.2,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,2,0,,,,,,"",""
+ball,1,22.3,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,22.4,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,0,0,,,,,,"",""
+ball,1,22.5,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,4,0,,,,,,"",""
+ball,1,22.6,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,1,0,,,,,,"",""
+ball,1,23.1,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,23.2,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,23.3,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RMMP Rathnayake,1,0,,,,,,"",""
+ball,1,23.4,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,0,1,1,,,,,"",""
+ball,1,23.5,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,23.6,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,4,0,,,,,,"",""
+ball,1,23.7,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RMMP Rathnayake,0,0,,,,,,"",""
+ball,1,24.1,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,1,0,,,,,,"",""
+ball,1,24.2,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,0,0,,,,,,"",""
+ball,1,24.3,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,0,0,,,,,,"",""
+ball,1,24.4,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,RTM Mendis,1,0,,,,,,"",""
+ball,1,24.5,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,0,0,,,,,,"",""
+ball,1,24.6,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,RTM Mendis,1,0,,,,,,"",""
+ball,1,25.1,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,Hasith Rathnakake,0,0,,,,,,"",""
+ball,1,25.2,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,Hasith Rathnakake,1,0,,,,,,"",""
+ball,1,25.3,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,Hasith Rathnakake,1,0,,,,,,"",""
+ball,1,25.4,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,Hasith Rathnakake,0,0,,,,,,"",""
+ball,1,25.5,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,Hasith Rathnakake,1,0,,,,,,"",""
+ball,1,25.6,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,Hasith Rathnakake,1,0,,,,,,"",""
+ball,1,26.1,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,S Fernando,4,0,,,,,,"",""
+ball,1,26.2,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,S Fernando,1,0,,,,,,"",""
+ball,1,26.3,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,S Fernando,0,0,,,,,,"",""
+ball,1,26.4,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,S Fernando,1,0,,,,,,"",""
+ball,1,26.5,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,S Fernando,4,0,,,,,,"",""
+ball,1,26.6,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,S Fernando,0,0,,,,,,"",""
+ball,1,27.1,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,Hasith Rathnakake,1,0,,,,,,"",""
+ball,1,27.2,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,Hasith Rathnakake,0,0,,,,,,"",""
+ball,1,27.3,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,Hasith Rathnakake,0,0,,,,,,"",""
+ball,1,27.4,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,Hasith Rathnakake,0,0,,,,,,"",""
+ball,1,27.5,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,Hasith Rathnakake,1,0,,,,,,"",""
+ball,1,27.6,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,Hasith Rathnakake,2,0,,,,,,"",""
+ball,1,28.1,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,H Kenula,1,0,,,,,,"",""
+ball,1,28.2,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,H Kenula,0,0,,,,,,"",""
+ball,1,28.3,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,H Kenula,0,0,,,,,,"",""
+ball,1,28.4,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,H Kenula,0,1,,,,1,,"",""
+ball,1,28.5,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,28.6,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,H Kenula,0,0,,,,,,"",""
+ball,1,29.1,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,Hasith Rathnakake,4,0,,,,,,"",""
+ball,1,29.2,Burgher Recreation Club,G Kotuwegoda,Y Rodrigo,Hasith Rathnakake,1,0,,,,,,"",""
+ball,1,29.3,Burgher Recreation Club,Y Rodrigo,G Kotuwegoda,Hasith Rathnakake,0,0,,,,,,caught,Y Rodrigo
+ball,1,29.4,Burgher Recreation Club,C Dissanayake,G Kotuwegoda,Hasith Rathnakake,1,0,,,,,,"",""
+ball,1,29.5,Burgher Recreation Club,G Kotuwegoda,C Dissanayake,Hasith Rathnakake,1,0,,,,,,"",""
+ball,1,29.6,Burgher Recreation Club,C Dissanayake,G Kotuwegoda,Hasith Rathnakake,0,0,,,,,,"",""
+ball,1,30.1,Burgher Recreation Club,G Kotuwegoda,C Dissanayake,P Jayawickrama,1,0,,,,,,"",""
+ball,1,30.2,Burgher Recreation Club,C Dissanayake,G Kotuwegoda,P Jayawickrama,0,0,,,,,,"",""
+ball,1,30.3,Burgher Recreation Club,C Dissanayake,G Kotuwegoda,P Jayawickrama,4,0,,,,,,"",""
+ball,1,30.4,Burgher Recreation Club,C Dissanayake,G Kotuwegoda,P Jayawickrama,1,0,,,,,,"",""
+ball,1,30.5,Burgher Recreation Club,G Kotuwegoda,C Dissanayake,P Jayawickrama,0,0,,,,,,"",""
+ball,1,30.6,Burgher Recreation Club,G Kotuwegoda,C Dissanayake,P Jayawickrama,0,0,,,,,,bowled,G Kotuwegoda
+ball,1,31.1,Burgher Recreation Club,C Dissanayake,PWS Dulshan,RTM Mendis,0,0,,,,,,caught,C Dissanayake
+ball,1,31.2,Burgher Recreation Club,LS Samarajeewa,PWS Dulshan,RTM Mendis,0,0,,,,,,bowled,LS Samarajeewa
+ball,2,0.1,Moors Sports Club,J Perera,Ravishan de Silva,Y Rodrigo,0,0,,,,,,"",""
+ball,2,0.2,Moors Sports Club,J Perera,Ravishan de Silva,Y Rodrigo,1,0,,,,,,"",""
+ball,2,0.3,Moors Sports Club,Ravishan de Silva,J Perera,Y Rodrigo,0,0,,,,,,"",""
+ball,2,0.4,Moors Sports Club,Ravishan de Silva,J Perera,Y Rodrigo,1,0,,,,,,"",""
+ball,2,0.5,Moors Sports Club,J Perera,Ravishan de Silva,Y Rodrigo,4,0,,,,,,"",""
+ball,2,0.6,Moors Sports Club,J Perera,Ravishan de Silva,Y Rodrigo,1,0,,,,,,"",""
+ball,2,1.1,Moors Sports Club,Ravishan de Silva,J Perera,T Ashel,0,0,,,,,,"",""
+ball,2,1.2,Moors Sports Club,Ravishan de Silva,J Perera,T Ashel,0,0,,,,,,"",""
+ball,2,1.3,Moors Sports Club,Ravishan de Silva,J Perera,T Ashel,4,0,,,,,,"",""
+ball,2,1.4,Moors Sports Club,Ravishan de Silva,J Perera,T Ashel,0,0,,,,,,"",""
+ball,2,1.5,Moors Sports Club,Ravishan de Silva,J Perera,T Ashel,0,0,,,,,,"",""
+ball,2,1.6,Moors Sports Club,Ravishan de Silva,J Perera,T Ashel,0,0,,,,,,"",""
+ball,2,2.1,Moors Sports Club,J Perera,Ravishan de Silva,Y Rodrigo,3,0,,,,,,"",""
+ball,2,2.2,Moors Sports Club,Ravishan de Silva,J Perera,Y Rodrigo,0,0,,,,,,"",""
+ball,2,2.3,Moors Sports Club,Ravishan de Silva,J Perera,Y Rodrigo,0,0,,,,,,"",""
+ball,2,2.4,Moors Sports Club,Ravishan de Silva,J Perera,Y Rodrigo,0,0,,,,,,"",""
+ball,2,2.5,Moors Sports Club,Ravishan de Silva,J Perera,Y Rodrigo,4,0,,,,,,"",""
+ball,2,2.6,Moors Sports Club,Ravishan de Silva,J Perera,Y Rodrigo,0,0,,,,,,"",""
+ball,2,3.1,Moors Sports Club,J Perera,Ravishan de Silva,LS Samarajeewa,4,0,,,,,,"",""
+ball,2,3.2,Moors Sports Club,J Perera,Ravishan de Silva,LS Samarajeewa,2,0,,,,,,"",""
+ball,2,3.3,Moors Sports Club,J Perera,Ravishan de Silva,LS Samarajeewa,0,0,,,,,,"",""
+ball,2,3.4,Moors Sports Club,J Perera,Ravishan de Silva,LS Samarajeewa,0,0,,,,,,"",""
+ball,2,3.5,Moors Sports Club,J Perera,Ravishan de Silva,LS Samarajeewa,4,0,,,,,,"",""
+ball,2,3.6,Moors Sports Club,J Perera,Ravishan de Silva,LS Samarajeewa,4,0,,,,,,"",""
+ball,2,4.1,Moors Sports Club,Ravishan de Silva,J Perera,Y Rodrigo,0,0,,,,,,"",""
+ball,2,4.2,Moors Sports Club,Ravishan de Silva,J Perera,Y Rodrigo,1,0,,,,,,"",""
+ball,2,4.3,Moors Sports Club,J Perera,Ravishan de Silva,Y Rodrigo,0,0,,,,,,"",""
+ball,2,4.4,Moors Sports Club,J Perera,Ravishan de Silva,Y Rodrigo,4,0,,,,,,"",""
+ball,2,4.5,Moors Sports Club,J Perera,Ravishan de Silva,Y Rodrigo,4,0,,,,,,"",""
+ball,2,4.6,Moors Sports Club,J Perera,Ravishan de Silva,Y Rodrigo,0,0,,,,,,"",""
+ball,2,5.1,Moors Sports Club,Ravishan de Silva,J Perera,PWS Dulshan,0,0,,,,,,"",""
+ball,2,5.2,Moors Sports Club,Ravishan de Silva,J Perera,PWS Dulshan,0,0,,,,,,"",""
+ball,2,5.3,Moors Sports Club,Ravishan de Silva,J Perera,PWS Dulshan,6,0,,,,,,"",""
+ball,2,5.4,Moors Sports Club,Ravishan de Silva,J Perera,PWS Dulshan,0,0,,,,,,"",""
+ball,2,5.5,Moors Sports Club,Ravishan de Silva,J Perera,PWS Dulshan,1,0,,,,,,"",""
+ball,2,5.6,Moors Sports Club,J Perera,Ravishan de Silva,PWS Dulshan,0,0,,,,,,"",""
+ball,2,6.1,Moors Sports Club,Ravishan de Silva,J Perera,LS Samarajeewa,0,0,,,,,,"",""
+ball,2,6.2,Moors Sports Club,Ravishan de Silva,J Perera,LS Samarajeewa,0,0,,,,,,"",""
+ball,2,6.3,Moors Sports Club,Ravishan de Silva,J Perera,LS Samarajeewa,0,0,,,,,,"",""
+ball,2,6.4,Moors Sports Club,Ravishan de Silva,J Perera,LS Samarajeewa,4,0,,,,,,"",""
+ball,2,6.5,Moors Sports Club,Ravishan de Silva,J Perera,LS Samarajeewa,0,0,,,,,,"",""
+ball,2,6.6,Moors Sports Club,Ravishan de Silva,J Perera,LS Samarajeewa,0,0,,,,,,"",""
+ball,2,7.1,Moors Sports Club,J Perera,Ravishan de Silva,PWS Dulshan,0,0,,,,,,"",""
+ball,2,7.2,Moors Sports Club,J Perera,Ravishan de Silva,PWS Dulshan,0,0,,,,,,bowled,J Perera
+ball,2,7.3,Moors Sports Club,S Gimhan,Ravishan de Silva,PWS Dulshan,0,0,,,,,,"",""
+ball,2,7.4,Moors Sports Club,S Gimhan,Ravishan de Silva,PWS Dulshan,0,0,,,,,,"",""
+ball,2,7.5,Moors Sports Club,S Gimhan,Ravishan de Silva,PWS Dulshan,1,0,,,,,,"",""
+ball,2,7.6,Moors Sports Club,Ravishan de Silva,S Gimhan,PWS Dulshan,0,0,,,,,,caught,Ravishan de Silva
+ball,2,8.1,Moors Sports Club,S Gimhan,S Samarawickrama,M Subasingha,0,0,,,,,,"",""
+ball,2,8.2,Moors Sports Club,S Gimhan,S Samarawickrama,M Subasingha,0,0,,,,,,"",""
+ball,2,8.3,Moors Sports Club,S Gimhan,S Samarawickrama,M Subasingha,0,0,,,,,,"",""
+ball,2,8.4,Moors Sports Club,S Gimhan,S Samarawickrama,M Subasingha,4,0,,,,,,"",""
+ball,2,8.5,Moors Sports Club,S Gimhan,S Samarawickrama,M Subasingha,0,0,,,,,,caught and bowled,S Gimhan
+ball,2,8.6,Moors Sports Club,RTM Mendis,S Samarawickrama,M Subasingha,0,0,,,,,,"",""
+ball,2,9.1,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,0,0,,,,,,"",""
+ball,2,9.2,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,1,0,,,,,,"",""
+ball,2,9.3,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,1,0,,,,,,"",""
+ball,2,9.4,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,0,0,,,,,,"",""
+ball,2,9.5,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,0,0,,,,,,"",""
+ball,2,9.6,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,0,0,,,,,,"",""
+ball,2,10.1,Moors Sports Club,RTM Mendis,S Samarawickrama,M Subasingha,0,1,,,,1,,"",""
+ball,2,10.2,Moors Sports Club,S Samarawickrama,RTM Mendis,M Subasingha,0,0,,,,,,"",""
+ball,2,10.3,Moors Sports Club,S Samarawickrama,RTM Mendis,M Subasingha,0,0,,,,,,"",""
+ball,2,10.4,Moors Sports Club,S Samarawickrama,RTM Mendis,M Subasingha,1,0,,,,,,"",""
+ball,2,10.5,Moors Sports Club,RTM Mendis,S Samarawickrama,M Subasingha,1,0,,,,,,"",""
+ball,2,10.6,Moors Sports Club,S Samarawickrama,RTM Mendis,M Subasingha,0,0,,,,,,"",""
+ball,2,11.1,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,11.2,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,11.3,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,11.4,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,11.5,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,11.6,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,12.1,Moors Sports Club,S Samarawickrama,RTM Mendis,C Heenatigala,4,0,,,,,,"",""
+ball,2,12.2,Moors Sports Club,S Samarawickrama,RTM Mendis,C Heenatigala,0,0,,,,,,"",""
+ball,2,12.3,Moors Sports Club,S Samarawickrama,RTM Mendis,C Heenatigala,4,0,,,,,,"",""
+ball,2,12.4,Moors Sports Club,S Samarawickrama,RTM Mendis,C Heenatigala,0,0,,,,,,"",""
+ball,2,12.5,Moors Sports Club,S Samarawickrama,RTM Mendis,C Heenatigala,0,0,,,,,,"",""
+ball,2,12.6,Moors Sports Club,S Samarawickrama,RTM Mendis,C Heenatigala,1,0,,,,,,"",""
+ball,2,13.1,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,0,3,,,3,,,"",""
+ball,2,13.2,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,13.3,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,2,0,,,,,,"",""
+ball,2,13.4,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,13.5,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,1,0,,,,,,"",""
+ball,2,13.6,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,6,0,,,,,,"",""
+ball,2,14.1,Moors Sports Club,RTM Mendis,S Samarawickrama,C Heenatigala,0,0,,,,,,"",""
+ball,2,14.2,Moors Sports Club,RTM Mendis,S Samarawickrama,C Heenatigala,0,0,,,,,,"",""
+ball,2,14.3,Moors Sports Club,RTM Mendis,S Samarawickrama,C Heenatigala,1,0,,,,,,"",""
+ball,2,14.4,Moors Sports Club,S Samarawickrama,RTM Mendis,C Heenatigala,0,0,,,,,,"",""
+ball,2,14.5,Moors Sports Club,S Samarawickrama,RTM Mendis,C Heenatigala,4,0,,,,,,"",""
+ball,2,14.6,Moors Sports Club,S Samarawickrama,RTM Mendis,C Heenatigala,0,0,,,,,,"",""
+ball,2,15.1,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,1,0,,,,,,"",""
+ball,2,15.2,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,0,0,,,,,,"",""
+ball,2,15.3,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,1,0,,,,,,"",""
+ball,2,15.4,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,2,0,,,,,,"",""
+ball,2,15.5,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,15.6,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,16.1,Moors Sports Club,S Samarawickrama,RTM Mendis,C Dissanayake,0,0,,,,,,"",""
+ball,2,16.2,Moors Sports Club,S Samarawickrama,RTM Mendis,C Dissanayake,1,0,,,,,,"",""
+ball,2,16.3,Moors Sports Club,RTM Mendis,S Samarawickrama,C Dissanayake,0,0,,,,,,"",""
+ball,2,16.4,Moors Sports Club,RTM Mendis,S Samarawickrama,C Dissanayake,1,0,,,,,,"",""
+ball,2,16.5,Moors Sports Club,S Samarawickrama,RTM Mendis,C Dissanayake,1,0,,,,,,"",""
+ball,2,16.6,Moors Sports Club,RTM Mendis,S Samarawickrama,C Dissanayake,1,0,,,,,,"",""
+ball,2,17.1,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,0,0,,,,,,"",""
+ball,2,17.2,Moors Sports Club,RTM Mendis,S Samarawickrama,PWS Dulshan,3,0,,,,,,"",""
+ball,2,17.3,Moors Sports Club,S Samarawickrama,RTM Mendis,PWS Dulshan,0,0,,,,,,lbw,S Samarawickrama
+ball,2,17.4,Moors Sports Club,RMMP Rathnayake,RTM Mendis,PWS Dulshan,0,0,,,,,,"",""
+ball,2,17.5,Moors Sports Club,RMMP Rathnayake,RTM Mendis,PWS Dulshan,6,0,,,,,,"",""
+ball,2,17.6,Moors Sports Club,RMMP Rathnayake,RTM Mendis,PWS Dulshan,0,0,,,,,,"",""
+ball,2,18.1,Moors Sports Club,RTM Mendis,RMMP Rathnayake,M Subasingha,0,0,,,,,,"",""
+ball,2,18.2,Moors Sports Club,RTM Mendis,RMMP Rathnayake,M Subasingha,0,0,,,,,,"",""
+ball,2,18.3,Moors Sports Club,RTM Mendis,RMMP Rathnayake,M Subasingha,0,0,,,,,,caught,RTM Mendis
+ball,2,18.4,Moors Sports Club,L Abeyratne,RMMP Rathnayake,M Subasingha,1,0,,,,,,"",""
+ball,2,18.5,Moors Sports Club,RMMP Rathnayake,L Abeyratne,M Subasingha,0,0,,,,,,caught,RMMP Rathnayake
+ball,2,18.6,Moors Sports Club,S Fernando,L Abeyratne,M Subasingha,0,0,,,,,,"",""
+ball,2,19.1,Moors Sports Club,L Abeyratne,S Fernando,PWS Dulshan,0,0,,,,,,"",""
+ball,2,19.2,Moors Sports Club,L Abeyratne,S Fernando,PWS Dulshan,0,0,,,,,,"",""
+ball,2,19.3,Moors Sports Club,L Abeyratne,S Fernando,PWS Dulshan,1,0,,,,,,"",""
+ball,2,19.4,Moors Sports Club,S Fernando,L Abeyratne,PWS Dulshan,0,0,,,,,,"",""
+ball,2,19.5,Moors Sports Club,S Fernando,L Abeyratne,PWS Dulshan,1,0,,,,,,"",""
+ball,2,19.6,Moors Sports Club,L Abeyratne,S Fernando,PWS Dulshan,0,0,,,,,,"",""
+ball,2,20.1,Moors Sports Club,S Fernando,L Abeyratne,M Subasingha,0,0,,,,,,"",""
+ball,2,20.2,Moors Sports Club,S Fernando,L Abeyratne,M Subasingha,1,0,,,,,,"",""
+ball,2,20.3,Moors Sports Club,L Abeyratne,S Fernando,M Subasingha,1,0,,,,,,"",""
+ball,2,20.4,Moors Sports Club,S Fernando,L Abeyratne,M Subasingha,4,0,,,,,,"",""
+ball,2,20.5,Moors Sports Club,S Fernando,L Abeyratne,M Subasingha,0,0,,,,,,"",""
+ball,2,20.6,Moors Sports Club,S Fernando,L Abeyratne,M Subasingha,0,0,,,,,,"",""
+ball,2,21.1,Moors Sports Club,L Abeyratne,S Fernando,PWS Dulshan,4,0,,,,,,"",""
+ball,2,21.2,Moors Sports Club,L Abeyratne,S Fernando,PWS Dulshan,0,0,,,,,,"",""
+ball,2,21.3,Moors Sports Club,L Abeyratne,S Fernando,PWS Dulshan,1,0,,,,,,"",""
+ball,2,21.4,Moors Sports Club,S Fernando,L Abeyratne,PWS Dulshan,0,0,,,,,,caught,S Fernando
+ball,2,21.5,Moors Sports Club,H Kenula,L Abeyratne,PWS Dulshan,0,0,,,,,,"",""
+ball,2,21.6,Moors Sports Club,H Kenula,L Abeyratne,PWS Dulshan,0,0,,,,,,"",""
+ball,2,22.1,Moors Sports Club,L Abeyratne,H Kenula,C Dissanayake,1,0,,,,,,"",""
+ball,2,22.2,Moors Sports Club,H Kenula,L Abeyratne,C Dissanayake,0,0,,,,,,"",""
+ball,2,22.3,Moors Sports Club,H Kenula,L Abeyratne,C Dissanayake,0,0,,,,,,"",""
+ball,2,22.4,Moors Sports Club,H Kenula,L Abeyratne,C Dissanayake,0,0,,,,,,"",""
+ball,2,22.5,Moors Sports Club,H Kenula,L Abeyratne,C Dissanayake,0,0,,,,,,"",""
+ball,2,22.6,Moors Sports Club,H Kenula,L Abeyratne,C Dissanayake,1,0,,,,,,"",""
+ball,2,23.1,Moors Sports Club,H Kenula,L Abeyratne,PWS Dulshan,1,0,,,,,,"",""
+ball,2,23.2,Moors Sports Club,L Abeyratne,H Kenula,PWS Dulshan,0,0,,,,,,"",""
+ball,2,23.3,Moors Sports Club,L Abeyratne,H Kenula,PWS Dulshan,0,0,,,,,,"",""
+ball,2,23.4,Moors Sports Club,L Abeyratne,H Kenula,PWS Dulshan,0,0,,,,,,"",""
+ball,2,23.5,Moors Sports Club,L Abeyratne,H Kenula,PWS Dulshan,0,0,,,,,,"",""
+ball,2,23.6,Moors Sports Club,L Abeyratne,H Kenula,PWS Dulshan,1,0,,,,,,"",""
+ball,2,24.1,Moors Sports Club,L Abeyratne,H Kenula,C Dissanayake,1,0,,,,,,"",""
+ball,2,24.2,Moors Sports Club,H Kenula,L Abeyratne,C Dissanayake,2,0,,,,,,"",""
+ball,2,24.3,Moors Sports Club,H Kenula,L Abeyratne,C Dissanayake,0,0,,,,,,"",""
+ball,2,24.4,Moors Sports Club,H Kenula,L Abeyratne,C Dissanayake,4,0,,,,,,"",""

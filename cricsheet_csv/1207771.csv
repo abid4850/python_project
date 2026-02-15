@@ -1,0 +1,308 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Kent
+info,gender,male
+info,season,2020
+info,date,2020/09/18
+info,event,Vitality Blast
+info,venue,St Lawrence Ground
+info,city,Canterbury
+info,toss_winner,Essex
+info,toss_decision,bat
+info,player_of_match,JA Leaning
+info,umpire,MJ Saggers
+info,umpire,NJ Llong
+info,match_referee,SJ Davis
+info,winner,Kent
+info,winner_wickets,4
+info,player,Essex,CS Delport
+info,player,Essex,T Westley
+info,player,Essex,DW Lawrence
+info,player,Essex,MS Pepper
+info,player,Essex,RN ten Doeschate
+info,player,Essex,PI Walter
+info,player,Essex,SR Harmer
+info,player,Essex,JH Plom
+info,player,Essex,ASS Nijjar
+info,player,Essex,SJ Cook
+info,player,Essex,MR Quinn
+info,player,Kent,Z Crawley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,HG Kuhn
+info,player,Kent,SW Billings
+info,player,Kent,AJ Blake
+info,player,Kent,JA Leaning
+info,player,Kent,G Stewart
+info,player,Kent,ME Milnes
+info,player,Kent,Imran Qayyum
+info,player,Kent,FJ Klaassen
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,G Stewart,a77472dc
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,Imran Qayyum,e5652e3d
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JH Plom,23f2143b
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MR Quinn,b082d112
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RN ten Doeschate,4ec07775
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SR Harmer,23638956
+info,registry,people,SW Billings,c16d4035
+info,registry,people,T Westley,25a42048
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,Essex,CS Delport,T Westley,JL Denly,1,0,,,,,,"",""
+ball,1,0.2,Essex,T Westley,CS Delport,JL Denly,1,0,,,,,,"",""
+ball,1,0.3,Essex,CS Delport,T Westley,JL Denly,1,0,,,,,,"",""
+ball,1,0.4,Essex,T Westley,CS Delport,JL Denly,0,0,,,,,,"",""
+ball,1,0.5,Essex,T Westley,CS Delport,JL Denly,4,0,,,,,,"",""
+ball,1,0.6,Essex,T Westley,CS Delport,JL Denly,4,0,,,,,,"",""
+ball,1,1.1,Essex,CS Delport,T Westley,ME Milnes,4,0,,,,,,"",""
+ball,1,1.2,Essex,CS Delport,T Westley,ME Milnes,0,1,,,,1,,"",""
+ball,1,1.3,Essex,T Westley,CS Delport,ME Milnes,0,0,,,,,,"",""
+ball,1,1.4,Essex,T Westley,CS Delport,ME Milnes,4,0,,,,,,"",""
+ball,1,1.5,Essex,T Westley,CS Delport,ME Milnes,0,0,,,,,,"",""
+ball,1,1.6,Essex,T Westley,CS Delport,ME Milnes,1,0,,,,,,"",""
+ball,1,2.1,Essex,T Westley,CS Delport,FJ Klaassen,4,0,,,,,,"",""
+ball,1,2.2,Essex,T Westley,CS Delport,FJ Klaassen,4,0,,,,,,"",""
+ball,1,2.3,Essex,T Westley,CS Delport,FJ Klaassen,1,0,,,,,,"",""
+ball,1,2.4,Essex,CS Delport,T Westley,FJ Klaassen,1,0,,,,,,"",""
+ball,1,2.5,Essex,T Westley,CS Delport,FJ Klaassen,4,0,,,,,,"",""
+ball,1,2.6,Essex,T Westley,CS Delport,FJ Klaassen,0,0,,,,,,"",""
+ball,1,3.1,Essex,CS Delport,T Westley,G Stewart,0,0,,,,,,"",""
+ball,1,3.2,Essex,CS Delport,T Westley,G Stewart,4,0,,,,,,"",""
+ball,1,3.3,Essex,CS Delport,T Westley,G Stewart,0,0,,,,,,"",""
+ball,1,3.4,Essex,CS Delport,T Westley,G Stewart,0,1,1,,,,,"",""
+ball,1,3.5,Essex,CS Delport,T Westley,G Stewart,1,0,,,,,,"",""
+ball,1,3.6,Essex,T Westley,CS Delport,G Stewart,4,0,,,,,,"",""
+ball,1,3.7,Essex,T Westley,CS Delport,G Stewart,1,0,,,,,,"",""
+ball,1,4.1,Essex,T Westley,CS Delport,FJ Klaassen,0,0,,,,,,"",""
+ball,1,4.2,Essex,T Westley,CS Delport,FJ Klaassen,1,0,,,,,,"",""
+ball,1,4.3,Essex,CS Delport,T Westley,FJ Klaassen,1,0,,,,,,"",""
+ball,1,4.4,Essex,T Westley,CS Delport,FJ Klaassen,6,0,,,,,,"",""
+ball,1,4.5,Essex,T Westley,CS Delport,FJ Klaassen,0,0,,,,,,caught,T Westley
+ball,1,4.6,Essex,DW Lawrence,CS Delport,FJ Klaassen,0,0,,,,,,"",""
+ball,1,5.1,Essex,CS Delport,DW Lawrence,ME Milnes,0,0,,,,,,"",""
+ball,1,5.2,Essex,CS Delport,DW Lawrence,ME Milnes,0,0,,,,,,"",""
+ball,1,5.3,Essex,CS Delport,DW Lawrence,ME Milnes,4,0,,,,,,"",""
+ball,1,5.4,Essex,CS Delport,DW Lawrence,ME Milnes,1,0,,,,,,"",""
+ball,1,5.5,Essex,DW Lawrence,CS Delport,ME Milnes,0,0,,,,,,"",""
+ball,1,5.6,Essex,DW Lawrence,CS Delport,ME Milnes,1,0,,,,,,"",""
+ball,1,6.1,Essex,DW Lawrence,CS Delport,Imran Qayyum,1,0,,,,,,"",""
+ball,1,6.2,Essex,CS Delport,DW Lawrence,Imran Qayyum,1,0,,,,,,"",""
+ball,1,6.3,Essex,DW Lawrence,CS Delport,Imran Qayyum,1,0,,,,,,"",""
+ball,1,6.4,Essex,CS Delport,DW Lawrence,Imran Qayyum,1,0,,,,,,"",""
+ball,1,6.5,Essex,DW Lawrence,CS Delport,Imran Qayyum,0,0,,,,,,caught,DW Lawrence
+ball,1,6.6,Essex,CS Delport,MS Pepper,Imran Qayyum,1,0,,,,,,"",""
+ball,1,7.1,Essex,CS Delport,MS Pepper,G Stewart,1,0,,,,,,"",""
+ball,1,7.2,Essex,MS Pepper,CS Delport,G Stewart,0,0,,,,,,"",""
+ball,1,7.3,Essex,MS Pepper,CS Delport,G Stewart,1,0,,,,,,"",""
+ball,1,7.4,Essex,CS Delport,MS Pepper,G Stewart,1,0,,,,,,"",""
+ball,1,7.5,Essex,MS Pepper,CS Delport,G Stewart,1,0,,,,,,"",""
+ball,1,7.6,Essex,CS Delport,MS Pepper,G Stewart,0,0,,,,,,run out,MS Pepper
+ball,1,8.1,Essex,RN ten Doeschate,CS Delport,JL Denly,1,0,,,,,,"",""
+ball,1,8.2,Essex,CS Delport,RN ten Doeschate,JL Denly,0,0,,,,,,"",""
+ball,1,8.3,Essex,CS Delport,RN ten Doeschate,JL Denly,1,0,,,,,,"",""
+ball,1,8.4,Essex,RN ten Doeschate,CS Delport,JL Denly,3,0,,,,,,"",""
+ball,1,8.5,Essex,CS Delport,RN ten Doeschate,JL Denly,2,0,,,,,,"",""
+ball,1,8.6,Essex,CS Delport,RN ten Doeschate,JL Denly,1,0,,,,,,"",""
+ball,1,9.1,Essex,CS Delport,RN ten Doeschate,G Stewart,1,0,,,,,,"",""
+ball,1,9.2,Essex,RN ten Doeschate,CS Delport,G Stewart,0,0,,,,,,run out,CS Delport
+ball,1,9.3,Essex,PI Walter,RN ten Doeschate,G Stewart,0,0,,,,,,"",""
+ball,1,9.4,Essex,PI Walter,RN ten Doeschate,G Stewart,0,0,,,,,,"",""
+ball,1,9.5,Essex,PI Walter,RN ten Doeschate,G Stewart,0,0,,,,,,"",""
+ball,1,9.6,Essex,PI Walter,RN ten Doeschate,G Stewart,1,0,,,,,,"",""
+ball,1,10.1,Essex,PI Walter,RN ten Doeschate,JL Denly,1,0,,,,,,"",""
+ball,1,10.2,Essex,RN ten Doeschate,PI Walter,JL Denly,0,0,,,,,,"",""
+ball,1,10.3,Essex,RN ten Doeschate,PI Walter,JL Denly,1,0,,,,,,"",""
+ball,1,10.4,Essex,PI Walter,RN ten Doeschate,JL Denly,1,0,,,,,,"",""
+ball,1,10.5,Essex,RN ten Doeschate,PI Walter,JL Denly,0,0,,,,,,"",""
+ball,1,10.6,Essex,RN ten Doeschate,PI Walter,JL Denly,4,0,,,,,,"",""
+ball,1,11.1,Essex,PI Walter,RN ten Doeschate,JA Leaning,4,0,,,,,,"",""
+ball,1,11.2,Essex,PI Walter,RN ten Doeschate,JA Leaning,2,0,,,,,,"",""
+ball,1,11.3,Essex,PI Walter,RN ten Doeschate,JA Leaning,0,0,,,,,,"",""
+ball,1,11.4,Essex,PI Walter,RN ten Doeschate,JA Leaning,0,0,,,,,,"",""
+ball,1,11.5,Essex,PI Walter,RN ten Doeschate,JA Leaning,1,0,,,,,,"",""
+ball,1,11.6,Essex,RN ten Doeschate,PI Walter,JA Leaning,1,0,,,,,,"",""
+ball,1,12.1,Essex,RN ten Doeschate,PI Walter,Imran Qayyum,0,0,,,,,,"",""
+ball,1,12.2,Essex,RN ten Doeschate,PI Walter,Imran Qayyum,1,0,,,,,,"",""
+ball,1,12.3,Essex,PI Walter,RN ten Doeschate,Imran Qayyum,6,0,,,,,,"",""
+ball,1,12.4,Essex,PI Walter,RN ten Doeschate,Imran Qayyum,1,0,,,,,,"",""
+ball,1,12.5,Essex,RN ten Doeschate,PI Walter,Imran Qayyum,1,0,,,,,,"",""
+ball,1,12.6,Essex,PI Walter,RN ten Doeschate,Imran Qayyum,1,0,,,,,,"",""
+ball,1,13.1,Essex,PI Walter,RN ten Doeschate,ME Milnes,1,0,,,,,,"",""
+ball,1,13.2,Essex,RN ten Doeschate,PI Walter,ME Milnes,1,0,,,,,,"",""
+ball,1,13.3,Essex,PI Walter,RN ten Doeschate,ME Milnes,0,0,,,,,,caught,PI Walter
+ball,1,13.4,Essex,RN ten Doeschate,SR Harmer,ME Milnes,0,0,,,,,,"",""
+ball,1,13.5,Essex,RN ten Doeschate,SR Harmer,ME Milnes,1,0,,,,,,"",""
+ball,1,13.6,Essex,SR Harmer,RN ten Doeschate,ME Milnes,1,0,,,,,,"",""
+ball,1,14.1,Essex,SR Harmer,RN ten Doeschate,Imran Qayyum,1,0,,,,,,"",""
+ball,1,14.2,Essex,RN ten Doeschate,SR Harmer,Imran Qayyum,2,0,,,,,,"",""
+ball,1,14.3,Essex,RN ten Doeschate,SR Harmer,Imran Qayyum,1,0,,,,,,"",""
+ball,1,14.4,Essex,SR Harmer,RN ten Doeschate,Imran Qayyum,1,0,,,,,,"",""
+ball,1,14.5,Essex,RN ten Doeschate,SR Harmer,Imran Qayyum,6,0,,,,,,"",""
+ball,1,14.6,Essex,RN ten Doeschate,SR Harmer,Imran Qayyum,1,0,,,,,,"",""
+ball,1,15.1,Essex,RN ten Doeschate,SR Harmer,FJ Klaassen,1,0,,,,,,"",""
+ball,1,15.2,Essex,SR Harmer,RN ten Doeschate,FJ Klaassen,1,0,,,,,,"",""
+ball,1,15.3,Essex,RN ten Doeschate,SR Harmer,FJ Klaassen,1,0,,,,,,"",""
+ball,1,15.4,Essex,SR Harmer,RN ten Doeschate,FJ Klaassen,1,0,,,,,,"",""
+ball,1,15.5,Essex,RN ten Doeschate,SR Harmer,FJ Klaassen,2,0,,,,,,"",""
+ball,1,15.6,Essex,RN ten Doeschate,SR Harmer,FJ Klaassen,4,0,,,,,,"",""
+ball,1,16.1,Essex,SR Harmer,RN ten Doeschate,ME Milnes,4,0,,,,,,"",""
+ball,1,16.2,Essex,SR Harmer,RN ten Doeschate,ME Milnes,1,0,,,,,,"",""
+ball,1,16.3,Essex,RN ten Doeschate,SR Harmer,ME Milnes,0,0,,,,,,"",""
+ball,1,16.4,Essex,RN ten Doeschate,SR Harmer,ME Milnes,2,0,,,,,,"",""
+ball,1,16.5,Essex,RN ten Doeschate,SR Harmer,ME Milnes,0,1,1,,,,,"",""
+ball,1,16.6,Essex,RN ten Doeschate,SR Harmer,ME Milnes,2,0,,,,,,"",""
+ball,1,16.7,Essex,RN ten Doeschate,SR Harmer,ME Milnes,1,0,,,,,,"",""
+ball,1,17.1,Essex,RN ten Doeschate,SR Harmer,Imran Qayyum,2,0,,,,,,"",""
+ball,1,17.2,Essex,RN ten Doeschate,SR Harmer,Imran Qayyum,0,1,1,,,,,"",""
+ball,1,17.3,Essex,RN ten Doeschate,SR Harmer,Imran Qayyum,1,0,,,,,,"",""
+ball,1,17.4,Essex,RN ten Doeschate,SR Harmer,Imran Qayyum,0,1,1,,,,,"",""
+ball,1,17.5,Essex,RN ten Doeschate,SR Harmer,Imran Qayyum,1,0,,,,,,"",""
+ball,1,17.6,Essex,SR Harmer,RN ten Doeschate,Imran Qayyum,0,0,,,,,,caught,SR Harmer
+ball,1,17.7,Essex,JH Plom,RN ten Doeschate,Imran Qayyum,1,0,,,,,,"",""
+ball,1,17.8,Essex,RN ten Doeschate,JH Plom,Imran Qayyum,6,0,,,,,,"",""
+ball,1,18.1,Essex,JH Plom,RN ten Doeschate,G Stewart,1,0,,,,,,"",""
+ball,1,18.2,Essex,RN ten Doeschate,JH Plom,G Stewart,1,0,,,,,,"",""
+ball,1,18.3,Essex,JH Plom,RN ten Doeschate,G Stewart,0,1,,,,1,,"",""
+ball,1,18.4,Essex,RN ten Doeschate,JH Plom,G Stewart,4,0,,,,,,"",""
+ball,1,18.5,Essex,RN ten Doeschate,JH Plom,G Stewart,0,0,,,,,,caught,RN ten Doeschate
+ball,1,18.6,Essex,ASS Nijjar,JH Plom,G Stewart,1,0,,,,,,"",""
+ball,1,19.1,Essex,ASS Nijjar,JH Plom,FJ Klaassen,2,0,,,,,,"",""
+ball,1,19.2,Essex,ASS Nijjar,JH Plom,FJ Klaassen,2,0,,,,,,"",""
+ball,1,19.3,Essex,ASS Nijjar,JH Plom,FJ Klaassen,0,0,,,,,,caught,ASS Nijjar
+ball,1,19.4,Essex,SJ Cook,JH Plom,FJ Klaassen,0,0,,,,,,caught,SJ Cook
+ball,1,19.5,Essex,MR Quinn,JH Plom,FJ Klaassen,0,0,,,,,,"",""
+ball,1,19.6,Essex,MR Quinn,JH Plom,FJ Klaassen,0,1,,,1,,,"",""
+ball,2,0.1,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,2,0.2,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,1,0,,,,,,"",""
+ball,2,0.3,Kent,Z Crawley,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,2,0.4,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,0,0,,,,,,"",""
+ball,2,0.5,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,0,0,,,,,,"",""
+ball,2,0.6,Kent,DJ Bell-Drummond,Z Crawley,ASS Nijjar,1,0,,,,,,"",""
+ball,2,1.1,Kent,DJ Bell-Drummond,Z Crawley,MR Quinn,0,0,,,,,,"",""
+ball,2,1.2,Kent,DJ Bell-Drummond,Z Crawley,MR Quinn,0,0,,,,,,"",""
+ball,2,1.3,Kent,DJ Bell-Drummond,Z Crawley,MR Quinn,0,0,,,,,,"",""
+ball,2,1.4,Kent,DJ Bell-Drummond,Z Crawley,MR Quinn,1,0,,,,,,"",""
+ball,2,1.5,Kent,Z Crawley,DJ Bell-Drummond,MR Quinn,1,0,,,,,,"",""
+ball,2,1.6,Kent,DJ Bell-Drummond,Z Crawley,MR Quinn,1,0,,,,,,"",""
+ball,2,2.1,Kent,DJ Bell-Drummond,Z Crawley,SJ Cook,1,0,,,,,,"",""
+ball,2,2.2,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,1,0,,,,,,"",""
+ball,2,2.3,Kent,DJ Bell-Drummond,Z Crawley,SJ Cook,1,0,,,,,,"",""
+ball,2,2.4,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,4,0,,,,,,"",""
+ball,2,2.5,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,0,0,,,,,,"",""
+ball,2,2.6,Kent,Z Crawley,DJ Bell-Drummond,SJ Cook,1,0,,,,,,"",""
+ball,2,3.1,Kent,Z Crawley,DJ Bell-Drummond,JH Plom,0,0,,,,,,bowled,Z Crawley
+ball,2,3.2,Kent,JL Denly,DJ Bell-Drummond,JH Plom,0,0,,,,,,"",""
+ball,2,3.3,Kent,JL Denly,DJ Bell-Drummond,JH Plom,0,1,1,,,,,"",""
+ball,2,3.4,Kent,JL Denly,DJ Bell-Drummond,JH Plom,4,0,,,,,,"",""
+ball,2,3.5,Kent,JL Denly,DJ Bell-Drummond,JH Plom,2,0,,,,,,"",""
+ball,2,3.6,Kent,JL Denly,DJ Bell-Drummond,JH Plom,0,0,,,,,,"",""
+ball,2,3.7,Kent,JL Denly,DJ Bell-Drummond,JH Plom,1,0,,,,,,"",""
+ball,2,4.1,Kent,JL Denly,DJ Bell-Drummond,SJ Cook,0,0,,,,,,"",""
+ball,2,4.2,Kent,JL Denly,DJ Bell-Drummond,SJ Cook,4,0,,,,,,"",""
+ball,2,4.3,Kent,JL Denly,DJ Bell-Drummond,SJ Cook,4,0,,,,,,"",""
+ball,2,4.4,Kent,JL Denly,DJ Bell-Drummond,SJ Cook,6,0,,,,,,"",""
+ball,2,4.5,Kent,JL Denly,DJ Bell-Drummond,SJ Cook,0,0,,,,,,"",""
+ball,2,4.6,Kent,JL Denly,DJ Bell-Drummond,SJ Cook,0,0,,,,,,"",""
+ball,2,5.1,Kent,DJ Bell-Drummond,JL Denly,MR Quinn,1,0,,,,,,"",""
+ball,2,5.2,Kent,JL Denly,DJ Bell-Drummond,MR Quinn,1,0,,,,,,"",""
+ball,2,5.3,Kent,DJ Bell-Drummond,JL Denly,MR Quinn,1,0,,,,,,"",""
+ball,2,5.4,Kent,JL Denly,DJ Bell-Drummond,MR Quinn,1,0,,,,,,"",""
+ball,2,5.5,Kent,DJ Bell-Drummond,JL Denly,MR Quinn,4,0,,,,,,"",""
+ball,2,5.6,Kent,DJ Bell-Drummond,JL Denly,MR Quinn,1,0,,,,,,"",""
+ball,2,6.1,Kent,DJ Bell-Drummond,JL Denly,ASS Nijjar,1,0,,,,,,"",""
+ball,2,6.2,Kent,JL Denly,DJ Bell-Drummond,ASS Nijjar,0,0,,,,,,caught,JL Denly
+ball,2,6.3,Kent,HG Kuhn,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,2,6.4,Kent,DJ Bell-Drummond,HG Kuhn,ASS Nijjar,2,0,,,,,,"",""
+ball,2,6.5,Kent,DJ Bell-Drummond,HG Kuhn,ASS Nijjar,1,0,,,,,,"",""
+ball,2,6.6,Kent,HG Kuhn,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,2,7.1,Kent,HG Kuhn,DJ Bell-Drummond,SR Harmer,0,0,,,,,,"",""
+ball,2,7.2,Kent,HG Kuhn,DJ Bell-Drummond,SR Harmer,1,0,,,,,,"",""
+ball,2,7.3,Kent,DJ Bell-Drummond,HG Kuhn,SR Harmer,1,0,,,,,,"",""
+ball,2,7.4,Kent,HG Kuhn,DJ Bell-Drummond,SR Harmer,0,0,,,,,,caught,HG Kuhn
+ball,2,7.5,Kent,SW Billings,DJ Bell-Drummond,SR Harmer,0,0,,,,,,"",""
+ball,2,7.6,Kent,SW Billings,DJ Bell-Drummond,SR Harmer,0,0,,,,,,"",""
+ball,2,8.1,Kent,DJ Bell-Drummond,SW Billings,ASS Nijjar,1,0,,,,,,"",""
+ball,2,8.2,Kent,SW Billings,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,2,8.3,Kent,DJ Bell-Drummond,SW Billings,ASS Nijjar,0,0,,,,,,"",""
+ball,2,8.4,Kent,DJ Bell-Drummond,SW Billings,ASS Nijjar,4,0,,,,,,"",""
+ball,2,8.5,Kent,DJ Bell-Drummond,SW Billings,ASS Nijjar,1,0,,,,,,"",""
+ball,2,8.6,Kent,SW Billings,DJ Bell-Drummond,ASS Nijjar,1,0,,,,,,"",""
+ball,2,9.1,Kent,SW Billings,DJ Bell-Drummond,SR Harmer,4,0,,,,,,"",""
+ball,2,9.2,Kent,SW Billings,DJ Bell-Drummond,SR Harmer,1,0,,,,,,"",""
+ball,2,9.3,Kent,DJ Bell-Drummond,SW Billings,SR Harmer,1,0,,,,,,"",""
+ball,2,9.4,Kent,SW Billings,DJ Bell-Drummond,SR Harmer,6,0,,,,,,"",""
+ball,2,9.5,Kent,SW Billings,DJ Bell-Drummond,SR Harmer,2,0,,,,,,"",""
+ball,2,9.6,Kent,SW Billings,DJ Bell-Drummond,SR Harmer,2,0,,,,,,"",""
+ball,2,10.1,Kent,DJ Bell-Drummond,SW Billings,JH Plom,0,0,,,,,,"",""
+ball,2,10.2,Kent,DJ Bell-Drummond,SW Billings,JH Plom,0,0,,,,,,caught,DJ Bell-Drummond
+ball,2,10.3,Kent,SW Billings,AJ Blake,JH Plom,1,0,,,,,,"",""
+ball,2,10.4,Kent,AJ Blake,SW Billings,JH Plom,1,0,,,,,,"",""
+ball,2,10.5,Kent,SW Billings,AJ Blake,JH Plom,0,0,,,,,,caught,SW Billings
+ball,2,10.6,Kent,JA Leaning,AJ Blake,JH Plom,0,0,,,,,,"",""
+ball,2,11.1,Kent,AJ Blake,JA Leaning,SR Harmer,1,0,,,,,,"",""
+ball,2,11.2,Kent,JA Leaning,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,2,11.3,Kent,AJ Blake,JA Leaning,SR Harmer,0,0,,,,,,"",""
+ball,2,11.4,Kent,AJ Blake,JA Leaning,SR Harmer,1,0,,,,,,"",""
+ball,2,11.5,Kent,JA Leaning,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,2,11.6,Kent,AJ Blake,JA Leaning,SR Harmer,0,0,,,,,,"",""
+ball,2,12.1,Kent,JA Leaning,AJ Blake,ASS Nijjar,1,0,,,,,,"",""
+ball,2,12.2,Kent,AJ Blake,JA Leaning,ASS Nijjar,1,0,,,,,,"",""
+ball,2,12.3,Kent,JA Leaning,AJ Blake,ASS Nijjar,4,0,,,,,,"",""
+ball,2,12.4,Kent,JA Leaning,AJ Blake,ASS Nijjar,1,0,,,,,,"",""
+ball,2,12.5,Kent,AJ Blake,JA Leaning,ASS Nijjar,0,0,,,,,,"",""
+ball,2,12.6,Kent,AJ Blake,JA Leaning,ASS Nijjar,6,0,,,,,,"",""
+ball,2,13.1,Kent,JA Leaning,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,2,13.2,Kent,AJ Blake,JA Leaning,SR Harmer,1,0,,,,,,"",""
+ball,2,13.3,Kent,JA Leaning,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,2,13.4,Kent,AJ Blake,JA Leaning,SR Harmer,1,0,,,,,,"",""
+ball,2,13.5,Kent,JA Leaning,AJ Blake,SR Harmer,2,0,,,,,,"",""
+ball,2,13.6,Kent,JA Leaning,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,2,14.1,Kent,JA Leaning,AJ Blake,SJ Cook,0,0,,,,,,"",""
+ball,2,14.2,Kent,JA Leaning,AJ Blake,SJ Cook,0,0,,,,,,"",""
+ball,2,14.3,Kent,JA Leaning,AJ Blake,SJ Cook,1,0,,,,,,"",""
+ball,2,14.4,Kent,AJ Blake,JA Leaning,SJ Cook,2,0,,,,,,"",""
+ball,2,14.5,Kent,AJ Blake,JA Leaning,SJ Cook,6,0,,,,,,"",""
+ball,2,14.6,Kent,AJ Blake,JA Leaning,SJ Cook,1,0,,,,,,"",""
+ball,2,15.1,Kent,AJ Blake,JA Leaning,MR Quinn,1,0,,,,,,"",""
+ball,2,15.2,Kent,JA Leaning,AJ Blake,MR Quinn,4,0,,,,,,"",""
+ball,2,15.3,Kent,JA Leaning,AJ Blake,MR Quinn,1,0,,,,,,"",""
+ball,2,15.4,Kent,AJ Blake,JA Leaning,MR Quinn,1,0,,,,,,"",""
+ball,2,15.5,Kent,JA Leaning,AJ Blake,MR Quinn,1,0,,,,,,"",""
+ball,2,15.6,Kent,AJ Blake,JA Leaning,MR Quinn,4,0,,,,,,"",""
+ball,2,16.1,Kent,JA Leaning,AJ Blake,PI Walter,1,0,,,,,,"",""
+ball,2,16.2,Kent,AJ Blake,JA Leaning,PI Walter,1,0,,,,,,"",""
+ball,2,16.3,Kent,JA Leaning,AJ Blake,PI Walter,2,0,,,,,,"",""
+ball,2,16.4,Kent,JA Leaning,AJ Blake,PI Walter,4,0,,,,,,"",""
+ball,2,16.5,Kent,JA Leaning,AJ Blake,PI Walter,2,0,,,,,,"",""
+ball,2,16.6,Kent,JA Leaning,AJ Blake,PI Walter,1,0,,,,,,"",""
+ball,2,17.1,Kent,JA Leaning,AJ Blake,JH Plom,1,0,,,,,,"",""
+ball,2,17.2,Kent,AJ Blake,JA Leaning,JH Plom,1,0,,,,,,"",""
+ball,2,17.3,Kent,JA Leaning,AJ Blake,JH Plom,0,0,,,,,,"",""
+ball,2,17.4,Kent,JA Leaning,AJ Blake,JH Plom,2,0,,,,,,"",""
+ball,2,17.5,Kent,JA Leaning,AJ Blake,JH Plom,4,0,,,,,,"",""
+ball,2,17.6,Kent,JA Leaning,AJ Blake,JH Plom,2,0,,,,,,"",""
+ball,2,18.1,Kent,AJ Blake,JA Leaning,MR Quinn,0,0,,,,,,caught,AJ Blake
+ball,2,18.2,Kent,JA Leaning,G Stewart,MR Quinn,4,0,,,,,,"",""
+ball,2,18.3,Kent,JA Leaning,G Stewart,MR Quinn,0,0,,,,,,"",""
+ball,2,18.4,Kent,JA Leaning,G Stewart,MR Quinn,1,0,,,,,,"",""
+ball,2,18.5,Kent,G Stewart,JA Leaning,MR Quinn,1,0,,,,,,"",""
+ball,2,18.6,Kent,JA Leaning,G Stewart,MR Quinn,6,0,,,,,,"",""
+ball,2,19.1,Kent,G Stewart,JA Leaning,JH Plom,1,0,,,,,,"",""
+ball,2,19.2,Kent,JA Leaning,G Stewart,JH Plom,4,0,,,,,,"",""
+ball,2,19.3,Kent,JA Leaning,G Stewart,JH Plom,1,0,,,,,,"",""
+ball,2,19.4,Kent,G Stewart,JA Leaning,JH Plom,6,0,,,,,,"",""

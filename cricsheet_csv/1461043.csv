@@ -1,0 +1,283 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Lancashire
+info,gender,female
+info,season,2025
+info,date,2025/07/18
+info,event,Vitality Blast Women
+info,match_number,55
+info,venue,"Stanley Park, Blackpool"
+info,city,Blackpool
+info,toss_winner,Lancashire
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,J Naeem
+info,match_referee,AJ Swann
+info,outcome,tie
+info,player,Somerset,R Odgers
+info,player,Somerset,N Holland
+info,player,Somerset,R Davis
+info,player,Somerset,FC Wilson
+info,player,Somerset,SN Luff
+info,player,Somerset,A Wellington
+info,player,Somerset,A Griffiths
+info,player,Somerset,C Skelton
+info,player,Somerset,E Anderson
+info,player,Somerset,MJ Robbins
+info,player,Somerset,OJ Barnes
+info,player,Lancashire,E Jones
+info,player,Lancashire,S Smale
+info,player,Lancashire,TN Kesteven
+info,player,Lancashire,A Lister
+info,player,Lancashire,FMK Morris
+info,player,Lancashire,E Threlkeld
+info,player,Lancashire,A King
+info,player,Lancashire,TG Norris
+info,player,Lancashire,DEM Carter
+info,player,Lancashire,G Potts
+info,player,Lancashire,M Gaur
+info,registry,people,A Griffiths,091001f8
+info,registry,people,A King,83558266
+info,registry,people,A Lister,090c0213
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,C Skelton,db362015
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,E Anderson,5f86ce69
+info,registry,people,E Jones,971cb321
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,G Potts,e3a93585
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,MJ Robbins,f929cd04
+info,registry,people,N Holland,aefd0567
+info,registry,people,OJ Barnes,0b0499e9
+info,registry,people,R Davis,0530b985
+info,registry,people,R Odgers,73eb8252
+info,registry,people,S Smale,3247d54e
+info,registry,people,SN Luff,e19307f3
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,TN Kesteven,0a6d368c
+ball,1,0.1,Somerset,R Odgers,N Holland,TG Norris,0,1,,,,1,,"",""
+ball,1,0.2,Somerset,N Holland,R Odgers,TG Norris,0,1,1,,,,,"",""
+ball,1,0.3,Somerset,N Holland,R Odgers,TG Norris,1,0,,,,,,"",""
+ball,1,0.4,Somerset,R Odgers,N Holland,TG Norris,6,0,,,,,,"",""
+ball,1,0.5,Somerset,R Odgers,N Holland,TG Norris,0,0,,,,,,"",""
+ball,1,0.6,Somerset,R Odgers,N Holland,TG Norris,0,0,,,,,,"",""
+ball,1,0.7,Somerset,R Odgers,N Holland,TG Norris,0,0,,,,,,caught,R Odgers
+ball,1,1.1,Somerset,N Holland,R Davis,M Gaur,0,0,,,,,,"",""
+ball,1,1.2,Somerset,N Holland,R Davis,M Gaur,0,0,,,,,,"",""
+ball,1,1.3,Somerset,N Holland,R Davis,M Gaur,4,0,,,,,,"",""
+ball,1,1.4,Somerset,N Holland,R Davis,M Gaur,0,0,,,,,,"",""
+ball,1,1.5,Somerset,N Holland,R Davis,M Gaur,0,0,,,,,,"",""
+ball,1,1.6,Somerset,N Holland,R Davis,M Gaur,0,0,,,,,,"",""
+ball,1,2.1,Somerset,R Davis,N Holland,G Potts,0,1,1,,,,,"",""
+ball,1,2.2,Somerset,R Davis,N Holland,G Potts,0,0,,,,,,"",""
+ball,1,2.3,Somerset,R Davis,N Holland,G Potts,0,0,,,,,,"",""
+ball,1,2.4,Somerset,R Davis,N Holland,G Potts,2,0,,,,,,"",""
+ball,1,2.5,Somerset,R Davis,N Holland,G Potts,0,0,,,,,,"",""
+ball,1,2.6,Somerset,R Davis,N Holland,G Potts,0,0,,,,,,"",""
+ball,1,2.7,Somerset,R Davis,N Holland,G Potts,2,0,,,,,,"",""
+ball,1,3.1,Somerset,N Holland,R Davis,M Gaur,1,0,,,,,,"",""
+ball,1,3.2,Somerset,R Davis,N Holland,M Gaur,0,2,,,2,,,"",""
+ball,1,3.3,Somerset,R Davis,N Holland,M Gaur,0,0,,,,,,"",""
+ball,1,3.4,Somerset,R Davis,N Holland,M Gaur,1,0,,,,,,"",""
+ball,1,3.5,Somerset,N Holland,R Davis,M Gaur,0,0,,,,,,"",""
+ball,1,3.6,Somerset,N Holland,R Davis,M Gaur,1,0,,,,,,"",""
+ball,1,4.1,Somerset,N Holland,R Davis,TG Norris,1,0,,,,,,"",""
+ball,1,4.2,Somerset,R Davis,N Holland,TG Norris,2,0,,,,,,"",""
+ball,1,4.3,Somerset,R Davis,N Holland,TG Norris,0,0,,,,,,"",""
+ball,1,4.4,Somerset,R Davis,N Holland,TG Norris,0,1,,,,1,,"",""
+ball,1,4.5,Somerset,N Holland,R Davis,TG Norris,0,0,,,,,,"",""
+ball,1,4.6,Somerset,N Holland,R Davis,TG Norris,0,0,,,,,,"",""
+ball,1,5.1,Somerset,R Davis,N Holland,M Gaur,0,1,,,,1,,"",""
+ball,1,5.2,Somerset,N Holland,R Davis,M Gaur,0,0,,,,,,"",""
+ball,1,5.3,Somerset,N Holland,R Davis,M Gaur,0,1,1,,,,,"",""
+ball,1,5.4,Somerset,N Holland,R Davis,M Gaur,0,0,,,,,,bowled,N Holland
+ball,1,5.5,Somerset,FC Wilson,R Davis,M Gaur,0,0,,,,,,"",""
+ball,1,5.6,Somerset,FC Wilson,R Davis,M Gaur,0,0,,,,,,caught,FC Wilson
+ball,1,5.7,Somerset,SN Luff,R Davis,M Gaur,0,0,,,,,,"",""
+ball,1,6.1,Somerset,R Davis,SN Luff,A King,0,0,,,,,,"",""
+ball,1,6.2,Somerset,R Davis,SN Luff,A King,4,0,,,,,,"",""
+ball,1,6.3,Somerset,R Davis,SN Luff,A King,1,0,,,,,,"",""
+ball,1,6.4,Somerset,SN Luff,R Davis,A King,0,0,,,,,,"",""
+ball,1,6.5,Somerset,SN Luff,R Davis,A King,1,0,,,,,,"",""
+ball,1,6.6,Somerset,R Davis,SN Luff,A King,0,0,,,,,,caught,R Davis
+ball,1,7.1,Somerset,SN Luff,A Wellington,M Gaur,0,0,,,,,,"",""
+ball,1,7.2,Somerset,SN Luff,A Wellington,M Gaur,2,0,,,,,,"",""
+ball,1,7.3,Somerset,SN Luff,A Wellington,M Gaur,0,0,,,,,,"",""
+ball,1,7.4,Somerset,SN Luff,A Wellington,M Gaur,0,1,,,,1,,"",""
+ball,1,7.5,Somerset,A Wellington,SN Luff,M Gaur,0,1,1,,,,,"",""
+ball,1,7.6,Somerset,A Wellington,SN Luff,M Gaur,4,0,,,,,,"",""
+ball,1,7.7,Somerset,A Wellington,SN Luff,M Gaur,0,0,,,,,,caught,A Wellington
+ball,1,8.1,Somerset,SN Luff,A Griffiths,DEM Carter,1,0,,,,,,"",""
+ball,1,8.2,Somerset,A Griffiths,SN Luff,DEM Carter,0,0,,,,,,"",""
+ball,1,8.3,Somerset,A Griffiths,SN Luff,DEM Carter,0,0,,,,,,"",""
+ball,1,8.4,Somerset,A Griffiths,SN Luff,DEM Carter,4,0,,,,,,"",""
+ball,1,8.5,Somerset,A Griffiths,SN Luff,DEM Carter,0,0,,,,,,"",""
+ball,1,8.6,Somerset,A Griffiths,SN Luff,DEM Carter,0,0,,,,,,"",""
+ball,1,9.1,Somerset,SN Luff,A Griffiths,A King,0,0,,,,,,"",""
+ball,1,9.2,Somerset,SN Luff,A Griffiths,A King,2,0,,,,,,"",""
+ball,1,9.3,Somerset,SN Luff,A Griffiths,A King,1,0,,,,,,"",""
+ball,1,9.4,Somerset,A Griffiths,SN Luff,A King,0,0,,,,,,"",""
+ball,1,9.5,Somerset,A Griffiths,SN Luff,A King,4,0,,,,,,"",""
+ball,1,9.6,Somerset,A Griffiths,SN Luff,A King,0,0,,,,,,"",""
+ball,1,10.1,Somerset,SN Luff,A Griffiths,G Potts,1,0,,,,,,"",""
+ball,1,10.2,Somerset,A Griffiths,SN Luff,G Potts,1,0,,,,,,"",""
+ball,1,10.3,Somerset,SN Luff,A Griffiths,G Potts,0,0,,,,,,"",""
+ball,1,10.4,Somerset,SN Luff,A Griffiths,G Potts,2,0,,,,,,"",""
+ball,1,10.5,Somerset,SN Luff,A Griffiths,G Potts,1,0,,,,,,"",""
+ball,1,10.6,Somerset,A Griffiths,SN Luff,G Potts,0,0,,,,,,"",""
+ball,1,11.1,Somerset,SN Luff,A Griffiths,DEM Carter,0,0,,,,,,"",""
+ball,1,11.2,Somerset,SN Luff,A Griffiths,DEM Carter,1,0,,,,,,"",""
+ball,1,11.3,Somerset,A Griffiths,SN Luff,DEM Carter,1,0,,,,,,"",""
+ball,1,11.4,Somerset,SN Luff,A Griffiths,DEM Carter,1,0,,,,,,"",""
+ball,1,11.5,Somerset,A Griffiths,SN Luff,DEM Carter,4,0,,,,,,"",""
+ball,1,11.6,Somerset,A Griffiths,SN Luff,DEM Carter,1,0,,,,,,"",""
+ball,1,12.1,Somerset,A Griffiths,SN Luff,A King,1,0,,,,,,"",""
+ball,1,12.2,Somerset,SN Luff,A Griffiths,A King,4,0,,,,,,"",""
+ball,1,12.3,Somerset,SN Luff,A Griffiths,A King,1,0,,,,,,"",""
+ball,1,12.4,Somerset,A Griffiths,SN Luff,A King,0,4,,,4,,,"",""
+ball,1,12.5,Somerset,A Griffiths,SN Luff,A King,1,0,,,,,,"",""
+ball,1,12.6,Somerset,SN Luff,A Griffiths,A King,0,0,,,,,,"",""
+ball,1,13.1,Somerset,A Griffiths,SN Luff,DEM Carter,1,0,,,,,,"",""
+ball,1,13.2,Somerset,SN Luff,A Griffiths,DEM Carter,1,0,,,,,,"",""
+ball,1,13.3,Somerset,A Griffiths,SN Luff,DEM Carter,0,0,,,,,,"",""
+ball,1,13.4,Somerset,A Griffiths,SN Luff,DEM Carter,1,0,,,,,,"",""
+ball,1,13.5,Somerset,SN Luff,A Griffiths,DEM Carter,4,0,,,,,,"",""
+ball,1,13.6,Somerset,SN Luff,A Griffiths,DEM Carter,1,0,,,,,,"",""
+ball,1,14.1,Somerset,SN Luff,A Griffiths,G Potts,0,0,,,,,,"",""
+ball,1,14.2,Somerset,SN Luff,A Griffiths,G Potts,2,0,,,,,,"",""
+ball,1,14.3,Somerset,SN Luff,A Griffiths,G Potts,4,0,,,,,,"",""
+ball,1,14.4,Somerset,SN Luff,A Griffiths,G Potts,2,0,,,,,,"",""
+ball,1,14.5,Somerset,SN Luff,A Griffiths,G Potts,4,0,,,,,,"",""
+ball,1,14.6,Somerset,SN Luff,A Griffiths,G Potts,0,0,,,,,,caught,SN Luff
+ball,1,15.1,Somerset,A Griffiths,C Skelton,A King,1,0,,,,,,"",""
+ball,1,15.2,Somerset,C Skelton,A Griffiths,A King,0,0,,,,,,"",""
+ball,1,15.3,Somerset,C Skelton,A Griffiths,A King,1,0,,,,,,"",""
+ball,1,15.4,Somerset,A Griffiths,C Skelton,A King,0,0,,,,,,"",""
+ball,1,15.5,Somerset,A Griffiths,C Skelton,A King,0,1,1,,,,,"",""
+ball,1,15.6,Somerset,A Griffiths,C Skelton,A King,0,0,,,,,,"",""
+ball,1,15.7,Somerset,A Griffiths,C Skelton,A King,1,0,,,,,,"",""
+ball,1,16.1,Somerset,A Griffiths,C Skelton,TG Norris,0,0,,,,,,"",""
+ball,1,16.2,Somerset,A Griffiths,C Skelton,TG Norris,2,0,,,,,,"",""
+ball,1,16.3,Somerset,A Griffiths,C Skelton,TG Norris,0,1,,1,,,,"",""
+ball,1,16.4,Somerset,A Griffiths,C Skelton,TG Norris,0,1,,,1,,,"",""
+ball,1,16.5,Somerset,C Skelton,A Griffiths,TG Norris,1,0,,,,,,"",""
+ball,1,16.6,Somerset,A Griffiths,C Skelton,TG Norris,4,0,,,,,,"",""
+ball,1,16.7,Somerset,A Griffiths,C Skelton,TG Norris,2,0,,,,,,"",""
+ball,2,0.1,Lancashire,E Jones,S Smale,MJ Robbins,0,0,,,,,,"",""
+ball,2,0.2,Lancashire,E Jones,S Smale,MJ Robbins,0,0,,,,,,"",""
+ball,2,0.3,Lancashire,E Jones,S Smale,MJ Robbins,0,0,,,,,,"",""
+ball,2,0.4,Lancashire,E Jones,S Smale,MJ Robbins,1,0,,,,,,"",""
+ball,2,0.5,Lancashire,S Smale,E Jones,MJ Robbins,0,0,,,,,,"",""
+ball,2,0.6,Lancashire,S Smale,E Jones,MJ Robbins,0,0,,,,,,"",""
+ball,2,1.1,Lancashire,E Jones,S Smale,C Skelton,0,1,1,,,,,"",""
+ball,2,1.2,Lancashire,E Jones,S Smale,C Skelton,0,1,1,,,,,"",""
+ball,2,1.3,Lancashire,E Jones,S Smale,C Skelton,1,0,,,,,,"",""
+ball,2,1.4,Lancashire,S Smale,E Jones,C Skelton,0,0,,,,,,"",""
+ball,2,1.5,Lancashire,S Smale,E Jones,C Skelton,0,0,,,,,,"",""
+ball,2,1.6,Lancashire,S Smale,E Jones,C Skelton,0,1,1,,,,,"",""
+ball,2,1.7,Lancashire,S Smale,E Jones,C Skelton,4,0,,,,,,"",""
+ball,2,1.8,Lancashire,S Smale,E Jones,C Skelton,4,0,,,,,,"",""
+ball,2,1.9,Lancashire,S Smale,E Jones,C Skelton,0,0,,,,,,"",""
+ball,2,2.1,Lancashire,E Jones,S Smale,MJ Robbins,0,0,,,,,,"",""
+ball,2,2.2,Lancashire,E Jones,S Smale,MJ Robbins,1,0,,,,,,"",""
+ball,2,2.3,Lancashire,S Smale,E Jones,MJ Robbins,1,0,,,,,,"",""
+ball,2,2.4,Lancashire,E Jones,S Smale,MJ Robbins,4,0,,,,,,"",""
+ball,2,2.5,Lancashire,E Jones,S Smale,MJ Robbins,0,0,,,,,,"",""
+ball,2,2.6,Lancashire,E Jones,S Smale,MJ Robbins,4,0,,,,,,"",""
+ball,2,3.1,Lancashire,S Smale,E Jones,OJ Barnes,1,0,,,,,,"",""
+ball,2,3.2,Lancashire,E Jones,S Smale,OJ Barnes,0,0,,,,,,"",""
+ball,2,3.3,Lancashire,E Jones,S Smale,OJ Barnes,0,0,,,,,,"",""
+ball,2,3.4,Lancashire,E Jones,S Smale,OJ Barnes,1,0,,,,,,"",""
+ball,2,3.5,Lancashire,S Smale,E Jones,OJ Barnes,1,0,,,,,,"",""
+ball,2,3.6,Lancashire,E Jones,S Smale,OJ Barnes,4,0,,,,,,"",""
+ball,2,4.1,Lancashire,S Smale,E Jones,E Anderson,0,0,,,,,,"",""
+ball,2,4.2,Lancashire,S Smale,E Jones,E Anderson,1,0,,,,,,"",""
+ball,2,4.3,Lancashire,E Jones,S Smale,E Anderson,0,1,1,,,,,"",""
+ball,2,4.4,Lancashire,E Jones,S Smale,E Anderson,2,0,,,,,,"",""
+ball,2,4.5,Lancashire,E Jones,S Smale,E Anderson,0,0,,,,,,caught,E Jones
+ball,2,4.6,Lancashire,TN Kesteven,S Smale,E Anderson,0,1,1,,,,,"",""
+ball,2,4.7,Lancashire,TN Kesteven,S Smale,E Anderson,0,0,,,,,,"",""
+ball,2,4.8,Lancashire,TN Kesteven,S Smale,E Anderson,0,0,,,,,,"",""
+ball,2,5.1,Lancashire,S Smale,TN Kesteven,A Wellington,1,0,,,,,,"",""
+ball,2,5.2,Lancashire,TN Kesteven,S Smale,A Wellington,0,0,,,,,,"",""
+ball,2,5.3,Lancashire,TN Kesteven,S Smale,A Wellington,1,0,,,,,,"",""
+ball,2,5.4,Lancashire,S Smale,TN Kesteven,A Wellington,1,0,,,,,,"",""
+ball,2,5.5,Lancashire,TN Kesteven,S Smale,A Wellington,1,0,,,,,,"",""
+ball,2,5.6,Lancashire,S Smale,TN Kesteven,A Wellington,1,0,,,,,,"",""
+ball,2,6.1,Lancashire,S Smale,TN Kesteven,OJ Barnes,1,0,,,,,,"",""
+ball,2,6.2,Lancashire,TN Kesteven,S Smale,OJ Barnes,0,0,,,,,,"",""
+ball,2,6.3,Lancashire,TN Kesteven,S Smale,OJ Barnes,1,0,,,,,,"",""
+ball,2,6.4,Lancashire,S Smale,TN Kesteven,OJ Barnes,0,0,,,,,,"",""
+ball,2,6.5,Lancashire,S Smale,TN Kesteven,OJ Barnes,0,0,,,,,,"",""
+ball,2,6.6,Lancashire,S Smale,TN Kesteven,OJ Barnes,0,0,,,,,,"",""
+ball,2,7.1,Lancashire,TN Kesteven,S Smale,C Skelton,2,0,,,,,,"",""
+ball,2,7.2,Lancashire,TN Kesteven,S Smale,C Skelton,0,0,,,,,,"",""
+ball,2,7.3,Lancashire,TN Kesteven,S Smale,C Skelton,1,0,,,,,,"",""
+ball,2,7.4,Lancashire,S Smale,TN Kesteven,C Skelton,1,0,,,,,,"",""
+ball,2,7.5,Lancashire,TN Kesteven,S Smale,C Skelton,1,0,,,,,,"",""
+ball,2,7.6,Lancashire,S Smale,TN Kesteven,C Skelton,0,0,,,,,,"",""
+ball,2,8.1,Lancashire,TN Kesteven,S Smale,A Wellington,1,0,,,,,,"",""
+ball,2,8.2,Lancashire,S Smale,TN Kesteven,A Wellington,4,0,,,,,,"",""
+ball,2,8.3,Lancashire,S Smale,TN Kesteven,A Wellington,0,0,,,,,,"",""
+ball,2,8.4,Lancashire,S Smale,TN Kesteven,A Wellington,0,0,,,,,,"",""
+ball,2,8.5,Lancashire,S Smale,TN Kesteven,A Wellington,4,0,,,,,,"",""
+ball,2,8.6,Lancashire,S Smale,TN Kesteven,A Wellington,0,0,,,,,,"",""
+ball,2,9.1,Lancashire,TN Kesteven,S Smale,A Griffiths,1,0,,,,,,"",""
+ball,2,9.2,Lancashire,S Smale,TN Kesteven,A Griffiths,0,0,,,,,,"",""
+ball,2,9.3,Lancashire,S Smale,TN Kesteven,A Griffiths,0,0,,,,,,caught,S Smale
+ball,2,9.4,Lancashire,A Lister,TN Kesteven,A Griffiths,1,0,,,,,,"",""
+ball,2,9.5,Lancashire,TN Kesteven,A Lister,A Griffiths,4,0,,,,,,"",""
+ball,2,9.6,Lancashire,TN Kesteven,A Lister,A Griffiths,4,0,,,,,,"",""
+ball,2,10.1,Lancashire,A Lister,TN Kesteven,C Skelton,0,0,,,,,,"",""
+ball,2,10.2,Lancashire,A Lister,TN Kesteven,C Skelton,0,0,,,,,,"",""
+ball,2,10.3,Lancashire,A Lister,TN Kesteven,C Skelton,1,0,,,,,,"",""
+ball,2,10.4,Lancashire,TN Kesteven,A Lister,C Skelton,0,1,1,,,,,"",""
+ball,2,10.5,Lancashire,TN Kesteven,A Lister,C Skelton,1,0,,,,,,"",""
+ball,2,10.6,Lancashire,A Lister,TN Kesteven,C Skelton,0,0,,,,,,"",""
+ball,2,10.7,Lancashire,A Lister,TN Kesteven,C Skelton,1,0,,,,,,"",""
+ball,2,11.1,Lancashire,A Lister,TN Kesteven,OJ Barnes,4,0,,,,,,"",""
+ball,2,11.2,Lancashire,A Lister,TN Kesteven,OJ Barnes,0,0,,,,,,"",""
+ball,2,11.3,Lancashire,A Lister,TN Kesteven,OJ Barnes,1,0,,,,,,"",""
+ball,2,11.4,Lancashire,TN Kesteven,A Lister,OJ Barnes,0,0,,,,,,"",""
+ball,2,11.5,Lancashire,TN Kesteven,A Lister,OJ Barnes,1,0,,,,,,"",""
+ball,2,11.6,Lancashire,A Lister,TN Kesteven,OJ Barnes,1,0,,,,,,"",""
+ball,2,12.1,Lancashire,A Lister,TN Kesteven,A Wellington,1,0,,,,,,"",""
+ball,2,12.2,Lancashire,TN Kesteven,A Lister,A Wellington,0,0,,,,,,stumped,TN Kesteven
+ball,2,12.3,Lancashire,FMK Morris,A Lister,A Wellington,0,0,,,,,,hit wicket,FMK Morris
+ball,2,12.4,Lancashire,E Threlkeld,A Lister,A Wellington,0,0,,,,,,"",""
+ball,2,12.5,Lancashire,E Threlkeld,A Lister,A Wellington,0,0,,,,,,"",""
+ball,2,12.6,Lancashire,E Threlkeld,A Lister,A Wellington,0,1,1,,,,,"",""
+ball,2,12.7,Lancashire,E Threlkeld,A Lister,A Wellington,4,0,,,,,,"",""
+ball,2,13.1,Lancashire,A Lister,E Threlkeld,E Anderson,0,0,,,,,,"",""
+ball,2,13.2,Lancashire,A Lister,E Threlkeld,E Anderson,4,0,,,,,,"",""
+ball,2,13.3,Lancashire,A Lister,E Threlkeld,E Anderson,0,0,,,,,,"",""
+ball,2,13.4,Lancashire,A Lister,E Threlkeld,E Anderson,0,1,1,,,,,"",""
+ball,2,13.5,Lancashire,A Lister,E Threlkeld,E Anderson,1,0,,,,,,"",""
+ball,2,13.6,Lancashire,E Threlkeld,A Lister,E Anderson,0,0,,,,,,"",""
+ball,2,13.7,Lancashire,E Threlkeld,A Lister,E Anderson,2,0,,,,,,"",""
+ball,2,14.1,Lancashire,A Lister,E Threlkeld,OJ Barnes,1,0,,,,,,"",""
+ball,2,14.2,Lancashire,E Threlkeld,A Lister,OJ Barnes,0,0,,,,,,"",""
+ball,2,14.3,Lancashire,E Threlkeld,A Lister,OJ Barnes,2,0,,,,,,"",""
+ball,2,14.4,Lancashire,E Threlkeld,A Lister,OJ Barnes,0,2,,,2,,,"",""
+ball,2,14.5,Lancashire,E Threlkeld,A Lister,OJ Barnes,1,0,,,,,,"",""
+ball,2,14.6,Lancashire,A Lister,E Threlkeld,OJ Barnes,1,0,,,,,,"",""
+ball,2,15.1,Lancashire,A Lister,E Threlkeld,A Wellington,0,0,,,,,,caught,A Lister
+ball,2,15.2,Lancashire,A King,E Threlkeld,A Wellington,0,0,,,,,,"",""
+ball,2,15.3,Lancashire,A King,E Threlkeld,A Wellington,1,0,,,,,,"",""
+ball,2,15.4,Lancashire,E Threlkeld,A King,A Wellington,1,0,,,,,,"",""
+ball,2,15.5,Lancashire,A King,E Threlkeld,A Wellington,1,0,,,,,,"",""
+ball,2,15.6,Lancashire,E Threlkeld,A King,A Wellington,1,0,,,,,,"",""
+ball,2,16.1,Lancashire,E Threlkeld,A King,MJ Robbins,0,0,,,,,,bowled,E Threlkeld
+ball,2,16.2,Lancashire,TG Norris,A King,MJ Robbins,0,0,,,,,,caught,TG Norris
+ball,2,16.3,Lancashire,DEM Carter,A King,MJ Robbins,0,2,2,,,,,"",""
+ball,2,16.4,Lancashire,A King,DEM Carter,MJ Robbins,1,0,,,,,,"",""
+ball,2,16.5,Lancashire,DEM Carter,A King,MJ Robbins,1,0,,,,,,"",""
+ball,2,16.6,Lancashire,A King,DEM Carter,MJ Robbins,2,0,,,,,,"",""
+ball,2,16.7,Lancashire,A King,DEM Carter,MJ Robbins,6,0,,,,,,"",""

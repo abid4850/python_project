@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Surrey
+info,gender,male
+info,season,2024
+info,date,2024/07/18
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Surrey
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,Rob White
+info,match_referee,WR Smith
+info,winner,Surrey
+info,winner_wickets,5
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,TE Albert
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,EV Jack
+info,player,Hampshire,BTJ Wheal
+info,player,Hampshire,JA Turner
+info,player,Surrey,WG Jacks
+info,player,Surrey,DP Sibley
+info,player,Surrey,LJ Evans
+info,player,Surrey,RJ Burns
+info,player,Surrey,SM Curran
+info,player,Surrey,J Overton
+info,player,Surrey,CJ Jordan
+info,player,Surrey,J Clark
+info,player,Surrey,CT Steel
+info,player,Surrey,TE Lawes
+info,player,Surrey,MP Dunn
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Steel,5899dceb
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,EV Jack,52912da9
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MP Dunn,57a76baa
+info,registry,people,NJ Llong,573fb985
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,Rob White,59b91222
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TE Albert,a6c17509
+info,registry,people,TE Lawes,fe2ac1a8
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,WR Smith,ad962377
+ball,1,0.1,Hampshire,BR McDermott,JM Vince,SM Curran,0,0,,,,,,"",""
+ball,1,0.2,Hampshire,BR McDermott,JM Vince,SM Curran,1,0,,,,,,"",""
+ball,1,0.3,Hampshire,JM Vince,BR McDermott,SM Curran,0,0,,,,,,"",""
+ball,1,0.4,Hampshire,JM Vince,BR McDermott,SM Curran,0,0,,,,,,"",""
+ball,1,0.5,Hampshire,JM Vince,BR McDermott,SM Curran,4,0,,,,,,"",""
+ball,1,0.6,Hampshire,JM Vince,BR McDermott,SM Curran,4,0,,,,,,"",""
+ball,1,1.1,Hampshire,BR McDermott,JM Vince,MP Dunn,0,1,1,,,,,"",""
+ball,1,1.2,Hampshire,BR McDermott,JM Vince,MP Dunn,6,0,,,,,,"",""
+ball,1,1.3,Hampshire,BR McDermott,JM Vince,MP Dunn,0,0,,,,,,"",""
+ball,1,1.4,Hampshire,BR McDermott,JM Vince,MP Dunn,0,0,,,,,,"",""
+ball,1,1.5,Hampshire,BR McDermott,JM Vince,MP Dunn,4,0,,,,,,"",""
+ball,1,1.6,Hampshire,BR McDermott,JM Vince,MP Dunn,0,0,,,,,,caught,BR McDermott
+ball,1,1.7,Hampshire,TJ Prest,JM Vince,MP Dunn,0,0,,,,,,"",""
+ball,1,2.1,Hampshire,JM Vince,TJ Prest,SM Curran,0,0,,,,,,"",""
+ball,1,2.2,Hampshire,JM Vince,TJ Prest,SM Curran,0,0,,,,,,"",""
+ball,1,2.3,Hampshire,JM Vince,TJ Prest,SM Curran,4,0,,,,,,"",""
+ball,1,2.4,Hampshire,JM Vince,TJ Prest,SM Curran,6,0,,,,,,"",""
+ball,1,2.5,Hampshire,JM Vince,TJ Prest,SM Curran,1,0,,,,,,"",""
+ball,1,2.6,Hampshire,TJ Prest,JM Vince,SM Curran,1,0,,,,,,"",""
+ball,1,3.1,Hampshire,TJ Prest,JM Vince,MP Dunn,2,0,,,,,,"",""
+ball,1,3.2,Hampshire,TJ Prest,JM Vince,MP Dunn,0,1,1,,,,,"",""
+ball,1,3.3,Hampshire,TJ Prest,JM Vince,MP Dunn,2,0,,,,,,"",""
+ball,1,3.4,Hampshire,TJ Prest,JM Vince,MP Dunn,4,0,,,,,,"",""
+ball,1,3.5,Hampshire,TJ Prest,JM Vince,MP Dunn,0,0,,,,,,"",""
+ball,1,3.6,Hampshire,TJ Prest,JM Vince,MP Dunn,0,1,1,,,,,"",""
+ball,1,3.7,Hampshire,TJ Prest,JM Vince,MP Dunn,0,0,,,,,,caught,TJ Prest
+ball,1,3.8,Hampshire,JJ Weatherley,JM Vince,MP Dunn,0,0,,,,,,"",""
+ball,1,4.1,Hampshire,JM Vince,JJ Weatherley,J Clark,4,0,,,,,,"",""
+ball,1,4.2,Hampshire,JM Vince,JJ Weatherley,J Clark,0,0,,,,,,bowled,JM Vince
+ball,1,4.3,Hampshire,TE Albert,JJ Weatherley,J Clark,0,0,,,,,,"",""
+ball,1,4.4,Hampshire,TE Albert,JJ Weatherley,J Clark,6,0,,,,,,"",""
+ball,1,4.5,Hampshire,TE Albert,JJ Weatherley,J Clark,1,0,,,,,,"",""
+ball,1,4.6,Hampshire,JJ Weatherley,TE Albert,J Clark,0,0,,,,,,"",""
+ball,1,5.1,Hampshire,TE Albert,JJ Weatherley,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.2,Hampshire,TE Albert,JJ Weatherley,CJ Jordan,2,0,,,,,,"",""
+ball,1,5.3,Hampshire,TE Albert,JJ Weatherley,CJ Jordan,4,0,,,,,,"",""
+ball,1,5.4,Hampshire,TE Albert,JJ Weatherley,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.5,Hampshire,TE Albert,JJ Weatherley,CJ Jordan,1,0,,,,,,"",""
+ball,1,5.6,Hampshire,JJ Weatherley,TE Albert,CJ Jordan,0,0,,,,,,"",""
+ball,1,6.1,Hampshire,TE Albert,JJ Weatherley,CT Steel,1,0,,,,,,"",""
+ball,1,6.2,Hampshire,JJ Weatherley,TE Albert,CT Steel,2,0,,,,,,"",""
+ball,1,6.3,Hampshire,JJ Weatherley,TE Albert,CT Steel,2,0,,,,,,"",""
+ball,1,6.4,Hampshire,JJ Weatherley,TE Albert,CT Steel,0,0,,,,,,caught,JJ Weatherley
+ball,1,6.5,Hampshire,BAC Howell,TE Albert,CT Steel,0,0,,,,,,"",""
+ball,1,6.6,Hampshire,BAC Howell,TE Albert,CT Steel,2,0,,,,,,"",""
+ball,1,7.1,Hampshire,TE Albert,BAC Howell,WG Jacks,0,0,,,,,,"",""
+ball,1,7.2,Hampshire,TE Albert,BAC Howell,WG Jacks,2,0,,,,,,"",""
+ball,1,7.3,Hampshire,TE Albert,BAC Howell,WG Jacks,1,0,,,,,,"",""
+ball,1,7.4,Hampshire,BAC Howell,TE Albert,WG Jacks,0,0,,,,,,"",""
+ball,1,7.5,Hampshire,BAC Howell,TE Albert,WG Jacks,2,0,,,,,,"",""
+ball,1,7.6,Hampshire,BAC Howell,TE Albert,WG Jacks,1,0,,,,,,"",""
+ball,1,8.1,Hampshire,BAC Howell,TE Albert,CT Steel,0,1,,,,1,,"",""
+ball,1,8.2,Hampshire,TE Albert,BAC Howell,CT Steel,4,0,,,,,,"",""
+ball,1,8.3,Hampshire,TE Albert,BAC Howell,CT Steel,6,0,,,,,,"",""
+ball,1,8.4,Hampshire,TE Albert,BAC Howell,CT Steel,0,0,,,,,,"",""
+ball,1,8.5,Hampshire,TE Albert,BAC Howell,CT Steel,1,0,,,,,,"",""
+ball,1,8.6,Hampshire,BAC Howell,TE Albert,CT Steel,1,0,,,,,,"",""
+ball,1,9.1,Hampshire,BAC Howell,TE Albert,TE Lawes,1,0,,,,,,"",""
+ball,1,9.2,Hampshire,TE Albert,BAC Howell,TE Lawes,1,0,,,,,,"",""
+ball,1,9.3,Hampshire,BAC Howell,TE Albert,TE Lawes,0,2,,2,,,,"",""
+ball,1,9.4,Hampshire,BAC Howell,TE Albert,TE Lawes,6,0,,,,,,"",""
+ball,1,9.5,Hampshire,BAC Howell,TE Albert,TE Lawes,0,0,,,,,,caught,BAC Howell
+ball,1,9.6,Hampshire,JK Fuller,TE Albert,TE Lawes,1,0,,,,,,"",""
+ball,1,9.7,Hampshire,TE Albert,JK Fuller,TE Lawes,1,0,,,,,,"",""
+ball,1,10.1,Hampshire,TE Albert,JK Fuller,CT Steel,1,0,,,,,,"",""
+ball,1,10.2,Hampshire,JK Fuller,TE Albert,CT Steel,1,0,,,,,,"",""
+ball,1,10.3,Hampshire,TE Albert,JK Fuller,CT Steel,0,0,,,,,,"",""
+ball,1,10.4,Hampshire,TE Albert,JK Fuller,CT Steel,1,0,,,,,,"",""
+ball,1,10.5,Hampshire,JK Fuller,TE Albert,CT Steel,1,0,,,,,,"",""
+ball,1,10.6,Hampshire,TE Albert,JK Fuller,CT Steel,2,0,,,,,,"",""
+ball,1,11.1,Hampshire,JK Fuller,TE Albert,J Clark,4,0,,,,,,"",""
+ball,1,11.2,Hampshire,JK Fuller,TE Albert,J Clark,1,0,,,,,,"",""
+ball,1,11.3,Hampshire,TE Albert,JK Fuller,J Clark,1,0,,,,,,"",""
+ball,1,11.4,Hampshire,JK Fuller,TE Albert,J Clark,2,0,,,,,,"",""
+ball,1,11.5,Hampshire,JK Fuller,TE Albert,J Clark,2,0,,,,,,"",""
+ball,1,11.6,Hampshire,JK Fuller,TE Albert,J Clark,0,0,,,,,,bowled,JK Fuller
+ball,1,12.1,Hampshire,TE Albert,LA Dawson,CT Steel,1,0,,,,,,"",""
+ball,1,12.2,Hampshire,LA Dawson,TE Albert,CT Steel,3,0,,,,,,"",""
+ball,1,12.3,Hampshire,TE Albert,LA Dawson,CT Steel,2,0,,,,,,"",""
+ball,1,12.4,Hampshire,TE Albert,LA Dawson,CT Steel,1,0,,,,,,"",""
+ball,1,12.5,Hampshire,LA Dawson,TE Albert,CT Steel,4,0,,,,,,"",""
+ball,1,12.6,Hampshire,LA Dawson,TE Albert,CT Steel,2,0,,,,,,"",""
+ball,1,13.1,Hampshire,TE Albert,LA Dawson,WG Jacks,1,0,,,,,,"",""
+ball,1,13.2,Hampshire,LA Dawson,TE Albert,WG Jacks,1,0,,,,,,"",""
+ball,1,13.3,Hampshire,TE Albert,LA Dawson,WG Jacks,1,0,,,,,,"",""
+ball,1,13.4,Hampshire,LA Dawson,TE Albert,WG Jacks,4,0,,,,,,"",""
+ball,1,13.5,Hampshire,LA Dawson,TE Albert,WG Jacks,2,0,,,,,,"",""
+ball,1,13.6,Hampshire,LA Dawson,TE Albert,WG Jacks,1,0,,,,,,"",""
+ball,1,14.1,Hampshire,LA Dawson,TE Albert,CJ Jordan,1,0,,,,,,"",""
+ball,1,14.2,Hampshire,TE Albert,LA Dawson,CJ Jordan,1,0,,,,,,"",""
+ball,1,14.3,Hampshire,LA Dawson,TE Albert,CJ Jordan,1,0,,,,,,run out,LA Dawson
+ball,1,14.4,Hampshire,EV Jack,TE Albert,CJ Jordan,0,0,,,,,,"",""
+ball,1,14.5,Hampshire,EV Jack,TE Albert,CJ Jordan,0,0,,,,,,"",""
+ball,1,14.6,Hampshire,EV Jack,TE Albert,CJ Jordan,1,0,,,,,,"",""
+ball,1,15.1,Hampshire,EV Jack,TE Albert,TE Lawes,2,0,,,,,,"",""
+ball,1,15.2,Hampshire,EV Jack,TE Albert,TE Lawes,1,0,,,,,,"",""
+ball,1,15.3,Hampshire,TE Albert,EV Jack,TE Lawes,2,0,,,,,,"",""
+ball,1,15.4,Hampshire,TE Albert,EV Jack,TE Lawes,1,0,,,,,,"",""
+ball,1,15.5,Hampshire,EV Jack,TE Albert,TE Lawes,2,0,,,,,,"",""
+ball,1,15.6,Hampshire,EV Jack,TE Albert,TE Lawes,1,0,,,,,,"",""
+ball,1,16.1,Hampshire,EV Jack,TE Albert,SM Curran,1,0,,,,,,"",""
+ball,1,16.2,Hampshire,TE Albert,EV Jack,SM Curran,1,0,,,,,,"",""
+ball,1,16.3,Hampshire,EV Jack,TE Albert,SM Curran,0,0,,,,,,"",""
+ball,1,16.4,Hampshire,EV Jack,TE Albert,SM Curran,0,0,,,,,,"",""
+ball,1,16.5,Hampshire,EV Jack,TE Albert,SM Curran,2,0,,,,,,"",""
+ball,1,16.6,Hampshire,EV Jack,TE Albert,SM Curran,4,0,,,,,,"",""
+ball,1,17.1,Hampshire,TE Albert,EV Jack,J Clark,0,0,,,,,,"",""
+ball,1,17.2,Hampshire,TE Albert,EV Jack,J Clark,0,0,,,,,,"",""
+ball,1,17.3,Hampshire,TE Albert,EV Jack,J Clark,1,0,,,,,,"",""
+ball,1,17.4,Hampshire,EV Jack,TE Albert,J Clark,0,0,,,,,,caught,EV Jack
+ball,1,17.5,Hampshire,BTJ Wheal,TE Albert,J Clark,1,0,,,,,,"",""
+ball,1,17.6,Hampshire,TE Albert,BTJ Wheal,J Clark,1,0,,,,,,"",""
+ball,1,18.1,Hampshire,TE Albert,BTJ Wheal,SM Curran,0,0,,,,,,"",""
+ball,1,18.2,Hampshire,TE Albert,BTJ Wheal,SM Curran,1,0,,,,,,"",""
+ball,1,18.3,Hampshire,BTJ Wheal,TE Albert,SM Curran,1,0,,,,,,"",""
+ball,1,18.4,Hampshire,TE Albert,BTJ Wheal,SM Curran,4,0,,,,,,"",""
+ball,1,18.5,Hampshire,TE Albert,BTJ Wheal,SM Curran,4,0,,,,,,"",""
+ball,1,18.6,Hampshire,TE Albert,BTJ Wheal,SM Curran,0,0,,,,,,"",""
+ball,1,19.1,Hampshire,BTJ Wheal,TE Albert,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.2,Hampshire,TE Albert,BTJ Wheal,CJ Jordan,2,0,,,,,,"",""
+ball,1,19.3,Hampshire,TE Albert,BTJ Wheal,CJ Jordan,0,1,1,,,,,"",""
+ball,1,19.4,Hampshire,TE Albert,BTJ Wheal,CJ Jordan,1,0,,,,,,run out,BTJ Wheal
+ball,1,19.5,Hampshire,JA Turner,TE Albert,CJ Jordan,0,2,2,,,,,"",""
+ball,1,19.6,Hampshire,TE Albert,JA Turner,CJ Jordan,4,0,,,,,,"",""
+ball,1,19.7,Hampshire,TE Albert,JA Turner,CJ Jordan,1,0,,,,,,run out,TE Albert
+ball,2,0.1,Surrey,WG Jacks,DP Sibley,BTJ Wheal,6,0,,,,,,"",""
+ball,2,0.2,Surrey,WG Jacks,DP Sibley,BTJ Wheal,0,0,,,,,,caught,WG Jacks
+ball,2,0.3,Surrey,LJ Evans,DP Sibley,BTJ Wheal,0,0,,,,,,"",""
+ball,2,0.4,Surrey,LJ Evans,DP Sibley,BTJ Wheal,1,0,,,,,,"",""
+ball,2,0.5,Surrey,DP Sibley,LJ Evans,BTJ Wheal,1,0,,,,,,"",""
+ball,2,0.6,Surrey,LJ Evans,DP Sibley,BTJ Wheal,1,0,,,,,,"",""
+ball,2,1.1,Surrey,LJ Evans,DP Sibley,JA Turner,1,0,,,,,,"",""
+ball,2,1.2,Surrey,DP Sibley,LJ Evans,JA Turner,1,0,,,,,,"",""
+ball,2,1.3,Surrey,LJ Evans,DP Sibley,JA Turner,0,0,,,,,,"",""
+ball,2,1.4,Surrey,LJ Evans,DP Sibley,JA Turner,0,0,,,,,,"",""
+ball,2,1.5,Surrey,LJ Evans,DP Sibley,JA Turner,0,0,,,,,,"",""
+ball,2,1.6,Surrey,LJ Evans,DP Sibley,JA Turner,1,0,,,,,,"",""
+ball,2,2.1,Surrey,LJ Evans,DP Sibley,BTJ Wheal,4,0,,,,,,"",""
+ball,2,2.2,Surrey,LJ Evans,DP Sibley,BTJ Wheal,0,0,,,,,,"",""
+ball,2,2.3,Surrey,LJ Evans,DP Sibley,BTJ Wheal,0,0,,,,,,"",""
+ball,2,2.4,Surrey,LJ Evans,DP Sibley,BTJ Wheal,0,0,,,,,,caught,LJ Evans
+ball,2,2.5,Surrey,RJ Burns,DP Sibley,BTJ Wheal,0,0,,,,,,"",""
+ball,2,2.6,Surrey,RJ Burns,DP Sibley,BTJ Wheal,1,0,,,,,,"",""
+ball,2,3.1,Surrey,RJ Burns,DP Sibley,JA Turner,1,0,,,,,,"",""
+ball,2,3.2,Surrey,DP Sibley,RJ Burns,JA Turner,0,1,,,,1,,"",""
+ball,2,3.3,Surrey,RJ Burns,DP Sibley,JA Turner,0,0,,,,,,"",""
+ball,2,3.4,Surrey,RJ Burns,DP Sibley,JA Turner,4,0,,,,,,"",""
+ball,2,3.5,Surrey,RJ Burns,DP Sibley,JA Turner,1,0,,,,,,"",""
+ball,2,3.6,Surrey,DP Sibley,RJ Burns,JA Turner,2,0,,,,,,"",""
+ball,2,4.1,Surrey,RJ Burns,DP Sibley,EV Jack,0,1,1,,,,,"",""
+ball,2,4.2,Surrey,RJ Burns,DP Sibley,EV Jack,0,0,,,,,,caught,RJ Burns
+ball,2,4.3,Surrey,SM Curran,DP Sibley,EV Jack,0,1,1,,,,,"",""
+ball,2,4.4,Surrey,SM Curran,DP Sibley,EV Jack,0,0,,,,,,"",""
+ball,2,4.5,Surrey,SM Curran,DP Sibley,EV Jack,0,1,1,,,,,"",""
+ball,2,4.6,Surrey,SM Curran,DP Sibley,EV Jack,1,0,,,,,,"",""
+ball,2,4.7,Surrey,DP Sibley,SM Curran,EV Jack,0,0,,,,,,"",""
+ball,2,4.8,Surrey,DP Sibley,SM Curran,EV Jack,1,0,,,,,,"",""
+ball,2,4.9,Surrey,SM Curran,DP Sibley,EV Jack,1,0,,,,,,"",""
+ball,2,5.1,Surrey,SM Curran,DP Sibley,JK Fuller,4,0,,,,,,"",""
+ball,2,5.2,Surrey,SM Curran,DP Sibley,JK Fuller,0,0,,,,,,"",""
+ball,2,5.3,Surrey,SM Curran,DP Sibley,JK Fuller,4,0,,,,,,"",""
+ball,2,5.4,Surrey,SM Curran,DP Sibley,JK Fuller,1,0,,,,,,"",""
+ball,2,5.5,Surrey,DP Sibley,SM Curran,JK Fuller,1,0,,,,,,"",""
+ball,2,5.6,Surrey,SM Curran,DP Sibley,JK Fuller,0,0,,,,,,"",""
+ball,2,6.1,Surrey,DP Sibley,SM Curran,LA Dawson,1,0,,,,,,"",""
+ball,2,6.2,Surrey,SM Curran,DP Sibley,LA Dawson,1,0,,,,,,"",""
+ball,2,6.3,Surrey,DP Sibley,SM Curran,LA Dawson,1,0,,,,,,"",""
+ball,2,6.4,Surrey,SM Curran,DP Sibley,LA Dawson,1,0,,,,,,"",""
+ball,2,6.5,Surrey,DP Sibley,SM Curran,LA Dawson,4,0,,,,,,"",""
+ball,2,6.6,Surrey,DP Sibley,SM Curran,LA Dawson,0,0,,,,,,"",""
+ball,2,7.1,Surrey,SM Curran,DP Sibley,BAC Howell,1,0,,,,,,"",""
+ball,2,7.2,Surrey,DP Sibley,SM Curran,BAC Howell,1,0,,,,,,"",""
+ball,2,7.3,Surrey,SM Curran,DP Sibley,BAC Howell,0,0,,,,,,"",""
+ball,2,7.4,Surrey,SM Curran,DP Sibley,BAC Howell,1,0,,,,,,"",""
+ball,2,7.5,Surrey,DP Sibley,SM Curran,BAC Howell,1,0,,,,,,"",""
+ball,2,7.6,Surrey,SM Curran,DP Sibley,BAC Howell,1,0,,,,,,"",""
+ball,2,8.1,Surrey,SM Curran,DP Sibley,LA Dawson,0,0,,,,,,"",""
+ball,2,8.2,Surrey,SM Curran,DP Sibley,LA Dawson,0,1,1,,,,,"",""
+ball,2,8.3,Surrey,SM Curran,DP Sibley,LA Dawson,6,0,,,,,,"",""
+ball,2,8.4,Surrey,SM Curran,DP Sibley,LA Dawson,1,0,,,,,,"",""
+ball,2,8.5,Surrey,DP Sibley,SM Curran,LA Dawson,4,0,,,,,,"",""
+ball,2,8.6,Surrey,DP Sibley,SM Curran,LA Dawson,1,0,,,,,,"",""
+ball,2,8.7,Surrey,SM Curran,DP Sibley,LA Dawson,0,0,,,,,,"",""
+ball,2,9.1,Surrey,DP Sibley,SM Curran,BAC Howell,1,0,,,,,,"",""
+ball,2,9.2,Surrey,SM Curran,DP Sibley,BAC Howell,6,0,,,,,,"",""
+ball,2,9.3,Surrey,SM Curran,DP Sibley,BAC Howell,6,0,,,,,,"",""
+ball,2,9.4,Surrey,SM Curran,DP Sibley,BAC Howell,1,0,,,,,,"",""
+ball,2,9.5,Surrey,DP Sibley,SM Curran,BAC Howell,1,0,,,,,,"",""
+ball,2,9.6,Surrey,SM Curran,DP Sibley,BAC Howell,1,0,,,,,,"",""
+ball,2,10.1,Surrey,SM Curran,DP Sibley,EV Jack,0,0,,,,,,"",""
+ball,2,10.2,Surrey,SM Curran,DP Sibley,EV Jack,1,0,,,,,,"",""
+ball,2,10.3,Surrey,DP Sibley,SM Curran,EV Jack,1,0,,,,,,"",""
+ball,2,10.4,Surrey,SM Curran,DP Sibley,EV Jack,1,0,,,,,,"",""
+ball,2,10.5,Surrey,DP Sibley,SM Curran,EV Jack,1,0,,,,,,"",""
+ball,2,10.6,Surrey,SM Curran,DP Sibley,EV Jack,0,1,1,,,,,"",""
+ball,2,10.7,Surrey,SM Curran,DP Sibley,EV Jack,1,0,,,,,,"",""
+ball,2,11.1,Surrey,SM Curran,DP Sibley,JK Fuller,0,1,1,,,,,"",""
+ball,2,11.2,Surrey,SM Curran,DP Sibley,JK Fuller,1,0,,,,,,"",""
+ball,2,11.3,Surrey,DP Sibley,SM Curran,JK Fuller,1,0,,,,,,"",""
+ball,2,11.4,Surrey,SM Curran,DP Sibley,JK Fuller,2,0,,,,,,"",""
+ball,2,11.5,Surrey,SM Curran,DP Sibley,JK Fuller,0,2,,2,,,,"",""
+ball,2,11.6,Surrey,SM Curran,DP Sibley,JK Fuller,1,2,,2,,,,"",""
+ball,2,11.7,Surrey,DP Sibley,SM Curran,JK Fuller,1,0,,,,,,"",""
+ball,2,11.8,Surrey,SM Curran,DP Sibley,JK Fuller,1,0,,,,,,"",""
+ball,2,11.9,Surrey,DP Sibley,SM Curran,JK Fuller,2,0,,,,,,"",""
+ball,2,12.1,Surrey,SM Curran,DP Sibley,JA Turner,1,0,,,,,,"",""
+ball,2,12.2,Surrey,DP Sibley,SM Curran,JA Turner,0,1,,,,1,,"",""
+ball,2,12.3,Surrey,SM Curran,DP Sibley,JA Turner,2,0,,,,,,"",""
+ball,2,12.4,Surrey,SM Curran,DP Sibley,JA Turner,4,0,,,,,,"",""
+ball,2,12.5,Surrey,SM Curran,DP Sibley,JA Turner,1,0,,,,,,"",""
+ball,2,12.6,Surrey,DP Sibley,SM Curran,JA Turner,0,0,,,,,,caught,DP Sibley
+ball,2,13.1,Surrey,SM Curran,J Overton,JK Fuller,4,0,,,,,,"",""
+ball,2,13.2,Surrey,SM Curran,J Overton,JK Fuller,0,0,,,,,,"",""
+ball,2,13.3,Surrey,SM Curran,J Overton,JK Fuller,2,0,,,,,,"",""
+ball,2,13.4,Surrey,SM Curran,J Overton,JK Fuller,1,0,,,,,,"",""
+ball,2,13.5,Surrey,J Overton,SM Curran,JK Fuller,0,0,,,,,,"",""
+ball,2,13.6,Surrey,J Overton,SM Curran,JK Fuller,0,0,,,,,,"",""
+ball,2,14.1,Surrey,SM Curran,J Overton,EV Jack,2,0,,,,,,"",""
+ball,2,14.2,Surrey,SM Curran,J Overton,EV Jack,0,0,,,,,,"",""
+ball,2,14.3,Surrey,SM Curran,J Overton,EV Jack,0,0,,,,,,"",""
+ball,2,14.4,Surrey,SM Curran,J Overton,EV Jack,1,0,,,,,,"",""
+ball,2,14.5,Surrey,J Overton,SM Curran,EV Jack,1,0,,,,,,"",""
+ball,2,14.6,Surrey,SM Curran,J Overton,EV Jack,2,0,,,,,,"",""
+ball,2,15.1,Surrey,J Overton,SM Curran,BTJ Wheal,1,0,,,,,,"",""
+ball,2,15.2,Surrey,SM Curran,J Overton,BTJ Wheal,6,0,,,,,,"",""
+ball,2,15.3,Surrey,SM Curran,J Overton,BTJ Wheal,4,0,,,,,,"",""
+ball,2,15.4,Surrey,SM Curran,J Overton,BTJ Wheal,1,0,,,,,,"",""
+ball,2,15.5,Surrey,J Overton,SM Curran,BTJ Wheal,1,0,,,,,,"",""
+ball,2,15.6,Surrey,SM Curran,J Overton,BTJ Wheal,4,0,,,,,,"",""
+ball,2,16.1,Surrey,J Overton,SM Curran,EV Jack,6,0,,,,,,"",""
+ball,2,16.2,Surrey,J Overton,SM Curran,EV Jack,6,0,,,,,,"",""
+ball,2,16.3,Surrey,J Overton,SM Curran,EV Jack,1,0,,,,,,"",""
+ball,2,16.4,Surrey,SM Curran,J Overton,EV Jack,0,0,,,,,,"",""
+ball,2,16.5,Surrey,SM Curran,J Overton,EV Jack,2,0,,,,,,"",""
+ball,2,16.6,Surrey,SM Curran,J Overton,EV Jack,2,0,,,,,,"",""
+ball,2,17.1,Surrey,J Overton,SM Curran,JA Turner,2,0,,,,,,"",""
+ball,2,17.2,Surrey,J Overton,SM Curran,JA Turner,0,1,1,,,,,"",""
+ball,2,17.3,Surrey,J Overton,SM Curran,JA Turner,1,0,,,,,,"",""
+ball,2,17.4,Surrey,SM Curran,J Overton,JA Turner,1,0,,,,,,"",""
+ball,2,17.5,Surrey,J Overton,SM Curran,JA Turner,2,0,,,,,,"",""
+ball,2,17.6,Surrey,J Overton,SM Curran,JA Turner,0,0,,,,,,caught,J Overton
+ball,2,17.7,Surrey,CJ Jordan,SM Curran,JA Turner,4,0,,,,,,"",""
+ball,2,18.1,Surrey,SM Curran,CJ Jordan,BTJ Wheal,0,0,,,,,,"",""
+ball,2,18.2,Surrey,SM Curran,CJ Jordan,BTJ Wheal,4,0,,,,,,"",""
+ball,2,18.3,Surrey,SM Curran,CJ Jordan,BTJ Wheal,6,0,,,,,,"",""
+ball,2,18.4,Surrey,SM Curran,CJ Jordan,BTJ Wheal,0,0,,,,,,"",""
+ball,2,18.5,Surrey,SM Curran,CJ Jordan,BTJ Wheal,1,0,,,,,,"",""
+ball,2,18.6,Surrey,CJ Jordan,SM Curran,BTJ Wheal,0,0,,,,,,"",""
+ball,2,19.1,Surrey,SM Curran,CJ Jordan,JK Fuller,6,0,,,,,,"",""

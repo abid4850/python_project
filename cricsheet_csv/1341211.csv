@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Otago
+info,gender,male
+info,season,2022/23
+info,date,2023/01/15
+info,event,Super Smash
+info,match_number,18
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,Wellington
+info,toss_decision,bat
+info,umpire,C Black
+info,umpire,SB Haig
+info,reserve_umpire,N Louw
+info,tv_umpire,DJ Walker
+info,match_referee,GAV Baxter
+info,winner,Otago
+info,winner_wickets,5
+info,player,Wellington,KLD Vishvaka
+info,player,Wellington,NF Kelly
+info,player,Wellington,R Ravindra
+info,player,Wellington,TM Johnson
+info,player,Wellington,NG Smith
+info,player,Wellington,TB Robinson
+info,player,Wellington,CR McLachlan
+info,player,Wellington,AF Milne
+info,player,Wellington,LV van Beek
+info,player,Wellington,OR Newton
+info,player,Wellington,PF Younghusband
+info,player,Otago,HD Rutherford
+info,player,Otago,DN Phillips
+info,player,Otago,D Foxcroft
+info,player,Otago,JL Finnie
+info,player,Otago,MJG Rippon
+info,player,Otago,LC Johnson
+info,player,Otago,NM Kwant
+info,player,Otago,JM Gibson
+info,player,Otago,BNJ Lockrose
+info,player,Otago,MD Rae
+info,player,Otago,MB Bacon
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,C Black,75b42f71
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,JL Finnie,1ccf9e7e
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,KLD Vishvaka,e6f51ab7
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MB Bacon,90701232
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,N Louw,465c4770
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,NM Kwant,f5ee85cf
+info,registry,people,OR Newton,4e520f6c
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,SB Haig,811655b3
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TM Johnson,917f66da
+ball,1,0.1,Wellington,KLD Vishvaka,NF Kelly,MJG Rippon,0,0,,,,,,"",""
+ball,1,0.2,Wellington,KLD Vishvaka,NF Kelly,MJG Rippon,0,1,1,,,,,"",""
+ball,1,0.3,Wellington,KLD Vishvaka,NF Kelly,MJG Rippon,1,0,,,,,,"",""
+ball,1,0.4,Wellington,NF Kelly,KLD Vishvaka,MJG Rippon,0,0,,,,,,"",""
+ball,1,0.5,Wellington,NF Kelly,KLD Vishvaka,MJG Rippon,0,0,,,,,,"",""
+ball,1,0.6,Wellington,NF Kelly,KLD Vishvaka,MJG Rippon,1,0,,,,,,"",""
+ball,1,0.7,Wellington,KLD Vishvaka,NF Kelly,MJG Rippon,0,0,,,,,,"",""
+ball,1,1.1,Wellington,NF Kelly,KLD Vishvaka,MB Bacon,0,0,,,,,,caught,NF Kelly
+ball,1,1.2,Wellington,R Ravindra,KLD Vishvaka,MB Bacon,0,0,,,,,,"",""
+ball,1,1.3,Wellington,R Ravindra,KLD Vishvaka,MB Bacon,0,0,,,,,,"",""
+ball,1,1.4,Wellington,R Ravindra,KLD Vishvaka,MB Bacon,1,0,,,,,,"",""
+ball,1,1.5,Wellington,KLD Vishvaka,R Ravindra,MB Bacon,0,0,,,,,,"",""
+ball,1,1.6,Wellington,KLD Vishvaka,R Ravindra,MB Bacon,0,0,,,,,,"",""
+ball,1,2.1,Wellington,R Ravindra,KLD Vishvaka,BNJ Lockrose,4,0,,,,,,"",""
+ball,1,2.2,Wellington,R Ravindra,KLD Vishvaka,BNJ Lockrose,4,0,,,,,,"",""
+ball,1,2.3,Wellington,R Ravindra,KLD Vishvaka,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,2.4,Wellington,KLD Vishvaka,R Ravindra,BNJ Lockrose,0,0,,,,,,lbw,KLD Vishvaka
+ball,1,2.5,Wellington,TM Johnson,R Ravindra,BNJ Lockrose,4,0,,,,,,"",""
+ball,1,2.6,Wellington,TM Johnson,R Ravindra,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,3.1,Wellington,R Ravindra,TM Johnson,MD Rae,0,0,,,,,,caught,R Ravindra
+ball,1,3.2,Wellington,NG Smith,TM Johnson,MD Rae,0,0,,,,,,"",""
+ball,1,3.3,Wellington,NG Smith,TM Johnson,MD Rae,4,0,,,,,,"",""
+ball,1,3.4,Wellington,NG Smith,TM Johnson,MD Rae,0,0,,,,,,caught,NG Smith
+ball,1,3.5,Wellington,TB Robinson,TM Johnson,MD Rae,0,0,,,,,,"",""
+ball,1,3.6,Wellington,TB Robinson,TM Johnson,MD Rae,1,0,,,,,,"",""
+ball,1,4.1,Wellington,TB Robinson,TM Johnson,MB Bacon,0,0,,,,,,"",""
+ball,1,4.2,Wellington,TB Robinson,TM Johnson,MB Bacon,0,0,,,,,,"",""
+ball,1,4.3,Wellington,TB Robinson,TM Johnson,MB Bacon,1,0,,,,,,"",""
+ball,1,4.4,Wellington,TM Johnson,TB Robinson,MB Bacon,0,0,,,,,,"",""
+ball,1,4.5,Wellington,TM Johnson,TB Robinson,MB Bacon,0,0,,,,,,"",""
+ball,1,4.6,Wellington,TM Johnson,TB Robinson,MB Bacon,0,0,,,,,,"",""
+ball,1,5.1,Wellington,TB Robinson,TM Johnson,MD Rae,0,0,,,,,,caught,TB Robinson
+ball,1,5.2,Wellington,CR McLachlan,TM Johnson,MD Rae,0,0,,,,,,"",""
+ball,1,5.3,Wellington,CR McLachlan,TM Johnson,MD Rae,0,0,,,,,,"",""
+ball,1,5.4,Wellington,CR McLachlan,TM Johnson,MD Rae,0,0,,,,,,"",""
+ball,1,5.5,Wellington,CR McLachlan,TM Johnson,MD Rae,0,0,,,,,,"",""
+ball,1,5.6,Wellington,CR McLachlan,TM Johnson,MD Rae,1,0,,,,,,"",""
+ball,1,6.1,Wellington,CR McLachlan,TM Johnson,JM Gibson,0,0,,,,,,"",""
+ball,1,6.2,Wellington,CR McLachlan,TM Johnson,JM Gibson,4,0,,,,,,"",""
+ball,1,6.3,Wellington,CR McLachlan,TM Johnson,JM Gibson,0,0,,,,,,"",""
+ball,1,6.4,Wellington,CR McLachlan,TM Johnson,JM Gibson,0,0,,,,,,"",""
+ball,1,6.5,Wellington,CR McLachlan,TM Johnson,JM Gibson,0,0,,,,,,"",""
+ball,1,6.6,Wellington,CR McLachlan,TM Johnson,JM Gibson,0,0,,,,,,"",""
+ball,1,7.1,Wellington,TM Johnson,CR McLachlan,MD Rae,0,0,,,,,,"",""
+ball,1,7.2,Wellington,TM Johnson,CR McLachlan,MD Rae,0,0,,,,,,"",""
+ball,1,7.3,Wellington,TM Johnson,CR McLachlan,MD Rae,1,0,,,,,,"",""
+ball,1,7.4,Wellington,CR McLachlan,TM Johnson,MD Rae,1,0,,,,,,"",""
+ball,1,7.5,Wellington,TM Johnson,CR McLachlan,MD Rae,0,0,,,,,,"",""
+ball,1,7.6,Wellington,TM Johnson,CR McLachlan,MD Rae,2,0,,,,,,"",""
+ball,1,8.1,Wellington,CR McLachlan,TM Johnson,JM Gibson,0,0,,,,,,"",""
+ball,1,8.2,Wellington,CR McLachlan,TM Johnson,JM Gibson,1,0,,,,,,"",""
+ball,1,8.3,Wellington,TM Johnson,CR McLachlan,JM Gibson,1,0,,,,,,"",""
+ball,1,8.4,Wellington,CR McLachlan,TM Johnson,JM Gibson,0,0,,,,,,"",""
+ball,1,8.5,Wellington,CR McLachlan,TM Johnson,JM Gibson,0,0,,,,,,"",""
+ball,1,8.6,Wellington,CR McLachlan,TM Johnson,JM Gibson,0,0,,,,,,"",""
+ball,1,9.1,Wellington,TM Johnson,CR McLachlan,MJG Rippon,0,0,,,,,,"",""
+ball,1,9.2,Wellington,TM Johnson,CR McLachlan,MJG Rippon,0,0,,,,,,"",""
+ball,1,9.3,Wellington,TM Johnson,CR McLachlan,MJG Rippon,1,0,,,,,,"",""
+ball,1,9.4,Wellington,CR McLachlan,TM Johnson,MJG Rippon,1,0,,,,,,"",""
+ball,1,9.5,Wellington,TM Johnson,CR McLachlan,MJG Rippon,0,0,,,,,,"",""
+ball,1,9.6,Wellington,TM Johnson,CR McLachlan,MJG Rippon,1,0,,,,,,"",""
+ball,1,10.1,Wellington,TM Johnson,CR McLachlan,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,10.2,Wellington,CR McLachlan,TM Johnson,BNJ Lockrose,0,0,,,,,,caught,CR McLachlan
+ball,1,10.3,Wellington,AF Milne,TM Johnson,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,10.4,Wellington,AF Milne,TM Johnson,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,10.5,Wellington,TM Johnson,AF Milne,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,10.6,Wellington,TM Johnson,AF Milne,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,11.1,Wellington,TM Johnson,AF Milne,MJG Rippon,1,0,,,,,,"",""
+ball,1,11.2,Wellington,AF Milne,TM Johnson,MJG Rippon,1,0,,,,,,"",""
+ball,1,11.3,Wellington,TM Johnson,AF Milne,MJG Rippon,1,0,,,,,,"",""
+ball,1,11.4,Wellington,AF Milne,TM Johnson,MJG Rippon,1,0,,,,,,"",""
+ball,1,11.5,Wellington,TM Johnson,AF Milne,MJG Rippon,4,0,,,,,,"",""
+ball,1,11.6,Wellington,TM Johnson,AF Milne,MJG Rippon,1,0,,,,,,"",""
+ball,1,12.1,Wellington,TM Johnson,AF Milne,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,12.2,Wellington,AF Milne,TM Johnson,BNJ Lockrose,6,0,,,,,,"",""
+ball,1,12.3,Wellington,AF Milne,TM Johnson,BNJ Lockrose,3,0,,,,,,"",""
+ball,1,12.4,Wellington,TM Johnson,AF Milne,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,12.5,Wellington,TM Johnson,AF Milne,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,12.6,Wellington,AF Milne,TM Johnson,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,13.1,Wellington,TM Johnson,AF Milne,MD Rae,1,0,,,,,,"",""
+ball,1,13.2,Wellington,AF Milne,TM Johnson,MD Rae,0,0,,,,,,"",""
+ball,1,13.3,Wellington,AF Milne,TM Johnson,MD Rae,0,1,,,,1,,"",""
+ball,1,13.4,Wellington,TM Johnson,AF Milne,MD Rae,0,1,1,,,,,"",""
+ball,1,13.5,Wellington,TM Johnson,AF Milne,MD Rae,4,0,,,,,,"",""
+ball,1,13.6,Wellington,TM Johnson,AF Milne,MD Rae,2,0,,,,,,"",""
+ball,1,13.7,Wellington,TM Johnson,AF Milne,MD Rae,0,0,,,,,,"",""
+ball,1,14.1,Wellington,AF Milne,TM Johnson,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,14.2,Wellington,AF Milne,TM Johnson,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,14.3,Wellington,AF Milne,TM Johnson,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,14.4,Wellington,TM Johnson,AF Milne,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,14.5,Wellington,TM Johnson,AF Milne,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,14.6,Wellington,AF Milne,TM Johnson,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,15.1,Wellington,AF Milne,TM Johnson,MJG Rippon,1,0,,,,,,"",""
+ball,1,15.2,Wellington,TM Johnson,AF Milne,MJG Rippon,6,0,,,,,,"",""
+ball,1,15.3,Wellington,TM Johnson,AF Milne,MJG Rippon,0,0,,,,,,"",""
+ball,1,15.4,Wellington,TM Johnson,AF Milne,MJG Rippon,2,0,,,,,,"",""
+ball,1,15.5,Wellington,TM Johnson,AF Milne,MJG Rippon,1,0,,,,,,"",""
+ball,1,15.6,Wellington,AF Milne,TM Johnson,MJG Rippon,1,0,,,,,,"",""
+ball,1,16.1,Wellington,AF Milne,TM Johnson,JM Gibson,4,0,,,,,,"",""
+ball,1,16.2,Wellington,AF Milne,TM Johnson,JM Gibson,1,0,,,,,,"",""
+ball,1,16.3,Wellington,TM Johnson,AF Milne,JM Gibson,1,0,,,,,,"",""
+ball,1,16.4,Wellington,AF Milne,TM Johnson,JM Gibson,1,0,,,,,,"",""
+ball,1,16.5,Wellington,TM Johnson,AF Milne,JM Gibson,1,0,,,,,,"",""
+ball,1,16.6,Wellington,AF Milne,TM Johnson,JM Gibson,0,1,1,,,,,"",""
+ball,1,16.7,Wellington,AF Milne,TM Johnson,JM Gibson,0,0,,,,,,caught,AF Milne
+ball,1,17.1,Wellington,TM Johnson,LV van Beek,MB Bacon,1,0,,,,,,"",""
+ball,1,17.2,Wellington,LV van Beek,TM Johnson,MB Bacon,0,0,,,,,,"",""
+ball,1,17.3,Wellington,LV van Beek,TM Johnson,MB Bacon,1,0,,,,,,"",""
+ball,1,17.4,Wellington,TM Johnson,LV van Beek,MB Bacon,2,0,,,,,,"",""
+ball,1,17.5,Wellington,TM Johnson,LV van Beek,MB Bacon,1,0,,,,,,"",""
+ball,1,17.6,Wellington,LV van Beek,TM Johnson,MB Bacon,1,0,,,,,,"",""
+ball,1,18.1,Wellington,LV van Beek,TM Johnson,JM Gibson,0,1,1,,,,,"",""
+ball,1,18.2,Wellington,LV van Beek,TM Johnson,JM Gibson,4,0,,,,,,"",""
+ball,1,18.3,Wellington,LV van Beek,TM Johnson,JM Gibson,1,0,,,,,,"",""
+ball,1,18.4,Wellington,TM Johnson,LV van Beek,JM Gibson,1,0,,,,,,"",""
+ball,1,18.5,Wellington,LV van Beek,TM Johnson,JM Gibson,1,0,,,,,,"",""
+ball,1,18.6,Wellington,TM Johnson,LV van Beek,JM Gibson,4,0,,,,,,"",""
+ball,1,18.7,Wellington,TM Johnson,LV van Beek,JM Gibson,0,0,,,,,,"",""
+ball,1,19.1,Wellington,LV van Beek,TM Johnson,MB Bacon,1,0,,,,,,"",""
+ball,1,19.2,Wellington,TM Johnson,LV van Beek,MB Bacon,2,0,,,,,,"",""
+ball,1,19.3,Wellington,TM Johnson,LV van Beek,MB Bacon,1,0,,,,,,"",""
+ball,1,19.4,Wellington,LV van Beek,TM Johnson,MB Bacon,1,0,,,,,,"",""
+ball,1,19.5,Wellington,TM Johnson,LV van Beek,MB Bacon,4,0,,,,,,"",""
+ball,1,19.6,Wellington,TM Johnson,LV van Beek,MB Bacon,1,0,,,,,,"",""
+ball,2,0.1,Otago,HD Rutherford,DN Phillips,OR Newton,0,1,1,,,,,"",""
+ball,2,0.2,Otago,HD Rutherford,DN Phillips,OR Newton,0,1,1,,,,,"",""
+ball,2,0.3,Otago,HD Rutherford,DN Phillips,OR Newton,0,0,,,,,,"",""
+ball,2,0.4,Otago,HD Rutherford,DN Phillips,OR Newton,0,0,,,,,,"",""
+ball,2,0.5,Otago,HD Rutherford,DN Phillips,OR Newton,4,0,,,,,,"",""
+ball,2,0.6,Otago,HD Rutherford,DN Phillips,OR Newton,0,1,1,,,,,"",""
+ball,2,0.7,Otago,HD Rutherford,DN Phillips,OR Newton,0,0,,,,,,"",""
+ball,2,0.8,Otago,HD Rutherford,DN Phillips,OR Newton,1,0,,,,,,"",""
+ball,2,0.9,Otago,DN Phillips,HD Rutherford,OR Newton,0,0,,,,,,caught,DN Phillips
+ball,2,1.1,Otago,HD Rutherford,D Foxcroft,AF Milne,0,0,,,,,,"",""
+ball,2,1.2,Otago,HD Rutherford,D Foxcroft,AF Milne,0,0,,,,,,"",""
+ball,2,1.3,Otago,HD Rutherford,D Foxcroft,AF Milne,0,5,5,,,,,"",""
+ball,2,1.4,Otago,HD Rutherford,D Foxcroft,AF Milne,0,0,,,,,,"",""
+ball,2,1.5,Otago,HD Rutherford,D Foxcroft,AF Milne,2,0,,,,,,"",""
+ball,2,1.6,Otago,HD Rutherford,D Foxcroft,AF Milne,4,0,,,,,,"",""
+ball,2,1.7,Otago,HD Rutherford,D Foxcroft,AF Milne,4,0,,,,,,"",""
+ball,2,2.1,Otago,D Foxcroft,HD Rutherford,NG Smith,0,0,,,,,,"",""
+ball,2,2.2,Otago,D Foxcroft,HD Rutherford,NG Smith,0,0,,,,,,"",""
+ball,2,2.3,Otago,D Foxcroft,HD Rutherford,NG Smith,4,0,,,,,,"",""
+ball,2,2.4,Otago,D Foxcroft,HD Rutherford,NG Smith,1,0,,,,,,"",""
+ball,2,2.5,Otago,HD Rutherford,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,2,2.6,Otago,HD Rutherford,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,2,3.1,Otago,D Foxcroft,HD Rutherford,LV van Beek,0,0,,,,,,"",""
+ball,2,3.2,Otago,D Foxcroft,HD Rutherford,LV van Beek,4,0,,,,,,"",""
+ball,2,3.3,Otago,D Foxcroft,HD Rutherford,LV van Beek,0,0,,,,,,"",""
+ball,2,3.4,Otago,D Foxcroft,HD Rutherford,LV van Beek,0,0,,,,,,"",""
+ball,2,3.5,Otago,D Foxcroft,HD Rutherford,LV van Beek,0,0,,,,,,"",""
+ball,2,3.6,Otago,D Foxcroft,HD Rutherford,LV van Beek,0,0,,,,,,"",""
+ball,2,4.1,Otago,HD Rutherford,D Foxcroft,NG Smith,0,0,,,,,,caught,HD Rutherford
+ball,2,4.2,Otago,JL Finnie,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,2,4.3,Otago,JL Finnie,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,2,4.4,Otago,JL Finnie,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,2,4.5,Otago,JL Finnie,D Foxcroft,NG Smith,4,0,,,,,,"",""
+ball,2,4.6,Otago,JL Finnie,D Foxcroft,NG Smith,0,0,,,,,,"",""
+ball,2,5.1,Otago,D Foxcroft,JL Finnie,AF Milne,0,0,,,,,,"",""
+ball,2,5.2,Otago,D Foxcroft,JL Finnie,AF Milne,0,0,,,,,,"",""
+ball,2,5.3,Otago,D Foxcroft,JL Finnie,AF Milne,0,0,,,,,,"",""
+ball,2,5.4,Otago,D Foxcroft,JL Finnie,AF Milne,0,0,,,,,,"",""
+ball,2,5.5,Otago,D Foxcroft,JL Finnie,AF Milne,4,0,,,,,,"",""
+ball,2,5.6,Otago,D Foxcroft,JL Finnie,AF Milne,0,0,,,,,,"",""
+ball,2,6.1,Otago,JL Finnie,D Foxcroft,R Ravindra,1,0,,,,,,"",""
+ball,2,6.2,Otago,D Foxcroft,JL Finnie,R Ravindra,0,0,,,,,,"",""
+ball,2,6.3,Otago,D Foxcroft,JL Finnie,R Ravindra,1,0,,,,,,"",""
+ball,2,6.4,Otago,JL Finnie,D Foxcroft,R Ravindra,0,0,,,,,,"",""
+ball,2,6.5,Otago,JL Finnie,D Foxcroft,R Ravindra,1,0,,,,,,"",""
+ball,2,6.6,Otago,D Foxcroft,JL Finnie,R Ravindra,1,0,,,,,,"",""
+ball,2,7.1,Otago,D Foxcroft,JL Finnie,PF Younghusband,1,0,,,,,,"",""
+ball,2,7.2,Otago,JL Finnie,D Foxcroft,PF Younghusband,1,0,,,,,,"",""
+ball,2,7.3,Otago,D Foxcroft,JL Finnie,PF Younghusband,4,0,,,,,,"",""
+ball,2,7.4,Otago,D Foxcroft,JL Finnie,PF Younghusband,1,0,,,,,,"",""
+ball,2,7.5,Otago,JL Finnie,D Foxcroft,PF Younghusband,1,0,,,,,,"",""
+ball,2,7.6,Otago,D Foxcroft,JL Finnie,PF Younghusband,4,0,,,,,,"",""
+ball,2,8.1,Otago,JL Finnie,D Foxcroft,R Ravindra,1,0,,,,,,"",""
+ball,2,8.2,Otago,D Foxcroft,JL Finnie,R Ravindra,1,0,,,,,,"",""
+ball,2,8.3,Otago,JL Finnie,D Foxcroft,R Ravindra,1,0,,,,,,"",""
+ball,2,8.4,Otago,D Foxcroft,JL Finnie,R Ravindra,0,0,,,,,,bowled,D Foxcroft
+ball,2,8.5,Otago,MJG Rippon,JL Finnie,R Ravindra,0,0,,,,,,"",""
+ball,2,8.6,Otago,MJG Rippon,JL Finnie,R Ravindra,0,0,,,,,,"",""
+ball,2,9.1,Otago,JL Finnie,MJG Rippon,LV van Beek,1,0,,,,,,"",""
+ball,2,9.2,Otago,MJG Rippon,JL Finnie,LV van Beek,0,0,,,,,,"",""
+ball,2,9.3,Otago,MJG Rippon,JL Finnie,LV van Beek,2,0,,,,,,"",""
+ball,2,9.4,Otago,MJG Rippon,JL Finnie,LV van Beek,4,0,,,,,,"",""
+ball,2,9.5,Otago,MJG Rippon,JL Finnie,LV van Beek,0,0,,,,,,"",""
+ball,2,9.6,Otago,MJG Rippon,JL Finnie,LV van Beek,0,0,,,,,,"",""
+ball,2,10.1,Otago,JL Finnie,MJG Rippon,R Ravindra,0,0,,,,,,"",""
+ball,2,10.2,Otago,JL Finnie,MJG Rippon,R Ravindra,1,0,,,,,,"",""
+ball,2,10.3,Otago,MJG Rippon,JL Finnie,R Ravindra,1,0,,,,,,"",""
+ball,2,10.4,Otago,JL Finnie,MJG Rippon,R Ravindra,1,0,,,,,,"",""
+ball,2,10.5,Otago,MJG Rippon,JL Finnie,R Ravindra,4,0,,,,,,"",""
+ball,2,10.6,Otago,MJG Rippon,JL Finnie,R Ravindra,1,0,,,,,,"",""
+ball,2,11.1,Otago,MJG Rippon,JL Finnie,PF Younghusband,0,0,,,,,,"",""
+ball,2,11.2,Otago,MJG Rippon,JL Finnie,PF Younghusband,0,0,,,,,,"",""
+ball,2,11.3,Otago,MJG Rippon,JL Finnie,PF Younghusband,1,0,,,,,,"",""
+ball,2,11.4,Otago,JL Finnie,MJG Rippon,PF Younghusband,0,0,,,,,,"",""
+ball,2,11.5,Otago,JL Finnie,MJG Rippon,PF Younghusband,1,0,,,,,,"",""
+ball,2,11.6,Otago,MJG Rippon,JL Finnie,PF Younghusband,1,0,,,,,,"",""
+ball,2,12.1,Otago,MJG Rippon,JL Finnie,OR Newton,0,0,,,,,,"",""
+ball,2,12.2,Otago,MJG Rippon,JL Finnie,OR Newton,1,0,,,,,,"",""
+ball,2,12.3,Otago,JL Finnie,MJG Rippon,OR Newton,1,0,,,,,,"",""
+ball,2,12.4,Otago,MJG Rippon,JL Finnie,OR Newton,6,0,,,,,,"",""
+ball,2,12.5,Otago,MJG Rippon,JL Finnie,OR Newton,0,0,,,,,,"",""
+ball,2,12.6,Otago,MJG Rippon,JL Finnie,OR Newton,1,0,,,,,,"",""
+ball,2,13.1,Otago,MJG Rippon,JL Finnie,AF Milne,1,0,,,,,,"",""
+ball,2,13.2,Otago,JL Finnie,MJG Rippon,AF Milne,0,0,,,,,,bowled,JL Finnie
+ball,2,13.3,Otago,LC Johnson,MJG Rippon,AF Milne,0,0,,,,,,"",""
+ball,2,13.4,Otago,LC Johnson,MJG Rippon,AF Milne,0,0,,,,,,"",""
+ball,2,13.5,Otago,LC Johnson,MJG Rippon,AF Milne,0,0,,,,,,"",""
+ball,2,13.6,Otago,LC Johnson,MJG Rippon,AF Milne,2,0,,,,,,"",""
+ball,2,14.1,Otago,MJG Rippon,LC Johnson,R Ravindra,0,0,,,,,,"",""
+ball,2,14.2,Otago,MJG Rippon,LC Johnson,R Ravindra,1,0,,,,,,"",""
+ball,2,14.3,Otago,LC Johnson,MJG Rippon,R Ravindra,0,0,,,,,,"",""
+ball,2,14.4,Otago,LC Johnson,MJG Rippon,R Ravindra,0,0,,,,,,"",""
+ball,2,14.5,Otago,LC Johnson,MJG Rippon,R Ravindra,2,0,,,,,,"",""
+ball,2,14.6,Otago,LC Johnson,MJG Rippon,R Ravindra,1,0,,,,,,"",""
+ball,2,15.1,Otago,LC Johnson,MJG Rippon,NG Smith,4,0,,,,,,"",""
+ball,2,15.2,Otago,LC Johnson,MJG Rippon,NG Smith,1,0,,,,,,"",""
+ball,2,15.3,Otago,MJG Rippon,LC Johnson,NG Smith,0,0,,,,,,caught,MJG Rippon
+ball,2,15.4,Otago,NM Kwant,LC Johnson,NG Smith,0,0,,,,,,"",""
+ball,2,15.5,Otago,NM Kwant,LC Johnson,NG Smith,1,0,,,,,,"",""
+ball,2,15.6,Otago,LC Johnson,NM Kwant,NG Smith,0,0,,,,,,"",""
+ball,2,16.1,Otago,NM Kwant,LC Johnson,LV van Beek,0,0,,,,,,"",""
+ball,2,16.2,Otago,NM Kwant,LC Johnson,LV van Beek,0,1,1,,,,,"",""
+ball,2,16.3,Otago,NM Kwant,LC Johnson,LV van Beek,0,0,,,,,,"",""
+ball,2,16.4,Otago,NM Kwant,LC Johnson,LV van Beek,1,0,,,,,,"",""
+ball,2,16.5,Otago,LC Johnson,NM Kwant,LV van Beek,1,0,,,,,,"",""
+ball,2,16.6,Otago,NM Kwant,LC Johnson,LV van Beek,0,0,,,,,,"",""
+ball,2,16.7,Otago,NM Kwant,LC Johnson,LV van Beek,4,0,,,,,,"",""
+ball,2,17.1,Otago,LC Johnson,NM Kwant,AF Milne,0,0,,,,,,"",""
+ball,2,17.2,Otago,LC Johnson,NM Kwant,AF Milne,0,0,,,,,,"",""
+ball,2,17.3,Otago,LC Johnson,NM Kwant,AF Milne,0,0,,,,,,"",""
+ball,2,17.4,Otago,LC Johnson,NM Kwant,AF Milne,1,0,,,,,,"",""
+ball,2,17.5,Otago,NM Kwant,LC Johnson,AF Milne,0,0,,,,,,"",""
+ball,2,17.6,Otago,NM Kwant,LC Johnson,AF Milne,0,1,,1,,,,"",""
+ball,2,17.7,Otago,NM Kwant,LC Johnson,AF Milne,1,0,,,,,,"",""
+ball,2,18.1,Otago,NM Kwant,LC Johnson,LV van Beek,2,0,,,,,,"",""
+ball,2,18.2,Otago,NM Kwant,LC Johnson,LV van Beek,1,0,,,,,,"",""
+ball,2,18.3,Otago,LC Johnson,NM Kwant,LV van Beek,1,0,,,,,,"",""
+ball,2,18.4,Otago,NM Kwant,LC Johnson,LV van Beek,1,0,,,,,,"",""
+ball,2,18.5,Otago,LC Johnson,NM Kwant,LV van Beek,4,0,,,,,,"",""
+ball,2,18.6,Otago,LC Johnson,NM Kwant,LV van Beek,1,0,,,,,,"",""
+ball,2,19.1,Otago,LC Johnson,NM Kwant,NG Smith,0,0,,,,,,"",""
+ball,2,19.2,Otago,LC Johnson,NM Kwant,NG Smith,4,0,,,,,,"",""

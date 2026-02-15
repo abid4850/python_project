@@ -1,0 +1,280 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Central Districts
+info,team,Northern Districts
+info,gender,male
+info,season,2019/20
+info,date,2019/12/13
+info,event,Super Smash
+info,match_number,1
+info,venue,McLean Park
+info,city,Napier
+info,toss_winner,Central Districts
+info,toss_decision,bat
+info,umpire,CM Brown
+info,umpire,WR Knights
+info,reserve_umpire,Glen Walklin
+info,tv_umpire,SB Haig
+info,match_referee,GAV Baxter
+info,winner,Central Districts
+info,winner_runs,120
+info,player,Central Districts,GH Worker
+info,player,Central Districts,D Cleaver
+info,player,Central Districts,CK Leopard
+info,player,Central Districts,TC Bruce
+info,player,Central Districts,K Noema-Barnett
+info,player,Central Districts,JA Clarkson
+info,player,Central Districts,WC Ludick
+info,player,Central Districts,BM Wheeler
+info,player,Central Districts,RJ Watson
+info,player,Central Districts,AY Patel
+info,player,Central Districts,SHA Rance
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,PD Bocock
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,A Verma
+info,player,Northern Districts,MJ Fisher
+info,registry,people,A Verma,8e9a5d20
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BM Wheeler,397f4d3a
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,CK Leopard,46966c2b
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JF Carter,125fa4de
+info,registry,people,K Noema-Barnett,1ad0b441
+info,registry,people,MJ Fisher,7068c81e
+info,registry,people,PD Bocock,329b08c2
+info,registry,people,RJ Watson,fa760ccd
+info,registry,people,SB Haig,811655b3
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SHA Rance,69c994e4
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WC Ludick,2a802bfd
+info,registry,people,WR Knights,63cbf8d8
+ball,1,0.1,Central Districts,GH Worker,D Cleaver,AP Devcich,1,0,,,,,,"",""
+ball,1,0.2,Central Districts,D Cleaver,GH Worker,AP Devcich,0,0,,,,,,"",""
+ball,1,0.3,Central Districts,D Cleaver,GH Worker,AP Devcich,1,0,,,,,,"",""
+ball,1,0.4,Central Districts,GH Worker,D Cleaver,AP Devcich,0,0,,,,,,"",""
+ball,1,0.5,Central Districts,GH Worker,D Cleaver,AP Devcich,4,0,,,,,,"",""
+ball,1,0.6,Central Districts,GH Worker,D Cleaver,AP Devcich,1,0,,,,,,"",""
+ball,1,1.1,Central Districts,GH Worker,D Cleaver,SC Kuggeleijn,0,3,,,,3,,"",""
+ball,1,1.2,Central Districts,D Cleaver,GH Worker,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,1.3,Central Districts,D Cleaver,GH Worker,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,1.4,Central Districts,D Cleaver,GH Worker,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,1.5,Central Districts,D Cleaver,GH Worker,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,1,1.6,Central Districts,D Cleaver,GH Worker,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,1.7,Central Districts,D Cleaver,GH Worker,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,2.1,Central Districts,GH Worker,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,2.2,Central Districts,GH Worker,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,2.3,Central Districts,GH Worker,D Cleaver,MJ Fisher,6,0,,,,,,"",""
+ball,1,2.4,Central Districts,GH Worker,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,2.5,Central Districts,GH Worker,D Cleaver,MJ Fisher,4,0,,,,,,"",""
+ball,1,2.6,Central Districts,GH Worker,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,3.1,Central Districts,D Cleaver,GH Worker,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,3.2,Central Districts,D Cleaver,GH Worker,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,3.3,Central Districts,D Cleaver,GH Worker,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,3.4,Central Districts,GH Worker,D Cleaver,SC Kuggeleijn,6,0,,,,,,"",""
+ball,1,3.5,Central Districts,GH Worker,D Cleaver,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,3.6,Central Districts,GH Worker,D Cleaver,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,4.1,Central Districts,D Cleaver,GH Worker,A Verma,0,0,,,,,,"",""
+ball,1,4.2,Central Districts,D Cleaver,GH Worker,A Verma,1,0,,,,,,"",""
+ball,1,4.3,Central Districts,GH Worker,D Cleaver,A Verma,0,1,,,,1,,"",""
+ball,1,4.4,Central Districts,D Cleaver,GH Worker,A Verma,4,0,,,,,,"",""
+ball,1,4.5,Central Districts,D Cleaver,GH Worker,A Verma,0,0,,,,,,"",""
+ball,1,4.6,Central Districts,D Cleaver,GH Worker,A Verma,4,0,,,,,,"",""
+ball,1,5.1,Central Districts,GH Worker,D Cleaver,MJ Fisher,4,0,,,,,,"",""
+ball,1,5.2,Central Districts,GH Worker,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,5.3,Central Districts,GH Worker,D Cleaver,MJ Fisher,4,0,,,,,,"",""
+ball,1,5.4,Central Districts,GH Worker,D Cleaver,MJ Fisher,6,0,,,,,,"",""
+ball,1,5.5,Central Districts,GH Worker,D Cleaver,MJ Fisher,0,0,,,,,,bowled,GH Worker
+ball,1,5.6,Central Districts,CK Leopard,D Cleaver,MJ Fisher,0,0,,,,,,"",""
+ball,1,6.1,Central Districts,D Cleaver,CK Leopard,IS Sodhi,0,0,,,,,,"",""
+ball,1,6.2,Central Districts,D Cleaver,CK Leopard,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.3,Central Districts,CK Leopard,D Cleaver,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.4,Central Districts,D Cleaver,CK Leopard,IS Sodhi,3,0,,,,,,"",""
+ball,1,6.5,Central Districts,CK Leopard,D Cleaver,IS Sodhi,0,0,,,,,,"",""
+ball,1,6.6,Central Districts,CK Leopard,D Cleaver,IS Sodhi,0,0,,,,,,"",""
+ball,1,7.1,Central Districts,D Cleaver,CK Leopard,MJ Fisher,0,0,,,,,,"",""
+ball,1,7.2,Central Districts,D Cleaver,CK Leopard,MJ Fisher,2,0,,,,,,"",""
+ball,1,7.3,Central Districts,D Cleaver,CK Leopard,MJ Fisher,0,1,1,,,,,"",""
+ball,1,7.4,Central Districts,D Cleaver,CK Leopard,MJ Fisher,0,0,,,,,,"",""
+ball,1,7.5,Central Districts,D Cleaver,CK Leopard,MJ Fisher,1,1,,1,,,,"",""
+ball,1,7.6,Central Districts,CK Leopard,D Cleaver,MJ Fisher,6,0,,,,,,"",""
+ball,1,7.7,Central Districts,CK Leopard,D Cleaver,MJ Fisher,2,0,,,,,,"",""
+ball,1,7.8,Central Districts,CK Leopard,D Cleaver,MJ Fisher,1,0,,,,,,"",""
+ball,1,8.1,Central Districts,CK Leopard,D Cleaver,IS Sodhi,3,0,,,,,,"",""
+ball,1,8.2,Central Districts,D Cleaver,CK Leopard,IS Sodhi,0,0,,,,,,"",""
+ball,1,8.3,Central Districts,D Cleaver,CK Leopard,IS Sodhi,0,0,,,,,,"",""
+ball,1,8.4,Central Districts,D Cleaver,CK Leopard,IS Sodhi,1,0,,,,,,"",""
+ball,1,8.5,Central Districts,CK Leopard,D Cleaver,IS Sodhi,0,0,,,,,,caught,CK Leopard
+ball,1,8.6,Central Districts,D Cleaver,TC Bruce,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.1,Central Districts,D Cleaver,TC Bruce,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,9.2,Central Districts,D Cleaver,TC Bruce,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,9.3,Central Districts,TC Bruce,D Cleaver,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,9.4,Central Districts,D Cleaver,TC Bruce,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,9.5,Central Districts,D Cleaver,TC Bruce,SC Kuggeleijn,6,0,,,,,,"",""
+ball,1,9.6,Central Districts,D Cleaver,TC Bruce,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,10.1,Central Districts,TC Bruce,D Cleaver,IS Sodhi,1,0,,,,,,"",""
+ball,1,10.2,Central Districts,D Cleaver,TC Bruce,IS Sodhi,0,0,,,,,,caught,D Cleaver
+ball,1,10.3,Central Districts,TC Bruce,K Noema-Barnett,IS Sodhi,0,0,,,,,,"",""
+ball,1,10.4,Central Districts,TC Bruce,K Noema-Barnett,IS Sodhi,1,0,,,,,,"",""
+ball,1,10.5,Central Districts,K Noema-Barnett,TC Bruce,IS Sodhi,0,0,,,,,,"",""
+ball,1,10.6,Central Districts,K Noema-Barnett,TC Bruce,IS Sodhi,1,0,,,,,,"",""
+ball,1,11.1,Central Districts,K Noema-Barnett,TC Bruce,MJ Fisher,0,0,,,,,,"",""
+ball,1,11.2,Central Districts,K Noema-Barnett,TC Bruce,MJ Fisher,1,0,,,,,,"",""
+ball,1,11.3,Central Districts,TC Bruce,K Noema-Barnett,MJ Fisher,0,0,,,,,,"",""
+ball,1,11.4,Central Districts,TC Bruce,K Noema-Barnett,MJ Fisher,1,0,,,,,,"",""
+ball,1,11.5,Central Districts,K Noema-Barnett,TC Bruce,MJ Fisher,6,0,,,,,,"",""
+ball,1,11.6,Central Districts,K Noema-Barnett,TC Bruce,MJ Fisher,0,0,,,,,,"",""
+ball,1,12.1,Central Districts,TC Bruce,K Noema-Barnett,AP Devcich,1,0,,,,,,"",""
+ball,1,12.2,Central Districts,K Noema-Barnett,TC Bruce,AP Devcich,1,0,,,,,,"",""
+ball,1,12.3,Central Districts,TC Bruce,K Noema-Barnett,AP Devcich,1,0,,,,,,"",""
+ball,1,12.4,Central Districts,K Noema-Barnett,TC Bruce,AP Devcich,0,1,1,,,,,"",""
+ball,1,12.5,Central Districts,K Noema-Barnett,TC Bruce,AP Devcich,1,0,,,,,,"",""
+ball,1,12.6,Central Districts,TC Bruce,K Noema-Barnett,AP Devcich,1,0,,,,,,"",""
+ball,1,12.7,Central Districts,K Noema-Barnett,TC Bruce,AP Devcich,6,0,,,,,,"",""
+ball,1,13.1,Central Districts,TC Bruce,K Noema-Barnett,A Verma,6,0,,,,,,"",""
+ball,1,13.2,Central Districts,TC Bruce,K Noema-Barnett,A Verma,2,0,,,,,,"",""
+ball,1,13.3,Central Districts,TC Bruce,K Noema-Barnett,A Verma,1,0,,,,,,"",""
+ball,1,13.4,Central Districts,K Noema-Barnett,TC Bruce,A Verma,1,0,,,,,,"",""
+ball,1,13.5,Central Districts,TC Bruce,K Noema-Barnett,A Verma,2,0,,,,,,"",""
+ball,1,13.6,Central Districts,TC Bruce,K Noema-Barnett,A Verma,1,0,,,,,,"",""
+ball,1,14.1,Central Districts,TC Bruce,K Noema-Barnett,IS Sodhi,4,0,,,,,,"",""
+ball,1,14.2,Central Districts,TC Bruce,K Noema-Barnett,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.3,Central Districts,K Noema-Barnett,TC Bruce,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.4,Central Districts,TC Bruce,K Noema-Barnett,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.5,Central Districts,K Noema-Barnett,TC Bruce,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.6,Central Districts,TC Bruce,K Noema-Barnett,IS Sodhi,6,0,,,,,,"",""
+ball,1,15.1,Central Districts,K Noema-Barnett,TC Bruce,SC Kuggeleijn,6,0,,,,,,"",""
+ball,1,15.2,Central Districts,K Noema-Barnett,TC Bruce,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,15.3,Central Districts,TC Bruce,K Noema-Barnett,SC Kuggeleijn,6,0,,,,,,"",""
+ball,1,15.4,Central Districts,TC Bruce,K Noema-Barnett,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,15.5,Central Districts,K Noema-Barnett,TC Bruce,SC Kuggeleijn,6,0,,,,,,"",""
+ball,1,15.6,Central Districts,K Noema-Barnett,TC Bruce,SC Kuggeleijn,6,0,,,,,,"",""
+ball,1,16.1,Central Districts,TC Bruce,K Noema-Barnett,AP Devcich,0,0,,,,,,caught and bowled,TC Bruce
+ball,1,16.2,Central Districts,K Noema-Barnett,JA Clarkson,AP Devcich,1,0,,,,,,"",""
+ball,1,16.3,Central Districts,JA Clarkson,K Noema-Barnett,AP Devcich,0,0,,,,,,"",""
+ball,1,16.4,Central Districts,JA Clarkson,K Noema-Barnett,AP Devcich,1,0,,,,,,"",""
+ball,1,16.5,Central Districts,K Noema-Barnett,JA Clarkson,AP Devcich,1,0,,,,,,"",""
+ball,1,16.6,Central Districts,JA Clarkson,K Noema-Barnett,AP Devcich,0,1,1,,,,,"",""
+ball,1,16.7,Central Districts,JA Clarkson,K Noema-Barnett,AP Devcich,1,0,,,,,,"",""
+ball,1,17.1,Central Districts,JA Clarkson,K Noema-Barnett,A Verma,1,0,,,,,,"",""
+ball,1,17.2,Central Districts,K Noema-Barnett,JA Clarkson,A Verma,0,0,,,,,,"",""
+ball,1,17.3,Central Districts,K Noema-Barnett,JA Clarkson,A Verma,0,0,,,,,,"",""
+ball,1,17.4,Central Districts,K Noema-Barnett,JA Clarkson,A Verma,1,0,,,,,,"",""
+ball,1,17.5,Central Districts,JA Clarkson,K Noema-Barnett,A Verma,1,0,,,,,,"",""
+ball,1,17.6,Central Districts,K Noema-Barnett,JA Clarkson,A Verma,0,0,,,,,,"",""
+ball,1,18.1,Central Districts,JA Clarkson,K Noema-Barnett,DJ Mitchell,2,0,,,,,,"",""
+ball,1,18.2,Central Districts,JA Clarkson,K Noema-Barnett,DJ Mitchell,6,0,,,,,,"",""
+ball,1,18.3,Central Districts,JA Clarkson,K Noema-Barnett,DJ Mitchell,6,0,,,,,,"",""
+ball,1,18.4,Central Districts,JA Clarkson,K Noema-Barnett,DJ Mitchell,1,0,,,,,,"",""
+ball,1,18.5,Central Districts,K Noema-Barnett,JA Clarkson,DJ Mitchell,6,0,,,,,,"",""
+ball,1,18.6,Central Districts,K Noema-Barnett,JA Clarkson,DJ Mitchell,0,0,,,,,,"",""
+ball,1,19.1,Central Districts,JA Clarkson,K Noema-Barnett,A Verma,6,0,,,,,,"",""
+ball,1,19.2,Central Districts,JA Clarkson,K Noema-Barnett,A Verma,1,0,,,,,,"",""
+ball,1,19.3,Central Districts,K Noema-Barnett,JA Clarkson,A Verma,0,0,,,,,,run out,K Noema-Barnett
+ball,1,19.4,Central Districts,JA Clarkson,WC Ludick,A Verma,4,0,,,,,,"",""
+ball,1,19.5,Central Districts,JA Clarkson,WC Ludick,A Verma,1,0,,,,,,"",""
+ball,1,19.6,Central Districts,WC Ludick,JA Clarkson,A Verma,2,0,,,,,,"",""
+ball,2,0.1,Northern Districts,DG Brownlie,AP Devcich,SHA Rance,0,0,,,,,,"",""
+ball,2,0.2,Northern Districts,DG Brownlie,AP Devcich,SHA Rance,4,0,,,,,,"",""
+ball,2,0.3,Northern Districts,DG Brownlie,AP Devcich,SHA Rance,1,0,,,,,,"",""
+ball,2,0.4,Northern Districts,AP Devcich,DG Brownlie,SHA Rance,0,0,,,,,,"",""
+ball,2,0.5,Northern Districts,AP Devcich,DG Brownlie,SHA Rance,1,0,,,,,,"",""
+ball,2,0.6,Northern Districts,DG Brownlie,AP Devcich,SHA Rance,0,0,,,,,,"",""
+ball,2,1.1,Northern Districts,AP Devcich,DG Brownlie,BM Wheeler,0,0,,,,,,"",""
+ball,2,1.2,Northern Districts,AP Devcich,DG Brownlie,BM Wheeler,2,0,,,,,,"",""
+ball,2,1.3,Northern Districts,AP Devcich,DG Brownlie,BM Wheeler,1,0,,,,,,"",""
+ball,2,1.4,Northern Districts,DG Brownlie,AP Devcich,BM Wheeler,0,0,,,,,,"",""
+ball,2,1.5,Northern Districts,DG Brownlie,AP Devcich,BM Wheeler,4,0,,,,,,"",""
+ball,2,1.6,Northern Districts,DG Brownlie,AP Devcich,BM Wheeler,0,0,,,,,,"",""
+ball,2,2.1,Northern Districts,AP Devcich,DG Brownlie,SHA Rance,0,0,,,,,,"",""
+ball,2,2.2,Northern Districts,AP Devcich,DG Brownlie,SHA Rance,0,0,,,,,,"",""
+ball,2,2.3,Northern Districts,AP Devcich,DG Brownlie,SHA Rance,4,0,,,,,,"",""
+ball,2,2.4,Northern Districts,AP Devcich,DG Brownlie,SHA Rance,0,1,,,,1,,"",""
+ball,2,2.5,Northern Districts,DG Brownlie,AP Devcich,SHA Rance,0,0,,,,,,caught,DG Brownlie
+ball,2,2.6,Northern Districts,AP Devcich,JF Carter,SHA Rance,0,0,,,,,,"",""
+ball,2,3.1,Northern Districts,JF Carter,AP Devcich,WC Ludick,0,1,1,,,,,"",""
+ball,2,3.2,Northern Districts,JF Carter,AP Devcich,WC Ludick,0,0,,,,,,"",""
+ball,2,3.3,Northern Districts,JF Carter,AP Devcich,WC Ludick,1,0,,,,,,"",""
+ball,2,3.4,Northern Districts,AP Devcich,JF Carter,WC Ludick,1,0,,,,,,"",""
+ball,2,3.5,Northern Districts,JF Carter,AP Devcich,WC Ludick,0,0,,,,,,"",""
+ball,2,3.6,Northern Districts,JF Carter,AP Devcich,WC Ludick,1,0,,,,,,"",""
+ball,2,3.7,Northern Districts,AP Devcich,JF Carter,WC Ludick,0,0,,,,,,"",""
+ball,2,4.1,Northern Districts,JF Carter,AP Devcich,AY Patel,0,0,,,,,,"",""
+ball,2,4.2,Northern Districts,JF Carter,AP Devcich,AY Patel,0,0,,,,,,stumped,JF Carter
+ball,2,4.3,Northern Districts,BR Hampton,AP Devcich,AY Patel,0,0,,,,,,"",""
+ball,2,4.4,Northern Districts,BR Hampton,AP Devcich,AY Patel,0,0,,,,,,"",""
+ball,2,4.5,Northern Districts,BR Hampton,AP Devcich,AY Patel,0,0,,,,,,"",""
+ball,2,4.6,Northern Districts,BR Hampton,AP Devcich,AY Patel,4,0,,,,,,"",""
+ball,2,5.1,Northern Districts,AP Devcich,BR Hampton,BM Wheeler,4,0,,,,,,"",""
+ball,2,5.2,Northern Districts,AP Devcich,BR Hampton,BM Wheeler,0,0,,,,,,"",""
+ball,2,5.3,Northern Districts,AP Devcich,BR Hampton,BM Wheeler,4,0,,,,,,"",""
+ball,2,5.4,Northern Districts,AP Devcich,BR Hampton,BM Wheeler,6,0,,,,,,"",""
+ball,2,5.5,Northern Districts,AP Devcich,BR Hampton,BM Wheeler,0,0,,,,,,"",""
+ball,2,5.6,Northern Districts,AP Devcich,BR Hampton,BM Wheeler,1,0,,,,,,"",""
+ball,2,6.1,Northern Districts,AP Devcich,BR Hampton,AY Patel,4,0,,,,,,"",""
+ball,2,6.2,Northern Districts,AP Devcich,BR Hampton,AY Patel,2,0,,,,,,"",""
+ball,2,6.3,Northern Districts,AP Devcich,BR Hampton,AY Patel,1,0,,,,,,"",""
+ball,2,6.4,Northern Districts,BR Hampton,AP Devcich,AY Patel,0,0,,,,,,bowled,BR Hampton
+ball,2,6.5,Northern Districts,DJ Mitchell,AP Devcich,AY Patel,1,0,,,,,,"",""
+ball,2,6.6,Northern Districts,AP Devcich,DJ Mitchell,AY Patel,4,0,,,,,,"",""
+ball,2,7.1,Northern Districts,DJ Mitchell,AP Devcich,RJ Watson,0,1,1,,,,,"",""
+ball,2,7.2,Northern Districts,DJ Mitchell,AP Devcich,RJ Watson,0,0,,,,,,"",""
+ball,2,7.3,Northern Districts,DJ Mitchell,AP Devcich,RJ Watson,2,0,,,,,,"",""
+ball,2,7.4,Northern Districts,DJ Mitchell,AP Devcich,RJ Watson,4,0,,,,,,"",""
+ball,2,7.5,Northern Districts,DJ Mitchell,AP Devcich,RJ Watson,1,0,,,,,,"",""
+ball,2,7.6,Northern Districts,AP Devcich,DJ Mitchell,RJ Watson,0,0,,,,,,caught,AP Devcich
+ball,2,7.7,Northern Districts,DR Flynn,DJ Mitchell,RJ Watson,1,0,,,,,,"",""
+ball,2,8.1,Northern Districts,DR Flynn,DJ Mitchell,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,8.2,Northern Districts,DR Flynn,DJ Mitchell,K Noema-Barnett,6,0,,,,,,"",""
+ball,2,8.3,Northern Districts,DR Flynn,DJ Mitchell,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,8.4,Northern Districts,DR Flynn,DJ Mitchell,K Noema-Barnett,0,0,,,,,,caught,DR Flynn
+ball,2,8.5,Northern Districts,DJ Mitchell,PD Bocock,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,8.6,Northern Districts,DJ Mitchell,PD Bocock,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,9.1,Northern Districts,DJ Mitchell,PD Bocock,RJ Watson,1,0,,,,,,"",""
+ball,2,9.2,Northern Districts,PD Bocock,DJ Mitchell,RJ Watson,1,0,,,,,,"",""
+ball,2,9.3,Northern Districts,DJ Mitchell,PD Bocock,RJ Watson,1,0,,,,,,"",""
+ball,2,9.4,Northern Districts,PD Bocock,DJ Mitchell,RJ Watson,2,0,,,,,,"",""
+ball,2,9.5,Northern Districts,PD Bocock,DJ Mitchell,RJ Watson,2,1,,1,,,,"",""
+ball,2,9.6,Northern Districts,PD Bocock,DJ Mitchell,RJ Watson,4,0,,,,,,"",""
+ball,2,9.7,Northern Districts,PD Bocock,DJ Mitchell,RJ Watson,4,0,,,,,,"",""
+ball,2,10.1,Northern Districts,DJ Mitchell,PD Bocock,BM Wheeler,1,0,,,,,,"",""
+ball,2,10.2,Northern Districts,PD Bocock,DJ Mitchell,BM Wheeler,0,0,,,,,,bowled,PD Bocock
+ball,2,10.3,Northern Districts,SC Kuggeleijn,DJ Mitchell,BM Wheeler,4,0,,,,,,"",""
+ball,2,10.4,Northern Districts,SC Kuggeleijn,DJ Mitchell,BM Wheeler,1,0,,,,,,"",""
+ball,2,10.5,Northern Districts,DJ Mitchell,SC Kuggeleijn,BM Wheeler,1,0,,,,,,"",""
+ball,2,10.6,Northern Districts,SC Kuggeleijn,DJ Mitchell,BM Wheeler,1,0,,,,,,"",""
+ball,2,11.1,Northern Districts,SC Kuggeleijn,DJ Mitchell,AY Patel,0,0,,,,,,run out,DJ Mitchell
+ball,2,11.2,Northern Districts,SC Kuggeleijn,IS Sodhi,AY Patel,1,0,,,,,,"",""
+ball,2,11.3,Northern Districts,IS Sodhi,SC Kuggeleijn,AY Patel,1,0,,,,,,"",""
+ball,2,11.4,Northern Districts,SC Kuggeleijn,IS Sodhi,AY Patel,0,0,,,,,,"",""
+ball,2,11.5,Northern Districts,SC Kuggeleijn,IS Sodhi,AY Patel,0,0,,,,,,"",""
+ball,2,11.6,Northern Districts,SC Kuggeleijn,IS Sodhi,AY Patel,0,0,,,,,,"",""
+ball,2,12.1,Northern Districts,IS Sodhi,SC Kuggeleijn,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,12.2,Northern Districts,SC Kuggeleijn,IS Sodhi,K Noema-Barnett,0,0,,,,,,"",""
+ball,2,12.3,Northern Districts,SC Kuggeleijn,IS Sodhi,K Noema-Barnett,0,0,,,,,,stumped,SC Kuggeleijn
+ball,2,12.4,Northern Districts,A Verma,IS Sodhi,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,12.5,Northern Districts,IS Sodhi,A Verma,K Noema-Barnett,1,0,,,,,,"",""
+ball,2,12.6,Northern Districts,A Verma,IS Sodhi,K Noema-Barnett,0,0,,,,,,caught,A Verma
+ball,2,13.1,Northern Districts,MJ Fisher,IS Sodhi,AY Patel,0,0,,,,,,"",""
+ball,2,13.2,Northern Districts,MJ Fisher,IS Sodhi,AY Patel,0,0,,,,,,"",""
+ball,2,13.3,Northern Districts,MJ Fisher,IS Sodhi,AY Patel,1,0,,,,,,"",""
+ball,2,13.4,Northern Districts,IS Sodhi,MJ Fisher,AY Patel,2,0,,,,,,"",""
+ball,2,13.5,Northern Districts,IS Sodhi,MJ Fisher,AY Patel,0,0,,,,,,caught,IS Sodhi

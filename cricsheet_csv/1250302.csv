@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Sussex
+info,gender,male
+info,season,2021
+info,date,2021/06/25
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,field
+info,player_of_match,GD Phillips
+info,umpire,PK Baldwin
+info,umpire,Tom Lungley
+info,match_referee,JJ Whitaker
+info,winner,Gloucestershire
+info,winner_runs,27
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,BAC Howell
+info,player,Gloucestershire,GD Phillips
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,RF Higgins
+info,player,Gloucestershire,TMJ Smith
+info,player,Gloucestershire,DJ Worrall
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,DA Payne
+info,player,Sussex,PD Salt
+info,player,Sussex,LJ Wright
+info,player,Sussex,TM Head
+info,player,Sussex,RS Bopara
+info,player,Sussex,D Wiese
+info,player,Sussex,DMW Rawlins
+info,player,Sussex,GHS Garton
+info,player,Sussex,WAT Beer
+info,player,Sussex,OE Robinson
+info,player,Sussex,TS Mills
+info,player,Sussex,AC Lenham
+info,registry,people,AC Lenham,8f9c5014
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,TM Head,12b610c2
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,TS Mills,245c97cb
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WAT Beer,98eacfe5
+ball,1,0.1,Gloucestershire,Miles Hammond,CDJ Dent,DMW Rawlins,0,0,,,,,,"",""
+ball,1,0.2,Gloucestershire,Miles Hammond,CDJ Dent,DMW Rawlins,1,0,,,,,,"",""
+ball,1,0.3,Gloucestershire,CDJ Dent,Miles Hammond,DMW Rawlins,1,0,,,,,,"",""
+ball,1,0.4,Gloucestershire,Miles Hammond,CDJ Dent,DMW Rawlins,1,0,,,,,,"",""
+ball,1,0.5,Gloucestershire,CDJ Dent,Miles Hammond,DMW Rawlins,0,0,,,,,,"",""
+ball,1,0.6,Gloucestershire,CDJ Dent,Miles Hammond,DMW Rawlins,0,1,,,,1,,"",""
+ball,1,1.1,Gloucestershire,CDJ Dent,Miles Hammond,OE Robinson,0,0,,,,,,"",""
+ball,1,1.2,Gloucestershire,CDJ Dent,Miles Hammond,OE Robinson,1,0,,,,,,"",""
+ball,1,1.3,Gloucestershire,Miles Hammond,CDJ Dent,OE Robinson,0,0,,,,,,caught,Miles Hammond
+ball,1,1.4,Gloucestershire,CDJ Dent,BAC Howell,OE Robinson,1,0,,,,,,"",""
+ball,1,1.5,Gloucestershire,BAC Howell,CDJ Dent,OE Robinson,0,0,,,,,,run out,BAC Howell
+ball,1,1.6,Gloucestershire,GD Phillips,CDJ Dent,OE Robinson,0,0,,,,,,"",""
+ball,1,2.1,Gloucestershire,CDJ Dent,GD Phillips,GHS Garton,1,0,,,,,,"",""
+ball,1,2.2,Gloucestershire,GD Phillips,CDJ Dent,GHS Garton,0,0,,,,,,"",""
+ball,1,2.3,Gloucestershire,GD Phillips,CDJ Dent,GHS Garton,1,0,,,,,,"",""
+ball,1,2.4,Gloucestershire,CDJ Dent,GD Phillips,GHS Garton,0,0,,,,,,"",""
+ball,1,2.5,Gloucestershire,CDJ Dent,GD Phillips,GHS Garton,0,0,,,,,,"",""
+ball,1,2.6,Gloucestershire,CDJ Dent,GD Phillips,GHS Garton,2,0,,,,,,"",""
+ball,1,3.1,Gloucestershire,GD Phillips,CDJ Dent,OE Robinson,0,0,,,,,,"",""
+ball,1,3.2,Gloucestershire,GD Phillips,CDJ Dent,OE Robinson,1,0,,,,,,"",""
+ball,1,3.3,Gloucestershire,CDJ Dent,GD Phillips,OE Robinson,4,0,,,,,,"",""
+ball,1,3.4,Gloucestershire,CDJ Dent,GD Phillips,OE Robinson,1,0,,,,,,"",""
+ball,1,3.5,Gloucestershire,GD Phillips,CDJ Dent,OE Robinson,1,0,,,,,,"",""
+ball,1,3.6,Gloucestershire,CDJ Dent,GD Phillips,OE Robinson,4,0,,,,,,"",""
+ball,1,4.1,Gloucestershire,GD Phillips,CDJ Dent,GHS Garton,4,0,,,,,,"",""
+ball,1,4.2,Gloucestershire,GD Phillips,CDJ Dent,GHS Garton,0,0,,,,,,"",""
+ball,1,4.3,Gloucestershire,GD Phillips,CDJ Dent,GHS Garton,4,0,,,,,,"",""
+ball,1,4.4,Gloucestershire,GD Phillips,CDJ Dent,GHS Garton,1,0,,,,,,"",""
+ball,1,4.5,Gloucestershire,CDJ Dent,GD Phillips,GHS Garton,1,0,,,,,,"",""
+ball,1,4.6,Gloucestershire,GD Phillips,CDJ Dent,GHS Garton,0,0,,,,,,"",""
+ball,1,5.1,Gloucestershire,CDJ Dent,GD Phillips,TS Mills,0,0,,,,,,caught,CDJ Dent
+ball,1,5.2,Gloucestershire,James Bracey,GD Phillips,TS Mills,0,1,1,,,,,"",""
+ball,1,5.3,Gloucestershire,James Bracey,GD Phillips,TS Mills,0,0,,,,,,"",""
+ball,1,5.4,Gloucestershire,James Bracey,GD Phillips,TS Mills,1,0,,,,,,"",""
+ball,1,5.5,Gloucestershire,GD Phillips,James Bracey,TS Mills,0,0,,,,,,"",""
+ball,1,5.6,Gloucestershire,GD Phillips,James Bracey,TS Mills,0,1,1,,,,,"",""
+ball,1,5.7,Gloucestershire,GD Phillips,James Bracey,TS Mills,1,0,,,,,,"",""
+ball,1,5.8,Gloucestershire,James Bracey,GD Phillips,TS Mills,0,0,,,,,,caught,James Bracey
+ball,1,6.1,Gloucestershire,GD Phillips,JMR Taylor,RS Bopara,1,0,,,,,,"",""
+ball,1,6.2,Gloucestershire,JMR Taylor,GD Phillips,RS Bopara,0,0,,,,,,"",""
+ball,1,6.3,Gloucestershire,JMR Taylor,GD Phillips,RS Bopara,0,0,,,,,,"",""
+ball,1,6.4,Gloucestershire,JMR Taylor,GD Phillips,RS Bopara,1,0,,,,,,"",""
+ball,1,6.5,Gloucestershire,GD Phillips,JMR Taylor,RS Bopara,1,0,,,,,,"",""
+ball,1,6.6,Gloucestershire,JMR Taylor,GD Phillips,RS Bopara,1,0,,,,,,"",""
+ball,1,7.1,Gloucestershire,JMR Taylor,GD Phillips,TS Mills,0,0,,,,,,"",""
+ball,1,7.2,Gloucestershire,JMR Taylor,GD Phillips,TS Mills,0,0,,,,,,"",""
+ball,1,7.3,Gloucestershire,JMR Taylor,GD Phillips,TS Mills,4,0,,,,,,"",""
+ball,1,7.4,Gloucestershire,JMR Taylor,GD Phillips,TS Mills,1,0,,,,,,"",""
+ball,1,7.5,Gloucestershire,GD Phillips,JMR Taylor,TS Mills,0,0,,,,,,"",""
+ball,1,7.6,Gloucestershire,GD Phillips,JMR Taylor,TS Mills,0,0,,,,,,"",""
+ball,1,8.1,Gloucestershire,JMR Taylor,GD Phillips,WAT Beer,1,0,,,,,,"",""
+ball,1,8.2,Gloucestershire,GD Phillips,JMR Taylor,WAT Beer,3,0,,,,,,"",""
+ball,1,8.3,Gloucestershire,JMR Taylor,GD Phillips,WAT Beer,0,0,,,,,,"",""
+ball,1,8.4,Gloucestershire,JMR Taylor,GD Phillips,WAT Beer,1,0,,,,,,"",""
+ball,1,8.5,Gloucestershire,GD Phillips,JMR Taylor,WAT Beer,1,0,,,,,,"",""
+ball,1,8.6,Gloucestershire,JMR Taylor,GD Phillips,WAT Beer,1,0,,,,,,"",""
+ball,1,9.1,Gloucestershire,JMR Taylor,GD Phillips,AC Lenham,0,0,,,,,,"",""
+ball,1,9.2,Gloucestershire,JMR Taylor,GD Phillips,AC Lenham,1,0,,,,,,"",""
+ball,1,9.3,Gloucestershire,GD Phillips,JMR Taylor,AC Lenham,2,0,,,,,,"",""
+ball,1,9.4,Gloucestershire,GD Phillips,JMR Taylor,AC Lenham,1,0,,,,,,"",""
+ball,1,9.5,Gloucestershire,JMR Taylor,GD Phillips,AC Lenham,1,0,,,,,,"",""
+ball,1,9.6,Gloucestershire,GD Phillips,JMR Taylor,AC Lenham,1,0,,,,,,"",""
+ball,1,10.1,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,1,0,,,,,,"",""
+ball,1,10.2,Gloucestershire,JMR Taylor,GD Phillips,DMW Rawlins,0,0,,,,,,"",""
+ball,1,10.3,Gloucestershire,JMR Taylor,GD Phillips,DMW Rawlins,0,1,1,,,,,"",""
+ball,1,10.4,Gloucestershire,JMR Taylor,GD Phillips,DMW Rawlins,1,0,,,,,,"",""
+ball,1,10.5,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,0,0,,,,,,"",""
+ball,1,10.6,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,1,0,,,,,,"",""
+ball,1,10.7,Gloucestershire,JMR Taylor,GD Phillips,DMW Rawlins,1,0,,,,,,"",""
+ball,1,11.1,Gloucestershire,JMR Taylor,GD Phillips,AC Lenham,1,0,,,,,,"",""
+ball,1,11.2,Gloucestershire,GD Phillips,JMR Taylor,AC Lenham,6,0,,,,,,"",""
+ball,1,11.3,Gloucestershire,GD Phillips,JMR Taylor,AC Lenham,4,0,,,,,,"",""
+ball,1,11.4,Gloucestershire,GD Phillips,JMR Taylor,AC Lenham,1,0,,,,,,"",""
+ball,1,11.5,Gloucestershire,JMR Taylor,GD Phillips,AC Lenham,0,0,,,,,,"",""
+ball,1,11.6,Gloucestershire,JMR Taylor,GD Phillips,AC Lenham,1,0,,,,,,"",""
+ball,1,12.1,Gloucestershire,JMR Taylor,GD Phillips,DMW Rawlins,0,0,,,,,,"",""
+ball,1,12.2,Gloucestershire,JMR Taylor,GD Phillips,DMW Rawlins,1,0,,,,,,"",""
+ball,1,12.3,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,1,0,,,,,,"",""
+ball,1,12.4,Gloucestershire,JMR Taylor,GD Phillips,DMW Rawlins,1,0,,,,,,"",""
+ball,1,12.5,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,0,1,,,,1,,"",""
+ball,1,12.6,Gloucestershire,JMR Taylor,GD Phillips,DMW Rawlins,1,0,,,,,,"",""
+ball,1,13.1,Gloucestershire,JMR Taylor,GD Phillips,WAT Beer,1,0,,,,,,"",""
+ball,1,13.2,Gloucestershire,GD Phillips,JMR Taylor,WAT Beer,1,0,,,,,,"",""
+ball,1,13.3,Gloucestershire,JMR Taylor,GD Phillips,WAT Beer,1,0,,,,,,"",""
+ball,1,13.4,Gloucestershire,GD Phillips,JMR Taylor,WAT Beer,1,0,,,,,,"",""
+ball,1,13.5,Gloucestershire,JMR Taylor,GD Phillips,WAT Beer,1,0,,,,,,"",""
+ball,1,13.6,Gloucestershire,GD Phillips,JMR Taylor,WAT Beer,1,0,,,,,,"",""
+ball,1,14.1,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,0,0,,,,,,"",""
+ball,1,14.2,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,4,0,,,,,,"",""
+ball,1,14.3,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,0,0,,,,,,"",""
+ball,1,14.4,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,6,0,,,,,,"",""
+ball,1,14.5,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,0,0,,,,,,"",""
+ball,1,14.6,Gloucestershire,GD Phillips,JMR Taylor,DMW Rawlins,4,0,,,,,,"",""
+ball,1,15.1,Gloucestershire,JMR Taylor,GD Phillips,OE Robinson,1,0,,,,,,"",""
+ball,1,15.2,Gloucestershire,GD Phillips,JMR Taylor,OE Robinson,4,0,,,,,,"",""
+ball,1,15.3,Gloucestershire,GD Phillips,JMR Taylor,OE Robinson,6,0,,,,,,"",""
+ball,1,15.4,Gloucestershire,GD Phillips,JMR Taylor,OE Robinson,2,0,,,,,,"",""
+ball,1,15.5,Gloucestershire,GD Phillips,JMR Taylor,OE Robinson,1,0,,,,,,"",""
+ball,1,15.6,Gloucestershire,JMR Taylor,GD Phillips,OE Robinson,1,0,,,,,,"",""
+ball,1,16.1,Gloucestershire,JMR Taylor,GD Phillips,GHS Garton,4,0,,,,,,"",""
+ball,1,16.2,Gloucestershire,JMR Taylor,GD Phillips,GHS Garton,1,0,,,,,,"",""
+ball,1,16.3,Gloucestershire,GD Phillips,JMR Taylor,GHS Garton,0,1,1,,,,,"",""
+ball,1,16.4,Gloucestershire,GD Phillips,JMR Taylor,GHS Garton,6,2,,2,,,,"",""
+ball,1,16.5,Gloucestershire,GD Phillips,JMR Taylor,GHS Garton,4,0,,,,,,"",""
+ball,1,16.6,Gloucestershire,GD Phillips,JMR Taylor,GHS Garton,6,0,,,,,,"",""
+ball,1,16.7,Gloucestershire,GD Phillips,JMR Taylor,GHS Garton,1,0,,,,,,"",""
+ball,1,16.8,Gloucestershire,JMR Taylor,GD Phillips,GHS Garton,0,0,,,,,,"",""
+ball,1,17.1,Gloucestershire,GD Phillips,JMR Taylor,TS Mills,1,0,,,,,,"",""
+ball,1,17.2,Gloucestershire,JMR Taylor,GD Phillips,TS Mills,1,0,,,,,,"",""
+ball,1,17.3,Gloucestershire,GD Phillips,JMR Taylor,TS Mills,0,0,,,,,,"",""
+ball,1,17.4,Gloucestershire,GD Phillips,JMR Taylor,TS Mills,1,0,,,,,,"",""
+ball,1,17.5,Gloucestershire,JMR Taylor,GD Phillips,TS Mills,0,1,1,,,,,"",""
+ball,1,17.6,Gloucestershire,JMR Taylor,GD Phillips,TS Mills,1,0,,,,,,"",""
+ball,1,17.7,Gloucestershire,GD Phillips,JMR Taylor,TS Mills,1,0,,,,,,"",""
+ball,1,18.1,Gloucestershire,GD Phillips,JMR Taylor,OE Robinson,0,1,1,,,,,"",""
+ball,1,18.2,Gloucestershire,GD Phillips,JMR Taylor,OE Robinson,1,0,,,,,,"",""
+ball,1,18.3,Gloucestershire,JMR Taylor,GD Phillips,OE Robinson,1,0,,,,,,"",""
+ball,1,18.4,Gloucestershire,GD Phillips,JMR Taylor,OE Robinson,1,0,,,,,,"",""
+ball,1,18.5,Gloucestershire,JMR Taylor,GD Phillips,OE Robinson,1,0,,,,,,"",""
+ball,1,18.6,Gloucestershire,GD Phillips,JMR Taylor,OE Robinson,1,0,,,,,,"",""
+ball,1,18.7,Gloucestershire,JMR Taylor,GD Phillips,OE Robinson,4,0,,,,,,"",""
+ball,1,19.1,Gloucestershire,GD Phillips,JMR Taylor,TS Mills,1,0,,,,,,"",""
+ball,1,19.2,Gloucestershire,JMR Taylor,GD Phillips,TS Mills,1,0,,,,,,"",""
+ball,1,19.3,Gloucestershire,GD Phillips,JMR Taylor,TS Mills,1,0,,,,,,"",""
+ball,1,19.4,Gloucestershire,JMR Taylor,GD Phillips,TS Mills,0,0,,,,,,caught,JMR Taylor
+ball,1,19.5,Gloucestershire,GD Phillips,RF Higgins,TS Mills,2,0,,,,,,"",""
+ball,1,19.6,Gloucestershire,GD Phillips,RF Higgins,TS Mills,0,1,,,,1,,"",""
+ball,2,0.1,Sussex,PD Salt,LJ Wright,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.2,Sussex,PD Salt,LJ Wright,DJ Worrall,4,0,,,,,,"",""
+ball,2,0.3,Sussex,PD Salt,LJ Wright,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.4,Sussex,PD Salt,LJ Wright,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.5,Sussex,PD Salt,LJ Wright,DJ Worrall,6,0,,,,,,"",""
+ball,2,0.6,Sussex,PD Salt,LJ Wright,DJ Worrall,1,0,,,,,,"",""
+ball,2,1.1,Sussex,PD Salt,LJ Wright,DA Payne,0,0,,,,,,"",""
+ball,2,1.2,Sussex,PD Salt,LJ Wright,DA Payne,0,0,,,,,,"",""
+ball,2,1.3,Sussex,PD Salt,LJ Wright,DA Payne,0,0,,,,,,"",""
+ball,2,1.4,Sussex,PD Salt,LJ Wright,DA Payne,0,0,,,,,,"",""
+ball,2,1.5,Sussex,PD Salt,LJ Wright,DA Payne,0,0,,,,,,caught and bowled,PD Salt
+ball,2,1.6,Sussex,TM Head,LJ Wright,DA Payne,0,0,,,,,,"",""
+ball,2,2.1,Sussex,LJ Wright,TM Head,DJ Worrall,2,0,,,,,,"",""
+ball,2,2.2,Sussex,LJ Wright,TM Head,DJ Worrall,0,0,,,,,,"",""
+ball,2,2.3,Sussex,LJ Wright,TM Head,DJ Worrall,1,0,,,,,,"",""
+ball,2,2.4,Sussex,TM Head,LJ Wright,DJ Worrall,1,0,,,,,,"",""
+ball,2,2.5,Sussex,LJ Wright,TM Head,DJ Worrall,4,0,,,,,,"",""
+ball,2,2.6,Sussex,LJ Wright,TM Head,DJ Worrall,0,0,,,,,,"",""
+ball,2,3.1,Sussex,TM Head,LJ Wright,DA Payne,0,0,,,,,,"",""
+ball,2,3.2,Sussex,TM Head,LJ Wright,DA Payne,0,0,,,,,,"",""
+ball,2,3.3,Sussex,TM Head,LJ Wright,DA Payne,0,0,,,,,,caught,TM Head
+ball,2,3.4,Sussex,LJ Wright,RS Bopara,DA Payne,1,0,,,,,,"",""
+ball,2,3.5,Sussex,RS Bopara,LJ Wright,DA Payne,1,0,,,,,,"",""
+ball,2,3.6,Sussex,LJ Wright,RS Bopara,DA Payne,4,0,,,,,,"",""
+ball,2,4.1,Sussex,RS Bopara,LJ Wright,J Shaw,0,0,,,,,,"",""
+ball,2,4.2,Sussex,RS Bopara,LJ Wright,J Shaw,1,0,,,,,,"",""
+ball,2,4.3,Sussex,LJ Wright,RS Bopara,J Shaw,6,0,,,,,,"",""
+ball,2,4.4,Sussex,LJ Wright,RS Bopara,J Shaw,1,0,,,,,,"",""
+ball,2,4.5,Sussex,RS Bopara,LJ Wright,J Shaw,0,0,,,,,,"",""
+ball,2,4.6,Sussex,RS Bopara,LJ Wright,J Shaw,1,0,,,,,,"",""
+ball,2,5.1,Sussex,RS Bopara,LJ Wright,RF Higgins,1,0,,,,,,"",""
+ball,2,5.2,Sussex,LJ Wright,RS Bopara,RF Higgins,1,0,,,,,,"",""
+ball,2,5.3,Sussex,RS Bopara,LJ Wright,RF Higgins,0,0,,,,,,caught,RS Bopara
+ball,2,5.4,Sussex,D Wiese,LJ Wright,RF Higgins,0,0,,,,,,"",""
+ball,2,5.5,Sussex,D Wiese,LJ Wright,RF Higgins,1,0,,,,,,"",""
+ball,2,5.6,Sussex,LJ Wright,D Wiese,RF Higgins,1,0,,,,,,"",""
+ball,2,6.1,Sussex,LJ Wright,D Wiese,BAC Howell,1,0,,,,,,"",""
+ball,2,6.2,Sussex,D Wiese,LJ Wright,BAC Howell,1,0,,,,,,"",""
+ball,2,6.3,Sussex,LJ Wright,D Wiese,BAC Howell,1,0,,,,,,"",""
+ball,2,6.4,Sussex,D Wiese,LJ Wright,BAC Howell,1,0,,,,,,"",""
+ball,2,6.5,Sussex,LJ Wright,D Wiese,BAC Howell,1,0,,,,,,"",""
+ball,2,6.6,Sussex,D Wiese,LJ Wright,BAC Howell,1,0,,,,,,"",""
+ball,2,7.1,Sussex,D Wiese,LJ Wright,TMJ Smith,0,1,,,1,,,"",""
+ball,2,7.2,Sussex,LJ Wright,D Wiese,TMJ Smith,1,0,,,,,,"",""
+ball,2,7.3,Sussex,D Wiese,LJ Wright,TMJ Smith,1,0,,,,,,"",""
+ball,2,7.4,Sussex,LJ Wright,D Wiese,TMJ Smith,4,0,,,,,,"",""
+ball,2,7.5,Sussex,LJ Wright,D Wiese,TMJ Smith,1,0,,,,,,"",""
+ball,2,7.6,Sussex,D Wiese,LJ Wright,TMJ Smith,1,0,,,,,,"",""
+ball,2,8.1,Sussex,D Wiese,LJ Wright,BAC Howell,0,0,,,,,,lbw,D Wiese
+ball,2,8.2,Sussex,DMW Rawlins,LJ Wright,BAC Howell,1,0,,,,,,"",""
+ball,2,8.3,Sussex,LJ Wright,DMW Rawlins,BAC Howell,1,0,,,,,,"",""
+ball,2,8.4,Sussex,DMW Rawlins,LJ Wright,BAC Howell,1,0,,,,,,"",""
+ball,2,8.5,Sussex,LJ Wright,DMW Rawlins,BAC Howell,2,0,,,,,,"",""
+ball,2,8.6,Sussex,LJ Wright,DMW Rawlins,BAC Howell,0,0,,,,,,caught,LJ Wright
+ball,2,9.1,Sussex,DMW Rawlins,GHS Garton,TMJ Smith,1,0,,,,,,"",""
+ball,2,9.2,Sussex,GHS Garton,DMW Rawlins,TMJ Smith,1,0,,,,,,"",""
+ball,2,9.3,Sussex,DMW Rawlins,GHS Garton,TMJ Smith,1,0,,,,,,"",""
+ball,2,9.4,Sussex,GHS Garton,DMW Rawlins,TMJ Smith,1,0,,,,,,"",""
+ball,2,9.5,Sussex,DMW Rawlins,GHS Garton,TMJ Smith,0,0,,,,,,"",""
+ball,2,9.6,Sussex,DMW Rawlins,GHS Garton,TMJ Smith,2,0,,,,,,"",""
+ball,2,10.1,Sussex,GHS Garton,DMW Rawlins,BAC Howell,0,0,,,,,,"",""
+ball,2,10.2,Sussex,GHS Garton,DMW Rawlins,BAC Howell,1,0,,,,,,"",""
+ball,2,10.3,Sussex,DMW Rawlins,GHS Garton,BAC Howell,0,0,,,,,,caught,DMW Rawlins
+ball,2,10.4,Sussex,WAT Beer,GHS Garton,BAC Howell,0,0,,,,,,"",""
+ball,2,10.5,Sussex,WAT Beer,GHS Garton,BAC Howell,0,0,,,,,,"",""
+ball,2,10.6,Sussex,WAT Beer,GHS Garton,BAC Howell,1,0,,,,,,"",""
+ball,2,11.1,Sussex,WAT Beer,GHS Garton,TMJ Smith,1,0,,,,,,"",""
+ball,2,11.2,Sussex,GHS Garton,WAT Beer,TMJ Smith,1,0,,,,,,"",""
+ball,2,11.3,Sussex,WAT Beer,GHS Garton,TMJ Smith,1,0,,,,,,"",""
+ball,2,11.4,Sussex,GHS Garton,WAT Beer,TMJ Smith,1,0,,,,,,"",""
+ball,2,11.5,Sussex,WAT Beer,GHS Garton,TMJ Smith,1,0,,,,,,"",""
+ball,2,11.6,Sussex,GHS Garton,WAT Beer,TMJ Smith,4,0,,,,,,"",""
+ball,2,12.1,Sussex,WAT Beer,GHS Garton,BAC Howell,0,0,,,,,,"",""
+ball,2,12.2,Sussex,WAT Beer,GHS Garton,BAC Howell,1,0,,,,,,"",""
+ball,2,12.3,Sussex,GHS Garton,WAT Beer,BAC Howell,0,0,,,,,,"",""
+ball,2,12.4,Sussex,GHS Garton,WAT Beer,BAC Howell,0,0,,,,,,"",""
+ball,2,12.5,Sussex,GHS Garton,WAT Beer,BAC Howell,0,0,,,,,,bowled,GHS Garton
+ball,2,12.6,Sussex,OE Robinson,WAT Beer,BAC Howell,1,0,,,,,,"",""
+ball,2,13.1,Sussex,OE Robinson,WAT Beer,TMJ Smith,1,0,,,,,,"",""
+ball,2,13.2,Sussex,WAT Beer,OE Robinson,TMJ Smith,0,0,,,,,,stumped,WAT Beer
+ball,2,13.3,Sussex,TS Mills,OE Robinson,TMJ Smith,4,0,,,,,,"",""
+ball,2,13.4,Sussex,TS Mills,OE Robinson,TMJ Smith,1,0,,,,,,"",""
+ball,2,13.5,Sussex,OE Robinson,TS Mills,TMJ Smith,0,0,,,,,,"",""
+ball,2,13.6,Sussex,OE Robinson,TS Mills,TMJ Smith,1,0,,,,,,"",""
+ball,2,14.1,Sussex,OE Robinson,TS Mills,DA Payne,1,0,,,,,,"",""
+ball,2,14.2,Sussex,TS Mills,OE Robinson,DA Payne,6,0,,,,,,"",""
+ball,2,14.3,Sussex,TS Mills,OE Robinson,DA Payne,4,0,,,,,,"",""
+ball,2,14.4,Sussex,TS Mills,OE Robinson,DA Payne,1,0,,,,,,"",""
+ball,2,14.5,Sussex,OE Robinson,TS Mills,DA Payne,2,0,,,,,,"",""
+ball,2,14.6,Sussex,OE Robinson,TS Mills,DA Payne,0,0,,,,,,"",""
+ball,2,15.1,Sussex,TS Mills,OE Robinson,J Shaw,0,0,,,,,,"",""
+ball,2,15.2,Sussex,TS Mills,OE Robinson,J Shaw,0,0,,,,,,"",""
+ball,2,15.3,Sussex,TS Mills,OE Robinson,J Shaw,1,0,,,,,,"",""
+ball,2,15.4,Sussex,OE Robinson,TS Mills,J Shaw,4,0,,,,,,"",""
+ball,2,15.5,Sussex,OE Robinson,TS Mills,J Shaw,2,0,,,,,,"",""
+ball,2,15.6,Sussex,OE Robinson,TS Mills,J Shaw,4,0,,,,,,"",""
+ball,2,16.1,Sussex,TS Mills,OE Robinson,DJ Worrall,0,0,,,,,,"",""
+ball,2,16.2,Sussex,TS Mills,OE Robinson,DJ Worrall,4,0,,,,,,"",""
+ball,2,16.3,Sussex,TS Mills,OE Robinson,DJ Worrall,0,0,,,,,,"",""
+ball,2,16.4,Sussex,TS Mills,OE Robinson,DJ Worrall,1,0,,,,,,"",""
+ball,2,16.5,Sussex,OE Robinson,TS Mills,DJ Worrall,1,0,,,,,,"",""
+ball,2,16.6,Sussex,TS Mills,OE Robinson,DJ Worrall,1,0,,,,,,"",""
+ball,2,17.1,Sussex,TS Mills,OE Robinson,RF Higgins,0,0,,,,,,"",""
+ball,2,17.2,Sussex,TS Mills,OE Robinson,RF Higgins,4,0,,,,,,"",""
+ball,2,17.3,Sussex,TS Mills,OE Robinson,RF Higgins,0,0,,,,,,bowled,TS Mills
+ball,2,17.4,Sussex,AC Lenham,OE Robinson,RF Higgins,0,0,,,,,,"",""
+ball,2,17.5,Sussex,AC Lenham,OE Robinson,RF Higgins,1,0,,,,,,"",""
+ball,2,17.6,Sussex,OE Robinson,AC Lenham,RF Higgins,1,0,,,,,,"",""
+ball,2,18.1,Sussex,OE Robinson,AC Lenham,DA Payne,4,0,,,,,,"",""
+ball,2,18.2,Sussex,OE Robinson,AC Lenham,DA Payne,1,0,,,,,,"",""
+ball,2,18.3,Sussex,AC Lenham,OE Robinson,DA Payne,0,0,,,,,,"",""
+ball,2,18.4,Sussex,AC Lenham,OE Robinson,DA Payne,0,0,,,,,,"",""
+ball,2,18.5,Sussex,AC Lenham,OE Robinson,DA Payne,0,0,,,,,,"",""
+ball,2,18.6,Sussex,AC Lenham,OE Robinson,DA Payne,0,0,,,,,,"",""
+ball,2,19.1,Sussex,OE Robinson,AC Lenham,RF Higgins,0,0,,,,,,"",""
+ball,2,19.2,Sussex,OE Robinson,AC Lenham,RF Higgins,2,0,,,,,,"",""
+ball,2,19.3,Sussex,OE Robinson,AC Lenham,RF Higgins,4,0,,,,,,"",""
+ball,2,19.4,Sussex,OE Robinson,AC Lenham,RF Higgins,2,0,,,,,,"",""
+ball,2,19.5,Sussex,OE Robinson,AC Lenham,RF Higgins,0,0,,,,,,bowled,OE Robinson

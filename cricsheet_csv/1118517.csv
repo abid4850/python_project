@@ -1,0 +1,298 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Sydney Sixers
+info,gender,female
+info,season,2017/18
+info,date,2018/01/21
+info,event,Women's Big Bash League
+info,match_number,46
+info,venue,Casey Fields No. 4
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,bat
+info,player_of_match,EA Perry
+info,umpire,D Ireland
+info,umpire,S Brne
+info,match_referee,Damien Herft
+info,winner,Sydney Sixers
+info,winner_wickets,5
+info,player,Melbourne Stars,L Lee
+info,player,Melbourne Stars,KM Mack
+info,player,Melbourne Stars,M du Preez
+info,player,Melbourne Stars,GA Elwiss
+info,player,Melbourne Stars,EA Osborne
+info,player,Melbourne Stars,A Lanning
+info,player,Melbourne Stars,A King
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,M Blows
+info,player,Melbourne Stars,KM Beams
+info,player,Melbourne Stars,N Faltum
+info,player,Sydney Sixers,AJ Healy
+info,player,Sydney Sixers,AR Reakes
+info,player,Sydney Sixers,A Gardner
+info,player,Sydney Sixers,EA Perry
+info,player,Sydney Sixers,EA Burns
+info,player,Sydney Sixers,SJ McGlashan
+info,player,Sydney Sixers,D van Niekerk
+info,player,Sydney Sixers,M Kapp
+info,player,Sydney Sixers,SE Aley
+info,player,Sydney Sixers,LG Smith
+info,player,Sydney Sixers,KJ Garth
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,A Lanning,ba0a8d88
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AJ Healy,321644de
+info,registry,people,AR Reakes,13781d43
+info,registry,people,D Ireland,9b4fc7b9
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,Damien Herft,aa489c6e
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EA Osborne,fe731c62
+info,registry,people,EA Perry,be150fc8
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,KM Beams,fa8f9dc3
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,L Lee,7b01ce83
+info,registry,people,LG Smith,9c515112
+info,registry,people,M Blows,72e3d89d
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M du Preez,e219f17a
+info,registry,people,N Faltum,9a56c670
+info,registry,people,S Brne,f552dfcb
+info,registry,people,SE Aley,5be043df
+info,registry,people,SJ McGlashan,af71535d
+ball,1,0.1,Melbourne Stars,L Lee,KM Mack,M Kapp,0,0,,,,,,"",""
+ball,1,0.2,Melbourne Stars,L Lee,KM Mack,M Kapp,0,0,,,,,,"",""
+ball,1,0.3,Melbourne Stars,L Lee,KM Mack,M Kapp,0,0,,,,,,"",""
+ball,1,0.4,Melbourne Stars,L Lee,KM Mack,M Kapp,0,0,,,,,,"",""
+ball,1,0.5,Melbourne Stars,L Lee,KM Mack,M Kapp,0,0,,,,,,"",""
+ball,1,0.6,Melbourne Stars,L Lee,KM Mack,M Kapp,0,0,,,,,,"",""
+ball,1,1.1,Melbourne Stars,KM Mack,L Lee,KJ Garth,0,0,,,,,,"",""
+ball,1,1.2,Melbourne Stars,KM Mack,L Lee,KJ Garth,0,0,,,,,,"",""
+ball,1,1.3,Melbourne Stars,KM Mack,L Lee,KJ Garth,0,0,,,,,,"",""
+ball,1,1.4,Melbourne Stars,KM Mack,L Lee,KJ Garth,2,0,,,,,,"",""
+ball,1,1.5,Melbourne Stars,KM Mack,L Lee,KJ Garth,0,0,,,,,,"",""
+ball,1,1.6,Melbourne Stars,KM Mack,L Lee,KJ Garth,0,0,,,,,,bowled,KM Mack
+ball,1,2.1,Melbourne Stars,L Lee,M du Preez,M Kapp,0,0,,,,,,"",""
+ball,1,2.2,Melbourne Stars,L Lee,M du Preez,M Kapp,2,0,,,,,,"",""
+ball,1,2.3,Melbourne Stars,L Lee,M du Preez,M Kapp,0,0,,,,,,"",""
+ball,1,2.4,Melbourne Stars,L Lee,M du Preez,M Kapp,0,0,,,,,,caught,L Lee
+ball,1,2.5,Melbourne Stars,M du Preez,GA Elwiss,M Kapp,0,0,,,,,,"",""
+ball,1,2.6,Melbourne Stars,M du Preez,GA Elwiss,M Kapp,0,0,,,,,,"",""
+ball,1,3.1,Melbourne Stars,GA Elwiss,M du Preez,KJ Garth,0,2,,,,2,,"",""
+ball,1,3.2,Melbourne Stars,GA Elwiss,M du Preez,KJ Garth,0,4,,,,4,,"",""
+ball,1,3.3,Melbourne Stars,GA Elwiss,M du Preez,KJ Garth,1,0,,,,,,"",""
+ball,1,3.4,Melbourne Stars,M du Preez,GA Elwiss,KJ Garth,0,0,,,,,,"",""
+ball,1,3.5,Melbourne Stars,M du Preez,GA Elwiss,KJ Garth,4,0,,,,,,"",""
+ball,1,3.6,Melbourne Stars,M du Preez,GA Elwiss,KJ Garth,0,0,,,,,,caught,M du Preez
+ball,1,4.1,Melbourne Stars,GA Elwiss,EA Osborne,M Kapp,0,0,,,,,,"",""
+ball,1,4.2,Melbourne Stars,GA Elwiss,EA Osborne,M Kapp,2,0,,,,,,"",""
+ball,1,4.3,Melbourne Stars,GA Elwiss,EA Osborne,M Kapp,0,0,,,,,,"",""
+ball,1,4.4,Melbourne Stars,GA Elwiss,EA Osborne,M Kapp,2,0,,,,,,"",""
+ball,1,4.5,Melbourne Stars,GA Elwiss,EA Osborne,M Kapp,0,0,,,,,,"",""
+ball,1,4.6,Melbourne Stars,GA Elwiss,EA Osborne,M Kapp,1,0,,,,,,"",""
+ball,1,5.1,Melbourne Stars,GA Elwiss,EA Osborne,SE Aley,1,0,,,,,,"",""
+ball,1,5.2,Melbourne Stars,EA Osborne,GA Elwiss,SE Aley,1,0,,,,,,"",""
+ball,1,5.3,Melbourne Stars,GA Elwiss,EA Osborne,SE Aley,0,0,,,,,,"",""
+ball,1,5.4,Melbourne Stars,GA Elwiss,EA Osborne,SE Aley,0,0,,,,,,caught,GA Elwiss
+ball,1,5.5,Melbourne Stars,A Lanning,EA Osborne,SE Aley,0,0,,,,,,"",""
+ball,1,5.6,Melbourne Stars,A Lanning,EA Osborne,SE Aley,1,0,,,,,,"",""
+ball,1,6.1,Melbourne Stars,A Lanning,EA Osborne,A Gardner,0,1,1,,,,,"",""
+ball,1,6.2,Melbourne Stars,A Lanning,EA Osborne,A Gardner,0,0,,,,,,"",""
+ball,1,6.3,Melbourne Stars,A Lanning,EA Osborne,A Gardner,1,0,,,,,,"",""
+ball,1,6.4,Melbourne Stars,EA Osborne,A Lanning,A Gardner,0,0,,,,,,"",""
+ball,1,6.5,Melbourne Stars,EA Osborne,A Lanning,A Gardner,0,1,,,,1,,"",""
+ball,1,6.6,Melbourne Stars,A Lanning,EA Osborne,A Gardner,0,0,,,,,,"",""
+ball,1,6.7,Melbourne Stars,A Lanning,EA Osborne,A Gardner,1,0,,,,,,"",""
+ball,1,7.1,Melbourne Stars,A Lanning,EA Osborne,SE Aley,0,0,,,,,,"",""
+ball,1,7.2,Melbourne Stars,A Lanning,EA Osborne,SE Aley,1,0,,,,,,"",""
+ball,1,7.3,Melbourne Stars,EA Osborne,A Lanning,SE Aley,0,0,,,,,,"",""
+ball,1,7.4,Melbourne Stars,EA Osborne,A Lanning,SE Aley,0,2,,,,2,,"",""
+ball,1,7.5,Melbourne Stars,EA Osborne,A Lanning,SE Aley,0,0,,,,,,"",""
+ball,1,7.6,Melbourne Stars,EA Osborne,A Lanning,SE Aley,1,0,,,,,,"",""
+ball,1,8.1,Melbourne Stars,EA Osborne,A Lanning,A Gardner,1,0,,,,,,"",""
+ball,1,8.2,Melbourne Stars,A Lanning,EA Osborne,A Gardner,4,0,,,,,,"",""
+ball,1,8.3,Melbourne Stars,A Lanning,EA Osborne,A Gardner,1,0,,,,,,"",""
+ball,1,8.4,Melbourne Stars,EA Osborne,A Lanning,A Gardner,0,0,,,,,,"",""
+ball,1,8.5,Melbourne Stars,EA Osborne,A Lanning,A Gardner,4,0,,,,,,"",""
+ball,1,8.6,Melbourne Stars,EA Osborne,A Lanning,A Gardner,0,0,,,,,,"",""
+ball,1,9.1,Melbourne Stars,A Lanning,EA Osborne,SE Aley,1,0,,,,,,"",""
+ball,1,9.2,Melbourne Stars,EA Osborne,A Lanning,SE Aley,2,0,,,,,,"",""
+ball,1,9.3,Melbourne Stars,EA Osborne,A Lanning,SE Aley,1,0,,,,,,"",""
+ball,1,9.4,Melbourne Stars,A Lanning,EA Osborne,SE Aley,2,0,,,,,,"",""
+ball,1,9.5,Melbourne Stars,A Lanning,EA Osborne,SE Aley,1,0,,,,,,"",""
+ball,1,9.6,Melbourne Stars,EA Osborne,A Lanning,SE Aley,2,0,,,,,,"",""
+ball,1,10.1,Melbourne Stars,A Lanning,EA Osborne,D van Niekerk,0,0,,,,,,"",""
+ball,1,10.2,Melbourne Stars,A Lanning,EA Osborne,D van Niekerk,0,0,,,,,,"",""
+ball,1,10.3,Melbourne Stars,A Lanning,EA Osborne,D van Niekerk,1,0,,,,,,"",""
+ball,1,10.4,Melbourne Stars,EA Osborne,A Lanning,D van Niekerk,0,0,,,,,,"",""
+ball,1,10.5,Melbourne Stars,EA Osborne,A Lanning,D van Niekerk,1,0,,,,,,"",""
+ball,1,10.6,Melbourne Stars,A Lanning,EA Osborne,D van Niekerk,0,0,,,,,,"",""
+ball,1,11.1,Melbourne Stars,EA Osborne,A Lanning,LG Smith,1,0,,,,,,"",""
+ball,1,11.2,Melbourne Stars,A Lanning,EA Osborne,LG Smith,1,0,,,,,,"",""
+ball,1,11.3,Melbourne Stars,EA Osborne,A Lanning,LG Smith,0,0,,,,,,"",""
+ball,1,11.4,Melbourne Stars,EA Osborne,A Lanning,LG Smith,0,0,,,,,,"",""
+ball,1,11.5,Melbourne Stars,EA Osborne,A Lanning,LG Smith,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Stars,A Lanning,EA Osborne,LG Smith,1,0,,,,,,"",""
+ball,1,12.1,Melbourne Stars,A Lanning,EA Osborne,D van Niekerk,0,0,,,,,,"",""
+ball,1,12.2,Melbourne Stars,A Lanning,EA Osborne,D van Niekerk,1,0,,,,,,"",""
+ball,1,12.3,Melbourne Stars,EA Osborne,A Lanning,D van Niekerk,2,0,,,,,,"",""
+ball,1,12.4,Melbourne Stars,EA Osborne,A Lanning,D van Niekerk,1,0,,,,,,"",""
+ball,1,12.5,Melbourne Stars,A Lanning,EA Osborne,D van Niekerk,1,0,,,,,,"",""
+ball,1,12.6,Melbourne Stars,EA Osborne,A Lanning,D van Niekerk,1,0,,,,,,"",""
+ball,1,13.1,Melbourne Stars,EA Osborne,A Lanning,LG Smith,1,0,,,,,,"",""
+ball,1,13.2,Melbourne Stars,A Lanning,EA Osborne,LG Smith,0,0,,,,,,caught,A Lanning
+ball,1,13.3,Melbourne Stars,EA Osborne,A King,LG Smith,0,0,,,,,,"",""
+ball,1,13.4,Melbourne Stars,EA Osborne,A King,LG Smith,1,0,,,,,,"",""
+ball,1,13.5,Melbourne Stars,A King,EA Osborne,LG Smith,1,0,,,,,,"",""
+ball,1,13.6,Melbourne Stars,EA Osborne,A King,LG Smith,1,0,,,,,,"",""
+ball,1,14.1,Melbourne Stars,EA Osborne,A King,KJ Garth,4,0,,,,,,"",""
+ball,1,14.2,Melbourne Stars,EA Osborne,A King,KJ Garth,1,0,,,,,,"",""
+ball,1,14.3,Melbourne Stars,A King,EA Osborne,KJ Garth,0,0,,,,,,"",""
+ball,1,14.4,Melbourne Stars,A King,EA Osborne,KJ Garth,1,0,,,,,,"",""
+ball,1,14.5,Melbourne Stars,EA Osborne,A King,KJ Garth,0,1,1,,,,,"",""
+ball,1,14.6,Melbourne Stars,EA Osborne,A King,KJ Garth,1,0,,,,,,"",""
+ball,1,14.7,Melbourne Stars,A King,EA Osborne,KJ Garth,0,0,,,,,,"",""
+ball,1,15.1,Melbourne Stars,EA Osborne,A King,LG Smith,1,0,,,,,,"",""
+ball,1,15.2,Melbourne Stars,A King,EA Osborne,LG Smith,6,0,,,,,,"",""
+ball,1,15.3,Melbourne Stars,A King,EA Osborne,LG Smith,1,0,,,,,,"",""
+ball,1,15.4,Melbourne Stars,EA Osborne,A King,LG Smith,1,0,,,,,,"",""
+ball,1,15.5,Melbourne Stars,A King,EA Osborne,LG Smith,1,0,,,,,,"",""
+ball,1,15.6,Melbourne Stars,EA Osborne,A King,LG Smith,1,0,,,,,,"",""
+ball,1,16.1,Melbourne Stars,EA Osborne,A King,D van Niekerk,1,0,,,,,,"",""
+ball,1,16.2,Melbourne Stars,A King,EA Osborne,D van Niekerk,0,0,,,,,,"",""
+ball,1,16.3,Melbourne Stars,A King,EA Osborne,D van Niekerk,0,0,,,,,,stumped,A King
+ball,1,16.4,Melbourne Stars,A Sutherland,EA Osborne,D van Niekerk,1,0,,,,,,"",""
+ball,1,16.5,Melbourne Stars,EA Osborne,A Sutherland,D van Niekerk,0,0,,,,,,"",""
+ball,1,16.6,Melbourne Stars,EA Osborne,A Sutherland,D van Niekerk,0,0,,,,,,"",""
+ball,1,17.1,Melbourne Stars,A Sutherland,EA Osborne,SE Aley,0,0,,,,,,"",""
+ball,1,17.2,Melbourne Stars,A Sutherland,EA Osborne,SE Aley,1,0,,,,,,"",""
+ball,1,17.3,Melbourne Stars,EA Osborne,A Sutherland,SE Aley,1,0,,,,,,"",""
+ball,1,17.4,Melbourne Stars,A Sutherland,EA Osborne,SE Aley,2,0,,,,,,"",""
+ball,1,17.5,Melbourne Stars,A Sutherland,EA Osborne,SE Aley,1,0,,,,,,"",""
+ball,1,17.6,Melbourne Stars,EA Osborne,A Sutherland,SE Aley,2,0,,,,,,"",""
+ball,1,18.1,Melbourne Stars,A Sutherland,EA Osborne,D van Niekerk,0,0,,,,,,"",""
+ball,1,18.2,Melbourne Stars,A Sutherland,EA Osborne,D van Niekerk,1,0,,,,,,"",""
+ball,1,18.3,Melbourne Stars,EA Osborne,A Sutherland,D van Niekerk,1,0,,,,,,"",""
+ball,1,18.4,Melbourne Stars,A Sutherland,EA Osborne,D van Niekerk,1,0,,,,,,"",""
+ball,1,18.5,Melbourne Stars,EA Osborne,A Sutherland,D van Niekerk,1,0,,,,,,"",""
+ball,1,18.6,Melbourne Stars,A Sutherland,EA Osborne,D van Niekerk,2,0,,,,,,"",""
+ball,1,19.1,Melbourne Stars,EA Osborne,A Sutherland,M Kapp,1,0,,,,,,"",""
+ball,1,19.2,Melbourne Stars,A Sutherland,EA Osborne,M Kapp,1,0,,,,,,"",""
+ball,1,19.3,Melbourne Stars,EA Osborne,A Sutherland,M Kapp,1,0,,,,,,"",""
+ball,1,19.4,Melbourne Stars,A Sutherland,EA Osborne,M Kapp,2,0,,,,,,"",""
+ball,1,19.5,Melbourne Stars,A Sutherland,EA Osborne,M Kapp,1,0,,,,,,"",""
+ball,1,19.6,Melbourne Stars,EA Osborne,A Sutherland,M Kapp,0,0,,,,,,caught,EA Osborne
+ball,2,0.1,Sydney Sixers,AJ Healy,AR Reakes,EA Osborne,0,0,,,,,,"",""
+ball,2,0.2,Sydney Sixers,AJ Healy,AR Reakes,EA Osborne,4,0,,,,,,"",""
+ball,2,0.3,Sydney Sixers,AJ Healy,AR Reakes,EA Osborne,0,0,,,,,,"",""
+ball,2,0.4,Sydney Sixers,AJ Healy,AR Reakes,EA Osborne,1,0,,,,,,"",""
+ball,2,0.5,Sydney Sixers,AR Reakes,AJ Healy,EA Osborne,4,0,,,,,,"",""
+ball,2,0.6,Sydney Sixers,AR Reakes,AJ Healy,EA Osborne,0,0,,,,,,"",""
+ball,2,1.1,Sydney Sixers,AJ Healy,AR Reakes,A Sutherland,1,0,,,,,,"",""
+ball,2,1.2,Sydney Sixers,AR Reakes,AJ Healy,A Sutherland,0,0,,,,,,"",""
+ball,2,1.3,Sydney Sixers,AR Reakes,AJ Healy,A Sutherland,0,0,,,,,,"",""
+ball,2,1.4,Sydney Sixers,AR Reakes,AJ Healy,A Sutherland,0,0,,,,,,"",""
+ball,2,1.5,Sydney Sixers,AR Reakes,AJ Healy,A Sutherland,0,0,,,,,,"",""
+ball,2,1.6,Sydney Sixers,AR Reakes,AJ Healy,A Sutherland,0,0,,,,,,"",""
+ball,2,2.1,Sydney Sixers,AJ Healy,AR Reakes,EA Osborne,1,0,,,,,,"",""
+ball,2,2.2,Sydney Sixers,AR Reakes,AJ Healy,EA Osborne,4,0,,,,,,"",""
+ball,2,2.3,Sydney Sixers,AR Reakes,AJ Healy,EA Osborne,0,0,,,,,,bowled,AR Reakes
+ball,2,2.4,Sydney Sixers,A Gardner,AJ Healy,EA Osborne,0,0,,,,,,"",""
+ball,2,2.5,Sydney Sixers,A Gardner,AJ Healy,EA Osborne,4,0,,,,,,"",""
+ball,2,2.6,Sydney Sixers,A Gardner,AJ Healy,EA Osborne,0,0,,,,,,"",""
+ball,2,3.1,Sydney Sixers,AJ Healy,A Gardner,A Sutherland,4,0,,,,,,"",""
+ball,2,3.2,Sydney Sixers,AJ Healy,A Gardner,A Sutherland,1,0,,,,,,"",""
+ball,2,3.3,Sydney Sixers,A Gardner,AJ Healy,A Sutherland,0,0,,,,,,caught,A Gardner
+ball,2,3.4,Sydney Sixers,AJ Healy,EA Perry,A Sutherland,4,0,,,,,,"",""
+ball,2,3.5,Sydney Sixers,AJ Healy,EA Perry,A Sutherland,0,0,,,,,,"",""
+ball,2,3.6,Sydney Sixers,AJ Healy,EA Perry,A Sutherland,2,0,,,,,,"",""
+ball,2,4.1,Sydney Sixers,EA Perry,AJ Healy,KM Beams,1,0,,,,,,"",""
+ball,2,4.2,Sydney Sixers,AJ Healy,EA Perry,KM Beams,0,0,,,,,,"",""
+ball,2,4.3,Sydney Sixers,AJ Healy,EA Perry,KM Beams,2,0,,,,,,"",""
+ball,2,4.4,Sydney Sixers,AJ Healy,EA Perry,KM Beams,1,0,,,,,,"",""
+ball,2,4.5,Sydney Sixers,EA Perry,AJ Healy,KM Beams,0,0,,,,,,"",""
+ball,2,4.6,Sydney Sixers,EA Perry,AJ Healy,KM Beams,0,0,,,,,,"",""
+ball,2,5.1,Sydney Sixers,AJ Healy,EA Perry,GA Elwiss,0,0,,,,,,"",""
+ball,2,5.2,Sydney Sixers,AJ Healy,EA Perry,GA Elwiss,0,0,,,,,,caught,AJ Healy
+ball,2,5.3,Sydney Sixers,EA Burns,EA Perry,GA Elwiss,4,0,,,,,,"",""
+ball,2,5.4,Sydney Sixers,EA Burns,EA Perry,GA Elwiss,0,0,,,,,,"",""
+ball,2,5.5,Sydney Sixers,EA Burns,EA Perry,GA Elwiss,1,0,,,,,,"",""
+ball,2,5.6,Sydney Sixers,EA Perry,EA Burns,GA Elwiss,0,1,1,,,,,"",""
+ball,2,5.7,Sydney Sixers,EA Perry,EA Burns,GA Elwiss,4,0,,,,,,"",""
+ball,2,6.1,Sydney Sixers,EA Burns,EA Perry,A King,1,0,,,,,,"",""
+ball,2,6.2,Sydney Sixers,EA Perry,EA Burns,A King,0,0,,,,,,"",""
+ball,2,6.3,Sydney Sixers,EA Perry,EA Burns,A King,0,0,,,,,,"",""
+ball,2,6.4,Sydney Sixers,EA Perry,EA Burns,A King,4,0,,,,,,"",""
+ball,2,6.5,Sydney Sixers,EA Perry,EA Burns,A King,1,0,,,,,,"",""
+ball,2,6.6,Sydney Sixers,EA Burns,EA Perry,A King,4,0,,,,,,"",""
+ball,2,7.1,Sydney Sixers,EA Perry,EA Burns,A Sutherland,0,0,,,,,,"",""
+ball,2,7.2,Sydney Sixers,EA Perry,EA Burns,A Sutherland,0,0,,,,,,"",""
+ball,2,7.3,Sydney Sixers,EA Perry,EA Burns,A Sutherland,0,0,,,,,,"",""
+ball,2,7.4,Sydney Sixers,EA Perry,EA Burns,A Sutherland,1,0,,,,,,"",""
+ball,2,7.5,Sydney Sixers,EA Burns,EA Perry,A Sutherland,0,0,,,,,,"",""
+ball,2,7.6,Sydney Sixers,EA Burns,EA Perry,A Sutherland,0,0,,,,,,"",""
+ball,2,8.1,Sydney Sixers,EA Perry,EA Burns,KM Beams,0,0,,,,,,"",""
+ball,2,8.2,Sydney Sixers,EA Perry,EA Burns,KM Beams,0,0,,,,,,"",""
+ball,2,8.3,Sydney Sixers,EA Perry,EA Burns,KM Beams,1,0,,,,,,"",""
+ball,2,8.4,Sydney Sixers,EA Burns,EA Perry,KM Beams,0,0,,,,,,"",""
+ball,2,8.5,Sydney Sixers,EA Burns,EA Perry,KM Beams,1,0,,,,,,"",""
+ball,2,8.6,Sydney Sixers,EA Perry,EA Burns,KM Beams,1,0,,,,,,"",""
+ball,2,9.1,Sydney Sixers,EA Perry,EA Burns,GA Elwiss,0,0,,,,,,"",""
+ball,2,9.2,Sydney Sixers,EA Perry,EA Burns,GA Elwiss,1,0,,,,,,"",""
+ball,2,9.3,Sydney Sixers,EA Burns,EA Perry,GA Elwiss,0,0,,,,,,"",""
+ball,2,9.4,Sydney Sixers,EA Burns,EA Perry,GA Elwiss,2,0,,,,,,"",""
+ball,2,9.5,Sydney Sixers,EA Burns,EA Perry,GA Elwiss,0,0,,,,,,"",""
+ball,2,9.6,Sydney Sixers,EA Burns,EA Perry,GA Elwiss,1,0,,,,,,"",""
+ball,2,10.1,Sydney Sixers,EA Burns,EA Perry,A King,0,0,,,,,,stumped,EA Burns
+ball,2,10.2,Sydney Sixers,SJ McGlashan,EA Perry,A King,0,0,,,,,,"",""
+ball,2,10.3,Sydney Sixers,SJ McGlashan,EA Perry,A King,1,0,,,,,,"",""
+ball,2,10.4,Sydney Sixers,EA Perry,SJ McGlashan,A King,0,0,,,,,,"",""
+ball,2,10.5,Sydney Sixers,EA Perry,SJ McGlashan,A King,0,0,,,,,,"",""
+ball,2,10.6,Sydney Sixers,EA Perry,SJ McGlashan,A King,1,0,,,,,,"",""
+ball,2,11.1,Sydney Sixers,EA Perry,SJ McGlashan,EA Osborne,6,0,,,,,,"",""
+ball,2,11.2,Sydney Sixers,EA Perry,SJ McGlashan,EA Osborne,0,0,,,,,,"",""
+ball,2,11.3,Sydney Sixers,EA Perry,SJ McGlashan,EA Osborne,1,0,,,,,,"",""
+ball,2,11.4,Sydney Sixers,SJ McGlashan,EA Perry,EA Osborne,2,0,,,,,,"",""
+ball,2,11.5,Sydney Sixers,SJ McGlashan,EA Perry,EA Osborne,1,0,,,,,,"",""
+ball,2,11.6,Sydney Sixers,EA Perry,SJ McGlashan,EA Osborne,0,0,,,,,,"",""
+ball,2,12.1,Sydney Sixers,SJ McGlashan,EA Perry,KM Beams,0,0,,,,,,"",""
+ball,2,12.2,Sydney Sixers,SJ McGlashan,EA Perry,KM Beams,1,0,,,,,,"",""
+ball,2,12.3,Sydney Sixers,EA Perry,SJ McGlashan,KM Beams,0,0,,,,,,"",""
+ball,2,12.4,Sydney Sixers,EA Perry,SJ McGlashan,KM Beams,1,0,,,,,,"",""
+ball,2,12.5,Sydney Sixers,SJ McGlashan,EA Perry,KM Beams,1,0,,,,,,"",""
+ball,2,12.6,Sydney Sixers,EA Perry,SJ McGlashan,KM Beams,1,0,,,,,,"",""
+ball,2,13.1,Sydney Sixers,EA Perry,SJ McGlashan,M Blows,0,0,,,,,,"",""
+ball,2,13.2,Sydney Sixers,EA Perry,SJ McGlashan,M Blows,2,0,,,,,,"",""
+ball,2,13.3,Sydney Sixers,EA Perry,SJ McGlashan,M Blows,0,0,,,,,,"",""
+ball,2,13.4,Sydney Sixers,EA Perry,SJ McGlashan,M Blows,1,0,,,,,,"",""
+ball,2,13.5,Sydney Sixers,SJ McGlashan,EA Perry,M Blows,0,1,1,,,,,"",""
+ball,2,13.6,Sydney Sixers,SJ McGlashan,EA Perry,M Blows,1,0,,,,,,"",""
+ball,2,13.7,Sydney Sixers,EA Perry,SJ McGlashan,M Blows,1,0,,,,,,"",""
+ball,2,14.1,Sydney Sixers,EA Perry,SJ McGlashan,A King,0,0,,,,,,"",""
+ball,2,14.2,Sydney Sixers,EA Perry,SJ McGlashan,A King,0,0,,,,,,"",""
+ball,2,14.3,Sydney Sixers,EA Perry,SJ McGlashan,A King,0,0,,,,,,"",""
+ball,2,14.4,Sydney Sixers,EA Perry,SJ McGlashan,A King,1,0,,,,,,"",""
+ball,2,14.5,Sydney Sixers,SJ McGlashan,EA Perry,A King,0,0,,,,,,"",""
+ball,2,14.6,Sydney Sixers,SJ McGlashan,EA Perry,A King,2,0,,,,,,"",""
+ball,2,15.1,Sydney Sixers,EA Perry,SJ McGlashan,GA Elwiss,0,0,,,,,,"",""
+ball,2,15.2,Sydney Sixers,EA Perry,SJ McGlashan,GA Elwiss,0,0,,,,,,run out,SJ McGlashan
+ball,2,15.3,Sydney Sixers,D van Niekerk,EA Perry,GA Elwiss,0,0,,,,,,"",""
+ball,2,15.4,Sydney Sixers,D van Niekerk,EA Perry,GA Elwiss,0,0,,,,,,"",""
+ball,2,15.5,Sydney Sixers,D van Niekerk,EA Perry,GA Elwiss,0,0,,,,,,"",""
+ball,2,15.6,Sydney Sixers,D van Niekerk,EA Perry,GA Elwiss,0,0,,,,,,"",""
+ball,2,16.1,Sydney Sixers,EA Perry,D van Niekerk,KM Beams,0,0,,,,,,"",""
+ball,2,16.2,Sydney Sixers,EA Perry,D van Niekerk,KM Beams,4,0,,,,,,"",""
+ball,2,16.3,Sydney Sixers,EA Perry,D van Niekerk,KM Beams,0,0,,,,,,"",""
+ball,2,16.4,Sydney Sixers,EA Perry,D van Niekerk,KM Beams,1,0,,,,,,"",""
+ball,2,16.5,Sydney Sixers,D van Niekerk,EA Perry,KM Beams,0,0,,,,,,"",""
+ball,2,16.6,Sydney Sixers,D van Niekerk,EA Perry,KM Beams,1,0,,,,,,"",""
+ball,2,17.1,Sydney Sixers,D van Niekerk,EA Perry,GA Elwiss,4,0,,,,,,"",""
+ball,2,17.2,Sydney Sixers,D van Niekerk,EA Perry,GA Elwiss,0,1,,,,1,,"",""
+ball,2,17.3,Sydney Sixers,EA Perry,D van Niekerk,GA Elwiss,4,0,,,,,,"",""
+ball,2,17.4,Sydney Sixers,EA Perry,D van Niekerk,GA Elwiss,1,0,,,,,,"",""
+ball,2,17.5,Sydney Sixers,D van Niekerk,EA Perry,GA Elwiss,0,0,,,,,,"",""
+ball,2,17.6,Sydney Sixers,D van Niekerk,EA Perry,GA Elwiss,4,0,,,,,,"",""

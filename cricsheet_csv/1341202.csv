@@ -1,0 +1,275 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Wellington
+info,gender,male
+info,season,2022/23
+info,date,2023/01/01
+info,event,Super Smash
+info,match_number,9
+info,venue,"Hagley Oval, Christchurch"
+info,city,Christchurch
+info,toss_winner,Canterbury
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,Eloise Sheridan
+info,reserve_umpire,DA Achanta
+info,tv_umpire,DJ Walker
+info,match_referee,GAV Baxter
+info,winner,Wellington
+info,winner_wickets,8
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,MWT Boyle
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,HB Shipley
+info,player,Canterbury,TD Astle
+info,player,Canterbury,BP Coburn
+info,player,Canterbury,W O'Rourke
+info,player,Canterbury,EJ Nuttall
+info,player,Wellington,FH Allen
+info,player,Wellington,NF Kelly
+info,player,Wellington,R Ravindra
+info,player,Wellington,TM Johnson
+info,player,Wellington,NG Smith
+info,player,Wellington,TB Robinson
+info,player,Wellington,CR McLachlan
+info,player,Wellington,LV van Beek
+info,player,Wellington,PF Younghusband
+info,player,Wellington,IG McPeake
+info,player,Wellington,MW Snedden
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BP Coburn,ff4ff5f5
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,DA Achanta,7b300d1e
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HB Shipley,5426de63
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,MWT Boyle,b42d5053
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TD Astle,383dd431
+info,registry,people,TM Johnson,917f66da
+info,registry,people,W O'Rourke,cb9b8664
+ball,1,0.1,Canterbury,CJ Bowes,MWT Boyle,LV van Beek,0,0,,,,,,caught and bowled,CJ Bowes
+ball,1,0.2,Canterbury,LJ Carter,MWT Boyle,LV van Beek,0,5,5,,,,,"",""
+ball,1,0.3,Canterbury,LJ Carter,MWT Boyle,LV van Beek,0,1,1,,,,,"",""
+ball,1,0.4,Canterbury,LJ Carter,MWT Boyle,LV van Beek,1,0,,,,,,"",""
+ball,1,0.5,Canterbury,MWT Boyle,LJ Carter,LV van Beek,0,0,,,,,,"",""
+ball,1,0.6,Canterbury,MWT Boyle,LJ Carter,LV van Beek,0,1,1,,,,,"",""
+ball,1,0.7,Canterbury,MWT Boyle,LJ Carter,LV van Beek,1,0,,,,,,"",""
+ball,1,0.8,Canterbury,LJ Carter,MWT Boyle,LV van Beek,2,0,,,,,,"",""
+ball,1,0.9,Canterbury,LJ Carter,MWT Boyle,LV van Beek,0,0,,,,,,"",""
+ball,1,1.1,Canterbury,MWT Boyle,LJ Carter,NG Smith,0,1,1,,,,,"",""
+ball,1,1.2,Canterbury,MWT Boyle,LJ Carter,NG Smith,0,1,1,,,,,"",""
+ball,1,1.3,Canterbury,MWT Boyle,LJ Carter,NG Smith,0,0,,,,,,"",""
+ball,1,1.4,Canterbury,MWT Boyle,LJ Carter,NG Smith,1,0,,,,,,"",""
+ball,1,1.5,Canterbury,LJ Carter,MWT Boyle,NG Smith,0,0,,,,,,"",""
+ball,1,1.6,Canterbury,LJ Carter,MWT Boyle,NG Smith,0,0,,,,,,lbw,LJ Carter
+ball,1,1.7,Canterbury,CE McConchie,MWT Boyle,NG Smith,0,0,,,,,,"",""
+ball,1,1.8,Canterbury,CE McConchie,MWT Boyle,NG Smith,0,0,,,,,,"",""
+ball,1,2.1,Canterbury,MWT Boyle,CE McConchie,LV van Beek,0,0,,,,,,"",""
+ball,1,2.2,Canterbury,MWT Boyle,CE McConchie,LV van Beek,1,0,,,,,,"",""
+ball,1,2.3,Canterbury,CE McConchie,MWT Boyle,LV van Beek,2,0,,,,,,"",""
+ball,1,2.4,Canterbury,CE McConchie,MWT Boyle,LV van Beek,0,0,,,,,,"",""
+ball,1,2.5,Canterbury,CE McConchie,MWT Boyle,LV van Beek,0,0,,,,,,"",""
+ball,1,2.6,Canterbury,CE McConchie,MWT Boyle,LV van Beek,4,0,,,,,,"",""
+ball,1,3.1,Canterbury,MWT Boyle,CE McConchie,NG Smith,0,0,,,,,,"",""
+ball,1,3.2,Canterbury,MWT Boyle,CE McConchie,NG Smith,1,0,,,,,,"",""
+ball,1,3.3,Canterbury,CE McConchie,MWT Boyle,NG Smith,0,0,,,,,,"",""
+ball,1,3.4,Canterbury,CE McConchie,MWT Boyle,NG Smith,0,0,,,,,,"",""
+ball,1,3.5,Canterbury,CE McConchie,MWT Boyle,NG Smith,0,0,,,,,,"",""
+ball,1,3.6,Canterbury,CE McConchie,MWT Boyle,NG Smith,4,0,,,,,,"",""
+ball,1,4.1,Canterbury,MWT Boyle,CE McConchie,IG McPeake,1,0,,,,,,"",""
+ball,1,4.2,Canterbury,CE McConchie,MWT Boyle,IG McPeake,4,0,,,,,,"",""
+ball,1,4.3,Canterbury,CE McConchie,MWT Boyle,IG McPeake,1,0,,,,,,"",""
+ball,1,4.4,Canterbury,MWT Boyle,CE McConchie,IG McPeake,0,0,,,,,,"",""
+ball,1,4.5,Canterbury,MWT Boyle,CE McConchie,IG McPeake,1,0,,,,,,"",""
+ball,1,4.6,Canterbury,CE McConchie,MWT Boyle,IG McPeake,0,0,,,,,,"",""
+ball,1,5.1,Canterbury,MWT Boyle,CE McConchie,MW Snedden,0,0,,,,,,caught,MWT Boyle
+ball,1,5.2,Canterbury,CD Fletcher,CE McConchie,MW Snedden,0,1,1,,,,,"",""
+ball,1,5.3,Canterbury,CD Fletcher,CE McConchie,MW Snedden,0,0,,,,,,"",""
+ball,1,5.4,Canterbury,CD Fletcher,CE McConchie,MW Snedden,0,0,,,,,,"",""
+ball,1,5.5,Canterbury,CD Fletcher,CE McConchie,MW Snedden,1,0,,,,,,"",""
+ball,1,5.6,Canterbury,CE McConchie,CD Fletcher,MW Snedden,2,0,,,,,,"",""
+ball,1,5.7,Canterbury,CE McConchie,CD Fletcher,MW Snedden,1,0,,,,,,"",""
+ball,1,6.1,Canterbury,CE McConchie,CD Fletcher,IG McPeake,1,0,,,,,,"",""
+ball,1,6.2,Canterbury,CD Fletcher,CE McConchie,IG McPeake,0,1,1,,,,,"",""
+ball,1,6.3,Canterbury,CD Fletcher,CE McConchie,IG McPeake,0,0,,,,,,"",""
+ball,1,6.4,Canterbury,CD Fletcher,CE McConchie,IG McPeake,2,0,,,,,,"",""
+ball,1,6.5,Canterbury,CD Fletcher,CE McConchie,IG McPeake,1,0,,,,,,"",""
+ball,1,6.6,Canterbury,CE McConchie,CD Fletcher,IG McPeake,0,0,,,,,,"",""
+ball,1,6.7,Canterbury,CE McConchie,CD Fletcher,IG McPeake,0,1,1,,,,,"",""
+ball,1,6.8,Canterbury,CE McConchie,CD Fletcher,IG McPeake,0,0,,,,,,"",""
+ball,1,7.1,Canterbury,CD Fletcher,CE McConchie,MW Snedden,0,0,,,,,,"",""
+ball,1,7.2,Canterbury,CD Fletcher,CE McConchie,MW Snedden,1,0,,,,,,"",""
+ball,1,7.3,Canterbury,CE McConchie,CD Fletcher,MW Snedden,1,0,,,,,,"",""
+ball,1,7.4,Canterbury,CD Fletcher,CE McConchie,MW Snedden,1,0,,,,,,"",""
+ball,1,7.5,Canterbury,CE McConchie,CD Fletcher,MW Snedden,1,0,,,,,,"",""
+ball,1,7.6,Canterbury,CD Fletcher,CE McConchie,MW Snedden,1,0,,,,,,"",""
+ball,1,8.1,Canterbury,CD Fletcher,CE McConchie,R Ravindra,1,0,,,,,,"",""
+ball,1,8.2,Canterbury,CE McConchie,CD Fletcher,R Ravindra,1,0,,,,,,"",""
+ball,1,8.3,Canterbury,CD Fletcher,CE McConchie,R Ravindra,1,0,,,,,,"",""
+ball,1,8.4,Canterbury,CE McConchie,CD Fletcher,R Ravindra,4,0,,,,,,"",""
+ball,1,8.5,Canterbury,CE McConchie,CD Fletcher,R Ravindra,0,1,1,,,,,"",""
+ball,1,8.6,Canterbury,CE McConchie,CD Fletcher,R Ravindra,1,0,,,,,,"",""
+ball,1,8.7,Canterbury,CD Fletcher,CE McConchie,R Ravindra,1,0,,,,,,"",""
+ball,1,9.1,Canterbury,CD Fletcher,CE McConchie,PF Younghusband,2,0,,,,,,"",""
+ball,1,9.2,Canterbury,CD Fletcher,CE McConchie,PF Younghusband,0,0,,,,,,"",""
+ball,1,9.3,Canterbury,CD Fletcher,CE McConchie,PF Younghusband,6,0,,,,,,"",""
+ball,1,9.4,Canterbury,CD Fletcher,CE McConchie,PF Younghusband,0,0,,,,,,"",""
+ball,1,9.5,Canterbury,CD Fletcher,CE McConchie,PF Younghusband,2,0,,,,,,"",""
+ball,1,9.6,Canterbury,CD Fletcher,CE McConchie,PF Younghusband,1,0,,,,,,"",""
+ball,1,10.1,Canterbury,CD Fletcher,CE McConchie,IG McPeake,6,0,,,,,,"",""
+ball,1,10.2,Canterbury,CD Fletcher,CE McConchie,IG McPeake,0,1,1,,,,,"",""
+ball,1,10.3,Canterbury,CD Fletcher,CE McConchie,IG McPeake,1,0,,,,,,"",""
+ball,1,10.4,Canterbury,CE McConchie,CD Fletcher,IG McPeake,1,0,,,,,,"",""
+ball,1,10.5,Canterbury,CD Fletcher,CE McConchie,IG McPeake,1,0,,,,,,"",""
+ball,1,10.6,Canterbury,CE McConchie,CD Fletcher,IG McPeake,2,0,,,,,,"",""
+ball,1,10.7,Canterbury,CE McConchie,CD Fletcher,IG McPeake,0,1,,,,1,,"",""
+ball,1,11.1,Canterbury,CE McConchie,CD Fletcher,R Ravindra,1,0,,,,,,"",""
+ball,1,11.2,Canterbury,CD Fletcher,CE McConchie,R Ravindra,0,0,,,,,,caught,CD Fletcher
+ball,1,11.3,Canterbury,MJ Hay,CE McConchie,R Ravindra,0,0,,,,,,"",""
+ball,1,11.4,Canterbury,MJ Hay,CE McConchie,R Ravindra,0,0,,,,,,"",""
+ball,1,11.5,Canterbury,MJ Hay,CE McConchie,R Ravindra,0,0,,,,,,"",""
+ball,1,11.6,Canterbury,MJ Hay,CE McConchie,R Ravindra,1,0,,,,,,"",""
+ball,1,12.1,Canterbury,MJ Hay,CE McConchie,PF Younghusband,0,0,,,,,,lbw,MJ Hay
+ball,1,12.2,Canterbury,HB Shipley,CE McConchie,PF Younghusband,1,0,,,,,,"",""
+ball,1,12.3,Canterbury,CE McConchie,HB Shipley,PF Younghusband,0,0,,,,,,"",""
+ball,1,12.4,Canterbury,CE McConchie,HB Shipley,PF Younghusband,1,0,,,,,,"",""
+ball,1,12.5,Canterbury,HB Shipley,CE McConchie,PF Younghusband,1,0,,,,,,"",""
+ball,1,12.6,Canterbury,CE McConchie,HB Shipley,PF Younghusband,1,0,,,,,,"",""
+ball,1,13.1,Canterbury,CE McConchie,HB Shipley,R Ravindra,1,0,,,,,,"",""
+ball,1,13.2,Canterbury,HB Shipley,CE McConchie,R Ravindra,0,0,,,,,,caught,HB Shipley
+ball,1,13.3,Canterbury,TD Astle,CE McConchie,R Ravindra,1,0,,,,,,"",""
+ball,1,13.4,Canterbury,CE McConchie,TD Astle,R Ravindra,1,0,,,,,,"",""
+ball,1,13.5,Canterbury,TD Astle,CE McConchie,R Ravindra,0,0,,,,,,"",""
+ball,1,13.6,Canterbury,TD Astle,CE McConchie,R Ravindra,0,0,,,,,,"",""
+ball,1,14.1,Canterbury,CE McConchie,TD Astle,PF Younghusband,0,0,,,,,,"",""
+ball,1,14.2,Canterbury,CE McConchie,TD Astle,PF Younghusband,0,0,,,,,,"",""
+ball,1,14.3,Canterbury,CE McConchie,TD Astle,PF Younghusband,0,0,,,,,,"",""
+ball,1,14.4,Canterbury,CE McConchie,TD Astle,PF Younghusband,0,0,,,,,,caught,CE McConchie
+ball,1,14.5,Canterbury,BP Coburn,TD Astle,PF Younghusband,0,0,,,,,,"",""
+ball,1,14.6,Canterbury,BP Coburn,TD Astle,PF Younghusband,0,0,,,,,,"",""
+ball,1,15.1,Canterbury,TD Astle,BP Coburn,R Ravindra,1,0,,,,,,"",""
+ball,1,15.2,Canterbury,BP Coburn,TD Astle,R Ravindra,1,0,,,,,,"",""
+ball,1,15.3,Canterbury,TD Astle,BP Coburn,R Ravindra,1,0,,,,,,"",""
+ball,1,15.4,Canterbury,BP Coburn,TD Astle,R Ravindra,0,1,,,,1,,"",""
+ball,1,15.5,Canterbury,TD Astle,BP Coburn,R Ravindra,1,0,,,,,,"",""
+ball,1,15.6,Canterbury,BP Coburn,TD Astle,R Ravindra,4,0,,,,,,"",""
+ball,1,16.1,Canterbury,TD Astle,BP Coburn,PF Younghusband,1,0,,,,,,"",""
+ball,1,16.2,Canterbury,BP Coburn,TD Astle,PF Younghusband,1,0,,,,,,"",""
+ball,1,16.3,Canterbury,TD Astle,BP Coburn,PF Younghusband,2,0,,,,,,"",""
+ball,1,16.4,Canterbury,TD Astle,BP Coburn,PF Younghusband,1,0,,,,,,"",""
+ball,1,16.5,Canterbury,BP Coburn,TD Astle,PF Younghusband,1,0,,,,,,"",""
+ball,1,16.6,Canterbury,TD Astle,BP Coburn,PF Younghusband,0,0,,,,,,"",""
+ball,1,17.1,Canterbury,BP Coburn,TD Astle,LV van Beek,0,1,,,,1,,"",""
+ball,1,17.2,Canterbury,TD Astle,BP Coburn,LV van Beek,0,0,,,,,,"",""
+ball,1,17.3,Canterbury,TD Astle,BP Coburn,LV van Beek,1,0,,,,,,"",""
+ball,1,17.4,Canterbury,BP Coburn,TD Astle,LV van Beek,1,0,,,,,,"",""
+ball,1,17.5,Canterbury,TD Astle,BP Coburn,LV van Beek,4,0,,,,,,"",""
+ball,1,17.6,Canterbury,TD Astle,BP Coburn,LV van Beek,1,0,,,,,,"",""
+ball,1,18.1,Canterbury,TD Astle,BP Coburn,NG Smith,4,0,,,,,,"",""
+ball,1,18.2,Canterbury,TD Astle,BP Coburn,NG Smith,0,1,,1,,,,"",""
+ball,1,18.3,Canterbury,TD Astle,BP Coburn,NG Smith,0,0,,,,,,"",""
+ball,1,18.4,Canterbury,TD Astle,BP Coburn,NG Smith,0,0,,,,,,caught,TD Astle
+ball,1,18.5,Canterbury,W O'Rourke,BP Coburn,NG Smith,2,0,,,,,,"",""
+ball,1,18.6,Canterbury,W O'Rourke,BP Coburn,NG Smith,0,0,,,,,,"",""
+ball,1,18.7,Canterbury,W O'Rourke,BP Coburn,NG Smith,1,0,,,,,,"",""
+ball,1,19.1,Canterbury,W O'Rourke,BP Coburn,LV van Beek,1,0,,,,,,"",""
+ball,1,19.2,Canterbury,BP Coburn,W O'Rourke,LV van Beek,2,0,,,,,,"",""
+ball,1,19.3,Canterbury,BP Coburn,W O'Rourke,LV van Beek,1,0,,,,,,"",""
+ball,1,19.4,Canterbury,W O'Rourke,BP Coburn,LV van Beek,2,0,,,,,,"",""
+ball,1,19.5,Canterbury,W O'Rourke,BP Coburn,LV van Beek,0,2,2,,,,,"",""
+ball,1,19.6,Canterbury,BP Coburn,W O'Rourke,LV van Beek,0,0,,,,,,"",""
+ball,1,19.7,Canterbury,BP Coburn,W O'Rourke,LV van Beek,1,0,,,,,,"",""
+ball,2,0.1,Wellington,FH Allen,NF Kelly,HB Shipley,0,1,1,,,,,"",""
+ball,2,0.2,Wellington,FH Allen,NF Kelly,HB Shipley,1,0,,,,,,"",""
+ball,2,0.3,Wellington,NF Kelly,FH Allen,HB Shipley,0,1,1,,,,,"",""
+ball,2,0.4,Wellington,NF Kelly,FH Allen,HB Shipley,0,0,,,,,,"",""
+ball,2,0.5,Wellington,NF Kelly,FH Allen,HB Shipley,1,0,,,,,,"",""
+ball,2,0.6,Wellington,FH Allen,NF Kelly,HB Shipley,1,0,,,,,,"",""
+ball,2,0.7,Wellington,NF Kelly,FH Allen,HB Shipley,2,0,,,,,,"",""
+ball,2,0.8,Wellington,NF Kelly,FH Allen,HB Shipley,0,0,,,,,,"",""
+ball,2,1.1,Wellington,FH Allen,NF Kelly,W O'Rourke,4,0,,,,,,"",""
+ball,2,1.2,Wellington,FH Allen,NF Kelly,W O'Rourke,2,0,,,,,,"",""
+ball,2,1.3,Wellington,FH Allen,NF Kelly,W O'Rourke,1,0,,,,,,"",""
+ball,2,1.4,Wellington,NF Kelly,FH Allen,W O'Rourke,4,0,,,,,,"",""
+ball,2,1.5,Wellington,NF Kelly,FH Allen,W O'Rourke,0,0,,,,,,"",""
+ball,2,1.6,Wellington,NF Kelly,FH Allen,W O'Rourke,0,0,,,,,,"",""
+ball,2,2.1,Wellington,FH Allen,NF Kelly,HB Shipley,4,0,,,,,,"",""
+ball,2,2.2,Wellington,FH Allen,NF Kelly,HB Shipley,0,0,,,,,,"",""
+ball,2,2.3,Wellington,FH Allen,NF Kelly,HB Shipley,4,0,,,,,,"",""
+ball,2,2.4,Wellington,FH Allen,NF Kelly,HB Shipley,0,0,,,,,,"",""
+ball,2,2.5,Wellington,FH Allen,NF Kelly,HB Shipley,4,0,,,,,,"",""
+ball,2,2.6,Wellington,FH Allen,NF Kelly,HB Shipley,1,0,,,,,,"",""
+ball,2,3.1,Wellington,FH Allen,NF Kelly,W O'Rourke,1,0,,,,,,"",""
+ball,2,3.2,Wellington,NF Kelly,FH Allen,W O'Rourke,6,0,,,,,,"",""
+ball,2,3.3,Wellington,NF Kelly,FH Allen,W O'Rourke,1,0,,,,,,"",""
+ball,2,3.4,Wellington,FH Allen,NF Kelly,W O'Rourke,1,0,,,,,,"",""
+ball,2,3.5,Wellington,NF Kelly,FH Allen,W O'Rourke,4,0,,,,,,"",""
+ball,2,3.6,Wellington,NF Kelly,FH Allen,W O'Rourke,6,0,,,,,,"",""
+ball,2,4.1,Wellington,FH Allen,NF Kelly,EJ Nuttall,6,0,,,,,,"",""
+ball,2,4.2,Wellington,FH Allen,NF Kelly,EJ Nuttall,1,0,,,,,,"",""
+ball,2,4.3,Wellington,NF Kelly,FH Allen,EJ Nuttall,0,1,1,,,,,"",""
+ball,2,4.4,Wellington,NF Kelly,FH Allen,EJ Nuttall,0,0,,,,,,caught,NF Kelly
+ball,2,4.5,Wellington,R Ravindra,FH Allen,EJ Nuttall,0,0,,,,,,"",""
+ball,2,4.6,Wellington,R Ravindra,FH Allen,EJ Nuttall,4,0,,,,,,"",""
+ball,2,4.7,Wellington,R Ravindra,FH Allen,EJ Nuttall,1,0,,,,,,"",""
+ball,2,5.1,Wellington,R Ravindra,FH Allen,HB Shipley,2,0,,,,,,"",""
+ball,2,5.2,Wellington,R Ravindra,FH Allen,HB Shipley,4,0,,,,,,"",""
+ball,2,5.3,Wellington,R Ravindra,FH Allen,HB Shipley,0,0,,,,,,"",""
+ball,2,5.4,Wellington,R Ravindra,FH Allen,HB Shipley,1,0,,,,,,"",""
+ball,2,5.5,Wellington,FH Allen,R Ravindra,HB Shipley,2,0,,,,,,"",""
+ball,2,5.6,Wellington,FH Allen,R Ravindra,HB Shipley,0,0,,,,,,"",""
+ball,2,6.1,Wellington,R Ravindra,FH Allen,TD Astle,1,0,,,,,,"",""
+ball,2,6.2,Wellington,FH Allen,R Ravindra,TD Astle,0,0,,,,,,"",""
+ball,2,6.3,Wellington,FH Allen,R Ravindra,TD Astle,4,0,,,,,,"",""
+ball,2,6.4,Wellington,FH Allen,R Ravindra,TD Astle,1,0,,,,,,"",""
+ball,2,6.5,Wellington,R Ravindra,FH Allen,TD Astle,1,0,,,,,,"",""
+ball,2,6.6,Wellington,FH Allen,R Ravindra,TD Astle,4,0,,,,,,"",""
+ball,2,7.1,Wellington,R Ravindra,FH Allen,BP Coburn,1,0,,,,,,"",""
+ball,2,7.2,Wellington,FH Allen,R Ravindra,BP Coburn,4,0,,,,,,"",""
+ball,2,7.3,Wellington,FH Allen,R Ravindra,BP Coburn,1,0,,,,,,"",""
+ball,2,7.4,Wellington,R Ravindra,FH Allen,BP Coburn,1,0,,,,,,"",""
+ball,2,7.5,Wellington,FH Allen,R Ravindra,BP Coburn,1,0,,,,,,"",""
+ball,2,7.6,Wellington,R Ravindra,FH Allen,BP Coburn,0,0,,,,,,"",""
+ball,2,8.1,Wellington,FH Allen,R Ravindra,TD Astle,2,0,,,,,,"",""
+ball,2,8.2,Wellington,FH Allen,R Ravindra,TD Astle,0,0,,,,,,"",""
+ball,2,8.3,Wellington,FH Allen,R Ravindra,TD Astle,6,0,,,,,,"",""
+ball,2,8.4,Wellington,FH Allen,R Ravindra,TD Astle,2,0,,,,,,"",""
+ball,2,8.5,Wellington,FH Allen,R Ravindra,TD Astle,4,0,,,,,,"",""
+ball,2,8.6,Wellington,FH Allen,R Ravindra,TD Astle,1,0,,,,,,"",""
+ball,2,9.1,Wellington,FH Allen,R Ravindra,CE McConchie,1,0,,,,,,"",""
+ball,2,9.2,Wellington,R Ravindra,FH Allen,CE McConchie,1,0,,,,,,"",""
+ball,2,9.3,Wellington,FH Allen,R Ravindra,CE McConchie,2,0,,,,,,"",""
+ball,2,9.4,Wellington,FH Allen,R Ravindra,CE McConchie,1,0,,,,,,"",""
+ball,2,9.5,Wellington,R Ravindra,FH Allen,CE McConchie,1,0,,,,,,"",""
+ball,2,9.6,Wellington,FH Allen,R Ravindra,CE McConchie,1,0,,,,,,"",""
+ball,2,10.1,Wellington,FH Allen,R Ravindra,W O'Rourke,4,0,,,,,,"",""
+ball,2,10.2,Wellington,FH Allen,R Ravindra,W O'Rourke,6,0,,,,,,"",""
+ball,2,10.3,Wellington,FH Allen,R Ravindra,W O'Rourke,0,0,,,,,,caught,FH Allen
+ball,2,10.4,Wellington,TM Johnson,R Ravindra,W O'Rourke,2,0,,,,,,"",""
+ball,2,10.5,Wellington,TM Johnson,R Ravindra,W O'Rourke,1,0,,,,,,"",""
+ball,2,10.6,Wellington,R Ravindra,TM Johnson,W O'Rourke,0,0,,,,,,"",""
+ball,2,11.1,Wellington,TM Johnson,R Ravindra,CE McConchie,4,0,,,,,,"",""
+ball,2,11.2,Wellington,TM Johnson,R Ravindra,CE McConchie,0,0,,,,,,"",""
+ball,2,11.3,Wellington,TM Johnson,R Ravindra,CE McConchie,1,0,,,,,,"",""
+ball,2,11.4,Wellington,R Ravindra,TM Johnson,CE McConchie,1,0,,,,,,"",""
+ball,2,11.5,Wellington,TM Johnson,R Ravindra,CE McConchie,1,0,,,,,,"",""

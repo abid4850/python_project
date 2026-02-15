@@ -1,0 +1,316 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Derbyshire
+info,gender,male
+info,season,2021
+info,date,2021/07/09
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Derbyshire
+info,toss_decision,field
+info,player_of_match,MJJ Critchley
+info,umpire,NL Bainton
+info,umpire,PR Pollard
+info,match_referee,TJ Boon
+info,winner,Derbyshire
+info,winner_wickets,6
+info,player,Durham,G Clark
+info,player,Durham,DG Bedingham
+info,player,Durham,BA Raine
+info,player,Durham,CT Bancroft
+info,player,Durham,SR Dickson
+info,player,Durham,SG Borthwick
+info,player,Durham,EJH Eckersley
+info,player,Durham,MJ Potts
+info,player,Durham,HM Crawshaw
+info,player,Durham,L Doneathy
+info,player,Durham,PA van Meekeren
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,MJJ Critchley
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,FJ Hudson-Prentice
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,LV van Beek
+info,player,Derbyshire,JW Dernbach
+info,player,Derbyshire,GLS Scrimshaw
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,EJH Eckersley,d510d457
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,HM Crawshaw,a2500c86
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JW Dernbach,7be8a0ed
+info,registry,people,L Doneathy,4bf5c12f
+info,registry,people,LM Reece,9789e56e
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,TA Wood,884f72a1
+info,registry,people,TJ Boon,0bdf177a
+ball,1,0.1,Durham,G Clark,DG Bedingham,LV van Beek,1,0,,,,,,"",""
+ball,1,0.2,Durham,DG Bedingham,G Clark,LV van Beek,0,1,1,,,,,"",""
+ball,1,0.3,Durham,DG Bedingham,G Clark,LV van Beek,0,0,,,,,,caught,DG Bedingham
+ball,1,0.4,Durham,BA Raine,G Clark,LV van Beek,0,0,,,,,,"",""
+ball,1,0.5,Durham,BA Raine,G Clark,LV van Beek,0,0,,,,,,"",""
+ball,1,0.6,Durham,BA Raine,G Clark,LV van Beek,0,0,,,,,,"",""
+ball,1,0.7,Durham,BA Raine,G Clark,LV van Beek,0,0,,,,,,"",""
+ball,1,1.1,Durham,G Clark,BA Raine,JW Dernbach,4,0,,,,,,"",""
+ball,1,1.2,Durham,G Clark,BA Raine,JW Dernbach,4,0,,,,,,"",""
+ball,1,1.3,Durham,G Clark,BA Raine,JW Dernbach,0,0,,,,,,"",""
+ball,1,1.4,Durham,G Clark,BA Raine,JW Dernbach,1,0,,,,,,"",""
+ball,1,1.5,Durham,BA Raine,G Clark,JW Dernbach,0,0,,,,,,"",""
+ball,1,1.6,Durham,BA Raine,G Clark,JW Dernbach,1,0,,,,,,"",""
+ball,1,2.1,Durham,BA Raine,G Clark,LV van Beek,4,0,,,,,,"",""
+ball,1,2.2,Durham,BA Raine,G Clark,LV van Beek,1,0,,,,,,"",""
+ball,1,2.3,Durham,G Clark,BA Raine,LV van Beek,4,0,,,,,,"",""
+ball,1,2.4,Durham,G Clark,BA Raine,LV van Beek,4,0,,,,,,"",""
+ball,1,2.5,Durham,G Clark,BA Raine,LV van Beek,4,0,,,,,,"",""
+ball,1,2.6,Durham,G Clark,BA Raine,LV van Beek,4,0,,,,,,"",""
+ball,1,3.1,Durham,BA Raine,G Clark,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,3.2,Durham,BA Raine,G Clark,FJ Hudson-Prentice,3,0,,,,,,"",""
+ball,1,3.3,Durham,G Clark,BA Raine,FJ Hudson-Prentice,0,0,,,,,,caught,G Clark
+ball,1,3.4,Durham,CT Bancroft,BA Raine,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,3.5,Durham,CT Bancroft,BA Raine,FJ Hudson-Prentice,2,0,,,,,,"",""
+ball,1,3.6,Durham,CT Bancroft,BA Raine,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,4.1,Durham,BA Raine,CT Bancroft,AT Thomson,0,0,,,,,,"",""
+ball,1,4.2,Durham,BA Raine,CT Bancroft,AT Thomson,0,0,,,,,,"",""
+ball,1,4.3,Durham,BA Raine,CT Bancroft,AT Thomson,4,0,,,,,,"",""
+ball,1,4.4,Durham,BA Raine,CT Bancroft,AT Thomson,4,0,,,,,,"",""
+ball,1,4.5,Durham,BA Raine,CT Bancroft,AT Thomson,1,0,,,,,,"",""
+ball,1,4.6,Durham,CT Bancroft,BA Raine,AT Thomson,1,0,,,,,,"",""
+ball,1,5.1,Durham,CT Bancroft,BA Raine,JW Dernbach,2,0,,,,,,"",""
+ball,1,5.2,Durham,CT Bancroft,BA Raine,JW Dernbach,1,0,,,,,,"",""
+ball,1,5.3,Durham,BA Raine,CT Bancroft,JW Dernbach,1,0,,,,,,"",""
+ball,1,5.4,Durham,CT Bancroft,BA Raine,JW Dernbach,0,0,,,,,,"",""
+ball,1,5.5,Durham,CT Bancroft,BA Raine,JW Dernbach,4,0,,,,,,"",""
+ball,1,5.6,Durham,CT Bancroft,BA Raine,JW Dernbach,0,0,,,,,,"",""
+ball,1,6.1,Durham,BA Raine,CT Bancroft,MJJ Critchley,2,0,,,,,,"",""
+ball,1,6.2,Durham,BA Raine,CT Bancroft,MJJ Critchley,0,0,,,,,,"",""
+ball,1,6.3,Durham,BA Raine,CT Bancroft,MJJ Critchley,2,0,,,,,,"",""
+ball,1,6.4,Durham,BA Raine,CT Bancroft,MJJ Critchley,0,0,,,,,,"",""
+ball,1,6.5,Durham,BA Raine,CT Bancroft,MJJ Critchley,1,0,,,,,,"",""
+ball,1,6.6,Durham,CT Bancroft,BA Raine,MJJ Critchley,0,0,,,,,,"",""
+ball,1,7.1,Durham,BA Raine,CT Bancroft,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,7.2,Durham,CT Bancroft,BA Raine,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,7.3,Durham,BA Raine,CT Bancroft,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,7.4,Durham,CT Bancroft,BA Raine,GLS Scrimshaw,0,1,1,,,,,"",""
+ball,1,7.5,Durham,CT Bancroft,BA Raine,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,7.6,Durham,BA Raine,CT Bancroft,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,7.7,Durham,CT Bancroft,BA Raine,GLS Scrimshaw,1,2,,2,,,,"",""
+ball,1,7.8,Durham,BA Raine,CT Bancroft,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,8.1,Durham,BA Raine,CT Bancroft,MJJ Critchley,0,0,,,,,,caught,BA Raine
+ball,1,8.2,Durham,CT Bancroft,SR Dickson,MJJ Critchley,0,0,,,,,,"",""
+ball,1,8.3,Durham,CT Bancroft,SR Dickson,MJJ Critchley,0,0,,,,,,"",""
+ball,1,8.4,Durham,CT Bancroft,SR Dickson,MJJ Critchley,1,0,,,,,,"",""
+ball,1,8.5,Durham,SR Dickson,CT Bancroft,MJJ Critchley,1,0,,,,,,"",""
+ball,1,8.6,Durham,CT Bancroft,SR Dickson,MJJ Critchley,1,0,,,,,,"",""
+ball,1,9.1,Durham,CT Bancroft,SR Dickson,AT Thomson,1,0,,,,,,"",""
+ball,1,9.2,Durham,SR Dickson,CT Bancroft,AT Thomson,0,0,,,,,,"",""
+ball,1,9.3,Durham,SR Dickson,CT Bancroft,AT Thomson,2,0,,,,,,"",""
+ball,1,9.4,Durham,SR Dickson,CT Bancroft,AT Thomson,1,0,,,,,,"",""
+ball,1,9.5,Durham,CT Bancroft,SR Dickson,AT Thomson,0,0,,,,,,"",""
+ball,1,9.6,Durham,CT Bancroft,SR Dickson,AT Thomson,0,0,,,,,,caught,CT Bancroft
+ball,1,10.1,Durham,SG Borthwick,SR Dickson,JL du Plooy,0,0,,,,,,"",""
+ball,1,10.2,Durham,SG Borthwick,SR Dickson,JL du Plooy,2,0,,,,,,"",""
+ball,1,10.3,Durham,SG Borthwick,SR Dickson,JL du Plooy,2,0,,,,,,"",""
+ball,1,10.4,Durham,SG Borthwick,SR Dickson,JL du Plooy,4,0,,,,,,"",""
+ball,1,10.5,Durham,SG Borthwick,SR Dickson,JL du Plooy,2,2,,2,,,,"",""
+ball,1,10.6,Durham,SG Borthwick,SR Dickson,JL du Plooy,2,0,,,,,,"",""
+ball,1,10.7,Durham,SG Borthwick,SR Dickson,JL du Plooy,4,0,,,,,,"",""
+ball,1,11.1,Durham,SR Dickson,SG Borthwick,GLS Scrimshaw,2,0,,,,,,"",""
+ball,1,11.2,Durham,SR Dickson,SG Borthwick,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,11.3,Durham,SR Dickson,SG Borthwick,GLS Scrimshaw,0,1,1,,,,,"",""
+ball,1,11.4,Durham,SR Dickson,SG Borthwick,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,11.5,Durham,SG Borthwick,SR Dickson,GLS Scrimshaw,2,0,,,,,,"",""
+ball,1,11.6,Durham,SG Borthwick,SR Dickson,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,11.7,Durham,SG Borthwick,SR Dickson,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,12.1,Durham,SG Borthwick,SR Dickson,AT Thomson,1,0,,,,,,"",""
+ball,1,12.2,Durham,SR Dickson,SG Borthwick,AT Thomson,1,0,,,,,,"",""
+ball,1,12.3,Durham,SG Borthwick,SR Dickson,AT Thomson,1,0,,,,,,"",""
+ball,1,12.4,Durham,SR Dickson,SG Borthwick,AT Thomson,0,0,,,,,,"",""
+ball,1,12.5,Durham,SR Dickson,SG Borthwick,AT Thomson,0,0,,,,,,"",""
+ball,1,12.6,Durham,SR Dickson,SG Borthwick,AT Thomson,2,0,,,,,,"",""
+ball,1,13.1,Durham,SG Borthwick,SR Dickson,MJJ Critchley,1,0,,,,,,"",""
+ball,1,13.2,Durham,SR Dickson,SG Borthwick,MJJ Critchley,1,0,,,,,,"",""
+ball,1,13.3,Durham,SG Borthwick,SR Dickson,MJJ Critchley,0,0,,,,,,"",""
+ball,1,13.4,Durham,SG Borthwick,SR Dickson,MJJ Critchley,6,0,,,,,,"",""
+ball,1,13.5,Durham,SG Borthwick,SR Dickson,MJJ Critchley,4,0,,,,,,"",""
+ball,1,13.6,Durham,SG Borthwick,SR Dickson,MJJ Critchley,1,0,,,,,,"",""
+ball,1,14.1,Durham,SG Borthwick,SR Dickson,AT Thomson,0,0,,,,,,bowled,SG Borthwick
+ball,1,14.2,Durham,EJH Eckersley,SR Dickson,AT Thomson,2,0,,,,,,"",""
+ball,1,14.3,Durham,EJH Eckersley,SR Dickson,AT Thomson,0,0,,,,,,caught,EJH Eckersley
+ball,1,14.4,Durham,SR Dickson,MJ Potts,AT Thomson,1,0,,,,,,"",""
+ball,1,14.5,Durham,MJ Potts,SR Dickson,AT Thomson,0,0,,,,,,"",""
+ball,1,14.6,Durham,MJ Potts,SR Dickson,AT Thomson,1,0,,,,,,"",""
+ball,1,15.1,Durham,MJ Potts,SR Dickson,MJJ Critchley,1,0,,,,,,"",""
+ball,1,15.2,Durham,SR Dickson,MJ Potts,MJJ Critchley,2,0,,,,,,"",""
+ball,1,15.3,Durham,SR Dickson,MJ Potts,MJJ Critchley,0,0,,,,,,"",""
+ball,1,15.4,Durham,SR Dickson,MJ Potts,MJJ Critchley,1,0,,,,,,"",""
+ball,1,15.5,Durham,MJ Potts,SR Dickson,MJJ Critchley,1,0,,,,,,"",""
+ball,1,15.6,Durham,SR Dickson,MJ Potts,MJJ Critchley,1,0,,,,,,"",""
+ball,1,16.1,Durham,SR Dickson,MJ Potts,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,16.2,Durham,SR Dickson,MJ Potts,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,16.3,Durham,MJ Potts,SR Dickson,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,16.4,Durham,SR Dickson,MJ Potts,FJ Hudson-Prentice,2,0,,,,,,"",""
+ball,1,16.5,Durham,SR Dickson,MJ Potts,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,16.6,Durham,SR Dickson,MJ Potts,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,17.1,Durham,SR Dickson,MJ Potts,JW Dernbach,2,0,,,,,,"",""
+ball,1,17.2,Durham,SR Dickson,MJ Potts,JW Dernbach,1,0,,,,,,"",""
+ball,1,17.3,Durham,MJ Potts,SR Dickson,JW Dernbach,0,0,,,,,,caught,MJ Potts
+ball,1,17.4,Durham,SR Dickson,HM Crawshaw,JW Dernbach,1,0,,,,,,"",""
+ball,1,17.5,Durham,HM Crawshaw,SR Dickson,JW Dernbach,4,0,,,,,,"",""
+ball,1,17.6,Durham,HM Crawshaw,SR Dickson,JW Dernbach,0,1,1,,,,,"",""
+ball,1,17.7,Durham,HM Crawshaw,SR Dickson,JW Dernbach,1,0,,,,,,"",""
+ball,1,18.1,Durham,HM Crawshaw,SR Dickson,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,18.2,Durham,HM Crawshaw,SR Dickson,FJ Hudson-Prentice,0,0,,,,,,bowled,HM Crawshaw
+ball,1,18.3,Durham,L Doneathy,SR Dickson,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,18.4,Durham,SR Dickson,L Doneathy,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,18.5,Durham,SR Dickson,L Doneathy,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,18.6,Durham,SR Dickson,L Doneathy,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,19.1,Durham,SR Dickson,L Doneathy,JW Dernbach,0,2,,2,,,,"",""
+ball,1,19.2,Durham,SR Dickson,L Doneathy,JW Dernbach,0,1,,,1,,,"",""
+ball,1,19.3,Durham,L Doneathy,SR Dickson,JW Dernbach,2,0,,,,,,"",""
+ball,1,19.4,Durham,L Doneathy,SR Dickson,JW Dernbach,2,0,,,,,,"",""
+ball,1,19.5,Durham,L Doneathy,SR Dickson,JW Dernbach,0,0,,,,,,"",""
+ball,1,19.6,Durham,L Doneathy,SR Dickson,JW Dernbach,0,1,,,1,,,"",""
+ball,1,19.7,Durham,SR Dickson,L Doneathy,JW Dernbach,0,0,,,,,,caught and bowled,SR Dickson
+ball,2,0.1,Derbyshire,LM Reece,HRC Came,MJ Potts,0,0,,,,,,"",""
+ball,2,0.2,Derbyshire,LM Reece,HRC Came,MJ Potts,0,0,,,,,,"",""
+ball,2,0.3,Derbyshire,LM Reece,HRC Came,MJ Potts,4,0,,,,,,"",""
+ball,2,0.4,Derbyshire,LM Reece,HRC Came,MJ Potts,1,0,,,,,,"",""
+ball,2,0.5,Derbyshire,HRC Came,LM Reece,MJ Potts,0,0,,,,,,"",""
+ball,2,0.6,Derbyshire,HRC Came,LM Reece,MJ Potts,4,0,,,,,,"",""
+ball,2,1.1,Derbyshire,LM Reece,HRC Came,PA van Meekeren,1,0,,,,,,"",""
+ball,2,1.2,Derbyshire,HRC Came,LM Reece,PA van Meekeren,0,1,1,,,,,"",""
+ball,2,1.3,Derbyshire,HRC Came,LM Reece,PA van Meekeren,1,0,,,,,,"",""
+ball,2,1.4,Derbyshire,LM Reece,HRC Came,PA van Meekeren,2,0,,,,,,"",""
+ball,2,1.5,Derbyshire,LM Reece,HRC Came,PA van Meekeren,0,0,,,,,,caught,LM Reece
+ball,2,1.6,Derbyshire,HRC Came,TA Wood,PA van Meekeren,0,1,1,,,,,"",""
+ball,2,1.7,Derbyshire,HRC Came,TA Wood,PA van Meekeren,1,0,,,,,,"",""
+ball,2,1.8,Derbyshire,TA Wood,HRC Came,PA van Meekeren,0,0,,,,,,"",""
+ball,2,2.1,Derbyshire,HRC Came,TA Wood,HM Crawshaw,4,0,,,,,,"",""
+ball,2,2.2,Derbyshire,HRC Came,TA Wood,HM Crawshaw,4,0,,,,,,"",""
+ball,2,2.3,Derbyshire,HRC Came,TA Wood,HM Crawshaw,0,0,,,,,,"",""
+ball,2,2.4,Derbyshire,HRC Came,TA Wood,HM Crawshaw,1,0,,,,,,"",""
+ball,2,2.5,Derbyshire,TA Wood,HRC Came,HM Crawshaw,1,0,,,,,,"",""
+ball,2,2.6,Derbyshire,HRC Came,TA Wood,HM Crawshaw,1,0,,,,,,"",""
+ball,2,3.1,Derbyshire,HRC Came,TA Wood,MJ Potts,0,1,1,,,,,"",""
+ball,2,3.2,Derbyshire,HRC Came,TA Wood,MJ Potts,4,0,,,,,,"",""
+ball,2,3.3,Derbyshire,HRC Came,TA Wood,MJ Potts,0,0,,,,,,caught,HRC Came
+ball,2,3.4,Derbyshire,TA Wood,JL du Plooy,MJ Potts,4,0,,,,,,"",""
+ball,2,3.5,Derbyshire,TA Wood,JL du Plooy,MJ Potts,2,0,,,,,,"",""
+ball,2,3.6,Derbyshire,TA Wood,JL du Plooy,MJ Potts,0,0,,,,,,"",""
+ball,2,3.7,Derbyshire,TA Wood,JL du Plooy,MJ Potts,0,0,,,,,,"",""
+ball,2,4.1,Derbyshire,JL du Plooy,TA Wood,HM Crawshaw,4,0,,,,,,"",""
+ball,2,4.2,Derbyshire,JL du Plooy,TA Wood,HM Crawshaw,1,0,,,,,,"",""
+ball,2,4.3,Derbyshire,TA Wood,JL du Plooy,HM Crawshaw,0,0,,,,,,"",""
+ball,2,4.4,Derbyshire,TA Wood,JL du Plooy,HM Crawshaw,0,0,,,,,,"",""
+ball,2,4.5,Derbyshire,TA Wood,JL du Plooy,HM Crawshaw,0,0,,,,,,"",""
+ball,2,4.6,Derbyshire,TA Wood,JL du Plooy,HM Crawshaw,0,0,,,,,,"",""
+ball,2,5.1,Derbyshire,JL du Plooy,TA Wood,PA van Meekeren,4,0,,,,,,"",""
+ball,2,5.2,Derbyshire,JL du Plooy,TA Wood,PA van Meekeren,0,0,,,,,,"",""
+ball,2,5.3,Derbyshire,JL du Plooy,TA Wood,PA van Meekeren,1,0,,,,,,"",""
+ball,2,5.4,Derbyshire,TA Wood,JL du Plooy,PA van Meekeren,4,0,,,,,,"",""
+ball,2,5.5,Derbyshire,TA Wood,JL du Plooy,PA van Meekeren,0,0,,,,,,"",""
+ball,2,5.6,Derbyshire,TA Wood,JL du Plooy,PA van Meekeren,1,0,,,,,,"",""
+ball,2,6.1,Derbyshire,TA Wood,JL du Plooy,SG Borthwick,1,0,,,,,,"",""
+ball,2,6.2,Derbyshire,JL du Plooy,TA Wood,SG Borthwick,0,0,,,,,,"",""
+ball,2,6.3,Derbyshire,JL du Plooy,TA Wood,SG Borthwick,1,0,,,,,,"",""
+ball,2,6.4,Derbyshire,TA Wood,JL du Plooy,SG Borthwick,1,0,,,,,,"",""
+ball,2,6.5,Derbyshire,JL du Plooy,TA Wood,SG Borthwick,1,0,,,,,,"",""
+ball,2,6.6,Derbyshire,TA Wood,JL du Plooy,SG Borthwick,6,0,,,,,,"",""
+ball,2,7.1,Derbyshire,JL du Plooy,TA Wood,BA Raine,1,0,,,,,,"",""
+ball,2,7.2,Derbyshire,TA Wood,JL du Plooy,BA Raine,1,0,,,,,,"",""
+ball,2,7.3,Derbyshire,JL du Plooy,TA Wood,BA Raine,0,0,,,,,,"",""
+ball,2,7.4,Derbyshire,JL du Plooy,TA Wood,BA Raine,1,0,,,,,,"",""
+ball,2,7.5,Derbyshire,TA Wood,JL du Plooy,BA Raine,3,0,,,,,,"",""
+ball,2,7.6,Derbyshire,JL du Plooy,TA Wood,BA Raine,0,0,,,,,,"",""
+ball,2,8.1,Derbyshire,TA Wood,JL du Plooy,SG Borthwick,1,0,,,,,,"",""
+ball,2,8.2,Derbyshire,JL du Plooy,TA Wood,SG Borthwick,2,0,,,,,,"",""
+ball,2,8.3,Derbyshire,JL du Plooy,TA Wood,SG Borthwick,2,0,,,,,,"",""
+ball,2,8.4,Derbyshire,JL du Plooy,TA Wood,SG Borthwick,1,0,,,,,,"",""
+ball,2,8.5,Derbyshire,TA Wood,JL du Plooy,SG Borthwick,2,0,,,,,,"",""
+ball,2,8.6,Derbyshire,TA Wood,JL du Plooy,SG Borthwick,0,0,,,,,,"",""
+ball,2,9.1,Derbyshire,JL du Plooy,TA Wood,L Doneathy,4,0,,,,,,"",""
+ball,2,9.2,Derbyshire,JL du Plooy,TA Wood,L Doneathy,4,0,,,,,,"",""
+ball,2,9.3,Derbyshire,JL du Plooy,TA Wood,L Doneathy,4,0,,,,,,"",""
+ball,2,9.4,Derbyshire,JL du Plooy,TA Wood,L Doneathy,1,0,,,,,,"",""
+ball,2,9.5,Derbyshire,TA Wood,JL du Plooy,L Doneathy,1,0,,,,,,"",""
+ball,2,9.6,Derbyshire,JL du Plooy,TA Wood,L Doneathy,1,0,,,,,,"",""
+ball,2,10.1,Derbyshire,JL du Plooy,TA Wood,BA Raine,1,0,,,,,,"",""
+ball,2,10.2,Derbyshire,TA Wood,JL du Plooy,BA Raine,1,0,,,,,,"",""
+ball,2,10.3,Derbyshire,JL du Plooy,TA Wood,BA Raine,1,0,,,,,,"",""
+ball,2,10.4,Derbyshire,TA Wood,JL du Plooy,BA Raine,2,0,,,,,,"",""
+ball,2,10.5,Derbyshire,TA Wood,JL du Plooy,BA Raine,1,0,,,,,,"",""
+ball,2,10.6,Derbyshire,JL du Plooy,TA Wood,BA Raine,1,0,,,,,,"",""
+ball,2,11.1,Derbyshire,JL du Plooy,TA Wood,PA van Meekeren,0,0,,,,,,"",""
+ball,2,11.2,Derbyshire,JL du Plooy,TA Wood,PA van Meekeren,1,0,,,,,,"",""
+ball,2,11.3,Derbyshire,TA Wood,JL du Plooy,PA van Meekeren,0,0,,,,,,caught,TA Wood
+ball,2,11.4,Derbyshire,JL du Plooy,MJJ Critchley,PA van Meekeren,2,0,,,,,,"",""
+ball,2,11.5,Derbyshire,JL du Plooy,MJJ Critchley,PA van Meekeren,1,0,,,,,,"",""
+ball,2,11.6,Derbyshire,MJJ Critchley,JL du Plooy,PA van Meekeren,2,0,,,,,,"",""
+ball,2,12.1,Derbyshire,JL du Plooy,MJJ Critchley,SG Borthwick,1,0,,,,,,"",""
+ball,2,12.2,Derbyshire,MJJ Critchley,JL du Plooy,SG Borthwick,1,0,,,,,,"",""
+ball,2,12.3,Derbyshire,JL du Plooy,MJJ Critchley,SG Borthwick,2,0,,,,,,"",""
+ball,2,12.4,Derbyshire,JL du Plooy,MJJ Critchley,SG Borthwick,1,0,,,,,,"",""
+ball,2,12.5,Derbyshire,MJJ Critchley,JL du Plooy,SG Borthwick,1,0,,,,,,"",""
+ball,2,12.6,Derbyshire,JL du Plooy,MJJ Critchley,SG Borthwick,1,0,,,,,,"",""
+ball,2,13.1,Derbyshire,JL du Plooy,MJJ Critchley,L Doneathy,0,0,,,,,,"",""
+ball,2,13.2,Derbyshire,JL du Plooy,MJJ Critchley,L Doneathy,1,0,,,,,,"",""
+ball,2,13.3,Derbyshire,MJJ Critchley,JL du Plooy,L Doneathy,1,0,,,,,,"",""
+ball,2,13.4,Derbyshire,JL du Plooy,MJJ Critchley,L Doneathy,1,0,,,,,,"",""
+ball,2,13.5,Derbyshire,MJJ Critchley,JL du Plooy,L Doneathy,1,0,,,,,,"",""
+ball,2,13.6,Derbyshire,JL du Plooy,MJJ Critchley,L Doneathy,0,0,,,,,,bowled,JL du Plooy
+ball,2,14.1,Derbyshire,MJJ Critchley,BD Guest,SG Borthwick,2,0,,,,,,"",""
+ball,2,14.2,Derbyshire,MJJ Critchley,BD Guest,SG Borthwick,1,0,,,,,,"",""
+ball,2,14.3,Derbyshire,BD Guest,MJJ Critchley,SG Borthwick,0,0,,,,,,"",""
+ball,2,14.4,Derbyshire,BD Guest,MJJ Critchley,SG Borthwick,1,0,,,,,,"",""
+ball,2,14.5,Derbyshire,MJJ Critchley,BD Guest,SG Borthwick,1,0,,,,,,"",""
+ball,2,14.6,Derbyshire,BD Guest,MJJ Critchley,SG Borthwick,1,0,,,,,,"",""
+ball,2,15.1,Derbyshire,BD Guest,MJJ Critchley,BA Raine,1,0,,,,,,"",""
+ball,2,15.2,Derbyshire,MJJ Critchley,BD Guest,BA Raine,2,0,,,,,,"",""
+ball,2,15.3,Derbyshire,MJJ Critchley,BD Guest,BA Raine,2,0,,,,,,"",""
+ball,2,15.4,Derbyshire,MJJ Critchley,BD Guest,BA Raine,1,0,,,,,,"",""
+ball,2,15.5,Derbyshire,BD Guest,MJJ Critchley,BA Raine,1,0,,,,,,"",""
+ball,2,15.6,Derbyshire,MJJ Critchley,BD Guest,BA Raine,1,0,,,,,,"",""
+ball,2,16.1,Derbyshire,MJJ Critchley,BD Guest,MJ Potts,1,0,,,,,,"",""
+ball,2,16.2,Derbyshire,BD Guest,MJJ Critchley,MJ Potts,4,0,,,,,,"",""
+ball,2,16.3,Derbyshire,BD Guest,MJJ Critchley,MJ Potts,0,1,,,1,,,"",""
+ball,2,16.4,Derbyshire,MJJ Critchley,BD Guest,MJ Potts,6,2,,2,,,,"",""
+ball,2,16.5,Derbyshire,MJJ Critchley,BD Guest,MJ Potts,1,0,,,,,,"",""
+ball,2,16.6,Derbyshire,BD Guest,MJJ Critchley,MJ Potts,1,0,,,,,,"",""
+ball,2,16.7,Derbyshire,MJJ Critchley,BD Guest,MJ Potts,1,0,,,,,,"",""
+ball,2,17.1,Derbyshire,MJJ Critchley,BD Guest,PA van Meekeren,1,0,,,,,,"",""
+ball,2,17.2,Derbyshire,BD Guest,MJJ Critchley,PA van Meekeren,0,0,,,,,,"",""
+ball,2,17.3,Derbyshire,BD Guest,MJJ Critchley,PA van Meekeren,2,0,,,,,,"",""
+ball,2,17.4,Derbyshire,BD Guest,MJJ Critchley,PA van Meekeren,2,0,,,,,,"",""
+ball,2,17.5,Derbyshire,BD Guest,MJJ Critchley,PA van Meekeren,1,0,,,,,,"",""
+ball,2,17.6,Derbyshire,MJJ Critchley,BD Guest,PA van Meekeren,2,0,,,,,,"",""
+ball,2,18.1,Derbyshire,BD Guest,MJJ Critchley,MJ Potts,1,0,,,,,,"",""
+ball,2,18.2,Derbyshire,MJJ Critchley,BD Guest,MJ Potts,2,0,,,,,,"",""
+ball,2,18.3,Derbyshire,MJJ Critchley,BD Guest,MJ Potts,1,0,,,,,,"",""
+ball,2,18.4,Derbyshire,BD Guest,MJJ Critchley,MJ Potts,6,0,,,,,,"",""
+ball,2,18.5,Derbyshire,BD Guest,MJJ Critchley,MJ Potts,2,0,,,,,,"",""
+ball,2,18.6,Derbyshire,BD Guest,MJJ Critchley,MJ Potts,2,0,,,,,,"",""
+ball,2,19.1,Derbyshire,MJJ Critchley,BD Guest,BA Raine,1,0,,,,,,"",""
+ball,2,19.2,Derbyshire,BD Guest,MJJ Critchley,BA Raine,1,0,,,,,,"",""
+ball,2,19.3,Derbyshire,MJJ Critchley,BD Guest,BA Raine,1,0,,,,,,"",""
+ball,2,19.4,Derbyshire,BD Guest,MJJ Critchley,BA Raine,2,0,,,,,,"",""
+ball,2,19.5,Derbyshire,BD Guest,MJJ Critchley,BA Raine,2,0,,,,,,"",""
+ball,2,19.6,Derbyshire,BD Guest,MJJ Critchley,BA Raine,4,0,,,,,,"",""

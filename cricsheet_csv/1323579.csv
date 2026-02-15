@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Adelaide Strikers
+info,gender,female
+info,season,2022/23
+info,date,2022/11/02
+info,event,Women's Big Bash League
+info,match_number,26
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Adelaide Strikers
+info,toss_decision,field
+info,player_of_match,T Flintoff
+info,umpire,Bede Sajowitz
+info,umpire,D Moran
+info,match_referee,Dave Gilbert
+info,winner,Melbourne Stars
+info,winner_runs,22
+info,player,Melbourne Stars,L Winfield-Hill
+info,player,Melbourne Stars,JI Rodrigues
+info,player,Melbourne Stars,A Capsey
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,T Flintoff
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,N Faltum
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,U Raymond-Hoey
+info,player,Melbourne Stars,S Reid
+info,player,Melbourne Stars,S Day
+info,player,Adelaide Strikers,DJS Dottin
+info,player,Adelaide Strikers,KM Mack
+info,player,Adelaide Strikers,L Wolvaardt
+info,player,Adelaide Strikers,TM McGrath
+info,player,Adelaide Strikers,BE Patterson
+info,player,Adelaide Strikers,M Penna
+info,player,Adelaide Strikers,A Wellington
+info,player,Adelaide Strikers,TJ McPharlin
+info,player,Adelaide Strikers,JL Barsby
+info,player,Adelaide Strikers,ML Schutt
+info,player,Adelaide Strikers,D Brown
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,BE Patterson,7dfbcfff
+info,registry,people,Bede Sajowitz,14fb95ae
+info,registry,people,D Brown,2e81be88
+info,registry,people,D Moran,fd171c58
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JL Barsby,47bcaf7a
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Penna,36453b99
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,N Faltum,9a56c670
+info,registry,people,S Day,c3d27d76
+info,registry,people,S Reid,1380c4c2
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,T Flintoff,5471b94a
+info,registry,people,TJ McPharlin,595e1ee7
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,U Raymond-Hoey,1a510809
+ball,1,0.1,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,0,0,,,,,,"",""
+ball,1,0.2,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,0,0,,,,,,"",""
+ball,1,0.3,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,0,0,,,,,,"",""
+ball,1,0.4,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,0,0,,,,,,"",""
+ball,1,0.5,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,1,0,,,,,,"",""
+ball,1,0.6,Melbourne Stars,JI Rodrigues,L Winfield-Hill,ML Schutt,1,0,,,,,,"",""
+ball,1,1.1,Melbourne Stars,JI Rodrigues,L Winfield-Hill,D Brown,0,0,,,,,,"",""
+ball,1,1.2,Melbourne Stars,JI Rodrigues,L Winfield-Hill,D Brown,1,0,,,,,,"",""
+ball,1,1.3,Melbourne Stars,L Winfield-Hill,JI Rodrigues,D Brown,0,0,,,,,,"",""
+ball,1,1.4,Melbourne Stars,L Winfield-Hill,JI Rodrigues,D Brown,0,0,,,,,,"",""
+ball,1,1.5,Melbourne Stars,L Winfield-Hill,JI Rodrigues,D Brown,0,0,,,,,,"",""
+ball,1,1.6,Melbourne Stars,L Winfield-Hill,JI Rodrigues,D Brown,0,1,,,,1,,"",""
+ball,1,2.1,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,4,0,,,,,,"",""
+ball,1,2.2,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,0,0,,,,,,"",""
+ball,1,2.3,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,0,0,,,,,,"",""
+ball,1,2.4,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,4,0,,,,,,"",""
+ball,1,2.5,Melbourne Stars,L Winfield-Hill,JI Rodrigues,ML Schutt,1,0,,,,,,"",""
+ball,1,2.6,Melbourne Stars,JI Rodrigues,L Winfield-Hill,ML Schutt,1,0,,,,,,"",""
+ball,1,3.1,Melbourne Stars,JI Rodrigues,L Winfield-Hill,D Brown,1,0,,,,,,"",""
+ball,1,3.2,Melbourne Stars,L Winfield-Hill,JI Rodrigues,D Brown,0,0,,,,,,"",""
+ball,1,3.3,Melbourne Stars,L Winfield-Hill,JI Rodrigues,D Brown,0,0,,,,,,"",""
+ball,1,3.4,Melbourne Stars,L Winfield-Hill,JI Rodrigues,D Brown,0,0,,,,,,"",""
+ball,1,3.5,Melbourne Stars,L Winfield-Hill,JI Rodrigues,D Brown,4,0,,,,,,"",""
+ball,1,3.6,Melbourne Stars,L Winfield-Hill,JI Rodrigues,D Brown,0,0,,,,,,"",""
+ball,1,4.1,Melbourne Stars,JI Rodrigues,L Winfield-Hill,DJS Dottin,0,1,1,,,,,"",""
+ball,1,4.2,Melbourne Stars,JI Rodrigues,L Winfield-Hill,DJS Dottin,4,0,,,,,,"",""
+ball,1,4.3,Melbourne Stars,JI Rodrigues,L Winfield-Hill,DJS Dottin,0,0,,,,,,caught,JI Rodrigues
+ball,1,4.4,Melbourne Stars,A Capsey,L Winfield-Hill,DJS Dottin,0,0,,,,,,"",""
+ball,1,4.5,Melbourne Stars,A Capsey,L Winfield-Hill,DJS Dottin,4,0,,,,,,"",""
+ball,1,4.6,Melbourne Stars,A Capsey,L Winfield-Hill,DJS Dottin,0,0,,,,,,"",""
+ball,1,4.7,Melbourne Stars,A Capsey,L Winfield-Hill,DJS Dottin,1,0,,,,,,"",""
+ball,1,5.1,Melbourne Stars,A Capsey,L Winfield-Hill,A Wellington,4,0,,,,,,"",""
+ball,1,5.2,Melbourne Stars,A Capsey,L Winfield-Hill,A Wellington,1,0,,,,,,"",""
+ball,1,5.3,Melbourne Stars,L Winfield-Hill,A Capsey,A Wellington,0,0,,,,,,"",""
+ball,1,5.4,Melbourne Stars,L Winfield-Hill,A Capsey,A Wellington,0,0,,,,,,"",""
+ball,1,5.5,Melbourne Stars,L Winfield-Hill,A Capsey,A Wellington,1,0,,,,,,"",""
+ball,1,5.6,Melbourne Stars,A Capsey,L Winfield-Hill,A Wellington,6,0,,,,,,"",""
+ball,1,6.1,Melbourne Stars,L Winfield-Hill,A Capsey,DJS Dottin,0,0,,,,,,"",""
+ball,1,6.2,Melbourne Stars,L Winfield-Hill,A Capsey,DJS Dottin,1,0,,,,,,"",""
+ball,1,6.3,Melbourne Stars,A Capsey,L Winfield-Hill,DJS Dottin,1,0,,,,,,"",""
+ball,1,6.4,Melbourne Stars,L Winfield-Hill,A Capsey,DJS Dottin,0,0,,,,,,"",""
+ball,1,6.5,Melbourne Stars,L Winfield-Hill,A Capsey,DJS Dottin,1,0,,,,,,"",""
+ball,1,6.6,Melbourne Stars,A Capsey,L Winfield-Hill,DJS Dottin,1,0,,,,,,"",""
+ball,1,7.1,Melbourne Stars,A Capsey,L Winfield-Hill,JL Barsby,4,0,,,,,,"",""
+ball,1,7.2,Melbourne Stars,A Capsey,L Winfield-Hill,JL Barsby,1,0,,,,,,"",""
+ball,1,7.3,Melbourne Stars,L Winfield-Hill,A Capsey,JL Barsby,1,0,,,,,,"",""
+ball,1,7.4,Melbourne Stars,A Capsey,L Winfield-Hill,JL Barsby,1,0,,,,,,"",""
+ball,1,7.5,Melbourne Stars,L Winfield-Hill,A Capsey,JL Barsby,0,0,,,,,,"",""
+ball,1,7.6,Melbourne Stars,L Winfield-Hill,A Capsey,JL Barsby,1,0,,,,,,"",""
+ball,1,8.1,Melbourne Stars,L Winfield-Hill,A Capsey,A Wellington,6,0,,,,,,"",""
+ball,1,8.2,Melbourne Stars,L Winfield-Hill,A Capsey,A Wellington,1,0,,,,,,"",""
+ball,1,8.3,Melbourne Stars,A Capsey,L Winfield-Hill,A Wellington,2,0,,,,,,"",""
+ball,1,8.4,Melbourne Stars,A Capsey,L Winfield-Hill,A Wellington,0,0,,,,,,"",""
+ball,1,8.5,Melbourne Stars,A Capsey,L Winfield-Hill,A Wellington,1,0,,,,,,"",""
+ball,1,8.6,Melbourne Stars,L Winfield-Hill,A Capsey,A Wellington,0,0,,,,,,"",""
+ball,1,9.1,Melbourne Stars,A Capsey,L Winfield-Hill,D Brown,0,0,,,,,,"",""
+ball,1,9.2,Melbourne Stars,A Capsey,L Winfield-Hill,D Brown,0,4,,,,4,,"",""
+ball,1,9.3,Melbourne Stars,A Capsey,L Winfield-Hill,D Brown,0,1,1,,,,,"",""
+ball,1,9.4,Melbourne Stars,A Capsey,L Winfield-Hill,D Brown,2,0,,,,,,"",""
+ball,1,9.5,Melbourne Stars,A Capsey,L Winfield-Hill,D Brown,4,0,,,,,,"",""
+ball,1,9.6,Melbourne Stars,A Capsey,L Winfield-Hill,D Brown,1,0,,,,,,"",""
+ball,1,9.7,Melbourne Stars,L Winfield-Hill,A Capsey,D Brown,0,1,1,,,,,"",""
+ball,1,9.8,Melbourne Stars,L Winfield-Hill,A Capsey,D Brown,1,0,,,,,,"",""
+ball,1,10.1,Melbourne Stars,L Winfield-Hill,A Capsey,DJS Dottin,1,0,,,,,,"",""
+ball,1,10.2,Melbourne Stars,A Capsey,L Winfield-Hill,DJS Dottin,6,0,,,,,,"",""
+ball,1,10.3,Melbourne Stars,A Capsey,L Winfield-Hill,DJS Dottin,1,0,,,,,,"",""
+ball,1,10.4,Melbourne Stars,L Winfield-Hill,A Capsey,DJS Dottin,2,0,,,,,,"",""
+ball,1,10.5,Melbourne Stars,L Winfield-Hill,A Capsey,DJS Dottin,0,0,,,,,,"",""
+ball,1,10.6,Melbourne Stars,L Winfield-Hill,A Capsey,DJS Dottin,1,0,,,,,,"",""
+ball,1,11.1,Melbourne Stars,L Winfield-Hill,A Capsey,M Penna,1,0,,,,,,"",""
+ball,1,11.2,Melbourne Stars,A Capsey,L Winfield-Hill,M Penna,4,0,,,,,,"",""
+ball,1,11.3,Melbourne Stars,A Capsey,L Winfield-Hill,M Penna,1,0,,,,,,"",""
+ball,1,11.4,Melbourne Stars,L Winfield-Hill,A Capsey,M Penna,1,0,,,,,,"",""
+ball,1,11.5,Melbourne Stars,A Capsey,L Winfield-Hill,M Penna,0,0,,,,,,"",""
+ball,1,11.6,Melbourne Stars,A Capsey,L Winfield-Hill,M Penna,1,0,,,,,,"",""
+ball,1,12.1,Melbourne Stars,A Capsey,L Winfield-Hill,A Wellington,1,0,,,,,,"",""
+ball,1,12.2,Melbourne Stars,L Winfield-Hill,A Capsey,A Wellington,1,0,,,,,,"",""
+ball,1,12.3,Melbourne Stars,A Capsey,L Winfield-Hill,A Wellington,0,0,,,,,,"",""
+ball,1,12.4,Melbourne Stars,A Capsey,L Winfield-Hill,A Wellington,1,0,,,,,,"",""
+ball,1,12.5,Melbourne Stars,L Winfield-Hill,A Capsey,A Wellington,4,0,,,,,,"",""
+ball,1,12.6,Melbourne Stars,L Winfield-Hill,A Capsey,A Wellington,2,0,,,,,,"",""
+ball,1,13.1,Melbourne Stars,A Capsey,L Winfield-Hill,JL Barsby,0,0,,,,,,"",""
+ball,1,13.2,Melbourne Stars,A Capsey,L Winfield-Hill,JL Barsby,0,0,,,,,,bowled,A Capsey
+ball,1,13.3,Melbourne Stars,A Sutherland,L Winfield-Hill,JL Barsby,2,0,,,,,,"",""
+ball,1,13.4,Melbourne Stars,A Sutherland,L Winfield-Hill,JL Barsby,0,0,,,,,,"",""
+ball,1,13.5,Melbourne Stars,A Sutherland,L Winfield-Hill,JL Barsby,0,0,,,,,,"",""
+ball,1,13.6,Melbourne Stars,A Sutherland,L Winfield-Hill,JL Barsby,2,0,,,,,,"",""
+ball,1,14.1,Melbourne Stars,L Winfield-Hill,A Sutherland,M Penna,0,0,,,,,,"",""
+ball,1,14.2,Melbourne Stars,L Winfield-Hill,A Sutherland,M Penna,1,0,,,,,,"",""
+ball,1,14.3,Melbourne Stars,A Sutherland,L Winfield-Hill,M Penna,1,0,,,,,,"",""
+ball,1,14.4,Melbourne Stars,L Winfield-Hill,A Sutherland,M Penna,1,0,,,,,,"",""
+ball,1,14.5,Melbourne Stars,A Sutherland,L Winfield-Hill,M Penna,0,0,,,,,,"",""
+ball,1,14.6,Melbourne Stars,A Sutherland,L Winfield-Hill,M Penna,1,0,,,,,,"",""
+ball,1,15.1,Melbourne Stars,A Sutherland,L Winfield-Hill,ML Schutt,2,0,,,,,,"",""
+ball,1,15.2,Melbourne Stars,A Sutherland,L Winfield-Hill,ML Schutt,0,0,,,,,,caught and bowled,A Sutherland
+ball,1,15.3,Melbourne Stars,T Flintoff,L Winfield-Hill,ML Schutt,4,0,,,,,,"",""
+ball,1,15.4,Melbourne Stars,T Flintoff,L Winfield-Hill,ML Schutt,4,0,,,,,,"",""
+ball,1,15.5,Melbourne Stars,T Flintoff,L Winfield-Hill,ML Schutt,1,0,,,,,,"",""
+ball,1,15.6,Melbourne Stars,L Winfield-Hill,T Flintoff,ML Schutt,1,0,,,,,,"",""
+ball,1,16.1,Melbourne Stars,L Winfield-Hill,T Flintoff,DJS Dottin,4,0,,,,,,"",""
+ball,1,16.2,Melbourne Stars,L Winfield-Hill,T Flintoff,DJS Dottin,0,0,,,,,,"",""
+ball,1,16.3,Melbourne Stars,L Winfield-Hill,T Flintoff,DJS Dottin,0,0,,,,,,caught and bowled,L Winfield-Hill
+ball,1,16.4,Melbourne Stars,KJ Garth,T Flintoff,DJS Dottin,0,0,,,,,,"",""
+ball,1,16.5,Melbourne Stars,KJ Garth,T Flintoff,DJS Dottin,4,0,,,,,,"",""
+ball,1,16.6,Melbourne Stars,KJ Garth,T Flintoff,DJS Dottin,1,0,,,,,,"",""
+ball,1,17.1,Melbourne Stars,KJ Garth,T Flintoff,JL Barsby,1,0,,,,,,"",""
+ball,1,17.2,Melbourne Stars,T Flintoff,KJ Garth,JL Barsby,4,0,,,,,,"",""
+ball,1,17.3,Melbourne Stars,T Flintoff,KJ Garth,JL Barsby,1,0,,,,,,"",""
+ball,1,17.4,Melbourne Stars,KJ Garth,T Flintoff,JL Barsby,2,0,,,,,,"",""
+ball,1,17.5,Melbourne Stars,KJ Garth,T Flintoff,JL Barsby,0,1,1,,,,,"",""
+ball,1,17.6,Melbourne Stars,KJ Garth,T Flintoff,JL Barsby,1,0,,,,,,"",""
+ball,1,17.7,Melbourne Stars,T Flintoff,KJ Garth,JL Barsby,1,0,,,,,,"",""
+ball,1,18.1,Melbourne Stars,T Flintoff,KJ Garth,D Brown,6,0,,,,,,"",""
+ball,1,18.2,Melbourne Stars,T Flintoff,KJ Garth,D Brown,2,0,,,,,,"",""
+ball,1,18.3,Melbourne Stars,T Flintoff,KJ Garth,D Brown,6,0,,,,,,"",""
+ball,1,18.4,Melbourne Stars,T Flintoff,KJ Garth,D Brown,1,0,,,,,,"",""
+ball,1,18.5,Melbourne Stars,KJ Garth,T Flintoff,D Brown,0,1,1,,,,,"",""
+ball,1,18.6,Melbourne Stars,KJ Garth,T Flintoff,D Brown,0,1,1,,,,,"",""
+ball,1,18.7,Melbourne Stars,KJ Garth,T Flintoff,D Brown,1,0,,,,,,"",""
+ball,1,18.8,Melbourne Stars,T Flintoff,KJ Garth,D Brown,4,0,,,,,,"",""
+ball,1,19.1,Melbourne Stars,KJ Garth,T Flintoff,ML Schutt,1,0,,,,,,"",""
+ball,1,19.2,Melbourne Stars,T Flintoff,KJ Garth,ML Schutt,4,0,,,,,,"",""
+ball,1,19.3,Melbourne Stars,T Flintoff,KJ Garth,ML Schutt,0,1,1,,,,,"",""
+ball,1,19.4,Melbourne Stars,T Flintoff,KJ Garth,ML Schutt,1,0,,,,,,run out,KJ Garth
+ball,1,19.5,Melbourne Stars,T Flintoff,N Faltum,ML Schutt,4,0,,,,,,"",""
+ball,1,19.6,Melbourne Stars,T Flintoff,N Faltum,ML Schutt,2,0,,,,,,"",""
+ball,1,19.7,Melbourne Stars,T Flintoff,N Faltum,ML Schutt,6,0,,,,,,"",""
+ball,2,0.1,Adelaide Strikers,DJS Dottin,KM Mack,KJ Garth,0,0,,,,,,"",""
+ball,2,0.2,Adelaide Strikers,DJS Dottin,KM Mack,KJ Garth,1,0,,,,,,"",""
+ball,2,0.3,Adelaide Strikers,KM Mack,DJS Dottin,KJ Garth,1,0,,,,,,"",""
+ball,2,0.4,Adelaide Strikers,DJS Dottin,KM Mack,KJ Garth,1,0,,,,,,"",""
+ball,2,0.5,Adelaide Strikers,KM Mack,DJS Dottin,KJ Garth,0,0,,,,,,"",""
+ball,2,0.6,Adelaide Strikers,KM Mack,DJS Dottin,KJ Garth,0,0,,,,,,"",""
+ball,2,1.1,Adelaide Strikers,DJS Dottin,KM Mack,SK Moloney,0,0,,,,,,"",""
+ball,2,1.2,Adelaide Strikers,DJS Dottin,KM Mack,SK Moloney,0,0,,,,,,"",""
+ball,2,1.3,Adelaide Strikers,DJS Dottin,KM Mack,SK Moloney,1,0,,,,,,"",""
+ball,2,1.4,Adelaide Strikers,KM Mack,DJS Dottin,SK Moloney,1,0,,,,,,"",""
+ball,2,1.5,Adelaide Strikers,DJS Dottin,KM Mack,SK Moloney,0,0,,,,,,caught,DJS Dottin
+ball,2,1.6,Adelaide Strikers,L Wolvaardt,KM Mack,SK Moloney,0,0,,,,,,"",""
+ball,2,2.1,Adelaide Strikers,KM Mack,L Wolvaardt,KJ Garth,0,0,,,,,,"",""
+ball,2,2.2,Adelaide Strikers,KM Mack,L Wolvaardt,KJ Garth,1,0,,,,,,"",""
+ball,2,2.3,Adelaide Strikers,L Wolvaardt,KM Mack,KJ Garth,0,0,,,,,,"",""
+ball,2,2.4,Adelaide Strikers,L Wolvaardt,KM Mack,KJ Garth,1,0,,,,,,"",""
+ball,2,2.5,Adelaide Strikers,KM Mack,L Wolvaardt,KJ Garth,4,0,,,,,,"",""
+ball,2,2.6,Adelaide Strikers,KM Mack,L Wolvaardt,KJ Garth,0,0,,,,,,"",""
+ball,2,3.1,Adelaide Strikers,L Wolvaardt,KM Mack,SK Moloney,1,0,,,,,,"",""
+ball,2,3.2,Adelaide Strikers,KM Mack,L Wolvaardt,SK Moloney,0,0,,,,,,"",""
+ball,2,3.3,Adelaide Strikers,KM Mack,L Wolvaardt,SK Moloney,1,0,,,,,,"",""
+ball,2,3.4,Adelaide Strikers,L Wolvaardt,KM Mack,SK Moloney,0,0,,,,,,"",""
+ball,2,3.5,Adelaide Strikers,L Wolvaardt,KM Mack,SK Moloney,0,0,,,,,,"",""
+ball,2,3.6,Adelaide Strikers,L Wolvaardt,KM Mack,SK Moloney,0,0,,,,,,"",""
+ball,2,4.1,Adelaide Strikers,KM Mack,L Wolvaardt,A Sutherland,1,0,,,,,,"",""
+ball,2,4.2,Adelaide Strikers,L Wolvaardt,KM Mack,A Sutherland,0,0,,,,,,"",""
+ball,2,4.3,Adelaide Strikers,L Wolvaardt,KM Mack,A Sutherland,4,0,,,,,,"",""
+ball,2,4.4,Adelaide Strikers,L Wolvaardt,KM Mack,A Sutherland,0,0,,,,,,"",""
+ball,2,4.5,Adelaide Strikers,L Wolvaardt,KM Mack,A Sutherland,1,0,,,,,,"",""
+ball,2,4.6,Adelaide Strikers,KM Mack,L Wolvaardt,A Sutherland,0,0,,,,,,"",""
+ball,2,5.1,Adelaide Strikers,L Wolvaardt,KM Mack,A Capsey,4,0,,,,,,"",""
+ball,2,5.2,Adelaide Strikers,L Wolvaardt,KM Mack,A Capsey,4,0,,,,,,"",""
+ball,2,5.3,Adelaide Strikers,L Wolvaardt,KM Mack,A Capsey,4,0,,,,,,"",""
+ball,2,5.4,Adelaide Strikers,L Wolvaardt,KM Mack,A Capsey,1,0,,,,,,"",""
+ball,2,5.5,Adelaide Strikers,KM Mack,L Wolvaardt,A Capsey,1,0,,,,,,"",""
+ball,2,5.6,Adelaide Strikers,L Wolvaardt,KM Mack,A Capsey,1,0,,,,,,"",""
+ball,2,6.1,Adelaide Strikers,L Wolvaardt,KM Mack,T Flintoff,1,0,,,,,,"",""
+ball,2,6.2,Adelaide Strikers,KM Mack,L Wolvaardt,T Flintoff,1,0,,,,,,"",""
+ball,2,6.3,Adelaide Strikers,L Wolvaardt,KM Mack,T Flintoff,0,0,,,,,,"",""
+ball,2,6.4,Adelaide Strikers,L Wolvaardt,KM Mack,T Flintoff,0,1,,,,1,,"",""
+ball,2,6.5,Adelaide Strikers,KM Mack,L Wolvaardt,T Flintoff,1,0,,,,,,"",""
+ball,2,6.6,Adelaide Strikers,L Wolvaardt,KM Mack,T Flintoff,2,0,,,,,,"",""
+ball,2,7.1,Adelaide Strikers,KM Mack,L Wolvaardt,S Day,4,0,,,,,,"",""
+ball,2,7.2,Adelaide Strikers,KM Mack,L Wolvaardt,S Day,4,0,,,,,,"",""
+ball,2,7.3,Adelaide Strikers,KM Mack,L Wolvaardt,S Day,1,0,,,,,,"",""
+ball,2,7.4,Adelaide Strikers,L Wolvaardt,KM Mack,S Day,1,0,,,,,,"",""
+ball,2,7.5,Adelaide Strikers,KM Mack,L Wolvaardt,S Day,1,0,,,,,,"",""
+ball,2,7.6,Adelaide Strikers,L Wolvaardt,KM Mack,S Day,4,0,,,,,,"",""
+ball,2,8.1,Adelaide Strikers,KM Mack,L Wolvaardt,T Flintoff,4,0,,,,,,"",""
+ball,2,8.2,Adelaide Strikers,KM Mack,L Wolvaardt,T Flintoff,4,0,,,,,,"",""
+ball,2,8.3,Adelaide Strikers,KM Mack,L Wolvaardt,T Flintoff,0,1,1,,,,,"",""
+ball,2,8.4,Adelaide Strikers,KM Mack,L Wolvaardt,T Flintoff,1,0,,,,,,"",""
+ball,2,8.5,Adelaide Strikers,L Wolvaardt,KM Mack,T Flintoff,1,0,,,,,,"",""
+ball,2,8.6,Adelaide Strikers,KM Mack,L Wolvaardt,T Flintoff,1,0,,,,,,"",""
+ball,2,8.7,Adelaide Strikers,L Wolvaardt,KM Mack,T Flintoff,0,0,,,,,,caught,L Wolvaardt
+ball,2,9.1,Adelaide Strikers,KM Mack,TM McGrath,S Day,1,0,,,,,,"",""
+ball,2,9.2,Adelaide Strikers,TM McGrath,KM Mack,S Day,1,0,,,,,,"",""
+ball,2,9.3,Adelaide Strikers,KM Mack,TM McGrath,S Day,4,0,,,,,,"",""
+ball,2,9.4,Adelaide Strikers,KM Mack,TM McGrath,S Day,1,0,,,,,,"",""
+ball,2,9.5,Adelaide Strikers,TM McGrath,KM Mack,S Day,0,1,1,,,,,"",""
+ball,2,9.6,Adelaide Strikers,TM McGrath,KM Mack,S Day,0,0,,,,,,bowled,TM McGrath
+ball,2,9.7,Adelaide Strikers,BE Patterson,KM Mack,S Day,1,0,,,,,,"",""
+ball,2,10.1,Adelaide Strikers,BE Patterson,KM Mack,A Sutherland,1,0,,,,,,"",""
+ball,2,10.2,Adelaide Strikers,KM Mack,BE Patterson,A Sutherland,2,0,,,,,,"",""
+ball,2,10.3,Adelaide Strikers,KM Mack,BE Patterson,A Sutherland,2,0,,,,,,"",""
+ball,2,10.4,Adelaide Strikers,KM Mack,BE Patterson,A Sutherland,0,0,,,,,,"",""
+ball,2,10.5,Adelaide Strikers,KM Mack,BE Patterson,A Sutherland,0,0,,,,,,"",""
+ball,2,10.6,Adelaide Strikers,KM Mack,BE Patterson,A Sutherland,1,0,,,,,,"",""
+ball,2,11.1,Adelaide Strikers,KM Mack,BE Patterson,A Capsey,1,0,,,,,,"",""
+ball,2,11.2,Adelaide Strikers,BE Patterson,KM Mack,A Capsey,1,0,,,,,,"",""
+ball,2,11.3,Adelaide Strikers,KM Mack,BE Patterson,A Capsey,0,0,,,,,,"",""
+ball,2,11.4,Adelaide Strikers,KM Mack,BE Patterson,A Capsey,1,0,,,,,,"",""
+ball,2,11.5,Adelaide Strikers,BE Patterson,KM Mack,A Capsey,0,0,,,,,,"",""
+ball,2,11.6,Adelaide Strikers,BE Patterson,KM Mack,A Capsey,2,0,,,,,,"",""
+ball,2,12.1,Adelaide Strikers,KM Mack,BE Patterson,KJ Garth,0,1,,,,1,,"",""
+ball,2,12.2,Adelaide Strikers,BE Patterson,KM Mack,KJ Garth,0,0,,,,,,"",""
+ball,2,12.3,Adelaide Strikers,BE Patterson,KM Mack,KJ Garth,1,0,,,,,,"",""
+ball,2,12.4,Adelaide Strikers,KM Mack,BE Patterson,KJ Garth,1,0,,,,,,"",""
+ball,2,12.5,Adelaide Strikers,BE Patterson,KM Mack,KJ Garth,0,1,1,,,,,"",""
+ball,2,12.6,Adelaide Strikers,BE Patterson,KM Mack,KJ Garth,1,0,,,,,,"",""
+ball,2,12.7,Adelaide Strikers,KM Mack,BE Patterson,KJ Garth,1,0,,,,,,"",""
+ball,2,13.1,Adelaide Strikers,KM Mack,BE Patterson,SK Moloney,0,0,,,,,,caught,KM Mack
+ball,2,13.2,Adelaide Strikers,M Penna,BE Patterson,SK Moloney,6,0,,,,,,"",""
+ball,2,13.3,Adelaide Strikers,M Penna,BE Patterson,SK Moloney,0,0,,,,,,"",""
+ball,2,13.4,Adelaide Strikers,M Penna,BE Patterson,SK Moloney,0,1,,,,1,,"",""
+ball,2,13.5,Adelaide Strikers,BE Patterson,M Penna,SK Moloney,1,0,,,,,,"",""
+ball,2,13.6,Adelaide Strikers,M Penna,BE Patterson,SK Moloney,1,0,,,,,,"",""
+ball,2,14.1,Adelaide Strikers,M Penna,BE Patterson,A Sutherland,1,0,,,,,,"",""
+ball,2,14.2,Adelaide Strikers,BE Patterson,M Penna,A Sutherland,6,0,,,,,,"",""
+ball,2,14.3,Adelaide Strikers,BE Patterson,M Penna,A Sutherland,4,0,,,,,,"",""
+ball,2,14.4,Adelaide Strikers,BE Patterson,M Penna,A Sutherland,6,0,,,,,,"",""
+ball,2,14.5,Adelaide Strikers,BE Patterson,M Penna,A Sutherland,1,0,,,,,,"",""
+ball,2,14.6,Adelaide Strikers,M Penna,BE Patterson,A Sutherland,1,0,,,,,,"",""
+ball,2,15.1,Adelaide Strikers,M Penna,BE Patterson,A Capsey,1,0,,,,,,"",""
+ball,2,15.2,Adelaide Strikers,BE Patterson,M Penna,A Capsey,2,0,,,,,,"",""
+ball,2,15.3,Adelaide Strikers,BE Patterson,M Penna,A Capsey,1,0,,,,,,"",""
+ball,2,15.4,Adelaide Strikers,M Penna,BE Patterson,A Capsey,1,0,,,,,,"",""
+ball,2,15.5,Adelaide Strikers,BE Patterson,M Penna,A Capsey,4,0,,,,,,"",""
+ball,2,15.6,Adelaide Strikers,BE Patterson,M Penna,A Capsey,1,0,,,,,,"",""
+ball,2,16.1,Adelaide Strikers,BE Patterson,M Penna,KJ Garth,4,0,,,,,,"",""
+ball,2,16.2,Adelaide Strikers,BE Patterson,M Penna,KJ Garth,0,1,1,,,,,"",""
+ball,2,16.3,Adelaide Strikers,BE Patterson,M Penna,KJ Garth,0,0,,,,,,"",""
+ball,2,16.4,Adelaide Strikers,BE Patterson,M Penna,KJ Garth,1,0,,,,,,"",""
+ball,2,16.5,Adelaide Strikers,M Penna,BE Patterson,KJ Garth,0,0,,,,,,"",""
+ball,2,16.6,Adelaide Strikers,M Penna,BE Patterson,KJ Garth,1,0,,,,,,"",""
+ball,2,16.7,Adelaide Strikers,BE Patterson,M Penna,KJ Garth,1,0,,,,,,"",""
+ball,2,17.1,Adelaide Strikers,BE Patterson,M Penna,A Capsey,2,0,,,,,,"",""
+ball,2,17.2,Adelaide Strikers,BE Patterson,M Penna,A Capsey,0,0,,,,,,caught,BE Patterson
+ball,2,17.3,Adelaide Strikers,A Wellington,M Penna,A Capsey,2,0,,,,,,"",""
+ball,2,17.4,Adelaide Strikers,A Wellington,M Penna,A Capsey,1,0,,,,,,"",""
+ball,2,17.5,Adelaide Strikers,M Penna,A Wellington,A Capsey,1,0,,,,,,"",""
+ball,2,17.6,Adelaide Strikers,A Wellington,M Penna,A Capsey,2,0,,,,,,"",""
+ball,2,18.1,Adelaide Strikers,M Penna,A Wellington,A Sutherland,1,0,,,,,,"",""
+ball,2,18.2,Adelaide Strikers,A Wellington,M Penna,A Sutherland,1,0,,,,,,"",""
+ball,2,18.3,Adelaide Strikers,M Penna,A Wellington,A Sutherland,1,0,,,,,,"",""
+ball,2,18.4,Adelaide Strikers,A Wellington,M Penna,A Sutherland,2,0,,,,,,"",""
+ball,2,18.5,Adelaide Strikers,A Wellington,M Penna,A Sutherland,0,0,,,,,,bowled,A Wellington
+ball,2,18.6,Adelaide Strikers,TJ McPharlin,M Penna,A Sutherland,0,0,,,,,,"",""
+ball,2,19.1,Adelaide Strikers,M Penna,TJ McPharlin,SK Moloney,6,0,,,,,,"",""
+ball,2,19.2,Adelaide Strikers,M Penna,TJ McPharlin,SK Moloney,1,0,,,,,,"",""
+ball,2,19.3,Adelaide Strikers,TJ McPharlin,M Penna,SK Moloney,4,0,,,,,,"",""
+ball,2,19.4,Adelaide Strikers,TJ McPharlin,M Penna,SK Moloney,1,0,,,,,,"",""
+ball,2,19.5,Adelaide Strikers,M Penna,TJ McPharlin,SK Moloney,0,0,,,,,,caught,M Penna
+ball,2,19.6,Adelaide Strikers,JL Barsby,TJ McPharlin,SK Moloney,0,0,,,,,,caught,JL Barsby

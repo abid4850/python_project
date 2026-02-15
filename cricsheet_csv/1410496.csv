@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Surrey
+info,gender,male
+info,season,2024
+info,date,2024/09/03
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Surrey
+info,toss_decision,field
+info,player_of_match,DP Sibley
+info,umpire,James Middlebrook
+info,umpire,MJ Saggers
+info,tv_umpire,PK Baldwin
+info,match_referee,AM Smith
+info,winner,Surrey
+info,winner_wickets,5
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,OG Robinson
+info,player,Durham,CN Ackermann
+info,player,Durham,BA Carse
+info,player,Durham,AJ Turner
+info,player,Durham,BFW de Leede
+info,player,Durham,MA Jones
+info,player,Durham,BA Raine
+info,player,Durham,NA Sowter
+info,player,Durham,CF Parkinson
+info,player,Surrey,WG Jacks
+info,player,Surrey,DP Sibley
+info,player,Surrey,LJ Evans
+info,player,Surrey,RJ Burns
+info,player,Surrey,SM Curran
+info,player,Surrey,TK Curran
+info,player,Surrey,J Overton
+info,player,Surrey,CJ Jordan
+info,player,Surrey,J Clark
+info,player,Surrey,RJW Topley
+info,player,Surrey,DJ Worrall
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Overton,59559bc2
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MA Jones,05f96194
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TK Curran,e86754b2
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Durham,G Clark,AZ Lees,DJ Worrall,0,0,,,,,,"",""
+ball,1,0.2,Durham,G Clark,AZ Lees,DJ Worrall,0,0,,,,,,"",""
+ball,1,0.3,Durham,G Clark,AZ Lees,DJ Worrall,0,0,,,,,,"",""
+ball,1,0.4,Durham,G Clark,AZ Lees,DJ Worrall,0,1,1,,,,,"",""
+ball,1,0.5,Durham,G Clark,AZ Lees,DJ Worrall,0,0,,,,,,caught,G Clark
+ball,1,0.6,Durham,OG Robinson,AZ Lees,DJ Worrall,0,0,,,,,,"",""
+ball,1,0.7,Durham,OG Robinson,AZ Lees,DJ Worrall,0,0,,,,,,"",""
+ball,1,1.1,Durham,AZ Lees,OG Robinson,RJW Topley,0,0,,,,,,"",""
+ball,1,1.2,Durham,AZ Lees,OG Robinson,RJW Topley,4,0,,,,,,"",""
+ball,1,1.3,Durham,AZ Lees,OG Robinson,RJW Topley,1,0,,,,,,"",""
+ball,1,1.4,Durham,OG Robinson,AZ Lees,RJW Topley,0,0,,,,,,"",""
+ball,1,1.5,Durham,OG Robinson,AZ Lees,RJW Topley,0,0,,,,,,"",""
+ball,1,1.6,Durham,OG Robinson,AZ Lees,RJW Topley,0,0,,,,,,"",""
+ball,1,2.1,Durham,AZ Lees,OG Robinson,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.2,Durham,AZ Lees,OG Robinson,DJ Worrall,0,4,,,,4,,"",""
+ball,1,2.3,Durham,AZ Lees,OG Robinson,DJ Worrall,1,0,,,,,,"",""
+ball,1,2.4,Durham,OG Robinson,AZ Lees,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.5,Durham,OG Robinson,AZ Lees,DJ Worrall,1,0,,,,,,"",""
+ball,1,2.6,Durham,AZ Lees,OG Robinson,DJ Worrall,0,0,,,,,,"",""
+ball,1,3.1,Durham,OG Robinson,AZ Lees,RJW Topley,0,0,,,,,,"",""
+ball,1,3.2,Durham,OG Robinson,AZ Lees,RJW Topley,0,0,,,,,,"",""
+ball,1,3.3,Durham,OG Robinson,AZ Lees,RJW Topley,0,0,,,,,,"",""
+ball,1,3.4,Durham,OG Robinson,AZ Lees,RJW Topley,0,0,,,,,,bowled,OG Robinson
+ball,1,3.5,Durham,CN Ackermann,AZ Lees,RJW Topley,0,0,,,,,,"",""
+ball,1,3.6,Durham,CN Ackermann,AZ Lees,RJW Topley,2,0,,,,,,"",""
+ball,1,4.1,Durham,AZ Lees,CN Ackermann,DJ Worrall,4,0,,,,,,"",""
+ball,1,4.2,Durham,AZ Lees,CN Ackermann,DJ Worrall,0,1,1,,,,,"",""
+ball,1,4.3,Durham,AZ Lees,CN Ackermann,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.4,Durham,AZ Lees,CN Ackermann,DJ Worrall,2,0,,,,,,"",""
+ball,1,4.5,Durham,AZ Lees,CN Ackermann,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.6,Durham,AZ Lees,CN Ackermann,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.7,Durham,AZ Lees,CN Ackermann,DJ Worrall,0,0,,,,,,bowled,AZ Lees
+ball,1,5.1,Durham,CN Ackermann,BA Carse,RJW Topley,0,0,,,,,,"",""
+ball,1,5.2,Durham,CN Ackermann,BA Carse,RJW Topley,4,0,,,,,,"",""
+ball,1,5.3,Durham,CN Ackermann,BA Carse,RJW Topley,0,0,,,,,,"",""
+ball,1,5.4,Durham,CN Ackermann,BA Carse,RJW Topley,0,1,,,,1,,"",""
+ball,1,5.5,Durham,BA Carse,CN Ackermann,RJW Topley,6,0,,,,,,"",""
+ball,1,5.6,Durham,BA Carse,CN Ackermann,RJW Topley,0,0,,,,,,"",""
+ball,1,6.1,Durham,CN Ackermann,BA Carse,DJ Worrall,0,0,,,,,,"",""
+ball,1,6.2,Durham,CN Ackermann,BA Carse,DJ Worrall,1,0,,,,,,"",""
+ball,1,6.3,Durham,BA Carse,CN Ackermann,DJ Worrall,1,0,,,,,,"",""
+ball,1,6.4,Durham,CN Ackermann,BA Carse,DJ Worrall,0,0,,,,,,"",""
+ball,1,6.5,Durham,CN Ackermann,BA Carse,DJ Worrall,1,0,,,,,,"",""
+ball,1,6.6,Durham,BA Carse,CN Ackermann,DJ Worrall,1,0,,,,,,"",""
+ball,1,7.1,Durham,BA Carse,CN Ackermann,TK Curran,0,0,,,,,,"",""
+ball,1,7.2,Durham,BA Carse,CN Ackermann,TK Curran,0,0,,,,,,caught,BA Carse
+ball,1,7.3,Durham,AJ Turner,CN Ackermann,TK Curran,1,0,,,,,,"",""
+ball,1,7.4,Durham,CN Ackermann,AJ Turner,TK Curran,1,0,,,,,,"",""
+ball,1,7.5,Durham,AJ Turner,CN Ackermann,TK Curran,0,0,,,,,,"",""
+ball,1,7.6,Durham,AJ Turner,CN Ackermann,TK Curran,1,0,,,,,,"",""
+ball,1,8.1,Durham,AJ Turner,CN Ackermann,SM Curran,1,0,,,,,,"",""
+ball,1,8.2,Durham,CN Ackermann,AJ Turner,SM Curran,1,0,,,,,,"",""
+ball,1,8.3,Durham,AJ Turner,CN Ackermann,SM Curran,0,0,,,,,,"",""
+ball,1,8.4,Durham,AJ Turner,CN Ackermann,SM Curran,0,0,,,,,,"",""
+ball,1,8.5,Durham,AJ Turner,CN Ackermann,SM Curran,1,0,,,,,,"",""
+ball,1,8.6,Durham,CN Ackermann,AJ Turner,SM Curran,0,0,,,,,,"",""
+ball,1,9.1,Durham,AJ Turner,CN Ackermann,TK Curran,2,0,,,,,,"",""
+ball,1,9.2,Durham,AJ Turner,CN Ackermann,TK Curran,4,0,,,,,,"",""
+ball,1,9.3,Durham,AJ Turner,CN Ackermann,TK Curran,1,0,,,,,,"",""
+ball,1,9.4,Durham,CN Ackermann,AJ Turner,TK Curran,1,0,,,,,,"",""
+ball,1,9.5,Durham,AJ Turner,CN Ackermann,TK Curran,1,0,,,,,,"",""
+ball,1,9.6,Durham,CN Ackermann,AJ Turner,TK Curran,1,0,,,,,,"",""
+ball,1,10.1,Durham,CN Ackermann,AJ Turner,CJ Jordan,0,0,,,,,,"",""
+ball,1,10.2,Durham,CN Ackermann,AJ Turner,CJ Jordan,1,0,,,,,,"",""
+ball,1,10.3,Durham,AJ Turner,CN Ackermann,CJ Jordan,6,0,,,,,,"",""
+ball,1,10.4,Durham,AJ Turner,CN Ackermann,CJ Jordan,0,0,,,,,,"",""
+ball,1,10.5,Durham,AJ Turner,CN Ackermann,CJ Jordan,2,0,,,,,,"",""
+ball,1,10.6,Durham,AJ Turner,CN Ackermann,CJ Jordan,0,0,,,,,,run out,CN Ackermann
+ball,1,11.1,Durham,BFW de Leede,AJ Turner,SM Curran,1,0,,,,,,"",""
+ball,1,11.2,Durham,AJ Turner,BFW de Leede,SM Curran,0,0,,,,,,"",""
+ball,1,11.3,Durham,AJ Turner,BFW de Leede,SM Curran,2,0,,,,,,"",""
+ball,1,11.4,Durham,AJ Turner,BFW de Leede,SM Curran,1,0,,,,,,"",""
+ball,1,11.5,Durham,BFW de Leede,AJ Turner,SM Curran,1,0,,,,,,"",""
+ball,1,11.6,Durham,AJ Turner,BFW de Leede,SM Curran,1,0,,,,,,"",""
+ball,1,12.1,Durham,AJ Turner,BFW de Leede,RJW Topley,2,0,,,,,,"",""
+ball,1,12.2,Durham,AJ Turner,BFW de Leede,RJW Topley,0,0,,,,,,caught,AJ Turner
+ball,1,12.3,Durham,MA Jones,BFW de Leede,RJW Topley,0,0,,,,,,"",""
+ball,1,12.4,Durham,MA Jones,BFW de Leede,RJW Topley,0,0,,,,,,"",""
+ball,1,12.5,Durham,MA Jones,BFW de Leede,RJW Topley,0,0,,,,,,"",""
+ball,1,12.6,Durham,MA Jones,BFW de Leede,RJW Topley,1,0,,,,,,"",""
+ball,1,13.1,Durham,MA Jones,BFW de Leede,CJ Jordan,0,0,,,,,,"",""
+ball,1,13.2,Durham,MA Jones,BFW de Leede,CJ Jordan,4,0,,,,,,"",""
+ball,1,13.3,Durham,MA Jones,BFW de Leede,CJ Jordan,4,0,,,,,,"",""
+ball,1,13.4,Durham,MA Jones,BFW de Leede,CJ Jordan,1,0,,,,,,"",""
+ball,1,13.5,Durham,BFW de Leede,MA Jones,CJ Jordan,2,0,,,,,,"",""
+ball,1,13.6,Durham,BFW de Leede,MA Jones,CJ Jordan,1,0,,,,,,"",""
+ball,1,14.1,Durham,BFW de Leede,MA Jones,TK Curran,1,0,,,,,,"",""
+ball,1,14.2,Durham,MA Jones,BFW de Leede,TK Curran,0,0,,,,,,"",""
+ball,1,14.3,Durham,MA Jones,BFW de Leede,TK Curran,0,0,,,,,,"",""
+ball,1,14.4,Durham,MA Jones,BFW de Leede,TK Curran,6,0,,,,,,"",""
+ball,1,14.5,Durham,MA Jones,BFW de Leede,TK Curran,1,0,,,,,,"",""
+ball,1,14.6,Durham,BFW de Leede,MA Jones,TK Curran,6,0,,,,,,"",""
+ball,1,15.1,Durham,MA Jones,BFW de Leede,SM Curran,0,1,1,,,,,"",""
+ball,1,15.2,Durham,MA Jones,BFW de Leede,SM Curran,1,0,,,,,,"",""
+ball,1,15.3,Durham,BFW de Leede,MA Jones,SM Curran,1,0,,,,,,"",""
+ball,1,15.4,Durham,MA Jones,BFW de Leede,SM Curran,1,0,,,,,,"",""
+ball,1,15.5,Durham,BFW de Leede,MA Jones,SM Curran,1,0,,,,,,"",""
+ball,1,15.6,Durham,MA Jones,BFW de Leede,SM Curran,0,0,,,,,,"",""
+ball,1,15.7,Durham,MA Jones,BFW de Leede,SM Curran,1,0,,,,,,"",""
+ball,1,16.1,Durham,MA Jones,BFW de Leede,CJ Jordan,0,1,1,,,,,"",""
+ball,1,16.2,Durham,MA Jones,BFW de Leede,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.3,Durham,BFW de Leede,MA Jones,CJ Jordan,4,0,,,,,,"",""
+ball,1,16.4,Durham,BFW de Leede,MA Jones,CJ Jordan,2,0,,,,,,"",""
+ball,1,16.5,Durham,BFW de Leede,MA Jones,CJ Jordan,4,0,,,,,,"",""
+ball,1,16.6,Durham,BFW de Leede,MA Jones,CJ Jordan,0,0,,,,,,"",""
+ball,1,16.7,Durham,BFW de Leede,MA Jones,CJ Jordan,0,0,,,,,,"",""
+ball,1,17.1,Durham,MA Jones,BFW de Leede,SM Curran,2,0,,,,,,"",""
+ball,1,17.2,Durham,MA Jones,BFW de Leede,SM Curran,4,0,,,,,,"",""
+ball,1,17.3,Durham,MA Jones,BFW de Leede,SM Curran,1,0,,,,,,"",""
+ball,1,17.4,Durham,BFW de Leede,MA Jones,SM Curran,0,0,,,,,,"",""
+ball,1,17.5,Durham,BFW de Leede,MA Jones,SM Curran,0,0,,,,,,bowled,BFW de Leede
+ball,1,17.6,Durham,BA Raine,MA Jones,SM Curran,2,0,,,,,,"",""
+ball,1,18.1,Durham,MA Jones,BA Raine,TK Curran,4,0,,,,,,"",""
+ball,1,18.2,Durham,MA Jones,BA Raine,TK Curran,4,0,,,,,,"",""
+ball,1,18.3,Durham,MA Jones,BA Raine,TK Curran,1,0,,,,,,"",""
+ball,1,18.4,Durham,BA Raine,MA Jones,TK Curran,4,0,,,,,,"",""
+ball,1,18.5,Durham,BA Raine,MA Jones,TK Curran,0,0,,,,,,"",""
+ball,1,18.6,Durham,BA Raine,MA Jones,TK Curran,0,1,,,,1,,"",""
+ball,1,19.1,Durham,BA Raine,MA Jones,CJ Jordan,6,0,,,,,,"",""
+ball,1,19.2,Durham,BA Raine,MA Jones,CJ Jordan,4,0,,,,,,"",""
+ball,1,19.3,Durham,BA Raine,MA Jones,CJ Jordan,6,0,,,,,,"",""
+ball,1,19.4,Durham,BA Raine,MA Jones,CJ Jordan,1,0,,,,,,run out,BA Raine
+ball,1,19.5,Durham,NA Sowter,MA Jones,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.6,Durham,MA Jones,NA Sowter,CJ Jordan,0,3,,2,1,,,"",""
+ball,1,19.7,Durham,NA Sowter,MA Jones,CJ Jordan,4,0,,,,,,"",""
+ball,2,0.1,Surrey,WG Jacks,DP Sibley,BA Carse,0,0,,,,,,"",""
+ball,2,0.2,Surrey,WG Jacks,DP Sibley,BA Carse,2,0,,,,,,"",""
+ball,2,0.3,Surrey,WG Jacks,DP Sibley,BA Carse,0,0,,,,,,"",""
+ball,2,0.4,Surrey,WG Jacks,DP Sibley,BA Carse,0,1,1,,,,,"",""
+ball,2,0.5,Surrey,WG Jacks,DP Sibley,BA Carse,1,0,,,,,,"",""
+ball,2,0.6,Surrey,DP Sibley,WG Jacks,BA Carse,0,0,,,,,,"",""
+ball,2,0.7,Surrey,DP Sibley,WG Jacks,BA Carse,4,0,,,,,,"",""
+ball,2,1.1,Surrey,WG Jacks,DP Sibley,BFW de Leede,0,0,,,,,,"",""
+ball,2,1.2,Surrey,WG Jacks,DP Sibley,BFW de Leede,0,0,,,,,,"",""
+ball,2,1.3,Surrey,WG Jacks,DP Sibley,BFW de Leede,0,0,,,,,,"",""
+ball,2,1.4,Surrey,WG Jacks,DP Sibley,BFW de Leede,1,0,,,,,,"",""
+ball,2,1.5,Surrey,DP Sibley,WG Jacks,BFW de Leede,4,0,,,,,,"",""
+ball,2,1.6,Surrey,DP Sibley,WG Jacks,BFW de Leede,0,0,,,,,,"",""
+ball,2,2.1,Surrey,WG Jacks,DP Sibley,BA Carse,4,0,,,,,,"",""
+ball,2,2.2,Surrey,WG Jacks,DP Sibley,BA Carse,0,0,,,,,,caught,WG Jacks
+ball,2,2.3,Surrey,LJ Evans,DP Sibley,BA Carse,1,0,,,,,,"",""
+ball,2,2.4,Surrey,DP Sibley,LJ Evans,BA Carse,0,5,5,,,,,"",""
+ball,2,2.5,Surrey,DP Sibley,LJ Evans,BA Carse,0,0,,,,,,"",""
+ball,2,2.6,Surrey,DP Sibley,LJ Evans,BA Carse,1,0,,,,,,"",""
+ball,2,2.7,Surrey,LJ Evans,DP Sibley,BA Carse,0,0,,,,,,caught,LJ Evans
+ball,2,3.1,Surrey,DP Sibley,RJ Burns,BA Raine,0,1,1,,,,,"",""
+ball,2,3.2,Surrey,DP Sibley,RJ Burns,BA Raine,4,0,,,,,,"",""
+ball,2,3.3,Surrey,DP Sibley,RJ Burns,BA Raine,0,0,,,,,,"",""
+ball,2,3.4,Surrey,DP Sibley,RJ Burns,BA Raine,1,0,,,,,,"",""
+ball,2,3.5,Surrey,RJ Burns,DP Sibley,BA Raine,1,0,,,,,,"",""
+ball,2,3.6,Surrey,DP Sibley,RJ Burns,BA Raine,2,0,,,,,,"",""
+ball,2,3.7,Surrey,DP Sibley,RJ Burns,BA Raine,1,0,,,,,,"",""
+ball,2,4.1,Surrey,DP Sibley,RJ Burns,BA Carse,2,0,,,,,,"",""
+ball,2,4.2,Surrey,DP Sibley,RJ Burns,BA Carse,0,0,,,,,,"",""
+ball,2,4.3,Surrey,DP Sibley,RJ Burns,BA Carse,0,1,,,,1,,"",""
+ball,2,4.4,Surrey,RJ Burns,DP Sibley,BA Carse,0,0,,,,,,"",""
+ball,2,4.5,Surrey,RJ Burns,DP Sibley,BA Carse,0,0,,,,,,"",""
+ball,2,4.6,Surrey,RJ Burns,DP Sibley,BA Carse,0,0,,,,,,"",""
+ball,2,5.1,Surrey,DP Sibley,RJ Burns,BFW de Leede,1,0,,,,,,"",""
+ball,2,5.2,Surrey,RJ Burns,DP Sibley,BFW de Leede,4,0,,,,,,"",""
+ball,2,5.3,Surrey,RJ Burns,DP Sibley,BFW de Leede,0,0,,,,,,"",""
+ball,2,5.4,Surrey,RJ Burns,DP Sibley,BFW de Leede,0,0,,,,,,"",""
+ball,2,5.5,Surrey,RJ Burns,DP Sibley,BFW de Leede,1,0,,,,,,"",""
+ball,2,5.6,Surrey,DP Sibley,RJ Burns,BFW de Leede,0,2,,2,,,,"",""
+ball,2,5.7,Surrey,DP Sibley,RJ Burns,BFW de Leede,4,0,,,,,,"",""
+ball,2,6.1,Surrey,RJ Burns,DP Sibley,CF Parkinson,4,0,,,,,,"",""
+ball,2,6.2,Surrey,RJ Burns,DP Sibley,CF Parkinson,0,0,,,,,,caught,RJ Burns
+ball,2,6.3,Surrey,SM Curran,DP Sibley,CF Parkinson,0,0,,,,,,"",""
+ball,2,6.4,Surrey,SM Curran,DP Sibley,CF Parkinson,0,0,,,,,,"",""
+ball,2,6.5,Surrey,SM Curran,DP Sibley,CF Parkinson,1,0,,,,,,"",""
+ball,2,6.6,Surrey,DP Sibley,SM Curran,CF Parkinson,1,0,,,,,,"",""
+ball,2,7.1,Surrey,DP Sibley,SM Curran,NA Sowter,1,0,,,,,,"",""
+ball,2,7.2,Surrey,SM Curran,DP Sibley,NA Sowter,2,0,,,,,,"",""
+ball,2,7.3,Surrey,SM Curran,DP Sibley,NA Sowter,0,0,,,,,,"",""
+ball,2,7.4,Surrey,SM Curran,DP Sibley,NA Sowter,1,0,,,,,,"",""
+ball,2,7.5,Surrey,DP Sibley,SM Curran,NA Sowter,0,0,,,,,,"",""
+ball,2,7.6,Surrey,DP Sibley,SM Curran,NA Sowter,1,0,,,,,,"",""
+ball,2,8.1,Surrey,DP Sibley,SM Curran,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.2,Surrey,SM Curran,DP Sibley,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.3,Surrey,DP Sibley,SM Curran,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.4,Surrey,SM Curran,DP Sibley,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.5,Surrey,DP Sibley,SM Curran,CF Parkinson,0,0,,,,,,"",""
+ball,2,8.6,Surrey,DP Sibley,SM Curran,CF Parkinson,1,0,,,,,,"",""
+ball,2,9.1,Surrey,DP Sibley,SM Curran,NA Sowter,1,0,,,,,,"",""
+ball,2,9.2,Surrey,SM Curran,DP Sibley,NA Sowter,0,0,,,,,,"",""
+ball,2,9.3,Surrey,SM Curran,DP Sibley,NA Sowter,1,0,,,,,,"",""
+ball,2,9.4,Surrey,DP Sibley,SM Curran,NA Sowter,2,0,,,,,,"",""
+ball,2,9.5,Surrey,DP Sibley,SM Curran,NA Sowter,1,0,,,,,,"",""
+ball,2,9.6,Surrey,SM Curran,DP Sibley,NA Sowter,0,0,,,,,,"",""
+ball,2,10.1,Surrey,DP Sibley,SM Curran,BA Raine,1,0,,,,,,"",""
+ball,2,10.2,Surrey,SM Curran,DP Sibley,BA Raine,1,0,,,,,,"",""
+ball,2,10.3,Surrey,DP Sibley,SM Curran,BA Raine,2,0,,,,,,"",""
+ball,2,10.4,Surrey,DP Sibley,SM Curran,BA Raine,1,0,,,,,,"",""
+ball,2,10.5,Surrey,SM Curran,DP Sibley,BA Raine,1,0,,,,,,"",""
+ball,2,10.6,Surrey,DP Sibley,SM Curran,BA Raine,1,0,,,,,,"",""
+ball,2,11.1,Surrey,DP Sibley,SM Curran,NA Sowter,1,0,,,,,,"",""
+ball,2,11.2,Surrey,SM Curran,DP Sibley,NA Sowter,6,0,,,,,,"",""
+ball,2,11.3,Surrey,SM Curran,DP Sibley,NA Sowter,2,0,,,,,,"",""
+ball,2,11.4,Surrey,SM Curran,DP Sibley,NA Sowter,1,0,,,,,,"",""
+ball,2,11.5,Surrey,DP Sibley,SM Curran,NA Sowter,1,0,,,,,,"",""
+ball,2,11.6,Surrey,SM Curran,DP Sibley,NA Sowter,1,0,,,,,,"",""
+ball,2,12.1,Surrey,SM Curran,DP Sibley,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.2,Surrey,DP Sibley,SM Curran,CF Parkinson,0,0,,,,,,"",""
+ball,2,12.3,Surrey,DP Sibley,SM Curran,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.4,Surrey,SM Curran,DP Sibley,CF Parkinson,4,0,,,,,,"",""
+ball,2,12.5,Surrey,SM Curran,DP Sibley,CF Parkinson,6,0,,,,,,"",""
+ball,2,12.6,Surrey,SM Curran,DP Sibley,CF Parkinson,1,0,,,,,,"",""
+ball,2,13.1,Surrey,SM Curran,DP Sibley,BFW de Leede,0,1,1,,,,,"",""
+ball,2,13.2,Surrey,SM Curran,DP Sibley,BFW de Leede,0,0,,,,,,"",""
+ball,2,13.3,Surrey,SM Curran,DP Sibley,BFW de Leede,4,0,,,,,,"",""
+ball,2,13.4,Surrey,SM Curran,DP Sibley,BFW de Leede,1,0,,,,,,"",""
+ball,2,13.5,Surrey,DP Sibley,SM Curran,BFW de Leede,0,1,,,,1,,"",""
+ball,2,13.6,Surrey,SM Curran,DP Sibley,BFW de Leede,1,0,,,,,,"",""
+ball,2,13.7,Surrey,DP Sibley,SM Curran,BFW de Leede,4,0,,,,,,"",""
+ball,2,14.1,Surrey,SM Curran,DP Sibley,BA Carse,0,2,,2,,,,"",""
+ball,2,14.2,Surrey,SM Curran,DP Sibley,BA Carse,1,0,,,,,,"",""
+ball,2,14.3,Surrey,DP Sibley,SM Curran,BA Carse,6,0,,,,,,"",""
+ball,2,14.4,Surrey,DP Sibley,SM Curran,BA Carse,1,0,,,,,,"",""
+ball,2,14.5,Surrey,SM Curran,DP Sibley,BA Carse,0,1,1,,,,,"",""
+ball,2,14.6,Surrey,SM Curran,DP Sibley,BA Carse,0,0,,,,,,"",""
+ball,2,14.7,Surrey,SM Curran,DP Sibley,BA Carse,1,0,,,,,,"",""
+ball,2,14.8,Surrey,DP Sibley,SM Curran,BA Carse,1,0,,,,,,"",""
+ball,2,15.1,Surrey,DP Sibley,SM Curran,NA Sowter,1,0,,,,,,"",""
+ball,2,15.2,Surrey,SM Curran,DP Sibley,NA Sowter,6,0,,,,,,"",""
+ball,2,15.3,Surrey,SM Curran,DP Sibley,NA Sowter,0,0,,,,,,"",""
+ball,2,15.4,Surrey,SM Curran,DP Sibley,NA Sowter,1,0,,,,,,"",""
+ball,2,15.5,Surrey,DP Sibley,SM Curran,NA Sowter,2,0,,,,,,"",""
+ball,2,15.6,Surrey,DP Sibley,SM Curran,NA Sowter,0,1,,,,1,,"",""
+ball,2,16.1,Surrey,DP Sibley,SM Curran,CF Parkinson,0,0,,,,,,"",""
+ball,2,16.2,Surrey,DP Sibley,SM Curran,CF Parkinson,6,0,,,,,,"",""
+ball,2,16.3,Surrey,DP Sibley,SM Curran,CF Parkinson,4,0,,,,,,"",""
+ball,2,16.4,Surrey,DP Sibley,SM Curran,CF Parkinson,0,0,,,,,,bowled,DP Sibley
+ball,2,16.5,Surrey,TK Curran,SM Curran,CF Parkinson,1,0,,,,,,"",""
+ball,2,16.6,Surrey,SM Curran,TK Curran,CF Parkinson,6,0,,,,,,"",""
+ball,2,17.1,Surrey,TK Curran,SM Curran,BA Raine,4,0,,,,,,"",""
+ball,2,17.2,Surrey,TK Curran,SM Curran,BA Raine,1,0,,,,,,"",""
+ball,2,17.3,Surrey,SM Curran,TK Curran,BA Raine,0,0,,,,,,lbw,SM Curran
+ball,2,17.4,Surrey,J Overton,TK Curran,BA Raine,0,0,,,,,,"",""
+ball,2,17.5,Surrey,J Overton,TK Curran,BA Raine,0,0,,,,,,"",""
+ball,2,17.6,Surrey,J Overton,TK Curran,BA Raine,4,0,,,,,,"",""

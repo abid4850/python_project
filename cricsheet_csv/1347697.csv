@@ -1,0 +1,269 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Hampshire
+info,gender,male
+info,season,2023
+info,date,2023/07/07
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,Tom Lungley
+info,match_referee,PM Such
+info,winner,Hampshire
+info,winner_wickets,5
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,MJ Santner
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,Usama Mir
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,DY Pennington
+info,player,Worcestershire,PR Brown
+info,player,Hampshire,AHT Donald
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,RA Whiteley
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,CP Wood
+info,player,Hampshire,NT Ellis
+info,player,Hampshire,JA Turner
+info,registry,people,AHT Donald,72918338
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PM Such,c9f1892c
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,Usama Mir,6dd8b88c
+ball,1,0.1,Worcestershire,BL D'Oliveira,JA Haynes,CP Wood,0,0,,,,,,"",""
+ball,1,0.2,Worcestershire,BL D'Oliveira,JA Haynes,CP Wood,0,2,2,,,,,"",""
+ball,1,0.3,Worcestershire,JA Haynes,BL D'Oliveira,CP Wood,0,0,,,,,,"",""
+ball,1,0.4,Worcestershire,JA Haynes,BL D'Oliveira,CP Wood,0,0,,,,,,"",""
+ball,1,0.5,Worcestershire,JA Haynes,BL D'Oliveira,CP Wood,0,0,,,,,,caught and bowled,JA Haynes
+ball,1,0.6,Worcestershire,MJ Santner,BL D'Oliveira,CP Wood,0,0,,,,,,"",""
+ball,1,0.7,Worcestershire,MJ Santner,BL D'Oliveira,CP Wood,4,0,,,,,,"",""
+ball,1,1.1,Worcestershire,BL D'Oliveira,MJ Santner,JA Turner,0,0,,,,,,"",""
+ball,1,1.2,Worcestershire,BL D'Oliveira,MJ Santner,JA Turner,0,0,,,,,,"",""
+ball,1,1.3,Worcestershire,BL D'Oliveira,MJ Santner,JA Turner,1,0,,,,,,"",""
+ball,1,1.4,Worcestershire,MJ Santner,BL D'Oliveira,JA Turner,2,0,,,,,,"",""
+ball,1,1.5,Worcestershire,MJ Santner,BL D'Oliveira,JA Turner,1,0,,,,,,"",""
+ball,1,1.6,Worcestershire,BL D'Oliveira,MJ Santner,JA Turner,0,0,,,,,,bowled,BL D'Oliveira
+ball,1,2.1,Worcestershire,MJ Santner,AJ Hose,CP Wood,0,0,,,,,,"",""
+ball,1,2.2,Worcestershire,MJ Santner,AJ Hose,CP Wood,0,0,,,,,,"",""
+ball,1,2.3,Worcestershire,MJ Santner,AJ Hose,CP Wood,6,0,,,,,,"",""
+ball,1,2.4,Worcestershire,MJ Santner,AJ Hose,CP Wood,0,0,,,,,,"",""
+ball,1,2.5,Worcestershire,MJ Santner,AJ Hose,CP Wood,0,0,,,,,,"",""
+ball,1,2.6,Worcestershire,MJ Santner,AJ Hose,CP Wood,0,0,,,,,,caught,MJ Santner
+ball,1,3.1,Worcestershire,AJ Hose,Kashif Ali,JA Turner,0,0,,,,,,"",""
+ball,1,3.2,Worcestershire,AJ Hose,Kashif Ali,JA Turner,0,1,1,,,,,"",""
+ball,1,3.3,Worcestershire,AJ Hose,Kashif Ali,JA Turner,0,0,,,,,,"",""
+ball,1,3.4,Worcestershire,AJ Hose,Kashif Ali,JA Turner,0,0,,,,,,caught,AJ Hose
+ball,1,3.5,Worcestershire,OB Cox,Kashif Ali,JA Turner,1,0,,,,,,"",""
+ball,1,3.6,Worcestershire,Kashif Ali,OB Cox,JA Turner,0,2,,2,,,,"",""
+ball,1,3.7,Worcestershire,Kashif Ali,OB Cox,JA Turner,2,0,,,,,,"",""
+ball,1,3.8,Worcestershire,Kashif Ali,OB Cox,JA Turner,0,0,,,,,,"",""
+ball,1,4.1,Worcestershire,OB Cox,Kashif Ali,JK Fuller,0,0,,,,,,"",""
+ball,1,4.2,Worcestershire,OB Cox,Kashif Ali,JK Fuller,0,0,,,,,,"",""
+ball,1,4.3,Worcestershire,OB Cox,Kashif Ali,JK Fuller,0,0,,,,,,"",""
+ball,1,4.4,Worcestershire,OB Cox,Kashif Ali,JK Fuller,0,0,,,,,,"",""
+ball,1,4.5,Worcestershire,OB Cox,Kashif Ali,JK Fuller,0,0,,,,,,"",""
+ball,1,4.6,Worcestershire,OB Cox,Kashif Ali,JK Fuller,1,0,,,,,,"",""
+ball,1,5.1,Worcestershire,OB Cox,Kashif Ali,JA Turner,0,0,,,,,,"",""
+ball,1,5.2,Worcestershire,OB Cox,Kashif Ali,JA Turner,2,0,,,,,,"",""
+ball,1,5.3,Worcestershire,OB Cox,Kashif Ali,JA Turner,4,0,,,,,,"",""
+ball,1,5.4,Worcestershire,OB Cox,Kashif Ali,JA Turner,0,0,,,,,,"",""
+ball,1,5.5,Worcestershire,OB Cox,Kashif Ali,JA Turner,0,0,,,,,,"",""
+ball,1,5.6,Worcestershire,OB Cox,Kashif Ali,JA Turner,0,0,,,,,,"",""
+ball,1,6.1,Worcestershire,Kashif Ali,OB Cox,JK Fuller,0,0,,,,,,"",""
+ball,1,6.2,Worcestershire,Kashif Ali,OB Cox,JK Fuller,0,0,,,,,,bowled,Kashif Ali
+ball,1,6.3,Worcestershire,EJ Pollock,OB Cox,JK Fuller,0,0,,,,,,"",""
+ball,1,6.4,Worcestershire,EJ Pollock,OB Cox,JK Fuller,0,0,,,,,,"",""
+ball,1,6.5,Worcestershire,EJ Pollock,OB Cox,JK Fuller,0,0,,,,,,"",""
+ball,1,6.6,Worcestershire,EJ Pollock,OB Cox,JK Fuller,0,0,,,,,,"",""
+ball,1,7.1,Worcestershire,OB Cox,EJ Pollock,NT Ellis,0,0,,,,,,caught,OB Cox
+ball,1,7.2,Worcestershire,Usama Mir,EJ Pollock,NT Ellis,1,0,,,,,,"",""
+ball,1,7.3,Worcestershire,EJ Pollock,Usama Mir,NT Ellis,0,0,,,,,,"",""
+ball,1,7.4,Worcestershire,EJ Pollock,Usama Mir,NT Ellis,0,2,,2,,,,"",""
+ball,1,7.5,Worcestershire,EJ Pollock,Usama Mir,NT Ellis,1,0,,,,,,"",""
+ball,1,7.6,Worcestershire,Usama Mir,EJ Pollock,NT Ellis,0,0,,,,,,"",""
+ball,1,7.7,Worcestershire,Usama Mir,EJ Pollock,NT Ellis,0,0,,,,,,"",""
+ball,1,8.1,Worcestershire,EJ Pollock,Usama Mir,JK Fuller,1,0,,,,,,"",""
+ball,1,8.2,Worcestershire,Usama Mir,EJ Pollock,JK Fuller,4,0,,,,,,"",""
+ball,1,8.3,Worcestershire,Usama Mir,EJ Pollock,JK Fuller,0,0,,,,,,"",""
+ball,1,8.4,Worcestershire,Usama Mir,EJ Pollock,JK Fuller,0,0,,,,,,"",""
+ball,1,8.5,Worcestershire,Usama Mir,EJ Pollock,JK Fuller,0,0,,,,,,"",""
+ball,1,8.6,Worcestershire,Usama Mir,EJ Pollock,JK Fuller,1,0,,,,,,"",""
+ball,1,9.1,Worcestershire,Usama Mir,EJ Pollock,LA Dawson,0,0,,,,,,"",""
+ball,1,9.2,Worcestershire,Usama Mir,EJ Pollock,LA Dawson,6,0,,,,,,"",""
+ball,1,9.3,Worcestershire,Usama Mir,EJ Pollock,LA Dawson,4,0,,,,,,"",""
+ball,1,9.4,Worcestershire,Usama Mir,EJ Pollock,LA Dawson,1,0,,,,,,"",""
+ball,1,9.5,Worcestershire,EJ Pollock,Usama Mir,LA Dawson,4,0,,,,,,"",""
+ball,1,9.6,Worcestershire,EJ Pollock,Usama Mir,LA Dawson,1,0,,,,,,"",""
+ball,1,10.1,Worcestershire,EJ Pollock,Usama Mir,BAC Howell,1,0,,,,,,"",""
+ball,1,10.2,Worcestershire,Usama Mir,EJ Pollock,BAC Howell,1,0,,,,,,"",""
+ball,1,10.3,Worcestershire,EJ Pollock,Usama Mir,BAC Howell,1,0,,,,,,"",""
+ball,1,10.4,Worcestershire,Usama Mir,EJ Pollock,BAC Howell,2,0,,,,,,"",""
+ball,1,10.5,Worcestershire,Usama Mir,EJ Pollock,BAC Howell,4,0,,,,,,"",""
+ball,1,10.6,Worcestershire,Usama Mir,EJ Pollock,BAC Howell,0,0,,,,,,"",""
+ball,1,11.1,Worcestershire,EJ Pollock,Usama Mir,NT Ellis,1,0,,,,,,"",""
+ball,1,11.2,Worcestershire,Usama Mir,EJ Pollock,NT Ellis,0,0,,,,,,"",""
+ball,1,11.3,Worcestershire,Usama Mir,EJ Pollock,NT Ellis,0,0,,,,,,"",""
+ball,1,11.4,Worcestershire,Usama Mir,EJ Pollock,NT Ellis,0,0,,,,,,"",""
+ball,1,11.5,Worcestershire,Usama Mir,EJ Pollock,NT Ellis,0,1,,,,1,,"",""
+ball,1,11.6,Worcestershire,EJ Pollock,Usama Mir,NT Ellis,1,0,,,,,,"",""
+ball,1,12.1,Worcestershire,EJ Pollock,Usama Mir,BAC Howell,0,0,,,,,,"",""
+ball,1,12.2,Worcestershire,EJ Pollock,Usama Mir,BAC Howell,1,0,,,,,,"",""
+ball,1,12.3,Worcestershire,Usama Mir,EJ Pollock,BAC Howell,1,0,,,,,,"",""
+ball,1,12.4,Worcestershire,EJ Pollock,Usama Mir,BAC Howell,1,0,,,,,,"",""
+ball,1,12.5,Worcestershire,Usama Mir,EJ Pollock,BAC Howell,0,1,,,,1,,"",""
+ball,1,12.6,Worcestershire,EJ Pollock,Usama Mir,BAC Howell,0,0,,,,,,"",""
+ball,1,13.1,Worcestershire,Usama Mir,EJ Pollock,JA Turner,1,0,,,,,,"",""
+ball,1,13.2,Worcestershire,EJ Pollock,Usama Mir,JA Turner,1,0,,,,,,"",""
+ball,1,13.3,Worcestershire,Usama Mir,EJ Pollock,JA Turner,1,0,,,,,,"",""
+ball,1,13.4,Worcestershire,EJ Pollock,Usama Mir,JA Turner,0,0,,,,,,"",""
+ball,1,13.5,Worcestershire,EJ Pollock,Usama Mir,JA Turner,0,0,,,,,,"",""
+ball,1,13.6,Worcestershire,EJ Pollock,Usama Mir,JA Turner,0,0,,,,,,"",""
+ball,1,14.1,Worcestershire,Usama Mir,EJ Pollock,JK Fuller,0,2,,,,2,,"",""
+ball,1,14.2,Worcestershire,Usama Mir,EJ Pollock,JK Fuller,1,0,,,,,,"",""
+ball,1,14.3,Worcestershire,EJ Pollock,Usama Mir,JK Fuller,6,0,,,,,,"",""
+ball,1,14.4,Worcestershire,EJ Pollock,Usama Mir,JK Fuller,1,0,,,,,,"",""
+ball,1,14.5,Worcestershire,Usama Mir,EJ Pollock,JK Fuller,0,0,,,,,,"",""
+ball,1,14.6,Worcestershire,Usama Mir,EJ Pollock,JK Fuller,2,0,,,,,,"",""
+ball,1,15.1,Worcestershire,EJ Pollock,Usama Mir,CP Wood,1,0,,,,,,"",""
+ball,1,15.2,Worcestershire,Usama Mir,EJ Pollock,CP Wood,2,0,,,,,,"",""
+ball,1,15.3,Worcestershire,Usama Mir,EJ Pollock,CP Wood,1,0,,,,,,"",""
+ball,1,15.4,Worcestershire,EJ Pollock,Usama Mir,CP Wood,1,0,,,,,,"",""
+ball,1,15.5,Worcestershire,Usama Mir,EJ Pollock,CP Wood,0,1,1,,,,,"",""
+ball,1,15.6,Worcestershire,Usama Mir,EJ Pollock,CP Wood,4,0,,,,,,"",""
+ball,1,15.7,Worcestershire,Usama Mir,EJ Pollock,CP Wood,1,0,,,,,,"",""
+ball,1,16.1,Worcestershire,Usama Mir,EJ Pollock,BAC Howell,1,0,,,,,,"",""
+ball,1,16.2,Worcestershire,EJ Pollock,Usama Mir,BAC Howell,1,0,,,,,,"",""
+ball,1,16.3,Worcestershire,Usama Mir,EJ Pollock,BAC Howell,0,0,,,,,,caught,Usama Mir
+ball,1,16.4,Worcestershire,AW Finch,EJ Pollock,BAC Howell,0,0,,,,,,"",""
+ball,1,16.5,Worcestershire,AW Finch,EJ Pollock,BAC Howell,0,0,,,,,,"",""
+ball,1,16.6,Worcestershire,AW Finch,EJ Pollock,BAC Howell,1,0,,,,,,"",""
+ball,1,17.1,Worcestershire,AW Finch,EJ Pollock,NT Ellis,0,0,,,,,,"",""
+ball,1,17.2,Worcestershire,AW Finch,EJ Pollock,NT Ellis,0,0,,,,,,bowled,AW Finch
+ball,1,17.3,Worcestershire,DY Pennington,EJ Pollock,NT Ellis,0,0,,,,,,"",""
+ball,1,17.4,Worcestershire,DY Pennington,EJ Pollock,NT Ellis,0,0,,,,,,caught,DY Pennington
+ball,1,17.5,Worcestershire,PR Brown,EJ Pollock,NT Ellis,0,0,,,,,,lbw,PR Brown
+ball,2,0.1,Hampshire,AHT Donald,JM Vince,DY Pennington,4,0,,,,,,"",""
+ball,2,0.2,Hampshire,AHT Donald,JM Vince,DY Pennington,0,0,,,,,,"",""
+ball,2,0.3,Hampshire,AHT Donald,JM Vince,DY Pennington,1,0,,,,,,"",""
+ball,2,0.4,Hampshire,JM Vince,AHT Donald,DY Pennington,4,0,,,,,,"",""
+ball,2,0.5,Hampshire,JM Vince,AHT Donald,DY Pennington,2,0,,,,,,"",""
+ball,2,0.6,Hampshire,JM Vince,AHT Donald,DY Pennington,2,0,,,,,,"",""
+ball,2,1.1,Hampshire,AHT Donald,JM Vince,AW Finch,0,0,,,,,,caught,AHT Donald
+ball,2,1.2,Hampshire,TJ Prest,JM Vince,AW Finch,0,1,,,,1,,"",""
+ball,2,1.3,Hampshire,JM Vince,TJ Prest,AW Finch,0,0,,,,,,"",""
+ball,2,1.4,Hampshire,JM Vince,TJ Prest,AW Finch,1,0,,,,,,"",""
+ball,2,1.5,Hampshire,TJ Prest,JM Vince,AW Finch,1,0,,,,,,"",""
+ball,2,1.6,Hampshire,JM Vince,TJ Prest,AW Finch,1,0,,,,,,"",""
+ball,2,2.1,Hampshire,JM Vince,TJ Prest,DY Pennington,0,0,,,,,,"",""
+ball,2,2.2,Hampshire,JM Vince,TJ Prest,DY Pennington,0,0,,,,,,"",""
+ball,2,2.3,Hampshire,JM Vince,TJ Prest,DY Pennington,4,0,,,,,,"",""
+ball,2,2.4,Hampshire,JM Vince,TJ Prest,DY Pennington,0,0,,,,,,"",""
+ball,2,2.5,Hampshire,JM Vince,TJ Prest,DY Pennington,0,0,,,,,,"",""
+ball,2,2.6,Hampshire,JM Vince,TJ Prest,DY Pennington,1,0,,,,,,"",""
+ball,2,3.1,Hampshire,JM Vince,TJ Prest,PR Brown,1,0,,,,,,"",""
+ball,2,3.2,Hampshire,TJ Prest,JM Vince,PR Brown,4,0,,,,,,"",""
+ball,2,3.3,Hampshire,TJ Prest,JM Vince,PR Brown,1,0,,,,,,"",""
+ball,2,3.4,Hampshire,JM Vince,TJ Prest,PR Brown,1,0,,,,,,"",""
+ball,2,3.5,Hampshire,TJ Prest,JM Vince,PR Brown,1,0,,,,,,"",""
+ball,2,3.6,Hampshire,JM Vince,TJ Prest,PR Brown,1,0,,,,,,"",""
+ball,2,4.1,Hampshire,JM Vince,TJ Prest,DY Pennington,1,0,,,,,,"",""
+ball,2,4.2,Hampshire,TJ Prest,JM Vince,DY Pennington,0,0,,,,,,"",""
+ball,2,4.3,Hampshire,TJ Prest,JM Vince,DY Pennington,1,0,,,,,,"",""
+ball,2,4.4,Hampshire,JM Vince,TJ Prest,DY Pennington,0,0,,,,,,"",""
+ball,2,4.5,Hampshire,JM Vince,TJ Prest,DY Pennington,0,0,,,,,,"",""
+ball,2,4.6,Hampshire,JM Vince,TJ Prest,DY Pennington,0,0,,,,,,"",""
+ball,2,5.1,Hampshire,TJ Prest,JM Vince,AW Finch,6,0,,,,,,"",""
+ball,2,5.2,Hampshire,TJ Prest,JM Vince,AW Finch,4,0,,,,,,"",""
+ball,2,5.3,Hampshire,TJ Prest,JM Vince,AW Finch,4,0,,,,,,"",""
+ball,2,5.4,Hampshire,TJ Prest,JM Vince,AW Finch,1,0,,,,,,"",""
+ball,2,5.5,Hampshire,JM Vince,TJ Prest,AW Finch,0,0,,,,,,caught,JM Vince
+ball,2,5.6,Hampshire,JJ Weatherley,TJ Prest,AW Finch,0,0,,,,,,"",""
+ball,2,6.1,Hampshire,TJ Prest,JJ Weatherley,PR Brown,0,0,,,,,,"",""
+ball,2,6.2,Hampshire,TJ Prest,JJ Weatherley,PR Brown,1,0,,,,,,"",""
+ball,2,6.3,Hampshire,JJ Weatherley,TJ Prest,PR Brown,1,0,,,,,,"",""
+ball,2,6.4,Hampshire,TJ Prest,JJ Weatherley,PR Brown,0,0,,,,,,"",""
+ball,2,6.5,Hampshire,TJ Prest,JJ Weatherley,PR Brown,1,0,,,,,,"",""
+ball,2,6.6,Hampshire,JJ Weatherley,TJ Prest,PR Brown,1,0,,,,,,"",""
+ball,2,7.1,Hampshire,JJ Weatherley,TJ Prest,MJ Santner,0,0,,,,,,"",""
+ball,2,7.2,Hampshire,JJ Weatherley,TJ Prest,MJ Santner,0,0,,,,,,"",""
+ball,2,7.3,Hampshire,JJ Weatherley,TJ Prest,MJ Santner,1,0,,,,,,"",""
+ball,2,7.4,Hampshire,TJ Prest,JJ Weatherley,MJ Santner,0,0,,,,,,caught,TJ Prest
+ball,2,7.5,Hampshire,LA Dawson,JJ Weatherley,MJ Santner,0,0,,,,,,"",""
+ball,2,7.6,Hampshire,LA Dawson,JJ Weatherley,MJ Santner,0,0,,,,,,"",""
+ball,2,8.1,Hampshire,JJ Weatherley,LA Dawson,Usama Mir,4,0,,,,,,"",""
+ball,2,8.2,Hampshire,JJ Weatherley,LA Dawson,Usama Mir,1,0,,,,,,"",""
+ball,2,8.3,Hampshire,LA Dawson,JJ Weatherley,Usama Mir,1,0,,,,,,"",""
+ball,2,8.4,Hampshire,JJ Weatherley,LA Dawson,Usama Mir,1,0,,,,,,"",""
+ball,2,8.5,Hampshire,LA Dawson,JJ Weatherley,Usama Mir,0,0,,,,,,"",""
+ball,2,8.6,Hampshire,LA Dawson,JJ Weatherley,Usama Mir,1,0,,,,,,"",""
+ball,2,9.1,Hampshire,LA Dawson,JJ Weatherley,MJ Santner,2,0,,,,,,"",""
+ball,2,9.2,Hampshire,LA Dawson,JJ Weatherley,MJ Santner,4,0,,,,,,"",""
+ball,2,9.3,Hampshire,LA Dawson,JJ Weatherley,MJ Santner,0,0,,,,,,"",""
+ball,2,9.4,Hampshire,LA Dawson,JJ Weatherley,MJ Santner,0,0,,,,,,"",""
+ball,2,9.5,Hampshire,LA Dawson,JJ Weatherley,MJ Santner,0,0,,,,,,"",""
+ball,2,9.6,Hampshire,LA Dawson,JJ Weatherley,MJ Santner,1,0,,,,,,"",""
+ball,2,10.1,Hampshire,LA Dawson,JJ Weatherley,Usama Mir,0,0,,,,,,caught,LA Dawson
+ball,2,10.2,Hampshire,RA Whiteley,JJ Weatherley,Usama Mir,0,0,,,,,,"",""
+ball,2,10.3,Hampshire,RA Whiteley,JJ Weatherley,Usama Mir,1,0,,,,,,"",""
+ball,2,10.4,Hampshire,JJ Weatherley,RA Whiteley,Usama Mir,1,0,,,,,,"",""
+ball,2,10.5,Hampshire,RA Whiteley,JJ Weatherley,Usama Mir,0,0,,,,,,"",""
+ball,2,10.6,Hampshire,RA Whiteley,JJ Weatherley,Usama Mir,0,0,,,,,,"",""
+ball,2,11.1,Hampshire,JJ Weatherley,RA Whiteley,MJ Santner,1,0,,,,,,"",""
+ball,2,11.2,Hampshire,RA Whiteley,JJ Weatherley,MJ Santner,4,0,,,,,,"",""
+ball,2,11.3,Hampshire,RA Whiteley,JJ Weatherley,MJ Santner,2,0,,,,,,"",""
+ball,2,11.4,Hampshire,RA Whiteley,JJ Weatherley,MJ Santner,1,0,,,,,,"",""
+ball,2,11.5,Hampshire,JJ Weatherley,RA Whiteley,MJ Santner,1,0,,,,,,"",""
+ball,2,11.6,Hampshire,RA Whiteley,JJ Weatherley,MJ Santner,0,0,,,,,,"",""
+ball,2,12.1,Hampshire,JJ Weatherley,RA Whiteley,Usama Mir,1,0,,,,,,"",""
+ball,2,12.2,Hampshire,RA Whiteley,JJ Weatherley,Usama Mir,2,0,,,,,,"",""
+ball,2,12.3,Hampshire,RA Whiteley,JJ Weatherley,Usama Mir,0,0,,,,,,"",""
+ball,2,12.4,Hampshire,RA Whiteley,JJ Weatherley,Usama Mir,0,0,,,,,,"",""
+ball,2,12.5,Hampshire,RA Whiteley,JJ Weatherley,Usama Mir,0,0,,,,,,"",""
+ball,2,12.6,Hampshire,RA Whiteley,JJ Weatherley,Usama Mir,0,0,,,,,,"",""
+ball,2,13.1,Hampshire,JJ Weatherley,RA Whiteley,PR Brown,4,0,,,,,,"",""
+ball,2,13.2,Hampshire,JJ Weatherley,RA Whiteley,PR Brown,0,0,,,,,,"",""
+ball,2,13.3,Hampshire,JJ Weatherley,RA Whiteley,PR Brown,1,0,,,,,,"",""
+ball,2,13.4,Hampshire,RA Whiteley,JJ Weatherley,PR Brown,1,0,,,,,,"",""
+ball,2,13.5,Hampshire,JJ Weatherley,RA Whiteley,PR Brown,1,0,,,,,,"",""
+ball,2,13.6,Hampshire,RA Whiteley,JJ Weatherley,PR Brown,0,0,,,,,,"",""
+ball,2,14.1,Hampshire,JJ Weatherley,RA Whiteley,Usama Mir,4,0,,,,,,"",""
+ball,2,14.2,Hampshire,JJ Weatherley,RA Whiteley,Usama Mir,2,0,,,,,,"",""
+ball,2,14.3,Hampshire,JJ Weatherley,RA Whiteley,Usama Mir,0,0,,,,,,caught,JJ Weatherley
+ball,2,14.4,Hampshire,JK Fuller,RA Whiteley,Usama Mir,0,0,,,,,,"",""
+ball,2,14.5,Hampshire,JK Fuller,RA Whiteley,Usama Mir,1,0,,,,,,"",""
+ball,2,14.6,Hampshire,RA Whiteley,JK Fuller,Usama Mir,0,0,,,,,,"",""
+ball,2,15.1,Hampshire,JK Fuller,RA Whiteley,MJ Santner,2,0,,,,,,"",""
+ball,2,15.2,Hampshire,JK Fuller,RA Whiteley,MJ Santner,0,0,,,,,,"",""
+ball,2,15.3,Hampshire,JK Fuller,RA Whiteley,MJ Santner,4,0,,,,,,"",""

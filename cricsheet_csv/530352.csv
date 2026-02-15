@@ -1,0 +1,285 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Dolphins
+info,gender,male
+info,season,2011/12
+info,date,2012/03/14
+info,event,MiWAY T20 Challenge
+info,match_number,32
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Knights
+info,toss_decision,bat
+info,player_of_match,MN van Wyk
+info,player_of_match,P Subrayen
+info,umpire,EC Hendrikse
+info,umpire,S George
+info,reserve_umpire,LB Gcuma
+info,tv_umpire,IL Howell
+info,match_referee,A Barnes
+info,winner,Knights
+info,winner_runs,8
+info,method,D/L
+info,player,Knights,MN van Wyk
+info,player,Knights,RR Rossouw
+info,player,Knights,RR Hendricks
+info,player,Knights,RT Bailey
+info,player,Knights,AJ Pienaar
+info,player,Knights,WL Coetsee
+info,player,Knights,R McLaren
+info,player,Knights,JJ van der Wath
+info,player,Knights,AR Swanepoel
+info,player,Knights,J Coetzee
+info,player,Knights,MP Siboto
+info,player,Dolphins,I Khan
+info,player,Dolphins,LE Bosman
+info,player,Dolphins,CS Delport
+info,player,Dolphins,C Chetty
+info,player,Dolphins,D Smit
+info,player,Dolphins,VB van Jaarsveld
+info,player,Dolphins,DA Miller
+info,player,Dolphins,R Frylinck
+info,player,Dolphins,KJ Abbott
+info,player,Dolphins,FH Edwards
+info,player,Dolphins,P Subrayen
+info,registry,people,A Barnes,f9607922
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,C Chetty,27ca3a11
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,D Smit,4bb02ef1
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,EC Hendrikse,3f2996c9
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,I Khan,719c5146
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,JJ van der Wath,6821ac10
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LE Bosman,73e749e1
+info,registry,people,MN van Wyk,710dd98c
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,R McLaren,c654af19
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RT Bailey,93a751e8
+info,registry,people,S George,6d9e5a54
+info,registry,people,VB van Jaarsveld,890b877d
+info,registry,people,WL Coetsee,5f419ace
+ball,1,0.1,Knights,MN van Wyk,RR Rossouw,KJ Abbott,0,0,,,,,,"",""
+ball,1,0.2,Knights,MN van Wyk,RR Rossouw,KJ Abbott,2,0,,,,,,"",""
+ball,1,0.3,Knights,MN van Wyk,RR Rossouw,KJ Abbott,1,0,,,,,,"",""
+ball,1,0.4,Knights,RR Rossouw,MN van Wyk,KJ Abbott,0,0,,,,,,"",""
+ball,1,0.5,Knights,RR Rossouw,MN van Wyk,KJ Abbott,0,0,,,,,,"",""
+ball,1,0.6,Knights,RR Rossouw,MN van Wyk,KJ Abbott,4,0,,,,,,"",""
+ball,1,1.1,Knights,MN van Wyk,RR Rossouw,FH Edwards,2,0,,,,,,"",""
+ball,1,1.2,Knights,MN van Wyk,RR Rossouw,FH Edwards,4,0,,,,,,"",""
+ball,1,1.3,Knights,MN van Wyk,RR Rossouw,FH Edwards,4,0,,,,,,"",""
+ball,1,1.4,Knights,MN van Wyk,RR Rossouw,FH Edwards,4,0,,,,,,"",""
+ball,1,1.5,Knights,MN van Wyk,RR Rossouw,FH Edwards,0,0,,,,,,"",""
+ball,1,1.6,Knights,MN van Wyk,RR Rossouw,FH Edwards,1,0,,,,,,"",""
+ball,1,2.1,Knights,MN van Wyk,RR Rossouw,R Frylinck,0,0,,,,,,"",""
+ball,1,2.2,Knights,MN van Wyk,RR Rossouw,R Frylinck,1,0,,,,,,"",""
+ball,1,2.3,Knights,RR Rossouw,MN van Wyk,R Frylinck,4,0,,,,,,"",""
+ball,1,2.4,Knights,RR Rossouw,MN van Wyk,R Frylinck,0,0,,,,,,"",""
+ball,1,2.5,Knights,RR Rossouw,MN van Wyk,R Frylinck,1,0,,,,,,"",""
+ball,1,2.6,Knights,MN van Wyk,RR Rossouw,R Frylinck,6,0,,,,,,"",""
+ball,1,3.1,Knights,RR Rossouw,MN van Wyk,FH Edwards,0,0,,,,,,"",""
+ball,1,3.2,Knights,RR Rossouw,MN van Wyk,FH Edwards,4,0,,,,,,"",""
+ball,1,3.3,Knights,RR Rossouw,MN van Wyk,FH Edwards,4,0,,,,,,"",""
+ball,1,3.4,Knights,RR Rossouw,MN van Wyk,FH Edwards,0,0,,,,,,"",""
+ball,1,3.5,Knights,RR Rossouw,MN van Wyk,FH Edwards,0,0,,,,,,"",""
+ball,1,3.6,Knights,RR Rossouw,MN van Wyk,FH Edwards,0,0,,,,,,"",""
+ball,1,4.1,Knights,MN van Wyk,RR Rossouw,KJ Abbott,1,0,,,,,,"",""
+ball,1,4.2,Knights,RR Rossouw,MN van Wyk,KJ Abbott,0,0,,,,,,caught,RR Rossouw
+ball,1,4.3,Knights,RR Hendricks,MN van Wyk,KJ Abbott,0,0,,,,,,"",""
+ball,1,4.4,Knights,RR Hendricks,MN van Wyk,KJ Abbott,1,0,,,,,,"",""
+ball,1,4.5,Knights,MN van Wyk,RR Hendricks,KJ Abbott,0,0,,,,,,"",""
+ball,1,4.6,Knights,MN van Wyk,RR Hendricks,KJ Abbott,0,0,,,,,,"",""
+ball,1,5.1,Knights,RR Hendricks,MN van Wyk,R Frylinck,0,1,1,,,,,"",""
+ball,1,5.2,Knights,RR Hendricks,MN van Wyk,R Frylinck,6,0,,,,,,"",""
+ball,1,5.3,Knights,RR Hendricks,MN van Wyk,R Frylinck,0,1,1,,,,,"",""
+ball,1,5.4,Knights,RR Hendricks,MN van Wyk,R Frylinck,0,0,,,,,,"",""
+ball,1,5.5,Knights,RR Hendricks,MN van Wyk,R Frylinck,0,1,,,,1,,"",""
+ball,1,5.6,Knights,MN van Wyk,RR Hendricks,R Frylinck,3,0,,,,,,"",""
+ball,1,5.7,Knights,RR Hendricks,MN van Wyk,R Frylinck,0,1,1,,,,,"",""
+ball,1,5.8,Knights,RR Hendricks,MN van Wyk,R Frylinck,0,0,,,,,,"",""
+ball,1,5.9,Knights,RR Hendricks,MN van Wyk,R Frylinck,1,0,,,,,,"",""
+ball,1,6.1,Knights,RR Hendricks,MN van Wyk,CS Delport,1,0,,,,,,"",""
+ball,1,6.2,Knights,MN van Wyk,RR Hendricks,CS Delport,1,0,,,,,,"",""
+ball,1,6.3,Knights,RR Hendricks,MN van Wyk,CS Delport,1,0,,,,,,"",""
+ball,1,6.4,Knights,MN van Wyk,RR Hendricks,CS Delport,1,0,,,,,,"",""
+ball,1,6.5,Knights,RR Hendricks,MN van Wyk,CS Delport,1,0,,,,,,"",""
+ball,1,6.6,Knights,MN van Wyk,RR Hendricks,CS Delport,0,0,,,,,,"",""
+ball,1,7.1,Knights,RR Hendricks,MN van Wyk,I Khan,0,0,,,,,,caught,RR Hendricks
+ball,1,7.2,Knights,RT Bailey,MN van Wyk,I Khan,0,0,,,,,,"",""
+ball,1,7.3,Knights,RT Bailey,MN van Wyk,I Khan,1,0,,,,,,"",""
+ball,1,7.4,Knights,MN van Wyk,RT Bailey,I Khan,0,0,,,,,,"",""
+ball,1,7.5,Knights,MN van Wyk,RT Bailey,I Khan,6,0,,,,,,"",""
+ball,1,7.6,Knights,MN van Wyk,RT Bailey,I Khan,0,0,,,,,,"",""
+ball,1,8.1,Knights,RT Bailey,MN van Wyk,CS Delport,1,0,,,,,,"",""
+ball,1,8.2,Knights,MN van Wyk,RT Bailey,CS Delport,1,0,,,,,,"",""
+ball,1,8.3,Knights,RT Bailey,MN van Wyk,CS Delport,0,0,,,,,,caught,RT Bailey
+ball,1,8.4,Knights,MN van Wyk,AJ Pienaar,CS Delport,0,1,1,,,,,"",""
+ball,1,8.5,Knights,MN van Wyk,AJ Pienaar,CS Delport,1,0,,,,,,"",""
+ball,1,8.6,Knights,AJ Pienaar,MN van Wyk,CS Delport,0,0,,,,,,"",""
+ball,1,8.7,Knights,AJ Pienaar,MN van Wyk,CS Delport,1,0,,,,,,"",""
+ball,1,9.1,Knights,AJ Pienaar,MN van Wyk,P Subrayen,0,1,1,,,,,"",""
+ball,1,9.2,Knights,AJ Pienaar,MN van Wyk,P Subrayen,1,0,,,,,,"",""
+ball,1,9.3,Knights,MN van Wyk,AJ Pienaar,P Subrayen,0,0,,,,,,"",""
+ball,1,9.4,Knights,MN van Wyk,AJ Pienaar,P Subrayen,0,0,,,,,,"",""
+ball,1,9.5,Knights,MN van Wyk,AJ Pienaar,P Subrayen,0,0,,,,,,"",""
+ball,1,9.6,Knights,MN van Wyk,AJ Pienaar,P Subrayen,1,0,,,,,,"",""
+ball,1,9.7,Knights,AJ Pienaar,MN van Wyk,P Subrayen,1,0,,,,,,"",""
+ball,1,10.1,Knights,AJ Pienaar,MN van Wyk,CS Delport,1,0,,,,,,"",""
+ball,1,10.2,Knights,MN van Wyk,AJ Pienaar,CS Delport,1,0,,,,,,"",""
+ball,1,10.3,Knights,AJ Pienaar,MN van Wyk,CS Delport,0,0,,,,,,"",""
+ball,1,10.4,Knights,AJ Pienaar,MN van Wyk,CS Delport,0,0,,,,,,"",""
+ball,1,10.5,Knights,AJ Pienaar,MN van Wyk,CS Delport,1,0,,,,,,"",""
+ball,1,10.6,Knights,MN van Wyk,AJ Pienaar,CS Delport,1,0,,,,,,"",""
+ball,1,11.1,Knights,MN van Wyk,AJ Pienaar,P Subrayen,3,0,,,,,,"",""
+ball,1,11.2,Knights,AJ Pienaar,MN van Wyk,P Subrayen,0,0,,,,,,caught,AJ Pienaar
+ball,1,11.3,Knights,MN van Wyk,WL Coetsee,P Subrayen,0,0,,,,,,"",""
+ball,1,11.4,Knights,MN van Wyk,WL Coetsee,P Subrayen,1,0,,,,,,"",""
+ball,1,11.5,Knights,WL Coetsee,MN van Wyk,P Subrayen,0,0,,,,,,"",""
+ball,1,11.6,Knights,WL Coetsee,MN van Wyk,P Subrayen,0,0,,,,,,"",""
+ball,1,12.1,Knights,MN van Wyk,WL Coetsee,CS Delport,0,0,,,,,,"",""
+ball,1,12.2,Knights,MN van Wyk,WL Coetsee,CS Delport,1,0,,,,,,"",""
+ball,1,12.3,Knights,WL Coetsee,MN van Wyk,CS Delport,0,0,,,,,,"",""
+ball,1,12.4,Knights,WL Coetsee,MN van Wyk,CS Delport,1,0,,,,,,"",""
+ball,1,12.5,Knights,MN van Wyk,WL Coetsee,CS Delport,1,0,,,,,,"",""
+ball,1,12.6,Knights,WL Coetsee,MN van Wyk,CS Delport,2,0,,,,,,"",""
+ball,1,13.1,Knights,MN van Wyk,WL Coetsee,P Subrayen,0,0,,,,,,"",""
+ball,1,13.2,Knights,MN van Wyk,WL Coetsee,P Subrayen,0,0,,,,,,"",""
+ball,1,13.3,Knights,MN van Wyk,WL Coetsee,P Subrayen,1,0,,,,,,"",""
+ball,1,13.4,Knights,WL Coetsee,MN van Wyk,P Subrayen,0,0,,,,,,"",""
+ball,1,13.5,Knights,WL Coetsee,MN van Wyk,P Subrayen,1,0,,,,,,"",""
+ball,1,13.6,Knights,MN van Wyk,WL Coetsee,P Subrayen,1,0,,,,,,"",""
+ball,1,14.1,Knights,MN van Wyk,WL Coetsee,R Frylinck,1,0,,,,,,"",""
+ball,1,14.2,Knights,WL Coetsee,MN van Wyk,R Frylinck,1,0,,,,,,"",""
+ball,1,14.3,Knights,MN van Wyk,WL Coetsee,R Frylinck,0,0,,,,,,"",""
+ball,1,14.4,Knights,MN van Wyk,WL Coetsee,R Frylinck,1,0,,,,,,"",""
+ball,1,14.5,Knights,WL Coetsee,MN van Wyk,R Frylinck,1,0,,,,,,"",""
+ball,1,14.6,Knights,MN van Wyk,WL Coetsee,R Frylinck,1,0,,,,,,"",""
+ball,1,15.1,Knights,MN van Wyk,WL Coetsee,P Subrayen,1,0,,,,,,"",""
+ball,1,15.2,Knights,WL Coetsee,MN van Wyk,P Subrayen,0,0,,,,,,caught,WL Coetsee
+ball,1,15.3,Knights,MN van Wyk,R McLaren,P Subrayen,0,0,,,,,,"",""
+ball,1,15.4,Knights,MN van Wyk,R McLaren,P Subrayen,0,0,,,,,,"",""
+ball,1,15.5,Knights,MN van Wyk,R McLaren,P Subrayen,0,0,,,,,,"",""
+ball,1,15.6,Knights,MN van Wyk,R McLaren,P Subrayen,1,0,,,,,,"",""
+ball,1,16.1,Knights,MN van Wyk,R McLaren,KJ Abbott,1,0,,,,,,"",""
+ball,1,16.2,Knights,R McLaren,MN van Wyk,KJ Abbott,1,0,,,,,,"",""
+ball,1,16.3,Knights,MN van Wyk,R McLaren,KJ Abbott,1,0,,,,,,"",""
+ball,1,16.4,Knights,R McLaren,MN van Wyk,KJ Abbott,1,0,,,,,,"",""
+ball,1,16.5,Knights,MN van Wyk,R McLaren,KJ Abbott,1,0,,,,,,"",""
+ball,1,16.6,Knights,R McLaren,MN van Wyk,KJ Abbott,0,0,,,,,,"",""
+ball,1,17.1,Knights,MN van Wyk,R McLaren,I Khan,0,0,,,,,,caught,MN van Wyk
+ball,1,17.2,Knights,R McLaren,JJ van der Wath,I Khan,0,1,1,,,,,"",""
+ball,1,17.3,Knights,R McLaren,JJ van der Wath,I Khan,1,0,,,,,,"",""
+ball,1,17.4,Knights,JJ van der Wath,R McLaren,I Khan,0,1,1,,,,,"",""
+ball,1,17.5,Knights,JJ van der Wath,R McLaren,I Khan,1,0,,,,,,"",""
+ball,1,17.6,Knights,R McLaren,JJ van der Wath,I Khan,0,0,,,,,,"",""
+ball,1,17.7,Knights,R McLaren,JJ van der Wath,I Khan,1,0,,,,,,"",""
+ball,1,17.8,Knights,JJ van der Wath,R McLaren,I Khan,1,0,,,,,,"",""
+ball,1,18.1,Knights,JJ van der Wath,R McLaren,KJ Abbott,0,0,,,,,,"",""
+ball,1,18.2,Knights,JJ van der Wath,R McLaren,KJ Abbott,4,0,,,,,,"",""
+ball,1,18.3,Knights,JJ van der Wath,R McLaren,KJ Abbott,0,1,,,,1,,"",""
+ball,1,18.4,Knights,R McLaren,JJ van der Wath,KJ Abbott,0,0,,,,,,run out,JJ van der Wath
+ball,1,18.5,Knights,R McLaren,AR Swanepoel,KJ Abbott,2,0,,,,,,"",""
+ball,1,18.6,Knights,R McLaren,AR Swanepoel,KJ Abbott,2,0,,,,,,"",""
+ball,1,19.1,Knights,AR Swanepoel,R McLaren,I Khan,4,0,,,,,,"",""
+ball,1,19.2,Knights,AR Swanepoel,R McLaren,I Khan,0,0,,,,,,caught,AR Swanepoel
+ball,1,19.3,Knights,J Coetzee,R McLaren,I Khan,1,0,,,,,,"",""
+ball,1,19.4,Knights,R McLaren,J Coetzee,I Khan,0,0,,,,,,bowled,R McLaren
+ball,1,19.5,Knights,MP Siboto,J Coetzee,I Khan,2,0,,,,,,"",""
+ball,1,19.6,Knights,MP Siboto,J Coetzee,I Khan,1,0,,,,,,"",""
+ball,2,0.1,Dolphins,I Khan,LE Bosman,MP Siboto,0,0,,,,,,"",""
+ball,2,0.2,Dolphins,I Khan,LE Bosman,MP Siboto,1,0,,,,,,"",""
+ball,2,0.3,Dolphins,LE Bosman,I Khan,MP Siboto,1,0,,,,,,"",""
+ball,2,0.4,Dolphins,I Khan,LE Bosman,MP Siboto,0,0,,,,,,"",""
+ball,2,0.5,Dolphins,I Khan,LE Bosman,MP Siboto,1,0,,,,,,"",""
+ball,2,0.6,Dolphins,LE Bosman,I Khan,MP Siboto,1,0,,,,,,"",""
+ball,2,1.1,Dolphins,LE Bosman,I Khan,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.2,Dolphins,LE Bosman,I Khan,JJ van der Wath,1,0,,,,,,"",""
+ball,2,1.3,Dolphins,I Khan,LE Bosman,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.4,Dolphins,I Khan,LE Bosman,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.5,Dolphins,I Khan,LE Bosman,JJ van der Wath,0,0,,,,,,"",""
+ball,2,1.6,Dolphins,I Khan,LE Bosman,JJ van der Wath,0,0,,,,,,"",""
+ball,2,2.1,Dolphins,LE Bosman,I Khan,R McLaren,0,0,,,,,,"",""
+ball,2,2.2,Dolphins,LE Bosman,I Khan,R McLaren,0,0,,,,,,"",""
+ball,2,2.3,Dolphins,LE Bosman,I Khan,R McLaren,0,0,,,,,,"",""
+ball,2,2.4,Dolphins,LE Bosman,I Khan,R McLaren,1,0,,,,,,"",""
+ball,2,2.5,Dolphins,I Khan,LE Bosman,R McLaren,4,0,,,,,,"",""
+ball,2,2.6,Dolphins,I Khan,LE Bosman,R McLaren,1,0,,,,,,"",""
+ball,2,3.1,Dolphins,I Khan,LE Bosman,JJ van der Wath,1,0,,,,,,"",""
+ball,2,3.2,Dolphins,LE Bosman,I Khan,JJ van der Wath,0,0,,,,,,"",""
+ball,2,3.3,Dolphins,LE Bosman,I Khan,JJ van der Wath,1,0,,,,,,"",""
+ball,2,3.4,Dolphins,I Khan,LE Bosman,JJ van der Wath,0,0,,,,,,"",""
+ball,2,3.5,Dolphins,I Khan,LE Bosman,JJ van der Wath,0,2,,,2,,,"",""
+ball,2,3.6,Dolphins,I Khan,LE Bosman,JJ van der Wath,2,0,,,,,,"",""
+ball,2,4.1,Dolphins,LE Bosman,I Khan,R McLaren,0,0,,,,,,caught,LE Bosman
+ball,2,4.2,Dolphins,CS Delport,I Khan,R McLaren,0,0,,,,,,"",""
+ball,2,4.3,Dolphins,CS Delport,I Khan,R McLaren,0,0,,,,,,"",""
+ball,2,4.4,Dolphins,CS Delport,I Khan,R McLaren,0,0,,,,,,"",""
+ball,2,4.5,Dolphins,CS Delport,I Khan,R McLaren,4,0,,,,,,"",""
+ball,2,4.6,Dolphins,CS Delport,I Khan,R McLaren,0,0,,,,,,"",""
+ball,2,5.1,Dolphins,I Khan,CS Delport,JJ van der Wath,1,0,,,,,,"",""
+ball,2,5.2,Dolphins,CS Delport,I Khan,JJ van der Wath,2,0,,,,,,"",""
+ball,2,5.3,Dolphins,CS Delport,I Khan,JJ van der Wath,0,0,,,,,,"",""
+ball,2,5.4,Dolphins,CS Delport,I Khan,JJ van der Wath,1,0,,,,,,"",""
+ball,2,5.5,Dolphins,I Khan,CS Delport,JJ van der Wath,2,0,,,,,,"",""
+ball,2,5.6,Dolphins,I Khan,CS Delport,JJ van der Wath,0,0,,,,,,"",""
+ball,2,6.1,Dolphins,CS Delport,I Khan,MP Siboto,0,0,,,,,,"",""
+ball,2,6.2,Dolphins,CS Delport,I Khan,MP Siboto,0,0,,,,,,"",""
+ball,2,6.3,Dolphins,CS Delport,I Khan,MP Siboto,0,0,,,,,,"",""
+ball,2,6.4,Dolphins,CS Delport,I Khan,MP Siboto,1,0,,,,,,"",""
+ball,2,6.5,Dolphins,I Khan,CS Delport,MP Siboto,1,0,,,,,,"",""
+ball,2,6.6,Dolphins,CS Delport,I Khan,MP Siboto,0,1,1,,,,,"",""
+ball,2,6.7,Dolphins,CS Delport,I Khan,MP Siboto,0,0,,,,,,"",""
+ball,2,7.1,Dolphins,I Khan,CS Delport,WL Coetsee,0,1,,,1,,,"",""
+ball,2,7.2,Dolphins,CS Delport,I Khan,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.3,Dolphins,I Khan,CS Delport,WL Coetsee,0,0,,,,,,stumped,I Khan
+ball,2,7.4,Dolphins,C Chetty,CS Delport,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.5,Dolphins,CS Delport,C Chetty,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.6,Dolphins,C Chetty,CS Delport,WL Coetsee,0,0,,,,,,"",""
+ball,2,8.1,Dolphins,CS Delport,C Chetty,AR Swanepoel,1,0,,,,,,"",""
+ball,2,8.2,Dolphins,C Chetty,CS Delport,AR Swanepoel,1,0,,,,,,"",""
+ball,2,8.3,Dolphins,CS Delport,C Chetty,AR Swanepoel,1,0,,,,,,"",""
+ball,2,8.4,Dolphins,C Chetty,CS Delport,AR Swanepoel,0,1,1,,,,,"",""
+ball,2,8.5,Dolphins,C Chetty,CS Delport,AR Swanepoel,1,0,,,,,,"",""
+ball,2,8.6,Dolphins,CS Delport,C Chetty,AR Swanepoel,1,0,,,,,,"",""
+ball,2,8.7,Dolphins,C Chetty,CS Delport,AR Swanepoel,0,1,,,1,,,"",""
+ball,2,9.1,Dolphins,C Chetty,CS Delport,WL Coetsee,0,0,,,,,,"",""
+ball,2,9.2,Dolphins,C Chetty,CS Delport,WL Coetsee,0,0,,,,,,"",""
+ball,2,9.3,Dolphins,C Chetty,CS Delport,WL Coetsee,0,0,,,,,,"",""
+ball,2,9.4,Dolphins,C Chetty,CS Delport,WL Coetsee,1,0,,,,,,"",""
+ball,2,9.5,Dolphins,CS Delport,C Chetty,WL Coetsee,6,0,,,,,,"",""
+ball,2,9.6,Dolphins,CS Delport,C Chetty,WL Coetsee,0,0,,,,,,"",""
+ball,2,10.1,Dolphins,C Chetty,CS Delport,J Coetzee,1,0,,,,,,"",""
+ball,2,10.2,Dolphins,CS Delport,C Chetty,J Coetzee,4,0,,,,,,"",""
+ball,2,10.3,Dolphins,CS Delport,C Chetty,J Coetzee,0,0,,,,,,"",""
+ball,2,10.4,Dolphins,CS Delport,C Chetty,J Coetzee,0,0,,,,,,"",""
+ball,2,10.5,Dolphins,CS Delport,C Chetty,J Coetzee,1,0,,,,,,"",""
+ball,2,10.6,Dolphins,C Chetty,CS Delport,J Coetzee,0,0,,,,,,bowled,C Chetty
+ball,2,11.1,Dolphins,CS Delport,D Smit,MP Siboto,1,0,,,,,,"",""
+ball,2,11.2,Dolphins,D Smit,CS Delport,MP Siboto,1,0,,,,,,"",""
+ball,2,11.3,Dolphins,CS Delport,D Smit,MP Siboto,0,0,,,,,,"",""
+ball,2,11.4,Dolphins,CS Delport,D Smit,MP Siboto,1,0,,,,,,"",""
+ball,2,11.5,Dolphins,D Smit,CS Delport,MP Siboto,0,0,,,,,,"",""
+ball,2,11.6,Dolphins,D Smit,CS Delport,MP Siboto,1,0,,,,,,"",""
+ball,2,12.1,Dolphins,D Smit,CS Delport,R McLaren,0,0,,,,,,"",""
+ball,2,12.2,Dolphins,D Smit,CS Delport,R McLaren,1,0,,,,,,"",""
+ball,2,12.3,Dolphins,CS Delport,D Smit,R McLaren,6,0,,,,,,"",""
+ball,2,12.4,Dolphins,CS Delport,D Smit,R McLaren,4,0,,,,,,"",""
+ball,2,12.5,Dolphins,CS Delport,D Smit,R McLaren,0,0,,,,,,"",""
+ball,2,12.6,Dolphins,CS Delport,D Smit,R McLaren,0,1,1,,,,,"",""
+ball,2,12.7,Dolphins,CS Delport,D Smit,R McLaren,0,0,,,,,,"",""
+ball,2,13.1,Dolphins,D Smit,CS Delport,J Coetzee,4,0,,,,,,"",""
+ball,2,13.2,Dolphins,D Smit,CS Delport,J Coetzee,1,0,,,,,,"",""
+ball,2,13.3,Dolphins,CS Delport,D Smit,J Coetzee,0,0,,,,,,bowled,CS Delport
+ball,2,13.4,Dolphins,VB van Jaarsveld,D Smit,J Coetzee,1,0,,,,,,"",""
+ball,2,13.5,Dolphins,D Smit,VB van Jaarsveld,J Coetzee,1,0,,,,,,"",""

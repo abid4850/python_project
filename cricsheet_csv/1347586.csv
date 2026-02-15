@@ -1,0 +1,304 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Sussex
+info,gender,male
+info,season,2023
+info,date,2023/05/28
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Sussex
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,PK Baldwin
+info,match_referee,SJ Davis
+info,winner,Sussex
+info,winner_wickets,5
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,SM Curran
+info,player,Surrey,TK Curran
+info,player,Surrey,SP Narine
+info,player,Surrey,JL Smith
+info,player,Surrey,J Clark
+info,player,Surrey,J Overton
+info,player,Surrey,CT Steel
+info,player,Surrey,TE Lawes
+info,player,Surrey,DJ Worrall
+info,player,Sussex,TGR Clark
+info,player,Sussex,AGH Orr
+info,player,Sussex,TP Alsop
+info,player,Sussex,RS Bopara
+info,player,Sussex,GHS Garton
+info,player,Sussex,MGK Burgess
+info,player,Sussex,JM Coles
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,TS Mills
+info,player,Sussex,AC Lenham
+info,player,Sussex,HT Crocombe
+info,registry,people,AC Lenham,8f9c5014
+info,registry,people,AGH Orr,1ab18b25
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,CT Steel,5899dceb
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Overton,59559bc2
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,TE Lawes,fe2ac1a8
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Surrey,WG Jacks,LJ Evans,JM Coles,1,0,,,,,,"",""
+ball,1,0.2,Surrey,LJ Evans,WG Jacks,JM Coles,0,0,,,,,,"",""
+ball,1,0.3,Surrey,LJ Evans,WG Jacks,JM Coles,0,0,,,,,,"",""
+ball,1,0.4,Surrey,LJ Evans,WG Jacks,JM Coles,1,0,,,,,,"",""
+ball,1,0.5,Surrey,WG Jacks,LJ Evans,JM Coles,1,0,,,,,,"",""
+ball,1,0.6,Surrey,LJ Evans,WG Jacks,JM Coles,1,0,,,,,,"",""
+ball,1,1.1,Surrey,LJ Evans,WG Jacks,GHS Garton,4,0,,,,,,"",""
+ball,1,1.2,Surrey,LJ Evans,WG Jacks,GHS Garton,1,0,,,,,,"",""
+ball,1,1.3,Surrey,WG Jacks,LJ Evans,GHS Garton,1,0,,,,,,"",""
+ball,1,1.4,Surrey,LJ Evans,WG Jacks,GHS Garton,0,0,,,,,,"",""
+ball,1,1.5,Surrey,LJ Evans,WG Jacks,GHS Garton,0,0,,,,,,"",""
+ball,1,1.6,Surrey,LJ Evans,WG Jacks,GHS Garton,4,0,,,,,,"",""
+ball,1,2.1,Surrey,WG Jacks,LJ Evans,JM Coles,4,0,,,,,,"",""
+ball,1,2.2,Surrey,WG Jacks,LJ Evans,JM Coles,1,0,,,,,,"",""
+ball,1,2.3,Surrey,LJ Evans,WG Jacks,JM Coles,0,0,,,,,,"",""
+ball,1,2.4,Surrey,LJ Evans,WG Jacks,JM Coles,6,0,,,,,,"",""
+ball,1,2.5,Surrey,LJ Evans,WG Jacks,JM Coles,1,0,,,,,,"",""
+ball,1,2.6,Surrey,WG Jacks,LJ Evans,JM Coles,4,0,,,,,,"",""
+ball,1,3.1,Surrey,LJ Evans,WG Jacks,FJ Hudson-Prentice,0,1,,,,1,,"",""
+ball,1,3.2,Surrey,WG Jacks,LJ Evans,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,3.3,Surrey,LJ Evans,WG Jacks,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,3.4,Surrey,WG Jacks,LJ Evans,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,3.5,Surrey,WG Jacks,LJ Evans,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,3.6,Surrey,WG Jacks,LJ Evans,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,4.1,Surrey,LJ Evans,WG Jacks,TS Mills,0,0,,,,,,"",""
+ball,1,4.2,Surrey,LJ Evans,WG Jacks,TS Mills,0,0,,,,,,"",""
+ball,1,4.3,Surrey,LJ Evans,WG Jacks,TS Mills,4,0,,,,,,"",""
+ball,1,4.4,Surrey,LJ Evans,WG Jacks,TS Mills,0,0,,,,,,bowled,LJ Evans
+ball,1,4.5,Surrey,SM Curran,WG Jacks,TS Mills,0,0,,,,,,"",""
+ball,1,4.6,Surrey,SM Curran,WG Jacks,TS Mills,1,0,,,,,,"",""
+ball,1,5.1,Surrey,SM Curran,WG Jacks,HT Crocombe,1,0,,,,,,"",""
+ball,1,5.2,Surrey,WG Jacks,SM Curran,HT Crocombe,0,0,,,,,,caught,WG Jacks
+ball,1,5.3,Surrey,TK Curran,SM Curran,HT Crocombe,2,0,,,,,,"",""
+ball,1,5.4,Surrey,TK Curran,SM Curran,HT Crocombe,1,0,,,,,,"",""
+ball,1,5.5,Surrey,SM Curran,TK Curran,HT Crocombe,0,0,,,,,,"",""
+ball,1,5.6,Surrey,SM Curran,TK Curran,HT Crocombe,0,0,,,,,,"",""
+ball,1,6.1,Surrey,TK Curran,SM Curran,AC Lenham,6,0,,,,,,"",""
+ball,1,6.2,Surrey,TK Curran,SM Curran,AC Lenham,0,0,,,,,,"",""
+ball,1,6.3,Surrey,TK Curran,SM Curran,AC Lenham,1,0,,,,,,"",""
+ball,1,6.4,Surrey,SM Curran,TK Curran,AC Lenham,0,0,,,,,,"",""
+ball,1,6.5,Surrey,SM Curran,TK Curran,AC Lenham,0,0,,,,,,caught,SM Curran
+ball,1,6.6,Surrey,SP Narine,TK Curran,AC Lenham,0,0,,,,,,"",""
+ball,1,7.1,Surrey,TK Curran,SP Narine,HT Crocombe,1,0,,,,,,"",""
+ball,1,7.2,Surrey,SP Narine,TK Curran,HT Crocombe,4,0,,,,,,"",""
+ball,1,7.3,Surrey,SP Narine,TK Curran,HT Crocombe,1,0,,,,,,"",""
+ball,1,7.4,Surrey,TK Curran,SP Narine,HT Crocombe,1,0,,,,,,"",""
+ball,1,7.5,Surrey,SP Narine,TK Curran,HT Crocombe,0,1,1,,,,,"",""
+ball,1,7.6,Surrey,SP Narine,TK Curran,HT Crocombe,0,1,,,,1,,"",""
+ball,1,7.7,Surrey,TK Curran,SP Narine,HT Crocombe,0,4,,,,4,,"",""
+ball,1,8.1,Surrey,SP Narine,TK Curran,GHS Garton,1,0,,,,,,"",""
+ball,1,8.2,Surrey,TK Curran,SP Narine,GHS Garton,0,0,,,,,,"",""
+ball,1,8.3,Surrey,TK Curran,SP Narine,GHS Garton,2,0,,,,,,"",""
+ball,1,8.4,Surrey,TK Curran,SP Narine,GHS Garton,0,0,,,,,,"",""
+ball,1,8.5,Surrey,TK Curran,SP Narine,GHS Garton,1,0,,,,,,"",""
+ball,1,8.6,Surrey,SP Narine,TK Curran,GHS Garton,1,0,,,,,,"",""
+ball,1,9.1,Surrey,SP Narine,TK Curran,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,9.2,Surrey,SP Narine,TK Curran,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,1,9.3,Surrey,SP Narine,TK Curran,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,9.4,Surrey,SP Narine,TK Curran,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,9.5,Surrey,SP Narine,TK Curran,FJ Hudson-Prentice,0,1,,,1,,,"",""
+ball,1,9.6,Surrey,TK Curran,SP Narine,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,10.1,Surrey,SP Narine,TK Curran,TS Mills,0,0,,,,,,"",""
+ball,1,10.2,Surrey,SP Narine,TK Curran,TS Mills,6,0,,,,,,"",""
+ball,1,10.3,Surrey,SP Narine,TK Curran,TS Mills,0,0,,,,,,"",""
+ball,1,10.4,Surrey,SP Narine,TK Curran,TS Mills,0,4,,,4,,,"",""
+ball,1,10.5,Surrey,SP Narine,TK Curran,TS Mills,0,1,,,,1,,"",""
+ball,1,10.6,Surrey,TK Curran,SP Narine,TS Mills,0,1,1,,,,,"",""
+ball,1,10.7,Surrey,TK Curran,SP Narine,TS Mills,1,0,,,,,,"",""
+ball,1,11.1,Surrey,TK Curran,SP Narine,RS Bopara,0,0,,,,,,"",""
+ball,1,11.2,Surrey,TK Curran,SP Narine,RS Bopara,0,0,,,,,,"",""
+ball,1,11.3,Surrey,TK Curran,SP Narine,RS Bopara,0,0,,,,,,"",""
+ball,1,11.4,Surrey,TK Curran,SP Narine,RS Bopara,1,0,,,,,,"",""
+ball,1,11.5,Surrey,SP Narine,TK Curran,RS Bopara,6,0,,,,,,"",""
+ball,1,11.6,Surrey,SP Narine,TK Curran,RS Bopara,0,0,,,,,,caught,SP Narine
+ball,1,12.1,Surrey,TK Curran,JL Smith,AC Lenham,1,0,,,,,,"",""
+ball,1,12.2,Surrey,JL Smith,TK Curran,AC Lenham,2,0,,,,,,"",""
+ball,1,12.3,Surrey,JL Smith,TK Curran,AC Lenham,1,0,,,,,,"",""
+ball,1,12.4,Surrey,TK Curran,JL Smith,AC Lenham,1,0,,,,,,"",""
+ball,1,12.5,Surrey,JL Smith,TK Curran,AC Lenham,0,0,,,,,,"",""
+ball,1,12.6,Surrey,JL Smith,TK Curran,AC Lenham,1,0,,,,,,"",""
+ball,1,13.1,Surrey,JL Smith,TK Curran,RS Bopara,2,0,,,,,,"",""
+ball,1,13.2,Surrey,JL Smith,TK Curran,RS Bopara,2,0,,,,,,"",""
+ball,1,13.3,Surrey,JL Smith,TK Curran,RS Bopara,1,0,,,,,,"",""
+ball,1,13.4,Surrey,TK Curran,JL Smith,RS Bopara,0,0,,,,,,caught,TK Curran
+ball,1,13.5,Surrey,J Clark,JL Smith,RS Bopara,1,0,,,,,,"",""
+ball,1,13.6,Surrey,JL Smith,J Clark,RS Bopara,1,0,,,,,,"",""
+ball,1,14.1,Surrey,JL Smith,J Clark,AC Lenham,0,0,,,,,,"",""
+ball,1,14.2,Surrey,JL Smith,J Clark,AC Lenham,4,0,,,,,,"",""
+ball,1,14.3,Surrey,JL Smith,J Clark,AC Lenham,1,0,,,,,,"",""
+ball,1,14.4,Surrey,J Clark,JL Smith,AC Lenham,1,0,,,,,,"",""
+ball,1,14.5,Surrey,JL Smith,J Clark,AC Lenham,0,0,,,,,,"",""
+ball,1,14.6,Surrey,JL Smith,J Clark,AC Lenham,4,0,,,,,,"",""
+ball,1,15.1,Surrey,J Clark,JL Smith,RS Bopara,1,0,,,,,,"",""
+ball,1,15.2,Surrey,JL Smith,J Clark,RS Bopara,0,0,,,,,,bowled,JL Smith
+ball,1,15.3,Surrey,J Overton,J Clark,RS Bopara,0,0,,,,,,"",""
+ball,1,15.4,Surrey,J Overton,J Clark,RS Bopara,0,0,,,,,,"",""
+ball,1,15.5,Surrey,J Overton,J Clark,RS Bopara,1,0,,,,,,"",""
+ball,1,15.6,Surrey,J Clark,J Overton,RS Bopara,2,0,,,,,,"",""
+ball,1,16.1,Surrey,J Overton,J Clark,TS Mills,1,0,,,,,,"",""
+ball,1,16.2,Surrey,J Clark,J Overton,TS Mills,0,1,,,1,,,"",""
+ball,1,16.3,Surrey,J Overton,J Clark,TS Mills,1,0,,,,,,"",""
+ball,1,16.4,Surrey,J Clark,J Overton,TS Mills,1,0,,,,,,"",""
+ball,1,16.5,Surrey,J Overton,J Clark,TS Mills,4,0,,,,,,"",""
+ball,1,16.6,Surrey,J Overton,J Clark,TS Mills,1,0,,,,,,"",""
+ball,1,17.1,Surrey,J Overton,J Clark,GHS Garton,2,0,,,,,,"",""
+ball,1,17.2,Surrey,J Overton,J Clark,GHS Garton,2,0,,,,,,"",""
+ball,1,17.3,Surrey,J Overton,J Clark,GHS Garton,1,0,,,,,,"",""
+ball,1,17.4,Surrey,J Clark,J Overton,GHS Garton,0,0,,,,,,"",""
+ball,1,17.5,Surrey,J Clark,J Overton,GHS Garton,1,0,,,,,,"",""
+ball,1,17.6,Surrey,J Overton,J Clark,GHS Garton,0,1,,,,1,,"",""
+ball,1,18.1,Surrey,J Overton,J Clark,TS Mills,0,1,1,,,,,"",""
+ball,1,18.2,Surrey,J Overton,J Clark,TS Mills,0,0,,,,,,bowled,J Overton
+ball,1,18.3,Surrey,CT Steel,J Clark,TS Mills,0,0,,,,,,"",""
+ball,1,18.4,Surrey,CT Steel,J Clark,TS Mills,0,0,,,,,,"",""
+ball,1,18.5,Surrey,CT Steel,J Clark,TS Mills,0,0,,,,,,"",""
+ball,1,18.6,Surrey,CT Steel,J Clark,TS Mills,0,0,,,,,,"",""
+ball,1,18.7,Surrey,CT Steel,J Clark,TS Mills,1,0,,,,,,run out,CT Steel
+ball,1,19.1,Surrey,J Clark,TE Lawes,GHS Garton,1,0,,,,,,run out,TE Lawes
+ball,1,19.2,Surrey,J Clark,DJ Worrall,GHS Garton,0,0,,,,,,"",""
+ball,1,19.3,Surrey,J Clark,DJ Worrall,GHS Garton,0,0,,,,,,bowled,J Clark
+ball,2,0.1,Sussex,TGR Clark,AGH Orr,WG Jacks,1,0,,,,,,"",""
+ball,2,0.2,Sussex,AGH Orr,TGR Clark,WG Jacks,0,0,,,,,,"",""
+ball,2,0.3,Sussex,AGH Orr,TGR Clark,WG Jacks,1,0,,,,,,"",""
+ball,2,0.4,Sussex,TGR Clark,AGH Orr,WG Jacks,0,0,,,,,,"",""
+ball,2,0.5,Sussex,TGR Clark,AGH Orr,WG Jacks,4,0,,,,,,"",""
+ball,2,0.6,Sussex,TGR Clark,AGH Orr,WG Jacks,1,0,,,,,,"",""
+ball,2,1.1,Sussex,TGR Clark,AGH Orr,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.2,Sussex,TGR Clark,AGH Orr,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.3,Sussex,TGR Clark,AGH Orr,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.4,Sussex,TGR Clark,AGH Orr,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.5,Sussex,TGR Clark,AGH Orr,DJ Worrall,1,0,,,,,,"",""
+ball,2,1.6,Sussex,AGH Orr,TGR Clark,DJ Worrall,0,1,,,,1,,"",""
+ball,2,2.1,Sussex,AGH Orr,TGR Clark,WG Jacks,6,0,,,,,,"",""
+ball,2,2.2,Sussex,AGH Orr,TGR Clark,WG Jacks,1,0,,,,,,"",""
+ball,2,2.3,Sussex,TGR Clark,AGH Orr,WG Jacks,1,0,,,,,,"",""
+ball,2,2.4,Sussex,AGH Orr,TGR Clark,WG Jacks,0,0,,,,,,"",""
+ball,2,2.5,Sussex,AGH Orr,TGR Clark,WG Jacks,4,0,,,,,,"",""
+ball,2,2.6,Sussex,AGH Orr,TGR Clark,WG Jacks,6,0,,,,,,"",""
+ball,2,3.1,Sussex,TGR Clark,AGH Orr,DJ Worrall,1,0,,,,,,"",""
+ball,2,3.2,Sussex,AGH Orr,TGR Clark,DJ Worrall,0,0,,,,,,"",""
+ball,2,3.3,Sussex,AGH Orr,TGR Clark,DJ Worrall,0,0,,,,,,"",""
+ball,2,3.4,Sussex,AGH Orr,TGR Clark,DJ Worrall,1,0,,,,,,"",""
+ball,2,3.5,Sussex,TGR Clark,AGH Orr,DJ Worrall,0,0,,,,,,caught,TGR Clark
+ball,2,3.6,Sussex,TP Alsop,AGH Orr,DJ Worrall,1,0,,,,,,"",""
+ball,2,4.1,Sussex,TP Alsop,AGH Orr,SM Curran,0,0,,,,,,"",""
+ball,2,4.2,Sussex,TP Alsop,AGH Orr,SM Curran,0,0,,,,,,"",""
+ball,2,4.3,Sussex,TP Alsop,AGH Orr,SM Curran,0,0,,,,,,"",""
+ball,2,4.4,Sussex,TP Alsop,AGH Orr,SM Curran,0,0,,,,,,"",""
+ball,2,4.5,Sussex,TP Alsop,AGH Orr,SM Curran,1,0,,,,,,"",""
+ball,2,4.6,Sussex,AGH Orr,TP Alsop,SM Curran,1,0,,,,,,"",""
+ball,2,5.1,Sussex,AGH Orr,TP Alsop,TE Lawes,0,0,,,,,,"",""
+ball,2,5.2,Sussex,AGH Orr,TP Alsop,TE Lawes,4,0,,,,,,"",""
+ball,2,5.3,Sussex,AGH Orr,TP Alsop,TE Lawes,0,0,,,,,,caught,AGH Orr
+ball,2,5.4,Sussex,RS Bopara,TP Alsop,TE Lawes,0,0,,,,,,"",""
+ball,2,5.5,Sussex,RS Bopara,TP Alsop,TE Lawes,0,0,,,,,,"",""
+ball,2,5.6,Sussex,RS Bopara,TP Alsop,TE Lawes,1,0,,,,,,"",""
+ball,2,6.1,Sussex,RS Bopara,TP Alsop,SP Narine,1,0,,,,,,"",""
+ball,2,6.2,Sussex,TP Alsop,RS Bopara,SP Narine,1,0,,,,,,"",""
+ball,2,6.3,Sussex,RS Bopara,TP Alsop,SP Narine,0,0,,,,,,caught,RS Bopara
+ball,2,6.4,Sussex,GHS Garton,TP Alsop,SP Narine,0,0,,,,,,"",""
+ball,2,6.5,Sussex,GHS Garton,TP Alsop,SP Narine,1,0,,,,,,"",""
+ball,2,6.6,Sussex,TP Alsop,GHS Garton,SP Narine,0,0,,,,,,"",""
+ball,2,7.1,Sussex,GHS Garton,TP Alsop,WG Jacks,1,0,,,,,,"",""
+ball,2,7.2,Sussex,TP Alsop,GHS Garton,WG Jacks,1,0,,,,,,"",""
+ball,2,7.3,Sussex,GHS Garton,TP Alsop,WG Jacks,1,0,,,,,,"",""
+ball,2,7.4,Sussex,TP Alsop,GHS Garton,WG Jacks,1,0,,,,,,"",""
+ball,2,7.5,Sussex,GHS Garton,TP Alsop,WG Jacks,0,0,,,,,,"",""
+ball,2,7.6,Sussex,GHS Garton,TP Alsop,WG Jacks,0,0,,,,,,"",""
+ball,2,8.1,Sussex,TP Alsop,GHS Garton,SP Narine,0,0,,,,,,"",""
+ball,2,8.2,Sussex,TP Alsop,GHS Garton,SP Narine,0,0,,,,,,"",""
+ball,2,8.3,Sussex,TP Alsop,GHS Garton,SP Narine,1,0,,,,,,"",""
+ball,2,8.4,Sussex,GHS Garton,TP Alsop,SP Narine,1,0,,,,,,"",""
+ball,2,8.5,Sussex,TP Alsop,GHS Garton,SP Narine,0,0,,,,,,"",""
+ball,2,8.6,Sussex,TP Alsop,GHS Garton,SP Narine,4,0,,,,,,"",""
+ball,2,9.1,Sussex,GHS Garton,TP Alsop,SM Curran,1,0,,,,,,"",""
+ball,2,9.2,Sussex,TP Alsop,GHS Garton,SM Curran,1,0,,,,,,"",""
+ball,2,9.3,Sussex,GHS Garton,TP Alsop,SM Curran,1,0,,,,,,"",""
+ball,2,9.4,Sussex,TP Alsop,GHS Garton,SM Curran,0,1,1,,,,,"",""
+ball,2,9.5,Sussex,TP Alsop,GHS Garton,SM Curran,1,0,,,,,,"",""
+ball,2,9.6,Sussex,GHS Garton,TP Alsop,SM Curran,0,0,,,,,,"",""
+ball,2,9.7,Sussex,GHS Garton,TP Alsop,SM Curran,1,0,,,,,,"",""
+ball,2,10.1,Sussex,GHS Garton,TP Alsop,SP Narine,0,0,,,,,,stumped,GHS Garton
+ball,2,10.2,Sussex,MGK Burgess,TP Alsop,SP Narine,0,0,,,,,,"",""
+ball,2,10.3,Sussex,MGK Burgess,TP Alsop,SP Narine,0,1,,,,1,,"",""
+ball,2,10.4,Sussex,TP Alsop,MGK Burgess,SP Narine,0,0,,,,,,"",""
+ball,2,10.5,Sussex,TP Alsop,MGK Burgess,SP Narine,0,0,,,,,,"",""
+ball,2,10.6,Sussex,TP Alsop,MGK Burgess,SP Narine,0,0,,,,,,"",""
+ball,2,11.1,Sussex,MGK Burgess,TP Alsop,CT Steel,0,0,,,,,,"",""
+ball,2,11.2,Sussex,MGK Burgess,TP Alsop,CT Steel,1,0,,,,,,"",""
+ball,2,11.3,Sussex,TP Alsop,MGK Burgess,CT Steel,6,0,,,,,,"",""
+ball,2,11.4,Sussex,TP Alsop,MGK Burgess,CT Steel,0,0,,,,,,"",""
+ball,2,11.5,Sussex,TP Alsop,MGK Burgess,CT Steel,0,0,,,,,,"",""
+ball,2,11.6,Sussex,TP Alsop,MGK Burgess,CT Steel,0,0,,,,,,"",""
+ball,2,12.1,Sussex,MGK Burgess,TP Alsop,TE Lawes,1,0,,,,,,"",""
+ball,2,12.2,Sussex,TP Alsop,MGK Burgess,TE Lawes,1,0,,,,,,"",""
+ball,2,12.3,Sussex,MGK Burgess,TP Alsop,TE Lawes,1,0,,,,,,"",""
+ball,2,12.4,Sussex,TP Alsop,MGK Burgess,TE Lawes,0,0,,,,,,"",""
+ball,2,12.5,Sussex,TP Alsop,MGK Burgess,TE Lawes,1,0,,,,,,"",""
+ball,2,12.6,Sussex,MGK Burgess,TP Alsop,TE Lawes,1,0,,,,,,"",""
+ball,2,13.1,Sussex,MGK Burgess,TP Alsop,SP Narine,4,0,,,,,,"",""
+ball,2,13.2,Sussex,MGK Burgess,TP Alsop,SP Narine,1,0,,,,,,"",""
+ball,2,13.3,Sussex,TP Alsop,MGK Burgess,SP Narine,1,0,,,,,,"",""
+ball,2,13.4,Sussex,MGK Burgess,TP Alsop,SP Narine,1,0,,,,,,"",""
+ball,2,13.5,Sussex,TP Alsop,MGK Burgess,SP Narine,1,0,,,,,,"",""
+ball,2,13.6,Sussex,MGK Burgess,TP Alsop,SP Narine,1,0,,,,,,"",""
+ball,2,14.1,Sussex,MGK Burgess,TP Alsop,DJ Worrall,2,0,,,,,,"",""
+ball,2,14.2,Sussex,MGK Burgess,TP Alsop,DJ Worrall,4,0,,,,,,"",""
+ball,2,14.3,Sussex,MGK Burgess,TP Alsop,DJ Worrall,6,0,,,,,,"",""
+ball,2,14.4,Sussex,MGK Burgess,TP Alsop,DJ Worrall,2,0,,,,,,"",""
+ball,2,14.5,Sussex,MGK Burgess,TP Alsop,DJ Worrall,1,0,,,,,,"",""
+ball,2,14.6,Sussex,TP Alsop,MGK Burgess,DJ Worrall,4,0,,,,,,"",""
+ball,2,15.1,Sussex,MGK Burgess,TP Alsop,SM Curran,4,0,,,,,,"",""
+ball,2,15.2,Sussex,MGK Burgess,TP Alsop,SM Curran,1,0,,,,,,"",""
+ball,2,15.3,Sussex,TP Alsop,MGK Burgess,SM Curran,0,0,,,,,,"",""
+ball,2,15.4,Sussex,TP Alsop,MGK Burgess,SM Curran,1,0,,,,,,"",""
+ball,2,15.5,Sussex,MGK Burgess,TP Alsop,SM Curran,4,0,,,,,,"",""
+ball,2,15.6,Sussex,MGK Burgess,TP Alsop,SM Curran,0,0,,,,,,"",""
+ball,2,16.1,Sussex,TP Alsop,MGK Burgess,TE Lawes,4,0,,,,,,"",""
+ball,2,16.2,Sussex,TP Alsop,MGK Burgess,TE Lawes,1,0,,,,,,"",""
+ball,2,16.3,Sussex,MGK Burgess,TP Alsop,TE Lawes,0,0,,,,,,"",""
+ball,2,16.4,Sussex,MGK Burgess,TP Alsop,TE Lawes,2,0,,,,,,"",""
+ball,2,16.5,Sussex,MGK Burgess,TP Alsop,TE Lawes,4,0,,,,,,"",""
+ball,2,16.6,Sussex,MGK Burgess,TP Alsop,TE Lawes,1,0,,,,,,"",""
+ball,2,17.1,Sussex,MGK Burgess,TP Alsop,DJ Worrall,0,1,,,,1,,"",""
+ball,2,17.2,Sussex,TP Alsop,MGK Burgess,DJ Worrall,6,0,,,,,,"",""
+ball,2,17.3,Sussex,TP Alsop,MGK Burgess,DJ Worrall,1,0,,,,,,"",""
+ball,2,17.4,Sussex,MGK Burgess,TP Alsop,DJ Worrall,0,0,,,,,,"",""
+ball,2,17.5,Sussex,MGK Burgess,TP Alsop,DJ Worrall,6,0,,,,,,"",""
+ball,2,17.6,Sussex,MGK Burgess,TP Alsop,DJ Worrall,0,0,,,,,,caught,MGK Burgess
+ball,2,18.1,Sussex,TP Alsop,JM Coles,SM Curran,1,0,,,,,,"",""
+ball,2,18.2,Sussex,JM Coles,TP Alsop,SM Curran,1,0,,,,,,"",""
+ball,2,18.3,Sussex,TP Alsop,JM Coles,SM Curran,2,0,,,,,,"",""
+ball,2,18.4,Sussex,TP Alsop,JM Coles,SM Curran,1,0,,,,,,"",""
+ball,2,18.5,Sussex,JM Coles,TP Alsop,SM Curran,0,0,,,,,,"",""
+ball,2,18.6,Sussex,JM Coles,TP Alsop,SM Curran,1,0,,,,,,"",""
+ball,2,19.1,Sussex,JM Coles,TP Alsop,TE Lawes,1,0,,,,,,"",""
+ball,2,19.2,Sussex,TP Alsop,JM Coles,TE Lawes,3,0,,,,,,"",""
+ball,2,19.3,Sussex,JM Coles,TP Alsop,TE Lawes,1,0,,,,,,"",""
+ball,2,19.4,Sussex,TP Alsop,JM Coles,TE Lawes,4,0,,,,,,"",""
+ball,2,19.5,Sussex,TP Alsop,JM Coles,TE Lawes,1,0,,,,,,"",""

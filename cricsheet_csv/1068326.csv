@@ -1,0 +1,187 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Gloucestershire
+info,gender,male
+info,season,2017
+info,date,2017/07/16
+info,event,NatWest T20 Blast
+info,venue,College Ground
+info,city,Cheltenham
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,SC Gale
+info,umpire,RJ Bailey
+info,outcome,no result
+info,player,Sussex,CD Nash
+info,player,Sussex,LJ Wright
+info,player,Sussex,BC Brown
+info,player,Sussex,LRPL Taylor
+info,player,Sussex,LJ Evans
+info,player,Sussex,D Wiese
+info,player,Sussex,CJ Jordan
+info,player,Sussex,JC Archer
+info,player,Sussex,WAT Beer
+info,player,Sussex,DR Briggs
+info,player,Sussex,GHS Garton
+info,player,Gloucestershire,M Klinger
+info,player,Gloucestershire,P Mustard
+info,player,Gloucestershire,IA Cockbain
+info,player,Gloucestershire,GT Hankins
+info,player,Gloucestershire,BAC Howell
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,NLTC Perera
+info,player,Gloucestershire,TMJ Smith
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,CJ Liddle
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BC Brown,8af86756
+info,registry,people,CD Nash,6f049d41
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CJ Liddle,5b3acc53
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,GT Hankins,fc1608a2
+info,registry,people,IA Cockbain,542fd5a6
+info,registry,people,JC Archer,5574750c
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,M Klinger,b970a03f
+info,registry,people,MD Taylor,01a95383
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,P Mustard,1b6fef02
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,SC Gale,3df4cd05
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,WAT Beer,98eacfe5
+ball,1,0.1,Sussex,CD Nash,LJ Wright,MD Taylor,0,0,,,,,,"",""
+ball,1,0.2,Sussex,CD Nash,LJ Wright,MD Taylor,1,0,,,,,,"",""
+ball,1,0.3,Sussex,LJ Wright,CD Nash,MD Taylor,0,0,,,,,,"",""
+ball,1,0.4,Sussex,LJ Wright,CD Nash,MD Taylor,1,0,,,,,,"",""
+ball,1,0.5,Sussex,CD Nash,LJ Wright,MD Taylor,4,0,,,,,,"",""
+ball,1,0.6,Sussex,CD Nash,LJ Wright,MD Taylor,0,0,,,,,,"",""
+ball,1,1.1,Sussex,LJ Wright,CD Nash,DA Payne,0,0,,,,,,"",""
+ball,1,1.2,Sussex,LJ Wright,CD Nash,DA Payne,1,0,,,,,,"",""
+ball,1,1.3,Sussex,CD Nash,LJ Wright,DA Payne,1,0,,,,,,"",""
+ball,1,1.4,Sussex,LJ Wright,CD Nash,DA Payne,0,0,,,,,,"",""
+ball,1,1.5,Sussex,LJ Wright,CD Nash,DA Payne,0,0,,,,,,caught,LJ Wright
+ball,1,1.6,Sussex,CD Nash,BC Brown,DA Payne,1,0,,,,,,"",""
+ball,1,2.1,Sussex,CD Nash,BC Brown,MD Taylor,0,0,,,,,,"",""
+ball,1,2.2,Sussex,CD Nash,BC Brown,MD Taylor,1,0,,,,,,"",""
+ball,1,2.3,Sussex,BC Brown,CD Nash,MD Taylor,0,0,,,,,,"",""
+ball,1,2.4,Sussex,BC Brown,CD Nash,MD Taylor,1,0,,,,,,"",""
+ball,1,2.5,Sussex,CD Nash,BC Brown,MD Taylor,0,0,,,,,,"",""
+ball,1,2.6,Sussex,CD Nash,BC Brown,MD Taylor,4,0,,,,,,"",""
+ball,1,3.1,Sussex,BC Brown,CD Nash,DA Payne,1,0,,,,,,"",""
+ball,1,3.2,Sussex,CD Nash,BC Brown,DA Payne,0,0,,,,,,"",""
+ball,1,3.3,Sussex,CD Nash,BC Brown,DA Payne,1,0,,,,,,"",""
+ball,1,3.4,Sussex,BC Brown,CD Nash,DA Payne,1,0,,,,,,"",""
+ball,1,3.5,Sussex,CD Nash,BC Brown,DA Payne,0,0,,,,,,"",""
+ball,1,3.6,Sussex,CD Nash,BC Brown,DA Payne,0,1,,,,1,,"",""
+ball,1,4.1,Sussex,CD Nash,BC Brown,MD Taylor,0,0,,,,,,"",""
+ball,1,4.2,Sussex,CD Nash,BC Brown,MD Taylor,6,0,,,,,,"",""
+ball,1,4.3,Sussex,CD Nash,BC Brown,MD Taylor,0,0,,,,,,"",""
+ball,1,4.4,Sussex,CD Nash,BC Brown,MD Taylor,6,0,,,,,,"",""
+ball,1,4.5,Sussex,CD Nash,BC Brown,MD Taylor,0,0,,,,,,"",""
+ball,1,4.6,Sussex,CD Nash,BC Brown,MD Taylor,4,0,,,,,,"",""
+ball,1,5.1,Sussex,BC Brown,CD Nash,NLTC Perera,3,0,,,,,,"",""
+ball,1,5.2,Sussex,CD Nash,BC Brown,NLTC Perera,4,0,,,,,,"",""
+ball,1,5.3,Sussex,CD Nash,BC Brown,NLTC Perera,0,0,,,,,,caught,CD Nash
+ball,1,5.4,Sussex,LRPL Taylor,BC Brown,NLTC Perera,1,0,,,,,,"",""
+ball,1,5.5,Sussex,BC Brown,LRPL Taylor,NLTC Perera,4,0,,,,,,"",""
+ball,1,5.6,Sussex,BC Brown,LRPL Taylor,NLTC Perera,1,0,,,,,,"",""
+ball,1,6.1,Sussex,BC Brown,LRPL Taylor,BAC Howell,0,0,,,,,,"",""
+ball,1,6.2,Sussex,BC Brown,LRPL Taylor,BAC Howell,1,0,,,,,,"",""
+ball,1,6.3,Sussex,LRPL Taylor,BC Brown,BAC Howell,0,0,,,,,,"",""
+ball,1,6.4,Sussex,LRPL Taylor,BC Brown,BAC Howell,0,0,,,,,,"",""
+ball,1,6.5,Sussex,LRPL Taylor,BC Brown,BAC Howell,0,0,,,,,,"",""
+ball,1,6.6,Sussex,LRPL Taylor,BC Brown,BAC Howell,0,1,,,,1,,"",""
+ball,1,7.1,Sussex,LRPL Taylor,BC Brown,TMJ Smith,0,0,,,,,,"",""
+ball,1,7.2,Sussex,LRPL Taylor,BC Brown,TMJ Smith,0,0,,,,,,"",""
+ball,1,7.3,Sussex,LRPL Taylor,BC Brown,TMJ Smith,1,0,,,,,,"",""
+ball,1,7.4,Sussex,BC Brown,LRPL Taylor,TMJ Smith,0,0,,,,,,"",""
+ball,1,7.5,Sussex,BC Brown,LRPL Taylor,TMJ Smith,1,0,,,,,,"",""
+ball,1,7.6,Sussex,LRPL Taylor,BC Brown,TMJ Smith,1,0,,,,,,"",""
+ball,1,8.1,Sussex,LRPL Taylor,BC Brown,BAC Howell,1,0,,,,,,"",""
+ball,1,8.2,Sussex,BC Brown,LRPL Taylor,BAC Howell,0,0,,,,,,"",""
+ball,1,8.3,Sussex,BC Brown,LRPL Taylor,BAC Howell,1,0,,,,,,"",""
+ball,1,8.4,Sussex,LRPL Taylor,BC Brown,BAC Howell,1,0,,,,,,"",""
+ball,1,8.5,Sussex,BC Brown,LRPL Taylor,BAC Howell,1,0,,,,,,"",""
+ball,1,8.6,Sussex,LRPL Taylor,BC Brown,BAC Howell,4,0,,,,,,"",""
+ball,1,9.1,Sussex,BC Brown,LRPL Taylor,TMJ Smith,4,0,,,,,,"",""
+ball,1,9.2,Sussex,BC Brown,LRPL Taylor,TMJ Smith,1,0,,,,,,"",""
+ball,1,9.3,Sussex,LRPL Taylor,BC Brown,TMJ Smith,1,0,,,,,,"",""
+ball,1,9.4,Sussex,BC Brown,LRPL Taylor,TMJ Smith,0,0,,,,,,"",""
+ball,1,9.5,Sussex,BC Brown,LRPL Taylor,TMJ Smith,1,0,,,,,,"",""
+ball,1,9.6,Sussex,LRPL Taylor,BC Brown,TMJ Smith,0,1,1,,,,,"",""
+ball,1,9.7,Sussex,LRPL Taylor,BC Brown,TMJ Smith,0,1,1,,,,,"",""
+ball,1,9.8,Sussex,LRPL Taylor,BC Brown,TMJ Smith,0,0,,,,,,"",""
+ball,1,10.1,Sussex,BC Brown,LRPL Taylor,BAC Howell,4,0,,,,,,"",""
+ball,1,10.2,Sussex,BC Brown,LRPL Taylor,BAC Howell,4,0,,,,,,"",""
+ball,1,10.3,Sussex,BC Brown,LRPL Taylor,BAC Howell,1,0,,,,,,"",""
+ball,1,10.4,Sussex,LRPL Taylor,BC Brown,BAC Howell,1,0,,,,,,"",""
+ball,1,10.5,Sussex,BC Brown,LRPL Taylor,BAC Howell,0,0,,,,,,caught and bowled,BC Brown
+ball,1,10.6,Sussex,LRPL Taylor,LJ Evans,BAC Howell,4,0,,,,,,"",""
+ball,1,11.1,Sussex,LJ Evans,LRPL Taylor,TMJ Smith,0,0,,,,,,"",""
+ball,1,11.2,Sussex,LJ Evans,LRPL Taylor,TMJ Smith,1,0,,,,,,"",""
+ball,1,11.3,Sussex,LRPL Taylor,LJ Evans,TMJ Smith,2,0,,,,,,"",""
+ball,1,11.4,Sussex,LRPL Taylor,LJ Evans,TMJ Smith,1,0,,,,,,"",""
+ball,1,11.5,Sussex,LJ Evans,LRPL Taylor,TMJ Smith,0,0,,,,,,"",""
+ball,1,11.6,Sussex,LJ Evans,LRPL Taylor,TMJ Smith,1,0,,,,,,"",""
+ball,1,12.1,Sussex,LJ Evans,LRPL Taylor,CJ Liddle,1,0,,,,,,"",""
+ball,1,12.2,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,0,0,,,,,,"",""
+ball,1,12.3,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,0,1,1,,,,,"",""
+ball,1,12.4,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,0,0,,,,,,"",""
+ball,1,12.5,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,6,0,,,,,,"",""
+ball,1,12.6,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,0,0,,,,,,"",""
+ball,1,12.7,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,1,0,,,,,,"",""
+ball,1,13.1,Sussex,LRPL Taylor,LJ Evans,NLTC Perera,1,0,,,,,,"",""
+ball,1,13.2,Sussex,LJ Evans,LRPL Taylor,NLTC Perera,0,0,,,,,,"",""
+ball,1,13.3,Sussex,LJ Evans,LRPL Taylor,NLTC Perera,1,0,,,,,,"",""
+ball,1,13.4,Sussex,LRPL Taylor,LJ Evans,NLTC Perera,1,0,,,,,,"",""
+ball,1,13.5,Sussex,LJ Evans,LRPL Taylor,NLTC Perera,0,0,,,,,,"",""
+ball,1,13.6,Sussex,LJ Evans,LRPL Taylor,NLTC Perera,1,0,,,,,,"",""
+ball,1,14.1,Sussex,LJ Evans,LRPL Taylor,CJ Liddle,1,0,,,,,,"",""
+ball,1,14.2,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,1,0,,,,,,"",""
+ball,1,14.3,Sussex,LJ Evans,LRPL Taylor,CJ Liddle,1,0,,,,,,"",""
+ball,1,14.4,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,0,1,,,,1,,"",""
+ball,1,14.5,Sussex,LJ Evans,LRPL Taylor,CJ Liddle,1,0,,,,,,"",""
+ball,1,14.6,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,0,2,,2,,,,"",""
+ball,1,14.7,Sussex,LRPL Taylor,LJ Evans,CJ Liddle,1,0,,,,,,"",""
+ball,1,15.1,Sussex,LRPL Taylor,LJ Evans,TMJ Smith,2,0,,,,,,"",""
+ball,1,15.2,Sussex,LRPL Taylor,LJ Evans,TMJ Smith,6,0,,,,,,"",""
+ball,1,15.3,Sussex,LRPL Taylor,LJ Evans,TMJ Smith,0,0,,,,,,"",""
+ball,1,15.4,Sussex,LRPL Taylor,LJ Evans,TMJ Smith,0,1,,,,1,,"",""
+ball,1,15.5,Sussex,LJ Evans,LRPL Taylor,TMJ Smith,0,0,,,,,,"",""
+ball,1,15.6,Sussex,LJ Evans,LRPL Taylor,TMJ Smith,1,0,,,,,,"",""
+ball,1,16.1,Sussex,LJ Evans,LRPL Taylor,CJ Liddle,0,0,,,,,,"",""
+ball,1,16.2,Sussex,LJ Evans,LRPL Taylor,CJ Liddle,0,0,,,,,,lbw,LJ Evans
+ball,1,16.3,Sussex,D Wiese,LRPL Taylor,CJ Liddle,0,0,,,,,,caught,D Wiese
+ball,1,16.4,Sussex,CJ Jordan,LRPL Taylor,CJ Liddle,0,0,,,,,,run out,CJ Jordan
+ball,1,16.5,Sussex,LRPL Taylor,JC Archer,CJ Liddle,1,0,,,,,,"",""
+ball,1,16.6,Sussex,JC Archer,LRPL Taylor,CJ Liddle,1,0,,,,,,"",""
+ball,1,17.1,Sussex,JC Archer,LRPL Taylor,BAC Howell,1,0,,,,,,"",""
+ball,1,17.2,Sussex,LRPL Taylor,JC Archer,BAC Howell,1,0,,,,,,"",""
+ball,1,17.3,Sussex,JC Archer,LRPL Taylor,BAC Howell,1,0,,,,,,"",""
+ball,1,17.4,Sussex,LRPL Taylor,JC Archer,BAC Howell,1,0,,,,,,"",""
+ball,1,17.5,Sussex,JC Archer,LRPL Taylor,BAC Howell,0,0,,,,,,"",""
+ball,1,17.6,Sussex,JC Archer,LRPL Taylor,BAC Howell,1,0,,,,,,"",""
+ball,1,18.1,Sussex,JC Archer,LRPL Taylor,CJ Liddle,4,0,,,,,,"",""
+ball,1,18.2,Sussex,JC Archer,LRPL Taylor,CJ Liddle,1,0,,,,,,"",""
+ball,1,18.3,Sussex,LRPL Taylor,JC Archer,CJ Liddle,0,1,1,,,,,"",""
+ball,1,18.4,Sussex,LRPL Taylor,JC Archer,CJ Liddle,1,0,,,,,,"",""
+ball,1,18.5,Sussex,JC Archer,LRPL Taylor,CJ Liddle,4,0,,,,,,"",""
+ball,1,18.6,Sussex,JC Archer,LRPL Taylor,CJ Liddle,4,0,,,,,,"",""
+ball,1,18.7,Sussex,JC Archer,LRPL Taylor,CJ Liddle,4,2,,2,,,,"",""
+ball,1,18.8,Sussex,JC Archer,LRPL Taylor,NLTC Perera,1,0,,,,,,"",""
+ball,1,19.1,Sussex,JC Archer,LRPL Taylor,DA Payne,0,0,,,,,,caught,JC Archer
+ball,1,19.2,Sussex,LRPL Taylor,WAT Beer,DA Payne,1,0,,,,,,"",""
+ball,1,19.3,Sussex,WAT Beer,LRPL Taylor,DA Payne,0,0,,,,,,caught,WAT Beer
+ball,1,19.4,Sussex,LRPL Taylor,DR Briggs,DA Payne,1,0,,,,,,"",""
+ball,1,19.5,Sussex,DR Briggs,LRPL Taylor,DA Payne,1,0,,,,,,"",""
+ball,1,19.6,Sussex,LRPL Taylor,DR Briggs,DA Payne,4,0,,,,,,"",""

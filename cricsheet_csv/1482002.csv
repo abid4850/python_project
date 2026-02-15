@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,MI New York
+info,team,Washington Freedom
+info,gender,male
+info,season,2025
+info,date,2025/06/21
+info,event,Major League Cricket
+info,match_number,11
+info,venue,"Grand Prairie Stadium, Dallas"
+info,city,Dallas
+info,toss_winner,Washington Freedom
+info,toss_decision,field
+info,player_of_match,MJ Owen
+info,umpire,R Samuels
+info,umpire,WR Knights
+info,reserve_umpire,Vijaya Mallela
+info,tv_umpire,M Erasmus
+info,match_referee,SJA Taufel
+info,winner,Washington Freedom
+info,winner_wickets,2
+info,player,MI New York,MD Patel
+info,player,MI New York,Q de Kock
+info,player,MI New York,N Pooran
+info,player,MI New York,MG Bracewell
+info,player,MI New York,KA Pollard
+info,player,MI New York,H Richards
+info,player,MI New York,Tajinder Singh
+info,player,MI New York,Sunny Patel
+info,player,MI New York,TA Boult
+info,player,MI New York,Naveen-ul-Haq
+info,player,MI New York,R Ugarkar
+info,player,Washington Freedom,MJ Owen
+info,player,Washington Freedom,R Ravindra
+info,player,Washington Freedom,AGS Gous
+info,player,Washington Freedom,MS Chapman
+info,player,Washington Freedom,J Edwards
+info,player,Washington Freedom,GJ Maxwell
+info,player,Washington Freedom,AJ Pienaar
+info,player,Washington Freedom,Mukhtar Ahmed
+info,player,Washington Freedom,MR Adair
+info,player,Washington Freedom,IG Holland
+info,player,Washington Freedom,SN Netravalkar
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,H Richards,a0095f0e
+info,registry,people,IG Holland,4167f30b
+info,registry,people,J Edwards,f787e0eb
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mukhtar Ahmed,456f6d99
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,R Ugarkar,8a58f203
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,Sunny Patel,db481029
+info,registry,people,TA Boult,a818c1be
+info,registry,people,Tajinder Singh,f9d99806
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,WR Knights,63cbf8d8
+ball,1,0.1,MI New York,MD Patel,Q de Kock,SN Netravalkar,0,0,,,,,,"",""
+ball,1,0.2,MI New York,MD Patel,Q de Kock,SN Netravalkar,2,0,,,,,,"",""
+ball,1,0.3,MI New York,MD Patel,Q de Kock,SN Netravalkar,0,0,,,,,,"",""
+ball,1,0.4,MI New York,MD Patel,Q de Kock,SN Netravalkar,0,0,,,,,,"",""
+ball,1,0.5,MI New York,MD Patel,Q de Kock,SN Netravalkar,4,0,,,,,,"",""
+ball,1,0.6,MI New York,MD Patel,Q de Kock,SN Netravalkar,1,0,,,,,,"",""
+ball,1,1.1,MI New York,MD Patel,Q de Kock,MR Adair,4,0,,,,,,"",""
+ball,1,1.2,MI New York,MD Patel,Q de Kock,MR Adair,1,0,,,,,,"",""
+ball,1,1.3,MI New York,Q de Kock,MD Patel,MR Adair,0,0,,,,,,"",""
+ball,1,1.4,MI New York,Q de Kock,MD Patel,MR Adair,1,0,,,,,,"",""
+ball,1,1.5,MI New York,MD Patel,Q de Kock,MR Adair,0,4,,,,4,,"",""
+ball,1,1.6,MI New York,MD Patel,Q de Kock,MR Adair,4,0,,,,,,"",""
+ball,1,2.1,MI New York,Q de Kock,MD Patel,SN Netravalkar,0,0,,,,,,"",""
+ball,1,2.2,MI New York,Q de Kock,MD Patel,SN Netravalkar,0,0,,,,,,"",""
+ball,1,2.3,MI New York,Q de Kock,MD Patel,SN Netravalkar,4,0,,,,,,"",""
+ball,1,2.4,MI New York,Q de Kock,MD Patel,SN Netravalkar,1,0,,,,,,"",""
+ball,1,2.5,MI New York,MD Patel,Q de Kock,SN Netravalkar,4,0,,,,,,"",""
+ball,1,2.6,MI New York,MD Patel,Q de Kock,SN Netravalkar,0,0,,,,,,"",""
+ball,1,3.1,MI New York,Q de Kock,MD Patel,GJ Maxwell,0,0,,,,,,"",""
+ball,1,3.2,MI New York,Q de Kock,MD Patel,GJ Maxwell,4,0,,,,,,"",""
+ball,1,3.3,MI New York,Q de Kock,MD Patel,GJ Maxwell,1,0,,,,,,"",""
+ball,1,3.4,MI New York,MD Patel,Q de Kock,GJ Maxwell,2,0,,,,,,"",""
+ball,1,3.5,MI New York,MD Patel,Q de Kock,GJ Maxwell,4,0,,,,,,"",""
+ball,1,3.6,MI New York,MD Patel,Q de Kock,GJ Maxwell,2,0,,,,,,"",""
+ball,1,4.1,MI New York,Q de Kock,MD Patel,J Edwards,1,0,,,,,,"",""
+ball,1,4.2,MI New York,MD Patel,Q de Kock,J Edwards,1,0,,,,,,"",""
+ball,1,4.3,MI New York,Q de Kock,MD Patel,J Edwards,4,0,,,,,,"",""
+ball,1,4.4,MI New York,Q de Kock,MD Patel,J Edwards,0,0,,,,,,"",""
+ball,1,4.5,MI New York,Q de Kock,MD Patel,J Edwards,0,1,1,,,,,"",""
+ball,1,4.6,MI New York,Q de Kock,MD Patel,J Edwards,4,0,,,,,,"",""
+ball,1,4.7,MI New York,Q de Kock,MD Patel,J Edwards,1,0,,,,,,"",""
+ball,1,5.1,MI New York,Q de Kock,MD Patel,MR Adair,4,0,,,,,,"",""
+ball,1,5.2,MI New York,Q de Kock,MD Patel,MR Adair,6,0,,,,,,"",""
+ball,1,5.3,MI New York,Q de Kock,MD Patel,MR Adair,1,0,,,,,,"",""
+ball,1,5.4,MI New York,MD Patel,Q de Kock,MR Adair,0,0,,,,,,"",""
+ball,1,5.5,MI New York,MD Patel,Q de Kock,MR Adair,2,0,,,,,,"",""
+ball,1,5.6,MI New York,MD Patel,Q de Kock,MR Adair,0,1,1,,,,,"",""
+ball,1,5.7,MI New York,MD Patel,Q de Kock,MR Adair,1,0,,,,,,"",""
+ball,1,6.1,MI New York,MD Patel,Q de Kock,MJ Owen,0,0,,,,,,caught,MD Patel
+ball,1,6.2,MI New York,N Pooran,Q de Kock,MJ Owen,0,0,,,,,,"",""
+ball,1,6.3,MI New York,N Pooran,Q de Kock,MJ Owen,0,0,,,,,,"",""
+ball,1,6.4,MI New York,N Pooran,Q de Kock,MJ Owen,0,0,,,,,,"",""
+ball,1,6.5,MI New York,N Pooran,Q de Kock,MJ Owen,1,0,,,,,,"",""
+ball,1,6.6,MI New York,Q de Kock,N Pooran,MJ Owen,1,0,,,,,,"",""
+ball,1,7.1,MI New York,Q de Kock,N Pooran,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.2,MI New York,N Pooran,Q de Kock,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.3,MI New York,Q de Kock,N Pooran,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.4,MI New York,N Pooran,Q de Kock,GJ Maxwell,0,0,,,,,,"",""
+ball,1,7.5,MI New York,N Pooran,Q de Kock,GJ Maxwell,0,0,,,,,,"",""
+ball,1,7.6,MI New York,N Pooran,Q de Kock,GJ Maxwell,4,0,,,,,,"",""
+ball,1,8.1,MI New York,Q de Kock,N Pooran,J Edwards,1,0,,,,,,"",""
+ball,1,8.2,MI New York,N Pooran,Q de Kock,J Edwards,0,0,,,,,,"",""
+ball,1,8.3,MI New York,N Pooran,Q de Kock,J Edwards,2,0,,,,,,"",""
+ball,1,8.4,MI New York,N Pooran,Q de Kock,J Edwards,2,0,,,,,,"",""
+ball,1,8.5,MI New York,N Pooran,Q de Kock,J Edwards,0,1,,,,1,,"",""
+ball,1,8.6,MI New York,Q de Kock,N Pooran,J Edwards,1,0,,,,,,"",""
+ball,1,9.1,MI New York,Q de Kock,N Pooran,GJ Maxwell,4,0,,,,,,"",""
+ball,1,9.2,MI New York,Q de Kock,N Pooran,GJ Maxwell,0,0,,,,,,"",""
+ball,1,9.3,MI New York,Q de Kock,N Pooran,GJ Maxwell,1,0,,,,,,"",""
+ball,1,9.4,MI New York,N Pooran,Q de Kock,GJ Maxwell,6,0,,,,,,"",""
+ball,1,9.5,MI New York,N Pooran,Q de Kock,GJ Maxwell,1,0,,,,,,"",""
+ball,1,9.6,MI New York,Q de Kock,N Pooran,GJ Maxwell,0,0,,,,,,"",""
+ball,1,10.1,MI New York,N Pooran,Q de Kock,MJ Owen,1,0,,,,,,"",""
+ball,1,10.2,MI New York,Q de Kock,N Pooran,MJ Owen,6,0,,,,,,"",""
+ball,1,10.3,MI New York,Q de Kock,N Pooran,MJ Owen,4,0,,,,,,"",""
+ball,1,10.4,MI New York,Q de Kock,N Pooran,MJ Owen,1,0,,,,,,"",""
+ball,1,10.5,MI New York,N Pooran,Q de Kock,MJ Owen,1,0,,,,,,"",""
+ball,1,10.6,MI New York,Q de Kock,N Pooran,MJ Owen,1,0,,,,,,"",""
+ball,1,11.1,MI New York,Q de Kock,N Pooran,IG Holland,0,0,,,,,,"",""
+ball,1,11.2,MI New York,Q de Kock,N Pooran,IG Holland,1,0,,,,,,"",""
+ball,1,11.3,MI New York,N Pooran,Q de Kock,IG Holland,1,0,,,,,,"",""
+ball,1,11.4,MI New York,Q de Kock,N Pooran,IG Holland,0,0,,,,,,"",""
+ball,1,11.5,MI New York,Q de Kock,N Pooran,IG Holland,0,0,,,,,,caught,Q de Kock
+ball,1,11.6,MI New York,MG Bracewell,N Pooran,IG Holland,4,0,,,,,,"",""
+ball,1,12.1,MI New York,N Pooran,MG Bracewell,SN Netravalkar,1,0,,,,,,"",""
+ball,1,12.2,MI New York,MG Bracewell,N Pooran,SN Netravalkar,0,0,,,,,,"",""
+ball,1,12.3,MI New York,MG Bracewell,N Pooran,SN Netravalkar,0,2,2,,,,,"",""
+ball,1,12.4,MI New York,N Pooran,MG Bracewell,SN Netravalkar,1,0,,,,,,"",""
+ball,1,12.5,MI New York,MG Bracewell,N Pooran,SN Netravalkar,1,0,,,,,,"",""
+ball,1,12.6,MI New York,N Pooran,MG Bracewell,SN Netravalkar,1,0,,,,,,"",""
+ball,1,12.7,MI New York,MG Bracewell,N Pooran,SN Netravalkar,1,0,,,,,,"",""
+ball,1,13.1,MI New York,MG Bracewell,N Pooran,MR Adair,1,0,,,,,,"",""
+ball,1,13.2,MI New York,N Pooran,MG Bracewell,MR Adair,0,0,,,,,,"",""
+ball,1,13.3,MI New York,N Pooran,MG Bracewell,MR Adair,0,1,1,,,,,"",""
+ball,1,13.4,MI New York,N Pooran,MG Bracewell,MR Adair,4,0,,,,,,"",""
+ball,1,13.5,MI New York,N Pooran,MG Bracewell,MR Adair,1,0,,,,,,"",""
+ball,1,13.6,MI New York,MG Bracewell,N Pooran,MR Adair,4,0,,,,,,"",""
+ball,1,13.7,MI New York,MG Bracewell,N Pooran,MR Adair,1,0,,,,,,"",""
+ball,1,14.1,MI New York,MG Bracewell,N Pooran,MJ Owen,2,0,,,,,,"",""
+ball,1,14.2,MI New York,MG Bracewell,N Pooran,MJ Owen,1,0,,,,,,"",""
+ball,1,14.3,MI New York,N Pooran,MG Bracewell,MJ Owen,0,0,,,,,,"",""
+ball,1,14.4,MI New York,N Pooran,MG Bracewell,MJ Owen,1,0,,,,,,"",""
+ball,1,14.5,MI New York,MG Bracewell,N Pooran,MJ Owen,1,0,,,,,,"",""
+ball,1,14.6,MI New York,N Pooran,MG Bracewell,MJ Owen,1,0,,,,,,"",""
+ball,1,15.1,MI New York,N Pooran,MG Bracewell,GJ Maxwell,0,0,,,,,,"",""
+ball,1,15.2,MI New York,N Pooran,MG Bracewell,GJ Maxwell,1,0,,,,,,"",""
+ball,1,15.3,MI New York,MG Bracewell,N Pooran,GJ Maxwell,1,0,,,,,,"",""
+ball,1,15.4,MI New York,N Pooran,MG Bracewell,GJ Maxwell,2,0,,,,,,"",""
+ball,1,15.5,MI New York,N Pooran,MG Bracewell,GJ Maxwell,0,0,,,,,,caught,N Pooran
+ball,1,15.6,MI New York,KA Pollard,MG Bracewell,GJ Maxwell,1,0,,,,,,"",""
+ball,1,16.1,MI New York,KA Pollard,MG Bracewell,J Edwards,1,0,,,,,,"",""
+ball,1,16.2,MI New York,MG Bracewell,KA Pollard,J Edwards,0,0,,,,,,"",""
+ball,1,16.3,MI New York,MG Bracewell,KA Pollard,J Edwards,4,0,,,,,,"",""
+ball,1,16.4,MI New York,MG Bracewell,KA Pollard,J Edwards,1,0,,,,,,"",""
+ball,1,16.5,MI New York,KA Pollard,MG Bracewell,J Edwards,0,1,,,,1,,"",""
+ball,1,16.6,MI New York,MG Bracewell,KA Pollard,J Edwards,4,0,,,,,,"",""
+ball,1,17.1,MI New York,KA Pollard,MG Bracewell,MJ Owen,0,1,1,,,,,"",""
+ball,1,17.2,MI New York,KA Pollard,MG Bracewell,MJ Owen,0,0,,,,,,"",""
+ball,1,17.3,MI New York,KA Pollard,MG Bracewell,MJ Owen,1,0,,,,,,"",""
+ball,1,17.4,MI New York,MG Bracewell,KA Pollard,MJ Owen,2,0,,,,,,"",""
+ball,1,17.5,MI New York,MG Bracewell,KA Pollard,MJ Owen,1,0,,,,,,"",""
+ball,1,17.6,MI New York,KA Pollard,MG Bracewell,MJ Owen,1,0,,,,,,"",""
+ball,1,17.7,MI New York,MG Bracewell,KA Pollard,MJ Owen,1,0,,,,,,"",""
+ball,1,18.1,MI New York,MG Bracewell,KA Pollard,SN Netravalkar,0,0,,,,,,"",""
+ball,1,18.2,MI New York,MG Bracewell,KA Pollard,SN Netravalkar,1,0,,,,,,"",""
+ball,1,18.3,MI New York,KA Pollard,MG Bracewell,SN Netravalkar,0,0,,,,,,"",""
+ball,1,18.4,MI New York,KA Pollard,MG Bracewell,SN Netravalkar,0,1,1,,,,,"",""
+ball,1,18.5,MI New York,KA Pollard,MG Bracewell,SN Netravalkar,4,0,,,,,,"",""
+ball,1,18.6,MI New York,KA Pollard,MG Bracewell,SN Netravalkar,1,0,,,,,,run out,KA Pollard
+ball,1,18.7,MI New York,H Richards,MG Bracewell,SN Netravalkar,0,0,,,,,,"",""
+ball,1,19.1,MI New York,MG Bracewell,H Richards,J Edwards,6,0,,,,,,"",""
+ball,1,19.2,MI New York,MG Bracewell,H Richards,J Edwards,4,0,,,,,,"",""
+ball,1,19.3,MI New York,MG Bracewell,H Richards,J Edwards,0,0,,,,,,"",""
+ball,1,19.4,MI New York,MG Bracewell,H Richards,J Edwards,1,0,,,,,,"",""
+ball,1,19.5,MI New York,H Richards,MG Bracewell,J Edwards,2,0,,,,,,"",""
+ball,1,19.6,MI New York,H Richards,MG Bracewell,J Edwards,2,0,,,,,,"",""
+ball,2,0.1,Washington Freedom,MJ Owen,R Ravindra,TA Boult,4,1,,1,,,,"",""
+ball,2,0.2,Washington Freedom,MJ Owen,R Ravindra,TA Boult,0,0,,,,,,"",""
+ball,2,0.3,Washington Freedom,MJ Owen,R Ravindra,TA Boult,0,0,,,,,,"",""
+ball,2,0.4,Washington Freedom,MJ Owen,R Ravindra,TA Boult,1,0,,,,,,"",""
+ball,2,0.5,Washington Freedom,R Ravindra,MJ Owen,TA Boult,0,0,,,,,,"",""
+ball,2,0.6,Washington Freedom,R Ravindra,MJ Owen,TA Boult,4,0,,,,,,"",""
+ball,2,0.7,Washington Freedom,R Ravindra,MJ Owen,TA Boult,4,0,,,,,,"",""
+ball,2,1.1,Washington Freedom,MJ Owen,R Ravindra,R Ugarkar,6,0,,,,,,"",""
+ball,2,1.2,Washington Freedom,MJ Owen,R Ravindra,R Ugarkar,0,0,,,,,,"",""
+ball,2,1.3,Washington Freedom,MJ Owen,R Ravindra,R Ugarkar,6,0,,,,,,"",""
+ball,2,1.4,Washington Freedom,MJ Owen,R Ravindra,R Ugarkar,0,0,,,,,,"",""
+ball,2,1.5,Washington Freedom,MJ Owen,R Ravindra,R Ugarkar,6,0,,,,,,"",""
+ball,2,1.6,Washington Freedom,MJ Owen,R Ravindra,R Ugarkar,4,0,,,,,,"",""
+ball,2,2.1,Washington Freedom,R Ravindra,MJ Owen,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,2.2,Washington Freedom,MJ Owen,R Ravindra,Naveen-ul-Haq,4,1,,1,,,,"",""
+ball,2,2.3,Washington Freedom,MJ Owen,R Ravindra,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,2.4,Washington Freedom,R Ravindra,MJ Owen,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,2.5,Washington Freedom,MJ Owen,R Ravindra,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,2.6,Washington Freedom,R Ravindra,MJ Owen,Naveen-ul-Haq,0,0,,,,,,bowled,R Ravindra
+ball,2,2.7,Washington Freedom,AGS Gous,MJ Owen,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,3.1,Washington Freedom,MJ Owen,AGS Gous,Sunny Patel,4,0,,,,,,"",""
+ball,2,3.2,Washington Freedom,MJ Owen,AGS Gous,Sunny Patel,0,0,,,,,,"",""
+ball,2,3.3,Washington Freedom,MJ Owen,AGS Gous,Sunny Patel,1,0,,,,,,"",""
+ball,2,3.4,Washington Freedom,AGS Gous,MJ Owen,Sunny Patel,0,0,,,,,,"",""
+ball,2,3.5,Washington Freedom,AGS Gous,MJ Owen,Sunny Patel,4,0,,,,,,"",""
+ball,2,3.6,Washington Freedom,AGS Gous,MJ Owen,Sunny Patel,1,0,,,,,,"",""
+ball,2,4.1,Washington Freedom,AGS Gous,MJ Owen,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,4.2,Washington Freedom,AGS Gous,MJ Owen,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,4.3,Washington Freedom,AGS Gous,MJ Owen,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,4.4,Washington Freedom,AGS Gous,MJ Owen,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,4.5,Washington Freedom,MJ Owen,AGS Gous,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,4.6,Washington Freedom,AGS Gous,MJ Owen,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,5.1,Washington Freedom,MJ Owen,AGS Gous,Sunny Patel,0,0,,,,,,"",""
+ball,2,5.2,Washington Freedom,MJ Owen,AGS Gous,Sunny Patel,6,0,,,,,,"",""
+ball,2,5.3,Washington Freedom,MJ Owen,AGS Gous,Sunny Patel,2,0,,,,,,"",""
+ball,2,5.4,Washington Freedom,MJ Owen,AGS Gous,Sunny Patel,1,0,,,,,,"",""
+ball,2,5.5,Washington Freedom,AGS Gous,MJ Owen,Sunny Patel,0,0,,,,,,caught,AGS Gous
+ball,2,5.6,Washington Freedom,MS Chapman,MJ Owen,Sunny Patel,0,0,,,,,,"",""
+ball,2,6.1,Washington Freedom,MJ Owen,MS Chapman,TA Boult,4,0,,,,,,"",""
+ball,2,6.2,Washington Freedom,MJ Owen,MS Chapman,TA Boult,1,0,,,,,,"",""
+ball,2,6.3,Washington Freedom,MS Chapman,MJ Owen,TA Boult,0,0,,,,,,"",""
+ball,2,6.4,Washington Freedom,MS Chapman,MJ Owen,TA Boult,4,0,,,,,,"",""
+ball,2,6.5,Washington Freedom,MS Chapman,MJ Owen,TA Boult,1,0,,,,,,"",""
+ball,2,6.6,Washington Freedom,MJ Owen,MS Chapman,TA Boult,1,0,,,,,,"",""
+ball,2,7.1,Washington Freedom,MJ Owen,MS Chapman,Sunny Patel,6,0,,,,,,"",""
+ball,2,7.2,Washington Freedom,MJ Owen,MS Chapman,Sunny Patel,0,0,,,,,,caught,MJ Owen
+ball,2,7.3,Washington Freedom,J Edwards,MS Chapman,Sunny Patel,0,0,,,,,,"",""
+ball,2,7.4,Washington Freedom,J Edwards,MS Chapman,Sunny Patel,4,0,,,,,,"",""
+ball,2,7.5,Washington Freedom,J Edwards,MS Chapman,Sunny Patel,0,0,,,,,,"",""
+ball,2,7.6,Washington Freedom,J Edwards,MS Chapman,Sunny Patel,0,0,,,,,,"",""
+ball,2,8.1,Washington Freedom,MS Chapman,J Edwards,MG Bracewell,1,0,,,,,,"",""
+ball,2,8.2,Washington Freedom,J Edwards,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,2,8.3,Washington Freedom,MS Chapman,J Edwards,MG Bracewell,0,0,,,,,,"",""
+ball,2,8.4,Washington Freedom,MS Chapman,J Edwards,MG Bracewell,1,0,,,,,,"",""
+ball,2,8.5,Washington Freedom,J Edwards,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,2,8.6,Washington Freedom,MS Chapman,J Edwards,MG Bracewell,1,0,,,,,,"",""
+ball,2,9.1,Washington Freedom,MS Chapman,J Edwards,KA Pollard,1,0,,,,,,"",""
+ball,2,9.2,Washington Freedom,J Edwards,MS Chapman,KA Pollard,1,0,,,,,,"",""
+ball,2,9.3,Washington Freedom,MS Chapman,J Edwards,KA Pollard,1,0,,,,,,"",""
+ball,2,9.4,Washington Freedom,J Edwards,MS Chapman,KA Pollard,0,0,,,,,,"",""
+ball,2,9.5,Washington Freedom,J Edwards,MS Chapman,KA Pollard,4,0,,,,,,"",""
+ball,2,9.6,Washington Freedom,J Edwards,MS Chapman,KA Pollard,4,0,,,,,,"",""
+ball,2,10.1,Washington Freedom,MS Chapman,J Edwards,MG Bracewell,1,0,,,,,,"",""
+ball,2,10.2,Washington Freedom,J Edwards,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,2,10.3,Washington Freedom,MS Chapman,J Edwards,MG Bracewell,1,0,,,,,,"",""
+ball,2,10.4,Washington Freedom,J Edwards,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,2,10.5,Washington Freedom,J Edwards,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,2,10.6,Washington Freedom,MS Chapman,J Edwards,MG Bracewell,2,0,,,,,,"",""
+ball,2,11.1,Washington Freedom,J Edwards,MS Chapman,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,11.2,Washington Freedom,J Edwards,MS Chapman,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,11.3,Washington Freedom,J Edwards,MS Chapman,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,11.4,Washington Freedom,J Edwards,MS Chapman,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,11.5,Washington Freedom,MS Chapman,J Edwards,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,11.6,Washington Freedom,J Edwards,MS Chapman,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,12.1,Washington Freedom,J Edwards,MS Chapman,Sunny Patel,0,0,,,,,,"",""
+ball,2,12.2,Washington Freedom,J Edwards,MS Chapman,Sunny Patel,4,0,,,,,,"",""
+ball,2,12.3,Washington Freedom,J Edwards,MS Chapman,Sunny Patel,1,0,,,,,,"",""
+ball,2,12.4,Washington Freedom,MS Chapman,J Edwards,Sunny Patel,1,0,,,,,,"",""
+ball,2,12.5,Washington Freedom,J Edwards,MS Chapman,Sunny Patel,2,0,,,,,,"",""
+ball,2,12.6,Washington Freedom,J Edwards,MS Chapman,Sunny Patel,0,0,,,,,,"",""
+ball,2,13.1,Washington Freedom,MS Chapman,J Edwards,MG Bracewell,0,0,,,,,,run out,J Edwards
+ball,2,13.2,Washington Freedom,MS Chapman,GJ Maxwell,MG Bracewell,0,0,,,,,,"",""
+ball,2,13.3,Washington Freedom,MS Chapman,GJ Maxwell,MG Bracewell,1,0,,,,,,"",""
+ball,2,13.4,Washington Freedom,GJ Maxwell,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,2,13.5,Washington Freedom,GJ Maxwell,MS Chapman,MG Bracewell,6,0,,,,,,"",""
+ball,2,13.6,Washington Freedom,GJ Maxwell,MS Chapman,MG Bracewell,4,0,,,,,,"",""
+ball,2,14.1,Washington Freedom,MS Chapman,GJ Maxwell,TA Boult,1,0,,,,,,"",""
+ball,2,14.2,Washington Freedom,GJ Maxwell,MS Chapman,TA Boult,6,0,,,,,,"",""
+ball,2,14.3,Washington Freedom,GJ Maxwell,MS Chapman,TA Boult,0,1,1,,,,,"",""
+ball,2,14.4,Washington Freedom,GJ Maxwell,MS Chapman,TA Boult,0,0,,,,,,bowled,GJ Maxwell
+ball,2,14.5,Washington Freedom,AJ Pienaar,MS Chapman,TA Boult,1,0,,,,,,"",""
+ball,2,14.6,Washington Freedom,MS Chapman,AJ Pienaar,TA Boult,2,0,,,,,,"",""
+ball,2,14.7,Washington Freedom,MS Chapman,AJ Pienaar,TA Boult,1,0,,,,,,"",""
+ball,2,15.1,Washington Freedom,MS Chapman,AJ Pienaar,MG Bracewell,6,0,,,,,,"",""
+ball,2,15.2,Washington Freedom,MS Chapman,AJ Pienaar,MG Bracewell,2,0,,,,,,"",""
+ball,2,15.3,Washington Freedom,MS Chapman,AJ Pienaar,MG Bracewell,1,0,,,,,,"",""
+ball,2,15.4,Washington Freedom,AJ Pienaar,MS Chapman,MG Bracewell,0,0,,,,,,"",""
+ball,2,15.5,Washington Freedom,AJ Pienaar,MS Chapman,MG Bracewell,4,0,,,,,,"",""
+ball,2,15.6,Washington Freedom,AJ Pienaar,MS Chapman,MG Bracewell,1,0,,,,,,"",""
+ball,2,16.1,Washington Freedom,AJ Pienaar,MS Chapman,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,16.2,Washington Freedom,AJ Pienaar,MS Chapman,Naveen-ul-Haq,0,0,,,,,,caught,AJ Pienaar
+ball,2,16.3,Washington Freedom,Mukhtar Ahmed,MS Chapman,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,16.4,Washington Freedom,Mukhtar Ahmed,MS Chapman,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,16.5,Washington Freedom,Mukhtar Ahmed,MS Chapman,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,16.6,Washington Freedom,MS Chapman,Mukhtar Ahmed,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,17.1,Washington Freedom,MS Chapman,Mukhtar Ahmed,TA Boult,1,0,,,,,,"",""
+ball,2,17.2,Washington Freedom,Mukhtar Ahmed,MS Chapman,TA Boult,0,0,,,,,,lbw,Mukhtar Ahmed
+ball,2,17.3,Washington Freedom,MR Adair,MS Chapman,TA Boult,0,0,,,,,,"",""
+ball,2,17.4,Washington Freedom,MR Adair,MS Chapman,TA Boult,0,0,,,,,,"",""
+ball,2,17.5,Washington Freedom,MR Adair,MS Chapman,TA Boult,0,0,,,,,,"",""
+ball,2,17.6,Washington Freedom,MR Adair,MS Chapman,TA Boult,0,0,,,,,,"",""
+ball,2,18.1,Washington Freedom,MS Chapman,MR Adair,R Ugarkar,2,0,,,,,,"",""
+ball,2,18.2,Washington Freedom,MS Chapman,MR Adair,R Ugarkar,4,0,,,,,,"",""
+ball,2,18.3,Washington Freedom,MS Chapman,MR Adair,R Ugarkar,4,0,,,,,,"",""
+ball,2,18.4,Washington Freedom,MS Chapman,MR Adair,R Ugarkar,0,2,2,,,,,"",""
+ball,2,18.5,Washington Freedom,MR Adair,MS Chapman,R Ugarkar,1,0,,,,,,"",""
+ball,2,18.6,Washington Freedom,MS Chapman,MR Adair,R Ugarkar,0,1,,,,1,,"",""
+ball,2,18.7,Washington Freedom,MR Adair,MS Chapman,R Ugarkar,0,0,,,,,,caught,MR Adair
+ball,2,19.1,Washington Freedom,MS Chapman,IG Holland,KA Pollard,2,0,,,,,,"",""
+ball,2,19.2,Washington Freedom,MS Chapman,IG Holland,KA Pollard,1,0,,,,,,"",""

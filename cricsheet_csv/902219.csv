@@ -1,0 +1,299 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Delhi
+info,team,Goa
+info,gender,male
+info,season,2015/16
+info,date,2016/01/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Motibaug Cricket Ground
+info,city,
+info,toss_winner,Goa
+info,toss_decision,field
+info,winner,Delhi
+info,winner_runs,2
+info,player,Delhi,UBT Chand
+info,player,Delhi,G Gambhir
+info,player,Delhi,PJ Sangwan
+info,player,Delhi,Aditya Kaushik
+info,player,Delhi,N Rana
+info,player,Delhi,Milind Kumar
+info,player,Delhi,P Negi
+info,player,Delhi,Akash Sudan
+info,player,Delhi,Shivam Sharma
+info,player,Delhi,Suboth Bhati
+info,player,Delhi,P Awana
+info,player,Goa,RR Singh
+info,player,Goa,SS Bandekar
+info,player,Goa,Lakshay Garg
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,SB Jakati
+info,player,Goa,Srinivas Fadte
+info,player,Goa,Darshan Misal
+info,player,Goa,Snehal Kauthankar
+info,player,Goa,SA Asnodkar
+info,player,Goa,Sagun Kamat
+info,player,Goa,Kashyap Bakhale
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Akash Sudan,3d930abb
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,Kashyap Bakhale,aa39eaa3
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,P Awana,1a0c3177
+info,registry,people,P Negi,f62772e5
+info,registry,people,PJ Sangwan,9fc0ef64
+info,registry,people,RR Singh,4fbb35dd
+info,registry,people,SA Asnodkar,ae091d39
+info,registry,people,SB Jakati,c8179c68
+info,registry,people,SS Bandekar,031b389c
+info,registry,people,Sagun Kamat,8a58cc2a
+info,registry,people,Shivam Sharma,6f49cc6e
+info,registry,people,Snehal Kauthankar,3a0dc16e
+info,registry,people,Srinivas Fadte,4af69c7c
+info,registry,people,Suboth Bhati,bee290b6
+info,registry,people,UBT Chand,0c94f480
+ball,1,0.1,Delhi,UBT Chand,G Gambhir,RR Singh,0,0,,,,,,"",""
+ball,1,0.2,Delhi,UBT Chand,G Gambhir,RR Singh,0,0,,,,,,"",""
+ball,1,0.3,Delhi,UBT Chand,G Gambhir,RR Singh,1,0,,,,,,"",""
+ball,1,0.4,Delhi,G Gambhir,UBT Chand,RR Singh,2,0,,,,,,"",""
+ball,1,0.5,Delhi,G Gambhir,UBT Chand,RR Singh,0,0,,,,,,"",""
+ball,1,0.6,Delhi,G Gambhir,UBT Chand,RR Singh,0,0,,,,,,"",""
+ball,1,1.1,Delhi,UBT Chand,G Gambhir,SS Bandekar,1,0,,,,,,"",""
+ball,1,1.2,Delhi,G Gambhir,UBT Chand,SS Bandekar,0,0,,,,,,"",""
+ball,1,1.3,Delhi,G Gambhir,UBT Chand,SS Bandekar,0,0,,,,,,"",""
+ball,1,1.4,Delhi,G Gambhir,UBT Chand,SS Bandekar,0,0,,,,,,"",""
+ball,1,1.5,Delhi,G Gambhir,UBT Chand,SS Bandekar,1,0,,,,,,"",""
+ball,1,1.6,Delhi,UBT Chand,G Gambhir,SS Bandekar,0,1,1,,,,,"",""
+ball,1,1.7,Delhi,UBT Chand,G Gambhir,SS Bandekar,0,0,,,,,,"",""
+ball,1,2.1,Delhi,G Gambhir,UBT Chand,RR Singh,1,0,,,,,,"",""
+ball,1,2.2,Delhi,UBT Chand,G Gambhir,RR Singh,0,0,,,,,,"",""
+ball,1,2.3,Delhi,UBT Chand,G Gambhir,RR Singh,1,0,,,,,,"",""
+ball,1,2.4,Delhi,G Gambhir,UBT Chand,RR Singh,0,0,,,,,,"",""
+ball,1,2.5,Delhi,G Gambhir,UBT Chand,RR Singh,0,0,,,,,,"",""
+ball,1,2.6,Delhi,G Gambhir,UBT Chand,RR Singh,0,0,,,,,,"",""
+ball,1,3.1,Delhi,UBT Chand,G Gambhir,SS Bandekar,6,0,,,,,,"",""
+ball,1,3.2,Delhi,UBT Chand,G Gambhir,SS Bandekar,6,0,,,,,,"",""
+ball,1,3.3,Delhi,UBT Chand,G Gambhir,SS Bandekar,0,0,,,,,,"",""
+ball,1,3.4,Delhi,UBT Chand,G Gambhir,SS Bandekar,0,0,,,,,,bowled,UBT Chand
+ball,1,3.5,Delhi,PJ Sangwan,G Gambhir,SS Bandekar,0,0,,,,,,"",""
+ball,1,3.6,Delhi,PJ Sangwan,G Gambhir,SS Bandekar,1,0,,,,,,"",""
+ball,1,4.1,Delhi,PJ Sangwan,G Gambhir,Lakshay Garg,0,0,,,,,,"",""
+ball,1,4.2,Delhi,PJ Sangwan,G Gambhir,Lakshay Garg,1,0,,,,,,"",""
+ball,1,4.3,Delhi,G Gambhir,PJ Sangwan,Lakshay Garg,0,0,,,,,,caught,G Gambhir
+ball,1,4.4,Delhi,Aditya Kaushik,PJ Sangwan,Lakshay Garg,0,0,,,,,,"",""
+ball,1,4.5,Delhi,Aditya Kaushik,PJ Sangwan,Lakshay Garg,1,0,,,,,,"",""
+ball,1,4.6,Delhi,PJ Sangwan,Aditya Kaushik,Lakshay Garg,1,0,,,,,,"",""
+ball,1,5.1,Delhi,PJ Sangwan,Aditya Kaushik,RR Singh,1,0,,,,,,"",""
+ball,1,5.2,Delhi,Aditya Kaushik,PJ Sangwan,RR Singh,0,0,,,,,,"",""
+ball,1,5.3,Delhi,Aditya Kaushik,PJ Sangwan,RR Singh,1,0,,,,,,"",""
+ball,1,5.4,Delhi,PJ Sangwan,Aditya Kaushik,RR Singh,4,0,,,,,,"",""
+ball,1,5.5,Delhi,PJ Sangwan,Aditya Kaushik,RR Singh,0,0,,,,,,"",""
+ball,1,5.6,Delhi,PJ Sangwan,Aditya Kaushik,RR Singh,1,0,,,,,,"",""
+ball,1,6.1,Delhi,PJ Sangwan,Aditya Kaushik,Lakshay Garg,0,0,,,,,,caught,PJ Sangwan
+ball,1,6.2,Delhi,N Rana,Aditya Kaushik,Lakshay Garg,0,0,,,,,,"",""
+ball,1,6.3,Delhi,N Rana,Aditya Kaushik,Lakshay Garg,2,0,,,,,,"",""
+ball,1,6.4,Delhi,N Rana,Aditya Kaushik,Lakshay Garg,0,0,,,,,,"",""
+ball,1,6.5,Delhi,N Rana,Aditya Kaushik,Lakshay Garg,0,0,,,,,,"",""
+ball,1,6.6,Delhi,N Rana,Aditya Kaushik,Lakshay Garg,0,0,,,,,,"",""
+ball,1,7.1,Delhi,Aditya Kaushik,N Rana,Deepraj Gaonkar,0,0,,,,,,"",""
+ball,1,7.2,Delhi,Aditya Kaushik,N Rana,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,7.3,Delhi,N Rana,Aditya Kaushik,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,7.4,Delhi,Aditya Kaushik,N Rana,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,7.5,Delhi,N Rana,Aditya Kaushik,Deepraj Gaonkar,0,0,,,,,,"",""
+ball,1,7.6,Delhi,N Rana,Aditya Kaushik,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,8.1,Delhi,N Rana,Aditya Kaushik,SB Jakati,0,1,1,,,,,"",""
+ball,1,8.2,Delhi,N Rana,Aditya Kaushik,SB Jakati,0,0,,,,,,"",""
+ball,1,8.3,Delhi,N Rana,Aditya Kaushik,SB Jakati,1,0,,,,,,run out,N Rana
+ball,1,8.4,Delhi,Aditya Kaushik,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,8.5,Delhi,Aditya Kaushik,Milind Kumar,SB Jakati,0,0,,,,,,caught,Aditya Kaushik
+ball,1,8.6,Delhi,P Negi,Milind Kumar,SB Jakati,1,0,,,,,,"",""
+ball,1,8.7,Delhi,Milind Kumar,P Negi,SB Jakati,0,0,,,,,,"",""
+ball,1,9.1,Delhi,P Negi,Milind Kumar,Srinivas Fadte,1,0,,,,,,"",""
+ball,1,9.2,Delhi,Milind Kumar,P Negi,Srinivas Fadte,1,0,,,,,,"",""
+ball,1,9.3,Delhi,P Negi,Milind Kumar,Srinivas Fadte,0,0,,,,,,"",""
+ball,1,9.4,Delhi,P Negi,Milind Kumar,Srinivas Fadte,1,0,,,,,,"",""
+ball,1,9.5,Delhi,Milind Kumar,P Negi,Srinivas Fadte,0,0,,,,,,"",""
+ball,1,9.6,Delhi,Milind Kumar,P Negi,Srinivas Fadte,0,4,,,4,,,"",""
+ball,1,10.1,Delhi,P Negi,Milind Kumar,SB Jakati,0,0,,,,,,bowled,P Negi
+ball,1,10.2,Delhi,Akash Sudan,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,10.3,Delhi,Akash Sudan,Milind Kumar,SB Jakati,0,4,,,4,,,"",""
+ball,1,10.4,Delhi,Akash Sudan,Milind Kumar,SB Jakati,0,0,,,,,,bowled,Akash Sudan
+ball,1,10.5,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,4,0,,,,,,"",""
+ball,1,10.6,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,1,0,,,,,,"",""
+ball,1,11.1,Delhi,Shivam Sharma,Milind Kumar,Darshan Misal,1,0,,,,,,"",""
+ball,1,11.2,Delhi,Milind Kumar,Shivam Sharma,Darshan Misal,0,0,,,,,,"",""
+ball,1,11.3,Delhi,Milind Kumar,Shivam Sharma,Darshan Misal,1,0,,,,,,"",""
+ball,1,11.4,Delhi,Shivam Sharma,Milind Kumar,Darshan Misal,0,0,,,,,,"",""
+ball,1,11.5,Delhi,Shivam Sharma,Milind Kumar,Darshan Misal,1,0,,,,,,"",""
+ball,1,11.6,Delhi,Milind Kumar,Shivam Sharma,Darshan Misal,0,0,,,,,,"",""
+ball,1,12.1,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,12.2,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,12.3,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,12.4,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,4,0,,,,,,"",""
+ball,1,12.5,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,0,1,1,,,,,"",""
+ball,1,12.6,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,12.7,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,13.1,Delhi,Milind Kumar,Shivam Sharma,Darshan Misal,0,0,,,,,,"",""
+ball,1,13.2,Delhi,Milind Kumar,Shivam Sharma,Darshan Misal,1,0,,,,,,"",""
+ball,1,13.3,Delhi,Shivam Sharma,Milind Kumar,Darshan Misal,0,0,,,,,,"",""
+ball,1,13.4,Delhi,Shivam Sharma,Milind Kumar,Darshan Misal,1,0,,,,,,"",""
+ball,1,13.5,Delhi,Milind Kumar,Shivam Sharma,Darshan Misal,0,0,,,,,,"",""
+ball,1,13.6,Delhi,Milind Kumar,Shivam Sharma,Darshan Misal,0,0,,,,,,"",""
+ball,1,14.1,Delhi,Shivam Sharma,Milind Kumar,SB Jakati,0,0,,,,,,lbw,Shivam Sharma
+ball,1,14.2,Delhi,Suboth Bhati,Milind Kumar,SB Jakati,0,0,,,,,,caught,Suboth Bhati
+ball,1,14.3,Delhi,P Awana,Milind Kumar,SB Jakati,4,0,,,,,,"",""
+ball,1,14.4,Delhi,P Awana,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,14.5,Delhi,P Awana,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,14.6,Delhi,P Awana,Milind Kumar,SB Jakati,0,0,,,,,,"",""
+ball,1,15.1,Delhi,Milind Kumar,P Awana,Darshan Misal,0,0,,,,,,"",""
+ball,1,15.2,Delhi,Milind Kumar,P Awana,Darshan Misal,0,0,,,,,,"",""
+ball,1,15.3,Delhi,Milind Kumar,P Awana,Darshan Misal,0,0,,,,,,"",""
+ball,1,15.4,Delhi,Milind Kumar,P Awana,Darshan Misal,0,0,,,,,,"",""
+ball,1,15.5,Delhi,Milind Kumar,P Awana,Darshan Misal,1,0,,,,,,"",""
+ball,1,15.6,Delhi,P Awana,Milind Kumar,Darshan Misal,0,0,,,,,,"",""
+ball,1,16.1,Delhi,Milind Kumar,P Awana,SS Bandekar,0,0,,,,,,"",""
+ball,1,16.2,Delhi,Milind Kumar,P Awana,SS Bandekar,4,0,,,,,,"",""
+ball,1,16.3,Delhi,Milind Kumar,P Awana,SS Bandekar,4,0,,,,,,"",""
+ball,1,16.4,Delhi,Milind Kumar,P Awana,SS Bandekar,0,0,,,,,,"",""
+ball,1,16.5,Delhi,Milind Kumar,P Awana,SS Bandekar,1,0,,,,,,"",""
+ball,1,16.6,Delhi,P Awana,Milind Kumar,SS Bandekar,0,0,,,,,,"",""
+ball,1,17.1,Delhi,Milind Kumar,P Awana,Darshan Misal,0,0,,,,,,"",""
+ball,1,17.2,Delhi,Milind Kumar,P Awana,Darshan Misal,0,0,,,,,,"",""
+ball,1,17.3,Delhi,Milind Kumar,P Awana,Darshan Misal,0,0,,,,,,"",""
+ball,1,17.4,Delhi,Milind Kumar,P Awana,Darshan Misal,0,0,,,,,,"",""
+ball,1,17.5,Delhi,Milind Kumar,P Awana,Darshan Misal,1,0,,,,,,"",""
+ball,1,17.6,Delhi,P Awana,Milind Kumar,Darshan Misal,0,0,,,,,,"",""
+ball,1,18.1,Delhi,Milind Kumar,P Awana,Srinivas Fadte,1,0,,,,,,"",""
+ball,1,18.2,Delhi,P Awana,Milind Kumar,Srinivas Fadte,0,0,,,,,,"",""
+ball,1,18.3,Delhi,P Awana,Milind Kumar,Srinivas Fadte,0,0,,,,,,"",""
+ball,1,18.4,Delhi,P Awana,Milind Kumar,Srinivas Fadte,4,0,,,,,,"",""
+ball,1,18.5,Delhi,P Awana,Milind Kumar,Srinivas Fadte,0,0,,,,,,"",""
+ball,1,18.6,Delhi,P Awana,Milind Kumar,Srinivas Fadte,0,0,,,,,,"",""
+ball,1,19.1,Delhi,Milind Kumar,P Awana,RR Singh,0,1,1,,,,,"",""
+ball,1,19.2,Delhi,Milind Kumar,P Awana,RR Singh,4,0,,,,,,"",""
+ball,1,19.3,Delhi,Milind Kumar,P Awana,RR Singh,0,0,,,,,,caught,Milind Kumar
+ball,2,0.1,Goa,Snehal Kauthankar,SA Asnodkar,P Awana,4,0,,,,,,"",""
+ball,2,0.2,Goa,Snehal Kauthankar,SA Asnodkar,P Awana,0,0,,,,,,"",""
+ball,2,0.3,Goa,Snehal Kauthankar,SA Asnodkar,P Awana,0,0,,,,,,lbw,Snehal Kauthankar
+ball,2,0.4,Goa,RR Singh,SA Asnodkar,P Awana,0,0,,,,,,"",""
+ball,2,0.5,Goa,RR Singh,SA Asnodkar,P Awana,4,0,,,,,,"",""
+ball,2,0.6,Goa,RR Singh,SA Asnodkar,P Awana,1,0,,,,,,"",""
+ball,2,1.1,Goa,RR Singh,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,1.2,Goa,RR Singh,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,1.3,Goa,RR Singh,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,1.4,Goa,RR Singh,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,1.5,Goa,RR Singh,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,1.6,Goa,RR Singh,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,2.1,Goa,SA Asnodkar,RR Singh,P Awana,0,0,,,,,,"",""
+ball,2,2.2,Goa,SA Asnodkar,RR Singh,P Awana,4,0,,,,,,"",""
+ball,2,2.3,Goa,SA Asnodkar,RR Singh,P Awana,0,0,,,,,,"",""
+ball,2,2.4,Goa,SA Asnodkar,RR Singh,P Awana,1,0,,,,,,"",""
+ball,2,2.5,Goa,RR Singh,SA Asnodkar,P Awana,0,0,,,,,,bowled,RR Singh
+ball,2,2.6,Goa,Sagun Kamat,SA Asnodkar,P Awana,0,0,,,,,,"",""
+ball,2,3.1,Goa,SA Asnodkar,Sagun Kamat,PJ Sangwan,1,0,,,,,,"",""
+ball,2,3.2,Goa,Sagun Kamat,SA Asnodkar,PJ Sangwan,1,0,,,,,,"",""
+ball,2,3.3,Goa,SA Asnodkar,Sagun Kamat,PJ Sangwan,4,0,,,,,,"",""
+ball,2,3.4,Goa,SA Asnodkar,Sagun Kamat,PJ Sangwan,1,0,,,,,,"",""
+ball,2,3.5,Goa,Sagun Kamat,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,3.6,Goa,Sagun Kamat,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,4.1,Goa,SA Asnodkar,Sagun Kamat,Shivam Sharma,4,0,,,,,,"",""
+ball,2,4.2,Goa,SA Asnodkar,Sagun Kamat,Shivam Sharma,0,0,,,,,,"",""
+ball,2,4.3,Goa,SA Asnodkar,Sagun Kamat,Shivam Sharma,1,0,,,,,,"",""
+ball,2,4.4,Goa,Sagun Kamat,SA Asnodkar,Shivam Sharma,0,0,,,,,,"",""
+ball,2,4.5,Goa,Sagun Kamat,SA Asnodkar,Shivam Sharma,4,0,,,,,,"",""
+ball,2,4.6,Goa,Sagun Kamat,SA Asnodkar,Shivam Sharma,4,0,,,,,,"",""
+ball,2,5.1,Goa,SA Asnodkar,Sagun Kamat,PJ Sangwan,1,0,,,,,,"",""
+ball,2,5.2,Goa,Sagun Kamat,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,5.3,Goa,Sagun Kamat,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,5.4,Goa,Sagun Kamat,SA Asnodkar,PJ Sangwan,0,0,,,,,,caught,Sagun Kamat
+ball,2,5.5,Goa,Deepraj Gaonkar,SA Asnodkar,PJ Sangwan,1,0,,,,,,"",""
+ball,2,5.6,Goa,SA Asnodkar,Deepraj Gaonkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,6.1,Goa,Deepraj Gaonkar,SA Asnodkar,P Awana,0,0,,,,,,"",""
+ball,2,6.2,Goa,Deepraj Gaonkar,SA Asnodkar,P Awana,0,0,,,,,,"",""
+ball,2,6.3,Goa,Deepraj Gaonkar,SA Asnodkar,P Awana,0,0,,,,,,"",""
+ball,2,6.4,Goa,Deepraj Gaonkar,SA Asnodkar,P Awana,1,0,,,,,,"",""
+ball,2,6.5,Goa,SA Asnodkar,Deepraj Gaonkar,P Awana,1,0,,,,,,"",""
+ball,2,6.6,Goa,Deepraj Gaonkar,SA Asnodkar,P Awana,2,0,,,,,,"",""
+ball,2,7.1,Goa,SA Asnodkar,Deepraj Gaonkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,7.2,Goa,SA Asnodkar,Deepraj Gaonkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,7.3,Goa,SA Asnodkar,Deepraj Gaonkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,7.4,Goa,SA Asnodkar,Deepraj Gaonkar,PJ Sangwan,2,0,,,,,,"",""
+ball,2,7.5,Goa,SA Asnodkar,Deepraj Gaonkar,PJ Sangwan,1,0,,,,,,"",""
+ball,2,7.6,Goa,Deepraj Gaonkar,SA Asnodkar,PJ Sangwan,0,0,,,,,,"",""
+ball,2,8.1,Goa,SA Asnodkar,Deepraj Gaonkar,P Negi,0,0,,,,,,caught,SA Asnodkar
+ball,2,8.2,Goa,Darshan Misal,Deepraj Gaonkar,P Negi,0,0,,,,,,"",""
+ball,2,8.3,Goa,Darshan Misal,Deepraj Gaonkar,P Negi,0,0,,,,,,"",""
+ball,2,8.4,Goa,Darshan Misal,Deepraj Gaonkar,P Negi,0,1,1,,,,,"",""
+ball,2,8.5,Goa,Darshan Misal,Deepraj Gaonkar,P Negi,1,0,,,,,,"",""
+ball,2,8.6,Goa,Deepraj Gaonkar,Darshan Misal,P Negi,1,0,,,,,,"",""
+ball,2,8.7,Goa,Darshan Misal,Deepraj Gaonkar,P Negi,1,0,,,,,,"",""
+ball,2,9.1,Goa,Darshan Misal,Deepraj Gaonkar,Suboth Bhati,0,0,,,,,,"",""
+ball,2,9.2,Goa,Darshan Misal,Deepraj Gaonkar,Suboth Bhati,0,0,,,,,,"",""
+ball,2,9.3,Goa,Darshan Misal,Deepraj Gaonkar,Suboth Bhati,0,0,,,,,,"",""
+ball,2,9.4,Goa,Darshan Misal,Deepraj Gaonkar,Suboth Bhati,0,0,,,,,,"",""
+ball,2,9.5,Goa,Darshan Misal,Deepraj Gaonkar,Suboth Bhati,0,0,,,,,,"",""
+ball,2,9.6,Goa,Darshan Misal,Deepraj Gaonkar,Suboth Bhati,0,0,,,,,,"",""
+ball,2,10.1,Goa,Deepraj Gaonkar,Darshan Misal,P Negi,1,0,,,,,,"",""
+ball,2,10.2,Goa,Darshan Misal,Deepraj Gaonkar,P Negi,0,0,,,,,,"",""
+ball,2,10.3,Goa,Darshan Misal,Deepraj Gaonkar,P Negi,1,0,,,,,,"",""
+ball,2,10.4,Goa,Deepraj Gaonkar,Darshan Misal,P Negi,0,0,,,,,,"",""
+ball,2,10.5,Goa,Deepraj Gaonkar,Darshan Misal,P Negi,0,0,,,,,,"",""
+ball,2,10.6,Goa,Deepraj Gaonkar,Darshan Misal,P Negi,0,0,,,,,,"",""
+ball,2,11.1,Goa,Darshan Misal,Deepraj Gaonkar,Suboth Bhati,0,0,,,,,,"",""
+ball,2,11.2,Goa,Darshan Misal,Deepraj Gaonkar,Suboth Bhati,0,0,,,,,,"",""
+ball,2,11.3,Goa,Darshan Misal,Deepraj Gaonkar,Suboth Bhati,1,0,,,,,,"",""
+ball,2,11.4,Goa,Deepraj Gaonkar,Darshan Misal,Suboth Bhati,0,0,,,,,,caught,Deepraj Gaonkar
+ball,2,11.5,Goa,SS Bandekar,Darshan Misal,Suboth Bhati,4,0,,,,,,"",""
+ball,2,11.6,Goa,SS Bandekar,Darshan Misal,Suboth Bhati,1,0,,,,,,"",""
+ball,2,12.1,Goa,SS Bandekar,Darshan Misal,P Negi,0,0,,,,,,"",""
+ball,2,12.2,Goa,SS Bandekar,Darshan Misal,P Negi,1,0,,,,,,"",""
+ball,2,12.3,Goa,Darshan Misal,SS Bandekar,P Negi,0,0,,,,,,"",""
+ball,2,12.4,Goa,Darshan Misal,SS Bandekar,P Negi,1,0,,,,,,"",""
+ball,2,12.5,Goa,SS Bandekar,Darshan Misal,P Negi,0,0,,,,,,"",""
+ball,2,12.6,Goa,SS Bandekar,Darshan Misal,P Negi,0,0,,,,,,"",""
+ball,2,13.1,Goa,Darshan Misal,SS Bandekar,Suboth Bhati,1,0,,,,,,"",""
+ball,2,13.2,Goa,SS Bandekar,Darshan Misal,Suboth Bhati,0,0,,,,,,"",""
+ball,2,13.3,Goa,SS Bandekar,Darshan Misal,Suboth Bhati,0,0,,,,,,"",""
+ball,2,13.4,Goa,SS Bandekar,Darshan Misal,Suboth Bhati,0,0,,,,,,"",""
+ball,2,13.5,Goa,SS Bandekar,Darshan Misal,Suboth Bhati,0,0,,,,,,"",""
+ball,2,13.6,Goa,SS Bandekar,Darshan Misal,Suboth Bhati,4,0,,,,,,"",""
+ball,2,14.1,Goa,Darshan Misal,SS Bandekar,Shivam Sharma,1,0,,,,,,"",""
+ball,2,14.2,Goa,SS Bandekar,Darshan Misal,Shivam Sharma,1,0,,,,,,"",""
+ball,2,14.3,Goa,Darshan Misal,SS Bandekar,Shivam Sharma,1,0,,,,,,"",""
+ball,2,14.4,Goa,SS Bandekar,Darshan Misal,Shivam Sharma,0,0,,,,,,"",""
+ball,2,14.5,Goa,SS Bandekar,Darshan Misal,Shivam Sharma,1,0,,,,,,"",""
+ball,2,14.6,Goa,Darshan Misal,SS Bandekar,Shivam Sharma,1,0,,,,,,"",""
+ball,2,15.1,Goa,Darshan Misal,SS Bandekar,Suboth Bhati,0,0,,,,,,"",""
+ball,2,15.2,Goa,Darshan Misal,SS Bandekar,Suboth Bhati,0,0,,,,,,run out,Darshan Misal
+ball,2,15.3,Goa,SS Bandekar,Srinivas Fadte,Suboth Bhati,0,0,,,,,,"",""
+ball,2,15.4,Goa,SS Bandekar,Srinivas Fadte,Suboth Bhati,1,0,,,,,,"",""
+ball,2,15.5,Goa,Srinivas Fadte,SS Bandekar,Suboth Bhati,1,0,,,,,,"",""
+ball,2,15.6,Goa,SS Bandekar,Srinivas Fadte,Suboth Bhati,1,0,,,,,,"",""
+ball,2,16.1,Goa,SS Bandekar,Srinivas Fadte,P Negi,0,0,,,,,,"",""
+ball,2,16.2,Goa,SS Bandekar,Srinivas Fadte,P Negi,4,0,,,,,,"",""
+ball,2,16.3,Goa,SS Bandekar,Srinivas Fadte,P Negi,1,0,,,,,,"",""
+ball,2,16.4,Goa,Srinivas Fadte,SS Bandekar,P Negi,0,0,,,,,,"",""
+ball,2,16.5,Goa,Srinivas Fadte,SS Bandekar,P Negi,0,0,,,,,,"",""
+ball,2,16.6,Goa,Srinivas Fadte,SS Bandekar,P Negi,1,0,,,,,,"",""
+ball,2,17.1,Goa,Srinivas Fadte,SS Bandekar,Akash Sudan,0,0,,,,,,"",""
+ball,2,17.2,Goa,Srinivas Fadte,SS Bandekar,Akash Sudan,0,0,,,,,,caught,Srinivas Fadte
+ball,2,17.3,Goa,SB Jakati,SS Bandekar,Akash Sudan,0,0,,,,,,"",""
+ball,2,17.4,Goa,SB Jakati,SS Bandekar,Akash Sudan,0,0,,,,,,"",""
+ball,2,17.5,Goa,SB Jakati,SS Bandekar,Akash Sudan,0,0,,,,,,hit wicket,SB Jakati
+ball,2,17.6,Goa,Lakshay Garg,SS Bandekar,Akash Sudan,0,0,,,,,,"",""
+ball,2,18.1,Goa,SS Bandekar,Lakshay Garg,P Awana,1,0,,,,,,"",""
+ball,2,18.2,Goa,Lakshay Garg,SS Bandekar,P Awana,0,0,,,,,,caught,Lakshay Garg
+ball,2,18.3,Goa,Kashyap Bakhale,SS Bandekar,P Awana,0,0,,,,,,"",""
+ball,2,18.4,Goa,Kashyap Bakhale,SS Bandekar,P Awana,1,0,,,,,,"",""
+ball,2,18.5,Goa,SS Bandekar,Kashyap Bakhale,P Awana,1,0,,,,,,"",""
+ball,2,18.6,Goa,Kashyap Bakhale,SS Bandekar,P Awana,0,0,,,,,,"",""
+ball,2,19.1,Goa,SS Bandekar,Kashyap Bakhale,Akash Sudan,0,0,,,,,,"",""
+ball,2,19.2,Goa,SS Bandekar,Kashyap Bakhale,Akash Sudan,0,0,,,,,,"",""
+ball,2,19.3,Goa,SS Bandekar,Kashyap Bakhale,Akash Sudan,4,0,,,,,,"",""
+ball,2,19.4,Goa,SS Bandekar,Kashyap Bakhale,Akash Sudan,0,0,,,,,,"",""
+ball,2,19.5,Goa,SS Bandekar,Kashyap Bakhale,Akash Sudan,0,0,,,,,,"",""
+ball,2,19.6,Goa,SS Bandekar,Kashyap Bakhale,Akash Sudan,6,0,,,,,,"",""

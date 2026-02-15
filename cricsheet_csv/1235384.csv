@@ -1,0 +1,267 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Titans
+info,gender,male
+info,season,2020/21
+info,date,2021/02/22
+info,event,CSA T20 Challenge
+info,match_number,8
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Lions
+info,toss_decision,bat
+info,player_of_match,HE van der Dussen
+info,player_of_match,BE Hendricks
+info,umpire,BP Jele
+info,umpire,BM White
+info,reserve_umpire,Stephen Harris
+info,tv_umpire,A Paleker
+info,match_referee,GH Pienaar
+info,winner,Lions
+info,winner_runs,18
+info,method,D/L
+info,player,Lions,RR Hendricks
+info,player,Lions,RD Rickelton
+info,player,Lions,T Bavuma
+info,player,Lions,HE van der Dussen
+info,player,Lions,D Pretorius
+info,player,Lions,D Potgieter
+info,player,Lions,BC Fortuin
+info,player,Lions,SSB Magala
+info,player,Lions,AM Phangiso
+info,player,Lions,K Rabada
+info,player,Lions,BE Hendricks
+info,player,Titans,H Davids
+info,player,Titans,AK Markram
+info,player,Titans,D Elgar
+info,player,Titans,BS Makhanya
+info,player,Titans,H Klaasen
+info,player,Titans,CH Morris
+info,player,Titans,SR Harmer
+info,player,Titans,CJ Dala
+info,player,Titans,LB Williams
+info,player,Titans,L Ngidi
+info,player,Titans,T Shamsi
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,D Pretorius,11614d87
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Davids,9c9f8dbc
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SR Harmer,23638956
+info,registry,people,SSB Magala,8361e524
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Shamsi,a03bba42
+ball,1,0.1,Lions,RR Hendricks,RD Rickelton,SR Harmer,0,0,,,,,,"",""
+ball,1,0.2,Lions,RR Hendricks,RD Rickelton,SR Harmer,0,0,,,,,,"",""
+ball,1,0.3,Lions,RR Hendricks,RD Rickelton,SR Harmer,0,0,,,,,,"",""
+ball,1,0.4,Lions,RR Hendricks,RD Rickelton,SR Harmer,1,0,,,,,,"",""
+ball,1,0.5,Lions,RD Rickelton,RR Hendricks,SR Harmer,0,0,,,,,,"",""
+ball,1,0.6,Lions,RD Rickelton,RR Hendricks,SR Harmer,1,0,,,,,,"",""
+ball,1,1.1,Lions,RD Rickelton,RR Hendricks,CH Morris,1,0,,,,,,"",""
+ball,1,1.2,Lions,RR Hendricks,RD Rickelton,CH Morris,1,0,,,,,,"",""
+ball,1,1.3,Lions,RD Rickelton,RR Hendricks,CH Morris,0,4,,,,4,,"",""
+ball,1,1.4,Lions,RD Rickelton,RR Hendricks,CH Morris,0,0,,,,,,"",""
+ball,1,1.5,Lions,RD Rickelton,RR Hendricks,CH Morris,0,0,,,,,,"",""
+ball,1,1.6,Lions,RD Rickelton,RR Hendricks,CH Morris,0,0,,,,,,"",""
+ball,1,2.1,Lions,RR Hendricks,RD Rickelton,L Ngidi,1,0,,,,,,"",""
+ball,1,2.2,Lions,RD Rickelton,RR Hendricks,L Ngidi,1,0,,,,,,"",""
+ball,1,2.3,Lions,RR Hendricks,RD Rickelton,L Ngidi,1,0,,,,,,"",""
+ball,1,2.4,Lions,RD Rickelton,RR Hendricks,L Ngidi,1,0,,,,,,"",""
+ball,1,2.5,Lions,RR Hendricks,RD Rickelton,L Ngidi,4,0,,,,,,"",""
+ball,1,2.6,Lions,RR Hendricks,RD Rickelton,L Ngidi,4,0,,,,,,"",""
+ball,1,3.1,Lions,RD Rickelton,RR Hendricks,LB Williams,4,0,,,,,,"",""
+ball,1,3.2,Lions,RD Rickelton,RR Hendricks,LB Williams,0,0,,,,,,"",""
+ball,1,3.3,Lions,RD Rickelton,RR Hendricks,LB Williams,0,0,,,,,,"",""
+ball,1,3.4,Lions,RD Rickelton,RR Hendricks,LB Williams,0,0,,,,,,"",""
+ball,1,3.5,Lions,RD Rickelton,RR Hendricks,LB Williams,0,0,,,,,,bowled,RD Rickelton
+ball,1,3.6,Lions,T Bavuma,RR Hendricks,LB Williams,1,0,,,,,,"",""
+ball,1,4.1,Lions,T Bavuma,RR Hendricks,L Ngidi,1,0,,,,,,"",""
+ball,1,4.2,Lions,RR Hendricks,T Bavuma,L Ngidi,0,0,,,,,,"",""
+ball,1,4.3,Lions,RR Hendricks,T Bavuma,L Ngidi,2,0,,,,,,"",""
+ball,1,4.4,Lions,RR Hendricks,T Bavuma,L Ngidi,0,0,,,,,,"",""
+ball,1,4.5,Lions,RR Hendricks,T Bavuma,L Ngidi,0,0,,,,,,"",""
+ball,1,4.6,Lions,RR Hendricks,T Bavuma,L Ngidi,1,0,,,,,,"",""
+ball,1,5.1,Lions,RR Hendricks,T Bavuma,CH Morris,1,0,,,,,,"",""
+ball,1,5.2,Lions,T Bavuma,RR Hendricks,CH Morris,0,0,,,,,,"",""
+ball,1,5.3,Lions,T Bavuma,RR Hendricks,CH Morris,0,0,,,,,,"",""
+ball,1,5.4,Lions,T Bavuma,RR Hendricks,CH Morris,1,0,,,,,,"",""
+ball,1,5.5,Lions,RR Hendricks,T Bavuma,CH Morris,0,0,,,,,,"",""
+ball,1,5.6,Lions,RR Hendricks,T Bavuma,CH Morris,1,0,,,,,,"",""
+ball,1,6.1,Lions,RR Hendricks,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,1,6.2,Lions,T Bavuma,RR Hendricks,T Shamsi,6,0,,,,,,"",""
+ball,1,6.3,Lions,T Bavuma,RR Hendricks,T Shamsi,1,0,,,,,,"",""
+ball,1,6.4,Lions,RR Hendricks,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,1,6.5,Lions,T Bavuma,RR Hendricks,T Shamsi,0,1,1,,,,,"",""
+ball,1,6.6,Lions,T Bavuma,RR Hendricks,T Shamsi,1,0,,,,,,"",""
+ball,1,6.7,Lions,RR Hendricks,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,1,7.1,Lions,RR Hendricks,T Bavuma,CJ Dala,1,0,,,,,,"",""
+ball,1,7.2,Lions,T Bavuma,RR Hendricks,CJ Dala,1,0,,,,,,"",""
+ball,1,7.3,Lions,RR Hendricks,T Bavuma,CJ Dala,4,0,,,,,,"",""
+ball,1,7.4,Lions,RR Hendricks,T Bavuma,CJ Dala,4,0,,,,,,"",""
+ball,1,7.5,Lions,RR Hendricks,T Bavuma,CJ Dala,4,0,,,,,,"",""
+ball,1,7.6,Lions,RR Hendricks,T Bavuma,CJ Dala,1,0,,,,,,"",""
+ball,1,8.1,Lions,RR Hendricks,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,1,8.2,Lions,T Bavuma,RR Hendricks,T Shamsi,1,0,,,,,,"",""
+ball,1,8.3,Lions,RR Hendricks,T Bavuma,T Shamsi,4,0,,,,,,"",""
+ball,1,8.4,Lions,RR Hendricks,T Bavuma,T Shamsi,0,0,,,,,,caught,RR Hendricks
+ball,1,8.5,Lions,HE van der Dussen,T Bavuma,T Shamsi,1,0,,,,,,"",""
+ball,1,8.6,Lions,T Bavuma,HE van der Dussen,T Shamsi,0,0,,,,,,"",""
+ball,1,9.1,Lions,HE van der Dussen,T Bavuma,SR Harmer,1,0,,,,,,"",""
+ball,1,9.2,Lions,T Bavuma,HE van der Dussen,SR Harmer,0,0,,,,,,caught,T Bavuma
+ball,1,9.3,Lions,HE van der Dussen,D Pretorius,SR Harmer,1,0,,,,,,"",""
+ball,1,9.4,Lions,D Pretorius,HE van der Dussen,SR Harmer,0,0,,,,,,"",""
+ball,1,9.5,Lions,D Pretorius,HE van der Dussen,SR Harmer,1,0,,,,,,"",""
+ball,1,9.6,Lions,HE van der Dussen,D Pretorius,SR Harmer,1,0,,,,,,"",""
+ball,1,10.1,Lions,HE van der Dussen,D Pretorius,LB Williams,0,0,,,,,,"",""
+ball,1,10.2,Lions,HE van der Dussen,D Pretorius,LB Williams,4,0,,,,,,"",""
+ball,1,10.3,Lions,HE van der Dussen,D Pretorius,LB Williams,1,0,,,,,,"",""
+ball,1,10.4,Lions,D Pretorius,HE van der Dussen,LB Williams,0,0,,,,,,"",""
+ball,1,10.5,Lions,D Pretorius,HE van der Dussen,LB Williams,1,0,,,,,,"",""
+ball,1,10.6,Lions,HE van der Dussen,D Pretorius,LB Williams,1,0,,,,,,"",""
+ball,1,11.1,Lions,HE van der Dussen,D Pretorius,SR Harmer,1,0,,,,,,"",""
+ball,1,11.2,Lions,D Pretorius,HE van der Dussen,SR Harmer,1,0,,,,,,"",""
+ball,1,11.3,Lions,HE van der Dussen,D Pretorius,SR Harmer,4,0,,,,,,"",""
+ball,1,11.4,Lions,HE van der Dussen,D Pretorius,SR Harmer,0,0,,,,,,"",""
+ball,1,11.5,Lions,HE van der Dussen,D Pretorius,SR Harmer,1,0,,,,,,"",""
+ball,1,11.6,Lions,D Pretorius,HE van der Dussen,SR Harmer,6,0,,,,,,"",""
+ball,1,12.1,Lions,HE van der Dussen,D Pretorius,L Ngidi,1,0,,,,,,"",""
+ball,1,12.2,Lions,D Pretorius,HE van der Dussen,L Ngidi,1,0,,,,,,"",""
+ball,1,12.3,Lions,HE van der Dussen,D Pretorius,L Ngidi,1,0,,,,,,"",""
+ball,1,12.4,Lions,D Pretorius,HE van der Dussen,L Ngidi,0,0,,,,,,caught,D Pretorius
+ball,1,12.5,Lions,HE van der Dussen,D Potgieter,L Ngidi,0,0,,,,,,"",""
+ball,1,12.6,Lions,HE van der Dussen,D Potgieter,L Ngidi,0,0,,,,,,"",""
+ball,1,13.1,Lions,D Potgieter,HE van der Dussen,T Shamsi,1,0,,,,,,"",""
+ball,1,13.2,Lions,HE van der Dussen,D Potgieter,T Shamsi,1,0,,,,,,"",""
+ball,1,13.3,Lions,D Potgieter,HE van der Dussen,T Shamsi,1,0,,,,,,"",""
+ball,1,13.4,Lions,HE van der Dussen,D Potgieter,T Shamsi,1,0,,,,,,"",""
+ball,1,13.5,Lions,D Potgieter,HE van der Dussen,T Shamsi,0,0,,,,,,"",""
+ball,1,13.6,Lions,D Potgieter,HE van der Dussen,T Shamsi,1,0,,,,,,"",""
+ball,1,14.1,Lions,D Potgieter,HE van der Dussen,CH Morris,0,0,,,,,,"",""
+ball,1,14.2,Lions,D Potgieter,HE van der Dussen,CH Morris,1,0,,,,,,"",""
+ball,1,14.3,Lions,HE van der Dussen,D Potgieter,CH Morris,1,0,,,,,,"",""
+ball,1,14.4,Lions,D Potgieter,HE van der Dussen,CH Morris,1,0,,,,,,"",""
+ball,1,14.5,Lions,HE van der Dussen,D Potgieter,CH Morris,1,0,,,,,,"",""
+ball,1,14.6,Lions,D Potgieter,HE van der Dussen,CH Morris,1,0,,,,,,"",""
+ball,1,15.1,Lions,D Potgieter,HE van der Dussen,CJ Dala,2,0,,,,,,"",""
+ball,1,15.2,Lions,D Potgieter,HE van der Dussen,CJ Dala,1,0,,,,,,"",""
+ball,1,15.3,Lions,HE van der Dussen,D Potgieter,CJ Dala,1,0,,,,,,"",""
+ball,1,15.4,Lions,D Potgieter,HE van der Dussen,CJ Dala,1,0,,,,,,"",""
+ball,1,15.5,Lions,HE van der Dussen,D Potgieter,CJ Dala,6,0,,,,,,"",""
+ball,1,15.6,Lions,HE van der Dussen,D Potgieter,CJ Dala,2,0,,,,,,"",""
+ball,1,16.1,Lions,D Potgieter,HE van der Dussen,LB Williams,0,1,,,,1,,"",""
+ball,1,16.2,Lions,HE van der Dussen,D Potgieter,LB Williams,6,0,,,,,,"",""
+ball,1,16.3,Lions,HE van der Dussen,D Potgieter,LB Williams,0,1,1,,,,,"",""
+ball,2,0.1,Titans,H Davids,AK Markram,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.2,Titans,H Davids,AK Markram,BC Fortuin,0,2,2,,,,,"",""
+ball,2,0.3,Titans,AK Markram,H Davids,BC Fortuin,1,0,,,,,,"",""
+ball,2,0.4,Titans,H Davids,AK Markram,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.5,Titans,H Davids,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,2,0.6,Titans,AK Markram,H Davids,BC Fortuin,1,0,,,,,,"",""
+ball,2,0.7,Titans,H Davids,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,2,1.1,Titans,H Davids,AK Markram,K Rabada,1,0,,,,,,"",""
+ball,2,1.2,Titans,AK Markram,H Davids,K Rabada,0,0,,,,,,"",""
+ball,2,1.3,Titans,AK Markram,H Davids,K Rabada,4,0,,,,,,"",""
+ball,2,1.4,Titans,AK Markram,H Davids,K Rabada,0,0,,,,,,"",""
+ball,2,1.5,Titans,AK Markram,H Davids,K Rabada,0,0,,,,,,"",""
+ball,2,1.6,Titans,AK Markram,H Davids,K Rabada,1,0,,,,,,"",""
+ball,2,2.1,Titans,AK Markram,H Davids,BE Hendricks,1,0,,,,,,"",""
+ball,2,2.2,Titans,H Davids,AK Markram,BE Hendricks,0,4,,,,4,,"",""
+ball,2,2.3,Titans,H Davids,AK Markram,BE Hendricks,0,0,,,,,,bowled,H Davids
+ball,2,2.4,Titans,D Elgar,AK Markram,BE Hendricks,0,0,,,,,,"",""
+ball,2,2.5,Titans,D Elgar,AK Markram,BE Hendricks,0,0,,,,,,"",""
+ball,2,2.6,Titans,D Elgar,AK Markram,BE Hendricks,0,0,,,,,,"",""
+ball,2,3.1,Titans,AK Markram,D Elgar,SSB Magala,0,0,,,,,,caught,AK Markram
+ball,2,3.2,Titans,D Elgar,BS Makhanya,SSB Magala,4,0,,,,,,"",""
+ball,2,3.3,Titans,D Elgar,BS Makhanya,SSB Magala,1,0,,,,,,"",""
+ball,2,3.4,Titans,BS Makhanya,D Elgar,SSB Magala,4,0,,,,,,"",""
+ball,2,3.5,Titans,BS Makhanya,D Elgar,SSB Magala,0,0,,,,,,"",""
+ball,2,3.6,Titans,BS Makhanya,D Elgar,SSB Magala,2,0,,,,,,"",""
+ball,2,4.1,Titans,D Elgar,BS Makhanya,BE Hendricks,1,0,,,,,,"",""
+ball,2,4.2,Titans,BS Makhanya,D Elgar,BE Hendricks,1,0,,,,,,"",""
+ball,2,4.3,Titans,D Elgar,BS Makhanya,BE Hendricks,0,0,,,,,,"",""
+ball,2,4.4,Titans,D Elgar,BS Makhanya,BE Hendricks,1,0,,,,,,"",""
+ball,2,4.5,Titans,BS Makhanya,D Elgar,BE Hendricks,0,0,,,,,,"",""
+ball,2,4.6,Titans,BS Makhanya,D Elgar,BE Hendricks,1,0,,,,,,"",""
+ball,2,5.1,Titans,BS Makhanya,D Elgar,BC Fortuin,1,0,,,,,,"",""
+ball,2,5.2,Titans,D Elgar,BS Makhanya,BC Fortuin,1,0,,,,,,"",""
+ball,2,5.3,Titans,BS Makhanya,D Elgar,BC Fortuin,4,0,,,,,,"",""
+ball,2,5.4,Titans,BS Makhanya,D Elgar,BC Fortuin,1,0,,,,,,"",""
+ball,2,5.5,Titans,D Elgar,BS Makhanya,BC Fortuin,2,0,,,,,,"",""
+ball,2,5.6,Titans,D Elgar,BS Makhanya,BC Fortuin,0,0,,,,,,caught,D Elgar
+ball,2,6.1,Titans,BS Makhanya,H Klaasen,D Pretorius,1,0,,,,,,"",""
+ball,2,6.2,Titans,H Klaasen,BS Makhanya,D Pretorius,1,0,,,,,,"",""
+ball,2,6.3,Titans,BS Makhanya,H Klaasen,D Pretorius,1,0,,,,,,"",""
+ball,2,6.4,Titans,H Klaasen,BS Makhanya,D Pretorius,1,0,,,,,,"",""
+ball,2,6.5,Titans,BS Makhanya,H Klaasen,D Pretorius,1,0,,,,,,"",""
+ball,2,6.6,Titans,H Klaasen,BS Makhanya,D Pretorius,0,0,,,,,,caught and bowled,H Klaasen
+ball,2,7.1,Titans,BS Makhanya,CH Morris,BC Fortuin,1,0,,,,,,"",""
+ball,2,7.2,Titans,CH Morris,BS Makhanya,BC Fortuin,2,0,,,,,,"",""
+ball,2,7.3,Titans,CH Morris,BS Makhanya,BC Fortuin,1,0,,,,,,"",""
+ball,2,7.4,Titans,BS Makhanya,CH Morris,BC Fortuin,1,0,,,,,,"",""
+ball,2,7.5,Titans,CH Morris,BS Makhanya,BC Fortuin,0,0,,,,,,caught,CH Morris
+ball,2,7.6,Titans,SR Harmer,BS Makhanya,BC Fortuin,1,0,,,,,,"",""
+ball,2,8.1,Titans,SR Harmer,BS Makhanya,BE Hendricks,0,1,,,,1,,"",""
+ball,2,8.2,Titans,BS Makhanya,SR Harmer,BE Hendricks,1,0,,,,,,"",""
+ball,2,8.3,Titans,SR Harmer,BS Makhanya,BE Hendricks,0,1,,,,1,,"",""
+ball,2,8.4,Titans,BS Makhanya,SR Harmer,BE Hendricks,0,0,,,,,,caught,BS Makhanya
+ball,2,8.5,Titans,SR Harmer,CJ Dala,BE Hendricks,0,0,,,,,,"",""
+ball,2,8.6,Titans,SR Harmer,CJ Dala,BE Hendricks,1,0,,,,,,"",""
+ball,2,9.1,Titans,SR Harmer,CJ Dala,K Rabada,1,0,,,,,,"",""
+ball,2,9.2,Titans,CJ Dala,SR Harmer,K Rabada,1,0,,,,,,"",""
+ball,2,9.3,Titans,SR Harmer,CJ Dala,K Rabada,1,0,,,,,,"",""
+ball,2,9.4,Titans,CJ Dala,SR Harmer,K Rabada,0,0,,,,,,"",""
+ball,2,9.5,Titans,CJ Dala,SR Harmer,K Rabada,1,0,,,,,,"",""
+ball,2,9.6,Titans,SR Harmer,CJ Dala,K Rabada,0,1,1,,,,,"",""
+ball,2,9.7,Titans,SR Harmer,CJ Dala,K Rabada,0,0,,,,,,"",""
+ball,2,10.1,Titans,CJ Dala,SR Harmer,D Pretorius,1,0,,,,,,"",""
+ball,2,10.2,Titans,SR Harmer,CJ Dala,D Pretorius,1,0,,,,,,"",""
+ball,2,10.3,Titans,CJ Dala,SR Harmer,D Pretorius,1,0,,,,,,"",""
+ball,2,10.4,Titans,SR Harmer,CJ Dala,D Pretorius,1,0,,,,,,"",""
+ball,2,10.5,Titans,CJ Dala,SR Harmer,D Pretorius,6,0,,,,,,"",""
+ball,2,10.6,Titans,CJ Dala,SR Harmer,D Pretorius,1,0,,,,,,"",""
+ball,2,11.1,Titans,CJ Dala,SR Harmer,SSB Magala,0,1,1,,,,,"",""
+ball,2,11.2,Titans,CJ Dala,SR Harmer,SSB Magala,1,0,,,,,,"",""
+ball,2,11.3,Titans,SR Harmer,CJ Dala,SSB Magala,0,0,,,,,,"",""
+ball,2,11.4,Titans,SR Harmer,CJ Dala,SSB Magala,4,0,,,,,,"",""
+ball,2,11.5,Titans,SR Harmer,CJ Dala,SSB Magala,1,0,,,,,,"",""
+ball,2,11.6,Titans,CJ Dala,SR Harmer,SSB Magala,1,0,,,,,,"",""
+ball,2,11.7,Titans,SR Harmer,CJ Dala,SSB Magala,1,0,,,,,,"",""
+ball,2,12.1,Titans,SR Harmer,CJ Dala,D Pretorius,0,0,,,,,,"",""
+ball,2,12.2,Titans,SR Harmer,CJ Dala,D Pretorius,4,0,,,,,,"",""
+ball,2,12.3,Titans,SR Harmer,CJ Dala,D Pretorius,1,0,,,,,,"",""
+ball,2,12.4,Titans,CJ Dala,SR Harmer,D Pretorius,6,0,,,,,,"",""
+ball,2,12.5,Titans,CJ Dala,SR Harmer,D Pretorius,2,0,,,,,,"",""
+ball,2,12.6,Titans,CJ Dala,SR Harmer,D Pretorius,0,0,,,,,,caught,CJ Dala
+ball,2,13.1,Titans,LB Williams,SR Harmer,K Rabada,0,0,,,,,,"",""
+ball,2,13.2,Titans,LB Williams,SR Harmer,K Rabada,1,0,,,,,,"",""
+ball,2,13.3,Titans,SR Harmer,LB Williams,K Rabada,0,0,,,,,,caught,SR Harmer
+ball,2,13.4,Titans,LB Williams,L Ngidi,K Rabada,0,2,2,,,,,"",""
+ball,2,13.5,Titans,L Ngidi,LB Williams,K Rabada,0,0,,,,,,"",""
+ball,2,13.6,Titans,L Ngidi,LB Williams,K Rabada,1,0,,,,,,"",""
+ball,2,13.7,Titans,LB Williams,L Ngidi,K Rabada,0,1,1,,,,,"",""
+ball,2,13.8,Titans,LB Williams,L Ngidi,K Rabada,2,0,,,,,,"",""
+ball,2,14.1,Titans,L Ngidi,LB Williams,SSB Magala,1,0,,,,,,"",""
+ball,2,14.2,Titans,LB Williams,L Ngidi,SSB Magala,2,0,,,,,,"",""
+ball,2,14.3,Titans,LB Williams,L Ngidi,SSB Magala,2,0,,,,,,"",""
+ball,2,14.4,Titans,LB Williams,L Ngidi,SSB Magala,4,0,,,,,,"",""
+ball,2,14.5,Titans,LB Williams,L Ngidi,SSB Magala,0,1,,,,1,,"",""
+ball,2,14.6,Titans,L Ngidi,LB Williams,SSB Magala,1,0,,,,,,"",""

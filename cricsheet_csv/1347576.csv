@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Somerset
+info,gender,male
+info,season,2023
+info,date,2023/05/26
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Somerset
+info,toss_decision,field
+info,umpire,ID Blackwell
+info,umpire,NL Bainton
+info,match_referee,SJ Davis
+info,winner,Somerset
+info,winner_wickets,5
+info,player,Sussex,TGR Clark
+info,player,Sussex,AGH Orr
+info,player,Sussex,TP Alsop
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,GHS Garton
+info,player,Sussex,N McAndrew
+info,player,Sussex,JM Coles
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,TS Mills
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,TA Lammonby
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,C Overton
+info,player,Somerset,MJ Henry
+info,player,Somerset,PM Siddle
+info,registry,people,AGH Orr,1ab18b25
+info,registry,people,BGF Green,34b37279
+info,registry,people,C Overton,e9987a94
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,L Gregory,06c2de82
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WCF Smeed,4e18e961
+ball,1,0.1,Sussex,TGR Clark,AGH Orr,C Overton,0,0,,,,,,"",""
+ball,1,0.2,Sussex,TGR Clark,AGH Orr,C Overton,0,1,1,,,,,"",""
+ball,1,0.3,Sussex,TGR Clark,AGH Orr,C Overton,4,0,,,,,,"",""
+ball,1,0.4,Sussex,TGR Clark,AGH Orr,C Overton,0,0,,,,,,"",""
+ball,1,0.5,Sussex,TGR Clark,AGH Orr,C Overton,4,0,,,,,,"",""
+ball,1,0.6,Sussex,TGR Clark,AGH Orr,C Overton,0,0,,,,,,caught,TGR Clark
+ball,1,0.7,Sussex,TP Alsop,AGH Orr,C Overton,4,0,,,,,,"",""
+ball,1,1.1,Sussex,AGH Orr,TP Alsop,MJ Henry,1,0,,,,,,"",""
+ball,1,1.2,Sussex,TP Alsop,AGH Orr,MJ Henry,0,0,,,,,,"",""
+ball,1,1.3,Sussex,TP Alsop,AGH Orr,MJ Henry,1,0,,,,,,"",""
+ball,1,1.4,Sussex,AGH Orr,TP Alsop,MJ Henry,4,0,,,,,,"",""
+ball,1,1.5,Sussex,AGH Orr,TP Alsop,MJ Henry,1,0,,,,,,"",""
+ball,1,1.6,Sussex,TP Alsop,AGH Orr,MJ Henry,0,0,,,,,,"",""
+ball,1,2.1,Sussex,AGH Orr,TP Alsop,C Overton,1,0,,,,,,"",""
+ball,1,2.2,Sussex,TP Alsop,AGH Orr,C Overton,4,0,,,,,,"",""
+ball,1,2.3,Sussex,TP Alsop,AGH Orr,C Overton,0,0,,,,,,caught,TP Alsop
+ball,1,2.4,Sussex,RS Bopara,AGH Orr,C Overton,0,0,,,,,,"",""
+ball,1,2.5,Sussex,RS Bopara,AGH Orr,C Overton,1,0,,,,,,"",""
+ball,1,2.6,Sussex,AGH Orr,RS Bopara,C Overton,4,0,,,,,,"",""
+ball,1,3.1,Sussex,RS Bopara,AGH Orr,MJ Henry,0,0,,,,,,"",""
+ball,1,3.2,Sussex,RS Bopara,AGH Orr,MJ Henry,1,0,,,,,,"",""
+ball,1,3.3,Sussex,AGH Orr,RS Bopara,MJ Henry,0,0,,,,,,"",""
+ball,1,3.4,Sussex,AGH Orr,RS Bopara,MJ Henry,4,0,,,,,,"",""
+ball,1,3.5,Sussex,AGH Orr,RS Bopara,MJ Henry,4,0,,,,,,"",""
+ball,1,3.6,Sussex,AGH Orr,RS Bopara,MJ Henry,4,0,,,,,,"",""
+ball,1,4.1,Sussex,RS Bopara,AGH Orr,PM Siddle,0,0,,,,,,"",""
+ball,1,4.2,Sussex,RS Bopara,AGH Orr,PM Siddle,4,0,,,,,,"",""
+ball,1,4.3,Sussex,RS Bopara,AGH Orr,PM Siddle,1,0,,,,,,"",""
+ball,1,4.4,Sussex,AGH Orr,RS Bopara,PM Siddle,0,0,,,,,,"",""
+ball,1,4.5,Sussex,AGH Orr,RS Bopara,PM Siddle,0,1,1,,,,,"",""
+ball,1,4.6,Sussex,AGH Orr,RS Bopara,PM Siddle,6,0,,,,,,"",""
+ball,1,4.7,Sussex,AGH Orr,RS Bopara,PM Siddle,1,0,,,,,,"",""
+ball,1,5.1,Sussex,AGH Orr,RS Bopara,C Overton,0,0,,,,,,"",""
+ball,1,5.2,Sussex,AGH Orr,RS Bopara,C Overton,1,0,,,,,,"",""
+ball,1,5.3,Sussex,RS Bopara,AGH Orr,C Overton,6,0,,,,,,"",""
+ball,1,5.4,Sussex,RS Bopara,AGH Orr,C Overton,1,0,,,,,,"",""
+ball,1,5.5,Sussex,AGH Orr,RS Bopara,C Overton,1,0,,,,,,"",""
+ball,1,5.6,Sussex,RS Bopara,AGH Orr,C Overton,1,0,,,,,,"",""
+ball,1,6.1,Sussex,RS Bopara,AGH Orr,L Gregory,1,0,,,,,,"",""
+ball,1,6.2,Sussex,AGH Orr,RS Bopara,L Gregory,1,0,,,,,,"",""
+ball,1,6.3,Sussex,RS Bopara,AGH Orr,L Gregory,1,0,,,,,,"",""
+ball,1,6.4,Sussex,AGH Orr,RS Bopara,L Gregory,0,0,,,,,,"",""
+ball,1,6.5,Sussex,AGH Orr,RS Bopara,L Gregory,0,0,,,,,,caught and bowled,AGH Orr
+ball,1,6.6,Sussex,Shadab Khan,RS Bopara,L Gregory,0,0,,,,,,"",""
+ball,1,7.1,Sussex,RS Bopara,Shadab Khan,RE van der Merwe,0,0,,,,,,"",""
+ball,1,7.2,Sussex,RS Bopara,Shadab Khan,RE van der Merwe,1,0,,,,,,"",""
+ball,1,7.3,Sussex,Shadab Khan,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,7.4,Sussex,Shadab Khan,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,7.5,Sussex,Shadab Khan,RS Bopara,RE van der Merwe,1,0,,,,,,"",""
+ball,1,7.6,Sussex,RS Bopara,Shadab Khan,RE van der Merwe,2,0,,,,,,"",""
+ball,1,8.1,Sussex,Shadab Khan,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,8.2,Sussex,RS Bopara,Shadab Khan,BGF Green,1,0,,,,,,"",""
+ball,1,8.3,Sussex,Shadab Khan,RS Bopara,BGF Green,6,0,,,,,,"",""
+ball,1,8.4,Sussex,Shadab Khan,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,8.5,Sussex,RS Bopara,Shadab Khan,BGF Green,0,0,,,,,,"",""
+ball,1,8.6,Sussex,RS Bopara,Shadab Khan,BGF Green,1,0,,,,,,"",""
+ball,1,9.1,Sussex,RS Bopara,Shadab Khan,RE van der Merwe,0,0,,,,,,"",""
+ball,1,9.2,Sussex,RS Bopara,Shadab Khan,RE van der Merwe,1,0,,,,,,"",""
+ball,1,9.3,Sussex,Shadab Khan,RS Bopara,RE van der Merwe,0,0,,,,,,caught,Shadab Khan
+ball,1,9.4,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,9.5,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,2,0,,,,,,"",""
+ball,1,9.6,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,10.1,Sussex,RS Bopara,MGK Burgess,L Gregory,6,0,,,,,,"",""
+ball,1,10.2,Sussex,RS Bopara,MGK Burgess,L Gregory,1,0,,,,,,"",""
+ball,1,10.3,Sussex,MGK Burgess,RS Bopara,L Gregory,1,0,,,,,,"",""
+ball,1,10.4,Sussex,RS Bopara,MGK Burgess,L Gregory,1,0,,,,,,"",""
+ball,1,10.5,Sussex,MGK Burgess,RS Bopara,L Gregory,0,0,,,,,,"",""
+ball,1,10.6,Sussex,MGK Burgess,RS Bopara,L Gregory,0,0,,,,,,"",""
+ball,1,11.1,Sussex,RS Bopara,MGK Burgess,RE van der Merwe,1,0,,,,,,"",""
+ball,1,11.2,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,4,0,,,,,,"",""
+ball,1,11.3,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,11.4,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,11.5,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,11.6,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,12.1,Sussex,RS Bopara,MGK Burgess,PM Siddle,0,0,,,,,,"",""
+ball,1,12.2,Sussex,RS Bopara,MGK Burgess,PM Siddle,0,0,,,,,,"",""
+ball,1,12.3,Sussex,RS Bopara,MGK Burgess,PM Siddle,6,0,,,,,,"",""
+ball,1,12.4,Sussex,RS Bopara,MGK Burgess,PM Siddle,1,0,,,,,,"",""
+ball,1,12.5,Sussex,MGK Burgess,RS Bopara,PM Siddle,1,0,,,,,,"",""
+ball,1,12.6,Sussex,RS Bopara,MGK Burgess,PM Siddle,0,0,,,,,,"",""
+ball,1,13.1,Sussex,MGK Burgess,RS Bopara,BGF Green,0,0,,,,,,"",""
+ball,1,13.2,Sussex,MGK Burgess,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,13.3,Sussex,RS Bopara,MGK Burgess,BGF Green,4,0,,,,,,"",""
+ball,1,13.4,Sussex,RS Bopara,MGK Burgess,BGF Green,1,0,,,,,,"",""
+ball,1,13.5,Sussex,MGK Burgess,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,13.6,Sussex,RS Bopara,MGK Burgess,BGF Green,2,0,,,,,,"",""
+ball,1,14.1,Sussex,MGK Burgess,RS Bopara,PM Siddle,1,0,,,,,,"",""
+ball,1,14.2,Sussex,RS Bopara,MGK Burgess,PM Siddle,1,0,,,,,,"",""
+ball,1,14.3,Sussex,MGK Burgess,RS Bopara,PM Siddle,4,0,,,,,,"",""
+ball,1,14.4,Sussex,MGK Burgess,RS Bopara,PM Siddle,1,0,,,,,,"",""
+ball,1,14.5,Sussex,RS Bopara,MGK Burgess,PM Siddle,6,0,,,,,,"",""
+ball,1,14.6,Sussex,RS Bopara,MGK Burgess,PM Siddle,1,0,,,,,,"",""
+ball,1,15.1,Sussex,RS Bopara,MGK Burgess,RE van der Merwe,1,0,,,,,,"",""
+ball,1,15.2,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,15.3,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,15.4,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,1,0,,,,,,"",""
+ball,1,15.5,Sussex,RS Bopara,MGK Burgess,RE van der Merwe,1,0,,,,,,"",""
+ball,1,15.6,Sussex,MGK Burgess,RS Bopara,RE van der Merwe,0,0,,,,,,"",""
+ball,1,16.1,Sussex,RS Bopara,MGK Burgess,MJ Henry,6,0,,,,,,"",""
+ball,1,16.2,Sussex,RS Bopara,MGK Burgess,MJ Henry,1,0,,,,,,"",""
+ball,1,16.3,Sussex,MGK Burgess,RS Bopara,MJ Henry,0,0,,,,,,caught,MGK Burgess
+ball,1,16.4,Sussex,GHS Garton,RS Bopara,MJ Henry,0,0,,,,,,caught,GHS Garton
+ball,1,16.5,Sussex,N McAndrew,RS Bopara,MJ Henry,0,0,,,,,,"",""
+ball,1,16.6,Sussex,N McAndrew,RS Bopara,MJ Henry,6,0,,,,,,"",""
+ball,1,17.1,Sussex,RS Bopara,N McAndrew,BGF Green,6,0,,,,,,"",""
+ball,1,17.2,Sussex,RS Bopara,N McAndrew,BGF Green,0,1,1,,,,,"",""
+ball,1,17.3,Sussex,RS Bopara,N McAndrew,BGF Green,1,0,,,,,,"",""
+ball,1,17.4,Sussex,N McAndrew,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,17.5,Sussex,RS Bopara,N McAndrew,BGF Green,1,0,,,,,,"",""
+ball,1,17.6,Sussex,N McAndrew,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,17.7,Sussex,RS Bopara,N McAndrew,BGF Green,0,1,1,,,,,"",""
+ball,1,17.8,Sussex,RS Bopara,N McAndrew,BGF Green,1,0,,,,,,"",""
+ball,1,18.1,Sussex,RS Bopara,N McAndrew,PM Siddle,1,0,,,,,,"",""
+ball,1,18.2,Sussex,N McAndrew,RS Bopara,PM Siddle,0,0,,,,,,caught,N McAndrew
+ball,1,18.3,Sussex,JM Coles,RS Bopara,PM Siddle,2,0,,,,,,"",""
+ball,1,18.4,Sussex,JM Coles,RS Bopara,PM Siddle,1,0,,,,,,"",""
+ball,1,18.5,Sussex,RS Bopara,JM Coles,PM Siddle,1,0,,,,,,"",""
+ball,1,18.6,Sussex,JM Coles,RS Bopara,PM Siddle,1,0,,,,,,"",""
+ball,1,19.1,Sussex,JM Coles,RS Bopara,MJ Henry,0,0,,,,,,"",""
+ball,1,19.2,Sussex,JM Coles,RS Bopara,MJ Henry,0,0,,,,,,caught,JM Coles
+ball,1,19.3,Sussex,FJ Hudson-Prentice,RS Bopara,MJ Henry,1,0,,,,,,"",""
+ball,1,19.4,Sussex,RS Bopara,FJ Hudson-Prentice,MJ Henry,2,0,,,,,,"",""
+ball,1,19.5,Sussex,RS Bopara,FJ Hudson-Prentice,MJ Henry,6,2,,2,,,,"",""
+ball,1,19.6,Sussex,RS Bopara,FJ Hudson-Prentice,MJ Henry,4,0,,,,,,"",""
+ball,1,19.7,Sussex,RS Bopara,FJ Hudson-Prentice,MJ Henry,2,0,,,,,,"",""
+ball,2,0.1,Somerset,T Banton,WCF Smeed,GHS Garton,0,0,,,,,,"",""
+ball,2,0.2,Somerset,T Banton,WCF Smeed,GHS Garton,0,5,5,,,,,"",""
+ball,2,0.3,Somerset,T Banton,WCF Smeed,GHS Garton,0,2,2,,,,,"",""
+ball,2,0.4,Somerset,WCF Smeed,T Banton,GHS Garton,1,0,,,,,,"",""
+ball,2,0.5,Somerset,T Banton,WCF Smeed,GHS Garton,0,0,,,,,,"",""
+ball,2,0.6,Somerset,T Banton,WCF Smeed,GHS Garton,1,0,,,,,,"",""
+ball,2,0.7,Somerset,WCF Smeed,T Banton,GHS Garton,1,0,,,,,,"",""
+ball,2,0.8,Somerset,T Banton,WCF Smeed,GHS Garton,0,0,,,,,,"",""
+ball,2,1.1,Somerset,WCF Smeed,T Banton,TS Mills,4,0,,,,,,"",""
+ball,2,1.2,Somerset,WCF Smeed,T Banton,TS Mills,0,0,,,,,,"",""
+ball,2,1.3,Somerset,WCF Smeed,T Banton,TS Mills,0,0,,,,,,"",""
+ball,2,1.4,Somerset,WCF Smeed,T Banton,TS Mills,0,0,,,,,,"",""
+ball,2,1.5,Somerset,WCF Smeed,T Banton,TS Mills,0,0,,,,,,"",""
+ball,2,1.6,Somerset,WCF Smeed,T Banton,TS Mills,4,0,,,,,,"",""
+ball,2,2.1,Somerset,T Banton,WCF Smeed,GHS Garton,1,0,,,,,,"",""
+ball,2,2.2,Somerset,WCF Smeed,T Banton,GHS Garton,0,0,,,,,,"",""
+ball,2,2.3,Somerset,WCF Smeed,T Banton,GHS Garton,0,0,,,,,,"",""
+ball,2,2.4,Somerset,WCF Smeed,T Banton,GHS Garton,0,0,,,,,,caught,WCF Smeed
+ball,2,2.5,Somerset,T Kohler-Cadmore,T Banton,GHS Garton,1,0,,,,,,"",""
+ball,2,2.6,Somerset,T Banton,T Kohler-Cadmore,GHS Garton,1,0,,,,,,"",""
+ball,2,3.1,Somerset,T Banton,T Kohler-Cadmore,FJ Hudson-Prentice,2,0,,,,,,"",""
+ball,2,3.2,Somerset,T Banton,T Kohler-Cadmore,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,2,3.3,Somerset,T Banton,T Kohler-Cadmore,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,2,3.4,Somerset,T Banton,T Kohler-Cadmore,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,3.5,Somerset,T Banton,T Kohler-Cadmore,FJ Hudson-Prentice,0,1,1,,,,,"",""
+ball,2,3.6,Somerset,T Banton,T Kohler-Cadmore,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,2,3.7,Somerset,T Banton,T Kohler-Cadmore,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,4.1,Somerset,T Kohler-Cadmore,T Banton,N McAndrew,0,0,,,,,,"",""
+ball,2,4.2,Somerset,T Kohler-Cadmore,T Banton,N McAndrew,1,0,,,,,,"",""
+ball,2,4.3,Somerset,T Banton,T Kohler-Cadmore,N McAndrew,1,0,,,,,,"",""
+ball,2,4.4,Somerset,T Kohler-Cadmore,T Banton,N McAndrew,0,0,,,,,,"",""
+ball,2,4.5,Somerset,T Kohler-Cadmore,T Banton,N McAndrew,4,0,,,,,,"",""
+ball,2,4.6,Somerset,T Kohler-Cadmore,T Banton,N McAndrew,1,0,,,,,,"",""
+ball,2,5.1,Somerset,T Kohler-Cadmore,T Banton,TS Mills,1,0,,,,,,"",""
+ball,2,5.2,Somerset,T Banton,T Kohler-Cadmore,TS Mills,0,0,,,,,,"",""
+ball,2,5.3,Somerset,T Banton,T Kohler-Cadmore,TS Mills,0,0,,,,,,caught,T Banton
+ball,2,5.4,Somerset,TB Abell,T Kohler-Cadmore,TS Mills,0,0,,,,,,"",""
+ball,2,5.5,Somerset,TB Abell,T Kohler-Cadmore,TS Mills,0,0,,,,,,"",""
+ball,2,5.6,Somerset,TB Abell,T Kohler-Cadmore,TS Mills,1,0,,,,,,"",""
+ball,2,6.1,Somerset,TB Abell,T Kohler-Cadmore,RS Bopara,1,0,,,,,,"",""
+ball,2,6.2,Somerset,T Kohler-Cadmore,TB Abell,RS Bopara,0,1,,,,1,,"",""
+ball,2,6.3,Somerset,TB Abell,T Kohler-Cadmore,RS Bopara,1,0,,,,,,"",""
+ball,2,6.4,Somerset,T Kohler-Cadmore,TB Abell,RS Bopara,2,0,,,,,,"",""
+ball,2,6.5,Somerset,T Kohler-Cadmore,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,2,6.6,Somerset,TB Abell,T Kohler-Cadmore,RS Bopara,1,0,,,,,,"",""
+ball,2,7.1,Somerset,TB Abell,T Kohler-Cadmore,JM Coles,1,0,,,,,,"",""
+ball,2,7.2,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,4,0,,,,,,"",""
+ball,2,7.3,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,1,0,,,,,,"",""
+ball,2,7.4,Somerset,TB Abell,T Kohler-Cadmore,JM Coles,1,0,,,,,,"",""
+ball,2,7.5,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,0,0,,,,,,"",""
+ball,2,7.6,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,1,0,,,,,,"",""
+ball,2,8.1,Somerset,T Kohler-Cadmore,TB Abell,N McAndrew,6,0,,,,,,"",""
+ball,2,8.2,Somerset,T Kohler-Cadmore,TB Abell,N McAndrew,0,0,,,,,,"",""
+ball,2,8.3,Somerset,T Kohler-Cadmore,TB Abell,N McAndrew,1,0,,,,,,"",""
+ball,2,8.4,Somerset,TB Abell,T Kohler-Cadmore,N McAndrew,1,0,,,,,,"",""
+ball,2,8.5,Somerset,T Kohler-Cadmore,TB Abell,N McAndrew,0,1,,,,1,,"",""
+ball,2,8.6,Somerset,TB Abell,T Kohler-Cadmore,N McAndrew,1,0,,,,,,"",""
+ball,2,9.1,Somerset,TB Abell,T Kohler-Cadmore,JM Coles,1,0,,,,,,"",""
+ball,2,9.2,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,1,0,,,,,,"",""
+ball,2,9.3,Somerset,TB Abell,T Kohler-Cadmore,JM Coles,0,0,,,,,,"",""
+ball,2,9.4,Somerset,TB Abell,T Kohler-Cadmore,JM Coles,1,0,,,,,,"",""
+ball,2,9.5,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,1,0,,,,,,"",""
+ball,2,9.6,Somerset,TB Abell,T Kohler-Cadmore,JM Coles,0,1,,,,1,,"",""
+ball,2,10.1,Somerset,TB Abell,T Kohler-Cadmore,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,10.2,Somerset,T Kohler-Cadmore,TB Abell,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,2,10.3,Somerset,T Kohler-Cadmore,TB Abell,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,2,10.4,Somerset,T Kohler-Cadmore,TB Abell,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,10.5,Somerset,TB Abell,T Kohler-Cadmore,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,10.6,Somerset,T Kohler-Cadmore,TB Abell,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,11.1,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,1,0,,,,,,"",""
+ball,2,11.2,Somerset,TB Abell,T Kohler-Cadmore,JM Coles,1,0,,,,,,"",""
+ball,2,11.3,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,0,0,,,,,,"",""
+ball,2,11.4,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,4,0,,,,,,"",""
+ball,2,11.5,Somerset,T Kohler-Cadmore,TB Abell,JM Coles,1,0,,,,,,"",""
+ball,2,11.6,Somerset,TB Abell,T Kohler-Cadmore,JM Coles,6,0,,,,,,"",""
+ball,2,12.1,Somerset,T Kohler-Cadmore,TB Abell,GHS Garton,0,0,,,,,,"",""
+ball,2,12.2,Somerset,T Kohler-Cadmore,TB Abell,GHS Garton,6,0,,,,,,"",""
+ball,2,12.3,Somerset,T Kohler-Cadmore,TB Abell,GHS Garton,1,0,,,,,,"",""
+ball,2,12.4,Somerset,TB Abell,T Kohler-Cadmore,GHS Garton,1,0,,,,,,"",""
+ball,2,12.5,Somerset,T Kohler-Cadmore,TB Abell,GHS Garton,4,0,,,,,,"",""
+ball,2,12.6,Somerset,T Kohler-Cadmore,TB Abell,GHS Garton,1,0,,,,,,"",""
+ball,2,13.1,Somerset,T Kohler-Cadmore,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,2,13.2,Somerset,TB Abell,T Kohler-Cadmore,RS Bopara,0,0,,,,,,"",""
+ball,2,13.3,Somerset,TB Abell,T Kohler-Cadmore,RS Bopara,2,0,,,,,,"",""
+ball,2,13.4,Somerset,TB Abell,T Kohler-Cadmore,RS Bopara,4,0,,,,,,"",""
+ball,2,13.5,Somerset,TB Abell,T Kohler-Cadmore,RS Bopara,1,0,,,,,,"",""
+ball,2,13.6,Somerset,T Kohler-Cadmore,TB Abell,RS Bopara,0,0,,,,,,"",""
+ball,2,14.1,Somerset,TB Abell,T Kohler-Cadmore,N McAndrew,0,1,1,,,,,"",""
+ball,2,14.2,Somerset,TB Abell,T Kohler-Cadmore,N McAndrew,0,1,,,,1,,"",""
+ball,2,14.3,Somerset,T Kohler-Cadmore,TB Abell,N McAndrew,1,0,,,,,,"",""
+ball,2,14.4,Somerset,TB Abell,T Kohler-Cadmore,N McAndrew,0,1,1,,,,,"",""
+ball,2,14.5,Somerset,TB Abell,T Kohler-Cadmore,N McAndrew,1,0,,,,,,"",""
+ball,2,14.6,Somerset,T Kohler-Cadmore,TB Abell,N McAndrew,2,0,,,,,,"",""
+ball,2,14.7,Somerset,T Kohler-Cadmore,TB Abell,N McAndrew,6,0,,,,,,"",""
+ball,2,14.8,Somerset,T Kohler-Cadmore,TB Abell,N McAndrew,0,0,,,,,,"",""
+ball,2,15.1,Somerset,TB Abell,T Kohler-Cadmore,TS Mills,0,1,1,,,,,"",""
+ball,2,15.2,Somerset,TB Abell,T Kohler-Cadmore,TS Mills,0,0,,,,,,"",""
+ball,2,15.3,Somerset,TB Abell,T Kohler-Cadmore,TS Mills,4,0,,,,,,"",""
+ball,2,15.4,Somerset,TB Abell,T Kohler-Cadmore,TS Mills,1,0,,,,,,"",""
+ball,2,15.5,Somerset,T Kohler-Cadmore,TB Abell,TS Mills,0,0,,,,,,"",""
+ball,2,15.6,Somerset,T Kohler-Cadmore,TB Abell,TS Mills,4,0,,,,,,"",""
+ball,2,15.7,Somerset,T Kohler-Cadmore,TB Abell,TS Mills,0,0,,,,,,caught,T Kohler-Cadmore
+ball,2,16.1,Somerset,TB Abell,TA Lammonby,N McAndrew,0,1,1,,,,,"",""
+ball,2,16.2,Somerset,TB Abell,TA Lammonby,N McAndrew,1,0,,,,,,"",""
+ball,2,16.3,Somerset,TA Lammonby,TB Abell,N McAndrew,0,0,,,,,,"",""
+ball,2,16.4,Somerset,TA Lammonby,TB Abell,N McAndrew,0,0,,,,,,"",""
+ball,2,16.5,Somerset,TA Lammonby,TB Abell,N McAndrew,0,0,,,,,,"",""
+ball,2,16.6,Somerset,TA Lammonby,TB Abell,N McAndrew,0,0,,,,,,"",""
+ball,2,16.7,Somerset,TA Lammonby,TB Abell,N McAndrew,0,0,,,,,,"",""
+ball,2,17.1,Somerset,TB Abell,TA Lammonby,TS Mills,1,0,,,,,,"",""
+ball,2,17.2,Somerset,TA Lammonby,TB Abell,TS Mills,1,0,,,,,,"",""
+ball,2,17.3,Somerset,TB Abell,TA Lammonby,TS Mills,1,0,,,,,,"",""
+ball,2,17.4,Somerset,TA Lammonby,TB Abell,TS Mills,0,0,,,,,,caught,TA Lammonby
+ball,2,17.5,Somerset,L Gregory,TB Abell,TS Mills,1,0,,,,,,"",""
+ball,2,17.6,Somerset,TB Abell,L Gregory,TS Mills,4,0,,,,,,"",""
+ball,2,18.1,Somerset,L Gregory,TB Abell,RS Bopara,0,0,,,,,,"",""
+ball,2,18.2,Somerset,L Gregory,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,2,18.3,Somerset,TB Abell,L Gregory,RS Bopara,1,0,,,,,,"",""
+ball,2,18.4,Somerset,L Gregory,TB Abell,RS Bopara,2,0,,,,,,"",""
+ball,2,18.5,Somerset,L Gregory,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,2,18.6,Somerset,TB Abell,L Gregory,RS Bopara,1,0,,,,,,run out,TB Abell
+ball,2,19.1,Somerset,L Gregory,BGF Green,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,19.2,Somerset,BGF Green,L Gregory,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,19.3,Somerset,BGF Green,L Gregory,FJ Hudson-Prentice,1,0,,,,,,"",""

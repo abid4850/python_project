@@ -1,0 +1,291 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey Stars
+info,team,Southern Vipers
+info,gender,female
+info,season,2018
+info,date,2018/07/22
+info,event,Women's Cricket Super League
+info,match_number,1
+info,venue,"Woodbridge Road, Guildford"
+info,city,Guildford
+info,toss_winner,Southern Vipers
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,S Redfern
+info,winner,Southern Vipers
+info,winner_wickets,7
+info,player,Surrey Stars,L Lee
+info,player,Surrey Stars,BF Smith
+info,player,Surrey Stars,SJ Taylor
+info,player,Surrey Stars,NR Sciver
+info,player,Surrey Stars,D van Niekerk
+info,player,Surrey Stars,SIR Dunkley
+info,player,Surrey Stars,M Kapp
+info,player,Surrey Stars,LA Marsh
+info,player,Surrey Stars,A Cranstone
+info,player,Surrey Stars,GJ Gibbs
+info,player,Surrey Stars,MK Villiers
+info,player,Southern Vipers,DN Wyatt
+info,player,Southern Vipers,SW Bates
+info,player,Southern Vipers,TT Beaumont
+info,player,Southern Vipers,M du Preez
+info,player,Southern Vipers,SJ McGlashan
+info,player,Southern Vipers,A Brindle
+info,player,Southern Vipers,AC Kerr
+info,player,Southern Vipers,NE Farrant
+info,player,Southern Vipers,CE Rudd
+info,player,Southern Vipers,PJ Scholfield
+info,player,Southern Vipers,FMK Morris
+info,registry,people,A Brindle,053dc208
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,AC Kerr,7673c908
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CE Rudd,290af2b3
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,GJ Gibbs,04381402
+info,registry,people,L Lee,7b01ce83
+info,registry,people,LA Marsh,9706e64b
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M du Preez,e219f17a
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,S Redfern,5b038989
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SJ McGlashan,af71535d
+info,registry,people,SJ Taylor,e6f36f83
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TT Beaumont,b2664905
+ball,1,0.1,Surrey Stars,L Lee,BF Smith,NE Farrant,0,0,,,,,,"",""
+ball,1,0.2,Surrey Stars,L Lee,BF Smith,NE Farrant,0,0,,,,,,"",""
+ball,1,0.3,Surrey Stars,L Lee,BF Smith,NE Farrant,0,0,,,,,,"",""
+ball,1,0.4,Surrey Stars,L Lee,BF Smith,NE Farrant,0,0,,,,,,"",""
+ball,1,0.5,Surrey Stars,L Lee,BF Smith,NE Farrant,0,0,,,,,,"",""
+ball,1,0.6,Surrey Stars,L Lee,BF Smith,NE Farrant,0,0,,,,,,bowled,L Lee
+ball,1,1.1,Surrey Stars,BF Smith,SJ Taylor,AC Kerr,0,0,,,,,,"",""
+ball,1,1.2,Surrey Stars,BF Smith,SJ Taylor,AC Kerr,0,0,,,,,,"",""
+ball,1,1.3,Surrey Stars,BF Smith,SJ Taylor,AC Kerr,0,2,,,,2,,"",""
+ball,1,1.4,Surrey Stars,BF Smith,SJ Taylor,AC Kerr,0,1,1,,,,,"",""
+ball,1,1.5,Surrey Stars,BF Smith,SJ Taylor,AC Kerr,0,1,1,,,,,"",""
+ball,1,1.6,Surrey Stars,BF Smith,SJ Taylor,AC Kerr,0,0,,,,,,caught,BF Smith
+ball,1,1.7,Surrey Stars,NR Sciver,SJ Taylor,AC Kerr,1,0,,,,,,"",""
+ball,1,1.8,Surrey Stars,SJ Taylor,NR Sciver,AC Kerr,1,0,,,,,,"",""
+ball,1,2.1,Surrey Stars,SJ Taylor,NR Sciver,NE Farrant,4,0,,,,,,"",""
+ball,1,2.2,Surrey Stars,SJ Taylor,NR Sciver,NE Farrant,1,0,,,,,,"",""
+ball,1,2.3,Surrey Stars,NR Sciver,SJ Taylor,NE Farrant,1,0,,,,,,"",""
+ball,1,2.4,Surrey Stars,SJ Taylor,NR Sciver,NE Farrant,0,0,,,,,,bowled,SJ Taylor
+ball,1,2.5,Surrey Stars,D van Niekerk,NR Sciver,NE Farrant,4,0,,,,,,"",""
+ball,1,2.6,Surrey Stars,D van Niekerk,NR Sciver,NE Farrant,0,0,,,,,,"",""
+ball,1,3.1,Surrey Stars,NR Sciver,D van Niekerk,FMK Morris,0,0,,,,,,"",""
+ball,1,3.2,Surrey Stars,NR Sciver,D van Niekerk,FMK Morris,0,1,,,,1,,"",""
+ball,1,3.3,Surrey Stars,D van Niekerk,NR Sciver,FMK Morris,0,0,,,,,,"",""
+ball,1,3.4,Surrey Stars,D van Niekerk,NR Sciver,FMK Morris,0,0,,,,,,"",""
+ball,1,3.5,Surrey Stars,D van Niekerk,NR Sciver,FMK Morris,1,0,,,,,,"",""
+ball,1,3.6,Surrey Stars,NR Sciver,D van Niekerk,FMK Morris,0,0,,,,,,caught,NR Sciver
+ball,1,4.1,Surrey Stars,SIR Dunkley,D van Niekerk,NE Farrant,0,0,,,,,,"",""
+ball,1,4.2,Surrey Stars,SIR Dunkley,D van Niekerk,NE Farrant,1,0,,,,,,"",""
+ball,1,4.3,Surrey Stars,D van Niekerk,SIR Dunkley,NE Farrant,0,0,,,,,,"",""
+ball,1,4.4,Surrey Stars,D van Niekerk,SIR Dunkley,NE Farrant,0,0,,,,,,"",""
+ball,1,4.5,Surrey Stars,D van Niekerk,SIR Dunkley,NE Farrant,0,0,,,,,,"",""
+ball,1,4.6,Surrey Stars,D van Niekerk,SIR Dunkley,NE Farrant,0,0,,,,,,"",""
+ball,1,5.1,Surrey Stars,SIR Dunkley,D van Niekerk,FMK Morris,4,0,,,,,,"",""
+ball,1,5.2,Surrey Stars,SIR Dunkley,D van Niekerk,FMK Morris,0,0,,,,,,"",""
+ball,1,5.3,Surrey Stars,SIR Dunkley,D van Niekerk,FMK Morris,1,0,,,,,,"",""
+ball,1,5.4,Surrey Stars,D van Niekerk,SIR Dunkley,FMK Morris,0,0,,,,,,"",""
+ball,1,5.5,Surrey Stars,D van Niekerk,SIR Dunkley,FMK Morris,0,1,1,,,,,"",""
+ball,1,5.6,Surrey Stars,D van Niekerk,SIR Dunkley,FMK Morris,0,0,,,,,,"",""
+ball,1,5.7,Surrey Stars,D van Niekerk,SIR Dunkley,FMK Morris,4,0,,,,,,"",""
+ball,1,6.1,Surrey Stars,SIR Dunkley,D van Niekerk,SW Bates,4,0,,,,,,"",""
+ball,1,6.2,Surrey Stars,SIR Dunkley,D van Niekerk,SW Bates,1,0,,,,,,"",""
+ball,1,6.3,Surrey Stars,D van Niekerk,SIR Dunkley,SW Bates,0,0,,,,,,"",""
+ball,1,6.4,Surrey Stars,D van Niekerk,SIR Dunkley,SW Bates,1,0,,,,,,"",""
+ball,1,6.5,Surrey Stars,SIR Dunkley,D van Niekerk,SW Bates,4,0,,,,,,"",""
+ball,1,6.6,Surrey Stars,SIR Dunkley,D van Niekerk,SW Bates,0,0,,,,,,"",""
+ball,1,7.1,Surrey Stars,D van Niekerk,SIR Dunkley,AC Kerr,1,0,,,,,,"",""
+ball,1,7.2,Surrey Stars,SIR Dunkley,D van Niekerk,AC Kerr,0,0,,,,,,"",""
+ball,1,7.3,Surrey Stars,SIR Dunkley,D van Niekerk,AC Kerr,0,0,,,,,,"",""
+ball,1,7.4,Surrey Stars,SIR Dunkley,D van Niekerk,AC Kerr,0,0,,,,,,"",""
+ball,1,7.5,Surrey Stars,SIR Dunkley,D van Niekerk,AC Kerr,1,0,,,,,,"",""
+ball,1,7.6,Surrey Stars,D van Niekerk,SIR Dunkley,AC Kerr,1,0,,,,,,"",""
+ball,1,8.1,Surrey Stars,D van Niekerk,SIR Dunkley,A Brindle,2,0,,,,,,"",""
+ball,1,8.2,Surrey Stars,D van Niekerk,SIR Dunkley,A Brindle,0,0,,,,,,"",""
+ball,1,8.3,Surrey Stars,D van Niekerk,SIR Dunkley,A Brindle,1,0,,,,,,"",""
+ball,1,8.4,Surrey Stars,SIR Dunkley,D van Niekerk,A Brindle,0,0,,,,,,"",""
+ball,1,8.5,Surrey Stars,SIR Dunkley,D van Niekerk,A Brindle,1,0,,,,,,"",""
+ball,1,8.6,Surrey Stars,D van Niekerk,SIR Dunkley,A Brindle,0,0,,,,,,"",""
+ball,1,9.1,Surrey Stars,SIR Dunkley,D van Niekerk,AC Kerr,1,0,,,,,,"",""
+ball,1,9.2,Surrey Stars,D van Niekerk,SIR Dunkley,AC Kerr,4,0,,,,,,"",""
+ball,1,9.3,Surrey Stars,D van Niekerk,SIR Dunkley,AC Kerr,0,0,,,,,,"",""
+ball,1,9.4,Surrey Stars,D van Niekerk,SIR Dunkley,AC Kerr,0,0,,,,,,"",""
+ball,1,9.5,Surrey Stars,D van Niekerk,SIR Dunkley,AC Kerr,2,0,,,,,,"",""
+ball,1,9.6,Surrey Stars,D van Niekerk,SIR Dunkley,AC Kerr,0,0,,,,,,"",""
+ball,1,10.1,Surrey Stars,SIR Dunkley,D van Niekerk,A Brindle,1,0,,,,,,"",""
+ball,1,10.2,Surrey Stars,D van Niekerk,SIR Dunkley,A Brindle,0,0,,,,,,"",""
+ball,1,10.3,Surrey Stars,D van Niekerk,SIR Dunkley,A Brindle,6,0,,,,,,"",""
+ball,1,10.4,Surrey Stars,D van Niekerk,SIR Dunkley,A Brindle,1,0,,,,,,"",""
+ball,1,10.5,Surrey Stars,SIR Dunkley,D van Niekerk,A Brindle,1,0,,,,,,"",""
+ball,1,10.6,Surrey Stars,D van Niekerk,SIR Dunkley,A Brindle,0,0,,,,,,"",""
+ball,1,11.1,Surrey Stars,SIR Dunkley,D van Niekerk,AC Kerr,1,0,,,,,,"",""
+ball,1,11.2,Surrey Stars,D van Niekerk,SIR Dunkley,AC Kerr,1,0,,,,,,"",""
+ball,1,11.3,Surrey Stars,SIR Dunkley,D van Niekerk,AC Kerr,1,0,,,,,,"",""
+ball,1,11.4,Surrey Stars,D van Niekerk,SIR Dunkley,AC Kerr,1,0,,,,,,"",""
+ball,1,11.5,Surrey Stars,SIR Dunkley,D van Niekerk,AC Kerr,4,0,,,,,,"",""
+ball,1,11.6,Surrey Stars,SIR Dunkley,D van Niekerk,AC Kerr,1,0,,,,,,"",""
+ball,1,12.1,Surrey Stars,SIR Dunkley,D van Niekerk,PJ Scholfield,1,0,,,,,,"",""
+ball,1,12.2,Surrey Stars,D van Niekerk,SIR Dunkley,PJ Scholfield,1,0,,,,,,"",""
+ball,1,12.3,Surrey Stars,SIR Dunkley,D van Niekerk,PJ Scholfield,6,0,,,,,,"",""
+ball,1,12.4,Surrey Stars,SIR Dunkley,D van Niekerk,PJ Scholfield,0,0,,,,,,"",""
+ball,1,12.5,Surrey Stars,SIR Dunkley,D van Niekerk,PJ Scholfield,0,0,,,,,,"",""
+ball,1,12.6,Surrey Stars,SIR Dunkley,D van Niekerk,PJ Scholfield,1,0,,,,,,"",""
+ball,1,13.1,Surrey Stars,SIR Dunkley,D van Niekerk,FMK Morris,0,0,,,,,,"",""
+ball,1,13.2,Surrey Stars,SIR Dunkley,D van Niekerk,FMK Morris,0,0,,,,,,"",""
+ball,1,13.3,Surrey Stars,SIR Dunkley,D van Niekerk,FMK Morris,1,0,,,,,,"",""
+ball,1,13.4,Surrey Stars,D van Niekerk,SIR Dunkley,FMK Morris,0,0,,,,,,caught,D van Niekerk
+ball,1,13.5,Surrey Stars,M Kapp,SIR Dunkley,FMK Morris,1,0,,,,,,"",""
+ball,1,13.6,Surrey Stars,SIR Dunkley,M Kapp,FMK Morris,1,0,,,,,,"",""
+ball,1,14.1,Surrey Stars,SIR Dunkley,M Kapp,PJ Scholfield,1,0,,,,,,"",""
+ball,1,14.2,Surrey Stars,M Kapp,SIR Dunkley,PJ Scholfield,1,0,,,,,,"",""
+ball,1,14.3,Surrey Stars,SIR Dunkley,M Kapp,PJ Scholfield,4,0,,,,,,"",""
+ball,1,14.4,Surrey Stars,SIR Dunkley,M Kapp,PJ Scholfield,4,0,,,,,,"",""
+ball,1,14.5,Surrey Stars,SIR Dunkley,M Kapp,PJ Scholfield,1,0,,,,,,"",""
+ball,1,14.6,Surrey Stars,M Kapp,SIR Dunkley,PJ Scholfield,1,0,,,,,,"",""
+ball,1,15.1,Surrey Stars,M Kapp,SIR Dunkley,SW Bates,1,0,,,,,,"",""
+ball,1,15.2,Surrey Stars,SIR Dunkley,M Kapp,SW Bates,4,0,,,,,,"",""
+ball,1,15.3,Surrey Stars,SIR Dunkley,M Kapp,SW Bates,4,0,,,,,,"",""
+ball,1,15.4,Surrey Stars,SIR Dunkley,M Kapp,SW Bates,1,0,,,,,,"",""
+ball,1,15.5,Surrey Stars,M Kapp,SIR Dunkley,SW Bates,2,0,,,,,,"",""
+ball,1,15.6,Surrey Stars,M Kapp,SIR Dunkley,SW Bates,4,0,,,,,,"",""
+ball,1,16.1,Surrey Stars,SIR Dunkley,M Kapp,A Brindle,1,0,,,,,,"",""
+ball,1,16.2,Surrey Stars,M Kapp,SIR Dunkley,A Brindle,0,1,1,,,,,"",""
+ball,1,16.3,Surrey Stars,M Kapp,SIR Dunkley,A Brindle,1,0,,,,,,"",""
+ball,1,16.4,Surrey Stars,SIR Dunkley,M Kapp,A Brindle,4,0,,,,,,"",""
+ball,1,16.5,Surrey Stars,SIR Dunkley,M Kapp,A Brindle,1,0,,,,,,"",""
+ball,1,16.6,Surrey Stars,M Kapp,SIR Dunkley,A Brindle,1,0,,,,,,"",""
+ball,1,16.7,Surrey Stars,SIR Dunkley,M Kapp,A Brindle,4,0,,,,,,"",""
+ball,1,17.1,Surrey Stars,M Kapp,SIR Dunkley,FMK Morris,1,0,,,,,,"",""
+ball,1,17.2,Surrey Stars,SIR Dunkley,M Kapp,FMK Morris,0,0,,,,,,caught,SIR Dunkley
+ball,1,17.3,Surrey Stars,M Kapp,LA Marsh,FMK Morris,4,0,,,,,,"",""
+ball,1,17.4,Surrey Stars,M Kapp,LA Marsh,FMK Morris,2,0,,,,,,"",""
+ball,1,17.5,Surrey Stars,M Kapp,LA Marsh,FMK Morris,0,0,,,,,,caught,M Kapp
+ball,1,17.6,Surrey Stars,LA Marsh,A Cranstone,FMK Morris,1,0,,,,,,"",""
+ball,1,18.1,Surrey Stars,LA Marsh,A Cranstone,NE Farrant,0,0,,,,,,"",""
+ball,1,18.2,Surrey Stars,LA Marsh,A Cranstone,NE Farrant,0,0,,,,,,"",""
+ball,1,18.3,Surrey Stars,LA Marsh,A Cranstone,NE Farrant,0,0,,,,,,stumped,LA Marsh
+ball,1,18.4,Surrey Stars,GJ Gibbs,A Cranstone,NE Farrant,0,0,,,,,,"",""
+ball,1,18.5,Surrey Stars,GJ Gibbs,A Cranstone,NE Farrant,4,0,,,,,,"",""
+ball,1,18.6,Surrey Stars,GJ Gibbs,A Cranstone,NE Farrant,1,0,,,,,,"",""
+ball,1,19.1,Surrey Stars,GJ Gibbs,A Cranstone,SW Bates,0,0,,,,,,"",""
+ball,1,19.2,Surrey Stars,GJ Gibbs,A Cranstone,SW Bates,1,0,,,,,,"",""
+ball,1,19.3,Surrey Stars,A Cranstone,GJ Gibbs,SW Bates,1,0,,,,,,"",""
+ball,1,19.4,Surrey Stars,GJ Gibbs,A Cranstone,SW Bates,0,0,,,,,,"",""
+ball,1,19.5,Surrey Stars,GJ Gibbs,A Cranstone,SW Bates,2,0,,,,,,"",""
+ball,1,19.6,Surrey Stars,GJ Gibbs,A Cranstone,SW Bates,0,0,,,,,,run out,GJ Gibbs
+ball,2,0.1,Southern Vipers,DN Wyatt,SW Bates,LA Marsh,1,0,,,,,,"",""
+ball,2,0.2,Southern Vipers,SW Bates,DN Wyatt,LA Marsh,0,0,,,,,,"",""
+ball,2,0.3,Southern Vipers,SW Bates,DN Wyatt,LA Marsh,4,0,,,,,,"",""
+ball,2,0.4,Southern Vipers,SW Bates,DN Wyatt,LA Marsh,0,0,,,,,,"",""
+ball,2,0.5,Southern Vipers,SW Bates,DN Wyatt,LA Marsh,0,0,,,,,,"",""
+ball,2,0.6,Southern Vipers,SW Bates,DN Wyatt,LA Marsh,1,0,,,,,,"",""
+ball,2,1.1,Southern Vipers,SW Bates,DN Wyatt,M Kapp,1,0,,,,,,"",""
+ball,2,1.2,Southern Vipers,DN Wyatt,SW Bates,M Kapp,0,0,,,,,,"",""
+ball,2,1.3,Southern Vipers,DN Wyatt,SW Bates,M Kapp,0,0,,,,,,"",""
+ball,2,1.4,Southern Vipers,DN Wyatt,SW Bates,M Kapp,1,0,,,,,,"",""
+ball,2,1.5,Southern Vipers,SW Bates,DN Wyatt,M Kapp,0,0,,,,,,"",""
+ball,2,1.6,Southern Vipers,SW Bates,DN Wyatt,M Kapp,1,0,,,,,,"",""
+ball,2,2.1,Southern Vipers,SW Bates,DN Wyatt,NR Sciver,0,0,,,,,,"",""
+ball,2,2.2,Southern Vipers,SW Bates,DN Wyatt,NR Sciver,1,0,,,,,,"",""
+ball,2,2.3,Southern Vipers,DN Wyatt,SW Bates,NR Sciver,0,0,,,,,,"",""
+ball,2,2.4,Southern Vipers,DN Wyatt,SW Bates,NR Sciver,0,1,1,,,,,"",""
+ball,2,2.5,Southern Vipers,DN Wyatt,SW Bates,NR Sciver,0,0,,,,,,"",""
+ball,2,2.6,Southern Vipers,DN Wyatt,SW Bates,NR Sciver,0,0,,,,,,"",""
+ball,2,2.7,Southern Vipers,DN Wyatt,SW Bates,NR Sciver,4,0,,,,,,"",""
+ball,2,3.1,Southern Vipers,SW Bates,DN Wyatt,M Kapp,1,0,,,,,,"",""
+ball,2,3.2,Southern Vipers,DN Wyatt,SW Bates,M Kapp,0,0,,,,,,bowled,DN Wyatt
+ball,2,3.3,Southern Vipers,TT Beaumont,SW Bates,M Kapp,0,4,,,,4,,"",""
+ball,2,3.4,Southern Vipers,TT Beaumont,SW Bates,M Kapp,1,0,,,,,,"",""
+ball,2,3.5,Southern Vipers,SW Bates,TT Beaumont,M Kapp,0,0,,,,,,caught,SW Bates
+ball,2,3.6,Southern Vipers,M du Preez,TT Beaumont,M Kapp,0,0,,,,,,"",""
+ball,2,4.1,Southern Vipers,TT Beaumont,M du Preez,NR Sciver,1,0,,,,,,"",""
+ball,2,4.2,Southern Vipers,M du Preez,TT Beaumont,NR Sciver,4,0,,,,,,"",""
+ball,2,4.3,Southern Vipers,M du Preez,TT Beaumont,NR Sciver,1,0,,,,,,"",""
+ball,2,4.4,Southern Vipers,TT Beaumont,M du Preez,NR Sciver,0,0,,,,,,"",""
+ball,2,4.5,Southern Vipers,TT Beaumont,M du Preez,NR Sciver,4,0,,,,,,"",""
+ball,2,4.6,Southern Vipers,TT Beaumont,M du Preez,NR Sciver,0,1,,,,1,,"",""
+ball,2,5.1,Southern Vipers,TT Beaumont,M du Preez,M Kapp,0,0,,,,,,"",""
+ball,2,5.2,Southern Vipers,TT Beaumont,M du Preez,M Kapp,1,0,,,,,,"",""
+ball,2,5.3,Southern Vipers,M du Preez,TT Beaumont,M Kapp,0,0,,,,,,"",""
+ball,2,5.4,Southern Vipers,M du Preez,TT Beaumont,M Kapp,0,0,,,,,,"",""
+ball,2,5.5,Southern Vipers,M du Preez,TT Beaumont,M Kapp,0,0,,,,,,"",""
+ball,2,5.6,Southern Vipers,M du Preez,TT Beaumont,M Kapp,1,0,,,,,,"",""
+ball,2,6.1,Southern Vipers,M du Preez,TT Beaumont,D van Niekerk,1,0,,,,,,"",""
+ball,2,6.2,Southern Vipers,TT Beaumont,M du Preez,D van Niekerk,2,0,,,,,,"",""
+ball,2,6.3,Southern Vipers,TT Beaumont,M du Preez,D van Niekerk,1,0,,,,,,"",""
+ball,2,6.4,Southern Vipers,M du Preez,TT Beaumont,D van Niekerk,0,0,,,,,,"",""
+ball,2,6.5,Southern Vipers,M du Preez,TT Beaumont,D van Niekerk,4,0,,,,,,"",""
+ball,2,6.6,Southern Vipers,M du Preez,TT Beaumont,D van Niekerk,0,0,,,,,,"",""
+ball,2,7.1,Southern Vipers,TT Beaumont,M du Preez,LA Marsh,2,0,,,,,,"",""
+ball,2,7.2,Southern Vipers,TT Beaumont,M du Preez,LA Marsh,1,0,,,,,,"",""
+ball,2,7.3,Southern Vipers,M du Preez,TT Beaumont,LA Marsh,4,0,,,,,,"",""
+ball,2,7.4,Southern Vipers,M du Preez,TT Beaumont,LA Marsh,1,0,,,,,,"",""
+ball,2,7.5,Southern Vipers,TT Beaumont,M du Preez,LA Marsh,1,0,,,,,,"",""
+ball,2,7.6,Southern Vipers,M du Preez,TT Beaumont,LA Marsh,4,0,,,,,,"",""
+ball,2,8.1,Southern Vipers,TT Beaumont,M du Preez,D van Niekerk,0,0,,,,,,"",""
+ball,2,8.2,Southern Vipers,TT Beaumont,M du Preez,D van Niekerk,1,0,,,,,,"",""
+ball,2,8.3,Southern Vipers,M du Preez,TT Beaumont,D van Niekerk,1,0,,,,,,"",""
+ball,2,8.4,Southern Vipers,TT Beaumont,M du Preez,D van Niekerk,4,0,,,,,,"",""
+ball,2,8.5,Southern Vipers,TT Beaumont,M du Preez,D van Niekerk,4,0,,,,,,"",""
+ball,2,8.6,Southern Vipers,TT Beaumont,M du Preez,D van Niekerk,4,0,,,,,,"",""
+ball,2,9.1,Southern Vipers,M du Preez,TT Beaumont,SIR Dunkley,0,0,,,,,,"",""
+ball,2,9.2,Southern Vipers,M du Preez,TT Beaumont,SIR Dunkley,1,0,,,,,,"",""
+ball,2,9.3,Southern Vipers,TT Beaumont,M du Preez,SIR Dunkley,4,0,,,,,,"",""
+ball,2,9.4,Southern Vipers,TT Beaumont,M du Preez,SIR Dunkley,0,0,,,,,,"",""
+ball,2,9.5,Southern Vipers,TT Beaumont,M du Preez,SIR Dunkley,0,0,,,,,,"",""
+ball,2,9.6,Southern Vipers,TT Beaumont,M du Preez,SIR Dunkley,4,0,,,,,,"",""
+ball,2,10.1,Southern Vipers,M du Preez,TT Beaumont,NR Sciver,0,0,,,,,,"",""
+ball,2,10.2,Southern Vipers,M du Preez,TT Beaumont,NR Sciver,1,0,,,,,,"",""
+ball,2,10.3,Southern Vipers,TT Beaumont,M du Preez,NR Sciver,1,0,,,,,,"",""
+ball,2,10.4,Southern Vipers,M du Preez,TT Beaumont,NR Sciver,4,0,,,,,,"",""
+ball,2,10.5,Southern Vipers,M du Preez,TT Beaumont,NR Sciver,4,0,,,,,,"",""
+ball,2,10.6,Southern Vipers,M du Preez,TT Beaumont,NR Sciver,2,0,,,,,,"",""
+ball,2,11.1,Southern Vipers,TT Beaumont,M du Preez,LA Marsh,1,0,,,,,,"",""
+ball,2,11.2,Southern Vipers,M du Preez,TT Beaumont,LA Marsh,2,0,,,,,,"",""
+ball,2,11.3,Southern Vipers,M du Preez,TT Beaumont,LA Marsh,1,0,,,,,,"",""
+ball,2,11.4,Southern Vipers,TT Beaumont,M du Preez,LA Marsh,1,0,,,,,,"",""
+ball,2,11.5,Southern Vipers,M du Preez,TT Beaumont,LA Marsh,2,0,,,,,,"",""
+ball,2,11.6,Southern Vipers,M du Preez,TT Beaumont,LA Marsh,4,0,,,,,,"",""
+ball,2,12.1,Southern Vipers,TT Beaumont,M du Preez,SIR Dunkley,0,0,,,,,,"",""
+ball,2,12.2,Southern Vipers,TT Beaumont,M du Preez,SIR Dunkley,0,0,,,,,,"",""
+ball,2,12.3,Southern Vipers,TT Beaumont,M du Preez,SIR Dunkley,4,0,,,,,,"",""
+ball,2,12.4,Southern Vipers,TT Beaumont,M du Preez,SIR Dunkley,4,0,,,,,,"",""
+ball,2,12.5,Southern Vipers,TT Beaumont,M du Preez,SIR Dunkley,1,0,,,,,,"",""
+ball,2,12.6,Southern Vipers,M du Preez,TT Beaumont,SIR Dunkley,0,0,,,,,,"",""
+ball,2,13.1,Southern Vipers,TT Beaumont,M du Preez,LA Marsh,0,0,,,,,,"",""
+ball,2,13.2,Southern Vipers,TT Beaumont,M du Preez,LA Marsh,1,0,,,,,,"",""
+ball,2,13.3,Southern Vipers,M du Preez,TT Beaumont,LA Marsh,1,0,,,,,,"",""
+ball,2,13.4,Southern Vipers,TT Beaumont,M du Preez,LA Marsh,1,0,,,,,,"",""
+ball,2,13.5,Southern Vipers,M du Preez,TT Beaumont,LA Marsh,1,0,,,,,,"",""
+ball,2,13.6,Southern Vipers,TT Beaumont,M du Preez,LA Marsh,1,0,,,,,,"",""
+ball,2,14.1,Southern Vipers,TT Beaumont,M du Preez,MK Villiers,0,0,,,,,,"",""
+ball,2,14.2,Southern Vipers,TT Beaumont,M du Preez,MK Villiers,0,0,,,,,,"",""
+ball,2,14.3,Southern Vipers,TT Beaumont,M du Preez,MK Villiers,1,0,,,,,,"",""
+ball,2,14.4,Southern Vipers,M du Preez,TT Beaumont,MK Villiers,4,0,,,,,,"",""
+ball,2,14.5,Southern Vipers,M du Preez,TT Beaumont,MK Villiers,0,0,,,,,,stumped,M du Preez
+ball,2,14.6,Southern Vipers,SJ McGlashan,TT Beaumont,MK Villiers,0,0,,,,,,"",""
+ball,2,15.1,Southern Vipers,TT Beaumont,SJ McGlashan,M Kapp,0,0,,,,,,"",""
+ball,2,15.2,Southern Vipers,TT Beaumont,SJ McGlashan,M Kapp,0,1,1,,,,,"",""
+ball,2,15.3,Southern Vipers,TT Beaumont,SJ McGlashan,M Kapp,4,0,,,,,,"",""
+ball,2,15.4,Southern Vipers,TT Beaumont,SJ McGlashan,M Kapp,0,0,,,,,,"",""
+ball,2,15.5,Southern Vipers,TT Beaumont,SJ McGlashan,M Kapp,4,0,,,,,,"",""
+ball,2,15.6,Southern Vipers,TT Beaumont,SJ McGlashan,M Kapp,1,0,,,,,,"",""
+ball,2,15.7,Southern Vipers,SJ McGlashan,TT Beaumont,M Kapp,4,0,,,,,,"",""
+ball,2,16.1,Southern Vipers,TT Beaumont,SJ McGlashan,MK Villiers,0,4,,,4,,,"",""
+ball,2,16.2,Southern Vipers,TT Beaumont,SJ McGlashan,MK Villiers,1,0,,,,,,"",""
+ball,2,16.3,Southern Vipers,SJ McGlashan,TT Beaumont,MK Villiers,0,0,,,,,,"",""
+ball,2,16.4,Southern Vipers,SJ McGlashan,TT Beaumont,MK Villiers,1,0,,,,,,"",""
+ball,2,16.5,Southern Vipers,TT Beaumont,SJ McGlashan,MK Villiers,1,0,,,,,,"",""
+ball,2,16.6,Southern Vipers,SJ McGlashan,TT Beaumont,MK Villiers,4,0,,,,,,"",""

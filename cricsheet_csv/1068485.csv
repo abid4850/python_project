@@ -1,0 +1,167 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Leicestershire
+info,gender,male
+info,season,2017
+info,date,2017/05/12
+info,event,Royal London One-Day Cup
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,AG Wharf
+info,umpire,PK Baldwin
+info,outcome,no result
+info,player,Northamptonshire,RI Newton
+info,player,Northamptonshire,BM Duckett
+info,player,Northamptonshire,RE Levi
+info,player,Northamptonshire,AM Rossington
+info,player,Northamptonshire,MDE Holden
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,SP Crook
+info,player,Northamptonshire,GG White
+info,player,Northamptonshire,NL Buck
+info,player,Northamptonshire,Azharullah
+info,player,Northamptonshire,RJ Gleeson
+info,player,Leicestershire,ML Pettini
+info,player,Leicestershire,CS Delport
+info,player,Leicestershire,EJH Eckersley
+info,player,Leicestershire,MJ Cosgrove
+info,player,Leicestershire,AM Ali
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,TJ Wells
+info,player,Leicestershire,ZJ Chappell
+info,player,Leicestershire,CJ McKay
+info,player,Leicestershire,D Klein
+info,player,Leicestershire,JS Sykes
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AM Ali,e3434f95
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Azharullah,2a0d5d4a
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CJ McKay,94eac556
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,D Klein,aeab0d4f
+info,registry,people,EJH Eckersley,d510d457
+info,registry,people,GG White,0f21680d
+info,registry,people,JS Sykes,5147c792
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MJ Cosgrove,be768595
+info,registry,people,ML Pettini,eba62359
+info,registry,people,NL Buck,5239d782
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RE Levi,18c78b11
+info,registry,people,RI Newton,1f28c0f2
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SP Crook,c4450a69
+info,registry,people,TJ Wells,eb1a5b03
+info,registry,people,ZJ Chappell,fe5b4367
+ball,1,0.1,Northamptonshire,RI Newton,BM Duckett,D Klein,0,0,,,,,,"",""
+ball,1,0.2,Northamptonshire,RI Newton,BM Duckett,D Klein,3,0,,,,,,"",""
+ball,1,0.3,Northamptonshire,BM Duckett,RI Newton,D Klein,0,0,,,,,,bowled,BM Duckett
+ball,1,0.4,Northamptonshire,RE Levi,RI Newton,D Klein,1,0,,,,,,"",""
+ball,1,0.5,Northamptonshire,RI Newton,RE Levi,D Klein,0,0,,,,,,"",""
+ball,1,0.6,Northamptonshire,RI Newton,RE Levi,D Klein,0,0,,,,,,"",""
+ball,1,1.1,Northamptonshire,RE Levi,RI Newton,JS Sykes,0,0,,,,,,"",""
+ball,1,1.2,Northamptonshire,RE Levi,RI Newton,JS Sykes,0,0,,,,,,"",""
+ball,1,1.3,Northamptonshire,RE Levi,RI Newton,JS Sykes,1,0,,,,,,"",""
+ball,1,1.4,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,1.5,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,1.6,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,2.1,Northamptonshire,RE Levi,RI Newton,D Klein,4,0,,,,,,"",""
+ball,1,2.2,Northamptonshire,RE Levi,RI Newton,D Klein,0,0,,,,,,"",""
+ball,1,2.3,Northamptonshire,RE Levi,RI Newton,D Klein,0,0,,,,,,"",""
+ball,1,2.4,Northamptonshire,RE Levi,RI Newton,D Klein,0,0,,,,,,"",""
+ball,1,2.5,Northamptonshire,RE Levi,RI Newton,D Klein,4,0,,,,,,"",""
+ball,1,2.6,Northamptonshire,RE Levi,RI Newton,D Klein,4,0,,,,,,"",""
+ball,1,3.1,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,3.2,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,3.3,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,3.4,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,3.5,Northamptonshire,RI Newton,RE Levi,JS Sykes,4,0,,,,,,"",""
+ball,1,3.6,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,4.1,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,4.2,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,4.3,Northamptonshire,RE Levi,RI Newton,CJ McKay,4,0,,,,,,"",""
+ball,1,4.4,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,4.5,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,4.6,Northamptonshire,RE Levi,RI Newton,CJ McKay,1,0,,,,,,"",""
+ball,1,5.1,Northamptonshire,RE Levi,RI Newton,JS Sykes,0,0,,,,,,"",""
+ball,1,5.2,Northamptonshire,RE Levi,RI Newton,JS Sykes,6,0,,,,,,"",""
+ball,1,5.3,Northamptonshire,RE Levi,RI Newton,JS Sykes,1,0,,,,,,"",""
+ball,1,5.4,Northamptonshire,RI Newton,RE Levi,JS Sykes,6,0,,,,,,"",""
+ball,1,5.5,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,5.6,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,6.1,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,6.2,Northamptonshire,RE Levi,RI Newton,CJ McKay,1,0,,,,,,"",""
+ball,1,6.3,Northamptonshire,RI Newton,RE Levi,CJ McKay,0,0,,,,,,"",""
+ball,1,6.4,Northamptonshire,RI Newton,RE Levi,CJ McKay,0,0,,,,,,"",""
+ball,1,6.5,Northamptonshire,RI Newton,RE Levi,CJ McKay,1,0,,,,,,"",""
+ball,1,6.6,Northamptonshire,RE Levi,RI Newton,CJ McKay,4,0,,,,,,"",""
+ball,1,7.1,Northamptonshire,RI Newton,RE Levi,JS Sykes,4,0,,,,,,"",""
+ball,1,7.2,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,7.3,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,7.4,Northamptonshire,RI Newton,RE Levi,JS Sykes,2,0,,,,,,"",""
+ball,1,7.5,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,7.6,Northamptonshire,RI Newton,RE Levi,JS Sykes,0,0,,,,,,"",""
+ball,1,8.1,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,0,1,1,,,,,"",""
+ball,1,8.2,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,4,0,,,,,,"",""
+ball,1,8.3,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,0,0,,,,,,"",""
+ball,1,8.4,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,2,0,,,,,,"",""
+ball,1,8.5,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,0,0,,,,,,"",""
+ball,1,8.6,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,1,0,,,,,,"",""
+ball,1,8.7,Northamptonshire,RI Newton,RE Levi,ZJ Chappell,4,0,,,,,,"",""
+ball,1,9.1,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,9.2,Northamptonshire,RE Levi,RI Newton,CJ McKay,1,0,,,,,,"",""
+ball,1,9.3,Northamptonshire,RI Newton,RE Levi,CJ McKay,0,0,,,,,,"",""
+ball,1,9.4,Northamptonshire,RI Newton,RE Levi,CJ McKay,4,0,,,,,,"",""
+ball,1,9.5,Northamptonshire,RI Newton,RE Levi,CJ McKay,0,0,,,,,,"",""
+ball,1,9.6,Northamptonshire,RI Newton,RE Levi,CJ McKay,1,0,,,,,,"",""
+ball,1,10.1,Northamptonshire,RI Newton,RE Levi,ZJ Chappell,1,0,,,,,,"",""
+ball,1,10.2,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,0,1,1,,,,,"",""
+ball,1,10.3,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,4,0,,,,,,"",""
+ball,1,10.4,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,0,0,,,,,,"",""
+ball,1,10.5,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,1,0,,,,,,"",""
+ball,1,10.6,Northamptonshire,RI Newton,RE Levi,ZJ Chappell,0,0,,,,,,"",""
+ball,1,10.7,Northamptonshire,RI Newton,RE Levi,ZJ Chappell,1,0,,,,,,"",""
+ball,1,11.1,Northamptonshire,RI Newton,RE Levi,CJ McKay,1,0,,,,,,"",""
+ball,1,11.2,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,11.3,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,11.4,Northamptonshire,RE Levi,RI Newton,CJ McKay,1,0,,,,,,"",""
+ball,1,11.5,Northamptonshire,RI Newton,RE Levi,CJ McKay,1,0,,,,,,"",""
+ball,1,11.6,Northamptonshire,RE Levi,RI Newton,CJ McKay,1,0,,,,,,"",""
+ball,1,12.1,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,1,0,,,,,,"",""
+ball,1,12.2,Northamptonshire,RI Newton,RE Levi,ZJ Chappell,0,1,1,,,,,"",""
+ball,1,12.3,Northamptonshire,RI Newton,RE Levi,ZJ Chappell,0,1,1,,,,,"",""
+ball,1,12.4,Northamptonshire,RI Newton,RE Levi,ZJ Chappell,0,0,,,,,,"",""
+ball,1,12.5,Northamptonshire,RI Newton,RE Levi,ZJ Chappell,1,0,,,,,,"",""
+ball,1,12.6,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,6,0,,,,,,"",""
+ball,1,12.7,Northamptonshire,RE Levi,RI Newton,ZJ Chappell,1,0,,,,,,"",""
+ball,1,12.8,Northamptonshire,RI Newton,RE Levi,ZJ Chappell,1,0,,,,,,"",""
+ball,1,13.1,Northamptonshire,RI Newton,RE Levi,CJ McKay,0,0,,,,,,"",""
+ball,1,13.2,Northamptonshire,RI Newton,RE Levi,CJ McKay,1,0,,,,,,"",""
+ball,1,13.3,Northamptonshire,RE Levi,RI Newton,CJ McKay,1,0,,,,,,"",""
+ball,1,13.4,Northamptonshire,RI Newton,RE Levi,CJ McKay,1,0,,,,,,"",""
+ball,1,13.5,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,13.6,Northamptonshire,RE Levi,RI Newton,CJ McKay,0,0,,,,,,"",""
+ball,1,14.1,Northamptonshire,RI Newton,RE Levi,D Klein,1,0,,,,,,"",""
+ball,1,14.2,Northamptonshire,RE Levi,RI Newton,D Klein,0,1,,,,1,,"",""
+ball,1,14.3,Northamptonshire,RI Newton,RE Levi,D Klein,2,0,,,,,,"",""
+ball,1,14.4,Northamptonshire,RI Newton,RE Levi,D Klein,2,0,,,,,,"",""
+ball,1,14.5,Northamptonshire,RI Newton,RE Levi,D Klein,1,0,,,,,,"",""
+ball,1,14.6,Northamptonshire,RE Levi,RI Newton,D Klein,1,0,,,,,,"",""
+ball,1,15.1,Northamptonshire,RE Levi,RI Newton,TJ Wells,1,0,,,,,,"",""
+ball,1,15.2,Northamptonshire,RI Newton,RE Levi,TJ Wells,4,0,,,,,,"",""
+ball,1,15.3,Northamptonshire,RI Newton,RE Levi,TJ Wells,0,0,,,,,,"",""
+ball,1,15.4,Northamptonshire,RI Newton,RE Levi,TJ Wells,1,0,,,,,,"",""
+ball,1,15.5,Northamptonshire,RE Levi,RI Newton,TJ Wells,1,0,,,,,,"",""
+ball,1,15.6,Northamptonshire,RI Newton,RE Levi,TJ Wells,1,0,,,,,,"",""
+ball,1,16.1,Northamptonshire,RI Newton,RE Levi,D Klein,1,0,,,,,,"",""
+ball,1,16.2,Northamptonshire,RE Levi,RI Newton,D Klein,1,0,,,,,,"",""
+ball,1,16.3,Northamptonshire,RI Newton,RE Levi,D Klein,0,0,,,,,,"",""
+ball,1,16.4,Northamptonshire,RI Newton,RE Levi,D Klein,0,2,,2,,,,"",""
+ball,1,16.5,Northamptonshire,RI Newton,RE Levi,D Klein,4,0,,,,,,"",""
+ball,1,16.6,Northamptonshire,RI Newton,RE Levi,D Klein,1,0,,,,,,"",""

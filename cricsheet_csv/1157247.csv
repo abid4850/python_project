@@ -1,0 +1,281 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Warriors
+info,gender,male
+info,season,2018/19
+info,date,2019/04/24
+info,event,CSA T20 Challenge
+info,match_number,24
+info,venue,"New Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Warriors
+info,toss_decision,field
+info,player_of_match,JT Smuts
+info,player_of_match,MP Breetzke
+info,umpire,BP Jele
+info,umpire,MW Brown
+info,reserve_umpire,J Sadler
+info,match_referee,S Wadvalla
+info,winner,Warriors
+info,winner_wickets,9
+info,player,Lions,RD Rickelton
+info,player,Lions,RR Hendricks
+info,player,Lions,HE van der Dussen
+info,player,Lions,T Bavuma
+info,player,Lions,WJ Lubbe
+info,player,Lions,D Pretorius
+info,player,Lions,Z Pongolo
+info,player,Lions,M Pretorius
+info,player,Lions,BC Fortuin
+info,player,Lions,AM Phangiso
+info,player,Lions,MP Siboto
+info,player,Warriors,MP Breetzke
+info,player,Warriors,GL Cloete
+info,player,Warriors,JT Smuts
+info,player,Warriors,M Marais
+info,player,Warriors,S Qeshile
+info,player,Warriors,O Nyaku
+info,player,Warriors,J de Klerk
+info,player,Warriors,SSB Magala
+info,player,Warriors,ACR Birch
+info,player,Warriors,L Sipamla
+info,player,Warriors,S Langa
+info,registry,people,ACR Birch,9df3a2f4
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Pretorius,11614d87
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,J Sadler,9123ee40
+info,registry,people,J de Klerk,a941d2d5
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,M Marais,7c18b36c
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,MW Brown,d83d7796
+info,registry,people,O Nyaku,9b442f95
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S Langa,46b9eda8
+info,registry,people,S Qeshile,94268960
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SSB Magala,8361e524
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,Z Pongolo,01698fee
+ball,1,0.1,Lions,RD Rickelton,RR Hendricks,ACR Birch,0,0,,,,,,"",""
+ball,1,0.2,Lions,RD Rickelton,RR Hendricks,ACR Birch,0,1,1,,,,,"",""
+ball,1,0.3,Lions,RD Rickelton,RR Hendricks,ACR Birch,1,0,,,,,,"",""
+ball,1,0.4,Lions,RR Hendricks,RD Rickelton,ACR Birch,0,1,,,,1,,"",""
+ball,1,0.5,Lions,RD Rickelton,RR Hendricks,ACR Birch,0,0,,,,,,"",""
+ball,1,0.6,Lions,RD Rickelton,RR Hendricks,ACR Birch,0,0,,,,,,"",""
+ball,1,0.7,Lions,RD Rickelton,RR Hendricks,ACR Birch,0,0,,,,,,"",""
+ball,1,1.1,Lions,RR Hendricks,RD Rickelton,L Sipamla,0,0,,,,,,"",""
+ball,1,1.2,Lions,RR Hendricks,RD Rickelton,L Sipamla,1,0,,,,,,"",""
+ball,1,1.3,Lions,RD Rickelton,RR Hendricks,L Sipamla,0,0,,,,,,"",""
+ball,1,1.4,Lions,RD Rickelton,RR Hendricks,L Sipamla,0,0,,,,,,caught,RD Rickelton
+ball,1,1.5,Lions,RR Hendricks,HE van der Dussen,L Sipamla,1,0,,,,,,"",""
+ball,1,1.6,Lions,HE van der Dussen,RR Hendricks,L Sipamla,1,0,,,,,,"",""
+ball,1,2.1,Lions,HE van der Dussen,RR Hendricks,ACR Birch,0,0,,,,,,"",""
+ball,1,2.2,Lions,HE van der Dussen,RR Hendricks,ACR Birch,0,0,,,,,,"",""
+ball,1,2.3,Lions,HE van der Dussen,RR Hendricks,ACR Birch,0,0,,,,,,"",""
+ball,1,2.4,Lions,HE van der Dussen,RR Hendricks,ACR Birch,1,0,,,,,,"",""
+ball,1,2.5,Lions,RR Hendricks,HE van der Dussen,ACR Birch,1,0,,,,,,"",""
+ball,1,2.6,Lions,HE van der Dussen,RR Hendricks,ACR Birch,0,0,,,,,,caught,HE van der Dussen
+ball,1,3.1,Lions,RR Hendricks,T Bavuma,L Sipamla,0,0,,,,,,"",""
+ball,1,3.2,Lions,RR Hendricks,T Bavuma,L Sipamla,0,0,,,,,,"",""
+ball,1,3.3,Lions,RR Hendricks,T Bavuma,L Sipamla,0,0,,,,,,"",""
+ball,1,3.4,Lions,RR Hendricks,T Bavuma,L Sipamla,1,0,,,,,,"",""
+ball,1,3.5,Lions,T Bavuma,RR Hendricks,L Sipamla,2,0,,,,,,"",""
+ball,1,3.6,Lions,T Bavuma,RR Hendricks,L Sipamla,0,0,,,,,,"",""
+ball,1,4.1,Lions,RR Hendricks,T Bavuma,ACR Birch,0,0,,,,,,"",""
+ball,1,4.2,Lions,RR Hendricks,T Bavuma,ACR Birch,0,0,,,,,,"",""
+ball,1,4.3,Lions,RR Hendricks,T Bavuma,ACR Birch,1,0,,,,,,"",""
+ball,1,4.4,Lions,T Bavuma,RR Hendricks,ACR Birch,0,0,,,,,,"",""
+ball,1,4.5,Lions,T Bavuma,RR Hendricks,ACR Birch,4,0,,,,,,"",""
+ball,1,4.6,Lions,T Bavuma,RR Hendricks,ACR Birch,0,0,,,,,,"",""
+ball,1,5.1,Lions,RR Hendricks,T Bavuma,SSB Magala,0,0,,,,,,"",""
+ball,1,5.2,Lions,RR Hendricks,T Bavuma,SSB Magala,0,0,,,,,,"",""
+ball,1,5.3,Lions,RR Hendricks,T Bavuma,SSB Magala,1,0,,,,,,"",""
+ball,1,5.4,Lions,T Bavuma,RR Hendricks,SSB Magala,1,0,,,,,,"",""
+ball,1,5.5,Lions,RR Hendricks,T Bavuma,SSB Magala,1,0,,,,,,"",""
+ball,1,5.6,Lions,T Bavuma,RR Hendricks,SSB Magala,1,0,,,,,,"",""
+ball,1,6.1,Lions,T Bavuma,RR Hendricks,JT Smuts,1,0,,,,,,"",""
+ball,1,6.2,Lions,RR Hendricks,T Bavuma,JT Smuts,0,0,,,,,,"",""
+ball,1,6.3,Lions,RR Hendricks,T Bavuma,JT Smuts,1,0,,,,,,"",""
+ball,1,6.4,Lions,T Bavuma,RR Hendricks,JT Smuts,0,0,,,,,,"",""
+ball,1,6.5,Lions,T Bavuma,RR Hendricks,JT Smuts,1,0,,,,,,"",""
+ball,1,6.6,Lions,RR Hendricks,T Bavuma,JT Smuts,1,0,,,,,,"",""
+ball,1,7.1,Lions,RR Hendricks,T Bavuma,S Langa,0,0,,,,,,"",""
+ball,1,7.2,Lions,RR Hendricks,T Bavuma,S Langa,2,0,,,,,,"",""
+ball,1,7.3,Lions,RR Hendricks,T Bavuma,S Langa,4,0,,,,,,"",""
+ball,1,7.4,Lions,RR Hendricks,T Bavuma,S Langa,6,0,,,,,,"",""
+ball,1,7.5,Lions,RR Hendricks,T Bavuma,S Langa,0,0,,,,,,"",""
+ball,1,7.6,Lions,RR Hendricks,T Bavuma,S Langa,1,0,,,,,,"",""
+ball,1,8.1,Lions,RR Hendricks,T Bavuma,JT Smuts,1,0,,,,,,"",""
+ball,1,8.2,Lions,T Bavuma,RR Hendricks,JT Smuts,1,0,,,,,,"",""
+ball,1,8.3,Lions,RR Hendricks,T Bavuma,JT Smuts,0,0,,,,,,"",""
+ball,1,8.4,Lions,RR Hendricks,T Bavuma,JT Smuts,3,0,,,,,,"",""
+ball,1,8.5,Lions,T Bavuma,RR Hendricks,JT Smuts,1,0,,,,,,"",""
+ball,1,8.6,Lions,RR Hendricks,T Bavuma,JT Smuts,2,0,,,,,,"",""
+ball,1,9.1,Lions,T Bavuma,RR Hendricks,J de Klerk,1,0,,,,,,"",""
+ball,1,9.2,Lions,RR Hendricks,T Bavuma,J de Klerk,1,0,,,,,,"",""
+ball,1,9.3,Lions,T Bavuma,RR Hendricks,J de Klerk,0,0,,,,,,"",""
+ball,1,9.4,Lions,T Bavuma,RR Hendricks,J de Klerk,6,0,,,,,,"",""
+ball,1,9.5,Lions,T Bavuma,RR Hendricks,J de Klerk,0,0,,,,,,"",""
+ball,1,9.6,Lions,T Bavuma,RR Hendricks,J de Klerk,1,0,,,,,,"",""
+ball,1,10.1,Lions,T Bavuma,RR Hendricks,JT Smuts,1,0,,,,,,"",""
+ball,1,10.2,Lions,RR Hendricks,T Bavuma,JT Smuts,0,0,,,,,,caught,RR Hendricks
+ball,1,10.3,Lions,WJ Lubbe,T Bavuma,JT Smuts,2,0,,,,,,"",""
+ball,1,10.4,Lions,WJ Lubbe,T Bavuma,JT Smuts,1,0,,,,,,"",""
+ball,1,10.5,Lions,T Bavuma,WJ Lubbe,JT Smuts,1,0,,,,,,"",""
+ball,1,10.6,Lions,WJ Lubbe,T Bavuma,JT Smuts,0,0,,,,,,"",""
+ball,1,11.1,Lions,T Bavuma,WJ Lubbe,S Langa,1,0,,,,,,"",""
+ball,1,11.2,Lions,WJ Lubbe,T Bavuma,S Langa,0,0,,,,,,"",""
+ball,1,11.3,Lions,WJ Lubbe,T Bavuma,S Langa,0,0,,,,,,caught,WJ Lubbe
+ball,1,11.4,Lions,T Bavuma,D Pretorius,S Langa,1,0,,,,,,"",""
+ball,1,11.5,Lions,D Pretorius,T Bavuma,S Langa,0,0,,,,,,"",""
+ball,1,11.6,Lions,D Pretorius,T Bavuma,S Langa,0,0,,,,,,"",""
+ball,1,12.1,Lions,T Bavuma,D Pretorius,SSB Magala,0,0,,,,,,caught,T Bavuma
+ball,1,12.2,Lions,Z Pongolo,D Pretorius,SSB Magala,1,0,,,,,,"",""
+ball,1,12.3,Lions,D Pretorius,Z Pongolo,SSB Magala,1,0,,,,,,"",""
+ball,1,12.4,Lions,Z Pongolo,D Pretorius,SSB Magala,1,0,,,,,,"",""
+ball,1,12.5,Lions,D Pretorius,Z Pongolo,SSB Magala,1,0,,,,,,"",""
+ball,1,12.6,Lions,Z Pongolo,D Pretorius,SSB Magala,1,0,,,,,,"",""
+ball,1,13.1,Lions,Z Pongolo,D Pretorius,S Langa,1,0,,,,,,"",""
+ball,1,13.2,Lions,D Pretorius,Z Pongolo,S Langa,0,0,,,,,,"",""
+ball,1,13.3,Lions,D Pretorius,Z Pongolo,S Langa,1,0,,,,,,"",""
+ball,1,13.4,Lions,Z Pongolo,D Pretorius,S Langa,0,0,,,,,,"",""
+ball,1,13.5,Lions,Z Pongolo,D Pretorius,S Langa,1,0,,,,,,"",""
+ball,1,13.6,Lions,D Pretorius,Z Pongolo,S Langa,1,0,,,,,,"",""
+ball,1,14.1,Lions,D Pretorius,Z Pongolo,SSB Magala,0,0,,,,,,"",""
+ball,1,14.2,Lions,D Pretorius,Z Pongolo,SSB Magala,4,0,,,,,,"",""
+ball,1,14.3,Lions,D Pretorius,Z Pongolo,SSB Magala,0,0,,,,,,"",""
+ball,1,14.4,Lions,D Pretorius,Z Pongolo,SSB Magala,4,0,,,,,,"",""
+ball,1,14.5,Lions,D Pretorius,Z Pongolo,SSB Magala,1,0,,,,,,"",""
+ball,1,14.6,Lions,Z Pongolo,D Pretorius,SSB Magala,1,0,,,,,,"",""
+ball,1,15.1,Lions,Z Pongolo,D Pretorius,JT Smuts,1,0,,,,,,"",""
+ball,1,15.2,Lions,D Pretorius,Z Pongolo,JT Smuts,1,0,,,,,,"",""
+ball,1,15.3,Lions,Z Pongolo,D Pretorius,JT Smuts,0,0,,,,,,"",""
+ball,1,15.4,Lions,Z Pongolo,D Pretorius,JT Smuts,1,0,,,,,,"",""
+ball,1,15.5,Lions,D Pretorius,Z Pongolo,JT Smuts,1,0,,,,,,"",""
+ball,1,15.6,Lions,Z Pongolo,D Pretorius,JT Smuts,1,0,,,,,,"",""
+ball,1,16.1,Lions,Z Pongolo,D Pretorius,SSB Magala,1,0,,,,,,"",""
+ball,1,16.2,Lions,D Pretorius,Z Pongolo,SSB Magala,1,1,,1,,,,"",""
+ball,1,16.3,Lions,Z Pongolo,D Pretorius,SSB Magala,1,0,,,,,,"",""
+ball,1,16.4,Lions,D Pretorius,Z Pongolo,SSB Magala,4,0,,,,,,"",""
+ball,1,16.5,Lions,D Pretorius,Z Pongolo,SSB Magala,0,0,,,,,,"",""
+ball,1,16.6,Lions,D Pretorius,Z Pongolo,SSB Magala,6,0,,,,,,"",""
+ball,1,16.7,Lions,D Pretorius,Z Pongolo,SSB Magala,2,0,,,,,,"",""
+ball,1,17.1,Lions,Z Pongolo,D Pretorius,L Sipamla,1,0,,,,,,"",""
+ball,1,17.2,Lions,D Pretorius,Z Pongolo,L Sipamla,4,0,,,,,,"",""
+ball,1,17.3,Lions,D Pretorius,Z Pongolo,L Sipamla,0,0,,,,,,"",""
+ball,1,17.4,Lions,D Pretorius,Z Pongolo,L Sipamla,1,0,,,,,,"",""
+ball,1,17.5,Lions,Z Pongolo,D Pretorius,L Sipamla,0,0,,,,,,"",""
+ball,1,17.6,Lions,Z Pongolo,D Pretorius,L Sipamla,1,0,,,,,,"",""
+ball,1,18.1,Lions,Z Pongolo,D Pretorius,ACR Birch,4,0,,,,,,"",""
+ball,1,18.2,Lions,Z Pongolo,D Pretorius,ACR Birch,6,0,,,,,,"",""
+ball,1,18.3,Lions,Z Pongolo,D Pretorius,ACR Birch,4,0,,,,,,"",""
+ball,1,18.4,Lions,Z Pongolo,D Pretorius,ACR Birch,4,0,,,,,,"",""
+ball,1,18.5,Lions,Z Pongolo,D Pretorius,ACR Birch,0,0,,,,,,"",""
+ball,1,18.6,Lions,Z Pongolo,D Pretorius,ACR Birch,2,0,,,,,,"",""
+ball,1,19.1,Lions,D Pretorius,Z Pongolo,L Sipamla,1,0,,,,,,run out,Z Pongolo
+ball,1,19.2,Lions,M Pretorius,D Pretorius,L Sipamla,1,0,,,,,,"",""
+ball,1,19.3,Lions,D Pretorius,M Pretorius,L Sipamla,0,0,,,,,,"",""
+ball,1,19.4,Lions,D Pretorius,M Pretorius,L Sipamla,6,0,,,,,,"",""
+ball,1,19.5,Lions,D Pretorius,M Pretorius,L Sipamla,4,0,,,,,,"",""
+ball,1,19.6,Lions,D Pretorius,M Pretorius,L Sipamla,4,0,,,,,,"",""
+ball,2,0.1,Warriors,MP Breetzke,GL Cloete,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.2,Warriors,MP Breetzke,GL Cloete,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.3,Warriors,MP Breetzke,GL Cloete,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.4,Warriors,MP Breetzke,GL Cloete,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.5,Warriors,MP Breetzke,GL Cloete,BC Fortuin,1,0,,,,,,"",""
+ball,2,0.6,Warriors,GL Cloete,MP Breetzke,BC Fortuin,0,0,,,,,,"",""
+ball,2,1.1,Warriors,MP Breetzke,GL Cloete,M Pretorius,0,0,,,,,,"",""
+ball,2,1.2,Warriors,MP Breetzke,GL Cloete,M Pretorius,1,0,,,,,,"",""
+ball,2,1.3,Warriors,GL Cloete,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,2,1.4,Warriors,GL Cloete,MP Breetzke,M Pretorius,4,0,,,,,,"",""
+ball,2,1.5,Warriors,GL Cloete,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,2,1.6,Warriors,GL Cloete,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,2,2.1,Warriors,MP Breetzke,GL Cloete,BC Fortuin,0,1,,,,1,,"",""
+ball,2,2.2,Warriors,GL Cloete,MP Breetzke,BC Fortuin,4,0,,,,,,"",""
+ball,2,2.3,Warriors,GL Cloete,MP Breetzke,BC Fortuin,0,0,,,,,,"",""
+ball,2,2.4,Warriors,GL Cloete,MP Breetzke,BC Fortuin,1,0,,,,,,"",""
+ball,2,2.5,Warriors,MP Breetzke,GL Cloete,BC Fortuin,0,0,,,,,,"",""
+ball,2,2.6,Warriors,MP Breetzke,GL Cloete,BC Fortuin,4,0,,,,,,"",""
+ball,2,3.1,Warriors,GL Cloete,MP Breetzke,M Pretorius,1,0,,,,,,"",""
+ball,2,3.2,Warriors,MP Breetzke,GL Cloete,M Pretorius,0,0,,,,,,"",""
+ball,2,3.3,Warriors,MP Breetzke,GL Cloete,M Pretorius,1,0,,,,,,"",""
+ball,2,3.4,Warriors,GL Cloete,MP Breetzke,M Pretorius,1,0,,,,,,"",""
+ball,2,3.5,Warriors,MP Breetzke,GL Cloete,M Pretorius,0,0,,,,,,"",""
+ball,2,3.6,Warriors,MP Breetzke,GL Cloete,M Pretorius,6,0,,,,,,"",""
+ball,2,4.1,Warriors,GL Cloete,MP Breetzke,D Pretorius,4,0,,,,,,"",""
+ball,2,4.2,Warriors,GL Cloete,MP Breetzke,D Pretorius,1,0,,,,,,"",""
+ball,2,4.3,Warriors,MP Breetzke,GL Cloete,D Pretorius,1,0,,,,,,"",""
+ball,2,4.4,Warriors,GL Cloete,MP Breetzke,D Pretorius,2,0,,,,,,"",""
+ball,2,4.5,Warriors,GL Cloete,MP Breetzke,D Pretorius,4,0,,,,,,"",""
+ball,2,4.6,Warriors,GL Cloete,MP Breetzke,D Pretorius,4,0,,,,,,"",""
+ball,2,5.1,Warriors,MP Breetzke,GL Cloete,MP Siboto,1,0,,,,,,"",""
+ball,2,5.2,Warriors,GL Cloete,MP Breetzke,MP Siboto,0,0,,,,,,"",""
+ball,2,5.3,Warriors,GL Cloete,MP Breetzke,MP Siboto,6,0,,,,,,"",""
+ball,2,5.4,Warriors,GL Cloete,MP Breetzke,MP Siboto,1,0,,,,,,"",""
+ball,2,5.5,Warriors,MP Breetzke,GL Cloete,MP Siboto,0,0,,,,,,"",""
+ball,2,5.6,Warriors,MP Breetzke,GL Cloete,MP Siboto,2,0,,,,,,"",""
+ball,2,6.1,Warriors,GL Cloete,MP Breetzke,AM Phangiso,4,0,,,,,,"",""
+ball,2,6.2,Warriors,GL Cloete,MP Breetzke,AM Phangiso,1,0,,,,,,"",""
+ball,2,6.3,Warriors,MP Breetzke,GL Cloete,AM Phangiso,1,0,,,,,,"",""
+ball,2,6.4,Warriors,GL Cloete,MP Breetzke,AM Phangiso,0,0,,,,,,"",""
+ball,2,6.5,Warriors,GL Cloete,MP Breetzke,AM Phangiso,1,0,,,,,,"",""
+ball,2,6.6,Warriors,MP Breetzke,GL Cloete,AM Phangiso,4,0,,,,,,"",""
+ball,2,7.1,Warriors,GL Cloete,MP Breetzke,MP Siboto,1,0,,,,,,"",""
+ball,2,7.2,Warriors,MP Breetzke,GL Cloete,MP Siboto,4,0,,,,,,"",""
+ball,2,7.3,Warriors,MP Breetzke,GL Cloete,MP Siboto,0,0,,,,,,"",""
+ball,2,7.4,Warriors,MP Breetzke,GL Cloete,MP Siboto,0,0,,,,,,"",""
+ball,2,7.5,Warriors,MP Breetzke,GL Cloete,MP Siboto,4,0,,,,,,"",""
+ball,2,7.6,Warriors,MP Breetzke,GL Cloete,MP Siboto,0,1,1,,,,,"",""
+ball,2,7.7,Warriors,MP Breetzke,GL Cloete,MP Siboto,1,0,,,,,,"",""
+ball,2,8.1,Warriors,MP Breetzke,GL Cloete,AM Phangiso,2,0,,,,,,"",""
+ball,2,8.2,Warriors,MP Breetzke,GL Cloete,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.3,Warriors,GL Cloete,MP Breetzke,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.4,Warriors,MP Breetzke,GL Cloete,AM Phangiso,6,0,,,,,,"",""
+ball,2,8.5,Warriors,MP Breetzke,GL Cloete,AM Phangiso,3,0,,,,,,"",""
+ball,2,8.6,Warriors,GL Cloete,MP Breetzke,AM Phangiso,4,0,,,,,,"",""
+ball,2,9.1,Warriors,MP Breetzke,GL Cloete,Z Pongolo,1,0,,,,,,"",""
+ball,2,9.2,Warriors,GL Cloete,MP Breetzke,Z Pongolo,0,0,,,,,,"",""
+ball,2,9.3,Warriors,GL Cloete,MP Breetzke,Z Pongolo,1,0,,,,,,"",""
+ball,2,9.4,Warriors,MP Breetzke,GL Cloete,Z Pongolo,0,5,5,,,,,"",""
+ball,2,9.5,Warriors,MP Breetzke,GL Cloete,Z Pongolo,1,0,,,,,,"",""
+ball,2,9.6,Warriors,GL Cloete,MP Breetzke,Z Pongolo,6,0,,,,,,"",""
+ball,2,9.7,Warriors,GL Cloete,MP Breetzke,Z Pongolo,1,0,,,,,,"",""
+ball,2,10.1,Warriors,GL Cloete,MP Breetzke,BC Fortuin,0,0,,,,,,"",""
+ball,2,10.2,Warriors,GL Cloete,MP Breetzke,BC Fortuin,0,0,,,,,,"",""
+ball,2,10.3,Warriors,GL Cloete,MP Breetzke,BC Fortuin,1,0,,,,,,"",""
+ball,2,10.4,Warriors,MP Breetzke,GL Cloete,BC Fortuin,1,0,,,,,,"",""
+ball,2,10.5,Warriors,GL Cloete,MP Breetzke,BC Fortuin,0,0,,,,,,bowled,GL Cloete
+ball,2,10.6,Warriors,JT Smuts,MP Breetzke,BC Fortuin,0,0,,,,,,"",""
+ball,2,11.1,Warriors,MP Breetzke,JT Smuts,M Pretorius,4,0,,,,,,"",""
+ball,2,11.2,Warriors,MP Breetzke,JT Smuts,M Pretorius,0,0,,,,,,"",""
+ball,2,11.3,Warriors,MP Breetzke,JT Smuts,M Pretorius,1,0,,,,,,"",""
+ball,2,11.4,Warriors,JT Smuts,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,2,11.5,Warriors,JT Smuts,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,2,11.6,Warriors,JT Smuts,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,2,12.1,Warriors,MP Breetzke,JT Smuts,BC Fortuin,2,0,,,,,,"",""
+ball,2,12.2,Warriors,MP Breetzke,JT Smuts,BC Fortuin,1,1,,1,,,,"",""
+ball,2,12.3,Warriors,JT Smuts,MP Breetzke,BC Fortuin,1,0,,,,,,"",""
+ball,2,12.4,Warriors,MP Breetzke,JT Smuts,BC Fortuin,6,0,,,,,,"",""
+ball,2,12.5,Warriors,MP Breetzke,JT Smuts,BC Fortuin,3,0,,,,,,"",""
+ball,2,12.6,Warriors,JT Smuts,MP Breetzke,BC Fortuin,1,0,,,,,,"",""
+ball,2,12.7,Warriors,MP Breetzke,JT Smuts,BC Fortuin,0,0,,,,,,"",""
+ball,2,13.1,Warriors,JT Smuts,MP Breetzke,D Pretorius,1,0,,,,,,"",""
+ball,2,13.2,Warriors,MP Breetzke,JT Smuts,D Pretorius,2,0,,,,,,"",""
+ball,2,13.3,Warriors,MP Breetzke,JT Smuts,D Pretorius,0,0,,,,,,"",""
+ball,2,13.4,Warriors,MP Breetzke,JT Smuts,D Pretorius,1,0,,,,,,"",""
+ball,2,13.5,Warriors,JT Smuts,MP Breetzke,D Pretorius,6,0,,,,,,"",""
+ball,2,13.6,Warriors,JT Smuts,MP Breetzke,D Pretorius,1,0,,,,,,"",""
+ball,2,14.1,Warriors,JT Smuts,MP Breetzke,MP Siboto,1,0,,,,,,"",""
+ball,2,14.2,Warriors,MP Breetzke,JT Smuts,MP Siboto,0,0,,,,,,"",""
+ball,2,14.3,Warriors,MP Breetzke,JT Smuts,MP Siboto,6,0,,,,,,"",""

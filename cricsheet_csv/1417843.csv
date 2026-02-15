@@ -1,0 +1,283 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Trent Rockets
+info,team,London Spirit
+info,gender,female
+info,season,2024
+info,date,2024/08/07
+info,event,The Hundred Women's Competition
+info,match_number,20
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,London Spirit
+info,toss_decision,field
+info,player_of_match,A Gardner
+info,umpire,MA Gough
+info,umpire,S Redfern
+info,reserve_umpire,G Brown
+info,tv_umpire,AY Harris
+info,match_referee,SM Bartlett
+info,winner,Trent Rockets
+info,winner_runs,31
+info,player,Trent Rockets,BF Smith
+info,player,Trent Rockets,G Scrivens
+info,player,Trent Rockets,NR Sciver-Brunt
+info,player,Trent Rockets,A Gardner
+info,player,Trent Rockets,H Graham
+info,player,Trent Rockets,A King
+info,player,Trent Rockets,NAJ Wraith
+info,player,Trent Rockets,KL George
+info,player,Trent Rockets,J Groves
+info,player,Trent Rockets,A Stonehouse
+info,player,Trent Rockets,KL Gordon
+info,player,London Spirit,MM Lanning
+info,player,London Spirit,G Redmayne
+info,player,London Spirit,CL Griffith
+info,player,London Spirit,HC Knight
+info,player,London Spirit,DR Gibson
+info,player,London Spirit,DB Sharma
+info,player,London Spirit,CE Dean
+info,player,London Spirit,E Gray
+info,player,London Spirit,S Glenn
+info,player,London Spirit,S Munro
+info,player,London Spirit,TG Norris
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,A Stonehouse,c9366237
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DR Gibson,d2763568
+info,registry,people,E Gray,58717de2
+info,registry,people,G Brown,4b781bd0
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,H Graham,99812d10
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,J Groves,11ff23e3
+info,registry,people,KL George,e69dbbef
+info,registry,people,KL Gordon,00823a96
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,NAJ Wraith,1ec1998e
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Munro,b4e026de
+info,registry,people,S Redfern,5b038989
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,TG Norris,8ae7bb3e
+ball,1,0.1,Trent Rockets,BF Smith,G Scrivens,TG Norris,0,1,1,,,,,"",""
+ball,1,0.2,Trent Rockets,BF Smith,G Scrivens,TG Norris,4,0,,,,,,"",""
+ball,1,0.3,Trent Rockets,BF Smith,G Scrivens,TG Norris,1,0,,,,,,"",""
+ball,1,0.4,Trent Rockets,G Scrivens,BF Smith,TG Norris,0,0,,,,,,"",""
+ball,1,0.5,Trent Rockets,G Scrivens,BF Smith,TG Norris,0,0,,,,,,"",""
+ball,1,0.6,Trent Rockets,G Scrivens,BF Smith,TG Norris,2,0,,,,,,"",""
+ball,1,1.1,Trent Rockets,G Scrivens,BF Smith,CE Dean,4,0,,,,,,"",""
+ball,1,1.2,Trent Rockets,G Scrivens,BF Smith,CE Dean,0,0,,,,,,"",""
+ball,1,1.3,Trent Rockets,G Scrivens,BF Smith,CE Dean,0,0,,,,,,"",""
+ball,1,1.4,Trent Rockets,G Scrivens,BF Smith,CE Dean,1,0,,,,,,"",""
+ball,1,1.5,Trent Rockets,BF Smith,G Scrivens,CE Dean,1,0,,,,,,"",""
+ball,1,2.1,Trent Rockets,BF Smith,G Scrivens,E Gray,4,0,,,,,,"",""
+ball,1,2.2,Trent Rockets,BF Smith,G Scrivens,E Gray,0,0,,,,,,"",""
+ball,1,2.3,Trent Rockets,BF Smith,G Scrivens,E Gray,1,0,,,,,,"",""
+ball,1,2.4,Trent Rockets,G Scrivens,BF Smith,E Gray,4,0,,,,,,"",""
+ball,1,2.5,Trent Rockets,G Scrivens,BF Smith,E Gray,0,1,1,,,,,"",""
+ball,1,2.6,Trent Rockets,G Scrivens,BF Smith,E Gray,0,0,,,,,,"",""
+ball,1,3.1,Trent Rockets,G Scrivens,BF Smith,DR Gibson,1,0,,,,,,"",""
+ball,1,3.2,Trent Rockets,BF Smith,G Scrivens,DR Gibson,0,1,1,,,,,"",""
+ball,1,3.3,Trent Rockets,BF Smith,G Scrivens,DR Gibson,0,0,,,,,,"",""
+ball,1,3.4,Trent Rockets,BF Smith,G Scrivens,DR Gibson,0,0,,,,,,"",""
+ball,1,3.5,Trent Rockets,BF Smith,G Scrivens,DR Gibson,0,0,,,,,,"",""
+ball,1,3.6,Trent Rockets,BF Smith,G Scrivens,DR Gibson,0,0,,,,,,"",""
+ball,1,4.1,Trent Rockets,G Scrivens,BF Smith,CE Dean,0,2,2,,,,,"",""
+ball,1,4.2,Trent Rockets,BF Smith,G Scrivens,CE Dean,4,0,,,,,,"",""
+ball,1,4.3,Trent Rockets,BF Smith,G Scrivens,CE Dean,0,0,,,,,,"",""
+ball,1,4.4,Trent Rockets,BF Smith,G Scrivens,CE Dean,2,0,,,,,,"",""
+ball,1,4.5,Trent Rockets,BF Smith,G Scrivens,CE Dean,1,0,,,,,,"",""
+ball,1,4.6,Trent Rockets,G Scrivens,BF Smith,CE Dean,0,0,,,,,,"",""
+ball,1,5.1,Trent Rockets,G Scrivens,BF Smith,S Glenn,4,0,,,,,,"",""
+ball,1,5.2,Trent Rockets,G Scrivens,BF Smith,S Glenn,0,0,,,,,,"",""
+ball,1,5.3,Trent Rockets,G Scrivens,BF Smith,S Glenn,0,0,,,,,,"",""
+ball,1,5.4,Trent Rockets,G Scrivens,BF Smith,S Glenn,0,0,,,,,,"",""
+ball,1,5.5,Trent Rockets,G Scrivens,BF Smith,S Glenn,1,0,,,,,,"",""
+ball,1,6.1,Trent Rockets,G Scrivens,BF Smith,DB Sharma,0,1,,,,1,,"",""
+ball,1,6.2,Trent Rockets,BF Smith,G Scrivens,DB Sharma,1,0,,,,,,"",""
+ball,1,6.3,Trent Rockets,G Scrivens,BF Smith,DB Sharma,4,0,,,,,,"",""
+ball,1,6.4,Trent Rockets,G Scrivens,BF Smith,DB Sharma,0,0,,,,,,"",""
+ball,1,6.5,Trent Rockets,G Scrivens,BF Smith,DB Sharma,0,1,1,,,,,"",""
+ball,1,6.6,Trent Rockets,G Scrivens,BF Smith,DB Sharma,1,0,,,,,,"",""
+ball,1,7.1,Trent Rockets,BF Smith,G Scrivens,E Gray,4,0,,,,,,"",""
+ball,1,7.2,Trent Rockets,BF Smith,G Scrivens,E Gray,2,0,,,,,,"",""
+ball,1,7.3,Trent Rockets,BF Smith,G Scrivens,E Gray,1,0,,,,,,"",""
+ball,1,7.4,Trent Rockets,G Scrivens,BF Smith,E Gray,2,0,,,,,,"",""
+ball,1,7.5,Trent Rockets,G Scrivens,BF Smith,E Gray,1,2,,2,,,,"",""
+ball,1,7.6,Trent Rockets,BF Smith,G Scrivens,E Gray,1,0,,,,,,"",""
+ball,1,8.1,Trent Rockets,BF Smith,G Scrivens,S Glenn,6,0,,,,,,"",""
+ball,1,8.2,Trent Rockets,BF Smith,G Scrivens,S Glenn,0,0,,,,,,"",""
+ball,1,8.3,Trent Rockets,BF Smith,G Scrivens,S Glenn,1,0,,,,,,"",""
+ball,1,8.4,Trent Rockets,G Scrivens,BF Smith,S Glenn,4,0,,,,,,"",""
+ball,1,8.5,Trent Rockets,G Scrivens,BF Smith,S Glenn,2,0,,,,,,"",""
+ball,1,9.1,Trent Rockets,G Scrivens,BF Smith,CE Dean,0,0,,,,,,run out,BF Smith
+ball,1,9.2,Trent Rockets,G Scrivens,NR Sciver-Brunt,CE Dean,4,0,,,,,,"",""
+ball,1,9.3,Trent Rockets,G Scrivens,NR Sciver-Brunt,CE Dean,0,0,,,,,,"",""
+ball,1,9.4,Trent Rockets,G Scrivens,NR Sciver-Brunt,CE Dean,0,0,,,,,,"",""
+ball,1,9.5,Trent Rockets,G Scrivens,NR Sciver-Brunt,CE Dean,0,0,,,,,,"",""
+ball,1,10.1,Trent Rockets,NR Sciver-Brunt,G Scrivens,DR Gibson,1,0,,,,,,"",""
+ball,1,10.2,Trent Rockets,G Scrivens,NR Sciver-Brunt,DR Gibson,4,0,,,,,,"",""
+ball,1,10.3,Trent Rockets,G Scrivens,NR Sciver-Brunt,DR Gibson,1,0,,,,,,"",""
+ball,1,10.4,Trent Rockets,NR Sciver-Brunt,G Scrivens,DR Gibson,2,0,,,,,,"",""
+ball,1,10.5,Trent Rockets,NR Sciver-Brunt,G Scrivens,DR Gibson,0,0,,,,,,"",""
+ball,1,11.1,Trent Rockets,NR Sciver-Brunt,G Scrivens,DB Sharma,1,0,,,,,,"",""
+ball,1,11.2,Trent Rockets,G Scrivens,NR Sciver-Brunt,DB Sharma,0,0,,,,,,"",""
+ball,1,11.3,Trent Rockets,G Scrivens,NR Sciver-Brunt,DB Sharma,4,0,,,,,,"",""
+ball,1,11.4,Trent Rockets,G Scrivens,NR Sciver-Brunt,DB Sharma,1,0,,,,,,"",""
+ball,1,11.5,Trent Rockets,NR Sciver-Brunt,G Scrivens,DB Sharma,4,0,,,,,,"",""
+ball,1,12.1,Trent Rockets,G Scrivens,NR Sciver-Brunt,S Glenn,4,0,,,,,,"",""
+ball,1,12.2,Trent Rockets,G Scrivens,NR Sciver-Brunt,S Glenn,1,0,,,,,,"",""
+ball,1,12.3,Trent Rockets,NR Sciver-Brunt,G Scrivens,S Glenn,1,0,,,,,,"",""
+ball,1,12.4,Trent Rockets,G Scrivens,NR Sciver-Brunt,S Glenn,0,0,,,,,,"",""
+ball,1,12.5,Trent Rockets,G Scrivens,NR Sciver-Brunt,S Glenn,0,0,,,,,,"",""
+ball,1,13.1,Trent Rockets,G Scrivens,NR Sciver-Brunt,S Munro,1,0,,,,,,"",""
+ball,1,13.2,Trent Rockets,NR Sciver-Brunt,G Scrivens,S Munro,4,0,,,,,,"",""
+ball,1,13.3,Trent Rockets,NR Sciver-Brunt,G Scrivens,S Munro,0,0,,,,,,"",""
+ball,1,13.4,Trent Rockets,NR Sciver-Brunt,G Scrivens,S Munro,6,0,,,,,,"",""
+ball,1,13.5,Trent Rockets,NR Sciver-Brunt,G Scrivens,S Munro,1,0,,,,,,"",""
+ball,1,14.1,Trent Rockets,NR Sciver-Brunt,G Scrivens,DB Sharma,1,0,,,,,,"",""
+ball,1,14.2,Trent Rockets,G Scrivens,NR Sciver-Brunt,DB Sharma,1,0,,,,,,"",""
+ball,1,14.3,Trent Rockets,NR Sciver-Brunt,G Scrivens,DB Sharma,0,0,,,,,,caught,NR Sciver-Brunt
+ball,1,14.4,Trent Rockets,A Gardner,G Scrivens,DB Sharma,0,0,,,,,,"",""
+ball,1,14.5,Trent Rockets,A Gardner,G Scrivens,DB Sharma,1,0,,,,,,"",""
+ball,1,15.1,Trent Rockets,G Scrivens,A Gardner,S Glenn,1,0,,,,,,"",""
+ball,1,15.2,Trent Rockets,A Gardner,G Scrivens,S Glenn,1,0,,,,,,"",""
+ball,1,15.3,Trent Rockets,G Scrivens,A Gardner,S Glenn,2,0,,,,,,"",""
+ball,1,15.4,Trent Rockets,G Scrivens,A Gardner,S Glenn,0,0,,,,,,bowled,G Scrivens
+ball,1,15.5,Trent Rockets,H Graham,A Gardner,S Glenn,0,0,,,,,,"",""
+ball,1,16.1,Trent Rockets,A Gardner,H Graham,CE Dean,2,0,,,,,,"",""
+ball,1,16.2,Trent Rockets,A Gardner,H Graham,CE Dean,1,0,,,,,,"",""
+ball,1,16.3,Trent Rockets,H Graham,A Gardner,CE Dean,1,0,,,,,,"",""
+ball,1,16.4,Trent Rockets,A Gardner,H Graham,CE Dean,1,0,,,,,,"",""
+ball,1,16.5,Trent Rockets,H Graham,A Gardner,CE Dean,2,0,,,,,,"",""
+ball,1,17.1,Trent Rockets,H Graham,A Gardner,DR Gibson,4,0,,,,,,"",""
+ball,1,17.2,Trent Rockets,H Graham,A Gardner,DR Gibson,4,0,,,,,,"",""
+ball,1,17.3,Trent Rockets,H Graham,A Gardner,DR Gibson,0,1,1,,,,,"",""
+ball,1,17.4,Trent Rockets,H Graham,A Gardner,DR Gibson,4,0,,,,,,"",""
+ball,1,17.5,Trent Rockets,H Graham,A Gardner,DR Gibson,1,0,,,,,,"",""
+ball,1,17.6,Trent Rockets,A Gardner,H Graham,DR Gibson,2,0,,,,,,"",""
+ball,1,18.1,Trent Rockets,H Graham,A Gardner,DB Sharma,4,0,,,,,,"",""
+ball,1,18.2,Trent Rockets,H Graham,A Gardner,DB Sharma,0,0,,,,,,"",""
+ball,1,18.3,Trent Rockets,H Graham,A Gardner,DB Sharma,0,0,,,,,,"",""
+ball,1,18.4,Trent Rockets,H Graham,A Gardner,DB Sharma,1,0,,,,,,"",""
+ball,1,18.5,Trent Rockets,A Gardner,H Graham,DB Sharma,0,0,,,,,,caught,A Gardner
+ball,1,19.1,Trent Rockets,A King,H Graham,DR Gibson,4,0,,,,,,"",""
+ball,1,19.2,Trent Rockets,A King,H Graham,DR Gibson,0,1,,,,1,,"",""
+ball,1,19.3,Trent Rockets,H Graham,A King,DR Gibson,1,0,,,,,,"",""
+ball,1,19.4,Trent Rockets,A King,H Graham,DR Gibson,2,0,,,,,,"",""
+ball,1,19.5,Trent Rockets,A King,H Graham,DR Gibson,1,0,,,,,,run out,A King
+ball,2,0.1,London Spirit,MM Lanning,G Redmayne,A Stonehouse,0,0,,,,,,"",""
+ball,2,0.2,London Spirit,MM Lanning,G Redmayne,A Stonehouse,0,0,,,,,,"",""
+ball,2,0.3,London Spirit,MM Lanning,G Redmayne,A Stonehouse,0,0,,,,,,"",""
+ball,2,0.4,London Spirit,MM Lanning,G Redmayne,A Stonehouse,4,0,,,,,,"",""
+ball,2,0.5,London Spirit,MM Lanning,G Redmayne,A Stonehouse,0,0,,,,,,"",""
+ball,2,1.1,London Spirit,MM Lanning,G Redmayne,KL Gordon,4,0,,,,,,"",""
+ball,2,1.2,London Spirit,MM Lanning,G Redmayne,KL Gordon,4,0,,,,,,"",""
+ball,2,1.3,London Spirit,MM Lanning,G Redmayne,KL Gordon,0,0,,,,,,"",""
+ball,2,1.4,London Spirit,MM Lanning,G Redmayne,KL Gordon,0,0,,,,,,"",""
+ball,2,1.5,London Spirit,MM Lanning,G Redmayne,KL Gordon,0,0,,,,,,"",""
+ball,2,2.1,London Spirit,G Redmayne,MM Lanning,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,2.2,London Spirit,G Redmayne,MM Lanning,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,2.3,London Spirit,G Redmayne,MM Lanning,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,2.4,London Spirit,G Redmayne,MM Lanning,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,2.5,London Spirit,MM Lanning,G Redmayne,NR Sciver-Brunt,4,0,,,,,,"",""
+ball,2,3.1,London Spirit,MM Lanning,G Redmayne,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,3.2,London Spirit,G Redmayne,MM Lanning,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,3.3,London Spirit,MM Lanning,G Redmayne,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,3.4,London Spirit,G Redmayne,MM Lanning,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,3.5,London Spirit,G Redmayne,MM Lanning,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,4.1,London Spirit,G Redmayne,MM Lanning,A Gardner,0,0,,,,,,"",""
+ball,2,4.2,London Spirit,G Redmayne,MM Lanning,A Gardner,0,0,,,,,,bowled,G Redmayne
+ball,2,4.3,London Spirit,CL Griffith,MM Lanning,A Gardner,0,0,,,,,,stumped,CL Griffith
+ball,2,4.4,London Spirit,HC Knight,MM Lanning,A Gardner,0,0,,,,,,"",""
+ball,2,4.5,London Spirit,HC Knight,MM Lanning,A Gardner,4,0,,,,,,"",""
+ball,2,5.1,London Spirit,HC Knight,MM Lanning,KL George,1,0,,,,,,"",""
+ball,2,5.2,London Spirit,MM Lanning,HC Knight,KL George,4,0,,,,,,"",""
+ball,2,5.3,London Spirit,MM Lanning,HC Knight,KL George,0,0,,,,,,"",""
+ball,2,5.4,London Spirit,MM Lanning,HC Knight,KL George,1,0,,,,,,"",""
+ball,2,5.5,London Spirit,HC Knight,MM Lanning,KL George,1,0,,,,,,"",""
+ball,2,6.1,London Spirit,HC Knight,MM Lanning,A King,0,1,1,,,,,"",""
+ball,2,6.2,London Spirit,HC Knight,MM Lanning,A King,1,0,,,,,,"",""
+ball,2,6.3,London Spirit,MM Lanning,HC Knight,A King,0,0,,,,,,"",""
+ball,2,6.4,London Spirit,MM Lanning,HC Knight,A King,0,0,,,,,,caught,MM Lanning
+ball,2,6.5,London Spirit,DR Gibson,HC Knight,A King,1,0,,,,,,"",""
+ball,2,6.6,London Spirit,HC Knight,DR Gibson,A King,1,0,,,,,,"",""
+ball,2,7.1,London Spirit,DR Gibson,HC Knight,A King,1,0,,,,,,"",""
+ball,2,7.2,London Spirit,HC Knight,DR Gibson,A King,1,0,,,,,,"",""
+ball,2,7.3,London Spirit,DR Gibson,HC Knight,A King,4,0,,,,,,"",""
+ball,2,7.4,London Spirit,DR Gibson,HC Knight,A King,0,0,,,,,,"",""
+ball,2,7.5,London Spirit,DR Gibson,HC Knight,A King,1,0,,,,,,"",""
+ball,2,8.1,London Spirit,DR Gibson,HC Knight,H Graham,1,0,,,,,,"",""
+ball,2,8.2,London Spirit,HC Knight,DR Gibson,H Graham,1,0,,,,,,"",""
+ball,2,8.3,London Spirit,DR Gibson,HC Knight,H Graham,1,0,,,,,,"",""
+ball,2,8.4,London Spirit,HC Knight,DR Gibson,H Graham,0,0,,,,,,"",""
+ball,2,8.5,London Spirit,HC Knight,DR Gibson,H Graham,2,0,,,,,,"",""
+ball,2,9.1,London Spirit,HC Knight,DR Gibson,KL Gordon,4,0,,,,,,"",""
+ball,2,9.2,London Spirit,HC Knight,DR Gibson,KL Gordon,0,0,,,,,,"",""
+ball,2,9.3,London Spirit,HC Knight,DR Gibson,KL Gordon,4,0,,,,,,"",""
+ball,2,9.4,London Spirit,HC Knight,DR Gibson,KL Gordon,0,2,2,,,,,"",""
+ball,2,9.5,London Spirit,DR Gibson,HC Knight,KL Gordon,4,0,,,,,,"",""
+ball,2,9.6,London Spirit,DR Gibson,HC Knight,KL Gordon,0,0,,,,,,"",""
+ball,2,10.1,London Spirit,HC Knight,DR Gibson,A Gardner,1,0,,,,,,"",""
+ball,2,10.2,London Spirit,DR Gibson,HC Knight,A Gardner,0,0,,,,,,lbw,DR Gibson
+ball,2,10.3,London Spirit,DB Sharma,HC Knight,A Gardner,0,1,1,,,,,"",""
+ball,2,10.4,London Spirit,DB Sharma,HC Knight,A Gardner,0,1,,,,1,,"",""
+ball,2,10.5,London Spirit,HC Knight,DB Sharma,A Gardner,1,0,,,,,,"",""
+ball,2,10.6,London Spirit,DB Sharma,HC Knight,A Gardner,1,0,,,,,,"",""
+ball,2,11.1,London Spirit,HC Knight,DB Sharma,H Graham,1,0,,,,,,"",""
+ball,2,11.2,London Spirit,DB Sharma,HC Knight,H Graham,0,0,,,,,,"",""
+ball,2,11.3,London Spirit,DB Sharma,HC Knight,H Graham,1,0,,,,,,"",""
+ball,2,11.4,London Spirit,HC Knight,DB Sharma,H Graham,0,1,1,,,,,"",""
+ball,2,11.5,London Spirit,HC Knight,DB Sharma,H Graham,0,0,,,,,,"",""
+ball,2,11.6,London Spirit,HC Knight,DB Sharma,H Graham,2,0,,,,,,"",""
+ball,2,12.1,London Spirit,DB Sharma,HC Knight,A King,1,0,,,,,,"",""
+ball,2,12.2,London Spirit,HC Knight,DB Sharma,A King,4,0,,,,,,"",""
+ball,2,12.3,London Spirit,HC Knight,DB Sharma,A King,0,0,,,,,,caught,HC Knight
+ball,2,12.4,London Spirit,CE Dean,DB Sharma,A King,0,1,1,,,,,"",""
+ball,2,12.5,London Spirit,CE Dean,DB Sharma,A King,1,0,,,,,,"",""
+ball,2,12.6,London Spirit,DB Sharma,CE Dean,A King,1,0,,,,,,"",""
+ball,2,13.1,London Spirit,CE Dean,DB Sharma,KL Gordon,1,0,,,,,,"",""
+ball,2,13.2,London Spirit,DB Sharma,CE Dean,KL Gordon,2,0,,,,,,"",""
+ball,2,13.3,London Spirit,DB Sharma,CE Dean,KL Gordon,1,0,,,,,,"",""
+ball,2,13.4,London Spirit,CE Dean,DB Sharma,KL Gordon,1,0,,,,,,"",""
+ball,2,13.5,London Spirit,DB Sharma,CE Dean,KL Gordon,6,0,,,,,,"",""
+ball,2,14.1,London Spirit,CE Dean,DB Sharma,A Gardner,2,0,,,,,,"",""
+ball,2,14.2,London Spirit,CE Dean,DB Sharma,A Gardner,4,0,,,,,,"",""
+ball,2,14.3,London Spirit,CE Dean,DB Sharma,A Gardner,1,0,,,,,,"",""
+ball,2,14.4,London Spirit,DB Sharma,CE Dean,A Gardner,1,0,,,,,,"",""
+ball,2,14.5,London Spirit,CE Dean,DB Sharma,A Gardner,0,0,,,,,,"",""
+ball,2,15.1,London Spirit,CE Dean,DB Sharma,H Graham,0,0,,,,,,"",""
+ball,2,15.2,London Spirit,CE Dean,DB Sharma,H Graham,1,0,,,,,,"",""
+ball,2,15.3,London Spirit,DB Sharma,CE Dean,H Graham,1,0,,,,,,"",""
+ball,2,15.4,London Spirit,CE Dean,DB Sharma,H Graham,1,0,,,,,,"",""
+ball,2,15.5,London Spirit,DB Sharma,CE Dean,H Graham,1,0,,,,,,"",""
+ball,2,16.1,London Spirit,DB Sharma,CE Dean,A King,1,0,,,,,,"",""
+ball,2,16.2,London Spirit,CE Dean,DB Sharma,A King,1,0,,,,,,"",""
+ball,2,16.3,London Spirit,DB Sharma,CE Dean,A King,1,0,,,,,,"",""
+ball,2,16.4,London Spirit,CE Dean,DB Sharma,A King,0,0,,,,,,caught,CE Dean
+ball,2,16.5,London Spirit,E Gray,DB Sharma,A King,1,0,,,,,,"",""
+ball,2,17.1,London Spirit,DB Sharma,E Gray,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,17.2,London Spirit,E Gray,DB Sharma,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,17.3,London Spirit,E Gray,DB Sharma,NR Sciver-Brunt,2,0,,,,,,"",""
+ball,2,17.4,London Spirit,E Gray,DB Sharma,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,17.5,London Spirit,E Gray,DB Sharma,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,18.1,London Spirit,E Gray,DB Sharma,A Gardner,1,0,,,,,,"",""
+ball,2,18.2,London Spirit,DB Sharma,E Gray,A Gardner,2,0,,,,,,"",""
+ball,2,18.3,London Spirit,DB Sharma,E Gray,A Gardner,2,0,,,,,,"",""
+ball,2,18.4,London Spirit,DB Sharma,E Gray,A Gardner,1,0,,,,,,"",""
+ball,2,18.5,London Spirit,E Gray,DB Sharma,A Gardner,1,0,,,,,,"",""
+ball,2,19.1,London Spirit,DB Sharma,E Gray,H Graham,1,0,,,,,,"",""
+ball,2,19.2,London Spirit,E Gray,DB Sharma,H Graham,1,0,,,,,,"",""
+ball,2,19.3,London Spirit,DB Sharma,E Gray,H Graham,4,0,,,,,,"",""
+ball,2,19.4,London Spirit,DB Sharma,E Gray,H Graham,0,2,,2,,,,"",""
+ball,2,19.5,London Spirit,DB Sharma,E Gray,H Graham,0,0,,,,,,run out,E Gray
+ball,2,19.6,London Spirit,DB Sharma,S Glenn,H Graham,1,0,,,,,,"",""

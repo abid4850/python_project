@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kandy Falcons
+info,team,Colombo Stars
+info,gender,male
+info,season,2022/23
+info,date,2022/12/22
+info,event,Lanka Premier League
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Colombo Stars
+info,toss_decision,field
+info,player_of_match,CAK Rajitha
+info,umpire,RR Wimalasiri
+info,umpire,WR Knights
+info,reserve_umpire,RMPJ Rambukwella
+info,tv_umpire,LE Hannibal
+info,match_referee,WC Labrooy
+info,winner,Colombo Stars
+info,winner_wickets,6
+info,player,Kandy Falcons,P Nissanka
+info,player,Kandy Falcons,ADS Fletcher
+info,player,Kandy Falcons,PHKD Mendis
+info,player,Kandy Falcons,KNA Bandara
+info,player,Kandy Falcons,PWH de Silva
+info,player,Kandy Falcons,FA Allen
+info,player,Kandy Falcons,C Karunaratne
+info,player,Kandy Falcons,CR Brathwaite
+info,player,Kandy Falcons,O Thomas
+info,player,Kandy Falcons,I Udana
+info,player,Kandy Falcons,C Wijesinghe
+info,player,Colombo Stars,KNM Fernando
+info,player,Colombo Stars,LD Chandimal
+info,player,Colombo Stars,KIC Asalanka
+info,player,Colombo Stars,RS Bopara
+info,player,Colombo Stars,DC Drakes
+info,player,Colombo Stars,AD Mathews
+info,player,Colombo Stars,S Prasanna
+info,player,Colombo Stars,BAC Howell
+info,player,Colombo Stars,Mohammad Nabi
+info,player,Colombo Stars,CAK Rajitha
+info,player,Colombo Stars,RAS Lakmal
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,C Wijesinghe,0a2d45b0
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KNA Bandara,585dda5d
+info,registry,people,KNM Fernando,d2a2bb1a
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,O Thomas,c6097d68
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,WR Knights,63cbf8d8
+ball,1,0.1,Kandy Falcons,P Nissanka,ADS Fletcher,CAK Rajitha,0,1,1,,,,,"",""
+ball,1,0.2,Kandy Falcons,P Nissanka,ADS Fletcher,CAK Rajitha,2,0,,,,,,"",""
+ball,1,0.3,Kandy Falcons,P Nissanka,ADS Fletcher,CAK Rajitha,0,0,,,,,,"",""
+ball,1,0.4,Kandy Falcons,P Nissanka,ADS Fletcher,CAK Rajitha,0,0,,,,,,lbw,P Nissanka
+ball,1,0.5,Kandy Falcons,PHKD Mendis,ADS Fletcher,CAK Rajitha,1,0,,,,,,"",""
+ball,1,0.6,Kandy Falcons,ADS Fletcher,PHKD Mendis,CAK Rajitha,0,0,,,,,,lbw,ADS Fletcher
+ball,1,0.7,Kandy Falcons,KNA Bandara,PHKD Mendis,CAK Rajitha,1,0,,,,,,"",""
+ball,1,1.1,Kandy Falcons,KNA Bandara,PHKD Mendis,RAS Lakmal,0,0,,,,,,"",""
+ball,1,1.2,Kandy Falcons,KNA Bandara,PHKD Mendis,RAS Lakmal,0,0,,,,,,"",""
+ball,1,1.3,Kandy Falcons,KNA Bandara,PHKD Mendis,RAS Lakmal,0,0,,,,,,"",""
+ball,1,1.4,Kandy Falcons,KNA Bandara,PHKD Mendis,RAS Lakmal,4,0,,,,,,"",""
+ball,1,1.5,Kandy Falcons,KNA Bandara,PHKD Mendis,RAS Lakmal,1,0,,,,,,"",""
+ball,1,1.6,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,1,0,,,,,,"",""
+ball,1,2.1,Kandy Falcons,PHKD Mendis,KNA Bandara,CAK Rajitha,0,0,,,,,,"",""
+ball,1,2.2,Kandy Falcons,PHKD Mendis,KNA Bandara,CAK Rajitha,0,0,,,,,,"",""
+ball,1,2.3,Kandy Falcons,PHKD Mendis,KNA Bandara,CAK Rajitha,0,1,,,,1,,"",""
+ball,1,2.4,Kandy Falcons,KNA Bandara,PHKD Mendis,CAK Rajitha,1,0,,,,,,"",""
+ball,1,2.5,Kandy Falcons,PHKD Mendis,KNA Bandara,CAK Rajitha,0,0,,,,,,"",""
+ball,1,2.6,Kandy Falcons,PHKD Mendis,KNA Bandara,CAK Rajitha,1,0,,,,,,"",""
+ball,1,3.1,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,0,0,,,,,,"",""
+ball,1,3.2,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,4,0,,,,,,"",""
+ball,1,3.3,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,0,0,,,,,,"",""
+ball,1,3.4,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,0,0,,,,,,"",""
+ball,1,3.5,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,1,0,,,,,,"",""
+ball,1,3.6,Kandy Falcons,KNA Bandara,PHKD Mendis,RAS Lakmal,0,0,,,,,,"",""
+ball,1,4.1,Kandy Falcons,PHKD Mendis,KNA Bandara,CAK Rajitha,6,0,,,,,,"",""
+ball,1,4.2,Kandy Falcons,PHKD Mendis,KNA Bandara,CAK Rajitha,0,0,,,,,,"",""
+ball,1,4.3,Kandy Falcons,PHKD Mendis,KNA Bandara,CAK Rajitha,1,0,,,,,,"",""
+ball,1,4.4,Kandy Falcons,KNA Bandara,PHKD Mendis,CAK Rajitha,0,0,,,,,,"",""
+ball,1,4.5,Kandy Falcons,KNA Bandara,PHKD Mendis,CAK Rajitha,0,0,,,,,,"",""
+ball,1,4.6,Kandy Falcons,KNA Bandara,PHKD Mendis,CAK Rajitha,1,0,,,,,,"",""
+ball,1,5.1,Kandy Falcons,KNA Bandara,PHKD Mendis,RAS Lakmal,0,1,,,,1,,"",""
+ball,1,5.2,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,0,0,,,,,,"",""
+ball,1,5.3,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,0,0,,,,,,"",""
+ball,1,5.4,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,0,0,,,,,,"",""
+ball,1,5.5,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,0,0,,,,,,"",""
+ball,1,5.6,Kandy Falcons,PHKD Mendis,KNA Bandara,RAS Lakmal,1,0,,,,,,"",""
+ball,1,6.1,Kandy Falcons,PHKD Mendis,KNA Bandara,DC Drakes,2,0,,,,,,"",""
+ball,1,6.2,Kandy Falcons,PHKD Mendis,KNA Bandara,DC Drakes,0,0,,,,,,"",""
+ball,1,6.3,Kandy Falcons,PHKD Mendis,KNA Bandara,DC Drakes,0,0,,,,,,"",""
+ball,1,6.4,Kandy Falcons,PHKD Mendis,KNA Bandara,DC Drakes,1,0,,,,,,"",""
+ball,1,6.5,Kandy Falcons,KNA Bandara,PHKD Mendis,DC Drakes,2,0,,,,,,"",""
+ball,1,6.6,Kandy Falcons,KNA Bandara,PHKD Mendis,DC Drakes,1,0,,,,,,"",""
+ball,1,7.1,Kandy Falcons,KNA Bandara,PHKD Mendis,Mohammad Nabi,3,0,,,,,,"",""
+ball,1,7.2,Kandy Falcons,PHKD Mendis,KNA Bandara,Mohammad Nabi,2,0,,,,,,"",""
+ball,1,7.3,Kandy Falcons,PHKD Mendis,KNA Bandara,Mohammad Nabi,0,0,,,,,,"",""
+ball,1,7.4,Kandy Falcons,PHKD Mendis,KNA Bandara,Mohammad Nabi,2,0,,,,,,"",""
+ball,1,7.5,Kandy Falcons,PHKD Mendis,KNA Bandara,Mohammad Nabi,0,0,,,,,,"",""
+ball,1,7.6,Kandy Falcons,PHKD Mendis,KNA Bandara,Mohammad Nabi,0,0,,,,,,bowled,PHKD Mendis
+ball,1,8.1,Kandy Falcons,KNA Bandara,PWH de Silva,S Prasanna,1,0,,,,,,"",""
+ball,1,8.2,Kandy Falcons,PWH de Silva,KNA Bandara,S Prasanna,1,0,,,,,,"",""
+ball,1,8.3,Kandy Falcons,KNA Bandara,PWH de Silva,S Prasanna,1,0,,,,,,"",""
+ball,1,8.4,Kandy Falcons,PWH de Silva,KNA Bandara,S Prasanna,4,0,,,,,,"",""
+ball,1,8.5,Kandy Falcons,PWH de Silva,KNA Bandara,S Prasanna,4,0,,,,,,"",""
+ball,1,8.6,Kandy Falcons,PWH de Silva,KNA Bandara,S Prasanna,2,0,,,,,,"",""
+ball,1,9.1,Kandy Falcons,KNA Bandara,PWH de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,9.2,Kandy Falcons,PWH de Silva,KNA Bandara,Mohammad Nabi,4,0,,,,,,"",""
+ball,1,9.3,Kandy Falcons,PWH de Silva,KNA Bandara,Mohammad Nabi,4,0,,,,,,"",""
+ball,1,9.4,Kandy Falcons,PWH de Silva,KNA Bandara,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,9.5,Kandy Falcons,KNA Bandara,PWH de Silva,Mohammad Nabi,0,0,,,,,,"",""
+ball,1,9.6,Kandy Falcons,KNA Bandara,PWH de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,10.1,Kandy Falcons,KNA Bandara,PWH de Silva,DC Drakes,0,0,,,,,,"",""
+ball,1,10.2,Kandy Falcons,KNA Bandara,PWH de Silva,DC Drakes,0,0,,,,,,"",""
+ball,1,10.3,Kandy Falcons,KNA Bandara,PWH de Silva,DC Drakes,1,0,,,,,,"",""
+ball,1,10.4,Kandy Falcons,PWH de Silva,KNA Bandara,DC Drakes,0,0,,,,,,"",""
+ball,1,10.5,Kandy Falcons,PWH de Silva,KNA Bandara,DC Drakes,0,0,,,,,,"",""
+ball,1,10.6,Kandy Falcons,PWH de Silva,KNA Bandara,DC Drakes,6,0,,,,,,"",""
+ball,1,11.1,Kandy Falcons,KNA Bandara,PWH de Silva,Mohammad Nabi,2,0,,,,,,"",""
+ball,1,11.2,Kandy Falcons,KNA Bandara,PWH de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.3,Kandy Falcons,PWH de Silva,KNA Bandara,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.4,Kandy Falcons,KNA Bandara,PWH de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.5,Kandy Falcons,PWH de Silva,KNA Bandara,Mohammad Nabi,2,0,,,,,,"",""
+ball,1,11.6,Kandy Falcons,PWH de Silva,KNA Bandara,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,12.1,Kandy Falcons,PWH de Silva,KNA Bandara,BAC Howell,1,0,,,,,,"",""
+ball,1,12.2,Kandy Falcons,KNA Bandara,PWH de Silva,BAC Howell,0,0,,,,,,"",""
+ball,1,12.3,Kandy Falcons,KNA Bandara,PWH de Silva,BAC Howell,1,0,,,,,,"",""
+ball,1,12.4,Kandy Falcons,PWH de Silva,KNA Bandara,BAC Howell,4,0,,,,,,"",""
+ball,1,12.5,Kandy Falcons,PWH de Silva,KNA Bandara,BAC Howell,4,0,,,,,,"",""
+ball,1,12.6,Kandy Falcons,PWH de Silva,KNA Bandara,BAC Howell,0,0,,,,,,"",""
+ball,1,13.1,Kandy Falcons,KNA Bandara,PWH de Silva,Mohammad Nabi,0,0,,,,,,"",""
+ball,1,13.2,Kandy Falcons,KNA Bandara,PWH de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,13.3,Kandy Falcons,PWH de Silva,KNA Bandara,Mohammad Nabi,2,0,,,,,,"",""
+ball,1,13.4,Kandy Falcons,PWH de Silva,KNA Bandara,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,13.5,Kandy Falcons,KNA Bandara,PWH de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,13.6,Kandy Falcons,PWH de Silva,KNA Bandara,Mohammad Nabi,2,0,,,,,,"",""
+ball,1,14.1,Kandy Falcons,KNA Bandara,PWH de Silva,RAS Lakmal,1,0,,,,,,"",""
+ball,1,14.2,Kandy Falcons,PWH de Silva,KNA Bandara,RAS Lakmal,2,0,,,,,,"",""
+ball,1,14.3,Kandy Falcons,PWH de Silva,KNA Bandara,RAS Lakmal,4,0,,,,,,"",""
+ball,1,14.4,Kandy Falcons,PWH de Silva,KNA Bandara,RAS Lakmal,0,0,,,,,,"",""
+ball,1,14.5,Kandy Falcons,PWH de Silva,KNA Bandara,RAS Lakmal,6,0,,,,,,"",""
+ball,1,14.6,Kandy Falcons,PWH de Silva,KNA Bandara,RAS Lakmal,2,0,,,,,,"",""
+ball,1,15.1,Kandy Falcons,KNA Bandara,PWH de Silva,BAC Howell,2,0,,,,,,"",""
+ball,1,15.2,Kandy Falcons,KNA Bandara,PWH de Silva,BAC Howell,1,0,,,,,,"",""
+ball,1,15.3,Kandy Falcons,PWH de Silva,KNA Bandara,BAC Howell,1,0,,,,,,"",""
+ball,1,15.4,Kandy Falcons,KNA Bandara,PWH de Silva,BAC Howell,4,0,,,,,,"",""
+ball,1,15.5,Kandy Falcons,KNA Bandara,PWH de Silva,BAC Howell,2,0,,,,,,"",""
+ball,1,15.6,Kandy Falcons,KNA Bandara,PWH de Silva,BAC Howell,1,0,,,,,,"",""
+ball,1,16.1,Kandy Falcons,KNA Bandara,PWH de Silva,DC Drakes,2,0,,,,,,"",""
+ball,1,16.2,Kandy Falcons,KNA Bandara,PWH de Silva,DC Drakes,1,0,,,,,,"",""
+ball,1,16.3,Kandy Falcons,PWH de Silva,KNA Bandara,DC Drakes,4,0,,,,,,"",""
+ball,1,16.4,Kandy Falcons,PWH de Silva,KNA Bandara,DC Drakes,1,0,,,,,,"",""
+ball,1,16.5,Kandy Falcons,KNA Bandara,PWH de Silva,DC Drakes,0,0,,,,,,"",""
+ball,1,16.6,Kandy Falcons,KNA Bandara,PWH de Silva,DC Drakes,0,1,1,,,,,"",""
+ball,1,16.7,Kandy Falcons,KNA Bandara,PWH de Silva,DC Drakes,0,1,,,,1,,"",""
+ball,1,17.1,Kandy Falcons,KNA Bandara,PWH de Silva,CAK Rajitha,0,0,,,,,,caught,KNA Bandara
+ball,1,17.2,Kandy Falcons,FA Allen,PWH de Silva,CAK Rajitha,0,0,,,,,,bowled,FA Allen
+ball,1,17.3,Kandy Falcons,C Karunaratne,PWH de Silva,CAK Rajitha,2,0,,,,,,"",""
+ball,1,17.4,Kandy Falcons,C Karunaratne,PWH de Silva,CAK Rajitha,1,0,,,,,,"",""
+ball,1,17.5,Kandy Falcons,PWH de Silva,C Karunaratne,CAK Rajitha,1,0,,,,,,"",""
+ball,1,17.6,Kandy Falcons,C Karunaratne,PWH de Silva,CAK Rajitha,1,0,,,,,,"",""
+ball,1,18.1,Kandy Falcons,C Karunaratne,PWH de Silva,DC Drakes,2,0,,,,,,"",""
+ball,1,18.2,Kandy Falcons,C Karunaratne,PWH de Silva,DC Drakes,0,0,,,,,,caught,C Karunaratne
+ball,1,18.3,Kandy Falcons,CR Brathwaite,PWH de Silva,DC Drakes,1,0,,,,,,"",""
+ball,1,18.4,Kandy Falcons,PWH de Silva,CR Brathwaite,DC Drakes,1,0,,,,,,"",""
+ball,1,18.5,Kandy Falcons,CR Brathwaite,PWH de Silva,DC Drakes,4,0,,,,,,"",""
+ball,1,18.6,Kandy Falcons,CR Brathwaite,PWH de Silva,DC Drakes,2,0,,,,,,"",""
+ball,1,19.1,Kandy Falcons,PWH de Silva,CR Brathwaite,BAC Howell,2,0,,,,,,"",""
+ball,1,19.2,Kandy Falcons,PWH de Silva,CR Brathwaite,BAC Howell,6,0,,,,,,"",""
+ball,1,19.3,Kandy Falcons,PWH de Silva,CR Brathwaite,BAC Howell,2,0,,,,,,"",""
+ball,1,19.4,Kandy Falcons,PWH de Silva,CR Brathwaite,BAC Howell,1,0,,,,,,"",""
+ball,1,19.5,Kandy Falcons,CR Brathwaite,PWH de Silva,BAC Howell,6,0,,,,,,"",""
+ball,1,19.6,Kandy Falcons,CR Brathwaite,PWH de Silva,BAC Howell,2,0,,,,,,"",""
+ball,2,0.1,Colombo Stars,KNM Fernando,LD Chandimal,I Udana,0,1,,,,1,,"",""
+ball,2,0.2,Colombo Stars,LD Chandimal,KNM Fernando,I Udana,0,0,,,,,,"",""
+ball,2,0.3,Colombo Stars,LD Chandimal,KNM Fernando,I Udana,0,0,,,,,,"",""
+ball,2,0.4,Colombo Stars,LD Chandimal,KNM Fernando,I Udana,1,0,,,,,,"",""
+ball,2,0.5,Colombo Stars,KNM Fernando,LD Chandimal,I Udana,1,0,,,,,,"",""
+ball,2,0.6,Colombo Stars,LD Chandimal,KNM Fernando,I Udana,0,0,,,,,,"",""
+ball,2,1.1,Colombo Stars,KNM Fernando,LD Chandimal,CR Brathwaite,2,0,,,,,,"",""
+ball,2,1.2,Colombo Stars,KNM Fernando,LD Chandimal,CR Brathwaite,4,0,,,,,,"",""
+ball,2,1.3,Colombo Stars,KNM Fernando,LD Chandimal,CR Brathwaite,2,0,,,,,,"",""
+ball,2,1.4,Colombo Stars,KNM Fernando,LD Chandimal,CR Brathwaite,2,0,,,,,,"",""
+ball,2,1.5,Colombo Stars,KNM Fernando,LD Chandimal,CR Brathwaite,0,0,,,,,,"",""
+ball,2,1.6,Colombo Stars,KNM Fernando,LD Chandimal,CR Brathwaite,0,0,,,,,,caught,KNM Fernando
+ball,2,2.1,Colombo Stars,LD Chandimal,KIC Asalanka,I Udana,0,0,,,,,,"",""
+ball,2,2.2,Colombo Stars,LD Chandimal,KIC Asalanka,I Udana,4,0,,,,,,"",""
+ball,2,2.3,Colombo Stars,LD Chandimal,KIC Asalanka,I Udana,0,0,,,,,,"",""
+ball,2,2.4,Colombo Stars,LD Chandimal,KIC Asalanka,I Udana,4,0,,,,,,"",""
+ball,2,2.5,Colombo Stars,LD Chandimal,KIC Asalanka,I Udana,1,0,,,,,,"",""
+ball,2,2.6,Colombo Stars,KIC Asalanka,LD Chandimal,I Udana,0,0,,,,,,"",""
+ball,2,3.1,Colombo Stars,LD Chandimal,KIC Asalanka,CR Brathwaite,1,0,,,,,,"",""
+ball,2,3.2,Colombo Stars,KIC Asalanka,LD Chandimal,CR Brathwaite,0,0,,,,,,"",""
+ball,2,3.3,Colombo Stars,KIC Asalanka,LD Chandimal,CR Brathwaite,4,0,,,,,,"",""
+ball,2,3.4,Colombo Stars,KIC Asalanka,LD Chandimal,CR Brathwaite,1,0,,,,,,"",""
+ball,2,3.5,Colombo Stars,LD Chandimal,KIC Asalanka,CR Brathwaite,0,0,,,,,,"",""
+ball,2,3.6,Colombo Stars,LD Chandimal,KIC Asalanka,CR Brathwaite,0,0,,,,,,"",""
+ball,2,4.1,Colombo Stars,KIC Asalanka,LD Chandimal,C Karunaratne,0,0,,,,,,"",""
+ball,2,4.2,Colombo Stars,KIC Asalanka,LD Chandimal,C Karunaratne,0,0,,,,,,"",""
+ball,2,4.3,Colombo Stars,KIC Asalanka,LD Chandimal,C Karunaratne,0,0,,,,,,"",""
+ball,2,4.4,Colombo Stars,KIC Asalanka,LD Chandimal,C Karunaratne,4,0,,,,,,"",""
+ball,2,4.5,Colombo Stars,KIC Asalanka,LD Chandimal,C Karunaratne,0,0,,,,,,"",""
+ball,2,4.6,Colombo Stars,KIC Asalanka,LD Chandimal,C Karunaratne,0,0,,,,,,"",""
+ball,2,5.1,Colombo Stars,LD Chandimal,KIC Asalanka,CR Brathwaite,0,0,,,,,,"",""
+ball,2,5.2,Colombo Stars,LD Chandimal,KIC Asalanka,CR Brathwaite,2,0,,,,,,"",""
+ball,2,5.3,Colombo Stars,LD Chandimal,KIC Asalanka,CR Brathwaite,1,0,,,,,,"",""
+ball,2,5.4,Colombo Stars,KIC Asalanka,LD Chandimal,CR Brathwaite,4,0,,,,,,"",""
+ball,2,5.5,Colombo Stars,KIC Asalanka,LD Chandimal,CR Brathwaite,6,0,,,,,,"",""
+ball,2,5.6,Colombo Stars,KIC Asalanka,LD Chandimal,CR Brathwaite,2,0,,,,,,"",""
+ball,2,6.1,Colombo Stars,LD Chandimal,KIC Asalanka,PWH de Silva,1,0,,,,,,"",""
+ball,2,6.2,Colombo Stars,KIC Asalanka,LD Chandimal,PWH de Silva,1,0,,,,,,"",""
+ball,2,6.3,Colombo Stars,LD Chandimal,KIC Asalanka,PWH de Silva,1,0,,,,,,"",""
+ball,2,6.4,Colombo Stars,KIC Asalanka,LD Chandimal,PWH de Silva,6,0,,,,,,"",""
+ball,2,6.5,Colombo Stars,KIC Asalanka,LD Chandimal,PWH de Silva,0,0,,,,,,"",""
+ball,2,6.6,Colombo Stars,KIC Asalanka,LD Chandimal,PWH de Silva,2,0,,,,,,"",""
+ball,2,7.1,Colombo Stars,LD Chandimal,KIC Asalanka,O Thomas,0,1,1,,,,,"",""
+ball,2,7.2,Colombo Stars,LD Chandimal,KIC Asalanka,O Thomas,1,0,,,,,,"",""
+ball,2,7.3,Colombo Stars,KIC Asalanka,LD Chandimal,O Thomas,1,0,,,,,,"",""
+ball,2,7.4,Colombo Stars,LD Chandimal,KIC Asalanka,O Thomas,4,0,,,,,,"",""
+ball,2,7.5,Colombo Stars,LD Chandimal,KIC Asalanka,O Thomas,6,0,,,,,,"",""
+ball,2,7.6,Colombo Stars,LD Chandimal,KIC Asalanka,O Thomas,1,0,,,,,,"",""
+ball,2,7.7,Colombo Stars,KIC Asalanka,LD Chandimal,O Thomas,0,1,,1,,,,"",""
+ball,2,7.8,Colombo Stars,KIC Asalanka,LD Chandimal,O Thomas,4,0,,,,,,"",""
+ball,2,8.1,Colombo Stars,LD Chandimal,KIC Asalanka,PWH de Silva,1,0,,,,,,"",""
+ball,2,8.2,Colombo Stars,KIC Asalanka,LD Chandimal,PWH de Silva,1,0,,,,,,"",""
+ball,2,8.3,Colombo Stars,LD Chandimal,KIC Asalanka,PWH de Silva,0,0,,,,,,"",""
+ball,2,8.4,Colombo Stars,LD Chandimal,KIC Asalanka,PWH de Silva,1,0,,,,,,"",""
+ball,2,8.5,Colombo Stars,KIC Asalanka,LD Chandimal,PWH de Silva,0,0,,,,,,"",""
+ball,2,8.6,Colombo Stars,KIC Asalanka,LD Chandimal,PWH de Silva,0,0,,,,,,"",""
+ball,2,9.1,Colombo Stars,LD Chandimal,KIC Asalanka,FA Allen,2,0,,,,,,"",""
+ball,2,9.2,Colombo Stars,LD Chandimal,KIC Asalanka,FA Allen,0,0,,,,,,"",""
+ball,2,9.3,Colombo Stars,LD Chandimal,KIC Asalanka,FA Allen,1,0,,,,,,"",""
+ball,2,9.4,Colombo Stars,KIC Asalanka,LD Chandimal,FA Allen,1,0,,,,,,"",""
+ball,2,9.5,Colombo Stars,LD Chandimal,KIC Asalanka,FA Allen,1,0,,,,,,"",""
+ball,2,9.6,Colombo Stars,KIC Asalanka,LD Chandimal,FA Allen,1,0,,,,,,"",""
+ball,2,10.1,Colombo Stars,KIC Asalanka,LD Chandimal,PHKD Mendis,0,0,,,,,,"",""
+ball,2,10.2,Colombo Stars,KIC Asalanka,LD Chandimal,PHKD Mendis,1,0,,,,,,"",""
+ball,2,10.3,Colombo Stars,LD Chandimal,KIC Asalanka,PHKD Mendis,1,0,,,,,,"",""
+ball,2,10.4,Colombo Stars,KIC Asalanka,LD Chandimal,PHKD Mendis,4,0,,,,,,"",""
+ball,2,10.5,Colombo Stars,KIC Asalanka,LD Chandimal,PHKD Mendis,0,0,,,,,,"",""
+ball,2,10.6,Colombo Stars,KIC Asalanka,LD Chandimal,PHKD Mendis,1,0,,,,,,"",""
+ball,2,11.1,Colombo Stars,KIC Asalanka,LD Chandimal,FA Allen,0,0,,,,,,"",""
+ball,2,11.2,Colombo Stars,KIC Asalanka,LD Chandimal,FA Allen,1,0,,,,,,"",""
+ball,2,11.3,Colombo Stars,LD Chandimal,KIC Asalanka,FA Allen,1,0,,,,,,"",""
+ball,2,11.4,Colombo Stars,KIC Asalanka,LD Chandimal,FA Allen,4,0,,,,,,"",""
+ball,2,11.5,Colombo Stars,KIC Asalanka,LD Chandimal,FA Allen,1,0,,,,,,"",""
+ball,2,11.6,Colombo Stars,LD Chandimal,KIC Asalanka,FA Allen,1,0,,,,,,"",""
+ball,2,12.1,Colombo Stars,LD Chandimal,KIC Asalanka,PHKD Mendis,1,0,,,,,,"",""
+ball,2,12.2,Colombo Stars,KIC Asalanka,LD Chandimal,PHKD Mendis,1,0,,,,,,"",""
+ball,2,12.3,Colombo Stars,LD Chandimal,KIC Asalanka,PHKD Mendis,0,0,,,,,,bowled,LD Chandimal
+ball,2,12.4,Colombo Stars,RS Bopara,KIC Asalanka,PHKD Mendis,1,0,,,,,,"",""
+ball,2,12.5,Colombo Stars,KIC Asalanka,RS Bopara,PHKD Mendis,1,0,,,,,,"",""
+ball,2,12.6,Colombo Stars,RS Bopara,KIC Asalanka,PHKD Mendis,2,0,,,,,,"",""
+ball,2,13.1,Colombo Stars,KIC Asalanka,RS Bopara,FA Allen,6,0,,,,,,"",""
+ball,2,13.2,Colombo Stars,KIC Asalanka,RS Bopara,FA Allen,1,0,,,,,,"",""
+ball,2,13.3,Colombo Stars,RS Bopara,KIC Asalanka,FA Allen,1,0,,,,,,"",""
+ball,2,13.4,Colombo Stars,KIC Asalanka,RS Bopara,FA Allen,4,0,,,,,,"",""
+ball,2,13.5,Colombo Stars,KIC Asalanka,RS Bopara,FA Allen,1,0,,,,,,run out,KIC Asalanka
+ball,2,13.6,Colombo Stars,DC Drakes,RS Bopara,FA Allen,1,0,,,,,,"",""
+ball,2,14.1,Colombo Stars,DC Drakes,RS Bopara,PHKD Mendis,1,0,,,,,,"",""
+ball,2,14.2,Colombo Stars,RS Bopara,DC Drakes,PHKD Mendis,1,0,,,,,,"",""
+ball,2,14.3,Colombo Stars,DC Drakes,RS Bopara,PHKD Mendis,0,1,1,,,,,"",""
+ball,2,14.4,Colombo Stars,DC Drakes,RS Bopara,PHKD Mendis,0,0,,,,,,"",""
+ball,2,14.5,Colombo Stars,DC Drakes,RS Bopara,PHKD Mendis,0,0,,,,,,caught,DC Drakes
+ball,2,14.6,Colombo Stars,AD Mathews,RS Bopara,PHKD Mendis,0,0,,,,,,"",""
+ball,2,14.7,Colombo Stars,AD Mathews,RS Bopara,PHKD Mendis,1,0,,,,,,"",""
+ball,2,15.1,Colombo Stars,AD Mathews,RS Bopara,PWH de Silva,1,0,,,,,,"",""
+ball,2,15.2,Colombo Stars,RS Bopara,AD Mathews,PWH de Silva,1,0,,,,,,"",""
+ball,2,15.3,Colombo Stars,AD Mathews,RS Bopara,PWH de Silva,1,0,,,,,,"",""
+ball,2,15.4,Colombo Stars,RS Bopara,AD Mathews,PWH de Silva,1,0,,,,,,"",""
+ball,2,15.5,Colombo Stars,AD Mathews,RS Bopara,PWH de Silva,1,0,,,,,,"",""
+ball,2,15.6,Colombo Stars,RS Bopara,AD Mathews,PWH de Silva,0,0,,,,,,"",""
+ball,2,16.1,Colombo Stars,AD Mathews,RS Bopara,PHKD Mendis,1,0,,,,,,"",""
+ball,2,16.2,Colombo Stars,RS Bopara,AD Mathews,PHKD Mendis,1,0,,,,,,"",""
+ball,2,16.3,Colombo Stars,AD Mathews,RS Bopara,PHKD Mendis,1,0,,,,,,"",""
+ball,2,16.4,Colombo Stars,RS Bopara,AD Mathews,PHKD Mendis,4,0,,,,,,"",""
+ball,2,16.5,Colombo Stars,RS Bopara,AD Mathews,PHKD Mendis,1,0,,,,,,"",""
+ball,2,16.6,Colombo Stars,AD Mathews,RS Bopara,PHKD Mendis,1,0,,,,,,"",""
+ball,2,17.1,Colombo Stars,AD Mathews,RS Bopara,PWH de Silva,0,0,,,,,,"",""
+ball,2,17.2,Colombo Stars,AD Mathews,RS Bopara,PWH de Silva,1,0,,,,,,"",""
+ball,2,17.3,Colombo Stars,RS Bopara,AD Mathews,PWH de Silva,6,0,,,,,,"",""
+ball,2,17.4,Colombo Stars,RS Bopara,AD Mathews,PWH de Silva,1,0,,,,,,"",""
+ball,2,17.5,Colombo Stars,AD Mathews,RS Bopara,PWH de Silva,6,0,,,,,,"",""
+ball,2,17.6,Colombo Stars,AD Mathews,RS Bopara,PWH de Silva,6,0,,,,,,"",""
+ball,2,18.1,Colombo Stars,RS Bopara,AD Mathews,FA Allen,4,0,,,,,,"",""
+ball,2,18.2,Colombo Stars,RS Bopara,AD Mathews,FA Allen,0,0,,,,,,"",""
+ball,2,18.3,Colombo Stars,RS Bopara,AD Mathews,FA Allen,1,0,,,,,,"",""
+ball,2,18.4,Colombo Stars,AD Mathews,RS Bopara,FA Allen,1,0,,,,,,"",""
+ball,2,18.5,Colombo Stars,RS Bopara,AD Mathews,FA Allen,4,0,,,,,,"",""

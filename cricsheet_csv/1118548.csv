@@ -1,0 +1,300 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Wellington
+info,gender,male
+info,season,2017/18
+info,date,2017/12/28
+info,event,Super Smash
+info,match_number,15
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,Canterbury
+info,toss_decision,bat
+info,umpire,A Mehrotra
+info,umpire,JM Dempsey
+info,match_referee,K Pulley
+info,winner,Wellington
+info,winner_wickets,5
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,MA Pollard
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,TG Johnston
+info,player,Canterbury,AM Ellis
+info,player,Canterbury,TD Astle
+info,player,Canterbury,WSA Williams
+info,player,Canterbury,EJ Nuttall
+info,player,Wellington,L Ronchi
+info,player,Wellington,HJH Marshall
+info,player,Wellington,TA Blundell
+info,player,Wellington,SR Patel
+info,player,Wellington,MG Bracewell
+info,player,Wellington,DP Conway
+info,player,Wellington,LJ Woodcock
+info,player,Wellington,JS Patel
+info,player,Wellington,OR Newton
+info,player,Wellington,A Verma
+info,player,Wellington,IG McPeake
+info,registry,people,A Mehrotra,f336ff13
+info,registry,people,A Verma,8e9a5d20
+info,registry,people,AM Ellis,f987245c
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DP Conway,df5a6881
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,HJH Marshall,70542bef
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JS Patel,f5821615
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,L Ronchi,0fa5042b
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,LJ Woodcock,9ba59a3c
+info,registry,people,MA Pollard,d3b84c59
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,OR Newton,4e520f6c
+info,registry,people,SR Patel,18fac429
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TD Astle,383dd431
+info,registry,people,TG Johnston,a1a5192e
+info,registry,people,WSA Williams,861eed37
+ball,1,0.1,Canterbury,HM Nicholls,MA Pollard,SR Patel,1,0,,,,,,"",""
+ball,1,0.2,Canterbury,MA Pollard,HM Nicholls,SR Patel,0,0,,,,,,"",""
+ball,1,0.3,Canterbury,MA Pollard,HM Nicholls,SR Patel,0,0,,,,,,"",""
+ball,1,0.4,Canterbury,MA Pollard,HM Nicholls,SR Patel,3,0,,,,,,"",""
+ball,1,0.5,Canterbury,HM Nicholls,MA Pollard,SR Patel,0,0,,,,,,"",""
+ball,1,0.6,Canterbury,HM Nicholls,MA Pollard,SR Patel,4,0,,,,,,"",""
+ball,1,1.1,Canterbury,MA Pollard,HM Nicholls,IG McPeake,1,0,,,,,,"",""
+ball,1,1.2,Canterbury,HM Nicholls,MA Pollard,IG McPeake,1,0,,,,,,"",""
+ball,1,1.3,Canterbury,MA Pollard,HM Nicholls,IG McPeake,0,0,,,,,,caught,MA Pollard
+ball,1,1.4,Canterbury,CJ Bowes,HM Nicholls,IG McPeake,0,0,,,,,,"",""
+ball,1,1.5,Canterbury,CJ Bowes,HM Nicholls,IG McPeake,0,0,,,,,,"",""
+ball,1,1.6,Canterbury,CJ Bowes,HM Nicholls,IG McPeake,0,1,1,,,,,"",""
+ball,1,1.7,Canterbury,CJ Bowes,HM Nicholls,IG McPeake,0,0,,,,,,"",""
+ball,1,2.1,Canterbury,HM Nicholls,CJ Bowes,OR Newton,0,0,,,,,,"",""
+ball,1,2.2,Canterbury,HM Nicholls,CJ Bowes,OR Newton,1,0,,,,,,"",""
+ball,1,2.3,Canterbury,CJ Bowes,HM Nicholls,OR Newton,1,0,,,,,,"",""
+ball,1,2.4,Canterbury,HM Nicholls,CJ Bowes,OR Newton,0,0,,,,,,"",""
+ball,1,2.5,Canterbury,HM Nicholls,CJ Bowes,OR Newton,1,0,,,,,,"",""
+ball,1,2.6,Canterbury,CJ Bowes,HM Nicholls,OR Newton,0,0,,,,,,"",""
+ball,1,3.1,Canterbury,HM Nicholls,CJ Bowes,IG McPeake,4,0,,,,,,"",""
+ball,1,3.2,Canterbury,HM Nicholls,CJ Bowes,IG McPeake,0,0,,,,,,"",""
+ball,1,3.3,Canterbury,HM Nicholls,CJ Bowes,IG McPeake,4,0,,,,,,"",""
+ball,1,3.4,Canterbury,HM Nicholls,CJ Bowes,IG McPeake,2,0,,,,,,"",""
+ball,1,3.5,Canterbury,HM Nicholls,CJ Bowes,IG McPeake,6,0,,,,,,"",""
+ball,1,3.6,Canterbury,HM Nicholls,CJ Bowes,IG McPeake,1,0,,,,,,"",""
+ball,1,4.1,Canterbury,HM Nicholls,CJ Bowes,A Verma,0,4,,,,4,,"",""
+ball,1,4.2,Canterbury,HM Nicholls,CJ Bowes,A Verma,0,0,,,,,,"",""
+ball,1,4.3,Canterbury,HM Nicholls,CJ Bowes,A Verma,0,0,,,,,,caught,HM Nicholls
+ball,1,4.4,Canterbury,CJ Bowes,LJ Carter,A Verma,0,0,,,,,,"",""
+ball,1,4.5,Canterbury,CJ Bowes,LJ Carter,A Verma,4,0,,,,,,"",""
+ball,1,4.6,Canterbury,CJ Bowes,LJ Carter,A Verma,1,0,,,,,,"",""
+ball,1,5.1,Canterbury,CJ Bowes,LJ Carter,OR Newton,4,0,,,,,,"",""
+ball,1,5.2,Canterbury,CJ Bowes,LJ Carter,OR Newton,1,0,,,,,,"",""
+ball,1,5.3,Canterbury,LJ Carter,CJ Bowes,OR Newton,0,0,,,,,,"",""
+ball,1,5.4,Canterbury,LJ Carter,CJ Bowes,OR Newton,1,0,,,,,,"",""
+ball,1,5.5,Canterbury,CJ Bowes,LJ Carter,OR Newton,1,0,,,,,,"",""
+ball,1,5.6,Canterbury,LJ Carter,CJ Bowes,OR Newton,1,0,,,,,,"",""
+ball,1,6.1,Canterbury,LJ Carter,CJ Bowes,JS Patel,2,0,,,,,,"",""
+ball,1,6.2,Canterbury,LJ Carter,CJ Bowes,JS Patel,0,0,,,,,,"",""
+ball,1,6.3,Canterbury,LJ Carter,CJ Bowes,JS Patel,1,0,,,,,,"",""
+ball,1,6.4,Canterbury,CJ Bowes,LJ Carter,JS Patel,0,0,,,,,,"",""
+ball,1,6.5,Canterbury,CJ Bowes,LJ Carter,JS Patel,0,1,,,,1,,"",""
+ball,1,6.6,Canterbury,LJ Carter,CJ Bowes,JS Patel,0,0,,,,,,stumped,LJ Carter
+ball,1,7.1,Canterbury,CJ Bowes,CE McConchie,SR Patel,0,0,,,,,,"",""
+ball,1,7.2,Canterbury,CJ Bowes,CE McConchie,SR Patel,6,0,,,,,,"",""
+ball,1,7.3,Canterbury,CJ Bowes,CE McConchie,SR Patel,1,0,,,,,,"",""
+ball,1,7.4,Canterbury,CE McConchie,CJ Bowes,SR Patel,0,0,,,,,,"",""
+ball,1,7.5,Canterbury,CE McConchie,CJ Bowes,SR Patel,1,0,,,,,,"",""
+ball,1,7.6,Canterbury,CJ Bowes,CE McConchie,SR Patel,0,0,,,,,,bowled,CJ Bowes
+ball,1,8.1,Canterbury,CE McConchie,CD Fletcher,LJ Woodcock,0,0,,,,,,"",""
+ball,1,8.2,Canterbury,CE McConchie,CD Fletcher,LJ Woodcock,0,0,,,,,,"",""
+ball,1,8.3,Canterbury,CE McConchie,CD Fletcher,LJ Woodcock,1,0,,,,,,"",""
+ball,1,8.4,Canterbury,CD Fletcher,CE McConchie,LJ Woodcock,1,0,,,,,,"",""
+ball,1,8.5,Canterbury,CE McConchie,CD Fletcher,LJ Woodcock,1,0,,,,,,"",""
+ball,1,8.6,Canterbury,CD Fletcher,CE McConchie,LJ Woodcock,0,0,,,,,,caught and bowled,CD Fletcher
+ball,1,9.1,Canterbury,CE McConchie,TG Johnston,SR Patel,1,0,,,,,,"",""
+ball,1,9.2,Canterbury,TG Johnston,CE McConchie,SR Patel,0,0,,,,,,"",""
+ball,1,9.3,Canterbury,TG Johnston,CE McConchie,SR Patel,1,0,,,,,,"",""
+ball,1,9.4,Canterbury,CE McConchie,TG Johnston,SR Patel,0,0,,,,,,caught,CE McConchie
+ball,1,9.5,Canterbury,TG Johnston,AM Ellis,SR Patel,1,0,,,,,,"",""
+ball,1,9.6,Canterbury,AM Ellis,TG Johnston,SR Patel,1,0,,,,,,"",""
+ball,1,10.1,Canterbury,AM Ellis,TG Johnston,LJ Woodcock,1,0,,,,,,"",""
+ball,1,10.2,Canterbury,TG Johnston,AM Ellis,LJ Woodcock,1,0,,,,,,"",""
+ball,1,10.3,Canterbury,AM Ellis,TG Johnston,LJ Woodcock,1,0,,,,,,"",""
+ball,1,10.4,Canterbury,TG Johnston,AM Ellis,LJ Woodcock,0,0,,,,,,"",""
+ball,1,10.5,Canterbury,TG Johnston,AM Ellis,LJ Woodcock,2,0,,,,,,"",""
+ball,1,10.6,Canterbury,TG Johnston,AM Ellis,LJ Woodcock,0,0,,,,,,"",""
+ball,1,11.1,Canterbury,AM Ellis,TG Johnston,SR Patel,0,0,,,,,,"",""
+ball,1,11.2,Canterbury,AM Ellis,TG Johnston,SR Patel,1,0,,,,,,"",""
+ball,1,11.3,Canterbury,TG Johnston,AM Ellis,SR Patel,1,0,,,,,,"",""
+ball,1,11.4,Canterbury,AM Ellis,TG Johnston,SR Patel,0,0,,,,,,"",""
+ball,1,11.5,Canterbury,AM Ellis,TG Johnston,SR Patel,1,0,,,,,,"",""
+ball,1,11.6,Canterbury,TG Johnston,AM Ellis,SR Patel,1,0,,,,,,"",""
+ball,1,12.1,Canterbury,TG Johnston,AM Ellis,JS Patel,1,0,,,,,,"",""
+ball,1,12.2,Canterbury,AM Ellis,TG Johnston,JS Patel,1,0,,,,,,"",""
+ball,1,12.3,Canterbury,TG Johnston,AM Ellis,JS Patel,0,0,,,,,,caught and bowled,TG Johnston
+ball,1,12.4,Canterbury,TD Astle,AM Ellis,JS Patel,1,0,,,,,,"",""
+ball,1,12.5,Canterbury,AM Ellis,TD Astle,JS Patel,1,0,,,,,,"",""
+ball,1,12.6,Canterbury,TD Astle,AM Ellis,JS Patel,0,0,,,,,,"",""
+ball,1,13.1,Canterbury,AM Ellis,TD Astle,LJ Woodcock,0,0,,,,,,"",""
+ball,1,13.2,Canterbury,AM Ellis,TD Astle,LJ Woodcock,1,0,,,,,,"",""
+ball,1,13.3,Canterbury,TD Astle,AM Ellis,LJ Woodcock,2,0,,,,,,"",""
+ball,1,13.4,Canterbury,TD Astle,AM Ellis,LJ Woodcock,0,0,,,,,,"",""
+ball,1,13.5,Canterbury,TD Astle,AM Ellis,LJ Woodcock,1,0,,,,,,"",""
+ball,1,13.6,Canterbury,AM Ellis,TD Astle,LJ Woodcock,1,0,,,,,,"",""
+ball,1,14.1,Canterbury,AM Ellis,TD Astle,JS Patel,1,0,,,,,,"",""
+ball,1,14.2,Canterbury,TD Astle,AM Ellis,JS Patel,0,1,,,,1,,"",""
+ball,1,14.3,Canterbury,AM Ellis,TD Astle,JS Patel,0,0,,,,,,"",""
+ball,1,14.4,Canterbury,AM Ellis,TD Astle,JS Patel,0,0,,,,,,"",""
+ball,1,14.5,Canterbury,AM Ellis,TD Astle,JS Patel,1,0,,,,,,"",""
+ball,1,14.6,Canterbury,TD Astle,AM Ellis,JS Patel,1,0,,,,,,"",""
+ball,1,15.1,Canterbury,TD Astle,AM Ellis,LJ Woodcock,1,0,,,,,,"",""
+ball,1,15.2,Canterbury,AM Ellis,TD Astle,LJ Woodcock,4,0,,,,,,"",""
+ball,1,15.3,Canterbury,AM Ellis,TD Astle,LJ Woodcock,1,0,,,,,,"",""
+ball,1,15.4,Canterbury,TD Astle,AM Ellis,LJ Woodcock,1,0,,,,,,"",""
+ball,1,15.5,Canterbury,AM Ellis,TD Astle,LJ Woodcock,1,0,,,,,,"",""
+ball,1,15.6,Canterbury,TD Astle,AM Ellis,LJ Woodcock,2,0,,,,,,"",""
+ball,1,16.1,Canterbury,AM Ellis,TD Astle,JS Patel,0,4,,,4,,,"",""
+ball,1,16.2,Canterbury,AM Ellis,TD Astle,JS Patel,4,0,,,,,,"",""
+ball,1,16.3,Canterbury,AM Ellis,TD Astle,JS Patel,1,0,,,,,,"",""
+ball,1,16.4,Canterbury,TD Astle,AM Ellis,JS Patel,2,0,,,,,,"",""
+ball,1,16.5,Canterbury,TD Astle,AM Ellis,JS Patel,1,0,,,,,,"",""
+ball,1,16.6,Canterbury,AM Ellis,TD Astle,JS Patel,6,0,,,,,,"",""
+ball,1,17.1,Canterbury,TD Astle,AM Ellis,A Verma,1,0,,,,,,"",""
+ball,1,17.2,Canterbury,AM Ellis,TD Astle,A Verma,2,0,,,,,,"",""
+ball,1,17.3,Canterbury,AM Ellis,TD Astle,A Verma,1,0,,,,,,"",""
+ball,1,17.4,Canterbury,TD Astle,AM Ellis,A Verma,1,0,,,,,,"",""
+ball,1,17.5,Canterbury,AM Ellis,TD Astle,A Verma,0,1,1,,,,,"",""
+ball,1,17.6,Canterbury,AM Ellis,TD Astle,A Verma,1,0,,,,,,"",""
+ball,1,17.7,Canterbury,TD Astle,AM Ellis,A Verma,0,0,,,,,,"",""
+ball,1,18.1,Canterbury,AM Ellis,TD Astle,OR Newton,2,0,,,,,,"",""
+ball,1,18.2,Canterbury,AM Ellis,TD Astle,OR Newton,2,0,,,,,,"",""
+ball,1,18.3,Canterbury,AM Ellis,TD Astle,OR Newton,0,0,,,,,,caught,AM Ellis
+ball,1,18.4,Canterbury,TD Astle,WSA Williams,OR Newton,0,1,,,,1,,"",""
+ball,1,18.5,Canterbury,WSA Williams,TD Astle,OR Newton,2,0,,,,,,"",""
+ball,1,18.6,Canterbury,WSA Williams,TD Astle,OR Newton,1,0,,,,,,"",""
+ball,1,19.1,Canterbury,WSA Williams,TD Astle,A Verma,0,1,,,1,,,"",""
+ball,1,19.2,Canterbury,TD Astle,WSA Williams,A Verma,2,0,,,,,,"",""
+ball,1,19.3,Canterbury,TD Astle,WSA Williams,A Verma,0,0,,,,,,bowled,TD Astle
+ball,1,19.4,Canterbury,EJ Nuttall,WSA Williams,A Verma,1,0,,,,,,"",""
+ball,1,19.5,Canterbury,WSA Williams,EJ Nuttall,A Verma,0,1,,,,1,,"",""
+ball,1,19.6,Canterbury,EJ Nuttall,WSA Williams,A Verma,0,1,,,1,,,"",""
+ball,2,0.1,Wellington,L Ronchi,HJH Marshall,CE McConchie,0,0,,,,,,"",""
+ball,2,0.2,Wellington,L Ronchi,HJH Marshall,CE McConchie,0,0,,,,,,"",""
+ball,2,0.3,Wellington,L Ronchi,HJH Marshall,CE McConchie,1,0,,,,,,"",""
+ball,2,0.4,Wellington,HJH Marshall,L Ronchi,CE McConchie,4,0,,,,,,"",""
+ball,2,0.5,Wellington,HJH Marshall,L Ronchi,CE McConchie,2,0,,,,,,"",""
+ball,2,0.6,Wellington,HJH Marshall,L Ronchi,CE McConchie,0,1,1,,,,,"",""
+ball,2,0.7,Wellington,HJH Marshall,L Ronchi,CE McConchie,4,0,,,,,,"",""
+ball,2,1.1,Wellington,L Ronchi,HJH Marshall,EJ Nuttall,0,1,,,1,,,"",""
+ball,2,1.2,Wellington,HJH Marshall,L Ronchi,EJ Nuttall,4,0,,,,,,"",""
+ball,2,1.3,Wellington,HJH Marshall,L Ronchi,EJ Nuttall,0,0,,,,,,"",""
+ball,2,1.4,Wellington,HJH Marshall,L Ronchi,EJ Nuttall,0,0,,,,,,"",""
+ball,2,1.5,Wellington,HJH Marshall,L Ronchi,EJ Nuttall,1,0,,,,,,"",""
+ball,2,1.6,Wellington,L Ronchi,HJH Marshall,EJ Nuttall,2,0,,,,,,"",""
+ball,2,2.1,Wellington,HJH Marshall,L Ronchi,AM Ellis,1,0,,,,,,"",""
+ball,2,2.2,Wellington,L Ronchi,HJH Marshall,AM Ellis,1,0,,,,,,"",""
+ball,2,2.3,Wellington,HJH Marshall,L Ronchi,AM Ellis,1,0,,,,,,"",""
+ball,2,2.4,Wellington,L Ronchi,HJH Marshall,AM Ellis,6,0,,,,,,"",""
+ball,2,2.5,Wellington,L Ronchi,HJH Marshall,AM Ellis,4,0,,,,,,"",""
+ball,2,2.6,Wellington,L Ronchi,HJH Marshall,AM Ellis,1,0,,,,,,"",""
+ball,2,3.1,Wellington,L Ronchi,HJH Marshall,EJ Nuttall,0,0,,,,,,"",""
+ball,2,3.2,Wellington,L Ronchi,HJH Marshall,EJ Nuttall,0,0,,,,,,"",""
+ball,2,3.3,Wellington,L Ronchi,HJH Marshall,EJ Nuttall,6,0,,,,,,"",""
+ball,2,3.4,Wellington,L Ronchi,HJH Marshall,EJ Nuttall,4,0,,,,,,"",""
+ball,2,3.5,Wellington,L Ronchi,HJH Marshall,EJ Nuttall,0,0,,,,,,"",""
+ball,2,3.6,Wellington,L Ronchi,HJH Marshall,EJ Nuttall,0,0,,,,,,"",""
+ball,2,4.1,Wellington,HJH Marshall,L Ronchi,TG Johnston,1,0,,,,,,"",""
+ball,2,4.2,Wellington,L Ronchi,HJH Marshall,TG Johnston,0,0,,,,,,"",""
+ball,2,4.3,Wellington,L Ronchi,HJH Marshall,TG Johnston,0,0,,,,,,caught,L Ronchi
+ball,2,4.4,Wellington,HJH Marshall,TA Blundell,TG Johnston,2,0,,,,,,"",""
+ball,2,4.5,Wellington,HJH Marshall,TA Blundell,TG Johnston,0,0,,,,,,run out,HJH Marshall
+ball,2,4.6,Wellington,SR Patel,TA Blundell,TG Johnston,0,0,,,,,,"",""
+ball,2,5.1,Wellington,TA Blundell,SR Patel,EJ Nuttall,4,0,,,,,,"",""
+ball,2,5.2,Wellington,TA Blundell,SR Patel,EJ Nuttall,4,0,,,,,,"",""
+ball,2,5.3,Wellington,TA Blundell,SR Patel,EJ Nuttall,1,0,,,,,,"",""
+ball,2,5.4,Wellington,SR Patel,TA Blundell,EJ Nuttall,1,0,,,,,,"",""
+ball,2,5.5,Wellington,TA Blundell,SR Patel,EJ Nuttall,1,0,,,,,,"",""
+ball,2,5.6,Wellington,SR Patel,TA Blundell,EJ Nuttall,0,0,,,,,,"",""
+ball,2,6.1,Wellington,TA Blundell,SR Patel,TG Johnston,1,0,,,,,,"",""
+ball,2,6.2,Wellington,SR Patel,TA Blundell,TG Johnston,0,0,,,,,,"",""
+ball,2,6.3,Wellington,SR Patel,TA Blundell,TG Johnston,1,0,,,,,,"",""
+ball,2,6.4,Wellington,TA Blundell,SR Patel,TG Johnston,1,0,,,,,,"",""
+ball,2,6.5,Wellington,SR Patel,TA Blundell,TG Johnston,2,0,,,,,,"",""
+ball,2,6.6,Wellington,SR Patel,TA Blundell,TG Johnston,1,0,,,,,,"",""
+ball,2,7.1,Wellington,SR Patel,TA Blundell,TD Astle,1,0,,,,,,"",""
+ball,2,7.2,Wellington,TA Blundell,SR Patel,TD Astle,1,0,,,,,,"",""
+ball,2,7.3,Wellington,SR Patel,TA Blundell,TD Astle,1,0,,,,,,"",""
+ball,2,7.4,Wellington,TA Blundell,SR Patel,TD Astle,1,0,,,,,,"",""
+ball,2,7.5,Wellington,SR Patel,TA Blundell,TD Astle,4,0,,,,,,"",""
+ball,2,7.6,Wellington,SR Patel,TA Blundell,TD Astle,2,0,,,,,,"",""
+ball,2,8.1,Wellington,TA Blundell,SR Patel,WSA Williams,0,0,,,,,,"",""
+ball,2,8.2,Wellington,TA Blundell,SR Patel,WSA Williams,1,0,,,,,,"",""
+ball,2,8.3,Wellington,SR Patel,TA Blundell,WSA Williams,1,0,,,,,,"",""
+ball,2,8.4,Wellington,TA Blundell,SR Patel,WSA Williams,1,0,,,,,,"",""
+ball,2,8.5,Wellington,SR Patel,TA Blundell,WSA Williams,1,0,,,,,,"",""
+ball,2,8.6,Wellington,TA Blundell,SR Patel,WSA Williams,1,0,,,,,,"",""
+ball,2,9.1,Wellington,TA Blundell,SR Patel,TD Astle,0,0,,,,,,"",""
+ball,2,9.2,Wellington,TA Blundell,SR Patel,TD Astle,1,0,,,,,,"",""
+ball,2,9.3,Wellington,SR Patel,TA Blundell,TD Astle,1,0,,,,,,"",""
+ball,2,9.4,Wellington,TA Blundell,SR Patel,TD Astle,1,0,,,,,,"",""
+ball,2,9.5,Wellington,SR Patel,TA Blundell,TD Astle,0,0,,,,,,"",""
+ball,2,9.6,Wellington,SR Patel,TA Blundell,TD Astle,0,0,,,,,,"",""
+ball,2,10.1,Wellington,TA Blundell,SR Patel,TG Johnston,1,0,,,,,,"",""
+ball,2,10.2,Wellington,SR Patel,TA Blundell,TG Johnston,1,0,,,,,,"",""
+ball,2,10.3,Wellington,TA Blundell,SR Patel,TG Johnston,1,0,,,,,,"",""
+ball,2,10.4,Wellington,SR Patel,TA Blundell,TG Johnston,4,0,,,,,,"",""
+ball,2,10.5,Wellington,SR Patel,TA Blundell,TG Johnston,0,0,,,,,,"",""
+ball,2,10.6,Wellington,SR Patel,TA Blundell,TG Johnston,0,0,,,,,,caught,SR Patel
+ball,2,11.1,Wellington,MG Bracewell,TA Blundell,TD Astle,0,0,,,,,,"",""
+ball,2,11.2,Wellington,MG Bracewell,TA Blundell,TD Astle,1,0,,,,,,"",""
+ball,2,11.3,Wellington,TA Blundell,MG Bracewell,TD Astle,1,0,,,,,,"",""
+ball,2,11.4,Wellington,MG Bracewell,TA Blundell,TD Astle,0,0,,,,,,"",""
+ball,2,11.5,Wellington,MG Bracewell,TA Blundell,TD Astle,0,0,,,,,,"",""
+ball,2,11.6,Wellington,MG Bracewell,TA Blundell,TD Astle,1,0,,,,,,"",""
+ball,2,12.1,Wellington,MG Bracewell,TA Blundell,AM Ellis,1,0,,,,,,"",""
+ball,2,12.2,Wellington,TA Blundell,MG Bracewell,AM Ellis,1,0,,,,,,"",""
+ball,2,12.3,Wellington,MG Bracewell,TA Blundell,AM Ellis,1,0,,,,,,"",""
+ball,2,12.4,Wellington,TA Blundell,MG Bracewell,AM Ellis,2,0,,,,,,"",""
+ball,2,12.5,Wellington,TA Blundell,MG Bracewell,AM Ellis,1,0,,,,,,"",""
+ball,2,12.6,Wellington,MG Bracewell,TA Blundell,AM Ellis,1,0,,,,,,"",""
+ball,2,13.1,Wellington,MG Bracewell,TA Blundell,EJ Nuttall,0,0,,,,,,"",""
+ball,2,13.2,Wellington,MG Bracewell,TA Blundell,EJ Nuttall,0,0,,,,,,"",""
+ball,2,13.3,Wellington,MG Bracewell,TA Blundell,EJ Nuttall,0,0,,,,,,"",""
+ball,2,13.4,Wellington,MG Bracewell,TA Blundell,EJ Nuttall,0,0,,,,,,"",""
+ball,2,13.5,Wellington,MG Bracewell,TA Blundell,EJ Nuttall,1,0,,,,,,"",""
+ball,2,13.6,Wellington,TA Blundell,MG Bracewell,EJ Nuttall,1,0,,,,,,"",""
+ball,2,14.1,Wellington,TA Blundell,MG Bracewell,TG Johnston,1,0,,,,,,"",""
+ball,2,14.2,Wellington,MG Bracewell,TA Blundell,TG Johnston,0,0,,,,,,"",""
+ball,2,14.3,Wellington,MG Bracewell,TA Blundell,TG Johnston,0,1,1,,,,,"",""
+ball,2,14.4,Wellington,MG Bracewell,TA Blundell,TG Johnston,0,0,,,,,,"",""
+ball,2,14.5,Wellington,MG Bracewell,TA Blundell,TG Johnston,2,0,,,,,,"",""
+ball,2,14.6,Wellington,MG Bracewell,TA Blundell,TG Johnston,0,0,,,,,,"",""
+ball,2,14.7,Wellington,MG Bracewell,TA Blundell,TG Johnston,0,0,,,,,,"",""
+ball,2,15.1,Wellington,TA Blundell,MG Bracewell,TD Astle,1,0,,,,,,"",""
+ball,2,15.2,Wellington,MG Bracewell,TA Blundell,TD Astle,1,0,,,,,,"",""
+ball,2,15.3,Wellington,TA Blundell,MG Bracewell,TD Astle,2,0,,,,,,"",""
+ball,2,15.4,Wellington,TA Blundell,MG Bracewell,TD Astle,2,0,,,,,,"",""
+ball,2,15.5,Wellington,TA Blundell,MG Bracewell,TD Astle,4,0,,,,,,"",""
+ball,2,15.6,Wellington,TA Blundell,MG Bracewell,TD Astle,1,0,,,,,,"",""
+ball,2,16.1,Wellington,TA Blundell,MG Bracewell,CE McConchie,1,0,,,,,,"",""
+ball,2,16.2,Wellington,MG Bracewell,TA Blundell,CE McConchie,1,0,,,,,,"",""
+ball,2,16.3,Wellington,TA Blundell,MG Bracewell,CE McConchie,1,0,,,,,,"",""
+ball,2,16.4,Wellington,MG Bracewell,TA Blundell,CE McConchie,0,0,,,,,,caught,MG Bracewell
+ball,2,16.5,Wellington,DP Conway,TA Blundell,CE McConchie,1,0,,,,,,"",""
+ball,2,16.6,Wellington,TA Blundell,DP Conway,CE McConchie,0,0,,,,,,"",""
+ball,2,17.1,Wellington,DP Conway,TA Blundell,WSA Williams,4,0,,,,,,"",""
+ball,2,17.2,Wellington,DP Conway,TA Blundell,WSA Williams,1,0,,,,,,"",""
+ball,2,17.3,Wellington,TA Blundell,DP Conway,WSA Williams,2,0,,,,,,"",""
+ball,2,17.4,Wellington,TA Blundell,DP Conway,WSA Williams,6,0,,,,,,"",""
+ball,2,17.5,Wellington,TA Blundell,DP Conway,WSA Williams,0,0,,,,,,"",""
+ball,2,17.6,Wellington,TA Blundell,DP Conway,WSA Williams,1,0,,,,,,"",""
+ball,2,18.1,Wellington,TA Blundell,DP Conway,AM Ellis,4,0,,,,,,"",""
+ball,2,18.2,Wellington,TA Blundell,DP Conway,AM Ellis,0,0,,,,,,caught,TA Blundell
+ball,2,18.3,Wellington,LJ Woodcock,DP Conway,AM Ellis,1,0,,,,,,"",""

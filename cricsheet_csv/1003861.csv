@@ -1,0 +1,226 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Cape Cobras
+info,gender,male
+info,season,2016/17
+info,date,2016/11/20
+info,event,CSA T20 Challenge
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Lions
+info,toss_decision,bat
+info,player_of_match,AM Phangiso
+info,player_of_match,M Mosehle
+info,umpire,AT Holdstock
+info,umpire,S George
+info,reserve_umpire,GH Pienaar
+info,match_referee,SB Lambson
+info,winner,Lions
+info,winner_runs,3
+info,method,D/L
+info,player,Lions,DA Hendricks
+info,player,Lions,HE van der Dussen
+info,player,Lions,OA Ramela
+info,player,Lions,M Mosehle
+info,player,Lions,DP Conway
+info,player,Lions,NJ van den Bergh
+info,player,Lions,PWA Mulder
+info,player,Lions,GC Viljoen
+info,player,Lions,AM Phangiso
+info,player,Lions,Z Pongolo
+info,player,Lions,E Leie
+info,player,Cape Cobras,RE Levi
+info,player,Cape Cobras,WD Parnell
+info,player,Cape Cobras,KA Pollard
+info,player,Cape Cobras,GF Linde
+info,player,Cape Cobras,KD Petersen
+info,player,Cape Cobras,A Mgijima
+info,player,Cape Cobras,JF Smith
+info,player,Cape Cobras,D Paterson
+info,player,Cape Cobras,RK Kleinveldt
+info,player,Cape Cobras,NM Serame
+info,player,Cape Cobras,C Tshiki
+info,registry,people,A Mgijima,955e8e86
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,C Tshiki,9ab2cc9b
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DA Hendricks,f66f5343
+info,registry,people,DP Conway,df5a6881
+info,registry,people,E Leie,a7bc76a0
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,GF Linde,e5437608
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,M Mosehle,8836fcac
+info,registry,people,NJ van den Bergh,055e8d7b
+info,registry,people,NM Serame,abd541e6
+info,registry,people,OA Ramela,04a5b56e
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RE Levi,18c78b11
+info,registry,people,RK Kleinveldt,7955eb15
+info,registry,people,S George,6d9e5a54
+info,registry,people,SB Lambson,4146063f
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,Z Pongolo,01698fee
+ball,1,0.1,Lions,DA Hendricks,HE van der Dussen,D Paterson,0,0,,,,,,lbw,DA Hendricks
+ball,1,0.2,Lions,OA Ramela,HE van der Dussen,D Paterson,0,0,,,,,,"",""
+ball,1,0.3,Lions,OA Ramela,HE van der Dussen,D Paterson,0,0,,,,,,"",""
+ball,1,0.4,Lions,OA Ramela,HE van der Dussen,D Paterson,0,5,5,,,,,"",""
+ball,1,0.5,Lions,OA Ramela,HE van der Dussen,D Paterson,0,0,,,,,,"",""
+ball,1,0.6,Lions,OA Ramela,HE van der Dussen,D Paterson,0,0,,,,,,"",""
+ball,1,0.7,Lions,OA Ramela,HE van der Dussen,D Paterson,0,0,,,,,,"",""
+ball,1,1.1,Lions,HE van der Dussen,OA Ramela,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,1.2,Lions,HE van der Dussen,OA Ramela,RK Kleinveldt,4,0,,,,,,"",""
+ball,1,1.3,Lions,HE van der Dussen,OA Ramela,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,1.4,Lions,HE van der Dussen,OA Ramela,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,1.5,Lions,OA Ramela,HE van der Dussen,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,1.6,Lions,OA Ramela,HE van der Dussen,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,2.1,Lions,OA Ramela,HE van der Dussen,D Paterson,0,0,,,,,,"",""
+ball,1,2.2,Lions,OA Ramela,HE van der Dussen,D Paterson,4,0,,,,,,"",""
+ball,1,2.3,Lions,OA Ramela,HE van der Dussen,D Paterson,4,0,,,,,,"",""
+ball,1,2.4,Lions,OA Ramela,HE van der Dussen,D Paterson,0,1,,,,1,,"",""
+ball,1,2.5,Lions,HE van der Dussen,OA Ramela,D Paterson,0,0,,,,,,"",""
+ball,1,2.6,Lions,HE van der Dussen,OA Ramela,D Paterson,0,0,,,,,,"",""
+ball,1,3.1,Lions,OA Ramela,HE van der Dussen,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,3.2,Lions,OA Ramela,HE van der Dussen,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,3.3,Lions,OA Ramela,HE van der Dussen,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,3.4,Lions,OA Ramela,HE van der Dussen,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,3.5,Lions,OA Ramela,HE van der Dussen,RK Kleinveldt,4,0,,,,,,"",""
+ball,1,3.6,Lions,OA Ramela,HE van der Dussen,RK Kleinveldt,0,0,,,,,,bowled,OA Ramela
+ball,1,4.1,Lions,HE van der Dussen,M Mosehle,GF Linde,0,0,,,,,,"",""
+ball,1,4.2,Lions,HE van der Dussen,M Mosehle,GF Linde,0,4,,,4,,,"",""
+ball,1,4.3,Lions,HE van der Dussen,M Mosehle,GF Linde,4,0,,,,,,"",""
+ball,1,4.4,Lions,HE van der Dussen,M Mosehle,GF Linde,1,0,,,,,,"",""
+ball,1,4.5,Lions,M Mosehle,HE van der Dussen,GF Linde,0,0,,,,,,"",""
+ball,1,4.6,Lions,M Mosehle,HE van der Dussen,GF Linde,0,0,,,,,,"",""
+ball,1,5.1,Lions,HE van der Dussen,M Mosehle,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,5.2,Lions,M Mosehle,HE van der Dussen,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,5.3,Lions,M Mosehle,HE van der Dussen,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,5.4,Lions,HE van der Dussen,M Mosehle,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,5.5,Lions,HE van der Dussen,M Mosehle,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,5.6,Lions,M Mosehle,HE van der Dussen,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,6.1,Lions,HE van der Dussen,M Mosehle,NM Serame,1,0,,,,,,"",""
+ball,1,6.2,Lions,M Mosehle,HE van der Dussen,NM Serame,1,0,,,,,,"",""
+ball,1,6.3,Lions,HE van der Dussen,M Mosehle,NM Serame,1,0,,,,,,"",""
+ball,1,6.4,Lions,M Mosehle,HE van der Dussen,NM Serame,0,0,,,,,,"",""
+ball,1,6.5,Lions,M Mosehle,HE van der Dussen,NM Serame,0,0,,,,,,"",""
+ball,1,6.6,Lions,M Mosehle,HE van der Dussen,NM Serame,0,0,,,,,,"",""
+ball,1,7.1,Lions,HE van der Dussen,M Mosehle,RK Kleinveldt,0,1,1,,,,,"",""
+ball,1,7.2,Lions,HE van der Dussen,M Mosehle,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,7.3,Lions,M Mosehle,HE van der Dussen,RK Kleinveldt,6,0,,,,,,"",""
+ball,1,7.4,Lions,M Mosehle,HE van der Dussen,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,7.5,Lions,HE van der Dussen,M Mosehle,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,7.6,Lions,M Mosehle,HE van der Dussen,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,7.7,Lions,HE van der Dussen,M Mosehle,RK Kleinveldt,0,0,,,,,,lbw,HE van der Dussen
+ball,1,8.1,Lions,M Mosehle,DP Conway,NM Serame,0,0,,,,,,"",""
+ball,1,8.2,Lions,M Mosehle,DP Conway,NM Serame,4,0,,,,,,"",""
+ball,1,8.3,Lions,M Mosehle,DP Conway,NM Serame,6,0,,,,,,"",""
+ball,1,8.4,Lions,M Mosehle,DP Conway,NM Serame,1,0,,,,,,"",""
+ball,1,8.5,Lions,DP Conway,M Mosehle,NM Serame,0,0,,,,,,"",""
+ball,1,8.6,Lions,DP Conway,M Mosehle,NM Serame,0,0,,,,,,"",""
+ball,1,9.1,Lions,M Mosehle,DP Conway,GF Linde,0,0,,,,,,"",""
+ball,1,9.2,Lions,M Mosehle,DP Conway,GF Linde,2,0,,,,,,"",""
+ball,1,9.3,Lions,M Mosehle,DP Conway,GF Linde,1,0,,,,,,"",""
+ball,1,9.4,Lions,DP Conway,M Mosehle,GF Linde,1,0,,,,,,"",""
+ball,1,9.5,Lions,M Mosehle,DP Conway,GF Linde,1,0,,,,,,"",""
+ball,1,9.6,Lions,DP Conway,M Mosehle,GF Linde,0,0,,,,,,"",""
+ball,1,10.1,Lions,M Mosehle,DP Conway,WD Parnell,2,0,,,,,,"",""
+ball,1,10.2,Lions,M Mosehle,DP Conway,WD Parnell,2,0,,,,,,"",""
+ball,1,10.3,Lions,M Mosehle,DP Conway,WD Parnell,2,0,,,,,,"",""
+ball,1,10.4,Lions,M Mosehle,DP Conway,WD Parnell,2,0,,,,,,"",""
+ball,1,10.5,Lions,M Mosehle,DP Conway,WD Parnell,1,0,,,,,,"",""
+ball,1,10.6,Lions,DP Conway,M Mosehle,WD Parnell,1,0,,,,,,"",""
+ball,1,11.1,Lions,DP Conway,M Mosehle,GF Linde,2,0,,,,,,"",""
+ball,1,11.2,Lions,DP Conway,M Mosehle,GF Linde,0,0,,,,,,"",""
+ball,1,11.3,Lions,DP Conway,M Mosehle,GF Linde,0,1,1,,,,,"",""
+ball,1,11.4,Lions,DP Conway,M Mosehle,GF Linde,6,0,,,,,,"",""
+ball,1,11.5,Lions,DP Conway,M Mosehle,GF Linde,1,0,,,,,,"",""
+ball,1,11.6,Lions,M Mosehle,DP Conway,GF Linde,2,0,,,,,,"",""
+ball,1,11.7,Lions,M Mosehle,DP Conway,GF Linde,2,0,,,,,,"",""
+ball,1,12.1,Lions,DP Conway,M Mosehle,KA Pollard,0,0,,,,,,bowled,DP Conway
+ball,1,12.2,Lions,NJ van den Bergh,M Mosehle,KA Pollard,0,1,1,,,,,"",""
+ball,1,12.3,Lions,NJ van den Bergh,M Mosehle,KA Pollard,1,0,,,,,,"",""
+ball,1,12.4,Lions,M Mosehle,NJ van den Bergh,KA Pollard,1,0,,,,,,"",""
+ball,1,12.5,Lions,NJ van den Bergh,M Mosehle,KA Pollard,1,0,,,,,,"",""
+ball,1,12.6,Lions,M Mosehle,NJ van den Bergh,KA Pollard,1,0,,,,,,"",""
+ball,1,12.7,Lions,NJ van den Bergh,M Mosehle,KA Pollard,2,0,,,,,,"",""
+ball,1,13.1,Lions,M Mosehle,NJ van den Bergh,WD Parnell,6,0,,,,,,"",""
+ball,1,13.2,Lions,M Mosehle,NJ van den Bergh,WD Parnell,0,0,,,,,,"",""
+ball,1,13.3,Lions,M Mosehle,NJ van den Bergh,WD Parnell,2,0,,,,,,"",""
+ball,1,13.4,Lions,M Mosehle,NJ van den Bergh,WD Parnell,1,0,,,,,,"",""
+ball,1,13.5,Lions,NJ van den Bergh,M Mosehle,WD Parnell,0,0,,,,,,"",""
+ball,1,13.6,Lions,NJ van den Bergh,M Mosehle,WD Parnell,1,0,,,,,,"",""
+ball,1,14.1,Lions,NJ van den Bergh,M Mosehle,KA Pollard,2,0,,,,,,"",""
+ball,1,14.2,Lions,NJ van den Bergh,M Mosehle,KA Pollard,1,0,,,,,,"",""
+ball,1,14.3,Lions,M Mosehle,NJ van den Bergh,KA Pollard,0,1,1,,,,,"",""
+ball,1,14.4,Lions,M Mosehle,NJ van den Bergh,KA Pollard,4,0,,,,,,"",""
+ball,1,14.5,Lions,M Mosehle,NJ van den Bergh,KA Pollard,1,0,,,,,,"",""
+ball,1,14.6,Lions,NJ van den Bergh,M Mosehle,KA Pollard,1,0,,,,,,"",""
+ball,1,14.7,Lions,M Mosehle,NJ van den Bergh,KA Pollard,1,0,,,,,,"",""
+ball,1,15.1,Lions,M Mosehle,NJ van den Bergh,D Paterson,1,0,,,,,,"",""
+ball,1,15.2,Lions,NJ van den Bergh,M Mosehle,D Paterson,2,0,,,,,,"",""
+ball,1,15.3,Lions,NJ van den Bergh,M Mosehle,D Paterson,1,0,,,,,,"",""
+ball,1,15.4,Lions,M Mosehle,NJ van den Bergh,D Paterson,1,0,,,,,,"",""
+ball,1,15.5,Lions,NJ van den Bergh,M Mosehle,D Paterson,1,0,,,,,,"",""
+ball,1,15.6,Lions,M Mosehle,NJ van den Bergh,D Paterson,1,0,,,,,,"",""
+ball,1,16.1,Lions,M Mosehle,NJ van den Bergh,KA Pollard,0,0,,,,,,bowled,M Mosehle
+ball,1,16.2,Lions,PWA Mulder,NJ van den Bergh,KA Pollard,1,0,,,,,,"",""
+ball,1,16.3,Lions,NJ van den Bergh,PWA Mulder,KA Pollard,1,0,,,,,,"",""
+ball,1,16.4,Lions,PWA Mulder,NJ van den Bergh,KA Pollard,1,0,,,,,,"",""
+ball,1,16.5,Lions,NJ van den Bergh,PWA Mulder,KA Pollard,1,0,,,,,,"",""
+ball,1,16.6,Lions,PWA Mulder,NJ van den Bergh,KA Pollard,1,0,,,,,,"",""
+ball,1,17.1,Lions,PWA Mulder,NJ van den Bergh,D Paterson,1,0,,,,,,"",""
+ball,1,17.2,Lions,NJ van den Bergh,PWA Mulder,D Paterson,2,0,,,,,,"",""
+ball,1,17.3,Lions,NJ van den Bergh,PWA Mulder,D Paterson,1,0,,,,,,"",""
+ball,1,17.4,Lions,PWA Mulder,NJ van den Bergh,D Paterson,1,0,,,,,,"",""
+ball,1,17.5,Lions,NJ van den Bergh,PWA Mulder,D Paterson,1,0,,,,,,"",""
+ball,1,17.6,Lions,PWA Mulder,NJ van den Bergh,D Paterson,1,0,,,,,,"",""
+ball,1,18.1,Lions,PWA Mulder,NJ van den Bergh,KA Pollard,1,0,,,,,,"",""
+ball,1,18.2,Lions,NJ van den Bergh,PWA Mulder,KA Pollard,6,0,,,,,,"",""
+ball,1,18.3,Lions,NJ van den Bergh,PWA Mulder,KA Pollard,0,4,,,,4,,"",""
+ball,1,18.4,Lions,NJ van den Bergh,PWA Mulder,KA Pollard,4,0,,,,,,"",""
+ball,1,18.5,Lions,NJ van den Bergh,PWA Mulder,KA Pollard,6,0,,,,,,"",""
+ball,1,18.6,Lions,NJ van den Bergh,PWA Mulder,KA Pollard,0,2,2,,,,,"",""
+ball,1,18.7,Lions,PWA Mulder,NJ van den Bergh,KA Pollard,1,0,,,,,,"",""
+ball,1,19.1,Lions,PWA Mulder,NJ van den Bergh,WD Parnell,4,0,,,,,,"",""
+ball,2,0.1,Cape Cobras,RE Levi,WD Parnell,GC Viljoen,4,0,,,,,,"",""
+ball,2,0.2,Cape Cobras,RE Levi,WD Parnell,GC Viljoen,6,0,,,,,,"",""
+ball,2,0.3,Cape Cobras,RE Levi,WD Parnell,GC Viljoen,0,0,,,,,,"",""
+ball,2,0.4,Cape Cobras,RE Levi,WD Parnell,GC Viljoen,0,0,,,,,,bowled,RE Levi
+ball,2,0.5,Cape Cobras,KA Pollard,WD Parnell,GC Viljoen,0,2,,,2,,,"",""
+ball,2,0.6,Cape Cobras,KA Pollard,WD Parnell,GC Viljoen,4,0,,,,,,"",""
+ball,2,1.1,Cape Cobras,WD Parnell,KA Pollard,Z Pongolo,1,0,,,,,,"",""
+ball,2,1.2,Cape Cobras,KA Pollard,WD Parnell,Z Pongolo,0,0,,,,,,"",""
+ball,2,1.3,Cape Cobras,KA Pollard,WD Parnell,Z Pongolo,4,0,,,,,,"",""
+ball,2,1.4,Cape Cobras,KA Pollard,WD Parnell,Z Pongolo,4,0,,,,,,"",""
+ball,2,1.5,Cape Cobras,KA Pollard,WD Parnell,Z Pongolo,4,0,,,,,,"",""
+ball,2,1.6,Cape Cobras,KA Pollard,WD Parnell,Z Pongolo,1,0,,,,,,"",""
+ball,2,2.1,Cape Cobras,KA Pollard,WD Parnell,GC Viljoen,1,0,,,,,,"",""
+ball,2,2.2,Cape Cobras,WD Parnell,KA Pollard,GC Viljoen,0,0,,,,,,"",""
+ball,2,2.3,Cape Cobras,WD Parnell,KA Pollard,GC Viljoen,1,0,,,,,,"",""
+ball,2,2.4,Cape Cobras,KA Pollard,WD Parnell,GC Viljoen,3,0,,,,,,"",""
+ball,2,2.5,Cape Cobras,WD Parnell,KA Pollard,GC Viljoen,1,0,,,,,,"",""
+ball,2,2.6,Cape Cobras,KA Pollard,WD Parnell,GC Viljoen,1,0,,,,,,"",""
+ball,2,3.1,Cape Cobras,KA Pollard,WD Parnell,E Leie,4,0,,,,,,"",""
+ball,2,3.2,Cape Cobras,KA Pollard,WD Parnell,E Leie,0,0,,,,,,caught,KA Pollard
+ball,2,3.3,Cape Cobras,WD Parnell,GF Linde,E Leie,1,0,,,,,,"",""
+ball,2,3.4,Cape Cobras,GF Linde,WD Parnell,E Leie,1,0,,,,,,"",""
+ball,2,3.5,Cape Cobras,WD Parnell,GF Linde,E Leie,6,0,,,,,,"",""
+ball,2,3.6,Cape Cobras,WD Parnell,GF Linde,E Leie,0,0,,,,,,"",""
+ball,2,4.1,Cape Cobras,GF Linde,WD Parnell,AM Phangiso,1,0,,,,,,"",""
+ball,2,4.2,Cape Cobras,WD Parnell,GF Linde,AM Phangiso,1,0,,,,,,"",""
+ball,2,4.3,Cape Cobras,GF Linde,WD Parnell,AM Phangiso,1,0,,,,,,"",""
+ball,2,4.4,Cape Cobras,WD Parnell,GF Linde,AM Phangiso,0,1,,,,1,,"",""
+ball,2,4.5,Cape Cobras,GF Linde,WD Parnell,AM Phangiso,1,0,,,,,,"",""
+ball,2,4.6,Cape Cobras,WD Parnell,GF Linde,AM Phangiso,1,0,,,,,,"",""
+ball,2,5.1,Cape Cobras,WD Parnell,GF Linde,PWA Mulder,2,0,,,,,,"",""
+ball,2,5.2,Cape Cobras,WD Parnell,GF Linde,PWA Mulder,6,0,,,,,,"",""
+ball,2,5.3,Cape Cobras,WD Parnell,GF Linde,PWA Mulder,1,0,,,,,,"",""
+ball,2,5.4,Cape Cobras,GF Linde,WD Parnell,PWA Mulder,1,0,,,,,,"",""
+ball,2,5.5,Cape Cobras,WD Parnell,GF Linde,PWA Mulder,1,0,,,,,,"",""
+ball,2,5.6,Cape Cobras,GF Linde,WD Parnell,PWA Mulder,0,0,,,,,,bowled,GF Linde

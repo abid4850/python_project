@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Titans
+info,gender,male
+info,season,2018/19
+info,date,2019/04/20
+info,event,CSA T20 Challenge
+info,match_number,17
+info,venue,"City Oval, Pietermaritzburg"
+info,city,Pietermaritzburg
+info,toss_winner,Titans
+info,toss_decision,field
+info,player_of_match,P Subrayen
+info,player_of_match,TB de Bruyn
+info,umpire,AT Holdstock
+info,umpire,PJ Vosloo
+info,reserve_umpire,DJ Smith
+info,match_referee,S Wadvalla
+info,winner,Titans
+info,winner_wickets,8
+info,player,Dolphins,MN van Wyk
+info,player,Dolphins,SJ Erwee
+info,player,Dolphins,C Chetty
+info,player,Dolphins,AL Phehlukwayo
+info,player,Dolphins,R Frylinck
+info,player,Dolphins,K Zondo
+info,player,Dolphins,MJ Ackerman
+info,player,Dolphins,BS Makhanya
+info,player,Dolphins,KA Maharaj
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,DM Dupavillon
+info,player,Titans,H Davids
+info,player,Titans,T de Zorzi
+info,player,Titans,TB de Bruyn
+info,player,Titans,JD Vandiar
+info,player,Titans,F Behardien
+info,player,Titans,RA Herman
+info,player,Titans,S von Berg
+info,player,Titans,GM Thomson
+info,player,Titans,EL Hawken
+info,player,Titans,CJ Dala
+info,player,Titans,G Mahlokwana
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,C Chetty,27ca3a11
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,EL Hawken,a0936692
+info,registry,people,F Behardien,dce2019b
+info,registry,people,G Mahlokwana,d92d8446
+info,registry,people,GM Thomson,b06d95da
+info,registry,people,H Davids,9c9f8dbc
+info,registry,people,JD Vandiar,a833f99c
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,MN van Wyk,710dd98c
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,S von Berg,ffd3fc37
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,T de Zorzi,d3a1c63d
+info,registry,people,TB de Bruyn,90d6cdea
+ball,1,0.1,Dolphins,MN van Wyk,SJ Erwee,G Mahlokwana,2,0,,,,,,"",""
+ball,1,0.2,Dolphins,MN van Wyk,SJ Erwee,G Mahlokwana,0,1,1,,,,,"",""
+ball,1,0.3,Dolphins,MN van Wyk,SJ Erwee,G Mahlokwana,1,0,,,,,,"",""
+ball,1,0.4,Dolphins,SJ Erwee,MN van Wyk,G Mahlokwana,1,0,,,,,,"",""
+ball,1,0.5,Dolphins,MN van Wyk,SJ Erwee,G Mahlokwana,0,0,,,,,,"",""
+ball,1,0.6,Dolphins,MN van Wyk,SJ Erwee,G Mahlokwana,1,0,,,,,,"",""
+ball,1,0.7,Dolphins,SJ Erwee,MN van Wyk,G Mahlokwana,0,1,1,,,,,"",""
+ball,1,0.8,Dolphins,SJ Erwee,MN van Wyk,G Mahlokwana,0,0,,,,,,"",""
+ball,1,1.1,Dolphins,MN van Wyk,SJ Erwee,EL Hawken,0,0,,,,,,"",""
+ball,1,1.2,Dolphins,MN van Wyk,SJ Erwee,EL Hawken,4,0,,,,,,"",""
+ball,1,1.3,Dolphins,MN van Wyk,SJ Erwee,EL Hawken,1,0,,,,,,"",""
+ball,1,1.4,Dolphins,SJ Erwee,MN van Wyk,EL Hawken,0,0,,,,,,"",""
+ball,1,1.5,Dolphins,SJ Erwee,MN van Wyk,EL Hawken,0,0,,,,,,"",""
+ball,1,1.6,Dolphins,SJ Erwee,MN van Wyk,EL Hawken,0,1,,,,1,,"",""
+ball,1,2.1,Dolphins,SJ Erwee,MN van Wyk,G Mahlokwana,0,0,,,,,,caught,SJ Erwee
+ball,1,2.2,Dolphins,C Chetty,MN van Wyk,G Mahlokwana,1,0,,,,,,"",""
+ball,1,2.3,Dolphins,MN van Wyk,C Chetty,G Mahlokwana,1,0,,,,,,"",""
+ball,1,2.4,Dolphins,C Chetty,MN van Wyk,G Mahlokwana,1,0,,,,,,"",""
+ball,1,2.5,Dolphins,MN van Wyk,C Chetty,G Mahlokwana,4,0,,,,,,"",""
+ball,1,2.6,Dolphins,MN van Wyk,C Chetty,G Mahlokwana,0,0,,,,,,"",""
+ball,1,3.1,Dolphins,C Chetty,MN van Wyk,EL Hawken,4,0,,,,,,"",""
+ball,1,3.2,Dolphins,C Chetty,MN van Wyk,EL Hawken,4,0,,,,,,"",""
+ball,1,3.3,Dolphins,C Chetty,MN van Wyk,EL Hawken,0,0,,,,,,"",""
+ball,1,3.4,Dolphins,C Chetty,MN van Wyk,EL Hawken,0,0,,,,,,"",""
+ball,1,3.5,Dolphins,C Chetty,MN van Wyk,EL Hawken,4,0,,,,,,"",""
+ball,1,3.6,Dolphins,C Chetty,MN van Wyk,EL Hawken,0,0,,,,,,"",""
+ball,1,4.1,Dolphins,MN van Wyk,C Chetty,G Mahlokwana,1,0,,,,,,"",""
+ball,1,4.2,Dolphins,C Chetty,MN van Wyk,G Mahlokwana,1,0,,,,,,"",""
+ball,1,4.3,Dolphins,MN van Wyk,C Chetty,G Mahlokwana,1,0,,,,,,"",""
+ball,1,4.4,Dolphins,C Chetty,MN van Wyk,G Mahlokwana,4,0,,,,,,"",""
+ball,1,4.5,Dolphins,C Chetty,MN van Wyk,G Mahlokwana,1,0,,,,,,"",""
+ball,1,4.6,Dolphins,MN van Wyk,C Chetty,G Mahlokwana,1,0,,,,,,"",""
+ball,1,5.1,Dolphins,MN van Wyk,C Chetty,CJ Dala,1,0,,,,,,"",""
+ball,1,5.2,Dolphins,C Chetty,MN van Wyk,CJ Dala,0,0,,,,,,"",""
+ball,1,5.3,Dolphins,C Chetty,MN van Wyk,CJ Dala,0,1,1,,,,,"",""
+ball,1,5.4,Dolphins,C Chetty,MN van Wyk,CJ Dala,6,0,,,,,,"",""
+ball,1,5.5,Dolphins,C Chetty,MN van Wyk,CJ Dala,0,0,,,,,,"",""
+ball,1,5.6,Dolphins,C Chetty,MN van Wyk,CJ Dala,1,0,,,,,,"",""
+ball,1,5.7,Dolphins,MN van Wyk,C Chetty,CJ Dala,4,0,,,,,,"",""
+ball,1,6.1,Dolphins,C Chetty,MN van Wyk,S von Berg,1,0,,,,,,"",""
+ball,1,6.2,Dolphins,MN van Wyk,C Chetty,S von Berg,1,0,,,,,,"",""
+ball,1,6.3,Dolphins,C Chetty,MN van Wyk,S von Berg,0,0,,,,,,"",""
+ball,1,6.4,Dolphins,C Chetty,MN van Wyk,S von Berg,2,0,,,,,,"",""
+ball,1,6.5,Dolphins,C Chetty,MN van Wyk,S von Berg,6,0,,,,,,"",""
+ball,1,6.6,Dolphins,C Chetty,MN van Wyk,S von Berg,1,0,,,,,,"",""
+ball,1,7.1,Dolphins,C Chetty,MN van Wyk,GM Thomson,0,0,,,,,,"",""
+ball,1,7.2,Dolphins,C Chetty,MN van Wyk,GM Thomson,0,0,,,,,,"",""
+ball,1,7.3,Dolphins,C Chetty,MN van Wyk,GM Thomson,1,0,,,,,,"",""
+ball,1,7.4,Dolphins,MN van Wyk,C Chetty,GM Thomson,1,0,,,,,,"",""
+ball,1,7.5,Dolphins,C Chetty,MN van Wyk,GM Thomson,4,0,,,,,,"",""
+ball,1,7.6,Dolphins,C Chetty,MN van Wyk,GM Thomson,1,0,,,,,,"",""
+ball,1,8.1,Dolphins,C Chetty,MN van Wyk,S von Berg,1,0,,,,,,"",""
+ball,1,8.2,Dolphins,MN van Wyk,C Chetty,S von Berg,0,0,,,,,,"",""
+ball,1,8.3,Dolphins,MN van Wyk,C Chetty,S von Berg,2,0,,,,,,"",""
+ball,1,8.4,Dolphins,MN van Wyk,C Chetty,S von Berg,2,0,,,,,,"",""
+ball,1,8.5,Dolphins,MN van Wyk,C Chetty,S von Berg,1,0,,,,,,"",""
+ball,1,8.6,Dolphins,C Chetty,MN van Wyk,S von Berg,1,0,,,,,,"",""
+ball,1,9.1,Dolphins,C Chetty,MN van Wyk,H Davids,1,0,,,,,,"",""
+ball,1,9.2,Dolphins,MN van Wyk,C Chetty,H Davids,1,0,,,,,,"",""
+ball,1,9.3,Dolphins,C Chetty,MN van Wyk,H Davids,1,0,,,,,,"",""
+ball,1,9.4,Dolphins,MN van Wyk,C Chetty,H Davids,0,1,1,,,,,"",""
+ball,1,9.5,Dolphins,MN van Wyk,C Chetty,H Davids,1,0,,,,,,"",""
+ball,1,9.6,Dolphins,C Chetty,MN van Wyk,H Davids,1,0,,,,,,"",""
+ball,1,9.7,Dolphins,MN van Wyk,C Chetty,H Davids,1,0,,,,,,"",""
+ball,1,10.1,Dolphins,MN van Wyk,C Chetty,S von Berg,1,0,,,,,,"",""
+ball,1,10.2,Dolphins,C Chetty,MN van Wyk,S von Berg,2,0,,,,,,"",""
+ball,1,10.3,Dolphins,C Chetty,MN van Wyk,S von Berg,1,0,,,,,,"",""
+ball,1,10.4,Dolphins,MN van Wyk,C Chetty,S von Berg,0,0,,,,,,"",""
+ball,1,10.5,Dolphins,MN van Wyk,C Chetty,S von Berg,1,0,,,,,,"",""
+ball,1,10.6,Dolphins,C Chetty,MN van Wyk,S von Berg,2,0,,,,,,"",""
+ball,1,11.1,Dolphins,MN van Wyk,C Chetty,GM Thomson,4,0,,,,,,"",""
+ball,1,11.2,Dolphins,MN van Wyk,C Chetty,GM Thomson,1,0,,,,,,"",""
+ball,1,11.3,Dolphins,C Chetty,MN van Wyk,GM Thomson,2,0,,,,,,"",""
+ball,1,11.4,Dolphins,C Chetty,MN van Wyk,GM Thomson,1,0,,,,,,"",""
+ball,1,11.5,Dolphins,MN van Wyk,C Chetty,GM Thomson,1,0,,,,,,"",""
+ball,1,11.6,Dolphins,C Chetty,MN van Wyk,GM Thomson,0,0,,,,,,caught,C Chetty
+ball,1,12.1,Dolphins,AL Phehlukwayo,MN van Wyk,S von Berg,1,0,,,,,,"",""
+ball,1,12.2,Dolphins,MN van Wyk,AL Phehlukwayo,S von Berg,4,0,,,,,,"",""
+ball,1,12.3,Dolphins,MN van Wyk,AL Phehlukwayo,S von Berg,1,0,,,,,,"",""
+ball,1,12.4,Dolphins,AL Phehlukwayo,MN van Wyk,S von Berg,1,0,,,,,,"",""
+ball,1,12.5,Dolphins,MN van Wyk,AL Phehlukwayo,S von Berg,1,0,,,,,,"",""
+ball,1,12.6,Dolphins,AL Phehlukwayo,MN van Wyk,S von Berg,1,0,,,,,,"",""
+ball,1,13.1,Dolphins,AL Phehlukwayo,MN van Wyk,CJ Dala,1,0,,,,,,"",""
+ball,1,13.2,Dolphins,MN van Wyk,AL Phehlukwayo,CJ Dala,1,0,,,,,,"",""
+ball,1,13.3,Dolphins,AL Phehlukwayo,MN van Wyk,CJ Dala,1,0,,,,,,"",""
+ball,1,13.4,Dolphins,MN van Wyk,AL Phehlukwayo,CJ Dala,0,0,,,,,,"",""
+ball,1,13.5,Dolphins,MN van Wyk,AL Phehlukwayo,CJ Dala,1,0,,,,,,"",""
+ball,1,13.6,Dolphins,AL Phehlukwayo,MN van Wyk,CJ Dala,0,1,1,,,,,"",""
+ball,1,13.7,Dolphins,AL Phehlukwayo,MN van Wyk,CJ Dala,0,0,,,,,,"",""
+ball,1,14.1,Dolphins,MN van Wyk,AL Phehlukwayo,GM Thomson,1,0,,,,,,"",""
+ball,1,14.2,Dolphins,AL Phehlukwayo,MN van Wyk,GM Thomson,1,0,,,,,,"",""
+ball,1,14.3,Dolphins,MN van Wyk,AL Phehlukwayo,GM Thomson,4,0,,,,,,"",""
+ball,1,14.4,Dolphins,MN van Wyk,AL Phehlukwayo,GM Thomson,1,0,,,,,,"",""
+ball,1,14.5,Dolphins,AL Phehlukwayo,MN van Wyk,GM Thomson,1,0,,,,,,"",""
+ball,1,14.6,Dolphins,MN van Wyk,AL Phehlukwayo,GM Thomson,1,0,,,,,,"",""
+ball,1,15.1,Dolphins,MN van Wyk,AL Phehlukwayo,CJ Dala,0,1,1,,,,,"",""
+ball,1,15.2,Dolphins,MN van Wyk,AL Phehlukwayo,CJ Dala,0,0,,,,,,caught,MN van Wyk
+ball,1,15.3,Dolphins,AL Phehlukwayo,R Frylinck,CJ Dala,4,0,,,,,,"",""
+ball,1,15.4,Dolphins,AL Phehlukwayo,R Frylinck,CJ Dala,1,0,,,,,,"",""
+ball,1,15.5,Dolphins,R Frylinck,AL Phehlukwayo,CJ Dala,1,0,,,,,,"",""
+ball,1,15.6,Dolphins,AL Phehlukwayo,R Frylinck,CJ Dala,1,0,,,,,,"",""
+ball,1,15.7,Dolphins,R Frylinck,AL Phehlukwayo,CJ Dala,1,0,,,,,,"",""
+ball,1,16.1,Dolphins,R Frylinck,AL Phehlukwayo,GM Thomson,2,0,,,,,,"",""
+ball,1,16.2,Dolphins,R Frylinck,AL Phehlukwayo,GM Thomson,0,0,,,,,,"",""
+ball,1,16.3,Dolphins,R Frylinck,AL Phehlukwayo,GM Thomson,0,1,1,,,,,"",""
+ball,1,16.4,Dolphins,R Frylinck,AL Phehlukwayo,GM Thomson,2,0,,,,,,"",""
+ball,1,16.5,Dolphins,R Frylinck,AL Phehlukwayo,GM Thomson,4,0,,,,,,"",""
+ball,1,16.6,Dolphins,R Frylinck,AL Phehlukwayo,GM Thomson,0,0,,,,,,"",""
+ball,1,16.7,Dolphins,R Frylinck,AL Phehlukwayo,GM Thomson,2,0,,,,,,"",""
+ball,1,17.1,Dolphins,AL Phehlukwayo,R Frylinck,EL Hawken,1,0,,,,,,"",""
+ball,1,17.2,Dolphins,R Frylinck,AL Phehlukwayo,EL Hawken,4,0,,,,,,"",""
+ball,1,17.3,Dolphins,R Frylinck,AL Phehlukwayo,EL Hawken,1,0,,,,,,"",""
+ball,1,17.4,Dolphins,AL Phehlukwayo,R Frylinck,EL Hawken,0,0,,,,,,"",""
+ball,1,17.5,Dolphins,AL Phehlukwayo,R Frylinck,EL Hawken,6,0,,,,,,"",""
+ball,1,17.6,Dolphins,AL Phehlukwayo,R Frylinck,EL Hawken,2,0,,,,,,"",""
+ball,1,18.1,Dolphins,R Frylinck,AL Phehlukwayo,CJ Dala,0,1,,,1,,,"",""
+ball,1,18.2,Dolphins,AL Phehlukwayo,R Frylinck,CJ Dala,1,0,,,,,,"",""
+ball,1,18.3,Dolphins,R Frylinck,AL Phehlukwayo,CJ Dala,0,1,1,,,,,"",""
+ball,1,18.4,Dolphins,R Frylinck,AL Phehlukwayo,CJ Dala,4,0,,,,,,"",""
+ball,1,18.5,Dolphins,R Frylinck,AL Phehlukwayo,CJ Dala,1,0,,,,,,"",""
+ball,1,18.6,Dolphins,AL Phehlukwayo,R Frylinck,CJ Dala,0,0,,,,,,"",""
+ball,1,18.7,Dolphins,AL Phehlukwayo,R Frylinck,CJ Dala,0,1,1,,,,,"",""
+ball,1,18.8,Dolphins,AL Phehlukwayo,R Frylinck,CJ Dala,6,0,,,,,,"",""
+ball,1,19.1,Dolphins,R Frylinck,AL Phehlukwayo,EL Hawken,4,0,,,,,,"",""
+ball,1,19.2,Dolphins,R Frylinck,AL Phehlukwayo,EL Hawken,0,0,,,,,,bowled,R Frylinck
+ball,1,19.3,Dolphins,K Zondo,AL Phehlukwayo,EL Hawken,4,0,,,,,,"",""
+ball,1,19.4,Dolphins,K Zondo,AL Phehlukwayo,EL Hawken,0,0,,,,,,"",""
+ball,1,19.5,Dolphins,K Zondo,AL Phehlukwayo,EL Hawken,1,0,,,,,,"",""
+ball,1,19.6,Dolphins,AL Phehlukwayo,K Zondo,EL Hawken,2,0,,,,,,"",""
+ball,2,0.1,Titans,H Davids,T de Zorzi,R Frylinck,0,0,,,,,,"",""
+ball,2,0.2,Titans,H Davids,T de Zorzi,R Frylinck,0,1,1,,,,,"",""
+ball,2,0.3,Titans,H Davids,T de Zorzi,R Frylinck,1,0,,,,,,"",""
+ball,2,0.4,Titans,T de Zorzi,H Davids,R Frylinck,0,0,,,,,,"",""
+ball,2,0.5,Titans,T de Zorzi,H Davids,R Frylinck,2,0,,,,,,"",""
+ball,2,0.6,Titans,T de Zorzi,H Davids,R Frylinck,0,0,,,,,,"",""
+ball,2,0.7,Titans,T de Zorzi,H Davids,R Frylinck,1,0,,,,,,"",""
+ball,2,1.1,Titans,T de Zorzi,H Davids,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.2,Titans,T de Zorzi,H Davids,DM Dupavillon,1,0,,,,,,"",""
+ball,2,1.3,Titans,H Davids,T de Zorzi,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.4,Titans,H Davids,T de Zorzi,DM Dupavillon,1,0,,,,,,"",""
+ball,2,1.5,Titans,T de Zorzi,H Davids,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.6,Titans,T de Zorzi,H Davids,DM Dupavillon,0,0,,,,,,"",""
+ball,2,2.1,Titans,H Davids,T de Zorzi,R Frylinck,2,0,,,,,,"",""
+ball,2,2.2,Titans,H Davids,T de Zorzi,R Frylinck,1,0,,,,,,"",""
+ball,2,2.3,Titans,T de Zorzi,H Davids,R Frylinck,0,0,,,,,,"",""
+ball,2,2.4,Titans,T de Zorzi,H Davids,R Frylinck,0,0,,,,,,"",""
+ball,2,2.5,Titans,T de Zorzi,H Davids,R Frylinck,1,0,,,,,,"",""
+ball,2,2.6,Titans,H Davids,T de Zorzi,R Frylinck,4,0,,,,,,"",""
+ball,2,3.1,Titans,T de Zorzi,H Davids,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,3.2,Titans,H Davids,T de Zorzi,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,3.3,Titans,T de Zorzi,H Davids,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,3.4,Titans,H Davids,T de Zorzi,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,3.5,Titans,H Davids,T de Zorzi,AL Phehlukwayo,6,0,,,,,,"",""
+ball,2,3.6,Titans,H Davids,T de Zorzi,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,4.1,Titans,H Davids,T de Zorzi,DM Dupavillon,0,0,,,,,,"",""
+ball,2,4.2,Titans,H Davids,T de Zorzi,DM Dupavillon,1,0,,,,,,"",""
+ball,2,4.3,Titans,T de Zorzi,H Davids,DM Dupavillon,4,0,,,,,,"",""
+ball,2,4.4,Titans,T de Zorzi,H Davids,DM Dupavillon,1,0,,,,,,"",""
+ball,2,4.5,Titans,H Davids,T de Zorzi,DM Dupavillon,0,0,,,,,,"",""
+ball,2,4.6,Titans,H Davids,T de Zorzi,DM Dupavillon,1,0,,,,,,"",""
+ball,2,5.1,Titans,H Davids,T de Zorzi,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,5.2,Titans,T de Zorzi,H Davids,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,5.3,Titans,H Davids,T de Zorzi,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,5.4,Titans,H Davids,T de Zorzi,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,5.5,Titans,H Davids,T de Zorzi,AL Phehlukwayo,2,0,,,,,,"",""
+ball,2,5.6,Titans,H Davids,T de Zorzi,AL Phehlukwayo,4,0,,,,,,"",""
+ball,2,6.1,Titans,T de Zorzi,H Davids,P Subrayen,2,0,,,,,,"",""
+ball,2,6.2,Titans,T de Zorzi,H Davids,P Subrayen,1,0,,,,,,"",""
+ball,2,6.3,Titans,H Davids,T de Zorzi,P Subrayen,0,0,,,,,,"",""
+ball,2,6.4,Titans,H Davids,T de Zorzi,P Subrayen,1,0,,,,,,"",""
+ball,2,6.5,Titans,T de Zorzi,H Davids,P Subrayen,2,0,,,,,,"",""
+ball,2,6.6,Titans,T de Zorzi,H Davids,P Subrayen,2,0,,,,,,"",""
+ball,2,7.1,Titans,H Davids,T de Zorzi,KA Maharaj,1,0,,,,,,"",""
+ball,2,7.2,Titans,T de Zorzi,H Davids,KA Maharaj,1,0,,,,,,"",""
+ball,2,7.3,Titans,H Davids,T de Zorzi,KA Maharaj,6,0,,,,,,"",""
+ball,2,7.4,Titans,H Davids,T de Zorzi,KA Maharaj,4,0,,,,,,"",""
+ball,2,7.5,Titans,H Davids,T de Zorzi,KA Maharaj,1,0,,,,,,"",""
+ball,2,7.6,Titans,T de Zorzi,H Davids,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.1,Titans,T de Zorzi,H Davids,P Subrayen,2,0,,,,,,"",""
+ball,2,8.2,Titans,T de Zorzi,H Davids,P Subrayen,0,0,,,,,,caught,T de Zorzi
+ball,2,8.3,Titans,H Davids,TB de Bruyn,P Subrayen,1,0,,,,,,"",""
+ball,2,8.4,Titans,TB de Bruyn,H Davids,P Subrayen,0,4,,,4,,,"",""
+ball,2,8.5,Titans,TB de Bruyn,H Davids,P Subrayen,0,0,,,,,,"",""
+ball,2,8.6,Titans,TB de Bruyn,H Davids,P Subrayen,1,0,,,,,,"",""
+ball,2,9.1,Titans,TB de Bruyn,H Davids,KA Maharaj,1,0,,,,,,"",""
+ball,2,9.2,Titans,H Davids,TB de Bruyn,KA Maharaj,1,0,,,,,,"",""
+ball,2,9.3,Titans,TB de Bruyn,H Davids,KA Maharaj,2,0,,,,,,"",""
+ball,2,9.4,Titans,TB de Bruyn,H Davids,KA Maharaj,6,0,,,,,,"",""
+ball,2,9.5,Titans,TB de Bruyn,H Davids,KA Maharaj,1,0,,,,,,"",""
+ball,2,9.6,Titans,H Davids,TB de Bruyn,KA Maharaj,1,0,,,,,,"",""
+ball,2,10.1,Titans,H Davids,TB de Bruyn,P Subrayen,0,0,,,,,,caught,H Davids
+ball,2,10.2,Titans,TB de Bruyn,JD Vandiar,P Subrayen,2,0,,,,,,"",""
+ball,2,10.3,Titans,TB de Bruyn,JD Vandiar,P Subrayen,0,0,,,,,,"",""
+ball,2,10.4,Titans,TB de Bruyn,JD Vandiar,P Subrayen,1,0,,,,,,"",""
+ball,2,10.5,Titans,JD Vandiar,TB de Bruyn,P Subrayen,1,0,,,,,,"",""
+ball,2,10.6,Titans,TB de Bruyn,JD Vandiar,P Subrayen,4,0,,,,,,"",""
+ball,2,11.1,Titans,JD Vandiar,TB de Bruyn,KA Maharaj,1,0,,,,,,"",""
+ball,2,11.2,Titans,TB de Bruyn,JD Vandiar,KA Maharaj,1,0,,,,,,"",""
+ball,2,11.3,Titans,JD Vandiar,TB de Bruyn,KA Maharaj,4,0,,,,,,"",""
+ball,2,11.4,Titans,JD Vandiar,TB de Bruyn,KA Maharaj,0,0,,,,,,"",""
+ball,2,11.5,Titans,JD Vandiar,TB de Bruyn,KA Maharaj,2,0,,,,,,"",""
+ball,2,11.6,Titans,JD Vandiar,TB de Bruyn,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.1,Titans,JD Vandiar,TB de Bruyn,BS Makhanya,1,0,,,,,,"",""
+ball,2,12.2,Titans,TB de Bruyn,JD Vandiar,BS Makhanya,4,0,,,,,,"",""
+ball,2,12.3,Titans,TB de Bruyn,JD Vandiar,BS Makhanya,0,0,,,,,,"",""
+ball,2,12.4,Titans,TB de Bruyn,JD Vandiar,BS Makhanya,0,0,,,,,,"",""
+ball,2,12.5,Titans,TB de Bruyn,JD Vandiar,BS Makhanya,1,0,,,,,,"",""
+ball,2,12.6,Titans,JD Vandiar,TB de Bruyn,BS Makhanya,1,0,,,,,,"",""
+ball,2,13.1,Titans,JD Vandiar,TB de Bruyn,DM Dupavillon,2,0,,,,,,"",""
+ball,2,13.2,Titans,JD Vandiar,TB de Bruyn,DM Dupavillon,1,0,,,,,,"",""
+ball,2,13.3,Titans,TB de Bruyn,JD Vandiar,DM Dupavillon,4,0,,,,,,"",""
+ball,2,13.4,Titans,TB de Bruyn,JD Vandiar,DM Dupavillon,4,0,,,,,,"",""
+ball,2,13.5,Titans,TB de Bruyn,JD Vandiar,DM Dupavillon,1,0,,,,,,"",""
+ball,2,13.6,Titans,JD Vandiar,TB de Bruyn,DM Dupavillon,1,0,,,,,,"",""
+ball,2,14.1,Titans,JD Vandiar,TB de Bruyn,P Subrayen,4,0,,,,,,"",""
+ball,2,14.2,Titans,JD Vandiar,TB de Bruyn,P Subrayen,0,0,,,,,,"",""
+ball,2,14.3,Titans,JD Vandiar,TB de Bruyn,P Subrayen,1,0,,,,,,"",""
+ball,2,14.4,Titans,TB de Bruyn,JD Vandiar,P Subrayen,1,0,,,,,,"",""
+ball,2,14.5,Titans,JD Vandiar,TB de Bruyn,P Subrayen,0,1,,,1,,,"",""
+ball,2,14.6,Titans,TB de Bruyn,JD Vandiar,P Subrayen,2,0,,,,,,"",""
+ball,2,15.1,Titans,JD Vandiar,TB de Bruyn,BS Makhanya,1,0,,,,,,"",""
+ball,2,15.2,Titans,TB de Bruyn,JD Vandiar,BS Makhanya,6,0,,,,,,"",""
+ball,2,15.3,Titans,TB de Bruyn,JD Vandiar,BS Makhanya,1,0,,,,,,"",""
+ball,2,15.4,Titans,JD Vandiar,TB de Bruyn,BS Makhanya,1,0,,,,,,"",""
+ball,2,15.5,Titans,TB de Bruyn,JD Vandiar,BS Makhanya,6,0,,,,,,"",""
+ball,2,15.6,Titans,TB de Bruyn,JD Vandiar,BS Makhanya,0,1,1,,,,,"",""
+ball,2,15.7,Titans,TB de Bruyn,JD Vandiar,BS Makhanya,6,0,,,,,,"",""
+ball,2,16.1,Titans,JD Vandiar,TB de Bruyn,R Frylinck,4,0,,,,,,"",""
+ball,2,16.2,Titans,JD Vandiar,TB de Bruyn,R Frylinck,1,0,,,,,,"",""
+ball,2,16.3,Titans,TB de Bruyn,JD Vandiar,R Frylinck,2,0,,,,,,"",""
+ball,2,16.4,Titans,TB de Bruyn,JD Vandiar,R Frylinck,1,0,,,,,,"",""
+ball,2,16.5,Titans,JD Vandiar,TB de Bruyn,R Frylinck,2,0,,,,,,"",""
+ball,2,16.6,Titans,JD Vandiar,TB de Bruyn,R Frylinck,0,1,1,,,,,"",""
+ball,2,16.7,Titans,JD Vandiar,TB de Bruyn,R Frylinck,1,0,,,,,,"",""
+ball,2,17.1,Titans,JD Vandiar,TB de Bruyn,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,17.2,Titans,TB de Bruyn,JD Vandiar,AL Phehlukwayo,6,0,,,,,,"",""
+ball,2,17.3,Titans,TB de Bruyn,JD Vandiar,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,17.4,Titans,JD Vandiar,TB de Bruyn,AL Phehlukwayo,4,0,,,,,,"",""
+ball,2,17.5,Titans,JD Vandiar,TB de Bruyn,AL Phehlukwayo,2,0,,,,,,"",""
+ball,2,17.6,Titans,JD Vandiar,TB de Bruyn,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,18.1,Titans,JD Vandiar,TB de Bruyn,R Frylinck,1,0,,,,,,"",""
+ball,2,18.2,Titans,TB de Bruyn,JD Vandiar,R Frylinck,2,0,,,,,,"",""
+ball,2,18.3,Titans,TB de Bruyn,JD Vandiar,R Frylinck,4,0,,,,,,"",""
+ball,2,18.4,Titans,TB de Bruyn,JD Vandiar,R Frylinck,1,0,,,,,,"",""
+ball,2,18.5,Titans,JD Vandiar,TB de Bruyn,R Frylinck,6,0,,,,,,"",""

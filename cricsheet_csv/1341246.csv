@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Northern Districts
+info,gender,female
+info,season,2022/23
+info,date,2023/01/22
+info,event,Women's Super Smash
+info,match_number,21
+info,venue,"Bay Oval, Mount Maunganui"
+info,city,Mount Maunganui
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,CM Brown
+info,umpire,C High
+info,reserve_umpire,BF Bowden
+info,tv_umpire,ED Sanders
+info,match_referee,GB Troup
+info,winner,Auckland
+info,winner_runs,3
+info,player,Auckland,S Shahri
+info,player,Auckland,P Catton
+info,player,Auckland,BG Armstrong
+info,player,Auckland,LR Down
+info,player,Auckland,KT Perkins
+info,player,Auckland,AN Kelly
+info,player,Auckland,HR Huddleston
+info,player,Auckland,AT Hucker
+info,player,Auckland,MM Penfold
+info,player,Auckland,SJ Carnachan
+info,player,Auckland,MB Templeton
+info,player,Northern Districts,B Bezuidenhout
+info,player,Northern Districts,EAJ Richardson
+info,player,Northern Districts,BM Halliday
+info,player,Northern Districts,SRH Curtis
+info,player,Northern Districts,NH Patel
+info,player,Northern Districts,A Wellington
+info,player,Northern Districts,MW Downes
+info,player,Northern Districts,C Agafili
+info,player,Northern Districts,MBA Lamplough
+info,player,Northern Districts,LF Boucher
+info,player,Northern Districts,PC Graham
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AN Kelly,397369e0
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,B Bezuidenhout,564afdcf
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Armstrong,eca08a1d
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,C Agafili,b9bb76c8
+info,registry,people,C High,ed55e0da
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,ED Sanders,25c6d6af
+info,registry,people,GB Troup,94f0e744
+info,registry,people,HR Huddleston,8d6b36e3
+info,registry,people,KT Perkins,78ad3258
+info,registry,people,LF Boucher,51afe432
+info,registry,people,LR Down,19147fe0
+info,registry,people,MB Templeton,e1504909
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,MW Downes,d8e8179f
+info,registry,people,NH Patel,d945db3e
+info,registry,people,P Catton,22e8ba50
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,S Shahri,c28355cd
+info,registry,people,SJ Carnachan,3b67e117
+info,registry,people,SRH Curtis,aa89a853
+ball,1,0.1,Auckland,S Shahri,P Catton,NH Patel,0,1,,,,1,,"",""
+ball,1,0.2,Auckland,P Catton,S Shahri,NH Patel,3,0,,,,,,"",""
+ball,1,0.3,Auckland,S Shahri,P Catton,NH Patel,0,0,,,,,,"",""
+ball,1,0.4,Auckland,S Shahri,P Catton,NH Patel,0,0,,,,,,"",""
+ball,1,0.5,Auckland,S Shahri,P Catton,NH Patel,1,0,,,,,,"",""
+ball,1,0.6,Auckland,P Catton,S Shahri,NH Patel,2,0,,,,,,"",""
+ball,1,1.1,Auckland,S Shahri,P Catton,LF Boucher,0,0,,,,,,"",""
+ball,1,1.2,Auckland,S Shahri,P Catton,LF Boucher,0,1,1,,,,,"",""
+ball,1,1.3,Auckland,S Shahri,P Catton,LF Boucher,0,0,,,,,,"",""
+ball,1,1.4,Auckland,S Shahri,P Catton,LF Boucher,0,0,,,,,,"",""
+ball,1,1.5,Auckland,S Shahri,P Catton,LF Boucher,0,0,,,,,,caught,S Shahri
+ball,1,1.6,Auckland,BG Armstrong,P Catton,LF Boucher,0,0,,,,,,"",""
+ball,1,1.7,Auckland,BG Armstrong,P Catton,LF Boucher,1,0,,,,,,"",""
+ball,1,2.1,Auckland,BG Armstrong,P Catton,PC Graham,1,0,,,,,,"",""
+ball,1,2.2,Auckland,P Catton,BG Armstrong,PC Graham,0,0,,,,,,bowled,P Catton
+ball,1,2.3,Auckland,LR Down,BG Armstrong,PC Graham,0,1,1,,,,,"",""
+ball,1,2.4,Auckland,LR Down,BG Armstrong,PC Graham,1,0,,,,,,"",""
+ball,1,2.5,Auckland,BG Armstrong,LR Down,PC Graham,0,0,,,,,,caught,BG Armstrong
+ball,1,2.6,Auckland,KT Perkins,LR Down,PC Graham,0,0,,,,,,"",""
+ball,1,2.7,Auckland,KT Perkins,LR Down,PC Graham,0,1,1,,,,,"",""
+ball,1,2.8,Auckland,KT Perkins,LR Down,PC Graham,1,0,,,,,,"",""
+ball,1,3.1,Auckland,KT Perkins,LR Down,LF Boucher,0,0,,,,,,"",""
+ball,1,3.2,Auckland,KT Perkins,LR Down,LF Boucher,3,0,,,,,,"",""
+ball,1,3.3,Auckland,LR Down,KT Perkins,LF Boucher,0,0,,,,,,"",""
+ball,1,3.4,Auckland,LR Down,KT Perkins,LF Boucher,0,0,,,,,,"",""
+ball,1,3.5,Auckland,LR Down,KT Perkins,LF Boucher,0,0,,,,,,"",""
+ball,1,3.6,Auckland,LR Down,KT Perkins,LF Boucher,0,0,,,,,,"",""
+ball,1,4.1,Auckland,KT Perkins,LR Down,PC Graham,1,0,,,,,,"",""
+ball,1,4.2,Auckland,LR Down,KT Perkins,PC Graham,0,0,,,,,,"",""
+ball,1,4.3,Auckland,LR Down,KT Perkins,PC Graham,0,0,,,,,,"",""
+ball,1,4.4,Auckland,LR Down,KT Perkins,PC Graham,1,0,,,,,,"",""
+ball,1,4.5,Auckland,KT Perkins,LR Down,PC Graham,0,1,1,,,,,"",""
+ball,1,4.6,Auckland,KT Perkins,LR Down,PC Graham,1,0,,,,,,"",""
+ball,1,4.7,Auckland,LR Down,KT Perkins,PC Graham,0,0,,,,,,"",""
+ball,1,5.1,Auckland,KT Perkins,LR Down,LF Boucher,0,0,,,,,,"",""
+ball,1,5.2,Auckland,KT Perkins,LR Down,LF Boucher,1,0,,,,,,"",""
+ball,1,5.3,Auckland,LR Down,KT Perkins,LF Boucher,0,0,,,,,,"",""
+ball,1,5.4,Auckland,LR Down,KT Perkins,LF Boucher,0,0,,,,,,"",""
+ball,1,5.5,Auckland,LR Down,KT Perkins,LF Boucher,0,0,,,,,,"",""
+ball,1,5.6,Auckland,LR Down,KT Perkins,LF Boucher,1,0,,,,,,"",""
+ball,1,6.1,Auckland,LR Down,KT Perkins,BM Halliday,0,0,,,,,,"",""
+ball,1,6.2,Auckland,LR Down,KT Perkins,BM Halliday,0,0,,,,,,caught,LR Down
+ball,1,6.3,Auckland,AN Kelly,KT Perkins,BM Halliday,0,1,1,,,,,"",""
+ball,1,6.4,Auckland,AN Kelly,KT Perkins,BM Halliday,0,1,1,,,,,"",""
+ball,1,6.5,Auckland,AN Kelly,KT Perkins,BM Halliday,0,0,,,,,,caught,AN Kelly
+ball,1,6.6,Auckland,HR Huddleston,KT Perkins,BM Halliday,0,0,,,,,,"",""
+ball,1,6.7,Auckland,HR Huddleston,KT Perkins,BM Halliday,0,1,1,,,,,"",""
+ball,1,6.8,Auckland,HR Huddleston,KT Perkins,BM Halliday,0,0,,,,,,"",""
+ball,1,6.9,Auckland,HR Huddleston,KT Perkins,BM Halliday,0,1,1,,,,,"",""
+ball,1,6.10,Auckland,HR Huddleston,KT Perkins,BM Halliday,0,0,,,,,,"",""
+ball,1,7.1,Auckland,KT Perkins,HR Huddleston,LF Boucher,0,0,,,,,,"",""
+ball,1,7.2,Auckland,KT Perkins,HR Huddleston,LF Boucher,1,0,,,,,,"",""
+ball,1,7.3,Auckland,HR Huddleston,KT Perkins,LF Boucher,0,0,,,,,,"",""
+ball,1,7.4,Auckland,HR Huddleston,KT Perkins,LF Boucher,2,0,,,,,,"",""
+ball,1,7.5,Auckland,HR Huddleston,KT Perkins,LF Boucher,0,1,1,,,,,"",""
+ball,1,7.6,Auckland,HR Huddleston,KT Perkins,LF Boucher,0,0,,,,,,caught,HR Huddleston
+ball,1,7.7,Auckland,AT Hucker,KT Perkins,LF Boucher,0,0,,,,,,"",""
+ball,1,8.1,Auckland,KT Perkins,AT Hucker,BM Halliday,4,0,,,,,,"",""
+ball,1,8.2,Auckland,KT Perkins,AT Hucker,BM Halliday,4,0,,,,,,"",""
+ball,1,8.3,Auckland,KT Perkins,AT Hucker,BM Halliday,0,0,,,,,,"",""
+ball,1,8.4,Auckland,KT Perkins,AT Hucker,BM Halliday,0,0,,,,,,"",""
+ball,1,8.5,Auckland,KT Perkins,AT Hucker,BM Halliday,1,0,,,,,,"",""
+ball,1,8.6,Auckland,AT Hucker,KT Perkins,BM Halliday,0,0,,,,,,"",""
+ball,1,9.1,Auckland,KT Perkins,AT Hucker,A Wellington,1,0,,,,,,"",""
+ball,1,9.2,Auckland,AT Hucker,KT Perkins,A Wellington,2,0,,,,,,"",""
+ball,1,9.3,Auckland,AT Hucker,KT Perkins,A Wellington,0,0,,,,,,"",""
+ball,1,9.4,Auckland,AT Hucker,KT Perkins,A Wellington,1,0,,,,,,"",""
+ball,1,9.5,Auckland,KT Perkins,AT Hucker,A Wellington,1,0,,,,,,"",""
+ball,1,9.6,Auckland,AT Hucker,KT Perkins,A Wellington,1,0,,,,,,"",""
+ball,1,10.1,Auckland,AT Hucker,KT Perkins,EAJ Richardson,0,0,,,,,,"",""
+ball,1,10.2,Auckland,AT Hucker,KT Perkins,EAJ Richardson,0,0,,,,,,"",""
+ball,1,10.3,Auckland,AT Hucker,KT Perkins,EAJ Richardson,2,0,,,,,,"",""
+ball,1,10.4,Auckland,AT Hucker,KT Perkins,EAJ Richardson,0,0,,,,,,"",""
+ball,1,10.5,Auckland,AT Hucker,KT Perkins,EAJ Richardson,0,0,,,,,,"",""
+ball,1,10.6,Auckland,AT Hucker,KT Perkins,EAJ Richardson,0,0,,,,,,"",""
+ball,1,11.1,Auckland,KT Perkins,AT Hucker,A Wellington,1,0,,,,,,"",""
+ball,1,11.2,Auckland,AT Hucker,KT Perkins,A Wellington,0,0,,,,,,"",""
+ball,1,11.3,Auckland,AT Hucker,KT Perkins,A Wellington,0,1,1,,,,,"",""
+ball,1,11.4,Auckland,AT Hucker,KT Perkins,A Wellington,2,0,,,,,,"",""
+ball,1,11.5,Auckland,AT Hucker,KT Perkins,A Wellington,0,1,1,,,,,"",""
+ball,1,11.6,Auckland,AT Hucker,KT Perkins,A Wellington,0,0,,,,,,"",""
+ball,1,11.7,Auckland,AT Hucker,KT Perkins,A Wellington,3,0,,,,,,"",""
+ball,1,11.8,Auckland,KT Perkins,AT Hucker,A Wellington,0,0,,,,,,"",""
+ball,1,12.1,Auckland,AT Hucker,KT Perkins,NH Patel,3,0,,,,,,"",""
+ball,1,12.2,Auckland,KT Perkins,AT Hucker,NH Patel,0,0,,,,,,"",""
+ball,1,12.3,Auckland,KT Perkins,AT Hucker,NH Patel,1,0,,,,,,"",""
+ball,1,12.4,Auckland,AT Hucker,KT Perkins,NH Patel,0,0,,,,,,"",""
+ball,1,12.5,Auckland,AT Hucker,KT Perkins,NH Patel,1,0,,,,,,"",""
+ball,1,12.6,Auckland,KT Perkins,AT Hucker,NH Patel,1,0,,,,,,"",""
+ball,1,13.1,Auckland,KT Perkins,AT Hucker,MW Downes,0,0,,,,,,"",""
+ball,1,13.2,Auckland,KT Perkins,AT Hucker,MW Downes,1,0,,,,,,"",""
+ball,1,13.3,Auckland,AT Hucker,KT Perkins,MW Downes,0,0,,,,,,"",""
+ball,1,13.4,Auckland,AT Hucker,KT Perkins,MW Downes,0,0,,,,,,"",""
+ball,1,13.5,Auckland,AT Hucker,KT Perkins,MW Downes,1,0,,,,,,"",""
+ball,1,13.6,Auckland,KT Perkins,AT Hucker,MW Downes,0,0,,,,,,"",""
+ball,1,14.1,Auckland,AT Hucker,KT Perkins,PC Graham,1,0,,,,,,"",""
+ball,1,14.2,Auckland,KT Perkins,AT Hucker,PC Graham,0,0,,,,,,"",""
+ball,1,14.3,Auckland,KT Perkins,AT Hucker,PC Graham,0,0,,,,,,"",""
+ball,1,14.4,Auckland,KT Perkins,AT Hucker,PC Graham,0,0,,,,,,caught,KT Perkins
+ball,1,14.5,Auckland,MM Penfold,AT Hucker,PC Graham,0,0,,,,,,"",""
+ball,1,14.6,Auckland,MM Penfold,AT Hucker,PC Graham,1,0,,,,,,"",""
+ball,1,15.1,Auckland,MM Penfold,AT Hucker,MW Downes,0,0,,,,,,"",""
+ball,1,15.2,Auckland,MM Penfold,AT Hucker,MW Downes,0,0,,,,,,caught,MM Penfold
+ball,1,15.3,Auckland,SJ Carnachan,AT Hucker,MW Downes,0,0,,,,,,"",""
+ball,1,15.4,Auckland,SJ Carnachan,AT Hucker,MW Downes,0,0,,,,,,"",""
+ball,1,15.5,Auckland,SJ Carnachan,AT Hucker,MW Downes,0,0,,,,,,"",""
+ball,1,15.6,Auckland,SJ Carnachan,AT Hucker,MW Downes,0,0,,,,,,"",""
+ball,1,16.1,Auckland,AT Hucker,SJ Carnachan,NH Patel,0,0,,,,,,"",""
+ball,1,16.2,Auckland,AT Hucker,SJ Carnachan,NH Patel,2,0,,,,,,"",""
+ball,1,16.3,Auckland,AT Hucker,SJ Carnachan,NH Patel,2,0,,,,,,"",""
+ball,1,16.4,Auckland,AT Hucker,SJ Carnachan,NH Patel,1,0,,,,,,"",""
+ball,1,16.5,Auckland,SJ Carnachan,AT Hucker,NH Patel,0,0,,,,,,caught and bowled,SJ Carnachan
+ball,1,16.6,Auckland,MB Templeton,AT Hucker,NH Patel,0,0,,,,,,"",""
+ball,1,17.1,Auckland,AT Hucker,MB Templeton,A Wellington,0,0,,,,,,"",""
+ball,1,17.2,Auckland,AT Hucker,MB Templeton,A Wellington,0,0,,,,,,"",""
+ball,1,17.3,Auckland,AT Hucker,MB Templeton,A Wellington,0,0,,,,,,"",""
+ball,1,17.4,Auckland,AT Hucker,MB Templeton,A Wellington,0,4,,,4,,,"",""
+ball,1,17.5,Auckland,AT Hucker,MB Templeton,A Wellington,0,0,,,,,,"",""
+ball,1,17.6,Auckland,AT Hucker,MB Templeton,A Wellington,0,0,,,,,,"",""
+ball,1,18.1,Auckland,MB Templeton,AT Hucker,NH Patel,1,0,,,,,,"",""
+ball,1,18.2,Auckland,AT Hucker,MB Templeton,NH Patel,0,0,,,,,,"",""
+ball,1,18.3,Auckland,AT Hucker,MB Templeton,NH Patel,2,0,,,,,,"",""
+ball,1,18.4,Auckland,AT Hucker,MB Templeton,NH Patel,1,0,,,,,,"",""
+ball,1,18.5,Auckland,MB Templeton,AT Hucker,NH Patel,1,0,,,,,,"",""
+ball,1,18.6,Auckland,AT Hucker,MB Templeton,NH Patel,2,0,,,,,,"",""
+ball,1,19.1,Auckland,MB Templeton,AT Hucker,A Wellington,1,0,,,,,,"",""
+ball,1,19.2,Auckland,AT Hucker,MB Templeton,A Wellington,0,0,,,,,,"",""
+ball,1,19.3,Auckland,AT Hucker,MB Templeton,A Wellington,4,0,,,,,,"",""
+ball,1,19.4,Auckland,AT Hucker,MB Templeton,A Wellington,1,0,,,,,,"",""
+ball,1,19.5,Auckland,MB Templeton,AT Hucker,A Wellington,4,0,,,,,,"",""
+ball,1,19.6,Auckland,MB Templeton,AT Hucker,A Wellington,0,0,,,,,,run out,MB Templeton
+ball,2,0.1,Northern Districts,B Bezuidenhout,EAJ Richardson,AN Kelly,0,0,,,,,,"",""
+ball,2,0.2,Northern Districts,B Bezuidenhout,EAJ Richardson,AN Kelly,0,0,,,,,,"",""
+ball,2,0.3,Northern Districts,B Bezuidenhout,EAJ Richardson,AN Kelly,2,0,,,,,,"",""
+ball,2,0.4,Northern Districts,B Bezuidenhout,EAJ Richardson,AN Kelly,1,0,,,,,,"",""
+ball,2,0.5,Northern Districts,EAJ Richardson,B Bezuidenhout,AN Kelly,1,0,,,,,,"",""
+ball,2,0.6,Northern Districts,B Bezuidenhout,EAJ Richardson,AN Kelly,0,0,,,,,,caught,B Bezuidenhout
+ball,2,1.1,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,0,0,,,,,,"",""
+ball,2,1.2,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,0,0,,,,,,"",""
+ball,2,1.3,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,0,0,,,,,,"",""
+ball,2,1.4,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,2,0,,,,,,"",""
+ball,2,1.5,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,0,0,,,,,,"",""
+ball,2,1.6,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,0,0,,,,,,"",""
+ball,2,2.1,Northern Districts,BM Halliday,EAJ Richardson,AN Kelly,2,0,,,,,,"",""
+ball,2,2.2,Northern Districts,BM Halliday,EAJ Richardson,AN Kelly,0,0,,,,,,"",""
+ball,2,2.3,Northern Districts,BM Halliday,EAJ Richardson,AN Kelly,4,0,,,,,,"",""
+ball,2,2.4,Northern Districts,BM Halliday,EAJ Richardson,AN Kelly,0,1,1,,,,,"",""
+ball,2,2.5,Northern Districts,BM Halliday,EAJ Richardson,AN Kelly,0,0,,,,,,"",""
+ball,2,2.6,Northern Districts,BM Halliday,EAJ Richardson,AN Kelly,0,0,,,,,,"",""
+ball,2,2.7,Northern Districts,BM Halliday,EAJ Richardson,AN Kelly,0,0,,,,,,"",""
+ball,2,3.1,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,0,0,,,,,,"",""
+ball,2,3.2,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,2,0,,,,,,"",""
+ball,2,3.3,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,0,0,,,,,,"",""
+ball,2,3.4,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,2,0,,,,,,"",""
+ball,2,3.5,Northern Districts,EAJ Richardson,BM Halliday,HR Huddleston,0,0,,,,,,lbw,EAJ Richardson
+ball,2,3.6,Northern Districts,SRH Curtis,BM Halliday,HR Huddleston,0,0,,,,,,"",""
+ball,2,4.1,Northern Districts,BM Halliday,SRH Curtis,AT Hucker,0,1,1,,,,,"",""
+ball,2,4.2,Northern Districts,BM Halliday,SRH Curtis,AT Hucker,4,0,,,,,,"",""
+ball,2,4.3,Northern Districts,BM Halliday,SRH Curtis,AT Hucker,0,0,,,,,,bowled,BM Halliday
+ball,2,4.4,Northern Districts,NH Patel,SRH Curtis,AT Hucker,0,0,,,,,,"",""
+ball,2,4.5,Northern Districts,NH Patel,SRH Curtis,AT Hucker,3,0,,,,,,"",""
+ball,2,4.6,Northern Districts,SRH Curtis,NH Patel,AT Hucker,4,0,,,,,,"",""
+ball,2,4.7,Northern Districts,SRH Curtis,NH Patel,AT Hucker,2,0,,,,,,"",""
+ball,2,5.1,Northern Districts,NH Patel,SRH Curtis,HR Huddleston,0,0,,,,,,"",""
+ball,2,5.2,Northern Districts,NH Patel,SRH Curtis,HR Huddleston,4,0,,,,,,"",""
+ball,2,5.3,Northern Districts,NH Patel,SRH Curtis,HR Huddleston,0,0,,,,,,"",""
+ball,2,5.4,Northern Districts,NH Patel,SRH Curtis,HR Huddleston,0,0,,,,,,"",""
+ball,2,5.5,Northern Districts,NH Patel,SRH Curtis,HR Huddleston,0,0,,,,,,"",""
+ball,2,5.6,Northern Districts,NH Patel,SRH Curtis,HR Huddleston,0,0,,,,,,caught,NH Patel
+ball,2,6.1,Northern Districts,SRH Curtis,A Wellington,AN Kelly,0,0,,,,,,"",""
+ball,2,6.2,Northern Districts,SRH Curtis,A Wellington,AN Kelly,0,0,,,,,,"",""
+ball,2,6.3,Northern Districts,SRH Curtis,A Wellington,AN Kelly,0,0,,,,,,"",""
+ball,2,6.4,Northern Districts,SRH Curtis,A Wellington,AN Kelly,4,0,,,,,,"",""
+ball,2,6.5,Northern Districts,SRH Curtis,A Wellington,AN Kelly,1,0,,,,,,"",""
+ball,2,6.6,Northern Districts,A Wellington,SRH Curtis,AN Kelly,0,0,,,,,,"",""
+ball,2,7.1,Northern Districts,SRH Curtis,A Wellington,HR Huddleston,0,0,,,,,,"",""
+ball,2,7.2,Northern Districts,SRH Curtis,A Wellington,HR Huddleston,0,0,,,,,,"",""
+ball,2,7.3,Northern Districts,SRH Curtis,A Wellington,HR Huddleston,0,0,,,,,,"",""
+ball,2,7.4,Northern Districts,SRH Curtis,A Wellington,HR Huddleston,0,0,,,,,,"",""
+ball,2,7.5,Northern Districts,SRH Curtis,A Wellington,HR Huddleston,0,0,,,,,,"",""
+ball,2,7.6,Northern Districts,SRH Curtis,A Wellington,HR Huddleston,0,0,,,,,,"",""
+ball,2,8.1,Northern Districts,A Wellington,SRH Curtis,MM Penfold,0,1,1,,,,,"",""
+ball,2,8.2,Northern Districts,A Wellington,SRH Curtis,MM Penfold,0,0,,,,,,"",""
+ball,2,8.3,Northern Districts,A Wellington,SRH Curtis,MM Penfold,1,0,,,,,,"",""
+ball,2,8.4,Northern Districts,SRH Curtis,A Wellington,MM Penfold,0,0,,,,,,"",""
+ball,2,8.5,Northern Districts,SRH Curtis,A Wellington,MM Penfold,1,0,,,,,,"",""
+ball,2,8.6,Northern Districts,A Wellington,SRH Curtis,MM Penfold,0,0,,,,,,"",""
+ball,2,8.7,Northern Districts,A Wellington,SRH Curtis,MM Penfold,0,0,,,,,,"",""
+ball,2,9.1,Northern Districts,SRH Curtis,A Wellington,AT Hucker,3,0,,,,,,"",""
+ball,2,9.2,Northern Districts,A Wellington,SRH Curtis,AT Hucker,1,0,,,,,,"",""
+ball,2,9.3,Northern Districts,SRH Curtis,A Wellington,AT Hucker,1,0,,,,,,"",""
+ball,2,9.4,Northern Districts,A Wellington,SRH Curtis,AT Hucker,0,0,,,,,,"",""
+ball,2,9.5,Northern Districts,A Wellington,SRH Curtis,AT Hucker,0,0,,,,,,"",""
+ball,2,9.6,Northern Districts,A Wellington,SRH Curtis,AT Hucker,1,0,,,,,,"",""
+ball,2,10.1,Northern Districts,A Wellington,SRH Curtis,MB Templeton,1,0,,,,,,"",""
+ball,2,10.2,Northern Districts,SRH Curtis,A Wellington,MB Templeton,0,0,,,,,,caught,SRH Curtis
+ball,2,10.3,Northern Districts,MW Downes,A Wellington,MB Templeton,1,0,,,,,,"",""
+ball,2,10.4,Northern Districts,A Wellington,MW Downes,MB Templeton,0,0,,,,,,"",""
+ball,2,10.5,Northern Districts,A Wellington,MW Downes,MB Templeton,1,0,,,,,,"",""
+ball,2,10.6,Northern Districts,MW Downes,A Wellington,MB Templeton,0,0,,,,,,"",""
+ball,2,11.1,Northern Districts,A Wellington,MW Downes,MM Penfold,0,1,1,,,,,"",""
+ball,2,11.2,Northern Districts,A Wellington,MW Downes,MM Penfold,4,0,,,,,,"",""
+ball,2,11.3,Northern Districts,A Wellington,MW Downes,MM Penfold,1,0,,,,,,"",""
+ball,2,11.4,Northern Districts,MW Downes,A Wellington,MM Penfold,0,1,1,,,,,"",""
+ball,2,11.5,Northern Districts,MW Downes,A Wellington,MM Penfold,2,0,,,,,,"",""
+ball,2,11.6,Northern Districts,MW Downes,A Wellington,MM Penfold,1,0,,,,,,"",""
+ball,2,11.7,Northern Districts,A Wellington,MW Downes,MM Penfold,0,0,,,,,,"",""
+ball,2,11.8,Northern Districts,A Wellington,MW Downes,MM Penfold,0,0,,,,,,"",""
+ball,2,12.1,Northern Districts,MW Downes,A Wellington,MB Templeton,2,0,,,,,,"",""
+ball,2,12.2,Northern Districts,MW Downes,A Wellington,MB Templeton,0,0,,,,,,"",""
+ball,2,12.3,Northern Districts,MW Downes,A Wellington,MB Templeton,0,0,,,,,,"",""
+ball,2,12.4,Northern Districts,MW Downes,A Wellington,MB Templeton,0,0,,,,,,"",""
+ball,2,12.5,Northern Districts,MW Downes,A Wellington,MB Templeton,0,0,,,,,,"",""
+ball,2,12.6,Northern Districts,MW Downes,A Wellington,MB Templeton,0,0,,,,,,caught,MW Downes
+ball,2,13.1,Northern Districts,A Wellington,C Agafili,MM Penfold,2,0,,,,,,"",""
+ball,2,13.2,Northern Districts,A Wellington,C Agafili,MM Penfold,0,1,1,,,,,"",""
+ball,2,13.3,Northern Districts,A Wellington,C Agafili,MM Penfold,1,0,,,,,,"",""
+ball,2,13.4,Northern Districts,C Agafili,A Wellington,MM Penfold,0,1,,,,1,,"",""
+ball,2,13.5,Northern Districts,A Wellington,C Agafili,MM Penfold,1,0,,,,,,"",""
+ball,2,13.6,Northern Districts,C Agafili,A Wellington,MM Penfold,1,0,,,,,,"",""
+ball,2,13.7,Northern Districts,A Wellington,C Agafili,MM Penfold,0,0,,,,,,run out,A Wellington
+ball,2,14.1,Northern Districts,MBA Lamplough,C Agafili,MB Templeton,0,0,,,,,,"",""
+ball,2,14.2,Northern Districts,MBA Lamplough,C Agafili,MB Templeton,1,0,,,,,,"",""
+ball,2,14.3,Northern Districts,C Agafili,MBA Lamplough,MB Templeton,4,0,,,,,,"",""
+ball,2,14.4,Northern Districts,C Agafili,MBA Lamplough,MB Templeton,4,0,,,,,,"",""
+ball,2,14.5,Northern Districts,C Agafili,MBA Lamplough,MB Templeton,0,0,,,,,,"",""
+ball,2,14.6,Northern Districts,C Agafili,MBA Lamplough,MB Templeton,0,0,,,,,,"",""
+ball,2,15.1,Northern Districts,MBA Lamplough,C Agafili,AN Kelly,2,0,,,,,,"",""
+ball,2,15.2,Northern Districts,MBA Lamplough,C Agafili,AN Kelly,1,0,,,,,,"",""
+ball,2,15.3,Northern Districts,C Agafili,MBA Lamplough,AN Kelly,0,0,,,,,,"",""
+ball,2,15.4,Northern Districts,C Agafili,MBA Lamplough,AN Kelly,0,0,,,,,,"",""
+ball,2,15.5,Northern Districts,C Agafili,MBA Lamplough,AN Kelly,0,0,,,,,,run out,C Agafili
+ball,2,15.6,Northern Districts,MBA Lamplough,LF Boucher,AN Kelly,4,0,,,,,,"",""
+ball,2,16.1,Northern Districts,LF Boucher,MBA Lamplough,MB Templeton,0,0,,,,,,"",""
+ball,2,16.2,Northern Districts,LF Boucher,MBA Lamplough,MB Templeton,0,0,,,,,,"",""
+ball,2,16.3,Northern Districts,LF Boucher,MBA Lamplough,MB Templeton,0,0,,,,,,"",""
+ball,2,16.4,Northern Districts,LF Boucher,MBA Lamplough,MB Templeton,0,0,,,,,,"",""
+ball,2,16.5,Northern Districts,LF Boucher,MBA Lamplough,MB Templeton,0,0,,,,,,"",""
+ball,2,16.6,Northern Districts,LF Boucher,MBA Lamplough,MB Templeton,1,0,,,,,,"",""
+ball,2,17.1,Northern Districts,LF Boucher,MBA Lamplough,AT Hucker,0,0,,,,,,"",""
+ball,2,17.2,Northern Districts,LF Boucher,MBA Lamplough,AT Hucker,0,1,,,,1,,"",""
+ball,2,17.3,Northern Districts,MBA Lamplough,LF Boucher,AT Hucker,0,0,,,,,,"",""
+ball,2,17.4,Northern Districts,MBA Lamplough,LF Boucher,AT Hucker,0,0,,,,,,"",""
+ball,2,17.5,Northern Districts,MBA Lamplough,LF Boucher,AT Hucker,0,0,,,,,,caught,MBA Lamplough
+ball,2,17.6,Northern Districts,PC Graham,LF Boucher,AT Hucker,0,0,,,,,,"",""
+ball,2,18.1,Northern Districts,LF Boucher,PC Graham,MM Penfold,0,0,,,,,,"",""
+ball,2,18.2,Northern Districts,LF Boucher,PC Graham,MM Penfold,0,0,,,,,,caught,LF Boucher

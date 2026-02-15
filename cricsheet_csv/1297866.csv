@@ -1,0 +1,287 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Middlesex
+info,team,Surrey
+info,gender,male
+info,season,2022
+info,date,2022/06/17
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Surrey
+info,toss_decision,field
+info,player_of_match,SP Narine
+info,umpire,MJ Saggers
+info,umpire,Rob White
+info,tv_umpire,NJ Llong
+info,match_referee,PM Such
+info,winner,Surrey
+info,winner_wickets,7
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,CJ Green
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,TG Helm
+info,player,Middlesex,JP Behrendorff
+info,player,Middlesex,TN Walallawita
+info,player,Surrey,WG Jacks
+info,player,Surrey,JL Smith
+info,player,Surrey,OJ Pope
+info,player,Surrey,LJ Evans
+info,player,Surrey,SP Narine
+info,player,Surrey,KA Pollard
+info,player,Surrey,J Clark
+info,player,Surrey,J Overton
+info,player,Surrey,CJ Jordan
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,DJ Worrall
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JL Smith,c834c290
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,PM Such,c9f1892c
+info,registry,people,Rob White,59b91222
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TN Walallawita,64212089
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Middlesex,SS Eskinazi,MDE Holden,J Clark,2,0,,,,,,"",""
+ball,1,0.2,Middlesex,SS Eskinazi,MDE Holden,J Clark,1,0,,,,,,"",""
+ball,1,0.3,Middlesex,MDE Holden,SS Eskinazi,J Clark,1,0,,,,,,"",""
+ball,1,0.4,Middlesex,SS Eskinazi,MDE Holden,J Clark,1,0,,,,,,"",""
+ball,1,0.5,Middlesex,MDE Holden,SS Eskinazi,J Clark,0,0,,,,,,"",""
+ball,1,0.6,Middlesex,MDE Holden,SS Eskinazi,J Clark,1,0,,,,,,"",""
+ball,1,1.1,Middlesex,MDE Holden,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,1,1.2,Middlesex,SS Eskinazi,MDE Holden,WG Jacks,0,1,,,,1,,"",""
+ball,1,1.3,Middlesex,MDE Holden,SS Eskinazi,WG Jacks,0,0,,,,,,caught,MDE Holden
+ball,1,1.4,Middlesex,JB Cracknell,SS Eskinazi,WG Jacks,0,0,,,,,,"",""
+ball,1,1.5,Middlesex,JB Cracknell,SS Eskinazi,WG Jacks,6,0,,,,,,"",""
+ball,1,1.6,Middlesex,JB Cracknell,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,1,2.1,Middlesex,JB Cracknell,SS Eskinazi,J Clark,1,0,,,,,,"",""
+ball,1,2.2,Middlesex,SS Eskinazi,JB Cracknell,J Clark,6,0,,,,,,"",""
+ball,1,2.3,Middlesex,SS Eskinazi,JB Cracknell,J Clark,0,0,,,,,,"",""
+ball,1,2.4,Middlesex,SS Eskinazi,JB Cracknell,J Clark,1,0,,,,,,"",""
+ball,1,2.5,Middlesex,JB Cracknell,SS Eskinazi,J Clark,1,0,,,,,,"",""
+ball,1,2.6,Middlesex,SS Eskinazi,JB Cracknell,J Clark,2,0,,,,,,"",""
+ball,1,3.1,Middlesex,JB Cracknell,SS Eskinazi,DJ Worrall,4,0,,,,,,"",""
+ball,1,3.2,Middlesex,JB Cracknell,SS Eskinazi,DJ Worrall,2,0,,,,,,"",""
+ball,1,3.3,Middlesex,JB Cracknell,SS Eskinazi,DJ Worrall,0,0,,,,,,"",""
+ball,1,3.4,Middlesex,JB Cracknell,SS Eskinazi,DJ Worrall,4,0,,,,,,"",""
+ball,1,3.5,Middlesex,JB Cracknell,SS Eskinazi,DJ Worrall,0,0,,,,,,caught,JB Cracknell
+ball,1,3.6,Middlesex,JA Simpson,SS Eskinazi,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.1,Middlesex,SS Eskinazi,JA Simpson,AAP Atkinson,0,0,,,,,,"",""
+ball,1,4.2,Middlesex,SS Eskinazi,JA Simpson,AAP Atkinson,2,0,,,,,,"",""
+ball,1,4.3,Middlesex,SS Eskinazi,JA Simpson,AAP Atkinson,1,0,,,,,,"",""
+ball,1,4.4,Middlesex,JA Simpson,SS Eskinazi,AAP Atkinson,0,0,,,,,,"",""
+ball,1,4.5,Middlesex,JA Simpson,SS Eskinazi,AAP Atkinson,4,0,,,,,,"",""
+ball,1,4.6,Middlesex,JA Simpson,SS Eskinazi,AAP Atkinson,1,0,,,,,,"",""
+ball,1,5.1,Middlesex,JA Simpson,SS Eskinazi,DJ Worrall,4,0,,,,,,"",""
+ball,1,5.2,Middlesex,JA Simpson,SS Eskinazi,DJ Worrall,0,0,,,,,,"",""
+ball,1,5.3,Middlesex,JA Simpson,SS Eskinazi,DJ Worrall,1,0,,,,,,"",""
+ball,1,5.4,Middlesex,SS Eskinazi,JA Simpson,DJ Worrall,0,1,1,,,,,"",""
+ball,1,5.5,Middlesex,SS Eskinazi,JA Simpson,DJ Worrall,1,0,,,,,,"",""
+ball,1,5.6,Middlesex,JA Simpson,SS Eskinazi,DJ Worrall,0,0,,,,,,"",""
+ball,1,5.7,Middlesex,JA Simpson,SS Eskinazi,DJ Worrall,0,0,,,,,,"",""
+ball,1,6.1,Middlesex,SS Eskinazi,JA Simpson,J Overton,0,0,,,,,,"",""
+ball,1,6.2,Middlesex,SS Eskinazi,JA Simpson,J Overton,1,0,,,,,,"",""
+ball,1,6.3,Middlesex,JA Simpson,SS Eskinazi,J Overton,1,0,,,,,,"",""
+ball,1,6.4,Middlesex,SS Eskinazi,JA Simpson,J Overton,4,0,,,,,,"",""
+ball,1,6.5,Middlesex,SS Eskinazi,JA Simpson,J Overton,1,0,,,,,,"",""
+ball,1,6.6,Middlesex,JA Simpson,SS Eskinazi,J Overton,1,0,,,,,,"",""
+ball,1,7.1,Middlesex,JA Simpson,SS Eskinazi,WG Jacks,0,1,1,,,,,"",""
+ball,1,7.2,Middlesex,JA Simpson,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,1,7.3,Middlesex,SS Eskinazi,JA Simpson,WG Jacks,1,0,,,,,,"",""
+ball,1,7.4,Middlesex,JA Simpson,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,1,7.5,Middlesex,SS Eskinazi,JA Simpson,WG Jacks,1,0,,,,,,"",""
+ball,1,7.6,Middlesex,JA Simpson,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,1,7.7,Middlesex,SS Eskinazi,JA Simpson,WG Jacks,0,0,,,,,,run out,SS Eskinazi
+ball,1,8.1,Middlesex,JA Simpson,JLB Davies,J Overton,4,0,,,,,,"",""
+ball,1,8.2,Middlesex,JA Simpson,JLB Davies,J Overton,0,0,,,,,,"",""
+ball,1,8.3,Middlesex,JA Simpson,JLB Davies,J Overton,1,0,,,,,,"",""
+ball,1,8.4,Middlesex,JLB Davies,JA Simpson,J Overton,2,0,,,,,,"",""
+ball,1,8.5,Middlesex,JLB Davies,JA Simpson,J Overton,0,0,,,,,,"",""
+ball,1,8.6,Middlesex,JLB Davies,JA Simpson,J Overton,1,0,,,,,,"",""
+ball,1,9.1,Middlesex,JLB Davies,JA Simpson,SP Narine,4,0,,,,,,"",""
+ball,1,9.2,Middlesex,JLB Davies,JA Simpson,SP Narine,1,0,,,,,,"",""
+ball,1,9.3,Middlesex,JA Simpson,JLB Davies,SP Narine,0,0,,,,,,"",""
+ball,1,9.4,Middlesex,JA Simpson,JLB Davies,SP Narine,1,0,,,,,,"",""
+ball,1,9.5,Middlesex,JLB Davies,JA Simpson,SP Narine,4,0,,,,,,"",""
+ball,1,9.6,Middlesex,JLB Davies,JA Simpson,SP Narine,1,0,,,,,,"",""
+ball,1,10.1,Middlesex,JLB Davies,JA Simpson,CJ Jordan,1,0,,,,,,"",""
+ball,1,10.2,Middlesex,JA Simpson,JLB Davies,CJ Jordan,0,0,,,,,,"",""
+ball,1,10.3,Middlesex,JA Simpson,JLB Davies,CJ Jordan,4,0,,,,,,"",""
+ball,1,10.4,Middlesex,JA Simpson,JLB Davies,CJ Jordan,0,0,,,,,,caught,JA Simpson
+ball,1,10.5,Middlesex,LBK Hollman,JLB Davies,CJ Jordan,0,0,,,,,,"",""
+ball,1,10.6,Middlesex,LBK Hollman,JLB Davies,CJ Jordan,1,0,,,,,,"",""
+ball,1,11.1,Middlesex,LBK Hollman,JLB Davies,SP Narine,0,0,,,,,,"",""
+ball,1,11.2,Middlesex,LBK Hollman,JLB Davies,SP Narine,1,0,,,,,,"",""
+ball,1,11.3,Middlesex,JLB Davies,LBK Hollman,SP Narine,1,0,,,,,,"",""
+ball,1,11.4,Middlesex,LBK Hollman,JLB Davies,SP Narine,1,0,,,,,,"",""
+ball,1,11.5,Middlesex,JLB Davies,LBK Hollman,SP Narine,0,0,,,,,,"",""
+ball,1,11.6,Middlesex,JLB Davies,LBK Hollman,SP Narine,2,0,,,,,,"",""
+ball,1,12.1,Middlesex,LBK Hollman,JLB Davies,J Overton,0,0,,,,,,"",""
+ball,1,12.2,Middlesex,LBK Hollman,JLB Davies,J Overton,0,0,,,,,,"",""
+ball,1,12.3,Middlesex,LBK Hollman,JLB Davies,J Overton,6,0,,,,,,"",""
+ball,1,12.4,Middlesex,LBK Hollman,JLB Davies,J Overton,4,0,,,,,,"",""
+ball,1,12.5,Middlesex,LBK Hollman,JLB Davies,J Overton,0,0,,,,,,"",""
+ball,1,12.6,Middlesex,LBK Hollman,JLB Davies,J Overton,0,0,,,,,,"",""
+ball,1,13.1,Middlesex,JLB Davies,LBK Hollman,SP Narine,0,0,,,,,,caught,JLB Davies
+ball,1,13.2,Middlesex,CJ Green,LBK Hollman,SP Narine,0,2,,2,,,,"",""
+ball,1,13.3,Middlesex,CJ Green,LBK Hollman,SP Narine,1,0,,,,,,"",""
+ball,1,13.4,Middlesex,LBK Hollman,CJ Green,SP Narine,0,0,,,,,,"",""
+ball,1,13.5,Middlesex,LBK Hollman,CJ Green,SP Narine,4,0,,,,,,"",""
+ball,1,13.6,Middlesex,LBK Hollman,CJ Green,SP Narine,1,0,,,,,,"",""
+ball,1,13.7,Middlesex,CJ Green,LBK Hollman,SP Narine,1,0,,,,,,"",""
+ball,1,14.1,Middlesex,CJ Green,LBK Hollman,CJ Jordan,0,0,,,,,,"",""
+ball,1,14.2,Middlesex,CJ Green,LBK Hollman,CJ Jordan,4,0,,,,,,"",""
+ball,1,14.3,Middlesex,CJ Green,LBK Hollman,CJ Jordan,0,0,,,,,,"",""
+ball,1,14.4,Middlesex,CJ Green,LBK Hollman,CJ Jordan,1,0,,,,,,"",""
+ball,1,14.5,Middlesex,LBK Hollman,CJ Green,CJ Jordan,1,0,,,,,,"",""
+ball,1,14.6,Middlesex,CJ Green,LBK Hollman,CJ Jordan,1,0,,,,,,"",""
+ball,1,15.1,Middlesex,CJ Green,LBK Hollman,AAP Atkinson,4,0,,,,,,"",""
+ball,1,15.2,Middlesex,CJ Green,LBK Hollman,AAP Atkinson,2,0,,,,,,"",""
+ball,1,15.3,Middlesex,CJ Green,LBK Hollman,AAP Atkinson,0,0,,,,,,caught,CJ Green
+ball,1,15.4,Middlesex,MK Andersson,LBK Hollman,AAP Atkinson,0,0,,,,,,"",""
+ball,1,15.5,Middlesex,MK Andersson,LBK Hollman,AAP Atkinson,0,0,,,,,,"",""
+ball,1,15.6,Middlesex,MK Andersson,LBK Hollman,AAP Atkinson,0,1,1,,,,,"",""
+ball,1,15.7,Middlesex,MK Andersson,LBK Hollman,AAP Atkinson,4,0,,,,,,"",""
+ball,1,16.1,Middlesex,LBK Hollman,MK Andersson,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.2,Middlesex,MK Andersson,LBK Hollman,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.3,Middlesex,LBK Hollman,MK Andersson,CJ Jordan,4,0,,,,,,"",""
+ball,1,16.4,Middlesex,LBK Hollman,MK Andersson,CJ Jordan,0,0,,,,,,"",""
+ball,1,16.5,Middlesex,LBK Hollman,MK Andersson,CJ Jordan,0,0,,,,,,"",""
+ball,1,16.6,Middlesex,LBK Hollman,MK Andersson,CJ Jordan,2,0,,,,,,"",""
+ball,1,17.1,Middlesex,MK Andersson,LBK Hollman,SP Narine,1,0,,,,,,"",""
+ball,1,17.2,Middlesex,LBK Hollman,MK Andersson,SP Narine,1,0,,,,,,"",""
+ball,1,17.3,Middlesex,MK Andersson,LBK Hollman,SP Narine,0,0,,,,,,stumped,MK Andersson
+ball,1,17.4,Middlesex,TG Helm,LBK Hollman,SP Narine,0,0,,,,,,"",""
+ball,1,17.5,Middlesex,TG Helm,LBK Hollman,SP Narine,0,1,,,,1,,"",""
+ball,1,17.6,Middlesex,LBK Hollman,TG Helm,SP Narine,0,0,,,,,,"",""
+ball,1,18.1,Middlesex,TG Helm,LBK Hollman,DJ Worrall,1,0,,,,,,"",""
+ball,1,18.2,Middlesex,LBK Hollman,TG Helm,DJ Worrall,0,0,,,,,,"",""
+ball,1,18.3,Middlesex,LBK Hollman,TG Helm,DJ Worrall,1,0,,,,,,"",""
+ball,1,18.4,Middlesex,TG Helm,LBK Hollman,DJ Worrall,1,0,,,,,,"",""
+ball,1,18.5,Middlesex,LBK Hollman,TG Helm,DJ Worrall,2,0,,,,,,"",""
+ball,1,18.6,Middlesex,LBK Hollman,TG Helm,DJ Worrall,0,0,,,,,,"",""
+ball,1,19.1,Middlesex,TG Helm,LBK Hollman,CJ Jordan,0,0,,,,,,"",""
+ball,1,19.2,Middlesex,TG Helm,LBK Hollman,CJ Jordan,4,0,,,,,,"",""
+ball,1,19.3,Middlesex,TG Helm,LBK Hollman,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.4,Middlesex,LBK Hollman,TG Helm,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.5,Middlesex,TG Helm,LBK Hollman,CJ Jordan,0,1,,,1,,,"",""
+ball,1,19.6,Middlesex,LBK Hollman,TG Helm,CJ Jordan,0,0,,,,,,caught,LBK Hollman
+ball,2,0.1,Surrey,WG Jacks,JL Smith,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.2,Surrey,WG Jacks,JL Smith,JP Behrendorff,1,0,,,,,,"",""
+ball,2,0.3,Surrey,JL Smith,WG Jacks,JP Behrendorff,1,0,,,,,,"",""
+ball,2,0.4,Surrey,WG Jacks,JL Smith,JP Behrendorff,4,0,,,,,,"",""
+ball,2,0.5,Surrey,WG Jacks,JL Smith,JP Behrendorff,4,0,,,,,,"",""
+ball,2,0.6,Surrey,WG Jacks,JL Smith,JP Behrendorff,0,0,,,,,,"",""
+ball,2,1.1,Surrey,JL Smith,WG Jacks,CJ Green,4,0,,,,,,"",""
+ball,2,1.2,Surrey,JL Smith,WG Jacks,CJ Green,0,0,,,,,,"",""
+ball,2,1.3,Surrey,JL Smith,WG Jacks,CJ Green,4,0,,,,,,"",""
+ball,2,1.4,Surrey,JL Smith,WG Jacks,CJ Green,0,0,,,,,,"",""
+ball,2,1.5,Surrey,JL Smith,WG Jacks,CJ Green,4,0,,,,,,"",""
+ball,2,1.6,Surrey,JL Smith,WG Jacks,CJ Green,1,0,,,,,,"",""
+ball,2,2.1,Surrey,JL Smith,WG Jacks,JP Behrendorff,1,0,,,,,,"",""
+ball,2,2.2,Surrey,WG Jacks,JL Smith,JP Behrendorff,3,0,,,,,,"",""
+ball,2,2.3,Surrey,JL Smith,WG Jacks,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.4,Surrey,JL Smith,WG Jacks,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.5,Surrey,JL Smith,WG Jacks,JP Behrendorff,0,2,,2,,,,"",""
+ball,2,2.6,Surrey,JL Smith,WG Jacks,JP Behrendorff,0,0,,,,,,caught,JL Smith
+ball,2,2.7,Surrey,OJ Pope,WG Jacks,JP Behrendorff,4,0,,,,,,"",""
+ball,2,3.1,Surrey,WG Jacks,OJ Pope,TG Helm,2,0,,,,,,"",""
+ball,2,3.2,Surrey,WG Jacks,OJ Pope,TG Helm,0,0,,,,,,"",""
+ball,2,3.3,Surrey,WG Jacks,OJ Pope,TG Helm,4,0,,,,,,"",""
+ball,2,3.4,Surrey,WG Jacks,OJ Pope,TG Helm,6,0,,,,,,"",""
+ball,2,3.5,Surrey,WG Jacks,OJ Pope,TG Helm,6,0,,,,,,"",""
+ball,2,3.6,Surrey,WG Jacks,OJ Pope,TG Helm,0,0,,,,,,"",""
+ball,2,4.1,Surrey,OJ Pope,WG Jacks,JP Behrendorff,2,0,,,,,,"",""
+ball,2,4.2,Surrey,OJ Pope,WG Jacks,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.3,Surrey,OJ Pope,WG Jacks,JP Behrendorff,4,0,,,,,,"",""
+ball,2,4.4,Surrey,OJ Pope,WG Jacks,JP Behrendorff,3,0,,,,,,"",""
+ball,2,4.5,Surrey,WG Jacks,OJ Pope,JP Behrendorff,6,0,,,,,,"",""
+ball,2,4.6,Surrey,WG Jacks,OJ Pope,JP Behrendorff,2,0,,,,,,"",""
+ball,2,5.1,Surrey,OJ Pope,WG Jacks,CJ Green,2,0,,,,,,"",""
+ball,2,5.2,Surrey,OJ Pope,WG Jacks,CJ Green,0,0,,,,,,"",""
+ball,2,5.3,Surrey,OJ Pope,WG Jacks,CJ Green,3,0,,,,,,"",""
+ball,2,5.4,Surrey,WG Jacks,OJ Pope,CJ Green,1,0,,,,,,"",""
+ball,2,5.5,Surrey,OJ Pope,WG Jacks,CJ Green,1,0,,,,,,"",""
+ball,2,5.6,Surrey,WG Jacks,OJ Pope,CJ Green,1,0,,,,,,"",""
+ball,2,6.1,Surrey,WG Jacks,OJ Pope,LBK Hollman,1,0,,,,,,"",""
+ball,2,6.2,Surrey,OJ Pope,WG Jacks,LBK Hollman,1,0,,,,,,"",""
+ball,2,6.3,Surrey,WG Jacks,OJ Pope,LBK Hollman,0,0,,,,,,"",""
+ball,2,6.4,Surrey,WG Jacks,OJ Pope,LBK Hollman,2,0,,,,,,"",""
+ball,2,6.5,Surrey,WG Jacks,OJ Pope,LBK Hollman,0,0,,,,,,caught,WG Jacks
+ball,2,6.6,Surrey,LJ Evans,OJ Pope,LBK Hollman,1,0,,,,,,"",""
+ball,2,7.1,Surrey,LJ Evans,OJ Pope,TN Walallawita,0,0,,,,,,"",""
+ball,2,7.2,Surrey,LJ Evans,OJ Pope,TN Walallawita,0,0,,,,,,"",""
+ball,2,7.3,Surrey,LJ Evans,OJ Pope,TN Walallawita,4,0,,,,,,"",""
+ball,2,7.4,Surrey,LJ Evans,OJ Pope,TN Walallawita,0,0,,,,,,caught,LJ Evans
+ball,2,7.5,Surrey,SP Narine,OJ Pope,TN Walallawita,2,0,,,,,,"",""
+ball,2,7.6,Surrey,SP Narine,OJ Pope,TN Walallawita,1,0,,,,,,"",""
+ball,2,8.1,Surrey,SP Narine,OJ Pope,CJ Green,1,0,,,,,,"",""
+ball,2,8.2,Surrey,OJ Pope,SP Narine,CJ Green,2,0,,,,,,"",""
+ball,2,8.3,Surrey,OJ Pope,SP Narine,CJ Green,1,0,,,,,,"",""
+ball,2,8.4,Surrey,SP Narine,OJ Pope,CJ Green,4,0,,,,,,"",""
+ball,2,8.5,Surrey,SP Narine,OJ Pope,CJ Green,0,0,,,,,,"",""
+ball,2,8.6,Surrey,SP Narine,OJ Pope,CJ Green,1,0,,,,,,"",""
+ball,2,9.1,Surrey,SP Narine,OJ Pope,TG Helm,1,0,,,,,,"",""
+ball,2,9.2,Surrey,OJ Pope,SP Narine,TG Helm,1,0,,,,,,"",""
+ball,2,9.3,Surrey,SP Narine,OJ Pope,TG Helm,0,2,,2,,,,"",""
+ball,2,9.4,Surrey,SP Narine,OJ Pope,TG Helm,1,0,,,,,,"",""
+ball,2,9.5,Surrey,OJ Pope,SP Narine,TG Helm,1,0,,,,,,"",""
+ball,2,9.6,Surrey,SP Narine,OJ Pope,TG Helm,1,0,,,,,,"",""
+ball,2,9.7,Surrey,OJ Pope,SP Narine,TG Helm,0,0,,,,,,"",""
+ball,2,10.1,Surrey,SP Narine,OJ Pope,CJ Green,0,0,,,,,,"",""
+ball,2,10.2,Surrey,SP Narine,OJ Pope,CJ Green,1,0,,,,,,"",""
+ball,2,10.3,Surrey,OJ Pope,SP Narine,CJ Green,1,0,,,,,,"",""
+ball,2,10.4,Surrey,SP Narine,OJ Pope,CJ Green,1,0,,,,,,"",""
+ball,2,10.5,Surrey,OJ Pope,SP Narine,CJ Green,1,0,,,,,,"",""
+ball,2,10.6,Surrey,SP Narine,OJ Pope,CJ Green,1,0,,,,,,"",""
+ball,2,11.1,Surrey,SP Narine,OJ Pope,MK Andersson,0,0,,,,,,"",""
+ball,2,11.2,Surrey,SP Narine,OJ Pope,MK Andersson,0,1,1,,,,,"",""
+ball,2,11.3,Surrey,SP Narine,OJ Pope,MK Andersson,1,0,,,,,,"",""
+ball,2,11.4,Surrey,OJ Pope,SP Narine,MK Andersson,0,1,1,,,,,"",""
+ball,2,11.5,Surrey,OJ Pope,SP Narine,MK Andersson,2,0,,,,,,"",""
+ball,2,11.6,Surrey,OJ Pope,SP Narine,MK Andersson,1,0,,,,,,"",""
+ball,2,11.7,Surrey,SP Narine,OJ Pope,MK Andersson,0,0,,,,,,"",""
+ball,2,11.8,Surrey,SP Narine,OJ Pope,MK Andersson,0,1,1,,,,,"",""
+ball,2,11.9,Surrey,SP Narine,OJ Pope,MK Andersson,1,0,,,,,,"",""
+ball,2,12.1,Surrey,SP Narine,OJ Pope,LBK Hollman,6,0,,,,,,"",""
+ball,2,12.2,Surrey,SP Narine,OJ Pope,LBK Hollman,1,0,,,,,,"",""
+ball,2,12.3,Surrey,OJ Pope,SP Narine,LBK Hollman,0,0,,,,,,"",""
+ball,2,12.4,Surrey,OJ Pope,SP Narine,LBK Hollman,1,0,,,,,,"",""
+ball,2,12.5,Surrey,SP Narine,OJ Pope,LBK Hollman,1,0,,,,,,"",""
+ball,2,12.6,Surrey,OJ Pope,SP Narine,LBK Hollman,4,0,,,,,,"",""
+ball,2,13.1,Surrey,SP Narine,OJ Pope,TG Helm,4,0,,,,,,"",""
+ball,2,13.2,Surrey,SP Narine,OJ Pope,TG Helm,6,0,,,,,,"",""
+ball,2,13.3,Surrey,SP Narine,OJ Pope,TG Helm,6,0,,,,,,"",""
+ball,2,13.4,Surrey,SP Narine,OJ Pope,TG Helm,1,0,,,,,,"",""
+ball,2,13.5,Surrey,OJ Pope,SP Narine,TG Helm,0,0,,,,,,"",""
+ball,2,13.6,Surrey,OJ Pope,SP Narine,TG Helm,0,0,,,,,,"",""
+ball,2,14.1,Surrey,SP Narine,OJ Pope,MK Andersson,1,0,,,,,,"",""
+ball,2,14.2,Surrey,OJ Pope,SP Narine,MK Andersson,1,0,,,,,,"",""
+ball,2,14.3,Surrey,SP Narine,OJ Pope,MK Andersson,1,0,,,,,,"",""
+ball,2,14.4,Surrey,OJ Pope,SP Narine,MK Andersson,1,0,,,,,,"",""
+ball,2,14.5,Surrey,SP Narine,OJ Pope,MK Andersson,1,0,,,,,,"",""
+ball,2,14.6,Surrey,OJ Pope,SP Narine,MK Andersson,0,0,,,,,,"",""
+ball,2,15.1,Surrey,SP Narine,OJ Pope,JP Behrendorff,6,0,,,,,,"",""

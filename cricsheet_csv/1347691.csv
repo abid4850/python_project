@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Derbyshire
+info,gender,male
+info,season,2023
+info,date,2023/07/02
+info,event,Vitality Blast
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Worcestershire
+info,toss_decision,bat
+info,umpire,MA Gough
+info,umpire,Tom Lungley
+info,match_referee,JJ Whitaker
+info,winner,Worcestershire
+info,winner_runs,28
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,MJ Santner
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,Usama Mir
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,DY Pennington
+info,player,Worcestershire,PR Brown
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Derbyshire,Zaman Khan
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,TA Wood,884f72a1
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367
+info,registry,people,Zaman Khan,28392e11
+ball,1,0.1,Worcestershire,BL D'Oliveira,JA Haynes,AT Thomson,2,0,,,,,,"",""
+ball,1,0.2,Worcestershire,BL D'Oliveira,JA Haynes,AT Thomson,0,0,,,,,,"",""
+ball,1,0.3,Worcestershire,BL D'Oliveira,JA Haynes,AT Thomson,1,0,,,,,,"",""
+ball,1,0.4,Worcestershire,JA Haynes,BL D'Oliveira,AT Thomson,0,0,,,,,,"",""
+ball,1,0.5,Worcestershire,JA Haynes,BL D'Oliveira,AT Thomson,1,0,,,,,,"",""
+ball,1,0.6,Worcestershire,BL D'Oliveira,JA Haynes,AT Thomson,6,0,,,,,,"",""
+ball,1,1.1,Worcestershire,JA Haynes,BL D'Oliveira,ZJ Chappell,0,0,,,,,,"",""
+ball,1,1.2,Worcestershire,JA Haynes,BL D'Oliveira,ZJ Chappell,0,0,,,,,,"",""
+ball,1,1.3,Worcestershire,JA Haynes,BL D'Oliveira,ZJ Chappell,6,0,,,,,,"",""
+ball,1,1.4,Worcestershire,JA Haynes,BL D'Oliveira,ZJ Chappell,4,0,,,,,,"",""
+ball,1,1.5,Worcestershire,JA Haynes,BL D'Oliveira,ZJ Chappell,1,0,,,,,,"",""
+ball,1,1.6,Worcestershire,BL D'Oliveira,JA Haynes,ZJ Chappell,4,0,,,,,,"",""
+ball,1,2.1,Worcestershire,JA Haynes,BL D'Oliveira,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,2.2,Worcestershire,BL D'Oliveira,JA Haynes,GLS Scrimshaw,0,2,,2,,,,"",""
+ball,1,2.3,Worcestershire,BL D'Oliveira,JA Haynes,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,2.4,Worcestershire,JA Haynes,BL D'Oliveira,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,2.5,Worcestershire,JA Haynes,BL D'Oliveira,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,2.6,Worcestershire,BL D'Oliveira,JA Haynes,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,2.7,Worcestershire,JA Haynes,BL D'Oliveira,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,3.1,Worcestershire,JA Haynes,BL D'Oliveira,ZJ Chappell,1,0,,,,,,"",""
+ball,1,3.2,Worcestershire,BL D'Oliveira,JA Haynes,ZJ Chappell,4,0,,,,,,"",""
+ball,1,3.3,Worcestershire,BL D'Oliveira,JA Haynes,ZJ Chappell,4,0,,,,,,"",""
+ball,1,3.4,Worcestershire,BL D'Oliveira,JA Haynes,ZJ Chappell,0,0,,,,,,caught,BL D'Oliveira
+ball,1,3.5,Worcestershire,MJ Santner,JA Haynes,ZJ Chappell,0,0,,,,,,"",""
+ball,1,3.6,Worcestershire,MJ Santner,JA Haynes,ZJ Chappell,1,0,,,,,,"",""
+ball,1,4.1,Worcestershire,MJ Santner,JA Haynes,Zaman Khan,0,0,,,,,,"",""
+ball,1,4.2,Worcestershire,MJ Santner,JA Haynes,Zaman Khan,0,0,,,,,,"",""
+ball,1,4.3,Worcestershire,MJ Santner,JA Haynes,Zaman Khan,1,0,,,,,,"",""
+ball,1,4.4,Worcestershire,JA Haynes,MJ Santner,Zaman Khan,1,0,,,,,,"",""
+ball,1,4.5,Worcestershire,MJ Santner,JA Haynes,Zaman Khan,0,4,,,,4,,"",""
+ball,1,4.6,Worcestershire,MJ Santner,JA Haynes,Zaman Khan,1,0,,,,,,"",""
+ball,1,5.1,Worcestershire,MJ Santner,JA Haynes,GLS Scrimshaw,0,1,1,,,,,"",""
+ball,1,5.2,Worcestershire,MJ Santner,JA Haynes,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,5.3,Worcestershire,JA Haynes,MJ Santner,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,5.4,Worcestershire,JA Haynes,MJ Santner,GLS Scrimshaw,0,2,,2,,,,"",""
+ball,1,5.5,Worcestershire,JA Haynes,MJ Santner,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,5.6,Worcestershire,JA Haynes,MJ Santner,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,5.7,Worcestershire,MJ Santner,JA Haynes,GLS Scrimshaw,0,4,,,,4,,"",""
+ball,1,5.8,Worcestershire,MJ Santner,JA Haynes,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,6.1,Worcestershire,JA Haynes,MJ Santner,MH McKiernan,1,0,,,,,,"",""
+ball,1,6.2,Worcestershire,MJ Santner,JA Haynes,MH McKiernan,0,0,,,,,,"",""
+ball,1,6.3,Worcestershire,MJ Santner,JA Haynes,MH McKiernan,0,0,,,,,,"",""
+ball,1,6.4,Worcestershire,MJ Santner,JA Haynes,MH McKiernan,0,0,,,,,,"",""
+ball,1,6.5,Worcestershire,MJ Santner,JA Haynes,MH McKiernan,4,0,,,,,,"",""
+ball,1,6.6,Worcestershire,MJ Santner,JA Haynes,MH McKiernan,0,0,,,,,,"",""
+ball,1,7.1,Worcestershire,JA Haynes,MJ Santner,AT Thomson,1,0,,,,,,"",""
+ball,1,7.2,Worcestershire,MJ Santner,JA Haynes,AT Thomson,0,0,,,,,,"",""
+ball,1,7.3,Worcestershire,MJ Santner,JA Haynes,AT Thomson,1,0,,,,,,"",""
+ball,1,7.4,Worcestershire,JA Haynes,MJ Santner,AT Thomson,4,0,,,,,,"",""
+ball,1,7.5,Worcestershire,JA Haynes,MJ Santner,AT Thomson,1,0,,,,,,"",""
+ball,1,7.6,Worcestershire,MJ Santner,JA Haynes,AT Thomson,1,0,,,,,,"",""
+ball,1,8.1,Worcestershire,MJ Santner,JA Haynes,MH McKiernan,1,0,,,,,,"",""
+ball,1,8.2,Worcestershire,JA Haynes,MJ Santner,MH McKiernan,0,0,,,,,,"",""
+ball,1,8.3,Worcestershire,JA Haynes,MJ Santner,MH McKiernan,1,0,,,,,,"",""
+ball,1,8.4,Worcestershire,MJ Santner,JA Haynes,MH McKiernan,1,0,,,,,,"",""
+ball,1,8.5,Worcestershire,JA Haynes,MJ Santner,MH McKiernan,1,0,,,,,,"",""
+ball,1,8.6,Worcestershire,MJ Santner,JA Haynes,MH McKiernan,1,0,,,,,,"",""
+ball,1,9.1,Worcestershire,MJ Santner,JA Haynes,TA Wood,0,0,,,,,,"",""
+ball,1,9.2,Worcestershire,MJ Santner,JA Haynes,TA Wood,0,0,,,,,,"",""
+ball,1,9.3,Worcestershire,MJ Santner,JA Haynes,TA Wood,0,0,,,,,,"",""
+ball,1,9.4,Worcestershire,MJ Santner,JA Haynes,TA Wood,1,0,,,,,,"",""
+ball,1,9.5,Worcestershire,JA Haynes,MJ Santner,TA Wood,4,0,,,,,,"",""
+ball,1,9.6,Worcestershire,JA Haynes,MJ Santner,TA Wood,1,0,,,,,,"",""
+ball,1,10.1,Worcestershire,JA Haynes,MJ Santner,AT Thomson,1,0,,,,,,"",""
+ball,1,10.2,Worcestershire,MJ Santner,JA Haynes,AT Thomson,0,0,,,,,,"",""
+ball,1,10.3,Worcestershire,MJ Santner,JA Haynes,AT Thomson,4,0,,,,,,"",""
+ball,1,10.4,Worcestershire,MJ Santner,JA Haynes,AT Thomson,1,0,,,,,,"",""
+ball,1,10.5,Worcestershire,JA Haynes,MJ Santner,AT Thomson,0,0,,,,,,"",""
+ball,1,10.6,Worcestershire,JA Haynes,MJ Santner,AT Thomson,1,0,,,,,,"",""
+ball,1,11.1,Worcestershire,JA Haynes,MJ Santner,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,11.2,Worcestershire,MJ Santner,JA Haynes,GLS Scrimshaw,6,0,,,,,,"",""
+ball,1,11.3,Worcestershire,MJ Santner,JA Haynes,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,11.4,Worcestershire,JA Haynes,MJ Santner,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,11.5,Worcestershire,MJ Santner,JA Haynes,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,11.6,Worcestershire,MJ Santner,JA Haynes,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,12.1,Worcestershire,MJ Santner,JA Haynes,Zaman Khan,0,0,,,,,,"",""
+ball,1,12.2,Worcestershire,MJ Santner,JA Haynes,Zaman Khan,0,0,,,,,,"",""
+ball,1,12.3,Worcestershire,MJ Santner,JA Haynes,Zaman Khan,0,1,1,,,,,"",""
+ball,1,12.4,Worcestershire,MJ Santner,JA Haynes,Zaman Khan,1,0,,,,,,"",""
+ball,1,12.5,Worcestershire,JA Haynes,MJ Santner,Zaman Khan,0,0,,,,,,bowled,JA Haynes
+ball,1,12.6,Worcestershire,AJ Hose,MJ Santner,Zaman Khan,1,0,,,,,,"",""
+ball,1,12.7,Worcestershire,MJ Santner,AJ Hose,Zaman Khan,1,0,,,,,,"",""
+ball,1,13.1,Worcestershire,MJ Santner,AJ Hose,TA Wood,0,0,,,,,,"",""
+ball,1,13.2,Worcestershire,MJ Santner,AJ Hose,TA Wood,1,0,,,,,,"",""
+ball,1,13.3,Worcestershire,AJ Hose,MJ Santner,TA Wood,2,0,,,,,,"",""
+ball,1,13.4,Worcestershire,AJ Hose,MJ Santner,TA Wood,4,0,,,,,,"",""
+ball,1,13.5,Worcestershire,AJ Hose,MJ Santner,TA Wood,2,0,,,,,,"",""
+ball,1,13.6,Worcestershire,AJ Hose,MJ Santner,TA Wood,0,0,,,,,,"",""
+ball,1,14.1,Worcestershire,MJ Santner,AJ Hose,MH McKiernan,6,0,,,,,,"",""
+ball,1,14.2,Worcestershire,MJ Santner,AJ Hose,MH McKiernan,6,0,,,,,,"",""
+ball,1,14.3,Worcestershire,MJ Santner,AJ Hose,MH McKiernan,6,0,,,,,,"",""
+ball,1,14.4,Worcestershire,MJ Santner,AJ Hose,MH McKiernan,6,0,,,,,,"",""
+ball,1,14.5,Worcestershire,MJ Santner,AJ Hose,MH McKiernan,0,3,,2,1,,,"",""
+ball,1,14.6,Worcestershire,AJ Hose,MJ Santner,MH McKiernan,1,0,,,,,,"",""
+ball,1,14.7,Worcestershire,MJ Santner,AJ Hose,MH McKiernan,1,0,,,,,,"",""
+ball,1,15.1,Worcestershire,MJ Santner,AJ Hose,ZJ Chappell,1,0,,,,,,"",""
+ball,1,15.2,Worcestershire,AJ Hose,MJ Santner,ZJ Chappell,1,0,,,,,,"",""
+ball,1,15.3,Worcestershire,MJ Santner,AJ Hose,ZJ Chappell,0,0,,,,,,bowled,MJ Santner
+ball,1,15.4,Worcestershire,Kashif Ali,AJ Hose,ZJ Chappell,0,0,,,,,,"",""
+ball,1,15.5,Worcestershire,Kashif Ali,AJ Hose,ZJ Chappell,1,0,,,,,,"",""
+ball,1,15.6,Worcestershire,AJ Hose,Kashif Ali,ZJ Chappell,1,0,,,,,,"",""
+ball,1,16.1,Worcestershire,AJ Hose,Kashif Ali,Zaman Khan,0,0,,,,,,"",""
+ball,1,16.2,Worcestershire,AJ Hose,Kashif Ali,Zaman Khan,0,0,,,,,,"",""
+ball,1,16.3,Worcestershire,AJ Hose,Kashif Ali,Zaman Khan,1,0,,,,,,"",""
+ball,1,16.4,Worcestershire,Kashif Ali,AJ Hose,Zaman Khan,1,0,,,,,,"",""
+ball,1,16.5,Worcestershire,AJ Hose,Kashif Ali,Zaman Khan,0,1,1,,,,,"",""
+ball,1,16.6,Worcestershire,AJ Hose,Kashif Ali,Zaman Khan,0,4,,,,4,,"",""
+ball,1,16.7,Worcestershire,AJ Hose,Kashif Ali,Zaman Khan,4,0,,,,,,"",""
+ball,1,17.1,Worcestershire,Kashif Ali,AJ Hose,GLS Scrimshaw,0,0,,,,,,caught,Kashif Ali
+ball,1,17.2,Worcestershire,OB Cox,AJ Hose,GLS Scrimshaw,0,1,,,,1,,"",""
+ball,1,17.3,Worcestershire,AJ Hose,OB Cox,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,17.4,Worcestershire,OB Cox,AJ Hose,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,17.5,Worcestershire,OB Cox,AJ Hose,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,17.6,Worcestershire,OB Cox,AJ Hose,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,18.1,Worcestershire,OB Cox,AJ Hose,Zaman Khan,0,0,,,,,,lbw,OB Cox
+ball,1,18.2,Worcestershire,EJ Pollock,AJ Hose,Zaman Khan,0,1,,,,1,,"",""
+ball,1,18.3,Worcestershire,AJ Hose,EJ Pollock,Zaman Khan,1,2,,2,,,,"",""
+ball,1,18.4,Worcestershire,EJ Pollock,AJ Hose,Zaman Khan,6,0,,,,,,"",""
+ball,1,18.5,Worcestershire,EJ Pollock,AJ Hose,Zaman Khan,6,0,,,,,,"",""
+ball,1,18.6,Worcestershire,EJ Pollock,AJ Hose,Zaman Khan,0,0,,,,,,"",""
+ball,1,18.7,Worcestershire,EJ Pollock,AJ Hose,Zaman Khan,0,0,,,,,,"",""
+ball,1,19.1,Worcestershire,AJ Hose,EJ Pollock,ZJ Chappell,0,1,1,,,,,"",""
+ball,1,19.2,Worcestershire,AJ Hose,EJ Pollock,ZJ Chappell,6,0,,,,,,"",""
+ball,1,19.3,Worcestershire,AJ Hose,EJ Pollock,ZJ Chappell,6,0,,,,,,"",""
+ball,1,19.4,Worcestershire,AJ Hose,EJ Pollock,ZJ Chappell,1,0,,,,,,"",""
+ball,1,19.5,Worcestershire,EJ Pollock,AJ Hose,ZJ Chappell,1,2,,2,,,,"",""
+ball,1,19.6,Worcestershire,AJ Hose,EJ Pollock,ZJ Chappell,6,0,,,,,,"",""
+ball,1,19.7,Worcestershire,AJ Hose,EJ Pollock,ZJ Chappell,2,0,,,,,,"",""
+ball,1,19.8,Worcestershire,AJ Hose,EJ Pollock,ZJ Chappell,2,0,,,,,,"",""
+ball,2,0.1,Derbyshire,HRC Came,TA Wood,DY Pennington,1,0,,,,,,"",""
+ball,2,0.2,Derbyshire,TA Wood,HRC Came,DY Pennington,0,0,,,,,,"",""
+ball,2,0.3,Derbyshire,TA Wood,HRC Came,DY Pennington,0,0,,,,,,"",""
+ball,2,0.4,Derbyshire,TA Wood,HRC Came,DY Pennington,4,0,,,,,,"",""
+ball,2,0.5,Derbyshire,TA Wood,HRC Came,DY Pennington,0,0,,,,,,"",""
+ball,2,0.6,Derbyshire,TA Wood,HRC Came,DY Pennington,1,0,,,,,,"",""
+ball,2,1.1,Derbyshire,TA Wood,HRC Came,AW Finch,1,0,,,,,,"",""
+ball,2,1.2,Derbyshire,HRC Came,TA Wood,AW Finch,4,0,,,,,,"",""
+ball,2,1.3,Derbyshire,HRC Came,TA Wood,AW Finch,0,0,,,,,,"",""
+ball,2,1.4,Derbyshire,HRC Came,TA Wood,AW Finch,4,0,,,,,,"",""
+ball,2,1.5,Derbyshire,HRC Came,TA Wood,AW Finch,1,0,,,,,,"",""
+ball,2,1.6,Derbyshire,TA Wood,HRC Came,AW Finch,1,0,,,,,,"",""
+ball,2,2.1,Derbyshire,TA Wood,HRC Came,DY Pennington,0,0,,,,,,caught,TA Wood
+ball,2,2.2,Derbyshire,Haider Ali,HRC Came,DY Pennington,1,0,,,,,,"",""
+ball,2,2.3,Derbyshire,HRC Came,Haider Ali,DY Pennington,1,0,,,,,,"",""
+ball,2,2.4,Derbyshire,Haider Ali,HRC Came,DY Pennington,3,0,,,,,,"",""
+ball,2,2.5,Derbyshire,HRC Came,Haider Ali,DY Pennington,0,0,,,,,,"",""
+ball,2,2.6,Derbyshire,HRC Came,Haider Ali,DY Pennington,0,0,,,,,,"",""
+ball,2,3.1,Derbyshire,Haider Ali,HRC Came,PR Brown,1,0,,,,,,"",""
+ball,2,3.2,Derbyshire,HRC Came,Haider Ali,PR Brown,2,0,,,,,,"",""
+ball,2,3.3,Derbyshire,HRC Came,Haider Ali,PR Brown,0,0,,,,,,"",""
+ball,2,3.4,Derbyshire,HRC Came,Haider Ali,PR Brown,1,0,,,,,,"",""
+ball,2,3.5,Derbyshire,Haider Ali,HRC Came,PR Brown,0,0,,,,,,caught,Haider Ali
+ball,2,3.6,Derbyshire,WL Madsen,HRC Came,PR Brown,4,0,,,,,,"",""
+ball,2,4.1,Derbyshire,HRC Came,WL Madsen,DY Pennington,1,0,,,,,,"",""
+ball,2,4.2,Derbyshire,WL Madsen,HRC Came,DY Pennington,2,0,,,,,,"",""
+ball,2,4.3,Derbyshire,WL Madsen,HRC Came,DY Pennington,1,0,,,,,,"",""
+ball,2,4.4,Derbyshire,HRC Came,WL Madsen,DY Pennington,6,0,,,,,,"",""
+ball,2,4.5,Derbyshire,HRC Came,WL Madsen,DY Pennington,4,0,,,,,,"",""
+ball,2,4.6,Derbyshire,HRC Came,WL Madsen,DY Pennington,1,0,,,,,,"",""
+ball,2,5.1,Derbyshire,HRC Came,WL Madsen,PR Brown,2,0,,,,,,"",""
+ball,2,5.2,Derbyshire,HRC Came,WL Madsen,PR Brown,4,0,,,,,,"",""
+ball,2,5.3,Derbyshire,HRC Came,WL Madsen,PR Brown,4,0,,,,,,"",""
+ball,2,5.4,Derbyshire,HRC Came,WL Madsen,PR Brown,0,0,,,,,,"",""
+ball,2,5.5,Derbyshire,HRC Came,WL Madsen,PR Brown,1,0,,,,,,"",""
+ball,2,5.6,Derbyshire,WL Madsen,HRC Came,PR Brown,1,0,,,,,,"",""
+ball,2,6.1,Derbyshire,WL Madsen,HRC Came,BL D'Oliveira,4,0,,,,,,"",""
+ball,2,6.2,Derbyshire,WL Madsen,HRC Came,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,6.3,Derbyshire,HRC Came,WL Madsen,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,6.4,Derbyshire,WL Madsen,HRC Came,BL D'Oliveira,0,0,,,,,,"",""
+ball,2,6.5,Derbyshire,WL Madsen,HRC Came,BL D'Oliveira,4,0,,,,,,"",""
+ball,2,6.6,Derbyshire,WL Madsen,HRC Came,BL D'Oliveira,0,0,,,,,,"",""
+ball,2,7.1,Derbyshire,HRC Came,WL Madsen,Usama Mir,1,0,,,,,,"",""
+ball,2,7.2,Derbyshire,WL Madsen,HRC Came,Usama Mir,4,0,,,,,,"",""
+ball,2,7.3,Derbyshire,WL Madsen,HRC Came,Usama Mir,2,0,,,,,,"",""
+ball,2,7.4,Derbyshire,WL Madsen,HRC Came,Usama Mir,1,0,,,,,,"",""
+ball,2,7.5,Derbyshire,HRC Came,WL Madsen,Usama Mir,0,2,2,,,,,"",""
+ball,2,7.6,Derbyshire,WL Madsen,HRC Came,Usama Mir,0,0,,,,,,"",""
+ball,2,7.7,Derbyshire,WL Madsen,HRC Came,Usama Mir,1,0,,,,,,"",""
+ball,2,8.1,Derbyshire,WL Madsen,HRC Came,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,8.2,Derbyshire,HRC Came,WL Madsen,BL D'Oliveira,0,1,,,,1,,"",""
+ball,2,8.3,Derbyshire,WL Madsen,HRC Came,BL D'Oliveira,6,0,,,,,,"",""
+ball,2,8.4,Derbyshire,WL Madsen,HRC Came,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,8.5,Derbyshire,HRC Came,WL Madsen,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,8.6,Derbyshire,WL Madsen,HRC Came,BL D'Oliveira,4,0,,,,,,"",""
+ball,2,9.1,Derbyshire,HRC Came,WL Madsen,MJ Santner,0,0,,,,,,"",""
+ball,2,9.2,Derbyshire,HRC Came,WL Madsen,MJ Santner,1,0,,,,,,"",""
+ball,2,9.3,Derbyshire,WL Madsen,HRC Came,MJ Santner,1,0,,,,,,"",""
+ball,2,9.4,Derbyshire,HRC Came,WL Madsen,MJ Santner,0,0,,,,,,"",""
+ball,2,9.5,Derbyshire,HRC Came,WL Madsen,MJ Santner,2,0,,,,,,"",""
+ball,2,9.6,Derbyshire,HRC Came,WL Madsen,MJ Santner,0,0,,,,,,"",""
+ball,2,10.1,Derbyshire,WL Madsen,HRC Came,Usama Mir,1,0,,,,,,"",""
+ball,2,10.2,Derbyshire,HRC Came,WL Madsen,Usama Mir,0,1,1,,,,,stumped,HRC Came
+ball,2,10.3,Derbyshire,JL du Plooy,WL Madsen,Usama Mir,0,0,,,,,,"",""
+ball,2,10.4,Derbyshire,JL du Plooy,WL Madsen,Usama Mir,1,0,,,,,,"",""
+ball,2,10.5,Derbyshire,WL Madsen,JL du Plooy,Usama Mir,6,0,,,,,,"",""
+ball,2,10.6,Derbyshire,WL Madsen,JL du Plooy,Usama Mir,1,0,,,,,,"",""
+ball,2,10.7,Derbyshire,JL du Plooy,WL Madsen,Usama Mir,0,0,,,,,,"",""
+ball,2,11.1,Derbyshire,WL Madsen,JL du Plooy,MJ Santner,1,0,,,,,,"",""
+ball,2,11.2,Derbyshire,JL du Plooy,WL Madsen,MJ Santner,2,0,,,,,,"",""
+ball,2,11.3,Derbyshire,JL du Plooy,WL Madsen,MJ Santner,4,0,,,,,,"",""
+ball,2,11.4,Derbyshire,JL du Plooy,WL Madsen,MJ Santner,0,1,,,1,,,"",""
+ball,2,11.5,Derbyshire,WL Madsen,JL du Plooy,MJ Santner,1,0,,,,,,"",""
+ball,2,11.6,Derbyshire,JL du Plooy,WL Madsen,MJ Santner,1,0,,,,,,"",""
+ball,2,12.1,Derbyshire,JL du Plooy,WL Madsen,Usama Mir,0,1,1,,,,,"",""
+ball,2,12.2,Derbyshire,JL du Plooy,WL Madsen,Usama Mir,0,0,,,,,,caught,JL du Plooy
+ball,2,12.3,Derbyshire,BD Guest,WL Madsen,Usama Mir,0,0,,,,,,"",""
+ball,2,12.4,Derbyshire,BD Guest,WL Madsen,Usama Mir,1,0,,,,,,"",""
+ball,2,12.5,Derbyshire,WL Madsen,BD Guest,Usama Mir,1,0,,,,,,"",""
+ball,2,12.6,Derbyshire,BD Guest,WL Madsen,Usama Mir,1,0,,,,,,"",""
+ball,2,12.7,Derbyshire,WL Madsen,BD Guest,Usama Mir,1,0,,,,,,"",""
+ball,2,13.1,Derbyshire,WL Madsen,BD Guest,MJ Santner,1,0,,,,,,"",""
+ball,2,13.2,Derbyshire,BD Guest,WL Madsen,MJ Santner,0,0,,,,,,"",""
+ball,2,13.3,Derbyshire,BD Guest,WL Madsen,MJ Santner,1,0,,,,,,"",""
+ball,2,13.4,Derbyshire,WL Madsen,BD Guest,MJ Santner,4,0,,,,,,"",""
+ball,2,13.5,Derbyshire,WL Madsen,BD Guest,MJ Santner,1,0,,,,,,"",""
+ball,2,13.6,Derbyshire,BD Guest,WL Madsen,MJ Santner,2,0,,,,,,"",""
+ball,2,14.1,Derbyshire,WL Madsen,BD Guest,AW Finch,6,0,,,,,,"",""
+ball,2,14.2,Derbyshire,WL Madsen,BD Guest,AW Finch,1,0,,,,,,"",""
+ball,2,14.3,Derbyshire,BD Guest,WL Madsen,AW Finch,4,2,,2,,,,"",""
+ball,2,14.4,Derbyshire,BD Guest,WL Madsen,AW Finch,0,1,1,,,,,"",""
+ball,2,14.5,Derbyshire,BD Guest,WL Madsen,AW Finch,6,0,,,,,,"",""
+ball,2,14.6,Derbyshire,BD Guest,WL Madsen,AW Finch,2,0,,,,,,"",""
+ball,2,14.7,Derbyshire,BD Guest,WL Madsen,AW Finch,1,0,,,,,,"",""
+ball,2,14.8,Derbyshire,WL Madsen,BD Guest,AW Finch,0,0,,,,,,caught,WL Madsen
+ball,2,15.1,Derbyshire,BD Guest,MH McKiernan,MJ Santner,2,0,,,,,,"",""
+ball,2,15.2,Derbyshire,BD Guest,MH McKiernan,MJ Santner,0,0,,,,,,caught,BD Guest
+ball,2,15.3,Derbyshire,AT Thomson,MH McKiernan,MJ Santner,0,1,,,,1,,"",""
+ball,2,15.4,Derbyshire,MH McKiernan,AT Thomson,MJ Santner,2,0,,,,,,"",""
+ball,2,15.5,Derbyshire,MH McKiernan,AT Thomson,MJ Santner,1,0,,,,,,"",""
+ball,2,15.6,Derbyshire,AT Thomson,MH McKiernan,MJ Santner,1,0,,,,,,"",""
+ball,2,16.1,Derbyshire,AT Thomson,MH McKiernan,Usama Mir,2,0,,,,,,"",""
+ball,2,16.2,Derbyshire,AT Thomson,MH McKiernan,Usama Mir,2,0,,,,,,"",""
+ball,2,16.3,Derbyshire,AT Thomson,MH McKiernan,Usama Mir,6,0,,,,,,"",""
+ball,2,16.4,Derbyshire,AT Thomson,MH McKiernan,Usama Mir,0,0,,,,,,bowled,AT Thomson
+ball,2,16.5,Derbyshire,ZJ Chappell,MH McKiernan,Usama Mir,1,0,,,,,,"",""
+ball,2,16.6,Derbyshire,MH McKiernan,ZJ Chappell,Usama Mir,1,0,,,,,,"",""
+ball,2,17.1,Derbyshire,MH McKiernan,ZJ Chappell,PR Brown,1,0,,,,,,"",""
+ball,2,17.2,Derbyshire,ZJ Chappell,MH McKiernan,PR Brown,0,0,,,,,,"",""
+ball,2,17.3,Derbyshire,ZJ Chappell,MH McKiernan,PR Brown,1,0,,,,,,"",""
+ball,2,17.4,Derbyshire,MH McKiernan,ZJ Chappell,PR Brown,6,0,,,,,,"",""
+ball,2,17.5,Derbyshire,MH McKiernan,ZJ Chappell,PR Brown,1,0,,,,,,"",""
+ball,2,17.6,Derbyshire,ZJ Chappell,MH McKiernan,PR Brown,2,0,,,,,,"",""
+ball,2,18.1,Derbyshire,MH McKiernan,ZJ Chappell,AW Finch,1,0,,,,,,"",""
+ball,2,18.2,Derbyshire,ZJ Chappell,MH McKiernan,AW Finch,1,0,,,,,,"",""
+ball,2,18.3,Derbyshire,MH McKiernan,ZJ Chappell,AW Finch,4,0,,,,,,"",""
+ball,2,18.4,Derbyshire,MH McKiernan,ZJ Chappell,AW Finch,0,0,,,,,,"",""
+ball,2,18.5,Derbyshire,MH McKiernan,ZJ Chappell,AW Finch,1,0,,,,,,"",""
+ball,2,18.6,Derbyshire,ZJ Chappell,MH McKiernan,AW Finch,0,0,,,,,,bowled,ZJ Chappell
+ball,2,19.1,Derbyshire,MH McKiernan,GLS Scrimshaw,PR Brown,4,0,,,,,,"",""
+ball,2,19.2,Derbyshire,MH McKiernan,GLS Scrimshaw,PR Brown,0,0,,,,,,"",""
+ball,2,19.3,Derbyshire,MH McKiernan,GLS Scrimshaw,PR Brown,0,0,,,,,,bowled,MH McKiernan
+ball,2,19.4,Derbyshire,Zaman Khan,GLS Scrimshaw,PR Brown,0,0,,,,,,caught,Zaman Khan

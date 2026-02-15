@@ -1,0 +1,295 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Sussex
+info,gender,male
+info,season,2020
+info,date,2020/10/01
+info,event,Vitality Blast
+info,venue,County Ground
+info,city,Hove
+info,toss_winner,Sussex
+info,toss_decision,field
+info,player_of_match,LS Livingstone
+info,umpire,IJ Gould
+info,umpire,NJ Llong
+info,match_referee,PM Such
+info,winner,Lancashire
+info,winner_runs,45
+info,player,Lancashire,AL Davies
+info,player,Lancashire,LS Livingstone
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,RP Jones
+info,player,Lancashire,DJ Lamb
+info,player,Lancashire,L Wood
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,S Mahmood
+info,player,Lancashire,MW Parkinson
+info,player,Sussex,PD Salt
+info,player,Sussex,LJ Wright
+info,player,Sussex,DMW Rawlins
+info,player,Sussex,RS Bopara
+info,player,Sussex,D Wiese
+info,player,Sussex,CS MacLeod
+info,player,Sussex,GHS Garton
+info,player,Sussex,WAT Beer
+info,player,Sussex,OE Robinson
+info,player,Sussex,DR Briggs
+info,player,Sussex,TS Mills
+info,registry,people,AL Davies,29ede60b
+info,registry,people,CS MacLeod,9c376401
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Wood,65b6943c
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MW Parkinson,19708692
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RP Jones,ad8cb396
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SJ Croft,ab474682
+info,registry,people,TS Mills,245c97cb
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WAT Beer,98eacfe5
+ball,1,0.1,Lancashire,AL Davies,LS Livingstone,GHS Garton,1,0,,,,,,"",""
+ball,1,0.2,Lancashire,LS Livingstone,AL Davies,GHS Garton,1,0,,,,,,"",""
+ball,1,0.3,Lancashire,AL Davies,LS Livingstone,GHS Garton,1,0,,,,,,"",""
+ball,1,0.4,Lancashire,LS Livingstone,AL Davies,GHS Garton,0,0,,,,,,"",""
+ball,1,0.5,Lancashire,LS Livingstone,AL Davies,GHS Garton,1,0,,,,,,"",""
+ball,1,0.6,Lancashire,AL Davies,LS Livingstone,GHS Garton,0,0,,,,,,"",""
+ball,1,1.1,Lancashire,LS Livingstone,AL Davies,OE Robinson,0,0,,,,,,"",""
+ball,1,1.2,Lancashire,LS Livingstone,AL Davies,OE Robinson,0,0,,,,,,"",""
+ball,1,1.3,Lancashire,LS Livingstone,AL Davies,OE Robinson,6,0,,,,,,"",""
+ball,1,1.4,Lancashire,LS Livingstone,AL Davies,OE Robinson,1,0,,,,,,"",""
+ball,1,1.5,Lancashire,AL Davies,LS Livingstone,OE Robinson,1,0,,,,,,"",""
+ball,1,1.6,Lancashire,LS Livingstone,AL Davies,OE Robinson,0,0,,,,,,"",""
+ball,1,2.1,Lancashire,AL Davies,LS Livingstone,DR Briggs,0,0,,,,,,"",""
+ball,1,2.2,Lancashire,AL Davies,LS Livingstone,DR Briggs,0,0,,,,,,"",""
+ball,1,2.3,Lancashire,AL Davies,LS Livingstone,DR Briggs,0,0,,,,,,"",""
+ball,1,2.4,Lancashire,AL Davies,LS Livingstone,DR Briggs,1,0,,,,,,"",""
+ball,1,2.5,Lancashire,LS Livingstone,AL Davies,DR Briggs,1,0,,,,,,"",""
+ball,1,2.6,Lancashire,AL Davies,LS Livingstone,DR Briggs,0,0,,,,,,"",""
+ball,1,3.1,Lancashire,LS Livingstone,AL Davies,OE Robinson,6,0,,,,,,"",""
+ball,1,3.2,Lancashire,LS Livingstone,AL Davies,OE Robinson,0,0,,,,,,bowled,LS Livingstone
+ball,1,3.3,Lancashire,KK Jennings,AL Davies,OE Robinson,0,0,,,,,,"",""
+ball,1,3.4,Lancashire,KK Jennings,AL Davies,OE Robinson,0,0,,,,,,"",""
+ball,1,3.5,Lancashire,KK Jennings,AL Davies,OE Robinson,4,0,,,,,,"",""
+ball,1,3.6,Lancashire,KK Jennings,AL Davies,OE Robinson,1,0,,,,,,"",""
+ball,1,4.1,Lancashire,KK Jennings,AL Davies,GHS Garton,0,0,,,,,,caught,KK Jennings
+ball,1,4.2,Lancashire,AL Davies,SJ Croft,GHS Garton,0,0,,,,,,"",""
+ball,1,4.3,Lancashire,AL Davies,SJ Croft,GHS Garton,4,0,,,,,,"",""
+ball,1,4.4,Lancashire,AL Davies,SJ Croft,GHS Garton,0,0,,,,,,"",""
+ball,1,4.5,Lancashire,AL Davies,SJ Croft,GHS Garton,0,0,,,,,,"",""
+ball,1,4.6,Lancashire,AL Davies,SJ Croft,GHS Garton,4,0,,,,,,"",""
+ball,1,5.1,Lancashire,SJ Croft,AL Davies,TS Mills,0,0,,,,,,"",""
+ball,1,5.2,Lancashire,SJ Croft,AL Davies,TS Mills,0,0,,,,,,"",""
+ball,1,5.3,Lancashire,SJ Croft,AL Davies,TS Mills,0,0,,,,,,"",""
+ball,1,5.4,Lancashire,SJ Croft,AL Davies,TS Mills,0,0,,,,,,"",""
+ball,1,5.5,Lancashire,SJ Croft,AL Davies,TS Mills,0,0,,,,,,"",""
+ball,1,5.6,Lancashire,SJ Croft,AL Davies,TS Mills,1,0,,,,,,"",""
+ball,1,6.1,Lancashire,SJ Croft,AL Davies,DR Briggs,0,0,,,,,,"",""
+ball,1,6.2,Lancashire,SJ Croft,AL Davies,DR Briggs,1,0,,,,,,"",""
+ball,1,6.3,Lancashire,AL Davies,SJ Croft,DR Briggs,1,0,,,,,,"",""
+ball,1,6.4,Lancashire,SJ Croft,AL Davies,DR Briggs,1,0,,,,,,"",""
+ball,1,6.5,Lancashire,AL Davies,SJ Croft,DR Briggs,1,0,,,,,,"",""
+ball,1,6.6,Lancashire,SJ Croft,AL Davies,DR Briggs,1,0,,,,,,"",""
+ball,1,7.1,Lancashire,SJ Croft,AL Davies,DMW Rawlins,0,0,,,,,,"",""
+ball,1,7.2,Lancashire,SJ Croft,AL Davies,DMW Rawlins,1,0,,,,,,"",""
+ball,1,7.3,Lancashire,AL Davies,SJ Croft,DMW Rawlins,1,0,,,,,,"",""
+ball,1,7.4,Lancashire,SJ Croft,AL Davies,DMW Rawlins,0,0,,,,,,"",""
+ball,1,7.5,Lancashire,SJ Croft,AL Davies,DMW Rawlins,0,0,,,,,,"",""
+ball,1,7.6,Lancashire,SJ Croft,AL Davies,DMW Rawlins,1,0,,,,,,"",""
+ball,1,8.1,Lancashire,SJ Croft,AL Davies,RS Bopara,1,0,,,,,,"",""
+ball,1,8.2,Lancashire,AL Davies,SJ Croft,RS Bopara,1,0,,,,,,"",""
+ball,1,8.3,Lancashire,SJ Croft,AL Davies,RS Bopara,0,0,,,,,,"",""
+ball,1,8.4,Lancashire,SJ Croft,AL Davies,RS Bopara,0,0,,,,,,"",""
+ball,1,8.5,Lancashire,SJ Croft,AL Davies,RS Bopara,4,0,,,,,,"",""
+ball,1,8.6,Lancashire,SJ Croft,AL Davies,RS Bopara,4,0,,,,,,"",""
+ball,1,9.1,Lancashire,AL Davies,SJ Croft,DMW Rawlins,0,0,,,,,,caught,AL Davies
+ball,1,9.2,Lancashire,DJ Vilas,SJ Croft,DMW Rawlins,1,0,,,,,,"",""
+ball,1,9.3,Lancashire,SJ Croft,DJ Vilas,DMW Rawlins,0,0,,,,,,"",""
+ball,1,9.4,Lancashire,SJ Croft,DJ Vilas,DMW Rawlins,1,0,,,,,,"",""
+ball,1,9.5,Lancashire,DJ Vilas,SJ Croft,DMW Rawlins,1,0,,,,,,"",""
+ball,1,9.6,Lancashire,SJ Croft,DJ Vilas,DMW Rawlins,1,0,,,,,,"",""
+ball,1,10.1,Lancashire,SJ Croft,DJ Vilas,DR Briggs,0,0,,,,,,"",""
+ball,1,10.2,Lancashire,SJ Croft,DJ Vilas,DR Briggs,1,0,,,,,,"",""
+ball,1,10.3,Lancashire,DJ Vilas,SJ Croft,DR Briggs,1,0,,,,,,"",""
+ball,1,10.4,Lancashire,SJ Croft,DJ Vilas,DR Briggs,1,0,,,,,,"",""
+ball,1,10.5,Lancashire,DJ Vilas,SJ Croft,DR Briggs,4,0,,,,,,"",""
+ball,1,10.6,Lancashire,DJ Vilas,SJ Croft,DR Briggs,1,0,,,,,,"",""
+ball,1,11.1,Lancashire,DJ Vilas,SJ Croft,TS Mills,0,0,,,,,,"",""
+ball,1,11.2,Lancashire,DJ Vilas,SJ Croft,TS Mills,2,0,,,,,,"",""
+ball,1,11.3,Lancashire,DJ Vilas,SJ Croft,TS Mills,0,0,,,,,,"",""
+ball,1,11.4,Lancashire,DJ Vilas,SJ Croft,TS Mills,0,1,1,,,,,"",""
+ball,1,11.5,Lancashire,DJ Vilas,SJ Croft,TS Mills,1,0,,,,,,"",""
+ball,1,11.6,Lancashire,SJ Croft,DJ Vilas,TS Mills,1,0,,,,,,"",""
+ball,1,11.7,Lancashire,DJ Vilas,SJ Croft,TS Mills,1,0,,,,,,"",""
+ball,1,12.1,Lancashire,DJ Vilas,SJ Croft,DR Briggs,1,0,,,,,,"",""
+ball,1,12.2,Lancashire,SJ Croft,DJ Vilas,DR Briggs,1,0,,,,,,"",""
+ball,1,12.3,Lancashire,DJ Vilas,SJ Croft,DR Briggs,1,0,,,,,,"",""
+ball,1,12.4,Lancashire,SJ Croft,DJ Vilas,DR Briggs,0,0,,,,,,"",""
+ball,1,12.5,Lancashire,SJ Croft,DJ Vilas,DR Briggs,1,0,,,,,,"",""
+ball,1,12.6,Lancashire,DJ Vilas,SJ Croft,DR Briggs,0,0,,,,,,"",""
+ball,1,13.1,Lancashire,SJ Croft,DJ Vilas,DMW Rawlins,6,0,,,,,,"",""
+ball,1,13.2,Lancashire,SJ Croft,DJ Vilas,DMW Rawlins,0,0,,,,,,"",""
+ball,1,13.3,Lancashire,SJ Croft,DJ Vilas,DMW Rawlins,6,0,,,,,,"",""
+ball,1,13.4,Lancashire,SJ Croft,DJ Vilas,DMW Rawlins,1,0,,,,,,"",""
+ball,1,13.5,Lancashire,DJ Vilas,SJ Croft,DMW Rawlins,1,0,,,,,,"",""
+ball,1,13.6,Lancashire,SJ Croft,DJ Vilas,DMW Rawlins,0,0,,,,,,"",""
+ball,1,14.1,Lancashire,DJ Vilas,SJ Croft,GHS Garton,1,0,,,,,,"",""
+ball,1,14.2,Lancashire,SJ Croft,DJ Vilas,GHS Garton,6,0,,,,,,"",""
+ball,1,14.3,Lancashire,SJ Croft,DJ Vilas,GHS Garton,0,0,,,,,,caught,SJ Croft
+ball,1,14.4,Lancashire,DJ Vilas,RP Jones,GHS Garton,1,0,,,,,,"",""
+ball,1,14.5,Lancashire,RP Jones,DJ Vilas,GHS Garton,0,0,,,,,,"",""
+ball,1,14.6,Lancashire,RP Jones,DJ Vilas,GHS Garton,1,0,,,,,,"",""
+ball,1,15.1,Lancashire,RP Jones,DJ Vilas,TS Mills,1,0,,,,,,"",""
+ball,1,15.2,Lancashire,DJ Vilas,RP Jones,TS Mills,6,0,,,,,,"",""
+ball,1,15.3,Lancashire,DJ Vilas,RP Jones,TS Mills,1,0,,,,,,"",""
+ball,1,15.4,Lancashire,RP Jones,DJ Vilas,TS Mills,0,0,,,,,,"",""
+ball,1,15.5,Lancashire,RP Jones,DJ Vilas,TS Mills,2,0,,,,,,"",""
+ball,1,15.6,Lancashire,RP Jones,DJ Vilas,TS Mills,1,0,,,,,,"",""
+ball,1,16.1,Lancashire,RP Jones,DJ Vilas,OE Robinson,0,0,,,,,,"",""
+ball,1,16.2,Lancashire,RP Jones,DJ Vilas,OE Robinson,4,0,,,,,,"",""
+ball,1,16.3,Lancashire,RP Jones,DJ Vilas,OE Robinson,0,0,,,,,,lbw,RP Jones
+ball,1,16.4,Lancashire,DJ Lamb,DJ Vilas,OE Robinson,1,0,,,,,,"",""
+ball,1,16.5,Lancashire,DJ Vilas,DJ Lamb,OE Robinson,1,0,,,,,,"",""
+ball,1,16.6,Lancashire,DJ Lamb,DJ Vilas,OE Robinson,2,0,,,,,,"",""
+ball,1,17.1,Lancashire,DJ Vilas,DJ Lamb,TS Mills,1,0,,,,,,"",""
+ball,1,17.2,Lancashire,DJ Lamb,DJ Vilas,TS Mills,0,2,,2,,,,"",""
+ball,1,17.3,Lancashire,DJ Lamb,DJ Vilas,TS Mills,0,1,1,,,,,"",""
+ball,1,17.4,Lancashire,DJ Lamb,DJ Vilas,TS Mills,0,0,,,,,,"",""
+ball,1,17.5,Lancashire,DJ Lamb,DJ Vilas,TS Mills,0,0,,,,,,"",""
+ball,1,17.6,Lancashire,DJ Lamb,DJ Vilas,TS Mills,0,0,,,,,,caught,DJ Lamb
+ball,1,17.7,Lancashire,DJ Vilas,L Wood,TS Mills,1,0,,,,,,"",""
+ball,1,17.8,Lancashire,L Wood,DJ Vilas,TS Mills,0,0,,,,,,lbw,L Wood
+ball,1,18.1,Lancashire,DJ Vilas,TW Hartley,OE Robinson,4,0,,,,,,"",""
+ball,1,18.2,Lancashire,DJ Vilas,TW Hartley,OE Robinson,1,0,,,,,,"",""
+ball,1,18.3,Lancashire,TW Hartley,DJ Vilas,OE Robinson,0,0,,,,,,"",""
+ball,1,18.4,Lancashire,TW Hartley,DJ Vilas,OE Robinson,0,1,,,,1,,"",""
+ball,1,18.5,Lancashire,DJ Vilas,TW Hartley,OE Robinson,4,0,,,,,,"",""
+ball,1,18.6,Lancashire,DJ Vilas,TW Hartley,OE Robinson,1,0,,,,,,"",""
+ball,1,19.1,Lancashire,DJ Vilas,TW Hartley,GHS Garton,1,0,,,,,,"",""
+ball,1,19.2,Lancashire,TW Hartley,DJ Vilas,GHS Garton,0,1,,,1,,,"",""
+ball,1,19.3,Lancashire,DJ Vilas,TW Hartley,GHS Garton,2,0,,,,,,"",""
+ball,1,19.4,Lancashire,DJ Vilas,TW Hartley,GHS Garton,0,0,,,,,,bowled,DJ Vilas
+ball,1,19.5,Lancashire,S Mahmood,TW Hartley,GHS Garton,2,0,,,,,,"",""
+ball,1,19.6,Lancashire,S Mahmood,TW Hartley,GHS Garton,2,0,,,,,,"",""
+ball,2,0.1,Sussex,PD Salt,LJ Wright,L Wood,4,0,,,,,,"",""
+ball,2,0.2,Sussex,PD Salt,LJ Wright,L Wood,0,0,,,,,,"",""
+ball,2,0.3,Sussex,PD Salt,LJ Wright,L Wood,1,0,,,,,,"",""
+ball,2,0.4,Sussex,LJ Wright,PD Salt,L Wood,4,0,,,,,,"",""
+ball,2,0.5,Sussex,LJ Wright,PD Salt,L Wood,0,0,,,,,,"",""
+ball,2,0.6,Sussex,LJ Wright,PD Salt,L Wood,0,0,,,,,,"",""
+ball,2,1.1,Sussex,PD Salt,LJ Wright,S Mahmood,0,0,,,,,,caught,PD Salt
+ball,2,1.2,Sussex,DMW Rawlins,LJ Wright,S Mahmood,0,0,,,,,,"",""
+ball,2,1.3,Sussex,DMW Rawlins,LJ Wright,S Mahmood,1,0,,,,,,"",""
+ball,2,1.4,Sussex,LJ Wright,DMW Rawlins,S Mahmood,0,0,,,,,,"",""
+ball,2,1.5,Sussex,LJ Wright,DMW Rawlins,S Mahmood,1,0,,,,,,"",""
+ball,2,1.6,Sussex,DMW Rawlins,LJ Wright,S Mahmood,0,0,,,,,,"",""
+ball,2,2.1,Sussex,LJ Wright,DMW Rawlins,L Wood,1,0,,,,,,"",""
+ball,2,2.2,Sussex,DMW Rawlins,LJ Wright,L Wood,2,0,,,,,,"",""
+ball,2,2.3,Sussex,DMW Rawlins,LJ Wright,L Wood,0,0,,,,,,"",""
+ball,2,2.4,Sussex,DMW Rawlins,LJ Wright,L Wood,1,0,,,,,,"",""
+ball,2,2.5,Sussex,LJ Wright,DMW Rawlins,L Wood,1,0,,,,,,"",""
+ball,2,2.6,Sussex,DMW Rawlins,LJ Wright,L Wood,1,0,,,,,,"",""
+ball,2,3.1,Sussex,DMW Rawlins,LJ Wright,DJ Lamb,0,0,,,,,,"",""
+ball,2,3.2,Sussex,DMW Rawlins,LJ Wright,DJ Lamb,0,1,1,,,,,"",""
+ball,2,3.3,Sussex,DMW Rawlins,LJ Wright,DJ Lamb,0,1,1,,,,,"",""
+ball,2,3.4,Sussex,DMW Rawlins,LJ Wright,DJ Lamb,1,0,,,,,,"",""
+ball,2,3.5,Sussex,LJ Wright,DMW Rawlins,DJ Lamb,1,0,,,,,,"",""
+ball,2,3.6,Sussex,DMW Rawlins,LJ Wright,DJ Lamb,0,0,,,,,,"",""
+ball,2,3.7,Sussex,DMW Rawlins,LJ Wright,DJ Lamb,0,0,,,,,,"",""
+ball,2,3.8,Sussex,DMW Rawlins,LJ Wright,DJ Lamb,0,0,,,,,,"",""
+ball,2,4.1,Sussex,LJ Wright,DMW Rawlins,L Wood,0,0,,,,,,"",""
+ball,2,4.2,Sussex,LJ Wright,DMW Rawlins,L Wood,4,0,,,,,,"",""
+ball,2,4.3,Sussex,LJ Wright,DMW Rawlins,L Wood,1,0,,,,,,"",""
+ball,2,4.4,Sussex,DMW Rawlins,LJ Wright,L Wood,0,1,,,,1,,"",""
+ball,2,4.5,Sussex,LJ Wright,DMW Rawlins,L Wood,1,0,,,,,,"",""
+ball,2,4.6,Sussex,DMW Rawlins,LJ Wright,L Wood,0,0,,,,,,bowled,DMW Rawlins
+ball,2,5.1,Sussex,LJ Wright,RS Bopara,S Mahmood,0,0,,,,,,"",""
+ball,2,5.2,Sussex,LJ Wright,RS Bopara,S Mahmood,4,0,,,,,,"",""
+ball,2,5.3,Sussex,LJ Wright,RS Bopara,S Mahmood,1,0,,,,,,"",""
+ball,2,5.4,Sussex,RS Bopara,LJ Wright,S Mahmood,0,0,,,,,,"",""
+ball,2,5.5,Sussex,RS Bopara,LJ Wright,S Mahmood,0,0,,,,,,"",""
+ball,2,5.6,Sussex,RS Bopara,LJ Wright,S Mahmood,1,0,,,,,,"",""
+ball,2,6.1,Sussex,RS Bopara,LJ Wright,TW Hartley,1,0,,,,,,"",""
+ball,2,6.2,Sussex,LJ Wright,RS Bopara,TW Hartley,1,0,,,,,,"",""
+ball,2,6.3,Sussex,RS Bopara,LJ Wright,TW Hartley,0,0,,,,,,"",""
+ball,2,6.4,Sussex,RS Bopara,LJ Wright,TW Hartley,1,0,,,,,,"",""
+ball,2,6.5,Sussex,LJ Wright,RS Bopara,TW Hartley,1,0,,,,,,"",""
+ball,2,6.6,Sussex,RS Bopara,LJ Wright,TW Hartley,0,1,,,,1,,"",""
+ball,2,7.1,Sussex,RS Bopara,LJ Wright,MW Parkinson,1,0,,,,,,"",""
+ball,2,7.2,Sussex,LJ Wright,RS Bopara,MW Parkinson,1,0,,,,,,"",""
+ball,2,7.3,Sussex,RS Bopara,LJ Wright,MW Parkinson,1,0,,,,,,"",""
+ball,2,7.4,Sussex,LJ Wright,RS Bopara,MW Parkinson,0,0,,,,,,"",""
+ball,2,7.5,Sussex,LJ Wright,RS Bopara,MW Parkinson,1,0,,,,,,"",""
+ball,2,7.6,Sussex,RS Bopara,LJ Wright,MW Parkinson,1,0,,,,,,"",""
+ball,2,8.1,Sussex,RS Bopara,LJ Wright,TW Hartley,0,1,1,,,,,"",""
+ball,2,8.2,Sussex,RS Bopara,LJ Wright,TW Hartley,0,0,,,,,,"",""
+ball,2,8.3,Sussex,RS Bopara,LJ Wright,TW Hartley,0,0,,,,,,"",""
+ball,2,8.4,Sussex,RS Bopara,LJ Wright,TW Hartley,0,0,,,,,,lbw,RS Bopara
+ball,2,8.5,Sussex,D Wiese,LJ Wright,TW Hartley,1,0,,,,,,"",""
+ball,2,8.6,Sussex,LJ Wright,D Wiese,TW Hartley,0,0,,,,,,"",""
+ball,2,8.7,Sussex,LJ Wright,D Wiese,TW Hartley,1,0,,,,,,"",""
+ball,2,9.1,Sussex,LJ Wright,D Wiese,MW Parkinson,0,0,,,,,,"",""
+ball,2,9.2,Sussex,LJ Wright,D Wiese,MW Parkinson,0,0,,,,,,"",""
+ball,2,9.3,Sussex,LJ Wright,D Wiese,MW Parkinson,1,0,,,,,,"",""
+ball,2,9.4,Sussex,D Wiese,LJ Wright,MW Parkinson,0,0,,,,,,"",""
+ball,2,9.5,Sussex,D Wiese,LJ Wright,MW Parkinson,0,0,,,,,,"",""
+ball,2,9.6,Sussex,D Wiese,LJ Wright,MW Parkinson,1,0,,,,,,"",""
+ball,2,10.1,Sussex,D Wiese,LJ Wright,LS Livingstone,1,0,,,,,,"",""
+ball,2,10.2,Sussex,LJ Wright,D Wiese,LS Livingstone,1,0,,,,,,"",""
+ball,2,10.3,Sussex,D Wiese,LJ Wright,LS Livingstone,6,0,,,,,,"",""
+ball,2,10.4,Sussex,D Wiese,LJ Wright,LS Livingstone,0,0,,,,,,"",""
+ball,2,10.5,Sussex,D Wiese,LJ Wright,LS Livingstone,0,0,,,,,,caught,D Wiese
+ball,2,10.6,Sussex,LJ Wright,CS MacLeod,LS Livingstone,1,0,,,,,,"",""
+ball,2,11.1,Sussex,LJ Wright,CS MacLeod,TW Hartley,4,0,,,,,,"",""
+ball,2,11.2,Sussex,LJ Wright,CS MacLeod,TW Hartley,1,0,,,,,,"",""
+ball,2,11.3,Sussex,CS MacLeod,LJ Wright,TW Hartley,4,0,,,,,,"",""
+ball,2,11.4,Sussex,CS MacLeod,LJ Wright,TW Hartley,1,0,,,,,,"",""
+ball,2,11.5,Sussex,LJ Wright,CS MacLeod,TW Hartley,0,0,,,,,,"",""
+ball,2,11.6,Sussex,LJ Wright,CS MacLeod,TW Hartley,1,0,,,,,,"",""
+ball,2,12.1,Sussex,LJ Wright,CS MacLeod,LS Livingstone,2,0,,,,,,"",""
+ball,2,12.2,Sussex,LJ Wright,CS MacLeod,LS Livingstone,0,0,,,,,,"",""
+ball,2,12.3,Sussex,LJ Wright,CS MacLeod,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.4,Sussex,CS MacLeod,LJ Wright,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.5,Sussex,LJ Wright,CS MacLeod,LS Livingstone,0,0,,,,,,caught,LJ Wright
+ball,2,12.6,Sussex,CS MacLeod,GHS Garton,LS Livingstone,0,0,,,,,,"",""
+ball,2,13.1,Sussex,GHS Garton,CS MacLeod,DJ Lamb,1,0,,,,,,"",""
+ball,2,13.2,Sussex,CS MacLeod,GHS Garton,DJ Lamb,2,0,,,,,,"",""
+ball,2,13.3,Sussex,CS MacLeod,GHS Garton,DJ Lamb,0,0,,,,,,"",""
+ball,2,13.4,Sussex,CS MacLeod,GHS Garton,DJ Lamb,1,0,,,,,,"",""
+ball,2,13.5,Sussex,GHS Garton,CS MacLeod,DJ Lamb,0,0,,,,,,"",""
+ball,2,13.6,Sussex,GHS Garton,CS MacLeod,DJ Lamb,0,0,,,,,,"",""
+ball,2,14.1,Sussex,CS MacLeod,GHS Garton,MW Parkinson,0,0,,,,,,caught,CS MacLeod
+ball,2,14.2,Sussex,WAT Beer,GHS Garton,MW Parkinson,1,0,,,,,,"",""
+ball,2,14.3,Sussex,GHS Garton,WAT Beer,MW Parkinson,0,0,,,,,,bowled,GHS Garton
+ball,2,14.4,Sussex,OE Robinson,WAT Beer,MW Parkinson,0,0,,,,,,stumped,OE Robinson
+ball,2,14.5,Sussex,DR Briggs,WAT Beer,MW Parkinson,0,0,,,,,,"",""
+ball,2,14.6,Sussex,DR Briggs,WAT Beer,MW Parkinson,1,0,,,,,,"",""
+ball,2,15.1,Sussex,DR Briggs,WAT Beer,LS Livingstone,0,0,,,,,,lbw,DR Briggs
+ball,2,15.2,Sussex,TS Mills,WAT Beer,LS Livingstone,6,0,,,,,,"",""
+ball,2,15.3,Sussex,TS Mills,WAT Beer,LS Livingstone,0,0,,,,,,"",""
+ball,2,15.4,Sussex,TS Mills,WAT Beer,LS Livingstone,1,0,,,,,,"",""
+ball,2,15.5,Sussex,WAT Beer,TS Mills,LS Livingstone,1,0,,,,,,"",""
+ball,2,15.6,Sussex,TS Mills,WAT Beer,LS Livingstone,0,0,,,,,,"",""
+ball,2,16.1,Sussex,WAT Beer,TS Mills,S Mahmood,1,0,,,,,,"",""
+ball,2,16.2,Sussex,TS Mills,WAT Beer,S Mahmood,0,0,,,,,,"",""
+ball,2,16.3,Sussex,TS Mills,WAT Beer,S Mahmood,0,0,,,,,,"",""
+ball,2,16.4,Sussex,TS Mills,WAT Beer,S Mahmood,0,0,,,,,,"",""
+ball,2,16.5,Sussex,TS Mills,WAT Beer,S Mahmood,1,0,,,,,,"",""
+ball,2,16.6,Sussex,WAT Beer,TS Mills,S Mahmood,4,0,,,,,,"",""
+ball,2,17.1,Sussex,TS Mills,WAT Beer,LS Livingstone,2,0,,,,,,"",""
+ball,2,17.2,Sussex,TS Mills,WAT Beer,LS Livingstone,0,0,,,,,,stumped,TS Mills

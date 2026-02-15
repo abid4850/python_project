@@ -1,0 +1,312 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Finland
+info,team,Spain
+info,gender,male
+info,season,2018
+info,date,2018/09/01
+info,event,ICC World Twenty20 Europe Region Qualifier B
+info,match_number,11
+info,venue,Hazelaarweg
+info,city,Rotterdam
+info,toss_winner,Spain
+info,toss_decision,field
+info,umpire,Suthan Selvachandran
+info,umpire,R Hassan
+info,reserve_umpire,Philip Thompson
+info,winner,Finland
+info,winner_runs,28
+info,player,Finland,R Pathak
+info,player,Finland,NG Collins
+info,player,Finland,VS Padhaal
+info,player,Finland,A Pusthay
+info,player,Finland,PF Gallagher
+info,player,Finland,AK Mohan
+info,player,Finland,TDF Vehvilainen
+info,player,Finland,TK Saha
+info,player,Finland,Shoaib Qureshi
+info,player,Finland,M Chauhan
+info,player,Finland,H Dandapani
+info,player,Spain,Muhammad Asjed
+info,player,Spain,Kuldeep Lal
+info,player,Spain,Yasir Ali
+info,player,Spain,PD Hennessy
+info,player,Spain,V Vini
+info,player,Spain,Atif Mehmood
+info,player,Spain,R Panchal
+info,player,Spain,C Munoz-Mills
+info,player,Spain,AD Algar
+info,player,Spain,TC Vine
+info,player,Spain,J Roper
+info,registry,people,A Pusthay,0393fbdc
+info,registry,people,AD Algar,020e49e9
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,Atif Mehmood,7fcc57bf
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,H Dandapani,9960a421
+info,registry,people,J Roper,a15f337a
+info,registry,people,Kuldeep Lal,8a1d0222
+info,registry,people,M Chauhan,8534e758
+info,registry,people,Muhammad Asjed,02d0c9ae
+info,registry,people,NG Collins,be3bdc15
+info,registry,people,PD Hennessy,a3b9191a
+info,registry,people,PF Gallagher,8e9d3dc4
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,R Hassan,e303d1cc
+info,registry,people,R Panchal,91cd337c
+info,registry,people,R Pathak,025f79d1
+info,registry,people,Shoaib Qureshi,bc791e2d
+info,registry,people,Suthan Selvachandran,73da6e8d
+info,registry,people,TC Vine,ab8ef1e9
+info,registry,people,TDF Vehvilainen,47f1e175
+info,registry,people,TK Saha,35b84618
+info,registry,people,V Vini,3039ff8a
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,Yasir Ali,79209272
+ball,1,0.1,Finland,R Pathak,NG Collins,Atif Mehmood,0,0,,,,,,"",""
+ball,1,0.2,Finland,R Pathak,NG Collins,Atif Mehmood,1,0,,,,,,"",""
+ball,1,0.3,Finland,NG Collins,R Pathak,Atif Mehmood,0,0,,,,,,"",""
+ball,1,0.4,Finland,NG Collins,R Pathak,Atif Mehmood,0,0,,,,,,"",""
+ball,1,0.5,Finland,NG Collins,R Pathak,Atif Mehmood,0,0,,,,,,"",""
+ball,1,0.6,Finland,NG Collins,R Pathak,Atif Mehmood,0,1,1,,,,,"",""
+ball,1,0.7,Finland,NG Collins,R Pathak,Atif Mehmood,0,0,,,,,,"",""
+ball,1,1.1,Finland,R Pathak,NG Collins,R Panchal,0,1,,1,,,,"",""
+ball,1,1.2,Finland,R Pathak,NG Collins,R Panchal,1,0,,,,,,"",""
+ball,1,1.3,Finland,NG Collins,R Pathak,R Panchal,1,0,,,,,,"",""
+ball,1,1.4,Finland,R Pathak,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,1.5,Finland,R Pathak,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,1.6,Finland,R Pathak,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,1.7,Finland,R Pathak,NG Collins,R Panchal,1,0,,,,,,"",""
+ball,1,2.1,Finland,R Pathak,NG Collins,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,2.2,Finland,NG Collins,R Pathak,Kuldeep Lal,4,0,,,,,,"",""
+ball,1,2.3,Finland,NG Collins,R Pathak,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,2.4,Finland,R Pathak,NG Collins,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,2.5,Finland,NG Collins,R Pathak,Kuldeep Lal,4,0,,,,,,"",""
+ball,1,2.6,Finland,NG Collins,R Pathak,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,3.1,Finland,R Pathak,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,3.2,Finland,R Pathak,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,3.3,Finland,R Pathak,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,3.4,Finland,R Pathak,NG Collins,R Panchal,0,0,,,,,,bowled,R Pathak
+ball,1,3.5,Finland,VS Padhaal,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,3.6,Finland,VS Padhaal,NG Collins,R Panchal,0,1,,,,1,,"",""
+ball,1,4.1,Finland,VS Padhaal,NG Collins,TC Vine,4,0,,,,,,"",""
+ball,1,4.2,Finland,VS Padhaal,NG Collins,TC Vine,4,0,,,,,,"",""
+ball,1,4.3,Finland,VS Padhaal,NG Collins,TC Vine,0,0,,,,,,"",""
+ball,1,4.4,Finland,VS Padhaal,NG Collins,TC Vine,4,0,,,,,,"",""
+ball,1,4.5,Finland,VS Padhaal,NG Collins,TC Vine,1,0,,,,,,"",""
+ball,1,4.6,Finland,NG Collins,VS Padhaal,TC Vine,0,0,,,,,,"",""
+ball,1,5.1,Finland,VS Padhaal,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,5.2,Finland,VS Padhaal,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,5.3,Finland,VS Padhaal,NG Collins,R Panchal,2,0,,,,,,"",""
+ball,1,5.4,Finland,VS Padhaal,NG Collins,R Panchal,0,0,,,,,,"",""
+ball,1,5.5,Finland,VS Padhaal,NG Collins,R Panchal,1,0,,,,,,"",""
+ball,1,5.6,Finland,NG Collins,VS Padhaal,R Panchal,0,0,,,,,,"",""
+ball,1,6.1,Finland,VS Padhaal,NG Collins,Kuldeep Lal,0,1,1,,,,,"",""
+ball,1,6.2,Finland,VS Padhaal,NG Collins,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,6.3,Finland,NG Collins,VS Padhaal,Kuldeep Lal,0,1,1,,,,,"",""
+ball,1,6.4,Finland,NG Collins,VS Padhaal,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,6.5,Finland,NG Collins,VS Padhaal,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,6.6,Finland,NG Collins,VS Padhaal,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,6.7,Finland,NG Collins,VS Padhaal,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,6.8,Finland,NG Collins,VS Padhaal,Kuldeep Lal,0,1,1,,,,,"",""
+ball,1,6.9,Finland,NG Collins,VS Padhaal,Kuldeep Lal,0,3,3,,,,,"",""
+ball,1,6.10,Finland,NG Collins,VS Padhaal,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,7.1,Finland,NG Collins,VS Padhaal,R Panchal,0,0,,,,,,"",""
+ball,1,7.2,Finland,NG Collins,VS Padhaal,R Panchal,4,0,,,,,,"",""
+ball,1,7.3,Finland,NG Collins,VS Padhaal,R Panchal,0,0,,,,,,"",""
+ball,1,7.4,Finland,NG Collins,VS Padhaal,R Panchal,0,0,,,,,,"",""
+ball,1,7.5,Finland,NG Collins,VS Padhaal,R Panchal,4,0,,,,,,"",""
+ball,1,7.6,Finland,NG Collins,VS Padhaal,R Panchal,0,0,,,,,,"",""
+ball,1,8.1,Finland,VS Padhaal,NG Collins,C Munoz-Mills,1,0,,,,,,"",""
+ball,1,8.2,Finland,NG Collins,VS Padhaal,C Munoz-Mills,1,0,,,,,,"",""
+ball,1,8.3,Finland,VS Padhaal,NG Collins,C Munoz-Mills,0,0,,,,,,"",""
+ball,1,8.4,Finland,VS Padhaal,NG Collins,C Munoz-Mills,1,0,,,,,,"",""
+ball,1,8.5,Finland,NG Collins,VS Padhaal,C Munoz-Mills,0,0,,,,,,"",""
+ball,1,8.6,Finland,NG Collins,VS Padhaal,C Munoz-Mills,2,0,,,,,,"",""
+ball,1,9.1,Finland,VS Padhaal,NG Collins,J Roper,0,0,,,,,,"",""
+ball,1,9.2,Finland,VS Padhaal,NG Collins,J Roper,0,0,,,,,,"",""
+ball,1,9.3,Finland,VS Padhaal,NG Collins,J Roper,2,0,,,,,,"",""
+ball,1,9.4,Finland,VS Padhaal,NG Collins,J Roper,1,0,,,,,,"",""
+ball,1,9.5,Finland,NG Collins,VS Padhaal,J Roper,0,0,,,,,,"",""
+ball,1,9.6,Finland,NG Collins,VS Padhaal,J Roper,2,0,,,,,,"",""
+ball,1,10.1,Finland,VS Padhaal,NG Collins,C Munoz-Mills,1,0,,,,,,"",""
+ball,1,10.2,Finland,NG Collins,VS Padhaal,C Munoz-Mills,0,0,,,,,,"",""
+ball,1,10.3,Finland,NG Collins,VS Padhaal,C Munoz-Mills,2,0,,,,,,"",""
+ball,1,10.4,Finland,NG Collins,VS Padhaal,C Munoz-Mills,0,0,,,,,,"",""
+ball,1,10.5,Finland,NG Collins,VS Padhaal,C Munoz-Mills,1,0,,,,,,"",""
+ball,1,10.6,Finland,NG Collins,VS Padhaal,C Munoz-Mills,0,0,,,,,,"",""
+ball,1,11.1,Finland,VS Padhaal,NG Collins,J Roper,2,0,,,,,,"",""
+ball,1,11.2,Finland,VS Padhaal,NG Collins,J Roper,0,0,,,,,,bowled,VS Padhaal
+ball,1,11.3,Finland,A Pusthay,NG Collins,J Roper,0,0,,,,,,"",""
+ball,1,11.4,Finland,A Pusthay,NG Collins,J Roper,2,0,,,,,,"",""
+ball,1,11.5,Finland,A Pusthay,NG Collins,J Roper,1,0,,,,,,"",""
+ball,1,11.6,Finland,NG Collins,A Pusthay,J Roper,0,1,1,,,,,"",""
+ball,1,11.7,Finland,NG Collins,A Pusthay,J Roper,1,0,,,,,,"",""
+ball,1,12.1,Finland,NG Collins,A Pusthay,C Munoz-Mills,1,0,,,,,,"",""
+ball,1,12.2,Finland,A Pusthay,NG Collins,C Munoz-Mills,0,0,,,,,,"",""
+ball,1,12.3,Finland,A Pusthay,NG Collins,C Munoz-Mills,0,0,,,,,,"",""
+ball,1,12.4,Finland,A Pusthay,NG Collins,C Munoz-Mills,1,0,,,,,,"",""
+ball,1,12.5,Finland,NG Collins,A Pusthay,C Munoz-Mills,4,0,,,,,,"",""
+ball,1,12.6,Finland,NG Collins,A Pusthay,C Munoz-Mills,1,0,,,,,,"",""
+ball,1,13.1,Finland,NG Collins,A Pusthay,J Roper,1,0,,,,,,"",""
+ball,1,13.2,Finland,A Pusthay,NG Collins,J Roper,1,0,,,,,,"",""
+ball,1,13.3,Finland,NG Collins,A Pusthay,J Roper,1,0,,,,,,"",""
+ball,1,13.4,Finland,A Pusthay,NG Collins,J Roper,1,0,,,,,,"",""
+ball,1,13.5,Finland,NG Collins,A Pusthay,J Roper,4,0,,,,,,"",""
+ball,1,13.6,Finland,NG Collins,A Pusthay,J Roper,1,0,,,,,,"",""
+ball,1,14.1,Finland,NG Collins,A Pusthay,Atif Mehmood,1,0,,,,,,"",""
+ball,1,14.2,Finland,A Pusthay,NG Collins,Atif Mehmood,0,0,,,,,,caught,A Pusthay
+ball,1,14.3,Finland,PF Gallagher,NG Collins,Atif Mehmood,0,0,,,,,,"",""
+ball,1,14.4,Finland,PF Gallagher,NG Collins,Atif Mehmood,0,0,,,,,,"",""
+ball,1,14.5,Finland,PF Gallagher,NG Collins,Atif Mehmood,0,0,,,,,,"",""
+ball,1,14.6,Finland,PF Gallagher,NG Collins,Atif Mehmood,2,0,,,,,,"",""
+ball,1,15.1,Finland,NG Collins,PF Gallagher,Yasir Ali,1,0,,,,,,"",""
+ball,1,15.2,Finland,PF Gallagher,NG Collins,Yasir Ali,0,0,,,,,,caught,PF Gallagher
+ball,1,15.3,Finland,NG Collins,AK Mohan,Yasir Ali,0,0,,,,,,"",""
+ball,1,15.4,Finland,NG Collins,AK Mohan,Yasir Ali,1,0,,,,,,"",""
+ball,1,15.5,Finland,AK Mohan,NG Collins,Yasir Ali,0,0,,,,,,"",""
+ball,1,15.6,Finland,AK Mohan,NG Collins,Yasir Ali,0,0,,,,,,"",""
+ball,1,16.1,Finland,NG Collins,AK Mohan,Atif Mehmood,2,0,,,,,,"",""
+ball,1,16.2,Finland,NG Collins,AK Mohan,Atif Mehmood,0,0,,,,,,"",""
+ball,1,16.3,Finland,NG Collins,AK Mohan,Atif Mehmood,1,0,,,,,,"",""
+ball,1,16.4,Finland,AK Mohan,NG Collins,Atif Mehmood,1,0,,,,,,"",""
+ball,1,16.5,Finland,NG Collins,AK Mohan,Atif Mehmood,2,0,,,,,,"",""
+ball,1,16.6,Finland,NG Collins,AK Mohan,Atif Mehmood,1,0,,,,,,"",""
+ball,1,17.1,Finland,AK Mohan,NG Collins,Yasir Ali,0,0,,,,,,"",""
+ball,1,17.2,Finland,AK Mohan,NG Collins,Yasir Ali,4,0,,,,,,"",""
+ball,1,17.3,Finland,AK Mohan,NG Collins,Yasir Ali,1,0,,,,,,"",""
+ball,1,17.4,Finland,NG Collins,AK Mohan,Yasir Ali,0,0,,,,,,bowled,NG Collins
+ball,1,17.5,Finland,TDF Vehvilainen,AK Mohan,Yasir Ali,1,0,,,,,,"",""
+ball,1,17.6,Finland,AK Mohan,TDF Vehvilainen,Yasir Ali,0,0,,,,,,"",""
+ball,1,18.1,Finland,TDF Vehvilainen,AK Mohan,Atif Mehmood,0,0,,,,,,bowled,TDF Vehvilainen
+ball,1,18.2,Finland,TK Saha,AK Mohan,Atif Mehmood,1,0,,,,,,"",""
+ball,1,18.3,Finland,AK Mohan,TK Saha,Atif Mehmood,4,0,,,,,,"",""
+ball,1,18.4,Finland,AK Mohan,TK Saha,Atif Mehmood,1,0,,,,,,"",""
+ball,1,18.5,Finland,TK Saha,AK Mohan,Atif Mehmood,1,0,,,,,,"",""
+ball,1,18.6,Finland,AK Mohan,TK Saha,Atif Mehmood,1,0,,,,,,"",""
+ball,1,19.1,Finland,AK Mohan,TK Saha,Yasir Ali,2,0,,,,,,"",""
+ball,1,19.2,Finland,AK Mohan,TK Saha,Yasir Ali,0,0,,,,,,"",""
+ball,1,19.3,Finland,AK Mohan,TK Saha,Yasir Ali,1,0,,,,,,"",""
+ball,1,19.4,Finland,TK Saha,AK Mohan,Yasir Ali,1,0,,,,,,"",""
+ball,1,19.5,Finland,AK Mohan,TK Saha,Yasir Ali,0,0,,,,,,"",""
+ball,1,19.6,Finland,AK Mohan,TK Saha,Yasir Ali,2,0,,,,,,"",""
+ball,2,0.1,Spain,Muhammad Asjed,Kuldeep Lal,M Chauhan,4,0,,,,,,"",""
+ball,2,0.2,Spain,Muhammad Asjed,Kuldeep Lal,M Chauhan,0,0,,,,,,bowled,Muhammad Asjed
+ball,2,0.3,Spain,Yasir Ali,Kuldeep Lal,M Chauhan,0,0,,,,,,"",""
+ball,2,0.4,Spain,Yasir Ali,Kuldeep Lal,M Chauhan,0,0,,,,,,"",""
+ball,2,0.5,Spain,Yasir Ali,Kuldeep Lal,M Chauhan,0,0,,,,,,"",""
+ball,2,0.6,Spain,Yasir Ali,Kuldeep Lal,M Chauhan,3,0,,,,,,"",""
+ball,2,1.1,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,1.2,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,1.3,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,1.4,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,4,0,,,,,,"",""
+ball,2,1.5,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,1.6,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,1,0,,,,,,"",""
+ball,2,2.1,Spain,Yasir Ali,Kuldeep Lal,M Chauhan,0,0,,,,,,"",""
+ball,2,2.2,Spain,Yasir Ali,Kuldeep Lal,M Chauhan,0,0,,,,,,"",""
+ball,2,2.3,Spain,Yasir Ali,Kuldeep Lal,M Chauhan,1,0,,,,,,"",""
+ball,2,2.4,Spain,Kuldeep Lal,Yasir Ali,M Chauhan,4,0,,,,,,"",""
+ball,2,2.5,Spain,Kuldeep Lal,Yasir Ali,M Chauhan,4,0,,,,,,"",""
+ball,2,2.6,Spain,Kuldeep Lal,Yasir Ali,M Chauhan,0,0,,,,,,"",""
+ball,2,3.1,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,4,0,,,,,,"",""
+ball,2,3.2,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,3.3,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,3.4,Spain,Yasir Ali,Kuldeep Lal,Shoaib Qureshi,1,0,,,,,,"",""
+ball,2,3.5,Spain,Kuldeep Lal,Yasir Ali,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,3.6,Spain,Kuldeep Lal,Yasir Ali,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,4.1,Spain,Yasir Ali,Kuldeep Lal,A Pusthay,1,0,,,,,,"",""
+ball,2,4.2,Spain,Kuldeep Lal,Yasir Ali,A Pusthay,0,0,,,,,,"",""
+ball,2,4.3,Spain,Kuldeep Lal,Yasir Ali,A Pusthay,0,0,,,,,,"",""
+ball,2,4.4,Spain,Kuldeep Lal,Yasir Ali,A Pusthay,0,0,,,,,,caught,Kuldeep Lal
+ball,2,4.5,Spain,Yasir Ali,PD Hennessy,A Pusthay,0,0,,,,,,"",""
+ball,2,4.6,Spain,Yasir Ali,PD Hennessy,A Pusthay,0,0,,,,,,"",""
+ball,2,5.1,Spain,PD Hennessy,Yasir Ali,Shoaib Qureshi,0,0,,,,,,bowled,PD Hennessy
+ball,2,5.2,Spain,V Vini,Yasir Ali,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,5.3,Spain,V Vini,Yasir Ali,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,5.4,Spain,V Vini,Yasir Ali,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,5.5,Spain,V Vini,Yasir Ali,Shoaib Qureshi,0,0,,,,,,bowled,V Vini
+ball,2,5.6,Spain,Atif Mehmood,Yasir Ali,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,6.1,Spain,Yasir Ali,Atif Mehmood,A Pusthay,0,0,,,,,,"",""
+ball,2,6.2,Spain,Yasir Ali,Atif Mehmood,A Pusthay,0,0,,,,,,"",""
+ball,2,6.3,Spain,Yasir Ali,Atif Mehmood,A Pusthay,0,0,,,,,,"",""
+ball,2,6.4,Spain,Yasir Ali,Atif Mehmood,A Pusthay,0,0,,,,,,"",""
+ball,2,6.5,Spain,Yasir Ali,Atif Mehmood,A Pusthay,1,0,,,,,,"",""
+ball,2,6.6,Spain,Atif Mehmood,Yasir Ali,A Pusthay,0,0,,,,,,"",""
+ball,2,7.1,Spain,Yasir Ali,Atif Mehmood,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,7.2,Spain,Yasir Ali,Atif Mehmood,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,7.3,Spain,Yasir Ali,Atif Mehmood,Shoaib Qureshi,0,0,,,,,,"",""
+ball,2,7.4,Spain,Yasir Ali,Atif Mehmood,Shoaib Qureshi,2,0,,,,,,"",""
+ball,2,7.5,Spain,Yasir Ali,Atif Mehmood,Shoaib Qureshi,1,0,,,,,,"",""
+ball,2,7.6,Spain,Atif Mehmood,Yasir Ali,Shoaib Qureshi,1,0,,,,,,"",""
+ball,2,8.1,Spain,Atif Mehmood,Yasir Ali,H Dandapani,0,0,,,,,,"",""
+ball,2,8.2,Spain,Atif Mehmood,Yasir Ali,H Dandapani,1,0,,,,,,"",""
+ball,2,8.3,Spain,Yasir Ali,Atif Mehmood,H Dandapani,1,0,,,,,,"",""
+ball,2,8.4,Spain,Atif Mehmood,Yasir Ali,H Dandapani,1,0,,,,,,"",""
+ball,2,8.5,Spain,Yasir Ali,Atif Mehmood,H Dandapani,1,0,,,,,,"",""
+ball,2,8.6,Spain,Atif Mehmood,Yasir Ali,H Dandapani,1,0,,,,,,"",""
+ball,2,9.1,Spain,Atif Mehmood,Yasir Ali,TK Saha,1,0,,,,,,"",""
+ball,2,9.2,Spain,Yasir Ali,Atif Mehmood,TK Saha,0,0,,,,,,bowled,Yasir Ali
+ball,2,9.3,Spain,R Panchal,Atif Mehmood,TK Saha,1,0,,,,,,"",""
+ball,2,9.4,Spain,Atif Mehmood,R Panchal,TK Saha,1,0,,,,,,"",""
+ball,2,9.5,Spain,R Panchal,Atif Mehmood,TK Saha,1,0,,,,,,"",""
+ball,2,9.6,Spain,Atif Mehmood,R Panchal,TK Saha,0,0,,,,,,"",""
+ball,2,10.1,Spain,R Panchal,Atif Mehmood,H Dandapani,1,0,,,,,,"",""
+ball,2,10.2,Spain,Atif Mehmood,R Panchal,H Dandapani,0,0,,,,,,"",""
+ball,2,10.3,Spain,Atif Mehmood,R Panchal,H Dandapani,0,0,,,,,,"",""
+ball,2,10.4,Spain,Atif Mehmood,R Panchal,H Dandapani,1,0,,,,,,"",""
+ball,2,10.5,Spain,R Panchal,Atif Mehmood,H Dandapani,1,0,,,,,,"",""
+ball,2,10.6,Spain,Atif Mehmood,R Panchal,H Dandapani,1,0,,,,,,"",""
+ball,2,11.1,Spain,Atif Mehmood,R Panchal,TK Saha,6,0,,,,,,"",""
+ball,2,11.2,Spain,Atif Mehmood,R Panchal,TK Saha,1,0,,,,,,"",""
+ball,2,11.3,Spain,R Panchal,Atif Mehmood,TK Saha,1,0,,,,,,"",""
+ball,2,11.4,Spain,Atif Mehmood,R Panchal,TK Saha,0,0,,,,,,"",""
+ball,2,11.5,Spain,Atif Mehmood,R Panchal,TK Saha,1,0,,,,,,"",""
+ball,2,11.6,Spain,R Panchal,Atif Mehmood,TK Saha,1,0,,,,,,"",""
+ball,2,12.1,Spain,R Panchal,Atif Mehmood,H Dandapani,1,0,,,,,,"",""
+ball,2,12.2,Spain,Atif Mehmood,R Panchal,H Dandapani,0,0,,,,,,"",""
+ball,2,12.3,Spain,Atif Mehmood,R Panchal,H Dandapani,0,0,,,,,,"",""
+ball,2,12.4,Spain,Atif Mehmood,R Panchal,H Dandapani,1,0,,,,,,"",""
+ball,2,12.5,Spain,R Panchal,Atif Mehmood,H Dandapani,1,0,,,,,,"",""
+ball,2,12.6,Spain,Atif Mehmood,R Panchal,H Dandapani,1,0,,,,,,"",""
+ball,2,13.1,Spain,Atif Mehmood,R Panchal,TK Saha,0,0,,,,,,caught,Atif Mehmood
+ball,2,13.2,Spain,C Munoz-Mills,R Panchal,TK Saha,0,0,,,,,,"",""
+ball,2,13.3,Spain,C Munoz-Mills,R Panchal,TK Saha,0,1,,,1,,,"",""
+ball,2,13.4,Spain,R Panchal,C Munoz-Mills,TK Saha,0,0,,,,,,"",""
+ball,2,13.5,Spain,R Panchal,C Munoz-Mills,TK Saha,1,0,,,,,,"",""
+ball,2,13.6,Spain,C Munoz-Mills,R Panchal,TK Saha,0,0,,,,,,"",""
+ball,2,14.1,Spain,R Panchal,C Munoz-Mills,H Dandapani,0,2,,,2,,,"",""
+ball,2,14.2,Spain,R Panchal,C Munoz-Mills,H Dandapani,0,0,,,,,,caught and bowled,R Panchal
+ball,2,14.3,Spain,AD Algar,C Munoz-Mills,H Dandapani,0,0,,,,,,"",""
+ball,2,14.4,Spain,AD Algar,C Munoz-Mills,H Dandapani,2,0,,,,,,"",""
+ball,2,14.5,Spain,AD Algar,C Munoz-Mills,H Dandapani,0,0,,,,,,"",""
+ball,2,14.6,Spain,AD Algar,C Munoz-Mills,H Dandapani,0,0,,,,,,"",""
+ball,2,15.1,Spain,C Munoz-Mills,AD Algar,TK Saha,0,0,,,,,,"",""
+ball,2,15.2,Spain,C Munoz-Mills,AD Algar,TK Saha,4,0,,,,,,"",""
+ball,2,15.3,Spain,C Munoz-Mills,AD Algar,TK Saha,2,0,,,,,,"",""
+ball,2,15.4,Spain,C Munoz-Mills,AD Algar,TK Saha,0,0,,,,,,"",""
+ball,2,15.5,Spain,C Munoz-Mills,AD Algar,TK Saha,0,0,,,,,,"",""
+ball,2,15.6,Spain,C Munoz-Mills,AD Algar,TK Saha,0,0,,,,,,"",""
+ball,2,16.1,Spain,AD Algar,C Munoz-Mills,A Pusthay,1,0,,,,,,"",""
+ball,2,16.2,Spain,C Munoz-Mills,AD Algar,A Pusthay,2,0,,,,,,"",""
+ball,2,16.3,Spain,C Munoz-Mills,AD Algar,A Pusthay,1,0,,,,,,"",""
+ball,2,16.4,Spain,AD Algar,C Munoz-Mills,A Pusthay,1,0,,,,,,"",""
+ball,2,16.5,Spain,C Munoz-Mills,AD Algar,A Pusthay,2,0,,,,,,"",""
+ball,2,16.6,Spain,C Munoz-Mills,AD Algar,A Pusthay,2,0,,,,,,"",""
+ball,2,17.1,Spain,AD Algar,C Munoz-Mills,M Chauhan,0,0,,,,,,"",""
+ball,2,17.2,Spain,AD Algar,C Munoz-Mills,M Chauhan,1,0,,,,,,"",""
+ball,2,17.3,Spain,C Munoz-Mills,AD Algar,M Chauhan,0,0,,,,,,"",""
+ball,2,17.4,Spain,C Munoz-Mills,AD Algar,M Chauhan,1,0,,,,,,"",""
+ball,2,17.5,Spain,AD Algar,C Munoz-Mills,M Chauhan,0,0,,,,,,"",""
+ball,2,17.6,Spain,AD Algar,C Munoz-Mills,M Chauhan,1,0,,,,,,"",""
+ball,2,18.1,Spain,AD Algar,C Munoz-Mills,A Pusthay,2,0,,,,,,"",""
+ball,2,18.2,Spain,AD Algar,C Munoz-Mills,A Pusthay,0,0,,,,,,"",""
+ball,2,18.3,Spain,AD Algar,C Munoz-Mills,A Pusthay,1,0,,,,,,"",""
+ball,2,18.4,Spain,C Munoz-Mills,AD Algar,A Pusthay,1,0,,,,,,"",""
+ball,2,18.5,Spain,AD Algar,C Munoz-Mills,A Pusthay,0,0,,,,,,run out,AD Algar
+ball,2,18.6,Spain,C Munoz-Mills,TC Vine,A Pusthay,2,0,,,,,,"",""
+ball,2,19.1,Spain,TC Vine,C Munoz-Mills,M Chauhan,0,0,,,,,,"",""
+ball,2,19.2,Spain,TC Vine,C Munoz-Mills,M Chauhan,1,0,,,,,,"",""
+ball,2,19.3,Spain,C Munoz-Mills,TC Vine,M Chauhan,0,0,,,,,,"",""
+ball,2,19.4,Spain,C Munoz-Mills,TC Vine,M Chauhan,0,0,,,,,,run out,TC Vine
+ball,2,19.5,Spain,C Munoz-Mills,J Roper,M Chauhan,1,0,,,,,,"",""
+ball,2,19.6,Spain,J Roper,C Munoz-Mills,M Chauhan,0,0,,,,,,"",""

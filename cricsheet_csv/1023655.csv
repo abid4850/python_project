@@ -1,0 +1,313 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Melbourne Renegades
+info,gender,female
+info,season,2016/17
+info,date,2016/12/10
+info,event,Women's Big Bash League
+info,match_number,2
+info,venue,North Sydney Oval
+info,city,Sydney
+info,toss_winner,Melbourne Renegades
+info,toss_decision,field
+info,player_of_match,SFM Devine
+info,umpire,CA Polosak
+info,umpire,SA Lightbody
+info,tv_umpire,AK Wilds
+info,match_referee,WD Hendricks
+info,winner,Adelaide Strikers
+info,winner_runs,14
+info,player,Adelaide Strikers,BE Patterson
+info,player,Adelaide Strikers,TT Beaumont
+info,player,Adelaide Strikers,CM Edwards
+info,player,Adelaide Strikers,SJ Coyte
+info,player,Adelaide Strikers,TM McGrath
+info,player,Adelaide Strikers,SFM Devine
+info,player,Adelaide Strikers,S Nitschke
+info,player,Adelaide Strikers,TJ McPharlin
+info,player,Adelaide Strikers,A Price
+info,player,Adelaide Strikers,ML Schutt
+info,player,Adelaide Strikers,A Wellington
+info,player,Melbourne Renegades,RH Priest
+info,player,Melbourne Renegades,GM Harris
+info,player,Melbourne Renegades,KL Britt
+info,player,Melbourne Renegades,DN Wyatt
+info,player,Melbourne Renegades,S Molineux
+info,player,Melbourne Renegades,M Strano
+info,player,Melbourne Renegades,LMM Tahuhu
+info,player,Melbourne Renegades,G Wareham
+info,player,Melbourne Renegades,NM Goodwin
+info,player,Melbourne Renegades,NA Plane
+info,player,Melbourne Renegades,M Brown
+info,registry,people,A Price,99e26cea
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AK Wilds,de412f40
+info,registry,people,BE Patterson,7dfbcfff
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CM Edwards,d4188b60
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GM Harris,72166006
+info,registry,people,KL Britt,b9e15440
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,M Brown,78bec461
+info,registry,people,M Strano,f57d5dbb
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,NA Plane,29ed56ec
+info,registry,people,NM Goodwin,4241dc19
+info,registry,people,RH Priest,e6f0408a
+info,registry,people,S Molineux,99e23670
+info,registry,people,S Nitschke,3032933c
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SJ Coyte,a5f488bc
+info,registry,people,TJ McPharlin,595e1ee7
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,WD Hendricks,c631b3f7
+ball,1,0.1,Adelaide Strikers,BE Patterson,TT Beaumont,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,BE Patterson,TT Beaumont,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,TT Beaumont,BE Patterson,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,BE Patterson,TT Beaumont,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,BE Patterson,TT Beaumont,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,0.6,Adelaide Strikers,BE Patterson,TT Beaumont,LMM Tahuhu,2,0,,,,,,"",""
+ball,1,0.7,Adelaide Strikers,BE Patterson,TT Beaumont,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,TT Beaumont,BE Patterson,M Strano,1,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,BE Patterson,TT Beaumont,M Strano,0,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,BE Patterson,TT Beaumont,M Strano,0,0,,,,,,"",""
+ball,1,1.4,Adelaide Strikers,BE Patterson,TT Beaumont,M Strano,2,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,BE Patterson,TT Beaumont,M Strano,1,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,TT Beaumont,BE Patterson,M Strano,0,0,,,,,,lbw,TT Beaumont
+ball,1,2.1,Adelaide Strikers,BE Patterson,CM Edwards,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,CM Edwards,BE Patterson,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,2.3,Adelaide Strikers,CM Edwards,BE Patterson,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,BE Patterson,CM Edwards,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,2.5,Adelaide Strikers,BE Patterson,CM Edwards,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,BE Patterson,CM Edwards,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,2.7,Adelaide Strikers,BE Patterson,CM Edwards,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,2.8,Adelaide Strikers,BE Patterson,CM Edwards,LMM Tahuhu,0,0,,,,,,run out,CM Edwards
+ball,1,3.1,Adelaide Strikers,BE Patterson,SJ Coyte,M Strano,0,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,BE Patterson,SJ Coyte,M Strano,0,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,BE Patterson,SJ Coyte,M Strano,0,0,,,,,,caught,BE Patterson
+ball,1,3.4,Adelaide Strikers,TM McGrath,SJ Coyte,M Strano,0,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,TM McGrath,SJ Coyte,M Strano,0,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,TM McGrath,SJ Coyte,M Strano,0,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,SJ Coyte,TM McGrath,NM Goodwin,0,0,,,,,,caught,SJ Coyte
+ball,1,4.2,Adelaide Strikers,SFM Devine,TM McGrath,NM Goodwin,0,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,SFM Devine,TM McGrath,NM Goodwin,0,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,SFM Devine,TM McGrath,NM Goodwin,1,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,TM McGrath,SFM Devine,NM Goodwin,0,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,TM McGrath,SFM Devine,NM Goodwin,0,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,SFM Devine,TM McGrath,M Strano,1,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,TM McGrath,SFM Devine,M Strano,4,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,TM McGrath,SFM Devine,M Strano,4,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,TM McGrath,SFM Devine,M Strano,0,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,TM McGrath,SFM Devine,M Strano,1,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,SFM Devine,TM McGrath,M Strano,0,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,TM McGrath,SFM Devine,NM Goodwin,0,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,TM McGrath,SFM Devine,NM Goodwin,2,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,TM McGrath,SFM Devine,NM Goodwin,0,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,TM McGrath,SFM Devine,NM Goodwin,0,0,,,,,,bowled,TM McGrath
+ball,1,6.5,Adelaide Strikers,S Nitschke,SFM Devine,NM Goodwin,0,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,S Nitschke,SFM Devine,NM Goodwin,0,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,SFM Devine,S Nitschke,S Molineux,2,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,SFM Devine,S Nitschke,S Molineux,0,0,,,,,,"",""
+ball,1,7.3,Adelaide Strikers,SFM Devine,S Nitschke,S Molineux,0,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,SFM Devine,S Nitschke,S Molineux,2,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,SFM Devine,S Nitschke,S Molineux,1,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,S Nitschke,SFM Devine,S Molineux,0,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,SFM Devine,S Nitschke,NM Goodwin,1,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,S Nitschke,SFM Devine,NM Goodwin,4,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,S Nitschke,SFM Devine,NM Goodwin,0,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,S Nitschke,SFM Devine,NM Goodwin,0,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,S Nitschke,SFM Devine,NM Goodwin,0,0,,,,,,lbw,S Nitschke
+ball,1,8.6,Adelaide Strikers,TJ McPharlin,SFM Devine,NM Goodwin,0,1,,1,,,,"",""
+ball,1,8.7,Adelaide Strikers,TJ McPharlin,SFM Devine,NM Goodwin,0,1,,,,1,,"",""
+ball,1,9.1,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,0,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,1,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,SFM Devine,TJ McPharlin,S Molineux,1,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,0,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,2,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,0,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,SFM Devine,TJ McPharlin,NM Goodwin,6,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,SFM Devine,TJ McPharlin,NM Goodwin,0,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,SFM Devine,TJ McPharlin,NM Goodwin,1,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,TJ McPharlin,SFM Devine,NM Goodwin,0,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,TJ McPharlin,SFM Devine,NM Goodwin,1,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,SFM Devine,TJ McPharlin,NM Goodwin,0,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,1,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,SFM Devine,TJ McPharlin,S Molineux,0,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,SFM Devine,TJ McPharlin,S Molineux,0,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,SFM Devine,TJ McPharlin,S Molineux,1,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,2,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,0,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,0,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,0,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,4,0,,,,,,"",""
+ball,1,12.4,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,4,0,,,,,,"",""
+ball,1,12.5,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,0,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,2,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,2,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,4,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,0,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,4,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,TJ McPharlin,SFM Devine,S Molineux,1,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,SFM Devine,TJ McPharlin,S Molineux,0,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,TJ McPharlin,SFM Devine,GM Harris,1,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,0,0,,,,,,"",""
+ball,1,14.3,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,6,0,,,,,,"",""
+ball,1,14.4,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,2,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,0,0,,,,,,"",""
+ball,1,14.6,Adelaide Strikers,SFM Devine,TJ McPharlin,GM Harris,1,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,SFM Devine,TJ McPharlin,DN Wyatt,1,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,TJ McPharlin,SFM Devine,DN Wyatt,0,0,,,,,,caught,TJ McPharlin
+ball,1,15.3,Adelaide Strikers,SFM Devine,A Price,DN Wyatt,1,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,A Price,SFM Devine,DN Wyatt,0,0,,,,,,"",""
+ball,1,15.5,Adelaide Strikers,A Price,SFM Devine,DN Wyatt,0,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,A Price,SFM Devine,DN Wyatt,0,1,1,,,,,"",""
+ball,1,15.7,Adelaide Strikers,A Price,SFM Devine,DN Wyatt,0,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,SFM Devine,A Price,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,SFM Devine,A Price,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,SFM Devine,A Price,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,A Price,SFM Devine,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,16.5,Adelaide Strikers,SFM Devine,A Price,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,SFM Devine,A Price,LMM Tahuhu,0,0,,,,,,caught,SFM Devine
+ball,1,17.1,Adelaide Strikers,A Price,ML Schutt,DN Wyatt,1,0,,,,,,"",""
+ball,1,17.2,Adelaide Strikers,ML Schutt,A Price,DN Wyatt,4,0,,,,,,"",""
+ball,1,17.3,Adelaide Strikers,ML Schutt,A Price,DN Wyatt,0,0,,,,,,"",""
+ball,1,17.4,Adelaide Strikers,ML Schutt,A Price,DN Wyatt,4,0,,,,,,"",""
+ball,1,17.5,Adelaide Strikers,ML Schutt,A Price,DN Wyatt,1,0,,,,,,"",""
+ball,1,17.6,Adelaide Strikers,A Price,ML Schutt,DN Wyatt,0,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,ML Schutt,A Price,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,ML Schutt,A Price,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,18.3,Adelaide Strikers,ML Schutt,A Price,LMM Tahuhu,0,0,,,,,,caught,ML Schutt
+ball,1,18.4,Adelaide Strikers,A Wellington,A Price,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,18.5,Adelaide Strikers,A Wellington,A Price,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,18.6,Adelaide Strikers,A Price,A Wellington,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,19.1,Adelaide Strikers,A Price,A Wellington,M Strano,1,0,,,,,,"",""
+ball,1,19.2,Adelaide Strikers,A Wellington,A Price,M Strano,1,0,,,,,,"",""
+ball,1,19.3,Adelaide Strikers,A Price,A Wellington,M Strano,0,0,,,,,,caught,A Price
+ball,2,0.1,Melbourne Renegades,RH Priest,GM Harris,ML Schutt,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,RH Priest,GM Harris,ML Schutt,0,1,1,,,,,"",""
+ball,2,0.3,Melbourne Renegades,RH Priest,GM Harris,ML Schutt,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Renegades,RH Priest,GM Harris,ML Schutt,0,0,,,,,,caught,RH Priest
+ball,2,0.5,Melbourne Renegades,KL Britt,GM Harris,ML Schutt,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Renegades,KL Britt,GM Harris,ML Schutt,2,0,,,,,,"",""
+ball,2,0.7,Melbourne Renegades,KL Britt,GM Harris,ML Schutt,1,0,,,,,,"",""
+ball,2,1.1,Melbourne Renegades,KL Britt,GM Harris,S Nitschke,0,0,,,,,,"",""
+ball,2,1.2,Melbourne Renegades,KL Britt,GM Harris,S Nitschke,1,0,,,,,,"",""
+ball,2,1.3,Melbourne Renegades,GM Harris,KL Britt,S Nitschke,4,0,,,,,,"",""
+ball,2,1.4,Melbourne Renegades,GM Harris,KL Britt,S Nitschke,1,0,,,,,,"",""
+ball,2,1.5,Melbourne Renegades,KL Britt,GM Harris,S Nitschke,4,0,,,,,,"",""
+ball,2,1.6,Melbourne Renegades,KL Britt,GM Harris,S Nitschke,0,1,1,,,,,"",""
+ball,2,1.7,Melbourne Renegades,KL Britt,GM Harris,S Nitschke,0,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,GM Harris,KL Britt,ML Schutt,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Renegades,GM Harris,KL Britt,ML Schutt,0,0,,,,,,caught,GM Harris
+ball,2,2.3,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,0,1,1,,,,,"",""
+ball,2,2.4,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,2.7,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,0,1,1,,,,,"",""
+ball,2,2.8,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,DN Wyatt,KL Britt,A Wellington,0,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,DN Wyatt,KL Britt,A Wellington,0,0,,,,,,"",""
+ball,2,3.3,Melbourne Renegades,DN Wyatt,KL Britt,A Wellington,0,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,DN Wyatt,KL Britt,A Wellington,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,DN Wyatt,KL Britt,A Wellington,0,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,DN Wyatt,KL Britt,A Wellington,0,0,,,,,,"",""
+ball,2,4.1,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,4.3,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,2,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,0,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,1,0,,,,,,"",""
+ball,2,4.6,Melbourne Renegades,DN Wyatt,KL Britt,ML Schutt,0,1,1,,,,,"",""
+ball,2,4.7,Melbourne Renegades,DN Wyatt,KL Britt,ML Schutt,0,1,1,,,,,"",""
+ball,2,4.8,Melbourne Renegades,DN Wyatt,KL Britt,ML Schutt,0,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,KL Britt,DN Wyatt,A Wellington,0,0,,,,,,"",""
+ball,2,5.2,Melbourne Renegades,KL Britt,DN Wyatt,A Wellington,1,0,,,,,,"",""
+ball,2,5.3,Melbourne Renegades,DN Wyatt,KL Britt,A Wellington,0,0,,,,,,"",""
+ball,2,5.4,Melbourne Renegades,DN Wyatt,KL Britt,A Wellington,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,KL Britt,DN Wyatt,A Wellington,0,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,KL Britt,DN Wyatt,A Wellington,0,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,DN Wyatt,KL Britt,ML Schutt,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,DN Wyatt,KL Britt,ML Schutt,0,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,DN Wyatt,KL Britt,ML Schutt,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Renegades,DN Wyatt,KL Britt,ML Schutt,1,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,KL Britt,DN Wyatt,ML Schutt,2,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,DN Wyatt,KL Britt,A Wellington,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,KL Britt,DN Wyatt,A Wellington,4,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,KL Britt,DN Wyatt,A Wellington,2,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,KL Britt,DN Wyatt,A Wellington,0,0,,,,,,"",""
+ball,2,7.5,Melbourne Renegades,KL Britt,DN Wyatt,A Wellington,0,0,,,,,,caught,KL Britt
+ball,2,7.6,Melbourne Renegades,S Molineux,DN Wyatt,A Wellington,0,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,DN Wyatt,S Molineux,SJ Coyte,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,S Molineux,DN Wyatt,SJ Coyte,1,0,,,,,,"",""
+ball,2,8.3,Melbourne Renegades,DN Wyatt,S Molineux,SJ Coyte,0,0,,,,,,bowled,DN Wyatt
+ball,2,8.4,Melbourne Renegades,M Strano,S Molineux,SJ Coyte,1,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,S Molineux,M Strano,SJ Coyte,0,2,2,,,,,"",""
+ball,2,8.6,Melbourne Renegades,M Strano,S Molineux,SJ Coyte,2,0,,,,,,"",""
+ball,2,8.7,Melbourne Renegades,M Strano,S Molineux,SJ Coyte,0,0,,,,,,"",""
+ball,2,9.1,Melbourne Renegades,S Molineux,M Strano,A Wellington,0,0,,,,,,"",""
+ball,2,9.2,Melbourne Renegades,S Molineux,M Strano,A Wellington,1,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,M Strano,S Molineux,A Wellington,0,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,M Strano,S Molineux,A Wellington,0,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,M Strano,S Molineux,A Wellington,0,0,,,,,,"",""
+ball,2,9.6,Melbourne Renegades,M Strano,S Molineux,A Wellington,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,M Strano,S Molineux,SJ Coyte,1,0,,,,,,"",""
+ball,2,10.2,Melbourne Renegades,S Molineux,M Strano,SJ Coyte,4,0,,,,,,"",""
+ball,2,10.3,Melbourne Renegades,S Molineux,M Strano,SJ Coyte,0,0,,,,,,"",""
+ball,2,10.4,Melbourne Renegades,S Molineux,M Strano,SJ Coyte,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Renegades,M Strano,S Molineux,SJ Coyte,0,0,,,,,,"",""
+ball,2,10.6,Melbourne Renegades,M Strano,S Molineux,SJ Coyte,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,M Strano,S Molineux,TM McGrath,1,1,,1,,,,"",""
+ball,2,11.2,Melbourne Renegades,S Molineux,M Strano,TM McGrath,2,0,,,,,,"",""
+ball,2,11.3,Melbourne Renegades,S Molineux,M Strano,TM McGrath,0,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,S Molineux,M Strano,TM McGrath,1,0,,,,,,run out,M Strano
+ball,2,11.5,Melbourne Renegades,S Molineux,LMM Tahuhu,TM McGrath,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,LMM Tahuhu,S Molineux,TM McGrath,1,0,,,,,,"",""
+ball,2,11.7,Melbourne Renegades,S Molineux,LMM Tahuhu,TM McGrath,1,0,,,,,,"",""
+ball,2,12.1,Melbourne Renegades,S Molineux,LMM Tahuhu,SJ Coyte,0,0,,,,,,"",""
+ball,2,12.2,Melbourne Renegades,S Molineux,LMM Tahuhu,SJ Coyte,1,0,,,,,,"",""
+ball,2,12.3,Melbourne Renegades,LMM Tahuhu,S Molineux,SJ Coyte,1,0,,,,,,"",""
+ball,2,12.4,Melbourne Renegades,S Molineux,LMM Tahuhu,SJ Coyte,2,0,,,,,,"",""
+ball,2,12.5,Melbourne Renegades,S Molineux,LMM Tahuhu,SJ Coyte,1,0,,,,,,"",""
+ball,2,12.6,Melbourne Renegades,LMM Tahuhu,S Molineux,SJ Coyte,0,0,,,,,,"",""
+ball,2,13.1,Melbourne Renegades,S Molineux,LMM Tahuhu,TM McGrath,4,0,,,,,,"",""
+ball,2,13.2,Melbourne Renegades,S Molineux,LMM Tahuhu,TM McGrath,4,0,,,,,,"",""
+ball,2,13.3,Melbourne Renegades,S Molineux,LMM Tahuhu,TM McGrath,1,0,,,,,,"",""
+ball,2,13.4,Melbourne Renegades,LMM Tahuhu,S Molineux,TM McGrath,1,0,,,,,,"",""
+ball,2,13.5,Melbourne Renegades,S Molineux,LMM Tahuhu,TM McGrath,1,0,,,,,,"",""
+ball,2,13.6,Melbourne Renegades,LMM Tahuhu,S Molineux,TM McGrath,0,0,,,,,,"",""
+ball,2,14.1,Melbourne Renegades,S Molineux,LMM Tahuhu,S Nitschke,1,0,,,,,,"",""
+ball,2,14.2,Melbourne Renegades,LMM Tahuhu,S Molineux,S Nitschke,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Renegades,S Molineux,LMM Tahuhu,S Nitschke,1,0,,,,,,"",""
+ball,2,14.4,Melbourne Renegades,LMM Tahuhu,S Molineux,S Nitschke,0,0,,,,,,"",""
+ball,2,14.5,Melbourne Renegades,LMM Tahuhu,S Molineux,S Nitschke,0,0,,,,,,lbw,LMM Tahuhu
+ball,2,14.6,Melbourne Renegades,G Wareham,S Molineux,S Nitschke,0,0,,,,,,"",""
+ball,2,15.1,Melbourne Renegades,S Molineux,G Wareham,SJ Coyte,1,0,,,,,,"",""
+ball,2,15.2,Melbourne Renegades,G Wareham,S Molineux,SJ Coyte,0,0,,,,,,"",""
+ball,2,15.3,Melbourne Renegades,G Wareham,S Molineux,SJ Coyte,0,0,,,,,,"",""
+ball,2,15.4,Melbourne Renegades,G Wareham,S Molineux,SJ Coyte,1,0,,,,,,"",""
+ball,2,15.5,Melbourne Renegades,S Molineux,G Wareham,SJ Coyte,1,0,,,,,,"",""
+ball,2,15.6,Melbourne Renegades,G Wareham,S Molineux,SJ Coyte,0,0,,,,,,run out,G Wareham
+ball,2,16.1,Melbourne Renegades,NM Goodwin,S Molineux,S Nitschke,0,0,,,,,,"",""
+ball,2,16.2,Melbourne Renegades,NM Goodwin,S Molineux,S Nitschke,1,0,,,,,,"",""
+ball,2,16.3,Melbourne Renegades,S Molineux,NM Goodwin,S Nitschke,1,0,,,,,,"",""
+ball,2,16.4,Melbourne Renegades,NM Goodwin,S Molineux,S Nitschke,1,0,,,,,,run out,NM Goodwin
+ball,2,16.5,Melbourne Renegades,NA Plane,S Molineux,S Nitschke,1,0,,,,,,"",""
+ball,2,16.6,Melbourne Renegades,S Molineux,NA Plane,S Nitschke,4,0,,,,,,"",""
+ball,2,17.1,Melbourne Renegades,NA Plane,S Molineux,A Price,6,0,,,,,,"",""
+ball,2,17.2,Melbourne Renegades,NA Plane,S Molineux,A Price,1,0,,,,,,run out,NA Plane
+ball,2,17.3,Melbourne Renegades,S Molineux,M Brown,A Price,1,0,,,,,,"",""
+ball,2,17.4,Melbourne Renegades,M Brown,S Molineux,A Price,0,0,,,,,,"",""
+ball,2,17.5,Melbourne Renegades,M Brown,S Molineux,A Price,0,0,,,,,,"",""
+ball,2,17.6,Melbourne Renegades,M Brown,S Molineux,A Price,0,0,,,,,,"",""
+ball,2,18.1,Melbourne Renegades,S Molineux,M Brown,S Nitschke,0,0,,,,,,"",""
+ball,2,18.2,Melbourne Renegades,S Molineux,M Brown,S Nitschke,1,0,,,,,,"",""
+ball,2,18.3,Melbourne Renegades,M Brown,S Molineux,S Nitschke,2,0,,,,,,"",""
+ball,2,18.4,Melbourne Renegades,M Brown,S Molineux,S Nitschke,0,0,,,,,,"",""
+ball,2,18.5,Melbourne Renegades,M Brown,S Molineux,S Nitschke,1,0,,,,,,"",""
+ball,2,18.6,Melbourne Renegades,S Molineux,M Brown,S Nitschke,0,0,,,,,,"",""
+ball,2,19.1,Melbourne Renegades,M Brown,S Molineux,A Price,0,0,,,,,,caught,M Brown

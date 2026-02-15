@@ -1,0 +1,276 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,London Spirit
+info,team,Welsh Fire
+info,gender,female
+info,season,2024
+info,date,2024/08/01
+info,event,The Hundred Women's Competition
+info,match_number,10
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Welsh Fire
+info,toss_decision,field
+info,player_of_match,HK Matthews
+info,umpire,WRP Fernando
+info,umpire,Tom Lungley
+info,reserve_umpire,A Clark
+info,tv_umpire,NJ Llong
+info,match_referee,WR Smith
+info,winner,Welsh Fire
+info,winner_wickets,6
+info,player,London Spirit,MM Lanning
+info,player,London Spirit,G Redmayne
+info,player,London Spirit,CL Griffith
+info,player,London Spirit,HC Knight
+info,player,London Spirit,DR Gibson
+info,player,London Spirit,DB Sharma
+info,player,London Spirit,CE Dean
+info,player,London Spirit,E Gray
+info,player,London Spirit,S Glenn
+info,player,London Spirit,S Munro
+info,player,London Spirit,TG Norris
+info,player,Welsh Fire,SIR Dunkley
+info,player,Welsh Fire,TT Beaumont
+info,player,Welsh Fire,HK Matthews
+info,player,Welsh Fire,SJ Bryce
+info,player,Welsh Fire,JL Jonassen
+info,player,Welsh Fire,PA Franklin
+info,player,Welsh Fire,GA Elwiss
+info,player,Welsh Fire,EM McCaughan
+info,player,Welsh Fire,FR Davies
+info,player,Welsh Fire,BA Langston
+info,player,Welsh Fire,GK Davis
+info,registry,people,A Clark,8c73cd16
+info,registry,people,BA Langston,fb192f98
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DR Gibson,d2763568
+info,registry,people,E Gray,58717de2
+info,registry,people,EM McCaughan,ed2711ea
+info,registry,people,FR Davies,2479daa6
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GK Davis,54719239
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Munro,b4e026de
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WR Smith,ad962377
+info,registry,people,WRP Fernando,7d98d385
+ball,1,0.1,London Spirit,MM Lanning,G Redmayne,FR Davies,0,0,,,,,,"",""
+ball,1,0.2,London Spirit,MM Lanning,G Redmayne,FR Davies,0,0,,,,,,"",""
+ball,1,0.3,London Spirit,MM Lanning,G Redmayne,FR Davies,0,0,,,,,,"",""
+ball,1,0.4,London Spirit,MM Lanning,G Redmayne,FR Davies,0,0,,,,,,"",""
+ball,1,0.5,London Spirit,MM Lanning,G Redmayne,FR Davies,1,0,,,,,,"",""
+ball,1,1.1,London Spirit,G Redmayne,MM Lanning,HK Matthews,0,0,,,,,,"",""
+ball,1,1.2,London Spirit,G Redmayne,MM Lanning,HK Matthews,0,0,,,,,,"",""
+ball,1,1.3,London Spirit,G Redmayne,MM Lanning,HK Matthews,4,0,,,,,,"",""
+ball,1,1.4,London Spirit,G Redmayne,MM Lanning,HK Matthews,0,0,,,,,,"",""
+ball,1,1.5,London Spirit,G Redmayne,MM Lanning,HK Matthews,0,0,,,,,,"",""
+ball,1,2.1,London Spirit,MM Lanning,G Redmayne,BA Langston,1,0,,,,,,"",""
+ball,1,2.2,London Spirit,G Redmayne,MM Lanning,BA Langston,0,0,,,,,,"",""
+ball,1,2.3,London Spirit,G Redmayne,MM Lanning,BA Langston,0,0,,,,,,"",""
+ball,1,2.4,London Spirit,G Redmayne,MM Lanning,BA Langston,0,0,,,,,,bowled,G Redmayne
+ball,1,2.5,London Spirit,CL Griffith,MM Lanning,BA Langston,0,2,,2,,,,"",""
+ball,1,2.6,London Spirit,CL Griffith,MM Lanning,BA Langston,0,0,,,,,,"",""
+ball,1,3.1,London Spirit,CL Griffith,MM Lanning,HK Matthews,1,0,,,,,,"",""
+ball,1,3.2,London Spirit,MM Lanning,CL Griffith,HK Matthews,4,0,,,,,,"",""
+ball,1,3.3,London Spirit,MM Lanning,CL Griffith,HK Matthews,4,0,,,,,,"",""
+ball,1,3.4,London Spirit,MM Lanning,CL Griffith,HK Matthews,0,1,1,,,,,"",""
+ball,1,3.5,London Spirit,MM Lanning,CL Griffith,HK Matthews,4,0,,,,,,"",""
+ball,1,3.6,London Spirit,MM Lanning,CL Griffith,HK Matthews,4,0,,,,,,"",""
+ball,1,4.1,London Spirit,CL Griffith,MM Lanning,BA Langston,1,0,,,,,,"",""
+ball,1,4.2,London Spirit,MM Lanning,CL Griffith,BA Langston,4,0,,,,,,"",""
+ball,1,4.3,London Spirit,MM Lanning,CL Griffith,BA Langston,0,0,,,,,,"",""
+ball,1,4.4,London Spirit,MM Lanning,CL Griffith,BA Langston,0,0,,,,,,"",""
+ball,1,4.5,London Spirit,MM Lanning,CL Griffith,BA Langston,6,0,,,,,,"",""
+ball,1,5.1,London Spirit,MM Lanning,CL Griffith,JL Jonassen,1,0,,,,,,"",""
+ball,1,5.2,London Spirit,CL Griffith,MM Lanning,JL Jonassen,2,0,,,,,,"",""
+ball,1,5.3,London Spirit,CL Griffith,MM Lanning,JL Jonassen,6,0,,,,,,"",""
+ball,1,5.4,London Spirit,CL Griffith,MM Lanning,JL Jonassen,1,0,,,,,,"",""
+ball,1,5.5,London Spirit,MM Lanning,CL Griffith,JL Jonassen,0,0,,,,,,"",""
+ball,1,6.1,London Spirit,CL Griffith,MM Lanning,GA Elwiss,0,0,,,,,,"",""
+ball,1,6.2,London Spirit,CL Griffith,MM Lanning,GA Elwiss,1,0,,,,,,"",""
+ball,1,6.3,London Spirit,MM Lanning,CL Griffith,GA Elwiss,0,0,,,,,,"",""
+ball,1,6.4,London Spirit,MM Lanning,CL Griffith,GA Elwiss,1,0,,,,,,"",""
+ball,1,6.5,London Spirit,CL Griffith,MM Lanning,GA Elwiss,4,0,,,,,,"",""
+ball,1,7.1,London Spirit,CL Griffith,MM Lanning,GK Davis,1,0,,,,,,"",""
+ball,1,7.2,London Spirit,MM Lanning,CL Griffith,GK Davis,1,0,,,,,,"",""
+ball,1,7.3,London Spirit,CL Griffith,MM Lanning,GK Davis,0,0,,,,,,stumped,CL Griffith
+ball,1,7.4,London Spirit,HC Knight,MM Lanning,GK Davis,0,0,,,,,,"",""
+ball,1,7.5,London Spirit,HC Knight,MM Lanning,GK Davis,1,0,,,,,,"",""
+ball,1,8.1,London Spirit,HC Knight,MM Lanning,FR Davies,4,0,,,,,,"",""
+ball,1,8.2,London Spirit,HC Knight,MM Lanning,FR Davies,0,0,,,,,,caught,HC Knight
+ball,1,8.3,London Spirit,DR Gibson,MM Lanning,FR Davies,1,0,,,,,,"",""
+ball,1,8.4,London Spirit,MM Lanning,DR Gibson,FR Davies,0,0,,,,,,bowled,MM Lanning
+ball,1,8.5,London Spirit,DB Sharma,DR Gibson,FR Davies,1,0,,,,,,"",""
+ball,1,9.1,London Spirit,DR Gibson,DB Sharma,GK Davis,0,0,,,,,,"",""
+ball,1,9.2,London Spirit,DR Gibson,DB Sharma,GK Davis,4,0,,,,,,"",""
+ball,1,9.3,London Spirit,DR Gibson,DB Sharma,GK Davis,2,0,,,,,,"",""
+ball,1,9.4,London Spirit,DR Gibson,DB Sharma,GK Davis,4,0,,,,,,"",""
+ball,1,9.5,London Spirit,DR Gibson,DB Sharma,GK Davis,0,0,,,,,,"",""
+ball,1,10.1,London Spirit,DB Sharma,DR Gibson,BA Langston,0,1,1,,,,,"",""
+ball,1,10.2,London Spirit,DB Sharma,DR Gibson,BA Langston,4,0,,,,,,"",""
+ball,1,10.3,London Spirit,DB Sharma,DR Gibson,BA Langston,1,0,,,,,,"",""
+ball,1,10.4,London Spirit,DR Gibson,DB Sharma,BA Langston,0,1,1,,,,,"",""
+ball,1,10.5,London Spirit,DR Gibson,DB Sharma,BA Langston,0,0,,,,,,"",""
+ball,1,10.6,London Spirit,DR Gibson,DB Sharma,BA Langston,4,0,,,,,,"",""
+ball,1,10.7,London Spirit,DR Gibson,DB Sharma,BA Langston,1,0,,,,,,"",""
+ball,1,11.1,London Spirit,DB Sharma,DR Gibson,GA Elwiss,0,0,,,,,,"",""
+ball,1,11.2,London Spirit,DB Sharma,DR Gibson,GA Elwiss,1,0,,,,,,"",""
+ball,1,11.3,London Spirit,DR Gibson,DB Sharma,GA Elwiss,1,0,,,,,,"",""
+ball,1,11.4,London Spirit,DB Sharma,DR Gibson,GA Elwiss,1,0,,,,,,"",""
+ball,1,11.5,London Spirit,DR Gibson,DB Sharma,GA Elwiss,0,0,,,,,,"",""
+ball,1,12.1,London Spirit,DB Sharma,DR Gibson,JL Jonassen,1,0,,,,,,"",""
+ball,1,12.2,London Spirit,DR Gibson,DB Sharma,JL Jonassen,0,0,,,,,,"",""
+ball,1,12.3,London Spirit,DR Gibson,DB Sharma,JL Jonassen,4,0,,,,,,"",""
+ball,1,12.4,London Spirit,DR Gibson,DB Sharma,JL Jonassen,1,0,,,,,,"",""
+ball,1,12.5,London Spirit,DB Sharma,DR Gibson,JL Jonassen,0,0,,,,,,"",""
+ball,1,13.1,London Spirit,DB Sharma,DR Gibson,GK Davis,1,0,,,,,,"",""
+ball,1,13.2,London Spirit,DR Gibson,DB Sharma,GK Davis,1,0,,,,,,"",""
+ball,1,13.3,London Spirit,DB Sharma,DR Gibson,GK Davis,2,0,,,,,,"",""
+ball,1,13.4,London Spirit,DB Sharma,DR Gibson,GK Davis,1,0,,,,,,"",""
+ball,1,13.5,London Spirit,DR Gibson,DB Sharma,GK Davis,4,0,,,,,,"",""
+ball,1,14.1,London Spirit,DB Sharma,DR Gibson,FR Davies,1,0,,,,,,"",""
+ball,1,14.2,London Spirit,DR Gibson,DB Sharma,FR Davies,0,0,,,,,,"",""
+ball,1,14.3,London Spirit,DR Gibson,DB Sharma,FR Davies,0,0,,,,,,"",""
+ball,1,14.4,London Spirit,DR Gibson,DB Sharma,FR Davies,2,0,,,,,,"",""
+ball,1,14.5,London Spirit,DR Gibson,DB Sharma,FR Davies,0,0,,,,,,"",""
+ball,1,15.1,London Spirit,DR Gibson,DB Sharma,GA Elwiss,6,0,,,,,,"",""
+ball,1,15.2,London Spirit,DR Gibson,DB Sharma,GA Elwiss,1,0,,,,,,"",""
+ball,1,15.3,London Spirit,DB Sharma,DR Gibson,GA Elwiss,4,0,,,,,,"",""
+ball,1,15.4,London Spirit,DB Sharma,DR Gibson,GA Elwiss,1,0,,,,,,"",""
+ball,1,15.5,London Spirit,DR Gibson,DB Sharma,GA Elwiss,0,1,1,,,,,"",""
+ball,1,15.6,London Spirit,DR Gibson,DB Sharma,GA Elwiss,4,0,,,,,,"",""
+ball,1,16.1,London Spirit,DB Sharma,DR Gibson,JL Jonassen,1,0,,,,,,"",""
+ball,1,16.2,London Spirit,DR Gibson,DB Sharma,JL Jonassen,1,0,,,,,,"",""
+ball,1,16.3,London Spirit,DB Sharma,DR Gibson,JL Jonassen,2,0,,,,,,"",""
+ball,1,16.4,London Spirit,DB Sharma,DR Gibson,JL Jonassen,1,0,,,,,,"",""
+ball,1,16.5,London Spirit,DR Gibson,DB Sharma,JL Jonassen,0,1,1,,,,,"",""
+ball,1,16.6,London Spirit,DR Gibson,DB Sharma,JL Jonassen,0,0,,,,,,caught,DR Gibson
+ball,1,17.1,London Spirit,CE Dean,DB Sharma,JL Jonassen,0,1,1,,,,,"",""
+ball,1,17.2,London Spirit,CE Dean,DB Sharma,JL Jonassen,1,0,,,,,,"",""
+ball,1,17.3,London Spirit,DB Sharma,CE Dean,JL Jonassen,1,0,,,,,,"",""
+ball,1,17.4,London Spirit,CE Dean,DB Sharma,JL Jonassen,1,0,,,,,,"",""
+ball,1,17.5,London Spirit,DB Sharma,CE Dean,JL Jonassen,1,0,,,,,,"",""
+ball,1,17.6,London Spirit,CE Dean,DB Sharma,JL Jonassen,1,0,,,,,,"",""
+ball,1,18.1,London Spirit,CE Dean,DB Sharma,HK Matthews,0,0,,,,,,"",""
+ball,1,18.2,London Spirit,CE Dean,DB Sharma,HK Matthews,1,0,,,,,,"",""
+ball,1,18.3,London Spirit,DB Sharma,CE Dean,HK Matthews,6,0,,,,,,"",""
+ball,1,18.4,London Spirit,DB Sharma,CE Dean,HK Matthews,0,0,,,,,,"",""
+ball,1,18.5,London Spirit,DB Sharma,CE Dean,HK Matthews,0,0,,,,,,"",""
+ball,1,19.1,London Spirit,DB Sharma,CE Dean,FR Davies,6,0,,,,,,"",""
+ball,1,19.2,London Spirit,DB Sharma,CE Dean,FR Davies,1,0,,,,,,"",""
+ball,1,19.3,London Spirit,CE Dean,DB Sharma,FR Davies,1,0,,,,,,"",""
+ball,1,19.4,London Spirit,DB Sharma,CE Dean,FR Davies,0,0,,,,,,"",""
+ball,1,19.5,London Spirit,DB Sharma,CE Dean,FR Davies,1,0,,,,,,"",""
+ball,2,0.1,Welsh Fire,SIR Dunkley,TT Beaumont,CE Dean,4,0,,,,,,"",""
+ball,2,0.2,Welsh Fire,SIR Dunkley,TT Beaumont,CE Dean,0,0,,,,,,"",""
+ball,2,0.3,Welsh Fire,SIR Dunkley,TT Beaumont,CE Dean,1,0,,,,,,"",""
+ball,2,0.4,Welsh Fire,TT Beaumont,SIR Dunkley,CE Dean,4,0,,,,,,"",""
+ball,2,0.5,Welsh Fire,TT Beaumont,SIR Dunkley,CE Dean,1,0,,,,,,"",""
+ball,2,1.1,Welsh Fire,SIR Dunkley,TT Beaumont,S Munro,4,0,,,,,,"",""
+ball,2,1.2,Welsh Fire,SIR Dunkley,TT Beaumont,S Munro,0,0,,,,,,"",""
+ball,2,1.3,Welsh Fire,SIR Dunkley,TT Beaumont,S Munro,1,0,,,,,,"",""
+ball,2,1.4,Welsh Fire,TT Beaumont,SIR Dunkley,S Munro,0,0,,,,,,"",""
+ball,2,1.5,Welsh Fire,TT Beaumont,SIR Dunkley,S Munro,0,1,1,,,,,"",""
+ball,2,1.6,Welsh Fire,TT Beaumont,SIR Dunkley,S Munro,1,0,,,,,,"",""
+ball,2,2.1,Welsh Fire,TT Beaumont,SIR Dunkley,TG Norris,0,0,,,,,,lbw,TT Beaumont
+ball,2,2.2,Welsh Fire,HK Matthews,SIR Dunkley,TG Norris,2,0,,,,,,"",""
+ball,2,2.3,Welsh Fire,HK Matthews,SIR Dunkley,TG Norris,1,0,,,,,,"",""
+ball,2,2.4,Welsh Fire,SIR Dunkley,HK Matthews,TG Norris,0,0,,,,,,"",""
+ball,2,2.5,Welsh Fire,SIR Dunkley,HK Matthews,TG Norris,1,0,,,,,,"",""
+ball,2,3.1,Welsh Fire,HK Matthews,SIR Dunkley,TG Norris,0,2,,,,2,,"",""
+ball,2,3.2,Welsh Fire,HK Matthews,SIR Dunkley,TG Norris,1,0,,,,,,"",""
+ball,2,3.3,Welsh Fire,SIR Dunkley,HK Matthews,TG Norris,0,1,1,,,,,"",""
+ball,2,3.4,Welsh Fire,SIR Dunkley,HK Matthews,TG Norris,0,0,,,,,,"",""
+ball,2,3.5,Welsh Fire,SIR Dunkley,HK Matthews,TG Norris,6,0,,,,,,"",""
+ball,2,3.6,Welsh Fire,SIR Dunkley,HK Matthews,TG Norris,0,0,,,,,,"",""
+ball,2,4.1,Welsh Fire,HK Matthews,SIR Dunkley,DR Gibson,0,1,1,,,,,"",""
+ball,2,4.2,Welsh Fire,HK Matthews,SIR Dunkley,DR Gibson,1,0,,,,,,"",""
+ball,2,4.3,Welsh Fire,SIR Dunkley,HK Matthews,DR Gibson,0,0,,,,,,caught,SIR Dunkley
+ball,2,4.4,Welsh Fire,SJ Bryce,HK Matthews,DR Gibson,1,0,,,,,,"",""
+ball,2,4.5,Welsh Fire,HK Matthews,SJ Bryce,DR Gibson,4,0,,,,,,"",""
+ball,2,4.6,Welsh Fire,HK Matthews,SJ Bryce,DR Gibson,4,0,,,,,,"",""
+ball,2,5.1,Welsh Fire,HK Matthews,SJ Bryce,S Glenn,1,0,,,,,,"",""
+ball,2,5.2,Welsh Fire,SJ Bryce,HK Matthews,S Glenn,1,0,,,,,,"",""
+ball,2,5.3,Welsh Fire,HK Matthews,SJ Bryce,S Glenn,1,0,,,,,,"",""
+ball,2,5.4,Welsh Fire,SJ Bryce,HK Matthews,S Glenn,0,0,,,,,,"",""
+ball,2,5.5,Welsh Fire,SJ Bryce,HK Matthews,S Glenn,1,0,,,,,,"",""
+ball,2,6.1,Welsh Fire,SJ Bryce,HK Matthews,DB Sharma,1,0,,,,,,"",""
+ball,2,6.2,Welsh Fire,HK Matthews,SJ Bryce,DB Sharma,0,0,,,,,,"",""
+ball,2,6.3,Welsh Fire,HK Matthews,SJ Bryce,DB Sharma,0,0,,,,,,"",""
+ball,2,6.4,Welsh Fire,HK Matthews,SJ Bryce,DB Sharma,1,0,,,,,,"",""
+ball,2,6.5,Welsh Fire,SJ Bryce,HK Matthews,DB Sharma,0,0,,,,,,"",""
+ball,2,7.1,Welsh Fire,SJ Bryce,HK Matthews,E Gray,1,0,,,,,,"",""
+ball,2,7.2,Welsh Fire,HK Matthews,SJ Bryce,E Gray,4,0,,,,,,"",""
+ball,2,7.3,Welsh Fire,HK Matthews,SJ Bryce,E Gray,0,0,,,,,,"",""
+ball,2,7.4,Welsh Fire,HK Matthews,SJ Bryce,E Gray,1,0,,,,,,"",""
+ball,2,7.5,Welsh Fire,SJ Bryce,HK Matthews,E Gray,4,0,,,,,,"",""
+ball,2,8.1,Welsh Fire,HK Matthews,SJ Bryce,S Glenn,1,0,,,,,,"",""
+ball,2,8.2,Welsh Fire,SJ Bryce,HK Matthews,S Glenn,1,0,,,,,,"",""
+ball,2,8.3,Welsh Fire,HK Matthews,SJ Bryce,S Glenn,1,0,,,,,,"",""
+ball,2,8.4,Welsh Fire,SJ Bryce,HK Matthews,S Glenn,4,0,,,,,,"",""
+ball,2,8.5,Welsh Fire,SJ Bryce,HK Matthews,S Glenn,0,0,,,,,,"",""
+ball,2,9.1,Welsh Fire,SJ Bryce,HK Matthews,DB Sharma,0,0,,,,,,"",""
+ball,2,9.2,Welsh Fire,SJ Bryce,HK Matthews,DB Sharma,0,0,,,,,,"",""
+ball,2,9.3,Welsh Fire,SJ Bryce,HK Matthews,DB Sharma,1,0,,,,,,"",""
+ball,2,9.4,Welsh Fire,HK Matthews,SJ Bryce,DB Sharma,1,0,,,,,,"",""
+ball,2,9.5,Welsh Fire,SJ Bryce,HK Matthews,DB Sharma,4,0,,,,,,"",""
+ball,2,10.1,Welsh Fire,HK Matthews,SJ Bryce,CE Dean,1,0,,,,,,"",""
+ball,2,10.2,Welsh Fire,SJ Bryce,HK Matthews,CE Dean,1,0,,,,,,"",""
+ball,2,10.3,Welsh Fire,HK Matthews,SJ Bryce,CE Dean,0,0,,,,,,"",""
+ball,2,10.4,Welsh Fire,HK Matthews,SJ Bryce,CE Dean,0,1,,,,1,,"",""
+ball,2,10.5,Welsh Fire,SJ Bryce,HK Matthews,CE Dean,1,0,,,,,,"",""
+ball,2,11.1,Welsh Fire,HK Matthews,SJ Bryce,DR Gibson,0,0,,,,,,"",""
+ball,2,11.2,Welsh Fire,HK Matthews,SJ Bryce,DR Gibson,4,0,,,,,,"",""
+ball,2,11.3,Welsh Fire,HK Matthews,SJ Bryce,DR Gibson,1,0,,,,,,"",""
+ball,2,11.4,Welsh Fire,SJ Bryce,HK Matthews,DR Gibson,0,0,,,,,,caught,SJ Bryce
+ball,2,11.5,Welsh Fire,JL Jonassen,HK Matthews,DR Gibson,2,0,,,,,,"",""
+ball,2,12.1,Welsh Fire,HK Matthews,JL Jonassen,S Glenn,0,0,,,,,,"",""
+ball,2,12.2,Welsh Fire,HK Matthews,JL Jonassen,S Glenn,4,0,,,,,,"",""
+ball,2,12.3,Welsh Fire,HK Matthews,JL Jonassen,S Glenn,1,0,,,,,,"",""
+ball,2,12.4,Welsh Fire,JL Jonassen,HK Matthews,S Glenn,0,0,,,,,,"",""
+ball,2,12.5,Welsh Fire,JL Jonassen,HK Matthews,S Glenn,0,0,,,,,,"",""
+ball,2,13.1,Welsh Fire,JL Jonassen,HK Matthews,DB Sharma,1,0,,,,,,"",""
+ball,2,13.2,Welsh Fire,HK Matthews,JL Jonassen,DB Sharma,0,0,,,,,,"",""
+ball,2,13.3,Welsh Fire,HK Matthews,JL Jonassen,DB Sharma,6,0,,,,,,"",""
+ball,2,13.4,Welsh Fire,HK Matthews,JL Jonassen,DB Sharma,1,0,,,,,,"",""
+ball,2,13.5,Welsh Fire,JL Jonassen,HK Matthews,DB Sharma,2,0,,,,,,"",""
+ball,2,14.1,Welsh Fire,HK Matthews,JL Jonassen,CE Dean,0,1,,,,1,,"",""
+ball,2,14.2,Welsh Fire,JL Jonassen,HK Matthews,CE Dean,2,0,,,,,,"",""
+ball,2,14.3,Welsh Fire,JL Jonassen,HK Matthews,CE Dean,0,0,,,,,,"",""
+ball,2,14.4,Welsh Fire,JL Jonassen,HK Matthews,CE Dean,1,0,,,,,,"",""
+ball,2,14.5,Welsh Fire,HK Matthews,JL Jonassen,CE Dean,0,0,,,,,,"",""
+ball,2,15.1,Welsh Fire,HK Matthews,JL Jonassen,S Munro,2,0,,,,,,"",""
+ball,2,15.2,Welsh Fire,HK Matthews,JL Jonassen,S Munro,4,0,,,,,,"",""
+ball,2,15.3,Welsh Fire,HK Matthews,JL Jonassen,S Munro,0,0,,,,,,"",""
+ball,2,15.4,Welsh Fire,HK Matthews,JL Jonassen,S Munro,1,0,,,,,,"",""
+ball,2,15.5,Welsh Fire,JL Jonassen,HK Matthews,S Munro,6,0,,,,,,"",""
+ball,2,16.1,Welsh Fire,HK Matthews,JL Jonassen,S Glenn,4,0,,,,,,"",""
+ball,2,16.2,Welsh Fire,HK Matthews,JL Jonassen,S Glenn,4,0,,,,,,"",""
+ball,2,16.3,Welsh Fire,HK Matthews,JL Jonassen,S Glenn,1,0,,,,,,"",""
+ball,2,16.4,Welsh Fire,JL Jonassen,HK Matthews,S Glenn,0,0,,,,,,caught,JL Jonassen
+ball,2,16.5,Welsh Fire,PA Franklin,HK Matthews,S Glenn,2,0,,,,,,"",""
+ball,2,17.1,Welsh Fire,PA Franklin,HK Matthews,DR Gibson,0,0,,,,,,"",""
+ball,2,17.2,Welsh Fire,PA Franklin,HK Matthews,DR Gibson,1,0,,,,,,"",""
+ball,2,17.3,Welsh Fire,HK Matthews,PA Franklin,DR Gibson,4,0,,,,,,"",""
+ball,2,17.4,Welsh Fire,HK Matthews,PA Franklin,DR Gibson,0,2,,2,,,,"",""
+ball,2,17.5,Welsh Fire,HK Matthews,PA Franklin,DR Gibson,1,0,,,,,,"",""
+ball,2,17.6,Welsh Fire,PA Franklin,HK Matthews,DR Gibson,2,0,,,,,,"",""
+ball,2,18.1,Welsh Fire,HK Matthews,PA Franklin,DB Sharma,6,0,,,,,,"",""
+ball,2,18.2,Welsh Fire,HK Matthews,PA Franklin,DB Sharma,1,0,,,,,,"",""
+ball,2,18.3,Welsh Fire,PA Franklin,HK Matthews,DB Sharma,1,0,,,,,,"",""
+ball,2,18.4,Welsh Fire,HK Matthews,PA Franklin,DB Sharma,4,0,,,,,,"",""
+ball,2,18.5,Welsh Fire,HK Matthews,PA Franklin,DB Sharma,4,0,,,,,,"",""

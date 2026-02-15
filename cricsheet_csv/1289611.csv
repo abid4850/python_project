@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Otago
+info,gender,male
+info,season,2021/22
+info,date,2021/12/12
+info,event,Super Smash
+info,match_number,9
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,Otago
+info,toss_decision,field
+info,winner,Otago
+info,winner_wickets,3
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,C de Grandhomme
+info,player,Northern Districts,PD Bocock
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,A Verma
+info,player,Northern Districts,FL Walker
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,MJ Fisher
+info,player,Otago,HD Rutherford
+info,player,Otago,JL Finnie
+info,player,Otago,NT Broom
+info,player,Otago,AK Kitchen
+info,player,Otago,DN Phillips
+info,player,Otago,LC Johnson
+info,player,Otago,MJG Rippon
+info,player,Otago,MW Chu
+info,player,Otago,AW McKenzie
+info,player,Otago,T Muller
+info,player,Otago,JA Duffy
+info,registry,people,A Verma,8e9a5d20
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,FL Walker,e6e154e3
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JG Walker,94734e80
+info,registry,people,JL Finnie,1ccf9e7e
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,MJ Fisher,7068c81e
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,NT Broom,a354c917
+info,registry,people,PD Bocock,329b08c2
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,ZN Gibson,eec5fe00
+ball,1,0.1,Northern Districts,KD Clarke,TL Seifert,AW McKenzie,0,0,,,,,,"",""
+ball,1,0.2,Northern Districts,KD Clarke,TL Seifert,AW McKenzie,4,0,,,,,,"",""
+ball,1,0.3,Northern Districts,KD Clarke,TL Seifert,AW McKenzie,0,0,,,,,,"",""
+ball,1,0.4,Northern Districts,KD Clarke,TL Seifert,AW McKenzie,0,0,,,,,,"",""
+ball,1,0.5,Northern Districts,KD Clarke,TL Seifert,AW McKenzie,4,0,,,,,,"",""
+ball,1,0.6,Northern Districts,KD Clarke,TL Seifert,AW McKenzie,1,0,,,,,,"",""
+ball,1,1.1,Northern Districts,KD Clarke,TL Seifert,AK Kitchen,2,0,,,,,,"",""
+ball,1,1.2,Northern Districts,KD Clarke,TL Seifert,AK Kitchen,0,0,,,,,,"",""
+ball,1,1.3,Northern Districts,KD Clarke,TL Seifert,AK Kitchen,0,0,,,,,,"",""
+ball,1,1.4,Northern Districts,KD Clarke,TL Seifert,AK Kitchen,1,0,,,,,,"",""
+ball,1,1.5,Northern Districts,TL Seifert,KD Clarke,AK Kitchen,0,0,,,,,,"",""
+ball,1,1.6,Northern Districts,TL Seifert,KD Clarke,AK Kitchen,0,0,,,,,,"",""
+ball,1,2.1,Northern Districts,KD Clarke,TL Seifert,JA Duffy,0,0,,,,,,"",""
+ball,1,2.2,Northern Districts,KD Clarke,TL Seifert,JA Duffy,4,0,,,,,,"",""
+ball,1,2.3,Northern Districts,KD Clarke,TL Seifert,JA Duffy,0,0,,,,,,"",""
+ball,1,2.4,Northern Districts,KD Clarke,TL Seifert,JA Duffy,1,0,,,,,,"",""
+ball,1,2.5,Northern Districts,TL Seifert,KD Clarke,JA Duffy,4,0,,,,,,"",""
+ball,1,2.6,Northern Districts,TL Seifert,KD Clarke,JA Duffy,0,0,,,,,,"",""
+ball,1,3.1,Northern Districts,KD Clarke,TL Seifert,T Muller,2,0,,,,,,"",""
+ball,1,3.2,Northern Districts,KD Clarke,TL Seifert,T Muller,4,0,,,,,,"",""
+ball,1,3.3,Northern Districts,KD Clarke,TL Seifert,T Muller,1,0,,,,,,"",""
+ball,1,3.4,Northern Districts,TL Seifert,KD Clarke,T Muller,4,0,,,,,,"",""
+ball,1,3.5,Northern Districts,TL Seifert,KD Clarke,T Muller,6,0,,,,,,"",""
+ball,1,3.6,Northern Districts,TL Seifert,KD Clarke,T Muller,0,1,1,,,,,"",""
+ball,1,3.7,Northern Districts,TL Seifert,KD Clarke,T Muller,0,0,,,,,,caught,TL Seifert
+ball,1,4.1,Northern Districts,KD Clarke,JA Raval,JA Duffy,6,0,,,,,,"",""
+ball,1,4.2,Northern Districts,KD Clarke,JA Raval,JA Duffy,1,0,,,,,,"",""
+ball,1,4.3,Northern Districts,JA Raval,KD Clarke,JA Duffy,1,0,,,,,,"",""
+ball,1,4.4,Northern Districts,KD Clarke,JA Raval,JA Duffy,0,0,,,,,,"",""
+ball,1,4.5,Northern Districts,KD Clarke,JA Raval,JA Duffy,1,0,,,,,,"",""
+ball,1,4.6,Northern Districts,JA Raval,KD Clarke,JA Duffy,0,1,1,,,,,"",""
+ball,1,4.7,Northern Districts,JA Raval,KD Clarke,JA Duffy,1,0,,,,,,"",""
+ball,1,5.1,Northern Districts,JA Raval,KD Clarke,AK Kitchen,1,0,,,,,,"",""
+ball,1,5.2,Northern Districts,KD Clarke,JA Raval,AK Kitchen,1,0,,,,,,"",""
+ball,1,5.3,Northern Districts,JA Raval,KD Clarke,AK Kitchen,0,1,1,,,,,stumped,JA Raval
+ball,1,5.4,Northern Districts,HR Cooper,KD Clarke,AK Kitchen,4,0,,,,,,"",""
+ball,1,5.5,Northern Districts,HR Cooper,KD Clarke,AK Kitchen,0,0,,,,,,"",""
+ball,1,5.6,Northern Districts,HR Cooper,KD Clarke,AK Kitchen,0,0,,,,,,"",""
+ball,1,5.7,Northern Districts,HR Cooper,KD Clarke,AK Kitchen,1,0,,,,,,"",""
+ball,1,6.1,Northern Districts,HR Cooper,KD Clarke,AW McKenzie,0,0,,,,,,"",""
+ball,1,6.2,Northern Districts,HR Cooper,KD Clarke,AW McKenzie,0,0,,,,,,"",""
+ball,1,6.3,Northern Districts,HR Cooper,KD Clarke,AW McKenzie,0,0,,,,,,"",""
+ball,1,6.4,Northern Districts,HR Cooper,KD Clarke,AW McKenzie,1,0,,,,,,"",""
+ball,1,6.5,Northern Districts,KD Clarke,HR Cooper,AW McKenzie,4,0,,,,,,"",""
+ball,1,6.6,Northern Districts,KD Clarke,HR Cooper,AW McKenzie,1,0,,,,,,"",""
+ball,1,7.1,Northern Districts,KD Clarke,HR Cooper,JL Finnie,1,0,,,,,,"",""
+ball,1,7.2,Northern Districts,HR Cooper,KD Clarke,JL Finnie,1,0,,,,,,"",""
+ball,1,7.3,Northern Districts,KD Clarke,HR Cooper,JL Finnie,1,0,,,,,,"",""
+ball,1,7.4,Northern Districts,HR Cooper,KD Clarke,JL Finnie,0,0,,,,,,"",""
+ball,1,7.5,Northern Districts,HR Cooper,KD Clarke,JL Finnie,2,0,,,,,,"",""
+ball,1,7.6,Northern Districts,HR Cooper,KD Clarke,JL Finnie,1,0,,,,,,"",""
+ball,1,8.1,Northern Districts,HR Cooper,KD Clarke,MJG Rippon,0,2,2,,,,,"",""
+ball,1,8.2,Northern Districts,KD Clarke,HR Cooper,MJG Rippon,2,0,,,,,,"",""
+ball,1,8.3,Northern Districts,KD Clarke,HR Cooper,MJG Rippon,0,0,,,,,,"",""
+ball,1,8.4,Northern Districts,KD Clarke,HR Cooper,MJG Rippon,1,0,,,,,,"",""
+ball,1,8.5,Northern Districts,HR Cooper,KD Clarke,MJG Rippon,0,0,,,,,,"",""
+ball,1,8.6,Northern Districts,HR Cooper,KD Clarke,MJG Rippon,1,0,,,,,,"",""
+ball,1,8.7,Northern Districts,KD Clarke,HR Cooper,MJG Rippon,0,0,,,,,,"",""
+ball,1,9.1,Northern Districts,HR Cooper,KD Clarke,JL Finnie,2,0,,,,,,"",""
+ball,1,9.2,Northern Districts,HR Cooper,KD Clarke,JL Finnie,1,0,,,,,,"",""
+ball,1,9.3,Northern Districts,KD Clarke,HR Cooper,JL Finnie,1,0,,,,,,"",""
+ball,1,9.4,Northern Districts,HR Cooper,KD Clarke,JL Finnie,0,0,,,,,,"",""
+ball,1,9.5,Northern Districts,HR Cooper,KD Clarke,JL Finnie,1,0,,,,,,"",""
+ball,1,9.6,Northern Districts,KD Clarke,HR Cooper,JL Finnie,4,0,,,,,,"",""
+ball,1,10.1,Northern Districts,HR Cooper,KD Clarke,MJG Rippon,6,0,,,,,,"",""
+ball,1,10.2,Northern Districts,HR Cooper,KD Clarke,MJG Rippon,1,0,,,,,,"",""
+ball,1,10.3,Northern Districts,KD Clarke,HR Cooper,MJG Rippon,1,0,,,,,,"",""
+ball,1,10.4,Northern Districts,HR Cooper,KD Clarke,MJG Rippon,1,0,,,,,,"",""
+ball,1,10.5,Northern Districts,KD Clarke,HR Cooper,MJG Rippon,0,0,,,,,,"",""
+ball,1,10.6,Northern Districts,KD Clarke,HR Cooper,MJG Rippon,0,0,,,,,,"",""
+ball,1,11.1,Northern Districts,HR Cooper,KD Clarke,JL Finnie,0,0,,,,,,"",""
+ball,1,11.2,Northern Districts,HR Cooper,KD Clarke,JL Finnie,1,0,,,,,,"",""
+ball,1,11.3,Northern Districts,KD Clarke,HR Cooper,JL Finnie,0,0,,,,,,"",""
+ball,1,11.4,Northern Districts,KD Clarke,HR Cooper,JL Finnie,0,0,,,,,,caught,KD Clarke
+ball,1,11.5,Northern Districts,HR Cooper,C de Grandhomme,JL Finnie,0,0,,,,,,stumped,HR Cooper
+ball,1,11.6,Northern Districts,PD Bocock,C de Grandhomme,JL Finnie,0,0,,,,,,"",""
+ball,1,12.1,Northern Districts,C de Grandhomme,PD Bocock,AK Kitchen,1,0,,,,,,"",""
+ball,1,12.2,Northern Districts,PD Bocock,C de Grandhomme,AK Kitchen,1,0,,,,,,"",""
+ball,1,12.3,Northern Districts,C de Grandhomme,PD Bocock,AK Kitchen,0,0,,,,,,"",""
+ball,1,12.4,Northern Districts,C de Grandhomme,PD Bocock,AK Kitchen,1,0,,,,,,"",""
+ball,1,12.5,Northern Districts,PD Bocock,C de Grandhomme,AK Kitchen,1,0,,,,,,"",""
+ball,1,12.6,Northern Districts,C de Grandhomme,PD Bocock,AK Kitchen,2,0,,,,,,"",""
+ball,1,13.1,Northern Districts,PD Bocock,C de Grandhomme,MJG Rippon,0,0,,,,,,"",""
+ball,1,13.2,Northern Districts,PD Bocock,C de Grandhomme,MJG Rippon,2,0,,,,,,"",""
+ball,1,13.3,Northern Districts,PD Bocock,C de Grandhomme,MJG Rippon,1,0,,,,,,"",""
+ball,1,13.4,Northern Districts,C de Grandhomme,PD Bocock,MJG Rippon,0,0,,,,,,caught,C de Grandhomme
+ball,1,13.5,Northern Districts,PD Bocock,SC Kuggeleijn,MJG Rippon,0,0,,,,,,lbw,PD Bocock
+ball,1,13.6,Northern Districts,A Verma,SC Kuggeleijn,MJG Rippon,1,0,,,,,,"",""
+ball,1,14.1,Northern Districts,A Verma,SC Kuggeleijn,AK Kitchen,0,0,,,,,,"",""
+ball,1,14.2,Northern Districts,A Verma,SC Kuggeleijn,AK Kitchen,1,0,,,,,,"",""
+ball,1,14.3,Northern Districts,SC Kuggeleijn,A Verma,AK Kitchen,0,0,,,,,,"",""
+ball,1,14.4,Northern Districts,SC Kuggeleijn,A Verma,AK Kitchen,1,0,,,,,,"",""
+ball,1,14.5,Northern Districts,A Verma,SC Kuggeleijn,AK Kitchen,0,0,,,,,,"",""
+ball,1,14.6,Northern Districts,A Verma,SC Kuggeleijn,AK Kitchen,0,0,,,,,,"",""
+ball,1,15.1,Northern Districts,SC Kuggeleijn,A Verma,JL Finnie,0,0,,,,,,"",""
+ball,1,15.2,Northern Districts,SC Kuggeleijn,A Verma,JL Finnie,1,0,,,,,,"",""
+ball,1,15.3,Northern Districts,A Verma,SC Kuggeleijn,JL Finnie,2,0,,,,,,"",""
+ball,1,15.4,Northern Districts,A Verma,SC Kuggeleijn,JL Finnie,2,0,,,,,,"",""
+ball,1,15.5,Northern Districts,A Verma,SC Kuggeleijn,JL Finnie,0,0,,,,,,"",""
+ball,1,15.6,Northern Districts,A Verma,SC Kuggeleijn,JL Finnie,1,0,,,,,,"",""
+ball,1,16.1,Northern Districts,A Verma,SC Kuggeleijn,JA Duffy,1,0,,,,,,"",""
+ball,1,16.2,Northern Districts,SC Kuggeleijn,A Verma,JA Duffy,1,0,,,,,,"",""
+ball,1,16.3,Northern Districts,A Verma,SC Kuggeleijn,JA Duffy,0,1,1,,,,,"",""
+ball,1,16.4,Northern Districts,A Verma,SC Kuggeleijn,JA Duffy,0,0,,,,,,"",""
+ball,1,16.5,Northern Districts,A Verma,SC Kuggeleijn,JA Duffy,4,0,,,,,,"",""
+ball,1,16.6,Northern Districts,A Verma,SC Kuggeleijn,JA Duffy,2,0,,,,,,"",""
+ball,1,16.7,Northern Districts,A Verma,SC Kuggeleijn,JA Duffy,0,0,,,,,,"",""
+ball,1,17.1,Northern Districts,SC Kuggeleijn,A Verma,MJG Rippon,1,0,,,,,,"",""
+ball,1,17.2,Northern Districts,A Verma,SC Kuggeleijn,MJG Rippon,0,0,,,,,,"",""
+ball,1,17.3,Northern Districts,A Verma,SC Kuggeleijn,MJG Rippon,1,0,,,,,,"",""
+ball,1,17.4,Northern Districts,SC Kuggeleijn,A Verma,MJG Rippon,1,0,,,,,,"",""
+ball,1,17.5,Northern Districts,A Verma,SC Kuggeleijn,MJG Rippon,4,0,,,,,,"",""
+ball,1,17.6,Northern Districts,A Verma,SC Kuggeleijn,MJG Rippon,1,0,,,,,,"",""
+ball,1,18.1,Northern Districts,A Verma,SC Kuggeleijn,JA Duffy,1,0,,,,,,"",""
+ball,1,18.2,Northern Districts,SC Kuggeleijn,A Verma,JA Duffy,1,0,,,,,,"",""
+ball,1,18.3,Northern Districts,A Verma,SC Kuggeleijn,JA Duffy,0,0,,,,,,"",""
+ball,1,18.4,Northern Districts,A Verma,SC Kuggeleijn,JA Duffy,1,0,,,,,,"",""
+ball,1,18.5,Northern Districts,SC Kuggeleijn,A Verma,JA Duffy,2,0,,,,,,"",""
+ball,1,18.6,Northern Districts,SC Kuggeleijn,A Verma,JA Duffy,4,0,,,,,,"",""
+ball,1,19.1,Northern Districts,A Verma,SC Kuggeleijn,AW McKenzie,0,1,,,,1,,"",""
+ball,1,19.2,Northern Districts,SC Kuggeleijn,A Verma,AW McKenzie,2,0,,,,,,"",""
+ball,1,19.3,Northern Districts,SC Kuggeleijn,A Verma,AW McKenzie,0,2,,,,2,,"",""
+ball,1,19.4,Northern Districts,SC Kuggeleijn,A Verma,AW McKenzie,0,1,,,,1,,"",""
+ball,1,19.5,Northern Districts,A Verma,SC Kuggeleijn,AW McKenzie,0,0,,,,,,run out,A Verma
+ball,1,19.6,Northern Districts,FL Walker,SC Kuggeleijn,AW McKenzie,1,0,,,,,,run out,FL Walker
+ball,2,0.1,Otago,HD Rutherford,JL Finnie,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,0.2,Otago,HD Rutherford,JL Finnie,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,0.3,Otago,HD Rutherford,JL Finnie,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,0.4,Otago,HD Rutherford,JL Finnie,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,0.5,Otago,HD Rutherford,JL Finnie,SC Kuggeleijn,0,0,,,,,,caught,HD Rutherford
+ball,2,0.6,Otago,NT Broom,JL Finnie,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,1.1,Otago,JL Finnie,NT Broom,A Verma,0,0,,,,,,"",""
+ball,2,1.2,Otago,JL Finnie,NT Broom,A Verma,0,0,,,,,,"",""
+ball,2,1.3,Otago,JL Finnie,NT Broom,A Verma,1,0,,,,,,"",""
+ball,2,1.4,Otago,NT Broom,JL Finnie,A Verma,1,0,,,,,,"",""
+ball,2,1.5,Otago,JL Finnie,NT Broom,A Verma,0,0,,,,,,"",""
+ball,2,1.6,Otago,JL Finnie,NT Broom,A Verma,0,0,,,,,,"",""
+ball,2,2.1,Otago,NT Broom,JL Finnie,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,2.2,Otago,JL Finnie,NT Broom,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,2.3,Otago,JL Finnie,NT Broom,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,2.4,Otago,JL Finnie,NT Broom,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,2.5,Otago,JL Finnie,NT Broom,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,2.6,Otago,NT Broom,JL Finnie,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,3.1,Otago,NT Broom,JL Finnie,MJ Fisher,0,0,,,,,,"",""
+ball,2,3.2,Otago,NT Broom,JL Finnie,MJ Fisher,0,0,,,,,,"",""
+ball,2,3.3,Otago,NT Broom,JL Finnie,MJ Fisher,1,0,,,,,,"",""
+ball,2,3.4,Otago,JL Finnie,NT Broom,MJ Fisher,0,0,,,,,,caught,JL Finnie
+ball,2,3.5,Otago,AK Kitchen,NT Broom,MJ Fisher,0,0,,,,,,"",""
+ball,2,3.6,Otago,AK Kitchen,NT Broom,MJ Fisher,0,0,,,,,,"",""
+ball,2,4.1,Otago,NT Broom,AK Kitchen,FL Walker,2,0,,,,,,"",""
+ball,2,4.2,Otago,NT Broom,AK Kitchen,FL Walker,0,1,1,,,,,"",""
+ball,2,4.3,Otago,NT Broom,AK Kitchen,FL Walker,4,0,,,,,,"",""
+ball,2,4.4,Otago,NT Broom,AK Kitchen,FL Walker,0,0,,,,,,"",""
+ball,2,4.5,Otago,NT Broom,AK Kitchen,FL Walker,0,0,,,,,,"",""
+ball,2,4.6,Otago,NT Broom,AK Kitchen,FL Walker,4,0,,,,,,"",""
+ball,2,4.7,Otago,NT Broom,AK Kitchen,FL Walker,0,0,,,,,,"",""
+ball,2,5.1,Otago,AK Kitchen,NT Broom,A Verma,2,0,,,,,,"",""
+ball,2,5.2,Otago,AK Kitchen,NT Broom,A Verma,0,0,,,,,,"",""
+ball,2,5.3,Otago,AK Kitchen,NT Broom,A Verma,0,0,,,,,,"",""
+ball,2,5.4,Otago,AK Kitchen,NT Broom,A Verma,0,0,,,,,,"",""
+ball,2,5.5,Otago,AK Kitchen,NT Broom,A Verma,1,0,,,,,,"",""
+ball,2,5.6,Otago,NT Broom,AK Kitchen,A Verma,1,0,,,,,,"",""
+ball,2,6.1,Otago,NT Broom,AK Kitchen,MJ Fisher,0,0,,,,,,"",""
+ball,2,6.2,Otago,NT Broom,AK Kitchen,MJ Fisher,1,0,,,,,,"",""
+ball,2,6.3,Otago,AK Kitchen,NT Broom,MJ Fisher,6,0,,,,,,"",""
+ball,2,6.4,Otago,AK Kitchen,NT Broom,MJ Fisher,0,1,1,,,,,"",""
+ball,2,6.5,Otago,AK Kitchen,NT Broom,MJ Fisher,1,0,,,,,,"",""
+ball,2,6.6,Otago,NT Broom,AK Kitchen,MJ Fisher,1,0,,,,,,"",""
+ball,2,6.7,Otago,AK Kitchen,NT Broom,MJ Fisher,1,0,,,,,,"",""
+ball,2,7.1,Otago,AK Kitchen,NT Broom,JG Walker,1,0,,,,,,"",""
+ball,2,7.2,Otago,NT Broom,AK Kitchen,JG Walker,2,0,,,,,,"",""
+ball,2,7.3,Otago,NT Broom,AK Kitchen,JG Walker,0,0,,,,,,"",""
+ball,2,7.4,Otago,NT Broom,AK Kitchen,JG Walker,1,0,,,,,,"",""
+ball,2,7.5,Otago,AK Kitchen,NT Broom,JG Walker,1,0,,,,,,"",""
+ball,2,7.6,Otago,NT Broom,AK Kitchen,JG Walker,1,0,,,,,,"",""
+ball,2,8.1,Otago,NT Broom,AK Kitchen,FL Walker,1,0,,,,,,"",""
+ball,2,8.2,Otago,AK Kitchen,NT Broom,FL Walker,1,0,,,,,,"",""
+ball,2,8.3,Otago,NT Broom,AK Kitchen,FL Walker,0,0,,,,,,"",""
+ball,2,8.4,Otago,NT Broom,AK Kitchen,FL Walker,1,0,,,,,,"",""
+ball,2,8.5,Otago,AK Kitchen,NT Broom,FL Walker,1,0,,,,,,"",""
+ball,2,8.6,Otago,NT Broom,AK Kitchen,FL Walker,1,0,,,,,,"",""
+ball,2,9.1,Otago,NT Broom,AK Kitchen,JG Walker,1,0,,,,,,"",""
+ball,2,9.2,Otago,AK Kitchen,NT Broom,JG Walker,1,0,,,,,,"",""
+ball,2,9.3,Otago,NT Broom,AK Kitchen,JG Walker,0,0,,,,,,"",""
+ball,2,9.4,Otago,NT Broom,AK Kitchen,JG Walker,0,0,,,,,,"",""
+ball,2,9.5,Otago,NT Broom,AK Kitchen,JG Walker,4,0,,,,,,"",""
+ball,2,9.6,Otago,NT Broom,AK Kitchen,JG Walker,1,0,,,,,,"",""
+ball,2,10.1,Otago,NT Broom,AK Kitchen,FL Walker,1,0,,,,,,"",""
+ball,2,10.2,Otago,AK Kitchen,NT Broom,FL Walker,0,0,,,,,,caught,AK Kitchen
+ball,2,10.3,Otago,DN Phillips,NT Broom,FL Walker,2,0,,,,,,"",""
+ball,2,10.4,Otago,DN Phillips,NT Broom,FL Walker,0,0,,,,,,"",""
+ball,2,10.5,Otago,DN Phillips,NT Broom,FL Walker,1,0,,,,,,"",""
+ball,2,10.6,Otago,NT Broom,DN Phillips,FL Walker,0,0,,,,,,"",""
+ball,2,11.1,Otago,DN Phillips,NT Broom,MJ Fisher,1,0,,,,,,"",""
+ball,2,11.2,Otago,NT Broom,DN Phillips,MJ Fisher,1,0,,,,,,"",""
+ball,2,11.3,Otago,DN Phillips,NT Broom,MJ Fisher,1,0,,,,,,"",""
+ball,2,11.4,Otago,NT Broom,DN Phillips,MJ Fisher,1,0,,,,,,"",""
+ball,2,11.5,Otago,DN Phillips,NT Broom,MJ Fisher,0,1,,,,1,,"",""
+ball,2,11.6,Otago,NT Broom,DN Phillips,MJ Fisher,1,0,,,,,,"",""
+ball,2,12.1,Otago,NT Broom,DN Phillips,FL Walker,1,0,,,,,,"",""
+ball,2,12.2,Otago,DN Phillips,NT Broom,FL Walker,0,0,,,,,,"",""
+ball,2,12.3,Otago,DN Phillips,NT Broom,FL Walker,1,0,,,,,,"",""
+ball,2,12.4,Otago,NT Broom,DN Phillips,FL Walker,1,0,,,,,,"",""
+ball,2,12.5,Otago,DN Phillips,NT Broom,FL Walker,0,0,,,,,,bowled,DN Phillips
+ball,2,12.6,Otago,LC Johnson,NT Broom,FL Walker,0,0,,,,,,"",""
+ball,2,13.1,Otago,NT Broom,LC Johnson,JG Walker,4,0,,,,,,"",""
+ball,2,13.2,Otago,NT Broom,LC Johnson,JG Walker,0,0,,,,,,"",""
+ball,2,13.3,Otago,NT Broom,LC Johnson,JG Walker,1,0,,,,,,"",""
+ball,2,13.4,Otago,LC Johnson,NT Broom,JG Walker,1,0,,,,,,"",""
+ball,2,13.5,Otago,NT Broom,LC Johnson,JG Walker,2,0,,,,,,"",""
+ball,2,13.6,Otago,NT Broom,LC Johnson,JG Walker,1,0,,,,,,"",""
+ball,2,14.1,Otago,NT Broom,LC Johnson,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,14.2,Otago,NT Broom,LC Johnson,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,14.3,Otago,LC Johnson,NT Broom,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,14.4,Otago,NT Broom,LC Johnson,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,14.5,Otago,LC Johnson,NT Broom,SC Kuggeleijn,6,0,,,,,,"",""
+ball,2,14.6,Otago,LC Johnson,NT Broom,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,15.1,Otago,LC Johnson,NT Broom,JG Walker,4,0,,,,,,"",""
+ball,2,15.2,Otago,LC Johnson,NT Broom,JG Walker,1,0,,,,,,"",""
+ball,2,15.3,Otago,NT Broom,LC Johnson,JG Walker,0,0,,,,,,"",""
+ball,2,15.4,Otago,NT Broom,LC Johnson,JG Walker,1,0,,,,,,"",""
+ball,2,15.5,Otago,LC Johnson,NT Broom,JG Walker,4,0,,,,,,"",""
+ball,2,15.6,Otago,LC Johnson,NT Broom,JG Walker,1,0,,,,,,"",""
+ball,2,16.1,Otago,LC Johnson,NT Broom,A Verma,4,0,,,,,,"",""
+ball,2,16.2,Otago,LC Johnson,NT Broom,A Verma,1,0,,,,,,"",""
+ball,2,16.3,Otago,NT Broom,LC Johnson,A Verma,1,0,,,,,,"",""
+ball,2,16.4,Otago,LC Johnson,NT Broom,A Verma,1,0,,,,,,"",""
+ball,2,16.5,Otago,NT Broom,LC Johnson,A Verma,0,1,1,,,,,"",""
+ball,2,16.6,Otago,NT Broom,LC Johnson,A Verma,2,0,,,,,,"",""
+ball,2,16.7,Otago,NT Broom,LC Johnson,A Verma,2,0,,,,,,"",""
+ball,2,17.1,Otago,LC Johnson,NT Broom,MJ Fisher,0,0,,,,,,caught,LC Johnson
+ball,2,17.2,Otago,MJG Rippon,NT Broom,MJ Fisher,1,0,,,,,,"",""
+ball,2,17.3,Otago,NT Broom,MJG Rippon,MJ Fisher,1,0,,,,,,"",""
+ball,2,17.4,Otago,MJG Rippon,NT Broom,MJ Fisher,2,0,,,,,,"",""
+ball,2,17.5,Otago,MJG Rippon,NT Broom,MJ Fisher,0,0,,,,,,"",""
+ball,2,17.6,Otago,MJG Rippon,NT Broom,MJ Fisher,0,0,,,,,,"",""
+ball,2,18.1,Otago,NT Broom,MJG Rippon,A Verma,1,0,,,,,,"",""
+ball,2,18.2,Otago,MJG Rippon,NT Broom,A Verma,0,0,,,,,,caught,MJG Rippon
+ball,2,18.3,Otago,MW Chu,NT Broom,A Verma,0,0,,,,,,"",""
+ball,2,18.4,Otago,MW Chu,NT Broom,A Verma,1,0,,,,,,"",""
+ball,2,18.5,Otago,NT Broom,MW Chu,A Verma,0,0,,,,,,caught,NT Broom
+ball,2,18.6,Otago,MW Chu,AW McKenzie,A Verma,2,0,,,,,,"",""
+ball,2,19.1,Otago,AW McKenzie,MW Chu,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,19.2,Otago,MW Chu,AW McKenzie,SC Kuggeleijn,6,0,,,,,,"",""
+ball,2,19.3,Otago,MW Chu,AW McKenzie,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,19.4,Otago,AW McKenzie,MW Chu,SC Kuggeleijn,6,0,,,,,,"",""

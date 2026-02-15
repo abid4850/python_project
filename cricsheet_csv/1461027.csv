@@ -1,0 +1,247 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Essex
+info,gender,female
+info,season,2025
+info,date,2025/07/06
+info,event,Vitality Blast Women
+info,match_number,39
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,G Brown
+info,umpire,NL Bainton
+info,match_referee,PM Such
+info,outcome,tie
+info,method,D/L
+info,player,Surrey,BF Smith
+info,player,Surrey,R King
+info,player,Surrey,AZ Monaghan
+info,player,Surrey,KM Chathli
+info,player,Surrey,GM Harris
+info,player,Surrey,AN Davidson-Richards
+info,player,Surrey,PA Franklin
+info,player,Surrey,K Moore
+info,player,Surrey,EEL Burke
+info,player,Surrey,PA Chatterji
+info,player,Surrey,D Gregory
+info,player,Essex,L Winfield-Hill
+info,player,Essex,AJ Macleod
+info,player,Essex,M Penna
+info,player,Essex,CL Griffith
+info,player,Essex,J Gardner
+info,player,Essex,Sophia Smale
+info,player,Essex,E Gray
+info,player,Essex,EI MacGregor
+info,player,Essex,KL Coppack
+info,player,Essex,AH Maqsood
+info,player,Essex,AD Carr
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AJ Macleod,e7f06080
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,E Gray,58717de2
+info,registry,people,EEL Burke,64dc2e4c
+info,registry,people,EI MacGregor,c812dfa3
+info,registry,people,G Brown,4b781bd0
+info,registry,people,GM Harris,72166006
+info,registry,people,J Gardner,184512d1
+info,registry,people,K Moore,d12c8445
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,KM Chathli,6ffbf04c
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,M Penna,36453b99
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PM Such,c9f1892c
+info,registry,people,R King,113d3c48
+info,registry,people,Sophia Smale,c296dba1
+ball,1,0.1,Surrey,BF Smith,R King,KL Coppack,1,0,,,,,,"",""
+ball,1,0.2,Surrey,R King,BF Smith,KL Coppack,0,0,,,,,,"",""
+ball,1,0.3,Surrey,R King,BF Smith,KL Coppack,0,1,,,,1,,"",""
+ball,1,0.4,Surrey,BF Smith,R King,KL Coppack,0,0,,,,,,"",""
+ball,1,0.5,Surrey,BF Smith,R King,KL Coppack,4,0,,,,,,"",""
+ball,1,0.6,Surrey,BF Smith,R King,KL Coppack,4,0,,,,,,"",""
+ball,1,1.1,Surrey,R King,BF Smith,EI MacGregor,4,0,,,,,,"",""
+ball,1,1.2,Surrey,R King,BF Smith,EI MacGregor,0,0,,,,,,"",""
+ball,1,1.3,Surrey,R King,BF Smith,EI MacGregor,0,0,,,,,,"",""
+ball,1,1.4,Surrey,R King,BF Smith,EI MacGregor,1,0,,,,,,"",""
+ball,1,1.5,Surrey,BF Smith,R King,EI MacGregor,1,0,,,,,,"",""
+ball,1,1.6,Surrey,R King,BF Smith,EI MacGregor,0,0,,,,,,"",""
+ball,1,2.1,Surrey,BF Smith,R King,M Penna,0,0,,,,,,"",""
+ball,1,2.2,Surrey,BF Smith,R King,M Penna,0,0,,,,,,"",""
+ball,1,2.3,Surrey,BF Smith,R King,M Penna,1,0,,,,,,"",""
+ball,1,2.4,Surrey,R King,BF Smith,M Penna,1,0,,,,,,"",""
+ball,1,2.5,Surrey,BF Smith,R King,M Penna,0,0,,,,,,"",""
+ball,1,2.6,Surrey,BF Smith,R King,M Penna,1,0,,,,,,"",""
+ball,1,3.1,Surrey,BF Smith,R King,KL Coppack,1,0,,,,,,"",""
+ball,1,3.2,Surrey,R King,BF Smith,KL Coppack,0,0,,,,,,"",""
+ball,1,3.3,Surrey,R King,BF Smith,KL Coppack,0,0,,,,,,"",""
+ball,1,3.4,Surrey,R King,BF Smith,KL Coppack,1,0,,,,,,"",""
+ball,1,3.5,Surrey,BF Smith,R King,KL Coppack,4,0,,,,,,"",""
+ball,1,3.6,Surrey,BF Smith,R King,KL Coppack,0,0,,,,,,caught,BF Smith
+ball,1,4.1,Surrey,R King,AZ Monaghan,E Gray,2,0,,,,,,"",""
+ball,1,4.2,Surrey,R King,AZ Monaghan,E Gray,1,0,,,,,,"",""
+ball,1,4.3,Surrey,AZ Monaghan,R King,E Gray,0,0,,,,,,"",""
+ball,1,4.4,Surrey,AZ Monaghan,R King,E Gray,1,0,,,,,,"",""
+ball,1,4.5,Surrey,R King,AZ Monaghan,E Gray,0,0,,,,,,caught,R King
+ball,1,4.6,Surrey,KM Chathli,AZ Monaghan,E Gray,0,0,,,,,,"",""
+ball,1,5.1,Surrey,AZ Monaghan,KM Chathli,EI MacGregor,0,0,,,,,,"",""
+ball,1,5.2,Surrey,AZ Monaghan,KM Chathli,EI MacGregor,0,0,,,,,,"",""
+ball,1,5.3,Surrey,AZ Monaghan,KM Chathli,EI MacGregor,4,0,,,,,,"",""
+ball,1,5.4,Surrey,AZ Monaghan,KM Chathli,EI MacGregor,4,0,,,,,,"",""
+ball,1,5.5,Surrey,AZ Monaghan,KM Chathli,EI MacGregor,1,0,,,,,,"",""
+ball,1,5.6,Surrey,KM Chathli,AZ Monaghan,EI MacGregor,1,0,,,,,,"",""
+ball,1,6.1,Surrey,KM Chathli,AZ Monaghan,E Gray,0,0,,,,,,"",""
+ball,1,6.2,Surrey,KM Chathli,AZ Monaghan,E Gray,1,0,,,,,,"",""
+ball,1,6.3,Surrey,AZ Monaghan,KM Chathli,E Gray,1,0,,,,,,"",""
+ball,1,6.4,Surrey,KM Chathli,AZ Monaghan,E Gray,1,0,,,,,,"",""
+ball,1,6.5,Surrey,AZ Monaghan,KM Chathli,E Gray,0,1,,,,1,,"",""
+ball,1,6.6,Surrey,KM Chathli,AZ Monaghan,E Gray,1,0,,,,,,"",""
+ball,1,7.1,Surrey,KM Chathli,AZ Monaghan,AH Maqsood,1,0,,,,,,run out,AZ Monaghan
+ball,1,7.2,Surrey,GM Harris,KM Chathli,AH Maqsood,0,0,,,,,,"",""
+ball,1,7.3,Surrey,GM Harris,KM Chathli,AH Maqsood,0,0,,,,,,caught,GM Harris
+ball,1,7.4,Surrey,AN Davidson-Richards,KM Chathli,AH Maqsood,1,0,,,,,,"",""
+ball,1,7.5,Surrey,KM Chathli,AN Davidson-Richards,AH Maqsood,0,0,,,,,,"",""
+ball,1,7.6,Surrey,KM Chathli,AN Davidson-Richards,AH Maqsood,4,0,,,,,,"",""
+ball,1,8.1,Surrey,AN Davidson-Richards,KM Chathli,KL Coppack,0,0,,,,,,"",""
+ball,1,8.2,Surrey,AN Davidson-Richards,KM Chathli,KL Coppack,1,0,,,,,,"",""
+ball,1,8.3,Surrey,KM Chathli,AN Davidson-Richards,KL Coppack,1,0,,,,,,"",""
+ball,1,8.4,Surrey,AN Davidson-Richards,KM Chathli,KL Coppack,0,0,,,,,,"",""
+ball,1,8.5,Surrey,AN Davidson-Richards,KM Chathli,KL Coppack,1,0,,,,,,"",""
+ball,1,8.6,Surrey,KM Chathli,AN Davidson-Richards,KL Coppack,1,0,,,,,,"",""
+ball,1,9.1,Surrey,KM Chathli,AN Davidson-Richards,Sophia Smale,0,0,,,,,,"",""
+ball,1,9.2,Surrey,KM Chathli,AN Davidson-Richards,Sophia Smale,4,0,,,,,,"",""
+ball,1,9.3,Surrey,KM Chathli,AN Davidson-Richards,Sophia Smale,1,0,,,,,,"",""
+ball,1,9.4,Surrey,AN Davidson-Richards,KM Chathli,Sophia Smale,0,0,,,,,,"",""
+ball,1,9.5,Surrey,AN Davidson-Richards,KM Chathli,Sophia Smale,1,0,,,,,,"",""
+ball,1,9.6,Surrey,KM Chathli,AN Davidson-Richards,Sophia Smale,1,0,,,,,,"",""
+ball,1,10.1,Surrey,KM Chathli,AN Davidson-Richards,AH Maqsood,0,0,,,,,,"",""
+ball,1,10.2,Surrey,KM Chathli,AN Davidson-Richards,AH Maqsood,1,0,,,,,,"",""
+ball,1,10.3,Surrey,AN Davidson-Richards,KM Chathli,AH Maqsood,4,0,,,,,,"",""
+ball,1,10.4,Surrey,AN Davidson-Richards,KM Chathli,AH Maqsood,2,0,,,,,,"",""
+ball,1,10.5,Surrey,AN Davidson-Richards,KM Chathli,AH Maqsood,1,0,,,,,,"",""
+ball,1,10.6,Surrey,KM Chathli,AN Davidson-Richards,AH Maqsood,0,0,,,,,,"",""
+ball,1,11.1,Surrey,AN Davidson-Richards,KM Chathli,M Penna,0,1,1,,,,,"",""
+ball,1,11.2,Surrey,AN Davidson-Richards,KM Chathli,M Penna,1,0,,,,,,"",""
+ball,1,11.3,Surrey,KM Chathli,AN Davidson-Richards,M Penna,0,0,,,,,,"",""
+ball,1,11.4,Surrey,KM Chathli,AN Davidson-Richards,M Penna,1,0,,,,,,"",""
+ball,1,11.5,Surrey,AN Davidson-Richards,KM Chathli,M Penna,0,0,,,,,,"",""
+ball,1,11.6,Surrey,AN Davidson-Richards,KM Chathli,M Penna,0,0,,,,,,"",""
+ball,1,11.7,Surrey,AN Davidson-Richards,KM Chathli,M Penna,0,0,,,,,,"",""
+ball,1,12.1,Surrey,KM Chathli,AN Davidson-Richards,EI MacGregor,1,0,,,,,,"",""
+ball,1,12.2,Surrey,AN Davidson-Richards,KM Chathli,EI MacGregor,1,0,,,,,,"",""
+ball,1,12.3,Surrey,KM Chathli,AN Davidson-Richards,EI MacGregor,1,0,,,,,,"",""
+ball,1,12.4,Surrey,AN Davidson-Richards,KM Chathli,EI MacGregor,1,0,,,,,,"",""
+ball,1,12.5,Surrey,KM Chathli,AN Davidson-Richards,EI MacGregor,1,0,,,,,,"",""
+ball,1,12.6,Surrey,AN Davidson-Richards,KM Chathli,EI MacGregor,1,0,,,,,,"",""
+ball,1,13.1,Surrey,AN Davidson-Richards,KM Chathli,Sophia Smale,1,0,,,,,,"",""
+ball,1,13.2,Surrey,KM Chathli,AN Davidson-Richards,Sophia Smale,0,0,,,,,,"",""
+ball,1,13.3,Surrey,KM Chathli,AN Davidson-Richards,Sophia Smale,1,0,,,,,,"",""
+ball,1,13.4,Surrey,AN Davidson-Richards,KM Chathli,Sophia Smale,4,0,,,,,,"",""
+ball,1,13.5,Surrey,AN Davidson-Richards,KM Chathli,Sophia Smale,1,0,,,,,,"",""
+ball,1,13.6,Surrey,KM Chathli,AN Davidson-Richards,Sophia Smale,2,0,,,,,,"",""
+ball,1,14.1,Surrey,AN Davidson-Richards,KM Chathli,E Gray,0,0,,,,,,caught,AN Davidson-Richards
+ball,1,14.2,Surrey,PA Franklin,KM Chathli,E Gray,0,0,,,,,,"",""
+ball,1,14.3,Surrey,PA Franklin,KM Chathli,E Gray,0,0,,,,,,"",""
+ball,1,14.4,Surrey,PA Franklin,KM Chathli,E Gray,1,0,,,,,,"",""
+ball,1,14.5,Surrey,KM Chathli,PA Franklin,E Gray,0,0,,,,,,"",""
+ball,1,14.6,Surrey,KM Chathli,PA Franklin,E Gray,1,0,,,,,,"",""
+ball,1,15.1,Surrey,KM Chathli,PA Franklin,AH Maqsood,1,0,,,,,,"",""
+ball,1,15.2,Surrey,PA Franklin,KM Chathli,AH Maqsood,4,0,,,,,,"",""
+ball,1,15.3,Surrey,PA Franklin,KM Chathli,AH Maqsood,0,0,,,,,,"",""
+ball,1,15.4,Surrey,PA Franklin,KM Chathli,AH Maqsood,2,0,,,,,,"",""
+ball,1,15.5,Surrey,PA Franklin,KM Chathli,AH Maqsood,6,0,,,,,,"",""
+ball,1,15.6,Surrey,PA Franklin,KM Chathli,AH Maqsood,0,0,,,,,,"",""
+ball,1,16.1,Surrey,KM Chathli,PA Franklin,EI MacGregor,0,0,,,,,,"",""
+ball,1,16.2,Surrey,KM Chathli,PA Franklin,EI MacGregor,1,0,,,,,,"",""
+ball,1,16.3,Surrey,PA Franklin,KM Chathli,EI MacGregor,1,0,,,,,,"",""
+ball,1,16.4,Surrey,KM Chathli,PA Franklin,EI MacGregor,4,0,,,,,,"",""
+ball,1,16.5,Surrey,KM Chathli,PA Franklin,EI MacGregor,4,0,,,,,,"",""
+ball,1,16.6,Surrey,KM Chathli,PA Franklin,EI MacGregor,4,0,,,,,,"",""
+ball,1,17.1,Surrey,PA Franklin,KM Chathli,M Penna,4,0,,,,,,"",""
+ball,1,17.2,Surrey,PA Franklin,KM Chathli,M Penna,1,0,,,,,,"",""
+ball,1,17.3,Surrey,KM Chathli,PA Franklin,M Penna,1,0,,,,,,"",""
+ball,1,17.4,Surrey,PA Franklin,KM Chathli,M Penna,4,0,,,,,,"",""
+ball,1,17.5,Surrey,PA Franklin,KM Chathli,M Penna,0,0,,,,,,"",""
+ball,1,17.6,Surrey,PA Franklin,KM Chathli,M Penna,0,5,5,,,,,"",""
+ball,1,17.7,Surrey,PA Franklin,KM Chathli,M Penna,2,0,,,,,,"",""
+ball,1,18.1,Surrey,KM Chathli,PA Franklin,E Gray,1,0,,,,,,"",""
+ball,1,18.2,Surrey,PA Franklin,KM Chathli,E Gray,1,0,,,,,,"",""
+ball,1,18.3,Surrey,KM Chathli,PA Franklin,E Gray,1,0,,,,,,"",""
+ball,1,18.4,Surrey,PA Franklin,KM Chathli,E Gray,4,0,,,,,,"",""
+ball,1,18.5,Surrey,PA Franklin,KM Chathli,E Gray,0,0,,,,,,"",""
+ball,1,18.6,Surrey,PA Franklin,KM Chathli,E Gray,1,0,,,,,,"",""
+ball,1,19.1,Surrey,PA Franklin,KM Chathli,Sophia Smale,1,0,,,,,,"",""
+ball,1,19.2,Surrey,KM Chathli,PA Franklin,Sophia Smale,1,0,,,,,,"",""
+ball,1,19.3,Surrey,PA Franklin,KM Chathli,Sophia Smale,6,0,,,,,,"",""
+ball,1,19.4,Surrey,PA Franklin,KM Chathli,Sophia Smale,6,0,,,,,,"",""
+ball,1,19.5,Surrey,PA Franklin,KM Chathli,Sophia Smale,2,0,,,,,,"",""
+ball,1,19.6,Surrey,PA Franklin,KM Chathli,Sophia Smale,2,0,,,,,,"",""
+ball,2,0.1,Essex,L Winfield-Hill,AJ Macleod,BF Smith,1,0,,,,,,"",""
+ball,2,0.2,Essex,AJ Macleod,L Winfield-Hill,BF Smith,1,0,,,,,,"",""
+ball,2,0.3,Essex,L Winfield-Hill,AJ Macleod,BF Smith,0,0,,,,,,"",""
+ball,2,0.4,Essex,L Winfield-Hill,AJ Macleod,BF Smith,2,0,,,,,,"",""
+ball,2,0.5,Essex,L Winfield-Hill,AJ Macleod,BF Smith,0,0,,,,,,"",""
+ball,2,0.6,Essex,L Winfield-Hill,AJ Macleod,BF Smith,2,0,,,,,,"",""
+ball,2,1.1,Essex,AJ Macleod,L Winfield-Hill,PA Chatterji,0,0,,,,,,caught,AJ Macleod
+ball,2,1.2,Essex,M Penna,L Winfield-Hill,PA Chatterji,0,0,,,,,,"",""
+ball,2,1.3,Essex,M Penna,L Winfield-Hill,PA Chatterji,0,0,,,,,,"",""
+ball,2,1.4,Essex,M Penna,L Winfield-Hill,PA Chatterji,0,0,,,,,,"",""
+ball,2,1.5,Essex,M Penna,L Winfield-Hill,PA Chatterji,4,0,,,,,,"",""
+ball,2,1.6,Essex,M Penna,L Winfield-Hill,PA Chatterji,1,0,,,,,,"",""
+ball,2,2.1,Essex,M Penna,L Winfield-Hill,K Moore,0,0,,,,,,"",""
+ball,2,2.2,Essex,M Penna,L Winfield-Hill,K Moore,1,0,,,,,,"",""
+ball,2,2.3,Essex,L Winfield-Hill,M Penna,K Moore,4,0,,,,,,"",""
+ball,2,2.4,Essex,L Winfield-Hill,M Penna,K Moore,4,0,,,,,,"",""
+ball,2,2.5,Essex,L Winfield-Hill,M Penna,K Moore,4,0,,,,,,"",""
+ball,2,2.6,Essex,L Winfield-Hill,M Penna,K Moore,1,0,,,,,,"",""
+ball,2,3.1,Essex,L Winfield-Hill,M Penna,GM Harris,1,0,,,,,,"",""
+ball,2,3.2,Essex,M Penna,L Winfield-Hill,GM Harris,1,0,,,,,,"",""
+ball,2,3.3,Essex,L Winfield-Hill,M Penna,GM Harris,4,0,,,,,,"",""
+ball,2,3.4,Essex,L Winfield-Hill,M Penna,GM Harris,4,0,,,,,,"",""
+ball,2,3.5,Essex,L Winfield-Hill,M Penna,GM Harris,4,0,,,,,,"",""
+ball,2,3.6,Essex,L Winfield-Hill,M Penna,GM Harris,1,0,,,,,,"",""
+ball,2,4.1,Essex,L Winfield-Hill,M Penna,PA Franklin,0,0,,,,,,"",""
+ball,2,4.2,Essex,L Winfield-Hill,M Penna,PA Franklin,0,0,,,,,,"",""
+ball,2,4.3,Essex,L Winfield-Hill,M Penna,PA Franklin,1,0,,,,,,"",""
+ball,2,4.4,Essex,M Penna,L Winfield-Hill,PA Franklin,1,0,,,,,,"",""
+ball,2,4.5,Essex,L Winfield-Hill,M Penna,PA Franklin,2,0,,,,,,"",""
+ball,2,4.6,Essex,L Winfield-Hill,M Penna,PA Franklin,0,0,,,,,,"",""
+ball,2,5.1,Essex,M Penna,L Winfield-Hill,D Gregory,1,0,,,,,,"",""
+ball,2,5.2,Essex,L Winfield-Hill,M Penna,D Gregory,4,0,,,,,,"",""
+ball,2,5.3,Essex,L Winfield-Hill,M Penna,D Gregory,0,0,,,,,,"",""
+ball,2,5.4,Essex,L Winfield-Hill,M Penna,D Gregory,4,0,,,,,,"",""
+ball,2,5.5,Essex,L Winfield-Hill,M Penna,D Gregory,4,0,,,,,,"",""
+ball,2,5.6,Essex,L Winfield-Hill,M Penna,D Gregory,1,0,,,,,,"",""
+ball,2,6.1,Essex,L Winfield-Hill,M Penna,PA Chatterji,0,0,,,,,,"",""
+ball,2,6.2,Essex,L Winfield-Hill,M Penna,PA Chatterji,1,0,,,,,,"",""
+ball,2,6.3,Essex,M Penna,L Winfield-Hill,PA Chatterji,1,0,,,,,,"",""
+ball,2,6.4,Essex,L Winfield-Hill,M Penna,PA Chatterji,0,0,,,,,,caught,L Winfield-Hill
+ball,2,6.5,Essex,CL Griffith,M Penna,PA Chatterji,4,0,,,,,,"",""
+ball,2,6.6,Essex,CL Griffith,M Penna,PA Chatterji,1,0,,,,,,"",""
+ball,2,7.1,Essex,CL Griffith,M Penna,BF Smith,2,0,,,,,,"",""
+ball,2,7.2,Essex,CL Griffith,M Penna,BF Smith,0,1,,,,1,,"",""
+ball,2,7.3,Essex,M Penna,CL Griffith,BF Smith,1,0,,,,,,"",""
+ball,2,7.4,Essex,CL Griffith,M Penna,BF Smith,1,0,,,,,,"",""
+ball,2,7.5,Essex,M Penna,CL Griffith,BF Smith,1,0,,,,,,"",""
+ball,2,7.6,Essex,CL Griffith,M Penna,BF Smith,4,0,,,,,,"",""
+ball,2,8.1,Essex,M Penna,CL Griffith,PA Franklin,4,0,,,,,,"",""
+ball,2,8.2,Essex,M Penna,CL Griffith,PA Franklin,0,0,,,,,,"",""
+ball,2,8.3,Essex,M Penna,CL Griffith,PA Franklin,4,0,,,,,,"",""
+ball,2,8.4,Essex,M Penna,CL Griffith,PA Franklin,1,0,,,,,,"",""
+ball,2,8.5,Essex,CL Griffith,M Penna,PA Franklin,1,0,,,,,,"",""
+ball,2,8.6,Essex,M Penna,CL Griffith,PA Franklin,1,0,,,,,,"",""
+ball,2,9.1,Essex,M Penna,CL Griffith,GM Harris,0,0,,,,,,caught,M Penna
+ball,2,9.2,Essex,J Gardner,CL Griffith,GM Harris,4,0,,,,,,"",""
+ball,2,9.3,Essex,J Gardner,CL Griffith,GM Harris,1,0,,,,,,"",""
+ball,2,9.4,Essex,CL Griffith,J Gardner,GM Harris,0,0,,,,,,stumped,CL Griffith
+ball,2,9.5,Essex,Sophia Smale,J Gardner,GM Harris,1,0,,,,,,"",""
+ball,2,9.6,Essex,J Gardner,Sophia Smale,GM Harris,1,0,,,,,,run out,J Gardner

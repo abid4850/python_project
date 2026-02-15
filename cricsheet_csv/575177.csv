@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Cape Cobras
+info,gender,male
+info,season,2012/13
+info,date,2013/03/14
+info,event,Ram Slam T20 Challenge
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Cape Cobras
+info,toss_decision,field
+info,player_of_match,DJ Vilas
+info,player_of_match,CP Savage
+info,umpire,IL Howell
+info,umpire,MW Brown
+info,reserve_umpire,LB Gcuma
+info,match_referee,CJ Mitchley
+info,winner,Dolphins
+info,winner_runs,22
+info,player,Dolphins,DJ van Wyk
+info,player,Dolphins,CS Delport
+info,player,Dolphins,C Chetty
+info,player,Dolphins,RS Bopara
+info,player,Dolphins,DA Miller
+info,player,Dolphins,VB van Jaarsveld
+info,player,Dolphins,D Smit
+info,player,Dolphins,CP Savage
+info,player,Dolphins,KA Maharaj
+info,player,Dolphins,YA Abdulla
+info,player,Dolphins,M Shezi
+info,player,Cape Cobras,RE Levi
+info,player,Cape Cobras,MY Vallie
+info,player,Cape Cobras,DJ Vilas
+info,player,Cape Cobras,OA Shah
+info,player,Cape Cobras,JL Ontong
+info,player,Cape Cobras,Azhar Mahmood
+info,player,Cape Cobras,JM Kemp
+info,player,Cape Cobras,VD Philander
+info,player,Cape Cobras,BE Hendricks
+info,player,Cape Cobras,DL Piedt
+info,player,Cape Cobras,CK Langeveldt
+info,registry,people,Azhar Mahmood,9a158001
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,C Chetty,27ca3a11
+info,registry,people,CJ Mitchley,7f4f18e3
+info,registry,people,CK Langeveldt,d1c94b25
+info,registry,people,CP Savage,a55e0360
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,D Smit,4bb02ef1
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DJ van Wyk,a2f71c9f
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,JL Ontong,55f33b32
+info,registry,people,JM Kemp,6581d753
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Shezi,016e5101
+info,registry,people,MW Brown,d83d7796
+info,registry,people,MY Vallie,9fa54c94
+info,registry,people,OA Shah,7bf96684
+info,registry,people,RE Levi,18c78b11
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,VB van Jaarsveld,890b877d
+info,registry,people,VD Philander,cfe70281
+info,registry,people,YA Abdulla,4353bba5
+ball,1,0.1,Dolphins,DJ van Wyk,CS Delport,BE Hendricks,1,0,,,,,,"",""
+ball,1,0.2,Dolphins,CS Delport,DJ van Wyk,BE Hendricks,0,0,,,,,,"",""
+ball,1,0.3,Dolphins,CS Delport,DJ van Wyk,BE Hendricks,0,0,,,,,,"",""
+ball,1,0.4,Dolphins,CS Delport,DJ van Wyk,BE Hendricks,1,0,,,,,,"",""
+ball,1,0.5,Dolphins,DJ van Wyk,CS Delport,BE Hendricks,0,0,,,,,,"",""
+ball,1,0.6,Dolphins,DJ van Wyk,CS Delport,BE Hendricks,1,0,,,,,,"",""
+ball,1,1.1,Dolphins,DJ van Wyk,CS Delport,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,1.2,Dolphins,DJ van Wyk,CS Delport,Azhar Mahmood,4,0,,,,,,"",""
+ball,1,1.3,Dolphins,DJ van Wyk,CS Delport,Azhar Mahmood,4,0,,,,,,"",""
+ball,1,1.4,Dolphins,DJ van Wyk,CS Delport,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,1.5,Dolphins,CS Delport,DJ van Wyk,Azhar Mahmood,4,0,,,,,,"",""
+ball,1,1.6,Dolphins,CS Delport,DJ van Wyk,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,2.1,Dolphins,DJ van Wyk,CS Delport,BE Hendricks,0,0,,,,,,"",""
+ball,1,2.2,Dolphins,DJ van Wyk,CS Delport,BE Hendricks,1,0,,,,,,"",""
+ball,1,2.3,Dolphins,CS Delport,DJ van Wyk,BE Hendricks,0,1,1,,,,,"",""
+ball,1,2.4,Dolphins,CS Delport,DJ van Wyk,BE Hendricks,0,0,,,,,,"",""
+ball,1,2.5,Dolphins,CS Delport,DJ van Wyk,BE Hendricks,2,0,,,,,,"",""
+ball,1,2.6,Dolphins,CS Delport,DJ van Wyk,BE Hendricks,0,0,,,,,,bowled,CS Delport
+ball,1,2.7,Dolphins,C Chetty,DJ van Wyk,BE Hendricks,0,0,,,,,,"",""
+ball,1,3.1,Dolphins,DJ van Wyk,C Chetty,VD Philander,4,0,,,,,,"",""
+ball,1,3.2,Dolphins,DJ van Wyk,C Chetty,VD Philander,4,0,,,,,,"",""
+ball,1,3.3,Dolphins,DJ van Wyk,C Chetty,VD Philander,1,0,,,,,,"",""
+ball,1,3.4,Dolphins,C Chetty,DJ van Wyk,VD Philander,0,0,,,,,,"",""
+ball,1,3.5,Dolphins,C Chetty,DJ van Wyk,VD Philander,0,0,,,,,,"",""
+ball,1,3.6,Dolphins,C Chetty,DJ van Wyk,VD Philander,0,0,,,,,,"",""
+ball,1,4.1,Dolphins,DJ van Wyk,C Chetty,BE Hendricks,1,0,,,,,,"",""
+ball,1,4.2,Dolphins,C Chetty,DJ van Wyk,BE Hendricks,4,0,,,,,,"",""
+ball,1,4.3,Dolphins,C Chetty,DJ van Wyk,BE Hendricks,2,0,,,,,,"",""
+ball,1,4.4,Dolphins,C Chetty,DJ van Wyk,BE Hendricks,2,0,,,,,,"",""
+ball,1,4.5,Dolphins,C Chetty,DJ van Wyk,BE Hendricks,0,0,,,,,,"",""
+ball,1,4.6,Dolphins,C Chetty,DJ van Wyk,BE Hendricks,1,0,,,,,,"",""
+ball,1,5.1,Dolphins,C Chetty,DJ van Wyk,VD Philander,6,0,,,,,,"",""
+ball,1,5.2,Dolphins,C Chetty,DJ van Wyk,VD Philander,1,0,,,,,,"",""
+ball,1,5.3,Dolphins,DJ van Wyk,C Chetty,VD Philander,0,0,,,,,,"",""
+ball,1,5.4,Dolphins,DJ van Wyk,C Chetty,VD Philander,1,0,,,,,,"",""
+ball,1,5.5,Dolphins,C Chetty,DJ van Wyk,VD Philander,0,0,,,,,,"",""
+ball,1,5.6,Dolphins,C Chetty,DJ van Wyk,VD Philander,4,0,,,,,,"",""
+ball,1,6.1,Dolphins,DJ van Wyk,C Chetty,CK Langeveldt,4,0,,,,,,"",""
+ball,1,6.2,Dolphins,DJ van Wyk,C Chetty,CK Langeveldt,1,0,,,,,,"",""
+ball,1,6.3,Dolphins,C Chetty,DJ van Wyk,CK Langeveldt,0,0,,,,,,"",""
+ball,1,6.4,Dolphins,C Chetty,DJ van Wyk,CK Langeveldt,0,0,,,,,,"",""
+ball,1,6.5,Dolphins,C Chetty,DJ van Wyk,CK Langeveldt,0,0,,,,,,"",""
+ball,1,6.6,Dolphins,C Chetty,DJ van Wyk,CK Langeveldt,1,0,,,,,,"",""
+ball,1,7.1,Dolphins,C Chetty,DJ van Wyk,JM Kemp,2,0,,,,,,"",""
+ball,1,7.2,Dolphins,C Chetty,DJ van Wyk,JM Kemp,2,0,,,,,,"",""
+ball,1,7.3,Dolphins,C Chetty,DJ van Wyk,JM Kemp,1,0,,,,,,run out,C Chetty
+ball,1,7.4,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,0,0,,,,,,"",""
+ball,1,7.5,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,0,0,,,,,,"",""
+ball,1,7.6,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,0,0,,,,,,"",""
+ball,1,8.1,Dolphins,DJ van Wyk,RS Bopara,DL Piedt,0,0,,,,,,"",""
+ball,1,8.2,Dolphins,DJ van Wyk,RS Bopara,DL Piedt,1,0,,,,,,"",""
+ball,1,8.3,Dolphins,RS Bopara,DJ van Wyk,DL Piedt,1,0,,,,,,"",""
+ball,1,8.4,Dolphins,DJ van Wyk,RS Bopara,DL Piedt,1,0,,,,,,"",""
+ball,1,8.5,Dolphins,RS Bopara,DJ van Wyk,DL Piedt,2,0,,,,,,"",""
+ball,1,8.6,Dolphins,RS Bopara,DJ van Wyk,DL Piedt,1,0,,,,,,"",""
+ball,1,9.1,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,0,2,,,,2,,"",""
+ball,1,9.2,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,0,4,,,,4,,"",""
+ball,1,9.3,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,1,0,,,,,,"",""
+ball,1,9.4,Dolphins,DJ van Wyk,RS Bopara,JM Kemp,0,0,,,,,,"",""
+ball,1,9.5,Dolphins,DJ van Wyk,RS Bopara,JM Kemp,1,0,,,,,,"",""
+ball,1,9.6,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,1,0,,,,,,"",""
+ball,1,10.1,Dolphins,RS Bopara,DJ van Wyk,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,10.2,Dolphins,RS Bopara,DJ van Wyk,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,10.3,Dolphins,DJ van Wyk,RS Bopara,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,10.4,Dolphins,RS Bopara,DJ van Wyk,Azhar Mahmood,0,1,1,,,,,"",""
+ball,1,10.5,Dolphins,RS Bopara,DJ van Wyk,Azhar Mahmood,2,0,,,,,,"",""
+ball,1,10.6,Dolphins,RS Bopara,DJ van Wyk,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,10.7,Dolphins,RS Bopara,DJ van Wyk,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,11.1,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,0,0,,,,,,"",""
+ball,1,11.2,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,0,0,,,,,,"",""
+ball,1,11.3,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,4,0,,,,,,"",""
+ball,1,11.4,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,0,0,,,,,,"",""
+ball,1,11.5,Dolphins,RS Bopara,DJ van Wyk,JM Kemp,1,0,,,,,,"",""
+ball,1,11.6,Dolphins,DJ van Wyk,RS Bopara,JM Kemp,2,0,,,,,,"",""
+ball,1,12.1,Dolphins,RS Bopara,DJ van Wyk,DL Piedt,0,0,,,,,,caught,RS Bopara
+ball,1,12.2,Dolphins,DJ van Wyk,DA Miller,DL Piedt,1,0,,,,,,"",""
+ball,1,12.3,Dolphins,DA Miller,DJ van Wyk,DL Piedt,1,0,,,,,,"",""
+ball,1,12.4,Dolphins,DJ van Wyk,DA Miller,DL Piedt,0,0,,,,,,caught and bowled,DJ van Wyk
+ball,1,12.5,Dolphins,VB van Jaarsveld,DA Miller,DL Piedt,1,0,,,,,,"",""
+ball,1,12.6,Dolphins,DA Miller,VB van Jaarsveld,DL Piedt,0,0,,,,,,"",""
+ball,1,13.1,Dolphins,VB van Jaarsveld,DA Miller,JM Kemp,2,0,,,,,,"",""
+ball,1,13.2,Dolphins,VB van Jaarsveld,DA Miller,JM Kemp,1,0,,,,,,"",""
+ball,1,13.3,Dolphins,DA Miller,VB van Jaarsveld,JM Kemp,1,0,,,,,,"",""
+ball,1,13.4,Dolphins,VB van Jaarsveld,DA Miller,JM Kemp,0,0,,,,,,"",""
+ball,1,13.5,Dolphins,VB van Jaarsveld,DA Miller,JM Kemp,0,0,,,,,,"",""
+ball,1,13.6,Dolphins,VB van Jaarsveld,DA Miller,JM Kemp,2,0,,,,,,"",""
+ball,1,14.1,Dolphins,DA Miller,VB van Jaarsveld,DL Piedt,2,0,,,,,,"",""
+ball,1,14.2,Dolphins,DA Miller,VB van Jaarsveld,DL Piedt,1,0,,,,,,"",""
+ball,1,14.3,Dolphins,VB van Jaarsveld,DA Miller,DL Piedt,1,0,,,,,,"",""
+ball,1,14.4,Dolphins,DA Miller,VB van Jaarsveld,DL Piedt,1,0,,,,,,"",""
+ball,1,14.5,Dolphins,VB van Jaarsveld,DA Miller,DL Piedt,1,0,,,,,,"",""
+ball,1,14.6,Dolphins,DA Miller,VB van Jaarsveld,DL Piedt,1,0,,,,,,"",""
+ball,1,15.1,Dolphins,DA Miller,VB van Jaarsveld,CK Langeveldt,0,0,,,,,,run out,VB van Jaarsveld
+ball,1,15.2,Dolphins,D Smit,DA Miller,CK Langeveldt,0,0,,,,,,"",""
+ball,1,15.3,Dolphins,D Smit,DA Miller,CK Langeveldt,1,0,,,,,,"",""
+ball,1,15.4,Dolphins,DA Miller,D Smit,CK Langeveldt,0,0,,,,,,"",""
+ball,1,15.5,Dolphins,DA Miller,D Smit,CK Langeveldt,1,0,,,,,,"",""
+ball,1,15.6,Dolphins,D Smit,DA Miller,CK Langeveldt,0,0,,,,,,"",""
+ball,1,16.1,Dolphins,DA Miller,D Smit,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,16.2,Dolphins,D Smit,DA Miller,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,16.3,Dolphins,DA Miller,D Smit,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,16.4,Dolphins,D Smit,DA Miller,Azhar Mahmood,0,1,,,,1,,"",""
+ball,1,16.5,Dolphins,DA Miller,D Smit,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,16.6,Dolphins,D Smit,DA Miller,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,17.1,Dolphins,DA Miller,D Smit,CK Langeveldt,1,0,,,,,,"",""
+ball,1,17.2,Dolphins,D Smit,DA Miller,CK Langeveldt,0,0,,,,,,"",""
+ball,1,17.3,Dolphins,D Smit,DA Miller,CK Langeveldt,4,0,,,,,,"",""
+ball,1,17.4,Dolphins,D Smit,DA Miller,CK Langeveldt,1,0,,,,,,"",""
+ball,1,17.5,Dolphins,DA Miller,D Smit,CK Langeveldt,2,0,,,,,,"",""
+ball,1,17.6,Dolphins,DA Miller,D Smit,CK Langeveldt,1,1,,1,,,,"",""
+ball,1,17.7,Dolphins,D Smit,DA Miller,CK Langeveldt,4,0,,,,,,"",""
+ball,1,18.1,Dolphins,DA Miller,D Smit,Azhar Mahmood,2,0,,,,,,"",""
+ball,1,18.2,Dolphins,DA Miller,D Smit,Azhar Mahmood,0,1,,,,1,,"",""
+ball,1,18.3,Dolphins,D Smit,DA Miller,Azhar Mahmood,1,0,,,,,,run out,DA Miller
+ball,1,18.4,Dolphins,D Smit,CP Savage,Azhar Mahmood,6,0,,,,,,"",""
+ball,1,18.5,Dolphins,D Smit,CP Savage,Azhar Mahmood,2,0,,,,,,"",""
+ball,1,18.6,Dolphins,D Smit,CP Savage,Azhar Mahmood,2,0,,,,,,"",""
+ball,1,19.1,Dolphins,CP Savage,D Smit,CK Langeveldt,4,0,,,,,,"",""
+ball,1,19.2,Dolphins,CP Savage,D Smit,CK Langeveldt,1,0,,,,,,"",""
+ball,1,19.3,Dolphins,D Smit,CP Savage,CK Langeveldt,4,0,,,,,,"",""
+ball,1,19.4,Dolphins,D Smit,CP Savage,CK Langeveldt,6,0,,,,,,"",""
+ball,1,19.5,Dolphins,D Smit,CP Savage,CK Langeveldt,1,0,,,,,,"",""
+ball,1,19.6,Dolphins,CP Savage,D Smit,CK Langeveldt,0,1,1,,,,,"",""
+ball,1,19.7,Dolphins,CP Savage,D Smit,CK Langeveldt,0,0,,,,,,caught,CP Savage
+ball,2,0.1,Cape Cobras,RE Levi,MY Vallie,M Shezi,1,0,,,,,,"",""
+ball,2,0.2,Cape Cobras,MY Vallie,RE Levi,M Shezi,0,0,,,,,,"",""
+ball,2,0.3,Cape Cobras,MY Vallie,RE Levi,M Shezi,0,0,,,,,,bowled,MY Vallie
+ball,2,0.4,Cape Cobras,DJ Vilas,RE Levi,M Shezi,1,0,,,,,,"",""
+ball,2,0.5,Cape Cobras,RE Levi,DJ Vilas,M Shezi,1,0,,,,,,"",""
+ball,2,0.6,Cape Cobras,DJ Vilas,RE Levi,M Shezi,0,0,,,,,,"",""
+ball,2,1.1,Cape Cobras,RE Levi,DJ Vilas,YA Abdulla,0,0,,,,,,"",""
+ball,2,1.2,Cape Cobras,RE Levi,DJ Vilas,YA Abdulla,0,0,,,,,,"",""
+ball,2,1.3,Cape Cobras,RE Levi,DJ Vilas,YA Abdulla,4,0,,,,,,"",""
+ball,2,1.4,Cape Cobras,RE Levi,DJ Vilas,YA Abdulla,0,1,,,,1,,"",""
+ball,2,1.5,Cape Cobras,DJ Vilas,RE Levi,YA Abdulla,0,0,,,,,,"",""
+ball,2,1.6,Cape Cobras,DJ Vilas,RE Levi,YA Abdulla,1,0,,,,,,"",""
+ball,2,2.1,Cape Cobras,DJ Vilas,RE Levi,M Shezi,1,0,,,,,,"",""
+ball,2,2.2,Cape Cobras,RE Levi,DJ Vilas,M Shezi,0,0,,,,,,"",""
+ball,2,2.3,Cape Cobras,RE Levi,DJ Vilas,M Shezi,0,0,,,,,,"",""
+ball,2,2.4,Cape Cobras,RE Levi,DJ Vilas,M Shezi,0,0,,,,,,"",""
+ball,2,2.5,Cape Cobras,RE Levi,DJ Vilas,M Shezi,1,0,,,,,,"",""
+ball,2,2.6,Cape Cobras,DJ Vilas,RE Levi,M Shezi,2,0,,,,,,"",""
+ball,2,3.1,Cape Cobras,RE Levi,DJ Vilas,YA Abdulla,6,0,,,,,,"",""
+ball,2,3.2,Cape Cobras,RE Levi,DJ Vilas,YA Abdulla,4,0,,,,,,"",""
+ball,2,3.3,Cape Cobras,RE Levi,DJ Vilas,YA Abdulla,0,0,,,,,,"",""
+ball,2,3.4,Cape Cobras,RE Levi,DJ Vilas,YA Abdulla,1,0,,,,,,"",""
+ball,2,3.5,Cape Cobras,DJ Vilas,RE Levi,YA Abdulla,1,0,,,,,,"",""
+ball,2,3.6,Cape Cobras,RE Levi,DJ Vilas,YA Abdulla,1,0,,,,,,"",""
+ball,2,4.1,Cape Cobras,RE Levi,DJ Vilas,CP Savage,0,0,,,,,,caught,RE Levi
+ball,2,4.2,Cape Cobras,OA Shah,DJ Vilas,CP Savage,0,0,,,,,,"",""
+ball,2,4.3,Cape Cobras,OA Shah,DJ Vilas,CP Savage,0,0,,,,,,"",""
+ball,2,4.4,Cape Cobras,OA Shah,DJ Vilas,CP Savage,0,1,,,,1,,"",""
+ball,2,4.5,Cape Cobras,DJ Vilas,OA Shah,CP Savage,2,0,,,,,,"",""
+ball,2,4.6,Cape Cobras,DJ Vilas,OA Shah,CP Savage,0,1,1,,,,,"",""
+ball,2,4.7,Cape Cobras,DJ Vilas,OA Shah,CP Savage,6,0,,,,,,"",""
+ball,2,5.1,Cape Cobras,OA Shah,DJ Vilas,YA Abdulla,0,0,,,,,,"",""
+ball,2,5.2,Cape Cobras,OA Shah,DJ Vilas,YA Abdulla,0,0,,,,,,"",""
+ball,2,5.3,Cape Cobras,OA Shah,DJ Vilas,YA Abdulla,0,0,,,,,,"",""
+ball,2,5.4,Cape Cobras,OA Shah,DJ Vilas,YA Abdulla,1,0,,,,,,"",""
+ball,2,5.5,Cape Cobras,DJ Vilas,OA Shah,YA Abdulla,4,0,,,,,,"",""
+ball,2,5.6,Cape Cobras,DJ Vilas,OA Shah,YA Abdulla,1,0,,,,,,"",""
+ball,2,6.1,Cape Cobras,DJ Vilas,OA Shah,RS Bopara,0,1,1,,,,,"",""
+ball,2,6.2,Cape Cobras,DJ Vilas,OA Shah,RS Bopara,1,0,,,,,,"",""
+ball,2,6.3,Cape Cobras,OA Shah,DJ Vilas,RS Bopara,0,1,,,,1,,"",""
+ball,2,6.4,Cape Cobras,DJ Vilas,OA Shah,RS Bopara,0,0,,,,,,"",""
+ball,2,6.5,Cape Cobras,DJ Vilas,OA Shah,RS Bopara,4,0,,,,,,"",""
+ball,2,6.6,Cape Cobras,DJ Vilas,OA Shah,RS Bopara,1,0,,,,,,"",""
+ball,2,6.7,Cape Cobras,OA Shah,DJ Vilas,RS Bopara,0,0,,,,,,"",""
+ball,2,7.1,Cape Cobras,DJ Vilas,OA Shah,KA Maharaj,0,0,,,,,,"",""
+ball,2,7.2,Cape Cobras,DJ Vilas,OA Shah,KA Maharaj,1,0,,,,,,"",""
+ball,2,7.3,Cape Cobras,OA Shah,DJ Vilas,KA Maharaj,0,0,,,,,,"",""
+ball,2,7.4,Cape Cobras,OA Shah,DJ Vilas,KA Maharaj,0,0,,,,,,"",""
+ball,2,7.5,Cape Cobras,OA Shah,DJ Vilas,KA Maharaj,0,0,,,,,,"",""
+ball,2,7.6,Cape Cobras,OA Shah,DJ Vilas,KA Maharaj,0,0,,,,,,caught,OA Shah
+ball,2,8.1,Cape Cobras,JL Ontong,DJ Vilas,RS Bopara,0,0,,,,,,"",""
+ball,2,8.2,Cape Cobras,JL Ontong,DJ Vilas,RS Bopara,0,0,,,,,,"",""
+ball,2,8.3,Cape Cobras,JL Ontong,DJ Vilas,RS Bopara,3,0,,,,,,"",""
+ball,2,8.4,Cape Cobras,DJ Vilas,JL Ontong,RS Bopara,0,1,,,,1,,"",""
+ball,2,8.5,Cape Cobras,JL Ontong,DJ Vilas,RS Bopara,2,0,,,,,,"",""
+ball,2,8.6,Cape Cobras,JL Ontong,DJ Vilas,RS Bopara,1,0,,,,,,"",""
+ball,2,9.1,Cape Cobras,JL Ontong,DJ Vilas,KA Maharaj,1,0,,,,,,"",""
+ball,2,9.2,Cape Cobras,DJ Vilas,JL Ontong,KA Maharaj,0,0,,,,,,"",""
+ball,2,9.3,Cape Cobras,DJ Vilas,JL Ontong,KA Maharaj,1,0,,,,,,"",""
+ball,2,9.4,Cape Cobras,JL Ontong,DJ Vilas,KA Maharaj,0,0,,,,,,"",""
+ball,2,9.5,Cape Cobras,JL Ontong,DJ Vilas,KA Maharaj,1,0,,,,,,"",""
+ball,2,9.6,Cape Cobras,DJ Vilas,JL Ontong,KA Maharaj,1,0,,,,,,"",""
+ball,2,10.1,Cape Cobras,DJ Vilas,JL Ontong,RS Bopara,0,0,,,,,,"",""
+ball,2,10.2,Cape Cobras,DJ Vilas,JL Ontong,RS Bopara,1,0,,,,,,"",""
+ball,2,10.3,Cape Cobras,JL Ontong,DJ Vilas,RS Bopara,0,0,,,,,,"",""
+ball,2,10.4,Cape Cobras,JL Ontong,DJ Vilas,RS Bopara,0,0,,,,,,"",""
+ball,2,10.5,Cape Cobras,JL Ontong,DJ Vilas,RS Bopara,0,0,,,,,,"",""
+ball,2,10.6,Cape Cobras,JL Ontong,DJ Vilas,RS Bopara,1,0,,,,,,"",""
+ball,2,11.1,Cape Cobras,JL Ontong,DJ Vilas,KA Maharaj,0,0,,,,,,"",""
+ball,2,11.2,Cape Cobras,JL Ontong,DJ Vilas,KA Maharaj,1,0,,,,,,"",""
+ball,2,11.3,Cape Cobras,DJ Vilas,JL Ontong,KA Maharaj,0,0,,,,,,"",""
+ball,2,11.4,Cape Cobras,DJ Vilas,JL Ontong,KA Maharaj,1,0,,,,,,"",""
+ball,2,11.5,Cape Cobras,JL Ontong,DJ Vilas,KA Maharaj,1,0,,,,,,"",""
+ball,2,11.6,Cape Cobras,DJ Vilas,JL Ontong,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.1,Cape Cobras,DJ Vilas,JL Ontong,CP Savage,1,0,,,,,,"",""
+ball,2,12.2,Cape Cobras,JL Ontong,DJ Vilas,CP Savage,0,0,,,,,,bowled,JL Ontong
+ball,2,12.3,Cape Cobras,Azhar Mahmood,DJ Vilas,CP Savage,0,0,,,,,,"",""
+ball,2,12.4,Cape Cobras,Azhar Mahmood,DJ Vilas,CP Savage,0,0,,,,,,"",""
+ball,2,12.5,Cape Cobras,Azhar Mahmood,DJ Vilas,CP Savage,4,0,,,,,,"",""
+ball,2,12.6,Cape Cobras,Azhar Mahmood,DJ Vilas,CP Savage,1,0,,,,,,"",""
+ball,2,13.1,Cape Cobras,Azhar Mahmood,DJ Vilas,RS Bopara,1,0,,,,,,"",""
+ball,2,13.2,Cape Cobras,DJ Vilas,Azhar Mahmood,RS Bopara,0,0,,,,,,"",""
+ball,2,13.3,Cape Cobras,DJ Vilas,Azhar Mahmood,RS Bopara,2,0,,,,,,"",""
+ball,2,13.4,Cape Cobras,DJ Vilas,Azhar Mahmood,RS Bopara,2,0,,,,,,"",""
+ball,2,13.5,Cape Cobras,DJ Vilas,Azhar Mahmood,RS Bopara,0,0,,,,,,"",""
+ball,2,13.6,Cape Cobras,DJ Vilas,Azhar Mahmood,RS Bopara,0,0,,,,,,"",""
+ball,2,14.1,Cape Cobras,Azhar Mahmood,DJ Vilas,CP Savage,4,0,,,,,,"",""
+ball,2,14.2,Cape Cobras,Azhar Mahmood,DJ Vilas,CP Savage,1,0,,,,,,"",""
+ball,2,14.3,Cape Cobras,DJ Vilas,Azhar Mahmood,CP Savage,0,0,,,,,,"",""
+ball,2,14.4,Cape Cobras,DJ Vilas,Azhar Mahmood,CP Savage,1,0,,,,,,"",""
+ball,2,14.5,Cape Cobras,Azhar Mahmood,DJ Vilas,CP Savage,0,0,,,,,,caught,Azhar Mahmood
+ball,2,14.6,Cape Cobras,JM Kemp,DJ Vilas,CP Savage,1,0,,,,,,"",""
+ball,2,15.1,Cape Cobras,JM Kemp,DJ Vilas,KA Maharaj,1,0,,,,,,"",""
+ball,2,15.2,Cape Cobras,DJ Vilas,JM Kemp,KA Maharaj,1,0,,,,,,"",""
+ball,2,15.3,Cape Cobras,JM Kemp,DJ Vilas,KA Maharaj,0,0,,,,,,"",""
+ball,2,15.4,Cape Cobras,JM Kemp,DJ Vilas,KA Maharaj,1,0,,,,,,"",""
+ball,2,15.5,Cape Cobras,DJ Vilas,JM Kemp,KA Maharaj,0,0,,,,,,"",""
+ball,2,15.6,Cape Cobras,DJ Vilas,JM Kemp,KA Maharaj,1,0,,,,,,"",""
+ball,2,16.1,Cape Cobras,DJ Vilas,JM Kemp,CP Savage,6,0,,,,,,"",""
+ball,2,16.2,Cape Cobras,DJ Vilas,JM Kemp,CP Savage,2,0,,,,,,"",""
+ball,2,16.3,Cape Cobras,DJ Vilas,JM Kemp,CP Savage,0,0,,,,,,caught,DJ Vilas
+ball,2,16.4,Cape Cobras,JM Kemp,VD Philander,CP Savage,1,0,,,,,,"",""
+ball,2,16.5,Cape Cobras,VD Philander,JM Kemp,CP Savage,1,0,,,,,,"",""
+ball,2,16.6,Cape Cobras,JM Kemp,VD Philander,CP Savage,0,1,1,,,,,"",""
+ball,2,16.7,Cape Cobras,JM Kemp,VD Philander,CP Savage,0,0,,,,,,"",""
+ball,2,17.1,Cape Cobras,VD Philander,JM Kemp,M Shezi,0,0,,,,,,"",""
+ball,2,17.2,Cape Cobras,VD Philander,JM Kemp,M Shezi,1,0,,,,,,"",""
+ball,2,17.3,Cape Cobras,JM Kemp,VD Philander,M Shezi,1,0,,,,,,"",""
+ball,2,17.4,Cape Cobras,VD Philander,JM Kemp,M Shezi,2,0,,,,,,"",""
+ball,2,17.5,Cape Cobras,VD Philander,JM Kemp,M Shezi,1,0,,,,,,"",""
+ball,2,17.6,Cape Cobras,JM Kemp,VD Philander,M Shezi,6,0,,,,,,"",""
+ball,2,18.1,Cape Cobras,VD Philander,JM Kemp,YA Abdulla,0,0,,,,,,"",""
+ball,2,18.2,Cape Cobras,VD Philander,JM Kemp,YA Abdulla,0,0,,,,,,"",""
+ball,2,18.3,Cape Cobras,VD Philander,JM Kemp,YA Abdulla,0,1,1,,,,,"",""
+ball,2,18.4,Cape Cobras,VD Philander,JM Kemp,YA Abdulla,6,0,,,,,,"",""
+ball,2,18.5,Cape Cobras,VD Philander,JM Kemp,YA Abdulla,1,0,,,,,,"",""
+ball,2,18.6,Cape Cobras,JM Kemp,VD Philander,YA Abdulla,0,0,,,,,,"",""
+ball,2,18.7,Cape Cobras,JM Kemp,VD Philander,YA Abdulla,4,0,,,,,,"",""
+ball,2,19.1,Cape Cobras,VD Philander,JM Kemp,M Shezi,1,0,,,,,,"",""
+ball,2,19.2,Cape Cobras,JM Kemp,VD Philander,M Shezi,0,1,,,,1,,"",""
+ball,2,19.3,Cape Cobras,VD Philander,JM Kemp,M Shezi,0,1,1,,,,,"",""
+ball,2,19.4,Cape Cobras,VD Philander,JM Kemp,M Shezi,6,0,,,,,,"",""
+ball,2,19.5,Cape Cobras,VD Philander,JM Kemp,M Shezi,0,0,,,,,,"",""
+ball,2,19.6,Cape Cobras,VD Philander,JM Kemp,M Shezi,0,2,2,,,,,"",""
+ball,2,19.7,Cape Cobras,JM Kemp,VD Philander,M Shezi,1,0,,,,,,"",""
+ball,2,19.8,Cape Cobras,VD Philander,JM Kemp,M Shezi,0,0,,,,,,caught,VD Philander

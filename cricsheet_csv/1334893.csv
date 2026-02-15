@@ -1,0 +1,212 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Warriors
+info,team,Knights
+info,gender,male
+info,season,2022/23
+info,date,2022/10/18
+info,event,CSA T20 Challenge
+info,match_number,3
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Knights
+info,toss_decision,field
+info,umpire,MN Gampu
+info,umpire,PJ Vosloo
+info,reserve_umpire,AM Sodumo
+info,tv_umpire,A Steenkamp
+info,match_referee,LH Matroos
+info,outcome,no result
+info,player,Warriors,MP Breetzke
+info,player,Warriors,WJ Lubbe
+info,player,Warriors,DS Rosier
+info,player,Warriors,J Hermann
+info,player,Warriors,LC Ngoepe
+info,player,Warriors,S Qeshile
+info,player,Warriors,B Swanepoel
+info,player,Warriors,GA Stuurman
+info,player,Warriors,Z Abrahams
+info,player,Warriors,K Molefe
+info,player,Warriors,A Mnyaka
+info,player,Knights,GL Cloete
+info,player,Knights,GJ Snyman
+info,player,Knights,R van Tonder
+info,player,Knights,PJ van Biljon
+info,player,Knights,AR Swanepoel
+info,player,Knights,PE Kruger
+info,player,Knights,O Motlhoaring
+info,player,Knights,G Coetzee
+info,player,Knights,M Pretorius
+info,player,Knights,SA Mothoa
+info,player,Knights,M Budaza
+info,registry,people,A Mnyaka,bd36db2c
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,DS Rosier,f8e6dbdd
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GA Stuurman,d4d37c31
+info,registry,people,GJ Snyman,a3ae63f4
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,K Molefe,f51c1a3b
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Budaza,1d105638
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MN Gampu,41597619
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,O Motlhoaring,1713d202
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,R van Tonder,0ba03cec
+info,registry,people,S Qeshile,94268960
+info,registry,people,SA Mothoa,ea1eba98
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,Z Abrahams,7eb7d5d4
+ball,1,0.1,Warriors,MP Breetzke,WJ Lubbe,M Pretorius,1,0,,,,,,"",""
+ball,1,0.2,Warriors,WJ Lubbe,MP Breetzke,M Pretorius,4,0,,,,,,"",""
+ball,1,0.3,Warriors,WJ Lubbe,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,1,0.4,Warriors,WJ Lubbe,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,1,0.5,Warriors,WJ Lubbe,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,1,0.6,Warriors,WJ Lubbe,MP Breetzke,M Pretorius,0,1,1,,,,,"",""
+ball,1,0.7,Warriors,WJ Lubbe,MP Breetzke,M Pretorius,0,0,,,,,,"",""
+ball,1,1.1,Warriors,MP Breetzke,WJ Lubbe,M Budaza,0,0,,,,,,"",""
+ball,1,1.2,Warriors,MP Breetzke,WJ Lubbe,M Budaza,0,0,,,,,,"",""
+ball,1,1.3,Warriors,MP Breetzke,WJ Lubbe,M Budaza,4,0,,,,,,"",""
+ball,1,1.4,Warriors,MP Breetzke,WJ Lubbe,M Budaza,0,0,,,,,,"",""
+ball,1,1.5,Warriors,MP Breetzke,WJ Lubbe,M Budaza,0,0,,,,,,"",""
+ball,1,1.6,Warriors,MP Breetzke,WJ Lubbe,M Budaza,1,0,,,,,,"",""
+ball,1,2.1,Warriors,MP Breetzke,WJ Lubbe,G Coetzee,1,0,,,,,,"",""
+ball,1,2.2,Warriors,WJ Lubbe,MP Breetzke,G Coetzee,0,0,,,,,,"",""
+ball,1,2.3,Warriors,WJ Lubbe,MP Breetzke,G Coetzee,6,0,,,,,,"",""
+ball,1,2.4,Warriors,WJ Lubbe,MP Breetzke,G Coetzee,0,0,,,,,,"",""
+ball,1,2.5,Warriors,WJ Lubbe,MP Breetzke,G Coetzee,4,0,,,,,,"",""
+ball,1,2.6,Warriors,WJ Lubbe,MP Breetzke,G Coetzee,0,0,,,,,,"",""
+ball,1,3.1,Warriors,MP Breetzke,WJ Lubbe,M Budaza,0,0,,,,,,caught,MP Breetzke
+ball,1,3.2,Warriors,DS Rosier,WJ Lubbe,M Budaza,1,0,,,,,,"",""
+ball,1,3.3,Warriors,WJ Lubbe,DS Rosier,M Budaza,0,0,,,,,,"",""
+ball,1,3.4,Warriors,WJ Lubbe,DS Rosier,M Budaza,0,1,1,,,,,"",""
+ball,1,3.5,Warriors,WJ Lubbe,DS Rosier,M Budaza,4,0,,,,,,"",""
+ball,1,3.6,Warriors,WJ Lubbe,DS Rosier,M Budaza,0,0,,,,,,"",""
+ball,1,3.7,Warriors,WJ Lubbe,DS Rosier,M Budaza,0,0,,,,,,caught,WJ Lubbe
+ball,1,4.1,Warriors,DS Rosier,J Hermann,G Coetzee,0,1,,,,1,,"",""
+ball,1,4.2,Warriors,J Hermann,DS Rosier,G Coetzee,0,0,,,,,,"",""
+ball,1,4.3,Warriors,J Hermann,DS Rosier,G Coetzee,0,0,,,,,,"",""
+ball,1,4.4,Warriors,J Hermann,DS Rosier,G Coetzee,6,0,,,,,,"",""
+ball,1,4.5,Warriors,J Hermann,DS Rosier,G Coetzee,0,1,1,,,,,"",""
+ball,1,4.6,Warriors,J Hermann,DS Rosier,G Coetzee,0,0,,,,,,"",""
+ball,1,4.7,Warriors,J Hermann,DS Rosier,G Coetzee,0,0,,,,,,"",""
+ball,1,5.1,Warriors,DS Rosier,J Hermann,M Pretorius,0,0,,,,,,"",""
+ball,1,5.2,Warriors,DS Rosier,J Hermann,M Pretorius,1,0,,,,,,"",""
+ball,1,5.3,Warriors,J Hermann,DS Rosier,M Pretorius,0,0,,,,,,"",""
+ball,1,5.4,Warriors,J Hermann,DS Rosier,M Pretorius,1,0,,,,,,"",""
+ball,1,5.5,Warriors,DS Rosier,J Hermann,M Pretorius,1,0,,,,,,"",""
+ball,1,5.6,Warriors,J Hermann,DS Rosier,M Pretorius,0,0,,,,,,"",""
+ball,1,6.1,Warriors,DS Rosier,J Hermann,AR Swanepoel,1,0,,,,,,"",""
+ball,1,6.2,Warriors,J Hermann,DS Rosier,AR Swanepoel,0,0,,,,,,"",""
+ball,1,6.3,Warriors,J Hermann,DS Rosier,AR Swanepoel,6,0,,,,,,"",""
+ball,1,6.4,Warriors,J Hermann,DS Rosier,AR Swanepoel,2,0,,,,,,"",""
+ball,1,6.5,Warriors,J Hermann,DS Rosier,AR Swanepoel,6,0,,,,,,"",""
+ball,1,6.6,Warriors,J Hermann,DS Rosier,AR Swanepoel,0,0,,,,,,"",""
+ball,1,7.1,Warriors,DS Rosier,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,7.2,Warriors,DS Rosier,J Hermann,SA Mothoa,1,0,,,,,,"",""
+ball,1,7.3,Warriors,J Hermann,DS Rosier,SA Mothoa,0,0,,,,,,"",""
+ball,1,7.4,Warriors,J Hermann,DS Rosier,SA Mothoa,1,0,,,,,,"",""
+ball,1,7.5,Warriors,DS Rosier,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,7.6,Warriors,DS Rosier,J Hermann,SA Mothoa,1,0,,,,,,"",""
+ball,1,8.1,Warriors,DS Rosier,J Hermann,GJ Snyman,0,0,,,,,,lbw,DS Rosier
+ball,1,8.2,Warriors,LC Ngoepe,J Hermann,GJ Snyman,0,0,,,,,,"",""
+ball,1,8.3,Warriors,LC Ngoepe,J Hermann,GJ Snyman,0,0,,,,,,"",""
+ball,1,8.4,Warriors,LC Ngoepe,J Hermann,GJ Snyman,0,1,1,,,,,"",""
+ball,1,8.5,Warriors,LC Ngoepe,J Hermann,GJ Snyman,0,0,,,,,,"",""
+ball,1,8.6,Warriors,LC Ngoepe,J Hermann,GJ Snyman,0,0,,,,,,"",""
+ball,1,8.7,Warriors,LC Ngoepe,J Hermann,GJ Snyman,1,0,,,,,,"",""
+ball,1,9.1,Warriors,LC Ngoepe,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,9.2,Warriors,LC Ngoepe,J Hermann,SA Mothoa,0,1,,,,1,,"",""
+ball,1,9.3,Warriors,J Hermann,LC Ngoepe,SA Mothoa,1,0,,,,,,"",""
+ball,1,9.4,Warriors,LC Ngoepe,J Hermann,SA Mothoa,1,0,,,,,,"",""
+ball,1,9.5,Warriors,J Hermann,LC Ngoepe,SA Mothoa,0,1,1,,,,,"",""
+ball,1,9.6,Warriors,J Hermann,LC Ngoepe,SA Mothoa,2,0,,,,,,"",""
+ball,1,9.7,Warriors,J Hermann,LC Ngoepe,SA Mothoa,0,0,,,,,,"",""
+ball,1,10.1,Warriors,LC Ngoepe,J Hermann,GJ Snyman,1,0,,,,,,"",""
+ball,1,10.2,Warriors,J Hermann,LC Ngoepe,GJ Snyman,1,0,,,,,,"",""
+ball,1,10.3,Warriors,LC Ngoepe,J Hermann,GJ Snyman,1,0,,,,,,"",""
+ball,1,10.4,Warriors,J Hermann,LC Ngoepe,GJ Snyman,0,0,,,,,,"",""
+ball,1,10.5,Warriors,J Hermann,LC Ngoepe,GJ Snyman,4,0,,,,,,"",""
+ball,1,10.6,Warriors,J Hermann,LC Ngoepe,GJ Snyman,4,0,,,,,,"",""
+ball,1,11.1,Warriors,LC Ngoepe,J Hermann,AR Swanepoel,0,0,,,,,,caught,LC Ngoepe
+ball,1,11.2,Warriors,S Qeshile,J Hermann,AR Swanepoel,1,0,,,,,,"",""
+ball,1,11.3,Warriors,J Hermann,S Qeshile,AR Swanepoel,0,0,,,,,,"",""
+ball,1,11.4,Warriors,J Hermann,S Qeshile,AR Swanepoel,1,0,,,,,,"",""
+ball,1,11.5,Warriors,S Qeshile,J Hermann,AR Swanepoel,1,0,,,,,,"",""
+ball,1,11.6,Warriors,J Hermann,S Qeshile,AR Swanepoel,0,0,,,,,,"",""
+ball,1,12.1,Warriors,S Qeshile,J Hermann,M Pretorius,1,0,,,,,,"",""
+ball,1,12.2,Warriors,J Hermann,S Qeshile,M Pretorius,1,0,,,,,,"",""
+ball,1,12.3,Warriors,S Qeshile,J Hermann,M Pretorius,6,0,,,,,,"",""
+ball,1,12.4,Warriors,S Qeshile,J Hermann,M Pretorius,0,0,,,,,,"",""
+ball,1,12.5,Warriors,S Qeshile,J Hermann,M Pretorius,0,0,,,,,,caught,S Qeshile
+ball,1,12.6,Warriors,B Swanepoel,J Hermann,M Pretorius,1,0,,,,,,"",""
+ball,1,13.1,Warriors,B Swanepoel,J Hermann,AR Swanepoel,0,0,,,,,,lbw,B Swanepoel
+ball,1,13.2,Warriors,GA Stuurman,J Hermann,AR Swanepoel,1,0,,,,,,"",""
+ball,1,13.3,Warriors,J Hermann,GA Stuurman,AR Swanepoel,2,0,,,,,,"",""
+ball,1,13.4,Warriors,J Hermann,GA Stuurman,AR Swanepoel,0,0,,,,,,"",""
+ball,1,13.5,Warriors,J Hermann,GA Stuurman,AR Swanepoel,1,0,,,,,,"",""
+ball,1,13.6,Warriors,GA Stuurman,J Hermann,AR Swanepoel,1,0,,,,,,"",""
+ball,1,14.1,Warriors,GA Stuurman,J Hermann,G Coetzee,1,0,,,,,,"",""
+ball,1,14.2,Warriors,J Hermann,GA Stuurman,G Coetzee,1,0,,,,,,"",""
+ball,1,14.3,Warriors,GA Stuurman,J Hermann,G Coetzee,0,1,1,,,,,"",""
+ball,1,14.4,Warriors,GA Stuurman,J Hermann,G Coetzee,1,0,,,,,,"",""
+ball,1,14.5,Warriors,J Hermann,GA Stuurman,G Coetzee,0,0,,,,,,"",""
+ball,1,14.6,Warriors,J Hermann,GA Stuurman,G Coetzee,1,0,,,,,,"",""
+ball,1,14.7,Warriors,GA Stuurman,J Hermann,G Coetzee,1,0,,,,,,"",""
+ball,1,15.1,Warriors,GA Stuurman,J Hermann,AR Swanepoel,1,0,,,,,,"",""
+ball,1,15.2,Warriors,J Hermann,GA Stuurman,AR Swanepoel,1,0,,,,,,"",""
+ball,1,15.3,Warriors,GA Stuurman,J Hermann,AR Swanepoel,1,0,,,,,,"",""
+ball,1,15.4,Warriors,J Hermann,GA Stuurman,AR Swanepoel,1,0,,,,,,"",""
+ball,1,15.5,Warriors,GA Stuurman,J Hermann,AR Swanepoel,0,0,,,,,,caught,GA Stuurman
+ball,1,15.6,Warriors,Z Abrahams,J Hermann,AR Swanepoel,0,0,,,,,,"",""
+ball,1,16.1,Warriors,J Hermann,Z Abrahams,SA Mothoa,1,0,,,,,,"",""
+ball,1,16.2,Warriors,Z Abrahams,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,16.3,Warriors,Z Abrahams,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,16.4,Warriors,Z Abrahams,J Hermann,SA Mothoa,0,0,,,,,,caught,Z Abrahams
+ball,1,16.5,Warriors,K Molefe,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,16.6,Warriors,K Molefe,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,17.1,Warriors,J Hermann,K Molefe,G Coetzee,0,0,,,,,,"",""
+ball,1,17.2,Warriors,J Hermann,K Molefe,G Coetzee,2,0,,,,,,"",""
+ball,1,17.3,Warriors,J Hermann,K Molefe,G Coetzee,0,0,,,,,,"",""
+ball,1,17.4,Warriors,J Hermann,K Molefe,G Coetzee,1,0,,,,,,"",""
+ball,1,17.5,Warriors,K Molefe,J Hermann,G Coetzee,0,0,,,,,,"",""
+ball,1,17.6,Warriors,K Molefe,J Hermann,G Coetzee,0,0,,,,,,run out,K Molefe
+ball,1,18.1,Warriors,A Mnyaka,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,18.2,Warriors,A Mnyaka,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,18.3,Warriors,A Mnyaka,J Hermann,SA Mothoa,0,0,,,,,,"",""
+ball,1,18.4,Warriors,A Mnyaka,J Hermann,SA Mothoa,6,0,,,,,,"",""
+ball,1,18.5,Warriors,A Mnyaka,J Hermann,SA Mothoa,1,0,,,,,,"",""
+ball,1,18.6,Warriors,J Hermann,A Mnyaka,SA Mothoa,1,0,,,,,,"",""
+ball,1,19.1,Warriors,J Hermann,A Mnyaka,M Pretorius,4,0,,,,,,"",""
+ball,1,19.2,Warriors,J Hermann,A Mnyaka,M Pretorius,6,0,,,,,,"",""
+ball,1,19.3,Warriors,J Hermann,A Mnyaka,M Pretorius,6,0,,,,,,"",""
+ball,1,19.4,Warriors,J Hermann,A Mnyaka,M Pretorius,2,0,,,,,,"",""
+ball,1,19.5,Warriors,J Hermann,A Mnyaka,M Pretorius,1,0,,,,,,"",""
+ball,1,19.6,Warriors,A Mnyaka,J Hermann,M Pretorius,0,0,,,,,,"",""
+ball,2,0.1,Knights,GL Cloete,GJ Snyman,GA Stuurman,0,0,,,,,,bowled,GL Cloete
+ball,2,0.2,Knights,R van Tonder,GJ Snyman,GA Stuurman,0,0,,,,,,"",""
+ball,2,0.3,Knights,R van Tonder,GJ Snyman,GA Stuurman,0,0,,,,,,"",""
+ball,2,0.4,Knights,R van Tonder,GJ Snyman,GA Stuurman,0,0,,,,,,"",""
+ball,2,0.5,Knights,R van Tonder,GJ Snyman,GA Stuurman,3,0,,,,,,"",""
+ball,2,0.6,Knights,GJ Snyman,R van Tonder,GA Stuurman,0,0,,,,,,"",""
+ball,2,1.1,Knights,R van Tonder,GJ Snyman,B Swanepoel,3,0,,,,,,"",""
+ball,2,1.2,Knights,GJ Snyman,R van Tonder,B Swanepoel,1,0,,,,,,"",""
+ball,2,1.3,Knights,R van Tonder,GJ Snyman,B Swanepoel,0,0,,,,,,caught,R van Tonder
+ball,2,1.4,Knights,PJ van Biljon,GJ Snyman,B Swanepoel,0,0,,,,,,"",""
+ball,2,1.5,Knights,PJ van Biljon,GJ Snyman,B Swanepoel,1,0,,,,,,"",""
+ball,2,1.6,Knights,GJ Snyman,PJ van Biljon,B Swanepoel,6,0,,,,,,"",""
+ball,2,2.1,Knights,PJ van Biljon,GJ Snyman,GA Stuurman,0,1,1,,,,,"",""
+ball,2,2.2,Knights,PJ van Biljon,GJ Snyman,GA Stuurman,0,0,,,,,,"",""
+ball,2,2.3,Knights,PJ van Biljon,GJ Snyman,GA Stuurman,0,0,,,,,,"",""
+ball,2,2.4,Knights,PJ van Biljon,GJ Snyman,GA Stuurman,2,0,,,,,,"",""
+ball,2,2.5,Knights,PJ van Biljon,GJ Snyman,GA Stuurman,4,0,,,,,,"",""
+ball,2,2.6,Knights,PJ van Biljon,GJ Snyman,GA Stuurman,0,0,,,,,,bowled,PJ van Biljon

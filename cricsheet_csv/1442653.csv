@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sydney Thunder
+info,team,Adelaide Strikers
+info,gender,female
+info,season,2024/25
+info,date,2024/11/01
+info,event,Women's Big Bash League
+info,match_number,8
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Sydney Thunder
+info,toss_decision,bat
+info,player_of_match,G Voll
+info,umpire,ME Claydon
+info,umpire,Roberto Howard
+info,reserve_umpire,Bede Sajowitz
+info,tv_umpire,Sharad Patel
+info,match_referee,J Stainer
+info,winner,Sydney Thunder
+info,winner_runs,64
+info,player,Sydney Thunder,AC Jayangani
+info,player,Sydney Thunder,G Voll
+info,player,Sydney Thunder,P Litchfield
+info,player,Sydney Thunder,HC Knight
+info,player,Sydney Thunder,T Wilson
+info,player,Sydney Thunder,A Learoyd
+info,player,Sydney Thunder,SJ Johnson
+info,player,Sydney Thunder,HJ Darlington
+info,player,Sydney Thunder,S Ismail
+info,player,Sydney Thunder,SD Bates
+info,player,Sydney Thunder,S Eve
+info,player,Adelaide Strikers,KM Mack
+info,player,Adelaide Strikers,L Wolvaardt
+info,player,Adelaide Strikers,E Johnston
+info,player,Adelaide Strikers,TM McGrath
+info,player,Adelaide Strikers,M Penna
+info,player,Adelaide Strikers,O Prendergast
+info,player,Adelaide Strikers,A Wellington
+info,player,Adelaide Strikers,JL Barsby
+info,player,Adelaide Strikers,ML Schutt
+info,player,Adelaide Strikers,D Brown
+info,player,Adelaide Strikers,AC Mushangwe
+info,registry,people,A Learoyd,1757bedf
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AC Mushangwe,db873292
+info,registry,people,Bede Sajowitz,14fb95ae
+info,registry,people,D Brown,2e81be88
+info,registry,people,E Johnston,3785e30d
+info,registry,people,G Voll,5c30d455
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HJ Darlington,50b558d2
+info,registry,people,J Stainer,fcd293d7
+info,registry,people,JL Barsby,47bcaf7a
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Penna,36453b99
+info,registry,people,ME Claydon,15101f12
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,Roberto Howard,eec90c4b
+info,registry,people,S Eve,6de2c9c0
+info,registry,people,S Ismail,108c4c09
+info,registry,people,SD Bates,f5e8e3d2
+info,registry,people,SJ Johnson,d7b754d4
+info,registry,people,Sharad Patel,8e6dd3ba
+info,registry,people,T Wilson,32100b2d
+info,registry,people,TM McGrath,ca5acfa4
+ball,1,0.1,Sydney Thunder,AC Jayangani,G Voll,ML Schutt,1,0,,,,,,"",""
+ball,1,0.2,Sydney Thunder,G Voll,AC Jayangani,ML Schutt,0,0,,,,,,"",""
+ball,1,0.3,Sydney Thunder,G Voll,AC Jayangani,ML Schutt,4,0,,,,,,"",""
+ball,1,0.4,Sydney Thunder,G Voll,AC Jayangani,ML Schutt,1,0,,,,,,"",""
+ball,1,0.5,Sydney Thunder,AC Jayangani,G Voll,ML Schutt,0,0,,,,,,"",""
+ball,1,0.6,Sydney Thunder,AC Jayangani,G Voll,ML Schutt,1,0,,,,,,"",""
+ball,1,1.1,Sydney Thunder,AC Jayangani,G Voll,D Brown,1,0,,,,,,"",""
+ball,1,1.2,Sydney Thunder,G Voll,AC Jayangani,D Brown,0,1,1,,,,,"",""
+ball,1,1.3,Sydney Thunder,G Voll,AC Jayangani,D Brown,0,0,,,,,,"",""
+ball,1,1.4,Sydney Thunder,G Voll,AC Jayangani,D Brown,0,1,1,,,,,"",""
+ball,1,1.5,Sydney Thunder,G Voll,AC Jayangani,D Brown,2,1,,1,,,,"",""
+ball,1,1.6,Sydney Thunder,G Voll,AC Jayangani,D Brown,4,0,,,,,,"",""
+ball,1,1.7,Sydney Thunder,G Voll,AC Jayangani,D Brown,4,0,,,,,,"",""
+ball,1,1.8,Sydney Thunder,G Voll,AC Jayangani,D Brown,4,0,,,,,,"",""
+ball,1,1.9,Sydney Thunder,G Voll,AC Jayangani,D Brown,1,0,,,,,,"",""
+ball,1,2.1,Sydney Thunder,G Voll,AC Jayangani,ML Schutt,0,0,,,,,,"",""
+ball,1,2.2,Sydney Thunder,G Voll,AC Jayangani,ML Schutt,6,0,,,,,,"",""
+ball,1,2.3,Sydney Thunder,G Voll,AC Jayangani,ML Schutt,1,0,,,,,,"",""
+ball,1,2.4,Sydney Thunder,AC Jayangani,G Voll,ML Schutt,0,0,,,,,,"",""
+ball,1,2.5,Sydney Thunder,AC Jayangani,G Voll,ML Schutt,1,0,,,,,,"",""
+ball,1,2.6,Sydney Thunder,G Voll,AC Jayangani,ML Schutt,1,0,,,,,,"",""
+ball,1,3.1,Sydney Thunder,G Voll,AC Jayangani,JL Barsby,0,0,,,,,,"",""
+ball,1,3.2,Sydney Thunder,G Voll,AC Jayangani,JL Barsby,1,0,,,,,,"",""
+ball,1,3.3,Sydney Thunder,AC Jayangani,G Voll,JL Barsby,6,0,,,,,,"",""
+ball,1,3.4,Sydney Thunder,AC Jayangani,G Voll,JL Barsby,0,0,,,,,,"",""
+ball,1,3.5,Sydney Thunder,AC Jayangani,G Voll,JL Barsby,0,0,,,,,,"",""
+ball,1,3.6,Sydney Thunder,AC Jayangani,G Voll,JL Barsby,0,0,,,,,,"",""
+ball,1,4.1,Sydney Thunder,G Voll,AC Jayangani,A Wellington,0,0,,,,,,"",""
+ball,1,4.2,Sydney Thunder,G Voll,AC Jayangani,A Wellington,1,0,,,,,,"",""
+ball,1,4.3,Sydney Thunder,AC Jayangani,G Voll,A Wellington,0,0,,,,,,"",""
+ball,1,4.4,Sydney Thunder,AC Jayangani,G Voll,A Wellington,6,0,,,,,,"",""
+ball,1,4.5,Sydney Thunder,AC Jayangani,G Voll,A Wellington,1,0,,,,,,"",""
+ball,1,4.6,Sydney Thunder,G Voll,AC Jayangani,A Wellington,4,0,,,,,,"",""
+ball,1,5.1,Sydney Thunder,AC Jayangani,G Voll,O Prendergast,0,0,,,,,,caught,AC Jayangani
+ball,1,5.2,Sydney Thunder,P Litchfield,G Voll,O Prendergast,1,0,,,,,,"",""
+ball,1,5.3,Sydney Thunder,G Voll,P Litchfield,O Prendergast,0,5,5,,,,,"",""
+ball,1,5.4,Sydney Thunder,G Voll,P Litchfield,O Prendergast,0,0,,,,,,"",""
+ball,1,5.5,Sydney Thunder,G Voll,P Litchfield,O Prendergast,0,1,,,,1,,"",""
+ball,1,5.6,Sydney Thunder,P Litchfield,G Voll,O Prendergast,4,0,,,,,,"",""
+ball,1,5.7,Sydney Thunder,P Litchfield,G Voll,O Prendergast,0,0,,,,,,"",""
+ball,1,6.1,Sydney Thunder,G Voll,P Litchfield,AC Mushangwe,0,0,,,,,,"",""
+ball,1,6.2,Sydney Thunder,G Voll,P Litchfield,AC Mushangwe,1,0,,,,,,"",""
+ball,1,6.3,Sydney Thunder,P Litchfield,G Voll,AC Mushangwe,0,0,,,,,,"",""
+ball,1,6.4,Sydney Thunder,P Litchfield,G Voll,AC Mushangwe,1,0,,,,,,"",""
+ball,1,6.5,Sydney Thunder,G Voll,P Litchfield,AC Mushangwe,0,0,,,,,,"",""
+ball,1,6.6,Sydney Thunder,G Voll,P Litchfield,AC Mushangwe,1,0,,,,,,"",""
+ball,1,7.1,Sydney Thunder,G Voll,P Litchfield,D Brown,4,0,,,,,,"",""
+ball,1,7.2,Sydney Thunder,G Voll,P Litchfield,D Brown,0,0,,,,,,"",""
+ball,1,7.3,Sydney Thunder,G Voll,P Litchfield,D Brown,1,0,,,,,,"",""
+ball,1,7.4,Sydney Thunder,P Litchfield,G Voll,D Brown,0,0,,,,,,"",""
+ball,1,7.5,Sydney Thunder,P Litchfield,G Voll,D Brown,0,0,,,,,,"",""
+ball,1,7.6,Sydney Thunder,P Litchfield,G Voll,D Brown,1,0,,,,,,"",""
+ball,1,8.1,Sydney Thunder,P Litchfield,G Voll,A Wellington,0,0,,,,,,"",""
+ball,1,8.2,Sydney Thunder,P Litchfield,G Voll,A Wellington,1,0,,,,,,"",""
+ball,1,8.3,Sydney Thunder,G Voll,P Litchfield,A Wellington,1,0,,,,,,"",""
+ball,1,8.4,Sydney Thunder,P Litchfield,G Voll,A Wellington,1,0,,,,,,"",""
+ball,1,8.5,Sydney Thunder,G Voll,P Litchfield,A Wellington,1,0,,,,,,"",""
+ball,1,8.6,Sydney Thunder,P Litchfield,G Voll,A Wellington,4,0,,,,,,"",""
+ball,1,9.1,Sydney Thunder,G Voll,P Litchfield,O Prendergast,1,0,,,,,,"",""
+ball,1,9.2,Sydney Thunder,P Litchfield,G Voll,O Prendergast,0,0,,,,,,"",""
+ball,1,9.3,Sydney Thunder,P Litchfield,G Voll,O Prendergast,6,0,,,,,,"",""
+ball,1,9.4,Sydney Thunder,P Litchfield,G Voll,O Prendergast,1,0,,,,,,"",""
+ball,1,9.5,Sydney Thunder,G Voll,P Litchfield,O Prendergast,0,0,,,,,,"",""
+ball,1,9.6,Sydney Thunder,G Voll,P Litchfield,O Prendergast,1,0,,,,,,"",""
+ball,1,10.1,Sydney Thunder,G Voll,P Litchfield,JL Barsby,1,0,,,,,,"",""
+ball,1,10.2,Sydney Thunder,P Litchfield,G Voll,JL Barsby,2,0,,,,,,"",""
+ball,1,10.3,Sydney Thunder,P Litchfield,G Voll,JL Barsby,0,0,,,,,,"",""
+ball,1,10.4,Sydney Thunder,P Litchfield,G Voll,JL Barsby,0,1,,,,1,,"",""
+ball,1,10.5,Sydney Thunder,G Voll,P Litchfield,JL Barsby,0,1,1,,,,,"",""
+ball,1,10.6,Sydney Thunder,G Voll,P Litchfield,JL Barsby,4,0,,,,,,"",""
+ball,1,10.7,Sydney Thunder,G Voll,P Litchfield,JL Barsby,1,0,,,,,,"",""
+ball,1,11.1,Sydney Thunder,G Voll,P Litchfield,D Brown,1,0,,,,,,"",""
+ball,1,11.2,Sydney Thunder,P Litchfield,G Voll,D Brown,2,0,,,,,,"",""
+ball,1,11.3,Sydney Thunder,P Litchfield,G Voll,D Brown,4,0,,,,,,"",""
+ball,1,11.4,Sydney Thunder,P Litchfield,G Voll,D Brown,1,1,,1,,,,"",""
+ball,1,11.5,Sydney Thunder,G Voll,P Litchfield,D Brown,1,0,,,,,,"",""
+ball,1,11.6,Sydney Thunder,P Litchfield,G Voll,D Brown,0,1,,,,1,,"",""
+ball,1,11.7,Sydney Thunder,G Voll,P Litchfield,D Brown,6,0,,,,,,"",""
+ball,1,12.1,Sydney Thunder,P Litchfield,G Voll,AC Mushangwe,0,0,,,,,,"",""
+ball,1,12.2,Sydney Thunder,P Litchfield,G Voll,AC Mushangwe,0,0,,,,,,"",""
+ball,1,12.3,Sydney Thunder,P Litchfield,G Voll,AC Mushangwe,4,0,,,,,,"",""
+ball,1,12.4,Sydney Thunder,P Litchfield,G Voll,AC Mushangwe,4,0,,,,,,"",""
+ball,1,12.5,Sydney Thunder,P Litchfield,G Voll,AC Mushangwe,4,0,,,,,,"",""
+ball,1,12.6,Sydney Thunder,P Litchfield,G Voll,AC Mushangwe,4,0,,,,,,"",""
+ball,1,13.1,Sydney Thunder,G Voll,P Litchfield,ML Schutt,4,0,,,,,,"",""
+ball,1,13.2,Sydney Thunder,G Voll,P Litchfield,ML Schutt,4,0,,,,,,"",""
+ball,1,13.3,Sydney Thunder,G Voll,P Litchfield,ML Schutt,1,1,,1,,,,"",""
+ball,1,13.4,Sydney Thunder,P Litchfield,G Voll,ML Schutt,4,0,,,,,,"",""
+ball,1,13.5,Sydney Thunder,P Litchfield,G Voll,ML Schutt,0,0,,,,,,"",""
+ball,1,13.6,Sydney Thunder,P Litchfield,G Voll,ML Schutt,0,0,,,,,,caught,P Litchfield
+ball,1,13.7,Sydney Thunder,HC Knight,G Voll,ML Schutt,0,0,,,,,,"",""
+ball,1,14.1,Sydney Thunder,G Voll,HC Knight,AC Mushangwe,0,0,,,,,,"",""
+ball,1,14.2,Sydney Thunder,G Voll,HC Knight,AC Mushangwe,1,0,,,,,,"",""
+ball,1,14.3,Sydney Thunder,HC Knight,G Voll,AC Mushangwe,4,0,,,,,,"",""
+ball,1,14.4,Sydney Thunder,HC Knight,G Voll,AC Mushangwe,0,0,,,,,,"",""
+ball,1,14.5,Sydney Thunder,HC Knight,G Voll,AC Mushangwe,4,0,,,,,,"",""
+ball,1,14.6,Sydney Thunder,HC Knight,G Voll,AC Mushangwe,0,0,,,,,,"",""
+ball,1,15.1,Sydney Thunder,G Voll,HC Knight,O Prendergast,1,0,,,,,,"",""
+ball,1,15.2,Sydney Thunder,HC Knight,G Voll,O Prendergast,0,0,,,,,,"",""
+ball,1,15.3,Sydney Thunder,HC Knight,G Voll,O Prendergast,1,0,,,,,,"",""
+ball,1,15.4,Sydney Thunder,G Voll,HC Knight,O Prendergast,1,0,,,,,,"",""
+ball,1,15.5,Sydney Thunder,HC Knight,G Voll,O Prendergast,4,0,,,,,,"",""
+ball,1,15.6,Sydney Thunder,HC Knight,G Voll,O Prendergast,1,0,,,,,,"",""
+ball,1,16.1,Sydney Thunder,HC Knight,G Voll,A Wellington,6,0,,,,,,"",""
+ball,1,16.2,Sydney Thunder,HC Knight,G Voll,A Wellington,0,0,,,,,,"",""
+ball,1,16.3,Sydney Thunder,HC Knight,G Voll,A Wellington,1,0,,,,,,"",""
+ball,1,16.4,Sydney Thunder,G Voll,HC Knight,A Wellington,4,0,,,,,,"",""
+ball,1,16.5,Sydney Thunder,G Voll,HC Knight,A Wellington,4,0,,,,,,"",""
+ball,1,16.6,Sydney Thunder,G Voll,HC Knight,A Wellington,1,0,,,,,,"",""
+ball,1,17.1,Sydney Thunder,G Voll,HC Knight,AC Mushangwe,4,0,,,,,,"",""
+ball,1,17.2,Sydney Thunder,G Voll,HC Knight,AC Mushangwe,6,0,,,,,,"",""
+ball,1,17.3,Sydney Thunder,G Voll,HC Knight,AC Mushangwe,0,0,,,,,,"",""
+ball,1,17.4,Sydney Thunder,G Voll,HC Knight,AC Mushangwe,0,0,,,,,,"",""
+ball,1,17.5,Sydney Thunder,G Voll,HC Knight,AC Mushangwe,2,0,,,,,,"",""
+ball,1,17.6,Sydney Thunder,G Voll,HC Knight,AC Mushangwe,0,0,,,,,,"",""
+ball,1,18.1,Sydney Thunder,HC Knight,G Voll,O Prendergast,1,0,,,,,,"",""
+ball,1,18.2,Sydney Thunder,G Voll,HC Knight,O Prendergast,0,0,,,,,,caught,G Voll
+ball,1,18.3,Sydney Thunder,T Wilson,HC Knight,O Prendergast,1,0,,,,,,"",""
+ball,1,18.4,Sydney Thunder,HC Knight,T Wilson,O Prendergast,6,0,,,,,,"",""
+ball,1,18.5,Sydney Thunder,HC Knight,T Wilson,O Prendergast,0,0,,,,,,caught,HC Knight
+ball,1,18.6,Sydney Thunder,A Learoyd,T Wilson,O Prendergast,0,0,,,,,,"",""
+ball,1,19.1,Sydney Thunder,T Wilson,A Learoyd,ML Schutt,1,0,,,,,,"",""
+ball,1,19.2,Sydney Thunder,A Learoyd,T Wilson,ML Schutt,1,0,,,,,,"",""
+ball,1,19.3,Sydney Thunder,T Wilson,A Learoyd,ML Schutt,0,1,,,,1,,"",""
+ball,1,19.4,Sydney Thunder,A Learoyd,T Wilson,ML Schutt,6,0,,,,,,"",""
+ball,1,19.5,Sydney Thunder,A Learoyd,T Wilson,ML Schutt,1,0,,,,,,"",""
+ball,1,19.6,Sydney Thunder,T Wilson,A Learoyd,ML Schutt,1,0,,,,,,run out,A Learoyd
+ball,2,0.1,Adelaide Strikers,KM Mack,L Wolvaardt,S Ismail,0,0,,,,,,"",""
+ball,2,0.2,Adelaide Strikers,KM Mack,L Wolvaardt,S Ismail,0,0,,,,,,"",""
+ball,2,0.3,Adelaide Strikers,KM Mack,L Wolvaardt,S Ismail,0,0,,,,,,"",""
+ball,2,0.4,Adelaide Strikers,KM Mack,L Wolvaardt,S Ismail,4,0,,,,,,"",""
+ball,2,0.5,Adelaide Strikers,KM Mack,L Wolvaardt,S Ismail,0,0,,,,,,"",""
+ball,2,0.6,Adelaide Strikers,KM Mack,L Wolvaardt,S Ismail,0,0,,,,,,"",""
+ball,2,1.1,Adelaide Strikers,L Wolvaardt,KM Mack,SD Bates,1,0,,,,,,"",""
+ball,2,1.2,Adelaide Strikers,KM Mack,L Wolvaardt,SD Bates,0,0,,,,,,"",""
+ball,2,1.3,Adelaide Strikers,KM Mack,L Wolvaardt,SD Bates,1,0,,,,,,"",""
+ball,2,1.4,Adelaide Strikers,L Wolvaardt,KM Mack,SD Bates,1,0,,,,,,"",""
+ball,2,1.5,Adelaide Strikers,KM Mack,L Wolvaardt,SD Bates,4,0,,,,,,"",""
+ball,2,1.6,Adelaide Strikers,KM Mack,L Wolvaardt,SD Bates,0,0,,,,,,"",""
+ball,2,2.1,Adelaide Strikers,L Wolvaardt,KM Mack,S Ismail,0,0,,,,,,"",""
+ball,2,2.2,Adelaide Strikers,L Wolvaardt,KM Mack,S Ismail,0,0,,,,,,caught,L Wolvaardt
+ball,2,2.3,Adelaide Strikers,E Johnston,KM Mack,S Ismail,0,0,,,,,,"",""
+ball,2,2.4,Adelaide Strikers,E Johnston,KM Mack,S Ismail,4,0,,,,,,"",""
+ball,2,2.5,Adelaide Strikers,E Johnston,KM Mack,S Ismail,0,0,,,,,,"",""
+ball,2,2.6,Adelaide Strikers,E Johnston,KM Mack,S Ismail,0,0,,,,,,"",""
+ball,2,3.1,Adelaide Strikers,KM Mack,E Johnston,AC Jayangani,1,0,,,,,,"",""
+ball,2,3.2,Adelaide Strikers,E Johnston,KM Mack,AC Jayangani,1,0,,,,,,"",""
+ball,2,3.3,Adelaide Strikers,KM Mack,E Johnston,AC Jayangani,4,0,,,,,,"",""
+ball,2,3.4,Adelaide Strikers,KM Mack,E Johnston,AC Jayangani,1,0,,,,,,"",""
+ball,2,3.5,Adelaide Strikers,E Johnston,KM Mack,AC Jayangani,0,0,,,,,,"",""
+ball,2,3.6,Adelaide Strikers,E Johnston,KM Mack,AC Jayangani,4,0,,,,,,"",""
+ball,2,4.1,Adelaide Strikers,KM Mack,E Johnston,HJ Darlington,0,0,,,,,,"",""
+ball,2,4.2,Adelaide Strikers,KM Mack,E Johnston,HJ Darlington,1,0,,,,,,"",""
+ball,2,4.3,Adelaide Strikers,E Johnston,KM Mack,HJ Darlington,6,0,,,,,,"",""
+ball,2,4.4,Adelaide Strikers,E Johnston,KM Mack,HJ Darlington,2,0,,,,,,"",""
+ball,2,4.5,Adelaide Strikers,E Johnston,KM Mack,HJ Darlington,1,0,,,,,,"",""
+ball,2,4.6,Adelaide Strikers,KM Mack,E Johnston,HJ Darlington,1,0,,,,,,"",""
+ball,2,5.1,Adelaide Strikers,KM Mack,E Johnston,SD Bates,0,0,,,,,,"",""
+ball,2,5.2,Adelaide Strikers,KM Mack,E Johnston,SD Bates,1,0,,,,,,"",""
+ball,2,5.3,Adelaide Strikers,E Johnston,KM Mack,SD Bates,0,0,,,,,,caught,E Johnston
+ball,2,5.4,Adelaide Strikers,TM McGrath,KM Mack,SD Bates,0,0,,,,,,"",""
+ball,2,5.5,Adelaide Strikers,TM McGrath,KM Mack,SD Bates,0,0,,,,,,"",""
+ball,2,5.6,Adelaide Strikers,TM McGrath,KM Mack,SD Bates,0,0,,,,,,lbw,TM McGrath
+ball,2,6.1,Adelaide Strikers,KM Mack,M Penna,SJ Johnson,0,0,,,,,,"",""
+ball,2,6.2,Adelaide Strikers,KM Mack,M Penna,SJ Johnson,1,0,,,,,,"",""
+ball,2,6.3,Adelaide Strikers,M Penna,KM Mack,SJ Johnson,1,0,,,,,,"",""
+ball,2,6.4,Adelaide Strikers,KM Mack,M Penna,SJ Johnson,1,0,,,,,,"",""
+ball,2,6.5,Adelaide Strikers,M Penna,KM Mack,SJ Johnson,1,0,,,,,,"",""
+ball,2,6.6,Adelaide Strikers,KM Mack,M Penna,SJ Johnson,1,0,,,,,,"",""
+ball,2,7.1,Adelaide Strikers,KM Mack,M Penna,S Eve,1,0,,,,,,"",""
+ball,2,7.2,Adelaide Strikers,M Penna,KM Mack,S Eve,0,0,,,,,,"",""
+ball,2,7.3,Adelaide Strikers,M Penna,KM Mack,S Eve,0,0,,,,,,"",""
+ball,2,7.4,Adelaide Strikers,M Penna,KM Mack,S Eve,1,0,,,,,,"",""
+ball,2,7.5,Adelaide Strikers,KM Mack,M Penna,S Eve,2,0,,,,,,"",""
+ball,2,7.6,Adelaide Strikers,KM Mack,M Penna,S Eve,1,0,,,,,,"",""
+ball,2,8.1,Adelaide Strikers,KM Mack,M Penna,HJ Darlington,4,0,,,,,,"",""
+ball,2,8.2,Adelaide Strikers,KM Mack,M Penna,HJ Darlington,1,0,,,,,,"",""
+ball,2,8.3,Adelaide Strikers,M Penna,KM Mack,HJ Darlington,0,0,,,,,,"",""
+ball,2,8.4,Adelaide Strikers,M Penna,KM Mack,HJ Darlington,1,0,,,,,,"",""
+ball,2,8.5,Adelaide Strikers,KM Mack,M Penna,HJ Darlington,1,0,,,,,,"",""
+ball,2,8.6,Adelaide Strikers,M Penna,KM Mack,HJ Darlington,0,0,,,,,,"",""
+ball,2,9.1,Adelaide Strikers,KM Mack,M Penna,AC Jayangani,1,0,,,,,,"",""
+ball,2,9.2,Adelaide Strikers,M Penna,KM Mack,AC Jayangani,1,0,,,,,,"",""
+ball,2,9.3,Adelaide Strikers,KM Mack,M Penna,AC Jayangani,1,0,,,,,,"",""
+ball,2,9.4,Adelaide Strikers,M Penna,KM Mack,AC Jayangani,1,0,,,,,,"",""
+ball,2,9.5,Adelaide Strikers,KM Mack,M Penna,AC Jayangani,1,0,,,,,,"",""
+ball,2,9.6,Adelaide Strikers,M Penna,KM Mack,AC Jayangani,4,0,,,,,,"",""
+ball,2,10.1,Adelaide Strikers,KM Mack,M Penna,SJ Johnson,1,0,,,,,,"",""
+ball,2,10.2,Adelaide Strikers,M Penna,KM Mack,SJ Johnson,4,0,,,,,,"",""
+ball,2,10.3,Adelaide Strikers,M Penna,KM Mack,SJ Johnson,1,0,,,,,,"",""
+ball,2,10.4,Adelaide Strikers,KM Mack,M Penna,SJ Johnson,4,0,,,,,,"",""
+ball,2,10.5,Adelaide Strikers,KM Mack,M Penna,SJ Johnson,1,0,,,,,,"",""
+ball,2,10.6,Adelaide Strikers,M Penna,KM Mack,SJ Johnson,0,0,,,,,,"",""
+ball,2,11.1,Adelaide Strikers,KM Mack,M Penna,SD Bates,0,1,1,,,,,"",""
+ball,2,11.2,Adelaide Strikers,KM Mack,M Penna,SD Bates,0,0,,,,,,"",""
+ball,2,11.3,Adelaide Strikers,KM Mack,M Penna,SD Bates,3,0,,,,,,"",""
+ball,2,11.4,Adelaide Strikers,M Penna,KM Mack,SD Bates,1,0,,,,,,"",""
+ball,2,11.5,Adelaide Strikers,KM Mack,M Penna,SD Bates,0,0,,,,,,"",""
+ball,2,11.6,Adelaide Strikers,KM Mack,M Penna,SD Bates,1,0,,,,,,"",""
+ball,2,11.7,Adelaide Strikers,M Penna,KM Mack,SD Bates,1,0,,,,,,"",""
+ball,2,12.1,Adelaide Strikers,M Penna,KM Mack,S Ismail,0,0,,,,,,"",""
+ball,2,12.2,Adelaide Strikers,M Penna,KM Mack,S Ismail,2,0,,,,,,"",""
+ball,2,12.3,Adelaide Strikers,M Penna,KM Mack,S Ismail,6,0,,,,,,"",""
+ball,2,12.4,Adelaide Strikers,M Penna,KM Mack,S Ismail,0,0,,,,,,"",""
+ball,2,12.5,Adelaide Strikers,M Penna,KM Mack,S Ismail,0,0,,,,,,caught,M Penna
+ball,2,12.6,Adelaide Strikers,O Prendergast,KM Mack,S Ismail,1,0,,,,,,"",""
+ball,2,13.1,Adelaide Strikers,O Prendergast,KM Mack,HJ Darlington,0,1,,,,1,,"",""
+ball,2,13.2,Adelaide Strikers,KM Mack,O Prendergast,HJ Darlington,0,0,,,,,,"",""
+ball,2,13.3,Adelaide Strikers,KM Mack,O Prendergast,HJ Darlington,1,0,,,,,,"",""
+ball,2,13.4,Adelaide Strikers,O Prendergast,KM Mack,HJ Darlington,0,0,,,,,,"",""
+ball,2,13.5,Adelaide Strikers,O Prendergast,KM Mack,HJ Darlington,0,0,,,,,,caught,O Prendergast
+ball,2,13.6,Adelaide Strikers,A Wellington,KM Mack,HJ Darlington,4,0,,,,,,"",""
+ball,2,14.1,Adelaide Strikers,KM Mack,A Wellington,AC Jayangani,6,0,,,,,,"",""
+ball,2,14.2,Adelaide Strikers,KM Mack,A Wellington,AC Jayangani,0,0,,,,,,stumped,KM Mack
+ball,2,14.3,Adelaide Strikers,JL Barsby,A Wellington,AC Jayangani,0,0,,,,,,"",""
+ball,2,14.4,Adelaide Strikers,JL Barsby,A Wellington,AC Jayangani,1,0,,,,,,"",""
+ball,2,14.5,Adelaide Strikers,A Wellington,JL Barsby,AC Jayangani,1,0,,,,,,"",""
+ball,2,14.6,Adelaide Strikers,JL Barsby,A Wellington,AC Jayangani,1,0,,,,,,"",""
+ball,2,15.1,Adelaide Strikers,JL Barsby,A Wellington,SD Bates,1,0,,,,,,"",""
+ball,2,15.2,Adelaide Strikers,A Wellington,JL Barsby,SD Bates,4,0,,,,,,"",""
+ball,2,15.3,Adelaide Strikers,A Wellington,JL Barsby,SD Bates,0,0,,,,,,caught,A Wellington
+ball,2,15.4,Adelaide Strikers,ML Schutt,JL Barsby,SD Bates,0,0,,,,,,lbw,ML Schutt
+ball,2,15.5,Adelaide Strikers,D Brown,JL Barsby,SD Bates,0,1,1,,,,,"",""
+ball,2,15.6,Adelaide Strikers,D Brown,JL Barsby,SD Bates,0,0,,,,,,"",""
+ball,2,15.7,Adelaide Strikers,D Brown,JL Barsby,SD Bates,0,0,,,,,,"",""
+ball,2,16.1,Adelaide Strikers,JL Barsby,D Brown,SJ Johnson,1,0,,,,,,"",""
+ball,2,16.2,Adelaide Strikers,D Brown,JL Barsby,SJ Johnson,0,1,1,,,,,"",""
+ball,2,16.3,Adelaide Strikers,D Brown,JL Barsby,SJ Johnson,0,0,,,,,,bowled,D Brown
+ball,2,16.4,Adelaide Strikers,AC Mushangwe,JL Barsby,SJ Johnson,1,0,,,,,,"",""
+ball,2,16.5,Adelaide Strikers,JL Barsby,AC Mushangwe,SJ Johnson,0,0,,,,,,"",""
+ball,2,16.6,Adelaide Strikers,JL Barsby,AC Mushangwe,SJ Johnson,1,0,,,,,,"",""
+ball,2,16.7,Adelaide Strikers,AC Mushangwe,JL Barsby,SJ Johnson,1,0,,,,,,"",""
+ball,2,17.1,Adelaide Strikers,AC Mushangwe,JL Barsby,S Eve,4,0,,,,,,"",""
+ball,2,17.2,Adelaide Strikers,AC Mushangwe,JL Barsby,S Eve,1,0,,,,,,"",""
+ball,2,17.3,Adelaide Strikers,JL Barsby,AC Mushangwe,S Eve,4,0,,,,,,"",""
+ball,2,17.4,Adelaide Strikers,JL Barsby,AC Mushangwe,S Eve,1,0,,,,,,"",""
+ball,2,17.5,Adelaide Strikers,AC Mushangwe,JL Barsby,S Eve,4,0,,,,,,"",""
+ball,2,17.6,Adelaide Strikers,AC Mushangwe,JL Barsby,S Eve,4,0,,,,,,"",""
+ball,2,18.1,Adelaide Strikers,JL Barsby,AC Mushangwe,HJ Darlington,0,0,,,,,,"",""
+ball,2,18.2,Adelaide Strikers,JL Barsby,AC Mushangwe,HJ Darlington,4,0,,,,,,"",""
+ball,2,18.3,Adelaide Strikers,JL Barsby,AC Mushangwe,HJ Darlington,4,0,,,,,,"",""
+ball,2,18.4,Adelaide Strikers,JL Barsby,AC Mushangwe,HJ Darlington,2,0,,,,,,"",""
+ball,2,18.5,Adelaide Strikers,JL Barsby,AC Mushangwe,HJ Darlington,2,0,,,,,,"",""
+ball,2,18.6,Adelaide Strikers,JL Barsby,AC Mushangwe,HJ Darlington,0,0,,,,,,"",""
+ball,2,19.1,Adelaide Strikers,AC Mushangwe,JL Barsby,S Ismail,1,0,,,,,,"",""
+ball,2,19.2,Adelaide Strikers,JL Barsby,AC Mushangwe,S Ismail,0,0,,,,,,caught,JL Barsby

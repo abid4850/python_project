@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Thunder
+info,team,South East Stars
+info,gender,female
+info,season,2023
+info,date,2023/06/04
+info,event,Charlotte Edwards Cup
+info,venue,"Stanley Park, Blackpool"
+info,city,Blackpool
+info,toss_winner,Thunder
+info,toss_decision,bat
+info,umpire,Naeem Ashraf
+info,umpire,N Pratt
+info,match_referee,IL Herbert
+info,winner,Thunder
+info,winner_runs,16
+info,player,Thunder,EL Lamb
+info,player,Thunder,L Heap
+info,player,Thunder,FMK Morris
+info,player,Thunder,DJS Dottin
+info,player,Thunder,E Threlkeld
+info,player,Thunder,ND Dattani
+info,player,Thunder,DL Collins
+info,player,Thunder,KL Cross
+info,player,Thunder,TG Norris
+info,player,Thunder,M Gaur
+info,player,Thunder,O Bell
+info,player,South East Stars,BF Smith
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,K Moore
+info,player,South East Stars,A Stonehouse
+info,player,South East Stars,CAE Hill
+info,player,South East Stars,CAR Cooper
+info,player,South East Stars,D Gregory
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,A Stonehouse,c9366237
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CAE Hill,24ffb29f
+info,registry,people,CAR Cooper,20af5f5f
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,DL Collins,246ba42c
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,K Moore,d12c8445
+info,registry,people,KL Cross,1ade138e
+info,registry,people,L Heap,8d26dfab
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,O Bell,385eac52
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,TG Norris,8ae7bb3e
+ball,1,0.1,Thunder,EL Lamb,L Heap,A Stonehouse,4,0,,,,,,"",""
+ball,1,0.2,Thunder,EL Lamb,L Heap,A Stonehouse,1,0,,,,,,"",""
+ball,1,0.3,Thunder,L Heap,EL Lamb,A Stonehouse,0,0,,,,,,"",""
+ball,1,0.4,Thunder,L Heap,EL Lamb,A Stonehouse,1,0,,,,,,"",""
+ball,1,0.5,Thunder,EL Lamb,L Heap,A Stonehouse,1,1,,1,,,,"",""
+ball,1,0.6,Thunder,L Heap,EL Lamb,A Stonehouse,0,0,,,,,,"",""
+ball,1,0.7,Thunder,L Heap,EL Lamb,A Stonehouse,0,0,,,,,,"",""
+ball,1,1.1,Thunder,EL Lamb,L Heap,CAR Cooper,0,0,,,,,,"",""
+ball,1,1.2,Thunder,EL Lamb,L Heap,CAR Cooper,1,0,,,,,,"",""
+ball,1,1.3,Thunder,L Heap,EL Lamb,CAR Cooper,4,0,,,,,,"",""
+ball,1,1.4,Thunder,L Heap,EL Lamb,CAR Cooper,0,0,,,,,,"",""
+ball,1,1.5,Thunder,L Heap,EL Lamb,CAR Cooper,4,0,,,,,,"",""
+ball,1,1.6,Thunder,L Heap,EL Lamb,CAR Cooper,0,0,,,,,,"",""
+ball,1,2.1,Thunder,EL Lamb,L Heap,PA Franklin,0,0,,,,,,"",""
+ball,1,2.2,Thunder,EL Lamb,L Heap,PA Franklin,4,0,,,,,,"",""
+ball,1,2.3,Thunder,EL Lamb,L Heap,PA Franklin,0,0,,,,,,"",""
+ball,1,2.4,Thunder,EL Lamb,L Heap,PA Franklin,0,0,,,,,,"",""
+ball,1,2.5,Thunder,EL Lamb,L Heap,PA Franklin,4,0,,,,,,"",""
+ball,1,2.6,Thunder,EL Lamb,L Heap,PA Franklin,0,0,,,,,,"",""
+ball,1,3.1,Thunder,L Heap,EL Lamb,PJ Scholfield,0,0,,,,,,"",""
+ball,1,3.2,Thunder,L Heap,EL Lamb,PJ Scholfield,0,0,,,,,,"",""
+ball,1,3.3,Thunder,L Heap,EL Lamb,PJ Scholfield,0,0,,,,,,"",""
+ball,1,3.4,Thunder,L Heap,EL Lamb,PJ Scholfield,1,0,,,,,,"",""
+ball,1,3.5,Thunder,EL Lamb,L Heap,PJ Scholfield,4,0,,,,,,"",""
+ball,1,3.6,Thunder,EL Lamb,L Heap,PJ Scholfield,4,0,,,,,,"",""
+ball,1,4.1,Thunder,L Heap,EL Lamb,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,4.2,Thunder,L Heap,EL Lamb,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,4.3,Thunder,L Heap,EL Lamb,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,4.4,Thunder,EL Lamb,L Heap,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,4.5,Thunder,EL Lamb,L Heap,R MacDonald-Gay,4,0,,,,,,"",""
+ball,1,4.6,Thunder,EL Lamb,L Heap,R MacDonald-Gay,4,0,,,,,,"",""
+ball,1,5.1,Thunder,L Heap,EL Lamb,CAR Cooper,0,0,,,,,,"",""
+ball,1,5.2,Thunder,L Heap,EL Lamb,CAR Cooper,0,0,,,,,,"",""
+ball,1,5.3,Thunder,L Heap,EL Lamb,CAR Cooper,1,0,,,,,,"",""
+ball,1,5.4,Thunder,EL Lamb,L Heap,CAR Cooper,1,0,,,,,,"",""
+ball,1,5.5,Thunder,L Heap,EL Lamb,CAR Cooper,1,0,,,,,,"",""
+ball,1,5.6,Thunder,EL Lamb,L Heap,CAR Cooper,4,0,,,,,,"",""
+ball,1,6.1,Thunder,L Heap,EL Lamb,PJ Scholfield,2,0,,,,,,"",""
+ball,1,6.2,Thunder,L Heap,EL Lamb,PJ Scholfield,0,0,,,,,,"",""
+ball,1,6.3,Thunder,L Heap,EL Lamb,PJ Scholfield,0,0,,,,,,"",""
+ball,1,6.4,Thunder,L Heap,EL Lamb,PJ Scholfield,0,0,,,,,,"",""
+ball,1,6.5,Thunder,L Heap,EL Lamb,PJ Scholfield,1,0,,,,,,"",""
+ball,1,6.6,Thunder,EL Lamb,L Heap,PJ Scholfield,1,0,,,,,,"",""
+ball,1,7.1,Thunder,EL Lamb,L Heap,D Gregory,0,0,,,,,,"",""
+ball,1,7.2,Thunder,EL Lamb,L Heap,D Gregory,1,0,,,,,,"",""
+ball,1,7.3,Thunder,L Heap,EL Lamb,D Gregory,2,0,,,,,,"",""
+ball,1,7.4,Thunder,L Heap,EL Lamb,D Gregory,1,0,,,,,,"",""
+ball,1,7.5,Thunder,EL Lamb,L Heap,D Gregory,0,0,,,,,,"",""
+ball,1,7.6,Thunder,EL Lamb,L Heap,D Gregory,0,0,,,,,,"",""
+ball,1,8.1,Thunder,L Heap,EL Lamb,PA Franklin,0,0,,,,,,bowled,L Heap
+ball,1,8.2,Thunder,FMK Morris,EL Lamb,PA Franklin,0,0,,,,,,"",""
+ball,1,8.3,Thunder,FMK Morris,EL Lamb,PA Franklin,1,0,,,,,,"",""
+ball,1,8.4,Thunder,EL Lamb,FMK Morris,PA Franklin,2,0,,,,,,"",""
+ball,1,8.5,Thunder,EL Lamb,FMK Morris,PA Franklin,1,0,,,,,,"",""
+ball,1,8.6,Thunder,FMK Morris,EL Lamb,PA Franklin,1,0,,,,,,"",""
+ball,1,9.1,Thunder,FMK Morris,EL Lamb,D Gregory,2,0,,,,,,"",""
+ball,1,9.2,Thunder,FMK Morris,EL Lamb,D Gregory,0,0,,,,,,"",""
+ball,1,9.3,Thunder,FMK Morris,EL Lamb,D Gregory,4,0,,,,,,"",""
+ball,1,9.4,Thunder,FMK Morris,EL Lamb,D Gregory,0,0,,,,,,"",""
+ball,1,9.5,Thunder,FMK Morris,EL Lamb,D Gregory,0,0,,,,,,"",""
+ball,1,9.6,Thunder,FMK Morris,EL Lamb,D Gregory,0,0,,,,,,"",""
+ball,1,10.1,Thunder,EL Lamb,FMK Morris,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,10.2,Thunder,FMK Morris,EL Lamb,R MacDonald-Gay,0,0,,,,,,"",""
+ball,1,10.3,Thunder,FMK Morris,EL Lamb,R MacDonald-Gay,4,0,,,,,,"",""
+ball,1,10.4,Thunder,FMK Morris,EL Lamb,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,10.5,Thunder,EL Lamb,FMK Morris,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,10.6,Thunder,FMK Morris,EL Lamb,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,11.1,Thunder,FMK Morris,EL Lamb,BF Smith,1,0,,,,,,"",""
+ball,1,11.2,Thunder,EL Lamb,FMK Morris,BF Smith,1,0,,,,,,"",""
+ball,1,11.3,Thunder,FMK Morris,EL Lamb,BF Smith,2,0,,,,,,"",""
+ball,1,11.4,Thunder,FMK Morris,EL Lamb,BF Smith,1,0,,,,,,"",""
+ball,1,11.5,Thunder,EL Lamb,FMK Morris,BF Smith,2,0,,,,,,"",""
+ball,1,11.6,Thunder,EL Lamb,FMK Morris,BF Smith,1,0,,,,,,"",""
+ball,1,12.1,Thunder,EL Lamb,FMK Morris,PJ Scholfield,4,0,,,,,,"",""
+ball,1,12.2,Thunder,EL Lamb,FMK Morris,PJ Scholfield,6,0,,,,,,"",""
+ball,1,12.3,Thunder,EL Lamb,FMK Morris,PJ Scholfield,1,0,,,,,,"",""
+ball,1,12.4,Thunder,FMK Morris,EL Lamb,PJ Scholfield,6,0,,,,,,"",""
+ball,1,12.5,Thunder,FMK Morris,EL Lamb,PJ Scholfield,0,1,,,1,,,"",""
+ball,1,12.6,Thunder,EL Lamb,FMK Morris,PJ Scholfield,0,0,,,,,,"",""
+ball,1,13.1,Thunder,FMK Morris,EL Lamb,BF Smith,4,0,,,,,,"",""
+ball,1,13.2,Thunder,FMK Morris,EL Lamb,BF Smith,0,0,,,,,,"",""
+ball,1,13.3,Thunder,FMK Morris,EL Lamb,BF Smith,4,0,,,,,,"",""
+ball,1,13.4,Thunder,FMK Morris,EL Lamb,BF Smith,1,0,,,,,,"",""
+ball,1,13.5,Thunder,EL Lamb,FMK Morris,BF Smith,2,0,,,,,,"",""
+ball,1,13.6,Thunder,EL Lamb,FMK Morris,BF Smith,1,0,,,,,,"",""
+ball,1,14.1,Thunder,EL Lamb,FMK Morris,PA Franklin,2,0,,,,,,"",""
+ball,1,14.2,Thunder,EL Lamb,FMK Morris,PA Franklin,0,0,,,,,,caught,EL Lamb
+ball,1,14.3,Thunder,DJS Dottin,FMK Morris,PA Franklin,1,0,,,,,,"",""
+ball,1,14.4,Thunder,FMK Morris,DJS Dottin,PA Franklin,1,0,,,,,,"",""
+ball,1,14.5,Thunder,DJS Dottin,FMK Morris,PA Franklin,0,0,,,,,,"",""
+ball,1,14.6,Thunder,DJS Dottin,FMK Morris,PA Franklin,1,0,,,,,,"",""
+ball,1,15.1,Thunder,DJS Dottin,FMK Morris,D Gregory,0,0,,,,,,lbw,DJS Dottin
+ball,1,15.2,Thunder,E Threlkeld,FMK Morris,D Gregory,0,0,,,,,,"",""
+ball,1,15.3,Thunder,E Threlkeld,FMK Morris,D Gregory,0,0,,,,,,lbw,E Threlkeld
+ball,1,15.4,Thunder,ND Dattani,FMK Morris,D Gregory,4,0,,,,,,"",""
+ball,1,15.5,Thunder,ND Dattani,FMK Morris,D Gregory,0,0,,,,,,"",""
+ball,1,15.6,Thunder,ND Dattani,FMK Morris,D Gregory,0,0,,,,,,"",""
+ball,1,16.1,Thunder,FMK Morris,ND Dattani,BF Smith,1,0,,,,,,"",""
+ball,1,16.2,Thunder,ND Dattani,FMK Morris,BF Smith,1,0,,,,,,"",""
+ball,1,16.3,Thunder,FMK Morris,ND Dattani,BF Smith,1,0,,,,,,"",""
+ball,1,16.4,Thunder,ND Dattani,FMK Morris,BF Smith,1,0,,,,,,"",""
+ball,1,16.5,Thunder,FMK Morris,ND Dattani,BF Smith,1,0,,,,,,"",""
+ball,1,16.6,Thunder,ND Dattani,FMK Morris,BF Smith,1,0,,,,,,"",""
+ball,1,17.1,Thunder,ND Dattani,FMK Morris,K Moore,2,0,,,,,,"",""
+ball,1,17.2,Thunder,ND Dattani,FMK Morris,K Moore,0,1,1,,,,,"",""
+ball,1,17.3,Thunder,ND Dattani,FMK Morris,K Moore,0,1,,,,1,,"",""
+ball,1,17.4,Thunder,FMK Morris,ND Dattani,K Moore,4,0,,,,,,"",""
+ball,1,17.5,Thunder,FMK Morris,ND Dattani,K Moore,1,0,,,,,,"",""
+ball,1,17.6,Thunder,ND Dattani,FMK Morris,K Moore,4,0,,,,,,"",""
+ball,1,17.7,Thunder,ND Dattani,FMK Morris,K Moore,2,0,,,,,,"",""
+ball,1,18.1,Thunder,FMK Morris,ND Dattani,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,18.2,Thunder,ND Dattani,FMK Morris,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,18.3,Thunder,FMK Morris,ND Dattani,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,18.4,Thunder,ND Dattani,FMK Morris,R MacDonald-Gay,2,0,,,,,,"",""
+ball,1,18.5,Thunder,ND Dattani,FMK Morris,R MacDonald-Gay,4,0,,,,,,"",""
+ball,1,18.6,Thunder,ND Dattani,FMK Morris,R MacDonald-Gay,1,0,,,,,,"",""
+ball,1,19.1,Thunder,ND Dattani,FMK Morris,BF Smith,4,0,,,,,,"",""
+ball,1,19.2,Thunder,ND Dattani,FMK Morris,BF Smith,1,0,,,,,,"",""
+ball,1,19.3,Thunder,FMK Morris,ND Dattani,BF Smith,0,0,,,,,,caught,FMK Morris
+ball,1,19.4,Thunder,DL Collins,ND Dattani,BF Smith,1,0,,,,,,"",""
+ball,1,19.5,Thunder,ND Dattani,DL Collins,BF Smith,0,2,,,2,,,"",""
+ball,1,19.6,Thunder,ND Dattani,DL Collins,BF Smith,2,0,,,,,,"",""
+ball,2,0.1,South East Stars,BF Smith,PJ Scholfield,M Gaur,0,0,,,,,,"",""
+ball,2,0.2,South East Stars,BF Smith,PJ Scholfield,M Gaur,4,0,,,,,,"",""
+ball,2,0.3,South East Stars,BF Smith,PJ Scholfield,M Gaur,0,0,,,,,,"",""
+ball,2,0.4,South East Stars,BF Smith,PJ Scholfield,M Gaur,0,0,,,,,,"",""
+ball,2,0.5,South East Stars,BF Smith,PJ Scholfield,M Gaur,2,0,,,,,,"",""
+ball,2,0.6,South East Stars,BF Smith,PJ Scholfield,M Gaur,4,0,,,,,,"",""
+ball,2,1.1,South East Stars,PJ Scholfield,BF Smith,KL Cross,0,1,1,,,,,"",""
+ball,2,1.2,South East Stars,PJ Scholfield,BF Smith,KL Cross,1,0,,,,,,"",""
+ball,2,1.3,South East Stars,BF Smith,PJ Scholfield,KL Cross,0,0,,,,,,"",""
+ball,2,1.4,South East Stars,BF Smith,PJ Scholfield,KL Cross,1,0,,,,,,"",""
+ball,2,1.5,South East Stars,PJ Scholfield,BF Smith,KL Cross,4,0,,,,,,"",""
+ball,2,1.6,South East Stars,PJ Scholfield,BF Smith,KL Cross,0,0,,,,,,"",""
+ball,2,1.7,South East Stars,PJ Scholfield,BF Smith,KL Cross,1,0,,,,,,"",""
+ball,2,2.1,South East Stars,PJ Scholfield,BF Smith,M Gaur,1,0,,,,,,"",""
+ball,2,2.2,South East Stars,BF Smith,PJ Scholfield,M Gaur,0,0,,,,,,"",""
+ball,2,2.3,South East Stars,BF Smith,PJ Scholfield,M Gaur,4,0,,,,,,"",""
+ball,2,2.4,South East Stars,BF Smith,PJ Scholfield,M Gaur,0,0,,,,,,"",""
+ball,2,2.5,South East Stars,BF Smith,PJ Scholfield,M Gaur,0,0,,,,,,"",""
+ball,2,2.6,South East Stars,BF Smith,PJ Scholfield,M Gaur,0,0,,,,,,"",""
+ball,2,3.1,South East Stars,PJ Scholfield,BF Smith,KL Cross,0,0,,,,,,"",""
+ball,2,3.2,South East Stars,PJ Scholfield,BF Smith,KL Cross,2,0,,,,,,"",""
+ball,2,3.3,South East Stars,PJ Scholfield,BF Smith,KL Cross,1,0,,,,,,"",""
+ball,2,3.4,South East Stars,BF Smith,PJ Scholfield,KL Cross,1,0,,,,,,"",""
+ball,2,3.5,South East Stars,PJ Scholfield,BF Smith,KL Cross,4,0,,,,,,"",""
+ball,2,3.6,South East Stars,PJ Scholfield,BF Smith,KL Cross,1,0,,,,,,"",""
+ball,2,4.1,South East Stars,PJ Scholfield,BF Smith,M Gaur,1,0,,,,,,"",""
+ball,2,4.2,South East Stars,BF Smith,PJ Scholfield,M Gaur,2,0,,,,,,"",""
+ball,2,4.3,South East Stars,BF Smith,PJ Scholfield,M Gaur,4,0,,,,,,"",""
+ball,2,4.4,South East Stars,BF Smith,PJ Scholfield,M Gaur,6,0,,,,,,"",""
+ball,2,4.5,South East Stars,BF Smith,PJ Scholfield,M Gaur,0,0,,,,,,"",""
+ball,2,4.6,South East Stars,BF Smith,PJ Scholfield,M Gaur,6,0,,,,,,"",""
+ball,2,5.1,South East Stars,PJ Scholfield,BF Smith,FMK Morris,0,0,,,,,,"",""
+ball,2,5.2,South East Stars,PJ Scholfield,BF Smith,FMK Morris,0,0,,,,,,"",""
+ball,2,5.3,South East Stars,PJ Scholfield,BF Smith,FMK Morris,2,0,,,,,,"",""
+ball,2,5.4,South East Stars,PJ Scholfield,BF Smith,FMK Morris,1,0,,,,,,"",""
+ball,2,5.5,South East Stars,BF Smith,PJ Scholfield,FMK Morris,1,0,,,,,,"",""
+ball,2,5.6,South East Stars,PJ Scholfield,BF Smith,FMK Morris,0,0,,,,,,"",""
+ball,2,6.1,South East Stars,BF Smith,PJ Scholfield,ND Dattani,1,0,,,,,,"",""
+ball,2,6.2,South East Stars,PJ Scholfield,BF Smith,ND Dattani,0,1,1,,,,,"",""
+ball,2,6.3,South East Stars,PJ Scholfield,BF Smith,ND Dattani,1,0,,,,,,"",""
+ball,2,6.4,South East Stars,BF Smith,PJ Scholfield,ND Dattani,0,0,,,,,,"",""
+ball,2,6.5,South East Stars,BF Smith,PJ Scholfield,ND Dattani,1,0,,,,,,"",""
+ball,2,6.6,South East Stars,PJ Scholfield,BF Smith,ND Dattani,0,1,,,,1,,"",""
+ball,2,6.7,South East Stars,BF Smith,PJ Scholfield,ND Dattani,4,0,,,,,,"",""
+ball,2,7.1,South East Stars,PJ Scholfield,BF Smith,FMK Morris,1,0,,,,,,"",""
+ball,2,7.2,South East Stars,BF Smith,PJ Scholfield,FMK Morris,1,0,,,,,,"",""
+ball,2,7.3,South East Stars,PJ Scholfield,BF Smith,FMK Morris,0,0,,,,,,"",""
+ball,2,7.4,South East Stars,PJ Scholfield,BF Smith,FMK Morris,4,0,,,,,,"",""
+ball,2,7.5,South East Stars,PJ Scholfield,BF Smith,FMK Morris,1,0,,,,,,"",""
+ball,2,7.6,South East Stars,BF Smith,PJ Scholfield,FMK Morris,2,0,,,,,,"",""
+ball,2,8.1,South East Stars,PJ Scholfield,BF Smith,EL Lamb,0,1,1,,,,,"",""
+ball,2,8.2,South East Stars,PJ Scholfield,BF Smith,EL Lamb,0,1,1,,,,,"",""
+ball,2,8.3,South East Stars,PJ Scholfield,BF Smith,EL Lamb,1,0,,,,,,"",""
+ball,2,8.4,South East Stars,BF Smith,PJ Scholfield,EL Lamb,1,0,,,,,,"",""
+ball,2,8.5,South East Stars,PJ Scholfield,BF Smith,EL Lamb,2,0,,,,,,"",""
+ball,2,8.6,South East Stars,PJ Scholfield,BF Smith,EL Lamb,1,0,,,,,,"",""
+ball,2,8.7,South East Stars,BF Smith,PJ Scholfield,EL Lamb,0,0,,,,,,"",""
+ball,2,8.8,South East Stars,BF Smith,PJ Scholfield,EL Lamb,1,0,,,,,,"",""
+ball,2,9.1,South East Stars,BF Smith,PJ Scholfield,O Bell,4,0,,,,,,"",""
+ball,2,9.2,South East Stars,BF Smith,PJ Scholfield,O Bell,1,0,,,,,,"",""
+ball,2,9.3,South East Stars,PJ Scholfield,BF Smith,O Bell,1,0,,,,,,"",""
+ball,2,9.4,South East Stars,BF Smith,PJ Scholfield,O Bell,0,0,,,,,,bowled,BF Smith
+ball,2,9.5,South East Stars,PA Franklin,PJ Scholfield,O Bell,1,0,,,,,,"",""
+ball,2,9.6,South East Stars,PJ Scholfield,PA Franklin,O Bell,0,0,,,,,,lbw,PJ Scholfield
+ball,2,10.1,South East Stars,PA Franklin,A Cranstone,EL Lamb,0,0,,,,,,"",""
+ball,2,10.2,South East Stars,PA Franklin,A Cranstone,EL Lamb,3,0,,,,,,"",""
+ball,2,10.3,South East Stars,A Cranstone,PA Franklin,EL Lamb,0,0,,,,,,"",""
+ball,2,10.4,South East Stars,A Cranstone,PA Franklin,EL Lamb,0,1,1,,,,,"",""
+ball,2,10.5,South East Stars,A Cranstone,PA Franklin,EL Lamb,0,1,1,,,,,"",""
+ball,2,10.6,South East Stars,A Cranstone,PA Franklin,EL Lamb,0,1,1,,,,,"",""
+ball,2,10.7,South East Stars,A Cranstone,PA Franklin,EL Lamb,0,0,,,,,,"",""
+ball,2,10.8,South East Stars,A Cranstone,PA Franklin,EL Lamb,0,1,1,,,,,stumped,A Cranstone
+ball,2,10.9,South East Stars,R MacDonald-Gay,PA Franklin,EL Lamb,0,0,,,,,,caught,R MacDonald-Gay
+ball,2,10.10,South East Stars,NE Farrant,PA Franklin,EL Lamb,0,1,1,,,,,"",""
+ball,2,10.11,South East Stars,NE Farrant,PA Franklin,EL Lamb,1,0,,,,,,"",""
+ball,2,11.1,South East Stars,NE Farrant,PA Franklin,O Bell,2,0,,,,,,"",""
+ball,2,11.2,South East Stars,NE Farrant,PA Franklin,O Bell,0,0,,,,,,"",""
+ball,2,11.3,South East Stars,NE Farrant,PA Franklin,O Bell,2,0,,,,,,"",""
+ball,2,11.4,South East Stars,NE Farrant,PA Franklin,O Bell,0,0,,,,,,"",""
+ball,2,11.5,South East Stars,NE Farrant,PA Franklin,O Bell,1,0,,,,,,"",""
+ball,2,11.6,South East Stars,PA Franklin,NE Farrant,O Bell,4,0,,,,,,"",""
+ball,2,12.1,South East Stars,NE Farrant,PA Franklin,KL Cross,0,0,,,,,,caught and bowled,NE Farrant
+ball,2,12.2,South East Stars,K Moore,PA Franklin,KL Cross,1,0,,,,,,"",""
+ball,2,12.3,South East Stars,PA Franklin,K Moore,KL Cross,2,0,,,,,,"",""
+ball,2,12.4,South East Stars,PA Franklin,K Moore,KL Cross,2,0,,,,,,"",""
+ball,2,12.5,South East Stars,PA Franklin,K Moore,KL Cross,0,0,,,,,,"",""
+ball,2,12.6,South East Stars,PA Franklin,K Moore,KL Cross,0,0,,,,,,"",""
+ball,2,13.1,South East Stars,K Moore,PA Franklin,TG Norris,0,0,,,,,,"",""
+ball,2,13.2,South East Stars,K Moore,PA Franklin,TG Norris,0,1,1,,,,,"",""
+ball,2,13.3,South East Stars,K Moore,PA Franklin,TG Norris,0,0,,,,,,"",""
+ball,2,13.4,South East Stars,K Moore,PA Franklin,TG Norris,1,0,,,,,,"",""
+ball,2,13.5,South East Stars,PA Franklin,K Moore,TG Norris,0,0,,,,,,caught and bowled,PA Franklin
+ball,2,13.6,South East Stars,A Stonehouse,K Moore,TG Norris,0,4,,,4,,,"",""
+ball,2,13.7,South East Stars,A Stonehouse,K Moore,TG Norris,0,0,,,,,,"",""
+ball,2,14.1,South East Stars,K Moore,A Stonehouse,ND Dattani,0,0,,,,,,"",""
+ball,2,14.2,South East Stars,K Moore,A Stonehouse,ND Dattani,1,0,,,,,,"",""
+ball,2,14.3,South East Stars,A Stonehouse,K Moore,ND Dattani,0,0,,,,,,caught,A Stonehouse
+ball,2,14.4,South East Stars,CAE Hill,K Moore,ND Dattani,1,0,,,,,,"",""
+ball,2,14.5,South East Stars,K Moore,CAE Hill,ND Dattani,0,0,,,,,,"",""
+ball,2,14.6,South East Stars,K Moore,CAE Hill,ND Dattani,1,0,,,,,,"",""
+ball,2,15.1,South East Stars,K Moore,CAE Hill,FMK Morris,0,0,,,,,,"",""
+ball,2,15.2,South East Stars,K Moore,CAE Hill,FMK Morris,1,0,,,,,,"",""
+ball,2,15.3,South East Stars,CAE Hill,K Moore,FMK Morris,1,0,,,,,,"",""
+ball,2,15.4,South East Stars,K Moore,CAE Hill,FMK Morris,4,0,,,,,,"",""
+ball,2,15.5,South East Stars,K Moore,CAE Hill,FMK Morris,0,0,,,,,,"",""
+ball,2,15.6,South East Stars,K Moore,CAE Hill,FMK Morris,1,0,,,,,,"",""
+ball,2,16.1,South East Stars,K Moore,CAE Hill,ND Dattani,0,0,,,,,,bowled,K Moore
+ball,2,16.2,South East Stars,CAR Cooper,CAE Hill,ND Dattani,4,0,,,,,,"",""
+ball,2,16.3,South East Stars,CAR Cooper,CAE Hill,ND Dattani,0,0,,,,,,"",""
+ball,2,16.4,South East Stars,CAR Cooper,CAE Hill,ND Dattani,1,0,,,,,,"",""
+ball,2,16.5,South East Stars,CAE Hill,CAR Cooper,ND Dattani,0,0,,,,,,"",""
+ball,2,16.6,South East Stars,CAE Hill,CAR Cooper,ND Dattani,0,1,1,,,,,"",""
+ball,2,16.7,South East Stars,CAE Hill,CAR Cooper,ND Dattani,2,0,,,,,,"",""
+ball,2,17.1,South East Stars,CAR Cooper,CAE Hill,KL Cross,0,0,,,,,,"",""
+ball,2,17.2,South East Stars,CAR Cooper,CAE Hill,KL Cross,0,0,,,,,,"",""
+ball,2,17.3,South East Stars,CAR Cooper,CAE Hill,KL Cross,4,0,,,,,,"",""
+ball,2,17.4,South East Stars,CAR Cooper,CAE Hill,KL Cross,2,0,,,,,,"",""
+ball,2,17.5,South East Stars,CAR Cooper,CAE Hill,KL Cross,1,0,,,,,,"",""
+ball,2,17.6,South East Stars,CAE Hill,CAR Cooper,KL Cross,0,0,,,,,,caught,CAE Hill
+ball,2,18.1,South East Stars,CAR Cooper,D Gregory,ND Dattani,2,0,,,,,,"",""
+ball,2,18.2,South East Stars,CAR Cooper,D Gregory,ND Dattani,4,0,,,,,,"",""
+ball,2,18.3,South East Stars,CAR Cooper,D Gregory,ND Dattani,0,0,,,,,,"",""
+ball,2,18.4,South East Stars,CAR Cooper,D Gregory,ND Dattani,0,0,,,,,,"",""
+ball,2,18.5,South East Stars,CAR Cooper,D Gregory,ND Dattani,0,1,,,,1,,"",""
+ball,2,18.6,South East Stars,D Gregory,CAR Cooper,ND Dattani,0,0,,,,,,"",""
+ball,2,19.1,South East Stars,CAR Cooper,D Gregory,TG Norris,0,0,,,,,,"",""
+ball,2,19.2,South East Stars,CAR Cooper,D Gregory,TG Norris,0,0,,,,,,caught and bowled,CAR Cooper

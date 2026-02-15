@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Durham
+info,gender,male
+info,season,2021
+info,date,2021/06/13
+info,event,Vitality Blast
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,bat
+info,player_of_match,EJH Eckersley
+info,umpire,NGB Cook
+info,umpire,RJ Warren
+info,match_referee,Phil Whitticase
+info,winner,Durham
+info,winner_wickets,2
+info,player,Leicestershire,JP Inglis
+info,player,Leicestershire,S Steel
+info,player,Leicestershire,AM Lilley
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,BWM Mike
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,Naveen-ul-Haq
+info,player,Leicestershire,GT Griffiths
+info,player,Durham,DG Bedingham
+info,player,Durham,G Clark
+info,player,Durham,BA Raine
+info,player,Durham,CT Bancroft
+info,player,Durham,JTA Burnham
+info,player,Durham,EJH Eckersley
+info,player,Durham,P Coughlin
+info,player,Durham,BA Carse
+info,player,Durham,SG Borthwick
+info,player,Durham,L Trevaskis
+info,player,Durham,MJ Potts
+info,registry,people,AM Lilley,88a004e9
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BWM Mike,ed12fcd7
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,EJH Eckersley,d510d457
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GT Griffiths,79c7041c
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JTA Burnham,a4a2a0c0
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,NGB Cook,772fe461
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,P Coughlin,71440756
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RK Patel,4531f249
+info,registry,people,S Steel,de6c2c6e
+info,registry,people,SG Borthwick,51e1ed69
+ball,1,0.1,Leicestershire,JP Inglis,S Steel,L Trevaskis,1,0,,,,,,"",""
+ball,1,0.2,Leicestershire,S Steel,JP Inglis,L Trevaskis,0,0,,,,,,"",""
+ball,1,0.3,Leicestershire,S Steel,JP Inglis,L Trevaskis,2,0,,,,,,"",""
+ball,1,0.4,Leicestershire,S Steel,JP Inglis,L Trevaskis,4,0,,,,,,"",""
+ball,1,0.5,Leicestershire,S Steel,JP Inglis,L Trevaskis,0,0,,,,,,"",""
+ball,1,0.6,Leicestershire,S Steel,JP Inglis,L Trevaskis,0,0,,,,,,"",""
+ball,1,1.1,Leicestershire,JP Inglis,S Steel,MJ Potts,1,0,,,,,,"",""
+ball,1,1.2,Leicestershire,S Steel,JP Inglis,MJ Potts,0,0,,,,,,"",""
+ball,1,1.3,Leicestershire,S Steel,JP Inglis,MJ Potts,1,0,,,,,,"",""
+ball,1,1.4,Leicestershire,JP Inglis,S Steel,MJ Potts,4,0,,,,,,"",""
+ball,1,1.5,Leicestershire,JP Inglis,S Steel,MJ Potts,1,0,,,,,,"",""
+ball,1,1.6,Leicestershire,S Steel,JP Inglis,MJ Potts,4,0,,,,,,"",""
+ball,1,2.1,Leicestershire,JP Inglis,S Steel,P Coughlin,0,0,,,,,,"",""
+ball,1,2.2,Leicestershire,JP Inglis,S Steel,P Coughlin,0,0,,,,,,lbw,JP Inglis
+ball,1,2.3,Leicestershire,AM Lilley,S Steel,P Coughlin,0,0,,,,,,"",""
+ball,1,2.4,Leicestershire,AM Lilley,S Steel,P Coughlin,1,0,,,,,,"",""
+ball,1,2.5,Leicestershire,S Steel,AM Lilley,P Coughlin,0,0,,,,,,"",""
+ball,1,2.6,Leicestershire,S Steel,AM Lilley,P Coughlin,1,0,,,,,,"",""
+ball,1,3.1,Leicestershire,S Steel,AM Lilley,L Trevaskis,1,0,,,,,,"",""
+ball,1,3.2,Leicestershire,AM Lilley,S Steel,L Trevaskis,0,0,,,,,,"",""
+ball,1,3.3,Leicestershire,AM Lilley,S Steel,L Trevaskis,0,0,,,,,,"",""
+ball,1,3.4,Leicestershire,AM Lilley,S Steel,L Trevaskis,4,0,,,,,,"",""
+ball,1,3.5,Leicestershire,AM Lilley,S Steel,L Trevaskis,0,0,,,,,,"",""
+ball,1,3.6,Leicestershire,AM Lilley,S Steel,L Trevaskis,0,0,,,,,,"",""
+ball,1,4.1,Leicestershire,S Steel,AM Lilley,P Coughlin,1,0,,,,,,"",""
+ball,1,4.2,Leicestershire,AM Lilley,S Steel,P Coughlin,4,0,,,,,,"",""
+ball,1,4.3,Leicestershire,AM Lilley,S Steel,P Coughlin,1,0,,,,,,"",""
+ball,1,4.4,Leicestershire,S Steel,AM Lilley,P Coughlin,1,0,,,,,,"",""
+ball,1,4.5,Leicestershire,AM Lilley,S Steel,P Coughlin,0,0,,,,,,"",""
+ball,1,4.6,Leicestershire,AM Lilley,S Steel,P Coughlin,6,0,,,,,,"",""
+ball,1,5.1,Leicestershire,S Steel,AM Lilley,BA Carse,1,0,,,,,,"",""
+ball,1,5.2,Leicestershire,AM Lilley,S Steel,BA Carse,2,0,,,,,,"",""
+ball,1,5.3,Leicestershire,AM Lilley,S Steel,BA Carse,0,1,,,,1,,"",""
+ball,1,5.4,Leicestershire,S Steel,AM Lilley,BA Carse,6,0,,,,,,"",""
+ball,1,5.5,Leicestershire,S Steel,AM Lilley,BA Carse,4,0,,,,,,"",""
+ball,1,5.6,Leicestershire,S Steel,AM Lilley,BA Carse,0,0,,,,,,"",""
+ball,1,6.1,Leicestershire,AM Lilley,S Steel,SG Borthwick,0,0,,,,,,"",""
+ball,1,6.2,Leicestershire,AM Lilley,S Steel,SG Borthwick,0,0,,,,,,"",""
+ball,1,6.3,Leicestershire,AM Lilley,S Steel,SG Borthwick,6,0,,,,,,"",""
+ball,1,6.4,Leicestershire,AM Lilley,S Steel,SG Borthwick,6,0,,,,,,"",""
+ball,1,6.5,Leicestershire,AM Lilley,S Steel,SG Borthwick,0,0,,,,,,"",""
+ball,1,6.6,Leicestershire,AM Lilley,S Steel,SG Borthwick,0,0,,,,,,"",""
+ball,1,7.1,Leicestershire,S Steel,AM Lilley,BA Raine,2,0,,,,,,"",""
+ball,1,7.2,Leicestershire,S Steel,AM Lilley,BA Raine,1,0,,,,,,"",""
+ball,1,7.3,Leicestershire,AM Lilley,S Steel,BA Raine,1,0,,,,,,"",""
+ball,1,7.4,Leicestershire,S Steel,AM Lilley,BA Raine,1,0,,,,,,"",""
+ball,1,7.5,Leicestershire,AM Lilley,S Steel,BA Raine,0,0,,,,,,caught,AM Lilley
+ball,1,7.6,Leicestershire,S Steel,CN Ackermann,BA Raine,1,0,,,,,,"",""
+ball,1,8.1,Leicestershire,S Steel,CN Ackermann,BA Carse,0,0,,,,,,"",""
+ball,1,8.2,Leicestershire,S Steel,CN Ackermann,BA Carse,0,0,,,,,,"",""
+ball,1,8.3,Leicestershire,S Steel,CN Ackermann,BA Carse,0,0,,,,,,"",""
+ball,1,8.4,Leicestershire,S Steel,CN Ackermann,BA Carse,1,0,,,,,,"",""
+ball,1,8.5,Leicestershire,CN Ackermann,S Steel,BA Carse,4,0,,,,,,"",""
+ball,1,8.6,Leicestershire,CN Ackermann,S Steel,BA Carse,1,0,,,,,,"",""
+ball,1,9.1,Leicestershire,CN Ackermann,S Steel,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.2,Leicestershire,S Steel,CN Ackermann,L Trevaskis,0,1,1,,,,,"",""
+ball,1,9.3,Leicestershire,S Steel,CN Ackermann,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.4,Leicestershire,CN Ackermann,S Steel,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.5,Leicestershire,S Steel,CN Ackermann,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.6,Leicestershire,CN Ackermann,S Steel,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.7,Leicestershire,S Steel,CN Ackermann,L Trevaskis,1,0,,,,,,"",""
+ball,1,10.1,Leicestershire,S Steel,CN Ackermann,MJ Potts,1,0,,,,,,"",""
+ball,1,10.2,Leicestershire,CN Ackermann,S Steel,MJ Potts,1,0,,,,,,"",""
+ball,1,10.3,Leicestershire,S Steel,CN Ackermann,MJ Potts,0,0,,,,,,"",""
+ball,1,10.4,Leicestershire,S Steel,CN Ackermann,MJ Potts,0,0,,,,,,"",""
+ball,1,10.5,Leicestershire,S Steel,CN Ackermann,MJ Potts,1,0,,,,,,"",""
+ball,1,10.6,Leicestershire,CN Ackermann,S Steel,MJ Potts,1,0,,,,,,"",""
+ball,1,11.1,Leicestershire,CN Ackermann,S Steel,BA Raine,0,1,1,,,,,"",""
+ball,1,11.2,Leicestershire,CN Ackermann,S Steel,BA Raine,0,0,,,,,,bowled,CN Ackermann
+ball,1,11.3,Leicestershire,LJ Hill,S Steel,BA Raine,0,0,,,,,,"",""
+ball,1,11.4,Leicestershire,LJ Hill,S Steel,BA Raine,1,0,,,,,,"",""
+ball,1,11.5,Leicestershire,S Steel,LJ Hill,BA Raine,1,0,,,,,,"",""
+ball,1,11.6,Leicestershire,LJ Hill,S Steel,BA Raine,0,0,,,,,,"",""
+ball,1,11.7,Leicestershire,LJ Hill,S Steel,BA Raine,1,0,,,,,,"",""
+ball,1,12.1,Leicestershire,LJ Hill,S Steel,BA Carse,3,0,,,,,,"",""
+ball,1,12.2,Leicestershire,S Steel,LJ Hill,BA Carse,6,0,,,,,,"",""
+ball,1,12.3,Leicestershire,S Steel,LJ Hill,BA Carse,4,0,,,,,,"",""
+ball,1,12.4,Leicestershire,S Steel,LJ Hill,BA Carse,0,1,1,,,,,"",""
+ball,1,12.5,Leicestershire,S Steel,LJ Hill,BA Carse,1,0,,,,,,"",""
+ball,1,12.6,Leicestershire,LJ Hill,S Steel,BA Carse,1,0,,,,,,"",""
+ball,1,12.7,Leicestershire,S Steel,LJ Hill,BA Carse,4,0,,,,,,"",""
+ball,1,13.1,Leicestershire,LJ Hill,S Steel,L Trevaskis,0,5,5,,,,,"",""
+ball,1,13.2,Leicestershire,LJ Hill,S Steel,L Trevaskis,1,0,,,,,,"",""
+ball,1,13.3,Leicestershire,S Steel,LJ Hill,L Trevaskis,0,0,,,,,,lbw,S Steel
+ball,1,13.4,Leicestershire,RK Patel,LJ Hill,L Trevaskis,1,0,,,,,,"",""
+ball,1,13.5,Leicestershire,LJ Hill,RK Patel,L Trevaskis,1,0,,,,,,"",""
+ball,1,13.6,Leicestershire,RK Patel,LJ Hill,L Trevaskis,2,0,,,,,,"",""
+ball,1,13.7,Leicestershire,RK Patel,LJ Hill,L Trevaskis,1,0,,,,,,"",""
+ball,1,14.1,Leicestershire,RK Patel,LJ Hill,P Coughlin,1,0,,,,,,"",""
+ball,1,14.2,Leicestershire,LJ Hill,RK Patel,P Coughlin,4,0,,,,,,"",""
+ball,1,14.3,Leicestershire,LJ Hill,RK Patel,P Coughlin,1,0,,,,,,"",""
+ball,1,14.4,Leicestershire,RK Patel,LJ Hill,P Coughlin,1,0,,,,,,"",""
+ball,1,14.5,Leicestershire,LJ Hill,RK Patel,P Coughlin,4,0,,,,,,"",""
+ball,1,14.6,Leicestershire,LJ Hill,RK Patel,P Coughlin,4,0,,,,,,"",""
+ball,1,15.1,Leicestershire,RK Patel,LJ Hill,SG Borthwick,0,0,,,,,,"",""
+ball,1,15.2,Leicestershire,RK Patel,LJ Hill,SG Borthwick,2,0,,,,,,"",""
+ball,1,15.3,Leicestershire,RK Patel,LJ Hill,SG Borthwick,1,0,,,,,,"",""
+ball,1,15.4,Leicestershire,LJ Hill,RK Patel,SG Borthwick,4,0,,,,,,"",""
+ball,1,15.5,Leicestershire,LJ Hill,RK Patel,SG Borthwick,1,0,,,,,,"",""
+ball,1,15.6,Leicestershire,RK Patel,LJ Hill,SG Borthwick,0,0,,,,,,"",""
+ball,1,16.1,Leicestershire,LJ Hill,RK Patel,MJ Potts,0,0,,,,,,"",""
+ball,1,16.2,Leicestershire,LJ Hill,RK Patel,MJ Potts,1,0,,,,,,"",""
+ball,1,16.3,Leicestershire,RK Patel,LJ Hill,MJ Potts,6,0,,,,,,"",""
+ball,1,16.4,Leicestershire,RK Patel,LJ Hill,MJ Potts,1,0,,,,,,"",""
+ball,1,16.5,Leicestershire,LJ Hill,RK Patel,MJ Potts,1,0,,,,,,"",""
+ball,1,16.6,Leicestershire,RK Patel,LJ Hill,MJ Potts,1,0,,,,,,"",""
+ball,1,17.1,Leicestershire,RK Patel,LJ Hill,BA Raine,0,0,,,,,,caught,RK Patel
+ball,1,17.2,Leicestershire,LJ Hill,BWM Mike,BA Raine,1,0,,,,,,"",""
+ball,1,17.3,Leicestershire,BWM Mike,LJ Hill,BA Raine,1,0,,,,,,"",""
+ball,1,17.4,Leicestershire,LJ Hill,BWM Mike,BA Raine,0,1,,,,1,,"",""
+ball,1,17.5,Leicestershire,BWM Mike,LJ Hill,BA Raine,2,0,,,,,,"",""
+ball,1,17.6,Leicestershire,BWM Mike,LJ Hill,BA Raine,1,0,,,,,,"",""
+ball,1,18.1,Leicestershire,BWM Mike,LJ Hill,MJ Potts,1,0,,,,,,"",""
+ball,1,18.2,Leicestershire,LJ Hill,BWM Mike,MJ Potts,0,0,,,,,,caught,LJ Hill
+ball,1,18.3,Leicestershire,BWM Mike,LPJ Kimber,MJ Potts,0,0,,,,,,caught,BWM Mike
+ball,1,18.4,Leicestershire,LPJ Kimber,CF Parkinson,MJ Potts,0,0,,,,,,"",""
+ball,1,18.5,Leicestershire,LPJ Kimber,CF Parkinson,MJ Potts,0,0,,,,,,caught,LPJ Kimber
+ball,1,18.6,Leicestershire,CF Parkinson,Naveen-ul-Haq,MJ Potts,1,0,,,,,,"",""
+ball,1,19.1,Leicestershire,CF Parkinson,Naveen-ul-Haq,BA Raine,0,0,,,,,,"",""
+ball,1,19.2,Leicestershire,CF Parkinson,Naveen-ul-Haq,BA Raine,1,0,,,,,,"",""
+ball,1,19.3,Leicestershire,Naveen-ul-Haq,CF Parkinson,BA Raine,2,0,,,,,,"",""
+ball,1,19.4,Leicestershire,Naveen-ul-Haq,CF Parkinson,BA Raine,0,0,,,,,,run out,CF Parkinson
+ball,1,19.5,Leicestershire,Naveen-ul-Haq,GT Griffiths,BA Raine,1,0,,,,,,"",""
+ball,1,19.6,Leicestershire,GT Griffiths,Naveen-ul-Haq,BA Raine,0,1,,,1,,,"",""
+ball,2,0.1,Durham,DG Bedingham,G Clark,CF Parkinson,0,0,,,,,,"",""
+ball,2,0.2,Durham,DG Bedingham,G Clark,CF Parkinson,6,0,,,,,,"",""
+ball,2,0.3,Durham,DG Bedingham,G Clark,CF Parkinson,2,0,,,,,,"",""
+ball,2,0.4,Durham,DG Bedingham,G Clark,CF Parkinson,6,0,,,,,,"",""
+ball,2,0.5,Durham,DG Bedingham,G Clark,CF Parkinson,0,0,,,,,,"",""
+ball,2,0.6,Durham,DG Bedingham,G Clark,CF Parkinson,6,0,,,,,,"",""
+ball,2,1.1,Durham,G Clark,DG Bedingham,CN Ackermann,0,0,,,,,,"",""
+ball,2,1.2,Durham,G Clark,DG Bedingham,CN Ackermann,0,0,,,,,,"",""
+ball,2,1.3,Durham,G Clark,DG Bedingham,CN Ackermann,1,0,,,,,,"",""
+ball,2,1.4,Durham,DG Bedingham,G Clark,CN Ackermann,1,0,,,,,,"",""
+ball,2,1.5,Durham,G Clark,DG Bedingham,CN Ackermann,0,0,,,,,,caught,G Clark
+ball,2,1.6,Durham,DG Bedingham,BA Raine,CN Ackermann,0,1,1,,,,,"",""
+ball,2,1.7,Durham,DG Bedingham,BA Raine,CN Ackermann,1,0,,,,,,"",""
+ball,2,2.1,Durham,DG Bedingham,BA Raine,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,2.2,Durham,BA Raine,DG Bedingham,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,2.3,Durham,BA Raine,DG Bedingham,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,2.4,Durham,BA Raine,DG Bedingham,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,2.5,Durham,DG Bedingham,BA Raine,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,2.6,Durham,DG Bedingham,BA Raine,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,3.1,Durham,DG Bedingham,BA Raine,CN Ackermann,1,0,,,,,,"",""
+ball,2,3.2,Durham,BA Raine,DG Bedingham,CN Ackermann,6,0,,,,,,"",""
+ball,2,3.3,Durham,BA Raine,DG Bedingham,CN Ackermann,1,0,,,,,,"",""
+ball,2,3.4,Durham,DG Bedingham,BA Raine,CN Ackermann,0,0,,,,,,"",""
+ball,2,3.5,Durham,DG Bedingham,BA Raine,CN Ackermann,1,0,,,,,,"",""
+ball,2,3.6,Durham,BA Raine,DG Bedingham,CN Ackermann,1,0,,,,,,"",""
+ball,2,4.1,Durham,BA Raine,DG Bedingham,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,4.2,Durham,DG Bedingham,BA Raine,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,4.3,Durham,DG Bedingham,BA Raine,Naveen-ul-Haq,6,0,,,,,,"",""
+ball,2,4.4,Durham,DG Bedingham,BA Raine,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,4.5,Durham,DG Bedingham,BA Raine,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,4.6,Durham,DG Bedingham,BA Raine,Naveen-ul-Haq,0,0,,,,,,caught,DG Bedingham
+ball,2,5.1,Durham,CT Bancroft,BA Raine,GT Griffiths,0,0,,,,,,"",""
+ball,2,5.2,Durham,CT Bancroft,BA Raine,GT Griffiths,4,0,,,,,,"",""
+ball,2,5.3,Durham,CT Bancroft,BA Raine,GT Griffiths,0,0,,,,,,"",""
+ball,2,5.4,Durham,CT Bancroft,BA Raine,GT Griffiths,1,0,,,,,,"",""
+ball,2,5.5,Durham,BA Raine,CT Bancroft,GT Griffiths,0,0,,,,,,"",""
+ball,2,5.6,Durham,BA Raine,CT Bancroft,GT Griffiths,1,0,,,,,,"",""
+ball,2,6.1,Durham,BA Raine,CT Bancroft,AM Lilley,0,1,1,,,,,"",""
+ball,2,6.2,Durham,BA Raine,CT Bancroft,AM Lilley,1,0,,,,,,"",""
+ball,2,6.3,Durham,CT Bancroft,BA Raine,AM Lilley,1,0,,,,,,"",""
+ball,2,6.4,Durham,BA Raine,CT Bancroft,AM Lilley,2,0,,,,,,"",""
+ball,2,6.5,Durham,BA Raine,CT Bancroft,AM Lilley,0,0,,,,,,"",""
+ball,2,6.6,Durham,BA Raine,CT Bancroft,AM Lilley,1,0,,,,,,"",""
+ball,2,6.7,Durham,CT Bancroft,BA Raine,AM Lilley,1,0,,,,,,"",""
+ball,2,7.1,Durham,CT Bancroft,BA Raine,CN Ackermann,0,0,,,,,,run out,CT Bancroft
+ball,2,7.2,Durham,BA Raine,JTA Burnham,CN Ackermann,0,0,,,,,,bowled,BA Raine
+ball,2,7.3,Durham,EJH Eckersley,JTA Burnham,CN Ackermann,0,0,,,,,,"",""
+ball,2,7.4,Durham,EJH Eckersley,JTA Burnham,CN Ackermann,0,0,,,,,,"",""
+ball,2,7.5,Durham,EJH Eckersley,JTA Burnham,CN Ackermann,0,0,,,,,,"",""
+ball,2,7.6,Durham,EJH Eckersley,JTA Burnham,CN Ackermann,1,0,,,,,,"",""
+ball,2,8.1,Durham,EJH Eckersley,JTA Burnham,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.2,Durham,JTA Burnham,EJH Eckersley,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.3,Durham,EJH Eckersley,JTA Burnham,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.4,Durham,JTA Burnham,EJH Eckersley,CF Parkinson,0,0,,,,,,"",""
+ball,2,8.5,Durham,JTA Burnham,EJH Eckersley,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.6,Durham,EJH Eckersley,JTA Burnham,CF Parkinson,0,0,,,,,,"",""
+ball,2,9.1,Durham,JTA Burnham,EJH Eckersley,AM Lilley,0,0,,,,,,"",""
+ball,2,9.2,Durham,JTA Burnham,EJH Eckersley,AM Lilley,0,0,,,,,,caught,JTA Burnham
+ball,2,9.3,Durham,P Coughlin,EJH Eckersley,AM Lilley,2,0,,,,,,"",""
+ball,2,9.4,Durham,P Coughlin,EJH Eckersley,AM Lilley,1,0,,,,,,"",""
+ball,2,9.5,Durham,EJH Eckersley,P Coughlin,AM Lilley,5,0,,,,,,"",""
+ball,2,9.6,Durham,P Coughlin,EJH Eckersley,AM Lilley,0,0,,,,,,lbw,P Coughlin
+ball,2,10.1,Durham,EJH Eckersley,BA Carse,CF Parkinson,1,0,,,,,,"",""
+ball,2,10.2,Durham,BA Carse,EJH Eckersley,CF Parkinson,1,0,,,,,,"",""
+ball,2,10.3,Durham,EJH Eckersley,BA Carse,CF Parkinson,4,0,,,,,,"",""
+ball,2,10.4,Durham,EJH Eckersley,BA Carse,CF Parkinson,1,0,,,,,,"",""
+ball,2,10.5,Durham,BA Carse,EJH Eckersley,CF Parkinson,0,0,,,,,,"",""
+ball,2,10.6,Durham,BA Carse,EJH Eckersley,CF Parkinson,0,0,,,,,,caught,BA Carse
+ball,2,11.1,Durham,EJH Eckersley,SG Borthwick,AM Lilley,2,0,,,,,,"",""
+ball,2,11.2,Durham,EJH Eckersley,SG Borthwick,AM Lilley,2,0,,,,,,"",""
+ball,2,11.3,Durham,EJH Eckersley,SG Borthwick,AM Lilley,0,0,,,,,,"",""
+ball,2,11.4,Durham,EJH Eckersley,SG Borthwick,AM Lilley,1,0,,,,,,"",""
+ball,2,11.5,Durham,SG Borthwick,EJH Eckersley,AM Lilley,1,0,,,,,,"",""
+ball,2,11.6,Durham,EJH Eckersley,SG Borthwick,AM Lilley,0,0,,,,,,"",""
+ball,2,12.1,Durham,SG Borthwick,EJH Eckersley,BWM Mike,4,0,,,,,,"",""
+ball,2,12.2,Durham,SG Borthwick,EJH Eckersley,BWM Mike,2,0,,,,,,"",""
+ball,2,12.3,Durham,SG Borthwick,EJH Eckersley,BWM Mike,1,0,,,,,,"",""
+ball,2,12.4,Durham,EJH Eckersley,SG Borthwick,BWM Mike,4,0,,,,,,"",""
+ball,2,12.5,Durham,EJH Eckersley,SG Borthwick,BWM Mike,1,0,,,,,,"",""
+ball,2,12.6,Durham,SG Borthwick,EJH Eckersley,BWM Mike,4,0,,,,,,"",""
+ball,2,13.1,Durham,EJH Eckersley,SG Borthwick,AM Lilley,1,0,,,,,,"",""
+ball,2,13.2,Durham,SG Borthwick,EJH Eckersley,AM Lilley,0,0,,,,,,lbw,SG Borthwick
+ball,2,13.3,Durham,L Trevaskis,EJH Eckersley,AM Lilley,0,0,,,,,,"",""
+ball,2,13.4,Durham,L Trevaskis,EJH Eckersley,AM Lilley,1,0,,,,,,"",""
+ball,2,13.5,Durham,EJH Eckersley,L Trevaskis,AM Lilley,2,0,,,,,,"",""
+ball,2,13.6,Durham,EJH Eckersley,L Trevaskis,AM Lilley,1,0,,,,,,"",""
+ball,2,14.1,Durham,EJH Eckersley,L Trevaskis,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.2,Durham,L Trevaskis,EJH Eckersley,CF Parkinson,0,0,,,,,,"",""
+ball,2,14.3,Durham,L Trevaskis,EJH Eckersley,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.4,Durham,EJH Eckersley,L Trevaskis,CF Parkinson,0,0,,,,,,"",""
+ball,2,14.5,Durham,EJH Eckersley,L Trevaskis,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.6,Durham,L Trevaskis,EJH Eckersley,CF Parkinson,1,0,,,,,,"",""
+ball,2,15.1,Durham,L Trevaskis,EJH Eckersley,CN Ackermann,0,0,,,,,,"",""
+ball,2,15.2,Durham,L Trevaskis,EJH Eckersley,CN Ackermann,1,0,,,,,,"",""
+ball,2,15.3,Durham,EJH Eckersley,L Trevaskis,CN Ackermann,1,0,,,,,,"",""
+ball,2,15.4,Durham,L Trevaskis,EJH Eckersley,CN Ackermann,1,0,,,,,,"",""
+ball,2,15.5,Durham,EJH Eckersley,L Trevaskis,CN Ackermann,0,0,,,,,,"",""
+ball,2,15.6,Durham,EJH Eckersley,L Trevaskis,CN Ackermann,1,0,,,,,,"",""
+ball,2,16.1,Durham,EJH Eckersley,L Trevaskis,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,16.2,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,16.3,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,16.4,Durham,EJH Eckersley,L Trevaskis,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,16.5,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,16.6,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,0,2,,2,,,,"",""
+ball,2,16.7,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,17.1,Durham,EJH Eckersley,L Trevaskis,GT Griffiths,2,0,,,,,,"",""
+ball,2,17.2,Durham,EJH Eckersley,L Trevaskis,GT Griffiths,1,0,,,,,,"",""
+ball,2,17.3,Durham,L Trevaskis,EJH Eckersley,GT Griffiths,4,0,,,,,,"",""
+ball,2,17.4,Durham,L Trevaskis,EJH Eckersley,GT Griffiths,6,0,,,,,,"",""
+ball,2,17.5,Durham,L Trevaskis,EJH Eckersley,GT Griffiths,1,0,,,,,,"",""
+ball,2,17.6,Durham,EJH Eckersley,L Trevaskis,GT Griffiths,1,0,,,,,,"",""
+ball,2,18.1,Durham,EJH Eckersley,L Trevaskis,Naveen-ul-Haq,1,2,,2,,,,"",""
+ball,2,18.2,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,18.3,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,18.4,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,0,1,,,,1,,"",""
+ball,2,18.5,Durham,EJH Eckersley,L Trevaskis,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,18.6,Durham,L Trevaskis,EJH Eckersley,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,18.7,Durham,EJH Eckersley,L Trevaskis,Naveen-ul-Haq,4,2,,2,,,,"",""
+ball,2,18.8,Durham,EJH Eckersley,L Trevaskis,BWM Mike,6,0,,,,,,"",""

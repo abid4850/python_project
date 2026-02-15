@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dubai Capitals
+info,team,Abu Dhabi Knight Riders
+info,gender,male
+info,season,2023/24
+info,date,2024/02/13
+info,event,International League T20
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Abu Dhabi Knight Riders
+info,toss_decision,field
+info,player_of_match,Sikandar Raza
+info,umpire,Aleem Dar
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,Shiju Sam
+info,tv_umpire,P Wilson
+info,match_referee,SJA Taufel
+info,winner,Dubai Capitals
+info,winner_runs,85
+info,player,Dubai Capitals,T Banton
+info,player,Dubai Capitals,MDE Holden
+info,player,Dubai Capitals,JL du Plooy
+info,player,Dubai Capitals,TB Abell
+info,player,Dubai Capitals,SW Billings
+info,player,Dubai Capitals,Sikandar Raza
+info,player,Dubai Capitals,MD Shanaka
+info,player,Dubai Capitals,SC Kuggeleijn
+info,player,Dubai Capitals,OP Stone
+info,player,Dubai Capitals,Akif Raja
+info,player,Dubai Capitals,Haider Ali
+info,player,Dubai Capitals,Zahir Khan
+info,player,Abu Dhabi Knight Riders,JJ Roy
+info,player,Abu Dhabi Knight Riders,MS Pepper
+info,player,Abu Dhabi Knight Riders,JM Clarke
+info,player,Abu Dhabi Knight Riders,SR Hain
+info,player,Abu Dhabi Knight Riders,A Sharafu
+info,player,Abu Dhabi Knight Riders,LJ Evans
+info,player,Abu Dhabi Knight Riders,DJ Willey
+info,player,Abu Dhabi Knight Riders,FA Allen
+info,player,Abu Dhabi Knight Riders,RS Bopara
+info,player,Abu Dhabi Knight Riders,SP Narine
+info,player,Abu Dhabi Knight Riders,Sabir Ali
+info,player,Abu Dhabi Knight Riders,J Little
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,DJ Willey,7f048519
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,Haider Ali,dd572696
+info,registry,people,J Little,9061a703
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,OP Stone,3f659464
+info,registry,people,P Wilson,68304a36
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SR Hain,67b9536c
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Sabir Ali,2a04400b
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,Zahir Khan,786b7fe8
+ball,1,0.1,Dubai Capitals,T Banton,MDE Holden,DJ Willey,4,0,,,,,,"",""
+ball,1,0.2,Dubai Capitals,T Banton,MDE Holden,DJ Willey,0,0,,,,,,"",""
+ball,1,0.3,Dubai Capitals,T Banton,MDE Holden,DJ Willey,1,0,,,,,,"",""
+ball,1,0.4,Dubai Capitals,MDE Holden,T Banton,DJ Willey,0,0,,,,,,"",""
+ball,1,0.5,Dubai Capitals,MDE Holden,T Banton,DJ Willey,0,0,,,,,,"",""
+ball,1,0.6,Dubai Capitals,MDE Holden,T Banton,DJ Willey,0,0,,,,,,"",""
+ball,1,1.1,Dubai Capitals,T Banton,MDE Holden,J Little,0,0,,,,,,"",""
+ball,1,1.2,Dubai Capitals,T Banton,MDE Holden,J Little,0,0,,,,,,"",""
+ball,1,1.3,Dubai Capitals,T Banton,MDE Holden,J Little,1,0,,,,,,"",""
+ball,1,1.4,Dubai Capitals,MDE Holden,T Banton,J Little,1,0,,,,,,"",""
+ball,1,1.5,Dubai Capitals,T Banton,MDE Holden,J Little,4,0,,,,,,"",""
+ball,1,1.6,Dubai Capitals,T Banton,MDE Holden,J Little,4,0,,,,,,"",""
+ball,1,2.1,Dubai Capitals,MDE Holden,T Banton,DJ Willey,0,0,,,,,,caught,MDE Holden
+ball,1,2.2,Dubai Capitals,JL du Plooy,T Banton,DJ Willey,0,0,,,,,,"",""
+ball,1,2.3,Dubai Capitals,JL du Plooy,T Banton,DJ Willey,0,0,,,,,,"",""
+ball,1,2.4,Dubai Capitals,JL du Plooy,T Banton,DJ Willey,4,0,,,,,,"",""
+ball,1,2.5,Dubai Capitals,JL du Plooy,T Banton,DJ Willey,0,0,,,,,,"",""
+ball,1,2.6,Dubai Capitals,JL du Plooy,T Banton,DJ Willey,0,1,1,,,,,"",""
+ball,1,2.7,Dubai Capitals,JL du Plooy,T Banton,DJ Willey,1,0,,,,,,"",""
+ball,1,3.1,Dubai Capitals,JL du Plooy,T Banton,Sabir Ali,0,0,,,,,,"",""
+ball,1,3.2,Dubai Capitals,JL du Plooy,T Banton,Sabir Ali,4,0,,,,,,"",""
+ball,1,3.3,Dubai Capitals,JL du Plooy,T Banton,Sabir Ali,0,4,,,,4,,"",""
+ball,1,3.4,Dubai Capitals,JL du Plooy,T Banton,Sabir Ali,0,0,,,,,,bowled,JL du Plooy
+ball,1,3.5,Dubai Capitals,TB Abell,T Banton,Sabir Ali,2,0,,,,,,"",""
+ball,1,3.6,Dubai Capitals,TB Abell,T Banton,Sabir Ali,0,0,,,,,,"",""
+ball,1,4.1,Dubai Capitals,T Banton,TB Abell,DJ Willey,4,0,,,,,,"",""
+ball,1,4.2,Dubai Capitals,T Banton,TB Abell,DJ Willey,4,0,,,,,,"",""
+ball,1,4.3,Dubai Capitals,T Banton,TB Abell,DJ Willey,0,0,,,,,,"",""
+ball,1,4.4,Dubai Capitals,T Banton,TB Abell,DJ Willey,0,0,,,,,,"",""
+ball,1,4.5,Dubai Capitals,T Banton,TB Abell,DJ Willey,0,0,,,,,,"",""
+ball,1,4.6,Dubai Capitals,T Banton,TB Abell,DJ Willey,0,0,,,,,,"",""
+ball,1,5.1,Dubai Capitals,TB Abell,T Banton,J Little,4,0,,,,,,"",""
+ball,1,5.2,Dubai Capitals,TB Abell,T Banton,J Little,4,0,,,,,,"",""
+ball,1,5.3,Dubai Capitals,TB Abell,T Banton,J Little,0,0,,,,,,"",""
+ball,1,5.4,Dubai Capitals,TB Abell,T Banton,J Little,0,0,,,,,,"",""
+ball,1,5.5,Dubai Capitals,TB Abell,T Banton,J Little,1,0,,,,,,"",""
+ball,1,5.6,Dubai Capitals,T Banton,TB Abell,J Little,1,0,,,,,,"",""
+ball,1,6.1,Dubai Capitals,T Banton,TB Abell,SP Narine,1,0,,,,,,"",""
+ball,1,6.2,Dubai Capitals,TB Abell,T Banton,SP Narine,1,0,,,,,,"",""
+ball,1,6.3,Dubai Capitals,T Banton,TB Abell,SP Narine,4,0,,,,,,"",""
+ball,1,6.4,Dubai Capitals,T Banton,TB Abell,SP Narine,4,0,,,,,,"",""
+ball,1,6.5,Dubai Capitals,T Banton,TB Abell,SP Narine,1,0,,,,,,"",""
+ball,1,6.6,Dubai Capitals,TB Abell,T Banton,SP Narine,0,0,,,,,,"",""
+ball,1,7.1,Dubai Capitals,T Banton,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,1,7.2,Dubai Capitals,TB Abell,T Banton,RS Bopara,1,0,,,,,,"",""
+ball,1,7.3,Dubai Capitals,T Banton,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,1,7.4,Dubai Capitals,TB Abell,T Banton,RS Bopara,4,0,,,,,,"",""
+ball,1,7.5,Dubai Capitals,TB Abell,T Banton,RS Bopara,1,0,,,,,,"",""
+ball,1,7.6,Dubai Capitals,T Banton,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,1,8.1,Dubai Capitals,T Banton,TB Abell,SP Narine,1,0,,,,,,"",""
+ball,1,8.2,Dubai Capitals,TB Abell,T Banton,SP Narine,0,0,,,,,,"",""
+ball,1,8.3,Dubai Capitals,TB Abell,T Banton,SP Narine,1,0,,,,,,"",""
+ball,1,8.4,Dubai Capitals,T Banton,TB Abell,SP Narine,1,0,,,,,,"",""
+ball,1,8.5,Dubai Capitals,TB Abell,T Banton,SP Narine,1,0,,,,,,"",""
+ball,1,8.6,Dubai Capitals,T Banton,TB Abell,SP Narine,1,0,,,,,,"",""
+ball,1,9.1,Dubai Capitals,T Banton,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,1,9.2,Dubai Capitals,TB Abell,T Banton,RS Bopara,4,0,,,,,,"",""
+ball,1,9.3,Dubai Capitals,TB Abell,T Banton,RS Bopara,2,0,,,,,,"",""
+ball,1,9.4,Dubai Capitals,TB Abell,T Banton,RS Bopara,0,1,1,,,,,"",""
+ball,1,9.5,Dubai Capitals,TB Abell,T Banton,RS Bopara,4,0,,,,,,"",""
+ball,1,9.6,Dubai Capitals,TB Abell,T Banton,RS Bopara,1,0,,,,,,"",""
+ball,1,9.7,Dubai Capitals,T Banton,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,1,10.1,Dubai Capitals,T Banton,TB Abell,FA Allen,2,0,,,,,,"",""
+ball,1,10.2,Dubai Capitals,T Banton,TB Abell,FA Allen,1,0,,,,,,"",""
+ball,1,10.3,Dubai Capitals,TB Abell,T Banton,FA Allen,1,0,,,,,,"",""
+ball,1,10.4,Dubai Capitals,T Banton,TB Abell,FA Allen,0,0,,,,,,"",""
+ball,1,10.5,Dubai Capitals,T Banton,TB Abell,FA Allen,0,0,,,,,,bowled,T Banton
+ball,1,10.6,Dubai Capitals,SW Billings,TB Abell,FA Allen,1,0,,,,,,"",""
+ball,1,11.1,Dubai Capitals,SW Billings,TB Abell,SP Narine,1,0,,,,,,"",""
+ball,1,11.2,Dubai Capitals,TB Abell,SW Billings,SP Narine,1,0,,,,,,"",""
+ball,1,11.3,Dubai Capitals,SW Billings,TB Abell,SP Narine,0,0,,,,,,"",""
+ball,1,11.4,Dubai Capitals,SW Billings,TB Abell,SP Narine,1,0,,,,,,"",""
+ball,1,11.5,Dubai Capitals,TB Abell,SW Billings,SP Narine,0,0,,,,,,"",""
+ball,1,11.6,Dubai Capitals,TB Abell,SW Billings,SP Narine,1,0,,,,,,"",""
+ball,1,12.1,Dubai Capitals,TB Abell,SW Billings,FA Allen,0,0,,,,,,"",""
+ball,1,12.2,Dubai Capitals,TB Abell,SW Billings,FA Allen,1,0,,,,,,"",""
+ball,1,12.3,Dubai Capitals,SW Billings,TB Abell,FA Allen,1,0,,,,,,"",""
+ball,1,12.4,Dubai Capitals,TB Abell,SW Billings,FA Allen,4,0,,,,,,"",""
+ball,1,12.5,Dubai Capitals,TB Abell,SW Billings,FA Allen,1,0,,,,,,"",""
+ball,1,12.6,Dubai Capitals,SW Billings,TB Abell,FA Allen,1,0,,,,,,"",""
+ball,1,13.1,Dubai Capitals,SW Billings,TB Abell,SP Narine,2,0,,,,,,"",""
+ball,1,13.2,Dubai Capitals,SW Billings,TB Abell,SP Narine,6,0,,,,,,"",""
+ball,1,13.3,Dubai Capitals,SW Billings,TB Abell,SP Narine,1,0,,,,,,"",""
+ball,1,13.4,Dubai Capitals,TB Abell,SW Billings,SP Narine,1,0,,,,,,"",""
+ball,1,13.5,Dubai Capitals,SW Billings,TB Abell,SP Narine,0,0,,,,,,"",""
+ball,1,13.6,Dubai Capitals,SW Billings,TB Abell,SP Narine,1,0,,,,,,"",""
+ball,1,14.1,Dubai Capitals,SW Billings,TB Abell,Sabir Ali,1,0,,,,,,"",""
+ball,1,14.2,Dubai Capitals,TB Abell,SW Billings,Sabir Ali,0,0,,,,,,bowled,TB Abell
+ball,1,14.3,Dubai Capitals,Sikandar Raza,SW Billings,Sabir Ali,2,0,,,,,,"",""
+ball,1,14.4,Dubai Capitals,Sikandar Raza,SW Billings,Sabir Ali,4,0,,,,,,"",""
+ball,1,14.5,Dubai Capitals,Sikandar Raza,SW Billings,Sabir Ali,3,0,,,,,,"",""
+ball,1,14.6,Dubai Capitals,SW Billings,Sikandar Raza,Sabir Ali,1,0,,,,,,"",""
+ball,1,15.1,Dubai Capitals,SW Billings,Sikandar Raza,J Little,1,0,,,,,,"",""
+ball,1,15.2,Dubai Capitals,Sikandar Raza,SW Billings,J Little,1,0,,,,,,"",""
+ball,1,15.3,Dubai Capitals,SW Billings,Sikandar Raza,J Little,3,0,,,,,,"",""
+ball,1,15.4,Dubai Capitals,Sikandar Raza,SW Billings,J Little,0,0,,,,,,"",""
+ball,1,15.5,Dubai Capitals,Sikandar Raza,SW Billings,J Little,1,0,,,,,,"",""
+ball,1,15.6,Dubai Capitals,SW Billings,Sikandar Raza,J Little,1,0,,,,,,"",""
+ball,1,16.1,Dubai Capitals,SW Billings,Sikandar Raza,FA Allen,1,0,,,,,,"",""
+ball,1,16.2,Dubai Capitals,Sikandar Raza,SW Billings,FA Allen,1,0,,,,,,"",""
+ball,1,16.3,Dubai Capitals,SW Billings,Sikandar Raza,FA Allen,2,0,,,,,,"",""
+ball,1,16.4,Dubai Capitals,SW Billings,Sikandar Raza,FA Allen,1,0,,,,,,"",""
+ball,1,16.5,Dubai Capitals,Sikandar Raza,SW Billings,FA Allen,4,0,,,,,,"",""
+ball,1,16.6,Dubai Capitals,Sikandar Raza,SW Billings,FA Allen,2,0,,,,,,"",""
+ball,1,17.1,Dubai Capitals,SW Billings,Sikandar Raza,DJ Willey,3,0,,,,,,"",""
+ball,1,17.2,Dubai Capitals,Sikandar Raza,SW Billings,DJ Willey,4,0,,,,,,"",""
+ball,1,17.3,Dubai Capitals,Sikandar Raza,SW Billings,DJ Willey,0,0,,,,,,"",""
+ball,1,17.4,Dubai Capitals,Sikandar Raza,SW Billings,DJ Willey,4,0,,,,,,"",""
+ball,1,17.5,Dubai Capitals,Sikandar Raza,SW Billings,DJ Willey,1,0,,,,,,"",""
+ball,1,17.6,Dubai Capitals,SW Billings,Sikandar Raza,DJ Willey,1,0,,,,,,"",""
+ball,1,18.1,Dubai Capitals,SW Billings,Sikandar Raza,Sabir Ali,6,0,,,,,,"",""
+ball,1,18.2,Dubai Capitals,SW Billings,Sikandar Raza,Sabir Ali,4,0,,,,,,"",""
+ball,1,18.3,Dubai Capitals,SW Billings,Sikandar Raza,Sabir Ali,4,0,,,,,,"",""
+ball,1,18.4,Dubai Capitals,SW Billings,Sikandar Raza,Sabir Ali,1,0,,,,,,"",""
+ball,1,18.5,Dubai Capitals,Sikandar Raza,SW Billings,Sabir Ali,2,0,,,,,,"",""
+ball,1,18.6,Dubai Capitals,Sikandar Raza,SW Billings,Sabir Ali,1,0,,,,,,"",""
+ball,1,19.1,Dubai Capitals,Sikandar Raza,SW Billings,J Little,0,0,,,,,,"",""
+ball,1,19.2,Dubai Capitals,Sikandar Raza,SW Billings,J Little,6,0,,,,,,"",""
+ball,1,19.3,Dubai Capitals,Sikandar Raza,SW Billings,J Little,4,0,,,,,,"",""
+ball,1,19.4,Dubai Capitals,Sikandar Raza,SW Billings,J Little,0,0,,,,,,caught,Sikandar Raza
+ball,1,19.5,Dubai Capitals,MD Shanaka,SW Billings,J Little,0,1,,,1,,,"",""
+ball,1,19.6,Dubai Capitals,SW Billings,MD Shanaka,J Little,1,0,,,,,,"",""
+ball,2,0.1,Abu Dhabi Knight Riders,JJ Roy,MS Pepper,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,0.2,Abu Dhabi Knight Riders,JJ Roy,MS Pepper,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,0.3,Abu Dhabi Knight Riders,JJ Roy,MS Pepper,SC Kuggeleijn,0,0,,,,,,lbw,JJ Roy
+ball,2,0.4,Abu Dhabi Knight Riders,JM Clarke,MS Pepper,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,0.5,Abu Dhabi Knight Riders,JM Clarke,MS Pepper,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,0.6,Abu Dhabi Knight Riders,MS Pepper,JM Clarke,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,1.1,Abu Dhabi Knight Riders,MS Pepper,JM Clarke,OP Stone,0,0,,,,,,"",""
+ball,2,1.2,Abu Dhabi Knight Riders,MS Pepper,JM Clarke,OP Stone,0,0,,,,,,"",""
+ball,2,1.3,Abu Dhabi Knight Riders,MS Pepper,JM Clarke,OP Stone,0,0,,,,,,"",""
+ball,2,1.4,Abu Dhabi Knight Riders,MS Pepper,JM Clarke,OP Stone,0,0,,,,,,"",""
+ball,2,1.5,Abu Dhabi Knight Riders,MS Pepper,JM Clarke,OP Stone,4,0,,,,,,"",""
+ball,2,1.6,Abu Dhabi Knight Riders,MS Pepper,JM Clarke,OP Stone,0,0,,,,,,caught,MS Pepper
+ball,2,2.1,Abu Dhabi Knight Riders,JM Clarke,SR Hain,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,2.2,Abu Dhabi Knight Riders,JM Clarke,SR Hain,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,2.3,Abu Dhabi Knight Riders,JM Clarke,SR Hain,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,2.4,Abu Dhabi Knight Riders,SR Hain,JM Clarke,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,2.5,Abu Dhabi Knight Riders,JM Clarke,SR Hain,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,2.6,Abu Dhabi Knight Riders,JM Clarke,SR Hain,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,2,2.7,Abu Dhabi Knight Riders,JM Clarke,SR Hain,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,3.1,Abu Dhabi Knight Riders,SR Hain,JM Clarke,OP Stone,0,0,,,,,,"",""
+ball,2,3.2,Abu Dhabi Knight Riders,SR Hain,JM Clarke,OP Stone,4,0,,,,,,"",""
+ball,2,3.3,Abu Dhabi Knight Riders,SR Hain,JM Clarke,OP Stone,0,0,,,,,,"",""
+ball,2,3.4,Abu Dhabi Knight Riders,SR Hain,JM Clarke,OP Stone,4,0,,,,,,"",""
+ball,2,3.5,Abu Dhabi Knight Riders,SR Hain,JM Clarke,OP Stone,1,0,,,,,,"",""
+ball,2,3.6,Abu Dhabi Knight Riders,JM Clarke,SR Hain,OP Stone,1,0,,,,,,"",""
+ball,2,4.1,Abu Dhabi Knight Riders,JM Clarke,SR Hain,SC Kuggeleijn,2,0,,,,,,"",""
+ball,2,4.2,Abu Dhabi Knight Riders,JM Clarke,SR Hain,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,4.3,Abu Dhabi Knight Riders,JM Clarke,SR Hain,SC Kuggeleijn,0,0,,,,,,caught,JM Clarke
+ball,2,4.4,Abu Dhabi Knight Riders,A Sharafu,SR Hain,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,4.5,Abu Dhabi Knight Riders,A Sharafu,SR Hain,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,4.6,Abu Dhabi Knight Riders,A Sharafu,SR Hain,SC Kuggeleijn,0,0,,,,,,caught,A Sharafu
+ball,2,5.1,Abu Dhabi Knight Riders,SR Hain,LJ Evans,Haider Ali,4,0,,,,,,"",""
+ball,2,5.2,Abu Dhabi Knight Riders,SR Hain,LJ Evans,Haider Ali,0,0,,,,,,"",""
+ball,2,5.3,Abu Dhabi Knight Riders,SR Hain,LJ Evans,Haider Ali,0,0,,,,,,"",""
+ball,2,5.4,Abu Dhabi Knight Riders,SR Hain,LJ Evans,Haider Ali,1,0,,,,,,"",""
+ball,2,5.5,Abu Dhabi Knight Riders,LJ Evans,SR Hain,Haider Ali,0,0,,,,,,"",""
+ball,2,5.6,Abu Dhabi Knight Riders,LJ Evans,SR Hain,Haider Ali,0,0,,,,,,"",""
+ball,2,6.1,Abu Dhabi Knight Riders,SR Hain,LJ Evans,Akif Raja,1,0,,,,,,"",""
+ball,2,6.2,Abu Dhabi Knight Riders,LJ Evans,SR Hain,Akif Raja,4,0,,,,,,"",""
+ball,2,6.3,Abu Dhabi Knight Riders,LJ Evans,SR Hain,Akif Raja,2,0,,,,,,"",""
+ball,2,6.4,Abu Dhabi Knight Riders,LJ Evans,SR Hain,Akif Raja,1,0,,,,,,"",""
+ball,2,6.5,Abu Dhabi Knight Riders,SR Hain,LJ Evans,Akif Raja,2,0,,,,,,"",""
+ball,2,6.6,Abu Dhabi Knight Riders,SR Hain,LJ Evans,Akif Raja,1,0,,,,,,"",""
+ball,2,7.1,Abu Dhabi Knight Riders,SR Hain,LJ Evans,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.2,Abu Dhabi Knight Riders,LJ Evans,SR Hain,Zahir Khan,0,0,,,,,,bowled,LJ Evans
+ball,2,7.3,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.4,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Zahir Khan,2,0,,,,,,"",""
+ball,2,7.5,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.6,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,1,0,,,,,,"",""
+ball,2,8.1,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Sikandar Raza,1,0,,,,,,"",""
+ball,2,8.2,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Sikandar Raza,1,0,,,,,,"",""
+ball,2,8.3,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Sikandar Raza,0,0,,,,,,"",""
+ball,2,8.4,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Sikandar Raza,0,0,,,,,,"",""
+ball,2,8.5,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Sikandar Raza,0,0,,,,,,"",""
+ball,2,8.6,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Sikandar Raza,0,0,,,,,,"",""
+ball,2,9.1,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Zahir Khan,1,0,,,,,,"",""
+ball,2,9.2,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,0,0,,,,,,"",""
+ball,2,9.3,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,4,0,,,,,,"",""
+ball,2,9.4,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,1,0,,,,,,"",""
+ball,2,9.5,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Zahir Khan,1,0,,,,,,"",""
+ball,2,9.6,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,0,0,,,,,,"",""
+ball,2,10.1,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Sikandar Raza,0,0,,,,,,"",""
+ball,2,10.2,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Sikandar Raza,1,0,,,,,,"",""
+ball,2,10.3,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Sikandar Raza,6,0,,,,,,"",""
+ball,2,10.4,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Sikandar Raza,2,0,,,,,,"",""
+ball,2,10.5,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Sikandar Raza,0,1,1,,,,,"",""
+ball,2,10.6,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Sikandar Raza,1,0,,,,,,"",""
+ball,2,10.7,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Sikandar Raza,0,0,,,,,,"",""
+ball,2,11.1,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,0,0,,,,,,"",""
+ball,2,11.2,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,1,0,,,,,,"",""
+ball,2,11.3,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Zahir Khan,1,0,,,,,,"",""
+ball,2,11.4,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,0,1,1,,,,,"",""
+ball,2,11.5,Abu Dhabi Knight Riders,DJ Willey,SR Hain,Zahir Khan,1,0,,,,,,"",""
+ball,2,11.6,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Zahir Khan,0,0,,,,,,"",""
+ball,2,11.7,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Zahir Khan,1,0,,,,,,"",""
+ball,2,12.1,Abu Dhabi Knight Riders,SR Hain,DJ Willey,Sikandar Raza,0,0,,,,,,bowled,SR Hain
+ball,2,12.2,Abu Dhabi Knight Riders,FA Allen,DJ Willey,Sikandar Raza,1,0,,,,,,"",""
+ball,2,12.3,Abu Dhabi Knight Riders,DJ Willey,FA Allen,Sikandar Raza,0,0,,,,,,"",""
+ball,2,12.4,Abu Dhabi Knight Riders,DJ Willey,FA Allen,Sikandar Raza,1,0,,,,,,"",""
+ball,2,12.5,Abu Dhabi Knight Riders,FA Allen,DJ Willey,Sikandar Raza,1,0,,,,,,"",""
+ball,2,12.6,Abu Dhabi Knight Riders,DJ Willey,FA Allen,Sikandar Raza,0,0,,,,,,"",""
+ball,2,13.1,Abu Dhabi Knight Riders,FA Allen,DJ Willey,Zahir Khan,0,0,,,,,,caught,FA Allen
+ball,2,13.2,Abu Dhabi Knight Riders,RS Bopara,DJ Willey,Zahir Khan,0,0,,,,,,"",""
+ball,2,13.3,Abu Dhabi Knight Riders,RS Bopara,DJ Willey,Zahir Khan,1,0,,,,,,"",""
+ball,2,13.4,Abu Dhabi Knight Riders,DJ Willey,RS Bopara,Zahir Khan,2,0,,,,,,"",""
+ball,2,13.5,Abu Dhabi Knight Riders,DJ Willey,RS Bopara,Zahir Khan,4,0,,,,,,"",""
+ball,2,13.6,Abu Dhabi Knight Riders,DJ Willey,RS Bopara,Zahir Khan,0,0,,,,,,"",""
+ball,2,14.1,Abu Dhabi Knight Riders,RS Bopara,DJ Willey,Sikandar Raza,0,0,,,,,,"",""
+ball,2,14.2,Abu Dhabi Knight Riders,RS Bopara,DJ Willey,Sikandar Raza,1,0,,,,,,"",""
+ball,2,14.3,Abu Dhabi Knight Riders,DJ Willey,RS Bopara,Sikandar Raza,4,0,,,,,,"",""
+ball,2,14.4,Abu Dhabi Knight Riders,DJ Willey,RS Bopara,Sikandar Raza,4,0,,,,,,"",""
+ball,2,14.5,Abu Dhabi Knight Riders,DJ Willey,RS Bopara,Sikandar Raza,2,0,,,,,,"",""
+ball,2,14.6,Abu Dhabi Knight Riders,DJ Willey,RS Bopara,Sikandar Raza,0,0,,,,,,bowled,DJ Willey
+ball,2,15.1,Abu Dhabi Knight Riders,RS Bopara,SP Narine,OP Stone,1,0,,,,,,"",""
+ball,2,15.2,Abu Dhabi Knight Riders,SP Narine,RS Bopara,OP Stone,0,0,,,,,,"",""
+ball,2,15.3,Abu Dhabi Knight Riders,SP Narine,RS Bopara,OP Stone,0,1,1,,,,,"",""
+ball,2,15.4,Abu Dhabi Knight Riders,SP Narine,RS Bopara,OP Stone,0,0,,,,,,"",""
+ball,2,15.5,Abu Dhabi Knight Riders,SP Narine,RS Bopara,OP Stone,1,0,,,,,,"",""
+ball,2,15.6,Abu Dhabi Knight Riders,RS Bopara,SP Narine,OP Stone,0,0,,,,,,"",""
+ball,2,15.7,Abu Dhabi Knight Riders,RS Bopara,SP Narine,OP Stone,1,0,,,,,,"",""
+ball,2,16.1,Abu Dhabi Knight Riders,RS Bopara,SP Narine,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,16.2,Abu Dhabi Knight Riders,SP Narine,RS Bopara,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,2,16.3,Abu Dhabi Knight Riders,SP Narine,RS Bopara,SC Kuggeleijn,0,0,,,,,,caught,SP Narine
+ball,2,16.4,Abu Dhabi Knight Riders,Sabir Ali,RS Bopara,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,16.5,Abu Dhabi Knight Riders,Sabir Ali,RS Bopara,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,16.6,Abu Dhabi Knight Riders,Sabir Ali,RS Bopara,SC Kuggeleijn,0,0,,,,,,run out,Sabir Ali

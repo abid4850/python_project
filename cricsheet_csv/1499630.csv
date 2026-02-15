@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Otago
+info,gender,male
+info,season,2025/26
+info,date,2025/12/28
+info,event,Super Smash
+info,match_number,3
+info,venue,"Molyneux Park, Alexandra"
+info,city,Alexandra
+info,toss_winner,Otago
+info,toss_decision,field
+info,player_of_match,TWM Latham
+info,umpire,GG Pennell
+info,umpire,SB Haig
+info,reserve_umpire,JT Blunt
+info,tv_umpire,PJ Pasco
+info,match_referee,SB O'Connor
+info,winner,Canterbury
+info,winner_runs,28
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,MWT Boyle
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,KA Jamieson
+info,player,Canterbury,CB Paul
+info,player,Canterbury,IS Sodhi
+info,player,Canterbury,SB Davey
+info,player,Canterbury,FW Sheat
+info,player,Otago,LC Johnson
+info,player,Otago,JT Todd
+info,player,Otago,MW Chu
+info,player,Otago,GD Phillips
+info,player,Otago,JCT Boyle
+info,player,Otago,LI Georgeson
+info,player,Otago,JM Gibson
+info,player,Otago,BNJ Lockrose
+info,player,Otago,DK Ferns
+info,player,Otago,ATE Hazeldine
+info,player,Otago,MB Bacon
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,CB Paul,c945df30
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GG Pennell,d9376677
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,JT Blunt,2fe9a247
+info,registry,people,JT Todd,d8417b91
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,LI Georgeson,6be7b49d
+info,registry,people,MB Bacon,90701232
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,MWT Boyle,b42d5053
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,SB Davey,f45cd5c8
+info,registry,people,SB Haig,811655b3
+info,registry,people,SB O'Connor,4e80ab93
+info,registry,people,TWM Latham,e824e6ee
+ball,1,0.1,Canterbury,CJ Bowes,TWM Latham,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,0.2,Canterbury,TWM Latham,CJ Bowes,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,0.3,Canterbury,TWM Latham,CJ Bowes,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,0.4,Canterbury,TWM Latham,CJ Bowes,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,0.5,Canterbury,CJ Bowes,TWM Latham,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,0.6,Canterbury,CJ Bowes,TWM Latham,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,1.1,Canterbury,CJ Bowes,TWM Latham,DK Ferns,1,0,,,,,,"",""
+ball,1,1.2,Canterbury,TWM Latham,CJ Bowes,DK Ferns,6,0,,,,,,"",""
+ball,1,1.3,Canterbury,TWM Latham,CJ Bowes,DK Ferns,0,0,,,,,,"",""
+ball,1,1.4,Canterbury,TWM Latham,CJ Bowes,DK Ferns,0,1,1,,,,,"",""
+ball,1,1.5,Canterbury,TWM Latham,CJ Bowes,DK Ferns,0,0,,,,,,"",""
+ball,1,1.6,Canterbury,TWM Latham,CJ Bowes,DK Ferns,4,0,,,,,,"",""
+ball,1,1.7,Canterbury,TWM Latham,CJ Bowes,DK Ferns,0,0,,,,,,"",""
+ball,1,2.1,Canterbury,CJ Bowes,TWM Latham,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,2.2,Canterbury,CJ Bowes,TWM Latham,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,2.3,Canterbury,CJ Bowes,TWM Latham,ATE Hazeldine,0,0,,,,,,"",""
+ball,1,2.4,Canterbury,CJ Bowes,TWM Latham,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,2.5,Canterbury,TWM Latham,CJ Bowes,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,2.6,Canterbury,CJ Bowes,TWM Latham,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,3.1,Canterbury,TWM Latham,CJ Bowes,MB Bacon,0,0,,,,,,"",""
+ball,1,3.2,Canterbury,TWM Latham,CJ Bowes,MB Bacon,4,0,,,,,,"",""
+ball,1,3.3,Canterbury,TWM Latham,CJ Bowes,MB Bacon,4,0,,,,,,"",""
+ball,1,3.4,Canterbury,TWM Latham,CJ Bowes,MB Bacon,0,0,,,,,,"",""
+ball,1,3.5,Canterbury,TWM Latham,CJ Bowes,MB Bacon,0,0,,,,,,"",""
+ball,1,3.6,Canterbury,TWM Latham,CJ Bowes,MB Bacon,1,0,,,,,,"",""
+ball,1,4.1,Canterbury,TWM Latham,CJ Bowes,DK Ferns,1,0,,,,,,"",""
+ball,1,4.2,Canterbury,CJ Bowes,TWM Latham,DK Ferns,0,0,,,,,,"",""
+ball,1,4.3,Canterbury,CJ Bowes,TWM Latham,DK Ferns,0,0,,,,,,"",""
+ball,1,4.4,Canterbury,CJ Bowes,TWM Latham,DK Ferns,4,0,,,,,,"",""
+ball,1,4.5,Canterbury,CJ Bowes,TWM Latham,DK Ferns,4,0,,,,,,"",""
+ball,1,4.6,Canterbury,CJ Bowes,TWM Latham,DK Ferns,4,0,,,,,,"",""
+ball,1,5.1,Canterbury,TWM Latham,CJ Bowes,MB Bacon,0,0,,,,,,"",""
+ball,1,5.2,Canterbury,TWM Latham,CJ Bowes,MB Bacon,1,0,,,,,,"",""
+ball,1,5.3,Canterbury,CJ Bowes,TWM Latham,MB Bacon,1,0,,,,,,"",""
+ball,1,5.4,Canterbury,TWM Latham,CJ Bowes,MB Bacon,1,0,,,,,,"",""
+ball,1,5.5,Canterbury,CJ Bowes,TWM Latham,MB Bacon,1,0,,,,,,"",""
+ball,1,5.6,Canterbury,TWM Latham,CJ Bowes,MB Bacon,6,0,,,,,,"",""
+ball,1,6.1,Canterbury,CJ Bowes,TWM Latham,GD Phillips,1,0,,,,,,"",""
+ball,1,6.2,Canterbury,TWM Latham,CJ Bowes,GD Phillips,4,0,,,,,,"",""
+ball,1,6.3,Canterbury,TWM Latham,CJ Bowes,GD Phillips,1,0,,,,,,"",""
+ball,1,6.4,Canterbury,CJ Bowes,TWM Latham,GD Phillips,1,0,,,,,,"",""
+ball,1,6.5,Canterbury,TWM Latham,CJ Bowes,GD Phillips,1,0,,,,,,"",""
+ball,1,6.6,Canterbury,CJ Bowes,TWM Latham,GD Phillips,1,0,,,,,,"",""
+ball,1,7.1,Canterbury,CJ Bowes,TWM Latham,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,7.2,Canterbury,TWM Latham,CJ Bowes,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,7.3,Canterbury,TWM Latham,CJ Bowes,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,7.4,Canterbury,TWM Latham,CJ Bowes,BNJ Lockrose,6,0,,,,,,"",""
+ball,1,7.5,Canterbury,TWM Latham,CJ Bowes,BNJ Lockrose,0,0,,,,,,"",""
+ball,1,7.6,Canterbury,TWM Latham,CJ Bowes,BNJ Lockrose,2,0,,,,,,"",""
+ball,1,8.1,Canterbury,CJ Bowes,TWM Latham,GD Phillips,0,0,,,,,,"",""
+ball,1,8.2,Canterbury,CJ Bowes,TWM Latham,GD Phillips,2,0,,,,,,"",""
+ball,1,8.3,Canterbury,CJ Bowes,TWM Latham,GD Phillips,2,0,,,,,,"",""
+ball,1,8.4,Canterbury,CJ Bowes,TWM Latham,GD Phillips,4,0,,,,,,"",""
+ball,1,8.5,Canterbury,CJ Bowes,TWM Latham,GD Phillips,1,0,,,,,,"",""
+ball,1,8.6,Canterbury,TWM Latham,CJ Bowes,GD Phillips,1,0,,,,,,"",""
+ball,1,9.1,Canterbury,TWM Latham,CJ Bowes,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,9.2,Canterbury,CJ Bowes,TWM Latham,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,9.3,Canterbury,TWM Latham,CJ Bowes,BNJ Lockrose,6,0,,,,,,"",""
+ball,1,9.4,Canterbury,TWM Latham,CJ Bowes,BNJ Lockrose,0,1,1,,,,,"",""
+ball,1,9.5,Canterbury,TWM Latham,CJ Bowes,BNJ Lockrose,1,0,,,,,,"",""
+ball,1,9.6,Canterbury,CJ Bowes,TWM Latham,BNJ Lockrose,0,0,,,,,,bowled,CJ Bowes
+ball,1,9.7,Canterbury,HM Nicholls,TWM Latham,BNJ Lockrose,2,0,,,,,,"",""
+ball,1,10.1,Canterbury,TWM Latham,HM Nicholls,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,10.2,Canterbury,HM Nicholls,TWM Latham,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,10.3,Canterbury,TWM Latham,HM Nicholls,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,10.4,Canterbury,HM Nicholls,TWM Latham,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,10.5,Canterbury,HM Nicholls,TWM Latham,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,10.6,Canterbury,HM Nicholls,TWM Latham,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,11.1,Canterbury,HM Nicholls,TWM Latham,LI Georgeson,1,0,,,,,,"",""
+ball,1,11.2,Canterbury,TWM Latham,HM Nicholls,LI Georgeson,1,0,,,,,,"",""
+ball,1,11.3,Canterbury,HM Nicholls,TWM Latham,LI Georgeson,4,0,,,,,,"",""
+ball,1,11.4,Canterbury,HM Nicholls,TWM Latham,LI Georgeson,0,0,,,,,,"",""
+ball,1,11.5,Canterbury,HM Nicholls,TWM Latham,LI Georgeson,2,0,,,,,,"",""
+ball,1,11.6,Canterbury,HM Nicholls,TWM Latham,LI Georgeson,0,1,,1,,,,"",""
+ball,1,11.7,Canterbury,HM Nicholls,TWM Latham,LI Georgeson,1,0,,,,,,"",""
+ball,1,12.1,Canterbury,HM Nicholls,TWM Latham,GD Phillips,1,0,,,,,,"",""
+ball,1,12.2,Canterbury,TWM Latham,HM Nicholls,GD Phillips,4,0,,,,,,"",""
+ball,1,12.3,Canterbury,TWM Latham,HM Nicholls,GD Phillips,1,0,,,,,,"",""
+ball,1,12.4,Canterbury,HM Nicholls,TWM Latham,GD Phillips,1,0,,,,,,"",""
+ball,1,12.5,Canterbury,TWM Latham,HM Nicholls,GD Phillips,1,0,,,,,,"",""
+ball,1,12.6,Canterbury,HM Nicholls,TWM Latham,GD Phillips,0,0,,,,,,caught,HM Nicholls
+ball,1,13.1,Canterbury,TWM Latham,CE McConchie,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,13.2,Canterbury,CE McConchie,TWM Latham,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,13.3,Canterbury,CE McConchie,TWM Latham,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,13.4,Canterbury,TWM Latham,CE McConchie,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,13.5,Canterbury,CE McConchie,TWM Latham,ATE Hazeldine,1,0,,,,,,"",""
+ball,1,13.6,Canterbury,TWM Latham,CE McConchie,ATE Hazeldine,0,1,1,,,,,"",""
+ball,1,13.7,Canterbury,TWM Latham,CE McConchie,ATE Hazeldine,4,0,,,,,,"",""
+ball,1,14.1,Canterbury,CE McConchie,TWM Latham,GD Phillips,0,0,,,,,,"",""
+ball,1,14.2,Canterbury,CE McConchie,TWM Latham,GD Phillips,0,0,,,,,,caught,CE McConchie
+ball,1,14.3,Canterbury,MWT Boyle,TWM Latham,GD Phillips,1,0,,,,,,"",""
+ball,1,14.4,Canterbury,TWM Latham,MWT Boyle,GD Phillips,0,1,,,,1,,"",""
+ball,1,14.5,Canterbury,MWT Boyle,TWM Latham,GD Phillips,0,0,,,,,,"",""
+ball,1,14.6,Canterbury,MWT Boyle,TWM Latham,GD Phillips,1,0,,,,,,"",""
+ball,1,15.1,Canterbury,MWT Boyle,TWM Latham,MB Bacon,1,0,,,,,,"",""
+ball,1,15.2,Canterbury,TWM Latham,MWT Boyle,MB Bacon,1,0,,,,,,"",""
+ball,1,15.3,Canterbury,MWT Boyle,TWM Latham,MB Bacon,1,0,,,,,,"",""
+ball,1,15.4,Canterbury,TWM Latham,MWT Boyle,MB Bacon,1,0,,,,,,"",""
+ball,1,15.5,Canterbury,MWT Boyle,TWM Latham,MB Bacon,1,0,,,,,,"",""
+ball,1,15.6,Canterbury,TWM Latham,MWT Boyle,MB Bacon,4,0,,,,,,"",""
+ball,1,16.1,Canterbury,MWT Boyle,TWM Latham,DK Ferns,6,0,,,,,,"",""
+ball,1,16.2,Canterbury,MWT Boyle,TWM Latham,DK Ferns,2,0,,,,,,"",""
+ball,1,16.3,Canterbury,MWT Boyle,TWM Latham,DK Ferns,1,0,,,,,,"",""
+ball,1,16.4,Canterbury,TWM Latham,MWT Boyle,DK Ferns,1,0,,,,,,"",""
+ball,1,16.5,Canterbury,MWT Boyle,TWM Latham,DK Ferns,2,0,,,,,,"",""
+ball,1,16.6,Canterbury,MWT Boyle,TWM Latham,DK Ferns,2,0,,,,,,"",""
+ball,1,17.1,Canterbury,TWM Latham,MWT Boyle,LI Georgeson,0,1,,,,1,,"",""
+ball,1,17.2,Canterbury,MWT Boyle,TWM Latham,LI Georgeson,4,0,,,,,,"",""
+ball,1,17.3,Canterbury,MWT Boyle,TWM Latham,LI Georgeson,1,0,,,,,,"",""
+ball,1,17.4,Canterbury,TWM Latham,MWT Boyle,LI Georgeson,0,1,1,,,,,"",""
+ball,1,17.5,Canterbury,TWM Latham,MWT Boyle,LI Georgeson,0,0,,,,,,caught,TWM Latham
+ball,1,17.6,Canterbury,MJ Hay,MWT Boyle,LI Georgeson,1,0,,,,,,"",""
+ball,1,17.7,Canterbury,MWT Boyle,MJ Hay,LI Georgeson,0,0,,,,,,"",""
+ball,1,18.1,Canterbury,MJ Hay,MWT Boyle,MB Bacon,4,0,,,,,,"",""
+ball,1,18.2,Canterbury,MJ Hay,MWT Boyle,MB Bacon,1,0,,,,,,"",""
+ball,1,18.3,Canterbury,MWT Boyle,MJ Hay,MB Bacon,1,0,,,,,,"",""
+ball,1,18.4,Canterbury,MJ Hay,MWT Boyle,MB Bacon,1,0,,,,,,"",""
+ball,1,18.5,Canterbury,MWT Boyle,MJ Hay,MB Bacon,0,0,,,,,,"",""
+ball,1,18.6,Canterbury,MWT Boyle,MJ Hay,MB Bacon,0,0,,,,,,caught,MWT Boyle
+ball,1,19.1,Canterbury,MJ Hay,KA Jamieson,DK Ferns,1,0,,,,,,"",""
+ball,1,19.2,Canterbury,KA Jamieson,MJ Hay,DK Ferns,1,0,,,,,,"",""
+ball,1,19.3,Canterbury,MJ Hay,KA Jamieson,DK Ferns,1,0,,,,,,"",""
+ball,1,19.4,Canterbury,KA Jamieson,MJ Hay,DK Ferns,0,0,,,,,,"",""
+ball,1,19.5,Canterbury,KA Jamieson,MJ Hay,DK Ferns,2,0,,,,,,"",""
+ball,1,19.6,Canterbury,KA Jamieson,MJ Hay,DK Ferns,2,0,,,,,,"",""
+ball,2,0.1,Otago,LC Johnson,JT Todd,KA Jamieson,0,0,,,,,,"",""
+ball,2,0.2,Otago,LC Johnson,JT Todd,KA Jamieson,1,0,,,,,,"",""
+ball,2,0.3,Otago,JT Todd,LC Johnson,KA Jamieson,0,0,,,,,,"",""
+ball,2,0.4,Otago,JT Todd,LC Johnson,KA Jamieson,0,0,,,,,,"",""
+ball,2,0.5,Otago,JT Todd,LC Johnson,KA Jamieson,1,0,,,,,,"",""
+ball,2,0.6,Otago,LC Johnson,JT Todd,KA Jamieson,0,0,,,,,,"",""
+ball,2,1.1,Otago,JT Todd,LC Johnson,FW Sheat,1,0,,,,,,"",""
+ball,2,1.2,Otago,LC Johnson,JT Todd,FW Sheat,0,1,,,,1,,"",""
+ball,2,1.3,Otago,JT Todd,LC Johnson,FW Sheat,4,0,,,,,,"",""
+ball,2,1.4,Otago,JT Todd,LC Johnson,FW Sheat,0,0,,,,,,"",""
+ball,2,1.5,Otago,JT Todd,LC Johnson,FW Sheat,1,0,,,,,,"",""
+ball,2,1.6,Otago,LC Johnson,JT Todd,FW Sheat,0,0,,,,,,"",""
+ball,2,2.1,Otago,JT Todd,LC Johnson,KA Jamieson,0,0,,,,,,"",""
+ball,2,2.2,Otago,JT Todd,LC Johnson,KA Jamieson,6,0,,,,,,"",""
+ball,2,2.3,Otago,JT Todd,LC Johnson,KA Jamieson,4,0,,,,,,"",""
+ball,2,2.4,Otago,JT Todd,LC Johnson,KA Jamieson,6,0,,,,,,"",""
+ball,2,2.5,Otago,JT Todd,LC Johnson,KA Jamieson,6,0,,,,,,"",""
+ball,2,2.6,Otago,JT Todd,LC Johnson,KA Jamieson,1,0,,,,,,"",""
+ball,2,3.1,Otago,JT Todd,LC Johnson,CB Paul,6,0,,,,,,"",""
+ball,2,3.2,Otago,JT Todd,LC Johnson,CB Paul,0,1,,,,1,,"",""
+ball,2,3.3,Otago,LC Johnson,JT Todd,CB Paul,0,0,,,,,,"",""
+ball,2,3.4,Otago,LC Johnson,JT Todd,CB Paul,1,0,,,,,,"",""
+ball,2,3.5,Otago,JT Todd,LC Johnson,CB Paul,6,0,,,,,,"",""
+ball,2,3.6,Otago,JT Todd,LC Johnson,CB Paul,0,0,,,,,,"",""
+ball,2,4.1,Otago,LC Johnson,JT Todd,CE McConchie,0,0,,,,,,caught,LC Johnson
+ball,2,4.2,Otago,MW Chu,JT Todd,CE McConchie,1,0,,,,,,"",""
+ball,2,4.3,Otago,JT Todd,MW Chu,CE McConchie,0,0,,,,,,"",""
+ball,2,4.4,Otago,JT Todd,MW Chu,CE McConchie,4,0,,,,,,"",""
+ball,2,4.5,Otago,JT Todd,MW Chu,CE McConchie,1,0,,,,,,"",""
+ball,2,4.6,Otago,MW Chu,JT Todd,CE McConchie,1,0,,,,,,"",""
+ball,2,5.1,Otago,MW Chu,JT Todd,FW Sheat,1,0,,,,,,"",""
+ball,2,5.2,Otago,JT Todd,MW Chu,FW Sheat,1,0,,,,,,"",""
+ball,2,5.3,Otago,MW Chu,JT Todd,FW Sheat,1,0,,,,,,"",""
+ball,2,5.4,Otago,JT Todd,MW Chu,FW Sheat,4,0,,,,,,"",""
+ball,2,5.5,Otago,JT Todd,MW Chu,FW Sheat,1,0,,,,,,"",""
+ball,2,5.6,Otago,MW Chu,JT Todd,FW Sheat,1,0,,,,,,"",""
+ball,2,6.1,Otago,MW Chu,JT Todd,CE McConchie,1,0,,,,,,"",""
+ball,2,6.2,Otago,JT Todd,MW Chu,CE McConchie,0,0,,,,,,caught,JT Todd
+ball,2,6.3,Otago,GD Phillips,MW Chu,CE McConchie,0,0,,,,,,"",""
+ball,2,6.4,Otago,GD Phillips,MW Chu,CE McConchie,6,0,,,,,,"",""
+ball,2,6.5,Otago,GD Phillips,MW Chu,CE McConchie,1,0,,,,,,"",""
+ball,2,6.6,Otago,MW Chu,GD Phillips,CE McConchie,1,0,,,,,,"",""
+ball,2,7.1,Otago,MW Chu,GD Phillips,IS Sodhi,1,0,,,,,,"",""
+ball,2,7.2,Otago,GD Phillips,MW Chu,IS Sodhi,0,0,,,,,,"",""
+ball,2,7.3,Otago,GD Phillips,MW Chu,IS Sodhi,1,0,,,,,,"",""
+ball,2,7.4,Otago,MW Chu,GD Phillips,IS Sodhi,0,0,,,,,,"",""
+ball,2,7.5,Otago,MW Chu,GD Phillips,IS Sodhi,2,0,,,,,,"",""
+ball,2,7.6,Otago,MW Chu,GD Phillips,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.1,Otago,MW Chu,GD Phillips,CE McConchie,1,0,,,,,,"",""
+ball,2,8.2,Otago,GD Phillips,MW Chu,CE McConchie,0,0,,,,,,"",""
+ball,2,8.3,Otago,GD Phillips,MW Chu,CE McConchie,1,0,,,,,,"",""
+ball,2,8.4,Otago,MW Chu,GD Phillips,CE McConchie,1,0,,,,,,"",""
+ball,2,8.5,Otago,GD Phillips,MW Chu,CE McConchie,6,0,,,,,,"",""
+ball,2,8.6,Otago,GD Phillips,MW Chu,CE McConchie,1,0,,,,,,"",""
+ball,2,9.1,Otago,GD Phillips,MW Chu,KA Jamieson,0,0,,,,,,"",""
+ball,2,9.2,Otago,GD Phillips,MW Chu,KA Jamieson,0,1,,,,1,,"",""
+ball,2,9.3,Otago,MW Chu,GD Phillips,KA Jamieson,1,0,,,,,,"",""
+ball,2,9.4,Otago,GD Phillips,MW Chu,KA Jamieson,1,0,,,,,,"",""
+ball,2,9.5,Otago,MW Chu,GD Phillips,KA Jamieson,1,0,,,,,,"",""
+ball,2,9.6,Otago,GD Phillips,MW Chu,KA Jamieson,0,0,,,,,,"",""
+ball,2,10.1,Otago,MW Chu,GD Phillips,IS Sodhi,4,0,,,,,,"",""
+ball,2,10.2,Otago,MW Chu,GD Phillips,IS Sodhi,2,0,,,,,,"",""
+ball,2,10.3,Otago,MW Chu,GD Phillips,IS Sodhi,0,0,,,,,,"",""
+ball,2,10.4,Otago,MW Chu,GD Phillips,IS Sodhi,0,0,,,,,,"",""
+ball,2,10.5,Otago,MW Chu,GD Phillips,IS Sodhi,1,0,,,,,,"",""
+ball,2,10.6,Otago,GD Phillips,MW Chu,IS Sodhi,0,0,,,,,,"",""
+ball,2,11.1,Otago,MW Chu,GD Phillips,SB Davey,6,0,,,,,,"",""
+ball,2,11.2,Otago,MW Chu,GD Phillips,SB Davey,2,0,,,,,,"",""
+ball,2,11.3,Otago,MW Chu,GD Phillips,SB Davey,6,0,,,,,,"",""
+ball,2,11.4,Otago,MW Chu,GD Phillips,SB Davey,0,1,,,,1,,"",""
+ball,2,11.5,Otago,GD Phillips,MW Chu,SB Davey,4,0,,,,,,"",""
+ball,2,11.6,Otago,GD Phillips,MW Chu,SB Davey,1,0,,,,,,"",""
+ball,2,12.1,Otago,GD Phillips,MW Chu,IS Sodhi,0,0,,,,,,"",""
+ball,2,12.2,Otago,GD Phillips,MW Chu,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.3,Otago,MW Chu,GD Phillips,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.4,Otago,GD Phillips,MW Chu,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.5,Otago,MW Chu,GD Phillips,IS Sodhi,0,0,,,,,,"",""
+ball,2,12.6,Otago,MW Chu,GD Phillips,IS Sodhi,1,0,,,,,,"",""
+ball,2,13.1,Otago,MW Chu,GD Phillips,CB Paul,0,0,,,,,,"",""
+ball,2,13.2,Otago,MW Chu,GD Phillips,CB Paul,0,0,,,,,,bowled,MW Chu
+ball,2,13.3,Otago,JCT Boyle,GD Phillips,CB Paul,0,0,,,,,,"",""
+ball,2,13.4,Otago,JCT Boyle,GD Phillips,CB Paul,0,0,,,,,,"",""
+ball,2,13.5,Otago,JCT Boyle,GD Phillips,CB Paul,0,0,,,,,,"",""
+ball,2,13.6,Otago,JCT Boyle,GD Phillips,CB Paul,1,0,,,,,,"",""
+ball,2,14.1,Otago,JCT Boyle,GD Phillips,SB Davey,0,0,,,,,,caught,JCT Boyle
+ball,2,14.2,Otago,LI Georgeson,GD Phillips,SB Davey,1,0,,,,,,"",""
+ball,2,14.3,Otago,GD Phillips,LI Georgeson,SB Davey,0,0,,,,,,caught,GD Phillips
+ball,2,14.4,Otago,JM Gibson,LI Georgeson,SB Davey,1,0,,,,,,"",""
+ball,2,14.5,Otago,LI Georgeson,JM Gibson,SB Davey,1,0,,,,,,"",""
+ball,2,14.6,Otago,JM Gibson,LI Georgeson,SB Davey,1,0,,,,,,"",""
+ball,2,15.1,Otago,JM Gibson,LI Georgeson,CB Paul,4,0,,,,,,"",""
+ball,2,15.2,Otago,JM Gibson,LI Georgeson,CB Paul,1,0,,,,,,"",""
+ball,2,15.3,Otago,LI Georgeson,JM Gibson,CB Paul,0,0,,,,,,"",""
+ball,2,15.4,Otago,LI Georgeson,JM Gibson,CB Paul,1,0,,,,,,"",""
+ball,2,15.5,Otago,JM Gibson,LI Georgeson,CB Paul,0,0,,,,,,caught,JM Gibson
+ball,2,15.6,Otago,BNJ Lockrose,LI Georgeson,CB Paul,1,0,,,,,,"",""
+ball,2,16.1,Otago,BNJ Lockrose,LI Georgeson,IS Sodhi,0,0,,,,,,"",""
+ball,2,16.2,Otago,BNJ Lockrose,LI Georgeson,IS Sodhi,0,0,,,,,,caught and bowled,BNJ Lockrose
+ball,2,16.3,Otago,DK Ferns,LI Georgeson,IS Sodhi,0,0,,,,,,"",""
+ball,2,16.4,Otago,DK Ferns,LI Georgeson,IS Sodhi,1,0,,,,,,"",""
+ball,2,16.5,Otago,LI Georgeson,DK Ferns,IS Sodhi,1,0,,,,,,"",""
+ball,2,16.6,Otago,DK Ferns,LI Georgeson,IS Sodhi,0,0,,,,,,run out,DK Ferns
+ball,2,17.1,Otago,ATE Hazeldine,LI Georgeson,KA Jamieson,1,0,,,,,,"",""
+ball,2,17.2,Otago,LI Georgeson,ATE Hazeldine,KA Jamieson,1,0,,,,,,"",""
+ball,2,17.3,Otago,ATE Hazeldine,LI Georgeson,KA Jamieson,1,1,,1,,,,"",""
+ball,2,17.4,Otago,LI Georgeson,ATE Hazeldine,KA Jamieson,0,1,,,,1,,"",""
+ball,2,17.5,Otago,ATE Hazeldine,LI Georgeson,KA Jamieson,1,0,,,,,,"",""
+ball,2,17.6,Otago,LI Georgeson,ATE Hazeldine,KA Jamieson,1,0,,,,,,"",""
+ball,2,17.7,Otago,ATE Hazeldine,LI Georgeson,KA Jamieson,0,0,,,,,,"",""
+ball,2,18.1,Otago,LI Georgeson,ATE Hazeldine,FW Sheat,1,0,,,,,,"",""
+ball,2,18.2,Otago,ATE Hazeldine,LI Georgeson,FW Sheat,0,0,,,,,,"",""
+ball,2,18.3,Otago,ATE Hazeldine,LI Georgeson,FW Sheat,1,0,,,,,,"",""
+ball,2,18.4,Otago,LI Georgeson,ATE Hazeldine,FW Sheat,4,0,,,,,,"",""
+ball,2,18.5,Otago,LI Georgeson,ATE Hazeldine,FW Sheat,1,0,,,,,,"",""
+ball,2,18.6,Otago,ATE Hazeldine,LI Georgeson,FW Sheat,0,0,,,,,,bowled,ATE Hazeldine
+ball,2,19.1,Otago,LI Georgeson,MB Bacon,CB Paul,4,0,,,,,,"",""
+ball,2,19.2,Otago,LI Georgeson,MB Bacon,CB Paul,4,0,,,,,,"",""
+ball,2,19.3,Otago,LI Georgeson,MB Bacon,CB Paul,2,0,,,,,,"",""
+ball,2,19.4,Otago,LI Georgeson,MB Bacon,CB Paul,1,0,,,,,,"",""
+ball,2,19.5,Otago,MB Bacon,LI Georgeson,CB Paul,0,0,,,,,,"",""
+ball,2,19.6,Otago,MB Bacon,LI Georgeson,CB Paul,0,0,,,,,,bowled,MB Bacon

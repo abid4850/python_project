@@ -1,0 +1,305 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Yorkshire
+info,gender,male
+info,season,2025
+info,date,2025/07/17
+info,event,Vitality Blast Men
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Lancashire
+info,toss_decision,bat
+info,player_of_match,JC Buttler
+info,umpire,James Middlebrook
+info,umpire,SJ O'Shaughnessy
+info,tv_umpire,DJ Millns
+info,match_referee,Phil Whitticase
+info,winner,Lancashire
+info,winner_runs,21
+info,player,Lancashire,PD Salt
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JC Buttler
+info,player,Lancashire,AJ Turner
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,CJ Green
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,L Wood
+info,player,Lancashire,TH Aspinwall
+info,player,Lancashire,JM Anderson
+info,player,Yorkshire,JM Bairstow
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,W Luxton
+info,player,Yorkshire,Abdullah Shafique
+info,player,Yorkshire,JH Wharton
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,W Sutherland
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,ME Milnes
+info,player,Yorkshire,JA Chohan
+info,player,Yorkshire,D Moriarty
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,CJ Green,19b9f399
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DM Bess,ad46c747
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JH Wharton,42a5c1c7
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Wood,65b6943c
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,TH Aspinwall,00b195ae
+info,registry,people,W Luxton,c15fb753
+info,registry,people,W Sutherland,bc2d4f2e
+ball,1,0.1,Lancashire,PD Salt,KK Jennings,ME Milnes,4,0,,,,,,"",""
+ball,1,0.2,Lancashire,PD Salt,KK Jennings,ME Milnes,4,0,,,,,,"",""
+ball,1,0.3,Lancashire,PD Salt,KK Jennings,ME Milnes,0,0,,,,,,"",""
+ball,1,0.4,Lancashire,PD Salt,KK Jennings,ME Milnes,0,0,,,,,,"",""
+ball,1,0.5,Lancashire,PD Salt,KK Jennings,ME Milnes,0,0,,,,,,"",""
+ball,1,0.6,Lancashire,PD Salt,KK Jennings,ME Milnes,2,0,,,,,,"",""
+ball,1,1.1,Lancashire,KK Jennings,PD Salt,DM Bess,0,0,,,,,,"",""
+ball,1,1.2,Lancashire,KK Jennings,PD Salt,DM Bess,1,0,,,,,,"",""
+ball,1,1.3,Lancashire,PD Salt,KK Jennings,DM Bess,0,0,,,,,,"",""
+ball,1,1.4,Lancashire,PD Salt,KK Jennings,DM Bess,1,0,,,,,,"",""
+ball,1,1.5,Lancashire,KK Jennings,PD Salt,DM Bess,6,0,,,,,,"",""
+ball,1,1.6,Lancashire,KK Jennings,PD Salt,DM Bess,0,0,,,,,,"",""
+ball,1,2.1,Lancashire,PD Salt,KK Jennings,D Moriarty,0,0,,,,,,"",""
+ball,1,2.2,Lancashire,PD Salt,KK Jennings,D Moriarty,4,0,,,,,,"",""
+ball,1,2.3,Lancashire,PD Salt,KK Jennings,D Moriarty,0,0,,,,,,"",""
+ball,1,2.4,Lancashire,PD Salt,KK Jennings,D Moriarty,1,0,,,,,,"",""
+ball,1,2.5,Lancashire,KK Jennings,PD Salt,D Moriarty,0,0,,,,,,"",""
+ball,1,2.6,Lancashire,KK Jennings,PD Salt,D Moriarty,0,0,,,,,,caught,KK Jennings
+ball,1,3.1,Lancashire,PD Salt,JC Buttler,ME Milnes,0,0,,,,,,"",""
+ball,1,3.2,Lancashire,PD Salt,JC Buttler,ME Milnes,0,0,,,,,,"",""
+ball,1,3.3,Lancashire,PD Salt,JC Buttler,ME Milnes,1,0,,,,,,"",""
+ball,1,3.4,Lancashire,JC Buttler,PD Salt,ME Milnes,0,0,,,,,,"",""
+ball,1,3.5,Lancashire,JC Buttler,PD Salt,ME Milnes,1,0,,,,,,"",""
+ball,1,3.6,Lancashire,PD Salt,JC Buttler,ME Milnes,1,0,,,,,,"",""
+ball,1,4.1,Lancashire,PD Salt,JC Buttler,W Sutherland,0,1,1,,,,,"",""
+ball,1,4.2,Lancashire,PD Salt,JC Buttler,W Sutherland,6,0,,,,,,"",""
+ball,1,4.3,Lancashire,PD Salt,JC Buttler,W Sutherland,1,0,,,,,,"",""
+ball,1,4.4,Lancashire,JC Buttler,PD Salt,W Sutherland,0,0,,,,,,"",""
+ball,1,4.5,Lancashire,JC Buttler,PD Salt,W Sutherland,0,1,1,,,,,"",""
+ball,1,4.6,Lancashire,JC Buttler,PD Salt,W Sutherland,0,0,,,,,,"",""
+ball,1,4.7,Lancashire,JC Buttler,PD Salt,W Sutherland,4,0,,,,,,"",""
+ball,1,4.8,Lancashire,JC Buttler,PD Salt,W Sutherland,4,0,,,,,,"",""
+ball,1,5.1,Lancashire,PD Salt,JC Buttler,D Moriarty,6,0,,,,,,"",""
+ball,1,5.2,Lancashire,PD Salt,JC Buttler,D Moriarty,0,0,,,,,,"",""
+ball,1,5.3,Lancashire,PD Salt,JC Buttler,D Moriarty,0,0,,,,,,"",""
+ball,1,5.4,Lancashire,PD Salt,JC Buttler,D Moriarty,4,0,,,,,,"",""
+ball,1,5.5,Lancashire,PD Salt,JC Buttler,D Moriarty,4,0,,,,,,"",""
+ball,1,5.6,Lancashire,PD Salt,JC Buttler,D Moriarty,1,0,,,,,,"",""
+ball,1,6.1,Lancashire,PD Salt,JC Buttler,JA Thompson,0,0,,,,,,"",""
+ball,1,6.2,Lancashire,PD Salt,JC Buttler,JA Thompson,1,0,,,,,,"",""
+ball,1,6.3,Lancashire,JC Buttler,PD Salt,JA Thompson,4,0,,,,,,"",""
+ball,1,6.4,Lancashire,JC Buttler,PD Salt,JA Thompson,1,0,,,,,,"",""
+ball,1,6.5,Lancashire,PD Salt,JC Buttler,JA Thompson,0,0,,,,,,"",""
+ball,1,6.6,Lancashire,PD Salt,JC Buttler,JA Thompson,1,0,,,,,,"",""
+ball,1,7.1,Lancashire,PD Salt,JC Buttler,JA Chohan,0,0,,,,,,caught,PD Salt
+ball,1,7.2,Lancashire,AJ Turner,JC Buttler,JA Chohan,2,0,,,,,,"",""
+ball,1,7.3,Lancashire,AJ Turner,JC Buttler,JA Chohan,0,0,,,,,,bowled,AJ Turner
+ball,1,7.4,Lancashire,LWP Wells,JC Buttler,JA Chohan,0,0,,,,,,"",""
+ball,1,7.5,Lancashire,LWP Wells,JC Buttler,JA Chohan,1,0,,,,,,"",""
+ball,1,7.6,Lancashire,JC Buttler,LWP Wells,JA Chohan,1,0,,,,,,"",""
+ball,1,8.1,Lancashire,JC Buttler,LWP Wells,W Sutherland,1,0,,,,,,"",""
+ball,1,8.2,Lancashire,LWP Wells,JC Buttler,W Sutherland,1,0,,,,,,"",""
+ball,1,8.3,Lancashire,JC Buttler,LWP Wells,W Sutherland,4,0,,,,,,"",""
+ball,1,8.4,Lancashire,JC Buttler,LWP Wells,W Sutherland,0,0,,,,,,"",""
+ball,1,8.5,Lancashire,JC Buttler,LWP Wells,W Sutherland,4,0,,,,,,"",""
+ball,1,8.6,Lancashire,JC Buttler,LWP Wells,W Sutherland,1,0,,,,,,"",""
+ball,1,9.1,Lancashire,JC Buttler,LWP Wells,DM Bess,1,0,,,,,,"",""
+ball,1,9.2,Lancashire,LWP Wells,JC Buttler,DM Bess,2,0,,,,,,"",""
+ball,1,9.3,Lancashire,LWP Wells,JC Buttler,DM Bess,1,0,,,,,,"",""
+ball,1,9.4,Lancashire,JC Buttler,LWP Wells,DM Bess,1,0,,,,,,"",""
+ball,1,9.5,Lancashire,LWP Wells,JC Buttler,DM Bess,0,1,1,,,,,"",""
+ball,1,9.6,Lancashire,LWP Wells,JC Buttler,DM Bess,1,0,,,,,,"",""
+ball,1,9.7,Lancashire,JC Buttler,LWP Wells,DM Bess,6,0,,,,,,"",""
+ball,1,10.1,Lancashire,LWP Wells,JC Buttler,JA Chohan,3,0,,,,,,"",""
+ball,1,10.2,Lancashire,JC Buttler,LWP Wells,JA Chohan,6,0,,,,,,"",""
+ball,1,10.3,Lancashire,JC Buttler,LWP Wells,JA Chohan,2,0,,,,,,"",""
+ball,1,10.4,Lancashire,JC Buttler,LWP Wells,JA Chohan,0,0,,,,,,"",""
+ball,1,10.5,Lancashire,JC Buttler,LWP Wells,JA Chohan,0,0,,,,,,"",""
+ball,1,10.6,Lancashire,JC Buttler,LWP Wells,JA Chohan,6,0,,,,,,"",""
+ball,1,11.1,Lancashire,LWP Wells,JC Buttler,JA Thompson,0,0,,,,,,caught,LWP Wells
+ball,1,11.2,Lancashire,MF Hurst,JC Buttler,JA Thompson,4,0,,,,,,"",""
+ball,1,11.3,Lancashire,MF Hurst,JC Buttler,JA Thompson,1,0,,,,,,"",""
+ball,1,11.4,Lancashire,JC Buttler,MF Hurst,JA Thompson,1,0,,,,,,"",""
+ball,1,11.5,Lancashire,MF Hurst,JC Buttler,JA Thompson,0,0,,,,,,"",""
+ball,1,11.6,Lancashire,MF Hurst,JC Buttler,JA Thompson,1,0,,,,,,"",""
+ball,1,12.1,Lancashire,MF Hurst,JC Buttler,JA Chohan,1,0,,,,,,"",""
+ball,1,12.2,Lancashire,JC Buttler,MF Hurst,JA Chohan,0,0,,,,,,"",""
+ball,1,12.3,Lancashire,JC Buttler,MF Hurst,JA Chohan,1,0,,,,,,"",""
+ball,1,12.4,Lancashire,MF Hurst,JC Buttler,JA Chohan,0,0,,,,,,"",""
+ball,1,12.5,Lancashire,MF Hurst,JC Buttler,JA Chohan,1,0,,,,,,"",""
+ball,1,12.6,Lancashire,JC Buttler,MF Hurst,JA Chohan,1,0,,,,,,"",""
+ball,1,13.1,Lancashire,JC Buttler,MF Hurst,D Moriarty,1,0,,,,,,"",""
+ball,1,13.2,Lancashire,MF Hurst,JC Buttler,D Moriarty,1,0,,,,,,"",""
+ball,1,13.3,Lancashire,JC Buttler,MF Hurst,D Moriarty,0,1,1,,,,,"",""
+ball,1,13.4,Lancashire,JC Buttler,MF Hurst,D Moriarty,1,0,,,,,,"",""
+ball,1,13.5,Lancashire,MF Hurst,JC Buttler,D Moriarty,1,0,,,,,,"",""
+ball,1,13.6,Lancashire,JC Buttler,MF Hurst,D Moriarty,2,0,,,,,,"",""
+ball,1,13.7,Lancashire,JC Buttler,MF Hurst,D Moriarty,1,0,,,,,,"",""
+ball,1,14.1,Lancashire,JC Buttler,MF Hurst,ME Milnes,0,0,,,,,,"",""
+ball,1,14.2,Lancashire,JC Buttler,MF Hurst,ME Milnes,1,0,,,,,,"",""
+ball,1,14.3,Lancashire,MF Hurst,JC Buttler,ME Milnes,0,0,,,,,,"",""
+ball,1,14.4,Lancashire,MF Hurst,JC Buttler,ME Milnes,1,0,,,,,,"",""
+ball,1,14.5,Lancashire,JC Buttler,MF Hurst,ME Milnes,1,0,,,,,,"",""
+ball,1,14.6,Lancashire,MF Hurst,JC Buttler,ME Milnes,0,0,,,,,,caught,MF Hurst
+ball,1,15.1,Lancashire,JC Buttler,CJ Green,JA Chohan,4,0,,,,,,"",""
+ball,1,15.2,Lancashire,JC Buttler,CJ Green,JA Chohan,1,0,,,,,,"",""
+ball,1,15.3,Lancashire,CJ Green,JC Buttler,JA Chohan,0,0,,,,,,"",""
+ball,1,15.4,Lancashire,CJ Green,JC Buttler,JA Chohan,1,0,,,,,,"",""
+ball,1,15.5,Lancashire,JC Buttler,CJ Green,JA Chohan,1,0,,,,,,"",""
+ball,1,15.6,Lancashire,CJ Green,JC Buttler,JA Chohan,1,0,,,,,,"",""
+ball,1,16.1,Lancashire,CJ Green,JC Buttler,JA Thompson,1,0,,,,,,"",""
+ball,1,16.2,Lancashire,JC Buttler,CJ Green,JA Thompson,1,0,,,,,,"",""
+ball,1,16.3,Lancashire,CJ Green,JC Buttler,JA Thompson,2,0,,,,,,"",""
+ball,1,16.4,Lancashire,CJ Green,JC Buttler,JA Thompson,6,0,,,,,,"",""
+ball,1,16.5,Lancashire,CJ Green,JC Buttler,JA Thompson,0,0,,,,,,"",""
+ball,1,16.6,Lancashire,CJ Green,JC Buttler,JA Thompson,4,0,,,,,,"",""
+ball,1,17.1,Lancashire,JC Buttler,CJ Green,W Sutherland,4,0,,,,,,"",""
+ball,1,17.2,Lancashire,JC Buttler,CJ Green,W Sutherland,1,0,,,,,,"",""
+ball,1,17.3,Lancashire,CJ Green,JC Buttler,W Sutherland,0,0,,,,,,"",""
+ball,1,17.4,Lancashire,CJ Green,JC Buttler,W Sutherland,1,0,,,,,,"",""
+ball,1,17.5,Lancashire,JC Buttler,CJ Green,W Sutherland,1,0,,,,,,"",""
+ball,1,17.6,Lancashire,CJ Green,JC Buttler,W Sutherland,0,0,,,,,,caught,CJ Green
+ball,1,18.1,Lancashire,JC Buttler,JM Blatherwick,ME Milnes,4,0,,,,,,"",""
+ball,1,18.2,Lancashire,JC Buttler,JM Blatherwick,ME Milnes,1,0,,,,,,"",""
+ball,1,18.3,Lancashire,JM Blatherwick,JC Buttler,ME Milnes,0,0,,,,,,"",""
+ball,1,18.4,Lancashire,JM Blatherwick,JC Buttler,ME Milnes,6,0,,,,,,"",""
+ball,1,18.5,Lancashire,JM Blatherwick,JC Buttler,ME Milnes,0,0,,,,,,caught,JM Blatherwick
+ball,1,18.6,Lancashire,L Wood,JC Buttler,ME Milnes,0,0,,,,,,"",""
+ball,1,19.1,Lancashire,JC Buttler,L Wood,JA Thompson,0,0,,,,,,"",""
+ball,1,19.2,Lancashire,JC Buttler,L Wood,JA Thompson,1,0,,,,,,run out,L Wood
+ball,1,19.3,Lancashire,JC Buttler,TH Aspinwall,JA Thompson,0,0,,,,,,"",""
+ball,1,19.4,Lancashire,JC Buttler,TH Aspinwall,JA Thompson,1,0,,,,,,run out,JC Buttler
+ball,1,19.5,Lancashire,JM Anderson,TH Aspinwall,JA Thompson,0,0,,,,,,bowled,JM Anderson
+ball,2,0.1,Yorkshire,JM Bairstow,DJ Malan,JM Anderson,0,0,,,,,,"",""
+ball,2,0.2,Yorkshire,JM Bairstow,DJ Malan,JM Anderson,4,0,,,,,,"",""
+ball,2,0.3,Yorkshire,JM Bairstow,DJ Malan,JM Anderson,1,0,,,,,,"",""
+ball,2,0.4,Yorkshire,DJ Malan,JM Bairstow,JM Anderson,0,0,,,,,,"",""
+ball,2,0.5,Yorkshire,DJ Malan,JM Bairstow,JM Anderson,6,0,,,,,,"",""
+ball,2,0.6,Yorkshire,DJ Malan,JM Bairstow,JM Anderson,1,0,,,,,,"",""
+ball,2,1.1,Yorkshire,DJ Malan,JM Bairstow,L Wood,1,0,,,,,,"",""
+ball,2,1.2,Yorkshire,JM Bairstow,DJ Malan,L Wood,0,0,,,,,,bowled,JM Bairstow
+ball,2,1.3,Yorkshire,W Luxton,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,2,1.4,Yorkshire,W Luxton,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,2,1.5,Yorkshire,W Luxton,DJ Malan,L Wood,4,0,,,,,,"",""
+ball,2,1.6,Yorkshire,W Luxton,DJ Malan,L Wood,4,0,,,,,,"",""
+ball,2,2.1,Yorkshire,DJ Malan,W Luxton,JM Anderson,0,0,,,,,,"",""
+ball,2,2.2,Yorkshire,DJ Malan,W Luxton,JM Anderson,1,0,,,,,,"",""
+ball,2,2.3,Yorkshire,W Luxton,DJ Malan,JM Anderson,1,0,,,,,,"",""
+ball,2,2.4,Yorkshire,DJ Malan,W Luxton,JM Anderson,1,0,,,,,,"",""
+ball,2,2.5,Yorkshire,W Luxton,DJ Malan,JM Anderson,0,0,,,,,,caught,W Luxton
+ball,2,2.6,Yorkshire,Abdullah Shafique,DJ Malan,JM Anderson,1,0,,,,,,"",""
+ball,2,3.1,Yorkshire,Abdullah Shafique,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,2,3.2,Yorkshire,Abdullah Shafique,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,2,3.3,Yorkshire,Abdullah Shafique,DJ Malan,L Wood,4,0,,,,,,"",""
+ball,2,3.4,Yorkshire,Abdullah Shafique,DJ Malan,L Wood,0,0,,,,,,"",""
+ball,2,3.5,Yorkshire,Abdullah Shafique,DJ Malan,L Wood,1,0,,,,,,"",""
+ball,2,3.6,Yorkshire,DJ Malan,Abdullah Shafique,L Wood,1,0,,,,,,"",""
+ball,2,4.1,Yorkshire,DJ Malan,Abdullah Shafique,TH Aspinwall,0,0,,,,,,"",""
+ball,2,4.2,Yorkshire,DJ Malan,Abdullah Shafique,TH Aspinwall,1,0,,,,,,"",""
+ball,2,4.3,Yorkshire,Abdullah Shafique,DJ Malan,TH Aspinwall,1,0,,,,,,"",""
+ball,2,4.4,Yorkshire,DJ Malan,Abdullah Shafique,TH Aspinwall,6,0,,,,,,"",""
+ball,2,4.5,Yorkshire,DJ Malan,Abdullah Shafique,TH Aspinwall,1,0,,,,,,"",""
+ball,2,4.6,Yorkshire,Abdullah Shafique,DJ Malan,TH Aspinwall,4,0,,,,,,"",""
+ball,2,5.1,Yorkshire,DJ Malan,Abdullah Shafique,JM Anderson,0,0,,,,,,caught,DJ Malan
+ball,2,5.2,Yorkshire,JH Wharton,Abdullah Shafique,JM Anderson,0,0,,,,,,"",""
+ball,2,5.3,Yorkshire,JH Wharton,Abdullah Shafique,JM Anderson,2,0,,,,,,"",""
+ball,2,5.4,Yorkshire,JH Wharton,Abdullah Shafique,JM Anderson,1,0,,,,,,"",""
+ball,2,5.5,Yorkshire,Abdullah Shafique,JH Wharton,JM Anderson,1,0,,,,,,"",""
+ball,2,5.6,Yorkshire,JH Wharton,Abdullah Shafique,JM Anderson,1,0,,,,,,"",""
+ball,2,6.1,Yorkshire,JH Wharton,Abdullah Shafique,TH Aspinwall,1,0,,,,,,"",""
+ball,2,6.2,Yorkshire,Abdullah Shafique,JH Wharton,TH Aspinwall,2,0,,,,,,"",""
+ball,2,6.3,Yorkshire,Abdullah Shafique,JH Wharton,TH Aspinwall,1,0,,,,,,"",""
+ball,2,6.4,Yorkshire,JH Wharton,Abdullah Shafique,TH Aspinwall,1,0,,,,,,"",""
+ball,2,6.5,Yorkshire,Abdullah Shafique,JH Wharton,TH Aspinwall,4,0,,,,,,"",""
+ball,2,6.6,Yorkshire,Abdullah Shafique,JH Wharton,TH Aspinwall,2,0,,,,,,"",""
+ball,2,7.1,Yorkshire,JH Wharton,Abdullah Shafique,CJ Green,0,0,,,,,,"",""
+ball,2,7.2,Yorkshire,JH Wharton,Abdullah Shafique,CJ Green,4,0,,,,,,"",""
+ball,2,7.3,Yorkshire,JH Wharton,Abdullah Shafique,CJ Green,1,0,,,,,,"",""
+ball,2,7.4,Yorkshire,Abdullah Shafique,JH Wharton,CJ Green,1,0,,,,,,"",""
+ball,2,7.5,Yorkshire,JH Wharton,Abdullah Shafique,CJ Green,0,0,,,,,,bowled,JH Wharton
+ball,2,7.6,Yorkshire,DM Bess,Abdullah Shafique,CJ Green,4,0,,,,,,"",""
+ball,2,8.1,Yorkshire,Abdullah Shafique,DM Bess,JM Blatherwick,1,0,,,,,,"",""
+ball,2,8.2,Yorkshire,DM Bess,Abdullah Shafique,JM Blatherwick,1,0,,,,,,"",""
+ball,2,8.3,Yorkshire,Abdullah Shafique,DM Bess,JM Blatherwick,1,0,,,,,,"",""
+ball,2,8.4,Yorkshire,DM Bess,Abdullah Shafique,JM Blatherwick,1,0,,,,,,"",""
+ball,2,8.5,Yorkshire,Abdullah Shafique,DM Bess,JM Blatherwick,0,0,,,,,,"",""
+ball,2,8.6,Yorkshire,Abdullah Shafique,DM Bess,JM Blatherwick,4,0,,,,,,"",""
+ball,2,9.1,Yorkshire,DM Bess,Abdullah Shafique,LWP Wells,1,0,,,,,,"",""
+ball,2,9.2,Yorkshire,Abdullah Shafique,DM Bess,LWP Wells,1,0,,,,,,"",""
+ball,2,9.3,Yorkshire,DM Bess,Abdullah Shafique,LWP Wells,4,0,,,,,,"",""
+ball,2,9.4,Yorkshire,DM Bess,Abdullah Shafique,LWP Wells,1,0,,,,,,"",""
+ball,2,9.5,Yorkshire,Abdullah Shafique,DM Bess,LWP Wells,6,0,,,,,,"",""
+ball,2,9.6,Yorkshire,Abdullah Shafique,DM Bess,LWP Wells,0,0,,,,,,"",""
+ball,2,10.1,Yorkshire,DM Bess,Abdullah Shafique,L Wood,1,0,,,,,,"",""
+ball,2,10.2,Yorkshire,Abdullah Shafique,DM Bess,L Wood,4,0,,,,,,"",""
+ball,2,10.3,Yorkshire,Abdullah Shafique,DM Bess,L Wood,1,0,,,,,,"",""
+ball,2,10.4,Yorkshire,DM Bess,Abdullah Shafique,L Wood,0,0,,,,,,caught,DM Bess
+ball,2,10.5,Yorkshire,W Sutherland,Abdullah Shafique,L Wood,1,0,,,,,,"",""
+ball,2,10.6,Yorkshire,Abdullah Shafique,W Sutherland,L Wood,1,0,,,,,,"",""
+ball,2,11.1,Yorkshire,Abdullah Shafique,W Sutherland,CJ Green,1,0,,,,,,"",""
+ball,2,11.2,Yorkshire,W Sutherland,Abdullah Shafique,CJ Green,0,0,,,,,,"",""
+ball,2,11.3,Yorkshire,W Sutherland,Abdullah Shafique,CJ Green,4,0,,,,,,"",""
+ball,2,11.4,Yorkshire,W Sutherland,Abdullah Shafique,CJ Green,0,0,,,,,,"",""
+ball,2,11.5,Yorkshire,W Sutherland,Abdullah Shafique,CJ Green,1,0,,,,,,"",""
+ball,2,11.6,Yorkshire,Abdullah Shafique,W Sutherland,CJ Green,4,0,,,,,,"",""
+ball,2,12.1,Yorkshire,W Sutherland,Abdullah Shafique,JM Blatherwick,1,0,,,,,,"",""
+ball,2,12.2,Yorkshire,Abdullah Shafique,W Sutherland,JM Blatherwick,1,0,,,,,,"",""
+ball,2,12.3,Yorkshire,W Sutherland,Abdullah Shafique,JM Blatherwick,4,0,,,,,,"",""
+ball,2,12.4,Yorkshire,W Sutherland,Abdullah Shafique,JM Blatherwick,4,0,,,,,,"",""
+ball,2,12.5,Yorkshire,W Sutherland,Abdullah Shafique,JM Blatherwick,1,0,,,,,,"",""
+ball,2,12.6,Yorkshire,Abdullah Shafique,W Sutherland,JM Blatherwick,0,0,,,,,,"",""
+ball,2,13.1,Yorkshire,W Sutherland,Abdullah Shafique,TH Aspinwall,2,0,,,,,,"",""
+ball,2,13.2,Yorkshire,W Sutherland,Abdullah Shafique,TH Aspinwall,1,0,,,,,,"",""
+ball,2,13.3,Yorkshire,Abdullah Shafique,W Sutherland,TH Aspinwall,4,0,,,,,,"",""
+ball,2,13.4,Yorkshire,Abdullah Shafique,W Sutherland,TH Aspinwall,1,0,,,,,,"",""
+ball,2,13.5,Yorkshire,W Sutherland,Abdullah Shafique,TH Aspinwall,1,0,,,,,,"",""
+ball,2,13.6,Yorkshire,Abdullah Shafique,W Sutherland,TH Aspinwall,1,0,,,,,,"",""
+ball,2,14.1,Yorkshire,Abdullah Shafique,W Sutherland,JM Anderson,0,0,,,,,,"",""
+ball,2,14.2,Yorkshire,Abdullah Shafique,W Sutherland,JM Anderson,1,0,,,,,,"",""
+ball,2,14.3,Yorkshire,W Sutherland,Abdullah Shafique,JM Anderson,1,0,,,,,,"",""
+ball,2,14.4,Yorkshire,Abdullah Shafique,W Sutherland,JM Anderson,0,0,,,,,,caught,Abdullah Shafique
+ball,2,14.5,Yorkshire,JA Thompson,W Sutherland,JM Anderson,1,0,,,,,,"",""
+ball,2,14.6,Yorkshire,W Sutherland,JA Thompson,JM Anderson,1,0,,,,,,"",""
+ball,2,15.1,Yorkshire,W Sutherland,JA Thompson,CJ Green,1,0,,,,,,"",""
+ball,2,15.2,Yorkshire,JA Thompson,W Sutherland,CJ Green,1,0,,,,,,"",""
+ball,2,15.3,Yorkshire,W Sutherland,JA Thompson,CJ Green,1,0,,,,,,"",""
+ball,2,15.4,Yorkshire,JA Thompson,W Sutherland,CJ Green,0,0,,,,,,caught and bowled,JA Thompson
+ball,2,15.5,Yorkshire,ME Milnes,W Sutherland,CJ Green,0,0,,,,,,"",""
+ball,2,15.6,Yorkshire,ME Milnes,W Sutherland,CJ Green,0,0,,,,,,"",""
+ball,2,16.1,Yorkshire,W Sutherland,ME Milnes,L Wood,1,0,,,,,,"",""
+ball,2,16.2,Yorkshire,ME Milnes,W Sutherland,L Wood,6,0,,,,,,"",""
+ball,2,16.3,Yorkshire,ME Milnes,W Sutherland,L Wood,1,0,,,,,,"",""
+ball,2,16.4,Yorkshire,W Sutherland,ME Milnes,L Wood,1,0,,,,,,"",""
+ball,2,16.5,Yorkshire,ME Milnes,W Sutherland,L Wood,1,0,,,,,,"",""
+ball,2,16.6,Yorkshire,W Sutherland,ME Milnes,L Wood,0,0,,,,,,"",""
+ball,2,17.1,Yorkshire,ME Milnes,W Sutherland,CJ Green,0,0,,,,,,"",""
+ball,2,17.2,Yorkshire,ME Milnes,W Sutherland,CJ Green,1,0,,,,,,"",""
+ball,2,17.3,Yorkshire,W Sutherland,ME Milnes,CJ Green,1,0,,,,,,"",""
+ball,2,17.4,Yorkshire,ME Milnes,W Sutherland,CJ Green,1,0,,,,,,"",""
+ball,2,17.5,Yorkshire,W Sutherland,ME Milnes,CJ Green,1,0,,,,,,"",""
+ball,2,17.6,Yorkshire,ME Milnes,W Sutherland,CJ Green,0,0,,,,,,lbw,ME Milnes
+ball,2,18.1,Yorkshire,W Sutherland,JA Chohan,TH Aspinwall,0,0,,,,,,caught,W Sutherland
+ball,2,18.2,Yorkshire,D Moriarty,JA Chohan,TH Aspinwall,1,0,,,,,,"",""
+ball,2,18.3,Yorkshire,JA Chohan,D Moriarty,TH Aspinwall,0,0,,,,,,"",""
+ball,2,18.4,Yorkshire,JA Chohan,D Moriarty,TH Aspinwall,0,0,,,,,,"",""
+ball,2,18.5,Yorkshire,JA Chohan,D Moriarty,TH Aspinwall,1,0,,,,,,"",""
+ball,2,18.6,Yorkshire,D Moriarty,JA Chohan,TH Aspinwall,0,0,,,,,,"",""
+ball,2,19.1,Yorkshire,JA Chohan,D Moriarty,JM Blatherwick,0,0,,,,,,caught,JA Chohan

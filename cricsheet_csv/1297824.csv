@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Somerset
+info,gender,male
+info,season,2022
+info,date,2022/06/01
+info,event,Vitality Blast
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Somerset
+info,toss_decision,field
+info,umpire,NGB Cook
+info,umpire,PJ Hartley
+info,match_referee,SG Hinks
+info,winner,Sussex
+info,winner_runs,47
+info,player,Sussex,JR Philippe
+info,player,Sussex,LJ Wright
+info,player,Sussex,TP Alsop
+info,player,Sussex,RS Bopara
+info,player,Sussex,DMW Rawlins
+info,player,Sussex,GHS Garton
+info,player,Sussex,HD Ward
+info,player,Sussex,OC McCoy
+info,player,Sussex,TS Mills
+info,player,Sussex,AC Lenham
+info,player,Sussex,ST Finn
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Banton
+info,player,Somerset,RR Rossouw
+info,player,Somerset,TB Abell
+info,player,Somerset,TA Lammonby
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,M de Lange
+info,player,Somerset,JH Davey
+info,player,Somerset,LP Goldsworthy
+info,registry,people,AC Lenham,8f9c5014
+info,registry,people,BGF Green,34b37279
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JR Philippe,39086549
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,LP Goldsworthy,ed47cb25
+info,registry,people,M de Lange,d4eef961
+info,registry,people,NGB Cook,772fe461
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WCF Smeed,4e18e961
+ball,1,0.1,Sussex,JR Philippe,LJ Wright,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.2,Sussex,JR Philippe,LJ Wright,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.3,Sussex,JR Philippe,LJ Wright,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.4,Sussex,JR Philippe,LJ Wright,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.5,Sussex,JR Philippe,LJ Wright,TA Lammonby,0,0,,,,,,"",""
+ball,1,0.6,Sussex,JR Philippe,LJ Wright,TA Lammonby,0,0,,,,,,"",""
+ball,1,1.1,Sussex,LJ Wright,JR Philippe,JH Davey,4,0,,,,,,"",""
+ball,1,1.2,Sussex,LJ Wright,JR Philippe,JH Davey,6,0,,,,,,"",""
+ball,1,1.3,Sussex,LJ Wright,JR Philippe,JH Davey,0,0,,,,,,"",""
+ball,1,1.4,Sussex,LJ Wright,JR Philippe,JH Davey,0,0,,,,,,caught,LJ Wright
+ball,1,1.5,Sussex,TP Alsop,JR Philippe,JH Davey,4,0,,,,,,"",""
+ball,1,1.6,Sussex,TP Alsop,JR Philippe,JH Davey,0,1,1,,,,,"",""
+ball,1,1.7,Sussex,TP Alsop,JR Philippe,JH Davey,1,0,,,,,,"",""
+ball,1,2.1,Sussex,TP Alsop,JR Philippe,TA Lammonby,4,0,,,,,,"",""
+ball,1,2.2,Sussex,TP Alsop,JR Philippe,TA Lammonby,1,0,,,,,,"",""
+ball,1,2.3,Sussex,JR Philippe,TP Alsop,TA Lammonby,2,0,,,,,,"",""
+ball,1,2.4,Sussex,JR Philippe,TP Alsop,TA Lammonby,6,0,,,,,,"",""
+ball,1,2.5,Sussex,JR Philippe,TP Alsop,TA Lammonby,1,0,,,,,,"",""
+ball,1,2.6,Sussex,TP Alsop,JR Philippe,TA Lammonby,1,0,,,,,,"",""
+ball,1,3.1,Sussex,TP Alsop,JR Philippe,L Gregory,1,0,,,,,,"",""
+ball,1,3.2,Sussex,JR Philippe,TP Alsop,L Gregory,0,0,,,,,,"",""
+ball,1,3.3,Sussex,JR Philippe,TP Alsop,L Gregory,1,0,,,,,,"",""
+ball,1,3.4,Sussex,TP Alsop,JR Philippe,L Gregory,6,0,,,,,,"",""
+ball,1,3.5,Sussex,TP Alsop,JR Philippe,L Gregory,1,0,,,,,,"",""
+ball,1,3.6,Sussex,JR Philippe,TP Alsop,L Gregory,4,0,,,,,,"",""
+ball,1,4.1,Sussex,TP Alsop,JR Philippe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,4.2,Sussex,JR Philippe,TP Alsop,RE van der Merwe,0,0,,,,,,"",""
+ball,1,4.3,Sussex,JR Philippe,TP Alsop,RE van der Merwe,6,0,,,,,,"",""
+ball,1,4.4,Sussex,JR Philippe,TP Alsop,RE van der Merwe,1,0,,,,,,"",""
+ball,1,4.5,Sussex,TP Alsop,JR Philippe,RE van der Merwe,0,0,,,,,,"",""
+ball,1,4.6,Sussex,TP Alsop,JR Philippe,RE van der Merwe,0,0,,,,,,"",""
+ball,1,5.1,Sussex,JR Philippe,TP Alsop,BGF Green,1,0,,,,,,"",""
+ball,1,5.2,Sussex,TP Alsop,JR Philippe,BGF Green,1,0,,,,,,"",""
+ball,1,5.3,Sussex,JR Philippe,TP Alsop,BGF Green,1,0,,,,,,"",""
+ball,1,5.4,Sussex,TP Alsop,JR Philippe,BGF Green,6,0,,,,,,"",""
+ball,1,5.5,Sussex,TP Alsop,JR Philippe,BGF Green,0,0,,,,,,"",""
+ball,1,5.6,Sussex,TP Alsop,JR Philippe,BGF Green,1,0,,,,,,"",""
+ball,1,6.1,Sussex,TP Alsop,JR Philippe,RE van der Merwe,2,0,,,,,,"",""
+ball,1,6.2,Sussex,TP Alsop,JR Philippe,RE van der Merwe,0,0,,,,,,caught,TP Alsop
+ball,1,6.3,Sussex,RS Bopara,JR Philippe,RE van der Merwe,2,0,,,,,,"",""
+ball,1,6.4,Sussex,RS Bopara,JR Philippe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.5,Sussex,JR Philippe,RS Bopara,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.6,Sussex,RS Bopara,JR Philippe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,7.1,Sussex,RS Bopara,JR Philippe,M de Lange,1,0,,,,,,"",""
+ball,1,7.2,Sussex,JR Philippe,RS Bopara,M de Lange,1,0,,,,,,"",""
+ball,1,7.3,Sussex,RS Bopara,JR Philippe,M de Lange,1,0,,,,,,"",""
+ball,1,7.4,Sussex,JR Philippe,RS Bopara,M de Lange,6,0,,,,,,"",""
+ball,1,7.5,Sussex,JR Philippe,RS Bopara,M de Lange,1,0,,,,,,"",""
+ball,1,7.6,Sussex,RS Bopara,JR Philippe,M de Lange,2,0,,,,,,"",""
+ball,1,8.1,Sussex,JR Philippe,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,8.2,Sussex,RS Bopara,JR Philippe,BGF Green,1,0,,,,,,"",""
+ball,1,8.3,Sussex,JR Philippe,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,8.4,Sussex,RS Bopara,JR Philippe,BGF Green,1,0,,,,,,"",""
+ball,1,8.5,Sussex,JR Philippe,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,8.6,Sussex,RS Bopara,JR Philippe,BGF Green,0,0,,,,,,"",""
+ball,1,9.1,Sussex,JR Philippe,RS Bopara,LP Goldsworthy,1,0,,,,,,"",""
+ball,1,9.2,Sussex,RS Bopara,JR Philippe,LP Goldsworthy,1,0,,,,,,"",""
+ball,1,9.3,Sussex,JR Philippe,RS Bopara,LP Goldsworthy,1,0,,,,,,"",""
+ball,1,9.4,Sussex,RS Bopara,JR Philippe,LP Goldsworthy,4,0,,,,,,"",""
+ball,1,9.5,Sussex,RS Bopara,JR Philippe,LP Goldsworthy,1,0,,,,,,"",""
+ball,1,9.6,Sussex,JR Philippe,RS Bopara,LP Goldsworthy,4,0,,,,,,"",""
+ball,1,10.1,Sussex,RS Bopara,JR Philippe,BGF Green,1,0,,,,,,"",""
+ball,1,10.2,Sussex,JR Philippe,RS Bopara,BGF Green,1,0,,,,,,"",""
+ball,1,10.3,Sussex,RS Bopara,JR Philippe,BGF Green,4,0,,,,,,"",""
+ball,1,10.4,Sussex,RS Bopara,JR Philippe,BGF Green,2,0,,,,,,"",""
+ball,1,10.5,Sussex,RS Bopara,JR Philippe,BGF Green,2,0,,,,,,"",""
+ball,1,10.6,Sussex,RS Bopara,JR Philippe,BGF Green,1,0,,,,,,"",""
+ball,1,11.1,Sussex,RS Bopara,JR Philippe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,11.2,Sussex,JR Philippe,RS Bopara,RE van der Merwe,1,0,,,,,,"",""
+ball,1,11.3,Sussex,RS Bopara,JR Philippe,RE van der Merwe,0,0,,,,,,"",""
+ball,1,11.4,Sussex,RS Bopara,JR Philippe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,11.5,Sussex,JR Philippe,RS Bopara,RE van der Merwe,2,0,,,,,,"",""
+ball,1,11.6,Sussex,JR Philippe,RS Bopara,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.1,Sussex,JR Philippe,RS Bopara,JH Davey,1,0,,,,,,"",""
+ball,1,12.2,Sussex,RS Bopara,JR Philippe,JH Davey,1,0,,,,,,"",""
+ball,1,12.3,Sussex,JR Philippe,RS Bopara,JH Davey,1,0,,,,,,"",""
+ball,1,12.4,Sussex,RS Bopara,JR Philippe,JH Davey,4,0,,,,,,"",""
+ball,1,12.5,Sussex,RS Bopara,JR Philippe,JH Davey,1,0,,,,,,"",""
+ball,1,12.6,Sussex,JR Philippe,RS Bopara,JH Davey,1,0,,,,,,"",""
+ball,1,13.1,Sussex,JR Philippe,RS Bopara,RE van der Merwe,1,0,,,,,,"",""
+ball,1,13.2,Sussex,RS Bopara,JR Philippe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,13.3,Sussex,JR Philippe,RS Bopara,RE van der Merwe,4,0,,,,,,"",""
+ball,1,13.4,Sussex,JR Philippe,RS Bopara,RE van der Merwe,1,0,,,,,,"",""
+ball,1,13.5,Sussex,RS Bopara,JR Philippe,RE van der Merwe,2,0,,,,,,"",""
+ball,1,13.6,Sussex,RS Bopara,JR Philippe,RE van der Merwe,0,0,,,,,,"",""
+ball,1,14.1,Sussex,JR Philippe,RS Bopara,M de Lange,1,0,,,,,,"",""
+ball,1,14.2,Sussex,RS Bopara,JR Philippe,M de Lange,4,0,,,,,,"",""
+ball,1,14.3,Sussex,RS Bopara,JR Philippe,M de Lange,4,0,,,,,,"",""
+ball,1,14.4,Sussex,RS Bopara,JR Philippe,M de Lange,1,0,,,,,,"",""
+ball,1,14.5,Sussex,JR Philippe,RS Bopara,M de Lange,1,0,,,,,,"",""
+ball,1,14.6,Sussex,RS Bopara,JR Philippe,M de Lange,1,0,,,,,,"",""
+ball,1,15.1,Sussex,RS Bopara,JR Philippe,JH Davey,0,0,,,,,,"",""
+ball,1,15.2,Sussex,RS Bopara,JR Philippe,JH Davey,0,2,,,2,,,"",""
+ball,1,15.3,Sussex,RS Bopara,JR Philippe,JH Davey,1,0,,,,,,"",""
+ball,1,15.4,Sussex,JR Philippe,RS Bopara,JH Davey,1,0,,,,,,"",""
+ball,1,15.5,Sussex,RS Bopara,JR Philippe,JH Davey,0,0,,,,,,caught,RS Bopara
+ball,1,15.6,Sussex,DMW Rawlins,JR Philippe,JH Davey,4,0,,,,,,"",""
+ball,1,16.1,Sussex,JR Philippe,DMW Rawlins,BGF Green,6,0,,,,,,"",""
+ball,1,16.2,Sussex,JR Philippe,DMW Rawlins,BGF Green,6,0,,,,,,"",""
+ball,1,16.3,Sussex,JR Philippe,DMW Rawlins,BGF Green,0,0,,,,,,caught,JR Philippe
+ball,1,16.4,Sussex,GHS Garton,DMW Rawlins,BGF Green,2,0,,,,,,"",""
+ball,1,16.5,Sussex,GHS Garton,DMW Rawlins,BGF Green,0,1,,,,1,,"",""
+ball,1,16.6,Sussex,DMW Rawlins,GHS Garton,BGF Green,1,0,,,,,,"",""
+ball,1,17.1,Sussex,DMW Rawlins,GHS Garton,M de Lange,6,0,,,,,,"",""
+ball,1,17.2,Sussex,DMW Rawlins,GHS Garton,M de Lange,0,0,,,,,,"",""
+ball,1,17.3,Sussex,DMW Rawlins,GHS Garton,M de Lange,2,0,,,,,,"",""
+ball,1,17.4,Sussex,DMW Rawlins,GHS Garton,M de Lange,1,0,,,,,,"",""
+ball,1,17.5,Sussex,GHS Garton,DMW Rawlins,M de Lange,1,0,,,,,,"",""
+ball,1,17.6,Sussex,DMW Rawlins,GHS Garton,M de Lange,0,0,,,,,,caught,DMW Rawlins
+ball,1,18.1,Sussex,GHS Garton,HD Ward,JH Davey,4,0,,,,,,"",""
+ball,1,18.2,Sussex,GHS Garton,HD Ward,JH Davey,6,0,,,,,,"",""
+ball,1,18.3,Sussex,GHS Garton,HD Ward,JH Davey,1,0,,,,,,"",""
+ball,1,18.4,Sussex,HD Ward,GHS Garton,JH Davey,1,0,,,,,,"",""
+ball,1,18.5,Sussex,GHS Garton,HD Ward,JH Davey,0,0,,,,,,bowled,GHS Garton
+ball,1,18.6,Sussex,OC McCoy,HD Ward,JH Davey,0,1,1,,,,,"",""
+ball,1,18.7,Sussex,OC McCoy,HD Ward,JH Davey,1,0,,,,,,"",""
+ball,1,19.1,Sussex,OC McCoy,HD Ward,M de Lange,0,0,,,,,,lbw,OC McCoy
+ball,1,19.2,Sussex,TS Mills,HD Ward,M de Lange,0,1,,,1,,,"",""
+ball,1,19.3,Sussex,HD Ward,TS Mills,M de Lange,6,0,,,,,,"",""
+ball,1,19.4,Sussex,HD Ward,TS Mills,M de Lange,6,0,,,,,,"",""
+ball,1,19.5,Sussex,HD Ward,TS Mills,M de Lange,4,0,,,,,,"",""
+ball,1,19.6,Sussex,HD Ward,TS Mills,M de Lange,6,0,,,,,,"",""
+ball,2,0.1,Somerset,WCF Smeed,T Banton,GHS Garton,0,0,,,,,,"",""
+ball,2,0.2,Somerset,WCF Smeed,T Banton,GHS Garton,0,0,,,,,,"",""
+ball,2,0.3,Somerset,WCF Smeed,T Banton,GHS Garton,0,0,,,,,,"",""
+ball,2,0.4,Somerset,WCF Smeed,T Banton,GHS Garton,0,0,,,,,,"",""
+ball,2,0.5,Somerset,WCF Smeed,T Banton,GHS Garton,1,0,,,,,,"",""
+ball,2,0.6,Somerset,T Banton,WCF Smeed,GHS Garton,0,0,,,,,,"",""
+ball,2,1.1,Somerset,WCF Smeed,T Banton,OC McCoy,0,0,,,,,,"",""
+ball,2,1.2,Somerset,WCF Smeed,T Banton,OC McCoy,4,0,,,,,,"",""
+ball,2,1.3,Somerset,WCF Smeed,T Banton,OC McCoy,0,0,,,,,,caught,WCF Smeed
+ball,2,1.4,Somerset,RR Rossouw,T Banton,OC McCoy,2,0,,,,,,"",""
+ball,2,1.5,Somerset,RR Rossouw,T Banton,OC McCoy,6,0,,,,,,"",""
+ball,2,1.6,Somerset,RR Rossouw,T Banton,OC McCoy,2,0,,,,,,"",""
+ball,2,2.1,Somerset,T Banton,RR Rossouw,GHS Garton,4,0,,,,,,"",""
+ball,2,2.2,Somerset,T Banton,RR Rossouw,GHS Garton,1,0,,,,,,"",""
+ball,2,2.3,Somerset,RR Rossouw,T Banton,GHS Garton,4,0,,,,,,"",""
+ball,2,2.4,Somerset,RR Rossouw,T Banton,GHS Garton,1,0,,,,,,"",""
+ball,2,2.5,Somerset,T Banton,RR Rossouw,GHS Garton,1,0,,,,,,"",""
+ball,2,2.6,Somerset,RR Rossouw,T Banton,GHS Garton,1,0,,,,,,"",""
+ball,2,3.1,Somerset,RR Rossouw,T Banton,TS Mills,4,0,,,,,,"",""
+ball,2,3.2,Somerset,RR Rossouw,T Banton,TS Mills,6,0,,,,,,"",""
+ball,2,3.3,Somerset,RR Rossouw,T Banton,TS Mills,1,0,,,,,,"",""
+ball,2,3.4,Somerset,T Banton,RR Rossouw,TS Mills,1,0,,,,,,"",""
+ball,2,3.5,Somerset,RR Rossouw,T Banton,TS Mills,6,0,,,,,,"",""
+ball,2,3.6,Somerset,RR Rossouw,T Banton,TS Mills,0,0,,,,,,"",""
+ball,2,4.1,Somerset,T Banton,RR Rossouw,OC McCoy,0,0,,,,,,caught and bowled,T Banton
+ball,2,4.2,Somerset,TB Abell,RR Rossouw,OC McCoy,0,0,,,,,,"",""
+ball,2,4.3,Somerset,TB Abell,RR Rossouw,OC McCoy,1,0,,,,,,"",""
+ball,2,4.4,Somerset,RR Rossouw,TB Abell,OC McCoy,0,0,,,,,,"",""
+ball,2,4.5,Somerset,RR Rossouw,TB Abell,OC McCoy,6,0,,,,,,"",""
+ball,2,4.6,Somerset,RR Rossouw,TB Abell,OC McCoy,1,0,,,,,,"",""
+ball,2,5.1,Somerset,RR Rossouw,TB Abell,ST Finn,0,0,,,,,,"",""
+ball,2,5.2,Somerset,RR Rossouw,TB Abell,ST Finn,4,0,,,,,,"",""
+ball,2,5.3,Somerset,RR Rossouw,TB Abell,ST Finn,6,0,,,,,,"",""
+ball,2,5.4,Somerset,RR Rossouw,TB Abell,ST Finn,1,0,,,,,,"",""
+ball,2,5.5,Somerset,TB Abell,RR Rossouw,ST Finn,0,0,,,,,,"",""
+ball,2,5.6,Somerset,TB Abell,RR Rossouw,ST Finn,0,0,,,,,,"",""
+ball,2,6.1,Somerset,RR Rossouw,TB Abell,AC Lenham,4,0,,,,,,"",""
+ball,2,6.2,Somerset,RR Rossouw,TB Abell,AC Lenham,0,1,1,,,,,"",""
+ball,2,6.3,Somerset,RR Rossouw,TB Abell,AC Lenham,4,0,,,,,,"",""
+ball,2,6.4,Somerset,RR Rossouw,TB Abell,AC Lenham,4,0,,,,,,"",""
+ball,2,6.5,Somerset,RR Rossouw,TB Abell,AC Lenham,0,0,,,,,,"",""
+ball,2,6.6,Somerset,RR Rossouw,TB Abell,AC Lenham,1,0,,,,,,"",""
+ball,2,6.7,Somerset,TB Abell,RR Rossouw,AC Lenham,0,0,,,,,,"",""
+ball,2,7.1,Somerset,RR Rossouw,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,2,7.2,Somerset,TB Abell,RR Rossouw,RS Bopara,2,0,,,,,,"",""
+ball,2,7.3,Somerset,TB Abell,RR Rossouw,RS Bopara,1,0,,,,,,"",""
+ball,2,7.4,Somerset,RR Rossouw,TB Abell,RS Bopara,0,0,,,,,,"",""
+ball,2,7.5,Somerset,RR Rossouw,TB Abell,RS Bopara,4,0,,,,,,"",""
+ball,2,7.6,Somerset,RR Rossouw,TB Abell,RS Bopara,4,0,,,,,,"",""
+ball,2,8.1,Somerset,TB Abell,RR Rossouw,DMW Rawlins,1,0,,,,,,"",""
+ball,2,8.2,Somerset,RR Rossouw,TB Abell,DMW Rawlins,1,0,,,,,,"",""
+ball,2,8.3,Somerset,TB Abell,RR Rossouw,DMW Rawlins,1,0,,,,,,"",""
+ball,2,8.4,Somerset,RR Rossouw,TB Abell,DMW Rawlins,0,0,,,,,,caught,RR Rossouw
+ball,2,8.5,Somerset,TA Lammonby,TB Abell,DMW Rawlins,1,0,,,,,,"",""
+ball,2,8.6,Somerset,TB Abell,TA Lammonby,DMW Rawlins,1,0,,,,,,"",""
+ball,2,9.1,Somerset,TB Abell,TA Lammonby,ST Finn,1,0,,,,,,"",""
+ball,2,9.2,Somerset,TA Lammonby,TB Abell,ST Finn,1,0,,,,,,"",""
+ball,2,9.3,Somerset,TB Abell,TA Lammonby,ST Finn,1,0,,,,,,"",""
+ball,2,9.4,Somerset,TA Lammonby,TB Abell,ST Finn,1,0,,,,,,"",""
+ball,2,9.5,Somerset,TB Abell,TA Lammonby,ST Finn,0,0,,,,,,"",""
+ball,2,9.6,Somerset,TB Abell,TA Lammonby,ST Finn,4,0,,,,,,"",""
+ball,2,10.1,Somerset,TA Lammonby,TB Abell,DMW Rawlins,1,0,,,,,,"",""
+ball,2,10.2,Somerset,TB Abell,TA Lammonby,DMW Rawlins,2,0,,,,,,"",""
+ball,2,10.3,Somerset,TB Abell,TA Lammonby,DMW Rawlins,1,0,,,,,,"",""
+ball,2,10.4,Somerset,TA Lammonby,TB Abell,DMW Rawlins,1,0,,,,,,"",""
+ball,2,10.5,Somerset,TB Abell,TA Lammonby,DMW Rawlins,1,0,,,,,,"",""
+ball,2,10.6,Somerset,TA Lammonby,TB Abell,DMW Rawlins,2,0,,,,,,"",""
+ball,2,11.1,Somerset,TB Abell,TA Lammonby,RS Bopara,2,0,,,,,,"",""
+ball,2,11.2,Somerset,TB Abell,TA Lammonby,RS Bopara,1,0,,,,,,"",""
+ball,2,11.3,Somerset,TA Lammonby,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,2,11.4,Somerset,TB Abell,TA Lammonby,RS Bopara,2,0,,,,,,"",""
+ball,2,11.5,Somerset,TB Abell,TA Lammonby,RS Bopara,1,0,,,,,,"",""
+ball,2,11.6,Somerset,TA Lammonby,TB Abell,RS Bopara,1,0,,,,,,"",""
+ball,2,12.1,Somerset,TA Lammonby,TB Abell,TS Mills,1,0,,,,,,"",""
+ball,2,12.2,Somerset,TB Abell,TA Lammonby,TS Mills,0,0,,,,,,caught,TB Abell
+ball,2,12.3,Somerset,RE van der Merwe,TA Lammonby,TS Mills,0,0,,,,,,"",""
+ball,2,12.4,Somerset,RE van der Merwe,TA Lammonby,TS Mills,1,0,,,,,,"",""
+ball,2,12.5,Somerset,TA Lammonby,RE van der Merwe,TS Mills,0,2,,,,2,,"",""
+ball,2,12.6,Somerset,TA Lammonby,RE van der Merwe,TS Mills,4,0,,,,,,"",""
+ball,2,13.1,Somerset,RE van der Merwe,TA Lammonby,ST Finn,1,0,,,,,,"",""
+ball,2,13.2,Somerset,TA Lammonby,RE van der Merwe,ST Finn,4,0,,,,,,"",""
+ball,2,13.3,Somerset,TA Lammonby,RE van der Merwe,ST Finn,6,0,,,,,,"",""
+ball,2,13.4,Somerset,TA Lammonby,RE van der Merwe,ST Finn,0,0,,,,,,"",""
+ball,2,13.5,Somerset,TA Lammonby,RE van der Merwe,ST Finn,1,0,,,,,,"",""
+ball,2,13.6,Somerset,RE van der Merwe,TA Lammonby,ST Finn,6,0,,,,,,"",""
+ball,2,14.1,Somerset,TA Lammonby,RE van der Merwe,RS Bopara,1,0,,,,,,"",""
+ball,2,14.2,Somerset,RE van der Merwe,TA Lammonby,RS Bopara,1,0,,,,,,"",""
+ball,2,14.3,Somerset,TA Lammonby,RE van der Merwe,RS Bopara,0,0,,,,,,"",""
+ball,2,14.4,Somerset,TA Lammonby,RE van der Merwe,RS Bopara,2,0,,,,,,"",""
+ball,2,14.5,Somerset,TA Lammonby,RE van der Merwe,RS Bopara,1,0,,,,,,"",""
+ball,2,14.6,Somerset,RE van der Merwe,TA Lammonby,RS Bopara,0,0,,,,,,"",""
+ball,2,15.1,Somerset,TA Lammonby,RE van der Merwe,OC McCoy,0,0,,,,,,"",""
+ball,2,15.2,Somerset,TA Lammonby,RE van der Merwe,OC McCoy,1,0,,,,,,"",""
+ball,2,15.3,Somerset,RE van der Merwe,TA Lammonby,OC McCoy,0,0,,,,,,"",""
+ball,2,15.4,Somerset,RE van der Merwe,TA Lammonby,OC McCoy,1,0,,,,,,"",""
+ball,2,15.5,Somerset,TA Lammonby,RE van der Merwe,OC McCoy,0,0,,,,,,caught,TA Lammonby
+ball,2,15.6,Somerset,L Gregory,RE van der Merwe,OC McCoy,0,0,,,,,,caught,L Gregory
+ball,2,16.1,Somerset,RE van der Merwe,BGF Green,TS Mills,0,0,,,,,,"",""
+ball,2,16.2,Somerset,RE van der Merwe,BGF Green,TS Mills,0,0,,,,,,"",""
+ball,2,16.3,Somerset,RE van der Merwe,BGF Green,TS Mills,0,0,,,,,,caught,RE van der Merwe
+ball,2,16.4,Somerset,M de Lange,BGF Green,TS Mills,0,0,,,,,,caught,M de Lange
+ball,2,16.5,Somerset,JH Davey,BGF Green,TS Mills,1,0,,,,,,"",""
+ball,2,16.6,Somerset,BGF Green,JH Davey,TS Mills,0,0,,,,,,"",""
+ball,2,17.1,Somerset,JH Davey,BGF Green,OC McCoy,1,0,,,,,,"",""
+ball,2,17.2,Somerset,BGF Green,JH Davey,OC McCoy,0,0,,,,,,"",""
+ball,2,17.3,Somerset,BGF Green,JH Davey,OC McCoy,0,0,,,,,,caught,BGF Green
+ball,2,17.4,Somerset,LP Goldsworthy,JH Davey,OC McCoy,4,0,,,,,,"",""
+ball,2,17.5,Somerset,LP Goldsworthy,JH Davey,OC McCoy,0,0,,,,,,"",""
+ball,2,17.6,Somerset,LP Goldsworthy,JH Davey,OC McCoy,4,0,,,,,,"",""
+ball,2,18.1,Somerset,JH Davey,LP Goldsworthy,TS Mills,2,0,,,,,,"",""
+ball,2,18.2,Somerset,JH Davey,LP Goldsworthy,TS Mills,4,0,,,,,,"",""
+ball,2,18.3,Somerset,JH Davey,LP Goldsworthy,TS Mills,1,0,,,,,,"",""
+ball,2,18.4,Somerset,LP Goldsworthy,JH Davey,TS Mills,0,0,,,,,,"",""
+ball,2,18.5,Somerset,LP Goldsworthy,JH Davey,TS Mills,0,0,,,,,,caught,LP Goldsworthy

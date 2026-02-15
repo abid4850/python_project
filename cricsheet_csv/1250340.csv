@@ -1,0 +1,280 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Kent
+info,gender,male
+info,season,2021
+info,date,2021/07/09
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Kent
+info,toss_decision,field
+info,player_of_match,DJ Bell-Drummond
+info,umpire,IJ Gould
+info,umpire,Tom Lungley
+info,match_referee,AJ Swann
+info,winner,Kent
+info,winner_wickets,9
+info,player,Surrey,JL Smith
+info,player,Surrey,BBA Geddes
+info,player,Surrey,LJ Evans
+info,player,Surrey,RJ Burns
+info,player,Surrey,TH David
+info,player,Surrey,J Clark
+info,player,Surrey,J Overton
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,GJ Batty
+info,player,Surrey,C McKerr
+info,player,Surrey,D Moriarty
+info,player,Kent,JL Denly
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,OG Robinson
+info,player,Kent,JA Leaning
+info,player,Kent,JM Cox
+info,player,Kent,AJ Blake
+info,player,Kent,DI Stevens
+info,player,Kent,AF Milne
+info,player,Kent,Qais Ahmad
+info,player,Kent,ME Milnes
+info,player,Kent,FJ Klaassen
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,BBA Geddes,305c31f2
+info,registry,people,C McKerr,5ccdb14f
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DI Stevens,bca21d18
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,GJ Batty,5ac8f17b
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,TH David,f1f99156
+info,registry,people,Tom Lungley,75169b8c
+ball,1,0.1,Surrey,JL Smith,BBA Geddes,JL Denly,1,0,,,,,,"",""
+ball,1,0.2,Surrey,BBA Geddes,JL Smith,JL Denly,2,0,,,,,,"",""
+ball,1,0.3,Surrey,BBA Geddes,JL Smith,JL Denly,0,0,,,,,,"",""
+ball,1,0.4,Surrey,BBA Geddes,JL Smith,JL Denly,0,0,,,,,,"",""
+ball,1,0.5,Surrey,BBA Geddes,JL Smith,JL Denly,1,0,,,,,,"",""
+ball,1,0.6,Surrey,JL Smith,BBA Geddes,JL Denly,0,0,,,,,,"",""
+ball,1,1.1,Surrey,BBA Geddes,JL Smith,AF Milne,3,0,,,,,,"",""
+ball,1,1.2,Surrey,JL Smith,BBA Geddes,AF Milne,0,0,,,,,,caught,JL Smith
+ball,1,1.3,Surrey,LJ Evans,BBA Geddes,AF Milne,0,0,,,,,,"",""
+ball,1,1.4,Surrey,LJ Evans,BBA Geddes,AF Milne,1,0,,,,,,"",""
+ball,1,1.5,Surrey,BBA Geddes,LJ Evans,AF Milne,0,0,,,,,,"",""
+ball,1,1.6,Surrey,BBA Geddes,LJ Evans,AF Milne,0,0,,,,,,"",""
+ball,1,2.1,Surrey,LJ Evans,BBA Geddes,JL Denly,0,0,,,,,,"",""
+ball,1,2.2,Surrey,LJ Evans,BBA Geddes,JL Denly,0,0,,,,,,"",""
+ball,1,2.3,Surrey,LJ Evans,BBA Geddes,JL Denly,1,0,,,,,,"",""
+ball,1,2.4,Surrey,BBA Geddes,LJ Evans,JL Denly,0,0,,,,,,"",""
+ball,1,2.5,Surrey,BBA Geddes,LJ Evans,JL Denly,1,0,,,,,,"",""
+ball,1,2.6,Surrey,LJ Evans,BBA Geddes,JL Denly,1,0,,,,,,"",""
+ball,1,3.1,Surrey,LJ Evans,BBA Geddes,AF Milne,0,0,,,,,,"",""
+ball,1,3.2,Surrey,LJ Evans,BBA Geddes,AF Milne,0,1,,,,1,,"",""
+ball,1,3.3,Surrey,BBA Geddes,LJ Evans,AF Milne,0,0,,,,,,"",""
+ball,1,3.4,Surrey,BBA Geddes,LJ Evans,AF Milne,0,0,,,,,,"",""
+ball,1,3.5,Surrey,BBA Geddes,LJ Evans,AF Milne,1,0,,,,,,"",""
+ball,1,3.6,Surrey,LJ Evans,BBA Geddes,AF Milne,1,0,,,,,,"",""
+ball,1,4.1,Surrey,LJ Evans,BBA Geddes,FJ Klaassen,0,0,,,,,,"",""
+ball,1,4.2,Surrey,LJ Evans,BBA Geddes,FJ Klaassen,1,0,,,,,,"",""
+ball,1,4.3,Surrey,BBA Geddes,LJ Evans,FJ Klaassen,0,0,,,,,,"",""
+ball,1,4.4,Surrey,BBA Geddes,LJ Evans,FJ Klaassen,0,0,,,,,,caught,BBA Geddes
+ball,1,4.5,Surrey,LJ Evans,RJ Burns,FJ Klaassen,1,0,,,,,,"",""
+ball,1,4.6,Surrey,RJ Burns,LJ Evans,FJ Klaassen,0,0,,,,,,"",""
+ball,1,5.1,Surrey,LJ Evans,RJ Burns,ME Milnes,0,0,,,,,,caught,LJ Evans
+ball,1,5.2,Surrey,RJ Burns,TH David,ME Milnes,0,0,,,,,,"",""
+ball,1,5.3,Surrey,RJ Burns,TH David,ME Milnes,0,0,,,,,,"",""
+ball,1,5.4,Surrey,RJ Burns,TH David,ME Milnes,1,0,,,,,,"",""
+ball,1,5.5,Surrey,TH David,RJ Burns,ME Milnes,0,0,,,,,,"",""
+ball,1,5.6,Surrey,TH David,RJ Burns,ME Milnes,0,0,,,,,,"",""
+ball,1,6.1,Surrey,RJ Burns,TH David,Qais Ahmad,1,0,,,,,,"",""
+ball,1,6.2,Surrey,TH David,RJ Burns,Qais Ahmad,0,0,,,,,,"",""
+ball,1,6.3,Surrey,TH David,RJ Burns,Qais Ahmad,0,0,,,,,,"",""
+ball,1,6.4,Surrey,TH David,RJ Burns,Qais Ahmad,1,0,,,,,,"",""
+ball,1,6.5,Surrey,RJ Burns,TH David,Qais Ahmad,0,0,,,,,,"",""
+ball,1,6.6,Surrey,RJ Burns,TH David,Qais Ahmad,2,0,,,,,,"",""
+ball,1,7.1,Surrey,TH David,RJ Burns,ME Milnes,0,0,,,,,,"",""
+ball,1,7.2,Surrey,TH David,RJ Burns,ME Milnes,1,0,,,,,,"",""
+ball,1,7.3,Surrey,RJ Burns,TH David,ME Milnes,0,0,,,,,,"",""
+ball,1,7.4,Surrey,RJ Burns,TH David,ME Milnes,1,0,,,,,,"",""
+ball,1,7.5,Surrey,TH David,RJ Burns,ME Milnes,1,0,,,,,,"",""
+ball,1,7.6,Surrey,RJ Burns,TH David,ME Milnes,0,0,,,,,,"",""
+ball,1,8.1,Surrey,TH David,RJ Burns,Qais Ahmad,1,0,,,,,,"",""
+ball,1,8.2,Surrey,RJ Burns,TH David,Qais Ahmad,1,0,,,,,,"",""
+ball,1,8.3,Surrey,TH David,RJ Burns,Qais Ahmad,0,0,,,,,,"",""
+ball,1,8.4,Surrey,TH David,RJ Burns,Qais Ahmad,0,0,,,,,,"",""
+ball,1,8.5,Surrey,TH David,RJ Burns,Qais Ahmad,1,0,,,,,,"",""
+ball,1,8.6,Surrey,RJ Burns,TH David,Qais Ahmad,1,0,,,,,,"",""
+ball,1,9.1,Surrey,RJ Burns,TH David,JA Leaning,1,0,,,,,,"",""
+ball,1,9.2,Surrey,TH David,RJ Burns,JA Leaning,1,0,,,,,,"",""
+ball,1,9.3,Surrey,RJ Burns,TH David,JA Leaning,0,4,,,4,,,"",""
+ball,1,9.4,Surrey,RJ Burns,TH David,JA Leaning,4,0,,,,,,"",""
+ball,1,9.5,Surrey,RJ Burns,TH David,JA Leaning,4,0,,,,,,"",""
+ball,1,9.6,Surrey,RJ Burns,TH David,JA Leaning,0,0,,,,,,"",""
+ball,1,10.1,Surrey,TH David,RJ Burns,Qais Ahmad,0,0,,,,,,"",""
+ball,1,10.2,Surrey,TH David,RJ Burns,Qais Ahmad,6,0,,,,,,"",""
+ball,1,10.3,Surrey,TH David,RJ Burns,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.4,Surrey,RJ Burns,TH David,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.5,Surrey,TH David,RJ Burns,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.6,Surrey,RJ Burns,TH David,Qais Ahmad,1,0,,,,,,"",""
+ball,1,11.1,Surrey,RJ Burns,TH David,DI Stevens,1,0,,,,,,"",""
+ball,1,11.2,Surrey,TH David,RJ Burns,DI Stevens,0,0,,,,,,"",""
+ball,1,11.3,Surrey,TH David,RJ Burns,DI Stevens,6,0,,,,,,"",""
+ball,1,11.4,Surrey,TH David,RJ Burns,DI Stevens,0,0,,,,,,caught,TH David
+ball,1,11.5,Surrey,RJ Burns,J Clark,DI Stevens,0,0,,,,,,caught,RJ Burns
+ball,1,11.6,Surrey,J Overton,J Clark,DI Stevens,0,0,,,,,,"",""
+ball,1,12.1,Surrey,J Clark,J Overton,Qais Ahmad,0,0,,,,,,"",""
+ball,1,12.2,Surrey,J Clark,J Overton,Qais Ahmad,1,0,,,,,,"",""
+ball,1,12.3,Surrey,J Overton,J Clark,Qais Ahmad,1,0,,,,,,"",""
+ball,1,12.4,Surrey,J Clark,J Overton,Qais Ahmad,0,0,,,,,,"",""
+ball,1,12.5,Surrey,J Clark,J Overton,Qais Ahmad,1,0,,,,,,"",""
+ball,1,12.6,Surrey,J Overton,J Clark,Qais Ahmad,1,0,,,,,,"",""
+ball,1,13.1,Surrey,J Overton,J Clark,DI Stevens,6,0,,,,,,"",""
+ball,1,13.2,Surrey,J Overton,J Clark,DI Stevens,1,0,,,,,,"",""
+ball,1,13.3,Surrey,J Clark,J Overton,DI Stevens,2,0,,,,,,"",""
+ball,1,13.4,Surrey,J Clark,J Overton,DI Stevens,0,0,,,,,,"",""
+ball,1,13.5,Surrey,J Clark,J Overton,DI Stevens,2,0,,,,,,"",""
+ball,1,13.6,Surrey,J Clark,J Overton,DI Stevens,1,0,,,,,,"",""
+ball,1,14.1,Surrey,J Clark,J Overton,FJ Klaassen,4,0,,,,,,"",""
+ball,1,14.2,Surrey,J Clark,J Overton,FJ Klaassen,0,0,,,,,,"",""
+ball,1,14.3,Surrey,J Clark,J Overton,FJ Klaassen,3,0,,,,,,"",""
+ball,1,14.4,Surrey,J Overton,J Clark,FJ Klaassen,1,0,,,,,,"",""
+ball,1,14.5,Surrey,J Clark,J Overton,FJ Klaassen,1,0,,,,,,"",""
+ball,1,14.6,Surrey,J Overton,J Clark,FJ Klaassen,6,0,,,,,,"",""
+ball,1,15.1,Surrey,J Clark,J Overton,JL Denly,1,0,,,,,,"",""
+ball,1,15.2,Surrey,J Overton,J Clark,JL Denly,6,0,,,,,,"",""
+ball,1,15.3,Surrey,J Overton,J Clark,JL Denly,0,1,,,,1,,"",""
+ball,1,15.4,Surrey,J Clark,J Overton,JL Denly,2,0,,,,,,"",""
+ball,1,15.5,Surrey,J Clark,J Overton,JL Denly,0,0,,,,,,"",""
+ball,1,15.6,Surrey,J Clark,J Overton,JL Denly,2,0,,,,,,"",""
+ball,1,16.1,Surrey,J Overton,J Clark,AF Milne,0,0,,,,,,"",""
+ball,1,16.2,Surrey,J Overton,J Clark,AF Milne,1,0,,,,,,"",""
+ball,1,16.3,Surrey,J Clark,J Overton,AF Milne,0,0,,,,,,"",""
+ball,1,16.4,Surrey,J Clark,J Overton,AF Milne,1,0,,,,,,"",""
+ball,1,16.5,Surrey,J Overton,J Clark,AF Milne,0,0,,,,,,caught,J Overton
+ball,1,16.6,Surrey,J Clark,AAP Atkinson,AF Milne,1,0,,,,,,"",""
+ball,1,17.1,Surrey,J Clark,AAP Atkinson,ME Milnes,0,0,,,,,,"",""
+ball,1,17.2,Surrey,J Clark,AAP Atkinson,ME Milnes,6,0,,,,,,"",""
+ball,1,17.3,Surrey,J Clark,AAP Atkinson,ME Milnes,4,0,,,,,,"",""
+ball,1,17.4,Surrey,J Clark,AAP Atkinson,ME Milnes,0,0,,,,,,"",""
+ball,1,17.5,Surrey,J Clark,AAP Atkinson,ME Milnes,0,0,,,,,,"",""
+ball,1,17.6,Surrey,J Clark,AAP Atkinson,ME Milnes,1,0,,,,,,"",""
+ball,1,18.1,Surrey,J Clark,AAP Atkinson,AF Milne,2,0,,,,,,"",""
+ball,1,18.2,Surrey,J Clark,AAP Atkinson,AF Milne,0,0,,,,,,"",""
+ball,1,18.3,Surrey,J Clark,AAP Atkinson,AF Milne,1,0,,,,,,"",""
+ball,1,18.4,Surrey,AAP Atkinson,J Clark,AF Milne,0,0,,,,,,"",""
+ball,1,18.5,Surrey,AAP Atkinson,J Clark,AF Milne,0,1,1,,,,,"",""
+ball,1,18.6,Surrey,AAP Atkinson,J Clark,AF Milne,0,0,,,,,,"",""
+ball,1,18.7,Surrey,AAP Atkinson,J Clark,AF Milne,0,1,,,,1,,"",""
+ball,1,19.1,Surrey,AAP Atkinson,J Clark,FJ Klaassen,2,0,,,,,,"",""
+ball,1,19.2,Surrey,AAP Atkinson,J Clark,FJ Klaassen,0,1,,,1,,,"",""
+ball,1,19.3,Surrey,J Clark,AAP Atkinson,FJ Klaassen,0,1,,,,1,,"",""
+ball,1,19.4,Surrey,AAP Atkinson,J Clark,FJ Klaassen,1,0,,,,,,"",""
+ball,1,19.5,Surrey,J Clark,AAP Atkinson,FJ Klaassen,0,1,1,,,,,"",""
+ball,1,19.6,Surrey,J Clark,AAP Atkinson,FJ Klaassen,0,0,,,,,,"",""
+ball,1,19.7,Surrey,J Clark,AAP Atkinson,FJ Klaassen,1,0,,,,,,run out,AAP Atkinson
+ball,2,0.1,Kent,JL Denly,DJ Bell-Drummond,D Moriarty,0,0,,,,,,"",""
+ball,2,0.2,Kent,JL Denly,DJ Bell-Drummond,D Moriarty,0,0,,,,,,"",""
+ball,2,0.3,Kent,JL Denly,DJ Bell-Drummond,D Moriarty,1,0,,,,,,"",""
+ball,2,0.4,Kent,DJ Bell-Drummond,JL Denly,D Moriarty,0,0,,,,,,"",""
+ball,2,0.5,Kent,DJ Bell-Drummond,JL Denly,D Moriarty,0,0,,,,,,"",""
+ball,2,0.6,Kent,DJ Bell-Drummond,JL Denly,D Moriarty,2,0,,,,,,"",""
+ball,2,1.1,Kent,JL Denly,DJ Bell-Drummond,AAP Atkinson,0,0,,,,,,"",""
+ball,2,1.2,Kent,JL Denly,DJ Bell-Drummond,AAP Atkinson,1,0,,,,,,"",""
+ball,2,1.3,Kent,DJ Bell-Drummond,JL Denly,AAP Atkinson,0,0,,,,,,"",""
+ball,2,1.4,Kent,DJ Bell-Drummond,JL Denly,AAP Atkinson,0,0,,,,,,"",""
+ball,2,1.5,Kent,DJ Bell-Drummond,JL Denly,AAP Atkinson,2,0,,,,,,"",""
+ball,2,1.6,Kent,DJ Bell-Drummond,JL Denly,AAP Atkinson,4,0,,,,,,"",""
+ball,2,2.1,Kent,JL Denly,DJ Bell-Drummond,D Moriarty,0,0,,,,,,"",""
+ball,2,2.2,Kent,JL Denly,DJ Bell-Drummond,D Moriarty,4,0,,,,,,"",""
+ball,2,2.3,Kent,JL Denly,DJ Bell-Drummond,D Moriarty,1,0,,,,,,"",""
+ball,2,2.4,Kent,DJ Bell-Drummond,JL Denly,D Moriarty,1,0,,,,,,"",""
+ball,2,2.5,Kent,JL Denly,DJ Bell-Drummond,D Moriarty,1,0,,,,,,"",""
+ball,2,2.6,Kent,DJ Bell-Drummond,JL Denly,D Moriarty,1,0,,,,,,"",""
+ball,2,3.1,Kent,DJ Bell-Drummond,JL Denly,J Clark,0,0,,,,,,"",""
+ball,2,3.2,Kent,DJ Bell-Drummond,JL Denly,J Clark,1,0,,,,,,"",""
+ball,2,3.3,Kent,JL Denly,DJ Bell-Drummond,J Clark,1,0,,,,,,"",""
+ball,2,3.4,Kent,DJ Bell-Drummond,JL Denly,J Clark,0,0,,,,,,"",""
+ball,2,3.5,Kent,DJ Bell-Drummond,JL Denly,J Clark,1,0,,,,,,"",""
+ball,2,3.6,Kent,JL Denly,DJ Bell-Drummond,J Clark,1,0,,,,,,"",""
+ball,2,4.1,Kent,JL Denly,DJ Bell-Drummond,J Overton,4,0,,,,,,"",""
+ball,2,4.2,Kent,JL Denly,DJ Bell-Drummond,J Overton,1,0,,,,,,"",""
+ball,2,4.3,Kent,DJ Bell-Drummond,JL Denly,J Overton,2,0,,,,,,"",""
+ball,2,4.4,Kent,DJ Bell-Drummond,JL Denly,J Overton,0,0,,,,,,"",""
+ball,2,4.5,Kent,DJ Bell-Drummond,JL Denly,J Overton,4,0,,,,,,"",""
+ball,2,4.6,Kent,DJ Bell-Drummond,JL Denly,J Overton,4,0,,,,,,"",""
+ball,2,5.1,Kent,JL Denly,DJ Bell-Drummond,AAP Atkinson,0,0,,,,,,"",""
+ball,2,5.2,Kent,JL Denly,DJ Bell-Drummond,AAP Atkinson,0,0,,,,,,"",""
+ball,2,5.3,Kent,JL Denly,DJ Bell-Drummond,AAP Atkinson,1,0,,,,,,"",""
+ball,2,5.4,Kent,DJ Bell-Drummond,JL Denly,AAP Atkinson,1,0,,,,,,"",""
+ball,2,5.5,Kent,JL Denly,DJ Bell-Drummond,AAP Atkinson,0,0,,,,,,"",""
+ball,2,5.6,Kent,JL Denly,DJ Bell-Drummond,AAP Atkinson,0,0,,,,,,"",""
+ball,2,6.1,Kent,DJ Bell-Drummond,JL Denly,J Clark,1,0,,,,,,"",""
+ball,2,6.2,Kent,JL Denly,DJ Bell-Drummond,J Clark,1,0,,,,,,"",""
+ball,2,6.3,Kent,DJ Bell-Drummond,JL Denly,J Clark,1,0,,,,,,"",""
+ball,2,6.4,Kent,JL Denly,DJ Bell-Drummond,J Clark,2,0,,,,,,"",""
+ball,2,6.5,Kent,JL Denly,DJ Bell-Drummond,J Clark,4,0,,,,,,"",""
+ball,2,6.6,Kent,JL Denly,DJ Bell-Drummond,J Clark,0,0,,,,,,"",""
+ball,2,7.1,Kent,DJ Bell-Drummond,JL Denly,GJ Batty,4,0,,,,,,"",""
+ball,2,7.2,Kent,DJ Bell-Drummond,JL Denly,GJ Batty,1,0,,,,,,"",""
+ball,2,7.3,Kent,JL Denly,DJ Bell-Drummond,GJ Batty,1,0,,,,,,"",""
+ball,2,7.4,Kent,DJ Bell-Drummond,JL Denly,GJ Batty,3,0,,,,,,"",""
+ball,2,7.5,Kent,JL Denly,DJ Bell-Drummond,GJ Batty,6,0,,,,,,"",""
+ball,2,7.6,Kent,JL Denly,DJ Bell-Drummond,GJ Batty,1,0,,,,,,"",""
+ball,2,8.1,Kent,JL Denly,DJ Bell-Drummond,D Moriarty,0,0,,,,,,caught,JL Denly
+ball,2,8.2,Kent,OG Robinson,DJ Bell-Drummond,D Moriarty,2,0,,,,,,"",""
+ball,2,8.3,Kent,OG Robinson,DJ Bell-Drummond,D Moriarty,0,0,,,,,,"",""
+ball,2,8.4,Kent,OG Robinson,DJ Bell-Drummond,D Moriarty,0,0,,,,,,"",""
+ball,2,8.5,Kent,OG Robinson,DJ Bell-Drummond,D Moriarty,2,0,,,,,,"",""
+ball,2,8.6,Kent,OG Robinson,DJ Bell-Drummond,D Moriarty,0,0,,,,,,"",""
+ball,2,9.1,Kent,DJ Bell-Drummond,OG Robinson,GJ Batty,1,0,,,,,,"",""
+ball,2,9.2,Kent,OG Robinson,DJ Bell-Drummond,GJ Batty,0,0,,,,,,"",""
+ball,2,9.3,Kent,OG Robinson,DJ Bell-Drummond,GJ Batty,1,0,,,,,,"",""
+ball,2,9.4,Kent,DJ Bell-Drummond,OG Robinson,GJ Batty,1,0,,,,,,"",""
+ball,2,9.5,Kent,OG Robinson,DJ Bell-Drummond,GJ Batty,1,0,,,,,,"",""
+ball,2,9.6,Kent,DJ Bell-Drummond,OG Robinson,GJ Batty,0,0,,,,,,"",""
+ball,2,10.1,Kent,OG Robinson,DJ Bell-Drummond,C McKerr,1,0,,,,,,"",""
+ball,2,10.2,Kent,DJ Bell-Drummond,OG Robinson,C McKerr,1,0,,,,,,"",""
+ball,2,10.3,Kent,OG Robinson,DJ Bell-Drummond,C McKerr,4,0,,,,,,"",""
+ball,2,10.4,Kent,OG Robinson,DJ Bell-Drummond,C McKerr,0,0,,,,,,"",""
+ball,2,10.5,Kent,OG Robinson,DJ Bell-Drummond,C McKerr,4,0,,,,,,"",""
+ball,2,10.6,Kent,OG Robinson,DJ Bell-Drummond,C McKerr,0,0,,,,,,"",""
+ball,2,11.1,Kent,DJ Bell-Drummond,OG Robinson,AAP Atkinson,1,0,,,,,,"",""
+ball,2,11.2,Kent,OG Robinson,DJ Bell-Drummond,AAP Atkinson,4,0,,,,,,"",""
+ball,2,11.3,Kent,OG Robinson,DJ Bell-Drummond,AAP Atkinson,0,0,,,,,,"",""
+ball,2,11.4,Kent,OG Robinson,DJ Bell-Drummond,AAP Atkinson,2,0,,,,,,"",""
+ball,2,11.5,Kent,OG Robinson,DJ Bell-Drummond,AAP Atkinson,0,0,,,,,,"",""
+ball,2,11.6,Kent,OG Robinson,DJ Bell-Drummond,AAP Atkinson,2,0,,,,,,"",""
+ball,2,12.1,Kent,DJ Bell-Drummond,OG Robinson,D Moriarty,1,0,,,,,,"",""
+ball,2,12.2,Kent,OG Robinson,DJ Bell-Drummond,D Moriarty,1,0,,,,,,"",""
+ball,2,12.3,Kent,DJ Bell-Drummond,OG Robinson,D Moriarty,3,0,,,,,,"",""
+ball,2,12.4,Kent,OG Robinson,DJ Bell-Drummond,D Moriarty,4,0,,,,,,"",""
+ball,2,12.5,Kent,OG Robinson,DJ Bell-Drummond,D Moriarty,1,0,,,,,,"",""
+ball,2,12.6,Kent,DJ Bell-Drummond,OG Robinson,D Moriarty,1,0,,,,,,"",""
+ball,2,13.1,Kent,DJ Bell-Drummond,OG Robinson,J Overton,1,0,,,,,,"",""
+ball,2,13.2,Kent,OG Robinson,DJ Bell-Drummond,J Overton,0,0,,,,,,"",""
+ball,2,13.3,Kent,OG Robinson,DJ Bell-Drummond,J Overton,0,0,,,,,,"",""
+ball,2,13.4,Kent,OG Robinson,DJ Bell-Drummond,J Overton,2,0,,,,,,"",""
+ball,2,13.5,Kent,OG Robinson,DJ Bell-Drummond,J Overton,4,0,,,,,,"",""
+ball,2,13.6,Kent,OG Robinson,DJ Bell-Drummond,J Overton,0,0,,,,,,"",""
+ball,2,14.1,Kent,DJ Bell-Drummond,OG Robinson,J Clark,2,0,,,,,,"",""
+ball,2,14.2,Kent,DJ Bell-Drummond,OG Robinson,J Clark,1,0,,,,,,"",""
+ball,2,14.3,Kent,OG Robinson,DJ Bell-Drummond,J Clark,0,0,,,,,,"",""
+ball,2,14.4,Kent,OG Robinson,DJ Bell-Drummond,J Clark,2,0,,,,,,"",""
+ball,2,14.5,Kent,OG Robinson,DJ Bell-Drummond,J Clark,4,0,,,,,,"",""
+ball,2,14.6,Kent,OG Robinson,DJ Bell-Drummond,J Clark,4,0,,,,,,"",""
+ball,2,15.1,Kent,DJ Bell-Drummond,OG Robinson,C McKerr,2,0,,,,,,"",""
+ball,2,15.2,Kent,DJ Bell-Drummond,OG Robinson,C McKerr,4,0,,,,,,"",""
+ball,2,15.3,Kent,DJ Bell-Drummond,OG Robinson,C McKerr,1,0,,,,,,"",""

@@ -1,0 +1,248 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Derbyshire
+info,gender,male
+info,season,2022
+info,date,2022/06/18
+info,event,Vitality Blast
+info,venue,"Queen's Park, Chesterfield"
+info,city,Chesterfield
+info,toss_winner,Derbyshire
+info,toss_decision,field
+info,umpire,RA Kettleborough
+info,umpire,Rob White
+info,match_referee,Phil Whitticase
+info,winner,Derbyshire
+info,winner_wickets,6
+info,method,D/L
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,FH Allen
+info,player,Yorkshire,T Kohler-Cadmore
+info,player,Yorkshire,HC Brook
+info,player,Yorkshire,Shadab Khan
+info,player,Yorkshire,WAR Fraine
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,MJ Waite
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,DJ Leech
+info,player,Derbyshire,Shan Masood
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,AL Hughes
+info,player,Derbyshire,H Kerr
+info,player,Derbyshire,MRJ Watt
+info,player,Derbyshire,S Conners
+info,player,Derbyshire,GLS Scrimshaw
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AL Hughes,1066a976
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,DJ Leech,2413a688
+info,registry,people,DM Bess,ad46c747
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,H Kerr,f422728b
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,ML Revis,28217d89
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,Rob White,59b91222
+info,registry,people,S Conners,067bda18
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shan Masood,6843a783
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,WAR Fraine,e3bc992b
+info,registry,people,WL Madsen,86e0f3f0
+ball,1,0.1,Yorkshire,A Lyth,FH Allen,H Kerr,1,0,,,,,,"",""
+ball,1,0.2,Yorkshire,FH Allen,A Lyth,H Kerr,6,0,,,,,,"",""
+ball,1,0.3,Yorkshire,FH Allen,A Lyth,H Kerr,0,0,,,,,,"",""
+ball,1,0.4,Yorkshire,FH Allen,A Lyth,H Kerr,1,0,,,,,,"",""
+ball,1,0.5,Yorkshire,A Lyth,FH Allen,H Kerr,6,0,,,,,,"",""
+ball,1,0.6,Yorkshire,A Lyth,FH Allen,H Kerr,0,0,,,,,,"",""
+ball,1,1.1,Yorkshire,FH Allen,A Lyth,S Conners,0,0,,,,,,"",""
+ball,1,1.2,Yorkshire,FH Allen,A Lyth,S Conners,6,0,,,,,,"",""
+ball,1,1.3,Yorkshire,FH Allen,A Lyth,S Conners,0,1,,,,1,,"",""
+ball,1,1.4,Yorkshire,A Lyth,FH Allen,S Conners,1,0,,,,,,"",""
+ball,1,1.5,Yorkshire,FH Allen,A Lyth,S Conners,4,0,,,,,,"",""
+ball,1,1.6,Yorkshire,FH Allen,A Lyth,S Conners,6,0,,,,,,"",""
+ball,1,2.1,Yorkshire,A Lyth,FH Allen,MRJ Watt,0,0,,,,,,bowled,A Lyth
+ball,1,2.2,Yorkshire,T Kohler-Cadmore,FH Allen,MRJ Watt,0,0,,,,,,"",""
+ball,1,2.3,Yorkshire,T Kohler-Cadmore,FH Allen,MRJ Watt,0,0,,,,,,"",""
+ball,1,2.4,Yorkshire,T Kohler-Cadmore,FH Allen,MRJ Watt,0,0,,,,,,"",""
+ball,1,2.5,Yorkshire,T Kohler-Cadmore,FH Allen,MRJ Watt,0,0,,,,,,bowled,T Kohler-Cadmore
+ball,1,2.6,Yorkshire,HC Brook,FH Allen,MRJ Watt,0,0,,,,,,"",""
+ball,1,3.1,Yorkshire,FH Allen,HC Brook,WL Madsen,1,0,,,,,,"",""
+ball,1,3.2,Yorkshire,HC Brook,FH Allen,WL Madsen,1,0,,,,,,"",""
+ball,1,3.3,Yorkshire,FH Allen,HC Brook,WL Madsen,2,0,,,,,,"",""
+ball,1,3.4,Yorkshire,FH Allen,HC Brook,WL Madsen,1,0,,,,,,"",""
+ball,1,3.5,Yorkshire,HC Brook,FH Allen,WL Madsen,0,0,,,,,,"",""
+ball,1,3.6,Yorkshire,HC Brook,FH Allen,WL Madsen,2,0,,,,,,"",""
+ball,1,4.1,Yorkshire,FH Allen,HC Brook,MRJ Watt,1,0,,,,,,"",""
+ball,1,4.2,Yorkshire,HC Brook,FH Allen,MRJ Watt,0,0,,,,,,"",""
+ball,1,4.3,Yorkshire,HC Brook,FH Allen,MRJ Watt,4,0,,,,,,"",""
+ball,1,4.4,Yorkshire,HC Brook,FH Allen,MRJ Watt,6,0,,,,,,"",""
+ball,1,4.5,Yorkshire,HC Brook,FH Allen,MRJ Watt,1,0,,,,,,"",""
+ball,1,4.6,Yorkshire,FH Allen,HC Brook,MRJ Watt,2,0,,,,,,"",""
+ball,1,5.1,Yorkshire,HC Brook,FH Allen,MH McKiernan,1,0,,,,,,"",""
+ball,1,5.2,Yorkshire,FH Allen,HC Brook,MH McKiernan,6,0,,,,,,"",""
+ball,1,5.3,Yorkshire,FH Allen,HC Brook,MH McKiernan,0,0,,,,,,"",""
+ball,1,5.4,Yorkshire,FH Allen,HC Brook,MH McKiernan,1,0,,,,,,"",""
+ball,1,5.5,Yorkshire,HC Brook,FH Allen,MH McKiernan,1,0,,,,,,"",""
+ball,1,5.6,Yorkshire,FH Allen,HC Brook,MH McKiernan,0,0,,,,,,caught,FH Allen
+ball,1,6.1,Yorkshire,HC Brook,Shadab Khan,AL Hughes,1,0,,,,,,"",""
+ball,1,6.2,Yorkshire,Shadab Khan,HC Brook,AL Hughes,1,0,,,,,,"",""
+ball,1,6.3,Yorkshire,HC Brook,Shadab Khan,AL Hughes,1,0,,,,,,"",""
+ball,1,6.4,Yorkshire,Shadab Khan,HC Brook,AL Hughes,1,0,,,,,,"",""
+ball,1,6.5,Yorkshire,HC Brook,Shadab Khan,AL Hughes,1,0,,,,,,"",""
+ball,1,6.6,Yorkshire,Shadab Khan,HC Brook,AL Hughes,2,0,,,,,,"",""
+ball,1,7.1,Yorkshire,HC Brook,Shadab Khan,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,7.2,Yorkshire,Shadab Khan,HC Brook,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,7.3,Yorkshire,Shadab Khan,HC Brook,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,7.4,Yorkshire,HC Brook,Shadab Khan,GLS Scrimshaw,2,0,,,,,,"",""
+ball,1,7.5,Yorkshire,HC Brook,Shadab Khan,GLS Scrimshaw,4,0,,,,,,"",""
+ball,1,7.6,Yorkshire,HC Brook,Shadab Khan,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,8.1,Yorkshire,Shadab Khan,HC Brook,AL Hughes,4,0,,,,,,"",""
+ball,1,8.2,Yorkshire,Shadab Khan,HC Brook,AL Hughes,0,0,,,,,,"",""
+ball,1,8.3,Yorkshire,Shadab Khan,HC Brook,AL Hughes,4,0,,,,,,"",""
+ball,1,8.4,Yorkshire,Shadab Khan,HC Brook,AL Hughes,1,0,,,,,,"",""
+ball,1,8.5,Yorkshire,HC Brook,Shadab Khan,AL Hughes,0,0,,,,,,"",""
+ball,1,8.6,Yorkshire,HC Brook,Shadab Khan,AL Hughes,6,0,,,,,,"",""
+ball,1,9.1,Yorkshire,Shadab Khan,HC Brook,MH McKiernan,2,0,,,,,,"",""
+ball,1,9.2,Yorkshire,Shadab Khan,HC Brook,MH McKiernan,1,0,,,,,,"",""
+ball,1,9.3,Yorkshire,HC Brook,Shadab Khan,MH McKiernan,1,0,,,,,,"",""
+ball,1,9.4,Yorkshire,Shadab Khan,HC Brook,MH McKiernan,1,0,,,,,,"",""
+ball,1,9.5,Yorkshire,HC Brook,Shadab Khan,MH McKiernan,1,0,,,,,,"",""
+ball,1,9.6,Yorkshire,Shadab Khan,HC Brook,MH McKiernan,6,0,,,,,,"",""
+ball,1,10.1,Yorkshire,HC Brook,Shadab Khan,MRJ Watt,1,0,,,,,,"",""
+ball,1,10.2,Yorkshire,Shadab Khan,HC Brook,MRJ Watt,1,0,,,,,,"",""
+ball,1,10.3,Yorkshire,HC Brook,Shadab Khan,MRJ Watt,1,0,,,,,,"",""
+ball,1,10.4,Yorkshire,Shadab Khan,HC Brook,MRJ Watt,1,0,,,,,,"",""
+ball,1,10.5,Yorkshire,HC Brook,Shadab Khan,MRJ Watt,1,0,,,,,,"",""
+ball,1,10.6,Yorkshire,Shadab Khan,HC Brook,MRJ Watt,0,0,,,,,,bowled,Shadab Khan
+ball,1,11.1,Yorkshire,HC Brook,WAR Fraine,MH McKiernan,1,0,,,,,,"",""
+ball,1,11.2,Yorkshire,WAR Fraine,HC Brook,MH McKiernan,1,0,,,,,,"",""
+ball,1,11.3,Yorkshire,HC Brook,WAR Fraine,MH McKiernan,6,0,,,,,,"",""
+ball,1,11.4,Yorkshire,HC Brook,WAR Fraine,MH McKiernan,1,0,,,,,,"",""
+ball,1,11.5,Yorkshire,WAR Fraine,HC Brook,MH McKiernan,1,0,,,,,,"",""
+ball,1,11.6,Yorkshire,HC Brook,WAR Fraine,MH McKiernan,1,0,,,,,,"",""
+ball,1,12.1,Yorkshire,HC Brook,WAR Fraine,AL Hughes,4,0,,,,,,"",""
+ball,1,12.2,Yorkshire,HC Brook,WAR Fraine,AL Hughes,0,1,1,,,,,"",""
+ball,1,12.3,Yorkshire,HC Brook,WAR Fraine,AL Hughes,0,0,,,,,,"",""
+ball,1,12.4,Yorkshire,HC Brook,WAR Fraine,AL Hughes,1,0,,,,,,"",""
+ball,1,12.5,Yorkshire,WAR Fraine,HC Brook,AL Hughes,0,0,,,,,,caught,WAR Fraine
+ball,1,12.6,Yorkshire,JA Thompson,HC Brook,AL Hughes,1,0,,,,,,"",""
+ball,1,12.7,Yorkshire,HC Brook,JA Thompson,AL Hughes,1,0,,,,,,"",""
+ball,1,13.1,Yorkshire,HC Brook,JA Thompson,WL Madsen,1,0,,,,,,"",""
+ball,1,13.2,Yorkshire,JA Thompson,HC Brook,WL Madsen,0,0,,,,,,"",""
+ball,1,13.3,Yorkshire,JA Thompson,HC Brook,WL Madsen,1,0,,,,,,"",""
+ball,1,13.4,Yorkshire,HC Brook,JA Thompson,WL Madsen,2,0,,,,,,"",""
+ball,1,13.5,Yorkshire,HC Brook,JA Thompson,WL Madsen,1,0,,,,,,"",""
+ball,1,13.6,Yorkshire,JA Thompson,HC Brook,WL Madsen,0,4,,,4,,,"",""
+ball,1,14.1,Yorkshire,HC Brook,JA Thompson,AL Hughes,1,0,,,,,,"",""
+ball,1,14.2,Yorkshire,JA Thompson,HC Brook,AL Hughes,1,0,,,,,,"",""
+ball,1,14.3,Yorkshire,HC Brook,JA Thompson,AL Hughes,4,0,,,,,,"",""
+ball,1,14.4,Yorkshire,HC Brook,JA Thompson,AL Hughes,1,0,,,,,,"",""
+ball,1,14.5,Yorkshire,JA Thompson,HC Brook,AL Hughes,0,0,,,,,,"",""
+ball,1,14.6,Yorkshire,JA Thompson,HC Brook,AL Hughes,2,0,,,,,,"",""
+ball,1,15.1,Yorkshire,HC Brook,JA Thompson,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,15.2,Yorkshire,JA Thompson,HC Brook,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,15.3,Yorkshire,HC Brook,JA Thompson,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,15.4,Yorkshire,JA Thompson,HC Brook,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,15.5,Yorkshire,HC Brook,JA Thompson,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,15.6,Yorkshire,JA Thompson,HC Brook,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,16.1,Yorkshire,JA Thompson,HC Brook,MRJ Watt,1,0,,,,,,"",""
+ball,1,16.2,Yorkshire,HC Brook,JA Thompson,MRJ Watt,6,0,,,,,,"",""
+ball,1,16.3,Yorkshire,HC Brook,JA Thompson,MRJ Watt,1,0,,,,,,"",""
+ball,1,16.4,Yorkshire,JA Thompson,HC Brook,MRJ Watt,1,0,,,,,,"",""
+ball,1,16.5,Yorkshire,HC Brook,JA Thompson,MRJ Watt,0,0,,,,,,"",""
+ball,1,16.6,Yorkshire,HC Brook,JA Thompson,MRJ Watt,1,0,,,,,,"",""
+ball,1,17.1,Yorkshire,HC Brook,JA Thompson,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,17.2,Yorkshire,JA Thompson,HC Brook,GLS Scrimshaw,0,1,,,,1,,"",""
+ball,1,17.3,Yorkshire,HC Brook,JA Thompson,GLS Scrimshaw,2,0,,,,,,"",""
+ball,1,17.4,Yorkshire,HC Brook,JA Thompson,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,17.5,Yorkshire,HC Brook,JA Thompson,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,17.6,Yorkshire,JA Thompson,HC Brook,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,18.1,Yorkshire,JA Thompson,HC Brook,H Kerr,1,0,,,,,,"",""
+ball,1,18.2,Yorkshire,HC Brook,JA Thompson,H Kerr,0,0,,,,,,caught,HC Brook
+ball,1,18.3,Yorkshire,MJ Waite,JA Thompson,H Kerr,0,1,1,,,,,"",""
+ball,1,18.4,Yorkshire,MJ Waite,JA Thompson,H Kerr,4,0,,,,,,"",""
+ball,1,18.5,Yorkshire,MJ Waite,JA Thompson,H Kerr,0,0,,,,,,"",""
+ball,1,18.6,Yorkshire,MJ Waite,JA Thompson,H Kerr,0,0,,,,,,"",""
+ball,1,18.7,Yorkshire,MJ Waite,JA Thompson,H Kerr,0,0,,,,,,caught,MJ Waite
+ball,1,19.1,Yorkshire,JA Thompson,ML Revis,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,19.2,Yorkshire,JA Thompson,ML Revis,GLS Scrimshaw,0,0,,,,,,caught,JA Thompson
+ball,1,19.3,Yorkshire,DM Bess,ML Revis,GLS Scrimshaw,0,0,,,,,,lbw,DM Bess
+ball,1,19.4,Yorkshire,DJ Leech,ML Revis,GLS Scrimshaw,0,0,,,,,,"",""
+ball,1,19.5,Yorkshire,DJ Leech,ML Revis,GLS Scrimshaw,1,0,,,,,,"",""
+ball,1,19.6,Yorkshire,ML Revis,DJ Leech,GLS Scrimshaw,0,0,,,,,,caught,ML Revis
+ball,2,0.1,Derbyshire,Shan Masood,LM Reece,DM Bess,1,0,,,,,,"",""
+ball,2,0.2,Derbyshire,LM Reece,Shan Masood,DM Bess,4,0,,,,,,"",""
+ball,2,0.3,Derbyshire,LM Reece,Shan Masood,DM Bess,1,0,,,,,,"",""
+ball,2,0.4,Derbyshire,Shan Masood,LM Reece,DM Bess,0,0,,,,,,"",""
+ball,2,0.5,Derbyshire,Shan Masood,LM Reece,DM Bess,4,0,,,,,,"",""
+ball,2,0.6,Derbyshire,Shan Masood,LM Reece,DM Bess,0,0,,,,,,"",""
+ball,2,1.1,Derbyshire,LM Reece,Shan Masood,DJ Leech,6,0,,,,,,"",""
+ball,2,1.2,Derbyshire,LM Reece,Shan Masood,DJ Leech,0,0,,,,,,lbw,LM Reece
+ball,2,1.3,Derbyshire,WL Madsen,Shan Masood,DJ Leech,0,0,,,,,,"",""
+ball,2,1.4,Derbyshire,WL Madsen,Shan Masood,DJ Leech,0,0,,,,,,"",""
+ball,2,1.5,Derbyshire,WL Madsen,Shan Masood,DJ Leech,0,0,,,,,,caught,WL Madsen
+ball,2,1.6,Derbyshire,JL du Plooy,Shan Masood,DJ Leech,1,0,,,,,,"",""
+ball,2,2.1,Derbyshire,JL du Plooy,Shan Masood,ML Revis,6,0,,,,,,"",""
+ball,2,2.2,Derbyshire,JL du Plooy,Shan Masood,ML Revis,4,0,,,,,,"",""
+ball,2,2.3,Derbyshire,JL du Plooy,Shan Masood,ML Revis,0,0,,,,,,"",""
+ball,2,2.4,Derbyshire,JL du Plooy,Shan Masood,ML Revis,1,0,,,,,,"",""
+ball,2,2.5,Derbyshire,Shan Masood,JL du Plooy,ML Revis,4,0,,,,,,"",""
+ball,2,2.6,Derbyshire,Shan Masood,JL du Plooy,ML Revis,0,1,,,,1,,"",""
+ball,2,3.1,Derbyshire,Shan Masood,JL du Plooy,JA Thompson,0,0,,,,,,"",""
+ball,2,3.2,Derbyshire,Shan Masood,JL du Plooy,JA Thompson,1,0,,,,,,"",""
+ball,2,3.3,Derbyshire,JL du Plooy,Shan Masood,JA Thompson,1,0,,,,,,"",""
+ball,2,3.4,Derbyshire,Shan Masood,JL du Plooy,JA Thompson,1,0,,,,,,"",""
+ball,2,3.5,Derbyshire,JL du Plooy,Shan Masood,JA Thompson,0,0,,,,,,"",""
+ball,2,3.6,Derbyshire,JL du Plooy,Shan Masood,JA Thompson,0,0,,,,,,"",""
+ball,2,4.1,Derbyshire,Shan Masood,JL du Plooy,Shadab Khan,0,1,,,,1,,"",""
+ball,2,4.2,Derbyshire,JL du Plooy,Shan Masood,Shadab Khan,2,0,,,,,,"",""
+ball,2,4.3,Derbyshire,JL du Plooy,Shan Masood,Shadab Khan,4,0,,,,,,"",""
+ball,2,4.4,Derbyshire,JL du Plooy,Shan Masood,Shadab Khan,4,0,,,,,,"",""
+ball,2,4.5,Derbyshire,JL du Plooy,Shan Masood,Shadab Khan,1,0,,,,,,"",""
+ball,2,4.6,Derbyshire,Shan Masood,JL du Plooy,Shadab Khan,1,0,,,,,,"",""
+ball,2,5.1,Derbyshire,Shan Masood,JL du Plooy,MJ Waite,1,0,,,,,,"",""
+ball,2,5.2,Derbyshire,JL du Plooy,Shan Masood,MJ Waite,1,0,,,,,,"",""
+ball,2,5.3,Derbyshire,Shan Masood,JL du Plooy,MJ Waite,4,0,,,,,,"",""
+ball,2,5.4,Derbyshire,Shan Masood,JL du Plooy,MJ Waite,4,0,,,,,,"",""
+ball,2,5.5,Derbyshire,Shan Masood,JL du Plooy,MJ Waite,1,0,,,,,,"",""
+ball,2,5.6,Derbyshire,JL du Plooy,Shan Masood,MJ Waite,4,0,,,,,,"",""
+ball,2,6.1,Derbyshire,Shan Masood,JL du Plooy,JA Thompson,4,0,,,,,,"",""
+ball,2,6.2,Derbyshire,Shan Masood,JL du Plooy,JA Thompson,2,0,,,,,,"",""
+ball,2,6.3,Derbyshire,Shan Masood,JL du Plooy,JA Thompson,1,0,,,,,,"",""
+ball,2,6.4,Derbyshire,JL du Plooy,Shan Masood,JA Thompson,1,0,,,,,,"",""
+ball,2,6.5,Derbyshire,Shan Masood,JL du Plooy,JA Thompson,0,0,,,,,,"",""
+ball,2,6.6,Derbyshire,Shan Masood,JL du Plooy,JA Thompson,1,0,,,,,,"",""
+ball,2,7.1,Derbyshire,Shan Masood,JL du Plooy,DJ Leech,0,1,1,,,,,"",""
+ball,2,7.2,Derbyshire,Shan Masood,JL du Plooy,DJ Leech,2,0,,,,,,"",""
+ball,2,7.3,Derbyshire,Shan Masood,JL du Plooy,DJ Leech,2,0,,,,,,"",""
+ball,2,7.4,Derbyshire,Shan Masood,JL du Plooy,DJ Leech,0,0,,,,,,"",""
+ball,2,7.5,Derbyshire,Shan Masood,JL du Plooy,DJ Leech,0,0,,,,,,caught,Shan Masood
+ball,2,7.6,Derbyshire,BD Guest,JL du Plooy,DJ Leech,1,0,,,,,,"",""
+ball,2,7.7,Derbyshire,JL du Plooy,BD Guest,DJ Leech,0,0,,,,,,"",""
+ball,2,8.1,Derbyshire,BD Guest,JL du Plooy,Shadab Khan,0,1,1,,,,,"",""
+ball,2,8.2,Derbyshire,BD Guest,JL du Plooy,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.3,Derbyshire,BD Guest,JL du Plooy,Shadab Khan,2,0,,,,,,"",""
+ball,2,8.4,Derbyshire,BD Guest,JL du Plooy,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.5,Derbyshire,BD Guest,JL du Plooy,Shadab Khan,0,0,,,,,,caught,BD Guest
+ball,2,8.6,Derbyshire,MH McKiernan,JL du Plooy,Shadab Khan,4,0,,,,,,"",""
+ball,2,8.7,Derbyshire,MH McKiernan,JL du Plooy,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.1,Derbyshire,JL du Plooy,MH McKiernan,MJ Waite,6,0,,,,,,"",""
+ball,2,9.2,Derbyshire,JL du Plooy,MH McKiernan,MJ Waite,0,1,1,,,,,"",""
+ball,2,9.3,Derbyshire,JL du Plooy,MH McKiernan,MJ Waite,4,0,,,,,,"",""
+ball,2,9.4,Derbyshire,JL du Plooy,MH McKiernan,MJ Waite,2,0,,,,,,"",""
+ball,2,9.5,Derbyshire,JL du Plooy,MH McKiernan,MJ Waite,6,0,,,,,,"",""

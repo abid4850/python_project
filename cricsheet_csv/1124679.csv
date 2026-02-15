@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Warriors
+info,team,Dolphins
+info,gender,male
+info,season,2017/18
+info,date,2017/12/03
+info,event,Ram Slam T20 Challenge
+info,match_number,22
+info,venue,"St George's Park, Port Elizabeth"
+info,city,Port Elizabeth
+info,toss_winner,Warriors
+info,toss_decision,bat
+info,player_of_match,R Frylinck
+info,player_of_match,C Jonker
+info,umpire,S George
+info,umpire,Siphelele Gasa
+info,reserve_umpire,A Jacobs
+info,tv_umpire,Stephen Harris
+info,match_referee,GH Pienaar
+info,winner,Warriors
+info,winner_runs,1
+info,player,Warriors,JT Smuts
+info,player,Warriors,MY Vallie
+info,player,Warriors,CA Ingram
+info,player,Warriors,CN Ackermann
+info,player,Warriors,C Jonker
+info,player,Warriors,LC Ngoepe
+info,player,Warriors,SSN Nqweni
+info,player,Warriors,SSB Magala
+info,player,Warriors,ACR Birch
+info,player,Warriors,GL Cloete
+info,player,Warriors,BD Walters
+info,player,Dolphins,SJ Erwee
+info,player,Dolphins,MN van Wyk
+info,player,Dolphins,VB van Jaarsveld
+info,player,Dolphins,DJ Vilas
+info,player,Dolphins,K Zondo
+info,player,Dolphins,BS Makhanya
+info,player,Dolphins,AL Phehlukwayo
+info,player,Dolphins,R Frylinck
+info,player,Dolphins,KA Maharaj
+info,player,Dolphins,M Shezi
+info,player,Dolphins,Imran Tahir
+info,registry,people,A Jacobs,70d117de
+info,registry,people,ACR Birch,9df3a2f4
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,BD Walters,1e182ae2
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,C Jonker,a81d6706
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,M Shezi,016e5101
+info,registry,people,MJ Nqolo,af917dde
+info,registry,people,MN van Wyk,710dd98c
+info,registry,people,MY Vallie,9fa54c94
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,S George,6d9e5a54
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,SSB Magala,8361e524
+info,registry,people,SSN Nqweni,179bea21
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,VB van Jaarsveld,890b877d
+ball,1,0.1,Warriors,JT Smuts,MY Vallie,KA Maharaj,0,0,,,,,,bowled,JT Smuts
+ball,1,0.2,Warriors,CA Ingram,MY Vallie,KA Maharaj,0,0,,,,,,"",""
+ball,1,0.3,Warriors,CA Ingram,MY Vallie,KA Maharaj,0,0,,,,,,"",""
+ball,1,0.4,Warriors,CA Ingram,MY Vallie,KA Maharaj,1,0,,,,,,"",""
+ball,1,0.5,Warriors,MY Vallie,CA Ingram,KA Maharaj,0,0,,,,,,"",""
+ball,1,0.6,Warriors,MY Vallie,CA Ingram,KA Maharaj,1,0,,,,,,"",""
+ball,1,1.1,Warriors,MY Vallie,CA Ingram,M Shezi,0,0,,,,,,"",""
+ball,1,1.2,Warriors,MY Vallie,CA Ingram,M Shezi,0,0,,,,,,"",""
+ball,1,1.3,Warriors,MY Vallie,CA Ingram,M Shezi,0,0,,,,,,"",""
+ball,1,1.4,Warriors,MY Vallie,CA Ingram,M Shezi,0,1,1,,,,,"",""
+ball,1,1.5,Warriors,MY Vallie,CA Ingram,M Shezi,1,0,,,,,,"",""
+ball,1,1.6,Warriors,CA Ingram,MY Vallie,M Shezi,1,0,,,,,,"",""
+ball,1,1.7,Warriors,MY Vallie,CA Ingram,M Shezi,4,0,,,,,,"",""
+ball,1,2.1,Warriors,CA Ingram,MY Vallie,R Frylinck,0,0,,,,,,"",""
+ball,1,2.2,Warriors,CA Ingram,MY Vallie,R Frylinck,0,1,,,,1,,"",""
+ball,1,2.3,Warriors,MY Vallie,CA Ingram,R Frylinck,0,0,,,,,,"",""
+ball,1,2.4,Warriors,MY Vallie,CA Ingram,R Frylinck,4,0,,,,,,"",""
+ball,1,2.5,Warriors,MY Vallie,CA Ingram,R Frylinck,0,0,,,,,,"",""
+ball,1,2.6,Warriors,MY Vallie,CA Ingram,R Frylinck,1,0,,,,,,"",""
+ball,1,3.1,Warriors,MY Vallie,CA Ingram,M Shezi,1,0,,,,,,"",""
+ball,1,3.2,Warriors,CA Ingram,MY Vallie,M Shezi,0,0,,,,,,caught,CA Ingram
+ball,1,3.3,Warriors,CN Ackermann,MY Vallie,M Shezi,0,0,,,,,,"",""
+ball,1,3.4,Warriors,CN Ackermann,MY Vallie,M Shezi,1,0,,,,,,"",""
+ball,1,3.5,Warriors,MY Vallie,CN Ackermann,M Shezi,0,0,,,,,,"",""
+ball,1,3.6,Warriors,MY Vallie,CN Ackermann,M Shezi,0,0,,,,,,"",""
+ball,1,4.1,Warriors,CN Ackermann,MY Vallie,R Frylinck,1,0,,,,,,"",""
+ball,1,4.2,Warriors,MY Vallie,CN Ackermann,R Frylinck,1,0,,,,,,"",""
+ball,1,4.3,Warriors,CN Ackermann,MY Vallie,R Frylinck,1,0,,,,,,"",""
+ball,1,4.4,Warriors,MY Vallie,CN Ackermann,R Frylinck,1,0,,,,,,"",""
+ball,1,4.5,Warriors,CN Ackermann,MY Vallie,R Frylinck,0,0,,,,,,"",""
+ball,1,4.6,Warriors,CN Ackermann,MY Vallie,R Frylinck,0,0,,,,,,"",""
+ball,1,5.1,Warriors,MY Vallie,CN Ackermann,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,5.2,Warriors,MY Vallie,CN Ackermann,AL Phehlukwayo,4,0,,,,,,"",""
+ball,1,5.3,Warriors,MY Vallie,CN Ackermann,AL Phehlukwayo,0,0,,,,,,caught,MY Vallie
+ball,1,5.4,Warriors,C Jonker,CN Ackermann,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,5.5,Warriors,C Jonker,CN Ackermann,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,5.6,Warriors,C Jonker,CN Ackermann,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,5.7,Warriors,C Jonker,CN Ackermann,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,5.8,Warriors,CN Ackermann,C Jonker,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,6.1,Warriors,CN Ackermann,C Jonker,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.2,Warriors,C Jonker,CN Ackermann,KA Maharaj,2,0,,,,,,"",""
+ball,1,6.3,Warriors,C Jonker,CN Ackermann,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.4,Warriors,CN Ackermann,C Jonker,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.5,Warriors,C Jonker,CN Ackermann,KA Maharaj,0,0,,,,,,"",""
+ball,1,6.6,Warriors,C Jonker,CN Ackermann,KA Maharaj,4,0,,,,,,"",""
+ball,1,7.1,Warriors,CN Ackermann,C Jonker,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.2,Warriors,C Jonker,CN Ackermann,Imran Tahir,0,1,,1,,,,"",""
+ball,1,7.3,Warriors,C Jonker,CN Ackermann,Imran Tahir,6,0,,,,,,"",""
+ball,1,7.4,Warriors,C Jonker,CN Ackermann,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.5,Warriors,C Jonker,CN Ackermann,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.6,Warriors,CN Ackermann,C Jonker,Imran Tahir,2,0,,,,,,"",""
+ball,1,7.7,Warriors,CN Ackermann,C Jonker,Imran Tahir,1,0,,,,,,"",""
+ball,1,8.1,Warriors,CN Ackermann,C Jonker,KA Maharaj,4,0,,,,,,"",""
+ball,1,8.2,Warriors,CN Ackermann,C Jonker,KA Maharaj,1,0,,,,,,"",""
+ball,1,8.3,Warriors,C Jonker,CN Ackermann,KA Maharaj,0,0,,,,,,"",""
+ball,1,8.4,Warriors,C Jonker,CN Ackermann,KA Maharaj,1,0,,,,,,"",""
+ball,1,8.5,Warriors,CN Ackermann,C Jonker,KA Maharaj,0,0,,,,,,"",""
+ball,1,8.6,Warriors,CN Ackermann,C Jonker,KA Maharaj,0,0,,,,,,"",""
+ball,1,9.1,Warriors,C Jonker,CN Ackermann,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.2,Warriors,CN Ackermann,C Jonker,Imran Tahir,2,0,,,,,,"",""
+ball,1,9.3,Warriors,CN Ackermann,C Jonker,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.4,Warriors,C Jonker,CN Ackermann,Imran Tahir,0,0,,,,,,"",""
+ball,1,9.5,Warriors,C Jonker,CN Ackermann,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.6,Warriors,CN Ackermann,C Jonker,Imran Tahir,1,0,,,,,,"",""
+ball,1,10.1,Warriors,CN Ackermann,C Jonker,KA Maharaj,4,0,,,,,,"",""
+ball,1,10.2,Warriors,CN Ackermann,C Jonker,KA Maharaj,0,0,,,,,,"",""
+ball,1,10.3,Warriors,CN Ackermann,C Jonker,KA Maharaj,1,0,,,,,,"",""
+ball,1,10.4,Warriors,C Jonker,CN Ackermann,KA Maharaj,0,0,,,,,,"",""
+ball,1,10.5,Warriors,C Jonker,CN Ackermann,KA Maharaj,1,0,,,,,,"",""
+ball,1,10.6,Warriors,CN Ackermann,C Jonker,KA Maharaj,1,0,,,,,,"",""
+ball,1,11.1,Warriors,CN Ackermann,C Jonker,Imran Tahir,1,0,,,,,,"",""
+ball,1,11.2,Warriors,C Jonker,CN Ackermann,Imran Tahir,6,0,,,,,,"",""
+ball,1,11.3,Warriors,C Jonker,CN Ackermann,Imran Tahir,6,0,,,,,,"",""
+ball,1,11.4,Warriors,C Jonker,CN Ackermann,Imran Tahir,0,0,,,,,,"",""
+ball,1,11.5,Warriors,C Jonker,CN Ackermann,Imran Tahir,1,0,,,,,,"",""
+ball,1,11.6,Warriors,CN Ackermann,C Jonker,Imran Tahir,1,0,,,,,,"",""
+ball,1,12.1,Warriors,CN Ackermann,C Jonker,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,12.2,Warriors,CN Ackermann,C Jonker,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,12.3,Warriors,C Jonker,CN Ackermann,AL Phehlukwayo,4,0,,,,,,"",""
+ball,1,12.4,Warriors,C Jonker,CN Ackermann,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,12.5,Warriors,C Jonker,CN Ackermann,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,12.6,Warriors,C Jonker,CN Ackermann,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,12.7,Warriors,C Jonker,CN Ackermann,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,13.1,Warriors,CN Ackermann,C Jonker,BS Makhanya,0,0,,,,,,"",""
+ball,1,13.2,Warriors,CN Ackermann,C Jonker,BS Makhanya,4,0,,,,,,"",""
+ball,1,13.3,Warriors,CN Ackermann,C Jonker,BS Makhanya,1,0,,,,,,"",""
+ball,1,13.4,Warriors,C Jonker,CN Ackermann,BS Makhanya,1,0,,,,,,"",""
+ball,1,13.5,Warriors,CN Ackermann,C Jonker,BS Makhanya,0,0,,,,,,"",""
+ball,1,13.6,Warriors,CN Ackermann,C Jonker,BS Makhanya,4,0,,,,,,"",""
+ball,1,14.1,Warriors,C Jonker,CN Ackermann,M Shezi,0,1,,,,1,,"",""
+ball,1,14.2,Warriors,CN Ackermann,C Jonker,M Shezi,0,0,,,,,,"",""
+ball,1,14.3,Warriors,CN Ackermann,C Jonker,M Shezi,0,0,,,,,,bowled,CN Ackermann
+ball,1,14.4,Warriors,LC Ngoepe,C Jonker,M Shezi,1,0,,,,,,"",""
+ball,1,14.5,Warriors,C Jonker,LC Ngoepe,M Shezi,1,0,,,,,,"",""
+ball,1,14.6,Warriors,LC Ngoepe,C Jonker,M Shezi,0,0,,,,,,"",""
+ball,1,15.1,Warriors,C Jonker,LC Ngoepe,R Frylinck,2,0,,,,,,"",""
+ball,1,15.2,Warriors,C Jonker,LC Ngoepe,R Frylinck,0,0,,,,,,"",""
+ball,1,15.3,Warriors,C Jonker,LC Ngoepe,R Frylinck,0,0,,,,,,"",""
+ball,1,15.4,Warriors,C Jonker,LC Ngoepe,R Frylinck,4,0,,,,,,"",""
+ball,1,15.5,Warriors,C Jonker,LC Ngoepe,R Frylinck,1,0,,,,,,"",""
+ball,1,15.6,Warriors,LC Ngoepe,C Jonker,R Frylinck,1,0,,,,,,"",""
+ball,1,16.1,Warriors,LC Ngoepe,C Jonker,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,16.2,Warriors,LC Ngoepe,C Jonker,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,16.3,Warriors,LC Ngoepe,C Jonker,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,16.4,Warriors,C Jonker,LC Ngoepe,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,16.5,Warriors,LC Ngoepe,C Jonker,AL Phehlukwayo,2,0,,,,,,"",""
+ball,1,16.6,Warriors,LC Ngoepe,C Jonker,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,17.1,Warriors,LC Ngoepe,C Jonker,M Shezi,6,0,,,,,,"",""
+ball,1,17.2,Warriors,LC Ngoepe,C Jonker,M Shezi,0,0,,,,,,"",""
+ball,1,17.3,Warriors,LC Ngoepe,C Jonker,M Shezi,6,0,,,,,,"",""
+ball,1,17.4,Warriors,LC Ngoepe,C Jonker,M Shezi,0,0,,,,,,"",""
+ball,1,17.5,Warriors,LC Ngoepe,C Jonker,M Shezi,0,0,,,,,,caught,LC Ngoepe
+ball,1,17.6,Warriors,C Jonker,SSN Nqweni,M Shezi,1,0,,,,,,"",""
+ball,1,18.1,Warriors,C Jonker,SSN Nqweni,R Frylinck,0,0,,,,,,caught,C Jonker
+ball,1,18.2,Warriors,SSB Magala,SSN Nqweni,R Frylinck,0,0,,,,,,bowled,SSB Magala
+ball,1,18.3,Warriors,ACR Birch,SSN Nqweni,R Frylinck,0,0,,,,,,caught,ACR Birch
+ball,1,18.4,Warriors,SSN Nqweni,GL Cloete,R Frylinck,1,0,,,,,,"",""
+ball,1,18.5,Warriors,GL Cloete,SSN Nqweni,R Frylinck,1,0,,,,,,"",""
+ball,1,18.6,Warriors,SSN Nqweni,GL Cloete,R Frylinck,4,0,,,,,,"",""
+ball,1,19.1,Warriors,GL Cloete,SSN Nqweni,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,19.2,Warriors,SSN Nqweni,GL Cloete,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,19.3,Warriors,GL Cloete,SSN Nqweni,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,19.4,Warriors,SSN Nqweni,GL Cloete,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,19.5,Warriors,SSN Nqweni,GL Cloete,AL Phehlukwayo,2,0,,,,,,"",""
+ball,1,19.6,Warriors,SSN Nqweni,GL Cloete,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,0.1,Dolphins,SJ Erwee,MN van Wyk,ACR Birch,0,0,,,,,,"",""
+ball,2,0.2,Dolphins,SJ Erwee,MN van Wyk,ACR Birch,0,0,,,,,,"",""
+ball,2,0.3,Dolphins,SJ Erwee,MN van Wyk,ACR Birch,1,0,,,,,,"",""
+ball,2,0.4,Dolphins,MN van Wyk,SJ Erwee,ACR Birch,0,0,,,,,,"",""
+ball,2,0.5,Dolphins,MN van Wyk,SJ Erwee,ACR Birch,1,0,,,,,,"",""
+ball,2,0.6,Dolphins,SJ Erwee,MN van Wyk,ACR Birch,1,0,,,,,,"",""
+ball,2,1.1,Dolphins,SJ Erwee,MN van Wyk,BD Walters,0,1,1,,,,,"",""
+ball,2,1.2,Dolphins,SJ Erwee,MN van Wyk,BD Walters,0,0,,,,,,"",""
+ball,2,1.3,Dolphins,SJ Erwee,MN van Wyk,BD Walters,1,0,,,,,,"",""
+ball,2,1.4,Dolphins,MN van Wyk,SJ Erwee,BD Walters,0,0,,,,,,"",""
+ball,2,1.5,Dolphins,MN van Wyk,SJ Erwee,BD Walters,1,0,,,,,,"",""
+ball,2,1.6,Dolphins,SJ Erwee,MN van Wyk,BD Walters,4,0,,,,,,"",""
+ball,2,1.7,Dolphins,SJ Erwee,MN van Wyk,BD Walters,1,0,,,,,,"",""
+ball,2,2.1,Dolphins,SJ Erwee,MN van Wyk,ACR Birch,0,1,,,,1,,"",""
+ball,2,2.2,Dolphins,MN van Wyk,SJ Erwee,ACR Birch,2,0,,,,,,"",""
+ball,2,2.3,Dolphins,MN van Wyk,SJ Erwee,ACR Birch,1,0,,,,,,"",""
+ball,2,2.4,Dolphins,SJ Erwee,MN van Wyk,ACR Birch,0,0,,,,,,bowled,SJ Erwee
+ball,2,2.5,Dolphins,VB van Jaarsveld,MN van Wyk,ACR Birch,0,0,,,,,,"",""
+ball,2,2.6,Dolphins,VB van Jaarsveld,MN van Wyk,ACR Birch,0,0,,,,,,bowled,VB van Jaarsveld
+ball,2,3.1,Dolphins,MN van Wyk,DJ Vilas,JT Smuts,2,0,,,,,,"",""
+ball,2,3.2,Dolphins,MN van Wyk,DJ Vilas,JT Smuts,0,0,,,,,,"",""
+ball,2,3.3,Dolphins,MN van Wyk,DJ Vilas,JT Smuts,4,0,,,,,,"",""
+ball,2,3.4,Dolphins,MN van Wyk,DJ Vilas,JT Smuts,0,0,,,,,,"",""
+ball,2,3.5,Dolphins,MN van Wyk,DJ Vilas,JT Smuts,4,0,,,,,,"",""
+ball,2,3.6,Dolphins,MN van Wyk,DJ Vilas,JT Smuts,2,0,,,,,,"",""
+ball,2,4.1,Dolphins,DJ Vilas,MN van Wyk,ACR Birch,0,0,,,,,,"",""
+ball,2,4.2,Dolphins,DJ Vilas,MN van Wyk,ACR Birch,2,0,,,,,,"",""
+ball,2,4.3,Dolphins,DJ Vilas,MN van Wyk,ACR Birch,0,0,,,,,,"",""
+ball,2,4.4,Dolphins,DJ Vilas,MN van Wyk,ACR Birch,0,0,,,,,,"",""
+ball,2,4.5,Dolphins,DJ Vilas,MN van Wyk,ACR Birch,1,0,,,,,,"",""
+ball,2,4.6,Dolphins,MN van Wyk,DJ Vilas,ACR Birch,4,0,,,,,,"",""
+ball,2,5.1,Dolphins,DJ Vilas,MN van Wyk,BD Walters,0,0,,,,,,caught,DJ Vilas
+ball,2,5.2,Dolphins,K Zondo,MN van Wyk,BD Walters,0,0,,,,,,"",""
+ball,2,5.3,Dolphins,K Zondo,MN van Wyk,BD Walters,0,0,,,,,,"",""
+ball,2,5.4,Dolphins,K Zondo,MN van Wyk,BD Walters,0,0,,,,,,"",""
+ball,2,5.5,Dolphins,K Zondo,MN van Wyk,BD Walters,1,0,,,,,,"",""
+ball,2,5.6,Dolphins,MN van Wyk,K Zondo,BD Walters,0,0,,,,,,"",""
+ball,2,6.1,Dolphins,K Zondo,MN van Wyk,JT Smuts,0,0,,,,,,lbw,K Zondo
+ball,2,6.2,Dolphins,BS Makhanya,MN van Wyk,JT Smuts,0,0,,,,,,"",""
+ball,2,6.3,Dolphins,BS Makhanya,MN van Wyk,JT Smuts,0,0,,,,,,"",""
+ball,2,6.4,Dolphins,BS Makhanya,MN van Wyk,JT Smuts,1,0,,,,,,"",""
+ball,2,6.5,Dolphins,MN van Wyk,BS Makhanya,JT Smuts,1,0,,,,,,"",""
+ball,2,6.6,Dolphins,BS Makhanya,MN van Wyk,JT Smuts,4,0,,,,,,"",""
+ball,2,7.1,Dolphins,MN van Wyk,BS Makhanya,SSB Magala,2,0,,,,,,"",""
+ball,2,7.2,Dolphins,MN van Wyk,BS Makhanya,SSB Magala,1,0,,,,,,"",""
+ball,2,7.3,Dolphins,BS Makhanya,MN van Wyk,SSB Magala,1,0,,,,,,"",""
+ball,2,7.4,Dolphins,MN van Wyk,BS Makhanya,SSB Magala,1,0,,,,,,"",""
+ball,2,7.5,Dolphins,BS Makhanya,MN van Wyk,SSB Magala,0,0,,,,,,"",""
+ball,2,7.6,Dolphins,BS Makhanya,MN van Wyk,SSB Magala,0,0,,,,,,"",""
+ball,2,8.1,Dolphins,MN van Wyk,BS Makhanya,CA Ingram,2,0,,,,,,"",""
+ball,2,8.2,Dolphins,MN van Wyk,BS Makhanya,CA Ingram,1,0,,,,,,"",""
+ball,2,8.3,Dolphins,BS Makhanya,MN van Wyk,CA Ingram,4,0,,,,,,"",""
+ball,2,8.4,Dolphins,BS Makhanya,MN van Wyk,CA Ingram,0,0,,,,,,"",""
+ball,2,8.5,Dolphins,BS Makhanya,MN van Wyk,CA Ingram,4,0,,,,,,"",""
+ball,2,8.6,Dolphins,BS Makhanya,MN van Wyk,CA Ingram,0,0,,,,,,"",""
+ball,2,9.1,Dolphins,MN van Wyk,BS Makhanya,JT Smuts,4,0,,,,,,"",""
+ball,2,9.2,Dolphins,MN van Wyk,BS Makhanya,JT Smuts,1,0,,,,,,"",""
+ball,2,9.3,Dolphins,BS Makhanya,MN van Wyk,JT Smuts,1,0,,,,,,"",""
+ball,2,9.4,Dolphins,MN van Wyk,BS Makhanya,JT Smuts,1,0,,,,,,"",""
+ball,2,9.5,Dolphins,BS Makhanya,MN van Wyk,JT Smuts,1,0,,,,,,"",""
+ball,2,9.6,Dolphins,MN van Wyk,BS Makhanya,JT Smuts,2,0,,,,,,"",""
+ball,2,10.1,Dolphins,BS Makhanya,MN van Wyk,SSN Nqweni,1,0,,,,,,"",""
+ball,2,10.2,Dolphins,MN van Wyk,BS Makhanya,SSN Nqweni,0,0,,,,,,"",""
+ball,2,10.3,Dolphins,MN van Wyk,BS Makhanya,SSN Nqweni,2,0,,,,,,"",""
+ball,2,10.4,Dolphins,MN van Wyk,BS Makhanya,SSN Nqweni,0,5,5,,,,,"",""
+ball,2,10.5,Dolphins,MN van Wyk,BS Makhanya,SSN Nqweni,1,0,,,,,,"",""
+ball,2,10.6,Dolphins,BS Makhanya,MN van Wyk,SSN Nqweni,1,0,,,,,,"",""
+ball,2,10.7,Dolphins,MN van Wyk,BS Makhanya,SSN Nqweni,0,0,,,,,,"",""
+ball,2,11.1,Dolphins,BS Makhanya,MN van Wyk,SSB Magala,1,0,,,,,,"",""
+ball,2,11.2,Dolphins,MN van Wyk,BS Makhanya,SSB Magala,0,1,1,,,,,"",""
+ball,2,11.3,Dolphins,MN van Wyk,BS Makhanya,SSB Magala,0,0,,,,,,"",""
+ball,2,11.4,Dolphins,MN van Wyk,BS Makhanya,SSB Magala,1,0,,,,,,"",""
+ball,2,11.5,Dolphins,BS Makhanya,MN van Wyk,SSB Magala,1,0,,,,,,"",""
+ball,2,11.6,Dolphins,MN van Wyk,BS Makhanya,SSB Magala,1,0,,,,,,"",""
+ball,2,11.7,Dolphins,BS Makhanya,MN van Wyk,SSB Magala,1,0,,,,,,"",""
+ball,2,12.1,Dolphins,BS Makhanya,MN van Wyk,SSN Nqweni,2,0,,,,,,"",""
+ball,2,12.2,Dolphins,BS Makhanya,MN van Wyk,SSN Nqweni,4,0,,,,,,"",""
+ball,2,12.3,Dolphins,BS Makhanya,MN van Wyk,SSN Nqweni,0,0,,,,,,"",""
+ball,2,12.4,Dolphins,BS Makhanya,MN van Wyk,SSN Nqweni,2,0,,,,,,"",""
+ball,2,12.5,Dolphins,BS Makhanya,MN van Wyk,SSN Nqweni,4,0,,,,,,"",""
+ball,2,12.6,Dolphins,BS Makhanya,MN van Wyk,SSN Nqweni,0,0,,,,,,caught,BS Makhanya
+ball,2,13.1,Dolphins,AL Phehlukwayo,MN van Wyk,CA Ingram,1,0,,,,,,"",""
+ball,2,13.2,Dolphins,MN van Wyk,AL Phehlukwayo,CA Ingram,1,0,,,,,,"",""
+ball,2,13.3,Dolphins,AL Phehlukwayo,MN van Wyk,CA Ingram,2,0,,,,,,"",""
+ball,2,13.4,Dolphins,AL Phehlukwayo,MN van Wyk,CA Ingram,0,0,,,,,,"",""
+ball,2,13.5,Dolphins,AL Phehlukwayo,MN van Wyk,CA Ingram,1,0,,,,,,"",""
+ball,2,13.6,Dolphins,MN van Wyk,AL Phehlukwayo,CA Ingram,2,0,,,,,,"",""
+ball,2,14.1,Dolphins,AL Phehlukwayo,MN van Wyk,JT Smuts,0,0,,,,,,caught,AL Phehlukwayo
+ball,2,14.2,Dolphins,MN van Wyk,R Frylinck,JT Smuts,1,0,,,,,,"",""
+ball,2,14.3,Dolphins,R Frylinck,MN van Wyk,JT Smuts,1,0,,,,,,"",""
+ball,2,14.4,Dolphins,MN van Wyk,R Frylinck,JT Smuts,1,0,,,,,,"",""
+ball,2,14.5,Dolphins,R Frylinck,MN van Wyk,JT Smuts,0,0,,,,,,"",""
+ball,2,14.6,Dolphins,R Frylinck,MN van Wyk,JT Smuts,0,0,,,,,,"",""
+ball,2,15.1,Dolphins,MN van Wyk,R Frylinck,SSB Magala,0,0,,,,,,"",""
+ball,2,15.2,Dolphins,MN van Wyk,R Frylinck,SSB Magala,1,0,,,,,,"",""
+ball,2,15.3,Dolphins,R Frylinck,MN van Wyk,SSB Magala,1,0,,,,,,"",""
+ball,2,15.4,Dolphins,MN van Wyk,R Frylinck,SSB Magala,2,0,,,,,,"",""
+ball,2,15.5,Dolphins,MN van Wyk,R Frylinck,SSB Magala,1,0,,,,,,"",""
+ball,2,15.6,Dolphins,R Frylinck,MN van Wyk,SSB Magala,1,0,,,,,,"",""
+ball,2,16.1,Dolphins,R Frylinck,MN van Wyk,BD Walters,1,0,,,,,,"",""
+ball,2,16.2,Dolphins,MN van Wyk,R Frylinck,BD Walters,1,0,,,,,,"",""
+ball,2,16.3,Dolphins,R Frylinck,MN van Wyk,BD Walters,4,0,,,,,,"",""
+ball,2,16.4,Dolphins,R Frylinck,MN van Wyk,BD Walters,1,0,,,,,,"",""
+ball,2,16.5,Dolphins,MN van Wyk,R Frylinck,BD Walters,1,0,,,,,,"",""
+ball,2,16.6,Dolphins,R Frylinck,MN van Wyk,BD Walters,1,0,,,,,,"",""
+ball,2,17.1,Dolphins,R Frylinck,MN van Wyk,SSB Magala,2,0,,,,,,"",""
+ball,2,17.2,Dolphins,R Frylinck,MN van Wyk,SSB Magala,1,0,,,,,,"",""
+ball,2,17.3,Dolphins,MN van Wyk,R Frylinck,SSB Magala,1,0,,,,,,"",""
+ball,2,17.4,Dolphins,R Frylinck,MN van Wyk,SSB Magala,1,0,,,,,,"",""
+ball,2,17.5,Dolphins,MN van Wyk,R Frylinck,SSB Magala,2,0,,,,,,"",""
+ball,2,17.6,Dolphins,MN van Wyk,R Frylinck,SSB Magala,1,0,,,,,,run out,MN van Wyk
+ball,2,18.1,Dolphins,R Frylinck,KA Maharaj,BD Walters,1,0,,,,,,"",""
+ball,2,18.2,Dolphins,KA Maharaj,R Frylinck,BD Walters,1,0,,,,,,"",""
+ball,2,18.3,Dolphins,R Frylinck,KA Maharaj,BD Walters,1,0,,,,,,"",""
+ball,2,18.4,Dolphins,KA Maharaj,R Frylinck,BD Walters,1,0,,,,,,"",""
+ball,2,18.5,Dolphins,R Frylinck,KA Maharaj,BD Walters,1,0,,,,,,"",""
+ball,2,18.6,Dolphins,KA Maharaj,R Frylinck,BD Walters,4,0,,,,,,"",""
+ball,2,19.1,Dolphins,R Frylinck,KA Maharaj,ACR Birch,1,0,,,,,,"",""
+ball,2,19.2,Dolphins,KA Maharaj,R Frylinck,ACR Birch,1,0,,,,,,"",""
+ball,2,19.3,Dolphins,R Frylinck,KA Maharaj,ACR Birch,6,0,,,,,,"",""
+ball,2,19.4,Dolphins,R Frylinck,KA Maharaj,ACR Birch,0,0,,,,,,"",""
+ball,2,19.5,Dolphins,R Frylinck,KA Maharaj,ACR Birch,1,0,,,,,,"",""
+ball,2,19.6,Dolphins,KA Maharaj,R Frylinck,ACR Birch,6,0,,,,,,"",""

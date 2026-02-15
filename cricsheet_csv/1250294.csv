@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Worcestershire
+info,gender,male
+info,season,2021
+info,date,2021/06/23
+info,event,Vitality Blast
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Yorkshire
+info,toss_decision,bat
+info,player_of_match,JA Thompson
+info,umpire,N Pratt
+info,umpire,SJ O'Shaughnessy
+info,match_referee,PM Such
+info,winner,Yorkshire
+info,winner_runs,12
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,GS Ballance
+info,player,Yorkshire,HC Brook
+info,player,Yorkshire,GCH Hill
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,MJ Waite
+info,player,Yorkshire,MD Fisher
+info,player,Yorkshire,LH Ferguson
+info,player,Worcestershire,MH Wessels
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,TC Fell
+info,player,Worcestershire,JD Libby
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,RA Whiteley
+info,player,Worcestershire,BJ Dwarshuis
+info,player,Worcestershire,EG Barnard
+info,player,Worcestershire,IS Sodhi
+info,player,Worcestershire,DY Pennington
+info,player,Worcestershire,CAJ Morris
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CAJ Morris,5db1c288
+info,registry,people,DM Bess,ad46c747
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,GCH Hill,214f6461
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JD Libby,0d61d8f0
+info,registry,people,JE Root,a343262c
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MD Fisher,8f2dfebf
+info,registry,people,MH Wessels,90f47cf2
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,TC Fell,83e74e91
+ball,1,0.1,Yorkshire,JA Tattersall,A Lyth,JD Libby,1,0,,,,,,"",""
+ball,1,0.2,Yorkshire,A Lyth,JA Tattersall,JD Libby,4,0,,,,,,"",""
+ball,1,0.3,Yorkshire,A Lyth,JA Tattersall,JD Libby,1,0,,,,,,"",""
+ball,1,0.4,Yorkshire,JA Tattersall,A Lyth,JD Libby,0,0,,,,,,"",""
+ball,1,0.5,Yorkshire,JA Tattersall,A Lyth,JD Libby,1,0,,,,,,"",""
+ball,1,0.6,Yorkshire,A Lyth,JA Tattersall,JD Libby,1,0,,,,,,"",""
+ball,1,1.1,Yorkshire,A Lyth,JA Tattersall,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,1.2,Yorkshire,A Lyth,JA Tattersall,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,1.3,Yorkshire,A Lyth,JA Tattersall,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,1.4,Yorkshire,JA Tattersall,A Lyth,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,1.5,Yorkshire,JA Tattersall,A Lyth,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,1.6,Yorkshire,JA Tattersall,A Lyth,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,2.1,Yorkshire,A Lyth,JA Tattersall,DY Pennington,0,0,,,,,,caught,A Lyth
+ball,1,2.2,Yorkshire,JA Tattersall,JE Root,DY Pennington,0,0,,,,,,caught,JA Tattersall
+ball,1,2.3,Yorkshire,GS Ballance,JE Root,DY Pennington,0,0,,,,,,"",""
+ball,1,2.4,Yorkshire,GS Ballance,JE Root,DY Pennington,0,0,,,,,,"",""
+ball,1,2.5,Yorkshire,GS Ballance,JE Root,DY Pennington,0,0,,,,,,caught,GS Ballance
+ball,1,2.6,Yorkshire,JE Root,HC Brook,DY Pennington,0,0,,,,,,"",""
+ball,1,3.1,Yorkshire,HC Brook,JE Root,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,3.2,Yorkshire,HC Brook,JE Root,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,3.3,Yorkshire,HC Brook,JE Root,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,3.4,Yorkshire,JE Root,HC Brook,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,3.5,Yorkshire,HC Brook,JE Root,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,3.6,Yorkshire,HC Brook,JE Root,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,4.1,Yorkshire,JE Root,HC Brook,DY Pennington,0,0,,,,,,"",""
+ball,1,4.2,Yorkshire,JE Root,HC Brook,DY Pennington,0,0,,,,,,lbw,JE Root
+ball,1,4.3,Yorkshire,GCH Hill,HC Brook,DY Pennington,0,0,,,,,,"",""
+ball,1,4.4,Yorkshire,GCH Hill,HC Brook,DY Pennington,0,0,,,,,,"",""
+ball,1,4.5,Yorkshire,GCH Hill,HC Brook,DY Pennington,0,0,,,,,,"",""
+ball,1,4.6,Yorkshire,GCH Hill,HC Brook,DY Pennington,0,0,,,,,,"",""
+ball,1,5.1,Yorkshire,HC Brook,GCH Hill,CAJ Morris,0,0,,,,,,"",""
+ball,1,5.2,Yorkshire,HC Brook,GCH Hill,CAJ Morris,0,0,,,,,,"",""
+ball,1,5.3,Yorkshire,HC Brook,GCH Hill,CAJ Morris,0,0,,,,,,"",""
+ball,1,5.4,Yorkshire,HC Brook,GCH Hill,CAJ Morris,1,0,,,,,,"",""
+ball,1,5.5,Yorkshire,GCH Hill,HC Brook,CAJ Morris,2,0,,,,,,"",""
+ball,1,5.6,Yorkshire,GCH Hill,HC Brook,CAJ Morris,0,0,,,,,,"",""
+ball,1,6.1,Yorkshire,HC Brook,GCH Hill,DY Pennington,0,1,,,,1,,"",""
+ball,1,6.2,Yorkshire,GCH Hill,HC Brook,DY Pennington,1,0,,,,,,"",""
+ball,1,6.3,Yorkshire,HC Brook,GCH Hill,DY Pennington,0,1,1,,,,,"",""
+ball,1,6.4,Yorkshire,HC Brook,GCH Hill,DY Pennington,0,0,,,,,,"",""
+ball,1,6.5,Yorkshire,HC Brook,GCH Hill,DY Pennington,0,0,,,,,,"",""
+ball,1,6.6,Yorkshire,HC Brook,GCH Hill,DY Pennington,0,0,,,,,,"",""
+ball,1,6.7,Yorkshire,HC Brook,GCH Hill,DY Pennington,1,0,,,,,,"",""
+ball,1,7.1,Yorkshire,HC Brook,GCH Hill,IS Sodhi,0,0,,,,,,"",""
+ball,1,7.2,Yorkshire,HC Brook,GCH Hill,IS Sodhi,1,0,,,,,,"",""
+ball,1,7.3,Yorkshire,GCH Hill,HC Brook,IS Sodhi,1,0,,,,,,"",""
+ball,1,7.4,Yorkshire,HC Brook,GCH Hill,IS Sodhi,1,0,,,,,,"",""
+ball,1,7.5,Yorkshire,GCH Hill,HC Brook,IS Sodhi,0,0,,,,,,"",""
+ball,1,7.6,Yorkshire,GCH Hill,HC Brook,IS Sodhi,0,0,,,,,,"",""
+ball,1,8.1,Yorkshire,HC Brook,GCH Hill,EG Barnard,0,0,,,,,,"",""
+ball,1,8.2,Yorkshire,HC Brook,GCH Hill,EG Barnard,1,0,,,,,,"",""
+ball,1,8.3,Yorkshire,GCH Hill,HC Brook,EG Barnard,0,0,,,,,,"",""
+ball,1,8.4,Yorkshire,GCH Hill,HC Brook,EG Barnard,0,0,,,,,,"",""
+ball,1,8.5,Yorkshire,GCH Hill,HC Brook,EG Barnard,1,0,,,,,,"",""
+ball,1,8.6,Yorkshire,HC Brook,GCH Hill,EG Barnard,6,0,,,,,,"",""
+ball,1,9.1,Yorkshire,GCH Hill,HC Brook,IS Sodhi,4,0,,,,,,"",""
+ball,1,9.2,Yorkshire,GCH Hill,HC Brook,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.3,Yorkshire,HC Brook,GCH Hill,IS Sodhi,2,0,,,,,,"",""
+ball,1,9.4,Yorkshire,HC Brook,GCH Hill,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.5,Yorkshire,GCH Hill,HC Brook,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.6,Yorkshire,HC Brook,GCH Hill,IS Sodhi,6,0,,,,,,"",""
+ball,1,10.1,Yorkshire,GCH Hill,HC Brook,EG Barnard,1,0,,,,,,"",""
+ball,1,10.2,Yorkshire,HC Brook,GCH Hill,EG Barnard,0,0,,,,,,"",""
+ball,1,10.3,Yorkshire,HC Brook,GCH Hill,EG Barnard,0,0,,,,,,"",""
+ball,1,10.4,Yorkshire,HC Brook,GCH Hill,EG Barnard,1,0,,,,,,"",""
+ball,1,10.5,Yorkshire,GCH Hill,HC Brook,EG Barnard,0,0,,,,,,bowled,GCH Hill
+ball,1,10.6,Yorkshire,JA Thompson,HC Brook,EG Barnard,0,0,,,,,,"",""
+ball,1,11.1,Yorkshire,HC Brook,JA Thompson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,11.2,Yorkshire,JA Thompson,HC Brook,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,11.3,Yorkshire,HC Brook,JA Thompson,BL D'Oliveira,2,0,,,,,,"",""
+ball,1,11.4,Yorkshire,HC Brook,JA Thompson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,11.5,Yorkshire,JA Thompson,HC Brook,BL D'Oliveira,0,1,,,,1,,"",""
+ball,1,11.6,Yorkshire,HC Brook,JA Thompson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,12.1,Yorkshire,HC Brook,JA Thompson,EG Barnard,0,0,,,,,,"",""
+ball,1,12.2,Yorkshire,HC Brook,JA Thompson,EG Barnard,4,0,,,,,,"",""
+ball,1,12.3,Yorkshire,HC Brook,JA Thompson,EG Barnard,6,0,,,,,,"",""
+ball,1,12.4,Yorkshire,HC Brook,JA Thompson,EG Barnard,1,0,,,,,,"",""
+ball,1,12.5,Yorkshire,JA Thompson,HC Brook,EG Barnard,6,0,,,,,,"",""
+ball,1,12.6,Yorkshire,JA Thompson,HC Brook,EG Barnard,1,0,,,,,,"",""
+ball,1,13.1,Yorkshire,JA Thompson,HC Brook,BL D'Oliveira,2,0,,,,,,"",""
+ball,1,13.2,Yorkshire,JA Thompson,HC Brook,BL D'Oliveira,4,0,,,,,,"",""
+ball,1,13.3,Yorkshire,JA Thompson,HC Brook,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,13.4,Yorkshire,HC Brook,JA Thompson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,13.5,Yorkshire,JA Thompson,HC Brook,BL D'Oliveira,6,0,,,,,,"",""
+ball,1,13.6,Yorkshire,JA Thompson,HC Brook,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,14.1,Yorkshire,JA Thompson,HC Brook,DY Pennington,4,0,,,,,,"",""
+ball,1,14.2,Yorkshire,JA Thompson,HC Brook,DY Pennington,6,0,,,,,,"",""
+ball,1,14.3,Yorkshire,JA Thompson,HC Brook,DY Pennington,4,0,,,,,,"",""
+ball,1,14.4,Yorkshire,JA Thompson,HC Brook,DY Pennington,2,0,,,,,,"",""
+ball,1,14.5,Yorkshire,JA Thompson,HC Brook,DY Pennington,1,0,,,,,,"",""
+ball,1,14.6,Yorkshire,HC Brook,JA Thompson,DY Pennington,4,0,,,,,,"",""
+ball,1,15.1,Yorkshire,JA Thompson,HC Brook,CAJ Morris,2,0,,,,,,"",""
+ball,1,15.2,Yorkshire,JA Thompson,HC Brook,CAJ Morris,1,0,,,,,,"",""
+ball,1,15.3,Yorkshire,HC Brook,JA Thompson,CAJ Morris,1,0,,,,,,"",""
+ball,1,15.4,Yorkshire,JA Thompson,HC Brook,CAJ Morris,1,0,,,,,,"",""
+ball,1,15.5,Yorkshire,HC Brook,JA Thompson,CAJ Morris,1,0,,,,,,"",""
+ball,1,15.6,Yorkshire,JA Thompson,HC Brook,CAJ Morris,0,0,,,,,,"",""
+ball,1,16.1,Yorkshire,HC Brook,JA Thompson,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,16.2,Yorkshire,JA Thompson,HC Brook,BJ Dwarshuis,6,0,,,,,,"",""
+ball,1,16.3,Yorkshire,JA Thompson,HC Brook,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,16.4,Yorkshire,HC Brook,JA Thompson,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,16.5,Yorkshire,JA Thompson,HC Brook,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,16.6,Yorkshire,HC Brook,JA Thompson,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,17.1,Yorkshire,HC Brook,JA Thompson,CAJ Morris,1,0,,,,,,"",""
+ball,1,17.2,Yorkshire,JA Thompson,HC Brook,CAJ Morris,0,1,,,,1,,"",""
+ball,1,17.3,Yorkshire,HC Brook,JA Thompson,CAJ Morris,2,0,,,,,,"",""
+ball,1,17.4,Yorkshire,HC Brook,JA Thompson,CAJ Morris,1,0,,,,,,"",""
+ball,1,17.5,Yorkshire,JA Thompson,HC Brook,CAJ Morris,4,0,,,,,,"",""
+ball,1,17.6,Yorkshire,JA Thompson,HC Brook,CAJ Morris,4,2,,2,,,,"",""
+ball,1,17.7,Yorkshire,JA Thompson,HC Brook,CAJ Morris,0,2,2,,,,,"",""
+ball,1,17.8,Yorkshire,HC Brook,JA Thompson,CAJ Morris,1,0,,,,,,"",""
+ball,1,18.1,Yorkshire,HC Brook,JA Thompson,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,18.2,Yorkshire,HC Brook,JA Thompson,BJ Dwarshuis,6,0,,,,,,"",""
+ball,1,18.3,Yorkshire,HC Brook,JA Thompson,BJ Dwarshuis,0,1,,,1,,,"",""
+ball,1,18.4,Yorkshire,JA Thompson,HC Brook,BJ Dwarshuis,0,4,,,4,,,"",""
+ball,1,18.5,Yorkshire,JA Thompson,HC Brook,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,18.6,Yorkshire,HC Brook,JA Thompson,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,19.1,Yorkshire,HC Brook,JA Thompson,CAJ Morris,2,0,,,,,,"",""
+ball,1,19.2,Yorkshire,HC Brook,JA Thompson,CAJ Morris,6,0,,,,,,"",""
+ball,1,19.3,Yorkshire,HC Brook,JA Thompson,CAJ Morris,1,0,,,,,,"",""
+ball,1,19.4,Yorkshire,JA Thompson,HC Brook,CAJ Morris,6,0,,,,,,"",""
+ball,1,19.5,Yorkshire,JA Thompson,HC Brook,CAJ Morris,0,2,2,,,,,"",""
+ball,1,19.6,Yorkshire,HC Brook,JA Thompson,CAJ Morris,6,0,,,,,,"",""
+ball,1,19.7,Yorkshire,HC Brook,JA Thompson,CAJ Morris,0,1,1,,,,,"",""
+ball,1,19.8,Yorkshire,HC Brook,JA Thompson,CAJ Morris,4,0,,,,,,"",""
+ball,2,0.1,Worcestershire,MH Wessels,BL D'Oliveira,MD Fisher,4,0,,,,,,"",""
+ball,2,0.2,Worcestershire,MH Wessels,BL D'Oliveira,MD Fisher,0,0,,,,,,"",""
+ball,2,0.3,Worcestershire,MH Wessels,BL D'Oliveira,MD Fisher,4,0,,,,,,"",""
+ball,2,0.4,Worcestershire,MH Wessels,BL D'Oliveira,MD Fisher,0,0,,,,,,"",""
+ball,2,0.5,Worcestershire,MH Wessels,BL D'Oliveira,MD Fisher,1,0,,,,,,"",""
+ball,2,0.6,Worcestershire,BL D'Oliveira,MH Wessels,MD Fisher,1,0,,,,,,"",""
+ball,2,1.1,Worcestershire,BL D'Oliveira,MH Wessels,JE Root,0,0,,,,,,"",""
+ball,2,1.2,Worcestershire,BL D'Oliveira,MH Wessels,JE Root,1,0,,,,,,"",""
+ball,2,1.3,Worcestershire,MH Wessels,BL D'Oliveira,JE Root,0,0,,,,,,run out,BL D'Oliveira
+ball,2,1.4,Worcestershire,MH Wessels,TC Fell,JE Root,2,0,,,,,,"",""
+ball,2,1.5,Worcestershire,MH Wessels,TC Fell,JE Root,0,0,,,,,,"",""
+ball,2,1.6,Worcestershire,MH Wessels,TC Fell,JE Root,1,0,,,,,,"",""
+ball,2,2.1,Worcestershire,MH Wessels,TC Fell,MD Fisher,4,0,,,,,,"",""
+ball,2,2.2,Worcestershire,MH Wessels,TC Fell,MD Fisher,1,0,,,,,,"",""
+ball,2,2.3,Worcestershire,TC Fell,MH Wessels,MD Fisher,0,0,,,,,,"",""
+ball,2,2.4,Worcestershire,TC Fell,MH Wessels,MD Fisher,0,0,,,,,,"",""
+ball,2,2.5,Worcestershire,TC Fell,MH Wessels,MD Fisher,0,0,,,,,,"",""
+ball,2,2.6,Worcestershire,TC Fell,MH Wessels,MD Fisher,1,0,,,,,,"",""
+ball,2,3.1,Worcestershire,TC Fell,MH Wessels,JE Root,1,0,,,,,,"",""
+ball,2,3.2,Worcestershire,MH Wessels,TC Fell,JE Root,4,0,,,,,,"",""
+ball,2,3.3,Worcestershire,MH Wessels,TC Fell,JE Root,1,0,,,,,,"",""
+ball,2,3.4,Worcestershire,TC Fell,MH Wessels,JE Root,1,0,,,,,,"",""
+ball,2,3.5,Worcestershire,MH Wessels,TC Fell,JE Root,2,0,,,,,,"",""
+ball,2,3.6,Worcestershire,MH Wessels,TC Fell,JE Root,4,0,,,,,,"",""
+ball,2,4.1,Worcestershire,TC Fell,MH Wessels,LH Ferguson,0,0,,,,,,"",""
+ball,2,4.2,Worcestershire,TC Fell,MH Wessels,LH Ferguson,0,0,,,,,,"",""
+ball,2,4.3,Worcestershire,TC Fell,MH Wessels,LH Ferguson,1,0,,,,,,"",""
+ball,2,4.4,Worcestershire,MH Wessels,TC Fell,LH Ferguson,1,0,,,,,,"",""
+ball,2,4.5,Worcestershire,TC Fell,MH Wessels,LH Ferguson,0,0,,,,,,caught,TC Fell
+ball,2,4.6,Worcestershire,JD Libby,MH Wessels,LH Ferguson,0,0,,,,,,"",""
+ball,2,5.1,Worcestershire,MH Wessels,JD Libby,MJ Waite,1,0,,,,,,"",""
+ball,2,5.2,Worcestershire,JD Libby,MH Wessels,MJ Waite,0,0,,,,,,"",""
+ball,2,5.3,Worcestershire,JD Libby,MH Wessels,MJ Waite,1,0,,,,,,"",""
+ball,2,5.4,Worcestershire,MH Wessels,JD Libby,MJ Waite,1,0,,,,,,"",""
+ball,2,5.5,Worcestershire,JD Libby,MH Wessels,MJ Waite,0,0,,,,,,"",""
+ball,2,5.6,Worcestershire,JD Libby,MH Wessels,MJ Waite,1,0,,,,,,"",""
+ball,2,6.1,Worcestershire,JD Libby,MH Wessels,JA Thompson,1,0,,,,,,"",""
+ball,2,6.2,Worcestershire,MH Wessels,JD Libby,JA Thompson,1,0,,,,,,"",""
+ball,2,6.3,Worcestershire,JD Libby,MH Wessels,JA Thompson,1,0,,,,,,"",""
+ball,2,6.4,Worcestershire,MH Wessels,JD Libby,JA Thompson,4,0,,,,,,"",""
+ball,2,6.5,Worcestershire,MH Wessels,JD Libby,JA Thompson,1,0,,,,,,"",""
+ball,2,6.6,Worcestershire,JD Libby,MH Wessels,JA Thompson,0,0,,,,,,"",""
+ball,2,7.1,Worcestershire,MH Wessels,JD Libby,DM Bess,1,0,,,,,,"",""
+ball,2,7.2,Worcestershire,JD Libby,MH Wessels,DM Bess,1,0,,,,,,"",""
+ball,2,7.3,Worcestershire,MH Wessels,JD Libby,DM Bess,1,0,,,,,,"",""
+ball,2,7.4,Worcestershire,JD Libby,MH Wessels,DM Bess,0,0,,,,,,caught,JD Libby
+ball,2,7.5,Worcestershire,OB Cox,MH Wessels,DM Bess,1,0,,,,,,"",""
+ball,2,7.6,Worcestershire,MH Wessels,OB Cox,DM Bess,1,0,,,,,,"",""
+ball,2,8.1,Worcestershire,MH Wessels,OB Cox,JA Thompson,4,0,,,,,,"",""
+ball,2,8.2,Worcestershire,MH Wessels,OB Cox,JA Thompson,2,0,,,,,,"",""
+ball,2,8.3,Worcestershire,MH Wessels,OB Cox,JA Thompson,1,0,,,,,,"",""
+ball,2,8.4,Worcestershire,OB Cox,MH Wessels,JA Thompson,1,0,,,,,,"",""
+ball,2,8.5,Worcestershire,MH Wessels,OB Cox,JA Thompson,0,0,,,,,,"",""
+ball,2,8.6,Worcestershire,MH Wessels,OB Cox,JA Thompson,1,0,,,,,,"",""
+ball,2,9.1,Worcestershire,MH Wessels,OB Cox,DM Bess,1,0,,,,,,"",""
+ball,2,9.2,Worcestershire,OB Cox,MH Wessels,DM Bess,0,0,,,,,,"",""
+ball,2,9.3,Worcestershire,OB Cox,MH Wessels,DM Bess,0,0,,,,,,"",""
+ball,2,9.4,Worcestershire,OB Cox,MH Wessels,DM Bess,2,0,,,,,,"",""
+ball,2,9.5,Worcestershire,OB Cox,MH Wessels,DM Bess,1,0,,,,,,"",""
+ball,2,9.6,Worcestershire,MH Wessels,OB Cox,DM Bess,0,0,,,,,,"",""
+ball,2,10.1,Worcestershire,OB Cox,MH Wessels,LH Ferguson,0,1,,,,1,,"",""
+ball,2,10.2,Worcestershire,MH Wessels,OB Cox,LH Ferguson,1,0,,,,,,"",""
+ball,2,10.3,Worcestershire,OB Cox,MH Wessels,LH Ferguson,0,0,,,,,,"",""
+ball,2,10.4,Worcestershire,OB Cox,MH Wessels,LH Ferguson,2,0,,,,,,"",""
+ball,2,10.5,Worcestershire,OB Cox,MH Wessels,LH Ferguson,0,1,,,,1,,"",""
+ball,2,10.6,Worcestershire,MH Wessels,OB Cox,LH Ferguson,1,0,,,,,,"",""
+ball,2,11.1,Worcestershire,MH Wessels,OB Cox,DM Bess,2,0,,,,,,"",""
+ball,2,11.2,Worcestershire,MH Wessels,OB Cox,DM Bess,1,0,,,,,,"",""
+ball,2,11.3,Worcestershire,OB Cox,MH Wessels,DM Bess,1,0,,,,,,"",""
+ball,2,11.4,Worcestershire,MH Wessels,OB Cox,DM Bess,6,0,,,,,,"",""
+ball,2,11.5,Worcestershire,MH Wessels,OB Cox,DM Bess,1,0,,,,,,"",""
+ball,2,11.6,Worcestershire,OB Cox,MH Wessels,DM Bess,2,0,,,,,,"",""
+ball,2,12.1,Worcestershire,MH Wessels,OB Cox,MJ Waite,6,0,,,,,,"",""
+ball,2,12.2,Worcestershire,MH Wessels,OB Cox,MJ Waite,1,0,,,,,,"",""
+ball,2,12.3,Worcestershire,OB Cox,MH Wessels,MJ Waite,1,0,,,,,,"",""
+ball,2,12.4,Worcestershire,MH Wessels,OB Cox,MJ Waite,1,0,,,,,,"",""
+ball,2,12.5,Worcestershire,OB Cox,MH Wessels,MJ Waite,6,0,,,,,,"",""
+ball,2,12.6,Worcestershire,OB Cox,MH Wessels,MJ Waite,1,0,,,,,,"",""
+ball,2,13.1,Worcestershire,OB Cox,MH Wessels,JA Thompson,1,0,,,,,,"",""
+ball,2,13.2,Worcestershire,MH Wessels,OB Cox,JA Thompson,4,0,,,,,,"",""
+ball,2,13.3,Worcestershire,MH Wessels,OB Cox,JA Thompson,2,0,,,,,,"",""
+ball,2,13.4,Worcestershire,MH Wessels,OB Cox,JA Thompson,1,0,,,,,,"",""
+ball,2,13.5,Worcestershire,OB Cox,MH Wessels,JA Thompson,4,0,,,,,,"",""
+ball,2,13.6,Worcestershire,OB Cox,MH Wessels,JA Thompson,4,0,,,,,,"",""
+ball,2,14.1,Worcestershire,MH Wessels,OB Cox,MD Fisher,1,0,,,,,,"",""
+ball,2,14.2,Worcestershire,OB Cox,MH Wessels,MD Fisher,1,0,,,,,,"",""
+ball,2,14.3,Worcestershire,MH Wessels,OB Cox,MD Fisher,0,0,,,,,,bowled,MH Wessels
+ball,2,14.4,Worcestershire,RA Whiteley,OB Cox,MD Fisher,0,1,,,,1,,"",""
+ball,2,14.5,Worcestershire,OB Cox,RA Whiteley,MD Fisher,1,0,,,,,,"",""
+ball,2,14.6,Worcestershire,RA Whiteley,OB Cox,MD Fisher,4,0,,,,,,"",""
+ball,2,15.1,Worcestershire,OB Cox,RA Whiteley,DM Bess,1,0,,,,,,"",""
+ball,2,15.2,Worcestershire,RA Whiteley,OB Cox,DM Bess,1,0,,,,,,"",""
+ball,2,15.3,Worcestershire,OB Cox,RA Whiteley,DM Bess,4,0,,,,,,"",""
+ball,2,15.4,Worcestershire,OB Cox,RA Whiteley,DM Bess,1,0,,,,,,"",""
+ball,2,15.5,Worcestershire,RA Whiteley,OB Cox,DM Bess,1,0,,,,,,"",""
+ball,2,15.6,Worcestershire,OB Cox,RA Whiteley,DM Bess,4,0,,,,,,"",""
+ball,2,16.1,Worcestershire,RA Whiteley,OB Cox,LH Ferguson,1,0,,,,,,"",""
+ball,2,16.2,Worcestershire,OB Cox,RA Whiteley,LH Ferguson,0,0,,,,,,"",""
+ball,2,16.3,Worcestershire,OB Cox,RA Whiteley,LH Ferguson,1,0,,,,,,"",""
+ball,2,16.4,Worcestershire,RA Whiteley,OB Cox,LH Ferguson,1,0,,,,,,"",""
+ball,2,16.5,Worcestershire,OB Cox,RA Whiteley,LH Ferguson,0,0,,,,,,"",""
+ball,2,16.6,Worcestershire,OB Cox,RA Whiteley,LH Ferguson,4,0,,,,,,"",""
+ball,2,17.1,Worcestershire,RA Whiteley,OB Cox,MJ Waite,1,0,,,,,,"",""
+ball,2,17.2,Worcestershire,OB Cox,RA Whiteley,MJ Waite,1,0,,,,,,"",""
+ball,2,17.3,Worcestershire,RA Whiteley,OB Cox,MJ Waite,2,0,,,,,,"",""
+ball,2,17.4,Worcestershire,RA Whiteley,OB Cox,MJ Waite,1,0,,,,,,"",""
+ball,2,17.5,Worcestershire,OB Cox,RA Whiteley,MJ Waite,0,0,,,,,,"",""
+ball,2,17.6,Worcestershire,OB Cox,RA Whiteley,MJ Waite,1,0,,,,,,"",""
+ball,2,18.1,Worcestershire,OB Cox,RA Whiteley,LH Ferguson,4,2,,2,,,,"",""
+ball,2,18.2,Worcestershire,OB Cox,RA Whiteley,LH Ferguson,4,0,,,,,,"",""
+ball,2,18.3,Worcestershire,OB Cox,RA Whiteley,LH Ferguson,4,0,,,,,,"",""
+ball,2,18.4,Worcestershire,OB Cox,RA Whiteley,LH Ferguson,0,1,,,,1,,"",""
+ball,2,18.5,Worcestershire,RA Whiteley,OB Cox,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.6,Worcestershire,RA Whiteley,OB Cox,LH Ferguson,4,0,,,,,,"",""
+ball,2,18.7,Worcestershire,RA Whiteley,OB Cox,LH Ferguson,1,0,,,,,,"",""
+ball,2,19.1,Worcestershire,RA Whiteley,OB Cox,MD Fisher,4,0,,,,,,"",""
+ball,2,19.2,Worcestershire,RA Whiteley,OB Cox,MD Fisher,0,0,,,,,,caught,RA Whiteley
+ball,2,19.3,Worcestershire,OB Cox,BJ Dwarshuis,MD Fisher,2,0,,,,,,"",""
+ball,2,19.4,Worcestershire,OB Cox,BJ Dwarshuis,MD Fisher,1,0,,,,,,"",""
+ball,2,19.5,Worcestershire,BJ Dwarshuis,OB Cox,MD Fisher,2,0,,,,,,"",""
+ball,2,19.6,Worcestershire,BJ Dwarshuis,OB Cox,MD Fisher,1,0,,,,,,"",""

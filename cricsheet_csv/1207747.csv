@@ -1,0 +1,307 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Birmingham Bears
+info,team,Glamorgan
+info,gender,male
+info,season,2020
+info,date,2020/09/11
+info,event,Vitality Blast
+info,venue,Edgbaston
+info,city,Birmingham
+info,toss_winner,Birmingham Bears
+info,toss_decision,bat
+info,player_of_match,JB Lintott
+info,umpire,Tom Lungley
+info,umpire,RJ Warren
+info,match_referee,TJ Boon
+info,winner,Birmingham Bears
+info,winner_runs,13
+info,player,Birmingham Bears,EJ Pollock
+info,player,Birmingham Bears,DP Sibley
+info,player,Birmingham Bears,AJ Hose
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,WMH Rhodes
+info,player,Birmingham Bears,MGK Burgess
+info,player,Birmingham Bears,TT Bresnan
+info,player,Birmingham Bears,HJH Brookes
+info,player,Birmingham Bears,OP Stone
+info,player,Birmingham Bears,JB Lintott
+info,player,Birmingham Bears,JS Patel
+info,player,Glamorgan,DL Lloyd
+info,player,Glamorgan,NJ Selman
+info,player,Glamorgan,A Balbirnie
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,M de Lange
+info,player,Glamorgan,AO Morgan
+info,player,Glamorgan,Callum Taylor
+info,player,Glamorgan,AG Salter
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,P Sisodiya
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AG Salter,1a45b864
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AO Morgan,24dd1b81
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,Callum Taylor,5a42a396
+info,registry,people,DL Lloyd,0c7f11be
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JS Patel,f5821615
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,NJ Selman,bab08c8b
+info,registry,people,OP Stone,3f659464
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SR Hain,67b9536c
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TJ Boon,0bdf177a
+info,registry,people,TT Bresnan,58043739
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WMH Rhodes,f54dbda7
+ball,1,0.1,Birmingham Bears,EJ Pollock,DP Sibley,P Sisodiya,0,0,,,,,,"",""
+ball,1,0.2,Birmingham Bears,EJ Pollock,DP Sibley,P Sisodiya,0,0,,,,,,"",""
+ball,1,0.3,Birmingham Bears,EJ Pollock,DP Sibley,P Sisodiya,1,0,,,,,,"",""
+ball,1,0.4,Birmingham Bears,DP Sibley,EJ Pollock,P Sisodiya,0,0,,,,,,caught and bowled,DP Sibley
+ball,1,0.5,Birmingham Bears,AJ Hose,EJ Pollock,P Sisodiya,0,0,,,,,,"",""
+ball,1,0.6,Birmingham Bears,AJ Hose,EJ Pollock,P Sisodiya,1,0,,,,,,"",""
+ball,1,1.1,Birmingham Bears,AJ Hose,EJ Pollock,AG Salter,0,0,,,,,,"",""
+ball,1,1.2,Birmingham Bears,AJ Hose,EJ Pollock,AG Salter,0,0,,,,,,"",""
+ball,1,1.3,Birmingham Bears,AJ Hose,EJ Pollock,AG Salter,0,0,,,,,,"",""
+ball,1,1.4,Birmingham Bears,AJ Hose,EJ Pollock,AG Salter,4,0,,,,,,"",""
+ball,1,1.5,Birmingham Bears,AJ Hose,EJ Pollock,AG Salter,0,0,,,,,,"",""
+ball,1,1.6,Birmingham Bears,AJ Hose,EJ Pollock,AG Salter,4,0,,,,,,"",""
+ball,1,2.1,Birmingham Bears,EJ Pollock,AJ Hose,P Sisodiya,0,0,,,,,,"",""
+ball,1,2.2,Birmingham Bears,EJ Pollock,AJ Hose,P Sisodiya,1,0,,,,,,"",""
+ball,1,2.3,Birmingham Bears,AJ Hose,EJ Pollock,P Sisodiya,0,0,,,,,,"",""
+ball,1,2.4,Birmingham Bears,AJ Hose,EJ Pollock,P Sisodiya,4,0,,,,,,"",""
+ball,1,2.5,Birmingham Bears,AJ Hose,EJ Pollock,P Sisodiya,1,0,,,,,,"",""
+ball,1,2.6,Birmingham Bears,EJ Pollock,AJ Hose,P Sisodiya,1,0,,,,,,"",""
+ball,1,3.1,Birmingham Bears,EJ Pollock,AJ Hose,RAJ Smith,0,0,,,,,,"",""
+ball,1,3.2,Birmingham Bears,EJ Pollock,AJ Hose,RAJ Smith,4,0,,,,,,"",""
+ball,1,3.3,Birmingham Bears,EJ Pollock,AJ Hose,RAJ Smith,1,0,,,,,,"",""
+ball,1,3.4,Birmingham Bears,AJ Hose,EJ Pollock,RAJ Smith,0,0,,,,,,"",""
+ball,1,3.5,Birmingham Bears,AJ Hose,EJ Pollock,RAJ Smith,1,0,,,,,,"",""
+ball,1,3.6,Birmingham Bears,EJ Pollock,AJ Hose,RAJ Smith,4,0,,,,,,"",""
+ball,1,4.1,Birmingham Bears,AJ Hose,EJ Pollock,T van der Gugten,0,1,1,,,,,"",""
+ball,1,4.2,Birmingham Bears,AJ Hose,EJ Pollock,T van der Gugten,1,0,,,,,,"",""
+ball,1,4.3,Birmingham Bears,EJ Pollock,AJ Hose,T van der Gugten,0,0,,,,,,caught,EJ Pollock
+ball,1,4.4,Birmingham Bears,SR Hain,AJ Hose,T van der Gugten,0,0,,,,,,"",""
+ball,1,4.5,Birmingham Bears,SR Hain,AJ Hose,T van der Gugten,2,0,,,,,,"",""
+ball,1,4.6,Birmingham Bears,SR Hain,AJ Hose,T van der Gugten,0,0,,,,,,"",""
+ball,1,4.7,Birmingham Bears,SR Hain,AJ Hose,T van der Gugten,1,0,,,,,,"",""
+ball,1,5.1,Birmingham Bears,SR Hain,AJ Hose,RAJ Smith,0,0,,,,,,"",""
+ball,1,5.2,Birmingham Bears,SR Hain,AJ Hose,RAJ Smith,0,0,,,,,,lbw,SR Hain
+ball,1,5.3,Birmingham Bears,WMH Rhodes,AJ Hose,RAJ Smith,4,0,,,,,,"",""
+ball,1,5.4,Birmingham Bears,WMH Rhodes,AJ Hose,RAJ Smith,0,0,,,,,,"",""
+ball,1,5.5,Birmingham Bears,WMH Rhodes,AJ Hose,RAJ Smith,1,0,,,,,,"",""
+ball,1,5.6,Birmingham Bears,AJ Hose,WMH Rhodes,RAJ Smith,4,0,,,,,,"",""
+ball,1,6.1,Birmingham Bears,WMH Rhodes,AJ Hose,M de Lange,0,0,,,,,,"",""
+ball,1,6.2,Birmingham Bears,WMH Rhodes,AJ Hose,M de Lange,4,0,,,,,,"",""
+ball,1,6.3,Birmingham Bears,WMH Rhodes,AJ Hose,M de Lange,4,0,,,,,,"",""
+ball,1,6.4,Birmingham Bears,WMH Rhodes,AJ Hose,M de Lange,1,0,,,,,,"",""
+ball,1,6.5,Birmingham Bears,AJ Hose,WMH Rhodes,M de Lange,0,0,,,,,,"",""
+ball,1,6.6,Birmingham Bears,AJ Hose,WMH Rhodes,M de Lange,1,0,,,,,,"",""
+ball,1,7.1,Birmingham Bears,AJ Hose,WMH Rhodes,AG Salter,1,0,,,,,,"",""
+ball,1,7.2,Birmingham Bears,WMH Rhodes,AJ Hose,AG Salter,1,0,,,,,,"",""
+ball,1,7.3,Birmingham Bears,AJ Hose,WMH Rhodes,AG Salter,1,0,,,,,,"",""
+ball,1,7.4,Birmingham Bears,WMH Rhodes,AJ Hose,AG Salter,1,0,,,,,,"",""
+ball,1,7.5,Birmingham Bears,AJ Hose,WMH Rhodes,AG Salter,0,0,,,,,,caught,AJ Hose
+ball,1,7.6,Birmingham Bears,MGK Burgess,WMH Rhodes,AG Salter,0,0,,,,,,"",""
+ball,1,8.1,Birmingham Bears,WMH Rhodes,MGK Burgess,P Sisodiya,0,0,,,,,,"",""
+ball,1,8.2,Birmingham Bears,WMH Rhodes,MGK Burgess,P Sisodiya,1,0,,,,,,"",""
+ball,1,8.3,Birmingham Bears,MGK Burgess,WMH Rhodes,P Sisodiya,0,0,,,,,,"",""
+ball,1,8.4,Birmingham Bears,MGK Burgess,WMH Rhodes,P Sisodiya,1,0,,,,,,"",""
+ball,1,8.5,Birmingham Bears,WMH Rhodes,MGK Burgess,P Sisodiya,4,0,,,,,,"",""
+ball,1,8.6,Birmingham Bears,WMH Rhodes,MGK Burgess,P Sisodiya,1,0,,,,,,"",""
+ball,1,9.1,Birmingham Bears,WMH Rhodes,MGK Burgess,AG Salter,1,0,,,,,,"",""
+ball,1,9.2,Birmingham Bears,MGK Burgess,WMH Rhodes,AG Salter,4,0,,,,,,"",""
+ball,1,9.3,Birmingham Bears,MGK Burgess,WMH Rhodes,AG Salter,4,0,,,,,,"",""
+ball,1,9.4,Birmingham Bears,MGK Burgess,WMH Rhodes,AG Salter,0,0,,,,,,caught,MGK Burgess
+ball,1,9.5,Birmingham Bears,TT Bresnan,WMH Rhodes,AG Salter,0,0,,,,,,"",""
+ball,1,9.6,Birmingham Bears,TT Bresnan,WMH Rhodes,AG Salter,1,0,,,,,,"",""
+ball,1,10.1,Birmingham Bears,TT Bresnan,WMH Rhodes,P Sisodiya,0,0,,,,,,bowled,TT Bresnan
+ball,1,10.2,Birmingham Bears,HJH Brookes,WMH Rhodes,P Sisodiya,1,0,,,,,,"",""
+ball,1,10.3,Birmingham Bears,WMH Rhodes,HJH Brookes,P Sisodiya,1,0,,,,,,"",""
+ball,1,10.4,Birmingham Bears,HJH Brookes,WMH Rhodes,P Sisodiya,1,0,,,,,,"",""
+ball,1,10.5,Birmingham Bears,WMH Rhodes,HJH Brookes,P Sisodiya,0,0,,,,,,"",""
+ball,1,10.6,Birmingham Bears,WMH Rhodes,HJH Brookes,P Sisodiya,0,0,,,,,,"",""
+ball,1,11.1,Birmingham Bears,HJH Brookes,WMH Rhodes,AG Salter,1,0,,,,,,"",""
+ball,1,11.2,Birmingham Bears,WMH Rhodes,HJH Brookes,AG Salter,4,0,,,,,,"",""
+ball,1,11.3,Birmingham Bears,WMH Rhodes,HJH Brookes,AG Salter,0,0,,,,,,"",""
+ball,1,11.4,Birmingham Bears,WMH Rhodes,HJH Brookes,AG Salter,0,0,,,,,,"",""
+ball,1,11.5,Birmingham Bears,WMH Rhodes,HJH Brookes,AG Salter,6,0,,,,,,"",""
+ball,1,11.6,Birmingham Bears,WMH Rhodes,HJH Brookes,AG Salter,1,0,,,,,,"",""
+ball,1,12.1,Birmingham Bears,WMH Rhodes,HJH Brookes,M de Lange,0,0,,,,,,"",""
+ball,1,12.2,Birmingham Bears,WMH Rhodes,HJH Brookes,M de Lange,1,0,,,,,,"",""
+ball,1,12.3,Birmingham Bears,HJH Brookes,WMH Rhodes,M de Lange,0,0,,,,,,"",""
+ball,1,12.4,Birmingham Bears,HJH Brookes,WMH Rhodes,M de Lange,1,0,,,,,,"",""
+ball,1,12.5,Birmingham Bears,WMH Rhodes,HJH Brookes,M de Lange,1,0,,,,,,"",""
+ball,1,12.6,Birmingham Bears,HJH Brookes,WMH Rhodes,M de Lange,4,0,,,,,,"",""
+ball,1,13.1,Birmingham Bears,WMH Rhodes,HJH Brookes,T van der Gugten,2,0,,,,,,"",""
+ball,1,13.2,Birmingham Bears,WMH Rhodes,HJH Brookes,T van der Gugten,1,0,,,,,,"",""
+ball,1,13.3,Birmingham Bears,HJH Brookes,WMH Rhodes,T van der Gugten,1,0,,,,,,"",""
+ball,1,13.4,Birmingham Bears,WMH Rhodes,HJH Brookes,T van der Gugten,4,0,,,,,,"",""
+ball,1,13.5,Birmingham Bears,WMH Rhodes,HJH Brookes,T van der Gugten,1,0,,,,,,"",""
+ball,1,13.6,Birmingham Bears,HJH Brookes,WMH Rhodes,T van der Gugten,4,0,,,,,,"",""
+ball,1,14.1,Birmingham Bears,WMH Rhodes,HJH Brookes,M de Lange,0,0,,,,,,"",""
+ball,1,14.2,Birmingham Bears,WMH Rhodes,HJH Brookes,M de Lange,1,0,,,,,,run out,WMH Rhodes
+ball,1,14.3,Birmingham Bears,OP Stone,HJH Brookes,M de Lange,0,0,,,,,,"",""
+ball,1,14.4,Birmingham Bears,OP Stone,HJH Brookes,M de Lange,0,0,,,,,,"",""
+ball,1,14.5,Birmingham Bears,OP Stone,HJH Brookes,M de Lange,1,0,,,,,,"",""
+ball,1,14.6,Birmingham Bears,HJH Brookes,OP Stone,M de Lange,0,0,,,,,,"",""
+ball,1,15.1,Birmingham Bears,OP Stone,HJH Brookes,T van der Gugten,1,0,,,,,,"",""
+ball,1,15.2,Birmingham Bears,HJH Brookes,OP Stone,T van der Gugten,1,0,,,,,,"",""
+ball,1,15.3,Birmingham Bears,OP Stone,HJH Brookes,T van der Gugten,2,0,,,,,,"",""
+ball,1,15.4,Birmingham Bears,OP Stone,HJH Brookes,T van der Gugten,1,0,,,,,,"",""
+ball,1,15.5,Birmingham Bears,HJH Brookes,OP Stone,T van der Gugten,0,0,,,,,,"",""
+ball,1,15.6,Birmingham Bears,HJH Brookes,OP Stone,T van der Gugten,0,0,,,,,,caught,HJH Brookes
+ball,1,16.1,Birmingham Bears,JB Lintott,OP Stone,RAJ Smith,0,0,,,,,,"",""
+ball,1,16.2,Birmingham Bears,JB Lintott,OP Stone,RAJ Smith,1,0,,,,,,"",""
+ball,1,16.3,Birmingham Bears,OP Stone,JB Lintott,RAJ Smith,1,0,,,,,,"",""
+ball,1,16.4,Birmingham Bears,JB Lintott,OP Stone,RAJ Smith,4,0,,,,,,"",""
+ball,1,16.5,Birmingham Bears,JB Lintott,OP Stone,RAJ Smith,1,0,,,,,,"",""
+ball,1,16.6,Birmingham Bears,OP Stone,JB Lintott,RAJ Smith,0,0,,,,,,"",""
+ball,1,17.1,Birmingham Bears,JB Lintott,OP Stone,T van der Gugten,1,0,,,,,,"",""
+ball,1,17.2,Birmingham Bears,OP Stone,JB Lintott,T van der Gugten,0,0,,,,,,"",""
+ball,1,17.3,Birmingham Bears,OP Stone,JB Lintott,T van der Gugten,2,0,,,,,,"",""
+ball,1,17.4,Birmingham Bears,OP Stone,JB Lintott,T van der Gugten,1,0,,,,,,"",""
+ball,1,17.5,Birmingham Bears,JB Lintott,OP Stone,T van der Gugten,0,0,,,,,,"",""
+ball,1,17.6,Birmingham Bears,JB Lintott,OP Stone,T van der Gugten,0,0,,,,,,caught,JB Lintott
+ball,1,18.1,Birmingham Bears,OP Stone,JS Patel,M de Lange,1,0,,,,,,"",""
+ball,1,18.2,Birmingham Bears,JS Patel,OP Stone,M de Lange,1,0,,,,,,"",""
+ball,1,18.3,Birmingham Bears,OP Stone,JS Patel,M de Lange,0,0,,,,,,"",""
+ball,1,18.4,Birmingham Bears,OP Stone,JS Patel,M de Lange,1,0,,,,,,"",""
+ball,1,18.5,Birmingham Bears,JS Patel,OP Stone,M de Lange,0,0,,,,,,"",""
+ball,1,18.6,Birmingham Bears,JS Patel,OP Stone,M de Lange,1,0,,,,,,"",""
+ball,1,19.1,Birmingham Bears,JS Patel,OP Stone,RAJ Smith,1,0,,,,,,"",""
+ball,1,19.2,Birmingham Bears,OP Stone,JS Patel,RAJ Smith,0,0,,,,,,"",""
+ball,1,19.3,Birmingham Bears,OP Stone,JS Patel,RAJ Smith,6,0,,,,,,"",""
+ball,1,19.4,Birmingham Bears,OP Stone,JS Patel,RAJ Smith,1,0,,,,,,"",""
+ball,1,19.5,Birmingham Bears,JS Patel,OP Stone,RAJ Smith,1,0,,,,,,"",""
+ball,1,19.6,Birmingham Bears,OP Stone,JS Patel,RAJ Smith,4,0,,,,,,"",""
+ball,2,0.1,Glamorgan,DL Lloyd,NJ Selman,TT Bresnan,0,0,,,,,,"",""
+ball,2,0.2,Glamorgan,DL Lloyd,NJ Selman,TT Bresnan,1,0,,,,,,"",""
+ball,2,0.3,Glamorgan,NJ Selman,DL Lloyd,TT Bresnan,0,0,,,,,,"",""
+ball,2,0.4,Glamorgan,NJ Selman,DL Lloyd,TT Bresnan,2,0,,,,,,"",""
+ball,2,0.5,Glamorgan,NJ Selman,DL Lloyd,TT Bresnan,0,0,,,,,,"",""
+ball,2,0.6,Glamorgan,NJ Selman,DL Lloyd,TT Bresnan,4,0,,,,,,"",""
+ball,2,1.1,Glamorgan,DL Lloyd,NJ Selman,OP Stone,2,0,,,,,,"",""
+ball,2,1.2,Glamorgan,DL Lloyd,NJ Selman,OP Stone,6,0,,,,,,"",""
+ball,2,1.3,Glamorgan,DL Lloyd,NJ Selman,OP Stone,4,0,,,,,,"",""
+ball,2,1.4,Glamorgan,DL Lloyd,NJ Selman,OP Stone,0,0,,,,,,"",""
+ball,2,1.5,Glamorgan,DL Lloyd,NJ Selman,OP Stone,1,0,,,,,,"",""
+ball,2,1.6,Glamorgan,NJ Selman,DL Lloyd,OP Stone,0,0,,,,,,"",""
+ball,2,2.1,Glamorgan,DL Lloyd,NJ Selman,TT Bresnan,1,0,,,,,,"",""
+ball,2,2.2,Glamorgan,NJ Selman,DL Lloyd,TT Bresnan,0,0,,,,,,caught,NJ Selman
+ball,2,2.3,Glamorgan,DL Lloyd,A Balbirnie,TT Bresnan,0,0,,,,,,"",""
+ball,2,2.4,Glamorgan,DL Lloyd,A Balbirnie,TT Bresnan,0,2,,2,,,,"",""
+ball,2,2.5,Glamorgan,DL Lloyd,A Balbirnie,TT Bresnan,6,0,,,,,,"",""
+ball,2,2.6,Glamorgan,DL Lloyd,A Balbirnie,TT Bresnan,0,0,,,,,,"",""
+ball,2,2.7,Glamorgan,DL Lloyd,A Balbirnie,TT Bresnan,0,0,,,,,,caught,DL Lloyd
+ball,2,3.1,Glamorgan,A Balbirnie,CB Cooke,JS Patel,0,0,,,,,,"",""
+ball,2,3.2,Glamorgan,A Balbirnie,CB Cooke,JS Patel,1,0,,,,,,"",""
+ball,2,3.3,Glamorgan,CB Cooke,A Balbirnie,JS Patel,0,0,,,,,,"",""
+ball,2,3.4,Glamorgan,CB Cooke,A Balbirnie,JS Patel,0,0,,,,,,"",""
+ball,2,3.5,Glamorgan,CB Cooke,A Balbirnie,JS Patel,0,0,,,,,,"",""
+ball,2,3.6,Glamorgan,CB Cooke,A Balbirnie,JS Patel,0,0,,,,,,"",""
+ball,2,4.1,Glamorgan,A Balbirnie,CB Cooke,TT Bresnan,1,0,,,,,,"",""
+ball,2,4.2,Glamorgan,CB Cooke,A Balbirnie,TT Bresnan,0,0,,,,,,"",""
+ball,2,4.3,Glamorgan,CB Cooke,A Balbirnie,TT Bresnan,1,0,,,,,,"",""
+ball,2,4.4,Glamorgan,A Balbirnie,CB Cooke,TT Bresnan,1,0,,,,,,"",""
+ball,2,4.5,Glamorgan,CB Cooke,A Balbirnie,TT Bresnan,1,0,,,,,,"",""
+ball,2,4.6,Glamorgan,A Balbirnie,CB Cooke,TT Bresnan,0,0,,,,,,"",""
+ball,2,5.1,Glamorgan,CB Cooke,A Balbirnie,JS Patel,4,0,,,,,,"",""
+ball,2,5.2,Glamorgan,CB Cooke,A Balbirnie,JS Patel,1,0,,,,,,"",""
+ball,2,5.3,Glamorgan,A Balbirnie,CB Cooke,JS Patel,1,0,,,,,,"",""
+ball,2,5.4,Glamorgan,CB Cooke,A Balbirnie,JS Patel,1,0,,,,,,"",""
+ball,2,5.5,Glamorgan,A Balbirnie,CB Cooke,JS Patel,0,0,,,,,,"",""
+ball,2,5.6,Glamorgan,A Balbirnie,CB Cooke,JS Patel,1,0,,,,,,"",""
+ball,2,6.1,Glamorgan,A Balbirnie,CB Cooke,TT Bresnan,0,0,,,,,,"",""
+ball,2,6.2,Glamorgan,A Balbirnie,CB Cooke,TT Bresnan,1,0,,,,,,"",""
+ball,2,6.3,Glamorgan,CB Cooke,A Balbirnie,TT Bresnan,0,0,,,,,,"",""
+ball,2,6.4,Glamorgan,CB Cooke,A Balbirnie,TT Bresnan,4,0,,,,,,"",""
+ball,2,6.5,Glamorgan,CB Cooke,A Balbirnie,TT Bresnan,0,0,,,,,,caught,CB Cooke
+ball,2,6.6,Glamorgan,M de Lange,A Balbirnie,TT Bresnan,1,0,,,,,,"",""
+ball,2,7.1,Glamorgan,M de Lange,A Balbirnie,JB Lintott,0,0,,,,,,"",""
+ball,2,7.2,Glamorgan,M de Lange,A Balbirnie,JB Lintott,0,0,,,,,,caught and bowled,M de Lange
+ball,2,7.3,Glamorgan,AO Morgan,A Balbirnie,JB Lintott,0,0,,,,,,"",""
+ball,2,7.4,Glamorgan,AO Morgan,A Balbirnie,JB Lintott,0,0,,,,,,"",""
+ball,2,7.5,Glamorgan,AO Morgan,A Balbirnie,JB Lintott,1,0,,,,,,"",""
+ball,2,7.6,Glamorgan,A Balbirnie,AO Morgan,JB Lintott,1,0,,,,,,"",""
+ball,2,8.1,Glamorgan,A Balbirnie,AO Morgan,HJH Brookes,1,0,,,,,,"",""
+ball,2,8.2,Glamorgan,AO Morgan,A Balbirnie,HJH Brookes,0,0,,,,,,"",""
+ball,2,8.3,Glamorgan,AO Morgan,A Balbirnie,HJH Brookes,1,0,,,,,,"",""
+ball,2,8.4,Glamorgan,A Balbirnie,AO Morgan,HJH Brookes,0,0,,,,,,"",""
+ball,2,8.5,Glamorgan,A Balbirnie,AO Morgan,HJH Brookes,0,0,,,,,,"",""
+ball,2,8.6,Glamorgan,A Balbirnie,AO Morgan,HJH Brookes,1,0,,,,,,"",""
+ball,2,9.1,Glamorgan,A Balbirnie,AO Morgan,JB Lintott,1,0,,,,,,"",""
+ball,2,9.2,Glamorgan,AO Morgan,A Balbirnie,JB Lintott,0,0,,,,,,"",""
+ball,2,9.3,Glamorgan,AO Morgan,A Balbirnie,JB Lintott,0,0,,,,,,"",""
+ball,2,9.4,Glamorgan,AO Morgan,A Balbirnie,JB Lintott,1,0,,,,,,"",""
+ball,2,9.5,Glamorgan,A Balbirnie,AO Morgan,JB Lintott,0,0,,,,,,"",""
+ball,2,9.6,Glamorgan,A Balbirnie,AO Morgan,JB Lintott,0,0,,,,,,"",""
+ball,2,10.1,Glamorgan,AO Morgan,A Balbirnie,HJH Brookes,1,0,,,,,,"",""
+ball,2,10.2,Glamorgan,A Balbirnie,AO Morgan,HJH Brookes,4,0,,,,,,"",""
+ball,2,10.3,Glamorgan,A Balbirnie,AO Morgan,HJH Brookes,1,0,,,,,,"",""
+ball,2,10.4,Glamorgan,AO Morgan,A Balbirnie,HJH Brookes,0,1,,,,1,,"",""
+ball,2,10.5,Glamorgan,A Balbirnie,AO Morgan,HJH Brookes,6,0,,,,,,"",""
+ball,2,10.6,Glamorgan,A Balbirnie,AO Morgan,HJH Brookes,1,0,,,,,,"",""
+ball,2,11.1,Glamorgan,A Balbirnie,AO Morgan,JS Patel,1,0,,,,,,"",""
+ball,2,11.2,Glamorgan,AO Morgan,A Balbirnie,JS Patel,1,0,,,,,,"",""
+ball,2,11.3,Glamorgan,A Balbirnie,AO Morgan,JS Patel,4,0,,,,,,"",""
+ball,2,11.4,Glamorgan,A Balbirnie,AO Morgan,JS Patel,1,0,,,,,,"",""
+ball,2,11.5,Glamorgan,AO Morgan,A Balbirnie,JS Patel,0,0,,,,,,"",""
+ball,2,11.6,Glamorgan,AO Morgan,A Balbirnie,JS Patel,1,0,,,,,,"",""
+ball,2,12.1,Glamorgan,AO Morgan,A Balbirnie,OP Stone,1,0,,,,,,"",""
+ball,2,12.2,Glamorgan,A Balbirnie,AO Morgan,OP Stone,1,0,,,,,,"",""
+ball,2,12.3,Glamorgan,AO Morgan,A Balbirnie,OP Stone,0,0,,,,,,"",""
+ball,2,12.4,Glamorgan,AO Morgan,A Balbirnie,OP Stone,0,0,,,,,,"",""
+ball,2,12.5,Glamorgan,AO Morgan,A Balbirnie,OP Stone,0,0,,,,,,caught,AO Morgan
+ball,2,12.6,Glamorgan,A Balbirnie,Callum Taylor,OP Stone,1,0,,,,,,"",""
+ball,2,13.1,Glamorgan,A Balbirnie,Callum Taylor,JB Lintott,0,0,,,,,,"",""
+ball,2,13.2,Glamorgan,A Balbirnie,Callum Taylor,JB Lintott,0,0,,,,,,caught,A Balbirnie
+ball,2,13.3,Glamorgan,Callum Taylor,AG Salter,JB Lintott,0,0,,,,,,"",""
+ball,2,13.4,Glamorgan,Callum Taylor,AG Salter,JB Lintott,2,0,,,,,,"",""
+ball,2,13.5,Glamorgan,Callum Taylor,AG Salter,JB Lintott,0,0,,,,,,bowled,Callum Taylor
+ball,2,13.6,Glamorgan,RAJ Smith,AG Salter,JB Lintott,1,0,,,,,,"",""
+ball,2,14.1,Glamorgan,RAJ Smith,AG Salter,OP Stone,0,0,,,,,,"",""
+ball,2,14.2,Glamorgan,RAJ Smith,AG Salter,OP Stone,0,0,,,,,,bowled,RAJ Smith
+ball,2,14.3,Glamorgan,T van der Gugten,AG Salter,OP Stone,1,0,,,,,,"",""
+ball,2,14.4,Glamorgan,AG Salter,T van der Gugten,OP Stone,1,0,,,,,,"",""
+ball,2,14.5,Glamorgan,T van der Gugten,AG Salter,OP Stone,4,0,,,,,,"",""
+ball,2,14.6,Glamorgan,T van der Gugten,AG Salter,OP Stone,0,0,,,,,,"",""
+ball,2,15.1,Glamorgan,AG Salter,T van der Gugten,JB Lintott,0,0,,,,,,"",""
+ball,2,15.2,Glamorgan,AG Salter,T van der Gugten,JB Lintott,1,0,,,,,,"",""
+ball,2,15.3,Glamorgan,T van der Gugten,AG Salter,JB Lintott,2,0,,,,,,"",""
+ball,2,15.4,Glamorgan,T van der Gugten,AG Salter,JB Lintott,1,0,,,,,,"",""
+ball,2,15.5,Glamorgan,AG Salter,T van der Gugten,JB Lintott,0,0,,,,,,"",""
+ball,2,15.6,Glamorgan,AG Salter,T van der Gugten,JB Lintott,0,0,,,,,,"",""
+ball,2,16.1,Glamorgan,T van der Gugten,AG Salter,HJH Brookes,0,0,,,,,,"",""
+ball,2,16.2,Glamorgan,T van der Gugten,AG Salter,HJH Brookes,1,0,,,,,,"",""
+ball,2,16.3,Glamorgan,AG Salter,T van der Gugten,HJH Brookes,0,0,,,,,,"",""
+ball,2,16.4,Glamorgan,AG Salter,T van der Gugten,HJH Brookes,0,0,,,,,,"",""
+ball,2,16.5,Glamorgan,AG Salter,T van der Gugten,HJH Brookes,1,0,,,,,,"",""
+ball,2,16.6,Glamorgan,T van der Gugten,AG Salter,HJH Brookes,1,0,,,,,,"",""
+ball,2,17.1,Glamorgan,T van der Gugten,AG Salter,JS Patel,0,0,,,,,,"",""
+ball,2,17.2,Glamorgan,T van der Gugten,AG Salter,JS Patel,1,0,,,,,,"",""
+ball,2,17.3,Glamorgan,AG Salter,T van der Gugten,JS Patel,1,0,,,,,,"",""
+ball,2,17.4,Glamorgan,T van der Gugten,AG Salter,JS Patel,1,0,,,,,,"",""
+ball,2,17.5,Glamorgan,AG Salter,T van der Gugten,JS Patel,1,0,,,,,,"",""
+ball,2,17.6,Glamorgan,T van der Gugten,AG Salter,JS Patel,6,0,,,,,,"",""
+ball,2,18.1,Glamorgan,AG Salter,T van der Gugten,OP Stone,4,0,,,,,,"",""
+ball,2,18.2,Glamorgan,AG Salter,T van der Gugten,OP Stone,1,0,,,,,,"",""
+ball,2,18.3,Glamorgan,T van der Gugten,AG Salter,OP Stone,0,0,,,,,,"",""
+ball,2,18.4,Glamorgan,T van der Gugten,AG Salter,OP Stone,2,0,,,,,,"",""
+ball,2,18.5,Glamorgan,T van der Gugten,AG Salter,OP Stone,1,0,,,,,,"",""
+ball,2,18.6,Glamorgan,AG Salter,T van der Gugten,OP Stone,1,0,,,,,,"",""
+ball,2,19.1,Glamorgan,AG Salter,T van der Gugten,HJH Brookes,1,0,,,,,,"",""
+ball,2,19.2,Glamorgan,T van der Gugten,AG Salter,HJH Brookes,6,0,,,,,,"",""
+ball,2,19.3,Glamorgan,T van der Gugten,AG Salter,HJH Brookes,2,0,,,,,,"",""
+ball,2,19.4,Glamorgan,T van der Gugten,AG Salter,HJH Brookes,4,0,,,,,,"",""
+ball,2,19.5,Glamorgan,T van der Gugten,AG Salter,HJH Brookes,1,0,,,,,,"",""
+ball,2,19.6,Glamorgan,AG Salter,T van der Gugten,HJH Brookes,0,0,,,,,,"",""

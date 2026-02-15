@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Otago
+info,gender,female
+info,season,2025/26
+info,date,2026/01/06
+info,event,Women's Super Smash
+info,match_number,11
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Auckland
+info,toss_decision,bat
+info,player_of_match,MM Penfold
+info,umpire,BS Wilson
+info,umpire,JM Dempsey
+info,reserve_umpire,CR Pryor
+info,tv_umpire,Glen Walklin
+info,match_referee,GB Troup
+info,winner,Auckland
+info,winner_runs,1
+info,player,Auckland,P Catton
+info,player,Auckland,IC Gaze
+info,player,Auckland,BM Halliday
+info,player,Auckland,ML Green
+info,player,Auckland,LR Down
+info,player,Auckland,BG Armstrong
+info,player,Auckland,JO Penfold
+info,player,Auckland,OG Anderson
+info,player,Auckland,AT Hucker
+info,player,Auckland,MM Penfold
+info,player,Auckland,BG Illing
+info,player,Otago,FC Leydon-Davis
+info,player,Otago,IR James
+info,player,Otago,CG Blakely
+info,player,Otago,PJ Watkins
+info,player,Otago,PM Inglis
+info,player,Otago,AS Browning
+info,player,Otago,ON Gain
+info,player,Otago,E Gray
+info,player,Otago,EJ Black
+info,player,Otago,CM Deerness
+info,player,Otago,LM Kotkamp
+info,registry,people,AS Browning,c4c97b51
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,BG Armstrong,eca08a1d
+info,registry,people,BG Illing,80a0cd77
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,CG Blakely,8f999ed5
+info,registry,people,CM Deerness,bb1343ed
+info,registry,people,CR Pryor,8d705d48
+info,registry,people,E Gray,58717de2
+info,registry,people,EJ Black,2817e17a
+info,registry,people,FC Leydon-Davis,b91efad5
+info,registry,people,GB Troup,94f0e744
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,IR James,57bdbc16
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JO Penfold,321ea9e8
+info,registry,people,LM Kotkamp,72a33c58
+info,registry,people,LR Down,19147fe0
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,OG Anderson,3ebab39c
+info,registry,people,ON Gain,67913804
+info,registry,people,P Catton,22e8ba50
+info,registry,people,PJ Watkins,a2d53c59
+info,registry,people,PM Inglis,e4a71d18
+ball,1,0.1,Auckland,P Catton,IC Gaze,PJ Watkins,0,0,,,,,,"",""
+ball,1,0.2,Auckland,P Catton,IC Gaze,PJ Watkins,0,0,,,,,,"",""
+ball,1,0.3,Auckland,P Catton,IC Gaze,PJ Watkins,1,0,,,,,,"",""
+ball,1,0.4,Auckland,IC Gaze,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,1,0.5,Auckland,IC Gaze,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,1,0.6,Auckland,IC Gaze,P Catton,PJ Watkins,0,0,,,,,,"",""
+ball,1,1.1,Auckland,P Catton,IC Gaze,EJ Black,0,0,,,,,,"",""
+ball,1,1.2,Auckland,P Catton,IC Gaze,EJ Black,0,0,,,,,,"",""
+ball,1,1.3,Auckland,P Catton,IC Gaze,EJ Black,0,0,,,,,,"",""
+ball,1,1.4,Auckland,P Catton,IC Gaze,EJ Black,4,0,,,,,,"",""
+ball,1,1.5,Auckland,P Catton,IC Gaze,EJ Black,1,0,,,,,,"",""
+ball,1,1.6,Auckland,IC Gaze,P Catton,EJ Black,0,0,,,,,,"",""
+ball,1,2.1,Auckland,P Catton,IC Gaze,E Gray,0,0,,,,,,caught,P Catton
+ball,1,2.2,Auckland,BM Halliday,IC Gaze,E Gray,0,0,,,,,,"",""
+ball,1,2.3,Auckland,BM Halliday,IC Gaze,E Gray,0,0,,,,,,"",""
+ball,1,2.4,Auckland,BM Halliday,IC Gaze,E Gray,3,0,,,,,,"",""
+ball,1,2.5,Auckland,IC Gaze,BM Halliday,E Gray,1,0,,,,,,"",""
+ball,1,2.6,Auckland,BM Halliday,IC Gaze,E Gray,0,0,,,,,,"",""
+ball,1,3.1,Auckland,IC Gaze,BM Halliday,EJ Black,2,0,,,,,,"",""
+ball,1,3.2,Auckland,IC Gaze,BM Halliday,EJ Black,0,1,1,,,,,"",""
+ball,1,3.3,Auckland,IC Gaze,BM Halliday,EJ Black,0,0,,,,,,"",""
+ball,1,3.4,Auckland,IC Gaze,BM Halliday,EJ Black,0,0,,,,,,"",""
+ball,1,3.5,Auckland,IC Gaze,BM Halliday,EJ Black,0,0,,,,,,bowled,IC Gaze
+ball,1,3.6,Auckland,ML Green,BM Halliday,EJ Black,1,0,,,,,,"",""
+ball,1,3.7,Auckland,BM Halliday,ML Green,EJ Black,1,0,,,,,,"",""
+ball,1,4.1,Auckland,BM Halliday,ML Green,E Gray,1,0,,,,,,"",""
+ball,1,4.2,Auckland,ML Green,BM Halliday,E Gray,0,0,,,,,,"",""
+ball,1,4.3,Auckland,ML Green,BM Halliday,E Gray,0,0,,,,,,"",""
+ball,1,4.4,Auckland,ML Green,BM Halliday,E Gray,0,0,,,,,,"",""
+ball,1,4.5,Auckland,ML Green,BM Halliday,E Gray,4,0,,,,,,"",""
+ball,1,4.6,Auckland,ML Green,BM Halliday,E Gray,0,0,,,,,,"",""
+ball,1,5.1,Auckland,BM Halliday,ML Green,CM Deerness,0,0,,,,,,"",""
+ball,1,5.2,Auckland,BM Halliday,ML Green,CM Deerness,1,0,,,,,,"",""
+ball,1,5.3,Auckland,ML Green,BM Halliday,CM Deerness,1,0,,,,,,"",""
+ball,1,5.4,Auckland,BM Halliday,ML Green,CM Deerness,0,1,1,,,,,"",""
+ball,1,5.5,Auckland,BM Halliday,ML Green,CM Deerness,2,0,,,,,,"",""
+ball,1,5.6,Auckland,BM Halliday,ML Green,CM Deerness,1,0,,,,,,"",""
+ball,1,5.7,Auckland,ML Green,BM Halliday,CM Deerness,0,0,,,,,,"",""
+ball,1,6.1,Auckland,BM Halliday,ML Green,LM Kotkamp,1,0,,,,,,"",""
+ball,1,6.2,Auckland,ML Green,BM Halliday,LM Kotkamp,1,0,,,,,,"",""
+ball,1,6.3,Auckland,BM Halliday,ML Green,LM Kotkamp,2,0,,,,,,"",""
+ball,1,6.4,Auckland,BM Halliday,ML Green,LM Kotkamp,1,0,,,,,,"",""
+ball,1,6.5,Auckland,ML Green,BM Halliday,LM Kotkamp,1,0,,,,,,"",""
+ball,1,6.6,Auckland,BM Halliday,ML Green,LM Kotkamp,1,0,,,,,,"",""
+ball,1,7.1,Auckland,BM Halliday,ML Green,PJ Watkins,1,0,,,,,,"",""
+ball,1,7.2,Auckland,ML Green,BM Halliday,PJ Watkins,2,0,,,,,,"",""
+ball,1,7.3,Auckland,ML Green,BM Halliday,PJ Watkins,1,0,,,,,,"",""
+ball,1,7.4,Auckland,BM Halliday,ML Green,PJ Watkins,1,0,,,,,,"",""
+ball,1,7.5,Auckland,ML Green,BM Halliday,PJ Watkins,4,0,,,,,,"",""
+ball,1,7.6,Auckland,ML Green,BM Halliday,PJ Watkins,1,0,,,,,,"",""
+ball,1,8.1,Auckland,ML Green,BM Halliday,LM Kotkamp,2,0,,,,,,"",""
+ball,1,8.2,Auckland,ML Green,BM Halliday,LM Kotkamp,0,0,,,,,,"",""
+ball,1,8.3,Auckland,ML Green,BM Halliday,LM Kotkamp,1,0,,,,,,"",""
+ball,1,8.4,Auckland,BM Halliday,ML Green,LM Kotkamp,4,0,,,,,,"",""
+ball,1,8.5,Auckland,BM Halliday,ML Green,LM Kotkamp,1,0,,,,,,"",""
+ball,1,8.6,Auckland,ML Green,BM Halliday,LM Kotkamp,1,0,,,,,,"",""
+ball,1,9.1,Auckland,ML Green,BM Halliday,CM Deerness,1,0,,,,,,"",""
+ball,1,9.2,Auckland,BM Halliday,ML Green,CM Deerness,1,0,,,,,,"",""
+ball,1,9.3,Auckland,ML Green,BM Halliday,CM Deerness,0,1,1,,,,,"",""
+ball,1,9.4,Auckland,ML Green,BM Halliday,CM Deerness,1,0,,,,,,"",""
+ball,1,9.5,Auckland,BM Halliday,ML Green,CM Deerness,1,0,,,,,,"",""
+ball,1,9.6,Auckland,ML Green,BM Halliday,CM Deerness,0,0,,,,,,"",""
+ball,1,9.7,Auckland,ML Green,BM Halliday,CM Deerness,1,0,,,,,,"",""
+ball,1,10.1,Auckland,ML Green,BM Halliday,EJ Black,4,0,,,,,,"",""
+ball,1,10.2,Auckland,ML Green,BM Halliday,EJ Black,1,0,,,,,,"",""
+ball,1,10.3,Auckland,BM Halliday,ML Green,EJ Black,0,0,,,,,,"",""
+ball,1,10.4,Auckland,BM Halliday,ML Green,EJ Black,1,0,,,,,,"",""
+ball,1,10.5,Auckland,ML Green,BM Halliday,EJ Black,0,0,,,,,,"",""
+ball,1,10.6,Auckland,ML Green,BM Halliday,EJ Black,1,0,,,,,,"",""
+ball,1,11.1,Auckland,ML Green,BM Halliday,AS Browning,1,0,,,,,,"",""
+ball,1,11.2,Auckland,BM Halliday,ML Green,AS Browning,4,0,,,,,,"",""
+ball,1,11.3,Auckland,BM Halliday,ML Green,AS Browning,0,2,,,,2,,"",""
+ball,1,11.4,Auckland,BM Halliday,ML Green,AS Browning,4,0,,,,,,"",""
+ball,1,11.5,Auckland,BM Halliday,ML Green,AS Browning,0,0,,,,,,bowled,BM Halliday
+ball,1,11.6,Auckland,LR Down,ML Green,AS Browning,0,0,,,,,,"",""
+ball,1,12.1,Auckland,ML Green,LR Down,PJ Watkins,0,0,,,,,,"",""
+ball,1,12.2,Auckland,ML Green,LR Down,PJ Watkins,1,0,,,,,,"",""
+ball,1,12.3,Auckland,LR Down,ML Green,PJ Watkins,1,0,,,,,,"",""
+ball,1,12.4,Auckland,ML Green,LR Down,PJ Watkins,1,0,,,,,,"",""
+ball,1,12.5,Auckland,LR Down,ML Green,PJ Watkins,1,0,,,,,,"",""
+ball,1,12.6,Auckland,ML Green,LR Down,PJ Watkins,1,0,,,,,,"",""
+ball,1,13.1,Auckland,ML Green,LR Down,CM Deerness,1,0,,,,,,"",""
+ball,1,13.2,Auckland,LR Down,ML Green,CM Deerness,1,0,,,,,,"",""
+ball,1,13.3,Auckland,ML Green,LR Down,CM Deerness,0,0,,,,,,"",""
+ball,1,13.4,Auckland,ML Green,LR Down,CM Deerness,1,0,,,,,,"",""
+ball,1,13.5,Auckland,LR Down,ML Green,CM Deerness,0,0,,,,,,"",""
+ball,1,13.6,Auckland,LR Down,ML Green,CM Deerness,1,0,,,,,,"",""
+ball,1,14.1,Auckland,LR Down,ML Green,CG Blakely,1,0,,,,,,"",""
+ball,1,14.2,Auckland,ML Green,LR Down,CG Blakely,1,0,,,,,,"",""
+ball,1,14.3,Auckland,LR Down,ML Green,CG Blakely,1,0,,,,,,"",""
+ball,1,14.4,Auckland,ML Green,LR Down,CG Blakely,1,0,,,,,,"",""
+ball,1,14.5,Auckland,LR Down,ML Green,CG Blakely,1,0,,,,,,"",""
+ball,1,14.6,Auckland,ML Green,LR Down,CG Blakely,0,0,,,,,,"",""
+ball,1,15.1,Auckland,LR Down,ML Green,FC Leydon-Davis,1,0,,,,,,"",""
+ball,1,15.2,Auckland,ML Green,LR Down,FC Leydon-Davis,1,0,,,,,,"",""
+ball,1,15.3,Auckland,LR Down,ML Green,FC Leydon-Davis,1,0,,,,,,"",""
+ball,1,15.4,Auckland,ML Green,LR Down,FC Leydon-Davis,4,0,,,,,,"",""
+ball,1,15.5,Auckland,ML Green,LR Down,FC Leydon-Davis,0,0,,,,,,"",""
+ball,1,15.6,Auckland,ML Green,LR Down,FC Leydon-Davis,0,0,,,,,,caught,ML Green
+ball,1,16.1,Auckland,LR Down,BG Armstrong,PJ Watkins,1,0,,,,,,"",""
+ball,1,16.2,Auckland,BG Armstrong,LR Down,PJ Watkins,0,0,,,,,,stumped,BG Armstrong
+ball,1,16.3,Auckland,JO Penfold,LR Down,PJ Watkins,1,0,,,,,,"",""
+ball,1,16.4,Auckland,LR Down,JO Penfold,PJ Watkins,1,0,,,,,,"",""
+ball,1,16.5,Auckland,JO Penfold,LR Down,PJ Watkins,0,0,,,,,,"",""
+ball,1,16.6,Auckland,JO Penfold,LR Down,PJ Watkins,0,0,,,,,,"",""
+ball,1,17.1,Auckland,LR Down,JO Penfold,CM Deerness,2,0,,,,,,"",""
+ball,1,17.2,Auckland,LR Down,JO Penfold,CM Deerness,1,0,,,,,,"",""
+ball,1,17.3,Auckland,JO Penfold,LR Down,CM Deerness,1,0,,,,,,"",""
+ball,1,17.4,Auckland,LR Down,JO Penfold,CM Deerness,1,0,,,,,,"",""
+ball,1,17.5,Auckland,JO Penfold,LR Down,CM Deerness,0,0,,,,,,"",""
+ball,1,17.6,Auckland,JO Penfold,LR Down,CM Deerness,4,0,,,,,,"",""
+ball,1,18.1,Auckland,LR Down,JO Penfold,E Gray,0,0,,,,,,"",""
+ball,1,18.2,Auckland,LR Down,JO Penfold,E Gray,2,0,,,,,,"",""
+ball,1,18.3,Auckland,LR Down,JO Penfold,E Gray,1,0,,,,,,"",""
+ball,1,18.4,Auckland,JO Penfold,LR Down,E Gray,6,0,,,,,,"",""
+ball,1,18.5,Auckland,JO Penfold,LR Down,E Gray,1,0,,,,,,"",""
+ball,1,18.6,Auckland,LR Down,JO Penfold,E Gray,1,0,,,,,,"",""
+ball,1,19.1,Auckland,LR Down,JO Penfold,EJ Black,0,0,,,,,,"",""
+ball,1,19.2,Auckland,LR Down,JO Penfold,EJ Black,1,0,,,,,,"",""
+ball,1,19.3,Auckland,JO Penfold,LR Down,EJ Black,0,0,,,,,,caught,JO Penfold
+ball,1,19.4,Auckland,OG Anderson,LR Down,EJ Black,1,0,,,,,,"",""
+ball,1,19.5,Auckland,LR Down,OG Anderson,EJ Black,1,0,,,,,,"",""
+ball,1,19.6,Auckland,OG Anderson,LR Down,EJ Black,0,0,,,,,,"",""
+ball,2,0.1,Otago,FC Leydon-Davis,IR James,AT Hucker,0,1,1,,,,,"",""
+ball,2,0.2,Otago,FC Leydon-Davis,IR James,AT Hucker,0,1,1,,,,,"",""
+ball,2,0.3,Otago,FC Leydon-Davis,IR James,AT Hucker,0,0,,,,,,"",""
+ball,2,0.4,Otago,FC Leydon-Davis,IR James,AT Hucker,1,0,,,,,,"",""
+ball,2,0.5,Otago,IR James,FC Leydon-Davis,AT Hucker,0,0,,,,,,"",""
+ball,2,0.6,Otago,IR James,FC Leydon-Davis,AT Hucker,0,0,,,,,,"",""
+ball,2,0.7,Otago,IR James,FC Leydon-Davis,AT Hucker,1,0,,,,,,"",""
+ball,2,0.8,Otago,FC Leydon-Davis,IR James,AT Hucker,0,0,,,,,,"",""
+ball,2,1.1,Otago,IR James,FC Leydon-Davis,BG Illing,0,0,,,,,,"",""
+ball,2,1.2,Otago,IR James,FC Leydon-Davis,BG Illing,0,1,1,,,,,"",""
+ball,2,1.3,Otago,IR James,FC Leydon-Davis,BG Illing,0,0,,,,,,"",""
+ball,2,1.4,Otago,IR James,FC Leydon-Davis,BG Illing,2,0,,,,,,"",""
+ball,2,1.5,Otago,IR James,FC Leydon-Davis,BG Illing,0,0,,,,,,"",""
+ball,2,1.6,Otago,IR James,FC Leydon-Davis,BG Illing,0,0,,,,,,"",""
+ball,2,1.7,Otago,IR James,FC Leydon-Davis,BG Illing,1,0,,,,,,"",""
+ball,2,2.1,Otago,IR James,FC Leydon-Davis,BM Halliday,1,0,,,,,,"",""
+ball,2,2.2,Otago,FC Leydon-Davis,IR James,BM Halliday,0,0,,,,,,"",""
+ball,2,2.3,Otago,FC Leydon-Davis,IR James,BM Halliday,1,0,,,,,,"",""
+ball,2,2.4,Otago,IR James,FC Leydon-Davis,BM Halliday,0,0,,,,,,"",""
+ball,2,2.5,Otago,IR James,FC Leydon-Davis,BM Halliday,1,0,,,,,,"",""
+ball,2,2.6,Otago,FC Leydon-Davis,IR James,BM Halliday,0,0,,,,,,"",""
+ball,2,3.1,Otago,IR James,FC Leydon-Davis,BG Illing,4,0,,,,,,"",""
+ball,2,3.2,Otago,IR James,FC Leydon-Davis,BG Illing,0,0,,,,,,"",""
+ball,2,3.3,Otago,IR James,FC Leydon-Davis,BG Illing,4,0,,,,,,"",""
+ball,2,3.4,Otago,IR James,FC Leydon-Davis,BG Illing,0,0,,,,,,"",""
+ball,2,3.5,Otago,IR James,FC Leydon-Davis,BG Illing,0,0,,,,,,"",""
+ball,2,3.6,Otago,IR James,FC Leydon-Davis,BG Illing,0,0,,,,,,"",""
+ball,2,4.1,Otago,FC Leydon-Davis,IR James,AT Hucker,0,0,,,,,,caught,FC Leydon-Davis
+ball,2,4.2,Otago,CG Blakely,IR James,AT Hucker,1,0,,,,,,"",""
+ball,2,4.3,Otago,IR James,CG Blakely,AT Hucker,0,0,,,,,,"",""
+ball,2,4.4,Otago,IR James,CG Blakely,AT Hucker,2,0,,,,,,"",""
+ball,2,4.5,Otago,IR James,CG Blakely,AT Hucker,0,0,,,,,,"",""
+ball,2,4.6,Otago,IR James,CG Blakely,AT Hucker,0,0,,,,,,"",""
+ball,2,5.1,Otago,CG Blakely,IR James,MM Penfold,1,0,,,,,,"",""
+ball,2,5.2,Otago,IR James,CG Blakely,MM Penfold,2,0,,,,,,"",""
+ball,2,5.3,Otago,IR James,CG Blakely,MM Penfold,0,1,1,,,,,"",""
+ball,2,5.4,Otago,IR James,CG Blakely,MM Penfold,2,0,,,,,,"",""
+ball,2,5.5,Otago,IR James,CG Blakely,MM Penfold,4,0,,,,,,"",""
+ball,2,5.6,Otago,IR James,CG Blakely,MM Penfold,1,0,,,,,,"",""
+ball,2,5.7,Otago,CG Blakely,IR James,MM Penfold,0,0,,,,,,caught,CG Blakely
+ball,2,6.1,Otago,IR James,PJ Watkins,BG Armstrong,3,0,,,,,,"",""
+ball,2,6.2,Otago,PJ Watkins,IR James,BG Armstrong,1,0,,,,,,"",""
+ball,2,6.3,Otago,IR James,PJ Watkins,BG Armstrong,1,0,,,,,,"",""
+ball,2,6.4,Otago,PJ Watkins,IR James,BG Armstrong,1,0,,,,,,"",""
+ball,2,6.5,Otago,IR James,PJ Watkins,BG Armstrong,2,0,,,,,,"",""
+ball,2,6.6,Otago,IR James,PJ Watkins,BG Armstrong,1,0,,,,,,"",""
+ball,2,7.1,Otago,IR James,PJ Watkins,ML Green,2,0,,,,,,"",""
+ball,2,7.2,Otago,IR James,PJ Watkins,ML Green,4,0,,,,,,"",""
+ball,2,7.3,Otago,IR James,PJ Watkins,ML Green,1,0,,,,,,"",""
+ball,2,7.4,Otago,PJ Watkins,IR James,ML Green,1,0,,,,,,"",""
+ball,2,7.5,Otago,IR James,PJ Watkins,ML Green,1,0,,,,,,"",""
+ball,2,7.6,Otago,PJ Watkins,IR James,ML Green,1,0,,,,,,"",""
+ball,2,8.1,Otago,PJ Watkins,IR James,JO Penfold,0,0,,,,,,"",""
+ball,2,8.2,Otago,PJ Watkins,IR James,JO Penfold,0,0,,,,,,"",""
+ball,2,8.3,Otago,PJ Watkins,IR James,JO Penfold,1,0,,,,,,"",""
+ball,2,8.4,Otago,IR James,PJ Watkins,JO Penfold,0,0,,,,,,caught,IR James
+ball,2,8.5,Otago,PM Inglis,PJ Watkins,JO Penfold,0,0,,,,,,"",""
+ball,2,8.6,Otago,PM Inglis,PJ Watkins,JO Penfold,0,0,,,,,,"",""
+ball,2,9.1,Otago,PJ Watkins,PM Inglis,BM Halliday,2,0,,,,,,"",""
+ball,2,9.2,Otago,PJ Watkins,PM Inglis,BM Halliday,0,0,,,,,,"",""
+ball,2,9.3,Otago,PJ Watkins,PM Inglis,BM Halliday,1,0,,,,,,"",""
+ball,2,9.4,Otago,PM Inglis,PJ Watkins,BM Halliday,0,0,,,,,,"",""
+ball,2,9.5,Otago,PM Inglis,PJ Watkins,BM Halliday,0,0,,,,,,"",""
+ball,2,9.6,Otago,PM Inglis,PJ Watkins,BM Halliday,1,0,,,,,,"",""
+ball,2,10.1,Otago,PM Inglis,PJ Watkins,JO Penfold,4,0,,,,,,"",""
+ball,2,10.2,Otago,PM Inglis,PJ Watkins,JO Penfold,0,0,,,,,,"",""
+ball,2,10.3,Otago,PM Inglis,PJ Watkins,JO Penfold,0,0,,,,,,"",""
+ball,2,10.4,Otago,PM Inglis,PJ Watkins,JO Penfold,0,0,,,,,,"",""
+ball,2,10.5,Otago,PM Inglis,PJ Watkins,JO Penfold,0,0,,,,,,"",""
+ball,2,10.6,Otago,PM Inglis,PJ Watkins,JO Penfold,2,0,,,,,,"",""
+ball,2,11.1,Otago,PJ Watkins,PM Inglis,BM Halliday,0,0,,,,,,"",""
+ball,2,11.2,Otago,PJ Watkins,PM Inglis,BM Halliday,0,0,,,,,,"",""
+ball,2,11.3,Otago,PJ Watkins,PM Inglis,BM Halliday,1,0,,,,,,"",""
+ball,2,11.4,Otago,PM Inglis,PJ Watkins,BM Halliday,3,0,,,,,,"",""
+ball,2,11.5,Otago,PJ Watkins,PM Inglis,BM Halliday,1,0,,,,,,"",""
+ball,2,11.6,Otago,PM Inglis,PJ Watkins,BM Halliday,1,0,,,,,,"",""
+ball,2,12.1,Otago,PM Inglis,PJ Watkins,JO Penfold,0,0,,,,,,"",""
+ball,2,12.2,Otago,PM Inglis,PJ Watkins,JO Penfold,4,0,,,,,,"",""
+ball,2,12.3,Otago,PM Inglis,PJ Watkins,JO Penfold,0,0,,,,,,"",""
+ball,2,12.4,Otago,PM Inglis,PJ Watkins,JO Penfold,2,0,,,,,,"",""
+ball,2,12.5,Otago,PM Inglis,PJ Watkins,JO Penfold,0,1,1,,,,,"",""
+ball,2,12.6,Otago,PM Inglis,PJ Watkins,JO Penfold,0,0,,,,,,"",""
+ball,2,12.7,Otago,PM Inglis,PJ Watkins,JO Penfold,1,0,,,,,,"",""
+ball,2,13.1,Otago,PM Inglis,PJ Watkins,BG Armstrong,2,0,,,,,,"",""
+ball,2,13.2,Otago,PM Inglis,PJ Watkins,BG Armstrong,1,0,,,,,,"",""
+ball,2,13.3,Otago,PJ Watkins,PM Inglis,BG Armstrong,0,0,,,,,,"",""
+ball,2,13.4,Otago,PJ Watkins,PM Inglis,BG Armstrong,0,0,,,,,,"",""
+ball,2,13.5,Otago,PJ Watkins,PM Inglis,BG Armstrong,1,0,,,,,,"",""
+ball,2,13.6,Otago,PM Inglis,PJ Watkins,BG Armstrong,2,0,,,,,,"",""
+ball,2,14.1,Otago,PJ Watkins,PM Inglis,MM Penfold,0,0,,,,,,"",""
+ball,2,14.2,Otago,PJ Watkins,PM Inglis,MM Penfold,2,0,,,,,,"",""
+ball,2,14.3,Otago,PJ Watkins,PM Inglis,MM Penfold,1,0,,,,,,"",""
+ball,2,14.4,Otago,PM Inglis,PJ Watkins,MM Penfold,0,0,,,,,,caught,PM Inglis
+ball,2,14.5,Otago,AS Browning,PJ Watkins,MM Penfold,0,0,,,,,,caught,AS Browning
+ball,2,14.6,Otago,ON Gain,PJ Watkins,MM Penfold,1,0,,,,,,"",""
+ball,2,15.1,Otago,ON Gain,PJ Watkins,BG Armstrong,1,0,,,,,,"",""
+ball,2,15.2,Otago,PJ Watkins,ON Gain,BG Armstrong,0,0,,,,,,"",""
+ball,2,15.3,Otago,PJ Watkins,ON Gain,BG Armstrong,1,0,,,,,,"",""
+ball,2,15.4,Otago,ON Gain,PJ Watkins,BG Armstrong,1,0,,,,,,"",""
+ball,2,15.5,Otago,PJ Watkins,ON Gain,BG Armstrong,1,0,,,,,,"",""
+ball,2,15.6,Otago,ON Gain,PJ Watkins,BG Armstrong,0,0,,,,,,caught,ON Gain
+ball,2,16.1,Otago,PJ Watkins,E Gray,AT Hucker,0,0,,,,,,"",""
+ball,2,16.2,Otago,PJ Watkins,E Gray,AT Hucker,4,0,,,,,,"",""
+ball,2,16.3,Otago,PJ Watkins,E Gray,AT Hucker,1,0,,,,,,"",""
+ball,2,16.4,Otago,E Gray,PJ Watkins,AT Hucker,0,0,,,,,,"",""
+ball,2,16.5,Otago,E Gray,PJ Watkins,AT Hucker,0,1,1,,,,,"",""
+ball,2,16.6,Otago,E Gray,PJ Watkins,AT Hucker,1,0,,,,,,"",""
+ball,2,16.7,Otago,PJ Watkins,E Gray,AT Hucker,0,0,,,,,,"",""
+ball,2,17.1,Otago,E Gray,PJ Watkins,BG Armstrong,0,0,,,,,,"",""
+ball,2,17.2,Otago,E Gray,PJ Watkins,BG Armstrong,2,0,,,,,,"",""
+ball,2,17.3,Otago,E Gray,PJ Watkins,BG Armstrong,1,0,,,,,,"",""
+ball,2,17.4,Otago,PJ Watkins,E Gray,BG Armstrong,1,0,,,,,,"",""
+ball,2,17.5,Otago,E Gray,PJ Watkins,BG Armstrong,1,0,,,,,,"",""
+ball,2,17.6,Otago,PJ Watkins,E Gray,BG Armstrong,4,0,,,,,,"",""
+ball,2,18.1,Otago,E Gray,PJ Watkins,AT Hucker,0,0,,,,,,lbw,E Gray
+ball,2,18.2,Otago,EJ Black,PJ Watkins,AT Hucker,1,0,,,,,,"",""
+ball,2,18.3,Otago,PJ Watkins,EJ Black,AT Hucker,2,0,,,,,,"",""
+ball,2,18.4,Otago,PJ Watkins,EJ Black,AT Hucker,1,0,,,,,,"",""
+ball,2,18.5,Otago,EJ Black,PJ Watkins,AT Hucker,1,0,,,,,,"",""
+ball,2,18.6,Otago,PJ Watkins,EJ Black,AT Hucker,2,0,,,,,,"",""
+ball,2,19.1,Otago,EJ Black,PJ Watkins,BM Halliday,1,0,,,,,,"",""
+ball,2,19.2,Otago,PJ Watkins,EJ Black,BM Halliday,2,0,,,,,,"",""
+ball,2,19.3,Otago,PJ Watkins,EJ Black,BM Halliday,2,0,,,,,,"",""
+ball,2,19.4,Otago,PJ Watkins,EJ Black,BM Halliday,1,0,,,,,,"",""
+ball,2,19.5,Otago,EJ Black,PJ Watkins,BM Halliday,2,0,,,,,,"",""
+ball,2,19.6,Otago,EJ Black,PJ Watkins,BM Halliday,0,0,,,,,,stumped,EJ Black

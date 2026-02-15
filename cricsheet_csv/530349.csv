@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Cape Cobras
+info,gender,male
+info,season,2011/12
+info,date,2012/03/11
+info,event,MiWAY T20 Challenge
+info,match_number,29
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Knights
+info,toss_decision,bat
+info,player_of_match,AJA Gray
+info,player_of_match,RE Levi
+info,umpire,GH Pienaar
+info,umpire,S George
+info,reserve_umpire,EC Hendrikse
+info,match_referee,CJ Mitchley
+info,winner,Cape Cobras
+info,winner_wickets,6
+info,player,Knights,MN van Wyk
+info,player,Knights,RR Rossouw
+info,player,Knights,AJ Pienaar
+info,player,Knights,RR Hendricks
+info,player,Knights,RT Bailey
+info,player,Knights,R McLaren
+info,player,Knights,WL Coetsee
+info,player,Knights,D du Preez
+info,player,Knights,AR Swanepoel
+info,player,Knights,J Coetzee
+info,player,Knights,MP Siboto
+info,player,Cape Cobras,RE Levi
+info,player,Cape Cobras,S van Zyl
+info,player,Cape Cobras,HH Gibbs
+info,player,Cape Cobras,OA Shah
+info,player,Cape Cobras,DJ Vilas
+info,player,Cape Cobras,JM Kemp
+info,player,Cape Cobras,AJA Gray
+info,player,Cape Cobras,GB Hogg
+info,player,Cape Cobras,RK Kleinveldt
+info,player,Cape Cobras,DL Piedt
+info,player,Cape Cobras,CK Langeveldt
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,AJA Gray,88867cac
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,CJ Mitchley,7f4f18e3
+info,registry,people,CK Langeveldt,d1c94b25
+info,registry,people,D du Preez,d7a57f75
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,EC Hendrikse,3f2996c9
+info,registry,people,GB Hogg,f708a0bc
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,JM Kemp,6581d753
+info,registry,people,MN van Wyk,710dd98c
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,OA Shah,7bf96684
+info,registry,people,R McLaren,c654af19
+info,registry,people,RE Levi,18c78b11
+info,registry,people,RK Kleinveldt,7955eb15
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RT Bailey,93a751e8
+info,registry,people,S George,6d9e5a54
+info,registry,people,S van Zyl,f4dfcbb4
+info,registry,people,WL Coetsee,5f419ace
+ball,1,0.1,Knights,MN van Wyk,RR Rossouw,DL Piedt,2,0,,,,,,"",""
+ball,1,0.2,Knights,MN van Wyk,RR Rossouw,DL Piedt,2,0,,,,,,"",""
+ball,1,0.3,Knights,MN van Wyk,RR Rossouw,DL Piedt,0,0,,,,,,"",""
+ball,1,0.4,Knights,MN van Wyk,RR Rossouw,DL Piedt,4,0,,,,,,"",""
+ball,1,0.5,Knights,MN van Wyk,RR Rossouw,DL Piedt,1,0,,,,,,"",""
+ball,1,0.6,Knights,RR Rossouw,MN van Wyk,DL Piedt,0,0,,,,,,"",""
+ball,1,1.1,Knights,MN van Wyk,RR Rossouw,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,1.2,Knights,RR Rossouw,MN van Wyk,RK Kleinveldt,4,0,,,,,,"",""
+ball,1,1.3,Knights,RR Rossouw,MN van Wyk,RK Kleinveldt,2,0,,,,,,"",""
+ball,1,1.4,Knights,RR Rossouw,MN van Wyk,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,1.5,Knights,MN van Wyk,RR Rossouw,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,1.6,Knights,MN van Wyk,RR Rossouw,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,2.1,Knights,RR Rossouw,MN van Wyk,CK Langeveldt,3,0,,,,,,"",""
+ball,1,2.2,Knights,MN van Wyk,RR Rossouw,CK Langeveldt,1,0,,,,,,"",""
+ball,1,2.3,Knights,RR Rossouw,MN van Wyk,CK Langeveldt,0,0,,,,,,caught,RR Rossouw
+ball,1,2.4,Knights,AJ Pienaar,MN van Wyk,CK Langeveldt,1,0,,,,,,"",""
+ball,1,2.5,Knights,MN van Wyk,AJ Pienaar,CK Langeveldt,1,0,,,,,,"",""
+ball,1,2.6,Knights,AJ Pienaar,MN van Wyk,CK Langeveldt,0,0,,,,,,"",""
+ball,1,3.1,Knights,MN van Wyk,AJ Pienaar,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,3.2,Knights,MN van Wyk,AJ Pienaar,RK Kleinveldt,4,0,,,,,,"",""
+ball,1,3.3,Knights,MN van Wyk,AJ Pienaar,RK Kleinveldt,4,0,,,,,,"",""
+ball,1,3.4,Knights,MN van Wyk,AJ Pienaar,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,3.5,Knights,AJ Pienaar,MN van Wyk,RK Kleinveldt,2,0,,,,,,"",""
+ball,1,3.6,Knights,AJ Pienaar,MN van Wyk,RK Kleinveldt,0,1,1,,,,,"",""
+ball,1,3.7,Knights,AJ Pienaar,MN van Wyk,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,4.1,Knights,AJ Pienaar,MN van Wyk,CK Langeveldt,1,0,,,,,,"",""
+ball,1,4.2,Knights,MN van Wyk,AJ Pienaar,CK Langeveldt,0,0,,,,,,"",""
+ball,1,4.3,Knights,MN van Wyk,AJ Pienaar,CK Langeveldt,1,0,,,,,,"",""
+ball,1,4.4,Knights,AJ Pienaar,MN van Wyk,CK Langeveldt,0,1,,1,,,,"",""
+ball,1,4.5,Knights,AJ Pienaar,MN van Wyk,CK Langeveldt,6,0,,,,,,"",""
+ball,1,4.6,Knights,AJ Pienaar,MN van Wyk,CK Langeveldt,1,0,,,,,,"",""
+ball,1,4.7,Knights,MN van Wyk,AJ Pienaar,CK Langeveldt,1,0,,,,,,"",""
+ball,1,5.1,Knights,MN van Wyk,AJ Pienaar,GB Hogg,1,0,,,,,,"",""
+ball,1,5.2,Knights,AJ Pienaar,MN van Wyk,GB Hogg,4,0,,,,,,"",""
+ball,1,5.3,Knights,AJ Pienaar,MN van Wyk,GB Hogg,6,0,,,,,,"",""
+ball,1,5.4,Knights,AJ Pienaar,MN van Wyk,GB Hogg,0,0,,,,,,bowled,AJ Pienaar
+ball,1,5.5,Knights,RR Hendricks,MN van Wyk,GB Hogg,0,0,,,,,,"",""
+ball,1,5.6,Knights,RR Hendricks,MN van Wyk,GB Hogg,0,0,,,,,,"",""
+ball,1,6.1,Knights,MN van Wyk,RR Hendricks,AJA Gray,0,0,,,,,,"",""
+ball,1,6.2,Knights,MN van Wyk,RR Hendricks,AJA Gray,1,0,,,,,,"",""
+ball,1,6.3,Knights,RR Hendricks,MN van Wyk,AJA Gray,1,0,,,,,,"",""
+ball,1,6.4,Knights,MN van Wyk,RR Hendricks,AJA Gray,3,0,,,,,,"",""
+ball,1,6.5,Knights,RR Hendricks,MN van Wyk,AJA Gray,1,0,,,,,,"",""
+ball,1,6.6,Knights,MN van Wyk,RR Hendricks,AJA Gray,0,0,,,,,,"",""
+ball,1,7.1,Knights,RR Hendricks,MN van Wyk,GB Hogg,0,0,,,,,,"",""
+ball,1,7.2,Knights,RR Hendricks,MN van Wyk,GB Hogg,0,0,,,,,,"",""
+ball,1,7.3,Knights,RR Hendricks,MN van Wyk,GB Hogg,1,0,,,,,,"",""
+ball,1,7.4,Knights,MN van Wyk,RR Hendricks,GB Hogg,2,0,,,,,,"",""
+ball,1,7.5,Knights,MN van Wyk,RR Hendricks,GB Hogg,1,0,,,,,,"",""
+ball,1,7.6,Knights,RR Hendricks,MN van Wyk,GB Hogg,0,0,,,,,,"",""
+ball,1,8.1,Knights,MN van Wyk,RR Hendricks,AJA Gray,0,0,,,,,,bowled,MN van Wyk
+ball,1,8.2,Knights,RT Bailey,RR Hendricks,AJA Gray,0,0,,,,,,"",""
+ball,1,8.3,Knights,RT Bailey,RR Hendricks,AJA Gray,1,0,,,,,,"",""
+ball,1,8.4,Knights,RR Hendricks,RT Bailey,AJA Gray,0,1,1,,,,,"",""
+ball,1,8.5,Knights,RR Hendricks,RT Bailey,AJA Gray,1,0,,,,,,"",""
+ball,1,8.6,Knights,RT Bailey,RR Hendricks,AJA Gray,1,0,,,,,,"",""
+ball,1,8.7,Knights,RR Hendricks,RT Bailey,AJA Gray,0,0,,,,,,"",""
+ball,1,9.1,Knights,RT Bailey,RR Hendricks,DL Piedt,1,0,,,,,,run out,RT Bailey
+ball,1,9.2,Knights,R McLaren,RR Hendricks,DL Piedt,0,0,,,,,,"",""
+ball,1,9.3,Knights,R McLaren,RR Hendricks,DL Piedt,0,0,,,,,,"",""
+ball,1,9.4,Knights,R McLaren,RR Hendricks,DL Piedt,0,0,,,,,,"",""
+ball,1,9.5,Knights,R McLaren,RR Hendricks,DL Piedt,0,0,,,,,,"",""
+ball,1,9.6,Knights,R McLaren,RR Hendricks,DL Piedt,1,0,,,,,,"",""
+ball,1,10.1,Knights,R McLaren,RR Hendricks,AJA Gray,1,0,,,,,,"",""
+ball,1,10.2,Knights,RR Hendricks,R McLaren,AJA Gray,1,0,,,,,,"",""
+ball,1,10.3,Knights,R McLaren,RR Hendricks,AJA Gray,1,0,,,,,,"",""
+ball,1,10.4,Knights,RR Hendricks,R McLaren,AJA Gray,1,0,,,,,,"",""
+ball,1,10.5,Knights,R McLaren,RR Hendricks,AJA Gray,2,0,,,,,,"",""
+ball,1,10.6,Knights,R McLaren,RR Hendricks,AJA Gray,1,0,,,,,,"",""
+ball,1,11.1,Knights,R McLaren,RR Hendricks,DL Piedt,1,0,,,,,,"",""
+ball,1,11.2,Knights,RR Hendricks,R McLaren,DL Piedt,6,0,,,,,,"",""
+ball,1,11.3,Knights,RR Hendricks,R McLaren,DL Piedt,1,0,,,,,,"",""
+ball,1,11.4,Knights,R McLaren,RR Hendricks,DL Piedt,0,0,,,,,,"",""
+ball,1,11.5,Knights,R McLaren,RR Hendricks,DL Piedt,0,0,,,,,,"",""
+ball,1,11.6,Knights,R McLaren,RR Hendricks,DL Piedt,0,0,,,,,,"",""
+ball,1,12.1,Knights,RR Hendricks,R McLaren,CK Langeveldt,1,0,,,,,,"",""
+ball,1,12.2,Knights,R McLaren,RR Hendricks,CK Langeveldt,0,1,,,,1,,"",""
+ball,1,12.3,Knights,RR Hendricks,R McLaren,CK Langeveldt,1,0,,,,,,"",""
+ball,1,12.4,Knights,R McLaren,RR Hendricks,CK Langeveldt,0,0,,,,,,"",""
+ball,1,12.5,Knights,R McLaren,RR Hendricks,CK Langeveldt,1,0,,,,,,"",""
+ball,1,12.6,Knights,RR Hendricks,R McLaren,CK Langeveldt,1,0,,,,,,"",""
+ball,1,13.1,Knights,RR Hendricks,R McLaren,JM Kemp,1,0,,,,,,"",""
+ball,1,13.2,Knights,R McLaren,RR Hendricks,JM Kemp,1,0,,,,,,"",""
+ball,1,13.3,Knights,RR Hendricks,R McLaren,JM Kemp,0,0,,,,,,"",""
+ball,1,13.4,Knights,RR Hendricks,R McLaren,JM Kemp,1,0,,,,,,"",""
+ball,1,13.5,Knights,R McLaren,RR Hendricks,JM Kemp,2,0,,,,,,"",""
+ball,1,13.6,Knights,R McLaren,RR Hendricks,JM Kemp,2,0,,,,,,"",""
+ball,1,14.1,Knights,RR Hendricks,R McLaren,DL Piedt,1,0,,,,,,"",""
+ball,1,14.2,Knights,R McLaren,RR Hendricks,DL Piedt,1,0,,,,,,"",""
+ball,1,14.3,Knights,RR Hendricks,R McLaren,DL Piedt,1,0,,,,,,"",""
+ball,1,14.4,Knights,R McLaren,RR Hendricks,DL Piedt,0,1,,,,1,,"",""
+ball,1,14.5,Knights,RR Hendricks,R McLaren,DL Piedt,2,0,,,,,,"",""
+ball,1,14.6,Knights,RR Hendricks,R McLaren,DL Piedt,1,0,,,,,,"",""
+ball,1,15.1,Knights,RR Hendricks,R McLaren,JM Kemp,1,0,,,,,,"",""
+ball,1,15.2,Knights,R McLaren,RR Hendricks,JM Kemp,0,0,,,,,,"",""
+ball,1,15.3,Knights,R McLaren,RR Hendricks,JM Kemp,6,0,,,,,,"",""
+ball,1,15.4,Knights,R McLaren,RR Hendricks,JM Kemp,1,0,,,,,,"",""
+ball,1,15.5,Knights,RR Hendricks,R McLaren,JM Kemp,1,0,,,,,,"",""
+ball,1,15.6,Knights,R McLaren,RR Hendricks,JM Kemp,0,0,,,,,,caught,R McLaren
+ball,1,16.1,Knights,WL Coetsee,RR Hendricks,AJA Gray,1,0,,,,,,"",""
+ball,1,16.2,Knights,RR Hendricks,WL Coetsee,AJA Gray,2,0,,,,,,"",""
+ball,1,16.3,Knights,RR Hendricks,WL Coetsee,AJA Gray,4,0,,,,,,"",""
+ball,1,16.4,Knights,RR Hendricks,WL Coetsee,AJA Gray,0,0,,,,,,caught,RR Hendricks
+ball,1,16.5,Knights,WL Coetsee,D du Preez,AJA Gray,1,0,,,,,,"",""
+ball,1,16.6,Knights,D du Preez,WL Coetsee,AJA Gray,2,0,,,,,,"",""
+ball,1,17.1,Knights,WL Coetsee,D du Preez,GB Hogg,0,0,,,,,,"",""
+ball,1,17.2,Knights,WL Coetsee,D du Preez,GB Hogg,1,0,,,,,,"",""
+ball,1,17.3,Knights,D du Preez,WL Coetsee,GB Hogg,0,0,,,,,,"",""
+ball,1,17.4,Knights,D du Preez,WL Coetsee,GB Hogg,1,0,,,,,,"",""
+ball,1,17.5,Knights,WL Coetsee,D du Preez,GB Hogg,0,1,,,,1,,"",""
+ball,1,17.6,Knights,D du Preez,WL Coetsee,GB Hogg,2,0,,,,,,"",""
+ball,1,18.1,Knights,WL Coetsee,D du Preez,CK Langeveldt,6,0,,,,,,"",""
+ball,1,18.2,Knights,WL Coetsee,D du Preez,CK Langeveldt,2,0,,,,,,"",""
+ball,1,18.3,Knights,WL Coetsee,D du Preez,CK Langeveldt,4,0,,,,,,"",""
+ball,1,18.4,Knights,WL Coetsee,D du Preez,CK Langeveldt,1,0,,,,,,"",""
+ball,1,18.5,Knights,D du Preez,WL Coetsee,CK Langeveldt,1,0,,,,,,"",""
+ball,1,18.6,Knights,WL Coetsee,D du Preez,CK Langeveldt,1,0,,,,,,"",""
+ball,1,19.1,Knights,WL Coetsee,D du Preez,GB Hogg,4,0,,,,,,"",""
+ball,1,19.2,Knights,WL Coetsee,D du Preez,GB Hogg,1,0,,,,,,"",""
+ball,1,19.3,Knights,D du Preez,WL Coetsee,GB Hogg,0,0,,,,,,caught,D du Preez
+ball,1,19.4,Knights,WL Coetsee,AR Swanepoel,GB Hogg,1,0,,,,,,"",""
+ball,1,19.5,Knights,AR Swanepoel,WL Coetsee,GB Hogg,0,0,,,,,,"",""
+ball,1,19.6,Knights,AR Swanepoel,WL Coetsee,GB Hogg,3,0,,,,,,"",""
+ball,2,0.1,Cape Cobras,RE Levi,S van Zyl,J Coetzee,1,0,,,,,,"",""
+ball,2,0.2,Cape Cobras,S van Zyl,RE Levi,J Coetzee,1,0,,,,,,"",""
+ball,2,0.3,Cape Cobras,RE Levi,S van Zyl,J Coetzee,6,0,,,,,,"",""
+ball,2,0.4,Cape Cobras,RE Levi,S van Zyl,J Coetzee,1,0,,,,,,"",""
+ball,2,0.5,Cape Cobras,S van Zyl,RE Levi,J Coetzee,2,0,,,,,,"",""
+ball,2,0.6,Cape Cobras,S van Zyl,RE Levi,J Coetzee,4,0,,,,,,"",""
+ball,2,1.1,Cape Cobras,RE Levi,S van Zyl,MP Siboto,4,0,,,,,,"",""
+ball,2,1.2,Cape Cobras,RE Levi,S van Zyl,MP Siboto,0,0,,,,,,"",""
+ball,2,1.3,Cape Cobras,RE Levi,S van Zyl,MP Siboto,1,0,,,,,,"",""
+ball,2,1.4,Cape Cobras,S van Zyl,RE Levi,MP Siboto,0,0,,,,,,"",""
+ball,2,1.5,Cape Cobras,S van Zyl,RE Levi,MP Siboto,1,0,,,,,,"",""
+ball,2,1.6,Cape Cobras,RE Levi,S van Zyl,MP Siboto,0,0,,,,,,"",""
+ball,2,2.1,Cape Cobras,S van Zyl,RE Levi,D du Preez,4,0,,,,,,"",""
+ball,2,2.2,Cape Cobras,S van Zyl,RE Levi,D du Preez,0,0,,,,,,"",""
+ball,2,2.3,Cape Cobras,S van Zyl,RE Levi,D du Preez,0,0,,,,,,"",""
+ball,2,2.4,Cape Cobras,S van Zyl,RE Levi,D du Preez,1,0,,,,,,"",""
+ball,2,2.5,Cape Cobras,RE Levi,S van Zyl,D du Preez,4,0,,,,,,"",""
+ball,2,2.6,Cape Cobras,RE Levi,S van Zyl,D du Preez,1,1,,1,,,,"",""
+ball,2,2.7,Cape Cobras,S van Zyl,RE Levi,D du Preez,1,0,,,,,,"",""
+ball,2,3.1,Cape Cobras,S van Zyl,RE Levi,R McLaren,1,0,,,,,,"",""
+ball,2,3.2,Cape Cobras,RE Levi,S van Zyl,R McLaren,0,0,,,,,,"",""
+ball,2,3.3,Cape Cobras,RE Levi,S van Zyl,R McLaren,0,0,,,,,,"",""
+ball,2,3.4,Cape Cobras,RE Levi,S van Zyl,R McLaren,1,0,,,,,,"",""
+ball,2,3.5,Cape Cobras,S van Zyl,RE Levi,R McLaren,2,0,,,,,,"",""
+ball,2,3.6,Cape Cobras,S van Zyl,RE Levi,R McLaren,1,0,,,,,,"",""
+ball,2,4.1,Cape Cobras,S van Zyl,RE Levi,D du Preez,6,0,,,,,,"",""
+ball,2,4.2,Cape Cobras,S van Zyl,RE Levi,D du Preez,0,0,,,,,,"",""
+ball,2,4.3,Cape Cobras,S van Zyl,RE Levi,D du Preez,0,0,,,,,,"",""
+ball,2,4.4,Cape Cobras,S van Zyl,RE Levi,D du Preez,4,0,,,,,,"",""
+ball,2,4.5,Cape Cobras,S van Zyl,RE Levi,D du Preez,0,0,,,,,,caught,S van Zyl
+ball,2,4.6,Cape Cobras,RE Levi,HH Gibbs,D du Preez,0,0,,,,,,"",""
+ball,2,5.1,Cape Cobras,HH Gibbs,RE Levi,R McLaren,1,0,,,,,,"",""
+ball,2,5.2,Cape Cobras,RE Levi,HH Gibbs,R McLaren,0,1,1,,,,,"",""
+ball,2,5.3,Cape Cobras,RE Levi,HH Gibbs,R McLaren,4,0,,,,,,"",""
+ball,2,5.4,Cape Cobras,RE Levi,HH Gibbs,R McLaren,4,0,,,,,,"",""
+ball,2,5.5,Cape Cobras,RE Levi,HH Gibbs,R McLaren,0,0,,,,,,"",""
+ball,2,5.6,Cape Cobras,RE Levi,HH Gibbs,R McLaren,1,0,,,,,,"",""
+ball,2,5.7,Cape Cobras,HH Gibbs,RE Levi,R McLaren,1,0,,,,,,"",""
+ball,2,6.1,Cape Cobras,HH Gibbs,RE Levi,AR Swanepoel,1,0,,,,,,"",""
+ball,2,6.2,Cape Cobras,RE Levi,HH Gibbs,AR Swanepoel,1,0,,,,,,"",""
+ball,2,6.3,Cape Cobras,HH Gibbs,RE Levi,AR Swanepoel,1,0,,,,,,"",""
+ball,2,6.4,Cape Cobras,RE Levi,HH Gibbs,AR Swanepoel,0,0,,,,,,"",""
+ball,2,6.5,Cape Cobras,RE Levi,HH Gibbs,AR Swanepoel,2,0,,,,,,"",""
+ball,2,6.6,Cape Cobras,RE Levi,HH Gibbs,AR Swanepoel,6,0,,,,,,"",""
+ball,2,7.1,Cape Cobras,HH Gibbs,RE Levi,WL Coetsee,0,0,,,,,,caught,HH Gibbs
+ball,2,7.2,Cape Cobras,RE Levi,OA Shah,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.3,Cape Cobras,OA Shah,RE Levi,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.4,Cape Cobras,RE Levi,OA Shah,WL Coetsee,0,0,,,,,,"",""
+ball,2,7.5,Cape Cobras,RE Levi,OA Shah,WL Coetsee,1,0,,,,,,"",""
+ball,2,7.6,Cape Cobras,OA Shah,RE Levi,WL Coetsee,0,0,,,,,,"",""
+ball,2,8.1,Cape Cobras,RE Levi,OA Shah,MP Siboto,1,0,,,,,,"",""
+ball,2,8.2,Cape Cobras,OA Shah,RE Levi,MP Siboto,0,0,,,,,,"",""
+ball,2,8.3,Cape Cobras,OA Shah,RE Levi,MP Siboto,1,0,,,,,,"",""
+ball,2,8.4,Cape Cobras,RE Levi,OA Shah,MP Siboto,2,0,,,,,,"",""
+ball,2,8.5,Cape Cobras,RE Levi,OA Shah,MP Siboto,1,0,,,,,,"",""
+ball,2,8.6,Cape Cobras,OA Shah,RE Levi,MP Siboto,0,0,,,,,,"",""
+ball,2,9.1,Cape Cobras,RE Levi,OA Shah,WL Coetsee,6,0,,,,,,"",""
+ball,2,9.2,Cape Cobras,RE Levi,OA Shah,WL Coetsee,2,0,,,,,,"",""
+ball,2,9.3,Cape Cobras,RE Levi,OA Shah,WL Coetsee,4,0,,,,,,"",""
+ball,2,9.4,Cape Cobras,RE Levi,OA Shah,WL Coetsee,6,0,,,,,,"",""
+ball,2,9.5,Cape Cobras,RE Levi,OA Shah,WL Coetsee,0,0,,,,,,caught,RE Levi
+ball,2,9.6,Cape Cobras,DJ Vilas,OA Shah,WL Coetsee,0,0,,,,,,"",""
+ball,2,10.1,Cape Cobras,OA Shah,DJ Vilas,AR Swanepoel,0,0,,,,,,"",""
+ball,2,10.2,Cape Cobras,OA Shah,DJ Vilas,AR Swanepoel,1,0,,,,,,"",""
+ball,2,10.3,Cape Cobras,DJ Vilas,OA Shah,AR Swanepoel,0,0,,,,,,"",""
+ball,2,10.4,Cape Cobras,DJ Vilas,OA Shah,AR Swanepoel,2,0,,,,,,"",""
+ball,2,10.5,Cape Cobras,DJ Vilas,OA Shah,AR Swanepoel,1,0,,,,,,"",""
+ball,2,10.6,Cape Cobras,OA Shah,DJ Vilas,AR Swanepoel,1,0,,,,,,"",""
+ball,2,11.1,Cape Cobras,OA Shah,DJ Vilas,R McLaren,0,0,,,,,,"",""
+ball,2,11.2,Cape Cobras,OA Shah,DJ Vilas,R McLaren,0,0,,,,,,caught,OA Shah
+ball,2,11.3,Cape Cobras,DJ Vilas,JM Kemp,R McLaren,0,0,,,,,,"",""
+ball,2,11.4,Cape Cobras,DJ Vilas,JM Kemp,R McLaren,0,1,1,,,,,"",""
+ball,2,11.5,Cape Cobras,DJ Vilas,JM Kemp,R McLaren,1,0,,,,,,"",""
+ball,2,11.6,Cape Cobras,JM Kemp,DJ Vilas,R McLaren,1,0,,,,,,"",""
+ball,2,11.7,Cape Cobras,DJ Vilas,JM Kemp,R McLaren,1,0,,,,,,"",""
+ball,2,12.1,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,1,0,,,,,,"",""
+ball,2,12.2,Cape Cobras,JM Kemp,DJ Vilas,J Coetzee,0,0,,,,,,"",""
+ball,2,12.3,Cape Cobras,JM Kemp,DJ Vilas,J Coetzee,1,0,,,,,,"",""
+ball,2,12.4,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,0,0,,,,,,"",""
+ball,2,12.5,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,0,0,,,,,,"",""
+ball,2,12.6,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,0,0,,,,,,"",""
+ball,2,13.1,Cape Cobras,JM Kemp,DJ Vilas,D du Preez,0,0,,,,,,"",""
+ball,2,13.2,Cape Cobras,JM Kemp,DJ Vilas,D du Preez,2,0,,,,,,"",""
+ball,2,13.3,Cape Cobras,JM Kemp,DJ Vilas,D du Preez,0,0,,,,,,"",""
+ball,2,13.4,Cape Cobras,JM Kemp,DJ Vilas,D du Preez,0,0,,,,,,"",""
+ball,2,13.5,Cape Cobras,JM Kemp,DJ Vilas,D du Preez,0,0,,,,,,"",""
+ball,2,13.6,Cape Cobras,JM Kemp,DJ Vilas,D du Preez,0,0,,,,,,"",""
+ball,2,14.1,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,1,0,,,,,,"",""
+ball,2,14.2,Cape Cobras,JM Kemp,DJ Vilas,J Coetzee,1,0,,,,,,"",""
+ball,2,14.3,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,2,0,,,,,,"",""
+ball,2,14.4,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,0,0,,,,,,"",""
+ball,2,14.5,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,1,0,,,,,,"",""
+ball,2,14.6,Cape Cobras,JM Kemp,DJ Vilas,J Coetzee,0,0,,,,,,"",""
+ball,2,15.1,Cape Cobras,DJ Vilas,JM Kemp,MP Siboto,0,0,,,,,,"",""
+ball,2,15.2,Cape Cobras,DJ Vilas,JM Kemp,MP Siboto,1,0,,,,,,"",""
+ball,2,15.3,Cape Cobras,JM Kemp,DJ Vilas,MP Siboto,1,0,,,,,,"",""
+ball,2,15.4,Cape Cobras,DJ Vilas,JM Kemp,MP Siboto,1,0,,,,,,"",""
+ball,2,15.5,Cape Cobras,JM Kemp,DJ Vilas,MP Siboto,1,0,,,,,,"",""
+ball,2,15.6,Cape Cobras,DJ Vilas,JM Kemp,MP Siboto,1,0,,,,,,"",""
+ball,2,16.1,Cape Cobras,DJ Vilas,JM Kemp,AR Swanepoel,6,0,,,,,,"",""
+ball,2,16.2,Cape Cobras,DJ Vilas,JM Kemp,AR Swanepoel,6,0,,,,,,"",""
+ball,2,16.3,Cape Cobras,DJ Vilas,JM Kemp,AR Swanepoel,4,0,,,,,,"",""
+ball,2,16.4,Cape Cobras,DJ Vilas,JM Kemp,AR Swanepoel,1,0,,,,,,"",""
+ball,2,16.5,Cape Cobras,JM Kemp,DJ Vilas,AR Swanepoel,6,0,,,,,,"",""
+ball,2,16.6,Cape Cobras,JM Kemp,DJ Vilas,AR Swanepoel,2,0,,,,,,"",""
+ball,2,17.1,Cape Cobras,DJ Vilas,JM Kemp,D du Preez,1,0,,,,,,"",""
+ball,2,17.2,Cape Cobras,JM Kemp,DJ Vilas,D du Preez,1,0,,,,,,"",""
+ball,2,17.3,Cape Cobras,DJ Vilas,JM Kemp,D du Preez,1,0,,,,,,"",""
+ball,2,17.4,Cape Cobras,JM Kemp,DJ Vilas,D du Preez,4,0,,,,,,"",""
+ball,2,17.5,Cape Cobras,JM Kemp,DJ Vilas,D du Preez,1,0,,,,,,"",""
+ball,2,17.6,Cape Cobras,DJ Vilas,JM Kemp,D du Preez,1,0,,,,,,"",""
+ball,2,18.1,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,0,1,1,,,,,"",""
+ball,2,18.2,Cape Cobras,DJ Vilas,JM Kemp,J Coetzee,1,0,,,,,,"",""
+ball,2,18.3,Cape Cobras,JM Kemp,DJ Vilas,J Coetzee,0,0,,,,,,"",""
+ball,2,18.4,Cape Cobras,JM Kemp,DJ Vilas,J Coetzee,0,0,,,,,,"",""
+ball,2,18.5,Cape Cobras,JM Kemp,DJ Vilas,J Coetzee,1,0,,,,,,"",""

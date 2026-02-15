@@ -1,0 +1,202 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,Central Sparks
+info,gender,female
+info,season,2024
+info,date,2024/05/27
+info,event,Charlotte Edwards Cup
+info,match_number,12
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Central Sparks
+info,toss_decision,field
+info,umpire,A Clark
+info,umpire,S Widdup
+info,match_referee,Phil Whitticase
+info,winner,Central Sparks
+info,winner_wickets,3
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,EA Burns
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,K Fraser
+info,player,Northern Diamonds,GE Hall
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,R Slater
+info,player,Central Sparks,C Brewer
+info,player,Central Sparks,AJ Freeborn
+info,player,Central Sparks,D Perrin
+info,player,Central Sparks,E Jones
+info,player,Central Sparks,C Webb
+info,player,Central Sparks,KL George
+info,player,Central Sparks,C Pavely
+info,player,Central Sparks,EL Arlott
+info,player,Central Sparks,GK Davis
+info,player,Central Sparks,G Potts
+info,player,Central Sparks,HL Baker
+info,registry,people,A Clark,8c73cd16
+info,registry,people,AJ Freeborn,c6da6ebf
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,C Brewer,baf11c9a
+info,registry,people,C Pavely,907e5f6c
+info,registry,people,C Webb,1f4a8a2a
+info,registry,people,D Perrin,bfa0fa33
+info,registry,people,E Jones,971cb321
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EK Marlow,ac574559
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,G Potts,e3a93585
+info,registry,people,GE Hall,026135b1
+info,registry,people,GK Davis,54719239
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,HL Baker,cefad9fd
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KL George,e69dbbef
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Slater,8a452195
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SL Kalis,2b150c6b
+ball,1,0.1,Northern Diamonds,L Winfield-Hill,L Dobson,EL Arlott,0,0,,,,,,"",""
+ball,1,0.2,Northern Diamonds,L Winfield-Hill,L Dobson,EL Arlott,0,1,1,,,,,"",""
+ball,1,0.3,Northern Diamonds,L Winfield-Hill,L Dobson,EL Arlott,0,0,,,,,,"",""
+ball,1,0.4,Northern Diamonds,L Winfield-Hill,L Dobson,EL Arlott,1,0,,,,,,"",""
+ball,1,0.5,Northern Diamonds,L Dobson,L Winfield-Hill,EL Arlott,0,0,,,,,,"",""
+ball,1,0.6,Northern Diamonds,L Dobson,L Winfield-Hill,EL Arlott,0,0,,,,,,caught,L Dobson
+ball,1,0.7,Northern Diamonds,HJ Armitage,L Winfield-Hill,EL Arlott,0,0,,,,,,"",""
+ball,1,1.1,Northern Diamonds,L Winfield-Hill,HJ Armitage,G Potts,0,0,,,,,,"",""
+ball,1,1.2,Northern Diamonds,L Winfield-Hill,HJ Armitage,G Potts,4,0,,,,,,"",""
+ball,1,1.3,Northern Diamonds,L Winfield-Hill,HJ Armitage,G Potts,0,0,,,,,,caught,L Winfield-Hill
+ball,1,1.4,Northern Diamonds,EA Burns,HJ Armitage,G Potts,0,0,,,,,,"",""
+ball,1,1.5,Northern Diamonds,EA Burns,HJ Armitage,G Potts,4,0,,,,,,"",""
+ball,1,1.6,Northern Diamonds,EA Burns,HJ Armitage,G Potts,4,0,,,,,,"",""
+ball,1,2.1,Northern Diamonds,HJ Armitage,EA Burns,EL Arlott,0,0,,,,,,"",""
+ball,1,2.2,Northern Diamonds,HJ Armitage,EA Burns,EL Arlott,0,0,,,,,,caught,HJ Armitage
+ball,1,2.3,Northern Diamonds,BAM Heath,EA Burns,EL Arlott,2,0,,,,,,"",""
+ball,1,2.4,Northern Diamonds,BAM Heath,EA Burns,EL Arlott,1,0,,,,,,"",""
+ball,1,2.5,Northern Diamonds,EA Burns,BAM Heath,EL Arlott,4,0,,,,,,"",""
+ball,1,2.6,Northern Diamonds,EA Burns,BAM Heath,EL Arlott,1,0,,,,,,"",""
+ball,1,3.1,Northern Diamonds,EA Burns,BAM Heath,KL George,1,0,,,,,,"",""
+ball,1,3.2,Northern Diamonds,BAM Heath,EA Burns,KL George,0,0,,,,,,"",""
+ball,1,3.3,Northern Diamonds,BAM Heath,EA Burns,KL George,0,0,,,,,,bowled,BAM Heath
+ball,1,3.4,Northern Diamonds,SL Kalis,EA Burns,KL George,0,0,,,,,,"",""
+ball,1,3.5,Northern Diamonds,SL Kalis,EA Burns,KL George,0,0,,,,,,"",""
+ball,1,3.6,Northern Diamonds,SL Kalis,EA Burns,KL George,1,0,,,,,,"",""
+ball,1,4.1,Northern Diamonds,SL Kalis,EA Burns,HL Baker,1,0,,,,,,"",""
+ball,1,4.2,Northern Diamonds,EA Burns,SL Kalis,HL Baker,1,0,,,,,,"",""
+ball,1,4.3,Northern Diamonds,SL Kalis,EA Burns,HL Baker,2,0,,,,,,"",""
+ball,1,4.4,Northern Diamonds,SL Kalis,EA Burns,HL Baker,0,0,,,,,,"",""
+ball,1,4.5,Northern Diamonds,SL Kalis,EA Burns,HL Baker,4,0,,,,,,"",""
+ball,1,4.6,Northern Diamonds,SL Kalis,EA Burns,HL Baker,0,0,,,,,,"",""
+ball,1,5.1,Northern Diamonds,EA Burns,SL Kalis,KL George,2,0,,,,,,"",""
+ball,1,5.2,Northern Diamonds,EA Burns,SL Kalis,KL George,1,0,,,,,,"",""
+ball,1,5.3,Northern Diamonds,SL Kalis,EA Burns,KL George,2,0,,,,,,"",""
+ball,1,5.4,Northern Diamonds,SL Kalis,EA Burns,KL George,2,0,,,,,,"",""
+ball,1,5.5,Northern Diamonds,SL Kalis,EA Burns,KL George,4,0,,,,,,"",""
+ball,1,5.6,Northern Diamonds,SL Kalis,EA Burns,KL George,1,0,,,,,,"",""
+ball,1,6.1,Northern Diamonds,SL Kalis,EA Burns,GK Davis,0,0,,,,,,"",""
+ball,1,6.2,Northern Diamonds,SL Kalis,EA Burns,GK Davis,0,0,,,,,,stumped,SL Kalis
+ball,1,6.3,Northern Diamonds,EK Marlow,EA Burns,GK Davis,1,0,,,,,,"",""
+ball,1,6.4,Northern Diamonds,EA Burns,EK Marlow,GK Davis,0,0,,,,,,"",""
+ball,1,6.5,Northern Diamonds,EA Burns,EK Marlow,GK Davis,1,0,,,,,,"",""
+ball,1,6.6,Northern Diamonds,EK Marlow,EA Burns,GK Davis,0,1,1,,,,,"",""
+ball,1,6.7,Northern Diamonds,EK Marlow,EA Burns,GK Davis,1,0,,,,,,"",""
+ball,1,7.1,Northern Diamonds,EK Marlow,EA Burns,HL Baker,0,0,,,,,,"",""
+ball,1,7.2,Northern Diamonds,EK Marlow,EA Burns,HL Baker,4,0,,,,,,"",""
+ball,1,7.3,Northern Diamonds,EK Marlow,EA Burns,HL Baker,0,0,,,,,,"",""
+ball,1,7.4,Northern Diamonds,EK Marlow,EA Burns,HL Baker,1,0,,,,,,"",""
+ball,1,7.5,Northern Diamonds,EA Burns,EK Marlow,HL Baker,4,0,,,,,,"",""
+ball,1,7.6,Northern Diamonds,EA Burns,EK Marlow,HL Baker,1,0,,,,,,"",""
+ball,1,8.1,Northern Diamonds,EA Burns,EK Marlow,GK Davis,0,0,,,,,,"",""
+ball,1,8.2,Northern Diamonds,EA Burns,EK Marlow,GK Davis,1,0,,,,,,"",""
+ball,1,8.3,Northern Diamonds,EK Marlow,EA Burns,GK Davis,0,0,,,,,,bowled,EK Marlow
+ball,1,8.4,Northern Diamonds,K Fraser,EA Burns,GK Davis,0,1,1,,,,,"",""
+ball,1,8.5,Northern Diamonds,K Fraser,EA Burns,GK Davis,1,0,,,,,,"",""
+ball,1,8.6,Northern Diamonds,EA Burns,K Fraser,GK Davis,4,0,,,,,,"",""
+ball,1,8.7,Northern Diamonds,EA Burns,K Fraser,GK Davis,1,0,,,,,,"",""
+ball,1,9.1,Northern Diamonds,EA Burns,K Fraser,G Potts,0,0,,,,,,caught,EA Burns
+ball,1,9.2,Northern Diamonds,GE Hall,K Fraser,G Potts,1,0,,,,,,"",""
+ball,1,9.3,Northern Diamonds,K Fraser,GE Hall,G Potts,1,0,,,,,,"",""
+ball,1,9.4,Northern Diamonds,GE Hall,K Fraser,G Potts,0,0,,,,,,bowled,GE Hall
+ball,1,9.5,Northern Diamonds,KA Levick,K Fraser,G Potts,0,0,,,,,,"",""
+ball,1,9.6,Northern Diamonds,KA Levick,K Fraser,G Potts,1,0,,,,,,"",""
+ball,1,10.1,Northern Diamonds,KA Levick,K Fraser,GK Davis,0,0,,,,,,caught,KA Levick
+ball,1,10.2,Northern Diamonds,R Slater,K Fraser,GK Davis,0,0,,,,,,"",""
+ball,1,10.3,Northern Diamonds,R Slater,K Fraser,GK Davis,1,0,,,,,,"",""
+ball,1,10.4,Northern Diamonds,K Fraser,R Slater,GK Davis,0,0,,,,,,"",""
+ball,1,10.5,Northern Diamonds,K Fraser,R Slater,GK Davis,4,0,,,,,,"",""
+ball,1,10.6,Northern Diamonds,K Fraser,R Slater,GK Davis,6,0,,,,,,"",""
+ball,2,0.1,Central Sparks,C Brewer,AJ Freeborn,EA Burns,1,0,,,,,,"",""
+ball,2,0.2,Central Sparks,AJ Freeborn,C Brewer,EA Burns,0,0,,,,,,"",""
+ball,2,0.3,Central Sparks,AJ Freeborn,C Brewer,EA Burns,4,0,,,,,,"",""
+ball,2,0.4,Central Sparks,AJ Freeborn,C Brewer,EA Burns,1,0,,,,,,"",""
+ball,2,0.5,Central Sparks,C Brewer,AJ Freeborn,EA Burns,0,0,,,,,,"",""
+ball,2,0.6,Central Sparks,C Brewer,AJ Freeborn,EA Burns,1,0,,,,,,"",""
+ball,2,1.1,Central Sparks,C Brewer,AJ Freeborn,R Slater,4,0,,,,,,"",""
+ball,2,1.2,Central Sparks,C Brewer,AJ Freeborn,R Slater,0,0,,,,,,"",""
+ball,2,1.3,Central Sparks,C Brewer,AJ Freeborn,R Slater,0,0,,,,,,"",""
+ball,2,1.4,Central Sparks,C Brewer,AJ Freeborn,R Slater,3,0,,,,,,"",""
+ball,2,1.5,Central Sparks,AJ Freeborn,C Brewer,R Slater,1,0,,,,,,"",""
+ball,2,1.6,Central Sparks,C Brewer,AJ Freeborn,R Slater,1,0,,,,,,"",""
+ball,2,2.1,Central Sparks,C Brewer,AJ Freeborn,KA Levick,0,0,,,,,,"",""
+ball,2,2.2,Central Sparks,C Brewer,AJ Freeborn,KA Levick,4,0,,,,,,"",""
+ball,2,2.3,Central Sparks,C Brewer,AJ Freeborn,KA Levick,0,0,,,,,,"",""
+ball,2,2.4,Central Sparks,C Brewer,AJ Freeborn,KA Levick,0,0,,,,,,lbw,C Brewer
+ball,2,2.5,Central Sparks,D Perrin,AJ Freeborn,KA Levick,4,0,,,,,,"",""
+ball,2,2.6,Central Sparks,D Perrin,AJ Freeborn,KA Levick,1,0,,,,,,"",""
+ball,2,3.1,Central Sparks,D Perrin,AJ Freeborn,R Slater,0,0,,,,,,bowled,D Perrin
+ball,2,3.2,Central Sparks,E Jones,AJ Freeborn,R Slater,0,0,,,,,,"",""
+ball,2,3.3,Central Sparks,E Jones,AJ Freeborn,R Slater,1,0,,,,,,"",""
+ball,2,3.4,Central Sparks,AJ Freeborn,E Jones,R Slater,0,0,,,,,,stumped,AJ Freeborn
+ball,2,3.5,Central Sparks,C Webb,E Jones,R Slater,0,0,,,,,,"",""
+ball,2,3.6,Central Sparks,C Webb,E Jones,R Slater,0,0,,,,,,"",""
+ball,2,4.1,Central Sparks,E Jones,C Webb,K Fraser,1,0,,,,,,"",""
+ball,2,4.2,Central Sparks,C Webb,E Jones,K Fraser,1,0,,,,,,"",""
+ball,2,4.3,Central Sparks,E Jones,C Webb,K Fraser,1,0,,,,,,"",""
+ball,2,4.4,Central Sparks,C Webb,E Jones,K Fraser,0,0,,,,,,"",""
+ball,2,4.5,Central Sparks,C Webb,E Jones,K Fraser,1,0,,,,,,"",""
+ball,2,4.6,Central Sparks,E Jones,C Webb,K Fraser,0,0,,,,,,"",""
+ball,2,5.1,Central Sparks,C Webb,E Jones,EA Burns,0,0,,,,,,caught,C Webb
+ball,2,5.2,Central Sparks,KL George,E Jones,EA Burns,4,0,,,,,,"",""
+ball,2,5.3,Central Sparks,KL George,E Jones,EA Burns,4,0,,,,,,"",""
+ball,2,5.4,Central Sparks,KL George,E Jones,EA Burns,0,1,,,,1,,"",""
+ball,2,5.5,Central Sparks,E Jones,KL George,EA Burns,1,0,,,,,,"",""
+ball,2,5.6,Central Sparks,KL George,E Jones,EA Burns,0,0,,,,,,"",""
+ball,2,6.1,Central Sparks,E Jones,KL George,GE Hall,0,1,1,,,,,"",""
+ball,2,6.2,Central Sparks,E Jones,KL George,GE Hall,1,0,,,,,,"",""
+ball,2,6.3,Central Sparks,KL George,E Jones,GE Hall,0,0,,,,,,"",""
+ball,2,6.4,Central Sparks,KL George,E Jones,GE Hall,1,0,,,,,,"",""
+ball,2,6.5,Central Sparks,E Jones,KL George,GE Hall,1,0,,,,,,"",""
+ball,2,6.6,Central Sparks,KL George,E Jones,GE Hall,0,0,,,,,,"",""
+ball,2,6.7,Central Sparks,KL George,E Jones,GE Hall,0,0,,,,,,caught,KL George
+ball,2,7.1,Central Sparks,E Jones,C Pavely,K Fraser,3,0,,,,,,"",""
+ball,2,7.2,Central Sparks,C Pavely,E Jones,K Fraser,1,0,,,,,,"",""
+ball,2,7.3,Central Sparks,E Jones,C Pavely,K Fraser,0,1,1,,,,,"",""
+ball,2,7.4,Central Sparks,E Jones,C Pavely,K Fraser,1,0,,,,,,"",""
+ball,2,7.5,Central Sparks,C Pavely,E Jones,K Fraser,2,0,,,,,,"",""
+ball,2,7.6,Central Sparks,C Pavely,E Jones,K Fraser,0,0,,,,,,"",""
+ball,2,7.7,Central Sparks,C Pavely,E Jones,K Fraser,1,0,,,,,,"",""
+ball,2,8.1,Central Sparks,C Pavely,E Jones,GE Hall,1,0,,,,,,"",""
+ball,2,8.2,Central Sparks,E Jones,C Pavely,GE Hall,4,0,,,,,,"",""
+ball,2,8.3,Central Sparks,E Jones,C Pavely,GE Hall,4,0,,,,,,"",""
+ball,2,8.4,Central Sparks,E Jones,C Pavely,GE Hall,0,0,,,,,,"",""
+ball,2,8.5,Central Sparks,E Jones,C Pavely,GE Hall,4,0,,,,,,"",""
+ball,2,8.6,Central Sparks,E Jones,C Pavely,GE Hall,0,0,,,,,,"",""
+ball,2,9.1,Central Sparks,C Pavely,E Jones,EA Burns,0,4,,,4,,,"",""
+ball,2,9.2,Central Sparks,C Pavely,E Jones,EA Burns,0,0,,,,,,caught and bowled,C Pavely
+ball,2,9.3,Central Sparks,EL Arlott,E Jones,EA Burns,4,0,,,,,,"",""
+ball,2,9.4,Central Sparks,EL Arlott,E Jones,EA Burns,0,0,,,,,,"",""
+ball,2,9.5,Central Sparks,EL Arlott,E Jones,EA Burns,1,0,,,,,,"",""
+ball,2,9.6,Central Sparks,E Jones,EL Arlott,EA Burns,1,0,,,,,,"",""
+ball,2,10.1,Central Sparks,E Jones,EL Arlott,KA Levick,2,0,,,,,,"",""
+ball,2,10.2,Central Sparks,E Jones,EL Arlott,KA Levick,1,0,,,,,,"",""
+ball,2,10.3,Central Sparks,EL Arlott,E Jones,KA Levick,0,0,,,,,,caught,EL Arlott
+ball,2,10.4,Central Sparks,GK Davis,E Jones,KA Levick,0,0,,,,,,"",""
+ball,2,10.5,Central Sparks,GK Davis,E Jones,KA Levick,0,0,,,,,,"",""
+ball,2,10.6,Central Sparks,GK Davis,E Jones,KA Levick,2,0,,,,,,"",""

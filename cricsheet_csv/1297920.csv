@@ -1,0 +1,310 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Surrey
+info,gender,male
+info,season,2022
+info,date,2022/07/06
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Surrey
+info,toss_decision,field
+info,player_of_match,T Kohler-Cadmore
+info,umpire,RK Illingworth
+info,umpire,RJ Warren
+info,tv_umpire,NJ Llong
+info,match_referee,SG Hinks
+info,winner,Yorkshire
+info,winner_runs,1
+info,player,Yorkshire,FH Allen
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,T Kohler-Cadmore
+info,player,Yorkshire,DJ Willey
+info,player,Yorkshire,Shadab Khan
+info,player,Yorkshire,WAR Fraine
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,GCH Hill
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DM Bess
+info,player,Surrey,WG Jacks
+info,player,Surrey,RJ Burns
+info,player,Surrey,TK Curran
+info,player,Surrey,OJ Pope
+info,player,Surrey,LJ Evans
+info,player,Surrey,AM Hardie
+info,player,Surrey,J Overton
+info,player,Surrey,SP Narine
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,DJ Worrall
+info,player,Surrey,D Moriarty
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DJ Willey,7f048519
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DM Bess,ad46c747
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GCH Hill,214f6461
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,ML Revis,28217d89
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TK Curran,e86754b2
+info,registry,people,WAR Fraine,e3bc992b
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Yorkshire,FH Allen,A Lyth,WG Jacks,0,0,,,,,,"",""
+ball,1,0.2,Yorkshire,FH Allen,A Lyth,WG Jacks,1,0,,,,,,"",""
+ball,1,0.3,Yorkshire,A Lyth,FH Allen,WG Jacks,0,0,,,,,,caught,A Lyth
+ball,1,0.4,Yorkshire,T Kohler-Cadmore,FH Allen,WG Jacks,1,0,,,,,,"",""
+ball,1,0.5,Yorkshire,FH Allen,T Kohler-Cadmore,WG Jacks,1,0,,,,,,"",""
+ball,1,0.6,Yorkshire,T Kohler-Cadmore,FH Allen,WG Jacks,4,0,,,,,,"",""
+ball,1,1.1,Yorkshire,FH Allen,T Kohler-Cadmore,DJ Worrall,1,0,,,,,,"",""
+ball,1,1.2,Yorkshire,T Kohler-Cadmore,FH Allen,DJ Worrall,1,0,,,,,,"",""
+ball,1,1.3,Yorkshire,FH Allen,T Kohler-Cadmore,DJ Worrall,0,0,,,,,,caught,FH Allen
+ball,1,1.4,Yorkshire,DJ Willey,T Kohler-Cadmore,DJ Worrall,1,0,,,,,,"",""
+ball,1,1.5,Yorkshire,T Kohler-Cadmore,DJ Willey,DJ Worrall,1,0,,,,,,"",""
+ball,1,1.6,Yorkshire,DJ Willey,T Kohler-Cadmore,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.1,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,0,0,,,,,,"",""
+ball,1,2.2,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,0,0,,,,,,"",""
+ball,1,2.3,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,4,0,,,,,,"",""
+ball,1,2.4,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,1,0,,,,,,"",""
+ball,1,2.5,Yorkshire,DJ Willey,T Kohler-Cadmore,WG Jacks,0,0,,,,,,"",""
+ball,1,2.6,Yorkshire,DJ Willey,T Kohler-Cadmore,WG Jacks,0,0,,,,,,"",""
+ball,1,3.1,Yorkshire,T Kohler-Cadmore,DJ Willey,AAP Atkinson,1,2,,2,,,,"",""
+ball,1,3.2,Yorkshire,DJ Willey,T Kohler-Cadmore,AAP Atkinson,0,0,,,,,,"",""
+ball,1,3.3,Yorkshire,DJ Willey,T Kohler-Cadmore,AAP Atkinson,1,0,,,,,,"",""
+ball,1,3.4,Yorkshire,T Kohler-Cadmore,DJ Willey,AAP Atkinson,3,0,,,,,,"",""
+ball,1,3.5,Yorkshire,DJ Willey,T Kohler-Cadmore,AAP Atkinson,0,0,,,,,,"",""
+ball,1,3.6,Yorkshire,DJ Willey,T Kohler-Cadmore,AAP Atkinson,1,0,,,,,,"",""
+ball,1,3.7,Yorkshire,T Kohler-Cadmore,DJ Willey,AAP Atkinson,1,0,,,,,,"",""
+ball,1,4.1,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,0,0,,,,,,"",""
+ball,1,4.2,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,0,0,,,,,,"",""
+ball,1,4.3,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,1,0,,,,,,"",""
+ball,1,4.4,Yorkshire,DJ Willey,T Kohler-Cadmore,WG Jacks,0,0,,,,,,"",""
+ball,1,4.5,Yorkshire,DJ Willey,T Kohler-Cadmore,WG Jacks,1,0,,,,,,"",""
+ball,1,4.6,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,1,0,,,,,,"",""
+ball,1,5.1,Yorkshire,T Kohler-Cadmore,DJ Willey,AAP Atkinson,0,0,,,,,,"",""
+ball,1,5.2,Yorkshire,T Kohler-Cadmore,DJ Willey,AAP Atkinson,1,0,,,,,,"",""
+ball,1,5.3,Yorkshire,DJ Willey,T Kohler-Cadmore,AAP Atkinson,1,0,,,,,,"",""
+ball,1,5.4,Yorkshire,T Kohler-Cadmore,DJ Willey,AAP Atkinson,1,0,,,,,,"",""
+ball,1,5.5,Yorkshire,DJ Willey,T Kohler-Cadmore,AAP Atkinson,0,4,,,4,,,"",""
+ball,1,5.6,Yorkshire,DJ Willey,T Kohler-Cadmore,AAP Atkinson,0,0,,,,,,"",""
+ball,1,6.1,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,1,0,,,,,,"",""
+ball,1,6.2,Yorkshire,DJ Willey,T Kohler-Cadmore,WG Jacks,1,0,,,,,,"",""
+ball,1,6.3,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,1,0,,,,,,"",""
+ball,1,6.4,Yorkshire,DJ Willey,T Kohler-Cadmore,WG Jacks,0,0,,,,,,"",""
+ball,1,6.5,Yorkshire,DJ Willey,T Kohler-Cadmore,WG Jacks,1,0,,,,,,"",""
+ball,1,6.6,Yorkshire,T Kohler-Cadmore,DJ Willey,WG Jacks,1,0,,,,,,"",""
+ball,1,7.1,Yorkshire,T Kohler-Cadmore,DJ Willey,D Moriarty,4,0,,,,,,"",""
+ball,1,7.2,Yorkshire,T Kohler-Cadmore,DJ Willey,D Moriarty,0,0,,,,,,"",""
+ball,1,7.3,Yorkshire,T Kohler-Cadmore,DJ Willey,D Moriarty,1,0,,,,,,"",""
+ball,1,7.4,Yorkshire,DJ Willey,T Kohler-Cadmore,D Moriarty,1,0,,,,,,"",""
+ball,1,7.5,Yorkshire,T Kohler-Cadmore,DJ Willey,D Moriarty,1,0,,,,,,"",""
+ball,1,7.6,Yorkshire,DJ Willey,T Kohler-Cadmore,D Moriarty,1,0,,,,,,"",""
+ball,1,8.1,Yorkshire,DJ Willey,T Kohler-Cadmore,AM Hardie,4,0,,,,,,"",""
+ball,1,8.2,Yorkshire,DJ Willey,T Kohler-Cadmore,AM Hardie,0,1,,,,1,,"",""
+ball,1,8.3,Yorkshire,T Kohler-Cadmore,DJ Willey,AM Hardie,0,0,,,,,,"",""
+ball,1,8.4,Yorkshire,T Kohler-Cadmore,DJ Willey,AM Hardie,1,0,,,,,,"",""
+ball,1,8.5,Yorkshire,DJ Willey,T Kohler-Cadmore,AM Hardie,1,0,,,,,,"",""
+ball,1,8.6,Yorkshire,T Kohler-Cadmore,DJ Willey,AM Hardie,1,0,,,,,,"",""
+ball,1,9.1,Yorkshire,T Kohler-Cadmore,DJ Willey,D Moriarty,1,0,,,,,,"",""
+ball,1,9.2,Yorkshire,DJ Willey,T Kohler-Cadmore,D Moriarty,0,0,,,,,,"",""
+ball,1,9.3,Yorkshire,DJ Willey,T Kohler-Cadmore,D Moriarty,0,0,,,,,,"",""
+ball,1,9.4,Yorkshire,DJ Willey,T Kohler-Cadmore,D Moriarty,0,0,,,,,,"",""
+ball,1,9.5,Yorkshire,DJ Willey,T Kohler-Cadmore,D Moriarty,1,0,,,,,,"",""
+ball,1,9.6,Yorkshire,T Kohler-Cadmore,DJ Willey,D Moriarty,1,0,,,,,,"",""
+ball,1,10.1,Yorkshire,T Kohler-Cadmore,DJ Willey,SP Narine,1,0,,,,,,"",""
+ball,1,10.2,Yorkshire,DJ Willey,T Kohler-Cadmore,SP Narine,1,0,,,,,,"",""
+ball,1,10.3,Yorkshire,T Kohler-Cadmore,DJ Willey,SP Narine,0,0,,,,,,"",""
+ball,1,10.4,Yorkshire,T Kohler-Cadmore,DJ Willey,SP Narine,4,0,,,,,,"",""
+ball,1,10.5,Yorkshire,T Kohler-Cadmore,DJ Willey,SP Narine,0,0,,,,,,"",""
+ball,1,10.6,Yorkshire,T Kohler-Cadmore,DJ Willey,SP Narine,1,0,,,,,,"",""
+ball,1,11.1,Yorkshire,T Kohler-Cadmore,DJ Willey,D Moriarty,6,0,,,,,,"",""
+ball,1,11.2,Yorkshire,T Kohler-Cadmore,DJ Willey,D Moriarty,1,0,,,,,,"",""
+ball,1,11.3,Yorkshire,DJ Willey,T Kohler-Cadmore,D Moriarty,1,0,,,,,,"",""
+ball,1,11.4,Yorkshire,T Kohler-Cadmore,DJ Willey,D Moriarty,1,0,,,,,,"",""
+ball,1,11.5,Yorkshire,DJ Willey,T Kohler-Cadmore,D Moriarty,6,0,,,,,,"",""
+ball,1,11.6,Yorkshire,DJ Willey,T Kohler-Cadmore,D Moriarty,1,0,,,,,,"",""
+ball,1,12.1,Yorkshire,DJ Willey,T Kohler-Cadmore,SP Narine,0,0,,,,,,"",""
+ball,1,12.2,Yorkshire,DJ Willey,T Kohler-Cadmore,SP Narine,1,0,,,,,,"",""
+ball,1,12.3,Yorkshire,T Kohler-Cadmore,DJ Willey,SP Narine,0,0,,,,,,"",""
+ball,1,12.4,Yorkshire,T Kohler-Cadmore,DJ Willey,SP Narine,1,0,,,,,,"",""
+ball,1,12.5,Yorkshire,DJ Willey,T Kohler-Cadmore,SP Narine,1,0,,,,,,"",""
+ball,1,12.6,Yorkshire,T Kohler-Cadmore,DJ Willey,SP Narine,1,0,,,,,,"",""
+ball,1,13.1,Yorkshire,T Kohler-Cadmore,DJ Willey,DJ Worrall,4,0,,,,,,"",""
+ball,1,13.2,Yorkshire,T Kohler-Cadmore,DJ Willey,DJ Worrall,0,0,,,,,,"",""
+ball,1,13.3,Yorkshire,T Kohler-Cadmore,DJ Willey,DJ Worrall,0,0,,,,,,"",""
+ball,1,13.4,Yorkshire,T Kohler-Cadmore,DJ Willey,DJ Worrall,1,0,,,,,,"",""
+ball,1,13.5,Yorkshire,DJ Willey,T Kohler-Cadmore,DJ Worrall,1,0,,,,,,"",""
+ball,1,13.6,Yorkshire,T Kohler-Cadmore,DJ Willey,DJ Worrall,6,0,,,,,,"",""
+ball,1,14.1,Yorkshire,DJ Willey,T Kohler-Cadmore,SP Narine,0,0,,,,,,"",""
+ball,1,14.2,Yorkshire,DJ Willey,T Kohler-Cadmore,SP Narine,2,0,,,,,,"",""
+ball,1,14.3,Yorkshire,DJ Willey,T Kohler-Cadmore,SP Narine,1,0,,,,,,"",""
+ball,1,14.4,Yorkshire,T Kohler-Cadmore,DJ Willey,SP Narine,1,0,,,,,,"",""
+ball,1,14.5,Yorkshire,DJ Willey,T Kohler-Cadmore,SP Narine,0,0,,,,,,caught,DJ Willey
+ball,1,14.6,Yorkshire,Shadab Khan,T Kohler-Cadmore,SP Narine,1,0,,,,,,"",""
+ball,1,15.1,Yorkshire,Shadab Khan,T Kohler-Cadmore,AAP Atkinson,4,0,,,,,,"",""
+ball,1,15.2,Yorkshire,Shadab Khan,T Kohler-Cadmore,AAP Atkinson,0,0,,,,,,"",""
+ball,1,15.3,Yorkshire,Shadab Khan,T Kohler-Cadmore,AAP Atkinson,1,0,,,,,,"",""
+ball,1,15.4,Yorkshire,T Kohler-Cadmore,Shadab Khan,AAP Atkinson,0,0,,,,,,caught,T Kohler-Cadmore
+ball,1,15.5,Yorkshire,WAR Fraine,Shadab Khan,AAP Atkinson,0,0,,,,,,"",""
+ball,1,15.6,Yorkshire,WAR Fraine,Shadab Khan,AAP Atkinson,0,0,,,,,,"",""
+ball,1,16.1,Yorkshire,Shadab Khan,WAR Fraine,SP Narine,1,0,,,,,,"",""
+ball,1,16.2,Yorkshire,WAR Fraine,Shadab Khan,SP Narine,1,0,,,,,,"",""
+ball,1,16.3,Yorkshire,Shadab Khan,WAR Fraine,SP Narine,2,0,,,,,,"",""
+ball,1,16.4,Yorkshire,Shadab Khan,WAR Fraine,SP Narine,4,0,,,,,,"",""
+ball,1,16.5,Yorkshire,Shadab Khan,WAR Fraine,SP Narine,1,0,,,,,,"",""
+ball,1,16.6,Yorkshire,WAR Fraine,Shadab Khan,SP Narine,1,0,,,,,,"",""
+ball,1,17.1,Yorkshire,WAR Fraine,Shadab Khan,DJ Worrall,6,0,,,,,,"",""
+ball,1,17.2,Yorkshire,WAR Fraine,Shadab Khan,DJ Worrall,1,0,,,,,,"",""
+ball,1,17.3,Yorkshire,Shadab Khan,WAR Fraine,DJ Worrall,1,0,,,,,,"",""
+ball,1,17.4,Yorkshire,WAR Fraine,Shadab Khan,DJ Worrall,4,0,,,,,,"",""
+ball,1,17.5,Yorkshire,WAR Fraine,Shadab Khan,DJ Worrall,4,0,,,,,,"",""
+ball,1,17.6,Yorkshire,WAR Fraine,Shadab Khan,DJ Worrall,0,0,,,,,,"",""
+ball,1,18.1,Yorkshire,Shadab Khan,WAR Fraine,AAP Atkinson,2,0,,,,,,"",""
+ball,1,18.2,Yorkshire,Shadab Khan,WAR Fraine,AAP Atkinson,4,0,,,,,,"",""
+ball,1,18.3,Yorkshire,Shadab Khan,WAR Fraine,AAP Atkinson,0,0,,,,,,caught,Shadab Khan
+ball,1,18.4,Yorkshire,JA Thompson,WAR Fraine,AAP Atkinson,1,0,,,,,,"",""
+ball,1,18.5,Yorkshire,WAR Fraine,JA Thompson,AAP Atkinson,1,0,,,,,,"",""
+ball,1,18.6,Yorkshire,JA Thompson,WAR Fraine,AAP Atkinson,0,2,,2,,,,"",""
+ball,1,18.7,Yorkshire,JA Thompson,WAR Fraine,AAP Atkinson,1,0,,,,,,"",""
+ball,1,19.1,Yorkshire,JA Thompson,WAR Fraine,DJ Worrall,0,0,,,,,,"",""
+ball,1,19.2,Yorkshire,JA Thompson,WAR Fraine,DJ Worrall,1,0,,,,,,"",""
+ball,1,19.3,Yorkshire,WAR Fraine,JA Thompson,DJ Worrall,4,0,,,,,,"",""
+ball,1,19.4,Yorkshire,WAR Fraine,JA Thompson,DJ Worrall,2,0,,,,,,"",""
+ball,1,19.5,Yorkshire,WAR Fraine,JA Thompson,DJ Worrall,6,0,,,,,,"",""
+ball,1,19.6,Yorkshire,WAR Fraine,JA Thompson,DJ Worrall,2,0,,,,,,"",""
+ball,2,0.1,Surrey,WG Jacks,RJ Burns,DJ Willey,1,0,,,,,,"",""
+ball,2,0.2,Surrey,RJ Burns,WG Jacks,DJ Willey,0,0,,,,,,"",""
+ball,2,0.3,Surrey,RJ Burns,WG Jacks,DJ Willey,1,0,,,,,,"",""
+ball,2,0.4,Surrey,WG Jacks,RJ Burns,DJ Willey,0,0,,,,,,"",""
+ball,2,0.5,Surrey,WG Jacks,RJ Burns,DJ Willey,0,0,,,,,,"",""
+ball,2,0.6,Surrey,WG Jacks,RJ Burns,DJ Willey,0,0,,,,,,caught,WG Jacks
+ball,2,1.1,Surrey,RJ Burns,TK Curran,ML Revis,0,0,,,,,,"",""
+ball,2,1.2,Surrey,RJ Burns,TK Curran,ML Revis,1,0,,,,,,"",""
+ball,2,1.3,Surrey,TK Curran,RJ Burns,ML Revis,0,0,,,,,,"",""
+ball,2,1.4,Surrey,TK Curran,RJ Burns,ML Revis,0,0,,,,,,"",""
+ball,2,1.5,Surrey,TK Curran,RJ Burns,ML Revis,1,0,,,,,,"",""
+ball,2,1.6,Surrey,RJ Burns,TK Curran,ML Revis,1,0,,,,,,"",""
+ball,2,2.1,Surrey,RJ Burns,TK Curran,DJ Willey,0,0,,,,,,"",""
+ball,2,2.2,Surrey,RJ Burns,TK Curran,DJ Willey,0,0,,,,,,"",""
+ball,2,2.3,Surrey,RJ Burns,TK Curran,DJ Willey,1,0,,,,,,"",""
+ball,2,2.4,Surrey,TK Curran,RJ Burns,DJ Willey,0,0,,,,,,"",""
+ball,2,2.5,Surrey,TK Curran,RJ Burns,DJ Willey,4,0,,,,,,"",""
+ball,2,2.6,Surrey,TK Curran,RJ Burns,DJ Willey,1,0,,,,,,"",""
+ball,2,3.1,Surrey,TK Curran,RJ Burns,ML Revis,1,0,,,,,,"",""
+ball,2,3.2,Surrey,RJ Burns,TK Curran,ML Revis,4,0,,,,,,"",""
+ball,2,3.3,Surrey,RJ Burns,TK Curran,ML Revis,6,0,,,,,,"",""
+ball,2,3.4,Surrey,RJ Burns,TK Curran,ML Revis,1,0,,,,,,"",""
+ball,2,3.5,Surrey,TK Curran,RJ Burns,ML Revis,4,0,,,,,,"",""
+ball,2,3.6,Surrey,TK Curran,RJ Burns,ML Revis,6,0,,,,,,"",""
+ball,2,4.1,Surrey,RJ Burns,TK Curran,DM Bess,0,0,,,,,,"",""
+ball,2,4.2,Surrey,RJ Burns,TK Curran,DM Bess,0,0,,,,,,"",""
+ball,2,4.3,Surrey,RJ Burns,TK Curran,DM Bess,2,0,,,,,,"",""
+ball,2,4.4,Surrey,RJ Burns,TK Curran,DM Bess,0,0,,,,,,"",""
+ball,2,4.5,Surrey,RJ Burns,TK Curran,DM Bess,0,0,,,,,,"",""
+ball,2,4.6,Surrey,RJ Burns,TK Curran,DM Bess,0,0,,,,,,"",""
+ball,2,5.1,Surrey,TK Curran,RJ Burns,Shadab Khan,0,0,,,,,,"",""
+ball,2,5.2,Surrey,TK Curran,RJ Burns,Shadab Khan,0,0,,,,,,"",""
+ball,2,5.3,Surrey,TK Curran,RJ Burns,Shadab Khan,0,0,,,,,,"",""
+ball,2,5.4,Surrey,TK Curran,RJ Burns,Shadab Khan,1,0,,,,,,"",""
+ball,2,5.5,Surrey,RJ Burns,TK Curran,Shadab Khan,0,0,,,,,,"",""
+ball,2,5.6,Surrey,RJ Burns,TK Curran,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.1,Surrey,RJ Burns,TK Curran,DM Bess,0,1,,,,1,,"",""
+ball,2,6.2,Surrey,TK Curran,RJ Burns,DM Bess,0,0,,,,,,"",""
+ball,2,6.3,Surrey,TK Curran,RJ Burns,DM Bess,4,0,,,,,,"",""
+ball,2,6.4,Surrey,TK Curran,RJ Burns,DM Bess,1,0,,,,,,"",""
+ball,2,6.5,Surrey,RJ Burns,TK Curran,DM Bess,4,0,,,,,,"",""
+ball,2,6.6,Surrey,RJ Burns,TK Curran,DM Bess,1,0,,,,,,"",""
+ball,2,7.1,Surrey,RJ Burns,TK Curran,JA Thompson,1,0,,,,,,"",""
+ball,2,7.2,Surrey,TK Curran,RJ Burns,JA Thompson,0,0,,,,,,"",""
+ball,2,7.3,Surrey,TK Curran,RJ Burns,JA Thompson,0,0,,,,,,"",""
+ball,2,7.4,Surrey,TK Curran,RJ Burns,JA Thompson,4,0,,,,,,"",""
+ball,2,7.5,Surrey,TK Curran,RJ Burns,JA Thompson,0,0,,,,,,"",""
+ball,2,7.6,Surrey,TK Curran,RJ Burns,JA Thompson,0,0,,,,,,"",""
+ball,2,8.1,Surrey,RJ Burns,TK Curran,Shadab Khan,2,0,,,,,,"",""
+ball,2,8.2,Surrey,RJ Burns,TK Curran,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.3,Surrey,RJ Burns,TK Curran,Shadab Khan,2,0,,,,,,"",""
+ball,2,8.4,Surrey,RJ Burns,TK Curran,Shadab Khan,0,0,,,,,,bowled,RJ Burns
+ball,2,8.5,Surrey,OJ Pope,TK Curran,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.6,Surrey,TK Curran,OJ Pope,Shadab Khan,4,0,,,,,,"",""
+ball,2,9.1,Surrey,OJ Pope,TK Curran,A Lyth,2,0,,,,,,"",""
+ball,2,9.2,Surrey,OJ Pope,TK Curran,A Lyth,1,0,,,,,,"",""
+ball,2,9.3,Surrey,TK Curran,OJ Pope,A Lyth,1,0,,,,,,"",""
+ball,2,9.4,Surrey,OJ Pope,TK Curran,A Lyth,1,0,,,,,,"",""
+ball,2,9.5,Surrey,TK Curran,OJ Pope,A Lyth,1,0,,,,,,"",""
+ball,2,9.6,Surrey,OJ Pope,TK Curran,A Lyth,2,0,,,,,,"",""
+ball,2,10.1,Surrey,TK Curran,OJ Pope,Shadab Khan,1,0,,,,,,"",""
+ball,2,10.2,Surrey,OJ Pope,TK Curran,Shadab Khan,0,1,,,,1,,"",""
+ball,2,10.3,Surrey,TK Curran,OJ Pope,Shadab Khan,1,0,,,,,,"",""
+ball,2,10.4,Surrey,OJ Pope,TK Curran,Shadab Khan,4,0,,,,,,"",""
+ball,2,10.5,Surrey,OJ Pope,TK Curran,Shadab Khan,0,0,,,,,,caught,OJ Pope
+ball,2,10.6,Surrey,LJ Evans,TK Curran,Shadab Khan,1,0,,,,,,"",""
+ball,2,11.1,Surrey,LJ Evans,TK Curran,JA Thompson,0,0,,,,,,"",""
+ball,2,11.2,Surrey,LJ Evans,TK Curran,JA Thompson,0,0,,,,,,"",""
+ball,2,11.3,Surrey,LJ Evans,TK Curran,JA Thompson,0,0,,,,,,"",""
+ball,2,11.4,Surrey,LJ Evans,TK Curran,JA Thompson,4,0,,,,,,"",""
+ball,2,11.5,Surrey,LJ Evans,TK Curran,JA Thompson,1,0,,,,,,"",""
+ball,2,11.6,Surrey,TK Curran,LJ Evans,JA Thompson,1,0,,,,,,"",""
+ball,2,12.1,Surrey,TK Curran,LJ Evans,DJ Willey,0,0,,,,,,caught,TK Curran
+ball,2,12.2,Surrey,AM Hardie,LJ Evans,DJ Willey,1,0,,,,,,"",""
+ball,2,12.3,Surrey,LJ Evans,AM Hardie,DJ Willey,0,0,,,,,,"",""
+ball,2,12.4,Surrey,LJ Evans,AM Hardie,DJ Willey,0,1,,,,1,,"",""
+ball,2,12.5,Surrey,AM Hardie,LJ Evans,DJ Willey,1,0,,,,,,"",""
+ball,2,12.6,Surrey,LJ Evans,AM Hardie,DJ Willey,1,0,,,,,,"",""
+ball,2,13.1,Surrey,LJ Evans,AM Hardie,DM Bess,1,0,,,,,,"",""
+ball,2,13.2,Surrey,AM Hardie,LJ Evans,DM Bess,1,0,,,,,,"",""
+ball,2,13.3,Surrey,LJ Evans,AM Hardie,DM Bess,0,0,,,,,,"",""
+ball,2,13.4,Surrey,LJ Evans,AM Hardie,DM Bess,1,0,,,,,,"",""
+ball,2,13.5,Surrey,AM Hardie,LJ Evans,DM Bess,0,0,,,,,,caught,AM Hardie
+ball,2,13.6,Surrey,J Overton,LJ Evans,DM Bess,1,0,,,,,,"",""
+ball,2,14.1,Surrey,J Overton,LJ Evans,Shadab Khan,1,0,,,,,,"",""
+ball,2,14.2,Surrey,LJ Evans,J Overton,Shadab Khan,1,0,,,,,,"",""
+ball,2,14.3,Surrey,J Overton,LJ Evans,Shadab Khan,6,0,,,,,,"",""
+ball,2,14.4,Surrey,J Overton,LJ Evans,Shadab Khan,1,0,,,,,,"",""
+ball,2,14.5,Surrey,LJ Evans,J Overton,Shadab Khan,1,0,,,,,,"",""
+ball,2,14.6,Surrey,J Overton,LJ Evans,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.1,Surrey,J Overton,LJ Evans,ML Revis,1,0,,,,,,"",""
+ball,2,15.2,Surrey,LJ Evans,J Overton,ML Revis,1,0,,,,,,"",""
+ball,2,15.3,Surrey,J Overton,LJ Evans,ML Revis,6,0,,,,,,"",""
+ball,2,15.4,Surrey,J Overton,LJ Evans,ML Revis,6,0,,,,,,"",""
+ball,2,15.5,Surrey,J Overton,LJ Evans,ML Revis,0,0,,,,,,"",""
+ball,2,15.6,Surrey,J Overton,LJ Evans,ML Revis,0,0,,,,,,"",""
+ball,2,16.1,Surrey,LJ Evans,J Overton,DJ Willey,6,0,,,,,,"",""
+ball,2,16.2,Surrey,LJ Evans,J Overton,DJ Willey,2,0,,,,,,"",""
+ball,2,16.3,Surrey,LJ Evans,J Overton,DJ Willey,1,0,,,,,,"",""
+ball,2,16.4,Surrey,J Overton,LJ Evans,DJ Willey,0,0,,,,,,"",""
+ball,2,16.5,Surrey,J Overton,LJ Evans,DJ Willey,4,0,,,,,,"",""
+ball,2,16.6,Surrey,J Overton,LJ Evans,DJ Willey,2,0,,,,,,"",""
+ball,2,17.1,Surrey,LJ Evans,J Overton,JA Thompson,4,0,,,,,,"",""
+ball,2,17.2,Surrey,LJ Evans,J Overton,JA Thompson,0,1,1,,,,,"",""
+ball,2,17.3,Surrey,LJ Evans,J Overton,JA Thompson,1,0,,,,,,"",""
+ball,2,17.4,Surrey,J Overton,LJ Evans,JA Thompson,2,0,,,,,,"",""
+ball,2,17.5,Surrey,J Overton,LJ Evans,JA Thompson,6,0,,,,,,"",""
+ball,2,17.6,Surrey,J Overton,LJ Evans,JA Thompson,1,0,,,,,,"",""
+ball,2,17.7,Surrey,LJ Evans,J Overton,JA Thompson,1,0,,,,,,"",""
+ball,2,18.1,Surrey,LJ Evans,J Overton,ML Revis,1,0,,,,,,"",""
+ball,2,18.2,Surrey,J Overton,LJ Evans,ML Revis,0,0,,,,,,"",""
+ball,2,18.3,Surrey,J Overton,LJ Evans,ML Revis,1,0,,,,,,"",""
+ball,2,18.4,Surrey,LJ Evans,J Overton,ML Revis,0,0,,,,,,"",""
+ball,2,18.5,Surrey,LJ Evans,J Overton,ML Revis,0,0,,,,,,"",""
+ball,2,18.6,Surrey,LJ Evans,J Overton,ML Revis,6,0,,,,,,"",""
+ball,2,19.1,Surrey,J Overton,LJ Evans,JA Thompson,0,0,,,,,,"",""
+ball,2,19.2,Surrey,J Overton,LJ Evans,JA Thompson,1,0,,,,,,"",""
+ball,2,19.3,Surrey,LJ Evans,J Overton,JA Thompson,1,0,,,,,,"",""
+ball,2,19.4,Surrey,J Overton,LJ Evans,JA Thompson,0,0,,,,,,run out,J Overton
+ball,2,19.5,Surrey,SP Narine,LJ Evans,JA Thompson,0,0,,,,,,caught,SP Narine
+ball,2,19.6,Surrey,AAP Atkinson,LJ Evans,JA Thompson,0,1,,,1,,,"",""

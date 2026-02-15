@@ -1,0 +1,327 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Auckland
+info,gender,female
+info,season,2022/23
+info,date,2023/01/08
+info,event,Women's Super Smash
+info,match_number,15
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Auckland
+info,toss_decision,field
+info,umpire,BF Bowden
+info,umpire,PJ Pasco
+info,tv_umpire,CM Brown
+info,match_referee,GB Troup
+info,winner,Canterbury
+info,winner_runs,27
+info,player,Canterbury,KG Anderson
+info,player,Canterbury,NB Cox
+info,player,Canterbury,LEV Hughes
+info,player,Canterbury,AE Satterthwaite
+info,player,Canterbury,FC Wilson
+info,player,Canterbury,KFG Nation
+info,player,Canterbury,LMM Tahuhu
+info,player,Canterbury,AG Gerken
+info,player,Canterbury,MJ Banks
+info,player,Canterbury,GES Sullivan
+info,player,Canterbury,SR Asmussen
+info,player,Auckland,S Shahri
+info,player,Auckland,P Catton
+info,player,Auckland,LR Down
+info,player,Auckland,BG Armstrong
+info,player,Auckland,KT Perkins
+info,player,Auckland,AN Kelly
+info,player,Auckland,HR Huddleston
+info,player,Auckland,MB Templeton
+info,player,Auckland,AT Hucker
+info,player,Auckland,MM Penfold
+info,player,Auckland,SJ Carnachan
+info,registry,people,AE Satterthwaite,72b7ed1e
+info,registry,people,AG Gerken,a7fcf627
+info,registry,people,AN Kelly,397369e0
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Armstrong,eca08a1d
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GES Sullivan,165b9097
+info,registry,people,HR Huddleston,8d6b36e3
+info,registry,people,KFG Nation,6ed21f30
+info,registry,people,KG Anderson,ae79a86f
+info,registry,people,KT Perkins,78ad3258
+info,registry,people,LEV Hughes,5b43fe48
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,LR Down,19147fe0
+info,registry,people,MB Templeton,e1504909
+info,registry,people,MJ Banks,1e17a238
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,NB Cox,219f1323
+info,registry,people,P Catton,22e8ba50
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,S Shahri,c28355cd
+info,registry,people,SJ Carnachan,3b67e117
+info,registry,people,SR Asmussen,31972229
+ball,1,0.1,Canterbury,KG Anderson,NB Cox,HR Huddleston,1,0,,,,,,"",""
+ball,1,0.2,Canterbury,NB Cox,KG Anderson,HR Huddleston,0,0,,,,,,"",""
+ball,1,0.3,Canterbury,NB Cox,KG Anderson,HR Huddleston,0,0,,,,,,"",""
+ball,1,0.4,Canterbury,NB Cox,KG Anderson,HR Huddleston,0,0,,,,,,"",""
+ball,1,0.5,Canterbury,NB Cox,KG Anderson,HR Huddleston,0,0,,,,,,"",""
+ball,1,0.6,Canterbury,NB Cox,KG Anderson,HR Huddleston,1,0,,,,,,"",""
+ball,1,1.1,Canterbury,NB Cox,KG Anderson,AN Kelly,0,1,,,,1,,"",""
+ball,1,1.2,Canterbury,KG Anderson,NB Cox,AN Kelly,0,0,,,,,,"",""
+ball,1,1.3,Canterbury,KG Anderson,NB Cox,AN Kelly,0,0,,,,,,"",""
+ball,1,1.4,Canterbury,KG Anderson,NB Cox,AN Kelly,0,0,,,,,,"",""
+ball,1,1.5,Canterbury,KG Anderson,NB Cox,AN Kelly,1,0,,,,,,"",""
+ball,1,1.6,Canterbury,NB Cox,KG Anderson,AN Kelly,0,0,,,,,,"",""
+ball,1,2.1,Canterbury,KG Anderson,NB Cox,HR Huddleston,0,0,,,,,,bowled,KG Anderson
+ball,1,2.2,Canterbury,LEV Hughes,NB Cox,HR Huddleston,0,0,,,,,,caught,LEV Hughes
+ball,1,2.3,Canterbury,AE Satterthwaite,NB Cox,HR Huddleston,0,0,,,,,,"",""
+ball,1,2.4,Canterbury,AE Satterthwaite,NB Cox,HR Huddleston,1,0,,,,,,"",""
+ball,1,2.5,Canterbury,NB Cox,AE Satterthwaite,HR Huddleston,0,0,,,,,,"",""
+ball,1,2.6,Canterbury,NB Cox,AE Satterthwaite,HR Huddleston,0,0,,,,,,"",""
+ball,1,3.1,Canterbury,AE Satterthwaite,NB Cox,AN Kelly,0,0,,,,,,"",""
+ball,1,3.2,Canterbury,AE Satterthwaite,NB Cox,AN Kelly,4,0,,,,,,"",""
+ball,1,3.3,Canterbury,AE Satterthwaite,NB Cox,AN Kelly,0,0,,,,,,"",""
+ball,1,3.4,Canterbury,AE Satterthwaite,NB Cox,AN Kelly,4,0,,,,,,"",""
+ball,1,3.5,Canterbury,AE Satterthwaite,NB Cox,AN Kelly,0,0,,,,,,"",""
+ball,1,3.6,Canterbury,AE Satterthwaite,NB Cox,AN Kelly,1,0,,,,,,"",""
+ball,1,4.1,Canterbury,AE Satterthwaite,NB Cox,HR Huddleston,2,0,,,,,,"",""
+ball,1,4.2,Canterbury,AE Satterthwaite,NB Cox,HR Huddleston,0,0,,,,,,"",""
+ball,1,4.3,Canterbury,AE Satterthwaite,NB Cox,HR Huddleston,1,0,,,,,,"",""
+ball,1,4.4,Canterbury,NB Cox,AE Satterthwaite,HR Huddleston,0,0,,,,,,"",""
+ball,1,4.5,Canterbury,NB Cox,AE Satterthwaite,HR Huddleston,0,0,,,,,,"",""
+ball,1,4.6,Canterbury,NB Cox,AE Satterthwaite,HR Huddleston,4,0,,,,,,"",""
+ball,1,5.1,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,0,1,1,,,,,"",""
+ball,1,5.2,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,0,0,,,,,,"",""
+ball,1,5.3,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,2,0,,,,,,"",""
+ball,1,5.4,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,2,0,,,,,,"",""
+ball,1,5.5,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,2,0,,,,,,"",""
+ball,1,5.6,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,1,0,,,,,,"",""
+ball,1,5.7,Canterbury,NB Cox,AE Satterthwaite,AT Hucker,1,0,,,,,,"",""
+ball,1,6.1,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,0,1,1,,,,,"",""
+ball,1,6.2,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,1,0,,,,,,"",""
+ball,1,6.3,Canterbury,AE Satterthwaite,NB Cox,BG Armstrong,1,0,,,,,,"",""
+ball,1,6.4,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,0,0,,,,,,"",""
+ball,1,6.5,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,2,0,,,,,,"",""
+ball,1,6.6,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,0,0,,,,,,"",""
+ball,1,6.7,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,1,0,,,,,,"",""
+ball,1,7.1,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,1,0,,,,,,"",""
+ball,1,7.2,Canterbury,AE Satterthwaite,NB Cox,MM Penfold,0,1,1,,,,,"",""
+ball,1,7.3,Canterbury,AE Satterthwaite,NB Cox,MM Penfold,1,0,,,,,,"",""
+ball,1,7.4,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,7.5,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,7.6,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,7.7,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,8.1,Canterbury,AE Satterthwaite,NB Cox,BG Armstrong,0,1,1,,,,,"",""
+ball,1,8.2,Canterbury,AE Satterthwaite,NB Cox,BG Armstrong,3,0,,,,,,"",""
+ball,1,8.3,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,0,0,,,,,,"",""
+ball,1,8.4,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,4,0,,,,,,"",""
+ball,1,8.5,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,0,1,1,,,,,"",""
+ball,1,8.6,Canterbury,NB Cox,AE Satterthwaite,BG Armstrong,1,0,,,,,,"",""
+ball,1,8.7,Canterbury,AE Satterthwaite,NB Cox,BG Armstrong,0,1,1,,,,,"",""
+ball,1,8.8,Canterbury,AE Satterthwaite,NB Cox,BG Armstrong,0,0,,,,,,"",""
+ball,1,8.9,Canterbury,AE Satterthwaite,NB Cox,BG Armstrong,4,0,,,,,,"",""
+ball,1,9.1,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,1,0,,,,,,"",""
+ball,1,9.2,Canterbury,AE Satterthwaite,NB Cox,MM Penfold,4,0,,,,,,"",""
+ball,1,9.3,Canterbury,AE Satterthwaite,NB Cox,MM Penfold,1,0,,,,,,"",""
+ball,1,9.4,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,4,0,,,,,,"",""
+ball,1,9.5,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,9.6,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,0,1,1,,,,,"",""
+ball,1,9.7,Canterbury,NB Cox,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,10.1,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,0,1,1,,,,,"",""
+ball,1,10.2,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,1,0,,,,,,"",""
+ball,1,10.3,Canterbury,NB Cox,AE Satterthwaite,AT Hucker,1,0,,,,,,"",""
+ball,1,10.4,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,0,1,1,,,,,"",""
+ball,1,10.5,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,0,0,,,,,,"",""
+ball,1,10.6,Canterbury,AE Satterthwaite,NB Cox,AT Hucker,1,0,,,,,,"",""
+ball,1,10.7,Canterbury,NB Cox,AE Satterthwaite,AT Hucker,4,0,,,,,,"",""
+ball,1,10.8,Canterbury,NB Cox,AE Satterthwaite,AT Hucker,1,0,,,,,,"",""
+ball,1,11.1,Canterbury,NB Cox,AE Satterthwaite,AN Kelly,1,0,,,,,,"",""
+ball,1,11.2,Canterbury,AE Satterthwaite,NB Cox,AN Kelly,1,0,,,,,,"",""
+ball,1,11.3,Canterbury,NB Cox,AE Satterthwaite,AN Kelly,2,0,,,,,,"",""
+ball,1,11.4,Canterbury,NB Cox,AE Satterthwaite,AN Kelly,0,0,,,,,,run out,NB Cox
+ball,1,11.5,Canterbury,AE Satterthwaite,FC Wilson,AN Kelly,1,0,,,,,,"",""
+ball,1,11.6,Canterbury,FC Wilson,AE Satterthwaite,AN Kelly,1,0,,,,,,"",""
+ball,1,12.1,Canterbury,FC Wilson,AE Satterthwaite,AT Hucker,1,0,,,,,,"",""
+ball,1,12.2,Canterbury,AE Satterthwaite,FC Wilson,AT Hucker,0,1,,1,,,,run out,FC Wilson
+ball,1,12.3,Canterbury,KFG Nation,AE Satterthwaite,AT Hucker,1,0,,,,,,"",""
+ball,1,12.4,Canterbury,AE Satterthwaite,KFG Nation,AT Hucker,1,0,,,,,,"",""
+ball,1,12.5,Canterbury,KFG Nation,AE Satterthwaite,AT Hucker,1,0,,,,,,"",""
+ball,1,12.6,Canterbury,AE Satterthwaite,KFG Nation,AT Hucker,1,0,,,,,,"",""
+ball,1,12.7,Canterbury,KFG Nation,AE Satterthwaite,AT Hucker,1,0,,,,,,"",""
+ball,1,13.1,Canterbury,KFG Nation,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,13.2,Canterbury,KFG Nation,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,13.3,Canterbury,KFG Nation,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,13.4,Canterbury,KFG Nation,AE Satterthwaite,MM Penfold,0,1,1,,,,,"",""
+ball,1,13.5,Canterbury,KFG Nation,AE Satterthwaite,MM Penfold,0,0,,,,,,caught,KFG Nation
+ball,1,13.6,Canterbury,LMM Tahuhu,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,13.7,Canterbury,LMM Tahuhu,AE Satterthwaite,MM Penfold,4,0,,,,,,"",""
+ball,1,14.1,Canterbury,AE Satterthwaite,LMM Tahuhu,BG Armstrong,1,0,,,,,,"",""
+ball,1,14.2,Canterbury,LMM Tahuhu,AE Satterthwaite,BG Armstrong,3,0,,,,,,"",""
+ball,1,14.3,Canterbury,AE Satterthwaite,LMM Tahuhu,BG Armstrong,1,0,,,,,,"",""
+ball,1,14.4,Canterbury,LMM Tahuhu,AE Satterthwaite,BG Armstrong,4,0,,,,,,"",""
+ball,1,14.5,Canterbury,LMM Tahuhu,AE Satterthwaite,BG Armstrong,0,2,2,,,,,"",""
+ball,1,14.6,Canterbury,AE Satterthwaite,LMM Tahuhu,BG Armstrong,1,0,,,,,,"",""
+ball,1,14.7,Canterbury,LMM Tahuhu,AE Satterthwaite,BG Armstrong,1,0,,,,,,"",""
+ball,1,15.1,Canterbury,LMM Tahuhu,AE Satterthwaite,MM Penfold,0,0,,,,,,caught,LMM Tahuhu
+ball,1,15.2,Canterbury,AG Gerken,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,15.3,Canterbury,AG Gerken,AE Satterthwaite,MM Penfold,0,0,,,,,,"",""
+ball,1,15.4,Canterbury,AG Gerken,AE Satterthwaite,MM Penfold,1,0,,,,,,"",""
+ball,1,15.5,Canterbury,AE Satterthwaite,AG Gerken,MM Penfold,0,1,1,,,,,"",""
+ball,1,15.6,Canterbury,AE Satterthwaite,AG Gerken,MM Penfold,2,0,,,,,,"",""
+ball,1,15.7,Canterbury,AE Satterthwaite,AG Gerken,MM Penfold,0,0,,,,,,"",""
+ball,1,16.1,Canterbury,AG Gerken,AE Satterthwaite,BG Armstrong,0,0,,,,,,"",""
+ball,1,16.2,Canterbury,AG Gerken,AE Satterthwaite,BG Armstrong,1,0,,,,,,"",""
+ball,1,16.3,Canterbury,AE Satterthwaite,AG Gerken,BG Armstrong,4,0,,,,,,"",""
+ball,1,16.4,Canterbury,AE Satterthwaite,AG Gerken,BG Armstrong,1,0,,,,,,"",""
+ball,1,16.5,Canterbury,AG Gerken,AE Satterthwaite,BG Armstrong,2,0,,,,,,"",""
+ball,1,16.6,Canterbury,AG Gerken,AE Satterthwaite,BG Armstrong,0,0,,,,,,"",""
+ball,1,17.1,Canterbury,AE Satterthwaite,AG Gerken,AT Hucker,0,0,,,,,,"",""
+ball,1,17.2,Canterbury,AE Satterthwaite,AG Gerken,AT Hucker,2,0,,,,,,"",""
+ball,1,17.3,Canterbury,AE Satterthwaite,AG Gerken,AT Hucker,0,0,,,,,,"",""
+ball,1,17.4,Canterbury,AE Satterthwaite,AG Gerken,AT Hucker,0,0,,,,,,"",""
+ball,1,17.5,Canterbury,AE Satterthwaite,AG Gerken,AT Hucker,1,0,,,,,,"",""
+ball,1,17.6,Canterbury,AG Gerken,AE Satterthwaite,AT Hucker,0,0,,,,,,"",""
+ball,1,18.1,Canterbury,AE Satterthwaite,AG Gerken,HR Huddleston,2,0,,,,,,"",""
+ball,1,18.2,Canterbury,AE Satterthwaite,AG Gerken,HR Huddleston,1,0,,,,,,"",""
+ball,1,18.3,Canterbury,AG Gerken,AE Satterthwaite,HR Huddleston,0,0,,,,,,bowled,AG Gerken
+ball,1,18.4,Canterbury,MJ Banks,AE Satterthwaite,HR Huddleston,2,0,,,,,,"",""
+ball,1,18.5,Canterbury,MJ Banks,AE Satterthwaite,HR Huddleston,4,1,,1,,,,"",""
+ball,1,18.6,Canterbury,MJ Banks,AE Satterthwaite,HR Huddleston,1,0,,,,,,"",""
+ball,1,18.7,Canterbury,AE Satterthwaite,MJ Banks,HR Huddleston,0,0,,,,,,caught,AE Satterthwaite
+ball,1,19.1,Canterbury,MJ Banks,GES Sullivan,AN Kelly,1,0,,,,,,"",""
+ball,1,19.2,Canterbury,GES Sullivan,MJ Banks,AN Kelly,0,0,,,,,,"",""
+ball,1,19.3,Canterbury,GES Sullivan,MJ Banks,AN Kelly,0,0,,,,,,"",""
+ball,1,19.4,Canterbury,GES Sullivan,MJ Banks,AN Kelly,1,0,,,,,,"",""
+ball,1,19.5,Canterbury,MJ Banks,GES Sullivan,AN Kelly,1,0,,,,,,"",""
+ball,1,19.6,Canterbury,GES Sullivan,MJ Banks,AN Kelly,2,0,,,,,,"",""
+ball,2,0.1,Auckland,S Shahri,P Catton,MJ Banks,0,0,,,,,,"",""
+ball,2,0.2,Auckland,S Shahri,P Catton,MJ Banks,0,1,1,,,,,"",""
+ball,2,0.3,Auckland,S Shahri,P Catton,MJ Banks,2,0,,,,,,"",""
+ball,2,0.4,Auckland,S Shahri,P Catton,MJ Banks,1,0,,,,,,"",""
+ball,2,0.5,Auckland,P Catton,S Shahri,MJ Banks,0,0,,,,,,"",""
+ball,2,0.6,Auckland,P Catton,S Shahri,MJ Banks,1,0,,,,,,"",""
+ball,2,0.7,Auckland,S Shahri,P Catton,MJ Banks,0,2,2,,,,,"",""
+ball,2,0.8,Auckland,P Catton,S Shahri,MJ Banks,1,0,,,,,,"",""
+ball,2,1.1,Auckland,P Catton,S Shahri,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,1.2,Auckland,P Catton,S Shahri,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,1.3,Auckland,P Catton,S Shahri,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,1.4,Auckland,P Catton,S Shahri,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,1.5,Auckland,P Catton,S Shahri,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,1.6,Auckland,P Catton,S Shahri,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,2.1,Auckland,S Shahri,P Catton,GES Sullivan,0,0,,,,,,"",""
+ball,2,2.2,Auckland,S Shahri,P Catton,GES Sullivan,1,0,,,,,,"",""
+ball,2,2.3,Auckland,P Catton,S Shahri,GES Sullivan,0,0,,,,,,"",""
+ball,2,2.4,Auckland,P Catton,S Shahri,GES Sullivan,0,0,,,,,,caught,P Catton
+ball,2,2.5,Auckland,LR Down,S Shahri,GES Sullivan,0,0,,,,,,"",""
+ball,2,2.6,Auckland,LR Down,S Shahri,GES Sullivan,1,0,,,,,,"",""
+ball,2,3.1,Auckland,LR Down,S Shahri,LMM Tahuhu,4,0,,,,,,"",""
+ball,2,3.2,Auckland,LR Down,S Shahri,LMM Tahuhu,1,0,,,,,,"",""
+ball,2,3.3,Auckland,S Shahri,LR Down,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,3.4,Auckland,S Shahri,LR Down,LMM Tahuhu,2,0,,,,,,"",""
+ball,2,3.5,Auckland,S Shahri,LR Down,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,3.6,Auckland,S Shahri,LR Down,LMM Tahuhu,1,0,,,,,,"",""
+ball,2,4.1,Auckland,S Shahri,LR Down,MJ Banks,0,0,,,,,,"",""
+ball,2,4.2,Auckland,S Shahri,LR Down,MJ Banks,0,1,1,,,,,"",""
+ball,2,4.3,Auckland,S Shahri,LR Down,MJ Banks,3,0,,,,,,"",""
+ball,2,4.4,Auckland,LR Down,S Shahri,MJ Banks,4,0,,,,,,"",""
+ball,2,4.5,Auckland,LR Down,S Shahri,MJ Banks,0,0,,,,,,"",""
+ball,2,4.6,Auckland,LR Down,S Shahri,MJ Banks,1,0,,,,,,"",""
+ball,2,4.7,Auckland,S Shahri,LR Down,MJ Banks,2,0,,,,,,"",""
+ball,2,5.1,Auckland,LR Down,S Shahri,GES Sullivan,0,0,,,,,,caught,LR Down
+ball,2,5.2,Auckland,BG Armstrong,S Shahri,GES Sullivan,0,0,,,,,,"",""
+ball,2,5.3,Auckland,BG Armstrong,S Shahri,GES Sullivan,4,0,,,,,,"",""
+ball,2,5.4,Auckland,BG Armstrong,S Shahri,GES Sullivan,0,0,,,,,,"",""
+ball,2,5.5,Auckland,BG Armstrong,S Shahri,GES Sullivan,1,0,,,,,,"",""
+ball,2,5.6,Auckland,S Shahri,BG Armstrong,GES Sullivan,0,0,,,,,,lbw,S Shahri
+ball,2,6.1,Auckland,BG Armstrong,KT Perkins,SR Asmussen,0,0,,,,,,"",""
+ball,2,6.2,Auckland,BG Armstrong,KT Perkins,SR Asmussen,1,0,,,,,,"",""
+ball,2,6.3,Auckland,KT Perkins,BG Armstrong,SR Asmussen,1,0,,,,,,"",""
+ball,2,6.4,Auckland,BG Armstrong,KT Perkins,SR Asmussen,0,0,,,,,,"",""
+ball,2,6.5,Auckland,BG Armstrong,KT Perkins,SR Asmussen,3,0,,,,,,"",""
+ball,2,6.6,Auckland,KT Perkins,BG Armstrong,SR Asmussen,0,0,,,,,,"",""
+ball,2,7.1,Auckland,BG Armstrong,KT Perkins,GES Sullivan,1,0,,,,,,"",""
+ball,2,7.2,Auckland,KT Perkins,BG Armstrong,GES Sullivan,0,1,1,,,,,"",""
+ball,2,7.3,Auckland,KT Perkins,BG Armstrong,GES Sullivan,0,0,,,,,,"",""
+ball,2,7.4,Auckland,KT Perkins,BG Armstrong,GES Sullivan,1,0,,,,,,"",""
+ball,2,7.5,Auckland,BG Armstrong,KT Perkins,GES Sullivan,3,0,,,,,,"",""
+ball,2,7.6,Auckland,KT Perkins,BG Armstrong,GES Sullivan,1,0,,,,,,"",""
+ball,2,7.7,Auckland,BG Armstrong,KT Perkins,GES Sullivan,1,0,,,,,,"",""
+ball,2,8.1,Auckland,BG Armstrong,KT Perkins,AE Satterthwaite,2,0,,,,,,"",""
+ball,2,8.2,Auckland,BG Armstrong,KT Perkins,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,8.3,Auckland,KT Perkins,BG Armstrong,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,8.4,Auckland,BG Armstrong,KT Perkins,AE Satterthwaite,0,0,,,,,,"",""
+ball,2,8.5,Auckland,BG Armstrong,KT Perkins,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,8.6,Auckland,KT Perkins,BG Armstrong,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,9.1,Auckland,KT Perkins,BG Armstrong,LMM Tahuhu,1,0,,,,,,"",""
+ball,2,9.2,Auckland,BG Armstrong,KT Perkins,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,9.3,Auckland,BG Armstrong,KT Perkins,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,9.4,Auckland,BG Armstrong,KT Perkins,LMM Tahuhu,1,0,,,,,,"",""
+ball,2,9.5,Auckland,KT Perkins,BG Armstrong,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,9.6,Auckland,KT Perkins,BG Armstrong,LMM Tahuhu,0,1,,,,1,,"",""
+ball,2,10.1,Auckland,KT Perkins,BG Armstrong,SR Asmussen,1,0,,,,,,"",""
+ball,2,10.2,Auckland,BG Armstrong,KT Perkins,SR Asmussen,1,0,,,,,,"",""
+ball,2,10.3,Auckland,KT Perkins,BG Armstrong,SR Asmussen,1,0,,,,,,"",""
+ball,2,10.4,Auckland,BG Armstrong,KT Perkins,SR Asmussen,0,0,,,,,,caught,BG Armstrong
+ball,2,10.5,Auckland,AN Kelly,KT Perkins,SR Asmussen,1,0,,,,,,"",""
+ball,2,10.6,Auckland,KT Perkins,AN Kelly,SR Asmussen,0,0,,,,,,"",""
+ball,2,11.1,Auckland,AN Kelly,KT Perkins,AE Satterthwaite,0,0,,,,,,"",""
+ball,2,11.2,Auckland,AN Kelly,KT Perkins,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,11.3,Auckland,KT Perkins,AN Kelly,AE Satterthwaite,2,0,,,,,,"",""
+ball,2,11.4,Auckland,KT Perkins,AN Kelly,AE Satterthwaite,0,1,1,,,,,"",""
+ball,2,11.5,Auckland,KT Perkins,AN Kelly,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,11.6,Auckland,AN Kelly,KT Perkins,AE Satterthwaite,0,0,,,,,,"",""
+ball,2,11.7,Auckland,AN Kelly,KT Perkins,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,12.1,Auckland,AN Kelly,KT Perkins,SR Asmussen,1,0,,,,,,"",""
+ball,2,12.2,Auckland,KT Perkins,AN Kelly,SR Asmussen,1,0,,,,,,"",""
+ball,2,12.3,Auckland,AN Kelly,KT Perkins,SR Asmussen,1,0,,,,,,"",""
+ball,2,12.4,Auckland,KT Perkins,AN Kelly,SR Asmussen,1,0,,,,,,"",""
+ball,2,12.5,Auckland,AN Kelly,KT Perkins,SR Asmussen,0,0,,,,,,"",""
+ball,2,12.6,Auckland,AN Kelly,KT Perkins,SR Asmussen,1,0,,,,,,"",""
+ball,2,13.1,Auckland,AN Kelly,KT Perkins,AE Satterthwaite,0,0,,,,,,caught,AN Kelly
+ball,2,13.2,Auckland,HR Huddleston,KT Perkins,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,13.3,Auckland,KT Perkins,HR Huddleston,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,13.4,Auckland,HR Huddleston,KT Perkins,AE Satterthwaite,0,0,,,,,,"",""
+ball,2,13.5,Auckland,HR Huddleston,KT Perkins,AE Satterthwaite,0,0,,,,,,"",""
+ball,2,13.6,Auckland,HR Huddleston,KT Perkins,AE Satterthwaite,0,1,1,,,,,"",""
+ball,2,13.7,Auckland,HR Huddleston,KT Perkins,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,14.1,Auckland,HR Huddleston,KT Perkins,MJ Banks,1,0,,,,,,"",""
+ball,2,14.2,Auckland,KT Perkins,HR Huddleston,MJ Banks,4,0,,,,,,"",""
+ball,2,14.3,Auckland,KT Perkins,HR Huddleston,MJ Banks,0,0,,,,,,"",""
+ball,2,14.4,Auckland,KT Perkins,HR Huddleston,MJ Banks,2,0,,,,,,"",""
+ball,2,14.5,Auckland,KT Perkins,HR Huddleston,MJ Banks,1,0,,,,,,"",""
+ball,2,14.6,Auckland,HR Huddleston,KT Perkins,MJ Banks,0,0,,,,,,"",""
+ball,2,15.1,Auckland,KT Perkins,HR Huddleston,LMM Tahuhu,1,0,,,,,,"",""
+ball,2,15.2,Auckland,HR Huddleston,KT Perkins,LMM Tahuhu,1,0,,,,,,"",""
+ball,2,15.3,Auckland,KT Perkins,HR Huddleston,LMM Tahuhu,1,0,,,,,,"",""
+ball,2,15.4,Auckland,HR Huddleston,KT Perkins,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,15.5,Auckland,HR Huddleston,KT Perkins,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,15.6,Auckland,HR Huddleston,KT Perkins,LMM Tahuhu,0,0,,,,,,"",""
+ball,2,16.1,Auckland,KT Perkins,HR Huddleston,SR Asmussen,0,0,,,,,,"",""
+ball,2,16.2,Auckland,KT Perkins,HR Huddleston,SR Asmussen,0,0,,,,,,"",""
+ball,2,16.3,Auckland,KT Perkins,HR Huddleston,SR Asmussen,1,0,,,,,,"",""
+ball,2,16.4,Auckland,HR Huddleston,KT Perkins,SR Asmussen,4,0,,,,,,"",""
+ball,2,16.5,Auckland,HR Huddleston,KT Perkins,SR Asmussen,1,0,,,,,,"",""
+ball,2,16.6,Auckland,KT Perkins,HR Huddleston,SR Asmussen,2,0,,,,,,"",""
+ball,2,17.1,Auckland,HR Huddleston,KT Perkins,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,17.2,Auckland,KT Perkins,HR Huddleston,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,17.3,Auckland,HR Huddleston,KT Perkins,AE Satterthwaite,0,0,,,,,,bowled,HR Huddleston
+ball,2,17.4,Auckland,MB Templeton,KT Perkins,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,17.5,Auckland,KT Perkins,MB Templeton,AE Satterthwaite,2,0,,,,,,"",""
+ball,2,17.6,Auckland,KT Perkins,MB Templeton,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,18.1,Auckland,KT Perkins,MB Templeton,MJ Banks,1,0,,,,,,"",""
+ball,2,18.2,Auckland,MB Templeton,KT Perkins,MJ Banks,0,1,,,1,,,"",""
+ball,2,18.3,Auckland,KT Perkins,MB Templeton,MJ Banks,1,0,,,,,,"",""
+ball,2,18.4,Auckland,MB Templeton,KT Perkins,MJ Banks,0,0,,,,,,bowled,MB Templeton
+ball,2,18.5,Auckland,AT Hucker,KT Perkins,MJ Banks,0,0,,,,,,bowled,AT Hucker
+ball,2,18.6,Auckland,MM Penfold,KT Perkins,MJ Banks,1,0,,,,,,"",""
+ball,2,19.1,Auckland,MM Penfold,KT Perkins,GES Sullivan,1,0,,,,,,"",""
+ball,2,19.2,Auckland,KT Perkins,MM Penfold,GES Sullivan,2,0,,,,,,"",""
+ball,2,19.3,Auckland,KT Perkins,MM Penfold,GES Sullivan,1,0,,,,,,"",""
+ball,2,19.4,Auckland,MM Penfold,KT Perkins,GES Sullivan,0,0,,,,,,stumped,MM Penfold
+ball,2,19.5,Auckland,SJ Carnachan,KT Perkins,GES Sullivan,0,0,,,,,,"",""
+ball,2,19.6,Auckland,SJ Carnachan,KT Perkins,GES Sullivan,2,0,,,,,,"",""

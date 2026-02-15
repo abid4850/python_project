@@ -1,0 +1,42 @@
+[
+  {
+    "employee_id": 1,
+    "age": 28,
+    "department": "Sales",
+    "experience_years": 3,
+    "performance_score": 78,
+    "promotion": "No"
+  },
+  {
+    "employee_id": 2,
+    "age": 35,
+    "department": "HR",
+    "experience_years": 7,
+    "performance_score": 88,
+    "promotion": "Yes"
+  },
+  {
+    "employee_id": 3,
+    "age": 26,
+    "department": "IT",
+    "experience_years": 2,
+    "performance_score": 70,
+    "promotion": "No"
+  },
+  {
+    "employee_id": 4,
+    "age": 40,
+    "department": "Finance",
+    "experience_years": 12,
+    "performance_score": 92,
+    "promotion": "Yes"
+  },
+  {
+    "employee_id": 5,
+    "age": 30,
+    "department": "IT",
+    "experience_years": 5,
+    "performance_score": 85,
+    "promotion": "Yes"
+  }
+]

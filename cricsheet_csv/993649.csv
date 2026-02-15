@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lancashire Thunder
+info,team,Loughborough Lightning
+info,gender,female
+info,season,2016
+info,date,2016/08/03
+info,event,Women's Cricket Super League
+info,venue,"Haslegrave Ground, Loughborough"
+info,city,Loughborough
+info,toss_winner,Loughborough Lightning
+info,toss_decision,field
+info,umpire,ID Blackwell
+info,umpire,RJ Warren
+info,winner,Lancashire Thunder
+info,winner_runs,6
+info,player,Lancashire Thunder,HK Matthews
+info,player,Lancashire Thunder,EL Lamb
+info,player,Lancashire Thunder,AE Satterthwaite
+info,player,Lancashire Thunder,DJS Dottin
+info,player,Lancashire Thunder,NT Miles
+info,player,Lancashire Thunder,DN Wyatt
+info,player,Lancashire Thunder,L Marshall
+info,player,Lancashire Thunder,KL Cross
+info,player,Lancashire Thunder,N Brown
+info,player,Lancashire Thunder,E Threlkeld
+info,player,Lancashire Thunder,S Ecclestone
+info,player,Loughborough Lightning,GA Elwiss
+info,player,Loughborough Lightning,D van Niekerk
+info,player,Loughborough Lightning,SFM Devine
+info,player,Loughborough Lightning,EA Perry
+info,player,Loughborough Lightning,AE Jones
+info,player,Loughborough Lightning,SB Odedra
+info,player,Loughborough Lightning,E Jones
+info,player,Loughborough Lightning,TF Brookes
+info,player,Loughborough Lightning,PJ Scholfield
+info,player,Loughborough Lightning,RL Grundy
+info,player,Loughborough Lightning,BA Langston
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AE Satterthwaite,72b7ed1e
+info,registry,people,BA Langston,fb192f98
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,E Jones,971cb321
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,KL Cross,1ade138e
+info,registry,people,L Marshall,04e5a38a
+info,registry,people,N Brown,d900e56e
+info,registry,people,NT Miles,d27d0835
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RL Grundy,e149d0ae
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,SB Odedra,c4e8d728
+info,registry,people,SFM Devine,de69af96
+info,registry,people,TF Brookes,45135344
+ball,1,0.1,Lancashire Thunder,HK Matthews,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,0.2,Lancashire Thunder,HK Matthews,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,0.3,Lancashire Thunder,HK Matthews,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,0.4,Lancashire Thunder,HK Matthews,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,0.5,Lancashire Thunder,HK Matthews,EL Lamb,BA Langston,4,0,,,,,,"",""
+ball,1,0.6,Lancashire Thunder,HK Matthews,EL Lamb,BA Langston,1,0,,,,,,"",""
+ball,1,1.1,Lancashire Thunder,HK Matthews,EL Lamb,EA Perry,1,0,,,,,,"",""
+ball,1,1.2,Lancashire Thunder,EL Lamb,HK Matthews,EA Perry,0,0,,,,,,"",""
+ball,1,1.3,Lancashire Thunder,EL Lamb,HK Matthews,EA Perry,1,0,,,,,,"",""
+ball,1,1.4,Lancashire Thunder,HK Matthews,EL Lamb,EA Perry,1,0,,,,,,"",""
+ball,1,1.5,Lancashire Thunder,EL Lamb,HK Matthews,EA Perry,0,1,1,,,,,"",""
+ball,1,1.6,Lancashire Thunder,EL Lamb,HK Matthews,EA Perry,0,1,1,,,,,"",""
+ball,1,1.7,Lancashire Thunder,EL Lamb,HK Matthews,EA Perry,4,0,,,,,,"",""
+ball,1,1.8,Lancashire Thunder,EL Lamb,HK Matthews,EA Perry,4,0,,,,,,"",""
+ball,1,2.1,Lancashire Thunder,HK Matthews,EL Lamb,BA Langston,4,0,,,,,,"",""
+ball,1,2.2,Lancashire Thunder,HK Matthews,EL Lamb,BA Langston,0,0,,,,,,caught,HK Matthews
+ball,1,2.3,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,2.4,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,2.5,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,0,1,1,,,,,"",""
+ball,1,2.6,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,2.7,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,1,0,,,,,,"",""
+ball,1,3.1,Lancashire Thunder,AE Satterthwaite,EL Lamb,SFM Devine,0,0,,,,,,"",""
+ball,1,3.2,Lancashire Thunder,AE Satterthwaite,EL Lamb,SFM Devine,0,0,,,,,,"",""
+ball,1,3.3,Lancashire Thunder,AE Satterthwaite,EL Lamb,SFM Devine,0,1,1,,,,,"",""
+ball,1,3.4,Lancashire Thunder,AE Satterthwaite,EL Lamb,SFM Devine,0,0,,,,,,"",""
+ball,1,3.5,Lancashire Thunder,AE Satterthwaite,EL Lamb,SFM Devine,1,0,,,,,,"",""
+ball,1,3.6,Lancashire Thunder,EL Lamb,AE Satterthwaite,SFM Devine,0,0,,,,,,"",""
+ball,1,3.7,Lancashire Thunder,EL Lamb,AE Satterthwaite,SFM Devine,0,0,,,,,,"",""
+ball,1,4.1,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,4,0,,,,,,"",""
+ball,1,4.2,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,4.3,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,4,0,,,,,,"",""
+ball,1,4.4,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,4.5,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,4,0,,,,,,"",""
+ball,1,4.6,Lancashire Thunder,AE Satterthwaite,EL Lamb,BA Langston,0,0,,,,,,"",""
+ball,1,5.1,Lancashire Thunder,EL Lamb,AE Satterthwaite,SFM Devine,4,0,,,,,,"",""
+ball,1,5.2,Lancashire Thunder,EL Lamb,AE Satterthwaite,SFM Devine,0,0,,,,,,"",""
+ball,1,5.3,Lancashire Thunder,EL Lamb,AE Satterthwaite,SFM Devine,1,0,,,,,,"",""
+ball,1,5.4,Lancashire Thunder,AE Satterthwaite,EL Lamb,SFM Devine,4,0,,,,,,"",""
+ball,1,5.5,Lancashire Thunder,AE Satterthwaite,EL Lamb,SFM Devine,0,1,1,,,,,"",""
+ball,1,5.6,Lancashire Thunder,AE Satterthwaite,EL Lamb,SFM Devine,4,0,,,,,,"",""
+ball,1,5.7,Lancashire Thunder,AE Satterthwaite,EL Lamb,SFM Devine,6,0,,,,,,"",""
+ball,1,6.1,Lancashire Thunder,EL Lamb,AE Satterthwaite,RL Grundy,1,0,,,,,,"",""
+ball,1,6.2,Lancashire Thunder,AE Satterthwaite,EL Lamb,RL Grundy,1,0,,,,,,"",""
+ball,1,6.3,Lancashire Thunder,EL Lamb,AE Satterthwaite,RL Grundy,0,0,,,,,,"",""
+ball,1,6.4,Lancashire Thunder,EL Lamb,AE Satterthwaite,RL Grundy,0,0,,,,,,"",""
+ball,1,6.5,Lancashire Thunder,EL Lamb,AE Satterthwaite,RL Grundy,1,0,,,,,,"",""
+ball,1,6.6,Lancashire Thunder,AE Satterthwaite,EL Lamb,RL Grundy,1,0,,,,,,"",""
+ball,1,7.1,Lancashire Thunder,AE Satterthwaite,EL Lamb,D van Niekerk,1,0,,,,,,"",""
+ball,1,7.2,Lancashire Thunder,EL Lamb,AE Satterthwaite,D van Niekerk,1,0,,,,,,"",""
+ball,1,7.3,Lancashire Thunder,AE Satterthwaite,EL Lamb,D van Niekerk,1,0,,,,,,"",""
+ball,1,7.4,Lancashire Thunder,EL Lamb,AE Satterthwaite,D van Niekerk,4,0,,,,,,"",""
+ball,1,7.5,Lancashire Thunder,EL Lamb,AE Satterthwaite,D van Niekerk,1,0,,,,,,"",""
+ball,1,7.6,Lancashire Thunder,AE Satterthwaite,EL Lamb,D van Niekerk,4,0,,,,,,"",""
+ball,1,8.1,Lancashire Thunder,EL Lamb,AE Satterthwaite,RL Grundy,0,0,,,,,,"",""
+ball,1,8.2,Lancashire Thunder,EL Lamb,AE Satterthwaite,RL Grundy,4,0,,,,,,"",""
+ball,1,8.3,Lancashire Thunder,EL Lamb,AE Satterthwaite,RL Grundy,0,0,,,,,,"",""
+ball,1,8.4,Lancashire Thunder,EL Lamb,AE Satterthwaite,RL Grundy,0,0,,,,,,"",""
+ball,1,8.5,Lancashire Thunder,EL Lamb,AE Satterthwaite,RL Grundy,0,0,,,,,,stumped,EL Lamb
+ball,1,8.6,Lancashire Thunder,DJS Dottin,AE Satterthwaite,RL Grundy,0,0,,,,,,"",""
+ball,1,9.1,Lancashire Thunder,AE Satterthwaite,DJS Dottin,GA Elwiss,1,0,,,,,,"",""
+ball,1,9.2,Lancashire Thunder,DJS Dottin,AE Satterthwaite,GA Elwiss,0,0,,,,,,"",""
+ball,1,9.3,Lancashire Thunder,DJS Dottin,AE Satterthwaite,GA Elwiss,0,0,,,,,,"",""
+ball,1,9.4,Lancashire Thunder,DJS Dottin,AE Satterthwaite,GA Elwiss,1,0,,,,,,"",""
+ball,1,9.5,Lancashire Thunder,AE Satterthwaite,DJS Dottin,GA Elwiss,1,0,,,,,,"",""
+ball,1,9.6,Lancashire Thunder,DJS Dottin,AE Satterthwaite,GA Elwiss,1,0,,,,,,"",""
+ball,1,10.1,Lancashire Thunder,DJS Dottin,AE Satterthwaite,RL Grundy,4,0,,,,,,"",""
+ball,1,10.2,Lancashire Thunder,DJS Dottin,AE Satterthwaite,RL Grundy,0,0,,,,,,"",""
+ball,1,10.3,Lancashire Thunder,DJS Dottin,AE Satterthwaite,RL Grundy,4,0,,,,,,"",""
+ball,1,10.4,Lancashire Thunder,DJS Dottin,AE Satterthwaite,RL Grundy,1,0,,,,,,"",""
+ball,1,10.5,Lancashire Thunder,AE Satterthwaite,DJS Dottin,RL Grundy,0,0,,,,,,"",""
+ball,1,10.6,Lancashire Thunder,AE Satterthwaite,DJS Dottin,RL Grundy,2,0,,,,,,"",""
+ball,1,11.1,Lancashire Thunder,DJS Dottin,AE Satterthwaite,GA Elwiss,0,0,,,,,,"",""
+ball,1,11.2,Lancashire Thunder,DJS Dottin,AE Satterthwaite,GA Elwiss,6,0,,,,,,"",""
+ball,1,11.3,Lancashire Thunder,DJS Dottin,AE Satterthwaite,GA Elwiss,1,0,,,,,,"",""
+ball,1,11.4,Lancashire Thunder,AE Satterthwaite,DJS Dottin,GA Elwiss,0,0,,,,,,"",""
+ball,1,11.5,Lancashire Thunder,AE Satterthwaite,DJS Dottin,GA Elwiss,4,0,,,,,,"",""
+ball,1,11.6,Lancashire Thunder,AE Satterthwaite,DJS Dottin,GA Elwiss,4,0,,,,,,"",""
+ball,1,12.1,Lancashire Thunder,DJS Dottin,AE Satterthwaite,SB Odedra,1,0,,,,,,"",""
+ball,1,12.2,Lancashire Thunder,AE Satterthwaite,DJS Dottin,SB Odedra,4,0,,,,,,"",""
+ball,1,12.3,Lancashire Thunder,AE Satterthwaite,DJS Dottin,SB Odedra,0,0,,,,,,"",""
+ball,1,12.4,Lancashire Thunder,AE Satterthwaite,DJS Dottin,SB Odedra,0,0,,,,,,caught,AE Satterthwaite
+ball,1,12.5,Lancashire Thunder,NT Miles,DJS Dottin,SB Odedra,0,0,,,,,,"",""
+ball,1,12.6,Lancashire Thunder,NT Miles,DJS Dottin,SB Odedra,0,0,,,,,,"",""
+ball,1,13.1,Lancashire Thunder,DJS Dottin,NT Miles,D van Niekerk,0,0,,,,,,"",""
+ball,1,13.2,Lancashire Thunder,DJS Dottin,NT Miles,D van Niekerk,1,0,,,,,,"",""
+ball,1,13.3,Lancashire Thunder,NT Miles,DJS Dottin,D van Niekerk,1,0,,,,,,"",""
+ball,1,13.4,Lancashire Thunder,DJS Dottin,NT Miles,D van Niekerk,0,0,,,,,,"",""
+ball,1,13.5,Lancashire Thunder,DJS Dottin,NT Miles,D van Niekerk,0,0,,,,,,"",""
+ball,1,13.6,Lancashire Thunder,DJS Dottin,NT Miles,D van Niekerk,0,0,,,,,,"",""
+ball,1,14.1,Lancashire Thunder,NT Miles,DJS Dottin,EA Perry,0,0,,,,,,"",""
+ball,1,14.2,Lancashire Thunder,NT Miles,DJS Dottin,EA Perry,0,0,,,,,,"",""
+ball,1,14.3,Lancashire Thunder,NT Miles,DJS Dottin,EA Perry,1,0,,,,,,"",""
+ball,1,14.4,Lancashire Thunder,DJS Dottin,NT Miles,EA Perry,4,0,,,,,,"",""
+ball,1,14.5,Lancashire Thunder,DJS Dottin,NT Miles,EA Perry,0,0,,,,,,"",""
+ball,1,14.6,Lancashire Thunder,DJS Dottin,NT Miles,EA Perry,0,0,,,,,,"",""
+ball,1,15.1,Lancashire Thunder,NT Miles,DJS Dottin,D van Niekerk,0,0,,,,,,bowled,NT Miles
+ball,1,15.2,Lancashire Thunder,DN Wyatt,DJS Dottin,D van Niekerk,2,0,,,,,,"",""
+ball,1,15.3,Lancashire Thunder,DN Wyatt,DJS Dottin,D van Niekerk,0,0,,,,,,"",""
+ball,1,15.4,Lancashire Thunder,DN Wyatt,DJS Dottin,D van Niekerk,2,0,,,,,,"",""
+ball,1,15.5,Lancashire Thunder,DN Wyatt,DJS Dottin,D van Niekerk,0,0,,,,,,"",""
+ball,1,15.6,Lancashire Thunder,DN Wyatt,DJS Dottin,D van Niekerk,1,0,,,,,,"",""
+ball,1,16.1,Lancashire Thunder,DN Wyatt,DJS Dottin,EA Perry,0,0,,,,,,"",""
+ball,1,16.2,Lancashire Thunder,DN Wyatt,DJS Dottin,EA Perry,0,0,,,,,,"",""
+ball,1,16.3,Lancashire Thunder,DN Wyatt,DJS Dottin,EA Perry,1,0,,,,,,"",""
+ball,1,16.4,Lancashire Thunder,DJS Dottin,DN Wyatt,EA Perry,4,0,,,,,,"",""
+ball,1,16.5,Lancashire Thunder,DJS Dottin,DN Wyatt,EA Perry,4,0,,,,,,"",""
+ball,1,16.6,Lancashire Thunder,DJS Dottin,DN Wyatt,EA Perry,0,2,,2,,,,"",""
+ball,1,16.7,Lancashire Thunder,DJS Dottin,DN Wyatt,EA Perry,4,0,,,,,,"",""
+ball,1,17.1,Lancashire Thunder,DN Wyatt,DJS Dottin,GA Elwiss,1,0,,,,,,"",""
+ball,1,17.2,Lancashire Thunder,DJS Dottin,DN Wyatt,GA Elwiss,1,0,,,,,,"",""
+ball,1,17.3,Lancashire Thunder,DN Wyatt,DJS Dottin,GA Elwiss,0,0,,,,,,caught,DN Wyatt
+ball,1,17.4,Lancashire Thunder,DJS Dottin,L Marshall,GA Elwiss,4,0,,,,,,"",""
+ball,1,17.5,Lancashire Thunder,DJS Dottin,L Marshall,GA Elwiss,1,0,,,,,,"",""
+ball,1,17.6,Lancashire Thunder,L Marshall,DJS Dottin,GA Elwiss,1,0,,,,,,"",""
+ball,1,18.1,Lancashire Thunder,L Marshall,DJS Dottin,EA Perry,0,0,,,,,,"",""
+ball,1,18.2,Lancashire Thunder,L Marshall,DJS Dottin,EA Perry,4,0,,,,,,"",""
+ball,1,18.3,Lancashire Thunder,L Marshall,DJS Dottin,EA Perry,1,0,,,,,,"",""
+ball,1,18.4,Lancashire Thunder,DJS Dottin,L Marshall,EA Perry,0,0,,,,,,caught,DJS Dottin
+ball,1,18.5,Lancashire Thunder,L Marshall,KL Cross,EA Perry,1,0,,,,,,"",""
+ball,1,18.6,Lancashire Thunder,KL Cross,L Marshall,EA Perry,0,0,,,,,,"",""
+ball,1,19.1,Lancashire Thunder,L Marshall,KL Cross,GA Elwiss,0,0,,,,,,caught,L Marshall
+ball,1,19.2,Lancashire Thunder,N Brown,KL Cross,GA Elwiss,0,0,,,,,,"",""
+ball,1,19.3,Lancashire Thunder,N Brown,KL Cross,GA Elwiss,1,0,,,,,,"",""
+ball,1,19.4,Lancashire Thunder,KL Cross,N Brown,GA Elwiss,4,0,,,,,,"",""
+ball,1,19.5,Lancashire Thunder,KL Cross,N Brown,GA Elwiss,4,0,,,,,,"",""
+ball,1,19.6,Lancashire Thunder,KL Cross,N Brown,GA Elwiss,1,0,,,,,,run out,KL Cross
+ball,2,0.1,Loughborough Lightning,GA Elwiss,D van Niekerk,HK Matthews,0,0,,,,,,"",""
+ball,2,0.2,Loughborough Lightning,GA Elwiss,D van Niekerk,HK Matthews,0,0,,,,,,"",""
+ball,2,0.3,Loughborough Lightning,GA Elwiss,D van Niekerk,HK Matthews,1,0,,,,,,"",""
+ball,2,0.4,Loughborough Lightning,D van Niekerk,GA Elwiss,HK Matthews,0,0,,,,,,"",""
+ball,2,0.5,Loughborough Lightning,D van Niekerk,GA Elwiss,HK Matthews,0,0,,,,,,"",""
+ball,2,0.6,Loughborough Lightning,D van Niekerk,GA Elwiss,HK Matthews,0,0,,,,,,"",""
+ball,2,1.1,Loughborough Lightning,GA Elwiss,D van Niekerk,KL Cross,0,0,,,,,,"",""
+ball,2,1.2,Loughborough Lightning,GA Elwiss,D van Niekerk,KL Cross,0,0,,,,,,"",""
+ball,2,1.3,Loughborough Lightning,GA Elwiss,D van Niekerk,KL Cross,0,0,,,,,,run out,D van Niekerk
+ball,2,1.4,Loughborough Lightning,SFM Devine,GA Elwiss,KL Cross,0,0,,,,,,"",""
+ball,2,1.5,Loughborough Lightning,SFM Devine,GA Elwiss,KL Cross,1,0,,,,,,"",""
+ball,2,1.6,Loughborough Lightning,GA Elwiss,SFM Devine,KL Cross,1,0,,,,,,"",""
+ball,2,2.1,Loughborough Lightning,GA Elwiss,SFM Devine,HK Matthews,0,0,,,,,,"",""
+ball,2,2.2,Loughborough Lightning,GA Elwiss,SFM Devine,HK Matthews,6,0,,,,,,"",""
+ball,2,2.3,Loughborough Lightning,GA Elwiss,SFM Devine,HK Matthews,4,0,,,,,,"",""
+ball,2,2.4,Loughborough Lightning,GA Elwiss,SFM Devine,HK Matthews,1,0,,,,,,"",""
+ball,2,2.5,Loughborough Lightning,SFM Devine,GA Elwiss,HK Matthews,1,0,,,,,,"",""
+ball,2,2.6,Loughborough Lightning,GA Elwiss,SFM Devine,HK Matthews,4,0,,,,,,"",""
+ball,2,3.1,Loughborough Lightning,SFM Devine,GA Elwiss,KL Cross,0,0,,,,,,caught,SFM Devine
+ball,2,3.2,Loughborough Lightning,EA Perry,GA Elwiss,KL Cross,0,0,,,,,,"",""
+ball,2,3.3,Loughborough Lightning,EA Perry,GA Elwiss,KL Cross,0,0,,,,,,"",""
+ball,2,3.4,Loughborough Lightning,EA Perry,GA Elwiss,KL Cross,0,0,,,,,,"",""
+ball,2,3.5,Loughborough Lightning,EA Perry,GA Elwiss,KL Cross,0,0,,,,,,"",""
+ball,2,3.6,Loughborough Lightning,EA Perry,GA Elwiss,KL Cross,1,0,,,,,,"",""
+ball,2,4.1,Loughborough Lightning,EA Perry,GA Elwiss,S Ecclestone,0,5,5,,,,,"",""
+ball,2,4.2,Loughborough Lightning,EA Perry,GA Elwiss,S Ecclestone,1,0,,,,,,"",""
+ball,2,4.3,Loughborough Lightning,GA Elwiss,EA Perry,S Ecclestone,1,0,,,,,,"",""
+ball,2,4.4,Loughborough Lightning,EA Perry,GA Elwiss,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.5,Loughborough Lightning,EA Perry,GA Elwiss,S Ecclestone,0,0,,,,,,caught,EA Perry
+ball,2,4.6,Loughborough Lightning,AE Jones,GA Elwiss,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.7,Loughborough Lightning,AE Jones,GA Elwiss,S Ecclestone,1,0,,,,,,"",""
+ball,2,5.1,Loughborough Lightning,AE Jones,GA Elwiss,DJS Dottin,0,5,5,,,,,"",""
+ball,2,5.2,Loughborough Lightning,AE Jones,GA Elwiss,DJS Dottin,0,0,,,,,,"",""
+ball,2,5.3,Loughborough Lightning,AE Jones,GA Elwiss,DJS Dottin,1,0,,,,,,"",""
+ball,2,5.4,Loughborough Lightning,GA Elwiss,AE Jones,DJS Dottin,0,0,,,,,,"",""
+ball,2,5.5,Loughborough Lightning,GA Elwiss,AE Jones,DJS Dottin,0,1,,,,1,,"",""
+ball,2,5.6,Loughborough Lightning,AE Jones,GA Elwiss,DJS Dottin,1,0,,,,,,"",""
+ball,2,5.7,Loughborough Lightning,GA Elwiss,AE Jones,DJS Dottin,0,0,,,,,,"",""
+ball,2,6.1,Loughborough Lightning,AE Jones,GA Elwiss,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.2,Loughborough Lightning,GA Elwiss,AE Jones,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.3,Loughborough Lightning,AE Jones,GA Elwiss,S Ecclestone,2,0,,,,,,"",""
+ball,2,6.4,Loughborough Lightning,AE Jones,GA Elwiss,S Ecclestone,4,0,,,,,,"",""
+ball,2,6.5,Loughborough Lightning,AE Jones,GA Elwiss,S Ecclestone,1,0,,,,,,"",""
+ball,2,6.6,Loughborough Lightning,GA Elwiss,AE Jones,S Ecclestone,0,0,,,,,,"",""
+ball,2,7.1,Loughborough Lightning,AE Jones,GA Elwiss,DJS Dottin,4,0,,,,,,"",""
+ball,2,7.2,Loughborough Lightning,AE Jones,GA Elwiss,DJS Dottin,1,0,,,,,,"",""
+ball,2,7.3,Loughborough Lightning,GA Elwiss,AE Jones,DJS Dottin,0,5,5,,,,,"",""
+ball,2,7.4,Loughborough Lightning,GA Elwiss,AE Jones,DJS Dottin,0,1,1,,,,,"",""
+ball,2,7.5,Loughborough Lightning,GA Elwiss,AE Jones,DJS Dottin,1,0,,,,,,"",""
+ball,2,7.6,Loughborough Lightning,AE Jones,GA Elwiss,DJS Dottin,0,0,,,,,,"",""
+ball,2,7.7,Loughborough Lightning,AE Jones,GA Elwiss,DJS Dottin,0,0,,,,,,run out,GA Elwiss
+ball,2,7.8,Loughborough Lightning,AE Jones,SB Odedra,DJS Dottin,0,0,,,,,,"",""
+ball,2,8.1,Loughborough Lightning,SB Odedra,AE Jones,HK Matthews,1,0,,,,,,"",""
+ball,2,8.2,Loughborough Lightning,AE Jones,SB Odedra,HK Matthews,1,0,,,,,,"",""
+ball,2,8.3,Loughborough Lightning,SB Odedra,AE Jones,HK Matthews,4,0,,,,,,"",""
+ball,2,8.4,Loughborough Lightning,SB Odedra,AE Jones,HK Matthews,0,0,,,,,,"",""
+ball,2,8.5,Loughborough Lightning,SB Odedra,AE Jones,HK Matthews,0,0,,,,,,caught,SB Odedra
+ball,2,8.6,Loughborough Lightning,E Jones,AE Jones,HK Matthews,1,0,,,,,,"",""
+ball,2,9.1,Loughborough Lightning,E Jones,AE Jones,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,9.2,Loughborough Lightning,AE Jones,E Jones,AE Satterthwaite,2,0,,,,,,"",""
+ball,2,9.3,Loughborough Lightning,AE Jones,E Jones,AE Satterthwaite,4,0,,,,,,"",""
+ball,2,9.4,Loughborough Lightning,AE Jones,E Jones,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,9.5,Loughborough Lightning,E Jones,AE Jones,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,9.6,Loughborough Lightning,AE Jones,E Jones,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,10.1,Loughborough Lightning,AE Jones,E Jones,S Ecclestone,2,0,,,,,,"",""
+ball,2,10.2,Loughborough Lightning,AE Jones,E Jones,S Ecclestone,0,0,,,,,,caught,AE Jones
+ball,2,10.3,Loughborough Lightning,E Jones,TF Brookes,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.4,Loughborough Lightning,E Jones,TF Brookes,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.5,Loughborough Lightning,E Jones,TF Brookes,S Ecclestone,1,0,,,,,,"",""
+ball,2,10.6,Loughborough Lightning,TF Brookes,E Jones,S Ecclestone,0,0,,,,,,"",""
+ball,2,11.1,Loughborough Lightning,E Jones,TF Brookes,AE Satterthwaite,0,0,,,,,,"",""
+ball,2,11.2,Loughborough Lightning,E Jones,TF Brookes,AE Satterthwaite,0,0,,,,,,"",""
+ball,2,11.3,Loughborough Lightning,E Jones,TF Brookes,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,11.4,Loughborough Lightning,TF Brookes,E Jones,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,11.5,Loughborough Lightning,E Jones,TF Brookes,AE Satterthwaite,4,0,,,,,,"",""
+ball,2,11.6,Loughborough Lightning,E Jones,TF Brookes,AE Satterthwaite,0,2,,,,2,,"",""
+ball,2,11.7,Loughborough Lightning,E Jones,TF Brookes,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,12.1,Loughborough Lightning,E Jones,TF Brookes,S Ecclestone,1,0,,,,,,"",""
+ball,2,12.2,Loughborough Lightning,TF Brookes,E Jones,S Ecclestone,0,0,,,,,,"",""
+ball,2,12.3,Loughborough Lightning,TF Brookes,E Jones,S Ecclestone,1,0,,,,,,"",""
+ball,2,12.4,Loughborough Lightning,E Jones,TF Brookes,S Ecclestone,0,0,,,,,,lbw,E Jones
+ball,2,12.5,Loughborough Lightning,PJ Scholfield,TF Brookes,S Ecclestone,0,0,,,,,,"",""
+ball,2,12.6,Loughborough Lightning,PJ Scholfield,TF Brookes,S Ecclestone,1,0,,,,,,"",""
+ball,2,13.1,Loughborough Lightning,PJ Scholfield,TF Brookes,DJS Dottin,4,0,,,,,,"",""
+ball,2,13.2,Loughborough Lightning,PJ Scholfield,TF Brookes,DJS Dottin,0,0,,,,,,"",""
+ball,2,13.3,Loughborough Lightning,PJ Scholfield,TF Brookes,DJS Dottin,1,0,,,,,,"",""
+ball,2,13.4,Loughborough Lightning,TF Brookes,PJ Scholfield,DJS Dottin,0,0,,,,,,"",""
+ball,2,13.5,Loughborough Lightning,TF Brookes,PJ Scholfield,DJS Dottin,0,0,,,,,,"",""
+ball,2,13.6,Loughborough Lightning,TF Brookes,PJ Scholfield,DJS Dottin,6,0,,,,,,"",""
+ball,2,14.1,Loughborough Lightning,PJ Scholfield,TF Brookes,KL Cross,4,0,,,,,,"",""
+ball,2,14.2,Loughborough Lightning,PJ Scholfield,TF Brookes,KL Cross,0,0,,,,,,"",""
+ball,2,14.3,Loughborough Lightning,PJ Scholfield,TF Brookes,KL Cross,0,1,1,,,,,"",""
+ball,2,14.4,Loughborough Lightning,PJ Scholfield,TF Brookes,KL Cross,4,0,,,,,,"",""
+ball,2,14.5,Loughborough Lightning,PJ Scholfield,TF Brookes,KL Cross,4,0,,,,,,"",""
+ball,2,14.6,Loughborough Lightning,PJ Scholfield,TF Brookes,KL Cross,0,0,,,,,,"",""
+ball,2,14.7,Loughborough Lightning,PJ Scholfield,TF Brookes,KL Cross,4,0,,,,,,"",""
+ball,2,15.1,Loughborough Lightning,TF Brookes,PJ Scholfield,AE Satterthwaite,0,0,,,,,,"",""
+ball,2,15.2,Loughborough Lightning,TF Brookes,PJ Scholfield,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,15.3,Loughborough Lightning,PJ Scholfield,TF Brookes,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,15.4,Loughborough Lightning,TF Brookes,PJ Scholfield,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,15.5,Loughborough Lightning,PJ Scholfield,TF Brookes,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,15.6,Loughborough Lightning,TF Brookes,PJ Scholfield,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,16.1,Loughborough Lightning,TF Brookes,PJ Scholfield,DN Wyatt,4,0,,,,,,"",""
+ball,2,16.2,Loughborough Lightning,TF Brookes,PJ Scholfield,DN Wyatt,2,0,,,,,,"",""
+ball,2,16.3,Loughborough Lightning,TF Brookes,PJ Scholfield,DN Wyatt,0,0,,,,,,"",""
+ball,2,16.4,Loughborough Lightning,TF Brookes,PJ Scholfield,DN Wyatt,2,0,,,,,,"",""
+ball,2,16.5,Loughborough Lightning,TF Brookes,PJ Scholfield,DN Wyatt,0,0,,,,,,"",""
+ball,2,16.6,Loughborough Lightning,TF Brookes,PJ Scholfield,DN Wyatt,4,0,,,,,,"",""
+ball,2,17.1,Loughborough Lightning,PJ Scholfield,TF Brookes,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,17.2,Loughborough Lightning,TF Brookes,PJ Scholfield,AE Satterthwaite,4,0,,,,,,"",""
+ball,2,17.3,Loughborough Lightning,TF Brookes,PJ Scholfield,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,17.4,Loughborough Lightning,PJ Scholfield,TF Brookes,AE Satterthwaite,0,2,,,,2,,"",""
+ball,2,17.5,Loughborough Lightning,PJ Scholfield,TF Brookes,AE Satterthwaite,4,0,,,,,,"",""
+ball,2,17.6,Loughborough Lightning,PJ Scholfield,TF Brookes,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,18.1,Loughborough Lightning,PJ Scholfield,TF Brookes,DJS Dottin,0,0,,,,,,"",""
+ball,2,18.2,Loughborough Lightning,PJ Scholfield,TF Brookes,DJS Dottin,6,0,,,,,,"",""
+ball,2,18.3,Loughborough Lightning,PJ Scholfield,TF Brookes,DJS Dottin,0,1,,,,1,,"",""
+ball,2,18.4,Loughborough Lightning,TF Brookes,PJ Scholfield,DJS Dottin,1,0,,,,,,"",""
+ball,2,18.5,Loughborough Lightning,PJ Scholfield,TF Brookes,DJS Dottin,2,0,,,,,,"",""
+ball,2,18.6,Loughborough Lightning,PJ Scholfield,TF Brookes,DJS Dottin,0,0,,,,,,bowled,PJ Scholfield
+ball,2,19.1,Loughborough Lightning,TF Brookes,RL Grundy,HK Matthews,0,0,,,,,,"",""
+ball,2,19.2,Loughborough Lightning,TF Brookes,RL Grundy,HK Matthews,1,0,,,,,,"",""
+ball,2,19.3,Loughborough Lightning,RL Grundy,TF Brookes,HK Matthews,0,0,,,,,,"",""
+ball,2,19.4,Loughborough Lightning,RL Grundy,TF Brookes,HK Matthews,0,0,,,,,,bowled,RL Grundy
+ball,2,19.5,Loughborough Lightning,BA Langston,TF Brookes,HK Matthews,0,0,,,,,,caught,BA Langston

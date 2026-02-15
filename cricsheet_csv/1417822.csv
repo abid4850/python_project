@@ -1,0 +1,280 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Southern Brave
+info,team,Birmingham Phoenix
+info,gender,male
+info,season,2024
+info,date,2024/08/17
+info,event,The Hundred Men's Competition
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Birmingham Phoenix
+info,toss_decision,field
+info,player_of_match,JC Archer
+info,umpire,James Middlebrook
+info,umpire,M Burns
+info,reserve_umpire,Mark Newell
+info,tv_umpire,NL Bainton
+info,match_referee,PM Such
+info,outcome,tie
+info,eliminator,Southern Brave
+info,player,Southern Brave,AL Davies
+info,player,Southern Brave,JM Vince
+info,player,Southern Brave,JL du Plooy
+info,player,Southern Brave,LJ Evans
+info,player,Southern Brave,KA Pollard
+info,player,Southern Brave,CJ Jordan
+info,player,Southern Brave,JM Coles
+info,player,Southern Brave,JC Archer
+info,player,Southern Brave,AJ Hosein
+info,player,Southern Brave,C Overton
+info,player,Southern Brave,TS Mills
+info,player,Birmingham Phoenix,BM Duckett
+info,player,Birmingham Phoenix,MM Ali
+info,player,Birmingham Phoenix,JL Smith
+info,player,Birmingham Phoenix,LS Livingstone
+info,player,Birmingham Phoenix,JG Bethell
+info,player,Birmingham Phoenix,DR Mousley
+info,player,Birmingham Phoenix,BAC Howell
+info,player,Birmingham Phoenix,SA Abbott
+info,player,Birmingham Phoenix,AF Milne
+info,player,Birmingham Phoenix,TG Southee
+info,player,Birmingham Phoenix,CP Wood
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AL Davies,29ede60b
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,C Overton,e9987a94
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,JC Archer,5574750c
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JL Smith,c834c290
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JM Vince,a15618fe
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PM Such,c9f1892c
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TS Mills,245c97cb
+ball,1,0.1,Southern Brave,AL Davies,JM Vince,AF Milne,0,0,,,,,,"",""
+ball,1,0.2,Southern Brave,AL Davies,JM Vince,AF Milne,0,0,,,,,,caught,AL Davies
+ball,1,0.3,Southern Brave,JL du Plooy,JM Vince,AF Milne,1,0,,,,,,"",""
+ball,1,0.4,Southern Brave,JM Vince,JL du Plooy,AF Milne,0,0,,,,,,"",""
+ball,1,0.5,Southern Brave,JM Vince,JL du Plooy,AF Milne,0,0,,,,,,"",""
+ball,1,1.1,Southern Brave,JM Vince,JL du Plooy,TG Southee,4,0,,,,,,"",""
+ball,1,1.2,Southern Brave,JM Vince,JL du Plooy,TG Southee,1,0,,,,,,"",""
+ball,1,1.3,Southern Brave,JL du Plooy,JM Vince,TG Southee,0,0,,,,,,"",""
+ball,1,1.4,Southern Brave,JL du Plooy,JM Vince,TG Southee,1,0,,,,,,"",""
+ball,1,1.5,Southern Brave,JM Vince,JL du Plooy,TG Southee,4,0,,,,,,"",""
+ball,1,2.1,Southern Brave,JL du Plooy,JM Vince,AF Milne,0,0,,,,,,"",""
+ball,1,2.2,Southern Brave,JL du Plooy,JM Vince,AF Milne,0,0,,,,,,"",""
+ball,1,2.3,Southern Brave,JL du Plooy,JM Vince,AF Milne,3,0,,,,,,"",""
+ball,1,2.4,Southern Brave,JM Vince,JL du Plooy,AF Milne,1,0,,,,,,"",""
+ball,1,2.5,Southern Brave,JL du Plooy,JM Vince,AF Milne,4,0,,,,,,"",""
+ball,1,3.1,Southern Brave,JL du Plooy,JM Vince,CP Wood,0,0,,,,,,"",""
+ball,1,3.2,Southern Brave,JL du Plooy,JM Vince,CP Wood,0,0,,,,,,"",""
+ball,1,3.3,Southern Brave,JL du Plooy,JM Vince,CP Wood,0,0,,,,,,"",""
+ball,1,3.4,Southern Brave,JL du Plooy,JM Vince,CP Wood,0,0,,,,,,"",""
+ball,1,3.5,Southern Brave,JL du Plooy,JM Vince,CP Wood,0,0,,,,,,"",""
+ball,1,4.1,Southern Brave,JM Vince,JL du Plooy,TG Southee,0,0,,,,,,"",""
+ball,1,4.2,Southern Brave,JM Vince,JL du Plooy,TG Southee,0,0,,,,,,"",""
+ball,1,4.3,Southern Brave,JM Vince,JL du Plooy,TG Southee,1,0,,,,,,"",""
+ball,1,4.4,Southern Brave,JL du Plooy,JM Vince,TG Southee,1,0,,,,,,"",""
+ball,1,4.5,Southern Brave,JM Vince,JL du Plooy,TG Southee,0,0,,,,,,"",""
+ball,1,5.1,Southern Brave,JM Vince,JL du Plooy,CP Wood,1,0,,,,,,"",""
+ball,1,5.2,Southern Brave,JL du Plooy,JM Vince,CP Wood,4,0,,,,,,"",""
+ball,1,5.3,Southern Brave,JL du Plooy,JM Vince,CP Wood,0,0,,,,,,"",""
+ball,1,5.4,Southern Brave,JL du Plooy,JM Vince,CP Wood,0,0,,,,,,"",""
+ball,1,5.5,Southern Brave,JL du Plooy,JM Vince,CP Wood,2,0,,,,,,"",""
+ball,1,6.1,Southern Brave,JM Vince,JL du Plooy,SA Abbott,1,0,,,,,,"",""
+ball,1,6.2,Southern Brave,JL du Plooy,JM Vince,SA Abbott,1,0,,,,,,"",""
+ball,1,6.3,Southern Brave,JM Vince,JL du Plooy,SA Abbott,0,0,,,,,,"",""
+ball,1,6.4,Southern Brave,JM Vince,JL du Plooy,SA Abbott,0,0,,,,,,"",""
+ball,1,6.5,Southern Brave,JM Vince,JL du Plooy,SA Abbott,1,0,,,,,,"",""
+ball,1,7.1,Southern Brave,JL du Plooy,JM Vince,MM Ali,1,0,,,,,,"",""
+ball,1,7.2,Southern Brave,JM Vince,JL du Plooy,MM Ali,2,0,,,,,,"",""
+ball,1,7.3,Southern Brave,JM Vince,JL du Plooy,MM Ali,1,0,,,,,,"",""
+ball,1,7.4,Southern Brave,JL du Plooy,JM Vince,MM Ali,1,0,,,,,,"",""
+ball,1,7.5,Southern Brave,JM Vince,JL du Plooy,MM Ali,1,0,,,,,,"",""
+ball,1,8.1,Southern Brave,JM Vince,JL du Plooy,SA Abbott,4,0,,,,,,"",""
+ball,1,8.2,Southern Brave,JM Vince,JL du Plooy,SA Abbott,0,0,,,,,,"",""
+ball,1,8.3,Southern Brave,JM Vince,JL du Plooy,SA Abbott,0,0,,,,,,"",""
+ball,1,8.4,Southern Brave,JM Vince,JL du Plooy,SA Abbott,1,0,,,,,,"",""
+ball,1,8.5,Southern Brave,JL du Plooy,JM Vince,SA Abbott,4,0,,,,,,"",""
+ball,1,9.1,Southern Brave,JL du Plooy,JM Vince,BAC Howell,1,0,,,,,,"",""
+ball,1,9.2,Southern Brave,JM Vince,JL du Plooy,BAC Howell,1,0,,,,,,"",""
+ball,1,9.3,Southern Brave,JL du Plooy,JM Vince,BAC Howell,4,0,,,,,,"",""
+ball,1,9.4,Southern Brave,JL du Plooy,JM Vince,BAC Howell,1,0,,,,,,"",""
+ball,1,9.5,Southern Brave,JM Vince,JL du Plooy,BAC Howell,1,0,,,,,,"",""
+ball,1,10.1,Southern Brave,JM Vince,JL du Plooy,MM Ali,1,0,,,,,,"",""
+ball,1,10.2,Southern Brave,JL du Plooy,JM Vince,MM Ali,1,0,,,,,,"",""
+ball,1,10.3,Southern Brave,JM Vince,JL du Plooy,MM Ali,4,0,,,,,,"",""
+ball,1,10.4,Southern Brave,JM Vince,JL du Plooy,MM Ali,4,0,,,,,,"",""
+ball,1,10.5,Southern Brave,JM Vince,JL du Plooy,MM Ali,0,1,,,,1,,"",""
+ball,1,11.1,Southern Brave,JL du Plooy,JM Vince,CP Wood,4,0,,,,,,"",""
+ball,1,11.2,Southern Brave,JL du Plooy,JM Vince,CP Wood,2,0,,,,,,"",""
+ball,1,11.3,Southern Brave,JL du Plooy,JM Vince,CP Wood,1,0,,,,,,"",""
+ball,1,11.4,Southern Brave,JM Vince,JL du Plooy,CP Wood,1,0,,,,,,"",""
+ball,1,11.5,Southern Brave,JL du Plooy,JM Vince,CP Wood,1,0,,,,,,"",""
+ball,1,12.1,Southern Brave,JL du Plooy,JM Vince,AF Milne,1,0,,,,,,"",""
+ball,1,12.2,Southern Brave,JM Vince,JL du Plooy,AF Milne,1,0,,,,,,"",""
+ball,1,12.3,Southern Brave,JL du Plooy,JM Vince,AF Milne,0,0,,,,,,"",""
+ball,1,12.4,Southern Brave,JL du Plooy,JM Vince,AF Milne,0,0,,,,,,caught,JL du Plooy
+ball,1,12.5,Southern Brave,LJ Evans,JM Vince,AF Milne,4,0,,,,,,"",""
+ball,1,13.1,Southern Brave,LJ Evans,JM Vince,TG Southee,0,1,,,,1,,"",""
+ball,1,13.2,Southern Brave,JM Vince,LJ Evans,TG Southee,1,0,,,,,,"",""
+ball,1,13.3,Southern Brave,LJ Evans,JM Vince,TG Southee,0,0,,,,,,"",""
+ball,1,13.4,Southern Brave,LJ Evans,JM Vince,TG Southee,0,1,,,,1,,"",""
+ball,1,13.5,Southern Brave,JM Vince,LJ Evans,TG Southee,1,0,,,,,,"",""
+ball,1,14.1,Southern Brave,JM Vince,LJ Evans,BAC Howell,1,0,,,,,,"",""
+ball,1,14.2,Southern Brave,LJ Evans,JM Vince,BAC Howell,1,0,,,,,,"",""
+ball,1,14.3,Southern Brave,JM Vince,LJ Evans,BAC Howell,4,0,,,,,,"",""
+ball,1,14.4,Southern Brave,JM Vince,LJ Evans,BAC Howell,0,0,,,,,,caught,JM Vince
+ball,1,14.5,Southern Brave,KA Pollard,LJ Evans,BAC Howell,0,0,,,,,,"",""
+ball,1,15.1,Southern Brave,KA Pollard,LJ Evans,SA Abbott,1,0,,,,,,"",""
+ball,1,15.2,Southern Brave,LJ Evans,KA Pollard,SA Abbott,1,0,,,,,,"",""
+ball,1,15.3,Southern Brave,KA Pollard,LJ Evans,SA Abbott,0,0,,,,,,"",""
+ball,1,15.4,Southern Brave,KA Pollard,LJ Evans,SA Abbott,1,0,,,,,,"",""
+ball,1,15.5,Southern Brave,LJ Evans,KA Pollard,SA Abbott,2,0,,,,,,"",""
+ball,1,16.1,Southern Brave,KA Pollard,LJ Evans,CP Wood,0,0,,,,,,caught,KA Pollard
+ball,1,16.2,Southern Brave,CJ Jordan,LJ Evans,CP Wood,2,0,,,,,,"",""
+ball,1,16.3,Southern Brave,CJ Jordan,LJ Evans,CP Wood,1,0,,,,,,"",""
+ball,1,16.4,Southern Brave,LJ Evans,CJ Jordan,CP Wood,0,0,,,,,,"",""
+ball,1,16.5,Southern Brave,LJ Evans,CJ Jordan,CP Wood,6,0,,,,,,"",""
+ball,1,17.1,Southern Brave,LJ Evans,CJ Jordan,AF Milne,0,0,,,,,,caught,LJ Evans
+ball,1,17.2,Southern Brave,JM Coles,CJ Jordan,AF Milne,1,0,,,,,,"",""
+ball,1,17.3,Southern Brave,CJ Jordan,JM Coles,AF Milne,1,0,,,,,,"",""
+ball,1,17.4,Southern Brave,JM Coles,CJ Jordan,AF Milne,0,0,,,,,,"",""
+ball,1,17.5,Southern Brave,JM Coles,CJ Jordan,AF Milne,1,0,,,,,,"",""
+ball,1,18.1,Southern Brave,JM Coles,CJ Jordan,TG Southee,1,0,,,,,,"",""
+ball,1,18.2,Southern Brave,CJ Jordan,JM Coles,TG Southee,1,0,,,,,,"",""
+ball,1,18.3,Southern Brave,JM Coles,CJ Jordan,TG Southee,1,0,,,,,,"",""
+ball,1,18.4,Southern Brave,CJ Jordan,JM Coles,TG Southee,0,0,,,,,,"",""
+ball,1,18.5,Southern Brave,CJ Jordan,JM Coles,TG Southee,1,0,,,,,,"",""
+ball,1,19.1,Southern Brave,JM Coles,CJ Jordan,SA Abbott,0,0,,,,,,caught,JM Coles
+ball,1,19.2,Southern Brave,JC Archer,CJ Jordan,SA Abbott,1,0,,,,,,"",""
+ball,1,19.3,Southern Brave,CJ Jordan,JC Archer,SA Abbott,6,0,,,,,,"",""
+ball,1,19.4,Southern Brave,CJ Jordan,JC Archer,SA Abbott,6,0,,,,,,"",""
+ball,1,19.5,Southern Brave,CJ Jordan,JC Archer,SA Abbott,2,0,,,,,,"",""
+ball,2,0.1,Birmingham Phoenix,BM Duckett,MM Ali,C Overton,1,0,,,,,,"",""
+ball,2,0.2,Birmingham Phoenix,MM Ali,BM Duckett,C Overton,0,0,,,,,,"",""
+ball,2,0.3,Birmingham Phoenix,MM Ali,BM Duckett,C Overton,0,0,,,,,,"",""
+ball,2,0.4,Birmingham Phoenix,MM Ali,BM Duckett,C Overton,1,0,,,,,,"",""
+ball,2,0.5,Birmingham Phoenix,BM Duckett,MM Ali,C Overton,0,0,,,,,,"",""
+ball,2,1.1,Birmingham Phoenix,BM Duckett,MM Ali,JC Archer,6,0,,,,,,"",""
+ball,2,1.2,Birmingham Phoenix,BM Duckett,MM Ali,JC Archer,0,0,,,,,,"",""
+ball,2,1.3,Birmingham Phoenix,BM Duckett,MM Ali,JC Archer,0,0,,,,,,"",""
+ball,2,1.4,Birmingham Phoenix,BM Duckett,MM Ali,JC Archer,0,0,,,,,,"",""
+ball,2,1.5,Birmingham Phoenix,BM Duckett,MM Ali,JC Archer,0,0,,,,,,"",""
+ball,2,2.1,Birmingham Phoenix,MM Ali,BM Duckett,C Overton,0,0,,,,,,"",""
+ball,2,2.2,Birmingham Phoenix,MM Ali,BM Duckett,C Overton,1,0,,,,,,"",""
+ball,2,2.3,Birmingham Phoenix,BM Duckett,MM Ali,C Overton,0,0,,,,,,caught,BM Duckett
+ball,2,2.4,Birmingham Phoenix,JL Smith,MM Ali,C Overton,0,0,,,,,,"",""
+ball,2,2.5,Birmingham Phoenix,JL Smith,MM Ali,C Overton,0,0,,,,,,"",""
+ball,2,3.1,Birmingham Phoenix,JL Smith,MM Ali,JC Archer,1,0,,,,,,"",""
+ball,2,3.2,Birmingham Phoenix,MM Ali,JL Smith,JC Archer,4,0,,,,,,"",""
+ball,2,3.3,Birmingham Phoenix,MM Ali,JL Smith,JC Archer,0,0,,,,,,"",""
+ball,2,3.4,Birmingham Phoenix,MM Ali,JL Smith,JC Archer,2,0,,,,,,"",""
+ball,2,3.5,Birmingham Phoenix,MM Ali,JL Smith,JC Archer,0,0,,,,,,"",""
+ball,2,4.1,Birmingham Phoenix,JL Smith,MM Ali,C Overton,4,0,,,,,,"",""
+ball,2,4.2,Birmingham Phoenix,JL Smith,MM Ali,C Overton,4,0,,,,,,"",""
+ball,2,4.3,Birmingham Phoenix,JL Smith,MM Ali,C Overton,0,0,,,,,,"",""
+ball,2,4.4,Birmingham Phoenix,JL Smith,MM Ali,C Overton,1,0,,,,,,"",""
+ball,2,4.5,Birmingham Phoenix,MM Ali,JL Smith,C Overton,0,0,,,,,,"",""
+ball,2,5.1,Birmingham Phoenix,MM Ali,JL Smith,TS Mills,1,0,,,,,,"",""
+ball,2,5.2,Birmingham Phoenix,JL Smith,MM Ali,TS Mills,0,0,,,,,,"",""
+ball,2,5.3,Birmingham Phoenix,JL Smith,MM Ali,TS Mills,0,0,,,,,,caught,JL Smith
+ball,2,5.4,Birmingham Phoenix,LS Livingstone,MM Ali,TS Mills,0,0,,,,,,"",""
+ball,2,5.5,Birmingham Phoenix,LS Livingstone,MM Ali,TS Mills,0,0,,,,,,"",""
+ball,2,6.1,Birmingham Phoenix,MM Ali,LS Livingstone,CJ Jordan,4,0,,,,,,"",""
+ball,2,6.2,Birmingham Phoenix,MM Ali,LS Livingstone,CJ Jordan,0,0,,,,,,"",""
+ball,2,6.3,Birmingham Phoenix,MM Ali,LS Livingstone,CJ Jordan,1,0,,,,,,"",""
+ball,2,6.4,Birmingham Phoenix,LS Livingstone,MM Ali,CJ Jordan,0,0,,,,,,"",""
+ball,2,6.5,Birmingham Phoenix,LS Livingstone,MM Ali,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.1,Birmingham Phoenix,MM Ali,LS Livingstone,C Overton,0,0,,,,,,"",""
+ball,2,7.2,Birmingham Phoenix,MM Ali,LS Livingstone,C Overton,0,0,,,,,,"",""
+ball,2,7.3,Birmingham Phoenix,MM Ali,LS Livingstone,C Overton,2,0,,,,,,"",""
+ball,2,7.4,Birmingham Phoenix,MM Ali,LS Livingstone,C Overton,1,0,,,,,,"",""
+ball,2,7.5,Birmingham Phoenix,LS Livingstone,MM Ali,C Overton,0,0,,,,,,"",""
+ball,2,8.1,Birmingham Phoenix,MM Ali,LS Livingstone,AJ Hosein,2,0,,,,,,"",""
+ball,2,8.2,Birmingham Phoenix,MM Ali,LS Livingstone,AJ Hosein,1,0,,,,,,"",""
+ball,2,8.3,Birmingham Phoenix,LS Livingstone,MM Ali,AJ Hosein,1,0,,,,,,"",""
+ball,2,8.4,Birmingham Phoenix,MM Ali,LS Livingstone,AJ Hosein,1,0,,,,,,"",""
+ball,2,8.5,Birmingham Phoenix,LS Livingstone,MM Ali,AJ Hosein,1,0,,,,,,"",""
+ball,2,9.1,Birmingham Phoenix,MM Ali,LS Livingstone,AJ Hosein,2,0,,,,,,"",""
+ball,2,9.2,Birmingham Phoenix,MM Ali,LS Livingstone,AJ Hosein,1,0,,,,,,"",""
+ball,2,9.3,Birmingham Phoenix,LS Livingstone,MM Ali,AJ Hosein,1,0,,,,,,"",""
+ball,2,9.4,Birmingham Phoenix,MM Ali,LS Livingstone,AJ Hosein,0,0,,,,,,"",""
+ball,2,9.5,Birmingham Phoenix,MM Ali,LS Livingstone,AJ Hosein,0,0,,,,,,caught,MM Ali
+ball,2,10.1,Birmingham Phoenix,LS Livingstone,JG Bethell,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.2,Birmingham Phoenix,JG Bethell,LS Livingstone,CJ Jordan,0,0,,,,,,"",""
+ball,2,10.3,Birmingham Phoenix,JG Bethell,LS Livingstone,CJ Jordan,4,0,,,,,,"",""
+ball,2,10.4,Birmingham Phoenix,JG Bethell,LS Livingstone,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.5,Birmingham Phoenix,LS Livingstone,JG Bethell,CJ Jordan,1,0,,,,,,"",""
+ball,2,11.1,Birmingham Phoenix,JG Bethell,LS Livingstone,TS Mills,1,0,,,,,,"",""
+ball,2,11.2,Birmingham Phoenix,LS Livingstone,JG Bethell,TS Mills,1,0,,,,,,"",""
+ball,2,11.3,Birmingham Phoenix,JG Bethell,LS Livingstone,TS Mills,1,0,,,,,,"",""
+ball,2,11.4,Birmingham Phoenix,LS Livingstone,JG Bethell,TS Mills,6,0,,,,,,"",""
+ball,2,11.5,Birmingham Phoenix,LS Livingstone,JG Bethell,TS Mills,0,1,1,,,,,"",""
+ball,2,11.6,Birmingham Phoenix,LS Livingstone,JG Bethell,TS Mills,4,0,,,,,,"",""
+ball,2,12.1,Birmingham Phoenix,JG Bethell,LS Livingstone,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.2,Birmingham Phoenix,LS Livingstone,JG Bethell,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.3,Birmingham Phoenix,JG Bethell,LS Livingstone,AJ Hosein,1,0,,,,,,"",""
+ball,2,12.4,Birmingham Phoenix,LS Livingstone,JG Bethell,AJ Hosein,6,0,,,,,,"",""
+ball,2,12.5,Birmingham Phoenix,LS Livingstone,JG Bethell,AJ Hosein,1,0,,,,,,"",""
+ball,2,13.1,Birmingham Phoenix,JG Bethell,LS Livingstone,JC Archer,0,0,,,,,,"",""
+ball,2,13.2,Birmingham Phoenix,JG Bethell,LS Livingstone,JC Archer,0,0,,,,,,"",""
+ball,2,13.3,Birmingham Phoenix,JG Bethell,LS Livingstone,JC Archer,6,0,,,,,,"",""
+ball,2,13.4,Birmingham Phoenix,JG Bethell,LS Livingstone,JC Archer,1,0,,,,,,"",""
+ball,2,13.5,Birmingham Phoenix,LS Livingstone,JG Bethell,JC Archer,6,0,,,,,,"",""
+ball,2,14.1,Birmingham Phoenix,JG Bethell,LS Livingstone,TS Mills,1,0,,,,,,"",""
+ball,2,14.2,Birmingham Phoenix,LS Livingstone,JG Bethell,TS Mills,1,0,,,,,,"",""
+ball,2,14.3,Birmingham Phoenix,JG Bethell,LS Livingstone,TS Mills,0,1,,,,1,,"",""
+ball,2,14.4,Birmingham Phoenix,LS Livingstone,JG Bethell,TS Mills,1,0,,,,,,"",""
+ball,2,14.5,Birmingham Phoenix,JG Bethell,LS Livingstone,TS Mills,0,0,,,,,,caught,JG Bethell
+ball,2,15.1,Birmingham Phoenix,DR Mousley,LS Livingstone,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.2,Birmingham Phoenix,LS Livingstone,DR Mousley,CJ Jordan,0,0,,,,,,"",""
+ball,2,15.3,Birmingham Phoenix,LS Livingstone,DR Mousley,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.4,Birmingham Phoenix,DR Mousley,LS Livingstone,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.5,Birmingham Phoenix,LS Livingstone,DR Mousley,CJ Jordan,1,0,,,,,,"",""
+ball,2,16.1,Birmingham Phoenix,LS Livingstone,DR Mousley,JC Archer,0,0,,,,,,"",""
+ball,2,16.2,Birmingham Phoenix,LS Livingstone,DR Mousley,JC Archer,2,0,,,,,,"",""
+ball,2,16.3,Birmingham Phoenix,LS Livingstone,DR Mousley,JC Archer,1,0,,,,,,"",""
+ball,2,16.4,Birmingham Phoenix,DR Mousley,LS Livingstone,JC Archer,0,2,,,,2,,"",""
+ball,2,16.5,Birmingham Phoenix,DR Mousley,LS Livingstone,JC Archer,0,0,,,,,,bowled,DR Mousley
+ball,2,17.1,Birmingham Phoenix,BAC Howell,LS Livingstone,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.2,Birmingham Phoenix,LS Livingstone,BAC Howell,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.3,Birmingham Phoenix,BAC Howell,LS Livingstone,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.4,Birmingham Phoenix,LS Livingstone,BAC Howell,CJ Jordan,4,0,,,,,,"",""
+ball,2,17.5,Birmingham Phoenix,LS Livingstone,BAC Howell,CJ Jordan,1,0,,,,,,"",""
+ball,2,18.1,Birmingham Phoenix,LS Livingstone,BAC Howell,TS Mills,1,0,,,,,,"",""
+ball,2,18.2,Birmingham Phoenix,BAC Howell,LS Livingstone,TS Mills,0,0,,,,,,caught,BAC Howell
+ball,2,18.3,Birmingham Phoenix,SA Abbott,LS Livingstone,TS Mills,0,1,,,1,,,"",""
+ball,2,18.4,Birmingham Phoenix,LS Livingstone,SA Abbott,TS Mills,0,0,,,,,,"",""
+ball,2,18.5,Birmingham Phoenix,LS Livingstone,SA Abbott,TS Mills,4,0,,,,,,"",""
+ball,2,19.1,Birmingham Phoenix,LS Livingstone,SA Abbott,AJ Hosein,6,2,,2,,,,"",""
+ball,2,19.2,Birmingham Phoenix,LS Livingstone,SA Abbott,AJ Hosein,0,0,,,,,,"",""
+ball,2,19.3,Birmingham Phoenix,LS Livingstone,SA Abbott,AJ Hosein,0,0,,,,,,caught,LS Livingstone
+ball,2,19.4,Birmingham Phoenix,AF Milne,SA Abbott,AJ Hosein,0,0,,,,,,"",""
+ball,2,19.5,Birmingham Phoenix,AF Milne,SA Abbott,AJ Hosein,1,0,,,,,,"",""
+ball,2,19.6,Birmingham Phoenix,SA Abbott,AF Milne,AJ Hosein,0,1,,,,1,,"",""
+ball,3,0.1,Birmingham Phoenix,LS Livingstone,JL Smith,JC Archer,0,0,,,,,,caught,LS Livingstone
+ball,3,0.2,Birmingham Phoenix,JG Bethell,JL Smith,JC Archer,4,0,,,,,,"",""
+ball,3,0.3,Birmingham Phoenix,JG Bethell,JL Smith,JC Archer,0,1,,,,1,,"",""
+ball,3,0.4,Birmingham Phoenix,JL Smith,JG Bethell,JC Archer,1,0,,,,,,"",""
+ball,3,0.5,Birmingham Phoenix,JG Bethell,JL Smith,JC Archer,1,0,,,,,,run out,JG Bethell
+ball,4,0.1,Southern Brave,KA Pollard,CJ Jordan,AF Milne,1,0,,,,,,"",""
+ball,4,0.2,Southern Brave,CJ Jordan,KA Pollard,AF Milne,4,0,,,,,,"",""
+ball,4,0.3,Southern Brave,CJ Jordan,KA Pollard,AF Milne,2,0,,,,,,"",""
+ball,4,0.4,Southern Brave,CJ Jordan,KA Pollard,AF Milne,4,0,,,,,,"",""

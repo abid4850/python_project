@@ -1,0 +1,235 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey Stars
+info,team,Loughborough Lightning
+info,gender,female
+info,season,2018
+info,date,2018/08/02
+info,event,Women's Cricket Super League
+info,match_number,13
+info,venue,"Haslegrave Ground, Loughborough"
+info,city,Loughborough
+info,toss_winner,Surrey Stars
+info,toss_decision,bat
+info,player_of_match,SFM Devine
+info,umpire,Chris Watts
+info,umpire,Rob White
+info,winner,Loughborough Lightning
+info,winner_wickets,9
+info,player,Surrey Stars,BF Smith
+info,player,Surrey Stars,L Lee
+info,player,Surrey Stars,SJ Taylor
+info,player,Surrey Stars,NR Sciver
+info,player,Surrey Stars,D van Niekerk
+info,player,Surrey Stars,SIR Dunkley
+info,player,Surrey Stars,M Kapp
+info,player,Surrey Stars,LA Marsh
+info,player,Surrey Stars,GJ Gibbs
+info,player,Surrey Stars,MK Villiers
+info,player,Surrey Stars,E Gray
+info,player,Loughborough Lightning,RL Haynes
+info,player,Loughborough Lightning,SFM Devine
+info,player,Loughborough Lightning,AE Jones
+info,player,Loughborough Lightning,EJ Villani
+info,player,Loughborough Lightning,GA Elwiss
+info,player,Loughborough Lightning,GL Adams
+info,player,Loughborough Lightning,JL Gunn
+info,player,Loughborough Lightning,S Glenn
+info,player,Loughborough Lightning,LF Higham
+info,player,Loughborough Lightning,KL Gordon
+info,player,Loughborough Lightning,LCN Smith
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,E Gray,58717de2
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GJ Gibbs,04381402
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,JL Gunn,907c51ab
+info,registry,people,KL Gordon,00823a96
+info,registry,people,L Lee,7b01ce83
+info,registry,people,LA Marsh,9706e64b
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,Rob White,59b91222
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SJ Taylor,e6f36f83
+ball,1,0.1,Surrey Stars,BF Smith,L Lee,SFM Devine,0,0,,,,,,"",""
+ball,1,0.2,Surrey Stars,BF Smith,L Lee,SFM Devine,0,0,,,,,,"",""
+ball,1,0.3,Surrey Stars,BF Smith,L Lee,SFM Devine,0,0,,,,,,"",""
+ball,1,0.4,Surrey Stars,BF Smith,L Lee,SFM Devine,0,0,,,,,,"",""
+ball,1,0.5,Surrey Stars,BF Smith,L Lee,SFM Devine,0,1,,1,,,,"",""
+ball,1,0.6,Surrey Stars,BF Smith,L Lee,SFM Devine,0,0,,,,,,"",""
+ball,1,0.7,Surrey Stars,BF Smith,L Lee,SFM Devine,0,0,,,,,,"",""
+ball,1,1.1,Surrey Stars,L Lee,BF Smith,LCN Smith,0,0,,,,,,"",""
+ball,1,1.2,Surrey Stars,L Lee,BF Smith,LCN Smith,1,0,,,,,,"",""
+ball,1,1.3,Surrey Stars,BF Smith,L Lee,LCN Smith,1,0,,,,,,"",""
+ball,1,1.4,Surrey Stars,L Lee,BF Smith,LCN Smith,2,0,,,,,,"",""
+ball,1,1.5,Surrey Stars,L Lee,BF Smith,LCN Smith,0,0,,,,,,"",""
+ball,1,1.6,Surrey Stars,L Lee,BF Smith,LCN Smith,0,0,,,,,,caught,L Lee
+ball,1,2.1,Surrey Stars,BF Smith,SJ Taylor,SFM Devine,0,0,,,,,,caught,BF Smith
+ball,1,2.2,Surrey Stars,SJ Taylor,NR Sciver,SFM Devine,1,0,,,,,,"",""
+ball,1,2.3,Surrey Stars,NR Sciver,SJ Taylor,SFM Devine,0,1,1,,,,,"",""
+ball,1,2.4,Surrey Stars,NR Sciver,SJ Taylor,SFM Devine,0,0,,,,,,"",""
+ball,1,2.5,Surrey Stars,NR Sciver,SJ Taylor,SFM Devine,1,0,,,,,,"",""
+ball,1,2.6,Surrey Stars,SJ Taylor,NR Sciver,SFM Devine,1,0,,,,,,"",""
+ball,1,2.7,Surrey Stars,NR Sciver,SJ Taylor,SFM Devine,1,0,,,,,,"",""
+ball,1,3.1,Surrey Stars,NR Sciver,SJ Taylor,JL Gunn,1,0,,,,,,"",""
+ball,1,3.2,Surrey Stars,SJ Taylor,NR Sciver,JL Gunn,1,0,,,,,,"",""
+ball,1,3.3,Surrey Stars,NR Sciver,SJ Taylor,JL Gunn,0,0,,,,,,"",""
+ball,1,3.4,Surrey Stars,NR Sciver,SJ Taylor,JL Gunn,1,0,,,,,,"",""
+ball,1,3.5,Surrey Stars,SJ Taylor,NR Sciver,JL Gunn,0,0,,,,,,"",""
+ball,1,3.6,Surrey Stars,SJ Taylor,NR Sciver,JL Gunn,2,0,,,,,,"",""
+ball,1,4.1,Surrey Stars,NR Sciver,SJ Taylor,SFM Devine,4,0,,,,,,"",""
+ball,1,4.2,Surrey Stars,NR Sciver,SJ Taylor,SFM Devine,0,0,,,,,,"",""
+ball,1,4.3,Surrey Stars,NR Sciver,SJ Taylor,SFM Devine,0,0,,,,,,"",""
+ball,1,4.4,Surrey Stars,NR Sciver,SJ Taylor,SFM Devine,1,0,,,,,,"",""
+ball,1,4.5,Surrey Stars,SJ Taylor,NR Sciver,SFM Devine,0,4,,,,4,,"",""
+ball,1,4.6,Surrey Stars,SJ Taylor,NR Sciver,SFM Devine,1,0,,,,,,"",""
+ball,1,5.1,Surrey Stars,SJ Taylor,NR Sciver,JL Gunn,1,0,,,,,,"",""
+ball,1,5.2,Surrey Stars,NR Sciver,SJ Taylor,JL Gunn,4,0,,,,,,"",""
+ball,1,5.3,Surrey Stars,NR Sciver,SJ Taylor,JL Gunn,0,0,,,,,,"",""
+ball,1,5.4,Surrey Stars,NR Sciver,SJ Taylor,JL Gunn,1,0,,,,,,"",""
+ball,1,5.5,Surrey Stars,SJ Taylor,NR Sciver,JL Gunn,0,0,,,,,,stumped,SJ Taylor
+ball,1,5.6,Surrey Stars,D van Niekerk,NR Sciver,JL Gunn,0,0,,,,,,bowled,D van Niekerk
+ball,1,6.1,Surrey Stars,NR Sciver,SIR Dunkley,S Glenn,4,0,,,,,,"",""
+ball,1,6.2,Surrey Stars,NR Sciver,SIR Dunkley,S Glenn,0,0,,,,,,"",""
+ball,1,6.3,Surrey Stars,NR Sciver,SIR Dunkley,S Glenn,4,0,,,,,,"",""
+ball,1,6.4,Surrey Stars,NR Sciver,SIR Dunkley,S Glenn,1,0,,,,,,"",""
+ball,1,6.5,Surrey Stars,SIR Dunkley,NR Sciver,S Glenn,0,0,,,,,,"",""
+ball,1,6.6,Surrey Stars,SIR Dunkley,NR Sciver,S Glenn,0,0,,,,,,"",""
+ball,1,7.1,Surrey Stars,NR Sciver,SIR Dunkley,JL Gunn,4,0,,,,,,"",""
+ball,1,7.2,Surrey Stars,NR Sciver,SIR Dunkley,JL Gunn,0,0,,,,,,"",""
+ball,1,7.3,Surrey Stars,NR Sciver,SIR Dunkley,JL Gunn,1,0,,,,,,"",""
+ball,1,7.4,Surrey Stars,SIR Dunkley,NR Sciver,JL Gunn,0,0,,,,,,lbw,SIR Dunkley
+ball,1,7.5,Surrey Stars,M Kapp,NR Sciver,JL Gunn,0,0,,,,,,"",""
+ball,1,7.6,Surrey Stars,M Kapp,NR Sciver,JL Gunn,1,0,,,,,,"",""
+ball,1,8.1,Surrey Stars,M Kapp,NR Sciver,LCN Smith,0,0,,,,,,"",""
+ball,1,8.2,Surrey Stars,M Kapp,NR Sciver,LCN Smith,0,0,,,,,,"",""
+ball,1,8.3,Surrey Stars,M Kapp,NR Sciver,LCN Smith,1,0,,,,,,"",""
+ball,1,8.4,Surrey Stars,NR Sciver,M Kapp,LCN Smith,0,0,,,,,,"",""
+ball,1,8.5,Surrey Stars,NR Sciver,M Kapp,LCN Smith,2,0,,,,,,"",""
+ball,1,8.6,Surrey Stars,NR Sciver,M Kapp,LCN Smith,1,0,,,,,,"",""
+ball,1,9.1,Surrey Stars,NR Sciver,M Kapp,KL Gordon,0,1,,,,1,,"",""
+ball,1,9.2,Surrey Stars,M Kapp,NR Sciver,KL Gordon,1,0,,,,,,"",""
+ball,1,9.3,Surrey Stars,NR Sciver,M Kapp,KL Gordon,2,0,,,,,,"",""
+ball,1,9.4,Surrey Stars,NR Sciver,M Kapp,KL Gordon,1,0,,,,,,"",""
+ball,1,9.5,Surrey Stars,M Kapp,NR Sciver,KL Gordon,1,0,,,,,,"",""
+ball,1,9.6,Surrey Stars,NR Sciver,M Kapp,KL Gordon,1,0,,,,,,"",""
+ball,1,10.1,Surrey Stars,NR Sciver,M Kapp,S Glenn,1,0,,,,,,"",""
+ball,1,10.2,Surrey Stars,M Kapp,NR Sciver,S Glenn,1,0,,,,,,"",""
+ball,1,10.3,Surrey Stars,NR Sciver,M Kapp,S Glenn,1,0,,,,,,"",""
+ball,1,10.4,Surrey Stars,M Kapp,NR Sciver,S Glenn,4,0,,,,,,"",""
+ball,1,10.5,Surrey Stars,M Kapp,NR Sciver,S Glenn,1,0,,,,,,"",""
+ball,1,10.6,Surrey Stars,NR Sciver,M Kapp,S Glenn,4,0,,,,,,"",""
+ball,1,11.1,Surrey Stars,M Kapp,NR Sciver,GA Elwiss,2,0,,,,,,"",""
+ball,1,11.2,Surrey Stars,M Kapp,NR Sciver,GA Elwiss,1,0,,,,,,"",""
+ball,1,11.3,Surrey Stars,NR Sciver,M Kapp,GA Elwiss,2,0,,,,,,"",""
+ball,1,11.4,Surrey Stars,NR Sciver,M Kapp,GA Elwiss,0,0,,,,,,"",""
+ball,1,11.5,Surrey Stars,NR Sciver,M Kapp,GA Elwiss,1,0,,,,,,"",""
+ball,1,11.6,Surrey Stars,M Kapp,NR Sciver,GA Elwiss,4,0,,,,,,"",""
+ball,1,12.1,Surrey Stars,NR Sciver,M Kapp,KL Gordon,1,0,,,,,,"",""
+ball,1,12.2,Surrey Stars,M Kapp,NR Sciver,KL Gordon,1,0,,,,,,"",""
+ball,1,12.3,Surrey Stars,NR Sciver,M Kapp,KL Gordon,0,0,,,,,,caught,NR Sciver
+ball,1,12.4,Surrey Stars,LA Marsh,M Kapp,KL Gordon,0,0,,,,,,"",""
+ball,1,12.5,Surrey Stars,LA Marsh,M Kapp,KL Gordon,0,0,,,,,,"",""
+ball,1,12.6,Surrey Stars,LA Marsh,M Kapp,KL Gordon,0,0,,,,,,"",""
+ball,1,13.1,Surrey Stars,M Kapp,LA Marsh,LCN Smith,1,0,,,,,,"",""
+ball,1,13.2,Surrey Stars,LA Marsh,M Kapp,LCN Smith,4,0,,,,,,"",""
+ball,1,13.3,Surrey Stars,LA Marsh,M Kapp,LCN Smith,0,0,,,,,,"",""
+ball,1,13.4,Surrey Stars,LA Marsh,M Kapp,LCN Smith,0,0,,,,,,"",""
+ball,1,13.5,Surrey Stars,LA Marsh,M Kapp,LCN Smith,0,0,,,,,,"",""
+ball,1,13.6,Surrey Stars,LA Marsh,M Kapp,LCN Smith,0,0,,,,,,"",""
+ball,1,14.1,Surrey Stars,M Kapp,LA Marsh,KL Gordon,2,0,,,,,,"",""
+ball,1,14.2,Surrey Stars,M Kapp,LA Marsh,KL Gordon,1,0,,,,,,"",""
+ball,1,14.3,Surrey Stars,LA Marsh,M Kapp,KL Gordon,0,0,,,,,,"",""
+ball,1,14.4,Surrey Stars,LA Marsh,M Kapp,KL Gordon,0,0,,,,,,"",""
+ball,1,14.5,Surrey Stars,LA Marsh,M Kapp,KL Gordon,0,0,,,,,,caught,LA Marsh
+ball,1,14.6,Surrey Stars,GJ Gibbs,M Kapp,KL Gordon,0,0,,,,,,"",""
+ball,1,15.1,Surrey Stars,M Kapp,GJ Gibbs,LCN Smith,1,0,,,,,,"",""
+ball,1,15.2,Surrey Stars,GJ Gibbs,M Kapp,LCN Smith,0,0,,,,,,"",""
+ball,1,15.3,Surrey Stars,GJ Gibbs,M Kapp,LCN Smith,1,0,,,,,,"",""
+ball,1,15.4,Surrey Stars,M Kapp,GJ Gibbs,LCN Smith,0,0,,,,,,"",""
+ball,1,15.5,Surrey Stars,M Kapp,GJ Gibbs,LCN Smith,0,0,,,,,,stumped,M Kapp
+ball,1,15.6,Surrey Stars,MK Villiers,GJ Gibbs,LCN Smith,0,0,,,,,,"",""
+ball,1,16.1,Surrey Stars,GJ Gibbs,MK Villiers,KL Gordon,0,0,,,,,,"",""
+ball,1,16.2,Surrey Stars,GJ Gibbs,MK Villiers,KL Gordon,0,0,,,,,,"",""
+ball,1,16.3,Surrey Stars,GJ Gibbs,MK Villiers,KL Gordon,1,0,,,,,,"",""
+ball,1,16.4,Surrey Stars,MK Villiers,GJ Gibbs,KL Gordon,0,0,,,,,,"",""
+ball,1,16.5,Surrey Stars,MK Villiers,GJ Gibbs,KL Gordon,0,0,,,,,,bowled,MK Villiers
+ball,1,16.6,Surrey Stars,E Gray,GJ Gibbs,KL Gordon,1,0,,,,,,"",""
+ball,1,17.1,Surrey Stars,E Gray,GJ Gibbs,JL Gunn,0,0,,,,,,"",""
+ball,1,17.2,Surrey Stars,E Gray,GJ Gibbs,JL Gunn,1,0,,,,,,"",""
+ball,1,17.3,Surrey Stars,GJ Gibbs,E Gray,JL Gunn,0,0,,,,,,"",""
+ball,1,17.4,Surrey Stars,GJ Gibbs,E Gray,JL Gunn,0,0,,,,,,"",""
+ball,1,17.5,Surrey Stars,GJ Gibbs,E Gray,JL Gunn,1,0,,,,,,"",""
+ball,1,17.6,Surrey Stars,E Gray,GJ Gibbs,JL Gunn,0,0,,,,,,run out,E Gray
+ball,2,0.1,Loughborough Lightning,RL Haynes,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,0.2,Loughborough Lightning,RL Haynes,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,0.3,Loughborough Lightning,RL Haynes,SFM Devine,M Kapp,1,0,,,,,,"",""
+ball,2,0.4,Loughborough Lightning,SFM Devine,RL Haynes,M Kapp,1,0,,,,,,"",""
+ball,2,0.5,Loughborough Lightning,RL Haynes,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,0.6,Loughborough Lightning,RL Haynes,SFM Devine,M Kapp,4,0,,,,,,"",""
+ball,2,1.1,Loughborough Lightning,SFM Devine,RL Haynes,NR Sciver,0,0,,,,,,"",""
+ball,2,1.2,Loughborough Lightning,SFM Devine,RL Haynes,NR Sciver,2,0,,,,,,"",""
+ball,2,1.3,Loughborough Lightning,SFM Devine,RL Haynes,NR Sciver,0,1,1,,,,,"",""
+ball,2,1.4,Loughborough Lightning,SFM Devine,RL Haynes,NR Sciver,1,0,,,,,,"",""
+ball,2,1.5,Loughborough Lightning,RL Haynes,SFM Devine,NR Sciver,4,0,,,,,,"",""
+ball,2,1.6,Loughborough Lightning,RL Haynes,SFM Devine,NR Sciver,1,0,,,,,,"",""
+ball,2,1.7,Loughborough Lightning,SFM Devine,RL Haynes,NR Sciver,0,0,,,,,,"",""
+ball,2,2.1,Loughborough Lightning,RL Haynes,SFM Devine,M Kapp,0,0,,,,,,lbw,RL Haynes
+ball,2,2.2,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,2.3,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,2,0,,,,,,"",""
+ball,2,2.4,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,2.5,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,1,0,,,,,,"",""
+ball,2,2.6,Loughborough Lightning,SFM Devine,AE Jones,M Kapp,1,0,,,,,,"",""
+ball,2,3.1,Loughborough Lightning,SFM Devine,AE Jones,NR Sciver,1,0,,,,,,"",""
+ball,2,3.2,Loughborough Lightning,AE Jones,SFM Devine,NR Sciver,0,0,,,,,,"",""
+ball,2,3.3,Loughborough Lightning,AE Jones,SFM Devine,NR Sciver,1,0,,,,,,"",""
+ball,2,3.4,Loughborough Lightning,SFM Devine,AE Jones,NR Sciver,0,0,,,,,,"",""
+ball,2,3.5,Loughborough Lightning,SFM Devine,AE Jones,NR Sciver,4,0,,,,,,"",""
+ball,2,3.6,Loughborough Lightning,SFM Devine,AE Jones,NR Sciver,4,0,,,,,,"",""
+ball,2,4.1,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,4.2,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,4.3,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,1,0,,,,,,"",""
+ball,2,4.4,Loughborough Lightning,SFM Devine,AE Jones,M Kapp,0,0,,,,,,"",""
+ball,2,4.5,Loughborough Lightning,SFM Devine,AE Jones,M Kapp,0,0,,,,,,"",""
+ball,2,4.6,Loughborough Lightning,SFM Devine,AE Jones,M Kapp,1,0,,,,,,"",""
+ball,2,5.1,Loughborough Lightning,SFM Devine,AE Jones,MK Villiers,1,0,,,,,,"",""
+ball,2,5.2,Loughborough Lightning,AE Jones,SFM Devine,MK Villiers,4,0,,,,,,"",""
+ball,2,5.3,Loughborough Lightning,AE Jones,SFM Devine,MK Villiers,4,0,,,,,,"",""
+ball,2,5.4,Loughborough Lightning,AE Jones,SFM Devine,MK Villiers,1,0,,,,,,"",""
+ball,2,5.5,Loughborough Lightning,SFM Devine,AE Jones,MK Villiers,1,0,,,,,,"",""
+ball,2,5.6,Loughborough Lightning,AE Jones,SFM Devine,MK Villiers,1,0,,,,,,"",""
+ball,2,6.1,Loughborough Lightning,AE Jones,SFM Devine,D van Niekerk,1,0,,,,,,"",""
+ball,2,6.2,Loughborough Lightning,SFM Devine,AE Jones,D van Niekerk,0,0,,,,,,"",""
+ball,2,6.3,Loughborough Lightning,SFM Devine,AE Jones,D van Niekerk,1,0,,,,,,"",""
+ball,2,6.4,Loughborough Lightning,AE Jones,SFM Devine,D van Niekerk,1,0,,,,,,"",""
+ball,2,6.5,Loughborough Lightning,SFM Devine,AE Jones,D van Niekerk,4,0,,,,,,"",""
+ball,2,6.6,Loughborough Lightning,SFM Devine,AE Jones,D van Niekerk,0,0,,,,,,"",""
+ball,2,7.1,Loughborough Lightning,AE Jones,SFM Devine,SIR Dunkley,1,0,,,,,,"",""
+ball,2,7.2,Loughborough Lightning,SFM Devine,AE Jones,SIR Dunkley,6,0,,,,,,"",""
+ball,2,7.3,Loughborough Lightning,SFM Devine,AE Jones,SIR Dunkley,6,0,,,,,,"",""
+ball,2,7.4,Loughborough Lightning,SFM Devine,AE Jones,SIR Dunkley,6,0,,,,,,"",""
+ball,2,7.5,Loughborough Lightning,SFM Devine,AE Jones,SIR Dunkley,6,0,,,,,,"",""
+ball,2,7.6,Loughborough Lightning,SFM Devine,AE Jones,SIR Dunkley,1,0,,,,,,"",""
+ball,2,8.1,Loughborough Lightning,SFM Devine,AE Jones,M Kapp,1,0,,,,,,"",""
+ball,2,8.2,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,1,0,,,,,,"",""
+ball,2,8.3,Loughborough Lightning,SFM Devine,AE Jones,M Kapp,1,0,,,,,,"",""
+ball,2,8.4,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,8.5,Loughborough Lightning,AE Jones,SFM Devine,M Kapp,1,0,,,,,,"",""
+ball,2,8.6,Loughborough Lightning,SFM Devine,AE Jones,M Kapp,1,0,,,,,,"",""
+ball,2,9.1,Loughborough Lightning,SFM Devine,AE Jones,NR Sciver,0,0,,,,,,"",""
+ball,2,9.2,Loughborough Lightning,SFM Devine,AE Jones,NR Sciver,0,0,,,,,,"",""
+ball,2,9.3,Loughborough Lightning,SFM Devine,AE Jones,NR Sciver,6,0,,,,,,"",""
+ball,2,9.4,Loughborough Lightning,SFM Devine,AE Jones,NR Sciver,4,0,,,,,,"",""
+ball,2,9.5,Loughborough Lightning,SFM Devine,AE Jones,NR Sciver,1,0,,,,,,"",""
+ball,2,9.6,Loughborough Lightning,AE Jones,SFM Devine,NR Sciver,4,0,,,,,,"",""

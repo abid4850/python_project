@@ -1,0 +1,323 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Warriors
+info,gender,male
+info,season,2021/22
+info,date,2022/02/12
+info,event,CSA T20 Challenge
+info,match_number,9
+info,venue,"St George's Park, Port Elizabeth"
+info,city,Port Elizabeth
+info,toss_winner,Warriors
+info,toss_decision,field
+info,player_of_match,OEG Baartman
+info,player_of_match,T Stubbs
+info,umpire,A Steenkamp
+info,umpire,PJ Vosloo
+info,reserve_umpire,DJ Smith
+info,tv_umpire,RN Hendricks
+info,match_referee,GH Pienaar
+info,winner,Dolphins
+info,winner_runs,20
+info,player,Dolphins,B Parsons
+info,player,Dolphins,G Roelofsen
+info,player,Dolphins,K Zondo
+info,player,Dolphins,DA Miller
+info,player,Dolphins,JF Smith
+info,player,Dolphins,AL Phehlukwayo
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,R de Swardt
+info,player,Dolphins,OEG Baartman
+info,player,Dolphins,DM Dupavillon
+info,player,Dolphins,T Ntini
+info,player,Warriors,MP Breetzke
+info,player,Warriors,WJ Lubbe
+info,player,Warriors,JT Smuts
+info,player,Warriors,LC Ngoepe
+info,player,Warriors,DS Rosier
+info,player,Warriors,T Stubbs
+info,player,Warriors,S Qeshile
+info,player,Warriors,A Mhletywa
+info,player,Warriors,M Nabe
+info,player,Warriors,S Tait
+info,player,Warriors,L Makhosi
+info,registry,people,A Mhletywa,a7c6ee8a
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,B Parsons,fc60e81a
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,DS Rosier,f8e6dbdd
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,L Makhosi,deccdffa
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,M Nabe,6ed11905
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,R de Swardt,57e1d7e4
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,S Qeshile,94268960
+info,registry,people,S Tait,02635912
+info,registry,people,T Ntini,d44569de
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WJ Lubbe,10f42013
+ball,1,0.1,Dolphins,B Parsons,G Roelofsen,JT Smuts,0,0,,,,,,"",""
+ball,1,0.2,Dolphins,B Parsons,G Roelofsen,JT Smuts,0,0,,,,,,"",""
+ball,1,0.3,Dolphins,B Parsons,G Roelofsen,JT Smuts,1,0,,,,,,"",""
+ball,1,0.4,Dolphins,G Roelofsen,B Parsons,JT Smuts,0,0,,,,,,"",""
+ball,1,0.5,Dolphins,G Roelofsen,B Parsons,JT Smuts,0,0,,,,,,"",""
+ball,1,0.6,Dolphins,G Roelofsen,B Parsons,JT Smuts,1,0,,,,,,"",""
+ball,1,1.1,Dolphins,G Roelofsen,B Parsons,A Mhletywa,1,0,,,,,,"",""
+ball,1,1.2,Dolphins,B Parsons,G Roelofsen,A Mhletywa,0,0,,,,,,"",""
+ball,1,1.3,Dolphins,B Parsons,G Roelofsen,A Mhletywa,1,0,,,,,,"",""
+ball,1,1.4,Dolphins,G Roelofsen,B Parsons,A Mhletywa,1,0,,,,,,"",""
+ball,1,1.5,Dolphins,B Parsons,G Roelofsen,A Mhletywa,0,1,1,,,,,"",""
+ball,1,1.6,Dolphins,B Parsons,G Roelofsen,A Mhletywa,1,0,,,,,,"",""
+ball,1,1.7,Dolphins,G Roelofsen,B Parsons,A Mhletywa,0,1,,,,1,,"",""
+ball,1,2.1,Dolphins,G Roelofsen,B Parsons,S Tait,0,0,,,,,,"",""
+ball,1,2.2,Dolphins,G Roelofsen,B Parsons,S Tait,0,0,,,,,,"",""
+ball,1,2.3,Dolphins,G Roelofsen,B Parsons,S Tait,0,0,,,,,,"",""
+ball,1,2.4,Dolphins,G Roelofsen,B Parsons,S Tait,1,0,,,,,,"",""
+ball,1,2.5,Dolphins,B Parsons,G Roelofsen,S Tait,2,0,,,,,,"",""
+ball,1,2.6,Dolphins,B Parsons,G Roelofsen,S Tait,1,0,,,,,,"",""
+ball,1,3.1,Dolphins,B Parsons,G Roelofsen,A Mhletywa,1,0,,,,,,"",""
+ball,1,3.2,Dolphins,G Roelofsen,B Parsons,A Mhletywa,6,0,,,,,,"",""
+ball,1,3.3,Dolphins,G Roelofsen,B Parsons,A Mhletywa,4,0,,,,,,"",""
+ball,1,3.4,Dolphins,G Roelofsen,B Parsons,A Mhletywa,6,0,,,,,,"",""
+ball,1,3.5,Dolphins,G Roelofsen,B Parsons,A Mhletywa,0,0,,,,,,"",""
+ball,1,3.6,Dolphins,G Roelofsen,B Parsons,A Mhletywa,1,0,,,,,,"",""
+ball,1,4.1,Dolphins,G Roelofsen,B Parsons,S Tait,1,0,,,,,,"",""
+ball,1,4.2,Dolphins,B Parsons,G Roelofsen,S Tait,1,0,,,,,,"",""
+ball,1,4.3,Dolphins,G Roelofsen,B Parsons,S Tait,4,0,,,,,,"",""
+ball,1,4.4,Dolphins,G Roelofsen,B Parsons,S Tait,0,0,,,,,,"",""
+ball,1,4.5,Dolphins,G Roelofsen,B Parsons,S Tait,4,0,,,,,,"",""
+ball,1,4.6,Dolphins,G Roelofsen,B Parsons,S Tait,1,0,,,,,,"",""
+ball,1,5.1,Dolphins,G Roelofsen,B Parsons,M Nabe,4,0,,,,,,"",""
+ball,1,5.2,Dolphins,G Roelofsen,B Parsons,M Nabe,0,0,,,,,,"",""
+ball,1,5.3,Dolphins,G Roelofsen,B Parsons,M Nabe,4,0,,,,,,"",""
+ball,1,5.4,Dolphins,G Roelofsen,B Parsons,M Nabe,4,0,,,,,,"",""
+ball,1,5.5,Dolphins,G Roelofsen,B Parsons,M Nabe,4,0,,,,,,"",""
+ball,1,5.6,Dolphins,G Roelofsen,B Parsons,M Nabe,0,0,,,,,,"",""
+ball,1,6.1,Dolphins,B Parsons,G Roelofsen,JT Smuts,1,0,,,,,,"",""
+ball,1,6.2,Dolphins,G Roelofsen,B Parsons,JT Smuts,1,0,,,,,,"",""
+ball,1,6.3,Dolphins,B Parsons,G Roelofsen,JT Smuts,1,0,,,,,,"",""
+ball,1,6.4,Dolphins,G Roelofsen,B Parsons,JT Smuts,0,0,,,,,,"",""
+ball,1,6.5,Dolphins,G Roelofsen,B Parsons,JT Smuts,1,0,,,,,,"",""
+ball,1,6.6,Dolphins,B Parsons,G Roelofsen,JT Smuts,1,0,,,,,,"",""
+ball,1,7.1,Dolphins,B Parsons,G Roelofsen,L Makhosi,4,0,,,,,,"",""
+ball,1,7.2,Dolphins,B Parsons,G Roelofsen,L Makhosi,1,0,,,,,,"",""
+ball,1,7.3,Dolphins,G Roelofsen,B Parsons,L Makhosi,1,0,,,,,,"",""
+ball,1,7.4,Dolphins,B Parsons,G Roelofsen,L Makhosi,0,0,,,,,,"",""
+ball,1,7.5,Dolphins,B Parsons,G Roelofsen,L Makhosi,0,0,,,,,,"",""
+ball,1,7.6,Dolphins,B Parsons,G Roelofsen,L Makhosi,6,0,,,,,,"",""
+ball,1,8.1,Dolphins,G Roelofsen,B Parsons,JT Smuts,0,1,1,,,,,stumped,G Roelofsen
+ball,1,8.2,Dolphins,K Zondo,B Parsons,JT Smuts,1,0,,,,,,"",""
+ball,1,8.3,Dolphins,B Parsons,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,8.4,Dolphins,K Zondo,B Parsons,JT Smuts,1,0,,,,,,"",""
+ball,1,8.5,Dolphins,B Parsons,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,8.6,Dolphins,K Zondo,B Parsons,JT Smuts,1,0,,,,,,"",""
+ball,1,8.7,Dolphins,B Parsons,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,9.1,Dolphins,B Parsons,K Zondo,L Makhosi,4,0,,,,,,"",""
+ball,1,9.2,Dolphins,B Parsons,K Zondo,L Makhosi,1,0,,,,,,"",""
+ball,1,9.3,Dolphins,K Zondo,B Parsons,L Makhosi,4,0,,,,,,"",""
+ball,1,9.4,Dolphins,K Zondo,B Parsons,L Makhosi,1,0,,,,,,"",""
+ball,1,9.5,Dolphins,B Parsons,K Zondo,L Makhosi,1,0,,,,,,"",""
+ball,1,9.6,Dolphins,K Zondo,B Parsons,L Makhosi,1,0,,,,,,"",""
+ball,1,10.1,Dolphins,K Zondo,B Parsons,JT Smuts,0,0,,,,,,"",""
+ball,1,10.2,Dolphins,K Zondo,B Parsons,JT Smuts,4,0,,,,,,"",""
+ball,1,10.3,Dolphins,K Zondo,B Parsons,JT Smuts,1,0,,,,,,"",""
+ball,1,10.4,Dolphins,B Parsons,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,10.5,Dolphins,K Zondo,B Parsons,JT Smuts,1,0,,,,,,"",""
+ball,1,10.6,Dolphins,B Parsons,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,11.1,Dolphins,B Parsons,K Zondo,M Nabe,0,0,,,,,,"",""
+ball,1,11.2,Dolphins,B Parsons,K Zondo,M Nabe,4,0,,,,,,"",""
+ball,1,11.3,Dolphins,B Parsons,K Zondo,M Nabe,1,0,,,,,,"",""
+ball,1,11.4,Dolphins,K Zondo,B Parsons,M Nabe,4,0,,,,,,"",""
+ball,1,11.5,Dolphins,K Zondo,B Parsons,M Nabe,0,0,,,,,,run out,K Zondo
+ball,1,11.6,Dolphins,B Parsons,DA Miller,M Nabe,1,0,,,,,,"",""
+ball,1,12.1,Dolphins,B Parsons,DA Miller,L Makhosi,0,0,,,,,,bowled,B Parsons
+ball,1,12.2,Dolphins,JF Smith,DA Miller,L Makhosi,1,0,,,,,,"",""
+ball,1,12.3,Dolphins,DA Miller,JF Smith,L Makhosi,1,0,,,,,,"",""
+ball,1,12.4,Dolphins,JF Smith,DA Miller,L Makhosi,1,0,,,,,,"",""
+ball,1,12.5,Dolphins,DA Miller,JF Smith,L Makhosi,0,0,,,,,,"",""
+ball,1,12.6,Dolphins,DA Miller,JF Smith,L Makhosi,6,0,,,,,,"",""
+ball,1,13.1,Dolphins,JF Smith,DA Miller,A Mhletywa,2,0,,,,,,"",""
+ball,1,13.2,Dolphins,JF Smith,DA Miller,A Mhletywa,2,0,,,,,,"",""
+ball,1,13.3,Dolphins,JF Smith,DA Miller,A Mhletywa,0,1,1,,,,,"",""
+ball,1,13.4,Dolphins,JF Smith,DA Miller,A Mhletywa,0,0,,,,,,caught,JF Smith
+ball,1,13.5,Dolphins,AL Phehlukwayo,DA Miller,A Mhletywa,1,0,,,,,,"",""
+ball,1,13.6,Dolphins,DA Miller,AL Phehlukwayo,A Mhletywa,0,0,,,,,,"",""
+ball,1,13.7,Dolphins,DA Miller,AL Phehlukwayo,A Mhletywa,1,0,,,,,,"",""
+ball,1,14.1,Dolphins,DA Miller,AL Phehlukwayo,L Makhosi,1,0,,,,,,"",""
+ball,1,14.2,Dolphins,AL Phehlukwayo,DA Miller,L Makhosi,0,1,,,1,,,"",""
+ball,1,14.3,Dolphins,DA Miller,AL Phehlukwayo,L Makhosi,0,0,,,,,,"",""
+ball,1,14.4,Dolphins,DA Miller,AL Phehlukwayo,L Makhosi,1,0,,,,,,"",""
+ball,1,14.5,Dolphins,AL Phehlukwayo,DA Miller,L Makhosi,1,0,,,,,,"",""
+ball,1,14.6,Dolphins,DA Miller,AL Phehlukwayo,L Makhosi,6,0,,,,,,"",""
+ball,1,15.1,Dolphins,AL Phehlukwayo,DA Miller,M Nabe,0,0,,,,,,"",""
+ball,1,15.2,Dolphins,AL Phehlukwayo,DA Miller,M Nabe,1,0,,,,,,"",""
+ball,1,15.3,Dolphins,DA Miller,AL Phehlukwayo,M Nabe,1,0,,,,,,"",""
+ball,1,15.4,Dolphins,AL Phehlukwayo,DA Miller,M Nabe,1,0,,,,,,"",""
+ball,1,15.5,Dolphins,DA Miller,AL Phehlukwayo,M Nabe,1,0,,,,,,"",""
+ball,1,15.6,Dolphins,AL Phehlukwayo,DA Miller,M Nabe,1,0,,,,,,"",""
+ball,1,16.1,Dolphins,AL Phehlukwayo,DA Miller,S Tait,1,0,,,,,,"",""
+ball,1,16.2,Dolphins,DA Miller,AL Phehlukwayo,S Tait,0,0,,,,,,"",""
+ball,1,16.3,Dolphins,DA Miller,AL Phehlukwayo,S Tait,0,2,2,,,,,"",""
+ball,1,16.4,Dolphins,AL Phehlukwayo,DA Miller,S Tait,0,1,1,,,,,"",""
+ball,1,16.5,Dolphins,AL Phehlukwayo,DA Miller,S Tait,2,0,,,,,,"",""
+ball,1,16.6,Dolphins,AL Phehlukwayo,DA Miller,S Tait,2,0,,,,,,"",""
+ball,1,16.7,Dolphins,AL Phehlukwayo,DA Miller,S Tait,0,0,,,,,,"",""
+ball,1,16.8,Dolphins,AL Phehlukwayo,DA Miller,S Tait,4,0,,,,,,"",""
+ball,1,17.1,Dolphins,DA Miller,AL Phehlukwayo,A Mhletywa,0,1,1,,,,,"",""
+ball,1,17.2,Dolphins,DA Miller,AL Phehlukwayo,A Mhletywa,6,0,,,,,,"",""
+ball,1,17.3,Dolphins,DA Miller,AL Phehlukwayo,A Mhletywa,0,0,,,,,,"",""
+ball,1,17.4,Dolphins,DA Miller,AL Phehlukwayo,A Mhletywa,4,0,,,,,,"",""
+ball,1,17.5,Dolphins,DA Miller,AL Phehlukwayo,A Mhletywa,6,0,,,,,,"",""
+ball,1,17.6,Dolphins,DA Miller,AL Phehlukwayo,A Mhletywa,4,0,,,,,,"",""
+ball,1,17.7,Dolphins,DA Miller,AL Phehlukwayo,A Mhletywa,1,0,,,,,,"",""
+ball,1,18.1,Dolphins,DA Miller,AL Phehlukwayo,S Tait,2,0,,,,,,"",""
+ball,1,18.2,Dolphins,DA Miller,AL Phehlukwayo,S Tait,2,0,,,,,,"",""
+ball,1,18.3,Dolphins,DA Miller,AL Phehlukwayo,S Tait,2,0,,,,,,"",""
+ball,1,18.4,Dolphins,DA Miller,AL Phehlukwayo,S Tait,1,0,,,,,,"",""
+ball,1,18.5,Dolphins,AL Phehlukwayo,DA Miller,S Tait,6,0,,,,,,"",""
+ball,1,18.6,Dolphins,AL Phehlukwayo,DA Miller,S Tait,1,0,,,,,,"",""
+ball,1,19.1,Dolphins,AL Phehlukwayo,DA Miller,M Nabe,6,0,,,,,,"",""
+ball,1,19.2,Dolphins,AL Phehlukwayo,DA Miller,M Nabe,1,0,,,,,,"",""
+ball,1,19.3,Dolphins,DA Miller,AL Phehlukwayo,M Nabe,0,1,1,,,,,"",""
+ball,1,19.4,Dolphins,DA Miller,AL Phehlukwayo,M Nabe,6,0,,,,,,"",""
+ball,1,19.5,Dolphins,DA Miller,AL Phehlukwayo,M Nabe,0,0,,,,,,"",""
+ball,1,19.6,Dolphins,DA Miller,AL Phehlukwayo,M Nabe,6,0,,,,,,"",""
+ball,1,19.7,Dolphins,DA Miller,AL Phehlukwayo,M Nabe,0,1,1,,,,,"",""
+ball,1,19.8,Dolphins,DA Miller,AL Phehlukwayo,M Nabe,0,0,,,,,,caught,DA Miller
+ball,2,0.1,Warriors,MP Breetzke,WJ Lubbe,P Subrayen,0,0,,,,,,"",""
+ball,2,0.2,Warriors,MP Breetzke,WJ Lubbe,P Subrayen,1,0,,,,,,"",""
+ball,2,0.3,Warriors,WJ Lubbe,MP Breetzke,P Subrayen,0,0,,,,,,"",""
+ball,2,0.4,Warriors,WJ Lubbe,MP Breetzke,P Subrayen,1,0,,,,,,"",""
+ball,2,0.5,Warriors,MP Breetzke,WJ Lubbe,P Subrayen,1,0,,,,,,"",""
+ball,2,0.6,Warriors,WJ Lubbe,MP Breetzke,P Subrayen,0,0,,,,,,"",""
+ball,2,1.1,Warriors,MP Breetzke,WJ Lubbe,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.2,Warriors,MP Breetzke,WJ Lubbe,DM Dupavillon,4,0,,,,,,"",""
+ball,2,1.3,Warriors,MP Breetzke,WJ Lubbe,DM Dupavillon,4,0,,,,,,"",""
+ball,2,1.4,Warriors,MP Breetzke,WJ Lubbe,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.5,Warriors,MP Breetzke,WJ Lubbe,DM Dupavillon,1,0,,,,,,"",""
+ball,2,1.6,Warriors,WJ Lubbe,MP Breetzke,DM Dupavillon,0,0,,,,,,bowled,WJ Lubbe
+ball,2,2.1,Warriors,MP Breetzke,JT Smuts,OEG Baartman,0,0,,,,,,"",""
+ball,2,2.2,Warriors,MP Breetzke,JT Smuts,OEG Baartman,0,0,,,,,,caught,MP Breetzke
+ball,2,2.3,Warriors,LC Ngoepe,JT Smuts,OEG Baartman,0,0,,,,,,"",""
+ball,2,2.4,Warriors,LC Ngoepe,JT Smuts,OEG Baartman,0,0,,,,,,"",""
+ball,2,2.5,Warriors,LC Ngoepe,JT Smuts,OEG Baartman,0,0,,,,,,"",""
+ball,2,2.6,Warriors,LC Ngoepe,JT Smuts,OEG Baartman,0,1,1,,,,,"",""
+ball,2,2.7,Warriors,LC Ngoepe,JT Smuts,OEG Baartman,1,0,,,,,,"",""
+ball,2,3.1,Warriors,LC Ngoepe,JT Smuts,DM Dupavillon,1,0,,,,,,"",""
+ball,2,3.2,Warriors,JT Smuts,LC Ngoepe,DM Dupavillon,0,0,,,,,,"",""
+ball,2,3.3,Warriors,JT Smuts,LC Ngoepe,DM Dupavillon,0,0,,,,,,"",""
+ball,2,3.4,Warriors,JT Smuts,LC Ngoepe,DM Dupavillon,6,0,,,,,,"",""
+ball,2,3.5,Warriors,JT Smuts,LC Ngoepe,DM Dupavillon,4,0,,,,,,"",""
+ball,2,3.6,Warriors,JT Smuts,LC Ngoepe,DM Dupavillon,1,0,,,,,,"",""
+ball,2,4.1,Warriors,JT Smuts,LC Ngoepe,P Subrayen,4,0,,,,,,"",""
+ball,2,4.2,Warriors,JT Smuts,LC Ngoepe,P Subrayen,1,0,,,,,,"",""
+ball,2,4.3,Warriors,LC Ngoepe,JT Smuts,P Subrayen,0,0,,,,,,stumped,LC Ngoepe
+ball,2,4.4,Warriors,DS Rosier,JT Smuts,P Subrayen,0,0,,,,,,"",""
+ball,2,4.5,Warriors,DS Rosier,JT Smuts,P Subrayen,0,1,1,,,,,"",""
+ball,2,4.6,Warriors,DS Rosier,JT Smuts,P Subrayen,0,0,,,,,,"",""
+ball,2,4.7,Warriors,DS Rosier,JT Smuts,P Subrayen,3,0,,,,,,"",""
+ball,2,5.1,Warriors,DS Rosier,JT Smuts,OEG Baartman,1,0,,,,,,"",""
+ball,2,5.2,Warriors,JT Smuts,DS Rosier,OEG Baartman,1,0,,,,,,"",""
+ball,2,5.3,Warriors,DS Rosier,JT Smuts,OEG Baartman,0,0,,,,,,"",""
+ball,2,5.4,Warriors,DS Rosier,JT Smuts,OEG Baartman,1,0,,,,,,"",""
+ball,2,5.5,Warriors,JT Smuts,DS Rosier,OEG Baartman,0,0,,,,,,"",""
+ball,2,5.6,Warriors,JT Smuts,DS Rosier,OEG Baartman,0,0,,,,,,"",""
+ball,2,6.1,Warriors,DS Rosier,JT Smuts,R de Swardt,1,0,,,,,,"",""
+ball,2,6.2,Warriors,JT Smuts,DS Rosier,R de Swardt,0,0,,,,,,"",""
+ball,2,6.3,Warriors,JT Smuts,DS Rosier,R de Swardt,4,0,,,,,,"",""
+ball,2,6.4,Warriors,JT Smuts,DS Rosier,R de Swardt,1,0,,,,,,"",""
+ball,2,6.5,Warriors,DS Rosier,JT Smuts,R de Swardt,1,0,,,,,,"",""
+ball,2,6.6,Warriors,JT Smuts,DS Rosier,R de Swardt,1,0,,,,,,"",""
+ball,2,7.1,Warriors,JT Smuts,DS Rosier,T Ntini,4,0,,,,,,"",""
+ball,2,7.2,Warriors,JT Smuts,DS Rosier,T Ntini,1,0,,,,,,"",""
+ball,2,7.3,Warriors,DS Rosier,JT Smuts,T Ntini,4,0,,,,,,"",""
+ball,2,7.4,Warriors,DS Rosier,JT Smuts,T Ntini,0,1,,,,1,,"",""
+ball,2,7.5,Warriors,JT Smuts,DS Rosier,T Ntini,4,0,,,,,,"",""
+ball,2,7.6,Warriors,JT Smuts,DS Rosier,T Ntini,1,0,,,,,,"",""
+ball,2,8.1,Warriors,JT Smuts,DS Rosier,P Subrayen,0,0,,,,,,"",""
+ball,2,8.2,Warriors,JT Smuts,DS Rosier,P Subrayen,0,0,,,,,,"",""
+ball,2,8.3,Warriors,JT Smuts,DS Rosier,P Subrayen,1,0,,,,,,"",""
+ball,2,8.4,Warriors,DS Rosier,JT Smuts,P Subrayen,0,1,,,,1,,"",""
+ball,2,8.5,Warriors,JT Smuts,DS Rosier,P Subrayen,2,0,,,,,,"",""
+ball,2,8.6,Warriors,JT Smuts,DS Rosier,P Subrayen,1,0,,,,,,"",""
+ball,2,9.1,Warriors,JT Smuts,DS Rosier,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,9.2,Warriors,JT Smuts,DS Rosier,AL Phehlukwayo,6,0,,,,,,"",""
+ball,2,9.3,Warriors,JT Smuts,DS Rosier,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,2,9.4,Warriors,JT Smuts,DS Rosier,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,9.5,Warriors,DS Rosier,JT Smuts,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,9.6,Warriors,DS Rosier,JT Smuts,AL Phehlukwayo,2,0,,,,,,"",""
+ball,2,9.7,Warriors,DS Rosier,JT Smuts,AL Phehlukwayo,4,0,,,,,,"",""
+ball,2,10.1,Warriors,JT Smuts,DS Rosier,R de Swardt,1,0,,,,,,"",""
+ball,2,10.2,Warriors,DS Rosier,JT Smuts,R de Swardt,1,0,,,,,,"",""
+ball,2,10.3,Warriors,JT Smuts,DS Rosier,R de Swardt,0,0,,,,,,"",""
+ball,2,10.4,Warriors,JT Smuts,DS Rosier,R de Swardt,1,0,,,,,,"",""
+ball,2,10.5,Warriors,DS Rosier,JT Smuts,R de Swardt,1,0,,,,,,"",""
+ball,2,10.6,Warriors,JT Smuts,DS Rosier,R de Swardt,1,0,,,,,,"",""
+ball,2,11.1,Warriors,JT Smuts,DS Rosier,JF Smith,0,0,,,,,,bowled,JT Smuts
+ball,2,11.2,Warriors,T Stubbs,DS Rosier,JF Smith,1,0,,,,,,"",""
+ball,2,11.3,Warriors,DS Rosier,T Stubbs,JF Smith,0,0,,,,,,"",""
+ball,2,11.4,Warriors,DS Rosier,T Stubbs,JF Smith,0,0,,,,,,caught,DS Rosier
+ball,2,11.5,Warriors,T Stubbs,S Qeshile,JF Smith,6,0,,,,,,"",""
+ball,2,11.6,Warriors,T Stubbs,S Qeshile,JF Smith,2,0,,,,,,"",""
+ball,2,12.1,Warriors,S Qeshile,T Stubbs,P Subrayen,0,0,,,,,,"",""
+ball,2,12.2,Warriors,S Qeshile,T Stubbs,P Subrayen,1,0,,,,,,"",""
+ball,2,12.3,Warriors,T Stubbs,S Qeshile,P Subrayen,1,0,,,,,,"",""
+ball,2,12.4,Warriors,S Qeshile,T Stubbs,P Subrayen,1,0,,,,,,"",""
+ball,2,12.5,Warriors,T Stubbs,S Qeshile,P Subrayen,2,0,,,,,,"",""
+ball,2,12.6,Warriors,T Stubbs,S Qeshile,P Subrayen,1,0,,,,,,"",""
+ball,2,13.1,Warriors,T Stubbs,S Qeshile,DM Dupavillon,6,0,,,,,,"",""
+ball,2,13.2,Warriors,T Stubbs,S Qeshile,DM Dupavillon,1,0,,,,,,"",""
+ball,2,13.3,Warriors,S Qeshile,T Stubbs,DM Dupavillon,1,0,,,,,,"",""
+ball,2,13.4,Warriors,T Stubbs,S Qeshile,DM Dupavillon,2,0,,,,,,"",""
+ball,2,13.5,Warriors,T Stubbs,S Qeshile,DM Dupavillon,1,0,,,,,,"",""
+ball,2,13.6,Warriors,S Qeshile,T Stubbs,DM Dupavillon,4,0,,,,,,"",""
+ball,2,14.1,Warriors,T Stubbs,S Qeshile,R de Swardt,1,0,,,,,,"",""
+ball,2,14.2,Warriors,S Qeshile,T Stubbs,R de Swardt,2,0,,,,,,"",""
+ball,2,14.3,Warriors,S Qeshile,T Stubbs,R de Swardt,2,0,,,,,,"",""
+ball,2,14.4,Warriors,S Qeshile,T Stubbs,R de Swardt,4,0,,,,,,"",""
+ball,2,14.5,Warriors,S Qeshile,T Stubbs,R de Swardt,2,0,,,,,,"",""
+ball,2,14.6,Warriors,S Qeshile,T Stubbs,R de Swardt,1,0,,,,,,"",""
+ball,2,15.1,Warriors,S Qeshile,T Stubbs,OEG Baartman,1,0,,,,,,"",""
+ball,2,15.2,Warriors,T Stubbs,S Qeshile,OEG Baartman,0,0,,,,,,"",""
+ball,2,15.3,Warriors,T Stubbs,S Qeshile,OEG Baartman,1,0,,,,,,"",""
+ball,2,15.4,Warriors,S Qeshile,T Stubbs,OEG Baartman,0,0,,,,,,"",""
+ball,2,15.5,Warriors,S Qeshile,T Stubbs,OEG Baartman,1,0,,,,,,"",""
+ball,2,15.6,Warriors,T Stubbs,S Qeshile,OEG Baartman,0,0,,,,,,"",""
+ball,2,16.1,Warriors,S Qeshile,T Stubbs,JF Smith,1,0,,,,,,"",""
+ball,2,16.2,Warriors,T Stubbs,S Qeshile,JF Smith,6,0,,,,,,"",""
+ball,2,16.3,Warriors,T Stubbs,S Qeshile,JF Smith,6,0,,,,,,"",""
+ball,2,16.4,Warriors,T Stubbs,S Qeshile,JF Smith,1,0,,,,,,"",""
+ball,2,16.5,Warriors,S Qeshile,T Stubbs,JF Smith,0,0,,,,,,"",""
+ball,2,16.6,Warriors,S Qeshile,T Stubbs,JF Smith,0,1,1,,,,,"",""
+ball,2,16.7,Warriors,S Qeshile,T Stubbs,JF Smith,0,0,,,,,,bowled,S Qeshile
+ball,2,17.1,Warriors,T Stubbs,A Mhletywa,DM Dupavillon,6,0,,,,,,"",""
+ball,2,17.2,Warriors,T Stubbs,A Mhletywa,DM Dupavillon,6,0,,,,,,"",""
+ball,2,17.3,Warriors,T Stubbs,A Mhletywa,DM Dupavillon,2,0,,,,,,"",""
+ball,2,17.4,Warriors,T Stubbs,A Mhletywa,DM Dupavillon,4,0,,,,,,"",""
+ball,2,17.5,Warriors,T Stubbs,A Mhletywa,DM Dupavillon,1,0,,,,,,"",""
+ball,2,17.6,Warriors,A Mhletywa,T Stubbs,DM Dupavillon,1,0,,,,,,"",""
+ball,2,18.1,Warriors,A Mhletywa,T Stubbs,R de Swardt,1,0,,,,,,"",""
+ball,2,18.2,Warriors,T Stubbs,A Mhletywa,R de Swardt,4,0,,,,,,"",""
+ball,2,18.3,Warriors,T Stubbs,A Mhletywa,R de Swardt,0,0,,,,,,"",""
+ball,2,18.4,Warriors,T Stubbs,A Mhletywa,R de Swardt,6,0,,,,,,"",""
+ball,2,18.5,Warriors,T Stubbs,A Mhletywa,R de Swardt,6,0,,,,,,"",""
+ball,2,18.6,Warriors,T Stubbs,A Mhletywa,R de Swardt,1,0,,,,,,"",""
+ball,2,19.1,Warriors,T Stubbs,A Mhletywa,OEG Baartman,1,0,,,,,,"",""
+ball,2,19.2,Warriors,A Mhletywa,T Stubbs,OEG Baartman,1,0,,,,,,"",""
+ball,2,19.3,Warriors,T Stubbs,A Mhletywa,OEG Baartman,4,0,,,,,,"",""
+ball,2,19.4,Warriors,T Stubbs,A Mhletywa,OEG Baartman,1,0,,,,,,"",""
+ball,2,19.5,Warriors,A Mhletywa,T Stubbs,OEG Baartman,1,0,,,,,,"",""
+ball,2,19.6,Warriors,T Stubbs,A Mhletywa,OEG Baartman,0,0,,,,,,"",""

@@ -1,0 +1,320 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Auckland
+info,gender,male
+info,season,2020/21
+info,date,2020/12/28
+info,event,Super Smash
+info,match_number,3
+info,venue,Molyneux Park
+info,city,Alexandra
+info,toss_winner,Auckland
+info,toss_decision,field
+info,umpire,JAK Bromley
+info,umpire,KS Jagannathan
+info,match_referee,AL Hill
+info,winner,Otago
+info,winner_runs,45
+info,player,Otago,HD Rutherford
+info,player,Otago,NT Broom
+info,player,Otago,NF Kelly
+info,player,Otago,LC Johnson
+info,player,Otago,AK Kitchen
+info,player,Otago,M Renwick
+info,player,Otago,MJG Rippon
+info,player,Otago,DN Phillips
+info,player,Otago,JA Duffy
+info,player,Otago,MB Bacon
+info,player,Otago,MJ McClenaghan
+info,player,Auckland,GK Beghin
+info,player,Auckland,SM Solia
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,GD Phillips
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,BJ Horne
+info,player,Auckland,BP Rodden
+info,player,Auckland,WER Somerville
+info,player,Auckland,OMR Pringle
+info,player,Auckland,DK Ferns
+info,player,Auckland,BG Lister
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BP Rodden,cece48c0
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GK Beghin,0d8f5fc6
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JAK Bromley,ccf7baaf
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,M Renwick,b862ef08
+info,registry,people,MB Bacon,90701232
+info,registry,people,MJ McClenaghan,51a3c5ef
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NT Broom,a354c917
+info,registry,people,OMR Pringle,2649b254
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,WER Somerville,74a1c1e3
+info,registry,people,WT O'Donnell,730b57de
+ball,1,0.1,Otago,HD Rutherford,NT Broom,DK Ferns,0,0,,,,,,"",""
+ball,1,0.2,Otago,HD Rutherford,NT Broom,DK Ferns,6,0,,,,,,"",""
+ball,1,0.3,Otago,HD Rutherford,NT Broom,DK Ferns,4,0,,,,,,"",""
+ball,1,0.4,Otago,HD Rutherford,NT Broom,DK Ferns,1,0,,,,,,"",""
+ball,1,0.5,Otago,NT Broom,HD Rutherford,DK Ferns,4,0,,,,,,"",""
+ball,1,0.6,Otago,NT Broom,HD Rutherford,DK Ferns,0,1,1,,,,,"",""
+ball,1,0.7,Otago,NT Broom,HD Rutherford,DK Ferns,4,0,,,,,,"",""
+ball,1,1.1,Otago,HD Rutherford,NT Broom,WER Somerville,0,0,,,,,,"",""
+ball,1,1.2,Otago,HD Rutherford,NT Broom,WER Somerville,4,0,,,,,,"",""
+ball,1,1.3,Otago,HD Rutherford,NT Broom,WER Somerville,6,0,,,,,,"",""
+ball,1,1.4,Otago,HD Rutherford,NT Broom,WER Somerville,0,0,,,,,,"",""
+ball,1,1.5,Otago,HD Rutherford,NT Broom,WER Somerville,0,0,,,,,,"",""
+ball,1,1.6,Otago,HD Rutherford,NT Broom,WER Somerville,4,0,,,,,,"",""
+ball,1,2.1,Otago,NT Broom,HD Rutherford,BG Lister,0,1,1,,,,,"",""
+ball,1,2.2,Otago,NT Broom,HD Rutherford,BG Lister,0,0,,,,,,"",""
+ball,1,2.3,Otago,NT Broom,HD Rutherford,BG Lister,4,0,,,,,,"",""
+ball,1,2.4,Otago,NT Broom,HD Rutherford,BG Lister,0,0,,,,,,"",""
+ball,1,2.5,Otago,NT Broom,HD Rutherford,BG Lister,1,0,,,,,,"",""
+ball,1,2.6,Otago,HD Rutherford,NT Broom,BG Lister,0,0,,,,,,"",""
+ball,1,2.7,Otago,HD Rutherford,NT Broom,BG Lister,0,0,,,,,,"",""
+ball,1,3.1,Otago,NT Broom,HD Rutherford,OMR Pringle,1,0,,,,,,"",""
+ball,1,3.2,Otago,HD Rutherford,NT Broom,OMR Pringle,0,0,,,,,,caught,HD Rutherford
+ball,1,3.3,Otago,NT Broom,NF Kelly,OMR Pringle,0,0,,,,,,"",""
+ball,1,3.4,Otago,NT Broom,NF Kelly,OMR Pringle,2,0,,,,,,"",""
+ball,1,3.5,Otago,NT Broom,NF Kelly,OMR Pringle,4,0,,,,,,"",""
+ball,1,3.6,Otago,NT Broom,NF Kelly,OMR Pringle,4,0,,,,,,"",""
+ball,1,4.1,Otago,NF Kelly,NT Broom,BG Lister,0,0,,,,,,"",""
+ball,1,4.2,Otago,NF Kelly,NT Broom,BG Lister,0,0,,,,,,"",""
+ball,1,4.3,Otago,NF Kelly,NT Broom,BG Lister,2,0,,,,,,"",""
+ball,1,4.4,Otago,NF Kelly,NT Broom,BG Lister,0,0,,,,,,"",""
+ball,1,4.5,Otago,NF Kelly,NT Broom,BG Lister,4,0,,,,,,"",""
+ball,1,4.6,Otago,NF Kelly,NT Broom,BG Lister,4,0,,,,,,"",""
+ball,1,5.1,Otago,NT Broom,NF Kelly,WER Somerville,6,0,,,,,,"",""
+ball,1,5.2,Otago,NT Broom,NF Kelly,WER Somerville,0,0,,,,,,caught,NT Broom
+ball,1,5.3,Otago,NF Kelly,LC Johnson,WER Somerville,4,0,,,,,,"",""
+ball,1,5.4,Otago,NF Kelly,LC Johnson,WER Somerville,1,0,,,,,,"",""
+ball,1,5.5,Otago,LC Johnson,NF Kelly,WER Somerville,1,0,,,,,,"",""
+ball,1,5.6,Otago,NF Kelly,LC Johnson,WER Somerville,1,0,,,,,,"",""
+ball,1,6.1,Otago,NF Kelly,LC Johnson,DK Ferns,1,0,,,,,,"",""
+ball,1,6.2,Otago,LC Johnson,NF Kelly,DK Ferns,1,0,,,,,,"",""
+ball,1,6.3,Otago,NF Kelly,LC Johnson,DK Ferns,2,0,,,,,,"",""
+ball,1,6.4,Otago,NF Kelly,LC Johnson,DK Ferns,0,1,,,,1,,"",""
+ball,1,6.5,Otago,LC Johnson,NF Kelly,DK Ferns,0,0,,,,,,"",""
+ball,1,6.6,Otago,LC Johnson,NF Kelly,DK Ferns,2,0,,,,,,"",""
+ball,1,7.1,Otago,NF Kelly,LC Johnson,GD Phillips,1,0,,,,,,"",""
+ball,1,7.2,Otago,LC Johnson,NF Kelly,GD Phillips,0,0,,,,,,"",""
+ball,1,7.3,Otago,LC Johnson,NF Kelly,GD Phillips,0,0,,,,,,"",""
+ball,1,7.4,Otago,LC Johnson,NF Kelly,GD Phillips,0,0,,,,,,"",""
+ball,1,7.5,Otago,LC Johnson,NF Kelly,GD Phillips,1,0,,,,,,"",""
+ball,1,7.6,Otago,NF Kelly,LC Johnson,GD Phillips,0,0,,,,,,"",""
+ball,1,8.1,Otago,LC Johnson,NF Kelly,OMR Pringle,6,0,,,,,,"",""
+ball,1,8.2,Otago,LC Johnson,NF Kelly,OMR Pringle,0,0,,,,,,"",""
+ball,1,8.3,Otago,LC Johnson,NF Kelly,OMR Pringle,1,0,,,,,,"",""
+ball,1,8.4,Otago,NF Kelly,LC Johnson,OMR Pringle,2,0,,,,,,"",""
+ball,1,8.5,Otago,NF Kelly,LC Johnson,OMR Pringle,4,1,,1,,,,"",""
+ball,1,8.6,Otago,NF Kelly,LC Johnson,OMR Pringle,1,0,,,,,,"",""
+ball,1,8.7,Otago,LC Johnson,NF Kelly,OMR Pringle,0,0,,,,,,"",""
+ball,1,9.1,Otago,NF Kelly,LC Johnson,GD Phillips,0,0,,,,,,lbw,NF Kelly
+ball,1,9.2,Otago,AK Kitchen,LC Johnson,GD Phillips,1,0,,,,,,"",""
+ball,1,9.3,Otago,LC Johnson,AK Kitchen,GD Phillips,0,0,,,,,,"",""
+ball,1,9.4,Otago,LC Johnson,AK Kitchen,GD Phillips,1,0,,,,,,"",""
+ball,1,9.5,Otago,AK Kitchen,LC Johnson,GD Phillips,1,0,,,,,,"",""
+ball,1,9.6,Otago,LC Johnson,AK Kitchen,GD Phillips,1,0,,,,,,"",""
+ball,1,10.1,Otago,LC Johnson,AK Kitchen,WER Somerville,0,0,,,,,,"",""
+ball,1,10.2,Otago,LC Johnson,AK Kitchen,WER Somerville,6,0,,,,,,"",""
+ball,1,10.3,Otago,LC Johnson,AK Kitchen,WER Somerville,6,0,,,,,,"",""
+ball,1,10.4,Otago,LC Johnson,AK Kitchen,WER Somerville,0,0,,,,,,"",""
+ball,1,10.5,Otago,LC Johnson,AK Kitchen,WER Somerville,0,0,,,,,,"",""
+ball,1,10.6,Otago,LC Johnson,AK Kitchen,WER Somerville,0,0,,,,,,"",""
+ball,1,11.1,Otago,AK Kitchen,LC Johnson,GD Phillips,0,0,,,,,,lbw,AK Kitchen
+ball,1,11.2,Otago,M Renwick,LC Johnson,GD Phillips,1,0,,,,,,"",""
+ball,1,11.3,Otago,LC Johnson,M Renwick,GD Phillips,1,0,,,,,,"",""
+ball,1,11.4,Otago,M Renwick,LC Johnson,GD Phillips,2,0,,,,,,"",""
+ball,1,11.5,Otago,M Renwick,LC Johnson,GD Phillips,1,0,,,,,,"",""
+ball,1,11.6,Otago,LC Johnson,M Renwick,GD Phillips,1,0,,,,,,"",""
+ball,1,12.1,Otago,LC Johnson,M Renwick,OMR Pringle,2,0,,,,,,"",""
+ball,1,12.2,Otago,LC Johnson,M Renwick,OMR Pringle,4,0,,,,,,"",""
+ball,1,12.3,Otago,LC Johnson,M Renwick,OMR Pringle,2,0,,,,,,"",""
+ball,1,12.4,Otago,LC Johnson,M Renwick,OMR Pringle,1,0,,,,,,"",""
+ball,1,12.5,Otago,M Renwick,LC Johnson,OMR Pringle,0,0,,,,,,"",""
+ball,1,12.6,Otago,M Renwick,LC Johnson,OMR Pringle,0,0,,,,,,"",""
+ball,1,13.1,Otago,LC Johnson,M Renwick,GD Phillips,6,0,,,,,,"",""
+ball,1,13.2,Otago,LC Johnson,M Renwick,GD Phillips,0,0,,,,,,"",""
+ball,1,13.3,Otago,LC Johnson,M Renwick,GD Phillips,0,0,,,,,,"",""
+ball,1,13.4,Otago,LC Johnson,M Renwick,GD Phillips,1,0,,,,,,"",""
+ball,1,13.5,Otago,M Renwick,LC Johnson,GD Phillips,2,0,,,,,,"",""
+ball,1,13.6,Otago,M Renwick,LC Johnson,GD Phillips,1,0,,,,,,"",""
+ball,1,14.1,Otago,M Renwick,LC Johnson,RR O'Donnell,1,0,,,,,,"",""
+ball,1,14.2,Otago,LC Johnson,M Renwick,RR O'Donnell,6,0,,,,,,"",""
+ball,1,14.3,Otago,LC Johnson,M Renwick,RR O'Donnell,6,0,,,,,,"",""
+ball,1,14.4,Otago,LC Johnson,M Renwick,RR O'Donnell,0,0,,,,,,"",""
+ball,1,14.5,Otago,LC Johnson,M Renwick,RR O'Donnell,1,0,,,,,,"",""
+ball,1,14.6,Otago,M Renwick,LC Johnson,RR O'Donnell,1,0,,,,,,"",""
+ball,1,15.1,Otago,M Renwick,LC Johnson,WER Somerville,6,0,,,,,,"",""
+ball,1,15.2,Otago,M Renwick,LC Johnson,WER Somerville,1,0,,,,,,"",""
+ball,1,15.3,Otago,LC Johnson,M Renwick,WER Somerville,0,0,,,,,,"",""
+ball,1,15.4,Otago,LC Johnson,M Renwick,WER Somerville,1,0,,,,,,"",""
+ball,1,15.5,Otago,M Renwick,LC Johnson,WER Somerville,1,0,,,,,,"",""
+ball,1,15.6,Otago,LC Johnson,M Renwick,WER Somerville,0,1,1,,,,,"",""
+ball,1,15.7,Otago,LC Johnson,M Renwick,WER Somerville,2,0,,,,,,"",""
+ball,1,16.1,Otago,M Renwick,LC Johnson,BG Lister,2,0,,,,,,"",""
+ball,1,16.2,Otago,M Renwick,LC Johnson,BG Lister,2,0,,,,,,"",""
+ball,1,16.3,Otago,M Renwick,LC Johnson,BG Lister,6,0,,,,,,"",""
+ball,1,16.4,Otago,M Renwick,LC Johnson,BG Lister,0,0,,,,,,"",""
+ball,1,16.5,Otago,M Renwick,LC Johnson,BG Lister,6,0,,,,,,"",""
+ball,1,16.6,Otago,M Renwick,LC Johnson,BG Lister,3,0,,,,,,"",""
+ball,1,17.1,Otago,M Renwick,LC Johnson,DK Ferns,4,0,,,,,,"",""
+ball,1,17.2,Otago,M Renwick,LC Johnson,DK Ferns,0,0,,,,,,"",""
+ball,1,17.3,Otago,M Renwick,LC Johnson,DK Ferns,2,0,,,,,,"",""
+ball,1,17.4,Otago,M Renwick,LC Johnson,DK Ferns,0,0,,,,,,caught,M Renwick
+ball,1,17.5,Otago,LC Johnson,MJG Rippon,DK Ferns,1,0,,,,,,"",""
+ball,1,17.6,Otago,MJG Rippon,LC Johnson,DK Ferns,1,0,,,,,,"",""
+ball,1,18.1,Otago,MJG Rippon,LC Johnson,BG Lister,0,0,,,,,,"",""
+ball,1,18.2,Otago,MJG Rippon,LC Johnson,BG Lister,1,0,,,,,,"",""
+ball,1,18.3,Otago,LC Johnson,MJG Rippon,BG Lister,0,0,,,,,,"",""
+ball,1,18.4,Otago,LC Johnson,MJG Rippon,BG Lister,4,0,,,,,,"",""
+ball,1,18.5,Otago,LC Johnson,MJG Rippon,BG Lister,6,1,,1,,,,"",""
+ball,1,18.6,Otago,LC Johnson,MJG Rippon,BG Lister,1,0,,,,,,"",""
+ball,1,18.7,Otago,MJG Rippon,LC Johnson,BG Lister,4,0,,,,,,"",""
+ball,1,19.1,Otago,LC Johnson,MJG Rippon,DK Ferns,0,0,,,,,,caught,LC Johnson
+ball,1,19.2,Otago,MJG Rippon,DN Phillips,DK Ferns,4,0,,,,,,"",""
+ball,1,19.3,Otago,MJG Rippon,DN Phillips,DK Ferns,0,0,,,,,,"",""
+ball,1,19.4,Otago,MJG Rippon,DN Phillips,DK Ferns,0,0,,,,,,caught,MJG Rippon
+ball,1,19.5,Otago,DN Phillips,JA Duffy,DK Ferns,4,0,,,,,,"",""
+ball,1,19.6,Otago,DN Phillips,JA Duffy,DK Ferns,1,0,,,,,,"",""
+ball,2,0.1,Auckland,GK Beghin,SM Solia,JA Duffy,1,0,,,,,,"",""
+ball,2,0.2,Auckland,SM Solia,GK Beghin,JA Duffy,0,0,,,,,,"",""
+ball,2,0.3,Auckland,SM Solia,GK Beghin,JA Duffy,1,0,,,,,,"",""
+ball,2,0.4,Auckland,GK Beghin,SM Solia,JA Duffy,1,0,,,,,,"",""
+ball,2,0.5,Auckland,SM Solia,GK Beghin,JA Duffy,0,1,1,,,,,"",""
+ball,2,0.6,Auckland,SM Solia,GK Beghin,JA Duffy,0,1,,,,1,,"",""
+ball,2,0.7,Auckland,GK Beghin,SM Solia,JA Duffy,0,0,,,,,,"",""
+ball,2,1.1,Auckland,SM Solia,GK Beghin,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,1.2,Auckland,GK Beghin,SM Solia,MJ McClenaghan,0,1,1,,,,,"",""
+ball,2,1.3,Auckland,GK Beghin,SM Solia,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,1.4,Auckland,GK Beghin,SM Solia,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,1.5,Auckland,GK Beghin,SM Solia,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,1.6,Auckland,SM Solia,GK Beghin,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,1.7,Auckland,SM Solia,GK Beghin,MJ McClenaghan,4,0,,,,,,"",""
+ball,2,2.1,Auckland,GK Beghin,SM Solia,MB Bacon,1,0,,,,,,"",""
+ball,2,2.2,Auckland,SM Solia,GK Beghin,MB Bacon,0,1,,,,1,,"",""
+ball,2,2.3,Auckland,GK Beghin,SM Solia,MB Bacon,0,0,,,,,,"",""
+ball,2,2.4,Auckland,GK Beghin,SM Solia,MB Bacon,0,1,1,,,,,"",""
+ball,2,2.5,Auckland,GK Beghin,SM Solia,MB Bacon,0,0,,,,,,caught,GK Beghin
+ball,2,2.6,Auckland,SM Solia,WT O'Donnell,MB Bacon,0,0,,,,,,"",""
+ball,2,2.7,Auckland,SM Solia,WT O'Donnell,MB Bacon,4,0,,,,,,"",""
+ball,2,3.1,Auckland,WT O'Donnell,SM Solia,AK Kitchen,0,0,,,,,,"",""
+ball,2,3.2,Auckland,WT O'Donnell,SM Solia,AK Kitchen,0,0,,,,,,"",""
+ball,2,3.3,Auckland,WT O'Donnell,SM Solia,AK Kitchen,1,0,,,,,,"",""
+ball,2,3.4,Auckland,SM Solia,WT O'Donnell,AK Kitchen,2,0,,,,,,"",""
+ball,2,3.5,Auckland,SM Solia,WT O'Donnell,AK Kitchen,1,0,,,,,,"",""
+ball,2,3.6,Auckland,WT O'Donnell,SM Solia,AK Kitchen,1,0,,,,,,"",""
+ball,2,4.1,Auckland,WT O'Donnell,SM Solia,JA Duffy,0,0,,,,,,"",""
+ball,2,4.2,Auckland,WT O'Donnell,SM Solia,JA Duffy,1,0,,,,,,"",""
+ball,2,4.3,Auckland,SM Solia,WT O'Donnell,JA Duffy,2,0,,,,,,"",""
+ball,2,4.4,Auckland,SM Solia,WT O'Donnell,JA Duffy,0,1,1,,,,,"",""
+ball,2,4.5,Auckland,SM Solia,WT O'Donnell,JA Duffy,0,1,1,,,,,"",""
+ball,2,4.6,Auckland,SM Solia,WT O'Donnell,JA Duffy,1,0,,,,,,"",""
+ball,2,4.7,Auckland,WT O'Donnell,SM Solia,JA Duffy,4,0,,,,,,"",""
+ball,2,4.8,Auckland,WT O'Donnell,SM Solia,JA Duffy,1,0,,,,,,"",""
+ball,2,5.1,Auckland,WT O'Donnell,SM Solia,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,5.2,Auckland,SM Solia,WT O'Donnell,MJ McClenaghan,0,1,1,,,,,"",""
+ball,2,5.3,Auckland,SM Solia,WT O'Donnell,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,5.4,Auckland,WT O'Donnell,SM Solia,MJ McClenaghan,4,0,,,,,,"",""
+ball,2,5.5,Auckland,WT O'Donnell,SM Solia,MJ McClenaghan,6,0,,,,,,"",""
+ball,2,5.6,Auckland,WT O'Donnell,SM Solia,MJ McClenaghan,3,0,,,,,,"",""
+ball,2,5.7,Auckland,SM Solia,WT O'Donnell,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,6.1,Auckland,SM Solia,WT O'Donnell,MJG Rippon,0,1,1,,,,,"",""
+ball,2,6.2,Auckland,SM Solia,WT O'Donnell,MJG Rippon,0,0,,,,,,"",""
+ball,2,6.3,Auckland,SM Solia,WT O'Donnell,MJG Rippon,1,0,,,,,,"",""
+ball,2,6.4,Auckland,WT O'Donnell,SM Solia,MJG Rippon,0,0,,,,,,"",""
+ball,2,6.5,Auckland,WT O'Donnell,SM Solia,MJG Rippon,1,0,,,,,,"",""
+ball,2,6.6,Auckland,SM Solia,WT O'Donnell,MJG Rippon,2,0,,,,,,"",""
+ball,2,6.7,Auckland,SM Solia,WT O'Donnell,MJG Rippon,0,4,4,,,,,"",""
+ball,2,6.8,Auckland,WT O'Donnell,SM Solia,MJG Rippon,0,0,,,,,,caught,WT O'Donnell
+ball,2,7.1,Auckland,SM Solia,GD Phillips,AK Kitchen,0,2,2,,,,,"",""
+ball,2,7.2,Auckland,GD Phillips,SM Solia,AK Kitchen,1,0,,,,,,"",""
+ball,2,7.3,Auckland,SM Solia,GD Phillips,AK Kitchen,1,0,,,,,,"",""
+ball,2,7.4,Auckland,GD Phillips,SM Solia,AK Kitchen,0,0,,,,,,caught,GD Phillips
+ball,2,7.5,Auckland,SM Solia,RR O'Donnell,AK Kitchen,1,0,,,,,,"",""
+ball,2,7.6,Auckland,RR O'Donnell,SM Solia,AK Kitchen,1,0,,,,,,"",""
+ball,2,7.7,Auckland,SM Solia,RR O'Donnell,AK Kitchen,2,0,,,,,,"",""
+ball,2,8.1,Auckland,RR O'Donnell,SM Solia,MJG Rippon,0,0,,,,,,"",""
+ball,2,8.2,Auckland,RR O'Donnell,SM Solia,MJG Rippon,1,0,,,,,,"",""
+ball,2,8.3,Auckland,SM Solia,RR O'Donnell,MJG Rippon,0,0,,,,,,"",""
+ball,2,8.4,Auckland,SM Solia,RR O'Donnell,MJG Rippon,0,0,,,,,,"",""
+ball,2,8.5,Auckland,SM Solia,RR O'Donnell,MJG Rippon,1,0,,,,,,"",""
+ball,2,8.6,Auckland,RR O'Donnell,SM Solia,MJG Rippon,6,0,,,,,,"",""
+ball,2,9.1,Auckland,SM Solia,RR O'Donnell,AK Kitchen,1,0,,,,,,"",""
+ball,2,9.2,Auckland,RR O'Donnell,SM Solia,AK Kitchen,1,0,,,,,,"",""
+ball,2,9.3,Auckland,SM Solia,RR O'Donnell,AK Kitchen,1,0,,,,,,"",""
+ball,2,9.4,Auckland,RR O'Donnell,SM Solia,AK Kitchen,0,1,1,,,,,"",""
+ball,2,9.5,Auckland,RR O'Donnell,SM Solia,AK Kitchen,1,0,,,,,,"",""
+ball,2,9.6,Auckland,SM Solia,RR O'Donnell,AK Kitchen,2,0,,,,,,"",""
+ball,2,9.7,Auckland,SM Solia,RR O'Donnell,AK Kitchen,0,1,,,,1,,"",""
+ball,2,10.1,Auckland,SM Solia,RR O'Donnell,MB Bacon,0,0,,,,,,caught,SM Solia
+ball,2,10.2,Auckland,BJ Horne,RR O'Donnell,MB Bacon,0,0,,,,,,"",""
+ball,2,10.3,Auckland,BJ Horne,RR O'Donnell,MB Bacon,1,0,,,,,,"",""
+ball,2,10.4,Auckland,RR O'Donnell,BJ Horne,MB Bacon,1,0,,,,,,"",""
+ball,2,10.5,Auckland,BJ Horne,RR O'Donnell,MB Bacon,1,0,,,,,,"",""
+ball,2,10.6,Auckland,RR O'Donnell,BJ Horne,MB Bacon,1,0,,,,,,"",""
+ball,2,11.1,Auckland,RR O'Donnell,BJ Horne,MJG Rippon,1,0,,,,,,"",""
+ball,2,11.2,Auckland,BJ Horne,RR O'Donnell,MJG Rippon,2,0,,,,,,"",""
+ball,2,11.3,Auckland,BJ Horne,RR O'Donnell,MJG Rippon,4,0,,,,,,"",""
+ball,2,11.4,Auckland,BJ Horne,RR O'Donnell,MJG Rippon,0,0,,,,,,"",""
+ball,2,11.5,Auckland,BJ Horne,RR O'Donnell,MJG Rippon,1,0,,,,,,"",""
+ball,2,11.6,Auckland,RR O'Donnell,BJ Horne,MJG Rippon,4,0,,,,,,"",""
+ball,2,12.1,Auckland,BJ Horne,RR O'Donnell,MJ McClenaghan,3,0,,,,,,"",""
+ball,2,12.2,Auckland,RR O'Donnell,BJ Horne,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,12.3,Auckland,BJ Horne,RR O'Donnell,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,12.4,Auckland,BJ Horne,RR O'Donnell,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,12.5,Auckland,RR O'Donnell,BJ Horne,MJ McClenaghan,0,0,,,,,,caught,RR O'Donnell
+ball,2,12.6,Auckland,BJ Horne,BP Rodden,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,13.1,Auckland,BJ Horne,BP Rodden,MJG Rippon,2,0,,,,,,"",""
+ball,2,13.2,Auckland,BJ Horne,BP Rodden,MJG Rippon,4,0,,,,,,"",""
+ball,2,13.3,Auckland,BJ Horne,BP Rodden,MJG Rippon,2,0,,,,,,"",""
+ball,2,13.4,Auckland,BJ Horne,BP Rodden,MJG Rippon,1,0,,,,,,"",""
+ball,2,13.5,Auckland,BP Rodden,BJ Horne,MJG Rippon,1,0,,,,,,"",""
+ball,2,13.6,Auckland,BJ Horne,BP Rodden,MJG Rippon,0,1,,,1,,,"",""
+ball,2,14.1,Auckland,BJ Horne,BP Rodden,AK Kitchen,0,0,,,,,,"",""
+ball,2,14.2,Auckland,BJ Horne,BP Rodden,AK Kitchen,1,0,,,,,,"",""
+ball,2,14.3,Auckland,BP Rodden,BJ Horne,AK Kitchen,1,0,,,,,,"",""
+ball,2,14.4,Auckland,BJ Horne,BP Rodden,AK Kitchen,1,0,,,,,,"",""
+ball,2,14.5,Auckland,BP Rodden,BJ Horne,AK Kitchen,0,1,,,,1,,"",""
+ball,2,14.6,Auckland,BJ Horne,BP Rodden,AK Kitchen,0,0,,,,,,"",""
+ball,2,15.1,Auckland,BP Rodden,BJ Horne,JA Duffy,1,0,,,,,,"",""
+ball,2,15.2,Auckland,BJ Horne,BP Rodden,JA Duffy,4,0,,,,,,"",""
+ball,2,15.3,Auckland,BJ Horne,BP Rodden,JA Duffy,4,0,,,,,,"",""
+ball,2,15.4,Auckland,BJ Horne,BP Rodden,JA Duffy,6,0,,,,,,"",""
+ball,2,15.5,Auckland,BJ Horne,BP Rodden,JA Duffy,2,0,,,,,,"",""
+ball,2,15.6,Auckland,BJ Horne,BP Rodden,JA Duffy,0,0,,,,,,"",""
+ball,2,16.1,Auckland,BP Rodden,BJ Horne,MB Bacon,1,0,,,,,,"",""
+ball,2,16.2,Auckland,BJ Horne,BP Rodden,MB Bacon,0,0,,,,,,"",""
+ball,2,16.3,Auckland,BJ Horne,BP Rodden,MB Bacon,2,0,,,,,,"",""
+ball,2,16.4,Auckland,BJ Horne,BP Rodden,MB Bacon,0,1,,,,1,,"",""
+ball,2,16.5,Auckland,BP Rodden,BJ Horne,MB Bacon,0,0,,,,,,"",""
+ball,2,16.6,Auckland,BP Rodden,BJ Horne,MB Bacon,2,0,,,,,,"",""
+ball,2,17.1,Auckland,BJ Horne,BP Rodden,MJ McClenaghan,1,0,,,,,,run out,BP Rodden
+ball,2,17.2,Auckland,BJ Horne,WER Somerville,MJ McClenaghan,0,1,1,,,,,"",""
+ball,2,17.3,Auckland,BJ Horne,WER Somerville,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,17.4,Auckland,BJ Horne,WER Somerville,MJ McClenaghan,4,0,,,,,,"",""
+ball,2,17.5,Auckland,BJ Horne,WER Somerville,MJ McClenaghan,6,0,,,,,,"",""
+ball,2,17.6,Auckland,BJ Horne,WER Somerville,MJ McClenaghan,2,0,,,,,,"",""
+ball,2,17.7,Auckland,BJ Horne,WER Somerville,MJ McClenaghan,6,0,,,,,,"",""
+ball,2,18.1,Auckland,WER Somerville,BJ Horne,JA Duffy,2,0,,,,,,"",""
+ball,2,18.2,Auckland,WER Somerville,BJ Horne,JA Duffy,1,0,,,,,,"",""
+ball,2,18.3,Auckland,BJ Horne,WER Somerville,JA Duffy,1,0,,,,,,run out,BJ Horne
+ball,2,18.4,Auckland,WER Somerville,OMR Pringle,JA Duffy,1,0,,,,,,"",""
+ball,2,18.5,Auckland,OMR Pringle,WER Somerville,JA Duffy,1,0,,,,,,run out,OMR Pringle
+ball,2,18.6,Auckland,DK Ferns,WER Somerville,JA Duffy,0,0,,,,,,caught and bowled,DK Ferns
+ball,2,19.1,Auckland,WER Somerville,BG Lister,MB Bacon,1,0,,,,,,"",""
+ball,2,19.2,Auckland,BG Lister,WER Somerville,MB Bacon,0,0,,,,,,"",""
+ball,2,19.3,Auckland,BG Lister,WER Somerville,MB Bacon,1,0,,,,,,"",""
+ball,2,19.4,Auckland,WER Somerville,BG Lister,MB Bacon,1,0,,,,,,"",""
+ball,2,19.5,Auckland,BG Lister,WER Somerville,MB Bacon,0,0,,,,,,caught,BG Lister

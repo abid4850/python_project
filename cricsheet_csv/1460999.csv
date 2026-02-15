@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Warwickshire
+info,team,Somerset
+info,gender,female
+info,season,2025
+info,date,2025/06/06
+info,event,Vitality Blast Women
+info,match_number,11
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Somerset
+info,toss_decision,field
+info,umpire,G Brown
+info,umpire,WRP Fernando
+info,match_referee,SM Bartlett
+info,winner,Warwickshire
+info,winner_runs,69
+info,player,Warwickshire,D Perrin
+info,player,Warwickshire,AJ Freeborn
+info,player,Warwickshire,IECM Wong
+info,player,Warwickshire,NAJ Wraith
+info,player,Warwickshire,SL Kalis
+info,player,Warwickshire,C Pavely
+info,player,Warwickshire,L Harris
+info,player,Warwickshire,MSL Taylor
+info,player,Warwickshire,GK Davis
+info,player,Warwickshire,HL Baker
+info,player,Warwickshire,H Hardwick
+info,player,Somerset,R Odgers
+info,player,Somerset,AC Munday
+info,player,Somerset,FC Wilson
+info,player,Somerset,SN Luff
+info,player,Somerset,A Wellington
+info,player,Somerset,A Griffiths
+info,player,Somerset,C Skelton
+info,player,Somerset,E Anderson
+info,player,Somerset,MJ Robbins
+info,player,Somerset,HE Jones
+info,player,Somerset,E Corney
+info,registry,people,A Griffiths,091001f8
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AC Munday,c3bf7767
+info,registry,people,AJ Freeborn,c6da6ebf
+info,registry,people,C Pavely,907e5f6c
+info,registry,people,C Skelton,db362015
+info,registry,people,D Perrin,bfa0fa33
+info,registry,people,E Anderson,5f86ce69
+info,registry,people,E Corney,2406424c
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,G Brown,4b781bd0
+info,registry,people,GK Davis,54719239
+info,registry,people,H Hardwick,1164142d
+info,registry,people,HE Jones,f7b74efa
+info,registry,people,HL Baker,cefad9fd
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,L Harris,36e2dc83
+info,registry,people,MJ Robbins,f929cd04
+info,registry,people,MSL Taylor,918928a7
+info,registry,people,NAJ Wraith,1ec1998e
+info,registry,people,R Odgers,73eb8252
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SN Luff,e19307f3
+info,registry,people,WRP Fernando,7d98d385
+ball,1,0.1,Warwickshire,D Perrin,AJ Freeborn,E Anderson,0,1,1,,,,,"",""
+ball,1,0.2,Warwickshire,D Perrin,AJ Freeborn,E Anderson,1,0,,,,,,"",""
+ball,1,0.3,Warwickshire,AJ Freeborn,D Perrin,E Anderson,1,0,,,,,,"",""
+ball,1,0.4,Warwickshire,D Perrin,AJ Freeborn,E Anderson,1,0,,,,,,"",""
+ball,1,0.5,Warwickshire,AJ Freeborn,D Perrin,E Anderson,1,0,,,,,,"",""
+ball,1,0.6,Warwickshire,D Perrin,AJ Freeborn,E Anderson,0,0,,,,,,"",""
+ball,1,0.7,Warwickshire,D Perrin,AJ Freeborn,E Anderson,4,0,,,,,,"",""
+ball,1,1.1,Warwickshire,AJ Freeborn,D Perrin,MJ Robbins,0,0,,,,,,lbw,AJ Freeborn
+ball,1,1.2,Warwickshire,IECM Wong,D Perrin,MJ Robbins,0,0,,,,,,"",""
+ball,1,1.3,Warwickshire,IECM Wong,D Perrin,MJ Robbins,1,0,,,,,,"",""
+ball,1,1.4,Warwickshire,D Perrin,IECM Wong,MJ Robbins,1,0,,,,,,"",""
+ball,1,1.5,Warwickshire,IECM Wong,D Perrin,MJ Robbins,0,0,,,,,,caught,IECM Wong
+ball,1,1.6,Warwickshire,NAJ Wraith,D Perrin,MJ Robbins,0,4,,,4,,,"",""
+ball,1,2.1,Warwickshire,D Perrin,NAJ Wraith,E Anderson,1,0,,,,,,"",""
+ball,1,2.2,Warwickshire,NAJ Wraith,D Perrin,E Anderson,0,0,,,,,,"",""
+ball,1,2.3,Warwickshire,NAJ Wraith,D Perrin,E Anderson,2,0,,,,,,"",""
+ball,1,2.4,Warwickshire,NAJ Wraith,D Perrin,E Anderson,1,0,,,,,,"",""
+ball,1,2.5,Warwickshire,D Perrin,NAJ Wraith,E Anderson,1,0,,,,,,"",""
+ball,1,2.6,Warwickshire,NAJ Wraith,D Perrin,E Anderson,4,0,,,,,,"",""
+ball,1,3.1,Warwickshire,D Perrin,NAJ Wraith,MJ Robbins,4,0,,,,,,"",""
+ball,1,3.2,Warwickshire,D Perrin,NAJ Wraith,MJ Robbins,0,0,,,,,,"",""
+ball,1,3.3,Warwickshire,D Perrin,NAJ Wraith,MJ Robbins,2,0,,,,,,"",""
+ball,1,3.4,Warwickshire,D Perrin,NAJ Wraith,MJ Robbins,0,0,,,,,,bowled,D Perrin
+ball,1,3.5,Warwickshire,SL Kalis,NAJ Wraith,MJ Robbins,0,0,,,,,,"",""
+ball,1,3.6,Warwickshire,SL Kalis,NAJ Wraith,MJ Robbins,0,1,1,,,,,"",""
+ball,1,3.7,Warwickshire,SL Kalis,NAJ Wraith,MJ Robbins,4,0,,,,,,"",""
+ball,1,4.1,Warwickshire,NAJ Wraith,SL Kalis,HE Jones,1,0,,,,,,"",""
+ball,1,4.2,Warwickshire,SL Kalis,NAJ Wraith,HE Jones,0,1,,,,1,,"",""
+ball,1,4.3,Warwickshire,NAJ Wraith,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,4.4,Warwickshire,NAJ Wraith,SL Kalis,HE Jones,4,0,,,,,,"",""
+ball,1,4.5,Warwickshire,NAJ Wraith,SL Kalis,HE Jones,2,0,,,,,,"",""
+ball,1,4.6,Warwickshire,NAJ Wraith,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,5.1,Warwickshire,SL Kalis,NAJ Wraith,MJ Robbins,0,0,,,,,,"",""
+ball,1,5.2,Warwickshire,SL Kalis,NAJ Wraith,MJ Robbins,0,1,1,,,,,"",""
+ball,1,5.3,Warwickshire,SL Kalis,NAJ Wraith,MJ Robbins,0,0,,,,,,"",""
+ball,1,5.4,Warwickshire,SL Kalis,NAJ Wraith,MJ Robbins,4,0,,,,,,"",""
+ball,1,5.5,Warwickshire,SL Kalis,NAJ Wraith,MJ Robbins,4,0,,,,,,"",""
+ball,1,5.6,Warwickshire,SL Kalis,NAJ Wraith,MJ Robbins,1,0,,,,,,"",""
+ball,1,5.7,Warwickshire,NAJ Wraith,SL Kalis,MJ Robbins,1,0,,,,,,"",""
+ball,1,6.1,Warwickshire,NAJ Wraith,SL Kalis,A Wellington,0,0,,,,,,"",""
+ball,1,6.2,Warwickshire,NAJ Wraith,SL Kalis,A Wellington,0,0,,,,,,bowled,NAJ Wraith
+ball,1,6.3,Warwickshire,C Pavely,SL Kalis,A Wellington,1,0,,,,,,"",""
+ball,1,6.4,Warwickshire,SL Kalis,C Pavely,A Wellington,0,0,,,,,,"",""
+ball,1,6.5,Warwickshire,SL Kalis,C Pavely,A Wellington,4,0,,,,,,"",""
+ball,1,6.6,Warwickshire,SL Kalis,C Pavely,A Wellington,2,0,,,,,,"",""
+ball,1,7.1,Warwickshire,C Pavely,SL Kalis,C Skelton,0,0,,,,,,"",""
+ball,1,7.2,Warwickshire,C Pavely,SL Kalis,C Skelton,2,0,,,,,,"",""
+ball,1,7.3,Warwickshire,C Pavely,SL Kalis,C Skelton,0,0,,,,,,"",""
+ball,1,7.4,Warwickshire,C Pavely,SL Kalis,C Skelton,1,0,,,,,,"",""
+ball,1,7.5,Warwickshire,SL Kalis,C Pavely,C Skelton,1,0,,,,,,"",""
+ball,1,7.6,Warwickshire,C Pavely,SL Kalis,C Skelton,1,0,,,,,,"",""
+ball,1,8.1,Warwickshire,C Pavely,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,8.2,Warwickshire,C Pavely,SL Kalis,HE Jones,2,0,,,,,,"",""
+ball,1,8.3,Warwickshire,C Pavely,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,8.4,Warwickshire,C Pavely,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,8.5,Warwickshire,C Pavely,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,8.6,Warwickshire,C Pavely,SL Kalis,HE Jones,1,0,,,,,,"",""
+ball,1,9.1,Warwickshire,C Pavely,SL Kalis,A Griffiths,0,0,,,,,,"",""
+ball,1,9.2,Warwickshire,C Pavely,SL Kalis,A Griffiths,1,0,,,,,,"",""
+ball,1,9.3,Warwickshire,SL Kalis,C Pavely,A Griffiths,2,0,,,,,,"",""
+ball,1,9.4,Warwickshire,SL Kalis,C Pavely,A Griffiths,1,0,,,,,,"",""
+ball,1,9.5,Warwickshire,C Pavely,SL Kalis,A Griffiths,0,0,,,,,,"",""
+ball,1,9.6,Warwickshire,C Pavely,SL Kalis,A Griffiths,0,0,,,,,,caught,C Pavely
+ball,1,10.1,Warwickshire,SL Kalis,L Harris,A Wellington,1,0,,,,,,"",""
+ball,1,10.2,Warwickshire,L Harris,SL Kalis,A Wellington,1,0,,,,,,"",""
+ball,1,10.3,Warwickshire,SL Kalis,L Harris,A Wellington,0,0,,,,,,"",""
+ball,1,10.4,Warwickshire,SL Kalis,L Harris,A Wellington,1,0,,,,,,"",""
+ball,1,10.5,Warwickshire,L Harris,SL Kalis,A Wellington,6,0,,,,,,"",""
+ball,1,10.6,Warwickshire,L Harris,SL Kalis,A Wellington,2,0,,,,,,"",""
+ball,1,11.1,Warwickshire,SL Kalis,L Harris,HE Jones,0,0,,,,,,"",""
+ball,1,11.2,Warwickshire,SL Kalis,L Harris,HE Jones,0,0,,,,,,"",""
+ball,1,11.3,Warwickshire,SL Kalis,L Harris,HE Jones,1,0,,,,,,"",""
+ball,1,11.4,Warwickshire,L Harris,SL Kalis,HE Jones,0,0,,,,,,"",""
+ball,1,11.5,Warwickshire,L Harris,SL Kalis,HE Jones,0,1,,,,1,,"",""
+ball,1,11.6,Warwickshire,SL Kalis,L Harris,HE Jones,4,0,,,,,,"",""
+ball,1,12.1,Warwickshire,L Harris,SL Kalis,E Anderson,0,1,1,,,,,"",""
+ball,1,12.2,Warwickshire,L Harris,SL Kalis,E Anderson,0,0,,,,,,"",""
+ball,1,12.3,Warwickshire,L Harris,SL Kalis,E Anderson,4,0,,,,,,"",""
+ball,1,12.4,Warwickshire,L Harris,SL Kalis,E Anderson,4,0,,,,,,"",""
+ball,1,12.5,Warwickshire,L Harris,SL Kalis,E Anderson,6,0,,,,,,"",""
+ball,1,12.6,Warwickshire,L Harris,SL Kalis,E Anderson,0,0,,,,,,"",""
+ball,1,12.7,Warwickshire,L Harris,SL Kalis,E Anderson,1,0,,,,,,"",""
+ball,1,13.1,Warwickshire,L Harris,SL Kalis,C Skelton,1,0,,,,,,"",""
+ball,1,13.2,Warwickshire,SL Kalis,L Harris,C Skelton,0,0,,,,,,"",""
+ball,1,13.3,Warwickshire,SL Kalis,L Harris,C Skelton,0,0,,,,,,"",""
+ball,1,13.4,Warwickshire,SL Kalis,L Harris,C Skelton,0,0,,,,,,"",""
+ball,1,13.5,Warwickshire,SL Kalis,L Harris,C Skelton,1,0,,,,,,"",""
+ball,1,13.6,Warwickshire,L Harris,SL Kalis,C Skelton,4,0,,,,,,"",""
+ball,1,14.1,Warwickshire,SL Kalis,L Harris,A Wellington,0,0,,,,,,"",""
+ball,1,14.2,Warwickshire,SL Kalis,L Harris,A Wellington,1,0,,,,,,"",""
+ball,1,14.3,Warwickshire,L Harris,SL Kalis,A Wellington,4,0,,,,,,"",""
+ball,1,14.4,Warwickshire,L Harris,SL Kalis,A Wellington,0,0,,,,,,run out,SL Kalis
+ball,1,14.5,Warwickshire,L Harris,MSL Taylor,A Wellington,6,0,,,,,,"",""
+ball,1,14.6,Warwickshire,L Harris,MSL Taylor,A Wellington,4,0,,,,,,"",""
+ball,1,15.1,Warwickshire,MSL Taylor,L Harris,A Griffiths,1,0,,,,,,"",""
+ball,1,15.2,Warwickshire,L Harris,MSL Taylor,A Griffiths,4,0,,,,,,"",""
+ball,1,15.3,Warwickshire,L Harris,MSL Taylor,A Griffiths,4,0,,,,,,"",""
+ball,1,15.4,Warwickshire,L Harris,MSL Taylor,A Griffiths,2,0,,,,,,"",""
+ball,1,15.5,Warwickshire,L Harris,MSL Taylor,A Griffiths,1,0,,,,,,"",""
+ball,1,15.6,Warwickshire,MSL Taylor,L Harris,A Griffiths,0,0,,,,,,"",""
+ball,1,16.1,Warwickshire,L Harris,MSL Taylor,HE Jones,2,0,,,,,,"",""
+ball,1,16.2,Warwickshire,L Harris,MSL Taylor,HE Jones,1,0,,,,,,"",""
+ball,1,16.3,Warwickshire,MSL Taylor,L Harris,HE Jones,0,0,,,,,,"",""
+ball,1,16.4,Warwickshire,MSL Taylor,L Harris,HE Jones,0,0,,,,,,bowled,MSL Taylor
+ball,1,16.5,Warwickshire,GK Davis,L Harris,HE Jones,0,0,,,,,,"",""
+ball,1,16.6,Warwickshire,GK Davis,L Harris,HE Jones,1,0,,,,,,"",""
+ball,1,17.1,Warwickshire,GK Davis,L Harris,C Skelton,4,0,,,,,,"",""
+ball,1,17.2,Warwickshire,GK Davis,L Harris,C Skelton,0,0,,,,,,caught and bowled,GK Davis
+ball,1,17.3,Warwickshire,HL Baker,L Harris,C Skelton,0,0,,,,,,"",""
+ball,1,17.4,Warwickshire,HL Baker,L Harris,C Skelton,1,0,,,,,,"",""
+ball,1,17.5,Warwickshire,L Harris,HL Baker,C Skelton,0,0,,,,,,"",""
+ball,1,17.6,Warwickshire,L Harris,HL Baker,C Skelton,1,0,,,,,,"",""
+ball,1,18.1,Warwickshire,L Harris,HL Baker,A Wellington,4,0,,,,,,"",""
+ball,1,18.2,Warwickshire,L Harris,HL Baker,A Wellington,4,0,,,,,,"",""
+ball,1,18.3,Warwickshire,L Harris,HL Baker,A Wellington,1,0,,,,,,"",""
+ball,1,18.4,Warwickshire,HL Baker,L Harris,A Wellington,0,0,,,,,,"",""
+ball,1,18.5,Warwickshire,HL Baker,L Harris,A Wellington,1,0,,,,,,"",""
+ball,1,18.6,Warwickshire,L Harris,HL Baker,A Wellington,0,0,,,,,,"",""
+ball,1,19.1,Warwickshire,HL Baker,L Harris,C Skelton,1,0,,,,,,"",""
+ball,1,19.2,Warwickshire,L Harris,HL Baker,C Skelton,6,0,,,,,,"",""
+ball,1,19.3,Warwickshire,L Harris,HL Baker,C Skelton,0,0,,,,,,"",""
+ball,1,19.4,Warwickshire,L Harris,HL Baker,C Skelton,2,0,,,,,,"",""
+ball,1,19.5,Warwickshire,L Harris,HL Baker,C Skelton,1,1,,1,,,,"",""
+ball,1,19.6,Warwickshire,HL Baker,L Harris,C Skelton,1,0,,,,,,"",""
+ball,1,19.7,Warwickshire,L Harris,HL Baker,C Skelton,1,0,,,,,,run out,L Harris
+ball,2,0.1,Somerset,R Odgers,AC Munday,IECM Wong,0,0,,,,,,"",""
+ball,2,0.2,Somerset,R Odgers,AC Munday,IECM Wong,0,0,,,,,,"",""
+ball,2,0.3,Somerset,R Odgers,AC Munday,IECM Wong,0,0,,,,,,"",""
+ball,2,0.4,Somerset,R Odgers,AC Munday,IECM Wong,0,0,,,,,,"",""
+ball,2,0.5,Somerset,R Odgers,AC Munday,IECM Wong,1,0,,,,,,"",""
+ball,2,0.6,Somerset,AC Munday,R Odgers,IECM Wong,0,0,,,,,,"",""
+ball,2,1.1,Somerset,R Odgers,AC Munday,H Hardwick,0,0,,,,,,"",""
+ball,2,1.2,Somerset,R Odgers,AC Munday,H Hardwick,0,1,1,,,,,"",""
+ball,2,1.3,Somerset,R Odgers,AC Munday,H Hardwick,1,0,,,,,,"",""
+ball,2,1.4,Somerset,AC Munday,R Odgers,H Hardwick,2,0,,,,,,"",""
+ball,2,1.5,Somerset,AC Munday,R Odgers,H Hardwick,0,0,,,,,,"",""
+ball,2,1.6,Somerset,AC Munday,R Odgers,H Hardwick,4,0,,,,,,"",""
+ball,2,1.7,Somerset,AC Munday,R Odgers,H Hardwick,1,0,,,,,,"",""
+ball,2,2.1,Somerset,AC Munday,R Odgers,IECM Wong,0,0,,,,,,"",""
+ball,2,2.2,Somerset,AC Munday,R Odgers,IECM Wong,1,0,,,,,,"",""
+ball,2,2.3,Somerset,R Odgers,AC Munday,IECM Wong,4,0,,,,,,"",""
+ball,2,2.4,Somerset,R Odgers,AC Munday,IECM Wong,0,0,,,,,,lbw,R Odgers
+ball,2,2.5,Somerset,FC Wilson,AC Munday,IECM Wong,4,0,,,,,,"",""
+ball,2,2.6,Somerset,FC Wilson,AC Munday,IECM Wong,0,0,,,,,,"",""
+ball,2,3.1,Somerset,AC Munday,FC Wilson,H Hardwick,0,0,,,,,,"",""
+ball,2,3.2,Somerset,AC Munday,FC Wilson,H Hardwick,6,0,,,,,,"",""
+ball,2,3.3,Somerset,AC Munday,FC Wilson,H Hardwick,1,0,,,,,,"",""
+ball,2,3.4,Somerset,FC Wilson,AC Munday,H Hardwick,1,0,,,,,,"",""
+ball,2,3.5,Somerset,AC Munday,FC Wilson,H Hardwick,2,0,,,,,,"",""
+ball,2,3.6,Somerset,AC Munday,FC Wilson,H Hardwick,1,0,,,,,,"",""
+ball,2,4.1,Somerset,AC Munday,FC Wilson,C Pavely,0,0,,,,,,"",""
+ball,2,4.2,Somerset,AC Munday,FC Wilson,C Pavely,1,0,,,,,,"",""
+ball,2,4.3,Somerset,FC Wilson,AC Munday,C Pavely,4,0,,,,,,"",""
+ball,2,4.4,Somerset,FC Wilson,AC Munday,C Pavely,0,0,,,,,,"",""
+ball,2,4.5,Somerset,FC Wilson,AC Munday,C Pavely,1,0,,,,,,"",""
+ball,2,4.6,Somerset,AC Munday,FC Wilson,C Pavely,0,0,,,,,,"",""
+ball,2,5.1,Somerset,FC Wilson,AC Munday,GK Davis,1,0,,,,,,"",""
+ball,2,5.2,Somerset,AC Munday,FC Wilson,GK Davis,0,0,,,,,,"",""
+ball,2,5.3,Somerset,AC Munday,FC Wilson,GK Davis,0,0,,,,,,stumped,AC Munday
+ball,2,5.4,Somerset,SN Luff,FC Wilson,GK Davis,0,0,,,,,,"",""
+ball,2,5.5,Somerset,SN Luff,FC Wilson,GK Davis,0,0,,,,,,"",""
+ball,2,5.6,Somerset,SN Luff,FC Wilson,GK Davis,1,0,,,,,,"",""
+ball,2,6.1,Somerset,SN Luff,FC Wilson,HL Baker,0,0,,,,,,"",""
+ball,2,6.2,Somerset,SN Luff,FC Wilson,HL Baker,1,0,,,,,,"",""
+ball,2,6.3,Somerset,FC Wilson,SN Luff,HL Baker,1,0,,,,,,"",""
+ball,2,6.4,Somerset,SN Luff,FC Wilson,HL Baker,1,0,,,,,,"",""
+ball,2,6.5,Somerset,FC Wilson,SN Luff,HL Baker,0,0,,,,,,"",""
+ball,2,6.6,Somerset,FC Wilson,SN Luff,HL Baker,1,0,,,,,,"",""
+ball,2,7.1,Somerset,FC Wilson,SN Luff,GK Davis,1,0,,,,,,"",""
+ball,2,7.2,Somerset,SN Luff,FC Wilson,GK Davis,1,0,,,,,,"",""
+ball,2,7.3,Somerset,FC Wilson,SN Luff,GK Davis,1,0,,,,,,"",""
+ball,2,7.4,Somerset,SN Luff,FC Wilson,GK Davis,0,0,,,,,,"",""
+ball,2,7.5,Somerset,SN Luff,FC Wilson,GK Davis,1,0,,,,,,"",""
+ball,2,7.6,Somerset,FC Wilson,SN Luff,GK Davis,1,0,,,,,,"",""
+ball,2,8.1,Somerset,FC Wilson,SN Luff,C Pavely,1,0,,,,,,"",""
+ball,2,8.2,Somerset,SN Luff,FC Wilson,C Pavely,1,0,,,,,,"",""
+ball,2,8.3,Somerset,FC Wilson,SN Luff,C Pavely,1,0,,,,,,"",""
+ball,2,8.4,Somerset,SN Luff,FC Wilson,C Pavely,1,0,,,,,,"",""
+ball,2,8.5,Somerset,FC Wilson,SN Luff,C Pavely,1,0,,,,,,"",""
+ball,2,8.6,Somerset,SN Luff,FC Wilson,C Pavely,4,0,,,,,,"",""
+ball,2,9.1,Somerset,FC Wilson,SN Luff,MSL Taylor,0,0,,,,,,"",""
+ball,2,9.2,Somerset,FC Wilson,SN Luff,MSL Taylor,1,0,,,,,,"",""
+ball,2,9.3,Somerset,SN Luff,FC Wilson,MSL Taylor,1,0,,,,,,"",""
+ball,2,9.4,Somerset,FC Wilson,SN Luff,MSL Taylor,0,0,,,,,,"",""
+ball,2,9.5,Somerset,FC Wilson,SN Luff,MSL Taylor,1,0,,,,,,"",""
+ball,2,9.6,Somerset,SN Luff,FC Wilson,MSL Taylor,0,0,,,,,,"",""
+ball,2,10.1,Somerset,FC Wilson,SN Luff,HL Baker,1,0,,,,,,"",""
+ball,2,10.2,Somerset,SN Luff,FC Wilson,HL Baker,1,0,,,,,,"",""
+ball,2,10.3,Somerset,FC Wilson,SN Luff,HL Baker,1,0,,,,,,"",""
+ball,2,10.4,Somerset,SN Luff,FC Wilson,HL Baker,0,0,,,,,,caught and bowled,SN Luff
+ball,2,10.5,Somerset,A Wellington,FC Wilson,HL Baker,1,0,,,,,,"",""
+ball,2,10.6,Somerset,FC Wilson,A Wellington,HL Baker,0,0,,,,,,"",""
+ball,2,11.1,Somerset,A Wellington,FC Wilson,IECM Wong,1,0,,,,,,"",""
+ball,2,11.2,Somerset,FC Wilson,A Wellington,IECM Wong,0,0,,,,,,"",""
+ball,2,11.3,Somerset,FC Wilson,A Wellington,IECM Wong,1,0,,,,,,"",""
+ball,2,11.4,Somerset,A Wellington,FC Wilson,IECM Wong,0,1,1,,,,,"",""
+ball,2,11.5,Somerset,A Wellington,FC Wilson,IECM Wong,1,0,,,,,,"",""
+ball,2,11.6,Somerset,FC Wilson,A Wellington,IECM Wong,1,0,,,,,,"",""
+ball,2,11.7,Somerset,A Wellington,FC Wilson,IECM Wong,0,1,1,,,,,"",""
+ball,2,11.8,Somerset,A Wellington,FC Wilson,IECM Wong,0,1,1,,,,,"",""
+ball,2,11.9,Somerset,A Wellington,FC Wilson,IECM Wong,1,0,,,,,,"",""
+ball,2,12.1,Somerset,A Wellington,FC Wilson,HL Baker,0,0,,,,,,"",""
+ball,2,12.2,Somerset,A Wellington,FC Wilson,HL Baker,1,0,,,,,,"",""
+ball,2,12.3,Somerset,FC Wilson,A Wellington,HL Baker,4,0,,,,,,"",""
+ball,2,12.4,Somerset,FC Wilson,A Wellington,HL Baker,0,0,,,,,,"",""
+ball,2,12.5,Somerset,FC Wilson,A Wellington,HL Baker,1,0,,,,,,"",""
+ball,2,12.6,Somerset,A Wellington,FC Wilson,HL Baker,1,0,,,,,,"",""
+ball,2,13.1,Somerset,A Wellington,FC Wilson,MSL Taylor,0,0,,,,,,"",""
+ball,2,13.2,Somerset,A Wellington,FC Wilson,MSL Taylor,2,0,,,,,,"",""
+ball,2,13.3,Somerset,A Wellington,FC Wilson,MSL Taylor,1,0,,,,,,"",""
+ball,2,13.4,Somerset,FC Wilson,A Wellington,MSL Taylor,0,0,,,,,,"",""
+ball,2,13.5,Somerset,FC Wilson,A Wellington,MSL Taylor,1,0,,,,,,"",""
+ball,2,13.6,Somerset,A Wellington,FC Wilson,MSL Taylor,0,0,,,,,,bowled,A Wellington
+ball,2,14.1,Somerset,FC Wilson,A Griffiths,GK Davis,0,0,,,,,,caught,FC Wilson
+ball,2,14.2,Somerset,C Skelton,A Griffiths,GK Davis,0,0,,,,,,"",""
+ball,2,14.3,Somerset,C Skelton,A Griffiths,GK Davis,0,0,,,,,,"",""
+ball,2,14.4,Somerset,C Skelton,A Griffiths,GK Davis,0,0,,,,,,"",""
+ball,2,14.5,Somerset,C Skelton,A Griffiths,GK Davis,1,0,,,,,,"",""
+ball,2,14.6,Somerset,A Griffiths,C Skelton,GK Davis,1,0,,,,,,"",""
+ball,2,15.1,Somerset,A Griffiths,C Skelton,HL Baker,1,0,,,,,,"",""
+ball,2,15.2,Somerset,C Skelton,A Griffiths,HL Baker,0,0,,,,,,"",""
+ball,2,15.3,Somerset,C Skelton,A Griffiths,HL Baker,1,0,,,,,,"",""
+ball,2,15.4,Somerset,A Griffiths,C Skelton,HL Baker,0,0,,,,,,"",""
+ball,2,15.5,Somerset,A Griffiths,C Skelton,HL Baker,1,0,,,,,,"",""
+ball,2,15.6,Somerset,C Skelton,A Griffiths,HL Baker,1,0,,,,,,"",""
+ball,2,16.1,Somerset,C Skelton,A Griffiths,GK Davis,1,0,,,,,,"",""
+ball,2,16.2,Somerset,A Griffiths,C Skelton,GK Davis,1,0,,,,,,"",""
+ball,2,16.3,Somerset,C Skelton,A Griffiths,GK Davis,1,0,,,,,,"",""
+ball,2,16.4,Somerset,A Griffiths,C Skelton,GK Davis,0,0,,,,,,caught,A Griffiths
+ball,2,16.5,Somerset,E Anderson,C Skelton,GK Davis,0,0,,,,,,"",""
+ball,2,16.6,Somerset,E Anderson,C Skelton,GK Davis,0,0,,,,,,"",""
+ball,2,17.1,Somerset,C Skelton,E Anderson,C Pavely,1,0,,,,,,"",""
+ball,2,17.2,Somerset,E Anderson,C Skelton,C Pavely,0,0,,,,,,"",""
+ball,2,17.3,Somerset,E Anderson,C Skelton,C Pavely,2,0,,,,,,"",""
+ball,2,17.4,Somerset,E Anderson,C Skelton,C Pavely,1,0,,,,,,"",""
+ball,2,17.5,Somerset,C Skelton,E Anderson,C Pavely,1,0,,,,,,"",""
+ball,2,17.6,Somerset,E Anderson,C Skelton,C Pavely,1,0,,,,,,"",""
+ball,2,18.1,Somerset,E Anderson,C Skelton,MSL Taylor,1,0,,,,,,"",""
+ball,2,18.2,Somerset,C Skelton,E Anderson,MSL Taylor,0,0,,,,,,caught,C Skelton
+ball,2,18.3,Somerset,MJ Robbins,E Anderson,MSL Taylor,0,0,,,,,,lbw,MJ Robbins
+ball,2,18.4,Somerset,HE Jones,E Anderson,MSL Taylor,1,0,,,,,,"",""
+ball,2,18.5,Somerset,E Anderson,HE Jones,MSL Taylor,1,0,,,,,,"",""
+ball,2,18.6,Somerset,HE Jones,E Anderson,MSL Taylor,3,0,,,,,,"",""
+ball,2,19.1,Somerset,HE Jones,E Anderson,IECM Wong,0,0,,,,,,caught,HE Jones

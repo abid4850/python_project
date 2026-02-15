@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Warriors
+info,gender,male
+info,season,2014/15
+info,date,2014/11/14
+info,event,Ram Slam T20 Challenge
+info,venue,"St George's Park, Port Elizabeth"
+info,city,Port Elizabeth
+info,toss_winner,Dolphins
+info,toss_decision,bat
+info,player_of_match,DJ Bravo
+info,player_of_match,CA Ingram
+info,umpire,BM White
+info,umpire,IL Howell
+info,reserve_umpire,BG Jerling
+info,match_referee,D Govindjee
+info,winner,Warriors
+info,winner_wickets,7
+info,player,Dolphins,MN van Wyk
+info,player,Dolphins,CS Delport
+info,player,Dolphins,C Chetty
+info,player,Dolphins,K Zondo
+info,player,Dolphins,VB van Jaarsveld
+info,player,Dolphins,DJ Bravo
+info,player,Dolphins,R Frylinck
+info,player,Dolphins,KA Maharaj
+info,player,Dolphins,CJ Alexander
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,BS Makhanya
+info,player,Warriors,JT Smuts
+info,player,Warriors,C Kieswetter
+info,player,Warriors,CA Ingram
+info,player,Warriors,C Jonker
+info,player,Warriors,MY Vallie
+info,player,Warriors,S Seyibokwe
+info,player,Warriors,SR Harmer
+info,player,Warriors,J Theron
+info,player,Warriors,A Gqamane
+info,player,Warriors,BD Walters
+info,player,Warriors,L Mbane
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,BD Walters,1e182ae2
+info,registry,people,BG Jerling,26457e41
+info,registry,people,BM White,66c21d35
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,C Chetty,27ca3a11
+info,registry,people,C Jonker,a81d6706
+info,registry,people,C Kieswetter,1e960f2a
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CJ Alexander,26d9937d
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,D Govindjee,8b4c4069
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,J Theron,dec8e038
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Mbane,ca322fd6
+info,registry,people,MN van Wyk,710dd98c
+info,registry,people,MY Vallie,9fa54c94
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,S Seyibokwe,2f873ad6
+info,registry,people,SR Harmer,23638956
+info,registry,people,VB van Jaarsveld,890b877d
+ball,1,0.1,Dolphins,MN van Wyk,CS Delport,J Theron,0,0,,,,,,"",""
+ball,1,0.2,Dolphins,MN van Wyk,CS Delport,J Theron,0,0,,,,,,"",""
+ball,1,0.3,Dolphins,MN van Wyk,CS Delport,J Theron,0,0,,,,,,"",""
+ball,1,0.4,Dolphins,MN van Wyk,CS Delport,J Theron,4,0,,,,,,"",""
+ball,1,0.5,Dolphins,MN van Wyk,CS Delport,J Theron,1,0,,,,,,"",""
+ball,1,0.6,Dolphins,CS Delport,MN van Wyk,J Theron,4,0,,,,,,"",""
+ball,1,1.1,Dolphins,MN van Wyk,CS Delport,BD Walters,0,0,,,,,,"",""
+ball,1,1.2,Dolphins,MN van Wyk,CS Delport,BD Walters,0,0,,,,,,"",""
+ball,1,1.3,Dolphins,MN van Wyk,CS Delport,BD Walters,1,0,,,,,,"",""
+ball,1,1.4,Dolphins,CS Delport,MN van Wyk,BD Walters,0,0,,,,,,"",""
+ball,1,1.5,Dolphins,CS Delport,MN van Wyk,BD Walters,0,0,,,,,,"",""
+ball,1,1.6,Dolphins,CS Delport,MN van Wyk,BD Walters,4,0,,,,,,"",""
+ball,1,2.1,Dolphins,MN van Wyk,CS Delport,J Theron,0,0,,,,,,"",""
+ball,1,2.2,Dolphins,MN van Wyk,CS Delport,J Theron,2,0,,,,,,"",""
+ball,1,2.3,Dolphins,MN van Wyk,CS Delport,J Theron,0,0,,,,,,"",""
+ball,1,2.4,Dolphins,MN van Wyk,CS Delport,J Theron,0,0,,,,,,caught,MN van Wyk
+ball,1,2.5,Dolphins,CS Delport,C Chetty,J Theron,1,0,,,,,,"",""
+ball,1,2.6,Dolphins,C Chetty,CS Delport,J Theron,0,0,,,,,,"",""
+ball,1,3.1,Dolphins,CS Delport,C Chetty,BD Walters,0,1,1,,,,,"",""
+ball,1,3.2,Dolphins,CS Delport,C Chetty,BD Walters,0,0,,,,,,"",""
+ball,1,3.3,Dolphins,CS Delport,C Chetty,BD Walters,6,0,,,,,,"",""
+ball,1,3.4,Dolphins,CS Delport,C Chetty,BD Walters,1,0,,,,,,"",""
+ball,1,3.5,Dolphins,C Chetty,CS Delport,BD Walters,0,0,,,,,,"",""
+ball,1,3.6,Dolphins,C Chetty,CS Delport,BD Walters,0,0,,,,,,"",""
+ball,1,3.7,Dolphins,C Chetty,CS Delport,BD Walters,0,0,,,,,,"",""
+ball,1,4.1,Dolphins,CS Delport,C Chetty,A Gqamane,0,0,,,,,,"",""
+ball,1,4.2,Dolphins,CS Delport,C Chetty,A Gqamane,6,0,,,,,,"",""
+ball,1,4.3,Dolphins,CS Delport,C Chetty,A Gqamane,1,0,,,,,,"",""
+ball,1,4.4,Dolphins,C Chetty,CS Delport,A Gqamane,6,0,,,,,,"",""
+ball,1,4.5,Dolphins,C Chetty,CS Delport,A Gqamane,4,0,,,,,,"",""
+ball,1,4.6,Dolphins,C Chetty,CS Delport,A Gqamane,4,0,,,,,,"",""
+ball,1,5.1,Dolphins,CS Delport,C Chetty,L Mbane,0,0,,,,,,"",""
+ball,1,5.2,Dolphins,CS Delport,C Chetty,L Mbane,6,0,,,,,,"",""
+ball,1,5.3,Dolphins,CS Delport,C Chetty,L Mbane,1,0,,,,,,"",""
+ball,1,5.4,Dolphins,C Chetty,CS Delport,L Mbane,1,0,,,,,,"",""
+ball,1,5.5,Dolphins,CS Delport,C Chetty,L Mbane,1,0,,,,,,"",""
+ball,1,5.6,Dolphins,C Chetty,CS Delport,L Mbane,4,0,,,,,,"",""
+ball,1,6.1,Dolphins,CS Delport,C Chetty,A Gqamane,0,0,,,,,,"",""
+ball,1,6.2,Dolphins,CS Delport,C Chetty,A Gqamane,1,0,,,,,,"",""
+ball,1,6.3,Dolphins,C Chetty,CS Delport,A Gqamane,0,0,,,,,,caught,C Chetty
+ball,1,6.4,Dolphins,K Zondo,CS Delport,A Gqamane,0,0,,,,,,"",""
+ball,1,6.5,Dolphins,K Zondo,CS Delport,A Gqamane,0,0,,,,,,"",""
+ball,1,6.6,Dolphins,K Zondo,CS Delport,A Gqamane,0,0,,,,,,"",""
+ball,1,7.1,Dolphins,CS Delport,K Zondo,SR Harmer,2,0,,,,,,"",""
+ball,1,7.2,Dolphins,CS Delport,K Zondo,SR Harmer,0,0,,,,,,"",""
+ball,1,7.3,Dolphins,CS Delport,K Zondo,SR Harmer,0,0,,,,,,"",""
+ball,1,7.4,Dolphins,CS Delport,K Zondo,SR Harmer,0,0,,,,,,lbw,CS Delport
+ball,1,7.5,Dolphins,VB van Jaarsveld,K Zondo,SR Harmer,0,0,,,,,,"",""
+ball,1,7.6,Dolphins,VB van Jaarsveld,K Zondo,SR Harmer,1,0,,,,,,"",""
+ball,1,8.1,Dolphins,VB van Jaarsveld,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,8.2,Dolphins,K Zondo,VB van Jaarsveld,JT Smuts,1,0,,,,,,"",""
+ball,1,8.3,Dolphins,VB van Jaarsveld,K Zondo,JT Smuts,0,1,1,,,,,"",""
+ball,1,8.4,Dolphins,VB van Jaarsveld,K Zondo,JT Smuts,0,0,,,,,,"",""
+ball,1,8.5,Dolphins,VB van Jaarsveld,K Zondo,JT Smuts,0,0,,,,,,"",""
+ball,1,8.6,Dolphins,VB van Jaarsveld,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,8.7,Dolphins,K Zondo,VB van Jaarsveld,JT Smuts,1,0,,,,,,"",""
+ball,1,9.1,Dolphins,K Zondo,VB van Jaarsveld,SR Harmer,1,0,,,,,,"",""
+ball,1,9.2,Dolphins,VB van Jaarsveld,K Zondo,SR Harmer,1,0,,,,,,"",""
+ball,1,9.3,Dolphins,K Zondo,VB van Jaarsveld,SR Harmer,1,0,,,,,,"",""
+ball,1,9.4,Dolphins,VB van Jaarsveld,K Zondo,SR Harmer,0,0,,,,,,caught and bowled,VB van Jaarsveld
+ball,1,9.5,Dolphins,DJ Bravo,K Zondo,SR Harmer,1,0,,,,,,"",""
+ball,1,9.6,Dolphins,K Zondo,DJ Bravo,SR Harmer,0,0,,,,,,"",""
+ball,1,10.1,Dolphins,DJ Bravo,K Zondo,JT Smuts,0,0,,,,,,"",""
+ball,1,10.2,Dolphins,DJ Bravo,K Zondo,JT Smuts,0,0,,,,,,"",""
+ball,1,10.3,Dolphins,DJ Bravo,K Zondo,JT Smuts,2,0,,,,,,"",""
+ball,1,10.4,Dolphins,DJ Bravo,K Zondo,JT Smuts,0,0,,,,,,"",""
+ball,1,10.5,Dolphins,DJ Bravo,K Zondo,JT Smuts,0,0,,,,,,"",""
+ball,1,10.6,Dolphins,DJ Bravo,K Zondo,JT Smuts,0,0,,,,,,"",""
+ball,1,11.1,Dolphins,K Zondo,DJ Bravo,SR Harmer,1,0,,,,,,"",""
+ball,1,11.2,Dolphins,DJ Bravo,K Zondo,SR Harmer,0,0,,,,,,"",""
+ball,1,11.3,Dolphins,DJ Bravo,K Zondo,SR Harmer,1,0,,,,,,"",""
+ball,1,11.4,Dolphins,K Zondo,DJ Bravo,SR Harmer,4,0,,,,,,"",""
+ball,1,11.5,Dolphins,K Zondo,DJ Bravo,SR Harmer,1,0,,,,,,"",""
+ball,1,11.6,Dolphins,DJ Bravo,K Zondo,SR Harmer,1,0,,,,,,"",""
+ball,1,12.1,Dolphins,DJ Bravo,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,12.2,Dolphins,K Zondo,DJ Bravo,JT Smuts,0,0,,,,,,"",""
+ball,1,12.3,Dolphins,K Zondo,DJ Bravo,JT Smuts,1,0,,,,,,"",""
+ball,1,12.4,Dolphins,DJ Bravo,K Zondo,JT Smuts,4,0,,,,,,"",""
+ball,1,12.5,Dolphins,DJ Bravo,K Zondo,JT Smuts,0,0,,,,,,"",""
+ball,1,12.6,Dolphins,DJ Bravo,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,13.1,Dolphins,DJ Bravo,K Zondo,SR Harmer,1,0,,,,,,"",""
+ball,1,13.2,Dolphins,K Zondo,DJ Bravo,SR Harmer,1,0,,,,,,"",""
+ball,1,13.3,Dolphins,DJ Bravo,K Zondo,SR Harmer,1,0,,,,,,"",""
+ball,1,13.4,Dolphins,K Zondo,DJ Bravo,SR Harmer,1,0,,,,,,"",""
+ball,1,13.5,Dolphins,DJ Bravo,K Zondo,SR Harmer,2,0,,,,,,"",""
+ball,1,13.6,Dolphins,DJ Bravo,K Zondo,SR Harmer,1,0,,,,,,"",""
+ball,1,14.1,Dolphins,DJ Bravo,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,14.2,Dolphins,K Zondo,DJ Bravo,JT Smuts,0,0,,,,,,"",""
+ball,1,14.3,Dolphins,K Zondo,DJ Bravo,JT Smuts,1,0,,,,,,"",""
+ball,1,14.4,Dolphins,DJ Bravo,K Zondo,JT Smuts,1,0,,,,,,"",""
+ball,1,14.5,Dolphins,K Zondo,DJ Bravo,JT Smuts,1,0,,,,,,"",""
+ball,1,14.6,Dolphins,DJ Bravo,K Zondo,JT Smuts,0,0,,,,,,"",""
+ball,1,15.1,Dolphins,K Zondo,DJ Bravo,L Mbane,1,0,,,,,,"",""
+ball,1,15.2,Dolphins,DJ Bravo,K Zondo,L Mbane,1,0,,,,,,"",""
+ball,1,15.3,Dolphins,K Zondo,DJ Bravo,L Mbane,1,0,,,,,,"",""
+ball,1,15.4,Dolphins,DJ Bravo,K Zondo,L Mbane,1,0,,,,,,"",""
+ball,1,15.5,Dolphins,K Zondo,DJ Bravo,L Mbane,1,0,,,,,,"",""
+ball,1,15.6,Dolphins,DJ Bravo,K Zondo,L Mbane,1,0,,,,,,"",""
+ball,1,16.1,Dolphins,DJ Bravo,K Zondo,J Theron,0,0,,,,,,bowled,DJ Bravo
+ball,1,16.2,Dolphins,R Frylinck,K Zondo,J Theron,1,0,,,,,,"",""
+ball,1,16.3,Dolphins,K Zondo,R Frylinck,J Theron,1,0,,,,,,"",""
+ball,1,16.4,Dolphins,R Frylinck,K Zondo,J Theron,2,0,,,,,,"",""
+ball,1,16.5,Dolphins,R Frylinck,K Zondo,J Theron,1,0,,,,,,"",""
+ball,1,16.6,Dolphins,K Zondo,R Frylinck,J Theron,1,0,,,,,,"",""
+ball,1,17.1,Dolphins,K Zondo,R Frylinck,L Mbane,0,0,,,,,,bowled,K Zondo
+ball,1,17.2,Dolphins,KA Maharaj,R Frylinck,L Mbane,1,0,,,,,,"",""
+ball,1,17.3,Dolphins,R Frylinck,KA Maharaj,L Mbane,1,0,,,,,,"",""
+ball,1,17.4,Dolphins,KA Maharaj,R Frylinck,L Mbane,0,1,1,,,,,"",""
+ball,1,17.5,Dolphins,KA Maharaj,R Frylinck,L Mbane,0,0,,,,,,"",""
+ball,1,17.6,Dolphins,KA Maharaj,R Frylinck,L Mbane,0,1,,1,,,,"",""
+ball,1,17.7,Dolphins,KA Maharaj,R Frylinck,L Mbane,1,0,,,,,,"",""
+ball,1,17.8,Dolphins,R Frylinck,KA Maharaj,L Mbane,0,0,,,,,,"",""
+ball,1,18.1,Dolphins,KA Maharaj,R Frylinck,J Theron,4,0,,,,,,"",""
+ball,1,18.2,Dolphins,KA Maharaj,R Frylinck,J Theron,0,1,1,,,,,"",""
+ball,1,18.3,Dolphins,KA Maharaj,R Frylinck,J Theron,1,0,,,,,,"",""
+ball,1,18.4,Dolphins,R Frylinck,KA Maharaj,J Theron,6,0,,,,,,"",""
+ball,1,18.5,Dolphins,R Frylinck,KA Maharaj,J Theron,1,0,,,,,,"",""
+ball,1,18.6,Dolphins,KA Maharaj,R Frylinck,J Theron,2,0,,,,,,"",""
+ball,1,18.7,Dolphins,KA Maharaj,R Frylinck,J Theron,0,0,,,,,,"",""
+ball,1,19.1,Dolphins,R Frylinck,KA Maharaj,L Mbane,0,0,,,,,,"",""
+ball,1,19.2,Dolphins,R Frylinck,KA Maharaj,L Mbane,6,0,,,,,,"",""
+ball,1,19.3,Dolphins,R Frylinck,KA Maharaj,L Mbane,0,0,,,,,,"",""
+ball,1,19.4,Dolphins,R Frylinck,KA Maharaj,L Mbane,1,0,,,,,,"",""
+ball,1,19.5,Dolphins,KA Maharaj,R Frylinck,L Mbane,1,0,,,,,,"",""
+ball,1,19.6,Dolphins,R Frylinck,KA Maharaj,L Mbane,2,0,,,,,,"",""
+ball,2,0.1,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,0,,,,,,"",""
+ball,2,0.2,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,1,1,,,,,"",""
+ball,2,0.3,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,0,,,,,,"",""
+ball,2,0.4,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,0,,,,,,"",""
+ball,2,0.5,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,1,1,,,,,"",""
+ball,2,0.6,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,0,,,,,,"",""
+ball,2,0.7,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,0,,,,,,"",""
+ball,2,0.8,Warriors,JT Smuts,C Kieswetter,R Frylinck,1,0,,,,,,"",""
+ball,2,1.1,Warriors,JT Smuts,C Kieswetter,CJ Alexander,1,0,,,,,,"",""
+ball,2,1.2,Warriors,C Kieswetter,JT Smuts,CJ Alexander,0,0,,,,,,"",""
+ball,2,1.3,Warriors,C Kieswetter,JT Smuts,CJ Alexander,1,0,,,,,,"",""
+ball,2,1.4,Warriors,JT Smuts,C Kieswetter,CJ Alexander,1,0,,,,,,"",""
+ball,2,1.5,Warriors,C Kieswetter,JT Smuts,CJ Alexander,0,0,,,,,,"",""
+ball,2,1.6,Warriors,C Kieswetter,JT Smuts,CJ Alexander,0,0,,,,,,"",""
+ball,2,2.1,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,0,,,,,,"",""
+ball,2,2.2,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,0,,,,,,"",""
+ball,2,2.3,Warriors,JT Smuts,C Kieswetter,R Frylinck,4,0,,,,,,"",""
+ball,2,2.4,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,0,,,,,,"",""
+ball,2,2.5,Warriors,JT Smuts,C Kieswetter,R Frylinck,2,0,,,,,,"",""
+ball,2,2.6,Warriors,JT Smuts,C Kieswetter,R Frylinck,0,1,,,,1,,"",""
+ball,2,3.1,Warriors,JT Smuts,C Kieswetter,CJ Alexander,4,0,,,,,,"",""
+ball,2,3.2,Warriors,JT Smuts,C Kieswetter,CJ Alexander,3,0,,,,,,"",""
+ball,2,3.3,Warriors,C Kieswetter,JT Smuts,CJ Alexander,4,0,,,,,,"",""
+ball,2,3.4,Warriors,C Kieswetter,JT Smuts,CJ Alexander,6,0,,,,,,"",""
+ball,2,3.5,Warriors,C Kieswetter,JT Smuts,CJ Alexander,0,0,,,,,,"",""
+ball,2,3.6,Warriors,C Kieswetter,JT Smuts,CJ Alexander,1,0,,,,,,"",""
+ball,2,4.1,Warriors,C Kieswetter,JT Smuts,DJ Bravo,0,0,,,,,,"",""
+ball,2,4.2,Warriors,C Kieswetter,JT Smuts,DJ Bravo,0,0,,,,,,"",""
+ball,2,4.3,Warriors,C Kieswetter,JT Smuts,DJ Bravo,4,0,,,,,,"",""
+ball,2,4.4,Warriors,C Kieswetter,JT Smuts,DJ Bravo,0,0,,,,,,"",""
+ball,2,4.5,Warriors,C Kieswetter,JT Smuts,DJ Bravo,0,0,,,,,,bowled,C Kieswetter
+ball,2,4.6,Warriors,CA Ingram,JT Smuts,DJ Bravo,0,0,,,,,,"",""
+ball,2,5.1,Warriors,JT Smuts,CA Ingram,P Subrayen,1,0,,,,,,"",""
+ball,2,5.2,Warriors,CA Ingram,JT Smuts,P Subrayen,4,0,,,,,,"",""
+ball,2,5.3,Warriors,CA Ingram,JT Smuts,P Subrayen,0,0,,,,,,"",""
+ball,2,5.4,Warriors,CA Ingram,JT Smuts,P Subrayen,0,0,,,,,,"",""
+ball,2,5.5,Warriors,CA Ingram,JT Smuts,P Subrayen,0,0,,,,,,"",""
+ball,2,5.6,Warriors,CA Ingram,JT Smuts,P Subrayen,1,0,,,,,,"",""
+ball,2,6.1,Warriors,CA Ingram,JT Smuts,KA Maharaj,0,0,,,,,,"",""
+ball,2,6.2,Warriors,CA Ingram,JT Smuts,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.3,Warriors,JT Smuts,CA Ingram,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.4,Warriors,CA Ingram,JT Smuts,KA Maharaj,0,0,,,,,,"",""
+ball,2,6.5,Warriors,CA Ingram,JT Smuts,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.6,Warriors,JT Smuts,CA Ingram,KA Maharaj,4,0,,,,,,"",""
+ball,2,7.1,Warriors,CA Ingram,JT Smuts,BS Makhanya,0,0,,,,,,"",""
+ball,2,7.2,Warriors,CA Ingram,JT Smuts,BS Makhanya,0,0,,,,,,"",""
+ball,2,7.3,Warriors,CA Ingram,JT Smuts,BS Makhanya,1,0,,,,,,"",""
+ball,2,7.4,Warriors,JT Smuts,CA Ingram,BS Makhanya,1,0,,,,,,"",""
+ball,2,7.5,Warriors,CA Ingram,JT Smuts,BS Makhanya,0,1,,,,1,,"",""
+ball,2,7.6,Warriors,JT Smuts,CA Ingram,BS Makhanya,1,0,,,,,,"",""
+ball,2,8.1,Warriors,JT Smuts,CA Ingram,KA Maharaj,0,0,,,,,,"",""
+ball,2,8.2,Warriors,JT Smuts,CA Ingram,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.3,Warriors,CA Ingram,JT Smuts,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.4,Warriors,JT Smuts,CA Ingram,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.5,Warriors,CA Ingram,JT Smuts,KA Maharaj,6,0,,,,,,"",""
+ball,2,8.6,Warriors,CA Ingram,JT Smuts,KA Maharaj,0,0,,,,,,"",""
+ball,2,9.1,Warriors,JT Smuts,CA Ingram,P Subrayen,1,0,,,,,,"",""
+ball,2,9.2,Warriors,CA Ingram,JT Smuts,P Subrayen,0,0,,,,,,"",""
+ball,2,9.3,Warriors,CA Ingram,JT Smuts,P Subrayen,0,0,,,,,,"",""
+ball,2,9.4,Warriors,CA Ingram,JT Smuts,P Subrayen,6,0,,,,,,"",""
+ball,2,9.5,Warriors,CA Ingram,JT Smuts,P Subrayen,1,0,,,,,,"",""
+ball,2,9.6,Warriors,JT Smuts,CA Ingram,P Subrayen,1,0,,,,,,"",""
+ball,2,10.1,Warriors,JT Smuts,CA Ingram,BS Makhanya,1,0,,,,,,"",""
+ball,2,10.2,Warriors,CA Ingram,JT Smuts,BS Makhanya,1,0,,,,,,"",""
+ball,2,10.3,Warriors,JT Smuts,CA Ingram,BS Makhanya,0,0,,,,,,"",""
+ball,2,10.4,Warriors,JT Smuts,CA Ingram,BS Makhanya,0,0,,,,,,"",""
+ball,2,10.5,Warriors,JT Smuts,CA Ingram,BS Makhanya,0,0,,,,,,"",""
+ball,2,10.6,Warriors,JT Smuts,CA Ingram,BS Makhanya,6,0,,,,,,"",""
+ball,2,11.1,Warriors,CA Ingram,JT Smuts,P Subrayen,1,0,,,,,,"",""
+ball,2,11.2,Warriors,JT Smuts,CA Ingram,P Subrayen,2,0,,,,,,"",""
+ball,2,11.3,Warriors,JT Smuts,CA Ingram,P Subrayen,0,0,,,,,,"",""
+ball,2,11.4,Warriors,JT Smuts,CA Ingram,P Subrayen,1,0,,,,,,"",""
+ball,2,11.5,Warriors,CA Ingram,JT Smuts,P Subrayen,3,0,,,,,,"",""
+ball,2,11.6,Warriors,JT Smuts,CA Ingram,P Subrayen,1,0,,,,,,"",""
+ball,2,12.1,Warriors,JT Smuts,CA Ingram,DJ Bravo,1,0,,,,,,"",""
+ball,2,12.2,Warriors,CA Ingram,JT Smuts,DJ Bravo,1,0,,,,,,"",""
+ball,2,12.3,Warriors,JT Smuts,CA Ingram,DJ Bravo,0,0,,,,,,"",""
+ball,2,12.4,Warriors,JT Smuts,CA Ingram,DJ Bravo,1,0,,,,,,"",""
+ball,2,12.5,Warriors,CA Ingram,JT Smuts,DJ Bravo,0,0,,,,,,"",""
+ball,2,12.6,Warriors,CA Ingram,JT Smuts,DJ Bravo,1,0,,,,,,"",""
+ball,2,13.1,Warriors,CA Ingram,JT Smuts,BS Makhanya,1,0,,,,,,"",""
+ball,2,13.2,Warriors,JT Smuts,CA Ingram,BS Makhanya,1,0,,,,,,"",""
+ball,2,13.3,Warriors,CA Ingram,JT Smuts,BS Makhanya,0,0,,,,,,"",""
+ball,2,13.4,Warriors,CA Ingram,JT Smuts,BS Makhanya,2,0,,,,,,"",""
+ball,2,13.5,Warriors,CA Ingram,JT Smuts,BS Makhanya,1,0,,,,,,"",""
+ball,2,13.6,Warriors,JT Smuts,CA Ingram,BS Makhanya,2,0,,,,,,"",""
+ball,2,14.1,Warriors,CA Ingram,JT Smuts,CJ Alexander,0,0,,,,,,"",""
+ball,2,14.2,Warriors,CA Ingram,JT Smuts,CJ Alexander,0,0,,,,,,"",""
+ball,2,14.3,Warriors,CA Ingram,JT Smuts,CJ Alexander,1,0,,,,,,"",""
+ball,2,14.4,Warriors,JT Smuts,CA Ingram,CJ Alexander,0,1,,,,1,,"",""
+ball,2,14.5,Warriors,CA Ingram,JT Smuts,CJ Alexander,1,0,,,,,,"",""
+ball,2,14.6,Warriors,JT Smuts,CA Ingram,CJ Alexander,0,0,,,,,,"",""
+ball,2,15.1,Warriors,CA Ingram,JT Smuts,DJ Bravo,1,0,,,,,,"",""
+ball,2,15.2,Warriors,JT Smuts,CA Ingram,DJ Bravo,0,0,,,,,,"",""
+ball,2,15.3,Warriors,JT Smuts,CA Ingram,DJ Bravo,2,0,,,,,,"",""
+ball,2,15.4,Warriors,JT Smuts,CA Ingram,DJ Bravo,1,0,,,,,,"",""
+ball,2,15.5,Warriors,CA Ingram,JT Smuts,DJ Bravo,4,0,,,,,,"",""
+ball,2,15.6,Warriors,CA Ingram,JT Smuts,DJ Bravo,1,0,,,,,,"",""
+ball,2,16.1,Warriors,CA Ingram,JT Smuts,CJ Alexander,0,0,,,,,,"",""
+ball,2,16.2,Warriors,CA Ingram,JT Smuts,CJ Alexander,1,0,,,,,,"",""
+ball,2,16.3,Warriors,JT Smuts,CA Ingram,CJ Alexander,1,0,,,,,,"",""
+ball,2,16.4,Warriors,CA Ingram,JT Smuts,CJ Alexander,6,0,,,,,,"",""
+ball,2,16.5,Warriors,CA Ingram,JT Smuts,CJ Alexander,1,0,,,,,,"",""
+ball,2,16.6,Warriors,JT Smuts,CA Ingram,CJ Alexander,6,0,,,,,,"",""
+ball,2,17.1,Warriors,CA Ingram,JT Smuts,R Frylinck,4,0,,,,,,"",""
+ball,2,17.2,Warriors,CA Ingram,JT Smuts,R Frylinck,0,0,,,,,,"",""
+ball,2,17.3,Warriors,CA Ingram,JT Smuts,R Frylinck,0,0,,,,,,"",""
+ball,2,17.4,Warriors,CA Ingram,JT Smuts,R Frylinck,2,0,,,,,,"",""
+ball,2,17.5,Warriors,CA Ingram,JT Smuts,R Frylinck,2,0,,,,,,"",""
+ball,2,17.6,Warriors,CA Ingram,JT Smuts,R Frylinck,0,0,,,,,,"",""
+ball,2,18.1,Warriors,JT Smuts,CA Ingram,DJ Bravo,0,0,,,,,,run out,JT Smuts
+ball,2,18.2,Warriors,C Jonker,CA Ingram,DJ Bravo,0,0,,,,,,"",""
+ball,2,18.3,Warriors,C Jonker,CA Ingram,DJ Bravo,0,0,,,,,,caught,C Jonker
+ball,2,18.4,Warriors,CA Ingram,MY Vallie,DJ Bravo,1,0,,,,,,"",""
+ball,2,18.5,Warriors,MY Vallie,CA Ingram,DJ Bravo,1,0,,,,,,"",""
+ball,2,18.6,Warriors,CA Ingram,MY Vallie,DJ Bravo,1,0,,,,,,"",""
+ball,2,19.1,Warriors,CA Ingram,MY Vallie,R Frylinck,2,0,,,,,,"",""
+ball,2,19.2,Warriors,CA Ingram,MY Vallie,R Frylinck,1,0,,,,,,"",""
+ball,2,19.3,Warriors,MY Vallie,CA Ingram,R Frylinck,2,0,,,,,,"",""
+ball,2,19.4,Warriors,MY Vallie,CA Ingram,R Frylinck,1,0,,,,,,"",""
+ball,2,19.5,Warriors,CA Ingram,MY Vallie,R Frylinck,0,0,,,,,,"",""
+ball,2,19.6,Warriors,CA Ingram,MY Vallie,R Frylinck,2,0,,,,,,"",""

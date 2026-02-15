@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Yorkshire Diamonds
+info,team,Loughborough Lightning
+info,gender,female
+info,season,2018
+info,date,2018/08/18
+info,event,Women's Cricket Super League
+info,match_number,29
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Yorkshire Diamonds
+info,toss_decision,bat
+info,umpire,James Middlebrook
+info,umpire,Tom Lungley
+info,winner,Yorkshire Diamonds
+info,winner_runs,3
+info,player,Yorkshire Diamonds,L Winfield
+info,player,Yorkshire Diamonds,BL Mooney
+info,player,Yorkshire Diamonds,BAM Heath
+info,player,Yorkshire Diamonds,TF Brookes
+info,player,Yorkshire Diamonds,DM Kimmince
+info,player,Yorkshire Diamonds,AN Davidson-Richards
+info,player,Yorkshire Diamonds,BA Langston
+info,player,Yorkshire Diamonds,AZ Monaghan
+info,player,Yorkshire Diamonds,S Munro
+info,player,Yorkshire Diamonds,KA Levick
+info,player,Yorkshire Diamonds,KC Thompson
+info,player,Loughborough Lightning,RL Haynes
+info,player,Loughborough Lightning,SFM Devine
+info,player,Loughborough Lightning,AE Jones
+info,player,Loughborough Lightning,EJ Villani
+info,player,Loughborough Lightning,GA Elwiss
+info,player,Loughborough Lightning,GL Adams
+info,player,Loughborough Lightning,JL Gunn
+info,player,Loughborough Lightning,LF Higham
+info,player,Loughborough Lightning,S Glenn
+info,player,Loughborough Lightning,KL Gordon
+info,player,Loughborough Lightning,LCN Smith
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,BA Langston,fb192f98
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,DM Kimmince,d693012d
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,JL Gunn,907c51ab
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KC Thompson,e381ae69
+info,registry,people,KL Gordon,00823a96
+info,registry,people,L Winfield,5230a33d
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Munro,b4e026de
+info,registry,people,SFM Devine,de69af96
+info,registry,people,TF Brookes,45135344
+info,registry,people,Tom Lungley,75169b8c
+ball,1,0.1,Yorkshire Diamonds,L Winfield,BL Mooney,JL Gunn,0,0,,,,,,"",""
+ball,1,0.2,Yorkshire Diamonds,L Winfield,BL Mooney,JL Gunn,0,0,,,,,,"",""
+ball,1,0.3,Yorkshire Diamonds,L Winfield,BL Mooney,JL Gunn,1,0,,,,,,"",""
+ball,1,0.4,Yorkshire Diamonds,BL Mooney,L Winfield,JL Gunn,0,0,,,,,,"",""
+ball,1,0.5,Yorkshire Diamonds,BL Mooney,L Winfield,JL Gunn,4,0,,,,,,"",""
+ball,1,0.6,Yorkshire Diamonds,BL Mooney,L Winfield,JL Gunn,0,0,,,,,,"",""
+ball,1,1.1,Yorkshire Diamonds,L Winfield,BL Mooney,SFM Devine,0,0,,,,,,"",""
+ball,1,1.2,Yorkshire Diamonds,L Winfield,BL Mooney,SFM Devine,1,0,,,,,,"",""
+ball,1,1.3,Yorkshire Diamonds,BL Mooney,L Winfield,SFM Devine,0,1,1,,,,,"",""
+ball,1,1.4,Yorkshire Diamonds,BL Mooney,L Winfield,SFM Devine,4,0,,,,,,"",""
+ball,1,1.5,Yorkshire Diamonds,BL Mooney,L Winfield,SFM Devine,0,0,,,,,,"",""
+ball,1,1.6,Yorkshire Diamonds,BL Mooney,L Winfield,SFM Devine,1,0,,,,,,"",""
+ball,1,1.7,Yorkshire Diamonds,L Winfield,BL Mooney,SFM Devine,1,0,,,,,,"",""
+ball,1,2.1,Yorkshire Diamonds,L Winfield,BL Mooney,LCN Smith,1,0,,,,,,"",""
+ball,1,2.2,Yorkshire Diamonds,BL Mooney,L Winfield,LCN Smith,1,0,,,,,,"",""
+ball,1,2.3,Yorkshire Diamonds,L Winfield,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,2.4,Yorkshire Diamonds,L Winfield,BL Mooney,LCN Smith,4,0,,,,,,"",""
+ball,1,2.5,Yorkshire Diamonds,L Winfield,BL Mooney,LCN Smith,0,0,,,,,,bowled,L Winfield
+ball,1,2.6,Yorkshire Diamonds,BAM Heath,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,3.1,Yorkshire Diamonds,BL Mooney,BAM Heath,GA Elwiss,4,0,,,,,,"",""
+ball,1,3.2,Yorkshire Diamonds,BL Mooney,BAM Heath,GA Elwiss,1,0,,,,,,"",""
+ball,1,3.3,Yorkshire Diamonds,BAM Heath,BL Mooney,GA Elwiss,0,0,,,,,,"",""
+ball,1,3.4,Yorkshire Diamonds,BAM Heath,BL Mooney,GA Elwiss,0,0,,,,,,"",""
+ball,1,3.5,Yorkshire Diamonds,BAM Heath,BL Mooney,GA Elwiss,1,0,,,,,,"",""
+ball,1,3.6,Yorkshire Diamonds,BL Mooney,BAM Heath,GA Elwiss,0,0,,,,,,"",""
+ball,1,4.1,Yorkshire Diamonds,BAM Heath,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,4.2,Yorkshire Diamonds,BAM Heath,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,4.3,Yorkshire Diamonds,BAM Heath,BL Mooney,LCN Smith,4,0,,,,,,"",""
+ball,1,4.4,Yorkshire Diamonds,BAM Heath,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,4.5,Yorkshire Diamonds,BAM Heath,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,4.6,Yorkshire Diamonds,BAM Heath,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,5.1,Yorkshire Diamonds,BL Mooney,BAM Heath,GA Elwiss,1,0,,,,,,"",""
+ball,1,5.2,Yorkshire Diamonds,BAM Heath,BL Mooney,GA Elwiss,0,0,,,,,,"",""
+ball,1,5.3,Yorkshire Diamonds,BAM Heath,BL Mooney,GA Elwiss,2,0,,,,,,"",""
+ball,1,5.4,Yorkshire Diamonds,BAM Heath,BL Mooney,GA Elwiss,1,0,,,,,,"",""
+ball,1,5.5,Yorkshire Diamonds,BL Mooney,BAM Heath,GA Elwiss,0,1,,,,1,,"",""
+ball,1,5.6,Yorkshire Diamonds,BAM Heath,BL Mooney,GA Elwiss,0,0,,,,,,"",""
+ball,1,6.1,Yorkshire Diamonds,BL Mooney,BAM Heath,KL Gordon,2,0,,,,,,"",""
+ball,1,6.2,Yorkshire Diamonds,BL Mooney,BAM Heath,KL Gordon,1,0,,,,,,"",""
+ball,1,6.3,Yorkshire Diamonds,BAM Heath,BL Mooney,KL Gordon,1,0,,,,,,"",""
+ball,1,6.4,Yorkshire Diamonds,BL Mooney,BAM Heath,KL Gordon,1,0,,,,,,"",""
+ball,1,6.5,Yorkshire Diamonds,BAM Heath,BL Mooney,KL Gordon,0,0,,,,,,"",""
+ball,1,6.6,Yorkshire Diamonds,BAM Heath,BL Mooney,KL Gordon,0,0,,,,,,"",""
+ball,1,7.1,Yorkshire Diamonds,BL Mooney,BAM Heath,JL Gunn,1,0,,,,,,"",""
+ball,1,7.2,Yorkshire Diamonds,BAM Heath,BL Mooney,JL Gunn,1,0,,,,,,"",""
+ball,1,7.3,Yorkshire Diamonds,BL Mooney,BAM Heath,JL Gunn,1,0,,,,,,"",""
+ball,1,7.4,Yorkshire Diamonds,BAM Heath,BL Mooney,JL Gunn,1,0,,,,,,"",""
+ball,1,7.5,Yorkshire Diamonds,BL Mooney,BAM Heath,JL Gunn,0,0,,,,,,"",""
+ball,1,7.6,Yorkshire Diamonds,BL Mooney,BAM Heath,JL Gunn,1,0,,,,,,"",""
+ball,1,8.1,Yorkshire Diamonds,BL Mooney,BAM Heath,LF Higham,0,0,,,,,,"",""
+ball,1,8.2,Yorkshire Diamonds,BL Mooney,BAM Heath,LF Higham,4,0,,,,,,"",""
+ball,1,8.3,Yorkshire Diamonds,BL Mooney,BAM Heath,LF Higham,4,0,,,,,,"",""
+ball,1,8.4,Yorkshire Diamonds,BL Mooney,BAM Heath,LF Higham,2,0,,,,,,"",""
+ball,1,8.5,Yorkshire Diamonds,BL Mooney,BAM Heath,LF Higham,1,0,,,,,,"",""
+ball,1,8.6,Yorkshire Diamonds,BAM Heath,BL Mooney,LF Higham,1,0,,,,,,"",""
+ball,1,9.1,Yorkshire Diamonds,BAM Heath,BL Mooney,KL Gordon,1,0,,,,,,"",""
+ball,1,9.2,Yorkshire Diamonds,BL Mooney,BAM Heath,KL Gordon,2,0,,,,,,"",""
+ball,1,9.3,Yorkshire Diamonds,BL Mooney,BAM Heath,KL Gordon,1,0,,,,,,"",""
+ball,1,9.4,Yorkshire Diamonds,BAM Heath,BL Mooney,KL Gordon,1,0,,,,,,"",""
+ball,1,9.5,Yorkshire Diamonds,BL Mooney,BAM Heath,KL Gordon,1,0,,,,,,"",""
+ball,1,9.6,Yorkshire Diamonds,BAM Heath,BL Mooney,KL Gordon,1,0,,,,,,"",""
+ball,1,10.1,Yorkshire Diamonds,BAM Heath,BL Mooney,SFM Devine,0,1,,,,1,,"",""
+ball,1,10.2,Yorkshire Diamonds,BL Mooney,BAM Heath,SFM Devine,1,0,,,,,,"",""
+ball,1,10.3,Yorkshire Diamonds,BAM Heath,BL Mooney,SFM Devine,2,0,,,,,,"",""
+ball,1,10.4,Yorkshire Diamonds,BAM Heath,BL Mooney,SFM Devine,1,0,,,,,,"",""
+ball,1,10.5,Yorkshire Diamonds,BL Mooney,BAM Heath,SFM Devine,1,0,,,,,,"",""
+ball,1,10.6,Yorkshire Diamonds,BAM Heath,BL Mooney,SFM Devine,0,1,1,,,,,"",""
+ball,1,10.7,Yorkshire Diamonds,BAM Heath,BL Mooney,SFM Devine,4,0,,,,,,"",""
+ball,1,11.1,Yorkshire Diamonds,BL Mooney,BAM Heath,LCN Smith,1,0,,,,,,"",""
+ball,1,11.2,Yorkshire Diamonds,BAM Heath,BL Mooney,LCN Smith,1,0,,,,,,"",""
+ball,1,11.3,Yorkshire Diamonds,BL Mooney,BAM Heath,LCN Smith,0,0,,,,,,"",""
+ball,1,11.4,Yorkshire Diamonds,BL Mooney,BAM Heath,LCN Smith,1,0,,,,,,"",""
+ball,1,11.5,Yorkshire Diamonds,BAM Heath,BL Mooney,LCN Smith,1,0,,,,,,"",""
+ball,1,11.6,Yorkshire Diamonds,BL Mooney,BAM Heath,LCN Smith,1,0,,,,,,"",""
+ball,1,12.1,Yorkshire Diamonds,BL Mooney,BAM Heath,JL Gunn,4,0,,,,,,"",""
+ball,1,12.2,Yorkshire Diamonds,BL Mooney,BAM Heath,JL Gunn,1,0,,,,,,"",""
+ball,1,12.3,Yorkshire Diamonds,BAM Heath,BL Mooney,JL Gunn,0,0,,,,,,caught,BAM Heath
+ball,1,12.4,Yorkshire Diamonds,BL Mooney,TF Brookes,JL Gunn,1,0,,,,,,"",""
+ball,1,12.5,Yorkshire Diamonds,TF Brookes,BL Mooney,JL Gunn,0,1,1,,,,,"",""
+ball,1,12.6,Yorkshire Diamonds,TF Brookes,BL Mooney,JL Gunn,1,0,,,,,,"",""
+ball,1,12.7,Yorkshire Diamonds,BL Mooney,TF Brookes,JL Gunn,1,0,,,,,,"",""
+ball,1,13.1,Yorkshire Diamonds,BL Mooney,TF Brookes,KL Gordon,2,0,,,,,,"",""
+ball,1,13.2,Yorkshire Diamonds,BL Mooney,TF Brookes,KL Gordon,4,0,,,,,,"",""
+ball,1,13.3,Yorkshire Diamonds,BL Mooney,TF Brookes,KL Gordon,2,0,,,,,,"",""
+ball,1,13.4,Yorkshire Diamonds,BL Mooney,TF Brookes,KL Gordon,1,0,,,,,,"",""
+ball,1,13.5,Yorkshire Diamonds,TF Brookes,BL Mooney,KL Gordon,0,0,,,,,,stumped,TF Brookes
+ball,1,13.6,Yorkshire Diamonds,DM Kimmince,BL Mooney,KL Gordon,0,0,,,,,,"",""
+ball,1,14.1,Yorkshire Diamonds,BL Mooney,DM Kimmince,GA Elwiss,1,0,,,,,,"",""
+ball,1,14.2,Yorkshire Diamonds,DM Kimmince,BL Mooney,GA Elwiss,1,0,,,,,,"",""
+ball,1,14.3,Yorkshire Diamonds,BL Mooney,DM Kimmince,GA Elwiss,4,0,,,,,,"",""
+ball,1,14.4,Yorkshire Diamonds,BL Mooney,DM Kimmince,GA Elwiss,4,0,,,,,,"",""
+ball,1,14.5,Yorkshire Diamonds,BL Mooney,DM Kimmince,GA Elwiss,1,0,,,,,,"",""
+ball,1,14.6,Yorkshire Diamonds,DM Kimmince,BL Mooney,GA Elwiss,0,0,,,,,,"",""
+ball,1,15.1,Yorkshire Diamonds,BL Mooney,DM Kimmince,LCN Smith,1,0,,,,,,"",""
+ball,1,15.2,Yorkshire Diamonds,DM Kimmince,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,15.3,Yorkshire Diamonds,DM Kimmince,BL Mooney,LCN Smith,1,0,,,,,,"",""
+ball,1,15.4,Yorkshire Diamonds,BL Mooney,DM Kimmince,LCN Smith,1,0,,,,,,"",""
+ball,1,15.5,Yorkshire Diamonds,DM Kimmince,BL Mooney,LCN Smith,0,0,,,,,,"",""
+ball,1,15.6,Yorkshire Diamonds,DM Kimmince,BL Mooney,LCN Smith,0,0,,,,,,bowled,DM Kimmince
+ball,1,16.1,Yorkshire Diamonds,BL Mooney,AN Davidson-Richards,KL Gordon,1,0,,,,,,"",""
+ball,1,16.2,Yorkshire Diamonds,AN Davidson-Richards,BL Mooney,KL Gordon,2,0,,,,,,"",""
+ball,1,16.3,Yorkshire Diamonds,AN Davidson-Richards,BL Mooney,KL Gordon,1,0,,,,,,"",""
+ball,1,16.4,Yorkshire Diamonds,BL Mooney,AN Davidson-Richards,KL Gordon,4,0,,,,,,"",""
+ball,1,16.5,Yorkshire Diamonds,BL Mooney,AN Davidson-Richards,KL Gordon,0,0,,,,,,caught,BL Mooney
+ball,1,16.6,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,KL Gordon,0,0,,,,,,"",""
+ball,1,17.1,Yorkshire Diamonds,AN Davidson-Richards,BA Langston,GA Elwiss,1,0,,,,,,"",""
+ball,1,17.2,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,GA Elwiss,4,0,,,,,,"",""
+ball,1,17.3,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,GA Elwiss,0,0,,,,,,"",""
+ball,1,17.4,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,GA Elwiss,1,0,,,,,,"",""
+ball,1,17.5,Yorkshire Diamonds,AN Davidson-Richards,BA Langston,GA Elwiss,1,0,,,,,,"",""
+ball,1,17.6,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,GA Elwiss,1,0,,,,,,"",""
+ball,1,18.1,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,JL Gunn,0,5,5,,,,,"",""
+ball,1,18.2,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,JL Gunn,0,0,,,,,,"",""
+ball,1,18.3,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,JL Gunn,1,0,,,,,,"",""
+ball,1,18.4,Yorkshire Diamonds,AN Davidson-Richards,BA Langston,JL Gunn,1,0,,,,,,"",""
+ball,1,18.5,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,JL Gunn,0,0,,,,,,"",""
+ball,1,18.6,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,JL Gunn,4,0,,,,,,"",""
+ball,1,18.7,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,JL Gunn,2,0,,,,,,"",""
+ball,1,19.1,Yorkshire Diamonds,AN Davidson-Richards,BA Langston,SFM Devine,4,0,,,,,,"",""
+ball,1,19.2,Yorkshire Diamonds,AN Davidson-Richards,BA Langston,SFM Devine,1,0,,,,,,"",""
+ball,1,19.3,Yorkshire Diamonds,BA Langston,AN Davidson-Richards,SFM Devine,1,0,,,,,,"",""
+ball,1,19.4,Yorkshire Diamonds,AN Davidson-Richards,BA Langston,SFM Devine,0,0,,,,,,stumped,AN Davidson-Richards
+ball,1,19.5,Yorkshire Diamonds,AZ Monaghan,BA Langston,SFM Devine,0,1,,,,1,,"",""
+ball,1,19.6,Yorkshire Diamonds,BA Langston,AZ Monaghan,SFM Devine,1,0,,,,,,"",""
+ball,2,0.1,Loughborough Lightning,RL Haynes,SFM Devine,KC Thompson,0,0,,,,,,"",""
+ball,2,0.2,Loughborough Lightning,RL Haynes,SFM Devine,KC Thompson,1,0,,,,,,"",""
+ball,2,0.3,Loughborough Lightning,SFM Devine,RL Haynes,KC Thompson,1,0,,,,,,"",""
+ball,2,0.4,Loughborough Lightning,RL Haynes,SFM Devine,KC Thompson,1,0,,,,,,"",""
+ball,2,0.5,Loughborough Lightning,SFM Devine,RL Haynes,KC Thompson,0,0,,,,,,"",""
+ball,2,0.6,Loughborough Lightning,SFM Devine,RL Haynes,KC Thompson,6,0,,,,,,"",""
+ball,2,1.1,Loughborough Lightning,RL Haynes,SFM Devine,BA Langston,1,0,,,,,,"",""
+ball,2,1.2,Loughborough Lightning,SFM Devine,RL Haynes,BA Langston,0,0,,,,,,"",""
+ball,2,1.3,Loughborough Lightning,SFM Devine,RL Haynes,BA Langston,1,0,,,,,,"",""
+ball,2,1.4,Loughborough Lightning,RL Haynes,SFM Devine,BA Langston,0,1,1,,,,,"",""
+ball,2,1.5,Loughborough Lightning,RL Haynes,SFM Devine,BA Langston,0,0,,,,,,"",""
+ball,2,1.6,Loughborough Lightning,RL Haynes,SFM Devine,BA Langston,1,0,,,,,,"",""
+ball,2,1.7,Loughborough Lightning,SFM Devine,RL Haynes,BA Langston,0,0,,,,,,"",""
+ball,2,2.1,Loughborough Lightning,RL Haynes,SFM Devine,KC Thompson,1,0,,,,,,"",""
+ball,2,2.2,Loughborough Lightning,SFM Devine,RL Haynes,KC Thompson,1,0,,,,,,"",""
+ball,2,2.3,Loughborough Lightning,RL Haynes,SFM Devine,KC Thompson,1,0,,,,,,"",""
+ball,2,2.4,Loughborough Lightning,SFM Devine,RL Haynes,KC Thompson,0,0,,,,,,"",""
+ball,2,2.5,Loughborough Lightning,SFM Devine,RL Haynes,KC Thompson,0,0,,,,,,"",""
+ball,2,2.6,Loughborough Lightning,SFM Devine,RL Haynes,KC Thompson,0,0,,,,,,"",""
+ball,2,3.1,Loughborough Lightning,RL Haynes,SFM Devine,BA Langston,1,0,,,,,,"",""
+ball,2,3.2,Loughborough Lightning,SFM Devine,RL Haynes,BA Langston,6,0,,,,,,"",""
+ball,2,3.3,Loughborough Lightning,SFM Devine,RL Haynes,BA Langston,0,0,,,,,,"",""
+ball,2,3.4,Loughborough Lightning,SFM Devine,RL Haynes,BA Langston,0,0,,,,,,"",""
+ball,2,3.5,Loughborough Lightning,SFM Devine,RL Haynes,BA Langston,6,0,,,,,,"",""
+ball,2,3.6,Loughborough Lightning,SFM Devine,RL Haynes,BA Langston,1,0,,,,,,"",""
+ball,2,4.1,Loughborough Lightning,SFM Devine,RL Haynes,TF Brookes,0,0,,,,,,caught,SFM Devine
+ball,2,4.2,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,0,0,,,,,,"",""
+ball,2,4.3,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,4,0,,,,,,"",""
+ball,2,4.4,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,0,0,,,,,,"",""
+ball,2,4.5,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,1,0,,,,,,"",""
+ball,2,4.6,Loughborough Lightning,AE Jones,RL Haynes,TF Brookes,1,0,,,,,,"",""
+ball,2,5.1,Loughborough Lightning,AE Jones,RL Haynes,KA Levick,0,0,,,,,,"",""
+ball,2,5.2,Loughborough Lightning,AE Jones,RL Haynes,KA Levick,0,0,,,,,,"",""
+ball,2,5.3,Loughborough Lightning,AE Jones,RL Haynes,KA Levick,0,0,,,,,,"",""
+ball,2,5.4,Loughborough Lightning,AE Jones,RL Haynes,KA Levick,4,0,,,,,,"",""
+ball,2,5.5,Loughborough Lightning,AE Jones,RL Haynes,KA Levick,1,0,,,,,,"",""
+ball,2,5.6,Loughborough Lightning,RL Haynes,AE Jones,KA Levick,4,0,,,,,,"",""
+ball,2,6.1,Loughborough Lightning,AE Jones,RL Haynes,DM Kimmince,4,0,,,,,,"",""
+ball,2,6.2,Loughborough Lightning,AE Jones,RL Haynes,DM Kimmince,1,0,,,,,,"",""
+ball,2,6.3,Loughborough Lightning,RL Haynes,AE Jones,DM Kimmince,0,0,,,,,,"",""
+ball,2,6.4,Loughborough Lightning,RL Haynes,AE Jones,DM Kimmince,4,0,,,,,,"",""
+ball,2,6.5,Loughborough Lightning,RL Haynes,AE Jones,DM Kimmince,0,1,1,,,,,"",""
+ball,2,6.6,Loughborough Lightning,RL Haynes,AE Jones,DM Kimmince,0,0,,,,,,"",""
+ball,2,6.7,Loughborough Lightning,RL Haynes,AE Jones,DM Kimmince,4,0,,,,,,"",""
+ball,2,7.1,Loughborough Lightning,AE Jones,RL Haynes,KA Levick,1,0,,,,,,"",""
+ball,2,7.2,Loughborough Lightning,RL Haynes,AE Jones,KA Levick,4,0,,,,,,"",""
+ball,2,7.3,Loughborough Lightning,RL Haynes,AE Jones,KA Levick,0,0,,,,,,"",""
+ball,2,7.4,Loughborough Lightning,RL Haynes,AE Jones,KA Levick,1,0,,,,,,"",""
+ball,2,7.5,Loughborough Lightning,AE Jones,RL Haynes,KA Levick,0,1,,,1,,,"",""
+ball,2,7.6,Loughborough Lightning,RL Haynes,AE Jones,KA Levick,1,0,,,,,,"",""
+ball,2,8.1,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,0,0,,,,,,"",""
+ball,2,8.2,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,0,0,,,,,,"",""
+ball,2,8.3,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,0,0,,,,,,"",""
+ball,2,8.4,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,0,0,,,,,,"",""
+ball,2,8.5,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,4,0,,,,,,"",""
+ball,2,8.6,Loughborough Lightning,RL Haynes,AE Jones,TF Brookes,1,0,,,,,,"",""
+ball,2,9.1,Loughborough Lightning,RL Haynes,AE Jones,BA Langston,0,1,1,,,,,"",""
+ball,2,9.2,Loughborough Lightning,RL Haynes,AE Jones,BA Langston,0,0,,,,,,"",""
+ball,2,9.3,Loughborough Lightning,RL Haynes,AE Jones,BA Langston,1,0,,,,,,"",""
+ball,2,9.4,Loughborough Lightning,AE Jones,RL Haynes,BA Langston,1,0,,,,,,"",""
+ball,2,9.5,Loughborough Lightning,RL Haynes,AE Jones,BA Langston,4,0,,,,,,"",""
+ball,2,9.6,Loughborough Lightning,RL Haynes,AE Jones,BA Langston,0,0,,,,,,"",""
+ball,2,9.7,Loughborough Lightning,RL Haynes,AE Jones,BA Langston,4,0,,,,,,"",""
+ball,2,10.1,Loughborough Lightning,AE Jones,RL Haynes,KC Thompson,0,0,,,,,,caught,AE Jones
+ball,2,10.2,Loughborough Lightning,EJ Villani,RL Haynes,KC Thompson,0,0,,,,,,"",""
+ball,2,10.3,Loughborough Lightning,EJ Villani,RL Haynes,KC Thompson,1,0,,,,,,"",""
+ball,2,10.4,Loughborough Lightning,RL Haynes,EJ Villani,KC Thompson,1,0,,,,,,"",""
+ball,2,10.5,Loughborough Lightning,EJ Villani,RL Haynes,KC Thompson,0,0,,,,,,"",""
+ball,2,10.6,Loughborough Lightning,EJ Villani,RL Haynes,KC Thompson,1,0,,,,,,"",""
+ball,2,11.1,Loughborough Lightning,EJ Villani,RL Haynes,KA Levick,0,0,,,,,,"",""
+ball,2,11.2,Loughborough Lightning,EJ Villani,RL Haynes,KA Levick,4,0,,,,,,"",""
+ball,2,11.3,Loughborough Lightning,EJ Villani,RL Haynes,KA Levick,0,0,,,,,,"",""
+ball,2,11.4,Loughborough Lightning,EJ Villani,RL Haynes,KA Levick,1,0,,,,,,"",""
+ball,2,11.5,Loughborough Lightning,RL Haynes,EJ Villani,KA Levick,0,0,,,,,,"",""
+ball,2,11.6,Loughborough Lightning,RL Haynes,EJ Villani,KA Levick,1,0,,,,,,"",""
+ball,2,12.1,Loughborough Lightning,RL Haynes,EJ Villani,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,12.2,Loughborough Lightning,EJ Villani,RL Haynes,AN Davidson-Richards,0,1,1,,,,,"",""
+ball,2,12.3,Loughborough Lightning,EJ Villani,RL Haynes,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,12.4,Loughborough Lightning,EJ Villani,RL Haynes,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,12.5,Loughborough Lightning,EJ Villani,RL Haynes,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,12.6,Loughborough Lightning,RL Haynes,EJ Villani,AN Davidson-Richards,0,0,,,,,,caught,RL Haynes
+ball,2,12.7,Loughborough Lightning,GA Elwiss,EJ Villani,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,13.1,Loughborough Lightning,EJ Villani,GA Elwiss,TF Brookes,4,0,,,,,,"",""
+ball,2,13.2,Loughborough Lightning,EJ Villani,GA Elwiss,TF Brookes,1,0,,,,,,"",""
+ball,2,13.3,Loughborough Lightning,GA Elwiss,EJ Villani,TF Brookes,0,0,,,,,,"",""
+ball,2,13.4,Loughborough Lightning,GA Elwiss,EJ Villani,TF Brookes,1,0,,,,,,"",""
+ball,2,13.5,Loughborough Lightning,EJ Villani,GA Elwiss,TF Brookes,1,0,,,,,,"",""
+ball,2,13.6,Loughborough Lightning,GA Elwiss,EJ Villani,TF Brookes,0,0,,,,,,"",""
+ball,2,14.1,Loughborough Lightning,EJ Villani,GA Elwiss,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,14.2,Loughborough Lightning,GA Elwiss,EJ Villani,AN Davidson-Richards,0,1,1,,,,,"",""
+ball,2,14.3,Loughborough Lightning,GA Elwiss,EJ Villani,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,14.4,Loughborough Lightning,EJ Villani,GA Elwiss,AN Davidson-Richards,0,5,5,,,,,"",""
+ball,2,14.5,Loughborough Lightning,EJ Villani,GA Elwiss,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,14.6,Loughborough Lightning,EJ Villani,GA Elwiss,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,14.7,Loughborough Lightning,EJ Villani,GA Elwiss,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,14.8,Loughborough Lightning,GA Elwiss,EJ Villani,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,15.1,Loughborough Lightning,EJ Villani,GA Elwiss,KA Levick,4,0,,,,,,"",""
+ball,2,15.2,Loughborough Lightning,EJ Villani,GA Elwiss,KA Levick,1,0,,,,,,"",""
+ball,2,15.3,Loughborough Lightning,GA Elwiss,EJ Villani,KA Levick,1,0,,,,,,"",""
+ball,2,15.4,Loughborough Lightning,EJ Villani,GA Elwiss,KA Levick,4,0,,,,,,"",""
+ball,2,15.5,Loughborough Lightning,EJ Villani,GA Elwiss,KA Levick,1,0,,,,,,"",""
+ball,2,15.6,Loughborough Lightning,GA Elwiss,EJ Villani,KA Levick,0,0,,,,,,"",""
+ball,2,16.1,Loughborough Lightning,EJ Villani,GA Elwiss,KC Thompson,0,0,,,,,,stumped,EJ Villani
+ball,2,16.2,Loughborough Lightning,GL Adams,GA Elwiss,KC Thompson,0,0,,,,,,"",""
+ball,2,16.3,Loughborough Lightning,GL Adams,GA Elwiss,KC Thompson,1,0,,,,,,"",""
+ball,2,16.4,Loughborough Lightning,GA Elwiss,GL Adams,KC Thompson,1,0,,,,,,"",""
+ball,2,16.5,Loughborough Lightning,GL Adams,GA Elwiss,KC Thompson,1,0,,,,,,"",""
+ball,2,16.6,Loughborough Lightning,GA Elwiss,GL Adams,KC Thompson,0,0,,,,,,"",""
+ball,2,17.1,Loughborough Lightning,GL Adams,GA Elwiss,TF Brookes,1,0,,,,,,"",""
+ball,2,17.2,Loughborough Lightning,GA Elwiss,GL Adams,TF Brookes,2,0,,,,,,"",""
+ball,2,17.3,Loughborough Lightning,GA Elwiss,GL Adams,TF Brookes,0,0,,,,,,"",""
+ball,2,17.4,Loughborough Lightning,GA Elwiss,GL Adams,TF Brookes,0,0,,,,,,caught,GA Elwiss
+ball,2,17.5,Loughborough Lightning,GL Adams,JL Gunn,TF Brookes,1,0,,,,,,"",""
+ball,2,17.6,Loughborough Lightning,JL Gunn,GL Adams,TF Brookes,1,0,,,,,,"",""
+ball,2,18.1,Loughborough Lightning,JL Gunn,GL Adams,AN Davidson-Richards,0,0,,,,,,"",""
+ball,2,18.2,Loughborough Lightning,JL Gunn,GL Adams,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,18.3,Loughborough Lightning,GL Adams,JL Gunn,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,18.4,Loughborough Lightning,JL Gunn,GL Adams,AN Davidson-Richards,2,0,,,,,,"",""
+ball,2,18.5,Loughborough Lightning,JL Gunn,GL Adams,AN Davidson-Richards,0,0,,,,,,caught,JL Gunn
+ball,2,18.6,Loughborough Lightning,LF Higham,GL Adams,AN Davidson-Richards,1,0,,,,,,"",""
+ball,2,19.1,Loughborough Lightning,LF Higham,GL Adams,DM Kimmince,2,0,,,,,,"",""
+ball,2,19.2,Loughborough Lightning,LF Higham,GL Adams,DM Kimmince,1,0,,,,,,"",""
+ball,2,19.3,Loughborough Lightning,GL Adams,LF Higham,DM Kimmince,1,0,,,,,,"",""
+ball,2,19.4,Loughborough Lightning,LF Higham,GL Adams,DM Kimmince,1,0,,,,,,"",""
+ball,2,19.5,Loughborough Lightning,GL Adams,LF Higham,DM Kimmince,1,0,,,,,,"",""
+ball,2,19.6,Loughborough Lightning,LF Higham,GL Adams,DM Kimmince,4,0,,,,,,"",""

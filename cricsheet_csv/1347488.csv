@@ -1,0 +1,274 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,Thunder
+info,gender,female
+info,season,2023
+info,date,2023/06/07
+info,event,Charlotte Edwards Cup
+info,venue,"Stanley Park, Blackpool"
+info,city,Blackpool
+info,toss_winner,Northern Diamonds
+info,toss_decision,bat
+info,umpire,J Naeem
+info,umpire,Naeem Ashraf
+info,match_referee,IL Herbert
+info,winner,Thunder
+info,winner_wickets,7
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,CL Tryon
+info,player,Northern Diamonds,BA Langston
+info,player,Northern Diamonds,K Fraser
+info,player,Northern Diamonds,LE Scott
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,GE Hall
+info,player,Thunder,ND Dattani
+info,player,Thunder,L Heap
+info,player,Thunder,FMK Morris
+info,player,Thunder,DJS Dottin
+info,player,Thunder,E Threlkeld
+info,player,Thunder,DL Collins
+info,player,Thunder,S Smale
+info,player,Thunder,TG Norris
+info,player,Thunder,M Gaur
+info,player,Thunder,O Bell
+info,player,Thunder,S Morris
+info,registry,people,BA Langston,fb192f98
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,DL Collins,246ba42c
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,GE Hall,026135b1
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KA Levick,8f30d191
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Heap,8d26dfab
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LE Scott,ab6573dc
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,O Bell,385eac52
+info,registry,people,S Morris,76419733
+info,registry,people,S Smale,3247d54e
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,TG Norris,8ae7bb3e
+ball,1,0.1,Northern Diamonds,L Winfield-Hill,L Dobson,M Gaur,0,0,,,,,,"",""
+ball,1,0.2,Northern Diamonds,L Winfield-Hill,L Dobson,M Gaur,0,0,,,,,,"",""
+ball,1,0.3,Northern Diamonds,L Winfield-Hill,L Dobson,M Gaur,4,0,,,,,,"",""
+ball,1,0.4,Northern Diamonds,L Winfield-Hill,L Dobson,M Gaur,0,0,,,,,,"",""
+ball,1,0.5,Northern Diamonds,L Winfield-Hill,L Dobson,M Gaur,4,0,,,,,,"",""
+ball,1,0.6,Northern Diamonds,L Winfield-Hill,L Dobson,M Gaur,0,0,,,,,,"",""
+ball,1,1.1,Northern Diamonds,L Dobson,L Winfield-Hill,TG Norris,2,0,,,,,,"",""
+ball,1,1.2,Northern Diamonds,L Dobson,L Winfield-Hill,TG Norris,0,1,1,,,,,"",""
+ball,1,1.3,Northern Diamonds,L Dobson,L Winfield-Hill,TG Norris,0,0,,,,,,"",""
+ball,1,1.4,Northern Diamonds,L Dobson,L Winfield-Hill,TG Norris,0,0,,,,,,caught,L Dobson
+ball,1,1.5,Northern Diamonds,HJ Armitage,L Winfield-Hill,TG Norris,0,0,,,,,,"",""
+ball,1,1.6,Northern Diamonds,HJ Armitage,L Winfield-Hill,TG Norris,0,0,,,,,,"",""
+ball,1,1.7,Northern Diamonds,HJ Armitage,L Winfield-Hill,TG Norris,0,0,,,,,,caught,HJ Armitage
+ball,1,2.1,Northern Diamonds,L Winfield-Hill,SL Kalis,M Gaur,2,0,,,,,,"",""
+ball,1,2.2,Northern Diamonds,L Winfield-Hill,SL Kalis,M Gaur,2,0,,,,,,"",""
+ball,1,2.3,Northern Diamonds,L Winfield-Hill,SL Kalis,M Gaur,0,0,,,,,,caught,L Winfield-Hill
+ball,1,2.4,Northern Diamonds,BAM Heath,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,2.5,Northern Diamonds,BAM Heath,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,2.6,Northern Diamonds,BAM Heath,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,3.1,Northern Diamonds,SL Kalis,BAM Heath,TG Norris,0,0,,,,,,"",""
+ball,1,3.2,Northern Diamonds,SL Kalis,BAM Heath,TG Norris,1,0,,,,,,"",""
+ball,1,3.3,Northern Diamonds,BAM Heath,SL Kalis,TG Norris,1,0,,,,,,"",""
+ball,1,3.4,Northern Diamonds,SL Kalis,BAM Heath,TG Norris,0,0,,,,,,"",""
+ball,1,3.5,Northern Diamonds,SL Kalis,BAM Heath,TG Norris,0,0,,,,,,"",""
+ball,1,3.6,Northern Diamonds,SL Kalis,BAM Heath,TG Norris,2,0,,,,,,"",""
+ball,1,4.1,Northern Diamonds,BAM Heath,SL Kalis,M Gaur,0,0,,,,,,bowled,BAM Heath
+ball,1,4.2,Northern Diamonds,CL Tryon,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,4.3,Northern Diamonds,CL Tryon,SL Kalis,M Gaur,4,0,,,,,,"",""
+ball,1,4.4,Northern Diamonds,CL Tryon,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,4.5,Northern Diamonds,CL Tryon,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,4.6,Northern Diamonds,CL Tryon,SL Kalis,M Gaur,0,0,,,,,,"",""
+ball,1,5.1,Northern Diamonds,SL Kalis,CL Tryon,TG Norris,1,0,,,,,,"",""
+ball,1,5.2,Northern Diamonds,CL Tryon,SL Kalis,TG Norris,2,0,,,,,,"",""
+ball,1,5.3,Northern Diamonds,CL Tryon,SL Kalis,TG Norris,1,0,,,,,,"",""
+ball,1,5.4,Northern Diamonds,SL Kalis,CL Tryon,TG Norris,1,0,,,,,,"",""
+ball,1,5.5,Northern Diamonds,CL Tryon,SL Kalis,TG Norris,0,0,,,,,,"",""
+ball,1,5.6,Northern Diamonds,CL Tryon,SL Kalis,TG Norris,1,0,,,,,,"",""
+ball,1,6.1,Northern Diamonds,CL Tryon,SL Kalis,M Gaur,4,0,,,,,,"",""
+ball,1,6.2,Northern Diamonds,CL Tryon,SL Kalis,M Gaur,2,0,,,,,,"",""
+ball,1,6.3,Northern Diamonds,CL Tryon,SL Kalis,M Gaur,2,0,,,,,,"",""
+ball,1,6.4,Northern Diamonds,CL Tryon,SL Kalis,M Gaur,1,0,,,,,,"",""
+ball,1,6.5,Northern Diamonds,SL Kalis,CL Tryon,M Gaur,2,0,,,,,,"",""
+ball,1,6.6,Northern Diamonds,SL Kalis,CL Tryon,M Gaur,0,0,,,,,,"",""
+ball,1,7.1,Northern Diamonds,CL Tryon,SL Kalis,FMK Morris,4,0,,,,,,"",""
+ball,1,7.2,Northern Diamonds,CL Tryon,SL Kalis,FMK Morris,0,0,,,,,,"",""
+ball,1,7.3,Northern Diamonds,CL Tryon,SL Kalis,FMK Morris,1,0,,,,,,"",""
+ball,1,7.4,Northern Diamonds,SL Kalis,CL Tryon,FMK Morris,1,0,,,,,,"",""
+ball,1,7.5,Northern Diamonds,CL Tryon,SL Kalis,FMK Morris,0,0,,,,,,"",""
+ball,1,7.6,Northern Diamonds,CL Tryon,SL Kalis,FMK Morris,0,0,,,,,,bowled,CL Tryon
+ball,1,8.1,Northern Diamonds,SL Kalis,BA Langston,O Bell,1,0,,,,,,"",""
+ball,1,8.2,Northern Diamonds,BA Langston,SL Kalis,O Bell,0,0,,,,,,"",""
+ball,1,8.3,Northern Diamonds,BA Langston,SL Kalis,O Bell,2,0,,,,,,"",""
+ball,1,8.4,Northern Diamonds,BA Langston,SL Kalis,O Bell,0,0,,,,,,bowled,BA Langston
+ball,1,8.5,Northern Diamonds,K Fraser,SL Kalis,O Bell,0,0,,,,,,"",""
+ball,1,8.6,Northern Diamonds,K Fraser,SL Kalis,O Bell,0,0,,,,,,"",""
+ball,1,9.1,Northern Diamonds,SL Kalis,K Fraser,S Morris,0,1,1,,,,,"",""
+ball,1,9.2,Northern Diamonds,SL Kalis,K Fraser,S Morris,0,1,,,1,,,"",""
+ball,1,9.3,Northern Diamonds,K Fraser,SL Kalis,S Morris,1,0,,,,,,"",""
+ball,1,9.4,Northern Diamonds,SL Kalis,K Fraser,S Morris,1,0,,,,,,"",""
+ball,1,9.5,Northern Diamonds,K Fraser,SL Kalis,S Morris,1,0,,,,,,"",""
+ball,1,9.6,Northern Diamonds,SL Kalis,K Fraser,S Morris,0,0,,,,,,"",""
+ball,1,9.7,Northern Diamonds,SL Kalis,K Fraser,S Morris,0,0,,,,,,"",""
+ball,1,10.1,Northern Diamonds,K Fraser,SL Kalis,O Bell,0,0,,,,,,"",""
+ball,1,10.2,Northern Diamonds,K Fraser,SL Kalis,O Bell,0,0,,,,,,"",""
+ball,1,10.3,Northern Diamonds,K Fraser,SL Kalis,O Bell,0,0,,,,,,"",""
+ball,1,10.4,Northern Diamonds,K Fraser,SL Kalis,O Bell,3,0,,,,,,"",""
+ball,1,10.5,Northern Diamonds,SL Kalis,K Fraser,O Bell,0,0,,,,,,"",""
+ball,1,10.6,Northern Diamonds,SL Kalis,K Fraser,O Bell,1,0,,,,,,"",""
+ball,1,11.1,Northern Diamonds,SL Kalis,K Fraser,S Morris,0,0,,,,,,"",""
+ball,1,11.2,Northern Diamonds,SL Kalis,K Fraser,S Morris,2,0,,,,,,"",""
+ball,1,11.3,Northern Diamonds,SL Kalis,K Fraser,S Morris,4,0,,,,,,"",""
+ball,1,11.4,Northern Diamonds,SL Kalis,K Fraser,S Morris,0,0,,,,,,"",""
+ball,1,11.5,Northern Diamonds,SL Kalis,K Fraser,S Morris,0,0,,,,,,"",""
+ball,1,11.6,Northern Diamonds,SL Kalis,K Fraser,S Morris,4,0,,,,,,"",""
+ball,1,12.1,Northern Diamonds,K Fraser,SL Kalis,ND Dattani,0,0,,,,,,"",""
+ball,1,12.2,Northern Diamonds,K Fraser,SL Kalis,ND Dattani,0,0,,,,,,"",""
+ball,1,12.3,Northern Diamonds,K Fraser,SL Kalis,ND Dattani,0,0,,,,,,"",""
+ball,1,12.4,Northern Diamonds,K Fraser,SL Kalis,ND Dattani,0,0,,,,,,"",""
+ball,1,12.5,Northern Diamonds,K Fraser,SL Kalis,ND Dattani,1,0,,,,,,"",""
+ball,1,12.6,Northern Diamonds,SL Kalis,K Fraser,ND Dattani,1,0,,,,,,"",""
+ball,1,13.1,Northern Diamonds,SL Kalis,K Fraser,FMK Morris,1,0,,,,,,"",""
+ball,1,13.2,Northern Diamonds,K Fraser,SL Kalis,FMK Morris,1,0,,,,,,"",""
+ball,1,13.3,Northern Diamonds,SL Kalis,K Fraser,FMK Morris,1,0,,,,,,"",""
+ball,1,13.4,Northern Diamonds,K Fraser,SL Kalis,FMK Morris,1,0,,,,,,"",""
+ball,1,13.5,Northern Diamonds,SL Kalis,K Fraser,FMK Morris,0,0,,,,,,"",""
+ball,1,13.6,Northern Diamonds,SL Kalis,K Fraser,FMK Morris,0,0,,,,,,caught,SL Kalis
+ball,1,14.1,Northern Diamonds,K Fraser,LE Scott,ND Dattani,0,0,,,,,,"",""
+ball,1,14.2,Northern Diamonds,K Fraser,LE Scott,ND Dattani,4,0,,,,,,"",""
+ball,1,14.3,Northern Diamonds,K Fraser,LE Scott,ND Dattani,0,0,,,,,,"",""
+ball,1,14.4,Northern Diamonds,K Fraser,LE Scott,ND Dattani,1,0,,,,,,"",""
+ball,1,14.5,Northern Diamonds,LE Scott,K Fraser,ND Dattani,0,0,,,,,,"",""
+ball,1,14.6,Northern Diamonds,LE Scott,K Fraser,ND Dattani,0,0,,,,,,"",""
+ball,1,15.1,Northern Diamonds,K Fraser,LE Scott,FMK Morris,1,1,,1,,,,"",""
+ball,1,15.2,Northern Diamonds,LE Scott,K Fraser,FMK Morris,1,0,,,,,,"",""
+ball,1,15.3,Northern Diamonds,K Fraser,LE Scott,FMK Morris,0,0,,,,,,"",""
+ball,1,15.4,Northern Diamonds,K Fraser,LE Scott,FMK Morris,0,0,,,,,,"",""
+ball,1,15.5,Northern Diamonds,K Fraser,LE Scott,FMK Morris,0,0,,,,,,"",""
+ball,1,15.6,Northern Diamonds,K Fraser,LE Scott,FMK Morris,0,1,1,,,,,"",""
+ball,1,15.7,Northern Diamonds,K Fraser,LE Scott,FMK Morris,1,0,,,,,,"",""
+ball,1,15.8,Northern Diamonds,LE Scott,K Fraser,FMK Morris,1,0,,,,,,"",""
+ball,1,16.1,Northern Diamonds,LE Scott,K Fraser,TG Norris,0,0,,,,,,"",""
+ball,1,16.2,Northern Diamonds,LE Scott,K Fraser,TG Norris,0,0,,,,,,"",""
+ball,1,16.3,Northern Diamonds,LE Scott,K Fraser,TG Norris,0,0,,,,,,"",""
+ball,1,16.4,Northern Diamonds,LE Scott,K Fraser,TG Norris,4,0,,,,,,"",""
+ball,1,16.5,Northern Diamonds,LE Scott,K Fraser,TG Norris,1,0,,,,,,"",""
+ball,1,16.6,Northern Diamonds,K Fraser,LE Scott,TG Norris,1,0,,,,,,"",""
+ball,1,17.1,Northern Diamonds,K Fraser,LE Scott,O Bell,1,0,,,,,,"",""
+ball,1,17.2,Northern Diamonds,LE Scott,K Fraser,O Bell,0,0,,,,,,"",""
+ball,1,17.3,Northern Diamonds,LE Scott,K Fraser,O Bell,1,0,,,,,,"",""
+ball,1,17.4,Northern Diamonds,K Fraser,LE Scott,O Bell,0,0,,,,,,caught,K Fraser
+ball,1,17.5,Northern Diamonds,KA Levick,LE Scott,O Bell,0,0,,,,,,caught,KA Levick
+ball,1,17.6,Northern Diamonds,GE Hall,LE Scott,O Bell,0,0,,,,,,"",""
+ball,1,18.1,Northern Diamonds,LE Scott,GE Hall,ND Dattani,0,0,,,,,,"",""
+ball,1,18.2,Northern Diamonds,LE Scott,GE Hall,ND Dattani,2,0,,,,,,"",""
+ball,1,18.3,Northern Diamonds,LE Scott,GE Hall,ND Dattani,1,0,,,,,,"",""
+ball,1,18.4,Northern Diamonds,GE Hall,LE Scott,ND Dattani,0,0,,,,,,run out,GE Hall
+ball,2,0.1,Thunder,ND Dattani,L Heap,LE Scott,4,0,,,,,,"",""
+ball,2,0.2,Thunder,ND Dattani,L Heap,LE Scott,4,0,,,,,,"",""
+ball,2,0.3,Thunder,ND Dattani,L Heap,LE Scott,0,0,,,,,,"",""
+ball,2,0.4,Thunder,ND Dattani,L Heap,LE Scott,1,0,,,,,,"",""
+ball,2,0.5,Thunder,L Heap,ND Dattani,LE Scott,0,5,5,,,,,"",""
+ball,2,0.6,Thunder,L Heap,ND Dattani,LE Scott,0,0,,,,,,"",""
+ball,2,0.7,Thunder,L Heap,ND Dattani,LE Scott,0,0,,,,,,"",""
+ball,2,1.1,Thunder,ND Dattani,L Heap,K Fraser,0,0,,,,,,"",""
+ball,2,1.2,Thunder,ND Dattani,L Heap,K Fraser,1,0,,,,,,"",""
+ball,2,1.3,Thunder,L Heap,ND Dattani,K Fraser,0,0,,,,,,"",""
+ball,2,1.4,Thunder,L Heap,ND Dattani,K Fraser,1,0,,,,,,"",""
+ball,2,1.5,Thunder,ND Dattani,L Heap,K Fraser,1,0,,,,,,"",""
+ball,2,1.6,Thunder,L Heap,ND Dattani,K Fraser,0,1,,1,,,,"",""
+ball,2,1.7,Thunder,L Heap,ND Dattani,K Fraser,1,0,,,,,,"",""
+ball,2,2.1,Thunder,L Heap,ND Dattani,KA Levick,0,0,,,,,,"",""
+ball,2,2.2,Thunder,L Heap,ND Dattani,KA Levick,4,0,,,,,,"",""
+ball,2,2.3,Thunder,L Heap,ND Dattani,KA Levick,4,0,,,,,,"",""
+ball,2,2.4,Thunder,L Heap,ND Dattani,KA Levick,1,0,,,,,,"",""
+ball,2,2.5,Thunder,ND Dattani,L Heap,KA Levick,0,0,,,,,,"",""
+ball,2,2.6,Thunder,ND Dattani,L Heap,KA Levick,0,0,,,,,,"",""
+ball,2,3.1,Thunder,L Heap,ND Dattani,K Fraser,0,0,,,,,,"",""
+ball,2,3.2,Thunder,L Heap,ND Dattani,K Fraser,1,0,,,,,,"",""
+ball,2,3.3,Thunder,ND Dattani,L Heap,K Fraser,0,0,,,,,,"",""
+ball,2,3.4,Thunder,ND Dattani,L Heap,K Fraser,0,1,,,1,,,"",""
+ball,2,3.5,Thunder,L Heap,ND Dattani,K Fraser,0,0,,,,,,"",""
+ball,2,3.6,Thunder,L Heap,ND Dattani,K Fraser,0,0,,,,,,caught,L Heap
+ball,2,4.1,Thunder,ND Dattani,FMK Morris,CL Tryon,0,0,,,,,,"",""
+ball,2,4.2,Thunder,ND Dattani,FMK Morris,CL Tryon,0,1,,,,1,,"",""
+ball,2,4.3,Thunder,FMK Morris,ND Dattani,CL Tryon,0,0,,,,,,"",""
+ball,2,4.4,Thunder,FMK Morris,ND Dattani,CL Tryon,0,0,,,,,,"",""
+ball,2,4.5,Thunder,FMK Morris,ND Dattani,CL Tryon,1,0,,,,,,"",""
+ball,2,4.6,Thunder,ND Dattani,FMK Morris,CL Tryon,0,0,,,,,,"",""
+ball,2,5.1,Thunder,FMK Morris,ND Dattani,K Fraser,0,0,,,,,,"",""
+ball,2,5.2,Thunder,FMK Morris,ND Dattani,K Fraser,1,0,,,,,,"",""
+ball,2,5.3,Thunder,ND Dattani,FMK Morris,K Fraser,0,0,,,,,,"",""
+ball,2,5.4,Thunder,ND Dattani,FMK Morris,K Fraser,4,0,,,,,,"",""
+ball,2,5.5,Thunder,ND Dattani,FMK Morris,K Fraser,1,0,,,,,,"",""
+ball,2,5.6,Thunder,FMK Morris,ND Dattani,K Fraser,2,0,,,,,,"",""
+ball,2,6.1,Thunder,ND Dattani,FMK Morris,KA Levick,1,0,,,,,,"",""
+ball,2,6.2,Thunder,FMK Morris,ND Dattani,KA Levick,3,0,,,,,,"",""
+ball,2,6.3,Thunder,ND Dattani,FMK Morris,KA Levick,0,0,,,,,,"",""
+ball,2,6.4,Thunder,ND Dattani,FMK Morris,KA Levick,1,0,,,,,,"",""
+ball,2,6.5,Thunder,FMK Morris,ND Dattani,KA Levick,0,0,,,,,,"",""
+ball,2,6.6,Thunder,FMK Morris,ND Dattani,KA Levick,1,0,,,,,,"",""
+ball,2,7.1,Thunder,FMK Morris,ND Dattani,BA Langston,0,1,1,,,,,"",""
+ball,2,7.2,Thunder,FMK Morris,ND Dattani,BA Langston,2,0,,,,,,"",""
+ball,2,7.3,Thunder,FMK Morris,ND Dattani,BA Langston,1,0,,,,,,"",""
+ball,2,7.4,Thunder,ND Dattani,FMK Morris,BA Langston,0,0,,,,,,"",""
+ball,2,7.5,Thunder,ND Dattani,FMK Morris,BA Langston,1,0,,,,,,"",""
+ball,2,7.6,Thunder,FMK Morris,ND Dattani,BA Langston,3,0,,,,,,"",""
+ball,2,7.7,Thunder,ND Dattani,FMK Morris,BA Langston,0,0,,,,,,"",""
+ball,2,8.1,Thunder,FMK Morris,ND Dattani,GE Hall,1,0,,,,,,"",""
+ball,2,8.2,Thunder,ND Dattani,FMK Morris,GE Hall,0,0,,,,,,"",""
+ball,2,8.3,Thunder,ND Dattani,FMK Morris,GE Hall,1,0,,,,,,"",""
+ball,2,8.4,Thunder,FMK Morris,ND Dattani,GE Hall,4,0,,,,,,"",""
+ball,2,8.5,Thunder,FMK Morris,ND Dattani,GE Hall,0,0,,,,,,"",""
+ball,2,8.6,Thunder,FMK Morris,ND Dattani,GE Hall,4,0,,,,,,"",""
+ball,2,9.1,Thunder,ND Dattani,FMK Morris,BA Langston,0,0,,,,,,"",""
+ball,2,9.2,Thunder,ND Dattani,FMK Morris,BA Langston,0,0,,,,,,"",""
+ball,2,9.3,Thunder,ND Dattani,FMK Morris,BA Langston,0,0,,,,,,"",""
+ball,2,9.4,Thunder,ND Dattani,FMK Morris,BA Langston,0,0,,,,,,caught,ND Dattani
+ball,2,9.5,Thunder,DJS Dottin,FMK Morris,BA Langston,1,0,,,,,,"",""
+ball,2,9.6,Thunder,FMK Morris,DJS Dottin,BA Langston,4,0,,,,,,"",""
+ball,2,10.1,Thunder,DJS Dottin,FMK Morris,CL Tryon,0,0,,,,,,"",""
+ball,2,10.2,Thunder,DJS Dottin,FMK Morris,CL Tryon,1,0,,,,,,"",""
+ball,2,10.3,Thunder,FMK Morris,DJS Dottin,CL Tryon,0,0,,,,,,"",""
+ball,2,10.4,Thunder,FMK Morris,DJS Dottin,CL Tryon,1,0,,,,,,"",""
+ball,2,10.5,Thunder,DJS Dottin,FMK Morris,CL Tryon,2,0,,,,,,"",""
+ball,2,10.6,Thunder,DJS Dottin,FMK Morris,CL Tryon,4,0,,,,,,"",""
+ball,2,11.1,Thunder,FMK Morris,DJS Dottin,BA Langston,0,0,,,,,,"",""
+ball,2,11.2,Thunder,FMK Morris,DJS Dottin,BA Langston,0,0,,,,,,"",""
+ball,2,11.3,Thunder,FMK Morris,DJS Dottin,BA Langston,4,0,,,,,,"",""
+ball,2,11.4,Thunder,FMK Morris,DJS Dottin,BA Langston,4,0,,,,,,"",""
+ball,2,11.5,Thunder,FMK Morris,DJS Dottin,BA Langston,1,0,,,,,,"",""
+ball,2,11.6,Thunder,DJS Dottin,FMK Morris,BA Langston,0,0,,,,,,"",""
+ball,2,12.1,Thunder,FMK Morris,DJS Dottin,CL Tryon,1,0,,,,,,"",""
+ball,2,12.2,Thunder,DJS Dottin,FMK Morris,CL Tryon,1,0,,,,,,"",""
+ball,2,12.3,Thunder,FMK Morris,DJS Dottin,CL Tryon,0,0,,,,,,"",""
+ball,2,12.4,Thunder,FMK Morris,DJS Dottin,CL Tryon,0,0,,,,,,"",""
+ball,2,12.5,Thunder,FMK Morris,DJS Dottin,CL Tryon,0,0,,,,,,"",""
+ball,2,12.6,Thunder,FMK Morris,DJS Dottin,CL Tryon,1,0,,,,,,"",""
+ball,2,13.1,Thunder,FMK Morris,DJS Dottin,KA Levick,1,0,,,,,,"",""
+ball,2,13.2,Thunder,DJS Dottin,FMK Morris,KA Levick,0,0,,,,,,stumped,DJS Dottin
+ball,2,13.3,Thunder,E Threlkeld,FMK Morris,KA Levick,0,1,1,,,,,"",""
+ball,2,13.4,Thunder,E Threlkeld,FMK Morris,KA Levick,0,0,,,,,,"",""
+ball,2,13.5,Thunder,E Threlkeld,FMK Morris,KA Levick,0,0,,,,,,"",""
+ball,2,13.6,Thunder,E Threlkeld,FMK Morris,KA Levick,0,0,,,,,,"",""
+ball,2,13.7,Thunder,E Threlkeld,FMK Morris,KA Levick,2,0,,,,,,"",""
+ball,2,14.1,Thunder,FMK Morris,E Threlkeld,CL Tryon,0,0,,,,,,"",""
+ball,2,14.2,Thunder,FMK Morris,E Threlkeld,CL Tryon,1,0,,,,,,"",""
+ball,2,14.3,Thunder,E Threlkeld,FMK Morris,CL Tryon,1,0,,,,,,"",""
+ball,2,14.4,Thunder,FMK Morris,E Threlkeld,CL Tryon,0,0,,,,,,"",""
+ball,2,14.5,Thunder,FMK Morris,E Threlkeld,CL Tryon,1,0,,,,,,"",""
+ball,2,14.6,Thunder,E Threlkeld,FMK Morris,CL Tryon,1,0,,,,,,"",""

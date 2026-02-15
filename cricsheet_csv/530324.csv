@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Impi
+info,gender,male
+info,season,2011/12
+info,date,2012/02/17
+info,event,MiWAY T20 Challenge
+info,match_number,4
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Impi
+info,toss_decision,field
+info,player_of_match,E O'Reilly
+info,player_of_match,CH Morris
+info,umpire,BM White
+info,umpire,DJ Smith
+info,reserve_umpire,R Ellis
+info,tv_umpire,GH Pienaar
+info,match_referee,CJ Mitchley
+info,winner,Lions
+info,winner_runs,61
+info,player,Lions,JD Vandiar
+info,player,Lions,AN Petersen
+info,player,Lions,Q de Kock
+info,player,Lions,ND McKenzie
+info,player,Lions,J Symes
+info,player,Lions,D Pretorius
+info,player,Lions,TL Tsolekile
+info,player,Lions,S Burger
+info,player,Lions,CH Morris
+info,player,Lions,AM Phangiso
+info,player,Lions,E O'Reilly
+info,player,Impi,DA Hendricks
+info,player,Impi,AP McLaren
+info,player,Impi,RN ten Doeschate
+info,player,Impi,PD Collingwood
+info,player,Impi,JJ Pienaar
+info,player,Impi,R Cameron
+info,player,Impi,RCC Canning
+info,player,Impi,C Pietersen
+info,player,Impi,CJ Alexander
+info,player,Impi,S Simetu
+info,player,Impi,P Matshikwe
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,AP McLaren,4ad7fc1b
+info,registry,people,BM White,66c21d35
+info,registry,people,C Pietersen,7be25178
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,CJ Alexander,26d9937d
+info,registry,people,CJ Mitchley,7f4f18e3
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DA Hendricks,f66f5343
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,E O'Reilly,3bf936e7
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,J Symes,77841dcc
+info,registry,people,JD Vandiar,a833f99c
+info,registry,people,JJ Pienaar,1186f196
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,P Matshikwe,1b05424f
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Cameron,f856b613
+info,registry,people,R Ellis,ec98dcac
+info,registry,people,RCC Canning,e6c67124
+info,registry,people,RN ten Doeschate,4ec07775
+info,registry,people,S Burger,d83df855
+info,registry,people,S Simetu,d3cc2954
+info,registry,people,TL Tsolekile,3b94297b
+ball,1,0.1,Lions,JD Vandiar,AN Petersen,CJ Alexander,4,0,,,,,,"",""
+ball,1,0.2,Lions,JD Vandiar,AN Petersen,CJ Alexander,0,0,,,,,,"",""
+ball,1,0.3,Lions,JD Vandiar,AN Petersen,CJ Alexander,2,0,,,,,,"",""
+ball,1,0.4,Lions,JD Vandiar,AN Petersen,CJ Alexander,0,0,,,,,,"",""
+ball,1,0.5,Lions,JD Vandiar,AN Petersen,CJ Alexander,1,0,,,,,,"",""
+ball,1,0.6,Lions,AN Petersen,JD Vandiar,CJ Alexander,0,0,,,,,,"",""
+ball,1,1.1,Lions,JD Vandiar,AN Petersen,P Matshikwe,2,0,,,,,,"",""
+ball,1,1.2,Lions,JD Vandiar,AN Petersen,P Matshikwe,4,0,,,,,,"",""
+ball,1,1.3,Lions,JD Vandiar,AN Petersen,P Matshikwe,2,0,,,,,,"",""
+ball,1,1.4,Lions,JD Vandiar,AN Petersen,P Matshikwe,0,0,,,,,,caught,JD Vandiar
+ball,1,1.5,Lions,Q de Kock,AN Petersen,P Matshikwe,0,0,,,,,,"",""
+ball,1,1.6,Lions,Q de Kock,AN Petersen,P Matshikwe,0,0,,,,,,"",""
+ball,1,2.1,Lions,AN Petersen,Q de Kock,CJ Alexander,0,0,,,,,,"",""
+ball,1,2.2,Lions,AN Petersen,Q de Kock,CJ Alexander,0,0,,,,,,"",""
+ball,1,2.3,Lions,AN Petersen,Q de Kock,CJ Alexander,0,0,,,,,,"",""
+ball,1,2.4,Lions,AN Petersen,Q de Kock,CJ Alexander,1,0,,,,,,"",""
+ball,1,2.5,Lions,Q de Kock,AN Petersen,CJ Alexander,1,0,,,,,,"",""
+ball,1,2.6,Lions,AN Petersen,Q de Kock,CJ Alexander,1,0,,,,,,"",""
+ball,1,3.1,Lions,AN Petersen,Q de Kock,C Pietersen,0,0,,,,,,"",""
+ball,1,3.2,Lions,AN Petersen,Q de Kock,C Pietersen,0,0,,,,,,"",""
+ball,1,3.3,Lions,AN Petersen,Q de Kock,C Pietersen,1,0,,,,,,"",""
+ball,1,3.4,Lions,Q de Kock,AN Petersen,C Pietersen,1,0,,,,,,"",""
+ball,1,3.5,Lions,AN Petersen,Q de Kock,C Pietersen,6,0,,,,,,"",""
+ball,1,3.6,Lions,AN Petersen,Q de Kock,C Pietersen,0,0,,,,,,"",""
+ball,1,4.1,Lions,Q de Kock,AN Petersen,P Matshikwe,1,0,,,,,,"",""
+ball,1,4.2,Lions,AN Petersen,Q de Kock,P Matshikwe,4,0,,,,,,"",""
+ball,1,4.3,Lions,AN Petersen,Q de Kock,P Matshikwe,1,0,,,,,,"",""
+ball,1,4.4,Lions,Q de Kock,AN Petersen,P Matshikwe,0,0,,,,,,"",""
+ball,1,4.5,Lions,Q de Kock,AN Petersen,P Matshikwe,6,0,,,,,,"",""
+ball,1,4.6,Lions,Q de Kock,AN Petersen,P Matshikwe,0,0,,,,,,"",""
+ball,1,5.1,Lions,AN Petersen,Q de Kock,C Pietersen,0,0,,,,,,"",""
+ball,1,5.2,Lions,AN Petersen,Q de Kock,C Pietersen,0,0,,,,,,"",""
+ball,1,5.3,Lions,AN Petersen,Q de Kock,C Pietersen,0,1,,,,1,,"",""
+ball,1,5.4,Lions,Q de Kock,AN Petersen,C Pietersen,0,0,,,,,,caught,Q de Kock
+ball,1,5.5,Lions,AN Petersen,ND McKenzie,C Pietersen,0,0,,,,,,"",""
+ball,1,5.6,Lions,AN Petersen,ND McKenzie,C Pietersen,0,0,,,,,,"",""
+ball,1,6.1,Lions,ND McKenzie,AN Petersen,S Simetu,0,1,1,,,,,"",""
+ball,1,6.2,Lions,ND McKenzie,AN Petersen,S Simetu,0,0,,,,,,"",""
+ball,1,6.3,Lions,ND McKenzie,AN Petersen,S Simetu,4,0,,,,,,"",""
+ball,1,6.4,Lions,ND McKenzie,AN Petersen,S Simetu,1,0,,,,,,"",""
+ball,1,6.5,Lions,AN Petersen,ND McKenzie,S Simetu,0,0,,,,,,"",""
+ball,1,6.6,Lions,AN Petersen,ND McKenzie,S Simetu,1,0,,,,,,"",""
+ball,1,6.7,Lions,ND McKenzie,AN Petersen,S Simetu,2,0,,,,,,"",""
+ball,1,7.1,Lions,AN Petersen,ND McKenzie,C Pietersen,1,0,,,,,,"",""
+ball,1,7.2,Lions,ND McKenzie,AN Petersen,C Pietersen,0,1,1,,,,,"",""
+ball,1,7.3,Lions,ND McKenzie,AN Petersen,C Pietersen,1,0,,,,,,"",""
+ball,1,7.4,Lions,AN Petersen,ND McKenzie,C Pietersen,4,0,,,,,,"",""
+ball,1,7.5,Lions,AN Petersen,ND McKenzie,C Pietersen,0,0,,,,,,"",""
+ball,1,7.6,Lions,AN Petersen,ND McKenzie,C Pietersen,4,0,,,,,,"",""
+ball,1,7.7,Lions,AN Petersen,ND McKenzie,C Pietersen,0,0,,,,,,"",""
+ball,1,8.1,Lions,ND McKenzie,AN Petersen,S Simetu,1,0,,,,,,"",""
+ball,1,8.2,Lions,AN Petersen,ND McKenzie,S Simetu,0,0,,,,,,"",""
+ball,1,8.3,Lions,AN Petersen,ND McKenzie,S Simetu,1,0,,,,,,"",""
+ball,1,8.4,Lions,ND McKenzie,AN Petersen,S Simetu,0,0,,,,,,"",""
+ball,1,8.5,Lions,ND McKenzie,AN Petersen,S Simetu,0,0,,,,,,"",""
+ball,1,8.6,Lions,ND McKenzie,AN Petersen,S Simetu,1,0,,,,,,"",""
+ball,1,9.1,Lions,ND McKenzie,AN Petersen,R Cameron,4,0,,,,,,"",""
+ball,1,9.2,Lions,ND McKenzie,AN Petersen,R Cameron,0,0,,,,,,"",""
+ball,1,9.3,Lions,ND McKenzie,AN Petersen,R Cameron,0,0,,,,,,"",""
+ball,1,9.4,Lions,ND McKenzie,AN Petersen,R Cameron,0,0,,,,,,"",""
+ball,1,9.5,Lions,ND McKenzie,AN Petersen,R Cameron,1,0,,,,,,"",""
+ball,1,9.6,Lions,AN Petersen,ND McKenzie,R Cameron,2,0,,,,,,"",""
+ball,1,10.1,Lions,ND McKenzie,AN Petersen,S Simetu,0,0,,,,,,"",""
+ball,1,10.2,Lions,ND McKenzie,AN Petersen,S Simetu,1,0,,,,,,"",""
+ball,1,10.3,Lions,AN Petersen,ND McKenzie,S Simetu,1,0,,,,,,"",""
+ball,1,10.4,Lions,ND McKenzie,AN Petersen,S Simetu,4,0,,,,,,"",""
+ball,1,10.5,Lions,ND McKenzie,AN Petersen,S Simetu,0,0,,,,,,"",""
+ball,1,10.6,Lions,ND McKenzie,AN Petersen,S Simetu,0,0,,,,,,"",""
+ball,1,11.1,Lions,AN Petersen,ND McKenzie,R Cameron,1,0,,,,,,"",""
+ball,1,11.2,Lions,ND McKenzie,AN Petersen,R Cameron,4,0,,,,,,"",""
+ball,1,11.3,Lions,ND McKenzie,AN Petersen,R Cameron,0,0,,,,,,"",""
+ball,1,11.4,Lions,ND McKenzie,AN Petersen,R Cameron,1,0,,,,,,"",""
+ball,1,11.5,Lions,AN Petersen,ND McKenzie,R Cameron,1,0,,,,,,"",""
+ball,1,11.6,Lions,ND McKenzie,AN Petersen,R Cameron,4,0,,,,,,"",""
+ball,1,12.1,Lions,AN Petersen,ND McKenzie,CJ Alexander,1,0,,,,,,"",""
+ball,1,12.2,Lions,ND McKenzie,AN Petersen,CJ Alexander,1,0,,,,,,"",""
+ball,1,12.3,Lions,AN Petersen,ND McKenzie,CJ Alexander,1,0,,,,,,"",""
+ball,1,12.4,Lions,ND McKenzie,AN Petersen,CJ Alexander,0,0,,,,,,caught,ND McKenzie
+ball,1,12.5,Lions,J Symes,AN Petersen,CJ Alexander,0,0,,,,,,"",""
+ball,1,12.6,Lions,J Symes,AN Petersen,CJ Alexander,1,0,,,,,,"",""
+ball,1,13.1,Lions,J Symes,AN Petersen,R Cameron,1,0,,,,,,"",""
+ball,1,13.2,Lions,AN Petersen,J Symes,R Cameron,1,0,,,,,,"",""
+ball,1,13.3,Lions,J Symes,AN Petersen,R Cameron,0,0,,,,,,"",""
+ball,1,13.4,Lions,J Symes,AN Petersen,R Cameron,0,0,,,,,,bowled,J Symes
+ball,1,13.5,Lions,D Pretorius,AN Petersen,R Cameron,0,1,1,,,,,"",""
+ball,1,13.6,Lions,D Pretorius,AN Petersen,R Cameron,1,0,,,,,,"",""
+ball,1,13.7,Lions,AN Petersen,D Pretorius,R Cameron,4,0,,,,,,"",""
+ball,1,14.1,Lions,D Pretorius,AN Petersen,S Simetu,6,0,,,,,,"",""
+ball,1,14.2,Lions,D Pretorius,AN Petersen,S Simetu,1,0,,,,,,"",""
+ball,1,14.3,Lions,AN Petersen,D Pretorius,S Simetu,0,0,,,,,,stumped,AN Petersen
+ball,1,14.4,Lions,TL Tsolekile,D Pretorius,S Simetu,1,0,,,,,,"",""
+ball,1,14.5,Lions,D Pretorius,TL Tsolekile,S Simetu,0,0,,,,,,"",""
+ball,1,14.6,Lions,D Pretorius,TL Tsolekile,S Simetu,0,0,,,,,,"",""
+ball,1,15.1,Lions,TL Tsolekile,D Pretorius,R Cameron,0,0,,,,,,"",""
+ball,1,15.2,Lions,TL Tsolekile,D Pretorius,R Cameron,1,0,,,,,,"",""
+ball,1,15.3,Lions,D Pretorius,TL Tsolekile,R Cameron,0,0,,,,,,caught,D Pretorius
+ball,1,15.4,Lions,TL Tsolekile,S Burger,R Cameron,0,0,,,,,,"",""
+ball,1,15.5,Lions,TL Tsolekile,S Burger,R Cameron,0,0,,,,,,"",""
+ball,1,15.6,Lions,TL Tsolekile,S Burger,R Cameron,0,0,,,,,,"",""
+ball,1,16.1,Lions,S Burger,TL Tsolekile,P Matshikwe,0,1,,,,1,,"",""
+ball,1,16.2,Lions,TL Tsolekile,S Burger,P Matshikwe,0,0,,,,,,"",""
+ball,1,16.3,Lions,TL Tsolekile,S Burger,P Matshikwe,0,0,,,,,,caught,TL Tsolekile
+ball,1,16.4,Lions,S Burger,CH Morris,P Matshikwe,1,0,,,,,,"",""
+ball,1,16.5,Lions,CH Morris,S Burger,P Matshikwe,0,0,,,,,,"",""
+ball,1,16.6,Lions,CH Morris,S Burger,P Matshikwe,1,0,,,,,,"",""
+ball,1,17.1,Lions,CH Morris,S Burger,CJ Alexander,1,0,,,,,,"",""
+ball,1,17.2,Lions,S Burger,CH Morris,CJ Alexander,1,0,,,,,,"",""
+ball,1,17.3,Lions,CH Morris,S Burger,CJ Alexander,4,0,,,,,,"",""
+ball,1,17.4,Lions,CH Morris,S Burger,CJ Alexander,1,0,,,,,,"",""
+ball,1,17.5,Lions,S Burger,CH Morris,CJ Alexander,0,1,1,,,,,"",""
+ball,1,17.6,Lions,S Burger,CH Morris,CJ Alexander,6,0,,,,,,"",""
+ball,1,17.7,Lions,S Burger,CH Morris,CJ Alexander,0,0,,,,,,"",""
+ball,1,18.1,Lions,CH Morris,S Burger,P Matshikwe,6,0,,,,,,"",""
+ball,1,18.2,Lions,CH Morris,S Burger,P Matshikwe,6,0,,,,,,"",""
+ball,1,18.3,Lions,CH Morris,S Burger,P Matshikwe,1,0,,,,,,"",""
+ball,1,18.4,Lions,S Burger,CH Morris,P Matshikwe,1,0,,,,,,"",""
+ball,1,18.5,Lions,CH Morris,S Burger,P Matshikwe,4,0,,,,,,"",""
+ball,1,18.6,Lions,CH Morris,S Burger,P Matshikwe,0,0,,,,,,"",""
+ball,1,19.1,Lions,S Burger,CH Morris,C Pietersen,2,0,,,,,,"",""
+ball,1,19.2,Lions,S Burger,CH Morris,C Pietersen,0,1,,,,1,,"",""
+ball,1,19.3,Lions,CH Morris,S Burger,C Pietersen,1,0,,,,,,"",""
+ball,1,19.4,Lions,S Burger,CH Morris,C Pietersen,1,0,,,,,,"",""
+ball,1,19.5,Lions,CH Morris,S Burger,C Pietersen,4,0,,,,,,"",""
+ball,1,19.6,Lions,CH Morris,S Burger,C Pietersen,2,0,,,,,,"",""
+ball,2,0.1,Impi,DA Hendricks,AP McLaren,E O'Reilly,0,0,,,,,,"",""
+ball,2,0.2,Impi,DA Hendricks,AP McLaren,E O'Reilly,0,0,,,,,,"",""
+ball,2,0.3,Impi,DA Hendricks,AP McLaren,E O'Reilly,0,0,,,,,,"",""
+ball,2,0.4,Impi,DA Hendricks,AP McLaren,E O'Reilly,0,0,,,,,,"",""
+ball,2,0.5,Impi,DA Hendricks,AP McLaren,E O'Reilly,1,0,,,,,,"",""
+ball,2,0.6,Impi,AP McLaren,DA Hendricks,E O'Reilly,0,1,1,,,,,"",""
+ball,2,0.7,Impi,AP McLaren,DA Hendricks,E O'Reilly,0,0,,,,,,"",""
+ball,2,1.1,Impi,DA Hendricks,AP McLaren,CH Morris,0,0,,,,,,"",""
+ball,2,1.2,Impi,DA Hendricks,AP McLaren,CH Morris,0,1,1,,,,,"",""
+ball,2,1.3,Impi,DA Hendricks,AP McLaren,CH Morris,0,0,,,,,,"",""
+ball,2,1.4,Impi,DA Hendricks,AP McLaren,CH Morris,0,0,,,,,,"",""
+ball,2,1.5,Impi,DA Hendricks,AP McLaren,CH Morris,0,0,,,,,,bowled,DA Hendricks
+ball,2,1.6,Impi,RN ten Doeschate,AP McLaren,CH Morris,1,0,,,,,,"",""
+ball,2,1.7,Impi,AP McLaren,RN ten Doeschate,CH Morris,0,0,,,,,,"",""
+ball,2,2.1,Impi,RN ten Doeschate,AP McLaren,E O'Reilly,0,0,,,,,,"",""
+ball,2,2.2,Impi,RN ten Doeschate,AP McLaren,E O'Reilly,0,0,,,,,,"",""
+ball,2,2.3,Impi,RN ten Doeschate,AP McLaren,E O'Reilly,0,0,,,,,,"",""
+ball,2,2.4,Impi,RN ten Doeschate,AP McLaren,E O'Reilly,0,0,,,,,,"",""
+ball,2,2.5,Impi,RN ten Doeschate,AP McLaren,E O'Reilly,0,0,,,,,,"",""
+ball,2,2.6,Impi,RN ten Doeschate,AP McLaren,E O'Reilly,0,0,,,,,,lbw,RN ten Doeschate
+ball,2,3.1,Impi,AP McLaren,PD Collingwood,CH Morris,0,1,1,,,,,"",""
+ball,2,3.2,Impi,AP McLaren,PD Collingwood,CH Morris,0,0,,,,,,"",""
+ball,2,3.3,Impi,AP McLaren,PD Collingwood,CH Morris,0,0,,,,,,"",""
+ball,2,3.4,Impi,AP McLaren,PD Collingwood,CH Morris,0,0,,,,,,"",""
+ball,2,3.5,Impi,AP McLaren,PD Collingwood,CH Morris,4,0,,,,,,"",""
+ball,2,3.6,Impi,AP McLaren,PD Collingwood,CH Morris,0,0,,,,,,"",""
+ball,2,3.7,Impi,AP McLaren,PD Collingwood,CH Morris,0,0,,,,,,"",""
+ball,2,4.1,Impi,PD Collingwood,AP McLaren,E O'Reilly,0,1,,,,1,,"",""
+ball,2,4.2,Impi,AP McLaren,PD Collingwood,E O'Reilly,0,0,,,,,,"",""
+ball,2,4.3,Impi,AP McLaren,PD Collingwood,E O'Reilly,0,0,,,,,,"",""
+ball,2,4.4,Impi,AP McLaren,PD Collingwood,E O'Reilly,0,1,1,,,,,"",""
+ball,2,4.5,Impi,AP McLaren,PD Collingwood,E O'Reilly,0,0,,,,,,"",""
+ball,2,4.6,Impi,AP McLaren,PD Collingwood,E O'Reilly,0,0,,,,,,run out,AP McLaren
+ball,2,4.7,Impi,PD Collingwood,JJ Pienaar,E O'Reilly,0,0,,,,,,"",""
+ball,2,5.1,Impi,JJ Pienaar,PD Collingwood,CH Morris,4,0,,,,,,"",""
+ball,2,5.2,Impi,JJ Pienaar,PD Collingwood,CH Morris,0,0,,,,,,"",""
+ball,2,5.3,Impi,JJ Pienaar,PD Collingwood,CH Morris,0,0,,,,,,"",""
+ball,2,5.4,Impi,JJ Pienaar,PD Collingwood,CH Morris,0,1,,,,1,,"",""
+ball,2,5.5,Impi,PD Collingwood,JJ Pienaar,CH Morris,0,0,,,,,,"",""
+ball,2,5.6,Impi,PD Collingwood,JJ Pienaar,CH Morris,0,0,,,,,,"",""
+ball,2,6.1,Impi,JJ Pienaar,PD Collingwood,AM Phangiso,1,0,,,,,,"",""
+ball,2,6.2,Impi,PD Collingwood,JJ Pienaar,AM Phangiso,0,0,,,,,,"",""
+ball,2,6.3,Impi,PD Collingwood,JJ Pienaar,AM Phangiso,2,0,,,,,,"",""
+ball,2,6.4,Impi,PD Collingwood,JJ Pienaar,AM Phangiso,1,0,,,,,,"",""
+ball,2,6.5,Impi,JJ Pienaar,PD Collingwood,AM Phangiso,0,0,,,,,,"",""
+ball,2,6.6,Impi,JJ Pienaar,PD Collingwood,AM Phangiso,0,0,,,,,,"",""
+ball,2,7.1,Impi,PD Collingwood,JJ Pienaar,AN Petersen,1,0,,,,,,"",""
+ball,2,7.2,Impi,JJ Pienaar,PD Collingwood,AN Petersen,0,0,,,,,,"",""
+ball,2,7.3,Impi,JJ Pienaar,PD Collingwood,AN Petersen,0,0,,,,,,"",""
+ball,2,7.4,Impi,JJ Pienaar,PD Collingwood,AN Petersen,1,0,,,,,,run out,PD Collingwood
+ball,2,7.5,Impi,JJ Pienaar,R Cameron,AN Petersen,1,0,,,,,,"",""
+ball,2,7.6,Impi,R Cameron,JJ Pienaar,AN Petersen,1,0,,,,,,"",""
+ball,2,8.1,Impi,R Cameron,JJ Pienaar,AM Phangiso,0,0,,,,,,"",""
+ball,2,8.2,Impi,R Cameron,JJ Pienaar,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.3,Impi,JJ Pienaar,R Cameron,AM Phangiso,0,0,,,,,,"",""
+ball,2,8.4,Impi,JJ Pienaar,R Cameron,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.5,Impi,R Cameron,JJ Pienaar,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.6,Impi,JJ Pienaar,R Cameron,AM Phangiso,1,0,,,,,,"",""
+ball,2,9.1,Impi,JJ Pienaar,R Cameron,AN Petersen,4,0,,,,,,"",""
+ball,2,9.2,Impi,JJ Pienaar,R Cameron,AN Petersen,1,0,,,,,,"",""
+ball,2,9.3,Impi,R Cameron,JJ Pienaar,AN Petersen,0,0,,,,,,"",""
+ball,2,9.4,Impi,R Cameron,JJ Pienaar,AN Petersen,0,0,,,,,,"",""
+ball,2,9.5,Impi,R Cameron,JJ Pienaar,AN Petersen,0,0,,,,,,"",""
+ball,2,9.6,Impi,R Cameron,JJ Pienaar,AN Petersen,1,0,,,,,,"",""
+ball,2,10.1,Impi,R Cameron,JJ Pienaar,AM Phangiso,0,0,,,,,,"",""
+ball,2,10.2,Impi,R Cameron,JJ Pienaar,AM Phangiso,0,0,,,,,,"",""
+ball,2,10.3,Impi,R Cameron,JJ Pienaar,AM Phangiso,0,1,,,,1,,"",""
+ball,2,10.4,Impi,JJ Pienaar,R Cameron,AM Phangiso,1,0,,,,,,"",""
+ball,2,10.5,Impi,R Cameron,JJ Pienaar,AM Phangiso,4,0,,,,,,"",""
+ball,2,10.6,Impi,R Cameron,JJ Pienaar,AM Phangiso,0,0,,,,,,bowled,R Cameron
+ball,2,11.1,Impi,JJ Pienaar,RCC Canning,AN Petersen,1,0,,,,,,"",""
+ball,2,11.2,Impi,RCC Canning,JJ Pienaar,AN Petersen,1,0,,,,,,"",""
+ball,2,11.3,Impi,JJ Pienaar,RCC Canning,AN Petersen,1,0,,,,,,"",""
+ball,2,11.4,Impi,RCC Canning,JJ Pienaar,AN Petersen,1,0,,,,,,"",""
+ball,2,11.5,Impi,JJ Pienaar,RCC Canning,AN Petersen,1,0,,,,,,"",""
+ball,2,11.6,Impi,RCC Canning,JJ Pienaar,AN Petersen,4,0,,,,,,"",""
+ball,2,12.1,Impi,JJ Pienaar,RCC Canning,AM Phangiso,0,0,,,,,,caught,JJ Pienaar
+ball,2,12.2,Impi,C Pietersen,RCC Canning,AM Phangiso,0,0,,,,,,"",""
+ball,2,12.3,Impi,C Pietersen,RCC Canning,AM Phangiso,0,1,,,,1,,"",""
+ball,2,12.4,Impi,RCC Canning,C Pietersen,AM Phangiso,1,0,,,,,,"",""
+ball,2,12.5,Impi,C Pietersen,RCC Canning,AM Phangiso,1,0,,,,,,"",""
+ball,2,12.6,Impi,RCC Canning,C Pietersen,AM Phangiso,0,0,,,,,,"",""
+ball,2,13.1,Impi,C Pietersen,RCC Canning,AN Petersen,0,0,,,,,,"",""
+ball,2,13.2,Impi,C Pietersen,RCC Canning,AN Petersen,1,0,,,,,,"",""
+ball,2,13.3,Impi,RCC Canning,C Pietersen,AN Petersen,0,0,,,,,,"",""
+ball,2,13.4,Impi,RCC Canning,C Pietersen,AN Petersen,1,0,,,,,,"",""
+ball,2,13.5,Impi,C Pietersen,RCC Canning,AN Petersen,1,0,,,,,,"",""
+ball,2,13.6,Impi,RCC Canning,C Pietersen,AN Petersen,2,0,,,,,,"",""
+ball,2,14.1,Impi,C Pietersen,RCC Canning,S Burger,0,1,1,,,,,"",""
+ball,2,14.2,Impi,C Pietersen,RCC Canning,S Burger,0,1,1,,,,,"",""
+ball,2,14.3,Impi,C Pietersen,RCC Canning,S Burger,0,0,,,,,,caught,C Pietersen
+ball,2,14.4,Impi,RCC Canning,CJ Alexander,S Burger,4,0,,,,,,"",""
+ball,2,14.5,Impi,RCC Canning,CJ Alexander,S Burger,1,0,,,,,,"",""
+ball,2,14.6,Impi,CJ Alexander,RCC Canning,S Burger,1,0,,,,,,"",""
+ball,2,14.7,Impi,RCC Canning,CJ Alexander,S Burger,2,0,,,,,,"",""
+ball,2,14.8,Impi,RCC Canning,CJ Alexander,S Burger,1,0,,,,,,"",""
+ball,2,15.1,Impi,RCC Canning,CJ Alexander,J Symes,2,0,,,,,,"",""
+ball,2,15.2,Impi,RCC Canning,CJ Alexander,J Symes,1,0,,,,,,"",""
+ball,2,15.3,Impi,CJ Alexander,RCC Canning,J Symes,1,0,,,,,,"",""
+ball,2,15.4,Impi,RCC Canning,CJ Alexander,J Symes,2,0,,,,,,"",""
+ball,2,15.5,Impi,RCC Canning,CJ Alexander,J Symes,1,0,,,,,,"",""
+ball,2,15.6,Impi,CJ Alexander,RCC Canning,J Symes,2,0,,,,,,"",""
+ball,2,16.1,Impi,RCC Canning,CJ Alexander,CH Morris,1,0,,,,,,"",""
+ball,2,16.2,Impi,CJ Alexander,RCC Canning,CH Morris,1,0,,,,,,"",""
+ball,2,16.3,Impi,RCC Canning,CJ Alexander,CH Morris,1,0,,,,,,"",""
+ball,2,16.4,Impi,CJ Alexander,RCC Canning,CH Morris,0,0,,,,,,"",""
+ball,2,16.5,Impi,CJ Alexander,RCC Canning,CH Morris,0,0,,,,,,"",""
+ball,2,16.6,Impi,CJ Alexander,RCC Canning,CH Morris,1,0,,,,,,"",""
+ball,2,17.1,Impi,CJ Alexander,RCC Canning,D Pretorius,0,1,,,,1,,"",""
+ball,2,17.2,Impi,RCC Canning,CJ Alexander,D Pretorius,0,0,,,,,,caught,RCC Canning
+ball,2,17.3,Impi,CJ Alexander,S Simetu,D Pretorius,1,0,,,,,,"",""
+ball,2,17.4,Impi,S Simetu,CJ Alexander,D Pretorius,0,0,,,,,,"",""
+ball,2,17.5,Impi,S Simetu,CJ Alexander,D Pretorius,1,0,,,,,,"",""
+ball,2,17.6,Impi,CJ Alexander,S Simetu,D Pretorius,1,0,,,,,,"",""
+ball,2,18.1,Impi,CJ Alexander,S Simetu,E O'Reilly,0,0,,,,,,"",""
+ball,2,18.2,Impi,CJ Alexander,S Simetu,E O'Reilly,0,0,,,,,,bowled,CJ Alexander
+ball,2,18.3,Impi,P Matshikwe,S Simetu,E O'Reilly,1,0,,,,,,"",""
+ball,2,18.4,Impi,S Simetu,P Matshikwe,E O'Reilly,0,0,,,,,,"",""
+ball,2,18.5,Impi,S Simetu,P Matshikwe,E O'Reilly,0,0,,,,,,"",""
+ball,2,18.6,Impi,S Simetu,P Matshikwe,E O'Reilly,0,0,,,,,,"",""
+ball,2,19.1,Impi,P Matshikwe,S Simetu,D Pretorius,0,0,,,,,,"",""
+ball,2,19.2,Impi,P Matshikwe,S Simetu,D Pretorius,1,0,,,,,,"",""
+ball,2,19.3,Impi,S Simetu,P Matshikwe,D Pretorius,4,0,,,,,,"",""
+ball,2,19.4,Impi,S Simetu,P Matshikwe,D Pretorius,1,0,,,,,,"",""
+ball,2,19.5,Impi,P Matshikwe,S Simetu,D Pretorius,0,0,,,,,,caught,P Matshikwe

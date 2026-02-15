@@ -1,0 +1,304 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Yorkshire
+info,gender,male
+info,season,2023
+info,date,2023/06/04
+info,event,Vitality Blast
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Yorkshire
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,James Middlebrook
+info,match_referee,JJ Whitaker
+info,winner,Yorkshire
+info,winner_wickets,7
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,MRJ Watt
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Derbyshire,Zaman Khan
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,W Luxton
+info,player,Yorkshire,D Wiese
+info,player,Yorkshire,BWM Mike
+info,player,Yorkshire,Shan Masood
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,JA Chohan
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BWM Mike,ed12fcd7
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DM Bess,ad46c747
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,ML Revis,28217d89
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Shan Masood,6843a783
+info,registry,people,TA Wood,884f72a1
+info,registry,people,W Luxton,c15fb753
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367
+info,registry,people,Zaman Khan,28392e11
+ball,1,0.1,Derbyshire,LM Reece,Haider Ali,D Wiese,0,0,,,,,,"",""
+ball,1,0.2,Derbyshire,LM Reece,Haider Ali,D Wiese,1,0,,,,,,"",""
+ball,1,0.3,Derbyshire,Haider Ali,LM Reece,D Wiese,0,0,,,,,,"",""
+ball,1,0.4,Derbyshire,Haider Ali,LM Reece,D Wiese,0,0,,,,,,"",""
+ball,1,0.5,Derbyshire,Haider Ali,LM Reece,D Wiese,0,1,1,,,,,"",""
+ball,1,0.6,Derbyshire,Haider Ali,LM Reece,D Wiese,1,0,,,,,,"",""
+ball,1,0.7,Derbyshire,LM Reece,Haider Ali,D Wiese,1,0,,,,,,"",""
+ball,1,1.1,Derbyshire,LM Reece,Haider Ali,DM Bess,1,0,,,,,,"",""
+ball,1,1.2,Derbyshire,Haider Ali,LM Reece,DM Bess,1,0,,,,,,"",""
+ball,1,1.3,Derbyshire,LM Reece,Haider Ali,DM Bess,0,0,,,,,,"",""
+ball,1,1.4,Derbyshire,LM Reece,Haider Ali,DM Bess,1,0,,,,,,"",""
+ball,1,1.5,Derbyshire,Haider Ali,LM Reece,DM Bess,1,0,,,,,,"",""
+ball,1,1.6,Derbyshire,LM Reece,Haider Ali,DM Bess,0,1,,,,1,,"",""
+ball,1,2.1,Derbyshire,LM Reece,Haider Ali,D Wiese,0,0,,,,,,"",""
+ball,1,2.2,Derbyshire,LM Reece,Haider Ali,D Wiese,0,0,,,,,,"",""
+ball,1,2.3,Derbyshire,LM Reece,Haider Ali,D Wiese,0,0,,,,,,"",""
+ball,1,2.4,Derbyshire,LM Reece,Haider Ali,D Wiese,1,0,,,,,,"",""
+ball,1,2.5,Derbyshire,Haider Ali,LM Reece,D Wiese,0,0,,,,,,"",""
+ball,1,2.6,Derbyshire,Haider Ali,LM Reece,D Wiese,6,0,,,,,,"",""
+ball,1,3.1,Derbyshire,LM Reece,Haider Ali,BWM Mike,1,0,,,,,,"",""
+ball,1,3.2,Derbyshire,Haider Ali,LM Reece,BWM Mike,1,0,,,,,,"",""
+ball,1,3.3,Derbyshire,LM Reece,Haider Ali,BWM Mike,0,0,,,,,,"",""
+ball,1,3.4,Derbyshire,LM Reece,Haider Ali,BWM Mike,0,0,,,,,,caught,LM Reece
+ball,1,3.5,Derbyshire,TA Wood,Haider Ali,BWM Mike,1,0,,,,,,"",""
+ball,1,3.6,Derbyshire,Haider Ali,TA Wood,BWM Mike,0,0,,,,,,"",""
+ball,1,4.1,Derbyshire,TA Wood,Haider Ali,JA Thompson,1,0,,,,,,"",""
+ball,1,4.2,Derbyshire,Haider Ali,TA Wood,JA Thompson,4,0,,,,,,"",""
+ball,1,4.3,Derbyshire,Haider Ali,TA Wood,JA Thompson,3,0,,,,,,"",""
+ball,1,4.4,Derbyshire,TA Wood,Haider Ali,JA Thompson,4,0,,,,,,"",""
+ball,1,4.5,Derbyshire,TA Wood,Haider Ali,JA Thompson,1,0,,,,,,"",""
+ball,1,4.6,Derbyshire,Haider Ali,TA Wood,JA Thompson,0,0,,,,,,"",""
+ball,1,5.1,Derbyshire,TA Wood,Haider Ali,ML Revis,1,0,,,,,,"",""
+ball,1,5.2,Derbyshire,Haider Ali,TA Wood,ML Revis,1,0,,,,,,"",""
+ball,1,5.3,Derbyshire,TA Wood,Haider Ali,ML Revis,0,0,,,,,,"",""
+ball,1,5.4,Derbyshire,TA Wood,Haider Ali,ML Revis,2,0,,,,,,"",""
+ball,1,5.5,Derbyshire,TA Wood,Haider Ali,ML Revis,1,0,,,,,,"",""
+ball,1,5.6,Derbyshire,Haider Ali,TA Wood,ML Revis,1,0,,,,,,"",""
+ball,1,6.1,Derbyshire,Haider Ali,TA Wood,BWM Mike,2,0,,,,,,"",""
+ball,1,6.2,Derbyshire,Haider Ali,TA Wood,BWM Mike,4,0,,,,,,"",""
+ball,1,6.3,Derbyshire,Haider Ali,TA Wood,BWM Mike,6,0,,,,,,"",""
+ball,1,6.4,Derbyshire,Haider Ali,TA Wood,BWM Mike,1,0,,,,,,"",""
+ball,1,6.5,Derbyshire,TA Wood,Haider Ali,BWM Mike,2,0,,,,,,"",""
+ball,1,6.6,Derbyshire,TA Wood,Haider Ali,BWM Mike,1,0,,,,,,"",""
+ball,1,7.1,Derbyshire,TA Wood,Haider Ali,DM Bess,0,0,,,,,,"",""
+ball,1,7.2,Derbyshire,TA Wood,Haider Ali,DM Bess,1,0,,,,,,"",""
+ball,1,7.3,Derbyshire,Haider Ali,TA Wood,DM Bess,1,0,,,,,,"",""
+ball,1,7.4,Derbyshire,TA Wood,Haider Ali,DM Bess,1,0,,,,,,"",""
+ball,1,7.5,Derbyshire,Haider Ali,TA Wood,DM Bess,0,1,,,,1,,"",""
+ball,1,7.6,Derbyshire,TA Wood,Haider Ali,DM Bess,1,0,,,,,,"",""
+ball,1,8.1,Derbyshire,TA Wood,Haider Ali,JA Chohan,0,0,,,,,,caught,TA Wood
+ball,1,8.2,Derbyshire,WL Madsen,Haider Ali,JA Chohan,0,0,,,,,,"",""
+ball,1,8.3,Derbyshire,WL Madsen,Haider Ali,JA Chohan,1,0,,,,,,"",""
+ball,1,8.4,Derbyshire,Haider Ali,WL Madsen,JA Chohan,2,0,,,,,,"",""
+ball,1,8.5,Derbyshire,Haider Ali,WL Madsen,JA Chohan,0,0,,,,,,"",""
+ball,1,8.6,Derbyshire,Haider Ali,WL Madsen,JA Chohan,0,0,,,,,,"",""
+ball,1,9.1,Derbyshire,WL Madsen,Haider Ali,ML Revis,2,0,,,,,,"",""
+ball,1,9.2,Derbyshire,WL Madsen,Haider Ali,ML Revis,4,0,,,,,,"",""
+ball,1,9.3,Derbyshire,WL Madsen,Haider Ali,ML Revis,1,0,,,,,,"",""
+ball,1,9.4,Derbyshire,Haider Ali,WL Madsen,ML Revis,0,0,,,,,,"",""
+ball,1,9.5,Derbyshire,Haider Ali,WL Madsen,ML Revis,0,0,,,,,,"",""
+ball,1,9.6,Derbyshire,Haider Ali,WL Madsen,ML Revis,2,0,,,,,,"",""
+ball,1,10.1,Derbyshire,WL Madsen,Haider Ali,JA Chohan,0,0,,,,,,"",""
+ball,1,10.2,Derbyshire,WL Madsen,Haider Ali,JA Chohan,3,0,,,,,,"",""
+ball,1,10.3,Derbyshire,Haider Ali,WL Madsen,JA Chohan,0,4,,,4,,,"",""
+ball,1,10.4,Derbyshire,Haider Ali,WL Madsen,JA Chohan,6,0,,,,,,"",""
+ball,1,10.5,Derbyshire,Haider Ali,WL Madsen,JA Chohan,1,0,,,,,,"",""
+ball,1,10.6,Derbyshire,WL Madsen,Haider Ali,JA Chohan,1,0,,,,,,"",""
+ball,1,11.1,Derbyshire,WL Madsen,Haider Ali,JA Thompson,1,0,,,,,,"",""
+ball,1,11.2,Derbyshire,Haider Ali,WL Madsen,JA Thompson,0,0,,,,,,"",""
+ball,1,11.3,Derbyshire,Haider Ali,WL Madsen,JA Thompson,2,0,,,,,,"",""
+ball,1,11.4,Derbyshire,Haider Ali,WL Madsen,JA Thompson,1,0,,,,,,"",""
+ball,1,11.5,Derbyshire,WL Madsen,Haider Ali,JA Thompson,1,0,,,,,,"",""
+ball,1,11.6,Derbyshire,Haider Ali,WL Madsen,JA Thompson,1,0,,,,,,"",""
+ball,1,12.1,Derbyshire,Haider Ali,WL Madsen,D Wiese,1,0,,,,,,"",""
+ball,1,12.2,Derbyshire,WL Madsen,Haider Ali,D Wiese,4,0,,,,,,"",""
+ball,1,12.3,Derbyshire,WL Madsen,Haider Ali,D Wiese,1,0,,,,,,"",""
+ball,1,12.4,Derbyshire,Haider Ali,WL Madsen,D Wiese,1,0,,,,,,"",""
+ball,1,12.5,Derbyshire,WL Madsen,Haider Ali,D Wiese,1,0,,,,,,"",""
+ball,1,12.6,Derbyshire,Haider Ali,WL Madsen,D Wiese,1,0,,,,,,"",""
+ball,1,13.1,Derbyshire,Haider Ali,WL Madsen,BWM Mike,6,0,,,,,,"",""
+ball,1,13.2,Derbyshire,Haider Ali,WL Madsen,BWM Mike,1,0,,,,,,"",""
+ball,1,13.3,Derbyshire,WL Madsen,Haider Ali,BWM Mike,1,0,,,,,,"",""
+ball,1,13.4,Derbyshire,Haider Ali,WL Madsen,BWM Mike,4,0,,,,,,"",""
+ball,1,13.5,Derbyshire,Haider Ali,WL Madsen,BWM Mike,4,0,,,,,,"",""
+ball,1,13.6,Derbyshire,Haider Ali,WL Madsen,BWM Mike,2,0,,,,,,"",""
+ball,1,14.1,Derbyshire,WL Madsen,Haider Ali,JA Thompson,0,0,,,,,,"",""
+ball,1,14.2,Derbyshire,WL Madsen,Haider Ali,JA Thompson,1,0,,,,,,"",""
+ball,1,14.3,Derbyshire,Haider Ali,WL Madsen,JA Thompson,0,0,,,,,,"",""
+ball,1,14.4,Derbyshire,Haider Ali,WL Madsen,JA Thompson,2,0,,,,,,"",""
+ball,1,14.5,Derbyshire,Haider Ali,WL Madsen,JA Thompson,1,0,,,,,,"",""
+ball,1,14.6,Derbyshire,WL Madsen,Haider Ali,JA Thompson,1,0,,,,,,"",""
+ball,1,15.1,Derbyshire,WL Madsen,Haider Ali,ML Revis,6,0,,,,,,"",""
+ball,1,15.2,Derbyshire,WL Madsen,Haider Ali,ML Revis,2,0,,,,,,"",""
+ball,1,15.3,Derbyshire,WL Madsen,Haider Ali,ML Revis,0,0,,,,,,"",""
+ball,1,15.4,Derbyshire,WL Madsen,Haider Ali,ML Revis,4,0,,,,,,"",""
+ball,1,15.5,Derbyshire,WL Madsen,Haider Ali,ML Revis,1,0,,,,,,"",""
+ball,1,15.6,Derbyshire,Haider Ali,WL Madsen,ML Revis,2,0,,,,,,"",""
+ball,1,16.1,Derbyshire,WL Madsen,Haider Ali,D Wiese,6,0,,,,,,"",""
+ball,1,16.2,Derbyshire,WL Madsen,Haider Ali,D Wiese,2,0,,,,,,"",""
+ball,1,16.3,Derbyshire,WL Madsen,Haider Ali,D Wiese,0,0,,,,,,"",""
+ball,1,16.4,Derbyshire,WL Madsen,Haider Ali,D Wiese,0,0,,,,,,caught,WL Madsen
+ball,1,16.5,Derbyshire,JL du Plooy,Haider Ali,D Wiese,1,0,,,,,,"",""
+ball,1,16.6,Derbyshire,Haider Ali,JL du Plooy,D Wiese,1,0,,,,,,"",""
+ball,1,17.1,Derbyshire,Haider Ali,JL du Plooy,BWM Mike,0,0,,,,,,caught,Haider Ali
+ball,1,17.2,Derbyshire,BD Guest,JL du Plooy,BWM Mike,1,0,,,,,,"",""
+ball,1,17.3,Derbyshire,JL du Plooy,BD Guest,BWM Mike,0,0,,,,,,"",""
+ball,1,17.4,Derbyshire,JL du Plooy,BD Guest,BWM Mike,0,0,,,,,,"",""
+ball,1,17.5,Derbyshire,JL du Plooy,BD Guest,BWM Mike,0,0,,,,,,bowled,JL du Plooy
+ball,1,17.6,Derbyshire,MH McKiernan,BD Guest,BWM Mike,1,0,,,,,,"",""
+ball,1,18.1,Derbyshire,MH McKiernan,BD Guest,JA Thompson,0,0,,,,,,"",""
+ball,1,18.2,Derbyshire,MH McKiernan,BD Guest,JA Thompson,4,0,,,,,,"",""
+ball,1,18.3,Derbyshire,MH McKiernan,BD Guest,JA Thompson,6,0,,,,,,"",""
+ball,1,18.4,Derbyshire,MH McKiernan,BD Guest,JA Thompson,0,0,,,,,,bowled,MH McKiernan
+ball,1,18.5,Derbyshire,ZJ Chappell,BD Guest,JA Thompson,1,0,,,,,,"",""
+ball,1,18.6,Derbyshire,BD Guest,ZJ Chappell,JA Thompson,1,0,,,,,,"",""
+ball,1,19.1,Derbyshire,BD Guest,ZJ Chappell,ML Revis,0,0,,,,,,"",""
+ball,1,19.2,Derbyshire,BD Guest,ZJ Chappell,ML Revis,1,0,,,,,,"",""
+ball,1,19.3,Derbyshire,ZJ Chappell,BD Guest,ML Revis,0,0,,,,,,"",""
+ball,1,19.4,Derbyshire,ZJ Chappell,BD Guest,ML Revis,0,0,,,,,,caught,ZJ Chappell
+ball,1,19.5,Derbyshire,MRJ Watt,BD Guest,ML Revis,0,1,,,1,,,"",""
+ball,1,19.6,Derbyshire,BD Guest,MRJ Watt,ML Revis,1,0,,,,,,run out,MRJ Watt
+ball,2,0.1,Yorkshire,A Lyth,DJ Malan,MRJ Watt,1,0,,,,,,"",""
+ball,2,0.2,Yorkshire,DJ Malan,A Lyth,MRJ Watt,0,1,1,,,,,"",""
+ball,2,0.3,Yorkshire,DJ Malan,A Lyth,MRJ Watt,0,1,1,,,,,"",""
+ball,2,0.4,Yorkshire,DJ Malan,A Lyth,MRJ Watt,4,0,,,,,,"",""
+ball,2,0.5,Yorkshire,DJ Malan,A Lyth,MRJ Watt,1,0,,,,,,"",""
+ball,2,0.6,Yorkshire,A Lyth,DJ Malan,MRJ Watt,1,0,,,,,,"",""
+ball,2,0.7,Yorkshire,DJ Malan,A Lyth,MRJ Watt,0,0,,,,,,"",""
+ball,2,0.8,Yorkshire,DJ Malan,A Lyth,MRJ Watt,0,0,,,,,,"",""
+ball,2,1.1,Yorkshire,A Lyth,DJ Malan,Zaman Khan,4,0,,,,,,"",""
+ball,2,1.2,Yorkshire,A Lyth,DJ Malan,Zaman Khan,1,0,,,,,,"",""
+ball,2,1.3,Yorkshire,DJ Malan,A Lyth,Zaman Khan,0,0,,,,,,"",""
+ball,2,1.4,Yorkshire,DJ Malan,A Lyth,Zaman Khan,1,0,,,,,,"",""
+ball,2,1.5,Yorkshire,A Lyth,DJ Malan,Zaman Khan,1,0,,,,,,"",""
+ball,2,1.6,Yorkshire,DJ Malan,A Lyth,Zaman Khan,1,0,,,,,,"",""
+ball,2,2.1,Yorkshire,DJ Malan,A Lyth,ZJ Chappell,4,0,,,,,,"",""
+ball,2,2.2,Yorkshire,DJ Malan,A Lyth,ZJ Chappell,6,0,,,,,,"",""
+ball,2,2.3,Yorkshire,DJ Malan,A Lyth,ZJ Chappell,1,0,,,,,,"",""
+ball,2,2.4,Yorkshire,A Lyth,DJ Malan,ZJ Chappell,0,0,,,,,,"",""
+ball,2,2.5,Yorkshire,A Lyth,DJ Malan,ZJ Chappell,1,0,,,,,,"",""
+ball,2,2.6,Yorkshire,DJ Malan,A Lyth,ZJ Chappell,0,0,,,,,,"",""
+ball,2,3.1,Yorkshire,A Lyth,DJ Malan,Zaman Khan,1,0,,,,,,"",""
+ball,2,3.2,Yorkshire,DJ Malan,A Lyth,Zaman Khan,0,0,,,,,,"",""
+ball,2,3.3,Yorkshire,DJ Malan,A Lyth,Zaman Khan,4,0,,,,,,"",""
+ball,2,3.4,Yorkshire,DJ Malan,A Lyth,Zaman Khan,0,2,,2,,,,"",""
+ball,2,3.5,Yorkshire,DJ Malan,A Lyth,Zaman Khan,1,0,,,,,,"",""
+ball,2,3.6,Yorkshire,A Lyth,DJ Malan,Zaman Khan,0,0,,,,,,"",""
+ball,2,3.7,Yorkshire,A Lyth,DJ Malan,Zaman Khan,4,0,,,,,,"",""
+ball,2,4.1,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,4.2,Yorkshire,A Lyth,DJ Malan,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,4.3,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,4.4,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,4,0,,,,,,"",""
+ball,2,4.5,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,4.6,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,4,0,,,,,,"",""
+ball,2,5.1,Yorkshire,A Lyth,DJ Malan,ZJ Chappell,0,0,,,,,,"",""
+ball,2,5.2,Yorkshire,A Lyth,DJ Malan,ZJ Chappell,0,0,,,,,,"",""
+ball,2,5.3,Yorkshire,A Lyth,DJ Malan,ZJ Chappell,0,0,,,,,,"",""
+ball,2,5.4,Yorkshire,A Lyth,DJ Malan,ZJ Chappell,1,0,,,,,,"",""
+ball,2,5.5,Yorkshire,DJ Malan,A Lyth,ZJ Chappell,1,0,,,,,,"",""
+ball,2,5.6,Yorkshire,A Lyth,DJ Malan,ZJ Chappell,1,0,,,,,,"",""
+ball,2,6.1,Yorkshire,A Lyth,DJ Malan,TA Wood,0,0,,,,,,"",""
+ball,2,6.2,Yorkshire,A Lyth,DJ Malan,TA Wood,0,0,,,,,,"",""
+ball,2,6.3,Yorkshire,A Lyth,DJ Malan,TA Wood,1,0,,,,,,"",""
+ball,2,6.4,Yorkshire,DJ Malan,A Lyth,TA Wood,0,0,,,,,,"",""
+ball,2,6.5,Yorkshire,DJ Malan,A Lyth,TA Wood,1,0,,,,,,"",""
+ball,2,6.6,Yorkshire,A Lyth,DJ Malan,TA Wood,4,0,,,,,,"",""
+ball,2,7.1,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,6,0,,,,,,"",""
+ball,2,7.2,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,7.3,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,7.4,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,7.5,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,4,0,,,,,,"",""
+ball,2,7.6,Yorkshire,DJ Malan,A Lyth,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,8.1,Yorkshire,DJ Malan,A Lyth,MH McKiernan,1,0,,,,,,"",""
+ball,2,8.2,Yorkshire,A Lyth,DJ Malan,MH McKiernan,0,0,,,,,,"",""
+ball,2,8.3,Yorkshire,A Lyth,DJ Malan,MH McKiernan,2,0,,,,,,"",""
+ball,2,8.4,Yorkshire,A Lyth,DJ Malan,MH McKiernan,1,0,,,,,,"",""
+ball,2,8.5,Yorkshire,DJ Malan,A Lyth,MH McKiernan,1,0,,,,,,"",""
+ball,2,8.6,Yorkshire,A Lyth,DJ Malan,MH McKiernan,2,0,,,,,,"",""
+ball,2,9.1,Yorkshire,DJ Malan,A Lyth,TA Wood,1,0,,,,,,"",""
+ball,2,9.2,Yorkshire,A Lyth,DJ Malan,TA Wood,4,0,,,,,,"",""
+ball,2,9.3,Yorkshire,A Lyth,DJ Malan,TA Wood,0,0,,,,,,bowled,A Lyth
+ball,2,9.4,Yorkshire,W Luxton,DJ Malan,TA Wood,4,0,,,,,,"",""
+ball,2,9.5,Yorkshire,W Luxton,DJ Malan,TA Wood,1,0,,,,,,"",""
+ball,2,9.6,Yorkshire,DJ Malan,W Luxton,TA Wood,1,0,,,,,,"",""
+ball,2,10.1,Yorkshire,DJ Malan,W Luxton,MH McKiernan,0,0,,,,,,"",""
+ball,2,10.2,Yorkshire,DJ Malan,W Luxton,MH McKiernan,1,0,,,,,,"",""
+ball,2,10.3,Yorkshire,W Luxton,DJ Malan,MH McKiernan,1,0,,,,,,"",""
+ball,2,10.4,Yorkshire,DJ Malan,W Luxton,MH McKiernan,4,0,,,,,,"",""
+ball,2,10.5,Yorkshire,DJ Malan,W Luxton,MH McKiernan,6,0,,,,,,"",""
+ball,2,10.6,Yorkshire,DJ Malan,W Luxton,MH McKiernan,0,1,1,,,,,"",""
+ball,2,10.7,Yorkshire,DJ Malan,W Luxton,MH McKiernan,1,0,,,,,,"",""
+ball,2,11.1,Yorkshire,DJ Malan,W Luxton,GLS Scrimshaw,4,0,,,,,,"",""
+ball,2,11.2,Yorkshire,DJ Malan,W Luxton,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,11.3,Yorkshire,W Luxton,DJ Malan,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,11.4,Yorkshire,W Luxton,DJ Malan,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,11.5,Yorkshire,DJ Malan,W Luxton,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,11.6,Yorkshire,W Luxton,DJ Malan,GLS Scrimshaw,0,0,,,,,,caught,W Luxton
+ball,2,12.1,Yorkshire,DJ Malan,D Wiese,MRJ Watt,1,0,,,,,,"",""
+ball,2,12.2,Yorkshire,D Wiese,DJ Malan,MRJ Watt,1,0,,,,,,"",""
+ball,2,12.3,Yorkshire,DJ Malan,D Wiese,MRJ Watt,1,0,,,,,,"",""
+ball,2,12.4,Yorkshire,D Wiese,DJ Malan,MRJ Watt,0,0,,,,,,"",""
+ball,2,12.5,Yorkshire,D Wiese,DJ Malan,MRJ Watt,0,0,,,,,,"",""
+ball,2,12.6,Yorkshire,D Wiese,DJ Malan,MRJ Watt,0,0,,,,,,"",""
+ball,2,13.1,Yorkshire,DJ Malan,D Wiese,ZJ Chappell,4,0,,,,,,"",""
+ball,2,13.2,Yorkshire,DJ Malan,D Wiese,ZJ Chappell,0,0,,,,,,"",""
+ball,2,13.3,Yorkshire,DJ Malan,D Wiese,ZJ Chappell,1,0,,,,,,"",""
+ball,2,13.4,Yorkshire,D Wiese,DJ Malan,ZJ Chappell,1,0,,,,,,"",""
+ball,2,13.5,Yorkshire,DJ Malan,D Wiese,ZJ Chappell,1,0,,,,,,"",""
+ball,2,13.6,Yorkshire,D Wiese,DJ Malan,ZJ Chappell,0,0,,,,,,"",""
+ball,2,14.1,Yorkshire,DJ Malan,D Wiese,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,14.2,Yorkshire,DJ Malan,D Wiese,GLS Scrimshaw,0,2,,2,,,,"",""
+ball,2,14.3,Yorkshire,DJ Malan,D Wiese,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,14.4,Yorkshire,D Wiese,DJ Malan,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,14.5,Yorkshire,D Wiese,DJ Malan,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,14.6,Yorkshire,D Wiese,DJ Malan,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,14.7,Yorkshire,DJ Malan,D Wiese,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,15.1,Yorkshire,DJ Malan,D Wiese,Zaman Khan,1,0,,,,,,"",""
+ball,2,15.2,Yorkshire,D Wiese,DJ Malan,Zaman Khan,0,1,1,,,,,"",""
+ball,2,15.3,Yorkshire,D Wiese,DJ Malan,Zaman Khan,2,0,,,,,,"",""
+ball,2,15.4,Yorkshire,D Wiese,DJ Malan,Zaman Khan,0,0,,,,,,"",""
+ball,2,15.5,Yorkshire,D Wiese,DJ Malan,Zaman Khan,4,0,,,,,,"",""
+ball,2,15.6,Yorkshire,D Wiese,DJ Malan,Zaman Khan,1,0,,,,,,"",""
+ball,2,15.7,Yorkshire,DJ Malan,D Wiese,Zaman Khan,0,0,,,,,,"",""
+ball,2,16.1,Yorkshire,D Wiese,DJ Malan,LM Reece,6,2,,2,,,,"",""
+ball,2,16.2,Yorkshire,D Wiese,DJ Malan,LM Reece,1,0,,,,,,"",""
+ball,2,16.3,Yorkshire,DJ Malan,D Wiese,LM Reece,0,1,1,,,,,"",""
+ball,2,16.4,Yorkshire,DJ Malan,D Wiese,LM Reece,1,0,,,,,,"",""
+ball,2,16.5,Yorkshire,D Wiese,DJ Malan,LM Reece,4,0,,,,,,"",""
+ball,2,16.6,Yorkshire,D Wiese,DJ Malan,LM Reece,0,0,,,,,,"",""
+ball,2,16.7,Yorkshire,D Wiese,DJ Malan,LM Reece,1,0,,,,,,"",""
+ball,2,16.8,Yorkshire,DJ Malan,D Wiese,LM Reece,0,0,,,,,,"",""
+ball,2,17.1,Yorkshire,D Wiese,DJ Malan,ZJ Chappell,4,0,,,,,,"",""
+ball,2,17.2,Yorkshire,D Wiese,DJ Malan,ZJ Chappell,4,0,,,,,,"",""
+ball,2,17.3,Yorkshire,D Wiese,DJ Malan,ZJ Chappell,0,0,,,,,,caught,D Wiese
+ball,2,17.4,Yorkshire,BWM Mike,DJ Malan,ZJ Chappell,1,0,,,,,,"",""
+ball,2,17.5,Yorkshire,DJ Malan,BWM Mike,ZJ Chappell,1,0,,,,,,"",""
+ball,2,17.6,Yorkshire,BWM Mike,DJ Malan,ZJ Chappell,2,0,,,,,,"",""
+ball,2,18.1,Yorkshire,DJ Malan,BWM Mike,Zaman Khan,0,1,1,,,,,"",""
+ball,2,18.2,Yorkshire,DJ Malan,BWM Mike,Zaman Khan,1,0,,,,,,"",""
+ball,2,18.3,Yorkshire,BWM Mike,DJ Malan,Zaman Khan,6,0,,,,,,"",""

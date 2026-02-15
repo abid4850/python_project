@@ -1,0 +1,300 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Boland
+info,team,Titans
+info,gender,male
+info,season,2022/23
+info,date,2022/10/25
+info,event,CSA T20 Challenge
+info,match_number,16
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Titans
+info,toss_decision,field
+info,umpire,LB Gcuma
+info,umpire,Stephen Harris
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,DJ Smith
+info,match_referee,GH Pienaar
+info,winner,Boland
+info,winner_runs,4
+info,method,D/L
+info,player,Boland,JN Malan
+info,player,Boland,JL du Plooy
+info,player,Boland,SV Kitime
+info,player,Boland,C Fortuin
+info,player,Boland,F Behardien
+info,player,Boland,M Copeland
+info,player,Boland,FD Adams
+info,player,Boland,GC Viljoen
+info,player,Boland,B Xenxe
+info,player,Boland,S von Berg
+info,player,Boland,I Manack
+info,player,Titans,D Brevis
+info,player,Titans,J Pillay
+info,player,Titans,N Brand
+info,player,Titans,Dayyaan Galiem
+info,player,Titans,C Bosch
+info,player,Titans,A Gqamane
+info,player,Titans,SR Harmer
+info,player,Titans,M Boast
+info,player,Titans,CJ Dala
+info,player,Titans,M Twala
+info,player,Titans,AM Phangiso
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,B Xenxe,94cdf850
+info,registry,people,C Bosch,172dff15
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,F Behardien,dce2019b
+info,registry,people,FD Adams,f277f531
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,I Manack,5ec126fa
+info,registry,people,J Pillay,230f5cea
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JN Malan,f76d7466
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Boast,2f838fa4
+info,registry,people,M Copeland,9943b637
+info,registry,people,M Twala,73c25704
+info,registry,people,N Brand,68790da2
+info,registry,people,S von Berg,ffd3fc37
+info,registry,people,SR Harmer,23638956
+info,registry,people,SV Kitime,9ca20359
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+ball,1,0.1,Boland,JN Malan,JL du Plooy,A Gqamane,0,0,,,,,,"",""
+ball,1,0.2,Boland,JN Malan,JL du Plooy,A Gqamane,0,0,,,,,,"",""
+ball,1,0.3,Boland,JN Malan,JL du Plooy,A Gqamane,4,0,,,,,,"",""
+ball,1,0.4,Boland,JN Malan,JL du Plooy,A Gqamane,0,0,,,,,,"",""
+ball,1,0.5,Boland,JN Malan,JL du Plooy,A Gqamane,1,0,,,,,,"",""
+ball,1,0.6,Boland,JL du Plooy,JN Malan,A Gqamane,0,0,,,,,,bowled,JL du Plooy
+ball,1,1.1,Boland,JN Malan,SV Kitime,N Brand,1,0,,,,,,"",""
+ball,1,1.2,Boland,SV Kitime,JN Malan,N Brand,0,0,,,,,,"",""
+ball,1,1.3,Boland,SV Kitime,JN Malan,N Brand,0,0,,,,,,caught,SV Kitime
+ball,1,1.4,Boland,C Fortuin,JN Malan,N Brand,0,0,,,,,,"",""
+ball,1,1.5,Boland,C Fortuin,JN Malan,N Brand,4,0,,,,,,"",""
+ball,1,1.6,Boland,C Fortuin,JN Malan,N Brand,0,0,,,,,,"",""
+ball,1,2.1,Boland,JN Malan,C Fortuin,A Gqamane,0,0,,,,,,"",""
+ball,1,2.2,Boland,JN Malan,C Fortuin,A Gqamane,0,0,,,,,,"",""
+ball,1,2.3,Boland,JN Malan,C Fortuin,A Gqamane,4,0,,,,,,"",""
+ball,1,2.4,Boland,JN Malan,C Fortuin,A Gqamane,0,0,,,,,,"",""
+ball,1,2.5,Boland,JN Malan,C Fortuin,A Gqamane,1,0,,,,,,"",""
+ball,1,2.6,Boland,C Fortuin,JN Malan,A Gqamane,0,0,,,,,,"",""
+ball,1,3.1,Boland,JN Malan,C Fortuin,AM Phangiso,0,0,,,,,,"",""
+ball,1,3.2,Boland,JN Malan,C Fortuin,AM Phangiso,0,0,,,,,,"",""
+ball,1,3.3,Boland,JN Malan,C Fortuin,AM Phangiso,0,0,,,,,,caught,JN Malan
+ball,1,3.4,Boland,F Behardien,C Fortuin,AM Phangiso,0,0,,,,,,"",""
+ball,1,3.5,Boland,F Behardien,C Fortuin,AM Phangiso,0,0,,,,,,"",""
+ball,1,3.6,Boland,F Behardien,C Fortuin,AM Phangiso,0,0,,,,,,"",""
+ball,1,4.1,Boland,C Fortuin,F Behardien,CJ Dala,0,0,,,,,,"",""
+ball,1,4.2,Boland,C Fortuin,F Behardien,CJ Dala,1,0,,,,,,"",""
+ball,1,4.3,Boland,F Behardien,C Fortuin,CJ Dala,0,0,,,,,,"",""
+ball,1,4.4,Boland,F Behardien,C Fortuin,CJ Dala,0,0,,,,,,"",""
+ball,1,4.5,Boland,F Behardien,C Fortuin,CJ Dala,6,0,,,,,,"",""
+ball,1,4.6,Boland,F Behardien,C Fortuin,CJ Dala,0,0,,,,,,"",""
+ball,1,5.1,Boland,C Fortuin,F Behardien,AM Phangiso,4,0,,,,,,"",""
+ball,1,5.2,Boland,C Fortuin,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,5.3,Boland,F Behardien,C Fortuin,AM Phangiso,1,0,,,,,,"",""
+ball,1,5.4,Boland,C Fortuin,F Behardien,AM Phangiso,0,0,,,,,,"",""
+ball,1,5.5,Boland,C Fortuin,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,5.6,Boland,F Behardien,C Fortuin,AM Phangiso,0,0,,,,,,"",""
+ball,1,6.1,Boland,C Fortuin,F Behardien,M Boast,0,0,,,,,,"",""
+ball,1,6.2,Boland,C Fortuin,F Behardien,M Boast,4,0,,,,,,"",""
+ball,1,6.3,Boland,C Fortuin,F Behardien,M Boast,0,0,,,,,,"",""
+ball,1,6.4,Boland,C Fortuin,F Behardien,M Boast,1,0,,,,,,"",""
+ball,1,6.5,Boland,F Behardien,C Fortuin,M Boast,1,0,,,,,,"",""
+ball,1,6.6,Boland,C Fortuin,F Behardien,M Boast,0,0,,,,,,"",""
+ball,1,7.1,Boland,F Behardien,C Fortuin,N Brand,1,0,,,,,,"",""
+ball,1,7.2,Boland,C Fortuin,F Behardien,N Brand,1,0,,,,,,"",""
+ball,1,7.3,Boland,F Behardien,C Fortuin,N Brand,0,0,,,,,,"",""
+ball,1,7.4,Boland,F Behardien,C Fortuin,N Brand,2,0,,,,,,"",""
+ball,1,7.5,Boland,F Behardien,C Fortuin,N Brand,1,0,,,,,,"",""
+ball,1,7.6,Boland,C Fortuin,F Behardien,N Brand,1,0,,,,,,"",""
+ball,1,8.1,Boland,C Fortuin,F Behardien,M Boast,1,0,,,,,,"",""
+ball,1,8.2,Boland,F Behardien,C Fortuin,M Boast,4,0,,,,,,"",""
+ball,1,8.3,Boland,F Behardien,C Fortuin,M Boast,4,0,,,,,,"",""
+ball,1,8.4,Boland,F Behardien,C Fortuin,M Boast,1,0,,,,,,"",""
+ball,1,8.5,Boland,C Fortuin,F Behardien,M Boast,0,1,1,,,,,"",""
+ball,1,8.6,Boland,C Fortuin,F Behardien,M Boast,1,0,,,,,,"",""
+ball,1,8.7,Boland,F Behardien,C Fortuin,M Boast,0,0,,,,,,"",""
+ball,1,9.1,Boland,C Fortuin,F Behardien,D Brevis,0,0,,,,,,"",""
+ball,1,9.2,Boland,C Fortuin,F Behardien,D Brevis,4,0,,,,,,"",""
+ball,1,9.3,Boland,C Fortuin,F Behardien,D Brevis,1,0,,,,,,"",""
+ball,1,9.4,Boland,F Behardien,C Fortuin,D Brevis,0,0,,,,,,"",""
+ball,1,9.5,Boland,F Behardien,C Fortuin,D Brevis,0,0,,,,,,"",""
+ball,1,9.6,Boland,F Behardien,C Fortuin,D Brevis,1,0,,,,,,"",""
+ball,1,10.1,Boland,F Behardien,C Fortuin,C Bosch,1,0,,,,,,"",""
+ball,1,10.2,Boland,C Fortuin,F Behardien,C Bosch,1,0,,,,,,"",""
+ball,1,10.3,Boland,F Behardien,C Fortuin,C Bosch,4,0,,,,,,"",""
+ball,1,10.4,Boland,F Behardien,C Fortuin,C Bosch,1,0,,,,,,"",""
+ball,1,10.5,Boland,C Fortuin,F Behardien,C Bosch,1,0,,,,,,"",""
+ball,1,10.6,Boland,F Behardien,C Fortuin,C Bosch,4,0,,,,,,"",""
+ball,1,11.1,Boland,C Fortuin,F Behardien,D Brevis,1,0,,,,,,"",""
+ball,1,11.2,Boland,F Behardien,C Fortuin,D Brevis,0,0,,,,,,"",""
+ball,1,11.3,Boland,F Behardien,C Fortuin,D Brevis,1,0,,,,,,"",""
+ball,1,11.4,Boland,C Fortuin,F Behardien,D Brevis,1,0,,,,,,"",""
+ball,1,11.5,Boland,F Behardien,C Fortuin,D Brevis,0,0,,,,,,run out,C Fortuin
+ball,1,11.6,Boland,F Behardien,M Copeland,D Brevis,1,0,,,,,,"",""
+ball,1,12.1,Boland,F Behardien,M Copeland,SR Harmer,0,1,1,,,,,"",""
+ball,1,12.2,Boland,F Behardien,M Copeland,SR Harmer,1,0,,,,,,"",""
+ball,1,12.3,Boland,M Copeland,F Behardien,SR Harmer,0,0,,,,,,"",""
+ball,1,12.4,Boland,M Copeland,F Behardien,SR Harmer,1,0,,,,,,"",""
+ball,1,12.5,Boland,F Behardien,M Copeland,SR Harmer,1,0,,,,,,"",""
+ball,1,12.6,Boland,M Copeland,F Behardien,SR Harmer,0,0,,,,,,"",""
+ball,1,12.7,Boland,M Copeland,F Behardien,SR Harmer,0,0,,,,,,"",""
+ball,1,13.1,Boland,F Behardien,M Copeland,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.2,Boland,M Copeland,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.3,Boland,F Behardien,M Copeland,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.4,Boland,M Copeland,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.5,Boland,F Behardien,M Copeland,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.6,Boland,M Copeland,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,14.1,Boland,M Copeland,F Behardien,CJ Dala,0,0,,,,,,"",""
+ball,1,14.2,Boland,M Copeland,F Behardien,CJ Dala,0,0,,,,,,"",""
+ball,1,14.3,Boland,M Copeland,F Behardien,CJ Dala,0,0,,,,,,"",""
+ball,1,14.4,Boland,M Copeland,F Behardien,CJ Dala,0,0,,,,,,caught,M Copeland
+ball,1,14.5,Boland,FD Adams,F Behardien,CJ Dala,2,0,,,,,,"",""
+ball,1,14.6,Boland,FD Adams,F Behardien,CJ Dala,0,0,,,,,,"",""
+ball,1,15.1,Boland,F Behardien,FD Adams,N Brand,1,0,,,,,,"",""
+ball,1,15.2,Boland,FD Adams,F Behardien,N Brand,1,0,,,,,,"",""
+ball,1,15.3,Boland,F Behardien,FD Adams,N Brand,2,0,,,,,,"",""
+ball,1,15.4,Boland,F Behardien,FD Adams,N Brand,6,0,,,,,,"",""
+ball,1,15.5,Boland,F Behardien,FD Adams,N Brand,0,0,,,,,,"",""
+ball,1,15.6,Boland,F Behardien,FD Adams,N Brand,0,0,,,,,,"",""
+ball,1,16.1,Boland,FD Adams,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,16.2,Boland,F Behardien,FD Adams,AM Phangiso,1,0,,,,,,"",""
+ball,1,16.3,Boland,FD Adams,F Behardien,AM Phangiso,0,0,,,,,,"",""
+ball,1,16.4,Boland,FD Adams,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,16.5,Boland,F Behardien,FD Adams,AM Phangiso,1,0,,,,,,"",""
+ball,1,16.6,Boland,FD Adams,F Behardien,AM Phangiso,0,0,,,,,,"",""
+ball,1,17.1,Boland,F Behardien,FD Adams,CJ Dala,2,0,,,,,,"",""
+ball,1,17.2,Boland,F Behardien,FD Adams,CJ Dala,1,0,,,,,,"",""
+ball,1,17.3,Boland,FD Adams,F Behardien,CJ Dala,4,0,,,,,,"",""
+ball,1,17.4,Boland,FD Adams,F Behardien,CJ Dala,0,0,,,,,,caught,FD Adams
+ball,1,17.5,Boland,GC Viljoen,F Behardien,CJ Dala,0,0,,,,,,"",""
+ball,1,17.6,Boland,GC Viljoen,F Behardien,CJ Dala,1,0,,,,,,"",""
+ball,1,18.1,Boland,GC Viljoen,F Behardien,Dayyaan Galiem,0,1,1,,,,,"",""
+ball,1,18.2,Boland,GC Viljoen,F Behardien,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,18.3,Boland,F Behardien,GC Viljoen,Dayyaan Galiem,2,0,,,,,,"",""
+ball,1,18.4,Boland,F Behardien,GC Viljoen,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,18.5,Boland,F Behardien,GC Viljoen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,18.6,Boland,F Behardien,GC Viljoen,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,18.7,Boland,GC Viljoen,F Behardien,Dayyaan Galiem,0,0,,,,,,run out,GC Viljoen
+ball,1,19.1,Boland,F Behardien,B Xenxe,CJ Dala,0,0,,,,,,"",""
+ball,1,19.2,Boland,F Behardien,B Xenxe,CJ Dala,0,0,,,,,,"",""
+ball,1,19.3,Boland,F Behardien,B Xenxe,CJ Dala,2,0,,,,,,"",""
+ball,1,19.4,Boland,F Behardien,B Xenxe,CJ Dala,1,0,,,,,,"",""
+ball,1,19.5,Boland,B Xenxe,F Behardien,CJ Dala,0,0,,,,,,"",""
+ball,1,19.6,Boland,B Xenxe,F Behardien,CJ Dala,0,0,,,,,,caught,B Xenxe
+ball,2,0.1,Titans,D Brevis,J Pillay,GC Viljoen,4,0,,,,,,"",""
+ball,2,0.2,Titans,D Brevis,J Pillay,GC Viljoen,0,0,,,,,,"",""
+ball,2,0.3,Titans,D Brevis,J Pillay,GC Viljoen,0,0,,,,,,"",""
+ball,2,0.4,Titans,D Brevis,J Pillay,GC Viljoen,0,0,,,,,,"",""
+ball,2,0.5,Titans,D Brevis,J Pillay,GC Viljoen,6,0,,,,,,"",""
+ball,2,0.6,Titans,D Brevis,J Pillay,GC Viljoen,1,0,,,,,,"",""
+ball,2,1.1,Titans,D Brevis,J Pillay,FD Adams,0,1,1,,,,,"",""
+ball,2,1.2,Titans,D Brevis,J Pillay,FD Adams,1,0,,,,,,"",""
+ball,2,1.3,Titans,J Pillay,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,1.4,Titans,J Pillay,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,1.5,Titans,J Pillay,D Brevis,FD Adams,4,0,,,,,,"",""
+ball,2,1.6,Titans,J Pillay,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,1.7,Titans,J Pillay,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,2.1,Titans,D Brevis,J Pillay,GC Viljoen,4,0,,,,,,"",""
+ball,2,2.2,Titans,D Brevis,J Pillay,GC Viljoen,6,0,,,,,,"",""
+ball,2,2.3,Titans,D Brevis,J Pillay,GC Viljoen,0,1,1,,,,,"",""
+ball,2,2.4,Titans,D Brevis,J Pillay,GC Viljoen,0,1,1,,,,,"",""
+ball,2,2.5,Titans,D Brevis,J Pillay,GC Viljoen,0,0,,,,,,"",""
+ball,2,2.6,Titans,D Brevis,J Pillay,GC Viljoen,0,0,,,,,,caught,D Brevis
+ball,2,2.7,Titans,N Brand,J Pillay,GC Viljoen,2,0,,,,,,"",""
+ball,2,2.8,Titans,N Brand,J Pillay,GC Viljoen,0,0,,,,,,"",""
+ball,2,3.1,Titans,J Pillay,N Brand,I Manack,2,0,,,,,,"",""
+ball,2,3.2,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,3.3,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,3.4,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,3.5,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,3.6,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,4.1,Titans,N Brand,J Pillay,GC Viljoen,0,0,,,,,,"",""
+ball,2,4.2,Titans,N Brand,J Pillay,GC Viljoen,0,0,,,,,,"",""
+ball,2,4.3,Titans,N Brand,J Pillay,GC Viljoen,1,0,,,,,,"",""
+ball,2,4.4,Titans,J Pillay,N Brand,GC Viljoen,0,0,,,,,,"",""
+ball,2,4.5,Titans,J Pillay,N Brand,GC Viljoen,0,1,1,,,,,"",""
+ball,2,4.6,Titans,J Pillay,N Brand,GC Viljoen,0,0,,,,,,"",""
+ball,2,4.7,Titans,J Pillay,N Brand,GC Viljoen,0,0,,,,,,"",""
+ball,2,5.1,Titans,N Brand,J Pillay,I Manack,2,0,,,,,,"",""
+ball,2,5.2,Titans,N Brand,J Pillay,I Manack,1,0,,,,,,"",""
+ball,2,5.3,Titans,J Pillay,N Brand,I Manack,1,0,,,,,,"",""
+ball,2,5.4,Titans,N Brand,J Pillay,I Manack,0,0,,,,,,"",""
+ball,2,5.5,Titans,N Brand,J Pillay,I Manack,1,0,,,,,,"",""
+ball,2,5.6,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,6.1,Titans,N Brand,J Pillay,S von Berg,0,0,,,,,,"",""
+ball,2,6.2,Titans,N Brand,J Pillay,S von Berg,1,0,,,,,,"",""
+ball,2,6.3,Titans,J Pillay,N Brand,S von Berg,0,0,,,,,,"",""
+ball,2,6.4,Titans,J Pillay,N Brand,S von Berg,1,0,,,,,,"",""
+ball,2,6.5,Titans,N Brand,J Pillay,S von Berg,1,0,,,,,,"",""
+ball,2,6.6,Titans,J Pillay,N Brand,S von Berg,1,0,,,,,,"",""
+ball,2,7.1,Titans,J Pillay,N Brand,I Manack,1,0,,,,,,"",""
+ball,2,7.2,Titans,N Brand,J Pillay,I Manack,1,0,,,,,,"",""
+ball,2,7.3,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,7.4,Titans,J Pillay,N Brand,I Manack,1,0,,,,,,"",""
+ball,2,7.5,Titans,N Brand,J Pillay,I Manack,1,0,,,,,,"",""
+ball,2,7.6,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,8.1,Titans,N Brand,J Pillay,S von Berg,4,0,,,,,,"",""
+ball,2,8.2,Titans,N Brand,J Pillay,S von Berg,1,0,,,,,,"",""
+ball,2,8.3,Titans,J Pillay,N Brand,S von Berg,1,0,,,,,,"",""
+ball,2,8.4,Titans,N Brand,J Pillay,S von Berg,0,0,,,,,,"",""
+ball,2,8.5,Titans,N Brand,J Pillay,S von Berg,2,0,,,,,,"",""
+ball,2,8.6,Titans,N Brand,J Pillay,S von Berg,2,0,,,,,,"",""
+ball,2,9.1,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,9.2,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,9.3,Titans,J Pillay,N Brand,I Manack,2,0,,,,,,"",""
+ball,2,9.4,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,9.5,Titans,J Pillay,N Brand,I Manack,0,0,,,,,,"",""
+ball,2,9.6,Titans,J Pillay,N Brand,I Manack,2,0,,,,,,"",""
+ball,2,10.1,Titans,N Brand,J Pillay,B Xenxe,0,0,,,,,,caught,N Brand
+ball,2,10.2,Titans,Dayyaan Galiem,J Pillay,B Xenxe,0,0,,,,,,"",""
+ball,2,10.3,Titans,Dayyaan Galiem,J Pillay,B Xenxe,0,0,,,,,,"",""
+ball,2,10.4,Titans,Dayyaan Galiem,J Pillay,B Xenxe,2,0,,,,,,"",""
+ball,2,10.5,Titans,Dayyaan Galiem,J Pillay,B Xenxe,1,0,,,,,,"",""
+ball,2,10.6,Titans,J Pillay,Dayyaan Galiem,B Xenxe,0,0,,,,,,"",""
+ball,2,11.1,Titans,Dayyaan Galiem,J Pillay,FD Adams,0,0,,,,,,"",""
+ball,2,11.2,Titans,Dayyaan Galiem,J Pillay,FD Adams,0,0,,,,,,"",""
+ball,2,11.3,Titans,Dayyaan Galiem,J Pillay,FD Adams,2,0,,,,,,"",""
+ball,2,11.4,Titans,Dayyaan Galiem,J Pillay,FD Adams,0,0,,,,,,"",""
+ball,2,11.5,Titans,Dayyaan Galiem,J Pillay,FD Adams,0,0,,,,,,"",""
+ball,2,11.6,Titans,Dayyaan Galiem,J Pillay,FD Adams,1,0,,,,,,"",""
+ball,2,12.1,Titans,Dayyaan Galiem,J Pillay,B Xenxe,4,0,,,,,,"",""
+ball,2,12.2,Titans,Dayyaan Galiem,J Pillay,B Xenxe,0,0,,,,,,"",""
+ball,2,12.3,Titans,Dayyaan Galiem,J Pillay,B Xenxe,4,0,,,,,,"",""
+ball,2,12.4,Titans,Dayyaan Galiem,J Pillay,B Xenxe,2,0,,,,,,"",""
+ball,2,12.5,Titans,Dayyaan Galiem,J Pillay,B Xenxe,2,0,,,,,,"",""
+ball,2,12.6,Titans,Dayyaan Galiem,J Pillay,B Xenxe,1,0,,,,,,"",""
+ball,2,13.1,Titans,Dayyaan Galiem,J Pillay,GC Viljoen,0,0,,,,,,"",""
+ball,2,13.2,Titans,Dayyaan Galiem,J Pillay,GC Viljoen,2,0,,,,,,"",""
+ball,2,13.3,Titans,Dayyaan Galiem,J Pillay,GC Viljoen,2,0,,,,,,"",""
+ball,2,13.4,Titans,Dayyaan Galiem,J Pillay,GC Viljoen,2,0,,,,,,"",""
+ball,2,13.5,Titans,Dayyaan Galiem,J Pillay,GC Viljoen,0,0,,,,,,caught,Dayyaan Galiem
+ball,2,13.6,Titans,C Bosch,J Pillay,GC Viljoen,0,1,1,,,,,"",""
+ball,2,13.7,Titans,C Bosch,J Pillay,GC Viljoen,1,0,,,,,,"",""
+ball,2,14.1,Titans,C Bosch,J Pillay,S von Berg,1,0,,,,,,"",""
+ball,2,14.2,Titans,J Pillay,C Bosch,S von Berg,0,0,,,,,,"",""
+ball,2,14.3,Titans,J Pillay,C Bosch,S von Berg,2,0,,,,,,"",""
+ball,2,14.4,Titans,J Pillay,C Bosch,S von Berg,0,0,,,,,,stumped,J Pillay
+ball,2,14.5,Titans,A Gqamane,C Bosch,S von Berg,1,0,,,,,,"",""
+ball,2,14.6,Titans,C Bosch,A Gqamane,S von Berg,2,0,,,,,,"",""
+ball,2,15.1,Titans,A Gqamane,C Bosch,FD Adams,0,0,,,,,,bowled,A Gqamane
+ball,2,15.2,Titans,SR Harmer,C Bosch,FD Adams,0,0,,,,,,"",""
+ball,2,15.3,Titans,SR Harmer,C Bosch,FD Adams,1,0,,,,,,"",""
+ball,2,15.4,Titans,C Bosch,SR Harmer,FD Adams,1,0,,,,,,"",""
+ball,2,15.5,Titans,SR Harmer,C Bosch,FD Adams,1,0,,,,,,"",""
+ball,2,15.6,Titans,C Bosch,SR Harmer,FD Adams,1,0,,,,,,"",""
+ball,2,16.1,Titans,C Bosch,SR Harmer,B Xenxe,1,0,,,,,,"",""
+ball,2,16.2,Titans,SR Harmer,C Bosch,B Xenxe,0,0,,,,,,bowled,SR Harmer
+ball,2,16.3,Titans,M Boast,C Bosch,B Xenxe,1,0,,,,,,"",""
+ball,2,16.4,Titans,C Bosch,M Boast,B Xenxe,0,0,,,,,,lbw,C Bosch
+ball,2,16.5,Titans,CJ Dala,M Boast,B Xenxe,2,0,,,,,,"",""
+ball,2,16.6,Titans,CJ Dala,M Boast,B Xenxe,0,0,,,,,,"",""

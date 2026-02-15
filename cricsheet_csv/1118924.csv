@@ -1,0 +1,328 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Namibia
+info,gender,female
+info,season,2017
+info,date,2017/09/13
+info,event,ICC Women's World Twenty20 Qualifying Series Africa Region
+info,match_number,9
+info,venue,Wanderers Cricket Ground
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,S Wetoto
+info,umpire,F Ekalunga
+info,umpire,Patric Makumbi
+info,reserve_umpire,A Louw
+info,match_referee,DT Jukes
+info,winner,Kenya
+info,winner_runs,18
+info,player,Kenya,Q Abel
+info,player,Kenya,V Abuga
+info,player,Kenya,SW Kinyua
+info,player,Kenya,M Ngoche
+info,player,Kenya,M Mwangi
+info,player,Kenya,S Wetoto
+info,player,Kenya,R Achando
+info,player,Kenya,E Wachira
+info,player,Kenya,V Ooko
+info,player,Kenya,F Mutua
+info,player,Kenya,E Waithaka
+info,player,Namibia,A van Schoor
+info,player,Namibia,MP Enright
+info,player,Namibia,Yasmeen Khan
+info,player,Namibia,SA Wittmann
+info,player,Namibia,I van Zyl
+info,player,Namibia,Adri van der Merwe
+info,player,Namibia,H de Klerk
+info,player,Namibia,KA Green
+info,player,Namibia,D Foerster
+info,player,Namibia,Reehana Khan
+info,player,Namibia,JA Diergaardt
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A van Schoor,06209a4c
+info,registry,people,Adri van der Merwe,02610bad
+info,registry,people,D Foerster,5596d5bf
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,E Waithaka,1e4c0204
+info,registry,people,F Ekalunga,b1c9d04c
+info,registry,people,F Mutua,8ea8949d
+info,registry,people,H de Klerk,d2eb0b8c
+info,registry,people,I van Zyl,44c3cb6d
+info,registry,people,JA Diergaardt,b72a8938
+info,registry,people,KA Green,fa9fdefa
+info,registry,people,M Mwangi,72de0105
+info,registry,people,M Ngoche,f91abcd6
+info,registry,people,MP Enright,7a03f67d
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,Q Abel,2e988457
+info,registry,people,R Achando,88ea490f
+info,registry,people,Reehana Khan,4cf05de9
+info,registry,people,S Wetoto,16301313
+info,registry,people,SA Wittmann,531aef3b
+info,registry,people,SW Kinyua,86933cde
+info,registry,people,V Abuga,1ce58052
+info,registry,people,V Ooko,2ae76bf6
+info,registry,people,Yasmeen Khan,ade5c0c0
+ball,1,0.1,Kenya,Q Abel,V Abuga,MP Enright,0,0,,,,,,"",""
+ball,1,0.2,Kenya,Q Abel,V Abuga,MP Enright,0,0,,,,,,"",""
+ball,1,0.3,Kenya,Q Abel,V Abuga,MP Enright,2,0,,,,,,"",""
+ball,1,0.4,Kenya,Q Abel,V Abuga,MP Enright,0,0,,,,,,"",""
+ball,1,0.5,Kenya,Q Abel,V Abuga,MP Enright,0,0,,,,,,"",""
+ball,1,0.6,Kenya,Q Abel,V Abuga,MP Enright,0,1,1,,,,,"",""
+ball,1,0.7,Kenya,Q Abel,V Abuga,MP Enright,0,0,,,,,,"",""
+ball,1,1.1,Kenya,V Abuga,Q Abel,SA Wittmann,0,0,,,,,,"",""
+ball,1,1.2,Kenya,V Abuga,Q Abel,SA Wittmann,0,0,,,,,,"",""
+ball,1,1.3,Kenya,V Abuga,Q Abel,SA Wittmann,2,0,,,,,,"",""
+ball,1,1.4,Kenya,V Abuga,Q Abel,SA Wittmann,0,0,,,,,,"",""
+ball,1,1.5,Kenya,V Abuga,Q Abel,SA Wittmann,4,0,,,,,,"",""
+ball,1,1.6,Kenya,V Abuga,Q Abel,SA Wittmann,0,0,,,,,,"",""
+ball,1,2.1,Kenya,Q Abel,V Abuga,MP Enright,1,0,,,,,,"",""
+ball,1,2.2,Kenya,V Abuga,Q Abel,MP Enright,0,0,,,,,,bowled,V Abuga
+ball,1,2.3,Kenya,SW Kinyua,Q Abel,MP Enright,1,0,,,,,,"",""
+ball,1,2.4,Kenya,Q Abel,SW Kinyua,MP Enright,0,0,,,,,,"",""
+ball,1,2.5,Kenya,Q Abel,SW Kinyua,MP Enright,4,0,,,,,,"",""
+ball,1,2.6,Kenya,Q Abel,SW Kinyua,MP Enright,0,0,,,,,,bowled,Q Abel
+ball,1,3.1,Kenya,SW Kinyua,M Ngoche,SA Wittmann,0,0,,,,,,"",""
+ball,1,3.2,Kenya,SW Kinyua,M Ngoche,SA Wittmann,0,1,1,,,,,"",""
+ball,1,3.3,Kenya,SW Kinyua,M Ngoche,SA Wittmann,1,0,,,,,,"",""
+ball,1,3.4,Kenya,M Ngoche,SW Kinyua,SA Wittmann,0,0,,,,,,"",""
+ball,1,3.5,Kenya,M Ngoche,SW Kinyua,SA Wittmann,0,0,,,,,,"",""
+ball,1,3.6,Kenya,M Ngoche,SW Kinyua,SA Wittmann,1,0,,,,,,"",""
+ball,1,3.7,Kenya,SW Kinyua,M Ngoche,SA Wittmann,1,0,,,,,,"",""
+ball,1,4.1,Kenya,SW Kinyua,M Ngoche,MP Enright,0,0,,,,,,"",""
+ball,1,4.2,Kenya,SW Kinyua,M Ngoche,MP Enright,0,0,,,,,,"",""
+ball,1,4.3,Kenya,SW Kinyua,M Ngoche,MP Enright,0,0,,,,,,"",""
+ball,1,4.4,Kenya,SW Kinyua,M Ngoche,MP Enright,0,0,,,,,,"",""
+ball,1,4.5,Kenya,SW Kinyua,M Ngoche,MP Enright,0,0,,,,,,"",""
+ball,1,4.6,Kenya,SW Kinyua,M Ngoche,MP Enright,0,0,,,,,,"",""
+ball,1,5.1,Kenya,M Ngoche,SW Kinyua,SA Wittmann,0,0,,,,,,"",""
+ball,1,5.2,Kenya,M Ngoche,SW Kinyua,SA Wittmann,0,0,,,,,,"",""
+ball,1,5.3,Kenya,M Ngoche,SW Kinyua,SA Wittmann,0,0,,,,,,bowled,M Ngoche
+ball,1,5.4,Kenya,M Mwangi,SW Kinyua,SA Wittmann,0,1,1,,,,,"",""
+ball,1,5.5,Kenya,M Mwangi,SW Kinyua,SA Wittmann,0,0,,,,,,"",""
+ball,1,5.6,Kenya,M Mwangi,SW Kinyua,SA Wittmann,0,1,1,,,,,"",""
+ball,1,5.7,Kenya,M Mwangi,SW Kinyua,SA Wittmann,0,0,,,,,,"",""
+ball,1,5.8,Kenya,M Mwangi,SW Kinyua,SA Wittmann,0,1,1,,,,,"",""
+ball,1,5.9,Kenya,M Mwangi,SW Kinyua,SA Wittmann,0,0,,,,,,"",""
+ball,1,6.1,Kenya,SW Kinyua,M Mwangi,A van Schoor,1,0,,,,,,"",""
+ball,1,6.2,Kenya,M Mwangi,SW Kinyua,A van Schoor,1,0,,,,,,"",""
+ball,1,6.3,Kenya,SW Kinyua,M Mwangi,A van Schoor,0,0,,,,,,"",""
+ball,1,6.4,Kenya,SW Kinyua,M Mwangi,A van Schoor,1,0,,,,,,"",""
+ball,1,6.5,Kenya,M Mwangi,SW Kinyua,A van Schoor,0,0,,,,,,"",""
+ball,1,6.6,Kenya,M Mwangi,SW Kinyua,A van Schoor,0,0,,,,,,"",""
+ball,1,7.1,Kenya,SW Kinyua,M Mwangi,I van Zyl,1,0,,,,,,"",""
+ball,1,7.2,Kenya,M Mwangi,SW Kinyua,I van Zyl,0,0,,,,,,"",""
+ball,1,7.3,Kenya,M Mwangi,SW Kinyua,I van Zyl,0,0,,,,,,"",""
+ball,1,7.4,Kenya,M Mwangi,SW Kinyua,I van Zyl,0,0,,,,,,"",""
+ball,1,7.5,Kenya,M Mwangi,SW Kinyua,I van Zyl,2,0,,,,,,"",""
+ball,1,7.6,Kenya,M Mwangi,SW Kinyua,I van Zyl,0,0,,,,,,"",""
+ball,1,8.1,Kenya,SW Kinyua,M Mwangi,A van Schoor,0,0,,,,,,caught,SW Kinyua
+ball,1,8.2,Kenya,M Mwangi,S Wetoto,A van Schoor,0,0,,,,,,"",""
+ball,1,8.3,Kenya,M Mwangi,S Wetoto,A van Schoor,1,0,,,,,,"",""
+ball,1,8.4,Kenya,S Wetoto,M Mwangi,A van Schoor,2,0,,,,,,"",""
+ball,1,8.5,Kenya,S Wetoto,M Mwangi,A van Schoor,0,0,,,,,,run out,M Mwangi
+ball,1,8.6,Kenya,R Achando,S Wetoto,A van Schoor,1,0,,,,,,"",""
+ball,1,9.1,Kenya,R Achando,S Wetoto,I van Zyl,0,0,,,,,,"",""
+ball,1,9.2,Kenya,R Achando,S Wetoto,I van Zyl,0,1,1,,,,,"",""
+ball,1,9.3,Kenya,R Achando,S Wetoto,I van Zyl,1,0,,,,,,"",""
+ball,1,9.4,Kenya,S Wetoto,R Achando,I van Zyl,0,0,,,,,,"",""
+ball,1,9.5,Kenya,S Wetoto,R Achando,I van Zyl,1,0,,,,,,"",""
+ball,1,9.6,Kenya,R Achando,S Wetoto,I van Zyl,0,0,,,,,,caught,R Achando
+ball,1,9.7,Kenya,E Wachira,S Wetoto,I van Zyl,4,0,,,,,,"",""
+ball,1,10.1,Kenya,S Wetoto,E Wachira,A van Schoor,1,0,,,,,,"",""
+ball,1,10.2,Kenya,E Wachira,S Wetoto,A van Schoor,0,1,1,,,,,"",""
+ball,1,10.3,Kenya,E Wachira,S Wetoto,A van Schoor,0,0,,,,,,"",""
+ball,1,10.4,Kenya,E Wachira,S Wetoto,A van Schoor,0,1,1,,,,,"",""
+ball,1,10.5,Kenya,E Wachira,S Wetoto,A van Schoor,1,0,,,,,,"",""
+ball,1,10.6,Kenya,S Wetoto,E Wachira,A van Schoor,2,0,,,,,,"",""
+ball,1,10.7,Kenya,S Wetoto,E Wachira,A van Schoor,4,0,,,,,,"",""
+ball,1,10.8,Kenya,S Wetoto,E Wachira,A van Schoor,1,0,,,,,,"",""
+ball,1,11.1,Kenya,S Wetoto,E Wachira,I van Zyl,1,0,,,,,,"",""
+ball,1,11.2,Kenya,E Wachira,S Wetoto,I van Zyl,1,0,,,,,,"",""
+ball,1,11.3,Kenya,S Wetoto,E Wachira,I van Zyl,4,0,,,,,,"",""
+ball,1,11.4,Kenya,S Wetoto,E Wachira,I van Zyl,1,0,,,,,,"",""
+ball,1,11.5,Kenya,E Wachira,S Wetoto,I van Zyl,0,0,,,,,,"",""
+ball,1,11.6,Kenya,E Wachira,S Wetoto,I van Zyl,1,0,,,,,,"",""
+ball,1,12.1,Kenya,E Wachira,S Wetoto,Yasmeen Khan,0,0,,,,,,"",""
+ball,1,12.2,Kenya,E Wachira,S Wetoto,Yasmeen Khan,0,0,,,,,,caught,E Wachira
+ball,1,12.3,Kenya,S Wetoto,V Ooko,Yasmeen Khan,4,0,,,,,,"",""
+ball,1,12.4,Kenya,S Wetoto,V Ooko,Yasmeen Khan,0,0,,,,,,"",""
+ball,1,12.5,Kenya,S Wetoto,V Ooko,Yasmeen Khan,1,0,,,,,,"",""
+ball,1,12.6,Kenya,V Ooko,S Wetoto,Yasmeen Khan,0,0,,,,,,"",""
+ball,1,13.1,Kenya,S Wetoto,V Ooko,H de Klerk,0,0,,,,,,"",""
+ball,1,13.2,Kenya,S Wetoto,V Ooko,H de Klerk,1,0,,,,,,"",""
+ball,1,13.3,Kenya,V Ooko,S Wetoto,H de Klerk,0,0,,,,,,"",""
+ball,1,13.4,Kenya,V Ooko,S Wetoto,H de Klerk,1,0,,,,,,"",""
+ball,1,13.5,Kenya,S Wetoto,V Ooko,H de Klerk,4,0,,,,,,"",""
+ball,1,13.6,Kenya,S Wetoto,V Ooko,H de Klerk,0,1,,1,,,,"",""
+ball,1,13.7,Kenya,S Wetoto,V Ooko,H de Klerk,1,0,,,,,,"",""
+ball,1,14.1,Kenya,S Wetoto,V Ooko,Yasmeen Khan,2,0,,,,,,"",""
+ball,1,14.2,Kenya,S Wetoto,V Ooko,Yasmeen Khan,0,0,,,,,,"",""
+ball,1,14.3,Kenya,S Wetoto,V Ooko,Yasmeen Khan,1,0,,,,,,"",""
+ball,1,14.4,Kenya,V Ooko,S Wetoto,Yasmeen Khan,0,0,,,,,,"",""
+ball,1,14.5,Kenya,V Ooko,S Wetoto,Yasmeen Khan,1,0,,,,,,"",""
+ball,1,14.6,Kenya,S Wetoto,V Ooko,Yasmeen Khan,4,0,,,,,,"",""
+ball,1,15.1,Kenya,V Ooko,S Wetoto,H de Klerk,1,0,,,,,,"",""
+ball,1,15.2,Kenya,S Wetoto,V Ooko,H de Klerk,4,0,,,,,,"",""
+ball,1,15.3,Kenya,S Wetoto,V Ooko,H de Klerk,1,0,,,,,,"",""
+ball,1,15.4,Kenya,V Ooko,S Wetoto,H de Klerk,1,0,,,,,,"",""
+ball,1,15.5,Kenya,S Wetoto,V Ooko,H de Klerk,4,0,,,,,,"",""
+ball,1,15.6,Kenya,S Wetoto,V Ooko,H de Klerk,4,0,,,,,,"",""
+ball,1,16.1,Kenya,V Ooko,S Wetoto,KA Green,0,1,1,,,,,"",""
+ball,1,16.2,Kenya,V Ooko,S Wetoto,KA Green,1,0,,,,,,"",""
+ball,1,16.3,Kenya,S Wetoto,V Ooko,KA Green,1,0,,,,,,"",""
+ball,1,16.4,Kenya,V Ooko,S Wetoto,KA Green,0,0,,,,,,bowled,V Ooko
+ball,1,16.5,Kenya,F Mutua,S Wetoto,KA Green,0,0,,,,,,"",""
+ball,1,16.6,Kenya,F Mutua,S Wetoto,KA Green,0,0,,,,,,"",""
+ball,1,16.7,Kenya,F Mutua,S Wetoto,KA Green,2,0,,,,,,"",""
+ball,1,17.1,Kenya,S Wetoto,F Mutua,I van Zyl,0,1,1,,,,,"",""
+ball,1,17.2,Kenya,S Wetoto,F Mutua,I van Zyl,1,0,,,,,,"",""
+ball,1,17.3,Kenya,F Mutua,S Wetoto,I van Zyl,0,0,,,,,,"",""
+ball,1,17.4,Kenya,F Mutua,S Wetoto,I van Zyl,0,0,,,,,,"",""
+ball,1,17.5,Kenya,F Mutua,S Wetoto,I van Zyl,1,0,,,,,,"",""
+ball,1,17.6,Kenya,S Wetoto,F Mutua,I van Zyl,4,0,,,,,,"",""
+ball,1,17.7,Kenya,S Wetoto,F Mutua,I van Zyl,0,0,,,,,,"",""
+ball,1,18.1,Kenya,F Mutua,S Wetoto,MP Enright,0,0,,,,,,"",""
+ball,1,18.2,Kenya,F Mutua,S Wetoto,MP Enright,0,0,,,,,,lbw,F Mutua
+ball,1,18.3,Kenya,E Waithaka,S Wetoto,MP Enright,0,0,,,,,,"",""
+ball,1,18.4,Kenya,E Waithaka,S Wetoto,MP Enright,1,0,,,,,,"",""
+ball,1,18.5,Kenya,S Wetoto,E Waithaka,MP Enright,4,0,,,,,,"",""
+ball,1,18.6,Kenya,S Wetoto,E Waithaka,MP Enright,0,0,,,,,,"",""
+ball,1,19.1,Kenya,E Waithaka,S Wetoto,SA Wittmann,1,0,,,,,,"",""
+ball,1,19.2,Kenya,S Wetoto,E Waithaka,SA Wittmann,1,0,,,,,,"",""
+ball,1,19.3,Kenya,E Waithaka,S Wetoto,SA Wittmann,1,0,,,,,,"",""
+ball,1,19.4,Kenya,S Wetoto,E Waithaka,SA Wittmann,1,0,,,,,,"",""
+ball,1,19.5,Kenya,E Waithaka,S Wetoto,SA Wittmann,1,0,,,,,,"",""
+ball,1,19.6,Kenya,S Wetoto,E Waithaka,SA Wittmann,1,0,,,,,,"",""
+ball,2,0.1,Namibia,A van Schoor,MP Enright,V Ooko,0,0,,,,,,caught,A van Schoor
+ball,2,0.2,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,1,1,,,,,"",""
+ball,2,0.3,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,0.4,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,0.5,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,0.6,Namibia,Yasmeen Khan,MP Enright,V Ooko,1,0,,,,,,"",""
+ball,2,0.7,Namibia,MP Enright,Yasmeen Khan,V Ooko,0,0,,,,,,"",""
+ball,2,1.1,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,1,1,,,,,"",""
+ball,2,1.2,Namibia,Yasmeen Khan,MP Enright,M Ngoche,1,0,,,,,,"",""
+ball,2,1.3,Namibia,MP Enright,Yasmeen Khan,M Ngoche,0,0,,,,,,"",""
+ball,2,1.4,Namibia,MP Enright,Yasmeen Khan,M Ngoche,2,0,,,,,,"",""
+ball,2,1.5,Namibia,MP Enright,Yasmeen Khan,M Ngoche,1,0,,,,,,"",""
+ball,2,1.6,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,1.7,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,2.1,Namibia,MP Enright,Yasmeen Khan,V Ooko,0,0,,,,,,"",""
+ball,2,2.2,Namibia,MP Enright,Yasmeen Khan,V Ooko,1,0,,,,,,"",""
+ball,2,2.3,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,2.4,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,2.5,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,2.6,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,3.1,Namibia,MP Enright,Yasmeen Khan,M Ngoche,0,0,,,,,,"",""
+ball,2,3.2,Namibia,MP Enright,Yasmeen Khan,M Ngoche,1,0,,,,,,"",""
+ball,2,3.3,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,3.4,Namibia,Yasmeen Khan,MP Enright,M Ngoche,1,0,,,,,,"",""
+ball,2,3.5,Namibia,MP Enright,Yasmeen Khan,M Ngoche,0,0,,,,,,"",""
+ball,2,3.6,Namibia,MP Enright,Yasmeen Khan,M Ngoche,0,0,,,,,,"",""
+ball,2,4.1,Namibia,Yasmeen Khan,MP Enright,V Ooko,1,0,,,,,,"",""
+ball,2,4.2,Namibia,MP Enright,Yasmeen Khan,V Ooko,0,0,,,,,,"",""
+ball,2,4.3,Namibia,MP Enright,Yasmeen Khan,V Ooko,0,0,,,,,,"",""
+ball,2,4.4,Namibia,MP Enright,Yasmeen Khan,V Ooko,0,1,1,,,,,"",""
+ball,2,4.5,Namibia,MP Enright,Yasmeen Khan,V Ooko,0,0,,,,,,"",""
+ball,2,4.6,Namibia,MP Enright,Yasmeen Khan,V Ooko,0,0,,,,,,"",""
+ball,2,4.7,Namibia,MP Enright,Yasmeen Khan,V Ooko,4,0,,,,,,"",""
+ball,2,5.1,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,5.2,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,5.3,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,5.4,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,5.5,Namibia,Yasmeen Khan,MP Enright,M Ngoche,1,0,,,,,,"",""
+ball,2,5.6,Namibia,MP Enright,Yasmeen Khan,M Ngoche,0,0,,,,,,"",""
+ball,2,6.1,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,6.2,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,6.3,Namibia,Yasmeen Khan,MP Enright,V Ooko,0,0,,,,,,"",""
+ball,2,6.4,Namibia,Yasmeen Khan,MP Enright,V Ooko,1,0,,,,,,"",""
+ball,2,6.5,Namibia,MP Enright,Yasmeen Khan,V Ooko,0,0,,,,,,"",""
+ball,2,6.6,Namibia,MP Enright,Yasmeen Khan,V Ooko,0,0,,,,,,"",""
+ball,2,7.1,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,7.2,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,7.3,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,7.4,Namibia,Yasmeen Khan,MP Enright,M Ngoche,1,0,,,,,,"",""
+ball,2,7.5,Namibia,MP Enright,Yasmeen Khan,M Ngoche,1,0,,,,,,"",""
+ball,2,7.6,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,1,1,,,,,"",""
+ball,2,7.7,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,1,1,,,,,"",""
+ball,2,7.8,Namibia,Yasmeen Khan,MP Enright,M Ngoche,0,0,,,,,,"",""
+ball,2,8.1,Namibia,MP Enright,Yasmeen Khan,M Mwangi,1,0,,,,,,"",""
+ball,2,8.2,Namibia,Yasmeen Khan,MP Enright,M Mwangi,2,0,,,,,,"",""
+ball,2,8.3,Namibia,Yasmeen Khan,MP Enright,M Mwangi,1,0,,,,,,"",""
+ball,2,8.4,Namibia,MP Enright,Yasmeen Khan,M Mwangi,1,0,,,,,,"",""
+ball,2,8.5,Namibia,Yasmeen Khan,MP Enright,M Mwangi,0,0,,,,,,"",""
+ball,2,8.6,Namibia,Yasmeen Khan,MP Enright,M Mwangi,1,0,,,,,,"",""
+ball,2,9.1,Namibia,Yasmeen Khan,MP Enright,Q Abel,0,0,,,,,,"",""
+ball,2,9.2,Namibia,Yasmeen Khan,MP Enright,Q Abel,1,0,,,,,,"",""
+ball,2,9.3,Namibia,MP Enright,Yasmeen Khan,Q Abel,0,0,,,,,,"",""
+ball,2,9.4,Namibia,MP Enright,Yasmeen Khan,Q Abel,1,0,,,,,,"",""
+ball,2,9.5,Namibia,Yasmeen Khan,MP Enright,Q Abel,0,0,,,,,,"",""
+ball,2,9.6,Namibia,Yasmeen Khan,MP Enright,Q Abel,1,0,,,,,,"",""
+ball,2,10.1,Namibia,Yasmeen Khan,MP Enright,M Mwangi,4,0,,,,,,"",""
+ball,2,10.2,Namibia,Yasmeen Khan,MP Enright,M Mwangi,1,0,,,,,,"",""
+ball,2,10.3,Namibia,MP Enright,Yasmeen Khan,M Mwangi,1,0,,,,,,"",""
+ball,2,10.4,Namibia,Yasmeen Khan,MP Enright,M Mwangi,1,0,,,,,,"",""
+ball,2,10.5,Namibia,MP Enright,Yasmeen Khan,M Mwangi,1,0,,,,,,"",""
+ball,2,10.6,Namibia,Yasmeen Khan,MP Enright,M Mwangi,0,0,,,,,,"",""
+ball,2,11.1,Namibia,MP Enright,Yasmeen Khan,Q Abel,1,0,,,,,,"",""
+ball,2,11.2,Namibia,Yasmeen Khan,MP Enright,Q Abel,1,0,,,,,,"",""
+ball,2,11.3,Namibia,MP Enright,Yasmeen Khan,Q Abel,1,0,,,,,,"",""
+ball,2,11.4,Namibia,Yasmeen Khan,MP Enright,Q Abel,4,0,,,,,,"",""
+ball,2,11.5,Namibia,Yasmeen Khan,MP Enright,Q Abel,0,0,,,,,,"",""
+ball,2,11.6,Namibia,Yasmeen Khan,MP Enright,Q Abel,1,0,,,,,,"",""
+ball,2,12.1,Namibia,Yasmeen Khan,MP Enright,E Wachira,4,0,,,,,,"",""
+ball,2,12.2,Namibia,Yasmeen Khan,MP Enright,E Wachira,0,1,,,,1,,"",""
+ball,2,12.3,Namibia,MP Enright,Yasmeen Khan,E Wachira,0,2,2,,,,,"",""
+ball,2,12.4,Namibia,Yasmeen Khan,MP Enright,E Wachira,1,0,,,,,,"",""
+ball,2,12.5,Namibia,MP Enright,Yasmeen Khan,E Wachira,0,0,,,,,,"",""
+ball,2,12.6,Namibia,MP Enright,Yasmeen Khan,E Wachira,4,0,,,,,,"",""
+ball,2,12.7,Namibia,MP Enright,Yasmeen Khan,E Wachira,1,0,,,,,,"",""
+ball,2,13.1,Namibia,MP Enright,Yasmeen Khan,Q Abel,2,0,,,,,,"",""
+ball,2,13.2,Namibia,MP Enright,Yasmeen Khan,Q Abel,1,0,,,,,,"",""
+ball,2,13.3,Namibia,Yasmeen Khan,MP Enright,Q Abel,1,0,,,,,,"",""
+ball,2,13.4,Namibia,MP Enright,Yasmeen Khan,Q Abel,1,0,,,,,,"",""
+ball,2,13.5,Namibia,Yasmeen Khan,MP Enright,Q Abel,4,0,,,,,,"",""
+ball,2,13.6,Namibia,Yasmeen Khan,MP Enright,Q Abel,1,0,,,,,,run out,Yasmeen Khan
+ball,2,14.1,Namibia,MP Enright,SA Wittmann,S Wetoto,1,0,,,,,,"",""
+ball,2,14.2,Namibia,SA Wittmann,MP Enright,S Wetoto,0,0,,,,,,"",""
+ball,2,14.3,Namibia,SA Wittmann,MP Enright,S Wetoto,1,0,,,,,,"",""
+ball,2,14.4,Namibia,MP Enright,SA Wittmann,S Wetoto,0,1,,1,,,,"",""
+ball,2,14.5,Namibia,MP Enright,SA Wittmann,S Wetoto,1,0,,,,,,"",""
+ball,2,14.6,Namibia,SA Wittmann,MP Enright,S Wetoto,1,0,,,,,,"",""
+ball,2,14.7,Namibia,MP Enright,SA Wittmann,S Wetoto,1,0,,,,,,"",""
+ball,2,15.1,Namibia,MP Enright,SA Wittmann,SW Kinyua,2,0,,,,,,"",""
+ball,2,15.2,Namibia,MP Enright,SA Wittmann,SW Kinyua,1,0,,,,,,"",""
+ball,2,15.3,Namibia,SA Wittmann,MP Enright,SW Kinyua,0,0,,,,,,bowled,SA Wittmann
+ball,2,15.4,Namibia,I van Zyl,MP Enright,SW Kinyua,0,1,1,,,,,"",""
+ball,2,15.5,Namibia,I van Zyl,MP Enright,SW Kinyua,0,0,,,,,,"",""
+ball,2,15.6,Namibia,I van Zyl,MP Enright,SW Kinyua,0,1,,,,1,,"",""
+ball,2,15.7,Namibia,MP Enright,I van Zyl,SW Kinyua,0,0,,,,,,lbw,MP Enright
+ball,2,16.1,Namibia,I van Zyl,Adri van der Merwe,S Wetoto,1,0,,,,,,"",""
+ball,2,16.2,Namibia,Adri van der Merwe,I van Zyl,S Wetoto,1,1,,1,,,,"",""
+ball,2,16.3,Namibia,I van Zyl,Adri van der Merwe,S Wetoto,1,0,,,,,,"",""
+ball,2,16.4,Namibia,Adri van der Merwe,I van Zyl,S Wetoto,0,0,,,,,,stumped,Adri van der Merwe
+ball,2,16.5,Namibia,H de Klerk,I van Zyl,S Wetoto,0,0,,,,,,caught,H de Klerk
+ball,2,16.6,Namibia,I van Zyl,KA Green,S Wetoto,0,0,,,,,,"",""
+ball,2,16.7,Namibia,I van Zyl,KA Green,S Wetoto,0,0,,,,,,"",""
+ball,2,17.1,Namibia,KA Green,I van Zyl,SW Kinyua,0,0,,,,,,"",""
+ball,2,17.2,Namibia,KA Green,I van Zyl,SW Kinyua,0,0,,,,,,"",""
+ball,2,17.3,Namibia,KA Green,I van Zyl,SW Kinyua,2,0,,,,,,"",""
+ball,2,17.4,Namibia,KA Green,I van Zyl,SW Kinyua,1,0,,,,,,"",""
+ball,2,17.5,Namibia,I van Zyl,KA Green,SW Kinyua,1,0,,,,,,"",""
+ball,2,17.6,Namibia,KA Green,I van Zyl,SW Kinyua,0,3,,,,3,,"",""
+ball,2,18.1,Namibia,KA Green,I van Zyl,S Wetoto,1,0,,,,,,"",""
+ball,2,18.2,Namibia,I van Zyl,KA Green,S Wetoto,1,0,,,,,,"",""
+ball,2,18.3,Namibia,KA Green,I van Zyl,S Wetoto,1,0,,,,,,"",""
+ball,2,18.4,Namibia,I van Zyl,KA Green,S Wetoto,1,0,,,,,,"",""
+ball,2,18.5,Namibia,KA Green,I van Zyl,S Wetoto,0,0,,,,,,caught,KA Green
+ball,2,18.6,Namibia,I van Zyl,D Foerster,S Wetoto,1,0,,,,,,"",""
+ball,2,19.1,Namibia,I van Zyl,D Foerster,SW Kinyua,0,0,,,,,,"",""
+ball,2,19.2,Namibia,I van Zyl,D Foerster,SW Kinyua,0,0,,,,,,bowled,I van Zyl
+ball,2,19.3,Namibia,Reehana Khan,D Foerster,SW Kinyua,1,0,,,,,,"",""
+ball,2,19.4,Namibia,D Foerster,Reehana Khan,SW Kinyua,0,0,,,,,,"",""
+ball,2,19.5,Namibia,D Foerster,Reehana Khan,SW Kinyua,0,0,,,,,,"",""
+ball,2,19.6,Namibia,D Foerster,Reehana Khan,SW Kinyua,1,0,,,,,,"",""

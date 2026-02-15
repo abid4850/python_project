@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Melbourne Stars
+info,gender,female
+info,season,2024/25
+info,date,2024/10/27
+info,event,Women's Big Bash League
+info,match_number,3
+info,venue,"Western Australia Cricket Association Ground, Perth"
+info,city,Perth
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,CC Ainsworth
+info,umpire,DM Koch
+info,umpire,GJ Davidson
+info,reserve_umpire,K Holloman
+info,tv_umpire,Ashlee Gibbons
+info,match_referee,SD Fry
+info,winner,Perth Scorchers
+info,winner_runs,13
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,M Darke
+info,player,Perth Scorchers,C Leeson
+info,player,Perth Scorchers,AE Jones
+info,player,Perth Scorchers,M Hinkley
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,CC Ainsworth
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,L Mills
+info,player,Perth Scorchers,E Hoskin
+info,player,Melbourne Stars,MM Lanning
+info,player,Melbourne Stars,IY Mckeon
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,M Kapp
+info,player,Melbourne Stars,R McKenna
+info,player,Melbourne Stars,T Flintoff
+info,player,Melbourne Stars,S Reid
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,S Day
+info,player,Melbourne Stars,ML Gibson
+info,registry,people,A King,83558266
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AL Edgar,795ff893
+info,registry,people,Ashlee Gibbons,b81712f7
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,C Leeson,d71e33bb
+info,registry,people,C Piparo,276f3dde
+info,registry,people,CC Ainsworth,4b69c598
+info,registry,people,DM Koch,6d10c034
+info,registry,people,E Hoskin,cd2ad878
+info,registry,people,GJ Davidson,31ad5973
+info,registry,people,IY Mckeon,59ff3c57
+info,registry,people,K Holloman,e386f555
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,L Mills,c35a0b8a
+info,registry,people,M Darke,57a90666
+info,registry,people,M Hinkley,3812165d
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,ML Gibson,27fa592f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,R McKenna,f7e41cd8
+info,registry,people,S Day,c3d27d76
+info,registry,people,S Reid,1380c4c2
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,T Flintoff,5471b94a
+ball,1,0.1,Perth Scorchers,BL Mooney,M Darke,M Kapp,1,0,,,,,,"",""
+ball,1,0.2,Perth Scorchers,M Darke,BL Mooney,M Kapp,1,0,,,,,,"",""
+ball,1,0.3,Perth Scorchers,BL Mooney,M Darke,M Kapp,0,1,1,,,,,"",""
+ball,1,0.4,Perth Scorchers,BL Mooney,M Darke,M Kapp,0,0,,,,,,"",""
+ball,1,0.5,Perth Scorchers,BL Mooney,M Darke,M Kapp,0,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,BL Mooney,M Darke,M Kapp,0,1,1,,,,,"",""
+ball,1,0.7,Perth Scorchers,BL Mooney,M Darke,M Kapp,0,0,,,,,,"",""
+ball,1,0.8,Perth Scorchers,BL Mooney,M Darke,M Kapp,1,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,BL Mooney,M Darke,KJ Garth,0,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,BL Mooney,M Darke,KJ Garth,2,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,BL Mooney,M Darke,KJ Garth,0,0,,,,,,"",""
+ball,1,1.4,Perth Scorchers,BL Mooney,M Darke,KJ Garth,0,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,BL Mooney,M Darke,KJ Garth,1,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,M Darke,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,1,2.1,Perth Scorchers,BL Mooney,M Darke,M Kapp,0,0,,,,,,"",""
+ball,1,2.2,Perth Scorchers,BL Mooney,M Darke,M Kapp,4,0,,,,,,"",""
+ball,1,2.3,Perth Scorchers,BL Mooney,M Darke,M Kapp,0,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,BL Mooney,M Darke,M Kapp,1,0,,,,,,"",""
+ball,1,2.5,Perth Scorchers,M Darke,BL Mooney,M Kapp,2,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,M Darke,BL Mooney,M Kapp,0,0,,,,,,caught,M Darke
+ball,1,3.1,Perth Scorchers,BL Mooney,C Leeson,KJ Garth,4,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,BL Mooney,C Leeson,KJ Garth,0,1,1,,,,,"",""
+ball,1,3.3,Perth Scorchers,BL Mooney,C Leeson,KJ Garth,4,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,BL Mooney,C Leeson,KJ Garth,1,0,,,,,,"",""
+ball,1,3.5,Perth Scorchers,C Leeson,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,1,3.6,Perth Scorchers,C Leeson,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,1,3.7,Perth Scorchers,C Leeson,BL Mooney,KJ Garth,0,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,BL Mooney,C Leeson,A Sutherland,0,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,BL Mooney,C Leeson,A Sutherland,0,1,1,,,,,"",""
+ball,1,4.3,Perth Scorchers,BL Mooney,C Leeson,A Sutherland,0,1,1,,,,,"",""
+ball,1,4.4,Perth Scorchers,BL Mooney,C Leeson,A Sutherland,1,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,C Leeson,BL Mooney,A Sutherland,0,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,C Leeson,BL Mooney,A Sutherland,0,0,,,,,,"",""
+ball,1,4.7,Perth Scorchers,C Leeson,BL Mooney,A Sutherland,1,0,,,,,,"",""
+ball,1,4.8,Perth Scorchers,BL Mooney,C Leeson,A Sutherland,4,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,C Leeson,BL Mooney,SK Moloney,0,0,,,,,,caught,C Leeson
+ball,1,5.2,Perth Scorchers,AE Jones,BL Mooney,SK Moloney,1,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,BL Mooney,AE Jones,SK Moloney,0,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,BL Mooney,AE Jones,SK Moloney,4,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,BL Mooney,AE Jones,SK Moloney,1,0,,,,,,"",""
+ball,1,5.6,Perth Scorchers,AE Jones,BL Mooney,SK Moloney,1,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,AE Jones,BL Mooney,T Flintoff,0,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,AE Jones,BL Mooney,T Flintoff,0,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,AE Jones,BL Mooney,T Flintoff,6,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,AE Jones,BL Mooney,T Flintoff,0,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,AE Jones,BL Mooney,T Flintoff,1,0,,,,,,"",""
+ball,1,6.6,Perth Scorchers,BL Mooney,AE Jones,T Flintoff,2,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,AE Jones,BL Mooney,M Kapp,0,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,AE Jones,BL Mooney,M Kapp,1,0,,,,,,"",""
+ball,1,7.3,Perth Scorchers,BL Mooney,AE Jones,M Kapp,0,1,,,,1,,"",""
+ball,1,7.4,Perth Scorchers,AE Jones,BL Mooney,M Kapp,0,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,AE Jones,BL Mooney,M Kapp,0,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,AE Jones,BL Mooney,M Kapp,0,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,BL Mooney,AE Jones,S Day,0,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,BL Mooney,AE Jones,S Day,0,0,,,,,,bowled,BL Mooney
+ball,1,8.3,Perth Scorchers,M Hinkley,AE Jones,S Day,1,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,AE Jones,M Hinkley,S Day,0,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,AE Jones,M Hinkley,S Day,1,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,M Hinkley,AE Jones,S Day,0,0,,,,,,bowled,M Hinkley
+ball,1,9.1,Perth Scorchers,AE Jones,C Piparo,KJ Garth,1,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,C Piparo,AE Jones,KJ Garth,1,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,AE Jones,C Piparo,KJ Garth,1,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,C Piparo,AE Jones,KJ Garth,0,0,,,,,,"",""
+ball,1,9.5,Perth Scorchers,C Piparo,AE Jones,KJ Garth,1,0,,,,,,"",""
+ball,1,9.6,Perth Scorchers,AE Jones,C Piparo,KJ Garth,1,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,AE Jones,C Piparo,S Day,1,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,C Piparo,AE Jones,S Day,1,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,AE Jones,C Piparo,S Day,1,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,C Piparo,AE Jones,S Day,0,0,,,,,,"",""
+ball,1,10.5,Perth Scorchers,C Piparo,AE Jones,S Day,1,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,AE Jones,C Piparo,S Day,2,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,C Piparo,AE Jones,ML Gibson,1,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,AE Jones,C Piparo,ML Gibson,0,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,AE Jones,C Piparo,ML Gibson,4,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,AE Jones,C Piparo,ML Gibson,0,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,AE Jones,C Piparo,ML Gibson,0,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,AE Jones,C Piparo,ML Gibson,0,0,,,,,,"",""
+ball,1,12.1,Perth Scorchers,C Piparo,AE Jones,A Sutherland,1,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,AE Jones,C Piparo,A Sutherland,4,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,AE Jones,C Piparo,A Sutherland,4,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,AE Jones,C Piparo,A Sutherland,0,0,,,,,,caught,AE Jones
+ball,1,12.5,Perth Scorchers,A King,C Piparo,A Sutherland,0,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,A King,C Piparo,A Sutherland,1,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,A King,C Piparo,S Day,0,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,A King,C Piparo,S Day,0,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,A King,C Piparo,S Day,0,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,A King,C Piparo,S Day,1,0,,,,,,"",""
+ball,1,13.5,Perth Scorchers,C Piparo,A King,S Day,4,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,C Piparo,A King,S Day,1,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,C Piparo,A King,ML Gibson,1,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,A King,C Piparo,ML Gibson,1,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,C Piparo,A King,ML Gibson,4,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,C Piparo,A King,ML Gibson,0,0,,,,,,"",""
+ball,1,14.5,Perth Scorchers,C Piparo,A King,ML Gibson,4,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,C Piparo,A King,ML Gibson,0,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,A King,C Piparo,M Kapp,0,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,A King,C Piparo,M Kapp,2,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,A King,C Piparo,M Kapp,1,0,,,,,,"",""
+ball,1,15.4,Perth Scorchers,C Piparo,A King,M Kapp,1,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,A King,C Piparo,M Kapp,0,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,A King,C Piparo,M Kapp,1,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,A King,C Piparo,S Day,0,0,,,,,,caught,A King
+ball,1,16.2,Perth Scorchers,CC Ainsworth,C Piparo,S Day,1,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,C Piparo,CC Ainsworth,S Day,1,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,CC Ainsworth,C Piparo,S Day,0,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,CC Ainsworth,C Piparo,S Day,4,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,CC Ainsworth,C Piparo,S Day,1,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,CC Ainsworth,C Piparo,A Sutherland,0,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,CC Ainsworth,C Piparo,A Sutherland,0,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,CC Ainsworth,C Piparo,A Sutherland,1,0,,,,,,"",""
+ball,1,17.4,Perth Scorchers,C Piparo,CC Ainsworth,A Sutherland,1,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,CC Ainsworth,C Piparo,A Sutherland,2,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,CC Ainsworth,C Piparo,A Sutherland,1,0,,,,,,"",""
+ball,1,18.1,Perth Scorchers,CC Ainsworth,C Piparo,KJ Garth,0,1,,,,1,,"",""
+ball,1,18.2,Perth Scorchers,C Piparo,CC Ainsworth,KJ Garth,0,0,,,,,,bowled,C Piparo
+ball,1,18.3,Perth Scorchers,AL Edgar,CC Ainsworth,KJ Garth,1,0,,,,,,"",""
+ball,1,18.4,Perth Scorchers,CC Ainsworth,AL Edgar,KJ Garth,0,0,,,,,,bowled,CC Ainsworth
+ball,1,18.5,Perth Scorchers,L Mills,AL Edgar,KJ Garth,0,0,,,,,,"",""
+ball,1,18.6,Perth Scorchers,L Mills,AL Edgar,KJ Garth,4,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,AL Edgar,L Mills,A Sutherland,1,0,,,,,,"",""
+ball,1,19.2,Perth Scorchers,L Mills,AL Edgar,A Sutherland,1,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,AL Edgar,L Mills,A Sutherland,0,1,,,,1,,"",""
+ball,1,19.4,Perth Scorchers,L Mills,AL Edgar,A Sutherland,0,0,,,,,,"",""
+ball,1,19.5,Perth Scorchers,L Mills,AL Edgar,A Sutherland,0,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,L Mills,AL Edgar,A Sutherland,0,1,,,1,,,"",""
+ball,2,0.1,Melbourne Stars,MM Lanning,IY Mckeon,A King,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Stars,MM Lanning,IY Mckeon,A King,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,MM Lanning,IY Mckeon,A King,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,MM Lanning,IY Mckeon,A King,1,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,IY Mckeon,MM Lanning,A King,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,IY Mckeon,MM Lanning,A King,6,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,MM Lanning,IY Mckeon,E Hoskin,4,0,,,,,,"",""
+ball,2,1.2,Melbourne Stars,MM Lanning,IY Mckeon,E Hoskin,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,MM Lanning,IY Mckeon,E Hoskin,1,1,,1,,,,"",""
+ball,2,1.4,Melbourne Stars,IY Mckeon,MM Lanning,E Hoskin,0,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,IY Mckeon,MM Lanning,E Hoskin,0,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,IY Mckeon,MM Lanning,E Hoskin,0,0,,,,,,"",""
+ball,2,1.7,Melbourne Stars,IY Mckeon,MM Lanning,E Hoskin,0,1,,,,1,,"",""
+ball,2,2.1,Melbourne Stars,IY Mckeon,MM Lanning,CC Ainsworth,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,IY Mckeon,MM Lanning,CC Ainsworth,0,1,1,,,,,"",""
+ball,2,2.3,Melbourne Stars,IY Mckeon,MM Lanning,CC Ainsworth,0,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,IY Mckeon,MM Lanning,CC Ainsworth,1,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,MM Lanning,IY Mckeon,CC Ainsworth,1,0,,,,,,"",""
+ball,2,2.6,Melbourne Stars,IY Mckeon,MM Lanning,CC Ainsworth,1,0,,,,,,"",""
+ball,2,2.7,Melbourne Stars,MM Lanning,IY Mckeon,CC Ainsworth,0,1,1,,,,,"",""
+ball,2,2.8,Melbourne Stars,MM Lanning,IY Mckeon,CC Ainsworth,1,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,MM Lanning,IY Mckeon,E Hoskin,1,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,IY Mckeon,MM Lanning,E Hoskin,0,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,IY Mckeon,MM Lanning,E Hoskin,4,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,IY Mckeon,MM Lanning,E Hoskin,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,IY Mckeon,MM Lanning,E Hoskin,4,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,IY Mckeon,MM Lanning,E Hoskin,4,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,MM Lanning,IY Mckeon,CC Ainsworth,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,MM Lanning,IY Mckeon,CC Ainsworth,0,0,,,,,,bowled,MM Lanning
+ball,2,4.3,Melbourne Stars,A Sutherland,IY Mckeon,CC Ainsworth,0,0,,,,,,"",""
+ball,2,4.4,Melbourne Stars,A Sutherland,IY Mckeon,CC Ainsworth,0,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,A Sutherland,IY Mckeon,CC Ainsworth,0,0,,,,,,bowled,A Sutherland
+ball,2,4.6,Melbourne Stars,M Kapp,IY Mckeon,CC Ainsworth,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,M Kapp,IY Mckeon,AL Edgar,0,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,M Kapp,IY Mckeon,AL Edgar,0,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,M Kapp,IY Mckeon,AL Edgar,0,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,M Kapp,IY Mckeon,AL Edgar,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,IY Mckeon,M Kapp,AL Edgar,0,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,IY Mckeon,M Kapp,AL Edgar,0,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,M Kapp,IY Mckeon,C Leeson,2,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,M Kapp,IY Mckeon,C Leeson,0,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,M Kapp,IY Mckeon,C Leeson,1,0,,,,,,"",""
+ball,2,6.4,Melbourne Stars,IY Mckeon,M Kapp,C Leeson,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,IY Mckeon,M Kapp,C Leeson,0,1,1,,,,,"",""
+ball,2,6.6,Melbourne Stars,IY Mckeon,M Kapp,C Leeson,2,0,,,,,,"",""
+ball,2,6.7,Melbourne Stars,IY Mckeon,M Kapp,C Leeson,0,2,2,,,,,"",""
+ball,2,6.8,Melbourne Stars,M Kapp,IY Mckeon,C Leeson,0,1,1,,,,,"",""
+ball,2,6.9,Melbourne Stars,M Kapp,IY Mckeon,C Leeson,2,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,IY Mckeon,M Kapp,AL Edgar,0,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,IY Mckeon,M Kapp,AL Edgar,4,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,IY Mckeon,M Kapp,AL Edgar,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Stars,IY Mckeon,M Kapp,AL Edgar,1,0,,,,,,"",""
+ball,2,7.5,Melbourne Stars,M Kapp,IY Mckeon,AL Edgar,0,0,,,,,,"",""
+ball,2,7.6,Melbourne Stars,M Kapp,IY Mckeon,AL Edgar,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,M Kapp,IY Mckeon,CC Ainsworth,0,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,M Kapp,IY Mckeon,CC Ainsworth,0,0,,,,,,"",""
+ball,2,8.3,Melbourne Stars,M Kapp,IY Mckeon,CC Ainsworth,1,0,,,,,,"",""
+ball,2,8.4,Melbourne Stars,IY Mckeon,M Kapp,CC Ainsworth,2,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,IY Mckeon,M Kapp,CC Ainsworth,0,0,,,,,,"",""
+ball,2,8.6,Melbourne Stars,IY Mckeon,M Kapp,CC Ainsworth,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,IY Mckeon,M Kapp,A King,0,0,,,,,,run out,M Kapp
+ball,2,9.2,Melbourne Stars,IY Mckeon,R McKenna,A King,1,0,,,,,,"",""
+ball,2,9.3,Melbourne Stars,R McKenna,IY Mckeon,A King,0,0,,,,,,"",""
+ball,2,9.4,Melbourne Stars,R McKenna,IY Mckeon,A King,0,0,,,,,,"",""
+ball,2,9.5,Melbourne Stars,R McKenna,IY Mckeon,A King,0,0,,,,,,lbw,R McKenna
+ball,2,9.6,Melbourne Stars,T Flintoff,IY Mckeon,A King,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,T Flintoff,IY Mckeon,AL Edgar,1,0,,,,,,"",""
+ball,2,10.2,Melbourne Stars,IY Mckeon,T Flintoff,AL Edgar,1,0,,,,,,"",""
+ball,2,10.3,Melbourne Stars,T Flintoff,IY Mckeon,AL Edgar,0,0,,,,,,caught,T Flintoff
+ball,2,10.4,Melbourne Stars,S Reid,IY Mckeon,AL Edgar,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,IY Mckeon,S Reid,AL Edgar,0,0,,,,,,"",""
+ball,2,10.6,Melbourne Stars,IY Mckeon,S Reid,AL Edgar,0,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,S Reid,IY Mckeon,CC Ainsworth,0,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,S Reid,IY Mckeon,CC Ainsworth,1,0,,,,,,"",""
+ball,2,11.3,Melbourne Stars,IY Mckeon,S Reid,CC Ainsworth,0,0,,,,,,"",""
+ball,2,11.4,Melbourne Stars,IY Mckeon,S Reid,CC Ainsworth,2,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,IY Mckeon,S Reid,CC Ainsworth,4,0,,,,,,"",""
+ball,2,11.6,Melbourne Stars,IY Mckeon,S Reid,CC Ainsworth,0,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,S Reid,IY Mckeon,L Mills,2,0,,,,,,"",""
+ball,2,12.2,Melbourne Stars,S Reid,IY Mckeon,L Mills,1,0,,,,,,"",""
+ball,2,12.3,Melbourne Stars,IY Mckeon,S Reid,L Mills,0,0,,,,,,"",""
+ball,2,12.4,Melbourne Stars,IY Mckeon,S Reid,L Mills,1,0,,,,,,"",""
+ball,2,12.5,Melbourne Stars,S Reid,IY Mckeon,L Mills,1,0,,,,,,"",""
+ball,2,12.6,Melbourne Stars,IY Mckeon,S Reid,L Mills,2,0,,,,,,"",""
+ball,2,13.1,Melbourne Stars,S Reid,IY Mckeon,E Hoskin,1,0,,,,,,"",""
+ball,2,13.2,Melbourne Stars,IY Mckeon,S Reid,E Hoskin,1,0,,,,,,"",""
+ball,2,13.3,Melbourne Stars,S Reid,IY Mckeon,E Hoskin,0,1,1,,,,,"",""
+ball,2,13.4,Melbourne Stars,S Reid,IY Mckeon,E Hoskin,0,0,,,,,,"",""
+ball,2,13.5,Melbourne Stars,S Reid,IY Mckeon,E Hoskin,0,0,,,,,,caught,S Reid
+ball,2,13.6,Melbourne Stars,KJ Garth,IY Mckeon,E Hoskin,0,1,1,,,,,"",""
+ball,2,13.7,Melbourne Stars,KJ Garth,IY Mckeon,E Hoskin,0,0,,,,,,"",""
+ball,2,13.8,Melbourne Stars,KJ Garth,IY Mckeon,E Hoskin,1,0,,,,,,"",""
+ball,2,14.1,Melbourne Stars,KJ Garth,IY Mckeon,L Mills,0,0,,,,,,"",""
+ball,2,14.2,Melbourne Stars,KJ Garth,IY Mckeon,L Mills,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Stars,IY Mckeon,KJ Garth,L Mills,1,0,,,,,,"",""
+ball,2,14.4,Melbourne Stars,KJ Garth,IY Mckeon,L Mills,1,0,,,,,,"",""
+ball,2,14.5,Melbourne Stars,IY Mckeon,KJ Garth,L Mills,0,1,,,1,,,"",""
+ball,2,14.6,Melbourne Stars,KJ Garth,IY Mckeon,L Mills,1,0,,,,,,"",""
+ball,2,15.1,Melbourne Stars,KJ Garth,IY Mckeon,A King,0,0,,,,,,"",""
+ball,2,15.2,Melbourne Stars,KJ Garth,IY Mckeon,A King,1,0,,,,,,"",""
+ball,2,15.3,Melbourne Stars,IY Mckeon,KJ Garth,A King,6,0,,,,,,"",""
+ball,2,15.4,Melbourne Stars,IY Mckeon,KJ Garth,A King,1,0,,,,,,"",""
+ball,2,15.5,Melbourne Stars,KJ Garth,IY Mckeon,A King,1,0,,,,,,"",""
+ball,2,15.6,Melbourne Stars,IY Mckeon,KJ Garth,A King,0,1,1,,,,,stumped,IY Mckeon
+ball,2,15.7,Melbourne Stars,SK Moloney,KJ Garth,A King,0,0,,,,,,"",""
+ball,2,16.1,Melbourne Stars,KJ Garth,SK Moloney,C Leeson,0,1,1,,,,,"",""
+ball,2,16.2,Melbourne Stars,KJ Garth,SK Moloney,C Leeson,2,0,,,,,,"",""
+ball,2,16.3,Melbourne Stars,KJ Garth,SK Moloney,C Leeson,2,0,,,,,,"",""
+ball,2,16.4,Melbourne Stars,KJ Garth,SK Moloney,C Leeson,0,0,,,,,,"",""
+ball,2,16.5,Melbourne Stars,KJ Garth,SK Moloney,C Leeson,0,0,,,,,,caught and bowled,KJ Garth
+ball,2,16.6,Melbourne Stars,S Day,SK Moloney,C Leeson,0,0,,,,,,"",""
+ball,2,16.7,Melbourne Stars,S Day,SK Moloney,C Leeson,0,0,,,,,,"",""
+ball,2,17.1,Melbourne Stars,SK Moloney,S Day,L Mills,0,0,,,,,,"",""
+ball,2,17.2,Melbourne Stars,SK Moloney,S Day,L Mills,1,0,,,,,,"",""
+ball,2,17.3,Melbourne Stars,S Day,SK Moloney,L Mills,1,0,,,,,,"",""
+ball,2,17.4,Melbourne Stars,SK Moloney,S Day,L Mills,0,0,,,,,,"",""
+ball,2,17.5,Melbourne Stars,SK Moloney,S Day,L Mills,0,0,,,,,,bowled,SK Moloney
+ball,2,17.6,Melbourne Stars,ML Gibson,S Day,L Mills,0,0,,,,,,"",""
+ball,2,18.1,Melbourne Stars,S Day,ML Gibson,AL Edgar,0,0,,,,,,"",""
+ball,2,18.2,Melbourne Stars,S Day,ML Gibson,AL Edgar,0,0,,,,,,"",""
+ball,2,18.3,Melbourne Stars,S Day,ML Gibson,AL Edgar,0,5,5,,,,,"",""
+ball,2,18.4,Melbourne Stars,S Day,ML Gibson,AL Edgar,0,0,,,,,,"",""
+ball,2,18.5,Melbourne Stars,S Day,ML Gibson,AL Edgar,0,0,,,,,,"",""
+ball,2,18.6,Melbourne Stars,S Day,ML Gibson,AL Edgar,0,0,,,,,,"",""
+ball,2,18.7,Melbourne Stars,S Day,ML Gibson,AL Edgar,0,1,,,,1,,"",""
+ball,2,19.1,Melbourne Stars,S Day,ML Gibson,A King,1,0,,,,,,"",""
+ball,2,19.2,Melbourne Stars,ML Gibson,S Day,A King,0,0,,,,,,stumped,ML Gibson

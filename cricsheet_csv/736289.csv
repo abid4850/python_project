@@ -1,0 +1,187 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Cape Cobras
+info,gender,male
+info,season,2014/15
+info,date,2014/11/21
+info,event,Ram Slam T20 Challenge
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Cape Cobras
+info,toss_decision,field
+info,player_of_match,RE Levi
+info,player_of_match,GF Linde
+info,umpire,A Paleker
+info,umpire,S George
+info,reserve_umpire,DJ Smith
+info,match_referee,D Govindjee
+info,winner,Cape Cobras
+info,winner_wickets,7
+info,player,Dolphins,MN van Wyk
+info,player,Dolphins,CS Delport
+info,player,Dolphins,JD Vandiar
+info,player,Dolphins,VB van Jaarsveld
+info,player,Dolphins,DJ Bravo
+info,player,Dolphins,K Zondo
+info,player,Dolphins,R Frylinck
+info,player,Dolphins,AL Phehlukwayo
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,CJ Alexander
+info,player,Dolphins,RJ Engelbrecht
+info,player,Cape Cobras,RE Levi
+info,player,Cape Cobras,AG Puttick
+info,player,Cape Cobras,OA Ramela
+info,player,Cape Cobras,DJ Vilas
+info,player,Cape Cobras,KA Pollard
+info,player,Cape Cobras,JL Ontong
+info,player,Cape Cobras,SA Engelbrecht
+info,player,Cape Cobras,GF Linde
+info,player,Cape Cobras,FD Adams
+info,player,Cape Cobras,D Paterson
+info,player,Cape Cobras,M Shezi
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AG Puttick,637b6fbd
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,CJ Alexander,26d9937d
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,D Govindjee,8b4c4069
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,FD Adams,f277f531
+info,registry,people,GF Linde,e5437608
+info,registry,people,JD Vandiar,a833f99c
+info,registry,people,JL Ontong,55f33b32
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,M Shezi,016e5101
+info,registry,people,MN van Wyk,710dd98c
+info,registry,people,OA Ramela,04a5b56e
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,R Frylinck,8b248d88
+info,registry,people,RE Levi,18c78b11
+info,registry,people,RJ Engelbrecht,a467273e
+info,registry,people,S George,6d9e5a54
+info,registry,people,SA Engelbrecht,81a0e294
+info,registry,people,VB van Jaarsveld,890b877d
+ball,1,0.1,Dolphins,MN van Wyk,CS Delport,M Shezi,0,1,1,,,,,"",""
+ball,1,0.2,Dolphins,MN van Wyk,CS Delport,M Shezi,0,0,,,,,,"",""
+ball,1,0.3,Dolphins,MN van Wyk,CS Delport,M Shezi,0,0,,,,,,caught,MN van Wyk
+ball,1,0.4,Dolphins,JD Vandiar,CS Delport,M Shezi,4,0,,,,,,"",""
+ball,1,0.5,Dolphins,JD Vandiar,CS Delport,M Shezi,0,0,,,,,,"",""
+ball,1,0.6,Dolphins,JD Vandiar,CS Delport,M Shezi,0,0,,,,,,"",""
+ball,1,0.7,Dolphins,JD Vandiar,CS Delport,M Shezi,4,0,,,,,,"",""
+ball,1,1.1,Dolphins,CS Delport,JD Vandiar,SA Engelbrecht,0,0,,,,,,caught,CS Delport
+ball,1,1.2,Dolphins,VB van Jaarsveld,JD Vandiar,SA Engelbrecht,2,0,,,,,,"",""
+ball,1,1.3,Dolphins,VB van Jaarsveld,JD Vandiar,SA Engelbrecht,1,0,,,,,,"",""
+ball,1,1.4,Dolphins,JD Vandiar,VB van Jaarsveld,SA Engelbrecht,1,0,,,,,,"",""
+ball,1,1.5,Dolphins,VB van Jaarsveld,JD Vandiar,SA Engelbrecht,1,0,,,,,,"",""
+ball,1,1.6,Dolphins,JD Vandiar,VB van Jaarsveld,SA Engelbrecht,2,0,,,,,,"",""
+ball,1,2.1,Dolphins,VB van Jaarsveld,JD Vandiar,D Paterson,0,0,,,,,,"",""
+ball,1,2.2,Dolphins,VB van Jaarsveld,JD Vandiar,D Paterson,0,0,,,,,,"",""
+ball,1,2.3,Dolphins,VB van Jaarsveld,JD Vandiar,D Paterson,0,0,,,,,,"",""
+ball,1,2.4,Dolphins,VB van Jaarsveld,JD Vandiar,D Paterson,1,0,,,,,,"",""
+ball,1,2.5,Dolphins,JD Vandiar,VB van Jaarsveld,D Paterson,1,0,,,,,,"",""
+ball,1,2.6,Dolphins,VB van Jaarsveld,JD Vandiar,D Paterson,0,1,1,,,,,"",""
+ball,1,2.7,Dolphins,VB van Jaarsveld,JD Vandiar,D Paterson,0,0,,,,,,"",""
+ball,1,3.1,Dolphins,JD Vandiar,VB van Jaarsveld,KA Pollard,1,0,,,,,,"",""
+ball,1,3.2,Dolphins,VB van Jaarsveld,JD Vandiar,KA Pollard,1,0,,,,,,"",""
+ball,1,3.3,Dolphins,JD Vandiar,VB van Jaarsveld,KA Pollard,1,0,,,,,,"",""
+ball,1,3.4,Dolphins,VB van Jaarsveld,JD Vandiar,KA Pollard,0,0,,,,,,"",""
+ball,1,3.5,Dolphins,VB van Jaarsveld,JD Vandiar,KA Pollard,2,0,,,,,,"",""
+ball,1,3.6,Dolphins,VB van Jaarsveld,JD Vandiar,KA Pollard,0,1,,,,1,,"",""
+ball,1,4.1,Dolphins,VB van Jaarsveld,JD Vandiar,FD Adams,1,0,,,,,,"",""
+ball,1,4.2,Dolphins,JD Vandiar,VB van Jaarsveld,FD Adams,0,0,,,,,,"",""
+ball,1,4.3,Dolphins,JD Vandiar,VB van Jaarsveld,FD Adams,1,0,,,,,,"",""
+ball,1,4.4,Dolphins,VB van Jaarsveld,JD Vandiar,FD Adams,1,0,,,,,,"",""
+ball,1,4.5,Dolphins,JD Vandiar,VB van Jaarsveld,FD Adams,4,0,,,,,,"",""
+ball,1,4.6,Dolphins,JD Vandiar,VB van Jaarsveld,FD Adams,4,0,,,,,,"",""
+ball,1,5.1,Dolphins,VB van Jaarsveld,JD Vandiar,KA Pollard,6,0,,,,,,"",""
+ball,1,5.2,Dolphins,VB van Jaarsveld,JD Vandiar,KA Pollard,1,0,,,,,,"",""
+ball,1,5.3,Dolphins,JD Vandiar,VB van Jaarsveld,KA Pollard,4,0,,,,,,"",""
+ball,1,5.4,Dolphins,JD Vandiar,VB van Jaarsveld,KA Pollard,0,0,,,,,,"",""
+ball,1,5.5,Dolphins,JD Vandiar,VB van Jaarsveld,KA Pollard,2,0,,,,,,"",""
+ball,1,5.6,Dolphins,JD Vandiar,VB van Jaarsveld,KA Pollard,4,0,,,,,,"",""
+ball,1,6.1,Dolphins,VB van Jaarsveld,JD Vandiar,GF Linde,2,0,,,,,,"",""
+ball,1,6.2,Dolphins,VB van Jaarsveld,JD Vandiar,GF Linde,2,0,,,,,,"",""
+ball,1,6.3,Dolphins,VB van Jaarsveld,JD Vandiar,GF Linde,1,0,,,,,,"",""
+ball,1,6.4,Dolphins,JD Vandiar,VB van Jaarsveld,GF Linde,0,0,,,,,,caught,JD Vandiar
+ball,1,6.5,Dolphins,VB van Jaarsveld,DJ Bravo,GF Linde,1,0,,,,,,"",""
+ball,1,6.6,Dolphins,DJ Bravo,VB van Jaarsveld,GF Linde,1,0,,,,,,"",""
+ball,1,7.1,Dolphins,DJ Bravo,VB van Jaarsveld,D Paterson,1,0,,,,,,"",""
+ball,1,7.2,Dolphins,VB van Jaarsveld,DJ Bravo,D Paterson,6,0,,,,,,"",""
+ball,1,7.3,Dolphins,VB van Jaarsveld,DJ Bravo,D Paterson,0,0,,,,,,caught,VB van Jaarsveld
+ball,1,7.4,Dolphins,DJ Bravo,K Zondo,D Paterson,0,0,,,,,,"",""
+ball,1,7.5,Dolphins,DJ Bravo,K Zondo,D Paterson,0,0,,,,,,"",""
+ball,1,7.6,Dolphins,DJ Bravo,K Zondo,D Paterson,1,0,,,,,,"",""
+ball,1,8.1,Dolphins,DJ Bravo,K Zondo,GF Linde,0,0,,,,,,stumped,DJ Bravo
+ball,1,8.2,Dolphins,R Frylinck,K Zondo,GF Linde,1,0,,,,,,"",""
+ball,1,8.3,Dolphins,K Zondo,R Frylinck,GF Linde,0,0,,,,,,"",""
+ball,1,8.4,Dolphins,K Zondo,R Frylinck,GF Linde,1,0,,,,,,"",""
+ball,1,8.5,Dolphins,R Frylinck,K Zondo,GF Linde,6,0,,,,,,"",""
+ball,1,8.6,Dolphins,R Frylinck,K Zondo,GF Linde,0,0,,,,,,caught,R Frylinck
+ball,1,9.1,Dolphins,AL Phehlukwayo,K Zondo,FD Adams,0,0,,,,,,bowled,AL Phehlukwayo
+ball,1,9.2,Dolphins,P Subrayen,K Zondo,FD Adams,2,0,,,,,,"",""
+ball,1,9.3,Dolphins,P Subrayen,K Zondo,FD Adams,2,0,,,,,,"",""
+ball,1,9.4,Dolphins,P Subrayen,K Zondo,FD Adams,2,0,,,,,,"",""
+ball,1,9.5,Dolphins,P Subrayen,K Zondo,FD Adams,2,0,,,,,,"",""
+ball,1,9.6,Dolphins,P Subrayen,K Zondo,FD Adams,0,0,,,,,,bowled,P Subrayen
+ball,2,0.1,Cape Cobras,RE Levi,AG Puttick,CJ Alexander,4,0,,,,,,"",""
+ball,2,0.2,Cape Cobras,RE Levi,AG Puttick,CJ Alexander,6,0,,,,,,"",""
+ball,2,0.3,Cape Cobras,RE Levi,AG Puttick,CJ Alexander,1,0,,,,,,"",""
+ball,2,0.4,Cape Cobras,AG Puttick,RE Levi,CJ Alexander,4,0,,,,,,"",""
+ball,2,0.5,Cape Cobras,AG Puttick,RE Levi,CJ Alexander,1,0,,,,,,"",""
+ball,2,0.6,Cape Cobras,RE Levi,AG Puttick,CJ Alexander,1,0,,,,,,"",""
+ball,2,1.1,Cape Cobras,RE Levi,AG Puttick,RJ Engelbrecht,0,0,,,,,,"",""
+ball,2,1.2,Cape Cobras,RE Levi,AG Puttick,RJ Engelbrecht,4,0,,,,,,"",""
+ball,2,1.3,Cape Cobras,RE Levi,AG Puttick,RJ Engelbrecht,0,0,,,,,,"",""
+ball,2,1.4,Cape Cobras,RE Levi,AG Puttick,RJ Engelbrecht,4,0,,,,,,"",""
+ball,2,1.5,Cape Cobras,RE Levi,AG Puttick,RJ Engelbrecht,4,0,,,,,,"",""
+ball,2,1.6,Cape Cobras,RE Levi,AG Puttick,RJ Engelbrecht,0,0,,,,,,"",""
+ball,2,2.1,Cape Cobras,AG Puttick,RE Levi,R Frylinck,4,0,,,,,,"",""
+ball,2,2.2,Cape Cobras,AG Puttick,RE Levi,R Frylinck,0,0,,,,,,"",""
+ball,2,2.3,Cape Cobras,AG Puttick,RE Levi,R Frylinck,0,0,,,,,,"",""
+ball,2,2.4,Cape Cobras,AG Puttick,RE Levi,R Frylinck,0,0,,,,,,"",""
+ball,2,2.5,Cape Cobras,AG Puttick,RE Levi,R Frylinck,0,0,,,,,,"",""
+ball,2,2.6,Cape Cobras,AG Puttick,RE Levi,R Frylinck,0,0,,,,,,"",""
+ball,2,3.1,Cape Cobras,RE Levi,AG Puttick,P Subrayen,1,0,,,,,,"",""
+ball,2,3.2,Cape Cobras,AG Puttick,RE Levi,P Subrayen,0,0,,,,,,bowled,AG Puttick
+ball,2,3.3,Cape Cobras,OA Ramela,RE Levi,P Subrayen,1,0,,,,,,"",""
+ball,2,3.4,Cape Cobras,RE Levi,OA Ramela,P Subrayen,1,0,,,,,,"",""
+ball,2,3.5,Cape Cobras,OA Ramela,RE Levi,P Subrayen,1,0,,,,,,"",""
+ball,2,3.6,Cape Cobras,RE Levi,OA Ramela,P Subrayen,1,0,,,,,,"",""
+ball,2,4.1,Cape Cobras,RE Levi,OA Ramela,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,4.2,Cape Cobras,OA Ramela,RE Levi,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,2,4.3,Cape Cobras,OA Ramela,RE Levi,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,4.4,Cape Cobras,RE Levi,OA Ramela,AL Phehlukwayo,4,0,,,,,,"",""
+ball,2,4.5,Cape Cobras,RE Levi,OA Ramela,AL Phehlukwayo,4,0,,,,,,"",""
+ball,2,4.6,Cape Cobras,RE Levi,OA Ramela,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,4.7,Cape Cobras,RE Levi,OA Ramela,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,5.1,Cape Cobras,RE Levi,OA Ramela,P Subrayen,1,0,,,,,,"",""
+ball,2,5.2,Cape Cobras,OA Ramela,RE Levi,P Subrayen,0,0,,,,,,"",""
+ball,2,5.3,Cape Cobras,OA Ramela,RE Levi,P Subrayen,1,0,,,,,,"",""
+ball,2,5.4,Cape Cobras,RE Levi,OA Ramela,P Subrayen,1,0,,,,,,"",""
+ball,2,5.5,Cape Cobras,OA Ramela,RE Levi,P Subrayen,1,0,,,,,,"",""
+ball,2,5.6,Cape Cobras,RE Levi,OA Ramela,P Subrayen,1,0,,,,,,"",""
+ball,2,6.1,Cape Cobras,RE Levi,OA Ramela,R Frylinck,6,0,,,,,,"",""
+ball,2,6.2,Cape Cobras,RE Levi,OA Ramela,R Frylinck,1,0,,,,,,"",""
+ball,2,6.3,Cape Cobras,OA Ramela,RE Levi,R Frylinck,1,0,,,,,,"",""
+ball,2,6.4,Cape Cobras,RE Levi,OA Ramela,R Frylinck,2,0,,,,,,"",""
+ball,2,6.5,Cape Cobras,RE Levi,OA Ramela,R Frylinck,4,0,,,,,,"",""
+ball,2,6.6,Cape Cobras,RE Levi,OA Ramela,R Frylinck,1,0,,,,,,"",""
+ball,2,7.1,Cape Cobras,RE Levi,OA Ramela,DJ Bravo,0,0,,,,,,caught,RE Levi
+ball,2,7.2,Cape Cobras,DJ Vilas,OA Ramela,DJ Bravo,0,0,,,,,,"",""
+ball,2,7.3,Cape Cobras,DJ Vilas,OA Ramela,DJ Bravo,1,0,,,,,,"",""
+ball,2,7.4,Cape Cobras,OA Ramela,DJ Vilas,DJ Bravo,1,0,,,,,,"",""
+ball,2,7.5,Cape Cobras,DJ Vilas,OA Ramela,DJ Bravo,1,0,,,,,,"",""
+ball,2,7.6,Cape Cobras,OA Ramela,DJ Vilas,DJ Bravo,4,0,,,,,,"",""
+ball,2,8.1,Cape Cobras,DJ Vilas,OA Ramela,CJ Alexander,1,0,,,,,,"",""
+ball,2,8.2,Cape Cobras,OA Ramela,DJ Vilas,CJ Alexander,0,0,,,,,,caught,OA Ramela
+ball,2,8.3,Cape Cobras,KA Pollard,DJ Vilas,CJ Alexander,4,0,,,,,,"",""
+ball,2,8.4,Cape Cobras,KA Pollard,DJ Vilas,CJ Alexander,0,0,,,,,,"",""
+ball,2,8.5,Cape Cobras,KA Pollard,DJ Vilas,CJ Alexander,1,0,,,,,,"",""
+ball,2,8.6,Cape Cobras,DJ Vilas,KA Pollard,CJ Alexander,0,0,,,,,,"",""
+ball,2,9.1,Cape Cobras,KA Pollard,DJ Vilas,DJ Bravo,0,0,,,,,,"",""
+ball,2,9.2,Cape Cobras,KA Pollard,DJ Vilas,DJ Bravo,6,0,,,,,,"",""

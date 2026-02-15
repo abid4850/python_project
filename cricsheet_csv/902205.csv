@@ -1,0 +1,296 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Maharashtra
+info,team,Karnataka
+info,gender,male
+info,season,2015/16
+info,date,2016/01/07
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Barabati Stadium
+info,city,
+info,toss_winner,Karnataka
+info,toss_decision,field
+info,winner,Maharashtra
+info,winner_runs,26
+info,player,Maharashtra,SM Gugale
+info,player,Maharashtra,Chirag Khurana
+info,player,Maharashtra,KM Jadhav
+info,player,Maharashtra,NS Naik
+info,player,Maharashtra,PJ Bhati
+info,player,Maharashtra,AA Sanklecha
+info,player,Maharashtra,AR Bawne
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,SS Mundhe
+info,player,Maharashtra,SM Kazi
+info,player,Maharashtra,DJ Muthuswami
+info,player,Karnataka,R Vinay Kumar
+info,player,Karnataka,S Aravind
+info,player,Karnataka,A Mithun
+info,player,Karnataka,J Suchith
+info,player,Karnataka,STR Binny
+info,player,Karnataka,S Gopal
+info,player,Karnataka,Mohammed Taha
+info,player,Karnataka,RV Uthappa
+info,player,Karnataka,Aniruddha Joshi
+info,player,Karnataka,CM Gautam
+info,player,Karnataka,MA Agarwal
+info,registry,people,A Mithun,66cf56a5
+info,registry,people,AA Sanklecha,90a5e58a
+info,registry,people,AR Bawne,afe3355a
+info,registry,people,Aniruddha Joshi,40c1eeeb
+info,registry,people,CM Gautam,30a2649b
+info,registry,people,Chirag Khurana,3d51cc7e
+info,registry,people,DJ Muthuswami,2c76b512
+info,registry,people,J Suchith,4125d931
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mohammed Taha,9fd83fec
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,PJ Bhati,278989a3
+info,registry,people,R Vinay Kumar,41eb4a4f
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,S Aravind,957532de
+info,registry,people,S Gopal,7a8bd078
+info,registry,people,SM Gugale,fdf8d681
+info,registry,people,SM Kazi,868e3639
+info,registry,people,SS Mundhe,0af3426f
+info,registry,people,STR Binny,bd17b45f
+ball,1,0.1,Maharashtra,SM Gugale,Chirag Khurana,R Vinay Kumar,4,0,,,,,,"",""
+ball,1,0.2,Maharashtra,SM Gugale,Chirag Khurana,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,0.3,Maharashtra,SM Gugale,Chirag Khurana,R Vinay Kumar,0,0,,,,,,lbw,SM Gugale
+ball,1,0.4,Maharashtra,KM Jadhav,Chirag Khurana,R Vinay Kumar,4,0,,,,,,"",""
+ball,1,0.5,Maharashtra,KM Jadhav,Chirag Khurana,R Vinay Kumar,4,0,,,,,,"",""
+ball,1,0.6,Maharashtra,KM Jadhav,Chirag Khurana,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,1.1,Maharashtra,KM Jadhav,Chirag Khurana,S Aravind,1,0,,,,,,"",""
+ball,1,1.2,Maharashtra,Chirag Khurana,KM Jadhav,S Aravind,0,0,,,,,,"",""
+ball,1,1.3,Maharashtra,Chirag Khurana,KM Jadhav,S Aravind,1,0,,,,,,"",""
+ball,1,1.4,Maharashtra,KM Jadhav,Chirag Khurana,S Aravind,1,0,,,,,,"",""
+ball,1,1.5,Maharashtra,Chirag Khurana,KM Jadhav,S Aravind,0,0,,,,,,caught,Chirag Khurana
+ball,1,1.6,Maharashtra,NS Naik,KM Jadhav,S Aravind,0,0,,,,,,"",""
+ball,1,2.1,Maharashtra,KM Jadhav,NS Naik,A Mithun,1,0,,,,,,"",""
+ball,1,2.2,Maharashtra,NS Naik,KM Jadhav,A Mithun,0,0,,,,,,"",""
+ball,1,2.3,Maharashtra,NS Naik,KM Jadhav,A Mithun,0,0,,,,,,"",""
+ball,1,2.4,Maharashtra,NS Naik,KM Jadhav,A Mithun,4,0,,,,,,"",""
+ball,1,2.5,Maharashtra,NS Naik,KM Jadhav,A Mithun,1,0,,,,,,"",""
+ball,1,2.6,Maharashtra,KM Jadhav,NS Naik,A Mithun,1,0,,,,,,"",""
+ball,1,3.1,Maharashtra,KM Jadhav,NS Naik,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,3.2,Maharashtra,KM Jadhav,NS Naik,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,3.3,Maharashtra,NS Naik,KM Jadhav,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,3.4,Maharashtra,KM Jadhav,NS Naik,R Vinay Kumar,0,0,,,,,,caught,KM Jadhav
+ball,1,3.5,Maharashtra,PJ Bhati,NS Naik,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,3.6,Maharashtra,PJ Bhati,NS Naik,R Vinay Kumar,5,0,,,,,,"",""
+ball,1,4.1,Maharashtra,PJ Bhati,NS Naik,A Mithun,0,0,,,,,,"",""
+ball,1,4.2,Maharashtra,PJ Bhati,NS Naik,A Mithun,1,0,,,,,,"",""
+ball,1,4.3,Maharashtra,NS Naik,PJ Bhati,A Mithun,1,0,,,,,,"",""
+ball,1,4.4,Maharashtra,PJ Bhati,NS Naik,A Mithun,0,0,,,,,,"",""
+ball,1,4.5,Maharashtra,PJ Bhati,NS Naik,A Mithun,1,0,,,,,,"",""
+ball,1,4.6,Maharashtra,NS Naik,PJ Bhati,A Mithun,1,0,,,,,,"",""
+ball,1,5.1,Maharashtra,NS Naik,PJ Bhati,S Aravind,1,0,,,,,,"",""
+ball,1,5.2,Maharashtra,PJ Bhati,NS Naik,S Aravind,0,0,,,,,,"",""
+ball,1,5.3,Maharashtra,PJ Bhati,NS Naik,S Aravind,1,0,,,,,,"",""
+ball,1,5.4,Maharashtra,NS Naik,PJ Bhati,S Aravind,1,0,,,,,,"",""
+ball,1,5.5,Maharashtra,PJ Bhati,NS Naik,S Aravind,1,0,,,,,,"",""
+ball,1,5.6,Maharashtra,NS Naik,PJ Bhati,S Aravind,1,0,,,,,,"",""
+ball,1,6.1,Maharashtra,NS Naik,PJ Bhati,A Mithun,1,0,,,,,,"",""
+ball,1,6.2,Maharashtra,PJ Bhati,NS Naik,A Mithun,0,0,,,,,,"",""
+ball,1,6.3,Maharashtra,PJ Bhati,NS Naik,A Mithun,1,0,,,,,,"",""
+ball,1,6.4,Maharashtra,NS Naik,PJ Bhati,A Mithun,1,0,,,,,,"",""
+ball,1,6.5,Maharashtra,PJ Bhati,NS Naik,A Mithun,4,0,,,,,,"",""
+ball,1,6.6,Maharashtra,PJ Bhati,NS Naik,A Mithun,1,0,,,,,,"",""
+ball,1,7.1,Maharashtra,PJ Bhati,NS Naik,J Suchith,0,0,,,,,,"",""
+ball,1,7.2,Maharashtra,PJ Bhati,NS Naik,J Suchith,1,0,,,,,,"",""
+ball,1,7.3,Maharashtra,NS Naik,PJ Bhati,J Suchith,1,0,,,,,,"",""
+ball,1,7.4,Maharashtra,PJ Bhati,NS Naik,J Suchith,0,0,,,,,,"",""
+ball,1,7.5,Maharashtra,PJ Bhati,NS Naik,J Suchith,4,0,,,,,,"",""
+ball,1,7.6,Maharashtra,PJ Bhati,NS Naik,J Suchith,1,0,,,,,,"",""
+ball,1,8.1,Maharashtra,PJ Bhati,NS Naik,STR Binny,4,0,,,,,,"",""
+ball,1,8.2,Maharashtra,PJ Bhati,NS Naik,STR Binny,1,0,,,,,,"",""
+ball,1,8.3,Maharashtra,NS Naik,PJ Bhati,STR Binny,4,0,,,,,,"",""
+ball,1,8.4,Maharashtra,NS Naik,PJ Bhati,STR Binny,0,0,,,,,,"",""
+ball,1,8.5,Maharashtra,NS Naik,PJ Bhati,STR Binny,1,0,,,,,,"",""
+ball,1,8.6,Maharashtra,PJ Bhati,NS Naik,STR Binny,1,0,,,,,,"",""
+ball,1,9.1,Maharashtra,PJ Bhati,NS Naik,J Suchith,6,0,,,,,,"",""
+ball,1,9.2,Maharashtra,PJ Bhati,NS Naik,J Suchith,1,0,,,,,,"",""
+ball,1,9.3,Maharashtra,NS Naik,PJ Bhati,J Suchith,0,0,,,,,,"",""
+ball,1,9.4,Maharashtra,NS Naik,PJ Bhati,J Suchith,1,0,,,,,,"",""
+ball,1,9.5,Maharashtra,PJ Bhati,NS Naik,J Suchith,0,0,,,,,,"",""
+ball,1,9.6,Maharashtra,PJ Bhati,NS Naik,J Suchith,1,0,,,,,,"",""
+ball,1,10.1,Maharashtra,PJ Bhati,NS Naik,S Gopal,1,0,,,,,,"",""
+ball,1,10.2,Maharashtra,NS Naik,PJ Bhati,S Gopal,1,0,,,,,,"",""
+ball,1,10.3,Maharashtra,PJ Bhati,NS Naik,S Gopal,1,0,,,,,,"",""
+ball,1,10.4,Maharashtra,NS Naik,PJ Bhati,S Gopal,0,1,1,,,,,"",""
+ball,1,10.5,Maharashtra,NS Naik,PJ Bhati,S Gopal,1,0,,,,,,"",""
+ball,1,10.6,Maharashtra,PJ Bhati,NS Naik,S Gopal,0,4,,,4,,,"",""
+ball,1,10.7,Maharashtra,PJ Bhati,NS Naik,S Gopal,1,0,,,,,,"",""
+ball,1,11.1,Maharashtra,PJ Bhati,NS Naik,J Suchith,1,0,,,,,,"",""
+ball,1,11.2,Maharashtra,NS Naik,PJ Bhati,J Suchith,4,0,,,,,,"",""
+ball,1,11.3,Maharashtra,NS Naik,PJ Bhati,J Suchith,6,0,,,,,,"",""
+ball,1,11.4,Maharashtra,NS Naik,PJ Bhati,J Suchith,1,0,,,,,,"",""
+ball,1,11.5,Maharashtra,PJ Bhati,NS Naik,J Suchith,0,0,,,,,,"",""
+ball,1,11.6,Maharashtra,PJ Bhati,NS Naik,J Suchith,0,0,,,,,,bowled,PJ Bhati
+ball,1,12.1,Maharashtra,NS Naik,AA Sanklecha,S Gopal,0,0,,,,,,"",""
+ball,1,12.2,Maharashtra,NS Naik,AA Sanklecha,S Gopal,2,0,,,,,,"",""
+ball,1,12.3,Maharashtra,NS Naik,AA Sanklecha,S Gopal,0,0,,,,,,"",""
+ball,1,12.4,Maharashtra,NS Naik,AA Sanklecha,S Gopal,0,1,,,,1,,"",""
+ball,1,12.5,Maharashtra,AA Sanklecha,NS Naik,S Gopal,1,0,,,,,,"",""
+ball,1,12.6,Maharashtra,NS Naik,AA Sanklecha,S Gopal,0,0,,,,,,"",""
+ball,1,13.1,Maharashtra,AA Sanklecha,NS Naik,STR Binny,6,0,,,,,,"",""
+ball,1,13.2,Maharashtra,AA Sanklecha,NS Naik,STR Binny,4,0,,,,,,"",""
+ball,1,13.3,Maharashtra,AA Sanklecha,NS Naik,STR Binny,0,0,,,,,,caught,AA Sanklecha
+ball,1,13.4,Maharashtra,AR Bawne,NS Naik,STR Binny,1,0,,,,,,"",""
+ball,1,13.5,Maharashtra,NS Naik,AR Bawne,STR Binny,1,0,,,,,,"",""
+ball,1,13.6,Maharashtra,AR Bawne,NS Naik,STR Binny,1,0,,,,,,"",""
+ball,1,14.1,Maharashtra,AR Bawne,NS Naik,S Gopal,1,0,,,,,,"",""
+ball,1,14.2,Maharashtra,NS Naik,AR Bawne,S Gopal,0,0,,,,,,"",""
+ball,1,14.3,Maharashtra,NS Naik,AR Bawne,S Gopal,6,0,,,,,,"",""
+ball,1,14.4,Maharashtra,NS Naik,AR Bawne,S Gopal,6,0,,,,,,"",""
+ball,1,14.5,Maharashtra,NS Naik,AR Bawne,S Gopal,6,0,,,,,,"",""
+ball,1,14.6,Maharashtra,NS Naik,AR Bawne,S Gopal,1,0,,,,,,"",""
+ball,1,15.1,Maharashtra,NS Naik,AR Bawne,S Aravind,0,0,,,,,,"",""
+ball,1,15.2,Maharashtra,NS Naik,AR Bawne,S Aravind,1,0,,,,,,"",""
+ball,1,15.3,Maharashtra,AR Bawne,NS Naik,S Aravind,1,0,,,,,,"",""
+ball,1,15.4,Maharashtra,NS Naik,AR Bawne,S Aravind,2,0,,,,,,"",""
+ball,1,15.5,Maharashtra,NS Naik,AR Bawne,S Aravind,0,1,,,,1,,"",""
+ball,1,15.6,Maharashtra,AR Bawne,NS Naik,S Aravind,1,0,,,,,,"",""
+ball,1,16.1,Maharashtra,AR Bawne,NS Naik,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,16.2,Maharashtra,AR Bawne,NS Naik,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,16.3,Maharashtra,AR Bawne,NS Naik,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,16.4,Maharashtra,NS Naik,AR Bawne,R Vinay Kumar,4,0,,,,,,"",""
+ball,1,16.5,Maharashtra,NS Naik,AR Bawne,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,16.6,Maharashtra,AR Bawne,NS Naik,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,17.1,Maharashtra,NS Naik,AR Bawne,S Aravind,1,0,,,,,,"",""
+ball,1,17.2,Maharashtra,AR Bawne,NS Naik,S Aravind,6,0,,,,,,"",""
+ball,1,17.3,Maharashtra,AR Bawne,NS Naik,S Aravind,4,0,,,,,,"",""
+ball,1,17.4,Maharashtra,AR Bawne,NS Naik,S Aravind,4,0,,,,,,"",""
+ball,1,17.5,Maharashtra,AR Bawne,NS Naik,S Aravind,6,0,,,,,,"",""
+ball,1,17.6,Maharashtra,AR Bawne,NS Naik,S Aravind,1,0,,,,,,"",""
+ball,1,18.1,Maharashtra,AR Bawne,NS Naik,R Vinay Kumar,0,0,,,,,,"",""
+ball,1,18.2,Maharashtra,AR Bawne,NS Naik,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,18.3,Maharashtra,NS Naik,AR Bawne,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,18.4,Maharashtra,AR Bawne,NS Naik,R Vinay Kumar,0,1,1,,,,,"",""
+ball,1,18.5,Maharashtra,AR Bawne,NS Naik,R Vinay Kumar,1,0,,,,,,"",""
+ball,1,18.6,Maharashtra,NS Naik,AR Bawne,R Vinay Kumar,2,0,,,,,,"",""
+ball,1,18.7,Maharashtra,NS Naik,AR Bawne,R Vinay Kumar,0,0,,,,,,caught,NS Naik
+ball,1,19.1,Maharashtra,RA Tripathi,AR Bawne,A Mithun,0,0,,,,,,caught,RA Tripathi
+ball,1,19.2,Maharashtra,AR Bawne,SS Mundhe,A Mithun,0,1,,1,,,,"",""
+ball,1,19.3,Maharashtra,AR Bawne,SS Mundhe,A Mithun,4,0,,,,,,"",""
+ball,1,19.4,Maharashtra,AR Bawne,SS Mundhe,A Mithun,0,0,,,,,,caught,AR Bawne
+ball,1,19.5,Maharashtra,SS Mundhe,SM Kazi,A Mithun,1,0,,,,,,"",""
+ball,1,19.6,Maharashtra,SM Kazi,SS Mundhe,A Mithun,4,0,,,,,,"",""
+ball,1,19.7,Maharashtra,SM Kazi,SS Mundhe,A Mithun,1,0,,,,,,"",""
+ball,2,0.1,Karnataka,Mohammed Taha,RV Uthappa,DJ Muthuswami,4,0,,,,,,"",""
+ball,2,0.2,Karnataka,Mohammed Taha,RV Uthappa,DJ Muthuswami,0,0,,,,,,"",""
+ball,2,0.3,Karnataka,Mohammed Taha,RV Uthappa,DJ Muthuswami,0,0,,,,,,bowled,Mohammed Taha
+ball,2,0.4,Karnataka,Aniruddha Joshi,RV Uthappa,DJ Muthuswami,0,0,,,,,,lbw,Aniruddha Joshi
+ball,2,0.5,Karnataka,CM Gautam,RV Uthappa,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,0.6,Karnataka,RV Uthappa,CM Gautam,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,1.1,Karnataka,RV Uthappa,CM Gautam,AA Sanklecha,0,0,,,,,,"",""
+ball,2,1.2,Karnataka,RV Uthappa,CM Gautam,AA Sanklecha,1,0,,,,,,"",""
+ball,2,1.3,Karnataka,CM Gautam,RV Uthappa,AA Sanklecha,0,0,,,,,,"",""
+ball,2,1.4,Karnataka,CM Gautam,RV Uthappa,AA Sanklecha,1,0,,,,,,"",""
+ball,2,1.5,Karnataka,RV Uthappa,CM Gautam,AA Sanklecha,0,0,,,,,,"",""
+ball,2,1.6,Karnataka,RV Uthappa,CM Gautam,AA Sanklecha,0,0,,,,,,"",""
+ball,2,2.1,Karnataka,CM Gautam,RV Uthappa,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,2.2,Karnataka,RV Uthappa,CM Gautam,DJ Muthuswami,0,0,,,,,,"",""
+ball,2,2.3,Karnataka,RV Uthappa,CM Gautam,DJ Muthuswami,4,0,,,,,,"",""
+ball,2,2.4,Karnataka,RV Uthappa,CM Gautam,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,2.5,Karnataka,CM Gautam,RV Uthappa,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,2.6,Karnataka,RV Uthappa,CM Gautam,DJ Muthuswami,0,0,,,,,,"",""
+ball,2,3.1,Karnataka,CM Gautam,RV Uthappa,AA Sanklecha,0,0,,,,,,"",""
+ball,2,3.2,Karnataka,CM Gautam,RV Uthappa,AA Sanklecha,4,0,,,,,,"",""
+ball,2,3.3,Karnataka,CM Gautam,RV Uthappa,AA Sanklecha,4,0,,,,,,"",""
+ball,2,3.4,Karnataka,CM Gautam,RV Uthappa,AA Sanklecha,0,0,,,,,,"",""
+ball,2,3.5,Karnataka,CM Gautam,RV Uthappa,AA Sanklecha,0,0,,,,,,caught,CM Gautam
+ball,2,3.6,Karnataka,RV Uthappa,MA Agarwal,AA Sanklecha,0,0,,,,,,"",""
+ball,2,4.1,Karnataka,MA Agarwal,RV Uthappa,DJ Muthuswami,2,0,,,,,,"",""
+ball,2,4.2,Karnataka,MA Agarwal,RV Uthappa,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,4.3,Karnataka,RV Uthappa,MA Agarwal,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,4.4,Karnataka,MA Agarwal,RV Uthappa,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,4.5,Karnataka,RV Uthappa,MA Agarwal,DJ Muthuswami,4,0,,,,,,"",""
+ball,2,4.6,Karnataka,RV Uthappa,MA Agarwal,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,5.1,Karnataka,RV Uthappa,MA Agarwal,AA Sanklecha,6,0,,,,,,"",""
+ball,2,5.2,Karnataka,RV Uthappa,MA Agarwal,AA Sanklecha,1,0,,,,,,"",""
+ball,2,5.3,Karnataka,MA Agarwal,RV Uthappa,AA Sanklecha,0,0,,,,,,"",""
+ball,2,5.4,Karnataka,MA Agarwal,RV Uthappa,AA Sanklecha,4,0,,,,,,"",""
+ball,2,5.5,Karnataka,MA Agarwal,RV Uthappa,AA Sanklecha,1,0,,,,,,"",""
+ball,2,5.6,Karnataka,RV Uthappa,MA Agarwal,AA Sanklecha,0,0,,,,,,"",""
+ball,2,6.1,Karnataka,MA Agarwal,RV Uthappa,SS Mundhe,0,0,,,,,,"",""
+ball,2,6.2,Karnataka,MA Agarwal,RV Uthappa,SS Mundhe,0,0,,,,,,"",""
+ball,2,6.3,Karnataka,MA Agarwal,RV Uthappa,SS Mundhe,1,0,,,,,,"",""
+ball,2,6.4,Karnataka,RV Uthappa,MA Agarwal,SS Mundhe,0,0,,,,,,"",""
+ball,2,6.5,Karnataka,RV Uthappa,MA Agarwal,SS Mundhe,1,0,,,,,,"",""
+ball,2,6.6,Karnataka,MA Agarwal,RV Uthappa,SS Mundhe,1,0,,,,,,"",""
+ball,2,7.1,Karnataka,MA Agarwal,RV Uthappa,RA Tripathi,0,0,,,,,,"",""
+ball,2,7.2,Karnataka,MA Agarwal,RV Uthappa,RA Tripathi,4,0,,,,,,"",""
+ball,2,7.3,Karnataka,MA Agarwal,RV Uthappa,RA Tripathi,1,0,,,,,,"",""
+ball,2,7.4,Karnataka,RV Uthappa,MA Agarwal,RA Tripathi,4,0,,,,,,"",""
+ball,2,7.5,Karnataka,RV Uthappa,MA Agarwal,RA Tripathi,1,0,,,,,,"",""
+ball,2,7.6,Karnataka,MA Agarwal,RV Uthappa,RA Tripathi,0,0,,,,,,caught,MA Agarwal
+ball,2,8.1,Karnataka,RV Uthappa,STR Binny,SS Mundhe,1,0,,,,,,"",""
+ball,2,8.2,Karnataka,STR Binny,RV Uthappa,SS Mundhe,0,0,,,,,,"",""
+ball,2,8.3,Karnataka,STR Binny,RV Uthappa,SS Mundhe,0,0,,,,,,lbw,STR Binny
+ball,2,8.4,Karnataka,R Vinay Kumar,RV Uthappa,SS Mundhe,0,0,,,,,,"",""
+ball,2,8.5,Karnataka,R Vinay Kumar,RV Uthappa,SS Mundhe,1,0,,,,,,"",""
+ball,2,8.6,Karnataka,RV Uthappa,R Vinay Kumar,SS Mundhe,0,0,,,,,,"",""
+ball,2,9.1,Karnataka,R Vinay Kumar,RV Uthappa,RA Tripathi,1,0,,,,,,"",""
+ball,2,9.2,Karnataka,RV Uthappa,R Vinay Kumar,RA Tripathi,1,0,,,,,,"",""
+ball,2,9.3,Karnataka,R Vinay Kumar,RV Uthappa,RA Tripathi,1,0,,,,,,"",""
+ball,2,9.4,Karnataka,RV Uthappa,R Vinay Kumar,RA Tripathi,1,0,,,,,,"",""
+ball,2,9.5,Karnataka,R Vinay Kumar,RV Uthappa,RA Tripathi,0,0,,,,,,"",""
+ball,2,9.6,Karnataka,R Vinay Kumar,RV Uthappa,RA Tripathi,4,0,,,,,,"",""
+ball,2,10.1,Karnataka,RV Uthappa,R Vinay Kumar,SS Mundhe,1,0,,,,,,"",""
+ball,2,10.2,Karnataka,R Vinay Kumar,RV Uthappa,SS Mundhe,6,0,,,,,,"",""
+ball,2,10.3,Karnataka,R Vinay Kumar,RV Uthappa,SS Mundhe,6,0,,,,,,"",""
+ball,2,10.4,Karnataka,R Vinay Kumar,RV Uthappa,SS Mundhe,1,0,,,,,,"",""
+ball,2,10.5,Karnataka,RV Uthappa,R Vinay Kumar,SS Mundhe,4,0,,,,,,"",""
+ball,2,10.6,Karnataka,RV Uthappa,R Vinay Kumar,SS Mundhe,1,0,,,,,,"",""
+ball,2,11.1,Karnataka,RV Uthappa,R Vinay Kumar,SM Gugale,2,0,,,,,,"",""
+ball,2,11.2,Karnataka,RV Uthappa,R Vinay Kumar,SM Gugale,0,0,,,,,,"",""
+ball,2,11.3,Karnataka,RV Uthappa,R Vinay Kumar,SM Gugale,1,0,,,,,,"",""
+ball,2,11.4,Karnataka,R Vinay Kumar,RV Uthappa,SM Gugale,1,0,,,,,,"",""
+ball,2,11.5,Karnataka,RV Uthappa,R Vinay Kumar,SM Gugale,6,0,,,,,,"",""
+ball,2,11.6,Karnataka,RV Uthappa,R Vinay Kumar,SM Gugale,4,0,,,,,,"",""
+ball,2,12.1,Karnataka,R Vinay Kumar,RV Uthappa,RA Tripathi,0,1,1,,,,,"",""
+ball,2,12.2,Karnataka,R Vinay Kumar,RV Uthappa,RA Tripathi,1,0,,,,,,"",""
+ball,2,12.3,Karnataka,RV Uthappa,R Vinay Kumar,RA Tripathi,1,0,,,,,,"",""
+ball,2,12.4,Karnataka,R Vinay Kumar,RV Uthappa,RA Tripathi,1,0,,,,,,"",""
+ball,2,12.5,Karnataka,RV Uthappa,R Vinay Kumar,RA Tripathi,0,1,,,,1,,"",""
+ball,2,12.6,Karnataka,R Vinay Kumar,RV Uthappa,RA Tripathi,0,0,,,,,,caught,R Vinay Kumar
+ball,2,12.7,Karnataka,RV Uthappa,S Gopal,RA Tripathi,1,0,,,,,,"",""
+ball,2,13.1,Karnataka,RV Uthappa,S Gopal,SM Gugale,2,0,,,,,,"",""
+ball,2,13.2,Karnataka,RV Uthappa,S Gopal,SM Gugale,1,0,,,,,,"",""
+ball,2,13.3,Karnataka,S Gopal,RV Uthappa,SM Gugale,2,0,,,,,,"",""
+ball,2,13.4,Karnataka,S Gopal,RV Uthappa,SM Gugale,1,0,,,,,,run out,S Gopal
+ball,2,13.5,Karnataka,J Suchith,RV Uthappa,SM Gugale,1,0,,,,,,"",""
+ball,2,13.6,Karnataka,RV Uthappa,J Suchith,SM Gugale,1,0,,,,,,"",""
+ball,2,14.1,Karnataka,RV Uthappa,J Suchith,RA Tripathi,1,0,,,,,,"",""
+ball,2,14.2,Karnataka,J Suchith,RV Uthappa,RA Tripathi,1,0,,,,,,"",""
+ball,2,14.3,Karnataka,RV Uthappa,J Suchith,RA Tripathi,1,0,,,,,,"",""
+ball,2,14.4,Karnataka,J Suchith,RV Uthappa,RA Tripathi,0,0,,,,,,"",""
+ball,2,14.5,Karnataka,J Suchith,RV Uthappa,RA Tripathi,1,0,,,,,,"",""
+ball,2,14.6,Karnataka,RV Uthappa,J Suchith,RA Tripathi,4,0,,,,,,"",""
+ball,2,15.1,Karnataka,J Suchith,RV Uthappa,SM Gugale,0,0,,,,,,caught,J Suchith
+ball,2,15.2,Karnataka,RV Uthappa,A Mithun,SM Gugale,1,0,,,,,,"",""
+ball,2,15.3,Karnataka,A Mithun,RV Uthappa,SM Gugale,4,0,,,,,,"",""
+ball,2,15.4,Karnataka,A Mithun,RV Uthappa,SM Gugale,1,1,,1,,,,"",""
+ball,2,15.5,Karnataka,RV Uthappa,A Mithun,SM Gugale,1,0,,,,,,"",""
+ball,2,15.6,Karnataka,A Mithun,RV Uthappa,SM Gugale,1,0,,,,,,"",""
+ball,2,15.7,Karnataka,RV Uthappa,A Mithun,SM Gugale,4,0,,,,,,"",""
+ball,2,16.1,Karnataka,A Mithun,RV Uthappa,DJ Muthuswami,0,0,,,,,,"",""
+ball,2,16.2,Karnataka,A Mithun,RV Uthappa,DJ Muthuswami,1,0,,,,,,"",""
+ball,2,16.3,Karnataka,RV Uthappa,A Mithun,DJ Muthuswami,4,0,,,,,,"",""
+ball,2,16.4,Karnataka,RV Uthappa,A Mithun,DJ Muthuswami,0,1,,,,1,,"",""
+ball,2,16.5,Karnataka,A Mithun,RV Uthappa,DJ Muthuswami,0,0,,,,,,"",""
+ball,2,16.6,Karnataka,A Mithun,RV Uthappa,DJ Muthuswami,2,0,,,,,,"",""
+ball,2,17.1,Karnataka,RV Uthappa,A Mithun,SM Gugale,0,0,,,,,,"",""
+ball,2,17.2,Karnataka,RV Uthappa,A Mithun,SM Gugale,0,1,1,,,,,"",""
+ball,2,17.3,Karnataka,RV Uthappa,A Mithun,SM Gugale,4,0,,,,,,"",""
+ball,2,17.4,Karnataka,RV Uthappa,A Mithun,SM Gugale,1,0,,,,,,"",""
+ball,2,17.5,Karnataka,A Mithun,RV Uthappa,SM Gugale,1,0,,,,,,"",""
+ball,2,17.6,Karnataka,RV Uthappa,A Mithun,SM Gugale,4,1,,1,,,,"",""
+ball,2,17.7,Karnataka,RV Uthappa,A Mithun,SM Gugale,1,0,,,,,,"",""
+ball,2,17.8,Karnataka,A Mithun,RV Uthappa,SM Gugale,0,0,,,,,,"",""
+ball,2,18.1,Karnataka,RV Uthappa,A Mithun,AA Sanklecha,0,0,,,,,,caught,RV Uthappa
+ball,2,18.2,Karnataka,S Aravind,A Mithun,AA Sanklecha,1,0,,,,,,"",""
+ball,2,18.3,Karnataka,A Mithun,S Aravind,AA Sanklecha,0,0,,,,,,caught,A Mithun

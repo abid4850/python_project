@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Central Districts
+info,team,Otago
+info,gender,female
+info,season,2022/23
+info,date,2023/01/21
+info,event,Women's Super Smash
+info,match_number,20
+info,venue,"Saxton Oval, Nelson"
+info,city,Nelson
+info,toss_winner,Otago
+info,toss_decision,field
+info,umpire,N Louw
+info,umpire,TJ Parlane
+info,reserve_umpire,Kim Cotton
+info,tv_umpire,JM Dempsey
+info,match_referee,RE Hayward
+info,winner,Otago
+info,winner_wickets,4
+info,player,Central Districts,NC Dodd
+info,player,Central Districts,GK Atkinson
+info,player,Central Districts,JM Watkin
+info,player,Central Districts,KA Tomlinson
+info,player,Central Districts,MJ Greig
+info,player,Central Districts,HM Rowe
+info,player,Central Districts,KJ Gaging
+info,player,Central Districts,RA Mair
+info,player,Central Districts,CL Green
+info,player,Central Districts,FDM Devonshire
+info,player,Central Districts,OJS Bartlett
+info,player,Otago,IR James
+info,player,Otago,ON Gain
+info,player,Otago,PM Inglis
+info,player,Otago,KE Ebrahim
+info,player,Otago,CG Blakely
+info,player,Otago,FC Leydon-Davis
+info,player,Otago,HNK Jensen
+info,player,Otago,EJ Carson
+info,player,Otago,EJ Black
+info,player,Otago,SA Oldershaw
+info,player,Otago,ME Loe
+info,registry,people,CG Blakely,8f999ed5
+info,registry,people,CL Green,0160b1d9
+info,registry,people,EJ Black,2817e17a
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Leydon-Davis,b91efad5
+info,registry,people,FDM Devonshire,c8b0b64c
+info,registry,people,GK Atkinson,add6bd03
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,IR James,57bdbc16
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JM Watkin,7239a365
+info,registry,people,KA Tomlinson,83d6e306
+info,registry,people,KE Ebrahim,7c0055c1
+info,registry,people,KJ Gaging,7a759a8a
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,ME Loe,37f93dc8
+info,registry,people,MJ Greig,84c422e3
+info,registry,people,N Louw,465c4770
+info,registry,people,NC Dodd,7260e1e9
+info,registry,people,OJS Bartlett,fb8c6afa
+info,registry,people,ON Gain,67913804
+info,registry,people,PM Inglis,e4a71d18
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,SA Oldershaw,93b4f6f6
+info,registry,people,TJ Parlane,3cfc24b0
+ball,1,0.1,Central Districts,NC Dodd,GK Atkinson,EJ Black,0,0,,,,,,"",""
+ball,1,0.2,Central Districts,NC Dodd,GK Atkinson,EJ Black,1,0,,,,,,"",""
+ball,1,0.3,Central Districts,GK Atkinson,NC Dodd,EJ Black,2,0,,,,,,"",""
+ball,1,0.4,Central Districts,GK Atkinson,NC Dodd,EJ Black,0,0,,,,,,"",""
+ball,1,0.5,Central Districts,GK Atkinson,NC Dodd,EJ Black,0,0,,,,,,caught,GK Atkinson
+ball,1,0.6,Central Districts,JM Watkin,NC Dodd,EJ Black,0,0,,,,,,"",""
+ball,1,1.1,Central Districts,NC Dodd,JM Watkin,HNK Jensen,0,0,,,,,,"",""
+ball,1,1.2,Central Districts,NC Dodd,JM Watkin,HNK Jensen,4,0,,,,,,"",""
+ball,1,1.3,Central Districts,NC Dodd,JM Watkin,HNK Jensen,4,0,,,,,,"",""
+ball,1,1.4,Central Districts,NC Dodd,JM Watkin,HNK Jensen,4,0,,,,,,"",""
+ball,1,1.5,Central Districts,NC Dodd,JM Watkin,HNK Jensen,0,0,,,,,,"",""
+ball,1,1.6,Central Districts,NC Dodd,JM Watkin,HNK Jensen,2,0,,,,,,"",""
+ball,1,2.1,Central Districts,JM Watkin,NC Dodd,EJ Black,0,0,,,,,,"",""
+ball,1,2.2,Central Districts,JM Watkin,NC Dodd,EJ Black,1,0,,,,,,"",""
+ball,1,2.3,Central Districts,NC Dodd,JM Watkin,EJ Black,0,0,,,,,,"",""
+ball,1,2.4,Central Districts,NC Dodd,JM Watkin,EJ Black,1,0,,,,,,"",""
+ball,1,2.5,Central Districts,JM Watkin,NC Dodd,EJ Black,0,1,1,,,,,"",""
+ball,1,2.6,Central Districts,JM Watkin,NC Dodd,EJ Black,0,1,1,,,,,"",""
+ball,1,2.7,Central Districts,JM Watkin,NC Dodd,EJ Black,0,0,,,,,,caught,JM Watkin
+ball,1,2.8,Central Districts,KA Tomlinson,NC Dodd,EJ Black,0,0,,,,,,"",""
+ball,1,3.1,Central Districts,NC Dodd,KA Tomlinson,HNK Jensen,2,0,,,,,,"",""
+ball,1,3.2,Central Districts,NC Dodd,KA Tomlinson,HNK Jensen,0,0,,,,,,"",""
+ball,1,3.3,Central Districts,NC Dodd,KA Tomlinson,HNK Jensen,1,0,,,,,,"",""
+ball,1,3.4,Central Districts,KA Tomlinson,NC Dodd,HNK Jensen,1,0,,,,,,"",""
+ball,1,3.5,Central Districts,NC Dodd,KA Tomlinson,HNK Jensen,0,0,,,,,,"",""
+ball,1,3.6,Central Districts,NC Dodd,KA Tomlinson,HNK Jensen,0,0,,,,,,"",""
+ball,1,4.1,Central Districts,KA Tomlinson,NC Dodd,KE Ebrahim,1,0,,,,,,"",""
+ball,1,4.2,Central Districts,NC Dodd,KA Tomlinson,KE Ebrahim,0,0,,,,,,"",""
+ball,1,4.3,Central Districts,NC Dodd,KA Tomlinson,KE Ebrahim,1,0,,,,,,"",""
+ball,1,4.4,Central Districts,KA Tomlinson,NC Dodd,KE Ebrahim,0,1,1,,,,,"",""
+ball,1,4.5,Central Districts,KA Tomlinson,NC Dodd,KE Ebrahim,0,0,,,,,,"",""
+ball,1,4.6,Central Districts,KA Tomlinson,NC Dodd,KE Ebrahim,0,0,,,,,,"",""
+ball,1,4.7,Central Districts,KA Tomlinson,NC Dodd,KE Ebrahim,0,0,,,,,,"",""
+ball,1,5.1,Central Districts,NC Dodd,KA Tomlinson,EJ Carson,1,0,,,,,,"",""
+ball,1,5.2,Central Districts,KA Tomlinson,NC Dodd,EJ Carson,4,0,,,,,,"",""
+ball,1,5.3,Central Districts,KA Tomlinson,NC Dodd,EJ Carson,4,0,,,,,,"",""
+ball,1,5.4,Central Districts,KA Tomlinson,NC Dodd,EJ Carson,4,0,,,,,,"",""
+ball,1,5.5,Central Districts,KA Tomlinson,NC Dodd,EJ Carson,1,0,,,,,,"",""
+ball,1,5.6,Central Districts,NC Dodd,KA Tomlinson,EJ Carson,0,0,,,,,,"",""
+ball,1,6.1,Central Districts,KA Tomlinson,NC Dodd,KE Ebrahim,0,0,,,,,,"",""
+ball,1,6.2,Central Districts,KA Tomlinson,NC Dodd,KE Ebrahim,0,0,,,,,,"",""
+ball,1,6.3,Central Districts,KA Tomlinson,NC Dodd,KE Ebrahim,1,0,,,,,,"",""
+ball,1,6.4,Central Districts,NC Dodd,KA Tomlinson,KE Ebrahim,4,0,,,,,,"",""
+ball,1,6.5,Central Districts,NC Dodd,KA Tomlinson,KE Ebrahim,1,0,,,,,,"",""
+ball,1,6.6,Central Districts,KA Tomlinson,NC Dodd,KE Ebrahim,1,0,,,,,,"",""
+ball,1,7.1,Central Districts,KA Tomlinson,NC Dodd,EJ Carson,4,0,,,,,,"",""
+ball,1,7.2,Central Districts,KA Tomlinson,NC Dodd,EJ Carson,0,0,,,,,,bowled,KA Tomlinson
+ball,1,7.3,Central Districts,MJ Greig,NC Dodd,EJ Carson,0,1,1,,,,,"",""
+ball,1,7.4,Central Districts,MJ Greig,NC Dodd,EJ Carson,0,0,,,,,,"",""
+ball,1,7.5,Central Districts,MJ Greig,NC Dodd,EJ Carson,0,0,,,,,,"",""
+ball,1,7.6,Central Districts,MJ Greig,NC Dodd,EJ Carson,1,0,,,,,,"",""
+ball,1,7.7,Central Districts,NC Dodd,MJ Greig,EJ Carson,1,0,,,,,,"",""
+ball,1,8.1,Central Districts,NC Dodd,MJ Greig,ME Loe,1,0,,,,,,"",""
+ball,1,8.2,Central Districts,MJ Greig,NC Dodd,ME Loe,1,0,,,,,,"",""
+ball,1,8.3,Central Districts,NC Dodd,MJ Greig,ME Loe,0,0,,,,,,"",""
+ball,1,8.4,Central Districts,NC Dodd,MJ Greig,ME Loe,0,0,,,,,,"",""
+ball,1,8.5,Central Districts,NC Dodd,MJ Greig,ME Loe,4,0,,,,,,"",""
+ball,1,8.6,Central Districts,NC Dodd,MJ Greig,ME Loe,1,0,,,,,,"",""
+ball,1,9.1,Central Districts,NC Dodd,MJ Greig,SA Oldershaw,1,0,,,,,,"",""
+ball,1,9.2,Central Districts,MJ Greig,NC Dodd,SA Oldershaw,0,0,,,,,,"",""
+ball,1,9.3,Central Districts,MJ Greig,NC Dodd,SA Oldershaw,0,0,,,,,,"",""
+ball,1,9.4,Central Districts,MJ Greig,NC Dodd,SA Oldershaw,4,0,,,,,,"",""
+ball,1,9.5,Central Districts,MJ Greig,NC Dodd,SA Oldershaw,1,0,,,,,,"",""
+ball,1,9.6,Central Districts,NC Dodd,MJ Greig,SA Oldershaw,1,0,,,,,,"",""
+ball,1,10.1,Central Districts,NC Dodd,MJ Greig,EJ Black,2,0,,,,,,"",""
+ball,1,10.2,Central Districts,NC Dodd,MJ Greig,EJ Black,1,0,,,,,,"",""
+ball,1,10.3,Central Districts,MJ Greig,NC Dodd,EJ Black,0,0,,,,,,"",""
+ball,1,10.4,Central Districts,MJ Greig,NC Dodd,EJ Black,0,0,,,,,,"",""
+ball,1,10.5,Central Districts,MJ Greig,NC Dodd,EJ Black,0,1,1,,,,,"",""
+ball,1,10.6,Central Districts,MJ Greig,NC Dodd,EJ Black,0,0,,,,,,"",""
+ball,1,10.7,Central Districts,MJ Greig,NC Dodd,EJ Black,0,0,,,,,,bowled,MJ Greig
+ball,1,11.1,Central Districts,NC Dodd,HM Rowe,SA Oldershaw,2,0,,,,,,"",""
+ball,1,11.2,Central Districts,NC Dodd,HM Rowe,SA Oldershaw,1,0,,,,,,"",""
+ball,1,11.3,Central Districts,HM Rowe,NC Dodd,SA Oldershaw,0,0,,,,,,"",""
+ball,1,11.4,Central Districts,HM Rowe,NC Dodd,SA Oldershaw,1,0,,,,,,"",""
+ball,1,11.5,Central Districts,NC Dodd,HM Rowe,SA Oldershaw,1,0,,,,,,"",""
+ball,1,11.6,Central Districts,HM Rowe,NC Dodd,SA Oldershaw,1,0,,,,,,"",""
+ball,1,12.1,Central Districts,HM Rowe,NC Dodd,ME Loe,0,0,,,,,,"",""
+ball,1,12.2,Central Districts,HM Rowe,NC Dodd,ME Loe,1,0,,,,,,"",""
+ball,1,12.3,Central Districts,NC Dodd,HM Rowe,ME Loe,1,0,,,,,,"",""
+ball,1,12.4,Central Districts,HM Rowe,NC Dodd,ME Loe,1,0,,,,,,"",""
+ball,1,12.5,Central Districts,NC Dodd,HM Rowe,ME Loe,6,0,,,,,,"",""
+ball,1,12.6,Central Districts,NC Dodd,HM Rowe,ME Loe,1,0,,,,,,"",""
+ball,1,13.1,Central Districts,NC Dodd,HM Rowe,SA Oldershaw,1,0,,,,,,"",""
+ball,1,13.2,Central Districts,HM Rowe,NC Dodd,SA Oldershaw,0,0,,,,,,"",""
+ball,1,13.3,Central Districts,HM Rowe,NC Dodd,SA Oldershaw,0,0,,,,,,"",""
+ball,1,13.4,Central Districts,HM Rowe,NC Dodd,SA Oldershaw,1,0,,,,,,"",""
+ball,1,13.5,Central Districts,NC Dodd,HM Rowe,SA Oldershaw,1,0,,,,,,"",""
+ball,1,13.6,Central Districts,HM Rowe,NC Dodd,SA Oldershaw,1,0,,,,,,"",""
+ball,1,14.1,Central Districts,HM Rowe,NC Dodd,KE Ebrahim,1,0,,,,,,"",""
+ball,1,14.2,Central Districts,NC Dodd,HM Rowe,KE Ebrahim,1,0,,,,,,"",""
+ball,1,14.3,Central Districts,HM Rowe,NC Dodd,KE Ebrahim,1,0,,,,,,"",""
+ball,1,14.4,Central Districts,NC Dodd,HM Rowe,KE Ebrahim,1,0,,,,,,"",""
+ball,1,14.5,Central Districts,HM Rowe,NC Dodd,KE Ebrahim,1,0,,,,,,"",""
+ball,1,14.6,Central Districts,NC Dodd,HM Rowe,KE Ebrahim,2,0,,,,,,"",""
+ball,1,15.1,Central Districts,HM Rowe,NC Dodd,HNK Jensen,2,0,,,,,,"",""
+ball,1,15.2,Central Districts,HM Rowe,NC Dodd,HNK Jensen,1,0,,,,,,"",""
+ball,1,15.3,Central Districts,NC Dodd,HM Rowe,HNK Jensen,1,0,,,,,,"",""
+ball,1,15.4,Central Districts,HM Rowe,NC Dodd,HNK Jensen,0,0,,,,,,bowled,HM Rowe
+ball,1,15.5,Central Districts,KJ Gaging,NC Dodd,HNK Jensen,1,0,,,,,,"",""
+ball,1,15.6,Central Districts,NC Dodd,KJ Gaging,HNK Jensen,1,0,,,,,,"",""
+ball,1,16.1,Central Districts,NC Dodd,KJ Gaging,EJ Black,1,0,,,,,,"",""
+ball,1,16.2,Central Districts,KJ Gaging,NC Dodd,EJ Black,1,0,,,,,,"",""
+ball,1,16.3,Central Districts,NC Dodd,KJ Gaging,EJ Black,0,0,,,,,,caught,NC Dodd
+ball,1,16.4,Central Districts,RA Mair,KJ Gaging,EJ Black,1,0,,,,,,"",""
+ball,1,16.5,Central Districts,KJ Gaging,RA Mair,EJ Black,1,0,,,,,,"",""
+ball,1,16.6,Central Districts,RA Mair,KJ Gaging,EJ Black,0,0,,,,,,"",""
+ball,1,17.1,Central Districts,KJ Gaging,RA Mair,EJ Carson,1,0,,,,,,"",""
+ball,1,17.2,Central Districts,RA Mair,KJ Gaging,EJ Carson,1,0,,,,,,"",""
+ball,1,17.3,Central Districts,KJ Gaging,RA Mair,EJ Carson,0,0,,,,,,"",""
+ball,1,17.4,Central Districts,KJ Gaging,RA Mair,EJ Carson,0,0,,,,,,bowled,KJ Gaging
+ball,1,17.5,Central Districts,CL Green,RA Mair,EJ Carson,1,0,,,,,,"",""
+ball,1,17.6,Central Districts,RA Mair,CL Green,EJ Carson,1,0,,,,,,"",""
+ball,1,18.1,Central Districts,RA Mair,CL Green,KE Ebrahim,1,0,,,,,,"",""
+ball,1,18.2,Central Districts,CL Green,RA Mair,KE Ebrahim,0,0,,,,,,run out,CL Green
+ball,1,18.3,Central Districts,RA Mair,FDM Devonshire,KE Ebrahim,1,0,,,,,,"",""
+ball,1,18.4,Central Districts,FDM Devonshire,RA Mair,KE Ebrahim,1,0,,,,,,"",""
+ball,1,18.5,Central Districts,RA Mair,FDM Devonshire,KE Ebrahim,1,0,,,,,,"",""
+ball,1,18.6,Central Districts,FDM Devonshire,RA Mair,KE Ebrahim,1,0,,,,,,"",""
+ball,1,19.1,Central Districts,FDM Devonshire,RA Mair,HNK Jensen,2,0,,,,,,"",""
+ball,1,19.2,Central Districts,FDM Devonshire,RA Mair,HNK Jensen,4,0,,,,,,"",""
+ball,1,19.3,Central Districts,FDM Devonshire,RA Mair,HNK Jensen,1,0,,,,,,"",""
+ball,1,19.4,Central Districts,RA Mair,FDM Devonshire,HNK Jensen,2,0,,,,,,"",""
+ball,1,19.5,Central Districts,RA Mair,FDM Devonshire,HNK Jensen,0,0,,,,,,"",""
+ball,1,19.6,Central Districts,RA Mair,FDM Devonshire,HNK Jensen,1,0,,,,,,run out,FDM Devonshire
+ball,2,0.1,Otago,IR James,ON Gain,CL Green,0,0,,,,,,"",""
+ball,2,0.2,Otago,IR James,ON Gain,CL Green,2,0,,,,,,"",""
+ball,2,0.3,Otago,IR James,ON Gain,CL Green,6,0,,,,,,"",""
+ball,2,0.4,Otago,IR James,ON Gain,CL Green,1,0,,,,,,"",""
+ball,2,0.5,Otago,ON Gain,IR James,CL Green,1,0,,,,,,"",""
+ball,2,0.6,Otago,IR James,ON Gain,CL Green,0,1,1,,,,,"",""
+ball,2,0.7,Otago,IR James,ON Gain,CL Green,4,0,,,,,,"",""
+ball,2,1.1,Otago,ON Gain,IR James,HM Rowe,0,0,,,,,,"",""
+ball,2,1.2,Otago,ON Gain,IR James,HM Rowe,0,0,,,,,,"",""
+ball,2,1.3,Otago,ON Gain,IR James,HM Rowe,4,0,,,,,,"",""
+ball,2,1.4,Otago,ON Gain,IR James,HM Rowe,4,0,,,,,,"",""
+ball,2,1.5,Otago,ON Gain,IR James,HM Rowe,0,0,,,,,,"",""
+ball,2,1.6,Otago,ON Gain,IR James,HM Rowe,0,0,,,,,,"",""
+ball,2,2.1,Otago,IR James,ON Gain,JM Watkin,4,0,,,,,,"",""
+ball,2,2.2,Otago,IR James,ON Gain,JM Watkin,0,0,,,,,,"",""
+ball,2,2.3,Otago,IR James,ON Gain,JM Watkin,1,0,,,,,,"",""
+ball,2,2.4,Otago,ON Gain,IR James,JM Watkin,0,0,,,,,,"",""
+ball,2,2.5,Otago,ON Gain,IR James,JM Watkin,6,0,,,,,,"",""
+ball,2,2.6,Otago,ON Gain,IR James,JM Watkin,2,0,,,,,,"",""
+ball,2,3.1,Otago,IR James,ON Gain,RA Mair,0,0,,,,,,"",""
+ball,2,3.2,Otago,IR James,ON Gain,RA Mair,4,0,,,,,,"",""
+ball,2,3.3,Otago,IR James,ON Gain,RA Mair,0,0,,,,,,"",""
+ball,2,3.4,Otago,IR James,ON Gain,RA Mair,0,0,,,,,,"",""
+ball,2,3.5,Otago,IR James,ON Gain,RA Mair,1,0,,,,,,"",""
+ball,2,3.6,Otago,ON Gain,IR James,RA Mair,0,0,,,,,,"",""
+ball,2,4.1,Otago,IR James,ON Gain,CL Green,0,0,,,,,,"",""
+ball,2,4.2,Otago,IR James,ON Gain,CL Green,0,0,,,,,,caught,IR James
+ball,2,4.3,Otago,PM Inglis,ON Gain,CL Green,2,0,,,,,,"",""
+ball,2,4.4,Otago,PM Inglis,ON Gain,CL Green,0,0,,,,,,"",""
+ball,2,4.5,Otago,PM Inglis,ON Gain,CL Green,1,0,,,,,,"",""
+ball,2,4.6,Otago,ON Gain,PM Inglis,CL Green,0,0,,,,,,"",""
+ball,2,5.1,Otago,PM Inglis,ON Gain,RA Mair,0,0,,,,,,"",""
+ball,2,5.2,Otago,PM Inglis,ON Gain,RA Mair,0,0,,,,,,"",""
+ball,2,5.3,Otago,PM Inglis,ON Gain,RA Mair,2,0,,,,,,"",""
+ball,2,5.4,Otago,PM Inglis,ON Gain,RA Mair,0,0,,,,,,"",""
+ball,2,5.5,Otago,PM Inglis,ON Gain,RA Mair,0,0,,,,,,"",""
+ball,2,5.6,Otago,PM Inglis,ON Gain,RA Mair,0,0,,,,,,"",""
+ball,2,6.1,Otago,ON Gain,PM Inglis,CL Green,0,0,,,,,,"",""
+ball,2,6.2,Otago,ON Gain,PM Inglis,CL Green,0,0,,,,,,"",""
+ball,2,6.3,Otago,ON Gain,PM Inglis,CL Green,0,0,,,,,,"",""
+ball,2,6.4,Otago,ON Gain,PM Inglis,CL Green,0,1,1,,,,,"",""
+ball,2,6.5,Otago,ON Gain,PM Inglis,CL Green,4,0,,,,,,"",""
+ball,2,6.6,Otago,ON Gain,PM Inglis,CL Green,0,0,,,,,,"",""
+ball,2,6.7,Otago,ON Gain,PM Inglis,CL Green,4,0,,,,,,"",""
+ball,2,7.1,Otago,PM Inglis,ON Gain,FDM Devonshire,1,0,,,,,,"",""
+ball,2,7.2,Otago,ON Gain,PM Inglis,FDM Devonshire,0,0,,,,,,"",""
+ball,2,7.3,Otago,ON Gain,PM Inglis,FDM Devonshire,0,0,,,,,,"",""
+ball,2,7.4,Otago,ON Gain,PM Inglis,FDM Devonshire,1,0,,,,,,"",""
+ball,2,7.5,Otago,PM Inglis,ON Gain,FDM Devonshire,0,1,1,,,,,"",""
+ball,2,7.6,Otago,PM Inglis,ON Gain,FDM Devonshire,0,0,,,,,,caught,PM Inglis
+ball,2,7.7,Otago,KE Ebrahim,ON Gain,FDM Devonshire,0,0,,,,,,"",""
+ball,2,8.1,Otago,ON Gain,KE Ebrahim,HM Rowe,1,0,,,,,,"",""
+ball,2,8.2,Otago,KE Ebrahim,ON Gain,HM Rowe,0,0,,,,,,"",""
+ball,2,8.3,Otago,KE Ebrahim,ON Gain,HM Rowe,1,0,,,,,,"",""
+ball,2,8.4,Otago,ON Gain,KE Ebrahim,HM Rowe,2,0,,,,,,"",""
+ball,2,8.5,Otago,ON Gain,KE Ebrahim,HM Rowe,0,0,,,,,,"",""
+ball,2,8.6,Otago,ON Gain,KE Ebrahim,HM Rowe,1,0,,,,,,"",""
+ball,2,9.1,Otago,ON Gain,KE Ebrahim,FDM Devonshire,0,0,,,,,,"",""
+ball,2,9.2,Otago,ON Gain,KE Ebrahim,FDM Devonshire,4,0,,,,,,"",""
+ball,2,9.3,Otago,ON Gain,KE Ebrahim,FDM Devonshire,0,0,,,,,,"",""
+ball,2,9.4,Otago,ON Gain,KE Ebrahim,FDM Devonshire,0,0,,,,,,"",""
+ball,2,9.5,Otago,ON Gain,KE Ebrahim,FDM Devonshire,1,0,,,,,,"",""
+ball,2,9.6,Otago,KE Ebrahim,ON Gain,FDM Devonshire,0,0,,,,,,"",""
+ball,2,10.1,Otago,ON Gain,KE Ebrahim,JM Watkin,1,0,,,,,,"",""
+ball,2,10.2,Otago,KE Ebrahim,ON Gain,JM Watkin,1,0,,,,,,"",""
+ball,2,10.3,Otago,ON Gain,KE Ebrahim,JM Watkin,6,0,,,,,,"",""
+ball,2,10.4,Otago,ON Gain,KE Ebrahim,JM Watkin,1,0,,,,,,"",""
+ball,2,10.5,Otago,KE Ebrahim,ON Gain,JM Watkin,2,0,,,,,,"",""
+ball,2,10.6,Otago,KE Ebrahim,ON Gain,JM Watkin,1,0,,,,,,"",""
+ball,2,11.1,Otago,KE Ebrahim,ON Gain,FDM Devonshire,1,0,,,,,,"",""
+ball,2,11.2,Otago,ON Gain,KE Ebrahim,FDM Devonshire,0,0,,,,,,caught,ON Gain
+ball,2,11.3,Otago,CG Blakely,KE Ebrahim,FDM Devonshire,0,1,,,1,,,"",""
+ball,2,11.4,Otago,KE Ebrahim,CG Blakely,FDM Devonshire,4,0,,,,,,"",""
+ball,2,11.5,Otago,KE Ebrahim,CG Blakely,FDM Devonshire,1,0,,,,,,"",""
+ball,2,11.6,Otago,CG Blakely,KE Ebrahim,FDM Devonshire,1,0,,,,,,"",""
+ball,2,12.1,Otago,CG Blakely,KE Ebrahim,OJS Bartlett,1,0,,,,,,"",""
+ball,2,12.2,Otago,KE Ebrahim,CG Blakely,OJS Bartlett,1,0,,,,,,"",""
+ball,2,12.3,Otago,CG Blakely,KE Ebrahim,OJS Bartlett,0,0,,,,,,"",""
+ball,2,12.4,Otago,CG Blakely,KE Ebrahim,OJS Bartlett,2,0,,,,,,"",""
+ball,2,12.5,Otago,CG Blakely,KE Ebrahim,OJS Bartlett,1,0,,,,,,"",""
+ball,2,12.6,Otago,KE Ebrahim,CG Blakely,OJS Bartlett,0,0,,,,,,"",""
+ball,2,13.1,Otago,CG Blakely,KE Ebrahim,FDM Devonshire,0,0,,,,,,"",""
+ball,2,13.2,Otago,CG Blakely,KE Ebrahim,FDM Devonshire,1,0,,,,,,"",""
+ball,2,13.3,Otago,KE Ebrahim,CG Blakely,FDM Devonshire,1,0,,,,,,"",""
+ball,2,13.4,Otago,CG Blakely,KE Ebrahim,FDM Devonshire,0,0,,,,,,"",""
+ball,2,13.5,Otago,CG Blakely,KE Ebrahim,FDM Devonshire,1,0,,,,,,"",""
+ball,2,13.6,Otago,KE Ebrahim,CG Blakely,FDM Devonshire,2,0,,,,,,"",""
+ball,2,14.1,Otago,CG Blakely,KE Ebrahim,OJS Bartlett,1,0,,,,,,"",""
+ball,2,14.2,Otago,KE Ebrahim,CG Blakely,OJS Bartlett,2,0,,,,,,"",""
+ball,2,14.3,Otago,KE Ebrahim,CG Blakely,OJS Bartlett,1,0,,,,,,"",""
+ball,2,14.4,Otago,CG Blakely,KE Ebrahim,OJS Bartlett,1,0,,,,,,"",""
+ball,2,14.5,Otago,KE Ebrahim,CG Blakely,OJS Bartlett,1,0,,,,,,"",""
+ball,2,14.6,Otago,CG Blakely,KE Ebrahim,OJS Bartlett,1,0,,,,,,"",""
+ball,2,15.1,Otago,CG Blakely,KE Ebrahim,HM Rowe,4,0,,,,,,"",""
+ball,2,15.2,Otago,CG Blakely,KE Ebrahim,HM Rowe,1,0,,,,,,"",""
+ball,2,15.3,Otago,KE Ebrahim,CG Blakely,HM Rowe,0,0,,,,,,"",""
+ball,2,15.4,Otago,KE Ebrahim,CG Blakely,HM Rowe,0,0,,,,,,"",""
+ball,2,15.5,Otago,KE Ebrahim,CG Blakely,HM Rowe,1,0,,,,,,"",""
+ball,2,15.6,Otago,CG Blakely,KE Ebrahim,HM Rowe,0,0,,,,,,"",""
+ball,2,16.1,Otago,KE Ebrahim,CG Blakely,JM Watkin,1,0,,,,,,"",""
+ball,2,16.2,Otago,CG Blakely,KE Ebrahim,JM Watkin,0,0,,,,,,caught,CG Blakely
+ball,2,16.3,Otago,FC Leydon-Davis,KE Ebrahim,JM Watkin,4,0,,,,,,"",""
+ball,2,16.4,Otago,FC Leydon-Davis,KE Ebrahim,JM Watkin,1,0,,,,,,"",""
+ball,2,16.5,Otago,KE Ebrahim,FC Leydon-Davis,JM Watkin,0,0,,,,,,"",""
+ball,2,16.6,Otago,KE Ebrahim,FC Leydon-Davis,JM Watkin,0,0,,,,,,"",""
+ball,2,17.1,Otago,FC Leydon-Davis,KE Ebrahim,RA Mair,0,0,,,,,,"",""
+ball,2,17.2,Otago,FC Leydon-Davis,KE Ebrahim,RA Mair,0,0,,,,,,"",""
+ball,2,17.3,Otago,FC Leydon-Davis,KE Ebrahim,RA Mair,4,0,,,,,,"",""
+ball,2,17.4,Otago,FC Leydon-Davis,KE Ebrahim,RA Mair,0,0,,,,,,caught,FC Leydon-Davis
+ball,2,17.5,Otago,HNK Jensen,KE Ebrahim,RA Mair,1,0,,,,,,"",""
+ball,2,17.6,Otago,KE Ebrahim,HNK Jensen,RA Mair,1,0,,,,,,"",""
+ball,2,18.1,Otago,KE Ebrahim,HNK Jensen,JM Watkin,4,0,,,,,,"",""
+ball,2,18.2,Otago,KE Ebrahim,HNK Jensen,JM Watkin,0,0,,,,,,caught,KE Ebrahim
+ball,2,18.3,Otago,EJ Carson,HNK Jensen,JM Watkin,3,0,,,,,,"",""
+ball,2,18.4,Otago,HNK Jensen,EJ Carson,JM Watkin,6,0,,,,,,"",""

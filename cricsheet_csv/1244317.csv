@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Madhya Pradesh
+info,team,Goa
+info,gender,male
+info,season,2020/21
+info,date,2021/01/11
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Holkar Stadium
+info,city,
+info,toss_winner,Goa
+info,toss_decision,field
+info,winner,Madhya Pradesh
+info,winner_runs,6
+info,player,Madhya Pradesh,Arpit Gaud
+info,player,Madhya Pradesh,VR Iyer
+info,player,Madhya Pradesh,Avesh Khan
+info,player,Madhya Pradesh,RM Patidar
+info,player,Madhya Pradesh,Parth Sahani
+info,player,Madhya Pradesh,Rakesh Thakur
+info,player,Madhya Pradesh,Ankit Sharma
+info,player,Madhya Pradesh,Rishabh Chouhan
+info,player,Madhya Pradesh,KR Sen
+info,player,Madhya Pradesh,Mihir Hirwani
+info,player,Madhya Pradesh,Surendra Malviya
+info,player,Goa,AB Dinda
+info,player,Goa,Lakshay Garg
+info,player,Goa,Heramb Parab
+info,player,Goa,Darshan Misal
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,SS Prabhudessai
+info,player,Goa,Amit Verma
+info,player,Goa,Amogh Desai
+info,player,Goa,Aditya Kaushik
+info,player,Goa,Snehal Kauthankar
+info,player,Goa,Eknath Kerkar
+info,registry,people,AB Dinda,66b30f71
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Amit Verma,3b30b8c4
+info,registry,people,Amogh Desai,017e2f0d
+info,registry,people,Ankit Sharma,24d94623
+info,registry,people,Arpit Gaud,a6a50969
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,Heramb Parab,b29f6148
+info,registry,people,KR Sen,2e78f685
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,Mihir Hirwani,49bacd0f
+info,registry,people,Parth Sahani,239f7526
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Rakesh Thakur,2c5fb7f6
+info,registry,people,Rishabh Chouhan,a64608ec
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Snehal Kauthankar,3a0dc16e
+info,registry,people,Surendra Malviya,2e0c09bb
+info,registry,people,VR Iyer,a24be938
+ball,1,0.1,Madhya Pradesh,Arpit Gaud,VR Iyer,AB Dinda,0,0,,,,,,"",""
+ball,1,0.2,Madhya Pradesh,Arpit Gaud,VR Iyer,AB Dinda,6,0,,,,,,"",""
+ball,1,0.3,Madhya Pradesh,Arpit Gaud,VR Iyer,AB Dinda,0,0,,,,,,caught,Arpit Gaud
+ball,1,0.4,Madhya Pradesh,Avesh Khan,VR Iyer,AB Dinda,0,0,,,,,,caught,Avesh Khan
+ball,1,0.5,Madhya Pradesh,VR Iyer,RM Patidar,AB Dinda,0,0,,,,,,"",""
+ball,1,0.6,Madhya Pradesh,VR Iyer,RM Patidar,AB Dinda,0,0,,,,,,"",""
+ball,1,1.1,Madhya Pradesh,RM Patidar,VR Iyer,Lakshay Garg,0,0,,,,,,"",""
+ball,1,1.2,Madhya Pradesh,RM Patidar,VR Iyer,Lakshay Garg,1,0,,,,,,"",""
+ball,1,1.3,Madhya Pradesh,VR Iyer,RM Patidar,Lakshay Garg,4,0,,,,,,"",""
+ball,1,1.4,Madhya Pradesh,VR Iyer,RM Patidar,Lakshay Garg,0,0,,,,,,"",""
+ball,1,1.5,Madhya Pradesh,VR Iyer,RM Patidar,Lakshay Garg,4,0,,,,,,"",""
+ball,1,1.6,Madhya Pradesh,VR Iyer,RM Patidar,Lakshay Garg,4,0,,,,,,"",""
+ball,1,2.1,Madhya Pradesh,RM Patidar,VR Iyer,AB Dinda,4,0,,,,,,"",""
+ball,1,2.2,Madhya Pradesh,RM Patidar,VR Iyer,AB Dinda,0,0,,,,,,"",""
+ball,1,2.3,Madhya Pradesh,RM Patidar,VR Iyer,AB Dinda,4,0,,,,,,"",""
+ball,1,2.4,Madhya Pradesh,RM Patidar,VR Iyer,AB Dinda,4,0,,,,,,"",""
+ball,1,2.5,Madhya Pradesh,RM Patidar,VR Iyer,AB Dinda,0,0,,,,,,"",""
+ball,1,2.6,Madhya Pradesh,RM Patidar,VR Iyer,AB Dinda,1,0,,,,,,"",""
+ball,1,3.1,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,1,0,,,,,,"",""
+ball,1,3.2,Madhya Pradesh,VR Iyer,RM Patidar,Heramb Parab,1,0,,,,,,"",""
+ball,1,3.3,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,4,0,,,,,,"",""
+ball,1,3.4,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,1,0,,,,,,"",""
+ball,1,3.5,Madhya Pradesh,VR Iyer,RM Patidar,Heramb Parab,1,0,,,,,,"",""
+ball,1,3.6,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,1,0,,,,,,"",""
+ball,1,4.1,Madhya Pradesh,RM Patidar,VR Iyer,Lakshay Garg,0,0,,,,,,"",""
+ball,1,4.2,Madhya Pradesh,RM Patidar,VR Iyer,Lakshay Garg,4,0,,,,,,"",""
+ball,1,4.3,Madhya Pradesh,RM Patidar,VR Iyer,Lakshay Garg,4,0,,,,,,"",""
+ball,1,4.4,Madhya Pradesh,RM Patidar,VR Iyer,Lakshay Garg,1,0,,,,,,"",""
+ball,1,4.5,Madhya Pradesh,VR Iyer,RM Patidar,Lakshay Garg,4,0,,,,,,"",""
+ball,1,4.6,Madhya Pradesh,VR Iyer,RM Patidar,Lakshay Garg,0,0,,,,,,"",""
+ball,1,5.1,Madhya Pradesh,RM Patidar,VR Iyer,Darshan Misal,1,0,,,,,,"",""
+ball,1,5.2,Madhya Pradesh,VR Iyer,RM Patidar,Darshan Misal,1,0,,,,,,"",""
+ball,1,5.3,Madhya Pradesh,RM Patidar,VR Iyer,Darshan Misal,1,0,,,,,,"",""
+ball,1,5.4,Madhya Pradesh,VR Iyer,RM Patidar,Darshan Misal,4,0,,,,,,"",""
+ball,1,5.5,Madhya Pradesh,VR Iyer,RM Patidar,Darshan Misal,4,0,,,,,,"",""
+ball,1,5.6,Madhya Pradesh,VR Iyer,RM Patidar,Darshan Misal,4,0,,,,,,"",""
+ball,1,6.1,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,6.2,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,6.3,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,2,0,,,,,,"",""
+ball,1,6.4,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,6.5,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,0,0,,,,,,"",""
+ball,1,6.6,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,7.1,Madhya Pradesh,VR Iyer,RM Patidar,Heramb Parab,1,0,,,,,,"",""
+ball,1,7.2,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,4,0,,,,,,"",""
+ball,1,7.3,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,1,0,,,,,,"",""
+ball,1,7.4,Madhya Pradesh,VR Iyer,RM Patidar,Heramb Parab,1,0,,,,,,"",""
+ball,1,7.5,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,1,0,,,,,,"",""
+ball,1,7.6,Madhya Pradesh,VR Iyer,RM Patidar,Heramb Parab,1,0,,,,,,"",""
+ball,1,8.1,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,0,0,,,,,,"",""
+ball,1,8.2,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,0,2,,,,2,,"",""
+ball,1,8.3,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,0,0,,,,,,"",""
+ball,1,8.4,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,0,0,,,,,,"",""
+ball,1,8.5,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,8.6,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,9.1,Madhya Pradesh,RM Patidar,VR Iyer,SS Prabhudessai,1,0,,,,,,"",""
+ball,1,9.2,Madhya Pradesh,VR Iyer,RM Patidar,SS Prabhudessai,0,0,,,,,,"",""
+ball,1,9.3,Madhya Pradesh,VR Iyer,RM Patidar,SS Prabhudessai,1,0,,,,,,"",""
+ball,1,9.4,Madhya Pradesh,RM Patidar,VR Iyer,SS Prabhudessai,6,0,,,,,,"",""
+ball,1,9.5,Madhya Pradesh,RM Patidar,VR Iyer,SS Prabhudessai,2,0,,,,,,"",""
+ball,1,9.6,Madhya Pradesh,RM Patidar,VR Iyer,SS Prabhudessai,1,0,,,,,,"",""
+ball,1,10.1,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,2,0,,,,,,"",""
+ball,1,10.2,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,10.3,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,10.4,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,4,0,,,,,,"",""
+ball,1,10.5,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,0,0,,,,,,"",""
+ball,1,10.6,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,0,1,,,1,,,"",""
+ball,1,11.1,Madhya Pradesh,RM Patidar,VR Iyer,Darshan Misal,1,0,,,,,,"",""
+ball,1,11.2,Madhya Pradesh,VR Iyer,RM Patidar,Darshan Misal,1,0,,,,,,"",""
+ball,1,11.3,Madhya Pradesh,RM Patidar,VR Iyer,Darshan Misal,1,0,,,,,,"",""
+ball,1,11.4,Madhya Pradesh,VR Iyer,RM Patidar,Darshan Misal,1,0,,,,,,"",""
+ball,1,11.5,Madhya Pradesh,RM Patidar,VR Iyer,Darshan Misal,1,0,,,,,,"",""
+ball,1,11.6,Madhya Pradesh,VR Iyer,RM Patidar,Darshan Misal,4,0,,,,,,"",""
+ball,1,12.1,Madhya Pradesh,RM Patidar,VR Iyer,Amit Verma,4,0,,,,,,"",""
+ball,1,12.2,Madhya Pradesh,RM Patidar,VR Iyer,Amit Verma,1,0,,,,,,"",""
+ball,1,12.3,Madhya Pradesh,VR Iyer,RM Patidar,Amit Verma,2,0,,,,,,"",""
+ball,1,12.4,Madhya Pradesh,VR Iyer,RM Patidar,Amit Verma,1,0,,,,,,"",""
+ball,1,12.5,Madhya Pradesh,RM Patidar,VR Iyer,Amit Verma,6,0,,,,,,"",""
+ball,1,12.6,Madhya Pradesh,RM Patidar,VR Iyer,Amit Verma,6,0,,,,,,"",""
+ball,1,13.1,Madhya Pradesh,VR Iyer,RM Patidar,Heramb Parab,1,0,,,,,,"",""
+ball,1,13.2,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,2,0,,,,,,"",""
+ball,1,13.3,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,2,0,,,,,,"",""
+ball,1,13.4,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,2,0,,,,,,"",""
+ball,1,13.5,Madhya Pradesh,RM Patidar,VR Iyer,Heramb Parab,1,0,,,,,,"",""
+ball,1,13.6,Madhya Pradesh,VR Iyer,RM Patidar,Heramb Parab,1,0,,,,,,"",""
+ball,1,14.1,Madhya Pradesh,VR Iyer,RM Patidar,Lakshay Garg,1,0,,,,,,"",""
+ball,1,14.2,Madhya Pradesh,RM Patidar,VR Iyer,Lakshay Garg,1,0,,,,,,"",""
+ball,1,14.3,Madhya Pradesh,VR Iyer,RM Patidar,Lakshay Garg,4,0,,,,,,"",""
+ball,1,14.4,Madhya Pradesh,VR Iyer,RM Patidar,Lakshay Garg,1,0,,,,,,"",""
+ball,1,14.5,Madhya Pradesh,RM Patidar,VR Iyer,Lakshay Garg,4,0,,,,,,"",""
+ball,1,14.6,Madhya Pradesh,RM Patidar,VR Iyer,Lakshay Garg,1,0,,,,,,"",""
+ball,1,15.1,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,2,0,,,,,,"",""
+ball,1,15.2,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,15.3,Madhya Pradesh,VR Iyer,RM Patidar,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,15.4,Madhya Pradesh,RM Patidar,VR Iyer,Deepraj Gaonkar,0,0,,,,,,bowled,RM Patidar
+ball,1,15.5,Madhya Pradesh,Parth Sahani,VR Iyer,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,15.6,Madhya Pradesh,VR Iyer,Parth Sahani,Deepraj Gaonkar,1,0,,,,,,"",""
+ball,1,16.1,Madhya Pradesh,VR Iyer,Parth Sahani,AB Dinda,6,0,,,,,,"",""
+ball,1,16.2,Madhya Pradesh,VR Iyer,Parth Sahani,AB Dinda,1,0,,,,,,"",""
+ball,1,16.3,Madhya Pradesh,Parth Sahani,VR Iyer,AB Dinda,1,0,,,,,,"",""
+ball,1,16.4,Madhya Pradesh,VR Iyer,Parth Sahani,AB Dinda,0,1,1,,,,,"",""
+ball,1,16.5,Madhya Pradesh,VR Iyer,Parth Sahani,AB Dinda,4,0,,,,,,"",""
+ball,1,16.6,Madhya Pradesh,VR Iyer,Parth Sahani,AB Dinda,0,1,1,,,,,"",""
+ball,1,16.7,Madhya Pradesh,VR Iyer,Parth Sahani,AB Dinda,2,0,,,,,,"",""
+ball,1,16.8,Madhya Pradesh,VR Iyer,Parth Sahani,AB Dinda,1,0,,,,,,"",""
+ball,1,17.1,Madhya Pradesh,VR Iyer,Parth Sahani,Heramb Parab,1,0,,,,,,"",""
+ball,1,17.2,Madhya Pradesh,Parth Sahani,VR Iyer,Heramb Parab,0,0,,,,,,"",""
+ball,1,17.3,Madhya Pradesh,Parth Sahani,VR Iyer,Heramb Parab,0,0,,,,,,"",""
+ball,1,17.4,Madhya Pradesh,Parth Sahani,VR Iyer,Heramb Parab,6,0,,,,,,"",""
+ball,1,17.5,Madhya Pradesh,Parth Sahani,VR Iyer,Heramb Parab,2,0,,,,,,"",""
+ball,1,17.6,Madhya Pradesh,Parth Sahani,VR Iyer,Heramb Parab,1,0,,,,,,"",""
+ball,1,18.1,Madhya Pradesh,Parth Sahani,VR Iyer,AB Dinda,4,0,,,,,,"",""
+ball,1,18.2,Madhya Pradesh,Parth Sahani,VR Iyer,AB Dinda,1,0,,,,,,"",""
+ball,1,18.3,Madhya Pradesh,VR Iyer,Parth Sahani,AB Dinda,1,0,,,,,,"",""
+ball,1,18.4,Madhya Pradesh,Parth Sahani,VR Iyer,AB Dinda,1,0,,,,,,"",""
+ball,1,18.5,Madhya Pradesh,VR Iyer,Parth Sahani,AB Dinda,1,0,,,,,,"",""
+ball,1,18.6,Madhya Pradesh,Parth Sahani,VR Iyer,AB Dinda,1,0,,,,,,"",""
+ball,1,19.1,Madhya Pradesh,Parth Sahani,VR Iyer,Lakshay Garg,1,0,,,,,,"",""
+ball,1,19.2,Madhya Pradesh,VR Iyer,Parth Sahani,Lakshay Garg,1,0,,,,,,"",""
+ball,1,19.3,Madhya Pradesh,Parth Sahani,VR Iyer,Lakshay Garg,1,0,,,,,,"",""
+ball,1,19.4,Madhya Pradesh,VR Iyer,Parth Sahani,Lakshay Garg,4,0,,,,,,"",""
+ball,1,19.5,Madhya Pradesh,VR Iyer,Parth Sahani,Lakshay Garg,6,0,,,,,,"",""
+ball,1,19.6,Madhya Pradesh,VR Iyer,Parth Sahani,Lakshay Garg,1,0,,,,,,"",""
+ball,2,0.1,Goa,Amogh Desai,Aditya Kaushik,Avesh Khan,0,0,,,,,,"",""
+ball,2,0.2,Goa,Amogh Desai,Aditya Kaushik,Avesh Khan,0,0,,,,,,"",""
+ball,2,0.3,Goa,Amogh Desai,Aditya Kaushik,Avesh Khan,1,0,,,,,,"",""
+ball,2,0.4,Goa,Aditya Kaushik,Amogh Desai,Avesh Khan,1,0,,,,,,"",""
+ball,2,0.5,Goa,Amogh Desai,Aditya Kaushik,Avesh Khan,0,0,,,,,,"",""
+ball,2,0.6,Goa,Amogh Desai,Aditya Kaushik,Avesh Khan,4,0,,,,,,"",""
+ball,2,1.1,Goa,Aditya Kaushik,Amogh Desai,Surendra Malviya,1,0,,,,,,"",""
+ball,2,1.2,Goa,Amogh Desai,Aditya Kaushik,Surendra Malviya,4,0,,,,,,"",""
+ball,2,1.3,Goa,Amogh Desai,Aditya Kaushik,Surendra Malviya,1,0,,,,,,"",""
+ball,2,1.4,Goa,Aditya Kaushik,Amogh Desai,Surendra Malviya,1,0,,,,,,"",""
+ball,2,1.5,Goa,Amogh Desai,Aditya Kaushik,Surendra Malviya,1,0,,,,,,"",""
+ball,2,1.6,Goa,Aditya Kaushik,Amogh Desai,Surendra Malviya,1,0,,,,,,"",""
+ball,2,2.1,Goa,Aditya Kaushik,Amogh Desai,Avesh Khan,1,0,,,,,,"",""
+ball,2,2.2,Goa,Amogh Desai,Aditya Kaushik,Avesh Khan,0,0,,,,,,"",""
+ball,2,2.3,Goa,Amogh Desai,Aditya Kaushik,Avesh Khan,0,1,1,,,,,"",""
+ball,2,2.4,Goa,Amogh Desai,Aditya Kaushik,Avesh Khan,1,0,,,,,,"",""
+ball,2,2.5,Goa,Aditya Kaushik,Amogh Desai,Avesh Khan,0,0,,,,,,"",""
+ball,2,2.6,Goa,Aditya Kaushik,Amogh Desai,Avesh Khan,6,0,,,,,,"",""
+ball,2,2.7,Goa,Aditya Kaushik,Amogh Desai,Avesh Khan,1,0,,,,,,"",""
+ball,2,3.1,Goa,Aditya Kaushik,Amogh Desai,KR Sen,0,0,,,,,,"",""
+ball,2,3.2,Goa,Aditya Kaushik,Amogh Desai,KR Sen,0,5,5,,,,,"",""
+ball,2,3.3,Goa,Aditya Kaushik,Amogh Desai,KR Sen,0,0,,,,,,"",""
+ball,2,3.4,Goa,Aditya Kaushik,Amogh Desai,KR Sen,0,0,,,,,,bowled,Aditya Kaushik
+ball,2,3.5,Goa,Lakshay Garg,Amogh Desai,KR Sen,4,0,,,,,,"",""
+ball,2,3.6,Goa,Lakshay Garg,Amogh Desai,KR Sen,1,0,,,,,,"",""
+ball,2,3.7,Goa,Amogh Desai,Lakshay Garg,KR Sen,0,0,,,,,,"",""
+ball,2,4.1,Goa,Lakshay Garg,Amogh Desai,Surendra Malviya,0,3,3,,,,,"",""
+ball,2,4.2,Goa,Lakshay Garg,Amogh Desai,Surendra Malviya,0,0,,,,,,"",""
+ball,2,4.3,Goa,Lakshay Garg,Amogh Desai,Surendra Malviya,0,0,,,,,,"",""
+ball,2,4.4,Goa,Lakshay Garg,Amogh Desai,Surendra Malviya,0,0,,,,,,"",""
+ball,2,4.5,Goa,Lakshay Garg,Amogh Desai,Surendra Malviya,6,0,,,,,,"",""
+ball,2,4.6,Goa,Lakshay Garg,Amogh Desai,Surendra Malviya,4,0,,,,,,"",""
+ball,2,4.7,Goa,Lakshay Garg,Amogh Desai,Surendra Malviya,0,0,,,,,,"",""
+ball,2,5.1,Goa,Amogh Desai,Lakshay Garg,KR Sen,0,1,,,,1,,"",""
+ball,2,5.2,Goa,Lakshay Garg,Amogh Desai,KR Sen,0,0,,,,,,caught,Lakshay Garg
+ball,2,5.3,Goa,Snehal Kauthankar,Amogh Desai,KR Sen,1,0,,,,,,"",""
+ball,2,5.4,Goa,Amogh Desai,Snehal Kauthankar,KR Sen,1,0,,,,,,"",""
+ball,2,5.5,Goa,Snehal Kauthankar,Amogh Desai,KR Sen,1,0,,,,,,"",""
+ball,2,5.6,Goa,Amogh Desai,Snehal Kauthankar,KR Sen,0,0,,,,,,"",""
+ball,2,6.1,Goa,Snehal Kauthankar,Amogh Desai,Ankit Sharma,0,0,,,,,,"",""
+ball,2,6.2,Goa,Snehal Kauthankar,Amogh Desai,Ankit Sharma,1,0,,,,,,"",""
+ball,2,6.3,Goa,Amogh Desai,Snehal Kauthankar,Ankit Sharma,0,0,,,,,,"",""
+ball,2,6.4,Goa,Amogh Desai,Snehal Kauthankar,Ankit Sharma,0,0,,,,,,"",""
+ball,2,6.5,Goa,Amogh Desai,Snehal Kauthankar,Ankit Sharma,4,0,,,,,,"",""
+ball,2,6.6,Goa,Amogh Desai,Snehal Kauthankar,Ankit Sharma,0,0,,,,,,"",""
+ball,2,7.1,Goa,Snehal Kauthankar,Amogh Desai,Mihir Hirwani,4,0,,,,,,"",""
+ball,2,7.2,Goa,Snehal Kauthankar,Amogh Desai,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,7.3,Goa,Amogh Desai,Snehal Kauthankar,Mihir Hirwani,4,0,,,,,,"",""
+ball,2,7.4,Goa,Amogh Desai,Snehal Kauthankar,Mihir Hirwani,0,0,,,,,,"",""
+ball,2,7.5,Goa,Amogh Desai,Snehal Kauthankar,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,7.6,Goa,Snehal Kauthankar,Amogh Desai,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,8.1,Goa,Snehal Kauthankar,Amogh Desai,Ankit Sharma,2,0,,,,,,"",""
+ball,2,8.2,Goa,Snehal Kauthankar,Amogh Desai,Ankit Sharma,0,0,,,,,,"",""
+ball,2,8.3,Goa,Snehal Kauthankar,Amogh Desai,Ankit Sharma,1,0,,,,,,"",""
+ball,2,8.4,Goa,Amogh Desai,Snehal Kauthankar,Ankit Sharma,0,0,,,,,,caught,Amogh Desai
+ball,2,8.5,Goa,Amit Verma,Snehal Kauthankar,Ankit Sharma,0,0,,,,,,"",""
+ball,2,8.6,Goa,Amit Verma,Snehal Kauthankar,Ankit Sharma,1,0,,,,,,"",""
+ball,2,9.1,Goa,Amit Verma,Snehal Kauthankar,Avesh Khan,1,0,,,,,,"",""
+ball,2,9.2,Goa,Snehal Kauthankar,Amit Verma,Avesh Khan,1,0,,,,,,"",""
+ball,2,9.3,Goa,Amit Verma,Snehal Kauthankar,Avesh Khan,0,0,,,,,,caught,Amit Verma
+ball,2,9.4,Goa,Darshan Misal,Snehal Kauthankar,Avesh Khan,2,0,,,,,,"",""
+ball,2,9.5,Goa,Darshan Misal,Snehal Kauthankar,Avesh Khan,0,0,,,,,,"",""
+ball,2,9.6,Goa,Darshan Misal,Snehal Kauthankar,Avesh Khan,0,0,,,,,,"",""
+ball,2,10.1,Goa,Snehal Kauthankar,Darshan Misal,Ankit Sharma,1,0,,,,,,"",""
+ball,2,10.2,Goa,Darshan Misal,Snehal Kauthankar,Ankit Sharma,0,1,1,,,,,"",""
+ball,2,10.3,Goa,Darshan Misal,Snehal Kauthankar,Ankit Sharma,1,0,,,,,,"",""
+ball,2,10.4,Goa,Snehal Kauthankar,Darshan Misal,Ankit Sharma,1,0,,,,,,"",""
+ball,2,10.5,Goa,Darshan Misal,Snehal Kauthankar,Ankit Sharma,1,0,,,,,,"",""
+ball,2,10.6,Goa,Snehal Kauthankar,Darshan Misal,Ankit Sharma,0,0,,,,,,"",""
+ball,2,10.7,Goa,Snehal Kauthankar,Darshan Misal,Ankit Sharma,6,0,,,,,,"",""
+ball,2,11.1,Goa,Darshan Misal,Snehal Kauthankar,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,11.2,Goa,Snehal Kauthankar,Darshan Misal,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,11.3,Goa,Darshan Misal,Snehal Kauthankar,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,11.4,Goa,Snehal Kauthankar,Darshan Misal,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,11.5,Goa,Darshan Misal,Snehal Kauthankar,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,11.6,Goa,Snehal Kauthankar,Darshan Misal,Mihir Hirwani,0,0,,,,,,"",""
+ball,2,12.1,Goa,Darshan Misal,Snehal Kauthankar,Ankit Sharma,6,0,,,,,,"",""
+ball,2,12.2,Goa,Darshan Misal,Snehal Kauthankar,Ankit Sharma,2,0,,,,,,"",""
+ball,2,12.3,Goa,Darshan Misal,Snehal Kauthankar,Ankit Sharma,2,0,,,,,,"",""
+ball,2,12.4,Goa,Darshan Misal,Snehal Kauthankar,Ankit Sharma,0,0,,,,,,caught,Darshan Misal
+ball,2,12.5,Goa,Snehal Kauthankar,SS Prabhudessai,Ankit Sharma,0,0,,,,,,"",""
+ball,2,12.6,Goa,Snehal Kauthankar,SS Prabhudessai,Ankit Sharma,0,1,1,,,,,"",""
+ball,2,12.7,Goa,Snehal Kauthankar,SS Prabhudessai,Ankit Sharma,1,0,,,,,,"",""
+ball,2,13.1,Goa,Snehal Kauthankar,SS Prabhudessai,Mihir Hirwani,6,0,,,,,,"",""
+ball,2,13.2,Goa,Snehal Kauthankar,SS Prabhudessai,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,13.3,Goa,SS Prabhudessai,Snehal Kauthankar,Mihir Hirwani,2,0,,,,,,"",""
+ball,2,13.4,Goa,SS Prabhudessai,Snehal Kauthankar,Mihir Hirwani,0,0,,,,,,"",""
+ball,2,13.5,Goa,SS Prabhudessai,Snehal Kauthankar,Mihir Hirwani,6,0,,,,,,"",""
+ball,2,13.6,Goa,SS Prabhudessai,Snehal Kauthankar,Mihir Hirwani,1,0,,,,,,"",""
+ball,2,14.1,Goa,SS Prabhudessai,Snehal Kauthankar,Parth Sahani,1,0,,,,,,"",""
+ball,2,14.2,Goa,Snehal Kauthankar,SS Prabhudessai,Parth Sahani,0,0,,,,,,caught,Snehal Kauthankar
+ball,2,14.3,Goa,SS Prabhudessai,Eknath Kerkar,Parth Sahani,6,0,,,,,,"",""
+ball,2,14.4,Goa,SS Prabhudessai,Eknath Kerkar,Parth Sahani,4,0,,,,,,"",""
+ball,2,14.5,Goa,SS Prabhudessai,Eknath Kerkar,Parth Sahani,6,0,,,,,,"",""
+ball,2,14.6,Goa,SS Prabhudessai,Eknath Kerkar,Parth Sahani,0,0,,,,,,"",""
+ball,2,15.1,Goa,Eknath Kerkar,SS Prabhudessai,KR Sen,1,0,,,,,,"",""
+ball,2,15.2,Goa,SS Prabhudessai,Eknath Kerkar,KR Sen,1,0,,,,,,"",""
+ball,2,15.3,Goa,Eknath Kerkar,SS Prabhudessai,KR Sen,4,0,,,,,,"",""
+ball,2,15.4,Goa,Eknath Kerkar,SS Prabhudessai,KR Sen,1,0,,,,,,"",""
+ball,2,15.5,Goa,SS Prabhudessai,Eknath Kerkar,KR Sen,6,0,,,,,,"",""
+ball,2,15.6,Goa,SS Prabhudessai,Eknath Kerkar,KR Sen,0,1,1,,,,,"",""
+ball,2,15.7,Goa,SS Prabhudessai,Eknath Kerkar,KR Sen,1,0,,,,,,"",""
+ball,2,16.1,Goa,SS Prabhudessai,Eknath Kerkar,Surendra Malviya,0,1,,1,,,,"",""
+ball,2,16.2,Goa,SS Prabhudessai,Eknath Kerkar,Surendra Malviya,1,0,,,,,,"",""
+ball,2,16.3,Goa,Eknath Kerkar,SS Prabhudessai,Surendra Malviya,6,0,,,,,,"",""
+ball,2,16.4,Goa,Eknath Kerkar,SS Prabhudessai,Surendra Malviya,2,0,,,,,,"",""
+ball,2,16.5,Goa,Eknath Kerkar,SS Prabhudessai,Surendra Malviya,4,0,,,,,,"",""
+ball,2,16.6,Goa,Eknath Kerkar,SS Prabhudessai,Surendra Malviya,1,0,,,,,,"",""
+ball,2,16.7,Goa,SS Prabhudessai,Eknath Kerkar,Surendra Malviya,1,1,,1,,,,"",""
+ball,2,16.8,Goa,Eknath Kerkar,SS Prabhudessai,Surendra Malviya,6,0,,,,,,"",""
+ball,2,17.1,Goa,SS Prabhudessai,Eknath Kerkar,Avesh Khan,4,0,,,,,,"",""
+ball,2,17.2,Goa,SS Prabhudessai,Eknath Kerkar,Avesh Khan,1,0,,,,,,"",""
+ball,2,17.3,Goa,Eknath Kerkar,SS Prabhudessai,Avesh Khan,4,0,,,,,,"",""
+ball,2,17.4,Goa,Eknath Kerkar,SS Prabhudessai,Avesh Khan,4,0,,,,,,"",""
+ball,2,17.5,Goa,Eknath Kerkar,SS Prabhudessai,Avesh Khan,2,0,,,,,,"",""
+ball,2,17.6,Goa,Eknath Kerkar,SS Prabhudessai,Avesh Khan,4,0,,,,,,"",""
+ball,2,18.1,Goa,SS Prabhudessai,Eknath Kerkar,KR Sen,0,0,,,,,,"",""
+ball,2,18.2,Goa,SS Prabhudessai,Eknath Kerkar,KR Sen,1,0,,,,,,"",""
+ball,2,18.3,Goa,Eknath Kerkar,SS Prabhudessai,KR Sen,2,0,,,,,,"",""
+ball,2,18.4,Goa,Eknath Kerkar,SS Prabhudessai,KR Sen,1,0,,,,,,"",""
+ball,2,18.5,Goa,SS Prabhudessai,Eknath Kerkar,KR Sen,1,0,,,,,,"",""
+ball,2,18.6,Goa,Eknath Kerkar,SS Prabhudessai,KR Sen,1,0,,,,,,"",""
+ball,2,19.1,Goa,Eknath Kerkar,SS Prabhudessai,Surendra Malviya,1,0,,,,,,"",""
+ball,2,19.2,Goa,SS Prabhudessai,Eknath Kerkar,Surendra Malviya,4,0,,,,,,"",""
+ball,2,19.3,Goa,SS Prabhudessai,Eknath Kerkar,Surendra Malviya,1,0,,,,,,"",""
+ball,2,19.4,Goa,Eknath Kerkar,SS Prabhudessai,Surendra Malviya,0,0,,,,,,"",""
+ball,2,19.5,Goa,Eknath Kerkar,SS Prabhudessai,Surendra Malviya,1,0,,,,,,run out,Eknath Kerkar
+ball,2,19.6,Goa,Deepraj Gaonkar,SS Prabhudessai,Surendra Malviya,1,0,,,,,,"",""

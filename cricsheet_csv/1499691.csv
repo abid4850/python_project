@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Wellington
+info,gender,female
+info,season,2025/26
+info,date,2026/01/31
+info,event,Women's Super Smash
+info,venue,"Hagley Oval, Christchurch"
+info,city,Christchurch
+info,toss_winner,Auckland
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,Kim Cotton
+info,reserve_umpire,KS Jagannathan
+info,tv_umpire,JM Dempsey
+info,match_referee,SB O'Connor
+info,winner,Wellington
+info,winner_wickets,5
+info,player,Auckland,IC Gaze
+info,player,Auckland,P Catton
+info,player,Auckland,ML Green
+info,player,Auckland,BM Halliday
+info,player,Auckland,BG Armstrong
+info,player,Auckland,LR Down
+info,player,Auckland,JO Penfold
+info,player,Auckland,A Lambat
+info,player,Auckland,AT Hucker
+info,player,Auckland,MM Penfold
+info,player,Auckland,BG Illing
+info,player,Wellington,GE Plimmer
+info,player,Wellington,RM Burns
+info,player,Wellington,JM Kerr
+info,player,Wellington,XA Jetly
+info,player,Wellington,HC Francis
+info,player,Wellington,JT McFadyen
+info,player,Wellington,JA Simmons
+info,player,Wellington,S Mackinder
+info,player,Wellington,NE Codyre
+info,player,Wellington,N Baird
+info,player,Wellington,RJ Bryant
+info,registry,people,A Lambat,5978fc2a
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Armstrong,eca08a1d
+info,registry,people,BG Illing,80a0cd77
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HC Francis,d767e864
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JA Simmons,33360da1
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JM Kerr,9af58032
+info,registry,people,JO Penfold,321ea9e8
+info,registry,people,JT McFadyen,7072542f
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LR Down,19147fe0
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,N Baird,c0380823
+info,registry,people,NE Codyre,f587fbbe
+info,registry,people,P Catton,22e8ba50
+info,registry,people,RJ Bryant,381c4931
+info,registry,people,RM Burns,94fe4708
+info,registry,people,S Mackinder,f66a657d
+info,registry,people,SB O'Connor,4e80ab93
+info,registry,people,XA Jetly,57a49987
+ball,1,0.1,Auckland,IC Gaze,P Catton,JM Kerr,4,0,,,,,,"",""
+ball,1,0.2,Auckland,IC Gaze,P Catton,JM Kerr,1,0,,,,,,"",""
+ball,1,0.3,Auckland,P Catton,IC Gaze,JM Kerr,0,0,,,,,,"",""
+ball,1,0.4,Auckland,P Catton,IC Gaze,JM Kerr,0,0,,,,,,"",""
+ball,1,0.5,Auckland,P Catton,IC Gaze,JM Kerr,4,0,,,,,,"",""
+ball,1,0.6,Auckland,P Catton,IC Gaze,JM Kerr,1,0,,,,,,"",""
+ball,1,1.1,Auckland,P Catton,IC Gaze,XA Jetly,0,0,,,,,,"",""
+ball,1,1.2,Auckland,P Catton,IC Gaze,XA Jetly,1,0,,,,,,"",""
+ball,1,1.3,Auckland,IC Gaze,P Catton,XA Jetly,0,0,,,,,,"",""
+ball,1,1.4,Auckland,IC Gaze,P Catton,XA Jetly,0,0,,,,,,"",""
+ball,1,1.5,Auckland,IC Gaze,P Catton,XA Jetly,4,0,,,,,,"",""
+ball,1,1.6,Auckland,IC Gaze,P Catton,XA Jetly,1,0,,,,,,"",""
+ball,1,2.1,Auckland,IC Gaze,P Catton,JM Kerr,0,0,,,,,,"",""
+ball,1,2.2,Auckland,IC Gaze,P Catton,JM Kerr,1,0,,,,,,"",""
+ball,1,2.3,Auckland,P Catton,IC Gaze,JM Kerr,1,0,,,,,,"",""
+ball,1,2.4,Auckland,IC Gaze,P Catton,JM Kerr,1,0,,,,,,"",""
+ball,1,2.5,Auckland,P Catton,IC Gaze,JM Kerr,0,0,,,,,,"",""
+ball,1,2.6,Auckland,P Catton,IC Gaze,JM Kerr,1,0,,,,,,"",""
+ball,1,3.1,Auckland,P Catton,IC Gaze,JA Simmons,1,0,,,,,,"",""
+ball,1,3.2,Auckland,IC Gaze,P Catton,JA Simmons,0,0,,,,,,"",""
+ball,1,3.3,Auckland,IC Gaze,P Catton,JA Simmons,2,0,,,,,,"",""
+ball,1,3.4,Auckland,IC Gaze,P Catton,JA Simmons,0,0,,,,,,"",""
+ball,1,3.5,Auckland,IC Gaze,P Catton,JA Simmons,0,0,,,,,,"",""
+ball,1,3.6,Auckland,IC Gaze,P Catton,JA Simmons,0,1,1,,,,,"",""
+ball,1,3.7,Auckland,IC Gaze,P Catton,JA Simmons,4,0,,,,,,"",""
+ball,1,4.1,Auckland,P Catton,IC Gaze,N Baird,0,0,,,,,,"",""
+ball,1,4.2,Auckland,P Catton,IC Gaze,N Baird,1,0,,,,,,"",""
+ball,1,4.3,Auckland,IC Gaze,P Catton,N Baird,0,0,,,,,,"",""
+ball,1,4.4,Auckland,IC Gaze,P Catton,N Baird,4,0,,,,,,"",""
+ball,1,4.5,Auckland,IC Gaze,P Catton,N Baird,4,0,,,,,,"",""
+ball,1,4.6,Auckland,IC Gaze,P Catton,N Baird,1,0,,,,,,"",""
+ball,1,5.1,Auckland,IC Gaze,P Catton,XA Jetly,0,0,,,,,,"",""
+ball,1,5.2,Auckland,IC Gaze,P Catton,XA Jetly,4,0,,,,,,"",""
+ball,1,5.3,Auckland,IC Gaze,P Catton,XA Jetly,0,0,,,,,,"",""
+ball,1,5.4,Auckland,IC Gaze,P Catton,XA Jetly,0,0,,,,,,caught,IC Gaze
+ball,1,5.5,Auckland,ML Green,P Catton,XA Jetly,1,0,,,,,,"",""
+ball,1,5.6,Auckland,P Catton,ML Green,XA Jetly,1,0,,,,,,"",""
+ball,1,6.1,Auckland,P Catton,ML Green,HC Francis,1,0,,,,,,"",""
+ball,1,6.2,Auckland,ML Green,P Catton,HC Francis,0,0,,,,,,"",""
+ball,1,6.3,Auckland,ML Green,P Catton,HC Francis,4,0,,,,,,"",""
+ball,1,6.4,Auckland,ML Green,P Catton,HC Francis,0,0,,,,,,"",""
+ball,1,6.5,Auckland,ML Green,P Catton,HC Francis,1,0,,,,,,"",""
+ball,1,6.6,Auckland,P Catton,ML Green,HC Francis,1,0,,,,,,"",""
+ball,1,7.1,Auckland,P Catton,ML Green,RJ Bryant,0,0,,,,,,"",""
+ball,1,7.2,Auckland,P Catton,ML Green,RJ Bryant,1,0,,,,,,"",""
+ball,1,7.3,Auckland,ML Green,P Catton,RJ Bryant,4,0,,,,,,"",""
+ball,1,7.4,Auckland,ML Green,P Catton,RJ Bryant,0,0,,,,,,"",""
+ball,1,7.5,Auckland,ML Green,P Catton,RJ Bryant,1,0,,,,,,"",""
+ball,1,7.6,Auckland,P Catton,ML Green,RJ Bryant,1,0,,,,,,"",""
+ball,1,8.1,Auckland,P Catton,ML Green,N Baird,1,0,,,,,,"",""
+ball,1,8.2,Auckland,ML Green,P Catton,N Baird,1,0,,,,,,"",""
+ball,1,8.3,Auckland,P Catton,ML Green,N Baird,0,0,,,,,,"",""
+ball,1,8.4,Auckland,P Catton,ML Green,N Baird,1,0,,,,,,"",""
+ball,1,8.5,Auckland,ML Green,P Catton,N Baird,1,0,,,,,,"",""
+ball,1,8.6,Auckland,P Catton,ML Green,N Baird,1,0,,,,,,"",""
+ball,1,9.1,Auckland,P Catton,ML Green,JA Simmons,4,0,,,,,,"",""
+ball,1,9.2,Auckland,P Catton,ML Green,JA Simmons,0,0,,,,,,"",""
+ball,1,9.3,Auckland,P Catton,ML Green,JA Simmons,0,1,1,,,,,stumped,P Catton
+ball,1,9.4,Auckland,BM Halliday,ML Green,JA Simmons,0,1,1,,,,,"",""
+ball,1,9.5,Auckland,BM Halliday,ML Green,JA Simmons,1,0,,,,,,"",""
+ball,1,9.6,Auckland,ML Green,BM Halliday,JA Simmons,0,0,,,,,,"",""
+ball,1,9.7,Auckland,ML Green,BM Halliday,JA Simmons,1,0,,,,,,"",""
+ball,1,9.8,Auckland,BM Halliday,ML Green,JA Simmons,1,0,,,,,,"",""
+ball,1,10.1,Auckland,BM Halliday,ML Green,JM Kerr,1,0,,,,,,"",""
+ball,1,10.2,Auckland,ML Green,BM Halliday,JM Kerr,0,0,,,,,,"",""
+ball,1,10.3,Auckland,ML Green,BM Halliday,JM Kerr,1,0,,,,,,"",""
+ball,1,10.4,Auckland,BM Halliday,ML Green,JM Kerr,1,0,,,,,,"",""
+ball,1,10.5,Auckland,ML Green,BM Halliday,JM Kerr,0,0,,,,,,"",""
+ball,1,10.6,Auckland,ML Green,BM Halliday,JM Kerr,1,0,,,,,,"",""
+ball,1,11.1,Auckland,ML Green,BM Halliday,HC Francis,1,0,,,,,,"",""
+ball,1,11.2,Auckland,BM Halliday,ML Green,HC Francis,1,0,,,,,,"",""
+ball,1,11.3,Auckland,ML Green,BM Halliday,HC Francis,1,0,,,,,,"",""
+ball,1,11.4,Auckland,BM Halliday,ML Green,HC Francis,1,0,,,,,,"",""
+ball,1,11.5,Auckland,ML Green,BM Halliday,HC Francis,1,0,,,,,,"",""
+ball,1,11.6,Auckland,BM Halliday,ML Green,HC Francis,1,0,,,,,,"",""
+ball,1,12.1,Auckland,BM Halliday,ML Green,JA Simmons,2,0,,,,,,"",""
+ball,1,12.2,Auckland,BM Halliday,ML Green,JA Simmons,1,0,,,,,,"",""
+ball,1,12.3,Auckland,ML Green,BM Halliday,JA Simmons,1,0,,,,,,"",""
+ball,1,12.4,Auckland,BM Halliday,ML Green,JA Simmons,0,1,1,,,,,"",""
+ball,1,12.5,Auckland,BM Halliday,ML Green,JA Simmons,2,0,,,,,,"",""
+ball,1,12.6,Auckland,BM Halliday,ML Green,JA Simmons,1,0,,,,,,"",""
+ball,1,12.7,Auckland,ML Green,BM Halliday,JA Simmons,1,0,,,,,,"",""
+ball,1,13.1,Auckland,ML Green,BM Halliday,XA Jetly,1,0,,,,,,"",""
+ball,1,13.2,Auckland,BM Halliday,ML Green,XA Jetly,0,0,,,,,,"",""
+ball,1,13.3,Auckland,BM Halliday,ML Green,XA Jetly,2,0,,,,,,"",""
+ball,1,13.4,Auckland,BM Halliday,ML Green,XA Jetly,4,0,,,,,,"",""
+ball,1,13.5,Auckland,BM Halliday,ML Green,XA Jetly,1,0,,,,,,"",""
+ball,1,13.6,Auckland,ML Green,BM Halliday,XA Jetly,1,0,,,,,,"",""
+ball,1,14.1,Auckland,ML Green,BM Halliday,HC Francis,2,0,,,,,,"",""
+ball,1,14.2,Auckland,ML Green,BM Halliday,HC Francis,2,0,,,,,,"",""
+ball,1,14.3,Auckland,ML Green,BM Halliday,HC Francis,1,0,,,,,,"",""
+ball,1,14.4,Auckland,BM Halliday,ML Green,HC Francis,1,0,,,,,,"",""
+ball,1,14.5,Auckland,ML Green,BM Halliday,HC Francis,1,0,,,,,,"",""
+ball,1,14.6,Auckland,BM Halliday,ML Green,HC Francis,1,0,,,,,,"",""
+ball,1,15.1,Auckland,BM Halliday,ML Green,N Baird,4,0,,,,,,"",""
+ball,1,15.2,Auckland,BM Halliday,ML Green,N Baird,1,0,,,,,,"",""
+ball,1,15.3,Auckland,ML Green,BM Halliday,N Baird,0,0,,,,,,caught,ML Green
+ball,1,15.4,Auckland,BG Armstrong,BM Halliday,N Baird,1,0,,,,,,"",""
+ball,1,15.5,Auckland,BM Halliday,BG Armstrong,N Baird,1,0,,,,,,"",""
+ball,1,15.6,Auckland,BG Armstrong,BM Halliday,N Baird,0,0,,,,,,"",""
+ball,1,16.1,Auckland,BM Halliday,BG Armstrong,HC Francis,1,0,,,,,,"",""
+ball,1,16.2,Auckland,BG Armstrong,BM Halliday,HC Francis,1,0,,,,,,"",""
+ball,1,16.3,Auckland,BM Halliday,BG Armstrong,HC Francis,1,0,,,,,,"",""
+ball,1,16.4,Auckland,BG Armstrong,BM Halliday,HC Francis,0,0,,,,,,"",""
+ball,1,16.5,Auckland,BG Armstrong,BM Halliday,HC Francis,1,0,,,,,,"",""
+ball,1,16.6,Auckland,BM Halliday,BG Armstrong,HC Francis,1,0,,,,,,"",""
+ball,1,17.1,Auckland,BM Halliday,BG Armstrong,XA Jetly,0,0,,,,,,"",""
+ball,1,17.2,Auckland,BM Halliday,BG Armstrong,XA Jetly,0,0,,,,,,bowled,BM Halliday
+ball,1,17.3,Auckland,LR Down,BG Armstrong,XA Jetly,0,0,,,,,,"",""
+ball,1,17.4,Auckland,LR Down,BG Armstrong,XA Jetly,1,0,,,,,,"",""
+ball,1,17.5,Auckland,BG Armstrong,LR Down,XA Jetly,4,0,,,,,,"",""
+ball,1,17.6,Auckland,BG Armstrong,LR Down,XA Jetly,1,0,,,,,,"",""
+ball,1,18.1,Auckland,BG Armstrong,LR Down,N Baird,2,0,,,,,,"",""
+ball,1,18.2,Auckland,BG Armstrong,LR Down,N Baird,1,0,,,,,,"",""
+ball,1,18.3,Auckland,LR Down,BG Armstrong,N Baird,4,0,,,,,,"",""
+ball,1,18.4,Auckland,LR Down,BG Armstrong,N Baird,1,0,,,,,,"",""
+ball,1,18.5,Auckland,BG Armstrong,LR Down,N Baird,1,0,,,,,,"",""
+ball,1,18.6,Auckland,LR Down,BG Armstrong,N Baird,1,0,,,,,,"",""
+ball,1,19.1,Auckland,LR Down,BG Armstrong,JM Kerr,1,0,,,,,,"",""
+ball,1,19.2,Auckland,BG Armstrong,LR Down,JM Kerr,1,0,,,,,,"",""
+ball,1,19.3,Auckland,LR Down,BG Armstrong,JM Kerr,0,0,,,,,,"",""
+ball,1,19.4,Auckland,LR Down,BG Armstrong,JM Kerr,4,0,,,,,,"",""
+ball,1,19.5,Auckland,LR Down,BG Armstrong,JM Kerr,4,0,,,,,,"",""
+ball,1,19.6,Auckland,LR Down,BG Armstrong,JM Kerr,0,0,,,,,,bowled,LR Down
+ball,2,0.1,Wellington,GE Plimmer,RM Burns,BG Illing,0,0,,,,,,"",""
+ball,2,0.2,Wellington,GE Plimmer,RM Burns,BG Illing,0,0,,,,,,"",""
+ball,2,0.3,Wellington,GE Plimmer,RM Burns,BG Illing,4,0,,,,,,"",""
+ball,2,0.4,Wellington,GE Plimmer,RM Burns,BG Illing,0,1,,,,1,,"",""
+ball,2,0.5,Wellington,RM Burns,GE Plimmer,BG Illing,0,0,,,,,,"",""
+ball,2,0.6,Wellington,RM Burns,GE Plimmer,BG Illing,0,0,,,,,,"",""
+ball,2,1.1,Wellington,GE Plimmer,RM Burns,AT Hucker,1,0,,,,,,"",""
+ball,2,1.2,Wellington,RM Burns,GE Plimmer,AT Hucker,0,0,,,,,,"",""
+ball,2,1.3,Wellington,RM Burns,GE Plimmer,AT Hucker,4,0,,,,,,"",""
+ball,2,1.4,Wellington,RM Burns,GE Plimmer,AT Hucker,4,0,,,,,,"",""
+ball,2,1.5,Wellington,RM Burns,GE Plimmer,AT Hucker,0,0,,,,,,"",""
+ball,2,1.6,Wellington,RM Burns,GE Plimmer,AT Hucker,1,0,,,,,,"",""
+ball,2,2.1,Wellington,RM Burns,GE Plimmer,BG Illing,4,0,,,,,,"",""
+ball,2,2.2,Wellington,RM Burns,GE Plimmer,BG Illing,0,1,1,,,,,"",""
+ball,2,2.3,Wellington,RM Burns,GE Plimmer,BG Illing,0,0,,,,,,"",""
+ball,2,2.4,Wellington,RM Burns,GE Plimmer,BG Illing,1,0,,,,,,"",""
+ball,2,2.5,Wellington,GE Plimmer,RM Burns,BG Illing,0,0,,,,,,"",""
+ball,2,2.6,Wellington,GE Plimmer,RM Burns,BG Illing,0,0,,,,,,"",""
+ball,2,2.7,Wellington,GE Plimmer,RM Burns,BG Illing,4,0,,,,,,"",""
+ball,2,3.1,Wellington,RM Burns,GE Plimmer,BM Halliday,4,0,,,,,,"",""
+ball,2,3.2,Wellington,RM Burns,GE Plimmer,BM Halliday,1,0,,,,,,"",""
+ball,2,3.3,Wellington,GE Plimmer,RM Burns,BM Halliday,0,0,,,,,,"",""
+ball,2,3.4,Wellington,GE Plimmer,RM Burns,BM Halliday,1,0,,,,,,"",""
+ball,2,3.5,Wellington,RM Burns,GE Plimmer,BM Halliday,1,0,,,,,,"",""
+ball,2,3.6,Wellington,GE Plimmer,RM Burns,BM Halliday,0,0,,,,,,"",""
+ball,2,4.1,Wellington,RM Burns,GE Plimmer,MM Penfold,1,0,,,,,,"",""
+ball,2,4.2,Wellington,GE Plimmer,RM Burns,MM Penfold,0,0,,,,,,"",""
+ball,2,4.3,Wellington,GE Plimmer,RM Burns,MM Penfold,0,0,,,,,,"",""
+ball,2,4.4,Wellington,GE Plimmer,RM Burns,MM Penfold,0,0,,,,,,"",""
+ball,2,4.5,Wellington,GE Plimmer,RM Burns,MM Penfold,4,0,,,,,,"",""
+ball,2,4.6,Wellington,GE Plimmer,RM Burns,MM Penfold,1,0,,,,,,"",""
+ball,2,5.1,Wellington,GE Plimmer,RM Burns,AT Hucker,0,0,,,,,,"",""
+ball,2,5.2,Wellington,GE Plimmer,RM Burns,AT Hucker,4,0,,,,,,"",""
+ball,2,5.3,Wellington,GE Plimmer,RM Burns,AT Hucker,0,0,,,,,,"",""
+ball,2,5.4,Wellington,GE Plimmer,RM Burns,AT Hucker,1,0,,,,,,"",""
+ball,2,5.5,Wellington,RM Burns,GE Plimmer,AT Hucker,4,0,,,,,,"",""
+ball,2,5.6,Wellington,RM Burns,GE Plimmer,AT Hucker,1,0,,,,,,"",""
+ball,2,6.1,Wellington,RM Burns,GE Plimmer,BG Armstrong,1,0,,,,,,"",""
+ball,2,6.2,Wellington,GE Plimmer,RM Burns,BG Armstrong,0,1,1,,,,,"",""
+ball,2,6.3,Wellington,GE Plimmer,RM Burns,BG Armstrong,1,0,,,,,,"",""
+ball,2,6.4,Wellington,RM Burns,GE Plimmer,BG Armstrong,0,0,,,,,,"",""
+ball,2,6.5,Wellington,RM Burns,GE Plimmer,BG Armstrong,0,0,,,,,,"",""
+ball,2,6.6,Wellington,RM Burns,GE Plimmer,BG Armstrong,0,0,,,,,,"",""
+ball,2,6.7,Wellington,RM Burns,GE Plimmer,BG Armstrong,1,0,,,,,,"",""
+ball,2,7.1,Wellington,RM Burns,GE Plimmer,JO Penfold,1,0,,,,,,"",""
+ball,2,7.2,Wellington,GE Plimmer,RM Burns,JO Penfold,4,0,,,,,,"",""
+ball,2,7.3,Wellington,GE Plimmer,RM Burns,JO Penfold,0,0,,,,,,"",""
+ball,2,7.4,Wellington,GE Plimmer,RM Burns,JO Penfold,1,0,,,,,,"",""
+ball,2,7.5,Wellington,RM Burns,GE Plimmer,JO Penfold,0,0,,,,,,"",""
+ball,2,7.6,Wellington,RM Burns,GE Plimmer,JO Penfold,0,0,,,,,,"",""
+ball,2,8.1,Wellington,GE Plimmer,RM Burns,BG Armstrong,1,0,,,,,,"",""
+ball,2,8.2,Wellington,RM Burns,GE Plimmer,BG Armstrong,4,0,,,,,,"",""
+ball,2,8.3,Wellington,RM Burns,GE Plimmer,BG Armstrong,1,0,,,,,,"",""
+ball,2,8.4,Wellington,GE Plimmer,RM Burns,BG Armstrong,1,0,,,,,,"",""
+ball,2,8.5,Wellington,RM Burns,GE Plimmer,BG Armstrong,1,0,,,,,,"",""
+ball,2,8.6,Wellington,GE Plimmer,RM Burns,BG Armstrong,0,0,,,,,,lbw,GE Plimmer
+ball,2,9.1,Wellington,RM Burns,JM Kerr,ML Green,0,0,,,,,,"",""
+ball,2,9.2,Wellington,RM Burns,JM Kerr,ML Green,0,1,1,,,,,"",""
+ball,2,9.3,Wellington,RM Burns,JM Kerr,ML Green,0,0,,,,,,"",""
+ball,2,9.4,Wellington,RM Burns,JM Kerr,ML Green,0,0,,,,,,"",""
+ball,2,9.5,Wellington,RM Burns,JM Kerr,ML Green,0,0,,,,,,"",""
+ball,2,9.6,Wellington,RM Burns,JM Kerr,ML Green,4,0,,,,,,"",""
+ball,2,9.7,Wellington,RM Burns,JM Kerr,ML Green,6,0,,,,,,"",""
+ball,2,10.1,Wellington,JM Kerr,RM Burns,BG Armstrong,0,0,,,,,,"",""
+ball,2,10.2,Wellington,JM Kerr,RM Burns,BG Armstrong,1,0,,,,,,"",""
+ball,2,10.3,Wellington,RM Burns,JM Kerr,BG Armstrong,1,0,,,,,,"",""
+ball,2,10.4,Wellington,JM Kerr,RM Burns,BG Armstrong,0,0,,,,,,"",""
+ball,2,10.5,Wellington,JM Kerr,RM Burns,BG Armstrong,1,0,,,,,,"",""
+ball,2,10.6,Wellington,RM Burns,JM Kerr,BG Armstrong,4,0,,,,,,"",""
+ball,2,11.1,Wellington,JM Kerr,RM Burns,BM Halliday,0,1,1,,,,,"",""
+ball,2,11.2,Wellington,JM Kerr,RM Burns,BM Halliday,4,0,,,,,,"",""
+ball,2,11.3,Wellington,JM Kerr,RM Burns,BM Halliday,1,0,,,,,,"",""
+ball,2,11.4,Wellington,RM Burns,JM Kerr,BM Halliday,4,0,,,,,,"",""
+ball,2,11.5,Wellington,RM Burns,JM Kerr,BM Halliday,0,0,,,,,,"",""
+ball,2,11.6,Wellington,RM Burns,JM Kerr,BM Halliday,0,0,,,,,,"",""
+ball,2,11.7,Wellington,RM Burns,JM Kerr,BM Halliday,1,0,,,,,,"",""
+ball,2,12.1,Wellington,RM Burns,JM Kerr,MM Penfold,0,0,,,,,,"",""
+ball,2,12.2,Wellington,RM Burns,JM Kerr,MM Penfold,0,0,,,,,,caught,RM Burns
+ball,2,12.3,Wellington,XA Jetly,JM Kerr,MM Penfold,0,0,,,,,,"",""
+ball,2,12.4,Wellington,XA Jetly,JM Kerr,MM Penfold,1,0,,,,,,"",""
+ball,2,12.5,Wellington,JM Kerr,XA Jetly,MM Penfold,0,0,,,,,,"",""
+ball,2,12.6,Wellington,JM Kerr,XA Jetly,MM Penfold,0,0,,,,,,"",""
+ball,2,13.1,Wellington,XA Jetly,JM Kerr,BG Illing,0,0,,,,,,"",""
+ball,2,13.2,Wellington,XA Jetly,JM Kerr,BG Illing,0,0,,,,,,"",""
+ball,2,13.3,Wellington,XA Jetly,JM Kerr,BG Illing,0,0,,,,,,"",""
+ball,2,13.4,Wellington,XA Jetly,JM Kerr,BG Illing,0,0,,,,,,caught,XA Jetly
+ball,2,13.5,Wellington,HC Francis,JM Kerr,BG Illing,0,0,,,,,,"",""
+ball,2,13.6,Wellington,HC Francis,JM Kerr,BG Illing,0,1,,,,1,,"",""
+ball,2,14.1,Wellington,HC Francis,JM Kerr,MM Penfold,0,0,,,,,,bowled,HC Francis
+ball,2,14.2,Wellington,JT McFadyen,JM Kerr,MM Penfold,0,0,,,,,,"",""
+ball,2,14.3,Wellington,JT McFadyen,JM Kerr,MM Penfold,0,0,,,,,,"",""
+ball,2,14.4,Wellington,JT McFadyen,JM Kerr,MM Penfold,0,0,,,,,,"",""
+ball,2,14.5,Wellington,JT McFadyen,JM Kerr,MM Penfold,0,0,,,,,,"",""
+ball,2,14.6,Wellington,JT McFadyen,JM Kerr,MM Penfold,0,0,,,,,,"",""
+ball,2,15.1,Wellington,JM Kerr,JT McFadyen,BG Armstrong,1,0,,,,,,"",""
+ball,2,15.2,Wellington,JT McFadyen,JM Kerr,BG Armstrong,0,1,,,,1,,"",""
+ball,2,15.3,Wellington,JM Kerr,JT McFadyen,BG Armstrong,0,0,,,,,,"",""
+ball,2,15.4,Wellington,JM Kerr,JT McFadyen,BG Armstrong,1,0,,,,,,"",""
+ball,2,15.5,Wellington,JT McFadyen,JM Kerr,BG Armstrong,4,0,,,,,,"",""
+ball,2,15.6,Wellington,JT McFadyen,JM Kerr,BG Armstrong,1,0,,,,,,"",""
+ball,2,16.1,Wellington,JT McFadyen,JM Kerr,MM Penfold,1,0,,,,,,"",""
+ball,2,16.2,Wellington,JM Kerr,JT McFadyen,MM Penfold,1,0,,,,,,"",""
+ball,2,16.3,Wellington,JT McFadyen,JM Kerr,MM Penfold,1,0,,,,,,"",""
+ball,2,16.4,Wellington,JM Kerr,JT McFadyen,MM Penfold,0,0,,,,,,"",""
+ball,2,16.5,Wellington,JM Kerr,JT McFadyen,MM Penfold,4,0,,,,,,"",""
+ball,2,16.6,Wellington,JM Kerr,JT McFadyen,MM Penfold,0,0,,,,,,"",""
+ball,2,17.1,Wellington,JT McFadyen,JM Kerr,BG Illing,0,0,,,,,,"",""
+ball,2,17.2,Wellington,JT McFadyen,JM Kerr,BG Illing,1,0,,,,,,"",""
+ball,2,17.3,Wellington,JM Kerr,JT McFadyen,BG Illing,1,0,,,,,,"",""
+ball,2,17.4,Wellington,JT McFadyen,JM Kerr,BG Illing,1,0,,,,,,"",""
+ball,2,17.5,Wellington,JM Kerr,JT McFadyen,BG Illing,1,0,,,,,,"",""
+ball,2,17.6,Wellington,JM Kerr,JT McFadyen,BG Illing,4,0,,,,,,"",""
+ball,2,18.1,Wellington,JT McFadyen,JM Kerr,AT Hucker,0,1,,,,1,,"",""
+ball,2,18.2,Wellington,JM Kerr,JT McFadyen,AT Hucker,2,0,,,,,,"",""
+ball,2,18.3,Wellington,JM Kerr,JT McFadyen,AT Hucker,4,0,,,,,,"",""
+ball,2,18.4,Wellington,JM Kerr,JT McFadyen,AT Hucker,1,0,,,,,,"",""
+ball,2,18.5,Wellington,JT McFadyen,JM Kerr,AT Hucker,1,0,,,,,,"",""
+ball,2,18.6,Wellington,JM Kerr,JT McFadyen,AT Hucker,2,0,,,,,,"",""
+ball,2,19.1,Wellington,JT McFadyen,JM Kerr,BM Halliday,1,0,,,,,,"",""
+ball,2,19.2,Wellington,JM Kerr,JT McFadyen,BM Halliday,6,0,,,,,,"",""
+ball,2,19.3,Wellington,JM Kerr,JT McFadyen,BM Halliday,1,0,,,,,,run out,JT McFadyen
+ball,2,19.4,Wellington,JM Kerr,JA Simmons,BM Halliday,6,0,,,,,,"",""
+ball,2,19.5,Wellington,JM Kerr,JA Simmons,BM Halliday,4,0,,,,,,"",""

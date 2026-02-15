@@ -1,0 +1,179 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Yorkshire
+info,gender,male
+info,season,2021
+info,date,2021/08/08
+info,event,Royal London One-Day Cup
+info,venue,"Queen's Park, Chesterfield"
+info,city,Chesterfield
+info,toss_winner,Yorkshire
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,Hassan Adnan
+info,match_referee,WR Smith
+info,winner,Yorkshire
+info,winner_wickets,8
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,MD Wagstaff
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,AL Hughes
+info,player,Derbyshire,FJ Hudson-Prentice
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,Anuj Dal
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,R Rampaul
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Yorkshire,WAR Fraine
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,W Luxton
+info,player,Yorkshire,GS Ballance
+info,player,Yorkshire,GCH Hill
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,HG Duke
+info,player,Yorkshire,MJ Waite
+info,player,Yorkshire,MW Pillans
+info,player,Yorkshire,BO Coad
+info,player,Yorkshire,JR Sullivan
+info,registry,people,AL Hughes,1066a976
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,Anuj Dal,e142c599
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,BO Coad,a37b5c0a
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,GCH Hill,214f6461
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,HG Duke,443b47a6
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JR Sullivan,e68572a7
+info,registry,people,MD Wagstaff,0a396666
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,ML Revis,28217d89
+info,registry,people,MW Pillans,6a2fadd0
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,TA Wood,884f72a1
+info,registry,people,W Luxton,c15fb753
+info,registry,people,WAR Fraine,e3bc992b
+info,registry,people,WR Smith,ad962377
+ball,1,0.1,Derbyshire,HRC Came,MD Wagstaff,BO Coad,0,0,,,,,,"",""
+ball,1,0.2,Derbyshire,HRC Came,MD Wagstaff,BO Coad,0,0,,,,,,"",""
+ball,1,0.3,Derbyshire,HRC Came,MD Wagstaff,BO Coad,4,0,,,,,,"",""
+ball,1,0.4,Derbyshire,HRC Came,MD Wagstaff,BO Coad,1,0,,,,,,"",""
+ball,1,0.5,Derbyshire,MD Wagstaff,HRC Came,BO Coad,0,0,,,,,,"",""
+ball,1,0.6,Derbyshire,MD Wagstaff,HRC Came,BO Coad,0,0,,,,,,"",""
+ball,1,1.1,Derbyshire,HRC Came,MD Wagstaff,MJ Waite,1,0,,,,,,"",""
+ball,1,1.2,Derbyshire,MD Wagstaff,HRC Came,MJ Waite,2,0,,,,,,"",""
+ball,1,1.3,Derbyshire,MD Wagstaff,HRC Came,MJ Waite,4,0,,,,,,"",""
+ball,1,1.4,Derbyshire,MD Wagstaff,HRC Came,MJ Waite,0,0,,,,,,"",""
+ball,1,1.5,Derbyshire,MD Wagstaff,HRC Came,MJ Waite,1,0,,,,,,"",""
+ball,1,1.6,Derbyshire,HRC Came,MD Wagstaff,MJ Waite,0,1,1,,,,,"",""
+ball,1,1.7,Derbyshire,HRC Came,MD Wagstaff,MJ Waite,4,0,,,,,,"",""
+ball,1,2.1,Derbyshire,MD Wagstaff,HRC Came,ML Revis,4,0,,,,,,"",""
+ball,1,2.2,Derbyshire,MD Wagstaff,HRC Came,ML Revis,1,0,,,,,,"",""
+ball,1,2.3,Derbyshire,HRC Came,MD Wagstaff,ML Revis,0,0,,,,,,"",""
+ball,1,2.4,Derbyshire,HRC Came,MD Wagstaff,ML Revis,4,0,,,,,,"",""
+ball,1,2.5,Derbyshire,HRC Came,MD Wagstaff,ML Revis,1,0,,,,,,"",""
+ball,1,2.6,Derbyshire,MD Wagstaff,HRC Came,ML Revis,0,0,,,,,,"",""
+ball,1,3.1,Derbyshire,HRC Came,MD Wagstaff,MW Pillans,0,0,,,,,,"",""
+ball,1,3.2,Derbyshire,HRC Came,MD Wagstaff,MW Pillans,0,1,,,,1,,"",""
+ball,1,3.3,Derbyshire,MD Wagstaff,HRC Came,MW Pillans,4,0,,,,,,"",""
+ball,1,3.4,Derbyshire,MD Wagstaff,HRC Came,MW Pillans,4,0,,,,,,"",""
+ball,1,3.5,Derbyshire,MD Wagstaff,HRC Came,MW Pillans,2,0,,,,,,"",""
+ball,1,3.6,Derbyshire,MD Wagstaff,HRC Came,MW Pillans,0,0,,,,,,"",""
+ball,1,4.1,Derbyshire,HRC Came,MD Wagstaff,GCH Hill,1,0,,,,,,"",""
+ball,1,4.2,Derbyshire,MD Wagstaff,HRC Came,GCH Hill,0,0,,,,,,bowled,MD Wagstaff
+ball,1,4.3,Derbyshire,TA Wood,HRC Came,GCH Hill,0,0,,,,,,"",""
+ball,1,4.4,Derbyshire,TA Wood,HRC Came,GCH Hill,4,0,,,,,,"",""
+ball,1,4.5,Derbyshire,TA Wood,HRC Came,GCH Hill,4,0,,,,,,"",""
+ball,1,4.6,Derbyshire,TA Wood,HRC Came,GCH Hill,1,0,,,,,,"",""
+ball,1,5.1,Derbyshire,TA Wood,HRC Came,JR Sullivan,0,0,,,,,,caught,TA Wood
+ball,1,5.2,Derbyshire,HRC Came,BD Guest,JR Sullivan,1,0,,,,,,"",""
+ball,1,5.3,Derbyshire,BD Guest,HRC Came,JR Sullivan,0,0,,,,,,stumped,BD Guest
+ball,1,5.4,Derbyshire,AL Hughes,HRC Came,JR Sullivan,0,0,,,,,,caught,AL Hughes
+ball,1,5.5,Derbyshire,FJ Hudson-Prentice,HRC Came,JR Sullivan,1,0,,,,,,"",""
+ball,1,5.6,Derbyshire,HRC Came,FJ Hudson-Prentice,JR Sullivan,0,0,,,,,,"",""
+ball,1,6.1,Derbyshire,FJ Hudson-Prentice,HRC Came,MW Pillans,6,0,,,,,,"",""
+ball,1,6.2,Derbyshire,FJ Hudson-Prentice,HRC Came,MW Pillans,1,0,,,,,,"",""
+ball,1,6.3,Derbyshire,HRC Came,FJ Hudson-Prentice,MW Pillans,1,0,,,,,,"",""
+ball,1,6.4,Derbyshire,FJ Hudson-Prentice,HRC Came,MW Pillans,0,2,,2,,,,"",""
+ball,1,6.5,Derbyshire,FJ Hudson-Prentice,HRC Came,MW Pillans,1,0,,,,,,"",""
+ball,1,6.6,Derbyshire,HRC Came,FJ Hudson-Prentice,MW Pillans,4,0,,,,,,"",""
+ball,1,6.7,Derbyshire,HRC Came,FJ Hudson-Prentice,MW Pillans,6,0,,,,,,"",""
+ball,1,7.1,Derbyshire,FJ Hudson-Prentice,HRC Came,JR Sullivan,0,0,,,,,,"",""
+ball,1,7.2,Derbyshire,FJ Hudson-Prentice,HRC Came,JR Sullivan,6,0,,,,,,"",""
+ball,1,7.3,Derbyshire,FJ Hudson-Prentice,HRC Came,JR Sullivan,1,0,,,,,,"",""
+ball,1,7.4,Derbyshire,HRC Came,FJ Hudson-Prentice,JR Sullivan,0,0,,,,,,caught,HRC Came
+ball,1,7.5,Derbyshire,FJ Hudson-Prentice,MH McKiernan,JR Sullivan,1,0,,,,,,"",""
+ball,1,7.6,Derbyshire,MH McKiernan,FJ Hudson-Prentice,JR Sullivan,1,0,,,,,,"",""
+ball,1,8.1,Derbyshire,MH McKiernan,FJ Hudson-Prentice,BO Coad,1,0,,,,,,"",""
+ball,1,8.2,Derbyshire,FJ Hudson-Prentice,MH McKiernan,BO Coad,6,0,,,,,,"",""
+ball,1,8.3,Derbyshire,FJ Hudson-Prentice,MH McKiernan,BO Coad,4,0,,,,,,"",""
+ball,1,8.4,Derbyshire,FJ Hudson-Prentice,MH McKiernan,BO Coad,0,0,,,,,,"",""
+ball,1,8.5,Derbyshire,FJ Hudson-Prentice,MH McKiernan,BO Coad,6,0,,,,,,"",""
+ball,1,8.6,Derbyshire,FJ Hudson-Prentice,MH McKiernan,BO Coad,1,0,,,,,,"",""
+ball,1,9.1,Derbyshire,FJ Hudson-Prentice,MH McKiernan,MJ Waite,1,0,,,,,,"",""
+ball,1,9.2,Derbyshire,MH McKiernan,FJ Hudson-Prentice,MJ Waite,4,0,,,,,,"",""
+ball,1,9.3,Derbyshire,MH McKiernan,FJ Hudson-Prentice,MJ Waite,0,0,,,,,,caught,MH McKiernan
+ball,1,9.4,Derbyshire,FJ Hudson-Prentice,Anuj Dal,MJ Waite,1,0,,,,,,"",""
+ball,1,9.5,Derbyshire,Anuj Dal,FJ Hudson-Prentice,MJ Waite,0,1,,,1,,,"",""
+ball,1,9.6,Derbyshire,FJ Hudson-Prentice,Anuj Dal,MJ Waite,2,0,,,,,,"",""
+ball,2,0.1,Yorkshire,WAR Fraine,ML Revis,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,0.2,Yorkshire,WAR Fraine,ML Revis,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,0.3,Yorkshire,WAR Fraine,ML Revis,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,2,0.4,Yorkshire,WAR Fraine,ML Revis,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,2,0.5,Yorkshire,WAR Fraine,ML Revis,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,0.6,Yorkshire,ML Revis,WAR Fraine,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,1.1,Yorkshire,WAR Fraine,ML Revis,R Rampaul,4,0,,,,,,"",""
+ball,2,1.2,Yorkshire,WAR Fraine,ML Revis,R Rampaul,1,0,,,,,,"",""
+ball,2,1.3,Yorkshire,ML Revis,WAR Fraine,R Rampaul,4,0,,,,,,"",""
+ball,2,1.4,Yorkshire,ML Revis,WAR Fraine,R Rampaul,0,0,,,,,,"",""
+ball,2,1.5,Yorkshire,ML Revis,WAR Fraine,R Rampaul,0,0,,,,,,caught,ML Revis
+ball,2,1.6,Yorkshire,WAR Fraine,W Luxton,R Rampaul,1,0,,,,,,"",""
+ball,2,2.1,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,0,0,,,,,,"",""
+ball,2,2.2,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,6,0,,,,,,"",""
+ball,2,2.3,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,0,0,,,,,,"",""
+ball,2,2.4,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,4,0,,,,,,"",""
+ball,2,2.5,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,2,0,,,,,,"",""
+ball,2,2.6,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,2,0,,,,,,"",""
+ball,2,3.1,Yorkshire,W Luxton,WAR Fraine,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,3.2,Yorkshire,W Luxton,WAR Fraine,GLS Scrimshaw,2,0,,,,,,"",""
+ball,2,3.3,Yorkshire,W Luxton,WAR Fraine,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,3.4,Yorkshire,W Luxton,WAR Fraine,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,3.5,Yorkshire,WAR Fraine,W Luxton,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,3.6,Yorkshire,W Luxton,WAR Fraine,GLS Scrimshaw,4,0,,,,,,"",""
+ball,2,4.1,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,2,0,,,,,,"",""
+ball,2,4.2,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,6,0,,,,,,"",""
+ball,2,4.3,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,3,0,,,,,,"",""
+ball,2,4.4,Yorkshire,W Luxton,WAR Fraine,MH McKiernan,1,0,,,,,,"",""
+ball,2,4.5,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,6,0,,,,,,"",""
+ball,2,4.6,Yorkshire,WAR Fraine,W Luxton,MH McKiernan,3,0,,,,,,"",""
+ball,2,5.1,Yorkshire,WAR Fraine,W Luxton,AT Thomson,1,0,,,,,,"",""
+ball,2,5.2,Yorkshire,W Luxton,WAR Fraine,AT Thomson,4,0,,,,,,"",""
+ball,2,5.3,Yorkshire,W Luxton,WAR Fraine,AT Thomson,1,0,,,,,,"",""
+ball,2,5.4,Yorkshire,WAR Fraine,W Luxton,AT Thomson,1,0,,,,,,"",""
+ball,2,5.5,Yorkshire,W Luxton,WAR Fraine,AT Thomson,1,0,,,,,,"",""
+ball,2,5.6,Yorkshire,WAR Fraine,W Luxton,AT Thomson,1,0,,,,,,"",""
+ball,2,6.1,Yorkshire,WAR Fraine,W Luxton,GLS Scrimshaw,4,0,,,,,,"",""
+ball,2,6.2,Yorkshire,WAR Fraine,W Luxton,GLS Scrimshaw,1,0,,,,,,"",""
+ball,2,6.3,Yorkshire,W Luxton,WAR Fraine,GLS Scrimshaw,6,0,,,,,,"",""
+ball,2,6.4,Yorkshire,W Luxton,WAR Fraine,GLS Scrimshaw,0,0,,,,,,caught,W Luxton
+ball,2,6.5,Yorkshire,WAR Fraine,GS Ballance,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,6.6,Yorkshire,WAR Fraine,GS Ballance,GLS Scrimshaw,2,2,,2,,,,"",""
+ball,2,6.7,Yorkshire,WAR Fraine,GS Ballance,GLS Scrimshaw,0,0,,,,,,"",""
+ball,2,7.1,Yorkshire,GS Ballance,WAR Fraine,R Rampaul,1,0,,,,,,"",""
+ball,2,7.2,Yorkshire,WAR Fraine,GS Ballance,R Rampaul,2,0,,,,,,"",""
+ball,2,7.3,Yorkshire,WAR Fraine,GS Ballance,R Rampaul,1,0,,,,,,"",""
+ball,2,7.4,Yorkshire,GS Ballance,WAR Fraine,R Rampaul,0,0,,,,,,"",""
+ball,2,7.5,Yorkshire,GS Ballance,WAR Fraine,R Rampaul,0,0,,,,,,"",""
+ball,2,7.6,Yorkshire,GS Ballance,WAR Fraine,R Rampaul,1,0,,,,,,"",""
+ball,2,8.1,Yorkshire,GS Ballance,WAR Fraine,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,2,8.2,Yorkshire,GS Ballance,WAR Fraine,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,8.3,Yorkshire,WAR Fraine,GS Ballance,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,2,8.4,Yorkshire,WAR Fraine,GS Ballance,FJ Hudson-Prentice,0,1,,,,1,,"",""

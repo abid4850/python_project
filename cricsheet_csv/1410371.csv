@@ -1,0 +1,290 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Gloucestershire
+info,gender,male
+info,season,2024
+info,date,2024/05/30
+info,event,Vitality Blast
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,PK Baldwin
+info,match_referee,Phil Whitticase
+info,winner,Gloucestershire
+info,winner_wickets,5
+info,player,Essex,D Elgar
+info,player,Essex,AM Rossington
+info,player,Essex,MS Pepper
+info,player,Essex,JM Cox
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,DR Sams
+info,player,Essex,SR Harmer
+info,player,Essex,LM Benkenstein
+info,player,Essex,BMJ Allison
+info,player,Essex,Aaron Beard
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,BJ Webster
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,MD Taylor
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LM Benkenstein,c2e5539b
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,SR Harmer,23638956
+ball,1,0.1,Essex,D Elgar,AM Rossington,DA Payne,0,0,,,,,,"",""
+ball,1,0.2,Essex,D Elgar,AM Rossington,DA Payne,0,0,,,,,,caught,D Elgar
+ball,1,0.3,Essex,MS Pepper,AM Rossington,DA Payne,0,0,,,,,,bowled,MS Pepper
+ball,1,0.4,Essex,JM Cox,AM Rossington,DA Payne,4,0,,,,,,"",""
+ball,1,0.5,Essex,JM Cox,AM Rossington,DA Payne,1,0,,,,,,"",""
+ball,1,0.6,Essex,AM Rossington,JM Cox,DA Payne,1,0,,,,,,"",""
+ball,1,1.1,Essex,AM Rossington,JM Cox,MD Taylor,0,0,,,,,,"",""
+ball,1,1.2,Essex,AM Rossington,JM Cox,MD Taylor,4,0,,,,,,"",""
+ball,1,1.3,Essex,AM Rossington,JM Cox,MD Taylor,0,0,,,,,,"",""
+ball,1,1.4,Essex,AM Rossington,JM Cox,MD Taylor,0,0,,,,,,"",""
+ball,1,1.5,Essex,AM Rossington,JM Cox,MD Taylor,1,0,,,,,,"",""
+ball,1,1.6,Essex,JM Cox,AM Rossington,MD Taylor,0,0,,,,,,"",""
+ball,1,2.1,Essex,AM Rossington,JM Cox,DA Payne,0,0,,,,,,"",""
+ball,1,2.2,Essex,AM Rossington,JM Cox,DA Payne,0,0,,,,,,"",""
+ball,1,2.3,Essex,AM Rossington,JM Cox,DA Payne,0,0,,,,,,"",""
+ball,1,2.4,Essex,AM Rossington,JM Cox,DA Payne,0,0,,,,,,caught,AM Rossington
+ball,1,2.5,Essex,PI Walter,JM Cox,DA Payne,0,0,,,,,,"",""
+ball,1,2.6,Essex,PI Walter,JM Cox,DA Payne,0,0,,,,,,"",""
+ball,1,3.1,Essex,JM Cox,PI Walter,MD Taylor,0,0,,,,,,"",""
+ball,1,3.2,Essex,JM Cox,PI Walter,MD Taylor,0,0,,,,,,"",""
+ball,1,3.3,Essex,JM Cox,PI Walter,MD Taylor,2,0,,,,,,"",""
+ball,1,3.4,Essex,JM Cox,PI Walter,MD Taylor,0,0,,,,,,"",""
+ball,1,3.5,Essex,JM Cox,PI Walter,MD Taylor,0,0,,,,,,"",""
+ball,1,3.6,Essex,JM Cox,PI Walter,MD Taylor,6,0,,,,,,"",""
+ball,1,4.1,Essex,PI Walter,JM Cox,BJ Webster,4,0,,,,,,"",""
+ball,1,4.2,Essex,PI Walter,JM Cox,BJ Webster,2,0,,,,,,"",""
+ball,1,4.3,Essex,PI Walter,JM Cox,BJ Webster,0,0,,,,,,"",""
+ball,1,4.4,Essex,PI Walter,JM Cox,BJ Webster,1,0,,,,,,"",""
+ball,1,4.5,Essex,JM Cox,PI Walter,BJ Webster,1,0,,,,,,"",""
+ball,1,4.6,Essex,PI Walter,JM Cox,BJ Webster,1,0,,,,,,"",""
+ball,1,5.1,Essex,PI Walter,JM Cox,M de Lange,1,0,,,,,,"",""
+ball,1,5.2,Essex,JM Cox,PI Walter,M de Lange,0,0,,,,,,"",""
+ball,1,5.3,Essex,JM Cox,PI Walter,M de Lange,4,0,,,,,,"",""
+ball,1,5.4,Essex,JM Cox,PI Walter,M de Lange,6,0,,,,,,"",""
+ball,1,5.5,Essex,JM Cox,PI Walter,M de Lange,6,0,,,,,,"",""
+ball,1,5.6,Essex,JM Cox,PI Walter,M de Lange,4,0,,,,,,"",""
+ball,1,6.1,Essex,PI Walter,JM Cox,GL van Buuren,1,0,,,,,,"",""
+ball,1,6.2,Essex,JM Cox,PI Walter,GL van Buuren,2,0,,,,,,"",""
+ball,1,6.3,Essex,JM Cox,PI Walter,GL van Buuren,0,0,,,,,,"",""
+ball,1,6.4,Essex,JM Cox,PI Walter,GL van Buuren,1,0,,,,,,"",""
+ball,1,6.5,Essex,PI Walter,JM Cox,GL van Buuren,1,0,,,,,,"",""
+ball,1,6.6,Essex,JM Cox,PI Walter,GL van Buuren,1,0,,,,,,"",""
+ball,1,7.1,Essex,JM Cox,PI Walter,BJ Webster,1,0,,,,,,"",""
+ball,1,7.2,Essex,PI Walter,JM Cox,BJ Webster,1,0,,,,,,"",""
+ball,1,7.3,Essex,JM Cox,PI Walter,BJ Webster,1,0,,,,,,"",""
+ball,1,7.4,Essex,PI Walter,JM Cox,BJ Webster,1,0,,,,,,"",""
+ball,1,7.5,Essex,JM Cox,PI Walter,BJ Webster,1,0,,,,,,"",""
+ball,1,7.6,Essex,PI Walter,JM Cox,BJ Webster,6,0,,,,,,"",""
+ball,1,8.1,Essex,JM Cox,PI Walter,GL van Buuren,4,0,,,,,,"",""
+ball,1,8.2,Essex,JM Cox,PI Walter,GL van Buuren,1,0,,,,,,"",""
+ball,1,8.3,Essex,PI Walter,JM Cox,GL van Buuren,1,0,,,,,,"",""
+ball,1,8.4,Essex,JM Cox,PI Walter,GL van Buuren,1,0,,,,,,"",""
+ball,1,8.5,Essex,PI Walter,JM Cox,GL van Buuren,1,0,,,,,,"",""
+ball,1,8.6,Essex,JM Cox,PI Walter,GL van Buuren,1,0,,,,,,"",""
+ball,1,9.1,Essex,JM Cox,PI Walter,M de Lange,0,0,,,,,,caught,JM Cox
+ball,1,9.2,Essex,MJJ Critchley,PI Walter,M de Lange,0,0,,,,,,"",""
+ball,1,9.3,Essex,MJJ Critchley,PI Walter,M de Lange,1,0,,,,,,"",""
+ball,1,9.4,Essex,PI Walter,MJJ Critchley,M de Lange,0,0,,,,,,"",""
+ball,1,9.5,Essex,PI Walter,MJJ Critchley,M de Lange,0,1,1,,,,,"",""
+ball,1,9.6,Essex,PI Walter,MJJ Critchley,M de Lange,0,0,,,,,,"",""
+ball,1,9.7,Essex,PI Walter,MJJ Critchley,M de Lange,1,0,,,,,,"",""
+ball,1,10.1,Essex,PI Walter,MJJ Critchley,OJ Price,0,0,,,,,,"",""
+ball,1,10.2,Essex,PI Walter,MJJ Critchley,OJ Price,4,0,,,,,,"",""
+ball,1,10.3,Essex,PI Walter,MJJ Critchley,OJ Price,0,1,,,,1,,"",""
+ball,1,10.4,Essex,MJJ Critchley,PI Walter,OJ Price,1,0,,,,,,"",""
+ball,1,10.5,Essex,PI Walter,MJJ Critchley,OJ Price,1,0,,,,,,"",""
+ball,1,10.6,Essex,MJJ Critchley,PI Walter,OJ Price,1,0,,,,,,"",""
+ball,1,11.1,Essex,MJJ Critchley,PI Walter,BJ Webster,0,0,,,,,,"",""
+ball,1,11.2,Essex,MJJ Critchley,PI Walter,BJ Webster,1,0,,,,,,"",""
+ball,1,11.3,Essex,PI Walter,MJJ Critchley,BJ Webster,1,0,,,,,,"",""
+ball,1,11.4,Essex,MJJ Critchley,PI Walter,BJ Webster,1,0,,,,,,"",""
+ball,1,11.5,Essex,PI Walter,MJJ Critchley,BJ Webster,1,0,,,,,,"",""
+ball,1,11.6,Essex,MJJ Critchley,PI Walter,BJ Webster,1,0,,,,,,"",""
+ball,1,12.1,Essex,MJJ Critchley,PI Walter,GL van Buuren,0,0,,,,,,"",""
+ball,1,12.2,Essex,MJJ Critchley,PI Walter,GL van Buuren,0,0,,,,,,"",""
+ball,1,12.3,Essex,MJJ Critchley,PI Walter,GL van Buuren,0,0,,,,,,"",""
+ball,1,12.4,Essex,MJJ Critchley,PI Walter,GL van Buuren,1,0,,,,,,"",""
+ball,1,12.5,Essex,PI Walter,MJJ Critchley,GL van Buuren,1,0,,,,,,"",""
+ball,1,12.6,Essex,MJJ Critchley,PI Walter,GL van Buuren,1,0,,,,,,"",""
+ball,1,13.1,Essex,MJJ Critchley,PI Walter,M de Lange,0,0,,,,,,"",""
+ball,1,13.2,Essex,MJJ Critchley,PI Walter,M de Lange,1,0,,,,,,"",""
+ball,1,13.3,Essex,PI Walter,MJJ Critchley,M de Lange,1,0,,,,,,"",""
+ball,1,13.4,Essex,MJJ Critchley,PI Walter,M de Lange,1,0,,,,,,"",""
+ball,1,13.5,Essex,PI Walter,MJJ Critchley,M de Lange,4,0,,,,,,"",""
+ball,1,13.6,Essex,PI Walter,MJJ Critchley,M de Lange,4,0,,,,,,"",""
+ball,1,14.1,Essex,MJJ Critchley,PI Walter,MD Taylor,1,0,,,,,,"",""
+ball,1,14.2,Essex,PI Walter,MJJ Critchley,MD Taylor,0,0,,,,,,"",""
+ball,1,14.3,Essex,PI Walter,MJJ Critchley,MD Taylor,4,0,,,,,,"",""
+ball,1,14.4,Essex,PI Walter,MJJ Critchley,MD Taylor,0,0,,,,,,caught,PI Walter
+ball,1,14.5,Essex,DR Sams,MJJ Critchley,MD Taylor,0,0,,,,,,"",""
+ball,1,14.6,Essex,DR Sams,MJJ Critchley,MD Taylor,1,0,,,,,,"",""
+ball,1,15.1,Essex,DR Sams,MJJ Critchley,DA Payne,0,0,,,,,,"",""
+ball,1,15.2,Essex,DR Sams,MJJ Critchley,DA Payne,0,0,,,,,,"",""
+ball,1,15.3,Essex,DR Sams,MJJ Critchley,DA Payne,2,0,,,,,,"",""
+ball,1,15.4,Essex,DR Sams,MJJ Critchley,DA Payne,6,0,,,,,,"",""
+ball,1,15.5,Essex,DR Sams,MJJ Critchley,DA Payne,0,0,,,,,,caught,DR Sams
+ball,1,15.6,Essex,SR Harmer,MJJ Critchley,DA Payne,0,0,,,,,,"",""
+ball,1,16.1,Essex,MJJ Critchley,SR Harmer,BJ Webster,1,0,,,,,,"",""
+ball,1,16.2,Essex,SR Harmer,MJJ Critchley,BJ Webster,1,0,,,,,,"",""
+ball,1,16.3,Essex,MJJ Critchley,SR Harmer,BJ Webster,1,0,,,,,,"",""
+ball,1,16.4,Essex,SR Harmer,MJJ Critchley,BJ Webster,0,0,,,,,,"",""
+ball,1,16.5,Essex,SR Harmer,MJJ Critchley,BJ Webster,1,0,,,,,,"",""
+ball,1,16.6,Essex,MJJ Critchley,SR Harmer,BJ Webster,1,0,,,,,,"",""
+ball,1,17.1,Essex,MJJ Critchley,SR Harmer,M de Lange,1,0,,,,,,"",""
+ball,1,17.2,Essex,SR Harmer,MJJ Critchley,M de Lange,0,0,,,,,,"",""
+ball,1,17.3,Essex,SR Harmer,MJJ Critchley,M de Lange,0,0,,,,,,"",""
+ball,1,17.4,Essex,SR Harmer,MJJ Critchley,M de Lange,1,0,,,,,,"",""
+ball,1,17.5,Essex,MJJ Critchley,SR Harmer,M de Lange,1,0,,,,,,"",""
+ball,1,17.6,Essex,SR Harmer,MJJ Critchley,M de Lange,0,0,,,,,,"",""
+ball,1,18.1,Essex,MJJ Critchley,SR Harmer,MD Taylor,0,0,,,,,,caught and bowled,MJJ Critchley
+ball,1,18.2,Essex,LM Benkenstein,SR Harmer,MD Taylor,0,0,,,,,,caught,LM Benkenstein
+ball,1,18.3,Essex,BMJ Allison,SR Harmer,MD Taylor,1,0,,,,,,"",""
+ball,1,18.4,Essex,SR Harmer,BMJ Allison,MD Taylor,0,0,,,,,,caught,SR Harmer
+ball,1,18.5,Essex,Aaron Beard,BMJ Allison,MD Taylor,1,0,,,,,,"",""
+ball,1,18.6,Essex,BMJ Allison,Aaron Beard,MD Taylor,1,0,,,,,,"",""
+ball,1,19.1,Essex,BMJ Allison,Aaron Beard,DA Payne,1,0,,,,,,"",""
+ball,1,19.2,Essex,Aaron Beard,BMJ Allison,DA Payne,2,0,,,,,,"",""
+ball,1,19.3,Essex,Aaron Beard,BMJ Allison,DA Payne,1,0,,,,,,"",""
+ball,1,19.4,Essex,BMJ Allison,Aaron Beard,DA Payne,0,0,,,,,,"",""
+ball,1,19.5,Essex,BMJ Allison,Aaron Beard,DA Payne,0,1,,,1,,,"",""
+ball,1,19.6,Essex,Aaron Beard,BMJ Allison,DA Payne,6,0,,,,,,"",""
+ball,2,0.1,Gloucestershire,Miles Hammond,CT Bancroft,DR Sams,0,0,,,,,,"",""
+ball,2,0.2,Gloucestershire,Miles Hammond,CT Bancroft,DR Sams,0,0,,,,,,"",""
+ball,2,0.3,Gloucestershire,Miles Hammond,CT Bancroft,DR Sams,0,0,,,,,,"",""
+ball,2,0.4,Gloucestershire,Miles Hammond,CT Bancroft,DR Sams,2,0,,,,,,"",""
+ball,2,0.5,Gloucestershire,Miles Hammond,CT Bancroft,DR Sams,2,0,,,,,,"",""
+ball,2,0.6,Gloucestershire,Miles Hammond,CT Bancroft,DR Sams,0,0,,,,,,caught,Miles Hammond
+ball,2,1.1,Gloucestershire,CT Bancroft,James Bracey,Aaron Beard,4,0,,,,,,"",""
+ball,2,1.2,Gloucestershire,CT Bancroft,James Bracey,Aaron Beard,1,0,,,,,,"",""
+ball,2,1.3,Gloucestershire,James Bracey,CT Bancroft,Aaron Beard,0,0,,,,,,"",""
+ball,2,1.4,Gloucestershire,James Bracey,CT Bancroft,Aaron Beard,6,0,,,,,,"",""
+ball,2,1.5,Gloucestershire,James Bracey,CT Bancroft,Aaron Beard,4,0,,,,,,"",""
+ball,2,1.6,Gloucestershire,James Bracey,CT Bancroft,Aaron Beard,0,1,1,,,,,"",""
+ball,2,1.7,Gloucestershire,James Bracey,CT Bancroft,Aaron Beard,1,0,,,,,,"",""
+ball,2,2.1,Gloucestershire,James Bracey,CT Bancroft,DR Sams,0,0,,,,,,"",""
+ball,2,2.2,Gloucestershire,James Bracey,CT Bancroft,DR Sams,0,0,,,,,,"",""
+ball,2,2.3,Gloucestershire,James Bracey,CT Bancroft,DR Sams,6,0,,,,,,"",""
+ball,2,2.4,Gloucestershire,James Bracey,CT Bancroft,DR Sams,4,0,,,,,,"",""
+ball,2,2.5,Gloucestershire,James Bracey,CT Bancroft,DR Sams,0,0,,,,,,"",""
+ball,2,2.6,Gloucestershire,James Bracey,CT Bancroft,DR Sams,1,0,,,,,,"",""
+ball,2,3.1,Gloucestershire,James Bracey,CT Bancroft,BMJ Allison,1,0,,,,,,"",""
+ball,2,3.2,Gloucestershire,CT Bancroft,James Bracey,BMJ Allison,0,0,,,,,,"",""
+ball,2,3.3,Gloucestershire,CT Bancroft,James Bracey,BMJ Allison,4,0,,,,,,"",""
+ball,2,3.4,Gloucestershire,CT Bancroft,James Bracey,BMJ Allison,4,0,,,,,,"",""
+ball,2,3.5,Gloucestershire,CT Bancroft,James Bracey,BMJ Allison,0,1,,,,1,,"",""
+ball,2,3.6,Gloucestershire,James Bracey,CT Bancroft,BMJ Allison,1,0,,,,,,"",""
+ball,2,4.1,Gloucestershire,James Bracey,CT Bancroft,SR Harmer,2,0,,,,,,"",""
+ball,2,4.2,Gloucestershire,James Bracey,CT Bancroft,SR Harmer,0,0,,,,,,"",""
+ball,2,4.3,Gloucestershire,James Bracey,CT Bancroft,SR Harmer,0,0,,,,,,"",""
+ball,2,4.4,Gloucestershire,James Bracey,CT Bancroft,SR Harmer,0,0,,,,,,"",""
+ball,2,4.5,Gloucestershire,James Bracey,CT Bancroft,SR Harmer,0,0,,,,,,"",""
+ball,2,4.6,Gloucestershire,James Bracey,CT Bancroft,SR Harmer,2,0,,,,,,"",""
+ball,2,5.1,Gloucestershire,CT Bancroft,James Bracey,DR Sams,4,0,,,,,,"",""
+ball,2,5.2,Gloucestershire,CT Bancroft,James Bracey,DR Sams,1,0,,,,,,"",""
+ball,2,5.3,Gloucestershire,James Bracey,CT Bancroft,DR Sams,1,0,,,,,,"",""
+ball,2,5.4,Gloucestershire,CT Bancroft,James Bracey,DR Sams,4,0,,,,,,"",""
+ball,2,5.5,Gloucestershire,CT Bancroft,James Bracey,DR Sams,1,0,,,,,,"",""
+ball,2,5.6,Gloucestershire,James Bracey,CT Bancroft,DR Sams,6,0,,,,,,"",""
+ball,2,6.1,Gloucestershire,CT Bancroft,James Bracey,SR Harmer,3,0,,,,,,"",""
+ball,2,6.2,Gloucestershire,James Bracey,CT Bancroft,SR Harmer,0,0,,,,,,"",""
+ball,2,6.3,Gloucestershire,James Bracey,CT Bancroft,SR Harmer,1,0,,,,,,"",""
+ball,2,6.4,Gloucestershire,CT Bancroft,James Bracey,SR Harmer,0,0,,,,,,"",""
+ball,2,6.5,Gloucestershire,CT Bancroft,James Bracey,SR Harmer,1,0,,,,,,"",""
+ball,2,6.6,Gloucestershire,James Bracey,CT Bancroft,SR Harmer,0,0,,,,,,"",""
+ball,2,7.1,Gloucestershire,CT Bancroft,James Bracey,MJJ Critchley,4,0,,,,,,"",""
+ball,2,7.2,Gloucestershire,CT Bancroft,James Bracey,MJJ Critchley,1,0,,,,,,"",""
+ball,2,7.3,Gloucestershire,James Bracey,CT Bancroft,MJJ Critchley,4,0,,,,,,"",""
+ball,2,7.4,Gloucestershire,James Bracey,CT Bancroft,MJJ Critchley,6,0,,,,,,"",""
+ball,2,7.5,Gloucestershire,James Bracey,CT Bancroft,MJJ Critchley,1,0,,,,,,"",""
+ball,2,7.6,Gloucestershire,CT Bancroft,James Bracey,MJJ Critchley,0,0,,,,,,"",""
+ball,2,8.1,Gloucestershire,James Bracey,CT Bancroft,LM Benkenstein,0,0,,,,,,"",""
+ball,2,8.2,Gloucestershire,James Bracey,CT Bancroft,LM Benkenstein,1,0,,,,,,"",""
+ball,2,8.3,Gloucestershire,CT Bancroft,James Bracey,LM Benkenstein,0,0,,,,,,"",""
+ball,2,8.4,Gloucestershire,CT Bancroft,James Bracey,LM Benkenstein,0,1,1,,,,,"",""
+ball,2,8.5,Gloucestershire,CT Bancroft,James Bracey,LM Benkenstein,0,0,,,,,,bowled,CT Bancroft
+ball,2,8.6,Gloucestershire,BJ Webster,James Bracey,LM Benkenstein,1,0,,,,,,"",""
+ball,2,8.7,Gloucestershire,James Bracey,BJ Webster,LM Benkenstein,1,0,,,,,,"",""
+ball,2,9.1,Gloucestershire,James Bracey,BJ Webster,Aaron Beard,0,0,,,,,,caught,James Bracey
+ball,2,9.2,Gloucestershire,JMR Taylor,BJ Webster,Aaron Beard,1,0,,,,,,"",""
+ball,2,9.3,Gloucestershire,BJ Webster,JMR Taylor,Aaron Beard,1,0,,,,,,"",""
+ball,2,9.4,Gloucestershire,JMR Taylor,BJ Webster,Aaron Beard,1,0,,,,,,"",""
+ball,2,9.5,Gloucestershire,BJ Webster,JMR Taylor,Aaron Beard,0,0,,,,,,"",""
+ball,2,9.6,Gloucestershire,BJ Webster,JMR Taylor,Aaron Beard,0,0,,,,,,"",""
+ball,2,10.1,Gloucestershire,JMR Taylor,BJ Webster,LM Benkenstein,0,1,1,,,,,"",""
+ball,2,10.2,Gloucestershire,JMR Taylor,BJ Webster,LM Benkenstein,0,0,,,,,,"",""
+ball,2,10.3,Gloucestershire,JMR Taylor,BJ Webster,LM Benkenstein,0,0,,,,,,"",""
+ball,2,10.4,Gloucestershire,JMR Taylor,BJ Webster,LM Benkenstein,0,0,,,,,,"",""
+ball,2,10.5,Gloucestershire,JMR Taylor,BJ Webster,LM Benkenstein,4,0,,,,,,"",""
+ball,2,10.6,Gloucestershire,JMR Taylor,BJ Webster,LM Benkenstein,1,0,,,,,,"",""
+ball,2,10.7,Gloucestershire,BJ Webster,JMR Taylor,LM Benkenstein,1,0,,,,,,"",""
+ball,2,11.1,Gloucestershire,BJ Webster,JMR Taylor,MJJ Critchley,1,0,,,,,,"",""
+ball,2,11.2,Gloucestershire,JMR Taylor,BJ Webster,MJJ Critchley,0,0,,,,,,caught,JMR Taylor
+ball,2,11.3,Gloucestershire,BG Charlesworth,BJ Webster,MJJ Critchley,1,0,,,,,,"",""
+ball,2,11.4,Gloucestershire,BJ Webster,BG Charlesworth,MJJ Critchley,1,0,,,,,,"",""
+ball,2,11.5,Gloucestershire,BG Charlesworth,BJ Webster,MJJ Critchley,1,0,,,,,,"",""
+ball,2,11.6,Gloucestershire,BJ Webster,BG Charlesworth,MJJ Critchley,0,0,,,,,,"",""
+ball,2,12.1,Gloucestershire,BG Charlesworth,BJ Webster,SR Harmer,0,0,,,,,,"",""
+ball,2,12.2,Gloucestershire,BG Charlesworth,BJ Webster,SR Harmer,1,0,,,,,,"",""
+ball,2,12.3,Gloucestershire,BJ Webster,BG Charlesworth,SR Harmer,0,0,,,,,,"",""
+ball,2,12.4,Gloucestershire,BJ Webster,BG Charlesworth,SR Harmer,1,0,,,,,,"",""
+ball,2,12.5,Gloucestershire,BG Charlesworth,BJ Webster,SR Harmer,1,0,,,,,,"",""
+ball,2,12.6,Gloucestershire,BJ Webster,BG Charlesworth,SR Harmer,1,0,,,,,,"",""
+ball,2,13.1,Gloucestershire,BJ Webster,BG Charlesworth,MJJ Critchley,1,0,,,,,,"",""
+ball,2,13.2,Gloucestershire,BG Charlesworth,BJ Webster,MJJ Critchley,6,0,,,,,,"",""
+ball,2,13.3,Gloucestershire,BG Charlesworth,BJ Webster,MJJ Critchley,0,0,,,,,,"",""
+ball,2,13.4,Gloucestershire,BG Charlesworth,BJ Webster,MJJ Critchley,0,0,,,,,,"",""
+ball,2,13.5,Gloucestershire,BG Charlesworth,BJ Webster,MJJ Critchley,0,0,,,,,,"",""
+ball,2,13.6,Gloucestershire,BG Charlesworth,BJ Webster,MJJ Critchley,1,0,,,,,,"",""
+ball,2,14.1,Gloucestershire,BG Charlesworth,BJ Webster,PI Walter,1,0,,,,,,"",""
+ball,2,14.2,Gloucestershire,BJ Webster,BG Charlesworth,PI Walter,1,0,,,,,,"",""
+ball,2,14.3,Gloucestershire,BG Charlesworth,BJ Webster,PI Walter,1,0,,,,,,"",""
+ball,2,14.4,Gloucestershire,BJ Webster,BG Charlesworth,PI Walter,4,0,,,,,,"",""
+ball,2,14.5,Gloucestershire,BJ Webster,BG Charlesworth,PI Walter,1,0,,,,,,"",""
+ball,2,14.6,Gloucestershire,BG Charlesworth,BJ Webster,PI Walter,0,0,,,,,,"",""
+ball,2,15.1,Gloucestershire,BJ Webster,BG Charlesworth,LM Benkenstein,1,0,,,,,,"",""
+ball,2,15.2,Gloucestershire,BG Charlesworth,BJ Webster,LM Benkenstein,6,0,,,,,,"",""
+ball,2,15.3,Gloucestershire,BG Charlesworth,BJ Webster,LM Benkenstein,1,0,,,,,,"",""
+ball,2,15.4,Gloucestershire,BJ Webster,BG Charlesworth,LM Benkenstein,4,0,,,,,,"",""
+ball,2,15.5,Gloucestershire,BJ Webster,BG Charlesworth,LM Benkenstein,0,0,,,,,,caught,BJ Webster
+ball,2,15.6,Gloucestershire,GL van Buuren,BG Charlesworth,LM Benkenstein,1,0,,,,,,"",""
+ball,2,16.1,Gloucestershire,GL van Buuren,BG Charlesworth,SR Harmer,1,0,,,,,,"",""
+ball,2,16.2,Gloucestershire,BG Charlesworth,GL van Buuren,SR Harmer,0,0,,,,,,"",""
+ball,2,16.3,Gloucestershire,BG Charlesworth,GL van Buuren,SR Harmer,1,0,,,,,,"",""
+ball,2,16.4,Gloucestershire,GL van Buuren,BG Charlesworth,SR Harmer,2,0,,,,,,"",""
+ball,2,16.5,Gloucestershire,GL van Buuren,BG Charlesworth,SR Harmer,1,0,,,,,,"",""
+ball,2,16.6,Gloucestershire,BG Charlesworth,GL van Buuren,SR Harmer,1,0,,,,,,"",""

@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Sussex
+info,gender,male
+info,season,2021
+info,date,2021/09/18
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Kent
+info,toss_decision,bat
+info,player_of_match,DJ Bell-Drummond
+info,umpire,GD Lloyd
+info,umpire,MJ Saggers
+info,reserve_umpire,M Burns
+info,tv_umpire,NL Bainton
+info,match_referee,Wayne Noon
+info,winner,Kent
+info,winner_runs,21
+info,player,Kent,Z Crawley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,SW Billings
+info,player,Kent,JA Leaning
+info,player,Kent,JM Cox
+info,player,Kent,DI Stevens
+info,player,Kent,G Stewart
+info,player,Kent,Qais Ahmad
+info,player,Kent,ME Milnes
+info,player,Kent,FJ Klaassen
+info,player,Sussex,PD Salt
+info,player,Sussex,LJ Wright
+info,player,Sussex,RS Bopara
+info,player,Sussex,DMW Rawlins
+info,player,Sussex,D Wiese
+info,player,Sussex,HD Ward
+info,player,Sussex,GHS Garton
+info,player,Sussex,CJ Jordan
+info,player,Sussex,WAT Beer
+info,player,Sussex,TS Mills
+info,player,Sussex,AC Lenham
+info,registry,people,AC Lenham,8f9c5014
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DI Stevens,bca21d18
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,M Burns,b3bd0666
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WAT Beer,98eacfe5
+info,registry,people,Wayne Noon,736e1761
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,Kent,Z Crawley,DJ Bell-Drummond,GHS Garton,0,1,1,,,,,"",""
+ball,1,0.2,Kent,Z Crawley,DJ Bell-Drummond,GHS Garton,0,0,,,,,,"",""
+ball,1,0.3,Kent,Z Crawley,DJ Bell-Drummond,GHS Garton,0,0,,,,,,"",""
+ball,1,0.4,Kent,Z Crawley,DJ Bell-Drummond,GHS Garton,0,1,1,,,,,"",""
+ball,1,0.5,Kent,Z Crawley,DJ Bell-Drummond,GHS Garton,2,0,,,,,,"",""
+ball,1,0.6,Kent,Z Crawley,DJ Bell-Drummond,GHS Garton,1,0,,,,,,"",""
+ball,1,0.7,Kent,DJ Bell-Drummond,Z Crawley,GHS Garton,1,0,,,,,,"",""
+ball,1,0.8,Kent,Z Crawley,DJ Bell-Drummond,GHS Garton,0,0,,,,,,"",""
+ball,1,1.1,Kent,DJ Bell-Drummond,Z Crawley,D Wiese,0,1,,,,1,,"",""
+ball,1,1.2,Kent,Z Crawley,DJ Bell-Drummond,D Wiese,4,0,,,,,,"",""
+ball,1,1.3,Kent,Z Crawley,DJ Bell-Drummond,D Wiese,1,0,,,,,,"",""
+ball,1,1.4,Kent,DJ Bell-Drummond,Z Crawley,D Wiese,4,0,,,,,,"",""
+ball,1,1.5,Kent,DJ Bell-Drummond,Z Crawley,D Wiese,2,0,,,,,,"",""
+ball,1,1.6,Kent,DJ Bell-Drummond,Z Crawley,D Wiese,4,0,,,,,,"",""
+ball,1,2.1,Kent,Z Crawley,DJ Bell-Drummond,GHS Garton,1,0,,,,,,"",""
+ball,1,2.2,Kent,DJ Bell-Drummond,Z Crawley,GHS Garton,1,0,,,,,,"",""
+ball,1,2.3,Kent,Z Crawley,DJ Bell-Drummond,GHS Garton,0,0,,,,,,bowled,Z Crawley
+ball,1,2.4,Kent,JL Denly,DJ Bell-Drummond,GHS Garton,0,0,,,,,,"",""
+ball,1,2.5,Kent,JL Denly,DJ Bell-Drummond,GHS Garton,1,0,,,,,,"",""
+ball,1,2.6,Kent,DJ Bell-Drummond,JL Denly,GHS Garton,1,0,,,,,,"",""
+ball,1,3.1,Kent,DJ Bell-Drummond,JL Denly,TS Mills,2,0,,,,,,"",""
+ball,1,3.2,Kent,DJ Bell-Drummond,JL Denly,TS Mills,4,0,,,,,,"",""
+ball,1,3.3,Kent,DJ Bell-Drummond,JL Denly,TS Mills,2,0,,,,,,"",""
+ball,1,3.4,Kent,DJ Bell-Drummond,JL Denly,TS Mills,4,0,,,,,,"",""
+ball,1,3.5,Kent,DJ Bell-Drummond,JL Denly,TS Mills,0,0,,,,,,"",""
+ball,1,3.6,Kent,DJ Bell-Drummond,JL Denly,TS Mills,6,0,,,,,,"",""
+ball,1,4.1,Kent,JL Denly,DJ Bell-Drummond,CJ Jordan,0,0,,,,,,"",""
+ball,1,4.2,Kent,JL Denly,DJ Bell-Drummond,CJ Jordan,1,0,,,,,,"",""
+ball,1,4.3,Kent,DJ Bell-Drummond,JL Denly,CJ Jordan,4,0,,,,,,"",""
+ball,1,4.4,Kent,DJ Bell-Drummond,JL Denly,CJ Jordan,0,0,,,,,,"",""
+ball,1,4.5,Kent,DJ Bell-Drummond,JL Denly,CJ Jordan,1,0,,,,,,"",""
+ball,1,4.6,Kent,JL Denly,DJ Bell-Drummond,CJ Jordan,1,0,,,,,,"",""
+ball,1,5.1,Kent,JL Denly,DJ Bell-Drummond,GHS Garton,0,0,,,,,,"",""
+ball,1,5.2,Kent,JL Denly,DJ Bell-Drummond,GHS Garton,0,0,,,,,,"",""
+ball,1,5.3,Kent,JL Denly,DJ Bell-Drummond,GHS Garton,0,0,,,,,,caught,JL Denly
+ball,1,5.4,Kent,DJ Bell-Drummond,SW Billings,GHS Garton,1,0,,,,,,"",""
+ball,1,5.5,Kent,SW Billings,DJ Bell-Drummond,GHS Garton,1,0,,,,,,"",""
+ball,1,5.6,Kent,DJ Bell-Drummond,SW Billings,GHS Garton,0,0,,,,,,"",""
+ball,1,6.1,Kent,SW Billings,DJ Bell-Drummond,AC Lenham,1,0,,,,,,"",""
+ball,1,6.2,Kent,DJ Bell-Drummond,SW Billings,AC Lenham,1,0,,,,,,"",""
+ball,1,6.3,Kent,SW Billings,DJ Bell-Drummond,AC Lenham,1,0,,,,,,"",""
+ball,1,6.4,Kent,DJ Bell-Drummond,SW Billings,AC Lenham,1,0,,,,,,"",""
+ball,1,6.5,Kent,SW Billings,DJ Bell-Drummond,AC Lenham,1,0,,,,,,"",""
+ball,1,6.6,Kent,DJ Bell-Drummond,SW Billings,AC Lenham,1,0,,,,,,"",""
+ball,1,7.1,Kent,DJ Bell-Drummond,SW Billings,WAT Beer,0,0,,,,,,"",""
+ball,1,7.2,Kent,DJ Bell-Drummond,SW Billings,WAT Beer,1,0,,,,,,"",""
+ball,1,7.3,Kent,SW Billings,DJ Bell-Drummond,WAT Beer,1,0,,,,,,"",""
+ball,1,7.4,Kent,DJ Bell-Drummond,SW Billings,WAT Beer,2,0,,,,,,"",""
+ball,1,7.5,Kent,DJ Bell-Drummond,SW Billings,WAT Beer,2,0,,,,,,"",""
+ball,1,7.6,Kent,DJ Bell-Drummond,SW Billings,WAT Beer,1,0,,,,,,"",""
+ball,1,8.1,Kent,DJ Bell-Drummond,SW Billings,AC Lenham,2,0,,,,,,"",""
+ball,1,8.2,Kent,DJ Bell-Drummond,SW Billings,AC Lenham,1,0,,,,,,"",""
+ball,1,8.3,Kent,SW Billings,DJ Bell-Drummond,AC Lenham,2,0,,,,,,"",""
+ball,1,8.4,Kent,SW Billings,DJ Bell-Drummond,AC Lenham,1,0,,,,,,"",""
+ball,1,8.5,Kent,DJ Bell-Drummond,SW Billings,AC Lenham,1,0,,,,,,"",""
+ball,1,8.6,Kent,SW Billings,DJ Bell-Drummond,AC Lenham,0,0,,,,,,"",""
+ball,1,9.1,Kent,DJ Bell-Drummond,SW Billings,WAT Beer,2,0,,,,,,"",""
+ball,1,9.2,Kent,DJ Bell-Drummond,SW Billings,WAT Beer,1,0,,,,,,"",""
+ball,1,9.3,Kent,SW Billings,DJ Bell-Drummond,WAT Beer,4,0,,,,,,"",""
+ball,1,9.4,Kent,SW Billings,DJ Bell-Drummond,WAT Beer,1,0,,,,,,"",""
+ball,1,9.5,Kent,DJ Bell-Drummond,SW Billings,WAT Beer,0,0,,,,,,"",""
+ball,1,9.6,Kent,DJ Bell-Drummond,SW Billings,WAT Beer,1,0,,,,,,"",""
+ball,1,10.1,Kent,DJ Bell-Drummond,SW Billings,RS Bopara,1,0,,,,,,"",""
+ball,1,10.2,Kent,SW Billings,DJ Bell-Drummond,RS Bopara,0,0,,,,,,"",""
+ball,1,10.3,Kent,SW Billings,DJ Bell-Drummond,RS Bopara,1,2,,2,,,,"",""
+ball,1,10.4,Kent,DJ Bell-Drummond,SW Billings,RS Bopara,6,0,,,,,,"",""
+ball,1,10.5,Kent,DJ Bell-Drummond,SW Billings,RS Bopara,1,0,,,,,,"",""
+ball,1,10.6,Kent,SW Billings,DJ Bell-Drummond,RS Bopara,0,0,,,,,,"",""
+ball,1,10.7,Kent,SW Billings,DJ Bell-Drummond,RS Bopara,0,0,,,,,,bowled,SW Billings
+ball,1,11.1,Kent,DJ Bell-Drummond,JA Leaning,TS Mills,1,0,,,,,,"",""
+ball,1,11.2,Kent,JA Leaning,DJ Bell-Drummond,TS Mills,0,0,,,,,,"",""
+ball,1,11.3,Kent,JA Leaning,DJ Bell-Drummond,TS Mills,0,0,,,,,,bowled,JA Leaning
+ball,1,11.4,Kent,JM Cox,DJ Bell-Drummond,TS Mills,0,0,,,,,,caught,JM Cox
+ball,1,11.5,Kent,DI Stevens,DJ Bell-Drummond,TS Mills,0,0,,,,,,"",""
+ball,1,11.6,Kent,DI Stevens,DJ Bell-Drummond,TS Mills,2,0,,,,,,"",""
+ball,1,12.1,Kent,DJ Bell-Drummond,DI Stevens,CJ Jordan,2,0,,,,,,"",""
+ball,1,12.2,Kent,DJ Bell-Drummond,DI Stevens,CJ Jordan,1,0,,,,,,"",""
+ball,1,12.3,Kent,DI Stevens,DJ Bell-Drummond,CJ Jordan,1,0,,,,,,"",""
+ball,1,12.4,Kent,DJ Bell-Drummond,DI Stevens,CJ Jordan,1,0,,,,,,"",""
+ball,1,12.5,Kent,DI Stevens,DJ Bell-Drummond,CJ Jordan,1,0,,,,,,"",""
+ball,1,12.6,Kent,DJ Bell-Drummond,DI Stevens,CJ Jordan,2,0,,,,,,"",""
+ball,1,13.1,Kent,DI Stevens,DJ Bell-Drummond,WAT Beer,4,0,,,,,,"",""
+ball,1,13.2,Kent,DI Stevens,DJ Bell-Drummond,WAT Beer,0,0,,,,,,"",""
+ball,1,13.3,Kent,DI Stevens,DJ Bell-Drummond,WAT Beer,0,0,,,,,,"",""
+ball,1,13.4,Kent,DI Stevens,DJ Bell-Drummond,WAT Beer,1,0,,,,,,"",""
+ball,1,13.5,Kent,DJ Bell-Drummond,DI Stevens,WAT Beer,2,0,,,,,,"",""
+ball,1,13.6,Kent,DJ Bell-Drummond,DI Stevens,WAT Beer,1,0,,,,,,"",""
+ball,1,14.1,Kent,DJ Bell-Drummond,DI Stevens,RS Bopara,0,0,,,,,,"",""
+ball,1,14.2,Kent,DJ Bell-Drummond,DI Stevens,RS Bopara,4,0,,,,,,"",""
+ball,1,14.3,Kent,DJ Bell-Drummond,DI Stevens,RS Bopara,1,0,,,,,,"",""
+ball,1,14.4,Kent,DI Stevens,DJ Bell-Drummond,RS Bopara,4,0,,,,,,"",""
+ball,1,14.5,Kent,DI Stevens,DJ Bell-Drummond,RS Bopara,1,0,,,,,,"",""
+ball,1,14.6,Kent,DJ Bell-Drummond,DI Stevens,RS Bopara,0,0,,,,,,"",""
+ball,1,15.1,Kent,DI Stevens,DJ Bell-Drummond,GHS Garton,1,0,,,,,,"",""
+ball,1,15.2,Kent,DJ Bell-Drummond,DI Stevens,GHS Garton,0,1,1,,,,,"",""
+ball,1,15.3,Kent,DJ Bell-Drummond,DI Stevens,GHS Garton,0,0,,,,,,"",""
+ball,1,15.4,Kent,DJ Bell-Drummond,DI Stevens,GHS Garton,1,0,,,,,,"",""
+ball,1,15.5,Kent,DI Stevens,DJ Bell-Drummond,GHS Garton,4,0,,,,,,"",""
+ball,1,15.6,Kent,DI Stevens,DJ Bell-Drummond,GHS Garton,1,0,,,,,,"",""
+ball,1,15.7,Kent,DJ Bell-Drummond,DI Stevens,GHS Garton,4,0,,,,,,"",""
+ball,1,16.1,Kent,DI Stevens,DJ Bell-Drummond,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.2,Kent,DJ Bell-Drummond,DI Stevens,CJ Jordan,0,1,1,,,,,"",""
+ball,1,16.3,Kent,DJ Bell-Drummond,DI Stevens,CJ Jordan,0,0,,,,,,caught,DJ Bell-Drummond
+ball,1,16.4,Kent,DI Stevens,G Stewart,CJ Jordan,4,0,,,,,,"",""
+ball,1,16.5,Kent,DI Stevens,G Stewart,CJ Jordan,2,0,,,,,,"",""
+ball,1,16.6,Kent,DI Stevens,G Stewart,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.7,Kent,G Stewart,DI Stevens,CJ Jordan,0,0,,,,,,"",""
+ball,1,17.1,Kent,DI Stevens,G Stewart,TS Mills,1,0,,,,,,"",""
+ball,1,17.2,Kent,G Stewart,DI Stevens,TS Mills,0,0,,,,,,"",""
+ball,1,17.3,Kent,G Stewart,DI Stevens,TS Mills,1,0,,,,,,"",""
+ball,1,17.4,Kent,DI Stevens,G Stewart,TS Mills,1,0,,,,,,"",""
+ball,1,17.5,Kent,G Stewart,DI Stevens,TS Mills,1,0,,,,,,"",""
+ball,1,17.6,Kent,DI Stevens,G Stewart,TS Mills,1,0,,,,,,"",""
+ball,1,18.1,Kent,DI Stevens,G Stewart,CJ Jordan,1,0,,,,,,"",""
+ball,1,18.2,Kent,G Stewart,DI Stevens,CJ Jordan,1,0,,,,,,"",""
+ball,1,18.3,Kent,DI Stevens,G Stewart,CJ Jordan,4,0,,,,,,"",""
+ball,1,18.4,Kent,DI Stevens,G Stewart,CJ Jordan,2,0,,,,,,"",""
+ball,1,18.5,Kent,DI Stevens,G Stewart,CJ Jordan,0,0,,,,,,"",""
+ball,1,18.6,Kent,DI Stevens,G Stewart,CJ Jordan,4,0,,,,,,"",""
+ball,1,19.1,Kent,G Stewart,DI Stevens,TS Mills,0,0,,,,,,caught,G Stewart
+ball,1,19.2,Kent,Qais Ahmad,DI Stevens,TS Mills,2,0,,,,,,"",""
+ball,1,19.3,Kent,Qais Ahmad,DI Stevens,TS Mills,0,1,,,1,,,"",""
+ball,1,19.4,Kent,DI Stevens,Qais Ahmad,TS Mills,0,0,,,,,,run out,Qais Ahmad
+ball,1,19.5,Kent,DI Stevens,ME Milnes,TS Mills,4,0,,,,,,"",""
+ball,1,19.6,Kent,DI Stevens,ME Milnes,TS Mills,1,0,,,,,,"",""
+ball,2,0.1,Sussex,PD Salt,LJ Wright,JL Denly,0,0,,,,,,"",""
+ball,2,0.2,Sussex,PD Salt,LJ Wright,JL Denly,4,0,,,,,,"",""
+ball,2,0.3,Sussex,PD Salt,LJ Wright,JL Denly,1,0,,,,,,"",""
+ball,2,0.4,Sussex,LJ Wright,PD Salt,JL Denly,0,0,,,,,,"",""
+ball,2,0.5,Sussex,LJ Wright,PD Salt,JL Denly,4,0,,,,,,"",""
+ball,2,0.6,Sussex,LJ Wright,PD Salt,JL Denly,0,0,,,,,,"",""
+ball,2,1.1,Sussex,PD Salt,LJ Wright,FJ Klaassen,0,1,1,,,,,"",""
+ball,2,1.2,Sussex,PD Salt,LJ Wright,FJ Klaassen,0,0,,,,,,"",""
+ball,2,1.3,Sussex,PD Salt,LJ Wright,FJ Klaassen,4,0,,,,,,"",""
+ball,2,1.4,Sussex,PD Salt,LJ Wright,FJ Klaassen,0,1,1,,,,,"",""
+ball,2,1.5,Sussex,PD Salt,LJ Wright,FJ Klaassen,0,0,,,,,,caught,PD Salt
+ball,2,1.6,Sussex,RS Bopara,LJ Wright,FJ Klaassen,0,4,,,,4,,"",""
+ball,2,1.7,Sussex,RS Bopara,LJ Wright,FJ Klaassen,0,0,,,,,,"",""
+ball,2,1.8,Sussex,RS Bopara,LJ Wright,FJ Klaassen,0,0,,,,,,"",""
+ball,2,2.1,Sussex,LJ Wright,RS Bopara,JL Denly,4,0,,,,,,"",""
+ball,2,2.2,Sussex,LJ Wright,RS Bopara,JL Denly,1,0,,,,,,"",""
+ball,2,2.3,Sussex,RS Bopara,LJ Wright,JL Denly,0,0,,,,,,"",""
+ball,2,2.4,Sussex,RS Bopara,LJ Wright,JL Denly,1,0,,,,,,"",""
+ball,2,2.5,Sussex,LJ Wright,RS Bopara,JL Denly,0,0,,,,,,"",""
+ball,2,2.6,Sussex,LJ Wright,RS Bopara,JL Denly,0,1,1,,,,,"",""
+ball,2,2.7,Sussex,LJ Wright,RS Bopara,JL Denly,0,0,,,,,,"",""
+ball,2,3.1,Sussex,RS Bopara,LJ Wright,ME Milnes,1,0,,,,,,"",""
+ball,2,3.2,Sussex,LJ Wright,RS Bopara,ME Milnes,1,0,,,,,,"",""
+ball,2,3.3,Sussex,RS Bopara,LJ Wright,ME Milnes,0,0,,,,,,"",""
+ball,2,3.4,Sussex,RS Bopara,LJ Wright,ME Milnes,2,0,,,,,,"",""
+ball,2,3.5,Sussex,RS Bopara,LJ Wright,ME Milnes,1,0,,,,,,"",""
+ball,2,3.6,Sussex,LJ Wright,RS Bopara,ME Milnes,0,0,,,,,,bowled,LJ Wright
+ball,2,4.1,Sussex,RS Bopara,DMW Rawlins,G Stewart,0,0,,,,,,"",""
+ball,2,4.2,Sussex,RS Bopara,DMW Rawlins,G Stewart,4,0,,,,,,"",""
+ball,2,4.3,Sussex,RS Bopara,DMW Rawlins,G Stewart,0,0,,,,,,"",""
+ball,2,4.4,Sussex,RS Bopara,DMW Rawlins,G Stewart,1,0,,,,,,"",""
+ball,2,4.5,Sussex,DMW Rawlins,RS Bopara,G Stewart,0,0,,,,,,"",""
+ball,2,4.6,Sussex,DMW Rawlins,RS Bopara,G Stewart,0,1,,,,1,,"",""
+ball,2,5.1,Sussex,DMW Rawlins,RS Bopara,FJ Klaassen,0,0,,,,,,"",""
+ball,2,5.2,Sussex,DMW Rawlins,RS Bopara,FJ Klaassen,2,0,,,,,,"",""
+ball,2,5.3,Sussex,DMW Rawlins,RS Bopara,FJ Klaassen,0,0,,,,,,"",""
+ball,2,5.4,Sussex,DMW Rawlins,RS Bopara,FJ Klaassen,0,0,,,,,,"",""
+ball,2,5.5,Sussex,DMW Rawlins,RS Bopara,FJ Klaassen,0,0,,,,,,caught,DMW Rawlins
+ball,2,5.6,Sussex,D Wiese,RS Bopara,FJ Klaassen,1,0,,,,,,"",""
+ball,2,6.1,Sussex,D Wiese,RS Bopara,Qais Ahmad,0,0,,,,,,"",""
+ball,2,6.2,Sussex,D Wiese,RS Bopara,Qais Ahmad,1,0,,,,,,"",""
+ball,2,6.3,Sussex,RS Bopara,D Wiese,Qais Ahmad,1,0,,,,,,"",""
+ball,2,6.4,Sussex,D Wiese,RS Bopara,Qais Ahmad,0,0,,,,,,"",""
+ball,2,6.5,Sussex,D Wiese,RS Bopara,Qais Ahmad,0,0,,,,,,"",""
+ball,2,6.6,Sussex,D Wiese,RS Bopara,Qais Ahmad,1,0,,,,,,"",""
+ball,2,7.1,Sussex,D Wiese,RS Bopara,DI Stevens,0,0,,,,,,bowled,D Wiese
+ball,2,7.2,Sussex,HD Ward,RS Bopara,DI Stevens,1,0,,,,,,"",""
+ball,2,7.3,Sussex,RS Bopara,HD Ward,DI Stevens,0,0,,,,,,"",""
+ball,2,7.4,Sussex,RS Bopara,HD Ward,DI Stevens,1,0,,,,,,"",""
+ball,2,7.5,Sussex,HD Ward,RS Bopara,DI Stevens,1,0,,,,,,"",""
+ball,2,7.6,Sussex,RS Bopara,HD Ward,DI Stevens,6,0,,,,,,"",""
+ball,2,8.1,Sussex,HD Ward,RS Bopara,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.2,Sussex,RS Bopara,HD Ward,Qais Ahmad,4,0,,,,,,"",""
+ball,2,8.3,Sussex,RS Bopara,HD Ward,Qais Ahmad,0,0,,,,,,"",""
+ball,2,8.4,Sussex,RS Bopara,HD Ward,Qais Ahmad,0,0,,,,,,caught,RS Bopara
+ball,2,8.5,Sussex,GHS Garton,HD Ward,Qais Ahmad,0,0,,,,,,"",""
+ball,2,8.6,Sussex,GHS Garton,HD Ward,Qais Ahmad,0,0,,,,,,"",""
+ball,2,9.1,Sussex,HD Ward,GHS Garton,JA Leaning,0,0,,,,,,"",""
+ball,2,9.2,Sussex,HD Ward,GHS Garton,JA Leaning,0,0,,,,,,"",""
+ball,2,9.3,Sussex,HD Ward,GHS Garton,JA Leaning,2,0,,,,,,"",""
+ball,2,9.4,Sussex,HD Ward,GHS Garton,JA Leaning,1,0,,,,,,"",""
+ball,2,9.5,Sussex,GHS Garton,HD Ward,JA Leaning,1,0,,,,,,"",""
+ball,2,9.6,Sussex,HD Ward,GHS Garton,JA Leaning,1,0,,,,,,"",""
+ball,2,10.1,Sussex,HD Ward,GHS Garton,DI Stevens,4,0,,,,,,"",""
+ball,2,10.2,Sussex,HD Ward,GHS Garton,DI Stevens,1,0,,,,,,"",""
+ball,2,10.3,Sussex,GHS Garton,HD Ward,DI Stevens,1,0,,,,,,"",""
+ball,2,10.4,Sussex,HD Ward,GHS Garton,DI Stevens,2,0,,,,,,"",""
+ball,2,10.5,Sussex,HD Ward,GHS Garton,DI Stevens,4,0,,,,,,"",""
+ball,2,10.6,Sussex,HD Ward,GHS Garton,DI Stevens,1,0,,,,,,"",""
+ball,2,11.1,Sussex,HD Ward,GHS Garton,JA Leaning,1,0,,,,,,"",""
+ball,2,11.2,Sussex,GHS Garton,HD Ward,JA Leaning,0,0,,,,,,"",""
+ball,2,11.3,Sussex,GHS Garton,HD Ward,JA Leaning,4,0,,,,,,"",""
+ball,2,11.4,Sussex,GHS Garton,HD Ward,JA Leaning,0,0,,,,,,"",""
+ball,2,11.5,Sussex,GHS Garton,HD Ward,JA Leaning,0,0,,,,,,"",""
+ball,2,11.6,Sussex,GHS Garton,HD Ward,JA Leaning,1,0,,,,,,"",""
+ball,2,12.1,Sussex,GHS Garton,HD Ward,Qais Ahmad,0,0,,,,,,"",""
+ball,2,12.2,Sussex,GHS Garton,HD Ward,Qais Ahmad,1,0,,,,,,"",""
+ball,2,12.3,Sussex,HD Ward,GHS Garton,Qais Ahmad,0,0,,,,,,"",""
+ball,2,12.4,Sussex,HD Ward,GHS Garton,Qais Ahmad,0,0,,,,,,"",""
+ball,2,12.5,Sussex,HD Ward,GHS Garton,Qais Ahmad,1,0,,,,,,"",""
+ball,2,12.6,Sussex,GHS Garton,HD Ward,Qais Ahmad,6,0,,,,,,"",""
+ball,2,13.1,Sussex,HD Ward,GHS Garton,JA Leaning,0,0,,,,,,caught,HD Ward
+ball,2,13.2,Sussex,GHS Garton,CJ Jordan,JA Leaning,0,0,,,,,,"",""
+ball,2,13.3,Sussex,GHS Garton,CJ Jordan,JA Leaning,1,0,,,,,,"",""
+ball,2,13.4,Sussex,CJ Jordan,GHS Garton,JA Leaning,1,0,,,,,,"",""
+ball,2,13.5,Sussex,GHS Garton,CJ Jordan,JA Leaning,4,0,,,,,,"",""
+ball,2,13.6,Sussex,GHS Garton,CJ Jordan,JA Leaning,1,0,,,,,,"",""
+ball,2,14.1,Sussex,GHS Garton,CJ Jordan,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.2,Sussex,CJ Jordan,GHS Garton,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.3,Sussex,GHS Garton,CJ Jordan,Qais Ahmad,0,0,,,,,,"",""
+ball,2,14.4,Sussex,GHS Garton,CJ Jordan,Qais Ahmad,4,0,,,,,,"",""
+ball,2,14.5,Sussex,GHS Garton,CJ Jordan,Qais Ahmad,4,0,,,,,,"",""
+ball,2,14.6,Sussex,GHS Garton,CJ Jordan,Qais Ahmad,6,0,,,,,,"",""
+ball,2,15.1,Sussex,CJ Jordan,GHS Garton,ME Milnes,0,0,,,,,,"",""
+ball,2,15.2,Sussex,CJ Jordan,GHS Garton,ME Milnes,1,0,,,,,,"",""
+ball,2,15.3,Sussex,GHS Garton,CJ Jordan,ME Milnes,6,0,,,,,,"",""
+ball,2,15.4,Sussex,GHS Garton,CJ Jordan,ME Milnes,0,0,,,,,,caught,GHS Garton
+ball,2,15.5,Sussex,WAT Beer,CJ Jordan,ME Milnes,1,0,,,,,,"",""
+ball,2,15.6,Sussex,CJ Jordan,WAT Beer,ME Milnes,1,0,,,,,,"",""
+ball,2,16.1,Sussex,CJ Jordan,WAT Beer,G Stewart,2,0,,,,,,"",""
+ball,2,16.2,Sussex,CJ Jordan,WAT Beer,G Stewart,1,0,,,,,,"",""
+ball,2,16.3,Sussex,WAT Beer,CJ Jordan,G Stewart,0,0,,,,,,"",""
+ball,2,16.4,Sussex,WAT Beer,CJ Jordan,G Stewart,1,0,,,,,,"",""
+ball,2,16.5,Sussex,CJ Jordan,WAT Beer,G Stewart,6,0,,,,,,"",""
+ball,2,16.6,Sussex,CJ Jordan,WAT Beer,G Stewart,0,0,,,,,,"",""
+ball,2,17.1,Sussex,WAT Beer,CJ Jordan,FJ Klaassen,4,0,,,,,,"",""
+ball,2,17.2,Sussex,WAT Beer,CJ Jordan,FJ Klaassen,1,0,,,,,,"",""
+ball,2,17.3,Sussex,CJ Jordan,WAT Beer,FJ Klaassen,0,0,,,,,,caught,CJ Jordan
+ball,2,17.4,Sussex,WAT Beer,TS Mills,FJ Klaassen,1,0,,,,,,"",""
+ball,2,17.5,Sussex,TS Mills,WAT Beer,FJ Klaassen,1,0,,,,,,"",""
+ball,2,17.6,Sussex,WAT Beer,TS Mills,FJ Klaassen,1,0,,,,,,"",""
+ball,2,18.1,Sussex,WAT Beer,TS Mills,ME Milnes,1,0,,,,,,"",""
+ball,2,18.2,Sussex,TS Mills,WAT Beer,ME Milnes,4,0,,,,,,"",""
+ball,2,18.3,Sussex,TS Mills,WAT Beer,ME Milnes,1,0,,,,,,"",""
+ball,2,18.4,Sussex,WAT Beer,TS Mills,ME Milnes,1,0,,,,,,"",""
+ball,2,18.5,Sussex,TS Mills,WAT Beer,ME Milnes,0,0,,,,,,bowled,TS Mills
+ball,2,18.6,Sussex,AC Lenham,WAT Beer,ME Milnes,1,0,,,,,,"",""
+ball,2,19.1,Sussex,AC Lenham,WAT Beer,FJ Klaassen,0,0,,,,,,caught,AC Lenham

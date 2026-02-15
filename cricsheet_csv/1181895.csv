@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Supernovas
+info,team,Velocity
+info,gender,female
+info,season,2019
+info,date,2019/05/09
+info,event,Women's T20 Challenge
+info,match_number,3
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Velocity
+info,toss_decision,field
+info,player_of_match,JI Rodrigues
+info,umpire,GR Sadashiv Iyer
+info,umpire,HAS Khalid
+info,reserve_umpire,K Srinath
+info,tv_umpire,N Pandit
+info,match_referee,GS Lakshmi
+info,winner,Supernovas
+info,winner_runs,12
+info,player,Supernovas,PS Punia
+info,player,Supernovas,AC Jayangani
+info,player,Supernovas,JI Rodrigues
+info,player,Supernovas,SFM Devine
+info,player,Supernovas,H Kaur
+info,player,Supernovas,NR Sciver
+info,player,Supernovas,LMM Tahuhu
+info,player,Supernovas,T Bhatia
+info,player,Supernovas,AA Patil
+info,player,Supernovas,Poonam Yadav
+info,player,Supernovas,RP Yadav
+info,player,Velocity,HK Matthews
+info,player,Velocity,Shafali Verma
+info,player,Velocity,DN Wyatt
+info,player,Velocity,M Raj
+info,player,Velocity,V Krishnamurthy
+info,player,Velocity,S Verma
+info,player,Velocity,S Pandey
+info,player,Velocity,AC Kerr
+info,player,Velocity,Jahanara Alam
+info,player,Velocity,Komal Zanzad
+info,player,Velocity,E Bisht
+info,registry,people,AA Patil,7c1ba524
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AC Kerr,7673c908
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,E Bisht,705489eb
+info,registry,people,GR Sadashiv Iyer,0be62e31
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,Jahanara Alam,752183c1
+info,registry,people,K Srinath,8ab5da97
+info,registry,people,Komal Zanzad,e43fb0fb
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,M Raj,ec2269dc
+info,registry,people,N Pandit,4947c258
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,PS Punia,8d887a02
+info,registry,people,Poonam Yadav,d0bb40b8
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,S Pandey,5463cb7a
+info,registry,people,S Verma,185e6c0c
+info,registry,people,SFM Devine,de69af96
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,T Bhatia,211dc1ce
+info,registry,people,V Krishnamurthy,c3f21798
+ball,1,0.1,Supernovas,PS Punia,AC Jayangani,S Pandey,0,0,,,,,,"",""
+ball,1,0.2,Supernovas,PS Punia,AC Jayangani,S Pandey,1,0,,,,,,"",""
+ball,1,0.3,Supernovas,AC Jayangani,PS Punia,S Pandey,0,0,,,,,,"",""
+ball,1,0.4,Supernovas,AC Jayangani,PS Punia,S Pandey,0,0,,,,,,"",""
+ball,1,0.5,Supernovas,AC Jayangani,PS Punia,S Pandey,0,1,,,,1,,"",""
+ball,1,0.6,Supernovas,PS Punia,AC Jayangani,S Pandey,1,0,,,,,,"",""
+ball,1,1.1,Supernovas,PS Punia,AC Jayangani,Jahanara Alam,0,0,,,,,,"",""
+ball,1,1.2,Supernovas,PS Punia,AC Jayangani,Jahanara Alam,1,0,,,,,,"",""
+ball,1,1.3,Supernovas,AC Jayangani,PS Punia,Jahanara Alam,4,0,,,,,,"",""
+ball,1,1.4,Supernovas,AC Jayangani,PS Punia,Jahanara Alam,0,0,,,,,,"",""
+ball,1,1.5,Supernovas,AC Jayangani,PS Punia,Jahanara Alam,0,0,,,,,,"",""
+ball,1,1.6,Supernovas,AC Jayangani,PS Punia,Jahanara Alam,4,0,,,,,,"",""
+ball,1,2.1,Supernovas,PS Punia,AC Jayangani,S Pandey,0,0,,,,,,"",""
+ball,1,2.2,Supernovas,PS Punia,AC Jayangani,S Pandey,0,0,,,,,,"",""
+ball,1,2.3,Supernovas,PS Punia,AC Jayangani,S Pandey,1,0,,,,,,"",""
+ball,1,2.4,Supernovas,AC Jayangani,PS Punia,S Pandey,0,0,,,,,,"",""
+ball,1,2.5,Supernovas,AC Jayangani,PS Punia,S Pandey,0,0,,,,,,"",""
+ball,1,2.6,Supernovas,AC Jayangani,PS Punia,S Pandey,0,0,,,,,,"",""
+ball,1,3.1,Supernovas,PS Punia,AC Jayangani,Jahanara Alam,1,0,,,,,,"",""
+ball,1,3.2,Supernovas,AC Jayangani,PS Punia,Jahanara Alam,1,0,,,,,,"",""
+ball,1,3.3,Supernovas,PS Punia,AC Jayangani,Jahanara Alam,4,0,,,,,,"",""
+ball,1,3.4,Supernovas,PS Punia,AC Jayangani,Jahanara Alam,0,0,,,,,,"",""
+ball,1,3.5,Supernovas,PS Punia,AC Jayangani,Jahanara Alam,1,0,,,,,,"",""
+ball,1,3.6,Supernovas,AC Jayangani,PS Punia,Jahanara Alam,0,1,1,,,,,"",""
+ball,1,3.7,Supernovas,AC Jayangani,PS Punia,Jahanara Alam,0,1,1,,,,,"",""
+ball,1,3.8,Supernovas,AC Jayangani,PS Punia,Jahanara Alam,0,0,,,,,,"",""
+ball,1,4.1,Supernovas,PS Punia,AC Jayangani,S Pandey,0,0,,,,,,"",""
+ball,1,4.2,Supernovas,PS Punia,AC Jayangani,S Pandey,4,0,,,,,,"",""
+ball,1,4.3,Supernovas,PS Punia,AC Jayangani,S Pandey,2,0,,,,,,"",""
+ball,1,4.4,Supernovas,PS Punia,AC Jayangani,S Pandey,0,1,1,,,,,"",""
+ball,1,4.5,Supernovas,PS Punia,AC Jayangani,S Pandey,0,0,,,,,,caught,PS Punia
+ball,1,4.6,Supernovas,AC Jayangani,JI Rodrigues,S Pandey,1,0,,,,,,"",""
+ball,1,4.7,Supernovas,JI Rodrigues,AC Jayangani,S Pandey,0,0,,,,,,"",""
+ball,1,5.1,Supernovas,AC Jayangani,JI Rodrigues,Komal Zanzad,0,0,,,,,,"",""
+ball,1,5.2,Supernovas,AC Jayangani,JI Rodrigues,Komal Zanzad,1,0,,,,,,"",""
+ball,1,5.3,Supernovas,JI Rodrigues,AC Jayangani,Komal Zanzad,0,0,,,,,,"",""
+ball,1,5.4,Supernovas,JI Rodrigues,AC Jayangani,Komal Zanzad,0,0,,,,,,"",""
+ball,1,5.5,Supernovas,JI Rodrigues,AC Jayangani,Komal Zanzad,4,0,,,,,,"",""
+ball,1,5.6,Supernovas,JI Rodrigues,AC Jayangani,Komal Zanzad,4,0,,,,,,"",""
+ball,1,6.1,Supernovas,AC Jayangani,JI Rodrigues,HK Matthews,0,1,1,,,,,"",""
+ball,1,6.2,Supernovas,AC Jayangani,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,6.3,Supernovas,JI Rodrigues,AC Jayangani,HK Matthews,0,0,,,,,,"",""
+ball,1,6.4,Supernovas,JI Rodrigues,AC Jayangani,HK Matthews,4,0,,,,,,"",""
+ball,1,6.5,Supernovas,JI Rodrigues,AC Jayangani,HK Matthews,1,0,,,,,,"",""
+ball,1,6.6,Supernovas,AC Jayangani,JI Rodrigues,HK Matthews,1,0,,,,,,"",""
+ball,1,6.7,Supernovas,JI Rodrigues,AC Jayangani,HK Matthews,0,0,,,,,,"",""
+ball,1,7.1,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,0,0,,,,,,"",""
+ball,1,7.2,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,0,0,,,,,,"",""
+ball,1,7.3,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,0,0,,,,,,"",""
+ball,1,7.4,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,0,0,,,,,,"",""
+ball,1,7.5,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,1,0,,,,,,"",""
+ball,1,7.6,Supernovas,JI Rodrigues,AC Jayangani,E Bisht,1,0,,,,,,"",""
+ball,1,8.1,Supernovas,JI Rodrigues,AC Jayangani,AC Kerr,1,0,,,,,,"",""
+ball,1,8.2,Supernovas,AC Jayangani,JI Rodrigues,AC Kerr,0,1,,1,,,,"",""
+ball,1,8.3,Supernovas,AC Jayangani,JI Rodrigues,AC Kerr,0,0,,,,,,"",""
+ball,1,8.4,Supernovas,AC Jayangani,JI Rodrigues,AC Kerr,1,0,,,,,,"",""
+ball,1,8.5,Supernovas,JI Rodrigues,AC Jayangani,AC Kerr,2,0,,,,,,"",""
+ball,1,8.6,Supernovas,JI Rodrigues,AC Jayangani,AC Kerr,1,0,,,,,,"",""
+ball,1,8.7,Supernovas,AC Jayangani,JI Rodrigues,AC Kerr,0,0,,,,,,"",""
+ball,1,9.1,Supernovas,JI Rodrigues,AC Jayangani,E Bisht,1,0,,,,,,"",""
+ball,1,9.2,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,4,0,,,,,,"",""
+ball,1,9.3,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,1,0,,,,,,"",""
+ball,1,9.4,Supernovas,JI Rodrigues,AC Jayangani,E Bisht,1,0,,,,,,"",""
+ball,1,9.5,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,0,0,,,,,,"",""
+ball,1,9.6,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,0,1,1,,,,,"",""
+ball,1,9.7,Supernovas,AC Jayangani,JI Rodrigues,E Bisht,0,0,,,,,,"",""
+ball,1,10.1,Supernovas,JI Rodrigues,AC Jayangani,Komal Zanzad,1,0,,,,,,"",""
+ball,1,10.2,Supernovas,AC Jayangani,JI Rodrigues,Komal Zanzad,4,0,,,,,,"",""
+ball,1,10.3,Supernovas,AC Jayangani,JI Rodrigues,Komal Zanzad,1,0,,,,,,"",""
+ball,1,10.4,Supernovas,JI Rodrigues,AC Jayangani,Komal Zanzad,1,0,,,,,,"",""
+ball,1,10.5,Supernovas,AC Jayangani,JI Rodrigues,Komal Zanzad,1,0,,,,,,"",""
+ball,1,10.6,Supernovas,JI Rodrigues,AC Jayangani,Komal Zanzad,1,0,,,,,,"",""
+ball,1,11.1,Supernovas,JI Rodrigues,AC Jayangani,Jahanara Alam,4,0,,,,,,"",""
+ball,1,11.2,Supernovas,JI Rodrigues,AC Jayangani,Jahanara Alam,1,0,,,,,,"",""
+ball,1,11.3,Supernovas,AC Jayangani,JI Rodrigues,Jahanara Alam,0,0,,,,,,"",""
+ball,1,11.4,Supernovas,AC Jayangani,JI Rodrigues,Jahanara Alam,1,0,,,,,,"",""
+ball,1,11.5,Supernovas,JI Rodrigues,AC Jayangani,Jahanara Alam,1,0,,,,,,"",""
+ball,1,11.6,Supernovas,AC Jayangani,JI Rodrigues,Jahanara Alam,0,0,,,,,,"",""
+ball,1,12.1,Supernovas,JI Rodrigues,AC Jayangani,AC Kerr,1,0,,,,,,"",""
+ball,1,12.2,Supernovas,AC Jayangani,JI Rodrigues,AC Kerr,4,0,,,,,,"",""
+ball,1,12.3,Supernovas,AC Jayangani,JI Rodrigues,AC Kerr,0,0,,,,,,stumped,AC Jayangani
+ball,1,12.4,Supernovas,SFM Devine,JI Rodrigues,AC Kerr,0,0,,,,,,"",""
+ball,1,12.5,Supernovas,SFM Devine,JI Rodrigues,AC Kerr,1,0,,,,,,"",""
+ball,1,12.6,Supernovas,JI Rodrigues,SFM Devine,AC Kerr,1,0,,,,,,"",""
+ball,1,13.1,Supernovas,JI Rodrigues,SFM Devine,Komal Zanzad,1,0,,,,,,"",""
+ball,1,13.2,Supernovas,SFM Devine,JI Rodrigues,Komal Zanzad,0,0,,,,,,"",""
+ball,1,13.3,Supernovas,SFM Devine,JI Rodrigues,Komal Zanzad,1,0,,,,,,"",""
+ball,1,13.4,Supernovas,JI Rodrigues,SFM Devine,Komal Zanzad,4,0,,,,,,"",""
+ball,1,13.5,Supernovas,JI Rodrigues,SFM Devine,Komal Zanzad,4,0,,,,,,"",""
+ball,1,13.6,Supernovas,JI Rodrigues,SFM Devine,Komal Zanzad,1,0,,,,,,"",""
+ball,1,14.1,Supernovas,JI Rodrigues,SFM Devine,E Bisht,1,0,,,,,,"",""
+ball,1,14.2,Supernovas,SFM Devine,JI Rodrigues,E Bisht,1,0,,,,,,"",""
+ball,1,14.3,Supernovas,JI Rodrigues,SFM Devine,E Bisht,1,0,,,,,,"",""
+ball,1,14.4,Supernovas,SFM Devine,JI Rodrigues,E Bisht,1,0,,,,,,"",""
+ball,1,14.5,Supernovas,JI Rodrigues,SFM Devine,E Bisht,4,0,,,,,,"",""
+ball,1,14.6,Supernovas,JI Rodrigues,SFM Devine,E Bisht,4,0,,,,,,"",""
+ball,1,15.1,Supernovas,SFM Devine,JI Rodrigues,AC Kerr,1,0,,,,,,"",""
+ball,1,15.2,Supernovas,JI Rodrigues,SFM Devine,AC Kerr,1,0,,,,,,"",""
+ball,1,15.3,Supernovas,SFM Devine,JI Rodrigues,AC Kerr,1,0,,,,,,"",""
+ball,1,15.4,Supernovas,JI Rodrigues,SFM Devine,AC Kerr,2,0,,,,,,"",""
+ball,1,15.5,Supernovas,JI Rodrigues,SFM Devine,AC Kerr,0,0,,,,,,"",""
+ball,1,15.6,Supernovas,JI Rodrigues,SFM Devine,AC Kerr,1,0,,,,,,"",""
+ball,1,16.1,Supernovas,JI Rodrigues,SFM Devine,E Bisht,1,0,,,,,,"",""
+ball,1,16.2,Supernovas,SFM Devine,JI Rodrigues,E Bisht,1,0,,,,,,"",""
+ball,1,16.3,Supernovas,JI Rodrigues,SFM Devine,E Bisht,4,0,,,,,,"",""
+ball,1,16.4,Supernovas,JI Rodrigues,SFM Devine,E Bisht,1,0,,,,,,"",""
+ball,1,16.5,Supernovas,SFM Devine,JI Rodrigues,E Bisht,1,0,,,,,,"",""
+ball,1,16.6,Supernovas,JI Rodrigues,SFM Devine,E Bisht,1,0,,,,,,"",""
+ball,1,17.1,Supernovas,JI Rodrigues,SFM Devine,Jahanara Alam,1,0,,,,,,"",""
+ball,1,17.2,Supernovas,SFM Devine,JI Rodrigues,Jahanara Alam,0,0,,,,,,"",""
+ball,1,17.3,Supernovas,SFM Devine,JI Rodrigues,Jahanara Alam,1,0,,,,,,"",""
+ball,1,17.4,Supernovas,JI Rodrigues,SFM Devine,Jahanara Alam,6,0,,,,,,"",""
+ball,1,17.5,Supernovas,JI Rodrigues,SFM Devine,Jahanara Alam,1,0,,,,,,"",""
+ball,1,17.6,Supernovas,SFM Devine,JI Rodrigues,Jahanara Alam,0,0,,,,,,"",""
+ball,1,18.1,Supernovas,JI Rodrigues,SFM Devine,AC Kerr,0,0,,,,,,"",""
+ball,1,18.2,Supernovas,JI Rodrigues,SFM Devine,AC Kerr,1,0,,,,,,"",""
+ball,1,18.3,Supernovas,SFM Devine,JI Rodrigues,AC Kerr,0,0,,,,,,caught,SFM Devine
+ball,1,18.4,Supernovas,JI Rodrigues,H Kaur,AC Kerr,1,0,,,,,,"",""
+ball,1,18.5,Supernovas,H Kaur,JI Rodrigues,AC Kerr,0,0,,,,,,"",""
+ball,1,18.6,Supernovas,H Kaur,JI Rodrigues,AC Kerr,0,0,,,,,,"",""
+ball,1,19.1,Supernovas,JI Rodrigues,H Kaur,S Pandey,4,0,,,,,,"",""
+ball,1,19.2,Supernovas,JI Rodrigues,H Kaur,S Pandey,1,0,,,,,,"",""
+ball,1,19.3,Supernovas,H Kaur,JI Rodrigues,S Pandey,0,0,,,,,,"",""
+ball,1,19.4,Supernovas,H Kaur,JI Rodrigues,S Pandey,0,0,,,,,,"",""
+ball,1,19.5,Supernovas,H Kaur,JI Rodrigues,S Pandey,1,0,,,,,,"",""
+ball,1,19.6,Supernovas,JI Rodrigues,H Kaur,S Pandey,0,1,,,1,,,"",""
+ball,2,0.1,Velocity,HK Matthews,Shafali Verma,RP Yadav,0,0,,,,,,"",""
+ball,2,0.2,Velocity,HK Matthews,Shafali Verma,RP Yadav,0,0,,,,,,"",""
+ball,2,0.3,Velocity,HK Matthews,Shafali Verma,RP Yadav,4,0,,,,,,"",""
+ball,2,0.4,Velocity,HK Matthews,Shafali Verma,RP Yadav,0,0,,,,,,"",""
+ball,2,0.5,Velocity,HK Matthews,Shafali Verma,RP Yadav,0,0,,,,,,"",""
+ball,2,0.6,Velocity,HK Matthews,Shafali Verma,RP Yadav,0,0,,,,,,"",""
+ball,2,1.1,Velocity,Shafali Verma,HK Matthews,AA Patil,0,0,,,,,,"",""
+ball,2,1.2,Velocity,Shafali Verma,HK Matthews,AA Patil,1,0,,,,,,"",""
+ball,2,1.3,Velocity,HK Matthews,Shafali Verma,AA Patil,0,0,,,,,,"",""
+ball,2,1.4,Velocity,HK Matthews,Shafali Verma,AA Patil,0,0,,,,,,"",""
+ball,2,1.5,Velocity,HK Matthews,Shafali Verma,AA Patil,1,0,,,,,,"",""
+ball,2,1.6,Velocity,Shafali Verma,HK Matthews,AA Patil,1,0,,,,,,"",""
+ball,2,2.1,Velocity,Shafali Verma,HK Matthews,RP Yadav,0,0,,,,,,bowled,Shafali Verma
+ball,2,2.2,Velocity,DN Wyatt,HK Matthews,RP Yadav,0,0,,,,,,"",""
+ball,2,2.3,Velocity,DN Wyatt,HK Matthews,RP Yadav,2,0,,,,,,"",""
+ball,2,2.4,Velocity,DN Wyatt,HK Matthews,RP Yadav,0,0,,,,,,"",""
+ball,2,2.5,Velocity,DN Wyatt,HK Matthews,RP Yadav,6,0,,,,,,"",""
+ball,2,2.6,Velocity,DN Wyatt,HK Matthews,RP Yadav,0,0,,,,,,"",""
+ball,2,3.1,Velocity,HK Matthews,DN Wyatt,AA Patil,2,0,,,,,,"",""
+ball,2,3.2,Velocity,HK Matthews,DN Wyatt,AA Patil,4,0,,,,,,"",""
+ball,2,3.3,Velocity,HK Matthews,DN Wyatt,AA Patil,0,0,,,,,,lbw,HK Matthews
+ball,2,3.4,Velocity,M Raj,DN Wyatt,AA Patil,0,0,,,,,,"",""
+ball,2,3.5,Velocity,M Raj,DN Wyatt,AA Patil,1,0,,,,,,"",""
+ball,2,3.6,Velocity,DN Wyatt,M Raj,AA Patil,0,0,,,,,,"",""
+ball,2,4.1,Velocity,M Raj,DN Wyatt,RP Yadav,1,0,,,,,,"",""
+ball,2,4.2,Velocity,DN Wyatt,M Raj,RP Yadav,0,0,,,,,,"",""
+ball,2,4.3,Velocity,DN Wyatt,M Raj,RP Yadav,0,1,1,,,,,"",""
+ball,2,4.4,Velocity,DN Wyatt,M Raj,RP Yadav,4,0,,,,,,"",""
+ball,2,4.5,Velocity,DN Wyatt,M Raj,RP Yadav,0,0,,,,,,"",""
+ball,2,4.6,Velocity,DN Wyatt,M Raj,RP Yadav,0,0,,,,,,"",""
+ball,2,4.7,Velocity,DN Wyatt,M Raj,RP Yadav,6,0,,,,,,"",""
+ball,2,5.1,Velocity,M Raj,DN Wyatt,AA Patil,4,0,,,,,,"",""
+ball,2,5.2,Velocity,M Raj,DN Wyatt,AA Patil,0,0,,,,,,"",""
+ball,2,5.3,Velocity,M Raj,DN Wyatt,AA Patil,1,0,,,,,,"",""
+ball,2,5.4,Velocity,DN Wyatt,M Raj,AA Patil,4,0,,,,,,"",""
+ball,2,5.5,Velocity,DN Wyatt,M Raj,AA Patil,0,1,1,,,,,"",""
+ball,2,5.6,Velocity,DN Wyatt,M Raj,AA Patil,0,0,,,,,,"",""
+ball,2,5.7,Velocity,DN Wyatt,M Raj,AA Patil,2,0,,,,,,"",""
+ball,2,6.1,Velocity,M Raj,DN Wyatt,NR Sciver,4,0,,,,,,"",""
+ball,2,6.2,Velocity,M Raj,DN Wyatt,NR Sciver,0,0,,,,,,"",""
+ball,2,6.3,Velocity,M Raj,DN Wyatt,NR Sciver,1,0,,,,,,"",""
+ball,2,6.4,Velocity,DN Wyatt,M Raj,NR Sciver,0,0,,,,,,"",""
+ball,2,6.5,Velocity,DN Wyatt,M Raj,NR Sciver,0,0,,,,,,"",""
+ball,2,6.6,Velocity,DN Wyatt,M Raj,NR Sciver,1,0,,,,,,"",""
+ball,2,7.1,Velocity,DN Wyatt,M Raj,SFM Devine,1,0,,,,,,"",""
+ball,2,7.2,Velocity,M Raj,DN Wyatt,SFM Devine,0,0,,,,,,"",""
+ball,2,7.3,Velocity,M Raj,DN Wyatt,SFM Devine,1,0,,,,,,"",""
+ball,2,7.4,Velocity,DN Wyatt,M Raj,SFM Devine,0,0,,,,,,"",""
+ball,2,7.5,Velocity,DN Wyatt,M Raj,SFM Devine,1,0,,,,,,"",""
+ball,2,7.6,Velocity,M Raj,DN Wyatt,SFM Devine,0,0,,,,,,"",""
+ball,2,8.1,Velocity,DN Wyatt,M Raj,NR Sciver,0,0,,,,,,"",""
+ball,2,8.2,Velocity,DN Wyatt,M Raj,NR Sciver,4,0,,,,,,"",""
+ball,2,8.3,Velocity,DN Wyatt,M Raj,NR Sciver,2,0,,,,,,"",""
+ball,2,8.4,Velocity,DN Wyatt,M Raj,NR Sciver,4,0,,,,,,"",""
+ball,2,8.5,Velocity,DN Wyatt,M Raj,NR Sciver,1,0,,,,,,"",""
+ball,2,8.6,Velocity,M Raj,DN Wyatt,NR Sciver,1,0,,,,,,"",""
+ball,2,9.1,Velocity,M Raj,DN Wyatt,Poonam Yadav,0,0,,,,,,"",""
+ball,2,9.2,Velocity,M Raj,DN Wyatt,Poonam Yadav,0,0,,,,,,"",""
+ball,2,9.3,Velocity,M Raj,DN Wyatt,Poonam Yadav,1,0,,,,,,"",""
+ball,2,9.4,Velocity,DN Wyatt,M Raj,Poonam Yadav,0,0,,,,,,"",""
+ball,2,9.5,Velocity,DN Wyatt,M Raj,Poonam Yadav,0,0,,,,,,"",""
+ball,2,9.6,Velocity,DN Wyatt,M Raj,Poonam Yadav,0,0,,,,,,"",""
+ball,2,10.1,Velocity,M Raj,DN Wyatt,SFM Devine,0,1,1,,,,,"",""
+ball,2,10.2,Velocity,M Raj,DN Wyatt,SFM Devine,1,0,,,,,,"",""
+ball,2,10.3,Velocity,DN Wyatt,M Raj,SFM Devine,1,0,,,,,,"",""
+ball,2,10.4,Velocity,M Raj,DN Wyatt,SFM Devine,0,0,,,,,,"",""
+ball,2,10.5,Velocity,M Raj,DN Wyatt,SFM Devine,1,0,,,,,,"",""
+ball,2,10.6,Velocity,DN Wyatt,M Raj,SFM Devine,2,0,,,,,,"",""
+ball,2,10.7,Velocity,DN Wyatt,M Raj,SFM Devine,1,0,,,,,,"",""
+ball,2,11.1,Velocity,DN Wyatt,M Raj,Poonam Yadav,1,0,,,,,,"",""
+ball,2,11.2,Velocity,M Raj,DN Wyatt,Poonam Yadav,1,0,,,,,,"",""
+ball,2,11.3,Velocity,DN Wyatt,M Raj,Poonam Yadav,0,0,,,,,,bowled,DN Wyatt
+ball,2,11.4,Velocity,V Krishnamurthy,M Raj,Poonam Yadav,1,0,,,,,,"",""
+ball,2,11.5,Velocity,M Raj,V Krishnamurthy,Poonam Yadav,1,0,,,,,,"",""
+ball,2,11.6,Velocity,V Krishnamurthy,M Raj,Poonam Yadav,0,0,,,,,,"",""
+ball,2,12.1,Velocity,M Raj,V Krishnamurthy,SFM Devine,0,0,,,,,,"",""
+ball,2,12.2,Velocity,M Raj,V Krishnamurthy,SFM Devine,1,0,,,,,,"",""
+ball,2,12.3,Velocity,V Krishnamurthy,M Raj,SFM Devine,0,0,,,,,,"",""
+ball,2,12.4,Velocity,V Krishnamurthy,M Raj,SFM Devine,1,0,,,,,,"",""
+ball,2,12.5,Velocity,M Raj,V Krishnamurthy,SFM Devine,2,0,,,,,,"",""
+ball,2,12.6,Velocity,M Raj,V Krishnamurthy,SFM Devine,1,0,,,,,,"",""
+ball,2,13.1,Velocity,M Raj,V Krishnamurthy,Poonam Yadav,1,0,,,,,,"",""
+ball,2,13.2,Velocity,V Krishnamurthy,M Raj,Poonam Yadav,0,0,,,,,,"",""
+ball,2,13.3,Velocity,V Krishnamurthy,M Raj,Poonam Yadav,0,0,,,,,,"",""
+ball,2,13.4,Velocity,V Krishnamurthy,M Raj,Poonam Yadav,0,0,,,,,,"",""
+ball,2,13.5,Velocity,V Krishnamurthy,M Raj,Poonam Yadav,1,0,,,,,,"",""
+ball,2,13.6,Velocity,M Raj,V Krishnamurthy,Poonam Yadav,0,0,,,,,,"",""
+ball,2,14.1,Velocity,V Krishnamurthy,M Raj,AA Patil,1,0,,,,,,"",""
+ball,2,14.2,Velocity,M Raj,V Krishnamurthy,AA Patil,1,0,,,,,,"",""
+ball,2,14.3,Velocity,V Krishnamurthy,M Raj,AA Patil,1,0,,,,,,"",""
+ball,2,14.4,Velocity,M Raj,V Krishnamurthy,AA Patil,1,0,,,,,,"",""
+ball,2,14.5,Velocity,V Krishnamurthy,M Raj,AA Patil,1,0,,,,,,"",""
+ball,2,14.6,Velocity,M Raj,V Krishnamurthy,AA Patil,1,0,,,,,,"",""
+ball,2,15.1,Velocity,M Raj,V Krishnamurthy,H Kaur,0,0,,,,,,"",""
+ball,2,15.2,Velocity,M Raj,V Krishnamurthy,H Kaur,1,0,,,,,,"",""
+ball,2,15.3,Velocity,V Krishnamurthy,M Raj,H Kaur,4,0,,,,,,"",""
+ball,2,15.4,Velocity,V Krishnamurthy,M Raj,H Kaur,1,0,,,,,,"",""
+ball,2,15.5,Velocity,M Raj,V Krishnamurthy,H Kaur,1,0,,,,,,"",""
+ball,2,15.6,Velocity,V Krishnamurthy,M Raj,H Kaur,1,0,,,,,,"",""
+ball,2,16.1,Velocity,V Krishnamurthy,M Raj,RP Yadav,2,0,,,,,,"",""
+ball,2,16.2,Velocity,V Krishnamurthy,M Raj,RP Yadav,2,0,,,,,,"",""
+ball,2,16.3,Velocity,V Krishnamurthy,M Raj,RP Yadav,1,0,,,,,,"",""
+ball,2,16.4,Velocity,M Raj,V Krishnamurthy,RP Yadav,1,0,,,,,,"",""
+ball,2,16.5,Velocity,V Krishnamurthy,M Raj,RP Yadav,0,0,,,,,,"",""
+ball,2,16.6,Velocity,V Krishnamurthy,M Raj,RP Yadav,0,0,,,,,,"",""
+ball,2,17.1,Velocity,M Raj,V Krishnamurthy,Poonam Yadav,0,1,1,,,,,"",""
+ball,2,17.2,Velocity,M Raj,V Krishnamurthy,Poonam Yadav,0,0,,,,,,"",""
+ball,2,17.3,Velocity,M Raj,V Krishnamurthy,Poonam Yadav,1,0,,,,,,"",""
+ball,2,17.4,Velocity,V Krishnamurthy,M Raj,Poonam Yadav,1,0,,,,,,"",""
+ball,2,17.5,Velocity,M Raj,V Krishnamurthy,Poonam Yadav,1,0,,,,,,"",""
+ball,2,17.6,Velocity,V Krishnamurthy,M Raj,Poonam Yadav,1,0,,,,,,"",""
+ball,2,17.7,Velocity,M Raj,V Krishnamurthy,Poonam Yadav,1,0,,,,,,"",""
+ball,2,18.1,Velocity,M Raj,V Krishnamurthy,H Kaur,1,0,,,,,,"",""
+ball,2,18.2,Velocity,V Krishnamurthy,M Raj,H Kaur,0,0,,,,,,"",""
+ball,2,18.3,Velocity,V Krishnamurthy,M Raj,H Kaur,1,0,,,,,,"",""
+ball,2,18.4,Velocity,M Raj,V Krishnamurthy,H Kaur,4,0,,,,,,"",""
+ball,2,18.5,Velocity,M Raj,V Krishnamurthy,H Kaur,1,0,,,,,,"",""
+ball,2,18.6,Velocity,V Krishnamurthy,M Raj,H Kaur,1,0,,,,,,"",""
+ball,2,19.1,Velocity,V Krishnamurthy,M Raj,SFM Devine,0,0,,,,,,"",""
+ball,2,19.2,Velocity,V Krishnamurthy,M Raj,SFM Devine,1,0,,,,,,"",""
+ball,2,19.3,Velocity,M Raj,V Krishnamurthy,SFM Devine,1,0,,,,,,"",""
+ball,2,19.4,Velocity,V Krishnamurthy,M Raj,SFM Devine,4,0,,,,,,"",""
+ball,2,19.5,Velocity,V Krishnamurthy,M Raj,SFM Devine,4,0,,,,,,"",""
+ball,2,19.6,Velocity,V Krishnamurthy,M Raj,SFM Devine,0,0,,,,,,"",""

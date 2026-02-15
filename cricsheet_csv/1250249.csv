@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Northamptonshire
+info,gender,male
+info,season,2021
+info,date,2021/06/11
+info,event,Vitality Blast
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Northamptonshire
+info,toss_decision,field
+info,player_of_match,MM Ali
+info,umpire,RJ Warren
+info,umpire,RT Robinson
+info,tv_umpire,NL Bainton
+info,match_referee,PM Such
+info,winner,Worcestershire
+info,winner_runs,32
+info,player,Worcestershire,MH Wessels
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,MM Ali
+info,player,Worcestershire,RA Whiteley
+info,player,Worcestershire,JD Libby
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EG Barnard
+info,player,Worcestershire,BJ Dwarshuis
+info,player,Worcestershire,IS Sodhi
+info,player,Worcestershire,JC Tongue
+info,player,Worcestershire,CAJ Morris
+info,player,Northamptonshire,RE Levi
+info,player,Northamptonshire,AM Rossington
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,WD Parnell
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,GG White
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,BD Glover
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,BD Glover,0dbe27b8
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CAJ Morris,5db1c288
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,GG White,0f21680d
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JC Tongue,1f1b4c89
+info,registry,people,JD Libby,0d61d8f0
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,MH Wessels,90f47cf2
+info,registry,people,MM Ali,bb351c23
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PM Such,c9f1892c
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RE Levi,18c78b11
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RT Robinson,b143c87d
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,WD Parnell,3a60e0b5
+ball,1,0.1,Worcestershire,MH Wessels,BL D'Oliveira,JJ Cobb,0,0,,,,,,"",""
+ball,1,0.2,Worcestershire,MH Wessels,BL D'Oliveira,JJ Cobb,1,0,,,,,,"",""
+ball,1,0.3,Worcestershire,BL D'Oliveira,MH Wessels,JJ Cobb,0,0,,,,,,"",""
+ball,1,0.4,Worcestershire,BL D'Oliveira,MH Wessels,JJ Cobb,1,0,,,,,,"",""
+ball,1,0.5,Worcestershire,MH Wessels,BL D'Oliveira,JJ Cobb,1,0,,,,,,"",""
+ball,1,0.6,Worcestershire,BL D'Oliveira,MH Wessels,JJ Cobb,0,0,,,,,,"",""
+ball,1,1.1,Worcestershire,MH Wessels,BL D'Oliveira,BW Sanderson,0,1,1,,,,,"",""
+ball,1,1.2,Worcestershire,MH Wessels,BL D'Oliveira,BW Sanderson,0,0,,,,,,"",""
+ball,1,1.3,Worcestershire,MH Wessels,BL D'Oliveira,BW Sanderson,0,0,,,,,,"",""
+ball,1,1.4,Worcestershire,MH Wessels,BL D'Oliveira,BW Sanderson,2,0,,,,,,"",""
+ball,1,1.5,Worcestershire,MH Wessels,BL D'Oliveira,BW Sanderson,0,0,,,,,,"",""
+ball,1,1.6,Worcestershire,MH Wessels,BL D'Oliveira,BW Sanderson,0,1,1,,,,,"",""
+ball,1,1.7,Worcestershire,MH Wessels,BL D'Oliveira,BW Sanderson,4,0,,,,,,"",""
+ball,1,1.8,Worcestershire,MH Wessels,BL D'Oliveira,BW Sanderson,0,0,,,,,,bowled,MH Wessels
+ball,1,2.1,Worcestershire,BL D'Oliveira,MM Ali,WD Parnell,0,0,,,,,,"",""
+ball,1,2.2,Worcestershire,BL D'Oliveira,MM Ali,WD Parnell,0,0,,,,,,"",""
+ball,1,2.3,Worcestershire,BL D'Oliveira,MM Ali,WD Parnell,1,0,,,,,,"",""
+ball,1,2.4,Worcestershire,MM Ali,BL D'Oliveira,WD Parnell,0,1,,,,1,,"",""
+ball,1,2.5,Worcestershire,BL D'Oliveira,MM Ali,WD Parnell,0,1,,,,1,,"",""
+ball,1,2.6,Worcestershire,MM Ali,BL D'Oliveira,WD Parnell,4,0,,,,,,"",""
+ball,1,3.1,Worcestershire,BL D'Oliveira,MM Ali,BW Sanderson,0,0,,,,,,"",""
+ball,1,3.2,Worcestershire,BL D'Oliveira,MM Ali,BW Sanderson,0,0,,,,,,"",""
+ball,1,3.3,Worcestershire,BL D'Oliveira,MM Ali,BW Sanderson,0,1,,,,1,,"",""
+ball,1,3.4,Worcestershire,MM Ali,BL D'Oliveira,BW Sanderson,0,0,,,,,,"",""
+ball,1,3.5,Worcestershire,MM Ali,BL D'Oliveira,BW Sanderson,0,0,,,,,,"",""
+ball,1,3.6,Worcestershire,MM Ali,BL D'Oliveira,BW Sanderson,1,0,,,,,,"",""
+ball,1,4.1,Worcestershire,MM Ali,BL D'Oliveira,BD Glover,4,0,,,,,,"",""
+ball,1,4.2,Worcestershire,MM Ali,BL D'Oliveira,BD Glover,0,1,1,,,,,"",""
+ball,1,4.3,Worcestershire,MM Ali,BL D'Oliveira,BD Glover,0,0,,,,,,"",""
+ball,1,4.4,Worcestershire,MM Ali,BL D'Oliveira,BD Glover,0,5,5,,,,,"",""
+ball,1,4.5,Worcestershire,MM Ali,BL D'Oliveira,BD Glover,0,0,,,,,,"",""
+ball,1,4.6,Worcestershire,MM Ali,BL D'Oliveira,BD Glover,0,1,,,,1,,"",""
+ball,1,4.7,Worcestershire,BL D'Oliveira,MM Ali,BD Glover,0,0,,,,,,"",""
+ball,1,4.8,Worcestershire,BL D'Oliveira,MM Ali,BD Glover,0,0,,,,,,"",""
+ball,1,5.1,Worcestershire,MM Ali,BL D'Oliveira,TAI Taylor,1,0,,,,,,"",""
+ball,1,5.2,Worcestershire,BL D'Oliveira,MM Ali,TAI Taylor,1,0,,,,,,"",""
+ball,1,5.3,Worcestershire,MM Ali,BL D'Oliveira,TAI Taylor,1,0,,,,,,"",""
+ball,1,5.4,Worcestershire,BL D'Oliveira,MM Ali,TAI Taylor,1,0,,,,,,"",""
+ball,1,5.5,Worcestershire,MM Ali,BL D'Oliveira,TAI Taylor,1,0,,,,,,"",""
+ball,1,5.6,Worcestershire,BL D'Oliveira,MM Ali,TAI Taylor,0,0,,,,,,"",""
+ball,1,6.1,Worcestershire,MM Ali,BL D'Oliveira,GG White,1,0,,,,,,"",""
+ball,1,6.2,Worcestershire,BL D'Oliveira,MM Ali,GG White,1,0,,,,,,"",""
+ball,1,6.3,Worcestershire,MM Ali,BL D'Oliveira,GG White,1,0,,,,,,"",""
+ball,1,6.4,Worcestershire,BL D'Oliveira,MM Ali,GG White,1,0,,,,,,"",""
+ball,1,6.5,Worcestershire,MM Ali,BL D'Oliveira,GG White,1,0,,,,,,"",""
+ball,1,6.6,Worcestershire,BL D'Oliveira,MM Ali,GG White,6,0,,,,,,"",""
+ball,1,7.1,Worcestershire,MM Ali,BL D'Oliveira,TAI Taylor,2,0,,,,,,"",""
+ball,1,7.2,Worcestershire,MM Ali,BL D'Oliveira,TAI Taylor,1,0,,,,,,"",""
+ball,1,7.3,Worcestershire,BL D'Oliveira,MM Ali,TAI Taylor,6,0,,,,,,"",""
+ball,1,7.4,Worcestershire,BL D'Oliveira,MM Ali,TAI Taylor,1,0,,,,,,"",""
+ball,1,7.5,Worcestershire,MM Ali,BL D'Oliveira,TAI Taylor,1,0,,,,,,"",""
+ball,1,7.6,Worcestershire,BL D'Oliveira,MM Ali,TAI Taylor,1,0,,,,,,"",""
+ball,1,8.1,Worcestershire,BL D'Oliveira,MM Ali,WD Parnell,4,0,,,,,,"",""
+ball,1,8.2,Worcestershire,BL D'Oliveira,MM Ali,WD Parnell,1,0,,,,,,"",""
+ball,1,8.3,Worcestershire,MM Ali,BL D'Oliveira,WD Parnell,6,0,,,,,,"",""
+ball,1,8.4,Worcestershire,MM Ali,BL D'Oliveira,WD Parnell,6,0,,,,,,"",""
+ball,1,8.5,Worcestershire,MM Ali,BL D'Oliveira,WD Parnell,0,0,,,,,,"",""
+ball,1,8.6,Worcestershire,MM Ali,BL D'Oliveira,WD Parnell,1,0,,,,,,"",""
+ball,1,9.1,Worcestershire,MM Ali,BL D'Oliveira,RI Keogh,4,0,,,,,,"",""
+ball,1,9.2,Worcestershire,MM Ali,BL D'Oliveira,RI Keogh,0,5,5,,,,,"",""
+ball,1,9.3,Worcestershire,MM Ali,BL D'Oliveira,RI Keogh,1,0,,,,,,"",""
+ball,1,9.4,Worcestershire,BL D'Oliveira,MM Ali,RI Keogh,1,0,,,,,,"",""
+ball,1,9.5,Worcestershire,MM Ali,BL D'Oliveira,RI Keogh,1,0,,,,,,"",""
+ball,1,9.6,Worcestershire,BL D'Oliveira,MM Ali,RI Keogh,1,0,,,,,,"",""
+ball,1,9.7,Worcestershire,MM Ali,BL D'Oliveira,RI Keogh,6,0,,,,,,"",""
+ball,1,10.1,Worcestershire,BL D'Oliveira,MM Ali,GG White,1,0,,,,,,"",""
+ball,1,10.2,Worcestershire,MM Ali,BL D'Oliveira,GG White,2,0,,,,,,"",""
+ball,1,10.3,Worcestershire,MM Ali,BL D'Oliveira,GG White,6,0,,,,,,"",""
+ball,1,10.4,Worcestershire,MM Ali,BL D'Oliveira,GG White,0,0,,,,,,"",""
+ball,1,10.5,Worcestershire,MM Ali,BL D'Oliveira,GG White,0,0,,,,,,caught,MM Ali
+ball,1,10.6,Worcestershire,BL D'Oliveira,RA Whiteley,GG White,1,0,,,,,,"",""
+ball,1,11.1,Worcestershire,BL D'Oliveira,RA Whiteley,JJ Cobb,6,0,,,,,,"",""
+ball,1,11.2,Worcestershire,BL D'Oliveira,RA Whiteley,JJ Cobb,1,0,,,,,,"",""
+ball,1,11.3,Worcestershire,RA Whiteley,BL D'Oliveira,JJ Cobb,0,0,,,,,,"",""
+ball,1,11.4,Worcestershire,RA Whiteley,BL D'Oliveira,JJ Cobb,0,0,,,,,,"",""
+ball,1,11.5,Worcestershire,RA Whiteley,BL D'Oliveira,JJ Cobb,0,0,,,,,,"",""
+ball,1,11.6,Worcestershire,RA Whiteley,BL D'Oliveira,JJ Cobb,1,0,,,,,,"",""
+ball,1,12.1,Worcestershire,RA Whiteley,BL D'Oliveira,GG White,1,0,,,,,,"",""
+ball,1,12.2,Worcestershire,BL D'Oliveira,RA Whiteley,GG White,0,1,1,,,,,"",""
+ball,1,12.3,Worcestershire,BL D'Oliveira,RA Whiteley,GG White,1,0,,,,,,"",""
+ball,1,12.4,Worcestershire,RA Whiteley,BL D'Oliveira,GG White,2,0,,,,,,"",""
+ball,1,12.5,Worcestershire,RA Whiteley,BL D'Oliveira,GG White,0,0,,,,,,"",""
+ball,1,12.6,Worcestershire,RA Whiteley,BL D'Oliveira,GG White,2,0,,,,,,"",""
+ball,1,12.7,Worcestershire,RA Whiteley,BL D'Oliveira,GG White,1,0,,,,,,"",""
+ball,1,13.1,Worcestershire,RA Whiteley,BL D'Oliveira,JJ Cobb,1,0,,,,,,"",""
+ball,1,13.2,Worcestershire,BL D'Oliveira,RA Whiteley,JJ Cobb,1,0,,,,,,"",""
+ball,1,13.3,Worcestershire,RA Whiteley,BL D'Oliveira,JJ Cobb,0,0,,,,,,"",""
+ball,1,13.4,Worcestershire,RA Whiteley,BL D'Oliveira,JJ Cobb,1,0,,,,,,"",""
+ball,1,13.5,Worcestershire,BL D'Oliveira,RA Whiteley,JJ Cobb,1,0,,,,,,"",""
+ball,1,13.6,Worcestershire,RA Whiteley,BL D'Oliveira,JJ Cobb,0,0,,,,,,"",""
+ball,1,14.1,Worcestershire,BL D'Oliveira,RA Whiteley,TAI Taylor,4,0,,,,,,"",""
+ball,1,14.2,Worcestershire,BL D'Oliveira,RA Whiteley,TAI Taylor,0,0,,,,,,caught,BL D'Oliveira
+ball,1,14.3,Worcestershire,JD Libby,RA Whiteley,TAI Taylor,1,0,,,,,,"",""
+ball,1,14.4,Worcestershire,RA Whiteley,JD Libby,TAI Taylor,0,1,,,,1,,"",""
+ball,1,14.5,Worcestershire,JD Libby,RA Whiteley,TAI Taylor,1,0,,,,,,"",""
+ball,1,14.6,Worcestershire,RA Whiteley,JD Libby,TAI Taylor,6,0,,,,,,"",""
+ball,1,15.1,Worcestershire,JD Libby,RA Whiteley,GG White,0,0,,,,,,"",""
+ball,1,15.2,Worcestershire,JD Libby,RA Whiteley,GG White,0,0,,,,,,"",""
+ball,1,15.3,Worcestershire,JD Libby,RA Whiteley,GG White,0,0,,,,,,"",""
+ball,1,15.4,Worcestershire,JD Libby,RA Whiteley,GG White,4,0,,,,,,"",""
+ball,1,15.5,Worcestershire,JD Libby,RA Whiteley,GG White,1,0,,,,,,"",""
+ball,1,15.6,Worcestershire,RA Whiteley,JD Libby,GG White,6,0,,,,,,"",""
+ball,1,16.1,Worcestershire,JD Libby,RA Whiteley,WD Parnell,1,0,,,,,,"",""
+ball,1,16.2,Worcestershire,RA Whiteley,JD Libby,WD Parnell,1,0,,,,,,"",""
+ball,1,16.3,Worcestershire,JD Libby,RA Whiteley,WD Parnell,2,0,,,,,,"",""
+ball,1,16.4,Worcestershire,JD Libby,RA Whiteley,WD Parnell,1,0,,,,,,"",""
+ball,1,16.5,Worcestershire,RA Whiteley,JD Libby,WD Parnell,1,0,,,,,,"",""
+ball,1,16.6,Worcestershire,JD Libby,RA Whiteley,WD Parnell,1,0,,,,,,"",""
+ball,1,17.1,Worcestershire,JD Libby,RA Whiteley,TAI Taylor,0,0,,,,,,bowled,JD Libby
+ball,1,17.2,Worcestershire,OB Cox,RA Whiteley,TAI Taylor,1,0,,,,,,"",""
+ball,1,17.3,Worcestershire,RA Whiteley,OB Cox,TAI Taylor,0,0,,,,,,caught,RA Whiteley
+ball,1,17.4,Worcestershire,OB Cox,EG Barnard,TAI Taylor,1,0,,,,,,"",""
+ball,1,17.5,Worcestershire,EG Barnard,OB Cox,TAI Taylor,1,0,,,,,,"",""
+ball,1,17.6,Worcestershire,OB Cox,EG Barnard,TAI Taylor,1,0,,,,,,"",""
+ball,1,18.1,Worcestershire,OB Cox,EG Barnard,WD Parnell,6,0,,,,,,"",""
+ball,1,18.2,Worcestershire,OB Cox,EG Barnard,WD Parnell,1,0,,,,,,"",""
+ball,1,18.3,Worcestershire,EG Barnard,OB Cox,WD Parnell,0,0,,,,,,"",""
+ball,1,18.4,Worcestershire,EG Barnard,OB Cox,WD Parnell,0,0,,,,,,"",""
+ball,1,18.5,Worcestershire,EG Barnard,OB Cox,WD Parnell,1,0,,,,,,"",""
+ball,1,18.6,Worcestershire,OB Cox,EG Barnard,WD Parnell,4,0,,,,,,"",""
+ball,1,19.1,Worcestershire,EG Barnard,OB Cox,BW Sanderson,0,0,,,,,,"",""
+ball,1,19.2,Worcestershire,EG Barnard,OB Cox,BW Sanderson,0,0,,,,,,caught,EG Barnard
+ball,1,19.3,Worcestershire,OB Cox,BJ Dwarshuis,BW Sanderson,4,0,,,,,,"",""
+ball,1,19.4,Worcestershire,OB Cox,BJ Dwarshuis,BW Sanderson,4,0,,,,,,"",""
+ball,1,19.5,Worcestershire,OB Cox,BJ Dwarshuis,BW Sanderson,4,0,,,,,,"",""
+ball,1,19.6,Worcestershire,OB Cox,BJ Dwarshuis,BW Sanderson,0,0,,,,,,caught,OB Cox
+ball,2,0.1,Northamptonshire,RE Levi,AM Rossington,JC Tongue,0,0,,,,,,caught,RE Levi
+ball,2,0.2,Northamptonshire,R Vasconcelos,AM Rossington,JC Tongue,1,0,,,,,,"",""
+ball,2,0.3,Northamptonshire,AM Rossington,R Vasconcelos,JC Tongue,4,0,,,,,,"",""
+ball,2,0.4,Northamptonshire,AM Rossington,R Vasconcelos,JC Tongue,1,0,,,,,,"",""
+ball,2,0.5,Northamptonshire,R Vasconcelos,AM Rossington,JC Tongue,0,0,,,,,,"",""
+ball,2,0.6,Northamptonshire,R Vasconcelos,AM Rossington,JC Tongue,0,0,,,,,,"",""
+ball,2,1.1,Northamptonshire,AM Rossington,R Vasconcelos,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.2,Northamptonshire,AM Rossington,R Vasconcelos,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,1.3,Northamptonshire,AM Rossington,R Vasconcelos,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,1.4,Northamptonshire,AM Rossington,R Vasconcelos,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.5,Northamptonshire,AM Rossington,R Vasconcelos,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.6,Northamptonshire,AM Rossington,R Vasconcelos,BJ Dwarshuis,2,0,,,,,,"",""
+ball,2,2.1,Northamptonshire,R Vasconcelos,AM Rossington,CAJ Morris,0,0,,,,,,"",""
+ball,2,2.2,Northamptonshire,R Vasconcelos,AM Rossington,CAJ Morris,0,0,,,,,,"",""
+ball,2,2.3,Northamptonshire,R Vasconcelos,AM Rossington,CAJ Morris,0,0,,,,,,caught,R Vasconcelos
+ball,2,2.4,Northamptonshire,AM Rossington,JJ Cobb,CAJ Morris,1,0,,,,,,"",""
+ball,2,2.5,Northamptonshire,JJ Cobb,AM Rossington,CAJ Morris,0,0,,,,,,"",""
+ball,2,2.6,Northamptonshire,JJ Cobb,AM Rossington,CAJ Morris,1,0,,,,,,"",""
+ball,2,3.1,Northamptonshire,JJ Cobb,AM Rossington,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,3.2,Northamptonshire,JJ Cobb,AM Rossington,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,3.3,Northamptonshire,JJ Cobb,AM Rossington,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,3.4,Northamptonshire,AM Rossington,JJ Cobb,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,3.5,Northamptonshire,JJ Cobb,AM Rossington,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,3.6,Northamptonshire,JJ Cobb,AM Rossington,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,4.1,Northamptonshire,AM Rossington,JJ Cobb,JC Tongue,4,0,,,,,,"",""
+ball,2,4.2,Northamptonshire,AM Rossington,JJ Cobb,JC Tongue,1,0,,,,,,"",""
+ball,2,4.3,Northamptonshire,JJ Cobb,AM Rossington,JC Tongue,1,0,,,,,,"",""
+ball,2,4.4,Northamptonshire,AM Rossington,JJ Cobb,JC Tongue,0,0,,,,,,"",""
+ball,2,4.5,Northamptonshire,AM Rossington,JJ Cobb,JC Tongue,0,0,,,,,,"",""
+ball,2,4.6,Northamptonshire,AM Rossington,JJ Cobb,JC Tongue,0,0,,,,,,"",""
+ball,2,5.1,Northamptonshire,JJ Cobb,AM Rossington,CAJ Morris,4,0,,,,,,"",""
+ball,2,5.2,Northamptonshire,JJ Cobb,AM Rossington,CAJ Morris,6,0,,,,,,"",""
+ball,2,5.3,Northamptonshire,JJ Cobb,AM Rossington,CAJ Morris,0,0,,,,,,caught,JJ Cobb
+ball,2,5.4,Northamptonshire,WD Parnell,AM Rossington,CAJ Morris,0,0,,,,,,"",""
+ball,2,5.5,Northamptonshire,WD Parnell,AM Rossington,CAJ Morris,0,0,,,,,,"",""
+ball,2,5.6,Northamptonshire,WD Parnell,AM Rossington,CAJ Morris,0,0,,,,,,"",""
+ball,2,6.1,Northamptonshire,AM Rossington,WD Parnell,IS Sodhi,0,0,,,,,,bowled,AM Rossington
+ball,2,6.2,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.3,Northamptonshire,WD Parnell,RI Keogh,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.4,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.5,Northamptonshire,WD Parnell,RI Keogh,IS Sodhi,1,0,,,,,,"",""
+ball,2,6.6,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,1,0,,,,,,"",""
+ball,2,7.1,Northamptonshire,RI Keogh,WD Parnell,MM Ali,0,0,,,,,,"",""
+ball,2,7.2,Northamptonshire,RI Keogh,WD Parnell,MM Ali,0,0,,,,,,"",""
+ball,2,7.3,Northamptonshire,RI Keogh,WD Parnell,MM Ali,2,0,,,,,,"",""
+ball,2,7.4,Northamptonshire,RI Keogh,WD Parnell,MM Ali,1,0,,,,,,"",""
+ball,2,7.5,Northamptonshire,WD Parnell,RI Keogh,MM Ali,1,0,,,,,,"",""
+ball,2,7.6,Northamptonshire,RI Keogh,WD Parnell,MM Ali,0,1,,,1,,,"",""
+ball,2,8.1,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,4,0,,,,,,"",""
+ball,2,8.2,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,0,0,,,,,,"",""
+ball,2,8.3,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.4,Northamptonshire,WD Parnell,RI Keogh,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.5,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.6,Northamptonshire,WD Parnell,RI Keogh,IS Sodhi,0,0,,,,,,"",""
+ball,2,9.1,Northamptonshire,RI Keogh,WD Parnell,MM Ali,4,0,,,,,,"",""
+ball,2,9.2,Northamptonshire,RI Keogh,WD Parnell,MM Ali,1,0,,,,,,"",""
+ball,2,9.3,Northamptonshire,WD Parnell,RI Keogh,MM Ali,0,0,,,,,,"",""
+ball,2,9.4,Northamptonshire,WD Parnell,RI Keogh,MM Ali,1,0,,,,,,"",""
+ball,2,9.5,Northamptonshire,RI Keogh,WD Parnell,MM Ali,1,0,,,,,,"",""
+ball,2,9.6,Northamptonshire,WD Parnell,RI Keogh,MM Ali,1,0,,,,,,"",""
+ball,2,10.1,Northamptonshire,WD Parnell,RI Keogh,IS Sodhi,1,0,,,,,,"",""
+ball,2,10.2,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,2,0,,,,,,"",""
+ball,2,10.3,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,0,0,,,,,,"",""
+ball,2,10.4,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,0,0,,,,,,"",""
+ball,2,10.5,Northamptonshire,RI Keogh,WD Parnell,IS Sodhi,1,0,,,,,,"",""
+ball,2,10.6,Northamptonshire,WD Parnell,RI Keogh,IS Sodhi,4,0,,,,,,"",""
+ball,2,11.1,Northamptonshire,RI Keogh,WD Parnell,MM Ali,1,0,,,,,,"",""
+ball,2,11.2,Northamptonshire,WD Parnell,RI Keogh,MM Ali,0,0,,,,,,stumped,WD Parnell
+ball,2,11.3,Northamptonshire,SA Zaib,RI Keogh,MM Ali,0,0,,,,,,"",""
+ball,2,11.4,Northamptonshire,SA Zaib,RI Keogh,MM Ali,1,0,,,,,,"",""
+ball,2,11.5,Northamptonshire,RI Keogh,SA Zaib,MM Ali,1,0,,,,,,"",""
+ball,2,11.6,Northamptonshire,SA Zaib,RI Keogh,MM Ali,1,0,,,,,,"",""
+ball,2,12.1,Northamptonshire,SA Zaib,RI Keogh,BL D'Oliveira,0,0,,,,,,"",""
+ball,2,12.2,Northamptonshire,SA Zaib,RI Keogh,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,12.3,Northamptonshire,RI Keogh,SA Zaib,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,12.4,Northamptonshire,SA Zaib,RI Keogh,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,12.5,Northamptonshire,RI Keogh,SA Zaib,BL D'Oliveira,1,0,,,,,,"",""
+ball,2,12.6,Northamptonshire,SA Zaib,RI Keogh,BL D'Oliveira,0,0,,,,,,"",""
+ball,2,13.1,Northamptonshire,RI Keogh,SA Zaib,MM Ali,1,0,,,,,,"",""
+ball,2,13.2,Northamptonshire,SA Zaib,RI Keogh,MM Ali,1,0,,,,,,"",""
+ball,2,13.3,Northamptonshire,RI Keogh,SA Zaib,MM Ali,0,0,,,,,,caught,RI Keogh
+ball,2,13.4,Northamptonshire,TAI Taylor,SA Zaib,MM Ali,0,0,,,,,,"",""
+ball,2,13.5,Northamptonshire,TAI Taylor,SA Zaib,MM Ali,2,0,,,,,,"",""
+ball,2,13.6,Northamptonshire,TAI Taylor,SA Zaib,MM Ali,1,0,,,,,,"",""
+ball,2,14.1,Northamptonshire,TAI Taylor,SA Zaib,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.2,Northamptonshire,TAI Taylor,SA Zaib,IS Sodhi,0,0,,,,,,run out,TAI Taylor
+ball,2,14.3,Northamptonshire,GG White,SA Zaib,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.4,Northamptonshire,GG White,SA Zaib,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.5,Northamptonshire,GG White,SA Zaib,IS Sodhi,1,0,,,,,,"",""
+ball,2,14.6,Northamptonshire,SA Zaib,GG White,IS Sodhi,1,0,,,,,,"",""
+ball,2,15.1,Northamptonshire,SA Zaib,GG White,EG Barnard,4,0,,,,,,"",""
+ball,2,15.2,Northamptonshire,SA Zaib,GG White,EG Barnard,4,0,,,,,,"",""
+ball,2,15.3,Northamptonshire,SA Zaib,GG White,EG Barnard,4,0,,,,,,"",""
+ball,2,15.4,Northamptonshire,SA Zaib,GG White,EG Barnard,4,0,,,,,,"",""
+ball,2,15.5,Northamptonshire,SA Zaib,GG White,EG Barnard,4,0,,,,,,"",""
+ball,2,15.6,Northamptonshire,SA Zaib,GG White,EG Barnard,1,0,,,,,,"",""
+ball,2,16.1,Northamptonshire,SA Zaib,GG White,BJ Dwarshuis,0,1,1,,,,,"",""
+ball,2,16.2,Northamptonshire,SA Zaib,GG White,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,16.3,Northamptonshire,GG White,SA Zaib,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,16.4,Northamptonshire,GG White,SA Zaib,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,16.5,Northamptonshire,SA Zaib,GG White,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,16.6,Northamptonshire,GG White,SA Zaib,BJ Dwarshuis,0,4,,,4,,,"",""
+ball,2,16.7,Northamptonshire,GG White,SA Zaib,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,17.1,Northamptonshire,GG White,SA Zaib,CAJ Morris,2,0,,,,,,"",""
+ball,2,17.2,Northamptonshire,GG White,SA Zaib,CAJ Morris,1,0,,,,,,"",""
+ball,2,17.3,Northamptonshire,SA Zaib,GG White,CAJ Morris,4,0,,,,,,"",""
+ball,2,17.4,Northamptonshire,SA Zaib,GG White,CAJ Morris,1,0,,,,,,"",""
+ball,2,17.5,Northamptonshire,GG White,SA Zaib,CAJ Morris,1,0,,,,,,"",""
+ball,2,17.6,Northamptonshire,SA Zaib,GG White,CAJ Morris,1,0,,,,,,"",""
+ball,2,18.1,Northamptonshire,SA Zaib,GG White,BJ Dwarshuis,1,0,,,,,,run out,SA Zaib
+ball,2,18.2,Northamptonshire,BW Sanderson,GG White,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,18.3,Northamptonshire,BW Sanderson,GG White,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,18.4,Northamptonshire,BW Sanderson,GG White,BJ Dwarshuis,0,1,1,,,,,"",""
+ball,2,18.5,Northamptonshire,BW Sanderson,GG White,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,18.6,Northamptonshire,GG White,BW Sanderson,BJ Dwarshuis,0,0,,,,,,caught,GG White
+ball,2,18.7,Northamptonshire,BW Sanderson,BD Glover,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,19.1,Northamptonshire,BW Sanderson,BD Glover,CAJ Morris,1,0,,,,,,"",""
+ball,2,19.2,Northamptonshire,BD Glover,BW Sanderson,CAJ Morris,1,0,,,,,,"",""
+ball,2,19.3,Northamptonshire,BW Sanderson,BD Glover,CAJ Morris,1,0,,,,,,"",""
+ball,2,19.4,Northamptonshire,BD Glover,BW Sanderson,CAJ Morris,4,0,,,,,,"",""
+ball,2,19.5,Northamptonshire,BD Glover,BW Sanderson,CAJ Morris,1,0,,,,,,"",""
+ball,2,19.6,Northamptonshire,BW Sanderson,BD Glover,CAJ Morris,1,0,,,,,,"",""

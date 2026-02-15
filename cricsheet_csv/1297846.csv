@@ -1,0 +1,286 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Essex
+info,gender,male
+info,season,2022
+info,date,2022/06/07
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,DJ Millns
+info,umpire,PR Pollard
+info,match_referee,SJ Davis
+info,winner,Essex
+info,winner_wickets,7
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JM Cox
+info,player,Kent,G Stewart
+info,player,Kent,SW Billings
+info,player,Kent,AJ Blake
+info,player,Kent,JA Leaning
+info,player,Kent,GF Linde
+info,player,Kent,Qais Ahmad
+info,player,Kent,ME Milnes
+info,player,Kent,FJ Klaassen
+info,player,Essex,WEL Buttleman
+info,player,Essex,AM Rossington
+info,player,Essex,MS Pepper
+info,player,Essex,MJJ Critchley
+info,player,Essex,PI Walter
+info,player,Essex,T Westley
+info,player,Essex,DR Sams
+info,player,Essex,SR Harmer
+info,player,Essex,ASS Nijjar
+info,player,Essex,BMJ Allison
+info,player,Essex,SJ Cook
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SR Harmer,23638956
+info,registry,people,SW Billings,c16d4035
+info,registry,people,T Westley,25a42048
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WEL Buttleman,e855546b
+ball,1,0.1,Kent,TS Muyeye,DJ Bell-Drummond,DR Sams,0,0,,,,,,"",""
+ball,1,0.2,Kent,TS Muyeye,DJ Bell-Drummond,DR Sams,0,1,1,,,,,"",""
+ball,1,0.3,Kent,TS Muyeye,DJ Bell-Drummond,DR Sams,0,0,,,,,,"",""
+ball,1,0.4,Kent,TS Muyeye,DJ Bell-Drummond,DR Sams,4,0,,,,,,"",""
+ball,1,0.5,Kent,TS Muyeye,DJ Bell-Drummond,DR Sams,0,1,,,,1,,"",""
+ball,1,0.6,Kent,DJ Bell-Drummond,TS Muyeye,DR Sams,0,0,,,,,,"",""
+ball,1,0.7,Kent,DJ Bell-Drummond,TS Muyeye,DR Sams,0,0,,,,,,caught,DJ Bell-Drummond
+ball,1,1.1,Kent,TS Muyeye,JM Cox,SJ Cook,0,0,,,,,,"",""
+ball,1,1.2,Kent,TS Muyeye,JM Cox,SJ Cook,0,4,,,,4,,"",""
+ball,1,1.3,Kent,TS Muyeye,JM Cox,SJ Cook,1,0,,,,,,"",""
+ball,1,1.4,Kent,JM Cox,TS Muyeye,SJ Cook,1,0,,,,,,"",""
+ball,1,1.5,Kent,TS Muyeye,JM Cox,SJ Cook,0,0,,,,,,"",""
+ball,1,1.6,Kent,TS Muyeye,JM Cox,SJ Cook,0,0,,,,,,"",""
+ball,1,2.1,Kent,JM Cox,TS Muyeye,DR Sams,0,0,,,,,,"",""
+ball,1,2.2,Kent,JM Cox,TS Muyeye,DR Sams,1,0,,,,,,"",""
+ball,1,2.3,Kent,TS Muyeye,JM Cox,DR Sams,0,0,,,,,,"",""
+ball,1,2.4,Kent,TS Muyeye,JM Cox,DR Sams,0,0,,,,,,"",""
+ball,1,2.5,Kent,TS Muyeye,JM Cox,DR Sams,1,0,,,,,,"",""
+ball,1,2.6,Kent,JM Cox,TS Muyeye,DR Sams,0,0,,,,,,"",""
+ball,1,3.1,Kent,TS Muyeye,JM Cox,BMJ Allison,0,0,,,,,,"",""
+ball,1,3.2,Kent,TS Muyeye,JM Cox,BMJ Allison,0,0,,,,,,caught,TS Muyeye
+ball,1,3.3,Kent,G Stewart,JM Cox,BMJ Allison,1,0,,,,,,"",""
+ball,1,3.4,Kent,JM Cox,G Stewart,BMJ Allison,0,0,,,,,,caught,JM Cox
+ball,1,3.5,Kent,SW Billings,G Stewart,BMJ Allison,1,0,,,,,,"",""
+ball,1,3.6,Kent,G Stewart,SW Billings,BMJ Allison,1,0,,,,,,"",""
+ball,1,4.1,Kent,G Stewart,SW Billings,SJ Cook,0,0,,,,,,caught,G Stewart
+ball,1,4.2,Kent,AJ Blake,SW Billings,SJ Cook,0,0,,,,,,"",""
+ball,1,4.3,Kent,AJ Blake,SW Billings,SJ Cook,0,0,,,,,,"",""
+ball,1,4.4,Kent,AJ Blake,SW Billings,SJ Cook,0,0,,,,,,"",""
+ball,1,4.5,Kent,AJ Blake,SW Billings,SJ Cook,0,0,,,,,,"",""
+ball,1,4.6,Kent,AJ Blake,SW Billings,SJ Cook,1,0,,,,,,"",""
+ball,1,5.1,Kent,AJ Blake,SW Billings,BMJ Allison,1,0,,,,,,"",""
+ball,1,5.2,Kent,SW Billings,AJ Blake,BMJ Allison,0,0,,,,,,"",""
+ball,1,5.3,Kent,SW Billings,AJ Blake,BMJ Allison,1,0,,,,,,"",""
+ball,1,5.4,Kent,AJ Blake,SW Billings,BMJ Allison,1,0,,,,,,"",""
+ball,1,5.5,Kent,SW Billings,AJ Blake,BMJ Allison,2,0,,,,,,"",""
+ball,1,5.6,Kent,SW Billings,AJ Blake,BMJ Allison,1,0,,,,,,"",""
+ball,1,6.1,Kent,SW Billings,AJ Blake,SR Harmer,0,0,,,,,,"",""
+ball,1,6.2,Kent,SW Billings,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,1,6.3,Kent,AJ Blake,SW Billings,SR Harmer,0,0,,,,,,"",""
+ball,1,6.4,Kent,AJ Blake,SW Billings,SR Harmer,0,0,,,,,,"",""
+ball,1,6.5,Kent,AJ Blake,SW Billings,SR Harmer,0,0,,,,,,"",""
+ball,1,6.6,Kent,AJ Blake,SW Billings,SR Harmer,0,0,,,,,,"",""
+ball,1,7.1,Kent,SW Billings,AJ Blake,ASS Nijjar,1,0,,,,,,"",""
+ball,1,7.2,Kent,AJ Blake,SW Billings,ASS Nijjar,6,0,,,,,,"",""
+ball,1,7.3,Kent,AJ Blake,SW Billings,ASS Nijjar,6,0,,,,,,"",""
+ball,1,7.4,Kent,AJ Blake,SW Billings,ASS Nijjar,0,1,1,,,,,"",""
+ball,1,7.5,Kent,AJ Blake,SW Billings,ASS Nijjar,0,1,1,,,,,"",""
+ball,1,7.6,Kent,AJ Blake,SW Billings,ASS Nijjar,4,0,,,,,,"",""
+ball,1,7.7,Kent,AJ Blake,SW Billings,ASS Nijjar,1,0,,,,,,"",""
+ball,1,7.8,Kent,SW Billings,AJ Blake,ASS Nijjar,1,0,,,,,,"",""
+ball,1,8.1,Kent,SW Billings,AJ Blake,SR Harmer,0,0,,,,,,"",""
+ball,1,8.2,Kent,SW Billings,AJ Blake,SR Harmer,0,0,,,,,,"",""
+ball,1,8.3,Kent,SW Billings,AJ Blake,SR Harmer,0,0,,,,,,"",""
+ball,1,8.4,Kent,SW Billings,AJ Blake,SR Harmer,0,0,,,,,,caught and bowled,SW Billings
+ball,1,8.5,Kent,JA Leaning,AJ Blake,SR Harmer,0,0,,,,,,"",""
+ball,1,8.6,Kent,JA Leaning,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,1,9.1,Kent,JA Leaning,AJ Blake,BMJ Allison,0,0,,,,,,"",""
+ball,1,9.2,Kent,JA Leaning,AJ Blake,BMJ Allison,2,0,,,,,,"",""
+ball,1,9.3,Kent,JA Leaning,AJ Blake,BMJ Allison,0,0,,,,,,"",""
+ball,1,9.4,Kent,JA Leaning,AJ Blake,BMJ Allison,1,0,,,,,,"",""
+ball,1,9.5,Kent,AJ Blake,JA Leaning,BMJ Allison,1,0,,,,,,"",""
+ball,1,9.6,Kent,JA Leaning,AJ Blake,BMJ Allison,4,0,,,,,,"",""
+ball,1,10.1,Kent,AJ Blake,JA Leaning,MJJ Critchley,4,0,,,,,,"",""
+ball,1,10.2,Kent,AJ Blake,JA Leaning,MJJ Critchley,1,0,,,,,,"",""
+ball,1,10.3,Kent,JA Leaning,AJ Blake,MJJ Critchley,0,0,,,,,,"",""
+ball,1,10.4,Kent,JA Leaning,AJ Blake,MJJ Critchley,1,0,,,,,,"",""
+ball,1,10.5,Kent,AJ Blake,JA Leaning,MJJ Critchley,1,0,,,,,,"",""
+ball,1,10.6,Kent,JA Leaning,AJ Blake,MJJ Critchley,0,0,,,,,,"",""
+ball,1,11.1,Kent,AJ Blake,JA Leaning,BMJ Allison,0,0,,,,,,"",""
+ball,1,11.2,Kent,AJ Blake,JA Leaning,BMJ Allison,2,0,,,,,,"",""
+ball,1,11.3,Kent,AJ Blake,JA Leaning,BMJ Allison,2,0,,,,,,"",""
+ball,1,11.4,Kent,AJ Blake,JA Leaning,BMJ Allison,0,1,1,,,,,"",""
+ball,1,11.5,Kent,AJ Blake,JA Leaning,BMJ Allison,1,0,,,,,,"",""
+ball,1,11.6,Kent,JA Leaning,AJ Blake,BMJ Allison,4,0,,,,,,"",""
+ball,1,11.7,Kent,JA Leaning,AJ Blake,BMJ Allison,1,0,,,,,,"",""
+ball,1,12.1,Kent,JA Leaning,AJ Blake,MJJ Critchley,0,0,,,,,,bowled,JA Leaning
+ball,1,12.2,Kent,GF Linde,AJ Blake,MJJ Critchley,1,0,,,,,,"",""
+ball,1,12.3,Kent,AJ Blake,GF Linde,MJJ Critchley,1,0,,,,,,"",""
+ball,1,12.4,Kent,GF Linde,AJ Blake,MJJ Critchley,1,0,,,,,,"",""
+ball,1,12.5,Kent,AJ Blake,GF Linde,MJJ Critchley,1,0,,,,,,"",""
+ball,1,12.6,Kent,GF Linde,AJ Blake,MJJ Critchley,1,0,,,,,,"",""
+ball,1,13.1,Kent,GF Linde,AJ Blake,SJ Cook,2,0,,,,,,"",""
+ball,1,13.2,Kent,GF Linde,AJ Blake,SJ Cook,0,1,,,,1,,"",""
+ball,1,13.3,Kent,AJ Blake,GF Linde,SJ Cook,0,0,,,,,,"",""
+ball,1,13.4,Kent,AJ Blake,GF Linde,SJ Cook,0,0,,,,,,"",""
+ball,1,13.5,Kent,AJ Blake,GF Linde,SJ Cook,1,0,,,,,,"",""
+ball,1,13.6,Kent,GF Linde,AJ Blake,SJ Cook,1,0,,,,,,"",""
+ball,1,14.1,Kent,GF Linde,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,1,14.2,Kent,AJ Blake,GF Linde,SR Harmer,1,0,,,,,,"",""
+ball,1,14.3,Kent,GF Linde,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,1,14.4,Kent,AJ Blake,GF Linde,SR Harmer,1,0,,,,,,"",""
+ball,1,14.5,Kent,GF Linde,AJ Blake,SR Harmer,0,0,,,,,,"",""
+ball,1,14.6,Kent,GF Linde,AJ Blake,SR Harmer,1,0,,,,,,"",""
+ball,1,15.1,Kent,GF Linde,AJ Blake,DR Sams,0,0,,,,,,"",""
+ball,1,15.2,Kent,GF Linde,AJ Blake,DR Sams,1,0,,,,,,"",""
+ball,1,15.3,Kent,AJ Blake,GF Linde,DR Sams,1,0,,,,,,"",""
+ball,1,15.4,Kent,GF Linde,AJ Blake,DR Sams,1,0,,,,,,"",""
+ball,1,15.5,Kent,AJ Blake,GF Linde,DR Sams,0,0,,,,,,caught,AJ Blake
+ball,1,15.6,Kent,Qais Ahmad,GF Linde,DR Sams,1,0,,,,,,"",""
+ball,1,16.1,Kent,Qais Ahmad,GF Linde,SR Harmer,4,0,,,,,,"",""
+ball,1,16.2,Kent,Qais Ahmad,GF Linde,SR Harmer,1,0,,,,,,"",""
+ball,1,16.3,Kent,GF Linde,Qais Ahmad,SR Harmer,6,0,,,,,,"",""
+ball,1,16.4,Kent,GF Linde,Qais Ahmad,SR Harmer,0,0,,,,,,"",""
+ball,1,16.5,Kent,GF Linde,Qais Ahmad,SR Harmer,1,0,,,,,,"",""
+ball,1,16.6,Kent,Qais Ahmad,GF Linde,SR Harmer,0,0,,,,,,"",""
+ball,1,17.1,Kent,GF Linde,Qais Ahmad,MJJ Critchley,0,0,,,,,,caught,GF Linde
+ball,1,17.2,Kent,ME Milnes,Qais Ahmad,MJJ Critchley,0,0,,,,,,"",""
+ball,1,17.3,Kent,ME Milnes,Qais Ahmad,MJJ Critchley,1,0,,,,,,"",""
+ball,1,17.4,Kent,Qais Ahmad,ME Milnes,MJJ Critchley,6,0,,,,,,"",""
+ball,1,17.5,Kent,Qais Ahmad,ME Milnes,MJJ Critchley,0,0,,,,,,"",""
+ball,1,17.6,Kent,Qais Ahmad,ME Milnes,MJJ Critchley,1,0,,,,,,"",""
+ball,1,18.1,Kent,Qais Ahmad,ME Milnes,DR Sams,0,0,,,,,,"",""
+ball,1,18.2,Kent,Qais Ahmad,ME Milnes,DR Sams,6,0,,,,,,"",""
+ball,1,18.3,Kent,Qais Ahmad,ME Milnes,DR Sams,0,0,,,,,,"",""
+ball,1,18.4,Kent,Qais Ahmad,ME Milnes,DR Sams,4,0,,,,,,"",""
+ball,1,18.5,Kent,Qais Ahmad,ME Milnes,DR Sams,0,0,,,,,,"",""
+ball,1,18.6,Kent,Qais Ahmad,ME Milnes,DR Sams,1,0,,,,,,"",""
+ball,1,19.1,Kent,Qais Ahmad,ME Milnes,SJ Cook,0,0,,,,,,caught,Qais Ahmad
+ball,1,19.2,Kent,FJ Klaassen,ME Milnes,SJ Cook,1,0,,,,,,"",""
+ball,1,19.3,Kent,ME Milnes,FJ Klaassen,SJ Cook,0,0,,,,,,"",""
+ball,1,19.4,Kent,ME Milnes,FJ Klaassen,SJ Cook,4,0,,,,,,"",""
+ball,1,19.5,Kent,ME Milnes,FJ Klaassen,SJ Cook,0,0,,,,,,"",""
+ball,1,19.6,Kent,ME Milnes,FJ Klaassen,SJ Cook,2,0,,,,,,"",""
+ball,2,0.1,Essex,WEL Buttleman,AM Rossington,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.2,Essex,WEL Buttleman,AM Rossington,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.3,Essex,WEL Buttleman,AM Rossington,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.4,Essex,WEL Buttleman,AM Rossington,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.5,Essex,WEL Buttleman,AM Rossington,FJ Klaassen,0,0,,,,,,"",""
+ball,2,0.6,Essex,WEL Buttleman,AM Rossington,FJ Klaassen,0,0,,,,,,"",""
+ball,2,1.1,Essex,AM Rossington,WEL Buttleman,G Stewart,1,0,,,,,,"",""
+ball,2,1.2,Essex,WEL Buttleman,AM Rossington,G Stewart,0,0,,,,,,"",""
+ball,2,1.3,Essex,WEL Buttleman,AM Rossington,G Stewart,1,0,,,,,,"",""
+ball,2,1.4,Essex,AM Rossington,WEL Buttleman,G Stewart,0,0,,,,,,"",""
+ball,2,1.5,Essex,AM Rossington,WEL Buttleman,G Stewart,6,0,,,,,,"",""
+ball,2,1.6,Essex,AM Rossington,WEL Buttleman,G Stewart,1,0,,,,,,"",""
+ball,2,2.1,Essex,AM Rossington,WEL Buttleman,FJ Klaassen,0,0,,,,,,"",""
+ball,2,2.2,Essex,AM Rossington,WEL Buttleman,FJ Klaassen,0,0,,,,,,"",""
+ball,2,2.3,Essex,AM Rossington,WEL Buttleman,FJ Klaassen,0,0,,,,,,"",""
+ball,2,2.4,Essex,AM Rossington,WEL Buttleman,FJ Klaassen,0,0,,,,,,bowled,AM Rossington
+ball,2,2.5,Essex,MS Pepper,WEL Buttleman,FJ Klaassen,0,0,,,,,,"",""
+ball,2,2.6,Essex,MS Pepper,WEL Buttleman,FJ Klaassen,0,0,,,,,,"",""
+ball,2,3.1,Essex,WEL Buttleman,MS Pepper,ME Milnes,4,0,,,,,,"",""
+ball,2,3.2,Essex,WEL Buttleman,MS Pepper,ME Milnes,0,0,,,,,,"",""
+ball,2,3.3,Essex,WEL Buttleman,MS Pepper,ME Milnes,0,0,,,,,,"",""
+ball,2,3.4,Essex,WEL Buttleman,MS Pepper,ME Milnes,1,0,,,,,,"",""
+ball,2,3.5,Essex,MS Pepper,WEL Buttleman,ME Milnes,1,0,,,,,,"",""
+ball,2,3.6,Essex,WEL Buttleman,MS Pepper,ME Milnes,0,0,,,,,,"",""
+ball,2,4.1,Essex,MS Pepper,WEL Buttleman,G Stewart,0,1,1,,,,,"",""
+ball,2,4.2,Essex,MS Pepper,WEL Buttleman,G Stewart,2,0,,,,,,"",""
+ball,2,4.3,Essex,MS Pepper,WEL Buttleman,G Stewart,0,0,,,,,,"",""
+ball,2,4.4,Essex,MS Pepper,WEL Buttleman,G Stewart,0,1,1,,,,,"",""
+ball,2,4.5,Essex,MS Pepper,WEL Buttleman,G Stewart,1,0,,,,,,"",""
+ball,2,4.6,Essex,WEL Buttleman,MS Pepper,G Stewart,0,0,,,,,,"",""
+ball,2,4.7,Essex,WEL Buttleman,MS Pepper,G Stewart,4,0,,,,,,"",""
+ball,2,4.8,Essex,WEL Buttleman,MS Pepper,G Stewart,0,0,,,,,,"",""
+ball,2,5.1,Essex,MS Pepper,WEL Buttleman,ME Milnes,0,0,,,,,,"",""
+ball,2,5.2,Essex,MS Pepper,WEL Buttleman,ME Milnes,4,0,,,,,,"",""
+ball,2,5.3,Essex,MS Pepper,WEL Buttleman,ME Milnes,6,0,,,,,,"",""
+ball,2,5.4,Essex,MS Pepper,WEL Buttleman,ME Milnes,0,0,,,,,,"",""
+ball,2,5.5,Essex,MS Pepper,WEL Buttleman,ME Milnes,1,0,,,,,,"",""
+ball,2,5.6,Essex,WEL Buttleman,MS Pepper,ME Milnes,4,0,,,,,,"",""
+ball,2,6.1,Essex,MS Pepper,WEL Buttleman,Qais Ahmad,0,0,,,,,,"",""
+ball,2,6.2,Essex,MS Pepper,WEL Buttleman,Qais Ahmad,2,0,,,,,,"",""
+ball,2,6.3,Essex,MS Pepper,WEL Buttleman,Qais Ahmad,1,0,,,,,,"",""
+ball,2,6.4,Essex,WEL Buttleman,MS Pepper,Qais Ahmad,1,0,,,,,,"",""
+ball,2,6.5,Essex,MS Pepper,WEL Buttleman,Qais Ahmad,2,0,,,,,,"",""
+ball,2,6.6,Essex,MS Pepper,WEL Buttleman,Qais Ahmad,1,0,,,,,,"",""
+ball,2,7.1,Essex,MS Pepper,WEL Buttleman,GF Linde,0,0,,,,,,"",""
+ball,2,7.2,Essex,MS Pepper,WEL Buttleman,GF Linde,6,0,,,,,,"",""
+ball,2,7.3,Essex,MS Pepper,WEL Buttleman,GF Linde,1,0,,,,,,"",""
+ball,2,7.4,Essex,WEL Buttleman,MS Pepper,GF Linde,0,0,,,,,,"",""
+ball,2,7.5,Essex,WEL Buttleman,MS Pepper,GF Linde,0,0,,,,,,caught,WEL Buttleman
+ball,2,7.6,Essex,MJJ Critchley,MS Pepper,GF Linde,1,0,,,,,,"",""
+ball,2,8.1,Essex,MJJ Critchley,MS Pepper,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.2,Essex,MS Pepper,MJJ Critchley,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.3,Essex,MJJ Critchley,MS Pepper,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.4,Essex,MS Pepper,MJJ Critchley,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.5,Essex,MJJ Critchley,MS Pepper,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.6,Essex,MS Pepper,MJJ Critchley,Qais Ahmad,6,0,,,,,,"",""
+ball,2,9.1,Essex,MJJ Critchley,MS Pepper,GF Linde,0,0,,,,,,"",""
+ball,2,9.2,Essex,MJJ Critchley,MS Pepper,GF Linde,1,0,,,,,,"",""
+ball,2,9.3,Essex,MS Pepper,MJJ Critchley,GF Linde,2,0,,,,,,"",""
+ball,2,9.4,Essex,MS Pepper,MJJ Critchley,GF Linde,6,0,,,,,,"",""
+ball,2,9.5,Essex,MS Pepper,MJJ Critchley,GF Linde,1,0,,,,,,"",""
+ball,2,9.6,Essex,MJJ Critchley,MS Pepper,GF Linde,0,0,,,,,,"",""
+ball,2,10.1,Essex,MS Pepper,MJJ Critchley,FJ Klaassen,0,1,,,,1,,"",""
+ball,2,10.2,Essex,MJJ Critchley,MS Pepper,FJ Klaassen,1,0,,,,,,"",""
+ball,2,10.3,Essex,MS Pepper,MJJ Critchley,FJ Klaassen,4,0,,,,,,"",""
+ball,2,10.4,Essex,MS Pepper,MJJ Critchley,FJ Klaassen,0,1,1,,,,,"",""
+ball,2,10.5,Essex,MS Pepper,MJJ Critchley,FJ Klaassen,1,0,,,,,,"",""
+ball,2,10.6,Essex,MJJ Critchley,MS Pepper,FJ Klaassen,0,0,,,,,,"",""
+ball,2,10.7,Essex,MJJ Critchley,MS Pepper,FJ Klaassen,0,1,,,,1,,"",""
+ball,2,11.1,Essex,MJJ Critchley,MS Pepper,Qais Ahmad,1,0,,,,,,"",""
+ball,2,11.2,Essex,MS Pepper,MJJ Critchley,Qais Ahmad,0,0,,,,,,caught,MS Pepper
+ball,2,11.3,Essex,PI Walter,MJJ Critchley,Qais Ahmad,0,1,1,,,,,"",""
+ball,2,11.4,Essex,PI Walter,MJJ Critchley,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.5,Essex,PI Walter,MJJ Critchley,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.6,Essex,PI Walter,MJJ Critchley,Qais Ahmad,1,0,,,,,,"",""
+ball,2,11.7,Essex,MJJ Critchley,PI Walter,Qais Ahmad,1,0,,,,,,"",""
+ball,2,12.1,Essex,MJJ Critchley,PI Walter,ME Milnes,1,0,,,,,,"",""
+ball,2,12.2,Essex,PI Walter,MJJ Critchley,ME Milnes,1,0,,,,,,"",""
+ball,2,12.3,Essex,MJJ Critchley,PI Walter,ME Milnes,1,0,,,,,,"",""
+ball,2,12.4,Essex,PI Walter,MJJ Critchley,ME Milnes,2,0,,,,,,"",""
+ball,2,12.5,Essex,PI Walter,MJJ Critchley,ME Milnes,1,0,,,,,,"",""
+ball,2,12.6,Essex,MJJ Critchley,PI Walter,ME Milnes,0,0,,,,,,"",""
+ball,2,13.1,Essex,PI Walter,MJJ Critchley,Qais Ahmad,1,0,,,,,,"",""
+ball,2,13.2,Essex,MJJ Critchley,PI Walter,Qais Ahmad,2,0,,,,,,"",""
+ball,2,13.3,Essex,MJJ Critchley,PI Walter,Qais Ahmad,0,0,,,,,,"",""
+ball,2,13.4,Essex,MJJ Critchley,PI Walter,Qais Ahmad,4,0,,,,,,"",""
+ball,2,13.5,Essex,MJJ Critchley,PI Walter,Qais Ahmad,1,0,,,,,,"",""
+ball,2,13.6,Essex,PI Walter,MJJ Critchley,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.1,Essex,PI Walter,MJJ Critchley,FJ Klaassen,1,0,,,,,,"",""
+ball,2,14.2,Essex,MJJ Critchley,PI Walter,FJ Klaassen,1,0,,,,,,"",""
+ball,2,14.3,Essex,PI Walter,MJJ Critchley,FJ Klaassen,4,0,,,,,,"",""
+ball,2,14.4,Essex,PI Walter,MJJ Critchley,FJ Klaassen,6,0,,,,,,"",""
+ball,2,14.5,Essex,PI Walter,MJJ Critchley,FJ Klaassen,0,0,,,,,,"",""
+ball,2,14.6,Essex,PI Walter,MJJ Critchley,FJ Klaassen,1,0,,,,,,"",""
+ball,2,15.1,Essex,PI Walter,MJJ Critchley,GF Linde,6,0,,,,,,"",""
+ball,2,15.2,Essex,PI Walter,MJJ Critchley,GF Linde,2,0,,,,,,"",""
+ball,2,15.3,Essex,PI Walter,MJJ Critchley,GF Linde,6,0,,,,,,"",""
+ball,2,15.4,Essex,PI Walter,MJJ Critchley,GF Linde,0,5,5,,,,,"",""

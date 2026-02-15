@@ -1,0 +1,323 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Barbados Tridents
+info,team,Antigua Hawksbills
+info,gender,male
+info,season,2013
+info,date,2013/08/01
+info,event,Caribbean Premier League
+info,match_number,3
+info,venue,"Kensington Oval, Bridgetown"
+info,city,Barbados
+info,toss_winner,Barbados Tridents
+info,toss_decision,bat
+info,player_of_match,Shakib Al Hasan
+info,umpire,LS Reifer
+info,umpire,BF Bowden
+info,reserve_umpire,KA Sisnett
+info,tv_umpire,GO Brathwaite
+info,match_referee,MJ Procter
+info,winner,Barbados Tridents
+info,winner_runs,12
+info,player,Barbados Tridents,DR Smith
+info,player,Barbados Tridents,JL Carter
+info,player,Barbados Tridents,Shoaib Malik
+info,player,Barbados Tridents,Shakib Al Hasan
+info,player,Barbados Tridents,Umar Akmal
+info,player,Barbados Tridents,KA Pollard
+info,player,Barbados Tridents,KR Mayers
+info,player,Barbados Tridents,AR Nurse
+info,player,Barbados Tridents,RR Emrit
+info,player,Barbados Tridents,JO Holder
+info,player,Barbados Tridents,ST Gabriel
+info,player,Antigua Hawksbills,J Charles
+info,player,Antigua Hawksbills,DC Thomas
+info,player,Antigua Hawksbills,RT Ponting
+info,player,Antigua Hawksbills,MN Samuels
+info,player,Antigua Hawksbills,BJ Rohrer
+info,player,Antigua Hawksbills,JM Kemp
+info,player,Antigua Hawksbills,KOA Powell
+info,player,Antigua Hawksbills,D Mohammed
+info,player,Antigua Hawksbills,KAJ Roach
+info,player,Antigua Hawksbills,GC Tonge
+info,player,Antigua Hawksbills,SS Cottrell
+info,registry,people,AR Nurse,4a745f65
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Rohrer,27af6414
+info,registry,people,D Mohammed,77079be1
+info,registry,people,DC Thomas,08a4f9ad
+info,registry,people,DR Smith,35205dfc
+info,registry,people,GC Tonge,7d21eb9b
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,J Charles,09a9d073
+info,registry,people,JL Carter,0a9d8b61
+info,registry,people,JM Kemp,6581d753
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KA Sisnett,da0aead1
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,KR Mayers,73c18486
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MJ Procter,32e65048
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,RR Emrit,e7de4f6b
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Umar Akmal,fd2bf2a0
+ball,1,0.1,Barbados Tridents,DR Smith,JL Carter,KAJ Roach,0,0,,,,,,"",""
+ball,1,0.2,Barbados Tridents,DR Smith,JL Carter,KAJ Roach,1,0,,,,,,"",""
+ball,1,0.3,Barbados Tridents,JL Carter,DR Smith,KAJ Roach,0,0,,,,,,"",""
+ball,1,0.4,Barbados Tridents,JL Carter,DR Smith,KAJ Roach,1,0,,,,,,"",""
+ball,1,0.5,Barbados Tridents,DR Smith,JL Carter,KAJ Roach,1,0,,,,,,"",""
+ball,1,0.6,Barbados Tridents,JL Carter,DR Smith,KAJ Roach,0,0,,,,,,"",""
+ball,1,1.1,Barbados Tridents,DR Smith,JL Carter,GC Tonge,1,0,,,,,,"",""
+ball,1,1.2,Barbados Tridents,JL Carter,DR Smith,GC Tonge,0,1,1,,,,,"",""
+ball,1,1.3,Barbados Tridents,JL Carter,DR Smith,GC Tonge,1,0,,,,,,"",""
+ball,1,1.4,Barbados Tridents,DR Smith,JL Carter,GC Tonge,0,0,,,,,,"",""
+ball,1,1.5,Barbados Tridents,DR Smith,JL Carter,GC Tonge,0,0,,,,,,"",""
+ball,1,1.6,Barbados Tridents,DR Smith,JL Carter,GC Tonge,1,0,,,,,,"",""
+ball,1,1.7,Barbados Tridents,JL Carter,DR Smith,GC Tonge,0,0,,,,,,"",""
+ball,1,2.1,Barbados Tridents,DR Smith,JL Carter,KAJ Roach,0,0,,,,,,"",""
+ball,1,2.2,Barbados Tridents,DR Smith,JL Carter,KAJ Roach,4,0,,,,,,"",""
+ball,1,2.3,Barbados Tridents,DR Smith,JL Carter,KAJ Roach,0,0,,,,,,caught,DR Smith
+ball,1,2.4,Barbados Tridents,Shoaib Malik,JL Carter,KAJ Roach,0,0,,,,,,"",""
+ball,1,2.5,Barbados Tridents,Shoaib Malik,JL Carter,KAJ Roach,0,0,,,,,,"",""
+ball,1,2.6,Barbados Tridents,Shoaib Malik,JL Carter,KAJ Roach,0,0,,,,,,"",""
+ball,1,3.1,Barbados Tridents,JL Carter,Shoaib Malik,GC Tonge,0,0,,,,,,"",""
+ball,1,3.2,Barbados Tridents,JL Carter,Shoaib Malik,GC Tonge,0,0,,,,,,"",""
+ball,1,3.3,Barbados Tridents,JL Carter,Shoaib Malik,GC Tonge,0,0,,,,,,"",""
+ball,1,3.4,Barbados Tridents,JL Carter,Shoaib Malik,GC Tonge,1,0,,,,,,"",""
+ball,1,3.5,Barbados Tridents,Shoaib Malik,JL Carter,GC Tonge,0,0,,,,,,"",""
+ball,1,3.6,Barbados Tridents,Shoaib Malik,JL Carter,GC Tonge,0,0,,,,,,"",""
+ball,1,4.1,Barbados Tridents,JL Carter,Shoaib Malik,SS Cottrell,0,1,1,,,,,"",""
+ball,1,4.2,Barbados Tridents,JL Carter,Shoaib Malik,SS Cottrell,0,1,1,,,,,"",""
+ball,1,4.3,Barbados Tridents,JL Carter,Shoaib Malik,SS Cottrell,0,1,1,,,,,"",""
+ball,1,4.4,Barbados Tridents,JL Carter,Shoaib Malik,SS Cottrell,4,0,,,,,,"",""
+ball,1,4.5,Barbados Tridents,JL Carter,Shoaib Malik,SS Cottrell,0,0,,,,,,"",""
+ball,1,4.6,Barbados Tridents,JL Carter,Shoaib Malik,SS Cottrell,2,0,,,,,,"",""
+ball,1,4.7,Barbados Tridents,JL Carter,Shoaib Malik,SS Cottrell,0,0,,,,,,"",""
+ball,1,4.8,Barbados Tridents,JL Carter,Shoaib Malik,SS Cottrell,0,0,,,,,,"",""
+ball,1,4.9,Barbados Tridents,JL Carter,Shoaib Malik,SS Cottrell,0,0,,,,,,"",""
+ball,1,5.1,Barbados Tridents,Shoaib Malik,JL Carter,GC Tonge,1,0,,,,,,"",""
+ball,1,5.2,Barbados Tridents,JL Carter,Shoaib Malik,GC Tonge,0,0,,,,,,"",""
+ball,1,5.3,Barbados Tridents,JL Carter,Shoaib Malik,GC Tonge,4,0,,,,,,"",""
+ball,1,5.4,Barbados Tridents,JL Carter,Shoaib Malik,GC Tonge,6,0,,,,,,"",""
+ball,1,5.5,Barbados Tridents,JL Carter,Shoaib Malik,GC Tonge,0,0,,,,,,"",""
+ball,1,5.6,Barbados Tridents,JL Carter,Shoaib Malik,GC Tonge,6,0,,,,,,"",""
+ball,1,6.1,Barbados Tridents,Shoaib Malik,JL Carter,MN Samuels,2,0,,,,,,"",""
+ball,1,6.2,Barbados Tridents,Shoaib Malik,JL Carter,MN Samuels,0,0,,,,,,"",""
+ball,1,6.3,Barbados Tridents,Shoaib Malik,JL Carter,MN Samuels,1,0,,,,,,"",""
+ball,1,6.4,Barbados Tridents,JL Carter,Shoaib Malik,MN Samuels,0,0,,,,,,"",""
+ball,1,6.5,Barbados Tridents,JL Carter,Shoaib Malik,MN Samuels,0,0,,,,,,"",""
+ball,1,6.6,Barbados Tridents,JL Carter,Shoaib Malik,MN Samuels,1,0,,,,,,"",""
+ball,1,7.1,Barbados Tridents,JL Carter,Shoaib Malik,D Mohammed,1,0,,,,,,"",""
+ball,1,7.2,Barbados Tridents,Shoaib Malik,JL Carter,D Mohammed,1,0,,,,,,"",""
+ball,1,7.3,Barbados Tridents,JL Carter,Shoaib Malik,D Mohammed,0,0,,,,,,"",""
+ball,1,7.4,Barbados Tridents,JL Carter,Shoaib Malik,D Mohammed,0,1,,,1,,,"",""
+ball,1,7.5,Barbados Tridents,Shoaib Malik,JL Carter,D Mohammed,2,0,,,,,,"",""
+ball,1,7.6,Barbados Tridents,Shoaib Malik,JL Carter,D Mohammed,1,0,,,,,,"",""
+ball,1,8.1,Barbados Tridents,Shoaib Malik,JL Carter,MN Samuels,1,0,,,,,,"",""
+ball,1,8.2,Barbados Tridents,JL Carter,Shoaib Malik,MN Samuels,0,0,,,,,,"",""
+ball,1,8.3,Barbados Tridents,JL Carter,Shoaib Malik,MN Samuels,4,0,,,,,,"",""
+ball,1,8.4,Barbados Tridents,JL Carter,Shoaib Malik,MN Samuels,0,0,,,,,,caught,JL Carter
+ball,1,8.5,Barbados Tridents,Shakib Al Hasan,Shoaib Malik,MN Samuels,0,0,,,,,,"",""
+ball,1,8.6,Barbados Tridents,Shakib Al Hasan,Shoaib Malik,MN Samuels,0,0,,,,,,"",""
+ball,1,9.1,Barbados Tridents,Shoaib Malik,Shakib Al Hasan,D Mohammed,0,0,,,,,,"",""
+ball,1,9.2,Barbados Tridents,Shoaib Malik,Shakib Al Hasan,D Mohammed,0,0,,,,,,"",""
+ball,1,9.3,Barbados Tridents,Shoaib Malik,Shakib Al Hasan,D Mohammed,4,0,,,,,,"",""
+ball,1,9.4,Barbados Tridents,Shoaib Malik,Shakib Al Hasan,D Mohammed,0,0,,,,,,"",""
+ball,1,9.5,Barbados Tridents,Shoaib Malik,Shakib Al Hasan,D Mohammed,0,0,,,,,,"",""
+ball,1,9.6,Barbados Tridents,Shoaib Malik,Shakib Al Hasan,D Mohammed,1,0,,,,,,"",""
+ball,1,10.1,Barbados Tridents,Shoaib Malik,Shakib Al Hasan,MN Samuels,1,0,,,,,,"",""
+ball,1,10.2,Barbados Tridents,Shakib Al Hasan,Shoaib Malik,MN Samuels,1,0,,,,,,"",""
+ball,1,10.3,Barbados Tridents,Shoaib Malik,Shakib Al Hasan,MN Samuels,1,0,,,,,,"",""
+ball,1,10.4,Barbados Tridents,Shakib Al Hasan,Shoaib Malik,MN Samuels,0,0,,,,,,"",""
+ball,1,10.5,Barbados Tridents,Shakib Al Hasan,Shoaib Malik,MN Samuels,0,0,,,,,,"",""
+ball,1,10.6,Barbados Tridents,Shakib Al Hasan,Shoaib Malik,MN Samuels,0,0,,,,,,caught,Shakib Al Hasan
+ball,1,11.1,Barbados Tridents,Shoaib Malik,Umar Akmal,D Mohammed,1,0,,,,,,"",""
+ball,1,11.2,Barbados Tridents,Umar Akmal,Shoaib Malik,D Mohammed,1,0,,,,,,"",""
+ball,1,11.3,Barbados Tridents,Shoaib Malik,Umar Akmal,D Mohammed,1,0,,,,,,"",""
+ball,1,11.4,Barbados Tridents,Umar Akmal,Shoaib Malik,D Mohammed,0,0,,,,,,"",""
+ball,1,11.5,Barbados Tridents,Umar Akmal,Shoaib Malik,D Mohammed,0,0,,,,,,"",""
+ball,1,11.6,Barbados Tridents,Umar Akmal,Shoaib Malik,D Mohammed,1,0,,,,,,"",""
+ball,1,12.1,Barbados Tridents,Umar Akmal,Shoaib Malik,JM Kemp,1,0,,,,,,"",""
+ball,1,12.2,Barbados Tridents,Shoaib Malik,Umar Akmal,JM Kemp,1,0,,,,,,"",""
+ball,1,12.3,Barbados Tridents,Umar Akmal,Shoaib Malik,JM Kemp,1,0,,,,,,"",""
+ball,1,12.4,Barbados Tridents,Shoaib Malik,Umar Akmal,JM Kemp,4,0,,,,,,"",""
+ball,1,12.5,Barbados Tridents,Shoaib Malik,Umar Akmal,JM Kemp,1,0,,,,,,"",""
+ball,1,12.6,Barbados Tridents,Umar Akmal,Shoaib Malik,JM Kemp,0,0,,,,,,"",""
+ball,1,13.1,Barbados Tridents,Shoaib Malik,Umar Akmal,D Mohammed,1,0,,,,,,"",""
+ball,1,13.2,Barbados Tridents,Umar Akmal,Shoaib Malik,D Mohammed,1,0,,,,,,"",""
+ball,1,13.3,Barbados Tridents,Shoaib Malik,Umar Akmal,D Mohammed,2,0,,,,,,"",""
+ball,1,13.4,Barbados Tridents,Shoaib Malik,Umar Akmal,D Mohammed,6,0,,,,,,"",""
+ball,1,13.5,Barbados Tridents,Shoaib Malik,Umar Akmal,D Mohammed,0,0,,,,,,caught,Shoaib Malik
+ball,1,13.6,Barbados Tridents,KA Pollard,Umar Akmal,D Mohammed,0,0,,,,,,"",""
+ball,1,14.1,Barbados Tridents,Umar Akmal,KA Pollard,KAJ Roach,6,0,,,,,,"",""
+ball,1,14.2,Barbados Tridents,Umar Akmal,KA Pollard,KAJ Roach,1,0,,,,,,"",""
+ball,1,14.3,Barbados Tridents,KA Pollard,Umar Akmal,KAJ Roach,0,0,,,,,,"",""
+ball,1,14.4,Barbados Tridents,KA Pollard,Umar Akmal,KAJ Roach,0,1,1,,,,,"",""
+ball,1,14.5,Barbados Tridents,KA Pollard,Umar Akmal,KAJ Roach,0,1,,,,1,,"",""
+ball,1,14.6,Barbados Tridents,Umar Akmal,KA Pollard,KAJ Roach,0,1,1,,,,,"",""
+ball,1,14.7,Barbados Tridents,Umar Akmal,KA Pollard,KAJ Roach,4,0,,,,,,"",""
+ball,1,14.8,Barbados Tridents,Umar Akmal,KA Pollard,KAJ Roach,1,0,,,,,,"",""
+ball,1,15.1,Barbados Tridents,Umar Akmal,KA Pollard,SS Cottrell,1,0,,,,,,"",""
+ball,1,15.2,Barbados Tridents,KA Pollard,Umar Akmal,SS Cottrell,0,0,,,,,,"",""
+ball,1,15.3,Barbados Tridents,KA Pollard,Umar Akmal,SS Cottrell,2,0,,,,,,"",""
+ball,1,15.4,Barbados Tridents,KA Pollard,Umar Akmal,SS Cottrell,1,0,,,,,,"",""
+ball,1,15.5,Barbados Tridents,Umar Akmal,KA Pollard,SS Cottrell,6,0,,,,,,"",""
+ball,1,15.6,Barbados Tridents,Umar Akmal,KA Pollard,SS Cottrell,1,0,,,,,,"",""
+ball,1,16.1,Barbados Tridents,Umar Akmal,KA Pollard,MN Samuels,2,0,,,,,,"",""
+ball,1,16.2,Barbados Tridents,Umar Akmal,KA Pollard,MN Samuels,1,0,,,,,,"",""
+ball,1,16.3,Barbados Tridents,KA Pollard,Umar Akmal,MN Samuels,1,0,,,,,,"",""
+ball,1,16.4,Barbados Tridents,Umar Akmal,KA Pollard,MN Samuels,0,0,,,,,,"",""
+ball,1,16.5,Barbados Tridents,Umar Akmal,KA Pollard,MN Samuels,1,0,,,,,,"",""
+ball,1,16.6,Barbados Tridents,KA Pollard,Umar Akmal,MN Samuels,0,0,,,,,,"",""
+ball,1,17.1,Barbados Tridents,Umar Akmal,KA Pollard,SS Cottrell,1,0,,,,,,"",""
+ball,1,17.2,Barbados Tridents,KA Pollard,Umar Akmal,SS Cottrell,0,0,,,,,,"",""
+ball,1,17.3,Barbados Tridents,KA Pollard,Umar Akmal,SS Cottrell,0,0,,,,,,"",""
+ball,1,17.4,Barbados Tridents,KA Pollard,Umar Akmal,SS Cottrell,1,0,,,,,,"",""
+ball,1,17.5,Barbados Tridents,Umar Akmal,KA Pollard,SS Cottrell,0,0,,,,,,caught,Umar Akmal
+ball,1,17.6,Barbados Tridents,KA Pollard,KR Mayers,SS Cottrell,0,0,,,,,,"",""
+ball,1,18.1,Barbados Tridents,KR Mayers,KA Pollard,DC Thomas,1,0,,,,,,"",""
+ball,1,18.2,Barbados Tridents,KA Pollard,KR Mayers,DC Thomas,6,0,,,,,,"",""
+ball,1,18.3,Barbados Tridents,KA Pollard,KR Mayers,DC Thomas,1,0,,,,,,"",""
+ball,1,18.4,Barbados Tridents,KR Mayers,KA Pollard,DC Thomas,0,0,,,,,,caught,KR Mayers
+ball,1,18.5,Barbados Tridents,AR Nurse,KA Pollard,DC Thomas,1,0,,,,,,"",""
+ball,1,18.6,Barbados Tridents,KA Pollard,AR Nurse,DC Thomas,6,0,,,,,,"",""
+ball,1,19.1,Barbados Tridents,AR Nurse,KA Pollard,SS Cottrell,1,0,,,,,,"",""
+ball,1,19.2,Barbados Tridents,KA Pollard,AR Nurse,SS Cottrell,0,0,,,,,,caught,KA Pollard
+ball,1,19.3,Barbados Tridents,AR Nurse,RR Emrit,SS Cottrell,0,1,,,,1,,"",""
+ball,1,19.4,Barbados Tridents,RR Emrit,AR Nurse,SS Cottrell,4,0,,,,,,"",""
+ball,1,19.5,Barbados Tridents,RR Emrit,AR Nurse,SS Cottrell,0,3,,3,,,,"",""
+ball,1,19.6,Barbados Tridents,RR Emrit,AR Nurse,SS Cottrell,0,0,,,,,,run out,AR Nurse
+ball,1,19.7,Barbados Tridents,JO Holder,RR Emrit,SS Cottrell,6,0,,,,,,"",""
+ball,2,0.1,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,4,0,,,,,,"",""
+ball,2,0.2,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,0,0,,,,,,"",""
+ball,2,0.3,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,0,1,1,,,,,"",""
+ball,2,0.4,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,0,0,,,,,,"",""
+ball,2,0.5,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,2,0,,,,,,"",""
+ball,2,0.6,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,0,0,,,,,,"",""
+ball,2,0.7,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,1,0,,,,,,"",""
+ball,2,1.1,Antigua Hawksbills,J Charles,DC Thomas,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,1.2,Antigua Hawksbills,DC Thomas,J Charles,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,1.3,Antigua Hawksbills,J Charles,DC Thomas,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,1.4,Antigua Hawksbills,DC Thomas,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,1.5,Antigua Hawksbills,DC Thomas,J Charles,Shakib Al Hasan,0,3,,,3,,,"",""
+ball,2,1.6,Antigua Hawksbills,J Charles,DC Thomas,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,2.1,Antigua Hawksbills,DC Thomas,J Charles,JO Holder,0,0,,,,,,"",""
+ball,2,2.2,Antigua Hawksbills,DC Thomas,J Charles,JO Holder,1,0,,,,,,"",""
+ball,2,2.3,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,4,0,,,,,,"",""
+ball,2,2.4,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,2,0,,,,,,"",""
+ball,2,2.5,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,0,0,,,,,,"",""
+ball,2,2.6,Antigua Hawksbills,J Charles,DC Thomas,JO Holder,0,0,,,,,,"",""
+ball,2,3.1,Antigua Hawksbills,DC Thomas,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.2,Antigua Hawksbills,DC Thomas,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.3,Antigua Hawksbills,DC Thomas,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.4,Antigua Hawksbills,DC Thomas,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.5,Antigua Hawksbills,DC Thomas,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.6,Antigua Hawksbills,DC Thomas,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,4.1,Antigua Hawksbills,J Charles,DC Thomas,RR Emrit,0,1,1,,,,,"",""
+ball,2,4.2,Antigua Hawksbills,J Charles,DC Thomas,RR Emrit,0,0,,,,,,"",""
+ball,2,4.3,Antigua Hawksbills,J Charles,DC Thomas,RR Emrit,4,0,,,,,,"",""
+ball,2,4.4,Antigua Hawksbills,J Charles,DC Thomas,RR Emrit,0,0,,,,,,"",""
+ball,2,4.5,Antigua Hawksbills,J Charles,DC Thomas,RR Emrit,1,0,,,,,,"",""
+ball,2,4.6,Antigua Hawksbills,DC Thomas,J Charles,RR Emrit,0,0,,,,,,"",""
+ball,2,4.7,Antigua Hawksbills,DC Thomas,J Charles,RR Emrit,0,0,,,,,,caught,DC Thomas
+ball,2,5.1,Antigua Hawksbills,J Charles,RT Ponting,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,5.2,Antigua Hawksbills,J Charles,RT Ponting,Shakib Al Hasan,6,0,,,,,,"",""
+ball,2,5.3,Antigua Hawksbills,J Charles,RT Ponting,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,5.4,Antigua Hawksbills,RT Ponting,J Charles,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,5.5,Antigua Hawksbills,J Charles,RT Ponting,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,5.6,Antigua Hawksbills,RT Ponting,J Charles,Shakib Al Hasan,0,0,,,,,,caught,RT Ponting
+ball,2,6.1,Antigua Hawksbills,J Charles,MN Samuels,RR Emrit,1,0,,,,,,"",""
+ball,2,6.2,Antigua Hawksbills,MN Samuels,J Charles,RR Emrit,0,0,,,,,,"",""
+ball,2,6.3,Antigua Hawksbills,MN Samuels,J Charles,RR Emrit,4,0,,,,,,"",""
+ball,2,6.4,Antigua Hawksbills,MN Samuels,J Charles,RR Emrit,0,0,,,,,,"",""
+ball,2,6.5,Antigua Hawksbills,MN Samuels,J Charles,RR Emrit,0,0,,,,,,"",""
+ball,2,6.6,Antigua Hawksbills,MN Samuels,J Charles,RR Emrit,1,0,,,,,,"",""
+ball,2,7.1,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,0,0,,,,,,"",""
+ball,2,7.2,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,1,0,,,,,,"",""
+ball,2,7.3,Antigua Hawksbills,J Charles,MN Samuels,KA Pollard,1,0,,,,,,"",""
+ball,2,7.4,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,0,1,1,,,,,"",""
+ball,2,7.5,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,0,0,,,,,,"",""
+ball,2,7.6,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,0,0,,,,,,"",""
+ball,2,7.7,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,1,0,,,,,,"",""
+ball,2,8.1,Antigua Hawksbills,MN Samuels,J Charles,DR Smith,0,0,,,,,,"",""
+ball,2,8.2,Antigua Hawksbills,MN Samuels,J Charles,DR Smith,0,0,,,,,,"",""
+ball,2,8.3,Antigua Hawksbills,MN Samuels,J Charles,DR Smith,0,0,,,,,,"",""
+ball,2,8.4,Antigua Hawksbills,MN Samuels,J Charles,DR Smith,1,0,,,,,,"",""
+ball,2,8.5,Antigua Hawksbills,J Charles,MN Samuels,DR Smith,0,0,,,,,,"",""
+ball,2,8.6,Antigua Hawksbills,J Charles,MN Samuels,DR Smith,0,0,,,,,,"",""
+ball,2,9.1,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,1,0,,,,,,"",""
+ball,2,9.2,Antigua Hawksbills,J Charles,MN Samuels,KA Pollard,4,0,,,,,,"",""
+ball,2,9.3,Antigua Hawksbills,J Charles,MN Samuels,KA Pollard,0,0,,,,,,"",""
+ball,2,9.4,Antigua Hawksbills,J Charles,MN Samuels,KA Pollard,1,0,,,,,,"",""
+ball,2,9.5,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,1,0,,,,,,"",""
+ball,2,9.6,Antigua Hawksbills,J Charles,MN Samuels,KA Pollard,1,0,,,,,,"",""
+ball,2,10.1,Antigua Hawksbills,J Charles,MN Samuels,DR Smith,1,0,,,,,,"",""
+ball,2,10.2,Antigua Hawksbills,MN Samuels,J Charles,DR Smith,0,0,,,,,,"",""
+ball,2,10.3,Antigua Hawksbills,MN Samuels,J Charles,DR Smith,1,0,,,,,,"",""
+ball,2,10.4,Antigua Hawksbills,J Charles,MN Samuels,DR Smith,1,0,,,,,,"",""
+ball,2,10.5,Antigua Hawksbills,MN Samuels,J Charles,DR Smith,1,0,,,,,,"",""
+ball,2,10.6,Antigua Hawksbills,J Charles,MN Samuels,DR Smith,0,0,,,,,,"",""
+ball,2,11.1,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,0,0,,,,,,"",""
+ball,2,11.2,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,1,0,,,,,,"",""
+ball,2,11.3,Antigua Hawksbills,J Charles,MN Samuels,KA Pollard,1,0,,,,,,"",""
+ball,2,11.4,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,0,1,1,,,,,"",""
+ball,2,11.5,Antigua Hawksbills,MN Samuels,J Charles,KA Pollard,1,0,,,,,,"",""
+ball,2,11.6,Antigua Hawksbills,J Charles,MN Samuels,KA Pollard,0,0,,,,,,"",""
+ball,2,11.7,Antigua Hawksbills,J Charles,MN Samuels,KA Pollard,1,0,,,,,,"",""
+ball,2,12.1,Antigua Hawksbills,J Charles,MN Samuels,DR Smith,4,0,,,,,,"",""
+ball,2,12.2,Antigua Hawksbills,J Charles,MN Samuels,DR Smith,0,0,,,,,,bowled,J Charles
+ball,2,12.3,Antigua Hawksbills,BJ Rohrer,MN Samuels,DR Smith,1,0,,,,,,"",""
+ball,2,12.4,Antigua Hawksbills,MN Samuels,BJ Rohrer,DR Smith,0,0,,,,,,"",""
+ball,2,12.5,Antigua Hawksbills,MN Samuels,BJ Rohrer,DR Smith,4,0,,,,,,"",""
+ball,2,12.6,Antigua Hawksbills,MN Samuels,BJ Rohrer,DR Smith,1,0,,,,,,"",""
+ball,2,13.1,Antigua Hawksbills,MN Samuels,BJ Rohrer,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,13.2,Antigua Hawksbills,MN Samuels,BJ Rohrer,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,13.3,Antigua Hawksbills,BJ Rohrer,MN Samuels,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,13.4,Antigua Hawksbills,BJ Rohrer,MN Samuels,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,13.5,Antigua Hawksbills,MN Samuels,BJ Rohrer,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,13.6,Antigua Hawksbills,BJ Rohrer,MN Samuels,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,14.1,Antigua Hawksbills,BJ Rohrer,MN Samuels,DR Smith,1,0,,,,,,"",""
+ball,2,14.2,Antigua Hawksbills,MN Samuels,BJ Rohrer,DR Smith,1,0,,,,,,"",""
+ball,2,14.3,Antigua Hawksbills,BJ Rohrer,MN Samuels,DR Smith,2,0,,,,,,"",""
+ball,2,14.4,Antigua Hawksbills,BJ Rohrer,MN Samuels,DR Smith,4,0,,,,,,"",""
+ball,2,14.5,Antigua Hawksbills,BJ Rohrer,MN Samuels,DR Smith,1,0,,,,,,"",""
+ball,2,14.6,Antigua Hawksbills,MN Samuels,BJ Rohrer,DR Smith,1,0,,,,,,"",""
+ball,2,15.1,Antigua Hawksbills,MN Samuels,BJ Rohrer,AR Nurse,0,0,,,,,,stumped,MN Samuels
+ball,2,15.2,Antigua Hawksbills,JM Kemp,BJ Rohrer,AR Nurse,0,0,,,,,,"",""
+ball,2,15.3,Antigua Hawksbills,JM Kemp,BJ Rohrer,AR Nurse,0,0,,,,,,"",""
+ball,2,15.4,Antigua Hawksbills,JM Kemp,BJ Rohrer,AR Nurse,0,1,1,,,,,"",""
+ball,2,15.5,Antigua Hawksbills,JM Kemp,BJ Rohrer,AR Nurse,1,0,,,,,,"",""
+ball,2,15.6,Antigua Hawksbills,BJ Rohrer,JM Kemp,AR Nurse,0,1,1,,,,,"",""
+ball,2,15.7,Antigua Hawksbills,BJ Rohrer,JM Kemp,AR Nurse,1,0,,,,,,"",""
+ball,2,15.8,Antigua Hawksbills,JM Kemp,BJ Rohrer,AR Nurse,0,0,,,,,,"",""
+ball,2,16.1,Antigua Hawksbills,BJ Rohrer,JM Kemp,Shoaib Malik,1,0,,,,,,"",""
+ball,2,16.2,Antigua Hawksbills,JM Kemp,BJ Rohrer,Shoaib Malik,0,1,,,,1,,"",""
+ball,2,16.3,Antigua Hawksbills,BJ Rohrer,JM Kemp,Shoaib Malik,1,0,,,,,,"",""
+ball,2,16.4,Antigua Hawksbills,JM Kemp,BJ Rohrer,Shoaib Malik,1,0,,,,,,"",""
+ball,2,16.5,Antigua Hawksbills,BJ Rohrer,JM Kemp,Shoaib Malik,0,0,,,,,,"",""
+ball,2,16.6,Antigua Hawksbills,BJ Rohrer,JM Kemp,Shoaib Malik,1,0,,,,,,"",""
+ball,2,17.1,Antigua Hawksbills,BJ Rohrer,JM Kemp,AR Nurse,0,0,,,,,,"",""
+ball,2,17.2,Antigua Hawksbills,BJ Rohrer,JM Kemp,AR Nurse,2,0,,,,,,"",""
+ball,2,17.3,Antigua Hawksbills,BJ Rohrer,JM Kemp,AR Nurse,6,0,,,,,,"",""
+ball,2,17.4,Antigua Hawksbills,BJ Rohrer,JM Kemp,AR Nurse,0,0,,,,,,caught,BJ Rohrer
+ball,2,17.5,Antigua Hawksbills,JM Kemp,KOA Powell,AR Nurse,1,0,,,,,,"",""
+ball,2,17.6,Antigua Hawksbills,KOA Powell,JM Kemp,AR Nurse,0,0,,,,,,"",""
+ball,2,18.1,Antigua Hawksbills,JM Kemp,KOA Powell,RR Emrit,1,0,,,,,,"",""
+ball,2,18.2,Antigua Hawksbills,KOA Powell,JM Kemp,RR Emrit,4,0,,,,,,"",""
+ball,2,18.3,Antigua Hawksbills,KOA Powell,JM Kemp,RR Emrit,4,0,,,,,,"",""
+ball,2,18.4,Antigua Hawksbills,KOA Powell,JM Kemp,RR Emrit,2,0,,,,,,"",""
+ball,2,18.5,Antigua Hawksbills,KOA Powell,JM Kemp,RR Emrit,0,0,,,,,,caught,KOA Powell
+ball,2,18.6,Antigua Hawksbills,JM Kemp,D Mohammed,RR Emrit,2,0,,,,,,"",""
+ball,2,19.1,Antigua Hawksbills,D Mohammed,JM Kemp,AR Nurse,2,0,,,,,,"",""
+ball,2,19.2,Antigua Hawksbills,D Mohammed,JM Kemp,AR Nurse,0,0,,,,,,stumped,D Mohammed
+ball,2,19.3,Antigua Hawksbills,KAJ Roach,JM Kemp,AR Nurse,6,0,,,,,,"",""
+ball,2,19.4,Antigua Hawksbills,KAJ Roach,JM Kemp,AR Nurse,6,0,,,,,,"",""
+ball,2,19.5,Antigua Hawksbills,KAJ Roach,JM Kemp,AR Nurse,0,0,,,,,,caught,KAJ Roach
+ball,2,19.6,Antigua Hawksbills,GC Tonge,JM Kemp,AR Nurse,1,0,,,,,,"",""

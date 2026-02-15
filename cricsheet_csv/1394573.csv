@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Boland
+info,gender,male
+info,season,2023/24
+info,date,2024/03/08
+info,event,CSA T20 Challenge
+info,match_number,3
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Boland
+info,toss_decision,field
+info,player_of_match,RD Rickelton
+info,umpire,Siphelele Gasa
+info,umpire,Stephen Harris
+info,reserve_umpire,RN Hendricks
+info,match_referee,SB Lambson
+info,winner,Lions
+info,winner_runs,44
+info,player,Lions,RR Hendricks
+info,player,Lions,RD Rickelton
+info,player,Lions,T Bavuma
+info,player,Lions,HE van der Dussen
+info,player,Lions,M Van Buuren
+info,player,Lions,PWA Mulder
+info,player,Lions,E Jones
+info,player,Lions,BC Fortuin
+info,player,Lions,K Rabada
+info,player,Lions,KT Maphaka
+info,player,Lions,TL Moreki
+info,player,Boland,PJ Malan
+info,player,Boland,JN Malan
+info,player,Boland,KD Petersen
+info,player,Boland,C Fortuin
+info,player,Boland,M Copeland
+info,player,Boland,C Jonker
+info,player,Boland,FD Adams
+info,player,Boland,GC Viljoen
+info,player,Boland,I Manack
+info,player,Boland,Siyabonga Mahima
+info,player,Boland,A Mnyaka
+info,registry,people,A Mnyaka,bd36db2c
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,C Jonker,a81d6706
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,FD Adams,f277f531
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,I Manack,5ec126fa
+info,registry,people,JN Malan,f76d7466
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,M Copeland,9943b637
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SB Lambson,4146063f
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Siyabonga Mahima,1062bebb
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TL Moreki,36ea17c1
+ball,1,0.1,Lions,RR Hendricks,RD Rickelton,GC Viljoen,1,0,,,,,,"",""
+ball,1,0.2,Lions,RD Rickelton,RR Hendricks,GC Viljoen,0,4,,,,4,,"",""
+ball,1,0.3,Lions,RD Rickelton,RR Hendricks,GC Viljoen,0,1,1,,,,,"",""
+ball,1,0.4,Lions,RD Rickelton,RR Hendricks,GC Viljoen,4,0,,,,,,"",""
+ball,1,0.5,Lions,RD Rickelton,RR Hendricks,GC Viljoen,0,5,5,,,,,"",""
+ball,1,0.6,Lions,RD Rickelton,RR Hendricks,GC Viljoen,0,1,1,,,,,"",""
+ball,1,0.7,Lions,RD Rickelton,RR Hendricks,GC Viljoen,0,0,,,,,,"",""
+ball,1,0.8,Lions,RD Rickelton,RR Hendricks,GC Viljoen,2,0,,,,,,"",""
+ball,1,0.9,Lions,RD Rickelton,RR Hendricks,GC Viljoen,1,0,,,,,,"",""
+ball,1,1.1,Lions,RD Rickelton,RR Hendricks,I Manack,0,0,,,,,,"",""
+ball,1,1.2,Lions,RD Rickelton,RR Hendricks,I Manack,0,0,,,,,,"",""
+ball,1,1.3,Lions,RD Rickelton,RR Hendricks,I Manack,1,0,,,,,,"",""
+ball,1,1.4,Lions,RR Hendricks,RD Rickelton,I Manack,1,0,,,,,,"",""
+ball,1,1.5,Lions,RD Rickelton,RR Hendricks,I Manack,0,0,,,,,,"",""
+ball,1,1.6,Lions,RD Rickelton,RR Hendricks,I Manack,0,0,,,,,,"",""
+ball,1,2.1,Lions,RR Hendricks,RD Rickelton,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,2.2,Lions,RR Hendricks,RD Rickelton,Siyabonga Mahima,4,0,,,,,,"",""
+ball,1,2.3,Lions,RR Hendricks,RD Rickelton,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,2.4,Lions,RR Hendricks,RD Rickelton,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,2.5,Lions,RR Hendricks,RD Rickelton,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,2.6,Lions,RD Rickelton,RR Hendricks,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,3.1,Lions,RD Rickelton,RR Hendricks,FD Adams,6,0,,,,,,"",""
+ball,1,3.2,Lions,RD Rickelton,RR Hendricks,FD Adams,1,0,,,,,,"",""
+ball,1,3.3,Lions,RR Hendricks,RD Rickelton,FD Adams,4,0,,,,,,"",""
+ball,1,3.4,Lions,RR Hendricks,RD Rickelton,FD Adams,4,0,,,,,,"",""
+ball,1,3.5,Lions,RR Hendricks,RD Rickelton,FD Adams,1,0,,,,,,"",""
+ball,1,3.6,Lions,RD Rickelton,RR Hendricks,FD Adams,0,0,,,,,,"",""
+ball,1,4.1,Lions,RR Hendricks,RD Rickelton,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,4.2,Lions,RD Rickelton,RR Hendricks,Siyabonga Mahima,2,0,,,,,,"",""
+ball,1,4.3,Lions,RD Rickelton,RR Hendricks,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,4.4,Lions,RD Rickelton,RR Hendricks,Siyabonga Mahima,4,0,,,,,,"",""
+ball,1,4.5,Lions,RD Rickelton,RR Hendricks,Siyabonga Mahima,6,0,,,,,,"",""
+ball,1,4.6,Lions,RD Rickelton,RR Hendricks,Siyabonga Mahima,4,0,,,,,,"",""
+ball,1,5.1,Lions,RR Hendricks,RD Rickelton,I Manack,1,0,,,,,,"",""
+ball,1,5.2,Lions,RD Rickelton,RR Hendricks,I Manack,0,1,1,,,,,"",""
+ball,1,5.3,Lions,RD Rickelton,RR Hendricks,I Manack,0,0,,,,,,"",""
+ball,1,5.4,Lions,RD Rickelton,RR Hendricks,I Manack,1,0,,,,,,"",""
+ball,1,5.5,Lions,RR Hendricks,RD Rickelton,I Manack,0,0,,,,,,"",""
+ball,1,5.6,Lions,RR Hendricks,RD Rickelton,I Manack,0,0,,,,,,"",""
+ball,1,5.7,Lions,RR Hendricks,RD Rickelton,I Manack,2,0,,,,,,"",""
+ball,1,6.1,Lions,RD Rickelton,RR Hendricks,GC Viljoen,1,0,,,,,,"",""
+ball,1,6.2,Lions,RR Hendricks,RD Rickelton,GC Viljoen,2,0,,,,,,"",""
+ball,1,6.3,Lions,RR Hendricks,RD Rickelton,GC Viljoen,0,1,1,,,,,"",""
+ball,1,6.4,Lions,RR Hendricks,RD Rickelton,GC Viljoen,0,1,1,,,,,"",""
+ball,1,6.5,Lions,RR Hendricks,RD Rickelton,GC Viljoen,6,0,,,,,,"",""
+ball,1,6.6,Lions,RR Hendricks,RD Rickelton,GC Viljoen,0,0,,,,,,caught,RR Hendricks
+ball,1,6.7,Lions,T Bavuma,RD Rickelton,GC Viljoen,0,0,,,,,,"",""
+ball,1,6.8,Lions,T Bavuma,RD Rickelton,GC Viljoen,1,0,,,,,,"",""
+ball,1,7.1,Lions,T Bavuma,RD Rickelton,I Manack,0,1,,,1,,,"",""
+ball,1,7.2,Lions,RD Rickelton,T Bavuma,I Manack,1,0,,,,,,"",""
+ball,1,7.3,Lions,T Bavuma,RD Rickelton,I Manack,4,0,,,,,,"",""
+ball,1,7.4,Lions,T Bavuma,RD Rickelton,I Manack,4,0,,,,,,"",""
+ball,1,7.5,Lions,T Bavuma,RD Rickelton,I Manack,0,0,,,,,,"",""
+ball,1,7.6,Lions,T Bavuma,RD Rickelton,I Manack,1,0,,,,,,"",""
+ball,1,8.1,Lions,T Bavuma,RD Rickelton,A Mnyaka,4,0,,,,,,"",""
+ball,1,8.2,Lions,T Bavuma,RD Rickelton,A Mnyaka,1,0,,,,,,"",""
+ball,1,8.3,Lions,RD Rickelton,T Bavuma,A Mnyaka,1,0,,,,,,"",""
+ball,1,8.4,Lions,T Bavuma,RD Rickelton,A Mnyaka,1,0,,,,,,"",""
+ball,1,8.5,Lions,RD Rickelton,T Bavuma,A Mnyaka,1,0,,,,,,"",""
+ball,1,8.6,Lions,T Bavuma,RD Rickelton,A Mnyaka,1,0,,,,,,"",""
+ball,1,9.1,Lions,T Bavuma,RD Rickelton,M Copeland,6,0,,,,,,"",""
+ball,1,9.2,Lions,T Bavuma,RD Rickelton,M Copeland,1,0,,,,,,"",""
+ball,1,9.3,Lions,RD Rickelton,T Bavuma,M Copeland,6,0,,,,,,"",""
+ball,1,9.4,Lions,RD Rickelton,T Bavuma,M Copeland,1,0,,,,,,"",""
+ball,1,9.5,Lions,T Bavuma,RD Rickelton,M Copeland,1,0,,,,,,"",""
+ball,1,9.6,Lions,RD Rickelton,T Bavuma,M Copeland,1,0,,,,,,"",""
+ball,1,10.1,Lions,RD Rickelton,T Bavuma,Siyabonga Mahima,6,0,,,,,,"",""
+ball,1,10.2,Lions,RD Rickelton,T Bavuma,Siyabonga Mahima,2,0,,,,,,"",""
+ball,1,10.3,Lions,RD Rickelton,T Bavuma,Siyabonga Mahima,6,0,,,,,,"",""
+ball,1,10.4,Lions,RD Rickelton,T Bavuma,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,10.5,Lions,T Bavuma,RD Rickelton,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,10.6,Lions,RD Rickelton,T Bavuma,Siyabonga Mahima,2,0,,,,,,"",""
+ball,1,11.1,Lions,T Bavuma,RD Rickelton,FD Adams,0,1,1,,,,,"",""
+ball,1,11.2,Lions,T Bavuma,RD Rickelton,FD Adams,0,0,,,,,,caught,T Bavuma
+ball,1,11.3,Lions,HE van der Dussen,RD Rickelton,FD Adams,1,0,,,,,,"",""
+ball,1,11.4,Lions,RD Rickelton,HE van der Dussen,FD Adams,1,0,,,,,,"",""
+ball,1,11.5,Lions,HE van der Dussen,RD Rickelton,FD Adams,0,1,1,,,,,"",""
+ball,1,11.6,Lions,HE van der Dussen,RD Rickelton,FD Adams,1,0,,,,,,"",""
+ball,1,11.7,Lions,RD Rickelton,HE van der Dussen,FD Adams,4,0,,,,,,"",""
+ball,1,11.8,Lions,RD Rickelton,HE van der Dussen,FD Adams,0,0,,,,,,"",""
+ball,1,12.1,Lions,HE van der Dussen,RD Rickelton,A Mnyaka,1,0,,,,,,"",""
+ball,1,12.2,Lions,RD Rickelton,HE van der Dussen,A Mnyaka,4,0,,,,,,"",""
+ball,1,12.3,Lions,RD Rickelton,HE van der Dussen,A Mnyaka,4,0,,,,,,"",""
+ball,1,12.4,Lions,RD Rickelton,HE van der Dussen,A Mnyaka,0,0,,,,,,caught,RD Rickelton
+ball,1,12.5,Lions,M Van Buuren,HE van der Dussen,A Mnyaka,1,0,,,,,,"",""
+ball,1,12.6,Lions,HE van der Dussen,M Van Buuren,A Mnyaka,0,0,,,,,,"",""
+ball,1,13.1,Lions,M Van Buuren,HE van der Dussen,Siyabonga Mahima,2,0,,,,,,"",""
+ball,1,13.2,Lions,M Van Buuren,HE van der Dussen,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,13.3,Lions,M Van Buuren,HE van der Dussen,Siyabonga Mahima,0,0,,,,,,"",""
+ball,1,13.4,Lions,M Van Buuren,HE van der Dussen,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,13.5,Lions,HE van der Dussen,M Van Buuren,Siyabonga Mahima,2,0,,,,,,"",""
+ball,1,13.6,Lions,HE van der Dussen,M Van Buuren,Siyabonga Mahima,1,0,,,,,,"",""
+ball,1,14.1,Lions,HE van der Dussen,M Van Buuren,FD Adams,0,0,,,,,,"",""
+ball,1,14.2,Lions,HE van der Dussen,M Van Buuren,FD Adams,1,0,,,,,,"",""
+ball,1,14.3,Lions,M Van Buuren,HE van der Dussen,FD Adams,1,0,,,,,,"",""
+ball,1,14.4,Lions,HE van der Dussen,M Van Buuren,FD Adams,1,0,,,,,,"",""
+ball,1,14.5,Lions,M Van Buuren,HE van der Dussen,FD Adams,0,0,,,,,,"",""
+ball,1,14.6,Lions,M Van Buuren,HE van der Dussen,FD Adams,1,0,,,,,,"",""
+ball,1,15.1,Lions,M Van Buuren,HE van der Dussen,I Manack,0,0,,,,,,"",""
+ball,1,15.2,Lions,M Van Buuren,HE van der Dussen,I Manack,1,0,,,,,,"",""
+ball,1,15.3,Lions,HE van der Dussen,M Van Buuren,I Manack,1,0,,,,,,"",""
+ball,1,15.4,Lions,M Van Buuren,HE van der Dussen,I Manack,0,1,,,,1,,"",""
+ball,1,15.5,Lions,HE van der Dussen,M Van Buuren,I Manack,4,0,,,,,,"",""
+ball,1,15.6,Lions,HE van der Dussen,M Van Buuren,I Manack,1,0,,,,,,"",""
+ball,1,16.1,Lions,HE van der Dussen,M Van Buuren,A Mnyaka,6,0,,,,,,"",""
+ball,1,16.2,Lions,HE van der Dussen,M Van Buuren,A Mnyaka,4,0,,,,,,"",""
+ball,1,16.3,Lions,HE van der Dussen,M Van Buuren,A Mnyaka,4,0,,,,,,"",""
+ball,1,16.4,Lions,HE van der Dussen,M Van Buuren,A Mnyaka,1,0,,,,,,"",""
+ball,1,16.5,Lions,M Van Buuren,HE van der Dussen,A Mnyaka,0,0,,,,,,"",""
+ball,1,16.6,Lions,M Van Buuren,HE van der Dussen,A Mnyaka,4,0,,,,,,"",""
+ball,1,17.1,Lions,HE van der Dussen,M Van Buuren,GC Viljoen,1,0,,,,,,"",""
+ball,1,17.2,Lions,M Van Buuren,HE van der Dussen,GC Viljoen,0,0,,,,,,lbw,M Van Buuren
+ball,1,17.3,Lions,PWA Mulder,HE van der Dussen,GC Viljoen,2,0,,,,,,"",""
+ball,1,17.4,Lions,PWA Mulder,HE van der Dussen,GC Viljoen,4,0,,,,,,"",""
+ball,1,17.5,Lions,PWA Mulder,HE van der Dussen,GC Viljoen,1,0,,,,,,"",""
+ball,1,17.6,Lions,HE van der Dussen,PWA Mulder,GC Viljoen,2,0,,,,,,"",""
+ball,1,18.1,Lions,PWA Mulder,HE van der Dussen,FD Adams,1,0,,,,,,"",""
+ball,1,18.2,Lions,HE van der Dussen,PWA Mulder,FD Adams,6,0,,,,,,"",""
+ball,1,18.3,Lions,HE van der Dussen,PWA Mulder,FD Adams,0,1,1,,,,,"",""
+ball,1,18.4,Lions,HE van der Dussen,PWA Mulder,FD Adams,2,0,,,,,,"",""
+ball,1,18.5,Lions,HE van der Dussen,PWA Mulder,FD Adams,1,0,,,,,,"",""
+ball,1,18.6,Lions,PWA Mulder,HE van der Dussen,FD Adams,6,0,,,,,,"",""
+ball,1,18.7,Lions,PWA Mulder,HE van der Dussen,FD Adams,1,0,,,,,,"",""
+ball,1,19.1,Lions,PWA Mulder,HE van der Dussen,GC Viljoen,1,0,,,,,,"",""
+ball,1,19.2,Lions,HE van der Dussen,PWA Mulder,GC Viljoen,1,0,,,,,,"",""
+ball,1,19.3,Lions,PWA Mulder,HE van der Dussen,GC Viljoen,2,0,,,,,,"",""
+ball,1,19.4,Lions,PWA Mulder,HE van der Dussen,GC Viljoen,0,0,,,,,,"",""
+ball,1,19.5,Lions,PWA Mulder,HE van der Dussen,GC Viljoen,4,0,,,,,,"",""
+ball,1,19.6,Lions,PWA Mulder,HE van der Dussen,GC Viljoen,0,0,,,,,,caught,PWA Mulder
+ball,2,0.1,Boland,PJ Malan,JN Malan,K Rabada,0,0,,,,,,"",""
+ball,2,0.2,Boland,PJ Malan,JN Malan,K Rabada,0,0,,,,,,"",""
+ball,2,0.3,Boland,PJ Malan,JN Malan,K Rabada,4,0,,,,,,"",""
+ball,2,0.4,Boland,PJ Malan,JN Malan,K Rabada,0,0,,,,,,"",""
+ball,2,0.5,Boland,PJ Malan,JN Malan,K Rabada,0,0,,,,,,"",""
+ball,2,0.6,Boland,PJ Malan,JN Malan,K Rabada,6,0,,,,,,"",""
+ball,2,1.1,Boland,JN Malan,PJ Malan,BC Fortuin,0,0,,,,,,"",""
+ball,2,1.2,Boland,JN Malan,PJ Malan,BC Fortuin,1,0,,,,,,"",""
+ball,2,1.3,Boland,PJ Malan,JN Malan,BC Fortuin,0,0,,,,,,"",""
+ball,2,1.4,Boland,PJ Malan,JN Malan,BC Fortuin,4,0,,,,,,"",""
+ball,2,1.5,Boland,PJ Malan,JN Malan,BC Fortuin,0,1,,,,1,,"",""
+ball,2,1.6,Boland,JN Malan,PJ Malan,BC Fortuin,0,0,,,,,,"",""
+ball,2,2.1,Boland,PJ Malan,JN Malan,E Jones,0,0,,,,,,caught,PJ Malan
+ball,2,2.2,Boland,KD Petersen,JN Malan,E Jones,0,1,1,,,,,"",""
+ball,2,2.3,Boland,KD Petersen,JN Malan,E Jones,0,0,,,,,,caught,KD Petersen
+ball,2,2.4,Boland,C Fortuin,JN Malan,E Jones,0,1,1,,,,,"",""
+ball,2,2.5,Boland,C Fortuin,JN Malan,E Jones,4,0,,,,,,"",""
+ball,2,2.6,Boland,C Fortuin,JN Malan,E Jones,0,0,,,,,,"",""
+ball,2,2.7,Boland,C Fortuin,JN Malan,E Jones,1,0,,,,,,"",""
+ball,2,2.8,Boland,JN Malan,C Fortuin,E Jones,1,0,,,,,,"",""
+ball,2,3.1,Boland,JN Malan,C Fortuin,K Rabada,1,0,,,,,,"",""
+ball,2,3.2,Boland,C Fortuin,JN Malan,K Rabada,6,0,,,,,,"",""
+ball,2,3.3,Boland,C Fortuin,JN Malan,K Rabada,0,0,,,,,,"",""
+ball,2,3.4,Boland,C Fortuin,JN Malan,K Rabada,0,0,,,,,,"",""
+ball,2,3.5,Boland,C Fortuin,JN Malan,K Rabada,1,0,,,,,,"",""
+ball,2,3.6,Boland,JN Malan,C Fortuin,K Rabada,0,0,,,,,,"",""
+ball,2,4.1,Boland,C Fortuin,JN Malan,BC Fortuin,4,0,,,,,,"",""
+ball,2,4.2,Boland,C Fortuin,JN Malan,BC Fortuin,0,0,,,,,,lbw,C Fortuin
+ball,2,4.3,Boland,M Copeland,JN Malan,BC Fortuin,0,0,,,,,,"",""
+ball,2,4.4,Boland,M Copeland,JN Malan,BC Fortuin,0,0,,,,,,"",""
+ball,2,4.5,Boland,M Copeland,JN Malan,BC Fortuin,0,0,,,,,,"",""
+ball,2,4.6,Boland,M Copeland,JN Malan,BC Fortuin,0,0,,,,,,"",""
+ball,2,5.1,Boland,JN Malan,M Copeland,KT Maphaka,0,0,,,,,,"",""
+ball,2,5.2,Boland,JN Malan,M Copeland,KT Maphaka,0,0,,,,,,"",""
+ball,2,5.3,Boland,JN Malan,M Copeland,KT Maphaka,0,0,,,,,,"",""
+ball,2,5.4,Boland,JN Malan,M Copeland,KT Maphaka,2,0,,,,,,"",""
+ball,2,5.5,Boland,JN Malan,M Copeland,KT Maphaka,1,0,,,,,,"",""
+ball,2,5.6,Boland,M Copeland,JN Malan,KT Maphaka,0,0,,,,,,"",""
+ball,2,6.1,Boland,JN Malan,M Copeland,TL Moreki,1,0,,,,,,"",""
+ball,2,6.2,Boland,M Copeland,JN Malan,TL Moreki,1,0,,,,,,"",""
+ball,2,6.3,Boland,JN Malan,M Copeland,TL Moreki,4,0,,,,,,"",""
+ball,2,6.4,Boland,JN Malan,M Copeland,TL Moreki,1,0,,,,,,"",""
+ball,2,6.5,Boland,M Copeland,JN Malan,TL Moreki,0,0,,,,,,"",""
+ball,2,6.6,Boland,M Copeland,JN Malan,TL Moreki,4,0,,,,,,"",""
+ball,2,7.1,Boland,JN Malan,M Copeland,KT Maphaka,4,0,,,,,,"",""
+ball,2,7.2,Boland,JN Malan,M Copeland,KT Maphaka,2,0,,,,,,"",""
+ball,2,7.3,Boland,JN Malan,M Copeland,KT Maphaka,2,0,,,,,,"",""
+ball,2,7.4,Boland,JN Malan,M Copeland,KT Maphaka,2,0,,,,,,"",""
+ball,2,7.5,Boland,JN Malan,M Copeland,KT Maphaka,1,0,,,,,,"",""
+ball,2,7.6,Boland,M Copeland,JN Malan,KT Maphaka,1,0,,,,,,"",""
+ball,2,8.1,Boland,M Copeland,JN Malan,TL Moreki,4,0,,,,,,"",""
+ball,2,8.2,Boland,M Copeland,JN Malan,TL Moreki,1,0,,,,,,"",""
+ball,2,8.3,Boland,JN Malan,M Copeland,TL Moreki,6,0,,,,,,"",""
+ball,2,8.4,Boland,JN Malan,M Copeland,TL Moreki,6,0,,,,,,"",""
+ball,2,8.5,Boland,JN Malan,M Copeland,TL Moreki,0,0,,,,,,"",""
+ball,2,8.6,Boland,JN Malan,M Copeland,TL Moreki,4,0,,,,,,"",""
+ball,2,9.1,Boland,M Copeland,JN Malan,E Jones,0,0,,,,,,"",""
+ball,2,9.2,Boland,M Copeland,JN Malan,E Jones,0,0,,,,,,"",""
+ball,2,9.3,Boland,M Copeland,JN Malan,E Jones,0,0,,,,,,"",""
+ball,2,9.4,Boland,M Copeland,JN Malan,E Jones,2,0,,,,,,"",""
+ball,2,9.5,Boland,M Copeland,JN Malan,E Jones,1,0,,,,,,"",""
+ball,2,9.6,Boland,JN Malan,M Copeland,E Jones,1,0,,,,,,"",""
+ball,2,10.1,Boland,JN Malan,M Copeland,BC Fortuin,0,1,,,1,,,"",""
+ball,2,10.2,Boland,M Copeland,JN Malan,BC Fortuin,1,0,,,,,,"",""
+ball,2,10.3,Boland,JN Malan,M Copeland,BC Fortuin,1,0,,,,,,"",""
+ball,2,10.4,Boland,M Copeland,JN Malan,BC Fortuin,4,0,,,,,,"",""
+ball,2,10.5,Boland,M Copeland,JN Malan,BC Fortuin,1,0,,,,,,"",""
+ball,2,10.6,Boland,JN Malan,M Copeland,BC Fortuin,1,0,,,,,,"",""
+ball,2,11.1,Boland,JN Malan,M Copeland,E Jones,2,0,,,,,,"",""
+ball,2,11.2,Boland,JN Malan,M Copeland,E Jones,0,1,,,,1,,"",""
+ball,2,11.3,Boland,M Copeland,JN Malan,E Jones,0,0,,,,,,"",""
+ball,2,11.4,Boland,M Copeland,JN Malan,E Jones,1,0,,,,,,"",""
+ball,2,11.5,Boland,JN Malan,M Copeland,E Jones,4,0,,,,,,"",""
+ball,2,11.6,Boland,JN Malan,M Copeland,E Jones,6,0,,,,,,"",""
+ball,2,12.1,Boland,M Copeland,JN Malan,KT Maphaka,0,0,,,,,,caught,M Copeland
+ball,2,12.2,Boland,C Jonker,JN Malan,KT Maphaka,0,1,,,,1,,"",""
+ball,2,12.3,Boland,JN Malan,C Jonker,KT Maphaka,1,0,,,,,,"",""
+ball,2,12.4,Boland,C Jonker,JN Malan,KT Maphaka,1,0,,,,,,"",""
+ball,2,12.5,Boland,JN Malan,C Jonker,KT Maphaka,0,0,,,,,,"",""
+ball,2,12.6,Boland,JN Malan,C Jonker,KT Maphaka,1,0,,,,,,"",""
+ball,2,13.1,Boland,JN Malan,C Jonker,K Rabada,1,0,,,,,,"",""
+ball,2,13.2,Boland,C Jonker,JN Malan,K Rabada,1,0,,,,,,"",""
+ball,2,13.3,Boland,JN Malan,C Jonker,K Rabada,0,0,,,,,,"",""
+ball,2,13.4,Boland,JN Malan,C Jonker,K Rabada,0,0,,,,,,"",""
+ball,2,13.5,Boland,JN Malan,C Jonker,K Rabada,2,0,,,,,,"",""
+ball,2,13.6,Boland,JN Malan,C Jonker,K Rabada,1,0,,,,,,"",""
+ball,2,14.1,Boland,JN Malan,C Jonker,BC Fortuin,1,0,,,,,,"",""
+ball,2,14.2,Boland,C Jonker,JN Malan,BC Fortuin,0,0,,,,,,"",""
+ball,2,14.3,Boland,C Jonker,JN Malan,BC Fortuin,1,0,,,,,,"",""
+ball,2,14.4,Boland,JN Malan,C Jonker,BC Fortuin,0,0,,,,,,caught,JN Malan
+ball,2,14.5,Boland,FD Adams,C Jonker,BC Fortuin,1,0,,,,,,"",""
+ball,2,14.6,Boland,C Jonker,FD Adams,BC Fortuin,1,0,,,,,,"",""
+ball,2,15.1,Boland,C Jonker,FD Adams,TL Moreki,1,0,,,,,,"",""
+ball,2,15.2,Boland,FD Adams,C Jonker,TL Moreki,6,0,,,,,,"",""
+ball,2,15.3,Boland,FD Adams,C Jonker,TL Moreki,6,0,,,,,,"",""
+ball,2,15.4,Boland,FD Adams,C Jonker,TL Moreki,6,0,,,,,,"",""
+ball,2,15.5,Boland,FD Adams,C Jonker,TL Moreki,4,0,,,,,,"",""
+ball,2,15.6,Boland,FD Adams,C Jonker,TL Moreki,0,1,,,,1,,"",""
+ball,2,16.1,Boland,FD Adams,C Jonker,E Jones,1,0,,,,,,"",""
+ball,2,16.2,Boland,C Jonker,FD Adams,E Jones,1,0,,,,,,"",""
+ball,2,16.3,Boland,FD Adams,C Jonker,E Jones,0,0,,,,,,"",""
+ball,2,16.4,Boland,FD Adams,C Jonker,E Jones,1,0,,,,,,"",""
+ball,2,16.5,Boland,C Jonker,FD Adams,E Jones,6,0,,,,,,"",""
+ball,2,16.6,Boland,C Jonker,FD Adams,E Jones,0,0,,,,,,"",""
+ball,2,17.1,Boland,FD Adams,C Jonker,KT Maphaka,0,0,,,,,,bowled,FD Adams
+ball,2,17.2,Boland,GC Viljoen,C Jonker,KT Maphaka,1,0,,,,,,"",""
+ball,2,17.3,Boland,C Jonker,GC Viljoen,KT Maphaka,1,0,,,,,,"",""
+ball,2,17.4,Boland,GC Viljoen,C Jonker,KT Maphaka,0,0,,,,,,bowled,GC Viljoen
+ball,2,17.5,Boland,I Manack,C Jonker,KT Maphaka,1,0,,,,,,"",""
+ball,2,17.6,Boland,C Jonker,I Manack,KT Maphaka,1,0,,,,,,"",""
+ball,2,18.1,Boland,C Jonker,I Manack,K Rabada,1,0,,,,,,"",""
+ball,2,18.2,Boland,I Manack,C Jonker,K Rabada,4,0,,,,,,"",""
+ball,2,18.3,Boland,I Manack,C Jonker,K Rabada,0,0,,,,,,"",""
+ball,2,18.4,Boland,I Manack,C Jonker,K Rabada,0,1,1,,,,,"",""
+ball,2,18.5,Boland,I Manack,C Jonker,K Rabada,1,0,,,,,,"",""
+ball,2,18.6,Boland,C Jonker,I Manack,K Rabada,0,0,,,,,,"",""
+ball,2,18.7,Boland,C Jonker,I Manack,K Rabada,1,0,,,,,,"",""
+ball,2,19.1,Boland,C Jonker,I Manack,TL Moreki,4,0,,,,,,"",""
+ball,2,19.2,Boland,C Jonker,I Manack,TL Moreki,0,0,,,,,,"",""
+ball,2,19.3,Boland,C Jonker,I Manack,TL Moreki,0,1,1,,,,,"",""
+ball,2,19.4,Boland,C Jonker,I Manack,TL Moreki,1,0,,,,,,"",""
+ball,2,19.5,Boland,I Manack,C Jonker,TL Moreki,0,1,1,,,,,"",""
+ball,2,19.6,Boland,I Manack,C Jonker,TL Moreki,1,0,,,,,,"",""
+ball,2,19.7,Boland,C Jonker,I Manack,TL Moreki,2,0,,,,,,"",""
+ball,2,19.8,Boland,C Jonker,I Manack,TL Moreki,1,0,,,,,,"",""

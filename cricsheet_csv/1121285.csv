@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Dhaka Dynamites
+info,team,Rangpur Riders
+info,gender,male
+info,season,2017/18
+info,date,2017/12/06
+info,event,Bangladesh Premier League
+info,match_number,41
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Dhaka Dynamites
+info,toss_decision,bat
+info,player_of_match,Shakib Al Hasan
+info,umpire,Nadir Shah
+info,umpire,Riazuddin
+info,reserve_umpire,Mahfuzur Rahman
+info,tv_umpire,Moniruzzaman
+info,match_referee,Obaydul Haque
+info,winner,Dhaka Dynamites
+info,winner_runs,43
+info,player,Dhaka Dynamites,SP Narine
+info,player,Dhaka Dynamites,E Lewis
+info,player,Dhaka Dynamites,JL Denly
+info,player,Dhaka Dynamites,Jahurul Islam
+info,player,Dhaka Dynamites,Mosaddek Hossain
+info,player,Dhaka Dynamites,Mehedi Maruf
+info,player,Dhaka Dynamites,Shakib Al Hasan
+info,player,Dhaka Dynamites,KA Pollard
+info,player,Dhaka Dynamites,Mohammad Amir
+info,player,Dhaka Dynamites,Abu Hider
+info,player,Dhaka Dynamites,Mohammad Saddam
+info,player,Rangpur Riders,J Charles
+info,player,Rangpur Riders,A Lyth
+info,player,Rangpur Riders,BB McCullum
+info,player,Rangpur Riders,Shahriar Nafees
+info,player,Rangpur Riders,Mohammad Mithun
+info,player,Rangpur Riders,RS Bopara
+info,player,Rangpur Riders,Nahidul Islam
+info,player,Rangpur Riders,Abdur Razzak
+info,player,Rangpur Riders,S Badree
+info,player,Rangpur Riders,Ebadat Hossain
+info,player,Rangpur Riders,Rubel Hossain
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,Abdur Razzak,888e32bf
+info,registry,people,Abu Hider,31803fac
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,J Charles,09a9d073
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,Jahurul Islam,6752c57b
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mehedi Maruf,3361993b
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammad Saddam,7bd03d63
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Nadir Shah,3515389d
+info,registry,people,Nahidul Islam,8c7b16c8
+info,registry,people,Obaydul Haque,26cd0ae9
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,Riazuddin,08f088e3
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,S Badree,76388dc8
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shahriar Nafees,b9c225c2
+info,registry,people,Shakib Al Hasan,7dc35884
+ball,1,0.1,Dhaka Dynamites,SP Narine,E Lewis,S Badree,0,0,,,,,,"",""
+ball,1,0.2,Dhaka Dynamites,SP Narine,E Lewis,S Badree,1,0,,,,,,"",""
+ball,1,0.3,Dhaka Dynamites,E Lewis,SP Narine,S Badree,1,0,,,,,,"",""
+ball,1,0.4,Dhaka Dynamites,SP Narine,E Lewis,S Badree,2,0,,,,,,"",""
+ball,1,0.5,Dhaka Dynamites,SP Narine,E Lewis,S Badree,0,0,,,,,,"",""
+ball,1,0.6,Dhaka Dynamites,SP Narine,E Lewis,S Badree,1,0,,,,,,"",""
+ball,1,1.1,Dhaka Dynamites,SP Narine,E Lewis,Rubel Hossain,0,0,,,,,,caught,SP Narine
+ball,1,1.2,Dhaka Dynamites,JL Denly,E Lewis,Rubel Hossain,2,0,,,,,,"",""
+ball,1,1.3,Dhaka Dynamites,JL Denly,E Lewis,Rubel Hossain,0,0,,,,,,"",""
+ball,1,1.4,Dhaka Dynamites,JL Denly,E Lewis,Rubel Hossain,0,0,,,,,,"",""
+ball,1,1.5,Dhaka Dynamites,JL Denly,E Lewis,Rubel Hossain,0,0,,,,,,"",""
+ball,1,1.6,Dhaka Dynamites,JL Denly,E Lewis,Rubel Hossain,0,0,,,,,,"",""
+ball,1,2.1,Dhaka Dynamites,E Lewis,JL Denly,S Badree,0,0,,,,,,"",""
+ball,1,2.2,Dhaka Dynamites,E Lewis,JL Denly,S Badree,0,0,,,,,,"",""
+ball,1,2.3,Dhaka Dynamites,E Lewis,JL Denly,S Badree,1,0,,,,,,"",""
+ball,1,2.4,Dhaka Dynamites,JL Denly,E Lewis,S Badree,0,0,,,,,,"",""
+ball,1,2.5,Dhaka Dynamites,JL Denly,E Lewis,S Badree,0,0,,,,,,"",""
+ball,1,2.6,Dhaka Dynamites,JL Denly,E Lewis,S Badree,0,0,,,,,,"",""
+ball,1,3.1,Dhaka Dynamites,E Lewis,JL Denly,Nahidul Islam,0,1,,,,1,,"",""
+ball,1,3.2,Dhaka Dynamites,JL Denly,E Lewis,Nahidul Islam,0,0,,,,,,"",""
+ball,1,3.3,Dhaka Dynamites,JL Denly,E Lewis,Nahidul Islam,2,0,,,,,,"",""
+ball,1,3.4,Dhaka Dynamites,JL Denly,E Lewis,Nahidul Islam,1,0,,,,,,"",""
+ball,1,3.5,Dhaka Dynamites,E Lewis,JL Denly,Nahidul Islam,0,0,,,,,,"",""
+ball,1,3.6,Dhaka Dynamites,E Lewis,JL Denly,Nahidul Islam,0,0,,,,,,"",""
+ball,1,4.1,Dhaka Dynamites,JL Denly,E Lewis,S Badree,4,0,,,,,,"",""
+ball,1,4.2,Dhaka Dynamites,JL Denly,E Lewis,S Badree,0,0,,,,,,"",""
+ball,1,4.3,Dhaka Dynamites,JL Denly,E Lewis,S Badree,0,0,,,,,,"",""
+ball,1,4.4,Dhaka Dynamites,JL Denly,E Lewis,S Badree,0,0,,,,,,caught,JL Denly
+ball,1,4.5,Dhaka Dynamites,Jahurul Islam,E Lewis,S Badree,1,0,,,,,,"",""
+ball,1,4.6,Dhaka Dynamites,E Lewis,Jahurul Islam,S Badree,4,0,,,,,,"",""
+ball,1,5.1,Dhaka Dynamites,Jahurul Islam,E Lewis,Rubel Hossain,0,0,,,,,,"",""
+ball,1,5.2,Dhaka Dynamites,Jahurul Islam,E Lewis,Rubel Hossain,0,0,,,,,,"",""
+ball,1,5.3,Dhaka Dynamites,Jahurul Islam,E Lewis,Rubel Hossain,1,1,,1,,,,"",""
+ball,1,5.4,Dhaka Dynamites,E Lewis,Jahurul Islam,Rubel Hossain,0,0,,,,,,"",""
+ball,1,5.5,Dhaka Dynamites,E Lewis,Jahurul Islam,Rubel Hossain,4,0,,,,,,"",""
+ball,1,5.6,Dhaka Dynamites,E Lewis,Jahurul Islam,Rubel Hossain,1,0,,,,,,"",""
+ball,1,5.7,Dhaka Dynamites,Jahurul Islam,E Lewis,Rubel Hossain,1,0,,,,,,"",""
+ball,1,6.1,Dhaka Dynamites,Jahurul Islam,E Lewis,Nahidul Islam,0,0,,,,,,"",""
+ball,1,6.2,Dhaka Dynamites,Jahurul Islam,E Lewis,Nahidul Islam,1,0,,,,,,"",""
+ball,1,6.3,Dhaka Dynamites,E Lewis,Jahurul Islam,Nahidul Islam,0,1,,,,1,,"",""
+ball,1,6.4,Dhaka Dynamites,Jahurul Islam,E Lewis,Nahidul Islam,1,0,,,,,,"",""
+ball,1,6.5,Dhaka Dynamites,E Lewis,Jahurul Islam,Nahidul Islam,1,0,,,,,,"",""
+ball,1,6.6,Dhaka Dynamites,Jahurul Islam,E Lewis,Nahidul Islam,0,0,,,,,,"",""
+ball,1,7.1,Dhaka Dynamites,E Lewis,Jahurul Islam,Ebadat Hossain,0,0,,,,,,"",""
+ball,1,7.2,Dhaka Dynamites,E Lewis,Jahurul Islam,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,7.3,Dhaka Dynamites,Jahurul Islam,E Lewis,Ebadat Hossain,0,0,,,,,,caught,Jahurul Islam
+ball,1,7.4,Dhaka Dynamites,Mosaddek Hossain,E Lewis,Ebadat Hossain,0,0,,,,,,"",""
+ball,1,7.5,Dhaka Dynamites,Mosaddek Hossain,E Lewis,Ebadat Hossain,0,0,,,,,,"",""
+ball,1,7.6,Dhaka Dynamites,Mosaddek Hossain,E Lewis,Ebadat Hossain,0,1,,1,,,,"",""
+ball,1,7.7,Dhaka Dynamites,Mosaddek Hossain,E Lewis,Ebadat Hossain,6,0,,,,,,"",""
+ball,1,8.1,Dhaka Dynamites,E Lewis,Mosaddek Hossain,Abdur Razzak,1,0,,,,,,"",""
+ball,1,8.2,Dhaka Dynamites,Mosaddek Hossain,E Lewis,Abdur Razzak,4,0,,,,,,"",""
+ball,1,8.3,Dhaka Dynamites,Mosaddek Hossain,E Lewis,Abdur Razzak,0,0,,,,,,"",""
+ball,1,8.4,Dhaka Dynamites,Mosaddek Hossain,E Lewis,Abdur Razzak,0,0,,,,,,caught,Mosaddek Hossain
+ball,1,8.5,Dhaka Dynamites,Mehedi Maruf,E Lewis,Abdur Razzak,1,0,,,,,,"",""
+ball,1,8.6,Dhaka Dynamites,E Lewis,Mehedi Maruf,Abdur Razzak,0,0,,,,,,"",""
+ball,1,9.1,Dhaka Dynamites,Mehedi Maruf,E Lewis,Nahidul Islam,1,0,,,,,,"",""
+ball,1,9.2,Dhaka Dynamites,E Lewis,Mehedi Maruf,Nahidul Islam,0,0,,,,,,hit wicket,E Lewis
+ball,1,9.3,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Nahidul Islam,0,0,,,,,,"",""
+ball,1,9.4,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Nahidul Islam,0,0,,,,,,"",""
+ball,1,9.5,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Nahidul Islam,0,0,,,,,,"",""
+ball,1,9.6,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Nahidul Islam,1,0,,,,,,"",""
+ball,1,10.1,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,S Badree,1,0,,,,,,"",""
+ball,1,10.2,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,S Badree,0,0,,,,,,"",""
+ball,1,10.3,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,S Badree,1,0,,,,,,"",""
+ball,1,10.4,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,S Badree,1,0,,,,,,"",""
+ball,1,10.5,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,S Badree,0,0,,,,,,"",""
+ball,1,10.6,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,S Badree,0,0,,,,,,"",""
+ball,1,11.1,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Nahidul Islam,1,0,,,,,,"",""
+ball,1,11.2,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Nahidul Islam,1,0,,,,,,"",""
+ball,1,11.3,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Nahidul Islam,0,0,,,,,,"",""
+ball,1,11.4,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Nahidul Islam,0,0,,,,,,"",""
+ball,1,11.5,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Nahidul Islam,1,0,,,,,,"",""
+ball,1,11.6,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Nahidul Islam,1,0,,,,,,"",""
+ball,1,12.1,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Abdur Razzak,1,0,,,,,,"",""
+ball,1,12.2,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Abdur Razzak,1,0,,,,,,"",""
+ball,1,12.3,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Abdur Razzak,0,0,,,,,,"",""
+ball,1,12.4,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Abdur Razzak,1,0,,,,,,"",""
+ball,1,12.5,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Abdur Razzak,0,0,,,,,,"",""
+ball,1,12.6,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Abdur Razzak,2,0,,,,,,"",""
+ball,1,13.1,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,RS Bopara,2,0,,,,,,"",""
+ball,1,13.2,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,RS Bopara,6,0,,,,,,"",""
+ball,1,13.3,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,RS Bopara,1,0,,,,,,"",""
+ball,1,13.4,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,RS Bopara,1,0,,,,,,"",""
+ball,1,13.5,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,RS Bopara,1,0,,,,,,"",""
+ball,1,13.6,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,RS Bopara,1,0,,,,,,"",""
+ball,1,14.1,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Abdur Razzak,1,0,,,,,,"",""
+ball,1,14.2,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Abdur Razzak,1,0,,,,,,"",""
+ball,1,14.3,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Abdur Razzak,6,0,,,,,,"",""
+ball,1,14.4,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Abdur Razzak,2,0,,,,,,"",""
+ball,1,14.5,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Abdur Razzak,1,0,,,,,,"",""
+ball,1,14.6,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Abdur Razzak,1,0,,,,,,"",""
+ball,1,15.1,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Ebadat Hossain,4,0,,,,,,"",""
+ball,1,15.2,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Ebadat Hossain,0,1,1,,,,,"",""
+ball,1,15.3,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,15.4,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,15.5,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,15.6,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,15.7,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Ebadat Hossain,4,0,,,,,,"",""
+ball,1,16.1,Dhaka Dynamites,Shakib Al Hasan,Mehedi Maruf,Rubel Hossain,1,0,,,,,,"",""
+ball,1,16.2,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Rubel Hossain,4,0,,,,,,"",""
+ball,1,16.3,Dhaka Dynamites,Mehedi Maruf,Shakib Al Hasan,Rubel Hossain,0,0,,,,,,caught,Mehedi Maruf
+ball,1,16.4,Dhaka Dynamites,Shakib Al Hasan,KA Pollard,Rubel Hossain,1,0,,,,,,"",""
+ball,1,16.5,Dhaka Dynamites,KA Pollard,Shakib Al Hasan,Rubel Hossain,0,0,,,,,,"",""
+ball,1,16.6,Dhaka Dynamites,KA Pollard,Shakib Al Hasan,Rubel Hossain,1,0,,,,,,"",""
+ball,1,17.1,Dhaka Dynamites,KA Pollard,Shakib Al Hasan,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,17.2,Dhaka Dynamites,Shakib Al Hasan,KA Pollard,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,17.3,Dhaka Dynamites,KA Pollard,Shakib Al Hasan,Ebadat Hossain,4,0,,,,,,"",""
+ball,1,17.4,Dhaka Dynamites,KA Pollard,Shakib Al Hasan,Ebadat Hossain,0,0,,,,,,caught,KA Pollard
+ball,1,17.5,Dhaka Dynamites,Mohammad Amir,Shakib Al Hasan,Ebadat Hossain,0,0,,,,,,"",""
+ball,1,17.6,Dhaka Dynamites,Mohammad Amir,Shakib Al Hasan,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,18.1,Dhaka Dynamites,Mohammad Amir,Shakib Al Hasan,Rubel Hossain,1,0,,,,,,"",""
+ball,1,18.2,Dhaka Dynamites,Shakib Al Hasan,Mohammad Amir,Rubel Hossain,6,0,,,,,,"",""
+ball,1,18.3,Dhaka Dynamites,Shakib Al Hasan,Mohammad Amir,Rubel Hossain,4,0,,,,,,"",""
+ball,1,18.4,Dhaka Dynamites,Shakib Al Hasan,Mohammad Amir,Rubel Hossain,2,0,,,,,,"",""
+ball,1,18.5,Dhaka Dynamites,Shakib Al Hasan,Mohammad Amir,Rubel Hossain,0,0,,,,,,"",""
+ball,1,18.6,Dhaka Dynamites,Shakib Al Hasan,Mohammad Amir,Rubel Hossain,2,0,,,,,,"",""
+ball,1,19.1,Dhaka Dynamites,Mohammad Amir,Shakib Al Hasan,Ebadat Hossain,0,1,,,1,,,"",""
+ball,1,19.2,Dhaka Dynamites,Shakib Al Hasan,Mohammad Amir,Ebadat Hossain,4,0,,,,,,"",""
+ball,1,19.3,Dhaka Dynamites,Shakib Al Hasan,Mohammad Amir,Ebadat Hossain,2,0,,,,,,"",""
+ball,1,19.4,Dhaka Dynamites,Shakib Al Hasan,Mohammad Amir,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,19.5,Dhaka Dynamites,Mohammad Amir,Shakib Al Hasan,Ebadat Hossain,1,0,,,,,,"",""
+ball,1,19.6,Dhaka Dynamites,Shakib Al Hasan,Mohammad Amir,Ebadat Hossain,1,0,,,,,,"",""
+ball,2,0.1,Rangpur Riders,J Charles,A Lyth,Mosaddek Hossain,0,0,,,,,,"",""
+ball,2,0.2,Rangpur Riders,J Charles,A Lyth,Mosaddek Hossain,0,0,,,,,,"",""
+ball,2,0.3,Rangpur Riders,J Charles,A Lyth,Mosaddek Hossain,0,0,,,,,,"",""
+ball,2,0.4,Rangpur Riders,J Charles,A Lyth,Mosaddek Hossain,0,0,,,,,,"",""
+ball,2,0.5,Rangpur Riders,J Charles,A Lyth,Mosaddek Hossain,1,0,,,,,,"",""
+ball,2,0.6,Rangpur Riders,A Lyth,J Charles,Mosaddek Hossain,2,0,,,,,,"",""
+ball,2,1.1,Rangpur Riders,J Charles,A Lyth,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,1.2,Rangpur Riders,J Charles,A Lyth,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,1.3,Rangpur Riders,A Lyth,J Charles,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,1.4,Rangpur Riders,J Charles,A Lyth,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,1.5,Rangpur Riders,A Lyth,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,1.6,Rangpur Riders,A Lyth,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,2.1,Rangpur Riders,J Charles,A Lyth,Mosaddek Hossain,1,0,,,,,,"",""
+ball,2,2.2,Rangpur Riders,A Lyth,J Charles,Mosaddek Hossain,0,0,,,,,,caught,A Lyth
+ball,2,2.3,Rangpur Riders,J Charles,BB McCullum,Mosaddek Hossain,0,0,,,,,,"",""
+ball,2,2.4,Rangpur Riders,J Charles,BB McCullum,Mosaddek Hossain,1,0,,,,,,"",""
+ball,2,2.5,Rangpur Riders,BB McCullum,J Charles,Mosaddek Hossain,0,0,,,,,,"",""
+ball,2,2.6,Rangpur Riders,BB McCullum,J Charles,Mosaddek Hossain,1,0,,,,,,"",""
+ball,2,3.1,Rangpur Riders,BB McCullum,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.2,Rangpur Riders,BB McCullum,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.3,Rangpur Riders,BB McCullum,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.4,Rangpur Riders,BB McCullum,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,3.5,Rangpur Riders,BB McCullum,J Charles,Shakib Al Hasan,0,0,,,,,,bowled,BB McCullum
+ball,2,3.6,Rangpur Riders,Shahriar Nafees,J Charles,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,4.1,Rangpur Riders,J Charles,Shahriar Nafees,Mosaddek Hossain,1,0,,,,,,"",""
+ball,2,4.2,Rangpur Riders,Shahriar Nafees,J Charles,Mosaddek Hossain,4,0,,,,,,"",""
+ball,2,4.3,Rangpur Riders,Shahriar Nafees,J Charles,Mosaddek Hossain,0,0,,,,,,"",""
+ball,2,4.4,Rangpur Riders,Shahriar Nafees,J Charles,Mosaddek Hossain,0,0,,,,,,"",""
+ball,2,4.5,Rangpur Riders,Shahriar Nafees,J Charles,Mosaddek Hossain,1,0,,,,,,"",""
+ball,2,4.6,Rangpur Riders,J Charles,Shahriar Nafees,Mosaddek Hossain,1,0,,,,,,"",""
+ball,2,5.1,Rangpur Riders,J Charles,Shahriar Nafees,SP Narine,1,0,,,,,,"",""
+ball,2,5.2,Rangpur Riders,Shahriar Nafees,J Charles,SP Narine,1,0,,,,,,"",""
+ball,2,5.3,Rangpur Riders,J Charles,Shahriar Nafees,SP Narine,6,0,,,,,,"",""
+ball,2,5.4,Rangpur Riders,J Charles,Shahriar Nafees,SP Narine,0,0,,,,,,"",""
+ball,2,5.5,Rangpur Riders,J Charles,Shahriar Nafees,SP Narine,0,0,,,,,,"",""
+ball,2,5.6,Rangpur Riders,J Charles,Shahriar Nafees,SP Narine,1,0,,,,,,"",""
+ball,2,6.1,Rangpur Riders,J Charles,Shahriar Nafees,Abu Hider,0,0,,,,,,"",""
+ball,2,6.2,Rangpur Riders,J Charles,Shahriar Nafees,Abu Hider,1,0,,,,,,"",""
+ball,2,6.3,Rangpur Riders,Shahriar Nafees,J Charles,Abu Hider,0,0,,,,,,"",""
+ball,2,6.4,Rangpur Riders,Shahriar Nafees,J Charles,Abu Hider,1,0,,,,,,"",""
+ball,2,6.5,Rangpur Riders,J Charles,Shahriar Nafees,Abu Hider,1,0,,,,,,"",""
+ball,2,6.6,Rangpur Riders,Shahriar Nafees,J Charles,Abu Hider,0,0,,,,,,caught,Shahriar Nafees
+ball,2,7.1,Rangpur Riders,J Charles,Mohammad Mithun,Mohammad Amir,0,0,,,,,,"",""
+ball,2,7.2,Rangpur Riders,J Charles,Mohammad Mithun,Mohammad Amir,0,0,,,,,,"",""
+ball,2,7.3,Rangpur Riders,J Charles,Mohammad Mithun,Mohammad Amir,1,0,,,,,,"",""
+ball,2,7.4,Rangpur Riders,Mohammad Mithun,J Charles,Mohammad Amir,1,0,,,,,,"",""
+ball,2,7.5,Rangpur Riders,J Charles,Mohammad Mithun,Mohammad Amir,0,0,,,,,,"",""
+ball,2,7.6,Rangpur Riders,J Charles,Mohammad Mithun,Mohammad Amir,1,0,,,,,,"",""
+ball,2,8.1,Rangpur Riders,J Charles,Mohammad Mithun,Abu Hider,6,0,,,,,,"",""
+ball,2,8.2,Rangpur Riders,J Charles,Mohammad Mithun,Abu Hider,1,0,,,,,,"",""
+ball,2,8.3,Rangpur Riders,Mohammad Mithun,J Charles,Abu Hider,1,0,,,,,,"",""
+ball,2,8.4,Rangpur Riders,J Charles,Mohammad Mithun,Abu Hider,0,0,,,,,,"",""
+ball,2,8.5,Rangpur Riders,J Charles,Mohammad Mithun,Abu Hider,0,0,,,,,,lbw,J Charles
+ball,2,8.6,Rangpur Riders,RS Bopara,Mohammad Mithun,Abu Hider,0,0,,,,,,"",""
+ball,2,9.1,Rangpur Riders,Mohammad Mithun,RS Bopara,Shakib Al Hasan,0,0,,,,,,lbw,Mohammad Mithun
+ball,2,9.2,Rangpur Riders,Nahidul Islam,RS Bopara,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,9.3,Rangpur Riders,Nahidul Islam,RS Bopara,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,9.4,Rangpur Riders,Nahidul Islam,RS Bopara,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,9.5,Rangpur Riders,RS Bopara,Nahidul Islam,Shakib Al Hasan,0,1,1,,,,,"",""
+ball,2,9.6,Rangpur Riders,RS Bopara,Nahidul Islam,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,9.7,Rangpur Riders,Nahidul Islam,RS Bopara,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,10.1,Rangpur Riders,RS Bopara,Nahidul Islam,Abu Hider,1,0,,,,,,"",""
+ball,2,10.2,Rangpur Riders,Nahidul Islam,RS Bopara,Abu Hider,0,0,,,,,,"",""
+ball,2,10.3,Rangpur Riders,Nahidul Islam,RS Bopara,Abu Hider,1,0,,,,,,"",""
+ball,2,10.4,Rangpur Riders,RS Bopara,Nahidul Islam,Abu Hider,1,0,,,,,,"",""
+ball,2,10.5,Rangpur Riders,Nahidul Islam,RS Bopara,Abu Hider,0,0,,,,,,"",""
+ball,2,10.6,Rangpur Riders,Nahidul Islam,RS Bopara,Abu Hider,4,0,,,,,,"",""
+ball,2,11.1,Rangpur Riders,RS Bopara,Nahidul Islam,Mohammad Amir,1,0,,,,,,"",""
+ball,2,11.2,Rangpur Riders,Nahidul Islam,RS Bopara,Mohammad Amir,1,0,,,,,,"",""
+ball,2,11.3,Rangpur Riders,RS Bopara,Nahidul Islam,Mohammad Amir,1,0,,,,,,"",""
+ball,2,11.4,Rangpur Riders,Nahidul Islam,RS Bopara,Mohammad Amir,1,0,,,,,,"",""
+ball,2,11.5,Rangpur Riders,RS Bopara,Nahidul Islam,Mohammad Amir,0,1,,,,1,,"",""
+ball,2,11.6,Rangpur Riders,Nahidul Islam,RS Bopara,Mohammad Amir,1,0,,,,,,"",""
+ball,2,12.1,Rangpur Riders,Nahidul Islam,RS Bopara,Abu Hider,0,0,,,,,,"",""
+ball,2,12.2,Rangpur Riders,Nahidul Islam,RS Bopara,Abu Hider,1,0,,,,,,"",""
+ball,2,12.3,Rangpur Riders,RS Bopara,Nahidul Islam,Abu Hider,1,0,,,,,,"",""
+ball,2,12.4,Rangpur Riders,Nahidul Islam,RS Bopara,Abu Hider,2,0,,,,,,"",""
+ball,2,12.5,Rangpur Riders,Nahidul Islam,RS Bopara,Abu Hider,0,4,,,,4,,"",""
+ball,2,12.6,Rangpur Riders,Nahidul Islam,RS Bopara,Abu Hider,1,0,,,,,,"",""
+ball,2,13.1,Rangpur Riders,Nahidul Islam,RS Bopara,SP Narine,0,0,,,,,,"",""
+ball,2,13.2,Rangpur Riders,Nahidul Islam,RS Bopara,SP Narine,0,0,,,,,,"",""
+ball,2,13.3,Rangpur Riders,Nahidul Islam,RS Bopara,SP Narine,0,0,,,,,,bowled,Nahidul Islam
+ball,2,13.4,Rangpur Riders,Abdur Razzak,RS Bopara,SP Narine,0,0,,,,,,"",""
+ball,2,13.5,Rangpur Riders,Abdur Razzak,RS Bopara,SP Narine,0,0,,,,,,"",""
+ball,2,13.6,Rangpur Riders,Abdur Razzak,RS Bopara,SP Narine,0,0,,,,,,"",""
+ball,2,14.1,Rangpur Riders,RS Bopara,Abdur Razzak,Mohammad Saddam,1,0,,,,,,"",""
+ball,2,14.2,Rangpur Riders,Abdur Razzak,RS Bopara,Mohammad Saddam,0,0,,,,,,"",""
+ball,2,14.3,Rangpur Riders,Abdur Razzak,RS Bopara,Mohammad Saddam,1,0,,,,,,"",""
+ball,2,14.4,Rangpur Riders,RS Bopara,Abdur Razzak,Mohammad Saddam,0,1,1,,,,,"",""
+ball,2,14.5,Rangpur Riders,RS Bopara,Abdur Razzak,Mohammad Saddam,1,0,,,,,,"",""
+ball,2,14.6,Rangpur Riders,Abdur Razzak,RS Bopara,Mohammad Saddam,1,0,,,,,,"",""
+ball,2,14.7,Rangpur Riders,RS Bopara,Abdur Razzak,Mohammad Saddam,1,0,,,,,,"",""
+ball,2,15.1,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,0,0,,,,,,"",""
+ball,2,15.2,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,4,0,,,,,,"",""
+ball,2,15.3,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,0,0,,,,,,"",""
+ball,2,15.4,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,0,0,,,,,,"",""
+ball,2,15.5,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,0,0,,,,,,"",""
+ball,2,15.6,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,1,0,,,,,,"",""
+ball,2,16.1,Rangpur Riders,RS Bopara,Abdur Razzak,Mohammad Amir,1,0,,,,,,"",""
+ball,2,16.2,Rangpur Riders,Abdur Razzak,RS Bopara,Mohammad Amir,1,0,,,,,,"",""
+ball,2,16.3,Rangpur Riders,RS Bopara,Abdur Razzak,Mohammad Amir,1,0,,,,,,"",""
+ball,2,16.4,Rangpur Riders,Abdur Razzak,RS Bopara,Mohammad Amir,0,1,,,,1,,"",""
+ball,2,16.5,Rangpur Riders,RS Bopara,Abdur Razzak,Mohammad Amir,1,0,,,,,,"",""
+ball,2,16.6,Rangpur Riders,Abdur Razzak,RS Bopara,Mohammad Amir,1,0,,,,,,"",""
+ball,2,17.1,Rangpur Riders,Abdur Razzak,RS Bopara,SP Narine,0,0,,,,,,"",""
+ball,2,17.2,Rangpur Riders,Abdur Razzak,RS Bopara,SP Narine,1,0,,,,,,"",""
+ball,2,17.3,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,2,0,,,,,,"",""
+ball,2,17.4,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,0,0,,,,,,"",""
+ball,2,17.5,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,0,0,,,,,,"",""
+ball,2,17.6,Rangpur Riders,RS Bopara,Abdur Razzak,SP Narine,1,0,,,,,,"",""
+ball,2,18.1,Rangpur Riders,RS Bopara,Abdur Razzak,Mohammad Amir,1,0,,,,,,"",""
+ball,2,18.2,Rangpur Riders,Abdur Razzak,RS Bopara,Mohammad Amir,0,0,,,,,,"",""
+ball,2,18.3,Rangpur Riders,Abdur Razzak,RS Bopara,Mohammad Amir,0,0,,,,,,bowled,Abdur Razzak
+ball,2,18.4,Rangpur Riders,S Badree,RS Bopara,Mohammad Amir,0,0,,,,,,"",""
+ball,2,18.5,Rangpur Riders,S Badree,RS Bopara,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,18.6,Rangpur Riders,S Badree,RS Bopara,Mohammad Amir,0,0,,,,,,"",""
+ball,2,18.7,Rangpur Riders,S Badree,RS Bopara,Mohammad Amir,0,0,,,,,,"",""
+ball,2,19.1,Rangpur Riders,RS Bopara,S Badree,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,19.2,Rangpur Riders,RS Bopara,S Badree,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,19.3,Rangpur Riders,RS Bopara,S Badree,Shakib Al Hasan,6,0,,,,,,"",""
+ball,2,19.4,Rangpur Riders,RS Bopara,S Badree,Shakib Al Hasan,0,0,,,,,,"",""
+ball,2,19.5,Rangpur Riders,RS Bopara,S Badree,Shakib Al Hasan,1,0,,,,,,"",""
+ball,2,19.6,Rangpur Riders,S Badree,RS Bopara,Shakib Al Hasan,0,0,,,,,,"",""

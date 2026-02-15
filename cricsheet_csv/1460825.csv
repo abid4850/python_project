@@ -1,0 +1,288 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Nottinghamshire
+info,gender,male
+info,season,2025
+info,date,2025/07/04
+info,event,Vitality Blast Men
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Nottinghamshire
+info,toss_decision,field
+info,umpire,MA Gough
+info,umpire,SJ O'Shaughnessy
+info,match_referee,WR Smith
+info,winner,Durham
+info,winner_runs,49
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,CN Ackermann
+info,player,Durham,JDS Neesham
+info,player,Durham,BS McKinney
+info,player,Durham,WMH Rhodes
+info,player,Durham,OG Robinson
+info,player,Durham,Kasey Aldridge
+info,player,Durham,ZGF Foulkes
+info,player,Durham,NA Sowter
+info,player,Durham,CF Parkinson
+info,player,Nottinghamshire,FW McCann
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,DR Sams
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,Farhan Ahmed
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BS McKinney,1db6e336
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,FW McCann,353de846
+info,registry,people,Farhan Ahmed,26f1d66c
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,Kasey Aldridge,31b01074
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MA Gough,76752ac8
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,OP Stone,3f659464
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,WMH Rhodes,f54dbda7
+info,registry,people,WR Smith,ad962377
+info,registry,people,ZGF Foulkes,30f92334
+ball,1,0.1,Durham,G Clark,AZ Lees,OP Stone,4,0,,,,,,"",""
+ball,1,0.2,Durham,G Clark,AZ Lees,OP Stone,0,0,,,,,,"",""
+ball,1,0.3,Durham,G Clark,AZ Lees,OP Stone,1,0,,,,,,"",""
+ball,1,0.4,Durham,AZ Lees,G Clark,OP Stone,4,0,,,,,,"",""
+ball,1,0.5,Durham,AZ Lees,G Clark,OP Stone,0,1,1,,,,,"",""
+ball,1,0.6,Durham,AZ Lees,G Clark,OP Stone,1,0,,,,,,"",""
+ball,1,0.7,Durham,G Clark,AZ Lees,OP Stone,0,0,,,,,,"",""
+ball,1,1.1,Durham,AZ Lees,G Clark,DR Sams,0,1,1,,,,,"",""
+ball,1,1.2,Durham,AZ Lees,G Clark,DR Sams,1,0,,,,,,"",""
+ball,1,1.3,Durham,G Clark,AZ Lees,DR Sams,0,0,,,,,,"",""
+ball,1,1.4,Durham,G Clark,AZ Lees,DR Sams,0,0,,,,,,"",""
+ball,1,1.5,Durham,G Clark,AZ Lees,DR Sams,0,0,,,,,,"",""
+ball,1,1.6,Durham,G Clark,AZ Lees,DR Sams,1,0,,,,,,"",""
+ball,1,1.7,Durham,AZ Lees,G Clark,DR Sams,2,0,,,,,,"",""
+ball,1,2.1,Durham,G Clark,AZ Lees,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,2.2,Durham,AZ Lees,G Clark,Farhan Ahmed,0,0,,,,,,"",""
+ball,1,2.3,Durham,AZ Lees,G Clark,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,2.4,Durham,G Clark,AZ Lees,Farhan Ahmed,2,0,,,,,,"",""
+ball,1,2.5,Durham,G Clark,AZ Lees,Farhan Ahmed,4,0,,,,,,"",""
+ball,1,2.6,Durham,G Clark,AZ Lees,Farhan Ahmed,4,0,,,,,,"",""
+ball,1,3.1,Durham,AZ Lees,G Clark,OP Stone,0,0,,,,,,"",""
+ball,1,3.2,Durham,AZ Lees,G Clark,OP Stone,4,0,,,,,,"",""
+ball,1,3.3,Durham,AZ Lees,G Clark,OP Stone,2,0,,,,,,"",""
+ball,1,3.4,Durham,AZ Lees,G Clark,OP Stone,4,0,,,,,,"",""
+ball,1,3.5,Durham,AZ Lees,G Clark,OP Stone,0,1,,,,1,,"",""
+ball,1,3.6,Durham,G Clark,AZ Lees,OP Stone,6,0,,,,,,"",""
+ball,1,4.1,Durham,AZ Lees,G Clark,M Montgomery,1,0,,,,,,"",""
+ball,1,4.2,Durham,G Clark,AZ Lees,M Montgomery,0,0,,,,,,"",""
+ball,1,4.3,Durham,G Clark,AZ Lees,M Montgomery,1,0,,,,,,"",""
+ball,1,4.4,Durham,AZ Lees,G Clark,M Montgomery,0,1,1,,,,,"",""
+ball,1,4.5,Durham,AZ Lees,G Clark,M Montgomery,1,0,,,,,,"",""
+ball,1,4.6,Durham,G Clark,AZ Lees,M Montgomery,1,0,,,,,,"",""
+ball,1,4.7,Durham,AZ Lees,G Clark,M Montgomery,1,0,,,,,,"",""
+ball,1,5.1,Durham,AZ Lees,G Clark,DR Sams,4,0,,,,,,"",""
+ball,1,5.2,Durham,AZ Lees,G Clark,DR Sams,4,0,,,,,,"",""
+ball,1,5.3,Durham,AZ Lees,G Clark,DR Sams,0,1,,,,1,,"",""
+ball,1,5.4,Durham,G Clark,AZ Lees,DR Sams,0,0,,,,,,"",""
+ball,1,5.5,Durham,G Clark,AZ Lees,DR Sams,4,0,,,,,,"",""
+ball,1,5.6,Durham,G Clark,AZ Lees,DR Sams,6,0,,,,,,"",""
+ball,1,6.1,Durham,AZ Lees,G Clark,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,6.2,Durham,G Clark,AZ Lees,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,6.3,Durham,AZ Lees,G Clark,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,6.4,Durham,G Clark,AZ Lees,Farhan Ahmed,0,0,,,,,,"",""
+ball,1,6.5,Durham,G Clark,AZ Lees,Farhan Ahmed,0,0,,,,,,"",""
+ball,1,6.6,Durham,G Clark,AZ Lees,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,7.1,Durham,G Clark,AZ Lees,CG Harrison,1,0,,,,,,"",""
+ball,1,7.2,Durham,AZ Lees,G Clark,CG Harrison,1,0,,,,,,"",""
+ball,1,7.3,Durham,G Clark,AZ Lees,CG Harrison,1,0,,,,,,"",""
+ball,1,7.4,Durham,AZ Lees,G Clark,CG Harrison,2,0,,,,,,"",""
+ball,1,7.5,Durham,AZ Lees,G Clark,CG Harrison,0,0,,,,,,"",""
+ball,1,7.6,Durham,AZ Lees,G Clark,CG Harrison,1,0,,,,,,"",""
+ball,1,8.1,Durham,AZ Lees,G Clark,M Montgomery,0,1,,,,1,,"",""
+ball,1,8.2,Durham,G Clark,AZ Lees,M Montgomery,1,0,,,,,,"",""
+ball,1,8.3,Durham,AZ Lees,G Clark,M Montgomery,1,0,,,,,,"",""
+ball,1,8.4,Durham,G Clark,AZ Lees,M Montgomery,0,0,,,,,,caught,G Clark
+ball,1,8.5,Durham,CN Ackermann,AZ Lees,M Montgomery,1,0,,,,,,"",""
+ball,1,8.6,Durham,AZ Lees,CN Ackermann,M Montgomery,1,0,,,,,,"",""
+ball,1,9.1,Durham,AZ Lees,CN Ackermann,CG Harrison,1,0,,,,,,"",""
+ball,1,9.2,Durham,CN Ackermann,AZ Lees,CG Harrison,1,0,,,,,,"",""
+ball,1,9.3,Durham,AZ Lees,CN Ackermann,CG Harrison,1,0,,,,,,"",""
+ball,1,9.4,Durham,CN Ackermann,AZ Lees,CG Harrison,0,0,,,,,,"",""
+ball,1,9.5,Durham,CN Ackermann,AZ Lees,CG Harrison,1,0,,,,,,"",""
+ball,1,9.6,Durham,AZ Lees,CN Ackermann,CG Harrison,1,0,,,,,,"",""
+ball,1,10.1,Durham,AZ Lees,CN Ackermann,Farhan Ahmed,6,0,,,,,,"",""
+ball,1,10.2,Durham,AZ Lees,CN Ackermann,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,10.3,Durham,CN Ackermann,AZ Lees,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,10.4,Durham,AZ Lees,CN Ackermann,Farhan Ahmed,0,0,,,,,,"",""
+ball,1,10.5,Durham,AZ Lees,CN Ackermann,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,10.6,Durham,CN Ackermann,AZ Lees,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,11.1,Durham,CN Ackermann,AZ Lees,LA Patterson-White,1,0,,,,,,"",""
+ball,1,11.2,Durham,AZ Lees,CN Ackermann,LA Patterson-White,1,0,,,,,,"",""
+ball,1,11.3,Durham,CN Ackermann,AZ Lees,LA Patterson-White,1,0,,,,,,"",""
+ball,1,11.4,Durham,AZ Lees,CN Ackermann,LA Patterson-White,1,0,,,,,,"",""
+ball,1,11.5,Durham,CN Ackermann,AZ Lees,LA Patterson-White,4,0,,,,,,"",""
+ball,1,11.6,Durham,CN Ackermann,AZ Lees,LA Patterson-White,2,0,,,,,,"",""
+ball,1,12.1,Durham,AZ Lees,CN Ackermann,Farhan Ahmed,4,0,,,,,,"",""
+ball,1,12.2,Durham,AZ Lees,CN Ackermann,Farhan Ahmed,0,0,,,,,,"",""
+ball,1,12.3,Durham,AZ Lees,CN Ackermann,Farhan Ahmed,4,0,,,,,,"",""
+ball,1,12.4,Durham,AZ Lees,CN Ackermann,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,12.5,Durham,CN Ackermann,AZ Lees,Farhan Ahmed,4,0,,,,,,"",""
+ball,1,12.6,Durham,CN Ackermann,AZ Lees,Farhan Ahmed,1,0,,,,,,"",""
+ball,1,13.1,Durham,CN Ackermann,AZ Lees,LA Patterson-White,4,0,,,,,,"",""
+ball,1,13.2,Durham,CN Ackermann,AZ Lees,LA Patterson-White,1,0,,,,,,"",""
+ball,1,13.3,Durham,AZ Lees,CN Ackermann,LA Patterson-White,0,0,,,,,,"",""
+ball,1,13.4,Durham,AZ Lees,CN Ackermann,LA Patterson-White,4,0,,,,,,"",""
+ball,1,13.5,Durham,AZ Lees,CN Ackermann,LA Patterson-White,1,0,,,,,,"",""
+ball,1,13.6,Durham,CN Ackermann,AZ Lees,LA Patterson-White,2,0,,,,,,"",""
+ball,1,14.1,Durham,AZ Lees,CN Ackermann,OP Stone,4,0,,,,,,"",""
+ball,1,14.2,Durham,AZ Lees,CN Ackermann,OP Stone,4,0,,,,,,"",""
+ball,1,14.3,Durham,AZ Lees,CN Ackermann,OP Stone,4,0,,,,,,"",""
+ball,1,14.4,Durham,AZ Lees,CN Ackermann,OP Stone,0,0,,,,,,caught,AZ Lees
+ball,1,14.5,Durham,JDS Neesham,CN Ackermann,OP Stone,2,0,,,,,,"",""
+ball,1,14.6,Durham,JDS Neesham,CN Ackermann,OP Stone,1,0,,,,,,"",""
+ball,1,15.1,Durham,JDS Neesham,CN Ackermann,CG Harrison,0,0,,,,,,bowled,JDS Neesham
+ball,1,15.2,Durham,BS McKinney,CN Ackermann,CG Harrison,0,0,,,,,,"",""
+ball,1,15.3,Durham,BS McKinney,CN Ackermann,CG Harrison,0,0,,,,,,"",""
+ball,1,15.4,Durham,BS McKinney,CN Ackermann,CG Harrison,1,0,,,,,,"",""
+ball,1,15.5,Durham,CN Ackermann,BS McKinney,CG Harrison,1,0,,,,,,"",""
+ball,1,15.6,Durham,BS McKinney,CN Ackermann,CG Harrison,1,0,,,,,,"",""
+ball,1,16.1,Durham,BS McKinney,CN Ackermann,M Montgomery,4,0,,,,,,"",""
+ball,1,16.2,Durham,BS McKinney,CN Ackermann,M Montgomery,0,0,,,,,,"",""
+ball,1,16.3,Durham,BS McKinney,CN Ackermann,M Montgomery,0,0,,,,,,caught,BS McKinney
+ball,1,16.4,Durham,WMH Rhodes,CN Ackermann,M Montgomery,4,0,,,,,,"",""
+ball,1,16.5,Durham,WMH Rhodes,CN Ackermann,M Montgomery,1,0,,,,,,"",""
+ball,1,16.6,Durham,CN Ackermann,WMH Rhodes,M Montgomery,0,2,2,,,,,"",""
+ball,1,16.7,Durham,WMH Rhodes,CN Ackermann,M Montgomery,1,0,,,,,,"",""
+ball,1,17.1,Durham,WMH Rhodes,CN Ackermann,DR Sams,1,0,,,,,,"",""
+ball,1,17.2,Durham,CN Ackermann,WMH Rhodes,DR Sams,4,0,,,,,,"",""
+ball,1,17.3,Durham,CN Ackermann,WMH Rhodes,DR Sams,0,2,,2,,,,"",""
+ball,1,17.4,Durham,CN Ackermann,WMH Rhodes,DR Sams,1,0,,,,,,"",""
+ball,1,17.5,Durham,WMH Rhodes,CN Ackermann,DR Sams,1,0,,,,,,"",""
+ball,1,17.6,Durham,CN Ackermann,WMH Rhodes,DR Sams,0,2,,2,,,,"",""
+ball,1,17.7,Durham,CN Ackermann,WMH Rhodes,LA Patterson-White,2,0,,,,,,"",""
+ball,1,17.8,Durham,CN Ackermann,WMH Rhodes,LA Patterson-White,0,1,,,,1,,"",""
+ball,1,18.1,Durham,CN Ackermann,WMH Rhodes,M Montgomery,6,0,,,,,,"",""
+ball,1,18.2,Durham,CN Ackermann,WMH Rhodes,M Montgomery,6,0,,,,,,"",""
+ball,1,18.3,Durham,CN Ackermann,WMH Rhodes,M Montgomery,6,0,,,,,,"",""
+ball,1,18.4,Durham,CN Ackermann,WMH Rhodes,M Montgomery,4,0,,,,,,"",""
+ball,1,18.5,Durham,CN Ackermann,WMH Rhodes,M Montgomery,4,0,,,,,,"",""
+ball,1,18.6,Durham,CN Ackermann,WMH Rhodes,M Montgomery,6,0,,,,,,"",""
+ball,1,19.1,Durham,WMH Rhodes,CN Ackermann,CG Harrison,1,0,,,,,,"",""
+ball,1,19.2,Durham,CN Ackermann,WMH Rhodes,CG Harrison,4,0,,,,,,"",""
+ball,1,19.3,Durham,CN Ackermann,WMH Rhodes,CG Harrison,6,0,,,,,,"",""
+ball,1,19.4,Durham,CN Ackermann,WMH Rhodes,CG Harrison,6,0,,,,,,"",""
+ball,1,19.5,Durham,CN Ackermann,WMH Rhodes,CG Harrison,2,0,,,,,,"",""
+ball,1,19.6,Durham,CN Ackermann,WMH Rhodes,CG Harrison,0,0,,,,,,caught,CN Ackermann
+ball,2,0.1,Nottinghamshire,FW McCann,JM Clarke,CF Parkinson,1,0,,,,,,"",""
+ball,2,0.2,Nottinghamshire,JM Clarke,FW McCann,CF Parkinson,1,0,,,,,,"",""
+ball,2,0.3,Nottinghamshire,FW McCann,JM Clarke,CF Parkinson,4,0,,,,,,"",""
+ball,2,0.4,Nottinghamshire,FW McCann,JM Clarke,CF Parkinson,0,0,,,,,,"",""
+ball,2,0.5,Nottinghamshire,FW McCann,JM Clarke,CF Parkinson,0,0,,,,,,caught,FW McCann
+ball,2,0.6,Nottinghamshire,JA Haynes,JM Clarke,CF Parkinson,0,0,,,,,,"",""
+ball,2,1.1,Nottinghamshire,JM Clarke,JA Haynes,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,1.2,Nottinghamshire,JM Clarke,JA Haynes,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,1.3,Nottinghamshire,JM Clarke,JA Haynes,ZGF Foulkes,0,1,,,,1,,"",""
+ball,2,1.4,Nottinghamshire,JA Haynes,JM Clarke,ZGF Foulkes,3,0,,,,,,"",""
+ball,2,1.5,Nottinghamshire,JM Clarke,JA Haynes,ZGF Foulkes,4,0,,,,,,"",""
+ball,2,1.6,Nottinghamshire,JM Clarke,JA Haynes,ZGF Foulkes,4,0,,,,,,"",""
+ball,2,2.1,Nottinghamshire,JA Haynes,JM Clarke,CF Parkinson,4,0,,,,,,"",""
+ball,2,2.2,Nottinghamshire,JA Haynes,JM Clarke,CF Parkinson,1,0,,,,,,"",""
+ball,2,2.3,Nottinghamshire,JM Clarke,JA Haynes,CF Parkinson,4,0,,,,,,"",""
+ball,2,2.4,Nottinghamshire,JM Clarke,JA Haynes,CF Parkinson,2,0,,,,,,"",""
+ball,2,2.5,Nottinghamshire,JM Clarke,JA Haynes,CF Parkinson,1,0,,,,,,"",""
+ball,2,2.6,Nottinghamshire,JA Haynes,JM Clarke,CF Parkinson,0,0,,,,,,"",""
+ball,2,3.1,Nottinghamshire,JM Clarke,JA Haynes,Kasey Aldridge,1,0,,,,,,"",""
+ball,2,3.2,Nottinghamshire,JA Haynes,JM Clarke,Kasey Aldridge,6,0,,,,,,"",""
+ball,2,3.3,Nottinghamshire,JA Haynes,JM Clarke,Kasey Aldridge,0,0,,,,,,caught,JA Haynes
+ball,2,3.4,Nottinghamshire,LW James,JM Clarke,Kasey Aldridge,4,0,,,,,,"",""
+ball,2,3.5,Nottinghamshire,LW James,JM Clarke,Kasey Aldridge,4,0,,,,,,"",""
+ball,2,3.6,Nottinghamshire,LW James,JM Clarke,Kasey Aldridge,0,0,,,,,,"",""
+ball,2,4.1,Nottinghamshire,JM Clarke,LW James,JDS Neesham,6,0,,,,,,"",""
+ball,2,4.2,Nottinghamshire,JM Clarke,LW James,JDS Neesham,1,0,,,,,,"",""
+ball,2,4.3,Nottinghamshire,LW James,JM Clarke,JDS Neesham,0,0,,,,,,"",""
+ball,2,4.4,Nottinghamshire,LW James,JM Clarke,JDS Neesham,2,0,,,,,,"",""
+ball,2,4.5,Nottinghamshire,LW James,JM Clarke,JDS Neesham,4,0,,,,,,"",""
+ball,2,4.6,Nottinghamshire,LW James,JM Clarke,JDS Neesham,6,0,,,,,,"",""
+ball,2,5.1,Nottinghamshire,JM Clarke,LW James,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,5.2,Nottinghamshire,LW James,JM Clarke,ZGF Foulkes,4,0,,,,,,"",""
+ball,2,5.3,Nottinghamshire,LW James,JM Clarke,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,5.4,Nottinghamshire,JM Clarke,LW James,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,5.5,Nottinghamshire,JM Clarke,LW James,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,5.6,Nottinghamshire,LW James,JM Clarke,ZGF Foulkes,0,1,1,,,,,"",""
+ball,2,5.7,Nottinghamshire,LW James,JM Clarke,ZGF Foulkes,4,0,,,,,,"",""
+ball,2,6.1,Nottinghamshire,JM Clarke,LW James,NA Sowter,2,0,,,,,,"",""
+ball,2,6.2,Nottinghamshire,JM Clarke,LW James,NA Sowter,1,0,,,,,,"",""
+ball,2,6.3,Nottinghamshire,LW James,JM Clarke,NA Sowter,1,0,,,,,,"",""
+ball,2,6.4,Nottinghamshire,JM Clarke,LW James,NA Sowter,0,0,,,,,,"",""
+ball,2,6.5,Nottinghamshire,JM Clarke,LW James,NA Sowter,1,0,,,,,,"",""
+ball,2,6.6,Nottinghamshire,LW James,JM Clarke,NA Sowter,0,0,,,,,,caught,LW James
+ball,2,7.1,Nottinghamshire,JM Clarke,TJ Moores,CN Ackermann,1,0,,,,,,"",""
+ball,2,7.2,Nottinghamshire,TJ Moores,JM Clarke,CN Ackermann,1,0,,,,,,"",""
+ball,2,7.3,Nottinghamshire,JM Clarke,TJ Moores,CN Ackermann,1,0,,,,,,"",""
+ball,2,7.4,Nottinghamshire,TJ Moores,JM Clarke,CN Ackermann,1,0,,,,,,"",""
+ball,2,7.5,Nottinghamshire,JM Clarke,TJ Moores,CN Ackermann,2,0,,,,,,"",""
+ball,2,7.6,Nottinghamshire,JM Clarke,TJ Moores,CN Ackermann,6,0,,,,,,"",""
+ball,2,8.1,Nottinghamshire,TJ Moores,JM Clarke,NA Sowter,2,0,,,,,,"",""
+ball,2,8.2,Nottinghamshire,TJ Moores,JM Clarke,NA Sowter,0,1,1,,,,,"",""
+ball,2,8.3,Nottinghamshire,TJ Moores,JM Clarke,NA Sowter,6,0,,,,,,"",""
+ball,2,8.4,Nottinghamshire,TJ Moores,JM Clarke,NA Sowter,0,0,,,,,,"",""
+ball,2,8.5,Nottinghamshire,TJ Moores,JM Clarke,NA Sowter,1,0,,,,,,"",""
+ball,2,8.6,Nottinghamshire,JM Clarke,TJ Moores,NA Sowter,1,0,,,,,,"",""
+ball,2,8.7,Nottinghamshire,TJ Moores,JM Clarke,NA Sowter,1,0,,,,,,"",""
+ball,2,9.1,Nottinghamshire,TJ Moores,JM Clarke,JDS Neesham,1,0,,,,,,"",""
+ball,2,9.2,Nottinghamshire,JM Clarke,TJ Moores,JDS Neesham,0,0,,,,,,caught,JM Clarke
+ball,2,9.3,Nottinghamshire,DR Sams,TJ Moores,JDS Neesham,1,0,,,,,,"",""
+ball,2,9.4,Nottinghamshire,TJ Moores,DR Sams,JDS Neesham,4,0,,,,,,"",""
+ball,2,9.5,Nottinghamshire,TJ Moores,DR Sams,JDS Neesham,1,0,,,,,,"",""
+ball,2,9.6,Nottinghamshire,DR Sams,TJ Moores,JDS Neesham,0,0,,,,,,"",""
+ball,2,10.1,Nottinghamshire,TJ Moores,DR Sams,Kasey Aldridge,0,0,,,,,,bowled,TJ Moores
+ball,2,10.2,Nottinghamshire,LA Patterson-White,DR Sams,Kasey Aldridge,4,0,,,,,,"",""
+ball,2,10.3,Nottinghamshire,LA Patterson-White,DR Sams,Kasey Aldridge,4,0,,,,,,"",""
+ball,2,10.4,Nottinghamshire,LA Patterson-White,DR Sams,Kasey Aldridge,0,0,,,,,,caught,LA Patterson-White
+ball,2,10.5,Nottinghamshire,M Montgomery,DR Sams,Kasey Aldridge,2,0,,,,,,"",""
+ball,2,10.6,Nottinghamshire,M Montgomery,DR Sams,Kasey Aldridge,0,1,1,,,,,"",""
+ball,2,10.7,Nottinghamshire,M Montgomery,DR Sams,Kasey Aldridge,1,0,,,,,,"",""
+ball,2,11.1,Nottinghamshire,M Montgomery,DR Sams,CF Parkinson,1,0,,,,,,"",""
+ball,2,11.2,Nottinghamshire,DR Sams,M Montgomery,CF Parkinson,1,0,,,,,,"",""
+ball,2,11.3,Nottinghamshire,M Montgomery,DR Sams,CF Parkinson,4,0,,,,,,"",""
+ball,2,11.4,Nottinghamshire,M Montgomery,DR Sams,CF Parkinson,1,0,,,,,,"",""
+ball,2,11.5,Nottinghamshire,DR Sams,M Montgomery,CF Parkinson,0,5,5,,,,,"",""
+ball,2,11.6,Nottinghamshire,DR Sams,M Montgomery,CF Parkinson,6,0,,,,,,"",""
+ball,2,11.7,Nottinghamshire,DR Sams,M Montgomery,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.1,Nottinghamshire,DR Sams,M Montgomery,NA Sowter,0,0,,,,,,bowled,DR Sams
+ball,2,12.2,Nottinghamshire,CG Harrison,M Montgomery,NA Sowter,1,0,,,,,,"",""
+ball,2,12.3,Nottinghamshire,M Montgomery,CG Harrison,NA Sowter,2,0,,,,,,"",""
+ball,2,12.4,Nottinghamshire,M Montgomery,CG Harrison,NA Sowter,4,0,,,,,,"",""
+ball,2,12.5,Nottinghamshire,M Montgomery,CG Harrison,NA Sowter,0,0,,,,,,"",""
+ball,2,12.6,Nottinghamshire,M Montgomery,CG Harrison,NA Sowter,6,0,,,,,,"",""
+ball,2,13.1,Nottinghamshire,CG Harrison,M Montgomery,CF Parkinson,1,0,,,,,,"",""
+ball,2,13.2,Nottinghamshire,M Montgomery,CG Harrison,CF Parkinson,4,0,,,,,,"",""
+ball,2,13.3,Nottinghamshire,M Montgomery,CG Harrison,CF Parkinson,0,0,,,,,,"",""
+ball,2,13.4,Nottinghamshire,M Montgomery,CG Harrison,CF Parkinson,4,0,,,,,,"",""
+ball,2,13.5,Nottinghamshire,M Montgomery,CG Harrison,CF Parkinson,6,0,,,,,,"",""
+ball,2,13.6,Nottinghamshire,M Montgomery,CG Harrison,CF Parkinson,0,0,,,,,,"",""
+ball,2,14.1,Nottinghamshire,CG Harrison,M Montgomery,NA Sowter,1,0,,,,,,"",""
+ball,2,14.2,Nottinghamshire,M Montgomery,CG Harrison,NA Sowter,1,0,,,,,,"",""
+ball,2,14.3,Nottinghamshire,CG Harrison,M Montgomery,NA Sowter,1,0,,,,,,"",""
+ball,2,14.4,Nottinghamshire,M Montgomery,CG Harrison,NA Sowter,4,0,,,,,,"",""
+ball,2,14.5,Nottinghamshire,M Montgomery,CG Harrison,NA Sowter,1,0,,,,,,"",""
+ball,2,14.6,Nottinghamshire,CG Harrison,M Montgomery,NA Sowter,1,0,,,,,,"",""
+ball,2,15.1,Nottinghamshire,CG Harrison,M Montgomery,Kasey Aldridge,2,0,,,,,,"",""
+ball,2,15.2,Nottinghamshire,CG Harrison,M Montgomery,Kasey Aldridge,0,0,,,,,,caught,CG Harrison
+ball,2,15.3,Nottinghamshire,OP Stone,M Montgomery,Kasey Aldridge,0,0,,,,,,run out,OP Stone
+ball,2,15.4,Nottinghamshire,M Montgomery,Farhan Ahmed,Kasey Aldridge,0,0,,,,,,caught,M Montgomery

@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Gloucestershire
+info,gender,male
+info,season,2024
+info,date,2024/07/07
+info,event,Vitality Blast
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,player_of_match,BJ Webster
+info,umpire,AG Wharf
+info,umpire,Mark Newell
+info,tv_umpire,ID Blackwell
+info,match_referee,Wayne Noon
+info,winner,Gloucestershire
+info,winner_wickets,5
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,SR Dickson
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,JH Davey
+info,player,Somerset,JT Ball
+info,player,Somerset,RP Meredith
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,BJ Webster
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,M de Lange
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BGF Green,34b37279
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Payne,6c79c098
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,L Gregory,06c2de82
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RP Meredith,64775749
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,Wayne Noon,736e1761
+ball,1,0.1,Somerset,T Banton,WCF Smeed,DA Payne,0,0,,,,,,"",""
+ball,1,0.2,Somerset,T Banton,WCF Smeed,DA Payne,0,0,,,,,,"",""
+ball,1,0.3,Somerset,T Banton,WCF Smeed,DA Payne,1,0,,,,,,"",""
+ball,1,0.4,Somerset,WCF Smeed,T Banton,DA Payne,0,0,,,,,,"",""
+ball,1,0.5,Somerset,WCF Smeed,T Banton,DA Payne,4,0,,,,,,"",""
+ball,1,0.6,Somerset,WCF Smeed,T Banton,DA Payne,0,0,,,,,,"",""
+ball,1,1.1,Somerset,T Banton,WCF Smeed,J Shaw,4,0,,,,,,"",""
+ball,1,1.2,Somerset,T Banton,WCF Smeed,J Shaw,0,0,,,,,,"",""
+ball,1,1.3,Somerset,T Banton,WCF Smeed,J Shaw,0,0,,,,,,"",""
+ball,1,1.4,Somerset,T Banton,WCF Smeed,J Shaw,0,0,,,,,,"",""
+ball,1,1.5,Somerset,T Banton,WCF Smeed,J Shaw,4,0,,,,,,"",""
+ball,1,1.6,Somerset,T Banton,WCF Smeed,J Shaw,0,0,,,,,,"",""
+ball,1,2.1,Somerset,WCF Smeed,T Banton,DA Payne,0,0,,,,,,"",""
+ball,1,2.2,Somerset,WCF Smeed,T Banton,DA Payne,6,0,,,,,,"",""
+ball,1,2.3,Somerset,WCF Smeed,T Banton,DA Payne,0,0,,,,,,"",""
+ball,1,2.4,Somerset,WCF Smeed,T Banton,DA Payne,0,0,,,,,,caught,WCF Smeed
+ball,1,2.5,Somerset,T Kohler-Cadmore,T Banton,DA Payne,0,0,,,,,,"",""
+ball,1,2.6,Somerset,T Kohler-Cadmore,T Banton,DA Payne,1,0,,,,,,"",""
+ball,1,3.1,Somerset,T Kohler-Cadmore,T Banton,MD Taylor,0,0,,,,,,"",""
+ball,1,3.2,Somerset,T Kohler-Cadmore,T Banton,MD Taylor,4,0,,,,,,"",""
+ball,1,3.3,Somerset,T Kohler-Cadmore,T Banton,MD Taylor,4,0,,,,,,"",""
+ball,1,3.4,Somerset,T Kohler-Cadmore,T Banton,MD Taylor,0,0,,,,,,"",""
+ball,1,3.5,Somerset,T Kohler-Cadmore,T Banton,MD Taylor,1,0,,,,,,"",""
+ball,1,3.6,Somerset,T Banton,T Kohler-Cadmore,MD Taylor,2,0,,,,,,"",""
+ball,1,4.1,Somerset,T Kohler-Cadmore,T Banton,J Shaw,6,0,,,,,,"",""
+ball,1,4.2,Somerset,T Kohler-Cadmore,T Banton,J Shaw,6,0,,,,,,"",""
+ball,1,4.3,Somerset,T Kohler-Cadmore,T Banton,J Shaw,0,0,,,,,,"",""
+ball,1,4.4,Somerset,T Kohler-Cadmore,T Banton,J Shaw,0,0,,,,,,caught,T Kohler-Cadmore
+ball,1,4.5,Somerset,TB Abell,T Banton,J Shaw,0,0,,,,,,"",""
+ball,1,4.6,Somerset,TB Abell,T Banton,J Shaw,1,0,,,,,,"",""
+ball,1,5.1,Somerset,TB Abell,T Banton,MD Taylor,4,0,,,,,,"",""
+ball,1,5.2,Somerset,TB Abell,T Banton,MD Taylor,2,0,,,,,,"",""
+ball,1,5.3,Somerset,TB Abell,T Banton,MD Taylor,1,0,,,,,,"",""
+ball,1,5.4,Somerset,T Banton,TB Abell,MD Taylor,1,0,,,,,,"",""
+ball,1,5.5,Somerset,TB Abell,T Banton,MD Taylor,0,0,,,,,,"",""
+ball,1,5.6,Somerset,TB Abell,T Banton,MD Taylor,1,0,,,,,,"",""
+ball,1,6.1,Somerset,TB Abell,T Banton,BJ Webster,0,0,,,,,,"",""
+ball,1,6.2,Somerset,TB Abell,T Banton,BJ Webster,0,0,,,,,,caught,TB Abell
+ball,1,6.3,Somerset,SR Dickson,T Banton,BJ Webster,0,0,,,,,,"",""
+ball,1,6.4,Somerset,SR Dickson,T Banton,BJ Webster,0,0,,,,,,"",""
+ball,1,6.5,Somerset,SR Dickson,T Banton,BJ Webster,0,1,,,,1,,"",""
+ball,1,6.6,Somerset,T Banton,SR Dickson,BJ Webster,1,0,,,,,,"",""
+ball,1,7.1,Somerset,T Banton,SR Dickson,M de Lange,0,0,,,,,,"",""
+ball,1,7.2,Somerset,T Banton,SR Dickson,M de Lange,1,0,,,,,,"",""
+ball,1,7.3,Somerset,SR Dickson,T Banton,M de Lange,0,0,,,,,,"",""
+ball,1,7.4,Somerset,SR Dickson,T Banton,M de Lange,0,0,,,,,,"",""
+ball,1,7.5,Somerset,SR Dickson,T Banton,M de Lange,0,0,,,,,,"",""
+ball,1,7.6,Somerset,SR Dickson,T Banton,M de Lange,1,0,,,,,,"",""
+ball,1,8.1,Somerset,SR Dickson,T Banton,BJ Webster,0,0,,,,,,"",""
+ball,1,8.2,Somerset,SR Dickson,T Banton,BJ Webster,4,0,,,,,,"",""
+ball,1,8.3,Somerset,SR Dickson,T Banton,BJ Webster,1,0,,,,,,"",""
+ball,1,8.4,Somerset,T Banton,SR Dickson,BJ Webster,6,0,,,,,,"",""
+ball,1,8.5,Somerset,T Banton,SR Dickson,BJ Webster,1,0,,,,,,"",""
+ball,1,8.6,Somerset,SR Dickson,T Banton,BJ Webster,1,0,,,,,,"",""
+ball,1,9.1,Somerset,SR Dickson,T Banton,OJ Price,1,0,,,,,,"",""
+ball,1,9.2,Somerset,T Banton,SR Dickson,OJ Price,0,0,,,,,,"",""
+ball,1,9.3,Somerset,T Banton,SR Dickson,OJ Price,6,0,,,,,,"",""
+ball,1,9.4,Somerset,T Banton,SR Dickson,OJ Price,0,1,1,,,,,"",""
+ball,1,9.5,Somerset,T Banton,SR Dickson,OJ Price,4,0,,,,,,"",""
+ball,1,9.6,Somerset,T Banton,SR Dickson,OJ Price,4,0,,,,,,"",""
+ball,1,9.7,Somerset,T Banton,SR Dickson,OJ Price,1,0,,,,,,"",""
+ball,1,10.1,Somerset,T Banton,SR Dickson,M de Lange,1,0,,,,,,"",""
+ball,1,10.2,Somerset,SR Dickson,T Banton,M de Lange,0,0,,,,,,caught,SR Dickson
+ball,1,10.3,Somerset,L Gregory,T Banton,M de Lange,4,0,,,,,,"",""
+ball,1,10.4,Somerset,L Gregory,T Banton,M de Lange,1,0,,,,,,"",""
+ball,1,10.5,Somerset,T Banton,L Gregory,M de Lange,1,0,,,,,,"",""
+ball,1,10.6,Somerset,L Gregory,T Banton,M de Lange,0,0,,,,,,"",""
+ball,1,11.1,Somerset,T Banton,L Gregory,BJ Webster,1,0,,,,,,"",""
+ball,1,11.2,Somerset,L Gregory,T Banton,BJ Webster,1,0,,,,,,"",""
+ball,1,11.3,Somerset,T Banton,L Gregory,BJ Webster,1,0,,,,,,"",""
+ball,1,11.4,Somerset,L Gregory,T Banton,BJ Webster,1,0,,,,,,"",""
+ball,1,11.5,Somerset,T Banton,L Gregory,BJ Webster,1,0,,,,,,"",""
+ball,1,11.6,Somerset,L Gregory,T Banton,BJ Webster,0,0,,,,,,"",""
+ball,1,12.1,Somerset,T Banton,L Gregory,MD Taylor,1,0,,,,,,"",""
+ball,1,12.2,Somerset,L Gregory,T Banton,MD Taylor,0,0,,,,,,"",""
+ball,1,12.3,Somerset,L Gregory,T Banton,MD Taylor,1,0,,,,,,"",""
+ball,1,12.4,Somerset,T Banton,L Gregory,MD Taylor,1,0,,,,,,"",""
+ball,1,12.5,Somerset,L Gregory,T Banton,MD Taylor,1,0,,,,,,"",""
+ball,1,12.6,Somerset,T Banton,L Gregory,MD Taylor,2,0,,,,,,"",""
+ball,1,13.1,Somerset,L Gregory,T Banton,M de Lange,0,0,,,,,,caught,L Gregory
+ball,1,13.2,Somerset,BGF Green,T Banton,M de Lange,0,0,,,,,,"",""
+ball,1,13.3,Somerset,BGF Green,T Banton,M de Lange,0,0,,,,,,"",""
+ball,1,13.4,Somerset,BGF Green,T Banton,M de Lange,0,0,,,,,,"",""
+ball,1,13.5,Somerset,BGF Green,T Banton,M de Lange,1,0,,,,,,"",""
+ball,1,13.6,Somerset,T Banton,BGF Green,M de Lange,1,0,,,,,,"",""
+ball,1,14.1,Somerset,T Banton,BGF Green,DA Payne,1,0,,,,,,"",""
+ball,1,14.2,Somerset,BGF Green,T Banton,DA Payne,0,0,,,,,,"",""
+ball,1,14.3,Somerset,BGF Green,T Banton,DA Payne,1,0,,,,,,"",""
+ball,1,14.4,Somerset,T Banton,BGF Green,DA Payne,2,0,,,,,,"",""
+ball,1,14.5,Somerset,T Banton,BGF Green,DA Payne,1,0,,,,,,"",""
+ball,1,14.6,Somerset,BGF Green,T Banton,DA Payne,0,1,1,,,,,"",""
+ball,1,14.7,Somerset,BGF Green,T Banton,DA Payne,1,0,,,,,,"",""
+ball,1,15.1,Somerset,BGF Green,T Banton,BJ Webster,1,0,,,,,,"",""
+ball,1,15.2,Somerset,T Banton,BGF Green,BJ Webster,0,0,,,,,,"",""
+ball,1,15.3,Somerset,T Banton,BGF Green,BJ Webster,1,0,,,,,,"",""
+ball,1,15.4,Somerset,BGF Green,T Banton,BJ Webster,0,1,,,,1,,"",""
+ball,1,15.5,Somerset,T Banton,BGF Green,BJ Webster,1,0,,,,,,"",""
+ball,1,15.6,Somerset,BGF Green,T Banton,BJ Webster,1,0,,,,,,"",""
+ball,1,16.1,Somerset,BGF Green,T Banton,MD Taylor,0,0,,,,,,"",""
+ball,1,16.2,Somerset,BGF Green,T Banton,MD Taylor,0,1,1,,,,,"",""
+ball,1,16.3,Somerset,BGF Green,T Banton,MD Taylor,6,0,,,,,,"",""
+ball,1,16.4,Somerset,BGF Green,T Banton,MD Taylor,1,0,,,,,,"",""
+ball,1,16.5,Somerset,T Banton,BGF Green,MD Taylor,6,0,,,,,,"",""
+ball,1,16.6,Somerset,T Banton,BGF Green,MD Taylor,0,0,,,,,,"",""
+ball,1,16.7,Somerset,T Banton,BGF Green,MD Taylor,1,0,,,,,,"",""
+ball,1,17.1,Somerset,T Banton,BGF Green,M de Lange,6,0,,,,,,"",""
+ball,1,17.2,Somerset,T Banton,BGF Green,M de Lange,2,0,,,,,,"",""
+ball,1,17.3,Somerset,T Banton,BGF Green,M de Lange,4,0,,,,,,"",""
+ball,1,17.4,Somerset,T Banton,BGF Green,M de Lange,1,0,,,,,,"",""
+ball,1,17.5,Somerset,BGF Green,T Banton,M de Lange,1,0,,,,,,"",""
+ball,1,17.6,Somerset,T Banton,BGF Green,M de Lange,0,0,,,,,,"",""
+ball,1,18.1,Somerset,BGF Green,T Banton,DA Payne,1,0,,,,,,"",""
+ball,1,18.2,Somerset,T Banton,BGF Green,DA Payne,1,0,,,,,,"",""
+ball,1,18.3,Somerset,BGF Green,T Banton,DA Payne,0,1,1,,,,,"",""
+ball,1,18.4,Somerset,BGF Green,T Banton,DA Payne,6,0,,,,,,"",""
+ball,1,18.5,Somerset,BGF Green,T Banton,DA Payne,0,0,,,,,,"",""
+ball,1,18.6,Somerset,BGF Green,T Banton,DA Payne,1,0,,,,,,"",""
+ball,1,18.7,Somerset,T Banton,BGF Green,DA Payne,4,0,,,,,,"",""
+ball,1,19.1,Somerset,BGF Green,T Banton,J Shaw,6,2,,2,,,,"",""
+ball,1,19.2,Somerset,BGF Green,T Banton,J Shaw,4,0,,,,,,"",""
+ball,1,19.3,Somerset,BGF Green,T Banton,J Shaw,4,0,,,,,,"",""
+ball,1,19.4,Somerset,BGF Green,T Banton,J Shaw,2,2,,2,,,,"",""
+ball,1,19.5,Somerset,BGF Green,T Banton,OJ Price,4,0,,,,,,"",""
+ball,1,19.6,Somerset,BGF Green,T Banton,OJ Price,6,0,,,,,,"",""
+ball,1,19.7,Somerset,BGF Green,T Banton,OJ Price,0,1,1,,,,,"",""
+ball,1,19.8,Somerset,BGF Green,T Banton,OJ Price,0,0,,,,,,caught,BGF Green
+ball,1,19.9,Somerset,RE van der Merwe,T Banton,OJ Price,1,0,,,,,,"",""
+ball,2,0.1,Gloucestershire,Miles Hammond,CT Bancroft,JH Davey,0,1,1,,,,,"",""
+ball,2,0.2,Gloucestershire,Miles Hammond,CT Bancroft,JH Davey,0,1,1,,,,,"",""
+ball,2,0.3,Gloucestershire,Miles Hammond,CT Bancroft,JH Davey,1,0,,,,,,"",""
+ball,2,0.4,Gloucestershire,CT Bancroft,Miles Hammond,JH Davey,0,1,1,,,,,"",""
+ball,2,0.5,Gloucestershire,CT Bancroft,Miles Hammond,JH Davey,0,1,,,,1,,"",""
+ball,2,0.6,Gloucestershire,Miles Hammond,CT Bancroft,JH Davey,4,0,,,,,,"",""
+ball,2,0.7,Gloucestershire,Miles Hammond,CT Bancroft,JH Davey,1,0,,,,,,"",""
+ball,2,0.8,Gloucestershire,CT Bancroft,Miles Hammond,JH Davey,0,0,,,,,,"",""
+ball,2,0.9,Gloucestershire,CT Bancroft,Miles Hammond,JH Davey,0,0,,,,,,"",""
+ball,2,1.1,Gloucestershire,Miles Hammond,CT Bancroft,RP Meredith,0,0,,,,,,"",""
+ball,2,1.2,Gloucestershire,Miles Hammond,CT Bancroft,RP Meredith,0,0,,,,,,"",""
+ball,2,1.3,Gloucestershire,Miles Hammond,CT Bancroft,RP Meredith,0,0,,,,,,"",""
+ball,2,1.4,Gloucestershire,Miles Hammond,CT Bancroft,RP Meredith,4,0,,,,,,"",""
+ball,2,1.5,Gloucestershire,Miles Hammond,CT Bancroft,RP Meredith,0,0,,,,,,"",""
+ball,2,1.6,Gloucestershire,Miles Hammond,CT Bancroft,RP Meredith,0,0,,,,,,"",""
+ball,2,2.1,Gloucestershire,CT Bancroft,Miles Hammond,L Gregory,0,1,,,,1,,"",""
+ball,2,2.2,Gloucestershire,Miles Hammond,CT Bancroft,L Gregory,4,0,,,,,,"",""
+ball,2,2.3,Gloucestershire,Miles Hammond,CT Bancroft,L Gregory,0,0,,,,,,"",""
+ball,2,2.4,Gloucestershire,Miles Hammond,CT Bancroft,L Gregory,2,0,,,,,,"",""
+ball,2,2.5,Gloucestershire,Miles Hammond,CT Bancroft,L Gregory,1,0,,,,,,"",""
+ball,2,2.6,Gloucestershire,CT Bancroft,Miles Hammond,L Gregory,0,0,,,,,,caught,CT Bancroft
+ball,2,3.1,Gloucestershire,Miles Hammond,James Bracey,JH Davey,4,0,,,,,,"",""
+ball,2,3.2,Gloucestershire,Miles Hammond,James Bracey,JH Davey,0,0,,,,,,"",""
+ball,2,3.3,Gloucestershire,Miles Hammond,James Bracey,JH Davey,0,0,,,,,,"",""
+ball,2,3.4,Gloucestershire,Miles Hammond,James Bracey,JH Davey,1,0,,,,,,"",""
+ball,2,3.5,Gloucestershire,James Bracey,Miles Hammond,JH Davey,2,0,,,,,,"",""
+ball,2,3.6,Gloucestershire,James Bracey,Miles Hammond,JH Davey,0,0,,,,,,"",""
+ball,2,4.1,Gloucestershire,Miles Hammond,James Bracey,RP Meredith,0,0,,,,,,"",""
+ball,2,4.2,Gloucestershire,Miles Hammond,James Bracey,RP Meredith,0,0,,,,,,"",""
+ball,2,4.3,Gloucestershire,Miles Hammond,James Bracey,RP Meredith,1,0,,,,,,"",""
+ball,2,4.4,Gloucestershire,James Bracey,Miles Hammond,RP Meredith,4,0,,,,,,"",""
+ball,2,4.5,Gloucestershire,James Bracey,Miles Hammond,RP Meredith,4,0,,,,,,"",""
+ball,2,4.6,Gloucestershire,James Bracey,Miles Hammond,RP Meredith,4,0,,,,,,"",""
+ball,2,5.1,Gloucestershire,Miles Hammond,James Bracey,JT Ball,0,4,,,,4,,"",""
+ball,2,5.2,Gloucestershire,Miles Hammond,James Bracey,JT Ball,4,0,,,,,,"",""
+ball,2,5.3,Gloucestershire,Miles Hammond,James Bracey,JT Ball,1,0,,,,,,"",""
+ball,2,5.4,Gloucestershire,James Bracey,Miles Hammond,JT Ball,1,0,,,,,,"",""
+ball,2,5.5,Gloucestershire,Miles Hammond,James Bracey,JT Ball,2,0,,,,,,"",""
+ball,2,5.6,Gloucestershire,Miles Hammond,James Bracey,JT Ball,1,0,,,,,,"",""
+ball,2,6.1,Gloucestershire,Miles Hammond,James Bracey,RE van der Merwe,2,0,,,,,,"",""
+ball,2,6.2,Gloucestershire,Miles Hammond,James Bracey,RE van der Merwe,0,1,1,,,,,"",""
+ball,2,6.3,Gloucestershire,Miles Hammond,James Bracey,RE van der Merwe,0,0,,,,,,"",""
+ball,2,6.4,Gloucestershire,Miles Hammond,James Bracey,RE van der Merwe,1,0,,,,,,"",""
+ball,2,6.5,Gloucestershire,James Bracey,Miles Hammond,RE van der Merwe,1,0,,,,,,"",""
+ball,2,6.6,Gloucestershire,Miles Hammond,James Bracey,RE van der Merwe,1,0,,,,,,"",""
+ball,2,6.7,Gloucestershire,James Bracey,Miles Hammond,RE van der Merwe,1,0,,,,,,"",""
+ball,2,7.1,Gloucestershire,James Bracey,Miles Hammond,BGF Green,0,0,,,,,,"",""
+ball,2,7.2,Gloucestershire,James Bracey,Miles Hammond,BGF Green,1,0,,,,,,"",""
+ball,2,7.3,Gloucestershire,Miles Hammond,James Bracey,BGF Green,1,0,,,,,,"",""
+ball,2,7.4,Gloucestershire,James Bracey,Miles Hammond,BGF Green,2,0,,,,,,"",""
+ball,2,7.5,Gloucestershire,James Bracey,Miles Hammond,BGF Green,6,0,,,,,,"",""
+ball,2,7.6,Gloucestershire,James Bracey,Miles Hammond,BGF Green,0,0,,,,,,"",""
+ball,2,8.1,Gloucestershire,Miles Hammond,James Bracey,RE van der Merwe,6,0,,,,,,"",""
+ball,2,8.2,Gloucestershire,Miles Hammond,James Bracey,RE van der Merwe,0,0,,,,,,caught,Miles Hammond
+ball,2,8.3,Gloucestershire,BJ Webster,James Bracey,RE van der Merwe,1,0,,,,,,"",""
+ball,2,8.4,Gloucestershire,James Bracey,BJ Webster,RE van der Merwe,4,0,,,,,,"",""
+ball,2,8.5,Gloucestershire,James Bracey,BJ Webster,RE van der Merwe,1,0,,,,,,"",""
+ball,2,8.6,Gloucestershire,BJ Webster,James Bracey,RE van der Merwe,2,0,,,,,,"",""
+ball,2,9.1,Gloucestershire,James Bracey,BJ Webster,L Gregory,0,0,,,,,,"",""
+ball,2,9.2,Gloucestershire,James Bracey,BJ Webster,L Gregory,0,0,,,,,,caught,James Bracey
+ball,2,9.3,Gloucestershire,JMR Taylor,BJ Webster,L Gregory,1,0,,,,,,"",""
+ball,2,9.4,Gloucestershire,BJ Webster,JMR Taylor,L Gregory,0,0,,,,,,"",""
+ball,2,9.5,Gloucestershire,BJ Webster,JMR Taylor,L Gregory,0,0,,,,,,"",""
+ball,2,9.6,Gloucestershire,BJ Webster,JMR Taylor,L Gregory,2,0,,,,,,"",""
+ball,2,10.1,Gloucestershire,JMR Taylor,BJ Webster,JT Ball,0,0,,,,,,"",""
+ball,2,10.2,Gloucestershire,JMR Taylor,BJ Webster,JT Ball,1,0,,,,,,"",""
+ball,2,10.3,Gloucestershire,BJ Webster,JMR Taylor,JT Ball,4,0,,,,,,"",""
+ball,2,10.4,Gloucestershire,BJ Webster,JMR Taylor,JT Ball,2,0,,,,,,"",""
+ball,2,10.5,Gloucestershire,BJ Webster,JMR Taylor,JT Ball,1,0,,,,,,"",""
+ball,2,10.6,Gloucestershire,JMR Taylor,BJ Webster,JT Ball,1,0,,,,,,"",""
+ball,2,11.1,Gloucestershire,JMR Taylor,BJ Webster,BGF Green,1,0,,,,,,"",""
+ball,2,11.2,Gloucestershire,BJ Webster,JMR Taylor,BGF Green,1,0,,,,,,"",""
+ball,2,11.3,Gloucestershire,JMR Taylor,BJ Webster,BGF Green,0,2,,2,,,,"",""
+ball,2,11.4,Gloucestershire,JMR Taylor,BJ Webster,BGF Green,1,0,,,,,,"",""
+ball,2,11.5,Gloucestershire,BJ Webster,JMR Taylor,BGF Green,1,0,,,,,,"",""
+ball,2,11.6,Gloucestershire,JMR Taylor,BJ Webster,BGF Green,1,0,,,,,,"",""
+ball,2,11.7,Gloucestershire,BJ Webster,JMR Taylor,BGF Green,1,0,,,,,,"",""
+ball,2,12.1,Gloucestershire,BJ Webster,JMR Taylor,L Gregory,1,0,,,,,,"",""
+ball,2,12.2,Gloucestershire,JMR Taylor,BJ Webster,L Gregory,0,1,1,,,,,"",""
+ball,2,12.3,Gloucestershire,JMR Taylor,BJ Webster,L Gregory,4,0,,,,,,"",""
+ball,2,12.4,Gloucestershire,JMR Taylor,BJ Webster,L Gregory,1,0,,,,,,"",""
+ball,2,12.5,Gloucestershire,BJ Webster,JMR Taylor,L Gregory,6,0,,,,,,"",""
+ball,2,12.6,Gloucestershire,BJ Webster,JMR Taylor,L Gregory,1,0,,,,,,"",""
+ball,2,12.7,Gloucestershire,JMR Taylor,BJ Webster,L Gregory,0,0,,,,,,"",""
+ball,2,13.1,Gloucestershire,BJ Webster,JMR Taylor,RE van der Merwe,0,0,,,,,,"",""
+ball,2,13.2,Gloucestershire,BJ Webster,JMR Taylor,RE van der Merwe,1,0,,,,,,"",""
+ball,2,13.3,Gloucestershire,JMR Taylor,BJ Webster,RE van der Merwe,0,0,,,,,,"",""
+ball,2,13.4,Gloucestershire,JMR Taylor,BJ Webster,RE van der Merwe,0,1,1,,,,,"",""
+ball,2,13.5,Gloucestershire,JMR Taylor,BJ Webster,RE van der Merwe,4,0,,,,,,"",""
+ball,2,13.6,Gloucestershire,JMR Taylor,BJ Webster,RE van der Merwe,1,0,,,,,,"",""
+ball,2,13.7,Gloucestershire,BJ Webster,JMR Taylor,RE van der Merwe,1,0,,,,,,"",""
+ball,2,14.1,Gloucestershire,BJ Webster,JMR Taylor,JT Ball,4,0,,,,,,"",""
+ball,2,14.2,Gloucestershire,BJ Webster,JMR Taylor,JT Ball,6,0,,,,,,"",""
+ball,2,14.3,Gloucestershire,BJ Webster,JMR Taylor,JT Ball,0,0,,,,,,"",""
+ball,2,14.4,Gloucestershire,BJ Webster,JMR Taylor,JT Ball,1,0,,,,,,"",""
+ball,2,14.5,Gloucestershire,JMR Taylor,BJ Webster,JT Ball,0,1,1,,,,,"",""
+ball,2,14.6,Gloucestershire,JMR Taylor,BJ Webster,JT Ball,6,0,,,,,,"",""
+ball,2,14.7,Gloucestershire,JMR Taylor,BJ Webster,JT Ball,1,0,,,,,,"",""
+ball,2,15.1,Gloucestershire,JMR Taylor,BJ Webster,JH Davey,0,0,,,,,,"",""
+ball,2,15.2,Gloucestershire,JMR Taylor,BJ Webster,JH Davey,4,0,,,,,,"",""
+ball,2,15.3,Gloucestershire,JMR Taylor,BJ Webster,JH Davey,0,0,,,,,,caught,JMR Taylor
+ball,2,15.4,Gloucestershire,BG Charlesworth,BJ Webster,JH Davey,2,0,,,,,,"",""
+ball,2,15.5,Gloucestershire,BG Charlesworth,BJ Webster,JH Davey,1,0,,,,,,"",""
+ball,2,15.6,Gloucestershire,BJ Webster,BG Charlesworth,JH Davey,1,0,,,,,,"",""
+ball,2,16.1,Gloucestershire,BJ Webster,BG Charlesworth,BGF Green,1,0,,,,,,"",""
+ball,2,16.2,Gloucestershire,BG Charlesworth,BJ Webster,BGF Green,2,0,,,,,,"",""
+ball,2,16.3,Gloucestershire,BG Charlesworth,BJ Webster,BGF Green,4,0,,,,,,"",""
+ball,2,16.4,Gloucestershire,BG Charlesworth,BJ Webster,BGF Green,1,0,,,,,,"",""
+ball,2,16.5,Gloucestershire,BJ Webster,BG Charlesworth,BGF Green,1,0,,,,,,"",""
+ball,2,16.6,Gloucestershire,BG Charlesworth,BJ Webster,BGF Green,0,0,,,,,,"",""
+ball,2,17.1,Gloucestershire,BJ Webster,BG Charlesworth,L Gregory,0,0,,,,,,caught,BJ Webster
+ball,2,17.2,Gloucestershire,OJ Price,BG Charlesworth,L Gregory,1,0,,,,,,"",""
+ball,2,17.3,Gloucestershire,BG Charlesworth,OJ Price,L Gregory,1,0,,,,,,"",""
+ball,2,17.4,Gloucestershire,OJ Price,BG Charlesworth,L Gregory,0,0,,,,,,"",""
+ball,2,17.5,Gloucestershire,OJ Price,BG Charlesworth,L Gregory,4,0,,,,,,"",""
+ball,2,17.6,Gloucestershire,OJ Price,BG Charlesworth,L Gregory,4,0,,,,,,"",""
+ball,2,18.1,Gloucestershire,BG Charlesworth,OJ Price,JT Ball,1,0,,,,,,"",""
+ball,2,18.2,Gloucestershire,OJ Price,BG Charlesworth,JT Ball,0,0,,,,,,"",""
+ball,2,18.3,Gloucestershire,OJ Price,BG Charlesworth,JT Ball,0,1,1,,,,,"",""
+ball,2,18.4,Gloucestershire,OJ Price,BG Charlesworth,JT Ball,1,0,,,,,,"",""
+ball,2,18.5,Gloucestershire,BG Charlesworth,OJ Price,JT Ball,4,0,,,,,,"",""
+ball,2,18.6,Gloucestershire,BG Charlesworth,OJ Price,JT Ball,1,0,,,,,,"",""
+ball,2,18.7,Gloucestershire,OJ Price,BG Charlesworth,JT Ball,0,0,,,,,,"",""
+ball,2,19.1,Gloucestershire,BG Charlesworth,OJ Price,BGF Green,0,0,,,,,,"",""
+ball,2,19.2,Gloucestershire,BG Charlesworth,OJ Price,BGF Green,1,0,,,,,,"",""
+ball,2,19.3,Gloucestershire,OJ Price,BG Charlesworth,BGF Green,6,0,,,,,,"",""
+ball,2,19.4,Gloucestershire,OJ Price,BG Charlesworth,BGF Green,1,0,,,,,,"",""
+ball,2,19.5,Gloucestershire,BG Charlesworth,OJ Price,BGF Green,6,0,,,,,,"",""

@@ -1,0 +1,294 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,North West
+info,team,Knights
+info,gender,male
+info,season,2024/25
+info,date,2024/09/28
+info,event,CSA T20 Challenge
+info,match_number,2
+info,venue,"Mangaung Oval, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,North West
+info,toss_decision,bat
+info,umpire,A Steenkamp
+info,umpire,MN Gampu
+info,reserve_umpire,K Ntuli
+info,match_referee,CD Isaacs
+info,winner,North West
+info,winner_runs,3
+info,method,D/L
+info,player,North West,RA Herman
+info,player,North West,M Prince
+info,player,North West,WJ Lubbe
+info,player,North West,JN Malan
+info,player,North West,LC Ngoepe
+info,player,North West,D Jansen
+info,player,North West,MC Kleinveldt
+info,player,North West,M Pretorius
+info,player,North West,C Seleka
+info,player,North West,K Mungroo
+info,player,North West,A Cloete
+info,player,Knights,GJ Snyman
+info,player,Knights,GL Cloete
+info,player,Knights,L Senokwane
+info,player,Knights,P Botha
+info,player,Knights,D Forrester
+info,player,Knights,AR Swanepoel
+info,player,Knights,T van Vuuren
+info,player,Knights,AM Phangiso
+info,player,Knights,DL Piedt
+info,player,Knights,MP Siboto
+info,player,Knights,J van Dyk
+info,registry,people,A Cloete,45a6cf8a
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,C Seleka,be8b147b
+info,registry,people,CD Isaacs,c0215bbd
+info,registry,people,D Forrester,23393635
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,GJ Snyman,a3ae63f4
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,J van Dyk,d9ead847
+info,registry,people,JN Malan,f76d7466
+info,registry,people,K Mungroo,56feceb0
+info,registry,people,K Ntuli,12244a35
+info,registry,people,L Senokwane,7d9b4224
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,M Prince,aa80a6c3
+info,registry,people,MC Kleinveldt,961edf30
+info,registry,people,MN Gampu,41597619
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,P Botha,01dc3ec0
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,T van Vuuren,20afc7e7
+info,registry,people,WJ Lubbe,10f42013
+ball,1,0.1,North West,RA Herman,M Prince,D Forrester,0,0,,,,,,"",""
+ball,1,0.2,North West,RA Herman,M Prince,D Forrester,0,0,,,,,,caught,RA Herman
+ball,1,0.3,North West,WJ Lubbe,M Prince,D Forrester,4,0,,,,,,"",""
+ball,1,0.4,North West,WJ Lubbe,M Prince,D Forrester,0,0,,,,,,"",""
+ball,1,0.5,North West,WJ Lubbe,M Prince,D Forrester,1,0,,,,,,"",""
+ball,1,0.6,North West,M Prince,WJ Lubbe,D Forrester,0,0,,,,,,caught,M Prince
+ball,1,1.1,North West,WJ Lubbe,JN Malan,J van Dyk,0,0,,,,,,"",""
+ball,1,1.2,North West,WJ Lubbe,JN Malan,J van Dyk,1,0,,,,,,"",""
+ball,1,1.3,North West,JN Malan,WJ Lubbe,J van Dyk,0,1,,,,1,,"",""
+ball,1,1.4,North West,WJ Lubbe,JN Malan,J van Dyk,0,0,,,,,,"",""
+ball,1,1.5,North West,WJ Lubbe,JN Malan,J van Dyk,0,1,1,,,,,"",""
+ball,1,1.6,North West,WJ Lubbe,JN Malan,J van Dyk,4,0,,,,,,"",""
+ball,1,1.7,North West,WJ Lubbe,JN Malan,J van Dyk,0,0,,,,,,"",""
+ball,1,2.1,North West,JN Malan,WJ Lubbe,D Forrester,0,0,,,,,,"",""
+ball,1,2.2,North West,JN Malan,WJ Lubbe,D Forrester,0,0,,,,,,"",""
+ball,1,2.3,North West,JN Malan,WJ Lubbe,D Forrester,0,1,1,,,,,"",""
+ball,1,2.4,North West,JN Malan,WJ Lubbe,D Forrester,0,0,,,,,,"",""
+ball,1,2.5,North West,JN Malan,WJ Lubbe,D Forrester,0,0,,,,,,"",""
+ball,1,2.6,North West,JN Malan,WJ Lubbe,D Forrester,1,0,,,,,,"",""
+ball,1,2.7,North West,WJ Lubbe,JN Malan,D Forrester,1,0,,,,,,"",""
+ball,1,3.1,North West,WJ Lubbe,JN Malan,T van Vuuren,4,0,,,,,,"",""
+ball,1,3.2,North West,WJ Lubbe,JN Malan,T van Vuuren,0,0,,,,,,"",""
+ball,1,3.3,North West,WJ Lubbe,JN Malan,T van Vuuren,1,1,,1,,,,"",""
+ball,1,3.4,North West,JN Malan,WJ Lubbe,T van Vuuren,0,1,,,,1,,"",""
+ball,1,3.5,North West,WJ Lubbe,JN Malan,T van Vuuren,1,0,,,,,,"",""
+ball,1,3.6,North West,JN Malan,WJ Lubbe,T van Vuuren,0,1,,,,1,,"",""
+ball,1,3.7,North West,WJ Lubbe,JN Malan,T van Vuuren,0,0,,,,,,"",""
+ball,1,4.1,North West,JN Malan,WJ Lubbe,D Forrester,1,0,,,,,,"",""
+ball,1,4.2,North West,WJ Lubbe,JN Malan,D Forrester,2,0,,,,,,"",""
+ball,1,4.3,North West,WJ Lubbe,JN Malan,D Forrester,2,0,,,,,,"",""
+ball,1,4.4,North West,WJ Lubbe,JN Malan,D Forrester,0,0,,,,,,"",""
+ball,1,4.5,North West,WJ Lubbe,JN Malan,D Forrester,1,0,,,,,,"",""
+ball,1,4.6,North West,JN Malan,WJ Lubbe,D Forrester,0,1,,,,1,,"",""
+ball,1,5.1,North West,JN Malan,WJ Lubbe,MP Siboto,0,0,,,,,,"",""
+ball,1,5.2,North West,JN Malan,WJ Lubbe,MP Siboto,0,0,,,,,,"",""
+ball,1,5.3,North West,JN Malan,WJ Lubbe,MP Siboto,1,0,,,,,,"",""
+ball,1,5.4,North West,WJ Lubbe,JN Malan,MP Siboto,6,0,,,,,,"",""
+ball,1,5.5,North West,WJ Lubbe,JN Malan,MP Siboto,1,0,,,,,,"",""
+ball,1,5.6,North West,JN Malan,WJ Lubbe,MP Siboto,2,0,,,,,,"",""
+ball,1,6.1,North West,WJ Lubbe,JN Malan,DL Piedt,1,0,,,,,,"",""
+ball,1,6.2,North West,JN Malan,WJ Lubbe,DL Piedt,1,0,,,,,,"",""
+ball,1,6.3,North West,WJ Lubbe,JN Malan,DL Piedt,0,1,1,,,,,"",""
+ball,1,6.4,North West,WJ Lubbe,JN Malan,DL Piedt,1,0,,,,,,"",""
+ball,1,6.5,North West,JN Malan,WJ Lubbe,DL Piedt,1,0,,,,,,"",""
+ball,1,6.6,North West,WJ Lubbe,JN Malan,DL Piedt,0,0,,,,,,"",""
+ball,1,6.7,North West,WJ Lubbe,JN Malan,DL Piedt,0,1,,,,1,,"",""
+ball,1,7.1,North West,WJ Lubbe,JN Malan,AM Phangiso,2,0,,,,,,"",""
+ball,1,7.2,North West,WJ Lubbe,JN Malan,AM Phangiso,2,0,,,,,,"",""
+ball,1,7.3,North West,WJ Lubbe,JN Malan,AM Phangiso,0,0,,,,,,"",""
+ball,1,7.4,North West,WJ Lubbe,JN Malan,AM Phangiso,1,0,,,,,,"",""
+ball,1,7.5,North West,JN Malan,WJ Lubbe,AM Phangiso,1,0,,,,,,"",""
+ball,1,7.6,North West,WJ Lubbe,JN Malan,AM Phangiso,4,0,,,,,,"",""
+ball,1,8.1,North West,JN Malan,WJ Lubbe,DL Piedt,2,0,,,,,,"",""
+ball,1,8.2,North West,JN Malan,WJ Lubbe,DL Piedt,0,0,,,,,,"",""
+ball,1,8.3,North West,JN Malan,WJ Lubbe,DL Piedt,0,0,,,,,,"",""
+ball,1,8.4,North West,JN Malan,WJ Lubbe,DL Piedt,1,0,,,,,,"",""
+ball,1,8.5,North West,WJ Lubbe,JN Malan,DL Piedt,1,0,,,,,,"",""
+ball,1,8.6,North West,JN Malan,WJ Lubbe,DL Piedt,0,0,,,,,,"",""
+ball,1,9.1,North West,WJ Lubbe,JN Malan,AR Swanepoel,1,0,,,,,,"",""
+ball,1,9.2,North West,JN Malan,WJ Lubbe,AR Swanepoel,2,0,,,,,,"",""
+ball,1,9.3,North West,JN Malan,WJ Lubbe,AR Swanepoel,2,0,,,,,,"",""
+ball,1,9.4,North West,JN Malan,WJ Lubbe,AR Swanepoel,1,0,,,,,,"",""
+ball,1,9.5,North West,WJ Lubbe,JN Malan,AR Swanepoel,2,0,,,,,,"",""
+ball,1,9.6,North West,WJ Lubbe,JN Malan,AR Swanepoel,2,0,,,,,,"",""
+ball,1,10.1,North West,JN Malan,WJ Lubbe,DL Piedt,0,0,,,,,,"",""
+ball,1,10.2,North West,JN Malan,WJ Lubbe,DL Piedt,1,0,,,,,,"",""
+ball,1,10.3,North West,WJ Lubbe,JN Malan,DL Piedt,1,0,,,,,,"",""
+ball,1,10.4,North West,JN Malan,WJ Lubbe,DL Piedt,0,0,,,,,,"",""
+ball,1,10.5,North West,JN Malan,WJ Lubbe,DL Piedt,0,2,2,,,,,"",""
+ball,1,10.6,North West,WJ Lubbe,JN Malan,DL Piedt,1,0,,,,,,"",""
+ball,1,10.7,North West,JN Malan,WJ Lubbe,DL Piedt,1,0,,,,,,"",""
+ball,1,11.1,North West,JN Malan,WJ Lubbe,AM Phangiso,1,0,,,,,,"",""
+ball,1,11.2,North West,WJ Lubbe,JN Malan,AM Phangiso,0,1,1,,,,,"",""
+ball,1,11.3,North West,WJ Lubbe,JN Malan,AM Phangiso,1,0,,,,,,"",""
+ball,1,11.4,North West,JN Malan,WJ Lubbe,AM Phangiso,0,0,,,,,,"",""
+ball,1,11.5,North West,JN Malan,WJ Lubbe,AM Phangiso,6,0,,,,,,"",""
+ball,1,11.6,North West,JN Malan,WJ Lubbe,AM Phangiso,1,0,,,,,,"",""
+ball,1,11.7,North West,WJ Lubbe,JN Malan,AM Phangiso,1,0,,,,,,"",""
+ball,1,12.1,North West,WJ Lubbe,JN Malan,MP Siboto,4,0,,,,,,"",""
+ball,1,12.2,North West,WJ Lubbe,JN Malan,MP Siboto,4,0,,,,,,"",""
+ball,1,12.3,North West,WJ Lubbe,JN Malan,MP Siboto,0,0,,,,,,caught,WJ Lubbe
+ball,1,12.4,North West,LC Ngoepe,JN Malan,MP Siboto,2,0,,,,,,"",""
+ball,1,12.5,North West,LC Ngoepe,JN Malan,MP Siboto,0,0,,,,,,"",""
+ball,1,12.6,North West,LC Ngoepe,JN Malan,MP Siboto,1,0,,,,,,"",""
+ball,1,13.1,North West,LC Ngoepe,JN Malan,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.2,North West,JN Malan,LC Ngoepe,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.3,North West,LC Ngoepe,JN Malan,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.4,North West,JN Malan,LC Ngoepe,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.5,North West,LC Ngoepe,JN Malan,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.6,North West,JN Malan,LC Ngoepe,AM Phangiso,1,0,,,,,,"",""
+ball,1,14.1,North West,JN Malan,LC Ngoepe,MP Siboto,2,0,,,,,,"",""
+ball,1,14.2,North West,JN Malan,LC Ngoepe,MP Siboto,1,0,,,,,,"",""
+ball,1,14.3,North West,LC Ngoepe,JN Malan,MP Siboto,1,0,,,,,,"",""
+ball,1,14.4,North West,JN Malan,LC Ngoepe,MP Siboto,2,0,,,,,,"",""
+ball,1,14.5,North West,JN Malan,LC Ngoepe,MP Siboto,1,0,,,,,,"",""
+ball,1,14.6,North West,LC Ngoepe,JN Malan,MP Siboto,2,0,,,,,,"",""
+ball,1,15.1,North West,JN Malan,LC Ngoepe,D Forrester,1,0,,,,,,"",""
+ball,1,15.2,North West,LC Ngoepe,JN Malan,D Forrester,4,0,,,,,,"",""
+ball,1,15.3,North West,LC Ngoepe,JN Malan,D Forrester,0,0,,,,,,"",""
+ball,1,15.4,North West,LC Ngoepe,JN Malan,D Forrester,0,0,,,,,,"",""
+ball,1,15.5,North West,LC Ngoepe,JN Malan,D Forrester,2,0,,,,,,"",""
+ball,1,15.6,North West,LC Ngoepe,JN Malan,D Forrester,1,0,,,,,,"",""
+ball,1,16.1,North West,LC Ngoepe,JN Malan,J van Dyk,1,0,,,,,,"",""
+ball,1,16.2,North West,JN Malan,LC Ngoepe,J van Dyk,2,0,,,,,,"",""
+ball,1,16.3,North West,JN Malan,LC Ngoepe,J van Dyk,1,0,,,,,,"",""
+ball,1,16.4,North West,LC Ngoepe,JN Malan,J van Dyk,0,0,,,,,,"",""
+ball,1,16.5,North West,LC Ngoepe,JN Malan,J van Dyk,1,0,,,,,,"",""
+ball,1,16.6,North West,JN Malan,LC Ngoepe,J van Dyk,1,0,,,,,,"",""
+ball,1,17.1,North West,JN Malan,LC Ngoepe,MP Siboto,0,0,,,,,,"",""
+ball,1,17.2,North West,JN Malan,LC Ngoepe,MP Siboto,0,0,,,,,,caught,JN Malan
+ball,1,17.3,North West,D Jansen,LC Ngoepe,MP Siboto,1,0,,,,,,"",""
+ball,1,17.4,North West,LC Ngoepe,D Jansen,MP Siboto,0,1,1,,,,,"",""
+ball,1,17.5,North West,LC Ngoepe,D Jansen,MP Siboto,4,0,,,,,,"",""
+ball,1,17.6,North West,LC Ngoepe,D Jansen,MP Siboto,4,0,,,,,,"",""
+ball,1,17.7,North West,LC Ngoepe,D Jansen,MP Siboto,6,0,,,,,,"",""
+ball,2,0.1,Knights,GJ Snyman,GL Cloete,M Pretorius,0,0,,,,,,"",""
+ball,2,0.2,Knights,GJ Snyman,GL Cloete,M Pretorius,4,0,,,,,,"",""
+ball,2,0.3,Knights,GJ Snyman,GL Cloete,M Pretorius,0,1,,,,1,,"",""
+ball,2,0.4,Knights,GL Cloete,GJ Snyman,M Pretorius,1,0,,,,,,"",""
+ball,2,0.5,Knights,GJ Snyman,GL Cloete,M Pretorius,4,0,,,,,,"",""
+ball,2,0.6,Knights,GJ Snyman,GL Cloete,M Pretorius,0,1,,,,1,,"",""
+ball,2,1.1,Knights,GJ Snyman,GL Cloete,K Mungroo,6,0,,,,,,"",""
+ball,2,1.2,Knights,GJ Snyman,GL Cloete,K Mungroo,0,4,,,,4,,"",""
+ball,2,1.3,Knights,GJ Snyman,GL Cloete,K Mungroo,1,0,,,,,,"",""
+ball,2,1.4,Knights,GL Cloete,GJ Snyman,K Mungroo,0,1,,,,1,,"",""
+ball,2,1.5,Knights,GJ Snyman,GL Cloete,K Mungroo,1,0,,,,,,"",""
+ball,2,1.6,Knights,GL Cloete,GJ Snyman,K Mungroo,0,1,,,,1,,"",""
+ball,2,2.1,Knights,GL Cloete,GJ Snyman,D Jansen,1,0,,,,,,"",""
+ball,2,2.2,Knights,GJ Snyman,GL Cloete,D Jansen,0,0,,,,,,caught,GJ Snyman
+ball,2,2.3,Knights,L Senokwane,GL Cloete,D Jansen,1,0,,,,,,"",""
+ball,2,2.4,Knights,GL Cloete,L Senokwane,D Jansen,0,1,1,,,,,"",""
+ball,2,2.5,Knights,GL Cloete,L Senokwane,D Jansen,0,0,,,,,,"",""
+ball,2,2.6,Knights,GL Cloete,L Senokwane,D Jansen,0,0,,,,,,"",""
+ball,2,2.7,Knights,GL Cloete,L Senokwane,D Jansen,0,0,,,,,,caught,GL Cloete
+ball,2,3.1,Knights,L Senokwane,P Botha,K Mungroo,4,0,,,,,,"",""
+ball,2,3.2,Knights,L Senokwane,P Botha,K Mungroo,1,0,,,,,,"",""
+ball,2,3.3,Knights,P Botha,L Senokwane,K Mungroo,2,0,,,,,,"",""
+ball,2,3.4,Knights,P Botha,L Senokwane,K Mungroo,0,0,,,,,,"",""
+ball,2,3.5,Knights,P Botha,L Senokwane,K Mungroo,0,0,,,,,,"",""
+ball,2,3.6,Knights,P Botha,L Senokwane,K Mungroo,0,1,,,,1,,"",""
+ball,2,4.1,Knights,P Botha,L Senokwane,M Pretorius,4,0,,,,,,"",""
+ball,2,4.2,Knights,P Botha,L Senokwane,M Pretorius,4,0,,,,,,"",""
+ball,2,4.3,Knights,P Botha,L Senokwane,M Pretorius,0,0,,,,,,"",""
+ball,2,4.4,Knights,P Botha,L Senokwane,M Pretorius,1,0,,,,,,"",""
+ball,2,4.5,Knights,L Senokwane,P Botha,M Pretorius,0,0,,,,,,"",""
+ball,2,4.6,Knights,L Senokwane,P Botha,M Pretorius,0,0,,,,,,"",""
+ball,2,5.1,Knights,P Botha,L Senokwane,K Mungroo,4,0,,,,,,"",""
+ball,2,5.2,Knights,P Botha,L Senokwane,K Mungroo,1,0,,,,,,"",""
+ball,2,5.3,Knights,L Senokwane,P Botha,K Mungroo,0,0,,,,,,"",""
+ball,2,5.4,Knights,L Senokwane,P Botha,K Mungroo,0,0,,,,,,"",""
+ball,2,5.5,Knights,L Senokwane,P Botha,K Mungroo,1,0,,,,,,"",""
+ball,2,5.6,Knights,P Botha,L Senokwane,K Mungroo,1,0,,,,,,"",""
+ball,2,6.1,Knights,P Botha,L Senokwane,D Jansen,0,1,1,,,,,"",""
+ball,2,6.2,Knights,P Botha,L Senokwane,D Jansen,4,0,,,,,,"",""
+ball,2,6.3,Knights,P Botha,L Senokwane,D Jansen,0,0,,,,,,"",""
+ball,2,6.4,Knights,P Botha,L Senokwane,D Jansen,0,0,,,,,,caught,P Botha
+ball,2,6.5,Knights,D Forrester,L Senokwane,D Jansen,0,0,,,,,,"",""
+ball,2,6.6,Knights,D Forrester,L Senokwane,D Jansen,0,0,,,,,,"",""
+ball,2,6.7,Knights,D Forrester,L Senokwane,D Jansen,0,1,1,,,,,"",""
+ball,2,6.8,Knights,D Forrester,L Senokwane,D Jansen,1,0,,,,,,"",""
+ball,2,7.1,Knights,D Forrester,L Senokwane,C Seleka,4,0,,,,,,"",""
+ball,2,7.2,Knights,D Forrester,L Senokwane,C Seleka,6,0,,,,,,"",""
+ball,2,7.3,Knights,D Forrester,L Senokwane,C Seleka,0,0,,,,,,"",""
+ball,2,7.4,Knights,D Forrester,L Senokwane,C Seleka,0,0,,,,,,"",""
+ball,2,7.5,Knights,D Forrester,L Senokwane,C Seleka,1,0,,,,,,"",""
+ball,2,7.6,Knights,L Senokwane,D Forrester,C Seleka,0,0,,,,,,"",""
+ball,2,8.1,Knights,D Forrester,L Senokwane,D Jansen,1,0,,,,,,"",""
+ball,2,8.2,Knights,L Senokwane,D Forrester,D Jansen,0,0,,,,,,"",""
+ball,2,8.3,Knights,L Senokwane,D Forrester,D Jansen,6,0,,,,,,"",""
+ball,2,8.4,Knights,L Senokwane,D Forrester,D Jansen,1,0,,,,,,"",""
+ball,2,8.5,Knights,D Forrester,L Senokwane,D Jansen,0,0,,,,,,"",""
+ball,2,8.6,Knights,D Forrester,L Senokwane,D Jansen,0,0,,,,,,"",""
+ball,2,9.1,Knights,L Senokwane,D Forrester,C Seleka,1,0,,,,,,"",""
+ball,2,9.2,Knights,D Forrester,L Senokwane,C Seleka,0,0,,,,,,"",""
+ball,2,9.3,Knights,D Forrester,L Senokwane,C Seleka,2,0,,,,,,"",""
+ball,2,9.4,Knights,D Forrester,L Senokwane,C Seleka,0,0,,,,,,"",""
+ball,2,9.5,Knights,D Forrester,L Senokwane,C Seleka,0,0,,,,,,"",""
+ball,2,9.6,Knights,D Forrester,L Senokwane,C Seleka,2,0,,,,,,"",""
+ball,2,10.1,Knights,L Senokwane,D Forrester,A Cloete,1,0,,,,,,"",""
+ball,2,10.2,Knights,D Forrester,L Senokwane,A Cloete,4,0,,,,,,"",""
+ball,2,10.3,Knights,D Forrester,L Senokwane,A Cloete,1,0,,,,,,"",""
+ball,2,10.4,Knights,L Senokwane,D Forrester,A Cloete,1,0,,,,,,"",""
+ball,2,10.5,Knights,D Forrester,L Senokwane,A Cloete,2,0,,,,,,"",""
+ball,2,10.6,Knights,D Forrester,L Senokwane,A Cloete,1,0,,,,,,"",""
+ball,2,11.1,Knights,D Forrester,L Senokwane,WJ Lubbe,1,0,,,,,,"",""
+ball,2,11.2,Knights,L Senokwane,D Forrester,WJ Lubbe,1,0,,,,,,"",""
+ball,2,11.3,Knights,D Forrester,L Senokwane,WJ Lubbe,0,4,,,4,,,"",""
+ball,2,11.4,Knights,D Forrester,L Senokwane,WJ Lubbe,1,0,,,,,,"",""
+ball,2,11.5,Knights,L Senokwane,D Forrester,WJ Lubbe,1,0,,,,,,"",""
+ball,2,11.6,Knights,D Forrester,L Senokwane,WJ Lubbe,1,0,,,,,,"",""
+ball,2,12.1,Knights,D Forrester,L Senokwane,M Pretorius,1,0,,,,,,"",""
+ball,2,12.2,Knights,L Senokwane,D Forrester,M Pretorius,1,0,,,,,,"",""
+ball,2,12.3,Knights,D Forrester,L Senokwane,M Pretorius,0,1,,,1,,,"",""
+ball,2,12.4,Knights,L Senokwane,D Forrester,M Pretorius,1,0,,,,,,"",""
+ball,2,12.5,Knights,D Forrester,L Senokwane,M Pretorius,4,0,,,,,,"",""
+ball,2,12.6,Knights,D Forrester,L Senokwane,M Pretorius,1,0,,,,,,"",""
+ball,2,13.1,Knights,D Forrester,L Senokwane,WJ Lubbe,2,0,,,,,,"",""
+ball,2,13.2,Knights,D Forrester,L Senokwane,WJ Lubbe,1,0,,,,,,"",""
+ball,2,13.3,Knights,L Senokwane,D Forrester,WJ Lubbe,1,0,,,,,,"",""
+ball,2,13.4,Knights,D Forrester,L Senokwane,WJ Lubbe,1,0,,,,,,"",""
+ball,2,13.5,Knights,L Senokwane,D Forrester,WJ Lubbe,1,0,,,,,,"",""
+ball,2,13.6,Knights,D Forrester,L Senokwane,WJ Lubbe,2,0,,,,,,"",""
+ball,2,14.1,Knights,L Senokwane,D Forrester,D Jansen,4,0,,,,,,"",""
+ball,2,14.2,Knights,L Senokwane,D Forrester,D Jansen,2,0,,,,,,"",""
+ball,2,14.3,Knights,L Senokwane,D Forrester,D Jansen,4,0,,,,,,"",""
+ball,2,14.4,Knights,L Senokwane,D Forrester,D Jansen,0,0,,,,,,"",""
+ball,2,14.5,Knights,L Senokwane,D Forrester,D Jansen,1,0,,,,,,"",""
+ball,2,14.6,Knights,D Forrester,L Senokwane,D Jansen,1,0,,,,,,"",""
+ball,2,15.1,Knights,D Forrester,L Senokwane,C Seleka,2,0,,,,,,"",""
+ball,2,15.2,Knights,D Forrester,L Senokwane,C Seleka,1,0,,,,,,"",""
+ball,2,15.3,Knights,L Senokwane,D Forrester,C Seleka,0,0,,,,,,"",""
+ball,2,15.4,Knights,L Senokwane,D Forrester,C Seleka,2,0,,,,,,"",""
+ball,2,15.5,Knights,L Senokwane,D Forrester,C Seleka,2,0,,,,,,"",""
+ball,2,15.6,Knights,L Senokwane,D Forrester,C Seleka,1,0,,,,,,"",""
+ball,2,16.1,Knights,L Senokwane,D Forrester,K Mungroo,0,0,,,,,,caught,L Senokwane
+ball,2,16.2,Knights,AR Swanepoel,D Forrester,K Mungroo,0,0,,,,,,"",""
+ball,2,16.3,Knights,AR Swanepoel,D Forrester,K Mungroo,0,0,,,,,,"",""
+ball,2,16.4,Knights,AR Swanepoel,D Forrester,K Mungroo,0,0,,,,,,"",""
+ball,2,16.5,Knights,AR Swanepoel,D Forrester,K Mungroo,0,0,,,,,,"",""
+ball,2,16.6,Knights,AR Swanepoel,D Forrester,K Mungroo,1,0,,,,,,"",""
+ball,2,17.1,Knights,AR Swanepoel,D Forrester,M Pretorius,0,0,,,,,,"",""
+ball,2,17.2,Knights,AR Swanepoel,D Forrester,M Pretorius,0,0,,,,,,run out,AR Swanepoel
+ball,2,17.3,Knights,D Forrester,T van Vuuren,M Pretorius,1,0,,,,,,"",""
+ball,2,17.4,Knights,T van Vuuren,D Forrester,M Pretorius,2,0,,,,,,"",""
+ball,2,17.5,Knights,T van Vuuren,D Forrester,M Pretorius,2,0,,,,,,run out,T van Vuuren
+ball,2,17.6,Knights,D Forrester,AM Phangiso,M Pretorius,1,0,,,,,,"",""

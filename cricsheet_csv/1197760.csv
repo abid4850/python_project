@@ -1,0 +1,305 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Northern Districts
+info,gender,male
+info,season,2019/20
+info,date,2020/01/03
+info,event,Super Smash
+info,match_number,20
+info,venue,Basin Reserve
+info,city,Wellington
+info,toss_winner,Wellington
+info,toss_decision,bat
+info,umpire,DJ Walker
+info,umpire,SB Haig
+info,reserve_umpire,Kim Cotton
+info,tv_umpire,GA Stirrat
+info,winner,Wellington
+info,winner_runs,52
+info,player,Wellington,DP Conway
+info,player,Wellington,MA Pollard
+info,player,Wellington,R Ravindra
+info,player,Wellington,JDS Neesham
+info,player,Wellington,MG Bracewell
+info,player,Wellington,FJ Colson
+info,player,Wellington,JD Gibson
+info,player,Wellington,MJ Nofal
+info,player,Wellington,LV van Beek
+info,player,Wellington,OR Newton
+info,player,Wellington,HK Bennett
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,A Verma
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,BG Randell
+info,registry,people,A Verma,8e9a5d20
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DP Conway,df5a6881
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,FJ Colson,c2327c5d
+info,registry,people,GA Stirrat,6c46022b
+info,registry,people,HK Bennett,94238673
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JD Gibson,57f520ee
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JF Carter,125fa4de
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Pollard,d3b84c59
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Nofal,ac762575
+info,registry,people,OR Newton,4e520f6c
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,SB Haig,811655b3
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TL Seifert,4663bd23
+ball,1,0.1,Wellington,DP Conway,MA Pollard,AP Devcich,1,0,,,,,,"",""
+ball,1,0.2,Wellington,MA Pollard,DP Conway,AP Devcich,0,0,,,,,,"",""
+ball,1,0.3,Wellington,MA Pollard,DP Conway,AP Devcich,0,0,,,,,,"",""
+ball,1,0.4,Wellington,MA Pollard,DP Conway,AP Devcich,1,0,,,,,,"",""
+ball,1,0.5,Wellington,DP Conway,MA Pollard,AP Devcich,1,0,,,,,,"",""
+ball,1,0.6,Wellington,MA Pollard,DP Conway,AP Devcich,6,0,,,,,,"",""
+ball,1,1.1,Wellington,DP Conway,MA Pollard,SC Kuggeleijn,0,1,,,,1,,"",""
+ball,1,1.2,Wellington,MA Pollard,DP Conway,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,1.3,Wellington,MA Pollard,DP Conway,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,1.4,Wellington,MA Pollard,DP Conway,SC Kuggeleijn,0,1,,,,1,,"",""
+ball,1,1.5,Wellington,DP Conway,MA Pollard,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,1.6,Wellington,DP Conway,MA Pollard,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,2.1,Wellington,MA Pollard,DP Conway,AP Devcich,1,0,,,,,,"",""
+ball,1,2.2,Wellington,DP Conway,MA Pollard,AP Devcich,1,0,,,,,,"",""
+ball,1,2.3,Wellington,MA Pollard,DP Conway,AP Devcich,1,0,,,,,,"",""
+ball,1,2.4,Wellington,DP Conway,MA Pollard,AP Devcich,0,0,,,,,,"",""
+ball,1,2.5,Wellington,DP Conway,MA Pollard,AP Devcich,4,0,,,,,,"",""
+ball,1,2.6,Wellington,DP Conway,MA Pollard,AP Devcich,0,0,,,,,,"",""
+ball,1,3.1,Wellington,MA Pollard,DP Conway,BG Randell,4,0,,,,,,"",""
+ball,1,3.2,Wellington,MA Pollard,DP Conway,BG Randell,1,0,,,,,,"",""
+ball,1,3.3,Wellington,DP Conway,MA Pollard,BG Randell,0,0,,,,,,caught,DP Conway
+ball,1,3.4,Wellington,R Ravindra,MA Pollard,BG Randell,0,1,1,,,,,"",""
+ball,1,3.5,Wellington,R Ravindra,MA Pollard,BG Randell,0,0,,,,,,"",""
+ball,1,3.6,Wellington,R Ravindra,MA Pollard,BG Randell,1,0,,,,,,"",""
+ball,1,3.7,Wellington,MA Pollard,R Ravindra,BG Randell,1,0,,,,,,"",""
+ball,1,4.1,Wellington,MA Pollard,R Ravindra,A Verma,0,0,,,,,,"",""
+ball,1,4.2,Wellington,MA Pollard,R Ravindra,A Verma,0,0,,,,,,"",""
+ball,1,4.3,Wellington,MA Pollard,R Ravindra,A Verma,1,0,,,,,,"",""
+ball,1,4.4,Wellington,R Ravindra,MA Pollard,A Verma,1,0,,,,,,"",""
+ball,1,4.5,Wellington,MA Pollard,R Ravindra,A Verma,4,0,,,,,,"",""
+ball,1,4.6,Wellington,MA Pollard,R Ravindra,A Verma,0,1,,,,1,,"",""
+ball,1,5.1,Wellington,MA Pollard,R Ravindra,BG Randell,0,0,,,,,,"",""
+ball,1,5.2,Wellington,MA Pollard,R Ravindra,BG Randell,2,0,,,,,,"",""
+ball,1,5.3,Wellington,MA Pollard,R Ravindra,BG Randell,1,0,,,,,,"",""
+ball,1,5.4,Wellington,R Ravindra,MA Pollard,BG Randell,6,0,,,,,,"",""
+ball,1,5.5,Wellington,R Ravindra,MA Pollard,BG Randell,4,0,,,,,,"",""
+ball,1,5.6,Wellington,R Ravindra,MA Pollard,BG Randell,2,0,,,,,,"",""
+ball,1,6.1,Wellington,MA Pollard,R Ravindra,IS Sodhi,0,0,,,,,,"",""
+ball,1,6.2,Wellington,MA Pollard,R Ravindra,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.3,Wellington,R Ravindra,MA Pollard,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.4,Wellington,MA Pollard,R Ravindra,IS Sodhi,4,0,,,,,,"",""
+ball,1,6.5,Wellington,MA Pollard,R Ravindra,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.6,Wellington,R Ravindra,MA Pollard,IS Sodhi,1,0,,,,,,"",""
+ball,1,7.1,Wellington,R Ravindra,MA Pollard,A Verma,2,0,,,,,,"",""
+ball,1,7.2,Wellington,R Ravindra,MA Pollard,A Verma,1,0,,,,,,"",""
+ball,1,7.3,Wellington,MA Pollard,R Ravindra,A Verma,0,0,,,,,,"",""
+ball,1,7.4,Wellington,MA Pollard,R Ravindra,A Verma,0,0,,,,,,"",""
+ball,1,7.5,Wellington,MA Pollard,R Ravindra,A Verma,1,0,,,,,,"",""
+ball,1,7.6,Wellington,R Ravindra,MA Pollard,A Verma,2,0,,,,,,"",""
+ball,1,8.1,Wellington,MA Pollard,R Ravindra,IS Sodhi,0,2,,,,2,,"",""
+ball,1,8.2,Wellington,MA Pollard,R Ravindra,IS Sodhi,1,0,,,,,,"",""
+ball,1,8.3,Wellington,R Ravindra,MA Pollard,IS Sodhi,0,0,,,,,,"",""
+ball,1,8.4,Wellington,R Ravindra,MA Pollard,IS Sodhi,1,0,,,,,,"",""
+ball,1,8.5,Wellington,MA Pollard,R Ravindra,IS Sodhi,1,0,,,,,,"",""
+ball,1,8.6,Wellington,R Ravindra,MA Pollard,IS Sodhi,4,0,,,,,,"",""
+ball,1,9.1,Wellington,MA Pollard,R Ravindra,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,9.2,Wellington,R Ravindra,MA Pollard,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,9.3,Wellington,R Ravindra,MA Pollard,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,9.4,Wellington,R Ravindra,MA Pollard,SC Kuggeleijn,1,1,,1,,,,"",""
+ball,1,9.5,Wellington,MA Pollard,R Ravindra,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,9.6,Wellington,MA Pollard,R Ravindra,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,9.7,Wellington,MA Pollard,R Ravindra,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,10.1,Wellington,R Ravindra,MA Pollard,AP Devcich,6,0,,,,,,"",""
+ball,1,10.2,Wellington,R Ravindra,MA Pollard,AP Devcich,2,0,,,,,,"",""
+ball,1,10.3,Wellington,R Ravindra,MA Pollard,AP Devcich,0,0,,,,,,caught,R Ravindra
+ball,1,10.4,Wellington,JDS Neesham,MA Pollard,AP Devcich,4,0,,,,,,"",""
+ball,1,10.5,Wellington,JDS Neesham,MA Pollard,AP Devcich,1,0,,,,,,"",""
+ball,1,10.6,Wellington,MA Pollard,JDS Neesham,AP Devcich,0,0,,,,,,"",""
+ball,1,11.1,Wellington,JDS Neesham,MA Pollard,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,11.2,Wellington,MA Pollard,JDS Neesham,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,11.3,Wellington,MA Pollard,JDS Neesham,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,11.4,Wellington,MA Pollard,JDS Neesham,SC Kuggeleijn,0,0,,,,,,caught and bowled,MA Pollard
+ball,1,11.5,Wellington,JDS Neesham,MG Bracewell,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,11.6,Wellington,JDS Neesham,MG Bracewell,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,12.1,Wellington,MG Bracewell,JDS Neesham,IS Sodhi,1,0,,,,,,"",""
+ball,1,12.2,Wellington,JDS Neesham,MG Bracewell,IS Sodhi,1,0,,,,,,"",""
+ball,1,12.3,Wellington,MG Bracewell,JDS Neesham,IS Sodhi,1,0,,,,,,"",""
+ball,1,12.4,Wellington,JDS Neesham,MG Bracewell,IS Sodhi,0,0,,,,,,"",""
+ball,1,12.5,Wellington,JDS Neesham,MG Bracewell,IS Sodhi,1,0,,,,,,"",""
+ball,1,12.6,Wellington,MG Bracewell,JDS Neesham,IS Sodhi,0,0,,,,,,"",""
+ball,1,13.1,Wellington,JDS Neesham,MG Bracewell,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,13.2,Wellington,MG Bracewell,JDS Neesham,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,13.3,Wellington,JDS Neesham,MG Bracewell,SC Kuggeleijn,0,1,,,,1,,"",""
+ball,1,13.4,Wellington,MG Bracewell,JDS Neesham,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,1,13.5,Wellington,MG Bracewell,JDS Neesham,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,13.6,Wellington,MG Bracewell,JDS Neesham,SC Kuggeleijn,2,0,,,,,,"",""
+ball,1,13.7,Wellington,MG Bracewell,JDS Neesham,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,14.1,Wellington,MG Bracewell,JDS Neesham,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.2,Wellington,JDS Neesham,MG Bracewell,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.3,Wellington,MG Bracewell,JDS Neesham,IS Sodhi,2,0,,,,,,"",""
+ball,1,14.4,Wellington,MG Bracewell,JDS Neesham,IS Sodhi,1,0,,,,,,"",""
+ball,1,14.5,Wellington,JDS Neesham,MG Bracewell,IS Sodhi,0,0,,,,,,"",""
+ball,1,14.6,Wellington,JDS Neesham,MG Bracewell,IS Sodhi,1,0,,,,,,"",""
+ball,1,15.1,Wellington,JDS Neesham,MG Bracewell,A Verma,6,0,,,,,,"",""
+ball,1,15.2,Wellington,JDS Neesham,MG Bracewell,A Verma,1,0,,,,,,"",""
+ball,1,15.3,Wellington,MG Bracewell,JDS Neesham,A Verma,0,1,,,,1,,"",""
+ball,1,15.4,Wellington,JDS Neesham,MG Bracewell,A Verma,1,1,,1,,,,"",""
+ball,1,15.5,Wellington,MG Bracewell,JDS Neesham,A Verma,2,0,,,,,,"",""
+ball,1,15.6,Wellington,MG Bracewell,JDS Neesham,A Verma,0,1,1,,,,,"",""
+ball,1,15.7,Wellington,MG Bracewell,JDS Neesham,A Verma,2,0,,,,,,"",""
+ball,1,15.8,Wellington,MG Bracewell,JDS Neesham,A Verma,1,0,,,,,,"",""
+ball,1,16.1,Wellington,MG Bracewell,JDS Neesham,DJ Mitchell,0,0,,,,,,caught,MG Bracewell
+ball,1,16.2,Wellington,JDS Neesham,FJ Colson,DJ Mitchell,1,0,,,,,,"",""
+ball,1,16.3,Wellington,FJ Colson,JDS Neesham,DJ Mitchell,2,0,,,,,,"",""
+ball,1,16.4,Wellington,FJ Colson,JDS Neesham,DJ Mitchell,1,0,,,,,,"",""
+ball,1,16.5,Wellington,JDS Neesham,FJ Colson,DJ Mitchell,0,0,,,,,,"",""
+ball,1,16.6,Wellington,JDS Neesham,FJ Colson,DJ Mitchell,0,0,,,,,,"",""
+ball,1,17.1,Wellington,FJ Colson,JDS Neesham,BG Randell,1,0,,,,,,"",""
+ball,1,17.2,Wellington,JDS Neesham,FJ Colson,BG Randell,4,0,,,,,,"",""
+ball,1,17.3,Wellington,JDS Neesham,FJ Colson,BG Randell,1,1,,1,,,,"",""
+ball,1,17.4,Wellington,FJ Colson,JDS Neesham,BG Randell,1,0,,,,,,"",""
+ball,1,17.5,Wellington,JDS Neesham,FJ Colson,BG Randell,2,0,,,,,,"",""
+ball,1,17.6,Wellington,JDS Neesham,FJ Colson,BG Randell,1,0,,,,,,"",""
+ball,1,17.7,Wellington,FJ Colson,JDS Neesham,BG Randell,2,0,,,,,,"",""
+ball,1,18.1,Wellington,JDS Neesham,FJ Colson,DJ Mitchell,4,0,,,,,,"",""
+ball,1,18.2,Wellington,JDS Neesham,FJ Colson,DJ Mitchell,1,0,,,,,,"",""
+ball,1,18.3,Wellington,FJ Colson,JDS Neesham,DJ Mitchell,4,0,,,,,,"",""
+ball,1,18.4,Wellington,FJ Colson,JDS Neesham,DJ Mitchell,1,0,,,,,,"",""
+ball,1,18.5,Wellington,JDS Neesham,FJ Colson,DJ Mitchell,0,0,,,,,,"",""
+ball,1,18.6,Wellington,JDS Neesham,FJ Colson,DJ Mitchell,4,0,,,,,,"",""
+ball,1,19.1,Wellington,FJ Colson,JDS Neesham,A Verma,1,0,,,,,,"",""
+ball,1,19.2,Wellington,JDS Neesham,FJ Colson,A Verma,2,0,,,,,,"",""
+ball,1,19.3,Wellington,JDS Neesham,FJ Colson,A Verma,1,0,,,,,,"",""
+ball,1,19.4,Wellington,FJ Colson,JDS Neesham,A Verma,2,0,,,,,,"",""
+ball,1,19.5,Wellington,FJ Colson,JDS Neesham,A Verma,4,0,,,,,,"",""
+ball,1,19.6,Wellington,FJ Colson,JDS Neesham,A Verma,2,0,,,,,,"",""
+ball,2,0.1,Northern Districts,AP Devcich,TL Seifert,HK Bennett,0,0,,,,,,"",""
+ball,2,0.2,Northern Districts,AP Devcich,TL Seifert,HK Bennett,4,0,,,,,,"",""
+ball,2,0.3,Northern Districts,AP Devcich,TL Seifert,HK Bennett,1,0,,,,,,"",""
+ball,2,0.4,Northern Districts,TL Seifert,AP Devcich,HK Bennett,0,0,,,,,,"",""
+ball,2,0.5,Northern Districts,TL Seifert,AP Devcich,HK Bennett,1,0,,,,,,"",""
+ball,2,0.6,Northern Districts,AP Devcich,TL Seifert,HK Bennett,0,0,,,,,,"",""
+ball,2,1.1,Northern Districts,TL Seifert,AP Devcich,OR Newton,0,0,,,,,,"",""
+ball,2,1.2,Northern Districts,TL Seifert,AP Devcich,OR Newton,0,0,,,,,,"",""
+ball,2,1.3,Northern Districts,TL Seifert,AP Devcich,OR Newton,0,0,,,,,,"",""
+ball,2,1.4,Northern Districts,TL Seifert,AP Devcich,OR Newton,0,0,,,,,,"",""
+ball,2,1.5,Northern Districts,TL Seifert,AP Devcich,OR Newton,1,0,,,,,,"",""
+ball,2,1.6,Northern Districts,AP Devcich,TL Seifert,OR Newton,0,0,,,,,,caught,AP Devcich
+ball,2,2.1,Northern Districts,DG Brownlie,TL Seifert,LV van Beek,1,0,,,,,,"",""
+ball,2,2.2,Northern Districts,TL Seifert,DG Brownlie,LV van Beek,0,0,,,,,,"",""
+ball,2,2.3,Northern Districts,TL Seifert,DG Brownlie,LV van Beek,1,0,,,,,,"",""
+ball,2,2.4,Northern Districts,DG Brownlie,TL Seifert,LV van Beek,2,0,,,,,,"",""
+ball,2,2.5,Northern Districts,DG Brownlie,TL Seifert,LV van Beek,4,0,,,,,,"",""
+ball,2,2.6,Northern Districts,DG Brownlie,TL Seifert,LV van Beek,0,0,,,,,,"",""
+ball,2,3.1,Northern Districts,TL Seifert,DG Brownlie,OR Newton,1,0,,,,,,"",""
+ball,2,3.2,Northern Districts,DG Brownlie,TL Seifert,OR Newton,1,0,,,,,,"",""
+ball,2,3.3,Northern Districts,TL Seifert,DG Brownlie,OR Newton,2,0,,,,,,"",""
+ball,2,3.4,Northern Districts,TL Seifert,DG Brownlie,OR Newton,2,0,,,,,,"",""
+ball,2,3.5,Northern Districts,TL Seifert,DG Brownlie,OR Newton,0,0,,,,,,"",""
+ball,2,3.6,Northern Districts,TL Seifert,DG Brownlie,OR Newton,0,0,,,,,,"",""
+ball,2,4.1,Northern Districts,DG Brownlie,TL Seifert,HK Bennett,1,0,,,,,,"",""
+ball,2,4.2,Northern Districts,TL Seifert,DG Brownlie,HK Bennett,6,0,,,,,,"",""
+ball,2,4.3,Northern Districts,TL Seifert,DG Brownlie,HK Bennett,0,0,,,,,,"",""
+ball,2,4.4,Northern Districts,TL Seifert,DG Brownlie,HK Bennett,0,0,,,,,,"",""
+ball,2,4.5,Northern Districts,TL Seifert,DG Brownlie,HK Bennett,1,0,,,,,,"",""
+ball,2,4.6,Northern Districts,DG Brownlie,TL Seifert,HK Bennett,1,0,,,,,,"",""
+ball,2,5.1,Northern Districts,DG Brownlie,TL Seifert,LV van Beek,0,0,,,,,,"",""
+ball,2,5.2,Northern Districts,DG Brownlie,TL Seifert,LV van Beek,1,0,,,,,,"",""
+ball,2,5.3,Northern Districts,TL Seifert,DG Brownlie,LV van Beek,4,0,,,,,,"",""
+ball,2,5.4,Northern Districts,TL Seifert,DG Brownlie,LV van Beek,0,0,,,,,,"",""
+ball,2,5.5,Northern Districts,TL Seifert,DG Brownlie,LV van Beek,4,0,,,,,,"",""
+ball,2,5.6,Northern Districts,TL Seifert,DG Brownlie,LV van Beek,2,0,,,,,,"",""
+ball,2,6.1,Northern Districts,DG Brownlie,TL Seifert,JDS Neesham,1,0,,,,,,"",""
+ball,2,6.2,Northern Districts,TL Seifert,DG Brownlie,JDS Neesham,1,0,,,,,,"",""
+ball,2,6.3,Northern Districts,DG Brownlie,TL Seifert,JDS Neesham,1,0,,,,,,"",""
+ball,2,6.4,Northern Districts,TL Seifert,DG Brownlie,JDS Neesham,2,0,,,,,,"",""
+ball,2,6.5,Northern Districts,TL Seifert,DG Brownlie,JDS Neesham,1,0,,,,,,"",""
+ball,2,6.6,Northern Districts,DG Brownlie,TL Seifert,JDS Neesham,4,0,,,,,,"",""
+ball,2,7.1,Northern Districts,TL Seifert,DG Brownlie,MJ Nofal,0,0,,,,,,"",""
+ball,2,7.2,Northern Districts,TL Seifert,DG Brownlie,MJ Nofal,6,0,,,,,,"",""
+ball,2,7.3,Northern Districts,TL Seifert,DG Brownlie,MJ Nofal,0,0,,,,,,caught,TL Seifert
+ball,2,7.4,Northern Districts,DJ Mitchell,DG Brownlie,MJ Nofal,1,0,,,,,,"",""
+ball,2,7.5,Northern Districts,DG Brownlie,DJ Mitchell,MJ Nofal,1,0,,,,,,"",""
+ball,2,7.6,Northern Districts,DJ Mitchell,DG Brownlie,MJ Nofal,1,0,,,,,,"",""
+ball,2,8.1,Northern Districts,DJ Mitchell,DG Brownlie,R Ravindra,1,0,,,,,,"",""
+ball,2,8.2,Northern Districts,DG Brownlie,DJ Mitchell,R Ravindra,0,0,,,,,,"",""
+ball,2,8.3,Northern Districts,DG Brownlie,DJ Mitchell,R Ravindra,1,0,,,,,,"",""
+ball,2,8.4,Northern Districts,DJ Mitchell,DG Brownlie,R Ravindra,1,0,,,,,,"",""
+ball,2,8.5,Northern Districts,DG Brownlie,DJ Mitchell,R Ravindra,0,0,,,,,,"",""
+ball,2,8.6,Northern Districts,DG Brownlie,DJ Mitchell,R Ravindra,1,0,,,,,,"",""
+ball,2,9.1,Northern Districts,DG Brownlie,DJ Mitchell,MJ Nofal,4,0,,,,,,"",""
+ball,2,9.2,Northern Districts,DG Brownlie,DJ Mitchell,MJ Nofal,1,0,,,,,,"",""
+ball,2,9.3,Northern Districts,DJ Mitchell,DG Brownlie,MJ Nofal,0,0,,,,,,"",""
+ball,2,9.4,Northern Districts,DJ Mitchell,DG Brownlie,MJ Nofal,0,0,,,,,,"",""
+ball,2,9.5,Northern Districts,DJ Mitchell,DG Brownlie,MJ Nofal,1,0,,,,,,"",""
+ball,2,9.6,Northern Districts,DG Brownlie,DJ Mitchell,MJ Nofal,1,0,,,,,,"",""
+ball,2,10.1,Northern Districts,DG Brownlie,DJ Mitchell,JDS Neesham,1,0,,,,,,"",""
+ball,2,10.2,Northern Districts,DJ Mitchell,DG Brownlie,JDS Neesham,0,0,,,,,,"",""
+ball,2,10.3,Northern Districts,DJ Mitchell,DG Brownlie,JDS Neesham,0,1,1,,,,,"",""
+ball,2,10.4,Northern Districts,DJ Mitchell,DG Brownlie,JDS Neesham,4,0,,,,,,"",""
+ball,2,10.5,Northern Districts,DJ Mitchell,DG Brownlie,JDS Neesham,2,0,,,,,,"",""
+ball,2,10.6,Northern Districts,DJ Mitchell,DG Brownlie,JDS Neesham,1,0,,,,,,"",""
+ball,2,10.7,Northern Districts,DG Brownlie,DJ Mitchell,JDS Neesham,0,0,,,,,,"",""
+ball,2,11.1,Northern Districts,DJ Mitchell,DG Brownlie,R Ravindra,1,0,,,,,,"",""
+ball,2,11.2,Northern Districts,DG Brownlie,DJ Mitchell,R Ravindra,4,0,,,,,,"",""
+ball,2,11.3,Northern Districts,DG Brownlie,DJ Mitchell,R Ravindra,1,0,,,,,,"",""
+ball,2,11.4,Northern Districts,DJ Mitchell,DG Brownlie,R Ravindra,0,0,,,,,,caught,DJ Mitchell
+ball,2,11.5,Northern Districts,BR Hampton,DG Brownlie,R Ravindra,0,0,,,,,,"",""
+ball,2,11.6,Northern Districts,BR Hampton,DG Brownlie,R Ravindra,1,0,,,,,,"",""
+ball,2,12.1,Northern Districts,BR Hampton,DG Brownlie,LV van Beek,1,0,,,,,,"",""
+ball,2,12.2,Northern Districts,DG Brownlie,BR Hampton,LV van Beek,0,1,,,,1,,"",""
+ball,2,12.3,Northern Districts,BR Hampton,DG Brownlie,LV van Beek,1,0,,,,,,"",""
+ball,2,12.4,Northern Districts,DG Brownlie,BR Hampton,LV van Beek,0,0,,,,,,"",""
+ball,2,12.5,Northern Districts,DG Brownlie,BR Hampton,LV van Beek,0,0,,,,,,run out,DG Brownlie
+ball,2,12.6,Northern Districts,BR Hampton,DR Flynn,LV van Beek,0,0,,,,,,"",""
+ball,2,13.1,Northern Districts,DR Flynn,BR Hampton,R Ravindra,2,0,,,,,,"",""
+ball,2,13.2,Northern Districts,DR Flynn,BR Hampton,R Ravindra,1,0,,,,,,"",""
+ball,2,13.3,Northern Districts,BR Hampton,DR Flynn,R Ravindra,2,0,,,,,,"",""
+ball,2,13.4,Northern Districts,BR Hampton,DR Flynn,R Ravindra,0,0,,,,,,"",""
+ball,2,13.5,Northern Districts,BR Hampton,DR Flynn,R Ravindra,6,0,,,,,,"",""
+ball,2,13.6,Northern Districts,BR Hampton,DR Flynn,R Ravindra,2,0,,,,,,"",""
+ball,2,14.1,Northern Districts,DR Flynn,BR Hampton,HK Bennett,0,0,,,,,,bowled,DR Flynn
+ball,2,14.2,Northern Districts,JF Carter,BR Hampton,HK Bennett,0,0,,,,,,bowled,JF Carter
+ball,2,14.3,Northern Districts,SC Kuggeleijn,BR Hampton,HK Bennett,1,0,,,,,,"",""
+ball,2,14.4,Northern Districts,BR Hampton,SC Kuggeleijn,HK Bennett,1,0,,,,,,"",""
+ball,2,14.5,Northern Districts,SC Kuggeleijn,BR Hampton,HK Bennett,2,0,,,,,,"",""
+ball,2,14.6,Northern Districts,SC Kuggeleijn,BR Hampton,HK Bennett,4,0,,,,,,"",""
+ball,2,15.1,Northern Districts,BR Hampton,SC Kuggeleijn,OR Newton,0,0,,,,,,caught and bowled,BR Hampton
+ball,2,15.2,Northern Districts,A Verma,SC Kuggeleijn,OR Newton,2,0,,,,,,"",""
+ball,2,15.3,Northern Districts,A Verma,SC Kuggeleijn,OR Newton,1,0,,,,,,"",""
+ball,2,15.4,Northern Districts,SC Kuggeleijn,A Verma,OR Newton,1,0,,,,,,"",""
+ball,2,15.5,Northern Districts,A Verma,SC Kuggeleijn,OR Newton,1,0,,,,,,"",""
+ball,2,15.6,Northern Districts,SC Kuggeleijn,A Verma,OR Newton,1,0,,,,,,"",""
+ball,2,16.1,Northern Districts,SC Kuggeleijn,A Verma,JDS Neesham,1,0,,,,,,"",""
+ball,2,16.2,Northern Districts,A Verma,SC Kuggeleijn,JDS Neesham,0,0,,,,,,"",""
+ball,2,16.3,Northern Districts,A Verma,SC Kuggeleijn,JDS Neesham,1,0,,,,,,"",""
+ball,2,16.4,Northern Districts,SC Kuggeleijn,A Verma,JDS Neesham,0,0,,,,,,caught,SC Kuggeleijn
+ball,2,16.5,Northern Districts,IS Sodhi,A Verma,JDS Neesham,1,0,,,,,,"",""
+ball,2,16.6,Northern Districts,A Verma,IS Sodhi,JDS Neesham,0,0,,,,,,"",""
+ball,2,17.1,Northern Districts,IS Sodhi,A Verma,LV van Beek,2,0,,,,,,"",""
+ball,2,17.2,Northern Districts,IS Sodhi,A Verma,LV van Beek,1,0,,,,,,"",""
+ball,2,17.3,Northern Districts,A Verma,IS Sodhi,LV van Beek,4,0,,,,,,"",""
+ball,2,17.4,Northern Districts,A Verma,IS Sodhi,LV van Beek,0,0,,,,,,"",""
+ball,2,17.5,Northern Districts,A Verma,IS Sodhi,LV van Beek,4,0,,,,,,"",""
+ball,2,17.6,Northern Districts,A Verma,IS Sodhi,LV van Beek,0,0,,,,,,bowled,A Verma
+ball,2,18.1,Northern Districts,IS Sodhi,BG Randell,HK Bennett,4,0,,,,,,"",""
+ball,2,18.2,Northern Districts,IS Sodhi,BG Randell,HK Bennett,1,0,,,,,,"",""
+ball,2,18.3,Northern Districts,BG Randell,IS Sodhi,HK Bennett,0,0,,,,,,bowled,BG Randell

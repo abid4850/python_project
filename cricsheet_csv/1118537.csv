@@ -1,0 +1,323 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Auckland
+info,gender,male
+info,season,2017/18
+info,date,2017/12/16
+info,event,Super Smash
+info,match_number,4
+info,venue,Bay Oval
+info,city,Mount Maunganui
+info,toss_winner,Northern Districts
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,WR Knights
+info,reserve_umpire,Damian Morrow
+info,tv_umpire,CM Brown
+info,match_referee,KD Earl
+info,winner,Northern Districts
+info,winner_runs,7
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,NF Kelly
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,TG Southee
+info,player,Northern Districts,BJ Arnel
+info,player,Northern Districts,B Laughlin
+info,player,Auckland,C Munro
+info,player,Auckland,GD Phillips
+info,player,Auckland,MS Chapman
+info,player,Auckland,Craig Cachopa
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,BJ Horne
+info,player,Auckland,SM Curran
+info,player,Auckland,TS Nethula
+info,player,Auckland,AT Nidamanuru
+info,player,Auckland,LH Ferguson
+info,player,Auckland,BG Lister
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,AT Nidamanuru,a319edf8
+info,registry,people,B Laughlin,b2a79f17
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Arnel,a5ac694f
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,C Munro,af2c687b
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,Craig Cachopa,af294a6c
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,KD Earl,58ddb8b4
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,TS Nethula,e82dc4c5
+info,registry,people,WR Knights,63cbf8d8
+ball,1,0.1,Northern Districts,AP Devcich,TL Seifert,BG Lister,0,1,1,,,,,"",""
+ball,1,0.2,Northern Districts,AP Devcich,TL Seifert,BG Lister,0,0,,,,,,"",""
+ball,1,0.3,Northern Districts,AP Devcich,TL Seifert,BG Lister,1,0,,,,,,"",""
+ball,1,0.4,Northern Districts,TL Seifert,AP Devcich,BG Lister,1,0,,,,,,"",""
+ball,1,0.5,Northern Districts,AP Devcich,TL Seifert,BG Lister,2,0,,,,,,"",""
+ball,1,0.6,Northern Districts,AP Devcich,TL Seifert,BG Lister,0,0,,,,,,"",""
+ball,1,0.7,Northern Districts,AP Devcich,TL Seifert,BG Lister,1,0,,,,,,"",""
+ball,1,1.1,Northern Districts,AP Devcich,TL Seifert,LH Ferguson,4,0,,,,,,"",""
+ball,1,1.2,Northern Districts,AP Devcich,TL Seifert,LH Ferguson,0,0,,,,,,"",""
+ball,1,1.3,Northern Districts,AP Devcich,TL Seifert,LH Ferguson,0,0,,,,,,"",""
+ball,1,1.4,Northern Districts,AP Devcich,TL Seifert,LH Ferguson,1,0,,,,,,"",""
+ball,1,1.5,Northern Districts,TL Seifert,AP Devcich,LH Ferguson,4,0,,,,,,"",""
+ball,1,1.6,Northern Districts,TL Seifert,AP Devcich,LH Ferguson,0,0,,,,,,"",""
+ball,1,2.1,Northern Districts,AP Devcich,TL Seifert,SM Curran,4,0,,,,,,"",""
+ball,1,2.2,Northern Districts,AP Devcich,TL Seifert,SM Curran,0,0,,,,,,"",""
+ball,1,2.3,Northern Districts,AP Devcich,TL Seifert,SM Curran,4,0,,,,,,"",""
+ball,1,2.4,Northern Districts,AP Devcich,TL Seifert,SM Curran,0,0,,,,,,"",""
+ball,1,2.5,Northern Districts,AP Devcich,TL Seifert,SM Curran,1,0,,,,,,"",""
+ball,1,2.6,Northern Districts,TL Seifert,AP Devcich,SM Curran,0,1,,,,1,,"",""
+ball,1,3.1,Northern Districts,TL Seifert,AP Devcich,LH Ferguson,1,0,,,,,,"",""
+ball,1,3.2,Northern Districts,AP Devcich,TL Seifert,LH Ferguson,0,0,,,,,,"",""
+ball,1,3.3,Northern Districts,AP Devcich,TL Seifert,LH Ferguson,0,0,,,,,,"",""
+ball,1,3.4,Northern Districts,AP Devcich,TL Seifert,LH Ferguson,4,0,,,,,,"",""
+ball,1,3.5,Northern Districts,AP Devcich,TL Seifert,LH Ferguson,4,0,,,,,,"",""
+ball,1,3.6,Northern Districts,AP Devcich,TL Seifert,LH Ferguson,0,1,,,,1,,"",""
+ball,1,4.1,Northern Districts,AP Devcich,TL Seifert,BG Lister,2,0,,,,,,"",""
+ball,1,4.2,Northern Districts,AP Devcich,TL Seifert,BG Lister,0,0,,,,,,"",""
+ball,1,4.3,Northern Districts,AP Devcich,TL Seifert,BG Lister,1,0,,,,,,"",""
+ball,1,4.4,Northern Districts,TL Seifert,AP Devcich,BG Lister,0,1,1,,,,,"",""
+ball,1,4.5,Northern Districts,TL Seifert,AP Devcich,BG Lister,4,0,,,,,,"",""
+ball,1,4.6,Northern Districts,TL Seifert,AP Devcich,BG Lister,0,0,,,,,,"",""
+ball,1,4.7,Northern Districts,TL Seifert,AP Devcich,BG Lister,1,0,,,,,,"",""
+ball,1,5.1,Northern Districts,TL Seifert,AP Devcich,SM Curran,1,0,,,,,,"",""
+ball,1,5.2,Northern Districts,AP Devcich,TL Seifert,SM Curran,0,0,,,,,,"",""
+ball,1,5.3,Northern Districts,AP Devcich,TL Seifert,SM Curran,0,0,,,,,,"",""
+ball,1,5.4,Northern Districts,AP Devcich,TL Seifert,SM Curran,1,0,,,,,,"",""
+ball,1,5.5,Northern Districts,TL Seifert,AP Devcich,SM Curran,4,0,,,,,,"",""
+ball,1,5.6,Northern Districts,TL Seifert,AP Devcich,SM Curran,4,0,,,,,,"",""
+ball,1,6.1,Northern Districts,AP Devcich,TL Seifert,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,6.2,Northern Districts,TL Seifert,AP Devcich,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,6.3,Northern Districts,AP Devcich,TL Seifert,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,6.4,Northern Districts,TL Seifert,AP Devcich,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,6.5,Northern Districts,AP Devcich,TL Seifert,AT Nidamanuru,0,0,,,,,,"",""
+ball,1,6.6,Northern Districts,AP Devcich,TL Seifert,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,7.1,Northern Districts,AP Devcich,TL Seifert,TS Nethula,0,1,1,,,,,"",""
+ball,1,7.2,Northern Districts,AP Devcich,TL Seifert,TS Nethula,0,0,,,,,,"",""
+ball,1,7.3,Northern Districts,AP Devcich,TL Seifert,TS Nethula,0,0,,,,,,"",""
+ball,1,7.4,Northern Districts,AP Devcich,TL Seifert,TS Nethula,0,1,1,,,,,"",""
+ball,1,7.5,Northern Districts,AP Devcich,TL Seifert,TS Nethula,0,0,,,,,,caught,AP Devcich
+ball,1,7.6,Northern Districts,BR Hampton,TL Seifert,TS Nethula,6,0,,,,,,"",""
+ball,1,7.7,Northern Districts,BR Hampton,TL Seifert,TS Nethula,6,0,,,,,,"",""
+ball,1,7.8,Northern Districts,BR Hampton,TL Seifert,TS Nethula,1,0,,,,,,"",""
+ball,1,8.1,Northern Districts,BR Hampton,TL Seifert,LH Ferguson,0,0,,,,,,"",""
+ball,1,8.2,Northern Districts,BR Hampton,TL Seifert,LH Ferguson,0,0,,,,,,"",""
+ball,1,8.3,Northern Districts,BR Hampton,TL Seifert,LH Ferguson,1,0,,,,,,"",""
+ball,1,8.4,Northern Districts,TL Seifert,BR Hampton,LH Ferguson,1,0,,,,,,"",""
+ball,1,8.5,Northern Districts,BR Hampton,TL Seifert,LH Ferguson,1,0,,,,,,"",""
+ball,1,8.6,Northern Districts,TL Seifert,BR Hampton,LH Ferguson,4,0,,,,,,"",""
+ball,1,9.1,Northern Districts,BR Hampton,TL Seifert,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,9.2,Northern Districts,TL Seifert,BR Hampton,AT Nidamanuru,6,0,,,,,,"",""
+ball,1,9.3,Northern Districts,TL Seifert,BR Hampton,AT Nidamanuru,0,0,,,,,,"",""
+ball,1,9.4,Northern Districts,TL Seifert,BR Hampton,AT Nidamanuru,6,0,,,,,,"",""
+ball,1,9.5,Northern Districts,TL Seifert,BR Hampton,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,9.6,Northern Districts,BR Hampton,TL Seifert,AT Nidamanuru,0,0,,,,,,"",""
+ball,1,10.1,Northern Districts,TL Seifert,BR Hampton,TS Nethula,6,0,,,,,,"",""
+ball,1,10.2,Northern Districts,TL Seifert,BR Hampton,TS Nethula,4,0,,,,,,"",""
+ball,1,10.3,Northern Districts,TL Seifert,BR Hampton,TS Nethula,0,1,,,,1,,"",""
+ball,1,10.4,Northern Districts,BR Hampton,TL Seifert,TS Nethula,6,0,,,,,,"",""
+ball,1,10.5,Northern Districts,BR Hampton,TL Seifert,TS Nethula,6,0,,,,,,"",""
+ball,1,10.6,Northern Districts,BR Hampton,TL Seifert,TS Nethula,0,0,,,,,,caught,BR Hampton
+ball,1,11.1,Northern Districts,DG Brownlie,TL Seifert,C Munro,2,0,,,,,,"",""
+ball,1,11.2,Northern Districts,DG Brownlie,TL Seifert,C Munro,1,0,,,,,,"",""
+ball,1,11.3,Northern Districts,TL Seifert,DG Brownlie,C Munro,1,0,,,,,,"",""
+ball,1,11.4,Northern Districts,DG Brownlie,TL Seifert,C Munro,4,0,,,,,,"",""
+ball,1,11.5,Northern Districts,DG Brownlie,TL Seifert,C Munro,3,0,,,,,,"",""
+ball,1,11.6,Northern Districts,TL Seifert,DG Brownlie,C Munro,6,0,,,,,,"",""
+ball,1,12.1,Northern Districts,DG Brownlie,TL Seifert,AT Nidamanuru,0,0,,,,,,caught,DG Brownlie
+ball,1,12.2,Northern Districts,DR Flynn,TL Seifert,AT Nidamanuru,0,0,,,,,,"",""
+ball,1,12.3,Northern Districts,DR Flynn,TL Seifert,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,12.4,Northern Districts,TL Seifert,DR Flynn,AT Nidamanuru,6,1,,1,,,,"",""
+ball,1,12.5,Northern Districts,TL Seifert,DR Flynn,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,12.6,Northern Districts,DR Flynn,TL Seifert,AT Nidamanuru,0,0,,,,,,"",""
+ball,1,12.7,Northern Districts,DR Flynn,TL Seifert,AT Nidamanuru,1,0,,,,,,"",""
+ball,1,13.1,Northern Districts,DR Flynn,TL Seifert,LH Ferguson,0,1,1,,,,,"",""
+ball,1,13.2,Northern Districts,DR Flynn,TL Seifert,LH Ferguson,0,0,,,,,,"",""
+ball,1,13.3,Northern Districts,DR Flynn,TL Seifert,LH Ferguson,1,0,,,,,,"",""
+ball,1,13.4,Northern Districts,TL Seifert,DR Flynn,LH Ferguson,4,0,,,,,,"",""
+ball,1,13.5,Northern Districts,TL Seifert,DR Flynn,LH Ferguson,2,0,,,,,,"",""
+ball,1,13.6,Northern Districts,TL Seifert,DR Flynn,LH Ferguson,0,0,,,,,,"",""
+ball,1,13.7,Northern Districts,TL Seifert,DR Flynn,LH Ferguson,1,0,,,,,,"",""
+ball,1,14.1,Northern Districts,TL Seifert,DR Flynn,C Munro,0,0,,,,,,"",""
+ball,1,14.2,Northern Districts,TL Seifert,DR Flynn,C Munro,1,0,,,,,,"",""
+ball,1,14.3,Northern Districts,DR Flynn,TL Seifert,C Munro,1,0,,,,,,"",""
+ball,1,14.4,Northern Districts,TL Seifert,DR Flynn,C Munro,1,0,,,,,,"",""
+ball,1,14.5,Northern Districts,DR Flynn,TL Seifert,C Munro,0,0,,,,,,"",""
+ball,1,14.6,Northern Districts,DR Flynn,TL Seifert,C Munro,0,1,1,,,,,"",""
+ball,1,14.7,Northern Districts,DR Flynn,TL Seifert,C Munro,0,0,,,,,,caught,DR Flynn
+ball,1,15.1,Northern Districts,NF Kelly,TL Seifert,BG Lister,0,0,,,,,,lbw,NF Kelly
+ball,1,15.2,Northern Districts,DJ Mitchell,TL Seifert,BG Lister,0,0,,,,,,"",""
+ball,1,15.3,Northern Districts,DJ Mitchell,TL Seifert,BG Lister,0,0,,,,,,"",""
+ball,1,15.4,Northern Districts,DJ Mitchell,TL Seifert,BG Lister,0,0,,,,,,"",""
+ball,1,15.5,Northern Districts,DJ Mitchell,TL Seifert,BG Lister,1,0,,,,,,"",""
+ball,1,15.6,Northern Districts,TL Seifert,DJ Mitchell,BG Lister,6,0,,,,,,"",""
+ball,1,16.1,Northern Districts,DJ Mitchell,TL Seifert,C Munro,1,0,,,,,,"",""
+ball,1,16.2,Northern Districts,TL Seifert,DJ Mitchell,C Munro,6,0,,,,,,"",""
+ball,1,16.3,Northern Districts,TL Seifert,DJ Mitchell,C Munro,1,0,,,,,,"",""
+ball,1,16.4,Northern Districts,DJ Mitchell,TL Seifert,C Munro,1,0,,,,,,"",""
+ball,1,16.5,Northern Districts,TL Seifert,DJ Mitchell,C Munro,6,0,,,,,,"",""
+ball,1,16.6,Northern Districts,TL Seifert,DJ Mitchell,C Munro,1,0,,,,,,"",""
+ball,1,17.1,Northern Districts,TL Seifert,DJ Mitchell,SM Curran,4,0,,,,,,"",""
+ball,1,17.2,Northern Districts,TL Seifert,DJ Mitchell,SM Curran,4,0,,,,,,"",""
+ball,1,17.3,Northern Districts,TL Seifert,DJ Mitchell,SM Curran,6,0,,,,,,"",""
+ball,1,17.4,Northern Districts,TL Seifert,DJ Mitchell,SM Curran,0,0,,,,,,caught,TL Seifert
+ball,1,17.5,Northern Districts,DJ Mitchell,IS Sodhi,SM Curran,4,0,,,,,,"",""
+ball,1,17.6,Northern Districts,DJ Mitchell,IS Sodhi,SM Curran,0,0,,,,,,"",""
+ball,1,18.1,Northern Districts,IS Sodhi,DJ Mitchell,BG Lister,0,0,,,,,,caught,IS Sodhi
+ball,1,18.2,Northern Districts,DJ Mitchell,TG Southee,BG Lister,1,0,,,,,,"",""
+ball,1,18.3,Northern Districts,TG Southee,DJ Mitchell,BG Lister,2,0,,,,,,"",""
+ball,1,18.4,Northern Districts,TG Southee,DJ Mitchell,BG Lister,4,0,,,,,,"",""
+ball,1,18.5,Northern Districts,TG Southee,DJ Mitchell,BG Lister,1,0,,,,,,"",""
+ball,1,18.6,Northern Districts,DJ Mitchell,TG Southee,BG Lister,0,0,,,,,,caught,DJ Mitchell
+ball,1,19.1,Northern Districts,TG Southee,BJ Arnel,SM Curran,0,0,,,,,,"",""
+ball,1,19.2,Northern Districts,TG Southee,BJ Arnel,SM Curran,0,1,1,,,,,"",""
+ball,1,19.3,Northern Districts,TG Southee,BJ Arnel,SM Curran,2,0,,,,,,"",""
+ball,1,19.4,Northern Districts,TG Southee,BJ Arnel,SM Curran,0,0,,,,,,"",""
+ball,1,19.5,Northern Districts,TG Southee,BJ Arnel,SM Curran,2,0,,,,,,"",""
+ball,1,19.6,Northern Districts,TG Southee,BJ Arnel,SM Curran,2,0,,,,,,"",""
+ball,1,19.7,Northern Districts,TG Southee,BJ Arnel,SM Curran,0,0,,,,,,run out,TG Southee
+ball,2,0.1,Auckland,C Munro,GD Phillips,TG Southee,1,0,,,,,,"",""
+ball,2,0.2,Auckland,GD Phillips,C Munro,TG Southee,4,0,,,,,,"",""
+ball,2,0.3,Auckland,GD Phillips,C Munro,TG Southee,1,0,,,,,,"",""
+ball,2,0.4,Auckland,C Munro,GD Phillips,TG Southee,1,0,,,,,,"",""
+ball,2,0.5,Auckland,GD Phillips,C Munro,TG Southee,1,0,,,,,,"",""
+ball,2,0.6,Auckland,C Munro,GD Phillips,TG Southee,0,1,1,,,,,"",""
+ball,2,0.7,Auckland,C Munro,GD Phillips,TG Southee,2,0,,,,,,"",""
+ball,2,1.1,Auckland,GD Phillips,C Munro,BJ Arnel,0,1,1,,,,,"",""
+ball,2,1.2,Auckland,GD Phillips,C Munro,BJ Arnel,0,0,,,,,,"",""
+ball,2,1.3,Auckland,GD Phillips,C Munro,BJ Arnel,6,0,,,,,,"",""
+ball,2,1.4,Auckland,GD Phillips,C Munro,BJ Arnel,4,0,,,,,,"",""
+ball,2,1.5,Auckland,GD Phillips,C Munro,BJ Arnel,1,0,,,,,,"",""
+ball,2,1.6,Auckland,C Munro,GD Phillips,BJ Arnel,0,0,,,,,,"",""
+ball,2,1.7,Auckland,C Munro,GD Phillips,BJ Arnel,0,0,,,,,,"",""
+ball,2,2.1,Auckland,GD Phillips,C Munro,TG Southee,4,0,,,,,,"",""
+ball,2,2.2,Auckland,GD Phillips,C Munro,TG Southee,0,0,,,,,,"",""
+ball,2,2.3,Auckland,GD Phillips,C Munro,TG Southee,0,0,,,,,,"",""
+ball,2,2.4,Auckland,GD Phillips,C Munro,TG Southee,1,0,,,,,,"",""
+ball,2,2.5,Auckland,C Munro,GD Phillips,TG Southee,6,0,,,,,,"",""
+ball,2,2.6,Auckland,C Munro,GD Phillips,TG Southee,6,0,,,,,,"",""
+ball,2,3.1,Auckland,GD Phillips,C Munro,BJ Arnel,1,0,,,,,,"",""
+ball,2,3.2,Auckland,C Munro,GD Phillips,BJ Arnel,0,0,,,,,,"",""
+ball,2,3.3,Auckland,C Munro,GD Phillips,BJ Arnel,0,0,,,,,,"",""
+ball,2,3.4,Auckland,C Munro,GD Phillips,BJ Arnel,4,0,,,,,,"",""
+ball,2,3.5,Auckland,C Munro,GD Phillips,BJ Arnel,0,0,,,,,,"",""
+ball,2,3.6,Auckland,C Munro,GD Phillips,BJ Arnel,2,0,,,,,,"",""
+ball,2,4.1,Auckland,GD Phillips,C Munro,AP Devcich,0,0,,,,,,"",""
+ball,2,4.2,Auckland,GD Phillips,C Munro,AP Devcich,0,0,,,,,,"",""
+ball,2,4.3,Auckland,GD Phillips,C Munro,AP Devcich,1,0,,,,,,"",""
+ball,2,4.4,Auckland,C Munro,GD Phillips,AP Devcich,4,0,,,,,,"",""
+ball,2,4.5,Auckland,C Munro,GD Phillips,AP Devcich,1,0,,,,,,"",""
+ball,2,4.6,Auckland,GD Phillips,C Munro,AP Devcich,1,0,,,,,,"",""
+ball,2,5.1,Auckland,GD Phillips,C Munro,B Laughlin,1,0,,,,,,"",""
+ball,2,5.2,Auckland,C Munro,GD Phillips,B Laughlin,4,0,,,,,,"",""
+ball,2,5.3,Auckland,C Munro,GD Phillips,B Laughlin,0,0,,,,,,"",""
+ball,2,5.4,Auckland,C Munro,GD Phillips,B Laughlin,0,0,,,,,,bowled,C Munro
+ball,2,5.5,Auckland,MS Chapman,GD Phillips,B Laughlin,4,0,,,,,,"",""
+ball,2,5.6,Auckland,MS Chapman,GD Phillips,B Laughlin,0,0,,,,,,"",""
+ball,2,6.1,Auckland,GD Phillips,MS Chapman,AP Devcich,0,0,,,,,,"",""
+ball,2,6.2,Auckland,GD Phillips,MS Chapman,AP Devcich,1,0,,,,,,"",""
+ball,2,6.3,Auckland,MS Chapman,GD Phillips,AP Devcich,2,0,,,,,,"",""
+ball,2,6.4,Auckland,MS Chapman,GD Phillips,AP Devcich,1,0,,,,,,"",""
+ball,2,6.5,Auckland,GD Phillips,MS Chapman,AP Devcich,1,0,,,,,,"",""
+ball,2,6.6,Auckland,MS Chapman,GD Phillips,AP Devcich,0,0,,,,,,"",""
+ball,2,7.1,Auckland,GD Phillips,MS Chapman,B Laughlin,2,0,,,,,,"",""
+ball,2,7.2,Auckland,GD Phillips,MS Chapman,B Laughlin,1,0,,,,,,"",""
+ball,2,7.3,Auckland,MS Chapman,GD Phillips,B Laughlin,0,0,,,,,,"",""
+ball,2,7.4,Auckland,MS Chapman,GD Phillips,B Laughlin,0,0,,,,,,"",""
+ball,2,7.5,Auckland,MS Chapman,GD Phillips,B Laughlin,2,0,,,,,,"",""
+ball,2,7.6,Auckland,MS Chapman,GD Phillips,B Laughlin,1,0,,,,,,"",""
+ball,2,8.1,Auckland,MS Chapman,GD Phillips,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.2,Auckland,GD Phillips,MS Chapman,IS Sodhi,0,0,,,,,,"",""
+ball,2,8.3,Auckland,GD Phillips,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.4,Auckland,MS Chapman,GD Phillips,IS Sodhi,1,0,,,,,,"",""
+ball,2,8.5,Auckland,GD Phillips,MS Chapman,IS Sodhi,6,0,,,,,,"",""
+ball,2,8.6,Auckland,GD Phillips,MS Chapman,IS Sodhi,4,0,,,,,,"",""
+ball,2,9.1,Auckland,MS Chapman,GD Phillips,AP Devcich,1,0,,,,,,"",""
+ball,2,9.2,Auckland,GD Phillips,MS Chapman,AP Devcich,1,0,,,,,,"",""
+ball,2,9.3,Auckland,MS Chapman,GD Phillips,AP Devcich,1,0,,,,,,"",""
+ball,2,9.4,Auckland,GD Phillips,MS Chapman,AP Devcich,4,0,,,,,,"",""
+ball,2,9.5,Auckland,GD Phillips,MS Chapman,AP Devcich,1,0,,,,,,"",""
+ball,2,9.6,Auckland,MS Chapman,GD Phillips,AP Devcich,1,0,,,,,,"",""
+ball,2,10.1,Auckland,MS Chapman,GD Phillips,BJ Arnel,1,0,,,,,,"",""
+ball,2,10.2,Auckland,GD Phillips,MS Chapman,BJ Arnel,4,0,,,,,,"",""
+ball,2,10.3,Auckland,GD Phillips,MS Chapman,BJ Arnel,2,0,,,,,,"",""
+ball,2,10.4,Auckland,GD Phillips,MS Chapman,BJ Arnel,6,0,,,,,,"",""
+ball,2,10.5,Auckland,GD Phillips,MS Chapman,BJ Arnel,1,0,,,,,,"",""
+ball,2,10.6,Auckland,MS Chapman,GD Phillips,BJ Arnel,2,0,,,,,,"",""
+ball,2,11.1,Auckland,GD Phillips,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,2,11.2,Auckland,MS Chapman,GD Phillips,IS Sodhi,1,0,,,,,,"",""
+ball,2,11.3,Auckland,GD Phillips,MS Chapman,IS Sodhi,1,0,,,,,,"",""
+ball,2,11.4,Auckland,MS Chapman,GD Phillips,IS Sodhi,4,0,,,,,,"",""
+ball,2,11.5,Auckland,MS Chapman,GD Phillips,IS Sodhi,0,0,,,,,,"",""
+ball,2,11.6,Auckland,MS Chapman,GD Phillips,IS Sodhi,1,0,,,,,,"",""
+ball,2,12.1,Auckland,MS Chapman,GD Phillips,B Laughlin,0,0,,,,,,caught,MS Chapman
+ball,2,12.2,Auckland,GD Phillips,Craig Cachopa,B Laughlin,1,0,,,,,,"",""
+ball,2,12.3,Auckland,Craig Cachopa,GD Phillips,B Laughlin,1,0,,,,,,"",""
+ball,2,12.4,Auckland,GD Phillips,Craig Cachopa,B Laughlin,1,0,,,,,,"",""
+ball,2,12.5,Auckland,Craig Cachopa,GD Phillips,B Laughlin,1,0,,,,,,"",""
+ball,2,12.6,Auckland,GD Phillips,Craig Cachopa,B Laughlin,0,0,,,,,,caught,GD Phillips
+ball,2,13.1,Auckland,Craig Cachopa,RR O'Donnell,IS Sodhi,0,0,,,,,,"",""
+ball,2,13.2,Auckland,Craig Cachopa,RR O'Donnell,IS Sodhi,6,0,,,,,,"",""
+ball,2,13.3,Auckland,Craig Cachopa,RR O'Donnell,IS Sodhi,0,0,,,,,,"",""
+ball,2,13.4,Auckland,Craig Cachopa,RR O'Donnell,IS Sodhi,6,0,,,,,,"",""
+ball,2,13.5,Auckland,Craig Cachopa,RR O'Donnell,IS Sodhi,1,0,,,,,,"",""
+ball,2,13.6,Auckland,RR O'Donnell,Craig Cachopa,IS Sodhi,0,0,,,,,,"",""
+ball,2,14.1,Auckland,Craig Cachopa,RR O'Donnell,BJ Arnel,1,0,,,,,,"",""
+ball,2,14.2,Auckland,RR O'Donnell,Craig Cachopa,BJ Arnel,4,0,,,,,,"",""
+ball,2,14.3,Auckland,RR O'Donnell,Craig Cachopa,BJ Arnel,0,1,,,,1,,"",""
+ball,2,14.4,Auckland,Craig Cachopa,RR O'Donnell,BJ Arnel,2,0,,,,,,"",""
+ball,2,14.5,Auckland,Craig Cachopa,RR O'Donnell,BJ Arnel,0,0,,,,,,"",""
+ball,2,14.6,Auckland,Craig Cachopa,RR O'Donnell,BJ Arnel,0,1,1,,,,,"",""
+ball,2,14.7,Auckland,Craig Cachopa,RR O'Donnell,BJ Arnel,0,1,1,,,,,"",""
+ball,2,14.8,Auckland,Craig Cachopa,RR O'Donnell,BJ Arnel,0,0,,,,,,"",""
+ball,2,15.1,Auckland,RR O'Donnell,Craig Cachopa,AP Devcich,0,1,1,,,,,"",""
+ball,2,15.2,Auckland,RR O'Donnell,Craig Cachopa,AP Devcich,1,0,,,,,,"",""
+ball,2,15.3,Auckland,Craig Cachopa,RR O'Donnell,AP Devcich,0,0,,,,,,caught,Craig Cachopa
+ball,2,15.4,Auckland,BJ Horne,RR O'Donnell,AP Devcich,4,0,,,,,,"",""
+ball,2,15.5,Auckland,BJ Horne,RR O'Donnell,AP Devcich,1,0,,,,,,"",""
+ball,2,15.6,Auckland,RR O'Donnell,BJ Horne,AP Devcich,0,0,,,,,,"",""
+ball,2,15.7,Auckland,RR O'Donnell,BJ Horne,AP Devcich,0,0,,,,,,"",""
+ball,2,16.1,Auckland,BJ Horne,RR O'Donnell,TG Southee,1,0,,,,,,"",""
+ball,2,16.2,Auckland,RR O'Donnell,BJ Horne,TG Southee,0,0,,,,,,"",""
+ball,2,16.3,Auckland,RR O'Donnell,BJ Horne,TG Southee,6,0,,,,,,"",""
+ball,2,16.4,Auckland,RR O'Donnell,BJ Horne,TG Southee,1,0,,,,,,"",""
+ball,2,16.5,Auckland,BJ Horne,RR O'Donnell,TG Southee,4,0,,,,,,"",""
+ball,2,16.6,Auckland,BJ Horne,RR O'Donnell,TG Southee,0,1,1,,,,,"",""
+ball,2,16.7,Auckland,BJ Horne,RR O'Donnell,TG Southee,0,0,,,,,,"",""
+ball,2,17.1,Auckland,RR O'Donnell,BJ Horne,IS Sodhi,6,0,,,,,,"",""
+ball,2,17.2,Auckland,RR O'Donnell,BJ Horne,IS Sodhi,1,0,,,,,,"",""
+ball,2,17.3,Auckland,BJ Horne,RR O'Donnell,IS Sodhi,0,4,,,4,,,"",""
+ball,2,17.4,Auckland,BJ Horne,RR O'Donnell,IS Sodhi,0,1,,,,1,,"",""
+ball,2,17.5,Auckland,RR O'Donnell,BJ Horne,IS Sodhi,1,0,,,,,,"",""
+ball,2,17.6,Auckland,BJ Horne,RR O'Donnell,IS Sodhi,0,0,,,,,,bowled,BJ Horne
+ball,2,18.1,Auckland,RR O'Donnell,SM Curran,TG Southee,6,0,,,,,,"",""
+ball,2,18.2,Auckland,RR O'Donnell,SM Curran,TG Southee,1,0,,,,,,"",""
+ball,2,18.3,Auckland,SM Curran,RR O'Donnell,TG Southee,1,0,,,,,,"",""
+ball,2,18.4,Auckland,RR O'Donnell,SM Curran,TG Southee,6,0,,,,,,"",""
+ball,2,18.5,Auckland,RR O'Donnell,SM Curran,TG Southee,4,0,,,,,,"",""
+ball,2,18.6,Auckland,RR O'Donnell,SM Curran,TG Southee,1,0,,,,,,"",""
+ball,2,19.1,Auckland,RR O'Donnell,SM Curran,B Laughlin,2,0,,,,,,"",""
+ball,2,19.2,Auckland,RR O'Donnell,SM Curran,B Laughlin,2,0,,,,,,"",""
+ball,2,19.3,Auckland,RR O'Donnell,SM Curran,B Laughlin,0,0,,,,,,run out,SM Curran
+ball,2,19.4,Auckland,TS Nethula,RR O'Donnell,B Laughlin,2,0,,,,,,"",""
+ball,2,19.5,Auckland,TS Nethula,RR O'Donnell,B Laughlin,2,0,,,,,,"",""
+ball,2,19.6,Auckland,TS Nethula,RR O'Donnell,B Laughlin,0,0,,,,,,"",""

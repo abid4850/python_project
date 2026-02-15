@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Yorkshire
+info,gender,male
+info,season,2024
+info,date,2024/06/21
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,NA Mallender
+info,umpire,N Pratt
+info,match_referee,IL Herbert
+info,winner,Durham
+info,winner_runs,3
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,DG Bedingham
+info,player,Durham,OG Robinson
+info,player,Durham,BFW de Leede
+info,player,Durham,MA Jones
+info,player,Durham,BA Raine
+info,player,Durham,BJ Dwarshuis
+info,player,Durham,GS Drissell
+info,player,Durham,CF Parkinson
+info,player,Durham,NA Sowter
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,W Luxton
+info,player,Yorkshire,D Ferreira
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,GCH Hill
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,C McKerr
+info,player,Yorkshire,JA Chohan
+info,player,Yorkshire,D Moriarty
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,C McKerr,5ccdb14f
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DM Bess,ad46c747
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GCH Hill,214f6461
+info,registry,people,GS Drissell,9a089b15
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JE Root,a343262c
+info,registry,people,MA Jones,05f96194
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,W Luxton,c15fb753
+ball,1,0.1,Durham,G Clark,AZ Lees,C McKerr,0,1,1,,,,,"",""
+ball,1,0.2,Durham,G Clark,AZ Lees,C McKerr,4,0,,,,,,"",""
+ball,1,0.3,Durham,G Clark,AZ Lees,C McKerr,1,0,,,,,,"",""
+ball,1,0.4,Durham,AZ Lees,G Clark,C McKerr,0,0,,,,,,"",""
+ball,1,0.5,Durham,AZ Lees,G Clark,C McKerr,0,0,,,,,,"",""
+ball,1,0.6,Durham,AZ Lees,G Clark,C McKerr,4,0,,,,,,"",""
+ball,1,0.7,Durham,AZ Lees,G Clark,C McKerr,0,0,,,,,,"",""
+ball,1,1.1,Durham,G Clark,AZ Lees,DM Bess,4,0,,,,,,"",""
+ball,1,1.2,Durham,G Clark,AZ Lees,DM Bess,1,0,,,,,,"",""
+ball,1,1.3,Durham,AZ Lees,G Clark,DM Bess,0,0,,,,,,"",""
+ball,1,1.4,Durham,AZ Lees,G Clark,DM Bess,0,0,,,,,,"",""
+ball,1,1.5,Durham,AZ Lees,G Clark,DM Bess,0,0,,,,,,"",""
+ball,1,1.6,Durham,AZ Lees,G Clark,DM Bess,1,0,,,,,,"",""
+ball,1,2.1,Durham,AZ Lees,G Clark,D Moriarty,1,0,,,,,,"",""
+ball,1,2.2,Durham,G Clark,AZ Lees,D Moriarty,1,0,,,,,,"",""
+ball,1,2.3,Durham,AZ Lees,G Clark,D Moriarty,0,0,,,,,,stumped,AZ Lees
+ball,1,2.4,Durham,DG Bedingham,G Clark,D Moriarty,0,0,,,,,,"",""
+ball,1,2.5,Durham,DG Bedingham,G Clark,D Moriarty,1,0,,,,,,"",""
+ball,1,2.6,Durham,G Clark,DG Bedingham,D Moriarty,0,0,,,,,,"",""
+ball,1,3.1,Durham,DG Bedingham,G Clark,C McKerr,0,0,,,,,,"",""
+ball,1,3.2,Durham,DG Bedingham,G Clark,C McKerr,1,0,,,,,,"",""
+ball,1,3.3,Durham,G Clark,DG Bedingham,C McKerr,0,0,,,,,,"",""
+ball,1,3.4,Durham,G Clark,DG Bedingham,C McKerr,4,0,,,,,,"",""
+ball,1,3.5,Durham,G Clark,DG Bedingham,C McKerr,0,0,,,,,,"",""
+ball,1,3.6,Durham,G Clark,DG Bedingham,C McKerr,1,0,,,,,,"",""
+ball,1,4.1,Durham,G Clark,DG Bedingham,D Moriarty,1,0,,,,,,"",""
+ball,1,4.2,Durham,DG Bedingham,G Clark,D Moriarty,2,0,,,,,,"",""
+ball,1,4.3,Durham,DG Bedingham,G Clark,D Moriarty,1,0,,,,,,"",""
+ball,1,4.4,Durham,G Clark,DG Bedingham,D Moriarty,0,0,,,,,,"",""
+ball,1,4.5,Durham,G Clark,DG Bedingham,D Moriarty,4,0,,,,,,"",""
+ball,1,4.6,Durham,G Clark,DG Bedingham,D Moriarty,1,0,,,,,,"",""
+ball,1,5.1,Durham,G Clark,DG Bedingham,JA Chohan,1,0,,,,,,"",""
+ball,1,5.2,Durham,DG Bedingham,G Clark,JA Chohan,4,0,,,,,,"",""
+ball,1,5.3,Durham,DG Bedingham,G Clark,JA Chohan,1,0,,,,,,"",""
+ball,1,5.4,Durham,G Clark,DG Bedingham,JA Chohan,2,0,,,,,,"",""
+ball,1,5.5,Durham,G Clark,DG Bedingham,JA Chohan,1,0,,,,,,"",""
+ball,1,5.6,Durham,DG Bedingham,G Clark,JA Chohan,1,0,,,,,,"",""
+ball,1,6.1,Durham,DG Bedingham,G Clark,D Moriarty,0,1,1,,,,,"",""
+ball,1,6.2,Durham,DG Bedingham,G Clark,D Moriarty,1,0,,,,,,"",""
+ball,1,6.3,Durham,G Clark,DG Bedingham,D Moriarty,1,0,,,,,,"",""
+ball,1,6.4,Durham,DG Bedingham,G Clark,D Moriarty,1,0,,,,,,"",""
+ball,1,6.5,Durham,G Clark,DG Bedingham,D Moriarty,1,0,,,,,,"",""
+ball,1,6.6,Durham,DG Bedingham,G Clark,D Moriarty,1,0,,,,,,"",""
+ball,1,6.7,Durham,G Clark,DG Bedingham,D Moriarty,0,0,,,,,,"",""
+ball,1,7.1,Durham,DG Bedingham,G Clark,JA Thompson,0,0,,,,,,"",""
+ball,1,7.2,Durham,DG Bedingham,G Clark,JA Thompson,2,0,,,,,,"",""
+ball,1,7.3,Durham,DG Bedingham,G Clark,JA Thompson,0,0,,,,,,"",""
+ball,1,7.4,Durham,DG Bedingham,G Clark,JA Thompson,1,0,,,,,,"",""
+ball,1,7.5,Durham,G Clark,DG Bedingham,JA Thompson,1,0,,,,,,"",""
+ball,1,7.6,Durham,DG Bedingham,G Clark,JA Thompson,1,0,,,,,,"",""
+ball,1,8.1,Durham,DG Bedingham,G Clark,JA Chohan,2,0,,,,,,"",""
+ball,1,8.2,Durham,DG Bedingham,G Clark,JA Chohan,0,0,,,,,,"",""
+ball,1,8.3,Durham,DG Bedingham,G Clark,JA Chohan,1,0,,,,,,"",""
+ball,1,8.4,Durham,G Clark,DG Bedingham,JA Chohan,1,0,,,,,,"",""
+ball,1,8.5,Durham,DG Bedingham,G Clark,JA Chohan,0,0,,,,,,caught,DG Bedingham
+ball,1,8.6,Durham,OG Robinson,G Clark,JA Chohan,1,0,,,,,,"",""
+ball,1,9.1,Durham,OG Robinson,G Clark,GCH Hill,0,0,,,,,,"",""
+ball,1,9.2,Durham,OG Robinson,G Clark,GCH Hill,4,0,,,,,,"",""
+ball,1,9.3,Durham,OG Robinson,G Clark,GCH Hill,1,0,,,,,,"",""
+ball,1,9.4,Durham,G Clark,OG Robinson,GCH Hill,1,0,,,,,,"",""
+ball,1,9.5,Durham,OG Robinson,G Clark,GCH Hill,1,0,,,,,,"",""
+ball,1,9.6,Durham,G Clark,OG Robinson,GCH Hill,4,0,,,,,,"",""
+ball,1,10.1,Durham,OG Robinson,G Clark,JA Chohan,1,0,,,,,,"",""
+ball,1,10.2,Durham,G Clark,OG Robinson,JA Chohan,0,0,,,,,,"",""
+ball,1,10.3,Durham,G Clark,OG Robinson,JA Chohan,1,0,,,,,,"",""
+ball,1,10.4,Durham,OG Robinson,G Clark,JA Chohan,1,0,,,,,,"",""
+ball,1,10.5,Durham,G Clark,OG Robinson,JA Chohan,0,1,,,,1,,"",""
+ball,1,10.6,Durham,OG Robinson,G Clark,JA Chohan,0,0,,,,,,"",""
+ball,1,11.1,Durham,G Clark,OG Robinson,JA Thompson,1,0,,,,,,"",""
+ball,1,11.2,Durham,OG Robinson,G Clark,JA Thompson,1,0,,,,,,"",""
+ball,1,11.3,Durham,G Clark,OG Robinson,JA Thompson,4,0,,,,,,"",""
+ball,1,11.4,Durham,G Clark,OG Robinson,JA Thompson,4,0,,,,,,"",""
+ball,1,11.5,Durham,G Clark,OG Robinson,JA Thompson,2,0,,,,,,"",""
+ball,1,11.6,Durham,G Clark,OG Robinson,JA Thompson,0,1,,,,1,,"",""
+ball,1,12.1,Durham,G Clark,OG Robinson,D Moriarty,1,0,,,,,,"",""
+ball,1,12.2,Durham,OG Robinson,G Clark,D Moriarty,1,0,,,,,,"",""
+ball,1,12.3,Durham,G Clark,OG Robinson,D Moriarty,1,0,,,,,,"",""
+ball,1,12.4,Durham,OG Robinson,G Clark,D Moriarty,1,0,,,,,,"",""
+ball,1,12.5,Durham,G Clark,OG Robinson,D Moriarty,0,0,,,,,,bowled,G Clark
+ball,1,12.6,Durham,BFW de Leede,OG Robinson,D Moriarty,4,0,,,,,,"",""
+ball,1,13.1,Durham,OG Robinson,BFW de Leede,DM Bess,1,0,,,,,,"",""
+ball,1,13.2,Durham,BFW de Leede,OG Robinson,DM Bess,0,0,,,,,,"",""
+ball,1,13.3,Durham,BFW de Leede,OG Robinson,DM Bess,0,0,,,,,,"",""
+ball,1,13.4,Durham,BFW de Leede,OG Robinson,DM Bess,0,0,,,,,,"",""
+ball,1,13.5,Durham,BFW de Leede,OG Robinson,DM Bess,1,0,,,,,,"",""
+ball,1,13.6,Durham,OG Robinson,BFW de Leede,DM Bess,1,0,,,,,,"",""
+ball,1,14.1,Durham,OG Robinson,BFW de Leede,JA Chohan,1,0,,,,,,"",""
+ball,1,14.2,Durham,BFW de Leede,OG Robinson,JA Chohan,0,0,,,,,,"",""
+ball,1,14.3,Durham,BFW de Leede,OG Robinson,JA Chohan,2,0,,,,,,"",""
+ball,1,14.4,Durham,BFW de Leede,OG Robinson,JA Chohan,1,0,,,,,,"",""
+ball,1,14.5,Durham,OG Robinson,BFW de Leede,JA Chohan,1,0,,,,,,"",""
+ball,1,14.6,Durham,BFW de Leede,OG Robinson,JA Chohan,2,0,,,,,,"",""
+ball,1,15.1,Durham,OG Robinson,BFW de Leede,DM Bess,4,0,,,,,,"",""
+ball,1,15.2,Durham,OG Robinson,BFW de Leede,DM Bess,0,0,,,,,,"",""
+ball,1,15.3,Durham,OG Robinson,BFW de Leede,DM Bess,6,0,,,,,,"",""
+ball,1,15.4,Durham,OG Robinson,BFW de Leede,DM Bess,1,0,,,,,,"",""
+ball,1,15.5,Durham,BFW de Leede,OG Robinson,DM Bess,0,0,,,,,,"",""
+ball,1,15.6,Durham,BFW de Leede,OG Robinson,DM Bess,1,0,,,,,,"",""
+ball,1,16.1,Durham,BFW de Leede,OG Robinson,JA Thompson,1,0,,,,,,"",""
+ball,1,16.2,Durham,OG Robinson,BFW de Leede,JA Thompson,0,1,1,,,,,"",""
+ball,1,16.3,Durham,OG Robinson,BFW de Leede,JA Thompson,0,0,,,,,,"",""
+ball,1,16.4,Durham,OG Robinson,BFW de Leede,JA Thompson,6,0,,,,,,"",""
+ball,1,16.5,Durham,OG Robinson,BFW de Leede,JA Thompson,0,0,,,,,,caught,OG Robinson
+ball,1,16.6,Durham,MA Jones,BFW de Leede,JA Thompson,2,0,,,,,,"",""
+ball,1,16.7,Durham,MA Jones,BFW de Leede,JA Thompson,0,0,,,,,,"",""
+ball,1,17.1,Durham,BFW de Leede,MA Jones,DM Bess,0,0,,,,,,"",""
+ball,1,17.2,Durham,BFW de Leede,MA Jones,DM Bess,4,0,,,,,,"",""
+ball,1,17.3,Durham,BFW de Leede,MA Jones,DM Bess,6,0,,,,,,"",""
+ball,1,17.4,Durham,BFW de Leede,MA Jones,DM Bess,2,0,,,,,,"",""
+ball,1,17.5,Durham,BFW de Leede,MA Jones,DM Bess,4,0,,,,,,"",""
+ball,1,17.6,Durham,BFW de Leede,MA Jones,DM Bess,0,0,,,,,,caught,BFW de Leede
+ball,1,18.1,Durham,MA Jones,BA Raine,JA Thompson,4,0,,,,,,"",""
+ball,1,18.2,Durham,MA Jones,BA Raine,JA Thompson,0,1,1,,,,,"",""
+ball,1,18.3,Durham,MA Jones,BA Raine,JA Thompson,1,0,,,,,,"",""
+ball,1,18.4,Durham,BA Raine,MA Jones,JA Thompson,1,0,,,,,,"",""
+ball,1,18.5,Durham,MA Jones,BA Raine,JA Thompson,1,0,,,,,,"",""
+ball,1,18.6,Durham,BA Raine,MA Jones,JA Thompson,0,1,1,,,,,"",""
+ball,1,18.7,Durham,BA Raine,MA Jones,JA Thompson,0,0,,,,,,"",""
+ball,1,18.8,Durham,BA Raine,MA Jones,JA Thompson,0,0,,,,,,bowled,BA Raine
+ball,1,19.1,Durham,MA Jones,BJ Dwarshuis,C McKerr,2,0,,,,,,"",""
+ball,1,19.2,Durham,MA Jones,BJ Dwarshuis,C McKerr,6,0,,,,,,"",""
+ball,1,19.3,Durham,MA Jones,BJ Dwarshuis,C McKerr,1,0,,,,,,"",""
+ball,1,19.4,Durham,BJ Dwarshuis,MA Jones,C McKerr,2,0,,,,,,"",""
+ball,1,19.5,Durham,BJ Dwarshuis,MA Jones,C McKerr,2,0,,,,,,"",""
+ball,1,19.6,Durham,BJ Dwarshuis,MA Jones,C McKerr,4,0,,,,,,"",""
+ball,2,0.1,Yorkshire,A Lyth,DJ Malan,GS Drissell,1,0,,,,,,"",""
+ball,2,0.2,Yorkshire,DJ Malan,A Lyth,GS Drissell,1,0,,,,,,"",""
+ball,2,0.3,Yorkshire,A Lyth,DJ Malan,GS Drissell,0,0,,,,,,"",""
+ball,2,0.4,Yorkshire,A Lyth,DJ Malan,GS Drissell,1,0,,,,,,"",""
+ball,2,0.5,Yorkshire,DJ Malan,A Lyth,GS Drissell,0,0,,,,,,"",""
+ball,2,0.6,Yorkshire,DJ Malan,A Lyth,GS Drissell,2,0,,,,,,"",""
+ball,2,1.1,Yorkshire,A Lyth,DJ Malan,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,1.2,Yorkshire,A Lyth,DJ Malan,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.3,Yorkshire,A Lyth,DJ Malan,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.4,Yorkshire,A Lyth,DJ Malan,BJ Dwarshuis,0,1,1,,,,,"",""
+ball,2,1.5,Yorkshire,A Lyth,DJ Malan,BJ Dwarshuis,6,0,,,,,,"",""
+ball,2,1.6,Yorkshire,A Lyth,DJ Malan,BJ Dwarshuis,0,1,,,,1,,"",""
+ball,2,1.7,Yorkshire,DJ Malan,A Lyth,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,2.1,Yorkshire,DJ Malan,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,2.2,Yorkshire,A Lyth,DJ Malan,CF Parkinson,1,0,,,,,,"",""
+ball,2,2.3,Yorkshire,DJ Malan,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,2.4,Yorkshire,A Lyth,DJ Malan,CF Parkinson,1,0,,,,,,"",""
+ball,2,2.5,Yorkshire,DJ Malan,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,2.6,Yorkshire,A Lyth,DJ Malan,CF Parkinson,1,0,,,,,,"",""
+ball,2,3.1,Yorkshire,A Lyth,DJ Malan,GS Drissell,4,0,,,,,,"",""
+ball,2,3.2,Yorkshire,A Lyth,DJ Malan,GS Drissell,6,0,,,,,,"",""
+ball,2,3.3,Yorkshire,A Lyth,DJ Malan,GS Drissell,1,0,,,,,,"",""
+ball,2,3.4,Yorkshire,DJ Malan,A Lyth,GS Drissell,0,0,,,,,,caught,DJ Malan
+ball,2,3.5,Yorkshire,JE Root,A Lyth,GS Drissell,2,0,,,,,,"",""
+ball,2,3.6,Yorkshire,JE Root,A Lyth,GS Drissell,1,0,,,,,,"",""
+ball,2,4.1,Yorkshire,JE Root,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,4.2,Yorkshire,A Lyth,JE Root,CF Parkinson,1,0,,,,,,"",""
+ball,2,4.3,Yorkshire,JE Root,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,4.4,Yorkshire,A Lyth,JE Root,CF Parkinson,1,0,,,,,,"",""
+ball,2,4.5,Yorkshire,JE Root,A Lyth,CF Parkinson,0,0,,,,,,"",""
+ball,2,4.6,Yorkshire,JE Root,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,5.1,Yorkshire,JE Root,A Lyth,BJ Dwarshuis,6,0,,,,,,"",""
+ball,2,5.2,Yorkshire,JE Root,A Lyth,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,5.3,Yorkshire,JE Root,A Lyth,BJ Dwarshuis,2,0,,,,,,"",""
+ball,2,5.4,Yorkshire,JE Root,A Lyth,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,5.5,Yorkshire,A Lyth,JE Root,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,5.6,Yorkshire,JE Root,A Lyth,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,6.1,Yorkshire,A Lyth,JE Root,BA Raine,1,0,,,,,,"",""
+ball,2,6.2,Yorkshire,JE Root,A Lyth,BA Raine,1,0,,,,,,"",""
+ball,2,6.3,Yorkshire,A Lyth,JE Root,BA Raine,0,0,,,,,,"",""
+ball,2,6.4,Yorkshire,A Lyth,JE Root,BA Raine,1,0,,,,,,"",""
+ball,2,6.5,Yorkshire,JE Root,A Lyth,BA Raine,0,0,,,,,,caught,JE Root
+ball,2,6.6,Yorkshire,W Luxton,A Lyth,BA Raine,0,0,,,,,,"",""
+ball,2,7.1,Yorkshire,A Lyth,W Luxton,NA Sowter,1,0,,,,,,"",""
+ball,2,7.2,Yorkshire,W Luxton,A Lyth,NA Sowter,0,1,1,,,,,"",""
+ball,2,7.3,Yorkshire,W Luxton,A Lyth,NA Sowter,0,0,,,,,,"",""
+ball,2,7.4,Yorkshire,W Luxton,A Lyth,NA Sowter,0,5,5,,,,,"",""
+ball,2,7.5,Yorkshire,W Luxton,A Lyth,NA Sowter,2,0,,,,,,"",""
+ball,2,7.6,Yorkshire,W Luxton,A Lyth,NA Sowter,1,0,,,,,,"",""
+ball,2,7.7,Yorkshire,A Lyth,W Luxton,NA Sowter,1,0,,,,,,"",""
+ball,2,7.8,Yorkshire,W Luxton,A Lyth,NA Sowter,0,0,,,,,,"",""
+ball,2,8.1,Yorkshire,A Lyth,W Luxton,CF Parkinson,4,0,,,,,,"",""
+ball,2,8.2,Yorkshire,A Lyth,W Luxton,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.3,Yorkshire,W Luxton,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.4,Yorkshire,A Lyth,W Luxton,CF Parkinson,2,0,,,,,,"",""
+ball,2,8.5,Yorkshire,A Lyth,W Luxton,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.6,Yorkshire,W Luxton,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,9.1,Yorkshire,W Luxton,A Lyth,GS Drissell,6,0,,,,,,"",""
+ball,2,9.2,Yorkshire,W Luxton,A Lyth,GS Drissell,6,0,,,,,,"",""
+ball,2,9.3,Yorkshire,W Luxton,A Lyth,GS Drissell,4,0,,,,,,"",""
+ball,2,9.4,Yorkshire,W Luxton,A Lyth,GS Drissell,1,0,,,,,,"",""
+ball,2,9.5,Yorkshire,A Lyth,W Luxton,GS Drissell,1,0,,,,,,"",""
+ball,2,9.6,Yorkshire,W Luxton,A Lyth,GS Drissell,1,0,,,,,,"",""
+ball,2,10.1,Yorkshire,W Luxton,A Lyth,BA Raine,6,0,,,,,,"",""
+ball,2,10.2,Yorkshire,W Luxton,A Lyth,BA Raine,1,0,,,,,,"",""
+ball,2,10.3,Yorkshire,A Lyth,W Luxton,BA Raine,1,0,,,,,,"",""
+ball,2,10.4,Yorkshire,W Luxton,A Lyth,BA Raine,1,0,,,,,,"",""
+ball,2,10.5,Yorkshire,A Lyth,W Luxton,BA Raine,1,0,,,,,,"",""
+ball,2,10.6,Yorkshire,W Luxton,A Lyth,BA Raine,1,0,,,,,,"",""
+ball,2,11.1,Yorkshire,W Luxton,A Lyth,NA Sowter,1,0,,,,,,"",""
+ball,2,11.2,Yorkshire,A Lyth,W Luxton,NA Sowter,1,0,,,,,,"",""
+ball,2,11.3,Yorkshire,W Luxton,A Lyth,NA Sowter,0,0,,,,,,bowled,W Luxton
+ball,2,11.4,Yorkshire,D Ferreira,A Lyth,NA Sowter,0,0,,,,,,"",""
+ball,2,11.5,Yorkshire,D Ferreira,A Lyth,NA Sowter,0,0,,,,,,"",""
+ball,2,11.6,Yorkshire,D Ferreira,A Lyth,NA Sowter,2,0,,,,,,"",""
+ball,2,12.1,Yorkshire,A Lyth,D Ferreira,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.2,Yorkshire,D Ferreira,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.3,Yorkshire,A Lyth,D Ferreira,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.4,Yorkshire,D Ferreira,A Lyth,CF Parkinson,0,0,,,,,,"",""
+ball,2,12.5,Yorkshire,D Ferreira,A Lyth,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.6,Yorkshire,A Lyth,D Ferreira,CF Parkinson,0,0,,,,,,"",""
+ball,2,13.1,Yorkshire,D Ferreira,A Lyth,NA Sowter,1,0,,,,,,"",""
+ball,2,13.2,Yorkshire,A Lyth,D Ferreira,NA Sowter,1,0,,,,,,"",""
+ball,2,13.3,Yorkshire,D Ferreira,A Lyth,NA Sowter,1,0,,,,,,"",""
+ball,2,13.4,Yorkshire,A Lyth,D Ferreira,NA Sowter,4,0,,,,,,"",""
+ball,2,13.5,Yorkshire,A Lyth,D Ferreira,NA Sowter,0,0,,,,,,"",""
+ball,2,13.6,Yorkshire,A Lyth,D Ferreira,NA Sowter,1,0,,,,,,"",""
+ball,2,14.1,Yorkshire,A Lyth,D Ferreira,BA Raine,0,0,,,,,,"",""
+ball,2,14.2,Yorkshire,A Lyth,D Ferreira,BA Raine,1,0,,,,,,"",""
+ball,2,14.3,Yorkshire,D Ferreira,A Lyth,BA Raine,1,0,,,,,,"",""
+ball,2,14.4,Yorkshire,A Lyth,D Ferreira,BA Raine,0,0,,,,,,lbw,A Lyth
+ball,2,14.5,Yorkshire,JA Thompson,D Ferreira,BA Raine,1,0,,,,,,"",""
+ball,2,14.6,Yorkshire,D Ferreira,JA Thompson,BA Raine,0,0,,,,,,"",""
+ball,2,15.1,Yorkshire,JA Thompson,D Ferreira,NA Sowter,0,0,,,,,,"",""
+ball,2,15.2,Yorkshire,JA Thompson,D Ferreira,NA Sowter,0,0,,,,,,caught and bowled,JA Thompson
+ball,2,15.3,Yorkshire,GCH Hill,D Ferreira,NA Sowter,1,0,,,,,,"",""
+ball,2,15.4,Yorkshire,D Ferreira,GCH Hill,NA Sowter,6,0,,,,,,"",""
+ball,2,15.5,Yorkshire,D Ferreira,GCH Hill,NA Sowter,0,0,,,,,,"",""
+ball,2,15.6,Yorkshire,D Ferreira,GCH Hill,NA Sowter,1,0,,,,,,"",""
+ball,2,16.1,Yorkshire,D Ferreira,GCH Hill,BFW de Leede,0,0,,,,,,"",""
+ball,2,16.2,Yorkshire,D Ferreira,GCH Hill,BFW de Leede,2,0,,,,,,"",""
+ball,2,16.3,Yorkshire,D Ferreira,GCH Hill,BFW de Leede,2,0,,,,,,"",""
+ball,2,16.4,Yorkshire,D Ferreira,GCH Hill,BFW de Leede,1,0,,,,,,"",""
+ball,2,16.5,Yorkshire,GCH Hill,D Ferreira,BFW de Leede,0,0,,,,,,"",""
+ball,2,16.6,Yorkshire,GCH Hill,D Ferreira,BFW de Leede,6,0,,,,,,"",""
+ball,2,17.1,Yorkshire,D Ferreira,GCH Hill,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,17.2,Yorkshire,GCH Hill,D Ferreira,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,17.3,Yorkshire,D Ferreira,GCH Hill,BJ Dwarshuis,1,0,,,,,,run out,D Ferreira
+ball,2,17.4,Yorkshire,DM Bess,GCH Hill,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,17.5,Yorkshire,GCH Hill,DM Bess,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,17.6,Yorkshire,GCH Hill,DM Bess,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,18.1,Yorkshire,GCH Hill,DM Bess,BA Raine,4,0,,,,,,"",""
+ball,2,18.2,Yorkshire,GCH Hill,DM Bess,BA Raine,0,0,,,,,,"",""
+ball,2,18.3,Yorkshire,GCH Hill,DM Bess,BA Raine,0,0,,,,,,"",""
+ball,2,18.4,Yorkshire,GCH Hill,DM Bess,BA Raine,1,0,,,,,,"",""
+ball,2,18.5,Yorkshire,DM Bess,GCH Hill,BA Raine,4,0,,,,,,"",""
+ball,2,18.6,Yorkshire,DM Bess,GCH Hill,BA Raine,0,0,,,,,,"",""
+ball,2,19.1,Yorkshire,GCH Hill,DM Bess,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,19.2,Yorkshire,DM Bess,GCH Hill,BJ Dwarshuis,2,0,,,,,,"",""
+ball,2,19.3,Yorkshire,DM Bess,GCH Hill,BJ Dwarshuis,0,0,,,,,,caught,DM Bess
+ball,2,19.4,Yorkshire,C McKerr,GCH Hill,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,19.5,Yorkshire,C McKerr,GCH Hill,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,19.6,Yorkshire,GCH Hill,C McKerr,BJ Dwarshuis,0,0,,,,,,"",""

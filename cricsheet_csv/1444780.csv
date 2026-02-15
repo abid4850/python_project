@@ -1,0 +1,247 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Boland
+info,gender,male
+info,season,2024/25
+info,date,2024/10/09
+info,event,CSA T20 Challenge
+info,match_number,16
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Boland
+info,toss_decision,field
+info,player_of_match,H Klaasen
+info,player_of_match,Dayyaan Galiem
+info,umpire,AM Sodumo
+info,umpire,LB Gcuma
+info,reserve_umpire,PJ Vosloo
+info,match_referee,ZTA Ndamane
+info,winner,Titans
+info,winner_runs,94
+info,player,Titans,LG Pretorius
+info,player,Titans,R Moonsamy
+info,player,Titans,KD Petersen
+info,player,Titans,H Klaasen
+info,player,Titans,BS Makhanya
+info,player,Titans,D Ferreira
+info,player,Titans,AL Phehlukwayo
+info,player,Titans,Dayyaan Galiem
+info,player,Titans,C Bosch
+info,player,Titans,M Boast
+info,player,Titans,Tsepo Ndwandwa
+info,player,Boland,PJ Malan
+info,player,Boland,G Roelofsen
+info,player,Boland,G Kaplan
+info,player,Boland,C Fortuin
+info,player,Boland,M Copeland
+info,player,Boland,KJ Dudgeon
+info,player,Boland,A Gqamane
+info,player,Boland,I Manack
+info,player,Boland,GA Stuurman
+info,player,Boland,A Mnyaka
+info,player,Boland,FD Adams
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,A Mnyaka,bd36db2c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,C Bosch,172dff15
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,FD Adams,f277f531
+info,registry,people,G Kaplan,a5c3d564
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GA Stuurman,d4d37c31
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,I Manack,5ec126fa
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,KJ Dudgeon,b8828a1b
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Boast,2f838fa4
+info,registry,people,M Copeland,9943b637
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,R Moonsamy,29e676b0
+info,registry,people,Tsepo Ndwandwa,be3ffb65
+info,registry,people,ZTA Ndamane,545cc6db
+ball,1,0.1,Titans,LG Pretorius,R Moonsamy,GA Stuurman,0,0,,,,,,"",""
+ball,1,0.2,Titans,LG Pretorius,R Moonsamy,GA Stuurman,2,0,,,,,,"",""
+ball,1,0.3,Titans,LG Pretorius,R Moonsamy,GA Stuurman,1,0,,,,,,"",""
+ball,1,0.4,Titans,R Moonsamy,LG Pretorius,GA Stuurman,4,0,,,,,,"",""
+ball,1,0.5,Titans,R Moonsamy,LG Pretorius,GA Stuurman,1,0,,,,,,"",""
+ball,1,0.6,Titans,LG Pretorius,R Moonsamy,GA Stuurman,0,0,,,,,,"",""
+ball,1,1.1,Titans,R Moonsamy,LG Pretorius,KJ Dudgeon,0,1,1,,,,,"",""
+ball,1,1.2,Titans,R Moonsamy,LG Pretorius,KJ Dudgeon,1,0,,,,,,"",""
+ball,1,1.3,Titans,LG Pretorius,R Moonsamy,KJ Dudgeon,0,0,,,,,,"",""
+ball,1,1.4,Titans,LG Pretorius,R Moonsamy,KJ Dudgeon,0,0,,,,,,lbw,LG Pretorius
+ball,1,1.5,Titans,KD Petersen,R Moonsamy,KJ Dudgeon,4,0,,,,,,"",""
+ball,1,1.6,Titans,KD Petersen,R Moonsamy,KJ Dudgeon,1,0,,,,,,"",""
+ball,1,1.7,Titans,R Moonsamy,KD Petersen,KJ Dudgeon,0,0,,,,,,"",""
+ball,1,2.1,Titans,KD Petersen,R Moonsamy,GA Stuurman,1,0,,,,,,"",""
+ball,1,2.2,Titans,R Moonsamy,KD Petersen,GA Stuurman,0,0,,,,,,"",""
+ball,1,2.3,Titans,R Moonsamy,KD Petersen,GA Stuurman,0,0,,,,,,"",""
+ball,1,2.4,Titans,R Moonsamy,KD Petersen,GA Stuurman,1,0,,,,,,"",""
+ball,1,2.5,Titans,KD Petersen,R Moonsamy,GA Stuurman,0,1,,,,1,,"",""
+ball,1,2.6,Titans,R Moonsamy,KD Petersen,GA Stuurman,1,0,,,,,,"",""
+ball,1,3.1,Titans,R Moonsamy,KD Petersen,KJ Dudgeon,6,0,,,,,,"",""
+ball,1,3.2,Titans,R Moonsamy,KD Petersen,KJ Dudgeon,2,0,,,,,,"",""
+ball,1,3.3,Titans,R Moonsamy,KD Petersen,KJ Dudgeon,0,0,,,,,,"",""
+ball,1,3.4,Titans,R Moonsamy,KD Petersen,KJ Dudgeon,1,0,,,,,,"",""
+ball,1,3.5,Titans,KD Petersen,R Moonsamy,KJ Dudgeon,1,0,,,,,,"",""
+ball,1,3.6,Titans,R Moonsamy,KD Petersen,KJ Dudgeon,6,0,,,,,,"",""
+ball,1,4.1,Titans,KD Petersen,R Moonsamy,I Manack,1,0,,,,,,"",""
+ball,1,4.2,Titans,R Moonsamy,KD Petersen,I Manack,2,0,,,,,,"",""
+ball,1,4.3,Titans,R Moonsamy,KD Petersen,I Manack,4,0,,,,,,"",""
+ball,1,4.4,Titans,R Moonsamy,KD Petersen,I Manack,4,0,,,,,,"",""
+ball,1,4.5,Titans,R Moonsamy,KD Petersen,I Manack,4,0,,,,,,"",""
+ball,1,4.6,Titans,R Moonsamy,KD Petersen,I Manack,1,0,,,,,,"",""
+ball,1,5.1,Titans,R Moonsamy,KD Petersen,FD Adams,0,0,,,,,,"",""
+ball,1,5.2,Titans,R Moonsamy,KD Petersen,FD Adams,0,0,,,,,,"",""
+ball,1,5.3,Titans,R Moonsamy,KD Petersen,FD Adams,0,0,,,,,,bowled,R Moonsamy
+ball,1,5.4,Titans,H Klaasen,KD Petersen,FD Adams,0,0,,,,,,"",""
+ball,1,5.5,Titans,H Klaasen,KD Petersen,FD Adams,1,0,,,,,,"",""
+ball,1,5.6,Titans,KD Petersen,H Klaasen,FD Adams,0,0,,,,,,caught and bowled,KD Petersen
+ball,1,6.1,Titans,H Klaasen,BS Makhanya,A Mnyaka,1,0,,,,,,"",""
+ball,1,6.2,Titans,BS Makhanya,H Klaasen,A Mnyaka,4,0,,,,,,"",""
+ball,1,6.3,Titans,BS Makhanya,H Klaasen,A Mnyaka,0,0,,,,,,"",""
+ball,1,6.4,Titans,BS Makhanya,H Klaasen,A Mnyaka,1,0,,,,,,"",""
+ball,1,6.5,Titans,H Klaasen,BS Makhanya,A Mnyaka,0,0,,,,,,"",""
+ball,1,6.6,Titans,H Klaasen,BS Makhanya,A Mnyaka,1,0,,,,,,"",""
+ball,1,7.1,Titans,H Klaasen,BS Makhanya,FD Adams,1,0,,,,,,"",""
+ball,1,7.2,Titans,BS Makhanya,H Klaasen,A Gqamane,2,0,,,,,,"",""
+ball,1,7.3,Titans,BS Makhanya,H Klaasen,A Gqamane,0,0,,,,,,"",""
+ball,1,7.4,Titans,BS Makhanya,H Klaasen,A Gqamane,6,0,,,,,,"",""
+ball,1,7.5,Titans,BS Makhanya,H Klaasen,A Gqamane,2,0,,,,,,"",""
+ball,1,7.6,Titans,BS Makhanya,H Klaasen,A Gqamane,4,0,,,,,,"",""
+ball,1,8.1,Titans,H Klaasen,BS Makhanya,I Manack,1,0,,,,,,"",""
+ball,1,8.2,Titans,BS Makhanya,H Klaasen,I Manack,0,0,,,,,,"",""
+ball,1,8.3,Titans,BS Makhanya,H Klaasen,I Manack,1,0,,,,,,"",""
+ball,1,8.4,Titans,H Klaasen,BS Makhanya,I Manack,0,0,,,,,,"",""
+ball,1,8.5,Titans,H Klaasen,BS Makhanya,I Manack,1,0,,,,,,"",""
+ball,1,8.6,Titans,BS Makhanya,H Klaasen,I Manack,0,0,,,,,,caught,BS Makhanya
+ball,1,9.1,Titans,H Klaasen,D Ferreira,A Mnyaka,4,0,,,,,,"",""
+ball,1,9.2,Titans,H Klaasen,D Ferreira,A Mnyaka,1,0,,,,,,"",""
+ball,1,9.3,Titans,D Ferreira,H Klaasen,A Mnyaka,1,0,,,,,,"",""
+ball,1,9.4,Titans,H Klaasen,D Ferreira,A Mnyaka,1,0,,,,,,"",""
+ball,1,9.5,Titans,D Ferreira,H Klaasen,A Mnyaka,1,0,,,,,,"",""
+ball,1,9.6,Titans,H Klaasen,D Ferreira,A Mnyaka,1,0,,,,,,"",""
+ball,1,10.1,Titans,H Klaasen,D Ferreira,I Manack,6,0,,,,,,"",""
+ball,1,10.2,Titans,H Klaasen,D Ferreira,I Manack,0,0,,,,,,"",""
+ball,1,10.3,Titans,H Klaasen,D Ferreira,I Manack,4,0,,,,,,"",""
+ball,1,10.4,Titans,H Klaasen,D Ferreira,I Manack,1,0,,,,,,"",""
+ball,1,10.5,Titans,D Ferreira,H Klaasen,I Manack,1,0,,,,,,"",""
+ball,1,10.6,Titans,H Klaasen,D Ferreira,I Manack,0,1,1,,,,,"",""
+ball,1,10.7,Titans,H Klaasen,D Ferreira,I Manack,1,0,,,,,,"",""
+ball,1,11.1,Titans,H Klaasen,D Ferreira,A Mnyaka,1,0,,,,,,"",""
+ball,1,11.2,Titans,D Ferreira,H Klaasen,A Mnyaka,4,0,,,,,,"",""
+ball,1,11.3,Titans,D Ferreira,H Klaasen,A Mnyaka,0,0,,,,,,"",""
+ball,1,11.4,Titans,D Ferreira,H Klaasen,A Mnyaka,4,0,,,,,,"",""
+ball,1,11.5,Titans,D Ferreira,H Klaasen,A Mnyaka,0,0,,,,,,"",""
+ball,1,11.6,Titans,D Ferreira,H Klaasen,A Mnyaka,4,0,,,,,,"",""
+ball,1,12.1,Titans,H Klaasen,D Ferreira,A Gqamane,4,0,,,,,,"",""
+ball,1,12.2,Titans,H Klaasen,D Ferreira,A Gqamane,2,0,,,,,,"",""
+ball,1,12.3,Titans,H Klaasen,D Ferreira,A Gqamane,0,1,1,,,,,"",""
+ball,1,12.4,Titans,H Klaasen,D Ferreira,A Gqamane,4,0,,,,,,"",""
+ball,1,12.5,Titans,H Klaasen,D Ferreira,A Gqamane,0,1,1,,,,,"",""
+ball,1,12.6,Titans,H Klaasen,D Ferreira,A Gqamane,6,0,,,,,,"",""
+ball,1,12.7,Titans,H Klaasen,D Ferreira,A Gqamane,6,0,,,,,,"",""
+ball,1,12.8,Titans,H Klaasen,D Ferreira,A Gqamane,1,0,,,,,,"",""
+ball,1,13.1,Titans,H Klaasen,D Ferreira,KJ Dudgeon,2,0,,,,,,"",""
+ball,1,13.2,Titans,H Klaasen,D Ferreira,KJ Dudgeon,1,0,,,,,,"",""
+ball,1,13.3,Titans,D Ferreira,H Klaasen,KJ Dudgeon,0,0,,,,,,"",""
+ball,1,13.4,Titans,D Ferreira,H Klaasen,KJ Dudgeon,1,0,,,,,,"",""
+ball,1,13.5,Titans,H Klaasen,D Ferreira,KJ Dudgeon,6,0,,,,,,"",""
+ball,1,13.6,Titans,H Klaasen,D Ferreira,KJ Dudgeon,0,1,1,,,,,"",""
+ball,1,13.7,Titans,H Klaasen,D Ferreira,KJ Dudgeon,4,0,,,,,,"",""
+ball,1,14.1,Titans,D Ferreira,H Klaasen,GA Stuurman,1,0,,,,,,"",""
+ball,1,14.2,Titans,H Klaasen,D Ferreira,GA Stuurman,2,0,,,,,,"",""
+ball,1,14.3,Titans,H Klaasen,D Ferreira,GA Stuurman,6,0,,,,,,"",""
+ball,1,14.4,Titans,H Klaasen,D Ferreira,GA Stuurman,1,0,,,,,,"",""
+ball,1,14.5,Titans,D Ferreira,H Klaasen,GA Stuurman,4,0,,,,,,"",""
+ball,1,14.6,Titans,D Ferreira,H Klaasen,GA Stuurman,2,0,,,,,,"",""
+ball,2,0.1,Boland,PJ Malan,G Roelofsen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,0.2,Boland,PJ Malan,G Roelofsen,Dayyaan Galiem,2,0,,,,,,"",""
+ball,2,0.3,Boland,PJ Malan,G Roelofsen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,0.4,Boland,PJ Malan,G Roelofsen,Dayyaan Galiem,0,0,,,,,,caught,PJ Malan
+ball,2,0.5,Boland,G Kaplan,G Roelofsen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,0.6,Boland,G Kaplan,G Roelofsen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,1.1,Boland,G Roelofsen,G Kaplan,M Boast,0,0,,,,,,"",""
+ball,2,1.2,Boland,G Roelofsen,G Kaplan,M Boast,1,0,,,,,,"",""
+ball,2,1.3,Boland,G Kaplan,G Roelofsen,M Boast,0,1,1,,,,,"",""
+ball,2,1.4,Boland,G Kaplan,G Roelofsen,M Boast,0,0,,,,,,"",""
+ball,2,1.5,Boland,G Kaplan,G Roelofsen,M Boast,1,0,,,,,,"",""
+ball,2,1.6,Boland,G Roelofsen,G Kaplan,M Boast,0,0,,,,,,"",""
+ball,2,1.7,Boland,G Roelofsen,G Kaplan,M Boast,1,0,,,,,,"",""
+ball,2,2.1,Boland,G Roelofsen,G Kaplan,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,2.2,Boland,G Kaplan,G Roelofsen,Dayyaan Galiem,0,0,,,,,,caught,G Kaplan
+ball,2,2.3,Boland,C Fortuin,G Roelofsen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,2.4,Boland,C Fortuin,G Roelofsen,Dayyaan Galiem,0,0,,,,,,bowled,C Fortuin
+ball,2,2.5,Boland,M Copeland,G Roelofsen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,2.6,Boland,M Copeland,G Roelofsen,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,3.1,Boland,M Copeland,G Roelofsen,M Boast,0,0,,,,,,caught,M Copeland
+ball,2,3.2,Boland,KJ Dudgeon,G Roelofsen,M Boast,0,0,,,,,,"",""
+ball,2,3.3,Boland,KJ Dudgeon,G Roelofsen,M Boast,0,0,,,,,,"",""
+ball,2,3.4,Boland,KJ Dudgeon,G Roelofsen,M Boast,1,0,,,,,,"",""
+ball,2,3.5,Boland,G Roelofsen,KJ Dudgeon,M Boast,0,1,1,,,,,"",""
+ball,2,3.6,Boland,G Roelofsen,KJ Dudgeon,M Boast,1,0,,,,,,"",""
+ball,2,3.7,Boland,KJ Dudgeon,G Roelofsen,M Boast,0,0,,,,,,"",""
+ball,2,4.1,Boland,G Roelofsen,KJ Dudgeon,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,4.2,Boland,G Roelofsen,KJ Dudgeon,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,4.3,Boland,KJ Dudgeon,G Roelofsen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,4.4,Boland,KJ Dudgeon,G Roelofsen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,2,4.5,Boland,KJ Dudgeon,G Roelofsen,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,4.6,Boland,G Roelofsen,KJ Dudgeon,Dayyaan Galiem,1,0,,,,,,"",""
+ball,2,5.1,Boland,G Roelofsen,KJ Dudgeon,C Bosch,4,0,,,,,,"",""
+ball,2,5.2,Boland,G Roelofsen,KJ Dudgeon,C Bosch,0,0,,,,,,"",""
+ball,2,5.3,Boland,G Roelofsen,KJ Dudgeon,C Bosch,0,0,,,,,,"",""
+ball,2,5.4,Boland,G Roelofsen,KJ Dudgeon,C Bosch,4,0,,,,,,"",""
+ball,2,5.5,Boland,G Roelofsen,KJ Dudgeon,C Bosch,0,0,,,,,,"",""
+ball,2,5.6,Boland,G Roelofsen,KJ Dudgeon,C Bosch,1,0,,,,,,"",""
+ball,2,6.1,Boland,G Roelofsen,KJ Dudgeon,Tsepo Ndwandwa,0,1,,,,1,,"",""
+ball,2,6.2,Boland,KJ Dudgeon,G Roelofsen,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,6.3,Boland,G Roelofsen,KJ Dudgeon,Tsepo Ndwandwa,6,0,,,,,,"",""
+ball,2,6.4,Boland,G Roelofsen,KJ Dudgeon,Tsepo Ndwandwa,4,0,,,,,,"",""
+ball,2,6.5,Boland,G Roelofsen,KJ Dudgeon,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,6.6,Boland,KJ Dudgeon,G Roelofsen,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,7.1,Boland,KJ Dudgeon,G Roelofsen,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,7.2,Boland,KJ Dudgeon,G Roelofsen,AL Phehlukwayo,0,0,,,,,,caught,KJ Dudgeon
+ball,2,7.3,Boland,A Gqamane,G Roelofsen,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,7.4,Boland,A Gqamane,G Roelofsen,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,7.5,Boland,A Gqamane,G Roelofsen,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,7.6,Boland,A Gqamane,G Roelofsen,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,8.1,Boland,G Roelofsen,A Gqamane,C Bosch,0,0,,,,,,bowled,G Roelofsen
+ball,2,8.2,Boland,I Manack,A Gqamane,C Bosch,0,0,,,,,,"",""
+ball,2,8.3,Boland,I Manack,A Gqamane,C Bosch,0,0,,,,,,"",""
+ball,2,8.4,Boland,I Manack,A Gqamane,C Bosch,0,1,1,,,,,"",""
+ball,2,8.5,Boland,I Manack,A Gqamane,C Bosch,0,0,,,,,,"",""
+ball,2,8.6,Boland,I Manack,A Gqamane,C Bosch,1,0,,,,,,"",""
+ball,2,8.7,Boland,A Gqamane,I Manack,C Bosch,0,1,,,,1,,"",""
+ball,2,9.1,Boland,A Gqamane,I Manack,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,9.2,Boland,A Gqamane,I Manack,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,9.3,Boland,A Gqamane,I Manack,AL Phehlukwayo,2,0,,,,,,"",""
+ball,2,9.4,Boland,A Gqamane,I Manack,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,9.5,Boland,I Manack,A Gqamane,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,9.6,Boland,A Gqamane,I Manack,AL Phehlukwayo,2,0,,,,,,"",""
+ball,2,10.1,Boland,I Manack,A Gqamane,Tsepo Ndwandwa,0,0,,,,,,bowled,I Manack
+ball,2,10.2,Boland,GA Stuurman,A Gqamane,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,10.3,Boland,A Gqamane,GA Stuurman,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,10.4,Boland,GA Stuurman,A Gqamane,Tsepo Ndwandwa,4,0,,,,,,"",""
+ball,2,10.5,Boland,GA Stuurman,A Gqamane,Tsepo Ndwandwa,0,0,,,,,,"",""
+ball,2,10.6,Boland,GA Stuurman,A Gqamane,Tsepo Ndwandwa,1,0,,,,,,"",""
+ball,2,11.1,Boland,GA Stuurman,A Gqamane,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,11.2,Boland,GA Stuurman,A Gqamane,AL Phehlukwayo,0,0,,,,,,bowled,GA Stuurman
+ball,2,11.3,Boland,A Mnyaka,A Gqamane,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,11.4,Boland,A Mnyaka,A Gqamane,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,11.5,Boland,A Mnyaka,A Gqamane,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,11.6,Boland,A Gqamane,A Mnyaka,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,12.1,Boland,A Mnyaka,A Gqamane,M Boast,0,0,,,,,,"",""
+ball,2,12.2,Boland,A Mnyaka,A Gqamane,M Boast,1,0,,,,,,"",""
+ball,2,12.3,Boland,A Gqamane,A Mnyaka,M Boast,4,0,,,,,,"",""
+ball,2,12.4,Boland,A Gqamane,A Mnyaka,M Boast,6,0,,,,,,"",""
+ball,2,12.5,Boland,A Gqamane,A Mnyaka,M Boast,4,0,,,,,,"",""
+ball,2,12.6,Boland,A Gqamane,A Mnyaka,M Boast,1,0,,,,,,"",""
+ball,2,13.1,Boland,A Gqamane,A Mnyaka,C Bosch,4,0,,,,,,"",""
+ball,2,13.2,Boland,A Gqamane,A Mnyaka,C Bosch,1,0,,,,,,run out,A Gqamane

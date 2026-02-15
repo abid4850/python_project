@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Kent
+info,gender,male
+info,season,2022
+info,date,2022/06/24
+info,event,Vitality Blast
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,Chris Watts
+info,umpire,Mark Newell
+info,match_referee,Phil Whitticase
+info,winner,Kent
+info,winner_wickets,6
+info,player,Sussex,Mohammad Rizwan
+info,player,Sussex,AGH Orr
+info,player,Sussex,HD Ward
+info,player,Sussex,TP Alsop
+info,player,Sussex,DMW Rawlins
+info,player,Sussex,RS Bopara
+info,player,Sussex,GHS Garton
+info,player,Sussex,Rashid Khan
+info,player,Sussex,WAT Beer
+info,player,Sussex,HT Crocombe
+info,player,Sussex,ST Finn
+info,player,Kent,JL Denly
+info,player,Kent,TS Muyeye
+info,player,Kent,JM Cox
+info,player,Kent,SW Billings
+info,player,Kent,AJ Blake
+info,player,Kent,GF Linde
+info,player,Kent,JA Leaning
+info,player,Kent,G Stewart
+info,player,Kent,Qais Ahmad
+info,player,Kent,Jaskaran Singh
+info,player,Kent,FJ Klaassen
+info,registry,people,AGH Orr,1ab18b25
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,Jaskaran Singh,ec178b04
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WAT Beer,98eacfe5
+ball,1,0.1,Sussex,Mohammad Rizwan,AGH Orr,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.2,Sussex,Mohammad Rizwan,AGH Orr,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.3,Sussex,Mohammad Rizwan,AGH Orr,FJ Klaassen,4,0,,,,,,"",""
+ball,1,0.4,Sussex,Mohammad Rizwan,AGH Orr,FJ Klaassen,0,0,,,,,,caught,Mohammad Rizwan
+ball,1,0.5,Sussex,HD Ward,AGH Orr,FJ Klaassen,1,0,,,,,,"",""
+ball,1,0.6,Sussex,AGH Orr,HD Ward,FJ Klaassen,0,0,,,,,,"",""
+ball,1,1.1,Sussex,HD Ward,AGH Orr,JA Leaning,0,0,,,,,,"",""
+ball,1,1.2,Sussex,HD Ward,AGH Orr,JA Leaning,4,0,,,,,,"",""
+ball,1,1.3,Sussex,HD Ward,AGH Orr,JA Leaning,2,0,,,,,,"",""
+ball,1,1.4,Sussex,HD Ward,AGH Orr,JA Leaning,0,0,,,,,,"",""
+ball,1,1.5,Sussex,HD Ward,AGH Orr,JA Leaning,0,1,1,,,,,"",""
+ball,1,1.6,Sussex,HD Ward,AGH Orr,JA Leaning,0,0,,,,,,"",""
+ball,1,1.7,Sussex,HD Ward,AGH Orr,JA Leaning,1,0,,,,,,"",""
+ball,1,2.1,Sussex,HD Ward,AGH Orr,FJ Klaassen,0,0,,,,,,"",""
+ball,1,2.2,Sussex,HD Ward,AGH Orr,FJ Klaassen,0,1,1,,,,,"",""
+ball,1,2.3,Sussex,HD Ward,AGH Orr,FJ Klaassen,1,0,,,,,,"",""
+ball,1,2.4,Sussex,AGH Orr,HD Ward,FJ Klaassen,0,2,,2,,,,"",""
+ball,1,2.5,Sussex,AGH Orr,HD Ward,FJ Klaassen,0,0,,,,,,"",""
+ball,1,2.6,Sussex,AGH Orr,HD Ward,FJ Klaassen,4,0,,,,,,"",""
+ball,1,2.7,Sussex,AGH Orr,HD Ward,FJ Klaassen,4,0,,,,,,"",""
+ball,1,2.8,Sussex,AGH Orr,HD Ward,FJ Klaassen,0,0,,,,,,"",""
+ball,1,3.1,Sussex,HD Ward,AGH Orr,G Stewart,2,0,,,,,,"",""
+ball,1,3.2,Sussex,HD Ward,AGH Orr,G Stewart,0,1,1,,,,,"",""
+ball,1,3.3,Sussex,HD Ward,AGH Orr,G Stewart,1,0,,,,,,"",""
+ball,1,3.4,Sussex,AGH Orr,HD Ward,G Stewart,0,0,,,,,,"",""
+ball,1,3.5,Sussex,AGH Orr,HD Ward,G Stewart,6,0,,,,,,"",""
+ball,1,3.6,Sussex,AGH Orr,HD Ward,G Stewart,1,0,,,,,,"",""
+ball,1,3.7,Sussex,HD Ward,AGH Orr,G Stewart,0,0,,,,,,"",""
+ball,1,4.1,Sussex,AGH Orr,HD Ward,JA Leaning,0,0,,,,,,"",""
+ball,1,4.2,Sussex,AGH Orr,HD Ward,JA Leaning,0,0,,,,,,"",""
+ball,1,4.3,Sussex,AGH Orr,HD Ward,JA Leaning,1,0,,,,,,"",""
+ball,1,4.4,Sussex,HD Ward,AGH Orr,JA Leaning,1,0,,,,,,"",""
+ball,1,4.5,Sussex,AGH Orr,HD Ward,JA Leaning,0,0,,,,,,"",""
+ball,1,4.6,Sussex,AGH Orr,HD Ward,JA Leaning,4,0,,,,,,"",""
+ball,1,5.1,Sussex,HD Ward,AGH Orr,Jaskaran Singh,6,0,,,,,,"",""
+ball,1,5.2,Sussex,HD Ward,AGH Orr,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,5.3,Sussex,AGH Orr,HD Ward,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,5.4,Sussex,HD Ward,AGH Orr,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,5.5,Sussex,AGH Orr,HD Ward,Jaskaran Singh,6,0,,,,,,"",""
+ball,1,5.6,Sussex,AGH Orr,HD Ward,Jaskaran Singh,2,0,,,,,,"",""
+ball,1,6.1,Sussex,HD Ward,AGH Orr,JA Leaning,1,0,,,,,,"",""
+ball,1,6.2,Sussex,AGH Orr,HD Ward,JA Leaning,1,0,,,,,,"",""
+ball,1,6.3,Sussex,HD Ward,AGH Orr,JA Leaning,1,0,,,,,,"",""
+ball,1,6.4,Sussex,AGH Orr,HD Ward,JA Leaning,1,0,,,,,,"",""
+ball,1,6.5,Sussex,HD Ward,AGH Orr,JA Leaning,2,0,,,,,,"",""
+ball,1,6.6,Sussex,HD Ward,AGH Orr,JA Leaning,4,0,,,,,,"",""
+ball,1,7.1,Sussex,AGH Orr,HD Ward,Qais Ahmad,1,0,,,,,,"",""
+ball,1,7.2,Sussex,HD Ward,AGH Orr,Qais Ahmad,4,0,,,,,,"",""
+ball,1,7.3,Sussex,HD Ward,AGH Orr,Qais Ahmad,0,1,,,1,,,"",""
+ball,1,7.4,Sussex,AGH Orr,HD Ward,Qais Ahmad,1,0,,,,,,"",""
+ball,1,7.5,Sussex,HD Ward,AGH Orr,Qais Ahmad,0,0,,,,,,"",""
+ball,1,7.6,Sussex,HD Ward,AGH Orr,Qais Ahmad,0,0,,,,,,"",""
+ball,1,8.1,Sussex,AGH Orr,HD Ward,GF Linde,1,0,,,,,,"",""
+ball,1,8.2,Sussex,HD Ward,AGH Orr,GF Linde,0,0,,,,,,run out,HD Ward
+ball,1,8.3,Sussex,TP Alsop,AGH Orr,GF Linde,1,0,,,,,,"",""
+ball,1,8.4,Sussex,AGH Orr,TP Alsop,GF Linde,1,0,,,,,,"",""
+ball,1,8.5,Sussex,TP Alsop,AGH Orr,GF Linde,0,0,,,,,,caught,TP Alsop
+ball,1,8.6,Sussex,DMW Rawlins,AGH Orr,GF Linde,1,0,,,,,,"",""
+ball,1,9.1,Sussex,DMW Rawlins,AGH Orr,JA Leaning,0,0,,,,,,"",""
+ball,1,9.2,Sussex,DMW Rawlins,AGH Orr,JA Leaning,1,0,,,,,,"",""
+ball,1,9.3,Sussex,AGH Orr,DMW Rawlins,JA Leaning,1,0,,,,,,"",""
+ball,1,9.4,Sussex,DMW Rawlins,AGH Orr,JA Leaning,0,0,,,,,,"",""
+ball,1,9.5,Sussex,DMW Rawlins,AGH Orr,JA Leaning,0,0,,,,,,"",""
+ball,1,9.6,Sussex,DMW Rawlins,AGH Orr,JA Leaning,1,0,,,,,,"",""
+ball,1,10.1,Sussex,DMW Rawlins,AGH Orr,GF Linde,1,0,,,,,,"",""
+ball,1,10.2,Sussex,AGH Orr,DMW Rawlins,GF Linde,0,0,,,,,,caught,AGH Orr
+ball,1,10.3,Sussex,RS Bopara,DMW Rawlins,GF Linde,0,0,,,,,,"",""
+ball,1,10.4,Sussex,RS Bopara,DMW Rawlins,GF Linde,1,0,,,,,,"",""
+ball,1,10.5,Sussex,DMW Rawlins,RS Bopara,GF Linde,1,0,,,,,,"",""
+ball,1,10.6,Sussex,RS Bopara,DMW Rawlins,GF Linde,1,0,,,,,,"",""
+ball,1,11.1,Sussex,RS Bopara,DMW Rawlins,Qais Ahmad,1,0,,,,,,"",""
+ball,1,11.2,Sussex,DMW Rawlins,RS Bopara,Qais Ahmad,1,0,,,,,,"",""
+ball,1,11.3,Sussex,RS Bopara,DMW Rawlins,Qais Ahmad,0,1,1,,,,,"",""
+ball,1,11.4,Sussex,RS Bopara,DMW Rawlins,Qais Ahmad,0,0,,,,,,"",""
+ball,1,11.5,Sussex,RS Bopara,DMW Rawlins,Qais Ahmad,1,0,,,,,,"",""
+ball,1,11.6,Sussex,DMW Rawlins,RS Bopara,Qais Ahmad,6,0,,,,,,"",""
+ball,1,11.7,Sussex,DMW Rawlins,RS Bopara,Qais Ahmad,0,0,,,,,,"",""
+ball,1,12.1,Sussex,RS Bopara,DMW Rawlins,GF Linde,1,0,,,,,,"",""
+ball,1,12.2,Sussex,DMW Rawlins,RS Bopara,GF Linde,0,0,,,,,,"",""
+ball,1,12.3,Sussex,DMW Rawlins,RS Bopara,GF Linde,2,0,,,,,,"",""
+ball,1,12.4,Sussex,DMW Rawlins,RS Bopara,GF Linde,1,0,,,,,,"",""
+ball,1,12.5,Sussex,RS Bopara,DMW Rawlins,GF Linde,0,0,,,,,,"",""
+ball,1,12.6,Sussex,RS Bopara,DMW Rawlins,GF Linde,0,0,,,,,,"",""
+ball,1,13.1,Sussex,DMW Rawlins,RS Bopara,Qais Ahmad,1,0,,,,,,"",""
+ball,1,13.2,Sussex,RS Bopara,DMW Rawlins,Qais Ahmad,1,0,,,,,,"",""
+ball,1,13.3,Sussex,DMW Rawlins,RS Bopara,Qais Ahmad,2,0,,,,,,"",""
+ball,1,13.4,Sussex,DMW Rawlins,RS Bopara,Qais Ahmad,4,0,,,,,,"",""
+ball,1,13.5,Sussex,DMW Rawlins,RS Bopara,Qais Ahmad,0,0,,,,,,"",""
+ball,1,13.6,Sussex,DMW Rawlins,RS Bopara,Qais Ahmad,0,0,,,,,,"",""
+ball,1,14.1,Sussex,RS Bopara,DMW Rawlins,GF Linde,0,1,,,,1,,"",""
+ball,1,14.2,Sussex,DMW Rawlins,RS Bopara,GF Linde,0,0,,,,,,"",""
+ball,1,14.3,Sussex,DMW Rawlins,RS Bopara,GF Linde,0,1,,,,1,,"",""
+ball,1,14.4,Sussex,RS Bopara,DMW Rawlins,GF Linde,1,0,,,,,,"",""
+ball,1,14.5,Sussex,DMW Rawlins,RS Bopara,GF Linde,1,0,,,,,,"",""
+ball,1,14.6,Sussex,RS Bopara,DMW Rawlins,GF Linde,0,0,,,,,,"",""
+ball,1,15.1,Sussex,DMW Rawlins,RS Bopara,G Stewart,4,0,,,,,,"",""
+ball,1,15.2,Sussex,DMW Rawlins,RS Bopara,G Stewart,1,0,,,,,,"",""
+ball,1,15.3,Sussex,RS Bopara,DMW Rawlins,G Stewart,0,0,,,,,,"",""
+ball,1,15.4,Sussex,RS Bopara,DMW Rawlins,G Stewart,0,0,,,,,,"",""
+ball,1,15.5,Sussex,RS Bopara,DMW Rawlins,G Stewart,0,0,,,,,,caught,RS Bopara
+ball,1,15.6,Sussex,GHS Garton,DMW Rawlins,G Stewart,1,0,,,,,,"",""
+ball,1,16.1,Sussex,GHS Garton,DMW Rawlins,Qais Ahmad,2,0,,,,,,"",""
+ball,1,16.2,Sussex,GHS Garton,DMW Rawlins,Qais Ahmad,1,0,,,,,,"",""
+ball,1,16.3,Sussex,DMW Rawlins,GHS Garton,Qais Ahmad,0,0,,,,,,caught,DMW Rawlins
+ball,1,16.4,Sussex,Rashid Khan,GHS Garton,Qais Ahmad,0,0,,,,,,"",""
+ball,1,16.5,Sussex,Rashid Khan,GHS Garton,Qais Ahmad,1,0,,,,,,"",""
+ball,1,16.6,Sussex,GHS Garton,Rashid Khan,Qais Ahmad,0,0,,,,,,"",""
+ball,1,17.1,Sussex,Rashid Khan,GHS Garton,G Stewart,2,0,,,,,,"",""
+ball,1,17.2,Sussex,Rashid Khan,GHS Garton,G Stewart,0,0,,,,,,caught,Rashid Khan
+ball,1,17.3,Sussex,WAT Beer,GHS Garton,G Stewart,1,0,,,,,,"",""
+ball,1,17.4,Sussex,GHS Garton,WAT Beer,G Stewart,2,0,,,,,,"",""
+ball,1,17.5,Sussex,GHS Garton,WAT Beer,G Stewart,4,0,,,,,,"",""
+ball,1,17.6,Sussex,GHS Garton,WAT Beer,G Stewart,0,0,,,,,,"",""
+ball,1,18.1,Sussex,WAT Beer,GHS Garton,FJ Klaassen,1,0,,,,,,"",""
+ball,1,18.2,Sussex,GHS Garton,WAT Beer,FJ Klaassen,4,0,,,,,,"",""
+ball,1,18.3,Sussex,GHS Garton,WAT Beer,FJ Klaassen,4,0,,,,,,"",""
+ball,1,18.4,Sussex,GHS Garton,WAT Beer,FJ Klaassen,2,0,,,,,,"",""
+ball,1,18.5,Sussex,GHS Garton,WAT Beer,FJ Klaassen,1,0,,,,,,"",""
+ball,1,18.6,Sussex,WAT Beer,GHS Garton,FJ Klaassen,0,1,1,,,,,"",""
+ball,1,18.7,Sussex,WAT Beer,GHS Garton,FJ Klaassen,1,0,,,,,,"",""
+ball,1,19.1,Sussex,WAT Beer,GHS Garton,G Stewart,1,0,,,,,,"",""
+ball,1,19.2,Sussex,GHS Garton,WAT Beer,G Stewart,0,1,1,,,,,"",""
+ball,1,19.3,Sussex,GHS Garton,WAT Beer,G Stewart,6,0,,,,,,"",""
+ball,1,19.4,Sussex,GHS Garton,WAT Beer,G Stewart,0,0,,,,,,"",""
+ball,1,19.5,Sussex,GHS Garton,WAT Beer,G Stewart,0,0,,,,,,"",""
+ball,1,19.6,Sussex,GHS Garton,WAT Beer,G Stewart,4,0,,,,,,"",""
+ball,1,19.7,Sussex,GHS Garton,WAT Beer,G Stewart,0,0,,,,,,caught,GHS Garton
+ball,2,0.1,Kent,JL Denly,TS Muyeye,DMW Rawlins,0,0,,,,,,"",""
+ball,2,0.2,Kent,JL Denly,TS Muyeye,DMW Rawlins,0,0,,,,,,"",""
+ball,2,0.3,Kent,JL Denly,TS Muyeye,DMW Rawlins,1,0,,,,,,"",""
+ball,2,0.4,Kent,TS Muyeye,JL Denly,DMW Rawlins,0,0,,,,,,lbw,TS Muyeye
+ball,2,0.5,Kent,JM Cox,JL Denly,DMW Rawlins,0,0,,,,,,"",""
+ball,2,0.6,Kent,JM Cox,JL Denly,DMW Rawlins,2,0,,,,,,"",""
+ball,2,1.1,Kent,JL Denly,JM Cox,ST Finn,0,0,,,,,,"",""
+ball,2,1.2,Kent,JL Denly,JM Cox,ST Finn,4,0,,,,,,"",""
+ball,2,1.3,Kent,JL Denly,JM Cox,ST Finn,0,0,,,,,,"",""
+ball,2,1.4,Kent,JL Denly,JM Cox,ST Finn,0,1,,,,1,,"",""
+ball,2,1.5,Kent,JM Cox,JL Denly,ST Finn,0,0,,,,,,"",""
+ball,2,1.6,Kent,JM Cox,JL Denly,ST Finn,0,0,,,,,,"",""
+ball,2,2.1,Kent,JL Denly,JM Cox,DMW Rawlins,1,0,,,,,,"",""
+ball,2,2.2,Kent,JM Cox,JL Denly,DMW Rawlins,1,0,,,,,,"",""
+ball,2,2.3,Kent,JL Denly,JM Cox,DMW Rawlins,2,0,,,,,,"",""
+ball,2,2.4,Kent,JL Denly,JM Cox,DMW Rawlins,1,0,,,,,,"",""
+ball,2,2.5,Kent,JM Cox,JL Denly,DMW Rawlins,1,0,,,,,,"",""
+ball,2,2.6,Kent,JL Denly,JM Cox,DMW Rawlins,0,1,,,,1,,"",""
+ball,2,3.1,Kent,JL Denly,JM Cox,ST Finn,4,0,,,,,,"",""
+ball,2,3.2,Kent,JL Denly,JM Cox,ST Finn,4,0,,,,,,"",""
+ball,2,3.3,Kent,JL Denly,JM Cox,ST Finn,1,0,,,,,,"",""
+ball,2,3.4,Kent,JM Cox,JL Denly,ST Finn,1,0,,,,,,"",""
+ball,2,3.5,Kent,JL Denly,JM Cox,ST Finn,4,0,,,,,,"",""
+ball,2,3.6,Kent,JL Denly,JM Cox,ST Finn,4,0,,,,,,"",""
+ball,2,4.1,Kent,JM Cox,JL Denly,DMW Rawlins,1,0,,,,,,"",""
+ball,2,4.2,Kent,JL Denly,JM Cox,DMW Rawlins,0,1,,,,1,,"",""
+ball,2,4.3,Kent,JM Cox,JL Denly,DMW Rawlins,4,0,,,,,,"",""
+ball,2,4.4,Kent,JM Cox,JL Denly,DMW Rawlins,6,0,,,,,,"",""
+ball,2,4.5,Kent,JM Cox,JL Denly,DMW Rawlins,0,0,,,,,,"",""
+ball,2,4.6,Kent,JM Cox,JL Denly,DMW Rawlins,1,0,,,,,,"",""
+ball,2,5.1,Kent,JM Cox,JL Denly,HT Crocombe,1,0,,,,,,"",""
+ball,2,5.2,Kent,JL Denly,JM Cox,HT Crocombe,1,0,,,,,,"",""
+ball,2,5.3,Kent,JM Cox,JL Denly,HT Crocombe,0,0,,,,,,"",""
+ball,2,5.4,Kent,JM Cox,JL Denly,HT Crocombe,0,0,,,,,,"",""
+ball,2,5.5,Kent,JM Cox,JL Denly,HT Crocombe,0,0,,,,,,caught,JM Cox
+ball,2,5.6,Kent,SW Billings,JL Denly,HT Crocombe,0,0,,,,,,"",""
+ball,2,6.1,Kent,JL Denly,SW Billings,Rashid Khan,0,0,,,,,,"",""
+ball,2,6.2,Kent,JL Denly,SW Billings,Rashid Khan,0,0,,,,,,"",""
+ball,2,6.3,Kent,JL Denly,SW Billings,Rashid Khan,0,0,,,,,,"",""
+ball,2,6.4,Kent,JL Denly,SW Billings,Rashid Khan,0,1,1,,,,,"",""
+ball,2,6.5,Kent,JL Denly,SW Billings,Rashid Khan,1,0,,,,,,"",""
+ball,2,6.6,Kent,SW Billings,JL Denly,Rashid Khan,1,0,,,,,,"",""
+ball,2,6.7,Kent,JL Denly,SW Billings,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.1,Kent,JL Denly,SW Billings,WAT Beer,0,0,,,,,,"",""
+ball,2,7.2,Kent,JL Denly,SW Billings,WAT Beer,4,0,,,,,,"",""
+ball,2,7.3,Kent,JL Denly,SW Billings,WAT Beer,6,0,,,,,,"",""
+ball,2,7.4,Kent,JL Denly,SW Billings,WAT Beer,0,0,,,,,,"",""
+ball,2,7.5,Kent,JL Denly,SW Billings,WAT Beer,2,0,,,,,,"",""
+ball,2,7.6,Kent,JL Denly,SW Billings,WAT Beer,0,0,,,,,,"",""
+ball,2,8.1,Kent,SW Billings,JL Denly,Rashid Khan,2,0,,,,,,"",""
+ball,2,8.2,Kent,SW Billings,JL Denly,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.3,Kent,JL Denly,SW Billings,Rashid Khan,2,0,,,,,,"",""
+ball,2,8.4,Kent,JL Denly,SW Billings,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.5,Kent,SW Billings,JL Denly,Rashid Khan,0,0,,,,,,"",""
+ball,2,8.6,Kent,SW Billings,JL Denly,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.1,Kent,SW Billings,JL Denly,RS Bopara,1,0,,,,,,"",""
+ball,2,9.2,Kent,JL Denly,SW Billings,RS Bopara,4,0,,,,,,"",""
+ball,2,9.3,Kent,JL Denly,SW Billings,RS Bopara,0,0,,,,,,"",""
+ball,2,9.4,Kent,JL Denly,SW Billings,RS Bopara,1,0,,,,,,"",""
+ball,2,9.5,Kent,SW Billings,JL Denly,RS Bopara,2,0,,,,,,"",""
+ball,2,9.6,Kent,SW Billings,JL Denly,RS Bopara,1,0,,,,,,"",""
+ball,2,10.1,Kent,SW Billings,JL Denly,DMW Rawlins,0,0,,,,,,"",""
+ball,2,10.2,Kent,SW Billings,JL Denly,DMW Rawlins,1,0,,,,,,"",""
+ball,2,10.3,Kent,JL Denly,SW Billings,DMW Rawlins,1,0,,,,,,"",""
+ball,2,10.4,Kent,SW Billings,JL Denly,DMW Rawlins,1,0,,,,,,"",""
+ball,2,10.5,Kent,JL Denly,SW Billings,DMW Rawlins,1,0,,,,,,"",""
+ball,2,10.6,Kent,SW Billings,JL Denly,DMW Rawlins,1,0,,,,,,"",""
+ball,2,11.1,Kent,SW Billings,JL Denly,RS Bopara,1,0,,,,,,"",""
+ball,2,11.2,Kent,JL Denly,SW Billings,RS Bopara,1,0,,,,,,"",""
+ball,2,11.3,Kent,SW Billings,JL Denly,RS Bopara,1,0,,,,,,"",""
+ball,2,11.4,Kent,JL Denly,SW Billings,RS Bopara,6,0,,,,,,"",""
+ball,2,11.5,Kent,JL Denly,SW Billings,RS Bopara,0,0,,,,,,caught,JL Denly
+ball,2,11.6,Kent,AJ Blake,SW Billings,RS Bopara,4,0,,,,,,"",""
+ball,2,12.1,Kent,SW Billings,AJ Blake,HT Crocombe,4,0,,,,,,"",""
+ball,2,12.2,Kent,SW Billings,AJ Blake,HT Crocombe,4,0,,,,,,"",""
+ball,2,12.3,Kent,SW Billings,AJ Blake,HT Crocombe,0,1,1,,,,,"",""
+ball,2,12.4,Kent,SW Billings,AJ Blake,HT Crocombe,0,0,,,,,,"",""
+ball,2,12.5,Kent,SW Billings,AJ Blake,HT Crocombe,2,0,,,,,,"",""
+ball,2,12.6,Kent,SW Billings,AJ Blake,HT Crocombe,1,0,,,,,,"",""
+ball,2,12.7,Kent,AJ Blake,SW Billings,HT Crocombe,0,2,,2,,,,"",""
+ball,2,12.8,Kent,AJ Blake,SW Billings,HT Crocombe,0,1,1,,,,,"",""
+ball,2,12.9,Kent,AJ Blake,SW Billings,HT Crocombe,2,0,,,,,,"",""
+ball,2,13.1,Kent,SW Billings,AJ Blake,Rashid Khan,2,0,,,,,,"",""
+ball,2,13.2,Kent,SW Billings,AJ Blake,Rashid Khan,1,0,,,,,,"",""
+ball,2,13.3,Kent,AJ Blake,SW Billings,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.4,Kent,AJ Blake,SW Billings,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.5,Kent,AJ Blake,SW Billings,Rashid Khan,0,0,,,,,,lbw,AJ Blake
+ball,2,13.6,Kent,GF Linde,SW Billings,Rashid Khan,0,1,1,,,,,"",""
+ball,2,13.7,Kent,GF Linde,SW Billings,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.1,Kent,GF Linde,SW Billings,RS Bopara,0,0,,,,,,"",""
+ball,2,14.2,Kent,GF Linde,SW Billings,RS Bopara,0,0,,,,,,"",""
+ball,2,14.3,Kent,GF Linde,SW Billings,RS Bopara,1,0,,,,,,"",""
+ball,2,14.4,Kent,SW Billings,GF Linde,RS Bopara,1,0,,,,,,"",""
+ball,2,14.5,Kent,GF Linde,SW Billings,RS Bopara,0,0,,,,,,"",""
+ball,2,14.6,Kent,GF Linde,SW Billings,RS Bopara,1,0,,,,,,"",""
+ball,2,15.1,Kent,GF Linde,SW Billings,Rashid Khan,0,0,,,,,,"",""
+ball,2,15.2,Kent,GF Linde,SW Billings,Rashid Khan,1,0,,,,,,"",""
+ball,2,15.3,Kent,SW Billings,GF Linde,Rashid Khan,2,0,,,,,,"",""
+ball,2,15.4,Kent,SW Billings,GF Linde,Rashid Khan,0,0,,,,,,"",""
+ball,2,15.5,Kent,SW Billings,GF Linde,Rashid Khan,1,0,,,,,,"",""
+ball,2,15.6,Kent,GF Linde,SW Billings,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.1,Kent,GF Linde,SW Billings,RS Bopara,1,0,,,,,,"",""
+ball,2,16.2,Kent,SW Billings,GF Linde,RS Bopara,1,0,,,,,,"",""
+ball,2,16.3,Kent,GF Linde,SW Billings,RS Bopara,2,0,,,,,,"",""
+ball,2,16.4,Kent,GF Linde,SW Billings,RS Bopara,1,0,,,,,,"",""
+ball,2,16.5,Kent,SW Billings,GF Linde,RS Bopara,1,0,,,,,,"",""
+ball,2,16.6,Kent,GF Linde,SW Billings,RS Bopara,1,0,,,,,,"",""
+ball,2,17.1,Kent,GF Linde,SW Billings,ST Finn,1,0,,,,,,"",""
+ball,2,17.2,Kent,SW Billings,GF Linde,ST Finn,4,0,,,,,,"",""
+ball,2,17.3,Kent,SW Billings,GF Linde,ST Finn,0,1,,,,1,,"",""
+ball,2,17.4,Kent,GF Linde,SW Billings,ST Finn,4,0,,,,,,"",""
+ball,2,17.5,Kent,GF Linde,SW Billings,ST Finn,4,0,,,,,,"",""
+ball,2,17.6,Kent,GF Linde,SW Billings,ST Finn,4,0,,,,,,"",""
+ball,2,18.1,Kent,SW Billings,GF Linde,WAT Beer,4,0,,,,,,"",""
+ball,2,18.2,Kent,SW Billings,GF Linde,WAT Beer,0,0,,,,,,"",""
+ball,2,18.3,Kent,SW Billings,GF Linde,WAT Beer,1,0,,,,,,"",""
+ball,2,18.4,Kent,GF Linde,SW Billings,WAT Beer,0,0,,,,,,"",""
+ball,2,18.5,Kent,GF Linde,SW Billings,WAT Beer,1,0,,,,,,"",""

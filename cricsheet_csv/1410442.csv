@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Worcestershire
+info,gender,male
+info,season,2024
+info,date,2024/07/05
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,S Widdup
+info,umpire,SJ O'Shaughnessy
+info,match_referee,WR Smith
+info,winner,Durham
+info,winner_runs,22
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,OG Robinson
+info,player,Durham,CN Ackermann
+info,player,Durham,AJ Turner
+info,player,Durham,BFW de Leede
+info,player,Durham,MA Jones
+info,player,Durham,BJ Dwarshuis
+info,player,Durham,BA Raine
+info,player,Durham,CF Parkinson
+info,player,Durham,NA Sowter
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,JJ Cobb
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,EA Brookes
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,TAI Taylor
+info,player,Worcestershire,HR Walsh
+info,player,Worcestershire,AW Finch
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AW Finch,fc63d916
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GH Roderick,7081848a
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,MA Jones,05f96194
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,WR Smith,ad962377
+ball,1,0.1,Durham,G Clark,AZ Lees,MJ Waite,4,0,,,,,,"",""
+ball,1,0.2,Durham,G Clark,AZ Lees,MJ Waite,0,1,,,,1,,"",""
+ball,1,0.3,Durham,AZ Lees,G Clark,MJ Waite,0,0,,,,,,"",""
+ball,1,0.4,Durham,AZ Lees,G Clark,MJ Waite,0,0,,,,,,"",""
+ball,1,0.5,Durham,AZ Lees,G Clark,MJ Waite,4,0,,,,,,"",""
+ball,1,0.6,Durham,AZ Lees,G Clark,MJ Waite,0,0,,,,,,"",""
+ball,1,1.1,Durham,G Clark,AZ Lees,TAI Taylor,1,0,,,,,,"",""
+ball,1,1.2,Durham,AZ Lees,G Clark,TAI Taylor,1,0,,,,,,"",""
+ball,1,1.3,Durham,G Clark,AZ Lees,TAI Taylor,0,0,,,,,,"",""
+ball,1,1.4,Durham,G Clark,AZ Lees,TAI Taylor,1,0,,,,,,"",""
+ball,1,1.5,Durham,AZ Lees,G Clark,TAI Taylor,1,0,,,,,,"",""
+ball,1,1.6,Durham,G Clark,AZ Lees,TAI Taylor,4,0,,,,,,"",""
+ball,1,2.1,Durham,AZ Lees,G Clark,JJ Cobb,1,0,,,,,,"",""
+ball,1,2.2,Durham,G Clark,AZ Lees,JJ Cobb,1,0,,,,,,"",""
+ball,1,2.3,Durham,AZ Lees,G Clark,JJ Cobb,6,0,,,,,,"",""
+ball,1,2.4,Durham,AZ Lees,G Clark,JJ Cobb,1,0,,,,,,"",""
+ball,1,2.5,Durham,G Clark,AZ Lees,JJ Cobb,1,0,,,,,,"",""
+ball,1,2.6,Durham,AZ Lees,G Clark,JJ Cobb,1,0,,,,,,"",""
+ball,1,3.1,Durham,AZ Lees,G Clark,AW Finch,0,0,,,,,,"",""
+ball,1,3.2,Durham,AZ Lees,G Clark,AW Finch,2,0,,,,,,"",""
+ball,1,3.3,Durham,AZ Lees,G Clark,AW Finch,4,0,,,,,,"",""
+ball,1,3.4,Durham,AZ Lees,G Clark,AW Finch,1,0,,,,,,"",""
+ball,1,3.5,Durham,G Clark,AZ Lees,AW Finch,4,0,,,,,,"",""
+ball,1,3.6,Durham,G Clark,AZ Lees,AW Finch,4,0,,,,,,"",""
+ball,1,4.1,Durham,AZ Lees,G Clark,TAI Taylor,0,0,,,,,,"",""
+ball,1,4.2,Durham,AZ Lees,G Clark,TAI Taylor,0,0,,,,,,caught,AZ Lees
+ball,1,4.3,Durham,OG Robinson,G Clark,TAI Taylor,0,0,,,,,,"",""
+ball,1,4.4,Durham,OG Robinson,G Clark,TAI Taylor,1,0,,,,,,"",""
+ball,1,4.5,Durham,G Clark,OG Robinson,TAI Taylor,1,0,,,,,,"",""
+ball,1,4.6,Durham,OG Robinson,G Clark,TAI Taylor,0,0,,,,,,"",""
+ball,1,5.1,Durham,G Clark,OG Robinson,AW Finch,1,0,,,,,,"",""
+ball,1,5.2,Durham,OG Robinson,G Clark,AW Finch,0,1,1,,,,,"",""
+ball,1,5.3,Durham,OG Robinson,G Clark,AW Finch,0,0,,,,,,"",""
+ball,1,5.4,Durham,OG Robinson,G Clark,AW Finch,2,0,,,,,,"",""
+ball,1,5.5,Durham,OG Robinson,G Clark,AW Finch,3,0,,,,,,"",""
+ball,1,5.6,Durham,G Clark,OG Robinson,AW Finch,2,0,,,,,,"",""
+ball,1,5.7,Durham,G Clark,OG Robinson,AW Finch,0,0,,,,,,caught,G Clark
+ball,1,6.1,Durham,OG Robinson,CN Ackermann,EA Brookes,1,0,,,,,,"",""
+ball,1,6.2,Durham,CN Ackermann,OG Robinson,EA Brookes,0,0,,,,,,"",""
+ball,1,6.3,Durham,CN Ackermann,OG Robinson,EA Brookes,4,0,,,,,,"",""
+ball,1,6.4,Durham,CN Ackermann,OG Robinson,EA Brookes,1,0,,,,,,"",""
+ball,1,6.5,Durham,OG Robinson,CN Ackermann,EA Brookes,1,0,,,,,,"",""
+ball,1,6.6,Durham,CN Ackermann,OG Robinson,EA Brookes,0,0,,,,,,"",""
+ball,1,7.1,Durham,OG Robinson,CN Ackermann,HR Walsh,1,0,,,,,,"",""
+ball,1,7.2,Durham,CN Ackermann,OG Robinson,HR Walsh,0,0,,,,,,"",""
+ball,1,7.3,Durham,CN Ackermann,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,7.4,Durham,OG Robinson,CN Ackermann,HR Walsh,0,0,,,,,,"",""
+ball,1,7.5,Durham,OG Robinson,CN Ackermann,HR Walsh,1,0,,,,,,"",""
+ball,1,7.6,Durham,CN Ackermann,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,8.1,Durham,CN Ackermann,OG Robinson,MJ Waite,2,0,,,,,,"",""
+ball,1,8.2,Durham,CN Ackermann,OG Robinson,MJ Waite,0,0,,,,,,"",""
+ball,1,8.3,Durham,CN Ackermann,OG Robinson,MJ Waite,2,0,,,,,,"",""
+ball,1,8.4,Durham,CN Ackermann,OG Robinson,MJ Waite,1,0,,,,,,"",""
+ball,1,8.5,Durham,OG Robinson,CN Ackermann,MJ Waite,1,0,,,,,,"",""
+ball,1,8.6,Durham,CN Ackermann,OG Robinson,MJ Waite,2,0,,,,,,"",""
+ball,1,9.1,Durham,OG Robinson,CN Ackermann,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,9.2,Durham,CN Ackermann,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,9.3,Durham,OG Robinson,CN Ackermann,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,9.4,Durham,CN Ackermann,OG Robinson,BL D'Oliveira,0,0,,,,,,"",""
+ball,1,9.5,Durham,CN Ackermann,OG Robinson,BL D'Oliveira,4,0,,,,,,"",""
+ball,1,9.6,Durham,CN Ackermann,OG Robinson,BL D'Oliveira,0,0,,,,,,caught,CN Ackermann
+ball,1,10.1,Durham,OG Robinson,AJ Turner,HR Walsh,1,0,,,,,,"",""
+ball,1,10.2,Durham,AJ Turner,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,10.3,Durham,OG Robinson,AJ Turner,HR Walsh,1,0,,,,,,"",""
+ball,1,10.4,Durham,AJ Turner,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,10.5,Durham,OG Robinson,AJ Turner,HR Walsh,1,0,,,,,,"",""
+ball,1,10.6,Durham,AJ Turner,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,11.1,Durham,AJ Turner,OG Robinson,BL D'Oliveira,2,0,,,,,,"",""
+ball,1,11.2,Durham,AJ Turner,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,11.3,Durham,OG Robinson,AJ Turner,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,11.4,Durham,AJ Turner,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,11.5,Durham,OG Robinson,AJ Turner,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,11.6,Durham,AJ Turner,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,12.1,Durham,AJ Turner,OG Robinson,HR Walsh,4,0,,,,,,"",""
+ball,1,12.2,Durham,AJ Turner,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,12.3,Durham,OG Robinson,AJ Turner,HR Walsh,0,0,,,,,,"",""
+ball,1,12.4,Durham,OG Robinson,AJ Turner,HR Walsh,1,0,,,,,,"",""
+ball,1,12.5,Durham,AJ Turner,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,12.6,Durham,OG Robinson,AJ Turner,HR Walsh,1,0,,,,,,"",""
+ball,1,13.1,Durham,OG Robinson,AJ Turner,BL D'Oliveira,6,0,,,,,,"",""
+ball,1,13.2,Durham,OG Robinson,AJ Turner,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,13.3,Durham,AJ Turner,OG Robinson,BL D'Oliveira,6,0,,,,,,"",""
+ball,1,13.4,Durham,AJ Turner,OG Robinson,BL D'Oliveira,0,0,,,,,,bowled,AJ Turner
+ball,1,13.5,Durham,BFW de Leede,OG Robinson,BL D'Oliveira,1,0,,,,,,"",""
+ball,1,13.6,Durham,OG Robinson,BFW de Leede,BL D'Oliveira,0,0,,,,,,"",""
+ball,1,14.1,Durham,BFW de Leede,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,14.2,Durham,OG Robinson,BFW de Leede,HR Walsh,1,0,,,,,,"",""
+ball,1,14.3,Durham,BFW de Leede,OG Robinson,HR Walsh,2,0,,,,,,"",""
+ball,1,14.4,Durham,BFW de Leede,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,14.5,Durham,OG Robinson,BFW de Leede,HR Walsh,1,0,,,,,,"",""
+ball,1,14.6,Durham,BFW de Leede,OG Robinson,HR Walsh,1,0,,,,,,"",""
+ball,1,15.1,Durham,BFW de Leede,OG Robinson,EA Brookes,1,0,,,,,,"",""
+ball,1,15.2,Durham,OG Robinson,BFW de Leede,EA Brookes,6,0,,,,,,"",""
+ball,1,15.3,Durham,OG Robinson,BFW de Leede,EA Brookes,0,1,1,,,,,"",""
+ball,1,15.4,Durham,OG Robinson,BFW de Leede,EA Brookes,6,0,,,,,,"",""
+ball,1,15.5,Durham,OG Robinson,BFW de Leede,EA Brookes,0,0,,,,,,caught,OG Robinson
+ball,1,15.6,Durham,MA Jones,BFW de Leede,EA Brookes,0,0,,,,,,"",""
+ball,1,15.7,Durham,MA Jones,BFW de Leede,EA Brookes,1,0,,,,,,"",""
+ball,1,16.1,Durham,MA Jones,BFW de Leede,AW Finch,0,0,,,,,,"",""
+ball,1,16.2,Durham,MA Jones,BFW de Leede,AW Finch,6,0,,,,,,"",""
+ball,1,16.3,Durham,MA Jones,BFW de Leede,AW Finch,0,0,,,,,,"",""
+ball,1,16.4,Durham,MA Jones,BFW de Leede,AW Finch,1,0,,,,,,"",""
+ball,1,16.5,Durham,BFW de Leede,MA Jones,AW Finch,2,0,,,,,,"",""
+ball,1,16.6,Durham,BFW de Leede,MA Jones,AW Finch,2,0,,,,,,"",""
+ball,1,17.1,Durham,MA Jones,BFW de Leede,TAI Taylor,1,0,,,,,,"",""
+ball,1,17.2,Durham,BFW de Leede,MA Jones,TAI Taylor,4,0,,,,,,"",""
+ball,1,17.3,Durham,BFW de Leede,MA Jones,TAI Taylor,2,0,,,,,,"",""
+ball,1,17.4,Durham,BFW de Leede,MA Jones,TAI Taylor,1,0,,,,,,"",""
+ball,1,17.5,Durham,MA Jones,BFW de Leede,TAI Taylor,1,0,,,,,,"",""
+ball,1,17.6,Durham,BFW de Leede,MA Jones,TAI Taylor,1,0,,,,,,"",""
+ball,1,18.1,Durham,BFW de Leede,MA Jones,AW Finch,1,0,,,,,,"",""
+ball,1,18.2,Durham,MA Jones,BFW de Leede,AW Finch,4,0,,,,,,"",""
+ball,1,18.3,Durham,MA Jones,BFW de Leede,AW Finch,0,0,,,,,,"",""
+ball,1,18.4,Durham,MA Jones,BFW de Leede,AW Finch,1,0,,,,,,"",""
+ball,1,18.5,Durham,BFW de Leede,MA Jones,AW Finch,2,0,,,,,,"",""
+ball,1,18.6,Durham,BFW de Leede,MA Jones,AW Finch,0,0,,,,,,"",""
+ball,1,19.1,Durham,MA Jones,BFW de Leede,TAI Taylor,6,0,,,,,,"",""
+ball,1,19.2,Durham,MA Jones,BFW de Leede,TAI Taylor,2,0,,,,,,"",""
+ball,1,19.3,Durham,MA Jones,BFW de Leede,TAI Taylor,0,0,,,,,,"",""
+ball,1,19.4,Durham,MA Jones,BFW de Leede,TAI Taylor,6,0,,,,,,"",""
+ball,1,19.5,Durham,MA Jones,BFW de Leede,TAI Taylor,4,0,,,,,,"",""
+ball,1,19.6,Durham,MA Jones,BFW de Leede,TAI Taylor,6,0,,,,,,"",""
+ball,2,0.1,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,0,1,1,,,,,"",""
+ball,2,0.2,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,0,0,,,,,,"",""
+ball,2,0.3,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,4,0,,,,,,"",""
+ball,2,0.4,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,1,0,,,,,,"",""
+ball,2,0.5,Worcestershire,Kashif Ali,BL D'Oliveira,CF Parkinson,0,0,,,,,,"",""
+ball,2,0.6,Worcestershire,Kashif Ali,BL D'Oliveira,CF Parkinson,0,0,,,,,,"",""
+ball,2,0.7,Worcestershire,Kashif Ali,BL D'Oliveira,CF Parkinson,0,0,,,,,,"",""
+ball,2,1.1,Worcestershire,BL D'Oliveira,Kashif Ali,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,1.2,Worcestershire,Kashif Ali,BL D'Oliveira,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,1.3,Worcestershire,BL D'Oliveira,Kashif Ali,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.4,Worcestershire,BL D'Oliveira,Kashif Ali,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.5,Worcestershire,BL D'Oliveira,Kashif Ali,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,1.6,Worcestershire,BL D'Oliveira,Kashif Ali,BJ Dwarshuis,0,1,1,,,,,"",""
+ball,2,1.7,Worcestershire,BL D'Oliveira,Kashif Ali,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,2.1,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,0,0,,,,,,"",""
+ball,2,2.2,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,4,0,,,,,,"",""
+ball,2,2.3,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,0,0,,,,,,"",""
+ball,2,2.4,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,0,0,,,,,,"",""
+ball,2,2.5,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,4,0,,,,,,"",""
+ball,2,2.6,Worcestershire,BL D'Oliveira,Kashif Ali,CF Parkinson,0,0,,,,,,"",""
+ball,2,3.1,Worcestershire,Kashif Ali,BL D'Oliveira,BFW de Leede,1,0,,,,,,"",""
+ball,2,3.2,Worcestershire,BL D'Oliveira,Kashif Ali,BFW de Leede,0,0,,,,,,caught,BL D'Oliveira
+ball,2,3.3,Worcestershire,JJ Cobb,Kashif Ali,BFW de Leede,1,0,,,,,,"",""
+ball,2,3.4,Worcestershire,Kashif Ali,JJ Cobb,BFW de Leede,0,0,,,,,,"",""
+ball,2,3.5,Worcestershire,Kashif Ali,JJ Cobb,BFW de Leede,2,0,,,,,,"",""
+ball,2,3.6,Worcestershire,Kashif Ali,JJ Cobb,BFW de Leede,6,0,,,,,,"",""
+ball,2,4.1,Worcestershire,JJ Cobb,Kashif Ali,CF Parkinson,4,0,,,,,,"",""
+ball,2,4.2,Worcestershire,JJ Cobb,Kashif Ali,CF Parkinson,0,0,,,,,,"",""
+ball,2,4.3,Worcestershire,JJ Cobb,Kashif Ali,CF Parkinson,0,0,,,,,,"",""
+ball,2,4.4,Worcestershire,JJ Cobb,Kashif Ali,CF Parkinson,0,0,,,,,,"",""
+ball,2,4.5,Worcestershire,JJ Cobb,Kashif Ali,CF Parkinson,4,0,,,,,,"",""
+ball,2,4.6,Worcestershire,JJ Cobb,Kashif Ali,CF Parkinson,4,0,,,,,,"",""
+ball,2,5.1,Worcestershire,Kashif Ali,JJ Cobb,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,5.2,Worcestershire,Kashif Ali,JJ Cobb,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,5.3,Worcestershire,Kashif Ali,JJ Cobb,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,5.4,Worcestershire,Kashif Ali,JJ Cobb,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,5.5,Worcestershire,JJ Cobb,Kashif Ali,BJ Dwarshuis,0,1,,,,1,,"",""
+ball,2,5.6,Worcestershire,Kashif Ali,JJ Cobb,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,6.1,Worcestershire,JJ Cobb,Kashif Ali,NA Sowter,0,0,,,,,,"",""
+ball,2,6.2,Worcestershire,JJ Cobb,Kashif Ali,NA Sowter,4,0,,,,,,"",""
+ball,2,6.3,Worcestershire,JJ Cobb,Kashif Ali,NA Sowter,0,0,,,,,,"",""
+ball,2,6.4,Worcestershire,JJ Cobb,Kashif Ali,NA Sowter,1,0,,,,,,"",""
+ball,2,6.5,Worcestershire,Kashif Ali,JJ Cobb,NA Sowter,2,0,,,,,,"",""
+ball,2,6.6,Worcestershire,Kashif Ali,JJ Cobb,NA Sowter,2,0,,,,,,"",""
+ball,2,7.1,Worcestershire,JJ Cobb,Kashif Ali,BA Raine,0,0,,,,,,"",""
+ball,2,7.2,Worcestershire,JJ Cobb,Kashif Ali,BA Raine,1,0,,,,,,"",""
+ball,2,7.3,Worcestershire,Kashif Ali,JJ Cobb,BA Raine,1,0,,,,,,"",""
+ball,2,7.4,Worcestershire,JJ Cobb,Kashif Ali,BA Raine,1,0,,,,,,"",""
+ball,2,7.5,Worcestershire,Kashif Ali,JJ Cobb,BA Raine,0,0,,,,,,"",""
+ball,2,7.6,Worcestershire,Kashif Ali,JJ Cobb,BA Raine,1,0,,,,,,"",""
+ball,2,8.1,Worcestershire,Kashif Ali,JJ Cobb,NA Sowter,6,0,,,,,,"",""
+ball,2,8.2,Worcestershire,Kashif Ali,JJ Cobb,NA Sowter,0,0,,,,,,"",""
+ball,2,8.3,Worcestershire,Kashif Ali,JJ Cobb,NA Sowter,1,0,,,,,,"",""
+ball,2,8.4,Worcestershire,JJ Cobb,Kashif Ali,NA Sowter,1,0,,,,,,"",""
+ball,2,8.5,Worcestershire,Kashif Ali,JJ Cobb,NA Sowter,6,0,,,,,,"",""
+ball,2,8.6,Worcestershire,Kashif Ali,JJ Cobb,NA Sowter,1,0,,,,,,"",""
+ball,2,9.1,Worcestershire,Kashif Ali,JJ Cobb,BA Raine,2,0,,,,,,"",""
+ball,2,9.2,Worcestershire,Kashif Ali,JJ Cobb,BA Raine,0,0,,,,,,bowled,Kashif Ali
+ball,2,9.3,Worcestershire,AJ Hose,JJ Cobb,BA Raine,1,0,,,,,,"",""
+ball,2,9.4,Worcestershire,JJ Cobb,AJ Hose,BA Raine,1,0,,,,,,"",""
+ball,2,9.5,Worcestershire,AJ Hose,JJ Cobb,BA Raine,2,0,,,,,,"",""
+ball,2,9.6,Worcestershire,AJ Hose,JJ Cobb,BA Raine,1,0,,,,,,"",""
+ball,2,10.1,Worcestershire,AJ Hose,JJ Cobb,BFW de Leede,1,0,,,,,,"",""
+ball,2,10.2,Worcestershire,JJ Cobb,AJ Hose,BFW de Leede,1,0,,,,,,"",""
+ball,2,10.3,Worcestershire,AJ Hose,JJ Cobb,BFW de Leede,0,0,,,,,,"",""
+ball,2,10.4,Worcestershire,AJ Hose,JJ Cobb,BFW de Leede,1,0,,,,,,"",""
+ball,2,10.5,Worcestershire,JJ Cobb,AJ Hose,BFW de Leede,1,0,,,,,,"",""
+ball,2,10.6,Worcestershire,AJ Hose,JJ Cobb,BFW de Leede,0,1,,,,1,,"",""
+ball,2,11.1,Worcestershire,AJ Hose,JJ Cobb,NA Sowter,1,0,,,,,,"",""
+ball,2,11.2,Worcestershire,JJ Cobb,AJ Hose,NA Sowter,1,0,,,,,,"",""
+ball,2,11.3,Worcestershire,AJ Hose,JJ Cobb,NA Sowter,0,0,,,,,,caught,AJ Hose
+ball,2,11.4,Worcestershire,EA Brookes,JJ Cobb,NA Sowter,4,0,,,,,,"",""
+ball,2,11.5,Worcestershire,EA Brookes,JJ Cobb,NA Sowter,1,0,,,,,,"",""
+ball,2,11.6,Worcestershire,JJ Cobb,EA Brookes,NA Sowter,0,0,,,,,,"",""
+ball,2,12.1,Worcestershire,EA Brookes,JJ Cobb,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.2,Worcestershire,JJ Cobb,EA Brookes,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.3,Worcestershire,EA Brookes,JJ Cobb,CF Parkinson,1,0,,,,,,"",""
+ball,2,12.4,Worcestershire,JJ Cobb,EA Brookes,CF Parkinson,6,0,,,,,,"",""
+ball,2,12.5,Worcestershire,JJ Cobb,EA Brookes,CF Parkinson,4,0,,,,,,"",""
+ball,2,12.6,Worcestershire,JJ Cobb,EA Brookes,CF Parkinson,0,0,,,,,,"",""
+ball,2,13.1,Worcestershire,EA Brookes,JJ Cobb,NA Sowter,1,0,,,,,,"",""
+ball,2,13.2,Worcestershire,JJ Cobb,EA Brookes,NA Sowter,1,0,,,,,,"",""
+ball,2,13.3,Worcestershire,EA Brookes,JJ Cobb,NA Sowter,1,0,,,,,,"",""
+ball,2,13.4,Worcestershire,JJ Cobb,EA Brookes,NA Sowter,1,0,,,,,,"",""
+ball,2,13.5,Worcestershire,EA Brookes,JJ Cobb,NA Sowter,0,0,,,,,,caught,EA Brookes
+ball,2,13.6,Worcestershire,GH Roderick,JJ Cobb,NA Sowter,1,0,,,,,,"",""
+ball,2,14.1,Worcestershire,GH Roderick,JJ Cobb,BFW de Leede,0,0,,,,,,"",""
+ball,2,14.2,Worcestershire,GH Roderick,JJ Cobb,BFW de Leede,1,0,,,,,,"",""
+ball,2,14.3,Worcestershire,JJ Cobb,GH Roderick,BFW de Leede,1,0,,,,,,"",""
+ball,2,14.4,Worcestershire,GH Roderick,JJ Cobb,BFW de Leede,0,0,,,,,,"",""
+ball,2,14.5,Worcestershire,GH Roderick,JJ Cobb,BFW de Leede,0,0,,,,,,"",""
+ball,2,14.6,Worcestershire,GH Roderick,JJ Cobb,BFW de Leede,1,0,,,,,,"",""
+ball,2,15.1,Worcestershire,GH Roderick,JJ Cobb,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,15.2,Worcestershire,GH Roderick,JJ Cobb,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,15.3,Worcestershire,GH Roderick,JJ Cobb,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,15.4,Worcestershire,JJ Cobb,GH Roderick,BJ Dwarshuis,0,0,,,,,,bowled,JJ Cobb
+ball,2,15.5,Worcestershire,EJ Pollock,GH Roderick,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,15.6,Worcestershire,EJ Pollock,GH Roderick,BJ Dwarshuis,0,1,,,,1,,"",""
+ball,2,16.1,Worcestershire,EJ Pollock,GH Roderick,BA Raine,0,1,,,,1,,"",""
+ball,2,16.2,Worcestershire,GH Roderick,EJ Pollock,BA Raine,6,0,,,,,,"",""
+ball,2,16.3,Worcestershire,GH Roderick,EJ Pollock,BA Raine,0,0,,,,,,"",""
+ball,2,16.4,Worcestershire,GH Roderick,EJ Pollock,BA Raine,0,0,,,,,,caught,GH Roderick
+ball,2,16.5,Worcestershire,MJ Waite,EJ Pollock,BA Raine,4,0,,,,,,"",""
+ball,2,16.6,Worcestershire,MJ Waite,EJ Pollock,BA Raine,1,0,,,,,,"",""
+ball,2,17.1,Worcestershire,MJ Waite,EJ Pollock,BFW de Leede,0,0,,,,,,"",""
+ball,2,17.2,Worcestershire,MJ Waite,EJ Pollock,BFW de Leede,0,0,,,,,,"",""
+ball,2,17.3,Worcestershire,MJ Waite,EJ Pollock,BFW de Leede,6,0,,,,,,"",""
+ball,2,17.4,Worcestershire,MJ Waite,EJ Pollock,BFW de Leede,0,0,,,,,,"",""
+ball,2,17.5,Worcestershire,MJ Waite,EJ Pollock,BFW de Leede,0,0,,,,,,caught,MJ Waite
+ball,2,17.6,Worcestershire,TAI Taylor,EJ Pollock,BFW de Leede,1,0,,,,,,"",""
+ball,2,18.1,Worcestershire,TAI Taylor,EJ Pollock,BA Raine,0,0,,,,,,"",""
+ball,2,18.2,Worcestershire,TAI Taylor,EJ Pollock,BA Raine,1,0,,,,,,"",""
+ball,2,18.3,Worcestershire,EJ Pollock,TAI Taylor,BA Raine,1,0,,,,,,"",""
+ball,2,18.4,Worcestershire,TAI Taylor,EJ Pollock,BA Raine,4,0,,,,,,"",""
+ball,2,18.5,Worcestershire,TAI Taylor,EJ Pollock,BA Raine,0,0,,,,,,caught,TAI Taylor
+ball,2,18.6,Worcestershire,HR Walsh,EJ Pollock,BA Raine,2,0,,,,,,"",""
+ball,2,19.1,Worcestershire,EJ Pollock,HR Walsh,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,19.2,Worcestershire,HR Walsh,EJ Pollock,BJ Dwarshuis,0,0,,,,,,caught,HR Walsh
+ball,2,19.3,Worcestershire,AW Finch,EJ Pollock,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,19.4,Worcestershire,AW Finch,EJ Pollock,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,19.5,Worcestershire,AW Finch,EJ Pollock,BJ Dwarshuis,0,0,,,,,,caught,AW Finch

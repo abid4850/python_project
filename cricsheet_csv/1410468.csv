@@ -1,0 +1,293 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Kent
+info,gender,male
+info,season,2024
+info,date,2024/07/12
+info,event,Vitality Blast
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,NL Bainton
+info,match_referee,SJ Davis
+info,winner,Sussex
+info,winner_runs,88
+info,player,Sussex,HD Ward
+info,player,Sussex,DP Hughes
+info,player,Sussex,TGR Clark
+info,player,Sussex,JM Coles
+info,player,Sussex,JA Simpson
+info,player,Sussex,TP Alsop
+info,player,Sussex,DJ Lamb
+info,player,Sussex,N McAndrew
+info,player,Sussex,JJ Carson
+info,player,Sussex,OE Robinson
+info,player,Sussex,BJ Currie
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,MK O'Riordan
+info,player,Kent,FIN Khushi
+info,player,Kent,SW Billings
+info,player,Kent,JA Leaning
+info,player,Kent,JDM Evison
+info,player,Kent,TS Rogers
+info,player,Kent,NN Gilchrist
+info,player,Kent,MW Parkinson
+info,player,Kent,Jaskaran Singh
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,Jaskaran Singh,ec178b04
+info,registry,people,MK O'Riordan,94db3502
+info,registry,people,MW Parkinson,19708692
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,NN Gilchrist,93cad673
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,TS Rogers,1b04e02b
+ball,1,0.1,Sussex,HD Ward,DP Hughes,MK O'Riordan,0,0,,,,,,"",""
+ball,1,0.2,Sussex,HD Ward,DP Hughes,MK O'Riordan,4,0,,,,,,"",""
+ball,1,0.3,Sussex,HD Ward,DP Hughes,MK O'Riordan,0,4,,,,4,,"",""
+ball,1,0.4,Sussex,HD Ward,DP Hughes,MK O'Riordan,4,0,,,,,,"",""
+ball,1,0.5,Sussex,HD Ward,DP Hughes,MK O'Riordan,4,0,,,,,,"",""
+ball,1,0.6,Sussex,HD Ward,DP Hughes,MK O'Riordan,1,0,,,,,,"",""
+ball,1,1.1,Sussex,HD Ward,DP Hughes,Jaskaran Singh,4,0,,,,,,"",""
+ball,1,1.2,Sussex,HD Ward,DP Hughes,Jaskaran Singh,0,1,1,,,,,"",""
+ball,1,1.3,Sussex,HD Ward,DP Hughes,Jaskaran Singh,0,0,,,,,,bowled,HD Ward
+ball,1,1.4,Sussex,TGR Clark,DP Hughes,Jaskaran Singh,0,0,,,,,,"",""
+ball,1,1.5,Sussex,TGR Clark,DP Hughes,Jaskaran Singh,0,0,,,,,,caught,TGR Clark
+ball,1,1.6,Sussex,JM Coles,DP Hughes,Jaskaran Singh,0,0,,,,,,"",""
+ball,1,1.7,Sussex,JM Coles,DP Hughes,Jaskaran Singh,0,0,,,,,,"",""
+ball,1,2.1,Sussex,DP Hughes,JM Coles,TS Rogers,0,0,,,,,,"",""
+ball,1,2.2,Sussex,DP Hughes,JM Coles,TS Rogers,2,0,,,,,,"",""
+ball,1,2.3,Sussex,DP Hughes,JM Coles,TS Rogers,0,0,,,,,,"",""
+ball,1,2.4,Sussex,DP Hughes,JM Coles,TS Rogers,1,0,,,,,,"",""
+ball,1,2.5,Sussex,JM Coles,DP Hughes,TS Rogers,0,0,,,,,,"",""
+ball,1,2.6,Sussex,JM Coles,DP Hughes,TS Rogers,0,0,,,,,,"",""
+ball,1,3.1,Sussex,DP Hughes,JM Coles,Jaskaran Singh,0,1,,,,1,,"",""
+ball,1,3.2,Sussex,JM Coles,DP Hughes,Jaskaran Singh,4,0,,,,,,"",""
+ball,1,3.3,Sussex,JM Coles,DP Hughes,Jaskaran Singh,4,0,,,,,,"",""
+ball,1,3.4,Sussex,JM Coles,DP Hughes,Jaskaran Singh,0,0,,,,,,"",""
+ball,1,3.5,Sussex,JM Coles,DP Hughes,Jaskaran Singh,4,0,,,,,,"",""
+ball,1,3.6,Sussex,JM Coles,DP Hughes,Jaskaran Singh,0,0,,,,,,"",""
+ball,1,4.1,Sussex,DP Hughes,JM Coles,NN Gilchrist,1,0,,,,,,"",""
+ball,1,4.2,Sussex,JM Coles,DP Hughes,NN Gilchrist,1,0,,,,,,"",""
+ball,1,4.3,Sussex,DP Hughes,JM Coles,NN Gilchrist,0,0,,,,,,"",""
+ball,1,4.4,Sussex,DP Hughes,JM Coles,NN Gilchrist,1,0,,,,,,"",""
+ball,1,4.5,Sussex,JM Coles,DP Hughes,NN Gilchrist,0,0,,,,,,"",""
+ball,1,4.6,Sussex,JM Coles,DP Hughes,NN Gilchrist,1,0,,,,,,"",""
+ball,1,5.1,Sussex,JM Coles,DP Hughes,TS Rogers,0,0,,,,,,bowled,JM Coles
+ball,1,5.2,Sussex,JA Simpson,DP Hughes,TS Rogers,1,0,,,,,,"",""
+ball,1,5.3,Sussex,DP Hughes,JA Simpson,TS Rogers,0,1,,,,1,,"",""
+ball,1,5.4,Sussex,JA Simpson,DP Hughes,TS Rogers,0,1,1,,,,,"",""
+ball,1,5.5,Sussex,JA Simpson,DP Hughes,TS Rogers,1,0,,,,,,"",""
+ball,1,5.6,Sussex,DP Hughes,JA Simpson,TS Rogers,0,0,,,,,,"",""
+ball,1,5.7,Sussex,DP Hughes,JA Simpson,TS Rogers,0,0,,,,,,"",""
+ball,1,6.1,Sussex,JA Simpson,DP Hughes,MK O'Riordan,1,0,,,,,,"",""
+ball,1,6.2,Sussex,DP Hughes,JA Simpson,MK O'Riordan,4,0,,,,,,"",""
+ball,1,6.3,Sussex,DP Hughes,JA Simpson,MK O'Riordan,4,0,,,,,,"",""
+ball,1,6.4,Sussex,DP Hughes,JA Simpson,MK O'Riordan,1,0,,,,,,"",""
+ball,1,6.5,Sussex,JA Simpson,DP Hughes,MK O'Riordan,1,0,,,,,,"",""
+ball,1,6.6,Sussex,DP Hughes,JA Simpson,MK O'Riordan,1,0,,,,,,"",""
+ball,1,7.1,Sussex,DP Hughes,JA Simpson,NN Gilchrist,0,0,,,,,,"",""
+ball,1,7.2,Sussex,DP Hughes,JA Simpson,NN Gilchrist,1,0,,,,,,"",""
+ball,1,7.3,Sussex,JA Simpson,DP Hughes,NN Gilchrist,4,0,,,,,,"",""
+ball,1,7.4,Sussex,JA Simpson,DP Hughes,NN Gilchrist,1,0,,,,,,"",""
+ball,1,7.5,Sussex,DP Hughes,JA Simpson,NN Gilchrist,0,0,,,,,,caught,DP Hughes
+ball,1,7.6,Sussex,TP Alsop,JA Simpson,NN Gilchrist,0,0,,,,,,"",""
+ball,1,8.1,Sussex,JA Simpson,TP Alsop,Jaskaran Singh,0,0,,,,,,"",""
+ball,1,8.2,Sussex,JA Simpson,TP Alsop,Jaskaran Singh,0,0,,,,,,"",""
+ball,1,8.3,Sussex,JA Simpson,TP Alsop,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,8.4,Sussex,TP Alsop,JA Simpson,Jaskaran Singh,2,0,,,,,,"",""
+ball,1,8.5,Sussex,TP Alsop,JA Simpson,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,8.6,Sussex,JA Simpson,TP Alsop,Jaskaran Singh,0,1,1,,,,,"",""
+ball,1,8.7,Sussex,JA Simpson,TP Alsop,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,9.1,Sussex,JA Simpson,TP Alsop,MW Parkinson,2,0,,,,,,"",""
+ball,1,9.2,Sussex,JA Simpson,TP Alsop,MW Parkinson,1,0,,,,,,"",""
+ball,1,9.3,Sussex,TP Alsop,JA Simpson,MW Parkinson,1,0,,,,,,"",""
+ball,1,9.4,Sussex,JA Simpson,TP Alsop,MW Parkinson,2,0,,,,,,"",""
+ball,1,9.5,Sussex,JA Simpson,TP Alsop,MW Parkinson,2,0,,,,,,"",""
+ball,1,9.6,Sussex,JA Simpson,TP Alsop,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.1,Sussex,JA Simpson,TP Alsop,JDM Evison,0,0,,,,,,"",""
+ball,1,10.2,Sussex,JA Simpson,TP Alsop,JDM Evison,1,0,,,,,,"",""
+ball,1,10.3,Sussex,TP Alsop,JA Simpson,JDM Evison,2,0,,,,,,"",""
+ball,1,10.4,Sussex,TP Alsop,JA Simpson,JDM Evison,0,0,,,,,,"",""
+ball,1,10.5,Sussex,TP Alsop,JA Simpson,JDM Evison,0,0,,,,,,"",""
+ball,1,10.6,Sussex,TP Alsop,JA Simpson,JDM Evison,2,0,,,,,,"",""
+ball,1,11.1,Sussex,JA Simpson,TP Alsop,JA Leaning,1,0,,,,,,"",""
+ball,1,11.2,Sussex,TP Alsop,JA Simpson,JA Leaning,4,0,,,,,,"",""
+ball,1,11.3,Sussex,TP Alsop,JA Simpson,JA Leaning,0,0,,,,,,"",""
+ball,1,11.4,Sussex,TP Alsop,JA Simpson,JA Leaning,1,0,,,,,,"",""
+ball,1,11.5,Sussex,JA Simpson,TP Alsop,JA Leaning,6,0,,,,,,"",""
+ball,1,11.6,Sussex,JA Simpson,TP Alsop,JA Leaning,1,0,,,,,,"",""
+ball,1,12.1,Sussex,JA Simpson,TP Alsop,Jaskaran Singh,2,0,,,,,,"",""
+ball,1,12.2,Sussex,JA Simpson,TP Alsop,Jaskaran Singh,0,0,,,,,,"",""
+ball,1,12.3,Sussex,JA Simpson,TP Alsop,Jaskaran Singh,2,0,,,,,,"",""
+ball,1,12.4,Sussex,JA Simpson,TP Alsop,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,12.5,Sussex,TP Alsop,JA Simpson,Jaskaran Singh,0,2,,2,,,,"",""
+ball,1,12.6,Sussex,TP Alsop,JA Simpson,Jaskaran Singh,6,0,,,,,,"",""
+ball,1,12.7,Sussex,TP Alsop,JA Simpson,Jaskaran Singh,1,0,,,,,,"",""
+ball,1,13.1,Sussex,TP Alsop,JA Simpson,JDM Evison,2,0,,,,,,"",""
+ball,1,13.2,Sussex,TP Alsop,JA Simpson,JDM Evison,4,0,,,,,,"",""
+ball,1,13.3,Sussex,TP Alsop,JA Simpson,JDM Evison,1,0,,,,,,"",""
+ball,1,13.4,Sussex,JA Simpson,TP Alsop,JDM Evison,4,0,,,,,,"",""
+ball,1,13.5,Sussex,JA Simpson,TP Alsop,JDM Evison,0,0,,,,,,"",""
+ball,1,13.6,Sussex,JA Simpson,TP Alsop,JDM Evison,1,0,,,,,,"",""
+ball,1,14.1,Sussex,JA Simpson,TP Alsop,NN Gilchrist,0,1,1,,,,,"",""
+ball,1,14.2,Sussex,JA Simpson,TP Alsop,NN Gilchrist,1,0,,,,,,"",""
+ball,1,14.3,Sussex,TP Alsop,JA Simpson,NN Gilchrist,0,1,1,,,,,"",""
+ball,1,14.4,Sussex,TP Alsop,JA Simpson,NN Gilchrist,0,0,,,,,,"",""
+ball,1,14.5,Sussex,TP Alsop,JA Simpson,NN Gilchrist,2,0,,,,,,"",""
+ball,1,14.6,Sussex,TP Alsop,JA Simpson,NN Gilchrist,1,0,,,,,,"",""
+ball,1,14.7,Sussex,JA Simpson,TP Alsop,NN Gilchrist,1,0,,,,,,"",""
+ball,1,14.8,Sussex,TP Alsop,JA Simpson,NN Gilchrist,1,0,,,,,,"",""
+ball,1,15.1,Sussex,TP Alsop,JA Simpson,TS Rogers,4,0,,,,,,"",""
+ball,1,15.2,Sussex,TP Alsop,JA Simpson,TS Rogers,4,0,,,,,,"",""
+ball,1,15.3,Sussex,TP Alsop,JA Simpson,TS Rogers,1,0,,,,,,"",""
+ball,1,15.4,Sussex,JA Simpson,TP Alsop,TS Rogers,0,0,,,,,,"",""
+ball,1,15.5,Sussex,JA Simpson,TP Alsop,TS Rogers,0,0,,,,,,"",""
+ball,1,15.6,Sussex,JA Simpson,TP Alsop,TS Rogers,2,0,,,,,,"",""
+ball,1,16.1,Sussex,TP Alsop,JA Simpson,JDM Evison,2,0,,,,,,"",""
+ball,1,16.2,Sussex,TP Alsop,JA Simpson,JDM Evison,0,1,,,,1,,"",""
+ball,1,16.3,Sussex,JA Simpson,TP Alsop,JDM Evison,0,0,,,,,,"",""
+ball,1,16.4,Sussex,JA Simpson,TP Alsop,JDM Evison,1,0,,,,,,"",""
+ball,1,16.5,Sussex,TP Alsop,JA Simpson,JDM Evison,4,0,,,,,,"",""
+ball,1,16.6,Sussex,TP Alsop,JA Simpson,JDM Evison,1,0,,,,,,"",""
+ball,1,17.1,Sussex,TP Alsop,JA Simpson,TS Rogers,6,0,,,,,,"",""
+ball,1,17.2,Sussex,TP Alsop,JA Simpson,TS Rogers,0,1,1,,,,,"",""
+ball,1,17.3,Sussex,TP Alsop,JA Simpson,TS Rogers,4,0,,,,,,"",""
+ball,1,17.4,Sussex,TP Alsop,JA Simpson,TS Rogers,0,0,,,,,,"",""
+ball,1,17.5,Sussex,TP Alsop,JA Simpson,TS Rogers,2,0,,,,,,"",""
+ball,1,17.6,Sussex,TP Alsop,JA Simpson,TS Rogers,2,0,,,,,,"",""
+ball,1,17.7,Sussex,TP Alsop,JA Simpson,TS Rogers,4,0,,,,,,"",""
+ball,1,18.1,Sussex,JA Simpson,TP Alsop,NN Gilchrist,2,0,,,,,,"",""
+ball,1,18.2,Sussex,JA Simpson,TP Alsop,NN Gilchrist,2,0,,,,,,"",""
+ball,1,18.3,Sussex,JA Simpson,TP Alsop,NN Gilchrist,0,1,,,,1,,"",""
+ball,1,18.4,Sussex,TP Alsop,JA Simpson,NN Gilchrist,1,0,,,,,,"",""
+ball,1,18.5,Sussex,JA Simpson,TP Alsop,NN Gilchrist,2,0,,,,,,"",""
+ball,1,18.6,Sussex,JA Simpson,TP Alsop,NN Gilchrist,4,0,,,,,,"",""
+ball,1,19.1,Sussex,TP Alsop,JA Simpson,JDM Evison,2,0,,,,,,"",""
+ball,1,19.2,Sussex,TP Alsop,JA Simpson,JDM Evison,6,0,,,,,,"",""
+ball,1,19.3,Sussex,TP Alsop,JA Simpson,JDM Evison,2,0,,,,,,"",""
+ball,1,19.4,Sussex,TP Alsop,JA Simpson,JDM Evison,6,0,,,,,,"",""
+ball,1,19.5,Sussex,TP Alsop,JA Simpson,JDM Evison,2,0,,,,,,"",""
+ball,1,19.6,Sussex,TP Alsop,JA Simpson,JDM Evison,3,0,,,,,,"",""
+ball,2,0.1,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,0,0,,,,,,"",""
+ball,2,0.2,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,0,0,,,,,,"",""
+ball,2,0.3,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,4,0,,,,,,"",""
+ball,2,0.4,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,2,0,,,,,,"",""
+ball,2,0.5,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,0,0,,,,,,"",""
+ball,2,0.6,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,1,0,,,,,,"",""
+ball,2,1.1,Kent,TS Muyeye,DJ Bell-Drummond,BJ Currie,1,0,,,,,,"",""
+ball,2,1.2,Kent,DJ Bell-Drummond,TS Muyeye,BJ Currie,0,0,,,,,,"",""
+ball,2,1.3,Kent,DJ Bell-Drummond,TS Muyeye,BJ Currie,0,0,,,,,,"",""
+ball,2,1.4,Kent,DJ Bell-Drummond,TS Muyeye,BJ Currie,1,0,,,,,,"",""
+ball,2,1.5,Kent,TS Muyeye,DJ Bell-Drummond,BJ Currie,2,0,,,,,,"",""
+ball,2,1.6,Kent,TS Muyeye,DJ Bell-Drummond,BJ Currie,4,0,,,,,,"",""
+ball,2,2.1,Kent,DJ Bell-Drummond,TS Muyeye,OE Robinson,1,0,,,,,,"",""
+ball,2,2.2,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,4,0,,,,,,"",""
+ball,2,2.3,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,6,0,,,,,,"",""
+ball,2,2.4,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,1,0,,,,,,"",""
+ball,2,2.5,Kent,DJ Bell-Drummond,TS Muyeye,OE Robinson,0,0,,,,,,lbw,DJ Bell-Drummond
+ball,2,2.6,Kent,MK O'Riordan,TS Muyeye,OE Robinson,0,0,,,,,,"",""
+ball,2,3.1,Kent,TS Muyeye,MK O'Riordan,BJ Currie,1,0,,,,,,"",""
+ball,2,3.2,Kent,MK O'Riordan,TS Muyeye,BJ Currie,4,0,,,,,,"",""
+ball,2,3.3,Kent,MK O'Riordan,TS Muyeye,BJ Currie,0,0,,,,,,"",""
+ball,2,3.4,Kent,MK O'Riordan,TS Muyeye,BJ Currie,0,0,,,,,,caught,MK O'Riordan
+ball,2,3.5,Kent,FIN Khushi,TS Muyeye,BJ Currie,1,0,,,,,,"",""
+ball,2,3.6,Kent,TS Muyeye,FIN Khushi,BJ Currie,1,0,,,,,,"",""
+ball,2,4.1,Kent,TS Muyeye,FIN Khushi,N McAndrew,4,0,,,,,,"",""
+ball,2,4.2,Kent,TS Muyeye,FIN Khushi,N McAndrew,1,0,,,,,,"",""
+ball,2,4.3,Kent,FIN Khushi,TS Muyeye,N McAndrew,0,0,,,,,,"",""
+ball,2,4.4,Kent,FIN Khushi,TS Muyeye,N McAndrew,0,1,1,,,,,"",""
+ball,2,4.5,Kent,FIN Khushi,TS Muyeye,N McAndrew,0,0,,,,,,"",""
+ball,2,4.6,Kent,FIN Khushi,TS Muyeye,N McAndrew,2,0,,,,,,"",""
+ball,2,4.7,Kent,FIN Khushi,TS Muyeye,N McAndrew,1,0,,,,,,"",""
+ball,2,5.1,Kent,FIN Khushi,TS Muyeye,BJ Currie,0,0,,,,,,"",""
+ball,2,5.2,Kent,FIN Khushi,TS Muyeye,BJ Currie,0,0,,,,,,"",""
+ball,2,5.3,Kent,FIN Khushi,TS Muyeye,BJ Currie,1,0,,,,,,"",""
+ball,2,5.4,Kent,TS Muyeye,FIN Khushi,BJ Currie,1,0,,,,,,"",""
+ball,2,5.5,Kent,FIN Khushi,TS Muyeye,BJ Currie,0,0,,,,,,"",""
+ball,2,5.6,Kent,FIN Khushi,TS Muyeye,BJ Currie,3,0,,,,,,"",""
+ball,2,6.1,Kent,FIN Khushi,TS Muyeye,DJ Lamb,0,1,1,,,,,"",""
+ball,2,6.2,Kent,FIN Khushi,TS Muyeye,DJ Lamb,0,0,,,,,,"",""
+ball,2,6.3,Kent,FIN Khushi,TS Muyeye,DJ Lamb,2,0,,,,,,"",""
+ball,2,6.4,Kent,FIN Khushi,TS Muyeye,DJ Lamb,1,0,,,,,,"",""
+ball,2,6.5,Kent,TS Muyeye,FIN Khushi,DJ Lamb,1,0,,,,,,"",""
+ball,2,6.6,Kent,FIN Khushi,TS Muyeye,DJ Lamb,4,0,,,,,,"",""
+ball,2,6.7,Kent,FIN Khushi,TS Muyeye,DJ Lamb,1,0,,,,,,"",""
+ball,2,7.1,Kent,FIN Khushi,TS Muyeye,JM Coles,0,0,,,,,,"",""
+ball,2,7.2,Kent,FIN Khushi,TS Muyeye,JM Coles,0,0,,,,,,"",""
+ball,2,7.3,Kent,FIN Khushi,TS Muyeye,JM Coles,1,0,,,,,,"",""
+ball,2,7.4,Kent,TS Muyeye,FIN Khushi,JM Coles,0,0,,,,,,"",""
+ball,2,7.5,Kent,TS Muyeye,FIN Khushi,JM Coles,1,0,,,,,,"",""
+ball,2,7.6,Kent,FIN Khushi,TS Muyeye,JM Coles,1,0,,,,,,"",""
+ball,2,8.1,Kent,FIN Khushi,TS Muyeye,N McAndrew,1,0,,,,,,"",""
+ball,2,8.2,Kent,TS Muyeye,FIN Khushi,N McAndrew,4,0,,,,,,"",""
+ball,2,8.3,Kent,TS Muyeye,FIN Khushi,N McAndrew,4,0,,,,,,"",""
+ball,2,8.4,Kent,TS Muyeye,FIN Khushi,N McAndrew,0,1,1,,,,,"",""
+ball,2,8.5,Kent,TS Muyeye,FIN Khushi,N McAndrew,0,0,,,,,,"",""
+ball,2,8.6,Kent,TS Muyeye,FIN Khushi,N McAndrew,1,0,,,,,,"",""
+ball,2,8.7,Kent,FIN Khushi,TS Muyeye,N McAndrew,2,0,,,,,,"",""
+ball,2,9.1,Kent,TS Muyeye,FIN Khushi,JM Coles,1,0,,,,,,"",""
+ball,2,9.2,Kent,FIN Khushi,TS Muyeye,JM Coles,0,0,,,,,,"",""
+ball,2,9.3,Kent,FIN Khushi,TS Muyeye,JM Coles,1,0,,,,,,"",""
+ball,2,9.4,Kent,TS Muyeye,FIN Khushi,JM Coles,0,0,,,,,,caught,TS Muyeye
+ball,2,9.5,Kent,SW Billings,FIN Khushi,JM Coles,1,0,,,,,,"",""
+ball,2,9.6,Kent,FIN Khushi,SW Billings,JM Coles,0,0,,,,,,"",""
+ball,2,10.1,Kent,SW Billings,FIN Khushi,JJ Carson,1,0,,,,,,"",""
+ball,2,10.2,Kent,FIN Khushi,SW Billings,JJ Carson,0,0,,,,,,caught,FIN Khushi
+ball,2,10.3,Kent,JA Leaning,SW Billings,JJ Carson,1,0,,,,,,"",""
+ball,2,10.4,Kent,SW Billings,JA Leaning,JJ Carson,6,0,,,,,,"",""
+ball,2,10.5,Kent,SW Billings,JA Leaning,JJ Carson,2,0,,,,,,"",""
+ball,2,10.6,Kent,SW Billings,JA Leaning,JJ Carson,2,0,,,,,,"",""
+ball,2,11.1,Kent,JA Leaning,SW Billings,JM Coles,2,0,,,,,,"",""
+ball,2,11.2,Kent,JA Leaning,SW Billings,JM Coles,1,0,,,,,,"",""
+ball,2,11.3,Kent,SW Billings,JA Leaning,JM Coles,2,0,,,,,,"",""
+ball,2,11.4,Kent,SW Billings,JA Leaning,JM Coles,0,0,,,,,,"",""
+ball,2,11.5,Kent,SW Billings,JA Leaning,JM Coles,0,0,,,,,,bowled,SW Billings
+ball,2,11.6,Kent,JDM Evison,JA Leaning,JM Coles,1,0,,,,,,"",""
+ball,2,12.1,Kent,JDM Evison,JA Leaning,OE Robinson,0,0,,,,,,"",""
+ball,2,12.2,Kent,JDM Evison,JA Leaning,OE Robinson,4,0,,,,,,"",""
+ball,2,12.3,Kent,JDM Evison,JA Leaning,OE Robinson,1,0,,,,,,"",""
+ball,2,12.4,Kent,JA Leaning,JDM Evison,OE Robinson,0,1,,,,1,,"",""
+ball,2,12.5,Kent,JDM Evison,JA Leaning,OE Robinson,0,0,,,,,,bowled,JDM Evison
+ball,2,12.6,Kent,TS Rogers,JA Leaning,OE Robinson,1,0,,,,,,"",""
+ball,2,13.1,Kent,TS Rogers,JA Leaning,JM Coles,0,0,,,,,,"",""
+ball,2,13.2,Kent,TS Rogers,JA Leaning,JM Coles,0,0,,,,,,bowled,TS Rogers
+ball,2,13.3,Kent,NN Gilchrist,JA Leaning,JM Coles,0,0,,,,,,"",""
+ball,2,13.4,Kent,NN Gilchrist,JA Leaning,JM Coles,0,0,,,,,,"",""
+ball,2,13.5,Kent,NN Gilchrist,JA Leaning,JM Coles,0,0,,,,,,bowled,NN Gilchrist
+ball,2,13.6,Kent,MW Parkinson,JA Leaning,JM Coles,0,0,,,,,,"",""
+ball,2,14.1,Kent,JA Leaning,MW Parkinson,JJ Carson,1,0,,,,,,"",""
+ball,2,14.2,Kent,MW Parkinson,JA Leaning,JJ Carson,1,0,,,,,,"",""
+ball,2,14.3,Kent,JA Leaning,MW Parkinson,JJ Carson,0,0,,,,,,"",""
+ball,2,14.4,Kent,JA Leaning,MW Parkinson,JJ Carson,1,0,,,,,,"",""
+ball,2,14.5,Kent,MW Parkinson,JA Leaning,JJ Carson,3,0,,,,,,"",""
+ball,2,14.6,Kent,JA Leaning,MW Parkinson,JJ Carson,1,0,,,,,,"",""
+ball,2,15.1,Kent,JA Leaning,MW Parkinson,BJ Currie,0,0,,,,,,"",""
+ball,2,15.2,Kent,JA Leaning,MW Parkinson,BJ Currie,2,0,,,,,,"",""
+ball,2,15.3,Kent,JA Leaning,MW Parkinson,BJ Currie,0,1,1,,,,,"",""
+ball,2,15.4,Kent,JA Leaning,MW Parkinson,BJ Currie,0,0,,,,,,caught,JA Leaning
+ball,2,15.5,Kent,Jaskaran Singh,MW Parkinson,BJ Currie,1,0,,,,,,"",""
+ball,2,15.6,Kent,MW Parkinson,Jaskaran Singh,BJ Currie,0,0,,,,,,"",""
+ball,2,15.7,Kent,MW Parkinson,Jaskaran Singh,BJ Currie,1,0,,,,,,"",""
+ball,2,16.1,Kent,MW Parkinson,Jaskaran Singh,JJ Carson,1,0,,,,,,"",""
+ball,2,16.2,Kent,Jaskaran Singh,MW Parkinson,JJ Carson,0,0,,,,,,caught,Jaskaran Singh

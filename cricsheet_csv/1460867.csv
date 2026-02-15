@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Middlesex
+info,gender,male
+info,season,2025
+info,date,2025/07/16
+info,event,Vitality Blast Men
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Surrey
+info,toss_decision,bat
+info,umpire,MJ Saggers
+info,umpire,RJ Warren
+info,tv_umpire,NJ Llong
+info,match_referee,PM Such
+info,winner,Surrey
+info,winner_runs,8
+info,player,Surrey,WG Jacks
+info,player,Surrey,RS Patel
+info,player,Surrey,JJ Roy
+info,player,Surrey,SM Curran
+info,player,Surrey,DW Lawrence
+info,player,Surrey,TK Curran
+info,player,Surrey,OFM Sykes
+info,player,Surrey,J Overton
+info,player,Surrey,CJ Jordan
+info,player,Surrey,J Clark
+info,player,Surrey,RJW Topley
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,BBA Geddes
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,KS Williamson
+info,player,Middlesex,JL du Plooy
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,Zafar Gohar
+info,player,Middlesex,TG Helm
+info,player,Middlesex,NB Cornwell
+info,registry,people,ARG Thomas,12963b14
+info,registry,people,BBA Geddes,305c31f2
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Overton,59559bc2
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,NB Cornwell,8f08313a
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OFM Sykes,0bde8443
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RS Patel,97905e64
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TK Curran,e86754b2
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,Zafar Gohar,9fd3a210
+ball,1,0.1,Surrey,WG Jacks,RS Patel,Zafar Gohar,1,0,,,,,,"",""
+ball,1,0.2,Surrey,RS Patel,WG Jacks,Zafar Gohar,3,0,,,,,,"",""
+ball,1,0.3,Surrey,WG Jacks,RS Patel,Zafar Gohar,1,0,,,,,,"",""
+ball,1,0.4,Surrey,RS Patel,WG Jacks,Zafar Gohar,4,0,,,,,,"",""
+ball,1,0.5,Surrey,RS Patel,WG Jacks,Zafar Gohar,0,0,,,,,,"",""
+ball,1,0.6,Surrey,RS Patel,WG Jacks,Zafar Gohar,0,0,,,,,,"",""
+ball,1,1.1,Surrey,WG Jacks,RS Patel,RF Higgins,0,0,,,,,,"",""
+ball,1,1.2,Surrey,WG Jacks,RS Patel,RF Higgins,1,0,,,,,,"",""
+ball,1,1.3,Surrey,RS Patel,WG Jacks,RF Higgins,1,0,,,,,,"",""
+ball,1,1.4,Surrey,WG Jacks,RS Patel,RF Higgins,4,0,,,,,,"",""
+ball,1,1.5,Surrey,WG Jacks,RS Patel,RF Higgins,1,0,,,,,,"",""
+ball,1,1.6,Surrey,RS Patel,WG Jacks,RF Higgins,4,0,,,,,,"",""
+ball,1,2.1,Surrey,WG Jacks,RS Patel,NB Cornwell,0,0,,,,,,"",""
+ball,1,2.2,Surrey,WG Jacks,RS Patel,NB Cornwell,0,0,,,,,,"",""
+ball,1,2.3,Surrey,WG Jacks,RS Patel,NB Cornwell,2,0,,,,,,"",""
+ball,1,2.4,Surrey,WG Jacks,RS Patel,NB Cornwell,1,0,,,,,,"",""
+ball,1,2.5,Surrey,RS Patel,WG Jacks,NB Cornwell,1,0,,,,,,"",""
+ball,1,2.6,Surrey,WG Jacks,RS Patel,NB Cornwell,1,0,,,,,,"",""
+ball,1,3.1,Surrey,WG Jacks,RS Patel,TG Helm,0,0,,,,,,"",""
+ball,1,3.2,Surrey,WG Jacks,RS Patel,TG Helm,0,1,,,,1,,"",""
+ball,1,3.3,Surrey,RS Patel,WG Jacks,TG Helm,0,1,,,,1,,"",""
+ball,1,3.4,Surrey,WG Jacks,RS Patel,TG Helm,0,0,,,,,,"",""
+ball,1,3.5,Surrey,WG Jacks,RS Patel,TG Helm,4,0,,,,,,"",""
+ball,1,3.6,Surrey,WG Jacks,RS Patel,TG Helm,1,0,,,,,,"",""
+ball,1,4.1,Surrey,WG Jacks,RS Patel,NB Cornwell,6,0,,,,,,"",""
+ball,1,4.2,Surrey,WG Jacks,RS Patel,NB Cornwell,4,0,,,,,,"",""
+ball,1,4.3,Surrey,WG Jacks,RS Patel,NB Cornwell,2,0,,,,,,"",""
+ball,1,4.4,Surrey,WG Jacks,RS Patel,NB Cornwell,1,0,,,,,,"",""
+ball,1,4.5,Surrey,RS Patel,WG Jacks,NB Cornwell,6,0,,,,,,"",""
+ball,1,4.6,Surrey,RS Patel,WG Jacks,NB Cornwell,4,0,,,,,,"",""
+ball,1,5.1,Surrey,WG Jacks,RS Patel,RF Higgins,0,0,,,,,,"",""
+ball,1,5.2,Surrey,WG Jacks,RS Patel,RF Higgins,4,0,,,,,,"",""
+ball,1,5.3,Surrey,WG Jacks,RS Patel,RF Higgins,0,0,,,,,,"",""
+ball,1,5.4,Surrey,WG Jacks,RS Patel,RF Higgins,6,0,,,,,,"",""
+ball,1,5.5,Surrey,WG Jacks,RS Patel,RF Higgins,1,0,,,,,,"",""
+ball,1,5.6,Surrey,RS Patel,WG Jacks,RF Higgins,0,0,,,,,,caught,RS Patel
+ball,1,6.1,Surrey,WG Jacks,JJ Roy,LBK Hollman,1,0,,,,,,"",""
+ball,1,6.2,Surrey,JJ Roy,WG Jacks,LBK Hollman,0,0,,,,,,"",""
+ball,1,6.3,Surrey,JJ Roy,WG Jacks,LBK Hollman,0,0,,,,,,"",""
+ball,1,6.4,Surrey,JJ Roy,WG Jacks,LBK Hollman,1,0,,,,,,"",""
+ball,1,6.5,Surrey,WG Jacks,JJ Roy,LBK Hollman,1,0,,,,,,"",""
+ball,1,6.6,Surrey,JJ Roy,WG Jacks,LBK Hollman,0,0,,,,,,caught,JJ Roy
+ball,1,7.1,Surrey,WG Jacks,SM Curran,Zafar Gohar,1,0,,,,,,"",""
+ball,1,7.2,Surrey,SM Curran,WG Jacks,Zafar Gohar,0,0,,,,,,"",""
+ball,1,7.3,Surrey,SM Curran,WG Jacks,Zafar Gohar,1,0,,,,,,"",""
+ball,1,7.4,Surrey,WG Jacks,SM Curran,Zafar Gohar,0,0,,,,,,"",""
+ball,1,7.5,Surrey,WG Jacks,SM Curran,Zafar Gohar,0,0,,,,,,"",""
+ball,1,7.6,Surrey,WG Jacks,SM Curran,Zafar Gohar,4,0,,,,,,"",""
+ball,1,8.1,Surrey,SM Curran,WG Jacks,LBK Hollman,1,0,,,,,,"",""
+ball,1,8.2,Surrey,WG Jacks,SM Curran,LBK Hollman,1,0,,,,,,"",""
+ball,1,8.3,Surrey,SM Curran,WG Jacks,LBK Hollman,4,0,,,,,,"",""
+ball,1,8.4,Surrey,SM Curran,WG Jacks,LBK Hollman,1,0,,,,,,"",""
+ball,1,8.5,Surrey,WG Jacks,SM Curran,LBK Hollman,1,0,,,,,,"",""
+ball,1,8.6,Surrey,SM Curran,WG Jacks,LBK Hollman,1,0,,,,,,"",""
+ball,1,9.1,Surrey,SM Curran,WG Jacks,Zafar Gohar,0,0,,,,,,caught,SM Curran
+ball,1,9.2,Surrey,DW Lawrence,WG Jacks,Zafar Gohar,1,0,,,,,,"",""
+ball,1,9.3,Surrey,WG Jacks,DW Lawrence,Zafar Gohar,1,0,,,,,,"",""
+ball,1,9.4,Surrey,DW Lawrence,WG Jacks,Zafar Gohar,1,0,,,,,,"",""
+ball,1,9.5,Surrey,WG Jacks,DW Lawrence,Zafar Gohar,1,0,,,,,,"",""
+ball,1,9.6,Surrey,DW Lawrence,WG Jacks,Zafar Gohar,0,0,,,,,,"",""
+ball,1,10.1,Surrey,WG Jacks,DW Lawrence,LBK Hollman,0,0,,,,,,stumped,WG Jacks
+ball,1,10.2,Surrey,TK Curran,DW Lawrence,LBK Hollman,6,0,,,,,,"",""
+ball,1,10.3,Surrey,TK Curran,DW Lawrence,LBK Hollman,1,0,,,,,,"",""
+ball,1,10.4,Surrey,DW Lawrence,TK Curran,LBK Hollman,4,0,,,,,,"",""
+ball,1,10.5,Surrey,DW Lawrence,TK Curran,LBK Hollman,0,0,,,,,,"",""
+ball,1,10.6,Surrey,DW Lawrence,TK Curran,LBK Hollman,1,0,,,,,,"",""
+ball,1,11.1,Surrey,DW Lawrence,TK Curran,TG Helm,0,0,,,,,,"",""
+ball,1,11.2,Surrey,DW Lawrence,TK Curran,TG Helm,1,0,,,,,,"",""
+ball,1,11.3,Surrey,TK Curran,DW Lawrence,TG Helm,1,0,,,,,,"",""
+ball,1,11.4,Surrey,DW Lawrence,TK Curran,TG Helm,4,0,,,,,,"",""
+ball,1,11.5,Surrey,DW Lawrence,TK Curran,TG Helm,1,0,,,,,,"",""
+ball,1,11.6,Surrey,TK Curran,DW Lawrence,TG Helm,4,0,,,,,,"",""
+ball,1,12.1,Surrey,DW Lawrence,TK Curran,Zafar Gohar,0,0,,,,,,"",""
+ball,1,12.2,Surrey,DW Lawrence,TK Curran,Zafar Gohar,1,0,,,,,,"",""
+ball,1,12.3,Surrey,TK Curran,DW Lawrence,Zafar Gohar,1,0,,,,,,"",""
+ball,1,12.4,Surrey,DW Lawrence,TK Curran,Zafar Gohar,1,0,,,,,,"",""
+ball,1,12.5,Surrey,TK Curran,DW Lawrence,Zafar Gohar,1,0,,,,,,"",""
+ball,1,12.6,Surrey,DW Lawrence,TK Curran,Zafar Gohar,4,0,,,,,,"",""
+ball,1,13.1,Surrey,TK Curran,DW Lawrence,NB Cornwell,4,0,,,,,,"",""
+ball,1,13.2,Surrey,TK Curran,DW Lawrence,NB Cornwell,4,0,,,,,,"",""
+ball,1,13.3,Surrey,TK Curran,DW Lawrence,NB Cornwell,1,0,,,,,,"",""
+ball,1,13.4,Surrey,DW Lawrence,TK Curran,NB Cornwell,0,1,,,,1,,"",""
+ball,1,13.5,Surrey,TK Curran,DW Lawrence,NB Cornwell,4,0,,,,,,"",""
+ball,1,13.6,Surrey,TK Curran,DW Lawrence,NB Cornwell,0,1,1,,,,,"",""
+ball,1,13.7,Surrey,TK Curran,DW Lawrence,NB Cornwell,1,0,,,,,,"",""
+ball,1,14.1,Surrey,TK Curran,DW Lawrence,LBK Hollman,2,0,,,,,,"",""
+ball,1,14.2,Surrey,TK Curran,DW Lawrence,LBK Hollman,1,0,,,,,,"",""
+ball,1,14.3,Surrey,DW Lawrence,TK Curran,LBK Hollman,1,0,,,,,,"",""
+ball,1,14.4,Surrey,TK Curran,DW Lawrence,LBK Hollman,4,0,,,,,,"",""
+ball,1,14.5,Surrey,TK Curran,DW Lawrence,LBK Hollman,1,0,,,,,,"",""
+ball,1,14.6,Surrey,DW Lawrence,TK Curran,LBK Hollman,1,0,,,,,,"",""
+ball,1,15.1,Surrey,DW Lawrence,TK Curran,RF Higgins,0,0,,,,,,"",""
+ball,1,15.2,Surrey,DW Lawrence,TK Curran,RF Higgins,2,0,,,,,,"",""
+ball,1,15.3,Surrey,DW Lawrence,TK Curran,RF Higgins,0,0,,,,,,"",""
+ball,1,15.4,Surrey,DW Lawrence,TK Curran,RF Higgins,1,0,,,,,,"",""
+ball,1,15.5,Surrey,TK Curran,DW Lawrence,RF Higgins,1,0,,,,,,"",""
+ball,1,15.6,Surrey,DW Lawrence,TK Curran,RF Higgins,0,0,,,,,,caught,DW Lawrence
+ball,1,16.1,Surrey,TK Curran,OFM Sykes,TG Helm,4,0,,,,,,"",""
+ball,1,16.2,Surrey,TK Curran,OFM Sykes,TG Helm,1,0,,,,,,"",""
+ball,1,16.3,Surrey,OFM Sykes,TK Curran,TG Helm,0,1,1,,,,,"",""
+ball,1,16.4,Surrey,OFM Sykes,TK Curran,TG Helm,0,0,,,,,,"",""
+ball,1,16.5,Surrey,OFM Sykes,TK Curran,TG Helm,1,0,,,,,,"",""
+ball,1,16.6,Surrey,TK Curran,OFM Sykes,TG Helm,0,0,,,,,,"",""
+ball,1,16.7,Surrey,TK Curran,OFM Sykes,TG Helm,1,0,,,,,,"",""
+ball,1,17.1,Surrey,TK Curran,OFM Sykes,RF Higgins,4,0,,,,,,"",""
+ball,1,17.2,Surrey,TK Curran,OFM Sykes,RF Higgins,0,0,,,,,,caught,TK Curran
+ball,1,17.3,Surrey,J Overton,OFM Sykes,RF Higgins,0,0,,,,,,lbw,J Overton
+ball,1,17.4,Surrey,CJ Jordan,OFM Sykes,RF Higgins,1,0,,,,,,"",""
+ball,1,17.5,Surrey,OFM Sykes,CJ Jordan,RF Higgins,1,0,,,,,,"",""
+ball,1,17.6,Surrey,CJ Jordan,OFM Sykes,RF Higgins,1,0,,,,,,"",""
+ball,1,18.1,Surrey,CJ Jordan,OFM Sykes,NB Cornwell,0,1,1,,,,,"",""
+ball,1,18.2,Surrey,CJ Jordan,OFM Sykes,NB Cornwell,0,0,,,,,,"",""
+ball,1,18.3,Surrey,CJ Jordan,OFM Sykes,NB Cornwell,4,0,,,,,,"",""
+ball,1,18.4,Surrey,CJ Jordan,OFM Sykes,NB Cornwell,1,0,,,,,,"",""
+ball,1,18.5,Surrey,OFM Sykes,CJ Jordan,NB Cornwell,0,0,,,,,,bowled,OFM Sykes
+ball,1,18.6,Surrey,J Clark,CJ Jordan,NB Cornwell,0,0,,,,,,"",""
+ball,1,18.7,Surrey,J Clark,CJ Jordan,NB Cornwell,0,1,,,,1,,"",""
+ball,1,19.1,Surrey,J Clark,CJ Jordan,TG Helm,6,0,,,,,,"",""
+ball,1,19.2,Surrey,J Clark,CJ Jordan,TG Helm,1,0,,,,,,"",""
+ball,1,19.3,Surrey,CJ Jordan,J Clark,TG Helm,4,0,,,,,,"",""
+ball,1,19.4,Surrey,CJ Jordan,J Clark,TG Helm,0,0,,,,,,caught,CJ Jordan
+ball,1,19.5,Surrey,RJW Topley,J Clark,TG Helm,1,0,,,,,,"",""
+ball,1,19.6,Surrey,J Clark,RJW Topley,TG Helm,6,0,,,,,,"",""
+ball,2,0.1,Middlesex,SS Eskinazi,BBA Geddes,RJW Topley,4,0,,,,,,"",""
+ball,2,0.2,Middlesex,SS Eskinazi,BBA Geddes,RJW Topley,6,0,,,,,,"",""
+ball,2,0.3,Middlesex,SS Eskinazi,BBA Geddes,RJW Topley,2,0,,,,,,"",""
+ball,2,0.4,Middlesex,SS Eskinazi,BBA Geddes,RJW Topley,1,0,,,,,,"",""
+ball,2,0.5,Middlesex,BBA Geddes,SS Eskinazi,RJW Topley,1,0,,,,,,"",""
+ball,2,0.6,Middlesex,SS Eskinazi,BBA Geddes,RJW Topley,4,0,,,,,,"",""
+ball,2,1.1,Middlesex,BBA Geddes,SS Eskinazi,J Clark,0,0,,,,,,"",""
+ball,2,1.2,Middlesex,BBA Geddes,SS Eskinazi,J Clark,0,0,,,,,,"",""
+ball,2,1.3,Middlesex,BBA Geddes,SS Eskinazi,J Clark,0,0,,,,,,caught,BBA Geddes
+ball,2,1.4,Middlesex,MDE Holden,SS Eskinazi,J Clark,1,0,,,,,,"",""
+ball,2,1.5,Middlesex,SS Eskinazi,MDE Holden,J Clark,4,0,,,,,,"",""
+ball,2,1.6,Middlesex,SS Eskinazi,MDE Holden,J Clark,1,0,,,,,,"",""
+ball,2,2.1,Middlesex,SS Eskinazi,MDE Holden,SM Curran,1,0,,,,,,"",""
+ball,2,2.2,Middlesex,MDE Holden,SS Eskinazi,SM Curran,0,0,,,,,,"",""
+ball,2,2.3,Middlesex,MDE Holden,SS Eskinazi,SM Curran,1,0,,,,,,"",""
+ball,2,2.4,Middlesex,SS Eskinazi,MDE Holden,SM Curran,1,0,,,,,,"",""
+ball,2,2.5,Middlesex,MDE Holden,SS Eskinazi,SM Curran,1,0,,,,,,"",""
+ball,2,2.6,Middlesex,SS Eskinazi,MDE Holden,SM Curran,1,0,,,,,,"",""
+ball,2,3.1,Middlesex,SS Eskinazi,MDE Holden,CJ Jordan,1,0,,,,,,"",""
+ball,2,3.2,Middlesex,MDE Holden,SS Eskinazi,CJ Jordan,1,0,,,,,,"",""
+ball,2,3.3,Middlesex,SS Eskinazi,MDE Holden,CJ Jordan,4,0,,,,,,"",""
+ball,2,3.4,Middlesex,SS Eskinazi,MDE Holden,CJ Jordan,0,0,,,,,,"",""
+ball,2,3.5,Middlesex,SS Eskinazi,MDE Holden,CJ Jordan,0,0,,,,,,"",""
+ball,2,3.6,Middlesex,SS Eskinazi,MDE Holden,CJ Jordan,1,0,,,,,,"",""
+ball,2,4.1,Middlesex,SS Eskinazi,MDE Holden,J Clark,4,0,,,,,,"",""
+ball,2,4.2,Middlesex,SS Eskinazi,MDE Holden,J Clark,1,0,,,,,,"",""
+ball,2,4.3,Middlesex,MDE Holden,SS Eskinazi,J Clark,6,0,,,,,,"",""
+ball,2,4.4,Middlesex,MDE Holden,SS Eskinazi,J Clark,1,0,,,,,,"",""
+ball,2,4.5,Middlesex,SS Eskinazi,MDE Holden,J Clark,0,1,,,,1,,"",""
+ball,2,4.6,Middlesex,MDE Holden,SS Eskinazi,J Clark,1,0,,,,,,"",""
+ball,2,5.1,Middlesex,MDE Holden,SS Eskinazi,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.2,Middlesex,MDE Holden,SS Eskinazi,CJ Jordan,0,2,2,,,,,"",""
+ball,2,5.3,Middlesex,SS Eskinazi,MDE Holden,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.4,Middlesex,SS Eskinazi,MDE Holden,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.5,Middlesex,MDE Holden,SS Eskinazi,CJ Jordan,0,0,,,,,,caught,MDE Holden
+ball,2,5.6,Middlesex,KS Williamson,SS Eskinazi,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.7,Middlesex,KS Williamson,SS Eskinazi,CJ Jordan,1,0,,,,,,"",""
+ball,2,6.1,Middlesex,KS Williamson,SS Eskinazi,SM Curran,0,0,,,,,,"",""
+ball,2,6.2,Middlesex,KS Williamson,SS Eskinazi,SM Curran,1,0,,,,,,"",""
+ball,2,6.3,Middlesex,SS Eskinazi,KS Williamson,SM Curran,0,0,,,,,,"",""
+ball,2,6.4,Middlesex,SS Eskinazi,KS Williamson,SM Curran,1,0,,,,,,"",""
+ball,2,6.5,Middlesex,KS Williamson,SS Eskinazi,SM Curran,4,0,,,,,,"",""
+ball,2,6.6,Middlesex,KS Williamson,SS Eskinazi,SM Curran,1,0,,,,,,"",""
+ball,2,7.1,Middlesex,KS Williamson,SS Eskinazi,WG Jacks,2,0,,,,,,"",""
+ball,2,7.2,Middlesex,KS Williamson,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,2,7.3,Middlesex,SS Eskinazi,KS Williamson,WG Jacks,1,0,,,,,,"",""
+ball,2,7.4,Middlesex,KS Williamson,SS Eskinazi,WG Jacks,4,0,,,,,,"",""
+ball,2,7.5,Middlesex,KS Williamson,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,2,7.6,Middlesex,SS Eskinazi,KS Williamson,WG Jacks,1,0,,,,,,"",""
+ball,2,8.1,Middlesex,SS Eskinazi,KS Williamson,RJW Topley,2,0,,,,,,"",""
+ball,2,8.2,Middlesex,SS Eskinazi,KS Williamson,RJW Topley,0,0,,,,,,"",""
+ball,2,8.3,Middlesex,SS Eskinazi,KS Williamson,RJW Topley,1,0,,,,,,"",""
+ball,2,8.4,Middlesex,KS Williamson,SS Eskinazi,RJW Topley,0,0,,,,,,"",""
+ball,2,8.5,Middlesex,KS Williamson,SS Eskinazi,RJW Topley,1,0,,,,,,"",""
+ball,2,8.6,Middlesex,SS Eskinazi,KS Williamson,RJW Topley,0,0,,,,,,"",""
+ball,2,9.1,Middlesex,KS Williamson,SS Eskinazi,WG Jacks,0,0,,,,,,caught,KS Williamson
+ball,2,9.2,Middlesex,JL du Plooy,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,2,9.3,Middlesex,SS Eskinazi,JL du Plooy,WG Jacks,1,0,,,,,,"",""
+ball,2,9.4,Middlesex,JL du Plooy,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,2,9.5,Middlesex,SS Eskinazi,JL du Plooy,WG Jacks,1,0,,,,,,"",""
+ball,2,9.6,Middlesex,JL du Plooy,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,2,10.1,Middlesex,JL du Plooy,SS Eskinazi,RJW Topley,1,0,,,,,,"",""
+ball,2,10.2,Middlesex,SS Eskinazi,JL du Plooy,RJW Topley,1,0,,,,,,"",""
+ball,2,10.3,Middlesex,JL du Plooy,SS Eskinazi,RJW Topley,1,0,,,,,,"",""
+ball,2,10.4,Middlesex,SS Eskinazi,JL du Plooy,RJW Topley,1,0,,,,,,"",""
+ball,2,10.5,Middlesex,JL du Plooy,SS Eskinazi,RJW Topley,1,0,,,,,,"",""
+ball,2,10.6,Middlesex,SS Eskinazi,JL du Plooy,RJW Topley,4,0,,,,,,"",""
+ball,2,11.1,Middlesex,JL du Plooy,SS Eskinazi,WG Jacks,4,0,,,,,,"",""
+ball,2,11.2,Middlesex,JL du Plooy,SS Eskinazi,WG Jacks,0,0,,,,,,"",""
+ball,2,11.3,Middlesex,JL du Plooy,SS Eskinazi,WG Jacks,2,0,,,,,,"",""
+ball,2,11.4,Middlesex,JL du Plooy,SS Eskinazi,WG Jacks,6,0,,,,,,"",""
+ball,2,11.5,Middlesex,JL du Plooy,SS Eskinazi,WG Jacks,1,0,,,,,,"",""
+ball,2,11.6,Middlesex,SS Eskinazi,JL du Plooy,WG Jacks,1,0,,,,,,"",""
+ball,2,12.1,Middlesex,SS Eskinazi,JL du Plooy,J Overton,0,0,,,,,,"",""
+ball,2,12.2,Middlesex,SS Eskinazi,JL du Plooy,J Overton,1,0,,,,,,"",""
+ball,2,12.3,Middlesex,JL du Plooy,SS Eskinazi,J Overton,0,0,,,,,,"",""
+ball,2,12.4,Middlesex,JL du Plooy,SS Eskinazi,J Overton,0,0,,,,,,"",""
+ball,2,12.5,Middlesex,JL du Plooy,SS Eskinazi,J Overton,4,0,,,,,,"",""
+ball,2,12.6,Middlesex,JL du Plooy,SS Eskinazi,J Overton,1,0,,,,,,"",""
+ball,2,13.1,Middlesex,JL du Plooy,SS Eskinazi,CJ Jordan,4,0,,,,,,"",""
+ball,2,13.2,Middlesex,JL du Plooy,SS Eskinazi,CJ Jordan,1,0,,,,,,"",""
+ball,2,13.3,Middlesex,SS Eskinazi,JL du Plooy,CJ Jordan,0,0,,,,,,run out,JL du Plooy
+ball,2,13.4,Middlesex,RF Higgins,SS Eskinazi,CJ Jordan,1,0,,,,,,"",""
+ball,2,13.5,Middlesex,SS Eskinazi,RF Higgins,CJ Jordan,0,0,,,,,,caught,SS Eskinazi
+ball,2,13.6,Middlesex,JB Cracknell,RF Higgins,CJ Jordan,1,0,,,,,,"",""
+ball,2,14.1,Middlesex,JB Cracknell,RF Higgins,SM Curran,2,0,,,,,,"",""
+ball,2,14.2,Middlesex,JB Cracknell,RF Higgins,SM Curran,0,0,,,,,,"",""
+ball,2,14.3,Middlesex,JB Cracknell,RF Higgins,SM Curran,0,0,,,,,,"",""
+ball,2,14.4,Middlesex,JB Cracknell,RF Higgins,SM Curran,1,0,,,,,,"",""
+ball,2,14.5,Middlesex,RF Higgins,JB Cracknell,SM Curran,0,0,,,,,,"",""
+ball,2,14.6,Middlesex,RF Higgins,JB Cracknell,SM Curran,0,0,,,,,,"",""
+ball,2,15.1,Middlesex,JB Cracknell,RF Higgins,J Overton,0,0,,,,,,caught,JB Cracknell
+ball,2,15.2,Middlesex,LBK Hollman,RF Higgins,J Overton,1,0,,,,,,"",""
+ball,2,15.3,Middlesex,RF Higgins,LBK Hollman,J Overton,0,0,,,,,,"",""
+ball,2,15.4,Middlesex,RF Higgins,LBK Hollman,J Overton,4,0,,,,,,"",""
+ball,2,15.5,Middlesex,RF Higgins,LBK Hollman,J Overton,1,0,,,,,,"",""
+ball,2,15.6,Middlesex,LBK Hollman,RF Higgins,J Overton,0,0,,,,,,"",""
+ball,2,16.1,Middlesex,RF Higgins,LBK Hollman,J Clark,1,0,,,,,,"",""
+ball,2,16.2,Middlesex,LBK Hollman,RF Higgins,J Clark,0,0,,,,,,"",""
+ball,2,16.3,Middlesex,LBK Hollman,RF Higgins,J Clark,1,0,,,,,,"",""
+ball,2,16.4,Middlesex,RF Higgins,LBK Hollman,J Clark,0,1,1,,,,,"",""
+ball,2,16.5,Middlesex,RF Higgins,LBK Hollman,J Clark,4,0,,,,,,"",""
+ball,2,16.6,Middlesex,RF Higgins,LBK Hollman,J Clark,1,0,,,,,,"",""
+ball,2,16.7,Middlesex,LBK Hollman,RF Higgins,J Clark,4,0,,,,,,"",""
+ball,2,17.1,Middlesex,RF Higgins,LBK Hollman,J Overton,2,0,,,,,,"",""
+ball,2,17.2,Middlesex,RF Higgins,LBK Hollman,J Overton,6,0,,,,,,"",""
+ball,2,17.3,Middlesex,RF Higgins,LBK Hollman,J Overton,0,0,,,,,,"",""
+ball,2,17.4,Middlesex,RF Higgins,LBK Hollman,J Overton,0,1,,,1,,,"",""
+ball,2,17.5,Middlesex,LBK Hollman,RF Higgins,J Overton,4,0,,,,,,"",""
+ball,2,17.6,Middlesex,LBK Hollman,RF Higgins,J Overton,2,0,,,,,,"",""
+ball,2,18.1,Middlesex,RF Higgins,LBK Hollman,SM Curran,1,0,,,,,,"",""
+ball,2,18.2,Middlesex,LBK Hollman,RF Higgins,SM Curran,0,0,,,,,,"",""
+ball,2,18.3,Middlesex,LBK Hollman,RF Higgins,SM Curran,4,0,,,,,,"",""
+ball,2,18.4,Middlesex,LBK Hollman,RF Higgins,SM Curran,4,0,,,,,,"",""
+ball,2,18.5,Middlesex,LBK Hollman,RF Higgins,SM Curran,6,0,,,,,,"",""
+ball,2,18.6,Middlesex,LBK Hollman,RF Higgins,SM Curran,4,0,,,,,,"",""
+ball,2,19.1,Middlesex,RF Higgins,LBK Hollman,CJ Jordan,1,0,,,,,,"",""
+ball,2,19.2,Middlesex,LBK Hollman,RF Higgins,CJ Jordan,1,0,,,,,,"",""
+ball,2,19.3,Middlesex,RF Higgins,LBK Hollman,CJ Jordan,4,0,,,,,,"",""
+ball,2,19.4,Middlesex,RF Higgins,LBK Hollman,CJ Jordan,2,0,,,,,,"",""
+ball,2,19.5,Middlesex,RF Higgins,LBK Hollman,CJ Jordan,1,0,,,,,,"",""
+ball,2,19.6,Middlesex,LBK Hollman,RF Higgins,CJ Jordan,1,0,,,,,,"",""

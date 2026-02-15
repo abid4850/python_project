@@ -1,0 +1,282 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Munster Reds
+info,team,Northern Knights
+info,gender,male
+info,season,2025
+info,date,2025/06/18
+info,event,Cricket Ireland Inter-Provincial Twenty20 Trophy
+info,match_number,4
+info,venue,"Mardyke, Cork"
+info,city,Cork
+info,toss_winner,Northern Knights
+info,toss_decision,field
+info,player_of_match,ST Doheny
+info,umpire,M Hawthorne
+info,umpire,R Black
+info,match_referee,G McCrea
+info,winner,Munster Reds
+info,winner_runs,47
+info,player,Munster Reds,S Modgil
+info,player,Munster Reds,ST Doheny
+info,player,Munster Reds,PJ Moor
+info,player,Munster Reds,Suliman Safi
+info,player,Munster Reds,PL le Roux
+info,player,Munster Reds,JC McNally
+info,player,Munster Reds,K Hilton
+info,player,Munster Reds,Bakhtyar Nabi
+info,player,Munster Reds,L McCarthy
+info,player,Munster Reds,J Manley
+info,player,Munster Reds,B White
+info,player,Northern Knights,PR Stirling
+info,player,Northern Knights,GR Adair
+info,player,Northern Knights,C Carmichael
+info,player,Northern Knights,M Topping
+info,player,Northern Knights,NA Rock
+info,player,Northern Knights,BF Calitz
+info,player,Northern Knights,T Mayes
+info,player,Northern Knights,CJB McCullough
+info,player,Northern Knights,SB Davey
+info,player,Northern Knights,MJ Humphreys
+info,player,Northern Knights,C Robertson
+info,registry,people,B White,1a448be0
+info,registry,people,BF Calitz,24ad97e7
+info,registry,people,Bakhtyar Nabi,b29aa20f
+info,registry,people,C Carmichael,f3b158d9
+info,registry,people,C Robertson,d26de4de
+info,registry,people,CJB McCullough,5d6364f0
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GR Adair,4ec96094
+info,registry,people,J Manley,05f85159
+info,registry,people,JC McNally,8614ffef
+info,registry,people,K Hilton,9339830a
+info,registry,people,L McCarthy,8eb2e2e6
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,M Topping,33f44dfc
+info,registry,people,MJ Humphreys,2c54c49b
+info,registry,people,NA Rock,43f4087c
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,PL le Roux,3b9a7ca6
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Black,156c8fb1
+info,registry,people,S Modgil,b95f28af
+info,registry,people,SB Davey,f45cd5c8
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,Suliman Safi,f8b4fd5f
+info,registry,people,T Mayes,9aedf23b
+ball,1,0.1,Munster Reds,S Modgil,ST Doheny,MJ Humphreys,0,0,,,,,,"",""
+ball,1,0.2,Munster Reds,S Modgil,ST Doheny,MJ Humphreys,0,0,,,,,,run out,S Modgil
+ball,1,0.3,Munster Reds,ST Doheny,PJ Moor,MJ Humphreys,1,0,,,,,,"",""
+ball,1,0.4,Munster Reds,PJ Moor,ST Doheny,MJ Humphreys,0,0,,,,,,"",""
+ball,1,0.5,Munster Reds,PJ Moor,ST Doheny,MJ Humphreys,0,0,,,,,,"",""
+ball,1,0.6,Munster Reds,PJ Moor,ST Doheny,MJ Humphreys,0,0,,,,,,"",""
+ball,1,1.1,Munster Reds,ST Doheny,PJ Moor,T Mayes,4,0,,,,,,"",""
+ball,1,1.2,Munster Reds,ST Doheny,PJ Moor,T Mayes,1,0,,,,,,"",""
+ball,1,1.3,Munster Reds,PJ Moor,ST Doheny,T Mayes,0,0,,,,,,"",""
+ball,1,1.4,Munster Reds,PJ Moor,ST Doheny,T Mayes,0,0,,,,,,"",""
+ball,1,1.5,Munster Reds,PJ Moor,ST Doheny,T Mayes,4,0,,,,,,"",""
+ball,1,1.6,Munster Reds,PJ Moor,ST Doheny,T Mayes,1,0,,,,,,"",""
+ball,1,2.1,Munster Reds,PJ Moor,ST Doheny,MJ Humphreys,0,0,,,,,,"",""
+ball,1,2.2,Munster Reds,PJ Moor,ST Doheny,MJ Humphreys,0,0,,,,,,bowled,PJ Moor
+ball,1,2.3,Munster Reds,Suliman Safi,ST Doheny,MJ Humphreys,0,0,,,,,,"",""
+ball,1,2.4,Munster Reds,Suliman Safi,ST Doheny,MJ Humphreys,0,0,,,,,,"",""
+ball,1,2.5,Munster Reds,Suliman Safi,ST Doheny,MJ Humphreys,1,0,,,,,,"",""
+ball,1,2.6,Munster Reds,ST Doheny,Suliman Safi,MJ Humphreys,6,0,,,,,,"",""
+ball,1,3.1,Munster Reds,Suliman Safi,ST Doheny,T Mayes,0,0,,,,,,caught,Suliman Safi
+ball,1,3.2,Munster Reds,PL le Roux,ST Doheny,T Mayes,0,0,,,,,,"",""
+ball,1,3.3,Munster Reds,PL le Roux,ST Doheny,T Mayes,0,0,,,,,,"",""
+ball,1,3.4,Munster Reds,PL le Roux,ST Doheny,T Mayes,1,0,,,,,,"",""
+ball,1,3.5,Munster Reds,ST Doheny,PL le Roux,T Mayes,6,0,,,,,,"",""
+ball,1,3.6,Munster Reds,ST Doheny,PL le Roux,T Mayes,2,0,,,,,,"",""
+ball,1,4.1,Munster Reds,PL le Roux,ST Doheny,C Robertson,1,0,,,,,,"",""
+ball,1,4.2,Munster Reds,ST Doheny,PL le Roux,C Robertson,0,0,,,,,,"",""
+ball,1,4.3,Munster Reds,ST Doheny,PL le Roux,C Robertson,0,0,,,,,,"",""
+ball,1,4.4,Munster Reds,ST Doheny,PL le Roux,C Robertson,6,0,,,,,,"",""
+ball,1,4.5,Munster Reds,ST Doheny,PL le Roux,C Robertson,6,0,,,,,,"",""
+ball,1,4.6,Munster Reds,ST Doheny,PL le Roux,C Robertson,1,0,,,,,,"",""
+ball,1,5.1,Munster Reds,ST Doheny,PL le Roux,SB Davey,0,0,,,,,,"",""
+ball,1,5.2,Munster Reds,ST Doheny,PL le Roux,SB Davey,1,0,,,,,,"",""
+ball,1,5.3,Munster Reds,PL le Roux,ST Doheny,SB Davey,0,0,,,,,,"",""
+ball,1,5.4,Munster Reds,PL le Roux,ST Doheny,SB Davey,0,0,,,,,,"",""
+ball,1,5.5,Munster Reds,PL le Roux,ST Doheny,SB Davey,0,0,,,,,,caught,PL le Roux
+ball,1,5.6,Munster Reds,JC McNally,ST Doheny,SB Davey,0,0,,,,,,"",""
+ball,1,6.1,Munster Reds,ST Doheny,JC McNally,C Robertson,1,0,,,,,,"",""
+ball,1,6.2,Munster Reds,JC McNally,ST Doheny,C Robertson,0,0,,,,,,"",""
+ball,1,6.3,Munster Reds,JC McNally,ST Doheny,C Robertson,1,0,,,,,,"",""
+ball,1,6.4,Munster Reds,ST Doheny,JC McNally,C Robertson,6,0,,,,,,"",""
+ball,1,6.5,Munster Reds,ST Doheny,JC McNally,C Robertson,1,0,,,,,,"",""
+ball,1,6.6,Munster Reds,JC McNally,ST Doheny,C Robertson,0,0,,,,,,"",""
+ball,1,7.1,Munster Reds,ST Doheny,JC McNally,SB Davey,1,0,,,,,,"",""
+ball,1,7.2,Munster Reds,JC McNally,ST Doheny,SB Davey,0,0,,,,,,"",""
+ball,1,7.3,Munster Reds,JC McNally,ST Doheny,SB Davey,1,0,,,,,,"",""
+ball,1,7.4,Munster Reds,ST Doheny,JC McNally,SB Davey,1,0,,,,,,"",""
+ball,1,7.5,Munster Reds,JC McNally,ST Doheny,SB Davey,2,0,,,,,,"",""
+ball,1,7.6,Munster Reds,JC McNally,ST Doheny,SB Davey,1,0,,,,,,"",""
+ball,1,8.1,Munster Reds,JC McNally,ST Doheny,CJB McCullough,0,0,,,,,,"",""
+ball,1,8.2,Munster Reds,JC McNally,ST Doheny,CJB McCullough,1,0,,,,,,"",""
+ball,1,8.3,Munster Reds,ST Doheny,JC McNally,CJB McCullough,1,0,,,,,,"",""
+ball,1,8.4,Munster Reds,JC McNally,ST Doheny,CJB McCullough,0,0,,,,,,"",""
+ball,1,8.5,Munster Reds,JC McNally,ST Doheny,CJB McCullough,4,0,,,,,,"",""
+ball,1,8.6,Munster Reds,JC McNally,ST Doheny,CJB McCullough,0,1,1,,,,,"",""
+ball,1,8.7,Munster Reds,JC McNally,ST Doheny,CJB McCullough,6,0,,,,,,"",""
+ball,1,9.1,Munster Reds,ST Doheny,JC McNally,MJ Humphreys,1,0,,,,,,"",""
+ball,1,9.2,Munster Reds,JC McNally,ST Doheny,MJ Humphreys,0,0,,,,,,"",""
+ball,1,9.3,Munster Reds,JC McNally,ST Doheny,MJ Humphreys,1,0,,,,,,"",""
+ball,1,9.4,Munster Reds,ST Doheny,JC McNally,MJ Humphreys,6,0,,,,,,"",""
+ball,1,9.5,Munster Reds,ST Doheny,JC McNally,MJ Humphreys,1,0,,,,,,"",""
+ball,1,9.6,Munster Reds,JC McNally,ST Doheny,MJ Humphreys,4,0,,,,,,"",""
+ball,1,10.1,Munster Reds,ST Doheny,JC McNally,CJB McCullough,1,0,,,,,,"",""
+ball,1,10.2,Munster Reds,JC McNally,ST Doheny,CJB McCullough,0,0,,,,,,"",""
+ball,1,10.3,Munster Reds,JC McNally,ST Doheny,CJB McCullough,2,0,,,,,,"",""
+ball,1,10.4,Munster Reds,JC McNally,ST Doheny,CJB McCullough,0,0,,,,,,"",""
+ball,1,10.5,Munster Reds,JC McNally,ST Doheny,CJB McCullough,4,0,,,,,,"",""
+ball,1,10.6,Munster Reds,JC McNally,ST Doheny,CJB McCullough,1,0,,,,,,"",""
+ball,1,11.1,Munster Reds,JC McNally,ST Doheny,T Mayes,0,0,,,,,,"",""
+ball,1,11.2,Munster Reds,JC McNally,ST Doheny,T Mayes,1,0,,,,,,"",""
+ball,1,11.3,Munster Reds,ST Doheny,JC McNally,T Mayes,6,0,,,,,,"",""
+ball,1,11.4,Munster Reds,ST Doheny,JC McNally,T Mayes,4,0,,,,,,"",""
+ball,1,11.5,Munster Reds,ST Doheny,JC McNally,T Mayes,0,1,1,,,,,"",""
+ball,1,11.6,Munster Reds,ST Doheny,JC McNally,T Mayes,0,0,,,,,,"",""
+ball,1,11.7,Munster Reds,ST Doheny,JC McNally,T Mayes,4,0,,,,,,"",""
+ball,1,12.1,Munster Reds,JC McNally,ST Doheny,C Robertson,1,0,,,,,,"",""
+ball,1,12.2,Munster Reds,ST Doheny,JC McNally,C Robertson,0,0,,,,,,"",""
+ball,1,12.3,Munster Reds,ST Doheny,JC McNally,C Robertson,4,0,,,,,,"",""
+ball,1,12.4,Munster Reds,ST Doheny,JC McNally,C Robertson,1,0,,,,,,"",""
+ball,1,12.5,Munster Reds,JC McNally,ST Doheny,C Robertson,6,0,,,,,,"",""
+ball,1,12.6,Munster Reds,JC McNally,ST Doheny,C Robertson,1,0,,,,,,"",""
+ball,1,13.1,Munster Reds,JC McNally,ST Doheny,SB Davey,1,0,,,,,,"",""
+ball,1,13.2,Munster Reds,ST Doheny,JC McNally,SB Davey,2,0,,,,,,"",""
+ball,1,13.3,Munster Reds,ST Doheny,JC McNally,SB Davey,1,0,,,,,,"",""
+ball,1,13.4,Munster Reds,JC McNally,ST Doheny,SB Davey,1,0,,,,,,"",""
+ball,1,13.5,Munster Reds,ST Doheny,JC McNally,SB Davey,0,0,,,,,,"",""
+ball,1,13.6,Munster Reds,ST Doheny,JC McNally,SB Davey,6,0,,,,,,"",""
+ball,1,14.1,Munster Reds,JC McNally,ST Doheny,C Carmichael,1,0,,,,,,"",""
+ball,1,14.2,Munster Reds,ST Doheny,JC McNally,C Carmichael,1,0,,,,,,"",""
+ball,1,14.3,Munster Reds,JC McNally,ST Doheny,C Carmichael,0,0,,,,,,caught,JC McNally
+ball,1,14.4,Munster Reds,K Hilton,ST Doheny,C Carmichael,2,0,,,,,,"",""
+ball,1,14.5,Munster Reds,K Hilton,ST Doheny,C Carmichael,1,0,,,,,,"",""
+ball,1,14.6,Munster Reds,ST Doheny,K Hilton,C Carmichael,1,0,,,,,,"",""
+ball,1,15.1,Munster Reds,ST Doheny,K Hilton,MJ Humphreys,6,0,,,,,,"",""
+ball,1,15.2,Munster Reds,ST Doheny,K Hilton,MJ Humphreys,1,0,,,,,,"",""
+ball,1,15.3,Munster Reds,K Hilton,ST Doheny,MJ Humphreys,0,0,,,,,,"",""
+ball,1,15.4,Munster Reds,K Hilton,ST Doheny,MJ Humphreys,1,0,,,,,,"",""
+ball,1,15.5,Munster Reds,ST Doheny,K Hilton,MJ Humphreys,0,1,1,,,,,"",""
+ball,1,15.6,Munster Reds,ST Doheny,K Hilton,MJ Humphreys,1,0,,,,,,"",""
+ball,1,15.7,Munster Reds,K Hilton,ST Doheny,MJ Humphreys,1,0,,,,,,"",""
+ball,1,16.1,Munster Reds,K Hilton,ST Doheny,C Robertson,4,0,,,,,,"",""
+ball,1,16.2,Munster Reds,K Hilton,ST Doheny,C Robertson,1,0,,,,,,"",""
+ball,1,16.3,Munster Reds,ST Doheny,K Hilton,C Robertson,1,0,,,,,,"",""
+ball,1,16.4,Munster Reds,K Hilton,ST Doheny,C Robertson,0,0,,,,,,bowled,K Hilton
+ball,1,16.5,Munster Reds,Bakhtyar Nabi,ST Doheny,C Robertson,1,0,,,,,,"",""
+ball,1,16.6,Munster Reds,ST Doheny,Bakhtyar Nabi,C Robertson,1,0,,,,,,"",""
+ball,1,17.1,Munster Reds,ST Doheny,Bakhtyar Nabi,SB Davey,0,0,,,,,,"",""
+ball,1,17.2,Munster Reds,ST Doheny,Bakhtyar Nabi,SB Davey,0,1,1,,,,,"",""
+ball,1,17.3,Munster Reds,ST Doheny,Bakhtyar Nabi,SB Davey,6,0,,,,,,"",""
+ball,1,17.4,Munster Reds,ST Doheny,Bakhtyar Nabi,SB Davey,6,0,,,,,,"",""
+ball,1,17.5,Munster Reds,ST Doheny,Bakhtyar Nabi,SB Davey,2,0,,,,,,"",""
+ball,1,17.6,Munster Reds,ST Doheny,Bakhtyar Nabi,SB Davey,6,0,,,,,,"",""
+ball,1,17.7,Munster Reds,ST Doheny,Bakhtyar Nabi,SB Davey,4,0,,,,,,"",""
+ball,1,18.1,Munster Reds,Bakhtyar Nabi,ST Doheny,C Carmichael,1,0,,,,,,"",""
+ball,1,18.2,Munster Reds,ST Doheny,Bakhtyar Nabi,C Carmichael,6,0,,,,,,"",""
+ball,1,18.3,Munster Reds,ST Doheny,Bakhtyar Nabi,C Carmichael,1,0,,,,,,"",""
+ball,1,18.4,Munster Reds,Bakhtyar Nabi,ST Doheny,C Carmichael,0,0,,,,,,caught,Bakhtyar Nabi
+ball,1,18.5,Munster Reds,L McCarthy,ST Doheny,C Carmichael,1,0,,,,,,"",""
+ball,1,18.6,Munster Reds,ST Doheny,L McCarthy,C Carmichael,1,0,,,,,,"",""
+ball,1,19.1,Munster Reds,ST Doheny,L McCarthy,T Mayes,6,0,,,,,,"",""
+ball,1,19.2,Munster Reds,ST Doheny,L McCarthy,T Mayes,0,0,,,,,,"",""
+ball,1,19.3,Munster Reds,ST Doheny,L McCarthy,T Mayes,6,0,,,,,,"",""
+ball,1,19.4,Munster Reds,ST Doheny,L McCarthy,T Mayes,2,0,,,,,,"",""
+ball,1,19.5,Munster Reds,ST Doheny,L McCarthy,T Mayes,4,0,,,,,,"",""
+ball,1,19.6,Munster Reds,ST Doheny,L McCarthy,T Mayes,6,0,,,,,,"",""
+ball,2,0.1,Northern Knights,PR Stirling,GR Adair,L McCarthy,1,0,,,,,,"",""
+ball,2,0.2,Northern Knights,GR Adair,PR Stirling,L McCarthy,0,0,,,,,,"",""
+ball,2,0.3,Northern Knights,GR Adair,PR Stirling,L McCarthy,4,0,,,,,,"",""
+ball,2,0.4,Northern Knights,GR Adair,PR Stirling,L McCarthy,6,0,,,,,,"",""
+ball,2,0.5,Northern Knights,GR Adair,PR Stirling,L McCarthy,1,0,,,,,,"",""
+ball,2,0.6,Northern Knights,PR Stirling,GR Adair,L McCarthy,0,1,1,,,,,"",""
+ball,2,0.7,Northern Knights,PR Stirling,GR Adair,L McCarthy,0,0,,,,,,"",""
+ball,2,1.1,Northern Knights,GR Adair,PR Stirling,Bakhtyar Nabi,0,0,,,,,,"",""
+ball,2,1.2,Northern Knights,GR Adair,PR Stirling,Bakhtyar Nabi,1,0,,,,,,"",""
+ball,2,1.3,Northern Knights,PR Stirling,GR Adair,Bakhtyar Nabi,0,0,,,,,,"",""
+ball,2,1.4,Northern Knights,PR Stirling,GR Adair,Bakhtyar Nabi,0,0,,,,,,"",""
+ball,2,1.5,Northern Knights,PR Stirling,GR Adair,Bakhtyar Nabi,4,0,,,,,,"",""
+ball,2,1.6,Northern Knights,PR Stirling,GR Adair,Bakhtyar Nabi,0,0,,,,,,"",""
+ball,2,2.1,Northern Knights,GR Adair,PR Stirling,J Manley,0,1,1,,,,,"",""
+ball,2,2.2,Northern Knights,GR Adair,PR Stirling,J Manley,0,0,,,,,,"",""
+ball,2,2.3,Northern Knights,GR Adair,PR Stirling,J Manley,0,0,,,,,,caught,GR Adair
+ball,2,2.4,Northern Knights,C Carmichael,PR Stirling,J Manley,0,0,,,,,,"",""
+ball,2,2.5,Northern Knights,C Carmichael,PR Stirling,J Manley,0,0,,,,,,"",""
+ball,2,2.6,Northern Knights,C Carmichael,PR Stirling,J Manley,0,0,,,,,,"",""
+ball,2,2.7,Northern Knights,C Carmichael,PR Stirling,J Manley,6,0,,,,,,"",""
+ball,2,3.1,Northern Knights,PR Stirling,C Carmichael,JC McNally,4,0,,,,,,"",""
+ball,2,3.2,Northern Knights,PR Stirling,C Carmichael,JC McNally,0,0,,,,,,"",""
+ball,2,3.3,Northern Knights,PR Stirling,C Carmichael,JC McNally,0,0,,,,,,caught,PR Stirling
+ball,2,3.4,Northern Knights,M Topping,C Carmichael,JC McNally,4,0,,,,,,"",""
+ball,2,3.5,Northern Knights,M Topping,C Carmichael,JC McNally,4,0,,,,,,"",""
+ball,2,3.6,Northern Knights,M Topping,C Carmichael,JC McNally,0,0,,,,,,"",""
+ball,2,4.1,Northern Knights,C Carmichael,M Topping,L McCarthy,4,0,,,,,,"",""
+ball,2,4.2,Northern Knights,C Carmichael,M Topping,L McCarthy,6,0,,,,,,"",""
+ball,2,4.3,Northern Knights,C Carmichael,M Topping,L McCarthy,0,0,,,,,,"",""
+ball,2,4.4,Northern Knights,C Carmichael,M Topping,L McCarthy,6,0,,,,,,"",""
+ball,2,4.5,Northern Knights,C Carmichael,M Topping,L McCarthy,4,0,,,,,,"",""
+ball,2,4.6,Northern Knights,C Carmichael,M Topping,L McCarthy,6,0,,,,,,"",""
+ball,2,5.1,Northern Knights,M Topping,C Carmichael,Bakhtyar Nabi,0,0,,,,,,"",""
+ball,2,5.2,Northern Knights,M Topping,C Carmichael,Bakhtyar Nabi,6,0,,,,,,"",""
+ball,2,5.3,Northern Knights,M Topping,C Carmichael,Bakhtyar Nabi,6,0,,,,,,"",""
+ball,2,5.4,Northern Knights,M Topping,C Carmichael,Bakhtyar Nabi,0,0,,,,,,"",""
+ball,2,5.5,Northern Knights,M Topping,C Carmichael,Bakhtyar Nabi,0,0,,,,,,"",""
+ball,2,5.6,Northern Knights,M Topping,C Carmichael,Bakhtyar Nabi,6,0,,,,,,"",""
+ball,2,6.1,Northern Knights,C Carmichael,M Topping,B White,0,0,,,,,,"",""
+ball,2,6.2,Northern Knights,C Carmichael,M Topping,B White,6,0,,,,,,"",""
+ball,2,6.3,Northern Knights,C Carmichael,M Topping,B White,4,0,,,,,,"",""
+ball,2,6.4,Northern Knights,C Carmichael,M Topping,B White,6,0,,,,,,"",""
+ball,2,6.5,Northern Knights,C Carmichael,M Topping,B White,1,0,,,,,,"",""
+ball,2,6.6,Northern Knights,M Topping,C Carmichael,B White,0,0,,,,,,bowled,M Topping
+ball,2,7.1,Northern Knights,C Carmichael,NA Rock,J Manley,1,0,,,,,,"",""
+ball,2,7.2,Northern Knights,NA Rock,C Carmichael,J Manley,0,0,,,,,,caught,NA Rock
+ball,2,7.3,Northern Knights,BF Calitz,C Carmichael,J Manley,0,0,,,,,,"",""
+ball,2,7.4,Northern Knights,BF Calitz,C Carmichael,J Manley,0,0,,,,,,"",""
+ball,2,7.5,Northern Knights,BF Calitz,C Carmichael,J Manley,4,0,,,,,,"",""
+ball,2,7.6,Northern Knights,BF Calitz,C Carmichael,J Manley,0,0,,,,,,"",""
+ball,2,8.1,Northern Knights,C Carmichael,BF Calitz,B White,4,0,,,,,,"",""
+ball,2,8.2,Northern Knights,C Carmichael,BF Calitz,B White,1,0,,,,,,"",""
+ball,2,8.3,Northern Knights,BF Calitz,C Carmichael,B White,0,0,,,,,,"",""
+ball,2,8.4,Northern Knights,BF Calitz,C Carmichael,B White,1,0,,,,,,"",""
+ball,2,8.5,Northern Knights,C Carmichael,BF Calitz,B White,0,0,,,,,,bowled,C Carmichael
+ball,2,8.6,Northern Knights,T Mayes,BF Calitz,B White,1,0,,,,,,"",""
+ball,2,9.1,Northern Knights,T Mayes,BF Calitz,J Manley,1,0,,,,,,"",""
+ball,2,9.2,Northern Knights,BF Calitz,T Mayes,J Manley,1,0,,,,,,"",""
+ball,2,9.3,Northern Knights,T Mayes,BF Calitz,J Manley,1,0,,,,,,"",""
+ball,2,9.4,Northern Knights,BF Calitz,T Mayes,J Manley,6,0,,,,,,"",""
+ball,2,9.5,Northern Knights,BF Calitz,T Mayes,J Manley,0,0,,,,,,"",""
+ball,2,9.6,Northern Knights,BF Calitz,T Mayes,J Manley,6,0,,,,,,"",""
+ball,2,10.1,Northern Knights,T Mayes,BF Calitz,JC McNally,1,0,,,,,,"",""
+ball,2,10.2,Northern Knights,BF Calitz,T Mayes,JC McNally,2,0,,,,,,"",""
+ball,2,10.3,Northern Knights,BF Calitz,T Mayes,JC McNally,0,1,,,,1,,"",""
+ball,2,10.4,Northern Knights,T Mayes,BF Calitz,JC McNally,1,0,,,,,,"",""
+ball,2,10.5,Northern Knights,BF Calitz,T Mayes,JC McNally,1,0,,,,,,"",""
+ball,2,10.6,Northern Knights,T Mayes,BF Calitz,JC McNally,1,0,,,,,,"",""
+ball,2,11.1,Northern Knights,T Mayes,BF Calitz,S Modgil,4,0,,,,,,"",""
+ball,2,11.2,Northern Knights,T Mayes,BF Calitz,S Modgil,0,0,,,,,,"",""
+ball,2,11.3,Northern Knights,T Mayes,BF Calitz,S Modgil,6,0,,,,,,"",""
+ball,2,11.4,Northern Knights,T Mayes,BF Calitz,S Modgil,1,0,,,,,,"",""
+ball,2,11.5,Northern Knights,BF Calitz,T Mayes,S Modgil,0,0,,,,,,bowled,BF Calitz
+ball,2,11.6,Northern Knights,CJB McCullough,T Mayes,S Modgil,1,0,,,,,,"",""
+ball,2,12.1,Northern Knights,CJB McCullough,T Mayes,B White,4,0,,,,,,"",""
+ball,2,12.2,Northern Knights,CJB McCullough,T Mayes,B White,0,0,,,,,,"",""
+ball,2,12.3,Northern Knights,CJB McCullough,T Mayes,B White,0,0,,,,,,bowled,CJB McCullough
+ball,2,12.4,Northern Knights,SB Davey,T Mayes,B White,0,0,,,,,,"",""
+ball,2,12.5,Northern Knights,SB Davey,T Mayes,B White,0,0,,,,,,run out,T Mayes
+ball,2,12.6,Northern Knights,MJ Humphreys,SB Davey,B White,4,0,,,,,,"",""
+ball,2,13.1,Northern Knights,SB Davey,MJ Humphreys,L McCarthy,1,0,,,,,,"",""
+ball,2,13.2,Northern Knights,MJ Humphreys,SB Davey,L McCarthy,4,0,,,,,,"",""
+ball,2,13.3,Northern Knights,MJ Humphreys,SB Davey,L McCarthy,1,0,,,,,,"",""
+ball,2,13.4,Northern Knights,SB Davey,MJ Humphreys,L McCarthy,0,0,,,,,,"",""
+ball,2,13.5,Northern Knights,SB Davey,MJ Humphreys,L McCarthy,1,0,,,,,,"",""
+ball,2,13.6,Northern Knights,MJ Humphreys,SB Davey,L McCarthy,0,0,,,,,,"",""
+ball,2,14.1,Northern Knights,SB Davey,MJ Humphreys,B White,6,0,,,,,,"",""
+ball,2,14.2,Northern Knights,SB Davey,MJ Humphreys,B White,0,0,,,,,,caught,SB Davey
+ball,2,14.3,Northern Knights,C Robertson,MJ Humphreys,B White,0,0,,,,,,"",""
+ball,2,14.4,Northern Knights,C Robertson,MJ Humphreys,B White,1,0,,,,,,"",""
+ball,2,14.5,Northern Knights,MJ Humphreys,C Robertson,B White,2,0,,,,,,"",""
+ball,2,14.6,Northern Knights,MJ Humphreys,C Robertson,B White,0,0,,,,,,caught,MJ Humphreys

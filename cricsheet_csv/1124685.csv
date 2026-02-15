@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Warriors
+info,team,Cape Cobras
+info,gender,male
+info,season,2017/18
+info,date,2017/12/10
+info,event,Ram Slam T20 Challenge
+info,match_number,28
+info,venue,"Buffalo Park, East London"
+info,city,East London
+info,toss_winner,Cape Cobras
+info,toss_decision,field
+info,player_of_match,CA Ingram
+info,player_of_match,JT Smuts
+info,umpire,DJ Smith
+info,umpire,Stephen Harris
+info,reserve_umpire,A Jacobs
+info,match_referee,D Govindjee
+info,winner,Warriors
+info,winner_runs,18
+info,player,Warriors,JT Smuts
+info,player,Warriors,MY Vallie
+info,player,Warriors,CA Ingram
+info,player,Warriors,C Jonker
+info,player,Warriors,CN Ackermann
+info,player,Warriors,LC Ngoepe
+info,player,Warriors,MJ Nqolo
+info,player,Warriors,ACR Birch
+info,player,Warriors,SSB Magala
+info,player,Warriors,BD Walters
+info,player,Warriors,GL Cloete
+info,player,Cape Cobras,RE Levi
+info,player,Cape Cobras,HM Amla
+info,player,Cape Cobras,T Bavuma
+info,player,Cape Cobras,JP Duminy
+info,player,Cape Cobras,VD Philander
+info,player,Cape Cobras,C Koyana
+info,player,Cape Cobras,GF Linde
+info,player,Cape Cobras,RK Kleinveldt
+info,player,Cape Cobras,DL Piedt
+info,player,Cape Cobras,D Paterson
+info,player,Cape Cobras,M Nabe
+info,registry,people,A Jacobs,70d117de
+info,registry,people,ACR Birch,9df3a2f4
+info,registry,people,BD Walters,1e182ae2
+info,registry,people,C Jonker,a81d6706
+info,registry,people,C Koyana,26e31980
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,D Govindjee,8b4c4069
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,GF Linde,e5437608
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,HM Amla,e798611a
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,M Nabe,6ed11905
+info,registry,people,MJ Nqolo,af917dde
+info,registry,people,MY Vallie,9fa54c94
+info,registry,people,RE Levi,18c78b11
+info,registry,people,RK Kleinveldt,7955eb15
+info,registry,people,SSB Magala,8361e524
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,VD Philander,cfe70281
+ball,1,0.1,Warriors,JT Smuts,MY Vallie,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,0.2,Warriors,JT Smuts,MY Vallie,RK Kleinveldt,3,0,,,,,,"",""
+ball,1,0.3,Warriors,MY Vallie,JT Smuts,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,0.4,Warriors,MY Vallie,JT Smuts,RK Kleinveldt,4,0,,,,,,"",""
+ball,1,0.5,Warriors,MY Vallie,JT Smuts,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,0.6,Warriors,MY Vallie,JT Smuts,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,1.1,Warriors,JT Smuts,MY Vallie,GF Linde,1,0,,,,,,"",""
+ball,1,1.2,Warriors,MY Vallie,JT Smuts,GF Linde,4,0,,,,,,"",""
+ball,1,1.3,Warriors,MY Vallie,JT Smuts,GF Linde,0,0,,,,,,"",""
+ball,1,1.4,Warriors,MY Vallie,JT Smuts,GF Linde,0,0,,,,,,"",""
+ball,1,1.5,Warriors,MY Vallie,JT Smuts,GF Linde,0,0,,,,,,bowled,MY Vallie
+ball,1,1.6,Warriors,CA Ingram,JT Smuts,GF Linde,4,0,,,,,,"",""
+ball,1,2.1,Warriors,JT Smuts,CA Ingram,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,2.2,Warriors,JT Smuts,CA Ingram,RK Kleinveldt,6,0,,,,,,"",""
+ball,1,2.3,Warriors,JT Smuts,CA Ingram,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,2.4,Warriors,CA Ingram,JT Smuts,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,2.5,Warriors,JT Smuts,CA Ingram,RK Kleinveldt,4,0,,,,,,"",""
+ball,1,2.6,Warriors,JT Smuts,CA Ingram,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,3.1,Warriors,CA Ingram,JT Smuts,VD Philander,1,0,,,,,,"",""
+ball,1,3.2,Warriors,JT Smuts,CA Ingram,VD Philander,1,0,,,,,,"",""
+ball,1,3.3,Warriors,CA Ingram,JT Smuts,VD Philander,0,0,,,,,,"",""
+ball,1,3.4,Warriors,CA Ingram,JT Smuts,VD Philander,6,0,,,,,,"",""
+ball,1,3.5,Warriors,CA Ingram,JT Smuts,VD Philander,1,0,,,,,,"",""
+ball,1,3.6,Warriors,JT Smuts,CA Ingram,VD Philander,4,0,,,,,,"",""
+ball,1,4.1,Warriors,CA Ingram,JT Smuts,D Paterson,0,0,,,,,,"",""
+ball,1,4.2,Warriors,CA Ingram,JT Smuts,D Paterson,0,0,,,,,,"",""
+ball,1,4.3,Warriors,CA Ingram,JT Smuts,D Paterson,1,0,,,,,,"",""
+ball,1,4.4,Warriors,JT Smuts,CA Ingram,D Paterson,1,0,,,,,,"",""
+ball,1,4.5,Warriors,CA Ingram,JT Smuts,D Paterson,1,0,,,,,,"",""
+ball,1,4.6,Warriors,JT Smuts,CA Ingram,D Paterson,1,0,,,,,,"",""
+ball,1,5.1,Warriors,JT Smuts,CA Ingram,M Nabe,0,0,,,,,,"",""
+ball,1,5.2,Warriors,JT Smuts,CA Ingram,M Nabe,1,0,,,,,,"",""
+ball,1,5.3,Warriors,CA Ingram,JT Smuts,M Nabe,0,0,,,,,,"",""
+ball,1,5.4,Warriors,CA Ingram,JT Smuts,M Nabe,6,0,,,,,,"",""
+ball,1,5.5,Warriors,CA Ingram,JT Smuts,M Nabe,1,0,,,,,,"",""
+ball,1,5.6,Warriors,JT Smuts,CA Ingram,M Nabe,2,0,,,,,,"",""
+ball,1,6.1,Warriors,CA Ingram,JT Smuts,DL Piedt,1,0,,,,,,"",""
+ball,1,6.2,Warriors,JT Smuts,CA Ingram,DL Piedt,1,0,,,,,,"",""
+ball,1,6.3,Warriors,CA Ingram,JT Smuts,DL Piedt,6,0,,,,,,"",""
+ball,1,6.4,Warriors,CA Ingram,JT Smuts,DL Piedt,0,0,,,,,,"",""
+ball,1,6.5,Warriors,CA Ingram,JT Smuts,DL Piedt,0,0,,,,,,"",""
+ball,1,6.6,Warriors,CA Ingram,JT Smuts,DL Piedt,1,0,,,,,,"",""
+ball,1,7.1,Warriors,CA Ingram,JT Smuts,D Paterson,0,0,,,,,,"",""
+ball,1,7.2,Warriors,CA Ingram,JT Smuts,D Paterson,1,0,,,,,,"",""
+ball,1,7.3,Warriors,JT Smuts,CA Ingram,D Paterson,4,0,,,,,,"",""
+ball,1,7.4,Warriors,JT Smuts,CA Ingram,D Paterson,1,0,,,,,,"",""
+ball,1,7.5,Warriors,CA Ingram,JT Smuts,D Paterson,0,0,,,,,,"",""
+ball,1,7.6,Warriors,CA Ingram,JT Smuts,D Paterson,1,0,,,,,,"",""
+ball,1,8.1,Warriors,CA Ingram,JT Smuts,GF Linde,1,0,,,,,,"",""
+ball,1,8.2,Warriors,JT Smuts,CA Ingram,GF Linde,1,0,,,,,,"",""
+ball,1,8.3,Warriors,CA Ingram,JT Smuts,GF Linde,4,0,,,,,,"",""
+ball,1,8.4,Warriors,CA Ingram,JT Smuts,GF Linde,1,0,,,,,,"",""
+ball,1,8.5,Warriors,JT Smuts,CA Ingram,GF Linde,2,0,,,,,,"",""
+ball,1,8.6,Warriors,JT Smuts,CA Ingram,GF Linde,1,0,,,,,,"",""
+ball,1,9.1,Warriors,JT Smuts,CA Ingram,DL Piedt,0,0,,,,,,"",""
+ball,1,9.2,Warriors,JT Smuts,CA Ingram,DL Piedt,1,0,,,,,,"",""
+ball,1,9.3,Warriors,CA Ingram,JT Smuts,DL Piedt,0,0,,,,,,"",""
+ball,1,9.4,Warriors,CA Ingram,JT Smuts,DL Piedt,1,0,,,,,,"",""
+ball,1,9.5,Warriors,JT Smuts,CA Ingram,DL Piedt,1,0,,,,,,"",""
+ball,1,9.6,Warriors,CA Ingram,JT Smuts,DL Piedt,1,0,,,,,,"",""
+ball,1,10.1,Warriors,CA Ingram,JT Smuts,M Nabe,0,0,,,,,,"",""
+ball,1,10.2,Warriors,CA Ingram,JT Smuts,M Nabe,0,0,,,,,,"",""
+ball,1,10.3,Warriors,CA Ingram,JT Smuts,M Nabe,0,1,1,,,,,"",""
+ball,1,10.4,Warriors,CA Ingram,JT Smuts,M Nabe,1,0,,,,,,"",""
+ball,1,10.5,Warriors,JT Smuts,CA Ingram,M Nabe,4,0,,,,,,"",""
+ball,1,10.6,Warriors,JT Smuts,CA Ingram,M Nabe,1,0,,,,,,"",""
+ball,1,10.7,Warriors,CA Ingram,JT Smuts,M Nabe,0,0,,,,,,caught,CA Ingram
+ball,1,11.1,Warriors,C Jonker,JT Smuts,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,11.2,Warriors,C Jonker,JT Smuts,RK Kleinveldt,4,0,,,,,,"",""
+ball,1,11.3,Warriors,C Jonker,JT Smuts,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,11.4,Warriors,C Jonker,JT Smuts,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,11.5,Warriors,JT Smuts,C Jonker,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,11.6,Warriors,C Jonker,JT Smuts,RK Kleinveldt,0,0,,,,,,"",""
+ball,1,12.1,Warriors,JT Smuts,C Jonker,GF Linde,4,0,,,,,,"",""
+ball,1,12.2,Warriors,JT Smuts,C Jonker,GF Linde,1,0,,,,,,"",""
+ball,1,12.3,Warriors,C Jonker,JT Smuts,GF Linde,0,0,,,,,,"",""
+ball,1,12.4,Warriors,C Jonker,JT Smuts,GF Linde,1,0,,,,,,"",""
+ball,1,12.5,Warriors,JT Smuts,C Jonker,GF Linde,0,0,,,,,,caught and bowled,JT Smuts
+ball,1,12.6,Warriors,CN Ackermann,C Jonker,GF Linde,0,0,,,,,,"",""
+ball,1,13.1,Warriors,C Jonker,CN Ackermann,VD Philander,1,0,,,,,,"",""
+ball,1,13.2,Warriors,CN Ackermann,C Jonker,VD Philander,0,0,,,,,,"",""
+ball,1,13.3,Warriors,CN Ackermann,C Jonker,VD Philander,1,0,,,,,,"",""
+ball,1,13.4,Warriors,C Jonker,CN Ackermann,VD Philander,4,0,,,,,,"",""
+ball,1,13.5,Warriors,C Jonker,CN Ackermann,VD Philander,0,0,,,,,,"",""
+ball,1,13.6,Warriors,C Jonker,CN Ackermann,VD Philander,1,0,,,,,,"",""
+ball,1,14.1,Warriors,C Jonker,CN Ackermann,GF Linde,1,0,,,,,,"",""
+ball,1,14.2,Warriors,CN Ackermann,C Jonker,GF Linde,0,0,,,,,,"",""
+ball,1,14.3,Warriors,CN Ackermann,C Jonker,GF Linde,6,0,,,,,,"",""
+ball,1,14.4,Warriors,CN Ackermann,C Jonker,GF Linde,0,0,,,,,,"",""
+ball,1,14.5,Warriors,CN Ackermann,C Jonker,GF Linde,1,0,,,,,,"",""
+ball,1,14.6,Warriors,C Jonker,CN Ackermann,GF Linde,6,0,,,,,,"",""
+ball,1,15.1,Warriors,CN Ackermann,C Jonker,M Nabe,1,0,,,,,,"",""
+ball,1,15.2,Warriors,C Jonker,CN Ackermann,M Nabe,1,0,,,,,,"",""
+ball,1,15.3,Warriors,CN Ackermann,C Jonker,M Nabe,0,0,,,,,,"",""
+ball,1,15.4,Warriors,CN Ackermann,C Jonker,M Nabe,1,0,,,,,,"",""
+ball,1,15.5,Warriors,C Jonker,CN Ackermann,M Nabe,1,0,,,,,,"",""
+ball,1,15.6,Warriors,CN Ackermann,C Jonker,M Nabe,0,1,1,,,,,"",""
+ball,1,15.7,Warriors,CN Ackermann,C Jonker,M Nabe,4,0,,,,,,"",""
+ball,1,16.1,Warriors,C Jonker,CN Ackermann,D Paterson,0,0,,,,,,"",""
+ball,1,16.2,Warriors,C Jonker,CN Ackermann,D Paterson,0,0,,,,,,"",""
+ball,1,16.3,Warriors,C Jonker,CN Ackermann,D Paterson,1,0,,,,,,"",""
+ball,1,16.4,Warriors,CN Ackermann,C Jonker,D Paterson,1,0,,,,,,"",""
+ball,1,16.5,Warriors,C Jonker,CN Ackermann,D Paterson,2,0,,,,,,"",""
+ball,1,16.6,Warriors,C Jonker,CN Ackermann,D Paterson,6,0,,,,,,"",""
+ball,1,17.1,Warriors,CN Ackermann,C Jonker,M Nabe,2,0,,,,,,"",""
+ball,1,17.2,Warriors,CN Ackermann,C Jonker,M Nabe,1,0,,,,,,"",""
+ball,1,17.3,Warriors,C Jonker,CN Ackermann,M Nabe,1,0,,,,,,"",""
+ball,1,17.4,Warriors,CN Ackermann,C Jonker,M Nabe,1,0,,,,,,"",""
+ball,1,17.5,Warriors,C Jonker,CN Ackermann,M Nabe,1,0,,,,,,"",""
+ball,1,17.6,Warriors,CN Ackermann,C Jonker,M Nabe,1,0,,,,,,"",""
+ball,1,18.1,Warriors,CN Ackermann,C Jonker,D Paterson,0,0,,,,,,caught,CN Ackermann
+ball,1,18.2,Warriors,C Jonker,LC Ngoepe,D Paterson,1,0,,,,,,"",""
+ball,1,18.3,Warriors,LC Ngoepe,C Jonker,D Paterson,2,0,,,,,,"",""
+ball,1,18.4,Warriors,LC Ngoepe,C Jonker,D Paterson,6,0,,,,,,"",""
+ball,1,18.5,Warriors,LC Ngoepe,C Jonker,D Paterson,0,0,,,,,,"",""
+ball,1,18.6,Warriors,LC Ngoepe,C Jonker,D Paterson,0,0,,,,,,"",""
+ball,1,19.1,Warriors,C Jonker,LC Ngoepe,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,19.2,Warriors,LC Ngoepe,C Jonker,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,19.3,Warriors,C Jonker,LC Ngoepe,RK Kleinveldt,4,0,,,,,,"",""
+ball,1,19.4,Warriors,C Jonker,LC Ngoepe,RK Kleinveldt,0,0,,,,,,caught,C Jonker
+ball,1,19.5,Warriors,MJ Nqolo,LC Ngoepe,RK Kleinveldt,1,0,,,,,,"",""
+ball,1,19.6,Warriors,LC Ngoepe,MJ Nqolo,RK Kleinveldt,1,0,,,,,,"",""
+ball,2,0.1,Cape Cobras,RE Levi,HM Amla,JT Smuts,0,0,,,,,,"",""
+ball,2,0.2,Cape Cobras,RE Levi,HM Amla,JT Smuts,0,0,,,,,,"",""
+ball,2,0.3,Cape Cobras,RE Levi,HM Amla,JT Smuts,0,3,3,,,,,"",""
+ball,2,0.4,Cape Cobras,RE Levi,HM Amla,JT Smuts,1,0,,,,,,"",""
+ball,2,0.5,Cape Cobras,HM Amla,RE Levi,JT Smuts,1,0,,,,,,"",""
+ball,2,0.6,Cape Cobras,RE Levi,HM Amla,JT Smuts,0,0,,,,,,"",""
+ball,2,0.7,Cape Cobras,RE Levi,HM Amla,JT Smuts,1,0,,,,,,"",""
+ball,2,1.1,Cape Cobras,RE Levi,HM Amla,ACR Birch,0,0,,,,,,"",""
+ball,2,1.2,Cape Cobras,RE Levi,HM Amla,ACR Birch,1,0,,,,,,"",""
+ball,2,1.3,Cape Cobras,HM Amla,RE Levi,ACR Birch,2,0,,,,,,"",""
+ball,2,1.4,Cape Cobras,HM Amla,RE Levi,ACR Birch,0,0,,,,,,"",""
+ball,2,1.5,Cape Cobras,HM Amla,RE Levi,ACR Birch,0,0,,,,,,"",""
+ball,2,1.6,Cape Cobras,HM Amla,RE Levi,ACR Birch,0,0,,,,,,"",""
+ball,2,2.1,Cape Cobras,RE Levi,HM Amla,BD Walters,0,0,,,,,,"",""
+ball,2,2.2,Cape Cobras,RE Levi,HM Amla,BD Walters,4,0,,,,,,"",""
+ball,2,2.3,Cape Cobras,RE Levi,HM Amla,BD Walters,4,0,,,,,,"",""
+ball,2,2.4,Cape Cobras,RE Levi,HM Amla,BD Walters,0,0,,,,,,"",""
+ball,2,2.5,Cape Cobras,RE Levi,HM Amla,BD Walters,0,1,,,,1,,"",""
+ball,2,2.6,Cape Cobras,HM Amla,RE Levi,BD Walters,0,0,,,,,,"",""
+ball,2,3.1,Cape Cobras,RE Levi,HM Amla,ACR Birch,4,0,,,,,,"",""
+ball,2,3.2,Cape Cobras,RE Levi,HM Amla,ACR Birch,1,0,,,,,,"",""
+ball,2,3.3,Cape Cobras,HM Amla,RE Levi,ACR Birch,1,0,,,,,,"",""
+ball,2,3.4,Cape Cobras,RE Levi,HM Amla,ACR Birch,0,1,1,,,,,"",""
+ball,2,3.5,Cape Cobras,RE Levi,HM Amla,ACR Birch,0,1,,,,1,,"",""
+ball,2,3.6,Cape Cobras,HM Amla,RE Levi,ACR Birch,1,0,,,,,,"",""
+ball,2,3.7,Cape Cobras,RE Levi,HM Amla,ACR Birch,0,1,1,,,,,"",""
+ball,2,3.8,Cape Cobras,RE Levi,HM Amla,ACR Birch,1,0,,,,,,"",""
+ball,2,4.1,Cape Cobras,RE Levi,HM Amla,BD Walters,0,0,,,,,,"",""
+ball,2,4.2,Cape Cobras,RE Levi,HM Amla,BD Walters,4,0,,,,,,"",""
+ball,2,4.3,Cape Cobras,RE Levi,HM Amla,BD Walters,4,0,,,,,,"",""
+ball,2,4.4,Cape Cobras,RE Levi,HM Amla,BD Walters,6,0,,,,,,"",""
+ball,2,4.5,Cape Cobras,RE Levi,HM Amla,BD Walters,0,0,,,,,,caught,RE Levi
+ball,2,4.6,Cape Cobras,HM Amla,T Bavuma,BD Walters,1,0,,,,,,"",""
+ball,2,5.1,Cape Cobras,HM Amla,T Bavuma,SSB Magala,0,0,,,,,,"",""
+ball,2,5.2,Cape Cobras,HM Amla,T Bavuma,SSB Magala,1,0,,,,,,"",""
+ball,2,5.3,Cape Cobras,T Bavuma,HM Amla,SSB Magala,0,1,1,,,,,"",""
+ball,2,5.4,Cape Cobras,T Bavuma,HM Amla,SSB Magala,1,0,,,,,,"",""
+ball,2,5.5,Cape Cobras,HM Amla,T Bavuma,SSB Magala,0,1,1,,,,,"",""
+ball,2,5.6,Cape Cobras,HM Amla,T Bavuma,SSB Magala,0,1,,1,,,,"",""
+ball,2,5.7,Cape Cobras,HM Amla,T Bavuma,SSB Magala,4,0,,,,,,"",""
+ball,2,5.8,Cape Cobras,HM Amla,T Bavuma,SSB Magala,1,0,,,,,,"",""
+ball,2,5.9,Cape Cobras,T Bavuma,HM Amla,SSB Magala,1,0,,,,,,"",""
+ball,2,6.1,Cape Cobras,T Bavuma,HM Amla,JT Smuts,1,0,,,,,,"",""
+ball,2,6.2,Cape Cobras,HM Amla,T Bavuma,JT Smuts,1,0,,,,,,"",""
+ball,2,6.3,Cape Cobras,T Bavuma,HM Amla,JT Smuts,1,0,,,,,,"",""
+ball,2,6.4,Cape Cobras,HM Amla,T Bavuma,JT Smuts,2,0,,,,,,"",""
+ball,2,6.5,Cape Cobras,HM Amla,T Bavuma,JT Smuts,6,0,,,,,,"",""
+ball,2,6.6,Cape Cobras,HM Amla,T Bavuma,JT Smuts,1,0,,,,,,"",""
+ball,2,7.1,Cape Cobras,HM Amla,T Bavuma,CN Ackermann,2,0,,,,,,"",""
+ball,2,7.2,Cape Cobras,HM Amla,T Bavuma,CN Ackermann,1,0,,,,,,"",""
+ball,2,7.3,Cape Cobras,T Bavuma,HM Amla,CN Ackermann,1,0,,,,,,"",""
+ball,2,7.4,Cape Cobras,HM Amla,T Bavuma,CN Ackermann,2,0,,,,,,"",""
+ball,2,7.5,Cape Cobras,HM Amla,T Bavuma,CN Ackermann,0,0,,,,,,"",""
+ball,2,7.6,Cape Cobras,HM Amla,T Bavuma,CN Ackermann,4,0,,,,,,"",""
+ball,2,8.1,Cape Cobras,T Bavuma,HM Amla,C Jonker,1,0,,,,,,"",""
+ball,2,8.2,Cape Cobras,HM Amla,T Bavuma,C Jonker,0,0,,,,,,"",""
+ball,2,8.3,Cape Cobras,HM Amla,T Bavuma,C Jonker,4,0,,,,,,"",""
+ball,2,8.4,Cape Cobras,HM Amla,T Bavuma,C Jonker,0,0,,,,,,"",""
+ball,2,8.5,Cape Cobras,HM Amla,T Bavuma,C Jonker,1,0,,,,,,"",""
+ball,2,8.6,Cape Cobras,T Bavuma,HM Amla,C Jonker,0,0,,,,,,caught,T Bavuma
+ball,2,9.1,Cape Cobras,HM Amla,JP Duminy,CN Ackermann,1,0,,,,,,"",""
+ball,2,9.2,Cape Cobras,JP Duminy,HM Amla,CN Ackermann,0,0,,,,,,"",""
+ball,2,9.3,Cape Cobras,JP Duminy,HM Amla,CN Ackermann,0,0,,,,,,"",""
+ball,2,9.4,Cape Cobras,JP Duminy,HM Amla,CN Ackermann,1,0,,,,,,"",""
+ball,2,9.5,Cape Cobras,HM Amla,JP Duminy,CN Ackermann,1,0,,,,,,"",""
+ball,2,9.6,Cape Cobras,JP Duminy,HM Amla,CN Ackermann,1,0,,,,,,"",""
+ball,2,10.1,Cape Cobras,JP Duminy,HM Amla,CA Ingram,1,0,,,,,,"",""
+ball,2,10.2,Cape Cobras,HM Amla,JP Duminy,CA Ingram,1,0,,,,,,"",""
+ball,2,10.3,Cape Cobras,JP Duminy,HM Amla,CA Ingram,1,0,,,,,,"",""
+ball,2,10.4,Cape Cobras,HM Amla,JP Duminy,CA Ingram,0,0,,,,,,caught,HM Amla
+ball,2,10.5,Cape Cobras,VD Philander,JP Duminy,CA Ingram,0,0,,,,,,"",""
+ball,2,10.6,Cape Cobras,VD Philander,JP Duminy,CA Ingram,0,0,,,,,,"",""
+ball,2,11.1,Cape Cobras,JP Duminy,VD Philander,CN Ackermann,1,0,,,,,,"",""
+ball,2,11.2,Cape Cobras,VD Philander,JP Duminy,CN Ackermann,1,0,,,,,,"",""
+ball,2,11.3,Cape Cobras,JP Duminy,VD Philander,CN Ackermann,0,0,,,,,,"",""
+ball,2,11.4,Cape Cobras,JP Duminy,VD Philander,CN Ackermann,0,0,,,,,,"",""
+ball,2,11.5,Cape Cobras,JP Duminy,VD Philander,CN Ackermann,1,0,,,,,,"",""
+ball,2,11.6,Cape Cobras,VD Philander,JP Duminy,CN Ackermann,1,0,,,,,,"",""
+ball,2,12.1,Cape Cobras,VD Philander,JP Duminy,CA Ingram,1,0,,,,,,"",""
+ball,2,12.2,Cape Cobras,JP Duminy,VD Philander,CA Ingram,6,0,,,,,,"",""
+ball,2,12.3,Cape Cobras,JP Duminy,VD Philander,CA Ingram,2,0,,,,,,"",""
+ball,2,12.4,Cape Cobras,JP Duminy,VD Philander,CA Ingram,0,0,,,,,,caught,JP Duminy
+ball,2,12.5,Cape Cobras,VD Philander,C Koyana,CA Ingram,1,0,,,,,,"",""
+ball,2,12.6,Cape Cobras,C Koyana,VD Philander,CA Ingram,1,0,,,,,,"",""
+ball,2,13.1,Cape Cobras,C Koyana,VD Philander,CN Ackermann,0,0,,,,,,"",""
+ball,2,13.2,Cape Cobras,C Koyana,VD Philander,CN Ackermann,3,0,,,,,,"",""
+ball,2,13.3,Cape Cobras,VD Philander,C Koyana,CN Ackermann,1,0,,,,,,"",""
+ball,2,13.4,Cape Cobras,C Koyana,VD Philander,CN Ackermann,1,0,,,,,,"",""
+ball,2,13.5,Cape Cobras,VD Philander,C Koyana,CN Ackermann,1,0,,,,,,"",""
+ball,2,13.6,Cape Cobras,C Koyana,VD Philander,CN Ackermann,1,0,,,,,,"",""
+ball,2,14.1,Cape Cobras,C Koyana,VD Philander,CA Ingram,0,0,,,,,,"",""
+ball,2,14.2,Cape Cobras,C Koyana,VD Philander,CA Ingram,0,0,,,,,,"",""
+ball,2,14.3,Cape Cobras,C Koyana,VD Philander,CA Ingram,4,0,,,,,,"",""
+ball,2,14.4,Cape Cobras,C Koyana,VD Philander,CA Ingram,0,0,,,,,,"",""
+ball,2,14.5,Cape Cobras,C Koyana,VD Philander,CA Ingram,0,0,,,,,,"",""
+ball,2,14.6,Cape Cobras,C Koyana,VD Philander,CA Ingram,0,0,,,,,,"",""
+ball,2,15.1,Cape Cobras,VD Philander,C Koyana,JT Smuts,1,0,,,,,,"",""
+ball,2,15.2,Cape Cobras,C Koyana,VD Philander,JT Smuts,0,0,,,,,,"",""
+ball,2,15.3,Cape Cobras,C Koyana,VD Philander,JT Smuts,0,0,,,,,,"",""
+ball,2,15.4,Cape Cobras,C Koyana,VD Philander,JT Smuts,0,0,,,,,,"",""
+ball,2,15.5,Cape Cobras,C Koyana,VD Philander,JT Smuts,1,0,,,,,,"",""
+ball,2,15.6,Cape Cobras,VD Philander,C Koyana,JT Smuts,0,1,1,,,,,"",""
+ball,2,15.7,Cape Cobras,VD Philander,C Koyana,JT Smuts,1,0,,,,,,"",""
+ball,2,16.1,Cape Cobras,VD Philander,C Koyana,SSB Magala,1,0,,,,,,"",""
+ball,2,16.2,Cape Cobras,C Koyana,VD Philander,SSB Magala,1,0,,,,,,"",""
+ball,2,16.3,Cape Cobras,VD Philander,C Koyana,SSB Magala,1,0,,,,,,"",""
+ball,2,16.4,Cape Cobras,C Koyana,VD Philander,SSB Magala,1,0,,,,,,"",""
+ball,2,16.5,Cape Cobras,VD Philander,C Koyana,SSB Magala,4,0,,,,,,"",""
+ball,2,16.6,Cape Cobras,VD Philander,C Koyana,SSB Magala,1,0,,,,,,"",""
+ball,2,17.1,Cape Cobras,VD Philander,C Koyana,ACR Birch,2,0,,,,,,"",""
+ball,2,17.2,Cape Cobras,VD Philander,C Koyana,ACR Birch,1,0,,,,,,"",""
+ball,2,17.3,Cape Cobras,C Koyana,VD Philander,ACR Birch,1,0,,,,,,"",""
+ball,2,17.4,Cape Cobras,VD Philander,C Koyana,ACR Birch,1,0,,,,,,"",""
+ball,2,17.5,Cape Cobras,C Koyana,VD Philander,ACR Birch,0,0,,,,,,"",""
+ball,2,17.6,Cape Cobras,C Koyana,VD Philander,ACR Birch,2,0,,,,,,"",""
+ball,2,18.1,Cape Cobras,VD Philander,C Koyana,SSB Magala,1,0,,,,,,"",""
+ball,2,18.2,Cape Cobras,C Koyana,VD Philander,SSB Magala,1,0,,,,,,"",""
+ball,2,18.3,Cape Cobras,VD Philander,C Koyana,SSB Magala,2,0,,,,,,"",""
+ball,2,18.4,Cape Cobras,VD Philander,C Koyana,SSB Magala,0,0,,,,,,caught and bowled,VD Philander
+ball,2,18.5,Cape Cobras,GF Linde,C Koyana,SSB Magala,0,0,,,,,,"",""
+ball,2,18.6,Cape Cobras,GF Linde,C Koyana,SSB Magala,2,0,,,,,,"",""
+ball,2,19.1,Cape Cobras,C Koyana,GF Linde,ACR Birch,1,0,,,,,,"",""
+ball,2,19.2,Cape Cobras,GF Linde,C Koyana,ACR Birch,1,0,,,,,,"",""
+ball,2,19.3,Cape Cobras,C Koyana,GF Linde,ACR Birch,1,0,,,,,,"",""
+ball,2,19.4,Cape Cobras,GF Linde,C Koyana,ACR Birch,0,0,,,,,,caught,GF Linde
+ball,2,19.5,Cape Cobras,C Koyana,RK Kleinveldt,ACR Birch,1,0,,,,,,"",""
+ball,2,19.6,Cape Cobras,RK Kleinveldt,C Koyana,ACR Birch,4,0,,,,,,"",""

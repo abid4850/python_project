@@ -1,0 +1,277 @@
+version,1.6.0
+info,balls_per_over,5
+info,team,London Spirit
+info,team,Birmingham Phoenix
+info,gender,male
+info,season,2021
+info,date,2021/07/23
+info,event,The Hundred Men's Competition
+info,match_number,2
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Birmingham Phoenix
+info,toss_decision,field
+info,player_of_match,Z Crawley
+info,umpire,GD Lloyd
+info,umpire,RT Robinson
+info,reserve_umpire,RJ Bailey
+info,tv_umpire,NL Bainton
+info,match_referee,Phil Whitticase
+info,winner,Birmingham Phoenix
+info,winner_wickets,3
+info,players,London Spirit,Z Crawley
+info,players,London Spirit,JP Inglis
+info,players,London Spirit,DW Lawrence
+info,players,London Spirit,EJG Morgan
+info,players,London Spirit,JL Denly
+info,players,London Spirit,RS Bopara
+info,players,London Spirit,Mohammad Nabi
+info,players,London Spirit,RE van der Merwe
+info,players,London Spirit,BC Cullen
+info,players,London Spirit,CP Wood
+info,players,London Spirit,Mohammad Amir
+info,players,Birmingham Phoenix,FH Allen
+info,players,Birmingham Phoenix,Miles Hammond
+info,players,Birmingham Phoenix,LS Livingstone
+info,players,Birmingham Phoenix,MM Ali
+info,players,Birmingham Phoenix,DJ Bell-Drummond
+info,players,Birmingham Phoenix,CG Benjamin
+info,players,Birmingham Phoenix,BAC Howell
+info,players,Birmingham Phoenix,CB Cooke
+info,players,Birmingham Phoenix,AF Milne
+info,players,Birmingham Phoenix,TG Helm
+info,players,Birmingham Phoenix,Imran Tahir
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BC Cullen,39180894
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JP Inglis,989889ff
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,RT Robinson,b143c87d
+info,registry,people,TG Helm,74a274cc
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,London Spirit,Z Crawley,JP Inglis,AF Milne,0,0,,,,,,"",""
+ball,1,0.2,London Spirit,Z Crawley,JP Inglis,AF Milne,0,2,,2,,,,"",""
+ball,1,0.3,London Spirit,Z Crawley,JP Inglis,AF Milne,0,0,,,,,,"",""
+ball,1,0.4,London Spirit,Z Crawley,JP Inglis,AF Milne,1,0,,,,,,"",""
+ball,1,0.5,London Spirit,JP Inglis,Z Crawley,AF Milne,0,0,,,,,,"",""
+ball,1,0.6,London Spirit,JP Inglis,Z Crawley,AF Milne,1,0,,,,,,"",""
+ball,1,1.1,London Spirit,Z Crawley,JP Inglis,TG Helm,1,0,,,,,,"",""
+ball,1,1.2,London Spirit,JP Inglis,Z Crawley,TG Helm,4,0,,,,,,"",""
+ball,1,1.3,London Spirit,JP Inglis,Z Crawley,TG Helm,0,0,,,,,,"",""
+ball,1,1.4,London Spirit,JP Inglis,Z Crawley,TG Helm,1,0,,,,,,"",""
+ball,1,1.5,London Spirit,Z Crawley,JP Inglis,TG Helm,6,0,,,,,,"",""
+ball,1,2.1,London Spirit,JP Inglis,Z Crawley,AF Milne,4,0,,,,,,"",""
+ball,1,2.2,London Spirit,JP Inglis,Z Crawley,AF Milne,0,0,,,,,,"",""
+ball,1,2.3,London Spirit,JP Inglis,Z Crawley,AF Milne,0,0,,,,,,caught,JP Inglis
+ball,1,2.4,London Spirit,DW Lawrence,Z Crawley,AF Milne,0,0,,,,,,"",""
+ball,1,2.5,London Spirit,DW Lawrence,Z Crawley,AF Milne,0,0,,,,,,"",""
+ball,1,3.1,London Spirit,DW Lawrence,Z Crawley,TG Helm,6,0,,,,,,"",""
+ball,1,3.2,London Spirit,DW Lawrence,Z Crawley,TG Helm,0,0,,,,,,"",""
+ball,1,3.3,London Spirit,DW Lawrence,Z Crawley,TG Helm,0,0,,,,,,caught,DW Lawrence
+ball,1,3.4,London Spirit,EJG Morgan,Z Crawley,TG Helm,1,0,,,,,,"",""
+ball,1,3.5,London Spirit,Z Crawley,EJG Morgan,TG Helm,4,0,,,,,,"",""
+ball,1,4.1,London Spirit,EJG Morgan,Z Crawley,BAC Howell,0,0,,,,,,"",""
+ball,1,4.2,London Spirit,EJG Morgan,Z Crawley,BAC Howell,1,0,,,,,,"",""
+ball,1,4.3,London Spirit,Z Crawley,EJG Morgan,BAC Howell,4,0,,,,,,"",""
+ball,1,4.4,London Spirit,Z Crawley,EJG Morgan,BAC Howell,4,0,,,,,,"",""
+ball,1,4.5,London Spirit,Z Crawley,EJG Morgan,BAC Howell,1,0,,,,,,"",""
+ball,1,5.1,London Spirit,EJG Morgan,Z Crawley,LS Livingstone,2,0,,,,,,"",""
+ball,1,5.2,London Spirit,EJG Morgan,Z Crawley,LS Livingstone,1,0,,,,,,"",""
+ball,1,5.3,London Spirit,Z Crawley,EJG Morgan,LS Livingstone,1,0,,,,,,"",""
+ball,1,5.4,London Spirit,EJG Morgan,Z Crawley,LS Livingstone,0,0,,,,,,"",""
+ball,1,5.5,London Spirit,EJG Morgan,Z Crawley,LS Livingstone,1,0,,,,,,"",""
+ball,1,6.1,London Spirit,EJG Morgan,Z Crawley,Imran Tahir,1,0,,,,,,"",""
+ball,1,6.2,London Spirit,Z Crawley,EJG Morgan,Imran Tahir,1,0,,,,,,"",""
+ball,1,6.3,London Spirit,EJG Morgan,Z Crawley,Imran Tahir,4,0,,,,,,"",""
+ball,1,6.4,London Spirit,EJG Morgan,Z Crawley,Imran Tahir,1,0,,,,,,"",""
+ball,1,6.5,London Spirit,Z Crawley,EJG Morgan,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.1,London Spirit,Z Crawley,EJG Morgan,MM Ali,0,0,,,,,,"",""
+ball,1,7.2,London Spirit,Z Crawley,EJG Morgan,MM Ali,4,0,,,,,,"",""
+ball,1,7.3,London Spirit,Z Crawley,EJG Morgan,MM Ali,1,0,,,,,,"",""
+ball,1,7.4,London Spirit,EJG Morgan,Z Crawley,MM Ali,0,0,,,,,,"",""
+ball,1,7.5,London Spirit,EJG Morgan,Z Crawley,MM Ali,1,0,,,,,,"",""
+ball,1,8.1,London Spirit,EJG Morgan,Z Crawley,BAC Howell,0,0,,,,,,caught,EJG Morgan
+ball,1,8.2,London Spirit,JL Denly,Z Crawley,BAC Howell,0,0,,,,,,"",""
+ball,1,8.3,London Spirit,JL Denly,Z Crawley,BAC Howell,1,0,,,,,,"",""
+ball,1,8.4,London Spirit,Z Crawley,JL Denly,BAC Howell,1,0,,,,,,"",""
+ball,1,8.5,London Spirit,JL Denly,Z Crawley,BAC Howell,0,0,,,,,,"",""
+ball,1,9.1,London Spirit,JL Denly,Z Crawley,BAC Howell,6,0,,,,,,"",""
+ball,1,9.2,London Spirit,JL Denly,Z Crawley,BAC Howell,1,0,,,,,,"",""
+ball,1,9.3,London Spirit,Z Crawley,JL Denly,BAC Howell,1,0,,,,,,"",""
+ball,1,9.4,London Spirit,JL Denly,Z Crawley,BAC Howell,1,0,,,,,,"",""
+ball,1,9.5,London Spirit,Z Crawley,JL Denly,BAC Howell,0,0,,,,,,"",""
+ball,1,10.1,London Spirit,JL Denly,Z Crawley,MM Ali,1,0,,,,,,"",""
+ball,1,10.2,London Spirit,Z Crawley,JL Denly,MM Ali,1,0,,,,,,"",""
+ball,1,10.3,London Spirit,JL Denly,Z Crawley,MM Ali,1,0,,,,,,"",""
+ball,1,10.4,London Spirit,Z Crawley,JL Denly,MM Ali,1,0,,,,,,"",""
+ball,1,10.5,London Spirit,JL Denly,Z Crawley,MM Ali,1,0,,,,,,"",""
+ball,1,11.1,London Spirit,Z Crawley,JL Denly,LS Livingstone,1,0,,,,,,"",""
+ball,1,11.2,London Spirit,JL Denly,Z Crawley,LS Livingstone,4,0,,,,,,"",""
+ball,1,11.3,London Spirit,JL Denly,Z Crawley,LS Livingstone,6,0,,,,,,"",""
+ball,1,11.4,London Spirit,JL Denly,Z Crawley,LS Livingstone,1,0,,,,,,"",""
+ball,1,11.5,London Spirit,Z Crawley,JL Denly,LS Livingstone,0,0,,,,,,"",""
+ball,1,12.1,London Spirit,JL Denly,Z Crawley,BAC Howell,2,0,,,,,,"",""
+ball,1,12.2,London Spirit,JL Denly,Z Crawley,BAC Howell,0,0,,,,,,caught,JL Denly
+ball,1,12.3,London Spirit,RS Bopara,Z Crawley,BAC Howell,1,0,,,,,,"",""
+ball,1,12.4,London Spirit,Z Crawley,RS Bopara,BAC Howell,1,0,,,,,,"",""
+ball,1,12.5,London Spirit,RS Bopara,Z Crawley,BAC Howell,0,0,,,,,,"",""
+ball,1,13.1,London Spirit,RS Bopara,Z Crawley,TG Helm,0,0,,,,,,"",""
+ball,1,13.2,London Spirit,RS Bopara,Z Crawley,TG Helm,4,0,,,,,,"",""
+ball,1,13.3,London Spirit,RS Bopara,Z Crawley,TG Helm,0,0,,,,,,"",""
+ball,1,13.4,London Spirit,RS Bopara,Z Crawley,TG Helm,0,0,,,,,,"",""
+ball,1,13.5,London Spirit,RS Bopara,Z Crawley,TG Helm,2,0,,,,,,"",""
+ball,1,14.1,London Spirit,Z Crawley,RS Bopara,Imran Tahir,4,0,,,,,,"",""
+ball,1,14.2,London Spirit,Z Crawley,RS Bopara,Imran Tahir,1,0,,,,,,"",""
+ball,1,14.3,London Spirit,RS Bopara,Z Crawley,Imran Tahir,1,0,,,,,,"",""
+ball,1,14.4,London Spirit,Z Crawley,RS Bopara,Imran Tahir,1,0,,,,,,"",""
+ball,1,14.5,London Spirit,RS Bopara,Z Crawley,Imran Tahir,0,0,,,,,,"",""
+ball,1,15.1,London Spirit,RS Bopara,Z Crawley,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.2,London Spirit,Z Crawley,RS Bopara,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.3,London Spirit,RS Bopara,Z Crawley,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.4,London Spirit,Z Crawley,RS Bopara,Imran Tahir,4,0,,,,,,"",""
+ball,1,15.5,London Spirit,Z Crawley,RS Bopara,Imran Tahir,6,0,,,,,,"",""
+ball,1,16.1,London Spirit,RS Bopara,Z Crawley,AF Milne,1,0,,,,,,"",""
+ball,1,16.2,London Spirit,Z Crawley,RS Bopara,AF Milne,0,0,,,,,,"",""
+ball,1,16.3,London Spirit,Z Crawley,RS Bopara,AF Milne,0,0,,,,,,"",""
+ball,1,16.4,London Spirit,Z Crawley,RS Bopara,AF Milne,1,0,,,,,,"",""
+ball,1,16.5,London Spirit,RS Bopara,Z Crawley,AF Milne,1,0,,,,,,"",""
+ball,1,17.1,London Spirit,Z Crawley,RS Bopara,AF Milne,1,0,,,,,,"",""
+ball,1,17.2,London Spirit,RS Bopara,Z Crawley,AF Milne,1,0,,,,,,"",""
+ball,1,17.3,London Spirit,Z Crawley,RS Bopara,AF Milne,1,0,,,,,,"",""
+ball,1,17.4,London Spirit,RS Bopara,Z Crawley,AF Milne,4,0,,,,,,"",""
+ball,1,17.5,London Spirit,RS Bopara,Z Crawley,AF Milne,0,0,,,,,,caught and bowled,RS Bopara
+ball,1,18.1,London Spirit,Z Crawley,Mohammad Nabi,Imran Tahir,1,0,,,,,,"",""
+ball,1,18.2,London Spirit,Mohammad Nabi,Z Crawley,Imran Tahir,0,0,,,,,,"",""
+ball,1,18.3,London Spirit,Mohammad Nabi,Z Crawley,Imran Tahir,4,0,,,,,,"",""
+ball,1,18.4,London Spirit,Mohammad Nabi,Z Crawley,Imran Tahir,1,0,,,,,,"",""
+ball,1,18.5,London Spirit,Z Crawley,Mohammad Nabi,Imran Tahir,2,0,,,,,,"",""
+ball,1,19.1,London Spirit,Z Crawley,Mohammad Nabi,TG Helm,1,0,,,,,,"",""
+ball,1,19.2,London Spirit,Mohammad Nabi,Z Crawley,TG Helm,1,0,,,,,,"",""
+ball,1,19.3,London Spirit,Z Crawley,Mohammad Nabi,TG Helm,6,0,,,,,,"",""
+ball,1,19.4,London Spirit,Z Crawley,Mohammad Nabi,TG Helm,0,0,,,,,,caught,Z Crawley
+ball,1,19.5,London Spirit,RE van der Merwe,Mohammad Nabi,TG Helm,0,1,,,1,,,"",""
+ball,2,0.1,Birmingham Phoenix,FH Allen,Miles Hammond,Mohammad Amir,1,0,,,,,,"",""
+ball,2,0.2,Birmingham Phoenix,Miles Hammond,FH Allen,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,0.3,Birmingham Phoenix,Miles Hammond,FH Allen,Mohammad Amir,4,0,,,,,,"",""
+ball,2,0.4,Birmingham Phoenix,Miles Hammond,FH Allen,Mohammad Amir,0,0,,,,,,"",""
+ball,2,0.5,Birmingham Phoenix,Miles Hammond,FH Allen,Mohammad Amir,0,0,,,,,,"",""
+ball,2,0.6,Birmingham Phoenix,Miles Hammond,FH Allen,Mohammad Amir,1,0,,,,,,"",""
+ball,2,1.1,Birmingham Phoenix,FH Allen,Miles Hammond,CP Wood,0,0,,,,,,"",""
+ball,2,1.2,Birmingham Phoenix,FH Allen,Miles Hammond,CP Wood,0,0,,,,,,"",""
+ball,2,1.3,Birmingham Phoenix,FH Allen,Miles Hammond,CP Wood,1,0,,,,,,"",""
+ball,2,1.4,Birmingham Phoenix,Miles Hammond,FH Allen,CP Wood,0,0,,,,,,caught,Miles Hammond
+ball,2,1.5,Birmingham Phoenix,LS Livingstone,FH Allen,CP Wood,1,0,,,,,,"",""
+ball,2,2.1,Birmingham Phoenix,LS Livingstone,FH Allen,BC Cullen,0,0,,,,,,"",""
+ball,2,2.2,Birmingham Phoenix,LS Livingstone,FH Allen,BC Cullen,6,0,,,,,,"",""
+ball,2,2.3,Birmingham Phoenix,LS Livingstone,FH Allen,BC Cullen,0,0,,,,,,"",""
+ball,2,2.4,Birmingham Phoenix,LS Livingstone,FH Allen,BC Cullen,1,0,,,,,,"",""
+ball,2,2.5,Birmingham Phoenix,FH Allen,LS Livingstone,BC Cullen,4,0,,,,,,"",""
+ball,2,3.1,Birmingham Phoenix,FH Allen,LS Livingstone,Mohammad Amir,4,0,,,,,,"",""
+ball,2,3.2,Birmingham Phoenix,FH Allen,LS Livingstone,Mohammad Amir,1,0,,,,,,"",""
+ball,2,3.3,Birmingham Phoenix,LS Livingstone,FH Allen,Mohammad Amir,0,2,,2,,,,"",""
+ball,2,3.4,Birmingham Phoenix,LS Livingstone,FH Allen,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,3.5,Birmingham Phoenix,LS Livingstone,FH Allen,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,3.6,Birmingham Phoenix,LS Livingstone,FH Allen,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,3.7,Birmingham Phoenix,LS Livingstone,FH Allen,Mohammad Amir,2,0,,,,,,"",""
+ball,2,3.8,Birmingham Phoenix,LS Livingstone,FH Allen,Mohammad Amir,1,0,,,,,,"",""
+ball,2,3.9,Birmingham Phoenix,FH Allen,LS Livingstone,Mohammad Amir,0,0,,,,,,bowled,FH Allen
+ball,2,4.1,Birmingham Phoenix,LS Livingstone,MM Ali,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,4.2,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Nabi,2,0,,,,,,"",""
+ball,2,4.3,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,4.4,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Nabi,2,0,,,,,,"",""
+ball,2,4.5,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Nabi,4,0,,,,,,"",""
+ball,2,5.1,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Nabi,2,0,,,,,,"",""
+ball,2,5.2,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,5.3,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,5.4,Birmingham Phoenix,LS Livingstone,MM Ali,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,5.5,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,6.1,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,6.2,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Amir,0,0,,,,,,"",""
+ball,2,6.3,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Amir,2,0,,,,,,"",""
+ball,2,6.4,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Amir,0,1,1,,,,,"",""
+ball,2,6.5,Birmingham Phoenix,MM Ali,LS Livingstone,Mohammad Amir,1,0,,,,,,"",""
+ball,2,6.6,Birmingham Phoenix,LS Livingstone,MM Ali,Mohammad Amir,4,0,,,,,,"",""
+ball,2,6.7,Birmingham Phoenix,LS Livingstone,MM Ali,Mohammad Amir,1,0,,,,,,"",""
+ball,2,7.1,Birmingham Phoenix,MM Ali,LS Livingstone,CP Wood,1,0,,,,,,"",""
+ball,2,7.2,Birmingham Phoenix,LS Livingstone,MM Ali,CP Wood,0,0,,,,,,"",""
+ball,2,7.3,Birmingham Phoenix,LS Livingstone,MM Ali,CP Wood,1,0,,,,,,"",""
+ball,2,7.4,Birmingham Phoenix,MM Ali,LS Livingstone,CP Wood,0,0,,,,,,"",""
+ball,2,7.5,Birmingham Phoenix,MM Ali,LS Livingstone,CP Wood,0,1,1,,,,,"",""
+ball,2,7.6,Birmingham Phoenix,MM Ali,LS Livingstone,CP Wood,0,0,,,,,,"",""
+ball,2,8.1,Birmingham Phoenix,LS Livingstone,MM Ali,BC Cullen,0,0,,,,,,caught,LS Livingstone
+ball,2,8.2,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,BC Cullen,1,0,,,,,,"",""
+ball,2,8.3,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,BC Cullen,0,0,,,,,,"",""
+ball,2,8.4,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,BC Cullen,0,0,,,,,,"",""
+ball,2,8.5,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,BC Cullen,0,2,,2,,,,"",""
+ball,2,8.6,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,BC Cullen,2,0,,,,,,"",""
+ball,2,9.1,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,BC Cullen,4,0,,,,,,"",""
+ball,2,9.2,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,BC Cullen,0,0,,,,,,"",""
+ball,2,9.3,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,BC Cullen,1,0,,,,,,"",""
+ball,2,9.4,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,BC Cullen,2,0,,,,,,"",""
+ball,2,9.5,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,BC Cullen,2,0,,,,,,"",""
+ball,2,10.1,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,RE van der Merwe,6,0,,,,,,"",""
+ball,2,10.2,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,RE van der Merwe,1,0,,,,,,"",""
+ball,2,10.3,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,RE van der Merwe,1,0,,,,,,"",""
+ball,2,10.4,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,RE van der Merwe,2,0,,,,,,"",""
+ball,2,10.5,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,RE van der Merwe,1,0,,,,,,"",""
+ball,2,11.1,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,RS Bopara,0,0,,,,,,"",""
+ball,2,11.2,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,RS Bopara,1,0,,,,,,"",""
+ball,2,11.3,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,RS Bopara,4,0,,,,,,"",""
+ball,2,11.4,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,RS Bopara,1,0,,,,,,"",""
+ball,2,11.5,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,RS Bopara,1,0,,,,,,"",""
+ball,2,12.1,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,12.2,Birmingham Phoenix,MM Ali,DJ Bell-Drummond,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,12.3,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,Mohammad Nabi,2,0,,,,,,"",""
+ball,2,12.4,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,12.5,Birmingham Phoenix,DJ Bell-Drummond,MM Ali,Mohammad Nabi,0,0,,,,,,caught,DJ Bell-Drummond
+ball,2,13.1,Birmingham Phoenix,CG Benjamin,MM Ali,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,13.2,Birmingham Phoenix,CG Benjamin,MM Ali,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,13.3,Birmingham Phoenix,MM Ali,CG Benjamin,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,13.4,Birmingham Phoenix,CG Benjamin,MM Ali,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,13.5,Birmingham Phoenix,CG Benjamin,MM Ali,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,14.1,Birmingham Phoenix,MM Ali,CG Benjamin,RE van der Merwe,0,0,,,,,,caught,MM Ali
+ball,2,14.2,Birmingham Phoenix,BAC Howell,CG Benjamin,RE van der Merwe,1,0,,,,,,"",""
+ball,2,14.3,Birmingham Phoenix,CG Benjamin,BAC Howell,RE van der Merwe,1,0,,,,,,"",""
+ball,2,14.4,Birmingham Phoenix,BAC Howell,CG Benjamin,RE van der Merwe,1,0,,,,,,"",""
+ball,2,14.5,Birmingham Phoenix,CG Benjamin,BAC Howell,RE van der Merwe,1,0,,,,,,"",""
+ball,2,15.1,Birmingham Phoenix,BAC Howell,CG Benjamin,CP Wood,0,0,,,,,,"",""
+ball,2,15.2,Birmingham Phoenix,BAC Howell,CG Benjamin,CP Wood,6,0,,,,,,"",""
+ball,2,15.3,Birmingham Phoenix,BAC Howell,CG Benjamin,CP Wood,1,0,,,,,,"",""
+ball,2,15.4,Birmingham Phoenix,CG Benjamin,BAC Howell,CP Wood,2,0,,,,,,"",""
+ball,2,15.5,Birmingham Phoenix,CG Benjamin,BAC Howell,CP Wood,0,0,,,,,,"",""
+ball,2,16.1,Birmingham Phoenix,BAC Howell,CG Benjamin,RE van der Merwe,1,0,,,,,,"",""
+ball,2,16.2,Birmingham Phoenix,CG Benjamin,BAC Howell,RE van der Merwe,1,0,,,,,,"",""
+ball,2,16.3,Birmingham Phoenix,BAC Howell,CG Benjamin,RE van der Merwe,6,0,,,,,,"",""
+ball,2,16.4,Birmingham Phoenix,BAC Howell,CG Benjamin,RE van der Merwe,1,0,,,,,,"",""
+ball,2,16.5,Birmingham Phoenix,CG Benjamin,BAC Howell,RE van der Merwe,1,0,,,,,,"",""
+ball,2,17.1,Birmingham Phoenix,BAC Howell,CG Benjamin,BC Cullen,0,0,,,,,,caught,BAC Howell
+ball,2,17.2,Birmingham Phoenix,CB Cooke,CG Benjamin,BC Cullen,1,0,,,,,,"",""
+ball,2,17.3,Birmingham Phoenix,CG Benjamin,CB Cooke,BC Cullen,6,0,,,,,,"",""
+ball,2,17.4,Birmingham Phoenix,CG Benjamin,CB Cooke,BC Cullen,0,0,,,,,,"",""
+ball,2,17.5,Birmingham Phoenix,CG Benjamin,CB Cooke,BC Cullen,6,0,,,,,,"",""
+ball,2,18.1,Birmingham Phoenix,CB Cooke,CG Benjamin,CP Wood,0,0,,,,,,"",""
+ball,2,18.2,Birmingham Phoenix,CB Cooke,CG Benjamin,CP Wood,4,0,,,,,,"",""
+ball,2,18.3,Birmingham Phoenix,CB Cooke,CG Benjamin,CP Wood,0,1,,,,1,,"",""
+ball,2,18.4,Birmingham Phoenix,CG Benjamin,CB Cooke,CP Wood,4,0,,,,,,"",""
+ball,2,18.5,Birmingham Phoenix,CG Benjamin,CB Cooke,CP Wood,1,0,,,,,,"",""
+ball,2,19.1,Birmingham Phoenix,CB Cooke,CG Benjamin,Mohammad Amir,0,0,,,,,,caught,CB Cooke
+ball,2,19.2,Birmingham Phoenix,AF Milne,CG Benjamin,Mohammad Amir,4,0,,,,,,"",""

@@ -1,0 +1,147 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Lions
+info,gender,male
+info,season,2017/18
+info,date,2017/12/01
+info,event,Ram Slam T20 Challenge
+info,match_number,19
+info,venue,"Mangaung Oval, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,Lions
+info,toss_decision,field
+info,umpire,A Paleker
+info,umpire,BP Jele
+info,reserve_umpire,JAS Morton
+info,tv_umpire,RN Hendricks
+info,match_referee,S Wadvalla
+info,outcome,no result
+info,player,Knights,RS Second
+info,player,Knights,KD Petersen
+info,player,Knights,TB de Bruyn
+info,player,Knights,DA Miller
+info,player,Knights,TG Mokoena
+info,player,Knights,R McLaren
+info,player,Knights,AR Swanepoel
+info,player,Knights,SC van Schalkwyk
+info,player,Knights,E Leie
+info,player,Knights,M Budaza
+info,player,Knights,D Olivier
+info,player,Lions,HE van der Dussen
+info,player,Lions,RR Hendricks
+info,player,Lions,M Mosehle
+info,player,Lions,RD Rickelton
+info,player,Lions,D Pretorius
+info,player,Lions,PWA Mulder
+info,player,Lions,BC Fortuin
+info,player,Lions,K Rabada
+info,player,Lions,AM Phangiso
+info,player,Lions,GC Viljoen
+info,player,Lions,OA Ramela
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Olivier,a8e56914
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,E Leie,a7bc76a0
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JAS Morton,eac9b8d9
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,M Budaza,1d105638
+info,registry,people,M Mosehle,8836fcac
+info,registry,people,OA Ramela,04a5b56e
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,R McLaren,c654af19
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RS Second,13d0b3d6
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,TG Mokoena,0827b38d
+ball,1,0.1,Knights,RS Second,KD Petersen,BC Fortuin,1,0,,,,,,"",""
+ball,1,0.2,Knights,KD Petersen,RS Second,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.3,Knights,KD Petersen,RS Second,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.4,Knights,KD Petersen,RS Second,BC Fortuin,3,0,,,,,,"",""
+ball,1,0.5,Knights,RS Second,KD Petersen,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.6,Knights,RS Second,KD Petersen,BC Fortuin,1,0,,,,,,"",""
+ball,1,1.1,Knights,RS Second,KD Petersen,K Rabada,0,0,,,,,,"",""
+ball,1,1.2,Knights,RS Second,KD Petersen,K Rabada,0,0,,,,,,"",""
+ball,1,1.3,Knights,RS Second,KD Petersen,K Rabada,1,0,,,,,,"",""
+ball,1,1.4,Knights,KD Petersen,RS Second,K Rabada,4,0,,,,,,"",""
+ball,1,1.5,Knights,KD Petersen,RS Second,K Rabada,4,0,,,,,,"",""
+ball,1,1.6,Knights,KD Petersen,RS Second,K Rabada,0,0,,,,,,"",""
+ball,1,2.1,Knights,RS Second,KD Petersen,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.2,Knights,RS Second,KD Petersen,BC Fortuin,4,0,,,,,,"",""
+ball,1,2.3,Knights,RS Second,KD Petersen,BC Fortuin,0,0,,,,,,caught and bowled,RS Second
+ball,1,2.4,Knights,TB de Bruyn,KD Petersen,BC Fortuin,1,0,,,,,,"",""
+ball,1,2.5,Knights,KD Petersen,TB de Bruyn,BC Fortuin,1,0,,,,,,"",""
+ball,1,2.6,Knights,TB de Bruyn,KD Petersen,BC Fortuin,0,0,,,,,,"",""
+ball,1,3.1,Knights,KD Petersen,TB de Bruyn,AM Phangiso,4,0,,,,,,"",""
+ball,1,3.2,Knights,KD Petersen,TB de Bruyn,AM Phangiso,0,0,,,,,,"",""
+ball,1,3.3,Knights,KD Petersen,TB de Bruyn,AM Phangiso,0,0,,,,,,"",""
+ball,1,3.4,Knights,KD Petersen,TB de Bruyn,AM Phangiso,1,0,,,,,,"",""
+ball,1,3.5,Knights,TB de Bruyn,KD Petersen,AM Phangiso,1,0,,,,,,"",""
+ball,1,3.6,Knights,KD Petersen,TB de Bruyn,AM Phangiso,1,0,,,,,,"",""
+ball,1,4.1,Knights,KD Petersen,TB de Bruyn,PWA Mulder,1,0,,,,,,"",""
+ball,1,4.2,Knights,TB de Bruyn,KD Petersen,PWA Mulder,2,0,,,,,,"",""
+ball,1,4.3,Knights,TB de Bruyn,KD Petersen,PWA Mulder,0,0,,,,,,"",""
+ball,1,4.4,Knights,TB de Bruyn,KD Petersen,PWA Mulder,0,0,,,,,,"",""
+ball,1,4.5,Knights,TB de Bruyn,KD Petersen,PWA Mulder,2,0,,,,,,"",""
+ball,1,4.6,Knights,TB de Bruyn,KD Petersen,PWA Mulder,4,0,,,,,,"",""
+ball,1,5.1,Knights,KD Petersen,TB de Bruyn,GC Viljoen,2,0,,,,,,"",""
+ball,1,5.2,Knights,KD Petersen,TB de Bruyn,GC Viljoen,0,0,,,,,,"",""
+ball,1,5.3,Knights,KD Petersen,TB de Bruyn,GC Viljoen,2,0,,,,,,"",""
+ball,1,5.4,Knights,KD Petersen,TB de Bruyn,GC Viljoen,0,0,,,,,,"",""
+ball,1,5.5,Knights,KD Petersen,TB de Bruyn,GC Viljoen,0,0,,,,,,"",""
+ball,1,5.6,Knights,KD Petersen,TB de Bruyn,GC Viljoen,0,0,,,,,,"",""
+ball,1,6.1,Knights,TB de Bruyn,KD Petersen,AM Phangiso,0,0,,,,,,"",""
+ball,1,6.2,Knights,TB de Bruyn,KD Petersen,AM Phangiso,1,0,,,,,,"",""
+ball,1,6.3,Knights,KD Petersen,TB de Bruyn,AM Phangiso,1,0,,,,,,"",""
+ball,1,6.4,Knights,TB de Bruyn,KD Petersen,AM Phangiso,1,0,,,,,,"",""
+ball,1,6.5,Knights,KD Petersen,TB de Bruyn,AM Phangiso,1,0,,,,,,"",""
+ball,1,6.6,Knights,TB de Bruyn,KD Petersen,AM Phangiso,0,0,,,,,,"",""
+ball,1,7.1,Knights,KD Petersen,TB de Bruyn,D Pretorius,0,1,1,,,,,"",""
+ball,1,7.2,Knights,KD Petersen,TB de Bruyn,D Pretorius,2,0,,,,,,"",""
+ball,1,7.3,Knights,KD Petersen,TB de Bruyn,D Pretorius,4,0,,,,,,"",""
+ball,1,7.4,Knights,KD Petersen,TB de Bruyn,D Pretorius,1,0,,,,,,"",""
+ball,1,7.5,Knights,TB de Bruyn,KD Petersen,D Pretorius,1,0,,,,,,"",""
+ball,1,7.6,Knights,KD Petersen,TB de Bruyn,D Pretorius,0,0,,,,,,"",""
+ball,1,7.7,Knights,KD Petersen,TB de Bruyn,D Pretorius,1,0,,,,,,"",""
+ball,1,8.1,Knights,KD Petersen,TB de Bruyn,BC Fortuin,1,0,,,,,,"",""
+ball,1,8.2,Knights,TB de Bruyn,KD Petersen,BC Fortuin,2,0,,,,,,"",""
+ball,1,8.3,Knights,TB de Bruyn,KD Petersen,BC Fortuin,0,0,,,,,,"",""
+ball,1,8.4,Knights,TB de Bruyn,KD Petersen,BC Fortuin,1,0,,,,,,"",""
+ball,1,8.5,Knights,KD Petersen,TB de Bruyn,BC Fortuin,1,0,,,,,,"",""
+ball,1,8.6,Knights,TB de Bruyn,KD Petersen,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.1,Knights,TB de Bruyn,KD Petersen,AM Phangiso,0,0,,,,,,"",""
+ball,1,9.2,Knights,TB de Bruyn,KD Petersen,AM Phangiso,1,0,,,,,,"",""
+ball,1,9.3,Knights,KD Petersen,TB de Bruyn,AM Phangiso,1,0,,,,,,"",""
+ball,1,9.4,Knights,TB de Bruyn,KD Petersen,AM Phangiso,0,0,,,,,,caught and bowled,TB de Bruyn
+ball,1,9.5,Knights,DA Miller,KD Petersen,AM Phangiso,0,0,,,,,,"",""
+ball,1,9.6,Knights,DA Miller,KD Petersen,AM Phangiso,0,0,,,,,,"",""
+ball,1,10.1,Knights,KD Petersen,DA Miller,BC Fortuin,2,0,,,,,,"",""
+ball,1,10.2,Knights,KD Petersen,DA Miller,BC Fortuin,0,0,,,,,,"",""
+ball,1,10.3,Knights,KD Petersen,DA Miller,BC Fortuin,4,0,,,,,,"",""
+ball,1,10.4,Knights,KD Petersen,DA Miller,BC Fortuin,1,0,,,,,,"",""
+ball,1,10.5,Knights,DA Miller,KD Petersen,BC Fortuin,0,0,,,,,,"",""
+ball,1,10.6,Knights,DA Miller,KD Petersen,BC Fortuin,1,0,,,,,,"",""
+ball,1,11.1,Knights,DA Miller,KD Petersen,K Rabada,0,0,,,,,,"",""
+ball,1,11.2,Knights,DA Miller,KD Petersen,K Rabada,1,0,,,,,,"",""
+ball,1,11.3,Knights,KD Petersen,DA Miller,K Rabada,0,0,,,,,,"",""
+ball,1,11.4,Knights,KD Petersen,DA Miller,K Rabada,0,1,,,,1,,"",""
+ball,1,11.5,Knights,DA Miller,KD Petersen,K Rabada,2,0,,,,,,"",""
+ball,1,11.6,Knights,DA Miller,KD Petersen,K Rabada,2,0,,,,,,"",""
+ball,1,12.1,Knights,KD Petersen,DA Miller,GC Viljoen,2,0,,,,,,"",""
+ball,1,12.2,Knights,KD Petersen,DA Miller,GC Viljoen,6,0,,,,,,"",""
+ball,1,12.3,Knights,KD Petersen,DA Miller,GC Viljoen,0,0,,,,,,"",""
+ball,1,12.4,Knights,KD Petersen,DA Miller,GC Viljoen,1,0,,,,,,"",""
+ball,1,12.5,Knights,DA Miller,KD Petersen,GC Viljoen,1,0,,,,,,"",""
+ball,1,12.6,Knights,KD Petersen,DA Miller,GC Viljoen,0,0,,,,,,"",""

@@ -1,0 +1,298 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Cape Cobras
+info,team,Lions
+info,gender,male
+info,season,2018/19
+info,date,2019/04/26
+info,event,CSA T20 Challenge
+info,match_number,25
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,Lions
+info,toss_decision,field
+info,player_of_match,HE van der Dussen
+info,player_of_match,Z Pongolo
+info,umpire,A Paleker
+info,umpire,PJ Vosloo
+info,reserve_umpire,TC Mokorosi
+info,tv_umpire,MW Brown
+info,match_referee,SA Fritz
+info,winner,Lions
+info,winner_wickets,6
+info,player,Cape Cobras,HM Amla
+info,player,Cape Cobras,JN Malan
+info,player,Cape Cobras,DG Bedingham
+info,player,Cape Cobras,JP Duminy
+info,player,Cape Cobras,JF Smith
+info,player,Cape Cobras,A Mgijima
+info,player,Cape Cobras,GF Linde
+info,player,Cape Cobras,VD Philander
+info,player,Cape Cobras,RK Kleinveldt
+info,player,Cape Cobras,NM Serame
+info,player,Cape Cobras,T Bokako
+info,player,Lions,RD Rickelton
+info,player,Lions,RR Hendricks
+info,player,Lions,T Bavuma
+info,player,Lions,HE van der Dussen
+info,player,Lions,WJ Lubbe
+info,player,Lions,D Pretorius
+info,player,Lions,PWA Mulder
+info,player,Lions,Z Pongolo
+info,player,Lions,BC Fortuin
+info,player,Lions,LB Williams
+info,player,Lions,MP Siboto
+info,registry,people,A Mgijima,955e8e86
+info,registry,people,A Paleker,634b11ac
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,HM Amla,e798611a
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,JN Malan,f76d7466
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,MW Brown,d83d7796
+info,registry,people,NM Serame,abd541e6
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RK Kleinveldt,7955eb15
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Bokako,032e4384
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,VD Philander,cfe70281
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,Z Pongolo,01698fee
+ball,1,0.1,Cape Cobras,HM Amla,JN Malan,BC Fortuin,0,2,2,,,,,"",""
+ball,1,0.2,Cape Cobras,JN Malan,HM Amla,BC Fortuin,4,0,,,,,,"",""
+ball,1,0.3,Cape Cobras,JN Malan,HM Amla,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.4,Cape Cobras,JN Malan,HM Amla,BC Fortuin,0,0,,,,,,caught,JN Malan
+ball,1,0.5,Cape Cobras,DG Bedingham,HM Amla,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.6,Cape Cobras,DG Bedingham,HM Amla,BC Fortuin,1,0,,,,,,"",""
+ball,1,0.7,Cape Cobras,HM Amla,DG Bedingham,BC Fortuin,0,0,,,,,,"",""
+ball,1,1.1,Cape Cobras,DG Bedingham,HM Amla,LB Williams,0,1,1,,,,,"",""
+ball,1,1.2,Cape Cobras,DG Bedingham,HM Amla,LB Williams,0,0,,,,,,"",""
+ball,1,1.3,Cape Cobras,DG Bedingham,HM Amla,LB Williams,0,0,,,,,,"",""
+ball,1,1.4,Cape Cobras,DG Bedingham,HM Amla,LB Williams,0,0,,,,,,"",""
+ball,1,1.5,Cape Cobras,DG Bedingham,HM Amla,LB Williams,2,0,,,,,,"",""
+ball,1,1.6,Cape Cobras,DG Bedingham,HM Amla,LB Williams,0,1,1,,,,,"",""
+ball,1,1.7,Cape Cobras,DG Bedingham,HM Amla,LB Williams,0,0,,,,,,caught,DG Bedingham
+ball,1,1.8,Cape Cobras,JP Duminy,HM Amla,LB Williams,0,0,,,,,,"",""
+ball,1,2.1,Cape Cobras,HM Amla,JP Duminy,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.2,Cape Cobras,HM Amla,JP Duminy,BC Fortuin,1,0,,,,,,"",""
+ball,1,2.3,Cape Cobras,JP Duminy,HM Amla,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.4,Cape Cobras,JP Duminy,HM Amla,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.5,Cape Cobras,JP Duminy,HM Amla,BC Fortuin,4,0,,,,,,"",""
+ball,1,2.6,Cape Cobras,JP Duminy,HM Amla,BC Fortuin,1,0,,,,,,"",""
+ball,1,3.1,Cape Cobras,JP Duminy,HM Amla,LB Williams,4,0,,,,,,"",""
+ball,1,3.2,Cape Cobras,JP Duminy,HM Amla,LB Williams,4,0,,,,,,"",""
+ball,1,3.3,Cape Cobras,JP Duminy,HM Amla,LB Williams,0,0,,,,,,"",""
+ball,1,3.4,Cape Cobras,JP Duminy,HM Amla,LB Williams,1,0,,,,,,"",""
+ball,1,3.5,Cape Cobras,HM Amla,JP Duminy,LB Williams,0,0,,,,,,"",""
+ball,1,3.6,Cape Cobras,HM Amla,JP Duminy,LB Williams,0,0,,,,,,"",""
+ball,1,4.1,Cape Cobras,JP Duminy,HM Amla,PWA Mulder,0,0,,,,,,"",""
+ball,1,4.2,Cape Cobras,JP Duminy,HM Amla,PWA Mulder,1,0,,,,,,"",""
+ball,1,4.3,Cape Cobras,HM Amla,JP Duminy,PWA Mulder,1,0,,,,,,"",""
+ball,1,4.4,Cape Cobras,JP Duminy,HM Amla,PWA Mulder,1,0,,,,,,"",""
+ball,1,4.5,Cape Cobras,HM Amla,JP Duminy,PWA Mulder,1,0,,,,,,"",""
+ball,1,4.6,Cape Cobras,JP Duminy,HM Amla,PWA Mulder,0,0,,,,,,"",""
+ball,1,5.1,Cape Cobras,HM Amla,JP Duminy,D Pretorius,1,0,,,,,,"",""
+ball,1,5.2,Cape Cobras,JP Duminy,HM Amla,D Pretorius,1,0,,,,,,"",""
+ball,1,5.3,Cape Cobras,HM Amla,JP Duminy,D Pretorius,0,1,1,,,,,"",""
+ball,1,5.4,Cape Cobras,HM Amla,JP Duminy,D Pretorius,0,1,1,,,,,"",""
+ball,1,5.5,Cape Cobras,HM Amla,JP Duminy,D Pretorius,0,0,,,,,,"",""
+ball,1,5.6,Cape Cobras,HM Amla,JP Duminy,D Pretorius,1,0,,,,,,"",""
+ball,1,5.7,Cape Cobras,JP Duminy,HM Amla,D Pretorius,4,0,,,,,,"",""
+ball,1,5.8,Cape Cobras,JP Duminy,HM Amla,D Pretorius,0,0,,,,,,"",""
+ball,1,6.1,Cape Cobras,HM Amla,JP Duminy,PWA Mulder,0,0,,,,,,"",""
+ball,1,6.2,Cape Cobras,HM Amla,JP Duminy,PWA Mulder,1,0,,,,,,"",""
+ball,1,6.3,Cape Cobras,JP Duminy,HM Amla,PWA Mulder,1,0,,,,,,"",""
+ball,1,6.4,Cape Cobras,HM Amla,JP Duminy,PWA Mulder,1,0,,,,,,"",""
+ball,1,6.5,Cape Cobras,JP Duminy,HM Amla,PWA Mulder,2,0,,,,,,"",""
+ball,1,6.6,Cape Cobras,JP Duminy,HM Amla,PWA Mulder,0,5,5,,,,,"",""
+ball,1,6.7,Cape Cobras,JP Duminy,HM Amla,PWA Mulder,0,0,,,,,,"",""
+ball,1,7.1,Cape Cobras,HM Amla,JP Duminy,D Pretorius,2,1,,1,,,,"",""
+ball,1,7.2,Cape Cobras,HM Amla,JP Duminy,D Pretorius,1,0,,,,,,"",""
+ball,1,7.3,Cape Cobras,JP Duminy,HM Amla,D Pretorius,0,0,,,,,,"",""
+ball,1,7.4,Cape Cobras,JP Duminy,HM Amla,D Pretorius,1,0,,,,,,"",""
+ball,1,7.5,Cape Cobras,HM Amla,JP Duminy,D Pretorius,0,0,,,,,,caught,HM Amla
+ball,1,7.6,Cape Cobras,JF Smith,JP Duminy,D Pretorius,1,0,,,,,,"",""
+ball,1,7.7,Cape Cobras,JP Duminy,JF Smith,D Pretorius,0,1,1,,,,,"",""
+ball,1,7.8,Cape Cobras,JP Duminy,JF Smith,D Pretorius,1,0,,,,,,"",""
+ball,1,8.1,Cape Cobras,JP Duminy,JF Smith,BC Fortuin,0,0,,,,,,"",""
+ball,1,8.2,Cape Cobras,JP Duminy,JF Smith,BC Fortuin,1,0,,,,,,"",""
+ball,1,8.3,Cape Cobras,JF Smith,JP Duminy,BC Fortuin,1,0,,,,,,"",""
+ball,1,8.4,Cape Cobras,JP Duminy,JF Smith,BC Fortuin,1,0,,,,,,"",""
+ball,1,8.5,Cape Cobras,JF Smith,JP Duminy,BC Fortuin,0,0,,,,,,"",""
+ball,1,8.6,Cape Cobras,JF Smith,JP Duminy,BC Fortuin,0,0,,,,,,"",""
+ball,1,9.1,Cape Cobras,JP Duminy,JF Smith,MP Siboto,1,0,,,,,,"",""
+ball,1,9.2,Cape Cobras,JF Smith,JP Duminy,MP Siboto,1,0,,,,,,"",""
+ball,1,9.3,Cape Cobras,JP Duminy,JF Smith,MP Siboto,0,0,,,,,,"",""
+ball,1,9.4,Cape Cobras,JP Duminy,JF Smith,MP Siboto,0,0,,,,,,caught,JP Duminy
+ball,1,9.5,Cape Cobras,JF Smith,A Mgijima,MP Siboto,4,0,,,,,,"",""
+ball,1,9.6,Cape Cobras,JF Smith,A Mgijima,MP Siboto,4,0,,,,,,"",""
+ball,1,10.1,Cape Cobras,A Mgijima,JF Smith,BC Fortuin,1,0,,,,,,run out,A Mgijima
+ball,1,10.2,Cape Cobras,GF Linde,JF Smith,BC Fortuin,1,0,,,,,,"",""
+ball,1,10.3,Cape Cobras,JF Smith,GF Linde,BC Fortuin,1,0,,,,,,"",""
+ball,1,10.4,Cape Cobras,GF Linde,JF Smith,BC Fortuin,1,0,,,,,,"",""
+ball,1,10.5,Cape Cobras,JF Smith,GF Linde,BC Fortuin,2,0,,,,,,"",""
+ball,1,10.6,Cape Cobras,JF Smith,GF Linde,BC Fortuin,0,0,,,,,,"",""
+ball,1,11.1,Cape Cobras,GF Linde,JF Smith,MP Siboto,0,0,,,,,,"",""
+ball,1,11.2,Cape Cobras,GF Linde,JF Smith,MP Siboto,0,0,,,,,,"",""
+ball,1,11.3,Cape Cobras,GF Linde,JF Smith,MP Siboto,1,0,,,,,,"",""
+ball,1,11.4,Cape Cobras,JF Smith,GF Linde,MP Siboto,1,0,,,,,,"",""
+ball,1,11.5,Cape Cobras,GF Linde,JF Smith,MP Siboto,2,0,,,,,,"",""
+ball,1,11.6,Cape Cobras,GF Linde,JF Smith,MP Siboto,1,0,,,,,,"",""
+ball,1,12.1,Cape Cobras,GF Linde,JF Smith,LB Williams,1,0,,,,,,"",""
+ball,1,12.2,Cape Cobras,JF Smith,GF Linde,LB Williams,2,0,,,,,,"",""
+ball,1,12.3,Cape Cobras,JF Smith,GF Linde,LB Williams,0,0,,,,,,"",""
+ball,1,12.4,Cape Cobras,JF Smith,GF Linde,LB Williams,4,0,,,,,,"",""
+ball,1,12.5,Cape Cobras,JF Smith,GF Linde,LB Williams,4,0,,,,,,"",""
+ball,1,12.6,Cape Cobras,JF Smith,GF Linde,LB Williams,1,0,,,,,,"",""
+ball,1,13.1,Cape Cobras,JF Smith,GF Linde,Z Pongolo,1,0,,,,,,"",""
+ball,1,13.2,Cape Cobras,GF Linde,JF Smith,Z Pongolo,0,0,,,,,,caught,GF Linde
+ball,1,13.3,Cape Cobras,JF Smith,VD Philander,Z Pongolo,1,0,,,,,,"",""
+ball,1,13.4,Cape Cobras,VD Philander,JF Smith,Z Pongolo,0,0,,,,,,"",""
+ball,1,13.5,Cape Cobras,VD Philander,JF Smith,Z Pongolo,0,0,,,,,,"",""
+ball,1,13.6,Cape Cobras,VD Philander,JF Smith,Z Pongolo,0,0,,,,,,"",""
+ball,1,14.1,Cape Cobras,JF Smith,VD Philander,PWA Mulder,1,0,,,,,,"",""
+ball,1,14.2,Cape Cobras,VD Philander,JF Smith,PWA Mulder,1,0,,,,,,"",""
+ball,1,14.3,Cape Cobras,JF Smith,VD Philander,PWA Mulder,1,0,,,,,,"",""
+ball,1,14.4,Cape Cobras,VD Philander,JF Smith,PWA Mulder,0,0,,,,,,"",""
+ball,1,14.5,Cape Cobras,VD Philander,JF Smith,PWA Mulder,0,0,,,,,,caught,VD Philander
+ball,1,14.6,Cape Cobras,JF Smith,RK Kleinveldt,PWA Mulder,0,0,,,,,,"",""
+ball,1,15.1,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,1,0,,,,,,"",""
+ball,1,15.2,Cape Cobras,JF Smith,RK Kleinveldt,Z Pongolo,1,0,,,,,,"",""
+ball,1,15.3,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,0,0,,,,,,"",""
+ball,1,15.4,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,0,0,,,,,,"",""
+ball,1,15.5,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,1,0,,,,,,"",""
+ball,1,15.6,Cape Cobras,JF Smith,RK Kleinveldt,Z Pongolo,1,0,,,,,,"",""
+ball,1,16.1,Cape Cobras,JF Smith,RK Kleinveldt,PWA Mulder,1,0,,,,,,"",""
+ball,1,16.2,Cape Cobras,RK Kleinveldt,JF Smith,PWA Mulder,1,0,,,,,,"",""
+ball,1,16.3,Cape Cobras,JF Smith,RK Kleinveldt,PWA Mulder,1,0,,,,,,"",""
+ball,1,16.4,Cape Cobras,RK Kleinveldt,JF Smith,PWA Mulder,0,0,,,,,,"",""
+ball,1,16.5,Cape Cobras,RK Kleinveldt,JF Smith,PWA Mulder,1,0,,,,,,"",""
+ball,1,16.6,Cape Cobras,JF Smith,RK Kleinveldt,PWA Mulder,4,0,,,,,,"",""
+ball,1,17.1,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,0,0,,,,,,"",""
+ball,1,17.2,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,1,0,,,,,,"",""
+ball,1,17.3,Cape Cobras,JF Smith,RK Kleinveldt,Z Pongolo,1,0,,,,,,"",""
+ball,1,17.4,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,1,0,,,,,,"",""
+ball,1,17.5,Cape Cobras,JF Smith,RK Kleinveldt,Z Pongolo,1,0,,,,,,"",""
+ball,1,17.6,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,1,0,,,,,,"",""
+ball,1,18.1,Cape Cobras,RK Kleinveldt,JF Smith,MP Siboto,4,0,,,,,,"",""
+ball,1,18.2,Cape Cobras,RK Kleinveldt,JF Smith,MP Siboto,1,0,,,,,,"",""
+ball,1,18.3,Cape Cobras,JF Smith,RK Kleinveldt,MP Siboto,6,0,,,,,,"",""
+ball,1,18.4,Cape Cobras,JF Smith,RK Kleinveldt,MP Siboto,0,0,,,,,,"",""
+ball,1,18.5,Cape Cobras,JF Smith,RK Kleinveldt,MP Siboto,0,1,,,,1,,"",""
+ball,1,18.6,Cape Cobras,RK Kleinveldt,JF Smith,MP Siboto,0,0,,,,,,"",""
+ball,1,19.1,Cape Cobras,JF Smith,RK Kleinveldt,Z Pongolo,0,0,,,,,,"",""
+ball,1,19.2,Cape Cobras,JF Smith,RK Kleinveldt,Z Pongolo,2,0,,,,,,"",""
+ball,1,19.3,Cape Cobras,JF Smith,RK Kleinveldt,Z Pongolo,0,0,,,,,,"",""
+ball,1,19.4,Cape Cobras,JF Smith,RK Kleinveldt,Z Pongolo,1,0,,,,,,"",""
+ball,1,19.5,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,2,0,,,,,,"",""
+ball,1,19.6,Cape Cobras,RK Kleinveldt,JF Smith,Z Pongolo,1,0,,,,,,"",""
+ball,2,0.1,Lions,RD Rickelton,RR Hendricks,VD Philander,2,0,,,,,,"",""
+ball,2,0.2,Lions,RD Rickelton,RR Hendricks,VD Philander,1,0,,,,,,"",""
+ball,2,0.3,Lions,RR Hendricks,RD Rickelton,VD Philander,2,0,,,,,,"",""
+ball,2,0.4,Lions,RR Hendricks,RD Rickelton,VD Philander,0,0,,,,,,"",""
+ball,2,0.5,Lions,RR Hendricks,RD Rickelton,VD Philander,0,0,,,,,,"",""
+ball,2,0.6,Lions,RR Hendricks,RD Rickelton,VD Philander,0,0,,,,,,"",""
+ball,2,1.1,Lions,RD Rickelton,RR Hendricks,RK Kleinveldt,0,0,,,,,,"",""
+ball,2,1.2,Lions,RD Rickelton,RR Hendricks,RK Kleinveldt,4,0,,,,,,"",""
+ball,2,1.3,Lions,RD Rickelton,RR Hendricks,RK Kleinveldt,2,0,,,,,,"",""
+ball,2,1.4,Lions,RD Rickelton,RR Hendricks,RK Kleinveldt,1,0,,,,,,"",""
+ball,2,1.5,Lions,RR Hendricks,RD Rickelton,RK Kleinveldt,0,0,,,,,,"",""
+ball,2,1.6,Lions,RR Hendricks,RD Rickelton,RK Kleinveldt,0,0,,,,,,"",""
+ball,2,2.1,Lions,RD Rickelton,RR Hendricks,VD Philander,0,0,,,,,,"",""
+ball,2,2.2,Lions,RD Rickelton,RR Hendricks,VD Philander,0,0,,,,,,"",""
+ball,2,2.3,Lions,RD Rickelton,RR Hendricks,VD Philander,0,0,,,,,,"",""
+ball,2,2.4,Lions,RD Rickelton,RR Hendricks,VD Philander,0,0,,,,,,run out,RR Hendricks
+ball,2,2.5,Lions,RD Rickelton,T Bavuma,VD Philander,2,0,,,,,,"",""
+ball,2,2.6,Lions,RD Rickelton,T Bavuma,VD Philander,0,0,,,,,,"",""
+ball,2,3.1,Lions,T Bavuma,RD Rickelton,RK Kleinveldt,1,0,,,,,,"",""
+ball,2,3.2,Lions,RD Rickelton,T Bavuma,RK Kleinveldt,0,1,1,,,,,"",""
+ball,2,3.3,Lions,RD Rickelton,T Bavuma,RK Kleinveldt,2,0,,,,,,"",""
+ball,2,3.4,Lions,RD Rickelton,T Bavuma,RK Kleinveldt,0,0,,,,,,"",""
+ball,2,3.5,Lions,RD Rickelton,T Bavuma,RK Kleinveldt,4,0,,,,,,"",""
+ball,2,3.6,Lions,RD Rickelton,T Bavuma,RK Kleinveldt,0,0,,,,,,"",""
+ball,2,3.7,Lions,RD Rickelton,T Bavuma,RK Kleinveldt,6,0,,,,,,"",""
+ball,2,4.1,Lions,T Bavuma,RD Rickelton,VD Philander,0,0,,,,,,"",""
+ball,2,4.2,Lions,T Bavuma,RD Rickelton,VD Philander,1,0,,,,,,"",""
+ball,2,4.3,Lions,RD Rickelton,T Bavuma,VD Philander,1,0,,,,,,"",""
+ball,2,4.4,Lions,T Bavuma,RD Rickelton,VD Philander,1,0,,,,,,"",""
+ball,2,4.5,Lions,RD Rickelton,T Bavuma,VD Philander,1,0,,,,,,"",""
+ball,2,4.6,Lions,T Bavuma,RD Rickelton,VD Philander,6,0,,,,,,"",""
+ball,2,5.1,Lions,RD Rickelton,T Bavuma,JP Duminy,0,0,,,,,,bowled,RD Rickelton
+ball,2,5.2,Lions,HE van der Dussen,T Bavuma,JP Duminy,0,0,,,,,,"",""
+ball,2,5.3,Lions,HE van der Dussen,T Bavuma,JP Duminy,1,0,,,,,,"",""
+ball,2,5.4,Lions,T Bavuma,HE van der Dussen,JP Duminy,1,0,,,,,,"",""
+ball,2,5.5,Lions,HE van der Dussen,T Bavuma,JP Duminy,2,0,,,,,,"",""
+ball,2,5.6,Lions,HE van der Dussen,T Bavuma,JP Duminy,1,0,,,,,,"",""
+ball,2,6.1,Lions,HE van der Dussen,T Bavuma,T Bokako,2,0,,,,,,"",""
+ball,2,6.2,Lions,HE van der Dussen,T Bavuma,T Bokako,0,0,,,,,,"",""
+ball,2,6.3,Lions,HE van der Dussen,T Bavuma,T Bokako,1,0,,,,,,"",""
+ball,2,6.4,Lions,T Bavuma,HE van der Dussen,T Bokako,1,0,,,,,,"",""
+ball,2,6.5,Lions,HE van der Dussen,T Bavuma,T Bokako,0,0,,,,,,"",""
+ball,2,6.6,Lions,HE van der Dussen,T Bavuma,T Bokako,4,0,,,,,,"",""
+ball,2,7.1,Lions,T Bavuma,HE van der Dussen,JF Smith,3,0,,,,,,"",""
+ball,2,7.2,Lions,HE van der Dussen,T Bavuma,JF Smith,0,0,,,,,,"",""
+ball,2,7.3,Lions,HE van der Dussen,T Bavuma,JF Smith,1,0,,,,,,"",""
+ball,2,7.4,Lions,T Bavuma,HE van der Dussen,JF Smith,1,0,,,,,,"",""
+ball,2,7.5,Lions,HE van der Dussen,T Bavuma,JF Smith,0,3,3,,,,,"",""
+ball,2,7.6,Lions,HE van der Dussen,T Bavuma,JF Smith,0,0,,,,,,"",""
+ball,2,7.7,Lions,HE van der Dussen,T Bavuma,JF Smith,1,0,,,,,,"",""
+ball,2,8.1,Lions,HE van der Dussen,T Bavuma,GF Linde,1,0,,,,,,"",""
+ball,2,8.2,Lions,T Bavuma,HE van der Dussen,GF Linde,1,0,,,,,,"",""
+ball,2,8.3,Lions,HE van der Dussen,T Bavuma,GF Linde,1,0,,,,,,"",""
+ball,2,8.4,Lions,T Bavuma,HE van der Dussen,GF Linde,1,0,,,,,,"",""
+ball,2,8.5,Lions,HE van der Dussen,T Bavuma,GF Linde,1,0,,,,,,"",""
+ball,2,8.6,Lions,T Bavuma,HE van der Dussen,GF Linde,1,0,,,,,,"",""
+ball,2,9.1,Lions,T Bavuma,HE van der Dussen,JF Smith,1,0,,,,,,"",""
+ball,2,9.2,Lions,HE van der Dussen,T Bavuma,JF Smith,1,0,,,,,,"",""
+ball,2,9.3,Lions,T Bavuma,HE van der Dussen,JF Smith,0,0,,,,,,"",""
+ball,2,9.4,Lions,T Bavuma,HE van der Dussen,JF Smith,0,0,,,,,,"",""
+ball,2,9.5,Lions,T Bavuma,HE van der Dussen,JF Smith,1,0,,,,,,"",""
+ball,2,9.6,Lions,HE van der Dussen,T Bavuma,JF Smith,4,0,,,,,,"",""
+ball,2,10.1,Lions,T Bavuma,HE van der Dussen,GF Linde,1,0,,,,,,"",""
+ball,2,10.2,Lions,HE van der Dussen,T Bavuma,GF Linde,1,0,,,,,,"",""
+ball,2,10.3,Lions,T Bavuma,HE van der Dussen,GF Linde,1,0,,,,,,"",""
+ball,2,10.4,Lions,HE van der Dussen,T Bavuma,GF Linde,1,0,,,,,,"",""
+ball,2,10.5,Lions,T Bavuma,HE van der Dussen,GF Linde,2,0,,,,,,"",""
+ball,2,10.6,Lions,T Bavuma,HE van der Dussen,GF Linde,1,0,,,,,,"",""
+ball,2,11.1,Lions,T Bavuma,HE van der Dussen,T Bokako,1,0,,,,,,"",""
+ball,2,11.2,Lions,HE van der Dussen,T Bavuma,T Bokako,6,0,,,,,,"",""
+ball,2,11.3,Lions,HE van der Dussen,T Bavuma,T Bokako,6,0,,,,,,"",""
+ball,2,11.4,Lions,HE van der Dussen,T Bavuma,T Bokako,1,0,,,,,,"",""
+ball,2,11.5,Lions,T Bavuma,HE van der Dussen,T Bokako,0,0,,,,,,caught,T Bavuma
+ball,2,11.6,Lions,WJ Lubbe,HE van der Dussen,T Bokako,0,0,,,,,,"",""
+ball,2,12.1,Lions,HE van der Dussen,WJ Lubbe,NM Serame,1,0,,,,,,"",""
+ball,2,12.2,Lions,WJ Lubbe,HE van der Dussen,NM Serame,1,0,,,,,,"",""
+ball,2,12.3,Lions,HE van der Dussen,WJ Lubbe,NM Serame,1,0,,,,,,"",""
+ball,2,12.4,Lions,WJ Lubbe,HE van der Dussen,NM Serame,0,0,,,,,,"",""
+ball,2,12.5,Lions,WJ Lubbe,HE van der Dussen,NM Serame,1,0,,,,,,"",""
+ball,2,12.6,Lions,HE van der Dussen,WJ Lubbe,NM Serame,1,0,,,,,,"",""
+ball,2,13.1,Lions,HE van der Dussen,WJ Lubbe,RK Kleinveldt,2,0,,,,,,"",""
+ball,2,13.2,Lions,HE van der Dussen,WJ Lubbe,RK Kleinveldt,6,0,,,,,,"",""
+ball,2,13.3,Lions,HE van der Dussen,WJ Lubbe,RK Kleinveldt,2,0,,,,,,"",""
+ball,2,13.4,Lions,HE van der Dussen,WJ Lubbe,RK Kleinveldt,1,0,,,,,,"",""
+ball,2,13.5,Lions,WJ Lubbe,HE van der Dussen,RK Kleinveldt,0,1,1,,,,,"",""
+ball,2,13.6,Lions,WJ Lubbe,HE van der Dussen,RK Kleinveldt,1,0,,,,,,"",""
+ball,2,13.7,Lions,HE van der Dussen,WJ Lubbe,RK Kleinveldt,1,0,,,,,,"",""
+ball,2,14.1,Lions,HE van der Dussen,WJ Lubbe,VD Philander,1,0,,,,,,"",""
+ball,2,14.2,Lions,WJ Lubbe,HE van der Dussen,VD Philander,1,0,,,,,,"",""
+ball,2,14.3,Lions,HE van der Dussen,WJ Lubbe,VD Philander,0,1,1,,,,,"",""
+ball,2,14.4,Lions,HE van der Dussen,WJ Lubbe,VD Philander,0,0,,,,,,"",""
+ball,2,14.5,Lions,HE van der Dussen,WJ Lubbe,VD Philander,6,0,,,,,,"",""
+ball,2,14.6,Lions,HE van der Dussen,WJ Lubbe,VD Philander,1,0,,,,,,"",""
+ball,2,14.7,Lions,WJ Lubbe,HE van der Dussen,VD Philander,1,0,,,,,,"",""
+ball,2,15.1,Lions,WJ Lubbe,HE van der Dussen,NM Serame,1,0,,,,,,"",""
+ball,2,15.2,Lions,HE van der Dussen,WJ Lubbe,NM Serame,0,1,,,,1,,"",""
+ball,2,15.3,Lions,WJ Lubbe,HE van der Dussen,NM Serame,0,0,,,,,,bowled,WJ Lubbe
+ball,2,15.4,Lions,D Pretorius,HE van der Dussen,NM Serame,2,0,,,,,,"",""
+ball,2,15.5,Lions,D Pretorius,HE van der Dussen,NM Serame,6,0,,,,,,"",""

@@ -1,0 +1,283 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Finland
+info,gender,male
+info,season,2018
+info,date,2018/09/02
+info,event,ICC World Twenty20 Europe Region Qualifier B
+info,match_number,14
+info,venue,Sportpark Thurlede
+info,city,Schiedam
+info,toss_winner,Jersey
+info,toss_decision,bat
+info,player_of_match,B Ward
+info,umpire,Rizwan Akram
+info,umpire,MV Waldron
+info,reserve_umpire,J Jensen
+info,winner,Jersey
+info,winner_runs,64
+info,player,Jersey,B Ward
+info,player,Jersey,JW Jenner
+info,player,Jersey,BDH Stevens
+info,player,Jersey,H Carlyon
+info,player,Jersey,C Bisson
+info,player,Jersey,DG Blampied
+info,player,Jersey,J Sumerauer
+info,player,Jersey,B Kynman
+info,player,Jersey,CW Perchard
+info,player,Jersey,JE Dunford
+info,player,Jersey,EJB Miles
+info,player,Finland,NG Collins
+info,player,Finland,PF Gallagher
+info,player,Finland,VS Padhaal
+info,player,Finland,A Pusthay
+info,player,Finland,R Pathak
+info,player,Finland,AK Mohan
+info,player,Finland,TDF Vehvilainen
+info,player,Finland,TK Saha
+info,player,Finland,M Chauhan
+info,player,Finland,H Dandapani
+info,player,Finland,Shoaib Qureshi
+info,registry,people,A Pusthay,0393fbdc
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,B Kynman,b6980844
+info,registry,people,B Ward,9e0bd203
+info,registry,people,BDH Stevens,f8035c2a
+info,registry,people,C Bisson,85ba5659
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,EJB Miles,6b46ce43
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,H Dandapani,9960a421
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,M Chauhan,8534e758
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,NG Collins,be3bdc15
+info,registry,people,PF Gallagher,8e9d3dc4
+info,registry,people,R Pathak,025f79d1
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,Shoaib Qureshi,bc791e2d
+info,registry,people,TDF Vehvilainen,47f1e175
+info,registry,people,TK Saha,35b84618
+info,registry,people,VS Padhaal,c4fb0b39
+ball,1,0.1,Jersey,B Ward,JW Jenner,M Chauhan,2,0,,,,,,"",""
+ball,1,0.2,Jersey,B Ward,JW Jenner,M Chauhan,0,0,,,,,,"",""
+ball,1,0.3,Jersey,B Ward,JW Jenner,M Chauhan,2,0,,,,,,"",""
+ball,1,0.4,Jersey,B Ward,JW Jenner,M Chauhan,4,0,,,,,,"",""
+ball,1,0.5,Jersey,B Ward,JW Jenner,M Chauhan,0,0,,,,,,"",""
+ball,1,0.6,Jersey,B Ward,JW Jenner,M Chauhan,0,0,,,,,,"",""
+ball,1,1.1,Jersey,JW Jenner,B Ward,Shoaib Qureshi,4,0,,,,,,"",""
+ball,1,1.2,Jersey,JW Jenner,B Ward,Shoaib Qureshi,1,0,,,,,,"",""
+ball,1,1.3,Jersey,B Ward,JW Jenner,Shoaib Qureshi,3,0,,,,,,"",""
+ball,1,1.4,Jersey,JW Jenner,B Ward,Shoaib Qureshi,2,0,,,,,,"",""
+ball,1,1.5,Jersey,JW Jenner,B Ward,Shoaib Qureshi,0,0,,,,,,"",""
+ball,1,1.6,Jersey,JW Jenner,B Ward,Shoaib Qureshi,1,0,,,,,,"",""
+ball,1,2.1,Jersey,JW Jenner,B Ward,M Chauhan,0,0,,,,,,"",""
+ball,1,2.2,Jersey,JW Jenner,B Ward,M Chauhan,4,0,,,,,,"",""
+ball,1,2.3,Jersey,JW Jenner,B Ward,M Chauhan,4,0,,,,,,"",""
+ball,1,2.4,Jersey,JW Jenner,B Ward,M Chauhan,0,4,,,4,,,"",""
+ball,1,2.5,Jersey,JW Jenner,B Ward,M Chauhan,0,0,,,,,,"",""
+ball,1,2.6,Jersey,JW Jenner,B Ward,M Chauhan,0,0,,,,,,"",""
+ball,1,3.1,Jersey,B Ward,JW Jenner,Shoaib Qureshi,0,0,,,,,,"",""
+ball,1,3.2,Jersey,B Ward,JW Jenner,Shoaib Qureshi,0,0,,,,,,"",""
+ball,1,3.3,Jersey,B Ward,JW Jenner,Shoaib Qureshi,4,0,,,,,,"",""
+ball,1,3.4,Jersey,B Ward,JW Jenner,Shoaib Qureshi,4,0,,,,,,"",""
+ball,1,3.5,Jersey,B Ward,JW Jenner,Shoaib Qureshi,0,2,2,,,,,"",""
+ball,1,3.6,Jersey,JW Jenner,B Ward,Shoaib Qureshi,4,0,,,,,,"",""
+ball,1,3.7,Jersey,JW Jenner,B Ward,Shoaib Qureshi,0,0,,,,,,"",""
+ball,1,4.1,Jersey,B Ward,JW Jenner,TK Saha,1,0,,,,,,"",""
+ball,1,4.2,Jersey,JW Jenner,B Ward,TK Saha,1,0,,,,,,"",""
+ball,1,4.3,Jersey,B Ward,JW Jenner,TK Saha,1,0,,,,,,"",""
+ball,1,4.4,Jersey,JW Jenner,B Ward,TK Saha,0,0,,,,,,"",""
+ball,1,4.5,Jersey,JW Jenner,B Ward,TK Saha,4,0,,,,,,"",""
+ball,1,4.6,Jersey,JW Jenner,B Ward,TK Saha,0,0,,,,,,"",""
+ball,1,5.1,Jersey,B Ward,JW Jenner,A Pusthay,1,0,,,,,,"",""
+ball,1,5.2,Jersey,JW Jenner,B Ward,A Pusthay,0,0,,,,,,"",""
+ball,1,5.3,Jersey,JW Jenner,B Ward,A Pusthay,4,0,,,,,,"",""
+ball,1,5.4,Jersey,JW Jenner,B Ward,A Pusthay,1,0,,,,,,"",""
+ball,1,5.5,Jersey,B Ward,JW Jenner,A Pusthay,0,0,,,,,,"",""
+ball,1,5.6,Jersey,B Ward,JW Jenner,A Pusthay,0,0,,,,,,"",""
+ball,1,6.1,Jersey,JW Jenner,B Ward,TK Saha,1,0,,,,,,"",""
+ball,1,6.2,Jersey,B Ward,JW Jenner,TK Saha,0,0,,,,,,"",""
+ball,1,6.3,Jersey,B Ward,JW Jenner,TK Saha,1,0,,,,,,"",""
+ball,1,6.4,Jersey,JW Jenner,B Ward,TK Saha,6,0,,,,,,"",""
+ball,1,6.5,Jersey,JW Jenner,B Ward,TK Saha,0,0,,,,,,"",""
+ball,1,6.6,Jersey,JW Jenner,B Ward,TK Saha,1,0,,,,,,"",""
+ball,1,7.1,Jersey,JW Jenner,B Ward,A Pusthay,0,0,,,,,,"",""
+ball,1,7.2,Jersey,JW Jenner,B Ward,A Pusthay,1,0,,,,,,"",""
+ball,1,7.3,Jersey,B Ward,JW Jenner,A Pusthay,2,0,,,,,,"",""
+ball,1,7.4,Jersey,B Ward,JW Jenner,A Pusthay,0,0,,,,,,"",""
+ball,1,7.5,Jersey,B Ward,JW Jenner,A Pusthay,1,0,,,,,,"",""
+ball,1,7.6,Jersey,JW Jenner,B Ward,A Pusthay,1,0,,,,,,"",""
+ball,1,8.1,Jersey,JW Jenner,B Ward,TK Saha,0,0,,,,,,bowled,JW Jenner
+ball,1,8.2,Jersey,BDH Stevens,B Ward,TK Saha,0,0,,,,,,"",""
+ball,1,8.3,Jersey,BDH Stevens,B Ward,TK Saha,1,0,,,,,,"",""
+ball,1,8.4,Jersey,B Ward,BDH Stevens,TK Saha,0,0,,,,,,"",""
+ball,1,8.5,Jersey,B Ward,BDH Stevens,TK Saha,1,0,,,,,,"",""
+ball,1,8.6,Jersey,BDH Stevens,B Ward,TK Saha,1,0,,,,,,"",""
+ball,1,9.1,Jersey,BDH Stevens,B Ward,A Pusthay,1,0,,,,,,"",""
+ball,1,9.2,Jersey,B Ward,BDH Stevens,A Pusthay,0,0,,,,,,"",""
+ball,1,9.3,Jersey,B Ward,BDH Stevens,A Pusthay,1,0,,,,,,"",""
+ball,1,9.4,Jersey,BDH Stevens,B Ward,A Pusthay,0,0,,,,,,"",""
+ball,1,9.5,Jersey,BDH Stevens,B Ward,A Pusthay,0,0,,,,,,"",""
+ball,1,9.6,Jersey,BDH Stevens,B Ward,A Pusthay,1,0,,,,,,"",""
+ball,1,10.1,Jersey,BDH Stevens,B Ward,TK Saha,0,0,,,,,,caught,BDH Stevens
+ball,1,10.2,Jersey,B Ward,H Carlyon,TK Saha,1,0,,,,,,"",""
+ball,1,10.3,Jersey,H Carlyon,B Ward,TK Saha,1,0,,,,,,"",""
+ball,1,10.4,Jersey,B Ward,H Carlyon,TK Saha,1,0,,,,,,"",""
+ball,1,10.5,Jersey,H Carlyon,B Ward,TK Saha,0,0,,,,,,"",""
+ball,1,10.6,Jersey,H Carlyon,B Ward,TK Saha,1,0,,,,,,"",""
+ball,1,11.1,Jersey,H Carlyon,B Ward,H Dandapani,0,0,,,,,,"",""
+ball,1,11.2,Jersey,H Carlyon,B Ward,H Dandapani,0,0,,,,,,"",""
+ball,1,11.3,Jersey,H Carlyon,B Ward,H Dandapani,0,0,,,,,,bowled,H Carlyon
+ball,1,11.4,Jersey,C Bisson,B Ward,H Dandapani,1,0,,,,,,"",""
+ball,1,11.5,Jersey,B Ward,C Bisson,H Dandapani,1,0,,,,,,"",""
+ball,1,11.6,Jersey,C Bisson,B Ward,H Dandapani,0,0,,,,,,"",""
+ball,1,12.1,Jersey,B Ward,C Bisson,A Pusthay,1,0,,,,,,"",""
+ball,1,12.2,Jersey,C Bisson,B Ward,A Pusthay,0,0,,,,,,"",""
+ball,1,12.3,Jersey,C Bisson,B Ward,A Pusthay,0,0,,,,,,"",""
+ball,1,12.4,Jersey,C Bisson,B Ward,A Pusthay,1,0,,,,,,"",""
+ball,1,12.5,Jersey,B Ward,C Bisson,A Pusthay,4,0,,,,,,"",""
+ball,1,12.6,Jersey,B Ward,C Bisson,A Pusthay,0,0,,,,,,"",""
+ball,1,13.1,Jersey,C Bisson,B Ward,H Dandapani,1,0,,,,,,"",""
+ball,1,13.2,Jersey,B Ward,C Bisson,H Dandapani,0,0,,,,,,stumped,B Ward
+ball,1,13.3,Jersey,DG Blampied,C Bisson,H Dandapani,2,0,,,,,,"",""
+ball,1,13.4,Jersey,DG Blampied,C Bisson,H Dandapani,1,0,,,,,,"",""
+ball,1,13.5,Jersey,C Bisson,DG Blampied,H Dandapani,0,0,,,,,,caught and bowled,C Bisson
+ball,1,13.6,Jersey,J Sumerauer,DG Blampied,H Dandapani,1,0,,,,,,"",""
+ball,1,14.1,Jersey,J Sumerauer,DG Blampied,M Chauhan,0,0,,,,,,"",""
+ball,1,14.2,Jersey,J Sumerauer,DG Blampied,M Chauhan,0,0,,,,,,"",""
+ball,1,14.3,Jersey,J Sumerauer,DG Blampied,M Chauhan,0,0,,,,,,caught,J Sumerauer
+ball,1,14.4,Jersey,DG Blampied,B Kynman,M Chauhan,1,0,,,,,,"",""
+ball,1,14.5,Jersey,B Kynman,DG Blampied,M Chauhan,1,0,,,,,,"",""
+ball,1,14.6,Jersey,DG Blampied,B Kynman,M Chauhan,1,0,,,,,,"",""
+ball,1,15.1,Jersey,DG Blampied,B Kynman,H Dandapani,0,0,,,,,,"",""
+ball,1,15.2,Jersey,DG Blampied,B Kynman,H Dandapani,0,1,,,1,,,"",""
+ball,1,15.3,Jersey,B Kynman,DG Blampied,H Dandapani,1,0,,,,,,"",""
+ball,1,15.4,Jersey,DG Blampied,B Kynman,H Dandapani,0,0,,,,,,"",""
+ball,1,15.5,Jersey,DG Blampied,B Kynman,H Dandapani,0,2,2,,,,,"",""
+ball,1,15.6,Jersey,B Kynman,DG Blampied,H Dandapani,2,0,,,,,,"",""
+ball,1,15.7,Jersey,B Kynman,DG Blampied,H Dandapani,0,0,,,,,,"",""
+ball,1,16.1,Jersey,DG Blampied,B Kynman,Shoaib Qureshi,2,0,,,,,,"",""
+ball,1,16.2,Jersey,DG Blampied,B Kynman,Shoaib Qureshi,1,0,,,,,,"",""
+ball,1,16.3,Jersey,B Kynman,DG Blampied,Shoaib Qureshi,1,0,,,,,,"",""
+ball,1,16.4,Jersey,DG Blampied,B Kynman,Shoaib Qureshi,0,0,,,,,,"",""
+ball,1,16.5,Jersey,DG Blampied,B Kynman,Shoaib Qureshi,1,0,,,,,,"",""
+ball,1,16.6,Jersey,B Kynman,DG Blampied,Shoaib Qureshi,2,0,,,,,,"",""
+ball,1,17.1,Jersey,DG Blampied,B Kynman,H Dandapani,0,0,,,,,,"",""
+ball,1,17.2,Jersey,DG Blampied,B Kynman,H Dandapani,0,0,,,,,,"",""
+ball,1,17.3,Jersey,DG Blampied,B Kynman,H Dandapani,1,0,,,,,,"",""
+ball,1,17.4,Jersey,B Kynman,DG Blampied,H Dandapani,1,0,,,,,,"",""
+ball,1,17.5,Jersey,DG Blampied,B Kynman,H Dandapani,4,0,,,,,,"",""
+ball,1,17.6,Jersey,DG Blampied,B Kynman,H Dandapani,1,0,,,,,,"",""
+ball,1,18.1,Jersey,DG Blampied,B Kynman,Shoaib Qureshi,1,0,,,,,,"",""
+ball,1,18.2,Jersey,B Kynman,DG Blampied,Shoaib Qureshi,0,0,,,,,,bowled,B Kynman
+ball,1,18.3,Jersey,CW Perchard,DG Blampied,Shoaib Qureshi,0,0,,,,,,"",""
+ball,1,18.4,Jersey,CW Perchard,DG Blampied,Shoaib Qureshi,2,0,,,,,,"",""
+ball,1,18.5,Jersey,CW Perchard,DG Blampied,Shoaib Qureshi,0,0,,,,,,caught,CW Perchard
+ball,1,18.6,Jersey,DG Blampied,JE Dunford,Shoaib Qureshi,1,0,,,,,,"",""
+ball,1,19.1,Jersey,DG Blampied,JE Dunford,M Chauhan,1,0,,,,,,"",""
+ball,1,19.2,Jersey,JE Dunford,DG Blampied,M Chauhan,0,0,,,,,,"",""
+ball,1,19.3,Jersey,JE Dunford,DG Blampied,M Chauhan,1,0,,,,,,"",""
+ball,1,19.4,Jersey,DG Blampied,JE Dunford,M Chauhan,2,0,,,,,,"",""
+ball,1,19.5,Jersey,DG Blampied,JE Dunford,M Chauhan,2,0,,,,,,"",""
+ball,1,19.6,Jersey,DG Blampied,JE Dunford,M Chauhan,2,0,,,,,,"",""
+ball,2,0.1,Finland,NG Collins,PF Gallagher,H Carlyon,0,0,,,,,,"",""
+ball,2,0.2,Finland,NG Collins,PF Gallagher,H Carlyon,0,0,,,,,,"",""
+ball,2,0.3,Finland,NG Collins,PF Gallagher,H Carlyon,2,0,,,,,,"",""
+ball,2,0.4,Finland,NG Collins,PF Gallagher,H Carlyon,0,0,,,,,,"",""
+ball,2,0.5,Finland,NG Collins,PF Gallagher,H Carlyon,0,0,,,,,,"",""
+ball,2,0.6,Finland,NG Collins,PF Gallagher,H Carlyon,1,0,,,,,,"",""
+ball,2,1.1,Finland,NG Collins,PF Gallagher,EJB Miles,0,0,,,,,,"",""
+ball,2,1.2,Finland,NG Collins,PF Gallagher,EJB Miles,0,0,,,,,,"",""
+ball,2,1.3,Finland,NG Collins,PF Gallagher,EJB Miles,0,0,,,,,,"",""
+ball,2,1.4,Finland,NG Collins,PF Gallagher,EJB Miles,1,0,,,,,,"",""
+ball,2,1.5,Finland,PF Gallagher,NG Collins,EJB Miles,1,0,,,,,,"",""
+ball,2,1.6,Finland,NG Collins,PF Gallagher,EJB Miles,0,0,,,,,,"",""
+ball,2,2.1,Finland,PF Gallagher,NG Collins,CW Perchard,0,0,,,,,,"",""
+ball,2,2.2,Finland,PF Gallagher,NG Collins,CW Perchard,2,0,,,,,,"",""
+ball,2,2.3,Finland,PF Gallagher,NG Collins,CW Perchard,4,0,,,,,,"",""
+ball,2,2.4,Finland,PF Gallagher,NG Collins,CW Perchard,0,0,,,,,,"",""
+ball,2,2.5,Finland,PF Gallagher,NG Collins,CW Perchard,2,0,,,,,,"",""
+ball,2,2.6,Finland,PF Gallagher,NG Collins,CW Perchard,2,0,,,,,,"",""
+ball,2,3.1,Finland,NG Collins,PF Gallagher,J Sumerauer,4,0,,,,,,"",""
+ball,2,3.2,Finland,NG Collins,PF Gallagher,J Sumerauer,0,0,,,,,,"",""
+ball,2,3.3,Finland,NG Collins,PF Gallagher,J Sumerauer,1,0,,,,,,"",""
+ball,2,3.4,Finland,PF Gallagher,NG Collins,J Sumerauer,0,0,,,,,,caught,PF Gallagher
+ball,2,3.5,Finland,NG Collins,VS Padhaal,J Sumerauer,0,0,,,,,,"",""
+ball,2,3.6,Finland,NG Collins,VS Padhaal,J Sumerauer,1,0,,,,,,"",""
+ball,2,4.1,Finland,NG Collins,VS Padhaal,EJB Miles,0,0,,,,,,"",""
+ball,2,4.2,Finland,NG Collins,VS Padhaal,EJB Miles,1,0,,,,,,"",""
+ball,2,4.3,Finland,VS Padhaal,NG Collins,EJB Miles,1,0,,,,,,"",""
+ball,2,4.4,Finland,NG Collins,VS Padhaal,EJB Miles,0,0,,,,,,bowled,NG Collins
+ball,2,4.5,Finland,A Pusthay,VS Padhaal,EJB Miles,1,0,,,,,,"",""
+ball,2,4.6,Finland,VS Padhaal,A Pusthay,EJB Miles,0,0,,,,,,"",""
+ball,2,5.1,Finland,A Pusthay,VS Padhaal,J Sumerauer,0,1,1,,,,,"",""
+ball,2,5.2,Finland,A Pusthay,VS Padhaal,J Sumerauer,2,0,,,,,,"",""
+ball,2,5.3,Finland,A Pusthay,VS Padhaal,J Sumerauer,1,0,,,,,,"",""
+ball,2,5.4,Finland,VS Padhaal,A Pusthay,J Sumerauer,1,0,,,,,,"",""
+ball,2,5.5,Finland,A Pusthay,VS Padhaal,J Sumerauer,0,0,,,,,,"",""
+ball,2,5.6,Finland,A Pusthay,VS Padhaal,J Sumerauer,0,0,,,,,,"",""
+ball,2,5.7,Finland,A Pusthay,VS Padhaal,J Sumerauer,1,0,,,,,,"",""
+ball,2,6.1,Finland,A Pusthay,VS Padhaal,EJB Miles,1,0,,,,,,"",""
+ball,2,6.2,Finland,VS Padhaal,A Pusthay,EJB Miles,1,0,,,,,,"",""
+ball,2,6.3,Finland,A Pusthay,VS Padhaal,EJB Miles,1,0,,,,,,"",""
+ball,2,6.4,Finland,VS Padhaal,A Pusthay,EJB Miles,1,0,,,,,,"",""
+ball,2,6.5,Finland,A Pusthay,VS Padhaal,EJB Miles,1,0,,,,,,"",""
+ball,2,6.6,Finland,VS Padhaal,A Pusthay,EJB Miles,0,0,,,,,,"",""
+ball,2,7.1,Finland,A Pusthay,VS Padhaal,B Ward,0,0,,,,,,"",""
+ball,2,7.2,Finland,A Pusthay,VS Padhaal,B Ward,1,0,,,,,,"",""
+ball,2,7.3,Finland,VS Padhaal,A Pusthay,B Ward,0,0,,,,,,"",""
+ball,2,7.4,Finland,VS Padhaal,A Pusthay,B Ward,0,0,,,,,,"",""
+ball,2,7.5,Finland,VS Padhaal,A Pusthay,B Ward,0,0,,,,,,"",""
+ball,2,7.6,Finland,VS Padhaal,A Pusthay,B Ward,0,0,,,,,,lbw,VS Padhaal
+ball,2,8.1,Finland,A Pusthay,R Pathak,BDH Stevens,0,0,,,,,,"",""
+ball,2,8.2,Finland,A Pusthay,R Pathak,BDH Stevens,1,0,,,,,,"",""
+ball,2,8.3,Finland,R Pathak,A Pusthay,BDH Stevens,1,0,,,,,,"",""
+ball,2,8.4,Finland,A Pusthay,R Pathak,BDH Stevens,1,0,,,,,,"",""
+ball,2,8.5,Finland,R Pathak,A Pusthay,BDH Stevens,0,0,,,,,,stumped,R Pathak
+ball,2,8.6,Finland,AK Mohan,A Pusthay,BDH Stevens,0,0,,,,,,"",""
+ball,2,9.1,Finland,A Pusthay,AK Mohan,B Ward,0,0,,,,,,bowled,A Pusthay
+ball,2,9.2,Finland,TDF Vehvilainen,AK Mohan,B Ward,0,0,,,,,,"",""
+ball,2,9.3,Finland,TDF Vehvilainen,AK Mohan,B Ward,0,0,,,,,,"",""
+ball,2,9.4,Finland,TDF Vehvilainen,AK Mohan,B Ward,1,0,,,,,,"",""
+ball,2,9.5,Finland,AK Mohan,TDF Vehvilainen,B Ward,0,0,,,,,,"",""
+ball,2,9.6,Finland,AK Mohan,TDF Vehvilainen,B Ward,1,0,,,,,,"",""
+ball,2,10.1,Finland,AK Mohan,TDF Vehvilainen,BDH Stevens,0,0,,,,,,"",""
+ball,2,10.2,Finland,AK Mohan,TDF Vehvilainen,BDH Stevens,6,0,,,,,,"",""
+ball,2,10.3,Finland,AK Mohan,TDF Vehvilainen,BDH Stevens,0,0,,,,,,"",""
+ball,2,10.4,Finland,AK Mohan,TDF Vehvilainen,BDH Stevens,1,0,,,,,,"",""
+ball,2,10.5,Finland,TDF Vehvilainen,AK Mohan,BDH Stevens,0,0,,,,,,"",""
+ball,2,10.6,Finland,TDF Vehvilainen,AK Mohan,BDH Stevens,0,0,,,,,,"",""
+ball,2,11.1,Finland,AK Mohan,TDF Vehvilainen,B Kynman,0,0,,,,,,"",""
+ball,2,11.2,Finland,AK Mohan,TDF Vehvilainen,B Kynman,2,0,,,,,,"",""
+ball,2,11.3,Finland,AK Mohan,TDF Vehvilainen,B Kynman,0,0,,,,,,"",""
+ball,2,11.4,Finland,AK Mohan,TDF Vehvilainen,B Kynman,0,0,,,,,,caught,AK Mohan
+ball,2,11.5,Finland,TDF Vehvilainen,TK Saha,B Kynman,1,0,,,,,,"",""
+ball,2,11.6,Finland,TK Saha,TDF Vehvilainen,B Kynman,2,0,,,,,,"",""
+ball,2,12.1,Finland,TDF Vehvilainen,TK Saha,B Ward,1,0,,,,,,"",""
+ball,2,12.2,Finland,TK Saha,TDF Vehvilainen,B Ward,2,0,,,,,,"",""
+ball,2,12.3,Finland,TK Saha,TDF Vehvilainen,B Ward,1,0,,,,,,"",""
+ball,2,12.4,Finland,TDF Vehvilainen,TK Saha,B Ward,0,0,,,,,,"",""
+ball,2,12.5,Finland,TDF Vehvilainen,TK Saha,B Ward,1,0,,,,,,"",""
+ball,2,12.6,Finland,TK Saha,TDF Vehvilainen,B Ward,1,0,,,,,,"",""
+ball,2,13.1,Finland,TK Saha,TDF Vehvilainen,B Kynman,0,0,,,,,,caught,TK Saha
+ball,2,13.2,Finland,M Chauhan,TDF Vehvilainen,B Kynman,0,0,,,,,,"",""
+ball,2,13.3,Finland,M Chauhan,TDF Vehvilainen,B Kynman,1,0,,,,,,"",""
+ball,2,13.4,Finland,TDF Vehvilainen,M Chauhan,B Kynman,0,1,1,,,,,"",""
+ball,2,13.5,Finland,TDF Vehvilainen,M Chauhan,B Kynman,0,0,,,,,,"",""
+ball,2,13.6,Finland,TDF Vehvilainen,M Chauhan,B Kynman,2,0,,,,,,"",""
+ball,2,13.7,Finland,TDF Vehvilainen,M Chauhan,B Kynman,1,0,,,,,,"",""
+ball,2,14.1,Finland,TDF Vehvilainen,M Chauhan,BDH Stevens,1,0,,,,,,"",""
+ball,2,14.2,Finland,M Chauhan,TDF Vehvilainen,BDH Stevens,0,0,,,,,,"",""
+ball,2,14.3,Finland,M Chauhan,TDF Vehvilainen,BDH Stevens,0,0,,,,,,stumped,M Chauhan
+ball,2,14.4,Finland,H Dandapani,TDF Vehvilainen,BDH Stevens,1,0,,,,,,"",""
+ball,2,14.5,Finland,TDF Vehvilainen,H Dandapani,BDH Stevens,0,0,,,,,,"",""
+ball,2,14.6,Finland,TDF Vehvilainen,H Dandapani,BDH Stevens,0,0,,,,,,"",""
+ball,2,15.1,Finland,H Dandapani,TDF Vehvilainen,B Kynman,0,0,,,,,,bowled,H Dandapani
+ball,2,15.2,Finland,Shoaib Qureshi,TDF Vehvilainen,B Kynman,0,0,,,,,,"",""
+ball,2,15.3,Finland,Shoaib Qureshi,TDF Vehvilainen,B Kynman,0,0,,,,,,caught,Shoaib Qureshi

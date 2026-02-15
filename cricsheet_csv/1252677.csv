@@ -1,0 +1,275 @@
+version,1.7.0
+info,balls_per_over,5
+info,team,Welsh Fire
+info,team,Manchester Originals
+info,gender,male
+info,season,2021
+info,date,2021/07/31
+info,event,The Hundred Men's Competition
+info,match_number,12
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Welsh Fire
+info,toss_decision,bat
+info,player_of_match,JM Clarke
+info,umpire,RJ Bailey
+info,umpire,RT Robinson
+info,reserve_umpire,NA Mallender
+info,tv_umpire,PK Baldwin
+info,match_referee,S Cummings
+info,winner,Manchester Originals
+info,winner_wickets,7
+info,player,Welsh Fire,T Banton
+info,player,Welsh Fire,JJ Cobb
+info,player,Welsh Fire,BM Duckett
+info,player,Welsh Fire,GD Phillips
+info,player,Welsh Fire,JL du Plooy
+info,player,Welsh Fire,MJJ Critchley
+info,player,Welsh Fire,JDS Neesham
+info,player,Welsh Fire,RF Higgins
+info,player,Welsh Fire,Qais Ahmad
+info,player,Welsh Fire,JT Ball
+info,player,Welsh Fire,DA Payne
+info,player,Manchester Originals,PD Salt
+info,player,Manchester Originals,JM Clarke
+info,player,Manchester Originals,C Munro
+info,player,Manchester Originals,CN Ackermann
+info,player,Manchester Originals,CR Brathwaite
+info,player,Manchester Originals,TA Lammonby
+info,player,Manchester Originals,CG Harrison
+info,player,Manchester Originals,TW Hartley
+info,player,Manchester Originals,LH Ferguson
+info,player,Manchester Originals,ST Finn
+info,player,Manchester Originals,MW Parkinson
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,C Munro,af2c687b
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,DA Payne,6c79c098
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MW Parkinson,19708692
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RT Robinson,b143c87d
+info,registry,people,S Cummings,d7eea52f
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TW Hartley,22b98d7c
+ball,1,0.1,Welsh Fire,T Banton,JJ Cobb,ST Finn,1,0,,,,,,"",""
+ball,1,0.2,Welsh Fire,JJ Cobb,T Banton,ST Finn,0,0,,,,,,"",""
+ball,1,0.3,Welsh Fire,JJ Cobb,T Banton,ST Finn,0,0,,,,,,"",""
+ball,1,0.4,Welsh Fire,JJ Cobb,T Banton,ST Finn,1,0,,,,,,"",""
+ball,1,0.5,Welsh Fire,T Banton,JJ Cobb,ST Finn,4,0,,,,,,"",""
+ball,1,1.1,Welsh Fire,T Banton,JJ Cobb,CR Brathwaite,0,0,,,,,,"",""
+ball,1,1.2,Welsh Fire,T Banton,JJ Cobb,CR Brathwaite,0,0,,,,,,"",""
+ball,1,1.3,Welsh Fire,T Banton,JJ Cobb,CR Brathwaite,1,0,,,,,,"",""
+ball,1,1.4,Welsh Fire,JJ Cobb,T Banton,CR Brathwaite,1,0,,,,,,"",""
+ball,1,1.5,Welsh Fire,T Banton,JJ Cobb,CR Brathwaite,4,0,,,,,,"",""
+ball,1,2.1,Welsh Fire,JJ Cobb,T Banton,TW Hartley,0,0,,,,,,"",""
+ball,1,2.2,Welsh Fire,JJ Cobb,T Banton,TW Hartley,0,0,,,,,,"",""
+ball,1,2.3,Welsh Fire,JJ Cobb,T Banton,TW Hartley,0,0,,,,,,caught and bowled,JJ Cobb
+ball,1,2.4,Welsh Fire,BM Duckett,T Banton,TW Hartley,1,0,,,,,,"",""
+ball,1,2.5,Welsh Fire,T Banton,BM Duckett,TW Hartley,0,0,,,,,,"",""
+ball,1,3.1,Welsh Fire,T Banton,BM Duckett,TW Hartley,1,0,,,,,,"",""
+ball,1,3.2,Welsh Fire,BM Duckett,T Banton,TW Hartley,2,0,,,,,,"",""
+ball,1,3.3,Welsh Fire,BM Duckett,T Banton,TW Hartley,1,0,,,,,,"",""
+ball,1,3.4,Welsh Fire,T Banton,BM Duckett,TW Hartley,4,0,,,,,,"",""
+ball,1,3.5,Welsh Fire,T Banton,BM Duckett,TW Hartley,0,0,,,,,,caught,T Banton
+ball,1,4.1,Welsh Fire,BM Duckett,GD Phillips,LH Ferguson,0,0,,,,,,"",""
+ball,1,4.2,Welsh Fire,BM Duckett,GD Phillips,LH Ferguson,1,0,,,,,,"",""
+ball,1,4.3,Welsh Fire,GD Phillips,BM Duckett,LH Ferguson,0,0,,,,,,"",""
+ball,1,4.4,Welsh Fire,GD Phillips,BM Duckett,LH Ferguson,0,0,,,,,,"",""
+ball,1,4.5,Welsh Fire,GD Phillips,BM Duckett,LH Ferguson,1,0,,,,,,"",""
+ball,1,5.1,Welsh Fire,BM Duckett,GD Phillips,CG Harrison,1,0,,,,,,"",""
+ball,1,5.2,Welsh Fire,GD Phillips,BM Duckett,CG Harrison,1,0,,,,,,"",""
+ball,1,5.3,Welsh Fire,BM Duckett,GD Phillips,CG Harrison,1,0,,,,,,"",""
+ball,1,5.4,Welsh Fire,GD Phillips,BM Duckett,CG Harrison,1,0,,,,,,"",""
+ball,1,5.5,Welsh Fire,BM Duckett,GD Phillips,CG Harrison,4,0,,,,,,"",""
+ball,1,6.1,Welsh Fire,GD Phillips,BM Duckett,MW Parkinson,4,0,,,,,,"",""
+ball,1,6.2,Welsh Fire,GD Phillips,BM Duckett,MW Parkinson,0,0,,,,,,"",""
+ball,1,6.3,Welsh Fire,GD Phillips,BM Duckett,MW Parkinson,0,1,1,,,,,"",""
+ball,1,6.4,Welsh Fire,GD Phillips,BM Duckett,MW Parkinson,1,0,,,,,,"",""
+ball,1,6.5,Welsh Fire,BM Duckett,GD Phillips,MW Parkinson,4,0,,,,,,"",""
+ball,1,6.6,Welsh Fire,BM Duckett,GD Phillips,MW Parkinson,1,0,,,,,,"",""
+ball,1,7.1,Welsh Fire,GD Phillips,BM Duckett,TW Hartley,0,0,,,,,,"",""
+ball,1,7.2,Welsh Fire,GD Phillips,BM Duckett,TW Hartley,1,0,,,,,,"",""
+ball,1,7.3,Welsh Fire,BM Duckett,GD Phillips,TW Hartley,0,0,,,,,,"",""
+ball,1,7.4,Welsh Fire,BM Duckett,GD Phillips,TW Hartley,1,0,,,,,,"",""
+ball,1,7.5,Welsh Fire,GD Phillips,BM Duckett,TW Hartley,0,0,,,,,,"",""
+ball,1,8.1,Welsh Fire,BM Duckett,GD Phillips,LH Ferguson,4,0,,,,,,"",""
+ball,1,8.2,Welsh Fire,BM Duckett,GD Phillips,LH Ferguson,1,0,,,,,,"",""
+ball,1,8.3,Welsh Fire,GD Phillips,BM Duckett,LH Ferguson,0,0,,,,,,"",""
+ball,1,8.4,Welsh Fire,GD Phillips,BM Duckett,LH Ferguson,0,0,,,,,,"",""
+ball,1,8.5,Welsh Fire,GD Phillips,BM Duckett,LH Ferguson,1,0,,,,,,"",""
+ball,1,9.1,Welsh Fire,BM Duckett,GD Phillips,ST Finn,4,0,,,,,,"",""
+ball,1,9.2,Welsh Fire,BM Duckett,GD Phillips,ST Finn,2,0,,,,,,"",""
+ball,1,9.3,Welsh Fire,BM Duckett,GD Phillips,ST Finn,1,0,,,,,,"",""
+ball,1,9.4,Welsh Fire,GD Phillips,BM Duckett,ST Finn,1,0,,,,,,"",""
+ball,1,9.5,Welsh Fire,BM Duckett,GD Phillips,ST Finn,1,0,,,,,,"",""
+ball,1,10.1,Welsh Fire,BM Duckett,GD Phillips,CR Brathwaite,1,0,,,,,,"",""
+ball,1,10.2,Welsh Fire,GD Phillips,BM Duckett,CR Brathwaite,1,0,,,,,,"",""
+ball,1,10.3,Welsh Fire,BM Duckett,GD Phillips,CR Brathwaite,1,0,,,,,,"",""
+ball,1,10.4,Welsh Fire,GD Phillips,BM Duckett,CR Brathwaite,0,0,,,,,,caught,GD Phillips
+ball,1,10.5,Welsh Fire,JL du Plooy,BM Duckett,CR Brathwaite,0,0,,,,,,"",""
+ball,1,11.1,Welsh Fire,JL du Plooy,BM Duckett,CN Ackermann,1,0,,,,,,"",""
+ball,1,11.2,Welsh Fire,BM Duckett,JL du Plooy,CN Ackermann,0,5,5,,,,,"",""
+ball,1,11.3,Welsh Fire,BM Duckett,JL du Plooy,CN Ackermann,0,0,,,,,,run out,BM Duckett
+ball,1,11.4,Welsh Fire,JL du Plooy,MJJ Critchley,CN Ackermann,1,0,,,,,,"",""
+ball,1,11.5,Welsh Fire,MJJ Critchley,JL du Plooy,CN Ackermann,1,0,,,,,,"",""
+ball,1,11.6,Welsh Fire,JL du Plooy,MJJ Critchley,CN Ackermann,1,0,,,,,,"",""
+ball,1,12.1,Welsh Fire,JL du Plooy,MJJ Critchley,MW Parkinson,1,0,,,,,,"",""
+ball,1,12.2,Welsh Fire,MJJ Critchley,JL du Plooy,MW Parkinson,1,0,,,,,,"",""
+ball,1,12.3,Welsh Fire,JL du Plooy,MJJ Critchley,MW Parkinson,6,0,,,,,,"",""
+ball,1,12.4,Welsh Fire,JL du Plooy,MJJ Critchley,MW Parkinson,1,0,,,,,,"",""
+ball,1,12.5,Welsh Fire,MJJ Critchley,JL du Plooy,MW Parkinson,0,0,,,,,,"",""
+ball,1,13.1,Welsh Fire,MJJ Critchley,JL du Plooy,MW Parkinson,1,0,,,,,,"",""
+ball,1,13.2,Welsh Fire,JL du Plooy,MJJ Critchley,MW Parkinson,6,0,,,,,,"",""
+ball,1,13.3,Welsh Fire,JL du Plooy,MJJ Critchley,MW Parkinson,2,0,,,,,,"",""
+ball,1,13.4,Welsh Fire,JL du Plooy,MJJ Critchley,MW Parkinson,1,0,,,,,,"",""
+ball,1,13.5,Welsh Fire,MJJ Critchley,JL du Plooy,MW Parkinson,0,0,,,,,,"",""
+ball,1,14.1,Welsh Fire,JL du Plooy,MJJ Critchley,ST Finn,2,0,,,,,,"",""
+ball,1,14.2,Welsh Fire,JL du Plooy,MJJ Critchley,ST Finn,2,0,,,,,,"",""
+ball,1,14.3,Welsh Fire,JL du Plooy,MJJ Critchley,ST Finn,1,0,,,,,,"",""
+ball,1,14.4,Welsh Fire,MJJ Critchley,JL du Plooy,ST Finn,1,0,,,,,,"",""
+ball,1,14.5,Welsh Fire,JL du Plooy,MJJ Critchley,ST Finn,1,0,,,,,,"",""
+ball,1,15.1,Welsh Fire,MJJ Critchley,JL du Plooy,LH Ferguson,0,1,1,,,,,"",""
+ball,1,15.2,Welsh Fire,MJJ Critchley,JL du Plooy,LH Ferguson,1,0,,,,,,"",""
+ball,1,15.3,Welsh Fire,JL du Plooy,MJJ Critchley,LH Ferguson,6,0,,,,,,"",""
+ball,1,15.4,Welsh Fire,JL du Plooy,MJJ Critchley,LH Ferguson,1,0,,,,,,"",""
+ball,1,15.5,Welsh Fire,MJJ Critchley,JL du Plooy,LH Ferguson,1,0,,,,,,"",""
+ball,1,15.6,Welsh Fire,JL du Plooy,MJJ Critchley,LH Ferguson,1,0,,,,,,"",""
+ball,1,16.1,Welsh Fire,JL du Plooy,MJJ Critchley,CR Brathwaite,1,0,,,,,,"",""
+ball,1,16.2,Welsh Fire,MJJ Critchley,JL du Plooy,CR Brathwaite,2,0,,,,,,"",""
+ball,1,16.3,Welsh Fire,MJJ Critchley,JL du Plooy,CR Brathwaite,4,0,,,,,,"",""
+ball,1,16.4,Welsh Fire,MJJ Critchley,JL du Plooy,CR Brathwaite,4,0,,,,,,"",""
+ball,1,16.5,Welsh Fire,MJJ Critchley,JL du Plooy,CR Brathwaite,1,0,,,,,,"",""
+ball,1,17.1,Welsh Fire,JL du Plooy,MJJ Critchley,ST Finn,6,0,,,,,,"",""
+ball,1,17.2,Welsh Fire,JL du Plooy,MJJ Critchley,ST Finn,2,0,,,,,,"",""
+ball,1,17.3,Welsh Fire,JL du Plooy,MJJ Critchley,ST Finn,0,0,,,,,,"",""
+ball,1,17.4,Welsh Fire,JL du Plooy,MJJ Critchley,ST Finn,0,0,,,,,,caught,JL du Plooy
+ball,1,17.5,Welsh Fire,JDS Neesham,MJJ Critchley,ST Finn,0,1,1,,,,,"",""
+ball,1,17.6,Welsh Fire,JDS Neesham,MJJ Critchley,ST Finn,1,0,,,,,,"",""
+ball,1,18.1,Welsh Fire,JDS Neesham,MJJ Critchley,CR Brathwaite,4,0,,,,,,"",""
+ball,1,18.2,Welsh Fire,JDS Neesham,MJJ Critchley,CR Brathwaite,0,0,,,,,,"",""
+ball,1,18.3,Welsh Fire,JDS Neesham,MJJ Critchley,CR Brathwaite,1,0,,,,,,"",""
+ball,1,18.4,Welsh Fire,MJJ Critchley,JDS Neesham,CR Brathwaite,4,0,,,,,,"",""
+ball,1,18.5,Welsh Fire,MJJ Critchley,JDS Neesham,CR Brathwaite,4,0,,,,,,"",""
+ball,1,19.1,Welsh Fire,MJJ Critchley,JDS Neesham,LH Ferguson,1,0,,,,,,"",""
+ball,1,19.2,Welsh Fire,JDS Neesham,MJJ Critchley,LH Ferguson,0,0,,,,,,caught,JDS Neesham
+ball,1,19.3,Welsh Fire,RF Higgins,MJJ Critchley,LH Ferguson,1,0,,,,,,"",""
+ball,1,19.4,Welsh Fire,MJJ Critchley,RF Higgins,LH Ferguson,4,0,,,,,,"",""
+ball,1,19.5,Welsh Fire,MJJ Critchley,RF Higgins,LH Ferguson,0,1,,,,1,,"",""
+ball,2,0.1,Manchester Originals,PD Salt,JM Clarke,DA Payne,1,0,,,,,,"",""
+ball,2,0.2,Manchester Originals,JM Clarke,PD Salt,DA Payne,0,0,,,,,,"",""
+ball,2,0.3,Manchester Originals,JM Clarke,PD Salt,DA Payne,0,0,,,,,,"",""
+ball,2,0.4,Manchester Originals,JM Clarke,PD Salt,DA Payne,0,1,1,,,,,"",""
+ball,2,0.5,Manchester Originals,JM Clarke,PD Salt,DA Payne,1,0,,,,,,"",""
+ball,2,0.6,Manchester Originals,PD Salt,JM Clarke,DA Payne,0,0,,,,,,"",""
+ball,2,1.1,Manchester Originals,PD Salt,JM Clarke,JT Ball,4,2,,2,,,,"",""
+ball,2,1.2,Manchester Originals,PD Salt,JM Clarke,JT Ball,2,0,,,,,,"",""
+ball,2,1.3,Manchester Originals,PD Salt,JM Clarke,JT Ball,4,0,,,,,,"",""
+ball,2,1.4,Manchester Originals,PD Salt,JM Clarke,JT Ball,1,0,,,,,,"",""
+ball,2,1.5,Manchester Originals,JM Clarke,PD Salt,JT Ball,0,0,,,,,,"",""
+ball,2,1.6,Manchester Originals,JM Clarke,PD Salt,JT Ball,1,0,,,,,,"",""
+ball,2,2.1,Manchester Originals,JM Clarke,PD Salt,DA Payne,1,0,,,,,,"",""
+ball,2,2.2,Manchester Originals,PD Salt,JM Clarke,DA Payne,1,0,,,,,,"",""
+ball,2,2.3,Manchester Originals,JM Clarke,PD Salt,DA Payne,1,0,,,,,,"",""
+ball,2,2.4,Manchester Originals,PD Salt,JM Clarke,DA Payne,1,0,,,,,,"",""
+ball,2,2.5,Manchester Originals,JM Clarke,PD Salt,DA Payne,6,0,,,,,,"",""
+ball,2,3.1,Manchester Originals,JM Clarke,PD Salt,JT Ball,1,0,,,,,,"",""
+ball,2,3.2,Manchester Originals,PD Salt,JM Clarke,JT Ball,1,0,,,,,,"",""
+ball,2,3.3,Manchester Originals,JM Clarke,PD Salt,JT Ball,4,0,,,,,,"",""
+ball,2,3.4,Manchester Originals,JM Clarke,PD Salt,JT Ball,4,0,,,,,,"",""
+ball,2,3.5,Manchester Originals,JM Clarke,PD Salt,JT Ball,1,0,,,,,,"",""
+ball,2,4.1,Manchester Originals,JM Clarke,PD Salt,MJJ Critchley,0,0,,,,,,"",""
+ball,2,4.2,Manchester Originals,JM Clarke,PD Salt,MJJ Critchley,1,0,,,,,,"",""
+ball,2,4.3,Manchester Originals,PD Salt,JM Clarke,MJJ Critchley,0,0,,,,,,"",""
+ball,2,4.4,Manchester Originals,PD Salt,JM Clarke,MJJ Critchley,0,0,,,,,,"",""
+ball,2,4.5,Manchester Originals,PD Salt,JM Clarke,MJJ Critchley,1,0,,,,,,"",""
+ball,2,5.1,Manchester Originals,JM Clarke,PD Salt,Qais Ahmad,0,1,1,,,,,"",""
+ball,2,5.2,Manchester Originals,JM Clarke,PD Salt,Qais Ahmad,0,0,,,,,,"",""
+ball,2,5.3,Manchester Originals,JM Clarke,PD Salt,Qais Ahmad,2,0,,,,,,"",""
+ball,2,5.4,Manchester Originals,JM Clarke,PD Salt,Qais Ahmad,1,0,,,,,,"",""
+ball,2,5.5,Manchester Originals,PD Salt,JM Clarke,Qais Ahmad,1,0,,,,,,"",""
+ball,2,5.6,Manchester Originals,JM Clarke,PD Salt,Qais Ahmad,6,0,,,,,,"",""
+ball,2,6.1,Manchester Originals,PD Salt,JM Clarke,MJJ Critchley,1,0,,,,,,"",""
+ball,2,6.2,Manchester Originals,JM Clarke,PD Salt,MJJ Critchley,2,0,,,,,,"",""
+ball,2,6.3,Manchester Originals,JM Clarke,PD Salt,MJJ Critchley,0,0,,,,,,"",""
+ball,2,6.4,Manchester Originals,JM Clarke,PD Salt,MJJ Critchley,6,0,,,,,,"",""
+ball,2,6.5,Manchester Originals,JM Clarke,PD Salt,MJJ Critchley,4,2,,2,,,,"",""
+ball,2,6.6,Manchester Originals,JM Clarke,PD Salt,MJJ Critchley,6,0,,,,,,"",""
+ball,2,7.1,Manchester Originals,JM Clarke,PD Salt,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.2,Manchester Originals,PD Salt,JM Clarke,JDS Neesham,4,0,,,,,,"",""
+ball,2,7.3,Manchester Originals,PD Salt,JM Clarke,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.4,Manchester Originals,JM Clarke,PD Salt,JDS Neesham,4,0,,,,,,"",""
+ball,2,7.5,Manchester Originals,JM Clarke,PD Salt,JDS Neesham,1,0,,,,,,"",""
+ball,2,8.1,Manchester Originals,JM Clarke,PD Salt,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.2,Manchester Originals,PD Salt,JM Clarke,Qais Ahmad,1,0,,,,,,"",""
+ball,2,8.3,Manchester Originals,JM Clarke,PD Salt,Qais Ahmad,2,0,,,,,,"",""
+ball,2,8.4,Manchester Originals,JM Clarke,PD Salt,Qais Ahmad,0,2,,,2,,,"",""
+ball,2,8.5,Manchester Originals,JM Clarke,PD Salt,Qais Ahmad,1,0,,,,,,"",""
+ball,2,9.1,Manchester Originals,PD Salt,JM Clarke,RF Higgins,2,0,,,,,,"",""
+ball,2,9.2,Manchester Originals,PD Salt,JM Clarke,RF Higgins,0,1,1,,,,,"",""
+ball,2,9.3,Manchester Originals,PD Salt,JM Clarke,RF Higgins,1,0,,,,,,"",""
+ball,2,9.4,Manchester Originals,JM Clarke,PD Salt,RF Higgins,0,0,,,,,,caught,JM Clarke
+ball,2,9.5,Manchester Originals,C Munro,PD Salt,RF Higgins,1,0,,,,,,"",""
+ball,2,9.6,Manchester Originals,PD Salt,C Munro,RF Higgins,1,0,,,,,,"",""
+ball,2,10.1,Manchester Originals,PD Salt,C Munro,Qais Ahmad,1,0,,,,,,"",""
+ball,2,10.2,Manchester Originals,C Munro,PD Salt,Qais Ahmad,0,0,,,,,,"",""
+ball,2,10.3,Manchester Originals,C Munro,PD Salt,Qais Ahmad,0,0,,,,,,"",""
+ball,2,10.4,Manchester Originals,C Munro,PD Salt,Qais Ahmad,0,0,,,,,,"",""
+ball,2,10.5,Manchester Originals,C Munro,PD Salt,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.1,Manchester Originals,C Munro,PD Salt,JDS Neesham,4,0,,,,,,"",""
+ball,2,11.2,Manchester Originals,C Munro,PD Salt,JDS Neesham,0,0,,,,,,"",""
+ball,2,11.3,Manchester Originals,C Munro,PD Salt,JDS Neesham,1,0,,,,,,"",""
+ball,2,11.4,Manchester Originals,PD Salt,C Munro,JDS Neesham,1,0,,,,,,"",""
+ball,2,11.5,Manchester Originals,C Munro,PD Salt,JDS Neesham,4,0,,,,,,"",""
+ball,2,12.1,Manchester Originals,PD Salt,C Munro,DA Payne,0,0,,,,,,"",""
+ball,2,12.2,Manchester Originals,PD Salt,C Munro,DA Payne,0,1,,,,1,,"",""
+ball,2,12.3,Manchester Originals,C Munro,PD Salt,DA Payne,0,0,,,,,,"",""
+ball,2,12.4,Manchester Originals,C Munro,PD Salt,DA Payne,0,0,,,,,,"",""
+ball,2,12.5,Manchester Originals,C Munro,PD Salt,DA Payne,0,0,,,,,,"",""
+ball,2,13.1,Manchester Originals,C Munro,PD Salt,MJJ Critchley,1,0,,,,,,"",""
+ball,2,13.2,Manchester Originals,PD Salt,C Munro,MJJ Critchley,0,0,,,,,,"",""
+ball,2,13.3,Manchester Originals,PD Salt,C Munro,MJJ Critchley,0,0,,,,,,caught,PD Salt
+ball,2,13.4,Manchester Originals,CN Ackermann,C Munro,MJJ Critchley,1,0,,,,,,"",""
+ball,2,13.5,Manchester Originals,C Munro,CN Ackermann,MJJ Critchley,1,0,,,,,,"",""
+ball,2,14.1,Manchester Originals,C Munro,CN Ackermann,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.2,Manchester Originals,CN Ackermann,C Munro,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.3,Manchester Originals,C Munro,CN Ackermann,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.4,Manchester Originals,CN Ackermann,C Munro,Qais Ahmad,1,0,,,,,,"",""
+ball,2,14.5,Manchester Originals,C Munro,CN Ackermann,Qais Ahmad,1,0,,,,,,"",""
+ball,2,15.1,Manchester Originals,CN Ackermann,C Munro,RF Higgins,1,0,,,,,,"",""
+ball,2,15.2,Manchester Originals,C Munro,CN Ackermann,RF Higgins,0,1,,,,1,,"",""
+ball,2,15.3,Manchester Originals,CN Ackermann,C Munro,RF Higgins,1,0,,,,,,"",""
+ball,2,15.4,Manchester Originals,C Munro,CN Ackermann,RF Higgins,1,0,,,,,,"",""
+ball,2,15.5,Manchester Originals,CN Ackermann,C Munro,RF Higgins,0,1,,,,1,,"",""
+ball,2,16.1,Manchester Originals,CN Ackermann,C Munro,MJJ Critchley,0,0,,,,,,"",""
+ball,2,16.2,Manchester Originals,CN Ackermann,C Munro,MJJ Critchley,4,0,,,,,,"",""
+ball,2,16.3,Manchester Originals,CN Ackermann,C Munro,MJJ Critchley,4,0,,,,,,"",""
+ball,2,16.4,Manchester Originals,CN Ackermann,C Munro,MJJ Critchley,1,0,,,,,,"",""
+ball,2,16.5,Manchester Originals,C Munro,CN Ackermann,MJJ Critchley,1,0,,,,,,"",""
+ball,2,17.1,Manchester Originals,CN Ackermann,C Munro,JDS Neesham,1,0,,,,,,"",""
+ball,2,17.2,Manchester Originals,C Munro,CN Ackermann,JDS Neesham,6,0,,,,,,"",""
+ball,2,17.3,Manchester Originals,C Munro,CN Ackermann,JDS Neesham,1,0,,,,,,"",""
+ball,2,17.4,Manchester Originals,CN Ackermann,C Munro,JDS Neesham,2,0,,,,,,"",""
+ball,2,17.5,Manchester Originals,CN Ackermann,C Munro,JDS Neesham,0,0,,,,,,bowled,CN Ackermann
+ball,2,18.1,Manchester Originals,C Munro,CR Brathwaite,DA Payne,0,0,,,,,,"",""
+ball,2,18.2,Manchester Originals,C Munro,CR Brathwaite,DA Payne,0,2,,2,,,,"",""
+ball,2,18.3,Manchester Originals,C Munro,CR Brathwaite,DA Payne,1,0,,,,,,"",""
+ball,2,18.4,Manchester Originals,CR Brathwaite,C Munro,DA Payne,1,0,,,,,,"",""
+ball,2,18.5,Manchester Originals,C Munro,CR Brathwaite,DA Payne,4,0,,,,,,"",""
+ball,2,18.6,Manchester Originals,C Munro,CR Brathwaite,DA Payne,4,0,,,,,,"",""

@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Lions
+info,gender,male
+info,season,2013/14
+info,date,2014/01/17
+info,event,Ram Slam T20 Challenge
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Lions
+info,toss_decision,field
+info,player_of_match,M Morkel
+info,player_of_match,GL van Buuren
+info,umpire,EC Hendrikse
+info,umpire,IL Howell
+info,reserve_umpire,R Ellis
+info,tv_umpire,GH Pienaar
+info,match_referee,CJ Mitchley
+info,winner,Titans
+info,winner_runs,10
+info,player,Titans,H Davids
+info,player,Titans,JA Rudolph
+info,player,Titans,MQ Adams
+info,player,Titans,GL van Buuren
+info,player,Titans,F Behardien
+info,player,Titans,JA Morkel
+info,player,Titans,D Wiese
+info,player,Titans,M Mosehle
+info,player,Titans,RE van der Merwe
+info,player,Titans,M Morkel
+info,player,Titans,NE Mbhalati
+info,player,Lions,Q de Kock
+info,player,Lions,GH Bodi
+info,player,Lions,AN Petersen
+info,player,Lions,D Pretorius
+info,player,Lions,Azhar Mahmood
+info,player,Lions,TL Tsolekile
+info,player,Lions,CH Morris
+info,player,Lions,GC Viljoen
+info,player,Lions,AM Phangiso
+info,player,Lions,ND McKenzie
+info,player,Lions,Imran Tahir
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,Azhar Mahmood,9a158001
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,CJ Mitchley,7f4f18e3
+info,registry,people,D Pretorius,11614d87
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,EC Hendrikse,3f2996c9
+info,registry,people,F Behardien,dce2019b
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,GH Bodi,f390904d
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,H Davids,9c9f8dbc
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,M Mosehle,8836fcac
+info,registry,people,MQ Adams,59a7fc89
+info,registry,people,ND McKenzie,a830c083
+info,registry,people,NE Mbhalati,800b52dc
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Ellis,ec98dcac
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,TL Tsolekile,3b94297b
+ball,1,0.1,Titans,H Davids,JA Rudolph,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,0.2,Titans,JA Rudolph,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,0.3,Titans,JA Rudolph,H Davids,Azhar Mahmood,2,0,,,,,,"",""
+ball,1,0.4,Titans,JA Rudolph,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,0.5,Titans,JA Rudolph,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,0.6,Titans,JA Rudolph,H Davids,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,1.1,Titans,JA Rudolph,H Davids,CH Morris,0,0,,,,,,"",""
+ball,1,1.2,Titans,JA Rudolph,H Davids,CH Morris,1,0,,,,,,"",""
+ball,1,1.3,Titans,H Davids,JA Rudolph,CH Morris,1,0,,,,,,"",""
+ball,1,1.4,Titans,JA Rudolph,H Davids,CH Morris,0,0,,,,,,run out,JA Rudolph
+ball,1,1.5,Titans,MQ Adams,H Davids,CH Morris,0,0,,,,,,"",""
+ball,1,1.6,Titans,MQ Adams,H Davids,CH Morris,0,0,,,,,,"",""
+ball,1,2.1,Titans,H Davids,MQ Adams,GC Viljoen,0,0,,,,,,"",""
+ball,1,2.2,Titans,H Davids,MQ Adams,GC Viljoen,0,0,,,,,,"",""
+ball,1,2.3,Titans,H Davids,MQ Adams,GC Viljoen,1,0,,,,,,"",""
+ball,1,2.4,Titans,MQ Adams,H Davids,GC Viljoen,0,0,,,,,,"",""
+ball,1,2.5,Titans,MQ Adams,H Davids,GC Viljoen,2,0,,,,,,"",""
+ball,1,2.6,Titans,MQ Adams,H Davids,GC Viljoen,0,0,,,,,,"",""
+ball,1,3.1,Titans,H Davids,MQ Adams,CH Morris,0,0,,,,,,"",""
+ball,1,3.2,Titans,H Davids,MQ Adams,CH Morris,1,0,,,,,,"",""
+ball,1,3.3,Titans,MQ Adams,H Davids,CH Morris,4,0,,,,,,"",""
+ball,1,3.4,Titans,MQ Adams,H Davids,CH Morris,0,0,,,,,,caught,MQ Adams
+ball,1,3.5,Titans,GL van Buuren,H Davids,CH Morris,0,0,,,,,,"",""
+ball,1,3.6,Titans,GL van Buuren,H Davids,CH Morris,1,0,,,,,,"",""
+ball,1,4.1,Titans,GL van Buuren,H Davids,GC Viljoen,0,0,,,,,,"",""
+ball,1,4.2,Titans,GL van Buuren,H Davids,GC Viljoen,1,0,,,,,,"",""
+ball,1,4.3,Titans,H Davids,GL van Buuren,GC Viljoen,1,0,,,,,,"",""
+ball,1,4.4,Titans,GL van Buuren,H Davids,GC Viljoen,1,0,,,,,,"",""
+ball,1,4.5,Titans,H Davids,GL van Buuren,GC Viljoen,2,0,,,,,,"",""
+ball,1,4.6,Titans,H Davids,GL van Buuren,GC Viljoen,6,0,,,,,,"",""
+ball,1,5.1,Titans,GL van Buuren,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,5.2,Titans,GL van Buuren,H Davids,Azhar Mahmood,4,0,,,,,,"",""
+ball,1,5.3,Titans,GL van Buuren,H Davids,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,5.4,Titans,GL van Buuren,H Davids,Azhar Mahmood,6,0,,,,,,"",""
+ball,1,5.5,Titans,GL van Buuren,H Davids,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,5.6,Titans,H Davids,GL van Buuren,Azhar Mahmood,4,0,,,,,,"",""
+ball,1,6.1,Titans,GL van Buuren,H Davids,AM Phangiso,1,0,,,,,,"",""
+ball,1,6.2,Titans,H Davids,GL van Buuren,AM Phangiso,0,0,,,,,,"",""
+ball,1,6.3,Titans,H Davids,GL van Buuren,AM Phangiso,2,0,,,,,,"",""
+ball,1,6.4,Titans,H Davids,GL van Buuren,AM Phangiso,1,0,,,,,,"",""
+ball,1,6.5,Titans,GL van Buuren,H Davids,AM Phangiso,6,0,,,,,,"",""
+ball,1,6.6,Titans,GL van Buuren,H Davids,AM Phangiso,2,0,,,,,,"",""
+ball,1,7.1,Titans,H Davids,GL van Buuren,Imran Tahir,6,0,,,,,,"",""
+ball,1,7.2,Titans,H Davids,GL van Buuren,Imran Tahir,2,0,,,,,,"",""
+ball,1,7.3,Titans,H Davids,GL van Buuren,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.4,Titans,H Davids,GL van Buuren,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.5,Titans,H Davids,GL van Buuren,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.6,Titans,H Davids,GL van Buuren,Imran Tahir,1,0,,,,,,"",""
+ball,1,8.1,Titans,H Davids,GL van Buuren,AM Phangiso,1,0,,,,,,"",""
+ball,1,8.2,Titans,GL van Buuren,H Davids,AM Phangiso,0,0,,,,,,"",""
+ball,1,8.3,Titans,GL van Buuren,H Davids,AM Phangiso,1,0,,,,,,"",""
+ball,1,8.4,Titans,H Davids,GL van Buuren,AM Phangiso,1,0,,,,,,"",""
+ball,1,8.5,Titans,GL van Buuren,H Davids,AM Phangiso,1,0,,,,,,"",""
+ball,1,8.6,Titans,H Davids,GL van Buuren,AM Phangiso,4,0,,,,,,"",""
+ball,1,9.1,Titans,GL van Buuren,H Davids,Imran Tahir,4,0,,,,,,"",""
+ball,1,9.2,Titans,GL van Buuren,H Davids,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.3,Titans,H Davids,GL van Buuren,Imran Tahir,0,0,,,,,,"",""
+ball,1,9.4,Titans,H Davids,GL van Buuren,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.5,Titans,GL van Buuren,H Davids,Imran Tahir,4,0,,,,,,"",""
+ball,1,9.6,Titans,GL van Buuren,H Davids,Imran Tahir,6,0,,,,,,"",""
+ball,1,10.1,Titans,H Davids,GL van Buuren,AM Phangiso,0,0,,,,,,bowled,H Davids
+ball,1,10.2,Titans,F Behardien,GL van Buuren,AM Phangiso,1,0,,,,,,"",""
+ball,1,10.3,Titans,GL van Buuren,F Behardien,AM Phangiso,0,0,,,,,,"",""
+ball,1,10.4,Titans,GL van Buuren,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,10.5,Titans,F Behardien,GL van Buuren,AM Phangiso,0,0,,,,,,"",""
+ball,1,10.6,Titans,F Behardien,GL van Buuren,AM Phangiso,2,0,,,,,,"",""
+ball,1,11.1,Titans,GL van Buuren,F Behardien,D Pretorius,4,0,,,,,,"",""
+ball,1,11.2,Titans,GL van Buuren,F Behardien,D Pretorius,0,0,,,,,,"",""
+ball,1,11.3,Titans,GL van Buuren,F Behardien,D Pretorius,4,0,,,,,,"",""
+ball,1,11.4,Titans,GL van Buuren,F Behardien,D Pretorius,0,0,,,,,,"",""
+ball,1,11.5,Titans,GL van Buuren,F Behardien,D Pretorius,1,0,,,,,,"",""
+ball,1,11.6,Titans,F Behardien,GL van Buuren,D Pretorius,0,0,,,,,,"",""
+ball,1,12.1,Titans,GL van Buuren,F Behardien,AM Phangiso,4,0,,,,,,"",""
+ball,1,12.2,Titans,GL van Buuren,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,12.3,Titans,F Behardien,GL van Buuren,AM Phangiso,1,0,,,,,,"",""
+ball,1,12.4,Titans,GL van Buuren,F Behardien,AM Phangiso,0,0,,,,,,caught,GL van Buuren
+ball,1,12.5,Titans,F Behardien,JA Morkel,AM Phangiso,1,0,,,,,,"",""
+ball,1,12.6,Titans,JA Morkel,F Behardien,AM Phangiso,1,0,,,,,,"",""
+ball,1,13.1,Titans,JA Morkel,F Behardien,GC Viljoen,0,1,1,,,,,"",""
+ball,1,13.2,Titans,JA Morkel,F Behardien,GC Viljoen,1,0,,,,,,"",""
+ball,1,13.3,Titans,F Behardien,JA Morkel,GC Viljoen,0,0,,,,,,"",""
+ball,1,13.4,Titans,F Behardien,JA Morkel,GC Viljoen,0,1,1,,,,,"",""
+ball,1,13.5,Titans,F Behardien,JA Morkel,GC Viljoen,1,0,,,,,,"",""
+ball,1,13.6,Titans,JA Morkel,F Behardien,GC Viljoen,0,0,,,,,,"",""
+ball,1,13.7,Titans,JA Morkel,F Behardien,GC Viljoen,4,0,,,,,,"",""
+ball,1,13.8,Titans,JA Morkel,F Behardien,GC Viljoen,0,0,,,,,,"",""
+ball,1,14.1,Titans,F Behardien,JA Morkel,Imran Tahir,2,0,,,,,,"",""
+ball,1,14.2,Titans,F Behardien,JA Morkel,Imran Tahir,2,0,,,,,,"",""
+ball,1,14.3,Titans,F Behardien,JA Morkel,Imran Tahir,1,0,,,,,,"",""
+ball,1,14.4,Titans,JA Morkel,F Behardien,Imran Tahir,0,0,,,,,,"",""
+ball,1,14.5,Titans,JA Morkel,F Behardien,Imran Tahir,1,0,,,,,,"",""
+ball,1,14.6,Titans,F Behardien,JA Morkel,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.1,Titans,F Behardien,JA Morkel,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,15.2,Titans,JA Morkel,F Behardien,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,15.3,Titans,F Behardien,JA Morkel,Azhar Mahmood,0,0,,,,,,"",""
+ball,1,15.4,Titans,F Behardien,JA Morkel,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,15.5,Titans,JA Morkel,F Behardien,Azhar Mahmood,0,0,,,,,,bowled,JA Morkel
+ball,1,15.6,Titans,D Wiese,F Behardien,Azhar Mahmood,0,0,,,,,,caught,D Wiese
+ball,1,16.1,Titans,F Behardien,M Mosehle,Imran Tahir,0,0,,,,,,"",""
+ball,1,16.2,Titans,F Behardien,M Mosehle,Imran Tahir,1,0,,,,,,"",""
+ball,1,16.3,Titans,M Mosehle,F Behardien,Imran Tahir,1,0,,,,,,"",""
+ball,1,16.4,Titans,F Behardien,M Mosehle,Imran Tahir,1,0,,,,,,"",""
+ball,1,16.5,Titans,M Mosehle,F Behardien,Imran Tahir,1,0,,,,,,"",""
+ball,1,16.6,Titans,F Behardien,M Mosehle,Imran Tahir,1,0,,,,,,"",""
+ball,1,17.1,Titans,F Behardien,M Mosehle,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,17.2,Titans,M Mosehle,F Behardien,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,17.3,Titans,F Behardien,M Mosehle,Azhar Mahmood,1,0,,,,,,"",""
+ball,1,17.4,Titans,M Mosehle,F Behardien,Azhar Mahmood,4,0,,,,,,"",""
+ball,1,17.5,Titans,M Mosehle,F Behardien,Azhar Mahmood,0,1,,,,1,,"",""
+ball,1,17.6,Titans,F Behardien,M Mosehle,Azhar Mahmood,4,0,,,,,,"",""
+ball,1,18.1,Titans,M Mosehle,F Behardien,CH Morris,0,0,,,,,,"",""
+ball,1,18.2,Titans,M Mosehle,F Behardien,CH Morris,0,0,,,,,,bowled,M Mosehle
+ball,1,18.3,Titans,RE van der Merwe,F Behardien,CH Morris,1,0,,,,,,"",""
+ball,1,18.4,Titans,F Behardien,RE van der Merwe,CH Morris,6,0,,,,,,"",""
+ball,1,18.5,Titans,F Behardien,RE van der Merwe,CH Morris,1,0,,,,,,"",""
+ball,1,18.6,Titans,RE van der Merwe,F Behardien,CH Morris,0,0,,,,,,"",""
+ball,1,19.1,Titans,F Behardien,RE van der Merwe,GC Viljoen,4,0,,,,,,"",""
+ball,1,19.2,Titans,F Behardien,RE van der Merwe,GC Viljoen,0,0,,,,,,lbw,F Behardien
+ball,1,19.3,Titans,M Morkel,RE van der Merwe,GC Viljoen,1,0,,,,,,"",""
+ball,1,19.4,Titans,RE van der Merwe,M Morkel,GC Viljoen,1,0,,,,,,"",""
+ball,1,19.5,Titans,M Morkel,RE van der Merwe,GC Viljoen,2,0,,,,,,"",""
+ball,1,19.6,Titans,M Morkel,RE van der Merwe,GC Viljoen,0,0,,,,,,bowled,M Morkel
+ball,2,0.1,Lions,Q de Kock,GH Bodi,H Davids,0,0,,,,,,"",""
+ball,2,0.2,Lions,Q de Kock,GH Bodi,H Davids,0,0,,,,,,"",""
+ball,2,0.3,Lions,Q de Kock,GH Bodi,H Davids,0,1,,,1,,,"",""
+ball,2,0.4,Lions,GH Bodi,Q de Kock,H Davids,1,0,,,,,,"",""
+ball,2,0.5,Lions,Q de Kock,GH Bodi,H Davids,4,0,,,,,,"",""
+ball,2,0.6,Lions,Q de Kock,GH Bodi,H Davids,1,0,,,,,,"",""
+ball,2,1.1,Lions,Q de Kock,GH Bodi,M Morkel,0,0,,,,,,"",""
+ball,2,1.2,Lions,Q de Kock,GH Bodi,M Morkel,0,0,,,,,,"",""
+ball,2,1.3,Lions,Q de Kock,GH Bodi,M Morkel,0,0,,,,,,"",""
+ball,2,1.4,Lions,Q de Kock,GH Bodi,M Morkel,1,0,,,,,,"",""
+ball,2,1.5,Lions,GH Bodi,Q de Kock,M Morkel,0,0,,,,,,"",""
+ball,2,1.6,Lions,GH Bodi,Q de Kock,M Morkel,1,0,,,,,,"",""
+ball,2,2.1,Lions,GH Bodi,Q de Kock,NE Mbhalati,0,0,,,,,,"",""
+ball,2,2.2,Lions,GH Bodi,Q de Kock,NE Mbhalati,0,1,1,,,,,"",""
+ball,2,2.3,Lions,GH Bodi,Q de Kock,NE Mbhalati,1,0,,,,,,"",""
+ball,2,2.4,Lions,Q de Kock,GH Bodi,NE Mbhalati,0,0,,,,,,"",""
+ball,2,2.5,Lions,Q de Kock,GH Bodi,NE Mbhalati,1,0,,,,,,"",""
+ball,2,2.6,Lions,GH Bodi,Q de Kock,NE Mbhalati,1,0,,,,,,"",""
+ball,2,2.7,Lions,Q de Kock,GH Bodi,NE Mbhalati,1,0,,,,,,"",""
+ball,2,3.1,Lions,Q de Kock,GH Bodi,M Morkel,0,0,,,,,,"",""
+ball,2,3.2,Lions,Q de Kock,GH Bodi,M Morkel,0,0,,,,,,"",""
+ball,2,3.3,Lions,Q de Kock,GH Bodi,M Morkel,3,0,,,,,,"",""
+ball,2,3.4,Lions,GH Bodi,Q de Kock,M Morkel,0,0,,,,,,"",""
+ball,2,3.5,Lions,GH Bodi,Q de Kock,M Morkel,0,0,,,,,,"",""
+ball,2,3.6,Lions,GH Bodi,Q de Kock,M Morkel,0,0,,,,,,"",""
+ball,2,4.1,Lions,Q de Kock,GH Bodi,D Wiese,1,0,,,,,,"",""
+ball,2,4.2,Lions,GH Bodi,Q de Kock,D Wiese,0,0,,,,,,"",""
+ball,2,4.3,Lions,GH Bodi,Q de Kock,D Wiese,6,0,,,,,,"",""
+ball,2,4.4,Lions,GH Bodi,Q de Kock,D Wiese,4,0,,,,,,"",""
+ball,2,4.5,Lions,GH Bodi,Q de Kock,D Wiese,4,0,,,,,,"",""
+ball,2,4.6,Lions,GH Bodi,Q de Kock,D Wiese,1,0,,,,,,"",""
+ball,2,5.1,Lions,GH Bodi,Q de Kock,NE Mbhalati,0,0,,,,,,"",""
+ball,2,5.2,Lions,GH Bodi,Q de Kock,NE Mbhalati,1,0,,,,,,"",""
+ball,2,5.3,Lions,Q de Kock,GH Bodi,NE Mbhalati,4,0,,,,,,"",""
+ball,2,5.4,Lions,Q de Kock,GH Bodi,NE Mbhalati,4,0,,,,,,"",""
+ball,2,5.5,Lions,Q de Kock,GH Bodi,NE Mbhalati,0,0,,,,,,"",""
+ball,2,5.6,Lions,Q de Kock,GH Bodi,NE Mbhalati,6,0,,,,,,"",""
+ball,2,6.1,Lions,GH Bodi,Q de Kock,H Davids,4,0,,,,,,"",""
+ball,2,6.2,Lions,GH Bodi,Q de Kock,H Davids,0,0,,,,,,"",""
+ball,2,6.3,Lions,GH Bodi,Q de Kock,H Davids,1,0,,,,,,"",""
+ball,2,6.4,Lions,Q de Kock,GH Bodi,H Davids,1,0,,,,,,"",""
+ball,2,6.5,Lions,GH Bodi,Q de Kock,H Davids,1,0,,,,,,"",""
+ball,2,6.6,Lions,Q de Kock,GH Bodi,H Davids,1,0,,,,,,"",""
+ball,2,7.1,Lions,Q de Kock,GH Bodi,JA Morkel,0,0,,,,,,"",""
+ball,2,7.2,Lions,Q de Kock,GH Bodi,JA Morkel,2,0,,,,,,"",""
+ball,2,7.3,Lions,Q de Kock,GH Bodi,JA Morkel,1,0,,,,,,"",""
+ball,2,7.4,Lions,GH Bodi,Q de Kock,JA Morkel,1,0,,,,,,"",""
+ball,2,7.5,Lions,Q de Kock,GH Bodi,JA Morkel,1,0,,,,,,"",""
+ball,2,7.6,Lions,GH Bodi,Q de Kock,JA Morkel,1,0,,,,,,"",""
+ball,2,8.1,Lions,GH Bodi,Q de Kock,RE van der Merwe,1,0,,,,,,"",""
+ball,2,8.2,Lions,Q de Kock,GH Bodi,RE van der Merwe,0,0,,,,,,"",""
+ball,2,8.3,Lions,Q de Kock,GH Bodi,RE van der Merwe,1,0,,,,,,"",""
+ball,2,8.4,Lions,GH Bodi,Q de Kock,RE van der Merwe,1,0,,,,,,"",""
+ball,2,8.5,Lions,Q de Kock,GH Bodi,RE van der Merwe,4,0,,,,,,"",""
+ball,2,8.6,Lions,Q de Kock,GH Bodi,RE van der Merwe,4,0,,,,,,"",""
+ball,2,9.1,Lions,GH Bodi,Q de Kock,D Wiese,1,0,,,,,,"",""
+ball,2,9.2,Lions,Q de Kock,GH Bodi,D Wiese,4,0,,,,,,"",""
+ball,2,9.3,Lions,Q de Kock,GH Bodi,D Wiese,1,0,,,,,,"",""
+ball,2,9.4,Lions,GH Bodi,Q de Kock,D Wiese,0,0,,,,,,"",""
+ball,2,9.5,Lions,GH Bodi,Q de Kock,D Wiese,4,0,,,,,,"",""
+ball,2,9.6,Lions,GH Bodi,Q de Kock,D Wiese,1,0,,,,,,"",""
+ball,2,10.1,Lions,GH Bodi,Q de Kock,H Davids,0,0,,,,,,bowled,GH Bodi
+ball,2,10.2,Lions,AN Petersen,Q de Kock,H Davids,4,0,,,,,,"",""
+ball,2,10.3,Lions,AN Petersen,Q de Kock,H Davids,1,0,,,,,,"",""
+ball,2,10.4,Lions,Q de Kock,AN Petersen,H Davids,1,0,,,,,,"",""
+ball,2,10.5,Lions,AN Petersen,Q de Kock,H Davids,1,0,,,,,,"",""
+ball,2,10.6,Lions,Q de Kock,AN Petersen,H Davids,1,0,,,,,,"",""
+ball,2,11.1,Lions,Q de Kock,AN Petersen,M Morkel,1,0,,,,,,"",""
+ball,2,11.2,Lions,AN Petersen,Q de Kock,M Morkel,0,0,,,,,,"",""
+ball,2,11.3,Lions,AN Petersen,Q de Kock,M Morkel,0,1,,,,1,,"",""
+ball,2,11.4,Lions,Q de Kock,AN Petersen,M Morkel,0,0,,,,,,"",""
+ball,2,11.5,Lions,Q de Kock,AN Petersen,M Morkel,1,0,,,,,,"",""
+ball,2,11.6,Lions,AN Petersen,Q de Kock,M Morkel,0,1,1,,,,,"",""
+ball,2,11.7,Lions,AN Petersen,Q de Kock,M Morkel,0,0,,,,,,"",""
+ball,2,12.1,Lions,Q de Kock,AN Petersen,RE van der Merwe,2,0,,,,,,"",""
+ball,2,12.2,Lions,Q de Kock,AN Petersen,RE van der Merwe,0,0,,,,,,caught,Q de Kock
+ball,2,12.3,Lions,D Pretorius,AN Petersen,RE van der Merwe,0,0,,,,,,"",""
+ball,2,12.4,Lions,D Pretorius,AN Petersen,RE van der Merwe,0,0,,,,,,"",""
+ball,2,12.5,Lions,D Pretorius,AN Petersen,RE van der Merwe,1,0,,,,,,"",""
+ball,2,12.6,Lions,AN Petersen,D Pretorius,RE van der Merwe,1,0,,,,,,"",""
+ball,2,13.1,Lions,AN Petersen,D Pretorius,JA Morkel,1,0,,,,,,"",""
+ball,2,13.2,Lions,D Pretorius,AN Petersen,JA Morkel,0,0,,,,,,"",""
+ball,2,13.3,Lions,D Pretorius,AN Petersen,JA Morkel,2,0,,,,,,"",""
+ball,2,13.4,Lions,D Pretorius,AN Petersen,JA Morkel,0,0,,,,,,"",""
+ball,2,13.5,Lions,D Pretorius,AN Petersen,JA Morkel,1,0,,,,,,"",""
+ball,2,13.6,Lions,AN Petersen,D Pretorius,JA Morkel,0,0,,,,,,"",""
+ball,2,14.1,Lions,D Pretorius,AN Petersen,D Wiese,2,0,,,,,,"",""
+ball,2,14.2,Lions,D Pretorius,AN Petersen,D Wiese,0,0,,,,,,"",""
+ball,2,14.3,Lions,D Pretorius,AN Petersen,D Wiese,1,0,,,,,,"",""
+ball,2,14.4,Lions,AN Petersen,D Pretorius,D Wiese,2,0,,,,,,"",""
+ball,2,14.5,Lions,AN Petersen,D Pretorius,D Wiese,4,0,,,,,,"",""
+ball,2,14.6,Lions,AN Petersen,D Pretorius,D Wiese,0,0,,,,,,"",""
+ball,2,15.1,Lions,D Pretorius,AN Petersen,RE van der Merwe,1,0,,,,,,"",""
+ball,2,15.2,Lions,AN Petersen,D Pretorius,RE van der Merwe,1,0,,,,,,"",""
+ball,2,15.3,Lions,D Pretorius,AN Petersen,RE van der Merwe,0,0,,,,,,"",""
+ball,2,15.4,Lions,D Pretorius,AN Petersen,RE van der Merwe,6,0,,,,,,"",""
+ball,2,15.5,Lions,D Pretorius,AN Petersen,RE van der Merwe,0,0,,,,,,"",""
+ball,2,15.6,Lions,D Pretorius,AN Petersen,RE van der Merwe,0,0,,,,,,bowled,D Pretorius
+ball,2,16.1,Lions,AN Petersen,Azhar Mahmood,JA Morkel,1,0,,,,,,"",""
+ball,2,16.2,Lions,Azhar Mahmood,AN Petersen,JA Morkel,2,0,,,,,,"",""
+ball,2,16.3,Lions,Azhar Mahmood,AN Petersen,JA Morkel,1,0,,,,,,"",""
+ball,2,16.4,Lions,AN Petersen,Azhar Mahmood,JA Morkel,0,0,,,,,,"",""
+ball,2,16.5,Lions,AN Petersen,Azhar Mahmood,JA Morkel,1,0,,,,,,"",""
+ball,2,16.6,Lions,Azhar Mahmood,AN Petersen,JA Morkel,1,0,,,,,,"",""
+ball,2,17.1,Lions,Azhar Mahmood,AN Petersen,RE van der Merwe,2,0,,,,,,"",""
+ball,2,17.2,Lions,Azhar Mahmood,AN Petersen,RE van der Merwe,2,0,,,,,,"",""
+ball,2,17.3,Lions,Azhar Mahmood,AN Petersen,RE van der Merwe,1,0,,,,,,"",""
+ball,2,17.4,Lions,AN Petersen,Azhar Mahmood,RE van der Merwe,1,0,,,,,,"",""
+ball,2,17.5,Lions,Azhar Mahmood,AN Petersen,RE van der Merwe,1,0,,,,,,"",""
+ball,2,17.6,Lions,AN Petersen,Azhar Mahmood,RE van der Merwe,2,0,,,,,,"",""
+ball,2,18.1,Lions,Azhar Mahmood,AN Petersen,NE Mbhalati,0,1,1,,,,,"",""
+ball,2,18.2,Lions,Azhar Mahmood,AN Petersen,NE Mbhalati,1,0,,,,,,"",""
+ball,2,18.3,Lions,AN Petersen,Azhar Mahmood,NE Mbhalati,1,0,,,,,,"",""
+ball,2,18.4,Lions,Azhar Mahmood,AN Petersen,NE Mbhalati,1,0,,,,,,"",""
+ball,2,18.5,Lions,AN Petersen,Azhar Mahmood,NE Mbhalati,1,0,,,,,,"",""
+ball,2,18.6,Lions,Azhar Mahmood,AN Petersen,NE Mbhalati,1,0,,,,,,"",""
+ball,2,18.7,Lions,AN Petersen,Azhar Mahmood,NE Mbhalati,0,0,,,,,,"",""
+ball,2,19.1,Lions,Azhar Mahmood,AN Petersen,M Morkel,1,0,,,,,,"",""
+ball,2,19.2,Lions,AN Petersen,Azhar Mahmood,M Morkel,2,0,,,,,,"",""
+ball,2,19.3,Lions,AN Petersen,Azhar Mahmood,M Morkel,0,0,,,,,,"",""
+ball,2,19.4,Lions,AN Petersen,Azhar Mahmood,M Morkel,1,0,,,,,,"",""
+ball,2,19.5,Lions,Azhar Mahmood,AN Petersen,M Morkel,1,0,,,,,,"",""
+ball,2,19.6,Lions,AN Petersen,Azhar Mahmood,M Morkel,1,0,,,,,,"",""

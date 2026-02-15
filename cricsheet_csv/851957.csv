@@ -1,0 +1,310 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Knights
+info,gender,male
+info,season,2015/16
+info,date,2015/11/15
+info,event,Ram Slam T20 Challenge
+info,venue,"Mangaung Oval, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,Lions
+info,toss_decision,bat
+info,player_of_match,E Leie
+info,player_of_match,D Pretorius
+info,umpire,BM White
+info,umpire,CD Isaacs
+info,reserve_umpire,JAS Morton
+info,match_referee,SB Lambson
+info,winner,Lions
+info,winner_runs,20
+info,player,Lions,HE van der Dussen
+info,player,Lions,DP Conway
+info,player,Lions,AN Petersen
+info,player,Lions,AJ Malan
+info,player,Lions,D Pretorius
+info,player,Lions,TL Tsolekile
+info,player,Lions,NJ van den Bergh
+info,player,Lions,BC Fortuin
+info,player,Lions,AM Phangiso
+info,player,Lions,E Leie
+info,player,Lions,LL Tsotsobe
+info,player,Knights,RR Rossouw
+info,player,Knights,RR Hendricks
+info,player,Knights,TB de Bruyn
+info,player,Knights,TM Bodibe
+info,player,Knights,WL Coetsee
+info,player,Knights,AD Russell
+info,player,Knights,DS Rosier
+info,player,Knights,D du Preez
+info,player,Knights,SC van Schalkwyk
+info,player,Knights,MP Siboto
+info,player,Knights,T Ntuli
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Malan,6a315fb5
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AN Petersen,e01aafc1
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BM White,66c21d35
+info,registry,people,CD Isaacs,c0215bbd
+info,registry,people,D Pretorius,11614d87
+info,registry,people,D du Preez,d7a57f75
+info,registry,people,DP Conway,df5a6881
+info,registry,people,DS Rosier,f8e6dbdd
+info,registry,people,E Leie,a7bc76a0
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JAS Morton,eac9b8d9
+info,registry,people,LL Tsotsobe,12bffe91
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,NJ van den Bergh,055e8d7b
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,T Ntuli,8e6827f7
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,TL Tsolekile,3b94297b
+info,registry,people,TM Bodibe,ed982dfa
+info,registry,people,WL Coetsee,5f419ace
+ball,1,0.1,Lions,HE van der Dussen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,0.2,Lions,HE van der Dussen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,0.3,Lions,HE van der Dussen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,0.4,Lions,HE van der Dussen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,0.5,Lions,HE van der Dussen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,0.6,Lions,HE van der Dussen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,1.1,Lions,DP Conway,HE van der Dussen,AD Russell,0,0,,,,,,"",""
+ball,1,1.2,Lions,DP Conway,HE van der Dussen,AD Russell,1,0,,,,,,"",""
+ball,1,1.3,Lions,HE van der Dussen,DP Conway,AD Russell,2,0,,,,,,"",""
+ball,1,1.4,Lions,HE van der Dussen,DP Conway,AD Russell,1,0,,,,,,"",""
+ball,1,1.5,Lions,DP Conway,HE van der Dussen,AD Russell,1,0,,,,,,"",""
+ball,1,1.6,Lions,HE van der Dussen,DP Conway,AD Russell,0,0,,,,,,"",""
+ball,1,2.1,Lions,DP Conway,HE van der Dussen,D du Preez,0,0,,,,,,"",""
+ball,1,2.2,Lions,DP Conway,HE van der Dussen,D du Preez,0,0,,,,,,"",""
+ball,1,2.3,Lions,DP Conway,HE van der Dussen,D du Preez,0,0,,,,,,"",""
+ball,1,2.4,Lions,DP Conway,HE van der Dussen,D du Preez,0,0,,,,,,"",""
+ball,1,2.5,Lions,DP Conway,HE van der Dussen,D du Preez,0,0,,,,,,"",""
+ball,1,2.6,Lions,DP Conway,HE van der Dussen,D du Preez,0,0,,,,,,"",""
+ball,1,3.1,Lions,HE van der Dussen,DP Conway,AD Russell,0,0,,,,,,"",""
+ball,1,3.2,Lions,HE van der Dussen,DP Conway,AD Russell,0,0,,,,,,caught,HE van der Dussen
+ball,1,3.3,Lions,DP Conway,AN Petersen,AD Russell,0,0,,,,,,"",""
+ball,1,3.4,Lions,DP Conway,AN Petersen,AD Russell,0,0,,,,,,"",""
+ball,1,3.5,Lions,DP Conway,AN Petersen,AD Russell,2,0,,,,,,"",""
+ball,1,3.6,Lions,DP Conway,AN Petersen,AD Russell,4,0,,,,,,"",""
+ball,1,4.1,Lions,AN Petersen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,4.2,Lions,AN Petersen,DP Conway,D du Preez,1,0,,,,,,"",""
+ball,1,4.3,Lions,DP Conway,AN Petersen,D du Preez,2,0,,,,,,"",""
+ball,1,4.4,Lions,DP Conway,AN Petersen,D du Preez,1,0,,,,,,"",""
+ball,1,4.5,Lions,AN Petersen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,4.6,Lions,AN Petersen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,5.1,Lions,DP Conway,AN Petersen,MP Siboto,0,1,,,,1,,"",""
+ball,1,5.2,Lions,AN Petersen,DP Conway,MP Siboto,0,0,,,,,,"",""
+ball,1,5.3,Lions,AN Petersen,DP Conway,MP Siboto,0,0,,,,,,"",""
+ball,1,5.4,Lions,AN Petersen,DP Conway,MP Siboto,1,0,,,,,,"",""
+ball,1,5.5,Lions,DP Conway,AN Petersen,MP Siboto,0,0,,,,,,"",""
+ball,1,5.6,Lions,DP Conway,AN Petersen,MP Siboto,0,0,,,,,,"",""
+ball,1,6.1,Lions,AN Petersen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,6.2,Lions,AN Petersen,DP Conway,D du Preez,1,0,,,,,,"",""
+ball,1,6.3,Lions,DP Conway,AN Petersen,D du Preez,1,0,,,,,,"",""
+ball,1,6.4,Lions,AN Petersen,DP Conway,D du Preez,1,0,,,,,,"",""
+ball,1,6.5,Lions,DP Conway,AN Petersen,D du Preez,1,0,,,,,,"",""
+ball,1,6.6,Lions,AN Petersen,DP Conway,D du Preez,0,0,,,,,,"",""
+ball,1,7.1,Lions,DP Conway,AN Petersen,MP Siboto,1,0,,,,,,"",""
+ball,1,7.2,Lions,AN Petersen,DP Conway,MP Siboto,2,0,,,,,,"",""
+ball,1,7.3,Lions,AN Petersen,DP Conway,MP Siboto,0,0,,,,,,"",""
+ball,1,7.4,Lions,AN Petersen,DP Conway,MP Siboto,0,0,,,,,,"",""
+ball,1,7.5,Lions,AN Petersen,DP Conway,MP Siboto,0,0,,,,,,"",""
+ball,1,7.6,Lions,AN Petersen,DP Conway,MP Siboto,1,0,,,,,,"",""
+ball,1,8.1,Lions,AN Petersen,DP Conway,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,8.2,Lions,DP Conway,AN Petersen,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,8.3,Lions,AN Petersen,DP Conway,SC van Schalkwyk,2,0,,,,,,"",""
+ball,1,8.4,Lions,AN Petersen,DP Conway,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,8.5,Lions,DP Conway,AN Petersen,SC van Schalkwyk,2,0,,,,,,"",""
+ball,1,8.6,Lions,DP Conway,AN Petersen,SC van Schalkwyk,0,0,,,,,,run out,DP Conway
+ball,1,9.1,Lions,AN Petersen,AJ Malan,WL Coetsee,1,0,,,,,,"",""
+ball,1,9.2,Lions,AJ Malan,AN Petersen,WL Coetsee,1,0,,,,,,"",""
+ball,1,9.3,Lions,AN Petersen,AJ Malan,WL Coetsee,1,0,,,,,,"",""
+ball,1,9.4,Lions,AJ Malan,AN Petersen,WL Coetsee,1,0,,,,,,"",""
+ball,1,9.5,Lions,AN Petersen,AJ Malan,WL Coetsee,1,0,,,,,,"",""
+ball,1,9.6,Lions,AJ Malan,AN Petersen,WL Coetsee,1,0,,,,,,"",""
+ball,1,10.1,Lions,AJ Malan,AN Petersen,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,10.2,Lions,AJ Malan,AN Petersen,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,10.3,Lions,AJ Malan,AN Petersen,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,10.4,Lions,AJ Malan,AN Petersen,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,10.5,Lions,AJ Malan,AN Petersen,SC van Schalkwyk,0,0,,,,,,caught,AJ Malan
+ball,1,10.6,Lions,AN Petersen,D Pretorius,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,11.1,Lions,D Pretorius,AN Petersen,WL Coetsee,1,0,,,,,,"",""
+ball,1,11.2,Lions,AN Petersen,D Pretorius,WL Coetsee,6,0,,,,,,"",""
+ball,1,11.3,Lions,AN Petersen,D Pretorius,WL Coetsee,1,0,,,,,,"",""
+ball,1,11.4,Lions,D Pretorius,AN Petersen,WL Coetsee,0,3,3,,,,,"",""
+ball,1,11.5,Lions,D Pretorius,AN Petersen,WL Coetsee,1,0,,,,,,"",""
+ball,1,11.6,Lions,AN Petersen,D Pretorius,WL Coetsee,1,0,,,,,,"",""
+ball,1,11.7,Lions,D Pretorius,AN Petersen,WL Coetsee,1,0,,,,,,"",""
+ball,1,12.1,Lions,D Pretorius,AN Petersen,T Ntuli,0,1,,,,1,,"",""
+ball,1,12.2,Lions,AN Petersen,D Pretorius,T Ntuli,0,0,,,,,,"",""
+ball,1,12.3,Lions,AN Petersen,D Pretorius,T Ntuli,0,0,,,,,,lbw,AN Petersen
+ball,1,12.4,Lions,TL Tsolekile,D Pretorius,T Ntuli,0,0,,,,,,"",""
+ball,1,12.5,Lions,TL Tsolekile,D Pretorius,T Ntuli,2,0,,,,,,"",""
+ball,1,12.6,Lions,TL Tsolekile,D Pretorius,T Ntuli,0,0,,,,,,"",""
+ball,1,13.1,Lions,D Pretorius,TL Tsolekile,AD Russell,1,0,,,,,,"",""
+ball,1,13.2,Lions,TL Tsolekile,D Pretorius,AD Russell,0,0,,,,,,"",""
+ball,1,13.3,Lions,TL Tsolekile,D Pretorius,AD Russell,1,0,,,,,,"",""
+ball,1,13.4,Lions,D Pretorius,TL Tsolekile,AD Russell,0,1,1,,,,,"",""
+ball,1,13.5,Lions,D Pretorius,TL Tsolekile,AD Russell,0,0,,,,,,"",""
+ball,1,13.6,Lions,D Pretorius,TL Tsolekile,AD Russell,0,0,,,,,,"",""
+ball,1,13.7,Lions,D Pretorius,TL Tsolekile,AD Russell,1,0,,,,,,"",""
+ball,1,14.1,Lions,D Pretorius,TL Tsolekile,T Ntuli,0,0,,,,,,"",""
+ball,1,14.2,Lions,D Pretorius,TL Tsolekile,T Ntuli,2,0,,,,,,"",""
+ball,1,14.3,Lions,D Pretorius,TL Tsolekile,T Ntuli,1,0,,,,,,"",""
+ball,1,14.4,Lions,TL Tsolekile,D Pretorius,T Ntuli,6,0,,,,,,"",""
+ball,1,14.5,Lions,TL Tsolekile,D Pretorius,T Ntuli,1,0,,,,,,"",""
+ball,1,14.6,Lions,D Pretorius,TL Tsolekile,T Ntuli,1,0,,,,,,"",""
+ball,1,15.1,Lions,D Pretorius,TL Tsolekile,MP Siboto,0,0,,,,,,"",""
+ball,1,15.2,Lions,D Pretorius,TL Tsolekile,MP Siboto,0,0,,,,,,"",""
+ball,1,15.3,Lions,D Pretorius,TL Tsolekile,MP Siboto,4,0,,,,,,"",""
+ball,1,15.4,Lions,D Pretorius,TL Tsolekile,MP Siboto,0,0,,,,,,"",""
+ball,1,15.5,Lions,D Pretorius,TL Tsolekile,MP Siboto,0,1,1,,,,,"",""
+ball,1,15.6,Lions,D Pretorius,TL Tsolekile,MP Siboto,4,0,,,,,,"",""
+ball,1,15.7,Lions,D Pretorius,TL Tsolekile,MP Siboto,2,0,,,,,,"",""
+ball,1,16.1,Lions,TL Tsolekile,D Pretorius,SC van Schalkwyk,0,0,,,,,,bowled,TL Tsolekile
+ball,1,16.2,Lions,NJ van den Bergh,D Pretorius,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,16.3,Lions,NJ van den Bergh,D Pretorius,SC van Schalkwyk,2,0,,,,,,"",""
+ball,1,16.4,Lions,NJ van den Bergh,D Pretorius,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,16.5,Lions,D Pretorius,NJ van den Bergh,SC van Schalkwyk,2,0,,,,,,"",""
+ball,1,16.6,Lions,D Pretorius,NJ van den Bergh,SC van Schalkwyk,1,0,,,,,,"",""
+ball,1,17.1,Lions,D Pretorius,NJ van den Bergh,MP Siboto,2,0,,,,,,"",""
+ball,1,17.2,Lions,D Pretorius,NJ van den Bergh,MP Siboto,2,0,,,,,,"",""
+ball,1,17.3,Lions,D Pretorius,NJ van den Bergh,MP Siboto,1,0,,,,,,"",""
+ball,1,17.4,Lions,NJ van den Bergh,D Pretorius,MP Siboto,0,1,1,,,,,"",""
+ball,1,17.5,Lions,NJ van den Bergh,D Pretorius,MP Siboto,0,0,,,,,,"",""
+ball,1,17.6,Lions,NJ van den Bergh,D Pretorius,MP Siboto,1,0,,,,,,"",""
+ball,1,17.7,Lions,D Pretorius,NJ van den Bergh,MP Siboto,4,0,,,,,,"",""
+ball,1,18.1,Lions,NJ van den Bergh,D Pretorius,SC van Schalkwyk,2,0,,,,,,"",""
+ball,1,18.2,Lions,NJ van den Bergh,D Pretorius,SC van Schalkwyk,0,0,,,,,,caught and bowled,NJ van den Bergh
+ball,1,18.3,Lions,D Pretorius,BC Fortuin,SC van Schalkwyk,4,0,,,,,,"",""
+ball,1,18.4,Lions,D Pretorius,BC Fortuin,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,18.5,Lions,D Pretorius,BC Fortuin,SC van Schalkwyk,0,0,,,,,,"",""
+ball,1,18.6,Lions,D Pretorius,BC Fortuin,SC van Schalkwyk,0,0,,,,,,caught and bowled,D Pretorius
+ball,1,19.1,Lions,BC Fortuin,AM Phangiso,AD Russell,2,0,,,,,,"",""
+ball,1,19.2,Lions,BC Fortuin,AM Phangiso,AD Russell,1,0,,,,,,"",""
+ball,1,19.3,Lions,AM Phangiso,BC Fortuin,AD Russell,0,0,,,,,,"",""
+ball,1,19.4,Lions,AM Phangiso,BC Fortuin,AD Russell,4,0,,,,,,"",""
+ball,1,19.5,Lions,AM Phangiso,BC Fortuin,AD Russell,0,0,,,,,,"",""
+ball,1,19.6,Lions,AM Phangiso,BC Fortuin,AD Russell,0,1,,,1,,,"",""
+ball,2,0.1,Knights,RR Rossouw,RR Hendricks,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.2,Knights,RR Rossouw,RR Hendricks,BC Fortuin,1,0,,,,,,"",""
+ball,2,0.3,Knights,RR Hendricks,RR Rossouw,BC Fortuin,4,0,,,,,,"",""
+ball,2,0.4,Knights,RR Hendricks,RR Rossouw,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.5,Knights,RR Hendricks,RR Rossouw,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.6,Knights,RR Hendricks,RR Rossouw,BC Fortuin,1,0,,,,,,"",""
+ball,2,1.1,Knights,RR Hendricks,RR Rossouw,D Pretorius,0,0,,,,,,"",""
+ball,2,1.2,Knights,RR Hendricks,RR Rossouw,D Pretorius,0,1,1,,,,,"",""
+ball,2,1.3,Knights,RR Hendricks,RR Rossouw,D Pretorius,4,0,,,,,,"",""
+ball,2,1.4,Knights,RR Hendricks,RR Rossouw,D Pretorius,1,0,,,,,,"",""
+ball,2,1.5,Knights,RR Rossouw,RR Hendricks,D Pretorius,4,0,,,,,,"",""
+ball,2,1.6,Knights,RR Rossouw,RR Hendricks,D Pretorius,0,0,,,,,,"",""
+ball,2,1.7,Knights,RR Rossouw,RR Hendricks,D Pretorius,0,0,,,,,,"",""
+ball,2,2.1,Knights,RR Hendricks,RR Rossouw,BC Fortuin,0,0,,,,,,"",""
+ball,2,2.2,Knights,RR Hendricks,RR Rossouw,BC Fortuin,4,0,,,,,,"",""
+ball,2,2.3,Knights,RR Hendricks,RR Rossouw,BC Fortuin,1,0,,,,,,"",""
+ball,2,2.4,Knights,RR Rossouw,RR Hendricks,BC Fortuin,1,0,,,,,,"",""
+ball,2,2.5,Knights,RR Hendricks,RR Rossouw,BC Fortuin,1,0,,,,,,"",""
+ball,2,2.6,Knights,RR Rossouw,RR Hendricks,BC Fortuin,4,0,,,,,,"",""
+ball,2,3.1,Knights,RR Hendricks,RR Rossouw,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,3.2,Knights,RR Rossouw,RR Hendricks,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,3.3,Knights,RR Hendricks,RR Rossouw,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,3.4,Knights,RR Rossouw,RR Hendricks,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,3.5,Knights,RR Rossouw,RR Hendricks,LL Tsotsobe,0,0,,,,,,caught and bowled,RR Rossouw
+ball,2,3.6,Knights,RR Hendricks,TB de Bruyn,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,4.1,Knights,TB de Bruyn,RR Hendricks,D Pretorius,0,0,,,,,,"",""
+ball,2,4.2,Knights,TB de Bruyn,RR Hendricks,D Pretorius,0,0,,,,,,"",""
+ball,2,4.3,Knights,TB de Bruyn,RR Hendricks,D Pretorius,0,0,,,,,,"",""
+ball,2,4.4,Knights,TB de Bruyn,RR Hendricks,D Pretorius,0,0,,,,,,bowled,TB de Bruyn
+ball,2,4.5,Knights,TM Bodibe,RR Hendricks,D Pretorius,0,0,,,,,,"",""
+ball,2,4.6,Knights,TM Bodibe,RR Hendricks,D Pretorius,0,0,,,,,,"",""
+ball,2,5.1,Knights,RR Hendricks,TM Bodibe,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,5.2,Knights,RR Hendricks,TM Bodibe,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,5.3,Knights,RR Hendricks,TM Bodibe,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,5.4,Knights,RR Hendricks,TM Bodibe,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,5.5,Knights,RR Hendricks,TM Bodibe,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,5.6,Knights,RR Hendricks,TM Bodibe,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,6.1,Knights,RR Hendricks,TM Bodibe,D Pretorius,0,0,,,,,,"",""
+ball,2,6.2,Knights,RR Hendricks,TM Bodibe,D Pretorius,0,0,,,,,,"",""
+ball,2,6.3,Knights,RR Hendricks,TM Bodibe,D Pretorius,0,0,,,,,,"",""
+ball,2,6.4,Knights,RR Hendricks,TM Bodibe,D Pretorius,1,0,,,,,,"",""
+ball,2,6.5,Knights,TM Bodibe,RR Hendricks,D Pretorius,4,0,,,,,,"",""
+ball,2,6.6,Knights,TM Bodibe,RR Hendricks,D Pretorius,0,0,,,,,,"",""
+ball,2,7.1,Knights,RR Hendricks,TM Bodibe,LL Tsotsobe,3,0,,,,,,"",""
+ball,2,7.2,Knights,TM Bodibe,RR Hendricks,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,7.3,Knights,TM Bodibe,RR Hendricks,LL Tsotsobe,0,1,1,,,,,"",""
+ball,2,7.4,Knights,TM Bodibe,RR Hendricks,LL Tsotsobe,0,0,,,,,,"",""
+ball,2,7.5,Knights,TM Bodibe,RR Hendricks,LL Tsotsobe,0,0,,,,,,caught,TM Bodibe
+ball,2,7.6,Knights,RR Hendricks,WL Coetsee,LL Tsotsobe,4,0,,,,,,"",""
+ball,2,7.7,Knights,RR Hendricks,WL Coetsee,LL Tsotsobe,0,1,1,,,,,"",""
+ball,2,7.8,Knights,RR Hendricks,WL Coetsee,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,8.1,Knights,RR Hendricks,WL Coetsee,AM Phangiso,0,0,,,,,,"",""
+ball,2,8.2,Knights,RR Hendricks,WL Coetsee,AM Phangiso,1,0,,,,,,"",""
+ball,2,8.3,Knights,WL Coetsee,RR Hendricks,AM Phangiso,0,0,,,,,,"",""
+ball,2,8.4,Knights,WL Coetsee,RR Hendricks,AM Phangiso,0,0,,,,,,"",""
+ball,2,8.5,Knights,WL Coetsee,RR Hendricks,AM Phangiso,0,0,,,,,,"",""
+ball,2,8.6,Knights,WL Coetsee,RR Hendricks,AM Phangiso,0,0,,,,,,"",""
+ball,2,9.1,Knights,RR Hendricks,WL Coetsee,E Leie,0,0,,,,,,"",""
+ball,2,9.2,Knights,RR Hendricks,WL Coetsee,E Leie,1,0,,,,,,"",""
+ball,2,9.3,Knights,WL Coetsee,RR Hendricks,E Leie,0,0,,,,,,"",""
+ball,2,9.4,Knights,WL Coetsee,RR Hendricks,E Leie,0,0,,,,,,"",""
+ball,2,9.5,Knights,WL Coetsee,RR Hendricks,E Leie,1,0,,,,,,"",""
+ball,2,9.6,Knights,RR Hendricks,WL Coetsee,E Leie,0,0,,,,,,"",""
+ball,2,10.1,Knights,WL Coetsee,RR Hendricks,AM Phangiso,0,0,,,,,,"",""
+ball,2,10.2,Knights,WL Coetsee,RR Hendricks,AM Phangiso,0,0,,,,,,"",""
+ball,2,10.3,Knights,WL Coetsee,RR Hendricks,AM Phangiso,1,0,,,,,,"",""
+ball,2,10.4,Knights,RR Hendricks,WL Coetsee,AM Phangiso,1,0,,,,,,"",""
+ball,2,10.5,Knights,WL Coetsee,RR Hendricks,AM Phangiso,1,0,,,,,,"",""
+ball,2,10.6,Knights,RR Hendricks,WL Coetsee,AM Phangiso,1,0,,,,,,"",""
+ball,2,11.1,Knights,RR Hendricks,WL Coetsee,E Leie,0,0,,,,,,bowled,RR Hendricks
+ball,2,11.2,Knights,AD Russell,WL Coetsee,E Leie,0,0,,,,,,"",""
+ball,2,11.3,Knights,AD Russell,WL Coetsee,E Leie,6,0,,,,,,"",""
+ball,2,11.4,Knights,AD Russell,WL Coetsee,E Leie,1,0,,,,,,"",""
+ball,2,11.5,Knights,WL Coetsee,AD Russell,E Leie,4,0,,,,,,"",""
+ball,2,11.6,Knights,WL Coetsee,AD Russell,E Leie,0,0,,,,,,"",""
+ball,2,12.1,Knights,AD Russell,WL Coetsee,AM Phangiso,0,0,,,,,,"",""
+ball,2,12.2,Knights,AD Russell,WL Coetsee,AM Phangiso,0,0,,,,,,"",""
+ball,2,12.3,Knights,AD Russell,WL Coetsee,AM Phangiso,0,0,,,,,,"",""
+ball,2,12.4,Knights,AD Russell,WL Coetsee,AM Phangiso,0,0,,,,,,"",""
+ball,2,12.5,Knights,AD Russell,WL Coetsee,AM Phangiso,0,0,,,,,,"",""
+ball,2,12.6,Knights,AD Russell,WL Coetsee,AM Phangiso,0,0,,,,,,"",""
+ball,2,13.1,Knights,WL Coetsee,AD Russell,E Leie,0,0,,,,,,"",""
+ball,2,13.2,Knights,WL Coetsee,AD Russell,E Leie,0,0,,,,,,"",""
+ball,2,13.3,Knights,WL Coetsee,AD Russell,E Leie,0,0,,,,,,caught,WL Coetsee
+ball,2,13.4,Knights,DS Rosier,AD Russell,E Leie,0,0,,,,,,lbw,DS Rosier
+ball,2,13.5,Knights,D du Preez,AD Russell,E Leie,1,0,,,,,,"",""
+ball,2,13.6,Knights,AD Russell,D du Preez,E Leie,0,0,,,,,,"",""
+ball,2,14.1,Knights,D du Preez,AD Russell,AM Phangiso,0,0,,,,,,"",""
+ball,2,14.2,Knights,D du Preez,AD Russell,AM Phangiso,0,0,,,,,,"",""
+ball,2,14.3,Knights,D du Preez,AD Russell,AM Phangiso,0,0,,,,,,"",""
+ball,2,14.4,Knights,D du Preez,AD Russell,AM Phangiso,1,0,,,,,,"",""
+ball,2,14.5,Knights,AD Russell,D du Preez,AM Phangiso,0,0,,,,,,"",""
+ball,2,14.6,Knights,AD Russell,D du Preez,AM Phangiso,6,0,,,,,,"",""
+ball,2,15.1,Knights,D du Preez,AD Russell,E Leie,0,0,,,,,,"",""
+ball,2,15.2,Knights,D du Preez,AD Russell,E Leie,0,0,,,,,,caught,D du Preez
+ball,2,15.3,Knights,SC van Schalkwyk,AD Russell,E Leie,1,0,,,,,,"",""
+ball,2,15.4,Knights,AD Russell,SC van Schalkwyk,E Leie,0,0,,,,,,"",""
+ball,2,15.5,Knights,AD Russell,SC van Schalkwyk,E Leie,0,0,,,,,,caught,AD Russell
+ball,2,15.6,Knights,MP Siboto,SC van Schalkwyk,E Leie,0,0,,,,,,"",""
+ball,2,16.1,Knights,SC van Schalkwyk,MP Siboto,BC Fortuin,0,0,,,,,,"",""
+ball,2,16.2,Knights,SC van Schalkwyk,MP Siboto,BC Fortuin,3,0,,,,,,"",""
+ball,2,16.3,Knights,MP Siboto,SC van Schalkwyk,BC Fortuin,1,0,,,,,,"",""
+ball,2,16.4,Knights,SC van Schalkwyk,MP Siboto,BC Fortuin,1,0,,,,,,"",""
+ball,2,16.5,Knights,MP Siboto,SC van Schalkwyk,BC Fortuin,2,0,,,,,,"",""
+ball,2,16.6,Knights,MP Siboto,SC van Schalkwyk,BC Fortuin,0,0,,,,,,"",""
+ball,2,17.1,Knights,SC van Schalkwyk,MP Siboto,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,17.2,Knights,MP Siboto,SC van Schalkwyk,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,17.3,Knights,SC van Schalkwyk,MP Siboto,LL Tsotsobe,2,0,,,,,,"",""
+ball,2,17.4,Knights,SC van Schalkwyk,MP Siboto,LL Tsotsobe,2,0,,,,,,"",""
+ball,2,17.5,Knights,SC van Schalkwyk,MP Siboto,LL Tsotsobe,0,1,1,,,,,"",""
+ball,2,17.6,Knights,SC van Schalkwyk,MP Siboto,LL Tsotsobe,0,1,,,,1,,"",""
+ball,2,17.7,Knights,MP Siboto,SC van Schalkwyk,LL Tsotsobe,1,0,,,,,,"",""
+ball,2,18.1,Knights,MP Siboto,SC van Schalkwyk,D Pretorius,0,0,,,,,,caught,MP Siboto
+ball,2,18.2,Knights,SC van Schalkwyk,T Ntuli,D Pretorius,0,0,,,,,,"",""
+ball,2,18.3,Knights,SC van Schalkwyk,T Ntuli,D Pretorius,2,0,,,,,,"",""
+ball,2,18.4,Knights,SC van Schalkwyk,T Ntuli,D Pretorius,1,0,,,,,,"",""
+ball,2,18.5,Knights,T Ntuli,SC van Schalkwyk,D Pretorius,0,0,,,,,,"",""
+ball,2,18.6,Knights,T Ntuli,SC van Schalkwyk,D Pretorius,0,0,,,,,,caught,T Ntuli

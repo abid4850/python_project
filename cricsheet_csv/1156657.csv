@@ -1,0 +1,306 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Isle of Man
+info,gender,male
+info,season,2018
+info,date,2018/08/30
+info,event,ICC World Twenty20 Europe Region Qualifier B
+info,match_number,8
+info,venue,VRA Ground
+info,city,Amstelveen
+info,toss_winner,Jersey
+info,toss_decision,bat
+info,umpire,AM Baird
+info,umpire,S Welch
+info,reserve_umpire,Rizwan Akram
+info,winner,Jersey
+info,winner_runs,54
+info,player,Jersey,B Ward
+info,player,Jersey,JW Jenner
+info,player,Jersey,BDH Stevens
+info,player,Jersey,H Carlyon
+info,player,Jersey,C Bisson
+info,player,Jersey,CW Perchard
+info,player,Jersey,EJB Miles
+info,player,Jersey,B Kynman
+info,player,Jersey,DG Blampied
+info,player,Jersey,J Sumerauer
+info,player,Jersey,JE Dunford
+info,player,Isle of Man,A McAuley
+info,player,Isle of Man,N Knights
+info,player,Isle of Man,EF Beard
+info,player,Isle of Man,D Kniveton
+info,player,Isle of Man,OJ Webster
+info,player,Isle of Man,G Burrows
+info,player,Isle of Man,N White
+info,player,Isle of Man,MJ Ansell
+info,player,Isle of Man,CJ Langford
+info,player,Isle of Man,S Mills
+info,player,Isle of Man,K Cawte
+info,registry,people,A McAuley,39e599c8
+info,registry,people,AM Baird,0c17f84a
+info,registry,people,B Kynman,b6980844
+info,registry,people,B Ward,9e0bd203
+info,registry,people,BDH Stevens,f8035c2a
+info,registry,people,C Bisson,85ba5659
+info,registry,people,CJ Langford,3967b66f
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Kniveton,178b4188
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,EF Beard,68019a70
+info,registry,people,EJB Miles,6b46ce43
+info,registry,people,G Burrows,8bee668b
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,K Cawte,a2dd9236
+info,registry,people,MJ Ansell,6e60a792
+info,registry,people,N Knights,b0aadf4f
+info,registry,people,N White,b2caf373
+info,registry,people,OJ Webster,a69e2964
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Mills,86ac0262
+info,registry,people,S Welch,2910392a
+ball,1,0.1,Jersey,B Ward,JW Jenner,MJ Ansell,0,0,,,,,,"",""
+ball,1,0.2,Jersey,B Ward,JW Jenner,MJ Ansell,0,0,,,,,,"",""
+ball,1,0.3,Jersey,B Ward,JW Jenner,MJ Ansell,0,0,,,,,,"",""
+ball,1,0.4,Jersey,B Ward,JW Jenner,MJ Ansell,0,0,,,,,,"",""
+ball,1,0.5,Jersey,B Ward,JW Jenner,MJ Ansell,2,0,,,,,,"",""
+ball,1,0.6,Jersey,B Ward,JW Jenner,MJ Ansell,0,0,,,,,,"",""
+ball,1,1.1,Jersey,JW Jenner,B Ward,K Cawte,4,0,,,,,,"",""
+ball,1,1.2,Jersey,JW Jenner,B Ward,K Cawte,0,0,,,,,,"",""
+ball,1,1.3,Jersey,JW Jenner,B Ward,K Cawte,2,0,,,,,,"",""
+ball,1,1.4,Jersey,JW Jenner,B Ward,K Cawte,0,0,,,,,,caught,JW Jenner
+ball,1,1.5,Jersey,BDH Stevens,B Ward,K Cawte,1,0,,,,,,"",""
+ball,1,1.6,Jersey,B Ward,BDH Stevens,K Cawte,3,0,,,,,,"",""
+ball,1,2.1,Jersey,B Ward,BDH Stevens,MJ Ansell,0,0,,,,,,"",""
+ball,1,2.2,Jersey,B Ward,BDH Stevens,MJ Ansell,0,0,,,,,,"",""
+ball,1,2.3,Jersey,B Ward,BDH Stevens,MJ Ansell,4,0,,,,,,"",""
+ball,1,2.4,Jersey,B Ward,BDH Stevens,MJ Ansell,0,0,,,,,,"",""
+ball,1,2.5,Jersey,B Ward,BDH Stevens,MJ Ansell,0,0,,,,,,"",""
+ball,1,2.6,Jersey,B Ward,BDH Stevens,MJ Ansell,1,0,,,,,,"",""
+ball,1,3.1,Jersey,B Ward,BDH Stevens,K Cawte,0,0,,,,,,"",""
+ball,1,3.2,Jersey,B Ward,BDH Stevens,K Cawte,2,0,,,,,,"",""
+ball,1,3.3,Jersey,B Ward,BDH Stevens,K Cawte,0,0,,,,,,"",""
+ball,1,3.4,Jersey,B Ward,BDH Stevens,K Cawte,0,0,,,,,,caught,B Ward
+ball,1,3.5,Jersey,BDH Stevens,H Carlyon,K Cawte,1,0,,,,,,"",""
+ball,1,3.6,Jersey,H Carlyon,BDH Stevens,K Cawte,1,0,,,,,,"",""
+ball,1,4.1,Jersey,H Carlyon,BDH Stevens,MJ Ansell,0,0,,,,,,"",""
+ball,1,4.2,Jersey,H Carlyon,BDH Stevens,MJ Ansell,0,0,,,,,,"",""
+ball,1,4.3,Jersey,H Carlyon,BDH Stevens,MJ Ansell,1,0,,,,,,"",""
+ball,1,4.4,Jersey,BDH Stevens,H Carlyon,MJ Ansell,1,0,,,,,,"",""
+ball,1,4.5,Jersey,H Carlyon,BDH Stevens,MJ Ansell,1,0,,,,,,"",""
+ball,1,4.6,Jersey,BDH Stevens,H Carlyon,MJ Ansell,6,0,,,,,,"",""
+ball,1,5.1,Jersey,H Carlyon,BDH Stevens,CJ Langford,1,0,,,,,,"",""
+ball,1,5.2,Jersey,BDH Stevens,H Carlyon,CJ Langford,0,0,,,,,,"",""
+ball,1,5.3,Jersey,BDH Stevens,H Carlyon,CJ Langford,0,0,,,,,,"",""
+ball,1,5.4,Jersey,BDH Stevens,H Carlyon,CJ Langford,1,0,,,,,,"",""
+ball,1,5.5,Jersey,H Carlyon,BDH Stevens,CJ Langford,0,0,,,,,,"",""
+ball,1,5.6,Jersey,H Carlyon,BDH Stevens,CJ Langford,0,0,,,,,,"",""
+ball,1,6.1,Jersey,BDH Stevens,H Carlyon,S Mills,1,0,,,,,,"",""
+ball,1,6.2,Jersey,H Carlyon,BDH Stevens,S Mills,1,0,,,,,,"",""
+ball,1,6.3,Jersey,BDH Stevens,H Carlyon,S Mills,0,1,1,,,,,"",""
+ball,1,6.4,Jersey,BDH Stevens,H Carlyon,S Mills,4,1,,1,,,,"",""
+ball,1,6.5,Jersey,BDH Stevens,H Carlyon,S Mills,0,0,,,,,,"",""
+ball,1,6.6,Jersey,BDH Stevens,H Carlyon,S Mills,0,1,1,,,,,"",""
+ball,1,6.7,Jersey,BDH Stevens,H Carlyon,S Mills,1,0,,,,,,"",""
+ball,1,6.8,Jersey,H Carlyon,BDH Stevens,S Mills,1,0,,,,,,"",""
+ball,1,6.9,Jersey,BDH Stevens,H Carlyon,S Mills,1,0,,,,,,"",""
+ball,1,7.1,Jersey,BDH Stevens,H Carlyon,CJ Langford,1,0,,,,,,"",""
+ball,1,7.2,Jersey,H Carlyon,BDH Stevens,CJ Langford,2,0,,,,,,"",""
+ball,1,7.3,Jersey,H Carlyon,BDH Stevens,CJ Langford,1,0,,,,,,"",""
+ball,1,7.4,Jersey,BDH Stevens,H Carlyon,CJ Langford,0,0,,,,,,"",""
+ball,1,7.5,Jersey,BDH Stevens,H Carlyon,CJ Langford,2,0,,,,,,"",""
+ball,1,7.6,Jersey,BDH Stevens,H Carlyon,CJ Langford,0,0,,,,,,"",""
+ball,1,8.1,Jersey,H Carlyon,BDH Stevens,S Mills,2,0,,,,,,"",""
+ball,1,8.2,Jersey,H Carlyon,BDH Stevens,S Mills,0,1,,1,,,,"",""
+ball,1,8.3,Jersey,H Carlyon,BDH Stevens,S Mills,0,1,1,,,,,"",""
+ball,1,8.4,Jersey,H Carlyon,BDH Stevens,S Mills,1,0,,,,,,"",""
+ball,1,8.5,Jersey,BDH Stevens,H Carlyon,S Mills,1,0,,,,,,"",""
+ball,1,8.6,Jersey,H Carlyon,BDH Stevens,S Mills,1,0,,,,,,"",""
+ball,1,8.7,Jersey,BDH Stevens,H Carlyon,S Mills,1,0,,,,,,"",""
+ball,1,8.8,Jersey,H Carlyon,BDH Stevens,S Mills,0,0,,,,,,"",""
+ball,1,9.1,Jersey,BDH Stevens,H Carlyon,CJ Langford,0,0,,,,,,"",""
+ball,1,9.2,Jersey,BDH Stevens,H Carlyon,CJ Langford,1,0,,,,,,"",""
+ball,1,9.3,Jersey,H Carlyon,BDH Stevens,CJ Langford,2,0,,,,,,"",""
+ball,1,9.4,Jersey,H Carlyon,BDH Stevens,CJ Langford,0,0,,,,,,"",""
+ball,1,9.5,Jersey,H Carlyon,BDH Stevens,CJ Langford,4,0,,,,,,"",""
+ball,1,9.6,Jersey,H Carlyon,BDH Stevens,CJ Langford,0,0,,,,,,"",""
+ball,1,10.1,Jersey,BDH Stevens,H Carlyon,N White,1,0,,,,,,"",""
+ball,1,10.2,Jersey,H Carlyon,BDH Stevens,N White,1,0,,,,,,"",""
+ball,1,10.3,Jersey,BDH Stevens,H Carlyon,N White,6,0,,,,,,"",""
+ball,1,10.4,Jersey,BDH Stevens,H Carlyon,N White,1,0,,,,,,"",""
+ball,1,10.5,Jersey,H Carlyon,BDH Stevens,N White,1,0,,,,,,"",""
+ball,1,10.6,Jersey,BDH Stevens,H Carlyon,N White,1,0,,,,,,"",""
+ball,1,11.1,Jersey,BDH Stevens,H Carlyon,CJ Langford,2,0,,,,,,"",""
+ball,1,11.2,Jersey,BDH Stevens,H Carlyon,CJ Langford,1,0,,,,,,"",""
+ball,1,11.3,Jersey,H Carlyon,BDH Stevens,CJ Langford,2,0,,,,,,"",""
+ball,1,11.4,Jersey,H Carlyon,BDH Stevens,CJ Langford,1,0,,,,,,"",""
+ball,1,11.5,Jersey,BDH Stevens,H Carlyon,CJ Langford,4,0,,,,,,"",""
+ball,1,11.6,Jersey,BDH Stevens,H Carlyon,CJ Langford,2,0,,,,,,"",""
+ball,1,12.1,Jersey,H Carlyon,BDH Stevens,N White,0,0,,,,,,"",""
+ball,1,12.2,Jersey,H Carlyon,BDH Stevens,N White,0,0,,,,,,"",""
+ball,1,12.3,Jersey,H Carlyon,BDH Stevens,N White,1,0,,,,,,"",""
+ball,1,12.4,Jersey,BDH Stevens,H Carlyon,N White,0,0,,,,,,"",""
+ball,1,12.5,Jersey,BDH Stevens,H Carlyon,N White,2,0,,,,,,"",""
+ball,1,12.6,Jersey,BDH Stevens,H Carlyon,N White,1,0,,,,,,"",""
+ball,1,13.1,Jersey,BDH Stevens,H Carlyon,MJ Ansell,0,0,,,,,,"",""
+ball,1,13.2,Jersey,BDH Stevens,H Carlyon,MJ Ansell,1,0,,,,,,"",""
+ball,1,13.3,Jersey,H Carlyon,BDH Stevens,MJ Ansell,1,0,,,,,,"",""
+ball,1,13.4,Jersey,BDH Stevens,H Carlyon,MJ Ansell,1,0,,,,,,"",""
+ball,1,13.5,Jersey,H Carlyon,BDH Stevens,MJ Ansell,4,0,,,,,,"",""
+ball,1,13.6,Jersey,H Carlyon,BDH Stevens,MJ Ansell,0,0,,,,,,"",""
+ball,1,14.1,Jersey,BDH Stevens,H Carlyon,N White,0,0,,,,,,"",""
+ball,1,14.2,Jersey,BDH Stevens,H Carlyon,N White,2,0,,,,,,"",""
+ball,1,14.3,Jersey,BDH Stevens,H Carlyon,N White,2,0,,,,,,"",""
+ball,1,14.4,Jersey,BDH Stevens,H Carlyon,N White,0,0,,,,,,"",""
+ball,1,14.5,Jersey,BDH Stevens,H Carlyon,N White,1,0,,,,,,"",""
+ball,1,14.6,Jersey,H Carlyon,BDH Stevens,N White,1,0,,,,,,"",""
+ball,1,15.1,Jersey,H Carlyon,BDH Stevens,S Mills,0,1,1,,,,,"",""
+ball,1,15.2,Jersey,H Carlyon,BDH Stevens,S Mills,0,1,1,,,,,"",""
+ball,1,15.3,Jersey,H Carlyon,BDH Stevens,S Mills,1,0,,,,,,"",""
+ball,1,15.4,Jersey,BDH Stevens,H Carlyon,S Mills,1,0,,,,,,"",""
+ball,1,15.5,Jersey,H Carlyon,BDH Stevens,S Mills,2,0,,,,,,"",""
+ball,1,15.6,Jersey,H Carlyon,BDH Stevens,S Mills,1,0,,,,,,"",""
+ball,1,15.7,Jersey,BDH Stevens,H Carlyon,S Mills,4,0,,,,,,"",""
+ball,1,15.8,Jersey,BDH Stevens,H Carlyon,S Mills,1,0,,,,,,"",""
+ball,1,16.1,Jersey,BDH Stevens,H Carlyon,N White,2,0,,,,,,"",""
+ball,1,16.2,Jersey,BDH Stevens,H Carlyon,N White,0,0,,,,,,"",""
+ball,1,16.3,Jersey,BDH Stevens,H Carlyon,N White,0,0,,,,,,"",""
+ball,1,16.4,Jersey,BDH Stevens,H Carlyon,N White,2,0,,,,,,"",""
+ball,1,16.5,Jersey,BDH Stevens,H Carlyon,N White,1,0,,,,,,"",""
+ball,1,16.6,Jersey,H Carlyon,BDH Stevens,N White,4,0,,,,,,"",""
+ball,1,17.1,Jersey,BDH Stevens,H Carlyon,K Cawte,1,0,,,,,,"",""
+ball,1,17.2,Jersey,H Carlyon,BDH Stevens,K Cawte,0,0,,,,,,"",""
+ball,1,17.3,Jersey,H Carlyon,BDH Stevens,K Cawte,1,0,,,,,,"",""
+ball,1,17.4,Jersey,BDH Stevens,H Carlyon,K Cawte,4,0,,,,,,"",""
+ball,1,17.5,Jersey,BDH Stevens,H Carlyon,K Cawte,4,0,,,,,,"",""
+ball,1,17.6,Jersey,BDH Stevens,H Carlyon,K Cawte,0,0,,,,,,"",""
+ball,1,18.1,Jersey,H Carlyon,BDH Stevens,S Mills,4,0,,,,,,"",""
+ball,1,18.2,Jersey,H Carlyon,BDH Stevens,S Mills,2,0,,,,,,"",""
+ball,1,18.3,Jersey,H Carlyon,BDH Stevens,S Mills,1,0,,,,,,"",""
+ball,1,18.4,Jersey,BDH Stevens,H Carlyon,S Mills,2,0,,,,,,"",""
+ball,1,18.5,Jersey,BDH Stevens,H Carlyon,S Mills,2,0,,,,,,"",""
+ball,1,18.6,Jersey,BDH Stevens,H Carlyon,S Mills,0,5,5,,,,,"",""
+ball,1,18.7,Jersey,BDH Stevens,H Carlyon,S Mills,0,1,1,,,,,"",""
+ball,1,18.8,Jersey,BDH Stevens,H Carlyon,S Mills,0,0,,,,,,"",""
+ball,1,19.1,Jersey,H Carlyon,BDH Stevens,K Cawte,2,0,,,,,,"",""
+ball,1,19.2,Jersey,H Carlyon,BDH Stevens,K Cawte,0,0,,,,,,"",""
+ball,1,19.3,Jersey,H Carlyon,BDH Stevens,K Cawte,0,0,,,,,,"",""
+ball,1,19.4,Jersey,H Carlyon,BDH Stevens,K Cawte,1,0,,,,,,"",""
+ball,1,19.5,Jersey,BDH Stevens,H Carlyon,K Cawte,0,0,,,,,,bowled,BDH Stevens
+ball,1,19.6,Jersey,C Bisson,H Carlyon,K Cawte,0,0,,,,,,caught,C Bisson
+ball,2,0.1,Isle of Man,A McAuley,N Knights,H Carlyon,0,0,,,,,,"",""
+ball,2,0.2,Isle of Man,A McAuley,N Knights,H Carlyon,0,0,,,,,,"",""
+ball,2,0.3,Isle of Man,A McAuley,N Knights,H Carlyon,2,0,,,,,,"",""
+ball,2,0.4,Isle of Man,A McAuley,N Knights,H Carlyon,2,0,,,,,,"",""
+ball,2,0.5,Isle of Man,A McAuley,N Knights,H Carlyon,0,2,,,2,,,"",""
+ball,2,0.6,Isle of Man,A McAuley,N Knights,H Carlyon,1,0,,,,,,"",""
+ball,2,1.1,Isle of Man,A McAuley,N Knights,CW Perchard,0,0,,,,,,"",""
+ball,2,1.2,Isle of Man,A McAuley,N Knights,CW Perchard,0,0,,,,,,"",""
+ball,2,1.3,Isle of Man,A McAuley,N Knights,CW Perchard,0,0,,,,,,"",""
+ball,2,1.4,Isle of Man,A McAuley,N Knights,CW Perchard,1,0,,,,,,"",""
+ball,2,1.5,Isle of Man,N Knights,A McAuley,CW Perchard,0,0,,,,,,"",""
+ball,2,1.6,Isle of Man,N Knights,A McAuley,CW Perchard,2,0,,,,,,"",""
+ball,2,2.1,Isle of Man,A McAuley,N Knights,J Sumerauer,0,0,,,,,,"",""
+ball,2,2.2,Isle of Man,A McAuley,N Knights,J Sumerauer,0,0,,,,,,"",""
+ball,2,2.3,Isle of Man,A McAuley,N Knights,J Sumerauer,0,0,,,,,,caught,A McAuley
+ball,2,2.4,Isle of Man,EF Beard,N Knights,J Sumerauer,0,1,1,,,,,"",""
+ball,2,2.5,Isle of Man,EF Beard,N Knights,J Sumerauer,1,0,,,,,,"",""
+ball,2,2.6,Isle of Man,N Knights,EF Beard,J Sumerauer,1,0,,,,,,"",""
+ball,2,2.7,Isle of Man,EF Beard,N Knights,J Sumerauer,0,0,,,,,,"",""
+ball,2,3.1,Isle of Man,N Knights,EF Beard,EJB Miles,0,0,,,,,,"",""
+ball,2,3.2,Isle of Man,N Knights,EF Beard,EJB Miles,0,0,,,,,,"",""
+ball,2,3.3,Isle of Man,N Knights,EF Beard,EJB Miles,0,0,,,,,,"",""
+ball,2,3.4,Isle of Man,N Knights,EF Beard,EJB Miles,1,0,,,,,,"",""
+ball,2,3.5,Isle of Man,EF Beard,N Knights,EJB Miles,0,0,,,,,,"",""
+ball,2,3.6,Isle of Man,EF Beard,N Knights,EJB Miles,0,0,,,,,,"",""
+ball,2,4.1,Isle of Man,N Knights,EF Beard,J Sumerauer,1,0,,,,,,"",""
+ball,2,4.2,Isle of Man,EF Beard,N Knights,J Sumerauer,1,0,,,,,,"",""
+ball,2,4.3,Isle of Man,N Knights,EF Beard,J Sumerauer,0,0,,,,,,"",""
+ball,2,4.4,Isle of Man,N Knights,EF Beard,J Sumerauer,4,0,,,,,,"",""
+ball,2,4.5,Isle of Man,N Knights,EF Beard,J Sumerauer,4,0,,,,,,"",""
+ball,2,4.6,Isle of Man,N Knights,EF Beard,J Sumerauer,0,0,,,,,,"",""
+ball,2,5.1,Isle of Man,EF Beard,N Knights,EJB Miles,1,0,,,,,,"",""
+ball,2,5.2,Isle of Man,N Knights,EF Beard,EJB Miles,1,0,,,,,,"",""
+ball,2,5.3,Isle of Man,EF Beard,N Knights,EJB Miles,0,0,,,,,,"",""
+ball,2,5.4,Isle of Man,EF Beard,N Knights,EJB Miles,1,0,,,,,,"",""
+ball,2,5.5,Isle of Man,N Knights,EF Beard,EJB Miles,0,0,,,,,,caught,N Knights
+ball,2,5.6,Isle of Man,EF Beard,D Kniveton,EJB Miles,3,0,,,,,,"",""
+ball,2,6.1,Isle of Man,EF Beard,D Kniveton,H Carlyon,1,0,,,,,,"",""
+ball,2,6.2,Isle of Man,D Kniveton,EF Beard,H Carlyon,1,0,,,,,,"",""
+ball,2,6.3,Isle of Man,EF Beard,D Kniveton,H Carlyon,0,1,,,,1,,"",""
+ball,2,6.4,Isle of Man,D Kniveton,EF Beard,H Carlyon,0,0,,,,,,"",""
+ball,2,6.5,Isle of Man,D Kniveton,EF Beard,H Carlyon,0,0,,,,,,"",""
+ball,2,6.6,Isle of Man,D Kniveton,EF Beard,H Carlyon,2,0,,,,,,"",""
+ball,2,7.1,Isle of Man,EF Beard,D Kniveton,BDH Stevens,0,0,,,,,,"",""
+ball,2,7.2,Isle of Man,EF Beard,D Kniveton,BDH Stevens,2,0,,,,,,"",""
+ball,2,7.3,Isle of Man,EF Beard,D Kniveton,BDH Stevens,1,0,,,,,,"",""
+ball,2,7.4,Isle of Man,D Kniveton,EF Beard,BDH Stevens,1,0,,,,,,"",""
+ball,2,7.5,Isle of Man,EF Beard,D Kniveton,BDH Stevens,2,0,,,,,,"",""
+ball,2,7.6,Isle of Man,EF Beard,D Kniveton,BDH Stevens,2,0,,,,,,"",""
+ball,2,8.1,Isle of Man,D Kniveton,EF Beard,B Ward,1,0,,,,,,"",""
+ball,2,8.2,Isle of Man,EF Beard,D Kniveton,B Ward,1,0,,,,,,"",""
+ball,2,8.3,Isle of Man,D Kniveton,EF Beard,B Ward,0,0,,,,,,"",""
+ball,2,8.4,Isle of Man,D Kniveton,EF Beard,B Ward,1,0,,,,,,"",""
+ball,2,8.5,Isle of Man,EF Beard,D Kniveton,B Ward,1,0,,,,,,"",""
+ball,2,8.6,Isle of Man,D Kniveton,EF Beard,B Ward,1,0,,,,,,"",""
+ball,2,9.1,Isle of Man,D Kniveton,EF Beard,CW Perchard,0,0,,,,,,"",""
+ball,2,9.2,Isle of Man,D Kniveton,EF Beard,CW Perchard,1,0,,,,,,"",""
+ball,2,9.3,Isle of Man,EF Beard,D Kniveton,CW Perchard,2,0,,,,,,"",""
+ball,2,9.4,Isle of Man,EF Beard,D Kniveton,CW Perchard,1,0,,,,,,"",""
+ball,2,9.5,Isle of Man,D Kniveton,EF Beard,CW Perchard,1,0,,,,,,"",""
+ball,2,9.6,Isle of Man,EF Beard,D Kniveton,CW Perchard,0,0,,,,,,caught and bowled,EF Beard
+ball,2,10.1,Isle of Man,D Kniveton,OJ Webster,BDH Stevens,0,0,,,,,,"",""
+ball,2,10.2,Isle of Man,D Kniveton,OJ Webster,BDH Stevens,0,0,,,,,,"",""
+ball,2,10.3,Isle of Man,D Kniveton,OJ Webster,BDH Stevens,1,0,,,,,,"",""
+ball,2,10.4,Isle of Man,OJ Webster,D Kniveton,BDH Stevens,1,0,,,,,,"",""
+ball,2,10.5,Isle of Man,D Kniveton,OJ Webster,BDH Stevens,1,0,,,,,,"",""
+ball,2,10.6,Isle of Man,OJ Webster,D Kniveton,BDH Stevens,0,0,,,,,,"",""
+ball,2,11.1,Isle of Man,D Kniveton,OJ Webster,B Ward,1,0,,,,,,"",""
+ball,2,11.2,Isle of Man,OJ Webster,D Kniveton,B Ward,1,0,,,,,,"",""
+ball,2,11.3,Isle of Man,D Kniveton,OJ Webster,B Ward,1,0,,,,,,"",""
+ball,2,11.4,Isle of Man,OJ Webster,D Kniveton,B Ward,1,0,,,,,,"",""
+ball,2,11.5,Isle of Man,D Kniveton,OJ Webster,B Ward,1,0,,,,,,"",""
+ball,2,11.6,Isle of Man,OJ Webster,D Kniveton,B Ward,1,0,,,,,,"",""
+ball,2,12.1,Isle of Man,OJ Webster,D Kniveton,EJB Miles,4,0,,,,,,"",""
+ball,2,12.2,Isle of Man,OJ Webster,D Kniveton,EJB Miles,0,1,,,,1,,"",""
+ball,2,12.3,Isle of Man,D Kniveton,OJ Webster,EJB Miles,1,0,,,,,,"",""
+ball,2,12.4,Isle of Man,OJ Webster,D Kniveton,EJB Miles,3,0,,,,,,"",""
+ball,2,12.5,Isle of Man,D Kniveton,OJ Webster,EJB Miles,4,0,,,,,,"",""
+ball,2,12.6,Isle of Man,D Kniveton,OJ Webster,EJB Miles,1,0,,,,,,"",""
+ball,2,13.1,Isle of Man,D Kniveton,OJ Webster,CW Perchard,1,0,,,,,,"",""
+ball,2,13.2,Isle of Man,OJ Webster,D Kniveton,CW Perchard,0,0,,,,,,"",""
+ball,2,13.3,Isle of Man,OJ Webster,D Kniveton,CW Perchard,1,0,,,,,,"",""
+ball,2,13.4,Isle of Man,D Kniveton,OJ Webster,CW Perchard,1,0,,,,,,"",""
+ball,2,13.5,Isle of Man,OJ Webster,D Kniveton,CW Perchard,1,0,,,,,,"",""
+ball,2,13.6,Isle of Man,D Kniveton,OJ Webster,CW Perchard,0,0,,,,,,"",""
+ball,2,14.1,Isle of Man,OJ Webster,D Kniveton,BDH Stevens,1,0,,,,,,"",""
+ball,2,14.2,Isle of Man,D Kniveton,OJ Webster,BDH Stevens,0,0,,,,,,"",""
+ball,2,14.3,Isle of Man,D Kniveton,OJ Webster,BDH Stevens,1,0,,,,,,run out,D Kniveton
+ball,2,14.4,Isle of Man,G Burrows,OJ Webster,BDH Stevens,1,0,,,,,,"",""
+ball,2,14.5,Isle of Man,OJ Webster,G Burrows,BDH Stevens,0,0,,,,,,"",""
+ball,2,14.6,Isle of Man,OJ Webster,G Burrows,BDH Stevens,0,0,,,,,,"",""
+ball,2,15.1,Isle of Man,G Burrows,OJ Webster,H Carlyon,1,0,,,,,,"",""
+ball,2,15.2,Isle of Man,OJ Webster,G Burrows,H Carlyon,0,0,,,,,,bowled,OJ Webster
+ball,2,15.3,Isle of Man,N White,G Burrows,H Carlyon,0,0,,,,,,caught and bowled,N White
+ball,2,15.4,Isle of Man,MJ Ansell,G Burrows,H Carlyon,0,0,,,,,,"",""
+ball,2,15.5,Isle of Man,MJ Ansell,G Burrows,H Carlyon,2,0,,,,,,"",""
+ball,2,15.6,Isle of Man,MJ Ansell,G Burrows,H Carlyon,0,0,,,,,,"",""
+ball,2,16.1,Isle of Man,G Burrows,MJ Ansell,B Ward,0,0,,,,,,"",""
+ball,2,16.2,Isle of Man,G Burrows,MJ Ansell,B Ward,2,0,,,,,,"",""
+ball,2,16.3,Isle of Man,G Burrows,MJ Ansell,B Ward,1,0,,,,,,"",""
+ball,2,16.4,Isle of Man,MJ Ansell,G Burrows,B Ward,4,0,,,,,,"",""
+ball,2,16.5,Isle of Man,MJ Ansell,G Burrows,B Ward,2,0,,,,,,"",""
+ball,2,16.6,Isle of Man,MJ Ansell,G Burrows,B Ward,2,0,,,,,,"",""
+ball,2,17.1,Isle of Man,G Burrows,MJ Ansell,BDH Stevens,1,0,,,,,,"",""
+ball,2,17.2,Isle of Man,MJ Ansell,G Burrows,BDH Stevens,0,0,,,,,,caught,MJ Ansell
+ball,2,17.3,Isle of Man,G Burrows,CJ Langford,BDH Stevens,2,0,,,,,,"",""
+ball,2,17.4,Isle of Man,G Burrows,CJ Langford,BDH Stevens,1,0,,,,,,"",""
+ball,2,17.5,Isle of Man,CJ Langford,G Burrows,BDH Stevens,0,0,,,,,,"",""
+ball,2,17.6,Isle of Man,CJ Langford,G Burrows,BDH Stevens,0,1,1,,,,,hit wicket,CJ Langford
+ball,2,17.7,Isle of Man,S Mills,G Burrows,BDH Stevens,0,0,,,,,,caught,S Mills
+ball,2,18.1,Isle of Man,K Cawte,G Burrows,H Carlyon,0,0,,,,,,"",""
+ball,2,18.2,Isle of Man,K Cawte,G Burrows,H Carlyon,0,0,,,,,,bowled,K Cawte

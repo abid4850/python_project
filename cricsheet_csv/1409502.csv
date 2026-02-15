@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Wellington
+info,gender,male
+info,season,2023/24
+info,date,2024/01/22
+info,event,Super Smash
+info,match_number,29
+info,venue,"Basin Reserve, Wellington"
+info,city,Wellington
+info,toss_winner,Wellington
+info,toss_decision,field
+info,player_of_match,HM Nicholls
+info,umpire,JM Dempsey
+info,umpire,PJ Pasco
+info,reserve_umpire,A Stanley
+info,tv_umpire,Glen Walklin
+info,match_referee,K Pulley
+info,winner,Canterbury
+info,winner_runs,18
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,BJ Jacobs
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,MJG Rippon
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,AW McKenzie
+info,player,Canterbury,MD Rae
+info,player,Canterbury,W O'Rourke
+info,player,Wellington,NF Kelly
+info,player,Wellington,GR Severin
+info,player,Wellington,MA Abbas
+info,player,Wellington,MG Bracewell
+info,player,Wellington,TM Johnson
+info,player,Wellington,CR McLachlan
+info,player,Wellington,NG Smith
+info,player,Wellington,LV van Beek
+info,player,Wellington,AF Milne
+info,player,Wellington,PF Younghusband
+info,player,Wellington,BV Sears
+info,registry,people,A Stanley,5a72b592
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,BJ Jacobs,972f217b
+info,registry,people,BV Sears,e1891e00
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,GR Severin,b1549dc0
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,TM Johnson,917f66da
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,ZGF Foulkes,30f92334
+ball,1,0.1,Canterbury,CJ Bowes,TWM Latham,NG Smith,0,0,,,,,,"",""
+ball,1,0.2,Canterbury,CJ Bowes,TWM Latham,NG Smith,1,0,,,,,,"",""
+ball,1,0.3,Canterbury,TWM Latham,CJ Bowes,NG Smith,1,0,,,,,,"",""
+ball,1,0.4,Canterbury,CJ Bowes,TWM Latham,NG Smith,0,0,,,,,,"",""
+ball,1,0.5,Canterbury,CJ Bowes,TWM Latham,NG Smith,3,0,,,,,,"",""
+ball,1,0.6,Canterbury,TWM Latham,CJ Bowes,NG Smith,0,0,,,,,,"",""
+ball,1,1.1,Canterbury,CJ Bowes,TWM Latham,AF Milne,0,0,,,,,,"",""
+ball,1,1.2,Canterbury,CJ Bowes,TWM Latham,AF Milne,1,0,,,,,,"",""
+ball,1,1.3,Canterbury,TWM Latham,CJ Bowes,AF Milne,0,0,,,,,,"",""
+ball,1,1.4,Canterbury,TWM Latham,CJ Bowes,AF Milne,2,0,,,,,,"",""
+ball,1,1.5,Canterbury,TWM Latham,CJ Bowes,AF Milne,0,0,,,,,,"",""
+ball,1,1.6,Canterbury,TWM Latham,CJ Bowes,AF Milne,0,0,,,,,,"",""
+ball,1,2.1,Canterbury,CJ Bowes,TWM Latham,NG Smith,0,0,,,,,,"",""
+ball,1,2.2,Canterbury,CJ Bowes,TWM Latham,NG Smith,4,0,,,,,,"",""
+ball,1,2.3,Canterbury,CJ Bowes,TWM Latham,NG Smith,2,0,,,,,,"",""
+ball,1,2.4,Canterbury,CJ Bowes,TWM Latham,NG Smith,4,0,,,,,,"",""
+ball,1,2.5,Canterbury,CJ Bowes,TWM Latham,NG Smith,1,0,,,,,,"",""
+ball,1,2.6,Canterbury,TWM Latham,CJ Bowes,NG Smith,0,0,,,,,,"",""
+ball,1,3.1,Canterbury,CJ Bowes,TWM Latham,AF Milne,0,1,1,,,,,"",""
+ball,1,3.2,Canterbury,CJ Bowes,TWM Latham,AF Milne,0,0,,,,,,"",""
+ball,1,3.3,Canterbury,CJ Bowes,TWM Latham,AF Milne,3,0,,,,,,"",""
+ball,1,3.4,Canterbury,TWM Latham,CJ Bowes,AF Milne,0,0,,,,,,"",""
+ball,1,3.5,Canterbury,TWM Latham,CJ Bowes,AF Milne,0,0,,,,,,"",""
+ball,1,3.6,Canterbury,TWM Latham,CJ Bowes,AF Milne,1,0,,,,,,"",""
+ball,1,3.7,Canterbury,CJ Bowes,TWM Latham,AF Milne,1,0,,,,,,"",""
+ball,1,4.1,Canterbury,CJ Bowes,TWM Latham,LV van Beek,0,1,,,,1,,"",""
+ball,1,4.2,Canterbury,TWM Latham,CJ Bowes,LV van Beek,4,0,,,,,,"",""
+ball,1,4.3,Canterbury,TWM Latham,CJ Bowes,LV van Beek,4,0,,,,,,"",""
+ball,1,4.4,Canterbury,TWM Latham,CJ Bowes,LV van Beek,1,0,,,,,,"",""
+ball,1,4.5,Canterbury,CJ Bowes,TWM Latham,LV van Beek,4,0,,,,,,"",""
+ball,1,4.6,Canterbury,CJ Bowes,TWM Latham,LV van Beek,1,0,,,,,,"",""
+ball,1,5.1,Canterbury,CJ Bowes,TWM Latham,MG Bracewell,1,0,,,,,,"",""
+ball,1,5.2,Canterbury,TWM Latham,CJ Bowes,MG Bracewell,4,0,,,,,,"",""
+ball,1,5.3,Canterbury,TWM Latham,CJ Bowes,MG Bracewell,1,0,,,,,,"",""
+ball,1,5.4,Canterbury,CJ Bowes,TWM Latham,MG Bracewell,4,0,,,,,,"",""
+ball,1,5.5,Canterbury,CJ Bowes,TWM Latham,MG Bracewell,1,0,,,,,,"",""
+ball,1,5.6,Canterbury,TWM Latham,CJ Bowes,MG Bracewell,1,0,,,,,,"",""
+ball,1,6.1,Canterbury,TWM Latham,CJ Bowes,BV Sears,0,1,1,,,,,"",""
+ball,1,6.2,Canterbury,TWM Latham,CJ Bowes,BV Sears,1,0,,,,,,"",""
+ball,1,6.3,Canterbury,CJ Bowes,TWM Latham,BV Sears,1,0,,,,,,"",""
+ball,1,6.4,Canterbury,TWM Latham,CJ Bowes,BV Sears,1,0,,,,,,"",""
+ball,1,6.5,Canterbury,CJ Bowes,TWM Latham,BV Sears,1,0,,,,,,"",""
+ball,1,6.6,Canterbury,TWM Latham,CJ Bowes,BV Sears,1,0,,,,,,"",""
+ball,1,6.7,Canterbury,CJ Bowes,TWM Latham,BV Sears,1,0,,,,,,"",""
+ball,1,7.1,Canterbury,CJ Bowes,TWM Latham,PF Younghusband,1,0,,,,,,"",""
+ball,1,7.2,Canterbury,TWM Latham,CJ Bowes,PF Younghusband,1,0,,,,,,"",""
+ball,1,7.3,Canterbury,CJ Bowes,TWM Latham,PF Younghusband,0,0,,,,,,"",""
+ball,1,7.4,Canterbury,CJ Bowes,TWM Latham,PF Younghusband,0,0,,,,,,caught,CJ Bowes
+ball,1,7.5,Canterbury,HM Nicholls,TWM Latham,PF Younghusband,1,0,,,,,,"",""
+ball,1,7.6,Canterbury,TWM Latham,HM Nicholls,PF Younghusband,1,0,,,,,,"",""
+ball,1,8.1,Canterbury,TWM Latham,HM Nicholls,MG Bracewell,1,0,,,,,,"",""
+ball,1,8.2,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,1,0,,,,,,"",""
+ball,1,8.3,Canterbury,TWM Latham,HM Nicholls,MG Bracewell,0,0,,,,,,"",""
+ball,1,8.4,Canterbury,TWM Latham,HM Nicholls,MG Bracewell,0,0,,,,,,"",""
+ball,1,8.5,Canterbury,TWM Latham,HM Nicholls,MG Bracewell,0,0,,,,,,"",""
+ball,1,8.6,Canterbury,TWM Latham,HM Nicholls,MG Bracewell,1,0,,,,,,"",""
+ball,1,9.1,Canterbury,TWM Latham,HM Nicholls,PF Younghusband,0,0,,,,,,"",""
+ball,1,9.2,Canterbury,TWM Latham,HM Nicholls,PF Younghusband,1,0,,,,,,"",""
+ball,1,9.3,Canterbury,HM Nicholls,TWM Latham,PF Younghusband,0,0,,,,,,"",""
+ball,1,9.4,Canterbury,HM Nicholls,TWM Latham,PF Younghusband,4,0,,,,,,"",""
+ball,1,9.5,Canterbury,HM Nicholls,TWM Latham,PF Younghusband,1,0,,,,,,"",""
+ball,1,9.6,Canterbury,TWM Latham,HM Nicholls,PF Younghusband,4,0,,,,,,"",""
+ball,1,10.1,Canterbury,HM Nicholls,TWM Latham,BV Sears,4,0,,,,,,"",""
+ball,1,10.2,Canterbury,HM Nicholls,TWM Latham,BV Sears,1,0,,,,,,"",""
+ball,1,10.3,Canterbury,TWM Latham,HM Nicholls,BV Sears,1,0,,,,,,"",""
+ball,1,10.4,Canterbury,HM Nicholls,TWM Latham,BV Sears,0,0,,,,,,"",""
+ball,1,10.5,Canterbury,HM Nicholls,TWM Latham,BV Sears,2,0,,,,,,"",""
+ball,1,10.6,Canterbury,HM Nicholls,TWM Latham,BV Sears,1,0,,,,,,"",""
+ball,1,11.1,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,4,0,,,,,,"",""
+ball,1,11.2,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,1,0,,,,,,"",""
+ball,1,11.3,Canterbury,TWM Latham,HM Nicholls,MG Bracewell,1,0,,,,,,"",""
+ball,1,11.4,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,2,0,,,,,,"",""
+ball,1,11.5,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,1,0,,,,,,"",""
+ball,1,11.6,Canterbury,TWM Latham,HM Nicholls,MG Bracewell,0,0,,,,,,"",""
+ball,1,12.1,Canterbury,HM Nicholls,TWM Latham,AF Milne,1,0,,,,,,"",""
+ball,1,12.2,Canterbury,TWM Latham,HM Nicholls,AF Milne,4,0,,,,,,"",""
+ball,1,12.3,Canterbury,TWM Latham,HM Nicholls,AF Milne,4,0,,,,,,"",""
+ball,1,12.4,Canterbury,TWM Latham,HM Nicholls,AF Milne,1,0,,,,,,"",""
+ball,1,12.5,Canterbury,HM Nicholls,TWM Latham,AF Milne,1,0,,,,,,"",""
+ball,1,12.6,Canterbury,TWM Latham,HM Nicholls,AF Milne,1,0,,,,,,"",""
+ball,1,13.1,Canterbury,TWM Latham,HM Nicholls,PF Younghusband,2,0,,,,,,"",""
+ball,1,13.2,Canterbury,TWM Latham,HM Nicholls,PF Younghusband,1,0,,,,,,"",""
+ball,1,13.3,Canterbury,HM Nicholls,TWM Latham,PF Younghusband,1,0,,,,,,"",""
+ball,1,13.4,Canterbury,TWM Latham,HM Nicholls,PF Younghusband,1,0,,,,,,"",""
+ball,1,13.5,Canterbury,HM Nicholls,TWM Latham,PF Younghusband,4,0,,,,,,"",""
+ball,1,13.6,Canterbury,HM Nicholls,TWM Latham,PF Younghusband,1,0,,,,,,"",""
+ball,1,14.1,Canterbury,HM Nicholls,TWM Latham,BV Sears,4,0,,,,,,"",""
+ball,1,14.2,Canterbury,HM Nicholls,TWM Latham,BV Sears,4,0,,,,,,"",""
+ball,1,14.3,Canterbury,HM Nicholls,TWM Latham,BV Sears,1,0,,,,,,"",""
+ball,1,14.4,Canterbury,TWM Latham,HM Nicholls,BV Sears,4,0,,,,,,"",""
+ball,1,14.5,Canterbury,TWM Latham,HM Nicholls,BV Sears,1,0,,,,,,"",""
+ball,1,14.6,Canterbury,HM Nicholls,TWM Latham,BV Sears,1,0,,,,,,"",""
+ball,1,15.1,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,4,0,,,,,,"",""
+ball,1,15.2,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,2,0,,,,,,"",""
+ball,1,15.3,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,2,0,,,,,,"",""
+ball,1,15.4,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,0,0,,,,,,"",""
+ball,1,15.5,Canterbury,HM Nicholls,TWM Latham,MG Bracewell,1,0,,,,,,"",""
+ball,1,15.6,Canterbury,TWM Latham,HM Nicholls,MG Bracewell,1,0,,,,,,"",""
+ball,1,16.1,Canterbury,TWM Latham,HM Nicholls,NG Smith,1,0,,,,,,"",""
+ball,1,16.2,Canterbury,HM Nicholls,TWM Latham,NG Smith,1,0,,,,,,"",""
+ball,1,16.3,Canterbury,TWM Latham,HM Nicholls,NG Smith,1,0,,,,,,"",""
+ball,1,16.4,Canterbury,HM Nicholls,TWM Latham,NG Smith,1,0,,,,,,"",""
+ball,1,16.5,Canterbury,TWM Latham,HM Nicholls,NG Smith,0,0,,,,,,"",""
+ball,1,16.6,Canterbury,TWM Latham,HM Nicholls,NG Smith,0,0,,,,,,"",""
+ball,1,17.1,Canterbury,HM Nicholls,TWM Latham,LV van Beek,0,0,,,,,,caught,HM Nicholls
+ball,1,17.2,Canterbury,BJ Jacobs,TWM Latham,LV van Beek,1,0,,,,,,"",""
+ball,1,17.3,Canterbury,TWM Latham,BJ Jacobs,LV van Beek,4,0,,,,,,"",""
+ball,1,17.4,Canterbury,TWM Latham,BJ Jacobs,LV van Beek,1,0,,,,,,"",""
+ball,1,17.5,Canterbury,BJ Jacobs,TWM Latham,LV van Beek,1,0,,,,,,"",""
+ball,1,17.6,Canterbury,TWM Latham,BJ Jacobs,LV van Beek,0,0,,,,,,caught and bowled,TWM Latham
+ball,1,18.1,Canterbury,BJ Jacobs,CE McConchie,AF Milne,4,0,,,,,,"",""
+ball,1,18.2,Canterbury,BJ Jacobs,CE McConchie,AF Milne,1,0,,,,,,"",""
+ball,1,18.3,Canterbury,CE McConchie,BJ Jacobs,AF Milne,0,0,,,,,,"",""
+ball,1,18.4,Canterbury,CE McConchie,BJ Jacobs,AF Milne,4,0,,,,,,"",""
+ball,1,18.5,Canterbury,CE McConchie,BJ Jacobs,AF Milne,1,0,,,,,,"",""
+ball,1,18.6,Canterbury,BJ Jacobs,CE McConchie,AF Milne,2,1,,1,,,,"",""
+ball,1,18.7,Canterbury,BJ Jacobs,CE McConchie,AF Milne,0,0,,,,,,"",""
+ball,1,19.1,Canterbury,CE McConchie,BJ Jacobs,NG Smith,0,0,,,,,,caught,CE McConchie
+ball,1,19.2,Canterbury,MJ Hay,BJ Jacobs,NG Smith,0,1,,,,1,,"",""
+ball,1,19.3,Canterbury,BJ Jacobs,MJ Hay,NG Smith,4,0,,,,,,"",""
+ball,1,19.4,Canterbury,BJ Jacobs,MJ Hay,NG Smith,4,1,,1,,,,"",""
+ball,1,19.5,Canterbury,BJ Jacobs,MJ Hay,NG Smith,0,0,,,,,,"",""
+ball,1,19.6,Canterbury,BJ Jacobs,MJ Hay,NG Smith,2,0,,,,,,"",""
+ball,1,19.7,Canterbury,BJ Jacobs,MJ Hay,NG Smith,0,1,,,1,,,"",""
+ball,2,0.1,Wellington,NF Kelly,GR Severin,W O'Rourke,0,0,,,,,,"",""
+ball,2,0.2,Wellington,NF Kelly,GR Severin,W O'Rourke,4,0,,,,,,"",""
+ball,2,0.3,Wellington,NF Kelly,GR Severin,W O'Rourke,0,0,,,,,,"",""
+ball,2,0.4,Wellington,NF Kelly,GR Severin,W O'Rourke,1,0,,,,,,"",""
+ball,2,0.5,Wellington,GR Severin,NF Kelly,W O'Rourke,4,0,,,,,,"",""
+ball,2,0.6,Wellington,GR Severin,NF Kelly,W O'Rourke,0,0,,,,,,"",""
+ball,2,1.1,Wellington,NF Kelly,GR Severin,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,1.2,Wellington,GR Severin,NF Kelly,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,1.3,Wellington,GR Severin,NF Kelly,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,1.4,Wellington,GR Severin,NF Kelly,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,1.5,Wellington,GR Severin,NF Kelly,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,1.6,Wellington,NF Kelly,GR Severin,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,2.1,Wellington,NF Kelly,GR Severin,W O'Rourke,4,0,,,,,,"",""
+ball,2,2.2,Wellington,NF Kelly,GR Severin,W O'Rourke,0,0,,,,,,"",""
+ball,2,2.3,Wellington,NF Kelly,GR Severin,W O'Rourke,1,0,,,,,,"",""
+ball,2,2.4,Wellington,GR Severin,NF Kelly,W O'Rourke,4,0,,,,,,"",""
+ball,2,2.5,Wellington,GR Severin,NF Kelly,W O'Rourke,0,0,,,,,,"",""
+ball,2,2.6,Wellington,GR Severin,NF Kelly,W O'Rourke,0,0,,,,,,"",""
+ball,2,3.1,Wellington,NF Kelly,GR Severin,ZGF Foulkes,0,1,1,,,,,"",""
+ball,2,3.2,Wellington,NF Kelly,GR Severin,ZGF Foulkes,6,0,,,,,,"",""
+ball,2,3.3,Wellington,NF Kelly,GR Severin,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,3.4,Wellington,NF Kelly,GR Severin,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,3.5,Wellington,NF Kelly,GR Severin,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,3.6,Wellington,GR Severin,NF Kelly,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,3.7,Wellington,GR Severin,NF Kelly,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,4.1,Wellington,NF Kelly,GR Severin,MD Rae,1,0,,,,,,"",""
+ball,2,4.2,Wellington,GR Severin,NF Kelly,MD Rae,1,0,,,,,,"",""
+ball,2,4.3,Wellington,NF Kelly,GR Severin,MD Rae,6,0,,,,,,"",""
+ball,2,4.4,Wellington,NF Kelly,GR Severin,MD Rae,2,0,,,,,,"",""
+ball,2,4.5,Wellington,NF Kelly,GR Severin,MD Rae,0,0,,,,,,"",""
+ball,2,4.6,Wellington,NF Kelly,GR Severin,MD Rae,0,0,,,,,,bowled,NF Kelly
+ball,2,5.1,Wellington,GR Severin,MA Abbas,AW McKenzie,1,0,,,,,,"",""
+ball,2,5.2,Wellington,MA Abbas,GR Severin,AW McKenzie,0,0,,,,,,"",""
+ball,2,5.3,Wellington,MA Abbas,GR Severin,AW McKenzie,0,0,,,,,,"",""
+ball,2,5.4,Wellington,MA Abbas,GR Severin,AW McKenzie,1,0,,,,,,"",""
+ball,2,5.5,Wellington,GR Severin,MA Abbas,AW McKenzie,0,0,,,,,,"",""
+ball,2,5.6,Wellington,GR Severin,MA Abbas,AW McKenzie,4,0,,,,,,"",""
+ball,2,6.1,Wellington,MA Abbas,GR Severin,MD Rae,4,0,,,,,,"",""
+ball,2,6.2,Wellington,MA Abbas,GR Severin,MD Rae,0,0,,,,,,"",""
+ball,2,6.3,Wellington,MA Abbas,GR Severin,MD Rae,0,0,,,,,,caught,MA Abbas
+ball,2,6.4,Wellington,MG Bracewell,GR Severin,MD Rae,1,0,,,,,,"",""
+ball,2,6.5,Wellington,GR Severin,MG Bracewell,MD Rae,1,0,,,,,,"",""
+ball,2,6.6,Wellington,MG Bracewell,GR Severin,MD Rae,1,0,,,,,,"",""
+ball,2,7.1,Wellington,MG Bracewell,GR Severin,CE McConchie,2,0,,,,,,"",""
+ball,2,7.2,Wellington,MG Bracewell,GR Severin,CE McConchie,6,0,,,,,,"",""
+ball,2,7.3,Wellington,MG Bracewell,GR Severin,CE McConchie,1,0,,,,,,"",""
+ball,2,7.4,Wellington,GR Severin,MG Bracewell,CE McConchie,1,0,,,,,,"",""
+ball,2,7.5,Wellington,MG Bracewell,GR Severin,CE McConchie,1,0,,,,,,"",""
+ball,2,7.6,Wellington,GR Severin,MG Bracewell,CE McConchie,0,0,,,,,,"",""
+ball,2,8.1,Wellington,MG Bracewell,GR Severin,MJG Rippon,6,0,,,,,,"",""
+ball,2,8.2,Wellington,MG Bracewell,GR Severin,MJG Rippon,1,0,,,,,,"",""
+ball,2,8.3,Wellington,GR Severin,MG Bracewell,MJG Rippon,6,0,,,,,,"",""
+ball,2,8.4,Wellington,GR Severin,MG Bracewell,MJG Rippon,1,0,,,,,,"",""
+ball,2,8.5,Wellington,MG Bracewell,GR Severin,MJG Rippon,2,0,,,,,,"",""
+ball,2,8.6,Wellington,MG Bracewell,GR Severin,MJG Rippon,1,0,,,,,,"",""
+ball,2,9.1,Wellington,MG Bracewell,GR Severin,CE McConchie,0,0,,,,,,"",""
+ball,2,9.2,Wellington,MG Bracewell,GR Severin,CE McConchie,0,0,,,,,,"",""
+ball,2,9.3,Wellington,MG Bracewell,GR Severin,CE McConchie,1,0,,,,,,"",""
+ball,2,9.4,Wellington,GR Severin,MG Bracewell,CE McConchie,1,0,,,,,,"",""
+ball,2,9.5,Wellington,MG Bracewell,GR Severin,CE McConchie,4,0,,,,,,"",""
+ball,2,9.6,Wellington,MG Bracewell,GR Severin,CE McConchie,0,0,,,,,,"",""
+ball,2,10.1,Wellington,GR Severin,MG Bracewell,W O'Rourke,0,0,,,,,,"",""
+ball,2,10.2,Wellington,GR Severin,MG Bracewell,W O'Rourke,4,0,,,,,,"",""
+ball,2,10.3,Wellington,GR Severin,MG Bracewell,W O'Rourke,0,0,,,,,,"",""
+ball,2,10.4,Wellington,GR Severin,MG Bracewell,W O'Rourke,1,0,,,,,,"",""
+ball,2,10.5,Wellington,MG Bracewell,GR Severin,W O'Rourke,6,0,,,,,,"",""
+ball,2,10.6,Wellington,MG Bracewell,GR Severin,W O'Rourke,0,0,,,,,,caught,MG Bracewell
+ball,2,11.1,Wellington,GR Severin,TM Johnson,MJG Rippon,1,0,,,,,,"",""
+ball,2,11.2,Wellington,TM Johnson,GR Severin,MJG Rippon,0,0,,,,,,"",""
+ball,2,11.3,Wellington,TM Johnson,GR Severin,MJG Rippon,0,1,1,,,,,stumped,TM Johnson
+ball,2,11.4,Wellington,CR McLachlan,GR Severin,MJG Rippon,2,0,,,,,,"",""
+ball,2,11.5,Wellington,CR McLachlan,GR Severin,MJG Rippon,1,0,,,,,,"",""
+ball,2,11.6,Wellington,GR Severin,CR McLachlan,MJG Rippon,1,0,,,,,,"",""
+ball,2,11.7,Wellington,CR McLachlan,GR Severin,MJG Rippon,1,0,,,,,,"",""
+ball,2,12.1,Wellington,CR McLachlan,GR Severin,MD Rae,0,0,,,,,,"",""
+ball,2,12.2,Wellington,CR McLachlan,GR Severin,MD Rae,0,0,,,,,,"",""
+ball,2,12.3,Wellington,CR McLachlan,GR Severin,MD Rae,1,0,,,,,,"",""
+ball,2,12.4,Wellington,GR Severin,CR McLachlan,MD Rae,1,0,,,,,,"",""
+ball,2,12.5,Wellington,CR McLachlan,GR Severin,MD Rae,0,0,,,,,,"",""
+ball,2,12.6,Wellington,CR McLachlan,GR Severin,MD Rae,1,0,,,,,,"",""
+ball,2,13.1,Wellington,CR McLachlan,GR Severin,AW McKenzie,0,0,,,,,,"",""
+ball,2,13.2,Wellington,CR McLachlan,GR Severin,AW McKenzie,1,0,,,,,,"",""
+ball,2,13.3,Wellington,GR Severin,CR McLachlan,AW McKenzie,1,0,,,,,,"",""
+ball,2,13.4,Wellington,CR McLachlan,GR Severin,AW McKenzie,0,0,,,,,,"",""
+ball,2,13.5,Wellington,CR McLachlan,GR Severin,AW McKenzie,1,0,,,,,,"",""
+ball,2,13.6,Wellington,GR Severin,CR McLachlan,AW McKenzie,2,0,,,,,,"",""
+ball,2,14.1,Wellington,CR McLachlan,GR Severin,W O'Rourke,0,0,,,,,,caught,CR McLachlan
+ball,2,14.2,Wellington,NG Smith,GR Severin,W O'Rourke,1,0,,,,,,"",""
+ball,2,14.3,Wellington,GR Severin,NG Smith,W O'Rourke,0,0,,,,,,"",""
+ball,2,14.4,Wellington,GR Severin,NG Smith,W O'Rourke,1,0,,,,,,"",""
+ball,2,14.5,Wellington,NG Smith,GR Severin,W O'Rourke,1,0,,,,,,"",""
+ball,2,14.6,Wellington,GR Severin,NG Smith,W O'Rourke,1,0,,,,,,"",""
+ball,2,15.1,Wellington,GR Severin,NG Smith,AW McKenzie,1,0,,,,,,"",""
+ball,2,15.2,Wellington,NG Smith,GR Severin,AW McKenzie,0,0,,,,,,"",""
+ball,2,15.3,Wellington,NG Smith,GR Severin,AW McKenzie,1,0,,,,,,"",""
+ball,2,15.4,Wellington,GR Severin,NG Smith,AW McKenzie,2,0,,,,,,"",""
+ball,2,15.5,Wellington,GR Severin,NG Smith,AW McKenzie,0,0,,,,,,bowled,GR Severin
+ball,2,15.6,Wellington,LV van Beek,NG Smith,AW McKenzie,1,0,,,,,,"",""
+ball,2,16.1,Wellington,LV van Beek,NG Smith,ZGF Foulkes,2,0,,,,,,"",""
+ball,2,16.2,Wellington,LV van Beek,NG Smith,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,16.3,Wellington,LV van Beek,NG Smith,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,16.4,Wellington,NG Smith,LV van Beek,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,16.5,Wellington,LV van Beek,NG Smith,ZGF Foulkes,4,0,,,,,,"",""
+ball,2,16.6,Wellington,LV van Beek,NG Smith,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,17.1,Wellington,LV van Beek,NG Smith,AW McKenzie,4,0,,,,,,"",""
+ball,2,17.2,Wellington,LV van Beek,NG Smith,AW McKenzie,0,0,,,,,,"",""
+ball,2,17.3,Wellington,LV van Beek,NG Smith,AW McKenzie,6,0,,,,,,"",""
+ball,2,17.4,Wellington,LV van Beek,NG Smith,AW McKenzie,1,0,,,,,,"",""
+ball,2,17.5,Wellington,NG Smith,LV van Beek,AW McKenzie,1,0,,,,,,"",""
+ball,2,17.6,Wellington,LV van Beek,NG Smith,AW McKenzie,0,0,,,,,,caught,LV van Beek
+ball,2,18.1,Wellington,NG Smith,AF Milne,ZGF Foulkes,0,0,,,,,,caught,NG Smith
+ball,2,18.2,Wellington,PF Younghusband,AF Milne,ZGF Foulkes,2,0,,,,,,"",""
+ball,2,18.3,Wellington,PF Younghusband,AF Milne,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,18.4,Wellington,PF Younghusband,AF Milne,ZGF Foulkes,0,0,,,,,,caught,PF Younghusband
+ball,2,18.5,Wellington,BV Sears,AF Milne,ZGF Foulkes,0,0,,,,,,"",""
+ball,2,18.6,Wellington,BV Sears,AF Milne,ZGF Foulkes,1,0,,,,,,"",""
+ball,2,19.1,Wellington,BV Sears,AF Milne,MD Rae,1,0,,,,,,"",""
+ball,2,19.2,Wellington,AF Milne,BV Sears,MD Rae,4,0,,,,,,"",""
+ball,2,19.3,Wellington,AF Milne,BV Sears,MD Rae,4,0,,,,,,"",""
+ball,2,19.4,Wellington,AF Milne,BV Sears,MD Rae,0,1,,,,1,,"",""
+ball,2,19.5,Wellington,BV Sears,AF Milne,MD Rae,1,0,,,,,,"",""
+ball,2,19.6,Wellington,AF Milne,BV Sears,MD Rae,4,0,,,,,,"",""

@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Kent
+info,gender,male
+info,season,2025
+info,date,2025/07/04
+info,event,Vitality Blast Men
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,NJ Llong
+info,match_referee,DA Cosker
+info,winner,Sussex
+info,winner_runs,34
+info,player,Sussex,HD Ward
+info,player,Sussex,DP Hughes
+info,player,Sussex,TGR Clark
+info,player,Sussex,JM Coles
+info,player,Sussex,TP Alsop
+info,player,Sussex,JA Simpson
+info,player,Sussex,DJ Lamb
+info,player,Sussex,N McAndrew
+info,player,Sussex,OE Robinson
+info,player,Sussex,TS Mills
+info,player,Sussex,HT Crocombe
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,HZ Finch
+info,player,Kent,JL Denly
+info,player,Kent,SW Billings
+info,player,Kent,JDM Evison
+info,player,Kent,JA Leaning
+info,player,Kent,TS Rogers
+info,player,Kent,FJ Klaassen
+info,player,Kent,NN Gilchrist
+info,player,Kent,MW Parkinson
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,HZ Finch,6b16f8ba
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,MW Parkinson,19708692
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NN Gilchrist,93cad673
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,TS Rogers,1b04e02b
+ball,1,0.1,Sussex,HD Ward,DP Hughes,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.2,Sussex,HD Ward,DP Hughes,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.3,Sussex,HD Ward,DP Hughes,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.4,Sussex,HD Ward,DP Hughes,FJ Klaassen,0,0,,,,,,"",""
+ball,1,0.5,Sussex,HD Ward,DP Hughes,FJ Klaassen,6,0,,,,,,"",""
+ball,1,0.6,Sussex,HD Ward,DP Hughes,FJ Klaassen,0,0,,,,,,"",""
+ball,1,1.1,Sussex,DP Hughes,HD Ward,TS Rogers,4,0,,,,,,"",""
+ball,1,1.2,Sussex,DP Hughes,HD Ward,TS Rogers,1,0,,,,,,"",""
+ball,1,1.3,Sussex,HD Ward,DP Hughes,TS Rogers,0,0,,,,,,"",""
+ball,1,1.4,Sussex,HD Ward,DP Hughes,TS Rogers,1,0,,,,,,"",""
+ball,1,1.5,Sussex,DP Hughes,HD Ward,TS Rogers,0,1,,,,1,,"",""
+ball,1,1.6,Sussex,HD Ward,DP Hughes,TS Rogers,1,0,,,,,,"",""
+ball,1,2.1,Sussex,HD Ward,DP Hughes,FJ Klaassen,1,0,,,,,,"",""
+ball,1,2.2,Sussex,DP Hughes,HD Ward,FJ Klaassen,0,0,,,,,,"",""
+ball,1,2.3,Sussex,DP Hughes,HD Ward,FJ Klaassen,0,0,,,,,,"",""
+ball,1,2.4,Sussex,DP Hughes,HD Ward,FJ Klaassen,1,0,,,,,,"",""
+ball,1,2.5,Sussex,HD Ward,DP Hughes,FJ Klaassen,1,0,,,,,,"",""
+ball,1,2.6,Sussex,DP Hughes,HD Ward,FJ Klaassen,1,0,,,,,,"",""
+ball,1,3.1,Sussex,DP Hughes,HD Ward,NN Gilchrist,0,0,,,,,,"",""
+ball,1,3.2,Sussex,DP Hughes,HD Ward,NN Gilchrist,2,0,,,,,,"",""
+ball,1,3.3,Sussex,DP Hughes,HD Ward,NN Gilchrist,4,0,,,,,,"",""
+ball,1,3.4,Sussex,DP Hughes,HD Ward,NN Gilchrist,0,1,,,,1,,"",""
+ball,1,3.5,Sussex,HD Ward,DP Hughes,NN Gilchrist,1,0,,,,,,"",""
+ball,1,3.6,Sussex,DP Hughes,HD Ward,NN Gilchrist,4,0,,,,,,"",""
+ball,1,4.1,Sussex,HD Ward,DP Hughes,JA Leaning,0,0,,,,,,bowled,HD Ward
+ball,1,4.2,Sussex,TGR Clark,DP Hughes,JA Leaning,0,0,,,,,,"",""
+ball,1,4.3,Sussex,TGR Clark,DP Hughes,JA Leaning,4,0,,,,,,"",""
+ball,1,4.4,Sussex,TGR Clark,DP Hughes,JA Leaning,4,0,,,,,,"",""
+ball,1,4.5,Sussex,TGR Clark,DP Hughes,JA Leaning,0,1,1,,,,,"",""
+ball,1,4.6,Sussex,TGR Clark,DP Hughes,JA Leaning,1,0,,,,,,"",""
+ball,1,4.7,Sussex,DP Hughes,TGR Clark,JA Leaning,6,0,,,,,,"",""
+ball,1,5.1,Sussex,TGR Clark,DP Hughes,TS Rogers,0,4,,,,4,,"",""
+ball,1,5.2,Sussex,TGR Clark,DP Hughes,TS Rogers,0,2,2,,,,,"",""
+ball,1,5.3,Sussex,DP Hughes,TGR Clark,TS Rogers,4,0,,,,,,"",""
+ball,1,5.4,Sussex,DP Hughes,TGR Clark,TS Rogers,1,0,,,,,,"",""
+ball,1,5.5,Sussex,TGR Clark,DP Hughes,TS Rogers,0,0,,,,,,"",""
+ball,1,5.6,Sussex,TGR Clark,DP Hughes,TS Rogers,1,0,,,,,,"",""
+ball,1,5.7,Sussex,DP Hughes,TGR Clark,TS Rogers,0,0,,,,,,"",""
+ball,1,6.1,Sussex,TGR Clark,DP Hughes,JDM Evison,1,0,,,,,,"",""
+ball,1,6.2,Sussex,DP Hughes,TGR Clark,JDM Evison,1,0,,,,,,"",""
+ball,1,6.3,Sussex,TGR Clark,DP Hughes,JDM Evison,1,0,,,,,,"",""
+ball,1,6.4,Sussex,DP Hughes,TGR Clark,JDM Evison,1,0,,,,,,"",""
+ball,1,6.5,Sussex,TGR Clark,DP Hughes,JDM Evison,4,0,,,,,,"",""
+ball,1,6.6,Sussex,TGR Clark,DP Hughes,JDM Evison,2,0,,,,,,"",""
+ball,1,7.1,Sussex,DP Hughes,TGR Clark,MW Parkinson,4,0,,,,,,"",""
+ball,1,7.2,Sussex,DP Hughes,TGR Clark,MW Parkinson,1,0,,,,,,"",""
+ball,1,7.3,Sussex,TGR Clark,DP Hughes,MW Parkinson,1,0,,,,,,"",""
+ball,1,7.4,Sussex,DP Hughes,TGR Clark,MW Parkinson,1,0,,,,,,"",""
+ball,1,7.5,Sussex,TGR Clark,DP Hughes,MW Parkinson,6,0,,,,,,"",""
+ball,1,7.6,Sussex,TGR Clark,DP Hughes,MW Parkinson,0,0,,,,,,"",""
+ball,1,8.1,Sussex,DP Hughes,TGR Clark,JA Leaning,1,0,,,,,,"",""
+ball,1,8.2,Sussex,TGR Clark,DP Hughes,JA Leaning,6,0,,,,,,"",""
+ball,1,8.3,Sussex,TGR Clark,DP Hughes,JA Leaning,1,0,,,,,,"",""
+ball,1,8.4,Sussex,DP Hughes,TGR Clark,JA Leaning,4,0,,,,,,"",""
+ball,1,8.5,Sussex,DP Hughes,TGR Clark,JA Leaning,0,4,,,4,,,"",""
+ball,1,8.6,Sussex,DP Hughes,TGR Clark,JA Leaning,0,0,,,,,,"",""
+ball,1,9.1,Sussex,TGR Clark,DP Hughes,JDM Evison,6,0,,,,,,"",""
+ball,1,9.2,Sussex,TGR Clark,DP Hughes,JDM Evison,1,0,,,,,,"",""
+ball,1,9.3,Sussex,DP Hughes,TGR Clark,JDM Evison,1,0,,,,,,"",""
+ball,1,9.4,Sussex,TGR Clark,DP Hughes,JDM Evison,1,0,,,,,,"",""
+ball,1,9.5,Sussex,DP Hughes,TGR Clark,JDM Evison,6,0,,,,,,"",""
+ball,1,9.6,Sussex,DP Hughes,TGR Clark,JDM Evison,0,0,,,,,,bowled,DP Hughes
+ball,1,10.1,Sussex,TGR Clark,JM Coles,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.2,Sussex,JM Coles,TGR Clark,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.3,Sussex,TGR Clark,JM Coles,MW Parkinson,0,0,,,,,,"",""
+ball,1,10.4,Sussex,TGR Clark,JM Coles,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.5,Sussex,JM Coles,TGR Clark,MW Parkinson,4,0,,,,,,"",""
+ball,1,10.6,Sussex,JM Coles,TGR Clark,MW Parkinson,6,0,,,,,,"",""
+ball,1,11.1,Sussex,TGR Clark,JM Coles,JDM Evison,0,1,,,,1,,"",""
+ball,1,11.2,Sussex,JM Coles,TGR Clark,JDM Evison,1,0,,,,,,"",""
+ball,1,11.3,Sussex,TGR Clark,JM Coles,JDM Evison,1,0,,,,,,"",""
+ball,1,11.4,Sussex,JM Coles,TGR Clark,JDM Evison,0,0,,,,,,bowled,JM Coles
+ball,1,11.5,Sussex,TP Alsop,TGR Clark,JDM Evison,2,0,,,,,,"",""
+ball,1,11.6,Sussex,TP Alsop,TGR Clark,JDM Evison,0,0,,,,,,"",""
+ball,1,12.1,Sussex,TGR Clark,TP Alsop,NN Gilchrist,0,0,,,,,,lbw,TGR Clark
+ball,1,12.2,Sussex,JA Simpson,TP Alsop,NN Gilchrist,0,0,,,,,,"",""
+ball,1,12.3,Sussex,JA Simpson,TP Alsop,NN Gilchrist,0,0,,,,,,"",""
+ball,1,12.4,Sussex,JA Simpson,TP Alsop,NN Gilchrist,0,1,1,,,,,"",""
+ball,1,12.5,Sussex,JA Simpson,TP Alsop,NN Gilchrist,1,0,,,,,,"",""
+ball,1,12.6,Sussex,TP Alsop,JA Simpson,NN Gilchrist,1,0,,,,,,"",""
+ball,1,12.7,Sussex,JA Simpson,TP Alsop,NN Gilchrist,0,0,,,,,,"",""
+ball,1,13.1,Sussex,TP Alsop,JA Simpson,JDM Evison,4,0,,,,,,"",""
+ball,1,13.2,Sussex,TP Alsop,JA Simpson,JDM Evison,0,0,,,,,,"",""
+ball,1,13.3,Sussex,TP Alsop,JA Simpson,JDM Evison,1,0,,,,,,"",""
+ball,1,13.4,Sussex,JA Simpson,TP Alsop,JDM Evison,1,0,,,,,,"",""
+ball,1,13.5,Sussex,TP Alsop,JA Simpson,JDM Evison,1,0,,,,,,"",""
+ball,1,13.6,Sussex,JA Simpson,TP Alsop,JDM Evison,6,0,,,,,,"",""
+ball,1,14.1,Sussex,TP Alsop,JA Simpson,FJ Klaassen,0,1,,,,1,,"",""
+ball,1,14.2,Sussex,JA Simpson,TP Alsop,FJ Klaassen,1,0,,,,,,"",""
+ball,1,14.3,Sussex,TP Alsop,JA Simpson,FJ Klaassen,4,0,,,,,,"",""
+ball,1,14.4,Sussex,TP Alsop,JA Simpson,FJ Klaassen,2,0,,,,,,"",""
+ball,1,14.5,Sussex,TP Alsop,JA Simpson,FJ Klaassen,0,0,,,,,,caught,TP Alsop
+ball,1,14.6,Sussex,DJ Lamb,JA Simpson,FJ Klaassen,1,0,,,,,,"",""
+ball,1,15.1,Sussex,DJ Lamb,JA Simpson,TS Rogers,0,0,,,,,,"",""
+ball,1,15.2,Sussex,DJ Lamb,JA Simpson,TS Rogers,0,0,,,,,,"",""
+ball,1,15.3,Sussex,DJ Lamb,JA Simpson,TS Rogers,1,0,,,,,,"",""
+ball,1,15.4,Sussex,JA Simpson,DJ Lamb,TS Rogers,1,0,,,,,,"",""
+ball,1,15.5,Sussex,DJ Lamb,JA Simpson,TS Rogers,1,0,,,,,,"",""
+ball,1,15.6,Sussex,JA Simpson,DJ Lamb,TS Rogers,2,0,,,,,,"",""
+ball,1,16.1,Sussex,DJ Lamb,JA Simpson,NN Gilchrist,0,0,,,,,,"",""
+ball,1,16.2,Sussex,DJ Lamb,JA Simpson,NN Gilchrist,0,0,,,,,,"",""
+ball,1,16.3,Sussex,DJ Lamb,JA Simpson,NN Gilchrist,1,0,,,,,,"",""
+ball,1,16.4,Sussex,JA Simpson,DJ Lamb,NN Gilchrist,0,0,,,,,,caught,JA Simpson
+ball,1,16.5,Sussex,N McAndrew,DJ Lamb,NN Gilchrist,1,0,,,,,,"",""
+ball,1,16.6,Sussex,DJ Lamb,N McAndrew,NN Gilchrist,1,0,,,,,,"",""
+ball,1,17.1,Sussex,DJ Lamb,N McAndrew,TS Rogers,1,0,,,,,,"",""
+ball,1,17.2,Sussex,N McAndrew,DJ Lamb,TS Rogers,4,0,,,,,,"",""
+ball,1,17.3,Sussex,N McAndrew,DJ Lamb,TS Rogers,0,0,,,,,,bowled,N McAndrew
+ball,1,17.4,Sussex,OE Robinson,DJ Lamb,TS Rogers,1,0,,,,,,"",""
+ball,1,17.5,Sussex,DJ Lamb,OE Robinson,TS Rogers,1,0,,,,,,"",""
+ball,1,17.6,Sussex,OE Robinson,DJ Lamb,TS Rogers,0,0,,,,,,"",""
+ball,1,18.1,Sussex,DJ Lamb,OE Robinson,NN Gilchrist,0,1,1,,,,,"",""
+ball,1,18.2,Sussex,DJ Lamb,OE Robinson,NN Gilchrist,0,0,,,,,,caught,DJ Lamb
+ball,1,18.3,Sussex,TS Mills,OE Robinson,NN Gilchrist,0,2,,2,,,,"",""
+ball,1,18.4,Sussex,TS Mills,OE Robinson,NN Gilchrist,0,1,,,1,,,"",""
+ball,1,18.5,Sussex,OE Robinson,TS Mills,NN Gilchrist,0,2,,2,,,,"",""
+ball,1,18.6,Sussex,OE Robinson,TS Mills,NN Gilchrist,1,0,,,,,,"",""
+ball,1,18.7,Sussex,TS Mills,OE Robinson,NN Gilchrist,2,0,,,,,,"",""
+ball,1,18.8,Sussex,TS Mills,OE Robinson,NN Gilchrist,4,0,,,,,,"",""
+ball,1,18.9,Sussex,TS Mills,OE Robinson,NN Gilchrist,2,0,,,,,,"",""
+ball,1,19.1,Sussex,OE Robinson,TS Mills,FJ Klaassen,4,0,,,,,,"",""
+ball,1,19.2,Sussex,OE Robinson,TS Mills,FJ Klaassen,0,0,,,,,,"",""
+ball,1,19.3,Sussex,OE Robinson,TS Mills,FJ Klaassen,0,0,,,,,,run out,TS Mills
+ball,1,19.4,Sussex,HT Crocombe,OE Robinson,FJ Klaassen,0,1,,,1,,,"",""
+ball,1,19.5,Sussex,OE Robinson,HT Crocombe,FJ Klaassen,1,0,,,,,,"",""
+ball,1,19.6,Sussex,HT Crocombe,OE Robinson,FJ Klaassen,4,0,,,,,,"",""
+ball,2,0.1,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,2,0,,,,,,"",""
+ball,2,0.2,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,0,0,,,,,,"",""
+ball,2,0.3,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,4,0,,,,,,"",""
+ball,2,0.4,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,1,0,,,,,,"",""
+ball,2,0.5,Kent,DJ Bell-Drummond,TS Muyeye,OE Robinson,1,0,,,,,,"",""
+ball,2,0.6,Kent,TS Muyeye,DJ Bell-Drummond,OE Robinson,0,0,,,,,,"",""
+ball,2,1.1,Kent,DJ Bell-Drummond,TS Muyeye,JM Coles,0,1,1,,,,,"",""
+ball,2,1.2,Kent,DJ Bell-Drummond,TS Muyeye,JM Coles,0,0,,,,,,"",""
+ball,2,1.3,Kent,DJ Bell-Drummond,TS Muyeye,JM Coles,0,0,,,,,,"",""
+ball,2,1.4,Kent,DJ Bell-Drummond,TS Muyeye,JM Coles,1,0,,,,,,"",""
+ball,2,1.5,Kent,TS Muyeye,DJ Bell-Drummond,JM Coles,0,0,,,,,,bowled,TS Muyeye
+ball,2,1.6,Kent,HZ Finch,DJ Bell-Drummond,JM Coles,2,0,,,,,,"",""
+ball,2,1.7,Kent,HZ Finch,DJ Bell-Drummond,JM Coles,1,0,,,,,,"",""
+ball,2,2.1,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,0,0,,,,,,"",""
+ball,2,2.2,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,0,0,,,,,,"",""
+ball,2,2.3,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,4,0,,,,,,"",""
+ball,2,2.4,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,2,0,,,,,,"",""
+ball,2,2.5,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,1,0,,,,,,"",""
+ball,2,2.6,Kent,DJ Bell-Drummond,HZ Finch,OE Robinson,0,0,,,,,,"",""
+ball,2,3.1,Kent,HZ Finch,DJ Bell-Drummond,JM Coles,0,0,,,,,,"",""
+ball,2,3.2,Kent,HZ Finch,DJ Bell-Drummond,JM Coles,1,0,,,,,,"",""
+ball,2,3.3,Kent,DJ Bell-Drummond,HZ Finch,JM Coles,4,0,,,,,,"",""
+ball,2,3.4,Kent,DJ Bell-Drummond,HZ Finch,JM Coles,0,0,,,,,,"",""
+ball,2,3.5,Kent,DJ Bell-Drummond,HZ Finch,JM Coles,4,0,,,,,,"",""
+ball,2,3.6,Kent,DJ Bell-Drummond,HZ Finch,JM Coles,0,0,,,,,,"",""
+ball,2,4.1,Kent,HZ Finch,DJ Bell-Drummond,N McAndrew,0,0,,,,,,"",""
+ball,2,4.2,Kent,HZ Finch,DJ Bell-Drummond,N McAndrew,2,0,,,,,,"",""
+ball,2,4.3,Kent,HZ Finch,DJ Bell-Drummond,N McAndrew,4,0,,,,,,"",""
+ball,2,4.4,Kent,HZ Finch,DJ Bell-Drummond,N McAndrew,6,0,,,,,,"",""
+ball,2,4.5,Kent,HZ Finch,DJ Bell-Drummond,N McAndrew,0,0,,,,,,"",""
+ball,2,4.6,Kent,HZ Finch,DJ Bell-Drummond,N McAndrew,1,0,,,,,,"",""
+ball,2,5.1,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,0,0,,,,,,"",""
+ball,2,5.2,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,4,0,,,,,,"",""
+ball,2,5.3,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,6,0,,,,,,"",""
+ball,2,5.4,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,6,0,,,,,,"",""
+ball,2,5.5,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,4,0,,,,,,"",""
+ball,2,5.6,Kent,HZ Finch,DJ Bell-Drummond,OE Robinson,6,0,,,,,,"",""
+ball,2,6.1,Kent,DJ Bell-Drummond,HZ Finch,TS Mills,4,0,,,,,,"",""
+ball,2,6.2,Kent,DJ Bell-Drummond,HZ Finch,TS Mills,1,0,,,,,,"",""
+ball,2,6.3,Kent,HZ Finch,DJ Bell-Drummond,TS Mills,0,1,1,,,,,"",""
+ball,2,6.4,Kent,HZ Finch,DJ Bell-Drummond,TS Mills,1,0,,,,,,"",""
+ball,2,6.5,Kent,DJ Bell-Drummond,HZ Finch,TS Mills,1,0,,,,,,"",""
+ball,2,6.6,Kent,HZ Finch,DJ Bell-Drummond,TS Mills,0,1,1,,,,,"",""
+ball,2,6.7,Kent,HZ Finch,DJ Bell-Drummond,TS Mills,0,0,,,,,,"",""
+ball,2,6.8,Kent,HZ Finch,DJ Bell-Drummond,TS Mills,1,0,,,,,,"",""
+ball,2,7.1,Kent,HZ Finch,DJ Bell-Drummond,HT Crocombe,4,0,,,,,,"",""
+ball,2,7.2,Kent,HZ Finch,DJ Bell-Drummond,HT Crocombe,0,0,,,,,,caught,HZ Finch
+ball,2,7.3,Kent,JL Denly,DJ Bell-Drummond,HT Crocombe,1,0,,,,,,"",""
+ball,2,7.4,Kent,DJ Bell-Drummond,JL Denly,HT Crocombe,1,0,,,,,,"",""
+ball,2,7.5,Kent,JL Denly,DJ Bell-Drummond,HT Crocombe,1,0,,,,,,"",""
+ball,2,7.6,Kent,DJ Bell-Drummond,JL Denly,HT Crocombe,0,0,,,,,,"",""
+ball,2,8.1,Kent,JL Denly,DJ Bell-Drummond,DJ Lamb,1,0,,,,,,"",""
+ball,2,8.2,Kent,DJ Bell-Drummond,JL Denly,DJ Lamb,1,0,,,,,,"",""
+ball,2,8.3,Kent,JL Denly,DJ Bell-Drummond,DJ Lamb,0,0,,,,,,bowled,JL Denly
+ball,2,8.4,Kent,SW Billings,DJ Bell-Drummond,DJ Lamb,1,0,,,,,,"",""
+ball,2,8.5,Kent,DJ Bell-Drummond,SW Billings,DJ Lamb,1,0,,,,,,"",""
+ball,2,8.6,Kent,SW Billings,DJ Bell-Drummond,DJ Lamb,2,0,,,,,,"",""
+ball,2,9.1,Kent,DJ Bell-Drummond,SW Billings,HT Crocombe,1,0,,,,,,"",""
+ball,2,9.2,Kent,SW Billings,DJ Bell-Drummond,HT Crocombe,1,0,,,,,,"",""
+ball,2,9.3,Kent,DJ Bell-Drummond,SW Billings,HT Crocombe,2,0,,,,,,"",""
+ball,2,9.4,Kent,DJ Bell-Drummond,SW Billings,HT Crocombe,1,0,,,,,,"",""
+ball,2,9.5,Kent,SW Billings,DJ Bell-Drummond,HT Crocombe,0,2,2,,,,,"",""
+ball,2,9.6,Kent,DJ Bell-Drummond,SW Billings,HT Crocombe,1,0,,,,,,"",""
+ball,2,9.7,Kent,SW Billings,DJ Bell-Drummond,HT Crocombe,6,0,,,,,,"",""
+ball,2,10.1,Kent,DJ Bell-Drummond,SW Billings,DJ Lamb,2,0,,,,,,"",""
+ball,2,10.2,Kent,DJ Bell-Drummond,SW Billings,DJ Lamb,0,0,,,,,,caught,DJ Bell-Drummond
+ball,2,10.3,Kent,JDM Evison,SW Billings,DJ Lamb,0,0,,,,,,"",""
+ball,2,10.4,Kent,JDM Evison,SW Billings,DJ Lamb,1,0,,,,,,"",""
+ball,2,10.5,Kent,SW Billings,JDM Evison,DJ Lamb,1,0,,,,,,"",""
+ball,2,10.6,Kent,JDM Evison,SW Billings,DJ Lamb,1,0,,,,,,"",""
+ball,2,11.1,Kent,JDM Evison,SW Billings,JM Coles,1,0,,,,,,"",""
+ball,2,11.2,Kent,SW Billings,JDM Evison,JM Coles,0,0,,,,,,"",""
+ball,2,11.3,Kent,SW Billings,JDM Evison,JM Coles,1,0,,,,,,"",""
+ball,2,11.4,Kent,JDM Evison,SW Billings,JM Coles,0,0,,,,,,"",""
+ball,2,11.5,Kent,JDM Evison,SW Billings,JM Coles,1,0,,,,,,"",""
+ball,2,11.6,Kent,SW Billings,JDM Evison,JM Coles,4,0,,,,,,"",""
+ball,2,12.1,Kent,JDM Evison,SW Billings,TS Mills,1,0,,,,,,"",""
+ball,2,12.2,Kent,SW Billings,JDM Evison,TS Mills,0,0,,,,,,caught,SW Billings
+ball,2,12.3,Kent,JA Leaning,JDM Evison,TS Mills,0,0,,,,,,"",""
+ball,2,12.4,Kent,JA Leaning,JDM Evison,TS Mills,1,0,,,,,,"",""
+ball,2,12.5,Kent,JDM Evison,JA Leaning,TS Mills,1,0,,,,,,"",""
+ball,2,12.6,Kent,JA Leaning,JDM Evison,TS Mills,1,0,,,,,,"",""
+ball,2,13.1,Kent,JA Leaning,JDM Evison,N McAndrew,1,0,,,,,,"",""
+ball,2,13.2,Kent,JDM Evison,JA Leaning,N McAndrew,1,0,,,,,,"",""
+ball,2,13.3,Kent,JA Leaning,JDM Evison,N McAndrew,0,1,1,,,,,"",""
+ball,2,13.4,Kent,JA Leaning,JDM Evison,N McAndrew,0,0,,,,,,"",""
+ball,2,13.5,Kent,JA Leaning,JDM Evison,N McAndrew,4,0,,,,,,"",""
+ball,2,13.6,Kent,JA Leaning,JDM Evison,N McAndrew,1,0,,,,,,"",""
+ball,2,13.7,Kent,JDM Evison,JA Leaning,N McAndrew,4,0,,,,,,"",""
+ball,2,14.1,Kent,JA Leaning,JDM Evison,DJ Lamb,0,0,,,,,,"",""
+ball,2,14.2,Kent,JA Leaning,JDM Evison,DJ Lamb,1,0,,,,,,"",""
+ball,2,14.3,Kent,JDM Evison,JA Leaning,DJ Lamb,0,0,,,,,,"",""
+ball,2,14.4,Kent,JDM Evison,JA Leaning,DJ Lamb,0,0,,,,,,caught,JDM Evison
+ball,2,14.5,Kent,TS Rogers,JA Leaning,DJ Lamb,1,0,,,,,,"",""
+ball,2,14.6,Kent,JA Leaning,TS Rogers,DJ Lamb,1,0,,,,,,"",""
+ball,2,15.1,Kent,JA Leaning,TS Rogers,JM Coles,1,0,,,,,,"",""
+ball,2,15.2,Kent,TS Rogers,JA Leaning,JM Coles,1,0,,,,,,"",""
+ball,2,15.3,Kent,JA Leaning,TS Rogers,JM Coles,1,0,,,,,,"",""
+ball,2,15.4,Kent,TS Rogers,JA Leaning,JM Coles,0,0,,,,,,"",""
+ball,2,15.5,Kent,TS Rogers,JA Leaning,JM Coles,1,0,,,,,,"",""
+ball,2,15.6,Kent,JA Leaning,TS Rogers,JM Coles,4,0,,,,,,"",""
+ball,2,16.1,Kent,TS Rogers,JA Leaning,TS Mills,0,0,,,,,,"",""
+ball,2,16.2,Kent,TS Rogers,JA Leaning,TS Mills,1,0,,,,,,"",""
+ball,2,16.3,Kent,JA Leaning,TS Rogers,TS Mills,0,0,,,,,,bowled,JA Leaning
+ball,2,16.4,Kent,FJ Klaassen,TS Rogers,TS Mills,0,0,,,,,,"",""
+ball,2,16.5,Kent,FJ Klaassen,TS Rogers,TS Mills,1,0,,,,,,"",""
+ball,2,16.6,Kent,TS Rogers,FJ Klaassen,TS Mills,0,0,,,,,,caught,TS Rogers
+ball,2,17.1,Kent,FJ Klaassen,NN Gilchrist,OE Robinson,0,0,,,,,,"",""
+ball,2,17.2,Kent,FJ Klaassen,NN Gilchrist,OE Robinson,4,0,,,,,,"",""
+ball,2,17.3,Kent,FJ Klaassen,NN Gilchrist,OE Robinson,1,0,,,,,,"",""
+ball,2,17.4,Kent,NN Gilchrist,FJ Klaassen,OE Robinson,1,0,,,,,,"",""
+ball,2,17.5,Kent,FJ Klaassen,NN Gilchrist,OE Robinson,2,0,,,,,,"",""
+ball,2,17.6,Kent,FJ Klaassen,NN Gilchrist,OE Robinson,1,0,,,,,,"",""
+ball,2,18.1,Kent,FJ Klaassen,NN Gilchrist,TS Mills,0,0,,,,,,"",""
+ball,2,18.2,Kent,FJ Klaassen,NN Gilchrist,TS Mills,0,1,,,1,,,"",""
+ball,2,18.3,Kent,NN Gilchrist,FJ Klaassen,TS Mills,0,0,,,,,,"",""
+ball,2,18.4,Kent,NN Gilchrist,FJ Klaassen,TS Mills,1,0,,,,,,"",""
+ball,2,18.5,Kent,FJ Klaassen,NN Gilchrist,TS Mills,0,1,1,,,,,"",""
+ball,2,18.6,Kent,FJ Klaassen,NN Gilchrist,TS Mills,0,0,,,,,,"",""
+ball,2,18.7,Kent,FJ Klaassen,NN Gilchrist,TS Mills,2,0,,,,,,"",""
+ball,2,19.1,Kent,NN Gilchrist,FJ Klaassen,DJ Lamb,0,0,,,,,,bowled,NN Gilchrist
+ball,2,19.2,Kent,MW Parkinson,FJ Klaassen,DJ Lamb,1,0,,,,,,"",""
+ball,2,19.3,Kent,FJ Klaassen,MW Parkinson,DJ Lamb,0,0,,,,,,"",""
+ball,2,19.4,Kent,FJ Klaassen,MW Parkinson,DJ Lamb,0,0,,,,,,bowled,FJ Klaassen

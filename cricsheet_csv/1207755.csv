@@ -1,0 +1,311 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Derbyshire
+info,gender,male
+info,season,2020
+info,date,2020/09/13
+info,event,Vitality Blast
+info,venue,Trent Bridge
+info,city,Nottingham
+info,toss_winner,Nottinghamshire
+info,toss_decision,bat
+info,player_of_match,JM Clarke
+info,umpire,James Middlebrook
+info,umpire,PK Baldwin
+info,match_referee,TJ Boon
+info,winner,Nottinghamshire
+info,winner_runs,13
+info,player,Nottinghamshire,CD Nash
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,DT Christian
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,BM Duckett
+info,player,Nottinghamshire,SR Patel
+info,player,Nottinghamshire,Imad Wasim
+info,player,Nottinghamshire,JT Ball
+info,player,Nottinghamshire,M Carter
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,BA Godleman
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,MJJ Critchley
+info,player,Derbyshire,AL Hughes
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,Anuj Dal
+info,player,Derbyshire,HR Hosein
+info,player,Derbyshire,MA Cohen
+info,player,Derbyshire,DR Melton
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AL Hughes,1066a976
+info,registry,people,Anuj Dal,e142c599
+info,registry,people,BA Godleman,b26b1e3d
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CD Nash,6f049d41
+info,registry,people,DR Melton,879aedd7
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,HR Hosein,ae01eb1e
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,LM Reece,9789e56e
+info,registry,people,M Carter,1ca7c00f
+info,registry,people,MA Cohen,fc6f22e9
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,SR Patel,18fac429
+info,registry,people,TJ Boon,0bdf177a
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,WL Madsen,86e0f3f0
+ball,1,0.1,Nottinghamshire,CD Nash,AD Hales,MH McKiernan,1,0,,,,,,"",""
+ball,1,0.2,Nottinghamshire,AD Hales,CD Nash,MH McKiernan,0,0,,,,,,"",""
+ball,1,0.3,Nottinghamshire,AD Hales,CD Nash,MH McKiernan,4,0,,,,,,"",""
+ball,1,0.4,Nottinghamshire,AD Hales,CD Nash,MH McKiernan,1,0,,,,,,"",""
+ball,1,0.5,Nottinghamshire,CD Nash,AD Hales,MH McKiernan,1,0,,,,,,"",""
+ball,1,0.6,Nottinghamshire,AD Hales,CD Nash,MH McKiernan,0,0,,,,,,"",""
+ball,1,1.1,Nottinghamshire,CD Nash,AD Hales,DR Melton,1,0,,,,,,"",""
+ball,1,1.2,Nottinghamshire,AD Hales,CD Nash,DR Melton,1,0,,,,,,"",""
+ball,1,1.3,Nottinghamshire,CD Nash,AD Hales,DR Melton,0,1,1,,,,,"",""
+ball,1,1.4,Nottinghamshire,CD Nash,AD Hales,DR Melton,0,0,,,,,,caught,CD Nash
+ball,1,1.5,Nottinghamshire,AD Hales,JM Clarke,DR Melton,4,0,,,,,,"",""
+ball,1,1.6,Nottinghamshire,AD Hales,JM Clarke,DR Melton,1,0,,,,,,"",""
+ball,1,1.7,Nottinghamshire,JM Clarke,AD Hales,DR Melton,4,0,,,,,,"",""
+ball,1,2.1,Nottinghamshire,AD Hales,JM Clarke,MH McKiernan,0,0,,,,,,"",""
+ball,1,2.2,Nottinghamshire,AD Hales,JM Clarke,MH McKiernan,4,0,,,,,,"",""
+ball,1,2.3,Nottinghamshire,AD Hales,JM Clarke,MH McKiernan,4,0,,,,,,"",""
+ball,1,2.4,Nottinghamshire,AD Hales,JM Clarke,MH McKiernan,1,0,,,,,,"",""
+ball,1,2.5,Nottinghamshire,JM Clarke,AD Hales,MH McKiernan,0,0,,,,,,"",""
+ball,1,2.6,Nottinghamshire,JM Clarke,AD Hales,MH McKiernan,2,0,,,,,,"",""
+ball,1,3.1,Nottinghamshire,AD Hales,JM Clarke,MA Cohen,0,0,,,,,,"",""
+ball,1,3.2,Nottinghamshire,AD Hales,JM Clarke,MA Cohen,0,0,,,,,,"",""
+ball,1,3.3,Nottinghamshire,AD Hales,JM Clarke,MA Cohen,4,0,,,,,,"",""
+ball,1,3.4,Nottinghamshire,AD Hales,JM Clarke,MA Cohen,4,0,,,,,,"",""
+ball,1,3.5,Nottinghamshire,AD Hales,JM Clarke,MA Cohen,4,0,,,,,,"",""
+ball,1,3.6,Nottinghamshire,AD Hales,JM Clarke,MA Cohen,4,0,,,,,,"",""
+ball,1,4.1,Nottinghamshire,JM Clarke,AD Hales,WL Madsen,0,1,,,1,,,"",""
+ball,1,4.2,Nottinghamshire,AD Hales,JM Clarke,WL Madsen,0,0,,,,,,"",""
+ball,1,4.3,Nottinghamshire,AD Hales,JM Clarke,WL Madsen,0,0,,,,,,"",""
+ball,1,4.4,Nottinghamshire,AD Hales,JM Clarke,WL Madsen,1,0,,,,,,"",""
+ball,1,4.5,Nottinghamshire,JM Clarke,AD Hales,WL Madsen,4,0,,,,,,"",""
+ball,1,4.6,Nottinghamshire,JM Clarke,AD Hales,WL Madsen,1,0,,,,,,"",""
+ball,1,5.1,Nottinghamshire,JM Clarke,AD Hales,DR Melton,4,0,,,,,,"",""
+ball,1,5.2,Nottinghamshire,JM Clarke,AD Hales,DR Melton,0,0,,,,,,"",""
+ball,1,5.3,Nottinghamshire,JM Clarke,AD Hales,DR Melton,0,1,1,,,,,"",""
+ball,1,5.4,Nottinghamshire,JM Clarke,AD Hales,DR Melton,1,0,,,,,,"",""
+ball,1,5.5,Nottinghamshire,AD Hales,JM Clarke,DR Melton,2,0,,,,,,"",""
+ball,1,5.6,Nottinghamshire,AD Hales,JM Clarke,DR Melton,0,0,,,,,,"",""
+ball,1,5.7,Nottinghamshire,AD Hales,JM Clarke,DR Melton,4,0,,,,,,"",""
+ball,1,6.1,Nottinghamshire,JM Clarke,AD Hales,MJJ Critchley,0,0,,,,,,"",""
+ball,1,6.2,Nottinghamshire,JM Clarke,AD Hales,MJJ Critchley,1,0,,,,,,"",""
+ball,1,6.3,Nottinghamshire,AD Hales,JM Clarke,MJJ Critchley,1,0,,,,,,"",""
+ball,1,6.4,Nottinghamshire,JM Clarke,AD Hales,MJJ Critchley,1,0,,,,,,"",""
+ball,1,6.5,Nottinghamshire,AD Hales,JM Clarke,MJJ Critchley,1,0,,,,,,"",""
+ball,1,6.6,Nottinghamshire,JM Clarke,AD Hales,MJJ Critchley,1,0,,,,,,"",""
+ball,1,7.1,Nottinghamshire,JM Clarke,AD Hales,AL Hughes,1,0,,,,,,"",""
+ball,1,7.2,Nottinghamshire,AD Hales,JM Clarke,AL Hughes,0,0,,,,,,"",""
+ball,1,7.3,Nottinghamshire,AD Hales,JM Clarke,AL Hughes,1,0,,,,,,"",""
+ball,1,7.4,Nottinghamshire,JM Clarke,AD Hales,AL Hughes,6,0,,,,,,"",""
+ball,1,7.5,Nottinghamshire,JM Clarke,AD Hales,AL Hughes,0,0,,,,,,"",""
+ball,1,7.6,Nottinghamshire,JM Clarke,AD Hales,AL Hughes,1,0,,,,,,"",""
+ball,1,8.1,Nottinghamshire,JM Clarke,AD Hales,MJJ Critchley,1,0,,,,,,"",""
+ball,1,8.2,Nottinghamshire,AD Hales,JM Clarke,MJJ Critchley,0,0,,,,,,"",""
+ball,1,8.3,Nottinghamshire,AD Hales,JM Clarke,MJJ Critchley,1,0,,,,,,"",""
+ball,1,8.4,Nottinghamshire,JM Clarke,AD Hales,MJJ Critchley,1,0,,,,,,"",""
+ball,1,8.5,Nottinghamshire,AD Hales,JM Clarke,MJJ Critchley,1,0,,,,,,"",""
+ball,1,8.6,Nottinghamshire,JM Clarke,AD Hales,MJJ Critchley,2,0,,,,,,"",""
+ball,1,9.1,Nottinghamshire,AD Hales,JM Clarke,AL Hughes,1,0,,,,,,"",""
+ball,1,9.2,Nottinghamshire,JM Clarke,AD Hales,AL Hughes,0,0,,,,,,"",""
+ball,1,9.3,Nottinghamshire,JM Clarke,AD Hales,AL Hughes,6,0,,,,,,"",""
+ball,1,9.4,Nottinghamshire,JM Clarke,AD Hales,AL Hughes,1,0,,,,,,"",""
+ball,1,9.5,Nottinghamshire,AD Hales,JM Clarke,AL Hughes,0,0,,,,,,caught,AD Hales
+ball,1,9.6,Nottinghamshire,JM Clarke,TJ Moores,AL Hughes,1,0,,,,,,"",""
+ball,1,10.1,Nottinghamshire,JM Clarke,TJ Moores,MJJ Critchley,1,0,,,,,,"",""
+ball,1,10.2,Nottinghamshire,TJ Moores,JM Clarke,MJJ Critchley,4,0,,,,,,"",""
+ball,1,10.3,Nottinghamshire,TJ Moores,JM Clarke,MJJ Critchley,1,0,,,,,,"",""
+ball,1,10.4,Nottinghamshire,JM Clarke,TJ Moores,MJJ Critchley,4,0,,,,,,"",""
+ball,1,10.5,Nottinghamshire,JM Clarke,TJ Moores,MJJ Critchley,4,0,,,,,,"",""
+ball,1,10.6,Nottinghamshire,JM Clarke,TJ Moores,MJJ Critchley,1,0,,,,,,"",""
+ball,1,11.1,Nottinghamshire,JM Clarke,TJ Moores,AL Hughes,1,0,,,,,,"",""
+ball,1,11.2,Nottinghamshire,TJ Moores,JM Clarke,AL Hughes,4,0,,,,,,"",""
+ball,1,11.3,Nottinghamshire,TJ Moores,JM Clarke,AL Hughes,1,0,,,,,,"",""
+ball,1,11.4,Nottinghamshire,JM Clarke,TJ Moores,AL Hughes,2,0,,,,,,"",""
+ball,1,11.5,Nottinghamshire,JM Clarke,TJ Moores,AL Hughes,1,0,,,,,,"",""
+ball,1,11.6,Nottinghamshire,TJ Moores,JM Clarke,AL Hughes,1,0,,,,,,"",""
+ball,1,12.1,Nottinghamshire,TJ Moores,JM Clarke,LM Reece,1,0,,,,,,"",""
+ball,1,12.2,Nottinghamshire,JM Clarke,TJ Moores,LM Reece,0,1,,,,1,,"",""
+ball,1,12.3,Nottinghamshire,TJ Moores,JM Clarke,LM Reece,1,0,,,,,,"",""
+ball,1,12.4,Nottinghamshire,JM Clarke,TJ Moores,LM Reece,0,1,,,,1,,"",""
+ball,1,12.5,Nottinghamshire,TJ Moores,JM Clarke,LM Reece,1,0,,,,,,"",""
+ball,1,12.6,Nottinghamshire,JM Clarke,TJ Moores,LM Reece,4,0,,,,,,"",""
+ball,1,13.1,Nottinghamshire,TJ Moores,JM Clarke,AL Hughes,1,0,,,,,,"",""
+ball,1,13.2,Nottinghamshire,JM Clarke,TJ Moores,AL Hughes,0,0,,,,,,caught,JM Clarke
+ball,1,13.3,Nottinghamshire,DT Christian,TJ Moores,AL Hughes,1,0,,,,,,"",""
+ball,1,13.4,Nottinghamshire,TJ Moores,DT Christian,AL Hughes,1,0,,,,,,"",""
+ball,1,13.5,Nottinghamshire,DT Christian,TJ Moores,AL Hughes,1,0,,,,,,"",""
+ball,1,13.6,Nottinghamshire,TJ Moores,DT Christian,AL Hughes,2,0,,,,,,"",""
+ball,1,14.1,Nottinghamshire,DT Christian,TJ Moores,LM Reece,1,0,,,,,,"",""
+ball,1,14.2,Nottinghamshire,TJ Moores,DT Christian,LM Reece,4,0,,,,,,"",""
+ball,1,14.3,Nottinghamshire,TJ Moores,DT Christian,LM Reece,0,0,,,,,,"",""
+ball,1,14.4,Nottinghamshire,TJ Moores,DT Christian,LM Reece,1,0,,,,,,"",""
+ball,1,14.5,Nottinghamshire,DT Christian,TJ Moores,LM Reece,4,0,,,,,,"",""
+ball,1,14.6,Nottinghamshire,DT Christian,TJ Moores,LM Reece,4,0,,,,,,"",""
+ball,1,15.1,Nottinghamshire,TJ Moores,DT Christian,MJJ Critchley,1,0,,,,,,"",""
+ball,1,15.2,Nottinghamshire,DT Christian,TJ Moores,MJJ Critchley,0,0,,,,,,"",""
+ball,1,15.3,Nottinghamshire,DT Christian,TJ Moores,MJJ Critchley,0,0,,,,,,"",""
+ball,1,15.4,Nottinghamshire,DT Christian,TJ Moores,MJJ Critchley,0,0,,,,,,"",""
+ball,1,15.5,Nottinghamshire,DT Christian,TJ Moores,MJJ Critchley,4,0,,,,,,"",""
+ball,1,15.6,Nottinghamshire,DT Christian,TJ Moores,MJJ Critchley,0,0,,,,,,"",""
+ball,1,16.1,Nottinghamshire,TJ Moores,DT Christian,WL Madsen,1,0,,,,,,"",""
+ball,1,16.2,Nottinghamshire,DT Christian,TJ Moores,WL Madsen,6,0,,,,,,"",""
+ball,1,16.3,Nottinghamshire,DT Christian,TJ Moores,WL Madsen,6,0,,,,,,"",""
+ball,1,16.4,Nottinghamshire,DT Christian,TJ Moores,WL Madsen,0,0,,,,,,caught,DT Christian
+ball,1,16.5,Nottinghamshire,TJ Moores,SJ Mullaney,WL Madsen,6,0,,,,,,"",""
+ball,1,16.6,Nottinghamshire,TJ Moores,SJ Mullaney,WL Madsen,0,0,,,,,,"",""
+ball,1,17.1,Nottinghamshire,SJ Mullaney,TJ Moores,DR Melton,1,0,,,,,,"",""
+ball,1,17.2,Nottinghamshire,TJ Moores,SJ Mullaney,DR Melton,0,0,,,,,,bowled,TJ Moores
+ball,1,17.3,Nottinghamshire,BM Duckett,SJ Mullaney,DR Melton,0,0,,,,,,"",""
+ball,1,17.4,Nottinghamshire,BM Duckett,SJ Mullaney,DR Melton,1,0,,,,,,"",""
+ball,1,17.5,Nottinghamshire,SJ Mullaney,BM Duckett,DR Melton,0,0,,,,,,"",""
+ball,1,17.6,Nottinghamshire,SJ Mullaney,BM Duckett,DR Melton,1,0,,,,,,"",""
+ball,1,18.1,Nottinghamshire,SJ Mullaney,BM Duckett,MA Cohen,2,0,,,,,,"",""
+ball,1,18.2,Nottinghamshire,SJ Mullaney,BM Duckett,MA Cohen,1,0,,,,,,"",""
+ball,1,18.3,Nottinghamshire,BM Duckett,SJ Mullaney,MA Cohen,4,0,,,,,,"",""
+ball,1,18.4,Nottinghamshire,BM Duckett,SJ Mullaney,MA Cohen,4,0,,,,,,"",""
+ball,1,18.5,Nottinghamshire,BM Duckett,SJ Mullaney,MA Cohen,0,0,,,,,,bowled,BM Duckett
+ball,1,18.6,Nottinghamshire,SR Patel,SJ Mullaney,MA Cohen,1,0,,,,,,"",""
+ball,1,19.1,Nottinghamshire,SR Patel,SJ Mullaney,DR Melton,1,0,,,,,,"",""
+ball,1,19.2,Nottinghamshire,SJ Mullaney,SR Patel,DR Melton,0,1,,,,1,,"",""
+ball,1,19.3,Nottinghamshire,SR Patel,SJ Mullaney,DR Melton,1,0,,,,,,"",""
+ball,1,19.4,Nottinghamshire,SJ Mullaney,SR Patel,DR Melton,6,0,,,,,,"",""
+ball,1,19.5,Nottinghamshire,SJ Mullaney,SR Patel,DR Melton,1,0,,,,,,"",""
+ball,1,19.6,Nottinghamshire,SR Patel,SJ Mullaney,DR Melton,1,0,,,,,,"",""
+ball,2,0.1,Derbyshire,LM Reece,BA Godleman,Imad Wasim,0,0,,,,,,bowled,LM Reece
+ball,2,0.2,Derbyshire,WL Madsen,BA Godleman,Imad Wasim,0,0,,,,,,"",""
+ball,2,0.3,Derbyshire,WL Madsen,BA Godleman,Imad Wasim,0,0,,,,,,"",""
+ball,2,0.4,Derbyshire,WL Madsen,BA Godleman,Imad Wasim,0,2,,,,2,,"",""
+ball,2,0.5,Derbyshire,WL Madsen,BA Godleman,Imad Wasim,4,0,,,,,,"",""
+ball,2,0.6,Derbyshire,WL Madsen,BA Godleman,Imad Wasim,1,0,,,,,,"",""
+ball,2,1.1,Derbyshire,WL Madsen,BA Godleman,M Carter,6,0,,,,,,"",""
+ball,2,1.2,Derbyshire,WL Madsen,BA Godleman,M Carter,1,0,,,,,,"",""
+ball,2,1.3,Derbyshire,BA Godleman,WL Madsen,M Carter,0,0,,,,,,lbw,BA Godleman
+ball,2,1.4,Derbyshire,JL du Plooy,WL Madsen,M Carter,1,0,,,,,,"",""
+ball,2,1.5,Derbyshire,WL Madsen,JL du Plooy,M Carter,1,0,,,,,,"",""
+ball,2,1.6,Derbyshire,JL du Plooy,WL Madsen,M Carter,4,0,,,,,,"",""
+ball,2,2.1,Derbyshire,WL Madsen,JL du Plooy,SR Patel,1,0,,,,,,"",""
+ball,2,2.2,Derbyshire,JL du Plooy,WL Madsen,SR Patel,1,0,,,,,,"",""
+ball,2,2.3,Derbyshire,WL Madsen,JL du Plooy,SR Patel,0,0,,,,,,"",""
+ball,2,2.4,Derbyshire,WL Madsen,JL du Plooy,SR Patel,4,0,,,,,,"",""
+ball,2,2.5,Derbyshire,WL Madsen,JL du Plooy,SR Patel,0,0,,,,,,"",""
+ball,2,2.6,Derbyshire,WL Madsen,JL du Plooy,SR Patel,4,0,,,,,,"",""
+ball,2,3.1,Derbyshire,JL du Plooy,WL Madsen,JT Ball,1,0,,,,,,"",""
+ball,2,3.2,Derbyshire,WL Madsen,JL du Plooy,JT Ball,0,0,,,,,,"",""
+ball,2,3.3,Derbyshire,WL Madsen,JL du Plooy,JT Ball,0,2,,2,,,,"",""
+ball,2,3.4,Derbyshire,WL Madsen,JL du Plooy,JT Ball,4,0,,,,,,"",""
+ball,2,3.5,Derbyshire,WL Madsen,JL du Plooy,JT Ball,4,0,,,,,,"",""
+ball,2,3.6,Derbyshire,WL Madsen,JL du Plooy,JT Ball,0,0,,,,,,"",""
+ball,2,3.7,Derbyshire,WL Madsen,JL du Plooy,JT Ball,0,0,,,,,,"",""
+ball,2,4.1,Derbyshire,JL du Plooy,WL Madsen,Imad Wasim,0,0,,,,,,"",""
+ball,2,4.2,Derbyshire,JL du Plooy,WL Madsen,Imad Wasim,0,0,,,,,,"",""
+ball,2,4.3,Derbyshire,JL du Plooy,WL Madsen,Imad Wasim,1,0,,,,,,"",""
+ball,2,4.4,Derbyshire,WL Madsen,JL du Plooy,Imad Wasim,1,0,,,,,,"",""
+ball,2,4.5,Derbyshire,JL du Plooy,WL Madsen,Imad Wasim,1,0,,,,,,"",""
+ball,2,4.6,Derbyshire,WL Madsen,JL du Plooy,Imad Wasim,4,0,,,,,,"",""
+ball,2,5.1,Derbyshire,JL du Plooy,WL Madsen,DT Christian,0,0,,,,,,"",""
+ball,2,5.2,Derbyshire,JL du Plooy,WL Madsen,DT Christian,1,0,,,,,,"",""
+ball,2,5.3,Derbyshire,WL Madsen,JL du Plooy,DT Christian,1,0,,,,,,"",""
+ball,2,5.4,Derbyshire,JL du Plooy,WL Madsen,DT Christian,1,0,,,,,,"",""
+ball,2,5.5,Derbyshire,WL Madsen,JL du Plooy,DT Christian,1,0,,,,,,"",""
+ball,2,5.6,Derbyshire,JL du Plooy,WL Madsen,DT Christian,4,0,,,,,,"",""
+ball,2,6.1,Derbyshire,WL Madsen,JL du Plooy,SR Patel,1,0,,,,,,"",""
+ball,2,6.2,Derbyshire,JL du Plooy,WL Madsen,SR Patel,1,0,,,,,,"",""
+ball,2,6.3,Derbyshire,WL Madsen,JL du Plooy,SR Patel,4,0,,,,,,"",""
+ball,2,6.4,Derbyshire,WL Madsen,JL du Plooy,SR Patel,1,0,,,,,,"",""
+ball,2,6.5,Derbyshire,JL du Plooy,WL Madsen,SR Patel,1,0,,,,,,"",""
+ball,2,6.6,Derbyshire,WL Madsen,JL du Plooy,SR Patel,1,0,,,,,,"",""
+ball,2,7.1,Derbyshire,WL Madsen,JL du Plooy,SJ Mullaney,1,0,,,,,,"",""
+ball,2,7.2,Derbyshire,JL du Plooy,WL Madsen,SJ Mullaney,0,0,,,,,,caught,JL du Plooy
+ball,2,7.3,Derbyshire,WL Madsen,MJJ Critchley,SJ Mullaney,4,0,,,,,,"",""
+ball,2,7.4,Derbyshire,WL Madsen,MJJ Critchley,SJ Mullaney,1,0,,,,,,"",""
+ball,2,7.5,Derbyshire,MJJ Critchley,WL Madsen,SJ Mullaney,0,0,,,,,,"",""
+ball,2,7.6,Derbyshire,MJJ Critchley,WL Madsen,SJ Mullaney,1,0,,,,,,"",""
+ball,2,8.1,Derbyshire,MJJ Critchley,WL Madsen,SR Patel,4,0,,,,,,"",""
+ball,2,8.2,Derbyshire,MJJ Critchley,WL Madsen,SR Patel,0,0,,,,,,"",""
+ball,2,8.3,Derbyshire,MJJ Critchley,WL Madsen,SR Patel,1,0,,,,,,"",""
+ball,2,8.4,Derbyshire,WL Madsen,MJJ Critchley,SR Patel,0,0,,,,,,"",""
+ball,2,8.5,Derbyshire,WL Madsen,MJJ Critchley,SR Patel,1,0,,,,,,"",""
+ball,2,8.6,Derbyshire,MJJ Critchley,WL Madsen,SR Patel,4,0,,,,,,"",""
+ball,2,9.1,Derbyshire,WL Madsen,MJJ Critchley,SJ Mullaney,1,0,,,,,,"",""
+ball,2,9.2,Derbyshire,MJJ Critchley,WL Madsen,SJ Mullaney,1,0,,,,,,"",""
+ball,2,9.3,Derbyshire,WL Madsen,MJJ Critchley,SJ Mullaney,2,0,,,,,,"",""
+ball,2,9.4,Derbyshire,WL Madsen,MJJ Critchley,SJ Mullaney,4,0,,,,,,"",""
+ball,2,9.5,Derbyshire,WL Madsen,MJJ Critchley,SJ Mullaney,1,0,,,,,,"",""
+ball,2,9.6,Derbyshire,MJJ Critchley,WL Madsen,SJ Mullaney,1,0,,,,,,"",""
+ball,2,10.1,Derbyshire,MJJ Critchley,WL Madsen,DT Christian,1,0,,,,,,"",""
+ball,2,10.2,Derbyshire,WL Madsen,MJJ Critchley,DT Christian,1,0,,,,,,"",""
+ball,2,10.3,Derbyshire,MJJ Critchley,WL Madsen,DT Christian,1,0,,,,,,"",""
+ball,2,10.4,Derbyshire,WL Madsen,MJJ Critchley,DT Christian,1,0,,,,,,"",""
+ball,2,10.5,Derbyshire,MJJ Critchley,WL Madsen,DT Christian,0,1,1,,,,,"",""
+ball,2,10.6,Derbyshire,MJJ Critchley,WL Madsen,DT Christian,0,1,1,,,,,"",""
+ball,2,10.7,Derbyshire,MJJ Critchley,WL Madsen,DT Christian,4,0,,,,,,"",""
+ball,2,10.8,Derbyshire,MJJ Critchley,WL Madsen,DT Christian,1,0,,,,,,"",""
+ball,2,11.1,Derbyshire,MJJ Critchley,WL Madsen,M Carter,0,0,,,,,,"",""
+ball,2,11.2,Derbyshire,MJJ Critchley,WL Madsen,M Carter,1,0,,,,,,"",""
+ball,2,11.3,Derbyshire,WL Madsen,MJJ Critchley,M Carter,4,0,,,,,,"",""
+ball,2,11.4,Derbyshire,WL Madsen,MJJ Critchley,M Carter,0,0,,,,,,"",""
+ball,2,11.5,Derbyshire,WL Madsen,MJJ Critchley,M Carter,0,0,,,,,,"",""
+ball,2,11.6,Derbyshire,WL Madsen,MJJ Critchley,M Carter,1,0,,,,,,"",""
+ball,2,12.1,Derbyshire,WL Madsen,MJJ Critchley,Imad Wasim,1,0,,,,,,"",""
+ball,2,12.2,Derbyshire,MJJ Critchley,WL Madsen,Imad Wasim,0,0,,,,,,"",""
+ball,2,12.3,Derbyshire,MJJ Critchley,WL Madsen,Imad Wasim,6,0,,,,,,"",""
+ball,2,12.4,Derbyshire,MJJ Critchley,WL Madsen,Imad Wasim,0,0,,,,,,"",""
+ball,2,12.5,Derbyshire,MJJ Critchley,WL Madsen,Imad Wasim,1,0,,,,,,"",""
+ball,2,12.6,Derbyshire,WL Madsen,MJJ Critchley,Imad Wasim,0,0,,,,,,"",""
+ball,2,13.1,Derbyshire,MJJ Critchley,WL Madsen,JT Ball,4,0,,,,,,"",""
+ball,2,13.2,Derbyshire,MJJ Critchley,WL Madsen,JT Ball,1,0,,,,,,"",""
+ball,2,13.3,Derbyshire,WL Madsen,MJJ Critchley,JT Ball,1,0,,,,,,"",""
+ball,2,13.4,Derbyshire,MJJ Critchley,WL Madsen,JT Ball,4,0,,,,,,"",""
+ball,2,13.5,Derbyshire,MJJ Critchley,WL Madsen,JT Ball,1,0,,,,,,"",""
+ball,2,13.6,Derbyshire,WL Madsen,MJJ Critchley,JT Ball,0,0,,,,,,bowled,WL Madsen
+ball,2,14.1,Derbyshire,MJJ Critchley,AL Hughes,DT Christian,0,0,,,,,,"",""
+ball,2,14.2,Derbyshire,MJJ Critchley,AL Hughes,DT Christian,4,0,,,,,,"",""
+ball,2,14.3,Derbyshire,MJJ Critchley,AL Hughes,DT Christian,1,0,,,,,,"",""
+ball,2,14.4,Derbyshire,AL Hughes,MJJ Critchley,DT Christian,1,0,,,,,,"",""
+ball,2,14.5,Derbyshire,MJJ Critchley,AL Hughes,DT Christian,1,0,,,,,,"",""
+ball,2,14.6,Derbyshire,AL Hughes,MJJ Critchley,DT Christian,0,1,,,,1,,"",""
+ball,2,15.1,Derbyshire,AL Hughes,MJJ Critchley,SR Patel,1,0,,,,,,"",""
+ball,2,15.2,Derbyshire,MJJ Critchley,AL Hughes,SR Patel,1,0,,,,,,"",""
+ball,2,15.3,Derbyshire,AL Hughes,MJJ Critchley,SR Patel,6,0,,,,,,"",""
+ball,2,15.4,Derbyshire,AL Hughes,MJJ Critchley,SR Patel,4,0,,,,,,"",""
+ball,2,15.5,Derbyshire,AL Hughes,MJJ Critchley,SR Patel,4,0,,,,,,"",""
+ball,2,15.6,Derbyshire,AL Hughes,MJJ Critchley,SR Patel,1,0,,,,,,"",""
+ball,2,16.1,Derbyshire,AL Hughes,MJJ Critchley,JT Ball,2,0,,,,,,"",""
+ball,2,16.2,Derbyshire,AL Hughes,MJJ Critchley,JT Ball,0,0,,,,,,"",""
+ball,2,16.3,Derbyshire,AL Hughes,MJJ Critchley,JT Ball,4,0,,,,,,"",""
+ball,2,16.4,Derbyshire,AL Hughes,MJJ Critchley,JT Ball,2,0,,,,,,"",""
+ball,2,16.5,Derbyshire,AL Hughes,MJJ Critchley,JT Ball,1,0,,,,,,"",""
+ball,2,16.6,Derbyshire,MJJ Critchley,AL Hughes,JT Ball,0,0,,,,,,lbw,MJJ Critchley
+ball,2,17.1,Derbyshire,AL Hughes,MH McKiernan,Imad Wasim,0,1,1,,,,,"",""
+ball,2,17.2,Derbyshire,AL Hughes,MH McKiernan,Imad Wasim,6,0,,,,,,"",""
+ball,2,17.3,Derbyshire,AL Hughes,MH McKiernan,Imad Wasim,0,0,,,,,,"",""
+ball,2,17.4,Derbyshire,AL Hughes,MH McKiernan,Imad Wasim,0,0,,,,,,"",""
+ball,2,17.5,Derbyshire,AL Hughes,MH McKiernan,Imad Wasim,1,0,,,,,,"",""
+ball,2,17.6,Derbyshire,MH McKiernan,AL Hughes,Imad Wasim,0,0,,,,,,caught,MH McKiernan
+ball,2,17.7,Derbyshire,Anuj Dal,AL Hughes,Imad Wasim,1,0,,,,,,"",""
+ball,2,18.1,Derbyshire,Anuj Dal,AL Hughes,JT Ball,1,0,,,,,,"",""
+ball,2,18.2,Derbyshire,AL Hughes,Anuj Dal,JT Ball,1,0,,,,,,"",""
+ball,2,18.3,Derbyshire,Anuj Dal,AL Hughes,JT Ball,0,0,,,,,,"",""
+ball,2,18.4,Derbyshire,Anuj Dal,AL Hughes,JT Ball,1,0,,,,,,"",""
+ball,2,18.5,Derbyshire,AL Hughes,Anuj Dal,JT Ball,1,0,,,,,,"",""
+ball,2,18.6,Derbyshire,Anuj Dal,AL Hughes,JT Ball,1,0,,,,,,"",""
+ball,2,19.1,Derbyshire,Anuj Dal,AL Hughes,DT Christian,1,0,,,,,,"",""
+ball,2,19.2,Derbyshire,AL Hughes,Anuj Dal,DT Christian,1,0,,,,,,"",""
+ball,2,19.3,Derbyshire,Anuj Dal,AL Hughes,DT Christian,4,0,,,,,,"",""
+ball,2,19.4,Derbyshire,Anuj Dal,AL Hughes,DT Christian,1,0,,,,,,"",""
+ball,2,19.5,Derbyshire,AL Hughes,Anuj Dal,DT Christian,0,1,,,,1,,"",""
+ball,2,19.6,Derbyshire,Anuj Dal,AL Hughes,DT Christian,1,0,,,,,,"",""

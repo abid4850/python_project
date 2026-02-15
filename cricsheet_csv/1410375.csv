@@ -1,0 +1,232 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Yorkshire
+info,gender,male
+info,season,2024
+info,date,2024/05/30
+info,event,Vitality Blast
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Worcestershire
+info,toss_decision,bat
+info,umpire,NA Mallender
+info,umpire,Surendiran Shanmugam
+info,match_referee,Wayne Noon
+info,winner,Yorkshire
+info,winner_wickets,8
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JJ Cobb
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,EA Brookes
+info,player,Worcestershire,TAI Taylor
+info,player,Worcestershire,NG Smith
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,HR Walsh
+info,player,Worcestershire,AW Finch
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,Shan Masood
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,D Ferreira
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,JA Chohan
+info,player,Yorkshire,DJ Leech
+info,player,Yorkshire,D Moriarty
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DJ Leech,2413a688
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DM Bess,ad46c747
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GH Roderick,7081848a
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,ML Revis,28217d89
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,Wayne Noon,736e1761
+ball,1,0.1,Worcestershire,MJ Waite,BL D'Oliveira,DJ Leech,1,0,,,,,,"",""
+ball,1,0.2,Worcestershire,BL D'Oliveira,MJ Waite,DJ Leech,0,0,,,,,,"",""
+ball,1,0.3,Worcestershire,BL D'Oliveira,MJ Waite,DJ Leech,0,1,1,,,,,"",""
+ball,1,0.4,Worcestershire,BL D'Oliveira,MJ Waite,DJ Leech,0,0,,,,,,"",""
+ball,1,0.5,Worcestershire,BL D'Oliveira,MJ Waite,DJ Leech,0,0,,,,,,bowled,BL D'Oliveira
+ball,1,0.6,Worcestershire,JJ Cobb,MJ Waite,DJ Leech,1,0,,,,,,"",""
+ball,1,0.7,Worcestershire,MJ Waite,JJ Cobb,DJ Leech,1,0,,,,,,"",""
+ball,1,1.1,Worcestershire,MJ Waite,JJ Cobb,D Moriarty,1,0,,,,,,"",""
+ball,1,1.2,Worcestershire,JJ Cobb,MJ Waite,D Moriarty,1,0,,,,,,"",""
+ball,1,1.3,Worcestershire,MJ Waite,JJ Cobb,D Moriarty,0,0,,,,,,"",""
+ball,1,1.4,Worcestershire,MJ Waite,JJ Cobb,D Moriarty,0,0,,,,,,stumped,MJ Waite
+ball,1,1.5,Worcestershire,AJ Hose,JJ Cobb,D Moriarty,0,0,,,,,,"",""
+ball,1,1.6,Worcestershire,AJ Hose,JJ Cobb,D Moriarty,4,0,,,,,,"",""
+ball,1,2.1,Worcestershire,JJ Cobb,AJ Hose,DJ Leech,0,1,,,,1,,"",""
+ball,1,2.2,Worcestershire,AJ Hose,JJ Cobb,DJ Leech,2,0,,,,,,"",""
+ball,1,2.3,Worcestershire,AJ Hose,JJ Cobb,DJ Leech,0,0,,,,,,"",""
+ball,1,2.4,Worcestershire,AJ Hose,JJ Cobb,DJ Leech,1,0,,,,,,"",""
+ball,1,2.5,Worcestershire,JJ Cobb,AJ Hose,DJ Leech,0,0,,,,,,"",""
+ball,1,2.6,Worcestershire,JJ Cobb,AJ Hose,DJ Leech,0,0,,,,,,"",""
+ball,1,3.1,Worcestershire,AJ Hose,JJ Cobb,D Moriarty,1,0,,,,,,"",""
+ball,1,3.2,Worcestershire,JJ Cobb,AJ Hose,D Moriarty,0,0,,,,,,caught,JJ Cobb
+ball,1,3.3,Worcestershire,EA Brookes,AJ Hose,D Moriarty,0,0,,,,,,"",""
+ball,1,3.4,Worcestershire,EA Brookes,AJ Hose,D Moriarty,0,0,,,,,,"",""
+ball,1,3.5,Worcestershire,EA Brookes,AJ Hose,D Moriarty,4,0,,,,,,"",""
+ball,1,3.6,Worcestershire,EA Brookes,AJ Hose,D Moriarty,1,0,,,,,,"",""
+ball,1,4.1,Worcestershire,EA Brookes,AJ Hose,DJ Leech,1,0,,,,,,"",""
+ball,1,4.2,Worcestershire,AJ Hose,EA Brookes,DJ Leech,0,0,,,,,,"",""
+ball,1,4.3,Worcestershire,AJ Hose,EA Brookes,DJ Leech,0,0,,,,,,caught,AJ Hose
+ball,1,4.4,Worcestershire,TAI Taylor,EA Brookes,DJ Leech,1,0,,,,,,"",""
+ball,1,4.5,Worcestershire,EA Brookes,TAI Taylor,DJ Leech,1,0,,,,,,"",""
+ball,1,4.6,Worcestershire,TAI Taylor,EA Brookes,DJ Leech,0,0,,,,,,"",""
+ball,1,5.1,Worcestershire,EA Brookes,TAI Taylor,ML Revis,1,0,,,,,,"",""
+ball,1,5.2,Worcestershire,TAI Taylor,EA Brookes,ML Revis,4,0,,,,,,"",""
+ball,1,5.3,Worcestershire,TAI Taylor,EA Brookes,ML Revis,1,0,,,,,,"",""
+ball,1,5.4,Worcestershire,EA Brookes,TAI Taylor,ML Revis,0,0,,,,,,"",""
+ball,1,5.5,Worcestershire,EA Brookes,TAI Taylor,ML Revis,4,0,,,,,,"",""
+ball,1,5.6,Worcestershire,EA Brookes,TAI Taylor,ML Revis,0,0,,,,,,"",""
+ball,1,6.1,Worcestershire,TAI Taylor,EA Brookes,D Moriarty,0,0,,,,,,caught,TAI Taylor
+ball,1,6.2,Worcestershire,NG Smith,EA Brookes,D Moriarty,1,0,,,,,,"",""
+ball,1,6.3,Worcestershire,EA Brookes,NG Smith,D Moriarty,1,0,,,,,,"",""
+ball,1,6.4,Worcestershire,NG Smith,EA Brookes,D Moriarty,0,0,,,,,,"",""
+ball,1,6.5,Worcestershire,NG Smith,EA Brookes,D Moriarty,1,0,,,,,,"",""
+ball,1,6.6,Worcestershire,EA Brookes,NG Smith,D Moriarty,1,0,,,,,,"",""
+ball,1,7.1,Worcestershire,EA Brookes,NG Smith,JA Chohan,1,0,,,,,,"",""
+ball,1,7.2,Worcestershire,NG Smith,EA Brookes,JA Chohan,1,0,,,,,,"",""
+ball,1,7.3,Worcestershire,EA Brookes,NG Smith,JA Chohan,4,0,,,,,,"",""
+ball,1,7.4,Worcestershire,EA Brookes,NG Smith,JA Chohan,0,0,,,,,,"",""
+ball,1,7.5,Worcestershire,EA Brookes,NG Smith,JA Chohan,1,0,,,,,,"",""
+ball,1,7.6,Worcestershire,NG Smith,EA Brookes,JA Chohan,0,0,,,,,,"",""
+ball,1,8.1,Worcestershire,EA Brookes,NG Smith,D Moriarty,4,0,,,,,,"",""
+ball,1,8.2,Worcestershire,EA Brookes,NG Smith,D Moriarty,1,0,,,,,,"",""
+ball,1,8.3,Worcestershire,NG Smith,EA Brookes,D Moriarty,0,0,,,,,,bowled,NG Smith
+ball,1,8.4,Worcestershire,GH Roderick,EA Brookes,D Moriarty,2,0,,,,,,"",""
+ball,1,8.5,Worcestershire,GH Roderick,EA Brookes,D Moriarty,1,0,,,,,,"",""
+ball,1,8.6,Worcestershire,EA Brookes,GH Roderick,D Moriarty,1,0,,,,,,"",""
+ball,1,9.1,Worcestershire,EA Brookes,GH Roderick,DM Bess,0,0,,,,,,"",""
+ball,1,9.2,Worcestershire,EA Brookes,GH Roderick,DM Bess,1,0,,,,,,"",""
+ball,1,9.3,Worcestershire,GH Roderick,EA Brookes,DM Bess,1,0,,,,,,"",""
+ball,1,9.4,Worcestershire,EA Brookes,GH Roderick,DM Bess,0,0,,,,,,"",""
+ball,1,9.5,Worcestershire,EA Brookes,GH Roderick,DM Bess,1,0,,,,,,"",""
+ball,1,9.6,Worcestershire,GH Roderick,EA Brookes,DM Bess,4,0,,,,,,"",""
+ball,1,10.1,Worcestershire,EA Brookes,GH Roderick,JA Chohan,4,0,,,,,,"",""
+ball,1,10.2,Worcestershire,EA Brookes,GH Roderick,JA Chohan,1,0,,,,,,"",""
+ball,1,10.3,Worcestershire,GH Roderick,EA Brookes,JA Chohan,0,0,,,,,,"",""
+ball,1,10.4,Worcestershire,GH Roderick,EA Brookes,JA Chohan,2,0,,,,,,"",""
+ball,1,10.5,Worcestershire,GH Roderick,EA Brookes,JA Chohan,1,0,,,,,,"",""
+ball,1,10.6,Worcestershire,EA Brookes,GH Roderick,JA Chohan,4,0,,,,,,"",""
+ball,1,11.1,Worcestershire,GH Roderick,EA Brookes,ML Revis,0,2,2,,,,,"",""
+ball,1,11.2,Worcestershire,EA Brookes,GH Roderick,ML Revis,1,0,,,,,,"",""
+ball,1,11.3,Worcestershire,GH Roderick,EA Brookes,ML Revis,1,0,,,,,,"",""
+ball,1,11.4,Worcestershire,EA Brookes,GH Roderick,ML Revis,1,0,,,,,,"",""
+ball,1,11.5,Worcestershire,GH Roderick,EA Brookes,ML Revis,4,0,,,,,,"",""
+ball,1,11.6,Worcestershire,GH Roderick,EA Brookes,ML Revis,4,0,,,,,,"",""
+ball,1,11.7,Worcestershire,GH Roderick,EA Brookes,ML Revis,2,0,,,,,,"",""
+ball,1,12.1,Worcestershire,EA Brookes,GH Roderick,JA Thompson,1,0,,,,,,"",""
+ball,1,12.2,Worcestershire,GH Roderick,EA Brookes,JA Thompson,0,0,,,,,,"",""
+ball,1,12.3,Worcestershire,GH Roderick,EA Brookes,JA Thompson,1,0,,,,,,"",""
+ball,1,12.4,Worcestershire,EA Brookes,GH Roderick,JA Thompson,1,0,,,,,,"",""
+ball,1,12.5,Worcestershire,GH Roderick,EA Brookes,JA Thompson,0,1,,,,1,,"",""
+ball,1,12.6,Worcestershire,EA Brookes,GH Roderick,JA Thompson,1,0,,,,,,"",""
+ball,1,13.1,Worcestershire,EA Brookes,GH Roderick,DM Bess,0,0,,,,,,caught,EA Brookes
+ball,1,13.2,Worcestershire,EJ Pollock,GH Roderick,DM Bess,0,0,,,,,,"",""
+ball,1,13.3,Worcestershire,EJ Pollock,GH Roderick,DM Bess,1,0,,,,,,"",""
+ball,1,13.4,Worcestershire,GH Roderick,EJ Pollock,DM Bess,2,0,,,,,,"",""
+ball,1,13.5,Worcestershire,GH Roderick,EJ Pollock,DM Bess,0,0,,,,,,caught,GH Roderick
+ball,1,13.6,Worcestershire,HR Walsh,EJ Pollock,DM Bess,0,0,,,,,,"",""
+ball,1,14.1,Worcestershire,EJ Pollock,HR Walsh,JA Chohan,1,0,,,,,,"",""
+ball,1,14.2,Worcestershire,HR Walsh,EJ Pollock,JA Chohan,4,0,,,,,,"",""
+ball,1,14.3,Worcestershire,HR Walsh,EJ Pollock,JA Chohan,0,0,,,,,,caught,HR Walsh
+ball,1,14.4,Worcestershire,AW Finch,EJ Pollock,JA Chohan,1,0,,,,,,"",""
+ball,1,14.5,Worcestershire,EJ Pollock,AW Finch,JA Chohan,0,0,,,,,,"",""
+ball,1,14.6,Worcestershire,EJ Pollock,AW Finch,JA Chohan,0,0,,,,,,"",""
+ball,1,15.1,Worcestershire,AW Finch,EJ Pollock,DM Bess,0,0,,,,,,"",""
+ball,1,15.2,Worcestershire,AW Finch,EJ Pollock,DM Bess,0,0,,,,,,"",""
+ball,1,15.3,Worcestershire,AW Finch,EJ Pollock,DM Bess,0,0,,,,,,"",""
+ball,1,15.4,Worcestershire,AW Finch,EJ Pollock,DM Bess,0,0,,,,,,run out,EJ Pollock
+ball,2,0.1,Yorkshire,A Lyth,DJ Malan,JJ Cobb,1,0,,,,,,"",""
+ball,2,0.2,Yorkshire,DJ Malan,A Lyth,JJ Cobb,0,0,,,,,,"",""
+ball,2,0.3,Yorkshire,DJ Malan,A Lyth,JJ Cobb,0,0,,,,,,"",""
+ball,2,0.4,Yorkshire,DJ Malan,A Lyth,JJ Cobb,1,0,,,,,,"",""
+ball,2,0.5,Yorkshire,A Lyth,DJ Malan,JJ Cobb,1,0,,,,,,"",""
+ball,2,0.6,Yorkshire,DJ Malan,A Lyth,JJ Cobb,1,0,,,,,,"",""
+ball,2,1.1,Yorkshire,DJ Malan,A Lyth,NG Smith,4,0,,,,,,"",""
+ball,2,1.2,Yorkshire,DJ Malan,A Lyth,NG Smith,1,0,,,,,,"",""
+ball,2,1.3,Yorkshire,A Lyth,DJ Malan,NG Smith,1,0,,,,,,"",""
+ball,2,1.4,Yorkshire,DJ Malan,A Lyth,NG Smith,4,0,,,,,,"",""
+ball,2,1.5,Yorkshire,DJ Malan,A Lyth,NG Smith,0,0,,,,,,"",""
+ball,2,1.6,Yorkshire,DJ Malan,A Lyth,NG Smith,1,2,,2,,,,"",""
+ball,2,1.7,Yorkshire,A Lyth,DJ Malan,NG Smith,4,0,,,,,,"",""
+ball,2,2.1,Yorkshire,DJ Malan,A Lyth,AW Finch,1,0,,,,,,"",""
+ball,2,2.2,Yorkshire,A Lyth,DJ Malan,AW Finch,1,0,,,,,,"",""
+ball,2,2.3,Yorkshire,DJ Malan,A Lyth,AW Finch,1,0,,,,,,"",""
+ball,2,2.4,Yorkshire,A Lyth,DJ Malan,AW Finch,2,0,,,,,,"",""
+ball,2,2.5,Yorkshire,A Lyth,DJ Malan,AW Finch,0,0,,,,,,"",""
+ball,2,2.6,Yorkshire,A Lyth,DJ Malan,AW Finch,4,0,,,,,,"",""
+ball,2,3.1,Yorkshire,DJ Malan,A Lyth,TAI Taylor,2,0,,,,,,"",""
+ball,2,3.2,Yorkshire,DJ Malan,A Lyth,TAI Taylor,4,0,,,,,,"",""
+ball,2,3.3,Yorkshire,DJ Malan,A Lyth,TAI Taylor,4,0,,,,,,"",""
+ball,2,3.4,Yorkshire,DJ Malan,A Lyth,TAI Taylor,0,0,,,,,,"",""
+ball,2,3.5,Yorkshire,DJ Malan,A Lyth,TAI Taylor,1,0,,,,,,"",""
+ball,2,3.6,Yorkshire,A Lyth,DJ Malan,TAI Taylor,1,0,,,,,,"",""
+ball,2,4.1,Yorkshire,A Lyth,DJ Malan,AW Finch,0,0,,,,,,"",""
+ball,2,4.2,Yorkshire,A Lyth,DJ Malan,AW Finch,1,0,,,,,,"",""
+ball,2,4.3,Yorkshire,DJ Malan,A Lyth,AW Finch,0,0,,,,,,caught,DJ Malan
+ball,2,4.4,Yorkshire,Shan Masood,A Lyth,AW Finch,0,0,,,,,,"",""
+ball,2,4.5,Yorkshire,Shan Masood,A Lyth,AW Finch,1,0,,,,,,"",""
+ball,2,4.6,Yorkshire,A Lyth,Shan Masood,AW Finch,0,0,,,,,,"",""
+ball,2,5.1,Yorkshire,Shan Masood,A Lyth,NG Smith,0,0,,,,,,"",""
+ball,2,5.2,Yorkshire,Shan Masood,A Lyth,NG Smith,4,0,,,,,,"",""
+ball,2,5.3,Yorkshire,Shan Masood,A Lyth,NG Smith,0,0,,,,,,"",""
+ball,2,5.4,Yorkshire,Shan Masood,A Lyth,NG Smith,1,0,,,,,,"",""
+ball,2,5.5,Yorkshire,A Lyth,Shan Masood,NG Smith,1,0,,,,,,"",""
+ball,2,5.6,Yorkshire,Shan Masood,A Lyth,NG Smith,1,0,,,,,,"",""
+ball,2,6.1,Yorkshire,Shan Masood,A Lyth,JJ Cobb,0,0,,,,,,caught,Shan Masood
+ball,2,6.2,Yorkshire,JE Root,A Lyth,JJ Cobb,2,0,,,,,,"",""
+ball,2,6.3,Yorkshire,JE Root,A Lyth,JJ Cobb,1,0,,,,,,"",""
+ball,2,6.4,Yorkshire,A Lyth,JE Root,JJ Cobb,1,0,,,,,,"",""
+ball,2,6.5,Yorkshire,JE Root,A Lyth,JJ Cobb,0,0,,,,,,"",""
+ball,2,6.6,Yorkshire,JE Root,A Lyth,JJ Cobb,1,0,,,,,,"",""
+ball,2,7.1,Yorkshire,JE Root,A Lyth,HR Walsh,1,0,,,,,,"",""
+ball,2,7.2,Yorkshire,A Lyth,JE Root,HR Walsh,1,0,,,,,,"",""
+ball,2,7.3,Yorkshire,JE Root,A Lyth,HR Walsh,1,0,,,,,,"",""
+ball,2,7.4,Yorkshire,A Lyth,JE Root,HR Walsh,0,0,,,,,,"",""
+ball,2,7.5,Yorkshire,A Lyth,JE Root,HR Walsh,1,0,,,,,,"",""
+ball,2,7.6,Yorkshire,JE Root,A Lyth,HR Walsh,1,0,,,,,,"",""
+ball,2,8.1,Yorkshire,JE Root,A Lyth,JJ Cobb,1,0,,,,,,"",""
+ball,2,8.2,Yorkshire,A Lyth,JE Root,JJ Cobb,1,0,,,,,,"",""
+ball,2,8.3,Yorkshire,JE Root,A Lyth,JJ Cobb,0,1,,,,1,,"",""
+ball,2,8.4,Yorkshire,A Lyth,JE Root,JJ Cobb,2,0,,,,,,"",""
+ball,2,8.5,Yorkshire,A Lyth,JE Root,JJ Cobb,0,1,1,,,,,"",""
+ball,2,8.6,Yorkshire,A Lyth,JE Root,JJ Cobb,4,0,,,,,,"",""
+ball,2,8.7,Yorkshire,A Lyth,JE Root,JJ Cobb,1,0,,,,,,"",""
+ball,2,9.1,Yorkshire,A Lyth,JE Root,HR Walsh,1,0,,,,,,"",""
+ball,2,9.2,Yorkshire,JE Root,A Lyth,HR Walsh,2,0,,,,,,"",""
+ball,2,9.3,Yorkshire,JE Root,A Lyth,HR Walsh,1,0,,,,,,"",""
+ball,2,9.4,Yorkshire,A Lyth,JE Root,HR Walsh,0,0,,,,,,"",""
+ball,2,9.5,Yorkshire,A Lyth,JE Root,HR Walsh,4,0,,,,,,"",""
+ball,2,9.6,Yorkshire,A Lyth,JE Root,HR Walsh,1,0,,,,,,"",""
+ball,2,10.1,Yorkshire,A Lyth,JE Root,TAI Taylor,1,0,,,,,,"",""
+ball,2,10.2,Yorkshire,JE Root,A Lyth,TAI Taylor,1,0,,,,,,"",""
+ball,2,10.3,Yorkshire,A Lyth,JE Root,TAI Taylor,0,0,,,,,,"",""
+ball,2,10.4,Yorkshire,A Lyth,JE Root,TAI Taylor,4,0,,,,,,"",""
+ball,2,10.5,Yorkshire,A Lyth,JE Root,TAI Taylor,4,0,,,,,,"",""
+ball,2,10.6,Yorkshire,A Lyth,JE Root,TAI Taylor,4,0,,,,,,"",""
+ball,2,11.1,Yorkshire,JE Root,A Lyth,HR Walsh,1,0,,,,,,"",""
+ball,2,11.2,Yorkshire,A Lyth,JE Root,HR Walsh,4,0,,,,,,"",""
+ball,2,11.3,Yorkshire,A Lyth,JE Root,HR Walsh,0,0,,,,,,"",""
+ball,2,11.4,Yorkshire,A Lyth,JE Root,HR Walsh,4,0,,,,,,"",""

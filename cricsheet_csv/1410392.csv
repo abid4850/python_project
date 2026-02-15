@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2024
+info,date,2024/06/06
+info,event,Vitality Blast
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Worcestershire
+info,toss_decision,bat
+info,umpire,Hassan Adnan
+info,umpire,N Pratt
+info,match_referee,JJ Whitaker
+info,winner,Worcestershire
+info,winner_runs,20
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,JJ Cobb
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,EA Brookes
+info,player,Worcestershire,RP Jones
+info,player,Worcestershire,TAI Taylor
+info,player,Worcestershire,NG Smith
+info,player,Worcestershire,HR Walsh
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,AW Finch
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,WA Young
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,DY Pennington
+info,player,Nottinghamshire,BG Lister
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,CG Harrison,f655d740
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GH Roderick,7081848a
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,OP Stone,3f659464
+info,registry,people,RP Jones,ad8cb396
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,WA Young,8afe73e2
+ball,1,0.1,Worcestershire,EJ Pollock,MJ Waite,BG Lister,0,0,,,,,,"",""
+ball,1,0.2,Worcestershire,EJ Pollock,MJ Waite,BG Lister,4,0,,,,,,"",""
+ball,1,0.3,Worcestershire,EJ Pollock,MJ Waite,BG Lister,4,0,,,,,,"",""
+ball,1,0.4,Worcestershire,EJ Pollock,MJ Waite,BG Lister,0,0,,,,,,"",""
+ball,1,0.5,Worcestershire,EJ Pollock,MJ Waite,BG Lister,0,0,,,,,,"",""
+ball,1,0.6,Worcestershire,EJ Pollock,MJ Waite,BG Lister,0,0,,,,,,"",""
+ball,1,1.1,Worcestershire,MJ Waite,EJ Pollock,DY Pennington,4,0,,,,,,"",""
+ball,1,1.2,Worcestershire,MJ Waite,EJ Pollock,DY Pennington,0,0,,,,,,"",""
+ball,1,1.3,Worcestershire,MJ Waite,EJ Pollock,DY Pennington,0,0,,,,,,"",""
+ball,1,1.4,Worcestershire,MJ Waite,EJ Pollock,DY Pennington,4,0,,,,,,"",""
+ball,1,1.5,Worcestershire,MJ Waite,EJ Pollock,DY Pennington,3,0,,,,,,"",""
+ball,1,1.6,Worcestershire,EJ Pollock,MJ Waite,DY Pennington,6,0,,,,,,"",""
+ball,1,2.1,Worcestershire,MJ Waite,EJ Pollock,OP Stone,0,0,,,,,,"",""
+ball,1,2.2,Worcestershire,MJ Waite,EJ Pollock,OP Stone,0,0,,,,,,caught,MJ Waite
+ball,1,2.3,Worcestershire,JJ Cobb,EJ Pollock,OP Stone,1,0,,,,,,"",""
+ball,1,2.4,Worcestershire,EJ Pollock,JJ Cobb,OP Stone,2,0,,,,,,"",""
+ball,1,2.5,Worcestershire,EJ Pollock,JJ Cobb,OP Stone,0,0,,,,,,bowled,EJ Pollock
+ball,1,2.6,Worcestershire,AJ Hose,JJ Cobb,OP Stone,0,0,,,,,,"",""
+ball,1,3.1,Worcestershire,JJ Cobb,AJ Hose,DY Pennington,0,0,,,,,,"",""
+ball,1,3.2,Worcestershire,JJ Cobb,AJ Hose,DY Pennington,0,0,,,,,,"",""
+ball,1,3.3,Worcestershire,JJ Cobb,AJ Hose,DY Pennington,1,0,,,,,,"",""
+ball,1,3.4,Worcestershire,AJ Hose,JJ Cobb,DY Pennington,0,0,,,,,,"",""
+ball,1,3.5,Worcestershire,AJ Hose,JJ Cobb,DY Pennington,0,0,,,,,,"",""
+ball,1,3.6,Worcestershire,AJ Hose,JJ Cobb,DY Pennington,0,0,,,,,,"",""
+ball,1,4.1,Worcestershire,JJ Cobb,AJ Hose,OP Stone,0,0,,,,,,"",""
+ball,1,4.2,Worcestershire,JJ Cobb,AJ Hose,OP Stone,0,0,,,,,,"",""
+ball,1,4.3,Worcestershire,JJ Cobb,AJ Hose,OP Stone,4,0,,,,,,"",""
+ball,1,4.4,Worcestershire,JJ Cobb,AJ Hose,OP Stone,1,0,,,,,,"",""
+ball,1,4.5,Worcestershire,AJ Hose,JJ Cobb,OP Stone,0,0,,,,,,"",""
+ball,1,4.6,Worcestershire,AJ Hose,JJ Cobb,OP Stone,4,0,,,,,,"",""
+ball,1,5.1,Worcestershire,JJ Cobb,AJ Hose,DY Pennington,4,0,,,,,,"",""
+ball,1,5.2,Worcestershire,JJ Cobb,AJ Hose,DY Pennington,0,0,,,,,,caught,JJ Cobb
+ball,1,5.3,Worcestershire,EA Brookes,AJ Hose,DY Pennington,1,0,,,,,,"",""
+ball,1,5.4,Worcestershire,AJ Hose,EA Brookes,DY Pennington,2,0,,,,,,"",""
+ball,1,5.5,Worcestershire,AJ Hose,EA Brookes,DY Pennington,1,0,,,,,,"",""
+ball,1,5.6,Worcestershire,EA Brookes,AJ Hose,DY Pennington,4,0,,,,,,"",""
+ball,1,6.1,Worcestershire,AJ Hose,EA Brookes,CG Harrison,1,0,,,,,,"",""
+ball,1,6.2,Worcestershire,EA Brookes,AJ Hose,CG Harrison,1,0,,,,,,run out,EA Brookes
+ball,1,6.3,Worcestershire,RP Jones,AJ Hose,CG Harrison,0,0,,,,,,"",""
+ball,1,6.4,Worcestershire,RP Jones,AJ Hose,CG Harrison,1,0,,,,,,"",""
+ball,1,6.5,Worcestershire,AJ Hose,RP Jones,CG Harrison,1,0,,,,,,"",""
+ball,1,6.6,Worcestershire,RP Jones,AJ Hose,CG Harrison,0,0,,,,,,"",""
+ball,1,7.1,Worcestershire,AJ Hose,RP Jones,BG Lister,0,0,,,,,,"",""
+ball,1,7.2,Worcestershire,AJ Hose,RP Jones,BG Lister,1,0,,,,,,"",""
+ball,1,7.3,Worcestershire,RP Jones,AJ Hose,BG Lister,0,0,,,,,,"",""
+ball,1,7.4,Worcestershire,RP Jones,AJ Hose,BG Lister,0,0,,,,,,caught,RP Jones
+ball,1,7.5,Worcestershire,TAI Taylor,AJ Hose,BG Lister,0,0,,,,,,"",""
+ball,1,7.6,Worcestershire,TAI Taylor,AJ Hose,BG Lister,0,1,,,,1,,"",""
+ball,1,8.1,Worcestershire,TAI Taylor,AJ Hose,CG Harrison,0,0,,,,,,"",""
+ball,1,8.2,Worcestershire,TAI Taylor,AJ Hose,CG Harrison,2,0,,,,,,"",""
+ball,1,8.3,Worcestershire,TAI Taylor,AJ Hose,CG Harrison,0,0,,,,,,bowled,TAI Taylor
+ball,1,8.4,Worcestershire,NG Smith,AJ Hose,CG Harrison,0,0,,,,,,"",""
+ball,1,8.5,Worcestershire,NG Smith,AJ Hose,CG Harrison,0,0,,,,,,"",""
+ball,1,8.6,Worcestershire,NG Smith,AJ Hose,CG Harrison,0,0,,,,,,"",""
+ball,1,9.1,Worcestershire,AJ Hose,NG Smith,M Montgomery,1,0,,,,,,"",""
+ball,1,9.2,Worcestershire,NG Smith,AJ Hose,M Montgomery,4,0,,,,,,"",""
+ball,1,9.3,Worcestershire,NG Smith,AJ Hose,M Montgomery,4,0,,,,,,"",""
+ball,1,9.4,Worcestershire,NG Smith,AJ Hose,M Montgomery,1,0,,,,,,"",""
+ball,1,9.5,Worcestershire,AJ Hose,NG Smith,M Montgomery,0,0,,,,,,"",""
+ball,1,9.6,Worcestershire,AJ Hose,NG Smith,M Montgomery,1,0,,,,,,"",""
+ball,1,10.1,Worcestershire,AJ Hose,NG Smith,CG Harrison,1,0,,,,,,"",""
+ball,1,10.2,Worcestershire,NG Smith,AJ Hose,CG Harrison,1,0,,,,,,"",""
+ball,1,10.3,Worcestershire,AJ Hose,NG Smith,CG Harrison,0,0,,,,,,"",""
+ball,1,10.4,Worcestershire,AJ Hose,NG Smith,CG Harrison,1,0,,,,,,"",""
+ball,1,10.5,Worcestershire,NG Smith,AJ Hose,CG Harrison,0,0,,,,,,"",""
+ball,1,10.6,Worcestershire,NG Smith,AJ Hose,CG Harrison,1,0,,,,,,"",""
+ball,1,11.1,Worcestershire,NG Smith,AJ Hose,LW James,1,0,,,,,,"",""
+ball,1,11.2,Worcestershire,AJ Hose,NG Smith,LW James,0,0,,,,,,"",""
+ball,1,11.3,Worcestershire,AJ Hose,NG Smith,LW James,2,0,,,,,,"",""
+ball,1,11.4,Worcestershire,AJ Hose,NG Smith,LW James,1,0,,,,,,"",""
+ball,1,11.5,Worcestershire,NG Smith,AJ Hose,LW James,6,0,,,,,,"",""
+ball,1,11.6,Worcestershire,NG Smith,AJ Hose,LW James,0,0,,,,,,"",""
+ball,1,12.1,Worcestershire,AJ Hose,NG Smith,CG Harrison,0,0,,,,,,"",""
+ball,1,12.2,Worcestershire,AJ Hose,NG Smith,CG Harrison,1,0,,,,,,"",""
+ball,1,12.3,Worcestershire,NG Smith,AJ Hose,CG Harrison,1,0,,,,,,"",""
+ball,1,12.4,Worcestershire,AJ Hose,NG Smith,CG Harrison,0,0,,,,,,"",""
+ball,1,12.5,Worcestershire,AJ Hose,NG Smith,CG Harrison,1,0,,,,,,"",""
+ball,1,12.6,Worcestershire,NG Smith,AJ Hose,CG Harrison,1,0,,,,,,"",""
+ball,1,13.1,Worcestershire,NG Smith,AJ Hose,LW James,2,0,,,,,,"",""
+ball,1,13.2,Worcestershire,NG Smith,AJ Hose,LW James,0,0,,,,,,"",""
+ball,1,13.3,Worcestershire,NG Smith,AJ Hose,LW James,4,0,,,,,,"",""
+ball,1,13.4,Worcestershire,NG Smith,AJ Hose,LW James,0,0,,,,,,"",""
+ball,1,13.5,Worcestershire,NG Smith,AJ Hose,LW James,4,0,,,,,,"",""
+ball,1,13.6,Worcestershire,NG Smith,AJ Hose,LW James,1,0,,,,,,"",""
+ball,1,14.1,Worcestershire,NG Smith,AJ Hose,DY Pennington,1,0,,,,,,"",""
+ball,1,14.2,Worcestershire,AJ Hose,NG Smith,DY Pennington,1,0,,,,,,"",""
+ball,1,14.3,Worcestershire,NG Smith,AJ Hose,DY Pennington,1,0,,,,,,"",""
+ball,1,14.4,Worcestershire,AJ Hose,NG Smith,DY Pennington,0,0,,,,,,"",""
+ball,1,14.5,Worcestershire,AJ Hose,NG Smith,DY Pennington,6,0,,,,,,"",""
+ball,1,14.6,Worcestershire,AJ Hose,NG Smith,DY Pennington,0,0,,,,,,"",""
+ball,1,15.1,Worcestershire,NG Smith,AJ Hose,BG Lister,2,0,,,,,,"",""
+ball,1,15.2,Worcestershire,NG Smith,AJ Hose,BG Lister,0,0,,,,,,"",""
+ball,1,15.3,Worcestershire,NG Smith,AJ Hose,BG Lister,0,2,,,,2,,"",""
+ball,1,15.4,Worcestershire,NG Smith,AJ Hose,BG Lister,2,0,,,,,,"",""
+ball,1,15.5,Worcestershire,NG Smith,AJ Hose,BG Lister,0,0,,,,,,"",""
+ball,1,15.6,Worcestershire,NG Smith,AJ Hose,BG Lister,6,0,,,,,,"",""
+ball,1,16.1,Worcestershire,AJ Hose,NG Smith,OP Stone,0,2,2,,,,,"",""
+ball,1,16.2,Worcestershire,NG Smith,AJ Hose,OP Stone,4,0,,,,,,"",""
+ball,1,16.3,Worcestershire,NG Smith,AJ Hose,OP Stone,1,0,,,,,,"",""
+ball,1,16.4,Worcestershire,AJ Hose,NG Smith,OP Stone,0,1,1,,,,,"",""
+ball,1,16.5,Worcestershire,AJ Hose,NG Smith,OP Stone,2,0,,,,,,"",""
+ball,1,16.6,Worcestershire,AJ Hose,NG Smith,OP Stone,0,0,,,,,,"",""
+ball,1,16.7,Worcestershire,AJ Hose,NG Smith,OP Stone,4,0,,,,,,"",""
+ball,1,16.8,Worcestershire,AJ Hose,NG Smith,OP Stone,4,0,,,,,,"",""
+ball,1,17.1,Worcestershire,NG Smith,AJ Hose,BG Lister,0,1,,,,1,,"",""
+ball,1,17.2,Worcestershire,AJ Hose,NG Smith,BG Lister,0,0,,,,,,"",""
+ball,1,17.3,Worcestershire,AJ Hose,NG Smith,BG Lister,0,0,,,,,,"",""
+ball,1,17.4,Worcestershire,AJ Hose,NG Smith,BG Lister,0,1,,,,1,,"",""
+ball,1,17.5,Worcestershire,NG Smith,AJ Hose,BG Lister,1,0,,,,,,"",""
+ball,1,17.6,Worcestershire,AJ Hose,NG Smith,BG Lister,0,0,,,,,,bowled,AJ Hose
+ball,1,18.1,Worcestershire,NG Smith,HR Walsh,OP Stone,1,0,,,,,,"",""
+ball,1,18.2,Worcestershire,HR Walsh,NG Smith,OP Stone,0,0,,,,,,"",""
+ball,1,18.3,Worcestershire,HR Walsh,NG Smith,OP Stone,1,0,,,,,,"",""
+ball,1,18.4,Worcestershire,NG Smith,HR Walsh,OP Stone,1,0,,,,,,"",""
+ball,1,18.5,Worcestershire,HR Walsh,NG Smith,OP Stone,0,0,,,,,,"",""
+ball,1,18.6,Worcestershire,HR Walsh,NG Smith,OP Stone,1,0,,,,,,"",""
+ball,1,19.1,Worcestershire,HR Walsh,NG Smith,LW James,4,0,,,,,,"",""
+ball,1,19.2,Worcestershire,HR Walsh,NG Smith,LW James,0,0,,,,,,caught,HR Walsh
+ball,1,19.3,Worcestershire,GH Roderick,NG Smith,LW James,2,0,,,,,,"",""
+ball,1,19.4,Worcestershire,GH Roderick,NG Smith,LW James,2,0,,,,,,"",""
+ball,1,19.5,Worcestershire,GH Roderick,NG Smith,LW James,1,0,,,,,,"",""
+ball,1,19.6,Worcestershire,NG Smith,GH Roderick,LW James,0,1,,,,1,,"",""
+ball,2,0.1,Nottinghamshire,JM Clarke,AD Hales,NG Smith,1,0,,,,,,"",""
+ball,2,0.2,Nottinghamshire,AD Hales,JM Clarke,NG Smith,0,0,,,,,,"",""
+ball,2,0.3,Nottinghamshire,AD Hales,JM Clarke,NG Smith,1,0,,,,,,"",""
+ball,2,0.4,Nottinghamshire,JM Clarke,AD Hales,NG Smith,0,0,,,,,,"",""
+ball,2,0.5,Nottinghamshire,JM Clarke,AD Hales,NG Smith,4,0,,,,,,"",""
+ball,2,0.6,Nottinghamshire,JM Clarke,AD Hales,NG Smith,0,1,,,,1,,"",""
+ball,2,1.1,Nottinghamshire,JM Clarke,AD Hales,TAI Taylor,0,0,,,,,,"",""
+ball,2,1.2,Nottinghamshire,JM Clarke,AD Hales,TAI Taylor,4,0,,,,,,"",""
+ball,2,1.3,Nottinghamshire,JM Clarke,AD Hales,TAI Taylor,0,0,,,,,,caught and bowled,JM Clarke
+ball,2,1.4,Nottinghamshire,JA Haynes,AD Hales,TAI Taylor,2,0,,,,,,"",""
+ball,2,1.5,Nottinghamshire,JA Haynes,AD Hales,TAI Taylor,0,0,,,,,,"",""
+ball,2,1.6,Nottinghamshire,JA Haynes,AD Hales,TAI Taylor,0,0,,,,,,"",""
+ball,2,2.1,Nottinghamshire,AD Hales,JA Haynes,AW Finch,2,0,,,,,,"",""
+ball,2,2.2,Nottinghamshire,AD Hales,JA Haynes,AW Finch,1,0,,,,,,"",""
+ball,2,2.3,Nottinghamshire,JA Haynes,AD Hales,AW Finch,1,0,,,,,,"",""
+ball,2,2.4,Nottinghamshire,AD Hales,JA Haynes,AW Finch,0,0,,,,,,"",""
+ball,2,2.5,Nottinghamshire,AD Hales,JA Haynes,AW Finch,0,0,,,,,,"",""
+ball,2,2.6,Nottinghamshire,AD Hales,JA Haynes,AW Finch,1,0,,,,,,"",""
+ball,2,3.1,Nottinghamshire,AD Hales,JA Haynes,NG Smith,0,0,,,,,,caught,AD Hales
+ball,2,3.2,Nottinghamshire,WA Young,JA Haynes,NG Smith,0,0,,,,,,"",""
+ball,2,3.3,Nottinghamshire,WA Young,JA Haynes,NG Smith,0,0,,,,,,"",""
+ball,2,3.4,Nottinghamshire,WA Young,JA Haynes,NG Smith,0,0,,,,,,"",""
+ball,2,3.5,Nottinghamshire,WA Young,JA Haynes,NG Smith,1,0,,,,,,"",""
+ball,2,3.6,Nottinghamshire,JA Haynes,WA Young,NG Smith,0,0,,,,,,"",""
+ball,2,4.1,Nottinghamshire,WA Young,JA Haynes,TAI Taylor,0,0,,,,,,"",""
+ball,2,4.2,Nottinghamshire,WA Young,JA Haynes,TAI Taylor,0,0,,,,,,"",""
+ball,2,4.3,Nottinghamshire,WA Young,JA Haynes,TAI Taylor,1,0,,,,,,"",""
+ball,2,4.4,Nottinghamshire,JA Haynes,WA Young,TAI Taylor,1,0,,,,,,"",""
+ball,2,4.5,Nottinghamshire,WA Young,JA Haynes,TAI Taylor,1,0,,,,,,"",""
+ball,2,4.6,Nottinghamshire,JA Haynes,WA Young,TAI Taylor,1,0,,,,,,"",""
+ball,2,5.1,Nottinghamshire,JA Haynes,WA Young,AW Finch,0,0,,,,,,"",""
+ball,2,5.2,Nottinghamshire,JA Haynes,WA Young,AW Finch,6,0,,,,,,"",""
+ball,2,5.3,Nottinghamshire,JA Haynes,WA Young,AW Finch,0,0,,,,,,lbw,JA Haynes
+ball,2,5.4,Nottinghamshire,M Montgomery,WA Young,AW Finch,1,0,,,,,,"",""
+ball,2,5.5,Nottinghamshire,WA Young,M Montgomery,AW Finch,0,0,,,,,,"",""
+ball,2,5.6,Nottinghamshire,WA Young,M Montgomery,AW Finch,0,0,,,,,,"",""
+ball,2,6.1,Nottinghamshire,M Montgomery,WA Young,EA Brookes,0,2,,2,,,,"",""
+ball,2,6.2,Nottinghamshire,M Montgomery,WA Young,EA Brookes,2,0,,,,,,"",""
+ball,2,6.3,Nottinghamshire,M Montgomery,WA Young,EA Brookes,1,0,,,,,,"",""
+ball,2,6.4,Nottinghamshire,WA Young,M Montgomery,EA Brookes,1,0,,,,,,"",""
+ball,2,6.5,Nottinghamshire,M Montgomery,WA Young,EA Brookes,0,0,,,,,,"",""
+ball,2,6.6,Nottinghamshire,M Montgomery,WA Young,EA Brookes,1,0,,,,,,"",""
+ball,2,6.7,Nottinghamshire,WA Young,M Montgomery,EA Brookes,1,0,,,,,,"",""
+ball,2,7.1,Nottinghamshire,WA Young,M Montgomery,HR Walsh,1,0,,,,,,"",""
+ball,2,7.2,Nottinghamshire,M Montgomery,WA Young,HR Walsh,1,0,,,,,,"",""
+ball,2,7.3,Nottinghamshire,WA Young,M Montgomery,HR Walsh,1,0,,,,,,"",""
+ball,2,7.4,Nottinghamshire,M Montgomery,WA Young,HR Walsh,2,0,,,,,,"",""
+ball,2,7.5,Nottinghamshire,M Montgomery,WA Young,HR Walsh,1,0,,,,,,"",""
+ball,2,7.6,Nottinghamshire,WA Young,M Montgomery,HR Walsh,0,0,,,,,,"",""
+ball,2,8.1,Nottinghamshire,M Montgomery,WA Young,EA Brookes,3,0,,,,,,"",""
+ball,2,8.2,Nottinghamshire,WA Young,M Montgomery,EA Brookes,1,0,,,,,,"",""
+ball,2,8.3,Nottinghamshire,M Montgomery,WA Young,EA Brookes,1,0,,,,,,"",""
+ball,2,8.4,Nottinghamshire,WA Young,M Montgomery,EA Brookes,4,0,,,,,,"",""
+ball,2,8.5,Nottinghamshire,WA Young,M Montgomery,EA Brookes,1,0,,,,,,"",""
+ball,2,8.6,Nottinghamshire,M Montgomery,WA Young,EA Brookes,0,0,,,,,,"",""
+ball,2,9.1,Nottinghamshire,WA Young,M Montgomery,JJ Cobb,2,0,,,,,,"",""
+ball,2,9.2,Nottinghamshire,WA Young,M Montgomery,JJ Cobb,1,0,,,,,,"",""
+ball,2,9.3,Nottinghamshire,M Montgomery,WA Young,JJ Cobb,1,0,,,,,,"",""
+ball,2,9.4,Nottinghamshire,WA Young,M Montgomery,JJ Cobb,2,0,,,,,,"",""
+ball,2,9.5,Nottinghamshire,WA Young,M Montgomery,JJ Cobb,0,0,,,,,,"",""
+ball,2,9.6,Nottinghamshire,WA Young,M Montgomery,JJ Cobb,1,0,,,,,,"",""
+ball,2,10.1,Nottinghamshire,WA Young,M Montgomery,HR Walsh,4,0,,,,,,"",""
+ball,2,10.2,Nottinghamshire,WA Young,M Montgomery,HR Walsh,1,0,,,,,,"",""
+ball,2,10.3,Nottinghamshire,M Montgomery,WA Young,HR Walsh,2,0,,,,,,"",""
+ball,2,10.4,Nottinghamshire,M Montgomery,WA Young,HR Walsh,2,0,,,,,,"",""
+ball,2,10.5,Nottinghamshire,M Montgomery,WA Young,HR Walsh,1,0,,,,,,"",""
+ball,2,10.6,Nottinghamshire,WA Young,M Montgomery,HR Walsh,0,0,,,,,,"",""
+ball,2,11.1,Nottinghamshire,M Montgomery,WA Young,TAI Taylor,1,0,,,,,,"",""
+ball,2,11.2,Nottinghamshire,WA Young,M Montgomery,TAI Taylor,1,0,,,,,,"",""
+ball,2,11.3,Nottinghamshire,M Montgomery,WA Young,TAI Taylor,0,0,,,,,,caught,M Montgomery
+ball,2,11.4,Nottinghamshire,LW James,WA Young,TAI Taylor,0,0,,,,,,run out,WA Young
+ball,2,11.5,Nottinghamshire,LW James,CG Harrison,TAI Taylor,1,0,,,,,,"",""
+ball,2,11.6,Nottinghamshire,CG Harrison,LW James,TAI Taylor,1,0,,,,,,"",""
+ball,2,12.1,Nottinghamshire,CG Harrison,LW James,HR Walsh,1,0,,,,,,"",""
+ball,2,12.2,Nottinghamshire,LW James,CG Harrison,HR Walsh,0,0,,,,,,"",""
+ball,2,12.3,Nottinghamshire,LW James,CG Harrison,HR Walsh,1,0,,,,,,"",""
+ball,2,12.4,Nottinghamshire,CG Harrison,LW James,HR Walsh,1,0,,,,,,"",""
+ball,2,12.5,Nottinghamshire,LW James,CG Harrison,HR Walsh,1,0,,,,,,"",""
+ball,2,12.6,Nottinghamshire,CG Harrison,LW James,HR Walsh,1,0,,,,,,"",""
+ball,2,13.1,Nottinghamshire,CG Harrison,LW James,JJ Cobb,1,0,,,,,,"",""
+ball,2,13.2,Nottinghamshire,LW James,CG Harrison,JJ Cobb,1,0,,,,,,"",""
+ball,2,13.3,Nottinghamshire,CG Harrison,LW James,JJ Cobb,0,0,,,,,,"",""
+ball,2,13.4,Nottinghamshire,CG Harrison,LW James,JJ Cobb,1,0,,,,,,"",""
+ball,2,13.5,Nottinghamshire,LW James,CG Harrison,JJ Cobb,1,0,,,,,,"",""
+ball,2,13.6,Nottinghamshire,CG Harrison,LW James,JJ Cobb,2,0,,,,,,"",""
+ball,2,14.1,Nottinghamshire,LW James,CG Harrison,HR Walsh,0,0,,,,,,"",""
+ball,2,14.2,Nottinghamshire,LW James,CG Harrison,HR Walsh,1,0,,,,,,"",""
+ball,2,14.3,Nottinghamshire,CG Harrison,LW James,HR Walsh,1,0,,,,,,"",""
+ball,2,14.4,Nottinghamshire,LW James,CG Harrison,HR Walsh,1,0,,,,,,"",""
+ball,2,14.5,Nottinghamshire,CG Harrison,LW James,HR Walsh,1,0,,,,,,"",""
+ball,2,14.6,Nottinghamshire,LW James,CG Harrison,HR Walsh,0,0,,,,,,caught,LW James
+ball,2,15.1,Nottinghamshire,CG Harrison,TJ Moores,AW Finch,1,0,,,,,,"",""
+ball,2,15.2,Nottinghamshire,TJ Moores,CG Harrison,AW Finch,0,0,,,,,,"",""
+ball,2,15.3,Nottinghamshire,TJ Moores,CG Harrison,AW Finch,1,0,,,,,,"",""
+ball,2,15.4,Nottinghamshire,CG Harrison,TJ Moores,AW Finch,1,0,,,,,,"",""
+ball,2,15.5,Nottinghamshire,TJ Moores,CG Harrison,AW Finch,2,0,,,,,,"",""
+ball,2,15.6,Nottinghamshire,TJ Moores,CG Harrison,AW Finch,1,0,,,,,,"",""
+ball,2,16.1,Nottinghamshire,TJ Moores,CG Harrison,TAI Taylor,1,0,,,,,,"",""
+ball,2,16.2,Nottinghamshire,CG Harrison,TJ Moores,TAI Taylor,1,0,,,,,,"",""
+ball,2,16.3,Nottinghamshire,TJ Moores,CG Harrison,TAI Taylor,1,0,,,,,,"",""
+ball,2,16.4,Nottinghamshire,CG Harrison,TJ Moores,TAI Taylor,2,0,,,,,,"",""
+ball,2,16.5,Nottinghamshire,CG Harrison,TJ Moores,TAI Taylor,4,0,,,,,,"",""
+ball,2,16.6,Nottinghamshire,CG Harrison,TJ Moores,TAI Taylor,0,0,,,,,,run out,CG Harrison
+ball,2,17.1,Nottinghamshire,TJ Moores,OP Stone,NG Smith,4,0,,,,,,"",""
+ball,2,17.2,Nottinghamshire,TJ Moores,OP Stone,NG Smith,1,0,,,,,,"",""
+ball,2,17.3,Nottinghamshire,OP Stone,TJ Moores,NG Smith,1,0,,,,,,"",""
+ball,2,17.4,Nottinghamshire,TJ Moores,OP Stone,NG Smith,0,0,,,,,,"",""
+ball,2,17.5,Nottinghamshire,TJ Moores,OP Stone,NG Smith,1,0,,,,,,"",""
+ball,2,17.6,Nottinghamshire,OP Stone,TJ Moores,NG Smith,1,0,,,,,,"",""
+ball,2,18.1,Nottinghamshire,OP Stone,TJ Moores,AW Finch,0,0,,,,,,"",""
+ball,2,18.2,Nottinghamshire,OP Stone,TJ Moores,AW Finch,4,0,,,,,,"",""
+ball,2,18.3,Nottinghamshire,OP Stone,TJ Moores,AW Finch,1,0,,,,,,"",""
+ball,2,18.4,Nottinghamshire,TJ Moores,OP Stone,AW Finch,0,1,,,,1,,"",""
+ball,2,18.5,Nottinghamshire,OP Stone,TJ Moores,AW Finch,4,0,,,,,,"",""
+ball,2,18.6,Nottinghamshire,OP Stone,TJ Moores,AW Finch,1,0,,,,,,"",""
+ball,2,19.1,Nottinghamshire,OP Stone,TJ Moores,NG Smith,1,0,,,,,,"",""
+ball,2,19.2,Nottinghamshire,TJ Moores,OP Stone,NG Smith,0,0,,,,,,"",""
+ball,2,19.3,Nottinghamshire,TJ Moores,OP Stone,NG Smith,6,0,,,,,,"",""
+ball,2,19.4,Nottinghamshire,TJ Moores,OP Stone,NG Smith,1,0,,,,,,"",""
+ball,2,19.5,Nottinghamshire,OP Stone,TJ Moores,NG Smith,1,0,,,,,,"",""
+ball,2,19.6,Nottinghamshire,TJ Moores,OP Stone,NG Smith,1,0,,,,,,"",""

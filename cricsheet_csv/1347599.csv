@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Sussex
+info,gender,male
+info,season,2023
+info,date,2023/06/01
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,PK Baldwin
+info,match_referee,SG Hinks
+info,winner,Essex
+info,winner_runs,25
+info,player,Essex,AM Rossington
+info,player,Essex,FIN Khushi
+info,player,Essex,DW Lawrence
+info,player,Essex,MJJ Critchley
+info,player,Essex,PI Walter
+info,player,Essex,RJ Das
+info,player,Essex,DR Sams
+info,player,Essex,T Westley
+info,player,Essex,SR Harmer
+info,player,Essex,S Snater
+info,player,Essex,SJ Cook
+info,player,Sussex,RS Bopara
+info,player,Sussex,TGR Clark
+info,player,Sussex,TP Alsop
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,JM Coles
+info,player,Sussex,GHS Garton
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,OJ Carter
+info,player,Sussex,TS Mills
+info,player,Sussex,HT Crocombe
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RJ Das,734344b3
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,S Snater,a790df98
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SR Harmer,23638956
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,T Westley,25a42048
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+ball,1,0.1,Essex,AM Rossington,FIN Khushi,GHS Garton,0,4,,,,4,,"",""
+ball,1,0.2,Essex,AM Rossington,FIN Khushi,GHS Garton,1,0,,,,,,"",""
+ball,1,0.3,Essex,FIN Khushi,AM Rossington,GHS Garton,1,0,,,,,,"",""
+ball,1,0.4,Essex,AM Rossington,FIN Khushi,GHS Garton,1,0,,,,,,"",""
+ball,1,0.5,Essex,FIN Khushi,AM Rossington,GHS Garton,6,0,,,,,,"",""
+ball,1,0.6,Essex,FIN Khushi,AM Rossington,GHS Garton,0,0,,,,,,"",""
+ball,1,1.1,Essex,AM Rossington,FIN Khushi,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,1.2,Essex,AM Rossington,FIN Khushi,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,1.3,Essex,AM Rossington,FIN Khushi,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,1.4,Essex,FIN Khushi,AM Rossington,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,1.5,Essex,AM Rossington,FIN Khushi,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,1.6,Essex,AM Rossington,FIN Khushi,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,2.1,Essex,FIN Khushi,AM Rossington,HT Crocombe,0,1,1,,,,,"",""
+ball,1,2.2,Essex,FIN Khushi,AM Rossington,HT Crocombe,1,0,,,,,,"",""
+ball,1,2.3,Essex,AM Rossington,FIN Khushi,HT Crocombe,0,0,,,,,,"",""
+ball,1,2.4,Essex,AM Rossington,FIN Khushi,HT Crocombe,0,0,,,,,,caught,AM Rossington
+ball,1,2.5,Essex,DW Lawrence,FIN Khushi,HT Crocombe,6,0,,,,,,"",""
+ball,1,2.6,Essex,DW Lawrence,FIN Khushi,HT Crocombe,0,1,1,,,,,"",""
+ball,1,2.7,Essex,DW Lawrence,FIN Khushi,HT Crocombe,1,0,,,,,,"",""
+ball,1,2.8,Essex,FIN Khushi,DW Lawrence,HT Crocombe,0,1,,,,1,,"",""
+ball,1,3.1,Essex,FIN Khushi,DW Lawrence,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,3.2,Essex,FIN Khushi,DW Lawrence,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,3.3,Essex,FIN Khushi,DW Lawrence,FJ Hudson-Prentice,2,0,,,,,,"",""
+ball,1,3.4,Essex,FIN Khushi,DW Lawrence,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,1,3.5,Essex,FIN Khushi,DW Lawrence,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,3.6,Essex,DW Lawrence,FIN Khushi,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,4.1,Essex,DW Lawrence,FIN Khushi,HT Crocombe,1,0,,,,,,"",""
+ball,1,4.2,Essex,FIN Khushi,DW Lawrence,HT Crocombe,1,0,,,,,,"",""
+ball,1,4.3,Essex,DW Lawrence,FIN Khushi,HT Crocombe,0,0,,,,,,"",""
+ball,1,4.4,Essex,DW Lawrence,FIN Khushi,HT Crocombe,0,1,1,,,,,"",""
+ball,1,4.5,Essex,DW Lawrence,FIN Khushi,HT Crocombe,1,0,,,,,,"",""
+ball,1,4.6,Essex,FIN Khushi,DW Lawrence,HT Crocombe,1,0,,,,,,"",""
+ball,1,4.7,Essex,DW Lawrence,FIN Khushi,HT Crocombe,4,0,,,,,,"",""
+ball,1,5.1,Essex,FIN Khushi,DW Lawrence,TS Mills,1,0,,,,,,"",""
+ball,1,5.2,Essex,DW Lawrence,FIN Khushi,TS Mills,1,0,,,,,,"",""
+ball,1,5.3,Essex,FIN Khushi,DW Lawrence,TS Mills,1,0,,,,,,"",""
+ball,1,5.4,Essex,DW Lawrence,FIN Khushi,TS Mills,4,0,,,,,,"",""
+ball,1,5.5,Essex,DW Lawrence,FIN Khushi,TS Mills,0,0,,,,,,caught,DW Lawrence
+ball,1,5.6,Essex,MJJ Critchley,FIN Khushi,TS Mills,0,0,,,,,,"",""
+ball,1,6.1,Essex,FIN Khushi,MJJ Critchley,RS Bopara,0,0,,,,,,"",""
+ball,1,6.2,Essex,FIN Khushi,MJJ Critchley,RS Bopara,1,0,,,,,,"",""
+ball,1,6.3,Essex,MJJ Critchley,FIN Khushi,RS Bopara,1,0,,,,,,"",""
+ball,1,6.4,Essex,FIN Khushi,MJJ Critchley,RS Bopara,1,0,,,,,,"",""
+ball,1,6.5,Essex,MJJ Critchley,FIN Khushi,RS Bopara,1,2,,2,,,,"",""
+ball,1,6.6,Essex,FIN Khushi,MJJ Critchley,RS Bopara,0,0,,,,,,"",""
+ball,1,6.7,Essex,FIN Khushi,MJJ Critchley,RS Bopara,1,0,,,,,,"",""
+ball,1,7.1,Essex,FIN Khushi,MJJ Critchley,Shadab Khan,2,0,,,,,,"",""
+ball,1,7.2,Essex,FIN Khushi,MJJ Critchley,Shadab Khan,1,0,,,,,,"",""
+ball,1,7.3,Essex,MJJ Critchley,FIN Khushi,Shadab Khan,1,0,,,,,,"",""
+ball,1,7.4,Essex,FIN Khushi,MJJ Critchley,Shadab Khan,1,0,,,,,,"",""
+ball,1,7.5,Essex,MJJ Critchley,FIN Khushi,Shadab Khan,1,0,,,,,,"",""
+ball,1,7.6,Essex,FIN Khushi,MJJ Critchley,Shadab Khan,1,0,,,,,,"",""
+ball,1,8.1,Essex,FIN Khushi,MJJ Critchley,RS Bopara,0,0,,,,,,"",""
+ball,1,8.2,Essex,FIN Khushi,MJJ Critchley,RS Bopara,4,0,,,,,,"",""
+ball,1,8.3,Essex,FIN Khushi,MJJ Critchley,RS Bopara,1,0,,,,,,"",""
+ball,1,8.4,Essex,MJJ Critchley,FIN Khushi,RS Bopara,4,0,,,,,,"",""
+ball,1,8.5,Essex,MJJ Critchley,FIN Khushi,RS Bopara,1,0,,,,,,"",""
+ball,1,8.6,Essex,FIN Khushi,MJJ Critchley,RS Bopara,1,0,,,,,,"",""
+ball,1,9.1,Essex,FIN Khushi,MJJ Critchley,Shadab Khan,1,0,,,,,,"",""
+ball,1,9.2,Essex,MJJ Critchley,FIN Khushi,Shadab Khan,0,0,,,,,,caught,MJJ Critchley
+ball,1,9.3,Essex,PI Walter,FIN Khushi,Shadab Khan,0,0,,,,,,caught,PI Walter
+ball,1,9.4,Essex,RJ Das,FIN Khushi,Shadab Khan,1,0,,,,,,"",""
+ball,1,9.5,Essex,FIN Khushi,RJ Das,Shadab Khan,1,0,,,,,,"",""
+ball,1,9.6,Essex,RJ Das,FIN Khushi,Shadab Khan,0,0,,,,,,"",""
+ball,1,10.1,Essex,FIN Khushi,RJ Das,RS Bopara,1,0,,,,,,"",""
+ball,1,10.2,Essex,RJ Das,FIN Khushi,RS Bopara,1,0,,,,,,"",""
+ball,1,10.3,Essex,FIN Khushi,RJ Das,RS Bopara,4,0,,,,,,"",""
+ball,1,10.4,Essex,FIN Khushi,RJ Das,RS Bopara,1,0,,,,,,"",""
+ball,1,10.5,Essex,RJ Das,FIN Khushi,RS Bopara,1,0,,,,,,"",""
+ball,1,10.6,Essex,FIN Khushi,RJ Das,RS Bopara,1,0,,,,,,"",""
+ball,1,11.1,Essex,FIN Khushi,RJ Das,Shadab Khan,1,0,,,,,,"",""
+ball,1,11.2,Essex,RJ Das,FIN Khushi,Shadab Khan,0,0,,,,,,"",""
+ball,1,11.3,Essex,RJ Das,FIN Khushi,Shadab Khan,0,0,,,,,,"",""
+ball,1,11.4,Essex,RJ Das,FIN Khushi,Shadab Khan,4,0,,,,,,"",""
+ball,1,11.5,Essex,RJ Das,FIN Khushi,Shadab Khan,1,0,,,,,,"",""
+ball,1,11.6,Essex,FIN Khushi,RJ Das,Shadab Khan,4,0,,,,,,"",""
+ball,1,12.1,Essex,RJ Das,FIN Khushi,TS Mills,1,0,,,,,,"",""
+ball,1,12.2,Essex,FIN Khushi,RJ Das,TS Mills,1,0,,,,,,"",""
+ball,1,12.3,Essex,RJ Das,FIN Khushi,TS Mills,2,0,,,,,,"",""
+ball,1,12.4,Essex,RJ Das,FIN Khushi,TS Mills,1,0,,,,,,"",""
+ball,1,12.5,Essex,FIN Khushi,RJ Das,TS Mills,0,0,,,,,,caught,FIN Khushi
+ball,1,12.6,Essex,DR Sams,RJ Das,TS Mills,0,0,,,,,,"",""
+ball,1,13.1,Essex,RJ Das,DR Sams,JM Coles,1,0,,,,,,"",""
+ball,1,13.2,Essex,DR Sams,RJ Das,JM Coles,1,0,,,,,,"",""
+ball,1,13.3,Essex,RJ Das,DR Sams,JM Coles,1,0,,,,,,"",""
+ball,1,13.4,Essex,DR Sams,RJ Das,JM Coles,1,0,,,,,,"",""
+ball,1,13.5,Essex,RJ Das,DR Sams,JM Coles,4,0,,,,,,"",""
+ball,1,13.6,Essex,RJ Das,DR Sams,JM Coles,0,0,,,,,,"",""
+ball,1,14.1,Essex,DR Sams,RJ Das,GHS Garton,4,0,,,,,,"",""
+ball,1,14.2,Essex,DR Sams,RJ Das,GHS Garton,0,1,1,,,,,"",""
+ball,1,14.3,Essex,DR Sams,RJ Das,GHS Garton,0,0,,,,,,"",""
+ball,1,14.4,Essex,DR Sams,RJ Das,GHS Garton,2,0,,,,,,"",""
+ball,1,14.5,Essex,DR Sams,RJ Das,GHS Garton,0,0,,,,,,bowled,DR Sams
+ball,1,14.6,Essex,T Westley,RJ Das,GHS Garton,0,0,,,,,,"",""
+ball,1,14.7,Essex,T Westley,RJ Das,GHS Garton,1,0,,,,,,"",""
+ball,1,15.1,Essex,T Westley,RJ Das,Shadab Khan,1,0,,,,,,"",""
+ball,1,15.2,Essex,RJ Das,T Westley,Shadab Khan,3,0,,,,,,"",""
+ball,1,15.3,Essex,T Westley,RJ Das,Shadab Khan,0,0,,,,,,caught,T Westley
+ball,1,15.4,Essex,SR Harmer,RJ Das,Shadab Khan,1,0,,,,,,"",""
+ball,1,15.5,Essex,RJ Das,SR Harmer,Shadab Khan,1,0,,,,,,"",""
+ball,1,15.6,Essex,SR Harmer,RJ Das,Shadab Khan,2,0,,,,,,"",""
+ball,1,16.1,Essex,RJ Das,SR Harmer,TS Mills,1,0,,,,,,"",""
+ball,1,16.2,Essex,SR Harmer,RJ Das,TS Mills,1,0,,,,,,"",""
+ball,1,16.3,Essex,RJ Das,SR Harmer,TS Mills,1,0,,,,,,"",""
+ball,1,16.4,Essex,SR Harmer,RJ Das,TS Mills,0,0,,,,,,"",""
+ball,1,16.5,Essex,SR Harmer,RJ Das,TS Mills,1,0,,,,,,"",""
+ball,1,16.6,Essex,RJ Das,SR Harmer,TS Mills,4,0,,,,,,"",""
+ball,1,17.1,Essex,SR Harmer,RJ Das,HT Crocombe,0,1,1,,,,,"",""
+ball,1,17.2,Essex,SR Harmer,RJ Das,HT Crocombe,0,0,,,,,,"",""
+ball,1,17.3,Essex,SR Harmer,RJ Das,HT Crocombe,1,0,,,,,,"",""
+ball,1,17.4,Essex,RJ Das,SR Harmer,HT Crocombe,0,1,,,1,,,"",""
+ball,1,17.5,Essex,SR Harmer,RJ Das,HT Crocombe,1,0,,,,,,"",""
+ball,1,17.6,Essex,RJ Das,SR Harmer,HT Crocombe,1,0,,,,,,"",""
+ball,1,17.7,Essex,SR Harmer,RJ Das,HT Crocombe,1,0,,,,,,"",""
+ball,1,18.1,Essex,SR Harmer,RJ Das,TS Mills,4,0,,,,,,"",""
+ball,1,18.2,Essex,SR Harmer,RJ Das,TS Mills,4,0,,,,,,"",""
+ball,1,18.3,Essex,SR Harmer,RJ Das,TS Mills,1,0,,,,,,"",""
+ball,1,18.4,Essex,RJ Das,SR Harmer,TS Mills,1,0,,,,,,"",""
+ball,1,18.5,Essex,SR Harmer,RJ Das,TS Mills,1,0,,,,,,"",""
+ball,1,18.6,Essex,RJ Das,SR Harmer,TS Mills,1,0,,,,,,"",""
+ball,1,19.1,Essex,RJ Das,SR Harmer,HT Crocombe,0,1,,,,1,,"",""
+ball,1,19.2,Essex,SR Harmer,RJ Das,HT Crocombe,0,0,,,,,,"",""
+ball,1,19.3,Essex,SR Harmer,RJ Das,HT Crocombe,0,0,,,,,,"",""
+ball,1,19.4,Essex,SR Harmer,RJ Das,HT Crocombe,1,0,,,,,,"",""
+ball,1,19.5,Essex,RJ Das,SR Harmer,HT Crocombe,0,1,,,,1,,"",""
+ball,1,19.6,Essex,SR Harmer,RJ Das,HT Crocombe,2,0,,,,,,"",""
+ball,2,0.1,Sussex,RS Bopara,TGR Clark,SJ Cook,1,0,,,,,,"",""
+ball,2,0.2,Sussex,TGR Clark,RS Bopara,SJ Cook,1,0,,,,,,"",""
+ball,2,0.3,Sussex,RS Bopara,TGR Clark,SJ Cook,0,0,,,,,,"",""
+ball,2,0.4,Sussex,RS Bopara,TGR Clark,SJ Cook,0,0,,,,,,caught,RS Bopara
+ball,2,0.5,Sussex,TP Alsop,TGR Clark,SJ Cook,3,0,,,,,,"",""
+ball,2,0.6,Sussex,TGR Clark,TP Alsop,SJ Cook,4,0,,,,,,"",""
+ball,2,1.1,Sussex,TP Alsop,TGR Clark,DR Sams,0,0,,,,,,"",""
+ball,2,1.2,Sussex,TP Alsop,TGR Clark,DR Sams,0,0,,,,,,"",""
+ball,2,1.3,Sussex,TP Alsop,TGR Clark,DR Sams,1,0,,,,,,"",""
+ball,2,1.4,Sussex,TGR Clark,TP Alsop,DR Sams,0,0,,,,,,"",""
+ball,2,1.5,Sussex,TGR Clark,TP Alsop,DR Sams,0,0,,,,,,"",""
+ball,2,1.6,Sussex,TGR Clark,TP Alsop,DR Sams,0,1,1,,,,,"",""
+ball,2,1.7,Sussex,TGR Clark,TP Alsop,DR Sams,4,0,,,,,,"",""
+ball,2,2.1,Sussex,TP Alsop,TGR Clark,SR Harmer,0,0,,,,,,caught,TP Alsop
+ball,2,2.2,Sussex,Shadab Khan,TGR Clark,SR Harmer,0,0,,,,,,caught,Shadab Khan
+ball,2,2.3,Sussex,MGK Burgess,TGR Clark,SR Harmer,0,0,,,,,,lbw,MGK Burgess
+ball,2,2.4,Sussex,JM Coles,TGR Clark,SR Harmer,1,0,,,,,,"",""
+ball,2,2.5,Sussex,TGR Clark,JM Coles,SR Harmer,4,0,,,,,,"",""
+ball,2,2.6,Sussex,TGR Clark,JM Coles,SR Harmer,1,0,,,,,,"",""
+ball,2,3.1,Sussex,TGR Clark,JM Coles,DR Sams,1,0,,,,,,"",""
+ball,2,3.2,Sussex,JM Coles,TGR Clark,DR Sams,0,0,,,,,,"",""
+ball,2,3.3,Sussex,JM Coles,TGR Clark,DR Sams,1,0,,,,,,"",""
+ball,2,3.4,Sussex,TGR Clark,JM Coles,DR Sams,6,0,,,,,,"",""
+ball,2,3.5,Sussex,TGR Clark,JM Coles,DR Sams,0,1,,,,1,,"",""
+ball,2,3.6,Sussex,JM Coles,TGR Clark,DR Sams,1,0,,,,,,"",""
+ball,2,4.1,Sussex,JM Coles,TGR Clark,SJ Cook,0,1,1,,,,,"",""
+ball,2,4.2,Sussex,JM Coles,TGR Clark,SJ Cook,0,0,,,,,,"",""
+ball,2,4.3,Sussex,JM Coles,TGR Clark,SJ Cook,1,0,,,,,,"",""
+ball,2,4.4,Sussex,TGR Clark,JM Coles,SJ Cook,0,0,,,,,,"",""
+ball,2,4.5,Sussex,TGR Clark,JM Coles,SJ Cook,4,0,,,,,,"",""
+ball,2,4.6,Sussex,TGR Clark,JM Coles,SJ Cook,1,0,,,,,,"",""
+ball,2,4.7,Sussex,JM Coles,TGR Clark,SJ Cook,1,0,,,,,,"",""
+ball,2,5.1,Sussex,JM Coles,TGR Clark,S Snater,1,0,,,,,,"",""
+ball,2,5.2,Sussex,TGR Clark,JM Coles,S Snater,1,0,,,,,,"",""
+ball,2,5.3,Sussex,JM Coles,TGR Clark,S Snater,4,0,,,,,,"",""
+ball,2,5.4,Sussex,JM Coles,TGR Clark,S Snater,1,0,,,,,,"",""
+ball,2,5.5,Sussex,TGR Clark,JM Coles,S Snater,2,0,,,,,,"",""
+ball,2,5.6,Sussex,TGR Clark,JM Coles,S Snater,0,2,,2,,,,"",""
+ball,2,5.7,Sussex,TGR Clark,JM Coles,S Snater,0,0,,,,,,"",""
+ball,2,6.1,Sussex,JM Coles,TGR Clark,SR Harmer,1,0,,,,,,"",""
+ball,2,6.2,Sussex,TGR Clark,JM Coles,SR Harmer,1,0,,,,,,"",""
+ball,2,6.3,Sussex,JM Coles,TGR Clark,SR Harmer,1,0,,,,,,"",""
+ball,2,6.4,Sussex,TGR Clark,JM Coles,SR Harmer,1,0,,,,,,"",""
+ball,2,6.5,Sussex,JM Coles,TGR Clark,SR Harmer,1,0,,,,,,"",""
+ball,2,6.6,Sussex,TGR Clark,JM Coles,SR Harmer,0,0,,,,,,"",""
+ball,2,7.1,Sussex,JM Coles,TGR Clark,MJJ Critchley,1,0,,,,,,"",""
+ball,2,7.2,Sussex,TGR Clark,JM Coles,MJJ Critchley,0,0,,,,,,lbw,TGR Clark
+ball,2,7.3,Sussex,GHS Garton,JM Coles,MJJ Critchley,4,0,,,,,,"",""
+ball,2,7.4,Sussex,GHS Garton,JM Coles,MJJ Critchley,1,0,,,,,,"",""
+ball,2,7.5,Sussex,JM Coles,GHS Garton,MJJ Critchley,1,0,,,,,,"",""
+ball,2,7.6,Sussex,GHS Garton,JM Coles,MJJ Critchley,1,0,,,,,,"",""
+ball,2,8.1,Sussex,GHS Garton,JM Coles,DW Lawrence,0,1,1,,,,,"",""
+ball,2,8.2,Sussex,GHS Garton,JM Coles,DW Lawrence,1,0,,,,,,"",""
+ball,2,8.3,Sussex,JM Coles,GHS Garton,DW Lawrence,1,0,,,,,,"",""
+ball,2,8.4,Sussex,GHS Garton,JM Coles,DW Lawrence,0,0,,,,,,caught and bowled,GHS Garton
+ball,2,8.5,Sussex,FJ Hudson-Prentice,JM Coles,DW Lawrence,0,0,,,,,,"",""
+ball,2,8.6,Sussex,FJ Hudson-Prentice,JM Coles,DW Lawrence,1,0,,,,,,"",""
+ball,2,8.7,Sussex,JM Coles,FJ Hudson-Prentice,DW Lawrence,2,0,,,,,,"",""
+ball,2,9.1,Sussex,FJ Hudson-Prentice,JM Coles,MJJ Critchley,1,0,,,,,,"",""
+ball,2,9.2,Sussex,JM Coles,FJ Hudson-Prentice,MJJ Critchley,0,0,,,,,,"",""
+ball,2,9.3,Sussex,JM Coles,FJ Hudson-Prentice,MJJ Critchley,1,0,,,,,,"",""
+ball,2,9.4,Sussex,FJ Hudson-Prentice,JM Coles,MJJ Critchley,1,0,,,,,,"",""
+ball,2,9.5,Sussex,JM Coles,FJ Hudson-Prentice,MJJ Critchley,1,0,,,,,,"",""
+ball,2,9.6,Sussex,FJ Hudson-Prentice,JM Coles,MJJ Critchley,0,0,,,,,,"",""
+ball,2,10.1,Sussex,JM Coles,FJ Hudson-Prentice,PI Walter,0,0,,,,,,"",""
+ball,2,10.2,Sussex,JM Coles,FJ Hudson-Prentice,PI Walter,4,0,,,,,,"",""
+ball,2,10.3,Sussex,JM Coles,FJ Hudson-Prentice,PI Walter,1,0,,,,,,"",""
+ball,2,10.4,Sussex,FJ Hudson-Prentice,JM Coles,PI Walter,2,0,,,,,,"",""
+ball,2,10.5,Sussex,FJ Hudson-Prentice,JM Coles,PI Walter,1,0,,,,,,"",""
+ball,2,10.6,Sussex,JM Coles,FJ Hudson-Prentice,PI Walter,0,1,1,,,,,"",""
+ball,2,10.7,Sussex,JM Coles,FJ Hudson-Prentice,PI Walter,1,0,,,,,,"",""
+ball,2,11.1,Sussex,JM Coles,FJ Hudson-Prentice,SR Harmer,1,0,,,,,,"",""
+ball,2,11.2,Sussex,FJ Hudson-Prentice,JM Coles,SR Harmer,3,0,,,,,,"",""
+ball,2,11.3,Sussex,JM Coles,FJ Hudson-Prentice,SR Harmer,0,1,,,,1,,"",""
+ball,2,11.4,Sussex,FJ Hudson-Prentice,JM Coles,SR Harmer,0,0,,,,,,"",""
+ball,2,11.5,Sussex,FJ Hudson-Prentice,JM Coles,SR Harmer,0,0,,,,,,caught,FJ Hudson-Prentice
+ball,2,11.6,Sussex,OJ Carter,JM Coles,SR Harmer,1,0,,,,,,"",""
+ball,2,12.1,Sussex,OJ Carter,JM Coles,DW Lawrence,1,0,,,,,,"",""
+ball,2,12.2,Sussex,JM Coles,OJ Carter,DW Lawrence,1,0,,,,,,"",""
+ball,2,12.3,Sussex,OJ Carter,JM Coles,DW Lawrence,1,0,,,,,,"",""
+ball,2,12.4,Sussex,JM Coles,OJ Carter,DW Lawrence,1,0,,,,,,"",""
+ball,2,12.5,Sussex,OJ Carter,JM Coles,DW Lawrence,1,0,,,,,,"",""
+ball,2,12.6,Sussex,JM Coles,OJ Carter,DW Lawrence,4,0,,,,,,"",""
+ball,2,13.1,Sussex,OJ Carter,JM Coles,MJJ Critchley,1,0,,,,,,"",""
+ball,2,13.2,Sussex,JM Coles,OJ Carter,MJJ Critchley,1,0,,,,,,"",""
+ball,2,13.3,Sussex,OJ Carter,JM Coles,MJJ Critchley,4,0,,,,,,"",""
+ball,2,13.4,Sussex,OJ Carter,JM Coles,MJJ Critchley,1,0,,,,,,"",""
+ball,2,13.5,Sussex,JM Coles,OJ Carter,MJJ Critchley,0,0,,,,,,caught,JM Coles
+ball,2,13.6,Sussex,TS Mills,OJ Carter,MJJ Critchley,1,0,,,,,,"",""
+ball,2,14.1,Sussex,TS Mills,OJ Carter,DR Sams,1,0,,,,,,"",""
+ball,2,14.2,Sussex,OJ Carter,TS Mills,DR Sams,0,0,,,,,,"",""
+ball,2,14.3,Sussex,OJ Carter,TS Mills,DR Sams,0,0,,,,,,"",""
+ball,2,14.4,Sussex,OJ Carter,TS Mills,DR Sams,0,0,,,,,,"",""
+ball,2,14.5,Sussex,OJ Carter,TS Mills,DR Sams,0,0,,,,,,"",""
+ball,2,14.6,Sussex,OJ Carter,TS Mills,DR Sams,0,0,,,,,,"",""
+ball,2,15.1,Sussex,TS Mills,OJ Carter,MJJ Critchley,0,0,,,,,,bowled,TS Mills
+ball,2,15.2,Sussex,HT Crocombe,OJ Carter,MJJ Critchley,0,0,,,,,,"",""
+ball,2,15.3,Sussex,HT Crocombe,OJ Carter,MJJ Critchley,0,1,,,,1,,"",""
+ball,2,15.4,Sussex,OJ Carter,HT Crocombe,MJJ Critchley,1,0,,,,,,"",""
+ball,2,15.5,Sussex,HT Crocombe,OJ Carter,MJJ Critchley,1,0,,,,,,"",""
+ball,2,15.6,Sussex,OJ Carter,HT Crocombe,MJJ Critchley,6,0,,,,,,"",""
+ball,2,16.1,Sussex,HT Crocombe,OJ Carter,SR Harmer,0,1,1,,,,,"",""
+ball,2,16.2,Sussex,HT Crocombe,OJ Carter,SR Harmer,6,0,,,,,,"",""
+ball,2,16.3,Sussex,HT Crocombe,OJ Carter,SR Harmer,0,0,,,,,,"",""
+ball,2,16.4,Sussex,HT Crocombe,OJ Carter,SR Harmer,1,0,,,,,,"",""
+ball,2,16.5,Sussex,OJ Carter,HT Crocombe,SR Harmer,1,0,,,,,,"",""
+ball,2,16.6,Sussex,HT Crocombe,OJ Carter,SR Harmer,1,0,,,,,,"",""
+ball,2,16.7,Sussex,OJ Carter,HT Crocombe,SR Harmer,2,0,,,,,,"",""
+ball,2,17.1,Sussex,HT Crocombe,OJ Carter,SJ Cook,1,0,,,,,,"",""
+ball,2,17.2,Sussex,OJ Carter,HT Crocombe,SJ Cook,1,0,,,,,,"",""
+ball,2,17.3,Sussex,HT Crocombe,OJ Carter,SJ Cook,1,0,,,,,,"",""
+ball,2,17.4,Sussex,OJ Carter,HT Crocombe,SJ Cook,0,0,,,,,,"",""
+ball,2,17.5,Sussex,OJ Carter,HT Crocombe,SJ Cook,4,0,,,,,,"",""
+ball,2,17.6,Sussex,OJ Carter,HT Crocombe,SJ Cook,0,0,,,,,,"",""
+ball,2,18.1,Sussex,HT Crocombe,OJ Carter,DR Sams,1,0,,,,,,"",""
+ball,2,18.2,Sussex,OJ Carter,HT Crocombe,DR Sams,2,0,,,,,,"",""
+ball,2,18.3,Sussex,OJ Carter,HT Crocombe,DR Sams,0,0,,,,,,"",""
+ball,2,18.4,Sussex,OJ Carter,HT Crocombe,DR Sams,0,0,,,,,,bowled,OJ Carter

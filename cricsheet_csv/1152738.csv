@@ -1,0 +1,296 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Sydney Thunder
+info,gender,female
+info,season,2018/19
+info,date,2018/12/15
+info,event,Women's Big Bash League
+info,match_number,14
+info,venue,Bellerive Oval
+info,city,Hobart
+info,toss_winner,Sydney Thunder
+info,toss_decision,field
+info,player_of_match,SW Bates
+info,umpire,DR Close
+info,umpire,MW Graham-Smith
+info,match_referee,Ian Thomas
+info,winner,Sydney Thunder
+info,winner_wickets,6
+info,player,Adelaide Strikers,SW Bates
+info,player,Adelaide Strikers,TM McGrath
+info,player,Adelaide Strikers,A Wellington
+info,player,Adelaide Strikers,BE Patterson
+info,player,Adelaide Strikers,T Saville
+info,player,Adelaide Strikers,TJ McPharlin
+info,player,Adelaide Strikers,SM Betts
+info,player,Adelaide Strikers,ML Schutt
+info,player,Adelaide Strikers,SJ Coyte
+info,player,Adelaide Strikers,A Price
+info,player,Adelaide Strikers,D Hazell
+info,player,Sydney Thunder,RH Priest
+info,player,Sydney Thunder,SR Taylor
+info,player,Sydney Thunder,NE Stalenberg
+info,player,Sydney Thunder,H Kaur
+info,player,Sydney Thunder,AJ Blackwell
+info,player,Sydney Thunder,NJ Carey
+info,player,Sydney Thunder,RM Farrell
+info,player,Sydney Thunder,ML Gibson
+info,player,Sydney Thunder,L Griffith
+info,player,Sydney Thunder,SL Bates
+info,player,Sydney Thunder,B Vakarewa
+info,registry,people,A Price,99e26cea
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AJ Blackwell,b9164a9b
+info,registry,people,B Vakarewa,06f988b8
+info,registry,people,BE Patterson,7dfbcfff
+info,registry,people,D Hazell,ea8b65ab
+info,registry,people,DR Close,4cae2b0c
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,Ian Thomas,d4c0dc60
+info,registry,people,L Griffith,abe30ff7
+info,registry,people,ML Gibson,27fa592f
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,NE Stalenberg,609c519e
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,RH Priest,e6f0408a
+info,registry,people,RM Farrell,4ed7d23f
+info,registry,people,SJ Coyte,a5f488bc
+info,registry,people,SL Bates,0816fb1e
+info,registry,people,SM Betts,c4fd751d
+info,registry,people,SR Taylor,92cf79a8
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,T Saville,2ef9bdcb
+info,registry,people,TJ McPharlin,595e1ee7
+info,registry,people,TM McGrath,ca5acfa4
+ball,1,0.1,Adelaide Strikers,SW Bates,TM McGrath,RM Farrell,0,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,SW Bates,TM McGrath,RM Farrell,1,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,TM McGrath,SW Bates,RM Farrell,1,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,SW Bates,TM McGrath,RM Farrell,1,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,TM McGrath,SW Bates,RM Farrell,0,0,,,,,,"",""
+ball,1,0.6,Adelaide Strikers,TM McGrath,SW Bates,RM Farrell,0,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,SW Bates,TM McGrath,SL Bates,2,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,SW Bates,TM McGrath,SL Bates,0,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,SW Bates,TM McGrath,SL Bates,0,0,,,,,,"",""
+ball,1,1.4,Adelaide Strikers,SW Bates,TM McGrath,SL Bates,0,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,SW Bates,TM McGrath,SL Bates,0,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,SW Bates,TM McGrath,SL Bates,4,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,TM McGrath,SW Bates,RM Farrell,0,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,TM McGrath,SW Bates,RM Farrell,0,0,,,,,,"",""
+ball,1,2.3,Adelaide Strikers,TM McGrath,SW Bates,RM Farrell,0,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,TM McGrath,SW Bates,RM Farrell,0,0,,,,,,caught,TM McGrath
+ball,1,2.5,Adelaide Strikers,SW Bates,A Wellington,RM Farrell,0,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,SW Bates,A Wellington,RM Farrell,1,0,,,,,,"",""
+ball,1,3.1,Adelaide Strikers,SW Bates,A Wellington,SR Taylor,2,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,SW Bates,A Wellington,SR Taylor,2,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,SW Bates,A Wellington,SR Taylor,1,0,,,,,,"",""
+ball,1,3.4,Adelaide Strikers,A Wellington,SW Bates,SR Taylor,0,0,,,,,,caught,A Wellington
+ball,1,3.5,Adelaide Strikers,BE Patterson,SW Bates,SR Taylor,4,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,BE Patterson,SW Bates,SR Taylor,0,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,SW Bates,BE Patterson,SL Bates,0,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,SW Bates,BE Patterson,SL Bates,1,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,BE Patterson,SW Bates,SL Bates,0,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,BE Patterson,SW Bates,SL Bates,0,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,BE Patterson,SW Bates,SL Bates,1,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,SW Bates,BE Patterson,SL Bates,4,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,BE Patterson,SW Bates,SR Taylor,4,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,BE Patterson,SW Bates,SR Taylor,0,0,,,,,,caught,BE Patterson
+ball,1,5.3,Adelaide Strikers,SW Bates,T Saville,SR Taylor,1,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,T Saville,SW Bates,SR Taylor,1,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,SW Bates,T Saville,SR Taylor,1,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,T Saville,SW Bates,SR Taylor,0,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,SW Bates,T Saville,NJ Carey,1,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,T Saville,SW Bates,NJ Carey,4,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,T Saville,SW Bates,NJ Carey,1,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,SW Bates,T Saville,NJ Carey,2,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,SW Bates,T Saville,NJ Carey,1,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,T Saville,SW Bates,NJ Carey,0,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,SW Bates,T Saville,ML Gibson,1,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,T Saville,SW Bates,ML Gibson,1,0,,,,,,"",""
+ball,1,7.3,Adelaide Strikers,SW Bates,T Saville,ML Gibson,0,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,SW Bates,T Saville,ML Gibson,1,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,T Saville,SW Bates,ML Gibson,0,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,T Saville,SW Bates,ML Gibson,0,0,,,,,,lbw,T Saville
+ball,1,8.1,Adelaide Strikers,SW Bates,TJ McPharlin,L Griffith,1,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,TJ McPharlin,SW Bates,L Griffith,1,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,SW Bates,TJ McPharlin,L Griffith,1,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,TJ McPharlin,SW Bates,L Griffith,4,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,TJ McPharlin,SW Bates,L Griffith,0,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,TJ McPharlin,SW Bates,L Griffith,0,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,SW Bates,TJ McPharlin,ML Gibson,1,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,TJ McPharlin,SW Bates,ML Gibson,2,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,TJ McPharlin,SW Bates,ML Gibson,0,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,TJ McPharlin,SW Bates,ML Gibson,0,0,,,,,,lbw,TJ McPharlin
+ball,1,9.5,Adelaide Strikers,SM Betts,SW Bates,ML Gibson,0,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,SM Betts,SW Bates,ML Gibson,1,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,SM Betts,SW Bates,SL Bates,0,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,SM Betts,SW Bates,SL Bates,1,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,SW Bates,SM Betts,SL Bates,2,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,SW Bates,SM Betts,SL Bates,1,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,SM Betts,SW Bates,SL Bates,0,0,,,,,,bowled,SM Betts
+ball,1,10.6,Adelaide Strikers,ML Schutt,SW Bates,SL Bates,0,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,SW Bates,ML Schutt,ML Gibson,1,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,ML Schutt,SW Bates,ML Gibson,3,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,SW Bates,ML Schutt,ML Gibson,4,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,SW Bates,ML Schutt,ML Gibson,0,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,SW Bates,ML Schutt,ML Gibson,0,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,SW Bates,ML Schutt,ML Gibson,1,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,SW Bates,ML Schutt,SL Bates,0,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,SW Bates,ML Schutt,SL Bates,1,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,ML Schutt,SW Bates,SL Bates,1,0,,,,,,"",""
+ball,1,12.4,Adelaide Strikers,SW Bates,ML Schutt,SL Bates,0,0,,,,,,"",""
+ball,1,12.5,Adelaide Strikers,SW Bates,ML Schutt,SL Bates,2,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,SW Bates,ML Schutt,SL Bates,1,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,SW Bates,ML Schutt,SR Taylor,4,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,SW Bates,ML Schutt,SR Taylor,1,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,ML Schutt,SW Bates,SR Taylor,0,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,ML Schutt,SW Bates,SR Taylor,0,0,,,,,,caught and bowled,ML Schutt
+ball,1,13.5,Adelaide Strikers,SJ Coyte,SW Bates,SR Taylor,1,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,SW Bates,SJ Coyte,SR Taylor,2,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,SJ Coyte,SW Bates,RM Farrell,1,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,SW Bates,SJ Coyte,RM Farrell,1,0,,,,,,"",""
+ball,1,14.3,Adelaide Strikers,SJ Coyte,SW Bates,RM Farrell,1,0,,,,,,"",""
+ball,1,14.4,Adelaide Strikers,SW Bates,SJ Coyte,RM Farrell,1,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,SJ Coyte,SW Bates,RM Farrell,0,0,,,,,,"",""
+ball,1,14.6,Adelaide Strikers,SJ Coyte,SW Bates,RM Farrell,0,1,1,,,,,"",""
+ball,1,14.7,Adelaide Strikers,SJ Coyte,SW Bates,RM Farrell,0,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,SW Bates,SJ Coyte,ML Gibson,1,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,SJ Coyte,SW Bates,ML Gibson,2,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,SJ Coyte,SW Bates,ML Gibson,4,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,SJ Coyte,SW Bates,ML Gibson,0,0,,,,,,caught,SJ Coyte
+ball,1,15.5,Adelaide Strikers,A Price,SW Bates,ML Gibson,0,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,A Price,SW Bates,ML Gibson,0,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,SW Bates,A Price,NJ Carey,4,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,SW Bates,A Price,NJ Carey,0,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,SW Bates,A Price,NJ Carey,1,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,A Price,SW Bates,NJ Carey,4,0,,,,,,"",""
+ball,1,16.5,Adelaide Strikers,A Price,SW Bates,NJ Carey,1,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,SW Bates,A Price,NJ Carey,1,0,,,,,,"",""
+ball,1,17.1,Adelaide Strikers,SW Bates,A Price,SR Taylor,1,0,,,,,,"",""
+ball,1,17.2,Adelaide Strikers,A Price,SW Bates,SR Taylor,0,0,,,,,,"",""
+ball,1,17.3,Adelaide Strikers,A Price,SW Bates,SR Taylor,3,0,,,,,,"",""
+ball,1,17.4,Adelaide Strikers,SW Bates,A Price,SR Taylor,2,0,,,,,,"",""
+ball,1,17.5,Adelaide Strikers,SW Bates,A Price,SR Taylor,2,0,,,,,,"",""
+ball,1,17.6,Adelaide Strikers,SW Bates,A Price,SR Taylor,4,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,A Price,SW Bates,L Griffith,0,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,A Price,SW Bates,L Griffith,0,0,,,,,,"",""
+ball,1,18.3,Adelaide Strikers,A Price,SW Bates,L Griffith,4,0,,,,,,"",""
+ball,1,18.4,Adelaide Strikers,A Price,SW Bates,L Griffith,1,0,,,,,,"",""
+ball,1,18.5,Adelaide Strikers,SW Bates,A Price,L Griffith,4,0,,,,,,"",""
+ball,1,18.6,Adelaide Strikers,SW Bates,A Price,L Griffith,4,0,,,,,,"",""
+ball,1,19.1,Adelaide Strikers,A Price,SW Bates,RM Farrell,0,0,,,,,,caught,A Price
+ball,1,19.2,Adelaide Strikers,SW Bates,D Hazell,RM Farrell,0,0,,,,,,"",""
+ball,1,19.3,Adelaide Strikers,SW Bates,D Hazell,RM Farrell,2,0,,,,,,"",""
+ball,1,19.4,Adelaide Strikers,SW Bates,D Hazell,RM Farrell,0,0,,,,,,"",""
+ball,1,19.5,Adelaide Strikers,SW Bates,D Hazell,RM Farrell,1,0,,,,,,"",""
+ball,1,19.6,Adelaide Strikers,D Hazell,SW Bates,RM Farrell,0,0,,,,,,caught,D Hazell
+ball,2,0.1,Sydney Thunder,RH Priest,SR Taylor,ML Schutt,0,0,,,,,,"",""
+ball,2,0.2,Sydney Thunder,RH Priest,SR Taylor,ML Schutt,0,0,,,,,,"",""
+ball,2,0.3,Sydney Thunder,RH Priest,SR Taylor,ML Schutt,0,0,,,,,,"",""
+ball,2,0.4,Sydney Thunder,RH Priest,SR Taylor,ML Schutt,0,0,,,,,,"",""
+ball,2,0.5,Sydney Thunder,RH Priest,SR Taylor,ML Schutt,4,0,,,,,,"",""
+ball,2,0.6,Sydney Thunder,RH Priest,SR Taylor,ML Schutt,0,0,,,,,,"",""
+ball,2,1.1,Sydney Thunder,SR Taylor,RH Priest,SJ Coyte,0,0,,,,,,run out,SR Taylor
+ball,2,1.2,Sydney Thunder,NE Stalenberg,RH Priest,SJ Coyte,0,0,,,,,,"",""
+ball,2,1.3,Sydney Thunder,NE Stalenberg,RH Priest,SJ Coyte,2,0,,,,,,"",""
+ball,2,1.4,Sydney Thunder,NE Stalenberg,RH Priest,SJ Coyte,0,0,,,,,,"",""
+ball,2,1.5,Sydney Thunder,NE Stalenberg,RH Priest,SJ Coyte,0,0,,,,,,"",""
+ball,2,1.6,Sydney Thunder,NE Stalenberg,RH Priest,SJ Coyte,1,0,,,,,,"",""
+ball,2,2.1,Sydney Thunder,NE Stalenberg,RH Priest,ML Schutt,0,0,,,,,,"",""
+ball,2,2.2,Sydney Thunder,NE Stalenberg,RH Priest,ML Schutt,4,0,,,,,,"",""
+ball,2,2.3,Sydney Thunder,NE Stalenberg,RH Priest,ML Schutt,0,0,,,,,,"",""
+ball,2,2.4,Sydney Thunder,NE Stalenberg,RH Priest,ML Schutt,1,0,,,,,,"",""
+ball,2,2.5,Sydney Thunder,RH Priest,NE Stalenberg,ML Schutt,0,0,,,,,,"",""
+ball,2,2.6,Sydney Thunder,RH Priest,NE Stalenberg,ML Schutt,4,0,,,,,,"",""
+ball,2,3.1,Sydney Thunder,NE Stalenberg,RH Priest,TM McGrath,2,0,,,,,,"",""
+ball,2,3.2,Sydney Thunder,NE Stalenberg,RH Priest,TM McGrath,0,0,,,,,,"",""
+ball,2,3.3,Sydney Thunder,NE Stalenberg,RH Priest,TM McGrath,4,0,,,,,,"",""
+ball,2,3.4,Sydney Thunder,NE Stalenberg,RH Priest,TM McGrath,0,0,,,,,,"",""
+ball,2,3.5,Sydney Thunder,NE Stalenberg,RH Priest,TM McGrath,0,0,,,,,,"",""
+ball,2,3.6,Sydney Thunder,NE Stalenberg,RH Priest,TM McGrath,0,0,,,,,,"",""
+ball,2,4.1,Sydney Thunder,RH Priest,NE Stalenberg,D Hazell,1,0,,,,,,"",""
+ball,2,4.2,Sydney Thunder,NE Stalenberg,RH Priest,D Hazell,0,0,,,,,,"",""
+ball,2,4.3,Sydney Thunder,NE Stalenberg,RH Priest,D Hazell,4,0,,,,,,"",""
+ball,2,4.4,Sydney Thunder,NE Stalenberg,RH Priest,D Hazell,1,0,,,,,,"",""
+ball,2,4.5,Sydney Thunder,RH Priest,NE Stalenberg,D Hazell,0,0,,,,,,"",""
+ball,2,4.6,Sydney Thunder,RH Priest,NE Stalenberg,D Hazell,0,0,,,,,,"",""
+ball,2,5.1,Sydney Thunder,NE Stalenberg,RH Priest,SJ Coyte,0,0,,,,,,"",""
+ball,2,5.2,Sydney Thunder,NE Stalenberg,RH Priest,SJ Coyte,0,0,,,,,,caught,NE Stalenberg
+ball,2,5.3,Sydney Thunder,RH Priest,H Kaur,SJ Coyte,1,0,,,,,,"",""
+ball,2,5.4,Sydney Thunder,H Kaur,RH Priest,SJ Coyte,0,0,,,,,,"",""
+ball,2,5.5,Sydney Thunder,H Kaur,RH Priest,SJ Coyte,0,0,,,,,,"",""
+ball,2,5.6,Sydney Thunder,H Kaur,RH Priest,SJ Coyte,4,0,,,,,,"",""
+ball,2,6.1,Sydney Thunder,RH Priest,H Kaur,ML Schutt,0,0,,,,,,"",""
+ball,2,6.2,Sydney Thunder,RH Priest,H Kaur,ML Schutt,0,0,,,,,,"",""
+ball,2,6.3,Sydney Thunder,RH Priest,H Kaur,ML Schutt,4,0,,,,,,"",""
+ball,2,6.4,Sydney Thunder,RH Priest,H Kaur,ML Schutt,0,0,,,,,,"",""
+ball,2,6.5,Sydney Thunder,RH Priest,H Kaur,ML Schutt,4,0,,,,,,"",""
+ball,2,6.6,Sydney Thunder,RH Priest,H Kaur,ML Schutt,1,0,,,,,,"",""
+ball,2,7.1,Sydney Thunder,RH Priest,H Kaur,TM McGrath,1,0,,,,,,"",""
+ball,2,7.2,Sydney Thunder,H Kaur,RH Priest,TM McGrath,0,0,,,,,,"",""
+ball,2,7.3,Sydney Thunder,H Kaur,RH Priest,TM McGrath,0,0,,,,,,"",""
+ball,2,7.4,Sydney Thunder,H Kaur,RH Priest,TM McGrath,6,1,,1,,,,"",""
+ball,2,7.5,Sydney Thunder,H Kaur,RH Priest,TM McGrath,6,0,,,,,,"",""
+ball,2,7.6,Sydney Thunder,H Kaur,RH Priest,TM McGrath,0,0,,,,,,"",""
+ball,2,7.7,Sydney Thunder,H Kaur,RH Priest,TM McGrath,1,0,,,,,,"",""
+ball,2,8.1,Sydney Thunder,H Kaur,RH Priest,A Wellington,0,0,,,,,,"",""
+ball,2,8.2,Sydney Thunder,H Kaur,RH Priest,A Wellington,6,0,,,,,,"",""
+ball,2,8.3,Sydney Thunder,H Kaur,RH Priest,A Wellington,1,0,,,,,,"",""
+ball,2,8.4,Sydney Thunder,RH Priest,H Kaur,A Wellington,0,0,,,,,,"",""
+ball,2,8.5,Sydney Thunder,RH Priest,H Kaur,A Wellington,0,0,,,,,,"",""
+ball,2,8.6,Sydney Thunder,RH Priest,H Kaur,A Wellington,0,0,,,,,,"",""
+ball,2,9.1,Sydney Thunder,H Kaur,RH Priest,SM Betts,0,0,,,,,,"",""
+ball,2,9.2,Sydney Thunder,H Kaur,RH Priest,SM Betts,0,0,,,,,,"",""
+ball,2,9.3,Sydney Thunder,H Kaur,RH Priest,SM Betts,1,0,,,,,,"",""
+ball,2,9.4,Sydney Thunder,RH Priest,H Kaur,SM Betts,6,0,,,,,,"",""
+ball,2,9.5,Sydney Thunder,RH Priest,H Kaur,SM Betts,0,0,,,,,,"",""
+ball,2,9.6,Sydney Thunder,RH Priest,H Kaur,SM Betts,1,0,,,,,,"",""
+ball,2,10.1,Sydney Thunder,RH Priest,H Kaur,A Wellington,6,0,,,,,,"",""
+ball,2,10.2,Sydney Thunder,RH Priest,H Kaur,A Wellington,1,0,,,,,,"",""
+ball,2,10.3,Sydney Thunder,H Kaur,RH Priest,A Wellington,1,0,,,,,,"",""
+ball,2,10.4,Sydney Thunder,RH Priest,H Kaur,A Wellington,0,0,,,,,,"",""
+ball,2,10.5,Sydney Thunder,RH Priest,H Kaur,A Wellington,4,0,,,,,,"",""
+ball,2,10.6,Sydney Thunder,RH Priest,H Kaur,A Wellington,0,0,,,,,,"",""
+ball,2,11.1,Sydney Thunder,H Kaur,RH Priest,SJ Coyte,1,0,,,,,,"",""
+ball,2,11.2,Sydney Thunder,RH Priest,H Kaur,SJ Coyte,0,0,,,,,,"",""
+ball,2,11.3,Sydney Thunder,RH Priest,H Kaur,SJ Coyte,0,0,,,,,,"",""
+ball,2,11.4,Sydney Thunder,RH Priest,H Kaur,SJ Coyte,2,0,,,,,,"",""
+ball,2,11.5,Sydney Thunder,RH Priest,H Kaur,SJ Coyte,1,0,,,,,,"",""
+ball,2,11.6,Sydney Thunder,H Kaur,RH Priest,SJ Coyte,0,0,,,,,,"",""
+ball,2,12.1,Sydney Thunder,RH Priest,H Kaur,D Hazell,1,0,,,,,,"",""
+ball,2,12.2,Sydney Thunder,H Kaur,RH Priest,D Hazell,1,0,,,,,,"",""
+ball,2,12.3,Sydney Thunder,RH Priest,H Kaur,D Hazell,4,0,,,,,,"",""
+ball,2,12.4,Sydney Thunder,RH Priest,H Kaur,D Hazell,1,0,,,,,,"",""
+ball,2,12.5,Sydney Thunder,H Kaur,RH Priest,D Hazell,1,0,,,,,,"",""
+ball,2,12.6,Sydney Thunder,RH Priest,H Kaur,D Hazell,1,0,,,,,,"",""
+ball,2,13.1,Sydney Thunder,RH Priest,H Kaur,A Wellington,1,0,,,,,,"",""
+ball,2,13.2,Sydney Thunder,H Kaur,RH Priest,A Wellington,4,0,,,,,,"",""
+ball,2,13.3,Sydney Thunder,H Kaur,RH Priest,A Wellington,0,0,,,,,,caught,H Kaur
+ball,2,13.4,Sydney Thunder,AJ Blackwell,RH Priest,A Wellington,0,0,,,,,,"",""
+ball,2,13.5,Sydney Thunder,AJ Blackwell,RH Priest,A Wellington,0,0,,,,,,"",""
+ball,2,13.6,Sydney Thunder,AJ Blackwell,RH Priest,A Wellington,0,0,,,,,,"",""
+ball,2,14.1,Sydney Thunder,RH Priest,AJ Blackwell,SJ Coyte,4,0,,,,,,"",""
+ball,2,14.2,Sydney Thunder,RH Priest,AJ Blackwell,SJ Coyte,1,0,,,,,,"",""
+ball,2,14.3,Sydney Thunder,AJ Blackwell,RH Priest,SJ Coyte,0,0,,,,,,"",""
+ball,2,14.4,Sydney Thunder,AJ Blackwell,RH Priest,SJ Coyte,1,0,,,,,,"",""
+ball,2,14.5,Sydney Thunder,RH Priest,AJ Blackwell,SJ Coyte,1,0,,,,,,"",""
+ball,2,14.6,Sydney Thunder,AJ Blackwell,RH Priest,SJ Coyte,1,0,,,,,,"",""
+ball,2,15.1,Sydney Thunder,AJ Blackwell,RH Priest,SM Betts,0,1,1,,,,,"",""
+ball,2,15.2,Sydney Thunder,AJ Blackwell,RH Priest,SM Betts,1,0,,,,,,"",""
+ball,2,15.3,Sydney Thunder,RH Priest,AJ Blackwell,SM Betts,1,1,,1,,,,"",""
+ball,2,15.4,Sydney Thunder,AJ Blackwell,RH Priest,SM Betts,4,0,,,,,,"",""
+ball,2,15.5,Sydney Thunder,AJ Blackwell,RH Priest,SM Betts,0,0,,,,,,"",""
+ball,2,15.6,Sydney Thunder,AJ Blackwell,RH Priest,SM Betts,1,0,,,,,,"",""
+ball,2,15.7,Sydney Thunder,RH Priest,AJ Blackwell,SM Betts,1,0,,,,,,"",""
+ball,2,15.8,Sydney Thunder,AJ Blackwell,RH Priest,SM Betts,0,0,,,,,,caught,AJ Blackwell
+ball,2,16.1,Sydney Thunder,NJ Carey,RH Priest,A Price,1,0,,,,,,"",""
+ball,2,16.2,Sydney Thunder,RH Priest,NJ Carey,A Price,0,1,,,,1,,"",""
+ball,2,16.3,Sydney Thunder,NJ Carey,RH Priest,A Price,1,0,,,,,,"",""
+ball,2,16.4,Sydney Thunder,RH Priest,NJ Carey,A Price,1,0,,,,,,"",""
+ball,2,16.5,Sydney Thunder,NJ Carey,RH Priest,A Price,0,0,,,,,,"",""
+ball,2,16.6,Sydney Thunder,NJ Carey,RH Priest,A Price,1,0,,,,,,"",""
+ball,2,17.1,Sydney Thunder,NJ Carey,RH Priest,D Hazell,0,1,,1,,,,"",""
+ball,2,17.2,Sydney Thunder,NJ Carey,RH Priest,D Hazell,4,0,,,,,,"",""
+ball,2,17.3,Sydney Thunder,NJ Carey,RH Priest,D Hazell,0,0,,,,,,"",""
+ball,2,17.4,Sydney Thunder,NJ Carey,RH Priest,D Hazell,4,0,,,,,,"",""

@@ -1,0 +1,321 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Spain
+info,gender,male
+info,season,2018
+info,date,2018/08/29
+info,event,ICC World Twenty20 Europe Region Qualifier B
+info,match_number,1
+info,venue,Sportpark Westvliet
+info,city,The Hague
+info,toss_winner,Spain
+info,toss_decision,field
+info,player_of_match,NA Maiolo
+info,umpire,Suthan Selvachandran
+info,umpire,Rizwan Akram
+info,reserve_umpire,AJT Dowdalls
+info,winner,Italy
+info,winner_runs,32
+info,player,Italy,GP Meade
+info,player,Italy,Rakibul Hasan
+info,player,Italy,Manpreet Singh
+info,player,Italy,NA Maiolo
+info,player,Italy,BBJL Perera
+info,player,Italy,Jaspreet Singh
+info,player,Italy,Anam Mollik
+info,player,Italy,MJ Ross
+info,player,Italy,Baljit Singh
+info,player,Italy,GRD Munasinghe
+info,player,Italy,MGSM Fernando
+info,player,Spain,Awais Ahmed
+info,player,Spain,PD Hennessy
+info,player,Spain,Yasir Ali
+info,player,Spain,C Munoz-Mills
+info,player,Spain,Kuldeep Lal
+info,player,Spain,V Vini
+info,player,Spain,Atif Mehmood
+info,player,Spain,AD Algar
+info,player,Spain,TC Vine
+info,player,Spain,R Panchal
+info,player,Spain,Zulqarnain Haider (2)
+info,registry,people,AD Algar,020e49e9
+info,registry,people,AJT Dowdalls,f06852e3
+info,registry,people,Anam Mollik,927a5ef5
+info,registry,people,Atif Mehmood,7fcc57bf
+info,registry,people,Awais Ahmed,f9f857dc
+info,registry,people,BBJL Perera,c8c9d60b
+info,registry,people,Baljit Singh,39f0b039
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,GP Meade,3957a70a
+info,registry,people,GRD Munasinghe,eff8b730
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,Kuldeep Lal,8a1d0222
+info,registry,people,MGSM Fernando,658c2e71
+info,registry,people,MJ Ross,d1c7dd6d
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Mukhtiar Singh,d03efd83
+info,registry,people,NA Maiolo,362fde0f
+info,registry,people,PD Hennessy,a3b9191a
+info,registry,people,R Panchal,91cd337c
+info,registry,people,Rakibul Hasan,b75b7b09
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,Suthan Selvachandran,73da6e8d
+info,registry,people,TC Vine,ab8ef1e9
+info,registry,people,V Vini,3039ff8a
+info,registry,people,Yasir Ali,79209272
+info,registry,people,Zulqarnain Haider (2),2d46e8ed
+ball,1,0.1,Italy,GP Meade,Rakibul Hasan,Atif Mehmood,4,0,,,,,,"",""
+ball,1,0.2,Italy,GP Meade,Rakibul Hasan,Atif Mehmood,1,0,,,,,,"",""
+ball,1,0.3,Italy,Rakibul Hasan,GP Meade,Atif Mehmood,0,0,,,,,,"",""
+ball,1,0.4,Italy,Rakibul Hasan,GP Meade,Atif Mehmood,1,0,,,,,,"",""
+ball,1,0.5,Italy,GP Meade,Rakibul Hasan,Atif Mehmood,0,1,1,,,,,"",""
+ball,1,0.6,Italy,GP Meade,Rakibul Hasan,Atif Mehmood,2,0,,,,,,"",""
+ball,1,0.7,Italy,GP Meade,Rakibul Hasan,Atif Mehmood,0,0,,,,,,"",""
+ball,1,1.1,Italy,Rakibul Hasan,GP Meade,R Panchal,0,0,,,,,,"",""
+ball,1,1.2,Italy,Rakibul Hasan,GP Meade,R Panchal,0,0,,,,,,"",""
+ball,1,1.3,Italy,Rakibul Hasan,GP Meade,R Panchal,1,0,,,,,,"",""
+ball,1,1.4,Italy,GP Meade,Rakibul Hasan,R Panchal,0,0,,,,,,"",""
+ball,1,1.5,Italy,GP Meade,Rakibul Hasan,R Panchal,0,0,,,,,,"",""
+ball,1,1.6,Italy,GP Meade,Rakibul Hasan,R Panchal,0,0,,,,,,"",""
+ball,1,2.1,Italy,Rakibul Hasan,GP Meade,Zulqarnain Haider (2),0,1,1,,,,,"",""
+ball,1,2.2,Italy,Rakibul Hasan,GP Meade,Zulqarnain Haider (2),0,0,,,,,,"",""
+ball,1,2.3,Italy,Rakibul Hasan,GP Meade,Zulqarnain Haider (2),2,0,,,,,,"",""
+ball,1,2.4,Italy,Rakibul Hasan,GP Meade,Zulqarnain Haider (2),0,0,,,,,,"",""
+ball,1,2.5,Italy,Rakibul Hasan,GP Meade,Zulqarnain Haider (2),1,0,,,,,,"",""
+ball,1,2.6,Italy,GP Meade,Rakibul Hasan,Zulqarnain Haider (2),0,0,,,,,,"",""
+ball,1,2.7,Italy,GP Meade,Rakibul Hasan,Zulqarnain Haider (2),0,1,,,,1,,"",""
+ball,1,3.1,Italy,GP Meade,Rakibul Hasan,R Panchal,0,0,,,,,,caught,GP Meade
+ball,1,3.2,Italy,Rakibul Hasan,Manpreet Singh,R Panchal,1,0,,,,,,"",""
+ball,1,3.3,Italy,Manpreet Singh,Rakibul Hasan,R Panchal,0,0,,,,,,"",""
+ball,1,3.4,Italy,Manpreet Singh,Rakibul Hasan,R Panchal,4,0,,,,,,"",""
+ball,1,3.5,Italy,Manpreet Singh,Rakibul Hasan,R Panchal,0,0,,,,,,"",""
+ball,1,3.6,Italy,Manpreet Singh,Rakibul Hasan,R Panchal,4,0,,,,,,"",""
+ball,1,4.1,Italy,Rakibul Hasan,Manpreet Singh,Zulqarnain Haider (2),0,0,,,,,,"",""
+ball,1,4.2,Italy,Rakibul Hasan,Manpreet Singh,Zulqarnain Haider (2),1,0,,,,,,"",""
+ball,1,4.3,Italy,Manpreet Singh,Rakibul Hasan,Zulqarnain Haider (2),0,1,1,,,,,"",""
+ball,1,4.4,Italy,Manpreet Singh,Rakibul Hasan,Zulqarnain Haider (2),0,1,1,,,,,"",""
+ball,1,4.5,Italy,Manpreet Singh,Rakibul Hasan,Zulqarnain Haider (2),0,0,,,,,,"",""
+ball,1,4.6,Italy,Manpreet Singh,Rakibul Hasan,Zulqarnain Haider (2),0,1,1,,,,,"",""
+ball,1,4.7,Italy,Manpreet Singh,Rakibul Hasan,Zulqarnain Haider (2),0,0,,,,,,"",""
+ball,1,4.8,Italy,Manpreet Singh,Rakibul Hasan,Zulqarnain Haider (2),1,0,,,,,,"",""
+ball,1,4.9,Italy,Rakibul Hasan,Manpreet Singh,Zulqarnain Haider (2),0,0,,,,,,"",""
+ball,1,5.1,Italy,Manpreet Singh,Rakibul Hasan,R Panchal,1,0,,,,,,"",""
+ball,1,5.2,Italy,Rakibul Hasan,Manpreet Singh,R Panchal,0,0,,,,,,caught,Rakibul Hasan
+ball,1,5.3,Italy,NA Maiolo,Manpreet Singh,R Panchal,0,0,,,,,,"",""
+ball,1,5.4,Italy,NA Maiolo,Manpreet Singh,R Panchal,0,0,,,,,,"",""
+ball,1,5.5,Italy,NA Maiolo,Manpreet Singh,R Panchal,0,1,1,,,,,"",""
+ball,1,5.6,Italy,NA Maiolo,Manpreet Singh,R Panchal,1,0,,,,,,"",""
+ball,1,5.7,Italy,Manpreet Singh,NA Maiolo,R Panchal,0,0,,,,,,"",""
+ball,1,6.1,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,6.2,Italy,Manpreet Singh,NA Maiolo,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,6.3,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,6.4,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,4,0,,,,,,"",""
+ball,1,6.5,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,6.6,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,7.1,Italy,NA Maiolo,Manpreet Singh,R Panchal,0,0,,,,,,"",""
+ball,1,7.2,Italy,NA Maiolo,Manpreet Singh,R Panchal,3,0,,,,,,"",""
+ball,1,7.3,Italy,Manpreet Singh,NA Maiolo,R Panchal,0,0,,,,,,"",""
+ball,1,7.4,Italy,Manpreet Singh,NA Maiolo,R Panchal,1,0,,,,,,"",""
+ball,1,7.5,Italy,NA Maiolo,Manpreet Singh,R Panchal,1,0,,,,,,"",""
+ball,1,7.6,Italy,Manpreet Singh,NA Maiolo,R Panchal,4,0,,,,,,"",""
+ball,1,8.1,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,8.2,Italy,Manpreet Singh,NA Maiolo,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,8.3,Italy,Manpreet Singh,NA Maiolo,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,8.4,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,4,0,,,,,,"",""
+ball,1,8.5,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,2,0,,,,,,"",""
+ball,1,8.6,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,9.1,Italy,Manpreet Singh,NA Maiolo,PD Hennessy,2,0,,,,,,"",""
+ball,1,9.2,Italy,Manpreet Singh,NA Maiolo,PD Hennessy,4,0,,,,,,"",""
+ball,1,9.3,Italy,Manpreet Singh,NA Maiolo,PD Hennessy,4,0,,,,,,"",""
+ball,1,9.4,Italy,Manpreet Singh,NA Maiolo,PD Hennessy,1,0,,,,,,"",""
+ball,1,9.5,Italy,NA Maiolo,Manpreet Singh,PD Hennessy,0,0,,,,,,"",""
+ball,1,9.6,Italy,NA Maiolo,Manpreet Singh,PD Hennessy,1,0,,,,,,"",""
+ball,1,10.1,Italy,NA Maiolo,Manpreet Singh,Kuldeep Lal,0,0,,,,,,run out,Manpreet Singh
+ball,1,10.2,Italy,NA Maiolo,BBJL Perera,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,10.3,Italy,BBJL Perera,NA Maiolo,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,10.4,Italy,BBJL Perera,NA Maiolo,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,10.5,Italy,BBJL Perera,NA Maiolo,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,10.6,Italy,NA Maiolo,BBJL Perera,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,11.1,Italy,BBJL Perera,NA Maiolo,TC Vine,1,0,,,,,,"",""
+ball,1,11.2,Italy,NA Maiolo,BBJL Perera,TC Vine,1,0,,,,,,"",""
+ball,1,11.3,Italy,BBJL Perera,NA Maiolo,TC Vine,1,0,,,,,,"",""
+ball,1,11.4,Italy,NA Maiolo,BBJL Perera,TC Vine,2,0,,,,,,"",""
+ball,1,11.5,Italy,NA Maiolo,BBJL Perera,TC Vine,4,0,,,,,,"",""
+ball,1,11.6,Italy,NA Maiolo,BBJL Perera,TC Vine,3,0,,,,,,"",""
+ball,1,12.1,Italy,NA Maiolo,BBJL Perera,Yasir Ali,0,0,,,,,,"",""
+ball,1,12.2,Italy,NA Maiolo,BBJL Perera,Yasir Ali,0,0,,,,,,"",""
+ball,1,12.3,Italy,NA Maiolo,BBJL Perera,Yasir Ali,1,0,,,,,,"",""
+ball,1,12.4,Italy,BBJL Perera,NA Maiolo,Yasir Ali,0,0,,,,,,"",""
+ball,1,12.5,Italy,BBJL Perera,NA Maiolo,Yasir Ali,0,0,,,,,,"",""
+ball,1,12.6,Italy,BBJL Perera,NA Maiolo,Yasir Ali,2,0,,,,,,"",""
+ball,1,13.1,Italy,NA Maiolo,BBJL Perera,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,13.2,Italy,NA Maiolo,BBJL Perera,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,13.3,Italy,BBJL Perera,NA Maiolo,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,13.4,Italy,NA Maiolo,BBJL Perera,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,13.5,Italy,BBJL Perera,NA Maiolo,Kuldeep Lal,1,0,,,,,,"",""
+ball,1,13.6,Italy,NA Maiolo,BBJL Perera,Kuldeep Lal,0,0,,,,,,"",""
+ball,1,14.1,Italy,BBJL Perera,NA Maiolo,Yasir Ali,0,0,,,,,,"",""
+ball,1,14.2,Italy,BBJL Perera,NA Maiolo,Yasir Ali,4,0,,,,,,"",""
+ball,1,14.3,Italy,BBJL Perera,NA Maiolo,Yasir Ali,0,0,,,,,,"",""
+ball,1,14.4,Italy,BBJL Perera,NA Maiolo,Yasir Ali,0,1,1,,,,,"",""
+ball,1,14.5,Italy,BBJL Perera,NA Maiolo,Yasir Ali,2,0,,,,,,"",""
+ball,1,14.6,Italy,BBJL Perera,NA Maiolo,Yasir Ali,4,0,,,,,,"",""
+ball,1,14.7,Italy,BBJL Perera,NA Maiolo,Yasir Ali,4,0,,,,,,"",""
+ball,1,15.1,Italy,NA Maiolo,BBJL Perera,Atif Mehmood,1,0,,,,,,"",""
+ball,1,15.2,Italy,BBJL Perera,NA Maiolo,Atif Mehmood,0,0,,,,,,"",""
+ball,1,15.3,Italy,BBJL Perera,NA Maiolo,Atif Mehmood,0,0,,,,,,caught,BBJL Perera
+ball,1,15.4,Italy,Jaspreet Singh,NA Maiolo,Atif Mehmood,2,0,,,,,,"",""
+ball,1,15.5,Italy,Jaspreet Singh,NA Maiolo,Atif Mehmood,1,0,,,,,,"",""
+ball,1,15.6,Italy,NA Maiolo,Jaspreet Singh,Atif Mehmood,1,0,,,,,,"",""
+ball,1,16.1,Italy,NA Maiolo,Jaspreet Singh,Zulqarnain Haider (2),4,0,,,,,,"",""
+ball,1,16.2,Italy,NA Maiolo,Jaspreet Singh,Zulqarnain Haider (2),1,0,,,,,,"",""
+ball,1,16.3,Italy,Jaspreet Singh,NA Maiolo,Zulqarnain Haider (2),0,1,,1,,,,"",""
+ball,1,16.4,Italy,Jaspreet Singh,NA Maiolo,Zulqarnain Haider (2),0,0,,,,,,"",""
+ball,1,16.5,Italy,Jaspreet Singh,NA Maiolo,Zulqarnain Haider (2),0,0,,,,,,"",""
+ball,1,16.6,Italy,Jaspreet Singh,NA Maiolo,Zulqarnain Haider (2),6,1,,1,,,,"",""
+ball,1,16.7,Italy,Jaspreet Singh,NA Maiolo,Zulqarnain Haider (2),6,0,,,,,,"",""
+ball,1,16.8,Italy,Jaspreet Singh,NA Maiolo,Zulqarnain Haider (2),1,0,,,,,,"",""
+ball,1,17.1,Italy,Jaspreet Singh,NA Maiolo,Atif Mehmood,0,0,,,,,,"",""
+ball,1,17.2,Italy,Jaspreet Singh,NA Maiolo,Atif Mehmood,0,0,,,,,,caught,Jaspreet Singh
+ball,1,17.3,Italy,NA Maiolo,Anam Mollik,Atif Mehmood,1,0,,,,,,"",""
+ball,1,17.4,Italy,Anam Mollik,NA Maiolo,Atif Mehmood,0,0,,,,,,"",""
+ball,1,17.5,Italy,Anam Mollik,NA Maiolo,Atif Mehmood,1,0,,,,,,"",""
+ball,1,17.6,Italy,NA Maiolo,Anam Mollik,Atif Mehmood,0,0,,,,,,bowled,NA Maiolo
+ball,1,18.1,Italy,Anam Mollik,MJ Ross,Yasir Ali,1,0,,,,,,"",""
+ball,1,18.2,Italy,MJ Ross,Anam Mollik,Yasir Ali,1,0,,,,,,run out,MJ Ross
+ball,1,18.3,Italy,Baljit Singh,Anam Mollik,Yasir Ali,0,1,1,,,,,"",""
+ball,1,18.4,Italy,Baljit Singh,Anam Mollik,Yasir Ali,1,0,,,,,,"",""
+ball,1,18.5,Italy,Anam Mollik,Baljit Singh,Yasir Ali,4,0,,,,,,"",""
+ball,1,18.6,Italy,Anam Mollik,Baljit Singh,Yasir Ali,2,0,,,,,,"",""
+ball,1,18.7,Italy,Anam Mollik,Baljit Singh,Yasir Ali,1,0,,,,,,"",""
+ball,1,19.1,Italy,Anam Mollik,Baljit Singh,Atif Mehmood,4,0,,,,,,"",""
+ball,1,19.2,Italy,Anam Mollik,Baljit Singh,Atif Mehmood,0,0,,,,,,run out,Anam Mollik
+ball,1,19.3,Italy,Baljit Singh,GRD Munasinghe,Atif Mehmood,0,0,,,,,,"",""
+ball,1,19.4,Italy,Baljit Singh,GRD Munasinghe,Atif Mehmood,0,0,,,,,,"",""
+ball,1,19.5,Italy,Baljit Singh,GRD Munasinghe,Atif Mehmood,1,0,,,,,,"",""
+ball,1,19.6,Italy,GRD Munasinghe,Baljit Singh,Atif Mehmood,0,0,,,,,,bowled,GRD Munasinghe
+ball,2,0.1,Spain,Awais Ahmed,PD Hennessy,GRD Munasinghe,0,0,,,,,,"",""
+ball,2,0.2,Spain,Awais Ahmed,PD Hennessy,GRD Munasinghe,0,0,,,,,,"",""
+ball,2,0.3,Spain,Awais Ahmed,PD Hennessy,GRD Munasinghe,0,0,,,,,,"",""
+ball,2,0.4,Spain,Awais Ahmed,PD Hennessy,GRD Munasinghe,4,0,,,,,,"",""
+ball,2,0.5,Spain,Awais Ahmed,PD Hennessy,GRD Munasinghe,1,0,,,,,,"",""
+ball,2,0.6,Spain,PD Hennessy,Awais Ahmed,GRD Munasinghe,0,0,,,,,,"",""
+ball,2,1.1,Spain,Awais Ahmed,PD Hennessy,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,1.2,Spain,PD Hennessy,Awais Ahmed,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,1.3,Spain,Awais Ahmed,PD Hennessy,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,1.4,Spain,PD Hennessy,Awais Ahmed,Jaspreet Singh,0,0,,,,,,"",""
+ball,2,1.5,Spain,PD Hennessy,Awais Ahmed,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,1.6,Spain,Awais Ahmed,PD Hennessy,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,2.1,Spain,Awais Ahmed,PD Hennessy,GRD Munasinghe,0,0,,,,,,"",""
+ball,2,2.2,Spain,Awais Ahmed,PD Hennessy,GRD Munasinghe,1,0,,,,,,"",""
+ball,2,2.3,Spain,PD Hennessy,Awais Ahmed,GRD Munasinghe,1,0,,,,,,"",""
+ball,2,2.4,Spain,Awais Ahmed,PD Hennessy,GRD Munasinghe,0,0,,,,,,caught,Awais Ahmed
+ball,2,2.5,Spain,Yasir Ali,PD Hennessy,GRD Munasinghe,4,0,,,,,,"",""
+ball,2,2.6,Spain,Yasir Ali,PD Hennessy,GRD Munasinghe,0,0,,,,,,"",""
+ball,2,3.1,Spain,PD Hennessy,Yasir Ali,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,3.2,Spain,Yasir Ali,PD Hennessy,Jaspreet Singh,0,0,,,,,,"",""
+ball,2,3.3,Spain,Yasir Ali,PD Hennessy,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,3.4,Spain,PD Hennessy,Yasir Ali,Jaspreet Singh,4,0,,,,,,"",""
+ball,2,3.5,Spain,PD Hennessy,Yasir Ali,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,3.6,Spain,Yasir Ali,PD Hennessy,Jaspreet Singh,0,0,,,,,,"",""
+ball,2,4.1,Spain,PD Hennessy,Yasir Ali,MGSM Fernando,0,0,,,,,,"",""
+ball,2,4.2,Spain,PD Hennessy,Yasir Ali,MGSM Fernando,1,0,,,,,,"",""
+ball,2,4.3,Spain,Yasir Ali,PD Hennessy,MGSM Fernando,0,0,,,,,,"",""
+ball,2,4.4,Spain,Yasir Ali,PD Hennessy,MGSM Fernando,4,0,,,,,,"",""
+ball,2,4.5,Spain,Yasir Ali,PD Hennessy,MGSM Fernando,0,0,,,,,,"",""
+ball,2,4.6,Spain,Yasir Ali,PD Hennessy,MGSM Fernando,0,0,,,,,,"",""
+ball,2,5.1,Spain,PD Hennessy,Yasir Ali,Rakibul Hasan,0,0,,,,,,"",""
+ball,2,5.2,Spain,PD Hennessy,Yasir Ali,Rakibul Hasan,0,0,,,,,,"",""
+ball,2,5.3,Spain,PD Hennessy,Yasir Ali,Rakibul Hasan,0,1,1,,,,,"",""
+ball,2,5.4,Spain,PD Hennessy,Yasir Ali,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,5.5,Spain,Yasir Ali,PD Hennessy,Rakibul Hasan,4,0,,,,,,"",""
+ball,2,5.6,Spain,Yasir Ali,PD Hennessy,Rakibul Hasan,0,0,,,,,,"",""
+ball,2,5.7,Spain,Yasir Ali,PD Hennessy,Rakibul Hasan,0,0,,,,,,"",""
+ball,2,6.1,Spain,PD Hennessy,Yasir Ali,MGSM Fernando,0,0,,,,,,"",""
+ball,2,6.2,Spain,PD Hennessy,Yasir Ali,MGSM Fernando,2,0,,,,,,"",""
+ball,2,6.3,Spain,PD Hennessy,Yasir Ali,MGSM Fernando,1,0,,,,,,"",""
+ball,2,6.4,Spain,Yasir Ali,PD Hennessy,MGSM Fernando,0,0,,,,,,"",""
+ball,2,6.5,Spain,Yasir Ali,PD Hennessy,MGSM Fernando,1,0,,,,,,"",""
+ball,2,6.6,Spain,PD Hennessy,Yasir Ali,MGSM Fernando,1,0,,,,,,"",""
+ball,2,7.1,Spain,PD Hennessy,Yasir Ali,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,7.2,Spain,Yasir Ali,PD Hennessy,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,7.3,Spain,PD Hennessy,Yasir Ali,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,7.4,Spain,Yasir Ali,PD Hennessy,Rakibul Hasan,0,0,,,,,,caught,Yasir Ali
+ball,2,7.5,Spain,C Munoz-Mills,PD Hennessy,Rakibul Hasan,0,0,,,,,,"",""
+ball,2,7.6,Spain,C Munoz-Mills,PD Hennessy,Rakibul Hasan,0,0,,,,,,"",""
+ball,2,8.1,Spain,PD Hennessy,C Munoz-Mills,MGSM Fernando,1,0,,,,,,"",""
+ball,2,8.2,Spain,C Munoz-Mills,PD Hennessy,MGSM Fernando,0,0,,,,,,"",""
+ball,2,8.3,Spain,C Munoz-Mills,PD Hennessy,MGSM Fernando,0,0,,,,,,"",""
+ball,2,8.4,Spain,C Munoz-Mills,PD Hennessy,MGSM Fernando,0,0,,,,,,"",""
+ball,2,8.5,Spain,C Munoz-Mills,PD Hennessy,MGSM Fernando,0,0,,,,,,"",""
+ball,2,8.6,Spain,C Munoz-Mills,PD Hennessy,MGSM Fernando,0,0,,,,,,"",""
+ball,2,9.1,Spain,PD Hennessy,C Munoz-Mills,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,9.2,Spain,C Munoz-Mills,PD Hennessy,Rakibul Hasan,2,0,,,,,,"",""
+ball,2,9.3,Spain,C Munoz-Mills,PD Hennessy,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,9.4,Spain,PD Hennessy,C Munoz-Mills,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,9.5,Spain,C Munoz-Mills,PD Hennessy,Rakibul Hasan,0,0,,,,,,"",""
+ball,2,9.6,Spain,C Munoz-Mills,PD Hennessy,Rakibul Hasan,2,0,,,,,,"",""
+ball,2,10.1,Spain,PD Hennessy,C Munoz-Mills,NA Maiolo,2,0,,,,,,"",""
+ball,2,10.2,Spain,PD Hennessy,C Munoz-Mills,NA Maiolo,0,0,,,,,,"",""
+ball,2,10.3,Spain,PD Hennessy,C Munoz-Mills,NA Maiolo,1,0,,,,,,"",""
+ball,2,10.4,Spain,C Munoz-Mills,PD Hennessy,NA Maiolo,0,1,,,,1,,"",""
+ball,2,10.5,Spain,PD Hennessy,C Munoz-Mills,NA Maiolo,1,0,,,,,,"",""
+ball,2,10.6,Spain,C Munoz-Mills,PD Hennessy,NA Maiolo,0,0,,,,,,"",""
+ball,2,11.1,Spain,PD Hennessy,C Munoz-Mills,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,11.2,Spain,C Munoz-Mills,PD Hennessy,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,11.3,Spain,PD Hennessy,C Munoz-Mills,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,11.4,Spain,C Munoz-Mills,PD Hennessy,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,11.5,Spain,PD Hennessy,C Munoz-Mills,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,11.6,Spain,C Munoz-Mills,PD Hennessy,Rakibul Hasan,1,0,,,,,,"",""
+ball,2,12.1,Spain,C Munoz-Mills,PD Hennessy,NA Maiolo,2,0,,,,,,"",""
+ball,2,12.2,Spain,C Munoz-Mills,PD Hennessy,NA Maiolo,0,1,,,,1,,"",""
+ball,2,12.3,Spain,PD Hennessy,C Munoz-Mills,NA Maiolo,2,0,,,,,,"",""
+ball,2,12.4,Spain,PD Hennessy,C Munoz-Mills,NA Maiolo,0,0,,,,,,"",""
+ball,2,12.5,Spain,PD Hennessy,C Munoz-Mills,NA Maiolo,1,0,,,,,,"",""
+ball,2,12.6,Spain,C Munoz-Mills,PD Hennessy,NA Maiolo,1,0,,,,,,"",""
+ball,2,13.1,Spain,C Munoz-Mills,PD Hennessy,MJ Ross,1,0,,,,,,"",""
+ball,2,13.2,Spain,PD Hennessy,C Munoz-Mills,MJ Ross,1,0,,,,,,"",""
+ball,2,13.3,Spain,C Munoz-Mills,PD Hennessy,MJ Ross,0,0,,,,,,caught,C Munoz-Mills
+ball,2,13.4,Spain,Kuldeep Lal,PD Hennessy,MJ Ross,2,0,,,,,,"",""
+ball,2,13.5,Spain,Kuldeep Lal,PD Hennessy,MJ Ross,0,1,1,,,,,"",""
+ball,2,13.6,Spain,Kuldeep Lal,PD Hennessy,MJ Ross,0,0,,,,,,caught,Kuldeep Lal
+ball,2,13.7,Spain,V Vini,PD Hennessy,MJ Ross,0,1,1,,,,,"",""
+ball,2,13.8,Spain,V Vini,PD Hennessy,MJ Ross,1,0,,,,,,"",""
+ball,2,14.1,Spain,V Vini,PD Hennessy,NA Maiolo,2,0,,,,,,"",""
+ball,2,14.2,Spain,V Vini,PD Hennessy,NA Maiolo,1,0,,,,,,"",""
+ball,2,14.3,Spain,PD Hennessy,V Vini,NA Maiolo,1,0,,,,,,"",""
+ball,2,14.4,Spain,V Vini,PD Hennessy,NA Maiolo,1,0,,,,,,"",""
+ball,2,14.5,Spain,PD Hennessy,V Vini,NA Maiolo,1,0,,,,,,"",""
+ball,2,14.6,Spain,V Vini,PD Hennessy,NA Maiolo,0,0,,,,,,"",""
+ball,2,15.1,Spain,PD Hennessy,V Vini,MJ Ross,2,0,,,,,,"",""
+ball,2,15.2,Spain,PD Hennessy,V Vini,MJ Ross,0,3,3,,,,,"",""
+ball,2,15.3,Spain,PD Hennessy,V Vini,MJ Ross,0,0,,,,,,"",""
+ball,2,15.4,Spain,PD Hennessy,V Vini,MJ Ross,2,0,,,,,,"",""
+ball,2,15.5,Spain,PD Hennessy,V Vini,MJ Ross,1,0,,,,,,"",""
+ball,2,15.6,Spain,V Vini,PD Hennessy,MJ Ross,1,0,,,,,,"",""
+ball,2,15.7,Spain,PD Hennessy,V Vini,MJ Ross,1,0,,,,,,"",""
+ball,2,16.1,Spain,PD Hennessy,V Vini,GRD Munasinghe,1,0,,,,,,"",""
+ball,2,16.2,Spain,V Vini,PD Hennessy,GRD Munasinghe,2,0,,,,,,"",""
+ball,2,16.3,Spain,V Vini,PD Hennessy,GRD Munasinghe,2,0,,,,,,"",""
+ball,2,16.4,Spain,V Vini,PD Hennessy,GRD Munasinghe,0,0,,,,,,"",""
+ball,2,16.5,Spain,V Vini,PD Hennessy,GRD Munasinghe,1,0,,,,,,"",""
+ball,2,16.6,Spain,PD Hennessy,V Vini,GRD Munasinghe,0,0,,,,,,"",""
+ball,2,17.1,Spain,V Vini,PD Hennessy,Jaspreet Singh,0,0,,,,,,"",""
+ball,2,17.2,Spain,V Vini,PD Hennessy,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,17.3,Spain,PD Hennessy,V Vini,Jaspreet Singh,0,0,,,,,,caught,PD Hennessy
+ball,2,17.4,Spain,V Vini,Atif Mehmood,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,17.5,Spain,Atif Mehmood,V Vini,Jaspreet Singh,4,0,,,,,,"",""
+ball,2,17.6,Spain,Atif Mehmood,V Vini,Jaspreet Singh,0,0,,,,,,"",""
+ball,2,18.1,Spain,V Vini,Atif Mehmood,GRD Munasinghe,1,0,,,,,,"",""
+ball,2,18.2,Spain,Atif Mehmood,V Vini,GRD Munasinghe,4,0,,,,,,"",""
+ball,2,18.3,Spain,Atif Mehmood,V Vini,GRD Munasinghe,0,0,,,,,,"",""
+ball,2,18.4,Spain,Atif Mehmood,V Vini,GRD Munasinghe,0,0,,,,,,bowled,Atif Mehmood
+ball,2,18.5,Spain,AD Algar,V Vini,GRD Munasinghe,2,0,,,,,,"",""
+ball,2,18.6,Spain,AD Algar,V Vini,GRD Munasinghe,1,0,,,,,,"",""
+ball,2,19.1,Spain,AD Algar,V Vini,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,19.2,Spain,V Vini,AD Algar,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,19.3,Spain,AD Algar,V Vini,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,19.4,Spain,V Vini,AD Algar,Jaspreet Singh,1,0,,,,,,"",""
+ball,2,19.5,Spain,AD Algar,V Vini,Jaspreet Singh,0,0,,,,,,"",""
+ball,2,19.6,Spain,AD Algar,V Vini,Jaspreet Singh,0,0,,,,,,"",""

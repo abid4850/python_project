@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/06/20
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,PR Pollard
+info,match_referee,JJ Whitaker
+info,winner,Surrey
+info,winner_runs,81
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,SP Narine
+info,player,Surrey,SM Curran
+info,player,Surrey,J Overton
+info,player,Surrey,TK Curran
+info,player,Surrey,J Blake
+info,player,Surrey,SA Abbott
+info,player,Surrey,CJ Jordan
+info,player,Surrey,CT Steel
+info,player,Surrey,AAP Atkinson
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Smale
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,CD Fletcher
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Hatzoglou
+info,player,Glamorgan,JP McIlroy
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Steel,5899dceb
+info,registry,people,J Blake,3385b875
+info,registry,people,J Overton,59559bc2
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,NJ Llong,573fb985
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TK Curran,e86754b2
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,WT Root,72898514
+info,registry,people,WT Smale,97da28bd
+ball,1,0.1,Surrey,WG Jacks,LJ Evans,JP McIlroy,2,0,,,,,,"",""
+ball,1,0.2,Surrey,WG Jacks,LJ Evans,JP McIlroy,1,0,,,,,,"",""
+ball,1,0.3,Surrey,LJ Evans,WG Jacks,JP McIlroy,0,0,,,,,,"",""
+ball,1,0.4,Surrey,LJ Evans,WG Jacks,JP McIlroy,0,0,,,,,,"",""
+ball,1,0.5,Surrey,LJ Evans,WG Jacks,JP McIlroy,0,1,1,,,,,"",""
+ball,1,0.6,Surrey,LJ Evans,WG Jacks,JP McIlroy,0,0,,,,,,"",""
+ball,1,0.7,Surrey,LJ Evans,WG Jacks,JP McIlroy,1,0,,,,,,"",""
+ball,1,1.1,Surrey,LJ Evans,WG Jacks,T van der Gugten,4,0,,,,,,"",""
+ball,1,1.2,Surrey,LJ Evans,WG Jacks,T van der Gugten,4,0,,,,,,"",""
+ball,1,1.3,Surrey,LJ Evans,WG Jacks,T van der Gugten,2,0,,,,,,"",""
+ball,1,1.4,Surrey,LJ Evans,WG Jacks,T van der Gugten,0,0,,,,,,"",""
+ball,1,1.5,Surrey,LJ Evans,WG Jacks,T van der Gugten,2,0,,,,,,"",""
+ball,1,1.6,Surrey,LJ Evans,WG Jacks,T van der Gugten,1,0,,,,,,"",""
+ball,1,2.1,Surrey,LJ Evans,WG Jacks,JP McIlroy,1,0,,,,,,"",""
+ball,1,2.2,Surrey,WG Jacks,LJ Evans,JP McIlroy,2,0,,,,,,"",""
+ball,1,2.3,Surrey,WG Jacks,LJ Evans,JP McIlroy,1,0,,,,,,"",""
+ball,1,2.4,Surrey,LJ Evans,WG Jacks,JP McIlroy,2,0,,,,,,"",""
+ball,1,2.5,Surrey,LJ Evans,WG Jacks,JP McIlroy,1,0,,,,,,"",""
+ball,1,2.6,Surrey,WG Jacks,LJ Evans,JP McIlroy,1,0,,,,,,"",""
+ball,1,3.1,Surrey,WG Jacks,LJ Evans,RAJ Smith,1,0,,,,,,"",""
+ball,1,3.2,Surrey,LJ Evans,WG Jacks,RAJ Smith,1,0,,,,,,"",""
+ball,1,3.3,Surrey,WG Jacks,LJ Evans,RAJ Smith,4,0,,,,,,"",""
+ball,1,3.4,Surrey,WG Jacks,LJ Evans,RAJ Smith,1,0,,,,,,"",""
+ball,1,3.5,Surrey,LJ Evans,WG Jacks,RAJ Smith,0,0,,,,,,"",""
+ball,1,3.6,Surrey,LJ Evans,WG Jacks,RAJ Smith,4,0,,,,,,"",""
+ball,1,4.1,Surrey,WG Jacks,LJ Evans,T van der Gugten,1,0,,,,,,"",""
+ball,1,4.2,Surrey,LJ Evans,WG Jacks,T van der Gugten,2,0,,,,,,"",""
+ball,1,4.3,Surrey,LJ Evans,WG Jacks,T van der Gugten,6,0,,,,,,"",""
+ball,1,4.4,Surrey,LJ Evans,WG Jacks,T van der Gugten,1,0,,,,,,"",""
+ball,1,4.5,Surrey,WG Jacks,LJ Evans,T van der Gugten,4,0,,,,,,"",""
+ball,1,4.6,Surrey,WG Jacks,LJ Evans,T van der Gugten,2,0,,,,,,"",""
+ball,1,5.1,Surrey,LJ Evans,WG Jacks,RAJ Smith,4,0,,,,,,"",""
+ball,1,5.2,Surrey,LJ Evans,WG Jacks,RAJ Smith,1,0,,,,,,"",""
+ball,1,5.3,Surrey,WG Jacks,LJ Evans,RAJ Smith,4,0,,,,,,"",""
+ball,1,5.4,Surrey,WG Jacks,LJ Evans,RAJ Smith,1,0,,,,,,"",""
+ball,1,5.5,Surrey,LJ Evans,WG Jacks,RAJ Smith,1,0,,,,,,"",""
+ball,1,5.6,Surrey,WG Jacks,LJ Evans,RAJ Smith,0,0,,,,,,"",""
+ball,1,6.1,Surrey,LJ Evans,WG Jacks,P Hatzoglou,2,0,,,,,,"",""
+ball,1,6.2,Surrey,LJ Evans,WG Jacks,P Hatzoglou,0,0,,,,,,caught,LJ Evans
+ball,1,6.3,Surrey,SP Narine,WG Jacks,P Hatzoglou,1,0,,,,,,"",""
+ball,1,6.4,Surrey,WG Jacks,SP Narine,P Hatzoglou,1,0,,,,,,"",""
+ball,1,6.5,Surrey,SP Narine,WG Jacks,P Hatzoglou,1,0,,,,,,"",""
+ball,1,6.6,Surrey,WG Jacks,SP Narine,P Hatzoglou,1,0,,,,,,"",""
+ball,1,7.1,Surrey,WG Jacks,SP Narine,AW Gorvin,4,0,,,,,,"",""
+ball,1,7.2,Surrey,WG Jacks,SP Narine,AW Gorvin,1,0,,,,,,"",""
+ball,1,7.3,Surrey,SP Narine,WG Jacks,AW Gorvin,1,0,,,,,,"",""
+ball,1,7.4,Surrey,WG Jacks,SP Narine,AW Gorvin,0,0,,,,,,"",""
+ball,1,7.5,Surrey,WG Jacks,SP Narine,AW Gorvin,0,0,,,,,,"",""
+ball,1,7.6,Surrey,WG Jacks,SP Narine,AW Gorvin,1,0,,,,,,"",""
+ball,1,8.1,Surrey,WG Jacks,SP Narine,P Hatzoglou,0,1,1,,,,,"",""
+ball,1,8.2,Surrey,WG Jacks,SP Narine,P Hatzoglou,4,0,,,,,,"",""
+ball,1,8.3,Surrey,WG Jacks,SP Narine,P Hatzoglou,0,0,,,,,,"",""
+ball,1,8.4,Surrey,WG Jacks,SP Narine,P Hatzoglou,0,0,,,,,,"",""
+ball,1,8.5,Surrey,WG Jacks,SP Narine,P Hatzoglou,1,0,,,,,,"",""
+ball,1,8.6,Surrey,SP Narine,WG Jacks,P Hatzoglou,6,0,,,,,,"",""
+ball,1,8.7,Surrey,SP Narine,WG Jacks,P Hatzoglou,1,0,,,,,,"",""
+ball,1,9.1,Surrey,SP Narine,WG Jacks,AW Gorvin,0,0,,,,,,"",""
+ball,1,9.2,Surrey,SP Narine,WG Jacks,AW Gorvin,1,0,,,,,,"",""
+ball,1,9.3,Surrey,WG Jacks,SP Narine,AW Gorvin,1,0,,,,,,"",""
+ball,1,9.4,Surrey,SP Narine,WG Jacks,AW Gorvin,2,0,,,,,,"",""
+ball,1,9.5,Surrey,SP Narine,WG Jacks,AW Gorvin,1,0,,,,,,"",""
+ball,1,9.6,Surrey,WG Jacks,SP Narine,AW Gorvin,6,0,,,,,,"",""
+ball,1,10.1,Surrey,SP Narine,WG Jacks,T van der Gugten,4,0,,,,,,"",""
+ball,1,10.2,Surrey,SP Narine,WG Jacks,T van der Gugten,4,0,,,,,,"",""
+ball,1,10.3,Surrey,SP Narine,WG Jacks,T van der Gugten,4,0,,,,,,"",""
+ball,1,10.4,Surrey,SP Narine,WG Jacks,T van der Gugten,1,0,,,,,,"",""
+ball,1,10.5,Surrey,WG Jacks,SP Narine,T van der Gugten,4,0,,,,,,"",""
+ball,1,10.6,Surrey,WG Jacks,SP Narine,T van der Gugten,0,2,,2,,,,"",""
+ball,1,10.7,Surrey,WG Jacks,SP Narine,T van der Gugten,1,0,,,,,,"",""
+ball,1,11.1,Surrey,WG Jacks,SP Narine,RAJ Smith,1,0,,,,,,"",""
+ball,1,11.2,Surrey,SP Narine,WG Jacks,RAJ Smith,4,0,,,,,,"",""
+ball,1,11.3,Surrey,SP Narine,WG Jacks,RAJ Smith,1,0,,,,,,"",""
+ball,1,11.4,Surrey,WG Jacks,SP Narine,RAJ Smith,2,0,,,,,,"",""
+ball,1,11.5,Surrey,WG Jacks,SP Narine,RAJ Smith,0,2,,2,,,,"",""
+ball,1,11.6,Surrey,WG Jacks,SP Narine,RAJ Smith,0,1,1,,,,,"",""
+ball,1,11.7,Surrey,WG Jacks,SP Narine,RAJ Smith,1,0,,,,,,"",""
+ball,1,11.8,Surrey,SP Narine,WG Jacks,RAJ Smith,1,0,,,,,,"",""
+ball,1,12.1,Surrey,SP Narine,WG Jacks,AW Gorvin,1,0,,,,,,"",""
+ball,1,12.2,Surrey,WG Jacks,SP Narine,AW Gorvin,4,0,,,,,,"",""
+ball,1,12.3,Surrey,WG Jacks,SP Narine,AW Gorvin,4,0,,,,,,"",""
+ball,1,12.4,Surrey,WG Jacks,SP Narine,AW Gorvin,6,0,,,,,,"",""
+ball,1,12.5,Surrey,WG Jacks,SP Narine,AW Gorvin,0,0,,,,,,"",""
+ball,1,12.6,Surrey,WG Jacks,SP Narine,AW Gorvin,1,0,,,,,,"",""
+ball,1,13.1,Surrey,WG Jacks,SP Narine,P Hatzoglou,0,0,,,,,,caught,WG Jacks
+ball,1,13.2,Surrey,SM Curran,SP Narine,P Hatzoglou,0,0,,,,,,"",""
+ball,1,13.3,Surrey,SM Curran,SP Narine,P Hatzoglou,0,2,2,,,,,"",""
+ball,1,13.4,Surrey,SP Narine,SM Curran,P Hatzoglou,2,0,,,,,,"",""
+ball,1,13.5,Surrey,SP Narine,SM Curran,P Hatzoglou,0,0,,,,,,caught,SP Narine
+ball,1,13.6,Surrey,J Overton,SM Curran,P Hatzoglou,0,1,1,,,,,"",""
+ball,1,13.7,Surrey,J Overton,SM Curran,P Hatzoglou,1,0,,,,,,"",""
+ball,1,13.8,Surrey,SM Curran,J Overton,P Hatzoglou,2,0,,,,,,"",""
+ball,1,14.1,Surrey,J Overton,SM Curran,AW Gorvin,0,0,,,,,,"",""
+ball,1,14.2,Surrey,J Overton,SM Curran,AW Gorvin,0,0,,,,,,"",""
+ball,1,14.3,Surrey,J Overton,SM Curran,AW Gorvin,0,0,,,,,,caught,J Overton
+ball,1,14.4,Surrey,TK Curran,SM Curran,AW Gorvin,0,0,,,,,,"",""
+ball,1,14.5,Surrey,TK Curran,SM Curran,AW Gorvin,1,0,,,,,,"",""
+ball,1,14.6,Surrey,SM Curran,TK Curran,AW Gorvin,4,0,,,,,,"",""
+ball,1,15.1,Surrey,TK Curran,SM Curran,T van der Gugten,0,0,,,,,,"",""
+ball,1,15.2,Surrey,TK Curran,SM Curran,T van der Gugten,1,0,,,,,,"",""
+ball,1,15.3,Surrey,SM Curran,TK Curran,T van der Gugten,2,0,,,,,,"",""
+ball,1,15.4,Surrey,SM Curran,TK Curran,T van der Gugten,1,0,,,,,,"",""
+ball,1,15.5,Surrey,TK Curran,SM Curran,T van der Gugten,1,0,,,,,,"",""
+ball,1,15.6,Surrey,SM Curran,TK Curran,T van der Gugten,4,0,,,,,,"",""
+ball,1,16.1,Surrey,TK Curran,SM Curran,JP McIlroy,1,0,,,,,,"",""
+ball,1,16.2,Surrey,SM Curran,TK Curran,JP McIlroy,6,0,,,,,,"",""
+ball,1,16.3,Surrey,SM Curran,TK Curran,JP McIlroy,1,0,,,,,,"",""
+ball,1,16.4,Surrey,TK Curran,SM Curran,JP McIlroy,2,0,,,,,,"",""
+ball,1,16.5,Surrey,TK Curran,SM Curran,JP McIlroy,6,0,,,,,,"",""
+ball,1,16.6,Surrey,TK Curran,SM Curran,JP McIlroy,4,0,,,,,,"",""
+ball,1,17.1,Surrey,SM Curran,TK Curran,P Hatzoglou,0,0,,,,,,"",""
+ball,1,17.2,Surrey,SM Curran,TK Curran,P Hatzoglou,1,0,,,,,,"",""
+ball,1,17.3,Surrey,TK Curran,SM Curran,P Hatzoglou,1,0,,,,,,"",""
+ball,1,17.4,Surrey,SM Curran,TK Curran,P Hatzoglou,6,0,,,,,,"",""
+ball,1,17.5,Surrey,SM Curran,TK Curran,P Hatzoglou,6,0,,,,,,"",""
+ball,1,17.6,Surrey,SM Curran,TK Curran,P Hatzoglou,4,0,,,,,,"",""
+ball,1,18.1,Surrey,TK Curran,SM Curran,RAJ Smith,4,0,,,,,,"",""
+ball,1,18.2,Surrey,TK Curran,SM Curran,RAJ Smith,1,0,,,,,,"",""
+ball,1,18.3,Surrey,SM Curran,TK Curran,RAJ Smith,1,0,,,,,,"",""
+ball,1,18.4,Surrey,TK Curran,SM Curran,RAJ Smith,1,0,,,,,,"",""
+ball,1,18.5,Surrey,SM Curran,TK Curran,RAJ Smith,0,0,,,,,,"",""
+ball,1,18.6,Surrey,SM Curran,TK Curran,RAJ Smith,1,0,,,,,,"",""
+ball,1,19.1,Surrey,SM Curran,TK Curran,JP McIlroy,6,0,,,,,,"",""
+ball,1,19.2,Surrey,SM Curran,TK Curran,JP McIlroy,6,0,,,,,,"",""
+ball,1,19.3,Surrey,SM Curran,TK Curran,JP McIlroy,0,0,,,,,,"",""
+ball,1,19.4,Surrey,SM Curran,TK Curran,JP McIlroy,6,0,,,,,,"",""
+ball,1,19.5,Surrey,SM Curran,TK Curran,JP McIlroy,2,0,,,,,,"",""
+ball,1,19.6,Surrey,SM Curran,TK Curran,JP McIlroy,0,0,,,,,,bowled,SM Curran
+ball,2,0.1,Glamorgan,KS Carlson,WT Smale,SM Curran,0,0,,,,,,"",""
+ball,2,0.2,Glamorgan,KS Carlson,WT Smale,SM Curran,1,0,,,,,,"",""
+ball,2,0.3,Glamorgan,WT Smale,KS Carlson,SM Curran,0,1,1,,,,,"",""
+ball,2,0.4,Glamorgan,WT Smale,KS Carlson,SM Curran,0,0,,,,,,"",""
+ball,2,0.5,Glamorgan,WT Smale,KS Carlson,SM Curran,0,0,,,,,,"",""
+ball,2,0.6,Glamorgan,WT Smale,KS Carlson,SM Curran,0,0,,,,,,"",""
+ball,2,0.7,Glamorgan,WT Smale,KS Carlson,SM Curran,4,0,,,,,,"",""
+ball,2,1.1,Glamorgan,KS Carlson,WT Smale,SA Abbott,1,0,,,,,,"",""
+ball,2,1.2,Glamorgan,WT Smale,KS Carlson,SA Abbott,4,0,,,,,,"",""
+ball,2,1.3,Glamorgan,WT Smale,KS Carlson,SA Abbott,0,0,,,,,,"",""
+ball,2,1.4,Glamorgan,WT Smale,KS Carlson,SA Abbott,4,0,,,,,,"",""
+ball,2,1.5,Glamorgan,WT Smale,KS Carlson,SA Abbott,0,0,,,,,,"",""
+ball,2,1.6,Glamorgan,WT Smale,KS Carlson,SA Abbott,6,0,,,,,,"",""
+ball,2,2.1,Glamorgan,KS Carlson,WT Smale,SM Curran,0,0,,,,,,caught,KS Carlson
+ball,2,2.2,Glamorgan,WT Root,WT Smale,SM Curran,1,0,,,,,,"",""
+ball,2,2.3,Glamorgan,WT Smale,WT Root,SM Curran,4,0,,,,,,"",""
+ball,2,2.4,Glamorgan,WT Smale,WT Root,SM Curran,0,0,,,,,,"",""
+ball,2,2.5,Glamorgan,WT Smale,WT Root,SM Curran,0,0,,,,,,"",""
+ball,2,2.6,Glamorgan,WT Smale,WT Root,SM Curran,1,0,,,,,,"",""
+ball,2,3.1,Glamorgan,WT Smale,WT Root,AAP Atkinson,4,0,,,,,,"",""
+ball,2,3.2,Glamorgan,WT Smale,WT Root,AAP Atkinson,0,0,,,,,,"",""
+ball,2,3.3,Glamorgan,WT Smale,WT Root,AAP Atkinson,0,0,,,,,,caught,WT Smale
+ball,2,3.4,Glamorgan,SA Northeast,WT Root,AAP Atkinson,4,0,,,,,,"",""
+ball,2,3.5,Glamorgan,SA Northeast,WT Root,AAP Atkinson,0,0,,,,,,"",""
+ball,2,3.6,Glamorgan,SA Northeast,WT Root,AAP Atkinson,0,0,,,,,,"",""
+ball,2,4.1,Glamorgan,WT Root,SA Northeast,SA Abbott,0,0,,,,,,"",""
+ball,2,4.2,Glamorgan,WT Root,SA Northeast,SA Abbott,0,0,,,,,,"",""
+ball,2,4.3,Glamorgan,WT Root,SA Northeast,SA Abbott,0,0,,,,,,"",""
+ball,2,4.4,Glamorgan,WT Root,SA Northeast,SA Abbott,0,0,,,,,,"",""
+ball,2,4.5,Glamorgan,WT Root,SA Northeast,SA Abbott,0,0,,,,,,"",""
+ball,2,4.6,Glamorgan,WT Root,SA Northeast,SA Abbott,4,0,,,,,,"",""
+ball,2,5.1,Glamorgan,SA Northeast,WT Root,AAP Atkinson,0,0,,,,,,"",""
+ball,2,5.2,Glamorgan,SA Northeast,WT Root,AAP Atkinson,0,0,,,,,,"",""
+ball,2,5.3,Glamorgan,SA Northeast,WT Root,AAP Atkinson,0,0,,,,,,"",""
+ball,2,5.4,Glamorgan,SA Northeast,WT Root,AAP Atkinson,4,0,,,,,,"",""
+ball,2,5.5,Glamorgan,SA Northeast,WT Root,AAP Atkinson,0,0,,,,,,"",""
+ball,2,5.6,Glamorgan,SA Northeast,WT Root,AAP Atkinson,0,0,,,,,,"",""
+ball,2,6.1,Glamorgan,WT Root,SA Northeast,SA Abbott,1,0,,,,,,"",""
+ball,2,6.2,Glamorgan,SA Northeast,WT Root,SA Abbott,1,0,,,,,,"",""
+ball,2,6.3,Glamorgan,WT Root,SA Northeast,SA Abbott,0,0,,,,,,"",""
+ball,2,6.4,Glamorgan,WT Root,SA Northeast,SA Abbott,1,0,,,,,,"",""
+ball,2,6.5,Glamorgan,SA Northeast,WT Root,SA Abbott,0,0,,,,,,"",""
+ball,2,6.6,Glamorgan,SA Northeast,WT Root,SA Abbott,1,0,,,,,,"",""
+ball,2,7.1,Glamorgan,SA Northeast,WT Root,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.2,Glamorgan,WT Root,SA Northeast,CJ Jordan,1,0,,,,,,"",""
+ball,2,7.3,Glamorgan,SA Northeast,WT Root,CJ Jordan,4,0,,,,,,"",""
+ball,2,7.4,Glamorgan,SA Northeast,WT Root,CJ Jordan,0,0,,,,,,"",""
+ball,2,7.5,Glamorgan,SA Northeast,WT Root,CJ Jordan,0,0,,,,,,caught,SA Northeast
+ball,2,7.6,Glamorgan,CB Cooke,WT Root,CJ Jordan,1,0,,,,,,"",""
+ball,2,8.1,Glamorgan,CB Cooke,WT Root,AAP Atkinson,0,1,,,,1,,"",""
+ball,2,8.2,Glamorgan,WT Root,CB Cooke,AAP Atkinson,6,0,,,,,,"",""
+ball,2,8.3,Glamorgan,WT Root,CB Cooke,AAP Atkinson,6,0,,,,,,"",""
+ball,2,8.4,Glamorgan,WT Root,CB Cooke,AAP Atkinson,0,0,,,,,,"",""
+ball,2,8.5,Glamorgan,WT Root,CB Cooke,AAP Atkinson,1,0,,,,,,"",""
+ball,2,8.6,Glamorgan,CB Cooke,WT Root,AAP Atkinson,1,0,,,,,,"",""
+ball,2,9.1,Glamorgan,CB Cooke,WT Root,CJ Jordan,0,0,,,,,,"",""
+ball,2,9.2,Glamorgan,CB Cooke,WT Root,CJ Jordan,2,0,,,,,,"",""
+ball,2,9.3,Glamorgan,CB Cooke,WT Root,CJ Jordan,1,0,,,,,,"",""
+ball,2,9.4,Glamorgan,WT Root,CB Cooke,CJ Jordan,0,0,,,,,,"",""
+ball,2,9.5,Glamorgan,WT Root,CB Cooke,CJ Jordan,0,1,,,1,,,"",""
+ball,2,9.6,Glamorgan,CB Cooke,WT Root,CJ Jordan,1,0,,,,,,"",""
+ball,2,10.1,Glamorgan,CB Cooke,WT Root,SP Narine,1,0,,,,,,"",""
+ball,2,10.2,Glamorgan,WT Root,CB Cooke,SP Narine,0,0,,,,,,"",""
+ball,2,10.3,Glamorgan,WT Root,CB Cooke,SP Narine,2,0,,,,,,"",""
+ball,2,10.4,Glamorgan,WT Root,CB Cooke,SP Narine,1,0,,,,,,"",""
+ball,2,10.5,Glamorgan,CB Cooke,WT Root,SP Narine,6,0,,,,,,"",""
+ball,2,10.6,Glamorgan,CB Cooke,WT Root,SP Narine,1,0,,,,,,"",""
+ball,2,11.1,Glamorgan,CB Cooke,WT Root,SM Curran,0,1,1,,,,,"",""
+ball,2,11.2,Glamorgan,CB Cooke,WT Root,SM Curran,1,0,,,,,,"",""
+ball,2,11.3,Glamorgan,WT Root,CB Cooke,SM Curran,2,0,,,,,,"",""
+ball,2,11.4,Glamorgan,WT Root,CB Cooke,SM Curran,4,0,,,,,,"",""
+ball,2,11.5,Glamorgan,WT Root,CB Cooke,SM Curran,1,0,,,,,,"",""
+ball,2,11.6,Glamorgan,CB Cooke,WT Root,SM Curran,6,0,,,,,,"",""
+ball,2,11.7,Glamorgan,CB Cooke,WT Root,SM Curran,1,0,,,,,,"",""
+ball,2,12.1,Glamorgan,CB Cooke,WT Root,SP Narine,0,0,,,,,,"",""
+ball,2,12.2,Glamorgan,CB Cooke,WT Root,SP Narine,1,0,,,,,,"",""
+ball,2,12.3,Glamorgan,WT Root,CB Cooke,SP Narine,0,0,,,,,,bowled,WT Root
+ball,2,12.4,Glamorgan,CD Fletcher,CB Cooke,SP Narine,1,0,,,,,,"",""
+ball,2,12.5,Glamorgan,CB Cooke,CD Fletcher,SP Narine,1,0,,,,,,"",""
+ball,2,12.6,Glamorgan,CD Fletcher,CB Cooke,SP Narine,0,0,,,,,,"",""
+ball,2,13.1,Glamorgan,CB Cooke,CD Fletcher,SA Abbott,0,0,,,,,,"",""
+ball,2,13.2,Glamorgan,CB Cooke,CD Fletcher,SA Abbott,6,0,,,,,,"",""
+ball,2,13.3,Glamorgan,CB Cooke,CD Fletcher,SA Abbott,4,0,,,,,,"",""
+ball,2,13.4,Glamorgan,CB Cooke,CD Fletcher,SA Abbott,4,0,,,,,,"",""
+ball,2,13.5,Glamorgan,CB Cooke,CD Fletcher,SA Abbott,6,0,,,,,,"",""
+ball,2,13.6,Glamorgan,CB Cooke,CD Fletcher,SA Abbott,1,0,,,,,,"",""
+ball,2,14.1,Glamorgan,CB Cooke,CD Fletcher,SP Narine,2,0,,,,,,"",""
+ball,2,14.2,Glamorgan,CB Cooke,CD Fletcher,SP Narine,1,0,,,,,,"",""
+ball,2,14.3,Glamorgan,CD Fletcher,CB Cooke,SP Narine,0,0,,,,,,caught,CD Fletcher
+ball,2,14.4,Glamorgan,T van der Gugten,CB Cooke,SP Narine,1,0,,,,,,"",""
+ball,2,14.5,Glamorgan,CB Cooke,T van der Gugten,SP Narine,0,0,,,,,,"",""
+ball,2,14.6,Glamorgan,CB Cooke,T van der Gugten,SP Narine,0,0,,,,,,"",""
+ball,2,15.1,Glamorgan,T van der Gugten,CB Cooke,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.2,Glamorgan,CB Cooke,T van der Gugten,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.3,Glamorgan,T van der Gugten,CB Cooke,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.4,Glamorgan,CB Cooke,T van der Gugten,CJ Jordan,0,0,,,,,,caught,CB Cooke
+ball,2,15.5,Glamorgan,AW Gorvin,T van der Gugten,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.6,Glamorgan,T van der Gugten,AW Gorvin,CJ Jordan,0,0,,,,,,caught,T van der Gugten
+ball,2,16.1,Glamorgan,AW Gorvin,RAJ Smith,SP Narine,2,0,,,,,,"",""
+ball,2,16.2,Glamorgan,AW Gorvin,RAJ Smith,SP Narine,2,0,,,,,,"",""
+ball,2,16.3,Glamorgan,AW Gorvin,RAJ Smith,SP Narine,1,0,,,,,,"",""
+ball,2,16.4,Glamorgan,RAJ Smith,AW Gorvin,SP Narine,1,0,,,,,,"",""
+ball,2,16.5,Glamorgan,AW Gorvin,RAJ Smith,SP Narine,0,0,,,,,,"",""
+ball,2,16.6,Glamorgan,AW Gorvin,RAJ Smith,SP Narine,1,0,,,,,,"",""
+ball,2,17.1,Glamorgan,AW Gorvin,RAJ Smith,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.2,Glamorgan,RAJ Smith,AW Gorvin,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.3,Glamorgan,AW Gorvin,RAJ Smith,CJ Jordan,4,0,,,,,,"",""
+ball,2,17.4,Glamorgan,AW Gorvin,RAJ Smith,CJ Jordan,0,0,,,,,,caught,AW Gorvin
+ball,2,17.5,Glamorgan,P Hatzoglou,RAJ Smith,CJ Jordan,0,1,,,,1,,"",""
+ball,2,17.6,Glamorgan,RAJ Smith,P Hatzoglou,CJ Jordan,0,0,,,,,,"",""
+ball,2,18.1,Glamorgan,P Hatzoglou,RAJ Smith,AAP Atkinson,4,0,,,,,,"",""
+ball,2,18.2,Glamorgan,P Hatzoglou,RAJ Smith,AAP Atkinson,1,0,,,,,,"",""
+ball,2,18.3,Glamorgan,RAJ Smith,P Hatzoglou,AAP Atkinson,0,0,,,,,,"",""
+ball,2,18.4,Glamorgan,RAJ Smith,P Hatzoglou,AAP Atkinson,1,0,,,,,,"",""
+ball,2,18.5,Glamorgan,P Hatzoglou,RAJ Smith,AAP Atkinson,0,0,,,,,,"",""
+ball,2,18.6,Glamorgan,P Hatzoglou,RAJ Smith,AAP Atkinson,2,0,,,,,,"",""
+ball,2,19.1,Glamorgan,RAJ Smith,P Hatzoglou,SM Curran,1,0,,,,,,"",""
+ball,2,19.2,Glamorgan,P Hatzoglou,RAJ Smith,SM Curran,0,0,,,,,,"",""
+ball,2,19.3,Glamorgan,P Hatzoglou,RAJ Smith,SM Curran,0,0,,,,,,"",""
+ball,2,19.4,Glamorgan,P Hatzoglou,RAJ Smith,SM Curran,1,0,,,,,,"",""
+ball,2,19.5,Glamorgan,RAJ Smith,P Hatzoglou,SM Curran,0,0,,,,,,"",""
+ball,2,19.6,Glamorgan,RAJ Smith,P Hatzoglou,SM Curran,0,0,,,,,,"",""

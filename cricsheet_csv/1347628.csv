@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Middlesex
+info,gender,male
+info,season,2023
+info,date,2023/06/08
+info,event,Vitality Blast
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,player_of_match,Shadab Khan
+info,umpire,DJ Millns
+info,umpire,RJ Bailey
+info,tv_umpire,RJ Warren
+info,match_referee,PM Such
+info,winner,Sussex
+info,winner_runs,4
+info,player,Sussex,TGR Clark
+info,player,Sussex,MGK Burgess
+info,player,Sussex,TP Alsop
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,D Ibrahim
+info,player,Sussex,N McAndrew
+info,player,Sussex,JM Coles
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,TS Mills
+info,player,Sussex,HT Crocombe
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,PJ Malan
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JM De Caires
+info,player,Middlesex,TG Helm
+info,player,Middlesex,BC Cullen
+info,registry,people,BC Cullen,39180894
+info,registry,people,D Ibrahim,457cab44
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JM De Caires,8cbcff3b
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+ball,1,0.1,Sussex,TGR Clark,MGK Burgess,TG Helm,0,0,,,,,,"",""
+ball,1,0.2,Sussex,TGR Clark,MGK Burgess,TG Helm,0,0,,,,,,"",""
+ball,1,0.3,Sussex,TGR Clark,MGK Burgess,TG Helm,0,0,,,,,,"",""
+ball,1,0.4,Sussex,TGR Clark,MGK Burgess,TG Helm,4,0,,,,,,"",""
+ball,1,0.5,Sussex,TGR Clark,MGK Burgess,TG Helm,0,0,,,,,,"",""
+ball,1,0.6,Sussex,TGR Clark,MGK Burgess,TG Helm,4,0,,,,,,"",""
+ball,1,1.1,Sussex,MGK Burgess,TGR Clark,BC Cullen,0,0,,,,,,"",""
+ball,1,1.2,Sussex,MGK Burgess,TGR Clark,BC Cullen,0,0,,,,,,"",""
+ball,1,1.3,Sussex,MGK Burgess,TGR Clark,BC Cullen,0,0,,,,,,"",""
+ball,1,1.4,Sussex,MGK Burgess,TGR Clark,BC Cullen,1,0,,,,,,"",""
+ball,1,1.5,Sussex,TGR Clark,MGK Burgess,BC Cullen,2,0,,,,,,"",""
+ball,1,1.6,Sussex,TGR Clark,MGK Burgess,BC Cullen,1,0,,,,,,"",""
+ball,1,2.1,Sussex,TGR Clark,MGK Burgess,TG Helm,0,0,,,,,,"",""
+ball,1,2.2,Sussex,TGR Clark,MGK Burgess,TG Helm,0,1,,,,1,,"",""
+ball,1,2.3,Sussex,MGK Burgess,TGR Clark,TG Helm,1,0,,,,,,"",""
+ball,1,2.4,Sussex,TGR Clark,MGK Burgess,TG Helm,2,0,,,,,,"",""
+ball,1,2.5,Sussex,TGR Clark,MGK Burgess,TG Helm,0,0,,,,,,"",""
+ball,1,2.6,Sussex,TGR Clark,MGK Burgess,TG Helm,0,0,,,,,,"",""
+ball,1,3.1,Sussex,MGK Burgess,TGR Clark,BC Cullen,2,0,,,,,,"",""
+ball,1,3.2,Sussex,MGK Burgess,TGR Clark,BC Cullen,0,0,,,,,,"",""
+ball,1,3.3,Sussex,MGK Burgess,TGR Clark,BC Cullen,1,0,,,,,,"",""
+ball,1,3.4,Sussex,TGR Clark,MGK Burgess,BC Cullen,4,0,,,,,,"",""
+ball,1,3.5,Sussex,TGR Clark,MGK Burgess,BC Cullen,0,0,,,,,,"",""
+ball,1,3.6,Sussex,TGR Clark,MGK Burgess,BC Cullen,0,1,,,,1,,"",""
+ball,1,4.1,Sussex,TGR Clark,MGK Burgess,JM De Caires,0,0,,,,,,"",""
+ball,1,4.2,Sussex,TGR Clark,MGK Burgess,JM De Caires,1,0,,,,,,"",""
+ball,1,4.3,Sussex,MGK Burgess,TGR Clark,JM De Caires,0,0,,,,,,caught,MGK Burgess
+ball,1,4.4,Sussex,TP Alsop,TGR Clark,JM De Caires,1,0,,,,,,"",""
+ball,1,4.5,Sussex,TGR Clark,TP Alsop,JM De Caires,4,0,,,,,,"",""
+ball,1,4.6,Sussex,TGR Clark,TP Alsop,JM De Caires,0,0,,,,,,"",""
+ball,1,5.1,Sussex,TP Alsop,TGR Clark,MK Andersson,2,0,,,,,,"",""
+ball,1,5.2,Sussex,TP Alsop,TGR Clark,MK Andersson,0,0,,,,,,caught,TP Alsop
+ball,1,5.3,Sussex,RS Bopara,TGR Clark,MK Andersson,1,0,,,,,,"",""
+ball,1,5.4,Sussex,TGR Clark,RS Bopara,MK Andersson,6,0,,,,,,"",""
+ball,1,5.5,Sussex,TGR Clark,RS Bopara,MK Andersson,6,0,,,,,,"",""
+ball,1,5.6,Sussex,TGR Clark,RS Bopara,MK Andersson,1,0,,,,,,"",""
+ball,1,6.1,Sussex,TGR Clark,RS Bopara,LBK Hollman,1,0,,,,,,"",""
+ball,1,6.2,Sussex,RS Bopara,TGR Clark,LBK Hollman,2,0,,,,,,"",""
+ball,1,6.3,Sussex,RS Bopara,TGR Clark,LBK Hollman,1,0,,,,,,"",""
+ball,1,6.4,Sussex,TGR Clark,RS Bopara,LBK Hollman,1,0,,,,,,"",""
+ball,1,6.5,Sussex,RS Bopara,TGR Clark,LBK Hollman,1,0,,,,,,"",""
+ball,1,6.6,Sussex,TGR Clark,RS Bopara,LBK Hollman,0,0,,,,,,"",""
+ball,1,7.1,Sussex,RS Bopara,TGR Clark,RF Higgins,1,0,,,,,,"",""
+ball,1,7.2,Sussex,TGR Clark,RS Bopara,RF Higgins,2,0,,,,,,"",""
+ball,1,7.3,Sussex,TGR Clark,RS Bopara,RF Higgins,0,0,,,,,,bowled,TGR Clark
+ball,1,7.4,Sussex,Shadab Khan,RS Bopara,RF Higgins,4,0,,,,,,"",""
+ball,1,7.5,Sussex,Shadab Khan,RS Bopara,RF Higgins,1,0,,,,,,"",""
+ball,1,7.6,Sussex,RS Bopara,Shadab Khan,RF Higgins,0,0,,,,,,"",""
+ball,1,8.1,Sussex,Shadab Khan,RS Bopara,LBK Hollman,0,0,,,,,,"",""
+ball,1,8.2,Sussex,Shadab Khan,RS Bopara,LBK Hollman,1,0,,,,,,"",""
+ball,1,8.3,Sussex,RS Bopara,Shadab Khan,LBK Hollman,1,0,,,,,,"",""
+ball,1,8.4,Sussex,Shadab Khan,RS Bopara,LBK Hollman,4,0,,,,,,"",""
+ball,1,8.5,Sussex,Shadab Khan,RS Bopara,LBK Hollman,1,0,,,,,,"",""
+ball,1,8.6,Sussex,RS Bopara,Shadab Khan,LBK Hollman,1,0,,,,,,"",""
+ball,1,9.1,Sussex,RS Bopara,Shadab Khan,RF Higgins,6,0,,,,,,"",""
+ball,1,9.2,Sussex,RS Bopara,Shadab Khan,RF Higgins,1,0,,,,,,"",""
+ball,1,9.3,Sussex,Shadab Khan,RS Bopara,RF Higgins,0,0,,,,,,"",""
+ball,1,9.4,Sussex,Shadab Khan,RS Bopara,RF Higgins,0,0,,,,,,"",""
+ball,1,9.5,Sussex,Shadab Khan,RS Bopara,RF Higgins,1,0,,,,,,"",""
+ball,1,9.6,Sussex,RS Bopara,Shadab Khan,RF Higgins,0,0,,,,,,"",""
+ball,1,10.1,Sussex,Shadab Khan,RS Bopara,BC Cullen,1,0,,,,,,"",""
+ball,1,10.2,Sussex,RS Bopara,Shadab Khan,BC Cullen,1,0,,,,,,"",""
+ball,1,10.3,Sussex,Shadab Khan,RS Bopara,BC Cullen,1,0,,,,,,"",""
+ball,1,10.4,Sussex,RS Bopara,Shadab Khan,BC Cullen,1,0,,,,,,"",""
+ball,1,10.5,Sussex,Shadab Khan,RS Bopara,BC Cullen,0,1,,,,1,,"",""
+ball,1,10.6,Sussex,RS Bopara,Shadab Khan,BC Cullen,6,0,,,,,,"",""
+ball,1,11.1,Sussex,Shadab Khan,RS Bopara,MK Andersson,6,0,,,,,,"",""
+ball,1,11.2,Sussex,Shadab Khan,RS Bopara,MK Andersson,4,0,,,,,,"",""
+ball,1,11.3,Sussex,Shadab Khan,RS Bopara,MK Andersson,0,0,,,,,,"",""
+ball,1,11.4,Sussex,Shadab Khan,RS Bopara,MK Andersson,0,0,,,,,,"",""
+ball,1,11.5,Sussex,Shadab Khan,RS Bopara,MK Andersson,2,0,,,,,,"",""
+ball,1,11.6,Sussex,Shadab Khan,RS Bopara,MK Andersson,6,0,,,,,,"",""
+ball,1,12.1,Sussex,RS Bopara,Shadab Khan,JM De Caires,1,0,,,,,,"",""
+ball,1,12.2,Sussex,Shadab Khan,RS Bopara,JM De Caires,6,0,,,,,,"",""
+ball,1,12.3,Sussex,Shadab Khan,RS Bopara,JM De Caires,0,0,,,,,,"",""
+ball,1,12.4,Sussex,Shadab Khan,RS Bopara,JM De Caires,0,1,1,,,,,"",""
+ball,1,12.5,Sussex,Shadab Khan,RS Bopara,JM De Caires,4,0,,,,,,"",""
+ball,1,12.6,Sussex,Shadab Khan,RS Bopara,JM De Caires,1,0,,,,,,"",""
+ball,1,12.7,Sussex,RS Bopara,Shadab Khan,JM De Caires,1,0,,,,,,"",""
+ball,1,13.1,Sussex,RS Bopara,Shadab Khan,LBK Hollman,0,1,,,1,,,"",""
+ball,1,13.2,Sussex,Shadab Khan,RS Bopara,LBK Hollman,2,0,,,,,,"",""
+ball,1,13.3,Sussex,Shadab Khan,RS Bopara,LBK Hollman,6,0,,,,,,"",""
+ball,1,13.4,Sussex,Shadab Khan,RS Bopara,LBK Hollman,1,0,,,,,,"",""
+ball,1,13.5,Sussex,RS Bopara,Shadab Khan,LBK Hollman,4,0,,,,,,"",""
+ball,1,13.6,Sussex,RS Bopara,Shadab Khan,LBK Hollman,0,0,,,,,,"",""
+ball,1,14.1,Sussex,Shadab Khan,RS Bopara,BC Cullen,0,0,,,,,,"",""
+ball,1,14.2,Sussex,Shadab Khan,RS Bopara,BC Cullen,0,0,,,,,,"",""
+ball,1,14.3,Sussex,Shadab Khan,RS Bopara,BC Cullen,1,0,,,,,,"",""
+ball,1,14.4,Sussex,RS Bopara,Shadab Khan,BC Cullen,4,0,,,,,,"",""
+ball,1,14.5,Sussex,RS Bopara,Shadab Khan,BC Cullen,2,0,,,,,,"",""
+ball,1,14.6,Sussex,RS Bopara,Shadab Khan,BC Cullen,0,0,,,,,,"",""
+ball,1,15.1,Sussex,Shadab Khan,RS Bopara,RF Higgins,6,0,,,,,,"",""
+ball,1,15.2,Sussex,Shadab Khan,RS Bopara,RF Higgins,0,0,,,,,,caught,Shadab Khan
+ball,1,15.3,Sussex,D Ibrahim,RS Bopara,RF Higgins,0,1,1,,,,,"",""
+ball,1,15.4,Sussex,D Ibrahim,RS Bopara,RF Higgins,0,0,,,,,,"",""
+ball,1,15.5,Sussex,D Ibrahim,RS Bopara,RF Higgins,1,0,,,,,,"",""
+ball,1,15.6,Sussex,RS Bopara,D Ibrahim,RF Higgins,2,0,,,,,,"",""
+ball,1,15.7,Sussex,RS Bopara,D Ibrahim,RF Higgins,0,0,,,,,,"",""
+ball,1,16.1,Sussex,D Ibrahim,RS Bopara,LBK Hollman,0,0,,,,,,caught,D Ibrahim
+ball,1,16.2,Sussex,N McAndrew,RS Bopara,LBK Hollman,0,0,,,,,,"",""
+ball,1,16.3,Sussex,N McAndrew,RS Bopara,LBK Hollman,0,0,,,,,,lbw,N McAndrew
+ball,1,16.4,Sussex,JM Coles,RS Bopara,LBK Hollman,1,0,,,,,,"",""
+ball,1,16.5,Sussex,RS Bopara,JM Coles,LBK Hollman,1,0,,,,,,"",""
+ball,1,16.6,Sussex,JM Coles,RS Bopara,LBK Hollman,1,0,,,,,,"",""
+ball,1,17.1,Sussex,JM Coles,RS Bopara,TG Helm,0,1,1,,,,,"",""
+ball,1,17.2,Sussex,JM Coles,RS Bopara,TG Helm,4,0,,,,,,"",""
+ball,1,17.3,Sussex,JM Coles,RS Bopara,TG Helm,1,0,,,,,,"",""
+ball,1,17.4,Sussex,RS Bopara,JM Coles,TG Helm,0,0,,,,,,caught,RS Bopara
+ball,1,17.5,Sussex,FJ Hudson-Prentice,JM Coles,TG Helm,2,0,,,,,,"",""
+ball,1,17.6,Sussex,FJ Hudson-Prentice,JM Coles,TG Helm,1,0,,,,,,"",""
+ball,1,17.7,Sussex,JM Coles,FJ Hudson-Prentice,TG Helm,0,1,1,,,,,"",""
+ball,1,17.8,Sussex,JM Coles,FJ Hudson-Prentice,TG Helm,0,0,,,,,,"",""
+ball,1,18.1,Sussex,FJ Hudson-Prentice,JM Coles,RF Higgins,0,0,,,,,,"",""
+ball,1,18.2,Sussex,FJ Hudson-Prentice,JM Coles,RF Higgins,2,0,,,,,,"",""
+ball,1,18.3,Sussex,FJ Hudson-Prentice,JM Coles,RF Higgins,1,0,,,,,,"",""
+ball,1,18.4,Sussex,JM Coles,FJ Hudson-Prentice,RF Higgins,1,0,,,,,,"",""
+ball,1,18.5,Sussex,FJ Hudson-Prentice,JM Coles,RF Higgins,1,0,,,,,,"",""
+ball,1,18.6,Sussex,JM Coles,FJ Hudson-Prentice,RF Higgins,1,0,,,,,,"",""
+ball,1,19.1,Sussex,JM Coles,FJ Hudson-Prentice,TG Helm,0,0,,,,,,"",""
+ball,1,19.2,Sussex,JM Coles,FJ Hudson-Prentice,TG Helm,4,0,,,,,,"",""
+ball,1,19.3,Sussex,JM Coles,FJ Hudson-Prentice,TG Helm,6,0,,,,,,"",""
+ball,1,19.4,Sussex,JM Coles,FJ Hudson-Prentice,TG Helm,0,0,,,,,,"",""
+ball,1,19.5,Sussex,JM Coles,FJ Hudson-Prentice,TG Helm,0,0,,,,,,"",""
+ball,1,19.6,Sussex,JM Coles,FJ Hudson-Prentice,TG Helm,2,0,,,,,,run out,FJ Hudson-Prentice
+ball,2,0.1,Middlesex,SS Eskinazi,JB Cracknell,N McAndrew,1,0,,,,,,"",""
+ball,2,0.2,Middlesex,JB Cracknell,SS Eskinazi,N McAndrew,1,0,,,,,,"",""
+ball,2,0.3,Middlesex,SS Eskinazi,JB Cracknell,N McAndrew,4,0,,,,,,"",""
+ball,2,0.4,Middlesex,SS Eskinazi,JB Cracknell,N McAndrew,0,0,,,,,,"",""
+ball,2,0.5,Middlesex,SS Eskinazi,JB Cracknell,N McAndrew,0,0,,,,,,"",""
+ball,2,0.6,Middlesex,SS Eskinazi,JB Cracknell,N McAndrew,4,0,,,,,,"",""
+ball,2,1.1,Middlesex,JB Cracknell,SS Eskinazi,FJ Hudson-Prentice,0,0,,,,,,caught,JB Cracknell
+ball,2,1.2,Middlesex,PJ Malan,SS Eskinazi,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,1.3,Middlesex,PJ Malan,SS Eskinazi,FJ Hudson-Prentice,2,0,,,,,,"",""
+ball,2,1.4,Middlesex,PJ Malan,SS Eskinazi,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,2,1.5,Middlesex,PJ Malan,SS Eskinazi,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,2,1.6,Middlesex,PJ Malan,SS Eskinazi,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,2,2.1,Middlesex,SS Eskinazi,PJ Malan,N McAndrew,1,0,,,,,,"",""
+ball,2,2.2,Middlesex,PJ Malan,SS Eskinazi,N McAndrew,1,0,,,,,,"",""
+ball,2,2.3,Middlesex,SS Eskinazi,PJ Malan,N McAndrew,1,0,,,,,,"",""
+ball,2,2.4,Middlesex,PJ Malan,SS Eskinazi,N McAndrew,0,1,1,,,,,"",""
+ball,2,2.5,Middlesex,PJ Malan,SS Eskinazi,N McAndrew,1,0,,,,,,"",""
+ball,2,2.6,Middlesex,SS Eskinazi,PJ Malan,N McAndrew,0,0,,,,,,"",""
+ball,2,2.7,Middlesex,SS Eskinazi,PJ Malan,N McAndrew,0,0,,,,,,"",""
+ball,2,3.1,Middlesex,PJ Malan,SS Eskinazi,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,2,3.2,Middlesex,PJ Malan,SS Eskinazi,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,3.3,Middlesex,SS Eskinazi,PJ Malan,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,3.4,Middlesex,PJ Malan,SS Eskinazi,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,2,3.5,Middlesex,PJ Malan,SS Eskinazi,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,3.6,Middlesex,SS Eskinazi,PJ Malan,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,2,4.1,Middlesex,SS Eskinazi,PJ Malan,HT Crocombe,0,1,,,,1,,"",""
+ball,2,4.2,Middlesex,PJ Malan,SS Eskinazi,HT Crocombe,1,0,,,,,,"",""
+ball,2,4.3,Middlesex,SS Eskinazi,PJ Malan,HT Crocombe,4,0,,,,,,"",""
+ball,2,4.4,Middlesex,SS Eskinazi,PJ Malan,HT Crocombe,4,0,,,,,,"",""
+ball,2,4.5,Middlesex,SS Eskinazi,PJ Malan,HT Crocombe,4,0,,,,,,"",""
+ball,2,4.6,Middlesex,SS Eskinazi,PJ Malan,HT Crocombe,1,0,,,,,,"",""
+ball,2,5.1,Middlesex,SS Eskinazi,PJ Malan,TS Mills,0,0,,,,,,"",""
+ball,2,5.2,Middlesex,SS Eskinazi,PJ Malan,TS Mills,6,0,,,,,,"",""
+ball,2,5.3,Middlesex,SS Eskinazi,PJ Malan,TS Mills,4,0,,,,,,"",""
+ball,2,5.4,Middlesex,SS Eskinazi,PJ Malan,TS Mills,1,0,,,,,,"",""
+ball,2,5.5,Middlesex,PJ Malan,SS Eskinazi,TS Mills,4,0,,,,,,"",""
+ball,2,5.6,Middlesex,PJ Malan,SS Eskinazi,TS Mills,1,0,,,,,,"",""
+ball,2,6.1,Middlesex,PJ Malan,SS Eskinazi,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.2,Middlesex,SS Eskinazi,PJ Malan,Shadab Khan,0,0,,,,,,"",""
+ball,2,6.3,Middlesex,SS Eskinazi,PJ Malan,Shadab Khan,2,0,,,,,,"",""
+ball,2,6.4,Middlesex,SS Eskinazi,PJ Malan,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.5,Middlesex,PJ Malan,SS Eskinazi,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.6,Middlesex,SS Eskinazi,PJ Malan,Shadab Khan,2,0,,,,,,"",""
+ball,2,7.1,Middlesex,PJ Malan,SS Eskinazi,RS Bopara,0,0,,,,,,"",""
+ball,2,7.2,Middlesex,PJ Malan,SS Eskinazi,RS Bopara,1,0,,,,,,"",""
+ball,2,7.3,Middlesex,SS Eskinazi,PJ Malan,RS Bopara,1,0,,,,,,"",""
+ball,2,7.4,Middlesex,PJ Malan,SS Eskinazi,RS Bopara,1,0,,,,,,"",""
+ball,2,7.5,Middlesex,SS Eskinazi,PJ Malan,RS Bopara,1,0,,,,,,"",""
+ball,2,7.6,Middlesex,PJ Malan,SS Eskinazi,RS Bopara,1,0,,,,,,"",""
+ball,2,8.1,Middlesex,PJ Malan,SS Eskinazi,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.2,Middlesex,SS Eskinazi,PJ Malan,Shadab Khan,2,0,,,,,,"",""
+ball,2,8.3,Middlesex,SS Eskinazi,PJ Malan,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.4,Middlesex,SS Eskinazi,PJ Malan,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.5,Middlesex,PJ Malan,SS Eskinazi,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.6,Middlesex,SS Eskinazi,PJ Malan,Shadab Khan,1,0,,,,,,"",""
+ball,2,9.1,Middlesex,SS Eskinazi,PJ Malan,RS Bopara,2,0,,,,,,"",""
+ball,2,9.2,Middlesex,SS Eskinazi,PJ Malan,RS Bopara,1,0,,,,,,"",""
+ball,2,9.3,Middlesex,PJ Malan,SS Eskinazi,RS Bopara,1,0,,,,,,"",""
+ball,2,9.4,Middlesex,SS Eskinazi,PJ Malan,RS Bopara,2,0,,,,,,"",""
+ball,2,9.5,Middlesex,SS Eskinazi,PJ Malan,RS Bopara,0,0,,,,,,"",""
+ball,2,9.6,Middlesex,SS Eskinazi,PJ Malan,RS Bopara,1,0,,,,,,"",""
+ball,2,10.1,Middlesex,SS Eskinazi,PJ Malan,TS Mills,1,0,,,,,,"",""
+ball,2,10.2,Middlesex,PJ Malan,SS Eskinazi,TS Mills,0,0,,,,,,"",""
+ball,2,10.3,Middlesex,PJ Malan,SS Eskinazi,TS Mills,6,0,,,,,,"",""
+ball,2,10.4,Middlesex,PJ Malan,SS Eskinazi,TS Mills,0,0,,,,,,"",""
+ball,2,10.5,Middlesex,PJ Malan,SS Eskinazi,TS Mills,0,0,,,,,,"",""
+ball,2,10.6,Middlesex,PJ Malan,SS Eskinazi,TS Mills,2,0,,,,,,"",""
+ball,2,11.1,Middlesex,SS Eskinazi,PJ Malan,RS Bopara,1,0,,,,,,"",""
+ball,2,11.2,Middlesex,PJ Malan,SS Eskinazi,RS Bopara,0,0,,,,,,bowled,PJ Malan
+ball,2,11.3,Middlesex,MDE Holden,SS Eskinazi,RS Bopara,4,0,,,,,,"",""
+ball,2,11.4,Middlesex,MDE Holden,SS Eskinazi,RS Bopara,0,1,,,,1,,"",""
+ball,2,11.5,Middlesex,SS Eskinazi,MDE Holden,RS Bopara,2,0,,,,,,"",""
+ball,2,11.6,Middlesex,SS Eskinazi,MDE Holden,RS Bopara,1,0,,,,,,"",""
+ball,2,12.1,Middlesex,SS Eskinazi,MDE Holden,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.2,Middlesex,MDE Holden,SS Eskinazi,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.3,Middlesex,SS Eskinazi,MDE Holden,Shadab Khan,4,0,,,,,,"",""
+ball,2,12.4,Middlesex,SS Eskinazi,MDE Holden,Shadab Khan,0,0,,,,,,"",""
+ball,2,12.5,Middlesex,SS Eskinazi,MDE Holden,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.6,Middlesex,MDE Holden,SS Eskinazi,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.1,Middlesex,SS Eskinazi,MDE Holden,RS Bopara,0,0,,,,,,"",""
+ball,2,13.2,Middlesex,SS Eskinazi,MDE Holden,RS Bopara,1,0,,,,,,"",""
+ball,2,13.3,Middlesex,MDE Holden,SS Eskinazi,RS Bopara,1,0,,,,,,"",""
+ball,2,13.4,Middlesex,SS Eskinazi,MDE Holden,RS Bopara,2,0,,,,,,"",""
+ball,2,13.5,Middlesex,SS Eskinazi,MDE Holden,RS Bopara,2,0,,,,,,"",""
+ball,2,13.6,Middlesex,SS Eskinazi,MDE Holden,RS Bopara,1,0,,,,,,"",""
+ball,2,14.1,Middlesex,SS Eskinazi,MDE Holden,Shadab Khan,1,0,,,,,,"",""
+ball,2,14.2,Middlesex,MDE Holden,SS Eskinazi,Shadab Khan,1,0,,,,,,"",""
+ball,2,14.3,Middlesex,SS Eskinazi,MDE Holden,Shadab Khan,2,0,,,,,,"",""
+ball,2,14.4,Middlesex,SS Eskinazi,MDE Holden,Shadab Khan,1,0,,,,,,"",""
+ball,2,14.5,Middlesex,MDE Holden,SS Eskinazi,Shadab Khan,4,0,,,,,,"",""
+ball,2,14.6,Middlesex,MDE Holden,SS Eskinazi,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.1,Middlesex,MDE Holden,SS Eskinazi,HT Crocombe,1,0,,,,,,"",""
+ball,2,15.2,Middlesex,SS Eskinazi,MDE Holden,HT Crocombe,0,0,,,,,,"",""
+ball,2,15.3,Middlesex,SS Eskinazi,MDE Holden,HT Crocombe,0,1,1,,,,,"",""
+ball,2,15.4,Middlesex,SS Eskinazi,MDE Holden,HT Crocombe,1,0,,,,,,"",""
+ball,2,15.5,Middlesex,MDE Holden,SS Eskinazi,HT Crocombe,4,0,,,,,,"",""
+ball,2,15.6,Middlesex,MDE Holden,SS Eskinazi,HT Crocombe,1,0,,,,,,"",""
+ball,2,15.7,Middlesex,SS Eskinazi,MDE Holden,HT Crocombe,4,0,,,,,,"",""
+ball,2,16.1,Middlesex,MDE Holden,SS Eskinazi,N McAndrew,0,0,,,,,,caught,MDE Holden
+ball,2,16.2,Middlesex,JLB Davies,SS Eskinazi,N McAndrew,1,0,,,,,,"",""
+ball,2,16.3,Middlesex,SS Eskinazi,JLB Davies,N McAndrew,1,0,,,,,,"",""
+ball,2,16.4,Middlesex,JLB Davies,SS Eskinazi,N McAndrew,0,0,,,,,,"",""
+ball,2,16.5,Middlesex,JLB Davies,SS Eskinazi,N McAndrew,4,0,,,,,,"",""
+ball,2,16.6,Middlesex,JLB Davies,SS Eskinazi,N McAndrew,4,0,,,,,,"",""
+ball,2,17.1,Middlesex,SS Eskinazi,JLB Davies,TS Mills,1,0,,,,,,"",""
+ball,2,17.2,Middlesex,JLB Davies,SS Eskinazi,TS Mills,4,0,,,,,,"",""
+ball,2,17.3,Middlesex,JLB Davies,SS Eskinazi,TS Mills,0,1,,,,1,,"",""
+ball,2,17.4,Middlesex,SS Eskinazi,JLB Davies,TS Mills,1,0,,,,,,"",""
+ball,2,17.5,Middlesex,JLB Davies,SS Eskinazi,TS Mills,4,0,,,,,,"",""
+ball,2,17.6,Middlesex,JLB Davies,SS Eskinazi,TS Mills,1,0,,,,,,"",""
+ball,2,18.1,Middlesex,JLB Davies,SS Eskinazi,N McAndrew,1,0,,,,,,"",""
+ball,2,18.2,Middlesex,SS Eskinazi,JLB Davies,N McAndrew,4,0,,,,,,"",""
+ball,2,18.3,Middlesex,SS Eskinazi,JLB Davies,N McAndrew,1,0,,,,,,"",""
+ball,2,18.4,Middlesex,JLB Davies,SS Eskinazi,N McAndrew,0,0,,,,,,caught,JLB Davies
+ball,2,18.5,Middlesex,LBK Hollman,SS Eskinazi,N McAndrew,2,0,,,,,,"",""
+ball,2,18.6,Middlesex,LBK Hollman,SS Eskinazi,N McAndrew,1,0,,,,,,"",""
+ball,2,19.1,Middlesex,LBK Hollman,SS Eskinazi,TS Mills,0,0,,,,,,bowled,LBK Hollman
+ball,2,19.2,Middlesex,MK Andersson,SS Eskinazi,TS Mills,0,0,,,,,,"",""
+ball,2,19.3,Middlesex,MK Andersson,SS Eskinazi,TS Mills,0,1,,,1,,,"",""
+ball,2,19.4,Middlesex,SS Eskinazi,MK Andersson,TS Mills,4,0,,,,,,"",""
+ball,2,19.5,Middlesex,SS Eskinazi,MK Andersson,TS Mills,2,0,,,,,,"",""
+ball,2,19.6,Middlesex,SS Eskinazi,MK Andersson,TS Mills,0,0,,,,,,"",""

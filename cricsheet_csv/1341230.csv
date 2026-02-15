@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Northern Districts
+info,gender,female
+info,season,2022/23
+info,date,2022/12/28
+info,event,Women's Super Smash
+info,match_number,5
+info,venue,"John Davies Oval, Queenstown"
+info,city,Queenstown
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,Eloise Sheridan
+info,umpire,SB Haig
+info,reserve_umpire,JT Blunt
+info,tv_umpire,Kim Cotton
+info,match_referee,SRM Morris
+info,winner,Otago
+info,winner_runs,20
+info,player,Otago,SW Bates
+info,player,Otago,ON Gain
+info,player,Otago,PM Inglis
+info,player,Otago,KE Ebrahim
+info,player,Otago,CG Blakely
+info,player,Otago,FC Leydon-Davis
+info,player,Otago,IR James
+info,player,Otago,HNK Jensen
+info,player,Otago,EJ Carson
+info,player,Otago,EJ Black
+info,player,Otago,SA Oldershaw
+info,player,Northern Districts,CA Gurrey
+info,player,Northern Districts,B Bezuidenhout
+info,player,Northern Districts,SRH Curtis
+info,player,Northern Districts,NH Patel
+info,player,Northern Districts,A Wellington
+info,player,Northern Districts,EAJ Richardson
+info,player,Northern Districts,T Wakelin
+info,player,Northern Districts,PC Graham
+info,player,Northern Districts,HE Topp
+info,player,Northern Districts,KA Knight
+info,player,Northern Districts,SR Naidu
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,B Bezuidenhout,564afdcf
+info,registry,people,CA Gurrey,1e579ad5
+info,registry,people,CG Blakely,8f999ed5
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,EJ Black,2817e17a
+info,registry,people,EJ Carson,7693851c
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FC Leydon-Davis,b91efad5
+info,registry,people,HE Topp,d9b3ff0a
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,IR James,57bdbc16
+info,registry,people,JT Blunt,2fe9a247
+info,registry,people,KA Knight,4291f081
+info,registry,people,KE Ebrahim,7c0055c1
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,NH Patel,d945db3e
+info,registry,people,ON Gain,67913804
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,PM Inglis,e4a71d18
+info,registry,people,SA Oldershaw,93b4f6f6
+info,registry,people,SB Haig,811655b3
+info,registry,people,SR Naidu,f41d1a02
+info,registry,people,SRH Curtis,aa89a853
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,T Wakelin,9585d793
+ball,1,0.1,Otago,SW Bates,ON Gain,SR Naidu,0,0,,,,,,"",""
+ball,1,0.2,Otago,SW Bates,ON Gain,SR Naidu,0,0,,,,,,"",""
+ball,1,0.3,Otago,SW Bates,ON Gain,SR Naidu,4,0,,,,,,"",""
+ball,1,0.4,Otago,SW Bates,ON Gain,SR Naidu,4,0,,,,,,"",""
+ball,1,0.5,Otago,SW Bates,ON Gain,SR Naidu,2,0,,,,,,"",""
+ball,1,0.6,Otago,SW Bates,ON Gain,SR Naidu,0,0,,,,,,"",""
+ball,1,1.1,Otago,ON Gain,SW Bates,KA Knight,0,0,,,,,,caught,ON Gain
+ball,1,1.2,Otago,PM Inglis,SW Bates,KA Knight,0,0,,,,,,"",""
+ball,1,1.3,Otago,PM Inglis,SW Bates,KA Knight,4,0,,,,,,"",""
+ball,1,1.4,Otago,PM Inglis,SW Bates,KA Knight,1,0,,,,,,"",""
+ball,1,1.5,Otago,SW Bates,PM Inglis,KA Knight,0,0,,,,,,"",""
+ball,1,1.6,Otago,SW Bates,PM Inglis,KA Knight,1,0,,,,,,"",""
+ball,1,2.1,Otago,SW Bates,PM Inglis,SR Naidu,4,0,,,,,,"",""
+ball,1,2.2,Otago,SW Bates,PM Inglis,SR Naidu,0,0,,,,,,"",""
+ball,1,2.3,Otago,SW Bates,PM Inglis,SR Naidu,0,0,,,,,,"",""
+ball,1,2.4,Otago,SW Bates,PM Inglis,SR Naidu,2,0,,,,,,"",""
+ball,1,2.5,Otago,SW Bates,PM Inglis,SR Naidu,4,0,,,,,,"",""
+ball,1,2.6,Otago,SW Bates,PM Inglis,SR Naidu,1,0,,,,,,"",""
+ball,1,3.1,Otago,SW Bates,PM Inglis,KA Knight,1,0,,,,,,"",""
+ball,1,3.2,Otago,PM Inglis,SW Bates,KA Knight,0,0,,,,,,"",""
+ball,1,3.3,Otago,PM Inglis,SW Bates,KA Knight,0,0,,,,,,"",""
+ball,1,3.4,Otago,PM Inglis,SW Bates,KA Knight,0,0,,,,,,"",""
+ball,1,3.5,Otago,PM Inglis,SW Bates,KA Knight,0,1,1,,,,,"",""
+ball,1,3.6,Otago,PM Inglis,SW Bates,KA Knight,0,0,,,,,,"",""
+ball,1,3.7,Otago,PM Inglis,SW Bates,KA Knight,0,0,,,,,,"",""
+ball,1,4.1,Otago,SW Bates,PM Inglis,NH Patel,1,0,,,,,,"",""
+ball,1,4.2,Otago,PM Inglis,SW Bates,NH Patel,1,0,,,,,,"",""
+ball,1,4.3,Otago,SW Bates,PM Inglis,NH Patel,1,0,,,,,,"",""
+ball,1,4.4,Otago,PM Inglis,SW Bates,NH Patel,0,0,,,,,,"",""
+ball,1,4.5,Otago,PM Inglis,SW Bates,NH Patel,0,0,,,,,,"",""
+ball,1,4.6,Otago,PM Inglis,SW Bates,NH Patel,0,0,,,,,,caught,PM Inglis
+ball,1,5.1,Otago,SW Bates,KE Ebrahim,PC Graham,0,0,,,,,,"",""
+ball,1,5.2,Otago,SW Bates,KE Ebrahim,PC Graham,2,0,,,,,,"",""
+ball,1,5.3,Otago,SW Bates,KE Ebrahim,PC Graham,0,1,1,,,,,"",""
+ball,1,5.4,Otago,SW Bates,KE Ebrahim,PC Graham,4,0,,,,,,"",""
+ball,1,5.5,Otago,SW Bates,KE Ebrahim,PC Graham,0,0,,,,,,"",""
+ball,1,5.6,Otago,SW Bates,KE Ebrahim,PC Graham,0,0,,,,,,"",""
+ball,1,5.7,Otago,SW Bates,KE Ebrahim,PC Graham,4,0,,,,,,"",""
+ball,1,6.1,Otago,KE Ebrahim,SW Bates,NH Patel,0,0,,,,,,"",""
+ball,1,6.2,Otago,KE Ebrahim,SW Bates,NH Patel,1,0,,,,,,"",""
+ball,1,6.3,Otago,SW Bates,KE Ebrahim,NH Patel,1,0,,,,,,"",""
+ball,1,6.4,Otago,KE Ebrahim,SW Bates,NH Patel,0,0,,,,,,"",""
+ball,1,6.5,Otago,KE Ebrahim,SW Bates,NH Patel,1,0,,,,,,"",""
+ball,1,6.6,Otago,SW Bates,KE Ebrahim,NH Patel,1,0,,,,,,"",""
+ball,1,7.1,Otago,SW Bates,KE Ebrahim,A Wellington,1,0,,,,,,"",""
+ball,1,7.2,Otago,KE Ebrahim,SW Bates,A Wellington,0,0,,,,,,"",""
+ball,1,7.3,Otago,KE Ebrahim,SW Bates,A Wellington,1,0,,,,,,"",""
+ball,1,7.4,Otago,SW Bates,KE Ebrahim,A Wellington,1,0,,,,,,"",""
+ball,1,7.5,Otago,KE Ebrahim,SW Bates,A Wellington,0,0,,,,,,"",""
+ball,1,7.6,Otago,KE Ebrahim,SW Bates,A Wellington,0,1,1,,,,,"",""
+ball,1,7.7,Otago,KE Ebrahim,SW Bates,A Wellington,0,0,,,,,,"",""
+ball,1,8.1,Otago,SW Bates,KE Ebrahim,EAJ Richardson,1,0,,,,,,"",""
+ball,1,8.2,Otago,KE Ebrahim,SW Bates,EAJ Richardson,1,0,,,,,,"",""
+ball,1,8.3,Otago,SW Bates,KE Ebrahim,EAJ Richardson,1,0,,,,,,"",""
+ball,1,8.4,Otago,KE Ebrahim,SW Bates,EAJ Richardson,4,0,,,,,,"",""
+ball,1,8.5,Otago,KE Ebrahim,SW Bates,EAJ Richardson,0,0,,,,,,"",""
+ball,1,8.6,Otago,KE Ebrahim,SW Bates,EAJ Richardson,1,0,,,,,,"",""
+ball,1,9.1,Otago,KE Ebrahim,SW Bates,A Wellington,4,0,,,,,,"",""
+ball,1,9.2,Otago,KE Ebrahim,SW Bates,A Wellington,0,0,,,,,,"",""
+ball,1,9.3,Otago,KE Ebrahim,SW Bates,A Wellington,1,0,,,,,,"",""
+ball,1,9.4,Otago,SW Bates,KE Ebrahim,A Wellington,0,0,,,,,,"",""
+ball,1,9.5,Otago,SW Bates,KE Ebrahim,A Wellington,1,0,,,,,,"",""
+ball,1,9.6,Otago,KE Ebrahim,SW Bates,A Wellington,1,0,,,,,,"",""
+ball,1,10.1,Otago,KE Ebrahim,SW Bates,EAJ Richardson,1,0,,,,,,"",""
+ball,1,10.2,Otago,SW Bates,KE Ebrahim,EAJ Richardson,2,0,,,,,,"",""
+ball,1,10.3,Otago,SW Bates,KE Ebrahim,EAJ Richardson,0,0,,,,,,"",""
+ball,1,10.4,Otago,SW Bates,KE Ebrahim,EAJ Richardson,1,0,,,,,,"",""
+ball,1,10.5,Otago,KE Ebrahim,SW Bates,EAJ Richardson,1,0,,,,,,"",""
+ball,1,10.6,Otago,SW Bates,KE Ebrahim,EAJ Richardson,1,0,,,,,,"",""
+ball,1,11.1,Otago,SW Bates,KE Ebrahim,PC Graham,1,0,,,,,,"",""
+ball,1,11.2,Otago,KE Ebrahim,SW Bates,PC Graham,1,0,,,,,,"",""
+ball,1,11.3,Otago,SW Bates,KE Ebrahim,PC Graham,0,0,,,,,,"",""
+ball,1,11.4,Otago,SW Bates,KE Ebrahim,PC Graham,4,0,,,,,,"",""
+ball,1,11.5,Otago,SW Bates,KE Ebrahim,PC Graham,0,0,,,,,,"",""
+ball,1,11.6,Otago,SW Bates,KE Ebrahim,PC Graham,1,0,,,,,,"",""
+ball,1,12.1,Otago,SW Bates,KE Ebrahim,NH Patel,6,0,,,,,,"",""
+ball,1,12.2,Otago,SW Bates,KE Ebrahim,NH Patel,2,0,,,,,,"",""
+ball,1,12.3,Otago,SW Bates,KE Ebrahim,NH Patel,1,0,,,,,,"",""
+ball,1,12.4,Otago,KE Ebrahim,SW Bates,NH Patel,1,0,,,,,,"",""
+ball,1,12.5,Otago,SW Bates,KE Ebrahim,NH Patel,1,0,,,,,,"",""
+ball,1,12.6,Otago,KE Ebrahim,SW Bates,NH Patel,1,0,,,,,,"",""
+ball,1,13.1,Otago,KE Ebrahim,SW Bates,PC Graham,0,0,,,,,,"",""
+ball,1,13.2,Otago,KE Ebrahim,SW Bates,PC Graham,4,0,,,,,,"",""
+ball,1,13.3,Otago,KE Ebrahim,SW Bates,PC Graham,0,0,,,,,,"",""
+ball,1,13.4,Otago,KE Ebrahim,SW Bates,PC Graham,0,2,2,,,,,"",""
+ball,1,13.5,Otago,SW Bates,KE Ebrahim,PC Graham,1,0,,,,,,"",""
+ball,1,13.6,Otago,KE Ebrahim,SW Bates,PC Graham,1,0,,,,,,"",""
+ball,1,13.7,Otago,SW Bates,KE Ebrahim,PC Graham,0,0,,,,,,"",""
+ball,1,14.1,Otago,KE Ebrahim,SW Bates,NH Patel,4,0,,,,,,"",""
+ball,1,14.2,Otago,KE Ebrahim,SW Bates,NH Patel,2,0,,,,,,"",""
+ball,1,14.3,Otago,KE Ebrahim,SW Bates,NH Patel,1,0,,,,,,"",""
+ball,1,14.4,Otago,SW Bates,KE Ebrahim,NH Patel,6,0,,,,,,"",""
+ball,1,14.5,Otago,SW Bates,KE Ebrahim,NH Patel,1,0,,,,,,"",""
+ball,1,14.6,Otago,KE Ebrahim,SW Bates,NH Patel,1,0,,,,,,"",""
+ball,1,15.1,Otago,KE Ebrahim,SW Bates,A Wellington,2,0,,,,,,"",""
+ball,1,15.2,Otago,KE Ebrahim,SW Bates,A Wellington,1,0,,,,,,"",""
+ball,1,15.3,Otago,SW Bates,KE Ebrahim,A Wellington,1,0,,,,,,"",""
+ball,1,15.4,Otago,KE Ebrahim,SW Bates,A Wellington,6,0,,,,,,"",""
+ball,1,15.5,Otago,KE Ebrahim,SW Bates,A Wellington,1,0,,,,,,"",""
+ball,1,15.6,Otago,SW Bates,KE Ebrahim,A Wellington,1,0,,,,,,"",""
+ball,1,16.1,Otago,SW Bates,KE Ebrahim,EAJ Richardson,6,0,,,,,,"",""
+ball,1,16.2,Otago,SW Bates,KE Ebrahim,EAJ Richardson,6,0,,,,,,"",""
+ball,1,16.3,Otago,SW Bates,KE Ebrahim,EAJ Richardson,4,0,,,,,,"",""
+ball,1,16.4,Otago,SW Bates,KE Ebrahim,EAJ Richardson,2,0,,,,,,"",""
+ball,1,16.5,Otago,SW Bates,KE Ebrahim,EAJ Richardson,0,0,,,,,,"",""
+ball,1,16.6,Otago,SW Bates,KE Ebrahim,EAJ Richardson,1,0,,,,,,"",""
+ball,1,17.1,Otago,SW Bates,KE Ebrahim,A Wellington,0,0,,,,,,"",""
+ball,1,17.2,Otago,SW Bates,KE Ebrahim,A Wellington,0,0,,,,,,"",""
+ball,1,17.3,Otago,SW Bates,KE Ebrahim,A Wellington,1,0,,,,,,"",""
+ball,1,17.4,Otago,KE Ebrahim,SW Bates,A Wellington,3,0,,,,,,"",""
+ball,1,17.5,Otago,SW Bates,KE Ebrahim,A Wellington,2,0,,,,,,"",""
+ball,1,17.6,Otago,SW Bates,KE Ebrahim,A Wellington,1,0,,,,,,"",""
+ball,1,18.1,Otago,SW Bates,KE Ebrahim,EAJ Richardson,1,0,,,,,,"",""
+ball,1,18.2,Otago,KE Ebrahim,SW Bates,EAJ Richardson,0,0,,,,,,"",""
+ball,1,18.3,Otago,KE Ebrahim,SW Bates,EAJ Richardson,4,0,,,,,,"",""
+ball,1,18.4,Otago,KE Ebrahim,SW Bates,EAJ Richardson,1,0,,,,,,"",""
+ball,1,18.5,Otago,SW Bates,KE Ebrahim,EAJ Richardson,1,0,,,,,,"",""
+ball,1,18.6,Otago,KE Ebrahim,SW Bates,EAJ Richardson,1,0,,,,,,"",""
+ball,1,19.1,Otago,KE Ebrahim,SW Bates,KA Knight,0,0,,,,,,run out,KE Ebrahim
+ball,1,19.2,Otago,SW Bates,CG Blakely,KA Knight,0,0,,,,,,"",""
+ball,1,19.3,Otago,SW Bates,CG Blakely,KA Knight,1,0,,,,,,"",""
+ball,1,19.4,Otago,CG Blakely,SW Bates,KA Knight,0,1,,,1,,,"",""
+ball,1,19.5,Otago,SW Bates,CG Blakely,KA Knight,2,0,,,,,,"",""
+ball,1,19.6,Otago,SW Bates,CG Blakely,KA Knight,1,0,,,,,,"",""
+ball,2,0.1,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Carson,0,0,,,,,,"",""
+ball,2,0.2,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Carson,1,0,,,,,,"",""
+ball,2,0.3,Northern Districts,B Bezuidenhout,CA Gurrey,EJ Carson,0,0,,,,,,"",""
+ball,2,0.4,Northern Districts,B Bezuidenhout,CA Gurrey,EJ Carson,1,0,,,,,,"",""
+ball,2,0.5,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Carson,0,0,,,,,,"",""
+ball,2,0.6,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Carson,4,0,,,,,,"",""
+ball,2,1.1,Northern Districts,B Bezuidenhout,CA Gurrey,EJ Black,2,0,,,,,,"",""
+ball,2,1.2,Northern Districts,B Bezuidenhout,CA Gurrey,EJ Black,1,0,,,,,,"",""
+ball,2,1.3,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Black,0,0,,,,,,"",""
+ball,2,1.4,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Black,0,0,,,,,,"",""
+ball,2,1.5,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Black,4,0,,,,,,"",""
+ball,2,1.6,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Black,1,0,,,,,,"",""
+ball,2,2.1,Northern Districts,CA Gurrey,B Bezuidenhout,HNK Jensen,1,0,,,,,,"",""
+ball,2,2.2,Northern Districts,B Bezuidenhout,CA Gurrey,HNK Jensen,1,0,,,,,,"",""
+ball,2,2.3,Northern Districts,CA Gurrey,B Bezuidenhout,HNK Jensen,4,0,,,,,,"",""
+ball,2,2.4,Northern Districts,CA Gurrey,B Bezuidenhout,HNK Jensen,0,1,,,,1,,"",""
+ball,2,2.5,Northern Districts,B Bezuidenhout,CA Gurrey,HNK Jensen,1,0,,,,,,"",""
+ball,2,2.6,Northern Districts,CA Gurrey,B Bezuidenhout,HNK Jensen,0,0,,,,,,"",""
+ball,2,3.1,Northern Districts,B Bezuidenhout,CA Gurrey,EJ Black,1,0,,,,,,"",""
+ball,2,3.2,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Black,4,0,,,,,,"",""
+ball,2,3.3,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Black,0,0,,,,,,"",""
+ball,2,3.4,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Black,2,0,,,,,,"",""
+ball,2,3.5,Northern Districts,CA Gurrey,B Bezuidenhout,EJ Black,0,0,,,,,,retired not out,CA Gurrey
+ball,2,3.6,Northern Districts,SRH Curtis,B Bezuidenhout,EJ Black,1,0,,,,,,"",""
+ball,2,4.1,Northern Districts,SRH Curtis,B Bezuidenhout,HNK Jensen,0,0,,,,,,"",""
+ball,2,4.2,Northern Districts,SRH Curtis,B Bezuidenhout,HNK Jensen,0,1,1,,,,,"",""
+ball,2,4.3,Northern Districts,SRH Curtis,B Bezuidenhout,HNK Jensen,4,0,,,,,,"",""
+ball,2,4.4,Northern Districts,SRH Curtis,B Bezuidenhout,HNK Jensen,0,0,,,,,,"",""
+ball,2,4.5,Northern Districts,SRH Curtis,B Bezuidenhout,HNK Jensen,1,0,,,,,,"",""
+ball,2,4.6,Northern Districts,B Bezuidenhout,SRH Curtis,HNK Jensen,1,0,,,,,,"",""
+ball,2,4.7,Northern Districts,SRH Curtis,B Bezuidenhout,HNK Jensen,0,0,,,,,,"",""
+ball,2,5.1,Northern Districts,B Bezuidenhout,SRH Curtis,SW Bates,1,0,,,,,,"",""
+ball,2,5.2,Northern Districts,SRH Curtis,B Bezuidenhout,SW Bates,0,0,,,,,,"",""
+ball,2,5.3,Northern Districts,SRH Curtis,B Bezuidenhout,SW Bates,4,0,,,,,,"",""
+ball,2,5.4,Northern Districts,SRH Curtis,B Bezuidenhout,SW Bates,0,0,,,,,,"",""
+ball,2,5.5,Northern Districts,SRH Curtis,B Bezuidenhout,SW Bates,4,0,,,,,,"",""
+ball,2,5.6,Northern Districts,SRH Curtis,B Bezuidenhout,SW Bates,2,0,,,,,,"",""
+ball,2,6.1,Northern Districts,B Bezuidenhout,SRH Curtis,KE Ebrahim,0,0,,,,,,"",""
+ball,2,6.2,Northern Districts,B Bezuidenhout,SRH Curtis,KE Ebrahim,1,0,,,,,,"",""
+ball,2,6.3,Northern Districts,SRH Curtis,B Bezuidenhout,KE Ebrahim,1,0,,,,,,"",""
+ball,2,6.4,Northern Districts,B Bezuidenhout,SRH Curtis,KE Ebrahim,2,0,,,,,,"",""
+ball,2,6.5,Northern Districts,B Bezuidenhout,SRH Curtis,KE Ebrahim,1,0,,,,,,"",""
+ball,2,6.6,Northern Districts,SRH Curtis,B Bezuidenhout,KE Ebrahim,1,0,,,,,,"",""
+ball,2,7.1,Northern Districts,SRH Curtis,B Bezuidenhout,EJ Carson,0,0,,,,,,"",""
+ball,2,7.2,Northern Districts,SRH Curtis,B Bezuidenhout,EJ Carson,0,2,,,,2,,"",""
+ball,2,7.3,Northern Districts,SRH Curtis,B Bezuidenhout,EJ Carson,0,0,,,,,,"",""
+ball,2,7.4,Northern Districts,SRH Curtis,B Bezuidenhout,EJ Carson,0,1,1,,,,,"",""
+ball,2,7.5,Northern Districts,SRH Curtis,B Bezuidenhout,EJ Carson,1,0,,,,,,"",""
+ball,2,7.6,Northern Districts,B Bezuidenhout,SRH Curtis,EJ Carson,2,0,,,,,,"",""
+ball,2,7.7,Northern Districts,B Bezuidenhout,SRH Curtis,EJ Carson,1,0,,,,,,"",""
+ball,2,8.1,Northern Districts,B Bezuidenhout,SRH Curtis,SA Oldershaw,2,0,,,,,,"",""
+ball,2,8.2,Northern Districts,B Bezuidenhout,SRH Curtis,SA Oldershaw,1,0,,,,,,"",""
+ball,2,8.3,Northern Districts,SRH Curtis,B Bezuidenhout,SA Oldershaw,1,0,,,,,,"",""
+ball,2,8.4,Northern Districts,B Bezuidenhout,SRH Curtis,SA Oldershaw,4,0,,,,,,"",""
+ball,2,8.5,Northern Districts,B Bezuidenhout,SRH Curtis,SA Oldershaw,1,0,,,,,,"",""
+ball,2,8.6,Northern Districts,SRH Curtis,B Bezuidenhout,SA Oldershaw,1,0,,,,,,"",""
+ball,2,9.1,Northern Districts,SRH Curtis,B Bezuidenhout,EJ Black,0,1,1,,,,,"",""
+ball,2,9.2,Northern Districts,SRH Curtis,B Bezuidenhout,EJ Black,0,0,,,,,,caught,SRH Curtis
+ball,2,9.3,Northern Districts,NH Patel,B Bezuidenhout,EJ Black,0,0,,,,,,"",""
+ball,2,9.4,Northern Districts,NH Patel,B Bezuidenhout,EJ Black,1,0,,,,,,"",""
+ball,2,9.5,Northern Districts,B Bezuidenhout,NH Patel,EJ Black,0,0,,,,,,"",""
+ball,2,9.6,Northern Districts,B Bezuidenhout,NH Patel,EJ Black,0,0,,,,,,"",""
+ball,2,9.7,Northern Districts,B Bezuidenhout,NH Patel,EJ Black,4,0,,,,,,"",""
+ball,2,10.1,Northern Districts,NH Patel,B Bezuidenhout,KE Ebrahim,1,0,,,,,,"",""
+ball,2,10.2,Northern Districts,B Bezuidenhout,NH Patel,KE Ebrahim,1,0,,,,,,"",""
+ball,2,10.3,Northern Districts,NH Patel,B Bezuidenhout,KE Ebrahim,0,1,,,,1,,"",""
+ball,2,10.4,Northern Districts,B Bezuidenhout,NH Patel,KE Ebrahim,1,0,,,,,,"",""
+ball,2,10.5,Northern Districts,NH Patel,B Bezuidenhout,KE Ebrahim,0,0,,,,,,"",""
+ball,2,10.6,Northern Districts,NH Patel,B Bezuidenhout,KE Ebrahim,1,0,,,,,,"",""
+ball,2,11.1,Northern Districts,NH Patel,B Bezuidenhout,EJ Carson,0,0,,,,,,"",""
+ball,2,11.2,Northern Districts,NH Patel,B Bezuidenhout,EJ Carson,0,1,1,,,,,"",""
+ball,2,11.3,Northern Districts,NH Patel,B Bezuidenhout,EJ Carson,0,0,,,,,,"",""
+ball,2,11.4,Northern Districts,NH Patel,B Bezuidenhout,EJ Carson,1,0,,,,,,"",""
+ball,2,11.5,Northern Districts,B Bezuidenhout,NH Patel,EJ Carson,1,0,,,,,,"",""
+ball,2,11.6,Northern Districts,NH Patel,B Bezuidenhout,EJ Carson,0,0,,,,,,"",""
+ball,2,11.7,Northern Districts,NH Patel,B Bezuidenhout,EJ Carson,1,0,,,,,,"",""
+ball,2,12.1,Northern Districts,NH Patel,B Bezuidenhout,KE Ebrahim,1,0,,,,,,"",""
+ball,2,12.2,Northern Districts,B Bezuidenhout,NH Patel,KE Ebrahim,4,0,,,,,,"",""
+ball,2,12.3,Northern Districts,B Bezuidenhout,NH Patel,KE Ebrahim,1,0,,,,,,"",""
+ball,2,12.4,Northern Districts,NH Patel,B Bezuidenhout,KE Ebrahim,1,0,,,,,,"",""
+ball,2,12.5,Northern Districts,B Bezuidenhout,NH Patel,KE Ebrahim,1,0,,,,,,"",""
+ball,2,12.6,Northern Districts,NH Patel,B Bezuidenhout,KE Ebrahim,1,0,,,,,,"",""
+ball,2,13.1,Northern Districts,NH Patel,B Bezuidenhout,HNK Jensen,0,0,,,,,,"",""
+ball,2,13.2,Northern Districts,NH Patel,B Bezuidenhout,HNK Jensen,1,0,,,,,,"",""
+ball,2,13.3,Northern Districts,B Bezuidenhout,NH Patel,HNK Jensen,4,0,,,,,,"",""
+ball,2,13.4,Northern Districts,B Bezuidenhout,NH Patel,HNK Jensen,0,0,,,,,,caught,B Bezuidenhout
+ball,2,13.5,Northern Districts,A Wellington,NH Patel,HNK Jensen,0,0,,,,,,"",""
+ball,2,13.6,Northern Districts,A Wellington,NH Patel,HNK Jensen,1,0,,,,,,"",""
+ball,2,14.1,Northern Districts,A Wellington,NH Patel,SA Oldershaw,1,0,,,,,,"",""
+ball,2,14.2,Northern Districts,NH Patel,A Wellington,SA Oldershaw,1,0,,,,,,"",""
+ball,2,14.3,Northern Districts,A Wellington,NH Patel,SA Oldershaw,1,0,,,,,,"",""
+ball,2,14.4,Northern Districts,NH Patel,A Wellington,SA Oldershaw,1,0,,,,,,"",""
+ball,2,14.5,Northern Districts,A Wellington,NH Patel,SA Oldershaw,0,1,1,,,,,"",""
+ball,2,14.6,Northern Districts,A Wellington,NH Patel,SA Oldershaw,2,0,,,,,,"",""
+ball,2,14.7,Northern Districts,A Wellington,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,15.1,Northern Districts,NH Patel,A Wellington,EJ Black,1,0,,,,,,"",""
+ball,2,15.2,Northern Districts,A Wellington,NH Patel,EJ Black,0,0,,,,,,"",""
+ball,2,15.3,Northern Districts,A Wellington,NH Patel,EJ Black,2,0,,,,,,"",""
+ball,2,15.4,Northern Districts,A Wellington,NH Patel,EJ Black,4,0,,,,,,"",""
+ball,2,15.5,Northern Districts,A Wellington,NH Patel,EJ Black,0,0,,,,,,"",""
+ball,2,15.6,Northern Districts,A Wellington,NH Patel,EJ Black,2,0,,,,,,"",""
+ball,2,16.1,Northern Districts,NH Patel,A Wellington,SA Oldershaw,1,0,,,,,,"",""
+ball,2,16.2,Northern Districts,A Wellington,NH Patel,SA Oldershaw,1,0,,,,,,"",""
+ball,2,16.3,Northern Districts,NH Patel,A Wellington,SA Oldershaw,0,0,,,,,,"",""
+ball,2,16.4,Northern Districts,NH Patel,A Wellington,SA Oldershaw,2,0,,,,,,"",""
+ball,2,16.5,Northern Districts,NH Patel,A Wellington,SA Oldershaw,1,0,,,,,,"",""
+ball,2,16.6,Northern Districts,A Wellington,NH Patel,SA Oldershaw,0,0,,,,,,"",""
+ball,2,17.1,Northern Districts,NH Patel,A Wellington,KE Ebrahim,1,0,,,,,,"",""
+ball,2,17.2,Northern Districts,A Wellington,NH Patel,KE Ebrahim,0,0,,,,,,caught,A Wellington
+ball,2,17.3,Northern Districts,EAJ Richardson,NH Patel,KE Ebrahim,0,3,3,,,,,"",""
+ball,2,17.4,Northern Districts,EAJ Richardson,NH Patel,KE Ebrahim,1,0,,,,,,"",""
+ball,2,17.5,Northern Districts,NH Patel,EAJ Richardson,KE Ebrahim,1,0,,,,,,"",""
+ball,2,17.6,Northern Districts,EAJ Richardson,NH Patel,KE Ebrahim,0,0,,,,,,bowled,EAJ Richardson
+ball,2,17.7,Northern Districts,T Wakelin,NH Patel,KE Ebrahim,2,0,,,,,,"",""
+ball,2,18.1,Northern Districts,NH Patel,T Wakelin,EJ Carson,0,0,,,,,,run out,T Wakelin
+ball,2,18.2,Northern Districts,NH Patel,PC Graham,EJ Carson,1,0,,,,,,"",""
+ball,2,18.3,Northern Districts,PC Graham,NH Patel,EJ Carson,0,0,,,,,,"",""
+ball,2,18.4,Northern Districts,PC Graham,NH Patel,EJ Carson,4,0,,,,,,"",""
+ball,2,18.5,Northern Districts,PC Graham,NH Patel,EJ Carson,1,0,,,,,,"",""
+ball,2,18.6,Northern Districts,NH Patel,PC Graham,EJ Carson,1,0,,,,,,"",""
+ball,2,19.1,Northern Districts,NH Patel,PC Graham,HNK Jensen,4,0,,,,,,"",""
+ball,2,19.2,Northern Districts,NH Patel,PC Graham,HNK Jensen,1,0,,,,,,"",""
+ball,2,19.3,Northern Districts,PC Graham,NH Patel,HNK Jensen,2,0,,,,,,"",""
+ball,2,19.4,Northern Districts,PC Graham,NH Patel,HNK Jensen,1,0,,,,,,"",""
+ball,2,19.5,Northern Districts,NH Patel,PC Graham,HNK Jensen,0,0,,,,,,caught,NH Patel
+ball,2,19.6,Northern Districts,HE Topp,PC Graham,HNK Jensen,0,0,,,,,,run out,HE Topp

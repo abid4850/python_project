@@ -1,0 +1,271 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Sussex
+info,gender,male
+info,season,2021
+info,date,2021/06/15
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Sussex
+info,toss_decision,field
+info,player_of_match,LJ Wright
+info,umpire,Hassan Adnan
+info,umpire,PJ Hartley
+info,match_referee,SJ Davis
+info,winner,Sussex
+info,winner_wickets,7
+info,player,Essex,WEL Buttleman
+info,player,Essex,T Westley
+info,player,Essex,MS Pepper
+info,player,Essex,PI Walter
+info,player,Essex,RN ten Doeschate
+info,player,Essex,JDS Neesham
+info,player,Essex,SR Harmer
+info,player,Essex,JH Plom
+info,player,Essex,ASS Nijjar
+info,player,Essex,SJ Cook
+info,player,Essex,JA Porter
+info,player,Sussex,PD Salt
+info,player,Sussex,LJ Wright
+info,player,Sussex,TM Head
+info,player,Sussex,RS Bopara
+info,player,Sussex,DMW Rawlins
+info,player,Sussex,D Wiese
+info,player,Sussex,CJ Jordan
+info,player,Sussex,GHS Garton
+info,player,Sussex,WAT Beer
+info,player,Sussex,AC Lenham
+info,player,Sussex,TS Mills
+info,registry,people,AC Lenham,8f9c5014
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JA Porter,5b6d248a
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JH Plom,23f2143b
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,RN ten Doeschate,4ec07775
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Westley,25a42048
+info,registry,people,TM Head,12b610c2
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WAT Beer,98eacfe5
+info,registry,people,WEL Buttleman,e855546b
+ball,1,0.1,Essex,WEL Buttleman,T Westley,D Wiese,0,0,,,,,,"",""
+ball,1,0.2,Essex,WEL Buttleman,T Westley,D Wiese,1,0,,,,,,"",""
+ball,1,0.3,Essex,T Westley,WEL Buttleman,D Wiese,0,1,,,,1,,"",""
+ball,1,0.4,Essex,WEL Buttleman,T Westley,D Wiese,0,0,,,,,,"",""
+ball,1,0.5,Essex,WEL Buttleman,T Westley,D Wiese,0,0,,,,,,"",""
+ball,1,0.6,Essex,WEL Buttleman,T Westley,D Wiese,1,0,,,,,,"",""
+ball,1,1.1,Essex,WEL Buttleman,T Westley,GHS Garton,1,0,,,,,,"",""
+ball,1,1.2,Essex,T Westley,WEL Buttleman,GHS Garton,4,0,,,,,,"",""
+ball,1,1.3,Essex,T Westley,WEL Buttleman,GHS Garton,0,0,,,,,,"",""
+ball,1,1.4,Essex,T Westley,WEL Buttleman,GHS Garton,0,0,,,,,,"",""
+ball,1,1.5,Essex,T Westley,WEL Buttleman,GHS Garton,1,0,,,,,,"",""
+ball,1,1.6,Essex,WEL Buttleman,T Westley,GHS Garton,1,0,,,,,,"",""
+ball,1,2.1,Essex,WEL Buttleman,T Westley,TS Mills,0,0,,,,,,"",""
+ball,1,2.2,Essex,WEL Buttleman,T Westley,TS Mills,4,0,,,,,,"",""
+ball,1,2.3,Essex,WEL Buttleman,T Westley,TS Mills,0,0,,,,,,"",""
+ball,1,2.4,Essex,WEL Buttleman,T Westley,TS Mills,1,0,,,,,,"",""
+ball,1,2.5,Essex,T Westley,WEL Buttleman,TS Mills,0,0,,,,,,"",""
+ball,1,2.6,Essex,T Westley,WEL Buttleman,TS Mills,0,0,,,,,,"",""
+ball,1,3.1,Essex,WEL Buttleman,T Westley,GHS Garton,4,0,,,,,,"",""
+ball,1,3.2,Essex,WEL Buttleman,T Westley,GHS Garton,6,0,,,,,,"",""
+ball,1,3.3,Essex,WEL Buttleman,T Westley,GHS Garton,6,0,,,,,,"",""
+ball,1,3.4,Essex,WEL Buttleman,T Westley,GHS Garton,1,0,,,,,,"",""
+ball,1,3.5,Essex,T Westley,WEL Buttleman,GHS Garton,0,0,,,,,,"",""
+ball,1,3.6,Essex,T Westley,WEL Buttleman,GHS Garton,0,0,,,,,,caught,T Westley
+ball,1,4.1,Essex,MS Pepper,WEL Buttleman,TS Mills,1,0,,,,,,"",""
+ball,1,4.2,Essex,WEL Buttleman,MS Pepper,TS Mills,0,0,,,,,,"",""
+ball,1,4.3,Essex,WEL Buttleman,MS Pepper,TS Mills,0,0,,,,,,caught,WEL Buttleman
+ball,1,4.4,Essex,PI Walter,MS Pepper,TS Mills,1,0,,,,,,"",""
+ball,1,4.5,Essex,MS Pepper,PI Walter,TS Mills,4,0,,,,,,"",""
+ball,1,4.6,Essex,MS Pepper,PI Walter,TS Mills,1,0,,,,,,"",""
+ball,1,5.1,Essex,MS Pepper,PI Walter,CJ Jordan,1,0,,,,,,"",""
+ball,1,5.2,Essex,PI Walter,MS Pepper,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.3,Essex,PI Walter,MS Pepper,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.4,Essex,PI Walter,MS Pepper,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.5,Essex,PI Walter,MS Pepper,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.6,Essex,PI Walter,MS Pepper,CJ Jordan,0,0,,,,,,"",""
+ball,1,6.1,Essex,MS Pepper,PI Walter,WAT Beer,1,0,,,,,,"",""
+ball,1,6.2,Essex,PI Walter,MS Pepper,WAT Beer,0,0,,,,,,"",""
+ball,1,6.3,Essex,PI Walter,MS Pepper,WAT Beer,0,0,,,,,,"",""
+ball,1,6.4,Essex,PI Walter,MS Pepper,WAT Beer,1,0,,,,,,"",""
+ball,1,6.5,Essex,MS Pepper,PI Walter,WAT Beer,0,2,,,,2,,"",""
+ball,1,6.6,Essex,MS Pepper,PI Walter,WAT Beer,0,0,,,,,,"",""
+ball,1,7.1,Essex,PI Walter,MS Pepper,AC Lenham,1,0,,,,,,"",""
+ball,1,7.2,Essex,MS Pepper,PI Walter,AC Lenham,1,0,,,,,,"",""
+ball,1,7.3,Essex,PI Walter,MS Pepper,AC Lenham,1,0,,,,,,"",""
+ball,1,7.4,Essex,MS Pepper,PI Walter,AC Lenham,1,0,,,,,,"",""
+ball,1,7.5,Essex,PI Walter,MS Pepper,AC Lenham,1,0,,,,,,"",""
+ball,1,7.6,Essex,MS Pepper,PI Walter,AC Lenham,6,0,,,,,,"",""
+ball,1,8.1,Essex,PI Walter,MS Pepper,RS Bopara,4,0,,,,,,"",""
+ball,1,8.2,Essex,PI Walter,MS Pepper,RS Bopara,0,0,,,,,,"",""
+ball,1,8.3,Essex,PI Walter,MS Pepper,RS Bopara,0,0,,,,,,"",""
+ball,1,8.4,Essex,PI Walter,MS Pepper,RS Bopara,1,0,,,,,,"",""
+ball,1,8.5,Essex,MS Pepper,PI Walter,RS Bopara,1,0,,,,,,"",""
+ball,1,8.6,Essex,PI Walter,MS Pepper,RS Bopara,1,0,,,,,,"",""
+ball,1,9.1,Essex,PI Walter,MS Pepper,WAT Beer,0,0,,,,,,"",""
+ball,1,9.2,Essex,PI Walter,MS Pepper,WAT Beer,0,0,,,,,,stumped,PI Walter
+ball,1,9.3,Essex,RN ten Doeschate,MS Pepper,WAT Beer,1,0,,,,,,"",""
+ball,1,9.4,Essex,MS Pepper,RN ten Doeschate,WAT Beer,1,0,,,,,,"",""
+ball,1,9.5,Essex,RN ten Doeschate,MS Pepper,WAT Beer,1,0,,,,,,"",""
+ball,1,9.6,Essex,MS Pepper,RN ten Doeschate,WAT Beer,2,0,,,,,,"",""
+ball,1,10.1,Essex,RN ten Doeschate,MS Pepper,RS Bopara,0,0,,,,,,"",""
+ball,1,10.2,Essex,RN ten Doeschate,MS Pepper,RS Bopara,1,0,,,,,,"",""
+ball,1,10.3,Essex,MS Pepper,RN ten Doeschate,RS Bopara,1,0,,,,,,"",""
+ball,1,10.4,Essex,RN ten Doeschate,MS Pepper,RS Bopara,0,0,,,,,,"",""
+ball,1,10.5,Essex,RN ten Doeschate,MS Pepper,RS Bopara,3,0,,,,,,"",""
+ball,1,10.6,Essex,MS Pepper,RN ten Doeschate,RS Bopara,0,0,,,,,,"",""
+ball,1,11.1,Essex,RN ten Doeschate,MS Pepper,WAT Beer,2,0,,,,,,"",""
+ball,1,11.2,Essex,RN ten Doeschate,MS Pepper,WAT Beer,1,0,,,,,,"",""
+ball,1,11.3,Essex,MS Pepper,RN ten Doeschate,WAT Beer,4,0,,,,,,"",""
+ball,1,11.4,Essex,MS Pepper,RN ten Doeschate,WAT Beer,2,0,,,,,,"",""
+ball,1,11.5,Essex,MS Pepper,RN ten Doeschate,WAT Beer,0,0,,,,,,"",""
+ball,1,11.6,Essex,MS Pepper,RN ten Doeschate,WAT Beer,4,0,,,,,,"",""
+ball,1,12.1,Essex,RN ten Doeschate,MS Pepper,CJ Jordan,0,0,,,,,,"",""
+ball,1,12.2,Essex,RN ten Doeschate,MS Pepper,CJ Jordan,0,0,,,,,,"",""
+ball,1,12.3,Essex,RN ten Doeschate,MS Pepper,CJ Jordan,0,0,,,,,,"",""
+ball,1,12.4,Essex,RN ten Doeschate,MS Pepper,CJ Jordan,1,0,,,,,,"",""
+ball,1,12.5,Essex,MS Pepper,RN ten Doeschate,CJ Jordan,0,0,,,,,,"",""
+ball,1,12.6,Essex,MS Pepper,RN ten Doeschate,CJ Jordan,1,0,,,,,,"",""
+ball,1,13.1,Essex,MS Pepper,RN ten Doeschate,RS Bopara,1,0,,,,,,"",""
+ball,1,13.2,Essex,RN ten Doeschate,MS Pepper,RS Bopara,1,0,,,,,,"",""
+ball,1,13.3,Essex,MS Pepper,RN ten Doeschate,RS Bopara,1,0,,,,,,"",""
+ball,1,13.4,Essex,RN ten Doeschate,MS Pepper,RS Bopara,0,0,,,,,,caught,RN ten Doeschate
+ball,1,13.5,Essex,JDS Neesham,MS Pepper,RS Bopara,0,0,,,,,,"",""
+ball,1,13.6,Essex,JDS Neesham,MS Pepper,RS Bopara,2,0,,,,,,"",""
+ball,1,14.1,Essex,MS Pepper,JDS Neesham,GHS Garton,4,0,,,,,,"",""
+ball,1,14.2,Essex,MS Pepper,JDS Neesham,GHS Garton,0,0,,,,,,caught,MS Pepper
+ball,1,14.3,Essex,SR Harmer,JDS Neesham,GHS Garton,0,0,,,,,,"",""
+ball,1,14.4,Essex,SR Harmer,JDS Neesham,GHS Garton,0,0,,,,,,"",""
+ball,1,14.5,Essex,SR Harmer,JDS Neesham,GHS Garton,0,0,,,,,,"",""
+ball,1,14.6,Essex,SR Harmer,JDS Neesham,GHS Garton,1,0,,,,,,"",""
+ball,1,15.1,Essex,SR Harmer,JDS Neesham,TS Mills,0,0,,,,,,"",""
+ball,1,15.2,Essex,SR Harmer,JDS Neesham,TS Mills,1,0,,,,,,"",""
+ball,1,15.3,Essex,JDS Neesham,SR Harmer,TS Mills,0,0,,,,,,"",""
+ball,1,15.4,Essex,JDS Neesham,SR Harmer,TS Mills,0,0,,,,,,"",""
+ball,1,15.5,Essex,JDS Neesham,SR Harmer,TS Mills,4,0,,,,,,"",""
+ball,1,15.6,Essex,JDS Neesham,SR Harmer,TS Mills,1,0,,,,,,"",""
+ball,1,16.1,Essex,JDS Neesham,SR Harmer,CJ Jordan,0,1,1,,,,,"",""
+ball,1,16.2,Essex,JDS Neesham,SR Harmer,CJ Jordan,1,0,,,,,,"",""
+ball,1,16.3,Essex,SR Harmer,JDS Neesham,CJ Jordan,0,0,,,,,,"",""
+ball,1,16.4,Essex,SR Harmer,JDS Neesham,CJ Jordan,2,0,,,,,,"",""
+ball,1,16.5,Essex,SR Harmer,JDS Neesham,CJ Jordan,0,0,,,,,,"",""
+ball,1,16.6,Essex,SR Harmer,JDS Neesham,CJ Jordan,0,0,,,,,,"",""
+ball,1,16.7,Essex,SR Harmer,JDS Neesham,CJ Jordan,1,0,,,,,,"",""
+ball,1,17.1,Essex,SR Harmer,JDS Neesham,GHS Garton,0,0,,,,,,caught,SR Harmer
+ball,1,17.2,Essex,JDS Neesham,JH Plom,GHS Garton,1,0,,,,,,"",""
+ball,1,17.3,Essex,JH Plom,JDS Neesham,GHS Garton,0,0,,,,,,"",""
+ball,1,17.4,Essex,JH Plom,JDS Neesham,GHS Garton,0,0,,,,,,"",""
+ball,1,17.5,Essex,JH Plom,JDS Neesham,GHS Garton,0,0,,,,,,"",""
+ball,1,17.6,Essex,JH Plom,JDS Neesham,GHS Garton,1,0,,,,,,"",""
+ball,1,18.1,Essex,JH Plom,JDS Neesham,CJ Jordan,0,0,,,,,,"",""
+ball,1,18.2,Essex,JH Plom,JDS Neesham,CJ Jordan,0,0,,,,,,caught,JH Plom
+ball,1,18.3,Essex,JDS Neesham,ASS Nijjar,CJ Jordan,4,0,,,,,,"",""
+ball,1,18.4,Essex,JDS Neesham,ASS Nijjar,CJ Jordan,4,0,,,,,,"",""
+ball,1,18.5,Essex,JDS Neesham,ASS Nijjar,CJ Jordan,1,0,,,,,,"",""
+ball,1,18.6,Essex,ASS Nijjar,JDS Neesham,CJ Jordan,4,0,,,,,,"",""
+ball,1,19.1,Essex,JDS Neesham,ASS Nijjar,TS Mills,1,0,,,,,,"",""
+ball,1,19.2,Essex,ASS Nijjar,JDS Neesham,TS Mills,1,0,,,,,,"",""
+ball,1,19.3,Essex,JDS Neesham,ASS Nijjar,TS Mills,0,0,,,,,,bowled,JDS Neesham
+ball,1,19.4,Essex,SJ Cook,ASS Nijjar,TS Mills,0,1,,,1,,,"",""
+ball,1,19.5,Essex,ASS Nijjar,SJ Cook,TS Mills,1,0,,,,,,"",""
+ball,1,19.6,Essex,SJ Cook,ASS Nijjar,TS Mills,0,1,,,1,,,"",""
+ball,2,0.1,Sussex,PD Salt,LJ Wright,JA Porter,0,0,,,,,,"",""
+ball,2,0.2,Sussex,PD Salt,LJ Wright,JA Porter,1,0,,,,,,"",""
+ball,2,0.3,Sussex,LJ Wright,PD Salt,JA Porter,0,0,,,,,,"",""
+ball,2,0.4,Sussex,LJ Wright,PD Salt,JA Porter,4,0,,,,,,"",""
+ball,2,0.5,Sussex,LJ Wright,PD Salt,JA Porter,4,0,,,,,,"",""
+ball,2,0.6,Sussex,LJ Wright,PD Salt,JA Porter,0,0,,,,,,"",""
+ball,2,1.1,Sussex,PD Salt,LJ Wright,SJ Cook,2,0,,,,,,"",""
+ball,2,1.2,Sussex,PD Salt,LJ Wright,SJ Cook,0,0,,,,,,"",""
+ball,2,1.3,Sussex,PD Salt,LJ Wright,SJ Cook,1,0,,,,,,"",""
+ball,2,1.4,Sussex,LJ Wright,PD Salt,SJ Cook,1,0,,,,,,"",""
+ball,2,1.5,Sussex,PD Salt,LJ Wright,SJ Cook,0,0,,,,,,"",""
+ball,2,1.6,Sussex,PD Salt,LJ Wright,SJ Cook,0,0,,,,,,"",""
+ball,2,2.1,Sussex,LJ Wright,PD Salt,JH Plom,0,0,,,,,,"",""
+ball,2,2.2,Sussex,LJ Wright,PD Salt,JH Plom,1,0,,,,,,"",""
+ball,2,2.3,Sussex,PD Salt,LJ Wright,JH Plom,0,1,,,,1,,"",""
+ball,2,2.4,Sussex,LJ Wright,PD Salt,JH Plom,0,0,,,,,,"",""
+ball,2,2.5,Sussex,LJ Wright,PD Salt,JH Plom,1,0,,,,,,"",""
+ball,2,2.6,Sussex,PD Salt,LJ Wright,JH Plom,0,0,,,,,,"",""
+ball,2,3.1,Sussex,LJ Wright,PD Salt,SJ Cook,4,0,,,,,,"",""
+ball,2,3.2,Sussex,LJ Wright,PD Salt,SJ Cook,1,0,,,,,,"",""
+ball,2,3.3,Sussex,PD Salt,LJ Wright,SJ Cook,1,2,,2,,,,"",""
+ball,2,3.4,Sussex,LJ Wright,PD Salt,SJ Cook,0,0,,,,,,"",""
+ball,2,3.5,Sussex,LJ Wright,PD Salt,SJ Cook,4,0,,,,,,"",""
+ball,2,3.6,Sussex,LJ Wright,PD Salt,SJ Cook,1,0,,,,,,"",""
+ball,2,3.7,Sussex,PD Salt,LJ Wright,SJ Cook,4,0,,,,,,"",""
+ball,2,4.1,Sussex,LJ Wright,PD Salt,JH Plom,0,0,,,,,,"",""
+ball,2,4.2,Sussex,LJ Wright,PD Salt,JH Plom,2,0,,,,,,"",""
+ball,2,4.3,Sussex,LJ Wright,PD Salt,JH Plom,6,0,,,,,,"",""
+ball,2,4.4,Sussex,LJ Wright,PD Salt,JH Plom,4,0,,,,,,"",""
+ball,2,4.5,Sussex,LJ Wright,PD Salt,JH Plom,1,0,,,,,,"",""
+ball,2,4.6,Sussex,PD Salt,LJ Wright,JH Plom,4,0,,,,,,"",""
+ball,2,5.1,Sussex,LJ Wright,PD Salt,ASS Nijjar,4,0,,,,,,"",""
+ball,2,5.2,Sussex,LJ Wright,PD Salt,ASS Nijjar,0,0,,,,,,"",""
+ball,2,5.3,Sussex,LJ Wright,PD Salt,ASS Nijjar,0,0,,,,,,run out,PD Salt
+ball,2,5.4,Sussex,TM Head,LJ Wright,ASS Nijjar,0,0,,,,,,"",""
+ball,2,5.5,Sussex,TM Head,LJ Wright,ASS Nijjar,4,0,,,,,,"",""
+ball,2,5.6,Sussex,TM Head,LJ Wright,ASS Nijjar,0,0,,,,,,"",""
+ball,2,6.1,Sussex,LJ Wright,TM Head,SR Harmer,2,0,,,,,,"",""
+ball,2,6.2,Sussex,LJ Wright,TM Head,SR Harmer,0,0,,,,,,"",""
+ball,2,6.3,Sussex,LJ Wright,TM Head,SR Harmer,1,0,,,,,,"",""
+ball,2,6.4,Sussex,TM Head,LJ Wright,SR Harmer,1,0,,,,,,"",""
+ball,2,6.5,Sussex,LJ Wright,TM Head,SR Harmer,1,0,,,,,,"",""
+ball,2,6.6,Sussex,TM Head,LJ Wright,SR Harmer,1,0,,,,,,"",""
+ball,2,7.1,Sussex,TM Head,LJ Wright,JDS Neesham,0,0,,,,,,"",""
+ball,2,7.2,Sussex,TM Head,LJ Wright,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.3,Sussex,LJ Wright,TM Head,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.4,Sussex,TM Head,LJ Wright,JDS Neesham,0,0,,,,,,"",""
+ball,2,7.5,Sussex,TM Head,LJ Wright,JDS Neesham,0,0,,,,,,"",""
+ball,2,7.6,Sussex,TM Head,LJ Wright,JDS Neesham,1,0,,,,,,"",""
+ball,2,8.1,Sussex,TM Head,LJ Wright,SR Harmer,1,0,,,,,,"",""
+ball,2,8.2,Sussex,LJ Wright,TM Head,SR Harmer,1,0,,,,,,"",""
+ball,2,8.3,Sussex,TM Head,LJ Wright,SR Harmer,1,0,,,,,,"",""
+ball,2,8.4,Sussex,LJ Wright,TM Head,SR Harmer,0,0,,,,,,"",""
+ball,2,8.5,Sussex,LJ Wright,TM Head,SR Harmer,2,0,,,,,,"",""
+ball,2,8.6,Sussex,LJ Wright,TM Head,SR Harmer,0,0,,,,,,"",""
+ball,2,9.1,Sussex,TM Head,LJ Wright,JDS Neesham,1,0,,,,,,"",""
+ball,2,9.2,Sussex,LJ Wright,TM Head,JDS Neesham,1,0,,,,,,"",""
+ball,2,9.3,Sussex,TM Head,LJ Wright,JDS Neesham,4,0,,,,,,"",""
+ball,2,9.4,Sussex,TM Head,LJ Wright,JDS Neesham,0,0,,,,,,"",""
+ball,2,9.5,Sussex,TM Head,LJ Wright,JDS Neesham,4,0,,,,,,"",""
+ball,2,9.6,Sussex,TM Head,LJ Wright,JDS Neesham,0,0,,,,,,"",""
+ball,2,10.1,Sussex,LJ Wright,TM Head,SR Harmer,4,0,,,,,,"",""
+ball,2,10.2,Sussex,LJ Wright,TM Head,SR Harmer,1,0,,,,,,"",""
+ball,2,10.3,Sussex,TM Head,LJ Wright,SR Harmer,6,0,,,,,,"",""
+ball,2,10.4,Sussex,TM Head,LJ Wright,SR Harmer,1,0,,,,,,"",""
+ball,2,10.5,Sussex,LJ Wright,TM Head,SR Harmer,6,0,,,,,,"",""
+ball,2,10.6,Sussex,LJ Wright,TM Head,SR Harmer,4,0,,,,,,"",""
+ball,2,11.1,Sussex,TM Head,LJ Wright,ASS Nijjar,0,0,,,,,,"",""
+ball,2,11.2,Sussex,TM Head,LJ Wright,ASS Nijjar,1,0,,,,,,"",""
+ball,2,11.3,Sussex,LJ Wright,TM Head,ASS Nijjar,2,0,,,,,,"",""
+ball,2,11.4,Sussex,LJ Wright,TM Head,ASS Nijjar,6,0,,,,,,"",""
+ball,2,11.5,Sussex,LJ Wright,TM Head,ASS Nijjar,1,0,,,,,,"",""
+ball,2,11.6,Sussex,TM Head,LJ Wright,ASS Nijjar,0,0,,,,,,caught,TM Head
+ball,2,12.1,Sussex,LJ Wright,RS Bopara,JA Porter,1,0,,,,,,"",""
+ball,2,12.2,Sussex,RS Bopara,LJ Wright,JA Porter,2,0,,,,,,"",""
+ball,2,12.3,Sussex,RS Bopara,LJ Wright,JA Porter,1,0,,,,,,"",""
+ball,2,12.4,Sussex,LJ Wright,RS Bopara,JA Porter,1,0,,,,,,"",""
+ball,2,12.5,Sussex,RS Bopara,LJ Wright,JA Porter,1,0,,,,,,"",""
+ball,2,12.6,Sussex,LJ Wright,RS Bopara,JA Porter,2,0,,,,,,"",""
+ball,2,13.1,Sussex,RS Bopara,LJ Wright,ASS Nijjar,1,0,,,,,,"",""
+ball,2,13.2,Sussex,LJ Wright,RS Bopara,ASS Nijjar,0,0,,,,,,"",""
+ball,2,13.3,Sussex,LJ Wright,RS Bopara,ASS Nijjar,0,0,,,,,,caught,LJ Wright
+ball,2,13.4,Sussex,RS Bopara,DMW Rawlins,ASS Nijjar,1,0,,,,,,"",""
+ball,2,13.5,Sussex,DMW Rawlins,RS Bopara,ASS Nijjar,0,0,,,,,,"",""
+ball,2,13.6,Sussex,DMW Rawlins,RS Bopara,ASS Nijjar,6,0,,,,,,"",""

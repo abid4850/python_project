@@ -1,0 +1,279 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Perth Scorchers
+info,gender,female
+info,season,2022/23
+info,date,2022/10/17
+info,event,Women's Big Bash League
+info,match_number,8
+info,venue,"Blacktown International Sportspark, Sydney"
+info,city,Sydney
+info,toss_winner,Perth Scorchers
+info,toss_decision,field
+info,player_of_match,ML Green
+info,umpire,AR Hamilton
+info,umpire,Roberto Howard
+info,match_referee,SR Bernard
+info,winner,Perth Scorchers
+info,winner_wickets,8
+info,player,Hobart Hurricanes,L Lee
+info,player,Hobart Hurricanes,EJ Villani
+info,player,Hobart Hurricanes,R Trenaman
+info,player,Hobart Hurricanes,M du Preez
+info,player,Hobart Hurricanes,H Graham
+info,player,Hobart Hurricanes,R Johnston
+info,player,Hobart Hurricanes,NJ Carey
+info,player,Hobart Hurricanes,NE Stalenberg
+info,player,Hobart Hurricanes,M Strano
+info,player,Hobart Hurricanes,HNK Jensen
+info,player,Hobart Hurricanes,ML Gibson
+info,player,Perth Scorchers,SFM Devine
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,ML Green
+info,player,Perth Scorchers,M Kapp
+info,player,Perth Scorchers,M Carmichael
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,P Cleary
+info,player,Perth Scorchers,L Mills
+info,player,Perth Scorchers,T Peschel
+info,registry,people,A King,83558266
+info,registry,people,AL Edgar,795ff893
+info,registry,people,AR Hamilton,95d26c59
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,C Piparo,276f3dde
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,H Graham,99812d10
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,L Lee,7b01ce83
+info,registry,people,L Mills,c35a0b8a
+info,registry,people,M Carmichael,4b546c04
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Strano,f57d5dbb
+info,registry,people,M du Preez,e219f17a
+info,registry,people,ML Gibson,27fa592f
+info,registry,people,ML Green,865eae1f
+info,registry,people,NE Stalenberg,609c519e
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,P Cleary,507acf2e
+info,registry,people,R Johnston,3cd107a7
+info,registry,people,R Trenaman,877dd709
+info,registry,people,Roberto Howard,eec90c4b
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SR Bernard,800187dc
+info,registry,people,T Peschel,923402d8
+ball,1,0.1,Hobart Hurricanes,L Lee,EJ Villani,A King,2,0,,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,L Lee,EJ Villani,A King,1,0,,,,,,"",""
+ball,1,0.3,Hobart Hurricanes,EJ Villani,L Lee,A King,0,0,,,,,,"",""
+ball,1,0.4,Hobart Hurricanes,EJ Villani,L Lee,A King,0,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,EJ Villani,L Lee,A King,0,0,,,,,,"",""
+ball,1,0.6,Hobart Hurricanes,EJ Villani,L Lee,A King,0,0,,,,,,lbw,EJ Villani
+ball,1,1.1,Hobart Hurricanes,L Lee,R Trenaman,M Kapp,0,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,L Lee,R Trenaman,M Kapp,0,0,,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,L Lee,R Trenaman,M Kapp,0,0,,,,,,"",""
+ball,1,1.4,Hobart Hurricanes,L Lee,R Trenaman,M Kapp,0,0,,,,,,"",""
+ball,1,1.5,Hobart Hurricanes,L Lee,R Trenaman,M Kapp,1,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,R Trenaman,L Lee,M Kapp,0,0,,,,,,"",""
+ball,1,2.1,Hobart Hurricanes,L Lee,R Trenaman,SFM Devine,0,1,1,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,L Lee,R Trenaman,SFM Devine,0,0,,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,L Lee,R Trenaman,SFM Devine,0,5,5,,,,,"",""
+ball,1,2.4,Hobart Hurricanes,L Lee,R Trenaman,SFM Devine,0,0,,,,,,"",""
+ball,1,2.5,Hobart Hurricanes,L Lee,R Trenaman,SFM Devine,0,1,1,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,L Lee,R Trenaman,SFM Devine,0,0,,,,,,"",""
+ball,1,2.7,Hobart Hurricanes,L Lee,R Trenaman,SFM Devine,0,0,,,,,,"",""
+ball,1,2.8,Hobart Hurricanes,L Lee,R Trenaman,SFM Devine,0,0,,,,,,"",""
+ball,1,2.9,Hobart Hurricanes,L Lee,R Trenaman,SFM Devine,0,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,R Trenaman,L Lee,M Kapp,2,0,,,,,,"",""
+ball,1,3.2,Hobart Hurricanes,R Trenaman,L Lee,M Kapp,0,0,,,,,,"",""
+ball,1,3.3,Hobart Hurricanes,R Trenaman,L Lee,M Kapp,0,0,,,,,,lbw,R Trenaman
+ball,1,3.4,Hobart Hurricanes,M du Preez,L Lee,M Kapp,0,0,,,,,,"",""
+ball,1,3.5,Hobart Hurricanes,M du Preez,L Lee,M Kapp,0,0,,,,,,"",""
+ball,1,3.6,Hobart Hurricanes,M du Preez,L Lee,M Kapp,0,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,L Lee,M du Preez,T Peschel,0,0,,,,,,"",""
+ball,1,4.2,Hobart Hurricanes,L Lee,M du Preez,T Peschel,0,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,L Lee,M du Preez,T Peschel,1,0,,,,,,"",""
+ball,1,4.4,Hobart Hurricanes,M du Preez,L Lee,T Peschel,1,0,,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,L Lee,M du Preez,T Peschel,1,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,M du Preez,L Lee,T Peschel,0,0,,,,,,"",""
+ball,1,5.1,Hobart Hurricanes,L Lee,M du Preez,P Cleary,1,0,,,,,,"",""
+ball,1,5.2,Hobart Hurricanes,M du Preez,L Lee,P Cleary,4,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,M du Preez,L Lee,P Cleary,0,0,,,,,,"",""
+ball,1,5.4,Hobart Hurricanes,M du Preez,L Lee,P Cleary,0,0,,,,,,"",""
+ball,1,5.5,Hobart Hurricanes,M du Preez,L Lee,P Cleary,4,0,,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,M du Preez,L Lee,P Cleary,0,0,,,,,,"",""
+ball,1,6.1,Hobart Hurricanes,L Lee,M du Preez,T Peschel,0,1,1,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,L Lee,M du Preez,T Peschel,2,0,,,,,,"",""
+ball,1,6.3,Hobart Hurricanes,L Lee,M du Preez,T Peschel,0,0,,,,,,caught,L Lee
+ball,1,6.4,Hobart Hurricanes,H Graham,M du Preez,T Peschel,0,0,,,,,,"",""
+ball,1,6.5,Hobart Hurricanes,H Graham,M du Preez,T Peschel,0,1,1,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,H Graham,M du Preez,T Peschel,0,0,,,,,,"",""
+ball,1,6.7,Hobart Hurricanes,H Graham,M du Preez,T Peschel,0,0,,,,,,"",""
+ball,1,6.8,Hobart Hurricanes,H Graham,M du Preez,T Peschel,0,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,M du Preez,H Graham,A King,0,0,,,,,,"",""
+ball,1,7.2,Hobart Hurricanes,M du Preez,H Graham,A King,1,0,,,,,,"",""
+ball,1,7.3,Hobart Hurricanes,H Graham,M du Preez,A King,0,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,H Graham,M du Preez,A King,2,0,,,,,,"",""
+ball,1,7.5,Hobart Hurricanes,H Graham,M du Preez,A King,0,1,1,,,,,"",""
+ball,1,7.6,Hobart Hurricanes,H Graham,M du Preez,A King,0,0,,,,,,"",""
+ball,1,7.7,Hobart Hurricanes,H Graham,M du Preez,A King,1,0,,,,,,"",""
+ball,1,8.1,Hobart Hurricanes,H Graham,M du Preez,P Cleary,0,0,,,,,,"",""
+ball,1,8.2,Hobart Hurricanes,H Graham,M du Preez,P Cleary,6,0,,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,H Graham,M du Preez,P Cleary,0,0,,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,H Graham,M du Preez,P Cleary,4,0,,,,,,"",""
+ball,1,8.5,Hobart Hurricanes,H Graham,M du Preez,P Cleary,0,0,,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,H Graham,M du Preez,P Cleary,2,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,M du Preez,H Graham,A King,1,0,,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,H Graham,M du Preez,A King,4,0,,,,,,"",""
+ball,1,9.3,Hobart Hurricanes,H Graham,M du Preez,A King,0,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,H Graham,M du Preez,A King,1,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,M du Preez,H Graham,A King,0,0,,,,,,bowled,M du Preez
+ball,1,9.6,Hobart Hurricanes,R Johnston,H Graham,A King,0,0,,,,,,"",""
+ball,1,10.1,Hobart Hurricanes,H Graham,R Johnston,L Mills,0,0,,,,,,"",""
+ball,1,10.2,Hobart Hurricanes,H Graham,R Johnston,L Mills,4,0,,,,,,"",""
+ball,1,10.3,Hobart Hurricanes,H Graham,R Johnston,L Mills,0,0,,,,,,"",""
+ball,1,10.4,Hobart Hurricanes,H Graham,R Johnston,L Mills,6,0,,,,,,"",""
+ball,1,10.5,Hobart Hurricanes,H Graham,R Johnston,L Mills,0,0,,,,,,"",""
+ball,1,10.6,Hobart Hurricanes,H Graham,R Johnston,L Mills,2,0,,,,,,"",""
+ball,1,11.1,Hobart Hurricanes,R Johnston,H Graham,M Kapp,0,0,,,,,,lbw,R Johnston
+ball,1,11.2,Hobart Hurricanes,NJ Carey,H Graham,M Kapp,0,0,,,,,,"",""
+ball,1,11.3,Hobart Hurricanes,NJ Carey,H Graham,M Kapp,4,0,,,,,,"",""
+ball,1,11.4,Hobart Hurricanes,NJ Carey,H Graham,M Kapp,0,0,,,,,,"",""
+ball,1,11.5,Hobart Hurricanes,NJ Carey,H Graham,M Kapp,1,0,,,,,,"",""
+ball,1,11.6,Hobart Hurricanes,H Graham,NJ Carey,M Kapp,1,0,,,,,,"",""
+ball,1,12.1,Hobart Hurricanes,H Graham,NJ Carey,L Mills,0,0,,,,,,"",""
+ball,1,12.2,Hobart Hurricanes,H Graham,NJ Carey,L Mills,1,0,,,,,,"",""
+ball,1,12.3,Hobart Hurricanes,NJ Carey,H Graham,L Mills,1,0,,,,,,"",""
+ball,1,12.4,Hobart Hurricanes,H Graham,NJ Carey,L Mills,1,0,,,,,,"",""
+ball,1,12.5,Hobart Hurricanes,NJ Carey,H Graham,L Mills,0,0,,,,,,"",""
+ball,1,12.6,Hobart Hurricanes,NJ Carey,H Graham,L Mills,1,0,,,,,,"",""
+ball,1,13.1,Hobart Hurricanes,NJ Carey,H Graham,SFM Devine,1,0,,,,,,"",""
+ball,1,13.2,Hobart Hurricanes,H Graham,NJ Carey,SFM Devine,0,0,,,,,,bowled,H Graham
+ball,1,13.3,Hobart Hurricanes,NE Stalenberg,NJ Carey,SFM Devine,1,0,,,,,,"",""
+ball,1,13.4,Hobart Hurricanes,NJ Carey,NE Stalenberg,SFM Devine,2,0,,,,,,"",""
+ball,1,13.5,Hobart Hurricanes,NJ Carey,NE Stalenberg,SFM Devine,1,0,,,,,,"",""
+ball,1,13.6,Hobart Hurricanes,NE Stalenberg,NJ Carey,SFM Devine,0,0,,,,,,"",""
+ball,1,14.1,Hobart Hurricanes,NJ Carey,NE Stalenberg,T Peschel,0,0,,,,,,"",""
+ball,1,14.2,Hobart Hurricanes,NJ Carey,NE Stalenberg,T Peschel,1,0,,,,,,"",""
+ball,1,14.3,Hobart Hurricanes,NE Stalenberg,NJ Carey,T Peschel,1,0,,,,,,"",""
+ball,1,14.4,Hobart Hurricanes,NJ Carey,NE Stalenberg,T Peschel,0,0,,,,,,"",""
+ball,1,14.5,Hobart Hurricanes,NJ Carey,NE Stalenberg,T Peschel,0,0,,,,,,bowled,NJ Carey
+ball,1,14.6,Hobart Hurricanes,M Strano,NE Stalenberg,T Peschel,1,0,,,,,,"",""
+ball,1,15.1,Hobart Hurricanes,M Strano,NE Stalenberg,A King,0,0,,,,,,"",""
+ball,1,15.2,Hobart Hurricanes,M Strano,NE Stalenberg,A King,1,0,,,,,,"",""
+ball,1,15.3,Hobart Hurricanes,NE Stalenberg,M Strano,A King,0,0,,,,,,caught,NE Stalenberg
+ball,1,15.4,Hobart Hurricanes,HNK Jensen,M Strano,A King,0,0,,,,,,"",""
+ball,1,15.5,Hobart Hurricanes,HNK Jensen,M Strano,A King,0,0,,,,,,"",""
+ball,1,15.6,Hobart Hurricanes,HNK Jensen,M Strano,A King,0,0,,,,,,"",""
+ball,1,16.1,Hobart Hurricanes,M Strano,HNK Jensen,SFM Devine,1,0,,,,,,"",""
+ball,1,16.2,Hobart Hurricanes,HNK Jensen,M Strano,SFM Devine,1,0,,,,,,"",""
+ball,1,16.3,Hobart Hurricanes,M Strano,HNK Jensen,SFM Devine,1,0,,,,,,"",""
+ball,1,16.4,Hobart Hurricanes,HNK Jensen,M Strano,SFM Devine,2,0,,,,,,"",""
+ball,1,16.5,Hobart Hurricanes,HNK Jensen,M Strano,SFM Devine,1,0,,,,,,"",""
+ball,1,16.6,Hobart Hurricanes,M Strano,HNK Jensen,SFM Devine,1,0,,,,,,"",""
+ball,1,17.1,Hobart Hurricanes,M Strano,HNK Jensen,M Kapp,1,0,,,,,,"",""
+ball,1,17.2,Hobart Hurricanes,HNK Jensen,M Strano,M Kapp,1,0,,,,,,"",""
+ball,1,17.3,Hobart Hurricanes,M Strano,HNK Jensen,M Kapp,0,0,,,,,,"",""
+ball,1,17.4,Hobart Hurricanes,M Strano,HNK Jensen,M Kapp,0,0,,,,,,"",""
+ball,1,17.5,Hobart Hurricanes,M Strano,HNK Jensen,M Kapp,2,0,,,,,,"",""
+ball,1,17.6,Hobart Hurricanes,M Strano,HNK Jensen,M Kapp,0,1,,,,1,,"",""
+ball,1,18.1,Hobart Hurricanes,M Strano,HNK Jensen,T Peschel,1,0,,,,,,"",""
+ball,1,18.2,Hobart Hurricanes,HNK Jensen,M Strano,T Peschel,0,0,,,,,,"",""
+ball,1,18.3,Hobart Hurricanes,HNK Jensen,M Strano,T Peschel,1,0,,,,,,"",""
+ball,1,18.4,Hobart Hurricanes,M Strano,HNK Jensen,T Peschel,0,0,,,,,,caught,M Strano
+ball,1,18.5,Hobart Hurricanes,ML Gibson,HNK Jensen,T Peschel,0,0,,,,,,"",""
+ball,1,18.6,Hobart Hurricanes,ML Gibson,HNK Jensen,T Peschel,1,0,,,,,,"",""
+ball,1,19.1,Hobart Hurricanes,ML Gibson,HNK Jensen,SFM Devine,0,0,,,,,,"",""
+ball,1,19.2,Hobart Hurricanes,ML Gibson,HNK Jensen,SFM Devine,4,0,,,,,,"",""
+ball,1,19.3,Hobart Hurricanes,ML Gibson,HNK Jensen,SFM Devine,1,0,,,,,,"",""
+ball,1,19.4,Hobart Hurricanes,HNK Jensen,ML Gibson,SFM Devine,1,0,,,,,,"",""
+ball,1,19.5,Hobart Hurricanes,ML Gibson,HNK Jensen,SFM Devine,3,0,,,,,,"",""
+ball,1,19.6,Hobart Hurricanes,HNK Jensen,ML Gibson,SFM Devine,2,0,,,,,,"",""
+ball,2,0.1,Perth Scorchers,SFM Devine,BL Mooney,HNK Jensen,4,0,,,,,,"",""
+ball,2,0.2,Perth Scorchers,SFM Devine,BL Mooney,HNK Jensen,0,0,,,,,,"",""
+ball,2,0.3,Perth Scorchers,SFM Devine,BL Mooney,HNK Jensen,0,0,,,,,,"",""
+ball,2,0.4,Perth Scorchers,SFM Devine,BL Mooney,HNK Jensen,0,0,,,,,,"",""
+ball,2,0.5,Perth Scorchers,SFM Devine,BL Mooney,HNK Jensen,0,0,,,,,,"",""
+ball,2,0.6,Perth Scorchers,SFM Devine,BL Mooney,HNK Jensen,0,1,,,,1,,"",""
+ball,2,1.1,Perth Scorchers,SFM Devine,BL Mooney,M Strano,0,0,,,,,,bowled,SFM Devine
+ball,2,1.2,Perth Scorchers,C Piparo,BL Mooney,M Strano,0,0,,,,,,"",""
+ball,2,1.3,Perth Scorchers,C Piparo,BL Mooney,M Strano,1,0,,,,,,"",""
+ball,2,1.4,Perth Scorchers,BL Mooney,C Piparo,M Strano,1,0,,,,,,"",""
+ball,2,1.5,Perth Scorchers,C Piparo,BL Mooney,M Strano,0,0,,,,,,"",""
+ball,2,1.6,Perth Scorchers,C Piparo,BL Mooney,M Strano,0,0,,,,,,"",""
+ball,2,2.1,Perth Scorchers,BL Mooney,C Piparo,HNK Jensen,0,0,,,,,,"",""
+ball,2,2.2,Perth Scorchers,BL Mooney,C Piparo,HNK Jensen,0,0,,,,,,"",""
+ball,2,2.3,Perth Scorchers,BL Mooney,C Piparo,HNK Jensen,1,0,,,,,,"",""
+ball,2,2.4,Perth Scorchers,C Piparo,BL Mooney,HNK Jensen,2,0,,,,,,"",""
+ball,2,2.5,Perth Scorchers,C Piparo,BL Mooney,HNK Jensen,0,1,1,,,,,"",""
+ball,2,2.6,Perth Scorchers,C Piparo,BL Mooney,HNK Jensen,0,0,,,,,,"",""
+ball,2,2.7,Perth Scorchers,C Piparo,BL Mooney,HNK Jensen,0,0,,,,,,"",""
+ball,2,3.1,Perth Scorchers,BL Mooney,C Piparo,M Strano,0,0,,,,,,"",""
+ball,2,3.2,Perth Scorchers,BL Mooney,C Piparo,M Strano,4,0,,,,,,"",""
+ball,2,3.3,Perth Scorchers,BL Mooney,C Piparo,M Strano,1,0,,,,,,"",""
+ball,2,3.4,Perth Scorchers,C Piparo,BL Mooney,M Strano,4,0,,,,,,"",""
+ball,2,3.5,Perth Scorchers,C Piparo,BL Mooney,M Strano,0,0,,,,,,"",""
+ball,2,3.6,Perth Scorchers,C Piparo,BL Mooney,M Strano,0,0,,,,,,"",""
+ball,2,4.1,Perth Scorchers,BL Mooney,C Piparo,NJ Carey,1,0,,,,,,"",""
+ball,2,4.2,Perth Scorchers,C Piparo,BL Mooney,NJ Carey,1,0,,,,,,"",""
+ball,2,4.3,Perth Scorchers,BL Mooney,C Piparo,NJ Carey,0,0,,,,,,"",""
+ball,2,4.4,Perth Scorchers,BL Mooney,C Piparo,NJ Carey,1,0,,,,,,"",""
+ball,2,4.5,Perth Scorchers,C Piparo,BL Mooney,NJ Carey,0,0,,,,,,"",""
+ball,2,4.6,Perth Scorchers,C Piparo,BL Mooney,NJ Carey,4,0,,,,,,"",""
+ball,2,5.1,Perth Scorchers,BL Mooney,C Piparo,R Johnston,0,0,,,,,,"",""
+ball,2,5.2,Perth Scorchers,BL Mooney,C Piparo,R Johnston,1,0,,,,,,"",""
+ball,2,5.3,Perth Scorchers,C Piparo,BL Mooney,R Johnston,1,0,,,,,,"",""
+ball,2,5.4,Perth Scorchers,BL Mooney,C Piparo,R Johnston,0,0,,,,,,"",""
+ball,2,5.5,Perth Scorchers,BL Mooney,C Piparo,R Johnston,1,0,,,,,,"",""
+ball,2,5.6,Perth Scorchers,C Piparo,BL Mooney,R Johnston,0,0,,,,,,"",""
+ball,2,6.1,Perth Scorchers,BL Mooney,C Piparo,ML Gibson,4,0,,,,,,"",""
+ball,2,6.2,Perth Scorchers,BL Mooney,C Piparo,ML Gibson,1,0,,,,,,"",""
+ball,2,6.3,Perth Scorchers,C Piparo,BL Mooney,ML Gibson,4,0,,,,,,"",""
+ball,2,6.4,Perth Scorchers,C Piparo,BL Mooney,ML Gibson,1,0,,,,,,"",""
+ball,2,6.5,Perth Scorchers,BL Mooney,C Piparo,ML Gibson,0,0,,,,,,"",""
+ball,2,6.6,Perth Scorchers,BL Mooney,C Piparo,ML Gibson,2,0,,,,,,"",""
+ball,2,7.1,Perth Scorchers,C Piparo,BL Mooney,H Graham,0,0,,,,,,"",""
+ball,2,7.2,Perth Scorchers,C Piparo,BL Mooney,H Graham,2,0,,,,,,"",""
+ball,2,7.3,Perth Scorchers,C Piparo,BL Mooney,H Graham,1,0,,,,,,"",""
+ball,2,7.4,Perth Scorchers,BL Mooney,C Piparo,H Graham,0,2,,,,2,,"",""
+ball,2,7.5,Perth Scorchers,BL Mooney,C Piparo,H Graham,1,0,,,,,,"",""
+ball,2,7.6,Perth Scorchers,C Piparo,BL Mooney,H Graham,1,0,,,,,,"",""
+ball,2,8.1,Perth Scorchers,C Piparo,BL Mooney,R Johnston,1,0,,,,,,"",""
+ball,2,8.2,Perth Scorchers,BL Mooney,C Piparo,R Johnston,1,0,,,,,,"",""
+ball,2,8.3,Perth Scorchers,C Piparo,BL Mooney,R Johnston,4,0,,,,,,"",""
+ball,2,8.4,Perth Scorchers,C Piparo,BL Mooney,R Johnston,4,0,,,,,,"",""
+ball,2,8.5,Perth Scorchers,C Piparo,BL Mooney,R Johnston,0,0,,,,,,"",""
+ball,2,8.6,Perth Scorchers,C Piparo,BL Mooney,R Johnston,0,0,,,,,,caught,C Piparo
+ball,2,9.1,Perth Scorchers,BL Mooney,ML Green,H Graham,1,0,,,,,,"",""
+ball,2,9.2,Perth Scorchers,ML Green,BL Mooney,H Graham,1,0,,,,,,"",""
+ball,2,9.3,Perth Scorchers,BL Mooney,ML Green,H Graham,2,0,,,,,,"",""
+ball,2,9.4,Perth Scorchers,BL Mooney,ML Green,H Graham,4,0,,,,,,"",""
+ball,2,9.5,Perth Scorchers,BL Mooney,ML Green,H Graham,0,0,,,,,,"",""
+ball,2,9.6,Perth Scorchers,BL Mooney,ML Green,H Graham,0,0,,,,,,"",""
+ball,2,10.1,Perth Scorchers,ML Green,BL Mooney,HNK Jensen,4,0,,,,,,"",""
+ball,2,10.2,Perth Scorchers,ML Green,BL Mooney,HNK Jensen,0,0,,,,,,"",""
+ball,2,10.3,Perth Scorchers,ML Green,BL Mooney,HNK Jensen,1,0,,,,,,"",""
+ball,2,10.4,Perth Scorchers,BL Mooney,ML Green,HNK Jensen,1,0,,,,,,"",""
+ball,2,10.5,Perth Scorchers,ML Green,BL Mooney,HNK Jensen,1,0,,,,,,"",""
+ball,2,10.6,Perth Scorchers,BL Mooney,ML Green,HNK Jensen,1,0,,,,,,"",""
+ball,2,11.1,Perth Scorchers,BL Mooney,ML Green,NJ Carey,0,0,,,,,,"",""
+ball,2,11.2,Perth Scorchers,BL Mooney,ML Green,NJ Carey,0,0,,,,,,"",""
+ball,2,11.3,Perth Scorchers,BL Mooney,ML Green,NJ Carey,0,0,,,,,,"",""
+ball,2,11.4,Perth Scorchers,BL Mooney,ML Green,NJ Carey,1,0,,,,,,"",""
+ball,2,11.5,Perth Scorchers,ML Green,BL Mooney,NJ Carey,4,0,,,,,,"",""
+ball,2,11.6,Perth Scorchers,ML Green,BL Mooney,NJ Carey,4,0,,,,,,"",""
+ball,2,12.1,Perth Scorchers,BL Mooney,ML Green,M Strano,1,0,,,,,,"",""
+ball,2,12.2,Perth Scorchers,ML Green,BL Mooney,M Strano,0,0,,,,,,"",""
+ball,2,12.3,Perth Scorchers,ML Green,BL Mooney,M Strano,4,0,,,,,,"",""
+ball,2,12.4,Perth Scorchers,ML Green,BL Mooney,M Strano,0,0,,,,,,"",""
+ball,2,12.5,Perth Scorchers,ML Green,BL Mooney,M Strano,0,0,,,,,,"",""
+ball,2,12.6,Perth Scorchers,ML Green,BL Mooney,M Strano,0,0,,,,,,"",""
+ball,2,13.1,Perth Scorchers,BL Mooney,ML Green,NJ Carey,2,0,,,,,,"",""
+ball,2,13.2,Perth Scorchers,BL Mooney,ML Green,NJ Carey,4,0,,,,,,"",""
+ball,2,13.3,Perth Scorchers,BL Mooney,ML Green,NJ Carey,1,0,,,,,,"",""
+ball,2,13.4,Perth Scorchers,ML Green,BL Mooney,NJ Carey,4,0,,,,,,"",""
+ball,2,13.5,Perth Scorchers,ML Green,BL Mooney,NJ Carey,0,1,1,,,,,"",""
+ball,2,13.6,Perth Scorchers,ML Green,BL Mooney,NJ Carey,4,0,,,,,,"",""
+ball,2,13.7,Perth Scorchers,ML Green,BL Mooney,NJ Carey,1,0,,,,,,"",""
+ball,2,14.1,Perth Scorchers,ML Green,BL Mooney,H Graham,4,0,,,,,,"",""

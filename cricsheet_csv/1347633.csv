@@ -1,0 +1,289 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Sussex
+info,gender,male
+info,season,2023
+info,date,2023/06/09
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,M Burns
+info,match_referee,SJ Davis
+info,winner,Surrey
+info,winner_runs,124
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,SM Curran
+info,player,Surrey,J Overton
+info,player,Surrey,TK Curran
+info,player,Surrey,SA Abbott
+info,player,Surrey,JL Smith
+info,player,Surrey,SP Narine
+info,player,Surrey,CJ Jordan
+info,player,Surrey,CT Steel
+info,player,Surrey,TE Lawes
+info,player,Sussex,TGR Clark
+info,player,Sussex,JM Coles
+info,player,Sussex,TP Alsop
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,D Ibrahim
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,N McAndrew
+info,player,Sussex,TS Mills
+info,player,Sussex,HT Crocombe
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Steel,5899dceb
+info,registry,people,D Ibrahim,457cab44
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,J Overton,59559bc2
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TE Lawes,fe2ac1a8
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Surrey,WG Jacks,LJ Evans,N McAndrew,4,0,,,,,,"",""
+ball,1,0.2,Surrey,WG Jacks,LJ Evans,N McAndrew,1,0,,,,,,"",""
+ball,1,0.3,Surrey,LJ Evans,WG Jacks,N McAndrew,0,0,,,,,,"",""
+ball,1,0.4,Surrey,LJ Evans,WG Jacks,N McAndrew,0,1,,,,1,,"",""
+ball,1,0.5,Surrey,WG Jacks,LJ Evans,N McAndrew,0,0,,,,,,"",""
+ball,1,0.6,Surrey,WG Jacks,LJ Evans,N McAndrew,0,0,,,,,,bowled,WG Jacks
+ball,1,1.1,Surrey,LJ Evans,SM Curran,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,1.2,Surrey,SM Curran,LJ Evans,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,1.3,Surrey,SM Curran,LJ Evans,FJ Hudson-Prentice,0,1,1,,,,,"",""
+ball,1,1.4,Surrey,SM Curran,LJ Evans,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,1.5,Surrey,SM Curran,LJ Evans,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,1.6,Surrey,LJ Evans,SM Curran,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,1.7,Surrey,LJ Evans,SM Curran,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,2.1,Surrey,SM Curran,LJ Evans,N McAndrew,0,0,,,,,,"",""
+ball,1,2.2,Surrey,SM Curran,LJ Evans,N McAndrew,1,0,,,,,,"",""
+ball,1,2.3,Surrey,LJ Evans,SM Curran,N McAndrew,0,0,,,,,,"",""
+ball,1,2.4,Surrey,LJ Evans,SM Curran,N McAndrew,0,0,,,,,,"",""
+ball,1,2.5,Surrey,LJ Evans,SM Curran,N McAndrew,4,0,,,,,,"",""
+ball,1,2.6,Surrey,LJ Evans,SM Curran,N McAndrew,4,0,,,,,,"",""
+ball,1,3.1,Surrey,SM Curran,LJ Evans,TS Mills,0,0,,,,,,"",""
+ball,1,3.2,Surrey,SM Curran,LJ Evans,TS Mills,1,0,,,,,,"",""
+ball,1,3.3,Surrey,LJ Evans,SM Curran,TS Mills,4,0,,,,,,"",""
+ball,1,3.4,Surrey,LJ Evans,SM Curran,TS Mills,0,0,,,,,,"",""
+ball,1,3.5,Surrey,LJ Evans,SM Curran,TS Mills,0,0,,,,,,"",""
+ball,1,3.6,Surrey,LJ Evans,SM Curran,TS Mills,4,0,,,,,,"",""
+ball,1,4.1,Surrey,SM Curran,LJ Evans,HT Crocombe,1,0,,,,,,"",""
+ball,1,4.2,Surrey,LJ Evans,SM Curran,HT Crocombe,2,0,,,,,,"",""
+ball,1,4.3,Surrey,LJ Evans,SM Curran,HT Crocombe,0,0,,,,,,"",""
+ball,1,4.4,Surrey,LJ Evans,SM Curran,HT Crocombe,1,0,,,,,,"",""
+ball,1,4.5,Surrey,SM Curran,LJ Evans,HT Crocombe,0,0,,,,,,"",""
+ball,1,4.6,Surrey,SM Curran,LJ Evans,HT Crocombe,0,0,,,,,,"",""
+ball,1,5.1,Surrey,LJ Evans,SM Curran,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,1,5.2,Surrey,LJ Evans,SM Curran,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,5.3,Surrey,LJ Evans,SM Curran,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,5.4,Surrey,LJ Evans,SM Curran,FJ Hudson-Prentice,0,0,,,,,,"",""
+ball,1,5.5,Surrey,LJ Evans,SM Curran,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,5.6,Surrey,SM Curran,LJ Evans,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,6.1,Surrey,LJ Evans,SM Curran,Shadab Khan,1,0,,,,,,"",""
+ball,1,6.2,Surrey,SM Curran,LJ Evans,Shadab Khan,1,0,,,,,,"",""
+ball,1,6.3,Surrey,LJ Evans,SM Curran,Shadab Khan,1,0,,,,,,"",""
+ball,1,6.4,Surrey,SM Curran,LJ Evans,Shadab Khan,4,0,,,,,,"",""
+ball,1,6.5,Surrey,SM Curran,LJ Evans,Shadab Khan,0,0,,,,,,"",""
+ball,1,6.6,Surrey,SM Curran,LJ Evans,Shadab Khan,6,0,,,,,,"",""
+ball,1,7.1,Surrey,LJ Evans,SM Curran,RS Bopara,4,0,,,,,,"",""
+ball,1,7.2,Surrey,LJ Evans,SM Curran,RS Bopara,1,0,,,,,,"",""
+ball,1,7.3,Surrey,SM Curran,LJ Evans,RS Bopara,1,0,,,,,,"",""
+ball,1,7.4,Surrey,LJ Evans,SM Curran,RS Bopara,4,0,,,,,,"",""
+ball,1,7.5,Surrey,LJ Evans,SM Curran,RS Bopara,1,0,,,,,,"",""
+ball,1,7.6,Surrey,SM Curran,LJ Evans,RS Bopara,1,0,,,,,,"",""
+ball,1,8.1,Surrey,SM Curran,LJ Evans,HT Crocombe,4,0,,,,,,"",""
+ball,1,8.2,Surrey,SM Curran,LJ Evans,HT Crocombe,4,0,,,,,,"",""
+ball,1,8.3,Surrey,SM Curran,LJ Evans,HT Crocombe,1,0,,,,,,"",""
+ball,1,8.4,Surrey,LJ Evans,SM Curran,HT Crocombe,6,0,,,,,,"",""
+ball,1,8.5,Surrey,LJ Evans,SM Curran,HT Crocombe,1,0,,,,,,"",""
+ball,1,8.6,Surrey,SM Curran,LJ Evans,HT Crocombe,2,2,,2,,,,"",""
+ball,1,8.7,Surrey,SM Curran,LJ Evans,HT Crocombe,0,0,,,,,,"",""
+ball,1,9.1,Surrey,LJ Evans,SM Curran,RS Bopara,1,0,,,,,,"",""
+ball,1,9.2,Surrey,SM Curran,LJ Evans,RS Bopara,4,0,,,,,,"",""
+ball,1,9.3,Surrey,SM Curran,LJ Evans,RS Bopara,1,0,,,,,,"",""
+ball,1,9.4,Surrey,LJ Evans,SM Curran,RS Bopara,1,0,,,,,,"",""
+ball,1,9.5,Surrey,SM Curran,LJ Evans,RS Bopara,1,0,,,,,,"",""
+ball,1,9.6,Surrey,LJ Evans,SM Curran,RS Bopara,0,0,,,,,,"",""
+ball,1,10.1,Surrey,SM Curran,LJ Evans,TS Mills,1,0,,,,,,"",""
+ball,1,10.2,Surrey,LJ Evans,SM Curran,TS Mills,4,0,,,,,,"",""
+ball,1,10.3,Surrey,LJ Evans,SM Curran,TS Mills,2,0,,,,,,"",""
+ball,1,10.4,Surrey,LJ Evans,SM Curran,TS Mills,0,1,1,,,,,"",""
+ball,1,10.5,Surrey,LJ Evans,SM Curran,TS Mills,1,0,,,,,,"",""
+ball,1,10.6,Surrey,SM Curran,LJ Evans,TS Mills,1,0,,,,,,"",""
+ball,1,10.7,Surrey,LJ Evans,SM Curran,TS Mills,1,0,,,,,,"",""
+ball,1,11.1,Surrey,LJ Evans,SM Curran,Shadab Khan,6,0,,,,,,"",""
+ball,1,11.2,Surrey,LJ Evans,SM Curran,Shadab Khan,4,0,,,,,,"",""
+ball,1,11.3,Surrey,LJ Evans,SM Curran,Shadab Khan,1,0,,,,,,"",""
+ball,1,11.4,Surrey,SM Curran,LJ Evans,Shadab Khan,1,0,,,,,,"",""
+ball,1,11.5,Surrey,LJ Evans,SM Curran,Shadab Khan,0,0,,,,,,"",""
+ball,1,11.6,Surrey,LJ Evans,SM Curran,Shadab Khan,1,0,,,,,,"",""
+ball,1,12.1,Surrey,LJ Evans,SM Curran,N McAndrew,0,0,,,,,,"",""
+ball,1,12.2,Surrey,LJ Evans,SM Curran,N McAndrew,1,2,,2,,,,"",""
+ball,1,12.3,Surrey,SM Curran,LJ Evans,N McAndrew,6,0,,,,,,"",""
+ball,1,12.4,Surrey,SM Curran,LJ Evans,N McAndrew,6,0,,,,,,"",""
+ball,1,12.5,Surrey,SM Curran,LJ Evans,N McAndrew,2,0,,,,,,"",""
+ball,1,12.6,Surrey,SM Curran,LJ Evans,N McAndrew,1,0,,,,,,"",""
+ball,1,12.7,Surrey,LJ Evans,SM Curran,N McAndrew,4,0,,,,,,"",""
+ball,1,13.1,Surrey,SM Curran,LJ Evans,Shadab Khan,2,0,,,,,,"",""
+ball,1,13.2,Surrey,SM Curran,LJ Evans,Shadab Khan,0,1,1,,,,,"",""
+ball,1,13.3,Surrey,SM Curran,LJ Evans,Shadab Khan,0,1,1,,,,,"",""
+ball,1,13.4,Surrey,SM Curran,LJ Evans,Shadab Khan,6,0,,,,,,"",""
+ball,1,13.5,Surrey,SM Curran,LJ Evans,Shadab Khan,0,0,,,,,,caught,SM Curran
+ball,1,13.6,Surrey,J Overton,LJ Evans,Shadab Khan,2,0,,,,,,"",""
+ball,1,13.7,Surrey,J Overton,LJ Evans,Shadab Khan,1,0,,,,,,"",""
+ball,1,13.8,Surrey,LJ Evans,J Overton,Shadab Khan,4,0,,,,,,"",""
+ball,1,14.1,Surrey,J Overton,LJ Evans,TS Mills,0,0,,,,,,"",""
+ball,1,14.2,Surrey,J Overton,LJ Evans,TS Mills,1,0,,,,,,"",""
+ball,1,14.3,Surrey,LJ Evans,J Overton,TS Mills,1,0,,,,,,"",""
+ball,1,14.4,Surrey,J Overton,LJ Evans,TS Mills,1,0,,,,,,"",""
+ball,1,14.5,Surrey,LJ Evans,J Overton,TS Mills,0,2,,2,,,,"",""
+ball,1,14.6,Surrey,LJ Evans,J Overton,TS Mills,0,1,1,,,,,"",""
+ball,1,14.7,Surrey,LJ Evans,J Overton,TS Mills,4,0,,,,,,"",""
+ball,1,14.8,Surrey,LJ Evans,J Overton,TS Mills,2,0,,,,,,"",""
+ball,1,15.1,Surrey,J Overton,LJ Evans,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,15.2,Surrey,LJ Evans,J Overton,FJ Hudson-Prentice,1,0,,,,,,"",""
+ball,1,15.3,Surrey,J Overton,LJ Evans,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,15.4,Surrey,J Overton,LJ Evans,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,15.5,Surrey,J Overton,LJ Evans,FJ Hudson-Prentice,6,0,,,,,,"",""
+ball,1,15.6,Surrey,J Overton,LJ Evans,FJ Hudson-Prentice,4,0,,,,,,"",""
+ball,1,16.1,Surrey,LJ Evans,J Overton,HT Crocombe,0,0,,,,,,caught,LJ Evans
+ball,1,16.2,Surrey,TK Curran,J Overton,HT Crocombe,4,0,,,,,,"",""
+ball,1,16.3,Surrey,TK Curran,J Overton,HT Crocombe,6,0,,,,,,"",""
+ball,1,16.4,Surrey,TK Curran,J Overton,HT Crocombe,1,0,,,,,,"",""
+ball,1,16.5,Surrey,J Overton,TK Curran,HT Crocombe,0,0,,,,,,caught,J Overton
+ball,1,16.6,Surrey,SA Abbott,TK Curran,HT Crocombe,1,0,,,,,,"",""
+ball,1,17.1,Surrey,SA Abbott,TK Curran,N McAndrew,1,0,,,,,,"",""
+ball,1,17.2,Surrey,TK Curran,SA Abbott,N McAndrew,0,1,1,,,,,"",""
+ball,1,17.3,Surrey,TK Curran,SA Abbott,N McAndrew,1,0,,,,,,"",""
+ball,1,17.4,Surrey,SA Abbott,TK Curran,N McAndrew,1,0,,,,,,"",""
+ball,1,17.5,Surrey,TK Curran,SA Abbott,N McAndrew,6,0,,,,,,"",""
+ball,1,17.6,Surrey,TK Curran,SA Abbott,N McAndrew,1,0,,,,,,"",""
+ball,1,17.7,Surrey,SA Abbott,TK Curran,N McAndrew,0,0,,,,,,"",""
+ball,1,18.1,Surrey,TK Curran,SA Abbott,TS Mills,6,0,,,,,,"",""
+ball,1,18.2,Surrey,TK Curran,SA Abbott,TS Mills,4,0,,,,,,"",""
+ball,1,18.3,Surrey,TK Curran,SA Abbott,TS Mills,0,0,,,,,,caught,TK Curran
+ball,1,18.4,Surrey,JL Smith,SA Abbott,TS Mills,0,1,1,,,,,"",""
+ball,1,18.5,Surrey,JL Smith,SA Abbott,TS Mills,0,0,,,,,,caught,JL Smith
+ball,1,18.6,Surrey,SP Narine,SA Abbott,TS Mills,1,0,,,,,,"",""
+ball,1,18.7,Surrey,SA Abbott,SP Narine,TS Mills,6,0,,,,,,"",""
+ball,1,19.1,Surrey,SP Narine,SA Abbott,HT Crocombe,0,1,1,,,,,"",""
+ball,1,19.2,Surrey,SP Narine,SA Abbott,HT Crocombe,4,0,,,,,,"",""
+ball,1,19.3,Surrey,SP Narine,SA Abbott,HT Crocombe,2,0,,,,,,"",""
+ball,1,19.4,Surrey,SP Narine,SA Abbott,HT Crocombe,1,0,,,,,,"",""
+ball,1,19.5,Surrey,SA Abbott,SP Narine,HT Crocombe,4,0,,,,,,"",""
+ball,1,19.6,Surrey,SA Abbott,SP Narine,HT Crocombe,2,0,,,,,,"",""
+ball,1,19.7,Surrey,SA Abbott,SP Narine,HT Crocombe,1,0,,,,,,"",""
+ball,2,0.1,Sussex,TGR Clark,JM Coles,SA Abbott,4,0,,,,,,"",""
+ball,2,0.2,Sussex,TGR Clark,JM Coles,SA Abbott,0,0,,,,,,"",""
+ball,2,0.3,Sussex,TGR Clark,JM Coles,SA Abbott,0,1,,,,1,,"",""
+ball,2,0.4,Sussex,JM Coles,TGR Clark,SA Abbott,4,0,,,,,,"",""
+ball,2,0.5,Sussex,JM Coles,TGR Clark,SA Abbott,0,1,,,,1,,"",""
+ball,2,0.6,Sussex,TGR Clark,JM Coles,SA Abbott,1,0,,,,,,"",""
+ball,2,1.1,Sussex,TGR Clark,JM Coles,WG Jacks,1,0,,,,,,"",""
+ball,2,1.2,Sussex,JM Coles,TGR Clark,WG Jacks,0,0,,,,,,caught,JM Coles
+ball,2,1.3,Sussex,TP Alsop,TGR Clark,WG Jacks,0,0,,,,,,"",""
+ball,2,1.4,Sussex,TP Alsop,TGR Clark,WG Jacks,1,0,,,,,,"",""
+ball,2,1.5,Sussex,TGR Clark,TP Alsop,WG Jacks,4,0,,,,,,"",""
+ball,2,1.6,Sussex,TGR Clark,TP Alsop,WG Jacks,1,0,,,,,,"",""
+ball,2,2.1,Sussex,TGR Clark,TP Alsop,SM Curran,0,0,,,,,,"",""
+ball,2,2.2,Sussex,TGR Clark,TP Alsop,SM Curran,2,0,,,,,,"",""
+ball,2,2.3,Sussex,TGR Clark,TP Alsop,SM Curran,4,0,,,,,,"",""
+ball,2,2.4,Sussex,TGR Clark,TP Alsop,SM Curran,4,0,,,,,,"",""
+ball,2,2.5,Sussex,TGR Clark,TP Alsop,SM Curran,0,1,1,,,,,"",""
+ball,2,2.6,Sussex,TGR Clark,TP Alsop,SM Curran,0,0,,,,,,"",""
+ball,2,2.7,Sussex,TGR Clark,TP Alsop,SM Curran,1,0,,,,,,"",""
+ball,2,3.1,Sussex,TGR Clark,TP Alsop,WG Jacks,4,0,,,,,,"",""
+ball,2,3.2,Sussex,TGR Clark,TP Alsop,WG Jacks,4,0,,,,,,"",""
+ball,2,3.3,Sussex,TGR Clark,TP Alsop,WG Jacks,1,0,,,,,,"",""
+ball,2,3.4,Sussex,TP Alsop,TGR Clark,WG Jacks,0,1,1,,,,,"",""
+ball,2,3.5,Sussex,TP Alsop,TGR Clark,WG Jacks,0,0,,,,,,"",""
+ball,2,3.6,Sussex,TP Alsop,TGR Clark,WG Jacks,1,0,,,,,,"",""
+ball,2,3.7,Sussex,TGR Clark,TP Alsop,WG Jacks,1,0,,,,,,"",""
+ball,2,4.1,Sussex,TGR Clark,TP Alsop,CJ Jordan,4,0,,,,,,"",""
+ball,2,4.2,Sussex,TGR Clark,TP Alsop,CJ Jordan,2,0,,,,,,"",""
+ball,2,4.3,Sussex,TGR Clark,TP Alsop,CJ Jordan,1,0,,,,,,"",""
+ball,2,4.4,Sussex,TP Alsop,TGR Clark,CJ Jordan,0,1,,,,1,,"",""
+ball,2,4.5,Sussex,TGR Clark,TP Alsop,CJ Jordan,4,0,,,,,,"",""
+ball,2,4.6,Sussex,TGR Clark,TP Alsop,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.1,Sussex,TP Alsop,TGR Clark,WG Jacks,4,0,,,,,,"",""
+ball,2,5.2,Sussex,TP Alsop,TGR Clark,WG Jacks,1,0,,,,,,"",""
+ball,2,5.3,Sussex,TGR Clark,TP Alsop,WG Jacks,0,0,,,,,,stumped,TGR Clark
+ball,2,5.4,Sussex,RS Bopara,TP Alsop,WG Jacks,0,0,,,,,,"",""
+ball,2,5.5,Sussex,RS Bopara,TP Alsop,WG Jacks,1,0,,,,,,"",""
+ball,2,5.6,Sussex,TP Alsop,RS Bopara,WG Jacks,4,0,,,,,,"",""
+ball,2,6.1,Sussex,RS Bopara,TP Alsop,SP Narine,0,0,,,,,,"",""
+ball,2,6.2,Sussex,RS Bopara,TP Alsop,SP Narine,0,0,,,,,,"",""
+ball,2,6.3,Sussex,RS Bopara,TP Alsop,SP Narine,0,0,,,,,,caught,RS Bopara
+ball,2,6.4,Sussex,Shadab Khan,TP Alsop,SP Narine,0,0,,,,,,"",""
+ball,2,6.5,Sussex,Shadab Khan,TP Alsop,SP Narine,2,0,,,,,,"",""
+ball,2,6.6,Sussex,Shadab Khan,TP Alsop,SP Narine,1,0,,,,,,"",""
+ball,2,7.1,Sussex,Shadab Khan,TP Alsop,CT Steel,1,0,,,,,,"",""
+ball,2,7.2,Sussex,TP Alsop,Shadab Khan,CT Steel,4,0,,,,,,"",""
+ball,2,7.3,Sussex,TP Alsop,Shadab Khan,CT Steel,1,0,,,,,,"",""
+ball,2,7.4,Sussex,Shadab Khan,TP Alsop,CT Steel,1,0,,,,,,"",""
+ball,2,7.5,Sussex,TP Alsop,Shadab Khan,CT Steel,1,0,,,,,,"",""
+ball,2,7.6,Sussex,Shadab Khan,TP Alsop,CT Steel,4,0,,,,,,"",""
+ball,2,8.1,Sussex,TP Alsop,Shadab Khan,TE Lawes,0,0,,,,,,bowled,TP Alsop
+ball,2,8.2,Sussex,MGK Burgess,Shadab Khan,TE Lawes,0,0,,,,,,"",""
+ball,2,8.3,Sussex,MGK Burgess,Shadab Khan,TE Lawes,2,0,,,,,,"",""
+ball,2,8.4,Sussex,MGK Burgess,Shadab Khan,TE Lawes,1,0,,,,,,"",""
+ball,2,8.5,Sussex,Shadab Khan,MGK Burgess,TE Lawes,0,0,,,,,,caught,Shadab Khan
+ball,2,8.6,Sussex,D Ibrahim,MGK Burgess,TE Lawes,0,0,,,,,,"",""
+ball,2,9.1,Sussex,MGK Burgess,D Ibrahim,CT Steel,1,0,,,,,,"",""
+ball,2,9.2,Sussex,D Ibrahim,MGK Burgess,CT Steel,1,0,,,,,,"",""
+ball,2,9.3,Sussex,MGK Burgess,D Ibrahim,CT Steel,4,0,,,,,,"",""
+ball,2,9.4,Sussex,MGK Burgess,D Ibrahim,CT Steel,4,0,,,,,,"",""
+ball,2,9.5,Sussex,MGK Burgess,D Ibrahim,CT Steel,0,0,,,,,,bowled,MGK Burgess
+ball,2,9.6,Sussex,FJ Hudson-Prentice,D Ibrahim,CT Steel,0,0,,,,,,"",""
+ball,2,10.1,Sussex,D Ibrahim,FJ Hudson-Prentice,TE Lawes,0,0,,,,,,"",""
+ball,2,10.2,Sussex,D Ibrahim,FJ Hudson-Prentice,TE Lawes,4,0,,,,,,"",""
+ball,2,10.3,Sussex,D Ibrahim,FJ Hudson-Prentice,TE Lawes,1,0,,,,,,"",""
+ball,2,10.4,Sussex,FJ Hudson-Prentice,D Ibrahim,TE Lawes,6,0,,,,,,"",""
+ball,2,10.5,Sussex,FJ Hudson-Prentice,D Ibrahim,TE Lawes,0,1,1,,,,,"",""
+ball,2,10.6,Sussex,FJ Hudson-Prentice,D Ibrahim,TE Lawes,1,0,,,,,,"",""
+ball,2,10.7,Sussex,D Ibrahim,FJ Hudson-Prentice,TE Lawes,1,0,,,,,,"",""
+ball,2,11.1,Sussex,D Ibrahim,FJ Hudson-Prentice,CT Steel,1,0,,,,,,"",""
+ball,2,11.2,Sussex,FJ Hudson-Prentice,D Ibrahim,CT Steel,1,0,,,,,,"",""
+ball,2,11.3,Sussex,D Ibrahim,FJ Hudson-Prentice,CT Steel,1,0,,,,,,"",""
+ball,2,11.4,Sussex,FJ Hudson-Prentice,D Ibrahim,CT Steel,2,0,,,,,,"",""
+ball,2,11.5,Sussex,FJ Hudson-Prentice,D Ibrahim,CT Steel,1,0,,,,,,"",""
+ball,2,11.6,Sussex,D Ibrahim,FJ Hudson-Prentice,CT Steel,0,1,1,,,,,"",""
+ball,2,11.7,Sussex,D Ibrahim,FJ Hudson-Prentice,CT Steel,1,0,,,,,,"",""
+ball,2,12.1,Sussex,D Ibrahim,FJ Hudson-Prentice,SP Narine,1,0,,,,,,"",""
+ball,2,12.2,Sussex,FJ Hudson-Prentice,D Ibrahim,SP Narine,0,0,,,,,,caught and bowled,FJ Hudson-Prentice
+ball,2,12.3,Sussex,N McAndrew,D Ibrahim,SP Narine,0,0,,,,,,"",""
+ball,2,12.4,Sussex,N McAndrew,D Ibrahim,SP Narine,0,0,,,,,,"",""
+ball,2,12.5,Sussex,N McAndrew,D Ibrahim,SP Narine,0,0,,,,,,"",""
+ball,2,12.6,Sussex,N McAndrew,D Ibrahim,SP Narine,1,0,,,,,,"",""
+ball,2,13.1,Sussex,N McAndrew,D Ibrahim,CT Steel,1,0,,,,,,"",""
+ball,2,13.2,Sussex,D Ibrahim,N McAndrew,CT Steel,2,0,,,,,,"",""
+ball,2,13.3,Sussex,D Ibrahim,N McAndrew,CT Steel,4,0,,,,,,"",""
+ball,2,13.4,Sussex,D Ibrahim,N McAndrew,CT Steel,0,0,,,,,,caught,D Ibrahim
+ball,2,13.5,Sussex,TS Mills,N McAndrew,CT Steel,4,0,,,,,,"",""
+ball,2,13.6,Sussex,TS Mills,N McAndrew,CT Steel,0,0,,,,,,stumped,TS Mills
+ball,2,14.1,Sussex,N McAndrew,HT Crocombe,SP Narine,4,0,,,,,,"",""
+ball,2,14.2,Sussex,N McAndrew,HT Crocombe,SP Narine,1,0,,,,,,"",""
+ball,2,14.3,Sussex,HT Crocombe,N McAndrew,SP Narine,1,0,,,,,,"",""
+ball,2,14.4,Sussex,N McAndrew,HT Crocombe,SP Narine,0,1,1,,,,,"",""
+ball,2,14.5,Sussex,N McAndrew,HT Crocombe,SP Narine,0,0,,,,,,"",""
+ball,2,14.6,Sussex,N McAndrew,HT Crocombe,SP Narine,0,0,,,,,,caught,N McAndrew

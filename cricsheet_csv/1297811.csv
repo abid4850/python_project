@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Yorkshire
+info,gender,male
+info,season,2022
+info,date,2022/05/29
+info,event,Vitality Blast
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Leicestershire
+info,toss_decision,bat
+info,umpire,DJ Millns
+info,umpire,N Pratt
+info,match_referee,AJ Swann
+info,winner,Leicestershire
+info,winner_runs,31
+info,player,Leicestershire,HD Rutherford
+info,player,Leicestershire,S Steel
+info,player,Leicestershire,AM Lilley
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,BWM Mike
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,RI Walker
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,Naveen-ul-Haq
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,T Kohler-Cadmore
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,HC Brook
+info,player,Yorkshire,Shadab Khan
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,AU Rashid
+info,player,Yorkshire,Haris Rauf
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AM Lilley,88a004e9
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BWM Mike,ed12fcd7
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DM Bess,ad46c747
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JE Root,a343262c
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,ML Revis,28217d89
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,RI Walker,c78a879c
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,S Steel,de6c2c6e
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,T Kohler-Cadmore,f836b33d
+ball,1,0.1,Leicestershire,HD Rutherford,S Steel,Haris Rauf,1,0,,,,,,"",""
+ball,1,0.2,Leicestershire,S Steel,HD Rutherford,Haris Rauf,1,0,,,,,,"",""
+ball,1,0.3,Leicestershire,HD Rutherford,S Steel,Haris Rauf,0,0,,,,,,"",""
+ball,1,0.4,Leicestershire,HD Rutherford,S Steel,Haris Rauf,0,0,,,,,,"",""
+ball,1,0.5,Leicestershire,HD Rutherford,S Steel,Haris Rauf,0,0,,,,,,"",""
+ball,1,0.6,Leicestershire,HD Rutherford,S Steel,Haris Rauf,0,1,1,,,,,"",""
+ball,1,0.7,Leicestershire,HD Rutherford,S Steel,Haris Rauf,0,0,,,,,,"",""
+ball,1,1.1,Leicestershire,S Steel,HD Rutherford,ML Revis,4,0,,,,,,"",""
+ball,1,1.2,Leicestershire,S Steel,HD Rutherford,ML Revis,0,0,,,,,,"",""
+ball,1,1.3,Leicestershire,S Steel,HD Rutherford,ML Revis,0,0,,,,,,caught,S Steel
+ball,1,1.4,Leicestershire,AM Lilley,HD Rutherford,ML Revis,0,1,1,,,,,"",""
+ball,1,1.5,Leicestershire,AM Lilley,HD Rutherford,ML Revis,1,0,,,,,,"",""
+ball,1,1.6,Leicestershire,HD Rutherford,AM Lilley,ML Revis,0,0,,,,,,"",""
+ball,1,1.7,Leicestershire,HD Rutherford,AM Lilley,ML Revis,1,0,,,,,,"",""
+ball,1,2.1,Leicestershire,HD Rutherford,AM Lilley,Shadab Khan,0,0,,,,,,"",""
+ball,1,2.2,Leicestershire,HD Rutherford,AM Lilley,Shadab Khan,1,0,,,,,,"",""
+ball,1,2.3,Leicestershire,AM Lilley,HD Rutherford,Shadab Khan,0,2,,,,2,,"",""
+ball,1,2.4,Leicestershire,AM Lilley,HD Rutherford,Shadab Khan,3,0,,,,,,"",""
+ball,1,2.5,Leicestershire,HD Rutherford,AM Lilley,Shadab Khan,4,0,,,,,,"",""
+ball,1,2.6,Leicestershire,HD Rutherford,AM Lilley,Shadab Khan,0,0,,,,,,caught,HD Rutherford
+ball,1,3.1,Leicestershire,AM Lilley,LJ Hill,ML Revis,2,0,,,,,,"",""
+ball,1,3.2,Leicestershire,AM Lilley,LJ Hill,ML Revis,4,0,,,,,,"",""
+ball,1,3.3,Leicestershire,AM Lilley,LJ Hill,ML Revis,0,0,,,,,,"",""
+ball,1,3.4,Leicestershire,AM Lilley,LJ Hill,ML Revis,0,0,,,,,,"",""
+ball,1,3.5,Leicestershire,AM Lilley,LJ Hill,ML Revis,1,0,,,,,,"",""
+ball,1,3.6,Leicestershire,LJ Hill,AM Lilley,ML Revis,1,0,,,,,,"",""
+ball,1,4.1,Leicestershire,LJ Hill,AM Lilley,AU Rashid,0,0,,,,,,"",""
+ball,1,4.2,Leicestershire,LJ Hill,AM Lilley,AU Rashid,4,0,,,,,,"",""
+ball,1,4.3,Leicestershire,LJ Hill,AM Lilley,AU Rashid,0,0,,,,,,"",""
+ball,1,4.4,Leicestershire,LJ Hill,AM Lilley,AU Rashid,4,0,,,,,,"",""
+ball,1,4.5,Leicestershire,LJ Hill,AM Lilley,AU Rashid,0,0,,,,,,"",""
+ball,1,4.6,Leicestershire,LJ Hill,AM Lilley,AU Rashid,0,0,,,,,,"",""
+ball,1,5.1,Leicestershire,AM Lilley,LJ Hill,Haris Rauf,0,0,,,,,,"",""
+ball,1,5.2,Leicestershire,AM Lilley,LJ Hill,Haris Rauf,0,0,,,,,,caught,AM Lilley
+ball,1,5.3,Leicestershire,CN Ackermann,LJ Hill,Haris Rauf,0,0,,,,,,"",""
+ball,1,5.4,Leicestershire,CN Ackermann,LJ Hill,Haris Rauf,0,0,,,,,,"",""
+ball,1,5.5,Leicestershire,CN Ackermann,LJ Hill,Haris Rauf,0,0,,,,,,"",""
+ball,1,5.6,Leicestershire,CN Ackermann,LJ Hill,Haris Rauf,0,0,,,,,,"",""
+ball,1,6.1,Leicestershire,LJ Hill,CN Ackermann,Shadab Khan,1,0,,,,,,"",""
+ball,1,6.2,Leicestershire,CN Ackermann,LJ Hill,Shadab Khan,0,0,,,,,,"",""
+ball,1,6.3,Leicestershire,CN Ackermann,LJ Hill,Shadab Khan,1,0,,,,,,"",""
+ball,1,6.4,Leicestershire,LJ Hill,CN Ackermann,Shadab Khan,0,0,,,,,,"",""
+ball,1,6.5,Leicestershire,LJ Hill,CN Ackermann,Shadab Khan,6,0,,,,,,"",""
+ball,1,6.6,Leicestershire,LJ Hill,CN Ackermann,Shadab Khan,1,0,,,,,,"",""
+ball,1,7.1,Leicestershire,LJ Hill,CN Ackermann,AU Rashid,4,0,,,,,,"",""
+ball,1,7.2,Leicestershire,LJ Hill,CN Ackermann,AU Rashid,0,0,,,,,,"",""
+ball,1,7.3,Leicestershire,LJ Hill,CN Ackermann,AU Rashid,1,0,,,,,,"",""
+ball,1,7.4,Leicestershire,CN Ackermann,LJ Hill,AU Rashid,1,0,,,,,,"",""
+ball,1,7.5,Leicestershire,LJ Hill,CN Ackermann,AU Rashid,0,0,,,,,,lbw,LJ Hill
+ball,1,7.6,Leicestershire,RK Patel,CN Ackermann,AU Rashid,0,0,,,,,,"",""
+ball,1,8.1,Leicestershire,CN Ackermann,RK Patel,Shadab Khan,4,0,,,,,,"",""
+ball,1,8.2,Leicestershire,CN Ackermann,RK Patel,Shadab Khan,6,0,,,,,,"",""
+ball,1,8.3,Leicestershire,CN Ackermann,RK Patel,Shadab Khan,0,0,,,,,,"",""
+ball,1,8.4,Leicestershire,CN Ackermann,RK Patel,Shadab Khan,1,0,,,,,,"",""
+ball,1,8.5,Leicestershire,RK Patel,CN Ackermann,Shadab Khan,1,0,,,,,,"",""
+ball,1,8.6,Leicestershire,CN Ackermann,RK Patel,Shadab Khan,4,0,,,,,,"",""
+ball,1,9.1,Leicestershire,RK Patel,CN Ackermann,DM Bess,1,0,,,,,,"",""
+ball,1,9.2,Leicestershire,CN Ackermann,RK Patel,DM Bess,4,0,,,,,,"",""
+ball,1,9.3,Leicestershire,CN Ackermann,RK Patel,DM Bess,2,0,,,,,,"",""
+ball,1,9.4,Leicestershire,CN Ackermann,RK Patel,DM Bess,1,0,,,,,,"",""
+ball,1,9.5,Leicestershire,RK Patel,CN Ackermann,DM Bess,0,0,,,,,,"",""
+ball,1,9.6,Leicestershire,RK Patel,CN Ackermann,DM Bess,1,0,,,,,,"",""
+ball,1,10.1,Leicestershire,RK Patel,CN Ackermann,JA Thompson,0,0,,,,,,"",""
+ball,1,10.2,Leicestershire,RK Patel,CN Ackermann,JA Thompson,1,0,,,,,,"",""
+ball,1,10.3,Leicestershire,CN Ackermann,RK Patel,JA Thompson,4,0,,,,,,"",""
+ball,1,10.4,Leicestershire,CN Ackermann,RK Patel,JA Thompson,0,0,,,,,,"",""
+ball,1,10.5,Leicestershire,CN Ackermann,RK Patel,JA Thompson,1,0,,,,,,"",""
+ball,1,10.6,Leicestershire,RK Patel,CN Ackermann,JA Thompson,1,0,,,,,,"",""
+ball,1,11.1,Leicestershire,RK Patel,CN Ackermann,AU Rashid,0,0,,,,,,"",""
+ball,1,11.2,Leicestershire,RK Patel,CN Ackermann,AU Rashid,4,0,,,,,,"",""
+ball,1,11.3,Leicestershire,RK Patel,CN Ackermann,AU Rashid,4,0,,,,,,"",""
+ball,1,11.4,Leicestershire,RK Patel,CN Ackermann,AU Rashid,0,0,,,,,,"",""
+ball,1,11.5,Leicestershire,RK Patel,CN Ackermann,AU Rashid,0,0,,,,,,"",""
+ball,1,11.6,Leicestershire,RK Patel,CN Ackermann,AU Rashid,1,0,,,,,,"",""
+ball,1,12.1,Leicestershire,RK Patel,CN Ackermann,JA Thompson,1,0,,,,,,"",""
+ball,1,12.2,Leicestershire,CN Ackermann,RK Patel,JA Thompson,3,0,,,,,,"",""
+ball,1,12.3,Leicestershire,RK Patel,CN Ackermann,JA Thompson,0,0,,,,,,"",""
+ball,1,12.4,Leicestershire,RK Patel,CN Ackermann,JA Thompson,1,0,,,,,,"",""
+ball,1,12.5,Leicestershire,CN Ackermann,RK Patel,JA Thompson,2,0,,,,,,"",""
+ball,1,12.6,Leicestershire,CN Ackermann,RK Patel,JA Thompson,2,0,,,,,,"",""
+ball,1,13.1,Leicestershire,RK Patel,CN Ackermann,AU Rashid,1,0,,,,,,"",""
+ball,1,13.2,Leicestershire,CN Ackermann,RK Patel,AU Rashid,1,0,,,,,,"",""
+ball,1,13.3,Leicestershire,RK Patel,CN Ackermann,AU Rashid,1,0,,,,,,"",""
+ball,1,13.4,Leicestershire,CN Ackermann,RK Patel,AU Rashid,2,0,,,,,,"",""
+ball,1,13.5,Leicestershire,CN Ackermann,RK Patel,AU Rashid,4,0,,,,,,"",""
+ball,1,13.6,Leicestershire,CN Ackermann,RK Patel,AU Rashid,4,0,,,,,,"",""
+ball,1,14.1,Leicestershire,RK Patel,CN Ackermann,ML Revis,4,0,,,,,,"",""
+ball,1,14.2,Leicestershire,RK Patel,CN Ackermann,ML Revis,2,0,,,,,,"",""
+ball,1,14.3,Leicestershire,RK Patel,CN Ackermann,ML Revis,6,0,,,,,,"",""
+ball,1,14.4,Leicestershire,RK Patel,CN Ackermann,ML Revis,1,0,,,,,,"",""
+ball,1,14.5,Leicestershire,CN Ackermann,RK Patel,ML Revis,1,0,,,,,,"",""
+ball,1,14.6,Leicestershire,RK Patel,CN Ackermann,ML Revis,1,0,,,,,,"",""
+ball,1,15.1,Leicestershire,RK Patel,CN Ackermann,Shadab Khan,6,0,,,,,,"",""
+ball,1,15.2,Leicestershire,RK Patel,CN Ackermann,Shadab Khan,4,0,,,,,,"",""
+ball,1,15.3,Leicestershire,RK Patel,CN Ackermann,Shadab Khan,1,0,,,,,,"",""
+ball,1,15.4,Leicestershire,CN Ackermann,RK Patel,Shadab Khan,0,0,,,,,,"",""
+ball,1,15.5,Leicestershire,CN Ackermann,RK Patel,Shadab Khan,1,0,,,,,,"",""
+ball,1,15.6,Leicestershire,RK Patel,CN Ackermann,Shadab Khan,6,0,,,,,,"",""
+ball,1,16.1,Leicestershire,CN Ackermann,RK Patel,Haris Rauf,0,0,,,,,,"",""
+ball,1,16.2,Leicestershire,CN Ackermann,RK Patel,Haris Rauf,0,0,,,,,,"",""
+ball,1,16.3,Leicestershire,CN Ackermann,RK Patel,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.4,Leicestershire,RK Patel,CN Ackermann,Haris Rauf,0,0,,,,,,"",""
+ball,1,16.5,Leicestershire,RK Patel,CN Ackermann,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.6,Leicestershire,CN Ackermann,RK Patel,Haris Rauf,6,0,,,,,,"",""
+ball,1,17.1,Leicestershire,RK Patel,CN Ackermann,JA Thompson,4,0,,,,,,"",""
+ball,1,17.2,Leicestershire,RK Patel,CN Ackermann,JA Thompson,1,0,,,,,,"",""
+ball,1,17.3,Leicestershire,CN Ackermann,RK Patel,JA Thompson,0,0,,,,,,caught,CN Ackermann
+ball,1,17.4,Leicestershire,BWM Mike,RK Patel,JA Thompson,1,0,,,,,,"",""
+ball,1,17.5,Leicestershire,RK Patel,BWM Mike,JA Thompson,1,0,,,,,,"",""
+ball,1,17.6,Leicestershire,BWM Mike,RK Patel,JA Thompson,1,2,,2,,,,"",""
+ball,1,17.7,Leicestershire,RK Patel,BWM Mike,JA Thompson,0,0,,,,,,"",""
+ball,1,18.1,Leicestershire,BWM Mike,RK Patel,Haris Rauf,1,0,,,,,,"",""
+ball,1,18.2,Leicestershire,RK Patel,BWM Mike,Haris Rauf,0,2,,2,,,,"",""
+ball,1,18.3,Leicestershire,RK Patel,BWM Mike,Haris Rauf,1,0,,,,,,"",""
+ball,1,18.4,Leicestershire,BWM Mike,RK Patel,Haris Rauf,0,0,,,,,,"",""
+ball,1,18.5,Leicestershire,BWM Mike,RK Patel,Haris Rauf,0,0,,,,,,"",""
+ball,1,18.6,Leicestershire,BWM Mike,RK Patel,Haris Rauf,0,5,5,,,,,"",""
+ball,1,18.7,Leicestershire,BWM Mike,RK Patel,Haris Rauf,2,0,,,,,,"",""
+ball,1,18.8,Leicestershire,BWM Mike,RK Patel,Haris Rauf,4,0,,,,,,"",""
+ball,1,19.1,Leicestershire,RK Patel,BWM Mike,JA Thompson,0,0,,,,,,caught,RK Patel
+ball,1,19.2,Leicestershire,Rehan Ahmed,BWM Mike,JA Thompson,0,0,,,,,,caught,Rehan Ahmed
+ball,1,19.3,Leicestershire,RI Walker,BWM Mike,JA Thompson,1,0,,,,,,"",""
+ball,1,19.4,Leicestershire,BWM Mike,RI Walker,JA Thompson,4,0,,,,,,"",""
+ball,1,19.5,Leicestershire,BWM Mike,RI Walker,JA Thompson,2,0,,,,,,"",""
+ball,1,19.6,Leicestershire,BWM Mike,RI Walker,JA Thompson,1,0,,,,,,"",""
+ball,2,0.1,Yorkshire,A Lyth,DJ Malan,S Steel,4,0,,,,,,"",""
+ball,2,0.2,Yorkshire,A Lyth,DJ Malan,S Steel,0,0,,,,,,"",""
+ball,2,0.3,Yorkshire,A Lyth,DJ Malan,S Steel,0,0,,,,,,"",""
+ball,2,0.4,Yorkshire,A Lyth,DJ Malan,S Steel,0,0,,,,,,"",""
+ball,2,0.5,Yorkshire,A Lyth,DJ Malan,S Steel,4,0,,,,,,"",""
+ball,2,0.6,Yorkshire,A Lyth,DJ Malan,S Steel,1,0,,,,,,"",""
+ball,2,1.1,Yorkshire,A Lyth,DJ Malan,RI Walker,0,0,,,,,,"",""
+ball,2,1.2,Yorkshire,A Lyth,DJ Malan,RI Walker,4,0,,,,,,"",""
+ball,2,1.3,Yorkshire,A Lyth,DJ Malan,RI Walker,4,0,,,,,,"",""
+ball,2,1.4,Yorkshire,A Lyth,DJ Malan,RI Walker,6,0,,,,,,"",""
+ball,2,1.5,Yorkshire,A Lyth,DJ Malan,RI Walker,0,0,,,,,,"",""
+ball,2,1.6,Yorkshire,A Lyth,DJ Malan,RI Walker,1,0,,,,,,"",""
+ball,2,2.1,Yorkshire,A Lyth,DJ Malan,BWM Mike,0,0,,,,,,"",""
+ball,2,2.2,Yorkshire,A Lyth,DJ Malan,BWM Mike,0,0,,,,,,caught,A Lyth
+ball,2,2.3,Yorkshire,T Kohler-Cadmore,DJ Malan,BWM Mike,0,0,,,,,,"",""
+ball,2,2.4,Yorkshire,T Kohler-Cadmore,DJ Malan,BWM Mike,1,0,,,,,,"",""
+ball,2,2.5,Yorkshire,DJ Malan,T Kohler-Cadmore,BWM Mike,0,0,,,,,,"",""
+ball,2,2.6,Yorkshire,DJ Malan,T Kohler-Cadmore,BWM Mike,1,0,,,,,,"",""
+ball,2,3.1,Yorkshire,DJ Malan,T Kohler-Cadmore,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,3.2,Yorkshire,T Kohler-Cadmore,DJ Malan,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,3.3,Yorkshire,T Kohler-Cadmore,DJ Malan,Naveen-ul-Haq,0,0,,,,,,caught,T Kohler-Cadmore
+ball,2,3.4,Yorkshire,JE Root,DJ Malan,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,3.5,Yorkshire,JE Root,DJ Malan,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,3.6,Yorkshire,DJ Malan,JE Root,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,4.1,Yorkshire,DJ Malan,JE Root,BWM Mike,0,0,,,,,,"",""
+ball,2,4.2,Yorkshire,DJ Malan,JE Root,BWM Mike,4,0,,,,,,"",""
+ball,2,4.3,Yorkshire,DJ Malan,JE Root,BWM Mike,2,0,,,,,,"",""
+ball,2,4.4,Yorkshire,DJ Malan,JE Root,BWM Mike,2,0,,,,,,"",""
+ball,2,4.5,Yorkshire,DJ Malan,JE Root,BWM Mike,0,0,,,,,,"",""
+ball,2,4.6,Yorkshire,DJ Malan,JE Root,BWM Mike,0,1,,,,1,,"",""
+ball,2,5.1,Yorkshire,DJ Malan,JE Root,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,5.2,Yorkshire,DJ Malan,JE Root,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,5.3,Yorkshire,JE Root,DJ Malan,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,5.4,Yorkshire,JE Root,DJ Malan,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,5.5,Yorkshire,DJ Malan,JE Root,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,5.6,Yorkshire,JE Root,DJ Malan,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,6.1,Yorkshire,JE Root,DJ Malan,CF Parkinson,1,0,,,,,,"",""
+ball,2,6.2,Yorkshire,DJ Malan,JE Root,CF Parkinson,1,0,,,,,,"",""
+ball,2,6.3,Yorkshire,JE Root,DJ Malan,CF Parkinson,1,0,,,,,,"",""
+ball,2,6.4,Yorkshire,DJ Malan,JE Root,CF Parkinson,1,0,,,,,,"",""
+ball,2,6.5,Yorkshire,JE Root,DJ Malan,CF Parkinson,1,0,,,,,,"",""
+ball,2,6.6,Yorkshire,DJ Malan,JE Root,CF Parkinson,0,0,,,,,,"",""
+ball,2,7.1,Yorkshire,JE Root,DJ Malan,Rehan Ahmed,1,0,,,,,,"",""
+ball,2,7.2,Yorkshire,DJ Malan,JE Root,Rehan Ahmed,4,0,,,,,,"",""
+ball,2,7.3,Yorkshire,DJ Malan,JE Root,Rehan Ahmed,1,0,,,,,,"",""
+ball,2,7.4,Yorkshire,JE Root,DJ Malan,Rehan Ahmed,1,0,,,,,,"",""
+ball,2,7.5,Yorkshire,DJ Malan,JE Root,Rehan Ahmed,1,0,,,,,,"",""
+ball,2,7.6,Yorkshire,JE Root,DJ Malan,Rehan Ahmed,2,0,,,,,,"",""
+ball,2,8.1,Yorkshire,DJ Malan,JE Root,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.2,Yorkshire,JE Root,DJ Malan,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.3,Yorkshire,DJ Malan,JE Root,CF Parkinson,4,0,,,,,,"",""
+ball,2,8.4,Yorkshire,DJ Malan,JE Root,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.5,Yorkshire,JE Root,DJ Malan,CF Parkinson,1,0,,,,,,"",""
+ball,2,8.6,Yorkshire,DJ Malan,JE Root,CF Parkinson,1,0,,,,,,"",""
+ball,2,9.1,Yorkshire,DJ Malan,JE Root,S Steel,0,0,,,,,,"",""
+ball,2,9.2,Yorkshire,DJ Malan,JE Root,S Steel,0,0,,,,,,"",""
+ball,2,9.3,Yorkshire,DJ Malan,JE Root,S Steel,0,0,,,,,,"",""
+ball,2,9.4,Yorkshire,DJ Malan,JE Root,S Steel,1,0,,,,,,"",""
+ball,2,9.5,Yorkshire,JE Root,DJ Malan,S Steel,1,0,,,,,,"",""
+ball,2,9.6,Yorkshire,DJ Malan,JE Root,S Steel,1,0,,,,,,"",""
+ball,2,10.1,Yorkshire,DJ Malan,JE Root,BWM Mike,1,0,,,,,,"",""
+ball,2,10.2,Yorkshire,JE Root,DJ Malan,BWM Mike,0,0,,,,,,"",""
+ball,2,10.3,Yorkshire,JE Root,DJ Malan,BWM Mike,0,0,,,,,,caught,JE Root
+ball,2,10.4,Yorkshire,HC Brook,DJ Malan,BWM Mike,1,0,,,,,,"",""
+ball,2,10.5,Yorkshire,DJ Malan,HC Brook,BWM Mike,0,0,,,,,,"",""
+ball,2,10.6,Yorkshire,DJ Malan,HC Brook,BWM Mike,0,1,1,,,,,"",""
+ball,2,10.7,Yorkshire,DJ Malan,HC Brook,BWM Mike,1,0,,,,,,"",""
+ball,2,11.1,Yorkshire,DJ Malan,HC Brook,Rehan Ahmed,6,0,,,,,,"",""
+ball,2,11.2,Yorkshire,DJ Malan,HC Brook,Rehan Ahmed,1,0,,,,,,"",""
+ball,2,11.3,Yorkshire,HC Brook,DJ Malan,Rehan Ahmed,1,0,,,,,,"",""
+ball,2,11.4,Yorkshire,DJ Malan,HC Brook,Rehan Ahmed,0,0,,,,,,"",""
+ball,2,11.5,Yorkshire,DJ Malan,HC Brook,Rehan Ahmed,1,0,,,,,,"",""
+ball,2,11.6,Yorkshire,HC Brook,DJ Malan,Rehan Ahmed,0,0,,,,,,"",""
+ball,2,12.1,Yorkshire,DJ Malan,HC Brook,CF Parkinson,2,0,,,,,,"",""
+ball,2,12.2,Yorkshire,DJ Malan,HC Brook,CF Parkinson,4,0,,,,,,"",""
+ball,2,12.3,Yorkshire,DJ Malan,HC Brook,CF Parkinson,0,0,,,,,,caught,DJ Malan
+ball,2,12.4,Yorkshire,Shadab Khan,HC Brook,CF Parkinson,0,0,,,,,,"",""
+ball,2,12.5,Yorkshire,Shadab Khan,HC Brook,CF Parkinson,4,0,,,,,,"",""
+ball,2,12.6,Yorkshire,Shadab Khan,HC Brook,CF Parkinson,0,0,,,,,,"",""
+ball,2,13.1,Yorkshire,HC Brook,Shadab Khan,Rehan Ahmed,4,0,,,,,,"",""
+ball,2,13.2,Yorkshire,HC Brook,Shadab Khan,Rehan Ahmed,4,0,,,,,,"",""
+ball,2,13.3,Yorkshire,HC Brook,Shadab Khan,Rehan Ahmed,1,0,,,,,,"",""
+ball,2,13.4,Yorkshire,Shadab Khan,HC Brook,Rehan Ahmed,0,0,,,,,,"",""
+ball,2,13.5,Yorkshire,Shadab Khan,HC Brook,Rehan Ahmed,1,0,,,,,,"",""
+ball,2,13.6,Yorkshire,HC Brook,Shadab Khan,Rehan Ahmed,2,0,,,,,,"",""
+ball,2,14.1,Yorkshire,Shadab Khan,HC Brook,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.2,Yorkshire,HC Brook,Shadab Khan,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.3,Yorkshire,Shadab Khan,HC Brook,CF Parkinson,4,0,,,,,,"",""
+ball,2,14.4,Yorkshire,Shadab Khan,HC Brook,CF Parkinson,0,0,,,,,,"",""
+ball,2,14.5,Yorkshire,Shadab Khan,HC Brook,CF Parkinson,1,0,,,,,,"",""
+ball,2,14.6,Yorkshire,HC Brook,Shadab Khan,CF Parkinson,1,0,,,,,,"",""
+ball,2,15.1,Yorkshire,HC Brook,Shadab Khan,RI Walker,1,0,,,,,,"",""
+ball,2,15.2,Yorkshire,Shadab Khan,HC Brook,RI Walker,1,0,,,,,,"",""
+ball,2,15.3,Yorkshire,HC Brook,Shadab Khan,RI Walker,6,0,,,,,,"",""
+ball,2,15.4,Yorkshire,HC Brook,Shadab Khan,RI Walker,0,0,,,,,,"",""
+ball,2,15.5,Yorkshire,HC Brook,Shadab Khan,RI Walker,1,0,,,,,,"",""
+ball,2,15.6,Yorkshire,Shadab Khan,HC Brook,RI Walker,1,0,,,,,,"",""
+ball,2,16.1,Yorkshire,Shadab Khan,HC Brook,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,16.2,Yorkshire,HC Brook,Shadab Khan,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,16.3,Yorkshire,Shadab Khan,HC Brook,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,16.4,Yorkshire,Shadab Khan,HC Brook,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,16.5,Yorkshire,Shadab Khan,HC Brook,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,16.6,Yorkshire,Shadab Khan,HC Brook,Naveen-ul-Haq,0,0,,,,,,caught,Shadab Khan
+ball,2,16.7,Yorkshire,JA Thompson,HC Brook,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,16.8,Yorkshire,HC Brook,JA Thompson,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,17.1,Yorkshire,JA Thompson,HC Brook,BWM Mike,0,0,,,,,,"",""
+ball,2,17.2,Yorkshire,JA Thompson,HC Brook,BWM Mike,0,0,,,,,,"",""
+ball,2,17.3,Yorkshire,JA Thompson,HC Brook,BWM Mike,0,0,,,,,,caught,JA Thompson
+ball,2,17.4,Yorkshire,ML Revis,HC Brook,BWM Mike,0,0,,,,,,"",""
+ball,2,17.5,Yorkshire,ML Revis,HC Brook,BWM Mike,1,0,,,,,,"",""
+ball,2,17.6,Yorkshire,HC Brook,ML Revis,BWM Mike,1,0,,,,,,"",""
+ball,2,18.1,Yorkshire,HC Brook,ML Revis,Naveen-ul-Haq,0,0,,,,,,caught,HC Brook
+ball,2,18.2,Yorkshire,DM Bess,ML Revis,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,18.3,Yorkshire,ML Revis,DM Bess,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,18.4,Yorkshire,DM Bess,ML Revis,Naveen-ul-Haq,0,0,,,,,,caught and bowled,DM Bess
+ball,2,18.5,Yorkshire,AU Rashid,ML Revis,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,18.6,Yorkshire,AU Rashid,ML Revis,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,19.1,Yorkshire,ML Revis,AU Rashid,RI Walker,0,0,,,,,,caught,ML Revis
+ball,2,19.2,Yorkshire,Haris Rauf,AU Rashid,RI Walker,4,0,,,,,,"",""
+ball,2,19.3,Yorkshire,Haris Rauf,AU Rashid,RI Walker,1,0,,,,,,"",""
+ball,2,19.4,Yorkshire,AU Rashid,Haris Rauf,RI Walker,1,0,,,,,,"",""
+ball,2,19.5,Yorkshire,Haris Rauf,AU Rashid,RI Walker,0,0,,,,,,"",""
+ball,2,19.6,Yorkshire,Haris Rauf,AU Rashid,RI Walker,0,0,,,,,,"",""

@@ -1,0 +1,299 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Leicestershire
+info,gender,male
+info,season,2025
+info,date,2025/06/04
+info,event,Vitality Blast Men
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Lancashire
+info,toss_decision,bat
+info,umpire,RA Kettleborough
+info,umpire,S Widdup
+info,match_referee,JJ Whitaker
+info,winner,Leicestershire
+info,winner_wickets,5
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,MA Jones
+info,player,Lancashire,AJ Turner
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,CJ Green
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,TH Aspinwall
+info,player,Lancashire,CM Barnard
+info,player,Lancashire,JM Anderson
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,Shan Masood
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,OB Cox
+info,player,Leicestershire,L Trevaskis
+info,player,Leicestershire,LV van Beek
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,RI Walker
+info,player,Leicestershire,MET Salisbury
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CM Barnard,d3a625ec
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,LV van Beek,782fb776
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MA Jones,05f96194
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RI Walker,c78a879c
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,Shan Masood,6843a783
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,TH Aspinwall,00b195ae
+info,registry,people,TW Hartley,22b98d7c
+ball,1,0.1,Lancashire,LWP Wells,KK Jennings,MET Salisbury,1,0,,,,,,"",""
+ball,1,0.2,Lancashire,KK Jennings,LWP Wells,MET Salisbury,0,0,,,,,,"",""
+ball,1,0.3,Lancashire,KK Jennings,LWP Wells,MET Salisbury,4,0,,,,,,"",""
+ball,1,0.4,Lancashire,KK Jennings,LWP Wells,MET Salisbury,1,0,,,,,,"",""
+ball,1,0.5,Lancashire,LWP Wells,KK Jennings,MET Salisbury,0,0,,,,,,"",""
+ball,1,0.6,Lancashire,LWP Wells,KK Jennings,MET Salisbury,4,0,,,,,,"",""
+ball,1,1.1,Lancashire,KK Jennings,LWP Wells,LPJ Kimber,4,0,,,,,,"",""
+ball,1,1.2,Lancashire,KK Jennings,LWP Wells,LPJ Kimber,0,0,,,,,,"",""
+ball,1,1.3,Lancashire,KK Jennings,LWP Wells,LPJ Kimber,1,0,,,,,,"",""
+ball,1,1.4,Lancashire,LWP Wells,KK Jennings,LPJ Kimber,0,0,,,,,,"",""
+ball,1,1.5,Lancashire,LWP Wells,KK Jennings,LPJ Kimber,0,0,,,,,,caught,LWP Wells
+ball,1,1.6,Lancashire,MF Hurst,KK Jennings,LPJ Kimber,0,0,,,,,,"",""
+ball,1,2.1,Lancashire,KK Jennings,MF Hurst,LV van Beek,0,0,,,,,,"",""
+ball,1,2.2,Lancashire,KK Jennings,MF Hurst,LV van Beek,1,0,,,,,,"",""
+ball,1,2.3,Lancashire,MF Hurst,KK Jennings,LV van Beek,1,0,,,,,,"",""
+ball,1,2.4,Lancashire,KK Jennings,MF Hurst,LV van Beek,2,0,,,,,,"",""
+ball,1,2.5,Lancashire,KK Jennings,MF Hurst,LV van Beek,2,0,,,,,,"",""
+ball,1,2.6,Lancashire,KK Jennings,MF Hurst,LV van Beek,1,0,,,,,,"",""
+ball,1,3.1,Lancashire,KK Jennings,MF Hurst,LPJ Kimber,0,0,,,,,,"",""
+ball,1,3.2,Lancashire,KK Jennings,MF Hurst,LPJ Kimber,4,0,,,,,,"",""
+ball,1,3.3,Lancashire,KK Jennings,MF Hurst,LPJ Kimber,6,0,,,,,,"",""
+ball,1,3.4,Lancashire,KK Jennings,MF Hurst,LPJ Kimber,4,0,,,,,,"",""
+ball,1,3.5,Lancashire,KK Jennings,MF Hurst,LPJ Kimber,1,0,,,,,,"",""
+ball,1,3.6,Lancashire,MF Hurst,KK Jennings,LPJ Kimber,0,0,,,,,,"",""
+ball,1,4.1,Lancashire,KK Jennings,MF Hurst,MET Salisbury,4,0,,,,,,"",""
+ball,1,4.2,Lancashire,KK Jennings,MF Hurst,MET Salisbury,4,0,,,,,,"",""
+ball,1,4.3,Lancashire,KK Jennings,MF Hurst,MET Salisbury,0,0,,,,,,caught,KK Jennings
+ball,1,4.4,Lancashire,MA Jones,MF Hurst,MET Salisbury,1,0,,,,,,"",""
+ball,1,4.5,Lancashire,MF Hurst,MA Jones,MET Salisbury,2,0,,,,,,"",""
+ball,1,4.6,Lancashire,MF Hurst,MA Jones,MET Salisbury,3,0,,,,,,"",""
+ball,1,5.1,Lancashire,MF Hurst,MA Jones,LV van Beek,6,0,,,,,,"",""
+ball,1,5.2,Lancashire,MF Hurst,MA Jones,LV van Beek,2,0,,,,,,"",""
+ball,1,5.3,Lancashire,MF Hurst,MA Jones,LV van Beek,0,0,,,,,,"",""
+ball,1,5.4,Lancashire,MF Hurst,MA Jones,LV van Beek,0,0,,,,,,"",""
+ball,1,5.5,Lancashire,MF Hurst,MA Jones,LV van Beek,2,0,,,,,,"",""
+ball,1,5.6,Lancashire,MF Hurst,MA Jones,LV van Beek,0,0,,,,,,"",""
+ball,1,6.1,Lancashire,MA Jones,MF Hurst,Rehan Ahmed,0,1,1,,,,,"",""
+ball,1,6.2,Lancashire,MA Jones,MF Hurst,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,6.3,Lancashire,MA Jones,MF Hurst,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,6.4,Lancashire,MF Hurst,MA Jones,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,6.5,Lancashire,MA Jones,MF Hurst,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,6.6,Lancashire,MA Jones,MF Hurst,Rehan Ahmed,0,0,,,,,,bowled,MA Jones
+ball,1,6.7,Lancashire,AJ Turner,MF Hurst,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,7.1,Lancashire,MF Hurst,AJ Turner,LPJ Kimber,0,0,,,,,,"",""
+ball,1,7.2,Lancashire,MF Hurst,AJ Turner,LPJ Kimber,1,0,,,,,,"",""
+ball,1,7.3,Lancashire,AJ Turner,MF Hurst,LPJ Kimber,1,0,,,,,,"",""
+ball,1,7.4,Lancashire,MF Hurst,AJ Turner,LPJ Kimber,1,0,,,,,,"",""
+ball,1,7.5,Lancashire,AJ Turner,MF Hurst,LPJ Kimber,1,0,,,,,,"",""
+ball,1,7.6,Lancashire,MF Hurst,AJ Turner,LPJ Kimber,1,0,,,,,,"",""
+ball,1,8.1,Lancashire,MF Hurst,AJ Turner,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,8.2,Lancashire,AJ Turner,MF Hurst,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,8.3,Lancashire,AJ Turner,MF Hurst,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,8.4,Lancashire,AJ Turner,MF Hurst,Rehan Ahmed,0,0,,,,,,bowled,AJ Turner
+ball,1,8.5,Lancashire,JJ Bohannon,MF Hurst,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,8.6,Lancashire,MF Hurst,JJ Bohannon,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,9.1,Lancashire,JJ Bohannon,MF Hurst,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.2,Lancashire,MF Hurst,JJ Bohannon,L Trevaskis,0,0,,,,,,"",""
+ball,1,9.3,Lancashire,MF Hurst,JJ Bohannon,L Trevaskis,2,0,,,,,,"",""
+ball,1,9.4,Lancashire,MF Hurst,JJ Bohannon,L Trevaskis,0,0,,,,,,"",""
+ball,1,9.5,Lancashire,MF Hurst,JJ Bohannon,L Trevaskis,1,0,,,,,,"",""
+ball,1,9.6,Lancashire,JJ Bohannon,MF Hurst,L Trevaskis,1,0,,,,,,"",""
+ball,1,10.1,Lancashire,JJ Bohannon,MF Hurst,LPJ Kimber,1,0,,,,,,"",""
+ball,1,10.2,Lancashire,MF Hurst,JJ Bohannon,LPJ Kimber,1,0,,,,,,"",""
+ball,1,10.3,Lancashire,JJ Bohannon,MF Hurst,LPJ Kimber,1,0,,,,,,"",""
+ball,1,10.4,Lancashire,MF Hurst,JJ Bohannon,LPJ Kimber,1,0,,,,,,"",""
+ball,1,10.5,Lancashire,JJ Bohannon,MF Hurst,LPJ Kimber,1,0,,,,,,"",""
+ball,1,10.6,Lancashire,MF Hurst,JJ Bohannon,LPJ Kimber,1,0,,,,,,"",""
+ball,1,11.1,Lancashire,MF Hurst,JJ Bohannon,L Trevaskis,4,0,,,,,,"",""
+ball,1,11.2,Lancashire,MF Hurst,JJ Bohannon,L Trevaskis,1,0,,,,,,"",""
+ball,1,11.3,Lancashire,JJ Bohannon,MF Hurst,L Trevaskis,0,0,,,,,,"",""
+ball,1,11.4,Lancashire,JJ Bohannon,MF Hurst,L Trevaskis,1,0,,,,,,"",""
+ball,1,11.5,Lancashire,MF Hurst,JJ Bohannon,L Trevaskis,0,0,,,,,,"",""
+ball,1,11.6,Lancashire,MF Hurst,JJ Bohannon,L Trevaskis,0,0,,,,,,caught,MF Hurst
+ball,1,12.1,Lancashire,JJ Bohannon,CJ Green,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,12.2,Lancashire,CJ Green,JJ Bohannon,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,12.3,Lancashire,JJ Bohannon,CJ Green,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,12.4,Lancashire,CJ Green,JJ Bohannon,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,12.5,Lancashire,JJ Bohannon,CJ Green,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,12.6,Lancashire,CJ Green,JJ Bohannon,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,13.1,Lancashire,CJ Green,JJ Bohannon,L Trevaskis,1,0,,,,,,"",""
+ball,1,13.2,Lancashire,JJ Bohannon,CJ Green,L Trevaskis,0,0,,,,,,stumped,JJ Bohannon
+ball,1,13.3,Lancashire,TW Hartley,CJ Green,L Trevaskis,1,0,,,,,,"",""
+ball,1,13.4,Lancashire,CJ Green,TW Hartley,L Trevaskis,0,0,,,,,,"",""
+ball,1,13.5,Lancashire,CJ Green,TW Hartley,L Trevaskis,0,0,,,,,,"",""
+ball,1,13.6,Lancashire,CJ Green,TW Hartley,L Trevaskis,1,0,,,,,,"",""
+ball,1,14.1,Lancashire,CJ Green,TW Hartley,RI Walker,1,0,,,,,,"",""
+ball,1,14.2,Lancashire,TW Hartley,CJ Green,RI Walker,4,0,,,,,,"",""
+ball,1,14.3,Lancashire,TW Hartley,CJ Green,RI Walker,1,0,,,,,,"",""
+ball,1,14.4,Lancashire,CJ Green,TW Hartley,RI Walker,0,0,,,,,,"",""
+ball,1,14.5,Lancashire,CJ Green,TW Hartley,RI Walker,1,0,,,,,,"",""
+ball,1,14.6,Lancashire,TW Hartley,CJ Green,RI Walker,2,0,,,,,,"",""
+ball,1,15.1,Lancashire,CJ Green,TW Hartley,L Trevaskis,0,0,,,,,,"",""
+ball,1,15.2,Lancashire,CJ Green,TW Hartley,L Trevaskis,1,0,,,,,,"",""
+ball,1,15.3,Lancashire,TW Hartley,CJ Green,L Trevaskis,1,0,,,,,,"",""
+ball,1,15.4,Lancashire,CJ Green,TW Hartley,L Trevaskis,0,0,,,,,,"",""
+ball,1,15.5,Lancashire,CJ Green,TW Hartley,L Trevaskis,1,0,,,,,,"",""
+ball,1,15.6,Lancashire,TW Hartley,CJ Green,L Trevaskis,0,0,,,,,,"",""
+ball,1,16.1,Lancashire,CJ Green,TW Hartley,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,16.2,Lancashire,TW Hartley,CJ Green,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,16.3,Lancashire,CJ Green,TW Hartley,Rehan Ahmed,2,0,,,,,,"",""
+ball,1,16.4,Lancashire,CJ Green,TW Hartley,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,16.5,Lancashire,TW Hartley,CJ Green,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,16.6,Lancashire,TW Hartley,CJ Green,Rehan Ahmed,0,0,,,,,,bowled,TW Hartley
+ball,1,17.1,Lancashire,CJ Green,TH Aspinwall,LV van Beek,1,0,,,,,,"",""
+ball,1,17.2,Lancashire,TH Aspinwall,CJ Green,LV van Beek,1,0,,,,,,"",""
+ball,1,17.3,Lancashire,CJ Green,TH Aspinwall,LV van Beek,1,0,,,,,,"",""
+ball,1,17.4,Lancashire,TH Aspinwall,CJ Green,LV van Beek,1,0,,,,,,"",""
+ball,1,17.5,Lancashire,CJ Green,TH Aspinwall,LV van Beek,1,0,,,,,,"",""
+ball,1,17.6,Lancashire,TH Aspinwall,CJ Green,LV van Beek,4,0,,,,,,"",""
+ball,1,18.1,Lancashire,CJ Green,TH Aspinwall,MET Salisbury,2,0,,,,,,"",""
+ball,1,18.2,Lancashire,CJ Green,TH Aspinwall,MET Salisbury,0,0,,,,,,"",""
+ball,1,18.3,Lancashire,CJ Green,TH Aspinwall,MET Salisbury,2,0,,,,,,"",""
+ball,1,18.4,Lancashire,CJ Green,TH Aspinwall,MET Salisbury,2,0,,,,,,"",""
+ball,1,18.5,Lancashire,CJ Green,TH Aspinwall,MET Salisbury,2,0,,,,,,"",""
+ball,1,18.6,Lancashire,CJ Green,TH Aspinwall,MET Salisbury,6,0,,,,,,"",""
+ball,1,19.1,Lancashire,TH Aspinwall,CJ Green,LV van Beek,0,0,,,,,,"",""
+ball,1,19.2,Lancashire,TH Aspinwall,CJ Green,LV van Beek,0,0,,,,,,"",""
+ball,1,19.3,Lancashire,TH Aspinwall,CJ Green,LV van Beek,1,0,,,,,,"",""
+ball,1,19.4,Lancashire,CJ Green,TH Aspinwall,LV van Beek,2,0,,,,,,"",""
+ball,1,19.5,Lancashire,CJ Green,TH Aspinwall,LV van Beek,0,1,1,,,,,"",""
+ball,1,19.6,Lancashire,CJ Green,TH Aspinwall,LV van Beek,0,0,,,,,,"",""
+ball,1,19.7,Lancashire,CJ Green,TH Aspinwall,LV van Beek,4,0,,,,,,"",""
+ball,2,0.1,Leicestershire,RK Patel,SG Budinger,JM Anderson,1,0,,,,,,"",""
+ball,2,0.2,Leicestershire,SG Budinger,RK Patel,JM Anderson,0,0,,,,,,"",""
+ball,2,0.3,Leicestershire,SG Budinger,RK Patel,JM Anderson,1,0,,,,,,"",""
+ball,2,0.4,Leicestershire,RK Patel,SG Budinger,JM Anderson,0,0,,,,,,"",""
+ball,2,0.5,Leicestershire,RK Patel,SG Budinger,JM Anderson,4,0,,,,,,"",""
+ball,2,0.6,Leicestershire,RK Patel,SG Budinger,JM Anderson,1,0,,,,,,"",""
+ball,2,1.1,Leicestershire,RK Patel,SG Budinger,CJ Green,0,1,1,,,,,"",""
+ball,2,1.2,Leicestershire,RK Patel,SG Budinger,CJ Green,1,0,,,,,,"",""
+ball,2,1.3,Leicestershire,SG Budinger,RK Patel,CJ Green,1,0,,,,,,"",""
+ball,2,1.4,Leicestershire,RK Patel,SG Budinger,CJ Green,0,0,,,,,,lbw,RK Patel
+ball,2,1.5,Leicestershire,LPJ Kimber,SG Budinger,CJ Green,0,0,,,,,,"",""
+ball,2,1.6,Leicestershire,LPJ Kimber,SG Budinger,CJ Green,0,0,,,,,,"",""
+ball,2,1.7,Leicestershire,LPJ Kimber,SG Budinger,CJ Green,0,0,,,,,,"",""
+ball,2,2.1,Leicestershire,SG Budinger,LPJ Kimber,JM Anderson,1,0,,,,,,"",""
+ball,2,2.2,Leicestershire,LPJ Kimber,SG Budinger,JM Anderson,1,0,,,,,,"",""
+ball,2,2.3,Leicestershire,SG Budinger,LPJ Kimber,JM Anderson,0,0,,,,,,"",""
+ball,2,2.4,Leicestershire,SG Budinger,LPJ Kimber,JM Anderson,0,0,,,,,,caught,SG Budinger
+ball,2,2.5,Leicestershire,Shan Masood,LPJ Kimber,JM Anderson,1,0,,,,,,"",""
+ball,2,2.6,Leicestershire,LPJ Kimber,Shan Masood,JM Anderson,1,0,,,,,,"",""
+ball,2,3.1,Leicestershire,LPJ Kimber,Shan Masood,TW Hartley,0,0,,,,,,"",""
+ball,2,3.2,Leicestershire,LPJ Kimber,Shan Masood,TW Hartley,4,0,,,,,,"",""
+ball,2,3.3,Leicestershire,LPJ Kimber,Shan Masood,TW Hartley,0,0,,,,,,"",""
+ball,2,3.4,Leicestershire,LPJ Kimber,Shan Masood,TW Hartley,4,0,,,,,,"",""
+ball,2,3.5,Leicestershire,LPJ Kimber,Shan Masood,TW Hartley,1,0,,,,,,"",""
+ball,2,3.6,Leicestershire,Shan Masood,LPJ Kimber,TW Hartley,1,0,,,,,,"",""
+ball,2,4.1,Leicestershire,Shan Masood,LPJ Kimber,JM Anderson,1,0,,,,,,"",""
+ball,2,4.2,Leicestershire,LPJ Kimber,Shan Masood,JM Anderson,2,0,,,,,,"",""
+ball,2,4.3,Leicestershire,LPJ Kimber,Shan Masood,JM Anderson,1,0,,,,,,"",""
+ball,2,4.4,Leicestershire,Shan Masood,LPJ Kimber,JM Anderson,1,0,,,,,,"",""
+ball,2,4.5,Leicestershire,LPJ Kimber,Shan Masood,JM Anderson,6,0,,,,,,"",""
+ball,2,4.6,Leicestershire,LPJ Kimber,Shan Masood,JM Anderson,1,0,,,,,,"",""
+ball,2,5.1,Leicestershire,LPJ Kimber,Shan Masood,CJ Green,4,0,,,,,,"",""
+ball,2,5.2,Leicestershire,LPJ Kimber,Shan Masood,CJ Green,6,0,,,,,,"",""
+ball,2,5.3,Leicestershire,LPJ Kimber,Shan Masood,CJ Green,1,0,,,,,,"",""
+ball,2,5.4,Leicestershire,Shan Masood,LPJ Kimber,CJ Green,0,0,,,,,,bowled,Shan Masood
+ball,2,5.5,Leicestershire,Rehan Ahmed,LPJ Kimber,CJ Green,0,5,5,,,,,"",""
+ball,2,5.6,Leicestershire,Rehan Ahmed,LPJ Kimber,CJ Green,0,0,,,,,,"",""
+ball,2,5.7,Leicestershire,Rehan Ahmed,LPJ Kimber,CJ Green,0,0,,,,,,"",""
+ball,2,6.1,Leicestershire,LPJ Kimber,Rehan Ahmed,CM Barnard,0,0,,,,,,"",""
+ball,2,6.2,Leicestershire,LPJ Kimber,Rehan Ahmed,CM Barnard,1,0,,,,,,"",""
+ball,2,6.3,Leicestershire,Rehan Ahmed,LPJ Kimber,CM Barnard,1,0,,,,,,"",""
+ball,2,6.4,Leicestershire,LPJ Kimber,Rehan Ahmed,CM Barnard,1,0,,,,,,"",""
+ball,2,6.5,Leicestershire,Rehan Ahmed,LPJ Kimber,CM Barnard,1,0,,,,,,"",""
+ball,2,6.6,Leicestershire,LPJ Kimber,Rehan Ahmed,CM Barnard,6,0,,,,,,"",""
+ball,2,7.1,Leicestershire,Rehan Ahmed,LPJ Kimber,TW Hartley,1,0,,,,,,"",""
+ball,2,7.2,Leicestershire,LPJ Kimber,Rehan Ahmed,TW Hartley,0,0,,,,,,caught,LPJ Kimber
+ball,2,7.3,Leicestershire,OB Cox,Rehan Ahmed,TW Hartley,1,0,,,,,,"",""
+ball,2,7.4,Leicestershire,Rehan Ahmed,OB Cox,TW Hartley,1,0,,,,,,"",""
+ball,2,7.5,Leicestershire,OB Cox,Rehan Ahmed,TW Hartley,1,0,,,,,,"",""
+ball,2,7.6,Leicestershire,Rehan Ahmed,OB Cox,TW Hartley,4,0,,,,,,"",""
+ball,2,8.1,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,1,0,,,,,,"",""
+ball,2,8.2,Leicestershire,Rehan Ahmed,OB Cox,LWP Wells,1,0,,,,,,"",""
+ball,2,8.3,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,0,0,,,,,,"",""
+ball,2,8.4,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,2,0,,,,,,"",""
+ball,2,8.5,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,0,0,,,,,,"",""
+ball,2,8.6,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,2,0,,,,,,"",""
+ball,2,9.1,Leicestershire,Rehan Ahmed,OB Cox,CM Barnard,6,0,,,,,,"",""
+ball,2,9.2,Leicestershire,Rehan Ahmed,OB Cox,CM Barnard,1,0,,,,,,"",""
+ball,2,9.3,Leicestershire,OB Cox,Rehan Ahmed,CM Barnard,1,0,,,,,,"",""
+ball,2,9.4,Leicestershire,Rehan Ahmed,OB Cox,CM Barnard,1,0,,,,,,"",""
+ball,2,9.5,Leicestershire,OB Cox,Rehan Ahmed,CM Barnard,0,0,,,,,,"",""
+ball,2,9.6,Leicestershire,OB Cox,Rehan Ahmed,CM Barnard,1,0,,,,,,"",""
+ball,2,10.1,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,1,0,,,,,,"",""
+ball,2,10.2,Leicestershire,Rehan Ahmed,OB Cox,LWP Wells,0,0,,,,,,"",""
+ball,2,10.3,Leicestershire,Rehan Ahmed,OB Cox,LWP Wells,1,0,,,,,,"",""
+ball,2,10.4,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,2,0,,,,,,"",""
+ball,2,10.5,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,1,0,,,,,,"",""
+ball,2,10.6,Leicestershire,Rehan Ahmed,OB Cox,LWP Wells,0,0,,,,,,"",""
+ball,2,11.1,Leicestershire,OB Cox,Rehan Ahmed,TH Aspinwall,4,0,,,,,,"",""
+ball,2,11.2,Leicestershire,OB Cox,Rehan Ahmed,TH Aspinwall,1,0,,,,,,"",""
+ball,2,11.3,Leicestershire,Rehan Ahmed,OB Cox,TH Aspinwall,0,0,,,,,,"",""
+ball,2,11.4,Leicestershire,Rehan Ahmed,OB Cox,TH Aspinwall,4,0,,,,,,"",""
+ball,2,11.5,Leicestershire,Rehan Ahmed,OB Cox,TH Aspinwall,1,0,,,,,,"",""
+ball,2,11.6,Leicestershire,OB Cox,Rehan Ahmed,TH Aspinwall,1,0,,,,,,"",""
+ball,2,12.1,Leicestershire,OB Cox,Rehan Ahmed,TW Hartley,1,0,,,,,,"",""
+ball,2,12.2,Leicestershire,Rehan Ahmed,OB Cox,TW Hartley,0,0,,,,,,"",""
+ball,2,12.3,Leicestershire,Rehan Ahmed,OB Cox,TW Hartley,2,0,,,,,,"",""
+ball,2,12.4,Leicestershire,Rehan Ahmed,OB Cox,TW Hartley,1,0,,,,,,"",""
+ball,2,12.5,Leicestershire,OB Cox,Rehan Ahmed,TW Hartley,0,0,,,,,,"",""
+ball,2,12.6,Leicestershire,OB Cox,Rehan Ahmed,TW Hartley,1,0,,,,,,"",""
+ball,2,13.1,Leicestershire,OB Cox,Rehan Ahmed,CJ Green,4,0,,,,,,"",""
+ball,2,13.2,Leicestershire,OB Cox,Rehan Ahmed,CJ Green,0,0,,,,,,"",""
+ball,2,13.3,Leicestershire,OB Cox,Rehan Ahmed,CJ Green,0,0,,,,,,"",""
+ball,2,13.4,Leicestershire,OB Cox,Rehan Ahmed,CJ Green,0,0,,,,,,"",""
+ball,2,13.5,Leicestershire,OB Cox,Rehan Ahmed,CJ Green,1,0,,,,,,"",""
+ball,2,13.6,Leicestershire,Rehan Ahmed,OB Cox,CJ Green,0,0,,,,,,"",""
+ball,2,14.1,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,2,0,,,,,,"",""
+ball,2,14.2,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,4,0,,,,,,"",""
+ball,2,14.3,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,1,0,,,,,,"",""
+ball,2,14.4,Leicestershire,Rehan Ahmed,OB Cox,LWP Wells,1,0,,,,,,"",""
+ball,2,14.5,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,0,0,,,,,,"",""
+ball,2,14.6,Leicestershire,OB Cox,Rehan Ahmed,LWP Wells,1,0,,,,,,"",""
+ball,2,15.1,Leicestershire,OB Cox,Rehan Ahmed,CM Barnard,1,0,,,,,,"",""
+ball,2,15.2,Leicestershire,Rehan Ahmed,OB Cox,CM Barnard,0,0,,,,,,bowled,Rehan Ahmed
+ball,2,15.3,Leicestershire,L Trevaskis,OB Cox,CM Barnard,4,0,,,,,,"",""
+ball,2,15.4,Leicestershire,L Trevaskis,OB Cox,CM Barnard,1,0,,,,,,"",""
+ball,2,15.5,Leicestershire,OB Cox,L Trevaskis,CM Barnard,0,0,,,,,,"",""
+ball,2,15.6,Leicestershire,OB Cox,L Trevaskis,CM Barnard,0,0,,,,,,"",""
+ball,2,16.1,Leicestershire,L Trevaskis,OB Cox,LWP Wells,0,0,,,,,,"",""
+ball,2,16.2,Leicestershire,L Trevaskis,OB Cox,LWP Wells,1,0,,,,,,"",""
+ball,2,16.3,Leicestershire,OB Cox,L Trevaskis,LWP Wells,0,0,,,,,,"",""
+ball,2,16.4,Leicestershire,OB Cox,L Trevaskis,LWP Wells,0,0,,,,,,"",""
+ball,2,16.5,Leicestershire,OB Cox,L Trevaskis,LWP Wells,1,0,,,,,,"",""
+ball,2,16.6,Leicestershire,L Trevaskis,OB Cox,LWP Wells,4,0,,,,,,"",""
+ball,2,17.1,Leicestershire,OB Cox,L Trevaskis,CJ Green,0,0,,,,,,"",""
+ball,2,17.2,Leicestershire,OB Cox,L Trevaskis,CJ Green,1,0,,,,,,"",""
+ball,2,17.3,Leicestershire,L Trevaskis,OB Cox,CJ Green,1,0,,,,,,"",""
+ball,2,17.4,Leicestershire,OB Cox,L Trevaskis,CJ Green,1,0,,,,,,"",""
+ball,2,17.5,Leicestershire,L Trevaskis,OB Cox,CJ Green,2,0,,,,,,"",""
+ball,2,17.6,Leicestershire,L Trevaskis,OB Cox,CJ Green,1,0,,,,,,"",""
+ball,2,18.1,Leicestershire,L Trevaskis,OB Cox,TW Hartley,0,2,,,2,,,"",""
+ball,2,18.2,Leicestershire,L Trevaskis,OB Cox,TW Hartley,4,0,,,,,,"",""
+ball,2,18.3,Leicestershire,L Trevaskis,OB Cox,TW Hartley,4,0,,,,,,"",""

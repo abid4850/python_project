@@ -1,0 +1,247 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Canterbury
+info,gender,male
+info,season,2025/26
+info,date,2026/01/30
+info,event,Super Smash
+info,venue,"Hagley Oval, Christchurch"
+info,city,Christchurch
+info,toss_winner,Auckland
+info,toss_decision,bat
+info,umpire,GG Pennell
+info,umpire,Kim Cotton
+info,reserve_umpire,BF Bowden
+info,tv_umpire,KS Jagannathan
+info,match_referee,SB O'Connor
+info,winner,Canterbury
+info,winner_wickets,9
+info,player,Auckland,DN Phillips
+info,player,Auckland,C Munro
+info,player,Auckland,AA Jones
+info,player,Auckland,LN Stackpole
+info,player,Auckland,RD Harrison
+info,player,Auckland,SM Solia
+info,player,Auckland,S Dixit
+info,player,Auckland,A Ashok
+info,player,Auckland,AL Olliver
+info,player,Auckland,H Johal
+info,player,Auckland,RK Gulati
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,MWT Boyle
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,LLB Harper
+info,player,Canterbury,SB Davey
+info,player,Canterbury,FW Sheat
+info,player,Canterbury,MD Rae
+info,registry,people,A Ashok,321be7e3
+info,registry,people,AA Jones,549e0f4e
+info,registry,people,AL Olliver,9b05c1c1
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,C Munro,af2c687b
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GG Pennell,d9376677
+info,registry,people,H Johal,54bd6664
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,LLB Harper,2bdd2350
+info,registry,people,LN Stackpole,66c59019
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MWT Boyle,b42d5053
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,RK Gulati,f5da80da
+info,registry,people,S Dixit,85ec63b5
+info,registry,people,SB Davey,f45cd5c8
+info,registry,people,SB O'Connor,4e80ab93
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TWM Latham,e824e6ee
+ball,1,0.1,Auckland,DN Phillips,C Munro,FW Sheat,0,0,,,,,,"",""
+ball,1,0.2,Auckland,DN Phillips,C Munro,FW Sheat,0,0,,,,,,"",""
+ball,1,0.3,Auckland,DN Phillips,C Munro,FW Sheat,0,0,,,,,,"",""
+ball,1,0.4,Auckland,DN Phillips,C Munro,FW Sheat,0,1,,,,1,,"",""
+ball,1,0.5,Auckland,C Munro,DN Phillips,FW Sheat,1,0,,,,,,"",""
+ball,1,0.6,Auckland,DN Phillips,C Munro,FW Sheat,2,0,,,,,,"",""
+ball,1,1.1,Auckland,C Munro,DN Phillips,MD Rae,2,0,,,,,,"",""
+ball,1,1.2,Auckland,C Munro,DN Phillips,MD Rae,4,0,,,,,,"",""
+ball,1,1.3,Auckland,C Munro,DN Phillips,MD Rae,4,0,,,,,,"",""
+ball,1,1.4,Auckland,C Munro,DN Phillips,MD Rae,1,0,,,,,,"",""
+ball,1,1.5,Auckland,DN Phillips,C Munro,MD Rae,6,0,,,,,,"",""
+ball,1,1.6,Auckland,DN Phillips,C Munro,MD Rae,1,0,,,,,,"",""
+ball,1,2.1,Auckland,DN Phillips,C Munro,FW Sheat,0,0,,,,,,"",""
+ball,1,2.2,Auckland,DN Phillips,C Munro,FW Sheat,0,0,,,,,,caught and bowled,DN Phillips
+ball,1,2.3,Auckland,AA Jones,C Munro,FW Sheat,0,0,,,,,,"",""
+ball,1,2.4,Auckland,AA Jones,C Munro,FW Sheat,0,0,,,,,,"",""
+ball,1,2.5,Auckland,AA Jones,C Munro,FW Sheat,0,0,,,,,,"",""
+ball,1,2.6,Auckland,AA Jones,C Munro,FW Sheat,1,0,,,,,,"",""
+ball,1,3.1,Auckland,AA Jones,C Munro,MD Rae,4,0,,,,,,"",""
+ball,1,3.2,Auckland,AA Jones,C Munro,MD Rae,1,0,,,,,,"",""
+ball,1,3.3,Auckland,C Munro,AA Jones,MD Rae,0,0,,,,,,run out,AA Jones
+ball,1,3.4,Auckland,C Munro,LN Stackpole,MD Rae,0,0,,,,,,caught,C Munro
+ball,1,3.5,Auckland,RD Harrison,LN Stackpole,MD Rae,0,0,,,,,,"",""
+ball,1,3.6,Auckland,RD Harrison,LN Stackpole,MD Rae,0,0,,,,,,"",""
+ball,1,4.1,Auckland,LN Stackpole,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,4.2,Auckland,LN Stackpole,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,4.3,Auckland,LN Stackpole,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,4.4,Auckland,LN Stackpole,RD Harrison,LLB Harper,0,2,,1,,1,,"",""
+ball,1,4.5,Auckland,RD Harrison,LN Stackpole,LLB Harper,0,0,,,,,,"",""
+ball,1,4.6,Auckland,RD Harrison,LN Stackpole,LLB Harper,4,0,,,,,,"",""
+ball,1,4.7,Auckland,RD Harrison,LN Stackpole,LLB Harper,0,0,,,,,,"",""
+ball,1,5.1,Auckland,LN Stackpole,RD Harrison,SB Davey,4,0,,,,,,"",""
+ball,1,5.2,Auckland,LN Stackpole,RD Harrison,SB Davey,1,0,,,,,,"",""
+ball,1,5.3,Auckland,RD Harrison,LN Stackpole,SB Davey,1,0,,,,,,"",""
+ball,1,5.4,Auckland,LN Stackpole,RD Harrison,SB Davey,0,0,,,,,,caught,LN Stackpole
+ball,1,5.5,Auckland,SM Solia,RD Harrison,SB Davey,0,0,,,,,,"",""
+ball,1,5.6,Auckland,SM Solia,RD Harrison,SB Davey,0,0,,,,,,"",""
+ball,1,6.1,Auckland,RD Harrison,SM Solia,LLB Harper,1,0,,,,,,"",""
+ball,1,6.2,Auckland,SM Solia,RD Harrison,LLB Harper,1,0,,,,,,"",""
+ball,1,6.3,Auckland,RD Harrison,SM Solia,LLB Harper,1,0,,,,,,"",""
+ball,1,6.4,Auckland,SM Solia,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,6.5,Auckland,SM Solia,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,6.6,Auckland,SM Solia,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,7.1,Auckland,RD Harrison,SM Solia,SB Davey,1,0,,,,,,"",""
+ball,1,7.2,Auckland,SM Solia,RD Harrison,SB Davey,2,0,,,,,,"",""
+ball,1,7.3,Auckland,SM Solia,RD Harrison,SB Davey,1,0,,,,,,"",""
+ball,1,7.4,Auckland,RD Harrison,SM Solia,SB Davey,1,0,,,,,,"",""
+ball,1,7.5,Auckland,SM Solia,RD Harrison,SB Davey,0,0,,,,,,"",""
+ball,1,7.6,Auckland,SM Solia,RD Harrison,SB Davey,1,0,,,,,,"",""
+ball,1,8.1,Auckland,SM Solia,RD Harrison,CE McConchie,0,0,,,,,,"",""
+ball,1,8.2,Auckland,SM Solia,RD Harrison,CE McConchie,1,0,,,,,,"",""
+ball,1,8.3,Auckland,RD Harrison,SM Solia,CE McConchie,1,0,,,,,,"",""
+ball,1,8.4,Auckland,SM Solia,RD Harrison,CE McConchie,2,0,,,,,,"",""
+ball,1,8.5,Auckland,SM Solia,RD Harrison,CE McConchie,1,0,,,,,,"",""
+ball,1,8.6,Auckland,RD Harrison,SM Solia,CE McConchie,2,0,,,,,,"",""
+ball,1,9.1,Auckland,SM Solia,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,9.2,Auckland,SM Solia,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,9.3,Auckland,SM Solia,RD Harrison,LLB Harper,1,0,,,,,,"",""
+ball,1,9.4,Auckland,RD Harrison,SM Solia,LLB Harper,0,0,,,,,,"",""
+ball,1,9.5,Auckland,RD Harrison,SM Solia,LLB Harper,1,0,,,,,,"",""
+ball,1,9.6,Auckland,SM Solia,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,10.1,Auckland,RD Harrison,SM Solia,CE McConchie,1,0,,,,,,"",""
+ball,1,10.2,Auckland,SM Solia,RD Harrison,CE McConchie,1,0,,,,,,"",""
+ball,1,10.3,Auckland,RD Harrison,SM Solia,CE McConchie,4,0,,,,,,"",""
+ball,1,10.4,Auckland,RD Harrison,SM Solia,CE McConchie,0,0,,,,,,"",""
+ball,1,10.5,Auckland,RD Harrison,SM Solia,CE McConchie,1,0,,,,,,"",""
+ball,1,10.6,Auckland,SM Solia,RD Harrison,CE McConchie,0,0,,,,,,"",""
+ball,1,11.1,Auckland,RD Harrison,SM Solia,SB Davey,2,0,,,,,,"",""
+ball,1,11.2,Auckland,RD Harrison,SM Solia,SB Davey,0,0,,,,,,"",""
+ball,1,11.3,Auckland,RD Harrison,SM Solia,SB Davey,0,0,,,,,,"",""
+ball,1,11.4,Auckland,RD Harrison,SM Solia,SB Davey,2,0,,,,,,"",""
+ball,1,11.5,Auckland,RD Harrison,SM Solia,SB Davey,0,0,,,,,,"",""
+ball,1,11.6,Auckland,RD Harrison,SM Solia,SB Davey,1,0,,,,,,"",""
+ball,1,12.1,Auckland,RD Harrison,SM Solia,CE McConchie,1,0,,,,,,"",""
+ball,1,12.2,Auckland,SM Solia,RD Harrison,CE McConchie,0,0,,,,,,bowled,SM Solia
+ball,1,12.3,Auckland,S Dixit,RD Harrison,CE McConchie,1,0,,,,,,"",""
+ball,1,12.4,Auckland,RD Harrison,S Dixit,CE McConchie,0,0,,,,,,"",""
+ball,1,12.5,Auckland,RD Harrison,S Dixit,CE McConchie,1,0,,,,,,"",""
+ball,1,12.6,Auckland,S Dixit,RD Harrison,CE McConchie,1,0,,,,,,"",""
+ball,1,13.1,Auckland,S Dixit,RD Harrison,MD Rae,2,0,,,,,,"",""
+ball,1,13.2,Auckland,S Dixit,RD Harrison,MD Rae,4,0,,,,,,"",""
+ball,1,13.3,Auckland,S Dixit,RD Harrison,MD Rae,1,0,,,,,,"",""
+ball,1,13.4,Auckland,RD Harrison,S Dixit,MD Rae,1,0,,,,,,"",""
+ball,1,13.5,Auckland,S Dixit,RD Harrison,MD Rae,0,0,,,,,,"",""
+ball,1,13.6,Auckland,S Dixit,RD Harrison,MD Rae,4,0,,,,,,"",""
+ball,1,14.1,Auckland,RD Harrison,S Dixit,CE McConchie,0,0,,,,,,"",""
+ball,1,14.2,Auckland,RD Harrison,S Dixit,CE McConchie,1,0,,,,,,"",""
+ball,1,14.3,Auckland,S Dixit,RD Harrison,CE McConchie,0,0,,,,,,caught,S Dixit
+ball,1,14.4,Auckland,A Ashok,RD Harrison,CE McConchie,0,0,,,,,,caught and bowled,A Ashok
+ball,1,14.5,Auckland,AL Olliver,RD Harrison,CE McConchie,1,0,,,,,,"",""
+ball,1,14.6,Auckland,RD Harrison,AL Olliver,CE McConchie,0,0,,,,,,"",""
+ball,1,15.1,Auckland,AL Olliver,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,15.2,Auckland,AL Olliver,RD Harrison,LLB Harper,1,0,,,,,,"",""
+ball,1,15.3,Auckland,RD Harrison,AL Olliver,LLB Harper,1,0,,,,,,"",""
+ball,1,15.4,Auckland,AL Olliver,RD Harrison,LLB Harper,0,0,,,,,,"",""
+ball,1,15.5,Auckland,AL Olliver,RD Harrison,LLB Harper,1,0,,,,,,"",""
+ball,1,15.6,Auckland,RD Harrison,AL Olliver,LLB Harper,1,0,,,,,,"",""
+ball,1,16.1,Auckland,RD Harrison,AL Olliver,FW Sheat,0,1,,,,1,,"",""
+ball,1,16.2,Auckland,AL Olliver,RD Harrison,FW Sheat,2,0,,,,,,"",""
+ball,1,16.3,Auckland,AL Olliver,RD Harrison,FW Sheat,1,0,,,,,,"",""
+ball,1,16.4,Auckland,RD Harrison,AL Olliver,FW Sheat,0,0,,,,,,caught,RD Harrison
+ball,1,16.5,Auckland,H Johal,AL Olliver,FW Sheat,0,0,,,,,,"",""
+ball,1,16.6,Auckland,H Johal,AL Olliver,FW Sheat,4,0,,,,,,"",""
+ball,1,17.1,Auckland,AL Olliver,H Johal,MD Rae,1,0,,,,,,"",""
+ball,1,17.2,Auckland,H Johal,AL Olliver,MD Rae,2,0,,,,,,"",""
+ball,1,17.3,Auckland,H Johal,AL Olliver,MD Rae,0,0,,,,,,"",""
+ball,1,17.4,Auckland,H Johal,AL Olliver,MD Rae,0,0,,,,,,"",""
+ball,1,17.5,Auckland,H Johal,AL Olliver,MD Rae,1,0,,,,,,"",""
+ball,1,17.6,Auckland,AL Olliver,H Johal,MD Rae,0,0,,,,,,caught,AL Olliver
+ball,1,18.1,Auckland,H Johal,RK Gulati,FW Sheat,1,0,,,,,,"",""
+ball,1,18.2,Auckland,RK Gulati,H Johal,FW Sheat,0,0,,,,,,"",""
+ball,1,18.3,Auckland,RK Gulati,H Johal,FW Sheat,1,0,,,,,,"",""
+ball,1,18.4,Auckland,H Johal,RK Gulati,FW Sheat,0,0,,,,,,caught,H Johal
+ball,2,0.1,Canterbury,CJ Bowes,TWM Latham,AL Olliver,4,0,,,,,,"",""
+ball,2,0.2,Canterbury,CJ Bowes,TWM Latham,AL Olliver,4,0,,,,,,"",""
+ball,2,0.3,Canterbury,CJ Bowes,TWM Latham,AL Olliver,0,4,,,,4,,"",""
+ball,2,0.4,Canterbury,CJ Bowes,TWM Latham,AL Olliver,0,0,,,,,,"",""
+ball,2,0.5,Canterbury,CJ Bowes,TWM Latham,AL Olliver,4,0,,,,,,"",""
+ball,2,0.6,Canterbury,CJ Bowes,TWM Latham,AL Olliver,0,1,1,,,,,"",""
+ball,2,0.7,Canterbury,CJ Bowes,TWM Latham,AL Olliver,3,0,,,,,,"",""
+ball,2,1.1,Canterbury,CJ Bowes,TWM Latham,H Johal,0,0,,,,,,"",""
+ball,2,1.2,Canterbury,CJ Bowes,TWM Latham,H Johal,4,0,,,,,,"",""
+ball,2,1.3,Canterbury,CJ Bowes,TWM Latham,H Johal,3,0,,,,,,"",""
+ball,2,1.4,Canterbury,TWM Latham,CJ Bowes,H Johal,0,0,,,,,,"",""
+ball,2,1.5,Canterbury,TWM Latham,CJ Bowes,H Johal,2,0,,,,,,"",""
+ball,2,1.6,Canterbury,TWM Latham,CJ Bowes,H Johal,0,1,1,,,,,"",""
+ball,2,1.7,Canterbury,TWM Latham,CJ Bowes,H Johal,0,0,,,,,,"",""
+ball,2,2.1,Canterbury,CJ Bowes,TWM Latham,RD Harrison,1,0,,,,,,"",""
+ball,2,2.2,Canterbury,TWM Latham,CJ Bowes,RD Harrison,0,0,,,,,,caught,TWM Latham
+ball,2,2.3,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,0,0,,,,,,"",""
+ball,2,2.4,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,1,0,,,,,,"",""
+ball,2,2.5,Canterbury,CJ Bowes,HM Nicholls,RD Harrison,0,1,,,,1,,"",""
+ball,2,2.6,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,1,0,,,,,,"",""
+ball,2,3.1,Canterbury,HM Nicholls,CJ Bowes,RK Gulati,1,0,,,,,,"",""
+ball,2,3.2,Canterbury,CJ Bowes,HM Nicholls,RK Gulati,1,0,,,,,,"",""
+ball,2,3.3,Canterbury,HM Nicholls,CJ Bowes,RK Gulati,0,0,,,,,,"",""
+ball,2,3.4,Canterbury,HM Nicholls,CJ Bowes,RK Gulati,0,0,,,,,,"",""
+ball,2,3.5,Canterbury,HM Nicholls,CJ Bowes,RK Gulati,2,0,,,,,,"",""
+ball,2,3.6,Canterbury,HM Nicholls,CJ Bowes,RK Gulati,0,0,,,,,,"",""
+ball,2,4.1,Canterbury,CJ Bowes,HM Nicholls,RD Harrison,1,0,,,,,,"",""
+ball,2,4.2,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,0,0,,,,,,"",""
+ball,2,4.3,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,0,0,,,,,,"",""
+ball,2,4.4,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,0,0,,,,,,"",""
+ball,2,4.5,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,2,0,,,,,,"",""
+ball,2,4.6,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,4,0,,,,,,"",""
+ball,2,5.1,Canterbury,CJ Bowes,HM Nicholls,AL Olliver,2,0,,,,,,"",""
+ball,2,5.2,Canterbury,CJ Bowes,HM Nicholls,AL Olliver,0,0,,,,,,"",""
+ball,2,5.3,Canterbury,CJ Bowes,HM Nicholls,AL Olliver,4,0,,,,,,"",""
+ball,2,5.4,Canterbury,CJ Bowes,HM Nicholls,AL Olliver,2,0,,,,,,"",""
+ball,2,5.5,Canterbury,CJ Bowes,HM Nicholls,AL Olliver,4,0,,,,,,"",""
+ball,2,5.6,Canterbury,CJ Bowes,HM Nicholls,AL Olliver,4,0,,,,,,"",""
+ball,2,6.1,Canterbury,HM Nicholls,CJ Bowes,A Ashok,0,0,,,,,,"",""
+ball,2,6.2,Canterbury,HM Nicholls,CJ Bowes,A Ashok,2,0,,,,,,"",""
+ball,2,6.3,Canterbury,HM Nicholls,CJ Bowes,A Ashok,0,0,,,,,,"",""
+ball,2,6.4,Canterbury,HM Nicholls,CJ Bowes,A Ashok,3,0,,,,,,"",""
+ball,2,6.5,Canterbury,CJ Bowes,HM Nicholls,A Ashok,0,0,,,,,,"",""
+ball,2,6.6,Canterbury,CJ Bowes,HM Nicholls,A Ashok,0,0,,,,,,"",""
+ball,2,7.1,Canterbury,HM Nicholls,CJ Bowes,RK Gulati,0,0,,,,,,"",""
+ball,2,7.2,Canterbury,HM Nicholls,CJ Bowes,RK Gulati,1,0,,,,,,"",""
+ball,2,7.3,Canterbury,CJ Bowes,HM Nicholls,RK Gulati,0,1,1,,,,,"",""
+ball,2,7.4,Canterbury,CJ Bowes,HM Nicholls,RK Gulati,0,0,,,,,,"",""
+ball,2,7.5,Canterbury,CJ Bowes,HM Nicholls,RK Gulati,4,0,,,,,,"",""
+ball,2,7.6,Canterbury,CJ Bowes,HM Nicholls,RK Gulati,3,0,,,,,,"",""
+ball,2,7.7,Canterbury,HM Nicholls,CJ Bowes,RK Gulati,0,0,,,,,,"",""
+ball,2,8.1,Canterbury,CJ Bowes,HM Nicholls,A Ashok,4,0,,,,,,"",""
+ball,2,8.2,Canterbury,CJ Bowes,HM Nicholls,A Ashok,4,0,,,,,,"",""
+ball,2,8.3,Canterbury,CJ Bowes,HM Nicholls,A Ashok,1,0,,,,,,"",""
+ball,2,8.4,Canterbury,HM Nicholls,CJ Bowes,A Ashok,0,0,,,,,,"",""
+ball,2,8.5,Canterbury,HM Nicholls,CJ Bowes,A Ashok,1,0,,,,,,"",""
+ball,2,8.6,Canterbury,CJ Bowes,HM Nicholls,A Ashok,1,0,,,,,,"",""
+ball,2,9.1,Canterbury,CJ Bowes,HM Nicholls,RD Harrison,0,4,,,,4,,"",""
+ball,2,9.2,Canterbury,CJ Bowes,HM Nicholls,RD Harrison,0,1,,,,1,,"",""
+ball,2,9.3,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,0,0,,,,,,"",""
+ball,2,9.4,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,2,0,,,,,,"",""
+ball,2,9.5,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,4,0,,,,,,"",""
+ball,2,9.6,Canterbury,HM Nicholls,CJ Bowes,RD Harrison,4,0,,,,,,"",""
+ball,2,10.1,Canterbury,CJ Bowes,HM Nicholls,S Dixit,1,0,,,,,,"",""
+ball,2,10.2,Canterbury,HM Nicholls,CJ Bowes,S Dixit,2,0,,,,,,"",""
+ball,2,10.3,Canterbury,HM Nicholls,CJ Bowes,S Dixit,4,0,,,,,,"",""

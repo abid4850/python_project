@@ -1,0 +1,246 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Surrey
+info,gender,male
+info,season,2024
+info,date,2024/06/21
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Glamorgan
+info,toss_decision,bat
+info,umpire,ID Blackwell
+info,umpire,Mark Newell
+info,match_referee,AM Smith
+info,winner,Surrey
+info,winner_wickets,9
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,BI Kellaway
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,CB Sole
+info,player,Glamorgan,JP McIlroy
+info,player,Surrey,DW Lawrence
+info,player,Surrey,DP Sibley
+info,player,Surrey,LJ Evans
+info,player,Surrey,OJ Pope
+info,player,Surrey,JL Smith
+info,player,Surrey,RJ Burns
+info,player,Surrey,CT Steel
+info,player,Surrey,J Clark
+info,player,Surrey,SA Abbott
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,SH Johnson
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,BI Kellaway,eafe8a94
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CB Sole,469ccead
+info,registry,people,CT Steel,5899dceb
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,J Clark,c672e80e
+info,registry,people,JL Smith,c834c290
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,RJ Burns,29e8a62e
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SH Johnson,83c3e8e3
+ball,1,0.1,Glamorgan,KS Carlson,SA Northeast,SH Johnson,0,0,,,,,,"",""
+ball,1,0.2,Glamorgan,KS Carlson,SA Northeast,SH Johnson,0,1,1,,,,,"",""
+ball,1,0.3,Glamorgan,KS Carlson,SA Northeast,SH Johnson,0,0,,,,,,"",""
+ball,1,0.4,Glamorgan,KS Carlson,SA Northeast,SH Johnson,0,0,,,,,,"",""
+ball,1,0.5,Glamorgan,KS Carlson,SA Northeast,SH Johnson,0,0,,,,,,"",""
+ball,1,0.6,Glamorgan,KS Carlson,SA Northeast,SH Johnson,1,0,,,,,,"",""
+ball,1,0.7,Glamorgan,SA Northeast,KS Carlson,SH Johnson,4,0,,,,,,"",""
+ball,1,1.1,Glamorgan,KS Carlson,SA Northeast,AAP Atkinson,0,0,,,,,,caught,KS Carlson
+ball,1,1.2,Glamorgan,M Labuschagne,SA Northeast,AAP Atkinson,1,0,,,,,,"",""
+ball,1,1.3,Glamorgan,SA Northeast,M Labuschagne,AAP Atkinson,0,0,,,,,,"",""
+ball,1,1.4,Glamorgan,SA Northeast,M Labuschagne,AAP Atkinson,0,0,,,,,,caught,SA Northeast
+ball,1,1.5,Glamorgan,CA Ingram,M Labuschagne,AAP Atkinson,1,0,,,,,,"",""
+ball,1,1.6,Glamorgan,M Labuschagne,CA Ingram,AAP Atkinson,1,0,,,,,,"",""
+ball,1,2.1,Glamorgan,M Labuschagne,CA Ingram,SH Johnson,0,0,,,,,,"",""
+ball,1,2.2,Glamorgan,M Labuschagne,CA Ingram,SH Johnson,0,0,,,,,,"",""
+ball,1,2.3,Glamorgan,M Labuschagne,CA Ingram,SH Johnson,0,0,,,,,,"",""
+ball,1,2.4,Glamorgan,M Labuschagne,CA Ingram,SH Johnson,0,0,,,,,,"",""
+ball,1,2.5,Glamorgan,M Labuschagne,CA Ingram,SH Johnson,0,0,,,,,,"",""
+ball,1,2.6,Glamorgan,M Labuschagne,CA Ingram,SH Johnson,0,0,,,,,,"",""
+ball,1,3.1,Glamorgan,CA Ingram,M Labuschagne,AAP Atkinson,0,0,,,,,,"",""
+ball,1,3.2,Glamorgan,CA Ingram,M Labuschagne,AAP Atkinson,0,0,,,,,,"",""
+ball,1,3.3,Glamorgan,CA Ingram,M Labuschagne,AAP Atkinson,1,0,,,,,,"",""
+ball,1,3.4,Glamorgan,M Labuschagne,CA Ingram,AAP Atkinson,4,0,,,,,,"",""
+ball,1,3.5,Glamorgan,M Labuschagne,CA Ingram,AAP Atkinson,0,0,,,,,,"",""
+ball,1,3.6,Glamorgan,M Labuschagne,CA Ingram,AAP Atkinson,0,2,,2,,,,"",""
+ball,1,3.7,Glamorgan,M Labuschagne,CA Ingram,AAP Atkinson,0,1,,,,1,,"",""
+ball,1,4.1,Glamorgan,M Labuschagne,CA Ingram,J Clark,1,0,,,,,,"",""
+ball,1,4.2,Glamorgan,CA Ingram,M Labuschagne,J Clark,4,0,,,,,,"",""
+ball,1,4.3,Glamorgan,CA Ingram,M Labuschagne,J Clark,1,0,,,,,,"",""
+ball,1,4.4,Glamorgan,M Labuschagne,CA Ingram,J Clark,6,0,,,,,,"",""
+ball,1,4.5,Glamorgan,M Labuschagne,CA Ingram,J Clark,1,0,,,,,,"",""
+ball,1,4.6,Glamorgan,CA Ingram,M Labuschagne,J Clark,1,0,,,,,,"",""
+ball,1,5.1,Glamorgan,CA Ingram,M Labuschagne,SA Abbott,0,0,,,,,,bowled,CA Ingram
+ball,1,5.2,Glamorgan,CB Cooke,M Labuschagne,SA Abbott,0,0,,,,,,"",""
+ball,1,5.3,Glamorgan,CB Cooke,M Labuschagne,SA Abbott,0,1,,,,1,,"",""
+ball,1,5.4,Glamorgan,M Labuschagne,CB Cooke,SA Abbott,0,0,,,,,,"",""
+ball,1,5.5,Glamorgan,M Labuschagne,CB Cooke,SA Abbott,2,0,,,,,,"",""
+ball,1,5.6,Glamorgan,M Labuschagne,CB Cooke,SA Abbott,0,0,,,,,,"",""
+ball,1,6.1,Glamorgan,CB Cooke,M Labuschagne,CT Steel,1,0,,,,,,"",""
+ball,1,6.2,Glamorgan,M Labuschagne,CB Cooke,CT Steel,0,0,,,,,,"",""
+ball,1,6.3,Glamorgan,M Labuschagne,CB Cooke,CT Steel,2,0,,,,,,"",""
+ball,1,6.4,Glamorgan,M Labuschagne,CB Cooke,CT Steel,1,0,,,,,,"",""
+ball,1,6.5,Glamorgan,CB Cooke,M Labuschagne,CT Steel,1,0,,,,,,"",""
+ball,1,6.6,Glamorgan,M Labuschagne,CB Cooke,CT Steel,1,0,,,,,,"",""
+ball,1,7.1,Glamorgan,M Labuschagne,CB Cooke,DW Lawrence,0,0,,,,,,"",""
+ball,1,7.2,Glamorgan,M Labuschagne,CB Cooke,DW Lawrence,0,0,,,,,,caught,M Labuschagne
+ball,1,7.3,Glamorgan,BI Kellaway,CB Cooke,DW Lawrence,0,0,,,,,,"",""
+ball,1,7.4,Glamorgan,BI Kellaway,CB Cooke,DW Lawrence,1,0,,,,,,"",""
+ball,1,7.5,Glamorgan,CB Cooke,BI Kellaway,DW Lawrence,1,0,,,,,,"",""
+ball,1,7.6,Glamorgan,BI Kellaway,CB Cooke,DW Lawrence,0,0,,,,,,"",""
+ball,1,8.1,Glamorgan,CB Cooke,BI Kellaway,CT Steel,2,0,,,,,,"",""
+ball,1,8.2,Glamorgan,CB Cooke,BI Kellaway,CT Steel,0,0,,,,,,"",""
+ball,1,8.3,Glamorgan,CB Cooke,BI Kellaway,CT Steel,0,0,,,,,,"",""
+ball,1,8.4,Glamorgan,CB Cooke,BI Kellaway,CT Steel,1,0,,,,,,"",""
+ball,1,8.5,Glamorgan,BI Kellaway,CB Cooke,CT Steel,0,0,,,,,,"",""
+ball,1,8.6,Glamorgan,BI Kellaway,CB Cooke,CT Steel,0,0,,,,,,"",""
+ball,1,9.1,Glamorgan,CB Cooke,BI Kellaway,DW Lawrence,0,0,,,,,,"",""
+ball,1,9.2,Glamorgan,CB Cooke,BI Kellaway,DW Lawrence,0,0,,,,,,"",""
+ball,1,9.3,Glamorgan,CB Cooke,BI Kellaway,DW Lawrence,1,0,,,,,,"",""
+ball,1,9.4,Glamorgan,BI Kellaway,CB Cooke,DW Lawrence,2,0,,,,,,"",""
+ball,1,9.5,Glamorgan,BI Kellaway,CB Cooke,DW Lawrence,0,0,,,,,,"",""
+ball,1,9.6,Glamorgan,BI Kellaway,CB Cooke,DW Lawrence,1,0,,,,,,"",""
+ball,1,10.1,Glamorgan,BI Kellaway,CB Cooke,SH Johnson,2,0,,,,,,"",""
+ball,1,10.2,Glamorgan,BI Kellaway,CB Cooke,SH Johnson,4,0,,,,,,"",""
+ball,1,10.3,Glamorgan,BI Kellaway,CB Cooke,SH Johnson,1,0,,,,,,"",""
+ball,1,10.4,Glamorgan,CB Cooke,BI Kellaway,SH Johnson,1,0,,,,,,"",""
+ball,1,10.5,Glamorgan,BI Kellaway,CB Cooke,SH Johnson,0,0,,,,,,caught,BI Kellaway
+ball,1,10.6,Glamorgan,DA Douthwaite,CB Cooke,SH Johnson,0,0,,,,,,"",""
+ball,1,11.1,Glamorgan,CB Cooke,DA Douthwaite,DW Lawrence,0,0,,,,,,"",""
+ball,1,11.2,Glamorgan,CB Cooke,DA Douthwaite,DW Lawrence,1,0,,,,,,"",""
+ball,1,11.3,Glamorgan,DA Douthwaite,CB Cooke,DW Lawrence,1,0,,,,,,"",""
+ball,1,11.4,Glamorgan,CB Cooke,DA Douthwaite,DW Lawrence,1,0,,,,,,"",""
+ball,1,11.5,Glamorgan,DA Douthwaite,CB Cooke,DW Lawrence,2,0,,,,,,"",""
+ball,1,11.6,Glamorgan,DA Douthwaite,CB Cooke,DW Lawrence,1,0,,,,,,"",""
+ball,1,12.1,Glamorgan,DA Douthwaite,CB Cooke,AAP Atkinson,0,0,,,,,,"",""
+ball,1,12.2,Glamorgan,DA Douthwaite,CB Cooke,AAP Atkinson,1,0,,,,,,"",""
+ball,1,12.3,Glamorgan,CB Cooke,DA Douthwaite,AAP Atkinson,1,0,,,,,,"",""
+ball,1,12.4,Glamorgan,DA Douthwaite,CB Cooke,AAP Atkinson,0,0,,,,,,"",""
+ball,1,12.5,Glamorgan,DA Douthwaite,CB Cooke,AAP Atkinson,0,0,,,,,,"",""
+ball,1,12.6,Glamorgan,DA Douthwaite,CB Cooke,AAP Atkinson,2,0,,,,,,"",""
+ball,1,13.1,Glamorgan,CB Cooke,DA Douthwaite,SA Abbott,1,0,,,,,,"",""
+ball,1,13.2,Glamorgan,DA Douthwaite,CB Cooke,SA Abbott,0,0,,,,,,caught,DA Douthwaite
+ball,1,13.3,Glamorgan,AW Gorvin,CB Cooke,SA Abbott,0,0,,,,,,"",""
+ball,1,13.4,Glamorgan,AW Gorvin,CB Cooke,SA Abbott,0,0,,,,,,"",""
+ball,1,13.5,Glamorgan,AW Gorvin,CB Cooke,SA Abbott,0,0,,,,,,"",""
+ball,1,13.6,Glamorgan,AW Gorvin,CB Cooke,SA Abbott,1,0,,,,,,"",""
+ball,1,14.1,Glamorgan,AW Gorvin,CB Cooke,J Clark,1,0,,,,,,"",""
+ball,1,14.2,Glamorgan,CB Cooke,AW Gorvin,J Clark,1,0,,,,,,"",""
+ball,1,14.3,Glamorgan,AW Gorvin,CB Cooke,J Clark,0,0,,,,,,"",""
+ball,1,14.4,Glamorgan,AW Gorvin,CB Cooke,J Clark,2,0,,,,,,"",""
+ball,1,14.5,Glamorgan,AW Gorvin,CB Cooke,J Clark,1,0,,,,,,"",""
+ball,1,14.6,Glamorgan,CB Cooke,AW Gorvin,J Clark,0,0,,,,,,caught,CB Cooke
+ball,1,15.1,Glamorgan,AW Gorvin,MS Crane,SA Abbott,0,0,,,,,,caught,AW Gorvin
+ball,1,15.2,Glamorgan,CB Sole,MS Crane,SA Abbott,0,0,,,,,,"",""
+ball,1,15.3,Glamorgan,CB Sole,MS Crane,SA Abbott,0,2,,2,,,,"",""
+ball,1,15.4,Glamorgan,CB Sole,MS Crane,SA Abbott,1,0,,,,,,"",""
+ball,1,15.5,Glamorgan,MS Crane,CB Sole,SA Abbott,0,0,,,,,,"",""
+ball,1,15.6,Glamorgan,MS Crane,CB Sole,SA Abbott,0,0,,,,,,"",""
+ball,1,15.7,Glamorgan,MS Crane,CB Sole,SA Abbott,4,0,,,,,,"",""
+ball,1,16.1,Glamorgan,CB Sole,MS Crane,SH Johnson,0,0,,,,,,"",""
+ball,1,16.2,Glamorgan,CB Sole,MS Crane,SH Johnson,1,0,,,,,,"",""
+ball,1,16.3,Glamorgan,MS Crane,CB Sole,SH Johnson,0,0,,,,,,"",""
+ball,1,16.4,Glamorgan,MS Crane,CB Sole,SH Johnson,0,0,,,,,,"",""
+ball,1,16.5,Glamorgan,MS Crane,CB Sole,SH Johnson,1,0,,,,,,"",""
+ball,1,16.6,Glamorgan,CB Sole,MS Crane,SH Johnson,0,0,,,,,,"",""
+ball,1,17.1,Glamorgan,MS Crane,CB Sole,AAP Atkinson,1,0,,,,,,"",""
+ball,1,17.2,Glamorgan,CB Sole,MS Crane,AAP Atkinson,2,0,,,,,,"",""
+ball,1,17.3,Glamorgan,CB Sole,MS Crane,AAP Atkinson,0,1,1,,,,,"",""
+ball,1,17.4,Glamorgan,CB Sole,MS Crane,AAP Atkinson,0,0,,,,,,"",""
+ball,1,17.5,Glamorgan,CB Sole,MS Crane,AAP Atkinson,0,0,,,,,,"",""
+ball,1,17.6,Glamorgan,CB Sole,MS Crane,AAP Atkinson,1,0,,,,,,"",""
+ball,1,17.7,Glamorgan,MS Crane,CB Sole,AAP Atkinson,0,0,,,,,,caught,MS Crane
+ball,1,18.1,Glamorgan,CB Sole,JP McIlroy,J Clark,2,0,,,,,,"",""
+ball,1,18.2,Glamorgan,CB Sole,JP McIlroy,J Clark,1,0,,,,,,"",""
+ball,1,18.3,Glamorgan,JP McIlroy,CB Sole,J Clark,1,0,,,,,,"",""
+ball,1,18.4,Glamorgan,CB Sole,JP McIlroy,J Clark,0,0,,,,,,"",""
+ball,1,18.5,Glamorgan,CB Sole,JP McIlroy,J Clark,0,0,,,,,,"",""
+ball,1,18.6,Glamorgan,CB Sole,JP McIlroy,J Clark,0,1,,,,1,,"",""
+ball,1,19.1,Glamorgan,CB Sole,JP McIlroy,SA Abbott,6,0,,,,,,"",""
+ball,1,19.2,Glamorgan,CB Sole,JP McIlroy,SA Abbott,0,0,,,,,,"",""
+ball,1,19.3,Glamorgan,CB Sole,JP McIlroy,SA Abbott,1,0,,,,,,"",""
+ball,1,19.4,Glamorgan,JP McIlroy,CB Sole,SA Abbott,4,0,,,,,,"",""
+ball,1,19.5,Glamorgan,JP McIlroy,CB Sole,SA Abbott,0,0,,,,,,"",""
+ball,1,19.6,Glamorgan,JP McIlroy,CB Sole,SA Abbott,0,1,1,,,,,"",""
+ball,1,19.7,Glamorgan,JP McIlroy,CB Sole,SA Abbott,2,0,,,,,,"",""
+ball,2,0.1,Surrey,DW Lawrence,DP Sibley,JP McIlroy,0,0,,,,,,"",""
+ball,2,0.2,Surrey,DW Lawrence,DP Sibley,JP McIlroy,1,0,,,,,,"",""
+ball,2,0.3,Surrey,DP Sibley,DW Lawrence,JP McIlroy,0,0,,,,,,"",""
+ball,2,0.4,Surrey,DP Sibley,DW Lawrence,JP McIlroy,0,0,,,,,,"",""
+ball,2,0.5,Surrey,DP Sibley,DW Lawrence,JP McIlroy,0,0,,,,,,"",""
+ball,2,0.6,Surrey,DP Sibley,DW Lawrence,JP McIlroy,4,0,,,,,,"",""
+ball,2,1.1,Surrey,DW Lawrence,DP Sibley,DA Douthwaite,1,0,,,,,,"",""
+ball,2,1.2,Surrey,DP Sibley,DW Lawrence,DA Douthwaite,0,0,,,,,,"",""
+ball,2,1.3,Surrey,DP Sibley,DW Lawrence,DA Douthwaite,4,0,,,,,,"",""
+ball,2,1.4,Surrey,DP Sibley,DW Lawrence,DA Douthwaite,1,0,,,,,,"",""
+ball,2,1.5,Surrey,DW Lawrence,DP Sibley,DA Douthwaite,4,0,,,,,,"",""
+ball,2,1.6,Surrey,DW Lawrence,DP Sibley,DA Douthwaite,0,0,,,,,,"",""
+ball,2,2.1,Surrey,DP Sibley,DW Lawrence,CB Sole,1,0,,,,,,"",""
+ball,2,2.2,Surrey,DW Lawrence,DP Sibley,CB Sole,0,0,,,,,,"",""
+ball,2,2.3,Surrey,DW Lawrence,DP Sibley,CB Sole,4,0,,,,,,"",""
+ball,2,2.4,Surrey,DW Lawrence,DP Sibley,CB Sole,4,0,,,,,,"",""
+ball,2,2.5,Surrey,DW Lawrence,DP Sibley,CB Sole,0,0,,,,,,"",""
+ball,2,2.6,Surrey,DW Lawrence,DP Sibley,CB Sole,4,0,,,,,,"",""
+ball,2,3.1,Surrey,DP Sibley,DW Lawrence,JP McIlroy,6,0,,,,,,"",""
+ball,2,3.2,Surrey,DP Sibley,DW Lawrence,JP McIlroy,4,0,,,,,,"",""
+ball,2,3.3,Surrey,DP Sibley,DW Lawrence,JP McIlroy,1,0,,,,,,"",""
+ball,2,3.4,Surrey,DW Lawrence,DP Sibley,JP McIlroy,0,0,,,,,,"",""
+ball,2,3.5,Surrey,DW Lawrence,DP Sibley,JP McIlroy,1,0,,,,,,"",""
+ball,2,3.6,Surrey,DP Sibley,DW Lawrence,JP McIlroy,0,0,,,,,,"",""
+ball,2,4.1,Surrey,DW Lawrence,DP Sibley,DA Douthwaite,6,0,,,,,,"",""
+ball,2,4.2,Surrey,DW Lawrence,DP Sibley,DA Douthwaite,1,0,,,,,,"",""
+ball,2,4.3,Surrey,DP Sibley,DW Lawrence,DA Douthwaite,4,0,,,,,,"",""
+ball,2,4.4,Surrey,DP Sibley,DW Lawrence,DA Douthwaite,1,0,,,,,,"",""
+ball,2,4.5,Surrey,DW Lawrence,DP Sibley,DA Douthwaite,1,0,,,,,,"",""
+ball,2,4.6,Surrey,DP Sibley,DW Lawrence,DA Douthwaite,0,0,,,,,,"",""
+ball,2,5.1,Surrey,DW Lawrence,DP Sibley,CB Sole,0,0,,,,,,caught,DW Lawrence
+ball,2,5.2,Surrey,LJ Evans,DP Sibley,CB Sole,4,0,,,,,,"",""
+ball,2,5.3,Surrey,LJ Evans,DP Sibley,CB Sole,2,0,,,,,,"",""
+ball,2,5.4,Surrey,LJ Evans,DP Sibley,CB Sole,0,0,,,,,,"",""
+ball,2,5.5,Surrey,LJ Evans,DP Sibley,CB Sole,1,0,,,,,,"",""
+ball,2,5.6,Surrey,DP Sibley,LJ Evans,CB Sole,0,2,,2,,,,"",""
+ball,2,5.7,Surrey,DP Sibley,LJ Evans,CB Sole,0,0,,,,,,"",""
+ball,2,6.1,Surrey,LJ Evans,DP Sibley,JP McIlroy,1,0,,,,,,"",""
+ball,2,6.2,Surrey,DP Sibley,LJ Evans,JP McIlroy,0,1,1,,,,,"",""
+ball,2,6.3,Surrey,DP Sibley,LJ Evans,JP McIlroy,4,0,,,,,,"",""
+ball,2,6.4,Surrey,DP Sibley,LJ Evans,JP McIlroy,1,0,,,,,,"",""
+ball,2,6.5,Surrey,LJ Evans,DP Sibley,JP McIlroy,4,0,,,,,,"",""
+ball,2,6.6,Surrey,LJ Evans,DP Sibley,JP McIlroy,4,0,,,,,,"",""
+ball,2,6.7,Surrey,LJ Evans,DP Sibley,JP McIlroy,1,0,,,,,,"",""
+ball,2,7.1,Surrey,LJ Evans,DP Sibley,DA Douthwaite,6,0,,,,,,"",""
+ball,2,7.2,Surrey,LJ Evans,DP Sibley,DA Douthwaite,0,2,,,2,,,"",""
+ball,2,7.3,Surrey,LJ Evans,DP Sibley,DA Douthwaite,6,0,,,,,,"",""
+ball,2,7.4,Surrey,LJ Evans,DP Sibley,DA Douthwaite,1,0,,,,,,"",""
+ball,2,7.5,Surrey,DP Sibley,LJ Evans,DA Douthwaite,0,0,,,,,,"",""
+ball,2,7.6,Surrey,DP Sibley,LJ Evans,DA Douthwaite,0,1,1,,,,,"",""
+ball,2,7.7,Surrey,DP Sibley,LJ Evans,DA Douthwaite,2,0,,,,,,"",""
+ball,2,8.1,Surrey,LJ Evans,DP Sibley,M Labuschagne,1,0,,,,,,"",""
+ball,2,8.2,Surrey,DP Sibley,LJ Evans,M Labuschagne,0,0,,,,,,"",""
+ball,2,8.3,Surrey,DP Sibley,LJ Evans,M Labuschagne,6,0,,,,,,"",""
+ball,2,8.4,Surrey,DP Sibley,LJ Evans,M Labuschagne,4,0,,,,,,"",""
+ball,2,8.5,Surrey,DP Sibley,LJ Evans,M Labuschagne,0,0,,,,,,"",""
+ball,2,8.6,Surrey,DP Sibley,LJ Evans,M Labuschagne,1,0,,,,,,"",""

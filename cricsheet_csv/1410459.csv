@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Hampshire
+info,gender,male
+info,season,2024
+info,date,2024/07/10
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,JD Shantry
+info,match_referee,PM Such
+info,winner,Sussex
+info,winner_runs,22
+info,player,Sussex,HD Ward
+info,player,Sussex,DP Hughes
+info,player,Sussex,TGR Clark
+info,player,Sussex,JM Coles
+info,player,Sussex,TP Alsop
+info,player,Sussex,DJ Lamb
+info,player,Sussex,N McAndrew
+info,player,Sussex,JJ Carson
+info,player,Sussex,JA Simpson
+info,player,Sussex,OE Robinson
+info,player,Sussex,TS Mills
+info,player,Hampshire,JM Vince
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,TE Albert
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,CP Wood
+info,player,Hampshire,BTJ Wheal
+info,player,Hampshire,JA Turner
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,PM Such,c9f1892c
+info,registry,people,TE Albert,a6c17509
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+ball,1,0.1,Sussex,HD Ward,DP Hughes,CP Wood,0,0,,,,,,"",""
+ball,1,0.2,Sussex,HD Ward,DP Hughes,CP Wood,4,0,,,,,,"",""
+ball,1,0.3,Sussex,HD Ward,DP Hughes,CP Wood,1,0,,,,,,"",""
+ball,1,0.4,Sussex,DP Hughes,HD Ward,CP Wood,0,0,,,,,,"",""
+ball,1,0.5,Sussex,DP Hughes,HD Ward,CP Wood,0,0,,,,,,"",""
+ball,1,0.6,Sussex,DP Hughes,HD Ward,CP Wood,0,0,,,,,,"",""
+ball,1,1.1,Sussex,HD Ward,DP Hughes,BTJ Wheal,4,0,,,,,,"",""
+ball,1,1.2,Sussex,HD Ward,DP Hughes,BTJ Wheal,4,0,,,,,,"",""
+ball,1,1.3,Sussex,HD Ward,DP Hughes,BTJ Wheal,0,0,,,,,,"",""
+ball,1,1.4,Sussex,HD Ward,DP Hughes,BTJ Wheal,4,0,,,,,,"",""
+ball,1,1.5,Sussex,HD Ward,DP Hughes,BTJ Wheal,0,0,,,,,,"",""
+ball,1,1.6,Sussex,HD Ward,DP Hughes,BTJ Wheal,0,0,,,,,,"",""
+ball,1,2.1,Sussex,DP Hughes,HD Ward,CP Wood,0,0,,,,,,caught,DP Hughes
+ball,1,2.2,Sussex,TGR Clark,HD Ward,CP Wood,0,0,,,,,,"",""
+ball,1,2.3,Sussex,TGR Clark,HD Ward,CP Wood,0,0,,,,,,"",""
+ball,1,2.4,Sussex,TGR Clark,HD Ward,CP Wood,1,0,,,,,,"",""
+ball,1,2.5,Sussex,HD Ward,TGR Clark,CP Wood,0,0,,,,,,"",""
+ball,1,2.6,Sussex,HD Ward,TGR Clark,CP Wood,1,0,,,,,,"",""
+ball,1,3.1,Sussex,HD Ward,TGR Clark,JA Turner,0,0,,,,,,"",""
+ball,1,3.2,Sussex,HD Ward,TGR Clark,JA Turner,4,0,,,,,,"",""
+ball,1,3.3,Sussex,HD Ward,TGR Clark,JA Turner,0,2,,2,,,,"",""
+ball,1,3.4,Sussex,HD Ward,TGR Clark,JA Turner,6,0,,,,,,"",""
+ball,1,3.5,Sussex,HD Ward,TGR Clark,JA Turner,0,1,1,,,,,"",""
+ball,1,3.6,Sussex,HD Ward,TGR Clark,JA Turner,0,0,,,,,,"",""
+ball,1,3.7,Sussex,HD Ward,TGR Clark,JA Turner,6,0,,,,,,"",""
+ball,1,3.8,Sussex,HD Ward,TGR Clark,JA Turner,1,0,,,,,,"",""
+ball,1,4.1,Sussex,HD Ward,TGR Clark,JK Fuller,4,0,,,,,,"",""
+ball,1,4.2,Sussex,HD Ward,TGR Clark,JK Fuller,0,0,,,,,,caught,HD Ward
+ball,1,4.3,Sussex,JM Coles,TGR Clark,JK Fuller,0,1,,,,1,,"",""
+ball,1,4.4,Sussex,TGR Clark,JM Coles,JK Fuller,0,0,,,,,,"",""
+ball,1,4.5,Sussex,TGR Clark,JM Coles,JK Fuller,4,0,,,,,,"",""
+ball,1,4.6,Sussex,TGR Clark,JM Coles,JK Fuller,2,0,,,,,,"",""
+ball,1,5.1,Sussex,JM Coles,TGR Clark,BTJ Wheal,0,0,,,,,,"",""
+ball,1,5.2,Sussex,JM Coles,TGR Clark,BTJ Wheal,1,0,,,,,,"",""
+ball,1,5.3,Sussex,TGR Clark,JM Coles,BTJ Wheal,1,0,,,,,,"",""
+ball,1,5.4,Sussex,JM Coles,TGR Clark,BTJ Wheal,1,0,,,,,,"",""
+ball,1,5.5,Sussex,TGR Clark,JM Coles,BTJ Wheal,0,0,,,,,,"",""
+ball,1,5.6,Sussex,TGR Clark,JM Coles,BTJ Wheal,4,0,,,,,,"",""
+ball,1,6.1,Sussex,JM Coles,TGR Clark,LA Dawson,4,0,,,,,,"",""
+ball,1,6.2,Sussex,JM Coles,TGR Clark,LA Dawson,1,0,,,,,,"",""
+ball,1,6.3,Sussex,TGR Clark,JM Coles,LA Dawson,0,1,,,,1,,"",""
+ball,1,6.4,Sussex,JM Coles,TGR Clark,LA Dawson,2,0,,,,,,"",""
+ball,1,6.5,Sussex,JM Coles,TGR Clark,LA Dawson,0,0,,,,,,"",""
+ball,1,6.6,Sussex,JM Coles,TGR Clark,LA Dawson,1,0,,,,,,"",""
+ball,1,7.1,Sussex,JM Coles,TGR Clark,BAC Howell,0,0,,,,,,"",""
+ball,1,7.2,Sussex,JM Coles,TGR Clark,BAC Howell,1,0,,,,,,"",""
+ball,1,7.3,Sussex,TGR Clark,JM Coles,BAC Howell,2,0,,,,,,"",""
+ball,1,7.4,Sussex,TGR Clark,JM Coles,BAC Howell,1,0,,,,,,"",""
+ball,1,7.5,Sussex,JM Coles,TGR Clark,BAC Howell,1,0,,,,,,"",""
+ball,1,7.6,Sussex,TGR Clark,JM Coles,BAC Howell,4,0,,,,,,"",""
+ball,1,8.1,Sussex,JM Coles,TGR Clark,LA Dawson,6,0,,,,,,"",""
+ball,1,8.2,Sussex,JM Coles,TGR Clark,LA Dawson,1,0,,,,,,"",""
+ball,1,8.3,Sussex,TGR Clark,JM Coles,LA Dawson,4,0,,,,,,"",""
+ball,1,8.4,Sussex,TGR Clark,JM Coles,LA Dawson,4,0,,,,,,"",""
+ball,1,8.5,Sussex,TGR Clark,JM Coles,LA Dawson,1,0,,,,,,"",""
+ball,1,8.6,Sussex,JM Coles,TGR Clark,LA Dawson,1,0,,,,,,"",""
+ball,1,9.1,Sussex,JM Coles,TGR Clark,BAC Howell,1,0,,,,,,"",""
+ball,1,9.2,Sussex,TGR Clark,JM Coles,BAC Howell,1,0,,,,,,"",""
+ball,1,9.3,Sussex,JM Coles,TGR Clark,BAC Howell,1,0,,,,,,"",""
+ball,1,9.4,Sussex,TGR Clark,JM Coles,BAC Howell,1,0,,,,,,"",""
+ball,1,9.5,Sussex,JM Coles,TGR Clark,BAC Howell,1,0,,,,,,"",""
+ball,1,9.6,Sussex,TGR Clark,JM Coles,BAC Howell,2,0,,,,,,"",""
+ball,1,10.1,Sussex,JM Coles,TGR Clark,JA Turner,0,0,,,,,,"",""
+ball,1,10.2,Sussex,JM Coles,TGR Clark,JA Turner,4,0,,,,,,"",""
+ball,1,10.3,Sussex,JM Coles,TGR Clark,JA Turner,0,0,,,,,,"",""
+ball,1,10.4,Sussex,JM Coles,TGR Clark,JA Turner,1,0,,,,,,"",""
+ball,1,10.5,Sussex,TGR Clark,JM Coles,JA Turner,0,1,,,,1,,"",""
+ball,1,10.6,Sussex,JM Coles,TGR Clark,JA Turner,4,0,,,,,,"",""
+ball,1,11.1,Sussex,TGR Clark,JM Coles,BAC Howell,1,0,,,,,,"",""
+ball,1,11.2,Sussex,JM Coles,TGR Clark,BAC Howell,2,0,,,,,,"",""
+ball,1,11.3,Sussex,JM Coles,TGR Clark,BAC Howell,1,0,,,,,,"",""
+ball,1,11.4,Sussex,TGR Clark,JM Coles,BAC Howell,1,0,,,,,,"",""
+ball,1,11.5,Sussex,JM Coles,TGR Clark,BAC Howell,4,0,,,,,,"",""
+ball,1,11.6,Sussex,JM Coles,TGR Clark,BAC Howell,4,0,,,,,,"",""
+ball,1,12.1,Sussex,TGR Clark,JM Coles,JK Fuller,1,0,,,,,,"",""
+ball,1,12.2,Sussex,JM Coles,TGR Clark,JK Fuller,2,0,,,,,,"",""
+ball,1,12.3,Sussex,JM Coles,TGR Clark,JK Fuller,0,0,,,,,,"",""
+ball,1,12.4,Sussex,JM Coles,TGR Clark,JK Fuller,0,0,,,,,,"",""
+ball,1,12.5,Sussex,JM Coles,TGR Clark,JK Fuller,0,0,,,,,,"",""
+ball,1,12.6,Sussex,JM Coles,TGR Clark,JK Fuller,1,0,,,,,,"",""
+ball,1,13.1,Sussex,JM Coles,TGR Clark,LA Dawson,0,0,,,,,,caught,JM Coles
+ball,1,13.2,Sussex,TP Alsop,TGR Clark,LA Dawson,1,0,,,,,,"",""
+ball,1,13.3,Sussex,TGR Clark,TP Alsop,LA Dawson,1,0,,,,,,"",""
+ball,1,13.4,Sussex,TP Alsop,TGR Clark,LA Dawson,4,0,,,,,,"",""
+ball,1,13.5,Sussex,TP Alsop,TGR Clark,LA Dawson,0,0,,,,,,"",""
+ball,1,13.6,Sussex,TP Alsop,TGR Clark,LA Dawson,2,0,,,,,,"",""
+ball,1,14.1,Sussex,TGR Clark,TP Alsop,JK Fuller,1,0,,,,,,"",""
+ball,1,14.2,Sussex,TP Alsop,TGR Clark,JK Fuller,4,0,,,,,,"",""
+ball,1,14.3,Sussex,TP Alsop,TGR Clark,JK Fuller,0,0,,,,,,"",""
+ball,1,14.4,Sussex,TP Alsop,TGR Clark,JK Fuller,1,0,,,,,,"",""
+ball,1,14.5,Sussex,TGR Clark,TP Alsop,JK Fuller,0,0,,,,,,caught,TGR Clark
+ball,1,14.6,Sussex,DJ Lamb,TP Alsop,JK Fuller,0,0,,,,,,"",""
+ball,1,15.1,Sussex,TP Alsop,DJ Lamb,BAC Howell,4,0,,,,,,"",""
+ball,1,15.2,Sussex,TP Alsop,DJ Lamb,BAC Howell,1,0,,,,,,"",""
+ball,1,15.3,Sussex,DJ Lamb,TP Alsop,BAC Howell,4,0,,,,,,"",""
+ball,1,15.4,Sussex,DJ Lamb,TP Alsop,BAC Howell,1,0,,,,,,"",""
+ball,1,15.5,Sussex,TP Alsop,DJ Lamb,BAC Howell,1,0,,,,,,"",""
+ball,1,15.6,Sussex,DJ Lamb,TP Alsop,BAC Howell,0,0,,,,,,"",""
+ball,1,16.1,Sussex,TP Alsop,DJ Lamb,CP Wood,1,0,,,,,,"",""
+ball,1,16.2,Sussex,DJ Lamb,TP Alsop,CP Wood,4,0,,,,,,"",""
+ball,1,16.3,Sussex,DJ Lamb,TP Alsop,CP Wood,0,0,,,,,,"",""
+ball,1,16.4,Sussex,DJ Lamb,TP Alsop,CP Wood,2,0,,,,,,"",""
+ball,1,16.5,Sussex,DJ Lamb,TP Alsop,CP Wood,0,0,,,,,,"",""
+ball,1,16.6,Sussex,DJ Lamb,TP Alsop,CP Wood,1,0,,,,,,"",""
+ball,1,17.1,Sussex,DJ Lamb,TP Alsop,BTJ Wheal,0,0,,,,,,"",""
+ball,1,17.2,Sussex,DJ Lamb,TP Alsop,BTJ Wheal,6,0,,,,,,"",""
+ball,1,17.3,Sussex,DJ Lamb,TP Alsop,BTJ Wheal,4,0,,,,,,"",""
+ball,1,17.4,Sussex,DJ Lamb,TP Alsop,BTJ Wheal,0,0,,,,,,caught,DJ Lamb
+ball,1,17.5,Sussex,N McAndrew,TP Alsop,BTJ Wheal,4,0,,,,,,"",""
+ball,1,17.6,Sussex,N McAndrew,TP Alsop,BTJ Wheal,0,0,,,,,,"",""
+ball,1,18.1,Sussex,TP Alsop,N McAndrew,CP Wood,4,0,,,,,,"",""
+ball,1,18.2,Sussex,TP Alsop,N McAndrew,CP Wood,4,0,,,,,,"",""
+ball,1,18.3,Sussex,TP Alsop,N McAndrew,CP Wood,4,0,,,,,,"",""
+ball,1,18.4,Sussex,TP Alsop,N McAndrew,CP Wood,1,0,,,,,,"",""
+ball,1,18.5,Sussex,N McAndrew,TP Alsop,CP Wood,0,1,1,,,,,"",""
+ball,1,18.6,Sussex,N McAndrew,TP Alsop,CP Wood,1,0,,,,,,"",""
+ball,1,18.7,Sussex,TP Alsop,N McAndrew,CP Wood,2,0,,,,,,"",""
+ball,1,19.1,Sussex,N McAndrew,TP Alsop,BTJ Wheal,0,0,,,,,,"",""
+ball,1,19.2,Sussex,N McAndrew,TP Alsop,BTJ Wheal,6,0,,,,,,"",""
+ball,1,19.3,Sussex,N McAndrew,TP Alsop,BTJ Wheal,2,0,,,,,,"",""
+ball,1,19.4,Sussex,N McAndrew,TP Alsop,BTJ Wheal,0,0,,,,,,caught,N McAndrew
+ball,1,19.5,Sussex,JJ Carson,TP Alsop,BTJ Wheal,1,0,,,,,,"",""
+ball,1,19.6,Sussex,TP Alsop,JJ Carson,BTJ Wheal,1,0,,,,,,run out,TP Alsop
+ball,2,0.1,Hampshire,JM Vince,BR McDermott,OE Robinson,0,0,,,,,,"",""
+ball,2,0.2,Hampshire,JM Vince,BR McDermott,OE Robinson,1,0,,,,,,"",""
+ball,2,0.3,Hampshire,BR McDermott,JM Vince,OE Robinson,0,0,,,,,,run out,BR McDermott
+ball,2,0.4,Hampshire,TJ Prest,JM Vince,OE Robinson,0,0,,,,,,"",""
+ball,2,0.5,Hampshire,TJ Prest,JM Vince,OE Robinson,1,0,,,,,,"",""
+ball,2,0.6,Hampshire,JM Vince,TJ Prest,OE Robinson,0,0,,,,,,"",""
+ball,2,1.1,Hampshire,TJ Prest,JM Vince,JM Coles,4,0,,,,,,"",""
+ball,2,1.2,Hampshire,TJ Prest,JM Vince,JM Coles,2,0,,,,,,"",""
+ball,2,1.3,Hampshire,TJ Prest,JM Vince,JM Coles,0,0,,,,,,caught,TJ Prest
+ball,2,1.4,Hampshire,JJ Weatherley,JM Vince,JM Coles,0,0,,,,,,"",""
+ball,2,1.5,Hampshire,JJ Weatherley,JM Vince,JM Coles,0,0,,,,,,"",""
+ball,2,1.6,Hampshire,JJ Weatherley,JM Vince,JM Coles,1,0,,,,,,"",""
+ball,2,2.1,Hampshire,JJ Weatherley,JM Vince,OE Robinson,4,0,,,,,,"",""
+ball,2,2.2,Hampshire,JJ Weatherley,JM Vince,OE Robinson,0,5,5,,,,,"",""
+ball,2,2.3,Hampshire,JJ Weatherley,JM Vince,OE Robinson,0,0,,,,,,"",""
+ball,2,2.4,Hampshire,JJ Weatherley,JM Vince,OE Robinson,0,0,,,,,,"",""
+ball,2,2.5,Hampshire,JJ Weatherley,JM Vince,OE Robinson,1,0,,,,,,"",""
+ball,2,2.6,Hampshire,JM Vince,JJ Weatherley,OE Robinson,4,0,,,,,,"",""
+ball,2,2.7,Hampshire,JM Vince,JJ Weatherley,OE Robinson,0,0,,,,,,"",""
+ball,2,3.1,Hampshire,JJ Weatherley,JM Vince,JM Coles,0,0,,,,,,"",""
+ball,2,3.2,Hampshire,JJ Weatherley,JM Vince,JM Coles,0,0,,,,,,"",""
+ball,2,3.3,Hampshire,JJ Weatherley,JM Vince,JM Coles,6,0,,,,,,"",""
+ball,2,3.4,Hampshire,JJ Weatherley,JM Vince,JM Coles,4,0,,,,,,"",""
+ball,2,3.5,Hampshire,JJ Weatherley,JM Vince,JM Coles,1,0,,,,,,"",""
+ball,2,3.6,Hampshire,JM Vince,JJ Weatherley,JM Coles,0,0,,,,,,"",""
+ball,2,4.1,Hampshire,JJ Weatherley,JM Vince,OE Robinson,4,0,,,,,,"",""
+ball,2,4.2,Hampshire,JJ Weatherley,JM Vince,OE Robinson,2,0,,,,,,"",""
+ball,2,4.3,Hampshire,JJ Weatherley,JM Vince,OE Robinson,0,0,,,,,,"",""
+ball,2,4.4,Hampshire,JJ Weatherley,JM Vince,OE Robinson,1,0,,,,,,"",""
+ball,2,4.5,Hampshire,JM Vince,JJ Weatherley,OE Robinson,1,0,,,,,,"",""
+ball,2,4.6,Hampshire,JJ Weatherley,JM Vince,OE Robinson,2,0,,,,,,"",""
+ball,2,5.1,Hampshire,JM Vince,JJ Weatherley,TS Mills,1,0,,,,,,"",""
+ball,2,5.2,Hampshire,JJ Weatherley,JM Vince,TS Mills,1,0,,,,,,"",""
+ball,2,5.3,Hampshire,JM Vince,JJ Weatherley,TS Mills,1,0,,,,,,"",""
+ball,2,5.4,Hampshire,JJ Weatherley,JM Vince,TS Mills,1,0,,,,,,"",""
+ball,2,5.5,Hampshire,JM Vince,JJ Weatherley,TS Mills,0,0,,,,,,"",""
+ball,2,5.6,Hampshire,JM Vince,JJ Weatherley,TS Mills,1,0,,,,,,"",""
+ball,2,6.1,Hampshire,JM Vince,JJ Weatherley,N McAndrew,6,0,,,,,,"",""
+ball,2,6.2,Hampshire,JM Vince,JJ Weatherley,N McAndrew,1,0,,,,,,"",""
+ball,2,6.3,Hampshire,JJ Weatherley,JM Vince,N McAndrew,1,0,,,,,,"",""
+ball,2,6.4,Hampshire,JM Vince,JJ Weatherley,N McAndrew,2,0,,,,,,"",""
+ball,2,6.5,Hampshire,JM Vince,JJ Weatherley,N McAndrew,0,0,,,,,,"",""
+ball,2,6.6,Hampshire,JM Vince,JJ Weatherley,N McAndrew,1,0,,,,,,"",""
+ball,2,7.1,Hampshire,JM Vince,JJ Weatherley,JJ Carson,1,0,,,,,,"",""
+ball,2,7.2,Hampshire,JJ Weatherley,JM Vince,JJ Carson,1,0,,,,,,"",""
+ball,2,7.3,Hampshire,JM Vince,JJ Weatherley,JJ Carson,1,0,,,,,,"",""
+ball,2,7.4,Hampshire,JJ Weatherley,JM Vince,JJ Carson,4,0,,,,,,"",""
+ball,2,7.5,Hampshire,JJ Weatherley,JM Vince,JJ Carson,0,0,,,,,,caught,JJ Weatherley
+ball,2,7.6,Hampshire,TE Albert,JM Vince,JJ Carson,0,0,,,,,,"",""
+ball,2,8.1,Hampshire,JM Vince,TE Albert,DJ Lamb,1,0,,,,,,"",""
+ball,2,8.2,Hampshire,TE Albert,JM Vince,DJ Lamb,1,0,,,,,,"",""
+ball,2,8.3,Hampshire,JM Vince,TE Albert,DJ Lamb,6,0,,,,,,"",""
+ball,2,8.4,Hampshire,JM Vince,TE Albert,DJ Lamb,4,0,,,,,,"",""
+ball,2,8.5,Hampshire,JM Vince,TE Albert,DJ Lamb,0,0,,,,,,bowled,JM Vince
+ball,2,8.6,Hampshire,BAC Howell,TE Albert,DJ Lamb,1,0,,,,,,"",""
+ball,2,9.1,Hampshire,BAC Howell,TE Albert,JJ Carson,1,0,,,,,,"",""
+ball,2,9.2,Hampshire,TE Albert,BAC Howell,JJ Carson,1,0,,,,,,"",""
+ball,2,9.3,Hampshire,BAC Howell,TE Albert,JJ Carson,1,0,,,,,,"",""
+ball,2,9.4,Hampshire,TE Albert,BAC Howell,JJ Carson,1,0,,,,,,"",""
+ball,2,9.5,Hampshire,BAC Howell,TE Albert,JJ Carson,6,0,,,,,,"",""
+ball,2,9.6,Hampshire,BAC Howell,TE Albert,JJ Carson,0,0,,,,,,"",""
+ball,2,10.1,Hampshire,TE Albert,BAC Howell,DJ Lamb,1,0,,,,,,"",""
+ball,2,10.2,Hampshire,BAC Howell,TE Albert,DJ Lamb,3,0,,,,,,"",""
+ball,2,10.3,Hampshire,TE Albert,BAC Howell,DJ Lamb,4,0,,,,,,"",""
+ball,2,10.4,Hampshire,TE Albert,BAC Howell,DJ Lamb,1,0,,,,,,"",""
+ball,2,10.5,Hampshire,BAC Howell,TE Albert,DJ Lamb,1,0,,,,,,"",""
+ball,2,10.6,Hampshire,TE Albert,BAC Howell,DJ Lamb,1,0,,,,,,"",""
+ball,2,11.1,Hampshire,TE Albert,BAC Howell,TS Mills,4,0,,,,,,"",""
+ball,2,11.2,Hampshire,TE Albert,BAC Howell,TS Mills,4,0,,,,,,"",""
+ball,2,11.3,Hampshire,TE Albert,BAC Howell,TS Mills,1,0,,,,,,"",""
+ball,2,11.4,Hampshire,BAC Howell,TE Albert,TS Mills,0,0,,,,,,"",""
+ball,2,11.5,Hampshire,BAC Howell,TE Albert,TS Mills,0,0,,,,,,"",""
+ball,2,11.6,Hampshire,BAC Howell,TE Albert,TS Mills,4,0,,,,,,"",""
+ball,2,12.1,Hampshire,TE Albert,BAC Howell,N McAndrew,1,0,,,,,,"",""
+ball,2,12.2,Hampshire,BAC Howell,TE Albert,N McAndrew,1,0,,,,,,"",""
+ball,2,12.3,Hampshire,TE Albert,BAC Howell,N McAndrew,6,0,,,,,,"",""
+ball,2,12.4,Hampshire,TE Albert,BAC Howell,N McAndrew,1,0,,,,,,"",""
+ball,2,12.5,Hampshire,BAC Howell,TE Albert,N McAndrew,0,0,,,,,,"",""
+ball,2,12.6,Hampshire,BAC Howell,TE Albert,N McAndrew,6,0,,,,,,"",""
+ball,2,13.1,Hampshire,TE Albert,BAC Howell,JM Coles,0,0,,,,,,bowled,TE Albert
+ball,2,13.2,Hampshire,JK Fuller,BAC Howell,JM Coles,1,0,,,,,,"",""
+ball,2,13.3,Hampshire,BAC Howell,JK Fuller,JM Coles,4,2,,2,,,,"",""
+ball,2,13.4,Hampshire,BAC Howell,JK Fuller,JM Coles,1,0,,,,,,"",""
+ball,2,13.5,Hampshire,JK Fuller,BAC Howell,JM Coles,0,0,,,,,,caught,JK Fuller
+ball,2,13.6,Hampshire,LA Dawson,BAC Howell,JM Coles,1,0,,,,,,"",""
+ball,2,13.7,Hampshire,BAC Howell,LA Dawson,JM Coles,2,0,,,,,,"",""
+ball,2,14.1,Hampshire,LA Dawson,BAC Howell,OE Robinson,2,0,,,,,,"",""
+ball,2,14.2,Hampshire,LA Dawson,BAC Howell,OE Robinson,0,0,,,,,,"",""
+ball,2,14.3,Hampshire,LA Dawson,BAC Howell,OE Robinson,0,0,,,,,,"",""
+ball,2,14.4,Hampshire,LA Dawson,BAC Howell,OE Robinson,1,0,,,,,,"",""
+ball,2,14.5,Hampshire,BAC Howell,LA Dawson,OE Robinson,1,0,,,,,,"",""
+ball,2,14.6,Hampshire,LA Dawson,BAC Howell,OE Robinson,0,0,,,,,,run out,BAC Howell
+ball,2,15.1,Hampshire,CP Wood,LA Dawson,TS Mills,1,0,,,,,,"",""
+ball,2,15.2,Hampshire,LA Dawson,CP Wood,TS Mills,1,0,,,,,,"",""
+ball,2,15.3,Hampshire,CP Wood,LA Dawson,TS Mills,1,0,,,,,,"",""
+ball,2,15.4,Hampshire,LA Dawson,CP Wood,TS Mills,0,0,,,,,,caught,LA Dawson
+ball,2,15.5,Hampshire,BTJ Wheal,CP Wood,TS Mills,0,0,,,,,,"",""
+ball,2,15.6,Hampshire,BTJ Wheal,CP Wood,TS Mills,0,0,,,,,,"",""
+ball,2,16.1,Hampshire,CP Wood,BTJ Wheal,JM Coles,1,0,,,,,,"",""
+ball,2,16.2,Hampshire,BTJ Wheal,CP Wood,JM Coles,0,0,,,,,,"",""
+ball,2,16.3,Hampshire,BTJ Wheal,CP Wood,JM Coles,1,0,,,,,,"",""
+ball,2,16.4,Hampshire,CP Wood,BTJ Wheal,JM Coles,1,0,,,,,,"",""
+ball,2,16.5,Hampshire,BTJ Wheal,CP Wood,JM Coles,0,0,,,,,,caught,BTJ Wheal
+ball,2,16.6,Hampshire,JA Turner,CP Wood,JM Coles,2,0,,,,,,"",""
+ball,2,17.1,Hampshire,CP Wood,JA Turner,TS Mills,4,0,,,,,,"",""
+ball,2,17.2,Hampshire,CP Wood,JA Turner,TS Mills,1,0,,,,,,"",""
+ball,2,17.3,Hampshire,JA Turner,CP Wood,TS Mills,0,1,1,,,,,"",""
+ball,2,17.4,Hampshire,JA Turner,CP Wood,TS Mills,1,0,,,,,,"",""
+ball,2,17.5,Hampshire,CP Wood,JA Turner,TS Mills,0,2,,2,,,,"",""
+ball,2,17.6,Hampshire,CP Wood,JA Turner,TS Mills,0,1,1,,,,,"",""
+ball,2,17.7,Hampshire,CP Wood,JA Turner,TS Mills,1,0,,,,,,"",""
+ball,2,17.8,Hampshire,JA Turner,CP Wood,TS Mills,0,1,1,,,,,"",""
+ball,2,17.9,Hampshire,JA Turner,CP Wood,TS Mills,0,0,,,,,,"",""
+ball,2,17.10,Hampshire,JA Turner,CP Wood,TS Mills,0,0,,,,,,"",""
+ball,2,18.1,Hampshire,CP Wood,JA Turner,DJ Lamb,0,0,,,,,,"",""
+ball,2,18.2,Hampshire,CP Wood,JA Turner,DJ Lamb,0,0,,,,,,"",""
+ball,2,18.3,Hampshire,CP Wood,JA Turner,DJ Lamb,1,0,,,,,,"",""
+ball,2,18.4,Hampshire,JA Turner,CP Wood,DJ Lamb,0,1,,,,1,,"",""
+ball,2,18.5,Hampshire,CP Wood,JA Turner,DJ Lamb,4,0,,,,,,"",""
+ball,2,18.6,Hampshire,CP Wood,JA Turner,DJ Lamb,6,2,,2,,,,"",""
+ball,2,18.7,Hampshire,CP Wood,JA Turner,DJ Lamb,0,0,,,,,,"",""
+ball,2,19.1,Hampshire,JA Turner,CP Wood,N McAndrew,0,0,,,,,,run out,CP Wood

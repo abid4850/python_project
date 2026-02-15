@@ -1,0 +1,326 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Queensland
+info,team,South Australia
+info,gender,male
+info,season,2025/26
+info,date,2025/10/20
+info,event,One-Day Cup (Australia)
+info,match_number,12
+info,venue,"Karen Rolton Oval, Adelaide"
+info,city,Adelaide
+info,toss_winner,South Australia
+info,toss_decision,field
+info,player_of_match,NA McSweeney
+info,umpire,Andrew Crozier
+info,umpire,D Brigham
+info,reserve_umpire,Sharad Patel
+info,match_referee,SJ Davis
+info,winner,South Australia
+info,winner_wickets,9
+info,method,D/L
+info,player,Queensland,J Clayton
+info,player,Queensland,JJ Peirson
+info,player,Queensland,HR Burdon
+info,player,Queensland,HD Weibgen
+info,player,Queensland,LD Hearne
+info,player,Queensland,M Bryant
+info,player,Queensland,H Kerr
+info,player,Queensland,JJ Bazley
+info,player,Queensland,MT Steketee
+info,player,Queensland,MJ Swepson
+info,player,Queensland,BC Floros
+info,player,South Australia,MW Harvey
+info,player,South Australia,J Fraser-McGurk
+info,player,South Australia,NA McSweeney
+info,player,South Australia,JJS Sangha
+info,player,South Australia,JS Lehmann
+info,player,South Australia,L Scott
+info,player,South Australia,HJ Nielsen
+info,player,South Australia,N McAndrew
+info,player,South Australia,HTRY Thornton
+info,player,South Australia,WA Agar
+info,player,South Australia,L Pope
+info,registry,people,Andrew Crozier,00d07580
+info,registry,people,BC Floros,4d748b6a
+info,registry,people,D Brigham,464daf41
+info,registry,people,H Kerr,f422728b
+info,registry,people,HD Weibgen,2535b30f
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,HR Burdon,309e9b1c
+info,registry,people,HTRY Thornton,055be93a
+info,registry,people,J Clayton,c56fc66d
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JJ Bazley,003d49e6
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,JJS Sangha,8e3cb0e9
+info,registry,people,JS Lehmann,c96a215f
+info,registry,people,L Pope,616a8149
+info,registry,people,L Scott,0ebb3444
+info,registry,people,LD Hearne,7f2163a0
+info,registry,people,M Bryant,f32012f4
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MT Steketee,903560ed
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NA McSweeney,e94d2d50
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,Sharad Patel,8e6dd3ba
+info,registry,people,WA Agar,15de1f5d
+ball,1,0.1,Queensland,J Clayton,JJ Peirson,N McAndrew,0,0,,,,,,"",""
+ball,1,0.2,Queensland,J Clayton,JJ Peirson,N McAndrew,0,0,,,,,,"",""
+ball,1,0.3,Queensland,J Clayton,JJ Peirson,N McAndrew,0,0,,,,,,"",""
+ball,1,0.4,Queensland,J Clayton,JJ Peirson,N McAndrew,0,0,,,,,,"",""
+ball,1,0.5,Queensland,J Clayton,JJ Peirson,N McAndrew,1,0,,,,,,"",""
+ball,1,0.6,Queensland,JJ Peirson,J Clayton,N McAndrew,1,0,,,,,,"",""
+ball,1,1.1,Queensland,JJ Peirson,J Clayton,HTRY Thornton,0,0,,,,,,"",""
+ball,1,1.2,Queensland,JJ Peirson,J Clayton,HTRY Thornton,0,1,1,,,,,"",""
+ball,1,1.3,Queensland,JJ Peirson,J Clayton,HTRY Thornton,0,0,,,,,,"",""
+ball,1,1.4,Queensland,JJ Peirson,J Clayton,HTRY Thornton,4,0,,,,,,"",""
+ball,1,1.5,Queensland,JJ Peirson,J Clayton,HTRY Thornton,0,1,,,,1,,"",""
+ball,1,1.6,Queensland,J Clayton,JJ Peirson,HTRY Thornton,0,0,,,,,,"",""
+ball,1,1.7,Queensland,J Clayton,JJ Peirson,HTRY Thornton,0,0,,,,,,bowled,J Clayton
+ball,1,2.1,Queensland,JJ Peirson,HR Burdon,N McAndrew,1,0,,,,,,"",""
+ball,1,2.2,Queensland,HR Burdon,JJ Peirson,N McAndrew,0,0,,,,,,"",""
+ball,1,2.3,Queensland,HR Burdon,JJ Peirson,N McAndrew,0,0,,,,,,"",""
+ball,1,2.4,Queensland,HR Burdon,JJ Peirson,N McAndrew,1,0,,,,,,"",""
+ball,1,2.5,Queensland,JJ Peirson,HR Burdon,N McAndrew,0,0,,,,,,"",""
+ball,1,2.6,Queensland,JJ Peirson,HR Burdon,N McAndrew,0,0,,,,,,"",""
+ball,1,3.1,Queensland,HR Burdon,JJ Peirson,HTRY Thornton,0,0,,,,,,"",""
+ball,1,3.2,Queensland,HR Burdon,JJ Peirson,HTRY Thornton,1,0,,,,,,"",""
+ball,1,3.3,Queensland,JJ Peirson,HR Burdon,HTRY Thornton,0,0,,,,,,"",""
+ball,1,3.4,Queensland,JJ Peirson,HR Burdon,HTRY Thornton,0,0,,,,,,"",""
+ball,1,3.5,Queensland,JJ Peirson,HR Burdon,HTRY Thornton,1,0,,,,,,"",""
+ball,1,3.6,Queensland,HR Burdon,JJ Peirson,HTRY Thornton,1,0,,,,,,"",""
+ball,1,4.1,Queensland,HR Burdon,JJ Peirson,N McAndrew,0,0,,,,,,bowled,HR Burdon
+ball,1,4.2,Queensland,HD Weibgen,JJ Peirson,N McAndrew,0,0,,,,,,"",""
+ball,1,4.3,Queensland,HD Weibgen,JJ Peirson,N McAndrew,0,0,,,,,,"",""
+ball,1,4.4,Queensland,HD Weibgen,JJ Peirson,N McAndrew,0,1,,,,1,,"",""
+ball,1,4.5,Queensland,JJ Peirson,HD Weibgen,N McAndrew,0,0,,,,,,"",""
+ball,1,4.6,Queensland,JJ Peirson,HD Weibgen,N McAndrew,0,1,1,,,,,"",""
+ball,1,4.7,Queensland,JJ Peirson,HD Weibgen,N McAndrew,0,1,,,,1,,"",""
+ball,1,5.1,Queensland,JJ Peirson,HD Weibgen,HTRY Thornton,0,0,,,,,,"",""
+ball,1,5.2,Queensland,JJ Peirson,HD Weibgen,HTRY Thornton,0,1,1,,,,,"",""
+ball,1,5.3,Queensland,JJ Peirson,HD Weibgen,HTRY Thornton,0,0,,,,,,"",""
+ball,1,5.4,Queensland,JJ Peirson,HD Weibgen,HTRY Thornton,0,0,,,,,,"",""
+ball,1,5.5,Queensland,JJ Peirson,HD Weibgen,HTRY Thornton,0,0,,,,,,"",""
+ball,1,5.6,Queensland,JJ Peirson,HD Weibgen,HTRY Thornton,0,0,,,,,,"",""
+ball,1,5.7,Queensland,JJ Peirson,HD Weibgen,HTRY Thornton,1,0,,,,,,"",""
+ball,1,6.1,Queensland,JJ Peirson,HD Weibgen,WA Agar,4,0,,,,,,"",""
+ball,1,6.2,Queensland,JJ Peirson,HD Weibgen,WA Agar,1,0,,,,,,"",""
+ball,1,6.3,Queensland,HD Weibgen,JJ Peirson,WA Agar,1,0,,,,,,"",""
+ball,1,6.4,Queensland,JJ Peirson,HD Weibgen,WA Agar,6,0,,,,,,"",""
+ball,1,6.5,Queensland,JJ Peirson,HD Weibgen,WA Agar,0,0,,,,,,"",""
+ball,1,6.6,Queensland,JJ Peirson,HD Weibgen,WA Agar,0,0,,,,,,"",""
+ball,1,7.1,Queensland,HD Weibgen,JJ Peirson,L Scott,1,0,,,,,,"",""
+ball,1,7.2,Queensland,JJ Peirson,HD Weibgen,L Scott,0,0,,,,,,"",""
+ball,1,7.3,Queensland,JJ Peirson,HD Weibgen,L Scott,1,0,,,,,,"",""
+ball,1,7.4,Queensland,HD Weibgen,JJ Peirson,L Scott,2,0,,,,,,"",""
+ball,1,7.5,Queensland,HD Weibgen,JJ Peirson,L Scott,1,0,,,,,,"",""
+ball,1,7.6,Queensland,JJ Peirson,HD Weibgen,L Scott,4,0,,,,,,"",""
+ball,1,8.1,Queensland,HD Weibgen,JJ Peirson,WA Agar,0,0,,,,,,"",""
+ball,1,8.2,Queensland,HD Weibgen,JJ Peirson,WA Agar,0,1,1,,,,,"",""
+ball,1,8.3,Queensland,HD Weibgen,JJ Peirson,WA Agar,6,0,,,,,,"",""
+ball,1,8.4,Queensland,HD Weibgen,JJ Peirson,WA Agar,0,0,,,,,,"",""
+ball,1,8.5,Queensland,HD Weibgen,JJ Peirson,WA Agar,0,0,,,,,,"",""
+ball,1,8.6,Queensland,HD Weibgen,JJ Peirson,WA Agar,0,1,1,,,,,"",""
+ball,1,8.7,Queensland,HD Weibgen,JJ Peirson,WA Agar,1,0,,,,,,"",""
+ball,1,8.8,Queensland,JJ Peirson,HD Weibgen,NA McSweeney,1,0,,,,,,"",""
+ball,1,9.1,Queensland,JJ Peirson,HD Weibgen,L Scott,0,0,,,,,,"",""
+ball,1,9.2,Queensland,JJ Peirson,HD Weibgen,L Scott,1,0,,,,,,"",""
+ball,1,9.3,Queensland,HD Weibgen,JJ Peirson,L Scott,0,0,,,,,,"",""
+ball,1,9.4,Queensland,HD Weibgen,JJ Peirson,L Scott,0,0,,,,,,"",""
+ball,1,9.5,Queensland,HD Weibgen,JJ Peirson,L Scott,4,0,,,,,,"",""
+ball,1,9.6,Queensland,HD Weibgen,JJ Peirson,L Scott,0,0,,,,,,bowled,HD Weibgen
+ball,1,10.1,Queensland,JJ Peirson,LD Hearne,L Pope,0,0,,,,,,"",""
+ball,1,10.2,Queensland,JJ Peirson,LD Hearne,L Pope,1,0,,,,,,"",""
+ball,1,10.3,Queensland,LD Hearne,JJ Peirson,L Pope,1,0,,,,,,"",""
+ball,1,10.4,Queensland,JJ Peirson,LD Hearne,L Pope,6,0,,,,,,"",""
+ball,1,10.5,Queensland,JJ Peirson,LD Hearne,L Pope,6,0,,,,,,"",""
+ball,1,10.6,Queensland,JJ Peirson,LD Hearne,L Pope,1,0,,,,,,"",""
+ball,1,11.1,Queensland,JJ Peirson,LD Hearne,NA McSweeney,1,0,,,,,,"",""
+ball,1,11.2,Queensland,LD Hearne,JJ Peirson,NA McSweeney,0,0,,,,,,caught,LD Hearne
+ball,1,11.3,Queensland,M Bryant,JJ Peirson,NA McSweeney,0,0,,,,,,"",""
+ball,1,11.4,Queensland,M Bryant,JJ Peirson,NA McSweeney,0,0,,,,,,"",""
+ball,1,11.5,Queensland,M Bryant,JJ Peirson,NA McSweeney,0,0,,,,,,"",""
+ball,1,11.6,Queensland,M Bryant,JJ Peirson,NA McSweeney,0,0,,,,,,"",""
+ball,1,12.1,Queensland,JJ Peirson,M Bryant,L Scott,1,0,,,,,,"",""
+ball,1,12.2,Queensland,M Bryant,JJ Peirson,L Scott,1,0,,,,,,"",""
+ball,1,12.3,Queensland,JJ Peirson,M Bryant,L Scott,0,0,,,,,,bowled,JJ Peirson
+ball,1,12.4,Queensland,H Kerr,M Bryant,L Scott,0,0,,,,,,"",""
+ball,1,12.5,Queensland,H Kerr,M Bryant,L Scott,3,0,,,,,,"",""
+ball,1,12.6,Queensland,M Bryant,H Kerr,L Scott,1,0,,,,,,"",""
+ball,1,13.1,Queensland,M Bryant,H Kerr,L Pope,1,0,,,,,,"",""
+ball,1,13.2,Queensland,H Kerr,M Bryant,L Pope,0,1,,,,1,,"",""
+ball,1,13.3,Queensland,M Bryant,H Kerr,L Pope,1,0,,,,,,"",""
+ball,1,13.4,Queensland,H Kerr,M Bryant,L Pope,0,0,,,,,,"",""
+ball,1,13.5,Queensland,H Kerr,M Bryant,L Pope,0,0,,,,,,"",""
+ball,1,13.6,Queensland,H Kerr,M Bryant,L Pope,0,0,,,,,,"",""
+ball,1,14.1,Queensland,M Bryant,H Kerr,N McAndrew,1,0,,,,,,"",""
+ball,1,14.2,Queensland,H Kerr,M Bryant,N McAndrew,0,0,,,,,,"",""
+ball,1,14.3,Queensland,H Kerr,M Bryant,N McAndrew,0,0,,,,,,"",""
+ball,1,14.4,Queensland,H Kerr,M Bryant,N McAndrew,0,0,,,,,,"",""
+ball,1,14.5,Queensland,H Kerr,M Bryant,N McAndrew,0,0,,,,,,"",""
+ball,1,14.6,Queensland,H Kerr,M Bryant,N McAndrew,1,0,,,,,,"",""
+ball,1,15.1,Queensland,H Kerr,M Bryant,NA McSweeney,0,0,,,,,,caught and bowled,H Kerr
+ball,1,15.2,Queensland,JJ Bazley,M Bryant,NA McSweeney,0,0,,,,,,"",""
+ball,1,15.3,Queensland,JJ Bazley,M Bryant,NA McSweeney,1,0,,,,,,"",""
+ball,1,15.4,Queensland,M Bryant,JJ Bazley,NA McSweeney,0,0,,,,,,"",""
+ball,1,15.5,Queensland,M Bryant,JJ Bazley,NA McSweeney,1,0,,,,,,"",""
+ball,1,15.6,Queensland,JJ Bazley,M Bryant,NA McSweeney,1,0,,,,,,"",""
+ball,1,16.1,Queensland,JJ Bazley,M Bryant,HTRY Thornton,0,1,1,,,,,"",""
+ball,1,16.2,Queensland,JJ Bazley,M Bryant,HTRY Thornton,0,0,,,,,,"",""
+ball,1,16.3,Queensland,JJ Bazley,M Bryant,HTRY Thornton,1,0,,,,,,"",""
+ball,1,16.4,Queensland,M Bryant,JJ Bazley,HTRY Thornton,1,0,,,,,,"",""
+ball,1,16.5,Queensland,JJ Bazley,M Bryant,HTRY Thornton,1,0,,,,,,"",""
+ball,1,16.6,Queensland,M Bryant,JJ Bazley,HTRY Thornton,1,0,,,,,,"",""
+ball,1,16.7,Queensland,JJ Bazley,M Bryant,HTRY Thornton,1,0,,,,,,"",""
+ball,1,17.1,Queensland,JJ Bazley,M Bryant,L Pope,1,0,,,,,,"",""
+ball,1,17.2,Queensland,M Bryant,JJ Bazley,L Pope,1,0,,,,,,"",""
+ball,1,17.3,Queensland,JJ Bazley,M Bryant,L Pope,1,0,,,,,,"",""
+ball,1,17.4,Queensland,M Bryant,JJ Bazley,L Pope,1,0,,,,,,"",""
+ball,1,17.5,Queensland,JJ Bazley,M Bryant,L Pope,0,0,,,,,,"",""
+ball,1,17.6,Queensland,JJ Bazley,M Bryant,L Pope,1,0,,,,,,"",""
+ball,1,18.1,Queensland,JJ Bazley,M Bryant,L Scott,4,0,,,,,,"",""
+ball,1,18.2,Queensland,JJ Bazley,M Bryant,L Scott,0,0,,,,,,"",""
+ball,1,18.3,Queensland,JJ Bazley,M Bryant,L Scott,0,0,,,,,,"",""
+ball,1,18.4,Queensland,JJ Bazley,M Bryant,L Scott,1,0,,,,,,"",""
+ball,1,18.5,Queensland,M Bryant,JJ Bazley,L Scott,0,0,,,,,,"",""
+ball,1,18.6,Queensland,M Bryant,JJ Bazley,L Scott,1,0,,,,,,"",""
+ball,1,19.1,Queensland,M Bryant,JJ Bazley,L Pope,0,0,,,,,,caught,M Bryant
+ball,1,19.2,Queensland,MT Steketee,JJ Bazley,L Pope,1,0,,,,,,"",""
+ball,1,19.3,Queensland,JJ Bazley,MT Steketee,L Pope,0,0,,,,,,"",""
+ball,1,19.4,Queensland,JJ Bazley,MT Steketee,L Pope,0,0,,,,,,"",""
+ball,1,19.5,Queensland,JJ Bazley,MT Steketee,L Pope,0,0,,,,,,"",""
+ball,1,19.6,Queensland,JJ Bazley,MT Steketee,L Pope,0,0,,,,,,"",""
+ball,1,20.1,Queensland,MT Steketee,JJ Bazley,HTRY Thornton,1,0,,,,,,"",""
+ball,1,20.2,Queensland,JJ Bazley,MT Steketee,HTRY Thornton,4,0,,,,,,"",""
+ball,1,20.3,Queensland,JJ Bazley,MT Steketee,HTRY Thornton,2,0,,,,,,"",""
+ball,1,20.4,Queensland,JJ Bazley,MT Steketee,HTRY Thornton,1,0,,,,,,"",""
+ball,1,20.5,Queensland,MT Steketee,JJ Bazley,HTRY Thornton,0,0,,,,,,"",""
+ball,1,20.6,Queensland,MT Steketee,JJ Bazley,HTRY Thornton,4,0,,,,,,"",""
+ball,1,21.1,Queensland,JJ Bazley,MT Steketee,NA McSweeney,3,0,,,,,,"",""
+ball,1,21.2,Queensland,MT Steketee,JJ Bazley,NA McSweeney,2,0,,,,,,"",""
+ball,1,21.3,Queensland,MT Steketee,JJ Bazley,NA McSweeney,1,0,,,,,,"",""
+ball,1,21.4,Queensland,JJ Bazley,MT Steketee,NA McSweeney,0,0,,,,,,caught,JJ Bazley
+ball,1,21.5,Queensland,MJ Swepson,MT Steketee,NA McSweeney,1,0,,,,,,"",""
+ball,1,21.6,Queensland,MT Steketee,MJ Swepson,NA McSweeney,0,0,,,,,,run out,MT Steketee
+ball,1,22.1,Queensland,BC Floros,MJ Swepson,L Scott,0,0,,,,,,"",""
+ball,1,22.2,Queensland,BC Floros,MJ Swepson,L Scott,0,0,,,,,,"",""
+ball,1,22.3,Queensland,BC Floros,MJ Swepson,L Scott,0,0,,,,,,"",""
+ball,1,22.4,Queensland,BC Floros,MJ Swepson,L Scott,1,0,,,,,,"",""
+ball,1,22.5,Queensland,MJ Swepson,BC Floros,L Scott,1,0,,,,,,"",""
+ball,1,22.6,Queensland,BC Floros,MJ Swepson,L Scott,1,0,,,,,,"",""
+ball,1,23.1,Queensland,BC Floros,MJ Swepson,L Pope,1,0,,,,,,"",""
+ball,1,23.2,Queensland,MJ Swepson,BC Floros,L Pope,1,0,,,,,,"",""
+ball,1,23.3,Queensland,BC Floros,MJ Swepson,L Pope,0,0,,,,,,"",""
+ball,1,23.4,Queensland,BC Floros,MJ Swepson,L Pope,2,0,,,,,,"",""
+ball,1,23.5,Queensland,BC Floros,MJ Swepson,L Pope,0,0,,,,,,bowled,BC Floros
+ball,2,0.1,South Australia,MW Harvey,J Fraser-McGurk,H Kerr,0,0,,,,,,"",""
+ball,2,0.2,South Australia,MW Harvey,J Fraser-McGurk,H Kerr,0,0,,,,,,"",""
+ball,2,0.3,South Australia,MW Harvey,J Fraser-McGurk,H Kerr,1,0,,,,,,"",""
+ball,2,0.4,South Australia,J Fraser-McGurk,MW Harvey,H Kerr,0,0,,,,,,"",""
+ball,2,0.5,South Australia,J Fraser-McGurk,MW Harvey,H Kerr,4,0,,,,,,"",""
+ball,2,0.6,South Australia,J Fraser-McGurk,MW Harvey,H Kerr,0,0,,,,,,"",""
+ball,2,1.1,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,0,0,,,,,,"",""
+ball,2,1.2,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,0,1,1,,,,,"",""
+ball,2,1.3,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,1,0,,,,,,"",""
+ball,2,1.4,South Australia,J Fraser-McGurk,MW Harvey,BC Floros,0,1,1,,,,,"",""
+ball,2,1.5,South Australia,J Fraser-McGurk,MW Harvey,BC Floros,1,0,,,,,,"",""
+ball,2,1.6,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,0,0,,,,,,"",""
+ball,2,1.7,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,0,1,1,,,,,"",""
+ball,2,1.8,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,0,0,,,,,,"",""
+ball,2,1.9,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,4,0,,,,,,"",""
+ball,2,2.1,South Australia,J Fraser-McGurk,MW Harvey,H Kerr,4,0,,,,,,"",""
+ball,2,2.2,South Australia,J Fraser-McGurk,MW Harvey,H Kerr,0,0,,,,,,"",""
+ball,2,2.3,South Australia,J Fraser-McGurk,MW Harvey,H Kerr,4,0,,,,,,"",""
+ball,2,2.4,South Australia,J Fraser-McGurk,MW Harvey,H Kerr,4,0,,,,,,"",""
+ball,2,2.5,South Australia,J Fraser-McGurk,MW Harvey,H Kerr,0,0,,,,,,"",""
+ball,2,2.6,South Australia,J Fraser-McGurk,MW Harvey,H Kerr,1,0,,,,,,"",""
+ball,2,3.1,South Australia,J Fraser-McGurk,MW Harvey,BC Floros,4,0,,,,,,"",""
+ball,2,3.2,South Australia,J Fraser-McGurk,MW Harvey,BC Floros,4,0,,,,,,"",""
+ball,2,3.3,South Australia,J Fraser-McGurk,MW Harvey,BC Floros,1,0,,,,,,"",""
+ball,2,3.4,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,6,0,,,,,,"",""
+ball,2,3.5,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,0,0,,,,,,"",""
+ball,2,3.6,South Australia,MW Harvey,J Fraser-McGurk,BC Floros,0,0,,,,,,"",""
+ball,2,4.1,South Australia,J Fraser-McGurk,MW Harvey,JJ Bazley,0,0,,,,,,bowled,J Fraser-McGurk
+ball,2,4.2,South Australia,NA McSweeney,MW Harvey,JJ Bazley,1,0,,,,,,"",""
+ball,2,4.3,South Australia,MW Harvey,NA McSweeney,JJ Bazley,0,0,,,,,,"",""
+ball,2,4.4,South Australia,MW Harvey,NA McSweeney,JJ Bazley,0,0,,,,,,"",""
+ball,2,4.5,South Australia,MW Harvey,NA McSweeney,JJ Bazley,4,0,,,,,,"",""
+ball,2,4.6,South Australia,MW Harvey,NA McSweeney,JJ Bazley,1,0,,,,,,"",""
+ball,2,5.1,South Australia,MW Harvey,NA McSweeney,BC Floros,1,0,,,,,,"",""
+ball,2,5.2,South Australia,NA McSweeney,MW Harvey,BC Floros,0,0,,,,,,"",""
+ball,2,5.3,South Australia,NA McSweeney,MW Harvey,BC Floros,0,0,,,,,,"",""
+ball,2,5.4,South Australia,NA McSweeney,MW Harvey,BC Floros,0,1,1,,,,,"",""
+ball,2,5.5,South Australia,NA McSweeney,MW Harvey,BC Floros,0,0,,,,,,"",""
+ball,2,5.6,South Australia,NA McSweeney,MW Harvey,BC Floros,4,0,,,,,,"",""
+ball,2,5.7,South Australia,NA McSweeney,MW Harvey,BC Floros,0,0,,,,,,"",""
+ball,2,6.1,South Australia,MW Harvey,NA McSweeney,JJ Bazley,0,0,,,,,,"",""
+ball,2,6.2,South Australia,MW Harvey,NA McSweeney,JJ Bazley,0,0,,,,,,"",""
+ball,2,6.3,South Australia,MW Harvey,NA McSweeney,JJ Bazley,2,0,,,,,,"",""
+ball,2,6.4,South Australia,MW Harvey,NA McSweeney,JJ Bazley,1,0,,,,,,"",""
+ball,2,6.5,South Australia,NA McSweeney,MW Harvey,JJ Bazley,4,0,,,,,,"",""
+ball,2,6.6,South Australia,NA McSweeney,MW Harvey,JJ Bazley,0,0,,,,,,"",""
+ball,2,7.1,South Australia,MW Harvey,NA McSweeney,H Kerr,0,0,,,,,,"",""
+ball,2,7.2,South Australia,MW Harvey,NA McSweeney,H Kerr,0,0,,,,,,"",""
+ball,2,7.3,South Australia,MW Harvey,NA McSweeney,H Kerr,0,0,,,,,,"",""
+ball,2,7.4,South Australia,MW Harvey,NA McSweeney,H Kerr,4,0,,,,,,"",""
+ball,2,7.5,South Australia,MW Harvey,NA McSweeney,H Kerr,1,0,,,,,,"",""
+ball,2,7.6,South Australia,NA McSweeney,MW Harvey,H Kerr,4,0,,,,,,"",""
+ball,2,8.1,South Australia,MW Harvey,NA McSweeney,JJ Bazley,0,0,,,,,,"",""
+ball,2,8.2,South Australia,MW Harvey,NA McSweeney,JJ Bazley,1,0,,,,,,"",""
+ball,2,8.3,South Australia,NA McSweeney,MW Harvey,JJ Bazley,0,0,,,,,,"",""
+ball,2,8.4,South Australia,NA McSweeney,MW Harvey,JJ Bazley,0,0,,,,,,"",""
+ball,2,8.5,South Australia,NA McSweeney,MW Harvey,JJ Bazley,0,0,,,,,,"",""
+ball,2,8.6,South Australia,NA McSweeney,MW Harvey,JJ Bazley,1,0,,,,,,"",""
+ball,2,9.1,South Australia,NA McSweeney,MW Harvey,BC Floros,0,0,,,,,,"",""
+ball,2,9.2,South Australia,NA McSweeney,MW Harvey,BC Floros,0,1,1,,,,,"",""
+ball,2,9.3,South Australia,NA McSweeney,MW Harvey,BC Floros,0,0,,,,,,"",""
+ball,2,9.4,South Australia,NA McSweeney,MW Harvey,BC Floros,0,0,,,,,,"",""
+ball,2,9.5,South Australia,NA McSweeney,MW Harvey,BC Floros,4,0,,,,,,"",""
+ball,2,9.6,South Australia,NA McSweeney,MW Harvey,BC Floros,1,0,,,,,,"",""
+ball,2,9.7,South Australia,MW Harvey,NA McSweeney,BC Floros,1,0,,,,,,"",""
+ball,2,10.1,South Australia,MW Harvey,NA McSweeney,JJ Bazley,0,0,,,,,,"",""
+ball,2,10.2,South Australia,MW Harvey,NA McSweeney,JJ Bazley,0,0,,,,,,"",""
+ball,2,10.3,South Australia,MW Harvey,NA McSweeney,JJ Bazley,0,0,,,,,,"",""
+ball,2,10.4,South Australia,MW Harvey,NA McSweeney,JJ Bazley,1,0,,,,,,"",""
+ball,2,10.5,South Australia,NA McSweeney,MW Harvey,JJ Bazley,1,0,,,,,,"",""
+ball,2,10.6,South Australia,MW Harvey,NA McSweeney,JJ Bazley,1,0,,,,,,"",""
+ball,2,11.1,South Australia,MW Harvey,NA McSweeney,MJ Swepson,0,0,,,,,,"",""
+ball,2,11.2,South Australia,MW Harvey,NA McSweeney,MJ Swepson,0,0,,,,,,"",""
+ball,2,11.3,South Australia,MW Harvey,NA McSweeney,MJ Swepson,1,0,,,,,,"",""
+ball,2,11.4,South Australia,NA McSweeney,MW Harvey,MJ Swepson,1,0,,,,,,"",""
+ball,2,11.5,South Australia,MW Harvey,NA McSweeney,MJ Swepson,4,0,,,,,,"",""
+ball,2,11.6,South Australia,MW Harvey,NA McSweeney,MJ Swepson,0,0,,,,,,"",""
+ball,2,12.1,South Australia,NA McSweeney,MW Harvey,HD Weibgen,0,0,,,,,,"",""
+ball,2,12.2,South Australia,NA McSweeney,MW Harvey,HD Weibgen,4,0,,,,,,"",""
+ball,2,12.3,South Australia,NA McSweeney,MW Harvey,HD Weibgen,1,0,,,,,,"",""
+ball,2,12.4,South Australia,MW Harvey,NA McSweeney,HD Weibgen,1,0,,,,,,"",""
+ball,2,12.5,South Australia,NA McSweeney,MW Harvey,HD Weibgen,1,0,,,,,,"",""
+ball,2,12.6,South Australia,MW Harvey,NA McSweeney,HD Weibgen,0,0,,,,,,"",""
+ball,2,13.1,South Australia,NA McSweeney,MW Harvey,MJ Swepson,0,0,,,,,,"",""
+ball,2,13.2,South Australia,NA McSweeney,MW Harvey,MJ Swepson,3,0,,,,,,"",""
+ball,2,13.3,South Australia,MW Harvey,NA McSweeney,MJ Swepson,0,0,,,,,,"",""
+ball,2,13.4,South Australia,MW Harvey,NA McSweeney,MJ Swepson,0,0,,,,,,"",""
+ball,2,13.5,South Australia,MW Harvey,NA McSweeney,MJ Swepson,0,0,,,,,,"",""
+ball,2,13.6,South Australia,MW Harvey,NA McSweeney,MJ Swepson,0,0,,,,,,"",""
+ball,2,14.1,South Australia,NA McSweeney,MW Harvey,H Kerr,0,0,,,,,,"",""
+ball,2,14.2,South Australia,NA McSweeney,MW Harvey,H Kerr,1,0,,,,,,"",""
+ball,2,14.3,South Australia,MW Harvey,NA McSweeney,H Kerr,4,0,,,,,,"",""
+ball,2,14.4,South Australia,MW Harvey,NA McSweeney,H Kerr,1,0,,,,,,"",""
+ball,2,14.5,South Australia,NA McSweeney,MW Harvey,H Kerr,1,0,,,,,,"",""
+ball,2,14.6,South Australia,MW Harvey,NA McSweeney,H Kerr,0,0,,,,,,"",""
+ball,2,15.1,South Australia,NA McSweeney,MW Harvey,MJ Swepson,0,0,,,,,,"",""
+ball,2,15.2,South Australia,NA McSweeney,MW Harvey,MJ Swepson,0,0,,,,,,"",""
+ball,2,15.3,South Australia,NA McSweeney,MW Harvey,MJ Swepson,0,0,,,,,,"",""
+ball,2,15.4,South Australia,NA McSweeney,MW Harvey,MJ Swepson,0,0,,,,,,"",""
+ball,2,15.5,South Australia,NA McSweeney,MW Harvey,MJ Swepson,1,0,,,,,,"",""
+ball,2,15.6,South Australia,MW Harvey,NA McSweeney,MJ Swepson,1,0,,,,,,"",""
+ball,2,16.1,South Australia,MW Harvey,NA McSweeney,HD Weibgen,1,0,,,,,,"",""
+ball,2,16.2,South Australia,NA McSweeney,MW Harvey,HD Weibgen,2,0,,,,,,"",""
+ball,2,16.3,South Australia,NA McSweeney,MW Harvey,HD Weibgen,1,0,,,,,,"",""
+ball,2,16.4,South Australia,MW Harvey,NA McSweeney,HD Weibgen,4,0,,,,,,"",""
+ball,2,16.5,South Australia,MW Harvey,NA McSweeney,HD Weibgen,1,0,,,,,,"",""
+ball,2,16.6,South Australia,NA McSweeney,MW Harvey,HD Weibgen,2,0,,,,,,"",""
+ball,2,17.1,South Australia,MW Harvey,NA McSweeney,MJ Swepson,4,0,,,,,,"",""

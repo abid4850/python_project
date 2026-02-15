@@ -1,0 +1,282 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,MI New York
+info,team,Los Angeles Knight Riders
+info,gender,male
+info,season,2023
+info,date,2023/07/16
+info,event,Major League Cricket
+info,match_number,6
+info,venue,Grand Prairie Stadium
+info,city,Dallas
+info,toss_winner,MI New York
+info,toss_decision,bat
+info,player_of_match,TH David
+info,umpire,Aleem Dar
+info,umpire,BV Taylor
+info,reserve_umpire,O Brown
+info,tv_umpire,WR Knights
+info,match_referee,Reon King
+info,winner,MI New York
+info,winner_runs,105
+info,player,MI New York,D Brevis
+info,player,MI New York,Shayan Jahangir
+info,player,MI New York,MD Patel
+info,player,MI New York,Hammad Azam
+info,player,MI New York,N Pooran
+info,player,MI New York,KA Pollard
+info,player,MI New York,TH David
+info,player,MI New York,K Rabada
+info,player,MI New York,NP Kenjige
+info,player,MI New York,TA Boult
+info,player,MI New York,Ehsan Adil
+info,player,Los Angeles Knight Riders,MJ Guptill
+info,player,Los Angeles Knight Riders,UBT Chand
+info,player,Los Angeles Knight Riders,RR Rossouw
+info,player,Los Angeles Knight Riders,NR Kumar
+info,player,Los Angeles Knight Riders,JS Malhotra
+info,player,Los Angeles Knight Riders,AD Russell
+info,player,Los Angeles Knight Riders,SP Narine
+info,player,Los Angeles Knight Riders,CA Dry
+info,player,Los Angeles Knight Riders,A Zampa
+info,player,Los Angeles Knight Riders,Ali Khan
+info,player,Los Angeles Knight Riders,LH Ferguson
+info,registry,people,A Zampa,14f96089
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,BV Taylor,99760152
+info,registry,people,CA Dry,7bc29ffb
+info,registry,people,D Brevis,844e79d1
+info,registry,people,Ehsan Adil,210b05cb
+info,registry,people,Hammad Azam,57bd3ecc
+info,registry,people,JS Malhotra,9633359f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,O Brown,22fe51d7
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,WR Knights,63cbf8d8
+ball,1,0.1,MI New York,D Brevis,Shayan Jahangir,LH Ferguson,4,0,,,,,,"",""
+ball,1,0.2,MI New York,D Brevis,Shayan Jahangir,LH Ferguson,0,4,,,,4,,"",""
+ball,1,0.3,MI New York,D Brevis,Shayan Jahangir,LH Ferguson,0,0,,,,,,"",""
+ball,1,0.4,MI New York,D Brevis,Shayan Jahangir,LH Ferguson,6,0,,,,,,"",""
+ball,1,0.5,MI New York,D Brevis,Shayan Jahangir,LH Ferguson,1,0,,,,,,"",""
+ball,1,0.6,MI New York,Shayan Jahangir,D Brevis,LH Ferguson,0,1,,,,1,,"",""
+ball,1,1.1,MI New York,Shayan Jahangir,D Brevis,Ali Khan,0,0,,,,,,"",""
+ball,1,1.2,MI New York,Shayan Jahangir,D Brevis,Ali Khan,0,0,,,,,,"",""
+ball,1,1.3,MI New York,Shayan Jahangir,D Brevis,Ali Khan,0,0,,,,,,"",""
+ball,1,1.4,MI New York,Shayan Jahangir,D Brevis,Ali Khan,0,1,1,,,,,"",""
+ball,1,1.5,MI New York,Shayan Jahangir,D Brevis,Ali Khan,2,0,,,,,,"",""
+ball,1,1.6,MI New York,Shayan Jahangir,D Brevis,Ali Khan,1,0,,,,,,"",""
+ball,1,1.7,MI New York,D Brevis,Shayan Jahangir,Ali Khan,4,0,,,,,,"",""
+ball,1,2.1,MI New York,Shayan Jahangir,D Brevis,CA Dry,1,0,,,,,,"",""
+ball,1,2.2,MI New York,D Brevis,Shayan Jahangir,CA Dry,0,0,,,,,,lbw,D Brevis
+ball,1,2.3,MI New York,MD Patel,Shayan Jahangir,CA Dry,0,0,,,,,,"",""
+ball,1,2.4,MI New York,MD Patel,Shayan Jahangir,CA Dry,0,0,,,,,,"",""
+ball,1,2.5,MI New York,MD Patel,Shayan Jahangir,CA Dry,2,0,,,,,,"",""
+ball,1,2.6,MI New York,MD Patel,Shayan Jahangir,CA Dry,0,0,,,,,,"",""
+ball,1,3.1,MI New York,Shayan Jahangir,MD Patel,Ali Khan,0,0,,,,,,bowled,Shayan Jahangir
+ball,1,3.2,MI New York,Hammad Azam,MD Patel,Ali Khan,0,0,,,,,,"",""
+ball,1,3.3,MI New York,Hammad Azam,MD Patel,Ali Khan,0,0,,,,,,"",""
+ball,1,3.4,MI New York,Hammad Azam,MD Patel,Ali Khan,4,0,,,,,,"",""
+ball,1,3.5,MI New York,Hammad Azam,MD Patel,Ali Khan,0,4,,,,4,,"",""
+ball,1,3.6,MI New York,Hammad Azam,MD Patel,Ali Khan,0,0,,,,,,"",""
+ball,1,4.1,MI New York,MD Patel,Hammad Azam,CA Dry,2,0,,,,,,"",""
+ball,1,4.2,MI New York,MD Patel,Hammad Azam,CA Dry,0,0,,,,,,"",""
+ball,1,4.3,MI New York,MD Patel,Hammad Azam,CA Dry,0,0,,,,,,caught,MD Patel
+ball,1,4.4,MI New York,N Pooran,Hammad Azam,CA Dry,0,0,,,,,,"",""
+ball,1,4.5,MI New York,N Pooran,Hammad Azam,CA Dry,4,0,,,,,,"",""
+ball,1,4.6,MI New York,N Pooran,Hammad Azam,CA Dry,1,0,,,,,,"",""
+ball,1,5.1,MI New York,N Pooran,Hammad Azam,LH Ferguson,0,0,,,,,,"",""
+ball,1,5.2,MI New York,N Pooran,Hammad Azam,LH Ferguson,0,0,,,,,,"",""
+ball,1,5.3,MI New York,N Pooran,Hammad Azam,LH Ferguson,1,0,,,,,,"",""
+ball,1,5.4,MI New York,Hammad Azam,N Pooran,LH Ferguson,0,0,,,,,,"",""
+ball,1,5.5,MI New York,Hammad Azam,N Pooran,LH Ferguson,0,0,,,,,,"",""
+ball,1,5.6,MI New York,Hammad Azam,N Pooran,LH Ferguson,0,0,,,,,,"",""
+ball,1,6.1,MI New York,N Pooran,Hammad Azam,A Zampa,0,1,,,,1,,"",""
+ball,1,6.2,MI New York,Hammad Azam,N Pooran,A Zampa,1,0,,,,,,"",""
+ball,1,6.3,MI New York,N Pooran,Hammad Azam,A Zampa,1,0,,,,,,"",""
+ball,1,6.4,MI New York,Hammad Azam,N Pooran,A Zampa,0,0,,,,,,"",""
+ball,1,6.5,MI New York,Hammad Azam,N Pooran,A Zampa,1,0,,,,,,"",""
+ball,1,6.6,MI New York,N Pooran,Hammad Azam,A Zampa,2,0,,,,,,"",""
+ball,1,7.1,MI New York,Hammad Azam,N Pooran,SP Narine,1,0,,,,,,"",""
+ball,1,7.2,MI New York,N Pooran,Hammad Azam,SP Narine,0,0,,,,,,"",""
+ball,1,7.3,MI New York,N Pooran,Hammad Azam,SP Narine,1,0,,,,,,"",""
+ball,1,7.4,MI New York,Hammad Azam,N Pooran,SP Narine,0,0,,,,,,"",""
+ball,1,7.5,MI New York,Hammad Azam,N Pooran,SP Narine,0,0,,,,,,"",""
+ball,1,7.6,MI New York,Hammad Azam,N Pooran,SP Narine,0,0,,,,,,"",""
+ball,1,8.1,MI New York,N Pooran,Hammad Azam,A Zampa,1,0,,,,,,"",""
+ball,1,8.2,MI New York,Hammad Azam,N Pooran,A Zampa,1,0,,,,,,"",""
+ball,1,8.3,MI New York,N Pooran,Hammad Azam,A Zampa,1,0,,,,,,"",""
+ball,1,8.4,MI New York,Hammad Azam,N Pooran,A Zampa,0,0,,,,,,lbw,Hammad Azam
+ball,1,8.5,MI New York,KA Pollard,N Pooran,A Zampa,0,0,,,,,,"",""
+ball,1,8.6,MI New York,KA Pollard,N Pooran,A Zampa,0,5,5,,,,,"",""
+ball,1,8.7,MI New York,KA Pollard,N Pooran,A Zampa,0,0,,,,,,"",""
+ball,1,9.1,MI New York,N Pooran,KA Pollard,SP Narine,0,0,,,,,,"",""
+ball,1,9.2,MI New York,N Pooran,KA Pollard,SP Narine,2,0,,,,,,"",""
+ball,1,9.3,MI New York,N Pooran,KA Pollard,SP Narine,1,0,,,,,,"",""
+ball,1,9.4,MI New York,KA Pollard,N Pooran,SP Narine,1,0,,,,,,"",""
+ball,1,9.5,MI New York,N Pooran,KA Pollard,SP Narine,0,0,,,,,,"",""
+ball,1,9.6,MI New York,N Pooran,KA Pollard,SP Narine,0,0,,,,,,"",""
+ball,1,10.1,MI New York,KA Pollard,N Pooran,A Zampa,1,0,,,,,,"",""
+ball,1,10.2,MI New York,N Pooran,KA Pollard,A Zampa,1,0,,,,,,"",""
+ball,1,10.3,MI New York,KA Pollard,N Pooran,A Zampa,0,0,,,,,,"",""
+ball,1,10.4,MI New York,KA Pollard,N Pooran,A Zampa,1,0,,,,,,"",""
+ball,1,10.5,MI New York,N Pooran,KA Pollard,A Zampa,6,0,,,,,,"",""
+ball,1,10.6,MI New York,N Pooran,KA Pollard,A Zampa,0,0,,,,,,"",""
+ball,1,11.1,MI New York,KA Pollard,N Pooran,SP Narine,1,0,,,,,,"",""
+ball,1,11.2,MI New York,N Pooran,KA Pollard,SP Narine,1,0,,,,,,"",""
+ball,1,11.3,MI New York,KA Pollard,N Pooran,SP Narine,1,0,,,,,,"",""
+ball,1,11.4,MI New York,N Pooran,KA Pollard,SP Narine,0,0,,,,,,"",""
+ball,1,11.5,MI New York,N Pooran,KA Pollard,SP Narine,0,0,,,,,,"",""
+ball,1,11.6,MI New York,N Pooran,KA Pollard,SP Narine,2,0,,,,,,"",""
+ball,1,12.1,MI New York,KA Pollard,N Pooran,A Zampa,0,0,,,,,,bowled,KA Pollard
+ball,1,12.2,MI New York,TH David,N Pooran,A Zampa,0,0,,,,,,"",""
+ball,1,12.3,MI New York,TH David,N Pooran,A Zampa,1,0,,,,,,"",""
+ball,1,12.4,MI New York,N Pooran,TH David,A Zampa,1,0,,,,,,"",""
+ball,1,12.5,MI New York,TH David,N Pooran,A Zampa,0,0,,,,,,"",""
+ball,1,12.6,MI New York,TH David,N Pooran,A Zampa,1,0,,,,,,"",""
+ball,1,13.1,MI New York,TH David,N Pooran,SP Narine,1,0,,,,,,"",""
+ball,1,13.2,MI New York,N Pooran,TH David,SP Narine,0,0,,,,,,"",""
+ball,1,13.3,MI New York,N Pooran,TH David,SP Narine,1,0,,,,,,"",""
+ball,1,13.4,MI New York,TH David,N Pooran,SP Narine,1,0,,,,,,"",""
+ball,1,13.5,MI New York,N Pooran,TH David,SP Narine,0,0,,,,,,"",""
+ball,1,13.6,MI New York,N Pooran,TH David,SP Narine,1,0,,,,,,"",""
+ball,1,14.1,MI New York,N Pooran,TH David,AD Russell,6,0,,,,,,"",""
+ball,1,14.2,MI New York,N Pooran,TH David,AD Russell,0,0,,,,,,"",""
+ball,1,14.3,MI New York,N Pooran,TH David,AD Russell,0,0,,,,,,"",""
+ball,1,14.4,MI New York,N Pooran,TH David,AD Russell,1,0,,,,,,"",""
+ball,1,14.5,MI New York,TH David,N Pooran,AD Russell,1,0,,,,,,"",""
+ball,1,14.6,MI New York,N Pooran,TH David,AD Russell,1,0,,,,,,"",""
+ball,1,15.1,MI New York,N Pooran,TH David,Ali Khan,2,0,,,,,,"",""
+ball,1,15.2,MI New York,N Pooran,TH David,Ali Khan,0,0,,,,,,caught,N Pooran
+ball,1,15.3,MI New York,K Rabada,TH David,Ali Khan,0,0,,,,,,"",""
+ball,1,15.4,MI New York,K Rabada,TH David,Ali Khan,0,1,1,,,,,"",""
+ball,1,15.5,MI New York,K Rabada,TH David,Ali Khan,0,0,,,,,,"",""
+ball,1,15.6,MI New York,K Rabada,TH David,Ali Khan,0,0,,,,,,"",""
+ball,1,15.7,MI New York,K Rabada,TH David,Ali Khan,1,0,,,,,,"",""
+ball,1,16.1,MI New York,K Rabada,TH David,LH Ferguson,0,0,,,,,,"",""
+ball,1,16.2,MI New York,K Rabada,TH David,LH Ferguson,0,0,,,,,,run out,K Rabada
+ball,1,16.3,MI New York,TH David,NP Kenjige,LH Ferguson,4,0,,,,,,"",""
+ball,1,16.4,MI New York,TH David,NP Kenjige,LH Ferguson,0,1,1,,,,,"",""
+ball,1,16.5,MI New York,TH David,NP Kenjige,LH Ferguson,0,1,1,,,,,"",""
+ball,1,16.6,MI New York,TH David,NP Kenjige,LH Ferguson,0,0,,,,,,"",""
+ball,1,16.7,MI New York,TH David,NP Kenjige,LH Ferguson,0,1,1,,,,,"",""
+ball,1,16.8,MI New York,TH David,NP Kenjige,LH Ferguson,0,0,,,,,,"",""
+ball,1,16.9,MI New York,TH David,NP Kenjige,LH Ferguson,4,0,,,,,,"",""
+ball,1,17.1,MI New York,NP Kenjige,TH David,Ali Khan,1,0,,,,,,"",""
+ball,1,17.2,MI New York,TH David,NP Kenjige,Ali Khan,2,0,,,,,,"",""
+ball,1,17.3,MI New York,TH David,NP Kenjige,Ali Khan,6,0,,,,,,"",""
+ball,1,17.4,MI New York,TH David,NP Kenjige,Ali Khan,1,0,,,,,,"",""
+ball,1,17.5,MI New York,NP Kenjige,TH David,Ali Khan,0,0,,,,,,"",""
+ball,1,17.6,MI New York,NP Kenjige,TH David,Ali Khan,0,1,1,,,,,"",""
+ball,1,17.7,MI New York,NP Kenjige,TH David,Ali Khan,1,0,,,,,,"",""
+ball,1,18.1,MI New York,NP Kenjige,TH David,LH Ferguson,0,0,,,,,,caught,NP Kenjige
+ball,1,18.2,MI New York,TA Boult,TH David,LH Ferguson,0,1,,,1,,,"",""
+ball,1,18.3,MI New York,TH David,TA Boult,LH Ferguson,0,0,,,,,,"",""
+ball,1,18.4,MI New York,TH David,TA Boult,LH Ferguson,6,0,,,,,,"",""
+ball,1,18.5,MI New York,TH David,TA Boult,LH Ferguson,4,0,,,,,,"",""
+ball,1,18.6,MI New York,TH David,TA Boult,LH Ferguson,4,0,,,,,,"",""
+ball,1,19.1,MI New York,TA Boult,TH David,AD Russell,6,0,,,,,,"",""
+ball,1,19.2,MI New York,TA Boult,TH David,AD Russell,0,0,,,,,,"",""
+ball,1,19.3,MI New York,TA Boult,TH David,AD Russell,1,0,,,,,,"",""
+ball,1,19.4,MI New York,TH David,TA Boult,AD Russell,6,0,,,,,,"",""
+ball,1,19.5,MI New York,TH David,TA Boult,AD Russell,6,0,,,,,,"",""
+ball,1,19.6,MI New York,TH David,TA Boult,AD Russell,0,1,,,1,,,"",""
+ball,2,0.1,Los Angeles Knight Riders,MJ Guptill,UBT Chand,NP Kenjige,0,0,,,,,,"",""
+ball,2,0.2,Los Angeles Knight Riders,MJ Guptill,UBT Chand,NP Kenjige,0,0,,,,,,"",""
+ball,2,0.3,Los Angeles Knight Riders,MJ Guptill,UBT Chand,NP Kenjige,0,0,,,,,,lbw,MJ Guptill
+ball,2,0.4,Los Angeles Knight Riders,RR Rossouw,UBT Chand,NP Kenjige,1,0,,,,,,"",""
+ball,2,0.5,Los Angeles Knight Riders,UBT Chand,RR Rossouw,NP Kenjige,0,0,,,,,,"",""
+ball,2,0.6,Los Angeles Knight Riders,UBT Chand,RR Rossouw,NP Kenjige,0,0,,,,,,"",""
+ball,2,1.1,Los Angeles Knight Riders,RR Rossouw,UBT Chand,TA Boult,0,0,,,,,,"",""
+ball,2,1.2,Los Angeles Knight Riders,RR Rossouw,UBT Chand,TA Boult,0,0,,,,,,"",""
+ball,2,1.3,Los Angeles Knight Riders,RR Rossouw,UBT Chand,TA Boult,0,0,,,,,,"",""
+ball,2,1.4,Los Angeles Knight Riders,RR Rossouw,UBT Chand,TA Boult,0,0,,,,,,"",""
+ball,2,1.5,Los Angeles Knight Riders,RR Rossouw,UBT Chand,TA Boult,1,0,,,,,,"",""
+ball,2,1.6,Los Angeles Knight Riders,UBT Chand,RR Rossouw,TA Boult,0,0,,,,,,"",""
+ball,2,2.1,Los Angeles Knight Riders,RR Rossouw,UBT Chand,K Rabada,0,0,,,,,,"",""
+ball,2,2.2,Los Angeles Knight Riders,RR Rossouw,UBT Chand,K Rabada,0,0,,,,,,caught,RR Rossouw
+ball,2,2.3,Los Angeles Knight Riders,NR Kumar,UBT Chand,K Rabada,0,0,,,,,,"",""
+ball,2,2.4,Los Angeles Knight Riders,NR Kumar,UBT Chand,K Rabada,0,0,,,,,,"",""
+ball,2,2.5,Los Angeles Knight Riders,NR Kumar,UBT Chand,K Rabada,0,0,,,,,,caught,NR Kumar
+ball,2,2.6,Los Angeles Knight Riders,JS Malhotra,UBT Chand,K Rabada,0,0,,,,,,"",""
+ball,2,3.1,Los Angeles Knight Riders,UBT Chand,JS Malhotra,TA Boult,0,1,1,,,,,"",""
+ball,2,3.2,Los Angeles Knight Riders,UBT Chand,JS Malhotra,TA Boult,4,0,,,,,,"",""
+ball,2,3.3,Los Angeles Knight Riders,UBT Chand,JS Malhotra,TA Boult,0,0,,,,,,"",""
+ball,2,3.4,Los Angeles Knight Riders,UBT Chand,JS Malhotra,TA Boult,0,0,,,,,,"",""
+ball,2,3.5,Los Angeles Knight Riders,UBT Chand,JS Malhotra,TA Boult,1,0,,,,,,"",""
+ball,2,3.6,Los Angeles Knight Riders,JS Malhotra,UBT Chand,TA Boult,0,0,,,,,,"",""
+ball,2,3.7,Los Angeles Knight Riders,JS Malhotra,UBT Chand,TA Boult,0,0,,,,,,"",""
+ball,2,4.1,Los Angeles Knight Riders,UBT Chand,JS Malhotra,K Rabada,2,0,,,,,,"",""
+ball,2,4.2,Los Angeles Knight Riders,UBT Chand,JS Malhotra,K Rabada,6,0,,,,,,"",""
+ball,2,4.3,Los Angeles Knight Riders,UBT Chand,JS Malhotra,K Rabada,1,0,,,,,,"",""
+ball,2,4.4,Los Angeles Knight Riders,JS Malhotra,UBT Chand,K Rabada,3,0,,,,,,"",""
+ball,2,4.5,Los Angeles Knight Riders,UBT Chand,JS Malhotra,K Rabada,1,0,,,,,,"",""
+ball,2,4.6,Los Angeles Knight Riders,JS Malhotra,UBT Chand,K Rabada,0,0,,,,,,"",""
+ball,2,5.1,Los Angeles Knight Riders,UBT Chand,JS Malhotra,Ehsan Adil,0,0,,,,,,"",""
+ball,2,5.2,Los Angeles Knight Riders,UBT Chand,JS Malhotra,Ehsan Adil,0,0,,,,,,"",""
+ball,2,5.3,Los Angeles Knight Riders,UBT Chand,JS Malhotra,Ehsan Adil,1,0,,,,,,"",""
+ball,2,5.4,Los Angeles Knight Riders,JS Malhotra,UBT Chand,Ehsan Adil,1,0,,,,,,"",""
+ball,2,5.5,Los Angeles Knight Riders,UBT Chand,JS Malhotra,Ehsan Adil,0,0,,,,,,"",""
+ball,2,5.6,Los Angeles Knight Riders,UBT Chand,JS Malhotra,Ehsan Adil,0,0,,,,,,"",""
+ball,2,6.1,Los Angeles Knight Riders,JS Malhotra,UBT Chand,NP Kenjige,1,0,,,,,,"",""
+ball,2,6.2,Los Angeles Knight Riders,UBT Chand,JS Malhotra,NP Kenjige,1,0,,,,,,"",""
+ball,2,6.3,Los Angeles Knight Riders,JS Malhotra,UBT Chand,NP Kenjige,0,0,,,,,,"",""
+ball,2,6.4,Los Angeles Knight Riders,JS Malhotra,UBT Chand,NP Kenjige,0,0,,,,,,"",""
+ball,2,6.5,Los Angeles Knight Riders,JS Malhotra,UBT Chand,NP Kenjige,0,0,,,,,,caught,JS Malhotra
+ball,2,6.6,Los Angeles Knight Riders,AD Russell,UBT Chand,NP Kenjige,0,0,,,,,,"",""
+ball,2,7.1,Los Angeles Knight Riders,UBT Chand,AD Russell,KA Pollard,0,0,,,,,,"",""
+ball,2,7.2,Los Angeles Knight Riders,UBT Chand,AD Russell,KA Pollard,0,0,,,,,,"",""
+ball,2,7.3,Los Angeles Knight Riders,UBT Chand,AD Russell,KA Pollard,1,0,,,,,,"",""
+ball,2,7.4,Los Angeles Knight Riders,AD Russell,UBT Chand,KA Pollard,1,0,,,,,,"",""
+ball,2,7.5,Los Angeles Knight Riders,UBT Chand,AD Russell,KA Pollard,4,0,,,,,,"",""
+ball,2,7.6,Los Angeles Knight Riders,UBT Chand,AD Russell,KA Pollard,1,0,,,,,,"",""
+ball,2,8.1,Los Angeles Knight Riders,UBT Chand,AD Russell,NP Kenjige,1,0,,,,,,"",""
+ball,2,8.2,Los Angeles Knight Riders,AD Russell,UBT Chand,NP Kenjige,0,0,,,,,,"",""
+ball,2,8.3,Los Angeles Knight Riders,AD Russell,UBT Chand,NP Kenjige,0,1,,,1,,,"",""
+ball,2,8.4,Los Angeles Knight Riders,UBT Chand,AD Russell,NP Kenjige,1,0,,,,,,"",""
+ball,2,8.5,Los Angeles Knight Riders,AD Russell,UBT Chand,NP Kenjige,1,0,,,,,,"",""
+ball,2,8.6,Los Angeles Knight Riders,UBT Chand,AD Russell,NP Kenjige,1,0,,,,,,"",""
+ball,2,9.1,Los Angeles Knight Riders,UBT Chand,AD Russell,KA Pollard,0,0,,,,,,caught,UBT Chand
+ball,2,9.2,Los Angeles Knight Riders,SP Narine,AD Russell,KA Pollard,0,1,1,,,,,"",""
+ball,2,9.3,Los Angeles Knight Riders,SP Narine,AD Russell,KA Pollard,0,0,,,,,,"",""
+ball,2,9.4,Los Angeles Knight Riders,SP Narine,AD Russell,KA Pollard,1,0,,,,,,"",""
+ball,2,9.5,Los Angeles Knight Riders,AD Russell,SP Narine,KA Pollard,0,0,,,,,,caught,AD Russell
+ball,2,9.6,Los Angeles Knight Riders,CA Dry,SP Narine,KA Pollard,0,0,,,,,,"",""
+ball,2,9.7,Los Angeles Knight Riders,CA Dry,SP Narine,KA Pollard,0,0,,,,,,"",""
+ball,2,10.1,Los Angeles Knight Riders,SP Narine,CA Dry,Ehsan Adil,1,0,,,,,,"",""
+ball,2,10.2,Los Angeles Knight Riders,CA Dry,SP Narine,Ehsan Adil,0,0,,,,,,"",""
+ball,2,10.3,Los Angeles Knight Riders,CA Dry,SP Narine,Ehsan Adil,0,0,,,,,,"",""
+ball,2,10.4,Los Angeles Knight Riders,CA Dry,SP Narine,Ehsan Adil,0,0,,,,,,lbw,CA Dry
+ball,2,10.5,Los Angeles Knight Riders,A Zampa,SP Narine,Ehsan Adil,1,0,,,,,,"",""
+ball,2,10.6,Los Angeles Knight Riders,SP Narine,A Zampa,Ehsan Adil,0,0,,,,,,caught,SP Narine
+ball,2,11.1,Los Angeles Knight Riders,A Zampa,Ali Khan,K Rabada,1,0,,,,,,"",""
+ball,2,11.2,Los Angeles Knight Riders,Ali Khan,A Zampa,K Rabada,0,0,,,,,,"",""
+ball,2,11.3,Los Angeles Knight Riders,Ali Khan,A Zampa,K Rabada,0,0,,,,,,"",""
+ball,2,11.4,Los Angeles Knight Riders,Ali Khan,A Zampa,K Rabada,0,0,,,,,,"",""
+ball,2,11.5,Los Angeles Knight Riders,Ali Khan,A Zampa,K Rabada,1,0,,,,,,"",""
+ball,2,11.6,Los Angeles Knight Riders,A Zampa,Ali Khan,K Rabada,1,0,,,,,,"",""
+ball,2,12.1,Los Angeles Knight Riders,A Zampa,Ali Khan,Ehsan Adil,1,0,,,,,,"",""
+ball,2,12.2,Los Angeles Knight Riders,Ali Khan,A Zampa,Ehsan Adil,0,0,,,,,,"",""
+ball,2,12.3,Los Angeles Knight Riders,Ali Khan,A Zampa,Ehsan Adil,1,0,,,,,,"",""
+ball,2,12.4,Los Angeles Knight Riders,A Zampa,Ali Khan,Ehsan Adil,0,0,,,,,,"",""
+ball,2,12.5,Los Angeles Knight Riders,A Zampa,Ali Khan,Ehsan Adil,1,0,,,,,,"",""
+ball,2,12.6,Los Angeles Knight Riders,Ali Khan,A Zampa,Ehsan Adil,0,0,,,,,,"",""
+ball,2,13.1,Los Angeles Knight Riders,A Zampa,Ali Khan,TA Boult,1,0,,,,,,"",""
+ball,2,13.2,Los Angeles Knight Riders,Ali Khan,A Zampa,TA Boult,0,0,,,,,,"",""
+ball,2,13.3,Los Angeles Knight Riders,Ali Khan,A Zampa,TA Boult,2,0,,,,,,"",""
+ball,2,13.4,Los Angeles Knight Riders,Ali Khan,A Zampa,TA Boult,0,0,,,,,,bowled,Ali Khan
+ball,2,13.5,Los Angeles Knight Riders,LH Ferguson,A Zampa,TA Boult,0,0,,,,,,caught,LH Ferguson
